@@ -1,33 +1,43 @@
 #!/usr/bin/env python3
 import argparse
-
 from chatterbot import ChatBot
 
 class Alan(ChatBot):
     def __init__(self):
+        from logic import MainLogicAdapter
 
-        logic = []
-
-        logic.append({'import_path': 'logic.Historic',
+        logic_adapters = []
+        logic_adapters.append({'import_path': 'logic.Historic',
                       'skill_description': "Je dis ça desfois..."})
-
-        logic.append({'import_path': 'logic.RelevantQuotation',
+        logic_adapters.append({'import_path': 'logic.RelevantQuotation',
                       'skill_description': "Je connais pas mal de citations\
                       et j'aime en sortir une quand ça a un rapport avec ce\
                       dont on discute."})
-
-        logic.append({'import_path': 'logic.RiveScriptAdapter',
+        logic_adapters.append({'import_path': 'logic.RiveScriptAdapter',
                       'skill_description': "C'est dans un scénario qu'on m'a\
                       demandé de suivre à la lettre."})
 
+        preprocessors = []
+        preprocessors.append('chatterbot.preprocessors.clean_whitespace')
+        preprocessors.append('chatterbot.preprocessors.convert_to_ascii')
+        preprocessors.append('preprocessors.add_speaker_data')
 
-        super().__init__("Alan",
-            storage_adapter='chatterbot.storage.SQLStorageAdapter',
-            input_adapter='chatterbot.input.TerminalAdapter',
-            output_adapter='chatterbot.output.TerminalAdapter',
-            database='./database.sqlite3',
-            logic_adapters=logic)
+        kwargs = {
+            'chatbot':self,
+            'preprocessors':preprocessors,
+            'storage_adapter':'chatterbot.storage.SQLStorageAdapter',
+            'input_adapter':'chatterbot.input.TerminalAdapter',
+            'output_adapter':'chatterbot.output.TerminalAdapter',
+            'database':'./database.sqlite3',
+            'logic_adapters':logic_adapters}
 
+        super().__init__("Alan", **kwargs)
+
+        adapters = self.logic.get_adapters()
+        self.logic = MainLogicAdapter(**kwargs)
+        for adapter in adapters:
+            self.logic.adapters.append(adapter)
+        self.logic.set_chatbot(self)
 
     def status(self):
         return "Alan v0.0.1 version ultra beta"
