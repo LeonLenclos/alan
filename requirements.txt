@@ -1,0 +1,3 @@
+ChatterBot==0.8.1
+nltk==3.2.5
+rivescript==1.14.9

@@ -1,43 +1,58 @@
 #!/usr/bin/env python3
+import argparse
+
 from chatterbot import ChatBot
 
 class Alan(ChatBot):
-    """docstring for Alan."""
     def __init__(self):
+
+        logic = []
+
+        logic.append({'import_path': 'logic.Historic',
+                      'skill_description': "Je dis ça desfois..."})
+
+        logic.append({'import_path': 'logic.RelevantQuotation',
+                      'skill_description': "Je connais pas mal de citations\
+                      et j'aime en sortir une quand ça a un rapport avec ce\
+                      dont on discute."})
+
+        logic.append({'import_path': 'logic.RiveScriptAdapter',
+                      'skill_description': "C'est dans un scénario qu'on m'a\
+                      demandé de suivre à la lettre."})
+
+
         super().__init__("Alan",
             storage_adapter='chatterbot.storage.SQLStorageAdapter',
             input_adapter='chatterbot.input.TerminalAdapter',
             output_adapter='chatterbot.output.TerminalAdapter',
-            database='./database.sqlite3')
+            database='./database.sqlite3',
+            logic_adapters=logic)
 
-        pass
 
     def status(self):
-        return "Alan v1.0.0 version ultra beta"
-
-    def talk(self, message):
-        if message == quit:
-            return "Ciao !\n[quit]"
-        else:
-            return self.get_response(message)
-            # return "Désolé je ne comprends rien à ce que tu me dis..."
+        return "Alan v0.0.1 version ultra beta"
 
 if __name__ == '__main__':
 
+    # enable logging (INFO) if alan is launched with the -v argument
+    ap = argparse.ArgumentParser()
+    ap.add_argument('-v', action='store_true', help="Verbose")
+    args = ap.parse_args()
+    if args.v:
+        import logging
+        logging.basicConfig(level=logging.INFO)
 
+    # init Alan
     alan = Alan()
 
-    print("■" * 70)
-    print(" Alan le robot trop cool ".center(70, "■"))
-    print("■" * 70)
+    # print Alan's status
+    print("---\n%s\n---" % alan.status())
 
-    print(alan.status())
-
+    # discussion loop
     while True:
         try:
-            message = alan.get_response(None)
-
+            print("> ", end="")
+            alan.get_response(None)
         except(KeyboardInterrupt, EOFError, SystemExit):
             break
-
-    print("■" * 70)
+    print("\n---\n")
