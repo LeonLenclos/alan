@@ -76,7 +76,7 @@ class RelevantQuotation(LogicAdapter):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
 
-        self.max_confidence = 1
+        self.max_confidence = 0
         self.skill_involved = ""
 
         # a list of QuotationIndex objects
@@ -98,7 +98,7 @@ class RelevantQuotation(LogicAdapter):
         #
         if reply == "...":
             confidence = 0
-        else: confidence = 1
+        else: confidence = self.max_confidence
         # Randomly select a confidence between 0 and 1
 
         selected_statement = Statement(reply)

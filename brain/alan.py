@@ -16,6 +16,8 @@ class Alan(ChatBot):
         logic_adapters.append({'import_path': 'logic.RiveScriptAdapter',
                       'skill_description': "C'est dans un scénario qu'on m'a\
                       demandé de suivre à la lettre."})
+        logic_adapters.append({'import_path': 'logic.Justification',
+                      'skill_description': "J'ai dis ça our me justifier..."})
 
         preprocessors = []
         preprocessors.append('chatterbot.preprocessors.clean_whitespace')
@@ -25,7 +27,7 @@ class Alan(ChatBot):
         kwargs = {
             'chatbot':self,
             'preprocessors':preprocessors,
-            'storage_adapter':'chatterbot.storage.SQLStorageAdapter',
+            'storage_adapter':'storage.AlanSQLStorageAdapter',
             'input_adapter':'chatterbot.input.TerminalAdapter',
             'output_adapter':'chatterbot.output.TerminalAdapter',
             'database':'./database.sqlite3',
