@@ -36,4 +36,36 @@ On uttilisera RiveScript pour la partie la plus scénarisée d'Alan.
 
 - [Tutoriel officiel](https://www.rivescript.com/docs/tutorial) : Apprendre la syntaxe RiveScript
 - [RiveScript playground](https://play.rivescript.com/) : Tester du code RiveScript en ligne
-- [rivescript-python](https://github.com/aichaos/rivescript-python) : Le module python uttilisé par le `RiveScriptAdapter` d'Alan
+- [rivescript-python](https://github.com/aichaos/rivescript-python) : Le module python utilisé par le `RiveScriptAdapter` d'Alan
+
+## architecture
+
+(en gros)
+
+### alan.py
+
+Le fichier qu'il faut lancer pour parler avec alan. On y défini alan et on lance la discussion.
+
+### settings.json
+
+Les réglages d'Alan pour son initialisation. Il y est surtout question de quels adapters il faut utiliser avec quels réglages.
+
+### logic/
+
+Un dossier contenant les logic_adapters d'Alan. contient aussi un `__init__.py` à tenir à jour.
+
+### quotes/
+
+Un dossier contenant des fichiers .txt utilisés par les RelevantQuotation
+
+### rive/
+
+Un dossier contenant des fichiers .rive utilisés par les RiveScriptAdapter
+
+### preprocessors.py
+
+Un fichier contenant des fonctions de type preprocessor
+
+### utils.py
+
+Un fichier contenant des fonctions de type utilitaires
