@@ -25,5 +25,5 @@ Le projet en est encore au début du développement. Néamoins, le Alan contenu 
 Pour lancer alan en mode verbeux
 
 ```
-  $ ./alan.py -v
+ $ ./alan.py -v
 ```
