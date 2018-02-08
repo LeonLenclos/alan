@@ -20,3 +20,10 @@ Le projet en est encore au début du développement. Néamoins, le Alan contenu 
   $ cd brain
   $ ./alan.py
   ```
+### mode verbeux
+
+Pour lancer alan en mode verbeux
+
+```
+  $ ./alan.py -v
+```
