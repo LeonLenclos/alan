@@ -67,7 +67,6 @@ class RelevantQuotation(LogicAdapter):
         # removing stopwords from the sentence
         words = remove_stopwords(word_tokenize(sentence.replace('\'', ' ')))
         # search for a quote sharing words with the sentence
-        print(sorted(words, key=len, reverse=True))
         for i, quote in enumerate(self.quotes):
             for w in sorted(words, key=len, reverse=True) :
                 if w in quote["words"]:
