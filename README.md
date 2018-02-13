@@ -20,6 +20,7 @@ Le projet en est encore au début du développement. Néamoins, le Alan contenu 
   $ python
   >>> import nltk
   >>> nltk.download("punkt")
+  >>> quit()
   $ cd brain
   $ ./alan.py
   ```
