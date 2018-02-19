@@ -1,14 +1,12 @@
 #!/usr/bin/env python3
-import argparse
-import json
-import chatterbot
+
+import argparse, json, chatterbot
 from logic import MainLogicAdapter
 
 class Alan(chatterbot.ChatBot):
     """Alan is a chatbot"""
 
     def __init__(self):
-
         # load settings
         with open("settings.json", "r") as file:
             settings = json.load(file);
@@ -25,6 +23,8 @@ class Alan(chatterbot.ChatBot):
         self.logger.info(self.status())
 
     def status(self):
+        """Return all you need to know about this instance of Alan"""
+        # TODO: the Alan.status method should return more informations...
         return "Alan v0"
 
 
