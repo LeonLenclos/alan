@@ -9,16 +9,21 @@ class RelevantQuotation(LogicAdapter):
     """This logic adapter search for good revelant quotations"""
 
     def __init__(self, **kwargs):
-        """A QuotationIndex must be initialized with :
-        - A string : path to the file containing the quotations
-        - A list of sentences that will give a context to the quotations
+        """Required kwarg :
 
-        the file containing the quotations must be plain text,
-        quotations are sentences (ends with a ponctuation sign)
+        quotation_file
+        A string. The path to the file containing the quotations.
+        The file containing the quotations must be plain text.
+        Quotations are sentences (ends with a punctuation sign)
 
-        the context sentences will be formated and may include :
-            - a specifier for the quotation : `%(quote)s`
-            - a specifier for the relevant word : `%(word)s`
+        Optional kwarg :
+
+        context
+        A list of strings. Default is '%(quote)s'
+        A list of sentences that will give a context to the quotations.
+        The context sentences will be formated and may include :
+        - A specifier for the quotation : `%(quote)s`
+        - A specifier for the relevant word : `%(word)s`
         e.g. "Speaking of %(word)s, do you know that Einstein said %(quote)s"
         """
 
