@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: Latin-1 -*-
 import argparse
 import json
 import chatterbot
