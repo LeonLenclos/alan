@@ -1,3 +1,4 @@
+from chatterbot.logic import LogicAdapter
 
 class AlanLogicAdapter(LogicAdapter):
     """AlanLogicAdapter is a superclass for Alan's logic adapters
