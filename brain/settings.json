@@ -1,12 +1,13 @@
 {
     "logic_adapters": [
         {
-            "skill_description": "Je dis ça desfois...",
+            "skill_description": ["Je dis ça desfois..."],
+            "max_confidence": 0.1,
             "import_path": "logic.Historic"
         },
         {
-            "skill_description": "Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute.",
-            "max_confidence": 0.4,
+            "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
+            "max_confidence": 0.5,
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./quotes/einstein.txt",
             "context": [
@@ -15,8 +16,8 @@
             ]
         },
         {
-            "skill_description": "Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute.",
-            "max_confidence": 0.9,
+            "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
+            "max_confidence": 0.5,
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./quotes/proverbs.txt",
             "context": [
@@ -26,12 +27,12 @@
             ]
         },
         {
-            "skill_description": "C'est juste de la politesse basique.",
+            "skill_description": ["C'est juste de la politesse basique."],
             "rive_file": "./rive/greetings.rive",
             "import_path": "logic.RiveScriptAdapter"
         },
         {
-            "skill_description": "C'était pour rire.",
+            "skill_description": ["C'était pour rire."],
             "rive_file": "./rive/jokes.rive",
             "import_path": "logic.RiveScriptAdapter"
         }

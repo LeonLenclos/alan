@@ -42,7 +42,7 @@ class AlanLogicAdapter(LogicAdapter):
         if type(self.skill_descriptions) != list:
             raise TypeError("skill_descriptions must be a list")
 
-    def constrain_confidence(self, confidence):
+    def constrain_confidence(self, confidence=1):
         """Return a value constrained between 0 and max_confidence.
         """
         if confidence > self.max_confidence:
@@ -51,7 +51,7 @@ class AlanLogicAdapter(LogicAdapter):
             return 0
         return confidence
 
-    def scale_confidence(self, confidence):
+    def get_confidence(self, confidence=1):
         """Return a value multiplied by confidence_coefficient (and constrained)
         """
         confidence *= self.confidence_coefficient

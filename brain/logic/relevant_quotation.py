@@ -1,11 +1,12 @@
 import random
 
 from nltk.tokenize import sent_tokenize, word_tokenize
-from chatterbot.logic import LogicAdapter
 from chatterbot.conversation import Statement
-from utils import remove_stopwords
 
-class RelevantQuotation(LogicAdapter):
+from utils import remove_stopwords
+from logic import AlanLogicAdapter
+
+class RelevantQuotation(AlanLogicAdapter):
     """This logic adapter search for good revelant quotations"""
 
     def __init__(self, **kwargs):
@@ -29,11 +30,8 @@ class RelevantQuotation(LogicAdapter):
 
         super().__init__(**kwargs)
 
-
-        self.max_confidence = kwargs.get('max_confidence', 1)
-        self.skill_description = kwargs.get('skill_description', None)
+        # getting context_sentences
         self.context_sentences = kwargs.get('context', '%(quote)s')
-
         try:
             quotations_file = kwargs['quotations_file']
         except KeyError:
@@ -64,7 +62,7 @@ class RelevantQuotation(LogicAdapter):
 
     def can_process(self, statement):
         """Take a sentence and tell if it can find a quotation"""
-        return self.get(statement.text, read_only=True) != "..."
+        return self.get(statement.text, read_only=True) != None
 
     def get(self, sentence, read_only=False):
         """Take a sentence (str) and return a revelant quotation (str)
@@ -85,18 +83,13 @@ class RelevantQuotation(LogicAdapter):
                     # return the quote in the context
                     return context % {"quote":quotation, "word":w}
         # if nothing is found :
-        return "..."
+        return None
 
     def process(self, statement):
 
         # choose randomly a QuotationIndex
         reply = self.get(statement.text)
-
-        #
-        if reply == "...":
-            confidence = 0
-        else: confidence = self.max_confidence
-        # Randomly select a confidence between 0 and 1
+        confidence = self.get_confidence()
 
         selected_statement = Statement(reply)
         selected_statement.confidence = confidence

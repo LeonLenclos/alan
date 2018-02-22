@@ -1,17 +1,17 @@
-from chatterbot.logic import LogicAdapter
 from chatterbot.conversation import Statement
 import rivescript
 
-class RiveScriptAdapter(LogicAdapter):
+from logic import AlanLogicAdapter
+
+class RiveScriptAdapter(AlanLogicAdapter):
     """This logic adapter is an interface to RiveScript
     The .rive files should be in the /rive directory"""
 
     def __init__(self, **kwargs):
         """take one kwarg : rive_file, the path to the .rive file"""
         super().__init__(**kwargs)
-        self.max_confidence = kwargs.get('max_confidence', 1)
-        self.skill_description = kwargs.get('skill_description', None)
 
+        # getting rive_file
         try:
             rive_file = kwargs['rive_file']
         except KeyError:
@@ -41,6 +41,6 @@ class RiveScriptAdapter(LogicAdapter):
         """Return a reply and a constant confidence"""
 
         statment_out = self.get(statement)
-        statment_out.confidence = self.max_confidence
+        statment_out.confidence = self.get_confidence()
 
         return statment_out
