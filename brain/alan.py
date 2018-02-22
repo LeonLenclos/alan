@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-
-import argparse, json, chatterbot
+# -*- coding: Latin-1 -*-
+import argparse
+import json
+import chatterbot
 from logic import MainLogicAdapter
 
 class Alan(chatterbot.ChatBot):

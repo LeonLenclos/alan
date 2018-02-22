@@ -17,6 +17,10 @@ Le projet en est encore au début du développement. Néamoins, le Alan contenu 
 
  ```
   $ pip install -r requirements.txt
+  $ python
+  >>> import nltk
+  >>> nltk.download("punkt")
+  >>> quit()
   $ cd brain
   $ ./alan.py
   ```
