@@ -61,8 +61,6 @@ class Statement(Base, StatementMixin):
 
     extra_data = Column(PickleType)
 
-    test = "coucou"
-
     def get_tags(self):
         """
         Return a list of tags for this statement.
@@ -79,7 +77,6 @@ class Statement(Base, StatementMixin):
             extra_data=self.extra_data
         )
         return statement
-
 
 
 conversation_association_table = Table(
