@@ -83,47 +83,13 @@ class RelevantQuotation(AlanLogicAdapter):
                     # return the quote in the context
                     return context % {"quote":quotation, "word":w}
         # if nothing is found :
-<<<<<<< HEAD
-        return "..."
-
-class RelevantQuotation(LogicAdapter):
-    """This logic adapter search for good revelant quotations"""
-
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
-
-        self.max_confidence = 0
-        self.skill_involved = ""
-
-        # a list of QuotationIndex objects
-        self.indexes = []
-
-        self.indexes.append(QuotationIndex("./quotes/einstein.txt",[
-            "À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
-            "Einstein a dis une belle chose à ce sujet : %(quote)s."]))
-        self.indexes.append(QuotationIndex("./quotes/proverbs.txt",[
-            "%(quote)s Comme on dit !",
-            "Ne dis-t-on pas : %(quote)s ?",
-            "Comme dit le proverbe : %(quote)s"]))
-=======
         return None
->>>>>>> 22b145c40ef90ce6b05f604c8812e9d56511f401
 
     def process(self, statement):
 
         # choose randomly a QuotationIndex
-<<<<<<< HEAD
-        reply = random.choice(self.indexes).get(statement.text)
-
-        #
-        if reply == "...":
-            confidence = 0
-        else: confidence = self.max_confidence
-        # Randomly select a confidence between 0 and 1
-=======
         reply = self.get(statement.text)
         confidence = self.get_confidence()
->>>>>>> 22b145c40ef90ce6b05f604c8812e9d56511f401
 
         selected_statement = Statement(reply)
         selected_statement.confidence = confidence
