@@ -37,7 +37,7 @@
             "import_path": "logic.RiveScriptAdapter"
         }
     ],
-    "storage_adapter": "chatterbot.storage.SQLStorageAdapter",
+    "storage_adapter": "storage.AlanSQLStorageAdapter",
     "input_adapter": "chatterbot.input.TerminalAdapter",
     "output_adapter": "chatterbot.output.TerminalAdapter",
     "preprocessors": [

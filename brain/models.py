@@ -2,8 +2,11 @@ from sqlalchemy import Table, Column, Integer, DateTime, ForeignKey, PickleType
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from sqlalchemy.ext.declarative import declared_attr, declarative_base
-from chatterbot.ext.sqlalchemy_app.types import UnicodeString
 
+from chatterbot.ext.sqlalchemy_app.types import UnicodeString
+from chatterbot.conversation.statement import StatementMixin
+
+TAG_NAME_MAX_LENGTH, STATEMENT_TEXT_MAX_LENGTH = 50, 400
 
 class ModelBase(object):
     """
@@ -40,20 +43,15 @@ class Tag(Base):
     A tag that describes a statement.
     """
 
-    name = Column(UnicodeString)
+    name = Column(UnicodeString(TAG_NAME_MAX_LENGTH))
 
 
-class Statement(Base):
+class Statement(Base, StatementMixin):
     """
     A Statement represents a sentence or phrase.
     """
 
-    text = Column(UnicodeString, unique=False)
-
-    created_at = Column(
-        DateTime(timezone=True),
-        server_default=func.now()
-    )
+    text = Column(UnicodeString(STATEMENT_TEXT_MAX_LENGTH))
 
     tags = relationship(
         'Tag',
@@ -63,23 +61,13 @@ class Statement(Base):
 
     extra_data = Column(PickleType)
 
-    in_response_to = relationship(
-        'Response',
-        back_populates='statement_table'
-    )
+    test = "coucou"
 
     def get_tags(self):
         """
         Return a list of tags for this statement.
         """
         return [tag.name for tag in self.tags]
-
-    def add_tags(self, tags):
-        """
-        Add a list of strings to the statement as tags.
-        """
-        for tag in tags:
-            self.tags.append(tag)
 
     def get_statement(self):
         from chatterbot.conversation import Statement as StatementObject
@@ -90,35 +78,8 @@ class Statement(Base):
             tags=[tag.name for tag in self.tags],
             extra_data=self.extra_data
         )
-        for response in self.in_response_to:
-            statement.add_response(
-                ResponseObject(text=response.text, occurrence=response.occurrence)
-            )
         return statement
 
-
-class Response(Base):
-    """
-    Response, contains responses related to a given statement.
-    """
-
-    text = Column(UnicodeString)
-
-    created_at = Column(
-        DateTime(timezone=True),
-        server_default=func.now()
-    )
-
-    occurrence = Column(Integer, default=1)
-
-    statement_text = Column(UnicodeString, ForeignKey('statement.text'))
-
-    statement_table = relationship(
-        'Statement',
-        back_populates='in_response_to',
-        cascade='all',
-        uselist=False
-    )
 
 
 conversation_association_table = Table(
@@ -138,4 +99,4 @@ class Conversation(Base):
         'Statement',
         secondary=lambda: conversation_association_table,
         backref='conversations'
-)
+    )
