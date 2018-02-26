@@ -1,9 +1,9 @@
-from sqlalchemy import Table, Column, Integer, DateTime, ForeignKey, PickleType
+from sqlalchemy import Table, Column
+from sqlalchemy import Integer, DateTime, ForeignKey, PickleType, Unicode
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from sqlalchemy.ext.declarative import declared_attr, declarative_base
 
-from chatterbot.ext.sqlalchemy_app.types import UnicodeString
 from chatterbot.conversation.statement import StatementMixin
 
 TAG_NAME_MAX_LENGTH, STATEMENT_TEXT_MAX_LENGTH = 50, 400
@@ -37,13 +37,12 @@ tag_association_table = Table(
     Column('statement_id', Integer, ForeignKey('statement.id'))
 )
 
-
 class Tag(Base):
     """
     A tag that describes a statement.
     """
 
-    name = Column(UnicodeString(TAG_NAME_MAX_LENGTH))
+    name = Column(Unicode(TAG_NAME_MAX_LENGTH))
 
 
 class Statement(Base, StatementMixin):
@@ -51,7 +50,7 @@ class Statement(Base, StatementMixin):
     A Statement represents a sentence or phrase.
     """
 
-    text = Column(UnicodeString(STATEMENT_TEXT_MAX_LENGTH))
+    text = Column(Unicode(STATEMENT_TEXT_MAX_LENGTH))
 
     tags = relationship(
         'Tag',
