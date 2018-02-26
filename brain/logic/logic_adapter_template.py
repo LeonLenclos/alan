@@ -4,10 +4,10 @@
 # http://chatterbot.readthedocs.io/en/stable/logic/create-a-logic-adapter.html
 #
 
-from chatterbot.logic import LogicAdapter
+from logic import AlanLogicAdapter
 from chatterbot.conversation import Statement
 
-class TheLogicAdapterName(LogicAdapter):
+class TheLogicAdapterName(AlanLogicAdapter):
     """What this LogicAdapter do"""
 
     def __init__(self, **kwargs):
@@ -20,9 +20,8 @@ class TheLogicAdapterName(LogicAdapter):
         # For this example, we will just return the input as output
 
         reply = statment.text
-        confidence = 1
 
         statment_out = Statement(reply)
-        statment_out.confidence = confidence
+        statment_out.confidence = self.get_confidence()
 
         return statment_out

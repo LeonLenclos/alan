@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
+# -*- coding: Latin-1 -*-
 import argparse
-from chatterbot import ChatBot
+import json
+import chatterbot
+from logic import MainLogicAdapter
 
+<<<<<<< HEAD
 class Alan(ChatBot):
     def __init__(self):
         from logic import MainLogicAdapter
@@ -32,33 +36,43 @@ class Alan(ChatBot):
             'output_adapter':'chatterbot.output.TerminalAdapter',
             'database':'./database.sqlite3',
             'logic_adapters':logic_adapters}
+=======
+class Alan(chatterbot.ChatBot):
+    """Alan is a chatbot"""
 
-        super().__init__("Alan", **kwargs)
+    def __init__(self):
+        # load settings
+        with open("settings.json", "r") as file:
+            settings = json.load(file);
+>>>>>>> 22b145c40ef90ce6b05f604c8812e9d56511f401
 
+        # init chatterbot
+        super().__init__("Alan", **settings)
+
+        # change from MultiLogicAdapter to MainLogicAdapter
         adapters = self.logic.get_adapters()
-        self.logic = MainLogicAdapter(**kwargs)
-        for adapter in adapters:
-            self.logic.adapters.append(adapter)
-        self.logic.set_chatbot(self)
+        self.logic = MainLogicAdapter(**settings, chatbot=self)
+        self.logic.adapters = adapters
+
+        # log status
+        self.logger.info(self.status())
 
     def status(self):
-        return "Alan v0.0.1 version ultra beta"
+        """Return all you need to know about this instance of Alan"""
+        # TODO: the Alan.status method should return more informations...
+        return "Alan v0"
+
 
 if __name__ == '__main__':
-
-    # enable logging (INFO) if alan is launched with the -v argument
+    # enable logging (INFO) if alan.py is launched with the -v argument
     ap = argparse.ArgumentParser()
     ap.add_argument('-v', action='store_true', help="Verbose")
-    args = ap.parse_args()
-    if args.v:
+    if ap.parse_args().v:
         import logging
         logging.basicConfig(level=logging.INFO)
 
     # init Alan
     alan = Alan()
-
-    # print Alan's status
-    print("---\n%s\n---" % alan.status())
 
     # discussion loop
     while True:
@@ -67,4 +81,3 @@ if __name__ == '__main__':
             alan.get_response(None)
         except(KeyboardInterrupt, EOFError, SystemExit):
             break
-    print("\n---\n")

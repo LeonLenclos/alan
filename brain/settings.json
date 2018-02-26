@@ -1,0 +1,49 @@
+{
+    "logic_adapters": [
+        {
+            "skill_description": ["Je dis ça desfois..."],
+            "max_confidence": 0.1,
+            "import_path": "logic.Historic"
+        },
+        {
+            "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
+            "max_confidence": 0.5,
+            "import_path": "logic.RelevantQuotation",
+            "quotations_file": "./quotes/einstein.txt",
+            "context": [
+                "À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
+                "Einstein a dis une belle chose à ce sujet : %(quote)s."
+            ]
+        },
+        {
+            "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
+            "max_confidence": 0.5,
+            "import_path": "logic.RelevantQuotation",
+            "quotations_file": "./quotes/proverbs.txt",
+            "context": [
+                "%(quote)s Comme on dit !",
+                "Ne dis-t-on pas : %(quote)s ?",
+                "Comme dit le proverbe : %(quote)s"
+            ]
+        },
+        {
+            "skill_description": ["C'est juste de la politesse basique."],
+            "rive_file": "./rive/greetings.rive",
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "skill_description": ["C'était pour rire."],
+            "rive_file": "./rive/jokes.rive",
+            "import_path": "logic.RiveScriptAdapter"
+        }
+    ],
+    "storage_adapter": "chatterbot.storage.SQLStorageAdapter",
+    "input_adapter": "chatterbot.input.TerminalAdapter",
+    "output_adapter": "chatterbot.output.TerminalAdapter",
+    "preprocessors": [
+        "chatterbot.preprocessors.clean_whitespace",
+        "chatterbot.preprocessors.convert_to_ascii",
+        "preprocessors.add_speaker_data"
+    ],
+    "database": "./database.sqlite3"
+}
