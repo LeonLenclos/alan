@@ -1,4 +1,5 @@
 from chatterbot.logic import LogicAdapter
+from random import choice
 
 class AlanLogicAdapter(LogicAdapter):
     """AlanLogicAdapter is a superclass for Alan's logic adapters
@@ -42,6 +43,11 @@ class AlanLogicAdapter(LogicAdapter):
         if type(self.skill_descriptions) != list:
             raise TypeError("skill_descriptions must be a list")
 
+        # getting name
+        self.identifier = kwargs.get('identifier', None)
+        if type(self.identifier) != str:
+            raise TypeError("identifier must be a string")
+
     def constrain_confidence(self, confidence=1):
         """Return a value constrained between 0 and max_confidence.
         """
@@ -56,3 +62,7 @@ class AlanLogicAdapter(LogicAdapter):
         """
         confidence *= self.confidence_coefficient
         return self.constrain_confidence(confidence)
+
+    def justification(self):
+        """Return a justification (skill_description)"""
+        return choice(self.skill_descriptions)

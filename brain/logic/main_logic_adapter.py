@@ -24,12 +24,12 @@ class MainLogicAdapter(MultiLogicAdapter):
             if adapter.can_process(statement):
 
                 output = adapter.process(statement)
-                output.add_extra_data("logic", type(adapter)) # added by leon
+                output.add_extra_data("logic_identifier", adapter.identifier) # added by leon
                 results.append((output.confidence, output, ))
 
                 self.logger.info(
                     '{} selected "{}" as a response with a confidence of {}'.format(
-                        adapter.class_name, output.text, output.confidence
+                        adapter.identifier, output.text, output.confidence
                     )
                 )
 
@@ -38,7 +38,7 @@ class MainLogicAdapter(MultiLogicAdapter):
                     max_confidence = output.confidence
             else:
                 self.logger.info(
-                    'Not processing the statement using {}'.format(adapter.class_name)
+                    'Not processing the statement using {}'.format(adapter.identifier)
                 )
 
         # If multiple adapters agree on the same statement,
@@ -48,8 +48,10 @@ class MainLogicAdapter(MultiLogicAdapter):
             count = Counter(statements)
             most_common = count.most_common()
             if most_common[0][1] > 1:
-                result = most_common[0][0]
-                max_confidence = self.get_greatest_confidence(result, results)
+                common_result = most_common[0][0]
+                max_confidence = self.get_greatest_confidence(common_result, results)
+                if max_confidence > 0:
+                    result = common_result
 
         result.confidence = max_confidence
         result.add_extra_data("speaker", "alan") # added by leon
