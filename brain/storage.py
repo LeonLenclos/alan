@@ -1,11 +1,10 @@
 from chatterbot.storage import SQLStorageAdapter
 from sqlalchemy import desc
 from models import Base
+from models import Statement, Conversation, Tag, Concept, ConceptAssociation
 
 # This is the chatterbot's SQLStorageAdapter modified for Alan
 # does not record Response objects
-
-
 
 class AlanSQLStorageAdapter(SQLStorageAdapter):
     """A storage_adapter for alan"""
@@ -13,26 +12,6 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
     def __init__(self, **kwargs):
         super(AlanSQLStorageAdapter, self).__init__(**kwargs)
 
-    def get_statement_model(self):
-        """
-        Return the statement model.
-        """
-        from models import Statement
-        return Statement
-
-    def get_conversation_model(self):
-        """
-        Return the conversation model.
-        """
-        from models import Conversation
-        return Conversation
-
-    def get_tag_model(self):
-        """
-        Return the conversation model.
-        """
-        from models import Tag
-        return Tag
 
     def store(self, statement):
         """
@@ -40,7 +19,6 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         """
 
         # Get models
-        Statement = self.get_model('statement')
         Tag = self.get_model('tag')
 
         if statement:
@@ -82,10 +60,6 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         """
         Add the statement and response to the database and to the conversation.
         """
-
-        Statement = self.get_model('statement')
-        Conversation = self.get_model('conversation')
-
         session = self.Session()
 
         conversation = session.query(Conversation).get(conversation_id)
@@ -102,6 +76,48 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         session.add(conversation)
         self._session_finish(session)
 
+    def store_concept(self, concept):
+        """
+        Add the concept and return the concept id
+        if the concept already exist, just return the id
+        """
+        session = self.Session()
+
+        query = session.query(Concept).filter_by(name=concept)
+        record = query.first()
+
+        if not record :
+            record = Concept(name=concept)
+            session.add(record)
+
+        session.flush()
+        record_id = record.id
+
+        self._session_finish(session)
+        return record_id
+
+    def store_concept_association(self, concept_A, relation, concept_B):
+        """
+        Add concepts and relation to the association table
+        Also store concept if needed
+        """
+        session = self.Session()
+
+        concept_A_id = store_concept(concept_A)
+        concept_B_id = store_concept(concept_B)
+
+        query = session.query(ConceptAssociation).filter_by(
+            concept_A_id=concept_A_id,
+            relation=relation,
+            concept_B_id=concept_B_id)
+        if not query.first():
+            record = ConceptAssociation(
+                concept_A_id=concept_A_id,
+                relation=relation,
+                concept_B_id=concept_B_id)
+            session.add(record)
+
+        self._session_finish(session)
 
     def create(self):
         """
@@ -115,7 +131,6 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         default for speaker is anybody
         default for index is 0 (0 is latest)
         """
-        Statement = self.get_model('statement')
 
         session = self.Session()
         statement = None

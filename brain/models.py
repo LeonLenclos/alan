@@ -10,6 +10,8 @@ TAG_NAME_MAX_LENGTH = 50
 SPEAKER_NAME_MAX_LENGTH = 50
 LOGIC_ADAPER_NAME_MAX_LENGTH = 50
 STATEMENT_TEXT_MAX_LENGTH = 400
+CONCEPT_TEXT_MAX_LENGTH = STATEMENT_TEXT_MAX_LENGTH
+CONCEPT_RELATION_TEXT_MAX_LENGTH = 100
 
 class ModelBase(object):
     """
@@ -101,3 +103,11 @@ class Conversation(Base):
         secondary=lambda: conversation_association_table,
         backref='conversations'
     )
+
+class ConceptAssociation(Base):
+    concept_A_id = Column(Integer())
+    relation = Column(Unicode(CONCEPT_RELATION_TEXT_MAX_LENGTH))
+    concept_B_id = Column(Integer())
+
+class Concept(Base):
+    name = Column(Unicode(CONCEPT_TEXT_MAX_LENGTH))
