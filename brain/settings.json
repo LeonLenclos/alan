@@ -47,6 +47,13 @@
             "import_path": "logic.Justification",
             "questions" : ["pourquoi t'as dit ca ?"],
             "default_responses": ["Je dis ce que je veux ! je n'ai pas à me justifier."]
+        },
+        {
+            "identifier": "Kesako",
+            "skill_description": ["J'aime savoir ce que sont les choses."],
+            "import_path": "logic.KesakoAdapter",
+            "questions" : ["C'est quoi","Qu'est ce que c'est"]
+
         }
     ],
 
