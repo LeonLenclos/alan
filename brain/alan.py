@@ -99,6 +99,7 @@ if __name__ == '__main__':
         for input_item in [ "t'as dit quoi ?", "Salut", "ca va ?", "t'as dit quoi ?"]:
             print(input_item)
             alan.get_response(input_item)
+        print("id : %i" % alan.storage.store_concept("chaise"))
 
     else :
         # discussion loop

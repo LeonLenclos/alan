@@ -34,6 +34,14 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         from models import Tag
         return Tag
 
+
+    def get_concept_model(self):
+        """
+        Return the concept model.
+        """
+        from models import Concept
+        return Concept
+
     def store(self, statement):
         """
         Creates an statement entry in the database. Return the statement id.
@@ -102,6 +110,35 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         session.add(conversation)
         self._session_finish(session)
 
+    def store_concept(self, concept):
+        """
+        Add the concept and return the concept id
+        if the concept already exist, just return the id
+        """
+
+        Concept = self.get_model('concept')
+
+        session = self.Session()
+
+        query = session.query(Concept).filter_by(name=concept)
+        record = query.first()
+
+        if not record :
+            record = Concept(name=concept)
+            session.add(record)
+
+        session.flush()
+        record_id = record.id
+
+        self._session_finish(session)
+        return record_id
+
+    def store_concept_relation(self, concept_A, relation, concept_B):
+
+        concept_A = store_concept(concept_A)
+        concept_B = store_concept(concept_B)
+
+        pass
 
     def create(self):
         """
