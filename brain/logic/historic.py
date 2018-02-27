@@ -18,8 +18,7 @@ class Historic(AlanLogicAdapter):
             statment_out.confidence = self.get_confidence(1)
         elif statement.text == "t'as dit quoi ?":
             conversation = self.chatbot.default_conversation_id
-            latest = self.chatbot.storage.get_latest_statement(speaker="alan",
-                                                               offset=0)
+            latest = self.chatbot.storage.get_latest_statement(speaker="alan")
             if latest:
                 statment_out.text = "Je viens de dire : \"%s\"" % latest.text
                 statment_out.confidence = self.get_confidence(1)

@@ -32,6 +32,8 @@ class RelevantQuotation(AlanLogicAdapter):
 
         # getting context_sentences
         self.context_sentences = kwargs.get('context', '%(quote)s')
+
+        #getting quotation file
         try:
             quotations_file = kwargs['quotations_file']
         except KeyError:
