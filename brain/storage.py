@@ -36,7 +36,7 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
     def store(self, statement):
         """
-        Creates an entry in the database.
+        Creates an entry in the database. Return the statement id
         """
         Statement = self.get_model('statement')
         Tag = self.get_model('tag')
@@ -60,29 +60,35 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
                 record.tags.append(tag)
 
             session.add(record)
-
+            session.flush()
+            stored_statement_id = record.id
             self._session_finish(session)
+
+            return stored_statement_id
 
     def add_to_conversation(self, conversation_id, statement, response):
         """
         Add the statement and response to the conversation.
         """
-        #TODO: also add to conversation (lol)
 
-        # Statement = self.get_model('statement')
-        # Conversation = self.get_model('conversation')
-        #
-        # session = self.Session()
-        # conversation = session.query(Conversation).get(conversation_id)
+        Statement = self.get_model('statement')
+        Conversation = self.get_model('conversation')
 
-        self.store(statement)
-        self.store(response)
+        session = self.Session()
 
-        # conversation.statements.append(statement_query)
-        # conversation.statements.append(response_query)
+        conversation = session.query(Conversation).get(conversation_id)
 
-        # session.add(conversation)
-        # self._session_finish(session)
+        statement_id = self.store(statement)
+        response_id = self.store(response)
+
+        statement_query = session.query(Statement).filter_by(id=statement_id)
+        response_query = session.query(Statement).filter_by(id=response_id)
+
+        conversation.statements.append(statement_query.first())
+        conversation.statements.append(response_query.first())
+
+        session.add(conversation)
+        self._session_finish(session)
 
 
     def create(self):
