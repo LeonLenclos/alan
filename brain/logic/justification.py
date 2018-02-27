@@ -34,8 +34,8 @@ class Justification(AlanLogicAdapter):
             raise TypeError("default_responses must be a list")
 
     def can_process(self, statement):
-        # TODO: Process only if there is a latest statement in the conversation
-        return True
+        # Process only if there is a latest statement in the conversation
+        return self.chatbot.storage.count()>0
 
     def process(self, statement):
 
