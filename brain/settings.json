@@ -2,7 +2,7 @@
     "logic_adapters": [
         {
             "skill_description": ["Je dis ça desfois..."],
-            "max_confidence": 0.1,
+            "max_confidence": 0.8,
             "import_path": "logic.Historic"
         },
         {
@@ -37,7 +37,7 @@
             "import_path": "logic.RiveScriptAdapter"
         }
     ],
-    "storage_adapter": "chatterbot.storage.SQLStorageAdapter",
+    "storage_adapter": "storage.AlanSQLStorageAdapter",
     "input_adapter": "chatterbot.input.TerminalAdapter",
     "output_adapter": "chatterbot.output.TerminalAdapter",
     "preprocessors": [
