@@ -13,3 +13,6 @@ def test(alan):
     print("\nTEST DE STORAGE")
     print("chaise (id : %i)" % alan.storage.store_concept("chaise"))
     print("objet (id : %i)" % alan.storage.store_concept("objet"))
+    alan.storage.store_concept_association("chaise", "est", "objet")
+    alan.storage.store_concept_association("pince", "est", "objet")
+    alan.storage.store_concept_association("pince", "est", "outils")
