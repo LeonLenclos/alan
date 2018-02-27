@@ -28,6 +28,7 @@ def clean(input_str):
 
 def compare(s, compare_to):
     """Take a string and something to compare. Return a distance ratio.
+    Also clean strings before comparing
     s must be a string
     compare_to can be a string or a list of strings"""
     s = clean(s)
