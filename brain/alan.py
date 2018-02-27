@@ -88,6 +88,8 @@ if __name__ == '__main__':
     ap = argparse.ArgumentParser()
     ap.add_argument('-v', action='store_true', help="Verbose")
     ap.add_argument('-t', action='store_true', help="Test")
+
+    # Mode verbose
     if ap.parse_args().v:
         import logging
         logging.basicConfig(level=logging.INFO)
@@ -95,12 +97,10 @@ if __name__ == '__main__':
     # init Alan
     alan = Alan()
 
+    # Mode test
     if ap.parse_args().t:
-        for input_item in [ "t'as dit quoi ?", "Salut", "ca va ?", "t'as dit quoi ?"]:
-            print(input_item)
-            alan.get_response(input_item)
-        print("id : %i" % alan.storage.store_concept("chaise"))
-
+        from test import test
+        test(alan)
     else :
         # discussion loop
         while True:
