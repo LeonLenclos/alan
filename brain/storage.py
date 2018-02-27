@@ -1,5 +1,5 @@
 from chatterbot.storage import SQLStorageAdapter
-
+from sqlalchemy import desc
 # This is the chatterbot's SQLStorageAdapter modified for Alan
 # The idea is to record each statement even if same already exist
 # So it is not clean at all.
@@ -34,7 +34,7 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         from models import Tag
         return Tag
 
-    def update(self, statement):
+    def store(self, statement):
         """
         Creates an entry in the database.
         """
@@ -46,6 +46,8 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
             record = Statement()
             record.text = statement.text
+
+            record.speaker = statement.extra_data["speaker"]
             record.extra_data = dict(statement.extra_data)
 
             for _tag in statement.tags:
@@ -61,6 +63,28 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
             self._session_finish(session)
 
+    def add_to_conversation(self, conversation_id, statement, response):
+        """
+        Add the statement and response to the conversation.
+        """
+        #TODO: also add to conversation (lol)
+
+        # Statement = self.get_model('statement')
+        # Conversation = self.get_model('conversation')
+        #
+        # session = self.Session()
+        # conversation = session.query(Conversation).get(conversation_id)
+
+        self.store(statement)
+        self.store(response)
+
+        # conversation.statements.append(statement_query)
+        # conversation.statements.append(response_query)
+
+        # session.add(conversation)
+        # self._session_finish(session)
+
+
     def create(self):
         """
         Populate the database with the tables.
@@ -68,25 +92,41 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         from models import Base
         Base.metadata.create_all(self.engine)
 
-
-    def get_latest_response(self, conversation_id):
-        """
-        Returns the latest response in a conversation if it exists.
-        Returns None if a matching conversation cannot be found.
+    def get_latest_statement(self, conversation_id=None, speaker=None, offset=0):
+        """Return a Statement
+        default for conversation_id any
+        default for speaker is anybody
+        default for index is 0 (0 is latest)
         """
         Statement = self.get_model('statement')
 
         session = self.Session()
         statement = None
 
-
         query = session.query(Statement)
-        query = query.filter(Statement.conversations.any(id=conversation_id))
-        query = query.order_by(Statement.id).limit(2).first()
+
+        if conversation_id:
+            query = query.filter(Statement.conversations.any(id=conversation_id))
+        if speaker:
+            query = query.filter(Statement.speaker == speaker)
+
+        query = query.order_by(Statement.id.desc())
+        query = query.limit(1)
+        query = query.offset(offset)
+        query = query.first()
 
         if query:
             statement = query.get_statement()
 
         session.close()
-
         return statement
+
+
+
+    def get_latest_response(self, conversation_id):
+        """
+        Returns the latest response in a conversation if it exists.
+        Returns None if a matching conversation cannot be found.
+        """
+
+        return self.get_statement()

@@ -12,8 +12,19 @@ class Historic(AlanLogicAdapter):
 
     def process(self, statement):
 
-        # For this example, we will just return the input as output
-        statment_out = Statement("Tu viens de me dire : \"%s\"" % statement)
-        statment_out.confidence = self.get_confidence()
+        statment_out = Statement("")
+        if statement.text == "Qu'est-ce que je viens de dire":
+            statment_out.text = "Tu viens de me dire : \"%s\"" % statement
+            statment_out.confidence = self.get_confidence(1)
+        elif statement.text == "t'as dit quoi ?":
+            conversation = self.chatbot.default_conversation_id
+            latest = self.chatbot.storage.get_latest_statement(speaker="alan",
+                                                               offset=0)
+            if latest:
+                statment_out.text = "Je viens de dire : \"%s\"" % latest.text
+                statment_out.confidence = self.get_confidence(1)
+        else:
+            statment_out.confidence = self.get_confidence(0)
+
 
         return statment_out

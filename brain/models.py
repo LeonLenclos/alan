@@ -6,7 +6,10 @@ from sqlalchemy.ext.declarative import declared_attr, declarative_base
 
 from chatterbot.conversation.statement import StatementMixin
 
-TAG_NAME_MAX_LENGTH, STATEMENT_TEXT_MAX_LENGTH = 50, 400
+TAG_NAME_MAX_LENGTH = 50
+SPEAKER_NAME_MAX_LENGTH = 50
+LOGIC_ADAPER_NAME_MAX_LENGTH = 50
+STATEMENT_TEXT_MAX_LENGTH = 400
 
 class ModelBase(object):
     """
@@ -57,6 +60,8 @@ class Statement(Base, StatementMixin):
         secondary=lambda: tag_association_table,
         backref='statements'
     )
+
+    speaker = Column(Unicode(SPEAKER_NAME_MAX_LENGTH))
 
     extra_data = Column(PickleType)
 
