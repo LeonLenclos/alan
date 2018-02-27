@@ -1,15 +1,15 @@
 from chatterbot.storage import SQLStorageAdapter
 from sqlalchemy import desc
-# This is the chatterbot's SQLStorageAdapter modified for Alan
-# The idea is to record each statement even if same already exist
-# So it is not clean at all.
+from models import Base
 
+# This is the chatterbot's SQLStorageAdapter modified for Alan
 # does not record Response objects
-# conversation not really well recorded yet
+
 
 
 class AlanSQLStorageAdapter(SQLStorageAdapter):
     """A storage_adapter for alan"""
+
     def __init__(self, **kwargs):
         super(AlanSQLStorageAdapter, self).__init__(**kwargs)
 
@@ -36,20 +36,30 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
     def store(self, statement):
         """
-        Creates an entry in the database. Return the statement id
+        Creates an statement entry in the database. Return the statement id.
         """
+
+        # Get models
         Statement = self.get_model('statement')
         Tag = self.get_model('tag')
 
         if statement:
+
             session = self.Session()
 
+            # Create record
             record = Statement()
+
+            # set statement text
             record.text = statement.text
 
+            # set speaker name
             record.speaker = statement.extra_data["speaker"]
+
+            # set extra data
             record.extra_data = dict(statement.extra_data)
 
+            # and tags
             for _tag in statement.tags:
                 tag = session.query(Tag).filter_by(name=_tag).first()
 
@@ -59,16 +69,18 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
                 record.tags.append(tag)
 
+            # store it
             session.add(record)
             session.flush()
-            stored_statement_id = record.id
-            self._session_finish(session)
 
+            stored_statement_id = record.id
+
+            self._session_finish(session)
             return stored_statement_id
 
     def add_to_conversation(self, conversation_id, statement, response):
         """
-        Add the statement and response to the conversation.
+        Add the statement and response to the database and to the conversation.
         """
 
         Statement = self.get_model('statement')
@@ -95,7 +107,6 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         """
         Populate the database with the tables.
         """
-        from models import Base
         Base.metadata.create_all(self.engine)
 
     def get_latest_statement(self, conversation_id=None, speaker=None, offset=0):
