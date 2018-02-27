@@ -110,12 +110,12 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
             concept_A_id=concept_A_id,
             relation=relation,
             concept_B_id=concept_B_id)
-        if not query.first()
+        if not query.first():
             record = ConceptAssociation(
                 concept_A_id=concept_A_id,
                 relation=relation,
                 concept_B_id=concept_B_id)
-
+            session.add(record)
 
         self._session_finish(session)
 
