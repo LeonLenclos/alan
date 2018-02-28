@@ -70,6 +70,12 @@
             "import_path": "logic.KesakoAdapter",
             "questions" : ["C'est quoi","Qu'est ce que c'est","Tu sais ce que c'est","Sais tu ce que c'est","Sais tu ce qu'est"]
 
+        },
+        {
+            "identifier": "Esako",
+            "skill_description": ["J'aime apprendre ce que sont les choses."],
+            "import_path": "logic.EsakoAdapter"
+
         }
     ],
 
