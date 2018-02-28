@@ -58,5 +58,5 @@ class RiveScriptAdapter(AlanLogicAdapter):
 
         # empty the reply attribute to get a new reply next time
         self.reply = None
-        
+
         return statment_out
