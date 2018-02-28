@@ -24,7 +24,7 @@ class EsakoAdapter(AlanLogicAdapter):
         # Get the concept B explained by the Human
         concept_B = re.sub(".*([ ']est ) ","", statement.text)
         # Store the new "est" relation into storage.py
-        store_concept_association(concept_A, "est", concept_B)
+        self.chatbot.storage.store_concept_association(concept_A, "est", concept_B)
         reply = "Merci beaucoup, maintenant je comprends mieux ce qu'est "\
         +concept_A+"."
 
