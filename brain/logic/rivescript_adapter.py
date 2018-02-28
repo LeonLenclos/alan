@@ -2,6 +2,7 @@ from chatterbot.conversation import Statement
 import rivescript
 
 from logic import AlanLogicAdapter
+from utils import clean
 
 class RiveScriptAdapter(AlanLogicAdapter):
     """This logic adapter is an interface to RiveScript
@@ -24,7 +25,7 @@ class RiveScriptAdapter(AlanLogicAdapter):
     def get(self, statement):
         """take a statment and ask a reply to the interpreter"""
         user = "localuser"
-        text = statement.text
+        text = clean(statement.text)
         reply = self.interpreter.reply(user, text, errors_as_replies=False);
         return Statement(reply)
 
