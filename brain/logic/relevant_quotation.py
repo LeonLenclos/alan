@@ -3,7 +3,7 @@ import random
 from nltk.tokenize import sent_tokenize, word_tokenize
 from chatterbot.conversation import Statement
 
-from utils import remove_stopwords
+from utils import remove_stopwords, remove_punctuation
 from logic import AlanLogicAdapter
 
 class RelevantQuotation(AlanLogicAdapter):
@@ -69,6 +69,8 @@ class RelevantQuotation(AlanLogicAdapter):
     def get(self, sentence, read_only=False):
         """Take a sentence (str) and return a revelant quotation (str)
         """
+        # little cleaning
+        sentence = remove_punctuation(sentence)
         # removing stopwords from the sentence
         words = remove_stopwords(word_tokenize(sentence.replace('\'', ' ')))
         # search for a quote sharing words with the sentence
