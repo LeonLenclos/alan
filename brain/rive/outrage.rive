@@ -8,8 +8,8 @@
 > topic sorry
 
   // This will match if the word "excuse" exists ANYWHERE in their message
-  + [*] (excuse|pardon|désole|regrette|sorry) [*]
-  - OK passons a autre chose. Raconte moi plutôt une bonne blague pour détendre l'atmosphère 
+  + [*] (excuse|pardon|desole|regrette|sorry) [*]
+  - OK passons a autre chose. Raconte moi plutôt une bonne blague pour détendre l'atmosphère
 
   + *
   % * une bonne blague *
