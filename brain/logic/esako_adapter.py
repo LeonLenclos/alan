@@ -14,7 +14,7 @@ class EsakoAdapter(AlanLogicAdapter):
     def can_process(self, statement):
         # Process only if the latest statement of Alan contain the chain
         # "Pourrais tu me décrire en quelques mots ce qu'est "
-        question_posee = get_latest_statement(speaker="alan").text
+        question_posee = self.chatbot.storage.get_latest_statement(speaker="alan").text
         return ("Pourrais tu me dire en quelques mots ce qu'est "\
                 in statement.text)
 
