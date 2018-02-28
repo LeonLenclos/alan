@@ -1,0 +1,14 @@
+! version = 2.0
+
+! array négative = bad|blues|bof|ça ne va pas|ça pourrait aller mieux|ça va pas
+^ couci couça|coussi coussa|épuisé|fatigué
+^ j'ai connu des jours meilleurs|mal|malade|moyen|pas cool
+^ pas en forme|pas la pêche|pas trop|pas trop la pêche|pas terrible|petite forme
+
+! array positive = a fond|admirablement|au poil|au taquet|bien|ca va|colossal
+^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux
+^ fantastique|faramineux|formidable|fou|génial|grosse forme
+^ impeccablement|inconcevable|incroyable|inimaginable|inouï
+^ insensé|la forme|la patate|la pêche|magique|merveilleux
+^ nickel|parfaitement|péchu|phénomenal|prodigieux|sensas
+^ sensationnel|stupéfiant|super|surnaturel|terrible|top
