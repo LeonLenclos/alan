@@ -59,7 +59,8 @@ class KesakoAdapter(AlanLogicAdapter):
         question = statement.text.split(concept_A)[0]
         # Remove the chain "?" from concept_A
         concept_A = re.sub(r"\?","",concept_A)
-
+        # Remove starting and ending spaces
+        concept_A=concept_A.strip()
         # Get the distance between input statement and questions list
         confidence = compare(question, self.questions)
 
@@ -78,7 +79,7 @@ class KesakoAdapter(AlanLogicAdapter):
             concept_B = self.chatbot.storage.get_related_concept(concept_A, "est", reverse=True)
             # Turn the first letter of the concept_B chain to a capital
             concept_B = concept_B.lower().capitalize()
-            response = concept_B+" est "+concept_A+" mais je ne sais pas vraiment ce qu'est"+concept_A+"."
+            response = concept_B+" est "+concept_A+" mais je ne sais pas vraiment ce qu'est "+concept_A+"."
         else:
             response = "Je ne sais pas ce qu'est "+concept_A+"."
 
