@@ -13,7 +13,7 @@ def test(alan):
     talk = [
         "Salut",
         "Léon",
-        "bof",
+        "non",
         "ok"]
 
     for input_item in talk:
