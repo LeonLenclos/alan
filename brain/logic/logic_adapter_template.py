@@ -19,7 +19,7 @@ class TheLogicAdapterName(AlanLogicAdapter):
     def process(self, statement):
         # For this example, we will just return the input as output
 
-        reply = statment.text
+        reply = statement.text
 
         statment_out = Statement(reply)
         statment_out.confidence = self.get_confidence()
