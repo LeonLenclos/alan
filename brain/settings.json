@@ -35,7 +35,7 @@
             "quotations_file": "./quotes/proverbs.txt",
             "context": [
                 "%(quote)s Comme on dit !",
-                "Ne dis-t-on pas : %(quote)s ?",
+                "Ne dit-on pas : %(quote)s ?",
                 "Comme dit le proverbe : %(quote)s"
             ]
         },
