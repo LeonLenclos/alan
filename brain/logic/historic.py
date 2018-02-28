@@ -61,7 +61,6 @@ class Historic(AlanLogicAdapter):
         latest = get_latest(**self.get_latest_kargs)
         latest = '"%s"' % latest
 
-        print(latest)
         statment_out.text = choice(self.context_sentences) % {"quote":latest}
         statment_out.confidence = self.get_confidence(confidence)
         return statment_out

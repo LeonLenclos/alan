@@ -26,8 +26,6 @@ class RiveScriptAdapter(AlanLogicAdapter):
         """take a statment and ask a reply to the interpreter"""
         user = "localuser"
         text = clean(statement.text)
-        print("clean :")
-        print(text)
         reply = self.interpreter.reply(user, text, errors_as_replies=False);
         return Statement(reply)
 
