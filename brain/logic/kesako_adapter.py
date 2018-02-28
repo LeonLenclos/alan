@@ -44,20 +44,18 @@ class KesakoAdapter(AlanLogicAdapter):
     def process(self, statement):
         # concept is the chain following the last "est" occurence
         concept_A = re.sub(".*([ ']est)","",statement.text)
-        #
-        question = statement.text.split(concept_A)
         # remove the chain " quoi " from concept
         concept_A = re.sub(" quoi ","",concept_A)
+        question = statement.text.split(concept_A)[0]
         # remove the chain "?" from concept
         concept_A = re.sub(r"\?","",concept_A)
         # Turn the first letter of the concept chain to a capital
         concept_A=concept_A.lower().capitalize()
         # get the distance between input statement and questions list
-        question = statement.text.split(concept_A)
         confidence = compare(question, self.questions)
 
 
-        response = concept+" est un machin truc."
+        response = concept_A+" est un machin truc."
 
 
 
