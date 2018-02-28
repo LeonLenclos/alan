@@ -24,8 +24,9 @@ class EsakoAdapter(AlanLogicAdapter):
                 in last_response.text):
                 if "est" in statement.text:
                     return True
-        else:
-            return False
+        
+        return False
+
 
     def process(self, statement):
         question_posee = self.chatbot.storage.get_latest_statement(speaker="alan")
