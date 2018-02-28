@@ -9,12 +9,12 @@ class RiveScriptAdapter(AlanLogicAdapter):
     The .rive files should be in the /rive directory"""
 
     def __init__(self, **kwargs):
-        """take one kwarg : rive_files, the paths to the .rive files"""
+        """take one kwarg : rive_files, a list, the paths to the .rive files"""
         super().__init__(**kwargs)
 
         # getting rive_file
         try:
-            rive_file = kwargs['rive_files']
+            rive_files = kwargs['rive_files']
         except KeyError:
             raise KeyError('rive_files is a required argument')
 
