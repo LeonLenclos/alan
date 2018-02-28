@@ -1,7 +1,7 @@
 from logic import AlanLogicAdapter
 from chatterbot.conversation import Statement
 
-class Esako(AlanLogicAdapter):
+class EsakoAdapter(AlanLogicAdapter):
     """This adapter is activated only if Kesako just answered before. If Kesako
      don't know a concept related by "est" to the concept for whom he have been
      called, then he ask to the Human what this concept is.

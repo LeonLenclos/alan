@@ -131,9 +131,9 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
     def get_latest_statement(self, conversation_id=None, speaker=None, offset=0):
         """Return a Statement
-        default for conversation_id is any
+        default for conversation_id any
         default for speaker is anybody
-        default for offset is 0 (0 is latest)
+        default for index is 0 (0 is latest)
         """
 
         session = self.Session()
@@ -157,25 +157,35 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         session.close()
         return statement
 
-    def get_related_concept(self, concept, relation):
+    def get_related_concept(self, concept, relation, reverse=False):
         """Return a Concept that have a relation with another concept
         Return None if nothing is found
         """
 
         session = self.Session()
 
-        concept_A_id = self.store_concept(concept)
+        concept_in_id = self.store_concept(concept)
         query = session.query(ConceptAssociation)
-        query = query.filter_by(concept_A_id=concept_A_id, relation=relation)
+
+        if reverse:
+            query = query.filter_by(concept_B_id=concept_in_id, relation=relation)
+        else:
+            query = query.filter_by(concept_A_id=concept_in_id, relation=relation)
+
         association = query.first()
+
         if association:
-            concept_B_id = association.concept_B_id
+            if reverse:
+                concept_out_id = association.concept_A_id
+            else:
+                concept_out_id = association.concept_B_id
+
             query = session.query(Concept)
-            query = query.filter_by(id=concept_B_id)
-            concept_B = query.first()
+            query = query.filter_by(id=concept_out_id)
+            concept_out = query.first()
 
             session.close()
-            return concept_B.name
+            return concept_out.name
 
         session.close()
         return None
