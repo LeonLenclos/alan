@@ -26,16 +26,31 @@ class KesakoAdapter(AlanLogicAdapter):
         A list of strings. the question that must be answered with this adapter."""
 
         super().__init__(**kwargs)
+        # Getting questions
+        try:
+            self.questions = kwargs['questions']
+        except KeyError:
+            raise KeyError('questions is a required argument')
+        if type(self.questions) != list:
+            raise TypeError("questions must be a list")
+
 
     def can_process(self, statement):
-        return True
+        # Process only if there is a latest statement in the conversation
+        return {self.chatbot.storage.count()>0} and {"est" in statement}
 
     def process(self, statement):
-        # For this example, we will just return the input as output
+        # get the distance between input statement and questions list
+        confidence = compare(statement.text, self.questions)
 
-        reply = statement.text
+        response = statement.text
 
-        statment_out = Statement(reply)
-        statment_out.confidence = self.get_confidence(0)
+
+
+
+
+
+        statment_out = Statement(response)
+        statment_out.confidence = self.get_confidence(confidence)
 
         return statment_out
