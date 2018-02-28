@@ -12,7 +12,7 @@ def remove_accents(input_str):
     """Take a string and return the string with ascii characters only."""
     nfkd_form = unicodedata.normalize('NFKD', input_str)
     only_ascii = nfkd_form.encode('ASCII', 'ignore')
-    return str(only_ascii)
+    return only_ascii.decode('ascii')
 
 def remove_punctuation(input_str):
     """Take a string and return the string witout punctuation
