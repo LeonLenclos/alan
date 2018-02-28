@@ -74,8 +74,8 @@ class KesakoAdapter(AlanLogicAdapter):
             # Turn the first letter of the concept_A chain to a capital
             concept_A = concept_A.lower().capitalize()
             response = concept_A+" est "+concept_B+"."
-        elif  self.chatbot.storage.get_related_concept(concept_A, "est", reverse=true) != None:
-            concept_B = self.chatbot.storage.get_related_concept(concept_A, "est", reverse=true)
+        elif  self.chatbot.storage.get_related_concept(concept_A, "est", reverse=True) != None:
+            concept_B = self.chatbot.storage.get_related_concept(concept_A, "est", reverse=True)
             # Turn the first letter of the concept_B chain to a capital
             concept_B = concept_B.lower().capitalize()
             response = concept_B+" est "+concept_A+" mais je ne sais pas vraiment ce qu'est"+concept_A+"."
