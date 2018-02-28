@@ -42,27 +42,47 @@ class KesakoAdapter(AlanLogicAdapter):
         return (self.chatbot.storage.count()>0) and ("est" in statement.text)
 
     def process(self, statement):
-        # concept is the chain following the last "est" occurence
+        # concept_A is the chain following the last "est" occurence
         concept_A = re.sub(".*([ ']est)","",statement.text)
-        # remove the chain " quoi " from concept
+        # Remove the chain " quoi " from concept_A (because of "C'est quoi..." questions)
         concept_A = re.sub(" quoi ","",concept_A)
+
+        # The following block allow the kezako adapter to answer to the "Qu'est ce que..." and "Qu'est ce qu'..." questions.
+        # Because this questions can have another meaning if a verb follow the question e.g in "Qu'est ce que tu fais"
+        # If you uncomment the block, don't forget to add this two questions to the questions into the settings.json file
+        #   #Remove the chain " ce que " from concept_A (because of "Qu'est ce que..." questions)
+        #   concept_A = re.sub("^( ce que )","",concept_A)
+        #   #Remove the chain " ce qu' " from concept_A (because of "Qu'est ce qu'..." questions)
+        #   concept_A = re.sub("^( ce qu')","",concept_A)
+
+        # Get the interrogative part of the question that is before the concept_A
         question = statement.text.split(concept_A)[0]
-        # remove the chain "?" from concept
+        # Remove the chain "?" from concept_A
         concept_A = re.sub(r"\?","",concept_A)
-        # Turn the first letter of the concept chain to a capital
-        concept_A=concept_A.lower().capitalize()
-        # get the distance between input statement and questions list
+
+        # Get the distance between input statement and questions list
         confidence = compare(question, self.questions)
 
+        #This block is an idea for recognizing if "Qu'est ce que..." questions are followed by a verb, detecting the presence of "tu"
+        #   verbtest = max(compare(question, "Qu'est ce que tu"))
+        #   if confidence < verbtest :
+        #       confidence=0
 
-        response = concept_A+" est un machin truc."
-
-
-
-
-
+        # If concept_A is related by the relation "est" to another concept, put this concept into concept_B
+        if self.chatbot.storage.get_related_concept(concept_A, "est") != None:
+            concept_B=self.chatbot.storage.get_related_concept(concept_A, "est")
+            # Turn the first letter of the concept_A chain to a capital
+            concept_A = concept_A.lower().capitalize()
+            response = concept_A+" est "+concept_B+"."
+        elif  self.chatbot.storage.get_related_concept(concept_A, "est", reverse=true) != None:
+            concept_B = self.chatbot.storage.get_related_concept(concept_A, "est", reverse=true)
+            # Turn the first letter of the concept_B chain to a capital
+            concept_B = concept_B.lower().capitalize()
+            response = concept_B+" est "+concept_A+" mais je ne sais pas vraiment ce qu'est"+concept_A+"."
+        else:
+            response = "Je ne sais pas ce qu'est "+concept_A+"."
 
         statment_out = Statement(response)
-        statment_out.confidence = self.get_confidence(1)
+        statment_out.confidence = self.get_confidence(confidence)
 
         return statment_out
