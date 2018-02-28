@@ -81,6 +81,8 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         Add the concept and return the concept id
         if the concept already exist, just return the id
         """
+        concept = concept.lower()
+
         session = self.Session()
 
         query = session.query(Concept).filter_by(name=concept)
@@ -101,6 +103,8 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         Add concepts and relation to the association table
         Also store concept if needed
         """
+        relation = relation.lower()
+
         session = self.Session()
 
         concept_A_id = self.store_concept(concept_A)
@@ -153,6 +157,38 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         session.close()
         return statement
 
+    def get_related_concept(self, concept, relation, reverse=False):
+        """Return a Concept that have a relation with another concept
+        Return None if nothing is found
+        """
+
+        session = self.Session()
+
+        concept_in_id = self.store_concept(concept)
+        query = session.query(ConceptAssociation)
+
+        if reverse:
+            query = query.filter_by(concept_B_id=concept_in_id, relation=relation)
+        else:
+            query = query.filter_by(concept_A_id=concept_in_id, relation=relation)
+
+        association = query.first()
+
+        if association:
+            if reverse:
+                concept_out_id = association.concept_A_id
+            else:
+                concept_out_id = association.concept_B_id
+
+            query = session.query(Concept)
+            query = query.filter_by(id=concept_out_id)
+            concept_out = query.first()
+
+            session.close()
+            return concept_out.name
+
+        session.close()
+        return None
 
 
     def get_latest_response(self, conversation_id):
@@ -162,3 +198,5 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         """
 
         return self.get_statement()
+
+    def count_conv
