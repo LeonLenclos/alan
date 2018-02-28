@@ -199,4 +199,5 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
         return self.get_statement()
 
-    def count_conv
+    def count_conv(self):
+        pass
