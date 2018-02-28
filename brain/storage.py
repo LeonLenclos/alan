@@ -107,8 +107,8 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
         session = self.Session()
 
-        concept_A_id = self.store_concept(concept_A)
-        concept_B_id = self.store_concept(concept_B)
+        concept_A_id = self.store_concept(str.strip(concept_A))
+        concept_B_id = self.store_concept(str.strip(concept_B))
 
         query = session.query(ConceptAssociation).filter_by(
             concept_A_id=concept_A_id,
