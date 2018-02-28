@@ -49,7 +49,7 @@ class Alan(chatterbot.ChatBot):
         if input_item:
             input_statement = Statement(input_item)
         else:
-            input_statement = self.input.process_input_statement(input_item)
+            input_statement = self.input.process_input()
 
         # Preprocess the input statement
         for preprocessor in self.preprocessors:
