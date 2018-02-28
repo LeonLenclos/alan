@@ -2,6 +2,8 @@
 # -*- coding: Latin-1 -*-
 import argparse
 import json
+import re
+import sys
 import chatterbot
 from logic import MainLogicAdapter
 from chatterbot.conversation import Statement
@@ -58,6 +60,11 @@ class Alan(chatterbot.ChatBot):
         # get response
         response = self.logic.process(input_statement)
 
+        # search command
+        command_regex = r"\*(.+)\*"
+        command = re.search(command_regex, response.text)
+        response.text = re.sub(command_regex, "", response.text)
+
         # store response
         if not self.read_only:
             self.storage.add_to_conversation(conversation_id,
@@ -65,7 +72,16 @@ class Alan(chatterbot.ChatBot):
                                             response)
 
         # Process the response output with the output adapter
-        return self.output.process_response(response, conversation_id)
+        output = self.output.process_response(response, conversation_id)
+
+        # execute command
+        if command: self.execute_command(command.group(1))
+
+        return output
+
+    def execute_command(self, command):
+        self.logger.info('command "{}" passed by Alan'.format(command))
+        if command == 'quit': sys.exit()
 
     def learn_response(self, statement, previous_statement):
         """
@@ -107,5 +123,6 @@ if __name__ == '__main__':
             try:
                 print("> ", end="")
                 alan.get_response(None)
+
             except(KeyboardInterrupt, EOFError, SystemExit):
                 break
