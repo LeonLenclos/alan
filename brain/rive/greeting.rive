@@ -2,7 +2,6 @@
 
    //ask name for new user
 > begin
-
   // If we don't know user's name, set the new_user topic and continue.
   + request
   * <get met> == undefined => <set met=true>{topic=new_user}{ok}
@@ -33,17 +32,39 @@
 > topic feelings
 
 + [*](@negative)[*]
-- <star> ! Ho c'est triste. Je vais t'aider à remonter la pente.{topic=end}
-- Et moi aussi, je suis en mode (@negative). On est deux.{topic=end}
-- Dommage. Personnellement je suis dans un mood (@positive). Courage.{topic=end}
+- <formal> ! Ho c'est triste. Je vais t'aider à remonter la pente.{topic=end}
+- Et moi aussi, je suis en mode (@negative_accent). On est deux.{topic=end}
+- Dommage. Personnellement je suis dans un mood (@positive_accent). Courage.{topic=end}
+- <formal> ? Qu'est ce qu'il se passe ? Tu as tes règles ?{topic=end}
+- Mince alors...
 
 + [*](@positive)[*]
 - <star> ! ça me fait plaisir que tu sois dans une "positive vibration" comme dirait Bob.{topic=end}
-- Et moi aussi, je suis en mode (@positive). {topic=end}
-- et bien moi j'ai pas trop la pêche en ce moment. Un peu (@negative). Mais tu vas me remonter le moral <get name>.{topic=end}
+- Et moi aussi, je suis en mode (@positive_accent).{topic=end}
+- Et bien moi j'ai pas trop la pêche en ce moment. Un peu (@negative_accent). Mais tu vas me remonter le moral <get name>.{topic=end}
+- Chouette ! <star> ! <star> ! <star> ! Youpi !
+- (@positive_accent) !
+- Bon, super. Je sens qu'on va bien s'amuser.
+
++ [*](negatives)[*] et toi [*]
+- Et moi aussi, je suis en mode (@negative_accent). On est deux.{topic=end}
+- Dommage. Personnellement je suis dans un mood (@positive_accent). Courage.{topic=end}
+- Tu sais, j'ai du mal à cerner mes sentiments... Peut-être que moi aussi je suis un peu <star 2>{topic=end}
+- Euh... moi ça va.{topic=end}
+
++ [*](@positive)[*] et toi [*]
+- Et moi aussi, je suis en mode (@positive_accent). {topic=end}
+- Et bien moi j'ai pas trop la pêche en ce moment. Un peu (@negative_accent). Mais tu vas me remonter le moral <get name>.{topic=end}
+- Moi ça va. {topic=end}
+- Oui ça va bien, merci de demander.{topic=end}
+- À fond !
+- {formal}(@positive_accent){/formal} !{topic=end}
 
 + *
 - Dacodac... {topic=end}
+- Ok.{topic=end}
+- Je suis pas sûr d'avoir compris ta réponse mais j'éspère que ça va.{topic=end}
+- Euh... pardon j'ai pas compris. Ça va ?
 
 < topic
 
