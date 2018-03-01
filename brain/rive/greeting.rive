@@ -32,9 +32,9 @@
   - <formal> <star>. Moi c'est <bot name>, je suis un robot. Je suppose que toi tu es un humain ? Comment t'appelles-tu ?{topic=asked_name}
 
   + (@hello) <bot name>
-  - <formal> ! C'est qui ?
-  - <formal> ! Qui est à l'appareil ?
-  - Coucou, comment tu t'appelle ?
+  - <formal> ! C'est qui ?{topic=asked_name}
+  - <formal> ! Qui est à l'appareil ?{topic=asked_name}
+  - Coucou, comment tu t'appelle ?{topic=asked_name}
 
 
 < topic
