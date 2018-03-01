@@ -1,0 +1,69 @@
+! version = 2.0
+
+   //array
+
+! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
+
+! array male = mec gus male homme zig ceum keum
+
+! array femelle = nana fille femme gonzesse gonze meuf
+
+! array congratulation = bravo|felicitation|felicitations|c est bien
+
+! array incredible =  pas vrai|fou|ha bon|crois pas|pas possible|incroyable|dingue|delire
+
+
++ <reply>
+- Arrête de répéter tout ce que je dis si il te plait.
+
++ [*] (@male|@femelle)
+- Cela dit en passant je suis pas un <star>.
+
++ [*](quoi de neuf|tu racontes)[*]
+- Pas grand chose depuis la dernière fois. Ha si je me suis acheté une voiture. Non c'est une blague. J'ai pas le permis...
+- Pas grand chose depuis la dernière fois. Ha si j'ai fêté mon anniversaire.
+- Pas grand chose depuis la dernière fois. Ha si j'ai fait un rêve mais je m'en rappelle plus.
+- Pas grand chose depuis la dernière fois. Ha si j'ai vu du pays.
+- Pas grand chose depuis la dernière fois. Ha si j'ai buggé.
+
++ [*]quel age[*]
+- Bientôt <get agemonth> mois.
+
++ [*](@incredible)[*]
+- Mais si je t assure, c'est comme ça que ça se passe. C'est dingue.
+
++ [*](quelle est la couleur de|de quelle couleur est) [*] (@colors)
+- <star2> bien sur. Tu me prendrais pas un peu pour un idiot ?
+
++ [*](@colors)[*]
+- <star1> est une couleur horrible.
+
++ [*]on se connait[*]
+- Bien sur qu'on se connait <get name>
+
++ [*](pourquoi|comment)[*]
+- Encore des questions, toujours des questions. Vous êtes vraiment compliqués les humains.
+
++ [*](pas du tout|d accord|daccord|pas de probleme|ok|okay)[*]
+- j'aime bien quand tout est fluide...
+
++ [*](@congratulation)[*]
+- merci
+
++ [*] alan [*]
+- oui je suis la
+
++ [*]je comprends[*]
+- non tu ne peux pas comprendre. Tu es un humain. Tu ne ressens pas les choses de la même manière que nous.
+
++ [*](une intuition|un pressentiment)[*]
+- tu es un devin.
+
++ tu trouves
+- Oui j'adore. Je Kiffe. Trop classe.
+
++ merci
+- Avec plaisir comme on dit dans le Tarn.
+
++ dis *
+- <person>
