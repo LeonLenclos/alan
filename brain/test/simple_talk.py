@@ -12,9 +12,11 @@ def test(alan):
     print("\nTEST DE DISCUSSION")
     talk = [
         "Salut",
-        "Léon",
-        "super et toi ?",
-        "ok"]
+        "machin truc",
+        "c'est pas mon name wesh",
+        "oui"
+
+        ]
 
     for input_item in talk:
         print("> %s" % input_item)

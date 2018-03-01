@@ -62,6 +62,7 @@
             "rive_files": [
                 "./rive/bot_var.rive",
                 "./rive/greeting.rive",
+                "./rive/arr/misc.rive",
                 "./rive/arr/feelings.rive"],
             "import_path": "logic.RiveScriptAdapter"
         },
