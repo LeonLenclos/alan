@@ -40,9 +40,11 @@ class KesakoAdapter(AlanLogicAdapter):
             raise TypeError("questions must be a list")
 
 
+
+
     def can_process(self, statement):
-        # Process only if there is a latest statement in the conversation
-        #containing the chain "est"
+        # Process only if the latest statement in the conversation
+        # containing the chain "est"
         return ("est" in statement.text)
 
     def process(self, statement):
@@ -68,12 +70,15 @@ class KesakoAdapter(AlanLogicAdapter):
 
         # Get the interrogative part of the question that is before the concept_A
         question = statement.text.split(concept_A)[0]
-        # Remove the chain "?" from concept_A
-        concept_A = re.sub(r"\?","",concept_A)
+        # Remove the punctuation from concept_A except apostrophe "'"
+        concept_A = re.sub(r"[.?:,;!]","",concept_A)
         # Remove starting and ending spaces
         concept_A=concept_A.strip()
         # Get the distance between input statement and questions list
         confidence = compare(question, self.questions)
+        # Verify that concept_A is non-empty
+        if len(concept_A) == 0:
+            confidence=0
 
         # This block is an idea for recognizing if "Qu'est ce que..." questions
         # are followed by a verb, detecting the presence of "tu"
