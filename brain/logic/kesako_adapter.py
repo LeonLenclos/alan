@@ -48,10 +48,10 @@ class KesakoAdapter(AlanLogicAdapter):
     def process(self, statement):
         # concept_A is the chain following the last "est" occurence
         relation="est"
-        concept_A = re.sub(".*([ ']est)","",statement.text)
+        concept_A = re.sub(".*([ ']est (que )*)","",statement.text)
         # Remove the chain " quoi " from concept_A (because of "C'est quoi..."
         # questions)
-        concept_A = re.sub(" quoi ","",concept_A)
+        concept_A = re.sub("^(quoi)","",concept_A)
 
         # The following block allow the kezako adapter to answer to the "Qu'est
         # ce que..." and "Qu'est ce qu'..." questions.
@@ -92,10 +92,10 @@ class KesakoAdapter(AlanLogicAdapter):
             # Turn the first letter of the concept_B chain to a capital
             concept_B = concept_B.lower().capitalize()
             response = concept_B+" est "+concept_A+" mais je ne sais pas "\
-                    "vraiment ce qu'est "+concept_A+"."+"Pourrais tu me dire "\
+                    "vraiment ce qu'est "+concept_A+". "+"Pourrais tu me dire "\
                     "en quelques mots ce qu'est "+concept_A+"."
         else:
-            response = "Je ne sais pas ce qu'est "+concept_A+"."+"Pourrais tu "\
+            response = "Je ne sais pas ce qu'est "+concept_A+". "+"Pourrais tu "\
                         "me dire en quelques mots ce qu'est "+concept_A+"."
 
         statment_out = Statement(response)
