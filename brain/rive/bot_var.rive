@@ -1,0 +1,7 @@
+! version = 2.0
+
+// Bot variables
+! var name = alan
+! var agemonth = 3
+! var mood = heureux
+! var geographic = graulhet
