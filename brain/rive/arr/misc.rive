@@ -1,0 +1,12 @@
+! version = 2.0
+
+// This file contain miscellaneous arrays
+
+// name introductions
+! array name_intro = je m appelle|je suis|moi c est|mon nom c est|appelle moi|on m'appelle
+
+// hello
+! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour|ciao|hola
+
+// goodbye
+! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientot
