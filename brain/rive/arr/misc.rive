@@ -9,4 +9,8 @@
 ! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour|ciao|hola
 
 // goodbye
+<<<<<<< HEAD
 ! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientot|
+=======
+! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientot
+>>>>>>> e1b67c30fd5e08c588640228c6c233d85d154f3a
