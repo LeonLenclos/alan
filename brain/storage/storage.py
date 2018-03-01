@@ -1,7 +1,7 @@
 from chatterbot.storage import SQLStorageAdapter
 from sqlalchemy import desc
-from models import Base
-from models import Statement, Conversation, Tag, Concept, ConceptAssociation
+from .models import Base
+from .models import Statement, Conversation, Tag, Concept, ConceptAssociation
 
 # This is the chatterbot's SQLStorageAdapter modified for Alan
 # does not record Response objects
