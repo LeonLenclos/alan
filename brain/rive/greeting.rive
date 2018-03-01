@@ -16,7 +16,7 @@
 < begin
 
 
-// When a new user is comming.
+// When a new user is coming.
 > topic new_user
 
   // We ask for his name.
