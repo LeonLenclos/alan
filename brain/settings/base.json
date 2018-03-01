@@ -67,6 +67,26 @@
             "import_path": "logic.RiveScriptAdapter"
         },
         {
+            "identifier": "one_step-aside",
+            "skill_description": [
+              "j'ai dis ça comme ça"],
+            "rive_files": [
+                "./rive/bot_var.rive",
+                "./rive/one_step-aside.rive",
+                "./rive/arr/misc.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "mainstream",
+            "skill_description": [
+              "parce que c'est vrai"],
+            "rive_files": [
+                "./rive/bot_var.rive",
+                "./rive/one_step-aside.rive",
+                "./rive/arr/misc.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
             "identifier": "justification",
             "skill_description": ["Je voulais me justifier..."],
             "import_path": "logic.Justification",
