@@ -13,7 +13,7 @@ class Alan(chatterbot.ChatBot):
 
     def __init__(self):
         # load settings
-        with open("settings.json", "r") as file:
+        with open("settings/base.json", "r") as file:
             settings = json.load(file);
 
         # init chatterbot
