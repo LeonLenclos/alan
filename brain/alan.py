@@ -7,6 +7,7 @@ import sys
 import chatterbot
 from logic import MainLogicAdapter
 from chatterbot.conversation import Statement
+from test.simple_talk import test
 
 class Alan(chatterbot.ChatBot):
     """Alan is a chatbot"""
@@ -115,7 +116,6 @@ if __name__ == '__main__':
 
     # Mode test
     if ap.parse_args().t:
-        from test import test
         test(alan)
     else :
         # discussion loop

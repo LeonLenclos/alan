@@ -2,7 +2,7 @@
 
 Alan est un agent conversationel créé pour le spectacle Turing Test.
 
-Ce dépôt est consacré au code source d'alan. Pour des information concernant alan, pour une description d'alan, pour des images d'alan, preferons le dépôt turing-test
+Ce dépôt est consacré au code source d'alan. Pour des information concernant alan, pour une description d'alan, pour des images d'alan, preferons le dépôt turing-test.
 
 - [Turing Test](https://github.com/LeonLenclos/turing-test)
 - [Présentation d'Alan](https://github.com/LeonLenclos/turing-test/blob/master/textes/alan.md)

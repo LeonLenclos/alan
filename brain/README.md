@@ -24,7 +24,7 @@ Dans la mesure du possible, nous feront en sorte de baser tous les ellements d'a
 - Les modules servant à générer une réponse en fonction d'une entrée heriteront de LogicAdapter
 - Un module servant à gérer la reconnaissance vocale devra être un InputAdapter
 - Un module servant à gérer la synthèse vocale devra être un OutputAdapter
-- ...
+- ....
 
 ## RiveScript
 

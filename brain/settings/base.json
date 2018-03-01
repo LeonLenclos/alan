@@ -21,7 +21,7 @@
             "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
             "max_confidence": 0.5,
             "import_path": "logic.RelevantQuotation",
-            "quotations_file": "./quotes/einstein.txt",
+            "quotations_file": "./txt/einstein.txt",
             "context": [
                 "À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
                 "Einstein a dis une belle chose à ce sujet : %(quote)s."
@@ -32,7 +32,7 @@
             "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
             "max_confidence": 0.5,
             "import_path": "logic.RelevantQuotation",
-            "quotations_file": "./quotes/proverbs.txt",
+            "quotations_file": "./txt/proverbs.txt",
             "context": [
                 "%(quote)s Comme on dit !",
                 "Ne dis-t-on pas : %(quote)s ?",
@@ -42,19 +42,27 @@
         {
             "identifier": "blagues",
             "skill_description": ["C'était pour rire."],
-            "rive_files": ["./rive/begin.rive","./rive/jokes.rive"],
+            "rive_files": ["./rive/jokes.rive"],
             "import_path": "logic.RiveScriptAdapter"
         },
         {
             "identifier": "outrage",
             "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
-            "rive_files": ["./rive/begin.rive","./rive/outrage.rive","./rive/array-outrages-no-accent.rive"],
+            "rive_files": [
+                "./rive/bot_var.rive",
+                "./rive/outrage.rive",
+                "./rive/arr/outrages.rive"],
             "import_path": "logic.RiveScriptAdapter"
         },
         {
             "identifier": "greeting",
-            "skill_description": ["Parce que toute conversation commence par un échange de politesse","Parce qu'il faut apprendre à se connaître avant toute chose"],
-            "rive_files": ["./rive/begin.rive","./rive/greeting.rive","./rive/array-negative-positive-no-accent.rive"],
+            "skill_description": [
+                "Parce que toute conversation commence par un échange de politesse",
+                "Parce qu'il faut apprendre à se connaître avant toute chose"],
+            "rive_files": [
+                "./rive/bot_var.rive",
+                "./rive/greeting.rive",
+                "./rive/arr/feelings.rive"],
             "import_path": "logic.RiveScriptAdapter"
         },
         {
