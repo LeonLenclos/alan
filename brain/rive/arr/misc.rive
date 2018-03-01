@@ -10,3 +10,18 @@
 
 // goodbye
 ! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientot
+
+// colors
+! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
+
+// male
+! array male = mec gus male homme zig ceum keum
+
+//femelle
+! array femelle = nana fille femme gonzesse gonze meuf
+
+//congratulations
+! array congratulation = bravo|felicitation|felicitations|c est bien
+
+//incredible
+! array incredible =  pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable|dingue|delire
