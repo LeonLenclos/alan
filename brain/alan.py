@@ -115,7 +115,7 @@ if __name__ == '__main__':
 
     # Mode test
     if ap.parse_args().t:
-        from test import test
+        from test.simple_talk import test
         test(alan)
     else :
         # discussion loop
