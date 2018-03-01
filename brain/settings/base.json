@@ -1,0 +1,91 @@
+{
+    "logic_adapters": [
+        {
+            "identifier": "repete",
+            "questions": ["Qu'est ce que tu viens de dire ?", "T'as dit quoi ?"],
+            "context": ["J'ai juste dit %(quote)s", "J'ai dit %(quote)s. Pourquoi cette question ?"],
+            "skill_description": ["J'assume tout ce que j'ai pu dire."],
+            "speaker":"alan",
+            "import_path": "logic.Historic"
+        },
+        {
+          "identifier": "jai-dit-quoi",
+          "questions": ["Qu'est ce que je viens de dire ?", "J'ai dit quoi ?", "Qu'est ce que tu as compris de ma phrase ?", "tu peux répeter ce que je viens de dire ?"],
+          "context": ["%(quote)s", "Tu as dit %(quote)s."],
+          "skill_description": ["J'ai une bonne mémoire je me souviens de tout ce qu'on m'a dit."],
+          "speaker":"human",
+          "import_path": "logic.Historic"
+        },
+        {
+            "identifier": "einstein",
+            "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
+            "max_confidence": 0.5,
+            "import_path": "logic.RelevantQuotation",
+            "quotations_file": "./quotes/einstein.txt",
+            "context": [
+                "À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
+                "Einstein a dis une belle chose à ce sujet : %(quote)s."
+            ]
+        },
+        {
+            "identifier": "proverbes",
+            "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
+            "max_confidence": 0.5,
+            "import_path": "logic.RelevantQuotation",
+            "quotations_file": "./quotes/proverbs.txt",
+            "context": [
+                "%(quote)s Comme on dit !",
+                "Ne dis-t-on pas : %(quote)s ?",
+                "Comme dit le proverbe : %(quote)s"
+            ]
+        },
+        {
+            "identifier": "blagues",
+            "skill_description": ["C'était pour rire."],
+            "rive_files": ["./rive/begin.rive","./rive/jokes.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "outrage",
+            "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
+            "rive_files": ["./rive/begin.rive","./rive/outrage.rive","./rive/array-outrages-no-accent.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "greeting",
+            "skill_description": ["Parce que toute conversation commence par un échange de politesse","Parce qu'il faut apprendre à se connaître avant toute chose"],
+            "rive_files": ["./rive/begin.rive","./rive/greeting.rive","./rive/array-negative-positive-no-accent.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "justification",
+            "skill_description": ["Je voulais me justifier..."],
+            "import_path": "logic.Justification",
+            "questions" : ["pourquoi t'as dit ca ?"],
+            "default_responses": ["Je dis ce que je veux ! je n'ai pas à me justifier."]
+        },
+        {
+            "identifier": "Kesako",
+            "skill_description": ["J'aime savoir ce que sont les choses."],
+            "import_path": "logic.KesakoAdapter",
+            "questions" : ["C'est quoi","Qu'est ce que c'est","Tu sais ce que c'est","Sais tu ce que c'est","Sais tu ce qu'est"]
+
+        },
+        {
+            "identifier": "Esako",
+            "skill_description": ["J'aime apprendre ce que sont les choses."],
+            "import_path": "logic.EsakoAdapter"
+
+        }
+    ],
+
+    "storage_adapter": "storage.AlanSQLStorageAdapter",
+    "input_adapter": "chatterbot.input.TerminalAdapter",
+    "output_adapter": "chatterbot.output.TerminalAdapter",
+    "preprocessors": [
+        "chatterbot.preprocessors.clean_whitespace",
+        "chatterbot.preprocessors.convert_to_ascii",
+        "preprocessors.add_speaker_data"
+    ],
+    "database": "./database.sqlite3"
+}
