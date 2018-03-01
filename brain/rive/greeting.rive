@@ -1,4 +1,8 @@
 // This rive file is for the begin of a conversation.
+// excepted script is :
+// new user -> asked name -> feelings -> end
+// but there can be detours by confirm_hello and confirm_name
+
 ! version = 2.0
 
 // Script begin here.
@@ -19,7 +23,7 @@
   + *
   - Bonjour je suis <bot name> ! un comédien du spectacle Turing Test.\s
   ^ comment t'appelles tu?{topic=asked_name}
-  - Salut, je suis <bot name>. Est-ce que "<star>" c'est comme ça que tu dit bonjour ?{topic=asked_name}
+  - Salut, je suis <bot name>. Est-ce que "<star>" c'est comme ça que tu dit bonjour ?{topic=confirm_hello}
 
   // repeat the way user said hello and ask for name
   + (@hello)
@@ -27,8 +31,22 @@
   - <formal>, je suis <bot name> le meilleur robot du monde. Et toi t'es qui ?{topic=asked_name}
   - <formal> <star>. Moi c'est <bot name>, je suis un robot. Je suppose que toi tu es un humain ? Comment t'appelles-tu ?{topic=asked_name}
 
+  + (@hello) <bot name>
+  - <formal> ! C'est qui ?
+  - <formal> ! Qui est à l'appareil ?
+  - Coucou, comment tu t'appelle ?
+
+
 < topic
 
+// When we're not sure if the user said hello
+> topic confirm_hello
+
+  // now we want to know the name
+  + *
+  - Hm... Et sinon tu t'appelle comment ?{topic=asked_name}
+
+< topic
 
 // When we just aksed for the user name
 > topic asked_name
