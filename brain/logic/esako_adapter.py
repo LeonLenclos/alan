@@ -2,6 +2,7 @@ from logic import AlanLogicAdapter
 from chatterbot.conversation import Statement
 import re
 import utils
+import random
 
 class EsakoAdapter(AlanLogicAdapter):
     """This adapter is activated only if Kesako just answered before. If Kesako

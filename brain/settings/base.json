@@ -76,12 +76,27 @@
             "identifier": "Kesako",
             "skill_description": ["J'aime savoir ce que sont les choses."],
             "import_path": "logic.KesakoAdapter",
-            "questions" : ["C'est quoi","Qu'est ce que c'est","Tu sais ce que c'est","Sais tu ce que c'est","Sais tu ce qu'est"]
-
+            "questions": [
+              "C'est quoi",
+              "Qu'est ce que c'est",
+              "Tu sais ce que c'est",
+              "Sais tu ce que c'est",
+              "Sais tu ce qu'est"
+            ],
+            "relation": "est",
+            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(concept_A)s."
         },
         {
             "identifier": "Esako",
             "skill_description": ["J'aime apprendre ce que sont les choses."],
+            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(concept_A)s",
+            "relation": "est",
+            "context": [
+              "Merci beaucoup, maintenant je comprends mieux ce qu'est %(concept_A)s.",
+              "Ok, j'ignorais ce qu'était %(concept_A)s, merci!",
+              "D'accord, c'est gentil de m'avoir appris ce qu'est %(concept_A)s.",
+              "Aaaaaaah, c'est donc ça %(concept_A)s."
+            ],
             "import_path": "logic.EsakoAdapter"
 
         }
