@@ -40,24 +40,6 @@
             ]
         },
         {
-            "identifier": "greetings",
-            "skill_description": ["C'est juste de la politesse basique."],
-            "rive_files": ["./rive/greetings.rive"],
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "blagues",
-            "skill_description": ["C'était pour rire."],
-            "rive_files": ["./rive/jokes.rive"],
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "outrage",
-            "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
-            "rive_files": ["./rive/outrage.rive","./rive/array-outrages-no-accent.rive"],
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
             "identifier": "justification",
             "skill_description": ["Je voulais me justifier..."],
             "import_path": "logic.Justification",

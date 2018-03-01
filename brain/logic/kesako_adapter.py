@@ -50,10 +50,10 @@ class KesakoAdapter(AlanLogicAdapter):
     def process(self, statement):
         # concept_A is the chain following the last "est" occurence
         relation="est"
-        concept_A = re.sub(".*([ ']est)","",statement.text)
+        concept_A = re.sub(".*([ ']est (que )*)","",statement.text)
         # Remove the chain " quoi " from concept_A (because of "C'est quoi..."
         # questions)
-        concept_A = re.sub(" quoi ","",concept_A)
+        concept_A = re.sub("^(quoi)","",concept_A)
 
         # The following block allow the kezako adapter to answer to the "Qu'est
         # ce que..." and "Qu'est ce qu'..." questions.

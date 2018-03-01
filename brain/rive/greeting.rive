@@ -20,20 +20,36 @@
 
 > topic asked_name
 
-+*
- * <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?
-* <formal> == Fabien => <set name=<formal>>Salut <get name>, comment ça va ?
-* <formal> == Leon => <set name=<formal>>Ho <get name>, je savais que c'était toi. Est ce que ca va ?
-- <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?
 
-+ [*](@positive)[*]
-- <star> ! ça me fait plaisir que tu sois dans une "positive vibration" comme dirait Bob.{topic=random}
-- Et moi aussi, je suis en mode (@positive). {topic=random}
-- et bien moi aussi j'ai pas trop la pêche en ce moment. Un peu (@negative). Mais tu vas me remonter le moral <get name>.{topic=random}
++ *
+* <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
+* <formal> == Fabien => <set name=<formal>>Salut <get name>, comment ça va ?{topic=feelings}
+* <formal> == Leon => <set name=<formal>>Ho <get name>, je savais que c'était toi. Est ce que ca va ?{topic=feelings}
+- <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?{topic=feelings}
+
+
+< topic
+
+> topic feelings
 
 + [*](@negative)[*]
-- <star> ! Ho c'est triste. Je vais t'aider à remonter la pente.{topic=random}
-- Et moi aussi, je suis en mode (@negative). On est deux.{topic=random}
-- Dommage. Personnellement je suis dans un mood (@positive). Courage.{topic=random}
+- <star> ! Ho c'est triste. Je vais t'aider à remonter la pente.{topic=end}
+- Et moi aussi, je suis en mode (@negative). On est deux.{topic=end}
+- Dommage. Personnellement je suis dans un mood (@positive). Courage.{topic=end}
+
++ [*](@positive)[*]
+- <star> ! ça me fait plaisir que tu sois dans une "positive vibration" comme dirait Bob.{topic=end}
+- Et moi aussi, je suis en mode (@positive). {topic=end}
+- et bien moi j'ai pas trop la pêche en ce moment. Un peu (@negative). Mais tu vas me remonter le moral <get name>.{topic=end}
+
++ *
+- Dacodac... {topic=end}
+
+< topic
+
+> topic end
+
++ c est bien alan ton nom
+- Oui. Et comment tu t'appelle déjà ? {topic=asked_name}
 
 < topic
