@@ -21,7 +21,7 @@
             "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
             "max_confidence": 0.5,
             "import_path": "logic.RelevantQuotation",
-            "quotations_file": "./quotes/einstein.txt",
+            "quotations_file": "./txt/einstein.txt",
             "context": [
                 "À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
                 "Einstein a dis une belle chose à ce sujet : %(quote)s."
@@ -32,7 +32,7 @@
             "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
             "max_confidence": 0.5,
             "import_path": "logic.RelevantQuotation",
-            "quotations_file": "./quotes/proverbs.txt",
+            "quotations_file": "./txt/proverbs.txt",
             "context": [
                 "%(quote)s Comme on dit !",
                 "Ne dis-t-on pas : %(quote)s ?",
@@ -50,12 +50,27 @@
             "identifier": "Kesako",
             "skill_description": ["J'aime savoir ce que sont les choses."],
             "import_path": "logic.KesakoAdapter",
-            "questions" : ["C'est quoi","Qu'est ce que c'est","Tu sais ce que c'est","Sais tu ce que c'est","Sais tu ce qu'est"]
-
+            "questions": [
+              "C'est quoi",
+              "Qu'est ce que c'est",
+              "Tu sais ce que c'est",
+              "Sais tu ce que c'est",
+              "Sais tu ce qu'est"
+            ],
+            "relation": "est",
+            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(concept_A)s."
         },
         {
             "identifier": "Esako",
             "skill_description": ["J'aime apprendre ce que sont les choses."],
+            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(concept_A)s",
+            "relation": "est",
+            "context": [
+              "Merci beaucoup, maintenant je comprends mieux ce qu'est %(concept_A)s.",
+              "Ok, j'ignorais ce qu'était %(concept_A)s, merci!",
+              "D'accord, c'est gentil de m'avoir appris ce qu'est %(concept_A)s.",
+              "Aaaaaaah, c'est donc ça %(concept_A)s."
+            ],
             "import_path": "logic.EsakoAdapter"
 
         }
