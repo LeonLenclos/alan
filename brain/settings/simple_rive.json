@@ -1,0 +1,21 @@
+{
+    "logic_adapters": [
+        {
+            "identifier": "rive",
+            "rive_files": [
+                "./rive/one_step_aside.rive",
+                "./rive/bot_var.rive","./rive/arr/misc.rive","./rive/mainstream.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        }
+    ],
+
+    "storage_adapter": "storage.AlanSQLStorageAdapter",
+    "input_adapter": "chatterbot.input.TerminalAdapter",
+    "output_adapter": "chatterbot.output.TerminalAdapter",
+    "preprocessors": [
+        "chatterbot.preprocessors.clean_whitespace",
+        "chatterbot.preprocessors.convert_to_ascii",
+        "preprocessors.add_speaker_data"
+    ],
+    "database": "./database.sqlite3"
+}

@@ -24,7 +24,7 @@ Dans la mesure du possible, nous feront en sorte de baser tous les ellements d'a
 - Les modules servant à générer une réponse en fonction d'une entrée heriteront de LogicAdapter
 - Un module servant à gérer la reconnaissance vocale devra être un InputAdapter
 - Un module servant à gérer la synthèse vocale devra être un OutputAdapter
-- ...
+- ....
 
 ## RiveScript
 
@@ -38,34 +38,54 @@ On uttilisera RiveScript pour la partie la plus scénarisée d'Alan.
 - [RiveScript playground](https://play.rivescript.com/) : Tester du code RiveScript en ligne
 - [rivescript-python](https://github.com/aichaos/rivescript-python) : Le module python utilisé par le `RiveScriptAdapter` d'Alan
 
+## Statement
+
+Les objets staement
+
+```
+   statement.text # str : Le texte du statement
+   statement.confidence # int : l'indice de confiance
+   statement.extra_data["speaker"] # str : qui a parlé ("alan" ou "human")
+   statement.extra_data["logic_identifier"] # str : quel logic adapter a parlé (eg. "einstein")
+```
+
+
 ## architecture
 
-(en gros)
+Inspirée de celle du package chatterbot. En voici un résumé
 
-### alan.py
+#### alan.py
 
 Le fichier qu'il faut lancer pour parler avec alan. On y défini alan et on lance la discussion.
 
-### settings.json
+#### settings/
 
 Les réglages d'Alan pour son initialisation. Il y est surtout question de quels adapters il faut utiliser avec quels réglages.
 
-### logic/
+#### logic/
 
 Un dossier contenant les logic_adapters d'Alan. contient aussi un `__init__.py` à tenir à jour.
 
-### quotes/
+#### txt/
 
-Un dossier contenant des fichiers .txt utilisés par les RelevantQuotation
+Un dossier contenant des fichiers .txt utilisés par les RelevantQuotation (pour l'instant)
 
-### rive/
+#### rive/
 
 Un dossier contenant des fichiers .rive utilisés par les RiveScriptAdapter
 
-### preprocessors.py
+#### test/
+
+Un dossier contenant des test
+
+#### storage/
+
+Gère la manière dont sont stockées et sont récupérées les infos dans la base de donnée
+
+#### preprocessors.py
 
 Un fichier contenant des fonctions de type preprocessor
 
-### utils.py
+#### utils.py
 
 Un fichier contenant des fonctions de type utilitaires

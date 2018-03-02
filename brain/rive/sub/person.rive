@@ -1,0 +1,15 @@
+! version = 2.0
+
+// Person substitutions
+! person je suis = tu es
+! person tu es = je suis
+! person nous sommes = vous etes
+! person vous etes = nous sommes
+! person mon = ton
+! person ton = mon
+! person toi = moi
+! person moi = toi
+! person je = tu
+! person tu = je
+! person nous = vous
+! person vous = nous

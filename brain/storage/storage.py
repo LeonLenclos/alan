@@ -1,7 +1,7 @@
 from chatterbot.storage import SQLStorageAdapter
 from sqlalchemy import desc
-from models import Base
-from models import Statement, Conversation, Tag, Concept, ConceptAssociation
+from .models import Base
+from .models import Statement, Conversation, Tag, Concept, ConceptAssociation, conversation_association_table
 
 # This is the chatterbot's SQLStorageAdapter modified for Alan
 # does not record Response objects
@@ -157,6 +157,20 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         session.close()
         return statement
 
+    def get_latest_response_extra_data(self, extra_data=None, **kwargs):
+        """Return the extra_data of a statement.
+        Because it call get_latest_statement, kwargs are the same.
+        You should pass also the kwarg extra_data for the key of the extra_data
+        you want to receive.
+        Default is None and return all the extra_data as a dict
+        """
+        statement = self.get_latest_statement(**kwargs)
+
+        if extra_data:
+            return statement.extra_data[extra_data]
+
+        return statement.extra_data
+
     def get_related_concept(self, concept, relation, reverse=False):
         """Return a Concept that have a relation with another concept
         Return None if nothing is found
@@ -199,5 +213,15 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
         return self.get_statement()
 
-    def count_conv(self):
-        pass
+    def count_conv(self, conversation_id):
+        """
+        Return the number of statement in a conversation.
+        """
+        session = self.Session()
+
+        count = session.query(conversation_association_table)
+        count = count.filter_by(conversation_id=conversation_id)
+        count = count.count()
+        session.close()
+
+        return count

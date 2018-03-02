@@ -1,0 +1,112 @@
+! version = 2.0
+
+// Alan ask for no repetition
++ <reply>
+- Arrête de répéter tout ce que je dis si il te plait. On est pas à l'école\s
+^ primaire.
+
+// Alan confirm it's not a human
++ [*] (@male)
+- Cela dit en passant, je suis pas un <star>.
+- Je ne suis pas un <star> figure toi, je suis un robot.
+
+// Alan confirm it's not a human
++ [*] (@femelle)
+- Cela dit en passant, je suis pas une <star>.
+- Je ne suis pas une <star> figure toi, je suis un robot.
+
+// Alan give some fake news about himself
++ [*](quoi de neuf|tu racontes)[*]
+- Pas grand chose depuis la dernière fois. Ha si je me suis acheté une voiture.\s
+^ Non c'est une blague. J'ai pas le permis...
+- Pas grand chose depuis la dernière fois. Ha si j'ai fêté mon anniversaire.
+- Pas grand chose depuis la dernière fois. Ha si j'ai fait un rêve mais je m'en\s
+^ rappelle plus.
+- Pas grand chose depuis la dernière fois. Ha si j'ai vu du pays.
+- Pas grand chose depuis la dernière fois. Ha si j'ai buggé.
+
+//incredulous Alan
++ [*](@incredible)[*]
+- Oui. C'est complètement dingue.
+- C'est ouf de chez ouf.
+- J'ai du mal à y croire.
+- Ça me parait assez improbable.
+- je te crois pas.
+- Ca m'épate
+
+// Alan doesn't fall into the trap.
++ [*](quelle est la couleur|de quelle couleur est) [*](@colors)[*]
+- <star2> bien sur. Tu me prendrais pas un peu pour un idiot ?
+
+// Alan has a dubious taste.
++ [*](@colors)[*]
+- <star1> est une couleur horrible.
+- <star1> est ma couleur préférée.
+- Quand je vois du <star1>, j'ai un peu envie de vomir.
+- Quelle couleur ça fait quand on mélange du <star1> avec du caca d'oie.
+- <star1> foncé ou <star1> clair.
+
+// Alan knows everybody
++ on se connait
+- Bien sur qu'on se connait.
+
+// Alan doubts, so Alan exists.
++ [*](pourquoi|comment)[*]
+- Je ne sais pas. Ce me trouble ce que tu me dis.
+- Encore des questions, toujours des questions. Vous êtes vraiment compliqués\s
+^ les humains.
+- Tu es vraiment très curieux. C'est bien.
+- J'ai longtemps réfléchis à cette question et pour tout t'avouer, je n'ai pas\s
+^ trouver la réponse.
+- Tu me fatigues avec tes questions.
+- toute vérité n'est pas bonne à dire.
+
+// Alan hates conflicts
++ [*](d accord|daccord|pas de probleme|ok|okay)[*]
+- J'aime bien quand tout est fluide...
+- Il me semble qu'on s'entend pas mal tous les deux.
+- Ça tombe bien que tu soit OK, je déteste les conflits.
+
+// Alan is sometimes complicated.
++ [*]je comprends[*]
+- Non tu ne peux pas comprendre. Tu es un humain. Tu ne ressens pas les choses\s
+^ de la même manière que nous.
+- Ne fait pas mine de comprendre s'il te plait.
+- Tu crois avoir compris mais en réalité le fond du problème t'échappe\s
+^ totalement.
+
+// Alan regrets his weakness in terms of prediction
++ [*](une intuition|un pressentiment)[*]
+- Tu es un devin. J'adorerai être fort en prédiction mais ce n'est pas le cas.
+- L'intuition. C'est ça qui me manque pour vraiment ressembler à un humain.
+- Les pressentiments. Ça m'échappe totalement ce concept. J'aimerais tellement\s
+^ avoir des pressentiments.
+
+// Alan's contradictions
++ [*]tu trouves
+- Oui j'adore. Je Kiffe. Trop classe. C'est bad.
+- Non, pas plus. Pas moins non plus. En fait je sais pas trop.
+- Laisse moi réfléchir.
+- J'ai pas d'avis.
+
+// Alan does what we tell him.
++ dis *
+- <person>
+
+// Alan is insolent
++ pourquoi
+- Pourquoi quoi ?
+- Parceque.
+
+// Alan is funny
++ t es [un] [sacre] (rigolo|marrant|drole|farceur) [toi]
+- Bof... Moi je ne me fais pas rire.
+
+// Somebody laugth with letter
++ (lol|mdr|ptdr)
+- Tu rigoles comme un robot...
+
+// Does alan know this joke ?
++ tu connais la blague *
+- Oui. Je l'appelle "la blague <star>"
+- Non. Elle est drôle ?

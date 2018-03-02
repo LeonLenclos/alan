@@ -1,11 +1,4 @@
 def test(alan):
-    print("\nTEST DE STORAGE")
-    print("chaise (id : %i)" % alan.storage.store_concept("chaise"))
-    print("objet (id : %i)" % alan.storage.store_concept("objet"))
-    alan.storage.store_concept_association("chaise", "est", "objet")
-    alan.storage.store_concept_association("pince", "est", "objet")
-    alan.storage.store_concept_association("pince", "est", "outils")
-
 
     print("\nTEST DE STORAGE")
     print("chaise (id : %i)" % alan.storage.store_concept("une chaise"))
@@ -15,14 +8,22 @@ def test(alan):
     alan.storage.store_concept_association("une choose", "est", "un truc")
     alan.storage.store_concept_association("un truc", "est", "une chose")
 
-
-    print("\nTEST DE DISCUSSION")
     talk = [
         "Salut",
-        "ca va ?",
-        "t'as dit quoi ?",
-        "C'est quoi une chaise?"]
+        "Salut",
+        "Salut",
+        "machin truc"
+        ]
 
     for input_item in talk:
         print("> %s" % input_item)
         alan.get_response(input_item)
+
+    print("latest statement logic : %s"
+        % alan.storage.get_latest_response_extra_data(extra_data="logic_identifier"))
+
+    print("latest statement speaker : %s"
+        % alan.storage.get_latest_response_extra_data(extra_data="speaker"))
+
+    print("conversation count : %s"
+        % alan.storage.count_conv(alan.default_conversation_id))

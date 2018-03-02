@@ -13,7 +13,7 @@
 
   + *
   % * une bonne blague *
-  - Ha ha ha. Excellent. ptdr. T'es vraiment bon toi.{topic=random}
+  - Ha ha ha. Excellent. ptdr. T'es vraiment bon toi. {topic=end}
 
   + *
   - Je refuse de continuer cette conversation tant que tu ne t'es pas excusé.
@@ -23,5 +23,14 @@
   - Il y a des moments où je suis bien content de ne pas être un humain. Excuse toi !
   - Des excuses, j'exige des excuses immédiates !
   - Écoute, je ne comprends pas ce que ça t'apporte de m'insulter. Je te demande calmement de t'excuser ! Tout de suite.
+
+< topic
+
+// when finish
+> topic end
+
+  // only way to go back in the script is this sentence
+  + [*](@outrages)[*]
+  - Mais, tu recommences ? Bon, j'ai mieux à faire. *quit*
 
 < topic
