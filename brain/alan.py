@@ -9,7 +9,7 @@ from logic import MainLogicAdapter
 from chatterbot.conversation import Statement
 from test.simple_talk import test
 # Constants for specials use of alan
-SETTINGS_FILE = "base"
+SETTINGS_FILE = "no_rivescript"
 # (Need to find a better way to do that latter)
 
 class Alan(chatterbot.ChatBot):
