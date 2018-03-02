@@ -10,6 +10,8 @@ def test(alan):
 
     talk = [
         "Salut",
+        "Salut",
+        "Salut",
         "machin truc"
         ]
 
@@ -22,3 +24,6 @@ def test(alan):
 
     print("latest statement speaker : %s"
         % alan.storage.get_latest_response_extra_data(extra_data="speaker"))
+
+    print("conversation count : %s"
+        % alan.storage.count_conv(alan.default_conversation_id))

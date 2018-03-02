@@ -1,7 +1,7 @@
 from chatterbot.storage import SQLStorageAdapter
 from sqlalchemy import desc
 from .models import Base
-from .models import Statement, Conversation, Tag, Concept, ConceptAssociation
+from .models import Statement, Conversation, Tag, Concept, ConceptAssociation, conversation_association_table
 
 # This is the chatterbot's SQLStorageAdapter modified for Alan
 # does not record Response objects
@@ -213,5 +213,15 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
         return self.get_statement()
 
-    def count_conv(self):
-        pass
+    def count_conv(self, conversation_id):
+        """
+        Return the number of statement in a conv.
+        """
+        session = self.Session()
+
+        count = session.query(conversation_association_table)
+        count = count.filter_by(conversation_id=conversation_id)
+        count = count.count()
+        session.close()
+
+        return count
