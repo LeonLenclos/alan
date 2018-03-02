@@ -215,7 +215,7 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
     def count_conv(self, conversation_id):
         """
-        Return the number of statement in a conv.
+        Return the number of statement in a conversation.
         """
         session = self.Session()
 

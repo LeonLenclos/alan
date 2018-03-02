@@ -32,7 +32,7 @@ class Alan(chatterbot.ChatBot):
         """Return all you need to know about this instance of Alan"""
         # TODO: the Alan.status method should return more informations...
         return "Alan v0"
-
+    
     def get_response(self, input_item, conversation_id=None):
         """
         Return the bot's response based on the input.
