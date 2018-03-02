@@ -19,7 +19,7 @@
         {
             "identifier": "einstein",
             "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
-            "max_confidence": 0.5,
+            "max_confidence": 0.3,
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./txt/einstein.txt",
             "context": [
@@ -30,7 +30,7 @@
         {
             "identifier": "proverbes",
             "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
-            "max_confidence": 0.5,
+            "max_confidence": 0.3,
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./txt/proverbs.txt",
             "context": [
