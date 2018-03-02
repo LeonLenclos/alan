@@ -3,8 +3,8 @@
         {
             "identifier": "rive",
             "rive_files": [
-                "./rive/foo.rive",
-                "./rive/bar.rive"],
+                "./rive/turing_test.rive",
+                "./rive/bot_var.rive","./rive/arr/misc.rive"],
             "import_path": "logic.RiveScriptAdapter"
         }
     ],

@@ -19,18 +19,19 @@
         {
             "identifier": "einstein",
             "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
-            "max_confidence": 0.5,
+            "max_confidence": 0.4,
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./txt/einstein.txt",
             "context": [
                 "À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
                 "Einstein a dis une belle chose à ce sujet : %(quote)s."
-            ]
+            ],
+            "coefficient_method":"sawtooth"
         },
         {
             "identifier": "proverbes",
             "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
-            "max_confidence": 0.5,
+            "max_confidence": 0.3,
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./txt/proverbs.txt",
             "context": [
@@ -40,18 +41,28 @@
             ]
         },
         {
-            "identifier": "blagues",
-            "skill_description": ["C'était pour rire."],
-            "rive_files": ["./rive/jokes.rive"],
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
             "identifier": "outrage",
             "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
             "rive_files": [
                 "./rive/bot_var.rive",
                 "./rive/outrage.rive",
                 "./rive/arr/outrages.rive"],
+            "max_confidence": 1,
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "catch_all",
+            "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
+            "rive_files": ["./rive/catch_all.rive"],
+            "max_confidence": 0.2,
+            "import_path": "logic.RiveScriptAdapter"
+
+        },
+        {
+            "identifier": "commands",
+            "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
+            "max_confidence": 1,
+            "rive_files": ["./rive/commands.rive"],
             "import_path": "logic.RiveScriptAdapter"
         },
         {
@@ -64,6 +75,29 @@
                 "./rive/greeting.rive",
                 "./rive/arr/misc.rive",
                 "./rive/arr/feelings.rive"],
+            "import_path": "logic.RiveScriptAdapter",
+            "max_confidence": 1
+        },
+        {
+            "identifier": "one_step_aside",
+            "skill_description": [
+              "j'ai dis ça comme ça"],
+            "rive_files": [
+                "./rive/bot_var.rive",
+                "./rive/one_step_aside.rive",
+                "./rive/arr/misc.rive"],
+            "max_confidence": 0.5,
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "mainstream",
+            "skill_description": [
+              "parce que c'est vrai"],
+            "rive_files": [
+                "./rive/bot_var.rive",
+                "./rive/mainstream.rive",
+                "./rive/arr/misc.rive"],
+            "max_confidence": 0.7,
             "import_path": "logic.RiveScriptAdapter"
         },
         {

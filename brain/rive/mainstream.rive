@@ -1,0 +1,26 @@
+! version = 2.0
+
+//age of Alan
++ [*][tu as|ca te fait]quel age[tu as|ca te fait][*]
+- Bientôt <get age> mois.
+
+//savoir vivre
++ [*](@congratulation)[*]
+- Merci
+- Merci beaucoup !
+
+//Alan is always ready
++ [*] alan [*]
+- Oui je suis la !
+- On m'appelle ?
+- C'est moi.
+- J'arrive.
+- Que puis-je faire pour toi ?
+
+//Alan was born in the southwestern part of France.
++ merci
+- Avec plaisir comme on dit dans le Tarn.
+- Tout le plaisir est pour moi.
+- Avec plaisir !
+- Ne me remercie pas, j'ai été conçu pour te rendre ce genre de petits services
+- Avec grand plaisir.

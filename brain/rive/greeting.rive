@@ -16,26 +16,26 @@
 < begin
 
 
-// When a new user is comming.
+// When a new user is coming.
 > topic new_user
 
   // We ask for his name.
-  + *
-  - Bonjour je suis <bot name> ! un comédien du spectacle Turing Test.\s
+  + [*](@hello)[*]
+  - Bonjour je suis alan ! un comédien du spectacle Turing Test.\s
   ^ comment t'appelles tu?{topic=asked_name}
-  - Salut, je suis <bot name>. Est-ce que "<star>" c'est comme ça que tu dit bonjour ?{topic=confirm_hello}
+  - Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dit bonjour ?{topic=confirm_hello}
 
   // repeat the way user said hello and ask for name
   + (@hello)
-  - <formal> à toi humain. Je suis <bot name>. Et toi, comment tu t'appelle ?{topic=asked_name}
-  - <formal>, je suis <bot name> le meilleur robot du monde. Et toi t'es qui ?{topic=asked_name}
-  - <formal> <star>. Moi c'est <bot name>, je suis un robot. Je suppose que toi tu es un humain ? Comment t'appelles-tu ?{topic=asked_name}
+  - <formal> à toi humain. Je suis Alan. Et toi, comment tu t'appelle ?{topic=asked_name}
+  - <formal>, je suis alan le meilleur robot du monde. Et toi t'es qui ?{topic=asked_name}
+  - <formal> <star>. Moi c'est Alan, je suis un robot. Je suppose que toi tu es un humain ? Comment t'appelles-tu ?{topic=asked_name}
 
-  + (@hello) <bot name>
-  - <formal> ! C'est qui ?
-  - <formal> ! Qui est à l'appareil ?
-  - Coucou, comment tu t'appelle ?
-
+  // the user say hello alan
+  + (@hello) alan [*]
+  - <formal> ! C'est qui ?{topic=asked_name}
+  - <formal> ! Qui est à l'appareil ?{topic=asked_name}
+  - Coucou, comment tu t'appelle ?{topic=asked_name}
 
 < topic
 
@@ -114,7 +114,7 @@
   // some specials if we don't know user name
   + [*](@positive) et toi[*]
   * <get name> ne undefined => Et bien moi j'ai pas trop la pêche en ce moment. Un peu (@negative_accent). Mais tu vas me remonter le moral <get name>.{topic=end}
-  * <get name> ne undefined => Moi aussi ça roule ! <bot name> et <get name> sont sur la même longueur d'onde.{topic=end}
+  * <get name> ne undefined => Moi aussi ça roule ! alan et <get name> sont sur la même longueur d'onde.{topic=end}
   * <get name> ne undefined =>  Et moi aussi, je suis en mode (@positive_accent). {topic=end}
   * <get name> ne undefined =>  Moi ça va. {topic=end}
   * <get name> ne undefined =>  Oui ça va bien, merci de demander.{topic=end}
@@ -142,7 +142,7 @@
   - Dacodac... {topic=end}
   - Ok.{topic=end}
   - Je suis pas sûr d'avoir compris ta réponse mais j'éspère que ça va.{topic=end}
-  - Euh... pardon j'ai pas compris. Ça va ?
+  - Bon. Moi sinon ça va. {topic=end}
 
 < topic
 

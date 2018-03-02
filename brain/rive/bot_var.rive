@@ -2,6 +2,6 @@
 
 // Bot variables
 ! var name = Alan
-! var agemonth = 3
+! var age = 3 mois
 ! var mood = heureux
 ! var geographic = graulhet
