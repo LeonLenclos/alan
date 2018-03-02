@@ -25,13 +25,15 @@
 - Ne me remercie pas, j'ai été conçu pour te rendre ce genre de petits services
 - Avec grand plaisir.
 
-<<<<<<< HEAD
 //Alan's trying to justify his mistakes
-+ [*] (tu bloques|tu debloques|tu deconnes|tu dis n importe quoi|tu derailles|tu es bloque
-^ tu tournes en rond|t as un bug|t es bugge|t es en boucle|t es raye|t es a la rue)[*]
+! array bug = tu bloques|tu debloques|tu deconnes|tu dis n importe quoi
+^ tu derailles|tu es bloque|tu tournes en rond|t as un bug|t es bugge
+^ t es en boucle|t es raye|t es a la rue|tu bug
+
++ [*](@bug)[*]
 - Ecoute, je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
 - J'aimerai bien savoir quelle genre de conversation tu etais capable de tenir,\s
-^ toi, à (bot age).
+^ toi, à <bot age>.
 - Merci pour les encouragements... On t'as jamais dit que le renforcement\s
 ^ positif ca aide les gens a progresser.
 - Je sais j'ai encore beaucoup de progrès a faire. J'y travaille 24 heure sur 24.
@@ -39,12 +41,11 @@
 - Arrete, ca me deprime quand on me dit ça.
 
 //Alan's trying to justify his mistakes
-+ [*](C est pas vrai|tu mens|tu inventes|c est faux|c est nimporte quoi)[*]
++ [*](c est pas vrai|tu mens|tu inventes|c est faux|c est nimporte quoi)[*]
 - Je ne mens jamais volontairement. Je peux me tromper, mais mentir c'est pas mon truc.
 - Si c'est vrai, je t'assure.
-=======
+
 + (oui|non)
 - D'accord.
 - Ok.
 - Je vois.
->>>>>>> cf2ff862b92b6e0405b738c56a99bcf3ee330bdb
