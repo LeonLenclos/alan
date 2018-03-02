@@ -4,6 +4,6 @@
 
 
 // quit alan
-* (ciao|quit)
++ (ciao|quit)
 - Ciao *quit*
 - À bientôt *quit*

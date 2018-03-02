@@ -65,7 +65,7 @@
             "identifier": "commands",
             "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
             "max_confidence": 1,
-            "rive_files": ["./rive/base.rive"],
+            "rive_files": ["./rive/commands.rive"],
             "import_path": "logic.RiveScriptAdapter"
         },
         {
