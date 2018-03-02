@@ -56,11 +56,12 @@ class RelevantQuotation(AlanLogicAdapter):
         for q in self.quotes:
             # using nltk's word_tokenize
             words = word_tokenize(q["sent"].replace('\'', ' '))
-            # removing stopwords with chatterbot's remove_stopwords
-            words = remove_stopwords(words)
-            # removing short words (2 or 1 character)
-            words = [w for w in words if len(w)>2]
+
+            # store the words tagged with a '#' and remove the '#'
+            words = [w.replace('#','') for w in words if '#' in w]
             q["words"] = words
+            # remove also '#' to the sentences
+            q["sent"] = q['sent'].replace('#', '')
 
     def can_process(self, statement):
         """Take a sentence and tell if it can find a quotation"""
@@ -71,11 +72,10 @@ class RelevantQuotation(AlanLogicAdapter):
         """
         # little cleaning
         sentence = remove_punctuation(sentence)
-        # removing stopwords from the sentence
-        words = remove_stopwords(word_tokenize(sentence.replace('\'', ' ')))
+        words = word_tokenize(sentence)
         # search for a quote sharing words with the sentence
         for i, quote in enumerate(self.quotes):
-            for w in sorted(words, key=len, reverse=True) :
+            for w in words :
                 if w in quote["words"]:
                     # choose randomly a context sentence
                     context = random.choice(self.context_sentences)
