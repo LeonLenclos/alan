@@ -88,10 +88,9 @@ class Alan(chatterbot.ChatBot):
         if command == 'quit': sys.exit()
         if command == 'todo':
             with open("../todo.md", "a") as f:
-                f.write(
-                    "\n---\n>%s\n%s\n>%s\n%s\n---\n"
-                    % tuple([self.storage.get_latest_statement(offset=i)
-                    for i in range(4)]))
+                f.write("\n\n```\n> %s\n%s\n> %s\n%s\n```\n"
+                    % tuple([self.storage.get_latest_statement(offset=i+2)
+                    for i in reversed(range(4))]))
 
 
     def learn_response(self, statement, previous_statement):
