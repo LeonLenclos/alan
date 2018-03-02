@@ -66,6 +66,15 @@
             "import_path": "logic.RiveScriptAdapter"
         },
         {
+            "identifier": "turing_test",
+            "skill_description": ["J'aime bien parler du spectacle."],
+            "rive_files": [
+                "./rive/turing_test.rive",
+                "./rive/bot_var.rive",
+                "./rive/arr/misc.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        }
+        {
             "identifier": "greeting",
             "skill_description": [
                 "Parce que toute conversation commence par un échange de politesse",

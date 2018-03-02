@@ -7,15 +7,15 @@
 ^ {topic=do_you_know_turing_test}
 
 > topic do_you_know_turing_test
- + [*](@yes)[*]
+ + [*](@like)[*]
  - Tu as bien aimé ?
  ^ {topic=like_turing_test}
 
- + [*](@no)[*]
+ + [*](@dislike)[*]
  - tu veux que je te raconte cette formidable aventure ?
  ^ {topic=about_turing_test}
 
- + [*](@yes_no)[*]
+ + [*](@like_dislike)[*]
  - tu veux que je te parle de cette formidable aventure ?
  ^ {topic=about_turing_test}
 
@@ -27,17 +27,17 @@
 
 > topic like_turing_test
 
- + [*](@yes)[*]
+ + [*](@like)[*]
  - Merci. Est ce que tu peux m'expliquer pourquoi en une phrase.\s
  ^ Si tu es daccord on le mettra dans le dossier de presse.
  ^ {topic=ty_turing_test}
 
- + [*](@no)[*]
+ + [*](@dislike)[*]
  - Est ce que tu peux m'expliquer pourquoi ?\s
  ^ J'en parlerais à mes collègues et on essayera de voir ce qu'on peut améliorer.
  ^ {topic=ty_turing_test}
 
- + [*](@yes_no)[*]
+ + [*](@like_dislike)[*]
  - Je vois que t'est pas emballé à 100%. Est ce que tu peux m'expliquer\s
  ^ pourquoi ? Comme ça j'en parlerais à mes collègues et on essayera de voir\s
  ^ ce qu'on peut améliorer.
@@ -51,19 +51,19 @@
 
 > topic about_turing_test
 
- + [*](@yes)[*]
+ + [*](@like)[*]
  - Au départ, l'idée de ce spectacle nous a été inspiré par le mathématicien\s
  ^ Alan Turing. L'idée est d'adapter sur une scène de théâtre une expérience\s
  ^ de pensée qu'il a formulée dans les années cinquante sous le nom de\s
  ^ test de turing ou jeu de l'imitation. Tu veux plus de détails ?
  ^ {topic=link_turing_test}
 
- + [*](@no)[*]
+ + [*](@dislike)[*]
  - Pas de problème. Si tu veux que je te raconte, reviens vers moi. J'adore\s
  ^ parler de ça.
  ^ {topic=end_turing_test}
 
- + [*](@yes_no)[*]
+ + [*](@like_dislike)[*]
  ^ Je te sens pas très chaud. Tu veux ou tu veux pas ?
 
  + *
@@ -75,16 +75,16 @@
 
 > topic link_turing_test
 
- + [*](@yes)[*]
+ + [*](@like)[*]
  - Le mieux c'est que tu connectes sur le site du spectacle.
  ^ {topic=end_turing_test}
 
- + [*](@no)[*]
+ + [*](@dislike)[*]
  - Pas de problème. Si tu veux plus d'infos, reviens vers moi. J'adore\s
  ^ parler de ça.
  ^ {topic=end_turing_test}
 
- + [*](@yes_no)[*]
+ + [*](@like_dislike)[*]
  ^ Je te sens pas très chaud. Tu veux ou tu veux pas ?
 
  + *
