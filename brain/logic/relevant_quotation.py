@@ -55,14 +55,15 @@ class RelevantQuotation(AlanLogicAdapter):
         # create the words list for each quote
         for q in self.quotes:
             # using nltk's word_tokenize
-            words = word_tokenize(q["sent"].replace('\'', ' '))
+            words = (q["sent"].replace('\'', ' ')
+                              .replace('’',' ')
+                              .split(' '))
 
             # store the words tagged with a '#' and remove the '#'
-            words = [w.replace('#','') for w in words if '#' in w]
+            words = [remove_punctuation(w) for w in words if '#' in w]
             q["words"] = words
             # remove also '#' to the sentences
             q["sent"] = q['sent'].replace('#', '')
-
     def can_process(self, statement):
         """Take a sentence and tell if it can find a quotation"""
         return self.get(statement.text, read_only=True) != None
