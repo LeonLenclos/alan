@@ -31,7 +31,7 @@
         {
             "identifier": "proverbes",
             "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
-            "max_confidence": 0.3,
+            "max_confidence": 0.4,
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./txt/proverbs.txt",
             "context": [
