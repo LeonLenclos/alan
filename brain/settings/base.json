@@ -73,7 +73,7 @@
                 "./rive/bot_var.rive",
                 "./rive/arr/misc.rive"],
             "import_path": "logic.RiveScriptAdapter"
-        }
+        },
         {
             "identifier": "greeting",
             "skill_description": [
