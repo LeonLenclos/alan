@@ -21,14 +21,14 @@
 
  + *
  - J'aimerais que tu me dises la verité. Tu l'as vu ou pas? Soit compréhensif,\s
- ^  je n'ai que <agemonth>, utilise des mots simples.
+ ^  je n'ai que <bot age>, utilise des mots simples.
 
 < topic
 
 > topic like_turing_test
 
  + [*](@yes)[*]
- - Est ce que tu peux m'expliquer pourquoi en une phrase.\s
+ - Merci. Est ce que tu peux m'expliquer pourquoi en une phrase.\s
  ^ Si tu es daccord on le mettra dans le dossier de presse.
  ^ {topic=ty_turing_test}
 
@@ -45,7 +45,7 @@
 
  + *
  - J'aimerais que tu me dises la verité. Tu aimes ou pas? Soit compréhensif,\s
- ^ je n'ai que <agemonth>, utilise des mots simples.
+ ^ je n'ai que <bot age>, utilise des mots simples.
 
 < topic
 
@@ -68,7 +68,7 @@
 
  + *
  - J'aimerais que tu me dises la verité. Tu aimes ou pas? Soit compréhensif,\s
- ^ je n'ai que <agemonth>, utilise des mots simples.
+ ^ je n'ai que <bot age>, utilise des mots simples.
 
 
 < topic
@@ -88,8 +88,8 @@
  ^ Je te sens pas très chaud. Tu veux ou tu veux pas ?
 
  + *
- - J'aimerais que tu me dises la verité. Tu aimes ou pas? Soit compréhensif,\s
- ^ je n'ai que <agemonth>, utilise des mots simples.
+ - Je ne saisi pas bien ta réponse ? Soit compréhensif,\s
+ ^ je n'ai que <bot age>, utilise des mots simples.
 
 
 < topic
