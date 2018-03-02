@@ -1,5 +1,6 @@
 from sqlalchemy import Table, Column
-from sqlalchemy import Integer, DateTime, ForeignKey, PickleType, Unicode
+from sqlalchemy import Integer, DateTime, ForeignKey
+from sqlalchemy import PickleType, Unicode, Boolean
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from sqlalchemy.ext.declarative import declared_attr, declarative_base
@@ -107,6 +108,7 @@ class Conversation(Base):
 class ConceptAssociation(Base):
     concept_A_id = Column(Integer())
     relation = Column(Unicode(CONCEPT_RELATION_TEXT_MAX_LENGTH))
+    negative = Column(Boolean, default=False)
     concept_B_id = Column(Integer())
 
 class Concept(Base):

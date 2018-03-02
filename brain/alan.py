@@ -7,7 +7,7 @@ import sys
 import chatterbot
 from logic import MainLogicAdapter
 from chatterbot.conversation import Statement
-from test.simple_talk import test
+from test.test_storage import test
 # Constants for specials use of alan
 SETTINGS_FILE = "base"
 # (Need to find a better way to do that latter)
