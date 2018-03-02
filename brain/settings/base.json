@@ -40,18 +40,13 @@
             ]
         },
         {
-            "identifier": "blagues",
-            "skill_description": ["C'était pour rire."],
-            "rive_files": ["./rive/jokes.rive"],
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
             "identifier": "outrage",
             "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
             "rive_files": [
                 "./rive/bot_var.rive",
                 "./rive/outrage.rive",
                 "./rive/arr/outrages.rive"],
+            "max_confidence": 1,
             "import_path": "logic.RiveScriptAdapter"
         },
         {
@@ -78,16 +73,18 @@
                 "./rive/greeting.rive",
                 "./rive/arr/misc.rive",
                 "./rive/arr/feelings.rive"],
-            "import_path": "logic.RiveScriptAdapter"
+            "import_path": "logic.RiveScriptAdapter",
+            "max_confidence": 1
         },
         {
-            "identifier": "one_step-aside",
+            "identifier": "one_step_aside",
             "skill_description": [
               "j'ai dis ça comme ça"],
             "rive_files": [
                 "./rive/bot_var.rive",
-                "./rive/one_step-aside.rive",
+                "./rive/one_step_aside.rive",
                 "./rive/arr/misc.rive"],
+            "max_confidence": 0.5,
             "import_path": "logic.RiveScriptAdapter"
         },
         {
@@ -98,6 +95,7 @@
                 "./rive/bot_var.rive",
                 "./rive/one_step-aside.rive",
                 "./rive/arr/misc.rive"],
+            "max_confidence": 0.7,
             "import_path": "logic.RiveScriptAdapter"
         },
         {
