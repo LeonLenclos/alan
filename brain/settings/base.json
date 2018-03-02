@@ -40,12 +40,6 @@
             ]
         },
         {
-            "identifier": "blagues",
-            "skill_description": ["C'était pour rire."],
-            "rive_files": ["./rive/jokes.rive"],
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
             "identifier": "outrage",
             "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
             "rive_files": [
