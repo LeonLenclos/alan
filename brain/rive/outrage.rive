@@ -1,9 +1,12 @@
 ! version = 2.0
 
-+ [*](@outrages)[*]
++ (@outrages)
 - écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi s'il te plait. {topic=sorry}
 - <star> toi même. C'est quoi ce language ? {topic=sorry}
 - Je rêve ou quoi ? Comment il me parle cet humain. {topic=sorry}
+
++ (tu es|t es|t es un|tu es un)[*](@outrages)[*]
+@ <star2>
 
 > topic sorry
 
@@ -24,6 +27,11 @@
   - Des excuses, j'exige des excuses immédiates !
   - Écoute, je ne comprends pas ce que ça t'apporte de m'insulter. Je te demande calmement de t'excuser ! Tout de suite.
 
+  + [*](@outrages)[*]
+  - Ok je me casse *quit*
+  - Tu l'aura voulu, je m'en vais *quit*
+  - Si c'est comme ça je m'en vais *quit*
+
 < topic
 
 // when finish
@@ -31,6 +39,6 @@
 
   // only way to go back in the script is this sentence
   + [*](@outrages)[*]
-  - Mais, tu recommences ? Bon, j'ai mieux à faire. *quit*
+  - J'aime pas trop quand tu dis <star>. Tu peux arreter s'il te plait ?
 
 < topic
