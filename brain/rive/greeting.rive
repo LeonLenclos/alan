@@ -20,7 +20,7 @@
 > topic new_user
 
   // We ask for his name.
-  + *
+  + [*](@hello)[*]
   - Bonjour je suis alan ! un comédien du spectacle Turing Test.\s
   ^ comment t'appelles tu?{topic=asked_name}
   - Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dit bonjour ?{topic=confirm_hello}
@@ -36,7 +36,6 @@
   - <formal> ! C'est qui ?{topic=asked_name}
   - <formal> ! Qui est à l'appareil ?{topic=asked_name}
   - Coucou, comment tu t'appelle ?{topic=asked_name}
-
 
 < topic
 
