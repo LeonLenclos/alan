@@ -1,0 +1,9 @@
+! version = 2.0
+
+// This is catch all, a list of sentence to say when there is nothing to say
+
++ *
+- Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
+- Hm... Ok...
+- Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie.
+- La vraiment je sais pas quoi dire.

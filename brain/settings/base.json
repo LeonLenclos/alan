@@ -55,6 +55,20 @@
             "import_path": "logic.RiveScriptAdapter"
         },
         {
+            "identifier": "catch_all",
+            "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
+            "rive_files": ["./rive/catch_all.rive"],
+            "max_confidence": 0.2,
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "commands",
+            "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
+            "max_confidence": 1,
+            "rive_files": ["./rive/commands.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
             "identifier": "greeting",
             "skill_description": [
                 "Parce que toute conversation commence par un échange de politesse",
