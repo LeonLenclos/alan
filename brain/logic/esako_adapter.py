@@ -76,13 +76,7 @@ class EsakoAdapter(AlanLogicAdapter):
         concept_A = utils.remove_punctuation(str.strip(concept_A))
 
         # Get the concept B explained by the Human
-<<<<<<< HEAD
-        concept_B = re.sub(".*([ ']est ) ","", statement.text)
-        # Store the new "est" relation into storage.py
-        self.chatbot.storage.store_concept_association(concept_A, "est", concept_B)
-        reply = "Merci beaucoup, maintenant je comprends mieux ce qu'est "\
-        +concept_A+"."
-=======
+
         concept_B = re.sub(r".*([ ']+est )","", statement.text)
         concept_B = utils.remove_punctuation(str.strip(concept_B))
 
@@ -92,7 +86,6 @@ class EsakoAdapter(AlanLogicAdapter):
         # choose randomly a context sentence
         context = random.choice(self.context_sentences)
         reply = context % {"concept_A":concept_A}
->>>>>>> 4b4f17ffd260a556a494b18d53bc010b2c80e613
 
         statment_out = Statement(reply)
         statment_out.confidence = self.get_confidence(1)
