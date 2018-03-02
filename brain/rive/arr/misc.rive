@@ -38,5 +38,5 @@
 ! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri|niet
 
 //yesno = between yes and no
-! array yesno = heu|bof|pas trop|moyen|ca va|moyennement|ca passe|pas terrible
-^ je ne sais pas
+! array yes_no = heu|bof|pas trop|moyen|ca va|moyennement|ca passe|pas terrible
+^ je ne sais pas|coussi coussa
