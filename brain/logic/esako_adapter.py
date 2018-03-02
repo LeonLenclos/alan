@@ -59,10 +59,13 @@ class EsakoAdapter(AlanLogicAdapter):
         # "Pourrais tu me décrire en quelques mots ce qu'est "
         last_response = self.chatbot.storage.get_latest_statement(speaker="alan")
         if last_response:
-            if ("Pourrais tu me dire en quelques mots ce qu'est "\
-                in last_response.text):
-                if "est" in statement.text:
-                    return True
+            if self.chatbot.storage.get_latest_response_extra_data(self,
+                                    extra_data="logic_identifier")=="kesako":
+                if self.ask in self.chatbot.storage.get_latest_statement(
+                                                                speaker=alan):
+                    if "est" in statement.text:
+
+                        return True
 
         return False
 
@@ -76,6 +79,7 @@ class EsakoAdapter(AlanLogicAdapter):
         concept_A = utils.remove_punctuation(str.strip(concept_A))
 
         # Get the concept B explained by the Human
+
         concept_B = re.sub(r".*([ ']+est )","", statement.text)
         concept_B = utils.remove_punctuation(str.strip(concept_B))
 
