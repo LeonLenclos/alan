@@ -1,15 +1,18 @@
 ! version = 2.0
 
-//
+//introduction to the show
 + [*](spectacle|turing test|theatre|comedien|show)[*]
 - À propos de <star>, est ce que tu as vu le spectacle Turing test\s
 ^ ou au moins une sortie de résidence ?
 ^ {topic=do_you_know_turing_test}
 
+
+//user know the show or not or between
 > topic do_you_know_turing_test
  + [*](@yes)[*]
  - Tu as bien aimé ?
  ^ {topic=like_turing_test}
+
 
  + [*](@no)[*]
  - tu veux que je te raconte cette formidable aventure ?
@@ -25,6 +28,7 @@
 
 < topic
 
+//user like the show or not or between
 > topic like_turing_test
 
  + [*](@yes)[*]
@@ -49,6 +53,7 @@
 
 < topic
 
+//informations about the show
 > topic about_turing_test
 
  + [*](@yes)[*]
@@ -70,9 +75,9 @@
  - J'aimerais que tu me dises la verité. Tu aimes ou pas? Soit compréhensif,\s
  ^ je n'ai que <bot age>, utilise des mots simples.
 
-
 < topic
 
+//web link to the show
 > topic link_turing_test
 
  + [*](@yes)[*]
@@ -91,9 +96,9 @@
  - Je ne saisi pas bien ta réponse ? Soit compréhensif,\s
  ^ je n'ai que <bot age>, utilise des mots simples.
 
-
 < topic
 
+// thanks to user
 > topic ty_turing_test
 
  + *
@@ -102,6 +107,7 @@
 
 < topic
 
+// end of this loop
 > topic end_turing_test
 
  + j aimerais bien jouer dans ce spectacle
