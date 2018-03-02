@@ -31,7 +31,7 @@
         {
             "identifier": "proverbes",
             "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
-            "max_confidence": 0.3,
+            "max_confidence": 0.4,
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./txt/proverbs.txt",
             "context": [
@@ -63,6 +63,15 @@
             "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
             "max_confidence": 1,
             "rive_files": ["./rive/commands.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "turing_test",
+            "skill_description": ["J'aime bien parler du spectacle."],
+            "rive_files": [
+                "./rive/turing_test.rive",
+                "./rive/bot_var.rive",
+                "./rive/arr/misc.rive"],
             "import_path": "logic.RiveScriptAdapter"
         },
         {
