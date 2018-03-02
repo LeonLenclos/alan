@@ -46,6 +46,7 @@
                 "./rive/bot_var.rive",
                 "./rive/outrage.rive",
                 "./rive/arr/outrages.rive"],
+            "max_confidence": 1,
             "import_path": "logic.RiveScriptAdapter"
         },
         {
@@ -72,7 +73,8 @@
                 "./rive/greeting.rive",
                 "./rive/arr/misc.rive",
                 "./rive/arr/feelings.rive"],
-            "import_path": "logic.RiveScriptAdapter"
+            "import_path": "logic.RiveScriptAdapter",
+            "max_confidence": 1
         },
         {
             "identifier": "one_step-aside",
@@ -82,6 +84,7 @@
                 "./rive/bot_var.rive",
                 "./rive/one_step-aside.rive",
                 "./rive/arr/misc.rive"],
+            "max_confidence": 0.5,
             "import_path": "logic.RiveScriptAdapter"
         },
         {
@@ -92,6 +95,7 @@
                 "./rive/bot_var.rive",
                 "./rive/one_step-aside.rive",
                 "./rive/arr/misc.rive"],
+            "max_confidence": 0.7,
             "import_path": "logic.RiveScriptAdapter"
         },
         {
