@@ -8,23 +8,38 @@
 > topic do_you_know_turing_test
 + [*](@yes)[*]
 - Tu as bien aimé ?
+^ {topic=like_turing_test}
 
 + [*](@no)[*]
--
+- tu veux que je te raconte cette formidable aventure ?
+^ {topic=about_turing_test}
 
 + [*](@yesno)[*]
--
+- tu veux que je te parle de cette formidable aventure ?
+^ {topic=about_turing_test}
+
++ *
+- J'aimerais que tu me dises la verité. Tu l'as vu ou pas? Soit compréhensif,\s
+^  je n'ai que <agemonth>, utilise des mots simples.
+^ {topic=do_you_know_turing_test}
 
 < topic
 
-> topic do_you_know_turing_test
+> topic like_turing_test
+
++ [*](@yes)[*]
+- Est ce que tu peux m'expliquer pourquoi en une phrase.\s
+^ Si tu es daccord on le mettra dans le dossier de presse.
+
++ [*](@no)[*]
+- Est ce que tu peux m'expliquer pourquoi.\s
+^ J'en parlerais à mes collègues et on essayera de voir ce qu'on peut améliorer.
++ Est ce que tu peux m expliquer pourquoi ?
+
+
 
 < topic
 
-> topic do_you_know_turing_test
-
-< topic
-
-> topic do_you_know_turing_test
+> topic about_turing_test
 
 < topic
