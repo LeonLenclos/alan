@@ -1,0 +1,30 @@
+! version = 2.0
+
+//
++ [*](spectacle|turing test|theatre|comedien)[*]
+- À propos de <star>, est ce que tu as vu le spectacle Turing test ?
+^ {topic=do_you_know_turing_test}
+
+> topic do_you_know_turing_test
++ [*](@yes)[*]
+- Tu as bien aimé ?
+
++ [*](@no)[*]
+-
+
++ [*](@yesno)[*]
+-
+
+< topic
+
+> topic do_you_know_turing_test
+
+< topic
+
+> topic do_you_know_turing_test
+
+< topic
+
+> topic do_you_know_turing_test
+
+< topic
