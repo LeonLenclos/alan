@@ -19,13 +19,14 @@
         {
             "identifier": "einstein",
             "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
-            "max_confidence": 0.3,
+            "max_confidence": 0.4,
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./txt/einstein.txt",
             "context": [
                 "À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
                 "Einstein a dis une belle chose à ce sujet : %(quote)s."
-            ]
+            ],
+            "coefficient_method":"sawtooth"
         },
         {
             "identifier": "proverbes",
@@ -55,6 +56,7 @@
             "rive_files": ["./rive/catch_all.rive"],
             "max_confidence": 0.2,
             "import_path": "logic.RiveScriptAdapter"
+
         },
         {
             "identifier": "commands",
