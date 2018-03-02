@@ -3,7 +3,7 @@ from chatterbot.conversation import Statement
 from utils import compare
 import re
 
-class KesakoAdapter(AlanLogicAdapter):
+class AimeAdapter(AlanLogicAdapter):
     """This adapter answer to questions about the nature of concepts, that is
     questions concerning the 'est' relation like 'Qu'est ce que c'est ... '.
     If he don't know the concept that is asked for, Alan asks about this thing is.
@@ -36,13 +36,7 @@ class KesakoAdapter(AlanLogicAdapter):
 
 
         super().__init__(**kwargs)
-        # Getting questions
-        try:
-            self.questions = kwargs['questions']
-        except KeyError:
-            raise KeyError('questions is a required argument')
-        if type(self.questions) != list:
-            raise TypeError("questions must be a list")
+
         # Getting relation
         try:
             self.relation = kwargs['relation']
@@ -50,14 +44,6 @@ class KesakoAdapter(AlanLogicAdapter):
             raise KeyError('relation is a required argument')
         if type(self.relation) != str:
             raise TypeError("relation must be a string")
-        # Getting ask
-        try:
-            self.ask = kwargs['ask']
-        except KeyError:
-            raise KeyError('ask is a required argument')
-        if type(self.relation) != str:
-            raise TypeError("ask must be a string")
-
 
 
 
@@ -69,32 +55,14 @@ class KesakoAdapter(AlanLogicAdapter):
     def process(self, statement):
         relation=self.relation
         # concept_A is the chain following the last relation occurence
-        concept_A = re.sub(".*[ ']"+relation+" (que )*","",statement.text)
-        # Remove the chain " quoi " from concept_A (because of "C'est quoi..."
-        # questions)
-        concept_A = re.sub("^(quoi)","",concept_A)
+        concept_A = re.sub(".*([ ']"+relation+" (que )*)","",statement.text)
 
-        # The following block allow the kezako adapter to answer to the "Qu'est
-        # ce que..." and "Qu'est ce qu'..." questions.
-        # Because this questions can have another meaning if a verb follow the
-        # question e.g in "Qu'est ce que tu fais"
-        # If you uncomment the block, don't forget to add this two questions to
-        # the questions into the settings.json file
-        #   #Remove the chain " ce que " from concept_A (because of "Qu'est ce
-        #    que..." questions)
-        #   concept_A = re.sub("^( ce que )","",concept_A)
-        #   #Remove the chain " ce qu' " from concept_A (because of "Qu'est ce
-        #    qu'..." qu'est)
-        #   concept_A = re.sub("^( ce qu')","",concept_A)
-
-        # Get the interrogative part of the question that is before the concept_A
-        question = statement.text.split(concept_A)[0]
+        # Get the subject of the question that is before the concept_A
+        subject = statement.text.split(concept_A)[0]
         # Remove the punctuation from concept_A except apostrophe "'"
         concept_A = re.sub(r"[.?:,;!]","",concept_A)
         # Remove starting and ending spaces
         concept_A=concept_A.strip()
-        # Get the distance between input statement and questions list
-        confidence = compare(question, self.questions)
         # Verify that concept_A is non-empty, if it is then change confidence
         # to 0
         if len(concept_A) == 0:
@@ -105,6 +73,8 @@ class KesakoAdapter(AlanLogicAdapter):
 
         # If concept_A is related by the relation to another concept, put
         # this concept into concept_B
+
+        #####################################################jme suis arreté la
         if self.chatbot.storage.get_related_concept(concept_A, self.relation):
             concept_B=self.chatbot.storage.get_related_concept(concept_A,
                                                                 relation)

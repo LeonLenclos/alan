@@ -55,17 +55,22 @@ class EsakoAdapter(AlanLogicAdapter):
     def can_process(self, statement):
 
 
-        # Process only if the latest statement of Alan contain the chain
-        # "Pourrais tu me décrire en quelques mots ce qu'est "
-        last_response = self.chatbot.storage.get_latest_statement(speaker="alan")
-        if last_response:
-            if self.chatbot.storage.get_latest_response_extra_data(self,
-                                    extra_data="logic_identifier")=="kesako":
-                if self.ask in self.chatbot.storage.get_latest_statement(
-                                                                speaker=alan):
-                    if "est" in statement.text:
+        # Process only if the latest statement of Alan came from kesako,and if
+        # this is not the first response of Alan and contain the chain ask and
+        #   if the response of the human contain the relation
 
-                        return True
+        last_response = self.chatbot.storage.get_latest_statement(speaker="alan")
+        last_logic=self.chatbot.storage.get_latest_response_extra_data(
+                                                extra_data="logic_identifier")
+
+        if last_response:
+            if self.chatbot.storage.count_conv(self.chatbot.default_conversation_id>0):
+                if last_logic == "kesako":
+                    if self.ask in last_response.text:
+                        if self.relation in statement.text:
+
+
+                            return True
 
         return False
 
@@ -91,6 +96,6 @@ class EsakoAdapter(AlanLogicAdapter):
         reply = context % {"concept_A":concept_A}
 
         statment_out = Statement(reply)
-        statment_out.confidence = self.get_confidence(1)
+        statment_out.confidence = self.get_confidence()
 
         return statment_out
