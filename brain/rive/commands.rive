@@ -7,3 +7,7 @@
 + (ciao|quit)
 - Ciao *quit*
 - À bientôt *quit*
+
+// store four last sentences in the todo list
++ a revoir
+- Ok je prends note *todo*
