@@ -8,13 +8,16 @@ import chatterbot
 from logic import MainLogicAdapter
 from chatterbot.conversation import Statement
 from test.simple_talk import test
+# Constants for specials use of alan
+SETTINGS_FILE = "base"
+# (Need to find a better way to do that latter)
 
 class Alan(chatterbot.ChatBot):
     """Alan is a chatbot"""
 
     def __init__(self):
         # load settings
-        with open("settings/base.json", "r") as file:
+        with open("settings/%s.json" % SETTINGS_FILE, "r") as file:
             settings = json.load(file);
 
         # init chatterbot
@@ -117,6 +120,7 @@ if __name__ == '__main__':
     # Mode test
     if ap.parse_args().t:
         test(alan)
+        # locals()[TEST_MODULE].test(alan)
     else :
         # discussion loop
         while True:
