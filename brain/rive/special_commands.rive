@@ -1,0 +1,9 @@
+! version = 2.0
+
+// Specials commands to ask alan doing some specials stuff
+
+
+// quit alan
+* (ciao|quit)
+- Ciao *quit*
+- À bientôt *quit*
