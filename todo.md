@@ -61,22 +61,8 @@ Hm... Ok...
 ```
 
 
-```
-> non car t'es idiot
-J'aime pas trop quand tu dis idiot. Tu peux arreter s'il te plait ?
-> non t'es trop con
-J'aime pas trop quand tu dis con. Tu peux arreter s'il te plait ?
-```
 
-
-```
-
-> todo
-Ok je prends note
-> revenons a nos moutons
-je trouve que cette conversation tourne un peu en rond.
-```
-
+PRENDRE LES COMPLIMENTS
 
 ```
 > a quoi tu penses
@@ -86,18 +72,9 @@ parlons d'autre chose si tu veux bien.
 ```
 
 
-```
-
-> c'est quand c'est vraiment tres genial
-D'accord, c'est gentil de m'avoir appris ce qu'est top cool.
-> c'est quoi ta couleur preferee
-Ta couleur preferee est la couleur que tu aime le plus.
-```
-
+FAIRE PLUS DE CATCH ALL
 
 ```
 > j'adore
 Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
-> PLUS DE CATCH ALL
-J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
 ```
