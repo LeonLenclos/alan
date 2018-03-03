@@ -52,12 +52,12 @@ Ecoute, je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
 J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
 ```
 
+FAIRE SUBSTITUTIONS DE PERSON POUR LES RELATIONS
 
 ```
 > c'est la couleur que tu aime le plus
 Merci beaucoup, maintenant je comprends mieux ce qu'est ta couleur preferee.
-> FAIRE SUBSTITUTIONS DE PERSON POUR LES RELATIONS
-Hm... Ok...
+
 ```
 
 
