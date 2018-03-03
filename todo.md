@@ -43,3 +43,43 @@ J'aimerai bien savoir quelle genre de conversation tu etais capable de tenir, to
 > oui. surement pas mieux.
 Ecoute, je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
 ```
+
+
+```
+> je suis mou
+Dacodac... 
+> quel age as tu
+Bientôt undefined mois.
+```
+
+
+```
+> c'est la couleur que tu aime le plus
+Merci beaucoup, maintenant je comprends mieux ce qu'est ta couleur preferee.
+> FAIRE SUBSTITUTIONS DE PERSON POUR LES RELATIONS
+Hm... Ok...
+```
+
+
+```
+> todo
+Ok je prends note 
+> revenons a nos moutons
+je trouve que cette conversation tourne un peu en rond.
+```
+
+
+```
+> c'est quand c'est vraiment tres genial
+D'accord, c'est gentil de m'avoir appris ce qu'est top cool.
+> c'est quoi ta couleur preferee
+Ta couleur preferee est la couleur que tu aime le plus.
+```
+
+
+```
+> j'adore
+Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
+> PLUS DE CATCH ALL
+J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
+```
