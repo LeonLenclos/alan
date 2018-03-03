@@ -104,3 +104,19 @@ Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
 J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
 >>>>>>> e61c4806b978fc0b3ae3e3136926fde220a1e3a8
 ```
+
+
+```
+> c'est normal, j'uttilise des phrases longues. comme un humain.
+Je ne sais pas ce qu'est normal j'uttilise des phrases longues comme un humain. Pourrais tu me dire en quelques mots ce qu'est normal j'uttilise des phrases longues comme un humain.
+> ATTENTION KEZAKO SE DECLANCHE AUSSI SUR LES PHRASES LONGUES
+Hm... Ok...
+```
+
+
+```
+> ok ok
+J'aime bien quand tout est fluide...
+> oui moi aussi
+Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
+```
