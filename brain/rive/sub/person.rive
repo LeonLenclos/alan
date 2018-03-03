@@ -13,3 +13,7 @@
 ! person tu = je
 ! person nous = vous
 ! person vous = nous
+! person vos = nos
+! person nos = vos
+! person tes = mes
+! person mes = tes

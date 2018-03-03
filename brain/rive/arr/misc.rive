@@ -4,7 +4,7 @@
 
 // name introductions
 ! array name_intro = je m appelle|je suis|moi c est|mon nom c est
-^ appelle moi|on m'appelle
+^ appelle moi|on m'appelle|c est
 
 // hello
 ! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour|ciao|hola

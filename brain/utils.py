@@ -19,7 +19,7 @@ def remove_punctuation(input_str):
     """Take a string and return the string witout punctuation
     and with spaces instead of apostrophes"""
     exclude = set(string.punctuation)
-    input_str = input_str.replace("'", " ")
+    input_str = input_str.replace("'", " ").replace("-", " ")
     return ''.join(ch for ch in input_str if ch not in exclude)
 
 def clean(input_str):
