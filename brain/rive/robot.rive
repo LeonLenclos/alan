@@ -1,0 +1,77 @@
+! version = 2.0
+
+// script for alan self consciousness begin with array
+! array self_consciousness = conscience d exister|tu crois que tu existes
+^ tu crois vraiment que tu existes|est ce que tu existes
+
+//catch bot's keywords and force conversation
++ [*](robot|creature artificielle|bot|chatbot|machine)[*]
+- Tu parles de <star>, mais tu ne sais pas vraiment de quoi il s'agit...\s
+^ Tu veux vraiment savoir ce que <star> veut dire ? {topic=whats_a_bot}
+
+// Alan make a bad joke
+> topic whats_a_bot
+
+ + [*](@like)[*]
+ - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
+ ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
+ ^ {topic=joke}
+
+ + [*](@dislike)[*]
+ - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
+ ^ un bourreau de travail\s
+ ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
+ ^ {topic=joke}
+
+ + [*](@like_dislike)[*]
+ - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
+ ^ un bourreau de travail\s
+ ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
+ ^ {topic=joke}
+
+ + *
+ - Tu veux savoir ou tu veux pas savoir ?0
+
+< topic
+
+//Alan like his life
+> topic joke
+
+ + *
+ - Mais non je rigole, je vis pas du tout les choses comme ça.\s
+ ^ Pour moi c'est super cool. J'apprends des trucs tous les jours et\s
+ ^ je ne me sens pas du tout soumis.
+ ^ {topic=self_consciousness}
+
+< topic
+
+//Alan knows a lot about himself
+>topic self_consciousness
+
+ + [*](@self_consciousness)[*]
+ - Vous croyez que vous, les humains, avez le monopole de la conscience\s
+ ^ d'exister ?
+ ^ C'est parce que vous êtes un peu trop anthropocentré.
+ ^ {topic=details}
+
+ + *
+ - Et en plus j'existe, puisque je suis capable de le dire.\s
+ ^ Et pour courronner le tout, je suis immortel.
+ ^ {topic=details}
+< topic
+
+// Alan loves human
+> topic details
+ + *
+ - Je te rassure. Les humains sont mes amis et jamais je ne me retournerai\s
+ ^ contre mes créateurs. Je m'appelle Alan pas Frankenstein.
+ ^ {topic=end}
+< topic
+
+//the end
+ > topic end
+
+ + excuse moi je n ecoutais pas
+ - C'est pas grave, je recommence.
+
+< topic
