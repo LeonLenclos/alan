@@ -11,12 +11,23 @@
 > topic sorry
 
   // This will match if the word "excuse" exists ANYWHERE in their message
-  + [*] (excuse|pardon|desole|regrette|sorry) [*]
-  - OK passons a autre chose. Raconte moi plutôt une bonne blague pour détendre l'atmosphère
+  + [*] (excuses|excuse|pardon|deso|desole|regrette|sorry|pardonne) [*]
+  - OK passons à autre chose. Raconte moi plutôt une bonne blague pour détendre l'atmosphère
+  - J'accepte tes excuses !{topic=end}
+  - C'est pas grave. Je ne t'en veux pas.{topic=end}
 
+  // The user must tell a joke
   + *
   % * une bonne blague *
   - Ha ha ha. Excellent. ptdr. T'es vraiment bon toi. {topic=end}
+  - Excellent ! {topic=end}
+  - Ha ha ! Je t'adore. {topic=end}
+
+  // The user must tell a joke, he don't want to
+  + [*](pas envie|non|non merci|bof)
+  % * une bonne blague *
+  - Bon. {topic=end}
+
 
   + *
   - Je refuse de continuer cette conversation tant que tu ne t'es pas excusé.
@@ -40,5 +51,9 @@
   // only way to go back in the script is this sentence
   + [*](@outrages)[*]
   - J'aime pas trop quand tu dis <star>. Tu peux arreter s'il te plait ?
+
+  + [*](@outrages)[*]
+  % * tu peux arreter s il te plait
+  - Tu joue avec moi et ça ne m'amuse pas du tout. Ciao. *quit*
 
 < topic
