@@ -54,15 +54,6 @@ J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
 
 
 ```
-
-> je suis mou
-Dacodac...
-> quel age as tu
-Bientôt undefined mois.
-```
-
-
-```
 > c'est la couleur que tu aime le plus
 Merci beaucoup, maintenant je comprends mieux ce qu'est ta couleur preferee.
 > FAIRE SUBSTITUTIONS DE PERSON POUR LES RELATIONS
