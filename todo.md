@@ -46,24 +46,61 @@ Ecoute, je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
 
 
 ```
+<<<<<<< HEAD
 > tu comprend jamais rien CAR TU ES NUL
 "mieux vaut tard que jamais." Comme on dit !
 > oui tu comprends tard
 J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
+=======
+> je suis mou
+Dacodac... 
+> quel age as tu
+Bientôt undefined mois.
 ```
 
 
 ```
+> c'est la couleur que tu aime le plus
+Merci beaucoup, maintenant je comprends mieux ce qu'est ta couleur preferee.
+> FAIRE SUBSTITUTIONS DE PERSON POUR LES RELATIONS
+Hm... Ok...
+>>>>>>> e61c4806b978fc0b3ae3e3136926fde220a1e3a8
+```
+
+
+```
+<<<<<<< HEAD
 > non car t'es idiot
 J'aime pas trop quand tu dis idiot. Tu peux arreter s'il te plait ?
 > non t'es trop con
 J'aime pas trop quand tu dis con. Tu peux arreter s'il te plait ?
+=======
+> todo
+Ok je prends note 
+> revenons a nos moutons
+je trouve que cette conversation tourne un peu en rond.
+>>>>>>> e61c4806b978fc0b3ae3e3136926fde220a1e3a8
 ```
 
 
 ```
+<<<<<<< HEAD
 > a quoi tu penses
 Je me demande si je suis à la hauteur de cette conversation...
 > mais oui t'es genial
 parlons d'autre chose si tu veux bien.
+=======
+> c'est quand c'est vraiment tres genial
+D'accord, c'est gentil de m'avoir appris ce qu'est top cool.
+> c'est quoi ta couleur preferee
+Ta couleur preferee est la couleur que tu aime le plus.
+```
+
+
+```
+> j'adore
+Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
+> PLUS DE CATCH ALL
+J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
+>>>>>>> e61c4806b978fc0b3ae3e3136926fde220a1e3a8
 ```
