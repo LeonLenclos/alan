@@ -6,7 +6,6 @@
 
                 "./rive/robot.rive",
                 "./rive/bot_var.rive","./rive/arr/misc.rive"],
-                "./rive/sub/person.rive","./rive/arr/misc.rive"],
 
             "import_path": "logic.RiveScriptAdapter"
         }
