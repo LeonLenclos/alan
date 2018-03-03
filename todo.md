@@ -14,8 +14,6 @@ Ne pas hésiter à laisser des commentaires dans le fichier.
 ## La liste
 
 
-
-
 ```
 > oublie
 je trouve que cette conversation tourne un peu en rond.
@@ -37,4 +35,11 @@ Ha ha ha. Excellent. ptdr. T'es vraiment bon toi.
 Super. Je sens qu'on va bien s'amuser.
 > cool
 J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
+```
+
+```
+> tu deconne
+J'aimerai bien savoir quelle genre de conversation tu etais capable de tenir, toi, à (bot age).
+> oui. surement pas mieux.
+Ecoute, je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
 ```
