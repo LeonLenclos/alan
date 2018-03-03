@@ -43,3 +43,27 @@ J'aimerai bien savoir quelle genre de conversation tu etais capable de tenir, to
 > oui. surement pas mieux.
 Ecoute, je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
 ```
+
+
+```
+> tu comprend jamais rien CAR TU ES NUL
+"mieux vaut tard que jamais." Comme on dit !
+> oui tu comprends tard
+J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
+```
+
+
+```
+> non car t'es idiot
+J'aime pas trop quand tu dis idiot. Tu peux arreter s'il te plait ?
+> non t'es trop con
+J'aime pas trop quand tu dis con. Tu peux arreter s'il te plait ?
+```
+
+
+```
+> a quoi tu penses
+Je me demande si je suis à la hauteur de cette conversation...
+> mais oui t'es genial
+parlons d'autre chose si tu veux bien.
+```
