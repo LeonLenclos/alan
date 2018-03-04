@@ -19,7 +19,7 @@ class MainLogicAdapter(MultiLogicAdapter):
         results = []
         result = None
         max_confidence = -1
-
+        result_adapter = None
 
         for adapter in self.get_adapters():
             # change coefficient of every logic adapters
@@ -31,7 +31,10 @@ class MainLogicAdapter(MultiLogicAdapter):
                 # add logic_identifier as extra_data
                 output.add_extra_data("logic_identifier", adapter.identifier)
                 # store result
-                results.append((output.confidence, output, adapter))
+                results.append(dict(logic_identifier=adapter.identifier,
+                                    logic_type=type(adapter).__name__,
+                                    confidence=output.confidence,
+                                    text=output))
                 # log
                 self.logger.info(
                     '{} = "{}" (confidence : {})'.format(
@@ -46,11 +49,23 @@ class MainLogicAdapter(MultiLogicAdapter):
                     max_confidence = output.confidence
 
             else:
+                # store result
+                results.append(dict(logic_identifier=adapter.identifier,
+                                    logic_type=type(adapter).__name__))
                 # log
                 self.logger.info(
                     '{} = Not processing'.format(adapter.identifier)
                 )
 
-        result_adapter.change_coefficient(is_selected=True)
-        result.add_extra_data("speaker", "alan") # added by leon
-        return result
+        try:
+            # notify selected adapter
+            result_adapter.change_coefficient(is_selected=True)
+
+            # add speaker data
+            result.add_extra_data("speaker", "alan")
+
+            # store last results for analysis
+            self.chatbot.last_results.append(results)
+            return result
+        except AttributeError:
+            raise Exception("No response found for '%s'" % statement.text)

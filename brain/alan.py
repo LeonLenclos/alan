@@ -9,7 +9,7 @@ from logic import MainLogicAdapter
 from chatterbot.conversation import Statement
 from test.simple_talk import test
 # Constants for specials use of alan
-SETTINGS_FILE = "simple_rive"
+SETTINGS_FILE = "base"
 # (Need to find a better way to do that latter)
 
 class Alan(chatterbot.ChatBot):
@@ -30,6 +30,7 @@ class Alan(chatterbot.ChatBot):
 
         # log status
         self.logger.info(self.status())
+        self.last_results=[]
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
@@ -91,8 +92,16 @@ class Alan(chatterbot.ChatBot):
                 f.write("\n\n```\n> %s\n%s\n> %s\n%s\n```\n"
                     % tuple([self.storage.get_latest_statement(offset=i+2)
                     for i in reversed(range(4))]))
-
-
+        if command == 'info':
+            print("\nANALYSIS\n--------\n")
+            print("Input : '%s'\n" % self.storage.get_latest_statement(speaker="human", offset=1))
+            for result in self.last_results[-2]:
+                print("---\n%(logic_identifier)s (%(logic_type)s)"% result)
+                if "text" in result:
+                    print("(%(confidence).2f)\t'%(text)s'" % result)
+                else:
+                    print("NOT PROCESSING")
+            print("---\n")
     def learn_response(self, statement, previous_statement):
         """
         Learn that the statement provided is a valid response.
