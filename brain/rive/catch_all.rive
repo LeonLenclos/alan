@@ -23,42 +23,38 @@
 - Je me demande si je suis à la hauteur de cette conversation...
 
 + *
-% Je crois que je n'ai pas entièrement compris ce que tu viens de me dire.
-^ Est ce que tu peux répéter tout ça avec des mots simples
+% * pas entierement compris ce que tu viens de me dire
+^ Est ce que tu peux repeter tout ça avec des mots simples
 - Ecoute ça me dépasse un peu. Je préfèrerais qu'on parle d'autre chose.
 ^ Es tu plutôt jeune ou vieux ?
 
 + *
-% Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie.
+% * j apprecie beaucoup ta compagnie
 ^ Et toi tu passes un bon moment avec moi ?
 - Qu'est ce que tu préfères ? La compagnie d'un humain où celle d'une machine ?
 
 + [*](@like)[*]
-% La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours
-^ quoi dire ?
+% et toi est ce que tu sais toujours quoi dire
 - Tu veux dire que tu n'as jamais de bugs, quelle chance. Pourrais tu me
 ^ communiquer le contact de celui qui t'a programmé ça m'intéresse...
 
 + [*](@dislike)[*]
-% La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours
-^ quoi dire ?
+% et toi est ce que tu sais toujours quoi dire
 - Toi aussi tu as des bugs.Ha ha. Nobody is perfect.
 
 + [*](@like)[*]
-% je préfère en rester là sur ce sujet. Parle moi de toi plutôt.
-^ Joues tu d'un instrument de musique ?
+% joues tu d'un instrument de musique
 - Moi aussi je fais de la musique. A l'occasion on pourrait taper le beuf
 ^ tout les deux.
 
 + [*](@dislike)[*]
-% je préfère en rester là sur ce sujet. Parle moi de toi plutôt.
-^ Joues tu d'un instrument de musique ?
+% joues tu d'un instrument de musique
 - Dommage, on aurait pu faire un beuf ensemble.
 
 + [*](@like)[*]
-% Je me demande si je suis à la hauteur de cette conversation...
+% je me demande si je suis a la hauteur de cette conversation
 - Tu me rassures. Des fois je me sens un peu bête.
 
 + [*](@dislike)[*]
-% Je me demande si je suis à la hauteur de cette conversation...
+% je me demande si je suis a la hauteur de cette conversation
 - C'est bien ce que je pensais. Les gars qui m'ont codé on fait n'importe quoi.
