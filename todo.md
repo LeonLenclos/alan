@@ -134,3 +134,11 @@ J'assume tout ce que j'ai pu dire.
 > oui mais tu pensais a quelque chose non
 Comme on dit : "chose promise, chose due." !
 ```
+
+
+```
+> je suis nrassure
+Pardon j'ai décroché. J'étais perdu dans mes pensées.
+> quelles pensee
+"je suis nrassure"
+```

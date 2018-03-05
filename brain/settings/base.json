@@ -93,7 +93,7 @@
                 "./rive/arr/misc.rive",
                 "./rive/arr/feelings.rive"],
             "import_path": "logic.RiveScriptAdapter",
-            "max_confidence": 0.9
+            "max_confidence": 1
         },
         {
             "identifier": "one_step_aside",

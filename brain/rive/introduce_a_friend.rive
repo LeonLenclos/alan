@@ -5,10 +5,9 @@
 - Avec plaisir.
 
 + c est *
-- <set friend1_name = <star>> Bonjour <get friend1_name>, enchanté.
-
-+ [*](@hello)[*]
-- dis moi <get friend1_name> c est quoi ton metier
+% [*]je voudrais te presenter[*]
+- <set friend1=<star>> Bonjour <get friend1>, enchanté.
+^ c est quoi ton metier
 
 + [mon metier c est] <get friend1_job>
 - je vois. Le genre de metier que je pourrais jamais faire...
