@@ -4,7 +4,7 @@
             "identifier": "rive",
             "rive_files": [
 
-                "./rive/robot.rive",
+                "./rive/compliment",
                 "./rive/bot_var.rive","./rive/arr/misc.rive"],
                 "./rive/sub/person.rive","./rive/arr/misc.rive"],
 
