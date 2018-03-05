@@ -62,18 +62,13 @@ class EsakoAdapter(AlanLogicAdapter):
         last_response = self.chatbot.storage.get_latest_statement(speaker="alan")
         last_logic=self.chatbot.storage.get_latest_response_extra_data(
                                                 extra_data="logic_identifier")
-        print(1)
 
         if last_response:
-            print(1)
             if self.chatbot.storage.count_conv(self.chatbot.default_conversation_id>0):
-                print(1)
                 if last_logic == "kesako":
                     print(last_response.text)
                     if self.ask in last_response.text:
-                        print(1)
                         if self.relation in statement.text:
-                            print(1)
 
 
                             return True
