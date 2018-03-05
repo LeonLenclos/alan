@@ -5,6 +5,12 @@
 - Arrête de répéter tout ce que je dis si il te plait. On est pas à l'école\s
 ^ primaire.
 
+// alan is evasive
++ (oui|non)
+- D'accord.
+- Ok.
+- Je vois.
+
 // Alan confirm it's not a human
 + [*] (@male)
 - Cela dit en passant, je suis pas un <star>.
