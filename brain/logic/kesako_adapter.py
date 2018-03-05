@@ -122,7 +122,7 @@ class KesakoAdapter(AlanLogicAdapter):
 
         # Verify that concept_A is non-empty or to big (more than 4 words),
         #  if it is then change confidence to 0
-        if len(concept_A) == 0 or len(concept_A.split(" ")):
+        if len(concept_A) == 0 or len(concept_A.split(" "))>4:
             confidence=0
 
         statment_out = Statement(response)

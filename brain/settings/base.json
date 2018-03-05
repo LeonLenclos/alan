@@ -179,7 +179,7 @@
         {
             "identifier": "esako",
             "skill_description": ["J'aime apprendre ce que sont les choses."],
-            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(concept_A)s",
+            "ask":"Pourrais tu me dire en quelques mots ce qu'est",
             "relation": "est",
             "context": [
               "Merci beaucoup, maintenant je comprends mieux ce qu'est %(concept_A)s.",

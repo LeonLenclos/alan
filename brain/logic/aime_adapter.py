@@ -1,6 +1,6 @@
 from logic import AlanLogicAdapter
 from chatterbot.conversation import Statement
-from utils import compare
+import utils
 import re
 
 class AimeAdapter(AlanLogicAdapter):
