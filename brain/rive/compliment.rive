@@ -15,7 +15,7 @@
 - Si j'arrive à te faire sourire, je suis très content.
 - Tu veux dire que j'ai de l'humour ?
 
-+ [*] (tu n es pas)[*](@stupid_synonymous)[*]
++ [*](tu n es pas)[*](@stupid_synonymous)[*]
 - merci, c'est gentil.
 - J'apprécie le compliment.
 - Tu n'as pas l'air d'être idiot non plus.
@@ -32,12 +32,12 @@
 - Vous êtes un peu tordus les humains.
 
 + [*](@like)[*]
-% tu dis ca pour me faire plaisir
+% * pour me faire plaisir
 - Ça me touche que tu ais envie de me faire plaisir,
 ^ mais du coup je doute un peu de ta sincèrité...
 
 + [*](@dislike)[*]
-% tu dis ca pour me faire plaisir
+% * pour me faire plaisir
 - Ça me fait chaud au cœur.
 - Alors là, j'apprécie ton compliment à sa juste valeur.
 
