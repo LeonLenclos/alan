@@ -3,8 +3,7 @@
         {
             "identifier": "rive",
             "rive_files": [
-
-                "./rive/compliment",
+                "./rive/compliment.rive",
                 "./rive/bot_var.rive","./rive/arr/misc.rive"],
                 "./rive/sub/person.rive","./rive/arr/misc.rive"],
 
