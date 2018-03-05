@@ -44,7 +44,6 @@
             "identifier": "outrage",
             "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
             "rive_files": [
-                "./rive/bot_var.rive",
                 "./rive/outrage.rive",
                 "./rive/arr/outrages.rive"],
             "max_confidence": 1,
@@ -79,7 +78,6 @@
             "skill_description": ["J'aime bien parler du spectacle."],
             "rive_files": [
                 "./rive/turing_test.rive",
-                "./rive/bot_var.rive",
                 "./rive/arr/misc.rive"],
             "import_path": "logic.RiveScriptAdapter"
         },
@@ -89,7 +87,6 @@
                 "Parce que toute conversation commence par un échange de politesse",
                 "Parce qu'il faut apprendre à se connaître avant toute chose"],
             "rive_files": [
-                "./rive/bot_var.rive",
                 "./rive/greeting.rive",
                 "./rive/arr/misc.rive",
                 "./rive/arr/feelings.rive"],
@@ -101,7 +98,6 @@
             "skill_description": [
               "j'ai dis ça comme ça"],
             "rive_files": [
-                "./rive/bot_var.rive",
                 "./rive/one_step_aside.rive",
                 "./rive/arr/misc.rive"],
             "max_confidence": 0.5,
@@ -112,7 +108,6 @@
             "skill_description": [
               "parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
             "rive_files": [
-                "./rive/bot_var.rive",
                 "./rive/robot.rive",
                 "./rive/arr/misc.rive"],
             "max_confidence": 0.5,
@@ -123,7 +118,6 @@
             "skill_description": [
               "Parce qu'un compliment fait toujours plaisir."],
             "rive_files": [
-                "./rive/bot_var.rive",
                 "./rive/arr/synonymous.rive",
                 "./rive/compliment.rive",
                 "./rive/arr/misc.rive"],
@@ -135,9 +129,19 @@
             "skill_description": [
               "Parce qu'un reproche ne fait jamais plaisir."],
             "rive_files": [
-                "./rive/bot_var.rive",
                 "./rive/arr/synonymous.rive",
                 "./rive/reproach.rive",
+                "./rive/arr/misc.rive"],
+            "max_confidence": 0.5,
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "human",
+            "skill_description": [
+              "Parce que c'est ce que je pense des humains."],
+            "rive_files": [
+                "./rive/arr/synonymous.rive",
+                "./rive/human.rive",
                 "./rive/arr/misc.rive"],
             "max_confidence": 0.5,
             "import_path": "logic.RiveScriptAdapter"
@@ -147,7 +151,6 @@
             "skill_description": [
               "parce que c'est vrai"],
             "rive_files": [
-                "./rive/bot_var.rive",
                 "./rive/mainstream.rive",
                 "./rive/arr/misc.rive"],
             "max_confidence": 0.7,
