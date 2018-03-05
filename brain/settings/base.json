@@ -110,6 +110,30 @@
             "import_path": "logic.RiveScriptAdapter"
         },
         {
+            "identifier": "compliment",
+            "skill_description": [
+              "Parce qu'un compliment fait toujours plaisir."],
+            "rive_files": [
+                "./rive/bot_var.rive",
+                "./rive/synonymous.rive",
+                "./rive/compliment.rive",
+                "./rive/arr/misc.rive"],
+            "max_confidence": 0.5,
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "reproach",
+            "skill_description": [
+              "Parce qu'un reproche ne fait jamais plaisir."],
+            "rive_files": [
+                "./rive/bot_var.rive",
+                "./rive/synonymous.rive",
+                "./rive/reproach.rive",
+                "./rive/arr/misc.rive"],
+            "max_confidence": 0.5,
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
             "identifier": "mainstream",
             "skill_description": [
               "parce que c'est vrai"],
