@@ -28,6 +28,14 @@ class RiveScriptAdapter(AlanLogicAdapter):
         # do the sort_reply thing
         self.interpreter.sort_replies()
 
+        # give bot var
+        self.interpreter.set_variable("age",
+                                      self.chatbot.age)
+        self.interpreter.set_variable("lines_of_code",
+                                      self.chatbot.lines_of_code)
+        self.interpreter.set_variable("version",
+                                      self.chatbot.version)
+
         # cf. get methode
         self.reply = None
 

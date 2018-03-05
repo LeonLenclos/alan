@@ -1,0 +1,5 @@
+! version = 2.0
+
+// Substitutions
+! tu es     = t es
+! t es     = tu es

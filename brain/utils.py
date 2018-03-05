@@ -15,11 +15,14 @@ def remove_accents(input_str):
     only_ascii = nfkd_form.encode('ASCII', 'ignore')
     return only_ascii.decode('ascii')
 
-def remove_punctuation(input_str):
+def remove_punctuation(input_str, gramatical_punctuation_to_spaces=True):
     """Take a string and return the string witout punctuation
     and with spaces instead of apostrophes"""
     exclude = set(string.punctuation)
-    input_str = input_str.replace("'", " ").replace("-", " ")
+    exclude.discard("'")
+    exclude.discard("-")
+    if gramatical_punctuation_to_spaces:
+        input_str = input_str.replace("'", " ").replace("-", " ")
     return ''.join(ch for ch in input_str if ch not in exclude)
 
 def clean(input_str):
