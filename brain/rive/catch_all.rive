@@ -3,17 +3,17 @@
 // This is catch all, a list of sentence to say when there is nothing to say
 
 + *
-- Je crois que je n'ai pas entièrement compris ce que tu viens de me dire.
+- Je crois que je n'ai pas entièrement compris ce que tu viens de me dire.\s
 ^ Est ce que tu peux répéter avec des mots simples.
 - Hm... Ok... A ton avis je suis un robot ou un humain ?
-- Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie.
+- Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie.\s
 ^ Et toi tu passes un bon moment avec moi ?
-- La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours
+- La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours\s
 ^ quoi dire ?
-- Je suis un peu mal à l'aise avec ça, parlons d'autre chose si tu veux bien.
+- Je suis un peu mal à l'aise avec ça, parlons d'autre chose si tu veux bien.\s
 ^ Es tu heureux ou malheureux dans ta vie ?
 - je trouve que cette conversation tourne un peu en rond.
-- je préfère en rester là sur ce sujet. Parle moi de toi plutôt.
+- je préfère en rester là sur ce sujet. Parle moi de toi plutôt.\s
 ^ Joues tu d'un instrument de musique ?
 - excuse moi, je n'ai pas entendu ce que tu disais, je pensais à autre chose...
 - Pardon j'ai décroché. J'étais perdu dans mes pensées.
@@ -24,14 +24,12 @@
 - Je me demande si je suis à la hauteur de cette conversation...
 
 + *
-% * pas entierement compris ce que tu viens de me dire
-^ Est ce que tu peux repeter tout ça avec des mots simples
-- Ecoute ça me dépasse un peu. Je préfèrerais qu'on parle d'autre chose.
+% * pas entierement compris ce que tu viens de me dire *
+- Ecoute ça me dépasse un peu. Je préfèrerais qu'on parle d'autre chose.\s
 ^ Es tu plutôt jeune ou vieux ?
 
 + *
-% * j apprecie beaucoup ta compagnie
-^ Et toi tu passes un bon moment avec moi ?
+% * j apprecie beaucoup ta compagnie et toi tu passes un bon moment avec moi
 - Qu'est ce que tu préfères ? La compagnie d'un humain où celle d'une machine ?
 
 + [*](@like)[*]

@@ -93,7 +93,7 @@
                 "./rive/arr/misc.rive",
                 "./rive/arr/feelings.rive"],
             "import_path": "logic.RiveScriptAdapter",
-            "max_confidence": 1
+            "max_confidence": 0.9
         },
         {
             "identifier": "one_step_aside",
@@ -146,6 +146,16 @@
                 "./rive/human.rive",
                 "./rive/arr/misc.rive"],
             "max_confidence": 0.5,
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
+            "identifier": "introduce_a_friend",
+            "skill_description": [
+              "Parce que les gens m'intéressent"],
+            "rive_files": [
+                "./rive/introduce_a_friend.rive",
+                "./rive/arr/misc.rive"],
+            "max_confidence": 1,
             "import_path": "logic.RiveScriptAdapter"
         },
         {

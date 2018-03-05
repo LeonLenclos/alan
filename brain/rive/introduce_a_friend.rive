@@ -1,0 +1,14 @@
+! version = 2.0
+
+//User introduce a fiend to Alan
++ [*]je voudrais te presenter[*]
+- Avec plaisir.
+
++ c est *
+- <set friend1_name = <star>> Bonjour <get friend1_name>, enchanté.
+
++ [*](@hello)[*]
+- dis moi <get friend1_name> c est quoi ton metier
+
++ [mon metier c est] <get friend1_job>
+- je vois. Le genre de metier que je pourrais jamais faire...
