@@ -1,6 +1,6 @@
 from logic import AlanLogicAdapter
 from chatterbot.conversation import Statement
-from utils import compare
+import utils
 import re
 
 class KesakoAdapter(AlanLogicAdapter):
@@ -11,14 +11,7 @@ class KesakoAdapter(AlanLogicAdapter):
 
     def __init__(self, **kwargs):
         """Required kwarg :
-
-        concepts_file
-        A string. The path to the file containing the concepts linked with what
-        they are.  The file containing the quotations must be an sql database
-        with a lot of complicate things into it. Two tables are stored into the
-         database :
-          _Into the first, concepts are stored along with an index number.
-
+s
         questions
         A list of strings.
         The question that must be answered with this adapter.
@@ -69,10 +62,19 @@ class KesakoAdapter(AlanLogicAdapter):
     def process(self, statement):
         relation=self.relation
         # concept_A is the chain following the last relation occurence
-        concept_A = re.sub(".*[ ']"+relation+" (que )*","",statement.text)
-        # Remove the chain " quoi " from concept_A (because of "C'est quoi..."
-        # questions)
+
+        # Here, we also remove the words "que" and "qu'"because of "qu'est ce que
+        # c'est que ..." questions.
+        concept_A = re.sub(".*[ ']"+relation+" (qu['e] )*","",statement.text)
+        # Remove the punctuation from concept_A except apostrophe "'"
+        utils.remove_punctuation(concept_A, False )
+        # Remove the chain " quoi " if it begin concept_A (because of "C'est
+        # quoi..." questions)
         concept_A = re.sub("^(quoi)","",concept_A)
+        # Remove starting and ending spaces
+        concept_A=concept_A.strip()
+        # Get the interrogative part of the question that is before the concept_A
+        question = statement.text.split(concept_A)[0]
 
         # The following block allow the kezako adapter to answer to the "Qu'est
         # ce que..." and "Qu'est ce qu'..." questions.
@@ -87,21 +89,9 @@ class KesakoAdapter(AlanLogicAdapter):
         #    qu'..." qu'est)
         #   concept_A = re.sub("^( ce qu')","",concept_A)
 
-        # Get the interrogative part of the question that is before the concept_A
-        question = statement.text.split(concept_A)[0]
-        # Remove the punctuation from concept_A except apostrophe "'"
-        concept_A = re.sub(r"[.?:,;!]","",concept_A)
-        # Remove starting and ending spaces
-        concept_A=concept_A.strip()
         # Get the distance between input statement and questions list
-        confidence = compare(question, self.questions)
-        # Verify that concept_A is non-empty, if it is then change confidence
-        # to 0
-        if len(concept_A) == 0:
-            confidence=0
+        confidence = utils.compare(question, self.questions)
 
-        # This block is an idea for recognizing if "Qu'est ce que..." questions
-        # are followed by a verb, detecting the presence of "tu"
 
         # If concept_A is related by the relation to another concept, put
         # this concept into concept_B
@@ -114,22 +104,27 @@ class KesakoAdapter(AlanLogicAdapter):
             response = concept_A+" "+relation+" "+concept_B+"."
 
         # If a concept is related to concept_A by the relation, put
-        # this concept into concept_B
+        # this concept into concept_C
         elif  self.chatbot.storage.get_related_concept(concept_A, relation,
                                                         reverse=True):
-            concept_B = self.chatbot.storage.get_related_concept(concept_A,
+            concept_C = self.chatbot.storage.get_related_concept(concept_A,
                                                         relation, reverse=True)
             # Turn the first letter of the concept_B chain to a capital
-            concept_B = concept_B.lower().capitalize()
+            concept_C = concept_C.lower().capitalize()
             # Answer and ask
-            response = concept_B+" "+relation+" "+concept_A+\
-            " mais je ne sais pas vraiment ce qu'est "+concept_A+". "+\
-            self.ask % {"concept_A":concept_A}
+            response = concept_C+" "+relation+" "+concept_A+\
+            " mais je ne sais pas vraiment ce qu'est "+concept_A+". "\
+            +self.ask % {"concept_A":concept_A}
         # Else aske for a concept related to concept_A
         else:
             # Answer and ask
             response = "Je ne sais pas ce qu'est "+concept_A+". "+\
             self.ask % {"concept_A":concept_A}
+
+        # Verify that concept_A is non-empty or to big (more than 4 words),
+        #  if it is then change confidence to 0
+        if len(concept_A) == 0 or len(concept_A.split(" ")):
+            confidence=0
 
         statment_out = Statement(response)
         statment_out.confidence = self.get_confidence(confidence)

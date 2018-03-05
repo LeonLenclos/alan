@@ -4,20 +4,15 @@ from utils import compare
 import re
 
 class AimeAdapter(AlanLogicAdapter):
-    """This adapter answer to questions about the nature of concepts, that is
-    questions concerning the 'est' relation like 'Qu'est ce que c'est ... '.
-    If he don't know the concept that is asked for, Alan asks about this thing is.
-    """
+    """This adapter answer to questions about what someone or something loves,
+     that is questions concerning the 'aime' relation like 'Est ce que concept_A
+    aime concept_B'.
+    If he don't know if he loves the concept that is asked for, Alan choose
+    randomly if he loves it or not. If he don't know if concept_A loves
+    concept_B he asks for it with aimeask adaptor"""
 
     def __init__(self, **kwargs):
         """Required kwarg :
-
-        concepts_file
-        A string. The path to the file containing the concepts linked with what
-        they are.  The file containing the quotations must be an sql database
-        with a lot of complicate things into it. Two tables are stored into the
-         database :
-          _Into the first, concepts are stored along with an index number.
 
         questions
         A list of strings.
