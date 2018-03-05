@@ -11,3 +11,8 @@
 // store four last sentences in the todo list
 + (revoir|todo)
 - Ok je prends note *todo*
+- C'est noté ! *todo*
+
+// give info for the latest response
++ (analyse|info)
+- Voilà les informations que tu m'as demandé. *info*

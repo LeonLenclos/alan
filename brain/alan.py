@@ -3,38 +3,76 @@
 import argparse
 import json
 import re
+import os
 import sys
+import datetime
+
 import chatterbot
+
 from logic import MainLogicAdapter
-from chatterbot.conversation import Statement
 from test.simple_talk import test
-# Constants for specials use of alan
-SETTINGS_FILE = "base"
-# (Need to find a better way to do that latter)
 
 class Alan(chatterbot.ChatBot):
-    """Alan is a chatbot"""
+    """
+    Alan is a chatbot.
+    """
 
-    def __init__(self):
+    name = "Alan"
+    version_infos = (0, 0, 0)
+    version = '.'.join(str(version_infos))
+    birth = datetime.datetime(2018,1,31)
+    author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
+
+    def __init__(self, settings_file="settings/base.json"):
+        """
+        Initialisation for Alan.
+        You can pass an alternative settings file by the settings_file argument
+        """
+
         # load settings
-        with open("settings/%s.json" % SETTINGS_FILE, "r") as file:
+        with open(settings_file, "r") as file:
             settings = json.load(file);
 
+        # Alan age
+        self.age = ""
+        age_time = datetime.datetime.now() - self.birth
+        years = age_time.days // 365
+        months = age_time.days // 30
+        if years > 0:
+            self.age += "%s an" % years
+            if years > 1:
+                self.age += "s"
+            if months > 0:
+                self.age += " et"
+        if months > 0:
+            self.age += "%s mois" % months
+
+        # Alan lines count
+        self.lines_of_code = 0
+        for root, dirs, files in os.walk("."):
+           for name in files:
+              if name.endswith(('.py', '.json', '.rive')):
+                  path = '/'.join((root,name))
+                  self.lines_of_code += sum(1 for line in open(path))
+
+        print(self.age)
+        print(self.lines_of_code)
+
+        # Alan system attributes
+        self.last_results=[]
+
         # init chatterbot
-        super().__init__("Alan", **settings)
+        super().__init__(self.name, **settings)
 
         # change from MultiLogicAdapter to MainLogicAdapter
         adapters = self.logic.get_adapters()[:-1]
         self.logic = MainLogicAdapter(**settings, chatbot=self)
         self.logic.adapters = adapters
 
-        # log status
-        self.logger.info(self.status())
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
-        # TODO: the Alan.status method should return more informations...
-        return "Alan v0"
+        return "%s v%s\nBy %s" % self.name, self.version, self.author
 
     def get_response(self, input_item, conversation_id=None):
         """
@@ -53,7 +91,7 @@ class Alan(chatterbot.ChatBot):
 
         # Get input
         if input_item:
-            input_statement = Statement(input_item)
+            input_statement = chatterbot.conversation.Statement(input_item)
         else:
             input_statement = self.input.process_input()
 
@@ -91,8 +129,16 @@ class Alan(chatterbot.ChatBot):
                 f.write("\n\n```\n> %s\n%s\n> %s\n%s\n```\n"
                     % tuple([self.storage.get_latest_statement(offset=i+2)
                     for i in reversed(range(4))]))
-
-
+        if command == 'info':
+            print("\nANALYSIS\n--------\n")
+            print("Input : '%s'\n" % self.storage.get_latest_statement(speaker="human", offset=1))
+            for result in self.last_results[-2]:
+                print("---\n%(logic_identifier)s (%(logic_type)s)"% result)
+                if "text" in result:
+                    print("(%(confidence).2f)\t'%(text)s'" % result)
+                else:
+                    print("NOT PROCESSING")
+            print("---\n")
     def learn_response(self, statement, previous_statement):
         """
         Learn that the statement provided is a valid response.
