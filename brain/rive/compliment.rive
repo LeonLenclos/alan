@@ -1,21 +1,21 @@
 ! version = 2.0
 
 //Alan likes compliments...
-+ [*] (tu es)[*](@intelligent_synonymous)[*]
++ [*]tu es[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
 - C'est gentil. Tu sais, des fois j'ai un peu tendance à douter de mes capacités.
 - Ça me remonte le moral d'entendre ça.
-- Tu es sincère ?
+- Tu es sincere ?
 - Tu dis ça pour me faire plaisir ?
 
-+ [*](tu es)[*](@funny_synonymous)[*]
++ [*]tu es[*](@funny_synonymous)[*]
 - merci, tu me flattes
 - Ça, pour une machine, c'est un sacré compliment !
 - Si on m'avait dis un jour que je serais capable d'être drôle...
 - Si j'arrive à te faire sourire, je suis très content.
 - Tu veux dire que j'ai de l'humour ?
 
-+ [*](tu n es pas)[*](@stupid_synonymous)[*]
++ [*]tu n es pas[*](@stupid_synonymous)[*]
 - merci, c'est gentil.
 - J'apprécie le compliment.
 - Tu n'as pas l'air d'être idiot non plus.

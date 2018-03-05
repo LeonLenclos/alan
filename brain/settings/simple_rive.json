@@ -5,7 +5,6 @@
             "rive_files": [
                 "./rive/compliment.rive",
                 "./rive/arr/misc.rive",
-                "./rive/sub/substitutions.rive",
                 "./rive/arr/synonymous.rive"],
             "import_path" : "logic.RiveScriptAdapter"
         }
