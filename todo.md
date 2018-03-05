@@ -15,6 +15,29 @@ Ne pas hésiter à laisser des commentaires dans le fichier.
 
 
 ```
+> oublie
+je trouve que cette conversation tourne un peu en rond.
+> alors, dis moi, tu t'amuse dans ta nouvelle vie de robot ?
+Ne dis-t-on pas : "pas de nouvelle, bonnes nouvelles." ?
+```
+
+
+```
+> DESOLE
+OK passons a autre chose. Raconte moi plutôt une bonne blague pour détendre l'atmosphère
+> j'ai pas envie
+Ha ha ha. Excellent. ptdr. T'es vraiment bon toi.
+```
+
+
+```
+> oui
+Super. Je sens qu'on va bien s'amuser.
+> cool
+J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
+```
+
+```
 > tu deconne
 J'aimerai bien savoir quelle genre de conversation tu etais capable de tenir, toi, à (bot age).
 > oui. surement pas mieux.

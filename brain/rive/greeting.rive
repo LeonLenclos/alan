@@ -51,19 +51,18 @@
 // When we just aksed for the user name
 > topic asked_name
 
-  // If just one word is given, we take it as the name and ask for feelings
   // Special response if the name is Bertrand, Fabien or Leon
-  + _
-  * <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
+  + [*](leon|bertrand|fabien)[*]{weight=10}
+  * <formal> == Bertrand => <set] name=<formal>>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
   * <formal> == Fabien => <set name=<formal>>Salut <get name>, comment ça va ?{topic=feelings}
   * <formal> == Leon => <set name=<formal>>Ho <get name>, je savais que c'était toi. Est ce que ca va ?{topic=feelings}
+
+  // If just one word is given, we take it as the name and ask for feelings
+  + _
   - <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?{topic=feelings}
 
   // The same with name introduction
   + [*](@name_intro) _
-  * {formal}<star2>{/formal} == Bertrand => <set name={formal}<star2>{/formal}>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
-  * {formal}<star2>{/formal} == Fabien => <set name={formal}<star2>{/formal}>Salut <get name>, comment ça va ?{topic=feelings}
-  * {formal}<star2>{/formal} == Leon => <set name={formal}<star2>{/formal}>Ho <get name>, je savais que c'était toi. Est ce que ca va ?{topic=feelings}
   - <set name={formal}<star2>{/formal}>Heureux de te rencontrer <get name>. Comment ça va ?{topic=feelings}
 
   // when more than one word is given, we ask for confirmation

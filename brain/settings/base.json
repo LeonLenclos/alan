@@ -59,6 +59,15 @@
 
         },
         {
+            "identifier": "thinking_about",
+            "skill_description": ["Je voulais parler de mes pensées et écouter les tiennes..."],
+            "rive_files": [
+                "./rive/thinking_about.rive",
+                "./rive/sub/person.rive",
+                "./rive/arr/misc.rive"],
+            "import_path": "logic.RiveScriptAdapter"
+        },
+        {
             "identifier": "commands",
             "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
             "max_confidence": 1,
