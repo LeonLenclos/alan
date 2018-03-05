@@ -130,15 +130,23 @@ class Alan(chatterbot.ChatBot):
                     % tuple([self.storage.get_latest_statement(offset=i+2)
                     for i in reversed(range(4))]))
         if command == 'info':
-            print("\nANALYSIS\n--------\n")
-            print("Input : '%s'\n" % self.storage.get_latest_statement(speaker="human", offset=1))
+            infos = "\nANALYSIS"
+            infos += "\n--------\n"
+            user_input = self.storage.get_latest_statement(speaker="human",
+                                                           offset=1)
+            infos += "\nInput : '%s'\n" % user_input
             for result in self.last_results[-2]:
-                print("---\n%(logic_identifier)s (%(logic_type)s)"% result)
+                infos += "\n---\n"
+                infos += "%(logic_identifier)s (%(logic_type)s)\n" % result
                 if "text" in result:
-                    print("(%(confidence).2f)\t'%(text)s'" % result)
+                    if result["not_allowed_to_repeat"]:
+                        infos += "NOT ALLOWED TO REPEAT "
+                    infos += "(%(confidence).2f) '%(text)s'" % result
                 else:
-                    print("NOT PROCESSING")
-            print("---\n")
+                    infos += "NOT PROCESSING"
+            infos += "\n---\n"
+            print(infos)
+
     def learn_response(self, statement, previous_statement):
         """
         Learn that the statement provided is a valid response.

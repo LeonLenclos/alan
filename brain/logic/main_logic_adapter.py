@@ -24,6 +24,8 @@ class MainLogicAdapter(MultiLogicAdapter):
         for adapter in self.get_adapters():
             # change coefficient of every logic adapters
             adapter.change_coefficient()
+            result_info = dict(logic_identifier=adapter.identifier,
+                               logic_type=type(adapter).__name__)
 
             if adapter.can_process(statement):
                 # get response
@@ -31,31 +33,38 @@ class MainLogicAdapter(MultiLogicAdapter):
                 # add logic_identifier as extra_data
                 output.add_extra_data("logic_identifier", adapter.identifier)
                 # store result
-                results.append(dict(logic_identifier=adapter.identifier,
-                                    logic_type=type(adapter).__name__,
-                                    confidence=output.confidence,
-                                    text=output))
+                result_info["confidence"] = output.confidence
+                result_info["text"] = output.text
                 # log
                 self.logger.info(
                     '{} = "{}" (confidence : {})'.format(
                         adapter.identifier, output.text, output.confidence
                     )
                 )
+                # check if the sentence have been said
+                result_info["not_allowed_to_repeat"] = False
+                if not adapter.allowed_to_repeat:
+                    conversation_id = self.chatbot.default_conversation_id
+                    same_statement = self.chatbot.storage.get_latest_statement(
+                                        conversation_id=conversation_id,
+                                        text=output.text,
+                                        speaker="alan")
+                    if same_statement:
+                        result_info["not_allowed_to_repeat"] = True
 
                 # check if it is the best
-                if output.confidence > max_confidence:
+                if (output.confidence > max_confidence
+                        and not result_info["not_allowed_to_repeat"]):
                     result = output
                     result_adapter = adapter
                     max_confidence = output.confidence
 
             else:
-                # store result
-                results.append(dict(logic_identifier=adapter.identifier,
-                                    logic_type=type(adapter).__name__))
                 # log
                 self.logger.info(
                     '{} = Not processing'.format(adapter.identifier)
                 )
+            results.append(result_info)
 
         try:
             # notify selected adapter
