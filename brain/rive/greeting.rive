@@ -5,6 +5,8 @@
 
 ! version = 2.0
 
+
+
 // Script begin here.
 > begin
 
@@ -14,7 +16,6 @@
   - {ok}
 
 < begin
-
 
 // When a new user is coming.
 > topic new_user
@@ -123,10 +124,10 @@
 
   // user have bad feelings
   + [*](@negative)[*]
-  - <formal> ! Ho c'est triste. Je vais t'aider à remonter la pente.{topic=end}
+  - <sentence> ! Ho c'est triste. Je vais t'aider à remonter la pente.{topic=end}
   - Et moi aussi, je suis en mode (@negative_accent). On est deux.{topic=end}
   - Dommage. Personnellement je suis dans un mood (@positive_accent). Courage.{topic=end}
-  - <formal> ? Qu'est ce qu'il se passe ? Tu as tes règles ?{topic=end}
+  - <sentence> ? Qu'est ce qu'il se passe ? Tu as tes règles ?{topic=end}
   - Mince alors...{topic=end}
 
   // user have good feelings
@@ -154,3 +155,11 @@
   - Oui. Et comment tu t'appelle déjà ? {topic=asked_name}
 
 < topic
+
+
+// don't know why, this fix an error. I think that we can't have a rive where
+// everything is into topics. there have to be at least one trigger outside
+// topics. But in this case, it will never match. Because user is always in a
+// topic.
++ *
+- <star>

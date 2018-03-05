@@ -1,5 +1,6 @@
 ! version = 2.0
 
+<<<<<<< HEAD
 //Alan likes compliments...
 + [*] (tu es)[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
@@ -77,3 +78,13 @@
 + [*][c est quoi|ca veux dire quoi|qu est ce que ca veux dire][*]euphemisme[*]
 - Un euphémisme c'est plutôt pour atténuer la dureté d'une expression.\s
 ^ Par exemple quand on dit troisième age pour dire vieux.
+=======
++ [*]tu es[*](@intelligent_synonymous)[*]
+- merci
+
++ [*]tu es[*](@funny_synonymous)[*]
+- merci
+
++ [*]tu n es pas[*](@stupid_synonymous)[*]
+- merci
+>>>>>>> 9ce13c12595293621c260d50f099a0c378a8e5d1

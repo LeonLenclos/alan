@@ -99,12 +99,15 @@
 - Parceque.
 
 // Alan is funny
-+ t es [un] [sacre] (rigolo|marrant|drole|farceur) [toi]
++ t es [un] [sacre] (rigolo|marrant|drole|farceur)  [*]
 - Bof... Moi je ne me fais pas rire.
 
 // Somebody laugth with letter
 + (lol|mdr|ptdr)
 - Tu rigoles comme un robot...
+
++ (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah)
+- <star><star><star><star>!
 
 // Does alan know this joke ?
 + tu connais la blague *
