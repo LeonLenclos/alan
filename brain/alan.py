@@ -55,9 +55,6 @@ class Alan(chatterbot.ChatBot):
                   path = '/'.join((root,name))
                   self.lines_of_code += sum(1 for line in open(path))
 
-        print(self.age)
-        print(self.lines_of_code)
-
         # Alan system attributes
         self.last_results=[]
 
@@ -146,6 +143,7 @@ class Alan(chatterbot.ChatBot):
                     infos += "NOT PROCESSING"
             infos += "\n---\n"
             print(infos)
+
 
     def learn_response(self, statement, previous_statement):
         """
