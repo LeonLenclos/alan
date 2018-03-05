@@ -10,8 +10,8 @@ class KesakoAdapter(AlanLogicAdapter):
     """
 
     def __init__(self, **kwargs):
-        """Required kwarg :
-s
+        """Required kwargs :
+
         questions
         A list of strings.
         The question that must be answered with this adapter.
@@ -26,7 +26,6 @@ s
         Ask will include a specifier for the concept which is asked :
         "Pourrais tu me dire en quelques mots ce qu'est %(concept_A)s."
          """
-
 
         super().__init__(**kwargs)
         # Getting questions
