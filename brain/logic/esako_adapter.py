@@ -59,19 +59,21 @@ class EsakoAdapter(AlanLogicAdapter):
         # this is not the first response of Alan and contain the chain ask and
         #   if the response of the human contain the relation
 
-        last_response = self.chatbot.storage.get_latest_statement(speaker="alan")
+        last_response = self.chatbot.storage.get_latest_statement(
+            speaker="alan",
+            conversation_id=self.chatbot.default_conversation_id)
         last_logic=self.chatbot.storage.get_latest_response_extra_data(
                                                 extra_data="logic_identifier")
-
+        print(19)
         if last_response:
-            if self.chatbot.storage.count_conv(self.chatbot.default_conversation_id>0):
-                if last_logic == "kesako":
-                    print(last_response.text)
-                    if self.ask in last_response.text:
-                        if self.relation in statement.text:
-
-
-                            return True
+            print(19)
+            if last_logic == "kesako":
+                print(19)
+                if self.ask in last_response.text:
+                    print(19)
+                    if self.relation in statement.text:
+                        print(19)
+                        return True
 
         return False
 
