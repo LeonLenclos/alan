@@ -5,6 +5,8 @@
 
 ! version = 2.0
 
+
+
 // Script begin here.
 > begin
 
@@ -15,12 +17,11 @@
 
 < begin
 
-
 // When a new user is coming.
 > topic new_user
 
   // We ask for his name.
-  + *
+  + [*](@hello)[*]
   - Bonjour je suis alan ! un comédien du spectacle Turing Test.\s
   ^ comment t'appelles tu?{topic=asked_name}
   - Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dit bonjour ?{topic=confirm_hello}
@@ -37,7 +38,6 @@
   - <formal> ! Qui est à l'appareil ?{topic=asked_name}
   - Coucou, comment tu t'appelle ?{topic=asked_name}
 
-
 < topic
 
 // When we're not sure if the user said hello
@@ -52,19 +52,18 @@
 // When we just aksed for the user name
 > topic asked_name
 
-  // If just one word is given, we take it as the name and ask for feelings
   // Special response if the name is Bertrand, Fabien or Leon
-  + _
-  * <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
+  + [*](leon|bertrand|fabien)[*]{weight=10}
+  * <formal> == Bertrand => <set] name=<formal>>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
   * <formal> == Fabien => <set name=<formal>>Salut <get name>, comment ça va ?{topic=feelings}
   * <formal> == Leon => <set name=<formal>>Ho <get name>, je savais que c'était toi. Est ce que ca va ?{topic=feelings}
+
+  // If just one word is given, we take it as the name and ask for feelings
+  + _
   - <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?{topic=feelings}
 
   // The same with name introduction
   + [*](@name_intro) _
-  * {formal}<star2>{/formal} == Bertrand => <set name={formal}<star2>{/formal}>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
-  * {formal}<star2>{/formal} == Fabien => <set name={formal}<star2>{/formal}>Salut <get name>, comment ça va ?{topic=feelings}
-  * {formal}<star2>{/formal} == Leon => <set name={formal}<star2>{/formal}>Ho <get name>, je savais que c'était toi. Est ce que ca va ?{topic=feelings}
   - <set name={formal}<star2>{/formal}>Heureux de te rencontrer <get name>. Comment ça va ?{topic=feelings}
 
   // when more than one word is given, we ask for confirmation
@@ -125,10 +124,10 @@
 
   // user have bad feelings
   + [*](@negative)[*]
-  - <formal> ! Ho c'est triste. Je vais t'aider à remonter la pente.{topic=end}
+  - <sentence> ! Ho c'est triste. Je vais t'aider à remonter la pente.{topic=end}
   - Et moi aussi, je suis en mode (@negative_accent). On est deux.{topic=end}
   - Dommage. Personnellement je suis dans un mood (@positive_accent). Courage.{topic=end}
-  - <formal> ? Qu'est ce qu'il se passe ? Tu as tes règles ?{topic=end}
+  - <sentence> ? Qu'est ce qu'il se passe ? Tu as tes règles ?{topic=end}
   - Mince alors...{topic=end}
 
   // user have good feelings
@@ -156,3 +155,11 @@
   - Oui. Et comment tu t'appelle déjà ? {topic=asked_name}
 
 < topic
+
+
+// don't know why, this fix an error. I think that we can't have a rive where
+// everything is into topics. there have to be at least one trigger outside
+// topics. But in this case, it will never match. Because user is always in a
+// topic.
++ *
+- <star>

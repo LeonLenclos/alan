@@ -1,19 +1,33 @@
 ! version = 2.0
 
-+ [*](@outrages)[*]
++ (@outrages)
 - écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi s'il te plait. {topic=sorry}
 - <star> toi même. C'est quoi ce language ? {topic=sorry}
 - Je rêve ou quoi ? Comment il me parle cet humain. {topic=sorry}
 
++ (tu es|t es|t es un|tu es un)[*](@outrages)[*]
+@ <star2>
+
 > topic sorry
 
   // This will match if the word "excuse" exists ANYWHERE in their message
-  + [*] (excuse|pardon|desole|regrette|sorry) [*]
-  - OK passons a autre chose. Raconte moi plutôt une bonne blague pour détendre l'atmosphère
+  + [*] (excuses|excuse|pardon|deso|desole|regrette|sorry|pardonne) [*]
+  - OK passons à autre chose. Raconte moi plutôt une bonne blague pour détendre l'atmosphère
+  - J'accepte tes excuses !{topic=end}
+  - C'est pas grave. Je ne t'en veux pas.{topic=end}
 
+  // The user must tell a joke
   + *
   % * une bonne blague *
   - Ha ha ha. Excellent. ptdr. T'es vraiment bon toi. {topic=end}
+  - Excellent ! {topic=end}
+  - Ha ha ! Je t'adore. {topic=end}
+
+  // The user must tell a joke, he don't want to
+  + [*](pas envie|non|non merci|bof)
+  % * une bonne blague *
+  - Bon. {topic=end}
+
 
   + *
   - Je refuse de continuer cette conversation tant que tu ne t'es pas excusé.
@@ -24,6 +38,11 @@
   - Des excuses, j'exige des excuses immédiates !
   - Écoute, je ne comprends pas ce que ça t'apporte de m'insulter. Je te demande calmement de t'excuser ! Tout de suite.
 
+  + [*](@outrages)[*]
+  - Ok je me casse *quit*
+  - Tu l'aura voulu, je m'en vais *quit*
+  - Si c'est comme ça je m'en vais *quit*
+
 < topic
 
 // when finish
@@ -31,6 +50,10 @@
 
   // only way to go back in the script is this sentence
   + [*](@outrages)[*]
-  - Mais, tu recommences ? Bon, j'ai mieux à faire. *quit*
+  - J'aime pas trop quand tu dis <star>. Tu peux arreter s'il te plait ?
+
+  + [*](@outrages)[*]
+  % * tu peux arreter s il te plait
+  - Tu joue avec moi et ça ne m'amuse pas du tout. Ciao. *quit*
 
 < topic

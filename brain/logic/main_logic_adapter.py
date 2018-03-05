@@ -19,40 +19,53 @@ class MainLogicAdapter(MultiLogicAdapter):
         results = []
         result = None
         max_confidence = -1
+        result_adapter = None
 
         for adapter in self.get_adapters():
+            # change coefficient of every logic adapters
+            adapter.change_coefficient()
+
             if adapter.can_process(statement):
-
+                # get response
                 output = adapter.process(statement)
-                output.add_extra_data("logic_identifier", adapter.identifier) # added by leon
-                results.append((output.confidence, output, ))
-
+                # add logic_identifier as extra_data
+                output.add_extra_data("logic_identifier", adapter.identifier)
+                # store result
+                results.append(dict(logic_identifier=adapter.identifier,
+                                    logic_type=type(adapter).__name__,
+                                    confidence=output.confidence,
+                                    text=output))
+                # log
                 self.logger.info(
-                    '{} selected "{}" as a response with a confidence of {}'.format(
+                    '{} = "{}" (confidence : {})'.format(
                         adapter.identifier, output.text, output.confidence
                     )
                 )
 
+                # check if it is the best
                 if output.confidence > max_confidence:
                     result = output
+                    result_adapter = adapter
                     max_confidence = output.confidence
+
             else:
+                # store result
+                results.append(dict(logic_identifier=adapter.identifier,
+                                    logic_type=type(adapter).__name__))
+                # log
                 self.logger.info(
-                    'Not processing the statement using {}'.format(adapter.identifier)
+                    '{} = Not processing'.format(adapter.identifier)
                 )
 
-        # If multiple adapters agree on the same statement,
-        # then that statement is more likely to be the correct response
-        if len(results) >= 3:
-            statements = [s[1] for s in results]
-            count = Counter(statements)
-            most_common = count.most_common()
-            if most_common[0][1] > 1:
-                common_result = most_common[0][0]
-                max_confidence = self.get_greatest_confidence(common_result, results)
-                if max_confidence > 0:
-                    result = common_result
+        try:
+            # notify selected adapter
+            result_adapter.change_coefficient(is_selected=True)
 
-        result.confidence = max_confidence
-        result.add_extra_data("speaker", "alan") # added by leon
-        return result
+            # add speaker data
+            result.add_extra_data("speaker", "alan")
+
+            # store last results for analysis
+            self.chatbot.last_results.append(results)
+            return result
+        except AttributeError:
+            raise Exception("No response found for '%s'" % statement.text)
