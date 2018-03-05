@@ -4,24 +4,36 @@ import argparse
 import json
 import re
 import sys
+import datetime
+
 import chatterbot
+
 from logic import MainLogicAdapter
-from chatterbot.conversation import Statement
 from test.simple_talk import test
-# Constants for specials use of alan
-SETTINGS_FILE = "base"
-# (Need to find a better way to do that latter)
 
 class Alan(chatterbot.ChatBot):
-    """Alan is a chatbot"""
+    """
+    Alan is a chatbot
+    """
 
-    def __init__(self):
+    def __init__(self, settings_file="settings/base.json"):
+        """
+        Initialisation for Alan.
+        You can pass an alternative settings file by the settings_file argument
+        """
+
+        name = "Alan"
+        version_infos = (0, 0, 0)
+        version = '.'.join(version_infos)
+        birth = datetime.datetime(2018,1,31)
+        author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
+
         # load settings
-        with open("settings/%s.json" % SETTINGS_FILE, "r") as file:
+        with open("settings/%s.json", "r") as file:
             settings = json.load(file);
 
         # init chatterbot
-        super().__init__("Alan", **settings)
+        super().__init__(self.name, **settings)
 
         # change from MultiLogicAdapter to MainLogicAdapter
         adapters = self.logic.get_adapters()[:-1]
@@ -30,6 +42,8 @@ class Alan(chatterbot.ChatBot):
 
         # log status
         self.logger.info(self.status())
+
+        # Alan attributes
         self.last_results=[]
 
     def status(self):
@@ -54,7 +68,7 @@ class Alan(chatterbot.ChatBot):
 
         # Get input
         if input_item:
-            input_statement = Statement(input_item)
+            input_statement = chatterbot.conversation.Statement(input_item)
         else:
             input_statement = self.input.process_input()
 
