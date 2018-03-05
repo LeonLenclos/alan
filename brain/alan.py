@@ -55,9 +55,6 @@ class Alan(chatterbot.ChatBot):
                   path = '/'.join((root,name))
                   self.lines_of_code += sum(1 for line in open(path))
 
-        print(self.age)
-        print(self.lines_of_code)
-
         # Alan system attributes
         self.last_results=[]
 
@@ -139,6 +136,10 @@ class Alan(chatterbot.ChatBot):
                 else:
                     print("NOT PROCESSING")
             print("---\n")
+
+    def log (self, str):
+        print(str.encode('cp1252'))
+
     def learn_response(self, statement, previous_statement):
         """
         Learn that the statement provided is a valid response.
