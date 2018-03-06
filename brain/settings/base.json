@@ -177,15 +177,6 @@
             "import_path": "logic.RiveScriptAdapter"
         },
         {
-            "identifier": "yes",
-            "skill_description": [
-              "parce que je ne suis pas contrariant"],
-            "rive_files": [
-                "./rive/yes.rive"],
-            "max_confidence": 0.1,
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
             "identifier": "justification",
             "skill_description": ["Je voulais me justifier..."],
             "import_path": "logic.Justification",
