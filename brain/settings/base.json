@@ -54,6 +54,14 @@
         {
             "identifier": "catch_all",
             "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
+            "rive_files": ["./rive/response_to_catch_all.rive"],
+            "max_confidence": 0.5,
+            "import_path": "logic.RiveScriptAdapter"
+
+        },
+        {
+            "identifier": "catch_all",
+            "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
             "rive_files": ["./rive/catch_all.rive"],
             "max_confidence": 0.2,
             "import_path": "logic.RiveScriptAdapter"
@@ -121,6 +129,7 @@
               "Parce qu'un compliment fait toujours plaisir."],
             "rive_files": [
                 "./rive/arr/synonymous.rive",
+                "./rive/sub/substitutions.rive",
                 "./rive/compliment.rive",
                 "./rive/arr/misc.rive"],
             "max_confidence": 0.5,
