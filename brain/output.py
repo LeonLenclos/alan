@@ -5,23 +5,19 @@ class SpeakOutputAdapter(OutputAdapter):
     """This is an output_adapter to give a voice to the chatbot."""
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.espeak_settings = dict(
-            voice="mb-frezf",
-            speed=100,
-            pitch=50,
-        )
-        self.voice = "mb-fr1"
-        self.speed = 100
-        self.pitch = 50
+
+        self.voice = kwargs.get('voice', 'mb-fr1')
+        self.speed = kwargs.get('speed', 100)
+        self.pitch = kwargs.get('pitch', 50)
 
     def espeak(self, text):
         command = ["espeak",
                    "-s{}".format(self.speed),
                    "-p{}".format(self.pitch),
                    "-v{}".format(self.voice),
-                   text]
-        rep = subprocess.run(command, stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL)
-        print("okidoki")
+                   text
+                   ]
+        subprocess.run(command, stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL)
 
     def process_response(self, statement, session_id=None):
         """
