@@ -88,6 +88,10 @@ class AimeAdapter(AlanLogicAdapter):
                 self.chatbot.storage.store_concept_association(concept_A,
                                                             "aime", concept_B):
                 response="%(A)s %(rel)s %(B)s."
+            else:
+                self.chatbot.storage.store_concept_association(concept_A,
+                                                            "aime", concept_B):
+                response="%(A)s %(rel)s %(B)s."
 
             # If moreover some C is related to B by the relation
             if self.chatbot.storage.get_related_concept(concept_B,self.relation,

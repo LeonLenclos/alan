@@ -60,7 +60,10 @@ def compare(s, compare_to):
         except TypeError:
             raise TypeError(
                 "string must be compared to a string or list of strings")
+<<<<<<< HEAD
 
+=======
+>>>>>>> e4a34b1957d22d624bde0f1d4a2d00b7ac0cba58
     return ratio*ratio
 
 
