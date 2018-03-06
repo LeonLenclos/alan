@@ -6,7 +6,25 @@ def test(alan):
     alan.storage.store_concept_association("une chaise", "est", "un objet")
     alan.storage.store_concept_association("une pince", "est", "un outils")
     alan.storage.store_concept_association("une choose", "est", "un truc")
-    alan.storage.store_concept_association("un truc", "est", "une chose")
+    alan.storage.store_concept_association("une chaise", "est", "un aliment", negative=True)
+
+    print(
+        alan.storage.get_related_concept(
+        "une chose",
+        "est",
+        negative=True))
+
+    print(
+        alan.storage.get_related_concept(
+        "une chaise",
+        "est",
+        negative=True))
+
+    print(
+        alan.storage.get_related_concept(
+        "une chaise",
+        "est",
+        negative=False))
 
     print("is related truc et chose : %s"
         % alan.storage.is_related_concept("un truc", "est", "une chose"))
