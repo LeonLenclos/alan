@@ -44,6 +44,13 @@ class RiveScriptAdapter(AlanLogicAdapter):
         user = "localuser"
         text = clean(statement.text)
 
+        # set last reply as the real reply
+        history = self.interpreter.get_uservar(user, "__history__")
+        if type(history) is dict:
+            latest_reply = self.chatbot.storage.get_latest_statement().text
+            history["reply"][0] = latest_reply
+        self.interpreter.set_uservar(user, "__history__", history)
+
         # if self.reply is empty, get a reply if not return the last reply
         if not self.reply:
             self.reply = self.interpreter.reply(user, text, errors_as_replies=False);

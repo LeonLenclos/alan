@@ -129,11 +129,16 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         """
         Base.metadata.create_all(self.engine)
 
-    def get_latest_statement(self, conversation_id=None, speaker=None, offset=0):
+    def get_latest_statement(self,
+                            conversation_id=None,
+                            speaker=None,
+                            offset=0,
+                            text=None):
         """Return a Statement
         default for conversation_id any
         default for speaker is anybody
         default for index is 0 (0 is latest)
+        default for text is any
         """
 
         session = self.Session()
@@ -145,6 +150,8 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
             query = query.filter(Statement.conversations.any(id=conversation_id))
         if speaker:
             query = query.filter(Statement.speaker == speaker)
+        if text:
+            query = query.filter(Statement.text == text)
 
         query = query.order_by(Statement.id.desc())
         query = query.limit(1)
