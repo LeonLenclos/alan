@@ -22,13 +22,6 @@ Ne dis-t-on pas : "pas de nouvelle, bonnes nouvelles." ?
 ```
 
 
-```
-> DESOLE
-OK passons a autre chose. Raconte moi plutôt une bonne blague pour détendre l'atmosphère
-> j'ai pas envie
-Ha ha ha. Excellent. ptdr. T'es vraiment bon toi.
-```
-
 
 ```
 > oui
@@ -109,36 +102,4 @@ Ta couleur preferee est la couleur que tu aime le plus.
 Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
 > PLUS DE CATCH ALL
 J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
-```
-
-
-```
-> hello
-Hello à toi humain. Je suis Alan. Et toi, comment tu t'appelle ?
-> bertrand
-<set] name=Bertrand>Yo undefined, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?
-```
-
-
-```
-> mais oui t'est fun
-Je ne sais pas ce qu'est fun. Pourrais tu me dire en quelques mots ce qu'est fun.
-> fun ca veut dire drole en anglais
-Pardon j'ai décroché. J'étais perdu dans mes pensées.
-```
-
-
-```
-> pour savoir a quoi tu pensais
-J'assume tout ce que j'ai pu dire.
-> oui mais tu pensais a quelque chose non
-Comme on dit : "chose promise, chose due." !
-```
-
-
-```
-> je suis nrassure
-Pardon j'ai décroché. J'étais perdu dans mes pensées.
-> quelles pensee
-"je suis nrassure"
 ```

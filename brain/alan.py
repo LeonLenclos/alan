@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: Latin-1 -*-
+# -*- coding: utf-8 -*-
 import argparse
 import json
 import re
@@ -23,7 +23,7 @@ class Alan(chatterbot.ChatBot):
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
 
-    def __init__(self, settings_file="settings/test.json"):
+    def __init__(self, settings_file="settings/base.json"):
         """
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
@@ -57,6 +57,7 @@ class Alan(chatterbot.ChatBot):
 
         # Alan system attributes
         self.last_results=[]
+        self.user_name = None
 
         # init chatterbot
         super().__init__(self.name, **settings)

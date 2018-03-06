@@ -54,7 +54,7 @@
 
   // Special response if the name is Bertrand, Fabien or Leon
   + [*](leon|bertrand|fabien)[*]{weight=10}
-  * <formal> == Bertrand => <set] name=<formal>>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
+  * <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
   * <formal> == Fabien => <set name=<formal>>Salut <get name>, comment ça va ?{topic=feelings}
   * <formal> == Leon => <set name=<formal>>Ho <get name>, je savais que c'était toi. Est ce que ca va ?{topic=feelings}
 
