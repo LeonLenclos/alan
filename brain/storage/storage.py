@@ -172,10 +172,11 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         """
         statement = self.get_latest_statement(**kwargs)
 
-        if extra_data:
-            return statement.extra_data[extra_data]
+        if statement:
+            if extra_data:
+                return statement.extra_data[extra_data]
+            return statement.extra_data
 
-        return statement.extra_data
 
     def get_related_concept(self, concept, relation, reverse=False, negative=False):
         """Return a Concept that have a relation with another concept
@@ -214,6 +215,31 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         session.close()
         return None
 
+    def is_related_concept(self, concept_A, rel, concept_B):
+        """Take two concept and a relation
+        Return True is the relation is in the database
+        Return False if it is in the db but reversed
+        Return None if it is not in the db"""
+
+        session = self.Session()
+
+        concept_A_id = self.store_concept(concept_A)
+        concept_B_id = self.store_concept(concept_B)
+
+        query = session.query(ConceptAssociation)
+        query = query.filter_by(concept_A_id=concept_A_id,
+                                relation=rel,
+                                concept_B_id=concept_B_id)
+
+        association = query.first()
+        if association:
+            session.flush()
+            negative = association.negative
+            session.close()
+            return not negative
+
+        session.close()
+        return None
 
     def get_latest_response(self, conversation_id):
         """
