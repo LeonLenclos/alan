@@ -1,13 +1,14 @@
 ! version = 2.0
 
-+ [*]tu es[*](@strange_synonymous)[*]
+//how Alan answer to reproahes
++ [*](tu es|t es)[*](@strange_synonymous)[*]
 - Désolé, pourtant je fais de mon mieux pour être normal.
 
-+ [*]tu es[*](@stupid_synonymous)[*]
++ [*](tu es|t es)[*](@stupid_synonymous)[*]
 - Je ne suis que ce que les humains qui m'ont programmés ont fait de moi.
 
-+ [*]tu n es pas[*](@intelligent_synonymous)[*]
++ [*](tu n es pas|t es pas)[*](@intelligent_synonymous)[*]
 - Mais qui es tu toi pour me juger ainsi ?
 
-+ [*]tu n es pas[*](@intelligent_synonymous)[*]
++ [*](tu n es pas|t es pas)[*](@intelligent_synonymous)[*]
 - Tu n'as qu'à dire ça à celui qui m'a programmé.

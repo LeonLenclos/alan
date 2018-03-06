@@ -60,7 +60,7 @@ def compare(s, compare_to):
         except TypeError:
             raise TypeError(
                 "string must be compared to a string or list of strings")
-    return math.exp(3*ratio-3)
+    return ratio*ratio
 
 
 ##############
