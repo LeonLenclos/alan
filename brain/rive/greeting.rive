@@ -1,44 +1,31 @@
 // This rive file is for the begin of a conversation.
 // excepted script is :
-// new user -> asked name -> feelings -> end
+// new user -> confirm hello -> asked name -> confirm name
+// feelings -> end
 // but there can be detours by confirm_hello and confirm_name
 
 ! version = 2.0
 
 
 
-// Script begin here.
-> begin
 
-  // If we don't know user's name, set the new_user topic and continue.
-  + request
-  * <get met> == undefined => <set met=true>{topic=new_user}{ok}
-  - {ok}
+// We ask for his name.
++ [*](@hello)[*]
+- Bonjour je suis alan ! un comédien du spectacle Turing Test.\s
+^ comment t'appelles tu ?{topic=asked_name}
+- Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dit bonjour ?{topic=confirm_hello}
 
-< begin
+// repeat the way user said hello and ask for name
++ (@hello)
+- <formal> à toi humain. Je suis Alan. Et toi, comment tu t'appelle ?{topic=asked_name}
+- <formal>, je suis alan le meilleur robot du monde. Et toi t'es qui ?{topic=asked_name}
+- <formal> <star>. Moi c'est Alan, je suis un robot. Je suppose que toi tu es un humain ? Comment t'appelles-tu ?{topic=asked_name}
 
-// When a new user is coming.
-> topic new_user
-
-  // We ask for his name.
-  + [*](@hello)[*]
-  - Bonjour je suis alan ! un comédien du spectacle Turing Test.\s
-  ^ comment t'appelles tu?{topic=asked_name}
-  - Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dit bonjour ?{topic=confirm_hello}
-
-  // repeat the way user said hello and ask for name
-  + (@hello)
-  - <formal> à toi humain. Je suis Alan. Et toi, comment tu t'appelle ?{topic=asked_name}
-  - <formal>, je suis alan le meilleur robot du monde. Et toi t'es qui ?{topic=asked_name}
-  - <formal> <star>. Moi c'est Alan, je suis un robot. Je suppose que toi tu es un humain ? Comment t'appelles-tu ?{topic=asked_name}
-
-  // the user say hello alan
-  + (@hello) alan [*]
-  - <formal> ! C'est qui ?{topic=asked_name}
-  - <formal> ! Qui est à l'appareil ?{topic=asked_name}
-  - Coucou, comment tu t'appelle ?{topic=asked_name}
-
-< topic
+// the user say hello alan
++ (@hello) alan [*]
+- <formal> ! C'est qui ?{topic=asked_name}
+- <formal> ! Qui est à l'appareil ?{topic=asked_name}
+- Coucou, comment tu t'appelle ?{topic=asked_name}
 
 // When we're not sure if the user said hello
 > topic confirm_hello
@@ -107,8 +94,8 @@
   - Et moi aussi, je suis en mode (@negative_accent). On est deux.{topic=end}
   - Dommage. Personnellement je suis dans un mood (@positive_accent). Courage.{topic=end}
   - Euh... moi ça va.{topic=end}
-  - Moi non plus je suis pas en forme...
-  - Moi ça va toujours !
+  - Moi non plus je suis pas en forme...{topic=end}
+  - Moi ça va toujours !{topic=end}
 
   // user have good feelings and ask for bot's feelings
   // some specials if we don't know user name
@@ -120,7 +107,7 @@
   * <get name> ne undefined =>  Oui ça va bien, merci de demander.{topic=end}
   - À fond !{topic=end}
   - {formal}(@positive_accent){/formal} !{topic=end}
-  - Je vais bien moi aussi.
+  - Je vais bien moi aussi.{topic=end}
 
   // user have bad feelings
   + [*](@negative)[*]
@@ -155,11 +142,3 @@
   - Oui. Et comment tu t'appelle déjà ? {topic=asked_name}
 
 < topic
-
-
-// don't know why, this fix an error. I think that we can't have a rive where
-// everything is into topics. there have to be at least one trigger outside
-// topics. But in this case, it will never match. Because user is always in a
-// topic.
-+ *
-- <star>
