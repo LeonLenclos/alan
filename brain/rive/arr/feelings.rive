@@ -21,7 +21,6 @@
 ^ nickel|oui|pas mal|parfaitement|pechu|phenomenal|prodigieux|sensas
 ^ sensationnel|stupefiant|super|surnaturel|top|tranquille|impec
 
-
 // with accent
 
 ! array negative_accent = bad|blues|bof|ça ne va pas|ça pourrait aller mieux|ça va pas
@@ -36,3 +35,5 @@
 ^ insensé|la forme|la patate|la pêche|magique|merveilleux
 ^ nickel|oui|parfaitement|péchu|phénomenal|prodigieux|sensas
 ^ sensationnel|stupéfiant|super|surnaturel|terrible|top|tranquille
+
+! array sad = triste|dommage|pas cool
