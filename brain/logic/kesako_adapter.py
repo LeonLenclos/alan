@@ -63,7 +63,8 @@ class KesakoAdapter(AlanLogicAdapter):
         # Here, we also remove the words "que" and "qu'"because of "qu'est ce que
         # c'est que ..." questions and remove the string " quoi " if it begin concept_A (because of "C'est
         # quoi..." questions)
-        concept_A = re.sub(".*[ ']"+self.relation+" (qu['e] )*(quoi)*","",statement.text)
+        concept_A = re.sub(".*[ ']"+self.relation+" (qu['e] )*(quoi)*","",
+                                                            statement.text)
         # Remove the punctuation from concept_A except apostrophe "'"
         concept_A=utils.remove_punctuation(concept_A, False)
 
@@ -88,20 +89,20 @@ class KesakoAdapter(AlanLogicAdapter):
             # Answer the question
             response = "%(A)s %(rel)s %(B)s."
             if concept_C :
-                response += " D'ailleurs comme %(C)s %(rel)s %(A)s, %(C)s %(rel)s aussi %(B)s"
+                response += " D'ailleurs comme %(C)s %(rel)s %(A)s, %(C)s %(rel)s aussi %(B)s."
         # If a concept is related to concept_A by the relation, put
         # this concept into concept_C
         elif  concept_C:
             # Answer and ask
-            response = ("%(C)s %(rel)s %(A)s mais je ne sais pas vraiment ce que %(C)s %(rel)s. "
-            +(self.ask % {"concept_A":concept_A}).capitalize())
+            response = ("%(C)s %(rel)s %(A)s mais je ne sais pas vraiment ce que %(A)s %(rel)s. "
+            +self.ask)
         # Else ask for a concept related to concept_A
         else:
             # Answer and ask
             response = ("Je ne sais pas ce qu'est %(A)s "
-                     + (self.ask % {"concept_A":concept_A}).capitalize())
+                     + self.ask)
 
-        response %= {"A":concept_A, "B":concept_B, "C":concept_C, "rel":self.relation}
+        response = response % {"A":concept_A, "B":concept_B, "C":concept_C, "rel":self.relation }
         # Verify that concept_A is non-empty or to big (more than 4 words),
         #  if it is then change confidence to 0
         if len(concept_A) == 0 or len(concept_A.split(" "))>4:

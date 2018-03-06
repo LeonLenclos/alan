@@ -64,15 +64,10 @@ class EsakoAdapter(AlanLogicAdapter):
             conversation_id=self.chatbot.default_conversation_id)
         last_logic=self.chatbot.storage.get_latest_response_extra_data(
                                                 extra_data="logic_identifier")
-        print(19)
         if last_response:
-            print(19)
             if last_logic == "kesako":
-                print(19)
                 if self.ask in last_response.text:
-                    print(19)
                     if self.relation in statement.text:
-                        print(19)
                         return True
 
         return False

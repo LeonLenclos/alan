@@ -174,7 +174,7 @@
               "Sais tu ce qu'est"
             ],
             "relation": "est",
-            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(concept_A)s."
+            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(A)s."
         },
         {
             "identifier": "esako",
