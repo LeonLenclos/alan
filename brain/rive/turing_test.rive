@@ -6,6 +6,13 @@
 ^ ou au moins une sortie de résidence ?
 ^ {topic=do_you_know_turing_test}
 
+> topic back_to_turing_test
+
+  + [*](spectacle|turing test|theatre|comedien|show)[*]
+  - Ah, finalement tu veux des détails sur turing test ?
+  ^ {topic=link_turing_test}
+
+< topic
 
 //user know the show or not or between
 > topic do_you_know_turing_test
@@ -86,7 +93,7 @@
  + [*](@dislike)[*]
  - Pas de problème. Si tu veux plus d'infos, reviens vers moi. J'adore\s
  ^ parler de ça.
- ^ {topic=end_turing_test}
+ ^ {topic=back_to_turing_test}
 
  + [*](@like_dislike)[*]
  ^ Je te sens pas très chaud. Tu veux ou tu veux pas ?
