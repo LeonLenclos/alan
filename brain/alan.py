@@ -57,6 +57,7 @@ class Alan(chatterbot.ChatBot):
 
         # Alan system attributes
         self.last_results=[]
+        self.user_name = None
 
         # init chatterbot
         super().__init__(self.name, **settings)
