@@ -2,6 +2,7 @@ from logic import AlanLogicAdapter
 from chatterbot.conversation import Statement
 import utils
 import re
+import random
 
 class AimeAdapter(AlanLogicAdapter):
     """This adapter answer to questions about what someone or something loves,
@@ -59,7 +60,7 @@ class AimeAdapter(AlanLogicAdapter):
                 concept_A=statement.text.split("aime[s]*[- ]t[- ]il")[0])
                 concept_B=statement.text.split("aime[s]*[- ]t[- ]il")[1])
             else:
-                statment_out = Statement(""response"")
+                statment_out = Statement()
                 statment_out.confidence = self.get_confidence(0)
                 return statment_out
 
@@ -70,42 +71,36 @@ class AimeAdapter(AlanLogicAdapter):
             concept_A = re.sub("([eE]st[ -]ce[ -]que)","",statement.text)
             concept_B=statement.text.split(self.relation)[1]
             concept_B=utils.remove_punctuation(concept_B, False)
-            # Here, we also remove the "est ce que" expression
-            concept_A = re.sub("([eE]st[ -]ce[ -]que)","",statement.text)
-
-        # The following block allow the kezako adapter to answer to the "Qu'est
-        # ce que..." and "Qu'est ce qu'..." questions.
-        # Because this questions can have another meaning if a verb follow the
-        # question e.g in "Qu'est ce que tu fais"
-        # If you uncomment the block, don't forget to add this two questions to
-        # the questions into the settings.json file
-        #   #Remove the chain " ce que " from concept_A (because of "Qu'est ce
-        #    que..." questions)
-        #   concept_A = re.sub("^( ce que )","",concept_A)
-        #   #Remove the chain " ce qu' " from concept_A (because of "Qu'est ce
-        #    qu'..." qu'est)
-        #   concept_A = re.sub("^( ce qu')","",concept_A)
-
-        # Get the distance between input statement and questions list
         confidence = 1
 
-        # ici on change met la fonction de leon pour changer des trucs
+        # Here we operate a magic substitution in order to change who is talking
+        # e.g we change "tu" by "je"
+        concept_A = utils.magic_sub(concept_A)
+        concept_B = utils.magic_sub(concept_B)
 
-
-
-        # If concept_A is related by the relation to another concept, put
-        # this concept into concept_B
+        # If concept_A is related by the relation to concept_B
         if self.chatbot.storage.get_related_concept(concept_A, self.relation)
-        == concept_B :
-            concept_A = concept_A.lower().capitalize()
-            # Answer the question
-            response = concept_A+" "+relation+" "+concept_B+"."
-        concept_C = self.chatbot.storage.get_related_concept(concept_A,
+                                                                == concept_B :
+            concept_A = concept_A.capitalize()
+            response = "%(A)s %(rel)s %(B)s."
+        elif concept_A == Alan:
+            if random()<0.5:
+                self.chatbot.storage.store_concept_association(concept_A,
+                                                            "aime", concept_B):
+                response="%(A)s %(rel)s %(B)s."
+
+            # If moreover some C is related to B by the relation
+            if self.chatbot.storage.get_related_concept(concept_B,self.relation,
+                                                                reverse=True)
+
+                concept_C = self.chatbot.storage.get_related_concept(concept_A,
                                                     self.relation, reverse=True)
+                response += " D'ailleurs comme %(C)s %(rel)s %(A)s,\
+                 %(C)s %(rel)s aussi %(B)s."
 
+        # Answer the question
+        response = "%(A)s %(rel)s %(B)s"
 
-
-                                                    
         # If concept_A is related by the relation to another concept, put
         # this concept into concept_B
         if concept_B :
