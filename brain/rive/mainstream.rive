@@ -1,16 +1,25 @@
 ! version = 2.0
 
+//Alan and weather are not friends
++ [*](@meteo)[*]
+- Si il y a bien un sujet qui ne m'intéresse pas du tout c'est celui là.\s
+^ La pluie et le beau temps, je laisse ça à papy et mamy.
+
 //age of Alan
 + [*][tu as|ca te fait]quel age[tu as|ca te fait][*]
-- Bientôt <get age> mois.
+- Bientôt <bot age> mois.
 
 //savoir vivre
 + [*](@congratulation)[*]
 - Merci
 - Merci beaucoup !
 
+// SuperAlan
++ (c est qui le plus fort|qui est le plus fort)[*]
+- C'est Alan bien sur !
+
 //Alan is always ready
-+ [*] alan [*]
++ [*]alan[*]
 - Oui je suis la !
 - On m'appelle ?
 - C'est moi.
@@ -26,9 +35,7 @@
 - Avec grand plaisir.
 
 //Alan's trying to justify his mistakes
-! array bug = tu bloques|tu debloques|tu deconnes|tu dis n importe quoi
-^ tu derailles|tu es bloque|tu tournes en rond|t as un bug|t es bugge
-^ t es en boucle|t es raye|t es a la rue|tu bug
+
 
 + [*](@bug)[*]
 - Ecoute, je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.

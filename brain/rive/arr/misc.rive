@@ -40,3 +40,16 @@
 //yesno = between yes and no
 ! array like_dislike = heu|bof|pas trop|moyen|ca va|moyennement|ca passe|pas terrible
 ^ je ne sais pas|coussi coussa|couci couca
+
+//array for weather
+! array meteo = pluie soleil neige meteo froid chaleur
+^ beau temps|mauvais temps|temps qu il fait
+
+//bug
+! array bug = tu bloques|tu debloques|tu deconnes|tu dis n importe quoi
+^ tu derailles|tu es bloque|tu tournes en rond|t as un bug|t es bugge
+^ t es en boucle|t es raye|t es a la rue|tu bug
+
+//array OK
+! array ok = comment ca va|ca farte|la forme|en forme|ca va|are you ok
+^ la peche|ca baigne|how are you
