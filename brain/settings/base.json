@@ -244,7 +244,7 @@
 
     "storage_adapter": "storage.AlanSQLStorageAdapter",
     "input_adapter": "chatterbot.input.TerminalAdapter",
-    "output_adapter": "chatterbot.output.TerminalAdapter",
+    "output_adapter": "output.SpeakOutputAdapter",
     "preprocessors": [
         "chatterbot.preprocessors.clean_whitespace",
         "chatterbot.preprocessors.convert_to_ascii",
