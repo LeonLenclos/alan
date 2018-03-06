@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: Latin-1 -*-
+# -*- coding: utf-8 -*-
 import argparse
 import json
 import re
