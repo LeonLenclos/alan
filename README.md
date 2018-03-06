@@ -13,7 +13,7 @@ Les consignes d'écritures pour le développement d'Alan sont dans le `brain/REA
 
 ## Comment parler avec Alan
 
-Version de python requise : Python 3.5
+**Version de python requise : Python 3.5**
 
 Le projet en est encore au début du développement. Néamoins, le Alan contenu dans la branche `master` doit normalement pouvoir tourner. En attendant de pouvoir parler avec Alan sur internet vous pouvez suivre les indications suivantes pour installer alan sur votre ordinateur !
 
