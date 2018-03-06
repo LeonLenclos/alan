@@ -8,6 +8,10 @@ def test(alan):
     alan.storage.store_concept_association("une choose", "est", "un truc")
     alan.storage.store_concept_association("un truc", "est", "une chose")
 
+    print("is related truc et chose : %s"
+        % alan.storage.is_related_concept("un truc", "est", "une chose"))
+
+
     talk = [
         "Salut",
         "Salut",
