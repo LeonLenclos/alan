@@ -68,19 +68,23 @@ def compare(s, compare_to):
 ##############
 
 
-
+# oral elision (illegal elisions) to the right form
 elision_sub = [
     ("t'es", "tu es"),
     ("t'as", "tu as"),
     ("t'aimes", "tu aimes")
 ]
 
+# person reference id reversed
 person_sub = [
     ("j'ai", "tu as"),
     ("nous avons", "vous avez"),
     ("je suis", "tu es"),
     ("j'aime", "tu aimes"),
-    ("tu m'aimes", "je t'aime"),
+    ("m'aime", "t'aime"),
+    ("je t'aime", "tu m'aimes"),
+    ("m'aimes", "t'aimes"),
+    ("tu t'aimes", "je m'aimes"),
     ("nous sommes", "vous êtes"),
     ("mon", "ton"),
     ("ma", "ta"),
@@ -93,6 +97,9 @@ person_sub = [
 person_sub.extend([sub[::-1] for sub in person_sub])
 
 def substitute(s, sub_list):
+    """take a string and list of substitutions (tuple list)
+    remove punctuation, lower and return it with the substituted ellements
+    only substitute ellement with space around"""
     s = remove_punctuation(s, False).lower()
     for i, (a, b) in enumerate(sub_list):
         s = (" %s "%s).replace((" %s "%a)," <%s> "%i)
@@ -101,6 +108,8 @@ def substitute(s, sub_list):
     return s.strip()
 
 def do_person_sub(s):
+    """Take a string and return it with person substitued.
+    Try to work with elisions exceptions"""
     s = substitute(s, elision_sub)
     s = substitute(s, person_sub)
     return s
@@ -130,6 +139,21 @@ subject_you = [
 ]
 
 def do_subject_sub(s, sub_list, subject):
+    """take a string a substitution list (list of tuple) and a subject (str)
+    the substitution list may contain -subject- tags that will be replace by
+    the subject string"""
     s = substitute(s, sub_list)
     s = substitute(s, [("-subject-", subject)])
+    return s
+
+def magic_sub(s, user_name=None, bot_name="Alan"):
+    """take a string, the user_name and the bot_name
+    return the string with person and subject substitued
+    """
+    s = do_person_sub(s)
+    print(s)
+    if user_name:
+        s = do_subject_sub(s, subject_you, user_name)
+    if bot_name:
+        s = do_subject_sub(s, subject_i, bot_name)
     return s
