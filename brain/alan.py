@@ -10,8 +10,7 @@ import datetime
 import chatterbot
 
 from logic import MainLogicAdapter
-
-from test.simple_talk import test
+from test.test_storage import test
 
 class Alan(chatterbot.ChatBot):
     """
