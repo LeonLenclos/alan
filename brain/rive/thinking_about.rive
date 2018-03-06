@@ -13,12 +13,16 @@
 + [*]tu[*]une conscience [*]
 - Je ne sais pas si je suis conscient mais des fois, je penses a des trucs.
 
+
 // user ask what alan is thinking about, alan ask for confirmation
 + [*](a quoi|quel|quelles|quels)[*]
 % [*](je penses a des trucs|je pensais a un truc|j etais perdu dans mes pensees|je pensais a autre chose)[*]
 @ a quoi tu penses
 
-+ [alan] [s il te plait] [dis] [dis moi] [a quoi] [est ce que] tu (penses pensais) [est ce que] [a quoi] [alan]
++ [*]tu (penses|pensais) a quoi[*]
+@ a quoi tu penses
+
++ [*]a quoi[*]tu (penses|pensais)[*]
 - Tu veux que je te dise à quoi j'étais en train de penser ? {topic=thinking_about}
 
 
