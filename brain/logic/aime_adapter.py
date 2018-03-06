@@ -49,20 +49,29 @@ class AimeAdapter(AlanLogicAdapter):
 
     def process(self, statement):
         relation=self.relation
-        
-        # concept_A is the chain before the last relation occurence
-        concept_A = re.sub(relation+".*([ '])","",statement.text)
-        # Here, we also remove the "est ce que" expression
-        concept_A = re.sub("([eE]st[ -]ce[ -]que)","",statement.text)
-        # Remove the punctuation from concept_A except apostrophe "'"
-        concept_A=utils.remove_punctuation(concept_A, False)
-        # Remove the chain " quoi " if it begin concept_A (because of "C'est
-        # quoi..." questions)
-        concept_A = re.sub("^(quoi)","",concept_A)
-        # Remove starting and ending spaces
-        concept_A=concept_A.strip()
-        # Get the interrogative part of the question that is before the concept_A
-        question = statement.text.split(concept_A)[0]
+        if ("aime[s]*-" or "aime[s]*[- ]tu " or "aime[s]*[- ]t[- ]il") in
+                                                            statement.text:
+            if "aime[s]*[ -]tu " in statement.text :
+                concept_A="tu"
+                concept_B=re.sub(".*aime[- ]tu ","",statement.text)
+                concept_B=utils.remove_punctuation(concept_B, False)
+            elif "aime[s]*[- ]t[- ]il" in statement.context:
+                concept_A=statement.text.split("aime[s]*[- ]t[- ]il")[0])
+                concept_B=statement.text.split("aime[s]*[- ]t[- ]il")[1])
+            else:
+                statment_out = Statement(""response"")
+                statment_out.confidence = self.get_confidence(0)
+                return statment_out
+
+        else:
+            concept_A=statement.text.split(self.relation)[0]
+            concept_A=utils.remove_punctuation(concept_A, False)
+            # Here, we also remove the "est ce que" expression
+            concept_A = re.sub("([eE]st[ -]ce[ -]que)","",statement.text)
+            concept_B=statement.text.split(self.relation)[1]
+            concept_B=utils.remove_punctuation(concept_B, False)
+            # Here, we also remove the "est ce que" expression
+            concept_A = re.sub("([eE]st[ -]ce[ -]que)","",statement.text)
 
         # The following block allow the kezako adapter to answer to the "Qu'est
         # ce que..." and "Qu'est ce qu'..." questions.
@@ -78,43 +87,54 @@ class AimeAdapter(AlanLogicAdapter):
         #   concept_A = re.sub("^( ce qu')","",concept_A)
 
         # Get the distance between input statement and questions list
-        confidence = utils.compare(question, self.questions)
+        confidence = 1
+
+        # ici on change met la fonction de leon pour changer des trucs
+
 
 
         # If concept_A is related by the relation to another concept, put
         # this concept into concept_B
-        if self.chatbot.storage.get_related_concept(concept_A, self.relation):
-            concept_B=self.chatbot.storage.get_related_concept(concept_A,
-                                                                relation)
-            # Turn the first letter of the concept_A chain to a capital
+        if self.chatbot.storage.get_related_concept(concept_A, self.relation)
+        == concept_B :
             concept_A = concept_A.lower().capitalize()
             # Answer the question
             response = concept_A+" "+relation+" "+concept_B+"."
+        concept_C = self.chatbot.storage.get_related_concept(concept_A,
+                                                    self.relation, reverse=True)
 
+
+
+                                                    
+        # If concept_A is related by the relation to another concept, put
+        # this concept into concept_B
+        if concept_B :
+            # Answer the question
+            response = "%(A)s %(rel)s %(B)s."
+            if concept_C :
+                response += " D'ailleurs comme %(C)s %(rel)s %(A)s, %(C)s %(rel)s aussi %(B)s."
         # If a concept is related to concept_A by the relation, put
         # this concept into concept_C
-        elif  self.chatbot.storage.get_related_concept(concept_A, relation,
-                                                        reverse=True):
-            concept_C = self.chatbot.storage.get_related_concept(concept_A,
-                                                        relation, reverse=True)
-            # Turn the first letter of the concept_B chain to a capital
-            concept_C = concept_C.lower().capitalize()
+        elif  concept_C:
             # Answer and ask
-            response = concept_C+" "+relation+" "+concept_A+\
-            " mais je ne sais pas vraiment ce qu'est "+concept_A+". "\
-            +self.ask % {"concept_A":concept_A}
-        # Else aske for a concept related to concept_A
+            response = ("%(C)s %(rel)s %(A)s mais je ne sais pas vraiment ce que %(A)s %(rel)s. "
+            +self.ask)
+        # Else ask for a concept related to concept_A
         else:
             # Answer and ask
-            response = "Je ne sais pas ce qu'est "+concept_A+". "+\
-            self.ask % {"concept_A":concept_A}
+            response = ("Je ne sais pas ce qu'est %(A)s "
+                     + self.ask)
 
+        response = response % {"A":concept_A, "B":concept_B, "C":concept_C, "rel":self.relation }
         # Verify that concept_A is non-empty or to big (more than 4 words),
         #  if it is then change confidence to 0
         if len(concept_A) == 0 or len(concept_A.split(" "))>4:
             confidence=0
 
-        statment_out = Statement(response)
+
+        statment_out = Statement(response.capitalize())
         statment_out.confidence = self.get_confidence(confidence)
 
         return statment_out
+
+            return statment_out
