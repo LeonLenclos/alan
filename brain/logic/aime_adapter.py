@@ -49,7 +49,7 @@ class AimeAdapter(AlanLogicAdapter):
 
     def process(self, statement):
         relation=self.relation
-
+        
         # concept_A is the chain before the last relation occurence
         concept_A = re.sub(relation+".*([ '])","",statement.text)
         # Here, we also remove the "est ce que" expression
