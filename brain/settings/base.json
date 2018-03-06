@@ -98,6 +98,7 @@
            "skill_description": ["parce que c'est vrai"],
            "rive_files": [
                "./rive/mainstream.rive",
+               "./rive/arr/feeling.rive",
                "./rive/arr/misc.rive"],
            "max_confidence": 0.4,
            "import_path": "logic.RiveScriptAdapter"
