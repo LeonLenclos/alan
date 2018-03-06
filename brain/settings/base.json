@@ -99,7 +99,7 @@
            "rive_files": [
                "./rive/mainstream.rive",
                "./rive/arr/misc.rive"],
-           "max_confidence": 0.7,
+           "max_confidence": 0.4,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
