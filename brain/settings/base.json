@@ -70,6 +70,15 @@
 
         },
         {
+            "identifier": "really_do_not_know",
+            "skill_description": ["Je n'avais vraiment rien d'autre à dire."],
+            "rive_files": ["./rive/really_do_not_know.rive"],
+            "max_confidence": 0.15,
+            "allowed_to_repeat": true,
+            "import_path": "logic.RiveScriptAdapter"
+
+        },
+        {
             "identifier": "thinking_about",
             "skill_description": ["Je voulais parler de mes pensées et écouter les tiennes..."],
             "rive_files": [
@@ -187,15 +196,6 @@
                 "./rive/mainstream.rive",
                 "./rive/arr/misc.rive"],
             "max_confidence": 0.7,
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "yes",
-            "skill_description": [
-              "parce que je ne suis pas contrariant"],
-            "rive_files": [
-                "./rive/yes.rive"],
-            "max_confidence": 0.1,
             "import_path": "logic.RiveScriptAdapter"
         },
         {
