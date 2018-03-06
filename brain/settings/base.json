@@ -54,7 +54,9 @@
         {
             "identifier": "catch_all_response",
             "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
-            "rive_files": ["./rive/catch_all_response.rive"],
+            "rive_files": [
+                 "./rive/catch_all_response.rive",
+                 "./rive/arr/misc.rive"],
             "max_confidence": 0.5,
             "import_path": "logic.RiveScriptAdapter"
 

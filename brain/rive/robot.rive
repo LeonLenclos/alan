@@ -30,7 +30,25 @@
  ^ {topic=joke}
 
  + *
- - Tu veux savoir ou tu veux pas savoir ?0
+ - tu veux savoir ou tu veux pas savoir ?
+
+ + [*](@like)[*]
+ % tu veux savoir ou tu veux pas savoir
+ - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
+ ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
+ ^ {topic=joke}
+
+ + [*](@like_dislike)[*]
+ % tu veux savoir ou tu veux pas savoir
+ - tu es tétu comme un robot buggé.
+
+ + [*](@like_dislike)[*]
+ % tu veux savoir ou tu veux pas savoir
+ - Laisse tomber t'es trop compliqué pour moi.
+
+  + *
+  % tu veux savoir ou tu veux pas savoir
+  - Allo la terre ici Alan. Je crois que la connexion est interompue...
 
 < topic
 
