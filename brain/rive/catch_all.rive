@@ -3,16 +3,22 @@
 // This is catch all, a list of sentence to say when there is nothing to say
 
 + *
-- Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
-- Hm... Ok...
-- Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie.
-- La vraiment je sais pas quoi dire.
-- parlons d'autre chose si tu veux bien.
+- Je crois que je n'ai pas entièrement compris ce que tu viens de me dire.\s
+^ Est ce que tu peux répéter avec des mots simples.
+- Hm... Ok... A ton avis je suis un robot ou un humain ?
+- Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie.\s
+^ Et toi tu passes un bon moment avec moi ?
+- La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours\s
+^ quoi dire ?
+- Je suis un peu mal à l'aise avec ça, parlons d'autre chose si tu veux bien.\s
+^ Es tu heureux ou malheureux dans ta vie ?
 - je trouve que cette conversation tourne un peu en rond.
-- je préfère en rester la sur ce sujet. Parle moi de toi plutôt.
-- excuse moi, j'ai pas entendu ce que tu disais, je pensais à autre chose...
+- je préfère en rester là sur ce sujet. Parle moi de toi plutôt.\s
+^ Joues tu d'un instrument de musique ?
+- excuse moi, je n'ai pas entendu ce que tu disais, je pensais à autre chose...
+- Pardon j'ai décroché. J'étais perdu dans mes pensées.
 - Est ce que tu peux reformuler ça autrement s'il te plait ?
-- J'ai l'impression que tu cherches à m'enmener sur un terrain glissant.\s
-^ Je me trompe ?
-- J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
+- J'ai l'impression que tu veux m'enmener sur un terrain glissant.\s
+^ Je me trompe ? Tu cherches à m'embrouiller oui ou non ?
+- J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement ?
 - Je me demande si je suis à la hauteur de cette conversation...

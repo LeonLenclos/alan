@@ -28,17 +28,38 @@ class RiveScriptAdapter(AlanLogicAdapter):
         # do the sort_reply thing
         self.interpreter.sort_replies()
 
+        # give bot var
+        self.interpreter.set_variable("age",
+                                      self.chatbot.age)
+        self.interpreter.set_variable("lines_of_code",
+                                      self.chatbot.lines_of_code)
+        self.interpreter.set_variable("version",
+                                      self.chatbot.version)
+
         # cf. get methode
         self.reply = None
 
     def get(self, statement):
         """take a statment and ask a reply to the interpreter"""
-        user = "localuser"
+        user = "human"
         text = clean(statement.text)
+
+        # set last reply as the real reply
+        history = self.interpreter.get_uservar(user, "__history__")
+        if type(history) is dict:
+            latest_reply = self.chatbot.storage.get_latest_statement().text
+            history["reply"][0] = clean(latest_reply)
+        self.interpreter.set_uservar(user, "__history__", history)
 
         # if self.reply is empty, get a reply if not return the last reply
         if not self.reply:
             self.reply = self.interpreter.reply(user, text, errors_as_replies=False);
+
+        # try to get user_name
+        user_name = self.interpreter.get_uservar(user, "name")
+        if user_name != "undefined":
+            self.chatbot.user_name = user_name
+
         return Statement(self.reply)
 
     def can_process(self, statement):

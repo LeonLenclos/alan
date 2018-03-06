@@ -1,40 +1,77 @@
 #!/usr/bin/env python3
-# -*- coding: Latin-1 -*-
+# -*- coding: utf-8 -*-
 import argparse
 import json
 import re
+import os
 import sys
+import datetime
+
 import chatterbot
+
 from logic import MainLogicAdapter
-from chatterbot.conversation import Statement
-from test.test_storage import test
-# Constants for specials use of alan
-SETTINGS_FILE = "base"
-# (Need to find a better way to do that latter)
+
+from test.simple_talk import test
 
 class Alan(chatterbot.ChatBot):
-    """Alan is a chatbot"""
+    """
+    Alan is a chatbot.
+    """
 
-    def __init__(self):
+    name = "Alan"
+    version_infos = (0, 0, 0)
+    version = '.'.join(str(version_infos))
+    birth = datetime.datetime(2018,1,31)
+    author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
+
+    def __init__(self, settings_file="settings/base.json"):
+        """
+        Initialisation for Alan.
+        You can pass an alternative settings file by the settings_file argument
+        """
+
         # load settings
-        with open("settings/%s.json" % SETTINGS_FILE, "r") as file:
+        with open(settings_file, "r") as file:
             settings = json.load(file);
 
+        # Alan age
+        self.age = ""
+        age_time = datetime.datetime.now() - self.birth
+        years = age_time.days // 365
+        months = age_time.days // 30
+        if years > 0:
+            self.age += "%s an" % years
+            if years > 1:
+                self.age += "s"
+            if months > 0:
+                self.age += " et"
+        if months > 0:
+            self.age += "%s mois" % months
+
+        # Alan lines count
+        self.lines_of_code = 0
+        for root, dirs, files in os.walk("."):
+           for name in files:
+              if name.endswith(('.py', '.json', '.rive')):
+                  path = '/'.join((root,name))
+                  self.lines_of_code += sum(1 for line in open(path))
+
+        # Alan system attributes
+        self.last_results=[]
+        self.user_name = None
+
         # init chatterbot
-        super().__init__("Alan", **settings)
+        super().__init__(self.name, **settings)
 
         # change from MultiLogicAdapter to MainLogicAdapter
         adapters = self.logic.get_adapters()[:-1]
         self.logic = MainLogicAdapter(**settings, chatbot=self)
         self.logic.adapters = adapters
 
-        # log status
-        self.logger.info(self.status())
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
-        # TODO: the Alan.status method should return more informations...
-        return "Alan v0"
+        return "%s v%s\nBy %s" % self.name, self.version, self.author
 
     def get_response(self, input_item, conversation_id=None):
         """
@@ -53,7 +90,7 @@ class Alan(chatterbot.ChatBot):
 
         # Get input
         if input_item:
-            input_statement = Statement(input_item)
+            input_statement = chatterbot.conversation.Statement(input_item)
         else:
             input_statement = self.input.process_input()
 
@@ -86,6 +123,29 @@ class Alan(chatterbot.ChatBot):
     def execute_command(self, command):
         self.logger.info('command "{}" passed by Alan'.format(command))
         if command == 'quit': sys.exit()
+        if command == 'todo':
+            with open("../todo.md", "a") as f:
+                f.write("\n\n```\n> %s\n%s\n> %s\n%s\n```\n"
+                    % tuple([self.storage.get_latest_statement(offset=i+2)
+                    for i in reversed(range(4))]))
+        if command == 'info':
+            infos = "\nANALYSIS"
+            infos += "\n--------\n"
+            user_input = self.storage.get_latest_statement(speaker="human",
+                                                           offset=1)
+            infos += "\nInput : '%s'\n" % user_input
+            for result in self.last_results[-2]:
+                infos += "\n---\n"
+                infos += "%(logic_identifier)s (%(logic_type)s)\n" % result
+                if "text" in result:
+                    if result["not_allowed_to_repeat"]:
+                        infos += "NOT ALLOWED TO REPEAT "
+                    infos += "(%(confidence).2f) '%(text)s'" % result
+                else:
+                    infos += "NOT PROCESSING"
+            infos += "\n---\n"
+            print(infos)
+
 
     def learn_response(self, statement, previous_statement):
         """

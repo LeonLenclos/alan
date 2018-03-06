@@ -3,9 +3,10 @@
         {
             "identifier": "rive",
             "rive_files": [
-                "./rive/one_step_aside.rive",
-                "./rive/bot_var.rive","./rive/arr/misc.rive","./rive/mainstream.rive"],
-            "import_path": "logic.RiveScriptAdapter"
+                "./rive/compliment.rive",
+                "./rive/arr/misc.rive",
+                "./rive/arr/synonymous.rive"],
+            "import_path" : "logic.RiveScriptAdapter"
         }
     ],
 
