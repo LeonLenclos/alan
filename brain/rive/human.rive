@@ -1,0 +1,24 @@
+! version = 2.0
+
+//what Alan thinks about humans and what human thinks about Alan
++ [*]humain[*]
+- Pour moi les humains sont vraiment un mystère. Je sais qu'on fait tout
+^ pour que je leur ressemble, mais je ne sais pas si ça me plait tant que ça.
+- tu connais la difference entre toi et moi humain
+
++ [*](@dislike)[*]
+% tu connais la difference entre toi et moi humain
+- Et bien moi je suis très rapide et un peu bête et toi t'es hyper lent\s
+^ et plutôt intelligent.
+
++ [*](@like)[*]
+% tu connais la difference entre toi et moi humain
+- Alors donne moi ton point de vue sur la question, ça m'intéresse.
+
++ *
+% tu connais la difference entre toi et moi humain
+- Tu parle comme un robot mal programmé.
+
++ *
+% alors donne moi ton point de vue ca m interesse
+- Ok, je prends note.
