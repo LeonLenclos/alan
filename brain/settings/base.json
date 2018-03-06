@@ -68,6 +68,15 @@
 
         },
         {
+            "identifier": "really_do_not_know",
+            "skill_description": ["Je n'avais vraiment rien d'autre à dire."],
+            "rive_files": ["./rive/really_do_not_know.rive"],
+            "max_confidence": 0.15,
+            "allowed_to_repeat": true,
+            "import_path": "logic.RiveScriptAdapter"
+
+        },
+        {
             "identifier": "thinking_about",
             "skill_description": ["Je voulais parler de mes pensées et écouter les tiennes..."],
             "rive_files": [
