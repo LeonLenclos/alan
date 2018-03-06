@@ -23,7 +23,7 @@ class Alan(chatterbot.ChatBot):
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
 
-    def __init__(self, settings_file="base.json"):
+    def __init__(self, settings_file="settings/base.json"):
         """
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
