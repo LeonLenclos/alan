@@ -98,7 +98,7 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         self._session_finish(session)
         return record_id
 
-    def store_concept_association(self, concept_A, relation, concept_B):
+    def store_concept_association(self, concept_A, relation, concept_B, negative=False):
         """
         Add concepts and relation to the association table
         Also store concept if needed
@@ -110,15 +110,14 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         concept_A_id = self.store_concept(str.strip(concept_A))
         concept_B_id = self.store_concept(str.strip(concept_B))
 
-        query = session.query(ConceptAssociation).filter_by(
-            concept_A_id=concept_A_id,
-            relation=relation,
-            concept_B_id=concept_B_id)
+        association = dict(concept_A_id=concept_A_id,
+                           relation=relation,
+                           negative=negative,
+                           concept_B_id=concept_B_id)
+
+        query = session.query(ConceptAssociation).filter_by(**association)
         if not query.first():
-            record = ConceptAssociation(
-                concept_A_id=concept_A_id,
-                relation=relation,
-                concept_B_id=concept_B_id)
+            record = ConceptAssociation(**association)
             session.add(record)
 
         self._session_finish(session)
@@ -173,12 +172,13 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         """
         statement = self.get_latest_statement(**kwargs)
 
-        if extra_data:
-            return statement.extra_data[extra_data]
+        if statement:
+            if extra_data:
+                return statement.extra_data[extra_data]
+            return statement.extra_data
 
-        return statement.extra_data
 
-    def get_related_concept(self, concept, relation, reverse=False):
+    def get_related_concept(self, concept, relation, reverse=False, negative=False):
         """Return a Concept that have a relation with another concept
         Return None if nothing is found
         """
@@ -189,9 +189,13 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         query = session.query(ConceptAssociation)
 
         if reverse:
-            query = query.filter_by(concept_B_id=concept_in_id, relation=relation)
+            query = query.filter_by(concept_B_id=concept_in_id,
+                                    relation=relation,
+                                    negative=negative)
         else:
-            query = query.filter_by(concept_A_id=concept_in_id, relation=relation)
+            query = query.filter_by(concept_A_id=concept_in_id,
+                                    relation=relation,
+                                    negative=negative)
 
         association = query.first()
 
@@ -211,6 +215,31 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         session.close()
         return None
 
+    def is_related_concept(self, concept_A, rel, concept_B):
+        """Take two concept and a relation
+        Return True is the relation is in the database
+        Return False if it is in the db but reversed
+        Return None if it is not in the db"""
+
+        session = self.Session()
+
+        concept_A_id = self.store_concept(concept_A)
+        concept_B_id = self.store_concept(concept_B)
+
+        query = session.query(ConceptAssociation)
+        query = query.filter_by(concept_A_id=concept_A_id,
+                                relation=rel,
+                                concept_B_id=concept_B_id)
+
+        association = query.first()
+        if association:
+            session.flush()
+            negative = association.negative
+            session.close()
+            return not negative
+
+        session.close()
+        return None
 
     def get_latest_response(self, conversation_id):
         """

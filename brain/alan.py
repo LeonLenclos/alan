@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: Latin-1 -*-
+# -*- coding: utf-8 -*-
 import argparse
 import json
 import re
@@ -10,7 +10,7 @@ import datetime
 import chatterbot
 
 from logic import MainLogicAdapter
-from test.simple_talk import test
+from test.test_storage import test
 
 class Alan(chatterbot.ChatBot):
     """
@@ -57,6 +57,7 @@ class Alan(chatterbot.ChatBot):
 
         # Alan system attributes
         self.last_results=[]
+        self.user_name = None
 
         # init chatterbot
         super().__init__(self.name, **settings)
