@@ -13,7 +13,10 @@ Les consignes d'écritures pour le développement d'Alan sont dans le `brain/REA
 
 ## Comment parler avec Alan
 
+**Version de python requise : Python 3.5**
+
 Le projet en est encore au début du développement. Néamoins, le Alan contenu dans la branche `master` doit normalement pouvoir tourner. En attendant de pouvoir parler avec Alan sur internet vous pouvez suivre les indications suivantes pour installer alan sur votre ordinateur !
+
 
  ```
   $ pip install -r requirements.txt
@@ -24,10 +27,22 @@ Le projet en est encore au début du développement. Néamoins, le Alan contenu 
   $ cd brain
   $ ./alan.py
   ```
-### mode verbeux
 
-Pour lancer alan en mode verbeux
+### commandes spéciales
+
+Pour quitter
 
 ```
- $ ./alan.py -v
+ > ciao
+```
+
+Pour une annalyse des logic adapters en jeu dans la dernière réponse
+
+```
+ > info
+```
+Pour noter les deux dernières répliques dans la liste todo.md
+
+```
+ > todo
 ```
