@@ -172,10 +172,11 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         """
         statement = self.get_latest_statement(**kwargs)
 
-        if extra_data:
-            return statement.extra_data[extra_data]
+        if statement:
+            if extra_data:
+                return statement.extra_data[extra_data]
+            return statement.extra_data
 
-        return statement.extra_data
 
     def get_related_concept(self, concept, relation, reverse=False, negative=False):
         """Return a Concept that have a relation with another concept
