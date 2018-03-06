@@ -27,7 +27,7 @@ def test(alan):
         negative=False))
 
     print("is related truc et chose : %s"
-        % alan.storage.is_related_concept("un truc", "est", "une chose"))
+        % alan.storage.is_related_concept("une chaise", "est", "un aliment"))
 
 
     talk = [

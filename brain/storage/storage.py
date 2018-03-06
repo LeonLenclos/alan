@@ -233,9 +233,9 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         association = query.first()
         if association:
             session.flush()
-            reverse = association.reverse
+            negative = association.negative
             session.close()
-            return reverse
+            return not negative
 
         session.close()
         return None
