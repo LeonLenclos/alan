@@ -2,13 +2,13 @@
 
 ! array intelligent_synonymous = intelligent brillant capable clairvoyant
 ^ competent doue entendu experimente fort genial habile perspicace sagace
-^ astucieux eveille pertinent petillant profond malin
+^ astucieux eveille pertinent petillant profond malin top
 
 ! array funny_synonymous = drole amusant cocasse comique desopilant facetieux
-^ hilarant impayable inenarrable plaisant rigolo risible spirituel
+^ hilarant impayable inenarrable plaisant rigolo risible spirituel fun
 
 ! array strange_synonymous = bizarre curieux etonnant etrange farfelu insolite
-^ singulier surprenant
+^ singulier surprenant chelou louche
 
 ! array stupid_synonymous = bete borne bouche cretin idiot imbecile
 ^ inintelligent obtus sot stupide abruti niais vide andouille ballot
