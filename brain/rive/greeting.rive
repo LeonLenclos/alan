@@ -1,13 +1,10 @@
+! version = 2.0
+
 // This rive file is for the begin of a conversation.
 // excepted script is :
 // new user -> confirm hello -> asked name -> confirm name
 // feelings -> end
 // but there can be detours by confirm_hello and confirm_name
-
-! version = 2.0
-
-
-
 
 // We ask for his name.
 + [*](@hello)[*]

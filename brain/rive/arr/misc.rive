@@ -43,7 +43,7 @@
 
 //array for weather
 ! array meteo = pluie soleil neige meteo froid chaleur
-^ beau temps|mauvais temps|temps qu il fait|
+^ beau temps|mauvais temps|temps qu il fait
 
 //bug
 ! array bug = tu bloques|tu debloques|tu deconnes|tu dis n importe quoi
