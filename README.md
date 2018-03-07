@@ -47,7 +47,11 @@ Pour noter les deux dernières répliques dans la liste todo.md
  > todo
 ```
 
-### commandes spéciales
+### Synthèse vocale
+
+Un rapide howto pour installer espeak, mbrola et une voix française (mbrola fr-1). Commandes effectuées sur Debian, devra surement être adapté pour d'autres OS.
+
+Le Output Adapter qui appel espeak n'est pas sur la branche master mais sur la branche feature-tts.
 
 Installer le loggiciel de synthèse. ([source](http://espeak.sourceforge.net/mbrola.html))
 
