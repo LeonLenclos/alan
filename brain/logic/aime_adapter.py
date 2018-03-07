@@ -77,16 +77,20 @@ class AimeAdapter(AlanLogicAdapter):
         # e.g we change "tu" by "je"
         concept_A = utils.magic_sub(concept_A)
         concept_B = utils.magic_sub(concept_B)
+        concept_C = self.chatbot.storage.get_related_concept(concept_B,
+                                            self.relation, reverse=True)
+        print(concept_A+"1")
+        print(concept_B +"1")
 
         # If concept_A is related by the relation to concept_B
-        if (utils.is_related_concept(concept_A, self.relation,concept_B)
+        if (self.chatbot.storage.is_related_concept(concept_A, self.relation,concept_B)
                                                             is not None) :
             concept_A = concept_A.capitalize()
-            if utils.is_related_concept(concept_A, self.relation,concept_B):
+            if self.chatbot.storage.is_related_concept(concept_A, self.relation,concept_B):
                 response = "%(A)s %(rel)s %(B)s."
             else:
                 response = "%(A)s n'%(rel)s pas %(B)s."
-        elif concept_A == Alan:
+        elif concept_A == "Alan":
             if random()<0.5:
                 self.chatbot.storage.store_concept_association(concept_A,
                                                             "aime", concept_B)
@@ -97,12 +101,15 @@ class AimeAdapter(AlanLogicAdapter):
                 response="Pour être franc %(A)s n'%(rel)s pas %(B)s. Et toi?"
         else:
             # If some C is related to B by the relation
-            if self.chatbot.storage.get_related_concept(concept_B,self.relation,
-                                                                reverse=True) :
-                concept_C = self.chatbot.storage.get_related_concept(concept_B,
-                                                    self.relation, reverse=True)
+            if self.chatbot.storage.is_related_concept(concept_C,
+             self.relation, concept_B) :
+
                 response = " Je sais que %(C)s %(rel)s %(B)s, mais je ne sais\
                  pas si %(A)s (rel)s %(B)s, tu crois que c'est le cas?"
+            elif self.chatbot.storage.is_related_concept(concept_C,
+                  self.relation, concept_B) is False :
+                  response = " Je sais que %(C)s n'%(rel)s pas %(B)s, mais je\
+                   ne sais pas si %(A)s (rel)s %(B)s, tu crois que c'est le cas?"
             else:
                 response = " Et bien écoute je ne sais\
                  pas si %(A)s (rel)s %(B)s, tu crois que c'est le cas?"
