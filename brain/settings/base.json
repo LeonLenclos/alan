@@ -259,6 +259,13 @@
             ],
             "import_path": "logic.EsakoAdapter"
 
+        },
+        {
+             "identifier": "aime",
+             "allowed_to_repeat": true,
+             "skill_description": ["J'aime parler de ce qu'aiment les uns et les autres."],
+             "import_path": "logic.AimeAdapter",
+             "relation": "aime"
         }
     ],
 
