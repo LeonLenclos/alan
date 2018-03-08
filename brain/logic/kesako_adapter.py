@@ -67,6 +67,7 @@ class KesakoAdapter(AlanLogicAdapter):
         # quoi..." questions)
         concept_A = re.sub(".*[ ']"+self.relation+" (qu['e] )*(quoi)*","",
                                                             statement.text)
+        print(concept_A)
         # Remove the punctuation from concept_A except apostrophe "'"
         concept_A=utils.remove_punctuation(concept_A, False)
 
