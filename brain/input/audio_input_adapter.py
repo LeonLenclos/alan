@@ -7,9 +7,11 @@ from sys import byteorder
 from array import array
 from struct import pack
 
-from subprocess import call
+from subprocess import run
 import pyaudio
 import wave
+
+import os
 
 from chatterbot.adapters import Adapter
 
@@ -28,8 +30,14 @@ class AudioInputAdapter(Adapter):
         Returns a statement object based on the input source.
         """
         self.record_to_file('tmp.wav')
+        cmd = ['curl',
+                '-X POST http://localhost:3000/api/transcript/modelV1',
+                '-H "Content-type:audio/wave"',
+                '--data-binary "@tmp.wav"'
+                ]
+
         cmd = 'curl -X POST http://localhost:3000/api/transcript/modelV1 -H "Content-type:audio/wave" --data-binary "@tmp.wav"'
-        return call(cmd)
+        return os.system(cmd)
 
 
     def process_input_statement(self, *args, **kwargs):
