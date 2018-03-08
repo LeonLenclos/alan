@@ -3,6 +3,7 @@ import alan
 rel = [
     ("une chaise", "est", "un objet"),
     ("Alan", "est", "un robot"),
+<<<<<<< HEAD
     ("Alan", "est", "ton ami"),
     ("l'intelligence artificielle", "est", "un domaine fascinants"),
     ("un humain", "est", "un sac de viande inutile"),
@@ -42,14 +43,20 @@ rel = [
 
 
 
+=======
+    ("Alan", "est", "super"),
+>>>>>>> 240ca8a1b1840250bc43e292b1ea78b6e17bc208
     ("Alan", "aime", "les fraises"),
 ]
 
 neg_rel = [
     ("une chaise", "est", "un aliment"),
     ("Alan", "est", "méchant"),
+<<<<<<< HEAD
     ("Siri", "est", "mon amie"),
 
+=======
+>>>>>>> 240ca8a1b1840250bc43e292b1ea78b6e17bc208
 ]
 alan = alan.Alan()
 for r in rel:
