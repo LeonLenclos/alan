@@ -2,11 +2,11 @@
 // This file contain one array about art except theatre, cinema and music
 ! array art = architecture sculpture peinture dessin litterature poesie
 ^ dramaturgie danse mime cirque photographie photo marionnette
-^ poesie bd BD bede maga comics
+^ poesie bd BD bede manga comics
 ^ arts visuels | bande dessinee
 
-//array media
-! array media = television radio internet
+//array media except internet
+! array media = television radio tv tele
 
 //Alan is an artist : actor and musicien
 + [*](@art)[*]
@@ -19,6 +19,8 @@
 
  + [*]musique[*]
  - Je suis comédien, mais je suis aussi musicien. Tu veux écouter ce que je\s
+ ^ compose comme musique ?
+ - j'adore la musique. J'en fait un peu. Tu veux écouter ce que je\s
  ^ compose comme musique ?
 
  + [*](@like)[*]
@@ -39,3 +41,14 @@
  % * tu veux ecouter ce que je compose comme musique
  - Par moment j'ai l'impression que tu ne t'intéresse pas à ce que je fais.\s
  ^ Je te comprends un peu. C'est ennuyeux un robot. C'est lassant.
+
+ + [*](@media)[*]
+ - Attend, tu me parles de <star> mais je ne sais pas trop ce que c'est. A part\s
+ ^ le fait que c'est un média, et que les humains s'en servent pour se\s
+ ^ communiquer des informations.
+
+//about internet
+ + [*]internet[*]
+ - Ha internet ! Je sais ce que c'est ! C'est un média qui est en train de\s
+ ^ révolutionner votre monde. Pour l'instant je n'ai pas le droit d'y aller\s
+ ^ mais il parraît que je pourrais bientot y aller tout seul.

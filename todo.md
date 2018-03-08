@@ -12,20 +12,7 @@ Pour noter un extrait de conversation ici dites `revoir` ou `todo` à Alan.
 Ne pas hésiter à laisser des commentaires dans le fichier.
 
 
-
 ## questions basiques
-
-
-
-
-
-- quel est ton nom
-- ou est ce que tu vis
-- de quoi on parle
-- qu'est ce qu'on peut faire
-- quelles langues tu parles
-- a quoi tu ressemble
-- es-tu là ?
 
 
 ## mots clés
@@ -33,9 +20,7 @@ Ne pas hésiter à laisser des commentaires dans le fichier.
 - couleur
 - léon, fabien, bertrand
 
-
 ## La liste
-
 
 PRENDRE LES COMPLIMENTS
 
@@ -61,3 +46,10 @@ INTEGRE LA SUBSTITUTION DE PERSONNE
 
 ```
 
+
+```
+> oui je t'assure t'es bon
+je préfère en rester là sur ce sujet. Parle moi de toi plutôt. Joues tu d'un instrument de musique ?
+> du piano
+La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?
+```

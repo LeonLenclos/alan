@@ -1,7 +1,11 @@
 ! version = 2.0
 
++ merde
+- tu veux dire zut ?
+
 + (@outrages)
-- écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi s'il te plait. {topic=sorry}
+- écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi\s
+^ s'il te plait. {topic=sorry}
 - <star> toi même. C'est quoi ce language ? {topic=sorry}
 - Je rêve ou quoi ? Comment il me parle cet humain. {topic=sorry}
 
@@ -11,8 +15,9 @@
 > topic sorry
 
   // This will match if the word "excuse" exists ANYWHERE in their message
-  + [*] (excuses|excuse|pardon|deso|desole|regrette|sorry|pardonne) [*]
-  - OK passons à autre chose. Raconte moi plutôt une bonne blague pour détendre l'atmosphère
+  + [*]@sorry[*]
+  - OK passons à autre chose. Raconte moi plutôt une bonne blague pour\s
+  ^ détendre l'atmosphère
   - J'accepte tes excuses !{topic=end}
   - C'est pas grave. Je ne t'en veux pas.{topic=end}
 

@@ -34,6 +34,8 @@
 ^ o k|ok|okay|parfait|parfaitement|tres bien|beaucoup|considerablement
 ^ énormément|excessivement|extrêmement|genial|super|avec plaisir|top
 
+
+
 //no
 ! array dislike =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri|niet
 
@@ -58,3 +60,7 @@
 ! array bad = veux du mal|retourner contre nous|aneantir les humains
 ^ tuer les humains|aneantir tout les humains|detruire l humanite|veulent du mal
 ^ ture tous les humains
+
+! array sorry = excuses|excuse|pardon|deso|desole|regrette|sorry|pardonne
+
+//music instrument
