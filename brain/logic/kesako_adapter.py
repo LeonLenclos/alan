@@ -58,6 +58,8 @@ class KesakoAdapter(AlanLogicAdapter):
         # contain the relation
         return (self.relation in statement.text)
 
+
+
     def process(self, statement):
         # Concept_A is the string following the last relation occurence
         # Here, we also remove the words "que" and "qu'"because of "qu'est ce que
@@ -74,6 +76,9 @@ class KesakoAdapter(AlanLogicAdapter):
         concept_A=concept_A.strip()
         # Get the interrogative part of the question that is before the concept_A
         question = statement.text.split(concept_A)[0]
+        # Here we operate a magic substitution in order to change who is talking
+        # e.g we change "ma" by "ta"
+        concept_A = utils.magic_sub(concept_A)
 
         # Get the distance between input statement and questions list
         confidence = utils.compare(question, self.questions)
