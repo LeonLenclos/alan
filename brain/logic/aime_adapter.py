@@ -15,9 +15,6 @@ class AimeAdapter(AlanLogicAdapter):
     def __init__(self, **kwargs):
         """Required kwarg :
 
-        questions
-        A list of strings.
-        The question that must be answered with this adapter.
 
         relation
         A list of strings.
@@ -51,7 +48,7 @@ class AimeAdapter(AlanLogicAdapter):
     def process(self, statement):
         relation=self.relation
         if (("aime[s]*-" or "aime[s]*[- ]tu " or "aime[s]*[- ]t[- ]il") in
-                                                            statement.text):
+                                                        statement.text):
             if "aime[s]*[ -]tu " in statement.text :
                 concept_A="tu"
                 concept_B=re.sub(".*aime[- ]tu ","",statement.text)
