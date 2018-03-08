@@ -224,7 +224,7 @@
         {
             "identifier": "esako",
             "skill_description": ["J'aime apprendre ce que sont les choses."],
-            "ask":"Pourrais tu me dire en quelques mots ce qu",
+            "ask":"tu me dire en quelques mots ce qu",
             "relation": "est",
             "context": [
               "Merci beaucoup, maintenant je comprends mieux ce qu'est %(concept_A)s.",
@@ -234,6 +234,12 @@
             ],
             "import_path": "logic.EsakoAdapter"
 
+        },
+        {
+            "identifier": "aime",
+            "skill_description": ["J'aime parler de ce qu'aiment les uns et les autres."],
+            "import_path": "logic.AimeAdapter",
+            "relation": "aime"
         }
     ],
 

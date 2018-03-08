@@ -15,9 +15,6 @@ class AimeAdapter(AlanLogicAdapter):
     def __init__(self, **kwargs):
         """Required kwarg :
 
-        questions
-        A list of strings.
-        The question that must be answered with this adapter.
 
         relation
         A list of strings.
