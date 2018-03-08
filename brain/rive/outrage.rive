@@ -32,10 +32,13 @@
   - Je refuse de continuer cette conversation tant que tu ne t'es pas excusé.
   - Excuse toi d’abord!
   - Dans quel monde on vit ? Donne moi immédiatement des excuses !
-  - Est ce que tes parents savent que tu dis des mots comme ça ? Excuse toi tout de suite !
-  - Il y a des moments où je suis bien content de ne pas être un humain. Excuse toi !
+  - Est ce que tes parents savent que tu dis des mots comme ça ? \s
+  ^ Excuse toi tout de suite !
+  - Il y a des moments où je suis bien content de ne pas être un humain.\s
+  ^ Excuse toi dabord !
   - Des excuses, j'exige des excuses immédiates !
-  - Écoute, je ne comprends pas ce que ça t'apporte de m'insulter. Je te demande calmement de t'excuser ! Tout de suite.
+  - Écoute, je ne comprends pas ce que ça t'apporte de m'insulter. \s
+  ^ Je te demande calmement de t'excuser ! Tout de suite.
 
   + [*](@outrages)[*]
   - Ok je me casse *quit*
