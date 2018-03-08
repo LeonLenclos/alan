@@ -27,6 +27,7 @@
            "rive_files": [
                 "./rive/catch_all_response.rive",
                 "./rive/sub/substitutions.rive",
+                "./rive/arr/art_array.rive",
                 "./rive/arr/misc.rive"],
            "max_confidence": 0.5,
            "import_path": "logic.RiveScriptAdapter"
@@ -103,6 +104,15 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "language",
+           "skill_description": ["Parce que les gens m'intéressent"],
+           "rive_files": [
+               "./rive/sub/substitutions.rive",
+               "./rive/language.rive"],
+           "max_confidence": 1,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "mainstream",
            "skill_description": ["parce que c'est vrai"],
            "rive_files": [
@@ -129,7 +139,8 @@
            "rive_files": [
                "./rive/outrage.rive",
                "./rive/sub/substitutions.rive",
-               "./rive/arr/outrages.rive"],
+               "./rive/arr/outrages.rive",
+               "./rive/arr/misc.rive"],
            "max_confidence": 1,
            "import_path": "logic.RiveScriptAdapter"
        },
