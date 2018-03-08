@@ -26,6 +26,10 @@ class AlanLogicAdapter(LogicAdapter):
         coefficient_method
         A string. Default is None.
         The name of the method that will be called each time alan is speaking
+
+        allowed_to_repeat
+        A boolean. Default is False.
+        Is the logic adapter allowed to repeat himself during a conversation
         """
         super().__init__(**kwargs)
 
@@ -60,6 +64,12 @@ class AlanLogicAdapter(LogicAdapter):
             else:
                 raise ValueError("%s is not an AlanLogicAdapter method"
                                 % coefficient_method)
+
+        # getting allowed_to_repeat
+        self.allowed_to_repeat = kwargs.get('allowed_to_repeat', False)
+        if type(self.allowed_to_repeat) != bool:
+            raise TypeError("identifier must be a bool")
+
 
     def get_confidence_coefficient(self):
         """getter for confidence_coefficient"""

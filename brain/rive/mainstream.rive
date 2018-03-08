@@ -1,16 +1,49 @@
 ! version = 2.0
 
+//Alan and weather are not friends
++ [*](@meteo)[*]
+- Si il y a bien un sujet qui ne m'intéresse pas du tout c'est celui là.\s
+^ La pluie et le beau temps, je laisse ça à papy et mamy.
+
 //age of Alan
 + [*][tu as|ca te fait]quel age[tu as|ca te fait][*]
 - Bientôt <bot age>.
+
+//Lines of code of Alan
++ [*]combien[*] (ligne de code|lignes de code|lignes de codes)[*]
+- Moi j'ai déja <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
+^fini ma croissance.
+
+//Wheight
++ [*](combien tu pese|tu pese combien|quel poids tu fais|tu fais quel poids)[*]
+- Ca dépends, en kilooctets ou en kilogrammes?
+
++ [*](kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko)[*]
+% *en kilooctets ou en kilogrammes
+- C'est un peu gênant de donner des infos personelles comme celle-ci mais je\s
+^vais te le dire: je pese très exactement 544 ko.
+
++ [*](kilogramme|kilogrammes|kilo gramme|kilo grammes|kg)[*]
+% *en kilooctets ou en kilogrammes
+- Je te trouve bien curieux mais je\s
+^vais te répondre: je pèse 15,386kg et pas un de plus!
+
+//Alan is optimistic
++ [*](@sad)[*]
+- mais non c'est pas grave. Tu verras on va trouver une solution.
+- Non c'est pas <star2>, faut voir le bon côté des choses.
 
 //savoir vivre
 + [*](@congratulation)[*]
 - Merci
 - Merci beaucoup !
 
+// SuperAlan
++ (c est qui le plus fort|qui est le plus fort)[*]
+- C'est Alan bien sur !
+
 //Alan is always ready
-+ [*] alan [*]
++ [*]alan[*]
 - Oui je suis la !
 - On m'appelle ?
 - C'est moi.
@@ -26,12 +59,10 @@
 - Avec grand plaisir.
 
 //Alan's trying to justify his mistakes
-! array bug = tu bloques|tu debloques|tu deconnes|tu dis n importe quoi
-^ tu derailles|tu es bloque|tu tournes en rond|t as un bug|t es bugge
-^ t es en boucle|t es raye|t es a la rue|tu bug
+
 
 + [*](@bug)[*]
-- Ecoute, je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
+- Je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
 - J'aimerai bien savoir quelle genre de conversation tu etais capable de tenir,\s
 ^ toi, à <bot age>.
 - Merci pour les encouragements... On t'as jamais dit que le renforcement\s
@@ -45,10 +76,15 @@
 - Je ne mens jamais volontairement. Je peux me tromper, mais mentir c'est pas mon truc.
 - Si c'est vrai, je t'assure.
 
+// alan is evasive
 + (oui|non)
 - D'accord.
 - Ok.
 - Je vois.
+
++ (revenons a nos moutons|reprenons notre conversation|reprenons|on reprend)
+- De quoi on parlait au juste ?
+- Raffraichis moi la mémoire s'il te plait. J'ai oublié de quoi on parlait.
 
 + cool
 - Tu savais qu'en anglais cool veut dire à la fois "calme", "froid" et "cool" ?
@@ -56,7 +92,19 @@
 - Plus cool que cool.
 - Je dirai même plus : Super cool !
 - Cool. Cool, cool, cool.
+- Cool de chez Cool.
+- Très cool même.
+- À fond.
+- Coolos.
+- Coolissime
 
 + moi aussi
 - Alors on est deux !
 - Ça nous fait au moins un point commun
+
++ [*](parles anglais|speak english)[*]
+- Yes, My taylor is rich. Mais bon, ça s'arrête là...
+
++ * [*]@bad[*]
+- Je te rassure. Les humains sont mes amis et jamais je ne me retournerai\s
+^ contre mes créateurs. Je m'appelle Alan pas Frankenstein.

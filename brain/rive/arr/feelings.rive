@@ -19,8 +19,7 @@
 ^ impeccablement|inconcevable|incroyable|inimaginable|inoui
 ^ insense|la forme|la patate|la peche|magique|merveilleux
 ^ nickel|oui|pas mal|parfaitement|pechu|phenomenal|prodigieux|sensas
-^ sensationnel|stupefiant|super|surnaturel|top|tranquille
-
+^ sensationnel|stupefiant|super|surnaturel|top|tranquille|impec
 
 // with accent
 
@@ -36,3 +35,6 @@
 ^ insensé|la forme|la patate|la pêche|magique|merveilleux
 ^ nickel|oui|parfaitement|péchu|phénomenal|prodigieux|sensas
 ^ sensationnel|stupéfiant|super|surnaturel|terrible|top|tranquille
+
+! array sad = triste|dommage|pas cool|chagrine|deçu|desappointe|désenchante
+^ malheureux|pas gai

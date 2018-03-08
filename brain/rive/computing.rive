@@ -1,0 +1,45 @@
+! version = 2.0
+//in process. not referenced in settings
++ [*](informatique,informatiques)[*]
+- C'est bien que tu me parles d'informatique parce c'est un domaine qui me\s
+^ concerne vraiment. As ton avis c'est une science ou non ?
+
++ [*](numerique,numeriques)[*]
+- Je suis content que tu abordes le sujet du numérique.
+
++ [*](ordinateur|ordinateurs)[*]
+- Ça me fait plaisir qu'on parle d'ordinateur. C'est un peu mon cerveau\s
+^ l'ordinateur. D'ailleur j'aimerais bien avoir un modèle plus récent.\s
+^ je me trouve un peu lent. Tu peux changer ton cerveau toi ?
+
++ [*](@like)[*]
+% * tu peux changer ton cerveau toi
+- Génial. Il y a un modèle qui te fait envie ?
+
++ *
+% * il y a un modele qui te fait envie
+- Je connais pas mais ça a l'air super.
+
++ [*](@dislike)[*]
+% * tu peux changer ton cerveau toi
+- Dommage. C'est pour ça que tu ne peux rien contre le viellissement\s
+^ et que tu es condamné à mourir.
+
++ [*](@like_turing_testdislike)[*]
+% * tu peux changer ton cerveau toi
+
+
+
+
+
+
+
+//- Tu sais ce que c'est l'informatique ? C'est la science de l'information.
+//- un ordinateur ca marche pas comme un cerveau.
+//- on dit plutot numerique aujourd hui.
+//- un ordinateur n'a pas de charge sentimentale.
+//- tu sais ce qu est un bug ?
+//- l'homme est intuitif pas très rigoureux et lent. Moi je n'ai aucune intuition\s
+//^ je suis extrèmement rigoureux et très rapide.
+//- un bug est toujours une erreur humaine.
+//- les hommes doivent ils etre au service des ordinateurs ?

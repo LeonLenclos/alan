@@ -1,29 +1,194 @@
 {
     "logic_adapters": [
-        {
-            "identifier": "repete",
-            "questions": ["Qu'est ce que tu viens de dire ?", "T'as dit quoi ?"],
-            "context": ["J'ai juste dit %(quote)s", "J'ai dit %(quote)s. Pourquoi cette question ?"],
-            "skill_description": ["J'assume tout ce que j'ai pu dire."],
-            "speaker":"alan",
-            "import_path": "logic.Historic"
+       {
+          "identifier": "are_you_ok",
+          "skill_description": ["parce que tu m'a demandé de te renseigner sur mon état de forme"],
+          "rive_files": [
+               "./rive/are_you_ok.rive",
+               "./rive/arr/synonymous.rive",
+               "./rive/arr/misc.rive"],
+          "max_confidence": 0.5,
+          "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+          "identifier": "art",
+          "skill_description": ["parce que moi aussi j'aimerais être un artiste"],
+          "rive_files": [
+               "./rive/art.rive",
+               "./rive/arr/misc.rive"],
+          "max_confidence": 0.5,
+          "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "catch_all_response",
+           "skill_description": ["pour donner un peu de sens à cette conversation"],
+           "rive_files": [
+                "./rive/catch_all_response.rive",
+                "./rive/arr/misc.rive"],
+           "max_confidence": 0.5,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "catch_all",
+           "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
+           "rive_files": [
+                "./rive/catch_all.rive"],
+           "max_confidence": 0.2,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "commands",
+           "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
+           "max_confidence": 1,
+           "rive_files": [
+                "./rive/commands.rive"],
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "compliment_response",
+           "skill_description": ["Parce qu'un compliment fait toujours plaisir."],
+           "rive_files": [
+               "./rive/arr/synonymous.rive",
+               "./rive/compliment_response.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 0.6,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "compliment",
+           "skill_description": ["Parce qu'un compliment fait toujours plaisir."],
+           "rive_files": [
+               "./rive/arr/synonymous.rive",
+               "./rive/compliment.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 0.5,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "greeting",
+           "skill_description": ["Parce que toute conversation commence par un échange de politesse","Parce qu'il faut apprendre à se connaître avant toute chose"],
+           "rive_files": [
+               "./rive/greeting.rive",
+               "./rive/arr/misc.rive",
+               "./rive/arr/feelings.rive"],
+           "import_path": "logic.RiveScriptAdapter",
+           "max_confidence": 1
+       },
+       {
+           "identifier": "human",
+           "skill_description": ["Parce que c'est ce que je pense des humains."],
+           "rive_files": [
+               "./rive/arr/synonymous.rive",
+               "./rive/human.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 0.5,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "introduce_a_friend",
+           "skill_description": ["Parce que les gens m'intéressent"],
+           "rive_files": [
+               "./rive/introduce_a_friend.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 1,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "mainstream",
+           "skill_description": ["parce que c'est vrai"],
+           "rive_files": [
+               "./rive/mainstream.rive",
+               "./rive/arr/feelings.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 0.4,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "one_step_aside",
+           "skill_description": ["j'ai dis ça comme ça"],
+           "rive_files": [
+               "./rive/one_step_aside.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 0.35,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "outrage",
+           "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
+           "rive_files": [
+               "./rive/outrage.rive",
+               "./rive/arr/outrages.rive"],
+           "max_confidence": 1,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "reproach",
+           "skill_description": ["Parce qu'un reproche ne fait jamais plaisir."],
+           "rive_files": [
+               "./rive/arr/synonymous.rive",
+               "./rive/reproach.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 0.5,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "really_do_not_know",
+           "allowed_to_repeat": true,
+           "skill_description": ["hummm"],
+           "rive_files": [
+               "./rive/really_do_not_know.rive"],
+           "max_confidence": 0.19,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "robot",
+           "skill_description": ["parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
+           "rive_files": [
+               "./rive/robot.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 0.5,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "thinking_about",
+           "skill_description": ["Je voulais parler de mes pensées et écouter les tiennes..."],
+           "rive_files": [
+               "./rive/thinking_about.rive",
+               "./rive/sub/person.rive",
+               "./rive/arr/misc.rive"],
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "turing_test",
+           "skill_description": ["J'aime bien parler du spectacle."],
+           "rive_files": [
+               "./rive/turing_test.rive",
+               "./rive/arr/misc.rive"],
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "repete",
+           "questions": ["Qu'est ce que tu viens de dire ?", "T'as dit quoi ?"],
+           "context": ["J'ai juste dit %(quote)s", "J'ai dit %(quote)s. Pourquoi cette question ?"],
+           "skill_description": ["J'assume tout ce que j'ai pu dire."],
+           "speaker":"alan",
+           "import_path": "logic.Historic"
         },
         {
-          "identifier": "jai-dit-quoi",
-          "questions": ["Qu'est ce que je viens de dire ?", "J'ai dit quoi ?", "Qu'est ce que tu as compris de ma phrase ?", "tu peux répeter ce que je viens de dire ?"],
-          "context": ["%(quote)s", "Tu as dit %(quote)s."],
-          "skill_description": ["J'ai une bonne mémoire je me souviens de tout ce qu'on m'a dit."],
-          "speaker":"human",
-          "import_path": "logic.Historic"
+           "identifier": "jai-dit-quoi",
+           "questions": ["Qu'est ce que je viens de dire ?", "J'ai dit quoi ?", "Qu'est ce que tu as compris de ma phrase ?", "tu peux répeter ce que je viens de dire ?"],
+           "context": ["%(quote)s", "Tu as dit %(quote)s."],
+           "skill_description": ["J'ai une bonne mémoire je me souviens de tout ce qu'on m'a dit."],
+           "speaker":"human",
+           "import_path": "logic.Historic"
         },
         {
-            "identifier": "einstein",
-            "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
-            "max_confidence": 0.4,
-            "import_path": "logic.RelevantQuotation",
-            "quotations_file": "./txt/einstein.txt",
-            "context": [
-                "À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
+           "identifier": "einstein",
+           "skill_description": ["Je connais pas mal de citations d'Einstein et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
+           "max_confidence": 0.4,
+           "import_path": "logic.RelevantQuotation",
+           "quotations_file": "./txt/einstein.txt",
+           "context": ["À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
                 "Einstein a dis une belle chose à ce sujet : %(quote)s."
             ],
             "coefficient_method":"sawtooth"
@@ -43,119 +208,6 @@
             ]
         },
         {
-            "identifier": "outrage",
-            "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
-            "rive_files": [
-                "./rive/bot_var.rive",
-                "./rive/outrage.rive",
-                "./rive/arr/outrages.rive"],
-            "max_confidence": 1,
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "catch_all",
-            "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
-            "rive_files": ["./rive/catch_all.rive"],
-            "max_confidence": 0.2,
-            "import_path": "logic.RiveScriptAdapter"
-
-        },
-        {
-            "identifier": "thinking_about",
-            "skill_description": ["Je voulais parler de mes pensées et écouter les tiennes..."],
-            "rive_files": [
-                "./rive/thinking_about.rive",
-                "./rive/sub/person.rive",
-                "./rive/arr/misc.rive"],
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "commands",
-            "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
-            "max_confidence": 1,
-            "rive_files": ["./rive/commands.rive"],
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "turing_test",
-            "skill_description": ["J'aime bien parler du spectacle."],
-            "rive_files": [
-                "./rive/turing_test.rive",
-                "./rive/bot_var.rive",
-                "./rive/arr/misc.rive"],
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "greeting",
-            "skill_description": [
-                "Parce que toute conversation commence par un échange de politesse",
-                "Parce qu'il faut apprendre à se connaître avant toute chose"],
-            "rive_files": [
-                "./rive/bot_var.rive",
-                "./rive/greeting.rive",
-                "./rive/arr/misc.rive",
-                "./rive/arr/feelings.rive"],
-            "import_path": "logic.RiveScriptAdapter",
-            "max_confidence": 1
-        },
-        {
-            "identifier": "one_step_aside",
-            "skill_description": [
-              "j'ai dis ça comme ça"],
-            "rive_files": [
-                "./rive/bot_var.rive",
-                "./rive/one_step_aside.rive",
-                "./rive/arr/misc.rive"],
-            "max_confidence": 0.5,
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "robot",
-            "skill_description": [
-              "parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
-            "rive_files": [
-                "./rive/bot_var.rive",
-                "./rive/robot.rive",
-                "./rive/arr/misc.rive"],
-            "max_confidence": 0.5,
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "compliment",
-            "skill_description": [
-              "Parce qu'un compliment fait toujours plaisir."],
-            "rive_files": [
-                "./rive/bot_var.rive",
-                "./rive/arr/synonymous.rive",
-                "./rive/compliment.rive",
-                "./rive/arr/misc.rive"],
-            "max_confidence": 0.5,
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "reproach",
-            "skill_description": [
-              "Parce qu'un reproche ne fait jamais plaisir."],
-            "rive_files": [
-                "./rive/bot_var.rive",
-                "./rive/arr/synonymous.rive",
-                "./rive/reproach.rive",
-                "./rive/arr/misc.rive"],
-            "max_confidence": 0.5,
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
-            "identifier": "mainstream",
-            "skill_description": [
-              "parce que c'est vrai"],
-            "rive_files": [
-                "./rive/bot_var.rive",
-                "./rive/mainstream.rive",
-                "./rive/arr/misc.rive"],
-            "max_confidence": 0.7,
-            "import_path": "logic.RiveScriptAdapter"
-        },
-        {
             "identifier": "justification",
             "skill_description": ["Je voulais me justifier..."],
             "import_path": "logic.Justification",
@@ -163,7 +215,8 @@
             "default_responses": ["Je dis ce que je veux ! je n'ai pas à me justifier."]
         },
         {
-            "identifier": "Kesako",
+            "identifier": "kesako",
+            "allowed_to_repeat": true,
             "skill_description": ["J'aime savoir ce que sont les choses."],
             "import_path": "logic.KesakoAdapter",
             "questions": [
@@ -174,12 +227,12 @@
               "Sais tu ce qu'est"
             ],
             "relation": "est",
-            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(concept_A)s."
+            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(A)s."
         },
         {
-            "identifier": "Esako",
+            "identifier": "esako",
             "skill_description": ["J'aime apprendre ce que sont les choses."],
-            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(concept_A)s",
+            "ask":"Pourrais tu me dire en quelques mots ce qu",
             "relation": "est",
             "context": [
               "Merci beaucoup, maintenant je comprends mieux ce qu'est %(concept_A)s.",
