@@ -109,7 +109,7 @@
            "rive_files": [
                "./rive/one_step_aside.rive",
                "./rive/arr/misc.rive"],
-           "max_confidence": 0.5,
+           "max_confidence": 0.35,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -123,13 +123,21 @@
        },
        {
            "identifier": "reproach",
-           "skill_description": [
-             "Parce qu'un reproche ne fait jamais plaisir."],
+           "skill_description": ["Parce qu'un reproche ne fait jamais plaisir."],
            "rive_files": [
                "./rive/arr/synonymous.rive",
                "./rive/reproach.rive",
                "./rive/arr/misc.rive"],
            "max_confidence": 0.5,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "really_do_not_know",
+           "allowed_to_repeat": true,
+           "skill_description": ["hummm"],
+           "rive_files": [
+               "./rive/really_do_not_know.rive"],
+           "max_confidence": 0.19,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
