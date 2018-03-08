@@ -9,27 +9,6 @@
 + [*][tu as|ca te fait]quel age[tu as|ca te fait][*]
 - Bientôt <bot age> mois.
 
-//Lines of code of Alan
-+ [*]combien[*] (ligne de code|lignes de code|lignes de codes)[*]
-- Moi j'ai déja <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
-^fini ma croissance.
-
-//Wheight
-+ [*](combien tu pese|tu pese combien|quel poids tu fais|tu fais quel poids)[*]
-- Ca dépends, en kilooctets ou en kilogrammes?
-
-+ [*](kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko)[*]
-% *en kilooctets ou en kilogrammes
-- C'est un peu gênant de donner des infos personelles comme celle-ci mais je\s
-^vais te le dire: je pese très exactement 544 ko.
-
-+ [*](kilogramme|kilogrammes|kilo gramme|kilo grammes|kg)[*]
-% *en kilooctets ou en kilogrammes
-- Je te trouve bien curieux mais je\s
-^vais te répondre: je pèse 15,386kg et pas un de plus!
-
-
-
 //Alan is optimistic
 + [*](@sad)[*]
 - mais non c'est pas grave. Tu verras on va trouver une solution.

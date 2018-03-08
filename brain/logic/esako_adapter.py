@@ -86,9 +86,9 @@ class EsakoAdapter(AlanLogicAdapter):
         concept_B = re.sub(r".*([ ']+est )","", statement.text)
         concept_B = utils.remove_punctuation(str.strip(concept_B))
 
+
         # Store the new "est" relation between concept_B and concept_B
-        self.chatbot.storage.store_concept_association(concept_A,
-                                                    "est", concept_B)
+        self.chatbot.storage.store_concept_association(concept_A, "est", concept_B)
         # choose randomly a context sentence
         context = random.choice(self.context_sentences)
         reply = context % {"concept_A":concept_A}
