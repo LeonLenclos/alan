@@ -212,7 +212,9 @@
             "skill_description": ["J'aime savoir ce que sont les choses."],
             "import_path": "logic.KesakoAdapter",
             "questions": [
+              "Cest quoi",
               "C'est quoi",
+              "C est quoi",
               "Qu'est ce que c'est",
               "Tu sais ce que c'est",
               "Sais tu ce que c'est",
