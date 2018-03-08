@@ -37,9 +37,20 @@ Ne pas hésiter à laisser des commentaires dans le fichier.
 ## La liste
 
 
+PRENDRE LES COMPLIMENTS
 
 
+```
+> tu comprend jamais rien CAR TU ES NUL
+"mieux vaut tard que jamais." Comme on dit !
+> oui tu comprends tard
+J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
+```
 
+```
+> j'adore
+Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
+```
 ```
 
 > c'est quand c'est vraiment tres genial

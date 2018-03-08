@@ -51,11 +51,7 @@
 > topic end
 
   // only way to go back in the script is this sentence
-  + [*](@outrages)[*]
-  - J'aime pas trop quand tu dis <star>. Tu peux arreter s'il te plait ?
-
-  + [*](@outrages)[*]
-  % * tu peux arreter s il te plait
-  - Tu joue avec moi et ça ne m'amuse pas du tout. Ciao. *quit*
+  + (tu es|t es|alan est)[un|une][vraiment|tres|trop|super|gros|vrai](@outrages)
+  - Bon je m'en vais. Ciao *quit*
 
 < topic
