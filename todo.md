@@ -11,21 +11,6 @@ Pour noter un extrait de conversation ici dites `revoir` ou `todo` à Alan.
 
 Ne pas hésiter à laisser des commentaires dans le fichier.
 
-## La liste
-
-
-
-
-
-```
-
-> c'est quand c'est vraiment tres genial
-D'accord, c'est gentil de m'avoir appris ce qu'est top cool.
-> c'est quoi ta couleur preferee
-Ta couleur preferee est la couleur que tu aime le plus.
-INTEGRE LA SUBSTITUTION DE PERSONNE
-
-```
 
 
 ## questions basiques
@@ -47,3 +32,20 @@ INTEGRE LA SUBSTITUTION DE PERSONNE
 
 - couleur
 - léon, fabien, bertrand
+
+
+## La liste
+
+
+
+
+
+```
+
+> c'est quand c'est vraiment tres genial
+D'accord, c'est gentil de m'avoir appris ce qu'est top cool.
+> c'est quoi ta couleur preferee
+Ta couleur preferee est la couleur que tu aime le plus.
+INTEGRE LA SUBSTITUTION DE PERSONNE
+
+```
