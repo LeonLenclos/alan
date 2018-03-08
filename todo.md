@@ -107,12 +107,8 @@ J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
 
 ## questions basiques
 
-- d'ou viens tu
-- qui es tu
-- qui sont tes createurs
-- est tu reel
+
 - quel est ton nom
-- ou est ce que tu vis
 - de quoi on parle
 - qu'est ce qu'on peut faire
 - quelles langues tu parles
