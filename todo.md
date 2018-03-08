@@ -15,10 +15,10 @@ Ne pas hésiter à laisser des commentaires dans le fichier.
 
 ## questions basiques
 
-- d'ou viens tu
-- qui es tu
-- qui sont tes createurs
-- est tu reel
+
+
+
+
 - quel est ton nom
 - ou est ce que tu vis
 - de quoi on parle
@@ -60,3 +60,4 @@ Ta couleur preferee est la couleur que tu aime le plus.
 INTEGRE LA SUBSTITUTION DE PERSONNE
 
 ```
+

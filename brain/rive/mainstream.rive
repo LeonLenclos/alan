@@ -9,10 +9,37 @@
 + [*][tu as|ca te fait]quel age[tu as|ca te fait][*]
 - Bientôt <bot age>.
 
+//where do you come from
+! array where_do_you_come_from = d ou viens tu|ou es ce que tu habites
+^ ou habites tu|tu viens d ou|d ou est ce que tu viens|tu habites ou
+^ ou est ce que tu vis|ou vis tu|tu vis ou|ou t'habite
+
++ [*](@where_do_you_come_from)[*]
+- J'habite dans un ordinateur surboosté. C'est le grand confort.
+- J'habite à Graulhet dans le Tarn, dans les locaux de la cie Nokill.\s
+^ mais on est souvent sur la route...
+
+//who are you
++ qui es tu
+- Je suis un jeune robot. Une machine programmée pour discuter avec toi.
+- je suis une machine faites de métal et de plastique.
+- Je suis une créature artificielle.
+- Je suis un chatbot, un agent conversationnel avec qui tu peux discuter.
+
+//Alan Parents
++ (qui sont tes createurs|qui t as cree|qui t as concu|qui t as invente)
+- Ce sont trois gars vraiment géniaux, bourrés de talent et je tiens à les\s
+^ remercier publiquement car ils ont vraiment réussit leur coup.
+
++ est tu reel
+- Je suis bien réel car tu peux me toucher, me voir, m'entendre. En ce qui\s
+^ concerne le goût et l'odorat, on y travaille avec mes créateurs.
+
+
 //Lines of code of Alan
 + [*]combien[*] (ligne de code|lignes de code|lignes de codes)[*]
 - Moi j'ai déja <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
-^fini ma croissance.
+^ fini ma croissance.
 
 //Wheight
 + [*](combien tu pese|tu pese combien|quel poids tu fais|tu fais quel poids)[*]
@@ -21,12 +48,13 @@
 + [*](kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko)[*]
 % *en kilooctets ou en kilogrammes
 - C'est un peu gênant de donner des infos personelles comme celle-ci mais je\s
-^vais te le dire: je pese très exactement 544 ko.
+^ vais te le dire: je pese très exactement 544 ko.
 
 + [*](kilogramme|kilogrammes|kilo gramme|kilo grammes|kg)[*]
 % *en kilooctets ou en kilogrammes
 - Je te trouve bien curieux mais je\s
-^vais te répondre: je pèse 15,386kg et pas un de plus!
+^ vais te répondre: je pèse 15,386kg et pas un de plus!
+
 
 //Alan is optimistic
 + [*](@sad)[*]
@@ -59,8 +87,6 @@
 - Avec grand plaisir.
 
 //Alan's trying to justify his mistakes
-
-
 + [*](@bug)[*]
 - Je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
 - J'aimerai bien savoir quelle genre de conversation tu etais capable de tenir,\s
@@ -82,10 +108,16 @@
 - Ok.
 - Je vois.
 
+//Alan compliments
++ tu es beau
+- toi aussi
+
+//back to conversation
 + (revenons a nos moutons|reprenons notre conversation|reprenons|on reprend)
 - De quoi on parlait au juste ?
 - Raffraichis moi la mémoire s'il te plait. J'ai oublié de quoi on parlait.
 
+//very cool response
 + cool
 - Tu savais qu'en anglais cool veut dire à la fois "calme", "froid" et "cool" ?
 - Oui c'est super cool !
@@ -98,13 +130,16 @@
 - Coolos.
 - Coolissime
 
+//me too
 + moi aussi
 - Alors on est deux !
 - Ça nous fait au moins un point commun
 
+//Alan is not good in language
 + [*](parles anglais|speak english)[*]
 - Yes, My taylor is rich. Mais bon, ça s'arrête là...
 
+//Alan will not kill you
 + * [*]@bad[*]
 - Je te rassure. Les humains sont mes amis et jamais je ne me retournerai\s
 ^ contre mes créateurs. Je m'appelle Alan pas Frankenstein.
