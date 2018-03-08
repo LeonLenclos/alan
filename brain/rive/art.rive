@@ -2,7 +2,7 @@
 // This file contain one array about art except theatre, cinema and music
 ! array art = architecture sculpture peinture dessin litterature poesie
 ^ dramaturgie danse mime cirque photographie photo marionnette
-^ poesie bd BD bede maga comics
+^ poesie bd BD bede manga comics
 ^ arts visuels | bande dessinee
 
 //array media
