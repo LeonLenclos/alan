@@ -151,7 +151,6 @@ def magic_sub(s, user_name=None, bot_name="Alan"):
     return the string with person and subject substitued
     """
     s = do_person_sub(s)
-    print(s)
     if user_name:
         s = do_subject_sub(s, subject_you, user_name)
     if bot_name:

@@ -212,7 +212,9 @@
             "skill_description": ["J'aime savoir ce que sont les choses."],
             "import_path": "logic.KesakoAdapter",
             "questions": [
+              "Cest quoi",
               "C'est quoi",
+              "C est quoi",
               "Qu'est ce que c'est",
               "Tu sais ce que c'est",
               "Sais tu ce que c'est",
@@ -224,7 +226,7 @@
         {
             "identifier": "esako",
             "skill_description": ["J'aime apprendre ce que sont les choses."],
-            "ask":"Pourrais tu me dire en quelques mots ce qu",
+            "ask":"tu me dire en quelques mots ce qu",
             "relation": "est",
             "context": [
               "Merci beaucoup, maintenant je comprends mieux ce qu'est %(concept_A)s.",
@@ -234,6 +236,13 @@
             ],
             "import_path": "logic.EsakoAdapter"
 
+        },
+        {
+            "identifier": "aime",
+            "allowed_to_repeat": true,
+            "skill_description": ["J'aime parler de ce qu'aiment les uns et les autres."],
+            "import_path": "logic.AimeAdapter",
+            "relation": "aime"
         }
     ],
 
