@@ -6,8 +6,9 @@ import re
 import os
 import sys
 import datetime
-
+import wave
 import chatterbot
+import pygame
 
 from logic import MainLogicAdapter
 from test.simple_talk import test
@@ -58,6 +59,11 @@ class Alan(chatterbot.ChatBot):
         # Alan system attributes
         self.last_results=[]
         self.user_name = None
+
+        # init pygame.mixer in order to play wav sounds
+        pygame.mixer.init()
+        # create sound objects that Alan can play
+        self.musique_generative = pygame.mixer.Sound("./ressources/musique_generative.wav")
 
         # init chatterbot
         super().__init__(self.name, **settings)
@@ -144,7 +150,8 @@ class Alan(chatterbot.ChatBot):
                     infos += "NOT PROCESSING"
             infos += "\n---\n"
             print(infos)
-
+        if command == "music":
+            self.musique_generative.play()
 
     def learn_response(self, statement, previous_statement):
         """
