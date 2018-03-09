@@ -1,4 +1,4 @@
-# Alan v0.1.1
+# Alan v0.1.2
 
 Alan est un agent conversationel créé pour le spectacle Turing Test.
 
