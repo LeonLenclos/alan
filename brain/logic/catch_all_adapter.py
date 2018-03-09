@@ -28,7 +28,7 @@ class CatchAllAdapter(AlanLogicAdapter):
 
 
     def process_done(self, is_selected=False):
-        if is_selected and self.index_selected:
+        if is_selected and self.index_selected is not None:
             del self.sentences[self.index_selected]
         self.index_selected = None
 
