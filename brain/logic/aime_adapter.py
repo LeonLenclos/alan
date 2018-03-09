@@ -89,7 +89,8 @@ class AimeAdapter(AlanLogicAdapter):
             else:
                 response = "%(A)s n'%(rel)s pas %(B)s."
         elif concept_A == "Alan":
-            if random.random()<0.5:
+            a=random.random()
+            if a<0.5:
                 self.chatbot.storage.store_concept_association(concept_A,
                                                             "aime", concept_B)
                 response="Oh oui j'%(rel)s %(B)s. Et toi?"
