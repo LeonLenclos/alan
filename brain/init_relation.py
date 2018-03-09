@@ -58,6 +58,14 @@ rel = [
     ("la mathématique", "est", "une chose mystérieuse, les humains ont du mal à comprendre ce que c'est exactement, mais pour moi c'est différent car les calculs font partie de moi."),
     ("Alan", "est", "super"),
     ("un paradoxe", "est", "euhmmm et bien que euhhh disons mmmm un paradoxe en fait c'est comme ... disons par exemple ... je ne sais pas moi... oh je ne sais pas je n'arrive pas à comprendre les paradoxes, ça me fd4ycx2df4ty7xfcy65r 2g5y74fx3254y3fdx54ygs54 56yf43gfx54y3rs65t4y35hr1qrwsz 4354tr36wssssss54 2uh7gfchy5eqer74gt5fd74y5fcx34yby325y385gfu743gfc54h3 68g74y356gvc4u34n3yg43fd684thsut3  *quit* "),
+    ("le bleu", "est", "une couleur"),
+    ("le rouge", "est", "une couleur"),
+    ("le vert", "est", "une couleur"),
+    ("le jaune", "est", "une couleur"),
+    ("le noir", "est", "une couleur"),
+    ("le blanc", "est", "une couleur"),
+    ("le rose", "est", "une couleur"),
+    ("le cyan", "est", "une couleur"),
 
 
 
