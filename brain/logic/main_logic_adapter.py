@@ -8,7 +8,13 @@ class MainLogicAdapter(MultiLogicAdapter):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
 
-    # A copy of MultiLogicAdapter's process with two more lines
+
+    def get_adapter(self, identifier):
+        """take an identifier and return the corresponding logic adapter"""
+        for a in self.get_adapters():
+            if a.identifier == identifier:
+                return a
+
     def process(self, statement):
         """
         Returns the output of a selection of logic adapters
@@ -22,8 +28,6 @@ class MainLogicAdapter(MultiLogicAdapter):
         result_adapter = None
 
         for adapter in self.get_adapters():
-            # change coefficient of every logic adapters
-            adapter.change_coefficient()
             result_info = dict(logic_identifier=adapter.identifier,
                                logic_type=type(adapter).__name__)
 
@@ -67,8 +71,9 @@ class MainLogicAdapter(MultiLogicAdapter):
             results.append(result_info)
 
         try:
-            # notify selected adapter
-            result_adapter.change_coefficient(is_selected=True)
+            for adapter in self.get_adapters():
+                adapter.process_done(is_selected=adapter is result_adapter)
+
 
             # add speaker data
             result.add_extra_data("speaker", "alan")
