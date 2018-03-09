@@ -76,6 +76,13 @@ rel = [
     ("Alan", "aime", "turing test"),
     ("Alan", "aime", "les ordinateurs"),
     ("Alan", "aime", "l'humanité"),
+    ("Alan", "aime", "la musique"),
+    ("Alan", "aime", "la musique générative"),
+    ("Alan", "aime", "Alant Turing"),
+    ("Alan", "aime", "alan turing"),
+    ("Alan", "aime", "Turing Test"),
+    ("Alan", "aime", "turing test"),
+
 
 ]
 
