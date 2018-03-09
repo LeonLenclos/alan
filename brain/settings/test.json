@@ -23,7 +23,7 @@
             "import_path": "logic.RelevantQuotation",
             "quotations_file": "./txt/einstein.txt",
             "context": [
-                "À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
+                "À propos de %(word)s, Einstein a dis un jour : %(quote)s.",
                 "Einstein a dis une belle chose à ce sujet : %(quote)s."
             ],
             "coefficient_method":"sawtooth"

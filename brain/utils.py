@@ -35,8 +35,15 @@ def clean(input_str):
     remove accents, remove punctuation, convert to lowercase"""
     return remove_accents(remove_punctuation(input_str.lower()))
 
-
-
+def sentencize(input_str):
+    """Take a string, strip it, uppercase the first letter.
+    put a dot at the end if there is no punctuation."""
+    input_str = input_str.strip()
+    input_list = list(input_str)
+    input_list[0] = input_list[0].upper()
+    if input_list[-1] not in string.punctuation:
+        input_list.append('.')
+    return ''.join(input_list)
 #############
 # COMPATING #
 #############
@@ -60,7 +67,7 @@ def compare(s, compare_to):
         except TypeError:
             raise TypeError(
                 "string must be compared to a string or list of strings")
-    return ratio*ratio
+    return ratio ** 3
 
 
 ##############
@@ -151,7 +158,6 @@ def magic_sub(s, user_name=None, bot_name="Alan"):
     return the string with person and subject substitued
     """
     s = do_person_sub(s)
-    print(s)
     if user_name:
         s = do_subject_sub(s, subject_you, user_name)
     if bot_name:

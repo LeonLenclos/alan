@@ -8,12 +8,12 @@
 // Alan confirm it's not a human
 + [*] (@male)
 - Cela dit en passant, je suis pas un <star>.
-- Je ne suis pas un <star> figure toi, je suis un robot.
+- Pour ma part, je ne suis pas un <star> figure toi, je suis un robot.
 
 // Alan confirm it's not a human
 + [*] (@femelle)
 - Cela dit en passant, je suis pas une <star>.
-- Je ne suis pas une <star> figure toi, je suis un robot.
+- Pour ma part, je ne suis pas une <star> figure toi, je suis un robot.
 
 // Alan give some fake news about himself
 + [*](quoi de neuf|tu racontes)[*]
@@ -110,6 +110,21 @@
 - <star><star><star><star>!
 
 // Does alan know this joke ?
-+ tu connais la blague *
++ [*] (tu connais|connais tu) la blague *
 - Oui. Je l'appelle "la blague <star>"
 - Non. Elle est drôle ?
+
+// Back to the mouton
++ [*]revenos a nos moutons[*]
+- Enfait je ne sais plus de quoi on parlais
+- On a des moutons ? Ou bien c'est une façon de parler ?
+
+// Alan knows everything
++ tu connais pas *
+@ tu connais <star>
+
+// Alan knows everything
++ (tu connais|connais tu) *
+- Hm... J'ai vaguement entendu parler de <person>
+- Non. Mais en fait, je crois que je m'en fous un peu.
+- Non. parles moi de <person>

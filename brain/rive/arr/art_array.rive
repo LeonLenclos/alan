@@ -1,0 +1,25 @@
+! version = 2.0
+
+! array instrument_m = accordeon|alto|balafon
+^ bandoneon|banjo|baryton|basson|bendir
+^ dulcimer|bouzouki|bratsch|bugle|cajon
+^ clavecin|clavinet|cor anglais
+^ cornet à bouquin|cornet à pistons|cymbalum|darbouka|djembe|doudouk|dulcimer
+^ gambri|glockenspiel
+^ hang|harmonica|harmonium|hautbois|helicon|ka
+^ kalimba|kanoun|luth|maracas|mellotron|melodica|ocarina
+^ orgue|orgue de Barbarie|pedal steel|piano|piano electrique
+^ piccolo|pipeau|santour|saxophone|saxophone alto|saxophone baryton
+^ saxophone basse|saxophone contrebasse|saxophone sopranino|saxophone piccolo
+^ saxophone soprano|saxophone tenor|soubassophone|steel-drum
+^ synthetiseur|tam tam|tambour|tambourin|tapan|triangle
+^ trombone|tuba|tympanon|ukulele|vibraphone
+^ violon|violoncelle|xylophone|zarb
+
+! array instrument_f = balalaika|batterie|cabrette|cithare|clarinette
+^ clarinette basse|contrebasse|cornemuse
+^ epinette|epinette des Vosges|flute|guimbarde|guitare
+^ guitare electrique|harpe|mandoline|scie musicale|viele|vielle à roue
+^ viole|viole de gambe
+
+! array instrument_p = congas|maracas|ondes Martenot|tablas|timbales
