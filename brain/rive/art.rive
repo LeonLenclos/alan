@@ -26,8 +26,7 @@
  + [*](@like)[*]
  % * tu veux ecouter ce que je compose comme musique
  - c'est de la musique générative que je crée avec Fabien sur pure data.\s
- ^ Très bientôt je pourrai te faire écouter un morçeau mais c'est pas encore\s
- ^ fonctionnel...
+ ^  *music*
 
  + [*](@dislike)[*]
  % * tu veux ecouter ce que je compose comme musique

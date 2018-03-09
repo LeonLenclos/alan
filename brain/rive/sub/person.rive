@@ -7,6 +7,8 @@
 ! person vous etes = nous sommes
 ! person mon = ton
 ! person ton = mon
+! person ma = ta
+! person ta = ma
 ! person toi = moi
 ! person moi = toi
 ! person je = tu
