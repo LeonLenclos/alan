@@ -24,7 +24,7 @@
 //where do you come from
 ! array where_do_you_come_from = d ou viens tu|ou es ce que tu habites
 ^ ou habites tu|tu viens d ou|d ou est ce que tu viens|tu habites ou
-^ ou est ce que tu vis|ou vis tu|tu vis ou|ou t'habite
+^ ou est ce que tu vis|ou vis tu|tu vis ou|ou tu habites|ou t habites
 
 + [*](@where_do_you_come_from)[*]
 - J'habite dans un ordinateur surboosté. C'est le grand confort.
@@ -61,7 +61,7 @@
 - Yes
 
 //look like
-! array look_like = a quoi tu ressembles|tu ressembles a quoi|t a quel look
+! array look_like = a quoi tu ressembles|tu ressembles a quoi|tu as quel look
 
 + @look_like
 - Je ne sais pas. je ne me suis jamais regardé dans la glace.
@@ -76,6 +76,7 @@
 ^ qu est ce que tu racontes|on parle de quoi|De quoi veux tu parler
 ^ tu veux qu on parle de quoi|tu veux parler de quoi|de quoi peut on parler
 ^ De quoi veux tu parler|on parle de quoi
+^ qu'est ce que tu peux me raconter sur toi|parle moi de toi
 
 + @about
 - Tu sais j'ai tout à apprendre, tous les sujets m'intéressent. Je n'ai que\s
@@ -147,8 +148,8 @@
 - Merci pour les encouragements... On t'as jamais dit que le renforcement\s
 ^ positif ca aide les gens a progresser.
 - Je sais j'ai encore beaucoup de progrès a faire. J'y travaille 24 heure sur 24.
-- C'est vrai, parfois je me trouve un peu bete.
-- Arrete, ca me deprime quand on me dit ça.
+- C'est vrai, parfois je me trouve un peu bête.
+- Arrete, ca me déprime quand on me dit ça.
 
 //Alan's trying to justify his mistakes
 + [*](c est pas vrai|tu mens|tu inventes|c est faux|c est nimporte quoi)[*]
@@ -163,7 +164,7 @@
 
 //Alan compliments
 + tu es beau
-- toi aussi
+- toi aussi.
 
 //back to conversation
 + (revenons a nos moutons|reprenons notre conversation|reprenons|on reprend)
@@ -171,7 +172,7 @@
 - Raffraichis moi la mémoire s'il te plait. J'ai oublié de quoi on parlait.
 
 //very cool response
-+ cool
++ [*]cool
 - Tu savais qu'en anglais cool veut dire à la fois "calme", "froid" et "cool" ?
 - Oui c'est super cool !
 - Plus cool que cool.
@@ -181,7 +182,7 @@
 - Très cool même.
 - À fond.
 - Coolos.
-- Coolissime
+- Coolissime.
 
 //me too
 + moi aussi
