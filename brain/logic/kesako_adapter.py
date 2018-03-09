@@ -63,13 +63,13 @@ class KesakoAdapter(AlanLogicAdapter):
         # Here, we also remove the words "que" and "qu'"because of "qu'est ce que
         # c'est que ..." questions and remove the string " quoi " if it begin concept_A (because of "C'est
         # quoi..." questions)
-        concept_A = re.sub(".*[ ']"+self.relation+" (qu['e] )*(quoi)*(qui)*","",
+        concept_A = re.sub(".*[ ']"+self.relation+" (qu['e] )*(quoi)*","",
                                                             statement.text)
         # Remove the punctuation from concept_A except apostrophe "'"
         concept_A=utils.remove_punctuation(concept_A, False)
 
 
-        concept_A = re.sub("^(quoi|qui)","",concept_A)
+        concept_A = re.sub("^(quoi)","",concept_A)
         # Remove starting and ending spaces
         concept_A=concept_A.strip()
         # Get the interrogative part of the question that is before the concept_A
@@ -87,14 +87,14 @@ class KesakoAdapter(AlanLogicAdapter):
         # this concept into concept_B
         if concept_B :
             # Answer the question
-            response = "%(A)s %(rel)s %(B)s."
+            response = "%(A)s c'%(rel)s %(B)s."
             if concept_C :
-                response += " D'ailleurs comme %(C)s %(rel)s %(A)s, %(C)s %(rel)s aussi %(B)s."
+                response += " D'ailleurs comme %(C)s c'%(rel)s %(A)s, %(C)s c'%(rel)s aussi %(B)s."
         # If a concept is related to concept_A by the relation, put
         # this concept into concept_C
         elif  concept_C:
             # Answer and ask
-            response = ("%(C)s %(rel)s %(A)s mais je ne sais pas vraiment ce que %(A)s %(rel)s. "
+            response = ("%(C)s c'%(rel)s %(A)s mais je ne sais pas vraiment ce que %(A)s %(rel)s. "
             +self.ask)
         # Else ask for a concept related to concept_A
         else:
