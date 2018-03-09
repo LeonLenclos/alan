@@ -76,7 +76,7 @@ class EsakoAdapter(AlanLogicAdapter):
 
 
     def process(self, statement):
-        
+
         # Get the unknown concept_A
         concept_A = self.concept_asked
         self.concept_asked = None
@@ -92,7 +92,7 @@ class EsakoAdapter(AlanLogicAdapter):
         context = random.choice(self.context_sentences)
         reply = context % {"concept_A":concept_A}
 
-        statment_out = Statement(reply)
+        statment_out = Statement(utils.sentencize(reply))
         statment_out.confidence = self.get_confidence()
 
         return statment_out

@@ -133,7 +133,7 @@ class KesakoAdapter(AlanLogicAdapter):
             confidence=0
 
 
-        statment_out = Statement(response.capitalize())
+        statment_out = Statement(utils.sentencize(response))
         statment_out.confidence = self.get_confidence(confidence)
 
         return statment_out
