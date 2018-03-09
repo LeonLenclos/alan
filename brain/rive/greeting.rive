@@ -10,12 +10,12 @@
 + [*](@hello)[*]
 - Bonjour je suis alan ! un comédien du spectacle Turing Test.\s
 ^ comment t'appelles tu ?{topic=asked_name}
-- Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dit\s
+- Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dis\s
 ^ bonjour ?{topic=confirm_hello}
 
 // repeat the way user said hello and ask for name
 + (@hello)
-- <formal> à toi humain. Je suis Alan. Et toi, comment tu t'appelle ?\s
+- <formal> à toi humain. Je suis Alan. Et toi, comment tu t'appelles ?\s
 ^ {topic=asked_name}
 - <formal>, je suis alan le meilleur robot du monde. Et toi t'es qui ?\s
 ^ {topic=asked_name}
@@ -26,14 +26,14 @@
 + (@hello) alan [*]
 - <formal> ! C'est qui ?{topic=asked_name}
 - <formal> ! Qui est à l'appareil ?{topic=asked_name}
-- Coucou, comment tu t'appelle ?{topic=asked_name}
+- Coucou, comment tu t'appelles ?{topic=asked_name}
 
 // When we're not sure if the user said hello
 > topic confirm_hello
 
   // now we want to know the name
   + *
-  - Hm... Et sinon tu t'appelle comment ?{topic=asked_name}
+  - Hm... Et sinon tu t'appelles comment ?{topic=asked_name}
 
 < topic
 
@@ -83,11 +83,11 @@
   // if the user say no and say his name, ask for confirmation
   + non [@name_intro][juste|seulement] * [tout court]
   - <set name={formal}<star1>{/formal}> Pardon je suis un peu fatigué.\s
-  ^ Donc tu t'appelle <get name> ?
+  ^ Donc tu t'appelles <get name> ?
 
   // if he say no ask for name again
   + [*]non[*]
-  - Ah. mais tu t'appelle comment alors ?{topic=asked_name}
+  - Ah. mais tu t'appelles comment alors ?{topic=asked_name}
 
   // else we give up
   + *
@@ -158,6 +158,10 @@
 
   // only way to go back in the script is this sentence
   + c est bien alan ton nom
-  - Oui. Et comment tu t'appelle déjà ? {topic=asked_name}
+  - Oui. Et comment tu t'appelles déjà ? {topic=asked_name}
+
+  + [*](@hello)[*]
+  - On s'est déjà salué non ?
+  - Je crois me souvenir qu'on s'est déjà dit Bonjour...
 
 < topic

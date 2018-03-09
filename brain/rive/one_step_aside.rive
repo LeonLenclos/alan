@@ -124,7 +124,7 @@
 @ tu connais <star>
 
 // Alan knows everything
-+ tu connais *
++ (tu connais|connais tu) *
 - Hm... J'ai vaguement entendu parler de <person>
 - Non. Mais en fait, je crois que je m'en fous un peu.
 - Non. parles moi de <person>
