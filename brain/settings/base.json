@@ -225,7 +225,7 @@
            "max_confidence": 0.4,
            "import_path": "logic.RelevantQuotation",
            "quotations_file": "./txt/einstein.txt",
-           "context": ["À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
+           "context": ["À propos de %(word)s, Einstein a dis un jour : %(quote)s.",
                 "Einstein a dis une belle chose à ce sujet : %(quote)s."
             ],
             "process_done_method":"sawtooth"
