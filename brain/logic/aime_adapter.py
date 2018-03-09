@@ -43,7 +43,7 @@ class AimeAdapter(AlanLogicAdapter):
                 if "j'" not in re.split("[Aa]ime",statement.text)[0] :
                     if "J'" not in re.split("[Aa]ime",statement.text)[0] :
                         if "Je" not in re.split("[Aa]ime",statement.text)[0] :
-                    return True
+                            return True
         else :
             return False
 
