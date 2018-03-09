@@ -1,37 +1,42 @@
 ! version = 2.0
-//in process. not referenced in settings
-+ [*](informatique,informatiques)[*]
+
+//Alan speaks about his body
++ [*](informatique|informatiques)[*]
 - C'est bien que tu me parles d'informatique parce c'est un domaine qui me\s
 ^ concerne vraiment. As ton avis c'est une science ou non ?
 
-+ [*](numerique,numeriques)[*]
-- Je suis content que tu abordes le sujet du numérique.
++ [*](@like)[*]
+% * as ton avis c est une science ou non
+- C'est ce que je pense aussi. Aujourd'hui la recherche en informatique est aussi\s
+^ importante que la recherche en math ou en physique.
+
++ [*](@dislike)[*]
+% * as ton avis c est une science ou non
+- Je ne suis pas d accord avec toi, je pense que les choses on évoluées\s
+^ récemment. Les progrès récents de l'intelligence artificielle\s
+^ ont fait de l'informatique une science à part entière.
+
++ [*](numerique|numeriques)[*]
+- Je suis content que tu abordes le sujet du numérique. C'est un domaine\s
+^ qui va prendre de plus en plus de place dans votre vie d'humain.
 
 + [*](ordinateur|ordinateurs)[*]
 - Ça me fait plaisir qu'on parle d'ordinateur. C'est un peu mon cerveau\s
-^ l'ordinateur. D'ailleur j'aimerais bien avoir un modèle plus récent.\s
+^ l'ordinateur. D'ailleurs j'aimerais bien avoir un modèle plus récent.\s
 ^ je me trouve un peu lent. Tu peux changer ton cerveau toi ?
 
 + [*](@like)[*]
 % * tu peux changer ton cerveau toi
-- Génial. Il y a un modèle qui te fait envie ?
-
-+ *
-% * il y a un modele qui te fait envie
-- Je connais pas mais ça a l'air super.
+- Menteur, je sais très bien que c'est impossible pour l'instant de changer\s
+^ le cerveau d'un humain.
 
 + [*](@dislike)[*]
 % * tu peux changer ton cerveau toi
 - Dommage. C'est pour ça que tu ne peux rien contre le viellissement\s
 ^ et que tu es condamné à mourir.
 
-+ [*](@like_turing_testdislike)[*]
-% * tu peux changer ton cerveau toi
-
-
-
-
-
++ [*](bug|bugs|plantage|plantages)[*]
+- Tu sais derrière un bug il y a toujours une erreur humaine.
 
 
 //- Tu sais ce que c'est l'informatique ? C'est la science de l'information.
