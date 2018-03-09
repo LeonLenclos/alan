@@ -223,7 +223,7 @@
            "context": ["À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
                 "Einstein a dis une belle chose à ce sujet : %(quote)s."
             ],
-            "coefficient_method":"sawtooth"
+            "process_done_method":"sawtooth"
         },
         {
             "identifier": "proverbes",
@@ -260,7 +260,13 @@
               "Sais tu ce qu'est"
             ],
             "relation": "est",
-            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(A)s.",
+            "ask": [
+              "Pourrais tu me dire en quelques mots ce qu'est %(A)s.",
+              "Pourrais tu me dire ce que c'est ?",
+              "Dis moi en peu de mot ce qu'est %(A)s ?",
+              "En deux ou trois mots, c'est quoi %(A)s pour toi ?",
+              "C'est quoi %(A)s"
+            ],
             "max_confidence": 0.9
 
         },

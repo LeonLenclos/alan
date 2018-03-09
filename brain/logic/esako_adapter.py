@@ -52,6 +52,8 @@ class EsakoAdapter(AlanLogicAdapter):
             raise TypeError("ask must be a string")
 
 
+        self.concept_asked = None
+
     def can_process(self, statement):
 
 
@@ -64,25 +66,22 @@ class EsakoAdapter(AlanLogicAdapter):
             conversation_id=self.chatbot.default_conversation_id)
         last_logic=self.chatbot.storage.get_latest_response_extra_data(
                                                 extra_data="logic_identifier")
-        if last_response:
+        if self.concept_asked:
             if last_logic == "kesako":
-                if self.ask in last_response.text:
-                    if self.relation in statement.text:
-                        return True
+                if self.relation in statement.text:
+                    return True
+            self.concept_asked = None
 
         return False
 
 
     def process(self, statement):
-        # Get what Alan just asked with kesako
-        question_posee = self.chatbot.storage.get_latest_statement(speaker="alan")
-        question_posee = question_posee.text
+        
         # Get the unknown concept_A
-        concept_A = re.sub(r".*(qu'est) ","", question_posee)
-        concept_A = utils.remove_punctuation(str.strip(concept_A))
+        concept_A = self.concept_asked
+        self.concept_asked = None
 
         # Get the concept B explained by the Human
-
         concept_B = re.sub(r".*([ ']+est )","", statement.text)
         concept_B = utils.remove_punctuation(str.strip(concept_B))
 
