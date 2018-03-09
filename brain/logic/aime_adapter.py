@@ -41,6 +41,8 @@ class AimeAdapter(AlanLogicAdapter):
         if self.relation in statement.text :
             if "je" not in re.split("[Aa]ime",statement.text)[0] :
                 if "j'" not in re.split("[Aa]ime",statement.text)[0] :
+                    if "J'" not in re.split("[Aa]ime",statement.text)[0] :
+                        if "Je" not in re.split("[Aa]ime",statement.text)[0] :
                     return True
         else :
             return False
@@ -111,7 +113,7 @@ class AimeAdapter(AlanLogicAdapter):
                    ne sais pas si %(A)s (rel)s %(B)s, tu crois que c'est le cas?"
             else:
                 response = " Et bien écoute je ne sais\
-pas si %(A)s %(rel)s %(B)s, tu crois que c'est le cas?"
+\ pas si %(A)s %(rel)s %(B)s, tu crois que c'est le cas?"
 
         response = response % {"A":concept_A, "B":concept_B, "C":concept_C,
         "rel":self.relation }
@@ -121,6 +123,8 @@ pas si %(A)s %(rel)s %(B)s, tu crois que c'est le cas?"
         # Verify that concept_A is non-empty or to big (more than 4 words),
         #  if it is then change confidence to 0
         if len(concept_A) == 0 or len(concept_A.split(" "))>4:
+            confidence=0
+        if len(concept_B) == 0 or len(concept_B.split(" "))>4:
             confidence=0
 
 

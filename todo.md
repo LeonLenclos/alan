@@ -25,26 +25,6 @@ Ne pas hésiter à laisser des commentaires dans le fichier.
 PRENDRE LES COMPLIMENTS
 
 
-```
-> tu comprend jamais rien CAR TU ES NUL
-"mieux vaut tard que jamais." Comme on dit !
-> oui tu comprends tard
-J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement.
-```
-
-```
-> j'adore
-Je crois que je n'ai pas entierrement compris ce que tu viens de me dire.
-```
-```
-
-> c'est quand c'est vraiment tres genial
-D'accord, c'est gentil de m'avoir appris ce qu'est top cool.
-> c'est quoi ta couleur preferee
-Ta couleur preferee est la couleur que tu aime le plus.
-INTEGRE LA SUBSTITUTION DE PERSONNE
-
-```
 
 
 ```
@@ -52,14 +32,6 @@ INTEGRE LA SUBSTITUTION DE PERSONNE
 je préfère en rester là sur ce sujet. Parle moi de toi plutôt. Joues tu d'un instrument de musique ?
 > du piano
 La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?
-```
-
-
-```
-> non
-Toi aussi tu as des bugs. Ha ha. Nobody is perfect.
-> c'est quoi un bug
-Je ne sais pas ce qu'est un bug pourrais tu me dire en quelques mots ce qu'est un bug.
 ```
 
 
@@ -161,7 +133,7 @@ Je me demande si je suis à la hauteur de cette conversation...
 
 ```
 > si
-Ecoute ça me dépasse un peu. Je préfèrerais qu'on parle d'autre chose. 
+Ecoute ça me dépasse un peu. Je préfèrerais qu'on parle d'autre chose.
 > qu'aimes tu a part la musique ?
  et bien écoute je ne saispas si qu' aime alan a part la musique, tu crois que c'est le cas?
 ```
