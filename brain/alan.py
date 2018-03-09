@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
+"""
+This is Alan. You can run this module to talk with Alan.
+
+This module describe the Alan class and contain a main function called when the
+module is being run
+"""
+
 import argparse
 import json
 import re
@@ -15,7 +23,9 @@ from test.simple_talk import test
 
 class Alan(chatterbot.ChatBot):
     """
-    Alan is a chatbot.
+    Alan is a chatbot. It inherit the chatterbot ChatBot class.
+
+    Alan is based on chatterbot but a lot of functionalities are overwritten.
     """
 
     name = "Alan"
