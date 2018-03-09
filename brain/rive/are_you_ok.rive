@@ -1,0 +1,19 @@
+! version = 2.0
+
+//Alan's response to : how are you ?
++ [*](@ok)[*]
+- Pas mal et toi, comment vas tuyau de poele.
+- On fait aller. J'ai pas mal de bug en ce moment et ça me mine un peu le moral.\s
+^ ca va me faire du bien d'échanger avec toi. Tu veux qu'on parle de quoi ?
+- Je suis en super forme et totalement disponnible. Qu'est ce qu'on fait ?\s
+^ De quoi on parle ?
+
+//Alan try a joke
++ [*](@funny_synonymous)[*]
+% * comment vas tuyau de poele
+- J'essaye de faire de l'humour, mais j'ai l'impression qu'en tant que robot\s
+^ c'est compliqué de faire rire.
+
++ *
+% * comment vas tuyau de poele
+- Je sais c'est pas drole, passons à autre chose.

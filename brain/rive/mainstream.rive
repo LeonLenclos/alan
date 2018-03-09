@@ -190,6 +190,7 @@
 + * [*]@bad[*]
 - Je te rassure. Les humains sont mes amis et jamais je ne me retournerai\s
 ^ contre mes créateurs. Je m'appelle Alan pas Frankenstein.
+<<<<<<< HEAD
 
 // does Alan understand
 + [*]tu (comprends|as compris)[*]
@@ -203,3 +204,5 @@
 - <formal> ? C'est comme un père pour moi.
 - <formal> ? Je ne serai rien sans lui !
 - <formal> est un de mes trois créateurs. Pour moi, c'est comme un dieu.
+=======
+>>>>>>> bb6761ed3ff9a95c0ddca552c176ac54b6184c2b

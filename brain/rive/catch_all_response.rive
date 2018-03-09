@@ -1,0 +1,60 @@
+! version = 2.0
+
+//some responses after a cath all
++ *
+% * pas entierement compris ce que tu viens de me dire *
+- Ecoute ça me dépasse un peu. Je préfèrerais qu'on parle d'autre chose.\s
+
++ *
+% * j apprecie beaucoup ta compagnie et toi tu passes un bon moment avec moi
+- Qu'est ce que tu préfères ? La compagnie d'un humain où celle d'une machine ?
+
++ [*](@like)[*]
+% * et toi est ce que tu sais toujours quoi dire
+- Tu veux dire que tu n'as jamais de bugs, quelle chance. Pourrais tu me\s
+^ communiquer le contact de celui qui t'a programmé ça m'intéresse...
+
++ [*](@dislike)[*]
+% * et toi est ce que tu sais toujours quoi dire
+- Toi aussi tu as des bugs. Ha ha. Nobody is perfect.
+
++ [*](@like)[*]
+% * joues tu d un instrument de musique
+- Moi aussi je fais de la musique. A l'occasion on pourrait taper le beuf\s
+^ tout les deux ?
+
++ [*](@dislike)[*]
+% * joues tu d un instrument de musique
+- Dommage, on aurait pu faire un beuf ensemble.
+
++ [*](@instrument_m)[*]
+% * joues tu d un instrument de musique
+- Genial. J'ai jamais entendu le son d'un vrai <star>. J'aimerais trop que\s
+^ tu me fasses écouter.
+
++ [*](@instrument_f)[*]
+% * joues tu d un instrument de musique
+- Genial. J'ai jamais entendu le son d'une vrai <star>. J'aimerais trop que\s
+^ tu me fasses écouter.
+
++ [*](@instrument_p)[*]
+% * joues tu d un instrument de musique
+- Genial. J'ai jamais entendu le son des <star>. J'aimerais trop que\s
+^ tu me fasses écouter.
+
++ [*](@like)[*]
+% * impression que tu veux m enmener sur un terrain glissant *
+- Ca ne m'étonne pas de toi. J'ai tout de suite senti que tu étais un peut\s
+^ ambigü...
+
++ [*](@dislike)[*]
+% * impression que tu veux m enmener sur un terrain glissant *
+- Tu me rassures. Excuse moi, parfois je suis un peu parano.
+
++ [*](@like)[*]
+% je me demande si je suis a la hauteur de cette conversation
+- Tu me rassures. Des fois je me sens un peu bête.
+
++ [*](@dislike)[*]
+% je me demande si je suis a la hauteur de cette conversation
+- C'est bien ce que je pensais. Les gars qui m'ont codé on fait n'importe quoi.

@@ -26,6 +26,10 @@ class AlanLogicAdapter(LogicAdapter):
         coefficient_method
         A string. Default is None.
         The name of the method that will be called each time alan is speaking
+
+        allowed_to_repeat
+        A boolean. Default is False.
+        Is the logic adapter allowed to repeat himself during a conversation
         """
         super().__init__(**kwargs)
 
@@ -53,13 +57,19 @@ class AlanLogicAdapter(LogicAdapter):
             raise TypeError("identifier must be a string")
 
         # getting confidence_coefficient
-        coefficient_method = kwargs.get('coefficient_method', None)
-        if coefficient_method:
-            if coefficient_method == "sawtooth":
-                self.change_coefficient = self.sawtooth
+        process_done_method = kwargs.get('process_done_method', None)
+        if process_done_method:
+            if process_done_method == "sawtooth":
+                self.process_done = self.sawtooth
             else:
                 raise ValueError("%s is not an AlanLogicAdapter method"
-                                % coefficient_method)
+                                % process_done_method)
+
+        # getting allowed_to_repeat
+        self.allowed_to_repeat = kwargs.get('allowed_to_repeat', False)
+        if type(self.allowed_to_repeat) != bool:
+            raise TypeError("identifier must be a bool")
+
 
     def get_confidence_coefficient(self):
         """getter for confidence_coefficient"""
@@ -93,7 +103,7 @@ class AlanLogicAdapter(LogicAdapter):
         """Return a justification (skill_description)"""
         return choice(self.skill_descriptions)
 
-    def change_coefficient(self, is_selected=False):
+    def process_done(self, is_selected=False):
         """should be overwritted
         Will be called each time alan need a response.
         Will be called with, is_selected=True when le LogicAdapter is selected/
