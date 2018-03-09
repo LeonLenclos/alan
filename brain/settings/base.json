@@ -32,15 +32,7 @@
            "max_confidence": 0.5,
            "import_path": "logic.RiveScriptAdapter"
        },
-       {
-           "identifier": "catch_all",
-           "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
-           "rive_files": [
-                "./rive/sub/substitutions.rive",
-                "./rive/catch_all.rive"],
-           "max_confidence": 0.2,
-           "import_path": "logic.RiveScriptAdapter"
-       },
+
        {
            "identifier": "commands",
            "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
@@ -119,6 +111,7 @@
                "./rive/mainstream.rive",
                "./rive/sub/substitutions.rive",
                "./rive/arr/feelings.rive",
+               "./rive/sub/person.rive",
                "./rive/arr/misc.rive"],
            "max_confidence": 0.4,
            "import_path": "logic.RiveScriptAdapter"
@@ -128,6 +121,7 @@
            "skill_description": ["j'ai dis ça comme ça"],
            "rive_files": [
                "./rive/one_step_aside.rive",
+               "./rive/sub/person.rive",
                "./rive/sub/substitutions.rive",
                "./rive/arr/misc.rive"],
            "max_confidence": 0.35,
@@ -223,7 +217,7 @@
            "context": ["À propos de %(word)s, Einstein a dit un jour : %(quote)s.",
                 "Einstein a dis une belle chose à ce sujet : %(quote)s."
             ],
-            "coefficient_method":"sawtooth"
+            "process_done_method":"sawtooth"
         },
         {
             "identifier": "proverbes",
@@ -260,7 +254,13 @@
               "Sais tu ce qu'est"
             ],
             "relation": "est",
-            "ask":"Pourrais tu me dire en quelques mots ce qu'est %(A)s.",
+            "ask": [
+              "Pourrais tu me dire en quelques mots ce qu'est %(A)s.",
+              "Pourrais tu me dire ce que c'est ?",
+              "Dis moi en peu de mot ce qu'est %(A)s ?",
+              "En deux ou trois mots, c'est quoi %(A)s pour toi ?",
+              "C'est quoi %(A)s"
+            ],
             "max_confidence": 0.9
 
         },
@@ -292,8 +292,30 @@
              "relation": "aime",
              "max_confidence": 0.9
 
-        }
-    ],
+        },
+        {
+            "identifier":"catch_all",
+            "sentences" :
+              [
+                "Je crois que je n'ai pas entièrement compris ce que tu viens de me dire. Est ce que tu peux répéter avec des mots simples.",
+                "Hm... Ok... A ton avis je suis un robot ou un humain ?",
+                "Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie. Et toi tu passes un bon moment avec moi ?",
+                "La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?",
+                "Je suis un peu mal à l'aise avec ça, parlons d'autre chose si tu veux bien. Es tu heureux ou malheureux dans ta vie ?",
+                "je trouve que cette conversation tourne un peu en rond.",
+                "je préfère en rester là sur ce sujet. Parle moi de toi plutôt. Joues tu d'un instrument de musique ?",
+                "excuse moi, je n'ai pas entendu ce que tu disais, je pensais à autre chose...",
+                "Pardon j'ai décroché. J'étais perdu dans mes pensées.",
+                "Est ce que tu peux reformuler ça autrement s'il te plait ?",
+                "J'ai l'impression que tu veux m'enmener sur un terrain glissant. Je me trompe ? Tu cherches à m'embrouiller oui ou non ?",
+                "J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement ?",
+                "Je me demande si je suis à la hauteur de cette conversation..."
+              ],
+              "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
+              "max_confidence": 0.2,
+              "import_path": "logic.CatchAllAdapter"
+          }
+      ],
 
     "storage_adapter": "storage.AlanSQLStorageAdapter",
     "input_adapter": "chatterbot.input.TerminalAdapter",

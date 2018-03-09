@@ -53,11 +53,3 @@ je préfère en rester là sur ce sujet. Parle moi de toi plutôt. Joues tu d'un
 > du piano
 La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?
 ```
-
-
-```
-> cool
-Coolissime
-> style
-Je crois que je n'ai pas entièrement compris ce que tu viens de me dire. Est ce que tu peux répéter avec des mots simples.
-```
