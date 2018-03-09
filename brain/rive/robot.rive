@@ -6,7 +6,7 @@
 
 //catch bot's keywords and force conversation
 
-+ [*](robot|creature artificielle|bot|chatbot|machine)
++ [*](robot|creature artificielle|bot|chatbot|machine)[*]
 - Tu parles de <star>, mais tu ne sais pas vraiment de quoi il s'agit...\s
 ^ Tu veux vraiment savoir ce que <star> veut dire ? {topic=whats_a_bot}
 - C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
