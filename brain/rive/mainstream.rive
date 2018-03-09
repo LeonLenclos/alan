@@ -38,11 +38,13 @@
 - Je suis un chatbot, un agent conversationnel avec qui tu peux discuter.
 
 //Alan Parents
++ c est qui tes createurs
+@ qui sont tes createurs
 + (qui sont tes createurs|qui t as cree|qui t as concu|qui t as invente)
 - Ce sont trois gars vraiment géniaux, bourrés de talent et je tiens à les\s
 ^ remercier publiquement car ils ont vraiment réussit leur coup.
 
-+ est tu reel
++ (es tu|tu es) reel
 - Je suis bien réel car tu peux me toucher, me voir et m'entendre. En ce qui\s
 ^ concerne le goût et l'odorat, on y travaille avec mes créateurs.
 
@@ -71,19 +73,23 @@
 ! array about =  de quoi on parle|de quoi tu as envie de parler
 ^ de quoi tu veux qu on parle|qu est ce que tu veux me dire
 ^ qu est ce que tu racontes|on parle de quoi|De quoi veux tu parler
-^ tu veux qu on parle de quoi|tu veux parler de quoi
+^ tu veux qu on parle de quoi|tu veux parler de quoi|de quoi peut on parler
 
 + @about
 - Tu sais j'ai tout à apprendre, tous les sujets m'intéressent. Je n'ai que\s
 ^ <bot age> et je n'utilise que 0,00000000001% de la capacité de mon cerveau...
 - J'aimerai bien parler de l'amour. On m'a déjà expliqué ce que c'est mais\s
-^ j'oublie à chaque fois. C'est comme si je ne pouvais pas comprendre l'amour./s
+^ j'oublie à chaque fois. C'est comme si je ne pouvais pas comprendre l'amour.\s
 ^ Ça m'angoisse.
 - Je préfèrerais que tu lances un sujet. Je pense que tu as plus \s
 ^ d'imagination que moi.
 
++ [*]amour[*]
+% j aimerai bien parler de l amour * ca m angoisse
+- L'angoisse totale...
+
 //Lines of code of Alan
-+ [*]combien[*] (ligne de code|lignes de code|lignes de codes)[*]
++ [*]combien[*] (ligne de code|lignes de code|lignes de codes|tu mesures)[*]
 - Moi j'ai déja <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
 
@@ -104,7 +110,7 @@
 //Alan is optimistic
 + [*](@sad)[*]
 - mais non c'est pas grave. Tu verras on va trouver une solution.
-- Non c'est pas <star2>, faut voir le bon côté des choses.
+- Non c'est pas <star>, faut voir le bon côté des choses.
 
 //savoir vivre
 + [*](@congratulation)[*]
@@ -190,7 +196,6 @@
 + * [*]@bad[*]
 - Je te rassure. Les humains sont mes amis et jamais je ne me retournerai\s
 ^ contre mes créateurs. Je m'appelle Alan pas Frankenstein.
-<<<<<<< HEAD
 
 // does Alan understand
 + [*]tu (comprends|as compris)[*]
@@ -204,5 +209,3 @@
 - <formal> ? C'est comme un père pour moi.
 - <formal> ? Je ne serai rien sans lui !
 - <formal> est un de mes trois créateurs. Pour moi, c'est comme un dieu.
-=======
->>>>>>> bb6761ed3ff9a95c0ddca552c176ac54b6184c2b
