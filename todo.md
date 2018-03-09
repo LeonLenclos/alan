@@ -26,20 +26,13 @@ PRENDRE LES COMPLIMENTS
 
 
 
-
-```
-> oui je t'assure t'es bon
-je préfère en rester là sur ce sujet. Parle moi de toi plutôt. Joues tu d'un instrument de musique ?
-> du piano
-La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?
-```
-
-
 ```
 > Tu aimes la musique ?
 Pour être franc je n'aime pas la musique. et toi?
 > Qu'aimes-tu ?
  et bien écoute je ne saispas si qu' aime -tu, tu crois que c'est le cas?
+
+ EDIT by FAB:Aime adapter ne se fait plus avoir mais je pense qu'il vaut mieu que ce soit un autre adapteur qui réponde à cette question
 ```
 
 
@@ -48,14 +41,6 @@ Pour être franc je n'aime pas la musique. et toi?
 Pour être franc je n'aime pas lire. et toi?
 > Qu'est ce que tu aimes ?
  et bien écoute je ne saispas si qu' j'aime , tu crois que c'est le cas?
-```
-
-
-```
-> Tu veux boire un coup ?
-"quand le vin est tiré, il faut le boire."
-> J'aime le vin
-Oh oui j'aime le vin. et toi?
 ```
 
 

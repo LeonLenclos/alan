@@ -113,16 +113,17 @@ class AimeAdapter(AlanLogicAdapter):
                    ne sais pas si %(A)s (rel)s %(B)s, tu crois que c'est le cas?"
             else:
                 response = " Et bien écoute je ne sais\
-\ pas si %(A)s %(rel)s %(B)s, tu crois que c'est le cas?"
+  pas si %(A)s %(rel)s %(B)s, tu crois que c'est le cas?"
 
         response = response % {"A":concept_A, "B":concept_B, "C":concept_C,
         "rel":self.relation }
         response = re.sub("Alan aime","j'aime",response)
         response = re.sub("Alan n'aime","je n'aime",response)
 
-        # Verify that concept_A is non-empty or to big (more than 4 words),
+        # Verify that concept_A is non-empty or not just qu' (for example in the
+        # case of the question 'qu'aimes-tu') or to big (more than 4 words),
         #  if it is then change confidence to 0
-        if len(concept_A) == 0 or len(concept_A.split(" "))>4:
+        if len(re.sub("(qu'|que| )","",concept_A)) == 0 or len(concept_A.split(" "))>4:
             confidence=0
         if len(concept_B) == 0 or len(concept_B.split(" "))>4:
             confidence=0
