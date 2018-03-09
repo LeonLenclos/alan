@@ -53,3 +53,11 @@ je préfère en rester là sur ce sujet. Parle moi de toi plutôt. Joues tu d'un
 > du piano
 La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?
 ```
+
+
+```
+> non
+Toi aussi tu as des bugs. Ha ha. Nobody is perfect.
+> c'est quoi un bug
+Je ne sais pas ce qu'est un bug pourrais tu me dire en quelques mots ce qu'est un bug.
+```
