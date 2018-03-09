@@ -37,26 +37,12 @@ Pour être franc je n'aime pas la musique. et toi?
 
 
 ```
-> Tu aimes lire ?
-Pour être franc je n'aime pas lire. et toi?
-> Qu'est ce que tu aimes ?
- et bien écoute je ne saispas si qu' j'aime , tu crois que c'est le cas?
-```
-
-
-```
-> Je suis heureuse
-Hm...
-> Je suis une fille
-Je ne suis pas une fille figure toi, je suis un robot.
-```
-
-
-```
 > les machines c'est bien mais pas tout les jours
 Je te rassure. Les humains sont mes amis et jamais je ne me retournerai contre mes créateurs. Je m'appelle Alan pas Frankenstein.
 > c'est qui frankenstein ?
 Je crois que je n'ai pas entièrement compris ce que tu viens de me dire. Est ce que tu peux répéter avec des mots simples.
+
+EDIT by FAB : Faire un module pour répondre aux questions c'est qui
 ```
 
 
