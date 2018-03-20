@@ -3,7 +3,7 @@
 
 [Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'alan.
 
-Les consignes d'écritures pour le développement d'Alan sont dans le `brain/README.md`. Cete page sert aux visiteurs et aux consignes d'installation.
+Les consignes d'écritures pour le développement d'Alan sont dans le fichier `brain/README.md` présent dans ce dépôt github. Cete page sert aux visiteurs et aux consignes d'installation.
 
 ## Description
 
@@ -63,7 +63,7 @@ Pour noter les deux dernières répliques dans la liste todo.md
 ```
  > todo
 ```
-```
+
 
 ### commandes spéciales
 
