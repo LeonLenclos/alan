@@ -1,9 +1,9 @@
-# Documentation pour speach to text et inversement
+# Documentation pour speach to text et inversement
 
 Prise de note pour plus tard
 
 
-## TTS avec espeak
+## TTS avec espeak
 
 
 Installer le loggiciel de synthèse. ([source](http://espeak.sourceforge.net/mbrola.html))
@@ -27,7 +27,7 @@ $ espeak -vmb-fr1 "Bonjour monde"
 - [liste des langues mbrola](http://tcts.fpms.ac.be/synthesis/mbrola/mbrcopybin.html)
 
 
-## STT
+## STT
 
 Un mémo déstiné surtout à moi-même. Tentative de receapituler les instructions de Abdel.
 
@@ -45,7 +45,7 @@ $ docker rm ID # Supprime le Docker qui a l'id spécifiée
 $ docker-compose up # Lance le docker (à lancer depuis le dir linstt-poc)
 ```
 
-#### Exemple d'un test du Docker.
+#### Exemple d'un test du Docker.
 
 Donc pendant que dans un terminal j'ai le docker qui tourne. Dans un autre je fais ça (PAR EXEMPLE)
 
