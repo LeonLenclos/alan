@@ -1,6 +1,6 @@
 # Documentation pour Alan
 
-**Attention ! cette documentation est certainement dépassée. Elle est peu consultée est rarement mise à jour ! Nous la concervons ici car elle peut servir de base pour une documentation plus serieuse.**
+**Attention ! cette documentation est certainement dépassée. Elle est peu consultée est rarement mise à jour ! Nous la conservons ici car elle peut servir de base pour une documentation plus serieuse.**
 
 ## Consignes générales de contributions
 
