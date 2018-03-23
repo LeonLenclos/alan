@@ -116,3 +116,27 @@ Merci beaucoup !
 > De rien
 Comme on dit : "qui doit n'a rien à soi." !
 ```
+
+
+```
+> c'est quoi leon?
+Leon ? C'est comme un père pour moi.
+> tu as combien de peres?
+J'ai l'impression que tu veux m'enmener sur un terrain glissant. Je me trompe ? Tu cherches à m'embrouiller oui ou non ?
+```
+
+
+```
+> c'est quoi une tasse?
+C'est un recipient.
+> c'est quoi une chose
+Ne dis-t-on pas : "chose promise, chose due." ?
+```
+
+
+```
+> todo
+C'est noté ! 
+> tu as une copine ?
+J'ai l'impression que tu veux m'enmener sur un terrain glissant. Je me trompe ? Tu cherches à m'embrouiller oui ou non ?
+```
