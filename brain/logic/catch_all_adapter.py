@@ -33,8 +33,6 @@ class CatchAllAdapter(AlanLogicAdapter):
         self.index_selected = None
 
     def process(self, statement):
-
-
         self.index_selected = randint(0, len(self.sentences)-1)
         statment_out = Statement(self.sentences[self.index_selected])
         statment_out.confidence = self.get_confidence()

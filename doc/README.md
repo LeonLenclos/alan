@@ -1,15 +1,18 @@
-# Le cerveau d'Alan
+# Documentation pour Alan
+
+**Attention ! cette documentation est certainement dépassée. Elle est peu consultée est rarement mise à jour ! Nous la concervons ici car elle peut servir de base pour une documentation plus serieuse.**
 
 ## Consignes générales de contributions
 
-Ces consignes sont destinés à fixer des règles simples de contributions pour que les quelques collaborateurs du projets puissent travailler ensemble c'est-à-dire colaborer.
+Ces consignes sont destinés à fixer des règles simples de contributions pour que les quelques collaborateurs du projets puissent travailler ensemble c'est-à-dire collaborer.
+
 Ces consignes sont vouées à évoluer. Elles peuvent être modifiées par n'importe quel collaborateur.
 
 - Bien qu'Alan soit un chatterbot francophone, rédigeons le code en anglais.
    - les noms des variables, fonctions, classes, modules en anglais
    - les commentaires en anglais
    - la documentation du code (docstrings) en anglais
-   - les issues et les deux readme du dépôt en français
+   - les issues et les readme du dépôt en français
 - Assurons nous que le fichier `alan.py` dans la branche `master` puisse toujours être exécuté sans génerer de bug.
 - Lorsque des modifications sont faites dans l'architecture du projet, ayons le reflexe de mettre à jour ce readme pour en rendre compte.
 
