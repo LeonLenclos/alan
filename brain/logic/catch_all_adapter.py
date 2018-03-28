@@ -28,13 +28,11 @@ class CatchAllAdapter(AlanLogicAdapter):
 
 
     def process_done(self, is_selected=False):
-        if is_selected and self.index_selected:
+        if is_selected and self.index_selected is not None:
             del self.sentences[self.index_selected]
         self.index_selected = None
 
     def process(self, statement):
-
-
         self.index_selected = randint(0, len(self.sentences)-1)
         statment_out = Statement(self.sentences[self.index_selected])
         statment_out.confidence = self.get_confidence()

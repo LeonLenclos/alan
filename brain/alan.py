@@ -1,24 +1,35 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
+"""
+This is Alan. You can run this module to talk with Alan.
+
+This module describe the Alan class and contain a main function called when the
+module is being run
+"""
+
 import argparse
 import json
 import re
 import os
 import sys
 import datetime
-
+import wave
 import chatterbot
+import pygame
 
 from logic import MainLogicAdapter
 from test.simple_talk import test
 
 class Alan(chatterbot.ChatBot):
     """
-    Alan is a chatbot.
+    Alan is a chatbot. It inherit the chatterbot ChatBot class.
+
+    Alan is based on chatterbot but a lot of functionalities are overwritten.
     """
 
     name = "Alan"
-    version_infos = (0, 1, 0)
+    version_infos = (1, 0, 1)
     version = '.'.join(str(version_infos))
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
@@ -58,6 +69,11 @@ class Alan(chatterbot.ChatBot):
         # Alan system attributes
         self.last_results=[]
         self.user_name = None
+
+        # init pygame.mixer in order to play wav sounds
+        pygame.mixer.init()
+        # create sound objects that Alan can play
+        self.musique_generative = pygame.mixer.Sound("./ressources/musique_generative.wav")
 
         # init chatterbot
         super().__init__(self.name, **settings)
@@ -144,7 +160,8 @@ class Alan(chatterbot.ChatBot):
                     infos += "NOT PROCESSING"
             infos += "\n---\n"
             print(infos)
-
+        if command == "music":
+            self.musique_generative.play()
 
     def learn_response(self, statement, previous_statement):
         """

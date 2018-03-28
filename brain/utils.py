@@ -67,7 +67,7 @@ def compare(s, compare_to):
         except TypeError:
             raise TypeError(
                 "string must be compared to a string or list of strings")
-    return ratio*ratio
+    return ratio ** 3
 
 
 ##############

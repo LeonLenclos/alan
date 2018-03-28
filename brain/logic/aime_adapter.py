@@ -41,7 +41,9 @@ class AimeAdapter(AlanLogicAdapter):
         if self.relation in statement.text :
             if "je" not in re.split("[Aa]ime",statement.text)[0] :
                 if "j'" not in re.split("[Aa]ime",statement.text)[0] :
-                    return True
+                    if "J'" not in re.split("[Aa]ime",statement.text)[0] :
+                        if "Je" not in re.split("[Aa]ime",statement.text)[0] :
+                            return True
         else :
             return False
 
@@ -89,7 +91,8 @@ class AimeAdapter(AlanLogicAdapter):
             else:
                 response = "%(A)s n'%(rel)s pas %(B)s."
         elif concept_A == "Alan":
-            if random.random()<0.5:
+            a=random.random()
+            if a<0.5:
                 self.chatbot.storage.store_concept_association(concept_A,
                                                             "aime", concept_B)
                 response="Oh oui j'%(rel)s %(B)s. Et toi?"
@@ -110,16 +113,19 @@ class AimeAdapter(AlanLogicAdapter):
                    ne sais pas si %(A)s (rel)s %(B)s, tu crois que c'est le cas?"
             else:
                 response = " Et bien écoute je ne sais\
-pas si %(A)s %(rel)s %(B)s, tu crois que c'est le cas?"
+  pas si %(A)s %(rel)s %(B)s, tu crois que c'est le cas?"
 
         response = response % {"A":concept_A, "B":concept_B, "C":concept_C,
         "rel":self.relation }
         response = re.sub("Alan aime","j'aime",response)
         response = re.sub("Alan n'aime","je n'aime",response)
 
-        # Verify that concept_A is non-empty or to big (more than 4 words),
+        # Verify that concept_A is non-empty or not just qu' (for example in the
+        # case of the question 'qu'aimes-tu') or to big (more than 4 words),
         #  if it is then change confidence to 0
-        if len(concept_A) == 0 or len(concept_A.split(" "))>4:
+        if len(re.sub("(qu'|que| )","",concept_A)) == 0 or len(concept_A.split(" "))>4:
+            confidence=0
+        if len(concept_B) == 0 or len(concept_B.split(" "))>4:
             confidence=0
 
 

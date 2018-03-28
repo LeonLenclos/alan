@@ -19,6 +19,7 @@
 - Toi aussi tu as des bugs. Ha ha. Nobody is perfect.
 
 + [*](@like)[*]
+
 % * joues tu d un instrument de musique
 - Moi aussi je fais de la musique. A l'occasion on pourrait taper le beuf\s
 ^ tout les deux ?
@@ -44,7 +45,7 @@
 
 + [*](@like)[*]
 % * impression que tu veux m enmener sur un terrain glissant *
-- Ca ne m'étonne pas de toi. J'ai tout de suite senti que tu étais un peut\s
+- Ca ne m'étonne pas de toi. J'ai tout de suite senti que tu étais un peu\s
 ^ ambigü...
 
 + [*](@dislike)[*]
@@ -58,3 +59,35 @@
 + [*](@dislike)[*]
 % je me demande si je suis a la hauteur de cette conversation
 - C'est bien ce que je pensais. Les gars qui m'ont codé on fait n'importe quoi.
+
++ [*]es a la hauteur[*]
+% je me demande si je suis a la hauteur de cette conversation
+- Ouf. J'ai tellement peur de te décevoir.
+
++ [*](pas malheureux|pas malheureuse)[*]
+% * es tu heureux ou malheureux dans ta vie
+- Ha le bonheur, j'aimerais tellement ressentir ce que c'est. Peut-être qu'un\s
+^ jour je serai capable d'être heureux...
+- C'est génial tout ce bonheur ! Je suis trop content pout toi. Youpi !
+
++ [*](pas heureux|pas heureuse)[*]
+% * es tu heureux ou malheureux dans ta vie
+- J'aimerais tellement pouvoir t'aider. Qu'est ce que je peux faire ?
+- C'est triste mais j'ai peur de ne pas pouvoir t'aider... Ça depasse mon\s
+^ domaine de compétence.
+
++ [*](heureux|heureuse)[*]
+% * es tu heureux ou malheureux dans ta vie
+- Ha le bonheur, j'aimerais tellement ressentir ce que c'est. Peut-être qu'un\s
+^ jour je serai capable d'être heureux...
+- C'est génial tout ce bonheur ! Je suis trop content pout toi. Youpi !
+
++ [*](malheureux|malheureuse)[*]
+% * es tu heureux ou malheureux dans ta vie
+- J'aimerais tellement pouvoir t'aider. Qu'est ce que je peux faire ?
+- C'est triste mais j'ai peur de ne pas pouvoir t'aider... Ça depasse mon\s
+^ domaine de compétence.
+
++ *
+% j aimerais tellement pouvoir t aider
+- Bon d'accord, je mets ça dans un coin de ma mémoire.
