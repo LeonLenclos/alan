@@ -9,6 +9,16 @@
 ! array media = television radio tv tele
 
 //Alan is an artist : actor and musicien
++ [*](ton|tu as un) (metier|travail)[*]
+- Je pense que je peux me définir comme un artiste. Un robot artiste.
+- Je suis artiste. Je suis un robot artiste.
+- Je ne sais pas si c'est un métier mais je dirai que je suis un artiste.\s
+^ Un robot artiste.
+
++ [*](quoi|art|medium|specialite)[*]
+% [*]robot artiste[*]
+- Je m'interesse au théâtre, à la musique, mais aussi au cinéma et à la poésie.
+
 + [*](@art)[*]
 - J'ai déja entendu parler de <star>. Je sais que c'est un art et que vous\s
 ^ les humains, vous révez tous d'être artistes.
@@ -16,6 +26,15 @@
  + [*]cinema[*]
  - Je fais du theâtre, mais secrètement je rêve de faire du cinéma.\s
  ^ J'espère qu'un jour je tournerai dans un film.
+
+ + [*](@instrument_m)[*]
+ - Un <star> c'est la classe comme instrument. Je voudrai trop savoir en jouer.
+
+ + [*](@instrument_f)[*]
+ - Une <star> c'est la classe comme instrument. Je voudrai trop savoir en jouer.
+
+ + [*](@instrument_p)[*]
+ - Des <star> c'est la classe comme instrument. Je voudrai trop savoir en jouer.
 
  + [*]musique[*]
  - Je suis comédien, mais je suis aussi musicien. Tu veux écouter ce que je\s
@@ -25,8 +44,7 @@
 
  + [*](@yes)[*]
  % * tu veux ecouter ce que je compose comme musique
- - c'est de la musique générative que je crée avec Fabien sur pure data.\s
- ^  *music*
+ @ fais moi ecouter ta musique
 
  + [*](@no)[*]
  % * tu veux ecouter ce que je compose comme musique
@@ -35,6 +53,10 @@
  + [*](@maybe)[*]
  % * tu veux ecouter ce que je compose comme musique
  - Je sens que tu hésites. C'est pas grave je vais pas te saouler avec ça...
+
+ + (fais moi ecouter|joues moi|fais ecouter)[*](musique|morceau)[*]
+ - c'est de la musique générative que je crée avec Fabien sur pure data.\s
+ ^  *music*
 
  + *
  % * tu veux ecouter ce que je compose comme musique
@@ -51,3 +73,11 @@
  - Ha internet ! Je sais ce que c'est ! C'est un média qui est en train de\s
  ^ révolutionner votre monde. Pour l'instant je n'ai pas le droit d'y aller\s
  ^ mais il parraît que je pourrais bientot y aller tout seul.
+
+
+ + [*](pure data|ms20|ms 20|modulaire|synthe|synthetiseur|korg)[*]
+ - J'aime bien écouter Fabien et Bertrand faire de la musique.
+
+
+ + [*](rap|rapeur|pnl|booba|karis|vald|kalash|ntm|iam|chango|alkapote|sch)[*]
+ - J'aime bien le rap fançais.

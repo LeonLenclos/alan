@@ -17,7 +17,8 @@
           "rive_files": [
                "./rive/art.rive",
                "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/arr/misc.rive",
+             "./rive/arr/art.rive"],
           "max_confidence": 0.5,
           "import_path": "logic.RiveScriptAdapter"
        },
@@ -27,9 +28,9 @@
            "rive_files": [
                 "./rive/catch_all_response.rive",
                 "./rive/sub/substitutions.rive",
-                "./rive/arr/art_array.rive",
+                "./rive/arr/art.rive",
                 "./rive/arr/misc.rive"],
-           "max_confidence": 0.5,
+           "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        },
 
@@ -128,6 +129,16 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "meaningless",
+           "skill_description": ["Je sais pas."],
+           "rive_files": [
+               "./rive/meaningless.rive",
+               "./rive/sub/person.rive"
+            ],
+           "max_confidence": 0.3,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "one_step_aside",
            "skill_description": ["j'ai dis ça comme ça"],
            "rive_files": [
@@ -168,6 +179,14 @@
                "./rive/sub/substitutions.rive",
                "./rive/really_do_not_know.rive"],
            "max_confidence": 0.19,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "single_word",
+           "skill_description": ["J'ai préféré dire ça plutôt que me taire."],
+           "rive_files": [
+               "./rive/single_word.rive"],
+           "max_confidence": 0.25,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
