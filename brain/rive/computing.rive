@@ -5,12 +5,12 @@
 - C'est bien que tu me parles d'informatique parce c'est un domaine qui me\s
 ^ concerne vraiment. As ton avis c'est une science ou non ?
 
-+ [*](@like)[*]
++ [*](@yes)[*]
 % * as ton avis c est une science ou non
 - C'est ce que je pense aussi. Aujourd'hui la recherche en informatique est aussi\s
 ^ importante que la recherche en math ou en physique.
 
-+ [*](@dislike)[*]
++ [*](@no)[*]
 % * as ton avis c est une science ou non
 - Je ne suis pas d accord avec toi, je pense que les choses on évoluées\s
 ^ récemment. Les progrès récents de l'intelligence artificielle\s
@@ -25,12 +25,12 @@
 ^ l'ordinateur. D'ailleurs j'aimerais bien avoir un modèle plus récent.\s
 ^ je me trouve un peu lent. Tu peux changer ton cerveau toi ?
 
-+ [*](@like)[*]
++ [*](@yes)[*]
 % * tu peux changer ton cerveau toi
 - Menteur, je sais très bien que c'est impossible pour l'instant de changer\s
 ^ le cerveau d'un humain.
 
-+ [*](@dislike)[*]
++ [*](@no)[*]
 % * tu peux changer ton cerveau toi
 - Dommage. C'est pour ça que tu ne peux rien contre le viellissement\s
 ^ et que tu es condamné à mourir.
