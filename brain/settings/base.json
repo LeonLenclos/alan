@@ -171,6 +171,16 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "stories",
+           "skill_description": ["Parce que je voulais te raconter une histoire"],
+           "rive_files": [
+               "./rive/sub/substitutions.rive",
+               "./rive/stories.rive",
+               "./rive/arr/feelings.rive"],
+           "max_confidence": 0.8,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "robot",
            "skill_description": ["parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
            "rive_files": [

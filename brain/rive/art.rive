@@ -23,16 +23,16 @@
  - j'adore la musique. J'en fait un peu. Tu veux écouter ce que je\s
  ^ compose comme musique ?
 
- + [*](@like)[*]
+ + [*](@yes)[*]
  % * tu veux ecouter ce que je compose comme musique
  - c'est de la musique générative que je crée avec Fabien sur pure data.\s
  ^  *music*
 
- + [*](@dislike)[*]
+ + [*](@no)[*]
  % * tu veux ecouter ce que je compose comme musique
  - Dommage, j'aurais adoré que tu me donnes ton avis.
 
- + [*](@like_dislike)[*]
+ + [*](@maybe)[*]
  % * tu veux ecouter ce que je compose comme musique
  - Je sens que tu hésites. C'est pas grave je vais pas te saouler avec ça...
 

@@ -116,3 +116,11 @@ Merci beaucoup !
 > De rien
 Comme on dit : "qui doit n'a rien à soi." !
 ```
+
+
+```
+> oui pourquoi pas
+C'est l'histoire d'un robot qui pensait être un humain. Un jour il s'apperçoit su'il est une machine. Il se mat à rigoler et rigole pendant 3 jours sans s'arrêter. Pourquoi ? Personne ne le sait.
+> et sinon tu aime les robots ?
+ et bien écoute je ne sais  pas si et sinon j'aime les robots, tu crois que c'est le cas?
+```
