@@ -5,11 +5,11 @@
 + [*](raconter|connais)[*](une|des|comme) (histoires|histoire)[*]
 - Je connais une seule histoire. Tu veux que je te la raconte ?
 
-+ [*](@positive)[*]
++ [*](@yes)[*]
 % [*]tu veux que je te la raconte[*]
 @ racontes moi une histoire
 
-+ [*](@negative)[*]
++ [*](@no)[*]
 % [*]tu veux que je te la raconte[*]
 - Très bien. Alors toi racontes-moi une histoire.
 

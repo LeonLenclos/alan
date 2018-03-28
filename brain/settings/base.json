@@ -176,7 +176,7 @@
            "rive_files": [
                "./rive/sub/substitutions.rive",
                "./rive/stories.rive",
-               "./rive/arr/feelings.rive"],
+               "./rive/arr/misc.rive"],
            "max_confidence": 0.8,
            "import_path": "logic.RiveScriptAdapter"
        },
