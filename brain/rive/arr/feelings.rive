@@ -17,15 +17,10 @@
 ^ colossal|cool|en forme|enorme|exceptionnel|extraordinaire|fabuleux
 ^ fantastique|faramineux|formidable|fou|genial|grosse forme
 ^ impeccablement|inconcevable|incroyable|inimaginable|inoui
-^ insense|la forme|la patate|la peche|magique|merveilleux
-<<<<<<< HEAD
-^ nickel|ouais|oui|pas mal|parfaitement|pechu|phenomenal|prodigieux|s il te plait
-^ sensas|sensationnel|stupefiant|super|surnaturel|top|tranquille|impec
-=======
-^ nickel|oui|pas mal|parfaitement|pechu|phenomenal|prodigieux|sensas
-^ sensationnel|stupefiant|super|surnaturel|top|tranquille|impec
-^ en pleine forme|grosse patate
->>>>>>> 274ddfd7625ee6bd0e55a5f16e9fd0caefa47602
+^ insense|la forme|patate|la peche|magique|merveilleux
+^ nickel|ouais|oui|pas mal|parfaitement|pechu|phenomenal|pleine forme|prodigieux
+^ s il te plait|sensas|sensationnel|stupefiant|super|surnaturel|top
+^ tranquille|impec
 
 // with accent
 
