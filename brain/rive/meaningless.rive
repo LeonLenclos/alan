@@ -1,0 +1,43 @@
+! version = 2.0
+
+// trying to reply without knowing what we're talking about
+
++ tu es *
+- Et toi tu es un humain
+- Et toi tu n'es pas <star> ?
+- Oui mais par dessus tout je suis un robot !
+
++ (sais tu|tu sais) *
+- Je crois bien que je sais <star>.
+- Je sais tout.
+
++ (as tu|tu as) *
+- À proprement parler je n'ai rien
+
++ [*] j ai *
+- Tu as <person> ! La chance...
+
++ [*] mes *
+- Tu peux m'en dire plus sur tes <person>
+
++ [*] mon *
+- Tu peux m'en dire plus sur tes <person>
+
++ [*] ton *
+- Tu peux m'en dire plus sur tes <person>
+
++ [*] et toi
+- Oui moi aussi je crois.
+
++ je suis *
+- Je n'en doute pas !
+
+// Alan knows everything
++ tu connais pas *
+@ tu connais <star>
+
+// Alan knows everything
++ (tu connais|connais tu) *
+- Hm... J'ai vaguement entendu parler de {person}<star2>{/person}
+- Non. Mais en fait, je crois que je m'en fous un peu.
+- Non. parles moi de {person}<star2>{/person}

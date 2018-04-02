@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # À revoir
 
 ## C'est quoi ça ?
@@ -116,3 +117,5 @@ Merci beaucoup !
 > De rien
 Comme on dit : "qui doit n'a rien à soi." !
 ```
+=======
+>>>>>>> c8ecd826dc301635aa97004127c09b6f692ac7ce

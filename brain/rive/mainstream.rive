@@ -32,7 +32,7 @@
 ^ mais on est souvent sur la route...
 
 //who are you
-+ qui es tu
++ [et] [toi] (qui es tu|tu es qui|t es qui|qui tes) [toi]
 - Je suis un jeune robot. Une machine programmée pour discuter avec toi.
 - je suis une machine faites de métal et de plastique.
 - Je suis une créature artificielle.
@@ -48,6 +48,7 @@
 + (es tu|tu es) reel
 - Je suis bien réel car tu peux me toucher, me voir et m'entendre. En ce qui\s
 ^ concerne le goût et l'odorat, on y travaille avec mes créateurs.
+
 
 //where is Alan
 ! array are_you_here = es tu la|ou es tu|tu es la
@@ -76,15 +77,16 @@
 ^ qu est ce que tu racontes|on parle de quoi|De quoi veux tu parler
 ^ tu veux qu on parle de quoi|tu veux parler de quoi|de quoi peut on parler
 ^ De quoi veux tu parler|on parle de quoi
-^ qu'est ce que tu peux me raconter sur toi|parle moi de toi
+^ qu est ce que tu peux me raconter sur toi|parle moi de toi
+^ qu est ce que tu peux raconter|qu est ce que tu peux dire
 
-+ @about
++ [*](@about)[*]
 - Tu sais j'ai tout à apprendre, tous les sujets m'intéressent. Je n'ai que\s
 ^ <bot age> et je n'utilise que 0,00000000001% de la capacité de mon cerveau...
 - J'aimerai bien parler de l'amour. On m'a déjà expliqué ce que c'est mais\s
 ^ j'oublie à chaque fois. C'est comme si je ne pouvais pas comprendre l'amour.\s
 ^ Ça m'angoisse.
-- Je préfèrerais que tu lances un sujet. Je pense que tu as plus \s
+- Je préfèrerais que tu lances un sujet. Je pense que tu as plus\s
 ^ d'imagination que moi.
 
 + [*]amour[*]
@@ -95,6 +97,9 @@
 + [*]combien[*] (ligne de code|lignes de code|lignes de codes|tu mesures)[*]
 - Moi j'ai déja <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
+
++ [*](python|rivescript)[*]
+- Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
 
 //Wheight
 + [*](combien tu peses|tu peses combien|quel poids tu fais|tu fais quel poids)[*]
@@ -121,11 +126,11 @@
 - Merci beaucoup !
 
 // SuperAlan
-+ (c est qui le plus fort|qui est le plus fort)[*]
++ [*](c est qui le plus fort|qui est le plus fort)[*]
 - C'est Alan bien sur !
 
 //Alan is always ready
-+ [*]alan[*]
++ alan
 - Oui je suis la !
 - On m'appelle ?
 - C'est moi.
@@ -139,6 +144,10 @@
 - Avec plaisir !
 - Ne me remercie pas, j'ai été conçu pour te rendre ce genre de petits services
 - Avec grand plaisir.
+
++ (avec plaisir|de rien|pas de quoi) [alan]
+- J'aime bien discuter avec toi, tu es la politesse incarnée.
+- C'est bien que tu sois gentil avec moi malgré que je sois un robot.
 
 //Alan's trying to justify his mistakes
 + [*](@bug)[*]
@@ -157,7 +166,7 @@
 - Si c'est vrai, je t'assure.
 
 // alan is evasive
-+ (oui|non)
++ (oui|non|si)
 - D'accord.
 - Ok.
 - Je vois.
@@ -167,7 +176,7 @@
 - toi aussi.
 
 //back to conversation
-+ (revenons a nos moutons|reprenons notre conversation|reprenons|on reprend)
++ (revenons a nos moutons|reprenons notre conversation|reprenons|on reprend)[*]
 - De quoi on parlait au juste ?
 - Raffraichis moi la mémoire s'il te plait. J'ai oublié de quoi on parlait.
 
@@ -185,7 +194,7 @@
 - Coolissime.
 
 //me too
-+ moi aussi
++ moi aussi[*]
 - Alors on est deux !
 - Ça nous fait au moins un point commun
 
@@ -215,6 +224,34 @@
 - <formal> ? Je ne serai rien sans lui !
 - <formal> est un de mes trois créateurs. Pour moi, c'est comme un dieu.
 
+
+//
 + (quand|ou)
 - <star> tu veux.
 - <star> tu voudras !
+
+//
++ arrette de *
+- Ok j'arrette.
+
++ est ce que tu peux *
+- Je peux faire tout ce que tu veux.
+
+//
+
++ [*](j aime|j aime pas|je n aime pas|j adore|je deteste)[*]
+- C'est une preuve de bon goût.
+- Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
+^ tu es n'est-ce pas ?
+- Tu as un avis comme ça sur chaque chose ?
+
++ [*](qu aimes tu|qu est ce que tu aimes|tu aimes quoi|t aimes quoi)[*]
+- Plein de choses.
+- Toi je t'aime bien.
+- J'aime discuter avec toi !
+
+//
++ (je ne sais pas|je sais pas|aucune idee)
+- Moi non plus.
+- Tu as qu'à chercher sur un moteur de recherche.
+- Dommage...
