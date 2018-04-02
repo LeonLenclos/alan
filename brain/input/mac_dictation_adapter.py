@@ -10,7 +10,7 @@ class MacDictationAdapter(InputAdapter):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.cursor = 0
-        self.max_silent_duration = 5
+        self.max_silent_duration = 0.5
         self.file_path = "tmp.txt"
 
     def process_input(self, *args, **kwargs):
@@ -44,7 +44,7 @@ class MacDictationAdapter(InputAdapter):
 
 
         speech = text
-        self.cursor += len(text)
+        self.cursor += len(text) -1
         print("End of speech :\ntext = %s (cursor = %s)" % (text, self.cursor))
 
         return Statement(speech)
@@ -58,7 +58,7 @@ class MacDictationAdapter(InputAdapter):
         return input_statement
 
     def read_file(self):
-        # with open(self.file_path, 'r') as f:
-        #     text = f.read()
-        text = check_output(['cat', self.file_path])
+        with open(self.file_path, 'r') as f:
+            text = f.read()
+        # text =  check_output(['cat', self.file_path])
         return text[self.cursor:]
