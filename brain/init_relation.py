@@ -95,7 +95,8 @@ neg_rel = [
     ("Alan", "aime", "les enfants"),
     ("les chats", "aime", "les chiens"),
     ("Alan", "aime", "les paradoxes"),
-    ("Alan", "aime", "les bugs")
+    ("Alan", "aime", "les bugs"),
+
 
 ]
 alan = alan.Alan()

@@ -17,7 +17,8 @@
           "rive_files": [
                "./rive/art.rive",
                "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/arr/misc.rive",
+             "./rive/arr/art.rive"],
           "max_confidence": 0.5,
           "import_path": "logic.RiveScriptAdapter"
        },
@@ -27,9 +28,9 @@
            "rive_files": [
                 "./rive/catch_all_response.rive",
                 "./rive/sub/substitutions.rive",
-                "./rive/arr/art_array.rive",
+                "./rive/arr/art.rive",
                 "./rive/arr/misc.rive"],
-           "max_confidence": 0.5,
+           "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        },
 
@@ -128,6 +129,16 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "meaningless",
+           "skill_description": ["Je sais pas."],
+           "rive_files": [
+               "./rive/meaningless.rive",
+               "./rive/sub/person.rive"
+            ],
+           "max_confidence": 0.3,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "one_step_aside",
            "skill_description": ["j'ai dis ça comme ça"],
            "rive_files": [
@@ -168,6 +179,24 @@
                "./rive/sub/substitutions.rive",
                "./rive/really_do_not_know.rive"],
            "max_confidence": 0.19,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "single_word",
+           "skill_description": ["J'ai préféré dire ça plutôt que me taire."],
+           "rive_files": [
+               "./rive/single_word.rive"],
+           "max_confidence": 0.25,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "stories",
+           "skill_description": ["Parce que je voulais te raconter une histoire"],
+           "rive_files": [
+               "./rive/sub/substitutions.rive",
+               "./rive/stories.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 0.8,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -312,7 +341,7 @@
                 "Hm... Ok... A ton avis je suis un robot ou un humain ?",
                 "Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie. Et toi tu passes un bon moment avec moi ?",
                 "La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?",
-                "Je suis un peu mal à l'aise avec ça, parlons d'autre chose si tu veux bien. Es tu heureux ou malheureux dans ta vie ?",
+                "Je suis un peu mal à l'aise avec ça, parlons d'autre chose si tu veux bien. Dirais-tu que ta vie est heureuse ou malheureuse en ce moment ?",
                 "Je trouve que cette conversation tourne un peu en rond.",
                 "Je préfère en rester là sur ce sujet. Parle moi de toi plutôt. Joues tu d'un instrument de musique ?",
                 "Excuse moi, je n'ai pas entendu ce que tu disais, je pensais à autre chose...",

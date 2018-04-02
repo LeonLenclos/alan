@@ -55,7 +55,8 @@ class Historic(AlanLogicAdapter):
     def process(self, statement):
 
         statment_out = Statement("")
-        confidence = compare(statement.text, self.questions)
+        confidence = compare(statement.text, self.questions)**2
+
 
         get_latest = self.chatbot.storage.get_latest_statement
         latest = get_latest(**self.get_latest_kargs)

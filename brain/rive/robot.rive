@@ -16,18 +16,18 @@
 // Alan make a bad joke
 > topic whats_a_bot
 
- + [*](@like)[*]
+ + [*](@yes)[*]
  - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
  ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
  ^ {topic=joke}
 
- + [*](@dislike)[*]
+ + [*](@no)[*]
  - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
  ^ un bourreau de travail\s
  ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
  ^ {topic=joke}
 
- + [*](@like_dislike)[*]
+ + [*](@maybe)[*]
  - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
  ^ un bourreau de travail\s
  ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
@@ -36,17 +36,17 @@
  + *
  - tu veux savoir ou tu veux pas savoir ?
 
- + [*](@like)[*]
+ + [*](@yes)[*]
  % tu veux savoir ou tu veux pas savoir
  - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
  ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
  ^ {topic=joke}
 
- + [*](@like_dislike)[*]
+ + [*](@maybe)[*]
  % tu veux savoir ou tu veux pas savoir
  - tu es tétu comme un robot buggé.
 
- + [*](@like_dislike)[*]
+ + [*](@maybe)[*]
  % tu veux savoir ou tu veux pas savoir
  - Laisse tomber t'es trop compliqué pour moi.
 
