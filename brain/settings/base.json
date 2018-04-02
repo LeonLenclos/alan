@@ -327,9 +327,8 @@
               "import_path": "logic.CatchAllAdapter"
           }
       ],
-
     "storage_adapter": "storage.AlanSQLStorageAdapter",
-    "input_adapter": "input.MacDictationAdapter",
+    "input_adapter": "chatterbot.input.TerminalAdapter",
     "output_adapter": "output.MacSayAdapter",
     "preprocessors": [
         "chatterbot.preprocessors.clean_whitespace",
