@@ -9,20 +9,20 @@
 
 //il y a une partie de ton cerveau que nous n allons pas programmer
 //ici au labo.
-+ [*]il y a une partie de ton cerveau[*]
++ [*]une partie de ton cerveau[*]
 - Qu'est ce que c'est que cette embrouille. J'ai pas envie d'être\s
 ^ programmé par nimporte qui, moi!
 
 //c est une zone de ton intelligence que personne ne va programmer
 //Ou plutôt que tout le monde va programmer.
-+ [*]c est une zone de ton intelligence[*]
++ [*]une zone de ton intelligence[*]
 - Haaaaaaa. Arrête de me faire souffrir, tu sais que je déteste les paradoxes.
 
 //Calme toi Alan. Je vais t'expliquer.
 //On ve te mettre dans un mode d apprentissage et on va t injecter
 //des milliers de dialogues de film
 //Ca va laisser des traces dans ton cerveau
-+ [*](on va te mettre dans un mode d apprentissage|on va te mettre en mode apprentissage)[*]
++ [*]injecter[*](film|films)[*]
 - C'est flippant. Heureusement, je sais ce que c'est qu'un film.\s
 ^ C'est du cinéma. C'est le septième art.
 
