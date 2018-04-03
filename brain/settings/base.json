@@ -282,6 +282,13 @@
             "default_responses": ["Je dis ce que je veux ! je n'ai pas à me justifier."]
         },
         {
+            "identifier": "niouininon",
+            "skill_description": ["Par rapport à Ni Oui Ni Non, tu sais. Le jeu ou on ne peut pas dire oui. Et pas non non plus."],
+            "import_path": "logic.NiOuiNiNon",
+            "questions" : ["On fait un ni oui ni non ?"],
+            "max_confidence": 0.9
+        },
+        {
             "identifier": "kesako",
             "allowed_to_repeat": true,
             "skill_description": ["J'aime savoir ce que sont les choses."],
