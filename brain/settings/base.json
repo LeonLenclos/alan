@@ -87,6 +87,17 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "conversation_ber_2",
+           "skill_description": ["Parce que c'est mon texte"],
+           "rive_files": [
+               "./rive/arr/synonymous.rive",
+               "./rive/sub/substitutions.rive",
+               "./rive/conversation_ber_2.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 1,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "greeting",
            "skill_description": ["Parce que toute conversation commence par un échange de politesse","Parce qu'il faut apprendre à se connaître avant toute chose"],
            "rive_files": [
