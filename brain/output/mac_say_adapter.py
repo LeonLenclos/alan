@@ -18,4 +18,5 @@ class MacSayAdapter(OutputAdapter):
         """
 
         subprocess.run(['say', statement.text])
+        print("\n%s\n" % statement.text)
         return statement

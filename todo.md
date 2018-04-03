@@ -119,3 +119,35 @@ Comme on dit : "qui doit n'a rien à soi." !
 ```
 =======
 >>>>>>> c8ecd826dc301635aa97004127c09b6f692ac7ce
+
+
+```
+> au spectacle
+au spectacle ? Les humains ont des pensees etonnantes. 
+> tu es content d'etre sur scene
+J'aimerais que tu me dises la verité. Tu l'as vu ou pas? Soit compréhensif, je n'ai que 2 mois, utilise des mots simples.
+```
+
+
+```
+> bon daccord fabien c'est ton chouchou
+Fabien ? Je ne serai rien sans lui !
+> tu en fais des tonne alan
+Alan c'est moi.
+```
+
+
+```
+> tu preferes bertrand ou une pomme
+Bertrand ? C'est comme un père pour moi.
+> info
+Voilà les informations que tu m'as demandé. 
+```
+
+
+```
+> tu veux jouer aux dames avec moi ?
+J'adore jouer, je suis un grand joueur
+> $tu connais le jeu de damme ?
+Hm... J'ai vaguement entendu parler de le jeu de damme
+```
