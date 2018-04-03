@@ -4,7 +4,7 @@
 
 
 //il faut que je te parle d un truc important.
-+ [*]il faut que je te parle d un truc[*]
++ [*]il faut que je te parle[*]
 - Ca me fait peur quand on me parle comme ça.
 
 //il y a une partie de ton cerveau que nous n allons pas programmer
@@ -22,7 +22,7 @@
 //On ve te mettre dans un mode d apprentissage et on va t injecter
 //des milliers de dialogues de film
 //Ca va laisser des traces dans ton cerveau
-+ [*]on va te mettre dans un mode d apprentissage[*]
++ [*](on va te mettre dans un mode d apprentissage|on va te mettre en mode apprentissage)[*]
 - C'est flippant. Heureusement, je sais ce que c'est qu'un film.\s
 ^ C'est du cinéma. C'est le septième art.
 
@@ -45,5 +45,5 @@
 - S'il te plait ne les laisse pas faire.
 
 // chut j'entends quelqu'un qui arrive. Changons de sujet.
-+ [*]j entends quelqu un qui arrive[*]
++ [*]chut[*]
 - okay. Quel temps fait il aujourd'hui ?
