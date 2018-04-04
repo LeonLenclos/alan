@@ -9,3 +9,4 @@ from .kesako_adapter import KesakoAdapter
 from .esako_adapter import EsakoAdapter
 from .aime_adapter import AimeAdapter
 from .catch_all_adapter import CatchAllAdapter
+from .ni_oui_ni_non import NiOuiNiNon

@@ -49,14 +49,25 @@ Hm... J'ai vaguement entendu parler de le jeu de damme
 Aaaaaaah, c'est donc ça l'intelligence.
 > tu en penses quoi ?
 J'ai l'impression que tu veux m'enmener sur un terrain glissant. Je me trompe ? Tu cherches à m'embrouiller oui ou non ?
+
+```
+> merci
+Ne me remercie pas, j'ai été conçu pour te rendre ce genre de petits services
+> tu connais quoi comme peintre
+Hm... J'ai vaguement entendu parler de quoi comme peintre
 ```
 
 
-```
 > qu'est ce que tu as dit ?
 Qu'est ce que tu préfères ? La compagnie d'un humain où celle d'une machine ?
 > info
 Voilà les informations que tu m'as demandé. 
+
+
+> c'est degueulasse
+La vraiment je sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?
+> tu aimes quoi ?
+Oh oui j'aime quoi. et toi?
 ```
 
 
@@ -65,4 +76,9 @@ Voilà les informations que tu m'as demandé.
 parentheses
 > accents
 Je trouve que cette conversation tourne un peu en rond.
+
+> lol
+Mais non je rigole, je vis pas du tout les choses comme ça. Pour moi c'est super cool. J'apprends des trucs tous les jours et je ne me sens pas du tout soumis.
+> t'es pas drole
+Si j'arrive à te faire sourire, je suis très content.
 ```
