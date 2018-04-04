@@ -33,8 +33,21 @@
 - Je n'en doute pas !
 
 // Alan knows everything
-+ tu connais pas *
++ tu connais pas * {weight=20}
 @ tu connais <star>
+
++ (tu connais|connais tu) les * {weight=10}
+- Je crois que je connais les {person}<star2>{/person}.
+- Pas tous...
+
++ (tu connais|connais tu) (le|la)  * {weight=10}
+- Je crois que je ne connais pas <star2> {person}<star3>{/person}.
+- Euh. Oui. Je connais <star2> {person}<star3>{/person}.
+
++ (tu connais|connais tu) (un|une|des)  * {weight=10}
+- Non je n'en connais aucun.
+- Oui je les connais tous et toutes !
+
 
 // Alan knows everything
 + (tu connais|connais tu) *
