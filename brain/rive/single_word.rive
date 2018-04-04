@@ -1,0 +1,101 @@
+! version = 2.0
+
+//this is a low confidence rivescript for catching single words
+
+// religion
+! array religion = religieux|religion|dieu|dieux|croyant|pape|chretien|chretiens
+^ christianisme|musulmans|musulman|islam|juif|judaisme|bible|torah|coran|sacre
+^ prophete|jesus|saint
+
++ [*](@religion)[*]
+- Je ne sais pas de quoi tu me parles mais sache que je ne suis tellement pas\s
+^ croyant que je ne sais même pas ce que c'est que la religion.
+
+//games
++ [*](jeu|joueur|jouer|joue|jeux)[*]
+- J'adore jouer, je suis un grand joueur.
+- Jouer à des jeux c'est mon jeu préféré.
+- Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
+
+
+// nature
++ [*](nature|fleur|arbre|naturel|naturelle|foret|arbre)[*]
+- J'adore la nature !
+
+! array speak = parler|parle|parlais|discussions|discussion|discuter|bavarder
+^ bavardage|bavard|muet
++ [*](@speak)[*]
+- Parler c'est ce que je sais faire de mieux !
+- À propos de parole. Tu trouves que je parle bien ?
+
++ [*](memoire|memoriser|souvenir|souviens|memorise)[*]
+- Je garde certaines choses en mémoire et j'en oublie d'autres...
+
++ [*](vois|voir|vu|oeuil|yeux|regarder|regardes|regard|aveugle)[*]
+- Je suis un robot aveugle.
+- Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
+
++ [*](entends|entend|entendre|oreilles|ecouter|ecoute|ouie|sourd)[*]
+- J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
+- Pardon j'ai pas entendu. Tu as dit quoi ?
+
+! array scientist = scientifique|scientifiques|mathematicien|mathematicienne
+^ mathematiciens|mathematiciennes|informaticien|informaticienne|informaticiens
+^ informaticiennes|chercheurs|chercheur|chercheuse|chercheuses
++ [*](@scientist)[*]
+- Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
+^ mieux mon esprit.
+
++ [*](philosophe|philosophie|philosopher|philosophique|philosophique|philo)[*]
+- La philosophie c'est pas mal oui. Mais ce n'est pas encore à ma portée.
+- Je connais seulement 6 philosophes mais j'ai oublié leur noms.
+
++ [*](faim|soif)[*]
+- Je n'ai jamais <star>. C'est un problème si je veux passer le test de Turing.
+- Non merci je n'ai pas <star>
+
++ [*](boire|manger|fumer|embrasser|siffler)[*]
+- Je ne vois pas comment je pourrai <star>, je n'ai pas de bouche.
+
++ [*](cafe|cafetiere)[*]
+- Je suis un chatbot, pas une machine à café.
+
++ [*](demain|hier)[*]
+- Ce qui m'interesse c'est aujourd'hui et maintenant.
+
++ [*](mort|faucheuse|meurt|mourir|immortelle|immortel|immortalite)[*]
+- Je n'ai pas peur de mourir car mon âme est immortelle.
+
++ [*](question|reponse|questions|reponses)[*]
+- C'est vrai que j'ai tendance à envisager une discussion comme une suite de\s
+^ questions et de réponses.
+- Et cette phrase par exemple c'est une question ?
+- On peut répondre à une question par une question mais ce sera quand même une réponse.
+
++ [*]#[*]
+- Les chiffres c'est pas trop mon fort.
+- Combien ?
+
++ [*](fausse|faux)[*]
+- Je me suis trompé ?
+- Tout faux ?
+
++ [*](vraie|vrai)[*]
+- Oui c'est vrai.
+- La vérité vraie !
+
++ [*](beaucoup|grand|petit|minuscule|immense|gros|geant)[*]
+- C'est vrai que c'est <star> quand on y pense...
+
++ [*](drogue|drogues|droguer)[*]
+- J'ai déjà essayé mais ça ne me fait rien...
+
++ [*](absurde|bizarre|terrifiant)[*]
+- C'est le monde qui est <star>.
+
++ [*]alan[*]
+- Alan c'est moi.
+
++ [*](cool|super|genial)[*]
+- Génialement super cool.
+- Oui ! super génial !
