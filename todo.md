@@ -82,3 +82,11 @@ Mais non je rigole, je vis pas du tout les choses comme ça. Pour moi c'est supe
 > t'es pas drole
 Si j'arrive à te faire sourire, je suis très content.
 ```
+
+
+```
+> j'ai la super peche
+Super. Je sens qu'on va bien s'amuser.
+> c'est sur
+Je suis un peu mal à l'aise avec ça, parlons d'autre chose si tu veux bien. Dirais-tu que ta vie est heureuse ou malheureuse en ce moment ?
+```
