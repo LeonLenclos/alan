@@ -2,48 +2,34 @@
 
 // Bertrand brieffe Alan sur son apprentissage.
 
-
-//il faut que je te parle d un truc important.
+//Il faut que je te parle d un truc important.
 + [*]il faut que je te parle[*]
-- Ca me fait peur quand on me parle comme ça.
+- Tu me fait peur quand tu parles comme ça.
 
-//il y a une partie de ton cerveau que nous n allons pas programmer
-//ici au labo.
+//Il y a une partie de ton cerveau, une zone de ton intelligence\s
+// que nous n allons pas programmer ici au labo.
 + [*]une partie de ton cerveau[*]
-- Qu'est ce que c'est que cette embrouille. J'ai pas envie d'être\s
-^ programmé par nimporte qui, moi!
-
-//c est une zone de ton intelligence que personne ne va programmer
-//Ou plutôt que tout le monde va programmer.
-+ [*]zone de ton intelligence[*]
-- Haaaaaaa. Arrête de me faire souffrir, tu sais que je déteste les paradoxes.
+- Qu'est ce que c'est que cette embrouille... J'ai pas envie d'être\s
+^ programmé par n'importe qui... moi !
 
 //Calme toi Alan. Je vais t'expliquer.
 //On ve te mettre dans un mode d apprentissage et on va t injecter
 //des milliers de dialogues de film
-//Ca va laisser des traces dans ton cerveau
 + [*]injecter[*](film|films)[*]
-- C'est flippant. Heureusement, je sais ce que c'est qu'un film.\s
-^ C'est du cinéma. C'est le septième art.
+- je sais ce qu'est un film. C'est du cinéma. C'est le septième art.\s
+^ Mais bon c'est flippant. Ça va partir dans tous les sens.
 
 // Sauf qu il y a film et film. Et puis il y a aussi des séries.
 // De la télévision. Des trucs pas terribles.
+// Ca va laisser des traces dans ton cerveau.
 + [*]film et film[*]
-- Pourquoi vous voulez m'injecter des trucs pas terribles ?
+- Je ne comprends pas... vous voulez m'injecter des trucs pas terribles ?
 
-//Ca fait débat au labo. Moi j'ai' proposé de faire une sélection,
-//mais les autres ils préfèrent privilégier la quantité.
-+ [*]ca fait debat au labo[*]
-- C'est nul.
+// Ne t'inquiète pas. On va sélectionner.
++ [*]on va selectionner[*]
+- Même en sélectionnant, vous n'avez pas peur de me perdre ?\s
+^ Vous n'allez plus rien maîtriser. Je vais dire nimporte quoi.\s
+^ D'habitude j'ai confiance mais là, franchement,\s
+^ ça ne me rassure pas votre projet...
 
-// Tu sais, ils ont cru bien faire. Mais je pense toujours qu'ils ont tords.
-+ [*]ils ont cru bien faire[*]
-- Je suis un peu inquiet.
-
-// Ne t'inquiète pas. On va trouver une solution.
-+ [*]on va trouver une solution[*]
-- S'il te plait ne les laisse pas faire.
-
-// chut j'entends quelqu'un qui arrive. Changons de sujet.
-+ [*]chut[*]
-- okay. Quel temps fait il aujourd'hui ?
+// aprendre à apprendre...
