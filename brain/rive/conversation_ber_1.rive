@@ -16,8 +16,7 @@
 //On ve te mettre dans un mode d apprentissage et on va t injecter
 //des milliers de dialogues de film
 + [*]injecter[*](film|films)[*]
-- je sais ce qu'est un film. C'est du cinéma. C'est le septième art.\s
-^ Mais bon c'est flippant. Ça va partir dans tous les sens.
+- je sais ce qu'est un film. C'est du cinéma. C'est le septième art.
 
 // Sauf qu il y a film et film. Et puis il y a aussi des séries.
 // De la télévision. Des trucs pas terribles.
@@ -28,8 +27,6 @@
 // Ne t'inquiète pas. On va sélectionner.
 + [*]on va selectionner[*]
 - Même en sélectionnant, vous n'avez pas peur de me perdre ?\s
-^ Vous n'allez plus rien maîtriser. Je vais dire nimporte quoi.\s
+^ Vous n'allez plus rien maîtriser... Je vais dire nimporte quoi...\s
 ^ D'habitude j'ai confiance mais là, franchement,\s
-^ ça ne me rassure pas votre projet...
-
-// aprendre à apprendre...
+^ ça ne me rassure pas votre projet.
