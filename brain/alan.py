@@ -29,8 +29,8 @@ class Alan(chatterbot.ChatBot):
     """
 
     name = "Alan"
-    version_infos = (1, 0, 1)
-    version = '.'.join(str(version_infos))
+    version_infos = ("1", "0", "1")
+    version = '.'.join(version_infos)
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
 
@@ -93,7 +93,7 @@ class Alan(chatterbot.ChatBot):
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
-        return "%s v%s\nBy %s" % self.name, self.version, self.author
+        return "%s v%s\nBy %s" % (self.name, self.version, self.author)
 
     def get_response(self, input_item, conversation_id=None):
         """
@@ -212,6 +212,10 @@ if __name__ == '__main__':
         # locals()[TEST_MODULE].test(alan)
     else :
         # discussion loop
+        print("---------------")
+        print(alan.status())
+        print("---------------")
+
         while True:
             try:
                 print("> ", end="")
@@ -219,3 +223,5 @@ if __name__ == '__main__':
 
             except(KeyboardInterrupt, EOFError, SystemExit):
                 break
+
+        print("---------------")

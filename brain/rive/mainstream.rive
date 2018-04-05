@@ -262,6 +262,9 @@
 - Dommage...
 
 //
++ il fait beau
+- Les oiseaux chantent.
+
 ! array who_told_you = qui t as appris|qui t as dit
 ^ qui est ce qui t as appris |qui est ce qui t as dit
 + [*](@who_told_you)(ca|cela|ce|cette|ces)[*]
