@@ -195,7 +195,7 @@ if __name__ == '__main__':
     ap = argparse.ArgumentParser()
     ap.add_argument('-v', action='store_true', help="Mode verbose (depreciated)")
     ap.add_argument('-t', action='store_true', help="Mode Test")
-    ap.add_argument('-s', nargs=1, help="Settings file json files without file extension", default="base logic")
+    ap.add_argument('-s', nargs=1, help="Settings file json files without file extension", default=["base logic"])
 
     args = ap.parse_args()
     settings_files = args.s[0].split(" ")
