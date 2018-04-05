@@ -1,7 +1,7 @@
 {
     "storage_adapter": "storage.AlanSQLStorageAdapter",
     "input_adapter": "chatterbot.input.TerminalAdapter",
-    "output_adapter": "output.MacSayAdapter",
+    "output_adapter": "output.SlowTerminal",
     "preprocessors": [
         "chatterbot.preprocessors.clean_whitespace",
         "chatterbot.preprocessors.convert_to_ascii",
