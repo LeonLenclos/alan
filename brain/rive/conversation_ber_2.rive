@@ -1,7 +1,6 @@
 ! version = 2.0
 
-// Bertrand brieffe Alan sur un gros projet dans le labo
-
+// Bertrand brieffe Alan sur le gros projet du labo
 
 + [*]bouillon[*]
 - Comment je pourrais boire du bouillon de légumes, vous m'avez même pas fait de\s
@@ -22,7 +21,6 @@
 // qu'on sera imcapable de faire la différence.
 + [*]ressemblera tellement a un humain[*]
 - Je suis chaud bouillant! Vous êtes dingues les mecs.
-
 
 // t'es partant
 + [*](t es partant|tu es partant)[*]
