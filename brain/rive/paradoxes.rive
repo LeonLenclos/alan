@@ -1,0 +1,25 @@
+! version = 2.0
+// Bertrand brieffe Alan sur son apprentissage.
+
+//Dans un village si le barbier rase tous les gens qui ne se rasent pas
+// eux memes, qui rase le barbier
++ [*]village[*]barbier[*]rase[*](eux memes|eu memes|eux memes|eu memes)[*]
+- Je connais cette question, elle n'a absolument aucun sens et en plus elle
+^ est rasoir.
+
+//Est ce que l'ensemble de tout les ensembles qui ne se contiennent pas eux
+// memes se contient a lui meme ?
+
++ [*](lensemble|ensemble)[*]
+^ (les ensembles|ensembles|ensemble)[*]
+^ (contiennent|contienent|contienne|contiene)[*]
+^ (eux memes|eu memes|eux memes|eu memes)[*]
+
+- C'est absurde, un tel ensemble ne pourrait pas exister. ... . Tu sembles
+^ chercher à me piéger, mais Bertrand m'a installé un logiciel anti paradoxes.
+
+//Si un menteur dis je mens tout le temps, est ce qu'il dit la vérité
++ [*]menteur[*](ment|mens|men)[*](temp|temps)[*](dit|dis)[*]verite[*]
+- Et bien il ment il dit la vérité il ment vérité mensonge ... . Enfin je crois
+^  ou alors enfin peut-être que LLLLLL 42 42 42 XXCVN erreur erreur
+^  XNVPRKT paradoxe paradoxeparadoxe HHHHHHHHH

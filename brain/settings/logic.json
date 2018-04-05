@@ -76,6 +76,35 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "conversation_ber_1",
+           "skill_description": ["Parce que c'est mon texte"],
+           "rive_files": [
+               "./rive/arr/synonymous.rive",
+               "./rive/sub/substitutions.rive",
+               "./rive/conversation_ber_1.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 1,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "conversation_ber_2",
+           "skill_description": ["Parce que c'est mon texte"],
+           "rive_files": [
+               "./rive/conversation_ber_2.rive"],
+           "max_confidence": 1,
+           "allowed_to_repeat": true,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "paradoxes",
+           "skill_description": ["Parce que c'est mon texte"],
+           "rive_files": [
+               "./rive/paradoxes.rive"],
+           "allowed_to_repeat": true,
+           "max_confidence": 1,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "greeting",
            "skill_description": ["Parce que toute conversation commence par un échange de politesse","Parce qu'il faut apprendre à se connaître avant toute chose"],
            "rive_files": [
@@ -105,6 +134,15 @@
                "./rive/sub/substitutions.rive",
                "./rive/arr/misc.rive"],
            "max_confidence": 0.9,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "introvaour",
+           "skill_description": ["Parce qu'il faut bien que quelqu'un fasse une intro"],
+           "rive_files": [
+               "./rive/introvaour.rive"],
+           "max_confidence": 1,
+           "allowed_to_repeat": true,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
