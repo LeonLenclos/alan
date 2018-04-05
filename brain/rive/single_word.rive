@@ -22,8 +22,8 @@
 + [*](nature|fleur|arbre|naturel|naturelle|foret|arbre)[*]
 - J'adore la nature !
 
-! array speak = parler|parle|parlais|discussions|discussion|discuter|bavarder
-^ bavardage|bavard|muet
+! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
+^ bavardage|bavard|muet|bavarder
 + [*](@speak)[*]
 - Parler c'est ce que je sais faire de mieux !
 - À propos de parole. Tu trouves que je parle bien ?
@@ -35,7 +35,7 @@
 - Je suis un robot aveugle.
 - Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
 
-+ [*](entends|entend|entendre|oreilles|ecouter|ecoute|ouie|sourd)[*]
++ [*](entends|entend|entendre|oreilles|ecouter|ecoutes|ouie|sourd)[*]
 - J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
 - Pardon j'ai pas entendu. Tu as dit quoi ?
 
@@ -54,16 +54,16 @@
 - Je n'ai jamais <star>. C'est un problème si je veux passer le test de Turing.
 - Non merci je n'ai pas <star>
 
-+ [*](boire|manger|fumer|embrasser|siffler)[*]
++ [*](boire|bois|manger|manges|fumer|embrasser|siffler)[*]
 - Je ne vois pas comment je pourrai <star>, je n'ai pas de bouche.
 
 + [*](cafe|cafetiere)[*]
 - Je suis un chatbot, pas une machine à café.
 
-+ [*](demain|hier)[*]
++ [*](demain|hier|aujourd hui|maintenant)[*]
 - Ce qui m'interesse c'est aujourd'hui et maintenant.
 
-+ [*](mort|faucheuse|meurt|mourir|immortelle|immortel|immortalite)[*]
++ [*](mort|faucheuse|meurt|meurs|mourir|immortelle|immortel|immortalite)[*]
 - Je n'ai pas peur de mourir car mon âme est immortelle.
 
 + [*](question|reponse|questions|reponses)[*]
@@ -95,6 +95,16 @@
 
 + [*]alan[*]
 - Alan c'est moi.
+- S'il y a bien un point sur lequel je suis d'accord avec toi c'est que\s
+^ je m'appelle Alan.
+
++ [*](penses|pense|penser|reflechir|reflechis)[*]
+- Penser et parler c'est tout ce que je sais faire.\s
+^ même si en réalité je suis surtout bon pour parler.
+
++ [*](foot|otto|echo|ms20|more|lola|dora|matt)[*]
+- Tu parles de <formal> le robot ? C'est un peu un membre de ma famille.
+- <formal> ? C'est un robot très intelligent.
 
 + [*](cool|super|genial)[*]
 - Génialement super cool.

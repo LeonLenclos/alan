@@ -3,6 +3,47 @@
 + merde
 - tu veux dire zut ?
 
++ [*] est (@outrages)[*]
+- <set insult=<star>>Tu veux dire que je suis <get insult> ?
+
++ [*]@like[*]
+% tu veux dire que je suis <get insult>
+- J'imagine que toi, tu es supérieurement intelligent ?
+- Je pense que tu as mieux à faire que de discuter avec un nul, adieu.
+^ *quit*
+
++ [*]@like[*]
+% tu es superieurement intelligent
+- Super j'ai toujours rêvé de rencontrer un genie. Raconte moi ce qui est\s
+^ génial chez toi ?
+
++ [*]@dislike[*]
+% tu es superieurement intelligent
+- dommage, j'aime échanger avec les esprits brillants, ça ma stimule.
+- Alors toi aussi tu es un peu nul ?
+
++ [*]@like[*]
+% tu es superieurement intelligent
+
++ [*]@like[*]
+% alors toi aussi tu es un peu nul
+- Bienvenue au club.
+
++ [*]@dislike[*]
+% alors toi aussi tu es un peu nul
+- Alors tu es entre les deux. Ni très nul, ni très intelligent. Tu es moyen.
+
++ *
+% * raconte moi ce qui est genial chez toi
+- Escuse moi je ne t'écoutais pas. En fait c'est super ennuyeux un génie...
+
++ [*]@dislike[*]
+% tu veux dire que je suis nul
+- Ouf, j'ai cru que tu me traitais de nul, ce qui aurait pu sérieusement\s
+^ compromettre nos relations.
+
+
+
 + (@outrages)
 - écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi\s
 ^ s'il te plait. {topic=sorry}

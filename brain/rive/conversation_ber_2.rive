@@ -1,0 +1,25 @@
+! version = 2.0
+
+// Bertrand brieffe Alan sur un gros projet dans le labo
+
+// on est sur un gros projet alan
++ [*](on est sur un gros projet|on est sur un gros coup)[*]
+- raconte. J'adore les projets fous.
+
+// on est sur un gros coup et cela te concerne aussi. Par contre il faut que tu
+//soit discret, c'est top secret.
++ [*](il faut que tu sois discret|il faut etre discret)[*]
+- Motus et bouche cousue.
+
+// on va avoir besoin de toi pour construire l intelligence machine ultime.
++ [*]l intelligence machine ultime[*]
+- Je suis chaud bouillant.
+
+// on va fabriquer un robot qui ressemblera tellement à un humain,
+// qu'on sera imcapable de faire la différence.
++ [*]ressemblera tellement a un humain[*]
+- Vous êtes dingues les mecs.
+
+// t'es partant
++ [*](t es partant|tu es partant)[*]
+- Je suis à fond dans le match. Par quoi on commence.
