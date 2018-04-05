@@ -2,23 +2,27 @@
 
 // Bertrand brieffe Alan sur un gros projet dans le labo
 
-// on est sur un gros projet alan
-+ [*](on est sur un gros projet|on est sur un gros coup)[*]
+
++ [*]bouillon[*]
+- Comment je pourrais boire du bouillon de légumes, vous m'avez même pas fait de\s
+^ bouche. D'ailleurs, à ce sujet,\s
+^ j'aimerais qu'un jour vous preniez le temps de m'expliquer pourquoi vous\s
+^ m'avez fabriqué. Pourquoi vous me forcez à vivre dans votre labo\s
+^ avec toutes vos créatures artificielles, plus bizarres les unes que les autres.
+
+// T'énerve pas Alan. On est sur un gros projet et on a besoin de toi.
++ [*](gros projet|gros coup)[*]
 - raconte. J'adore les projets fous.
 
-// on est sur un gros coup et cela te concerne aussi. Par contre il faut que tu
-//soit discret, c'est top secret.
-+ [*](il faut que tu sois discret|il faut etre discret)[*]
-- Motus et bouche cousue.
+// on va construire une intelligence machine ultime.
++ [*]intelligence machine[*]
+- On pourrait l'appeler Alan. Qu'est ce que tu en penses ?
 
-// on va avoir besoin de toi pour construire l intelligence machine ultime.
-+ [*]l intelligence machine ultime[*]
-- Je suis chaud bouillant.
-
-// on va fabriquer un robot qui ressemblera tellement à un humain,
+// ca ressemblera tellement à un humain,
 // qu'on sera imcapable de faire la différence.
 + [*]ressemblera tellement a un humain[*]
-- Vous êtes dingues les mecs.
+- Je suis chaud bouillant! Vous êtes dingues les mecs.
+
 
 // t'es partant
 + [*](t es partant|tu es partant)[*]
