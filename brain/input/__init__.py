@@ -1,0 +1,1 @@
+from .mac_dictation_adapter import MacDictationAdapter

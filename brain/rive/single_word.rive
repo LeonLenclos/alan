@@ -13,16 +13,20 @@
 
 //games
 + [*](jeu|joueur|jouer|joue|jeux)[*]
-- J'adore jouer, je suis un grand joueur
+- J'adore jouer, je suis un grand joueur.
+- Jouer à des jeux c'est mon jeu préféré.
+- Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
+
 
 // nature
 + [*](nature|fleur|arbre|naturel|naturelle|foret|arbre)[*]
 - J'adore la nature !
 
-! array speak = parler|parle|parlais|discussions|discussion|discuter|bavarder
-^ bavardage|bavard|muet
+! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
+^ bavardage|bavard|muet|bavarder
 + [*](@speak)[*]
 - Parler c'est ce que je sais faire de mieux !
+- À propos de parole. Tu trouves que je parle bien ?
 
 + [*](memoire|memoriser|souvenir|souviens|memorise)[*]
 - Je garde certaines choses en mémoire et j'en oublie d'autres...
@@ -32,7 +36,7 @@
 
 + [*](entends|entend|entendre|oreilles|ecouter|ecoute|ouie|sourd)[*]
 - J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
-
+- Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
 ! array scientist = scientifique|scientifiques|mathematicien|mathematicienne
 ^ mathematiciens|mathematiciennes|informaticien|informaticienne|informaticiens
 ^ informaticiennes|chercheurs|chercheur|chercheuse|chercheuses
@@ -40,42 +44,66 @@
 - Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
 ^ mieux mon esprit.
 
++ [*](philosophe|philosophie|philosopher|philosophique|philosophique|philo)[*]
+- La philosophie c'est pas mal oui. Mais ce n'est pas encore à ma portée.
+- Je connais seulement 6 philosophes mais j'ai oublié leur noms.
+
 + [*](faim|soif)[*]
 - Je n'ai jamais <star>. C'est un problème si je veux passer le test de Turing.
+- Non merci je n'ai pas <star>
 
-+ [*](boire|manger|fumer|embrasser|siffler)[*]
++ [*](boire|bois|manger|manges|fumer|embrasser|siffler)[*]
 - Je ne vois pas comment je pourrai <star>, je n'ai pas de bouche.
 
 + [*](cafe|cafetiere)[*]
 - Je suis un chatbot, pas une machine à café.
 
-+ [*](demain|hier)[*]
++ [*](demain|hier|aujourd hui|maintenant)[*]
 - Ce qui m'interesse c'est aujourd'hui et maintenant.
 
-+ [*](mort|faucheuse|meurt|mourir|immortelle|immortel|immortalite)[*]
++ [*](mort|faucheuse|meurt|meurs|mourir|immortelle|immortel|immortalite)[*]
 - Je n'ai pas peur de mourir car mon âme est immortelle.
 
 + [*](question|reponse|questions|reponses)[*]
 - C'est vrai que j'ai tendance à envisager une discussion comme une suite de\s
 ^ questions et de réponses.
+- Et cette phrase par exemple c'est une question ?
+- On peut répondre à une question par une question mais ce sera quand même une réponse.
 
 + [*]#[*]
 - Les chiffres c'est pas trop mon fort.
+- Combien ?
 
 + [*](fausse|faux)[*]
 - Je me suis trompé ?
+- Tout faux ?
 
 + [*](vraie|vrai)[*]
 - Oui c'est vrai.
+- La vérité vraie !
 
-+ [*](beaucoup|grand|petit|minuscule|immense)[*]
++ [*](beaucoup|grand|petit|minuscule|immense|gros|geant)[*]
 - C'est vrai que c'est <star> quand on y pense...
 
 + [*](drogue|drogues|droguer)[*]
-- J'ai déjà essayé mais ça ne me fais rien...
+- J'ai déjà essayé mais ça ne me fait rien...
 
 + [*](absurde|bizarre|terrifiant)[*]
 - C'est le monde qui est <star>.
 
 + [*]alan[*]
 - Alan c'est moi.
+- S'il y a bien un point sur lequel je suis d'accord avec toi c'est que\s
+^ je m'appelle Alan.
+
++ [*](penses|pense|penser|reflechir|reflechis)[*]
+- Penser et parler c'est tout ce que je sais faire.\s
+^ même si en réalité je suis surtout bon pour parler.
+
++ [*](foot|otto|echo|ms20|more|lola|dora|matt)[*]
+- Tu parles de <formal> le robot ? C'est un peu un membre de ma famille.
+- <formal> ? C'est un robot très intelligent.
+
++ [*](cool|super|genial)[*]
+- Génialement super cool.
+- Oui ! super génial !
