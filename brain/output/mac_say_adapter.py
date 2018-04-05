@@ -16,7 +16,7 @@ class MacSayAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The response statement.
         """
-
-        subprocess.run(['say', statement.text])
+        
         print("\n%s\n" % statement.text)
+        subprocess.run(['say', statement.text])
         return statement
