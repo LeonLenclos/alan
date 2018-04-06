@@ -46,11 +46,9 @@ class Alan(chatterbot.ChatBot):
             with open("settings/%s.json" % settings_file, "r") as file:
                 file_settings = json.load(file)
                 for k in file_settings:
-                    print(k)
                     settings[k] = file_settings[k]
 
-        print(settings)
-
+ 
         # Alan age
         self.age = ""
         age_time = datetime.datetime.now() - self.birth

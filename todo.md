@@ -14,3 +14,27 @@ Et bien il ment il dit la vérité il ment vérité mensonge ... . Enfin je croi
 > todeo
 Excuse moi, je n'ai pas entendu ce que tu disais, je pensais à autre chose...
 ```
+
+
+```
+> alan tu connais ton nom ?
+"avoir un nom à coucher dehors."
+> alan tu connais ton prenom ?
+Tu peux m'en dire plus sur tes prenom
+```
+
+
+```
+> tu connais une blague ?
+Non je n'en connais aucun.
+> aucune =
+Pardon j'ai décroché. J'étais perdu dans mes pensées.
+```
+
+
+```
+> f6
+ hem... ça va sinon ?
+> pas mal
+Mal ? Qu'est ce qu'il se passe ? Tu as tes règles ?
+```
