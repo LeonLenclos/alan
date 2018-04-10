@@ -69,7 +69,6 @@
            "skill_description": ["Parce qu'un compliment fait toujours plaisir."],
            "rive_files": [
                "./rive/arr/synonymous.rive",
-               "./rive/sub/substitutions.rive",
                "./rive/computing.rive",
                "./rive/arr/misc.rive"],
            "max_confidence": 0.5,

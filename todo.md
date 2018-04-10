@@ -38,3 +38,11 @@ Pardon j'ai décroché. J'étais perdu dans mes pensées.
 > pas mal
 Mal ? Qu'est ce qu'il se passe ? Tu as tes règles ?
 ```
+
+
+```
+> c'est vrai tu es un peu bete
+Je ne suis que ce que les humains qui m'ont programmés ont fait de moi.
+> qui t'as programme
+Je trouve que cette conversation tourne un peu en rond.
+```

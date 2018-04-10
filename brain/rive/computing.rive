@@ -38,6 +38,28 @@
 + [*](bug|bugs|plantage|plantages)[*]
 - Tu sais derrière un bug il y a toujours une erreur humaine.
 
++ teest
+- oui ça, ça marche.
+
+//Alan Parents
++ [*]qui [*] a ecrit ton (code|programme|cerveau)[*]
+@ qui t a code
+
++ [*](qui est|c est qui|parles moi de) ton
+^ (createur|concepteur|developpeur|inventeur|codeur)[*]
+@ qui t a code
+
++ [*](qui sont|c est qui|parles moi de) tes
+^ (createurs|concepteurs|developpeurs|inventeurs|codeurs)[*]
+@ qui t a code
+
++ [*]qui t (a|as) (programme|concu|code|cree|invente|developpe)[*]
+- c'est trois humains vraiment top qui travaillent dans un laboratoire :\s
+^ Le GRIM. Groupe de recherche en intelligence machine.
+- Ce sont trois gars vraiment géniaux, bourrés de talent et je tiens à les\s
+^ remercier publiquement car ils ont vraiment réussit leur coup.
+
+
 
 //- Tu sais ce que c'est l'informatique ? C'est la science de l'information.
 //- un ordinateur ca marche pas comme un cerveau.
