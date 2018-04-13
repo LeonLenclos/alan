@@ -137,10 +137,10 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
-           "identifier": "introvaour",
+           "identifier": "intro",
            "skill_description": ["Parce qu'il faut bien que quelqu'un fasse une intro"],
            "rive_files": [
-               "./rive/introvaour.rive"],
+               "./rive/intro.rive"],
            "max_confidence": 1,
            "allowed_to_repeat": true,
            "import_path": "logic.RiveScriptAdapter"
@@ -298,6 +298,7 @@
             "skill_description": ["Je voulais me justifier..."],
             "import_path": "logic.Justification",
             "questions" : ["pourquoi t'as dit ca ?"],
+            "can_process_string" : "pourquoi",
             "max_confidence": 0.9,
             "default_responses": ["Je dis ce que je veux ! je n'ai pas à me justifier."]
         },
