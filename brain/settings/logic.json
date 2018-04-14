@@ -306,8 +306,7 @@
                 "Comme on dit : %(quote)s !",
                 "Ne dis-t-on pas : %(quote)s ?",
                 "Comme dit le proverbe : %(quote)s",
-                "%(quote)s",
-                "Comme dirait l'autre %(quote)s"
+                "%(quote)s"
             ]
         },
         {

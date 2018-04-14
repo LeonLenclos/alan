@@ -53,3 +53,12 @@
 - hem... J'ai vaguement entendu parler de {person}<star2>{/person}
 - Non. Mais en fait, je crois que je m'en fous un peu.
 - Non. parles moi de {person}<star2>{/person}
+
+// au
++ je suis au _
+- Je ne suis jamais allé au <star>.
+- Hem... Où est-ce que c'est le <star> ?
+
++ je suis a la _
+- Je ne suis jamais allé à la <star>
+- Ham... Où est-ce que c'est la <star>
