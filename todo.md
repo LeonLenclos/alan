@@ -94,3 +94,11 @@ Comme dirait l'autre "qui aime bien, châtie bien."
 > ne t'inquiete pas on t'aime
 Comme on dit : "qui m’aime me suive." !
 ```
+
+
+```
+> tu fais quelle taille ?
+Est ce que tu peux reformuler ça autrement s'il te plait ?
+> combien tu mesures
+Moi j'ai déja 5140 lignes de code, mais je n'ai pas encore fini ma croissance.
+```
