@@ -6,7 +6,7 @@ __pycache__/
 database.*
 
 # Todos
-todo.md
+todo*
 
 # Pour les mac
 .DS_Store

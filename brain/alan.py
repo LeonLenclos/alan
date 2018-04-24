@@ -162,7 +162,7 @@ class Alan(chatterbot.ChatBot):
         self.logger.info('command "{}" passed by Alan'.format(command))
         if command == 'quit': sys.exit()
         if command == 'todo':
-            with open("../todo.md", "a") as f:
+            with open("../todo", "a") as f:
                 f.write("\n\n```\n> %s\n%s\n> %s\n%s\n```\n"
                     % tuple([self.storage.get_latest_statement(offset=i+2)
                     for i in reversed(range(4))]))
