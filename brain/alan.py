@@ -41,14 +41,11 @@ class Alan(chatterbot.ChatBot):
         """
 
         # load settings
-        settings = {}
+        self.settings = {}
         for settings_file in settings_files:
-            with open("settings/%s.json" % settings_file, "r") as file:
-                file_settings = json.load(file)
-                for k in file_settings:
-                    settings[k] = file_settings[k]
+            self.load_settings(settings_file)
 
- 
+
         # Alan age
         self.age = ""
         age_time = datetime.datetime.now() - self.birth
@@ -81,12 +78,33 @@ class Alan(chatterbot.ChatBot):
         self.musique_generative = pygame.mixer.Sound("./ressources/musique_generative.wav")
 
         # init chatterbot
-        super().__init__(self.name, **settings)
+        super().__init__(self.name, **self.settings)
 
         # change from MultiLogicAdapter to MainLogicAdapter
         adapters = self.logic.get_adapters()[:-1]
-        self.logic = MainLogicAdapter(**settings, chatbot=self)
+        self.logic = MainLogicAdapter(**self.settings, chatbot=self)
         self.logic.adapters = adapters
+
+    def load_settings(self, settings_file):
+        """
+        Load settings from a file to the settings attribute
+        settings_file is a string, the name of the json file without extension
+        """
+        with open("settings/%s.json" % settings_file, "r") as file:
+            # load json
+            file_settings = json.load(file)
+
+            # loop keys
+            for k in file_settings:
+                # if import, do load_settings (recursive)
+                if k == 'import':
+                    for import_file in file_settings[k]:
+                        self.load_settings(import_file)
+                # else, add setting to self.settings
+                elif k in self.settings and type(self.settings[k]) == list:
+                    self.settings[k] += file_settings[k]
+                else:
+                    self.settings[k] = file_settings[k]
 
 
     def status(self):
@@ -182,7 +200,6 @@ class Alan(chatterbot.ChatBot):
                 previous_statement.text
             ))
 
-        # Save the statement after selecting a response
 
 if __name__ == '__main__':
 
@@ -191,10 +208,10 @@ if __name__ == '__main__':
     ap = argparse.ArgumentParser()
     ap.add_argument('-v', action='store_true', help="Mode verbose (depreciated)")
     ap.add_argument('-t', action='store_true', help="Mode Test")
-    ap.add_argument('-s', nargs=1, help="Settings file json files without file extension separed with spaces", default=["base logic"])
+    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["default"])
 
     args = ap.parse_args()
-    settings_files = args.s[0].split(" ")
+    settings_files = args.s
 
     # Mode verbose
     if args.v:
