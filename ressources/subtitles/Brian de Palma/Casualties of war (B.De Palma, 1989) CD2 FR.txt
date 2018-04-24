@@ -1,0 +1,448 @@
+{78}{123}Moi, je la hais.
+{245}{313}Ça c'est pas l'armée.
+{355}{408}C'est pas l'armée,sergent.
+{642}{752}Bien que je traverse|la vallée du mal...
+{757}{807}je ne craindrai pas la mort.
+{954}{1042}parce que je suis le plus grand|salopard de la vallée.
+{1532}{1604}C'est une bande de ces rabougris.
+{1657}{1704}Et voilà !
+{1709}{1797}Alors ? Vous voulez les faire valser ?
+{2419}{2487}Il se passe quelque chose là.
+{2494}{2552}Peut-être qu'ils pêchent.
+{2702}{2767}Allez tous les deux à la cabane.
+{2772}{2847}Ramenez des munitions|et des grenades fumigènes.
+{2852}{2922}Diaz, appelle, demande du renfort.
+{2927}{2969}Didi mau messieurs.
+{3037}{3124}Big Brother 0-2, ici Jumeau 0-2.
+{3374}{3442}Bordel de merde !
+{3447}{3574}Je méritais pas ça !|J'en ai marre de garder cette pute.
+{3787}{3822}Qu'est-ce qu'il y a ?
+{3827}{3917}- On prend des munitions.|- Ça va chauffer.
+{3922}{3989}- Où est Meserve ?|- Sur la crête.
+{3994}{4032}Et moi ?
+{4037}{4132}Je garde la pute|pendant que vous les butez ?
+{4257}{4302}Qu'est-ce qu'il a dit pour moi ?
+{4362}{4419}Il n'a rien dit.
+{4427}{4507}D'accord. Alors c'est moi qui le dis.
+{4512}{4562}Je dis: j'y vais mec.
+{4567}{4642}Eriksson, tu restes ici.
+{4657}{4762}- Je dois y aller.|- Je veux en buter moi aussi.
+{4767}{4832}Je ne veux pas rater ça. Prêt ?
+{4837}{4947}- Ça ne plaira pas à Meserve.|- Je suis un caporal soldat.
+{4952}{5032}Reste. File-moi le lance-roquettes.
+{5139}{5227}- Didi, Hatch.|- On va tuer du niacoué.
+{5232}{5277}Putain oui.
+{6349}{6397}C'est fini.
+{6499}{6572}C'est fini. Je ne te ferai rien.
+{6752}{6817}Je ne vais pas te faire mal.
+{6822}{6897}Je veux juste te détacher.
+{7089}{7127}Juste une minute.
+{7162}{7197}D'accord.
+{7417}{7462}Mon Dieu !
+{7582}{7627}Je suis désolé.
+{7799}{7844}Mes amis...
+{7877}{7914}sont des pourris.
+{8012}{8077}Tu es malade, hein ?
+{8084}{8127}Tu es malade ?
+{8239}{8277}Tout va bien.
+{8446}{8523}Mince, tu es brûlante de fièvre.
+{8611}{8656}Tu es brûlante.
+{8733}{8796}Tu as faim ? Faim, manger ?
+{8801}{8931}Manger, d'accord ? Génial.|Je te prends quelque chose.
+{8981}{9038}D'accord ? D'accord.
+{9086}{9176}Génial. C'est bon, c'est bon.
+{9588}{9631}Oui, c'est bon.
+{9753}{9831}Doucement, bois lentement.
+{10031}{10083}Je ne comprends pas.
+{10266}{10346}Je ne comprends pas ce que tu dis.
+{10378}{10441}Je ne comprends pas ce que tu dis.
+{10906}{10976}- Alors ?|- Qu'est-ce que tu fais là ?
+{10981}{11048}- Ça va chauffer ?|- Et Eriksson ?
+{11053}{11151}- A la cabane.|- Tu l'as laissé avec la pute ?
+{11158}{11186}Ça va pas ?
+{11191}{11316}Va le chercher et ramène|immédiatement tout ce qu'on a ici.
+{11333}{11376}Je dois tout faire ?
+{12126}{12216}Je t'emmène loin d'ici. D'accord ?
+{12221}{12293}Toi, toi.
+{12298}{12411}Toi, moi, on s'en va.|On va didi. D'accord ?
+{12626}{12671}On va à la maison.
+{12881}{12921}A la maison.
+{12951}{13018}On rentre au village. Au village.
+{13536}{13586}Dieu merci.
+{13673}{13746}Oui, d'accord. On va à la maison.
+{13968}{14011}Attends.
+{14036}{14136}Je peux pas partir.|Toi vas-y ! Va !
+{14153}{14228}Je peux pas ! Je serais un déserteur.
+{14261}{14318}Va-t'en ! Va-t'en !
+{14446}{14531}Je suis désolé ! Moi je peux pas !
+{14536}{14586}Tu comprends pas !
+{14773}{14846}Oh zut ! D'accord.
+{15206}{15253}Qu'est-ce que tu fais ?
+{15301}{15351}Rien.
+{15383}{15426}Rien.
+{15481}{15541}Meserve veut qu'on vienne tous.
+{16940}{16995}Ferme ta gueule !
+{17117}{17205}Elle va nous trahir|à force de tousser.
+{17285}{17370}Faut la buter. Elle va nous griller.
+{17532}{17645}- Eriksson, descends cette salope.|- Quoi ?
+{17667}{17727}Tu as entendu, bute-la.
+{17775}{17815}Un autre bateau.
+{17950}{18065}Appelle Reilly pour du renfort:|je veux tout le merdier.
+{18070}{18122}A vos ordres.
+{18127}{18225}Big Brother 0-2,|ici Jumeau 0-2, terminé.
+{18230}{18280}Alors tu la butes.
+{18290}{18365}Je ne vois pas de quoi vous parlez.
+{18420}{18495}- Tue la salope.|- Vous êtes fou !
+{18500}{18565}Et Brownie vous engueulerait.
+{18570}{18645}Il ne supporterait pas ces conneries !
+{18650}{18720}Brownie est plus sur ma fréquence.
+{18725}{18812}Il est mort.|Toi t'es sur ma fréquence !
+{18820}{18905}Sinon tu crèveras|comme les niacoués !
+{18922}{19030}Laissez-la partir !|Elle ne fera rien, qu'elle parte !
+{19055}{19115}- Hatcher, bute-la.|- Quoi ?
+{19122}{19195}- Je vais le faire.|- Non Hatcher.
+{19200}{19297}- Pourquoi ?|- Connard ! Fais ce que je dis.
+{19302}{19345}Je veux pas.
+{19452}{19505}Des hélicos sergent !
+{19520}{19557}Bon Dieu de merde !
+{19640}{19692}Ils vont la voir.
+{19727}{19775}Faut l'éliminer.
+{19780}{19850}Les hélicos vont encercler la zone.
+{19855}{19890}Diaz !
+{19905}{19967}- Fais-le !|- Je m'en charge.
+{19972}{20055}- Diaz va le faire. Allez !|- Diaz, non.
+{20060}{20147}- Mauviette ! Sois un homme !|- Ne le fais pas.
+{20152}{20250}- Sois un homme ! Fais-le !|- Le fais pas !
+{20280}{20345}- Fais-le !|- Te laisse pas faire.
+{20350}{20400}- Non !|- Fais-le !
+{20417}{20497}Fais-le ! Espèce de merde, fais-le !
+{20502}{20592}- Diaz ! Diaz !|- Fais-le !
+{20597}{20652}- Fais-le !|- Non !
+{20740}{20835}Plus la peine de s'en faire|si elle tousse !
+{21207}{21275}Eriksson, reste ici !
+{21280}{21340}Les autres, venez ! Couvre-nous !
+{21345}{21400}On est dans la merde.
+{21410}{21500}Pas de prisonniers,|comptez les morts !
+{22325}{22410}C'est quoi ça ? Regardez sergent !
+{22457}{22505}Une canonnière !
+{22542}{22585}Elle a eu son compte.
+{23060}{23135}Tout le monde sur le flanc droit !
+{23140}{23235}Echange avec moi Hatch. Allez !
+{23790}{23885}Prenez ça enfoirés ! Prenez ça !
+{24744}{24774}Mon Dieu !
+{24949}{25009}- Elle s'échappe !|- Non !
+{25084}{25151}Elle s'échappe !
+{25164}{25209}Elle s'échappe !
+{25214}{25326}La salope !|J'ai frappé plus de deux fois !
+{25461}{25504}Descendez-la !
+{25509}{25564}- Non !|- Descendez-la !
+{25654}{25694}Tirez !
+{25779}{25824}Tirez !
+{25884}{25934}Tirez !
+{26496}{26549}Faisons des signaux !
+{30796}{30849}Rowan ! Rowan !
+{30889}{30969}Ils l'ont fait. On n'y croyait pas...
+{30974}{31034}mais si, ils l'ont tuée.
+{31039}{31121}- La fille ?|- Ça ne devrait pas arriver.
+{31176}{31274}On arrive au village.|On entre comme ça...
+{31281}{31349}et ils prennent la fille.
+{31354}{31416}Ils la baisent et ils la tuent.
+{31421}{31454}Seigneur.
+{31461}{31536}Ça ne devrait pas arriver, ça.
+{31551}{31606}Hatcher se met à parler...
+{31610}{31705}Hatcher se met à parler|de Gengis Khan.
+{31710}{31778}- Meserve parle de me tuer.|- Clark ?
+{31783}{31818}- Il est fou.|- Il est là.
+{31828}{31923}Eriksson, qu'est-ce que|tu lui racontes ?
+{31970}{32038}J'ai le droit de parler avec lui.
+{32043}{32135}On doit pas raconter|ce qui arrive au combat.
+{32143}{32225}Tu le sais, tout le monde le sait.
+{32310}{32388}Où est Meserve ? Il est revenu ?
+{32438}{32525}Qu'est-ce qui s'est passé ?|Tu as disparu.
+{32538}{32590}On m'a ramené en hélico.
+{32598}{32678}- On doit se rassembler...|- Me tire pas !
+{32683}{32740}Ne me tire pas.
+{32763}{32808}Dans une heure dit Reilly.
+{32813}{32880}- J'y serai.|- T'as intérêt bleu.
+{32885}{32943}Ils sont durs les Viêt-congs.
+{32948}{33013}On nous a dit de rester en alerte.
+{33018}{33083}J'ai dit que je l'étais toujours.
+{33098}{33190}- Tu l'as vu ?|- C'était pas net du tout.
+{33195}{33313}Si je repars avec eux,|je reviens dans un sac.
+{33318}{33368}Faut que tu parles à quelqu'un.
+{33388}{33423}A qui ?
+{33428}{33503}- A Reilly.|- Hill est le capitaine.
+{33510}{33570}Dis-le d'abord à Reilly.
+{33590}{33618}D'accord.
+{33623}{33733}Quand je suis né|ma mère a ronchonné.
+{33738}{33828}J'ai fusé et j'ai regardé|autour de moi.
+{33835}{33948}" Merde" je fais,|"c'est Two Creeks, au Texas."
+{33993}{34098}Il y a environ huit ans,|je suis encore là-bas.
+{34103}{34183}Ma femme va accoucher|de notre 1er enfant.
+{34190}{34285}Je l'emmène à l'hôpital,|c'est tout naturel.
+{34290}{34420}Et on n'a pas accepté de la prendre|à cause de sa race.
+{34440}{34558}A savoir, comme tu peux|le deviner, nègre.
+{34575}{34663}Seulement le bébé ne veut plus attendre.
+{34678}{34753}Et mon fils est né par terre...
+{34758}{34828}dans la salle d'accueil de l'hôpital.
+{34873}{34978}Eriksson, j'ai complètement|perdu la boule.
+{35003}{35083}J'ai commencé à renverser|des chaises...
+{35088}{35138}puis des lampes.
+{35143}{35223}Je me suis vite retrouvé en prison.
+{35278}{35400}Pourtant, est-ce que je n'étais pas|dans mon bon droit ?
+{35528}{35588}Qu'est-ce que je faisais en prison ?
+{35628}{35743}Ce que je faisais, écoute-moi bien...
+{35763}{35873}c'était de décider de buter|ces salauds de l'hôpital.
+{35898}{35953}Voilà ce que je faisais.
+{35988}{36033}Mais tu sais...
+{36050}{36110}ils ont dû lire mes pensées...
+{36115}{36240}ils m'ont gardé en prison|jusqu'à ce que je change d'avis.
+{36253}{36333}En sortant|je voulais voir seulement...
+{36338}{36415}mon enfant et ma femme.
+{36590}{36665}Et j'ai commencé à me dire...
+{36703}{36813}que c'était arrivé|parce que c'est comme ça.
+{36825}{36933}A quoi bon se rebiffer|contre le système ?
+{37010}{37065}Voilà ce que je vais faire.
+{37098}{37218}Je vais dissoudre votre équipe|et vous séparer tous.
+{37263}{37368}- Je pense que...|- Ne pense pas ! Ecoute.
+{37383}{37503}Tu ferais mieux de te calmer|et d'oublier tout ça.
+{37545}{37640}Faut pas s'attendre|à autre chose au combat.
+{37693}{37743}C'est clair ?
+{37843}{37928}Oui lieutenant.
+{38148}{38263}J'échangerais bien du poulet désossé|contre du gâteau.
+{38268}{38383}- On tuerait pour garder le gâteau.|- Tout le monde dit ça.
+{38388}{38493}On a tué pour de vrai|pour garder le gâteau.
+{38708}{38795}A ma place qu'est-ce que|tu aurais fait ?
+{38803}{38853}Comment ça ?
+{38875}{38978}Ben à ma place,|qu'est-ce que tu aurais fait ?
+{38983}{39025}Je ne sais pas.
+{39088}{39163}Il y a eu un moment où...
+{39168}{39225}J'ai eu une occasion.
+{39258}{39383}J'aurais pu l'emmener.|On aurait pu partir ensemble.
+{39397}{39514}Et Clark... Et puis quoi ?|Je devais buter un caporal ?
+{39519}{39619}- Non vieux.|- Ou descendre quatre Américains ?
+{39624}{39662}- Non.|- Alors, quoi ?
+{39669}{39727}Je ne trouve pas mon équipe.
+{39769}{39802}Qu'est-ce que tu fais ici ?
+{39807}{39889}- Je ne trouve pas Wilkins.|- Et le gâteau ?
+{39897}{39967}- J'ai que du poulet.|- Ton gâteau ?
+{39974}{40052}On me l'a piqué.|Je peux rester avec vous ?
+{40057}{40092}Oui, derrière.
+{40097}{40212}J'aurais dû aller voir le capitaine.|Il aurait arrangé ça.
+{40217}{40317}En reconnaissance|dans les cavernes, faudra...
+{40324}{40384}Dégage soldat.
+{40427}{40504}- Tu l'as dit à Reilly ?|- C'est un con.
+{40509}{40617}Je dois aller voir Hill,|il tirera ça au clair.
+{40622}{40697}Double pas ton supérieur direct.
+{40702}{40767}Si je ne fais rien, elle a comme disparu.
+{40772}{40827}Faut respecter la hiérarchie.
+{40834}{40927}Je ne violerais pas une règle sacrée|pour un crime !
+{40932}{40992}De quoi vous parlez ?
+{41027}{41082}T'inquiète.
+{41129}{41227}Je m'en vais,|je me sens presque en faute.
+{41232}{41282}A tout à l'heure.
+{41357}{41487}On se reverra pas si t'arrêtes pas|de sautiller comme ça.
+{41527}{41617}Faut te calmer, hein ?|Vas-y doucement.
+{41677}{41727}Dur, dur. Bonsoir !
+{41732}{41832}- Pitoyable.|- Il a plaqué sa matière grise.
+{41877}{41937}Cessez le feu ! Cessez le feu !
+{41954}{41997}Qu'est-ce que c'est ?
+{42002}{42084}Un piège. Quelqu'un a marché|où il faut pas.
+{42089}{42144}Allez, en marche.
+{42152}{42232}- Qui a morflé ?|- Le bleu.
+{42237}{42329}En l'envoyant ici|on le condamnait à mort.
+{42337}{42412}Autant valait le tuer au pays.
+{42417}{42462}Bon, en route.
+{42542}{42614}Faites partir tout le monde, allez.
+{42652}{42704}Mon Dieu !
+{42927}{42979}Pitoyable le pauvre bleu.
+{42984}{43027}Attends un peu.
+{43052}{43139}Cette foutue guerre|nous monte à la tête.
+{43167}{43222}On comprend tout à l'envers.
+{43227}{43297}Oui, c'est tous les jours la merde.
+{43302}{43374}On risque de sauter n'importe quand...
+{43379}{43459}alors on fait|comme si tout était permis.
+{43474}{43534}Peu importe ce qu'on fait.
+{43577}{43697}Mais ça devrait être le contraire,|exactement l'inverse.
+{43704}{43782}Comme on peut mourir|dans une seconde...
+{43787}{43872}on devrait faire attention|à ce qu'on fait.
+{43889}{43952}Parce que c'est plus important.
+{44017}{44092}C'est peut-être plus important|qu'on croie.
+{44507}{44602}- Soldat Eriksson au rapport.|- Repos.
+{44609}{44677}Capitaine, il y a eu...
+{44682}{44747}Je sais pourquoi tu es là.
+{44752}{44882}Le lieutenant Reilly m'a informé après|votre entrevue. Je m'occupe de tout.
+{44902}{44942}Je ne savais pas.
+{44947}{45012}L'incident est clos pour toi, non ?
+{45017}{45097}Je surveille de très près|la situation.
+{45102}{45142}Oui capitaine.
+{45209}{45267}Je dois parler à quelqu'un ?
+{45272}{45344}L'enquête est déjà en cours ?
+{45407}{45499}Tu mesures la gravité|de la situation j'espère.
+{45517}{45604}Oui. C'est pour ça|que j'ai fait mon rapport.
+{45609}{45719}Ça peut créer un incident|international, tu le sais ?
+{45732}{45777}Oui capitaine.
+{45847}{45907}Ces hommes ont déconné...
+{45912}{45997}mais si tu les dénonces|officiellement...
+{46004}{46089}est-ce que ça aidera cette fille ?
+{46152}{46222}Si vous aviez été là capitaine.
+{46252}{46299}En entendant ses cris...
+{46304}{46432}Arrête tes conneries sur ses cris !|J'en ai entendu un tas !
+{46439}{46524}Presque tous venaient|d'Américains blessés.
+{46612}{46712}Je vais te faire muter|ailleurs. Content ?
+{46717}{46834}Plus de jungle pour toi,|choisis où tu veux aller.
+{46877}{46942}J'ai lu ton dossier à l'arrière.
+{46947}{47052}Tu es volontaire pour faire le rat|de tunnel. C'est ça que tu veux ?
+{47056}{47113}Je veux changer de compagnie.
+{47118}{47196}Alors c'est réglé. Tu es rat de tunnel.
+{47201}{47266}Ça ne m'empêchera pas de parler !
+{47271}{47373}Personne ne veut t'empêcher|de faire quoi que ce soit.
+{47388}{47498}Mais j'ai le devoir de te dire|comment ça finira.
+{47513}{47568}Autant que tu saches...
+{47576}{47656}que les tribunaux militaires|sont indulgents.
+{47661}{47751}Les commissions de révision|le sont encore plus.
+{47756}{47866}Même si on les condamne|ils n'iront pas en prison.
+{47881}{47911}Bien capitaine.
+{47916}{48016}Ils sortiront de taule|en un rien de temps.
+{48021}{48086}Et à leur place je l'aurais mauvaise.
+{48091}{48168}Je voudrais te le faire payer cher !
+{48193}{48296}Et toi, avec une femme|et une petite fille...
+{48301}{48393}tu devrais peser attentivement|le pour et le contre.
+{48451}{48533}Pardon, où vous voulez en venir ?
+{48561}{48626}Nulle part Eriksson.
+{48631}{48751}J'éclaire seulement le terrain|sur lequel nous sommes.
+{48756}{48831}Tu permets ? Sinon je t'emmerde !
+{48836}{48906}- Tu me suis ?|- Oui capitaine.
+{48911}{48981}Larve ! Pour qui tu te prends ?
+{48986}{49056}Tu cites Meserve pour une médaille !
+{49063}{49141}Il t'a sorti d'un tunnel viêt-cong !
+{49146}{49196}Il s'est mal comporté.
+{49201}{49301}Mais c'est un gamin.|Il a 20 ans bon Dieu !
+{49306}{49421}Tu veux gâcher sa vie ?|Il a sauvé la tienne !
+{51308}{51386}Non, mec, non !
+{51431}{51478}Ecoute-moi bien.
+{51483}{51566}Crie pas trop de joie avec ces dés.
+{51571}{51676}- J'arrive dans une seconde.|- D'accord.
+{51713}{51766}Clarkie !
+{51786}{51828}Quoi ?
+{52846}{52951}- Les Viêt-congs !|- Qu'est-ce qui se passe ?
+{52958}{53016}Qu'est-ce que c'était ?
+{53023}{53056}Qui était de garde ?
+{53063}{53113}Y a encore quelqu'un là ?
+{53121}{53186}Eteignez le feu !
+{54616}{54668}Espèce de connard désaxé !
+{54892}{54960}Je te l'ai dit, ça arrive...
+{55120}{55175}Tout le monde s'en fout Meserve.
+{55252}{55342}Je l'ai raconté à tout le monde.|T'en fais pas.
+{55350}{55397}Pas besoin de me tuer.
+{55510}{55590}Je leur ai dit et ils s'en fichent !
+{55602}{55657}T'es dinky dau mec.
+{55670}{55727}Beaucoup dinky dau !
+{57100}{57140}Comment va fiston ?
+{57182}{57220}M'sieu.
+{57260}{57300}Pardon m'sieu.
+{57310}{57345}Bourré m'sieu.
+{57362}{57410}Je peux m'asseoir ?
+{57430}{57485}Complètement bourré m'sieu.
+{57502}{57545}Tu as une perme ?
+{57630}{57725}Je suis muté. Plus de cambrousse.
+{57790}{57855}Ce bout de chou c'est ta fille ?
+{57945}{58032}Tu vas pas faire de bêtise|avec ce revolver ?
+{58087}{58142}C'est pour me défendre.
+{58185}{58235}Je dois me défendre.
+{58367}{58415}Des ennuis chez toi ?
+{58467}{58505}Pardon ?
+{58525}{58647}Je pensais que ça allait mal|chez toi, une maladie.
+{58747}{58815}La réponse n'est pas dans la canette.
+{58850}{58925}Vous en êtes sûr ?
+{58932}{59050}Je suis aumônier.|Parle-moi, c'est mon travail.
+{59080}{59142}Vous êtes aumônier ?
+{59175}{59252}Tu es religieux ? Je suis méthodiste.
+{59335}{59385}Moi luthérien.
+{59420}{59472}On peut quand même discuter.
+{59735}{59842}J'étais en patrouille|de reconnaissance.
+{59932}{60027}Et on a enlevé une fille...
+{60072}{60115}dans un village.
+{60212}{60267}Les quatre autres...
+{60297}{60330}l'ont violée.
+{60360}{60415}Et ils l'ont tuée.
+{60525}{60640}Et je n'ai pas su, monsieur l'aumônier...
+{60810}{60860}les en empêcher.
+{65430}{65493}Tu n'as pas pu laisser courir.
+{65506}{65546}Tu t'es obstiné.
+{65592}{65635}Allez au diable.
+{65681}{65718}Capitaine !
+{65793}{65901}Vous ne pensez pas être coupable|de viol et de meurtre ?
+{66001}{66056}Non monsieur. Non.
+{66061}{66123}Avez-vous l'impression...
+{66128}{66236}que le gouvernement américain|vous juge à tort ?
+{66376}{66463}Je n'ai rien contre le gouvernement.
+{66508}{66606}Mais des soldats|comme Tony Meserve et moi...
+{66610}{66667}on devrait être au combat...
+{66676}{66721}pas ici.
+{66745}{66875}En nous mettant en taule,|vous rendez service aux Viêt-congs.
+{66885}{67017}Quand le sergent vous a appelé,|vous êtes entré de plein gré...
+{67057}{67107}pour violer cette fille...
+{67112}{67155}Tran Thi Oahn ?
+{67210}{67265}Répondez je vous prie.
+{67332}{67430}Oui monsieur. Oui monsieur.
+{67500}{67615}Pourquoi Eriksson est|resté dehors à votre avis ?
+{67720}{67777}Il venait juste d'arriver.
+{67794}{67929}J'étais depuis bien plus longtemps.|Au moins trois semaines.
+{67939}{67974}Vous dites...
+{67981}{68111}que vous avez participé au viol|pour ne pas être ridiculisé ?
+{68198}{68266}Quand on est en patrouille...
+{68270}{68345}on peut pas bien se comporter.
+{68351}{68421}Les autres t'aident pas du tout.
+{68453}{68573}Il y a quatre hommes en patrouille|et un individu.
+{68755}{68860}J'ai fait ce que j'ai fait|et j'ai des remords.
+{68942}{69030}Mais j'ai aussi des remords|d'en parler au procès.
+{69061}{69148}Par loyauté envers ceux|avec qui j'étais.
+{69152}{69215}Le personnel américain a pour usage...
+{69220}{69300}de violer les prisonnières|et de les tuer ?
+{69304}{69364}- Objection !|- Rejetée.
+{69372}{69465}Elle voulait communiquer|notre position.
+{69497}{69615}Elle toussait à cause des abus|que vous lui avez fait subir.
+{69621}{69706}Elle n'aurait même pas dû|se trouver là !
+{69710}{69770}Vous l'avez enlevée et violée !
+{69776}{69873}Vous lui reprochez de tousser|et vous la tuez !
+{69877}{69955}- J'ai bien résumé ?|- Objection !
+{70051}{70088}Monsieur...
+{70111}{70168}j'ai vu beaucoup de meurtres.
+{70190}{70305}Et c'est notre devoir parce que c'est|"Tue ou tu seras tué" .
+{70337}{70430}Des fois, on hait|tellement l'ennemi...
+{70583}{70636}Deux missions plus tôt...
+{70646}{70693}pour l'Opération Turner...
+{70698}{70776}on a vu une cabane brûlée.
+{70790}{70895}Des Vietnamiens sortaient|des enfants d'un bunker.
+{70902}{70977}Ils étaient asphyxiés par la fumée.
+{71007}{71102}J'ai fait le bouche à bouche|à un petit enfant.
+{71151}{71241}Ça prouve qu'on ne pense pas|qu'à combattre.
+{75267}{75362}Pour viol et meurtre|sans préméditation:
+{75366}{75424}soldat Diaz, coupable...
+{75428}{75508}et condamné à huit ans|de travaux forcés.
+{75553}{75663}Pour viol:|soldat Hatcher, coupable...
+{75667}{75759}et condamné à 15 ans|de travaux forcés.
+{75769}{75847}Pour viol et meurtre|avec préméditation:
+{75850}{75907}caporal Clark, coupable...
+{75915}{75995}et condamné aux travaux forcés|à perpétuité.
+{76027}{76090}Pour meurtre sans préméditation:
+{76094}{76191}sergent Meserve, coupable...
+{76196}{76269}et condamné à dix ans|de travaux forcés.
+{76285}{76340}Sentences en cours immédiatement...
+{76348}{76438}à la prison de|Fort Leavenworth, Kansas.
+{76442}{76497}Vous pouvez sortir.
+{76671}{76768}Si on les condamne,|ils n'iront pas en prison.
+{76785}{76860}Ils sortiront en un rien de temps.
+{76866}{76928}Moi je l'aurais mauvaise.
+{79448}{79528}Excusez-moi ! Mademoiselle !
+{79547}{79632}- Vous avez oublié ça.|- Merci. Au revoir.
+{79827}{79882}Je vous rappelle quelqu'un ?
+{79972}{80004}Oui.
+{80145}{80213}Vous avez fait un cauchemar, non ?
+{80225}{80260}Oui.
+{80430}{80482}C'est fini maintenant.
+{84114}{84237}Ce film se base sur un fait réel|mais les noms ont été changés.
+{84244}{84369}Hatcher n'a pas été reconnu|coupable de meurtre. A l'appel...
+{84374}{84496}l'accusation de viol a été révisée|et il a été acquitté...
+{84504}{84602}parce que ses aveux ont été déboutés|au nom de la constitution.

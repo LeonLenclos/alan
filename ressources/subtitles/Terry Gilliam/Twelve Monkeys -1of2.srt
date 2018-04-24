@@ -1,0 +1,1435 @@
+{0}{100}{y:bi}"...Cinq milliards d'êtres humains|{y:bi}mourront infectés par un virus en 1997...
+{110}{180}{y:bi}...Les survivants déserteront|{y:bi}la surface de la planète...
+{190}{280}{y:bi}...Les animaux redeviendront|{y:bi}les maîtres du Monde..."
+{380}{470}Extraits d'un entretien avec un sujet|atteint de psychose hallucinatoire.
+{480}{550}12 avril 1990.|Hôpital du Comté de Baltimore.
+{1656}{1718}L'ARMEE DES DOUZE SINGES
+{2432}{2497}{y:bi}...embarquement immédiat...
+{2502}{2547}{y:bi}...détenu 87645...
+{2576}{2615}{y:bi}...Cole, James.
+{2636}{2711}{y:bi}27631, Johnson...
+{2930}{2963}José !
+{2998}{3065}- Que se passe-t-il ?|- C'est mauvais.
+{3082}{3156}- Des "volontaires" ?|- Oui, et ils ont dit ton nom.
+{3400}{3448}Tu auras peut-être une grâce.
+{3460}{3551}C'est pour ça que les volontaires|ne reviennent pas... Ils sont graciés !
+{3555}{3606}Certains reviennent, il paraît.
+{3762}{3822}Ils les gardent au 7e niveau.
+{3826}{3867}Ils les cachent là-haut.
+{3874}{3922}Ils ont le cerveau dérangé.
+{3927}{3987}T'en sais rien.|Personne les a vus.
+{3992}{4049}C'est une rumeur.|Personne en sait rien.
+{4054}{4085}J'y crois pas.
+{4145}{4184}Bonne chance !
+{4191}{4220}Mission volontaire !
+{4253}{4289}Je ne suis pas volontaire !
+{4299}{4344}Tu cherches encore des histoires ?
+{4361}{4411}Non. Pas d'histoires.
+{4510}{4574}{y:bi}Voici vos instructions|{y:bi}pour une première sortie...
+{4603}{4697}{y:bi}Ecoutez attentivement.|{y:bi}Elles doivent être suivies à la lettre.
+{4716}{4778}{y:bi}Votre équipement doit être étanche.
+{4823}{4921}{y:bi}Si l'étanchéité n'est pas parfaite,
+{4945}{5017}{y:bi}s'il est déchiré ou mal fermé,
+{5029}{5084}{y:bi}l'accès vous sera refusé|{y:bi}à votre retour.
+{11208}{11275}ON L'A FAIT
+{11795}{11884}{y:bi}Déposez le prélèvement sanguin|{y:bi}dans le réceptacle prévu à cet effet.
+{12191}{12265}James Cole. Fin de quarantaine.
+{12306}{12375}Merci. Attendez dehors.
+{12380}{12442}Il a des antécédents, docteur.|Violences...
+{12454}{12529}rébellion...|violations répétées
+{12536}{12579}de l'état d'urgence permanent,
+{12591}{12632}insolences, provocations...
+{12644}{12677}insoumission.
+{12687}{12730}Perpétuité|dont 25 ans de sûreté.
+{12735}{12781}Je ne crois pas|qu'il nous agresserait.
+{12790}{12852}Vous n'allez pas nous agresser,|M. Cole ?
+{12896}{12927}Non, monsieur.
+{13223}{13283}Asseyez-vous donc.
+{13849}{13902}Nous apprécions|que vous soyez volontaire.
+{13906}{13957}Vous êtes un excellent observateur.
+{13995}{14036}Nous avons un programme|très avancé,
+{14043}{14069}très différent.
+{14074}{14134}L'occasion de voir votre peine réduite.
+{14139}{14254}Et de contribuer à ramener|l'espèce humaine à la surface de la terre.
+{14259}{14309}Il nous faut des gens solides.
+{14316}{14350}Forts mentalement.
+{14415}{14475}Nous avons eu des déboires avec...
+{14490}{14524}des individus instables.
+{14533}{14600}Dans votre situation,|c'est une opportunité.
+{14629}{14677}Refuser d'être volontaire|serait une erreur.
+{14695}{14753}Une grave erreur !
+{14858}{14959}Pourtant, parmi les myriades|de micro-ondes, de messages infrarouges,
+{14964}{15026}les gigaoctets de 1 et de 0,
+{15033}{15072}on trouve des mots...
+{15103}{15156}plus ténus que la science elle-même,
+{15163}{15227}tapis dans un flou électrique.
+{15232}{15283}Si nous prêtons l'oreille
+{15287}{15367}nous entendons la voix solitaire du poète|nous dire :
+{15414}{15491}"Hier d'aujourd'hui la folie prépara.
+{15514}{15612}"Demain sera silence,|triomphe ou désespoir.
+{15638}{15718}"Bois !|Car tu ne sais quand tu vins ni pourquoi.
+{15727}{15804}Bois !|Car tu ne sais pourquoi ni où tu pars."
+{16041}{16094}Il errait, vêtu d'un caleçon
+{16099}{16178}et d'un imperméable de femme|en plastique transparent.
+{16183}{16276}Ils lui ont gentiment demandé ses papiers.
+{16281}{16348}Il s'est mis à hurler, parlant d'un virus.
+{16352}{16436}Totalement irrationnel, désorienté.|Il ne sait ni où il est,
+{16441}{16498}ni quel jour on est, ni rien.
+{16503}{16551}Il leur a juste dit son nom.
+{16556}{16601}Ils ont conclu|qu'il était dingue.
+{16613}{16659}Une crise de démence.
+{16664}{16740}- Il a pris de la drogue ?|- Analyses négatives.
+{16748}{16836}Mais il a agressé cinq flics|comme s'il était complètement défoncé.
+{16841}{16882}Négatives ! Vous y croyez ?
+{16887}{16925}Il est attaché.
+{16930}{16961}Vous ne m'avez pas écouté ?
+{16966}{17057}J'ai deux hommes à l'hosto.|Oui, il est attaché.
+{17062}{17110}On lui a donné|de quoi assommer un cheval.
+{17114}{17162}Regardez... il tient pas en place !
+{17170}{17249}D'où les marques de coup, sans doute.|Il s'est débattu.
+{17263}{17337}Vous voulez entrer l'examiner ?
+{17419}{17488}Vous n'avez rien de plus|dans vos fichiers ?
+{17493}{17613}Rien. Pas de permis, pas d'empreintes,|pas d'avis de recherche... rien.
+{17644}{17687}Il faut que j'entre avec vous.
+{17714}{17755}Ce n'est pas nécessaire.
+{17764}{17827}On est là. Au cas où.
+{18087}{18128}M. Cole,
+{18135}{18202}je m'appelle Kathryn Railly.|Je suis psychiatre.
+{18207}{18267}Je travaille pour le comté,|pas pour la police.
+{18272}{18332}Je dois veiller|à ce qu'on vous traite bien.
+{18342}{18407}Il faut que je m'en aille !
+{18412}{18481}Je ne peux pas faire|qu'on vous relâche.
+{18503}{18563}Mais je veux vous aider.
+{18591}{18685}Racontez-moi ce qui s'est passé.|C'est possible, James ?
+{18752}{18795}Je peux vous appeler James ?
+{18896}{18941}Personne ne m'a jamais|appelé comme ça.
+{18958}{19013}Vous avez déjà été soigné|dans le comté ?
+{19044}{19107}- On s'est déjà vus ?|- Impossible.
+{19145}{19243}Il faut que je sorte !|Je dois recueillir des informations !
+{19248}{19279}De quel genre ?
+{19284}{19323}Ca vous dirait rien.
+{19359}{19402}A personne. Ca changera rien.
+{19490}{19534}Vous savez pourquoi vous êtes ici ?
+{19541}{19622}Parce que je suis un bon observateur.|Solide.
+{19626}{19648}Je vois.
+{19655}{19739}Vous ne vous rappelez pas|avoir agressé plusieurs policiers ?
+{19747}{19795}Pourquoi je suis enchaîné ?
+{19843}{19900}Vous avez déjà été interné,|n'est-ce pas ?
+{19905}{19936}Dans un hôpital ?
+{19941}{19975}Il faut que je sorte !
+{19980}{20020}Dans une prison, James ?
+{20025}{20049}Sous terre.
+{20054}{20083}Caché ?
+{20135}{20174}J'aime cet air.
+{20207}{20255}Quel air merveilleux !
+{20279}{20320}Qu'a-t-il de merveilleux ?
+{20325}{20390}Il est pur. Pas de microbes.
+{20485}{20557}Pourquoi pensez-vous|qu'il n'y a pas de microbes ?
+{20589}{20622}On est en octobre ?
+{20629}{20651}Avril.
+{20670}{20694}Quelle année ?
+{20708}{20747}A votre avis ?
+{20761}{20792}1996.
+{20800}{20886}Ca, c'est le futur.|Vous croyez vivre dans le futur ?
+{20895}{20936}1996, c'est le passé.
+{20943}{20999}Non. 1996, c'est le futur.
+{21042}{21082}On est en 1990.
+{21214}{21243}Vos gueules !
+{21273}{21345}- Où on va ?|- En France, sur la Côte, tu vas adorer !
+{21352}{21432}Je peux pas !|Il faut que je téléphone !
+{21436}{21527}Boucle-la. Tu as bluffé la psy|mais avec nous, ça marche pas !
+{22523}{22591}Voyons si tu n'as pas de bestioles.
+{22595}{22643}Il faut que je téléphone.
+{22655}{22698}Adresse-toi au docteur.
+{22703}{22751}Pas de coup de fil sans son accord.
+{22758}{22775}C'est important !
+{22782}{22864}Ce qui est important,|c'est de te calmer !
+{22872}{22918}Détends-toi.
+{22923}{22988}On s'entendra bien si tu te détends.
+{23371}{23402}Goines !
+{23481}{23513}Jeffrey !
+{23666}{23757}Lui, c'est James.|Sois gentil, fais-lui visiter...
+{23764}{23817}Explique-lui pour la télé,|les jeux, etc.
+{23822}{23882}Combien tu me paies|pour faire ton boulot ?
+{23897}{23933}5000$. Ca te va ?
+{23938}{23962}5000 ?
+{23967}{24005}Je les vire à ton compte.
+{24012}{24056}5000$ !
+{24091}{24151}Je lui fais le tour panoramique|de l'hosto !
+{24171}{24231}Déconne, ça les rassure.
+{24235}{24295}Vous prisonniers ?|Non, vous gardiens !
+{24302}{24334}T'as tout compris !
+{24362}{24406}De la joie, de la bonne humeur !
+{24410}{24434}Voici des jeux...
+{24473}{24521}Dégage !
+{24584}{24618}C'est mon fauteuil.
+{24630}{24673}Des jeux... des jeux...
+{24683}{24719}d'autres jeux...
+{24723}{24767}qui voudraient sortir !
+{24781}{24827}Tu vois ? Encore des jeux !
+{24834}{24884}Les jeux te légumisent.
+{24925}{24999}Comme si tu prenais volontairement|des tranquillisants.
+{25011}{25066}Ils t'ont filé des calmants, hein ?
+{25071}{25095}Des drogues !
+{25100}{25174}Quoi ? Thorazine ? Haldol ?|Quelles doses ?
+{25181}{25232}Connaître produits et doses.|Elémentaire !
+{25237}{25282}Il faut que je téléphone.
+{25289}{25359}Téléphone ?|Communication avec le monde extérieur ?
+{25364}{25416}A la discrétion du docteur !
+{25452}{25534}Si tous ces timbrés téléphonaient,|la folie se propagerait,
+{25539}{25601}s'insinuerait dans les oreilles
+{25606}{25651}des malheureux sains d'esprit !
+{25656}{25714}La folie épidémique !
+{25723}{25754}En fait...
+{25790}{25834}il y a peu de vrais fous, ici.
+{25838}{25908}Je dis pas que t'es pas fou.|Tu as même l'air...
+{25914}{25954}complètement déjanté !
+{25959}{26041}Mais c'est pas pour ça|que t'es là !
+{26079}{26129}Tu es là à cause du système !
+{26184}{26251}La télé ! Tout est là !
+{26258}{26318}Tout est là !|Regarde, écoute, à genoux, prie !
+{26323}{26361}La Pub !
+{26402}{26474}Ils n'ont plus besoin de nous !|Tout est automatisé !
+{26479}{26555}A quoi on sert, alors ?|On est des consommateurs !
+{26560}{26618}Achète un max, t'es un bon citoyen.
+{26622}{26716}Mais si tu n'achètes pas,|tu es quoi, je te le demande ?
+{26721}{26757}Un malade mental !
+{26761}{26807}C'est un fait !|Si t'achètes pas
+{26814}{26862}PQ, voitures, mixers,
+{26867}{26905}gadgets sexuels électriques,
+{26912}{26963}baladeurs branchés sur le cerveau,
+{26970}{27016}tournevis à microradars intégrés,
+{27020}{27061}ordinateurs vocaux...
+{27066}{27107}Doucement, Jeffrey.
+{27116}{27162}Calme-toi !
+{27227}{27255}C'est vrai.
+{27263}{27294}Vous êtes très séduisante.
+{27361}{27409}Si tu veux regarder une émission,
+{27414}{27459}"Dynastie", ou autre...
+{27464}{27531}tu donnes le jour et l'heure|à l'infirmière.
+{27536}{27577}Mais il faut lui dire avant.
+{27581}{27673}On a eu un type qui demandait|des émissions déjà commencées.
+{27677}{27749}Oui.|Non, il faut lui dire avant.
+{27754}{27843}Il comprenait pas qu'elle pouvait pas|faire qu'on soit hier !
+{27847}{27916}Elle pouvait pas remonter le temps !|Merci, Einstein !
+{27923}{27978}Lui, il était cinglé !|A la masse...
+{27983}{28024}Ca suffit, Jeffrey !
+{28037}{28087}Tu vas l'avoir, ta piqûre !
+{28092}{28133}Je t'ai prévenu.
+{28166}{28202}C'est vrai !
+{28207}{28250}Je me suis emballé...
+{28255}{28344}en expliquant...|Ies rouages de l'institution à Jim.
+{28437}{28502}Je ne viens pas vraiment de l'espace.
+{28512}{28572}L.J. Washington.|Il vient pas vraiment de l'espace.
+{28576}{28624}Ne te moque pas, l'ami.
+{28708}{28754}Dégage de mon fauteuil !
+{28763}{28831}Je fais de la divergence mentale.
+{28845}{28917}Je me trouve sur la planète Ogo.
+{28926}{28986}J'appartiens|à une élite intellectuelle
+{28991}{29097}qui s'apprête à soumettre|les hordes barbares sur Pluton.
+{29125}{29248}Mais même si cela me semble réel|en tous points,
+{29262}{29365}Ogo n'en demeure pas moins|une construction de mon psychisme.
+{29384}{29444}Je suis mentalement divergent.
+{29455}{29551}Ainsi, j'échappe|à certaines réalités innommables
+{29558}{29611}qui me rendent la vie impossible ici.
+{29616}{29671}Lorsque je cesserai d'y aller,
+{29683}{29731}j'irai bien.
+{29751}{29838}Es-tu divergent, toi aussi, l'ami ?
+{29993}{30049}C'est un asile de fous, ici.
+{30061}{30101}Je ne suis pas fou.
+{30142}{30224}Nous n'employons pas|le terme "fou", M. Cole.
+{30250}{30303}Il y a quelques agités du bocal, ici !
+{30375}{30439}Je sais certaines choses|que vous ignorez.
+{30475}{30542}Vous allez avoir beaucoup de mal|à comprendre.
+{30600}{30631}Je ne ferai de mal
+{30638}{30670}à personne !
+{30869}{30926}Avez-vous entendu parler|de l'Armée...
+{30931}{30967}des Douze Singes ?
+{31020}{31132}Ils peignent ce signe au pochoir|sur les murs. Vous l'avez vu ?
+{31174}{31285}Prenez votre temps,|et expliquez-nous ça du début.
+{31290}{31340}C'est vrai... on est en 1990.
+{31371}{31436}Normal.|Ils n'étaient pas encore actifs.
+{31769}{31848}Cinq milliards d'individus sont morts|en 1996 et 1997.
+{31867}{31946}La quasi-totalité|de la population mondiale.
+{31990}{32045}Seul 1% d'entre nous|a survécu.
+{32052}{32088}Vous allez nous sauver ?
+{32093}{32148}Comment ? Ca a déjà eu lieu.
+{32153}{32208}Je ne peux pas. Personne ne peut.
+{32247}{32283}J'essaie simplement
+{32290}{32353}de recueillir des informations|pour aider ceux du présent
+{32357}{32398}à remonter|aux origines du virus.
+{32413}{32482}Nous ne sommes pas dans le présent,|en ce moment ?
+{32521}{32592}1990, c'est le passé.|Ca a déjà eu lieu.
+{32597}{32643}C'est ce que j'essaie de...
+{32684}{32758}Vous croyez que 1996|est le présent, c'est ça ?
+{32762}{32853}Non, 1996, c'est aussi le passé.|Ecoutez-moi...
+{32977}{33023}Il faut que je téléphone.
+{33054}{33126}Tout s'expliquera|si je passe un coup de téléphone.
+{33133}{33200}Qui appelleriez-vous ?|Qui expliquerait tout ?
+{33205}{33313}Les scientifiques. Je dois leur dire|qu'ils se sont trompés d'année.
+{33330}{33383}Je leur laisserai un message|qu'ils capteront
+{33390}{33423}depuis le présent.
+{33474}{33553}Je peux téléphoner, s'il vous plaît ?
+{33736}{33786}Qu'est-ce que tu fais|dans la gamelle du chien ?
+{33791}{33856}Qui a mis ça là-dedans ?
+{33947}{33983}Un message vocal ?
+{34024}{34072}Je comprends pas.
+{34081}{34163}C'est une blague ?|Je connais pas de scientifiques !
+{34199}{34228}James qui ?
+{34297}{34350}Ce n'était pas|ce que vous espériez ?
+{34416}{34457}Une femme.
+{34462}{34505}Elle n'était pas au courant.
+{34565}{34610}Peut-être un mauvais numéro.
+{34641}{34706}Ils m'ont choisi pour ma mémoire.
+{34725}{34778}James... Où avez-vous grandi ?
+{34800}{34824}Dr Railly !
+{34828}{34905}J'ai l'impression|de vous avoir déjà rencontré.
+{34932}{35018}On est en 1990.|Je suis censé téléphoner en 1996.
+{35023}{35075}Le numéro n'est pas encore bon,|c'est pour ça !
+{36000}{36050}Pas la peine, ça s'ouvre pas.
+{36081}{36146}On croit pouvoir virer la grille|mais elle est soudée.
+{36208}{36292}Tu vois ? Je te l'ai dit.|Et les portes sont verrouillées.
+{36300}{36372}Ils protègent ceux du dehors de nous,|alors qu'ils sont
+{36376}{36412}aussi fous que nous.
+{36912}{36998}Tu sais ce qui est fou ?|C'est la loi de la majorité.
+{37025}{37068}Prends les microbes, par exemple.
+{37073}{37101}Les microbes ?
+{37130}{37200}Au 18e siècle, ça n'existait pas.
+{37204}{37281}Personne n'aurait imaginé ça.|Personne de sensé.
+{37329}{37384}Et voilà que s'amène ce docteur...
+{37433}{37457}Semmelweiss !
+{37508}{37582}Semmelweiss s'amène|et essaie de convaincre les gens,
+{37587}{37678}surtout les autres docteurs,|que des petits trucs appelés microbes
+{37682}{37739}entrent dans les corps|et provoquent des maladies.
+{37744}{37801}Il veut que les docteurs|se lavent les mains !
+{37806}{37854}C'est quoi, ce type ?|Un fou ?
+{37859}{37909}Des petits trucs invisibles...
+{37914}{37943}des microbes ?
+{37948}{38008}Bon. Revenons au 20e siècle.
+{38012}{38104}La semaine dernière, juste avant|de me retrouver dans ce trou...
+{38142}{38207}je commande un hamburger|dans un fast-food,
+{38211}{38252}le type le fait tomber.
+{38276}{38363}Il le ramasse, l'essuie et me le tend|comme si de rien n'était.
+{38370}{38439}"Et les microbes ?" je lui fais.|"J'y crois pas, il me répond,
+{38449}{38540}c'est des histoires pour vendre|des désinfectants et du savon !"
+{38562}{38617}Il est fou, non ?
+{38737}{38823}Rien n'est vrai, rien n'est faux.|Tout est une question d'opinion.
+{38837}{38895}Tu crois aux microbes, hein ?
+{38928}{38964}Je ne suis pas fou.
+{38969}{39087}Bien sûr que non !|Tu veux t'évader. C'est très sensé.
+{39130}{39211}Je peux t'aider.|Tu veux que je t'aide à sortir ?
+{39258}{39301}Tu sais comment sortir ?
+{39373}{39397}Oui, mon fils !
+{39421}{39481}- Alors, pourquoi...|- Je m'évade pas ?
+{39488}{39563}Bonne question. Très bonne question !|lntelligente.
+{39577}{39673}Parce que ce serait une folie.|J'ai fait passer le mot.
+{39687}{39733}On s'occupe de moi.
+{39738}{39762}Comment ça ?
+{39769}{39834}J'ai contacté des sous-fifres,
+{39838}{39906}secrétaires de secrétaires|et autres larbins
+{39910}{39961}qui vont avertir mon père.
+{39966}{40040}Et lorsqu'il saura|dans quel genre d'endroit je suis,
+{40045}{40081}il me fera transférer
+{40085}{40181}dans une taule de luxe où l'on te traite|comme un humain ! Un invité !
+{40186}{40258}Avec des draps, des serviettes,|comme dans un palace !
+{40263}{40349}Et des drogues géniales|pour les frappés, les fondus, les givrés
+{40356}{40392}diaboliques !
+{40457}{40491}Pardon...
+{40507}{40577}Je me suis un peu emballé...|L'idée de... de m'évader...
+{40592}{40628}et tout d'un coup...
+{40645}{40715}j'ai eu envie de tordre les barreaux,
+{40719}{40775}d'arracher la fenêtre
+{40779}{40834}et de bouffer le tout !|Oui, de tout bouffer !
+{40839}{40887}Et de bondir ! De bondir !
+{40891}{40917}Tranquillisants...
+{40927}{40961}pour tout le monde !
+{40992}{41076}Imbéciles !|Je suis fou, je suis censé m'agiter !
+{41080}{41121}Quand vous saurez|qui je suis...
+{41128}{41219}Mon père sera furieux. Et quand|il est furieux, la terre tremble !
+{41244}{41292}Mon père est Dieu !
+{41297}{41357}Je vénère mon père !
+{41453}{41520}{y:bi}Ces images insoutenables|{y:bi}obtenues grâce
+{41525}{41628}{y:bi}à des défenseurs des animaux|{y:bi}ont provoqué l'indignation générale...
+{41806}{41834}Tortures, expériences...
+{41870}{41923}Nous sommes tous des singes !
+{41945}{41990}Ils t'ont fait mal ?
+{42031}{42096}Moins qu'au petit lapin.
+{42180}{42211}Regarde-les...
+{42230}{42273}Ils ne demandent que ça.
+{42323}{42383}L'espèce humaine mérite peut-être|d'être éliminée.
+{42424}{42472}Eliminer l'espèce humaine ?
+{42486}{42551}Bonne idée ! Génial !
+{42562}{42665}Mais c'est un projet à long terme.|Il faut se fixer des objectifs immédiats.
+{42672}{42730}Je ne t'ai rien dit|sur "ce que tu sais".
+{42778}{42819}De quoi parles-tu ?
+{42828}{42888}Ton projet... émancipation.
+{42955}{42996}Tu écris quoi ?
+{43006}{43037}Tu es journaliste ?
+{43042}{43075}C'est personnel.
+{43123}{43190}Un procès ?|Tu vas leur faire un procès ?
+{43210}{43248}C'est l'heure des médicaments.
+{43327}{43363}{y:bi}Profitez-en...
+{43373}{43433}{y:bi}Sachez vivre l'instant présent...|{y:bi}Soleil...
+{43444}{43488}{y:bi}Plages sublimes...
+{43500}{43543}{y:bi}Les "Florida Keys"...
+{43569}{43624}{y:bi}Retrouvez les Marx Brothers|{y:bi}dans...
+{43636}{43679}"Monnaie de singe" !
+{43751}{43783}Va chercher !
+{43902}{43967}Tu piges ?|Monkey... Mon... clé !
+{44089}{44118}{y:bi}Si vous redoutez
+{44125}{44202}{y:bi}l'avenir,|{y:bi}songez que le monde change
+{44206}{44256}{y:bi}et sachez saisir votre chance !
+{44261}{44311}"Et sachez saisir votre chance !"
+{44323}{44369}Ils t'ont chargé à mort, Jim !
+{44407}{44453}Maxi-dose ! Danger !
+{44465}{44537}Rassemble tes esprits !|Concentre-toi !
+{44542}{44606}Rappelle-toi notre projet.|J'ai fait ce que je devais.
+{44611}{44642}Quoi ?
+{44683}{44726}Pas "quoi"... "quand" !
+{44738}{44786}- Quand.|- Oui... Quand !
+{44792}{44823}Maintenant, Jim !
+{44888}{44955}Achetez ! Vendez !|Actions ! Obligations !
+{44960}{45003}Liquidez ! Vendez !
+{45023}{45073}Plus de monnaie de singe !
+{45258}{45320}J'ai 5 millions ! Je suis assuré !
+{45356}{45431}Une fenêtre s'ouvre !|C'est le moment
+{45438}{45483}de saisir sa chance !
+{45507}{45563}L'heure a sonné !
+{45567}{45627}Jeffrey ! Arrête de faire le con !
+{45644}{45694}Mastercard ! Visa !
+{45699}{45730}La clé du...
+{45742}{45769}bonheur !
+{46142}{46173}Vas-y, Jim !
+{46264}{46295}Dégage !
+{46633}{46667}L'avenir est à vous !
+{46681}{46729}Dernière chance !
+{47168}{47221}Il faut aller en Floride.
+{47226}{47297}Les Keys sont merveilleuses|à cette époque de l'année.
+{47810}{47846}Il est en panne.
+{47872}{47913}Prenez l'autre.
+{48565}{48646}C'était dans mon casier,|mais ça ne m'était pas destiné.
+{48651}{48735}"Vous êtes la plu belle femme|que j'aie jamais vue.
+{48745}{48826}"Vous vivez dans le plu beau|des mondes, sans le savoir.
+{48837}{48913}Vous avez la liberté,|le soleil, et l'air..."
+{48918}{48961}James Cole ?
+{48984}{49068}"Je voudrais rester ici|mais je dois partir.
+{49078}{49125}Aidez-moi !"
+{49153}{49184}Le pauvre !
+{49199}{49240}James Cole|est un de vos patients ?
+{49244}{49307}Il s'est sauvé.|On l'a vu au deuxième.
+{49556}{49604}Docteur, il y a quelqu'un.
+{49640}{49681}Je peux vous renseigner ?
+{49925}{49964}Il est prostré ?
+{49980}{50019}Arrêtez-vous.
+{50220}{50247}Calme-toi.
+{50366}{50395}On va arranger ça.
+{50400}{50486}On va te ramener dans ta chambre,|tu auras des biscuits...
+{50864}{50895}Etendez-le, bordel !
+{51078}{51142}- Dr Railly, aidez-moi !|- On va vous donner un calmant.
+{51147}{51188}Non, plus de médicaments !
+{51193}{51250}On n'a pas le choix,|vous êtes très agité.
+{51557}{51624}Voilà 4 ans|que nous travaillons ensemble
+{51629}{51682}et je ne vous ai jamais vue|comme ça.
+{51687}{51785}Ne soyez pas sur la défensive,|ce n'est pas l'lnquisition.
+{51790}{51864}Je ne suis pas sur la défensive,|j'essaie d'expliquer...
+{51869}{51924}Il aurait dû être entravé !
+{51941}{52022}C'est une erreur d'appréciation.|Pourquoi le nier ?
+{52029}{52135}Je le reconnais. Mais j'ai l'impression|de l'avoir déjà vu et...
+{52140}{52195}Deux policiers|sont déjà hospitalisés
+{52200}{52264}et un de nos gardiens|a une fracture du crâne !
+{52269}{52343}J'ai reconnu mon erreur !|Que demandez-vous de plus ?
+{52348}{52403}Vous voyez ?
+{52412}{52458}Vous êtes sur la défensive.|Hein, Bob ?
+{52462}{52503}Dr Fletcher !
+{52522}{52558}Nous avons...
+{52565}{52604}un nouvel incident.
+{52710}{52761}Il était entravé,|la porte verrouillée ?
+{52765}{52804}Oui, je l'ai fait moi-même.
+{52842}{52893}Et il était sous calmants ?
+{52897}{52948}Il était sous calmants.
+{53248}{53296}Vous voulez dire
+{53301}{53339}qu'un malade entravé
+{53344}{53414}s'est glissé par ce trou,|a replacé la grille
+{53433}{53531}et se contorsionne actuellement|dans le conduit d'aération ?
+{53963}{54008}{y:bi}Attention !
+{54022}{54077}Tu en as fait de belles !
+{54194}{54218}Où êtes-vous ?
+{54223}{54274}Ah, tu peux parler !
+{54283}{54338}Qu'est-ce que t'as fait, Bobby ?
+{54345}{54391}Tu étais volontaire ?
+{54509}{54549}Je m'appelle pas Bob.
+{54554}{54609}Pas de problème, Bob.
+{54619}{54652}Où ils t'ont envoyé ?
+{54693}{54720}Où êtes-vous ?
+{54724}{54767}Dans une autre cellule.
+{54796}{54835}Peut-être.
+{54859}{54911}"Peut-être" ?|Ca veut dire quoi ?
+{54921}{54998}"Peut-être",|ça veut dire que peut-être,
+{55002}{55053}je suis dans la cellule d'à côté.
+{55058}{55134}"Volontaire", comme toi.
+{55149}{55225}Ou peut-être,|je suis dans le bureau central,
+{55237}{55336}et je te surveille|pour le compte des scientifiques.
+{55340}{55446}Ou alors... peut-être,|je ne suis même pas là.
+{55453}{55523}Peut-être je suis seulement
+{55528}{55563}dans ta tête.
+{55587}{55647}Va savoir !
+{55697}{55749}Où ils t'ont envoyé ?
+{55773}{55817}- En 1990.|- 90 ?
+{55826}{55922}C'était comment ?|Bonnes drogues ? Plein de filles ?
+{55963}{56006}Tu as fait le boulot ?
+{56020}{56095}Tu as eu la méga-info ?
+{56100}{56159}L'Armée des Douze Singes ?
+{56164}{56215}On aurait dû être en 1996.
+{56229}{56320}La Science n'est pas une science exacte,|avec ces guignols !
+{56325}{56382}Mais ils s'améliorent.
+{56394}{56481}Tu aurais pu te retrouver|dans l'ancienne Egypte !
+{56513}{56537}Les voilà !
+{56599}{56659}{y:bi}La FFA|{y:bi}(Liberté Pour les Animaux)
+{56664}{56729}{y:bi}est le QG de l'Armée des Douze Singes.
+{56738}{56774}{y:bi}Ce sont eux
+{56779}{56813}{y:bi}qui vont le faire.
+{56822}{56889}{y:bi}Je ne peux rien faire de plus.|{y:bi}Je dois partir.
+{56894}{56964}{y:bi}Joyeux Noël !
+{56995}{57014}Alors ?
+{57040}{57060}Quoi ?
+{57076}{57139}Avez-vous laissé ce message ?
+{57155}{57239}C'est la reconstruction|d'un enregistrement détérioré.
+{57244}{57354}Signaux trop faibles.|On a dû les assembler comme un puzzle.
+{57359}{57405}Nous venons de terminer.
+{57410}{57489}Est-ce vous qui avez passé|ce coup de téléphone ?
+{57496}{57546}Je n'ai pas pu téléphoner !
+{57577}{57628}Vous m'avez envoyé en 1990.
+{57697}{57717}Vous êtes sûr ?
+{57731}{57776}Qu'avez-vous fait|de votre temps ?
+{57781}{57844}Vous l'avez perdu avec des drogues ?|Des femmes ?
+{57851}{57892}On m'a drogué de force !
+{57896}{57961}Pourquoi vous aurait-on forcé|à vous droguer ?
+{58028}{58074}J'ai eu des ennuis...
+{58088}{58131}J'ai été arrêté.
+{58215}{58306}J'ai fait ce qu'on me demandait.|J'ai un spécimen d'araignée.
+{58311}{58350}Je ne savais pas qu'en faire,
+{58354}{58385}alors je l'ai avalée.
+{58390}{58441}Mais ce n'était pas|la bonne année,
+{58453}{58503}alors ça ne sert à rien.
+{58527}{58575}Avez-vous vu ce signe ?
+{58587}{58635}Non, je ne crois pas.
+{58656}{58724}Et ces gens ?|En avez-vous vu certains ?
+{58807}{58834}Attendez !
+{58906}{58932}Lui ?
+{58938}{58969}Vous l'avez vu ?
+{58981}{59058}Peut-être... à l'asile de fous.
+{59065}{59145}Vous étiez dans un asile de fous ?|Mon Dieu !
+{59157}{59255}Cole ! Nous vous avions confié|une importante mission !
+{59260}{59300}Vous auriez pu jouer|un grand rôle.
+{59305}{59365}Aider à la reconquête de la planète.
+{59372}{59427}Et voir votre peine réduite.
+{59435}{59475}La question est la suivante :
+{59490}{59543}voulez-vous une autre chance ?
+{60161}{60207}Dernière connexion.
+{60219}{60245}Eloignez-vous.
+{61290}{61355}Pas d'erreur, cette fois, Cole.
+{61379}{61439}Soyez vigilant. Ouvrez l'oeil !
+{61444}{61530}Bonne idée, l'araignée !|Essayez de remettre ça.
+{61536}{61581}Laissez-vous aller.
+{61591}{61689}Nous vous envoyons|en plein 3e trimestre 1996.
+{62607}{62640}Je comprends pas !
+{62806}{62825}Où je suis ?
+{62830}{62887}Il faut que je les trouve !
+{62974}{63005}Aidez-moi à les trouver !
+{63033}{63050}José ?
+{63110}{63165}Cole ! Où on est ?
+{63614}{63717}En temps de grande épidémie, les présages|et les prophéties fleurissent.
+{63758}{63805}"L'une des 4 bêtes|remit aux 7 anges
+{63810}{63882}"7 coupes emplies|de la colère de Dieu,
+{63886}{63944}qui vit pour les siècles des siècles."
+{63965}{63996}Apocalypse.
+{64003}{64085}Au 14e siècle,|selon les autorités de l'époque,
+{64091}{64172}cet homme fit irruption|à Wyle, près de Stonehenge,
+{64177}{64220}en avril 1362.
+{64244}{64302}Avec des mots inconnus|et un étrange accent,
+{64307}{64393}il prédit une épidémie|qui devait, selon lui,
+{64398}{64491}exterminer l'humanité|environ six cents ans plus tard.
+{64503}{64592}Ce scénario apocalyptique|rencontre un écho plus puissant
+{64599}{64645}quand la réalité l'alimente|avec des fléaux
+{64649}{64693}tels que la peste, la variole
+{64697}{64772}ou le SIDA,|et les horreurs technologiques
+{64777}{64844}telles que la guerre chimique,|qui fit son apparition
+{64848}{64913}avec les offensives|au gaz moutarde, en 14-18.
+{64918}{65000}Dans les tranchées françaises,|en 1917,
+{65004}{65040}on rapporte que ce soldat,
+{65050}{65107}blessé par un éclat d'obus,
+{65112}{65177}présentait des signes d'hystérie.
+{65187}{65258}Il ne comprenait plus le français.
+{65263}{65311}Il parlait couramment l'anglais,
+{65316}{65395}mais sous une forme dialectale|inconnue.
+{65400}{65481}L'homme, qui ne semblait pas|affecté par les gaz,
+{65485}{65536}était en état de choc.
+{65540}{65605}Il prétendait venir du futur
+{65615}{65658}et être à la recherche|d'un microbe
+{65663}{65730}qui devait exterminer l'espèce humaine
+{65736}{65808}à partir de... 1996.
+{65853}{65947}Bien que blessé,|le soldat disparut de l'hôpital,
+{65956}{65992}sans doute pour poursuivre
+{65997}{66071}sa mission prophétique,|substituant à l'angoisse de la guerre
+{66076}{66155}une angoisse autogène,|appelée le "complexe de Cassandre".
+{66160}{66179}Cassandre,
+{66186}{66251}condamnée, selon le mythe,|à connaître le futur
+{66256}{66323}sans être crue dans ses prédictions.
+{66328}{66424}Angoisse de l'anticipation|doublée de l'impuissance à intervenir.
+{66747}{66793}Je fonce me faire vacciner !
+{66831}{66910}Je trouve que vous avez donné|un mauvais nom aux "alarmistes".
+{66915}{66944}Vous croyez ?
+{66956}{67011}Des données bien réelles|indiquent
+{67016}{67076}que la planète ne survivra pas|à nos excès.
+{67081}{67097}C'est vrai.
+{67102}{67191}Prolifération nucléaire,|démographie galopante...
+{67200}{67281}pollution des sols, des mers et de l'air,|viol de l'environnement...
+{67288}{67396}N'est-ce pas celui qui crie au loup|qui est sain d'esprit ?
+{67406}{67497}Et la devise de l'Homo Sapiens,|"Consommons",
+{67502}{67559}n'est-elle pas le cri du vrai fou ?
+{67696}{67753}Avez-vous eu vent de mes travaux ?
+{68445}{68469}Montez !
+{68510}{68565}Je suis armé. Montez !
+{68694}{68723}Démarrez !
+{68728}{68790}J'ai du liquide et des cartes.|Prenez mes clés !
+{68794}{68830}Démarrez !
+{69182}{69226}Tournez à droite !
+{69362}{69405}Où allons-nous ?
+{69410}{69437}Philadelphie.
+{69441}{69484}C'est à plus de 150 km !
+{69489}{69518}Justement !
+{69523}{69542}Laissez-moi.
+{69566}{69607}- Roulez !|- Prenez la voiture.
+{69614}{69645}Je sais pas conduire.
+{69686}{69765}Je vis sous terre depuis l'âge|de huit ans, je vous l'ai dit.
+{69818}{69868}Au prochain carrefour, à droite.
+{69953}{70023}Vous vous êtes évadé d'une cellule|il y a six ans !
+{70027}{70073}Six ans, pour vous.
+{70099}{70138}Tournez-vous ! Roulez !
+{70410}{70477}Je ne peux pas croire|qu'il s'agit d'une coïncidence.
+{70489}{70561}- Vous m'avez suivie ?|- Vous disiez vouloir m'aider.
+{70578}{70631}Je sais que vous ne l'entendiez pas|comme ça, mais...
+{70645}{70695}je n'ai pas d'argent.
+{70707}{70782}Je suis blessé à la jambe,|j'ai dormi dans la rue.
+{70794}{70827}Je dois pas sentir bon !
+{70851}{70882}Vous avez à manger ?
+{70930}{70966}Vous m'avez suivie.
+{71064}{71105}J'ai vu ça...
+{71124}{71182}dans une vitrine.
+{71199}{71247}Je sais lire, vous vous souvenez ?
+{71335}{71381}Pourquoi Philadelphie ?
+{71386}{71429}J'ai suivi la piste Baltimore...
+{71443}{71484}Ca n'a rien donné.
+{71515}{71602}Ils sont à Philadelphie,|ceux qui ont fait ça.
+{71618}{71659}Les Douze Singes.
+{71700}{71738}C'est la radio ?
+{71746}{71790}Vous pouvez l'allumer ?
+{71869}{71929}{y:bi}Ceci est un message personnel.
+{71950}{71998}{y:bi}Vous êtes au bout du rouleau ?
+{72005}{72060}{y:bi}Vous rêvez d'évasion ?
+{72069}{72148}{y:bi}Les Florida Keys vous attendent.|{y:bi}L'océan...
+{72155}{72203}J'ai jamais vu l'océan.
+{72215}{72270}C'est une publicité, M. Cole.
+{72302}{72330}Quoi ?
+{72371}{72405}C'est une publicité.
+{72410}{72472}Vous comprenez ?|Pas vraiment un message personnel.
+{72589}{72625}"M. Cole"...
+{72673}{72707}Vous m'appeliez James.
+{72712}{72736}Vous préférez ?
+{72824}{72867}Vous n'êtes pas vraiment armé ?
+{72872}{72939}Vous pouvez monter le son ?
+{73472}{73534}J'aime la musique du 20e siècle !
+{73582}{73628}J'aime cet air !
+{73632}{73687}J'aime respirer cet air !
+{74054}{74102}{y:bi}L'info en direct, par Roger Pratt.
+{74109}{74186}{y:bi}Les premiers secours|{y:bi}arrivent dans le champ
+{74191}{74241}{y:bi}où des camarades|{y:bi}de Ricky Neuman, 9 ans,
+{74246}{74301}{y:bi}l'ont vu disparaître sous leurs yeux.
+{74306}{74368}{y:bi}Il serait entré|{y:bi}dans un puits désaffecté
+{74373}{74457}{y:bi}et serait coincé|{y:bi}à près de 50 m de profondeur,
+{74462}{74546}{y:bi}probablement blessé.|{y:bi}Ses camarades ont entendu des cris...
+{74555}{74611}- Ne crie jamais au loup !|- Quoi ?
+{74630}{74699}Mon père me disait toujours ça.|" Ne crie jamais au loup,
+{74709}{74750}"sinon personne ne te croira
+{74754}{74793}s'il arrive quelque chose."
+{74805}{74843}S'il arrive quoi ?
+{74905}{74944}Quelque chose de mauvais.
+{74951}{75004}Il n'y a plus de musique ?|Arrêtez ça.
+{75009}{75057}On peut avoir de la musique ?
+{75145}{75191}Ca, c'est bien...
+{75699}{75773}{y:bi}Dr Railly,|{y:bi}ici Wikke, des admissions.
+{75802}{75857}{y:bi}Vous vous souvenez de James Cole,
+{75862}{75924}{y:bi}le paranoïaque|{y:bi}qui a imité Houdini en 90 ?
+{75929}{75980}{y:bi}Il a réapparu et...
+{76006}{76061}{y:bi}Il vous cherche !|{y:bi}Je préfère vous avertir.
+{76068}{76102}{y:bi}Soyez prudente.
+{76107}{76188}Je vous l'ai dit,|mon mari et moi l'avons laissée et...
+{76195}{76284}on ne l'a plus revue.|Ca ne lui ressemble pas.
+{76296}{76351}Vous connaissez|la marque de sa voiture ?
+{76370}{76421}Une Cherokee... modèle 94...
+{76430}{76466}métallisée.
+{78293}{78339}Vous étiez dans mon rêve.
+{78401}{78478}Vos cheveux sont différents.|D'une autre couleur.
+{78533}{78579}Je suis sûr que c'était vous.
+{78635}{78688}Que se passait-il, dans votre rêve ?
+{78748}{78789}C'était dans un aéroport.
+{78817}{78865}Avant que tout n'arrive.
+{78897}{78949}C'est un rêve|que je fais tout le temps.
+{78961}{79002}Je suis gamin.
+{79036}{79079}Et j'étais dedans ?
+{79096}{79136}Qu'est-ce que je faisais ?
+{79172}{79203}Vous étiez bouleversée.
+{79271}{79330}Vous êtes toujours bouleversée|dans le rêve.
+{79338}{79388}Mais je ne savais pas|que c'était vous.
+{79394}{79439}Ce n'était pas moi, avant.
+{79447}{79523}C'est devenu moi,|à cause de... ce qui se passe.
+{79588}{79638}Pourriez-vous me détacher ?
+{79739}{79789}Non, je crois|que ça a toujours été vous.
+{79818}{79859}C'est très étrange.
+{79885}{79981}Vous êtes rouge. Et vous gémissiez.|Vous avez de la fièvre.
+{80228}{80271}Que faites-vous ?
+{80551}{80572}{y:bi}A Fresno,
+{80577}{80666}{y:bi}les sauveteurs tentent toujours|{y:bi}de récupérer le petit Ricky.
+{80824}{80870}{y:bi}A Baltimore, Kathryn Railly,
+{80875}{80937}{y:bi}psychiatre de renom,|{y:bi}qui vient de publier un ouvrage
+{80942}{81018}{y:bi}sur la folie,|{y:bi}a mystérieusement disparu, hier soir,
+{81023}{81062}{y:bi}après une conférence.
+{81076}{81143}{y:bi}Un malade mental, James Cole,|{y:bi}est recherché
+{81148}{81203}{y:bi}dans le cadre de cette enquête.
+{81208}{81282}{y:bi}Cole étant connu pour sa violence,|{y:bi}les autorités recommandent
+{81289}{81349}{y:bi}de signaler sa présence à la police.
+{81591}{81635}J'adore cette musique.
+{81649}{81709}On n'a pas ça.|On n'a rien de tout ça.
+{81716}{81759}Qu'est-ce que c'est ?
+{81776}{81805}Ca ?
+{81819}{81874}Mes notes. Des indices.
+{81888}{81924}Quel genre d'indices ?
+{81929}{81972}A propos de l'armée secrète.
+{81976}{82029}Les Douze Singes|qui ont répandu le virus.
+{82036}{82106}Je suis là pour ça.|Je dois les trouver, c'est ma mission.
+{82111}{82180}Je dois les localiser.|Ils ont le virus dans sa forme originelle,
+{82185}{82221}avant sa mutation.
+{82226}{82293}Quand je les aurai trouvés,|un scientifique sera envoyé.
+{82298}{82377}Il étudiera le virus,|et quand il reviendra dans le présent,
+{82382}{82444}lui et les autres chercheurs|trouveront un remède.
+{82450}{82500}{y:bi}Plus de 50 policiers
+{82505}{82579}{y:bi}parmi lesquels|{y:bi}des éléments des forces spéciales
+{82586}{82682}{y:bi}ont été mobilisés|{y:bi}pour contenir un millier de badauds
+{82687}{82747}{y:bi}à Fresno, Californie...
+{82752}{82781}Ca vous dérange ?
+{82843}{82905}J'ai cru qu'ils nous avaient retrouvés
+{82910}{82941}et m'avaient arrêté.
+{82996}{83025}Je plaisante.
+{83147}{83212}Je me souviens avoir eu très peur|pour ce gosse...
+{83232}{83328}seul au fond d'un puits,|ignorant si on viendrait le chercher.
+{83364}{83422}C'était ma première vraie peur|d'enfant.
+{83427}{83465}Comment ça, "d'enfant" ?
+{83487}{83513}Peu importe.
+{83517}{83584}C'est un canular.|Il se cache dans une grange.
+{83888}{83955}Il y a des oracles|et des prophéties !
+{83960}{84044}"L'une des 4 bêtes|remit aux 7 anges
+{84049}{84133}"7 coupes|emplies de la colère de Dieu,
+{84140}{84202}qui vit pour les siècles des siècles."
+{84226}{84315}Vous me croirez quand il y aura|les premiers morts, dans un mois.
+{84342}{84401}On croira d'abord|à une fièvre bizarre.
+{84497}{84541}Puis on comprendra.
+{84553}{84598}On prendra conscience.
+{84653}{84687}Arrêtez !
+{84826}{84883}J'avais raison ! Ils sont ici !
+{84905}{84955}Regardez ! Les Douze Singes !
+{84996}{85051}Vous me croyez, maintenant ?
+{85133}{85164}Venez !
+{85189}{85237}Ils sont ici !
+{85244}{85283}Douze singes !
+{85518}{85559}Vous voyez ?
+{85575}{85642}Je vois de la peinture rouge.|Des signes.
+{85681}{85719}C'est ridicule...
+{85803}{85870}Ne faites pas de bêtises !|Sinon, je réponds de rien.
+{85885}{85959}Je ne ferai pas de bêtises,|mais vous vous trompez !
+{85964}{86024}Tu ne peux pas leur échapper, Bob.
+{86050}{86136}J'ai dit :|tu ne peux pas leur échapper.
+{86179}{86232}Non, mon vieux Bob.
+{86239}{86295}C'est même pas la peine d'essayer !
+{86376}{86429}Ils entendent tout !
+{86446}{86525}Ils ont installé un mouchard sur toi !
+{86593}{86665}Ils peuvent te retrouver partout,|n'importe quand !
+{86682}{86730}Ils les installent dans une dent...
+{86734}{86777}hein, Bob ?
+{86796}{86851}Mais je les ai bien eus !
+{86986}{87065}Ils n'ont pas à me surveiller.|Je fais ce que je dois.
+{87077}{87137}Vous voyez ? Il y en a d'autres.
+{87149}{87202}Suivons ces traces de peinture.
+{87331}{87379}Non, venez avec moi !
+{87384}{87427}Il y a d'autres traces !
+{87516}{87554}Lâchez-moi !
+{87559}{87597}James, on n'a rien à faire ici !
+{87945}{87974}Allons-nous-en !
+{88355}{88391}Ne me tuez pas !
+{88632}{88668}Bouge pas, salope !
+{89208}{89239}Ca va ?
+{89356}{89390}Il est vivant ?
+{89440}{89500}Vite ! On perd du temps !
+{89507}{89551}Vous pouvez rien pour lui !
+{89560}{89596}Vous l'avez tué !
+{89610}{89666}Je ne vois que des morts !
+{89718}{89764}Vous n'avez jamais eu d'arme !
+{89769}{89829}Maintenant, j'en ai une.|Venez !
+{89937}{90025}"Puis, le septième ange|répandit sa coupe dans l'air..."
+{90068}{90095}Toi !
+{90135}{90175}Tu es des nôtres !
+{90578}{90609}C'est là !
+{90616}{90645}Venez !
+{91002}{91040}Vous désirez ?
+{91165}{91211}C'est un enregistrement.
+{91319}{91364}Je cherche|l'Armée des Douze Singes.
+{91455}{91510}Jamais entendu parler.
+{91515}{91551}Disparaissez.
+{91558}{91575}Je veux savoir.
+{91580}{91611}Vous êtes sourd...
+{91728}{91761}Je suis psychiatre.
+{91771}{91814}Faites ce qu'il vous demande.
+{91821}{91864}Il est malade. Il est dangereux.
+{91871}{91907}Ne le contrariez pas !
+{91912}{91955}Que voulez-vous ? Du fric ?
+{91960}{91982}Je vous l'ai dit.
+{91996}{92027}Verrouillez la porte.
+{92111}{92174}Je vous ai dit|que ce con de Goines allait nous...
+{92221}{92241}Goines ?
+{92279}{92320}Jeffrey Goines ?
+{92370}{92394}Jeffrey
+{92401}{92471}est devenu une star des médias|parce qu'il militait
+{92476}{92545}contre son père, prix Nobel,|spécialiste en virologie.
+{92552}{92600}Vous avez dû voir ça à la télé.
+{92605}{92648}Je ne regarde pas la télé.
+{92679}{92703}C'est lui ?
+{92720}{92761}Oui. C'est lui.
+{92780}{92823}Qu'allez-vous nous faire ?
+{92890}{92922}Parlez-moi encore de Jeffrey.
+{92967}{93025}Il en a eu marre de nos conneries...
+{93029}{93087}Les sit-in, les tracts, les pétitions.
+{93097}{93161}Il disait qu'on était des modérés,|des branleurs.
+{93166}{93260}Il voulait mener des actions de guérilla|pour "éduquer" les gens.
+{93284}{93312}Ca ?
+{93317}{93384}C'est quand il a lâché cent serpents|dans le Sénat.
+{93388}{93472}On n'y a pas participé.|C'était inefficace, on lui a dit.
+{93477}{93513}Lui et onze autres
+{93518}{93606}ont fait une scission|et formé une armée secrète.
+{93647}{93693}L'Armée des Douze Singes.
+{93712}{93748}Vous voyez ?
+{93781}{93834}Ils préparaient|une "chasse à l'humain".
+{93839}{93896}Ils ont acheté des filets,|des pièges à ours
+{93901}{93952}pour capturer des banquiers|sur Wall Street.
+{93956}{94014}Ils ne l'ont pas fait, évidemment !
+{94019}{94069}Ce frimeur a encore lâché
+{94074}{94105}ses copains.
+{94110}{94148}Comment ça ?
+{94167}{94234}Il a fait une déclaration télévisée|pour annoncer
+{94239}{94306}que les expériences de son père|étaient vitales,
+{94311}{94378}I'utilisation des animaux,|indispensable,
+{94383}{94441}et que dorénavant,|lui, Jeffrey Goines,
+{94445}{94501}superviserait le labo de son père
+{94505}{94570}pour s'assurer|que les bêtes ne souffrent pas.
+{94727}{94765}C'est quoi, ça ?
+{94963}{95028}Vous ne pouvez pas|débarquer chez ces gens.
+{95032}{95060}Ca ne se fait pas.
+{95067}{95135}Conduisez et taisez-vous.|Je sais ce que je fais.
+{95139}{95207}Non ! C'est une voiture volée !
+{95219}{95254}Nous allons avoir de gros ennuis.
+{95262}{95300}De très gros ennuis !
+{95305}{95389}Si vous ne vous rendez pas,|ils vous tueront et...
+{95396}{95444}moi avec,|pour complicité de meurtre !
+{95449}{95480}Vous allez tous mourir.
+{95492}{95549}Personne ne va mourir !
+{95614}{95655}Vous ne sauverez pas le monde !
+{95684}{95787}Vous délirez. Vous avez fabriqué tout ça|dans votre tête.
+{95811}{95880}Si. Je vais vous donner un exemple.
+{95899}{95974}Vous avez connu Jeffrey Goines|à l'hôpital.
+{95979}{96024}Jeffrey Goines était...
+{96029}{96058}à la masse !
+{96082}{96146}Il vous a dit que son père était
+{96151}{96250}un savant, spécialiste des virus.|Vous avez fantasmé là-dessus !
+{96254}{96319}Il m'a dit que son père était Dieu !
+{96324}{96355}C'est dingue !
+{96360}{96403}{y:bi}La police confirme|{y:bi}que Kathryn Railly
+{96408}{96468}{y:bi}a été enlevée par un fou dangereux,
+{96482}{96559}{y:bi}James Cole,|{y:bi}qu'elle avait soigné il y a six ans,
+{96564}{96621}{y:bi}et qui s'était évadé de...
+{96805}{96853}Qu'avez-vous à la jambe ?
+{96877}{96905}J'ai pris une balle.
+{96946}{96975}Qui vous a tiré dessus ?
+{97004}{97071}Ca ressemblait à une guerre.|Peu importe.
+{97092}{97128}Vous me croiriez pas.
+{97152}{97174}Que faites-vous ?
+{97227}{97296}- On n'a pas besoin d'essence !|- Qu'en savez-vous ?
+{97303}{97375}J'étais trop jeune pour conduire,|pas idiot !
+{97416}{97514}On ne peut pas continuer.|Il faut que je vous enlève cette balle.
+{97538}{97606}Je suis médecin.|Il me faut du matériel.
+{98140}{98207}{y:bi}A Fresno, les ingénieurs des mines
+{98212}{98279}{y:bi}poursuivent le forage d'un puits
+{98285}{98369}{y:bi}parallèle à celui dans lequel|{y:bi}le petit Ricky est bloqué.
+{98374}{98432}{y:bi}On espère|{y:bi}qu'il y a toujours une chance...
+{98454}{98550}Vous ne devriez pas marcher.|Il vous faudrait des antibiotiques.
+{98569}{98634}Vous avez de la chance|que ce soit superficiel.
+{98764}{98814}J'aime voir le soleil.
+{98989}{99030}Je vais vous aider.
+{99165}{99203}Vous sentez bon !
+{99273}{99318}Il faut vous rendre.
+{99412}{99438}Vous le savez ?
+{99649}{99680}Pardon.
+{99685}{99714}Que faites-vous ?
+{99839}{99872}Laissez-moi !
+{100034}{100070}- Ils l'ont retrouvé ?|- Qui ça ?
+{100075}{100113}Le môme, dans le puits.
+{100118}{100178}Crois-moi si tu veux,|ils y envoient un singe
+{100183}{100245}bardé d'une caméra à infrarouges
+{100250}{100312}avec un sandwich|dans du papier d'alu.
+{100317}{100399}- Tu te fous de moi.|- Non, je te jure. La vie est bizarre.
+{100404}{100461}Un singe avec un sandwich !
+{100715}{100802}Je voudrais pouvoir jouir|de ce banquet et de cette...
+{100828}{100881}assemblée si brillante...
+{100886}{100967}pour eux-mêmes, sans autre but.
+{100986}{101022}Mais hélas,
+{101029}{101080}je ploie sous les devoirs.
+{101108}{101197}Car cette soudaine attention du public|et ce concert de louanges
+{101212}{101281}s'accompagnent|de grandes responsabilités.
+{101307}{101353}Inutile de vous rappeler
+{101358}{101454}que les dangers de la Science|sont un thème rebattu.
+{101475}{101516}Depuis Prométhée...
+{101535}{101602}Quel ami ?|Je n'attends personne.
+{101697}{101738}C'est ridicule !
+{101750}{101805}Mon père fait un discours capital !
+{101836}{101887}...de redouter le pouvoir
+{101920}{101968}dont nous disposons.
+{102011}{102081}D'habitude, quand on coince|un type comme ça,
+{102086}{102153}on le tatane,|passez-moi l'expression.
+{102165}{102210}Celui-là dit vous connaître.
+{102215}{102299}Et comme vous avez eu|de drôles de fréquentations,
+{102305}{102379}on n'a pas pris le risque|de coffrer un de vos intimes.
+{102796}{102828}Jamais vu de ma vie.
+{102832}{102907}Vous pouvez le torturer,|si ça vous chante...
+{102911}{102955}Je retourne écouter|le discours
+{102959}{103012}- ...de mon père.|- Je viens pour les singes.
+{103075}{103103}Les singes ?
+{103146}{103185}Douze singes.
+{103289}{103323}Arnold.
+{103338}{103386}- Tu es dans un état !|- Vous le connaissez ?
+{103391}{103468}Bien sûr.|Arnold... Pettibone.
+{103492}{103561}C'est une soirée habillée.|Je t'ai dit de passer,
+{103566}{103655}mais c'est un grand soir pour papa.|Sénateurs, agents secrets...
+{103664}{103712}Tu as faim, Arnie ?
+{103753}{103844}C'est l'orgie : agneau mort,|vache morte, cochon mort...
+{103998}{104050}La grande évasion, 1990...
+{104077}{104115}L'hosto... C'est bien ça ?
+{104120}{104213}Je ne peux rien changer|à ce que vous allez faire.
+{104218}{104302}Je ne peux rien empêcher.|Je veux juste une information.
+{104324}{104400}Rebonsoir, mesdames.|Attention à la marche !
+{104410}{104480}Qui a vendu la mèche ?|Bruhns ? Weller ?
+{104484}{104527}Il me faut le virus originel.
+{104549}{104611}Pour le futur. Dis-moi où il est|et ce que c'est.
+{104626}{104700}Je comprends !|Toujours ton vieux projet !
+{104705}{104791}Quel projet ?|De quoi tu parles ? Quel projet ?
+{104818}{104863}On était en salle de télé,
+{104867}{104932}tu te lamentais|sur le viol de la planète
+{104936}{105004}et tu m'as dit :|"Ce serait génial, si un virus
+{105008}{105080}éliminait les hommes|en épargnant bêtes et plantes !"
+{105085}{105133}Tu cherches à m'embrouiller !
+{105138}{105210}Je t'ai dit que mon père|était spécialiste des virus.
+{105215}{105279}Tu as dit :|"On pourrait lui en piquer un !"
+{105306}{105363}Il s'est propagé !|On vit sous terre !
+{105368}{105428}Le monde appartient|aux chiens et aux chats !
+{105433}{105481}On vit comme des vers de terre !
+{105498}{105529}Il faut que je sache !
+{105553}{105613}Tu es complètement dingue !
+{105617}{105665}Délirant ! Parano !
+{105670}{105728}Tu as le disque dur qui disjoncte !
+{105732}{105764}Tu as les fichiers
+{105768}{105795}qui débordent !
+{105800}{105852}Tu sais ce que c'est,|l'Armée des Douze Singes ?
+{105857}{105924}Un ramassis d'écolos,|défenseurs de la forêt !
+{105931}{105975}Je n'ai plus rien à faire avec eux !
+{105979}{106032}Je ne suis plus|le fils à papa de service
+{106037}{106083}de cette bande de branleurs !
+{106091}{106136}Ton grand projet tombe à l'eau !
+{106141}{106208}Mon père dénonce|les dangers de l'expérimentation
+{106215}{106266}sur L'ADN et les virus|depuis des années !
+{106271}{106352}Ces informations ont imprégné|ton esprit paranoïaque !
+{106357}{106414}Résultat : une organisation généreuse
+{106419}{106486}devient un groupuscule|de la pire espèce !
+{106490}{106538}Ce type est complètement jeté !
+{106543}{106579}Mesdames et messieurs,
+{106584}{106648}vous savez d'où il prétend venir ?
+{106720}{106792}{y:bi}Le capitaine Miller,|{y:bi}responsable des secours,
+{106797}{106876}{y:bi}a consulté des experts|{y:bi}et nous assure...
+{106895}{106979}Si tu veux mon avis,|le singe va bouffer le sandwich.
+{106984}{107039}Vous avez vu un homme qui courait ?
+{107164}{107262}{y:bi}Une femme a été retrouvée étranglée|{y:bi}dans le parc de Knutson.
+{107269}{107313}{y:bi}Il pourrait s'agir
+{107317}{107365}{y:bi}de Kathryn Railly...
+{107430}{107485}Vous avez vu passer quelqu'un ?
+{107584}{107625}{y:bi}De source non officielle,
+{107632}{107707}{y:bi}la victime,|{y:bi}une femme d'une trentaine d'années,
+{107712}{107752}{y:bi}aurait été sauvagement mutilée.
+{107757}{107834}{y:bi}La police avait retrouvé|{y:bi}la voiture du Dr Railly...
+{107949}{107975}Alors ?
+{108006}{108035}Rien.
+{108076}{108124}Il n'a pas pu se volatiliser.
+{108622}{108650}Salaud !
+{108722}{108785}J'aurais pu mourir, là-dedans !
+{108813}{108866}Qu'est-ce qui vous a pris,
+{108871}{108924}espèce de tordu de merde ?
+{108981}{109032}Pardon, j'avais pas le choix.
+{109267}{109346}Qu'avez-vous fait ?|Vous avez tué quelqu'un ?
+{109379}{109427}Cinq milliards d'êtres humains !
+{109434}{109463}Quoi ?
+{109470}{109571}Jeffrey Goines m'a dit|que l'idée du virus était de moi !
+{109590}{109643}On était à l'asile...
+{109648}{109703}j'étais bourré de médicaments...
+{109720}{109765}Vous croyez que c'est moi ?
+{109771}{109836}J'aurais exterminé l'espèce humaine ?
+{109843}{109911}Personne ne va exterminer|l'espèce humaine !
+{109916}{109974}Ni vous, ni Jeffrey, ni personne !
+{109993}{110051}C'est une construction|de votre esprit...
+{110072}{110106}Je suis divergent ?
+{110111}{110185}Peu importe !|Un substitut à la réalité...
+{110228}{110293}parce que vous refusez de l'assumer.
+{110319}{110374}J'aimerais que ce soit vrai.
+{110405}{110509}Ca se soigne, mais il faut le vouloir.|Je peux vous aider.
+{110585}{110650}Ils me cherchent !|Venez ! Il faut partir !
+{110674}{110739}Il y avait des policiers à cette fête !
+{110767}{110832}Une fête ?|Vous êtes allé à une...
+{110854}{110945}Peu importe.|Il faut vous rendre volontairement.
+{110950}{111017}Si seulement j'étais fou !|Le monde serait sauvé !
+{111022}{111070}- J'ai perdu le flingue !|- Où ça ?
+{111074}{111115}Je pourrais vivre ici !
+{111132}{111221}Il y a de l'eau... de l'air...|des étoiles !
+{111225}{111326}Je vais les appeler.|Je vais leur signaler notre présence.
+{111387}{111426}J'aime ce monde !
+{111431}{111476}Ne leur résistez pas !
+{111481}{111536}J'aime les grenouilles|et les araignées !
+{111541}{111577}Je serai avec vous.
+{111582}{111642}Je vous aiderai.|Je ne les laisserai pas...
+{111909}{112009}Je lui ai dit de ne pas résister.|Il était d'accord.
+{112024}{112072}Je suis montée dans la voiture...
+{112153}{112249}J'ai klaxonné, et quand je suis sortie,|il n'était plus là.
+{112297}{112383}Vous êtes vernie. On a cru|qu'il vous avait coupée en morceaux.
+{112391}{112467}- Il ne ferait pas ça.|- C'est l'homme qu'il a tué ?
+{112571}{112618}Que les choses soient claires...
+{112623}{112681}Cet homme et un autre|nous frappaient.
+{112700}{112772}James Cole n'a fait|que venir à mon secours.
+{112837}{112930}C'est drôle. Vous allez m'expliquer ça,|vous qui êtes psychiatre...
+{112978}{113086}Pourquoi les victimes d'enlèvements|parlent toujours de leurs ravisseurs
+{113102}{113162}comme si elles voulaient|nous convaincre
+{113176}{113248}de la gentillesse de ces salauds ?
+{113260}{113342}C'est une réaction normale|quand on a risqué sa vie.
+{113404}{113457}Il est malade.
+{113490}{113548}Il croit venir du futur.|Il s'est construit
+{113553}{113660}un univers fantasmatique|qui se désintègre. Il a besoin d'aide.
+{113870}{113949}{y:bi}Epuisée mais apparemment|{y:bi}en bonne santé,
+{113959}{114011}{y:bi}le Dr Railly a regagné Baltimore
+{114016}{114088}{y:bi}sans faire de déclaration.|{y:bi}La psychiatre
+{114093}{114148}{y:bi}reste cloîtrée chez elle.
+{114155}{114242}{y:bi}La police a pu reconstituer|{y:bi}la suite d'événements
+{114246}{114323}{y:bi}qui a débuté|{y:bi}quand le malade mental, James Cole...
+{114328}{114357}Pardon.
+{114362}{114443}Ca va. Je suis un peu sur les nerfs.|Je n'arrive pas à dormir.
+{114462}{114561}- Tu as pris ton calmant ?|- J'aime pas ces trucs-là. Ca m'abrutit.
+{114642}{114704}{y:bi}Outre cet enlèvement, James Cole
+{114708}{114754}{y:bi}est également recherché
+{114759}{114842}{y:bi}pour le meurtre de R. Wiggins,|{y:bi}un repris de justice,
+{114847}{114914}{y:bi}retrouvé mort|{y:bi}dans un théâtre désaffecté,
+{114919}{114998}{y:bi}près de l'endroit où Cole|{y:bi}avait ligoté trois amis des bêtes,
+{115013}{115061}{y:bi}dans leur QG de la 2e Avenue.
+{115065}{115145}Ils s'imaginent|qu'il va réapparaître ici ?
+{115169}{115200}{y:bi}A Fresno...
+{115243}{115293}Il est mort, le petit garçon ?
+{115298}{115380}Non. C'était un canular|monté avec ses copains.
+{115384}{115459}{y:bi}Les recherches pour retrouver|{y:bi}le petit Ricky Neuman
+{115463}{115521}{y:bi}ont cessé,|{y:bi}ses camarades ayant avoué
+{115526}{115571}{y:bi}qu'il s'agissait d'un canular
+{115588}{115674}{y:bi}et que l'enfant|{y:bi}se cachait dans une grange.
+{116220}{116265}Félicitations, Cole !
+{116343}{116389}Vous nous avez dit
+{116394}{116422}aimer la musique.
+{116427}{116475}- Fini la prison.|- Vous êtes à l'hôpital.
+{116480}{116523}Jusqu'à votre rétablissement.
+{116528}{116552}Vous êtes perturbé.
+{116557}{116602}C'est stressant|de voyager dans le temps !
+{116607}{116655}Vous vous en êtes bien tiré...
+{116660}{116727}Vous êtes remonté|jusqu'aux Goines, père et fils.
+{116732}{116792}- D'autres vous remplacent.|- La victoire est proche.
+{116797}{116820}La reconquête !
+{116825}{116876}Et voici votre récompense.
+{116880}{116904}Vous êtes gracié.
+{116909}{116943}Vous serez libéré.
+{116948}{116986}A vous les femmes !
+{116996}{117060}J'en veux pas, de vos femmes !|Je veux guérir !
+{117185}{117240}Vous guérirez, James.
+{117269}{117302}Bientôt.
+{117410}{117470}Vous n'existez pas.|Vous n'êtes pas vrais.
+{117489}{117537}On ne voyage pas dans le temps.
+{117591}{117625}Vous n'êtes pas là !
+{117629}{117670}Vous ne m'aurez pas.
+{117718}{117766}Vous êtes dans ma tête !
+{117833}{117915}Je suis fou. Vous êtes ma folie.
+{118185}{118278}Il a parlé de "canular"|et savait que l'enfant se cachait !
+{118338}{118369}Il vous a enlevée.
+{118384}{118434}Vous l'avez vu tuer quelqu'un
+{118439}{118528}et vous saviez qu'il pouvait très bien|vous tuer, vous aussi.
+{118552}{118609}Vous étiez en proie|à une vive émotion.
+{118614}{118662}Au nom du ciel, écoutez-moi !
+{118679}{118743}Il savait, pour le gosse,|et il prédit 5 milliards
+{118748}{118772}de morts !
+{118777}{118834}C'est tout simplement impossible !
+{118902}{118976}Vous êtes un être rationnel.|Vous êtes psychiatre.
+{118981}{119048}Vous savez démêler le vrai du faux.
+{119053}{119125}Nous appelons "vérité"|ce qui fait l'unanimité.
+{119141}{119228}La psychiatrie est une religion :|on décrète ce qui est vrai ou faux,
+{119232}{119276}qui est fou ou pas.
+{119340}{119422}J'ai un sérieux problème...|Je perds la foi.
+{119472}{119537}{y:bi}Tu en as fait de belles, Bob !
+{119544}{119659}{y:bi}Mais je comprends que tu veuilles pas|{y:bi}qu'on te mette le nez dans tes erreurs.
+{119663}{119728}{y:bi}Je comprends bien, vieux.
+{119773}{119821}{y:bi}Je sais ce que tu penses.
+{119826}{119927}{y:bi}Tu penses que je n'existe|{y:bi}que dans ta tête.
+{119941}{119977}{y:bi}Je me mets à ta place.
+{119996}{120068}{y:bi}Mais tu pourrais quand même|{y:bi}me parler, non ?
+{120081}{120117}Je vous ai vu.
+{120127}{120163}En 1996.
+{120170}{120237}Dans la réalité !|Vous vous étiez arraché les dents !
+{120242}{120311}{y:bi}Pourquoi je me les serais arrachées ?
+{120316}{120359}{y:bi}Négatif.
+{120364}{120422}{y:bi}Et tu m'as vu quand ?
+{120427}{120462}{y:bi}En 1872 ?
+{120467}{120503}Laissez-moi !
+{120508}{120587}{y:bi}Ce n'est pas en hurlant|{y:bi}que tu obtiendras ce que tu veux.
+{120599}{120690}{y:bi}Sois malin,|{y:bi}pour obtenir ce que tu veux.
+{120748}{120777}Qu'est-ce que je veux ?
+{120781}{120834}{y:bi}Tu ne sais pas ce que tu veux ?
+{120851}{120908}{y:bi}Bien sûr que si, Bob.
+{120920}{120968}{y:bi}Tu sais ce que tu veux !
+{120973}{121045}Dites-moi ce que je veux.
+{121059}{121146}{y:bi}Voir le ciel... l'océan...
+{121163}{121215}{y:bi}Etre à la surface.
+{121224}{121274}{y:bi}Respirer l'air.
+{121284}{121349}{y:bi}Etre avec... elle.
+{121369}{121419}{y:bi}Pas vrai ?
+{121429}{121489}{y:bi}C'est pas ça que tu veux ?
+{121963}{122021}Dr Railly ?|lnspecteur Jim Halperin.
+{122026}{122069}Pardon d'appeler si tôt.
+{122076}{122110}Vous l'avez retrouvé ?
+{122124}{122155}Il va bien ?
+{122167}{122213}Non, au contraire...
+{122218}{122318}Aucune nouvelle de votre cher ravisseur.|Mais le mystère s'épaissit.
+{122325}{122361}J'ai l'expertise balistique.
+{122366}{122445}La balle que vous dites|avoir extraite de sa cuisse
+{122455}{122488}est une antiquité.
+{122520}{122623}{y:bi}Tout indique qu'elle a été tirée|{y:bi}peu avant 1920...
+{122663}{122699}Ce n'est pas possible !
+{122738}{122807}Vous voulez peut-être|modifier votre déposition.
+{123646}{123727}Inutile d'essayer de nous tromper.|Ca ne marcherait pas.
+{123809}{123871}Seriez-vous accro, Cole,
+{123892}{123933}à ce monde agonisant ?
+{123998}{124101}Je veux contribuer à nous ramener|à la surface, aux commandes de la planète.
+{124106}{124192}J'ai de l'expérience.|Je connais les gens impliqués.
+{124216}{124267}Il est le plus qualifié.
+{124272}{124318}Mais son comportement...
+{124325}{124383}Vous avez dit|que nous n'existions pas !
+{124402}{124476}Je ne pense pas que notre cerveau|soit fait pour évoluer...
+{124495}{124524}dans deux...
+{124547}{124609}comment dire... deux dimensions.
+{124614}{124676}C'est trop stressant,|vous l'avez dit vous-mêmes.
+{124688}{124748}Ca perturbe.|On ne sait plus ce qui est vrai.
+{124753}{124806}Mais vous le savez, maintenant ?
+{124847}{124873}Oui.
+{124933}{124988}Non, je ne connais aucune...
+{124998}{125051}armée de singes, docteur !
+{125075}{125118}Absolument pas.
+{125122}{125209}Seigneur ! Si mon fils|était mêlé à ce genre de chose...
+{125301}{125409}Désolé, mais je vois au moins|deux raisons de ne pas aborder...
+{125430}{125531}les questions de sécurité|avec vous, Dr... Railly.
+{125550}{125649}Mais si cela peut vous rassurer,|je vous garantis
+{125653}{125732}que ni mon fils|ni aucune personne étrangère au labo
+{125737}{125855}n'a accès à des cultures|potentiellement dangereuses.
+{125864}{125900}C'est clair, comme ça ?
+{125905}{125946}Merci infiniment !
+{126075}{126138}Les femmes psychiatres...
+{126199}{126257}J'ai assisté à l'une de ses conférences.
+{126273}{126331}"Visions d'apocalypse."
+{126374}{126439}Il lui est venu tout d'un coup
+{126444}{126549}une idée saugrenue concernant Jeffrey.
+{126580}{126645}Serait-elle victime...
+{126659}{126695}de son prétendu...
+{126705}{126755}syndrome de Cassandre ?
+{126806}{126901}Il vaut peut-être mieux|revoir nos mesures de sécurité.
+{126937}{126990}Les renforcer.
+{127005}{127038}Mettez le paquet.
+{127170}{127230}Revoyons encore|ce que nous savons.
+{127244}{127307}Les premiers symptômes|étant apparus à Philadelphie
+{127311}{127398}le 27 décembre 1996,|nous pouvons en déduire que...
+{127403}{127484}...le virus y a été répandu|vers le 13 décembre 96.
+{127498}{127573}Puis, il est apparu successivement à...
+{127582}{127628}...San Francisco,|La Nouvelle-Orléans,
+{127633}{127690}Rio de Janeiro,
+{127702}{127755}Rome, Kinshasa,
+{127762}{127808}Karachi, Bangkok et Pékin.
+{127891}{127939}Très bien répondu !
+{128013}{128061}Y A-T-IL UN VIRUS ?|VIENT-IL D'ICI ?
+{128066}{128099}5 MILLIARDS DE MORTS ?
+{128200}{128255}Il y a quelqu'un ?|Il faut que je vous parle !
+{128286}{128377}C'est la femme qui a été enlevée|par le type qui nous a ligotés !
+{128387}{128430}Eteins !
+{128450}{128520}- Qu'est-ce qu'elle fait ?|- Elle nous fait remarquer !
+{128525}{128635}Je sais pas ce que tu prépares, Goines,|mais tu nous fous dans la merde !
+{128640}{128693}Les batteries des talkies|sont chargées ?
+{128726}{128798}Je vous ai vus !|Je sais qu'il y a quelqu'un !
+{128805}{128851}Des expériences secrètes...
+{128860}{128906}voilà ce qu'ils font.
+{128915}{128983}Des drôles de trucs en secret !
+{129003}{129065}- Pas seulement sur les animaux.|- Je vous connais.
+{129070}{129108}Sur les gens, aussi.
+{129115}{129154}Avez-vous vu James Cole ?
+{129163}{129199}Ils vous surveillent.
+{129211}{129262}- Ils prennent des photos.|- La police ?
+{129269}{129314}Je sais. Ecoutez...
+{129377}{129420}Il faut que je contacte James.
+{129424}{129515}Qu'il fasse très attention|s'il essaie de me joindre. Compris ?
+{129577}{129606}Qui est James ?
+{129613}{129649}Il était avec moi.
+{129654}{129704}Il vous a parlé...|il y a quelques semaines.
+{129709}{129750}Il a dit|que vous veniez du futur
+{129755}{129791}pour le surveiller !
+{130016}{130057}Tu as les cisailles ?
+{130062}{130131}Oui, dans le fourgon.|Le plan du système de sécurité ?
+{130136}{130186}Tout est là, en mémoire !
+{130222}{130263}Vous savez ce qu'elle fait ?
+{130268}{130294}Elle écrit quoi ?
+{130301}{130328}Je vois pas.
+{130332}{130373}On oublie ma psychiatre
+{130380}{130436}et on se concentre|sur ce qu'on a à faire !
+{130460}{130505}Ta psychiatre ?
+{130510}{130577}Tu as bien dit... ta... psychiatre ?
+{130582}{130613}Ex-psychiatre.
+{130618}{130716}C'est ta psychiatre,|qui est en train de bomber notre mur ?
+{131023}{131054}Kathryn !
+{131276}{131319}Il y a un policier.|Ne me parlez pas.
+{131326}{131384}Je veux me rendre. Où est-il ?
+{131468}{131547}Ca va. Je ne suis plus fou.|Ou plutôt si...
+{131552}{131619}Je fais de la divergence mentale.|Je le sais, maintenant.
+{131624}{131698}Il faut que vous m'aidiez.|Je veux guérir.
+{131842}{131873}Il se tire !
+{132161}{132199}J'ai déjà vu ça.
+{132317}{132381}Une Ford les suit, elle et un type !
+{132427}{132518}Sans doute un nouvel enlèvement|de la psy de Jeffrey !
+{132525}{132580}Pardon... Ex-psy.
+{132605}{132656}C'est ça, votre chef ?
+{132661}{132747}Un échappé de cabanon|qui raconte à sa psy
+{132751}{132803}je ne sais quel projet délirant ?
+{132809}{132855}Va savoir ce qu'elle a écrit !
+{132860}{132922}On s'en tape, de ce qu'elle écrit !
+{132934}{133008}Tu crois que je lui ai parlé|de l'Armée des Douze Singes ?
+{133013}{133075}Impossible !|Tu sais pourquoi ?
+{133080}{133157}Parce que, misérable nullité,
+{133162}{133226}ami des bêtes de mes deux...
+{133231}{133286}quand j'avais affaire à elle,|il y a six ans,
+{133291}{133344}j'avais pas encore pensé|à tout ça !
+{133349}{133401}Alors comment est-elle au courant ?
+{133435}{133476}J'ai ma théorie là-dessus.
+{133481}{133591}Quand j'étais interné, ils ont étudié|mon cerveau, pour la Science.
+{133596}{133684}J'ai été interrogé,|examiné sous toutes les coutures.
+{133720}{133785}Ces données|ont été entrées dans un ordinateur
+{133790}{133859}et ils ont créé|un modèle de mon esprit
+{133864}{133965}avec lequel ils ont produit|toutes les idées que je pourrais avoir
+{133970}{134010}dans les dix ans à venir.
+{134015}{134114}Ils les ont ensuite soumises|au calcul des probabilités
+{134118}{134197}pour déterminer ce que je ferais|au cours de cette période !
+{134202}{134241}Tu vois...
+{134255}{134334}elle a su qu'avec les 12 Singes|j'écrirais une page d'histoire,
+{134338}{134374}avant même que j'y pense.
+{134379}{134463}Elle sait tout ce que je vais faire|avant moi.
+{134467}{134506}Qu'est-ce que t'en dis ?
+{134563}{134585}Kwesky...
+{134594}{134657}On se retrouve là-bas.|Si t'oublies un truc,
+{134662}{134724}je te fais raser,|stériliser et éliminer !
+{134777}{134815}Tu es un grand homme.
+{134834}{134873}On les baisera !
+{134952}{134997}Il est vraiment atteint.
+{135009}{135045}Vous le savez, non ?
+{135772}{135796}Là !
+{136145}{136197}- Une chambre.|- 35$ l'heure.
+{136202}{136226}L'heure ?
+{136233}{136317}Vous voulez qu'un quart d'heure ?|Allez voir ailleurs !
+{136538}{136571}Tenez...
+{136583}{136677}25, 26, 27...|Pour une heure, d'accord ?
+{136818}{136885}Une heure, ma poule. N64.
+{136890}{136952}Sixième, au fond du couloir.
+{136957}{136998}L'ascenseur est en panne.
+{137031}{137070}C'est pas une poule.
+{137077}{137113}Elle est médecin.
+{137125}{137159}C'est ma psychiatre.
+{137175}{137204}Vu ?
+{137259}{137324}Si ça peut te faire bander...
+{137528}{137595}Tommy ?|C'est Charlie, du Globe.
+{137625}{137728}Tu sais si Wallace a une nouvelle,|genre qui débute, un peu zarbie,
+{137733}{137781}spécialisée ?
+{137814}{137927}Vous regardiez la lune,|les pieds dans l'eau... et ensuite ?
+{137989}{138042}J'ai cru que j'étais revenu|en prison.
+{138047}{138100}Comme ça, d'un coup ?|En prison ?
+{138105}{138153}Non, pas vraiment...
+{138169}{138232}Vous l'avez dit, c'est dans ma tête.
+{138272}{138306}Vous avez disparu !
+{138311}{138390}Vous étiez là,|et tout d'un coup vous n'y étiez plus...
+{138395}{138433}Vous avez couru dans les bois ?
+{138452}{138488}Je ne sais pas.
+{138517}{138548}Je ne me souviens pas.
+{138586}{138670}Le petit garçon... Comment saviez-vous|que c'était une blague ?
+{138694}{138723}C'était ça ?
+{138752}{138778}Je ne savais pas.
+{138783}{138821}Vous saviez qu'il se cachait !
+{138826}{138893}J'ai dû voir un film à la télé|quand j'étais gosse.
+{138898}{138927}Un petit garçon...
+{138932}{138982}Ce n'était pas un film,|c'était vrai !
+{139008}{139059}Peut-être qu'il a vu|le même film
+{139064}{139107}et qu'il l'a imité.
+{139126}{139195}Vous aviez raison, je suis malade.
+{139207}{139258}J'ai imaginé tout ça, ces gens...
+{139288}{139365}Je sais qu'ils n'existent pas,|je peux les tromper.
+{139391}{139444}Je les manipule.|Je les ai baratinés
+{139449}{139499}et je suis revenu.|Je peux guérir.
+{139504}{139537}Je peux rester ici.
+{139542}{139585}Ca vous rappelle quoi ?
+{139803}{139887}J'ai dû faire un rêve... comme ça.
+{139933}{140002}Vous aviez une balle de 1917|dans la jambe ! Comment ?
+{140007}{140043}Je ne sais pas.
+{140048}{140127}Vous avez dit que je délirais,|que vous pouviez m'expliquer...
+{140139}{140180}Je ne peux pas !
+{140206}{140252}J'essaie et...
+{140295}{140369}Je ne peux pas croire|que tout ça ait déjà eu lieu !
+{140398}{140446}On ne peut rien empêcher...
+{140454}{140514}et si 5 milliards de personnes|doivent mourir...
+{140550}{140603}Je veux tout ignorer du futur.
+{140682}{140744}Je veux redevenir un être normal.
+{140768}{140823}Je veux que ce soit le présent.
+{140850}{140919}Je veux rester ici, cette fois.
+{140952}{140983}Avec vous.
+{141677}{141711}Vous vous souvenez ?
+{141715}{141780}Il y a six ans,|vous aviez un numéro de téléphone.
+{141795}{141854}- Un mauvais numéro...|- Une femme a répondu.
+{141859}{141946}Il n'était pas bon en 90,|il l'est peut-être aujourd'hui.
+{141967}{142008}Vous vous en souvenez ?
+{142171}{142248}C'est mon territoire, pute !
+{142298}{142336}C'est réel ou je délire ?
+{142341}{142377}C'est bien réel !
+{142408}{142437}Pardon...
+{142442}{142523}je pense qu'il doit y avoir|un petit malentendu.
+{142587}{142611}Ah oui ?
+{142640}{142688}Toi, tu restes assis !
+{142693}{142762}Et toi, écoute-moi, petit malentendu !
+{142777}{142827}Si tu crois pouvoir tapiner|derrière mon dos
+{142834}{142887}dans le secteur,|je te prie de croire
+{142892}{142961}qu'il est plutôt maouss,|le malentendu !
+{143165}{143208}Enferme-le !|Prends son fric !
+{143225}{143256}Je le dépouille ?
+{143261}{143306}On a besoin d'argent !
+{143335}{143359}Appelez les flics !
+{143493}{143541}J'ai des amis, mec !
+{143546}{143582}Me tue pas, bordel !
+{143755}{143817}Qu'est-ce que tu branles ?
+{143824}{143891}Ne lui fais pas de mal !|Ouvre !
+{144124}{144162}Au cas où...
+{144173}{144224}je ne serais pas fou.
+{144233}{144269}Ils nous repèrent avec ça.
+{144289}{144325}Avec nos dents.
+{144349}{144424}Je ne veux plus qu'ils me retrouvent.|Jamais.
+{144452}{144493}Je ne veux plus y retourner.
+{144831}{144891}Jetez vos armes et sortez !
+{145059}{145097}C'est les flics ?
+{145107}{145145}Je suis une victime innocente !
+{145163}{145228}J'ai été agressé|par une pute bourrée de coke
+{145233}{145288}et un dentiste niqué de la tête !
+{145607}{145650}Essayons de passer inaperçus.
+{145770}{145830}On va bien trouver un téléphone.
+{145848}{145877}Là !
+{145884}{145905}Là-bas.
+{145917}{145956}Je vais essayer le numéro.
+{145961}{146013}Espérons que ça ne donnera rien.
+{146716}{146809}Tout va bien ! Nous sommes fous !|C'est une entreprise de nettoyage !
+{146848}{146941}Pas de supérieurs, pas de scientifiques,|pas d'hommes du futur !
+{146948}{146992}Une entreprise|de nettoyage de tapis !
+{146996}{147092}Un répondeur. On laisse un message|pour récupérer son tapis !
+{147097}{147152}- Tu as laissé un message ?|- Je n'ai pas pu résister.
+{147159}{147274}Ils entendront une folle leur dire de|se méfier de l'Armée des Douze Singes !
+{147291}{147358}J'ai dit : "La FFA...
+{147363}{147469}"...est le QG|de l'Armée des Douze Singes.
+{147480}{147525}"Ce sont eux qui vont le faire.
+{147542}{147602}"Je ne peux rien faire de plus.|Je dois partir.
+{147609}{147659}Joyeux Noël !"
+{147782}{147827}Tu n'as pas pu m'entendre.
+{147950}{148002}Ils ont eu ton message.
+{148038}{148084}Ils me l'ont fait écouter.
+{148109}{148162}Un mauvais enregistrement.
+{148166}{148200}Déformé.
+{148231}{148281}Je n'ai pas reconnu ta voix.
+{148735}{148763}Ca...
+{148792}{148823}ça...
+{148905}{148936}et ça.
+{148970}{149027}Ca va ? Tu veux quelque chose ?
+{149136}{149180}{y:bi}Je mets ça sur un compte ?
+{149184}{149244}Non... je paie en liquide.
+{149341}{149399}Les perruques, quel étage ?
+{149725}{149780}- Quel con, ce Fale !|- Il a dit :
+{149816}{149885}"Si vous vous faites choper,|ce dont je ne doute pas,
+{149890}{149957}je ne vous connais pas !"
+{150240}{150260}Roule !
+{150379}{150456}Ouvrons le sac !|Il a les yeux bandés, non ?
+{150497}{150526}Pas vrai ?
+{150602}{150636}Ouvre-le !
+{150788}{150839}Vous voulez entendre le singe ?
+{150899}{150951}Jeffrey... je sais que c'est toi.
+{150956}{151009}- J'ai reconnu ta voix.|- Non !
+{151014}{151062}Et je sais aussi
+{151069}{151170}ce que tu manigances.|Ta psychiatre m'en a parlé.
+{151177}{151206}Je ne l'ai pas crue...
+{151210}{151285}Ca me semblait trop fou,|même pour toi.
+{151289}{151347}Mais, par précaution,|j'ai pris des mesures
+{151352}{151407}pour contrecarrer toute tentative.
+{151412}{151484}Je n'ai plus le code, Jeffrey.
+{151488}{151541}Je n'ai plus accès au virus.
+{151560}{151613}Je me suis mis hors circuit.
+{151620}{151656}Trop tard !
+{151692}{151745}On a des projets pour toi, papa.
+{151959}{152043}Je n'ai jamais voulu l'admettre,|mais maintenant, je le sais...
+{152094}{152151}Tu es complètement fou.
+{152259}{152297}Non.
+{152414}{152495}{y:bi}Voici une coupe|{y:bi}d'un des vieux arbres qu'on a abattus.
+{152706}{152754}{y:bi}Là, je suis née...
+{152788}{152836}{y:bi}et là, je suis morte.
+{152860}{152917}{y:bi}Ca n'a été qu'un instant pour vous...
+{152932}{152980}{y:bi}Pas de trace.
+{153081}{153136}Je crois que j'ai déjà vu ce film.
+{153148}{153181}Quand j'étais petit, à la télé.
+{153188}{153224}Tais-toi !
+{153241}{153289}Je l'ai déjà vu.
+{153320}{153363}{y:bi}Vous êtes déjà venue ici ?
+{153368}{153399}{y:bi}- Oui.|{y:bi}- Quand ?
+{153481}{153524}Je reconnais pas...
+{153568}{153611}Qu'y a-t-il ?
+{153679}{153736}C'est exactement|comme ce qui nous arrive.
+{153746}{153786}Comme le passé.
+{153825}{153899}Le film ne change pas.|Il ne peut pas changer, mais...
+{153916}{153997}A chaque vision, il paraît différent,|parce qu'on est différent.
+{154013}{154059}On voit d'autres choses.
+{154111}{154181}Si on ne peut rien changer|car c'est déjà arrivé,
+{154186}{154224}cueillons les roses de la vie.
+{154231}{154265}Quelles roses ?
+{154310}{154351}C'est une expression.
+{154699}{154730}Pourquoi fais-tu ça ?
+{154780}{154845}Je veux savoir pourquoi !|Si je me trompais ?
+{154855}{154888}Si tu te trompais ?
+{154905}{154939}Si j'étais vraiment fou ?
+{154943}{155023}Dans quelques semaines, on sera fixés.
+{155042}{155073}S'il y a toujours...
+{155121}{155188}des matchs de foot|et des embouteillages,
+{155202}{155286}des émissions de télé et des hold-up,|on sera tellement contents
+{155291}{155332}que ce sera une joie|de se rendre à la police.
+{155509}{155545}Que veux-tu faire ?
+{155696}{155756}Tu n'as jamais vu l'océan...

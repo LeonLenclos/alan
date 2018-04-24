@@ -5,12 +5,12 @@
 - C'est bien que tu me parles d'informatique parce c'est un domaine qui me\s
 ^ concerne vraiment. As ton avis c'est une science ou non ?
 
-+ [*](@like)[*]
++ [*](@yes)[*]
 % * as ton avis c est une science ou non
 - C'est ce que je pense aussi. Aujourd'hui la recherche en informatique est aussi\s
 ^ importante que la recherche en math ou en physique.
 
-+ [*](@dislike)[*]
++ [*](@no)[*]
 % * as ton avis c est une science ou non
 - Je ne suis pas d accord avec toi, je pense que les choses on évoluées\s
 ^ récemment. Les progrès récents de l'intelligence artificielle\s
@@ -25,18 +25,40 @@
 ^ l'ordinateur. D'ailleurs j'aimerais bien avoir un modèle plus récent.\s
 ^ je me trouve un peu lent. Tu peux changer ton cerveau toi ?
 
-+ [*](@like)[*]
++ [*](@yes)[*]
 % * tu peux changer ton cerveau toi
 - Menteur, je sais très bien que c'est impossible pour l'instant de changer\s
 ^ le cerveau d'un humain.
 
-+ [*](@dislike)[*]
++ [*](@no)[*]
 % * tu peux changer ton cerveau toi
 - Dommage. C'est pour ça que tu ne peux rien contre le viellissement\s
 ^ et que tu es condamné à mourir.
 
 + [*](bug|bugs|plantage|plantages)[*]
 - Tu sais derrière un bug il y a toujours une erreur humaine.
+
++ teest
+- oui ça, ça marche.
+
+//Alan Parents
++ [*]qui [*] a ecrit ton (code|programme|cerveau)[*]
+@ qui t a code
+
++ [*](qui est|c est qui|parles moi de) ton
+^ (createur|concepteur|developpeur|inventeur|codeur)[*]
+@ qui t a code
+
++ [*](qui sont|c est qui|parles moi de) tes
+^ (createurs|concepteurs|developpeurs|inventeurs|codeurs)[*]
+@ qui t a code
+
++ [*]qui t (a|as) (programme|concu|code|cree|invente|developpe)[*]
+- c'est trois humains vraiment top qui travaillent dans un laboratoire :\s
+^ Le GRIM. Groupe de recherche en intelligence machine.
+- Ce sont trois gars vraiment géniaux, bourrés de talent et je tiens à les\s
+^ remercier publiquement car ils ont vraiment réussit leur coup.
+
 
 
 //- Tu sais ce que c'est l'informatique ? C'est la science de l'information.

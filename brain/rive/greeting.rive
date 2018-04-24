@@ -33,7 +33,7 @@
 
   // now we want to know the name
   + *
-  - Hm... Et sinon tu t'appelles comment ?{topic=asked_name}
+  - hem... Et sinon tu t'appelles comment ?{topic=asked_name}
 
 < topic
 
@@ -91,7 +91,7 @@
 
   // else we give up
   + *
-  - <set name=undefined> Hm... ça va sinon ?{topic=feelings}
+  - <set name=undefined> hem... ça va sinon ?{topic=feelings}
 
 < topic
 

@@ -1,0 +1,620 @@
+{10137}{10177}J'ai froid.
+{10272}{10313}Je me sens mort.
+{10326}{10355}Tu en as l'air.
+{10512}{10566}J'ai oublié un truc.
+{10570}{10606}Avant de rentrer au port,
+{10610}{10657}il faut parler des primes.
+{10671}{10707}Brett et moi, on a droit
+{10711}{10737}à des parts entières.
+{10741}{10855}M. Parker et moi-même|pensons qu'il y a injustice.
+{10869}{10936}Vous aurez ce qui est prévu par contrat.
+{10940}{10994}Tout le monde touche plus que nous.
+{11002}{11026}Dallas, Maman t'appelle.
+{11076}{11151}J'ai vu. La lumière jaune, c'est pour moi seul.
+{11181}{11244}Habillez-vous. Parker, amène-toi.
+{11248}{11320}Je peux finir mon café?|C'est tout ce qu'il y a de bon ici.
+{13109}{13137}Prêt à vous répondre
+{13274}{13334}Qu'y a-t-il, Maman?
+{13493}{13523}Rebranche-nous.
+{13720}{13740}Où est la Terre?
+{13770}{13794}Tu devrais le savoir.
+{13810}{13855}Ce n'est pas le système solaire.
+{14043}{14088}Appelle le Contrôle.
+{14676}{14727}- Rien.|- Essaie encore.
+{14740}{14790}J'appelle Contrôle Antarctique.
+{14794}{14835}Me recevez-vous?
+{14861}{14913}Je sais où on est!
+{14917}{14949}Dans la zone de Zeta ll.
+{14953}{15000}Nous ne sommes pas encore|au bord extérieur.
+{15086}{15129}Qu'est-ce qu'on fout là?
+{15223}{15252}Qu'est-ce que tu racontes?
+{15254}{15305}Ce n'est pas notre système.
+{15352}{15422}T'as remarqué|qu'ils descendentjamais ici?
+{15436}{15480}C'est ici qu'on bosse.
+{15484}{15551}C'est aussi pour ça qu'on a des demi-parts.
+{15555}{15613}Ils croient qu'on est à leur disposition.
+{15617}{15648}Toujours la même histoire.
+{15652}{15730}C'est à cause de toi qu'ils viennentjamais.
+{15734}{15767}T'as pas de personnalité.
+{15971}{16019}C'est ma place. Debout.
+{16208}{16250}Qu'est-ce qui se passe?
+{16348}{16423}Vous avez dû comprendre|qu'on n'est qu'à mi-parcours.
+{16471}{16546}Maman a tout arrêté.
+{16575}{16678}Elle est programmée|pour le faire sous certaines conditions.
+{16687}{16792}Elle a capté une émission d'origine inconnue.
+{16796}{16836}Elle nous a réveillés pour ça.
+{16907}{16939}Quel genre d'émission?
+{16949}{17036}Signal sonore. Fréquence 12 secondes.
+{17040}{17076}- SOS?|- Je ne sais pas.
+{17080}{17099}Humain?
+{17133}{17157}Inconnu.
+{17250}{17294}Je m'excuse de le rappeler,
+{17298}{17384}on est sur un vaisseau marchand,|pas un véhicule de sauvetage.
+{17388}{17456}Ce n'est pas prévu dans mon contrat.
+{17460}{17545}Mais si on me paie, je ne demande pas mieux.
+{17572}{17619}Parlons donc des primes.
+{17712}{17768}Le contrat prévoit que toute émission
+{17772}{17884}pouvant indiquer|une vie intelligente doit être analysée.
+{17888}{17922}Je ne veux pas le savoir.
+{17946}{17995}Ecoute-le donc, Parker!
+{18053}{18157}La sanction en cas de refus|est la suppression de toutes les parts.
+{18205}{18227}Tu saisis?
+{18305}{18321}On y va.
+{18724}{18770}Orbite équatoriale atteinte.
+{19131}{19161}DOR alignés.
+{19165}{19200}Et les réacteurs?
+{19566}{19602}Préparez le décrochage.
+{20093}{20112}Décrochez.
+{20404}{20422}C'est tout bon.
+{20426}{20456}On se pose.
+{21688}{21718}Une turbulence.
+{21952}{21995}Prêts à atterrir.
+{22010}{22063}Amortissement initial achevé.
+{22067}{22109}Préparez-vous au choc.
+{22282}{22327}Qu'est-ce que c'était?
+{22331}{22392}Chute de pression. On a perdu un écran.
+{22401}{22432}Continuons comme prévu.
+{22883}{22912}Atterrissage.
+{23096}{23124}Feux de navigation.
+{24225}{24254}Coupez les moteurs.
+{24766}{24802}Qu'y a-t-il?
+{24831}{24863}Répondez-moi!
+{24905}{24962}La coque est intacte. Pression normale.
+{25230}{25357}Le système de réparation auxiliaire estmort.
+{25361}{25454}Trois ou quatre éléments détruits.
+{25504}{25530}C'est tout?
+{25534}{25631}On ne peutpas réparerici.
+{25635}{25720}Il faudra dévier|quelques circuits de propagation.
+{25724}{25741}En cale sèche.
+{25756}{25803}Dis-lui, en cale sèche.
+{25807}{25847}On ne peut pas réparer ici.
+{25851}{25957}Pour dévier les circuits,|il faut nous mettre en cale sèche.
+{26026}{26119}Des pièces encrassées.|Il fautnettoyer etrepressuriser.
+{26140}{26198}Quand sera-t-on opérationnels?
+{26220}{26272}Il faudra 17 heures.
+{26298}{26345}Au moins 25 heures.
+{26368}{26424}Commencez. Je descends.
+{26428}{26479}Qu'est-ce qu'elle vient foutre ici?
+{26504}{26589}Je me demande bien ce qu'elle va faire.
+{26836}{26876}Ça répond?
+{26885}{26991}Le même signal toutes les 12 secondes.
+{27005}{27050}Les autres canaux sont morts.
+{27211}{27241}Branche les projos.
+{27591}{27641}Pas moyen d'avancer.
+{27677}{27740}D'après Maman, le jour se lève dans 20 min.
+{27744}{27787}D'où provient l'émission?
+{27791}{27884}A 2000 mètres nord-est.
+{27888}{27920}Au sol?
+{28010}{28061}As-tu analysé l'atmosphère?
+{28246}{28282}Azote...
+{28311}{28398}Forte concentration d'acide carbonique.
+{28410}{28455}Méthane. Je cherche les éléments résiduels.
+{28558}{28606}Des strates de lave.
+{28667}{28723}Froid intense, très en dessous de zéro.
+{28770}{28833}Je me porte volontaire pour sortir.
+{28904}{28942}Toi aussi, Lambert.
+{29003}{29051}Prenez des armes.
+{30843}{30903}J'y vois rien.
+{30944}{30978}Ash, tu nous reçois?
+{31099}{31149}C'est bon pour moi.
+{31155}{31235}Pour nous aussi. Garde le contact.
+{31673}{31734}Ripley, je veux te demander quelque chose.
+{31778}{31841}En cas de découverte,|on touche nos parts complètes?
+{31854}{31945}Ne t'inquiète pas, tu auras ce qui te revient.
+{31960}{32070}J'arrête le travail|tant que la question n'est pas réglée.
+{32085}{32155}Ta part est garantie par la loi.
+{32198}{32237}Et si tu t'écrasais?
+{32314}{32394}Si tu as des ennuis, je serai en haut.
+{32614}{32651}Quelle garce!
+{32924}{32951}J'y vois rien.
+{32995}{33031}Arrête de râler.
+{33035}{33059}Ça me plaîtî de râler.
+{33063}{33104}Boucle-la un peu.
+{33395}{33420}Ça se passe bien?
+{33525}{33589}Tu as passé le message au décodeur?
+{33599}{33656}Maman ne l'a pas encore identifiié.
+{33660}{33703}J'essaie un coup?
+{36445}{36495}Nous avançons vers l'emplacement.
+{36621}{36656}Tirons-nous d'ici!
+{36671}{36730}On est arrivés jusqu'ici, il faut continuer.
+{36857}{36901}Tu peux répéter?
+{37012}{37064}Dur à décrire...
+{37074}{37124}Je retourne à la console.
+{39863}{39931}Viens voir. Il y a quelque chose différent.
+{39959}{39996}Je ne sais pas quoi.
+{40016}{40086}Si on peut franchir ce mur,|on saura ce que c'est.
+{41727}{41763}Stupéfiant.
+{41810}{41860}Une forme de vie étrangère.
+{41907}{41961}Il est mort depuis longtemps.
+{41970}{42006}Fossilisé.
+{42035}{42101}Il semble ne faire qu'un avec le siège.
+{42475}{42520}Les os pointent vers l'extérieur,
+{42532}{42580}comme si son thorax avait explosé.
+{42707}{42761}Et le reste de l'équipage?
+{42907}{42938}Tirons-nous d'ici!
+{43251}{43276}Dallas,
+{43286}{43331}Lambert, par ici!
+{43638}{43683}Que dites-vous de ça?
+{43915}{43957}Ce message...
+{43968}{44044}Maman l'a déchiffré en partie.|Ce n'estpas un SOS.
+{44062}{44130}On dirait plutôt une menace.
+{44142}{44205}- Je vais les chercher.|- A quoi bon?
+{44278}{44348}Le temps que tu y arrives, ils sauront
+{44352}{44408}à quois'en tenir.
+{45067}{45106}Ça va en bas?
+{45218}{45256}Tu vois quelque chose?
+{45260}{45284}Une caverne.
+{45315}{45378}On dirait une caverne.
+{45443}{45505}On se croirait sous les tropiques.
+{45564}{45637}Qu'est-ce que ça peut être?
+{46511}{46574}C'est un espace clos...
+{46581}{46657}plein d'objets, on dirait du cuir...
+{46661}{46716}des espèces d'oeufs.
+{47165}{47265}Les oeufs sont recouverts|d'une sorte de voile
+{47271}{47311}qui réagit au contact.
+{47392}{47456}Kane, tout va bien?
+{47580}{47620}Ça va. J'ai glissé.
+{48128}{48187}Ça paraîtî hermétiquement clos.
+{48805}{48855}Ça bouge à l'intérieur.
+{48904}{48943}Ça semble vivant.
+{48947}{48989}Il y a une vie organique.
+{50535}{50564}Tu es là, Ripley?
+{50755}{50815}Je suis dans le sas intérieur.
+{51086}{51126}Ripley? Fais-nous entrer.
+{51128}{51153}Qu'est-il arrivé à Kane?
+{51155}{51217}Une chose s'est collée à sa figure.
+{51250}{51282}Quoi exactement?
+{51297}{51338}Un organisme. Ouvre-nous.
+{51347}{51446}Il y a risque d'infection.|La quarantaine est obligatoire.
+{51450}{51499}24 heures de décontamination.
+{51503}{51539}Il risque de mourir.
+{51554}{51609}Sans quarantaine,|nous risquons tous de mourir.
+{51618}{51715}Ouvre, bon sang! Il faut le faire rentrer.
+{51773}{51836}Non. A ma place, tu ne le ferais pas.
+{51855}{51936}Ouvre le sas. C'est un ordre.
+{51964}{52005}Un ordre! Tu me reçois?
+{52016}{52069}Je te reçois. La réponse est non.
+{52173}{52209}Sas intérieur ouvert.
+{53152}{53231}Qu'est-ce que c'est que ce truc?
+{53259}{53290}Comment va-t-il?
+{53365}{53416}Comment peut-on lui enlever ça?
+{53443}{53508}Attendez. Je m'en occupe.
+{53757}{53801}Je fais une incision ici.
+{53824}{53892}J'essaie de dégager son cou.
+{53940}{54009}Il faudrait soulever ce doigt.
+{54150}{54209}Ça lui déchire la peau!
+{54257}{54331}On n'y arrivera pas|sans lui arracher la figure.
+{54348}{54403}Il faut le passer aux rayons.
+{54462}{54501}Pourquoi ne pas le mettre au frigo?
+{54976}{55028}Tu peux ôter ton masque.
+{55476}{55513}Qu'est-ce qu'il a dans la gorge?
+{55522}{55587}Ça doit lui fournir de l'oxygène.
+{55620}{55680}Ça le paralyse, le met dans le coma,
+{55731}{55783}mais le maintient en vie.
+{55802}{55838}Comment l'enlever?
+{55894}{55947}Pas de précipitation.
+{55963}{56007}On ne sait rien de cette chose.
+{56021}{56089}On suppose que ça lui donne de l'oxygène.
+{56093}{56135}Si nous l'ôtons,
+{56172}{56205}ça pourrait le tuer.
+{56284}{56338}Je prends le risque. Découpe-le.
+{56342}{56380}Tu prends la responsabilité?
+{56468}{56511}Où vas-tu l'inciser?
+{56566}{56592}Sous l'articulation.
+{56993}{57052}Cette merde va bouffer la coque!
+{57486}{57512}Au niveau suivant!
+{58027}{58066}Te mets pas dessous!
+{58210}{58252}On dirait que ça s'arrête.
+{58332}{58370}Brett, regarde-moi ça.
+{58379}{58414}Passe-moi un stylo.
+{58633}{58662}Ne t'en mets pas sur le bras.
+{58852}{58890}Ça s'est arrêté.
+{58910}{58966}Je n'ai jamais rien vu de tel, sauf
+{58977}{59002}I'acide moléculaire.
+{59011}{59066}Ça doit leur servir de sang.
+{59087}{59126}Sacré mécanisme de défense.
+{59144}{59184}Pas question de le tuer.
+{59188}{59224}Et Kane?
+{59337}{59358}Qu'est-ce qu'on fait?
+{59368}{59434}Ash s'occupera de Kane.|Retournez au travail.
+{59813}{59840}Essaie ça.
+{59977}{60038}J'étais sûr que ça venait de là.
+{60102}{60174}J'ai l'impression d'être là depuis un mois.
+{60212}{60262}On n'auraitjamais dû se poser.
+{60411}{60494}Plus vite on répare,|plus vite on sera rentrés.
+{60498}{60560}Cet endroit me porte sur les nerfs.
+{62086}{62152}Incroyable. Qu'est-ce que c'est?
+{62265}{62301}Je ne sais pas encore.
+{62418}{62451}Tu veux quelque chose?
+{62553}{62620}Parler. Comment va Kane?
+{62624}{62672}Etat stationnaire.
+{62688}{62762}Et notre hôte?
+{62877}{62965}Je classe encore les données...
+{62969}{63076}Je sais déjà qu'il a une couche|protectrice de polysaccharides.
+{63109}{63198}Il remplace ses cellules
+{63202}{63256}par du silicium polarisé
+{63260}{63396}qui prolonge sa résistance|à un environnement hostile.
+{63411}{63435}Ça te suffit?
+{63448}{63507}Largement. Qu'est-ce que ça veut dire?
+{63511}{63555}Ne touche pas à ça.
+{63618}{63695}C'est un mélange intéressant qui fait de lui
+{63708}{63750}un sacré fils de pute!
+{63771}{63819}Et tu l'as laissé entrer.
+{63843}{63885}J'obéissais à un ordre.
+{63909}{64044}En l'absence de Dallas et Kane,|c'est moi la plus haut gradée.
+{64048}{64084}J'avais oublié.
+{64118}{64193}Et la règle de quarantaine|de la section scientifique?
+{64212}{64285}- Je ne l'avais pas oubliée.|- Tu l'as violée.
+{64317}{64370}Qu'aurais-tu fait de Kane?
+{64404}{64479}Sa seule chance était de le faire entrer.
+{64487}{64595}Mais comme ça, tu risques nos vies à tous.
+{64599}{64659}J'aurais peut-être dû le laisser dehors.
+{64672}{64762}J'ai peut-être mis tout le monde|en danger, mais c'était délibéré.
+{64772}{64873}C'est un gros risque,|pour un officier scientifique.
+{64898}{64947}Ce n'est pas prévu dans le manuel.
+{64984}{65063}Je ne prends pas mon rôle|moins au sérieux que toi.
+{65094}{65137}Fais ton boulot,
+{65146}{65189}et laisse-moi faire le mien.
+{66069}{66103}Où estDallas?
+{66107}{66138}Dans la navette.
+{66301}{66331}Viens voirKane.
+{66381}{66420}Il estarrivé quelque chose.
+{66434}{66459}Grave?
+{66463}{66496}Intéressant.
+{66620}{66659}Retrouve-moi à l'infirmerie.
+{66777}{66809}Où est-il?
+{66813}{66851}Je ne sais pas.
+{66864}{66924}Il faut le trouver.
+{67566}{67619}Dallas, sois prudent.
+{69438}{69476}Non, pas dans le coin.
+{69508}{69524}Prends ça.
+{70090}{70116}Tout va bien?
+{70131}{70182}Je ne l'ai pas vu. Où est-il?
+{70195}{70234}Par là-haut.
+{70275}{70309}Couvre cette saleté!
+{70406}{70458}C'est un réflexe.
+{70509}{70539}Il faut l'examiner.
+{71037}{71064}Il est bien mort.
+{71068}{71101}Parfait, jetons-le.
+{71190}{71245}C'est la première fois qu'on rencontre
+{71249}{71305}une telle espèce. Il faut le ramener
+{71309}{71353}et l'étudier.
+{71357}{71414}Tu veux rire? Ce truc pissait de l'acide.
+{71418}{71479}Mort, qu'est-ce qu'il nous réserve?
+{71483}{71545}En tout cas, ce n'est pas un zombie.
+{71561}{71604}Dallas, il faut le ramener.
+{71628}{71674}Tu as sans doute raison.
+{71687}{71804}Tu es l'officier scientifique,|la décision te revient.
+{71818}{71855}Je ne peux plus rien y changer.
+{71859}{71968}Je n'essaie pas|de te faire changer d'avis. Ecoute-moi.
+{72038}{72089}Comment peux-tu le laisser décider?
+{72093}{72128}Je commande le vaisseau.
+{72132}{72197}Pour les questions scientifiques, c'est Ash.
+{72233}{72280}C'est ce que veut la Compagnie.
+{72294}{72345}Depuis quand est-ce la règle?
+{72349}{72411}La règle, c'est d'obéir.
+{72429}{72465}Tu as déjà voyagé avec Ash?
+{72482}{72550}J'ai fait cinq sorties avec un autre officier.
+{72554}{72641}Ash l'a remplacé deux jours avant le départ.
+{72650}{72677}Je me méfie de lui.
+{72699}{72750}Je me méfie de tout le monde.
+{72763}{72849}- Alors, ces réparations?|- C'est presque fini.
+{72886}{72943}Il reste des détails.
+{72987}{73056}Les niveaux B et C sont morts.|Plus de réserve de puissance.
+{73060}{73125}On peut repartir sans ça.
+{73129}{73167}Est-ce une bonne idée?
+{73171}{73233}Tout ce que je veux, c'est me tirer d'ici!
+{73815}{73876}Le n° 2 est en surchauffe.
+{73880}{73933}Magne-toi, bon sang!
+{74189}{74241}Altitude: 1 km.
+{74245}{74276}Gravité artificielle.
+{74309}{74363}Correction vectorielle.
+{74632}{74675}Train rentré.
+{75221}{75256}C'était du gâteau.
+{75266}{75294}On connaîtî
+{75298}{75344}notre boulot.
+{75743}{75801}Faut le mettre au frigo, en attendant
+{75805}{75875}de pouvoir le soigner sur Terre.
+{75922}{76015}Dès qu'il ouvre la bouche, tu es d'accord.
+{76068}{76168}Parker, ton second est un vrai perroquet.
+{76172}{76229}C'est vrai que tu es un perroquet?
+{76316}{76362}Il faut mettre Kane en quarantaine.
+{76366}{76407}Et nous aussi.
+{76423}{76495}Vous voulez avoir le moral à zéro?
+{76530}{76622}J'ai calculé le temps du détour...
+{76626}{76682}Combien jusqu'à la terre?
+{76686}{76703}Dix mois.
+{76810}{76845}Dallas, viens voirKane.
+{76856}{76949}- Il y a du nouveau?|- Viens plutôt voir.
+{77265}{77298}Tu te sens bien?
+{77337}{77370}Terrible! Une autre question idiote?
+{77552}{77608}Tu te souviens de la planète?
+{77690}{77744}Quel est ton dernier souvenir?
+{77914}{78003}Un rêve horrible...
+{78024}{78062}Une sensation d'étouffement.
+{78118}{78146}Où sommes-nous?
+{78157}{78186}Nous rentrons.
+{78190}{78238}Encore un séjour au freezer!
+{78300}{78335}Il faut que je mange.
+{78339}{78381}J'ai faim aussi.
+{78425}{78471}Un dernier repas, et au lit.
+{79020}{79084}La première chose que je ferai sur Terre,
+{79088}{79135}ce sera un bon repas.
+{79139}{79265}Côté bouffe, il y a pire, mais il y a meilleur.
+{79278}{79341}Qu'est-ce que tu peux bâfrer!
+{79345}{79422}J'aimerais mieux autre chose, mais ça nourrit.
+{79688}{79773}Qu'est-ce que tu as?|C'est pas mauvais à ce point.
+{81394}{81426}N'y touche pas!
+{82115}{82150}Tu vois quelque chose?
+{83002}{83036}Sas intérieur fermé.
+{83140}{83191}Quelqu'un veut dire un mot?
+{84087}{84164}C'est un aiguillon normal,|comme pour le bétail.
+{84168}{84267}Il y a une pile. C'est isolé jusqu'ici.
+{84288}{84354}Faites bien attention à ne pas toucher le bout.
+{84421}{84459}Ça ne va pas l'abîmer,
+{84463}{84525}sauf s'il a la peau fine.
+{84529}{84608}Mais ça le chatouillera un peu.
+{84629}{84674}Il ne reste qu'à le trouver.
+{84684}{84745}J'ai mis au point ce système
+{84751}{84839}pour repérer un objet en mouvement.
+{84887}{84964}La portée est faible, mais ça émet un signal.
+{84996}{85036}A quoi réagit-il?
+{85075}{85158}Aux micro-changements de la densité de l'air.
+{85167}{85203}Fais-moi voir.
+{85408}{85468}Deux équipes. Ash...
+{85491}{85535}Lambert et moi.|Ripley avec Parker et Brett.
+{85589}{85692}Si vous le voyez,|prenez-le au filet que tient Parker.
+{85696}{85719}Parker,
+{85723}{85763}pas d'héroîsme.
+{85767}{85852}Prenez-le, balancez-le dans le sas, virez-le.
+{85856}{85890}Tous les canaux sont ouverts.
+{85894}{85976}Gardez le contact en permanence.
+{86374}{86434}Vous n'aviez pas réparé le module 12?
+{86438}{86464}Mais si.
+{86495}{86539}Je ne comprends pas.
+{86594}{86644}Les circuits ont dû cramer.
+{86952}{87030}- Quel est le problème?|- Eclaire par là.
+{88021}{88076}D'après ça, on est à moins de 5 mètres.
+{88136}{88169}Ouvre la porte.
+{88285}{88368}Micro-changements, mon cul!
+{88483}{88532}Il est à moins de cinq mètres.
+{89886}{89940}Il est dans ce placard.
+{90588}{90623}Ne le laisse pas!
+{90627}{90671}Qu'est-ce que tu fais!
+{90676}{90711}Ce n'est que le chat.
+{90905}{90978}Prenons-le, ou nous l'aurons|encore sur le détecteur.
+{91048}{91080}Attrape-le!
+{91118}{91150}Et on continuera.
+{91415}{91442}Minet...
+{91546}{91584}Minet, tu parles!
+{91613}{91637}Jones...
+{98142}{98226}En tout cas, il était grand...
+{98287}{98338}Il l'a emporté dans le puits d'aérage?
+{98353}{98405}Il a disparu dans une canalisation.
+{98409}{98492}Il se déplace dans les conduits d'aérage.
+{98565}{98609}Veut-il Brett vivant?
+{98676}{98716}A-t-il pu en réchapper?
+{98728}{98776}Je ne crois pas.
+{98821}{98874}Ce puits d'aérage pourrait nous servir.
+{98878}{98966}Il mène au sas principal.
+{98996}{99107}Il comporte une seule ouverture,|que nous pouvons surveiller.
+{99135}{99190}On le dirige vers le sas et on l'éjecte.
+{99203}{99258}Il est gros, le bougre!
+{99267}{99301}Aussi gros qu'un homme.
+{99329}{99356}Le fils de Kane.
+{99427}{99482}Tu dois pouvoir nous aider
+{99486}{99519}à le chasser.
+{99523}{99625}Il s'est bien adapté|à notre atmosphère. La seule inconnue,
+{99629}{99662}c'est la température.
+{99666}{99733}Et si nous la modifions?
+{99758}{99832}La plupart des animaux craignent le feu.
+{99879}{99899}Parker,
+{99903}{99979}tu peux bricoler|trois ou quatre incinérateurs?
+{99991}{100048}Il me faut 20 minutes.
+{100052}{100074}Qui ira dans l'évent?
+{100083}{100100}Moi.
+{100174}{100266}Toi et Ash, prenez le sas.
+{100287}{100387}Parker et Lambert,|surveillez la bouche de maintenance.
+{101187}{101287}Demande évaluation des procédures|d'élimination de la créature
+{101333}{101411}Non compilable|Données insuffiisantes
+{101556}{101603}Demande options envisageables
+{101651}{101706}Non compilable|Données insuffiisantes
+{101785}{101852}Quelles sontmes chances?
+{101880}{101918}Non compilable
+{102748}{102783}Je suis au premier embranchement.
+{102814}{102834}Dallas, je suis ici.
+{102929}{102982}J'essaie de vous repérer.
+{102992}{103019}Le sas est ouvert.
+{103364}{103406}Je vous vois.
+{104304}{104354}Ouvre le panneau d'accès.
+{104768}{104805}Je suis passé.
+{104860}{104920}Ferme les panneaux derrière moi.
+{104937}{104973}J'avance.
+{105341}{105393}Attends, Dallas.|Je crois queje le tiens.
+{105521}{105578}Vers le troisième embranchement.
+{106116}{106191}Il est toutprès. Sois prudent.
+{106495}{106533}J'ai atteint
+{106569}{106633}Ie troisième embranchement. Je descends.
+{107070}{107101}Qu'est-ce qui cloche?
+{107174}{107237}Reste où tu es.
+{107265}{107292}J'ai perdu le signal.
+{107366}{107464}Ouvre l'oeil. Il est toutprès.
+{107577}{107602}Vérifiie, Lambert.
+{107606}{107655}Ça peut être une interférence.
+{107662}{107689}Tu n'en vois
+{107693}{107732}vraiment aucune trace?
+{107787}{107839}Il estforcémentlà.
+{108199}{108251}La voie est libre? Je veux sortir d'ici!
+{108305}{108342}Il vient vers toi!
+{108575}{108600}Vite! Fiche le camp!
+{108810}{108873}Pas parlà, dans l'autre sens!
+{109194}{109238}On a trouvé ça.
+{109287}{109320}Pas de sang.
+{109342}{109375}Pas de Dallas.
+{109573}{109630}- Dites quelque chose!|- Je réfléchis.
+{109721}{109799}Si vous n'avez pas de meilleure idée,
+{109836}{109873}nous poursuivons le plan de Dallas.
+{109916}{109971}Pour finir comme les autres?
+{110019}{110061}Tu as une meilleure idée?
+{110076}{110125}Abandonner le vaisseau.
+{110129}{110181}On prend la navette et on file!
+{110185}{110255}On risque le coup en espérant
+{110259}{110301}qu'on sera recueillis!
+{110306}{110355}Il n'y a pas quatre places.
+{110359}{110394}On tire au sort.
+{110398}{110469}Non. Je suis pour qu'on tue cette chose.
+{110526}{110615}Discutons-en.|Il circule dans les puits d'aérage.
+{110657}{110683}Ferme-la!
+{110736}{110764}On t'écoute.
+{110771}{110828}Il est dans les puits.
+{110855}{110913}C'est la seule possibilité!
+{110922}{110950}On avancera par deux.
+{110954}{111039}On bloquera les sections une par une,
+{111043}{111143}jusqu'à ce qu'il soit coincé.|Et on l'éjectera.
+{111147}{111199}Ça vous convient?
+{111205}{111245}Si on peut le tuer, ça me va.
+{111249}{111296}Evidemment.
+{111333}{111392}Mais il faut rester ensemble.
+{111411}{111445}Et nos armes?
+{111449}{111527}Ça va. Il faut recharger celui-ci.
+{111531}{111571}Tu t'en occupes?
+{111595}{111619}Accompagne-le, Ash.
+{111623}{111661}Non, ça ira.
+{111893}{111963}Toi ou Maman avez des suggestions?
+{112001}{112066}Nous classons encore les données.
+{112152}{112202}Vous classez encore!
+{112229}{112284}C'est invraisemblable.
+{112316}{112342}Que veux-tu que je fasse?
+{112346}{112436}Ce que tu as faitjusqu'ici. Rien.
+{112444}{112555}J'ai accès à Maman.|J'aurai mes réponses directement.
+{114109}{114174}Eclaircir incapacité|à neutraliserla créature
+{114193}{114231}Eclaircissement impossible
+{114366}{114399}Demande complément d'information
+{114419}{114480}Négatif|Ordre spécial 937
+{114484}{114531}Accès réservé|à l'offiicierscientifiique
+{114627}{114665}Ordre 100375prioritaire
+{114669}{114735}Quel estl'ordre spécial 937?
+{114908}{114954}Itinéraire Nostromo modifiié
+{114962}{115021}Enquêter surforme de vie|Recueillir spécimen
+{115046}{115119}Priorité 1 : Assurerretour|organisme pouranalyse
+{115123}{115177}Autres considérations secondaires
+{115181}{115221}Equipage peut être sacrifiié
+{115301}{115369}Il y a une explication à cela.
+{115385}{115490}Je m'en fous! Je ne veux pas l'entendre.
+{116375}{116415}Ouvre la porte.
+{116780}{116821}Ouvre cette porte!
+{116930}{116984}Laisse-moi passer.
+{119422}{119453}Relève-la!
+{120308}{120326}Un robot!
+{120336}{120381}Une saleté de robot!
+{120717}{120775}Aide-moi à l'écarter!
+{121141}{121211}Pourquoi la Compagnie|nous a-t-elle collé un robot?
+{121215}{121304}Ils voulaient sans doute la créature|pour leur section armements.
+{121308}{121375}Ash la protège depuis le début.
+{121383}{121432}Parker, rebranche-le.
+{121491}{121550}Il sait peut-être comment la tuer.
+{122212}{122254}Ash, tu m'entends?
+{122565}{122608}Je t'entends.
+{122731}{122763}Quel était ton ordre spécial?
+{122794}{122834}Tu l'as lu. C'était clair.
+{122899}{123007}Ramener forme de vie... Priorité un.
+{123014}{123081}Autres priorités annulées.
+{123146}{123192}Foutue Compagnie!
+{123196}{123239}Et nos vies, salaud?
+{123262}{123341}Je répète. Autres priorités annulées.
+{123360}{123414}Comment le tuer?
+{123419}{123496}Il doit y avoir un moyen.
+{123518}{123547}Impossible.
+{123570}{123608}Baratin!
+{123613}{123648}Vous ne savez pas
+{123650}{123686}à quoi vous avez affaire.
+{123751}{123803}Un organisme parfait.
+{123866}{123959}Sa perfection n'a d'égale que son hostilité.
+{123982}{124013}Tu l'admires.
+{124107}{124161}J'admire sa pureté.
+{124260}{124302}Il survit...
+{124355}{124448}sans conscience...
+{124460}{124500}sans remords...
+{124509}{124553}sans morale illusoire.
+{124630}{124664}J'en ai assez entendu.
+{124666}{124695}Débranche-le.
+{124719}{124750}Pas encore.
+{124844}{124937}Je ne peux pas|vous tromper sur vos chances, mais...
+{125019}{125084}vous avez ma sympathie.
+{125141}{125183}Détruisons le vaisseau.
+{125216}{125273}Risquons le coup sur la navette.
+{126035}{126091}On a combien après le déclenchement?
+{126095}{126119}Dix minutes.
+{126140}{126221}Après ça, on n'aura plus besoin de fusée.
+{126262}{126332}Il nous faudra du fluide réfrigérant.
+{126637}{126698}Prenez-en le maximum.
+{126702}{126775}Je m'occupe de la navette. Je vous donne
+{126780}{126823}sept minutes.
+{126827}{126938}Après, revenez|et on fera sauter cette saloperie.
+{127020}{127053}Sept minutes.
+{127969}{128003}Reste calme.
+{130156}{130196}Vérifie les bouteilles.
+{133413}{133448}Ecarte-toi!
+{133531}{133600}Ecarte-toi, que je le tue!
+{137101}{137153}Danger|Système auto-destructeur
+{138005}{138026}Le système
+{138053}{138085}auto-destructeur
+{138096}{138176}est déclenché.
+{138178}{138223}Le vaisseau explosera dans H
+{138225}{138314}moins 10 minutes.
+{138316}{138337}L'option
+{138339}{138436}d'annulation expire
+{138449}{138520}dans H moins 5 minutes.
+{139929}{140096}L'option d'annulation expire dans H
+{140100}{140152}moins 3 minutes.
+{140969}{140990}L'option
+{141010}{141103}d'annulation expire dans H
+{141107}{141177}moins 1 minute.
+{141357}{141376}Vingt-neuf...
+{141396}{141428}Vingt-huit...
+{142341}{142449}L'option d'annulation est expirée.
+{142504}{142603}Maman? J'ai rebranché|les circuits de refroidissement!
+{142663}{142681}Le vaisseau
+{142685}{142741}s'auto-détruira
+{142745}{142828}dans H moins 5 minutes.
+{142892}{142928}Salope!
+{146709}{146767}Il vous reste une minute
+{146779}{146826}pour évacuerle vaisseau.
+{146830}{146922}Le vaisseau s'auto-détruira dans H
+{146926}{146975}moins 1 minute.
+{147562}{147658}H moins 30 secondes.
+{149692}{149735}Je t'ai eu!
+{149790}{149832}Fils de pute!
+{151552}{151606}Ça fait du bien de te voir.
+{162070}{162165}Dernier rapport|du vaisseau marchand Nostromo.
+{162171}{162225}Troisième officier au rapport.
+{162239}{162301}Les autres membres de l'équipage...
+{162317}{162339}Kane...
+{162349}{162433}Lambert, Parker, Brett,
+{162442}{162538}Ash et le capitaine Dallas sont morts.
+{162546}{162613}Vaisseau et cargaison détruits.
+{162639}{162727}J'atteindrai la frontière|dans six semaines environ.
+{162731}{162812}J'espère être repérée par le Réseau.
+{162821}{162858}Ici Ripley,
+{162871}{162935}dernier survivant du Nostromo.
+{162958}{162988}Terminé.

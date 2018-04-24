@@ -1,0 +1,528 @@
+{775}{915}Ce film se base sur un fait survenu|pendant la guerre du Viêt-nam.
+{920}{1067}Daniel Lang le rapporta le premier|dans le New Yorker en 1969.
+{1095}{1155}NIXON SE DEMET
+{3765}{3870}On va camper ici.|Campement Défensif Nocturne.
+{4077}{4147}Eriksson, attends.
+{4155}{4222}Pose des mines sur le flanc gauche.
+{4896}{4961}Dis, ça sonnait pas creux ?
+{4996}{5026}Quoi ?
+{5116}{5151}Attends.
+{5441}{5543}On est peut-être|sur un de leurs tunnels.
+{5586}{5636}Là-dessous en ce moment...
+{5641}{5698}y pourrait y avoir|des tunnels Viêt-congs.
+{5728}{5773}- Merde !|- C'est quoi ?
+{5801}{5843}Repérez d'où ça vient.
+{5993}{6081}- Je déteste les mortiers.|- Repérez-le !
+{6086}{6156}Ils attaquent quelqu'un d'autre. Qui ?
+{6163}{6248}- Le 3ème peloton ?|- Alpha est bombardé.
+{6253}{6346}- Ils savent qu'on est ici ?|- Alors Meserve ?
+{6356}{6461}- Je vous le dis dès que je peux.|- Sergent Hawthorne !
+{6488}{6548}Faites garder tous les côtés.
+{6553}{6621}Mais à proximité, ne les isolez pas.
+{6626}{6678}Eriksson, prends le flanc droit.
+{6683}{6756}Appelle Superman 0-2.|Repérez le mortier.
+{6761}{6818}Le bruit nous aidera.
+{6823}{6891}Superman 0-2, Superman 0-2...
+{7538}{7646}- Qu'est-ce qui se passe bordel ?|- Cessez le feu !
+{7651}{7736}J'ai vu un niacoué,|un de ceux du village.
+{7763}{7833}- Tu les reconnais ?|- Je l'ai vu !
+{7878}{7953}Le mortier en fait baver à Alpha.
+{7958}{7991}Bordel !
+{8006}{8071}Ils nous ont localisés !
+{8106}{8146}Bon Dieu !
+{8156}{8223}On est repérés ! Ils nous bombardent !
+{8246}{8291}Superman 0-2.
+{8323}{8348}On s'en va !
+{8363}{8476}Le mortier tire sur nous.|Flanc gauche ! Avancez !
+{8546}{8596}Jumeau 0-2, terminé.
+{8631}{8663}Vite, vite !
+{8962}{9072}Seigneur ! Seigneur !|Oh mon Dieu !
+{10132}{10189}- Hawthorne ?|- Par là.
+{10197}{10264}Eriksson est à droite,|pas encore là.
+{10339}{10407}Cette guerre se fait vieille.
+{10452}{10499}L'artillerie arrive !
+{10522}{10552}Bordel !
+{10612}{10724}Oh merde ! Bon Dieu !
+{10737}{10854}Brownie, va rejoindre les autres.|Reste en un seul morceau.
+{10919}{11049}Je resterai en un seul morceau.|Je suis blindé moi !
+{11067}{11134}Bordel, venez m'aider !
+{11169}{11284}Oh bordel !|Que quelqu'un vienne m'aider !
+{11812}{11882}Mon bras ? Où est mon bras ?
+{11887}{11952}- C'est pour toi.|- Cherchez mon bras.
+{11957}{12057}- Faut s'en aller !|- Calme-toi soldat !
+{12069}{12172}A l'aide ! Venez m'aider !|A l'aide !
+{12377}{12447}Le voilà ton bras. Ton bras.
+{12778}{12865}Que quelqu'un vienne m'aider !
+{12883}{12930}A l'aide ! A l'aide !
+{13128}{13193}Venez m'aider ! Venez !
+{13323}{13390}Sergent, venez m'aider !
+{13398}{13503}Aidez-moi ! Je suis coincé !|Je suis coincé, aidez-moi.
+{13508}{13613}- Dieu merci !|- Tire !
+{13775}{13818}Merde !
+{13953}{14000}Je tire des balles traçantes.
+{14005}{14098}- Toi, vas-y au lance-roquettes.|- Oui.
+{14103}{14135}- Prêt ?|- Oui.
+{14188}{14238}Prends ça enfoiré !
+{14243}{14323}Prends ça ! Enfoiré !
+{14385}{14443}Oui enculé !
+{14488}{14535}Oui.
+{14835}{14915}Un putain de sale moment, hein bleu ?
+{15368}{15465}- On est trop près du renvoi pour ça.|- Pas encore.
+{15470}{15553}Trente jours !|On est presque invisibles.
+{15558}{15658}On sera libérés de la jungle|et de cette tenue.
+{15663}{15788}Dans l'Oiseau de la Liberté|je me sentirai libéré.
+{15793}{15875}Et peut-être qu'il s'écrasera.
+{15880}{15938}Imagine. Survivre au Viêt-nam...
+{15943}{16028}- pour mourir dans un crash !|- Aucun risque.
+{16033}{16108}Survis au Viêt-nam et t'es immortel.
+{16153}{16200}Depuis quand tu es là ?
+{16205}{16255}- Trois semaines.|- Trois ?
+{16268}{16315}Tu me fends le cœur.
+{16348}{16403}J'ai réfléchi Meserve.
+{16408}{16490}On devrait arrêter|de sauter ces salopes.
+{16495}{16538}Si on chope une maladie ?
+{16543}{16593}Dinky dau vieux.
+{16639}{16676}C'est la joie ici.
+{16681}{16761}D'abord on pige rien.|Puis on s'en fout.
+{16766}{16889}Enfin, on est concernés|mais ça cloche, c'est tordu.
+{16894}{16976}Le bleu y restera|parce qu'il pige rien.
+{16981}{17046}On risque gros parce qu'on s'en fout.
+{17051}{17131}- Je me sens concerné.|- Oui, bien sûr.
+{17136}{17206}Mais ça cloche, c'est tordu.
+{17231}{17274}Clark...
+{17281}{17381}toi, Hatcher et Eriksson,|déployez-vous.
+{17386}{17434}Restez sur le qui-vive.
+{17441}{17521}Disparaissez pas. On y va Brownie.
+{17919}{18026}Du chocolat Hershey !|C'est bon, mords un bon coup.
+{18039}{18091}Regarde ce pauvre type.
+{18151}{18191}Sui ? Une mangue.
+{18196}{18296}Ils ne veulent pas de ton chocolat.|Donne-le-moi.
+{18319}{18349}Cam on ong beaucoup.
+{18354}{18476}Mange pas ce qu'ils te filent.|Retourne à ta place.
+{18521}{18574}Tu veux une mort affreuse ?
+{18579}{18636}- Non.|- Tu allais la manger ?
+{18641}{18746}Ils sont paumés.|C'est des Viêt-congs ou pas ?
+{18751}{18839}- Des schizos.|- Ça dépend de leur trouille.
+{18844}{18956}S'ils te font manger|une lame de rasoir ou du verre...
+{18961}{19021}- de quoi tu meurs ?|- De connerie.
+{19026}{19096}Exactement Brown. Affirmatif.
+{19149}{19184}Tout à fait.
+{19189}{19276}On a eu le plaisir|de faire 12000 miles...
+{19281}{19351}pour les aider à améliorer leur vie.
+{19356}{19441}Des vieux et des enfants.|J'aime pas ça.
+{19446}{19531}Un village de retraités|comme en Floride.
+{19539}{19634}J'allais pas la manger.|Je voulais pas être impoli.
+{19639}{19694}- Impoli ?|- Oui.
+{19714}{19821}Je t'assomme si tu dis|des bêtises pareilles !
+{19826}{19916}Si tu deviens impoli|dis "Je suis navré" .
+{19921}{20004}Si tu tords le cou à leurs poules...
+{20009}{20114}si tu fauches du riz|ou tu crames leurs huttes...
+{20119}{20184}dis "Je suis navré" .
+{20189}{20271}Dis-le voir "Je suis navré."
+{20276}{20326}Je suis navré.
+{20334}{20386}Quelque chose pour nous.
+{20391}{20521}On lui a demandé quel chemin est sûr.|Il change sans arrêt d'avis.
+{20554}{20654}T'es un Viêt-cong ? Viêt-cong ?
+{20660}{20732}Enfoiré ! Viêt-cong ?
+{20737}{20805}- Espèce d'enfoiré !|- Non !
+{20815}{20867}- Viêt-cong ?|- Pas Viêt-cong !
+{20962}{21077}Oui ! Comme ça ! Impeccable vieux.
+{21082}{21170}C'est comme ça que tu t'éclates toi ?
+{21187}{21247}C'est un sacré outil !
+{21255}{21305}Moi je ne trouve pas.
+{21310}{21390}On dirait un arbre|qui s'est enchevêtré.
+{21395}{21490}Et voilà que cet idiot|l'attache à sa vache.
+{21497}{21572}Tu sais comment ça marche ?
+{21577}{21655}Tu dois pas porter de l'eau|à tes potes...
+{21660}{21740}au lieu de traîner avec ce connard ?
+{21745}{21792}- Si.|- Alors, vas-y.
+{21797}{21905}D'accord. Non, non, non !|Voilà. Merde.
+{21910}{21967}On doit rester ensemble.
+{21985}{22055}T'as pas envie de labourer chez toi ?
+{22060}{22120}- Tu es marié, pas vrai ?|- Oui.
+{22170}{22250}Oui, c'est ça enfoiré !
+{22407}{22485}Merde, de quoi je parlais vieux ?
+{22522}{22577}Il est costaud ce joint.
+{22617}{22702}T'as des enfants ?|C'est de ça que je parlais.
+{22707}{22762}- Une petite fille.|- Une fille ?
+{22767}{22812}Ben justement.
+{22817}{22905}Qu'est-ce que tu fichais|quand le sergent t'a sauvé ?
+{22910}{22965}Le sol s'est effondré.
+{22970}{23090}Me voilà coincé. Enfoncé jusqu'à|mi-corps dans un tunnel.
+{23095}{23187}Le mortier tire tout autour.|Boum, boum !
+{23192}{23260}- L'enfer.|- Tu as pissé dans ton froc ?
+{23265}{23330}- Allez, raconte.|- Je raconte.
+{23335}{23452}Des nèfles. T'avais le cul coincé|dans un terrier ?
+{23457}{23505}Et après ?
+{23510}{23550}- Arrête.|- Raconte.
+{23555}{23607}Fais comme si j'étais ton curé.
+{23612}{23677}- Je suis luthérien.|- Tu as pissé ?
+{23682}{23772}Sans le sergent|ce serait arrivé à coup sûr.
+{23777}{23847}Sans le sergent t'es un sac à merde.
+{23852}{23922}Et tu ne jacterais pas avec moi.
+{23927}{24045}Tu serais dans un sac|et ta famille pleurerait à jamais.
+{24050}{24075}Hein sergent ?
+{24142}{24180}Hatch !
+{24190}{24240}- Hatcher !|- Quoi ?
+{24245}{24345}Vous avez 30 jours|pour tout apprendre de nous.
+{24400}{24430}Hatcher !
+{24462}{24515}- Ecoute.|- J'écoute.
+{24520}{24595}On va être libérés et on va partir...
+{24803}{24861}A 13 heures !
+{25008}{25046}Derrière toi !
+{25206}{25271}Mon Dieu, je l'ai eu !
+{25278}{25308}Sergent !
+{25631}{25728}Assez, cessez le feu !|Cessez le feu !
+{26008}{26131}- Je savais que c'était pas sûr.|- Ces salauds nous ont piégés !
+{26186}{26311}Sergent, je suis mal barré.|Je suis mal barré.
+{26323}{26423}- C'est rien Brownie.|- C'est sûr ?
+{26458}{26558}Moi, je sens quelque chose.|Ça fait mal sergent.
+{26563}{26628}C'est rien vieux.
+{26683}{26781}Eriksson, le sergent dit|que ça va aller.
+{26786}{26868}Oui. T'en fais pas Brownie.
+{27111}{27191}Putain de merdier ! Putain de merde !
+{27753}{27801}Vite ! Vite !
+{27826}{27861}Grouillez-vous !
+{27866}{27898}Sergent !
+{27903}{28001}Regarde-moi dans les yeux !|Je vais t'hypnotiser !
+{28006}{28066}Tu vas bien.
+{28071}{28173}Je le sais mec. Je le sais.
+{28622}{28749}Je suis blindé moi.|Je suis un putain de blindé.
+{28777}{28829}Je suis un putain de blindé.
+{29019}{29127}Sergent ! Retournez en arrière|de un mile.
+{29132}{29187}On vous emmènera à Ap Thanh.
+{29192}{29297}Puis allez à Wolf,|la compagnie s'y rassemble.
+{29302}{29389}- C'est clair ?|- Protégez vos arrières.
+{29394}{29472}Ce village donne asile aux Viêt-congs.
+{29477}{29537}Ils vont morfler avant qu'on parte.
+{29542}{29632}- Vous en faites pas.|- Cramez ce patelin.
+{29802}{29934}BASE WOLF
+{30519}{30639}Hé, il est là. Mon pieu, mon pieu !
+{30672}{30717}Ton programme ?
+{30722}{30827}Je vais me bourrer|et sauter quelques putes.
+{30832}{30957}- Je suis trop crevé.|- Arrête, on est de sortie, non ?
+{30984}{31042}File-moi une bière.
+{31047}{31154}- Fallait en acheter plus.|- File-lui une bière.
+{31159}{31209}- C'est les miennes.|- 1 000 pi !
+{31214}{31294}- Fallait y penser avant.|- 10000 pi.
+{31302}{31339}Pour une bière ?
+{31344}{31407}Je te donne des biscuits.
+{31412}{31492}- J'espérais te revoir.|- Laisse tomber.
+{31497}{31564}On a été envoyés en zone de combat.
+{31569}{31664}Notre lieutenant avait|la tête dans le cul.
+{31669}{31784}Il nous a largués dans la jungle|comme des cons en délire.
+{31802}{31902}- Comment ça s'est passé pour vous ?|- Personne le sait.
+{31907}{32002}- J'ai failli y rester.|- Ça fait quel effet ?
+{32007}{32034}J'étais comme fou.
+{32039}{32079}- Tu te douches ?|- Après.
+{32084}{32169}Je veux me doucher. Allons-y.
+{32254}{32352}Hé sergent ! C'est le sergent.
+{32357}{32447}Ce connard de Clark|m'a acheté une bière...
+{32452}{32562}10000 pi. Faut pas être con pour ça ?
+{32570}{32638}On est de sortie ou pas ?
+{32643}{32700}- De sortie.|- Génial.
+{32743}{32838}On est de reconnaissance demain matin.
+{32843}{32898}On est libres jusqu'à 21 heures.
+{32948}{32995}Où on va ?
+{33005}{33113}Je vais recevoir les instructions.|Vous le saurez à 21 heures.
+{33158}{33198}On s'en va à 6 heures.
+{33203}{33265}- On est libres jusque-là ?|- Oui.
+{33270}{33393}Sergent, on va se doucher.|Qu'est-ce que vous faites ?
+{33408}{33475}Je vais me faire baiser.
+{33588}{33640}Du nouveau de Brownie ?
+{33665}{33710}Il est mort.
+{33880}{33993}C'est un bled pourri.|Je déteste ce putain de bled.
+{33998}{34108}- Faudrait le faire sauter et...|- Génial.
+{34155}{34253}Brownie avait le don|de me faire marrer.
+{34283}{34353}Et putain, j'aime me marrer.
+{34430}{34468}Tu sais...
+{34495}{34610}j'ai jamais connu un négro|aussi drôle que Brownie.
+{34618}{34703}C'est vache d'aller|en mission à la fin...
+{34708}{34745}au lieu de partir !
+{34750}{34833}Dans ce cas ce serait|comme être libéré.
+{34838}{34893}- Et alors ?|- Qui irait en mission ?
+{34898}{34950}Moi j'en ai pas envie.
+{34955}{35000}S'ils avançaient le retour...
+{35005}{35083}plus personne serait envoyé là-bas.
+{35088}{35123}Et alors ?
+{35128}{35220}Sauf que ces niacoués|sont des salopards !
+{35238}{35288}C'est des ordures !
+{35328}{35380}Tous les enfoirés du village.
+{35385}{35473}Hommes, femmes, enfants,|ils savaient !
+{35478}{35578}Ils savaient pour les tireurs|qui ont buté Brownie.
+{35598}{35643}C'est des minables.
+{35648}{35778}Des cafards. Le seul moyen avec eux|c'est de les supprimer.
+{36105}{36173}Les permissions sont annulées.
+{36178}{36203}Hein ?
+{36213}{36290}- Le village est interdit.|- Quoi ?
+{36295}{36368}- Longtemps ?|- Jusqu'à nouvel ordre.
+{36428}{36475}Il parle sérieusement.
+{36484}{36524}On les emmerde.
+{36591}{36646}Attention, sergent !
+{36654}{36704}- Bordel !|- Du calme.
+{36709}{36736}J'étais calme !
+{36741}{36819}- Vachement calme !|- Et maintenant ?
+{36824}{36876}Vous savez pourquoi ?
+{36881}{36999}Les Viêt-congs sont là.|Les Rouges sont au bordel !
+{37014}{37074}- Non ?|- Tu ne savais pas ?
+{37079}{37206}Les Rouges baisent eux aussi.|C'est dur de nous tuer, non ?
+{37286}{37394}Qu'est-ce qu'on fait ?|Qu'est-ce qu'on fait ?
+{37444}{37501}Bon Dieu !
+{37561}{37624}Les Viêt-congs baisent.
+{37639}{37701}Et nous...
+{37706}{37776}C'est pas juste !
+{37911}{37986}Je suis en train de parler ?
+{38009}{38074}Je ne sais pas si je parle ou pas.
+{38139}{38196}Diaz, comment va ?
+{38321}{38414}Qui d'entre vous a un Playboy|à me prêter ?
+{38446}{38524}- Sur moi ?|- Oui.
+{38529}{38609}- Je dois en trouver un.|- Un cadeau.
+{38624}{38689}Voilà Diaz, il remplace Brown.
+{38694}{38759}On part demain à 5 heures.
+{38776}{38889}Prenez chacun deux grenades offensives.|Et des lacrymogènes. Assieds-toi.
+{38939}{39019}Pas de blousons,|vous crèveriez de chaud.
+{39024}{39104}Autrement mettez|ce qui porte chance...
+{39109}{39181}et ce qui vous a maintenu en vie.
+{39201}{39286}Destination: colline 209,|vallée Tra Khuc.
+{39291}{39324}C'est là.
+{39329}{39389}Il y a des cavernes et des Viêt-congs.
+{39399}{39506}On cherche tunnels, bunkers,|sentiers, etc.
+{39511}{39634}Bon, on ne doit pas faire feu|sauf pour se défendre.
+{39659}{39761}Mais si vous en voyez un|vous le descendez.
+{39891}{40034}On part plus tôt pour faire un détour|de plus d'un mile vers le sud...
+{40039}{40089}au village de Nghia Hanh.
+{40101}{40199}Parce qu'on doit|réquisitionner une fille.
+{40204}{40261}Un petit plaisir portable.
+{40281}{40374}Pour vaincre l'ennui|et garder le moral.
+{40450}{40565}Je veux des hommes enchantés,|prenez vos grigris.
+{40642}{40680}Comme celui-là ?
+{40767}{40807}Ça porte chance ?
+{40865}{40892}A le voir.
+{40897}{40945}C'est ce qu'il a dit ?
+{40967}{41020}Il le ferait pas, hein ?
+{41032}{41085}Emmener une fille ?
+{41090}{41170}Tu es fou ? Il a bientôt fini !
+{41175}{41267}Il s'en va dans moins de 30 jours.
+{41272}{41322}Alors pourquoi il l'a dit ?
+{41387}{41472}Jene  sais pas. Les autres ont dit quoi ?
+{41507}{41550}Ils blaguaient.
+{41637}{41670}Clark a dit:
+{41675}{41745}"C'est le rab pour les rations ?"
+{41750}{41860}Oui. Trimballer une nana|dans son havresac.
+{41865}{41922}C'est complètement dingue.
+{41952}{42010}Ça n'arrivera jamais soldat.
+{43750}{43832}Elle sergent. C'est la plus jolie.
+{43837}{43882}Prends la jolie.
+{44080}{44177}- Viens ici salope !|- Mon Dieu !
+{44398}{44431}Qu'est-ce qui se passe ?
+{45361}{45416}Vous avez déjà fait ça ?
+{45441}{45473}Non.
+{45616}{45656}Incroyable.
+{45708}{45798}Je ne pensais pas|que c'était vrai. Et toi ?
+{45853}{45893}Je sais pas.
+{46103}{46186}Je veux qu'on parte avant l'aube.
+{46576}{46636}Quoi, qu'est-ce que tu veux ?
+{46711}{46763}Tu veux qu'elle emmène ça ?
+{46768}{46851}Ben d'accord. Pas de problème.
+{46856}{46956}Elle peut l'emmener !|Tais-toi salope !
+{47018}{47073}Allons-nous-en sergent.
+{47081}{47138}Va te reposer, t'es hors de toi.
+{47351}{47461}Je suis désolé. Je suis désolé.
+{49044}{49162}On va la conquérir cœur et âme.|Si elle en a une.
+{49357}{49387}Sergent.
+{49414}{49477}Encore quelques miles.
+{49522}{49629}- Je pensais pas que c'était vrai.|- C'était sérieux.
+{49634}{49772}C'est ce que je dis.|C'est un enlèvement, pas vrai ?
+{49824}{49867}Passe en tête.
+{49884}{49949}- Va remplacer Hatch.|- Pourquoi ?
+{49954}{50002}Tu passes en tête.
+{50052}{50109}- File !|- D'accord.
+{50309}{50404}Hatch, ralentis.|Je dois te remplacer.
+{50494}{50567}Comme Gengis Khan vieux.
+{50609}{50652}C'est ce que je me disais.
+{50657}{50722}Tu connais Gengis Khan ?
+{50729}{50824}- De quoi tu parles ?|- Meserve est incroyable.
+{50832}{50899}Ce qu'on fait...
+{50904}{50947}c'est fantastique.
+{50974}{51029}Pourquoi on n'y a jamais pensé ?
+{51034}{51139}- C'est dingue.|- Les armées font toutes ça.
+{51147}{51232}- On n'est pas Gengis Khan.|- Le dingue c'est toi.
+{51247}{51309}On est au XXème siècle !
+{51322}{51399}Dire qu'on est là pour les aider.
+{51567}{51647}Je vais la baiser cette salope.
+{51812}{51892}Qu'est-ce que tu as ? Viens ici.
+{51944}{52069}Approche-toi une seconde, viens.|Ça va ? Ça va ?
+{52423}{52473}On en a bavé, hein ?
+{52633}{52668}Un chewing-gum ?
+{52743}{52800}Je vais pas te faire mal.
+{52858}{52923}Je dois me la faire moi aussi ?
+{52973}{53003}Diaz...
+{53038}{53073}Non.
+{53080}{53118}Hé, venez.
+{53123}{53165}Allez, venez.
+{53175}{53248}Que quelqu'un vienne, vite.
+{53268}{53350}- Venez.|- Va voir Clark.
+{53505}{53575}- Paysan ou Viêt-cong ?|- Où ?
+{53580}{53665}- Dans l'étang.|- Alors Clark ?
+{53673}{53745}- C'est un rocher.|- Il bouge.
+{53750}{53820}Les buissons, pas le rocher.
+{53900}{53998}- Qu'est-ce que tu fais ?|- Le sergent a dit de tirer.
+{54108}{54163}C'était un buffle sergent.
+{54213}{54303}Connard, pauvre connard.
+{55583}{55663}De l'aspirine. Génial, super.
+{56409}{56524}Sergent.|On est sur le chemin ?
+{56574}{56634}Faut suivre la ligne rouge.
+{56639}{56719}On y sera dans deux heures et demie.
+{56804}{56884}Parlons une minute de ce qu'on fait.
+{56891}{57004}Qu'est-ce qu'on fait ?|Qu'est-ce qu'on fait sergent ?
+{57136}{57229}On a une suspecte Viêt-cong.|C'est ce que tu veux dire ?
+{57326}{57439}C'est une pute de Viêt-cong,|on va s'amuser avec elle.
+{57449}{57491}C'est une paysanne.
+{57496}{57599}Tu es un bleu, pas vrai ?|Alors remets-toi.
+{57604}{57704}- J'assume tout.|- Un problème sergent ?
+{57711}{57789}Il croit pas|que c'est une pute Viêt-cong.
+{57794}{57894}En ville elles vendraient|leurs enfants.
+{57899}{57971}Eux ils dormaient dans leurs huttes.
+{58009}{58084}Il voit les choses à l'envers.
+{58089}{58151}Tu ne comprends rien à la situation.
+{58206}{58284}- Comment ça ?|- C'est une Viêt-cong.
+{58321}{58414}- Non.|- Ecoute bien Eriksson.
+{58486}{58569}C'est pas un Viêt-cong.|Pas Clark.
+{58629}{58679}Hatcher est pas un Viêt-cong.
+{58804}{58851}Diaz l'est pas.
+{58984}{59054}Moi non plus je ne suis pas un enculé|de Viêt-cong.
+{59064}{59094}Et ça ?
+{59251}{59306}Ça c'est une Viêt-cong.
+{59436}{59466}Et toi ?
+{59501}{59554}Toi je sais pas trop.
+{59941}{60029}Tu vas pas t'en tirer comme ça mec.
+{60034}{60104}Si tu portes rien prends mon sac.
+{60109}{60156}- Pourquoi ?|- Porte-le.
+{60161}{60189}Sergent !
+{60196}{60279}Hé ! Je suis un caporal Hatcher.
+{60285}{60330}C'est un ordre.
+{60345}{60380}Porte mon sac.
+{60545}{60625}Non mais quel connard !
+{62980}{63030}La voie est libre.
+{63057}{63155}Le torrent est à 30 yards.|L'eau abonde.
+{63207}{63310}Fais-la entrer.|Reprends ton sac Hatcher.
+{63332}{63412}Ce sera notre poste de commandement.
+{63417}{63520}Eriksson et Diaz, rangez la bouffe|et les munitions.
+{63675}{63750}Clark, toi et Hatcher, venez avec moi.
+{64197}{64257}Je suis pas un violeur.
+{64278}{64336}Tu dois me soutenir.
+{64386}{64451}- Je le ferai.|- Jure-le.
+{64478}{64561}Oui. Je te le promets.
+{64573}{64623}Soutiens-moi moi aussi.
+{64631}{64681}Compte sur moi.
+{65366}{65441}Je vais pas te faire de mal.
+{65446}{65486}Tu es blessée.
+{65491}{65601}Je vais te soigner, d'accord ?|Non, non, donne.
+{65861}{65903}Je nettoie ta blessure.
+{66123}{66181}Je vais pas te faire de mal.
+{66228}{66261}Chut ! Viens.
+{66423}{66478}Ne bouge pas.
+{66533}{66591}Tu vois ?
+{66763}{66811}Ça va aller.
+{66948}{67041}Bon, je suis ton ami.|Je suis ton ami.
+{67583}{67633}Je peux m'asseoir ?
+{67676}{67713}Vas-y.
+{67773}{67841}Ration de guerre ? C'est quoi ?
+{67846}{67931}- Saucisse et fayots.|- Pas de surprise à l'armée.
+{67936}{67991}Ça, les Viêt-congs s'en chargent.
+{68058}{68093}Comment va ?
+{68131}{68166}Ça va.
+{68217}{68282}Ex cuse-moi pour tout à l'heure.
+{68319}{68432}Mais ici, avec des Viêts-congs|planqués dans les arbres...
+{68439}{68487}pour nous buter !
+{68492}{68554}Plus six heures dans la cambrousse.
+{68559}{68682}Les niacoués devraient se battre pour|en sortir, pas pour garder ce merdier.
+{68697}{68792}Six heures avec les serpents|et les araignées.
+{68822}{68922}Faut compter les uns|sur les autres. Pas vrai ?
+{68964}{68997}Ouais.
+{69064}{69097}Viens.
+{69502}{69572}Je ne veux pas d'emmerdes avec toi.
+{69599}{69687}Je compte particulièrement sur toi.
+{69712}{69787}Je ne comprends pas ce qui se passe.
+{69817}{69852}On va...
+{69879}{69929}interroger la prisonnière.
+{69959}{69992}C'est pas juste.
+{70027}{70087}On n'est pas censés faire ça.
+{70107}{70192}Fais pas chier.|Et tu prendras ton tour.
+{70197}{70247}Je ne suis pas un violeur.
+{70252}{70297}C'est à moi que tu dis non ?
+{70307}{70377}T'as pas assez de cran pour ça.
+{70382}{70447}Enfoiré ! Enfoiré !
+{70452}{70512}Tu veux me tenir tête ?
+{70524}{70579}Je ne ferai jamais ça. Non !
+{70587}{70692}T'aimes pas les filles ?|T'as rien entre les jambes ?
+{70697}{70782}- Sergent ?|- Il veut pas la sauter.
+{70794}{70839}- Mauviette.|- C'est ça ?
+{70844}{70894}C'est ça le problème ?
+{70917}{70964}- Non.|- Alors ?
+{70969}{71024}- Peut-être qu'il est pédé ?|- Oui ?
+{71047}{71087}- C'est ça ?|- Non !
+{71099}{71199}Alors c'est quoi ?|Les autres sont d'accord.
+{71294}{71342}Pourquoi tu regardes Diaz ?
+{71367}{71442}Il marche lui. T'as un problème ?
+{71554}{71594}- Non.|- Bon.
+{71679}{71754}Arrête de regarder Diaz !
+{71772}{71857}Minute.|Peut-être qu'il est vraiment pédé.
+{71902}{71962}Il est peut-être homosexuel.
+{71987}{72072}On a deux nanas.|Eriksson est une lope ?
+{72079}{72127}- Je ne sais pas.|- Je crois.
+{72155}{72238}Une mauviette.|Je lui arracherai le cœur.
+{72243}{72343}Comment compter sur toi ?|Tu soutiens les Viêt-congs.
+{72350}{72408}Tu pourrais te faire buter.
+{72445}{72540}Quelqu'un trébuche...|il ne t'a pas tué exprès.
+{72545}{72665}Un putain d'accident.|En attendant tu finis dans un sac.
+{72680}{72758}Ton papa et ta maman en larmes.
+{72763}{72828}- Il est mort.|- Quoi ?
+{72868}{72993}- Mon père est mort.|- On s'en fout de tes histoires.
+{73015}{73083}Tu vas prendre ton tour|comme tout le monde.
+{73193}{73308}Quand j'aurai fini avec elle|je pourrai m'occuper de toi.
+{73333}{73430}Quand je l'aurai sautée|je te sauterai toi !
+{73528}{73603}En position d'attaque contre moi ?
+{73728}{73783}Oui, tu as une arme.
+{73808}{73870}Clark aussi il a un couteau.
+{73875}{73965}On est tous armés,|on peut se descendre...
+{73975}{74013}n'importe quand.
+{74053}{74138}Ça devrait toujours être comme ça.
+{74423}{74475}L'armée dit que c'est une arme.
+{74500}{74538}Mais ça l'est pas.
+{74600}{74638}Ça c'est une arme.
+{74753}{74808}C'est un fusil.
+{74845}{74893}C'est avec ça qu'on se bat.
+{74913}{74958}Avec ça on s'amuse.
+{75663}{75708}Tu vas regarder ?
+{75780}{75828}Tu es de garde Eriksson.
+{75840}{75883}Tu es de garde.
+{76088}{76168}- C'est à qui après ?|- Pas à toi !
+{76174}{76231}Si on avait des bières !
+{76236}{76299}J'aimerais bien une bière glacée.
+{76606}{76654}C'est mieux que rien.
+{76659}{76759}Dommage qu'on n'ait pas de bière.|Ça vous dirait pas ?
+{76781}{76826}On joue à pile ou face ?
+{76831}{76906}- C'est à Diaz.|- Et moi sergent ?
+{76914}{77011}- Après Clark.|- Je suis le dernier ?
+{77019}{77064}Grouille-toi Diaz !
+{77109}{77176}Si seulement on avait des bières !
+{77184}{77289}- Boucle-la.|- Je demande qu'une bière.
+{77294}{77379}Bâillonnons-la|ou les Viêt-congs vont se pointer.
+{78294}{78379}Dès qu'Hatcher s'agite|un peu il fait...
+{78439}{78476}comme une souris.
+{78481}{78554}Clark lui a mis le couteau à la gorge.
+{78561}{78596}Et alors ?
+{78656}{78694}Qu'est-ce que tu veux dire ?
+{78786}{78871}Quand vous avez baisé|une vraie femme ?
+{78919}{78959}Elle c'est une vraie.
+{78999}{79044}Pour moi c'est une vraie.
+{79086}{79149}Mon frère avait une bagnole.
+{79154}{79209}Une Chevrolet Bel Air de 57.
+{79239}{79284}Avec l'avant effilé.
+{79319}{79434}Elle avait dix couches|de peinture rouge cerise.
+{79454}{79504}Une bagnole d'enfer.
+{79536}{79624}Un moteur 2500. Et ces vitesses !
+{79629}{79689}Elle volait dans les rues !
+{80060}{80130}Diaz te remplace à minuit.
+{80452}{80525}Tu dois aimer l'armée, pas vrai ?

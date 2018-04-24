@@ -1,0 +1,1090 @@
+{7634}{7693}Qu'est-ce que vous faites?|On ne s'arrête pas ici.
+{7984}{8017}Descendez de la voiture.
+{13313}{13385}Les gars ont trouvé ça par terre
+{13385}{13433}à l'arrière de la Cadillac.
+{13433}{13486}Oui, j'ai vu ça.
+{13544}{13601}C'est peut-être sans rapport.
+{13601}{13635}Peut-être.
+{13664}{13743}Un des gamins portait ce genre|de boucle d'oreille?
+{13743}{13774}Non.
+{13815}{13920}Il manque peut-être quelqu'un.
+{13920}{13966}C'est ce que je me dis.
+{14870}{14918}Il ne reste plus qu'un sac|après celui-là.
+{17469}{17502}Je voulais venir ici.
+{17550}{17581}Dans un Winkie's?
+{17615}{17648}Celui-là.
+{17716}{17768}Et pourquoi celui-là?
+{17859}{17910}C'est un peu gênant.
+{17974}{18006}Je t'écoute.
+{18054}{18102}J'ai rêvé de cet endroit.
+{18102}{18138}D'accord.
+{18138}{18185}Tu vois ce que je veux dire?
+{18217}{18265}OK,
+{18265}{18315}donc tu as rêvé de cet endroit.
+{18358}{18387}Raconte-moi.
+{18488}{18559}Eh bien...
+{18559}{18619}C'est la deuxième fois|que je fais ce rêve,
+{18619}{18665}mais c'est le même.
+{18711}{18806}Au début je suis ici mais
+{18806}{18890}ce n'est ni le jour ni la nuit,
+{18890}{18946}une sorte de demi-nuit.
+{18946}{19013}Mais tout est comme ici
+{19013}{19092}sauf la lumière.
+{19092}{19128}Et je suis terrifié à un point
+{19029}{19161}que tu ne peux pas imaginer.
+{19272}{19339}Tu es présent,|tu te tiens juste là,
+{19432}{19468}derrière ce comptoir.
+{19526}{19564}Tu es dans les deux rêves
+{19586}{19619}et tu as peur.
+{19662}{19742}Et de voir que tu as peur|ça me terrifie encore plus
+{19837}{19881}et je comprends ce qui se passe.
+{19988}{20024}Il y a un homme...
+{20063}{20099}au fond de cette arrière-cour.
+{20171}{20209}C'est lui qui fait tout ça.
+{20269}{20339}Je peux le voir à travers le mur.
+{20339}{20382}Je peux voir son visage.
+{20533}{20593}J'espère que je ne verrai|jamais ce visage
+{20593}{20641}ailleurs qu'en rêve.
+{20900}{20931}C'est tout.
+{20995}{21058}Alors tu es venu voir|s'il était là?
+{21137}{21190}Je dois me débarrasser|de cet horrible sentiment.
+{21281}{21312}Très bien.
+{22453}{22484}C'est par-là.
+{24160}{24251}Dan? Est-ce que ça va? Dan?
+{24920}{24944}Allo ?
+{24990}{25067}La fille n'a pas réapparu.
+{25563}{25601}Parlez.
+{25601}{25632}C'est lui.
+{26558}{26604}C'est incroyable!
+{27361}{27416}Il est l'heure|de nous quitter Betty.
+{27416}{27474}Ça a été un plaisir|de faire le voyage avec vous.
+{27474}{27555}Merci Irene. Je suis tellement|enthousiasmée, nerveuse,
+{27555}{27606}ça m'a fait du bien|de parler avec vous.
+{27606}{27654}N'oubliez pas,|j'attends de vous voir à l'écran.
+{27654}{27754}OK Irene, que ce jour vienne vite.
+{27754}{27817}Bonne chance ma chère Betty.
+{27817}{27922}Prenez soin de vous et|soyez prudente.
+{27922}{27953}Merci encore.
+{27977}{28025}Betty ça a été formidable|de vous rencontrer,
+{28025}{28049}je vous souhaite toute|la chance du monde.
+{28049}{28100}Merci.
+{28100}{28138}Au revoir.
+{28315}{28351}Mes bagages!
+{28351}{28385}Où va-t-on?
+{28419}{28476}1612 Havenhurst.
+{28534}{28555}En voiture.
+{30433}{30480}Dix dollars que vous êtes Bettty.
+{30480}{30548}Oui c'est moi madame Lanoix,
+{30548}{30591}c'est bien madame Lanoix?
+{30591}{30660}Dans toute sa gloire chérie.
+{30660}{30696}Ravie de vous connaître.
+{30696}{30766}Appelez-moi Coco|comme tout le monde ici.
+{30766}{30816}Attendez ici,|je vais chercher vos clés.
+{30816}{30859}D'accord Coco.
+{30965}{31039}Wilkins! Wilkins!
+{31039}{31135}Si ce maudit chien fait|encore ses besoins ici
+{31135}{31217}j'en ferai mon petit déjeuner!
+{31217}{31252}Vous n'avez pas|d'animal de compagnie?
+{31252}{31276}Non.
+{31276}{31372}Ils sont admis mais vous comprenez|pourquoi je ne les aime pas.
+{31372}{31504}Un des anciens locataires|avait un kangourou.
+{31504}{31643}Vous ne pouvez pas imaginer dans|quel état il a mis ce jardin!
+{31643}{31684}Allons voir l'appartement|de votre tante.
+{31684}{31718}Il est très bien.
+{31718}{31761}Je suis impatiente.
+{31945}{31993}C'est magnifique!
+{31993}{32027}Je vous l'avais dit.
+{32094}{32178}Vous vous êtes entendue avec|votre tante, voici la clé,
+{32178}{32233}si vous avez besoin de quoi|que ce soit je suis là.
+{32259}{32331}Tout le monde ici s'entend|bien avec moi,
+{32331}{32372}sinon ils ne resteraient|pas longtemps.
+{32394}{32473}Si vous le souhaitez|je vous présenterai.
+{32494}{32540}Vous n'êtes pas obligée.
+{34600}{34664}Oh pardon... je suis désolée,|ma tante ne m'avait pas dit
+{34664}{34724}qu'il y aurait quelqu'un.
+{34724}{34746}Ce n'est rien.
+{34777}{34832}Je suis la nièce de Ruth.|Je m'appelle Betty.
+{34832}{34894}Elle a dû vous prévenir|de mon arrivée.
+{34921}{35010}Il y a eu un accident.|Je suis venue ici.
+{35022}{35089}Je comprends. J'ai vu la robe.
+{35089}{35173}Est-ce que vous allez bien?
+{35173}{35216}Qu'est-ce qui s'est passé?
+{35249}{35281}Une voiture...
+{35316}{35355}un accident de voiture.
+{35415}{35456}Vous n'avez rien?
+{35515}{35551}Je ne crois pas.
+{35592}{35690}Je voulais prendre une douche.
+{35690}{35789}Mon dieu, je suis désolée.|Je vous laisse.
+{35789}{35822}Je vais défaire mes bagages.
+{35925}{35964}Comment vous appelez-vous?
+{36072}{36146}Pardon, je sors,|on pourra parler plus tard.
+{37055}{37107}Je m'appelle
+{37107}{37131}Rita.
+{37206}{37232}Vous travaillez avec ma tante?
+{37271}{37318}Non... je
+{37318}{37369}Désolée ça...
+{37369}{37407}ça ne me regarde pas.
+{37508}{37575}Elle a les cheveux roux.
+{37575}{37621}Elle me prête son appartement,|elle travaille sur un film
+{37621}{37678}dont le tournage est au Canada,
+{37678}{37748}vous devez déjà savoir tout ça.
+{37748}{37822}Je n'ai pas les moyens de vivre|dans un tel endroit,
+{37822}{37903}sauf si on me remarque et|que je deviens une star.
+{37903}{37983}Je préfèrerais être reconnue|comme une grande actrice,
+{37983}{38067}mais parfois on parvient|aux deux à la fois.
+{38067}{38153}Voila.|Vous savez pourquoi je suis ici.
+{38239}{38328}Je suis désolée,|mais c'est tellement excitant...
+{38328}{38393}je viens de Deep River|dans l'Ontario
+{38393}{38460}et maintenant je suis dans ce...
+{38460}{38508}dans cet endroit de rêve.
+{38508}{38558}Vous devez imaginer|ce que je ressens.
+{38755}{38795}Asseyez-vous.
+{38903}{38942}Où avez-vous mal?
+{39011}{39038}Il faut appeler un médecin.
+{39038}{39054}Non.
+{39054}{39083}Mais c'est peut-être grave.
+{39083}{39126}Non,
+{39126}{39167}j'ai besoin de dormir.
+{39167}{39225}Si vous avez une commotion vous|ne devez pas dormir.
+{39225}{39294}Tout ira bien si je dors.
+{39294}{39388}J'ai juste besoin|de m'allonger et de dormir.
+{40757}{40797}Tu vois Adam,
+{40797}{40901}il y a quelques suggestions|qui doivent être étudiées.
+{40901}{40975}Tu nous a dit que tu étais prêt|à écouter toutes les suggestions,
+{40975}{41040}c'est tout ce que nous demandons.
+{41076}{41131}De quoi parles-tu?
+{41131}{41193}Un esprit ouvert.
+{41193}{41275}Tu dois remplacer ton rôle principal,
+{41275}{41334}et je...
+{41334}{41430}nous te demandons|d'avoir l'esprit ouvert.
+{41675}{41711}Qu'est-ce que c'était|la dernière fois?
+{41802}{41852}Essayons le suivant.
+{41852}{41910}Il n'aimera pas.
+{41910}{41946}Nous verrons.
+{42104}{42178}Ah.. les frères Castigliane.
+{42178}{42224}Permettez-moi de vous présenter,
+{42260}{42344}je vous en prie, asseyez-vous,
+{42344}{42411}voici monsieur Darby|que vous connaissez déjà,
+{42411}{42485}le réalisateur, Adam Kasher
+{42485}{42562}et son agent, Robert Smith.
+{43401}{43442}Elle est très jolie.
+{43490}{43550}Puis-je vous proposer|quoi que ce soit?
+{43646}{43689}Rien.
+{43689}{43744}Qu'est-ce que cette photo?
+{43744}{43770}Un expresso.
+{43806}{43835}Non c'est tout.
+{43864}{43929}Je pense que vous allez|apprécier votre expresso.
+{43929}{43969}J'ai fait quelques recherches,
+{43969}{44025}sachant que vous êtes un connaisseur.
+{44025}{44080}Celui-là m'a été vivement recommandé.
+{44080}{44149}Qu'est-ce que cette photo?
+{44149}{44202}C'est une recommandation.
+{44202}{44260}Une recommandation pour vous, Adam.
+{44305}{44351}Ce n'est pas une recommandation.
+{44351}{44399}C'est elle.
+{44399}{44454}Comment ça c'est elle?|Qu'est-ce que ça veut dire?
+{44454}{44507}Qu'est-ce que ça veut dire Ray?
+{44507}{44605}Nous serons heureux de|considérer sa candidature.
+{44605}{44658}Vous devez savoir que ce rôle
+{44658}{44734}suscite de nombreux intérêts.
+{44734}{44792}Intérêts? Non...
+{44792}{44859}Six des plus célèbres actrices|du moment veulent ce contrat.
+{44859}{44917}C'est elle.
+{44917}{44943}Ray occupe-toi de ça.
+{44943}{44979}Calme-toi, calme-toi Adam.
+{44979}{45020}Me calmer?
+{45020}{45070}Il n'en est pas question,|pas question!
+{45516}{45559}Pardon?
+{45559}{45607}Serviette.
+{45607}{45662}Bien sûr.
+{45662}{45703}Excusez-moi.
+{46111}{46149}Est-ce tout monsieur?
+{47530}{47566}De la merde!
+{47566}{47614}Je suis désolé,|il m'a été recommandé...
+{47614}{47650}- On le considère comme| l'un des meilleurs
+{47650}{47669}expressos du monde monsieur.
+{47669}{47712}Qu'est-ce qui se passe ici?
+{47712}{47775}Il est hors de question que|cette fille soit dans mon film.
+{47775}{47827}Ça suffit!
+{47866}{47904}C'est elle.
+{47904}{47966}Cette fille ne jouera pas dans mon film!
+{48041}{48091}Ce n'est plus votre film.
+{48223}{48252}C'est elle.
+{49201}{49242}Les frères Castigliane|sont sortis de cette limousine?
+{49290}{49321}Les deux types en costume sombre?
+{49321}{49338}Oui.
+{49338}{49369}C'est ça.
+{49369}{49405}Laisse tourner le moteur.
+{49657}{49690}Les frères Castigliane?
+{49690}{49745}Dégage.
+{49745}{49777}OK.
+{50819}{50875}Bonsoir monsieur Roque.
+{50920}{50995}Son nom est Camilla Rhodes.
+{51023}{51083}Le réalisateur n'en veut pas.
+{51162}{51217}Voulez-vous le remplacer?
+{51292}{51333}Je sais qu'ils sont dit...
+{51390}{51426}Alors?
+{51448}{51481}Alors,
+{51508}{51556}Cela signifie que nous devrions...
+{51639}{51680}Oui?
+{51726}{51767}Tout abandonner?
+{51767}{51822}Est-ce que c'est...
+{51862}{51913}ce que vous attendez de nous,
+{51913}{51966}tout abandonner?
+{52088}{52141}Dans ce cas|nous allons tout abandonner.
+{52857}{52898}Bon sang...
+{52898}{52949}c'est inouï!
+{52949}{53016}Un accident comme celui-là|qui pouvait le prévoir?
+{53100}{53143}C'est irréel non?
+{53208}{53251}C'est incroyable...
+{53402}{53476}Alors mon frère,|tu as l'air en forme.
+{53476}{53512}Qu'est-ce que tu deviens?
+{53512}{53553}Eh bien je...
+{53553}{53589}je fais quelques trucs pour ce type.
+{53625}{53661}Ça te permet de t'en sortir?
+{53661}{53699}Difficilement.
+{53754}{53843}Je sais, regarde autour de toi.
+{53879}{53915}Les temps sont durs.
+{53984}{54023}Ça ne va pas si mal.
+{54068}{54116}J'espère que tu ne vas pas|t'attirer d'ennuis.
+{54116}{54167}Non ce n'est que pour l'histoire...
+{54167}{54210}elle t'a bien fait rire non?
+{54210}{54260}Oui elle est drôle.
+{54260}{54306}Un putain d'accident de voiture...
+{54385}{54452}Alors c'est donc ça,
+{54452}{54509}c'est ce fameux carnet noir.
+{54581}{54653}Toute l'histoire du monde
+{54653}{54677}en numéros de téléphone.
+{55409}{55449}Bon sang!
+{55754}{55804}Quelque chose m'a piqué très fort!
+{57015}{57056}Hé vous!
+{57056}{57089}Elle est blessée venez
+{57089}{57142}ici et prenez le téléphone|s'il vous plaît.
+{57166}{57204}Elle est blessée je suis sérieux
+{57204}{57255}il faut appeler l'hôpital.
+{57281}{57329}Allez! Je ne plaisante pas
+{57329}{57389}je ne peux pas tout faire!
+{59345}{59415}Oui tante Ruth j'essaierai.
+{59415}{59482}J'apprendrai ce texte|jusqu'à ce que je le connaisse
+{59482}{59540}sur le bout des doigts.
+{59540}{59619}Oui, ici|sur ce merveilleux canapé en cuir,
+{59619}{59669}ou en buvant un café dans le jardin
+{59669}{59736}comme une vraie star de cinéma.
+{59736}{59796}J'ai été vraiment surprise|de trouver ton amie Rita ici.
+{59796}{59868}Elle prenait une douche et|j'ai ouvert la porte.
+{59878}{59935}Rita.
+{59935}{60005}Comment ça?
+{60005}{60055}Elle a eu un accident.
+{60084}{60149}Rita, ton amie.
+{60187}{60245}Non,|c'est Coco qui a ouvert la porte.
+{60283}{60340}Non elle ne l'a pas vue.
+{60357}{60434}Elle est en train de dormir.
+{60434}{60482}Je suis sûre qu'il y a une|explication, tante Ruth,
+{60482}{60539}je ne pense pas|que devions faire ça.
+{60602}{60633}Ne t'inquiète pas s'il te plaît.
+{60633}{60693}Tante Ruth nous n'avons pas|besoin de la police.
+{61019}{61045}Tu es réveillée.
+{61153}{61204}Je crois que j'ai mal compris.
+{61204}{61235}Je pensais que|tu connaissais ma tante,
+{61235}{61290}que c'est pour ça que tu étais là.
+{61290}{61364}Je viens de lui parler et|elle veut que j'appelle la police.
+{61530}{61561}Rita?
+{61654}{61700}Je suis désolée.
+{61717}{61760}Qu'y a-t-il Rita?
+{61851}{61920}Je pensais que quand|je me réveillerais...
+{61920}{61990}Je pensais|qu'il suffirait de dormir.
+{61990}{62028}Que se passe-t-il?
+{62086}{62153}Je ne sais pas qui je suis.
+{62153}{62194}Qu'est-ce que tu veux dire?|Tu es Rita.
+{62194}{62249}Non.
+{62249}{62311}Je ne connais pas mon nom.
+{62311}{62362}Je ne sais pas qui je suis.
+{62621}{62664}C'est ton sac.
+{62664}{62719}Ton nom doit être dedans.
+{62762}{62805}Tu veux savoir non?
+{62839}{62863}Oui mais...
+{62863}{62901}Ouvre-le.
+{65174}{65212}Tu es sûre que tu ne veux rien?
+{65212}{65268}Pas ici, merci.
+{65268}{65296}Tu ne veux pas un coca?
+{65296}{65378}Non, merci.
+{65378}{65462}Si tu as des cigarettes|j'en veux bien une.
+{65512}{65586}Dans la poche de ma chemise.
+{65692}{65747}Tu as vu une nouvelle fille|ces derniers jours?
+{65802}{65843}Non.
+{65843}{65901}Pas de nouvelle fille.
+{65939}{65987}Une brune?
+{65987}{66059}Peut-être un peu amochée?
+{66059}{66107}Non.
+{66193}{66253}Ouvre l'œil pour moi d'accord?
+{66253}{66303}Bien sûr.
+{66303}{66318}Il vaudrait mieux.
+{66404}{66459}Cet argent,
+{66507}{66565}tu ne sais pas d'où il vient?
+{66634}{66675}Si tu te concentres dessus,
+{66675}{66747}l'argent et la clé,
+{66788}{66855}ça ne te rappelle absolument rien?
+{66905}{66999}Il y a quelque chose,
+{67015}{67111}quelque chose qui me fait peur.
+{67363}{67401}Qu'est-ce que tu dis?
+{67401}{67447}Ils ont viré tout le monde.
+{67447}{67512}Qui a viré tout le monde?
+{67512}{67615}Ray! C'est Ray!
+{67615}{67692}Ils ont fermé le plateau,|tout le monde est parti.
+{67692}{67766}Il faut que tu viennes Adam.
+{67766}{67807}Non.
+{67807}{67874}Tu dois parler à Ray,|il faut résoudre ça.
+{67874}{67915}Je rentre chez moi.
+{67915}{67953}Chez toi?
+{67953}{68003}Je t'attends au bureau.|Il faut faire quelque chose.
+{68003}{68049}Tu dois faire quelque chose Adam!
+{68049}{68099}Je rentre chez moi Cynthia.
+{68099}{68154}Adam, je ne te reconnais pas.
+{68154}{68190}S'il te plaît passe au bureau,
+{68190}{68226}on doit pouvoir faire quelque chose.
+{68226}{68255}Je rentre chez moi.
+{68519}{68579}Je me demande où tu allais.
+{68691}{68763}Mulholland Drive.
+{68866}{68919}Mulholland Drive?
+{68962}{69027}C'est là que j'allais,
+{69027}{69085}Mulholland Drive.
+{69121}{69212}C'est peut-être là que|l'accident s'est produit.
+{69212}{69243}La police a dû faire un rapport,
+{69243}{69293}nous pouvons les appeler.
+{69293}{69310}Non.
+{69310}{69358}Nous pouvons appeller anonymement|d'une cabine,
+{69358}{69427}au moins pour savoir s'il y a eu|un accident.
+{69427}{69492}Allez, ce sera comme dans les films.
+{69492}{69564}On se fera passer pour quelqu'un d'autre.
+{69595}{69641}Et puis je voudrais me promener.
+{69641}{69725}Je suis à Hollywood et|je n'en ai encore rien vu.
+{69725}{69789}Allons Rita.|Tu penses que tu peux le faire?
+{69972}{70020}D'accord
+{70020}{70120}mais juste...
+{70120}{70178}juste pour voir.
+{70178}{70283}Juste pour voir s'il y a eu un accident
+{70283}{70334}sur Mulholland Drive.
+{71367}{71401}Lorraine...
+{71439}{71480}Lorraine tu es ici?
+{72091}{72139}Là tu as gagné!
+{72192}{72233}Oublie ce que tu viens de voir,
+{72233}{72273}c'est mieux comme ça.
+{72350}{72403}Qu'est-ce que tu fous ici?
+{72700}{72727}Qu'est-ce que tu fais?
+{72837}{72870}Ce sont mes bijoux!
+{73288}{73316}Quelle ordure!
+{73316}{73362}Ordure!
+{73362}{73415}Il doit être contrarié Lorraine.
+{73571}{73616}Qu'est-ce que tu fais?
+{73659}{73738}Arrête!
+{73738}{73786}Adam arrête!
+{74007}{74033}Gene!
+{74033}{74086}Tu me fais mal!
+{74184}{74237}On ne traite pas sa femme comme ça,
+{74237}{74299}quoi qu'elle ait fait.
+{74299}{74364}Jette-le dehors!
+{74364}{74402}Dehors!
+{74422}{74482}Sois maudit Adam!
+{74482}{74518}Jette-le dehors!
+{74678}{74712}Va-t-en!
+{75666}{75697}Cachons ça.
+{76798}{76826}En voilà une.
+{77229}{77270}- Département de police de Hollywood.
+{77270}{77308}Je voudrais des informations|à propos d'un accident
+{77308}{77364}qui s'est produit hier soir|sur Mulholland Drive.
+{77364}{77423}- Veuillez patienter s'il vous plaît.
+{77471}{77498}- Sergent Baxter.
+{77498}{77589}Bonjour je voudrais des informations...
+{77589}{77634}j'ai entendu un bruit hier soir,|qui ressemblait
+{77634}{77702}à celui d'un accident.
+{77702}{77733}Je voudrais savoir|s'il y a eu un accident
+{77733}{77776}sur Mulholland Drive.
+{77776}{77826}- Oui il y en a eu un.
+{77826}{77874}Vous pouvez me dire|ce qui s'est passé?
+{77874}{77903}- Non, je ne peux pas.
+{77903}{77939}Il y a des blessés?
+{77939}{77992}- Puis-je avoir votre nom|  s'il vous plaît?
+{78136}{78191}Il y a eu un accident.
+{78191}{78222}Il n'a rien voulu me dire de plus,
+{78222}{78294}mais c'était ton accident Rita.|J'en suis sûre.
+{78325}{78390}On en parle peut-être|dans les journaux.
+{78390}{78435}viens je t'offre un café|et nous verrons ça.
+{78543}{78574}C'est peut-être arrivé|trop tard pour être
+{78574}{78637}dans les journaux aujourd'hui.
+{78637}{78677}Il n'y a rien?
+{78716}{78769}Pas que je sache.
+{78809}{78840}Ça va.
+{78958}{78982}Merci
+{79042}{79066}Diane.
+{79193}{79227}Ce sera tout?
+{79227}{79274}Vous voulez la note?
+{79274}{79306}Rita tu veux quelque chose?
+{79375}{79447}Non juste un café.
+{79447}{79497}Nous prenons la note.
+{79653}{79684}Qu'y a-t-il Rita?
+{79895}{79955}Je me souviens de quelque chose...
+{79955}{80006}je me souviens de quelque chose!
+{80078}{80111}Qu'est-ce que c'est?
+{80111}{80164}Diane Selwynn.
+{80164}{80212}C'est peut-être mon nom.
+{80353}{80449}D.Selwynn. C'est la seule.
+{80449}{80495}J'appelle.
+{80675}{80727}C'est étrange de s'appeler soi-même.
+{80727}{80778}Ce n'est peut-être pas moi.
+{80991}{81092}Bonjour c'est moi.|Laissez un message.
+{81137}{81219}Ce n'est pas ma voix...
+{81219}{81276}mais je la connais.
+{81315}{81399}Ce n'est peut-être pas|la voix de Diane Selwyn.
+{81399}{81454}C'est peut-être ta colocataire,
+{81454}{81509}mais si c'est Diane Selwyn,
+{81509}{81593}elle peut te dire qui tu es.
+{81593}{81648}Peut-être...
+{81648}{81708}peut-être, peut-être...
+{82518}{82564}Adam Kesher...
+{82646}{82667}Adam Kesher!
+{82667}{82708}Sortez d'ici!
+{82708}{82737}C'est la maison d'Adam Kesher?
+{82737}{82780}C'est ça... maintenant sortez!
+{82780}{82830}Dehors!
+{83022}{83056}Dehors!
+{83056}{83120}Il ne reviendra jamais! jamais!
+{83185}{83219}On ne doit pas parler|la même langue,
+{83219}{83269}elle vous a demandé de sortir.|La porte est par là.
+{83269}{83310}Gene!
+{83324}{83348}Sortez!
+{83348}{83396}Gene! Sortez!
+{83499}{83533}Adam Kesher?
+{84094}{84137}Oui? Qu'est-ce qu'il y a Cookie?
+{84137}{84214}Désolé Mr Kesher,|mais il y a un petit problème
+{84214}{84266}concernant vos cartes de crédit.
+{84266}{84300}Quoi?
+{84300}{84348}Je vous paierai en liquide Cookie.
+{84410}{84492}Deux types de votre banque sont passés.
+{84492}{84556}Ma banque?
+{84556}{84597}Comment savent-ils que je suis ici?
+{84597}{84660}Je ne sais pas.
+{84660}{84712}Qu'ont-ils dit?
+{84712}{84806}Ils m'ont demandé de vous dire|que vos comptes étaient vides
+{84806}{84935}et que vos avances ont été annulées.
+{84935}{84969}Ce n'est pas possible...
+{85012}{85115}Ecoutez...
+{85115}{85187}je ne sais pas ce qui se passe,
+{85187}{85290}ça doit être une plaisanterie.
+{85290}{85352}J'ai assez de liquide pour vous payer.
+{85352}{85400}Je sais.
+{85400}{85448}Ne vous inquiétez pas.
+{85448}{85604}Mais... je devais vous prévenir.
+{85604}{85717}Cette histoire ne me concerne pas,
+{85717}{85803}mais ils savent que vous êtes là.
+{85803}{85875}En effet.
+{85875}{85918}Je suis désolé.
+{86494}{86520}Allo.
+{86520}{86568}On m'a pris mon argent.
+{86568}{86621}Je sais. Où es-tu Adam?
+{86621}{86669}Comment ça tu sais?
+{86669}{86721}Quelqu'un m'a appelé.|Comme ils ne pouvaient pas
+{86721}{86777}te joindre ils m'ont dit que|tu étais ruiné.
+{86777}{86815}Je ne les ai pas crus alors
+{86815}{86849}j'ai passé quelques|coups de téléphone.
+{86849}{86870}Et?
+{86870}{86894}Tu es ruiné.
+{86894}{86937}Je ne suis pas ruiné!
+{86937}{87031}Je sais, mais c'est pourtant le cas.|Où es-tu?
+{87031}{87088}Chez Cookie, en ville.
+{87088}{87139}Est-ce que tu connais quelqu'un|qui se fait appeler
+{87139}{87208}le cow-boy?
+{87208}{87249}Le cow-boy?
+{87249}{87388}Oui, le cow-boy. Ce type veut te voir.
+{87388}{87482}Jason pense que ce serait|une bonne idée.
+{87482}{87510}- Jason pense que ce serait|  une bonne idée
+{87510}{87575}que je rencontre le cow-boy.|Je dois venir
+{87575}{87628}avec mon Stetson|et mon six coups?
+{87628}{87709}J'ai l'impression que ce type est lié
+{87709}{87755}à ce qui se passe.
+{87755}{87793}Adam, je pense|que tu devrais le faire
+{87793}{87851}et que tu devrais|le faire tout de suite.
+{87851}{87899}Qu'est-ce qui se passe Cynthia?
+{87899}{87999}Cette journée a été très étrange.
+{87999}{88100}Et elle n'est pas terminée.
+{88100}{88143}Où est-ce que je rencontre ce cow-boy?
+{88143}{88198}Je dois aller jusqu'à son ranch?
+{88198}{88258}Tu n'en es pas loin.
+{88258}{88318}Si je lui dis que tu es d'accord
+{88318}{88378}tu devras te rendre au bout|de Beachwood Canyon.
+{88378}{88491}Il y a un corral. Il t'y attendra.
+{88491}{88541}Tu te moques de moi?
+{88541}{88599}Est-ce que tu acceptes|de le rencontrer?
+{88599}{88661}Oui, bien sûr.
+{88661}{88711}La journée s'y prête.
+{88711}{88745}Quand?
+{88745}{88853}Je l'appelle tout de suite et|je te recontacte.
+{88853}{88896}Si tu veux tu peux...
+{88896}{88975}tu peux dormir chez moi.
+{88975}{89038}Cynthia.. je pense que|ce serait une mauvaise idée.
+{89038}{89088}Je te propose juste|un endroit où dormir.
+{89088}{89172}Oui, et j'apprécie Cynthia,|mais je vais trouver un endroit.
+{89172}{89217}Appelle ce cow-boy,|dis-lui yehaa de ma part
+{89217}{89251}et téléphone-moi.
+{89251}{89330}D'accord. Mais tu ne sais pas|ce que tu rates.
+{89330}{89414}En selle Calamity Jane. Rappelle-moi.
+{89699}{89759}C'est par ici, sur la Sierra Bonita.
+{89759}{89836}Ce n'est pas très loin.
+{89836}{89908}Quel est le problème?
+{89908}{89999}Je ne suis pas sûre|que ce soit une bonne idée.
+{89999}{90083}Je sais que quelque chose te fait peur.
+{90083}{90114}Nous ferons attention.
+{90114}{90174}Je te le promets.
+{90174}{90263}Demain nous irons là-bas.
+{90263}{90308}Et nous trouverons.
+{90632}{90685}Tout va bien.
+{90737}{90778}C'est sûrement Coco.
+{90910}{90939}Je peux vous aider?
+{90939}{91032}Quelqu'un a des ennuis.
+{91032}{91104}Qui êtes-vous?
+{91104}{91183}Que faites-vous chez Ruth?
+{91183}{91224}Elle me prête son appartement.
+{91224}{91258}Je suis sa nièce.
+{91258}{91287}Je m'appelle Betty.
+{91287}{91334}Non ce n'est pas ça.
+{91334}{91394}Ce n'est pas ce qu'elle a dit.
+{91394}{91440}Quelqu'un a des ennuis,
+{91440}{91524}quelque chose de mauvais|est en train de se produire.
+{91524}{91598}Désolée, mais je ne sais pas|qui vous êtes et...
+{91598}{91629}-Louise,
+{91629}{91701}que fais-tu? Louise?
+{91701}{91816}Coco, j'essaie de te trouver|depuis trois heures.
+{91816}{91867}L'autre est dans ma chambre,
+{91867}{91903}elle ne veut pas partir.
+{91903}{91934}Je veux que tu la sortes|de ma chambre.
+{91934}{91987}Je veux que tu la sortes|maintenant.
+{91987}{92063}Voici Louise Bonner,|elle n'a pas dû se présenter.
+{92063}{92140}Louise c'est Betty,|la nièce de Ruth.
+{92140}{92226}En fait je venais vous voir Betty.
+{92226}{92272}Betty est une jeune actrice,
+{92272}{92332}je lui apportais le fax d'une scène
+{92332}{92392}pour une grande audition demain.
+{92392}{92445}Tenez chérie.
+{92445}{92512}Viens Louise, je te ramène chez toi.
+{92512}{92552}Désolée, ça arrive de temps en temps.
+{92552}{92576}Non.
+{92576}{92641}Elle a dit que quelqu'un d'autre|avait des ennuis.
+{92641}{92670}Ça suffit Louise,
+{92670}{92756}je te ramène chez toi.
+{92756}{92787}Bonne nuit Betty.
+{92787}{92845}Bonne nuit.
+{92845}{92881}Bonne nuit.
+{93818}{93859}Le cow-boy...
+{95487}{95523}Yeepee-hey.
+{95523}{95564}Yeepee-hey à vous.
+{95626}{95691}Belle soirée.
+{95691}{95720}Oui.
+{95758}{95806}Merci d'avoir fait toute cette|route pour me voir
+{95806}{95928}depuis ce joli petit hôtel.
+{95928}{95981}Aucun problème.
+{95981}{96017}Que voulez-vous?
+{96017}{96123}Eh bien, voici un homme qui|va droit au but.
+{96123}{96190}Ça vous rend un peu nerveux non?
+{96190}{96235}Peu importe.
+{96276}{96338}L'attitude d'un homme...
+{96338}{96405}L'attitude d'un homme détermine
+{96405}{96475}ce que sera sa vie.
+{96475}{96554}Vous êtes d'accord avec ça?
+{96554}{96604}Bien sûr.
+{96604}{96645}Vous avez répondu|parce que vous pensiez
+{96645}{96696}que c'est ce que|je voulais entendre
+{96696}{96753}ou vous avez réfléchi|à ce que j'ai dit
+{96753}{96799}et répondu parce que|vous croyez sincèrement
+{96799}{96875}que c'est vrai?
+{96875}{96931}Je suis d'accord avec|ce que vous avez dit.
+{96931}{96971}Sincèrement.
+{97014}{97058}Qu'est-ce que j'ai dit?
+{97127}{97151}Que l'attitude|d'un homme détermine
+{97151}{97223}en grande partie son destin.
+{97259}{97321}Puisque vous êtes d'accord avec ça,
+{97321}{97398}vous devez être quelqu'un qui|se soucie peu
+{97398}{97451}de mener une vie agréable.
+{97451}{97494}Comment ça?
+{97535}{97597}Arrêtez-vous un seconde
+{97597}{97633}et réfléchissez.
+{97633}{97686}Vous feriez ça pour moi?
+{97739}{97775}Très bien.
+{97775}{97815}Je réfléchis.
+{97899}{97950}Vous ne réfléchissez pas.
+{97950}{98055}Vous pensez trop à faire|le malin pour pouvoir réfléchir.
+{98055}{98105}Je veux que vous réfléchissiez
+{98105}{98158}et cessiez de faire le malin.
+{98158}{98189}Vous voulez essayer?
+{98237}{98266}Où vous voulez en venir?
+{98266}{98316}Qu'est-ce que vous attendez de moi?
+{98333}{98398}Vous savez ce qu'est un attelage.
+{98398}{98477}Il y a combien de conducteurs|dans un attelage?
+{98477}{98525}Un.
+{98525}{98604}Disons que c'est moi|qui conduit l'attelage.
+{98604}{98662}Si vous changez d'attitude
+{98662}{98726}vous pourrez faire la route avec moi.
+{98726}{98774}D'accord.
+{98774}{98858}Je veux que vous retourniez|travailler demain.
+{98858}{98930}Vous devez remplacer votre|actrice principale.
+{98930}{99021}Auditionnez de nombreuses|filles pour le rôle.
+{99021}{99055}Quand vous verrez celle
+{99055}{99153}qu'on vous a montrée aujourd'hui,|vous direz:
+{99153}{99230}C'est elle.
+{99230}{99340}Vous décidez du reste du casting.|C'est votre problème.
+{99340}{99441}Mais vous ne décidez pas|du premier rôle.
+{99470}{99599}Vous me reverrez une fois|si vous agissez bien.
+{99599}{99733}Vous me reverrez deux fois|si vous agissez mal.
+{99733}{99774}Bonne nuit.
+{100393}{100431}Tu es encore là?
+{100431}{100462}Je suis revenue.
+{100462}{100491}Je pensais que|c'était ce que tu voulais.
+{100491}{100556}Personne ne veut de toi ici.
+{100556}{100594}Vraiment?
+{100594}{100637}Mes parents sont ici.
+{100637}{100671}Ils pensent que tu es partie.
+{100671}{100707}Eh bien surprise!
+{100707}{100781}Je peux les appeler...|Je peux appeler mon père.
+{100781}{100824}Mais tu ne le feras pas.
+{100824}{100887}Si tu essaies de me faire chanter,
+{100887}{100911}tu n'y arriveras pas.
+{100911}{100961}Tu joues un jeu dangereux.
+{100961}{100983}Tu sais ce que je veux.
+{100983}{101018}Ce n'est pas si difficile.
+{101018}{101047}Va-t-en.
+{101047}{101105}Va-t-en avant que j'appelle mon père.
+{101105}{101131}Il a confiance en toi...
+{101131}{101184}Tu es sa meilleure amie.
+{101184}{101239}Ça serait la fin de tout.
+{101239}{101270}Et toi?
+{101270}{101309}Que va en penser ton père?
+{101309}{101333}Arrête.
+{101333}{101349}Arrête ça.
+{101349}{101426}Tu dis ça depuis le début.
+{101426}{101484}Si je dis ce qui s'est passé|ils t'arrêteront
+{101484}{101510}et ils te jetteront en prison.
+{101510}{101589}Alors va-t-en avant...
+{101589}{101635}Avant quoi?
+{101635}{101673}Avant
+{101673}{101728}que je te tue.
+{101728}{101786}Ils te mettront en prison.
+{101870}{101915}Là je pleure et pleure encore
+{101915}{101951}Et je dis avec beaucoup d'émotion
+{101951}{102030}"Je te déteste!|Je nous déteste tous les deux!"
+{102097}{102145}Cette scène est nulle.
+{102145}{102217}Mais tu es vraiment bonne.
+{102217}{102265}Merci chérie.
+{102627}{102697}Bonjour. Qui êtes-vous?
+{102769}{102805}Betty?
+{102975}{103044}Betty je peux vous voir dehors une minute?
+{103392}{103433}Qu'est-ce qu'il y a Coco?
+{103433}{103498}Votre tante m'a téléphoné.
+{103498}{103546}C'est ce que je craignais.
+{103546}{103584}Elle veut savoir qui vit|dans son appartement.
+{103745}{103788}C'est juste pour une nuit ou deux,
+{103788}{103829}jusqu'à ce qu'elle trouve quelque chose.
+{103829}{103877}J'ai essayé de l'expliquer|à Tante Ruth mais la ligne
+{103877}{103925}était mauvaise, son avion etait|sur le point de partir
+{103925}{103973}et elle a tout mélangé.
+{103973}{104025}Je lui répétais que c'était|mon amie et elle me répondait
+{104025}{104100}qu'elle ne connaissait aucune Rita.
+{104100}{104140}Regardez-moi dans les yeux chérie.
+{104140}{104208}Coco, c'est quelqu'un de bien.
+{104208}{104253}Ma chérie,|vous êtes une gentille fille
+{104253}{104344}mais vous me racontez des histoires
+{104344}{104407}même si ça part|d'une bonne intention.
+{104407}{104471}Je compte sur vous pour régler ça.
+{104471}{104514}Merci.
+{104514}{104574}Ne me faites pas passer|pour une idiote.
+{104575}{104630}Louise Bonner dit qu'il se passe|quelques chose de mauvais.
+{104630}{104681}Vous vous souvenez|de la nuit dernière?
+{104719}{104806}Des fois elle se trompe,|mais s'il y a des problèmes
+{104806}{104892}débarrassez-vous en.
+{105103}{105158}Est-ce que tout va bien?
+{105158}{105201}C'est gênant pour toi que je sois là?
+{105201}{105287}Non, il n'y a aucun problème.
+{105287}{105343}Il faut que je fasse ce sandwich.
+{105344}{105430}Mon audition est dans une heure!
+{105890}{105955}Je reviens dans quelques heures.
+{105955}{105998}Ne bois pas tout le coca.
+{105998}{106034}Bonne chance!
+{106034}{106087}Quand je reviendrai un taxi attendra,
+{106087}{106113}tiens-toi prête.
+{106113}{106144}OK.
+{106901}{106980}Betty Elms, j'aimerais vous présenter
+{106981}{107053}Jack Tafftman, mon assistant,
+{107053}{107132}Woody Katz, qui a déjà été retenu|pour jouer Chuck,
+{107132}{107206}Il vous donnera la réplique.
+{107206}{107316}Bob Brocker notre réalisateur|et Julie Chadwick,
+{107316}{107432}Notre invitée surprise, Lenny James.
+{107432}{107491}Malheureusement nous n'avons|pas les moyens de nous l'offrir
+{107511}{107616}mais de tous les directeurs|de castings c'est elle la meilleure.
+{107616}{107674}Merci beaucoup Wally.
+{107674}{107710}Bonjour Betty.
+{107711}{107756}Enchantée de vous connaître.
+{107756}{107819}Voici mon assistante Nicky.
+{107838}{107907}Et nous avons la charmante Martha,|Martha Johnson
+{107907}{107960}que vous avez rencontrée en arrivant.
+{108003}{108044}Bonjour.
+{108044}{108152}Bien! Est-ce qu'on y va?
+{108152}{108217}Voulez-vous un verre d'eau ou du café
+{108218}{108251}avant de commencer?
+{108251}{108304}Non, non ça va.
+{108304}{108381}Eh bien, que tout le monde s'installe.
+{108448}{108515}Betty, pourquoi ne pas rejoindre Woody
+{108516}{108595}et nous allons jouer cette scène.
+{108597}{108688}Bob, il y a quelque chose que|tu voudrais dire?
+{108688}{108758}Un conseil pour Betty avant de commencer.
+{108758}{108852}Non. Ce n'est pas un concours.
+{108852}{108907}Chacun des deux
+{108907}{108993}avec eux-mêmes,
+{108993}{109086}donc ne le jouez pas réellement
+{109086}{109173}jusqu'à ce que ça devienne réel.
+{109264}{109319}OK
+{109334}{109373}Dis-moi où ça fait mal chérie.
+{109378}{109423}Quoi?
+{109423}{109488}Je vous la joue rapprochée|comme avec l'autre
+{109488}{109569}fille, quel est son nom... la brune.
+{109569}{109608}Je l'ai bien senti qu'en penses-tu?
+{109608}{109684}Ça serait très bien Jimmy,|mais ne te précipite pas
+{109684}{109728}encore sur tes répliques,|rappelle-toi...
+{109728}{109816}le moment où tu dis : "Avant quoi ?"
+{109816}{109874}Bobby, jouer c'est réagir.
+{109874}{109936}Je ne fais que les suivre,|elles disent toutes,
+{109936}{110037}"ils t'arrêteront".. comme ça...|"et te jetteront en prison"...
+{110037}{110066}Elles le disent toutes|de la même manière
+{110066}{110123}je réagis de la même manière.
+{110124}{110139}Comment tu t'appelles?
+{110139}{110165}Betty.
+{110165}{110225}Bon Betty. Tu ne te précipites pas.
+{110225}{110273}Je ne me précipiterai pas. OK?
+{110294}{110467}On va la jouer serrée,|comme au cinéma.
+{110467}{110541}Maintenant au travail.
+{110582}{110628}Bob?
+{110719}{110760}Action!
+{110875}{110935}Tu es encore là?
+{110936}{111003}Je suis revenu.
+{111003}{111044}Je pensais que c'était ce que tu voulais.
+{111044}{111084}Personne ne veut de toi ici.
+{111084}{111125}Vraiment?
+{111125}{111190}Mes parents sont ici.
+{111187}{111238}Ils pensent que tu es parti.
+{111238}{111286}Eh bien surprise!
+{111286}{111355}Je peux les appeler...|Je peux appeler mon père.
+{111355}{111430}Mais tu ne le feras pas.
+{111793}{111881}Tu joues un jeu dangereux.
+{111896}{111968}Si tu essaies de me faire chanter,
+{111968}{112035}tu n'y arriveras pas.
+{112064}{112123}Tu sais ce que je veux.
+{112123}{112241}Ce n'est pas si difficile.
+{112241}{112322}Va-t-en.
+{112322}{112414}Va-t-en avant que j'appelle mon père.
+{112414}{112471}Il a confiance en toi...
+{112472}{112611}Tu es son meilleur ami.
+{112667}{112766}Ça serait la fin de tout.
+{112792}{112833}Et toi?
+{112833}{112893}Que va en penser ton père?
+{112893}{112957}Arrête.
+{112957}{113037}Arrête ça.
+{113037}{113142}Tu dis ça depuis le début.
+{113142}{113207}Si je dis ce qui s'est passé|ils t'arrêteront
+{113207}{113238}et te jetteront en prison.
+{113419}{113498}Alors va-t-en avant...
+{113599}{113668}Avant quoi?
+{114079}{114146}Avant
+{114146}{114216}que je te tue.
+{114559}{114626}Ils te mettront en prison.
+{114832}{114918}Je te déteste.
+{114919}{115003}Je nous déteste tous les deux.
+{115353}{115382}Je vais la sortir d'ici.
+{115382}{115416}Impressionnant.
+{115483}{115552}Eh bien voilà.
+{115571}{115713}Quelle scène!|Chérie tu as un destin qui t'attend.
+{115714}{115771}Bob?
+{115798}{115872}Excellent. Vraiment.
+{115872}{115944}C'était peu être un peu forcé
+{115944}{116026}mais toujours humain.
+{116026}{116172}Oui excellent. Vraiment.
+{116321}{116383}Je te remercie Betty
+{116383}{116445}et je suis sincère.
+{116446}{116552}C'était extraordinaire.
+{116552}{116631}Ta tante peut être fière de toi,|je lui dirai
+{116631}{116696}dès que je la verrai.
+{116696}{116815}Toi et moi|on va se revoir très rapidement.
+{116815}{116863}Merci monsieur Brown.
+{116863}{116931}Merci Wally. Je suis sûre|que vous avez beaucoup de choses
+{116931}{116962}à vous dire.
+{116962}{116995}Nous sortons avec Betty.
+{116995}{117031}Oh oui, oui bien sûr.
+{117031}{117094}Ce fut un grand plaisir Lenny.
+{117095}{117147}Ne vous faites pas oublier.
+{117147}{117195}Nous serions heureux de vous revoir ici.
+{117195}{117226}Allons-y Betty.
+{117226}{117282}Merci encore monsieur Brown.
+{117283}{117383}Je suis contente de vous avoir rencontrés.
+{117575}{117649}Tu as vu ça? Tu l'as trouvée où?
+{117664}{117717}Mon Dieu c'était horrible!
+{117736}{117844}Pas toi Betty, tu as été lumineuse|mais ce pauvre Wally,
+{117844}{117880}il ne finira jamais ce film.
+{117880}{117899}Non.
+{117899}{117956}Cela fait vingt ans qu'il|n'est plus dans le coup.
+{117956}{118021}Jimmi Katz a assisté au casting.
+{118021}{118079}Il paraît qu'il est terrible.
+{118080}{118135}Oui terrible!
+{118135}{118197}Pauvre vieux Wally.
+{118197}{118293}Il a été très gentil,|il a l'air vraiment adorable.
+{118293}{118355}Wally... Mr.Brown est très proche|de ma tante...
+{118355}{118434}Ne te méprends pas Betty.|J'aime Wally.
+{118434}{118521}Il vaut mieux.|J'ai été mariée dix ans avec lui.
+{118521}{118600}J'aime les acteurs. Tous les acteurs.
+{118600}{118677}Nous nous chamaillons juste quelques fois.
+{118677}{118744}Nous aimerions te présenter|à un réalisateur,
+{118744}{118792}il est au-dessus du lot.
+{118792}{118868}Il travaille sur un projet|pour lequel on se damnerait!
+{121638}{121722}Coupez! Merci beaucoup Carol j'arrive.
+{121839}{121897}merci beaucoup d'être venue|je sais combien tu es occupée.
+{121897}{121976}Tu plaisantes? Ce scénario est pour moi!|Où je dois signer?
+{121976}{122048}Ecoute.. je t'adore mais ils|ne me laisseront pas signer
+{122049}{122090}avant que j'aie vu tout le monde.
+{122090}{122121}Je te préviendrai dès que j'en saurai plus.
+{122121}{122181}Il vaudrait mieux parce que|mon manager va te harceler jour
+{122181}{122226}et nuit. Et moi aussi.
+{122226}{122272}Ça sera avec plaisir, maintenant va-t-en.
+{122272}{122310}Tu es trop cruel, ne m'oublie pas.
+{122310}{122341}Je suis celle qui doit avoir ce rôle.
+{122341}{122399}On se voit plus tard.
+{122430}{122464}Où est Hank?
+{122464}{122504}Qui est la suivante Hank?
+{122504}{122574}Camilla Rhodes.
+{122574}{122598}Elle est prête?
+{122598}{122631}Oui.
+{122631}{122677}Appelez-la.
+{122677}{122720}Suivante: Camilla Rhodes.
+{122978}{123054}OK, allons-y, lumières s'il vous plait!
+{123054}{123093}Lancez la bande s'il vous plait.
+{123093}{123170}Playback et action!
+{123916}{123959}Demande à Jason de venir.
+{123959}{124022}Cindy, Adam veut voir Jason.
+{124996}{125087}Tu veux me dire quelque chose Adam?
+{125302}{125354}C'est elle.
+{125455}{125532}Excellent choix Adam.
+{125782}{125840}Mon Dieu...
+{126070}{126118}Je dois aller quelque part...
+{126117}{126167}j'ai promis à une amie.
+{126177}{126270}Désolée, je dois partir.
+{126865}{126934}Ça doit être par ici.
+{126934}{127011}2590... c'est là!
+{127011}{127083}Ça te rappelle quelque chose?
+{127284}{127315}Continuez!
+{127315}{127354}Qu'est-ce qu'il y a? Qu'est-ce que t'as vu?
+{127354}{127399}Ces hommes, dans la voiture.
+{127399}{127419}Tu les connais?
+{127419}{127459}Non..
+{127458}{127545}Ne vous arrêtez pas.|Passez par derrière.
+{128704}{128778}Selwyn.. numéro 12.
+{129334}{129394}Maintenant moi aussi j'ai peur.
+{129977}{130015}Tu vois?
+{130015}{130085}Je t'avais dit|qu'il n'y avait rien à craindre.
+{131574}{131617}Betty attends.. attends...
+{132334}{132384}Il n'y a personne.
+{132384}{132410}Oui?
+{132463}{132504}Diane?
+{132557}{132597}Numéro 17.
+{132641}{132698}Mais il y a écrit numéro 12.
+{132752}{132853}On a échangé nos appartements.|Elle est au 17.
+{132853}{132930}Plus bas sur la gauche.
+{133011}{133081}Ça fait quelques jours|qu'on ne la voit plus.
+{133144}{133185}Nous lui laisserons un mot.
+{133185}{133233}Je viens avec vous.
+{133288}{133355}Elle doit me rendre quelques affaires.
+{133474}{133534}Allez-y, je dois répondre.
+{133902}{133962}On dirait que tu n'es pas Diane.
+{133962}{134010}On dirait.
+{134904}{134961}Il n'y a personne.
+{135669}{135695}Que fais-tu?
+{135695}{135755}Viens m'aider.
+{135755}{135834}Viens, j'ouvrirai la porte d'entrée.
+{139814}{139567}Rita...
+{139663}{139721}Je sais ce que tu fais.
+{140224}{140294}Je sais ce que tu dois faire,
+{140349}{140397}laisse-moi le faire.
+{140605}{140663}Laisse-moi le faire.
+{141217}{141296}On dirait quelqu'un d'autre.
+{141807}{141855}Bonne nuit Betty.
+{141855}{141917}Tu n'as pas à porter ça dans la maison.
+{141917}{141965}Quoi?
+{141965}{142027}La perruque.
+{142026}{142122}C'est juste que..|je voulais voir une fois de plus..
+{142122}{142170}je vais l'enlever pour dormir.
+{142170}{142232}Et tu n'as pas à dormir sur le canapé.
+{142232}{142271}Il n'y a pas de problème!
+{142271}{142345}Mais non! Le lit est immense.
+{142345}{142427}Viens, tu dormira mieux ici.
+{143170}{143263}C'est plus confortable que le canapé non?
+{143263}{143307}Oui.
+{143472}{143518}Merci Betty.
+{143539}{143592}Ce n'est rien.
+{143592}{143659}Je n'aurais pas dû te laisser|dormir sur le canapé la nuit dernière.
+{143660}{143722}Non je veux dire...
+{143722}{143780}merci pour tout.
+{143871}{143919}Je t'en prie.
+{144159}{144238}Bonne nuit petite Betty.
+{144446}{144492}Bonne nuit.
+{145500}{145601}Tu as déjà fait ça avant?
+{145601}{145690}Je ne sais pas. Et toi?
+{146028}{146088}Je veux le faire avec toi.
+{146709}{146769}Je t'aime.
+{147124}{147186}Je t'aime.
+{148768}{148855}Rita... Rita...
+{148855}{148927}Rita réveille-toi!
+{149021}{149055}Tout va bien.
+{149055}{149124}Non tout ne va pas bien.
+{149124}{149201}Qu'est-ce qui se passe?
+{149201}{149285}Viens avec moi quelque part.
+{149303}{149404}Il est deux heures, deux heures du matin.
+{149468}{149531}Viens avec moi.
+{149593}{149634}Tout de suite?
+{149677}{149706}Maintenant.
+{152076}{152160}Il n'y a pas d'orchestre!
+{152271}{152334}Ce n'est...
+{152331}{152377}qu'un enregistrement.
+{152398}{152487}Il n'y a pas d'orchestre et pourtant...
+{152487}{152549}on en entend un.
+{152569}{152640}Si nous voulons entendre une clarinette...
+{152640}{152684}Ecoutez.
+{153950}{154043}Ce n'est qu'un enregistrement.
+{154185}{154283}Ce n'est qu'une cassette.
+{154592}{154712}C'est une illusion.
+{154808}{154844}Ecoutez.
+{168084}{168151}Hey jolie fille...
+{168151}{168211}Il est l'heure de se réveiller.
+{170522}{170563}Où tu étais passée?
+{170563}{170611}Qu'est-ce que tu veux?
+{170611}{170690}Ma lampe.. mes affaires.
+{170726}{170807}Diane ça fait trois semaines.
+{170853}{170927}J'ai mis tes affaires dans un carton.
+{171404}{171435}C'est mon cendrier.
+{171435}{171486}Prends-le.
+{171770}{171818}Autre chose?
+{171818}{171890}Je vérifie juste que je n'ai rien oublié.
+{172102}{172124}C'est ça?
+{172124}{172160}Oui.
+{172289}{172383}Au fait ces deux détectives|sont revenus pour te voir.
+{173777}{173830}Tu es revenue!
+{176269}{176336}Tu es toujours aussi belle.
+{176402}{176460}Tu me rends folle.
+{176777}{176837}On ne devrait plus le faire.
+{176984}{177043}Ne dis pas ça.
+{177155}{177237}Ne dis plus jamais ça.
+{177237}{177318}Non Diane. Arrête!
+{177318}{177373}Diane arrête!
+{177385}{177443}J'ai essayé de te le dire avant.
+{177655}{177700}C'est lui n'est-ce pas?
+{177987}{178097}Je n'essaie pas de te montrer|comment faire mais juste...
+{178097}{178181}regarde tu comprendras|ce que je veux dire. Hank!
+{178278}{178362}Ne sois pas aussi rigide|quand tu t'assois,
+{178361}{178416}sois plus détendu.
+{178416}{178476}Vous êtes ensemble, tous les deux,
+{178476}{178555}et c'est vraiment agréable.
+{178555}{178627}Comme si vous vous connaissiez|depuis toujours.
+{178627}{178747}Même si vous ne parlez pas|c'est vraiment agréable.
+{178747}{178802}Hank, tu peux vider le plateau?
+{178802}{178862}Il y a trop de monde.
+{178862}{178977}- Ecoutez-moi tout le monde|va prendre un café.
+{178994}{179033}Tout le monde s'il vous plaît!
+{179033}{179076}Diane peut rester?
+{179076}{179109}Oui bien sûr, Diane peut rester.
+{179109}{179174}Hank Diane reste.
+{179340}{179472}Quand elle commence à pleurer|ne t'emballe pas.
+{179472}{179551}Laisse-la venir vers toi.
+{179551}{179599}Laisse-la juste venir.
+{179680}{179766}Quand tu l'embrasses,
+{179766}{179852}ce n'est que la continuité de ce mouvement.
+{179904}{179942}Il n'y a pas de rupture.
+{180550}{180593}Eteignez les lumières!
+{180853}{180887}Ne sois pas stupide.
+{180887}{180935}Ne me laisse pas partir comme ça.
+{180935}{181002}Bien sûr.|Tu veux que tout soit simple pour toi.
+{181001}{181104}Non, non ce n'est pas comme ça|que ca se passera!
+{181104}{181135}Ce n'est pas simple pour moi!
+{181135}{181178}-Diane!
+{183180}{183286}-Bonjour, c'est moi. Laissez un message.
+{183329}{183363}Diane
+{183478}{183514}Allo
+{183514}{183564}Diane
+{183591}{183627}Camilla
+{183626}{183691}Diane la voiture attend.
+{183691}{183741}Est-ce que ça va?
+{183741}{183789}Tu viens?
+{183927}{184047}Bien. Ça représente tellement pour moi.
+{184047}{184143}Vas-y. La voiture est devant ta maison.
+{184143}{184200}Je t'attends OK?
+{184355}{184446}C'est au 6980 Mulholland Drive.
+{184475}{184530}Mulholland Drive.
+{186193}{186243}Qu'est-ce que vous faites?
+{186243}{186291}On ne s'arrête pas ici.
+{186391}{186429}Une surprise.
+{186988}{187024}Raccourci.
+{187096}{187129}Allez chérie.
+{187283}{187386}C'est beau un passage secret...
+{189016}{189079}Le timing parfait..
+{189079}{189129}Bienvenue Diane.
+{189266}{189330}Eh bien...
+{189331}{189384}à l'amour.
+{189601}{189637}A l'amour.
+{189776}{189827}La voila enfin!
+{190040}{190119}Je ne crois pas|que vous connaissiez ma mère.
+{190120}{190194}Bonjour. Je suis Diane Selwyn.
+{190194}{190254}Appellez-moi Coco, comme tout le monde.
+{190253}{190282}Enchantée.
+{190282}{190368}Passons à table, je meurs de faim!
+{190508}{190560}Je suis désolée, je suis en retard.
+{191052}{191129}Je suis de Deep River, Ontario.
+{191129}{191176}Une petite ville.
+{191176}{191232}Vous nous venez donc du Canada.
+{191289}{191337}J'ai toujours voulu venir ici.
+{191375}{191467}J'ai gagné ce concours d'interprétation,
+{191467}{191529}cette espèce de compétition d'acteurs.
+{191555}{191622}Vous savez, je voulais jouer.
+{191653}{191741}Quand ma tante est morte...
+{191742}{191809}enfin elle m'a laissé de l'argent.
+{191831}{191862}Elle travaillait ici.
+{191862}{191922}Dans le cinéma?
+{191922}{191963}Oui.
+{191989}{192044}Comment avez-vous rencontré Camilla?
+{192090}{192143}Anna Solvenia Story.
+{192143}{192227}C'est un des plus grands rôles de Camilla.
+{192479}{192506}Oui.
+{192558}{192642}J'aurais été bien moins bonne.
+{192659}{192722}Bref Camilla a eu le rôle.
+{192815}{192865}Le réalisateur...
+{192865}{192921}Pat Brocker?
+{192920}{192967}Oui.
+{193023}{193083}Il ne croyait pas vraiment en moi.
+{193193}{193298}C'est là que nous sommes devenues amies.
+{193299}{193393}Elle m'a aidé à décrocher quelques rôles
+{193393}{193429}dans certains de ses films.
+{193477}{193503}Je vois.
+{193881}{193939}Donc je garde la piscine,
+{193939}{193991}et elle garde le type de l'entretien.
+{194039}{194087}J'arrivais pas à y croire,|je devrais offrir à ce juge
+{194088}{194129}une Rolls Royce!
+{194293}{194358}Parfois il arrive de bonnes choses.
+{195646}{195706}Je crois que nous avons gardé|le meilleur pour la fin.
+{195794}{195825}Tu veux leur dire?
+{195825}{195871}Non, dis-leur.
+{195965}{196024}Camilla et moi...
+{196314}{196364}allons nous...
+{196660}{196693}Désolée pour ça.
+{196890}{196924}Non merci.
+{197079}{197106}C'est elle.
+{197166}{197218}Ne montre pas cette photo comme ça.
+{197258}{197303}C'est une actrice,|cette photo n'est pas de moi.
+{197303}{197342}Tout le monde en a une.
+{197371}{197423}Tu as l'argent?
+{197423}{197466}Bien sûr que je l'ai.
+{197744}{197803}OK, je veux que tu m'en donnes|la moitié d'abord.
+{197803}{197842}C'est le deal.
+{197926}{197967}Tu es sûre que c'est ce que tu veux?
+{198099}{198169}Plus que tout au monde.
+{198420}{198496}Quand ça sera terminé|tu la trouveras là où je t'ai dit.
+{198828}{198876}Qu'est-ce qu'elle ouvre?
+

@@ -1,0 +1,966 @@
+{202}{265}C'est Alfred Hitchcock|qui parle...
+{280}{393}J'ai réalisé pour vous|bien des films de suspense.
+{410}{484}Mais je voudrais vous en montrer|un tout différent.
+{506}{561}La différence réside dans le fait...
+{571}{662}que c'est une histoire vraie...|jusque dans ses détails.
+{678}{789}Pourtant, elle contient|des éléments plus étranges que...
+{794}{877}ceux des films|que j'ai réalisés avant.
+{1144}{1213}C'était les premières|heures du jour,
+{1216}{1268}le 14 janvier 1953,
+{1275}{1357}un jour dont Christopher|Emanuel Balestrero...
+{1359}{1427}allait se souvenir|toute sa vie...
+{2146}{2235}LE FAUX COUPABLE
+{5998}{6063}RÉSULTAT DES COURSES
+{6151}{6214}Voyagez en première classe...|mais en Ford !
+{6348}{6398}Banque de New York :|l'épargne familiale.
+{7082}{7149}Bonsoir Manny.|La famille va bien ?
+{7177}{7213}Le même petit déjeuner ?
+{7312}{7360}Je vous apporterai le toast.
+{9340}{9383}Rose, je t'ai réveillée ?
+{9458}{9494}Ça ne va pas ?
+{9503}{9589}Ce sont mes dents.|Je somnolais.
+{9597}{9637}C'est douloureux ?
+{9666}{9757}Pas trop. C'est la note des soins|qui est douloureuse.
+{9781}{9841}Le dentiste m'a dit le prix.
+{9920}{9997}300 dollars pour quatre dents de sagesse.
+{10031}{10105}C'est beaucoup mais pas excessif.
+{10146}{10220}Il m'a fait un cours|d'odontologie.
+{10242}{10366}Les mâchoires humaines rapetissent|et le nombre de dents diminue.
+{10371}{10472}Mais les dents sont en avance|sur les mâchoires...
+{10474}{10534}enfin bon, elles sont en surnombre !
+{10539}{10587}C'est pour ça que|les miennes se chevauchent.
+{10606}{10659}Pour moi tu es|la perfection même.
+{10757}{10831}La nature t'a comblée|et je m'en félicite.
+{10851}{10918}Ne nous plaignons pas|pour quelques dents.
+{10923}{11006}Oui, mais comment|payer le dentiste ?
+{11021}{11076}Nous réglons toujours|les médecinss.
+{11105}{11179}Je pensais en avoir|fini avec ça.
+{11191}{11249}Nous mettons des années...
+{11251}{11333}à rembourser l'argent|que nous empruntons.
+{11414}{11445}Des mots croisés ?
+{11493}{11536}Non, un petit jeu que j'aime.
+{11558}{11661}Je note mes paris|pour les courses de demain.
+{11671}{11743}Comme ça je sais|ce que j'ai gagné ou perdu.
+{11770}{11818}Tu aimes les chevaux ?
+{11821}{11876}C'est le calcul que j'aime.
+{11881}{11936}C'est le musicien qui parle.
+{11941}{12020}Les musiciens adorent|les mathématiques.
+{12060}{12130}Quelle joie|si tu gagnais 300 dollars.
+{12137}{12183}Je paie toujours mes dettes.
+{12197}{12247}Je préfère emprunter|les 300 dollars.
+{12293}{12331}Chaque fois qu'on remonte...
+{12336}{12386}on a un coup dur.
+{12396}{12420}C'est la vie !
+{12427}{12492}Mais dans l'ensemble|nous avons de la chance.
+{12502}{12528}Vraiment ?
+{12533}{12605}Bien sûr... Nous nous aimons !
+{12624}{12715}Nos fils sont adorables.|Mon travail me plaît.
+{12725}{12804}Tout va bien...|à part tes dents.
+{12849}{12928}Oui, nous avons de la chance.
+{12933}{13034}Ma plus grande chance|est de t'avoir connue.
+{13159}{13240}Des fois j'ai très peur|en t'attendant la nuit.
+{13245}{13295}Je suis toujours rentré.
+{13439}{13475}On devrait dormir.
+{13494}{13537}- Tu pourras dormir ?|- Oui, je crois.
+{13549}{13597}Tu peux t'asseoir là|un moment ?
+{14225}{14273}Tu as mis de côté|une fortune.
+{14365}{14465}J'ai emprunté sur mon assurance,|mais la tienne est intacte.
+{14480}{14520}Il y aura assez ?
+{14525}{14590}C'est plus que probable.
+{14614}{14681}- Comment le savoir ?|- J'irai me renseigner.
+{14686}{14712}Fantastique !
+{14782}{14820}Ah, les enfants !
+{14846}{14885}Qu'est-ce qu'il y a ?
+{14887}{14921}Je ne peux pas travailler...
+{14928}{14966}si Greg joue de l'harmonica !
+{15072}{15132}Ne joue plus de l'harmonica.
+{15137}{15173}Je jouais le même air que lui !
+{15184}{15228}- C'est vrai ?|- Il croit ça !
+{15269}{15368}Même si c'est pareil, ne joue pas !|Ça m'embrouille.
+{15392}{15461}Robert prétend que Greg|lui gâche sa musique.
+{15466}{15490}C'est faux !
+{15514}{15548}Je jouais le même air...
+{15572}{15718}Dans le dernier morceau|Greg ne s'en tirait pas mal.
+{15730}{15747}Vas-y Greg.
+{15751}{15778}Je ne peux plus.
+{15785}{15823}Il le fait pour m'embêter.
+{15828}{15929}N'empêche qu'il a joué|un peu de Mozart.
+{15936}{15967}C'est vrai !
+{15986}{16034}Et toi tu as très bien joué.
+{16056}{16121}Tu as du talent.|Greg en a peut-être aussi.
+{16123}{16190}Vous pourriez jouer ensemble.
+{16257}{16315}Rien ne doit t'empêcher|de garder le rythme.
+{16322}{16415}Tu as bien joué jusqu'à présent.|Persévère !
+{16430}{16538}Mozart a composé ça à cinq ans.|Je peux le jouer, j'en ai huit.
+{16543}{16600}J'en ai cinq|alors je peux composer.
+{16629}{16739}Ce soir je vous donnerai|des leçons de piano et d'harmonica.
+{16766}{16825}Un quart d'heure à chacun.
+{17005}{17039}Bonjour maman.
+{17068}{17106}Comment va papa ?
+{17149}{17178}Aujourd'hui ?
+{17209}{17276}Oui, c'est possible.|Mais j'ai une course à faire...
+{17281}{17336}Alors je ne resterai pas longtemps.
+{17348}{17461}Et je dois donner des leçons|de musique aux gosses.
+{17526}{17614}Je viendrai vers 3 heures 30|et je partirai vers 4 heures.
+{17692}{17762}Papa est malade.|Maman veut que j'y aille.
+{17764}{17846}J'irai d'abord|à la Compagnie d'Assurances.
+{18592}{18661}Vous habitez toujours|63-42, 55e Rue ?
+{18678}{18733}Voulez-vous signer ici ?
+{18942}{18966}C'est tout ?
+{18985}{19009}C'est tout.
+{19373}{19464}Combien je pourrais|emprunter sur cette police ?
+{19575}{19611}C'est celle de ma femme.
+{19644}{19721}Attendez, je vais|vérifier quelque chose.
+{19728}{19764}Oui, j'attends.
+{20181}{20227}Qu'est-ce que vous avez dit ?
+{20246}{20313}Je crois que c'est l'homme|qu'on a déjà vu ici.
+{20956}{21006}Peggy pense|que l'homme au guichet...
+{21008}{21085}est votre agresseur|du hold-up.
+{21102}{21183}Il demande un prêt|sur la police de sa femme.
+{21222}{21258}Je n'ose pas regarder.
+{21296}{21349}C'est le même homme.
+{21375}{21416}Qu'est-ce qu'on peut faire ?
+{21471}{21541}Je ne le regarde pas.|Regardez-le vous !
+{21586}{21625}Je ne peux pas.
+{21672}{21716}Je n'irai pas au guichet.
+{21747}{21776}Regardez-le seulement.
+{21795}{21838}Je vais me trouver mal !
+{22159}{22200}Oui, c'est le même.
+{22248}{22296}Je ne bouge pas d'ici !
+{22401}{22454}Parlez-lui de sa police.
+{22485}{22531}Dites-lui que pour le prêt...
+{22569}{22622}sa femme devra venir ici.
+{22929}{22955}M.Balestrero ?
+{22977}{23018}Oui, c'est vous évidemment.
+{23065}{23128}Voici ce que vous pouvez emprunter.
+{23164}{23245}Ça correspond aux versements|faits par votre femme.
+{23296}{23327}J'en ai vérifié le montant.
+{23542}{23657}L'emprunt doit être signé|par le titulaire de la police.
+{23666}{23690}Elle doit venir ?
+{23697}{23753}Votre femme devra|se présenter ici.
+{23772}{23853}Très bien.|Quand pourra-t-on encaisser ?
+{23863}{23896}Dans quelques jours.
+{23920}{23942}Merci beaucoup.
+{23959}{23992}À votre service.
+{24285}{24314}Il est parti ?
+{24374}{24412}Où est Mlle Duffield ?
+{24424}{24465}Chez le patron.
+{24551}{24587}Voilà pourquoi|il n'a rien osé faire.
+{24733}{24829}C'était l'homme qui vous a volée|il y a quelque temps ?
+{24836}{24887}Mlle Duffield l'a vu aussi ?
+{24920}{25009}Elle dit qu'il est entré|d'une manière étrange.
+{25021}{25148}Il a mis sa main dans sa poche|et il en a tiré cette police.
+{25184}{25263}Il voulait un prêt|sur la police de sa femme.
+{25325}{25371}Je vais appeler la préfecture.
+{25405}{25436}Venez dîner dimanche.
+{25441}{25529}J'espère que nous pourrons.|C'est gentil d'être venu.
+{25702}{25769}J'aimerais que vous attendiez|chez vous.
+{25771}{25846}Je vous appellerai|d'ici deux heures.
+{25978}{26023}Très bien.|Allons le chercher !
+{26083}{26172}Papa a dit 5 heures 30, tu sais|qu'il est toujours à l'heure.
+{26313}{26366}Maman, à quelle heure|rentre papa ?
+{26388}{26424}Qui c'est ?
+{26476}{26500}Qui c'était ?
+{26505}{26555}C'était un homme,|il n'a pas dit qui...
+{26975}{27006}Quelle heure est-il ?
+{27018}{27064}Il est 5 heures 25.
+{27083}{27152}Le prochain qui montera ces marches,|ce sera lui.
+{27157}{27210}Si on l'appelait par son prénom ?
+{27227}{27296}Chris.|Il s'appelle Christopher.
+{27761}{27793}C'est votre nom Chris ?
+{27802}{27833}C'est moi que vous appelez ?
+{27838}{27884}Christopher Emanuel Balestrero ?
+{27924}{27958}Nous sommes de la police.
+{27994}{28054}Nous avons besoin de vous|au commissariat.
+{28133}{28188}J'aimerais prévenir ma femme.
+{28193}{28248}Venez, vous lui parlerez après.
+{28258}{28313}- Où on va ?|- À la 110èm Rue.
+{28318}{28354}Ce sera long ?
+{28390}{28416}Je voudrais prévenir|ma femme.
+{28421}{28502}Venez, on vous dira|de quoi il s'agit.
+{30751}{30835}Vous vous demandez pourquoi|vous êtes ici M.Balestrero ?
+{30921}{31015}Il y a eu une série de hold-up,|tous commis par le même homme.
+{31020}{31077}Nous avons son signalement.
+{31097}{31161}Et vous répondez à ce signalement.
+{31183}{31226}Je réponds au signalement ?
+{31248}{31286}De l'auteur du hold-up ?
+{31312}{31365}C'est de la folie !|De la folie !
+{31375}{31439}À vous entendre|c'est une erreur !
+{31449}{31480}Alors vous me gardez ?
+{31485}{31557}On doit suivre|une certaine procédure.
+{31569}{31641}Des gens portent des accusations.|Il faut les vérifier.
+{31648}{31682}Voir s'il y a du vrai.
+{31689}{31729}Mais je suis innocent !
+{31734}{31840}Peut-être, mais nous devons|le prouver avant de vous libérer.
+{31849}{31873}Le prouver ?
+{31878}{31909}C'est la règle.
+{31928}{31964}Mais rappelez-vous...
+{31969}{32022}Un innocent n'a rien à craindre.
+{32029}{32092}Seul un coupable peut avoir peur.
+{32096}{32209}Et ma femme ? Je ne me suis|jamais attardé sans la prévenir...
+{32267}{32312}Vous devez nous aider|tout de suite.
+{32329}{32382}Vous allez visiter|des magasins avec nous.
+{32386}{32415}D'accord ?
+{32434}{32461}Si ça peut vous aider.
+{32463}{32533}Ça se pourrait... Venez !
+{32662}{32701}Qu'est-ce que vous faites au Club ?
+{32713}{32758}Je joue de la contrebasse.
+{32772}{32842}Vous ne vous ennuyez pas|là-dedans !
+{32873}{32943}Les femmes, l'alcool,|la danse... et le reste.
+{32947}{32974}Je ne bois pas.
+{33005}{33072}Et je ne danse pas,|je suis musicien.
+{33173}{33197}Oui, c'est ici.
+{33314}{33357}Vous connaissez le quartier ?
+{33362}{33393}J'habite dans le coin.
+{33398}{33432}Et ce magasin ?
+{33619}{33674}Entrez dans ce magasin...
+{33676}{33755}marchez à l'intérieur|et sortez.
+{33777}{33863}Entrez dans le magasin,|allez au fond et revenez.
+{33907}{33995}Ça ne paraîtra pas étrange.|Le patron vous attend.
+{34007}{34036}Je ne lui dirai rien ?
+{34041}{34103}Il n'est pas nécessaire|de parler.
+{35514}{35541}Ça va comme ça ?
+{35545}{35581}Montez dans la voiture.
+{36318}{36363}Est-ce que votre femme|va au Club ?
+{36368}{36442}Nous avons deux enfants.|Et de toute façon...
+{36445}{36509}- De toute façon... ?|- C'est trop coûteux.
+{36514}{36555}Quoi ? L'entrée ?
+{36560}{36603}On ne paie pas l'entrée !
+{36620}{36728}Mais les clients sont riches.|Tout s'y paie très cher.
+{36735}{36792}Vous n'aviez jamais|assez d'argent !
+{36862}{36912}Recommencez la même manœuvre.
+{36958}{37032}On vous attend.|Faites la même chose.
+{37981}{38017}Vous venez du commissariat ?
+{38068}{38099}Vous désirez quelque chose ?
+{38109}{38157}C'est la police qui l'envoie.
+{38185}{38212}Tu le reconnais ?
+{38276}{38320}Non, tu étais absente|le soir de Noël.
+{38324}{38372}Mais je l'ai vu ici|en novembre.
+{38413}{38449}Tu veux qu'il repasse|devant toi ?
+{38528}{38550}Recommencez.
+{38555}{38593}Sans chapeau cette fois.
+{38960}{38988}Je ne suis pas sûre...
+{39024}{39048}Bon, vous pouvez partir.
+{39293}{39324}Vous avez eu votre monnaie ?
+{39406}{39430}Je vous appellerai.
+{39763}{39789}Ça va, au suivant.
+{39983}{40079}Je vous ai appelée il y a une heure,|il n'est toujours pas rentré.
+{40127}{40178}Il a peut-être eu un accident...
+{40281}{40338}Restez tranquilles !|Je suis au téléphone.
+{40463}{40559}J'ai appelé les hôpitaux.|Ils n'ont personne de son signalement.
+{40592}{40679}S'il avait dû dîner dehors,|il m'aurait prévenue.
+{40687}{40731}Ne vous inquiétez pas Rose.
+{40757}{40805}Je me suis inquiétée parfois...
+{40810}{40903}Il est si ponctuel que son retard|peut surprendre.
+{40913}{40987}Vous n'êtes jamais allé|dans les bureaux...
+{40989}{41064}de la Compagnie d'Assurances|sur la Vie ?
+{41078}{41109}J'y étais aujourd'hui.
+{41126}{41153}Pour quelle raison ?
+{41193}{41284}Pour savoir combien on me prêterait|sur la police de ma femme.
+{41299}{41347}Elle a besoin de soins dentaires.
+{41361}{41395}Le dentiste lui a demandé...
+{41399}{41450}300 dollars et je voulais|emprunter cette somme.
+{41471}{41519}Vous y étiez déjà allé avant ?
+{41567}{41680}On a quatre polices d'assurance.|Ma femme, moi, nos deux enfants.
+{41687}{41771}Un jour, les encaisseurs|faisaient grève...
+{41774}{41836}Je suis allé payer nos primes.
+{41843}{41872}Mais ça fait longtemps.
+{41877}{41903}Combien de temps ?
+{41910}{41939}Un an environ.
+{41944}{41992}Vous n'y êtes plus|retourné depuis ?
+{41999}{42023}J'y étais aujourd'hui.
+{42028}{42078}Avant ça, ça faisait un an ?
+{42100}{42186}Aujourd'hui c'était pour un prêt ?|Vous avez besoin d'argent ?
+{42210}{42255}Je vous l'ai dit...|Le dentiste !
+{42277}{42315}Qu'est-ce que vous gagnez au Club ?
+{42323}{42359}85 dollars par semaine.
+{42363}{42387}Net ?
+{42416}{42442}Vous pariez aux courses ?
+{42565}{42603}J'y ai joué|mais pas souvent.
+{42615}{42639}Combien de fois ?
+{42665}{42694}Trois ou quatre fois.
+{42699}{42718}Pas plus.
+{42766}{42797}Vous allez aux courses ?
+{42831}{42927}J'y suis allé quelques fois|avec un ami.
+{42944}{42972}Empruntez-vous ailleurs ?
+{43030}{43059}C'était quand|la dernière fois ?
+{43109}{43135}L'été passé.
+{43152}{43214}J'ai emprunté 50 $...
+{43219}{43243}pour nos vacances.
+{43248}{43272}Vous les avez remboursés ?
+{43313}{43342}Vous avez eu du mal ?
+{43402}{43445}C'est toujours dur|de rembourser.
+{43457}{43478}Vous devez beaucoup ?
+{43517}{43541}En ce moment ?
+{43627}{43670}Peu de chose.|Quelques factures.
+{43737}{43766}45 $...
+{43773}{43800}Peut-être 100 ?
+{43804}{43835}Non, pas autant.
+{43850}{43874}Moins de 100 ?
+{43879}{43955}Moins de 50.|Probablement moins de 40.
+{43972}{44010}C'est difficile à dire...
+{44046}{44082}Est-ce qu'on m'accuse d'un hold-up ?
+{44085}{44164}Est-ce que j'ai l'air d'un voleur ?|De quel hold-up il s'agit ?
+{44171}{44205}Est-ce que je n'ai pas le droit de savoir ?
+{44207}{44260}Je vais vous le dire.
+{44296}{44380}On vous a identifié comme l'auteur|du hold-up des bureaux...
+{44385}{44454}de la Compagnie d'Assurances|sur la Vie...
+{44471}{44574}Où vous avez volé 71 dollars|le 18 décembre...
+{44586}{44651}et 200 dollars|le 9 juillet précédent.
+{44660}{44730}On vous y a vu deux fois.|La dernière il y a un mois.
+{44739}{44773}C'est vrai ?
+{44783}{44816}Je n'ai jamais fait ça !
+{44821}{44900}- On vous a déjà arrêté ?|- Non ! Qui a dit ça ?
+{44907}{45003}Si vous n'avez rien fait,|vous n'avez rien à craindre.
+{45017}{45106}Vous aurez toutes les chances|de prouver votre innocence.
+{45118}{45231}Maintenant vous allez faire|une chose qui va beaucoup nous aider.
+{45250}{45339}L'auteur du hold-up a passé|à la caissière une note écrite.
+{45357}{45400}Je vais vous la lire.
+{45421}{45508}Écrivez à votre tour,|nous verrons si c'est vous...
+{45529}{45580}Vous dites ne pas être cet homme...
+{45601}{45673}Alors les écritures|seront différentes.
+{45776}{45810}Je vous lis la note.
+{45918}{45985}Un innocent n'a rien à craindre...
+{45990}{46016}N'écrivez pas ça !
+{46073}{46105}La voilà la note.
+{46133}{46184}"Je vous tiens en joue."
+{46280}{46332}"Ne bougez pas,|je vous épargnerai."
+{46421}{46476}"Donnez-moi l'argent|de votre tiroir-caisse."
+{46770}{46852}Je veux être franc avec vous.
+{46866}{46943}Il y a une certaine ressemblance|entre les écritures.
+{47190}{47231}Voulez-vous recommencer ?
+{47259}{47336}Je veux vous donner|une autre chance. Je relis :
+{47374}{47415}"Je vous tiens en joue."
+{47525}{47576}"Ne bougez pas,|je vous épargnerai."
+{47691}{47746}"Donnez-moi l'argent|de votre tiroir-caisse."
+{48230}{48283}C'est incroyable !
+{48429}{48463}C'est mauvais pour vous.
+{48480}{48504}Très mauvais !
+{48681}{48739}Vous avez le droit de savoir.
+{48743}{48779}Je ne vous cacherai rien.
+{48801}{48837}Voici trois morceaux de papier.
+{48885}{48957}Ça c'est la note du voleur|remise à la caissière.
+{48978}{49026}Et ça c'est la première...
+{49031}{49067}que vous avez écrite.
+{49093}{49122}Il y a une ressemblance...
+{49127}{49175}mais ça ne veut|pas dire grand-chose.
+{49182}{49247}Beaucoup de gens font|les mêmes majuscules.
+{49266}{49319}Mais dans votre deuxième note...
+{49338}{49386}Il se produit une chose étrange.
+{49436}{49508}Je mets ici votre première copie...
+{49525}{49563}et je vous montre la seconde.
+{49616}{49638}Lisez-la-moi...
+{49650}{49674}À haute voix.
+{49702}{49791}Lisez exactement la seconde note|que vous avez écrite.
+{49916}{50029}"Je vous tiens en joue. Ne bougez|pas. Donnez-moi l'argent..."
+{50117}{50163}Vous n'avez pas lu|le dernier mot.
+{50208}{50321}J'ai oublié d'écrire|les dernières lettres du mot.
+{50326}{50410}Il y a la même faute dans l'original.|Comment expliquer ça ?
+{50436}{50515}L'auteur du hold-up a fait|exactement la même faute !
+{50582}{50628}Convoquez les témoins|pour l'identification.
+{50839}{50901}Je vais raccrocher. Il essaie|peut-être de m'appeler.
+{51460}{51527}Regardez attentivement|ces hommes dans l'autre pièce...
+{51541}{51633}et comptez-les|de droite à gauche.
+{51685}{51724}Quand vous le reconnaîtrez...
+{51743}{51767}arrêtez de compter.
+{51997}{52021}C'est lui ?
+{52119}{52167}Je vous en prie,|ne dites pas mon nom.
+{52172}{52201}Comptez sur moi.
+{52255}{52315}Regardez les hommes|dans cette pièce.
+{52329}{52375}Comptez-les de droite à gauche.
+{52408}{52444}Observez-les.
+{52468}{52499}Quand vous le reconnaîtrez...
+{52514}{52538}arrêtez de compter.
+{52703}{52739}Vous êtes sûre ?
+{52797}{52890}C'est tout.|Nous vous remercions.
+{53161}{53207}L'identification est formelle.
+{53353}{53394}Voilà les deux notes.
+{53442}{53478}Ici l'originale...
+{53487}{53526}et voici la copie.
+{53866}{53890}Alors Manny...
+{53921}{53962}On vous appelle Manny|n'est-ce pas ?
+{54022}{54053}Vous avez écrit cette note ?
+{54091}{54118}Avec la faute ?
+{54151}{54219}Les employées vous ont identifié.
+{54243}{54276}Avouez que vous avez volé...
+{54283}{54319}la Compagnie d'Assurances.
+{54329}{54353}C'est faux !
+{54398}{54439}Vous y étiez aujourd'hui.
+{54449}{54518}Pour un prêt|sur la police de ma femme.
+{54545}{54600}Trouvez une autre histoire !
+{54605}{54638}Mais c'est la vérité !
+{54648}{54691}C'est votre système de défense ?
+{54729}{54772}Je vous dis la vérité,|voilà tout.
+{54859}{54909}Rien d'autre à faire|que l'enfermer.
+{54938}{54976}Comment vous convaincre ?
+{54983}{55029}Inventez une autre histoire.
+{55233}{55290}Laissez là votre manteau|et votre chapeau.
+{55535}{55566}Votre main droite.
+{55621}{55655}Détendez-vous.
+{57057}{57093}Reprenez vos affaires.
+{57630}{57690}Nous l'arrêtons pour vol|à main armée.
+{57978}{58002}38 ans.
+{58056}{58080}Marié.
+{58135}{58193}40-24, 78èm Rue.|Jackson Heights.
+{58238}{58274}Vous prenez des drogues ?
+{58401}{58425}Quelle accusation ?
+{58430}{58512}Attaque et vol. Hold-up|de la Compagnie d'Assurances sur la Vie.
+{58517}{58552}Il a volé 71 dollars.
+{58598}{58622}Fouillez-le.
+{58648}{58687}Posez votre manteau.
+{59265}{59291}Six dollars...
+{59360}{59389}et 17 cents.
+{59435}{59471}Qu'est-ce que vous avez d'autre ?
+{59610}{59663}La police d'assurance|de ma femme.
+{59746}{59775}Voilà votre reçu.
+{59804}{59857}Vous pouvez garder votre chapelet.
+{60236}{60276}Je n'ai pas prévenu|ma femme.
+{60281}{60320}C'est fait.
+{60692}{60721}Donne-moi ta cravate.
+{62591}{62644}Bien sûr,|nous étions inquiets.
+{62689}{62730}Mon nom est Conforti.
+{62802}{62845}Je suis son beau-frère.
+{63231}{63282}Attendez.|Je veux m'assurer que...
+{63380}{63459}Manny a été arrêté pour le vol|de la Compagnie d'Assurances sur la Vie.
+{63505}{63531}Ce n'était pas normal.
+{63550}{63574}On l'a gardé...
+{63579}{63622}au commissariat|de la 110èm Rue.
+{63641}{63668}Je peux le voir ?
+{63675}{63766}Il passera devant le juge|demain matin à 10 heures.
+{63787}{63828}Il va passer la nuit en prison ?
+{63832}{63890}C'est ce qu'on m'a dit.
+{63914}{63947}Où est le tribunal ?
+{64005}{64024}On trouvera bien.
+{64026}{64127}Comment c'est arrivé à Manny ?|Vous avez bien compris ?
+{64132}{64177}J'ai écrit ce qu'il a dit.
+{64213}{64300}Il a dit que Manny a été|arrêté pour un hold-up ?
+{64360}{64412}À la Compagnie d'Assurances|sur la Vie.
+{64429}{64506}Mais je ne peux pas imaginer...
+{64513}{64563}Manny n'est pas coupable.
+{64566}{64640}Tout le monde le sait.|Comment c'est arrivé ?
+{64645}{64686}C'est sûrement une erreur.
+{64690}{64719}Il faut leur dire.
+{64724}{64767}Nous irons là-bas demain.
+{64798}{64825}Demain...
+{66817}{66851}Tout le monde dehors !
+{67939}{68013}Edward Ray,|97 Est, 118èm Rue.
+{68023}{68061}Qu'avez-vous à dire ?
+{68109}{68143}Déjà arrêté ?
+{68184}{68256}Arrêté le 8 juin 42.
+{68260}{68340}Condamné|par la Cour de Manhattan...
+{68356}{68390}de 5 à 10 ans de prison.
+{68409}{68435}Libéré sur parole ?
+{69013}{69114}Adresse : 40-24, 78èm Rue.|Jackson Heights. Attaque et vol.
+{69136}{69162}Vous avez déjà été arrêté ?
+{69205}{69279}Cet homme va être interrogé|au tribunal.
+{69284}{69368}Dans ce cas retirez-vous.|Au suivant !
+{69373}{69397}Descendez.
+{71326}{71374}Vous jurez avoir|déclaré la vérité ?
+{71388}{71417}Je défends l'accusé.
+{71424}{71479}Vous avez rempli|le formulaire ?
+{71484}{71532}Vous connaissez|le chef d'accusation ?
+{71535}{71573}- Que plaide-t-il ?|- "Non coupable".
+{71580}{71652}Je demande un renvoi au 2 février.
+{71688}{71760}Accusé libéré sous caution|de 7500 dollars.
+{71765}{71810}Pouvez-vous la diminuer ?
+{71815}{71904}Il n'a jamais été arrêté.|Il a une famille, un travail.
+{71909}{72017}C'est un vol à main armée.|C'est la caution minima en ce cas.
+{72024}{72060}Votre demande est rejetée.
+{72592}{72640}Je ne comprends pas|ce qui m'arrive.
+{72647}{72712}Vous allez passer devant|la cour d'assises.
+{72717}{72767}La caution a été fixée|à 7500 dollars.
+{72813}{72844}Je pourrai sortir ?
+{72848}{72889}Si la caution est versée.
+{72896}{72930}7500 dollars...
+{72940}{72988}Qui pourra payer pour moi ?
+{72997}{73055}Vous avez bien des parents ?
+{73086}{73129}Je pourrai voir ma femme ?
+{73131}{73172}Si elle vient à la prison.
+{76064}{76100}En voilà huit de jugés.
+{76594}{76618}Votre adresse ?
+{76630}{76680}40-24, 78èm Rue.|Jackson Heights...
+{76685}{76701}Âge ?
+{76706}{76730}38 ans.
+{76735}{76785}- Profession ?|- Musicien.
+{76790}{76833}- Lieu de naissance ?|- New York.
+{79116}{79157}Venez.|La caution a été déposée.
+{79425}{79471}Qui a versé la caution ?
+{79476}{79528}C'est surtout Gene et Olga.
+{79550}{79610}Olga, je ne l'oublierai jamais.|Jamais !
+{79722}{79816}Chérie, tu ne sauras jamais|combien tu m'as manqué !
+{80094}{80176}Nous rentrons à la maison.|Tu mangeras quelque chose.
+{80315}{80351}Oh, tu ne sauras jamais !
+{80677}{80768}Je me rappelle l'auto de la police|ici... C'est déjà vieux.
+{80789}{80842}C'est fini.|Tu es à la maison.
+{81051}{81096}Nous t'attendions.
+{81123}{81175}Mange quelque chose de chaud.
+{81179}{81249}Pas maintenant.|Plus tard maman !
+{81278}{81302}Je vais me reposer.
+{81306}{81340}Oui, va t'étendre.
+{81776}{81805}Rentre donc Bob.
+{81975}{82006}on t'a dit où j'étais ?
+{82018}{82042}Non.
+{82076}{82129}En prison, pour une chose|que je n'ai pas faite.
+{82136}{82213}Je sais. Je l'avais|entendu au téléphone.
+{82227}{82277}Tu es le meilleur papa du monde !
+{82313}{82349}Je fais ce que je peux.
+{82356}{82388}Merci mon enfant.
+{82455}{82503}J'espère que ça|ne t'arrivera jamais.
+{82531}{82613}Mais dans un cas comme ça|on a besoin d'affection.
+{82738}{82802}Je ne savais pas ce que mes fils|étaient pour moi !
+{82949}{82997}Tu devrais dormir un peu.
+{83117}{83224}On nous a recommandé|Me O'Connor comme avocat.
+{83277}{83366}Je n'en ai pas parlé à Manny.|Il est trop fatigué.
+{83378}{83445}Où trouver ce Me O'Connor ?
+{83462}{83546}Son bureau est|au Victor Moore Building.
+{83560}{83591}Appelez-le !
+{83618}{83661}Que lui dire ?
+{83675}{83733}Pensez à ce qu'il faut lui dire.
+{83872}{83980}Tu nous dis toujours de ne pas|sortir sans manteau et tu le fais !
+{84929}{85013}Je voudrais parler|à maître O'Connor.
+{85030}{85121}Il vient de partir.|Il ne reviendra pas aujourd'hui.
+{85159}{85183}C'est urgent ?
+{85217}{85267}Il devait rentrer|directement chez lui.
+{85960}{86008}Maître O'Connor est-il là ?
+{86126}{86164}Vous êtes Mme O'Connor ?
+{86238}{86337}Mme O'Connor, je vous téléphone|parce que j'ai des ennuis.
+{86370}{86428}On m'a dit que votre mari|pourrait nous aider.
+{86497}{86543}J'aimerais vous en parler...
+{86581}{86619}mais par où commencer...
+{86670}{86749}Mon mari joue de la contrebasse|au Stork Club...
+{87630}{87671}Voici mon mari.
+{87786}{87820}Asseyez-vous, je vous en prie.
+{87992}{88052}Depuis que vous avez|parlé à ma femme...
+{88057}{88127}j'ai fait ma petite enquête.
+{88141}{88230}Les faits semblent correspondre|à ce que vous avez dit.
+{88239}{88287}Nous savons que Manny|est innocent.
+{88292}{88366}C'est l'avis des gens du Stork Club.
+{88371}{88426}Son patron n'est pas inquiet.
+{88431}{88460}Vous le défendrez ?
+{88501}{88534}Nous allons en décider.
+{88582}{88644}Qu'est-ce que vous voulez ?|La preuve de son innocence ?
+{88671}{88771}En neuf ans de mariage|il ne s'est jamais absenté un jour.
+{88783}{88877}Je saurais s'il avait fait|la moindre faute... Il n'a rien fait !
+{88925}{88975}Que votre mari raconte|son histoire !
+{88999}{89095}Sa propre histoire,|sa vie, son travail...
+{89119}{89225}et son emploi du temps|après sa visite à la Compagnie d'Assurances.
+{89249}{89275}Vous le pouvez ?
+{89354}{89452}Pour vous c'est une vieille|histoire, mais pas pour moi.
+{89505}{89587}Prenez la déclaration|de M.Balestrero.
+{89618}{89704}Des renseignements|personnels d'abord !
+{89755}{89802}Nom et adresse...
+{89819}{89937}Christopher Emanuel Balestrero.|J'habite 40-24, 78èm Rue...
+{89942}{90011}à Jackson Heights,|avec ma femme et nos deux enfants.
+{90114}{90141}Pour moi ça suffit.
+{90203}{90229}Je vous défendrai.
+{90296}{90356}Il y a une difficulté...
+{90412}{90472}Je vous la signale|par souci d'honnêteté.
+{90504}{90571}Mon inexpérience|des affaires criminelles.
+{90587}{90662}Ça peut être un désavantage|au procès.
+{90695}{90786}Notre confiance est réciproque.|C'est l'essentiel.
+{90813}{90842}Mais vos honoraires...
+{90906}{91005}Ne vous en souciez pas.|Gagnons d'abord votre cause.
+{91033}{91103}Et le reste s'arrangera|tout seul.
+{91117}{91141}Maintenant...
+{91161}{91242}rentrez chez vous...
+{91266}{91364}et faites un effort pour essayer|de vous rappeler exactement...
+{91383}{91475}où vous vous trouviez|pendant ces deux jours...
+{91487}{91525}où on eu lieu les hold-up.
+{91530}{91628}Le premier jour on était|en vacances à la campagne.
+{91645}{91700}Qu'est-ce que vous avez fait ce jour-là ?
+{91750}{91834}M.Ferrero, le patron de l'hôtel,|pourrait nous aider.
+{91839}{91916}Retournez-y, vous ferez|vos recherches sur place.
+{91961}{91995}Nous prendrons l'auto de Gene.
+{92000}{92052}Ne retenons pas Maître O'Connor.
+{92405}{92477}Je sais que vous avez|passé quatre jours ici...
+{92486}{92549}mais il y avait tant de monde...
+{92554}{92649}que je ne pourrais pas préciser|les dates de séjour de personne.
+{92654}{92717}Le 9 juillet|c'était mon anniversaire.
+{92720}{92795}Où était M.Balestrero ce jour-là ?
+{92799}{92912}Vous aviez organisé un grand repas|sous les arbres.
+{92917}{92965}Non, c'était dans la maison.
+{92970}{93056}Oui ! Il pleuvait.|Maintenant je m'en souviens !
+{93058}{93152}Il avait plu toute la journée.|Non que ça puisse vous aider...
+{93253}{93315}Nous n'avons eu|qu'un jour de pluie.
+{94025}{94121}Il a tant plu que nous avons joué|aux cartes, à cette table.
+{94178}{94267}J'ai oublié les noms|de mes trois partenaires.
+{94279}{94384}L'un était petit|avec des sourcils épais.
+{94463}{94511}Nous avons vérifié le registre...
+{94516}{94562}Le second était grand...
+{94588}{94684}courbé et marchait lentement.|Il avait une sorte de perruque.
+{94727}{94775}Un petit toupet...|sur le devant.
+{94780}{94828}C'était M.Lamarca.
+{94890}{94967}Il est resté ici jusqu'en août.
+{94972}{95044}Le troisième était|un ancien boxeur.
+{95048}{95108}Vous vous rappelez|les noms ?
+{95132}{95221}Ils étaient dans ce livre.|C'est une erreur de dates.
+{95245}{95271}Le petit homme...
+{95279}{95365}aux sourcils épais,|ce n'était pas M.Molinelli ?
+{95415}{95475}Tenez, voilà son adresse.
+{95480}{95523}Et celle de M.Lamarca aussi.
+{96509}{96549}Est-ce que monsieur Lamarca est là ?
+{96583}{96633}Les Lamarca n'habitent plus ici.
+{96667}{96768}M.Lamarca est mort.|Je ne sais pas où est sa femme.
+{96772}{96823}Ça remonte à trois mois !
+{97401}{97439}M.Molinelli ?
+{97444}{97496}Troisième étage.|Appartement D.
+{98793}{98843}Qu'est-ce qu'elle a dit ?
+{98898}{98941}Molinelli est mort...
+{99361}{99397}Voilà notre alibi !
+{99440}{99471}C'est parfait !
+{99536}{99569}C'est complet !
+{99747}{99819}On trouvera le troisième homme,|le boxeur.
+{99824}{99898}Tu te le rappelles.|Et un seul témoin suffit.
+{99927}{100011}Tout est ma faute... À cause|de mes dents de sagesse.
+{100068}{100138}Parce que je t'ai laissé aller|à la Compagnie d'Assurances.
+{100142}{100200}C'est un hasard malheureux|Rose.
+{100226}{100332}Tu as voulu emprunter pour moi.|Et voilà ce qui t'est arrivé !
+{100351}{100435}Tout ça parce que|je n'ai pas su économiser.
+{100500}{100584}On a emprunté à la famille,|aux sociétés de crédit.
+{100591}{100706}Nous allons nous endetter|avec O'Connor. Tout ça par ma faute !
+{100804}{100919}Je t'ai trop négligé Manny.|Je n'ai pas été une bonne épouse.
+{100955}{100989}C'est insensé !
+{100994}{101073}Tu es la meilleure épouse du monde.|Que dis-tu !
+{101466}{101567}Quel choc d'apprendre que Lamarca|et Molinelli étaient morts !
+{101593}{101677}C'était comme si quelqu'un|conspirait contre nous.
+{101710}{101799}Mais il y a toujours cet autre|homme qui a joué avec nous.
+{101802}{101866}M.Ferrero et sa femme|nous aideront bien à le trouver.
+{101869}{101907}On le trouvera !
+{101989}{102061}C'est une malchance.|Mais il ne faut pas désespérer.
+{102063}{102125}Cherchez bien.|Trouvez d'autres témoins.
+{102130}{102173}Ce boxeur si possible.
+{102192}{102267}Le témoignage des Ferrero|nous sera utile.
+{102271}{102382}Ils nous aideront avec leur registre...|et leur mémoire.
+{102487}{102600}Le procureur fera tout|pour détruire votre alibi.
+{102605}{102701}Ses témoins jureront|que vous êtes l'auteur du hold-up.
+{102713}{102852}Retournez chez les Ferrero|et trouvez d'autres éléments.
+{102933}{103029}Maintenant, cette seconde date...|Le 18 décembre ?
+{103068}{103161}Elle vous rappelle un événement|qui puisse nous être utile ?
+{103247}{103329}Je me souviens que j'ai eu|une rage de dents avant Noël.
+{103350}{103415}Ma joue était si enflée|que je n'osais pas sortir.
+{103430}{103497}Je ne sortais|que pour aller à mon travail.
+{103516}{103547}Cette enflure se voyait ?
+{103561}{103629}Oui. Tout l'orchestre|se moquait de moi.
+{103677}{103724}C'était deux semaines avant Noël.
+{103741}{103801}- Vous avez vu un dentiste ?|- Oui. Plusieurs fois.
+{103844}{103868}Il peut témoigner.
+{103880}{103945}Avec une joue comme ça|le jour du hold-up...
+{103964}{104010}ça se serait remarqué !
+{104086}{104175}Les employées qui vous ont|identifié ne l'ont pas mentionné.
+{104230}{104317}J'en tirerai parti. Votre femme|pourra aussi en témoigner.
+{104371}{104438}Oui, sans doute.
+{104630}{104697}Cette joue enflée...
+{104702}{104757}est un fait nouveau|que j'exploiterai.
+{104819}{104877}Quel est le nom du dentiste ?
+{104882}{104939}Je l'ai chez moi.|Je vous appellerai.
+{104961}{105030}Je ferai aussi appel|à un expert en graphologie.
+{105037}{105064}Pour prouver...
+{105071}{105124}que les deux écritures diffèrent.
+{105220}{105306}Je veux que vous repensiez|à vos vacances.
+{105318}{105414}Cherchez le nom du boxeur|et tâchez de vous rappeler des détails.
+{105427}{105468}Je vous reverrai après-demain.
+{106091}{106139}Nous gagnerons cette affaire !
+{106381}{106422}Ça lui arrive souvent ?
+{106434}{106467}Non, je ne comprends pas.
+{106537}{106590}Vous devriez lui faire|voir un médecin.
+{106609}{106633}Oui.
+{106683}{106729}Vous voulez dire|aujourd'hui même ?
+{106741}{106803}Je ne sais pas.|Je ne suis pas médecin.
+{106817}{106863}Mais elle paraît très malade.
+{107954}{108031}Il fait presque jour.|Et tu n'es pas couchée ?
+{108160}{108246}Il fait frais ici.|Tu devrais déjà dormir.
+{108290}{108330}Je ne peux pas dormir.
+{108397}{108481}C'est la seconde fois|que je te trouve réveillée en rentrant.
+{108496}{108534}Et tu ne manges plus.
+{108551}{108611}Tu devrais peut-être|voir un médecin.
+{108695}{108750}Un médecin ? Pourquoi ?
+{108824}{108896}Quand on perd le sommeil|et l'appétit...
+{108903}{108973}et qu'on n'a plus goût à rien,|un médecin ça peut aider.
+{109076}{109138}Est-ce qu'on pourrait payer|un médecin en ce moment ?
+{109285}{109414}Pendant le procès maman peut venir|et rester ici avec les enfants.
+{109520}{109543}Si tu veux.
+{109867}{109980}Tu sembles te désintéresser|de ce qui m'arrivera au procès.
+{110048}{110106}Le contraire ne changerait rien.
+{110142}{110214}Quoi que tu fasses,|tout est contre toi.
+{110252}{110362}Peu importe que tu sois innocent,|ils te trouveront coupable !
+{110449}{110509}Mais nous ne serons pas leur jouet !
+{110545}{110576}Tu ne sortiras pas !
+{110585}{110657}Tu n'iras pas au Club.|Les enfants n'iront pas en classe.
+{110681}{110736}J'ai pensé à tout ça|en t'attendant ici.
+{110763}{110847}Nous allons fermer les portes|et rester à la maison.
+{110871}{110914}Les autres resteront dehors !
+{110991}{111115}Oui. Nous ne sortirons|que si c'est indispensable.
+{111154}{111240}Maman vient ici|ou les gosses vont chez elle ?
+{111434}{111513}Tu cherches à les éloigner !|Tu crois que je suis folle !
+{111590}{111672}Tu n'es pas parfait non plus !
+{111698}{111734}Tu ne me dis pas tout !
+{111739}{111799}Je ne sais pas si tu n'es pas coupable !|Tu pourrais l'être !
+{111954}{112031}Tu as emprunté|pour les vacances...
+{112043}{112091}Il fallait s'en passer.
+{112098}{112197}Tu as toujours acheté à crédit|malgré mes conseils !
+{112206}{112317}Je t'ai dit que nous serions|accablés de dettes, c'est arrivé.
+{112324}{112405}Maintenant c'est ton histoire|qui nous tombe dessus.
+{112410}{112460}C'est fini !
+{112506}{112585}Ils ont démoli ton alibi.|Ils nous écraseront.
+{112592}{112652}Et ils le feront !|Ils nous écraseront !
+{113592}{113621}C'est vrai Manny.
+{113659}{113714}Quelque chose ne tourne pas rond.
+{113755}{113805}Il va falloir|que tu me fasses enfermer.
+{114283}{114323}Qu'est-ce qui vous fait croire ça ?
+{114357}{114405}Les gens avaient confiance|en moi...
+{114426}{114467}et je les ai laissés tomber.
+{114484}{114537}Mais ça n'a pas toujours été ainsi ?
+{114683}{114743}Quand avez-vous éprouvé|ce sentiment ?
+{114781}{114827}Quand mon mari a été arrêté.
+{114863}{114913}C'est là que je l'ai abandonné.
+{114944}{114990}Comment vous l'avez su ?
+{115019}{115115}Je vais vous dire...|Ils ont voulu me déshonorer.
+{115158}{115220}Qu'est-ce qu'ils cherchaient ?|Vous ou Manny ?
+{115261}{115366}Ils ont voulu me punir.|Parce que j'étais une mauvaise épouse.
+{115407}{115457}Je... j'ai tout fait de travers.
+{115484}{115553}Ils ne l'ont pas arrêté|pour un délit ?
+{115565}{115642}Oh, non... Ils savaient|qu'il n'était pas coupable.
+{115680}{115745}C'était moi la coupable.|Ils me cherchaient.
+{115783}{115827}Et ils m'attraperont !
+{115845}{115924}Ce n'est pas la peine|de résister. C'est inutile !
+{115946}{116008}Qu'est-ce qui est inutile|Mme Balestrero ?
+{116020}{116109}Tout. Ils m'attaquent|de tous côtés.
+{116180}{116219}Ce n'est pas bien.
+{116252}{116296}Ils savent que je suis coupable !
+{116555}{116638}Qu'est-ce qui ne va pas docteur ?|Son état mental ?
+{116710}{116737}C'est sérieux ?
+{116761}{116813}Son esprit est dans les ténèbres.
+{116830}{116948}Elle se sent responsable|de ce qui vous est arrivé.
+{116955}{116998}Elle n'est pas responsable !
+{117003}{117053}Non, mais elle en est persuadée...
+{117065}{117168}avec tant de force que ça|obscurcit le monde autour d'elle.
+{117192}{117255}Elle voit des dangers partout.
+{117276}{117327}Elle pense les avoir|attirés sur vous.
+{117351}{117415}Ce qui lui arrive|est classique.
+{117437}{117542}Elle succombe sous une masse|de complexes de culpabilité.
+{117588}{117619}Qu'est-ce qu'on peut faire ?
+{117636}{117741}La placer dans un établissement|spécialisé où on la soignerait.
+{117782}{117816}Un asile ?
+{117825}{117873}Soigneusement choisi...
+{117890}{117964}il lui offrira la tranquillité|et l'aide...
+{117981}{118091}dont elle a besoin pour s'arracher|à la terreur qui l'étouffe.
+{118118}{118187}Elle ne pourra pas|rester chez nous ?
+{118216}{118281}Pas si vous voulez|lui donner une chance...
+{118288}{118312}de guérir.
+{118353}{118415}Je ne peux imaginer que Rose...
+{118458}{118494}Je ne peux la laisser partir !
+{118518}{118569}Elle vit dans un autre monde...
+{118609}{118688}Dans un paysage désolé|comme la lune.
+{118729}{118753}Et je suis absent ?
+{118758}{118854}Vous êtes là et les enfants|aussi. Mais elle vous voit...
+{118878}{118935}comme des ombres monstrueuses.
+{118967}{119055}Elle sait qu'elle vit|dans un cauchemar...
+{119072}{119118}dont elle ne peut sortir.
+{119173}{119209}C'est incurable ?
+{119228}{119269}Aucun cas n'est incurable.
+{119333}{119391}Je veux qu'elle ait|ce qu'il y a de mieux.
+{119422}{119468}Ce qu'il y a de mieux pour elle !
+{120919}{120948}Voici ma femme.
+{120974}{121051}Dites-lui au revoir ici|M.Balestrero.
+{121248}{121286}Voulez-vous venir ?
+{122457}{122577}Ces jurés sont ici|pour vous juger sur l'accusation...
+{122582}{122644}de vols à main armée.
+{122656}{122772}Vous êtes aussi accusé de deux|graves délits de vol et d'agression.
+{122781}{122872}Le jury a prêté serment.|Vous pouvez être entendu.
+{122968}{123076}Vous allez entendre une employée|de la Compagnie d'Assurances.
+{123093}{123146}Elle s'appelle Constance Willis.
+{123160}{123222}Elle va identifier l'accusé|comme étant l'homme...
+{123261}{123378}qui se trouvait dans son bureau|les jours des vols.
+{123426}{123493}Vous entendrez ensuite|Alice Dennerly.
+{123517}{123592}Elle aussi employée|dans le même bureau...
+{123596}{123673}témoignera dans le même|sens que Mlle Willis.
+{123685}{123755}Et vous entendrez les inspecteurs|qui ont arrêté l'accusé.
+{123757}{123874}Il leur a avoué|ses ennuis financiers...
+{123877}{123958}ses emprunts d'argent.|Non pour aller aux courses...
+{123963}{124057}mais pour payer ses paris|chez les bookmakers de New York.
+{124061}{124107}Il devait les régler.
+{124121}{124186}Et ses emprunts...
+{124191}{124227}n'y suffisaient pas !
+{124241}{124320}Voilà ce que nos témoins|vont vous dire.
+{124340}{124424}Ils identifieront formellement|l'accusé...
+{124431}{124498}comme étant l'auteur des hold-up.
+{124507}{124558}Je suis sûr que|lorsque vous aurez...
+{124563}{124599}entendu les témoins...
+{124601}{124656}Vous ne pourrez rendre|qu'un seul verdict :
+{124661}{124723}"Coupable en tous points".
+{124963}{125064}Monsieur le juge, monsieur le président,|mesdames et messieurs les jurés...
+{125104}{125188}Vous avez entendu un acte|d'accusation détaillé.
+{125220}{125303}On vous a dit, je pense,|qu'un réquisitoire...
+{125323}{125373}n'est qu'une accusation.
+{125409}{125498}La preuve sera fournie|par les témoins...
+{125500}{125543}que nous entendrons ici.
+{125567}{125615}Parce qu'en réalité...
+{125622}{125689}ce que je vous dis|ou ce que je vous dirai...
+{125694}{125778}ce que vous a dit|ou vous dira M.Tomasini...
+{125790}{125843}n'a que peu d'importance ici.
+{125853}{125965}Vous devez prononcer le verdict|d'après les déclarations des témoins.
+{126037}{126138}D'après notre législation|un accusé n'a rien à prouver.
+{126159}{126282}Il peut rester muet. Les charges|de preuve incombent au Ministère.
+{126303}{126368}Cependant|la défense va entendre...
+{126373}{126459}un certain nombre|de respectables citoyens.
+{126493}{126553}Et je vous invite|à bien les écouter...
+{126565}{126641}et à décider de la culpabilité|ou de l'innocence...
+{126649}{126684}de M.Balestrero.
+{126713}{126773}Parce que, par la bouche|de ces témoins...
+{126797}{126874}il sera prouvé,|et vous en serez satisfaits...
+{126886}{126958}que l'homme accusé|de tous ces délits...
+{126975}{127049}n'en a en fait|commis aucun !
+{127116}{127202}Tenez compte des probabilités|dans cette affaire.
+{127231}{127337}Et quand la preuve sera faite,|vous vous rendrez compte...
+{127341}{127445}que c'est un cas tragique|d'erreur d'identité.
+{127460}{127523}Parce que le 9 juillet 1952...
+{127568}{127638}C'est tout ce que|cet homme vous a dit ?
+{127643}{127683}Autant que je m'en souvienne, oui.
+{127705}{127810}Il a dit "N'appelez personne"|et je lui ai donné l'argent.
+{127813}{127885}Vous lui avez donné 200 dollars.|Qu'est-ce qu'il a fait après ?
+{127911}{127949}Il a quitté le bureau.
+{127993}{128065}Je suis allée en informer|le directeur.
+{128141}{128223}Regardez dans cette salle|et dites-nous...
+{128228}{128343}si vous voyez l'homme qui était|dans votre bureau le 9 juillet.
+{128410}{128446}Montrez-le-nous.
+{128498}{128542}Allez lui toucher l'épaule.
+{129172}{129275}Le procès doit mentionner|que le témoin a reconnu l'accusé...
+{129285}{129328}et l'a touché à l'épaule.
+{129357}{129410}Il s'est passé quelque chose après ?
+{129426}{129450}Oui Anne...
+{129453}{129496}Vous voulez dire Mme James ?
+{129541}{129625}Mme James lui a remis|l'argent de son tiroir.
+{129630}{129724}Vous avez entendu|ce que l'homme lui a dit ?
+{129748}{129834}Il lui a dit|de lui remettre sa caisse.
+{129839}{129894}Est-ce qu'elle a retiré l'argent|de sa caisse ?
+{129899}{129942}Est-ce qu'elle lui a donné ?
+{129947}{129990}Voyez-vous cet homme ici ?
+{130021}{130071}Allez toucher son épaule.
+{130076}{130102}Ce ne sera pas nécessaire.
+{130138}{130170}Montrez-le-nous.
+{130174}{130218}C'est l'homme qui porte|une cravate rouge.
+{130225}{130249}Debout ?
+{130263}{130282}Assis !
+{130318}{130397}Il porte un costume bleu|et une chemise blanche.
+{130534}{130637}Pour la confrontation au poste|on a aligné des hommes.
+{130661}{130704}Ils étaient combien ?
+{130719}{130755}Six ou sept.
+{130805}{130858}Christopher Balestrero|était l'un deux ?
+{130877}{130903}C'est exact.
+{130915}{130954}Qu'est-ce qu'il portait ?
+{130958}{131026}Il avait un chapeau|et un manteau je crois.
+{131109}{131189}Connaissiez-vous d'autres hommes|dans ce prétendu alignement ?
+{131193}{131241}Je fais opposition à la question !
+{131268}{131320}Je l'autorise.|C'est sa façon de s'exprimer.
+{131325}{131385}Combien de ces hommes|connaissiez-vous ?
+{131388}{131409}Un seul.
+{131414}{131455}- C'était qui ?|- Le mari de Mme James.
+{131460}{131536}Comment était vêtu le mari de Mme James ?
+{131546}{131579}Un manteau|et un chapeau marron.
+{131584}{131635}Voulez-vous dire au jury...
+{131656}{131759}ce que vous avez fait|pour trouver l'accusé dans la file.
+{131783}{131841}On nous a dit de compter|et de nous arrêter sur lui.
+{131860}{131913}Vous avez compté|jusqu'à quel nombre ?
+{131968}{131999}Je ne me rappelle pas.
+{132004}{132033}M. James était-il parmi eux ?
+{132059}{132107}Non, il se déplaçait.
+{132109}{132162}Comment était vêtu|le numéro un ?
+{132169}{132196}Ils étaient tous vêtus...
+{132200}{132222}pareil.
+{132227}{132299}Le numéro un portait-il|un manteau ?
+{132304}{132378}Elle vous l'a dit :|ils étaient pareillement vêtus.
+{132409}{132467}Vous vous souvenez|de la taille du numéro un ?
+{132510}{132562}Si vous ne vous souvenez pas,|dites-le.
+{132601}{132630}Son poids approximatif ?
+{132634}{132697}Si vous ne le savez pas,|dites-le.
+{132749}{132800}Sommes-nous ici|pour écouter tout ça ?
+{132850}{132939}La Cour est seule juge|de ce qui doit être retenu.
+{132944}{133028}Quand ce sera votre tour,|vous jugerez les faits.
+{133152}{133200}Je peux dire un mot au tribunal ?
+{133660}{133777}Si monsieur le juge le permet,|à la suite de cet incident...
+{133796}{133851}je demande un ajournement.
+{133856}{133892}Demande accordée !
+{134115}{134192}Nous devions invoquer|un vice de forme...
+{134240}{134278}Qu'est-ce que ça veut dire ?
+{134300}{134362}On pourra tout recommencer.
+{134405}{134487}Toute la procédure...|Et attendre une autre date...
+{134501}{134571}choisir un autre jury,|revoir les témoins.
+{134669}{134705}Est-ce qu'on ne peut pas continuer ?
+{134731}{134834}Pas après ce que ce juré a dit.|Il faut tout recommencer.
+{134988}{135069}Notre cause est aussi bonne|qu'avant. Rien n'est perdu.
+{135093}{135146}Nous repartirons à zéro.
+{135177}{135218}Pourrez-vous tenir le coup ?
+{135292}{135331}J'essaierai maître O'Connor.
+{135715}{135778}J'aurais préféré|qu'ils me trouvent coupable.
+{135818}{135910}C'est comme si on vous écrasait|une seconde fois.
+{136049}{136085}C'est ma faute !
+{136121}{136185}Vous seriez tous|plus tranquilles sans moi.
+{136228}{136281}Ce n'est pas ta faute Manny.
+{136288}{136365}Tu as eu de la malchance.
+{136389}{136425}Qu'est-ce que je peux faire ?
+{136468}{136492}Est-ce que tu as prié ?
+{136624}{136653}Tu as prié pour quoi ?
+{136689}{136713}Pour avoir de l'aide.
+{136730}{136770}Prie pour avoir de la force !
+{136813}{136881}Rien ne peut m'aider|sans un peu de chance.
+{136895}{136941}Quelqu'un a commis ces hold-up.|Où est-il ?
+{136964}{137005}Peut-être en prison...
+{137010}{137065}pour autre chose.
+{137070}{137140}Comme ça il ne sera jamais soupçonné|pour ce qu'il a fait ici.
+{137178}{137243}Mon fils, il faut prier...
+{137312}{137343}Je dois aller au travail.
+{139102}{139121}Une livre de jambon.
+{139570}{139661}C'est un revolver. Donnez-moi|l'argent de la caisse.
+{139766}{139802}Du calme madame...
+{139814}{139841}Ça ne servira à rien !
+{139845}{139869}N'approchez pas !
+{139901}{139925}Restez là !
+{140174}{140236}La police ?|Nous avons un voleur.
+{140260}{140315}Il a tenté un hold-up|dans le magasin.
+{140912}{140956}En voilà un|pour les inspecteurs !
+{142248}{142320}Manny, on vous demande|au commissariat.
+{142708}{142744}Ce ne sera plus long maintenant.
+{142759}{142794}Où on a trouvé l'homme ?
+{142833}{142883}Comptez à partir de la droite.
+{142888}{142967}Quand vous le reconnaîtrez,|arrêtez !
+{143171}{143216}Vous êtes sûre que c'est lui ?
+{144080}{144113}Enfin... !
+{144468}{144533}Vous savez ce que vous|avez fait à ma femme ?
+{144887}{144966}L'AUTEUR PRÉSUMÉ DU HOLD-UP|INNOCENTÉ PAR SON SOSIE
+{145611}{145644}Tout est fini...
+{145661}{145743}Ils ont attrapé l'auteur des hold-up.|Tout est fini maintenant !
+{145783}{145834}C'est Manny.|Il est venu vous voir.
+{145973}{146018}Répétez-lui la bonne nouvelle.
+{146208}{146244}Il n'y a plus de procès.
+{146272}{146359}Ils savent que je suis innocent.|Ils ont pris le coupable.
+{146388}{146486}Nous pouvons recommencer notre vie.|Ailleurs si tu veux.
+{146524}{146579}On a des amis merveilleux.
+{146601}{146723}Ils nous ont soutenus.|O'Connor, le Stork Club, les Ferrero.
+{146776}{146819}Ne détourne pas les yeux Rose.
+{147095}{147145}Rose ma chérie, je t'aime.
+{147176}{147239}Ce terrible cauchemar est terminé.
+{147344}{147373}C'est bien pour toi...
+{147411}{147498}Pour toi aussi. Sans ça|ce n'est pas bien pour moi.
+{147524}{147548}Ça ne t'aide pas ?
+{147733}{147840}Ai-je fait quelque chose...|que tu ne puisses me pardonner ?
+{147939}{147977}Non, rien.
+{148023}{148061}Je peux t'aider Rose ?
+{148169}{148207}Rien ne peut m'aider.
+{148378}{148406}Tu peux partir.
+{148421}{148469}Tu ne viens pas avec moi ?
+{148629}{148723}Que m'importe où je suis,|où sont les autres...
+{148742}{148795}Qu'est-ce que je vais faire de ma vie ?
+{148821}{148871}Il ne me reste rien sans toi.
+{148898}{148996}Les enfants prient pour que tu reviennes.|Nous avons besoin de toi.
+{149003}{149104}Votre mari va s'en aller.|Parlez-lui.
+{149109}{149150}Il apporte de bonnes nouvelles.
+{149303}{149339}C'est bien pour toi.
+{149468}{149504}Tu peux partir maintenant.
+{149643}{149677}Vous reviendrez.
+{149723}{149771}J'espérais un miracle.
+{149778}{149845}Ils se produisent.|Mais il faut du temps.
+{149912}{149948}Elle n'écoute plus maintenant.
+{150351}{150408}Deux ans plus tard,|Rose a été guérie...
+{150413}{150495}Aujourd'hui les Balestrero|vivent heureux en Floride...
+{150500}{150580}et le cauchemar est fini.|Mais c'est vraiment arrivé.
+

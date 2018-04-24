@@ -1,4 +1,4 @@
-# Alan v1.0.1
+# Alan v1.1.0
 
 
 
@@ -11,7 +11,7 @@ Les consignes d'écritures pour le développement d'Alan sont dans le fichier `b
 Alan est un agent conversationel en cours de développement créé pour le spectacle [Turing Test](https://github.com/LeonLenclos/turing-test) avec la collaboration de l'[IRIT](https://www.irit.fr/) (Institut de Recherche en Informatique de Toulouse) et plus particulièrement des équipes de recherche SAMoVA et MELODI. C'est un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
 On peut discuter avec lui de choses et d'autres mais sa spécialité c'est la conscience de soi. Il a été programmé pour donner l'illusion qu'il est conscient d'exister.
 
-Grâce à l'apprentissage profond, de plus en plus de chatbots sont capables de progresser en s'entrainant à converser avec des humains. Alan fait partie de cette famille de robots qui finissent un jour par échapper à leur concepteur. Il apprend des mots, crée des liens, organise son discours, jour après jour, spectacle après spectacle. 
+Grâce à l'apprentissage profond, de plus en plus de chatbots sont capables de progresser en s'entrainant à converser avec des humains. Alan fait partie de cette famille de robots qui finissent un jour par échapper à leur concepteur. Il apprend des mots, crée des liens, organise son discours, jour après jour, spectacle après spectacle.
 Quand il n'est pas sur scène, Alan est quand même là, sur le site de la compagnie, disponible pour parler avec le premier venu. C'est là qu'Alan fait le plus de progrès, quand il échange avec son public.
 A la date suivante, Alan a un peu changé. Comme nous.
 
@@ -27,7 +27,7 @@ L'architecture d'Alan est basé sur le module python [chatterbot](https://github
 - Un module servant à gérer la reconnaissance vocale (conversion voix vers texte) sera un InputAdapter
 - Un module servant à gérer la synthèse vocale (conversion texte vers voix) sera un OutputAdapter
 
-Lorsque l'utilisateur dis quelque-chose à Alan, certains logic adapters se mettront en marche et c'est la réponse de celui qui renverra l'indice de confiance le plus haut qui sera sélectionnée. Si tout les logic adapters ne se mettent pas en marche à chaque fois, c'est parce que certains ne sont conçus que pour répondre à un certain type de phrases. 
+Lorsque l'utilisateur dis quelque-chose à Alan, certains logic adapters se mettront en marche et c'est la réponse de celui qui renverra l'indice de confiance le plus haut qui sera sélectionnée. Si tout les logic adapters ne se mettent pas en marche à chaque fois, c'est parce que certains ne sont conçus que pour répondre à un certain type de phrases.
 
 ## Comment parler avec Alan
 
@@ -45,6 +45,22 @@ Le projet est encore en cours de développement, github est un outil adapté à 
   $ cd brain
   $ ./alan.py
   ```
+
+### indiquer des fichiers de réglage spécifique
+
+Par defaut, alan se lance avec les réglages contenu dans le fichier default.json.
+
+D'autres fichier de réglages (settings) peuvent être choisis grace à l'argument `-s`.
+
+```
+ $ ./alan.py -s speak
+ # lance Alan avec les réglages contenus dans le fichier speak.json
+ $ ./alan.py -s base interface_text logic_rive
+ # lance Alan avec les réglages contenus dans les fichier base.json interface_text.json et logic_rive.json
+ ```
+
+Voir [brain/settings/README.md](brain/settings/README.md) pour plus d'information sur le fonctionnement des fichiers settings
+
 
 ### commandes spéciales
 

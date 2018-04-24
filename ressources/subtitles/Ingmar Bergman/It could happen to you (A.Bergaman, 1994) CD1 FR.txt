@@ -1,0 +1,720 @@
+{1419}{1536}ÇA N'ARRIVE PAS QU'AUX AUTRES
+{2131}{2181}Laisse-moi tranquille | connard !
+{2220}{2313}Il était une fois, à New York, | un flic nommé Charlie.
+{2316}{2364}C'était un type très bien...
+{2366}{2431}son partenaire, Bo, | était lui aussi un type bien.
+{2476}{2524}Il savait écouter les gens.
+{2603}{2666}Il adorait les gosses.
+{2723}{2798}Charlie ! Viens Charlie !
+{2865}{2934}Où tu es passé ?
+{2937}{3013}Il avait du sens pratique | et de la patience.
+{3347}{3397}Il savait se rendre utile.
+{3454}{3510}Allez-y. | Attention à la marche.
+{3510}{3582}- Dépêchez- vous. | - Allons-y messieurs dames.
+{3584}{3634}Laissez-moi passer.
+{3637}{3711}Laissez passer. | Dépêchez-vous.
+{3944}{3994}C'était tout simplement | un bon flic.
+{4109}{4164}Charlie vivait heureux | dans le Queens...
+{4167}{4234}où il était né et où il avait | vécu toute sa vie.
+{4236}{4320}- Hé, Charlie ! | - Jésus ! Comment vas-tu ?
+{4320}{4385}- Tu as tué quelqu'un aujourd'hui ? | - Même pas blessé quelqu'un.
+{4385}{4449}- La journée a été calme. | - Tu vas pas voir ta femme ?
+{4452}{4531}Non, elle n'aime pas que je | vienne la voir au travail.
+{4531}{4603}Charlie était marié | avec Muriel.
+{4605}{4656}Elle détestait le Queens.
+{4658}{4735}S'il était détective | ou agent secret...
+{4737}{4804}au moins on aurait | de quoi s'habiller.
+{4804}{4864}Mais ça ne lui dit rien. | Il veut porter cet uniforme !
+{4864}{4936}C'est dommage, je sais | que tu as de l'ambition.
+{4939}{5003}Je sais. Je ne l'ai jamais | assez poussé.
+{5006}{5056}S'il touchait | des pots-de-vin...
+{5056}{5130}au moins je dirais | "D'accord, il est débrouillard".
+{5133}{5183}Ma sœur a été mariée | avec un flic pendant 10 ans.
+{5186}{5229}C'est sans issue.
+{5231}{5322}S'ils sont honnêtes t'es fauchée, | et sinon ils sont jamais là.
+{5322}{5380}Qu'est-ce que ta sœur | a fait ?
+{5380}{5428}Elle l'a quitté | pour un électricien.
+{5430}{5476}Ça c'est un investissement.
+{5512}{5562}Ma patience est à bout.
+{5564}{5646}Je suis quelqu'un | pour qui l'argent est important.
+{5648}{5720}Et il y avait une serveuse | nommée Yvonne...
+{5723}{5790}qui était sur le point de recevoir | de très mauvaises nouvelles.
+{5792}{5857}Mlle Biasi, selon | votre dossier ici-présent...
+{5857}{5941}vous devez 12000 dollars | à votre MasterCard.
+{5943}{6006}Ces dépenses ont été faites | par mon ex-mari...
+{6008}{6075}l'acteur Eddie Biasi, | après notre séparation.
+{6077}{6123}La banque n'est pas | au courant de votre divorce.
+{6125}{6193}C'est parce que nous ne sommes | pas encore divorcés
+{6193}{6267}Je lui avais dit "Déchire | les cartes de crédit".
+{6269}{6317}Si vous n'êtes pas divorcée | vous êtes responsable...
+{6320}{6382}de toutes les dettes | de votre mari.
+{6384}{6447}- C'est la loi. | - Je suis divorcée dans mon cœur.
+{6447}{6490}C'est ce qui compte.
+{6492}{6535}Légalement | ça ne compte pas.
+{6593}{6653}Vous savez combien ça coûte | de divorcer ?
+{6655}{6706}Vous avez déjà divorcé ?
+{6758}{6823}Probablement pas. Vous n'avez | sûrement jamais divorcé.
+{6826}{6893}Vous avez probablement eu | de la chance toute votre vie...
+{6895}{6974}ce qui est formidable, | tout le contraire de moi.
+{6977}{7056}Si la MasterCard | est à votre nom...
+{7084}{7116}vous en avez | la responsabilité.
+{7144}{7190}Une minute.
+{7192}{7259}Je suis arrivée à New York | il y a cinq ans pour être actrice.
+{7262}{7339}J'avais interprété le rôle d'Emily | dans "Our Town" à l'université.
+{7341}{7399}- Les gens ont pleuré à chaudes larmes. | - J'en suis sûr.
+{7399}{7447}- A chaudes larmes. | - J'en suis sûr.
+{7447}{7530}Vous désirez autre chose ? | Alors je suis venue à New York.
+{7530}{7600}J'ai rencontré Eddie.
+{7600}{7658}Vous parlez | d'une malchance.
+{7660}{7729}Il m'a transportée | au septième ciel.
+{7729}{7799}Il m'achetait des fleurs, | il m'emmenait en taxi...
+{7801}{7912}dans de bons restaurants qui ont | du bon vin et de la musique douce.
+{7914}{7979}Tout était parfait | sauf...
+{7979}{8053}qu'il s'est avéré être | un menteur pathologique.
+{8056}{8111}Je croyais | tout ce qu'il me disait...
+{8113}{8183}parce que j'étais naïve.
+{8185}{8228}Vous comprenez ?
+{8382}{8456}Alors en conclusion...
+{8456}{8499}quelles sont mes options ?
+{8564}{8631}"Mise en faillite"
+{9103}{9178}Charlie, Muriel et Yvonne | vivaient dans une ville...
+{9178}{9269}où les gens prient chaque jour | pour la venue d'un miracle...
+{9271}{9353}comme de gagner le gros lot | de 64 millions de dollars.
+{9355}{9401}Je m'appelle Ange.
+{9403}{9456}L'histoire qui va vous | être racontée....
+{9458}{9523}est presque entièrement | vraie du début à la fin.
+{9731}{9772}J'ai fait un rêve cette nuit.
+{9772}{9775}Je jouais | à la machine à sous et j'ai eu...
+{9775}{9830}Je jouais | à la machine à sous et j'ai eu...
+{9830}{9885}trois numéros gagnants. Mais ce | n'étaient pas des numéros gagnants.
+{9887}{9954}C'était le visage | de mon père décédé.
+{9957}{10026}- C'est un signe. | - Mais tu détestais ton père.
+{10055}{10125}Ce n'est pas important. | Un signe c'est un signe.
+{10127}{10201}Tu crois que je suis cinglée | mais je te dis qu'on va gagner.
+{10201}{10249}Je n'ai jamais dit | que tu étais cinglée.
+{10252}{10321}J'ai dit que nos chances de gagner | le gros lot étaient très minces.
+{10321}{10386}Tu veux que je te dise ? | C'est pas un problème.
+{10420}{10515}Une chambre dans le Queens | c'est pas mon idéal.
+{10515}{10568}Une chambre dans le Queens | c'est très bien.
+{10571}{10643}Si on avait des gosses...
+{10645}{10690}ce serait une autre histoire.
+{10693}{10755}On n'est pas assez riches | pour avoir des gosses.
+{10755}{10803}Bien sûr qu'on est | assez riches.
+{10803}{10887}Les flics ont des gosses. | Les pompiers ont des gosses.
+{10889}{10957}Si seuls les riches en avaient | l'école publique n'existerait pas.
+{10959}{11026}Prends le billet | ce matin s'il te plaît !
+{11029}{11084}"Loterie de New York" | Faut qu'elle se réveille. Dis-lui.
+{11086}{11172}"C'est moi l'homme ici. Je pars | tous les matins gagner notre pain....
+{11175}{11232}pour pouvoir le ramener | sur la table. Tu vois le truc ?
+{11235}{11295}Il faut qu'elle t'écoute.
+{11331}{11393}- Tu n'es pas sérieux ! | - Ça va prendre deux minutes.
+{11393}{11443}Oh !
+{11446}{11518}Je meurs de faim vieux. | Hé, messieurs dames !
+{11520}{11568}C'est du ressort de la police. | Ecartez-vous.
+{11568}{11623}- Ça va prendre deux minutes. | - Désolé.
+{11678}{11777}Ça va prendre des heures. | Le Burger King est à 15 minutes.
+{11777}{11849}On n'a qu'à manger en face. | Je n'y suis jamais allé.
+{11851}{11875}Là-dedans ?
+{11877}{11940}Oh non !
+{12122}{12196}- Où vous étiez donc passée ? | - Je vous l'ai répété cinq fois hier.
+{12199}{12247}Une affaire personnelle. J'ai pas | pu faire autrement. Salut Carole.
+{12249}{12318}Vous avez deux heures de retard. | Ce sera retenu sur votre salaire.
+{12321}{12383}Vous savez combien vous me | devez en congés de maladie ?
+{12386}{12482}Alors tombez malade. | Sinon travaillez.
+{12517}{12556}Allez me chercher un café.
+{12633}{12683}Sur ta tête chérie.
+{12685}{12731}Merci.
+{12784}{12832}Ce type s'y connaît | en ambiance.
+{12834}{12880}Autant qu'un officier | de caserne.
+{12911}{12975}Voilà pour vous.
+{13014}{13057}"Le Café Idéal"
+{13098}{13155}- Vous voulez un café ? | - S'il vous plaît.
+{13246}{13323}- Vous avez choisi ? | - Un cheeseburger.
+{13325}{13381}Et en attendant | un muffin aux myrtilles.
+{13381}{13417}D'accord.
+{13484}{13510}Et vous ?
+{13560}{13647}Vous me conseillez | le homard thermidor ?
+{13767}{13860}C'est vraiment très drôle. | Je vais mourir de rire.
+{13863}{13949}Après la journée que j'ai eue | ça fait vraiment du bien.
+{13951}{14002}Vous avez eu | une mauvaise journée ?
+{14047}{14107}Appelez-moi | quand vous serez prêt.
+{14110}{14150}Des boulettes de viande.
+{14153}{14198}Je vous assure, | c'est ce que je veux prendre.
+{14241}{14306}- Des boulettes de viande ? | - Des boulettes de viande.
+{14347}{14407}Vous êtes un policier | très courageux.
+{14476}{14531}Tu lui plais.
+{14531}{14579}Ouais, tu lui plais beaucoup.
+{14579}{14647}J'essayais juste | de la remonter un peu.
+{14647}{14730}Une alarme s'est déclenchée | Spring Street.
+{14730}{14778}- Je suis rassasié. | - Merde.
+{14781}{14826}Je vais mourir de faim.
+{14927}{14982}- C'est à toi de payer. | - D'accord.
+{15069}{15119}On doit foncer, vous pouvez | nous donner la note.
+{15121}{15176}Après tout ce cinéma ?
+{15179}{15246}Quand on a un appel-radio...
+{15248}{15280}Où elles sont encore ?
+{15280}{15327}Où j'ai...
+{15373}{15416}Merci.
+{15419}{15507}Alors deux cafés | plus la taxe.
+{15510}{15555}Deux dollars tout rond.
+{15694}{15764}Ah zut.
+{15764}{15790}Je ne les ai pas.
+{15824}{15886}- C'est bon. Laissez tomber. | - Non !
+{15889}{15932}J'ai assez pour les cafés | mais pas pour le pourboire.
+{15934}{15970}Je n'en mourrai pas.
+{15972}{16042}- Je dois vous laisser un pourboire. | - Alors, laissez-en un !
+{16138}{16203}Un billet de la loterie ?
+{16203}{16251}Avec ma chance ? | Ne plaisantez pas.
+{16253}{16323}Allez délivrer le chat | qui est coincé dans l'arbre.
+{16325}{16366}Ça c'est l'affaire | des pompiers.
+{16430}{16457}Allons-y !
+{16457}{16557}Une seconde. J'ai une idée. | Comment vous vous appelez ?
+{16632}{16663}Yvonne.
+{16665}{16737}Je m'appelle Charlie Lang, | on est associés à présent.
+{16740}{16809}Si on gagne quelque chose | je reviendrai partager avec vous.
+{16812}{16872}Sinon je reviendrai quand même | vous donner un pourboire.
+{16872}{16951}- Qu'est-ce que vous en pensez ? | - Que je ne vous reverrai jamais.
+{16953}{17023}- On se reverra demain. | - Je serai là, ça c'est sûr.
+{17025}{17059}Marché conclu.
+{17370}{17435}Allez. Frappe la balle. | Allez !
+{17500}{17548}- Encore cinq minutes. | - Charlie !
+{17550}{17598}- Ouais ? | - Le dîner chinois arrive. Monte !
+{17600}{17629}Dans une minute.
+{17629}{17711}- C'est elle qui commande ? | - Non, c'est pas elle qui commande.
+{17711}{17768}J'ai des responsabilités. | De grande personne. Envoie.
+{17787}{17862}Prêt à cogner !
+{17903}{17991}Ça suffit. Je m'en vais. | Où est la balle ?
+{18097}{18205}- J'arrive maman. | - C'est elle qui commande ?
+{18207}{18257}C'est ma mère. | C'est pas pareil.
+{18260}{18360}- A demain petit. | - Ouais. Bonne nuit Charlie.
+{18363}{18432}Vous avez été opérée | hier soir ?
+{18454}{18536}Vous parlez de ça ? Non. | J'ai un soutien-gorge à prothèse.
+{18576}{18663}Ne fais pas ça à côté de moi. | C'est dégoûtant !
+{18665}{18758}- Je me trempe juste les pieds. | - Je t'en prie !
+{18845}{18871}Mince.
+{18941}{19046}- Depuis quand ça te dérange ? | - Depuis cette minute, d'accord ?
+{19049}{19133}Oh mon Dieu ! Tu renverses | de l'eau partout !
+{19133}{19197}Je devrais peut-être | appeler la Croix-Rouge.
+{19200}{19260}Je leur dirai qu'on est | en zone sinistrée.
+{19262}{19360}J'en ai même un avec des prothèses | plus importantes pour le soir.
+{19406}{19468}- Quoi ? | - Si je me faisais refaire les seins ?
+{19490}{19516}Les faire refaire ?
+{19519}{19626}Ouais, plus gros, | pour qu'ils soient comme ça.
+{19629}{19682}Ils sont parfaits si c'est | comme ça qu'on les aime.
+{19684}{19722}Tu es tombée sur la tête ?
+{19756}{19847}- Ça me paraît si extrême. | - Pense plus à ça.
+{19849}{19955}- Je n'en vois pas la nécessité. | - Pense plus à ça.
+{20089}{20185}Mon problème | c'est que j'ai fait faillite.
+{20187}{20303}On m'a retiré ma Mastercard. | Quand on va me la rendre ?
+{20425}{20492}Oh. Quand je vais | pouvoir la récupérer ?
+{20571}{20631}Moins de 15000 dollars | par an. C'est MasterCard.
+{20633}{20713}Je peux leur parler ? | J'en serais ravie.
+{20715}{20749}Oui.
+{20775}{20820}Une minute. Je vois.
+{20962}{21027}Eh bien merci. | C'est ce que je pensais.
+{21065}{21159}- Qu'est-ce qu'ils ont dit ? | - Je n'ai presque aucune chance.
+{21159}{21254}"La loterie de New York à 64 millions" | Le gros lot a atteint 64 millions.
+{21254}{21310}Nous tirerons les numéros | gagnants dans un instant.
+{21312}{21365}"Loterie de New York"
+{21434}{21487}Le numéro est faux !
+{21489}{21523}Faux ?
+{21564}{21643}Notre anniversaire de mariage | est le 27, pas le 26.
+{21643}{21712}Nous sortons | toujours le 26.
+{21715}{21777}On a eu le certificat le 26.
+{21777}{21839}On s'est mariés le 27.
+{21842}{21964}- Pourquoi on sort le 26 ? | - C'est peut-être une tradition !
+{21964}{22062}Je t'ai dit que c'était la date | de notre anniversaire de mariage.
+{22065}{22163}Avec un peu de bon sens on sait | qu'il s'agit de la date du mariage.
+{22166}{22221}Je suis désolé chérie.
+{22223}{22300}- 64, 84. | - Il a dit 26 ?
+{22343}{22403}Encore une fois ces numéros | sont: 6...
+{22405}{22453}12, 16...
+{22453}{22537}26, 64, | 84.
+{22540}{22595}- Quoi ? | - On a gagné !
+{22595}{22659}On a gagné le gros lot !
+{22691}{22739}C'est incroyable.
+{22739}{22815}On est riches !
+{22818}{22863}Le gros lot ?
+{22959}{23019}Qu'est-ce qu'on a | pour dîner chérie ?
+{23021}{23096}- Des sandwichs au jambon. | - Tu as de la moutarde de Dijon ?
+{23098}{23146}Bien sûr que j'ai | de la moutarde de Dijon.
+{23149}{23240}Même si je suis fauchée | je dois garder un certain standing.
+{23242}{23348}Dans la vie certaines choses | doivent être permanentes, éternelles.
+{23350}{23436}- Comme les chocos BN. | - Exactement.
+{23477}{23547}- Merci. | - Vous prendrez autre chose ?
+{23652}{23714}Est-ce qu'il va y avoir | autre chose ?
+{23772}{23839}Il n'y aura sûrement rien d'autre | jusqu'à la fin de mes jours.
+{23841}{23892}Mon Dieu. | Je déteste ça.
+{23894}{23940}Je me sens en faillite | de la tête aux pieds.
+{23942}{23942}Quoi ?
+{23942}{23976}Quoi ?
+{24026}{24117}Mon Dieu. Une équipe de bowling | d'Albanie a les mêmes numéros.
+{24120}{24170}Ils empochent 9 millions !
+{24172}{24247}C'est curieux, | ça ne me surprend pas.
+{24249}{24319}- Ils sont combien dans l'équipe ? | - Je ne sais pas.
+{24319}{24369}Il doit y avoir 12 types | en moyenne dans une équipe.
+{24369}{24431}Chaque type | en prend un bout....
+{24431}{24482}ou ils sont ensemble | sur le même ?
+{24484}{24568}Muriel, tes veines, | elles vont éclater.
+{24599}{24671}Tu as l'air d'une folle.
+{24695}{24741}D'accord. Oui.
+{24796}{24856}Oh mon Dieu. D'accord.
+{24858}{24925}Les joueurs... Dieu merci... | Se divisent une seule part.
+{24928}{25011}Mais il y a 16 personnes | qui ont le même numéro.
+{25014}{25095}Oh mon Dieu. | Ça nous laisse seulement...
+{25129}{25196}4 millions.
+{25199}{25246}On peut survivre avec ça, | non ?
+{25249}{25306}Oh oui.
+{25309}{25393}On peut vivre | avec beaucoup moins que ça.
+{25395}{25491}Prie pour que personne d'autre | appelle pour partager le reste.
+{25628}{25661}Quoi ?
+{25750}{25815}Charlie, tu m'inquiètes. | Qu'est-ce qu'il y a ?
+{25966}{25999}Chérie...
+{26117}{26179}j'ai quelque chose | à te dire.
+{26277}{26335}Tu ne la connais | ni d'Eve ni d'Adam !
+{26337}{26395}Je lui devais un pourboire.
+{26397}{26464}Un pourboire ? | De deux millions de dollars ?
+{26464}{26539}- Tu plaisantes ! | - Je ne pensais pas qu'on gagnerait.
+{26580}{26649}Mais on a gagné | comme je te l'avais prédit !
+{26649}{26716}Mais avec ton numéro | on n'aurait pas gagné.
+{26719}{26779}Ne dis pas ça Charlie...
+{26781}{26846}parce qu'on sait tous les deux | que dans mon rêve...
+{26848}{26908}mon père décédé m'est apparu | dans la machine à sous...
+{26908}{26997}avec des dollars à la place des yeux | et un 4 à la place des pupilles !
+{26997}{27054}Tu veux ternir | sa mémoire ?
+{27057}{27126}C'est ridicule. | Ton père était cinglé.
+{27126}{27184}Il faisait des incantations | avec des poulets.
+{27186}{27260}Il veut que nous gardions | les 4 millions.
+{27263}{27332}Tu ne crois pas que s'il voulait | qu'on en ait la moitié...
+{27332}{27404}il y aurait un 2 à la place | du 4 dans ses pupilles ?
+{27524}{27567}Ce n'est pas correct.
+{27632}{27682}Pas correct ?
+{27682}{27730}Qu'est-ce que tu racontes ?
+{27730}{27826}Toute ta vie tu as agi | correctement avec tout le monde.
+{27829}{27910}Cette fois-ci, s'il te plaît, | fais ça pour nous.
+{27968}{28018}Je lui ai donné ma parole.
+{28080}{28133}Chéri, tu m'aimes ?
+{28136}{28181}Bien sûr que je t'aime.
+{28236}{28263}Alors balance-la.
+{28265}{28318}Balance-la et profite | un peu de la vie.
+{28320}{28380}Fais-le pour moi.
+{28469}{28514}Qu'est-ce que tu ferais | à ma place ?
+{28517}{28586}J'achèterais | l'équipe de basket.
+{28589}{28651}Je parle de la fille.
+{28653}{28725}Je l'emmènerais | me voir jouer.
+{28725}{28833}Je ferais mes débuts | à l'avant.
+{28836}{28929}Tu penses comme Muriel que c'est | fou de lui donner la moitié ?
+{28932}{29011}Si je peux pas avoir l'équipe | je voudrais des billets pour...
+{29011}{29075}ce genre de match où on est assis | entre Jack Nicholson et Spike Lee...
+{29075}{29131}et où on se fait servir | à déjeuner.
+{29152}{29181}J'ai donné ma parole.
+{29183}{29282}Et une stéréo que tu peux entendre | de tous les coins de ta maison.
+{29284}{29330}Tu vois, comme ça...
+{29332}{29390}t'as pas besoin | d'une stéréo portable.
+{29390}{29452}Je pourrais lui dire | que j'ai gagné 5000 dollars
+{29454}{29519}Ouais, tu pourrais. | Qu'est-ce qu'on disait ?
+{29521}{29567}Des billets pour le match....
+{29569}{29629}une stéréo, | une Mazda GL6.
+{29629}{29711}Je ne peux pas. | Je ne peux pas mentir comme ça.
+{29711}{29776}Faire un tour en bateau. | J'ai jamais fait ça de ma vie.
+{29778}{29824}Tu m'écoutes ?
+{29850}{29915}- Tu feras le bon choix. | - C'est à dire ?
+{29951}{30006}J'en sais rien. | C'est à toi de décider.
+{30200}{30303}On a un sandwich au thon, un œuf | brouillé et un toast bien grillé.
+{30305}{30356}Un thé au citron. | Le sucre est sur la table.
+{30358}{30406}- Tout va bien ? | - Ouais. Merci.
+{30502}{30569}- Bonjour. | - Vous êtes de retour !
+{30572}{30632}- Je vous l'avais dit. | - L'omelette aux oignons est prête !
+{30632}{30672}- Un café ? | - Non, merci.
+{30675}{30720}En fait je veux seulement...
+{30723}{30780}Je m'excuse pour hier. | J'ai été très désagréable.
+{30783}{30876}J'ai jamais eu une journée | aussi horrible.
+{30878}{30974}- Allez. Réveille-toi ! | - Il est impossible aujourd'hui.
+{30974}{31061}- Yvonne plane complètement. | - Arrêtez de faire la conversation !
+{31063}{31135}Ne partez pas. Je veux | vous raconter ça en détails.
+{31166}{31221}Une omelette aux oignons | pour Walter.
+{31224}{31322}Pour Timothy, une bouillie | d'avoine comme la faisait sa maman.
+{31322}{31389}Ma mère n'a jamais fait | de bouillie d'avoine de sa vie.
+{31392}{31456}Ma mère n'a jamais cuisiné | de sa vie.
+{31459}{31499}Elle savait faire | les Bloody Mary.
+{31502}{31579}- Les White Russian. | - Elle avait une super personnalité.
+{31598}{31631}Comme Imelda Marcos.
+{31651}{31703}Elle a mis a monde | un garçon formidable.
+{31739}{31782}Vous êtes quelqu'un de bien, | vous savez ?
+{31782}{31818}Bon appétit.
+{31917}{31993}- Il l'a attrapé ? | - Oui. Il y a deux ans.
+{31996}{32063}Ils viennent ici | deux fois par semaine.
+{32063}{32130}Il va plus mal | dernièrement.
+{32132}{32207}Il doit constamment | aller à l'hôpital.
+{32207}{32264}On vit dans un drôle | de monde...
+{32267}{32315}Ça vous fait apprécier | chaque instant...
+{32317}{32367}sans être mesquin | ou rancunier.
+{32370}{32423}Je sais exactement | ce que vous voulez dire.
+{32497}{32545}Quand on parle du loup...
+{32629}{32720}J'ai devant moi une addition | de 9,53 dollars.
+{32722}{32775}Mais ce que je ne vois pas | ce sont les 9,53 dollars.
+{32777}{32842}Il est allé chercher | son portefeuille.
+{32842}{32892}Ne les laissez pas sortir | d'ici sans payer !
+{32895}{32931}Vous vous croyez | à la soupe populaire ?
+{32931}{32988}Je suis désolée. | J'ai fait une erreur.
+{32988}{33056}Je vous le fais pas dire | ma jolie. Et les 9,53 dollars ?
+{33056}{33147}Je les déduirai de votre salaire. | Allez me chercher un café.
+{33557}{33605}Tu permets.
+{33782}{33818}Régalez-vous
+{33947}{33988}Ça c'est du café.
+{33988}{34043}Que désirez-vous ?
+{34079}{34170}- Elles sont juste... | - Incroyable mais vrai.
+{34170}{34245}Nous n'avons plus de melon | et le pamplemousse est desséché.
+{34247}{34293}Non, je n'ai pas faim.
+{34295}{34372}En fait j'ai quelque chose | pour vous.
+{34444}{34482}Pour moi ?
+{34484}{34540}C'est rien du tout.
+{34664}{34707}Vous permettez ?
+{34729}{34839}C'est l'une de ces petites chaînes | qu'on attache à ses lunettes...
+{34842}{34899}pour les faire pendre | à son cou.
+{34918}{34971}Comme ça vous saurez | toujours...
+{35000}{35029}où elles sont.
+{35197}{35242}C'est....
+{35269}{35316}le plus beau cadeau | qu'on m'ait jamais fait.
+{35348}{35374}J'espère que non.
+{35417}{35465}Presque.
+{35468}{35523}Je peux vous apporter | quelque chose, un café ?
+{35525}{35643}Un déca s'il vous plaît. | Mon cœur a eu assez d'émotions.
+{35664}{35700}Et un déca !
+{35779}{35842}Alors vous avez eu | de la malchance ?
+{35880}{35925}Une malchance incroyable.
+{35928}{36021}Quand j'avais 11 ans mon chien | est mort de la maladie de Carré.
+{36024}{36117}Je ne sais toujours pas | ce que ça veut dire.
+{36117}{36228}J'ai épousé l'homme que je n'aurais | vraiment jamais dû épouser.
+{36230}{36285}Vous comprenez ?
+{36285}{36340}Et maintenant je ne peux pas | me permettre de divorcer.
+{36343}{36388}Hier mis à part...
+{36391}{36431}je suis habituée | à ma malchance.
+{36434}{36489}Mais hier...
+{36491}{36566}j'ai réussi à être en faillite | avant même d'aller travailler...
+{36568}{36606}c'est...
+{36633}{36671}C'est pour ça | que j'étais si désagréable.
+{36729}{36757}Vous êtes en faillite ?
+{36781}{36815}Oui. Regarde !
+{36815}{36873}- Le policier me l'a donnée. | - Comme c'est gentil.
+{36875}{36901}- Attendez. | - Quoi ?
+{36935}{36966}Vous vous rappelez | de notre marché.
+{36997}{37031}Hein ?
+{37067}{37124}Un double pourboire ou la moitié | de la somme du numéro gagnant.
+{37211}{37263}Oh, ce marché-là.
+{37266}{37318}Et si vous choisissiez ?
+{37318}{37366}Option numéro 1: | Un double pourboire.
+{37366}{37438}Option numéro 2: La moitié | de la somme du numéro gagnant.
+{37441}{37513}Vous voulez que je choisisse ? | D'accord.
+{37541}{37597}Je choisis la deuxième option.
+{37599}{37690}La moitié du billet. | Déboursez.
+{37721}{37779}- Vous êtes sûre ? | - Absolument.
+{38004}{38043}J'espérais | que vous diriez ça.
+{38043}{38110}Ça ne m'étonne pas. Vous aurez | plus de chance la prochaine fois !
+{38112}{38208}En fait,| on a eu beaucoup de chance.
+{38210}{38294}- Vous avez gagné quelque chose ? | - On a gagné quelque chose.
+{38297}{38378}Bon. On a gagné quelque chose ? | Combien on a gagné ?
+{38414}{38462}4 millions de dollars.
+{38620}{38673}- Pourquoi vous me faites marcher ? | - Quoi ?
+{38676}{38757}- C'est une mauvaise plaisanterie. | - Ce n'est pas une plaisanterie.
+{38759}{38803}- Ce n'est pas une plaisanterie ? | - Non.
+{38839}{38903}Vous voulez dire | que vous avez vraiment...
+{38906}{38963}- Vous croyez que j'ai inventé ça ? | - Oui, parfaitement !
+{38963}{39006}Je n'invente rien. | On a gagné.
+{39033}{39093}La loterie ? | La grande loterie ?
+{39095}{39148}La loterie ? | 4 millions de dollars.
+{39150}{39201}Notre part est de 4 millions. | Aux nouvelles d'hier soir.
+{39203}{39280}On aurait dû avoir une plus grosse | part sans une équipe de bowling...
+{39282}{39376}d'Albany qui a pris 9 millions | mais on a gagné.
+{39376}{39433}Et vous dites | que vous comptez...
+{39436}{39496}partager avec moi ?
+{39563}{39606}J'ai donné ma parole.
+{39723}{39752}Oh mon Dieu.
+{39841}{39886}- Ça va ? | - Oh !
+{39889}{39925}Oh mon Dieu !
+{40186}{40232}C'est pas croyable !
+{40234}{40301}Maintenant je sais pourquoi | j'ai eu tant de malheurs.
+{40332}{40447}C'est tellement prodigieux | et phénoménal ce qui m'arrive !
+{40450}{40503}J'ai eu une telle malchance | jusqu'à maintenant...
+{40505}{40541}et tout le monde | s'en fichait pas mal !
+{40541}{40591}Qui veut de la glace | sur sa tarte ?
+{40591}{40661}Qui veut de la tarte ?
+{40685}{40735}Merci !
+{41112}{41167}Une minute.
+{41167}{41219}Je ne peux pas | accepter cet argent.
+{41258}{41313}Je ne peux pas l'accepter.
+{41315}{41375}J'en ai terriblement envie.
+{41378}{41471}J'en ai envie mais mon côté | névrosé me fait penser que...
+{41471}{41529}- Acceptez- le. | - Comment je peux l'accepter ?
+{41531}{41572}Je veux vous le donner
+{41625}{41653}De tout mon cœur.
+{41677}{41756}- Yvonne, prends-le. | - Prenez-le !
+{41898}{42001}Muriel, 2 millions de dollars | c'est encore une énorme somme.
+{42003}{42114}On devrait t'enfermer dans un asile | pour le restant de tes jours !
+{42114}{42224}On devrait te passer la camisole | de force et t'emmener dans l'un...
+{42226}{42303}de ces asiles de dingues dont | on nous parle des fois à la télé.
+{42330}{42401}Ecoute mon cœur, | si tu la voyais tu comprendrais.
+{42404}{42469}Cette fille a des clients | qui ont le SIDA...
+{42469}{42517}et elle s'en occupe | comme un ange.
+{42517}{42567}Elle a un patron | qui est un vrai cauchemar.
+{42569}{42660}Pourquoi tu lui donnes la moitié ? | Pourquoi tu lui donnes pas tout ?
+{42663}{42742}- Vous me marchez sur le pied ! | - C'est la bonne décision.
+{42744}{42826}Toute la ville va t'admirer. | Tout le monde saura qui tu es.
+{42828}{42874}Tu seras une célébrité.
+{42907}{42982}Je pourrai peut-être | faire des publicités.
+{42984}{43010}Absolument !
+{43013}{43082}Muriel Lang, | "la femme au cœur d'or".
+{43085}{43178}Tu pourras faire des pubs pour | des shampoings, des lotions...
+{43178}{43221}pour les cheveux, du vernis | à ongles, du dissolvant.
+{43265}{43305}Muriel Lang...
+{43308}{43375}la femme | au cœur d'or.
+{43375}{43425}Il vaudrait mieux pour toi | que j'en retire quelque chose.
+{43507}{43562}On vient | ramasser les dollars !
+{43634}{43684}Je veux mon chèque.
+{43687}{43785}Les gens les plus veinards de | New York sont à Manhattan ce soir...
+{43785}{43905}pour toucher leur part | du gros lot de 64 millions.
+{43948}{44017}Vous aviez promis à Mlle Biasi | que vous partageriez avec elle ?
+{44020}{44097}- Oui. C'était mon pourboire. | - Votre pourboire ?
+{44097}{44180}On a un flic qui a donné à une | serveuse un pourboire de 2 millions !
+{44183}{44264}On va ouvrir notre propre bowling... | A Valley Park.
+{44264}{44310}- Qu'est-ce que j'ai dit ? | - Tu l'as insulté.
+{44310}{44363}La prochaine fois | c'est toi qui parleras.
+{44365}{44442}- Une maisonnette à la campagne. | - Excusez-moi.
+{44444}{44478}Par ici !
+{44566}{44617}- Par ici ! | - Excusez-moi.
+{44636}{44718}- Mme Lang, vous vous sentez comment ? | - Je suis Mme Lang.
+{44718}{44754}Oh, Mme Lang.
+{44754}{44842}Vous êtes Mme Lang. | Mon Dieu. Tenez, c'est pour vous.
+{44878}{44945}Vous êtes incroyable ! Donner | 2 millions à une inconnue !
+{44962}{45012}Vous ne savez pas | à quel point.
+{45015}{45120}Ça vous a contrariée que votre mari | partage 4 millions avec une inconnue ?
+{45120}{45163}Pas du tout.
+{45163}{45228}Dans le salon de beauté | où je travaille, on m'appelle...
+{45228}{45303}Muriel Lang, | la femme au cœur d'or.
+{45324}{45427}S'il y a parmi vous des représentants | de Denorex j'utilise vos produits...
+{45430}{45511}parce que l'air est très sec | dans mon appartement...
+{45514}{45576}Nous devons prendre une photo | de groupe des gagnants.
+{45578}{45636}Quel effet ça fait d'avoir | une femme aussi merveilleuse ?
+{45638}{45708}- Qu'est-ce que vous allez faire de cet argent ? | - Acheter une voiture ? Un appartement ?
+{45710}{45799}Je n'y ai pas encore pensé. | C'est si soudain vous savez.
+{45801}{45861}J'ai donné | ma parole d'honneur.
+{45864}{45955}Muriel Lang, | la femme au cœur d'or.
+{45957}{46015}Oh, j'étais actrice.
+{46017}{46082}Pendant très peu de temps | mais ça n'a pas marché.
+{46132}{46240}Denorex vous débarrasse | de toutes vos pellicules.
+{46274}{46322}M.Lang, vous comptez | rester dans la police ?
+{46324}{46379}Je vais acheter la police.
+{46417}{46465}Vous m'appelez déjà | par mon prénom !
+{46492}{46540}C'est le plus gros pourboire | que vous ayez jamais eu ?
+{46542}{46595}Définitivement.
+{46660}{46708}Félicitations.
+{46741}{46787}- Vous aviez déjà gagné de l'argent ? | - Jamais.
+{46789}{46859}- Jamais. | - Souriez !
+{46995}{47055}"Un flic donne à une serveuse | un pourboire de 2 millions !"
+{47580}{47657}"Harry Winston, Inc. | Les joyaux du monde"
+{47657}{47734}Ecoute, vraiment | elle n'a aucun goût.
+{47736}{47808}Son ensemble sortait | tout droit des années 60.
+{47810}{47885}Non, je trouve | qu'elle était bien.
+{47887}{47971}Elle n'est pas tape-à-l'œil. | C'est juste une serveuse.
+{47974}{48074}La beauté c'est mon rayon. | Tu peux me croire, d'accord ?
+{48077}{48137}Oh mon Dieu ! | C'est Bendels !
+{48139}{48223}Chéri, comme ça fait du bien | de venir ici avec de l'argent !
+{48264}{48321}"Je suis aveugle et ancien combattant" | Que Dieu vous protège.
+{48324}{48407}Tu vas t'arrêter de le distribuer | à toutes les cloches de la rue ?
+{48508}{48563}Que Dieu vous protège.
+{48618}{48688}- Maintenant je suis heureuse. | - Tant mieux mon cœur.
+{48810}{48844}Je suis en paix | avec moi-même.
+{48844}{48889}Tant mieux mon cœur.
+{48933}{49019}Passons en vitesse à Tiffany | et je vais ressusciter.
+{49019}{49108}La fourrure est aux animaux ! | Pas aux gens !
+{49268}{49338}"Félicitaions | à Charlie et Muriel"
+{50242}{50287}Excusez-moi.
+{51198}{51270}Ici Eleanor Smith | de chez Mastercard.
+{51273}{51359}Nous vous appelons pour vous dire | que vous avez à présent accès...
+{51359}{51414}à un crédit | de 2 millions de dollars.
+{51416}{51520}Appelez-moi si vous le | voulez bien au 1-800-555-2000.
+{51558}{51668}- Je suis morte et j'entre au paradis. | - Yvonne, félicitations.
+{51671}{51767}Je voudrais que tu me donnes | une fessée avec une brosse en fer.
+{51769}{51829}Oh mon Dieu.
+{51831}{51877}C'est dégoûtant.
+{51973}{52016}Il faut que je change | mon numéro.
+{52016}{52100}Vous êtes bien chez Yvonne. | Laissez un message après le bip.
+{52131}{52203}Allô ? Mon cœur ?
+{52277}{52337}Je parie que tu es là.
+{52380}{52452}Je sais que tu m'en veux pour | avoir nettoyé notre compte...
+{52455}{52500}mais je peux tout t'expliquer.
+{52503}{52572}Reste hors de ma vie Eddie. | Je parle sérieusement.
+{52575}{52634}Tu es là ! | Bonjour mon ange !
+{52637}{52733}Tu appelles parce que tu veux | une partie de l'argent de la loterie.
+{52750}{52826}Quoi ? Tu as gagné | quelque chose ?
+{52829}{52874}Va au diable.
+{52877}{52925}Non mon ange. | Je suis sérieux.
+{52927}{53023}J'étais en voyage. | Tu as gagné à la loterie ?
+{53025}{53052}C'est fabuleux.
+{53078}{53124}Beaucoup d'argent ?
+{53126}{53160}Eh bien...
+{53186}{53227}pas mal.
+{53229}{53311}Super mon ange. Personne | ne le mérite autant que toi.
+{53342}{53385}Je te dis ça...
+{53385}{53450}très sincèrement.
+{53550}{53615}Ne me téléphone plus jamais | s'il te plaît.
+{53814}{53867}- Tu prends ta retraite quand ? | - Je ne prends pas ma retraite.
+{53869}{53956}- Je prends pas ma retraite. Arrête. | - Où est passé ton sens de l'humour ?
+{53989}{54054}Tu ferais quoi à ma place ? | Un type t'appelle à 3 heures du matin.
+{54056}{54123}Il te dit qu'il a un pistolet | braqué sur sa tempe.
+{54126}{54191}Si tu lui donnes pas 1000 dollars | il va appuyer sur la gâchette.
+{54191}{54291}S'il m'appelait à 3 heures du matin | je lui dirais de ne pas hésiter.
+{54294}{54354}- Ça s'est vraiment passé ? | - La nuit dernière.
+{54356}{54428}Cette histoire de loterie, | d'un jour à l'autre c'est comme...
+{54430}{54466}si on devenait | quelqu'un d'autre.
+{54469}{54529}- C'est bizarre. | - Tu me fais de la peine.
+{54529}{54613}Je ne me plains pas. Mais | il faut un moment pour s'y faire.
+{54723}{54785}Sun, comment va la vie | dans votre mystérieuse Asie ?
+{54788}{54864}- On est très occupés. | - Pas de louche augmentation des prix ?
+{54867}{54929}- Oh non. Jamais. | - Bien.
+{54931}{54996}Deux cafés... | Un normal, un léger.
+{55234}{55301}- Comment va votre femme ? | - Elle a pris froid.
+{55303}{55351}Désolé de l'apprendre.
+{55730}{55795}C'est offert par la maison.
+{55797}{55835}- Merci. | - Merci.
+{55838}{55900}C'est très gentil à vous. | A bientôt.
+{55986}{56044}Tout droit | et à droite.
+{56080}{56149}Notre Coréen préféré est | en train de se faire dévaliser.
+{56152}{56200}Tu plaisantes ?
+{56202}{56296}- Il dit que sa femme est malade. | - Elle bosserait sur son lit de mort.
+{56298}{56372}- Et ensuite il m'offre les cafés. | - Merde !
+{56375}{56420}Il se fait dévaliser. | Comment on va s'y prendre ?
+{56423}{56483}Reste là pour qu'ils te voient. | Je vais passer par la cave.
+{56483}{56543}- Ne joue pas les héros. | - T'en fais pas. Appelle du renfort.
+{56579}{56624}Plus vite !
+{56684}{56730}- Personne ne bouge ! | - Allez !
+{56730}{56775}Une cartouche de Virginia Slims.
+{57307}{57372}Il y a un flic | assis dehors.
+{57372}{57432}T'occupe pas du flic.
+{57497}{57533}Qu'est-ce que c'est ?
+{57583}{57626}Par ici.
+{57629}{57679}Surveille-les !
+{57729}{57773}Allez. Allons-y !
+{57773}{57813}Allez vieux. Avance !
+{57945}{57993}- C'est quoi là derrière ? | - Rien.
+{57993}{58020}Ça ne va nulle part.
+{58022}{58058}Et cette porte ?
+{58060}{58132}C'est la cave. Elle est vide. | Il n'y a que des rats.
+{58132}{58190}- Rats ? | - Des gros.
+{58192}{58243}Je déteste les rats.
+{58245}{58298}Pourquoi tu nettoies | pas ta boutique ?
+{58403}{58475}Viens. | Personne ne bouge !
+{58475}{58511}Personne !
+{58571}{58633}Qu'est-ce qu'il mijote | ce flic ?
+{58633}{58732}Il a rien de mieux à faire | que de mettre des contraventions ?
+{58732}{58780}Avec le taux de criminalité | qu'il y a dans cette ville !
+{58818}{58847}Qu'est-ce qu'on fait ?
+{58847}{58883}On attend...
+{58926}{58991}qu'il parte.
+{58991}{59048}Et si jamais il partait pas ?
+{59051}{59096}Il va partir.
+{59096}{59144}Maintenant ferme-la !
+{59389}{59449}- Qu'est-ce qu'il lui arrive ? | - Elle a une crise cardiaque !
+{59492}{59547}- Ta gueule ! | - Ferme-la, vieux.
+{59592}{59624}Ta gueule !
+{59626}{59691}- Appelez un médecin ! | - C'est moi le médecin ici !
+{59693}{59743}Il arrête pas de parler.
+{59923}{59947}Merde.
+{60153}{60206}Lève-toi Charlie. | Comment tu te sens ?
+{60245}{60331}Va à l'intérieur ! | Il y en a un autre à l'intérieur !
+{60372}{60434}Charlie, lève-toi. | Ça va vieux ?
+{60491}{60595}- Pourquoi t'as pas tué ce connard ? | - Y avaient trop de clients.
+{60597}{60693}- Ça va vieux ? | - Ouais, très bien.
+{60892}{60935}On t'a tiré dessus vieux !
+{60937}{61024}"Le flic du gros lot pince des voleurs" | Son héroïsme a sauvé des vies...
+{61026}{61124}mais il ne l'a pas épargné...
+{61124}{61216}et encore moins | les criminels qu'il a arrêtés.
+{61216}{61338}L'officier de police Charles Lang | reçoit cette citation pour son courage.
+{61338}{61386}Je lui souhaite | un prompt rétablissement.
+{61386}{61431}M.Lang.
+{61463}{61520}Merci infiniment.
+{61546}{61575}Merci.
+{61599}{61686}Cette balle doit être un signe | du destin pour me mettre au repos.
+{61688}{61729}C'est ce que dit ma femme.
+{61779}{61877}J'adore mon métier de flic | avec ou sans loterie.
+{61877}{61959}Pour moi c'est le boulot | le plus important du monde.
+{61959}{62048}Je fais donc une donation | de 10000 dollars...
+{62048}{62127}à la fondation pour les veuves | d'agents de police.
+{62155}{62194}Merci beaucoup.
+{62304}{62386}Tu es trop jeune pour traîner | ici comme un vieillard.
+{62386}{62472}Je suis blessé. T'as pas lu les | journaux ? "Le flic est un héros" ?
+{62474}{62541}Si t'es un héros joue au | base-ball avec une seule main.
+{62541}{62606}Si je pouvais | je le ferais.
+{62609}{62664}- A bientôt. | - A plus tard.
+{63143}{63203}- Bonsoir monsieur. | - Bonsoir.
+{63323}{63407}- On se croirait à Beyrouth. | - C'est super, hein ?
+{63409}{63501}Chéri, cet immeuble sera mis | en co-propriété l'an prochain.
+{63503}{63563}On aura un appartement de six pièces | prêt à être vendu.
+{63563}{63616}- C'est M. Patel qui m'a dit ça. | - Qui ?
+{63616}{63664}M. Patel. | Je suis votre comptable.
+{63664}{63747}Enchanté. Toutes mes félicitations | pour votre nouvelle prospérité.
+{63750}{63791}Merci.
+{63791}{63899}Il dit qu'on peut faire un bénéfice | de 100000 sur la vente de l'appart.
+{63901}{63927}Minimum.
+{63930}{64026}Et on évite les impôts si on déménage | dans le New Jersey dans l'année.
+{64028}{64121}Mais je ne veux pas vivre dans | le New Jersey. Je veux rester ici.
+{64124}{64169}Pourquoi faire ? | Jouer à la balle ?
+{64220}{64287}C'est l'architecte. | Excusez-moi.
+{64318}{64397}- Où est ma chaise ? | - Au Secours Catholique.
+{64400}{64472}Mais tu savais | que j'adorais cette chaise.
+{64474}{64508}Tu aurais pu | me demander mon avis !
+{64558}{64639}Pourquoi faire ? Tu adores | donner ce qui t'appartient.
+{64683}{64730}Ah les femmes.
+{64733}{64805}Elles sont impossibles à vivre | et on ne peux pas s'en passer.
+{64838}{64879}Quoi ?
+{65054}{65109}Il y a eu un autre casse | aux "Antiquités de Gray".
+{65109}{65157}- Encore un ? | - Ouais.
+{65160}{65258}Deux gars sont sortis avec | une commode Biedermeier.
+{65260}{65354}Gray m'a dit "Comment les noirs | savent-ils ce que ça vaut ?"
+{65356}{65416}- Il t'a dit ça ? | - Ouais.
+{65419}{65467}- Il m'a dit ça, à moi ! | - Qu'est-ce que tu as dit ?
+{65469}{65594}"Ils doivent être abonnés au journal | des antiquaires afro-américains".
+{65596}{65663}Il m'a mis les nerfs en boule.
+{65735}{65833}- Tu me manques vieux. | - J'suis en train de devenir fou.
+{65833}{65886}C'est un vrai cauchemar.
+{65889}{65948}Ma maison est une épave, | je n'ai rien à faire.
+{65948}{66008}Tu sais, c'est ça | la retraite.
+{66064}{66092}Regardez-moi ça.
+{66092}{66183}- "Chez Yvonne" | - Elle l'a acheté il y a deux semaines.
+{66186}{66227}Je suis content pour elle.
+{66229}{66299}- Vous prendrez autre chose ? | - Un thé s'il vous plaît.
+{66301}{66351}D'accord.
+{66354}{66409}- La table 8 veut un thé. | - D'accord.
+{66505}{66545}"Table Charlie Lang" | La soupe est bonne ?
+{66545}{66641}- Pas assez de basilic. | - Vous plaisantez.
+{66644}{66709}Je vais voir | ce que je peux faire.
+{66711}{66778}Entre. Va lui dire bonjour.
+{66780}{66850}Non. Elle est occupée.
+{66852}{66936}Allez vieux. Je sais que | tu meurs d'envie d'y aller.
+{66977}{67027}Non, je dois rentrer chez moi.
+{67030}{67083}- Oh, j'ai quelque chose pour toi. | - Quoi ?
+{67085}{67162}- Des billets pour les Knicks ! | - Oh merde !
+{67164}{67265}- Tu seras pas assis au premier rang. | - Des billets pour les Knicks !
+{67267}{67325}Faut vraiment être quelqu'un | pour être au premier rang.
+{67327}{67394}T'inquiète pas pour ça. | Faut que je t'embrasse !
+{67394}{67459}- Je dois rentrer. | - Des billets pour les Knicks vieux !
+{67461}{67507}- Je suis content qu'elle aille bien. | - Place numéro 7.
+{67660}{67725}"Bienvenue aux Millionnaires" | C'est nous. Merci.
+{67783}{67862}Pourquoi tu as apporté ce manteau ? | Il fait chaud ce soir.
+{67864}{67946}J'aurai peut-être un peu froid | plus tard. Tiens-le-moi. Bonsoir !
+{67946}{68032}"Loterie du club | des millionnaires de New York"
+{68205}{68279}- Il y en a du monde ici. | - C'est génial, hein ?
+{68281}{68384}Charlie, j'ai l'impression | d'être à la soirée des Oscars.
+{68387}{68437}- Merci. | - Je vais me promener un peu.
+{68437}{68485}Très bien mon cœur.
+{68773}{68830}- Votre rouge à lèvres. | - Oh merci.
+{68886}{68993}J'ai gagné 55 millions et j'ai | accru mon revenu net de 40%...
+{68993}{69070}grâce à toutes sortes | de fonds mutuels bien choisis.
+{69070}{69135}De 40% ?
+{69135}{69190}Sans prendre pratiquement | aucun risque.
+{69190}{69324}Les emprunts d'état, Biotech, | mais l'or... C'est un désastre.
+{69324}{69375}- Laissez l'or de côté. | - Entendu.
+{69377}{69442}Qu'est-ce que vous pensez | des bons du trésor ?
+{69444}{69519}C'est pour | les vieilles dames...
+{69521}{69583}et vous êtes loin | d'en être une.
+{69586}{69634}Vous êtes un vrai tigre !

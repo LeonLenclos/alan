@@ -1,0 +1,509 @@
+{1072}{1122}Il veut dire Océan de Sagesse
+{1127}{1187}Dans une Asie ravagée par la guerre
+{1192}{1235}les Tibétains pratiquent|la non-violence
+{1240}{1277}depuis plus de mille ans.
+{1282}{1322}Le dalaï-lama est leur chef.
+{1330}{1417}Il est la manifestation humaine|du Bouddha de la compassion.
+{1422}{1490}En 1933, le 13ème dalaï-lama mourut.
+{1495}{1572}Quatre ans plus tard, un saint homme|déguisé en serviteur
+{1577}{1647}se retrouva|dans un coin reculé du Tibet.
+{1652}{1707}Il recherchait le 14ème dalai-lama.
+{1712}{1757}Sa quête touchait à sa fin.
+{1762}{1807}Un bouddha s'était réincarné.
+{3470}{3492}Raconte.
+{3497}{3522}Encore ?
+{3527}{3542}Raconte.
+{3547}{3612}Ton père avait été très malade.
+{3617}{3702}On croyait qu'il mourrait.|Certaines de nos bêtes étaient mortes.
+{3725}{3742}Une vache ?
+{3747}{3782}Oui, une vache.
+{3800}{3860}Un cheval. Un yak
+{3870}{3900}et des poulets.
+{3915}{3942}Depuis quatre ans
+{3950}{4027}nos récoltes et celles des autres|étaient mauvaises.
+{4065}{4145}Puis une nuit|j'ai su que tu arrivais
+{4150}{4220}et à l'aube tu es né.
+{4230}{4250}Raconte.
+{4255}{4292}Tu n'as pas pleuré.
+{4297}{4360}- Pas pleuré ?|- Non, tu n'as pas pleuré.
+{4400}{4477}Ce jour-là|ton père s'est senti mieux.
+{4490}{4560}Il t'a nommé Lhamo,|"Le Protecteur".
+{4565}{4592}Je sais.
+{4597}{4667}Dors maintenant Lhamo, dors.
+{7195}{7212}Moi !
+{7252}{7272}Ça suffit.
+{7315}{7340}Moi, là !
+{7350}{7410}C'est moi le père, ta place est là.
+{7482}{7512}Ma place !
+{7620}{7665}Où est le mal ?|Laisse-le faire.
+{7707}{7750}Il sera mal élevé.
+{7757}{7785}Toi seule le sers
+{7797}{7862}et as le droit de toucher|sa nourriture.
+{7875}{7912}C'est pareil pour tout.
+{7925}{7955}Où est le mal ?
+{7960}{7992}Il se prend pour le roi.
+{8092}{8115}Raconte mon histoire.
+{8152}{8172}Encore.
+{8180}{8207}Encore !
+{8260}{8307}Bon, c'est moi qui raconte.
+{8315}{8397}Tu es né à l'aube.|Tout était silencieux.
+{8402}{8432}J'ai aidé maman.
+{8437}{8480}Elle m'avait appelée.
+{8485}{8552}Tu es né. Tu n'as pas pleuré, jamais.
+{8557}{8620}Ça m'a surprise.|Tu as bu l'eau sucrée.
+{8630}{8657}Tu faisais caca partout.
+{8765}{8782}Arrêtez.
+{8852}{8912}Je te raccompagne au monastère|Rimpotché.
+{8920}{8945}Merci père.
+{8960}{9027}Il y avait des corbeaux.|Ça me revient.
+{9045}{9065}Quand ?
+{9082}{9137}Quand il est né.|Tu te rappelles ?
+{9155}{9182}Tu étais malade.
+{9187}{9245}Tu as dit "il s'appellera Lhamo"
+{9250}{9285}et tu es allé prier.
+{9290}{9357}J'ai dormi.|Plus tard je suis sortie.
+{9415}{9475}Deux corbeaux étaient venus|nicher sur le toit
+{9480}{9520}comme s'ils venaient pour Lhamo.
+{9552}{9592}Comme pour le dalai-lama.
+{9797}{9825}Pipi !
+{9932}{9972}Arrête maintenant..
+{12192}{12235}Nous allons à Lhassa.
+{12240}{12290}Entrez, il fait froid.
+{12687}{12742}Votre suite peut utiliser la cuisine.
+{13835}{13870}C'est à moi.
+{13967}{14042}Je te le donnerai|si tu sais qui je suis.
+{14067}{14092}Lama.
+{14202}{14220}A moi !
+{14500}{14560}Non Lhamo, rends-le.
+{14675}{14747}Pardon, il ne fait pas ça d'habitude.
+{15080}{15102}Lhassa.
+{15120}{15162}Il a toujours voulu y aller.
+{16392}{16437}Merci de te joindre à nous.
+{16530}{16567}Tu dis que c'est à toi.
+{16667}{16717}Quoi d'autre t'appartient ?
+{18092}{18142}Oui, c'est à toi.
+{19710}{19742}C'est à moi.
+{19752}{19787}A moi, à moi...
+{19865}{19892}Kundun.
+{20285}{20312}C'est à moi.
+{20390}{20425}J'en ai besoin.
+{20535}{20582}Je t'en donnerai une plus belle.
+{20845}{20897}Viens Lhamo, il faut partir.
+{21010}{21052}Tu dois être un grand lama.
+{21057}{21115}Un grand moine.|C'est une bonne chose.
+{21135}{21207}Ne crains rien.|Tu n'es pas le premier qu'on découvre
+{21230}{21280}et sûrement pas le dernier.
+{21357}{21442}Je veillerai toujours sur toi.|Tu seras un grand homme.
+{21480}{21505}Je sais.
+{21720}{21757}Qui t'a permis ?
+{23552}{23572}Régent Reting.
+{23580}{23672}Excellence,|le cortège de l'enfant approche.
+{24850}{24942}Ce n'est plus le bébé|que vous m'aviez chargé de trouver.
+{24957}{25027}Il est très fort, très curieux.
+{25045}{25140}Un peu effrayé. Il attend de|rencontrer celui qui l'a découvert.
+{25602}{25680}Nous allons vous raser la tête.|N'ayez pas peur.
+{25685}{25737}Venez, qu'on vous coupe les cheveux.
+{25742}{25770}Vous allez où ?|Revenez.
+{26002}{26027}Vous pourriez réciter ?
+{26052}{26100}Puissé-je être le médecin|et le remède,
+{26105}{26175}l'infirmière,|pour tous les malades du monde
+{26190}{26237}jusqu'à la guérison de tous.
+{26362}{26382}Vous vous rappellerez ?
+{26692}{26730}Puissé-je être le protecteur
+{26745}{26785}de ceux qui n'en ont pas.
+{26790}{26877}Puissé-je être un pont, un bateau,|un navire
+{26882}{26945}pour ceux qui souhaitent|traverser les eaux.
+{27067}{27102}Voilà des siècles,
+{27117}{27167}un enfant est né au Tibet.
+{27187}{27242}Il se nommait Gendendrub.
+{27257}{27302}Le soir de sa naissance
+{27310}{27365}des brigands ont attaqué sa maison,
+{27370}{27460}sa famille a du s'enfuir
+{27475}{27515}Ils ont caché l'enfant.
+{27535}{27585}Quand ils sont revenus
+{27590}{27637}le l'enfant vivait encore.
+{27652}{27720}Un couple de corbeaux|montait la garde.
+{27737}{27782}Il a été le premier.
+{27795}{27845}C'était Tchènrézi.
+{27860}{27907}Nous l'appelons Kundun.
+{29342}{29387}Je vous ai vu, j'ai eu une vision.
+{29432}{29497}Je suis Reting, votre régent.
+{29507}{29567}Je vous ai trouvé. Ça a été difficile.
+{29572}{29630}Mais vous m'aviez laissé des signes.
+{29637}{29737}J'espère que l'attente|n'a pas été trop longue Kundun.
+{30017}{30042}Vous avez choisi
+{30050}{30117}de revenir en cette vie|encore une fois.
+{30147}{30177}Vous resterez
+{30182}{30230}aussi longtemps que vous le pourrez
+{30247}{30307}puis... vous reviendrez encore.
+{30342}{30405}Vous renaîtrez comme àa
+{30410}{30485}aussi longtemps|que la vie continuera.
+{30500}{30557}Vous êtes ici pour aimer
+{30565}{30610}tous les êtres vivants.
+{30617}{30652}Aimez-les.
+{30670}{30700}Veillez sur eux.
+{30705}{30757}Ayez de la compassion pour eux.
+{30787}{30807}Aussi longtemps
+{30815}{30870}qu'un être vivant respirera
+{30882}{30922}où qu'il soit
+{30932}{30992}ce sera là que, par compassion,
+{30997}{31040}le Bouddha apparaîtra.
+{33582}{33630}Le Bouddha de la compassion.
+{33647}{33710}Joyau qui comble nos vœux.
+{33715}{33762}Le 14ème dalai-lama.
+{37305}{37347}Votre grand chambellan est ici.
+{37867}{37920}Votre Sainteté, je suis Phala
+{37925}{37947}votre grand chambellan.
+{37962}{38020}Tout entier à votre service.
+{38095}{38117}Le 5ème dalai-lama.
+{38275}{38300}Le 7ème dalai-lama.
+{38465}{38505}Le 13ème dalai-lama.
+{38590}{38617}Quand vous serez en âge
+{38645}{38670}vous serez gardien
+{38675}{38710}du grand Sceau.
+{38960}{39010}C'est de très bon augure.
+{40370}{40417}Je le déchire ?
+{40422}{40457}Regardez.
+{40820}{40847}A vous. Jouons.
+{40870}{40885}Puissance !
+{41005}{41057}Je les abats du haut de la montagne.
+{41065}{41107}Je suis plus courageux.
+{41115}{41140}J'ai plus d'hommes.
+{41175}{41257}Les miens sont plus malins.|J'ai tous les hommes.
+{41375}{41417}Aujourd'hui vous avez perdu.
+{41425}{41460}Demain vous gagnerez peut-être.
+{41485}{41522}Les choses changent.
+{42145}{42187}Reting est trop gourmand.
+{42192}{42272}Il exigera combien encore|pour avoir trouvé l'enfant ?
+{42277}{42347}C'est nous qui payons.|Sans compter.
+{42355}{42412}les présents à la famille|du dalai-lama.
+{42447}{42485}Regarde notre père.
+{42490}{42522}Nos bourses sont vides.
+{42527}{42560}Notre armée affaiblie.
+{42565}{42652}Le régent réclame|une trop forte récompense.
+{42657}{42707}Il veut nous tondre.
+{42712}{42760}Vous ne voudriez pas
+{42765}{42840}que Reting paye de sa poche|sa découverte.
+{42845}{42885}Il n'a pas sollicité sa charge.
+{42890}{42957}Il préférerait se retirer|dans son ermitage.
+{42970}{43007}Avec toutes ses femmes ?
+{43040}{43072}Le 13ème dalai-lama
+{43077}{43142}revit dans ce bel enfant.
+{43147}{43227}Il a osé renaître|à la frontière chinoise.
+{43235}{43267}Comme une écharpe
+{43275}{43340}qu'il aurait lancée jusqu'à l'Amdo.
+{43345}{43400}Une gifle pour la Chine.
+{43405}{43495}"Ici est le Tibet, ici je naîtrai"
+{43500}{43557}aux confins de notre pays, disant
+{43562}{43600}"Je suis chez moi au Tibet".
+{43907}{43967}Votre nouvelle demeure|vous convient ?
+{43975}{44027}Nous sommes comblés, merci.
+{45217}{45235}Maman.
+{45372}{45415}J'aime pas ici.
+{45542}{45602}C'est vieux et sombre.
+{45615}{45680}Vous vous plairez plus|au palais d'été.
+{45690}{45750}Il y a des jardins et des animaux,
+{45755}{45807}des biches et des chiens,
+{45822}{45877}des petits ours et des oiseaux,
+{45897}{45915}des paons.
+{45920}{45950}Des éléphants ?
+{45965}{46030}Non, mais une rivière et un lac.
+{46035}{46057}Des poissons ?
+{46072}{46100}Beaucoup de poissons.
+{46125}{46165}Qui c'est cette femme ?
+{46285}{46330}Penden Lhamo.
+{46375}{46430}Elle est tout spécialement chargée
+{46435}{46517}de vous protéger,|vous et le gouvernement du Tibet.
+{46577}{46627}Elle est pour de vrai ou inventée ?
+{46632}{46662}Pour de vrai.
+{48540}{48570}Les petits d'abord.
+{48580}{48667}Non. Les gros ne mangent pas.
+{48692}{48730}Laisse les petits finir.
+{49050}{49092}Votre Sainteté, je vous en prie.
+{49097}{49132}C'est ta place.
+{49227}{49310}Le dalaï-lama ne mange pas de porc.|Mauvais pour la tête.
+{49332}{49392}Va étudier ou j'aurai des ennuis.
+{49492}{49542}Le dalaï-lama ne mange pas d'œufs.
+{49965}{49995}Pardon.
+{50092}{50135}Le voilà enfin.
+{50172}{50200}Regardez, des œufs !
+{50205}{50242}- Pas d'œufs.|- Va-t'en !
+{50250}{50282}On ne parle pas comme ça.
+{50305}{50332}C'est moi le chef.
+{50340}{50362}Chef de qui ?
+{50405}{50475}Je peux empêcher|les moutons de mourir ?
+{50480}{50517}T'es riche, achète-les.
+{50522}{50562}Tu les achètes pour moi ?
+{50567}{50607}Vous les garderez où ?
+{50635}{50662}Ici. Toi et moi.
+{50707}{50740}Alors je vais les acheter.
+{50800}{50842}Tu as de beaux chevaux maintenant.
+{50885}{50922}Oui. Partez maintenant.
+{51002}{51040}J'ai pas envie.
+{51237}{51282}Mes dents sont là-dedans.
+{51332}{51385}Mes dents. Je me rappelle.
+{51445}{51485}Ouvre Pompo, ouvre.
+{51930}{51970}Mes vieilles dents.
+{52060}{52110}Elles étaient au 13ème dalai-lama.
+{52352}{52382}Votre Sainteté.
+{52610}{52667}Tathag Rimpotché, l'oracle m'a dit
+{52675}{52760}que si je ne quitte pas Lhassa|pour me vouer à la prière
+{52765}{52815}je mourrai brusquement.
+{52820}{52877}Faites-le au plus vite.
+{52897}{52932}Je dois démissionner ?
+{52937}{52970}Oui Excellence.
+{52992}{53057}Le peuple dit "Comment Reting
+{53062}{53147}"serait fidèle au dalai-lama|s'il a trahi ses vœux ?"
+{53225}{53282}Je regrette, c'est la vérité.
+{53315}{53350}Je vais démissionner.
+{53365}{53457}Mais le danger écarté|je redeviendrai régent.
+{53485}{53567}Nous ne cherchons que l'intérêt|de Sa Sainteté.
+{53980}{54072}Ling Rimpotché.|Trijang Rimpotché.
+{54127}{54182}Je me réfugie dans les trois joyaux,
+{54190}{54260}Bouddha, Dharma et Sangha,
+{54265}{54317}avant d'atteindre à l'éveil.
+{54330}{54365}Où est Reting ?
+{54407}{54442}Il est où aujourd'hui ?
+{54487}{54532}Il a quitté Lhassa.
+{54542}{54577}Pour aller où ?
+{54630}{54657}Faire retraite.
+{54687}{54722}Combien de temps ?
+{54760}{54785}Plusieurs années.
+{54850}{54887}Il a quitté votre service.
+{54897}{54952}Un autre régent sera nommé.
+{54992}{55015}Je ne comprends pas.
+{55030}{55072}Votre Sainteté est trop jeune.
+{55095}{55125}Pourquoi ?
+{55130}{55207}Je me réfugie dans le Bouddha,|le Dharma et le Sangha.
+{55260}{55307}Je veux que tu sois mon régent.
+{55350}{55387}C'est un ordre.
+{55490}{55547}Je me réfugie dans les trois joyaux,
+{55567}{55617}Bouddha, Darmha et Sangha
+{55625}{55692}avant d'atteindre à l'éveil.
+{56667}{56705}- Lobsang, j'y vais ?|- Vas-y !
+{57712}{57747}Ils les ont trouvés.
+{57752}{57780}Les cadeaux de l'Occident.
+{57785}{57847}Ça appartenait au 13ème dalai-lama.
+{59987}{60065}Considérons l'importance|des quatre Nobles Vérités.
+{60070}{60075}Quelles sont|les quatre Nobles Vérités ?
+{60130}{60217}Les quatre Nobles Vérités|enseignées par le Bouddha sont
+{60232}{60327}la vérité de la souffrance,|du pourquoi de la souffrance...
+{60335}{60432}Vous montrez trop d'orgueil.|Baissez la tête.
+{60482}{60522}Ling Rimpotché est votre professeur.
+{60537}{60580}Inclinez-vous devant lui.
+{60620}{60662}Les causes de la souffrance ?
+{60667}{60750}L'orgueil,|l'orgueil cause la souffrance.
+{60765}{60787}Vous récitez.
+{60792}{60842}Pensez plutôt à ce que vous savez.
+{60915}{60960}Je dois me pressurer le cerveau.
+{61075}{61095}Répondez.
+{61332}{61410}D'abord on comprend qu'on cause
+{61415}{61477}inutilement ses propres souffrances.
+{61490}{61570}Puis on en cherche les raisons|dans sa propre vie.
+{61595}{61630}Comme ça on prend confiance
+{61635}{61697}en sa capacité à faire cesser|la souffrance.
+{61725}{61820}Enfin, on souhaite trouver|la voie de la paix.
+{61825}{61877}parce que tous les êtres aspirent|au bonheur.
+{61882}{61950}Tous souhaitent se purifier.
+{62060}{62092}Vous allez le quitter.
+{62305}{62350}Je ne veux pas que tu partes.
+{62385}{62452}On est grands.|Tout ira bien.
+{62547}{62580}Tu me manqueras.
+{62592}{62645}Tu es un bon dalai-lama.
+{62777}{62830}Je vois un voyage sans heurts.
+{62850}{62900}Je vois un bon retour.
+{63377}{63417}C'est la Grande-Bretagne.
+{63470}{63512}Où est la Pologne ?
+{63520}{63552}Je ne sais pas.
+{63590}{63635}Où est Pearl Harbor ?
+{63675}{63712}Tu le sais Pompo ?
+{63717}{63745}Je ne sais pas.
+{63910}{63952}Ça c'est le Tibet.
+{64000}{64045}Et ça la Chine.
+{64125}{64172}On a combien de soldats ?
+{64180}{64222}Cinq mille environ.
+{64227}{64252}Cinq mille.
+{64267}{64337}Tant que ça. C'est beaucoup.
+{64380}{64437}Nous sommes en sûreté au Tibet.
+{64442}{64477}Nous l'espérons.
+{65725}{65752}Menteurs.
+{65795}{65810}Imbéciles.
+{65877}{65922}Vous n'avez rien appris.
+{65980}{66002}Cinq formes
+{66010}{66045}de dégénérescence.
+{66055}{66070}Les rouges.
+{66097}{66125}Leur idéologie.
+{66140}{66192}Danger intérieur
+{66207}{66242}et extérieur.
+{66265}{66292}Dévotion.
+{66315}{66335}Habileté.
+{66362}{66387}Regret.
+{66410}{66432}Echec.
+{67220}{67255}Ecoute la mise en garde
+{67280}{67337}de ton prédécesseur
+{67355}{67392}ou la guerre
+{67405}{67445}finira ici.
+{67815}{67837}Prudence.
+{67862}{67885}Prudence.
+{68512}{68535}Votre Sainteté,
+{68555}{68592}nous avons une lettre.
+{68775}{68832}Le 13ème dalaï-lama l'a écrite
+{68837}{68922}un an avant de mourir.|Avant votre naissance.
+{69022}{69082}"A l'âge de dix-huit ans
+{69090}{69220}" j'ai été appelé à assumer|la responsabilité spirituelle
+{69225}{69280}"et séculière du pays.
+{69302}{69370}"C'était une responsabilité|écrasante
+{69375}{69447}"qui pesa sur mon esprit.
+{69462}{69520}"Puis la Chine nous a envahis.
+{69532}{69627}"Nous ne pouvions pas faire|grand-chose sinon prier.
+{69655}{69710}"Nos prières furent entendues
+{69737}{69840}"parce que le pouvoir de la vérité est|grand et le karma inéluctable.
+{69857}{69927}"Nous avons repoussé les Chinois.
+{69967}{70052}"Il arrivera peut-être qu'ici,|au Tibet,
+{70075}{70162}"la religion et le gouvernement|seront attaqués,
+{70182}{70282}"les monastères pillés et détruits,
+{70295}{70407}"les moines et les nonnes|tués ou chassés.
+{70437}{70525}"Nous deviendrons les esclaves|de nos conquérants,
+{70530}{70627}"contraints à errer|comme des mendiants.
+{70737}{70792}"Les jours et les nuits|passeront lentement
+{70797}{70862}"dans la souffrance et la terreur".
+{71110}{71140}Tu es né où Tathag ?
+{71170}{71205}A Kyarpo Votre Sainteté.
+{71232}{71265}Et toi Phala ?
+{71270}{71312}- A Lhassa|- Ici ?
+{71325}{71362}Oui Votre Sainteté.
+{71512}{71572}Que faire ?|Je suis un enfant.
+{71610}{71672}Vous êtes celui|qui a écrit cette lettre,
+{71677}{71752}qui est revenu prendre notre tête.
+{71780}{71860}Vous aurez bientôt|de grandes responsabilités.
+{71915}{71975}Vous devez savoir quoi faire.
+{72050}{72095}Un seul B29 survolant
+{72100}{72202}la ville japonaise de Hiroshima et|ça a été le début d'une ère nouvelle.
+{72302}{72365}A 8 heures 15, une bombe de 4000 livres
+{72370}{72440}équivalente|à vingt mille tonnes de TNT
+{72445}{72505}a explosé sur la ville ennemie.
+{72510}{72575}Pour les habitants terrifiés|c'était la fin du monde.
+{72595}{72682}Un champignon d'une horrible beauté|s'est élevé dans les cieux.
+{72687}{72787}Il deviendrait le symbole d'un|incroyable pouvoir de destruction.
+{72795}{72867}Un savant a d'ailleurs déclaré
+{72872}{72967}"L'explosion d'une bombe atomique|tient du jugement dernier.
+{72972}{73072}"Je suis sûr qu'à l'ultime seconde|de l'existence de la Terre
+{73080}{73160}"l'homme verra|ce que nous avons vu aujourd'hui".
+{73210}{73242}En quoi la vie est-elle précieuse ?
+{73310}{73415}Un karma antérieur|t'a valu ta vie actuelle.
+{73430}{73460}Ignorant que tu es.
+{73470}{73510}Ne t'endors pas maintenant.
+{73712}{73747}Je ne vois rien !
+{73772}{73810}Qu'est-ce qui se passe ?
+{74010}{74062}C'est mon ami. Laissez-le.
+{74070}{74112}Qu'est-ce qui se passe ?
+{74117}{74160}Reting est arrêté.
+{74207}{74292}Pardon Kundun.|Vous ne devez pas voir ça.
+{74297}{74342}Pourquoi pas ?
+{74590}{74632}Réunissez le Kashag.
+{74807}{74850}Qu'est-ce qui est arrivé à Reting ?
+{74905}{74962}C'est très compliqué.
+{74997}{75017}Racontez.
+{75105}{75190}Reting voulait redevenir régent.
+{75195}{75237}Ce n'est plus possible.
+{75250}{75307}On a tenté d'assassiner Tathag.
+{75350}{75377}C'est vrai ?
+{75400}{75427}Reting a été arrêté.
+{75432}{75500}Les moines de Sera|ont combattu pour lui.
+{75565}{75610}Les moines ont des fusils ?
+{75635}{75680}En l'occurrence oui, Votre Sainteté.
+{75717}{75765}Je ne savais pas que les moines étaient|armés.
+{75785}{75832}Bien sûr que non.
+{75907}{75955}Où est Reting ?
+{75960}{76020}Il est détenu ici, au Potala.
+{76035}{76082}Il y a une prison au Potala ?
+{76122}{76192}Il y en a toujours eu une|Votre Sainteté.
+{76312}{76382}Il va falloir changer des choses|ici au Tibet.
+{76467}{76527}Nous allons boire le thé Pompo.
+{76605}{76650}Tu as été blessé ?
+{76660}{76740}Je vais bien Kundun.|Je suis vieux et coriace.
+{76935}{76975}Parlez-moi de la Chine.
+{77015}{77107}Encore une situation très compliquée.
+{77152}{77257}Les Chinois tentent encore une fois|de convaincre le monde
+{77262}{77307}que le Tibet leur appartient.
+{77320}{77380}- Le Tibet c'est le Tibet|- Depuis longtemps.
+{77390}{77452}nous sommes d'accord|sur notre désaccord.
+{77457}{77520}On savait|et on savait qu'ils savaient.
+{77555}{77632}Maintenant ils essayent|de réécrire l'histoire.
+{77690}{77727}Quel dommage.
+{77840}{77902}Demandons à tous les résidents|chinois de partir.
+{77915}{77997}Sans Chinois nous ne sommes pas|une région chinoise.
+{78047}{78077}Très bien Kundun.
+{78082}{78175}Il est temps de rappeler|notre indépendance au monde.
+{78180}{78215}L'Inde peut-elle nous aider ?
+{78220}{78282}Elle connaît la situation.
+{78300}{78375}L'Inde est indépendante depuis peu.
+{78380}{78430}Elle ne peut pas nous aider.
+{78455}{78482}La Grande-Bretagne ?
+{78492}{78542}Elle refuse de nous aider.
+{78610}{78635}L'Amérique ?
+{78682}{78742}L'Amérique on verra.
+{78775}{78840}Je vais écrire au président|américain.
+{78882}{78917}Excellent Kundun.
+{78940}{78982}Je vais aller voir Reting.
+{78990}{79045}Je dois vous le déconseiller.
+{79205}{79282}Je veux qu'il soit bien traité.
+{79287}{79360}C'est mon professeur.|Il m'a trouvé.
+{79370}{79425}Il en sera ainsi Votre Sainteté.
+{79727}{79790}J'ai besoin de savoir|ce que vous savez.
+{79795}{79852}Je ne suis plus un enfant.
+{80075}{80145}Mao Tsé-toung appelle|à la guerre totale.
+{80150}{80222}Il s'arrêtera quand la Chine entière|sera rouge.
+{80227}{80275}Le rideau de fer s'abattra-t-il
+{80280}{80342}comme sur la Russie|et l'Europe de l'est ?
+{80350}{80452}Cette déclaration de guerre|après vingt années de combats
+{80460}{80535}veut-elle dire la fin|de la Chine libre ?
+{80540}{80602}Mao prépare une offensive sur Pékin.
+{80610}{80637}Son armée populaire...
+{80675}{80712}Ecoutez ça.
+{80720}{80755}"A Mr Truman
+{80760}{80827}"Président des Etats-Unis d'Amérique
+{80845}{80927}"Je me réjouis|que vous soyez en bonne santé
+{80935}{81022}"pour travailler au bonheur|et à la prospérité du monde.
+{81040}{81135}"Je vais bien et j'œuvre|pour la religion du Bouddha
+{81140}{81192}"et l'épanouissement|de tous les êtres".
+{81260}{81302}C'est tout pour l'instant.
+{81335}{81425}Reting Rimpotché est mort en prison.
+{81832}{81892}Ne vous laissez pas distraire
+{81897}{81977}alors que vous arrivez|au seuil de l'éveil.
+{82002}{82057}Ne vous laissez pas distraire.
+{82100}{82140}Allez chez votre père.
+{82157}{82190}Il est mort.
+{82247}{82335}Votre mère voudrait que|vous célébriez les rites funèbres.
+{82390}{82432}Ne vous laissez pas distraire.
+{84935}{84987}Mao est maître de la Chine.
+{85132}{85192}Il faut que le Bouddha|de la compassion le sache.
+{85337}{85402}Mao a exprimé trois exigences.
+{85450}{85537}Que le Tibet reconnaisse|faire partie de la Chine.
+{85635}{85702}La défense du Tibet
+{85717}{85772}doit être assurée par la Chine.
+{85950}{85990}La politique et le commerce
+{85997}{86040}extérieurs
+{86045}{86097}doivent être dirigés par la Chine.
+{86945}{86992}Qu'en pensez-vous Votre Sainteté ?
+{87277}{87362}Si nous reconnaissons|que le Tibet est chinois
+{87367}{87415}le reste est sans importance.
+{87550}{87612}Nous les achetons !
+{87702}{87747}Qu'est-ce que vous feriez Tathag ?
+{87777}{87815}Je ne suis qu'un puceron.
+{87900}{87962}Il faudrait rejeter l'ensemble.
+{87967}{88015}La Chine n'a rien à imposer.
+{88077}{88132}Il faudrait interroger le peuple.
+{88140}{88192}Je vais consulter les divinités.
+{88197}{88260}Le Bouddha paraît|quand on a besoin de lui.
+{88280}{88310}Qu'il en soit ainsi.
+{91572}{91610}Réunissez le Kashag.
+{91770}{91820}Les Chinois nous ont envahis.
+{93132}{93227}Les Chinois ont franchi le fleuve|aux environs de Chamdo.
+{93267}{93307}Il y a eu des morts ?
+{93322}{93382}L'opérateur radio a parlé d'un tué
+{93387}{93472}puis il a dit|"Les Chinois, ils arrivent !"
+{93485}{93540}Et la radio s'est tue.
+{94017}{94090}La libération pacifique|du Tibet a commencé.
+{94095}{94130}L'armée populaire
+{94135}{94195}est entrée dans cette province|de l'Ouest chinois

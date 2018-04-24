@@ -1,0 +1,1125 @@
+{462}{539}Il était une fois tordue ...
+{565}{623}Dans une galaxie, très, très, très
+{630}{688}très lointaine, où vivait
+{695}{752}une impitoyable race d'êtres
+{760}{817}connue sous le nom de ... Spaceballs.
+{913}{971}Chapitre onze
+{973}{1030}Les démoniaques dirigeants de la planète
+{1038}{1095}Spaceball, ayant bêtement
+{1102}{1160}gaspillé leur précieuse
+{1167}{1225}atmosphère, ont établi un
+{1232}{1289}plan secret pour prendre le moindre
+{1297}{1354}souffle d'air de
+{1361}{1419}leur bien-aimée voisine
+{1426}{1484}la planète Druidia.
+{1582}{1639}Aujourd'hui c'est le mariage
+{1647}{1704}de la princesse Vespa. Inconnu
+{1711}{1769}de la princesse mais connu
+{1776}{1834}par eux, le danger se cachait
+{1841}{1898}dans les étoiles proches ...
+{2354}{2419}Si vous pouvez lire ça, vous|n'avez pas besoin de lunettes.
+{5123}{5198}- Colonel Sandurz !|- Qu'est-ce qu'il y a Sergent Ricco?
+{5250}{5344}Vous m'avez dit de vous faire savoir|quand la planète Druidia serait en vue monsieur.
+{5349}{5409}- Et ?|- Le planète Druidia est en vue monsieur.
+{5433}{5480}Vous êtes vraiment un Spaceball.
+{5485}{5545}- Vous le savez ça, n'est-ce pas?|- Merci monsieur.
+{5550}{5632}- Vous avez prévenu Lord Helmet?|- Oui monsieur. Il est en route.
+{5636}{5684}Faites place à Dark Helmet.
+{5689}{5761}Tout le monde se lève pour Dark Helmet.
+{6933}{6989}Je peux pas respirer avec ce truc !
+{7013}{7077}- On approche de la Planète Druidia monsieur.|- Bien.
+{7089}{7161}Je vais appeler Spaceball City|et prévenir le président Skroob.
+{7164}{7236}Je l'ai déjà appelé monsieur.|Il sait tout.
+{7286}{7319}Quoi ?
+{7324}{7379}Vous êtes passé au dessus|de mon casque ?
+{7384}{7451}Pas vraiment au dessus monsieur.|Euh, plus de côté.
+{7454}{7542}Je vous appellerai toujours en premier.|Ça n'arrivera plus. Jamais plus, jamais !
+{7588}{7631}Oh merde !
+{7634}{7681}Non, non, non, non! Non, non!
+{7686}{7763}SVP, SVP, SVP! Non, non, pas ça !
+{7799}{7842}Si, ça.
+{8295}{8343}- Sandurz!|- Monsieur ?
+{8346}{8398}Je ne vois pas la planète Druidia. Elle est où ?
+{8403}{8494}On l'a sur le radar.|Dois-je le frapper pour vous?
+{8499}{8564}- Nan, je vais le faire moi-même.|- Très bien monsieur.
+{8657}{8746}C'est quoi le problème avec ce truc?|Vous appelez ça un radar ?
+{8748}{8808}Non monsieur. On appelle ça ... Mr Coffee.
+{8828}{8875}Vous en voulez un peu ?
+{8880}{8914}Oui !
+{8916}{8986}- Je prend toujours un café quand je regarde le radar.|- Bien sûr.
+{8991}{9055}- Tout le monde le sait.|- Bien sûr qu'on le sait monsieur.
+{9101}{9185}Maintenant que j'ai mon café,|je suis prêt à regarder le radar.
+{9190}{9230}Ou est-il ?
+{9235}{9305}- Juste ici monsieur.|- Basculé sur la caméra.
+{9333}{9389}La voilà. La planète Druidia.
+{9391}{9465}Et sous le bouclier d'air,|10000 ans d'air frais.
+{9482}{9540}- Nous devons passer à travers le bouclier.|- Nous passerons monsieur.
+{9544}{9672}Une fois qu'on aura la princesse son père|nous donnera le code du bouclier,
+{9676}{9777}et nous détruirons le planète Druidia|et nous sauverons le planète Spaceball.
+{9782}{9830}Tout le monde est d'accord ?
+{9842}{9928}- Bien. Quand est-ce que le princesse se marie?|- Dans une heure monsieur.
+{9930}{10041}Bien, j'espère que c'est une longue cérémonie,|parce que la lune de miel sera courte.
+{10228}{10302}Chaud ! Trop chaud !
+{10686}{10765}Oh, si seulement ta mère était encore en vie|pour voir cette journée.
+{10767}{10818}- Tout le monde est prêt?|- Oui Votre Majesté.
+{10820}{10911}- Non. Où est ma droïde d'honneur?|- Oh la la, oui ! Où est Dot ?
+{10916}{10949}Dot !
+{10952}{11000}Dot Matrix!
+{11005}{11053}Oh, merci mon Dieu.
+{11065}{11112}- Où tu étais ?|- Je suis là.
+{11117}{11165}Désolé. J'ai du faire un arrêt aux stands.
+{11170}{11235}Je suis si excitée, je ne pouvais pas retenir mon huile.
+{11240}{11307}Très bien messieurs dames.|C'est l'heure magique.
+{11311}{11371}Bien, tout le monde part du pied gauche.
+{11376}{11453}- Papa, c'est ton pied droit.|- Trop tard. Continue.
+{11779}{11827}Papa ?
+{11849}{11947}- Je dois vraiment faire ça ?|- Je suis désolé ma chérie. Tu le dois.
+{12184}{12232}Mais papa ?
+{12254}{12297}Je ne l'aime pas.
+{12299}{12381}Je suis désolé Vespa.|C'est le dernier prince de la galaxie.
+{12637}{12757}Chers aimés, nous sommes réunis ici|en cette si joyeuse occasion
+{12760}{12858}pour voir la princesse Vespa,|fille du roi Roland,
+{12860}{12966}aller tout droit et passer l'autel,|descendre la rampe, et passer la porte !
+{12973}{13050}Arrêtez-la ! Quelqu'un, arrêtez-la ! Arrêtez-la !
+{13067}{13131}Hey, attendez ! Vous avez oublié de vous marier.
+{13136}{13177}Vous allez vous arrêter ?
+{13182}{13278}- Qu'est-ce que vous faites ?|- Pas de questions Dot. Grimpe !
+{13522}{13587}Ou elle va ?! Ou elle va ?
+{13690}{13740}Rev...
+{13743}{13776}...iens !
+{15152}{15200}Barf...
+{15260}{15308}Barf.
+{15337}{15387}Ba-arf!
+{15411}{15443}Hein ?
+{15538}{15608}- Barf?|- Toujours pendant que je mange.
+{15740}{15788}Barf!
+{15836}{15884}- Qu'est-ce que je peux faire pour toi ?|- Tu étais où ?
+{15889}{15944}- Je prenais un casse-croûte. T'en veux ?|- Non.
+{15948}{16023}- Pour les points brillants ?|- Non ! Ecoute, réponds pour moi.
+{16028}{16076}- Tu vas regarder ça ?|- Oh pardon.
+{16080}{16171}Je vais juste mettre l'audio.|Comme ça ils ne pourront pas te voir.
+{16174}{16258}- Chalut !|- Bonjour Lone Starr.
+{16263}{16301}Désolé, mauvais bouton.
+{16303}{16358}Salut Vinnie. Qu'est-ce que tu veux ?
+{16363}{16452}Non, non, non, non, non, non.|Ce n'est pas ce que JE veux.
+{16457}{16526}C'est ce qu'IL veut.
+{16589}{16653}Pizza the Hutt!
+{16656}{16730}Eh bien, si ce n'est pas Lone Starr
+{16733}{16797}et son acolyte Puke.
+{16812}{16903}- C'est Barf.|- Barf, Puke, qu'importe !
+{16920}{17020}- Ou est mon argent ?|- Ne t'en fais pas. Tu l'auras la semaine prochaine.
+{17025}{17085}Non, non. Je l'aurai demain.
+{17102}{17174}Cent mille space dollars...|pour demain ?!
+{17178}{17226}Cent mille ?
+{17238}{17315}Pas question! Tu oublies le retard,
+{17320}{17413}qui l'élève à,|euh... un million de space dollars.
+{17418}{17497}Un million ?! C'est pas juste.
+{17502}{17552}Injuste pour le payeur,
+{17557}{17608}mais pas pour le payé.
+{17672}{17728}Mais tu vas payer
+{17732}{17771}ou sinon.
+{17795}{17876}- Ou sinon quoi ?|- Dis-lui Vinnie.
+{17929}{17977}Ou sinon une Pizza
+{17982}{18044}vous sera expédiée.
+{18219}{18257}Tu es délicieux.
+{18260}{18308}Ciao les gars.
+{18886}{18934}On peut parler ?
+{18936}{19008}OK, on sait tous que le|prince Valium est dur à avaler.
+{19013}{19118}Mais vous auriez pu l'épouser pour votre|père qui va avoir la migraine pour 25 ans.
+{19188}{19236}Vous pouvez étendre ce truc ?
+{19315}{19358}Quoi ?
+{19367}{19411}Qu'est-ce qu'il y a ?
+{19415}{19492}Je disais,|réalisez-vous ce que vous avez fait?
+{19497}{19550}Oui ! Et je suis ravie.
+{19555}{19626}Ravie, ravie, ravie, ravie, ravie.
+{19670}{19715}Je me demande si elle est ravie.
+{19905}{19953}Ne soyez pas ridicule !
+{19957}{20056}En tant que président de la planète Spaceball,|je peux vous assurer à vous et à vos spectateurs
+{20060}{20149}qu'il n'y a absolument|aucune carence en air.
+{20154}{20233}Oui, bien sûr.|J'ai entendu moi-même les mêmes rumeurs.
+{20238}{20336}Oui, merci d'avoir appelé|et ne pas changer les rôles. Oui, bye.
+{20362}{20410}Pauvre con !
+{20784}{20840}Président Skroob?
+{20844}{20873}Oui ?
+{20876}{20957}Ici le centre de contrôle.|Commanderette Zircon à l'appareil monsieur.
+{20960}{20993}Qu'est-ce qu'il y a ?
+{20998}{21082}Lord Helmet vient juste de nous avertir|que la princesse Vespa est en vue.
+{21087}{21163}- Et Spaceball One est proche d'elle.|- Bien, bien.
+{21168}{21262}On a les deux vaisseaux sur le|Teledar monsieur, si vous voulez voir.
+{21266}{21377}- Je descend immédiatement.|- Je peux vous Snotty rayonner en bas monsieur ?
+{21381}{21449}Je ne connais pas ce|truc de rayonnement. C'est sûr ?
+{21453}{21540}Oh oui monsieur.|Je me suis Snotty rayonné deux fois la nuit dernière.
+{21545}{21600}Ça a été merveilleux.
+{21604}{21698}Très bien, je vais faire un essai.|Après tout ça marche dans "Star Trek".
+{21806}{21849}Snotty!
+{21851}{21926}- Rayonnez-le.|- Oui monsieur. Tout de suite monsieur.
+{22242}{22300}Nom d'un chien ! Ça tête !
+{22305}{22403}- Elle est dans le dos !|- Mais c'est terrible! Faites quelque chose !
+{22408}{22513}Je suis désolé monsieur. Il a du y avoir|un disfonctionnement du micro-convertisseur.
+{22544}{22614}Pourquoi personne ne m'a dit|que mon cul était si gros?
+{22681}{22753}Patientez monsieur. Nous allons essayer|d'inverser le rayon.
+{22758}{22810}C'est peut-être le système de synchronisation.
+{22906}{22959}Verrou un. Verrou deux. Verrou trois.
+{22964}{22997}Loch Lomond.
+{23259}{23312}Est-ce que ça va monsieur le Président?
+{23314}{23362}Bien, bien, pas grâce à vous.
+{23367}{23463}- On va vous rayonner à nouveau monsieur.|- Oubliez ça, oubliez ça. Plus de rayonnement.
+{23467}{23515}Cette fois je vais marcher !
+{23602}{23657}Président Skroob! Salute!
+{23662}{23717}Hail Skroob!
+{23748}{23829}- Bonjour président Skroob.|- Oh, euh...
+{23834}{23894}- Bonjour Charlene.|- Je suis Marlene!
+{23897}{23961}- Bonjour Marlene.|- Je suis Charlene!
+{23966}{24016}Mâchez votre gomme.
+{24019}{24081}- Où est la princesse ?|- Juste ici monsieur.
+{24084}{24196}A gauche, approchant Spaceball One|à 1500 lieues lumière par minute.
+{24201}{24263}Bien, bien ! Elle est presque dans nos mains.
+{24268}{24340}Dites à Dark Helmet|qu'il doit prendre la princesse vivante.
+{24513}{24578}Le vaisseau de la princesse Vespa|est à portée.
+{24582}{24693}Bien.|Tirez un coup de semonce devant son nez.
+{24753}{24784}Qu'est-ce qui se passe ?
+{24789}{24882}Soit c'est le 4 juillet,|soit quelqu'un essaie de nous tuer !
+{24952}{25023}Hey, je n'ai pas à supporter ça.
+{25028}{25076}Je suis riche.
+{25091}{25155}- Qu'est-ce que vous faites ?|- J'appelle mon père.
+{25167}{25239}1-800-DRUIDIA.
+{25309}{25398}Attention idiot !|J'ai dit devant son nez, pas dessus !
+{25412}{25465}Désolé monsieur. Je fais de mon mieux.
+{25486}{25549}- Qui a mis cet homme tireur ?|- Moi monsieur.
+{25551}{25594}C'est mon cousin.
+{25597}{25652}- Qui est-ce ?|- C'est un Trouduc monsieur.
+{25654}{25772}- Je sais ça ! Quel est son nom ?|- C'est son nom monsieur. Major Trouduc.
+{25776}{25867}- Et son cousin?|- Un Trouduc aussi. Tireur Phillip Trouduc.
+{25872}{25935}On a combien de Trouduc|sur ce vaisseau ?
+{25937}{25985}Yo!
+{26040}{26098}Je le savais. Je suis entouré de Trouduc.
+{26143}{26198}Continuez de tirer Trouduc !
+{26244}{26292}Vite papa ! Vite !
+{26297}{26349}Il y a des tirs de laser tout autour de nous !
+{26352}{26397}J'ai peur.
+{26424}{26534}Roi Roland à Lone Starr!|Roi Roland à Lone Starr! Etes-vous là ?
+{26544}{26663}Lone Starr, vous devez m'aider. Ma fille|est attaquée par les Spaceballs.
+{26666}{26723}Spaceballs? Laissez tomber.|Trop dangereux.
+{26728}{26819}En plus je suis déjà numero uno|sur la liste noire de Dark Helmet.
+{26822}{26894}Ecoutez Votre Grandeur,|ce n'est pas que nous avons peur.
+{26898}{26987}C'est juste qu'on a ce truc à|propos de la mort. C'est pas nous.
+{26990}{27071}Vous êtes les seuls qui peuvent la sauver!|Je vous donnerai n'importe quoi !
+{27073}{27124}Vous m'entendez ? N'importe quoi !
+{27141}{27198}- N'importe quoi ?|- Oui, n'importe quoi !
+{27232}{27337}- OK, on le fera pour... un million.|- Un million!
+{27342}{27407}Oh, on commence à vous perdre|Votre Grandeur.
+{27412}{27479}Très bien, je paierai. Mais trouvez la, sauvez la.
+{27483}{27539}Très bien Majesté. On a fait un marché.
+{27543}{27601}Une princesse pour un million de space dollars.
+{27606}{27682}- Qu'est-ce qu'elle conduit ?|- Un toute nouvelle Mercedes 2001 blanche
+{27687}{27771}édition limitée SEL.|Décapotable, intérieur tout cuir
+{27774}{27829}Je l'ai eut pour un bon prix. J'ai payé cash.
+{27831}{27910}Mon cousin le prince Murray est un revendeur.|Il a été très gentil avec moi.
+{27915}{27975}On imagine.|Elle a été vue où pour la dernière fois?
+{27980}{28056}- Elle venait juste de passer Jupiter Deux.|- On la trouvera.
+{28059}{28107}SVP, ramenez là saine et sauve !
+{28133}{28215}Et si c'est possible|essayez de sauver la voiture.
+{28265}{28335}Un million de space dollars !|On peut rembourser Pizza!
+{28337}{28375}Tape m'en cinq !
+{28543}{28591}Qu'est-ce qui se passe?
+{28615}{28668}C'est quoi cette lueur ?
+{28673}{28747}- On en bouge pas.|- Oh, on bouge très bien.
+{28749}{28800}En arrière !
+{28905}{28958}Voilà notre princesse. Elle a de la compagnie.
+{28963}{29059}Oh non. Les Spaceballs. Et ils|l'ont dans leur rayon magnétique.
+{29061}{29133}Oh bon, c'est trop tard.|Je vais faire demi-tour et on repart.
+{29138}{29195}Barf! Non. Pas bien.
+{29198}{29289}Pourquoi est-ce qu'on risque notre vie|pour une princesse ? Je sais qu'on a besoin d'argent ...
+{29294}{29366}Ecoute!|On ne fait pas ça seulement pour l'argent.
+{29421}{29493}On fait ça pour une chiée d'argent !
+{29495}{29565}Oh, tu as raison.|Et quand tu as raison, tu as raison.
+{29569}{29608}Et tu as toujours raison.
+{29610}{29704}OK, on la sauve mais comment ?|Ils vont nous repérer sur leur radar.
+{29708}{29730}- Hun-hun.|- Hun-hun.
+{29732}{29759}- Hun-hun.|- Hun-hun.
+{29761}{29816}- Hun-hun, pas si on le confiture.
+{29819}{29864}Aha! Tu as raison.
+{29867}{29919}- Prépare le scope!|- Scope prêt.
+{30068}{30140}Radar sur le point d'être
+{30145}{30178}confituré.
+{30696}{30754}M...
+{30759}{30795}...erde!
+{30926}{30962}Monsieur?.
+{30965}{31061}- Qu'est-ce qu'il y a ?|- Je peux vous parler un instant monsieur ?
+{31142}{31195}- Quoi ?|- Problème avec le radar monsieur.
+{31200}{31252}Vous n'avez pas besoin de ça soldat.|Qu'est-ce qu'il y a ?
+{31257}{31320}Problème avec le radar monsieur.
+{31322}{31375}- Qu'est-ce qu'il y a ?!|- Problème avec le radar.
+{31377}{31447}- Qu'est-ce qui ne va pas?|- On a perdu les bip, les zip et les crack.
+{31451}{31478}- Les quoi ?|- Les quoi ?
+{31480}{31531}Vous savez. Les bip:
+{31593}{31641}Les zip:
+{31682}{31730}Et les crack:
+{31758}{31806}Ce n'est pas tout ce qu'il a perdu.
+{31811}{31876}Monsieur. Le radar monsieur. On dirait|qu'il a été
+{31919}{31962}confituré !
+{31984}{32032}Confituré.
+{32108}{32164}Framboise.
+{32183}{32295}Il n'y a qu'un seul homme qui oserait|me donner de la framboise.
+{32322}{32370}Lone Starr!
+{33039}{33130}- Qu'est-ce que c'était ?|- Ne vous occupez pas de ça. Qu'est-ce que c'était ÇA ?
+{33180}{33214}Salut.
+{33216}{33271}- Qui êtes-vous?|- Barf.
+{33276}{33329}Pas ici monsieur. C'est une Mercedes.
+{33334}{33384}Non, c'est mon nom. Barf.
+{33389}{33446}Barf ? Vous êtes quoi ?
+{33451}{33571}Je suis un hien. Moitié homme, moitié chien.|Je suis mon propre meilleur ami.
+{33576}{33607}Qu'est-ce que vous me voulez ?
+{33612}{33698}Votre père nous a engagé Lone Starr et moi|pour vous sauver. On doit y aller.
+{33700}{33799}- Bien. Vite. Allez. Suivez le chien.|- Hien. Je suis un hien.
+{33804}{33856}Attendez. Et mes bagages appariés?
+{33993}{34046}Hey, arrête de regarder ma boite.
+{34051}{34094}Désolé.
+{34293}{34333}C'est bon ?
+{34338}{34389}Mais qu'est-ce que c'est que ça ?
+{34437}{34501}Les bagages appariés de son Altesse Royale !
+{34506}{34544}Quoi ?
+{34547}{34604}Les bagages appariés de son Altesse Royale.
+{34616}{34727}Oh, les bagages appariés, hein ? Elle pense que|c'est quoi, une croisière pour princesse ?
+{34743}{34830}- Eh bien elle ne voulait pas venir sans ça.|- Oh oui ?
+{34916}{35010}Maintenant écoutez ! A la minute où on|sera partis, la première chose
+{35012}{35060}qu'on fera ce sera de balancer|ces bagages appariés !
+{35084}{35132}C'était qui ?
+{35141}{35209}Maintenant écoutez ça vous qui|que vous soyez.
+{35213}{35271}Vous ne toucherez pas ces bagages.
+{35276}{35340}Et en plus je veux que cette|porcherie soit nettoyée.
+{35345}{35422}Je ne serai pas sauvée dans de telles ordures.
+{35427}{35506}Ecoutez ! Sur ce navire,|je ne reçoit pas d'ordres, je les donne.
+{35511}{35575}C'est mon plaisir chérie.
+{35578}{35643}- Chérie ?|- Oh-oh.
+{35667}{35722}Comment osez-vous me parle de la sorte !
+{35724}{35801}Vous vous adresserez à moi en disant|"Votre Altesse Royale".
+{35806}{35945}Je suis la princesse Vespa.|Fille de Roland, roi des Druids.
+{36000}{36048}Voilà ce dont on avait besoin.
+{36053}{36110}Une princesse druide.
+{36168}{36225}C'est drôle, elle n'a pas l'air druide.
+{37110}{37208}Maintenant on va lui montrer|qui est responsable de cette galaxie.
+{37218}{37251}Attendez !
+{37254}{37314}Je vais m'en occuper personnellement.
+{37340}{37388}Jawohl Lord Helmet.
+{37465}{37513}Alors princesse Vespa,
+{37517}{37604}vous pensiez que vous pourriez|surpasser les forces de la planète Spaceball.
+{37623}{37671}Eh bien vous aviez tort.
+{37676}{37788}Maintenant vous êtes notre prisonnière.|Et vous serez notre otage jusqu'à
+{37793}{37880}ce que tout l'air de votre planète|soit transféré
+{37884}{37932}sur la nôtre.
+{38134}{38186}Elle n'est pas là !
+{38206}{38313}Radar réparé monsieur. Nous recevons|les contours d'un ... Winnebago.
+{38318}{38361}Winnebago?
+{38366}{38414}Lone Starr.
+{38438}{38486}Lone Starr...
+{38611}{38721}- Oh-oh, voilà le gros méchant.|- On devrait filer d'ici en vitesse.
+{38726}{38810}- Engage les hyper-propulseurs secrets.|- Engagement des hyper-propulseurs secrets.
+{38815}{38903}Bouclez vos ceintures là derrière,|on va passer en ... hyperactif.
+{39081}{39162}On se rapproche d'eux monsieur.|Bientôt Lone Starr sera à nous.
+{39167}{39229}Bien. Préparez-vous à attaquer.
+{39232}{39265}Préparez-vous à attaquer!
+{39270}{39328}A trois.
+{39330}{39371}Un
+{39373}{39419}Deux
+{39424}{39484}Trop tard ! Qu'est-ce qui s'est passé?|Où ils sont ?
+{39488}{39543}Je ne sais pas monsieur.|Ils doivent avoir des hyper-propulseurs.
+{39548}{39620}- Et qu'est-ce qu'on a ? Un moulinex ?|- Non monsieur.
+{39625}{39678}- Bon, trouvez-les ! Attrapez-les !|- Oui monsieur!
+{39683}{39762}- Préparez le vaisseau pour la vitesse lumière.|- Non, non, la vitesse lumière c'est trop lent.
+{39766}{39843}- Vitesse de la lumière trop lent ?|- Oui. On allons aller en
+{39846}{39915}- Vitesse grotesque.|- Vitesse grotesque ?
+{39920}{39992}On n'a jamais été si vite.|Peut-être que le vaisseau ne tiendra pas.
+{39997}{40073}Qu'est-ce qu'il y a colonel Sandurz?|Poule mouillée ?
+{40112}{40167}Préparez le vaisseau ...
+{40172}{40236}Préparez le vaisseau pour la vitesse grotesque.
+{40241}{40316}Attachez vos ceintures.|Scellez toutes les entrées et sorties.
+{40318}{40404}Fermez tous les magasins sur la promenade.|Annulez le cirque des trois-anneaux.
+{40407}{40519}- Assurez tous les animaux du zoo...|- Fermez la, de piètre excuse pour un officier !
+{40541}{40618}Maintenant écoutez ça. Vitesse grotesque !
+{40620}{40690}- Monsieur, ne devriez vous pas vous boucler ?|- Oh, bouclez-la!
+{40692}{40757}Vitesse grotesque! Go!
+{40757}{40805}On ne freine pour personne
+{41076}{41124}Vitesse lumière
+{41147}{41200}Vitesse ridicule
+{41243}{41299}Vitesse grotesque
+{41311}{41370}Qu'est-ce que j'ai fait ?
+{41402}{41505}Mes cerveaux... descendent dans mes pieds.
+{41778}{41831}Qu'est-ce que c'était ?
+{41845}{41893}Spaceball One.
+{41912}{41965}Ils ont prit le plaid !
+{42011}{42092}On les a passé ! Arrêtez ça !
+{42107}{42169}On ne peut pas s'arrêter. C'est trop dangereux.
+{42171}{42222}On doit ralentir avant.
+{42241}{42274}Connerie !
+{42279}{42358}Arrêtez-moi ça ! Je vous l'ordonne!
+{42361}{42428}Stop!
+{42790}{42847}Ça va monsieur, ça va. Laissez moi vous aider monsieur.
+{42898}{42977}- Tout va bien monsieur?|- Bien. Et vous ça va ?
+{42979}{43018}- Bien monsieur.|- Bon.
+{43022}{43080}- Heureusement que vous portiez un casque monsieur.|- Ouais.
+{43085}{43133}Qu'est-ce qu'on fait maintenant monsieur?
+{43135}{43207}- Eh bien... On est arrêté?|- On est arrêté monsieur.
+{43212}{43260}Bien.
+{43265}{43351}- Pourquoi on ne prendrait pas cinq minutes de pause?|- Très bien monsieur.
+{43365}{43413}Fumez si vous en avez.
+{43485}{43581}- On sort de l'hyperactif.|- On sort de l'hyperactif.
+{43636}{43720}Bien joué boss. On l'a fait.|Ils nous retrouverons pas avant une semaine.
+{43725}{43818}- OK. C'est parti pour Druidia.|- Allons-y pour Drui-i-i-i...
+{43821}{43881}- C'est quoi ça ?|- Je ne sais pas. On perd de la puissance.
+{43886}{43934}On a plus de gaz !
+{43938}{44022}- On a du tout brûler en hyper.|- Si j'en avais mis plus de cinq dollars !
+{44027}{44116}OK, on va devoir se poser.|Prépare-toi pour un atterrissage d'urgence.
+{44121}{44207}- Vite, donne-moi une lecture.|- "Notre Père, qui êtes aux cieux..."
+{44212}{44248}Arrête ça !
+{44255}{44320}Attachez vos ceintures.|Ça va Princesse ?
+{44379}{44451}Non idiot !|Où vous avez appris à voler ?
+{44456}{44511}OK, Eagle Five arrive.
+{45024}{45092}Va à gauche. A droite !|Je veux dire à droite ! Whoa!
+{45377}{45478}- Où allez-vous ?|- Je vais lui passer un savon une fois pour toute.
+{45497}{45569}Attendez !|On a besoin de lui pour nous sortir de là.
+{45573}{45684}Elle m'a appelé idiot ? Je vais aller derrière|lui expliquer quelques petites choses.
+{45689}{45775}En plus il a une voix sexy.|Il est peut-être mignon.
+{45799}{45897}- Tu n'as pas vu à quoi elle ressemble.|- Oh si. Toutes les princesse se ressemblent.
+{45900}{45979}Mignon ! Je connais ces fainéants de l'espace.|Ils sont tous pareils.
+{45983}{46048}- Gros, laids,|- Les dents en avant, les genoux qui se touchent,
+{46053}{46130}- des porcs buveur de bière.|- Une tête de cheval chien de l'espace.
+{46132}{46206}Normalement je...|Ooh! Ça va laisser une marque.
+{46221}{46262}Maintenant écoutez, vous...
+{46305}{46429}Vous écoutez. Sur ce vaisseau vous allez|m'appeler "idiot", non "vous Capitaine".
+{46434}{46518}- Je veux dire... Vous voyez ce que je veux dire.|- Et vous ne m'appelez pas "vous".
+{46525}{46583}Ne m'adressez jamais la parole en disant "vous".
+{46585}{46648}Vous allez m'appeler "Votre Altesse Royale"!
+{46652}{46710}Vous êtes une douleur royale sur le...
+{46715}{46763}- Whoa! Suffit. Temps mort.|- Quoi ?
+{46765}{46866}je epux faire une suggestion ? Dans une minute|les Spaceballs vont faire demi tour,
+{46868}{46923}droit sur cet endroit, et ils vont tous nous tuer.
+{46926}{46969}Il a raison. Allons-y.
+{46974}{47022}Attendez. Mes affaires.
+{47026}{47089}Maintenant écoutez, vous royale...
+{47091}{47125}...Altesse.
+{47130}{47213}Prenez seulement ce dont vous avez|besoin pour survivre.
+{47705}{47803}SVP, ralentissez.|J'ai du sable dans mes mécanismes.
+{47870}{47938}Punaise, j'espère qu'elle n'a rien oublié.
+{48055}{48153}Ok, attend une minute Barf. Pose ça.
+{48165}{48223}- Qu'est-ce qu'il y a là-dedans?|- J'sais pas.
+{48324}{48424}C'est quoi ça ?|J'ai pris seulement l'essentiel de survie.
+{48436}{48494}C'est mon sèche cheveux aux normes industrielles.
+{48499}{48554}Et je ne peux pas vivre sans !
+{48585}{48693}OK Princesse, c'est ça.|Le conte de fée est terminé.
+{48700}{48753}Bienvenue dans la réalité.
+{48758}{48849}Vous voulez cette machine à|air-chaud, portez là.
+{48858}{48901}Remettez ça.
+{48921}{48971}Vous remettez ça.
+{48976}{49052}Comment osez-vous, paysan insolent!
+{49055}{49129}Personne ne me parle comme ça. Personne !
+{49132}{49170}Personne !
+{49175}{49247}Eh bien, qu'est-ce qu'on a là?|Tu l'as vu ?
+{49261}{49350}Ces yeux éclatants, ces joues|rougissantes, ces lèvres tremblantes.
+{49355}{49407}Vous savez quoi Princesse?
+{49410}{49470}Vous êtes laide quand vous êtes en colère.
+{49472}{49522}- Oh-oh.|- Ah oui.
+{49527}{49604}- Vous et votre chien vous êtes...|- SVP, SVP.
+{49606}{49661}totalement humains, droides, si je peux.
+{49664}{49741}Il va faire nuit rapidement,|alors je suggère qu'on trouve un endroit ou camper.
+{49745}{49793}Venez chérie.
+{49935}{50038}- Tu vois? C'est plus léger.|- Oh ouais. C'est le meilleur.
+{50071}{50136}Je pourrais en porter deux ou trois comme ça.
+{50182}{50230}Vous les avez trouvés?
+{50234}{50297}Non Lord Helmet.|Ils ne sont toujours pas sur le scanner.
+{50299}{50347}Bien, continuez à les chercher.
+{50570}{50623}Pardonnez-moi monsieur. J'ai une idée.
+{50630}{50719}Caporal, donnez moi la cassette video|de "Spaceballs: The Movie".
+{50724}{50772}Oui monsieur.
+{50829}{50908}"The Producers", "Blazing Saddles",|"Young Frankenstein"...
+{50915}{51002}- Colonel Sandurz, je peux vous parler ?|- Oui monsieur.
+{51004}{51088}Comment il pourrait y avoir une|cassette du film ? On est encore en tournage !
+{51093}{51177}C'est exact monsieur. Mais il y a eut une brèche|dans le marketting video.
+{51182}{51244}- Vraiment ?|- Oui. Des cassettes instantanées.
+{51249}{51323}Elles sortent en magasin avant que|le film soit finit.
+{51328}{51378}- Nan !|- La voilà monsieur.
+{51395}{51481}- "Spaceballs".|- Bien joué caporal. Envoyez-là.
+{51582}{51656}- Préparez l'avance rapide.|- Préparation de l'avance rapide.
+{51661}{51719}- Avance rapide !|- Avance rapide monsieur.
+{52162}{52280}Non, non, non, passez ça. Passez cette partie.|En fait ne repassez jamais ça.
+{52354}{52402}Essayez là. Stop.
+{52656}{52735}Bon sang mais qu'est-ce que je regarde ?|Quand est-ce que ça ce passe dans le film ?
+{52740}{52845}Maintenant. Vous regardez maintenant. Tout ce|qui arrive maintenant arrive maintenant.
+{52848}{52886}- Et là ?|- On l'a passé.
+{52891}{52944}- Quand ?|- Juste maintenant. On est à maintenant, maintenant.
+{52949}{52977}- Revenez à ce moment.|- Quand ?
+{52980}{52999}- Maintenant.|- Maintenant ?
+{53001}{53037}- Maintenant !|- Je ne peux pas. On l'a manqué.
+{53040}{53085}- Quand ?|- Juste maintenant.
+{53088}{53157}- Quand est-ce que ce moment sera maintenant ?|- Bientôt.
+{53181}{53253}- Bientôt quand ?|- Monsieur, nous avons identifier leur position.
+{53258}{53291}- Où?|- La lune de Vega.
+{53294}{53349}- Préparez-vous à notre arrivée.|- Quand ?
+{53351}{53421}- 1900 heures.|- Avant demain ils seront nos prisonniers.
+{53423}{53471}Qui ?!
+{53606}{53677}Mode sommeil
+{53886}{53982}- Non, merci. Je vais très bien.|- Prenez ça. On gèle.
+{53987}{54035}Si vous insistez.
+{54210}{54291}- Vous n'aurez pas froid ?|- Nan, le froid ne me dérange jamais.
+{54426}{54490}Je n'arrive pas à trouver Druidia.
+{54495}{54533}C'est juste là.
+{54536}{54636}- Où ?|- Là. C'est cette bleue brillante. Vous voyez ?
+{54672}{54742}Oh ouais, mais c'est si l...
+{54759}{54804}...loin.
+{54809}{54862}Ne vous inquiétez pas. Je vous y ramènerais.
+{54888}{54943}- Laquelle est la vôtre ?|- Qui sait ?
+{54946}{55044}- Vous ne savez pas d'où vous venez ?|- Non. J'ai été trouvé devant un monastère.
+{55049}{55142}- Un monastère ? Ou?|- Quelque part dans la "Ford Galaxy".
+{55159}{55217}Les moines ne vous ont pas dit|qui étaient vos parents ?
+{55222}{55286}Ils ne pouvaient pas.|Ils avaient fait vœux de silence.
+{55291}{55356}Tout ce que j'ai c'est ça. C'était autour de mon cou.
+{55358}{55397}- Qu'est-ce que c'est ?|- Je ne sais pas.
+{55399}{55512}Je l'ai montré à tous les sages de l'univers.|Personne n'a su me dire ce que ça dit.
+{55543}{55598}C'est superbe.
+{55612}{55651}Vous savez, je...
+{55718}{55766}C'est superbe.
+{55862}{55929}Alors, pourquoi vous être enfui|de votre mariage ?
+{55955}{56056}Eh bien si vous voulais savoir,|je n'étais pas amoureuse du fiancé.
+{56061}{56128}- Pourquoi vous marier alors ?|- Parce que !
+{56133}{56212}Je suis une princesse et je dois épouser un prince.
+{56214}{56308}Ah! Et il ne vous convient pas, hein?
+{56312}{56384}Non, il n'est pas fait pour moi.
+{56483}{56531}Je dois vraiment rentrer.
+{56559}{56617}Je n'aurais pas du m'enfuir.
+{56627}{56761}Je réalise que l'amour est un luxe|qu'une princesse ne peut pas se permettre.
+{56763}{56816}Vous avez sûrement raison.
+{56818}{56909}Je sais maintenant que je dois|apprendre à vivre sans... amour.
+{56914}{56953}Je pense aussi.
+{56955}{57049}- En plus l'amour c'est pas si important.|- Nan, ça ne l'a jamais été.
+{57051}{57132}Je pourrais être parfaitement heureuse|le reste de ma vie sans...
+{57166}{57204}...amour.
+{57207}{57257}Bien sûr.
+{57288}{57343}Sans contact physique.
+{57365}{57401}Ouais.
+{57406}{57463}Sans être soutenue.
+{57466}{57509}Ouais.
+{57533}{57586}Ou embrassée.
+{57686}{57737}Alarme de virginité
+{57744}{57794}Abandonnez le navire ! Abandonnez le navire !
+{57799}{57852}Les femmes et les hiens d'abord!
+{57868}{57919}Pas de ça monsieur.
+{57924}{58005}- Jusqu'où il a été? Qu'est-ce qu'il a touché?|- Il ne s'est rien passé.
+{58010}{58087}- Bon sang, c'était quoi ce bruit ?|- C'était mon alarme de virginité.
+{58089}{58156}C'est programmé pour tirer plus vite que vous.
+{58161}{58238}Retournez au lit mademoiselle.|Et vous aussi, accro au sexe...
+{58243}{58348}Très bien, dormons tous un peu.|On devra partir avant l'aube.
+{58353}{58420}- Pourquoi si tôt ?|- Parce qu'on est au milieu d'un désert
+{58425}{58528}et on n'ira pas très loin une fois ce|soleil éclatant au dessus de nos têtes.
+{58636}{58681}Bel effet.
+{58904}{58952}De l'eau. De l'eau.
+{58974}{59017}De l'eau.
+{59211}{59259}De l'huile. De l'huile.
+{59302}{59374}Service d'étage. Service d'étage.
+{59504}{59556}Chef, ça y est.
+{59607}{59664}Je ne peux pas...|Je ne peux pas aller plus loin.
+{59707}{59784}- Je ne peux pas aller plus loin.|- Allez Barf mon vieil ami.
+{59789}{59837}- Non!|- Il ne reste qu'une dune à passer.
+{59842}{59909}Non! Tu as dis ça il y a trois dunes.
+{59933}{59981}Je n'en peux plus.
+{60007}{60062}Oh serveur. L'adition s'il vous plait.
+{60129}{60175}On doit continuer.
+{60177}{60225}On doit continuer !
+{60247}{60295}On doit continuer...
+{60319}{60362}J'essaie de tromper qui ?
+{61815}{61863}Oh. Merci petit gars.
+{61904}{61956}Oh merci.
+{62007}{62060}J'ai raté quelque chose ?
+{62064}{62117}Quand est-ce qu'on est venu à Disneyland?
+{62544}{62649}- Je ne les voit pas Sandurz.|- J'ai envoyé les troupes en avant monsieur.
+{62654}{62721}- Bien. Allons-y.|- Chauffeur, préparez-vous à bouger.
+{62726}{62784}Qu'est-ce que vous préparez?|Allez-y, c'est tout !
+{62786}{62815}- Allez-y, c'est tout.|- Oui monsieur.
+{62820}{62868}Monsieur, vous ne devriez pas vous asseoir ?
+{63318}{63407}- Qu'est-ce qu'ils disent ?|- Ils veulent qu'on aille avec eux.
+{63644}{63745}- Quel est cet endroit?|- Ça ressemble au Temple de la Ruine.
+{63750}{63800}Eh bien ce n'est pas le Temple de Beth Israel.
+{63807}{63877}Allez. Je pense qu'on ferait mieux de les suivre.
+{64160}{64215}Oh-oh, je crois qu'on l'a réveillé.
+{64239}{64313}- Au revoir. Faites-moi savoir comment ça a fini.|- Reviens Dot!
+{64318}{64392}- Allez, on doit continuer.|- On a besoin de toi.
+{64536}{64620}- Qu'est-ce qui va se passer maintenant ?|- Ne demande pas. Peut-être que ça ne se passera pas.
+{64625}{64702}- Et si ça se passe ? Je suis pour partir !|- Barf, non!
+{64707}{64783}Je pense qu'on devrait sortir d'ici|tant que ça va bien !
+{64805}{64848}Silence !
+{64853}{64987}Qui ose entrer en la présence sacrée|et terrible de l'éternel sait-tout,
+{64992}{65040}Yogurt ?
+{65049}{65093}Yogurt ?
+{65318}{65426}- Vous avez entendu parler de moi?|- Entendu parler de vous ? Qui ne l'a pas?
+{65428}{65471}Yogurt le sage.
+{65476}{65550}- Yogurt le tout-puissant !|- Yogurt le magnifique.
+{65562}{65661}SVP, ne piquez pas une crise.|Je suis simplement Yogurt.
+{65666}{65714}- Mais vous êtes le seul...|- Oui !
+{65716}{65790}Je suis le gardien de la grande magie.
+{65795}{65857}Un pouvoir connu dans tout l'univers
+{65860}{65893}- en tant que...|- la Force?
+{65898}{65958}Non. Le Schwartz.
+{65970}{66018}Le Schwartz.
+{66023}{66064}Oui.
+{66066}{66109}Le Schwartz.
+{66193}{66291}Mais Yogurt, quel est cet endroit ?|Que faites-vous ici ?
+{66296}{66380}- Merchandising.|- Merchandising. Qu'est-ce que c'est ?
+{66385}{66440}Merchandising. Venez, je vais vous montrer.
+{66445}{66483}Ouvrez le magasin.
+{66603}{66665}Venez ! Passez par là ! Regardez.
+{66670}{66754}On peut mettre son image partout !
+{66759}{66821}Merchandising ! Merchandising !
+{66826}{66888}Là où on fait vraiment de|l'argent avec le film.
+{66891}{66979}"Spaceballs" - le T-shirt.|"Spaceballs" - le livre de coloriage.
+{66984}{67040}"Spaceballs" - la boite pour le goûter.
+{67045}{67090}"Spaceballs" - les céréales du petit déjeuner.
+{67092}{67140}"Spaceballs" - le lance-flammes !
+{67166}{67219}Les enfants adorent.
+{67224}{67308}Le dernier mais non le moindre.|"Spaceballs" - la poupée.
+{67310}{67356}Moi.
+{67358}{67411}Que le Schwartz soit avec toi.
+{67476}{67519}Adorable.
+{67876}{67931}- Président Skroob.|- Qu'est-ce qu'il y a ?
+{67936}{68020}J'ai un message urgent de|Lord Helmet. Il a perdu la princesse.
+{68025}{68080}- Où?|- Quelque part dans le désert de Vega.
+{68082}{68171}Dites-leur de passer le désert au peigne fin,|vous m'entendez ? Le désert au peigne fin !
+{68176}{68224}Bien monsieur.
+{68346}{68394}- Monsieur?|- Quoi?
+{68430}{68514}- Est-ce qu'on ne joue pas sur les mots ?|- Non imbécile, on suit les ordres.
+{68519}{68595}On nous a dit de passer le désert au peigne|fin, alors on le fait.
+{68607}{68663}Vous avez trouvé quelque chose ?
+{68665}{68713}Pas encore monsieur.
+{68754}{68809}Et vous ?
+{68814}{68862}Rien du tout monsieur.
+{68924}{68974}Et vous les gars ?
+{68979}{69027}On trouve que dalle !
+{69101}{69188}C'est un grand mystère. Aucun sage n'a pu me|dire de quoi il s'agit.
+{69192}{69291}Les sages, pfffff. Les pauvres sages tu veux dire.|Qu'est-ce qu'ils en savent?
+{69296}{69344}Attends, laisse-moi regarder.
+{69562}{69641}- Vous pouvez le lire!|- Non, j'étais juste en train de m'éclaircir la gorge.
+{69643}{69691}Là, laisse-moi...
+{69710}{69770}Ah. Ooh oui.
+{69775}{69830}Oui, oui, bien sûr !
+{69835}{69871}- Vous le comprenez ?|- Oui.
+{69876}{69941}- Qu'est-ce que ça dit ?|- Je ne peux pas te le dire maintenant.
+{69943}{70056}- Ça te sera révélé en temps voulu.|- Génial.
+{70060}{70137}Ne soit pas déçu.|Revenons à ton apprentissage du Schwartz.
+{70142}{70226}Voilà, prends la bague.|Pointe-la vers cette grande statue.
+{70231}{70351}OK, mais je ne comprend toujours pas comment|soulever cette grosse statue avec cette petite bague.
+{70353}{70458}Ne sous-estime jamais le|pouvoir du Schwartz!
+{70461}{70526}Allez, concentre-toi. On y va.
+{70562}{70600}Concentre-toi.
+{70914}{70979}Lone Starr, tu y arrives !
+{70981}{71019}Tu y arrives !
+{71041}{71099}Je ne peux pas le croire. Le Schwartz marche !
+{71101}{71139}Oui ! Oui !
+{71144}{71197}Hé boss, comment tu fais ça ?
+{71310}{71370}Donne-moi la bague. Donne-moi la bague, vite !
+{71393}{71487}Upsee-dahzee, upsee-mahzee,|upsy-daisy!
+{71636}{71684}Désolé Barf.
+{71808}{71856}Continuez à chercher.
+{71892}{72017}- Ça ne sert à rien. On a cherché partout.|- Attendez. Je sens la présence
+{72019}{72053}du Schwartz!
+{72058}{72101}- Du Schwartz?|- Oui.
+{72106}{72201}Ça vient de quelque part... en dessous
+{72206}{72249}ici!
+{72290}{72365}Vous avez raison monsieur.|Il y a une entrée secrète ici.
+{72367}{72439}Et regardez ce signe. C'est un "Y".
+{72460}{72518}Yogurt! Yogurt!
+{72520}{72609}Je déteste les yogurts! Surtout avec des fraises.
+{72611}{72681}- J'appelle les escadres d'attaque.|- Non, on ne peut pas entrer.
+{72686}{72748}Yogurt a le Schwartz.|C'est trop puissant.
+{72753}{72813}Mais monsieur, vous n'avez pas le Schwartz aussi ?
+{72818}{72902}Il a le bon côté, j'ai le mauvais.|Chaque Schwartz a deux côtés.
+{72906}{72971}Alors comment on va rentrer|pour prendre la princesse ?
+{73007}{73065}On n'entrera pas.
+{73069}{73146}Elle viendra à nous.
+{73417}{73511}Vespa. Vespa mon enfant.
+{73515}{73559}Où es-tu ?
+{73561}{73594}Papa ?
+{73599}{73695}Vespa, c'est ton père, le Roi Roland.
+{73700}{73772}- Viens à moi.|- Papa ?
+{73777}{73846}Je t'entends. Je t'entends. Tu es où ?
+{73851}{73899}Suis ma voix.
+{73928}{73978}Viens à moi.
+{73995}{74043}Viens à moi.
+{74100}{74141}Vespa, où vas-tu ?
+{74146}{74215}Vespa, viens à moi.
+{74314}{74381}Papa ! C'est vraiment toi ?
+{74386}{74479}Oui ma chérie. Je te le garantis.
+{74496}{74544}Mentirais-je ?
+{74594}{74623}Papa !
+{74647}{74690}Non Vespa, ne fais pas ça !
+{74721}{74755}Non.
+{74772}{74820}Je t'ai eu.
+{74894}{74992}Emmenez-les à bord et mettez|la princesse dans mes quartiers.
+{74997}{75045}Maintenant elle est mienne.
+{75059}{75139}- Qu'est-ce qu'ils disent ?|- Ils ont pris la princesse !
+{75366}{75409}Les Spaceballs. Trop tard.
+{75419}{75477}T'inquiète pas boss. On va la ramener.
+{75491}{75534}Ouais.
+{75568}{75625}- Merci pour l'essence Yogurt.|- Pas de quoi.
+{75630}{75714}Et voilà. Juste au cas où vous auriez faim.
+{75733}{75776}- Un gâteau de fortune ?|- Oui.
+{75781}{75875}Souviens-toi: ouvre le avant de le manger.
+{75879}{75935}Merci. Bon, on ferait mieux d'y aller.
+{75937}{75999}Je me demande...|Nous reverrons-nous jamais ?
+{76004}{76100}Qui sait? Si Dieu le veut,|on se reverra tous dans "Spaceballs II:
+{76105}{76153}A la recherche de plus d'argent".
+{76172}{76241}- Au revoir Lone Starr.|- Au revoir Yogurt.
+{76275}{76330}La bague du Schwartz!
+{76335}{76414}- Non, non, je ne peux pas la prendre.|- Prends-la, prends-la.
+{76421}{76500}- Tu pourrait en avoir besoin.|- Merci.
+{76505}{76553}Je ne vous oublierai jamais.
+{76577}{76620}Souhaitez-moi bonne chance.
+{77165}{77294}Alors princesse Vespa,|finalement je vous ai dans mon sein
+{77299}{77388}pour que nous fassions ensemble|le parcours que je souhaite.
+{77392}{77488}Non! Non! S'il vous plait, laissez-moi seule.|Non, tu es à moi.
+{77493}{77560}Pas si vite Helmet. Lone Starr!
+{77565}{77654}Oui c'est moi.|Je suis ici pour sauver ma petite amie. Salut chérie.
+{77656}{77714}Maintenant tu vas mourir. Psst!
+{77716}{77771}Oh, oh! Oh!
+{77774}{77884}Qu'est-ce que vous lui avez fait? La même chose|que je vais te faire gros malin. Oh!
+{77889}{77939}Et toi aussi. Oh! Argh!
+{77944}{78037}Maintenant princesse Vespa,|finalement nous sommes seuls.
+{78042}{78109}Oh non, Je vous déteste. Laissez-moi seule.
+{78114}{78215}En fait je vous trouve étrangement attirant.|Evidemment.
+{78217}{78313}Les princesses druides sont souvent attirées|par l'argent et le pouvoir.
+{78315}{78385}Et j'ai les deux. Et vous le savez.
+{78390}{78486}Oh, laissez-moi. Non, embrassez-moi !|Non! Non! Oui! Non!
+{78490}{78538}Non! Oui! Non! Oui!
+{78620}{78699}Oh, votre casque est si gros.
+{78711}{78749}- Lord Helmet.|- Quoi ?
+{78754}{78840}- On a besoin de vous sur le pont monsieur.|- Frappez à la porte ! Frappez la prochaine fois !
+{78843}{78891}- Oui monsieur.|- Vous avez vu quelque chose ?
+{78896}{78951}Non, je ne vous ai pas vu jouer|avec vos poupées.
+{78956}{78999}Bien.
+{79435}{79471}Président Skroob.
+{79476}{79565}Je vous ai dit de ne jamais m'appeler sur ce mur!|C'est un mur non listé.
+{79569}{79665}Excusez-moi monsieur mais c'est très important.|La princesse est dans votre bureau
+{79670}{79725}et Lord Helmet vous y attend.
+{79730}{79824}- Très bien, très bien. J'y serai bientôt.|- Bien monsieur.
+{80104}{80210}Helmet, démon! Qu'est-ce qui se passe ?|Qu'est-ce que vous faites à ma fille ?
+{80212}{80303}Permettez moi de vous présenter un|jeune et brillant plasticien,
+{80305}{80349}le Dr Phillip Schlotkin.
+{80353}{80468}Le meilleur spécialiste du nez|de tout l'univers et de Beverly Hills.
+{80473}{80555}- Votre Altesse.|- Spécialiste du nez ? Elle a déjà été opérée du nez.
+{80557}{80605}C'était son cadeau pour ses 16 ans.
+{80610}{80694}Non, ce n'est pas ce que vous croyez.|C'est bien bien pire.
+{80699}{80785}Si vous ne me donnez pas la combinaison|de votre bouclier d'air,
+{80787}{80857}le Dr Schlotkin va rendre à votre fille
+{80862}{80912}son ancien nez !
+{80917}{80989}Non !
+{81025}{81123}- Ou vous avez eu ça ?|- Très bien, je vais vous le dire. Je vais vous le dire.
+{81128}{81214}- Non Papa, non! Tu ne dois pas.|- Tu as raison ma chérie.
+{81217}{81320}Ton nouveau nez va me manquer, mais je|ne lui dirai pas la combinaison, coûte que coûte.
+{81334}{81425}Très bien. Dr Schlotkin, faites de votre pire.
+{81430}{81478}Avec plaisir.
+{81550}{81598}Non! Attendez! Attendez!
+{81617}{81677}Je vais le dire. Je vais le dire.
+{81689}{81739}Je savais que ça marcherait.
+{81742}{81794}Très bien. Donnez-le moi.
+{81823}{81871}La combinaison est
+{81909}{81929}un.
+{81931}{81962}- Un.|- Un.
+{81967}{81986}Deux.
+{81991}{82015}- Deux.|- Deux.
+{82020}{82037}Trois.
+{82039}{82065}- Trois.|- Trois.
+{82070}{82087}Quatre.
+{82089}{82120}- Quatre.|- Quatre.
+{82149}{82166}Cinq.
+{82171}{82204}- Cinq.|- Cinq.
+{82221}{82336}Donc la combinaison est|un, deux, trois, quatre, cinq.
+{82353}{82420}C'est la combinaison la plus stupide|que j'ai jamais vue !
+{82423}{82475}C'est ce qu'un idiot à sur ses bagages.
+{82480}{82523}Merci Votre Altesse.
+{82535}{82595}- Qu'est-ce que vous avez fait?|- J'ai éteint le mur.
+{82598}{82655}- Non, vous avez éteint le film.|- Mauvais bouton.
+{82660}{82715}- Eh bien remettez-le !|- Oui monsieur !
+{82732}{82823}Vous devriez faire réparer ça ! On est de retour|et on a la combinaison.
+{82828}{82876}- Schlotkin!|- Quoi ?
+{82878}{82957}C'est bon. Retournez à votre golf|et travaillez vos putts.
+{82969}{83087}Allons-y Arnold. Venez Gretchen.|Bien sûr, je vous ferai une facture pour ça.
+{83168}{83235}Oh! Je parie qu'elle aime les gros casques.
+{83307}{83384}- Ça marche?|- Oui monsieur. Nous avons la combinaison
+{83386}{83501}Génial ! Maintenant on peut prendre le|moindre souffle d'air frais de la planète Druidia.
+{83506}{83578}- Quelle est la combinaison ?|- Un, deux, trois, quatre, cinq.
+{83583}{83631}- Un, deux, trois, quatre, cinq ?|- Oui.
+{83636}{83724}C'est étrange. J'ai la même|combinaison sur mes bagages.
+{83729}{83818}- Préparez Spaceball One pour le départ.|- Bien monsieur.
+{83823}{83885}Et changez la combinaison de|mes bagages.
+{84048}{84118}Et voilà. Spaceball City droit devant.
+{84122}{84170}Bien. Je le pose là.
+{84242}{84295}Bon sang, c'est quoi ce truc ?
+{84307}{84377}On dirait un Winnebago avec des ailes. Punaise.
+{84379}{84439}Hé, vous ne pouvez pas vous garer ici !
+{84444}{84516}Ouais. Vous savez pas lire ? "Interdit de stationner".
+{84626}{84674}Ce fils de...
+{84748}{84851}Très bien, les mains en l'air.|Vous êtes en état d'arrestation pour stationnement illégal.
+{84856}{84899}Ouais !
+{85434}{85544}Warden Miller. Warden Miller.|Vous êtes demandé en V17.
+{85547}{85659}Attention, attention.|Scanners de la Section C , rapport.
+{85681}{85712}Naaan.
+{85794}{85808}Prisonniers royaux seulement
+{85810}{85899}- Elle doit être dans une de ces cellules.|- Ouais, mais laquelle ?
+{85940}{85976}- Non.|- Non.
+{86055}{86115}- Ça vient de part là.|- Ça ne peut pas être elle.
+{86355}{86398}C'est elle !
+{86590}{86638}C'est une basse !
+{86849}{86913}- Qu'est-ce que vous voulez ?|- C'est moi !
+{86935}{86995}- C'est nous !|- Lone Starr!
+{87000}{87079}- Comment vous nous avez trouvés ?|- Pas le temps de parler. Venez.
+{87084}{87141}- On doit bouger.|- Barf, comment vous avez fait ?
+{87208}{87256}Venez.
+{87637}{87714}Hé, ce sont les gars qui ont volé|nos uniformes !
+{87716}{87769}Et qui nous ont foutu la honte aussi!
+{87884}{87932}Oh-oh, on a de la compagnie !
+{88043}{88083}Attention !
+{88143}{88191}Mince ! C'est notre seule issue.
+{88196}{88249}- On est coincé !|- Je déteste ces films.
+{88321}{88407}- Oh. J'ai plus de munitions !|- Demi-tour ! Je les retiens !
+{88450}{88491}J'ai une idée !
+{88496}{88548}- Qu'est-ce que vous faites ?|- Qu'est-ce qu'il fait ?
+{88867}{88934}Bon boulot.|Oh-oh, encore des ping pongs! Courez.
+{88939}{88987}Allez !
+{89064}{89114}Ça se ferme !
+{89150}{89225}- La porte se ferme !|- Allez-y à fond !
+{89428}{89484}Ne bougez plus ou vous êtes mort.|Levez-vous !
+{89493}{89541}Capitaine, on les a.
+{89632}{89699}Spectaculaire tour de force mes amis.
+{89702}{89750}Mais tout ça pour rien.
+{89754}{89802}Tournez-vous je vous prie.
+{89812}{89860}Ah, quel dommage.
+{89867}{89915}Quel dommage.
+{89922}{90028}Alors princesse, vous pensiez pouvoir|rouler les forces impériales de...
+{90107}{90181}Bandes d'idiots! C'est pas eux!
+{90186}{90248}Vous avez capturé leurs doublures !
+{90260}{90337}Fouillez la zone. Trouvez-les !
+{90342}{90392}Trouvez-les !
+{90548}{90606}- Ouvrez la porte !|- Je ne peux pas. Ça a fondu.
+{90608}{90649}- Et celle-la ?|- Elle est fermée à clé.
+{90654}{90692}- Les clés ?|- A l'intérieur.
+{90697}{90749}- Oh, génial!|- Baissez-vous !
+{90814}{90929}- Tenez, gardez les à distance. Je m'occupe de la porte.|- Je n'utilise pas cette chose. Je déteste les armes.
+{90994}{91061}Mes cheveux ! Il a tiré sur mes cheveux.
+{91090}{91138}Fils de pute !
+{91392}{91440}Sainte merde !
+{91553}{91625}- C'était comment ?|- Pas mal.
+{91627}{91716}- Pas mal... pour une fille.|- Hé, c'était plutôt bien pour Rambo.
+{91721}{91771}Faisons péter ce joint.
+{92049}{92099}Président Skroob!
+{92104}{92166}- Salute!|- Hail Skroob!
+{92205}{92270}Le vaisseau est trop grand.|Si je marche le film sera fini.
+{92274}{92327}- Monsieur.|- Oui ? Ooh!
+{92332}{92401}Ne mettez jamais ce sale truc|en face de moi !
+{92406}{92473}Comment je peux savoir si vous ne|me faites pas des grimaces là dessous ?
+{92478}{92557}Président Skroob.|La voilà. La planète Druidia.
+{92564}{92612}Ah, la planète Druidia.
+{92617}{92682}Et 10000 ans d'air frais.
+{92684}{92756}- Vu comme il gouverne ça en tiendra pas 100.|- Quoi ?
+{92761}{92852}- On prépare le navire pour la métamorphose monsieur.|- Bien. Continuez comme ça.
+{92857}{92905}Prèt Kafka?
+{93054}{93106}Regardez, c'est Spaceball One.
+{93135}{93238}- Ils ont atteint le bouclier d'air.|- Et il s'ouvre.
+{93303}{93351}Le vaisseau est trop gros.
+{93353}{93425}Comment vont-ils prendre l'air?|Je ne vois pas de tuyau.
+{93555}{93603}Qu'est-ce qui se passe ?
+{93665}{93727}Le vaisseau... change.
+{94063}{94111}Oh mon Dieu.
+{94113}{94168}Ce n'est pas seulement un vaisseau spatial.
+{94173}{94221}C'est un Transformer!
+{94468}{94564}- Il change en...|- Une gigantesque...
+{94566}{94674}- Bonniche ?|- Avec un aspirateur.
+{94679}{94756}Alors c'est comme ça qu'il vont|prendre l'air.
+{95259}{95307}Metamorphose terminée monsieur.
+{95312}{95365}Spaceball One est maintenant
+{95468}{95502}Megabonniche.
+{95511}{95571}- Bien.|- Remarquable.
+{95573}{95633}Maintenant commencez l'opération
+{95638}{95674}Aspi-Suce !
+{95832}{95909}Suce. Suce. Suce!
+{96240}{96298}Au revoir petite Vespa.
+{96314}{96398}Mon... petit...
+{96403}{96458}...bébé... Vespa.
+{96628}{96698}- Le sac d'air, il est presque plein !|- Qu'est-ce qu'on va faire ?
+{96789}{96861}On doit agir vite.|Première étape: on inverse l'aspi
+{96866}{96914}et on renvoit l'air sur la planète.
+{96919}{97000}Deuxième étape: on détruit ce truc.
+{97005}{97096}- Mais c'est pas dangereux ?|- Extrêmement. En plus
+{97120}{97192}je ne sais absolument pas comment|on va faire ça.
+{97194}{97273}- Et cette bague que Yogurt t'as donnée?|- Oh ouais.
+{97278}{97338}- Mais...|- Allez boss. Essayez un coup.
+{97343}{97400}OK. Ça ne coûte rien.
+{97628}{97681}- Regardez ça.|- Wow!
+{97700}{97751}Ça ... Ça marche !
+{97789}{97832}Allez Schwartz.
+{97834}{97928}Allez Schwartz. Allez Schwartz!
+{98048}{98125}- Helmet, qu'est-ce qui se passe?|- Sandurz, qu'est-ce qui se passe?
+{98129}{98170}C'est Megabonniche.
+{98175}{98225}Elle est passée de sucer à souffler.
+{98230}{98280}Quoi? Ils récupèrent leur air.
+{98285}{98333}- Faites quelque chose.|- Faites quelque chose.
+{98340}{98374}Faites quelque chose !
+{98760}{98808}Je respire.
+{98825}{98868}De l'air.
+{98904}{98942}De l'air !
+{99136}{99189}- Eteins les lumières.|- Extinction des lumières.
+{99213}{99273}- Passe en infrarouge.|- Passage en infrarouge.
+{99278}{99328}- Prie Dieu.|- Prière à Dieu.
+{99551}{99616}Attention. Attention.
+{99781}{99822}Qu'est-ce que tu fais ?
+{99827}{99875}Je scanne.
+{100023}{100119}Il doit y avoir un mécanisme d'auto-destruction|dans la zone du cerveau central.
+{100232}{100297}- Je crois qu'on vient de le trouver.|- Ou ?
+{100299}{100347}Regardez.
+{100443}{100513}Bingo! Le voilà.
+{100529}{100582}Juste en dessous de nous.
+{100585}{100666}- Reste en suspension Barf.|- Je reste en suspension.
+{100680}{100752}- Je descend.|- Il descend.
+{100769}{100817}Pas moi.
+{101807}{101855}Bon sang, qu'est-ce que vous faites?
+{101882}{101939}Le... pincement du cou Vulcan ?
+{101944}{102006}Non, non, non, imbécile.|Vous le faites trop haut.
+{102009}{102076}C'est plus bas, là ou|le cou rejoint l'épaule.
+{102081}{102145}- Comme ça?|- Ouais!
+{102208}{102256}Merci.
+{102368}{102438}Identification d'empreintes SVP.
+{102443}{102505}Identification d'empreintes SVP.
+{102517}{102572}Identification d'empreintes SVP.
+{102589}{102632}Indentification...
+{102685}{102723}Encore merci.
+{102857}{102908}Bouton d'autodestruction.|Ne pas pressez à moins d'un réel réel besoin.
+{102915}{102968}C'est toi Mylar?
+{103215}{103263}Qui êtes-vous? Que faites vous?
+{103267}{103311}Ça.
+{103426}{103469}Faites de beaux rêves.
+{103886}{103951}Pas si vite Lone Starr.
+{103953}{103987}Helmet!
+{103992}{104099}Alors, enfin nous nous rencontrons pour la|première fois et la dernière.
+{104164}{104265}Avant que tu meures, il y a quelque chose|que tu dois savoir à propos de nous Lone Starr.
+{104284}{104318}Quoi?
+{104327}{104466}Je suis le père du frère du neveu du cousin|de ton ancien colocataire.
+{104526}{104613}- Et on a quoi comme liens?|- Absolument rien!
+{104627}{104696}Et c'est ce que tu es sur le point de devenir.
+{104718}{104766}Prépare toi à mourir.
+{104943}{104987}Tu as la bague.
+{104991}{105063}Et je vois que ton Schwartz|est aussi grand que le mien.
+{105114}{105195}Maintenant voyons comment tu t'en sers.
+{105735}{105787}Euh... C'est lui.
+{105799}{105847}Quoi ?
+{106229}{106315}Merde! Je déteste quand mon|Schwartz s'entortille.
+{106329}{106401}OK, peut-être que si je mets|ma jambe sur la tienne,
+{106406}{106454}on pourrait les débloquer comme...
+{106459}{106511}OK. Un, deux, trois, go!
+{107538}{107631}Alors Lone Starr,|Yogurt t'as bien formé.
+{107662}{107751}Si il y a bien quelque chose que je|méprise, c'est un combat loyal..
+{107753}{107854}Mais si je dois, je dois.|Que le meilleur gagne.
+{107873}{107921}Tape là.
+{107998}{108106}La bague ! Je crois pas que tu sois tombé|dans le plus vieux panneau du monde!
+{108111}{108214}Quel niais!|C'est quoi ton problème mec? Allez!
+{108216}{108274}Tu sais quoi?|Laisse-moi te la rendre. Oh!
+{108276}{108379}Oh, regarde ça. Tu t'es encore fait avoir.|Je le crois pas mec.
+{108434}{108552}Alors Lone Starr, maintenant tu vois que|le mal triomphera toujours
+{108554}{108609}parce que le bien est stupide.
+{108840}{108967}Très impressionnant Lone Starr. Dommage que|ça n'était pas pour le championnat du monde de Sports.
+{108991}{109070}Utilise le Schwartz Lone Starr.|Utilise le Schwartz.
+{109072}{109122}Je ne peux pas. J'ai perdu la bague.
+{109127}{109194}Oublie la bague. La bague c'est de la camelote.
+{109199}{109262}Je l'ai trouvée dans une boite de Cracker Jack.
+{109266}{109353}Le Schwartz est en toi Lone Starr.|Il est en toi!
+{109357}{109408}D'accord. Je vais essayer.
+{109410}{109482}Dis au revoir à tes deux meilleures amies.
+{109487}{109552}Et je ne veux pas dire|tes potes dans le Winnebago.
+{109772}{109835}Merci d'avoir appuyé sur le bouton d'auto-destruction.
+{109839}{109911}Ce vaisseau s'auto-détruira dans trois minutes.
+{110024}{110108}Qu'est-ce qui se passe ?|Bon sang, où on est ? A Paris?
+{110110}{110153}Merci d'avoir appuyé sur le bouton.
+{110158}{110278}Ce vaisseau s'auto-détruira dans|exactement 2 minutes et 45 secondes.
+{110281}{110333}Arrétez ça.|Est-ce qu'il y a un moyen d'arrêter ça?
+{110336}{110386}Je ne peux pas. C'est irréversible.
+{110391}{110429}Comme mon imper.
+{110432}{110520}Attention, c'est le Colonel Sandurz|du centre de commande. Abandonnez le vaisseau!
+{110525}{110599}Abandonnez le vaisseau!|Que tout le personnel se dirige vers les modules de secours.
+{110611}{110676}Fermez le cirque. Evacuez le zoo.
+{110681}{110786}Le mécanisme d'auto-destruction a été|activé. Abandonnez le vaisseau.
+{110796}{110849}Sandurz! Sandurz, vous devez m'aider.
+{110854}{110947}Je ne sais pas quoi faire.|Je ne peux pas prendre de décision. Je suis président!
+{110952}{111065}Voilà votre avertissement des 2 minutes.|Ce vaisseau s'auto-détruira dans 2 minutes.
+{111069}{111141}Lancez tout les modules de secours|une fois qu'ils sont pleins.
+{111146}{111192}Qu'est-ce qui se passe? Ou il est?
+{111201}{111252}* Spaceballs
+{111256}{111304}* Attention!
+{111355}{111398}- Ou est-il?|- Ici.
+{111400}{111472}On a une minute 40 avant la fin|du monde. C'est parti!
+{111477}{111525}* Spaceballs
+{111575}{111602}Accélère à fond.
+{111606}{111662}- Enclenche les hyper jets.|- Enclenchement des hyper jets.
+{111690}{111791}* Si vous vivez dans une bulle|Et que vous ne faites pas attention
+{111793}{111870}- Hé, où pensez vous aller ?|- Pizza à livrer !
+{111875}{111973}* Alors vous allez avoir des problèmes|Parce qu'on va voler votre air
+{112048}{112143}* Parce que ce que vous avez on en a besoin|Et tout ce qu'on fait c'est des méchantes choses
+{112146}{112203}* Nous sommes les Spaceballs
+{112206}{112230}* Attention
+{112232}{112306}* Nous sommes les Spaceballs
+{112400}{112460}Hé, c'est mon module de secours.|Qui êtes vous?
+{112462}{112537}Je suis la femme à barbe.|Et vous, une des étrangetés?
+{112601}{112671}Hé, revenez! C'est mon module! Non!
+{112757}{112827}Reviens sale grosse, pute barbue!
+{112848}{112887}Il ne reste qu'un module.
+{112892}{112954}Et on est trois.|Et je suis président.
+{112956}{113064}Eh bien les gars, c'est un chouette navire.|Je pense que vous pourrez mourir dedans.
+{113074}{113122}Au revoir.
+{113189}{113237}C'est quoi le problème avec cette ceinture?
+{113424}{113462}* Spaceballs
+{113465}{113527}Ce vaisseau s'auto-détruira dans 20 secondes.
+{113529}{113599}C'est votre dernière chance d'appuyer|sur le bouton d'annulation.
+{113604}{113656}Le bouton d'annulation? Vite!
+{113692}{113747}* Spaceballs
+{113750}{113798}* Attention!
+{113843}{113910}- Ou il est? Ou il est?|- Il doit être là.
+{113915}{113997}- Hors service.|- Chié! Même dans le futur rien ne marche.
+{113999}{114076}Ce vaisseau s'auto-détruira dans|exactement 10 secondes.
+{114102}{114141}Compte à rebours.
+{114145}{114196}Dix, neuf,
+{114198}{114241}huit, six
+{114246}{114294}Six? Qu'est-ce qui est arrivé au sept?
+{114299}{114342}Je plaisantais.
+{114349}{114397}Voilà l'autre bout. Plus vite!
+{114402}{114472}Six, cinq, quatre,
+{114476}{114548}trois, deux, un.
+{114560}{114625}- Bonne journée.|- Merci.
+{114886}{114929}On a réussi!
+{115090}{115138}On a tous réussi.
+{115591}{115694}Alors j'espère que vous appellerez ça|un cas de... homme qui mord un droide?
+{115761}{115829}Sur une triste note, Pizza The Hutt,
+{115833}{115898}célèbre mi-homme, mi-pizza,
+{115903}{116006}a été retrouvé mort plus tôt dans la journée|sur le siège arrière de sa limousine.
+{116011}{116159}Manifestement, le célèbre gangster s'est retrouvé|bloqué dans sa voiture et s'est dévoré jusqu'à la mort.
+{116171}{116258}A suivre:|La revue de Pongo sur "Rocky Cinq
+{116260}{116320}Mille". Pongo?
+{116356}{116414}T'as entendu ça?|Pizza a cassé sa pipe.
+{116418}{116522}On a plus à lui payer le million.|On peut le garder pour nous.
+{116526}{116569}Ouais.
+{116991}{117063}- Papa! Oh Papa!|- Oh Vespa ma chérie.
+{117068}{117159}Je pensais ne jamais te revoir.|Oh ma tendre petite fille.
+{117164}{117217}Je suis si heureux que tu sois rentrée saine et sauve.
+{117234}{117330}Et, petite Vespa, voilà quelqu'un d'autre|heureux de te voir.
+{117392}{117445}Oh, salut.
+{117449}{117502}Ou étiez-vous ?
+{117855}{117903}Merci chérie.
+{118181}{118224}Salut gaillard.
+{118229}{118262}Salut rêve.
+{118277}{118365}- Vous voudrez quoi?|- On fait juste le plein, alors qu'est-ce qu'il y a de prêt ?
+{118368}{118425}J'ai la soupe spatiale ou le spécial spatial.
+{118428}{118502}- Euh, je vais prendre la soupe.|- OK.
+{118507}{118569}Je vais prendre le clivage. Euh, le spécial.
+{118598}{118677}OK, un spécial et une soupe.
+{118754}{118835}- Prêts à commander?|- Bonjour. Oui, on va tout les deux prendre du poisson lunaire.
+{118838}{118919}Quelque chose à boire?|Hé, regardez où vous remuez ça!
+{118924}{119037}Huh? Oh, écoutez, je ne le contrôle pas|chérie. Je ne peux rien faire avec.
+{119156}{119202}- Bonté!|- Quoi?
+{119204}{119286}Non, on était perdu.|Personne ne savait où on était.
+{119288}{119401}Et alors Harry commence à sentir tous|les arbres alentours.
+{119406}{119485}Et il dit "Je sais. On est sur Pluto".
+{119490}{119602}Et on dit "Harry, comment tu peux le savoir?"|Il dit "Aux aboiements idiot!"
+{119605}{119653}Aux aboiements!
+{119737}{119780}Il va bien ?
+{119837}{119900}- Hé, qu'est-ce qu'il a ce gars?|- Je sais pas!
+{119981}{120041}- Apportez-lui de l'eau!|- De l'eau mon cul!
+{120044}{120099}Apportez-lui du Pepto-Bismol!
+{120116}{120187}Serveuse! Serveuse! Qu'est-ce qu'il a commandé?
+{120190}{120264}- Oh, il a pris le spécial.|- Le spé... C'est ce que j'ai commandé!
+{120267}{120336}- Changez ma commande pour une soupe.|- Bonne initiative.
+{120535}{120583}Oh non.
+{120588}{120636}Pas encore.
+{120904}{120960}* Hello mon bébé|Hello ma chérie
+{120964}{121007}* Hello ma jazzy poupée
+{121015}{121067}* Envoie-moi un baiser
+{121070}{121123}* Bébé, mon cœur est en feu
+{121127}{121185}* Si tu me repousses chérie, tu me perdras
+{121187}{121259}* Alors tu seras seule|Oh bébé, téléphone
+{121264}{121343}* Et dis-moi que je suis le seul
+{121408}{121461}L'addition s'il vous plait.
+{121585}{121662}Mariage Royal de la princesse Vespa|et du prince Valium. Deuxième prise
+{121700}{121760}Cinq minutes avant l'instant magique.
+{121765}{121839}Tu vas bien ma chérie?|Tu as l'ai un peu... frivole.
+{121842}{121928}Ne t'inquiètes pas pour moi Père.|Je suis totalement guérie de lui.
+{121938}{122055}Huh! Il n'aurait pas pu rester pour le mariage.|Juste récupérer son million et filer.
+{122070}{122125}Il n'a pas pris le million.
+{122130}{122170}- Ah non ?|- Non.
+{122185}{122276}Il a juste pris 248 space dollars|pour le lunch, l'essence et les péages.
+{122530}{122662}J'arrive pas à croire que t'aies refusé l'argent. Mais|on aurait pu rester pour la bouffe. Je crève de faim.
+{122664}{122719}- Tu n'as rien à manger?|- Nan.
+{122743}{122825}Oh, attends une minute.|Yogurt m'a donné ce gâteau de la fortune.
+{122827}{122878}- Allez, voilà la bouffe.|- Wow, merci.
+{122880}{122923}- Je vais le partager.|- Non.
+{122928}{122971}OK.
+{123045}{123101}- Yogurt!|- Salut les gars.
+{123105}{123189}Eh bien tu as ouvert ton gâteau,|alors voilà ta chance.
+{123192}{123285}Lone Starr, tu connais ce médaillon que tu portes
+{123288}{123364}mais tu ne sais pas ce qu'il signifie?|Voilà ce qu'il signifie.
+{123372}{123441}C'est un certificat de naissance royal. Oui!
+{123446}{123527}Ton père était un roi,|ta mère était une reine,
+{123530}{123618}ce qui fait de toi un prince certifié.
+{123623}{123681}Hé, je suis un prince.
+{123686}{123736}Je suis un prince! Ce qui veut dire...
+{123738}{123839}Ce qui veut dire que si tu te dépêches|il pourrait y avoir une princesse dans ton avenir.
+{123841}{123909}Si tu veux l'empêcher d'épouser|la Beauté endormie,
+{123913}{123990}il y a une cannette de fuel spéciale|dans ta boite à gants.
+{123992}{124043}- Bonne chance les gars.|- Bye Yogurt.
+{124045}{124088}Et, Yogurt,
+{124093}{124146}...merci.|- Pas de quoi.
+{124151}{124299}Et que le Schwartz soit avec touaaaaaa!
+{124319}{124367}Oh, quel monde.
+{124371}{124467}- Barf, ouvre cette boite à gants.|- Voilà... Votre Altesse.
+{124549}{124613}Wow! Du Schwartz liquide!
+{124616}{124671}- Vite, mets-le dans le réservoir.|- Bien.
+{124774}{124822}Regarde ça!
+{124848}{124894}- C'est fait.|- Accroche-toi Barfo,
+{124896}{124959}on va faire une traînée spatiale.
+{126210}{126297}Pauvre de moi, que sont ces choses|qui sortent de son nez?
+{126330}{126378}Hé, hé, attention à mon casque.
+{126455}{126498}Des Spaceballs!
+{126505}{126580}Oh merde. Où va la planète.
+{126651}{126755}Chers amis,|nous sommes rassemblés ici aujourd'hui...
+{126769}{126803}...à nouveau.
+{126805}{126889}- Tu ne m'as pas dit qu'il avait refusé l'argent.|- Ce n'était pas important.
+{126906}{127002}- Je peux continuer s'il vous plait?|- En plus il m'a demandé de ne pas te le dire.
+{127018}{127061}Merci.
+{127066}{127193}Pour unir la princesse Vespa|et la princesse Valium...
+{127217}{127272}Je suis désolé, c'est les cheveux.
+{127277}{127320}Le prince Valium
+{127323}{127380}par les liens sacrés du mariage.
+{127385}{127457}Je comprends tout maintenant.|Tu ne vois pas qu'il m'aime?
+{127467}{127565}J'essaie de célébrer un mariage ici,|ça n'a rien à voir avec l'amour. Silence.
+{127567}{127608}- Je suis désolé.|- Je suis désolé.
+{127611}{127673}- Je suis désolé aussi.|- Ne soyez pas désolé, taisez-vous.
+{127678}{127730}Je suis désolé !
+{127781}{127946}Pour unir la princesse Vespa et le prince Valium|par les liens sacrés...
+{127949}{127977}...de moly!
+{128092}{128136}Euh... du mariage.
+{128140}{128198}C'est lui.|Je sais que c'est lui. Il est revenu!
+{128203}{128275}C'est ça. Plus aucune chance.|On fait la version courte.
+{128279}{128354}Prince Valium, prenez-vous la|princesse Vespa pour épouse?
+{128359}{128387}Euh-huh.
+{128390}{128490}- Prenez-vous Valium pour époux?|- Euh... eh bien, je...
+{128495}{128567}Je suppose. Eh bien, oh, je ne sais pas.
+{128572}{128625}- Non! Elle ne veut pas.|- Quoi?
+{128757}{128833}- Mais vous êtes qui bon sang?|- Le prince Lone Starr.
+{128850}{128900}- Prince?!|- Je viens juste de le découvrir.
+{128912}{128994}C'est ce que ça dit.|Je suis un prince honnête devant Dieu.
+{128996}{129035}Voulez-vous l'épouser?
+{129049}{129097}Eh bien laissez-moi réfléchir.
+{129133}{129167}Oui!
+{129171}{129267}J'en ai marre. Je me fous de savoir qui|mais je vais marier quelqu'un aujourd'hui.
+{129270}{129342}- Qui êtes-vous ?|- Je suis le garçon d'honneur, Barf.
+{129346}{129402}- Le nom complet?|- Barfolomé.
+{129411}{129459}- Allez-vous vous marier?|- Non.
+{129461}{129500}Alors sortez de là!
+{129509}{129591}OK, on y va. La version super courte.
+{129593}{129636}- Voulez-vous?|- Oui.
+{129641}{129670}- Voulez-vous?|- Oui.
+{129672}{129737}Bien. Vous êtes mariés. Embrassez-la !
+{129740}{129804}- Je t'aime.|- Je t'aime.
+{130073}{130138}Eh bien adieu, Alarme de virginité.
+

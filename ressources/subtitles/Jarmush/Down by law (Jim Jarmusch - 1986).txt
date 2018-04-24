@@ -1,0 +1,792 @@
+{2175}{2222}Qu'est-ce tu fais ?
+{2240}{2297}Je regarde la lumière qui change.
+{4115}{4145}Tu dors, chérie ?
+{8307}{8337}Parce que...
+{8352}{8415}tu t'occupes pas de moi,
+{8435}{8472}tu veux pas de moi,
+{8515}{8582}tu refuses de t'engager.
+{8597}{8645}C'est fini, Zack !
+{8667}{8720}Complètement fini entre nous.
+{8737}{8850}Trouve-toi une minette.|Tu ne devrais pas avoir de mal.
+{8857}{8937}J'en ai marre de toi|et de tes émissions de merde.
+{8955}{9015}Tu fais vraiment chier !
+{9445}{9507}On va pas parler de ça maintenant.
+{9675}{9757}Regarde-toi.|Regarde comme tu te fous en l'air.
+{9805}{9857}Tu creuses ta tombe.
+{9935}{10005}Tu peux pas rester|à la même station ?
+{10070}{10150}Il faut toujours|que tu bousilles ton avenir ?
+{10260}{10317}De quoi t'as tellement peur ?
+{10342}{10442}T'as raison, Laurette.|On peut pas toujours vivre au présent.
+{10870}{10937}Tu devrais peut-être|retourner à New York,
+{10945}{10990}Detroit ou Baltimore.
+{11010}{11067}Tu dis que tu t'étais plu, là-bas.
+{11130}{11245}Retourne dans une de ces stations|et demande-leur une autre chance.
+{11290}{11362}Y a pas de mal à demander.
+{11392}{11462}Pourquoi c'est si dur pour toi ?
+{11582}{11632}Tu es un bon D.J., Zack.
+{11670}{11742}T'as qu'à faire reluire|un peu les gens.
+{11750}{11800}C'est tout ce qu'ils demandent.
+{11885}{11962}Je fais jamais ça,|et tu le sais très bien.
+{12032}{12062}Laisse tomber.
+{12110}{12160}Je te parle plus !
+{12212}{12255}Parce que t'es même pas là.
+{12260}{12332}Je ne te laisse plus|faire joujou avec moi !
+{12522}{12617}Je te déteste.|Tu es buté et con !
+{12645}{12742}Je suis débile de rester avec toi.|Tu me pompes l'air.
+{12820}{12900}Tu n'as pas d'avenir,|en tout cas pas avec moi.
+{12922}{12955}Pas les chaussures !
+{13020}{13085}Vas-y, frappe-moi, espèce de con !
+{13337}{13400}Bon, c'est fini entre nous, Laurette.
+{17057}{17117}On pourrait faire du fric,|tous les deux.
+{17127}{17182}Mais tu claques tout.
+{17192}{17267}Tu joues, tu te défonces, tu frimes.
+{17285}{17337}Faut bien que je me marre.
+{17367}{17397}Je sais.
+{17427}{17525}Tu as toujours des plans|pour l'avenir. Et pourquoi ?
+{17562}{17617}Parce que tu bousilles le présent.
+{17655}{17737}Regarde Julie, cette Blanche|avec qui tu as démarré.
+{17745}{17792}C'est une épave, maintenant.
+{17800}{17867}Comme toutes tes filles,
+{17877}{17902}sauf moi.
+{17910}{18010}Je peux te dire des trucs sur toi|dont tu t'es jamais douté...
+{18015}{18077}qui n'ont jamais pénétré|ton crâne pointu.
+{18102}{18152}Enfin, on ne sait jamais.
+{18190}{18280}Maman disait toujours|que l'Amérique, c'est une marmite
+{18312}{18372}parce que quand on fait bouillir,
+{18377}{18437}toute la lie remonte à la surface.
+{18492}{18557}Y a peut-être de l'espoir pour toi.
+{18650}{18687}Tu m'écoutes ?
+{18737}{18757}Merde.
+{18785}{18835}Tu comprends pas les gens.
+{18842}{18875}C'est ça ton problème.
+{18882}{18945}En tout cas, pas les femmes,
+{18952}{19025}et un bon mac devrait.
+{19095}{19180}Si tu étais un bon mac,|tu m'aurais déjà frappée,
+{19187}{19230}tu aurais réagi.
+{19247}{19370}Je peux rester là à user ma salive,|tu n'entends pas un mot.
+{19375}{19435}A croire que|tu comprends pas l'anglais,
+{19460}{19520}t'es perdu dans tes projets.
+{19530}{19577}Mais je te connais, Jack.
+{19665}{19717}Qu'est-ce que tu peux causer.
+{20025}{20087}Qu'est-ce que tu veux ?|Je te dois rien.
+{20160}{20202}ça m'étonnerait.
+{20437}{20465}Non.
+{20500}{20552}Amène-toi et sois bref.
+{20695}{20745}Le gros lard rapplique.
+{20885}{20937}Couvre la marchandise.
+{20970}{21045}Et prends ça,|des fois qu'il soit devenu malin.
+{22450}{22487}ça va, Jack ?
+{22700}{22737}Elle est chouette.
+{22827}{22857}Je sais ce que tu penses
+{22862}{22937}après le coup du mouchard,|à Jefferson Parish,
+{22942}{22985}et je te comprends.
+{23005}{23050}Mais t'es trop sérieux.
+{23067}{23140}Le passé, c'est le passé.
+{23180}{23237}Je suis venu pour effacer tout ça.
+{23245}{23287}Et comment tu vas t'y prendre ?
+{23295}{23337}En te faisant une fleur.
+{23345}{23392}Je suis aussi sérieux qu'un cancer.
+{23400}{23452}C'est forcément bidon.
+{23470}{23567}J'ai cherché un moyen|d'arranger les choses
+{23575}{23622}et j'ai fini par trouver.
+{23645}{23722}Allez, passons l'éponge.
+{23785}{23855}Toi, je te vois venir.
+{23865}{23955}Tu sais que ça va marcher pour moi
+{23965}{24007}et tu veux être sur le coup.
+{24020}{24087}C'est pas un secret.|Je sais que t'es bien parti.
+{24097}{24180}Ecoute-moi, vois mon petit cadeau,
+{24195}{24237}et si t'en veux pas, dis-le-moi.
+{24245}{24277}Quel cadeau ?
+{24287}{24327}Tu vas tomber raide !
+{24335}{24380}J'ai un de ces petits lots,
+{24387}{24442}tu vas pas croire|que ça peut exister.
+{24447}{24480}ça, je peux croire.
+{24485}{24537}Non, sérieux, mec !
+{24550}{24630}Dix-neuf ans, une Blanche, superbe.
+{24637}{24692}Une déesse cajun !
+{24755}{24825}Je l'ai parquée|au Bellechasse Hotel
+{24832}{24882}et elle t'attend, Jack.
+{24890}{24915}C'est mon cadeau.
+{24922}{25007}Le plus super-chouette cadeau|que je pouvais te faire.
+{25025}{25087}Tu crois pas que je vais marcher ?
+{25145}{25190}Vas-y voir toi-même.
+{25205}{25297}Si je te mens, t'y perds rien.
+{25327}{25417}Je voulais te donner|le premier choix,
+{25422}{25462}avant qu'elle soit tapée,
+{25470}{25522}parce qu'elle est géniale !
+{25530}{25577}Pourquoi t'en veux pas, toi ?
+{25585}{25660}Pourquoi tu la files pas|à tes cons de ''vrais'' amis ?
+{25670}{25735}Parce que j'essaie|qu'on soit à nouveau copains.
+{25742}{25785}ça te suffit pas ?
+{25877}{25922}Bien sûr,|tu l'as même pas touchée ?
+{26015}{26082}J'irai voir ta déesse de Mars.|Mais je vais te dire,
+{26090}{26152}si tu joues au con,|si tu me fais perdre mon temps,
+{26160}{26220}je vais t'arranger,|tu peux compter dessus.
+{26227}{26317}Personne va rien regretter,|surtout pas toi.
+{26330}{26365}Tu me remercieras.
+{26372}{26437}Tu te souviendras de moi|toute ta vie !
+{27265}{27292}ça rapporte ?
+{27300}{27337}C'est mort.
+{27357}{27410}Une mignonne comme toi ?|Pourquoi ?
+{27470}{27510}Je repasserai.
+{27570}{27607}ça va, LC ?
+{27627}{27667}Jack, ça fait plaisir.
+{27675}{27710}T'es un peu tôt, ce soir.
+{27717}{27747}Je suis sur un coup.
+{27755}{27802}Les dames sont bonnes avec toi ?
+{27817}{27852}Tu sais ce qu'on dit...
+{27860}{27912}si t'as plus faim,|fais comme l'écrevisse,
+{27920}{27942}pars à reculons.
+{27950}{27975}A plus tard.
+{28152}{28192}ça marche, Julie ?
+{29245}{29302}Il paraît que tu cherches quelqu'un ?
+{29390}{29460}Il te faut un type|qui te traite comme une dame.
+{29485}{29572}Je ne sais pas si tu connais|la rue ici, mais ça rigole pas.
+{29580}{29612}Avec ces types...
+{29640}{29750}tu risques de tomber sur un mec accro|qui va t'accrocher à ton tour...
+{29755}{29787}Et là, il te tient.
+{29817}{29870}Un autre va te marquer,|ou te blesser...
+{29912}{29980}Avec moi, t'auras du blé, des bijoux,
+{30000}{30032}tout ce que tu voudras.
+{30042}{30092}Renseigne-toi.|J'ai des relations.
+{30112}{30160}Mon truc est au point.
+{30170}{30225}Tu travailles pour moi,|je m'occupe de toi.
+{30255}{30280}Tirez pas !
+{30367}{30387}Alors, Jack ?
+{30395}{30477}Mandino, qu'est-ce qu'il y a ?|Je suis avec ma petite amie.
+{30657}{30727}Arrête, mec.|Qu'est-ce que t'essaies de me coller ?
+{30840}{30882}T'es un foutu malade.
+{30935}{30955}Ta petite amie ?
+{30962}{31002}Tu sais que je fais pas|ces trucs-là...
+{31020}{31085}Emmenez ce fils de pute !
+{31317}{31360}Je m'occupe de la gosse.
+{31457}{31510}Tout va bien, chérie.
+{31602}{31632}C'est fini.
+{31740}{31832}On reste ici un instant et puis...
+{31850}{31882}tu vas venir avec moi.
+{31905}{31975}Ne t'inquiète de rien.
+{32030}{32082}Ne t'inquiète pas.
+{32100}{32137}Je m'occupe de toi.
+{33367}{33430}Ce monde est triste et beau.
+{33525}{33587}Sûr, ce monde est triste et beau.
+{33640}{33675}Elle est bonne, celle-là.
+{33887}{33917}Casse-toi.
+{33930}{33982}Merci. Toi aussi.
+{34070}{34107}Casse-toi !
+{34137}{34202}Casse-toi. Casse-toi !
+{34220}{34292}Ce monde est triste et beau.|Casse-toi...
+{34385}{34435}Bonsoir, et cassez-vous|tout le monde.
+{34442}{34485}Merci. Et casse-toi toi-même.
+{34492}{34527}C'est un plaisir. Merci.
+{35727}{35750}Zack !
+{35830}{35887}Qu'est-ce que tu fous|dans les poubelles ?
+{35915}{35965}Laisse-moi, Preston.
+{36040}{36077}Je suis de mauvais poil.
+{36087}{36147}Alors, je suis le type|que tu cherches.
+{36155}{36225}En fait, c'est moi qui te cherchais.
+{36237}{36272}Mauvais signe.
+{36280}{36325}Ecoute, Zack !
+{36345}{36402}J'ai un bon coup pour toi.
+{36440}{36507}Une heure de boulot|pour plein de blé.
+{36515}{36547}Pas intéressé.
+{36555}{36607}T'es vraiment de mauvais poil.
+{36615}{36677}T'attends même pas|que je t'en cause.
+{36700}{36762}Tu m'écoutes une minute ?
+{36772}{36842}Une minute de ton précieux temps ?
+{36920}{36960}Fous le camp, Preston !
+{37142}{37207}J'ai mille dollars pour toi
+{37217}{37322}en échange d'une heure|de ton temps qu'est si précieux.
+{37347}{37447}C'est pas un casse,|ni une petite arnaque,
+{37460}{37525}ni une livraison de substances,
+{37532}{37570}rien de tout ça.
+{37580}{37637}Il n'y a qu'à conduire une voiture,
+{37645}{37710}d'un quartier à un autre, seul.
+{37780}{37800}C'est tout.
+{37835}{37902}Quel genre de voiture, Preston ?
+{37917}{37970}Une très belle voiture.
+{38030}{38115}Une très belle voiture,|une étrangère qui coûte un max.
+{38127}{38212}Il se trouve qu'elle est en train|de changer de mains.
+{38302}{38390}Tout ce que t'as à faire,|c'est traverser la ville avec,
+{38397}{38445}la garer et t'en aller.
+{38455}{38522}Je te paie une moitié d'avance,|l'autre après.
+{38532}{38587}En une heure, c'est réglé.
+{38607}{38675}C'est sans risque, propre,
+{38692}{38782}et crois-moi, je peux trouver|un million de mecs pour le faire.
+{38790}{38857}Pourquoi tu le fais pas toi-même ?
+{38872}{38905}J'offre mille dollars
+{38912}{38992}pour ne pas avoir à répondre|à des questions débiles.
+{39075}{39165}Je pourrais accepter|les mille d'avance...
+{39217}{39257}et réfléchir après.
+{39480}{39532}C'est vrai que t'es de mauvais poil.
+{39555}{39617}Rien que pour te remonter un peu,
+{39640}{39707}je te file 750 d'avance, ça va ?
+{39755}{39847}C'est bon, M. Super-Classe,
+{39862}{39905}je vais faire ça pour toi.
+{40005}{40040}Jaguar !
+{40115}{40165}Je te file tout le paquet...
+{40172}{40197}d'avance,
+{40247}{40292}à charge de revanche.
+{40455}{40540}Tu te paies vingt filles,|avec tout ça.
+{41557}{41602}En douceur...
+{42332}{42407}Je retourne pas à Detroit,|ça c'est sûr.
+{42535}{42605}Je veux, que je suis un bon D.J. !
+{42707}{42780}WWOZ, WHLO,
+{42827}{42902}WAKR, allez leur demander.
+{43077}{43170}Bientôt minuit...|c'est le Lee Baby Simms show.
+{43280}{43365}C'est mardi soir|et j'attends vos appels.
+{43380}{43417}La ligne est à vous.
+{43425}{43490}Dites à Lee Baby|que vous l'aimez toujours.
+{43622}{43687}Le prochain morceau est pour...
+{43715}{43747}pour toi, Laurette.
+{44805}{44845}Sors de là, ducon.
+{45070}{45102}J'allais trop vite ?
+{45110}{45157}Les mains sur le capot.
+{45277}{45332}Chatouille-le un peu.
+{45340}{45370}Qu'est-ce que vous regardez ?
+{45377}{45410}Ta sale gueule.
+{45417}{45442}Les menottes.
+{45475}{45525}Serre bien et tords un peu.
+{45637}{45667}J'ai rien fait.
+{45675}{45707}Pousse-toi.
+{45772}{45807}Voyons un peu.
+{45815}{45837}C'est ma voiture.
+{45845}{45867}C'est tes fesses.
+{45897}{45947}Qu'est-ce que vous cherchez ?
+{45990}{46055}Voyons s'il y a pas un bonus|dans le coffre.
+{46062}{46100}Vous avez rien contre moi.
+{46287}{46317}C'est lui, Herb.
+{46352}{46377}Y a erreur.
+{46430}{46502}Colle-moi ce petit malin|dans la bagnole !
+{46567}{46607}C'est un coup monté !
+{52262}{52325}Gardien ! Je veux du feu !
+{52377}{52415}C'est pas vrai !
+{52607}{52657}Qu'est-ce que je fous là ?
+{52742}{52777}Tu vois pas ?
+{52800}{52890}T'es pas le seul con d'innocent, ici.
+{52987}{53030}On m'a piégé aussi.
+{53082}{53117}Pareil que toi.
+{53217}{53302}Je suis pas pareil que toi.|J'ai rien à faire avec toi.
+{53310}{53397}Tu saisis ?|Pour moi, t'existes même pas.
+{53940}{53987}T'existes pas non plus.
+{54195}{54247}Les murs existent pas.
+{54300}{54340}Ni le sol.
+{54410}{54465}La taule, elle est pas là.
+{54472}{54517}Les lits sont pas là.
+{54615}{54657}Les barreaux sont pas là.
+{54725}{54772}Rien de tout ça n'existe.
+{54905}{54952}Rien du tout.
+{55150}{55197}Qu'est-ce que t'as, mec ?
+{55235}{55282}Qu'est-ce qui se passe ?
+{55332}{55385}T'as rien dit depuis trois jours.
+{55410}{55475}Faut causer, mec.|Dis quelque chose.
+{55535}{55572}Je t'emmerde.
+{55762}{55790}Très bien.
+{55875}{55920}Tu me fais chier, tu sais ?
+{56062}{56127}Tu sais ce que je vais faire|en sortant ?
+{56182}{56222}Quand je sortirai...
+{56305}{56412}y aura une limousine blanche|qui viendra me chercher...
+{56442}{56477}une Lincoln.
+{56525}{56562}Je monterai dedans,
+{56637}{56732}ça sera plus grand que tu pourrais|t'imaginer de l'extérieur.
+{56792}{56875}Y aura quatre filles super|à l'intérieur,
+{56882}{56915}toutes à poil.
+{56985}{57075}Une me proposera de la coke,
+{57110}{57152}mais moi, je dirai non.
+{57250}{57337}Je me contenterai de flasher|sur tout le luxe,
+{57347}{57382}et sur les filles...
+{57407}{57447}On fermera la portière,
+{57462}{57502}juste un déclic,
+{57535}{57645}et y aura de la musique|comme j'ai jamais entendu.
+{57730}{57780}La voiture démarrera,
+{57795}{57910}elle roulera lentement|vers la ville.
+{57915}{57957}Ce sera somptueux.
+{58090}{58132}Ce que tu peux être con.
+{58225}{58252}T'es con.
+{58257}{58302}Et pourquoi je suis con ?
+{58365}{58435}Tu te vois déjà en train de frimer,
+{58455}{58567}comme si tu étais Bebe Rebozo|ou je ne sais quel truand.
+{58615}{58655}Qui c'est, Bebe Rebozo ?
+{58717}{58760}Zack, qui c'est, Bebe Rebozo ?
+{58900}{58945}Tu faisais quoi, dehors ?
+{59005}{59040}Eboueur ?
+{59070}{59107}Non, pas éboueur.
+{59125}{59157}Quoi, alors ?
+{59242}{59275}J'étais D.J.
+{59357}{59400}Tu passais des disques ?
+{59452}{59495}Je te crois pas.
+{59502}{59575}Quelle station ?|J'écoute la radio, j'ai dû t'entendre.
+{59660}{59697}WYLD.
+{59727}{59745}''Lee Baby Simms.''
+{59750}{59800}Toi, t'es Lee Baby Simms ?
+{59830}{59882}Si. Tu m'as entendu ?
+{59940}{59967}Va te faire foutre.
+{60007}{60037}Je peux pas te croire.
+{60045}{60117}J'ai un D.J. avec moi ?|Non, c'est pas croyable.
+{60125}{60175}Vas-y, fais-moi un petit coup de...
+{60200}{60245}un truc, un speech.
+{60295}{60327}J'ai pas envie.
+{60362}{60422}Fais-moi la météo.
+{60545}{60602}Quel temps fait-il dehors ?|Dis-moi.
+{60610}{60622}Froid.
+{60630}{60702}Et puis ? Allez, tchatche un peu,|fais ton truc.
+{61155}{61222}On est tombés|à 26 au-dessous de zéro,
+{61230}{61295}ça va glisser|sur les routes ce soir.
+{61315}{61390}Alors avis aux vacanciers :|de la prudence.
+{61397}{61477}On me signale un carambolage|vers l'aéroport.
+{61507}{61595}J'appelle notre équipe sur place.|Chip, comment ça se présente ?
+{61600}{61687}Tu vois, ce genre de baratin.
+{61695}{61727}Continue !
+{62245}{62352}Il va être 10 h 43|ici à la Nouvelle-Orléans,
+{62360}{62452}et on balance sur le gros son|de la cité avec WYLD.
+{62460}{62520}Vous êtes avec|le Lee Baby Simms show.
+{62545}{62615}Et maintenant,|on va parler de Jack Romano,
+{62622}{62680}il est avec nous dans le studio,
+{62717}{62762}avant d'aller au boulot chez Tipitina.
+{62770}{62822}Moi aussi, j'irai le voir là-bas.
+{62830}{62887}Allez-y, dites que|Lee Baby vous envoie.
+{62925}{62990}Mais pour l'instant,|on écoute un peu de musique.
+{63030}{63102}Ce qui vient,|c'est pour nos amis du bloc 9.
+{63110}{63192}Little Lyle, tous les chiens fous :|Lone Wolf,
+{63210}{63265}le Nashville Kid, Nadine,
+{63280}{63345}Dwight, Tyrone et les Golden Boys.
+{63365}{63460}On écoute Earl King,|le fils de la Nouvelle-Orléans.
+{63475}{63540}Une petite chose intitulée...|TrickBag !
+{63612}{63647}ça va pas chez toi.
+{63655}{63770}Te faire causer, c'est comme|t'arracher une dent, et t'es un D.J. !
+{64520}{64552}Arrête !
+{64687}{64752}Avec ça, le temps paraît|encore plus long.
+{65787}{65817}Là-dedans !
+{65865}{65907}Il cause même pas anglais.
+{65915}{65982}Ce con de tueur,|il dit qu'il est italien.
+{66125}{66197}Va te faire mettre !
+{67920}{67997}Si un regard peut tuer,|je suis mort.
+{68857}{68897}Je suis Roberto.
+{68935}{68992}Appelez-moi Bob.|C'est pareil.
+{69602}{69642}C'est pas bon, ici.
+{69652}{69677}Pas pour moi.
+{70280}{70352}Une chatte|y retrouverait pas ses petits.
+{70410}{70452}Une chatte, l'animal.
+{70772}{70797}Excuse, Jack.
+{70805}{70827}Zack !
+{70857}{70930}J'ai le hoquet.|T'aurais pas une cigarette ?
+{71072}{71127}Je comprends... merci.
+{71315}{71377}Zack, t'as pas une cigarette ?
+{71400}{71455}Jack.|Fourre-toi ça dans le crâne.
+{71475}{71502}Je fourre.
+{71662}{71710}Mais t'as pas une cigarette ?
+{71720}{71782}ça fait pas passer le hoquet|dans ce pays.
+{71807}{71867}Moi, si. La cigarette...
+{71875}{71940}ça me fait passer le hoquet.
+{72150}{72187}Me redemande pas.
+{72352}{72382}Tu as une...
+{72495}{72537}Jack ! T'as pas une flamme ?
+{72805}{72845}Excuse, Jack...
+{72867}{72925}Moi, c'est Zack.|Lui, c'est Jack.
+{72955}{72997}T'as pas une flamme ?
+{73025}{73092}Non. On a pas droit aux allumettes.
+{73117}{73147}Tu saisis ?
+{73190}{73232}Oui, je vois.
+{73812}{73860}Vous aimez Walt Whitman ?
+{73865}{73932}Oui, j'aime beaucoup|Walt Whitman.
+{73940}{73972}Fouilles d'herbe.
+{74055}{74130}Rien. Je disais :|''Vous aimez Walt Whitman ?''
+{74300}{74362}Oui, j'aime beaucoup Walt Whitman.
+{74370}{74412}Fouilles d'herbe.
+{76615}{76647}Qu'est-ce que tu fous ?
+{76740}{76780}Je fais une fenêtre.
+{76840}{76867}Très bien, Bob.
+{76940}{76985}Comment on dit en anglais ?
+{76992}{77067}''Je regarde la fenêtre'',|ou alors
+{77075}{77135}''Je regarde par la fenêtre'' ?
+{77142}{77227}Là, tu devras dire :|''Je regarde la fenêtre''.
+{77867}{77930}Pourquoi on t'a mis|dans cette prison ?
+{77947}{78017}Aucune idée, Bob.|C'était comme du vaudou.
+{78075}{78147}On m'a piégé.|Je suis totalement innocent.
+{78175}{78222}Oui, tu es innocent.
+{78347}{78440}Et toi, Zack mon ami,|pourquoi on t'y a mis ?
+{78495}{78532}Un coup monté.
+{78585}{78617}Comme Jack.
+{78735}{78790}Je suis un innocent.
+{78857}{78880}Je vois.
+{78920}{78975}Toi aussi.
+{79112}{79147}Et toi, Bob.
+{79155}{79212}Pourquoi on a mis toi|dans cette prison ?
+{79267}{79302}J'ai tué un homme.
+{79740}{79775}T'as tué un homme ?
+{79960}{80007}Pourquoi t'as fait ça ?
+{80020}{80070}Le type aimait pas Whitman ?
+{80190}{80282}Je ne lui ai jamais demandé|s'il aimait Whitman.
+{80405}{80467}Allez, pourquoi tu l'as tué ?
+{80547}{80637}On était à jouer aux cartes, non ?|A table.
+{80645}{80717}Je n'ai pas d'argent,|mais je suis tricheur.
+{80747}{80812}Très bon.|Mais, je ne sais pas pourquoi,
+{80825}{80947}ils remarquent après un moment|que je suis tricheur.
+{80955}{81002}Bizarre.|Je suis bon tricheur.
+{81017}{81105}Ils remarquent et je cours,|et ils courent après moi.
+{81137}{81232}Dans une autre salle|avec le billard, non ?
+{81305}{81387}Mais j'étais très rapide|et pour m'arrêter,
+{81395}{81470}ils prennent une boule,|beaucoup de boules...
+{81487}{81517}tout près.
+{81560}{81652}Alors, moi :|''Vous jetez boule contre moi ?
+{81660}{81747}''Je jette boule contre vous.''|Non ? Je prends une boule,
+{81762}{81832}numéro 8,|très bonne boule, noire.
+{81900}{81945}En terre. Premier coup.
+{82000}{82050}Mort. Grand costaud.
+{82132}{82227}C'est vrai, Bob ?|C'est une histoire vraie ?
+{82385}{82420}Histoire vraie...
+{82462}{82542}Histoire très vraie.|En terre, premier coup.
+{82595}{82672}''Vous jetez boule contre moi ?
+{82680}{82730}''Je jette boule contre vous.''
+{82770}{82812}Mais je ne suis pas criminel.
+{82822}{82867}Je suis un bon zig.
+{82940}{82987}Un bon zig... Seigneur !
+{83082}{83122}Oui, un bon zig.
+{83180}{83222}Nous sommes un bon zig.
+{83242}{83272}Mes amis !
+{83280}{83307}Arrête...
+{83992}{84042}Fais gaffe que Bob triche pas.
+{84077}{84132}Pas blague.|Voyez où je suis.
+{84167}{84197}Pas drôle.
+{84320}{84342}Deux paires.
+{84397}{84415}Et toi ?
+{84422}{84442}Rien.
+{84452}{84472}Evidemment.
+{84637}{84672}C'est quoi, ''Aaah'' ?
+{84687}{84715}Je gueule.
+{84725}{84752}Je gueule ?
+{84890}{84927}''Je gueule'', attends.
+{84935}{84962}J'ai !
+{85060}{85090}Gueuler.
+{85125}{85167}Je gueule, tu gueules...
+{85175}{85242}on gueule tous au gueuleton !
+{85270}{85312}Je gueule, tu gueules...
+{85320}{85375}on gueule tous au gueuleton !
+{85410}{85432}Vous y êtes ?
+{87567}{87605}On se calme, là-dedans !
+{88710}{88755}Aujourd'hui, dans la cour,
+{88760}{88820}je fais une découverte,|très intéressante.
+{88887}{88977}Je pense à un film|que j'ai vu en ltalie.
+{89007}{89075}Un film américain.|Très bon, plein d'action.
+{89152}{89195}Un film de prison.
+{89242}{89277}Quand...
+{89332}{89397}comment on dit en anglais,
+{89437}{89502}quand on sort de la prison|en courant ?
+{89510}{89540}Evasion.
+{89677}{89710}Oui. Evasion.
+{89750}{89822}Dans la cour,|je découvre un moyen.
+{89960}{90037}Y a aucun moyen|de s'évader de la cour.
+{90075}{90097}Laisse tomber.
+{90187}{90242}Pas de la cour,
+{90250}{90285}dans la cour.
+{90437}{90505}S'il y avait un moyen de se tirer,|on le saurait.
+{90537}{90567}A toi de jouer.
+{90667}{90735}C'est pas le moment de blaguer.
+{90747}{90842}Pas le moment de blaguer ?|Mais je ne suis pas blague.
+{90850}{90885}Je suis sérieux.
+{91005}{91035}Je suis sûr.
+{91272}{91295}Les voilà.
+{91450}{91480}Vous deux,
+{91507}{91542}à la promenade.
+{91560}{91612}Pas toi, minus,|c'est pas ton tour.
+{91715}{91792}Je ne sors pas depuis 4 jours !|J'ai raté mon tour.
+{91852}{91907}Sans blague.|Je suis un bon zig.
+{91915}{91972}Quatre jours !|J'ai raté mon tour.
+{91980}{92032}ça va, Léonard de Vinci,|amène-toi.
+{93540}{93630}On s'est évadés !|Comme dans les films américains !
+{93890}{93950}On est pas sortis de l'auberge.
+{94660}{94745}On doit traverser,|pour semer les chiens.
+{94812}{94845}Je me rappelle la scène !
+{94850}{94872}Ta gueule !
+{94932}{94982}Mais je ne sais pas nager.
+{95067}{95090}Merde !
+{95182}{95215}Il faut traverser.
+{95220}{95285}Mark Twain passera|te chercher en vapeur.
+{95345}{95375}Navré, mon vieux.
+{95440}{95537}Mes amis, attendez !|Pas le moment de blaguer !
+{95557}{95652}Jack et Zack, mes amis !|Je ne sais pas nager !
+{97285}{97362}Retenez les chiens !|Ne tirez pas !
+{97445}{97487}Zack, mon ami !
+{98025}{98057}Il dort.
+{98135}{98187}Eh bien, pas moi.
+{98295}{98385}ça grouille d'alligators par ici,|et des gros.
+{98447}{98495}Et des tas de serpents.
+{98530}{98605}Mocassins, crotales,
+{98627}{98680}diamantins.
+{98717}{98770}Des tas de saloperies.
+{98830}{98885}On se repose ici,
+{98905}{98962}puis on marche jusqu'au jour.
+{99067}{99127}De quelle taille|les alligators sont ?
+{99227}{99257}3 m 50,
+{99277}{99327}peut-être 4 m 50 de long.
+{99385}{99445}Presque trois fois ta taille.
+{99682}{99715}Des fourmis rouges.
+{99762}{99832}Elles dévorent une famille|en une demi-heure.
+{99920}{99985}Ma famille ?|En une demi-heure ?
+{100880}{100912}Qu'est-ce qu'il y a, Bob ?
+{100920}{100982}J'ai perdu mon carnet d'anglais.
+{101015}{101065}Tout ce que je sais est dedans.
+{101080}{101135}T'as déjà du pot d'être ici.
+{101220}{101282}J'ai déjà du pot d'être ici...
+{104317}{104370}ça vous rappelle rien ?
+{104492}{104535}Faut que je vous largue.
+{104572}{104612}ça serait un plaisir.
+{104670}{104740}L'ennui,|c'est qu'on ne sait pas où on est.
+{104910}{104962}On passe la nuit ici,
+{105022}{105062}et demain, on prend la barque.
+{105067}{105115}Qui t'a nommé chef ?
+{105137}{105187}Moi-même,
+{105215}{105262}vu que vous assurez pas.
+{105360}{105402}Il lui manque une case.
+{105417}{105445}Ma case ?
+{105502}{105582}Allons au Mississippi,|c'est la frontière la plus proche.
+{105607}{105695}J'aimerais aller vers l'Ouest,|au Texas.
+{105700}{105817}Un pays très étrange que j'ai vu|dans beaucoup de beaux films.
+{105825}{105907}C'est débile ! Au Mississippi,|tu peux repasser en jugement.
+{105915}{105952}Au Texas, t'es pris, t'es baisé.
+{105960}{105985}Qui t'a dit ça ?
+{105990}{106067}Mon avocat, quand j'ai voulu|me cavaler sous caution.
+{106085}{106122}Ton avocat, mon cul...
+{106130}{106192}Texas. Très bon au Texas.
+{106225}{106310}Va au Texas ! Va sur Mars|si tu veux, mais lâche-moi.
+{106402}{106435}On reste ensemble,
+{106452}{106490}tant qu'on sait pas où on est.
+{106495}{106540}A vos ordres, mon lieutenant.
+{106637}{106692}Tu permets ? Dégage.
+{106717}{106750}Casse-toi.
+{107087}{107147}Zack, tu aimes Robert Frost ?
+{107210}{107240}Pas ça !
+{107647}{107732}La route moins fréquentée.|Bob Frost.
+{107757}{107832}C'était un homme très cynique.
+{107915}{107942}Robert Frost ?
+{107982}{108012}En italien ?
+{108022}{108112}Oui. Je n'ai lu vos poètes|qu'en italien.
+{110642}{110677}Attention, Jack !
+{110702}{110782}Les arbres !|Encore un arbre !
+{111075}{111110}Dangereux.
+{111120}{111162}Attention, je ne sais pas nager !
+{111900}{111937}Par où, maintenant ?
+{112060}{112122}On n'est pas déjà passés par là ?
+{112185}{112237}Par cette fourche ?
+{112275}{112335}Pour moi, tout ça se ressemble.
+{112445}{112497}On a tourné en rond, Jack.
+{112705}{112750}Le bateau est fini !
+{112837}{112880}A terre !
+{112925}{112950}Immédiatement !
+{113710}{113755}Je ne sais plus par où aller.
+{113920}{113952}A ton avis, Jack ?
+{113960}{114000}Qu'est-ce que j'en sais, merde !
+{114100}{114150}Comme tu voudras, Jack.
+{114842}{114880}Où est-il ?
+{114942}{114965}Bob ?
+{115010}{115037}Sais pas.
+{115082}{115125}Il a parlé de manger.
+{115185}{115222}Il a dû nourrir les crocos.
+{115230}{115260}Ne dis pas ça !
+{115342}{115397}On peut crever de faim, ici.
+{115525}{115580}Ces marais vont bien finir.
+{115622}{115645}On va trouver.
+{115650}{115705}Il nous mène dans le mauvais sens !
+{115835}{115870}Qui, Bob ?
+{115922}{115962}Il ne nous mène pas.
+{115982}{116037}Tu crois que je ne vois pas|ce qui se passe ?
+{116045}{116142}Tu nous fais tourner en rond.|Je suis pas aveugle.
+{116230}{116260}C'est ça.
+{116270}{116312}On va t'épuiser.
+{116337}{116380}Et puis on t'achèvera.
+{116387}{116432}Y aura du Jack Romano au menu.
+{116437}{116485}Sans blague ?|T'es un vrai con.
+{116712}{116782}Arrêtez, mes amis !|Arrêtez le combat !
+{116875}{116950}J'ai attrapé le lapin...|pour le dîner.
+{117045}{117115}Je me tire.|Je serai mieux seul.
+{117177}{117220}Moi, ça me va !
+{117227}{117280}Très difficile d'attraper un lapin.
+{117287}{117325}Chacun pour soi.
+{117380}{117427}Je cours une demi-heure
+{117435}{117495}pour ce lapin très malin.
+{117725}{117780}Il fait 8°.
+{117862}{117895}Un petit vent
+{117930}{118007}agite nos cyprès
+{118027}{118110}qui se mêlent ici|à des massifs de pins.
+{118187}{118227}La végétation,
+{118267}{118345}à première vue,|remonte au mésozoïque...
+{118362}{118425}La vallée du Tigre|et de l'Euphrate,
+{118450}{118505}berceau de la civilisation.
+{118587}{118647}Quel enculé, merde !
+{118702}{118745}Je crève la dalle.
+{118777}{118830}Tout baignait, pour moi.
+{118837}{118880}Mon truc était au point.
+{118897}{118985}Le dernier coup que je sors :|''Salut LC, ça marche ?''
+{119095}{119157}Excuse-moi, chérie,|je ne savais pas.
+{119347}{119407}Pourquoi vous me laissez seul ?
+{119415}{119477}Il y a un très, très bon lapin.
+{119485}{119557}Je connais une très bonne recette.
+{119582}{119652}Ma mère me l'a apprise.
+{119662}{119722}lsolina, c'est le nom de ma mère.
+{119730}{119827}Avec du romarin,|de l'huile d'olive, de l'ail
+{119835}{119910}et d'autres secrets d'lsolina.
+{119992}{120037}Tout de suite,
+{120072}{120137}un petit coup d'oeil au baromètre,
+{120185}{120237}puis retour à la musique
+{120247}{120295}avec Lee Baby Simms.
+{120442}{120530}J'avais bien dit à ce taré :|''Elle est pas libre.''
+{120565}{120587}Ta gueule !
+{120702}{120772}D'abord, elle est|très gentille avec le lapin,
+{120777}{120877}elle dit :|''Bon lapin, j'aime le petit lapin,
+{120892}{120920}''les yeux du lapin...''
+{120925}{121017}Hop ! Le lapin est mort.
+{121022}{121080}Très bizarre mère, ma mère,
+{121097}{121137}très bizarre, oui.
+{121142}{121245}Mon père est très fort,|mais avec le lapin, il a peur.
+{121257}{121327}Ma soeur, j'ai trois soeurs,
+{121332}{121377}Bruna, Albertina et Anna.
+{121410}{121500}J'avais une photo de ma mère|dans ma chambre,
+{121507}{121607}souriant avec le lapin|dans une main et l'autre...
+{121667}{121757}Quelquefois, je rêve|que ma mère m'appelle...
+{121817}{121842}Viens !
+{121850}{121877}Non, je veux pas.
+{121885}{121905}Viens !
+{121942}{122027}Le coup du lapin.|Je ne suis pas un lapin... Mais si.
+{122060}{122087}Ma mère,
+{122137}{122217}elle est bizarre, mais je l'aime.
+{122245}{122352}Ma mère lsolina, mon père Gigi,|mes soeurs Bruna, Albertina, Anna,
+{122380}{122445}ma famille et mon lapin.
+{122460}{122490}J'aime...
+{122525}{122587}attraper... rêver...
+{122682}{122712}Qu'est-ce que c'est ?
+{122817}{122915}Je savais bien.|Venez manger l'animal que j'ai pris !
+{122922}{122995}Le lapin.|Une demi-heure, je cours après.
+{123010}{123077}Très bon. Viens, Jack !
+{123115}{123142}Assieds-toi.
+{123150}{123190}Je suis content.
+{123197}{123237}Asseyez-vous près du feu.
+{123252}{123280}Goûtez.
+{123322}{123360}Zack, goûte.
+{123617}{123682}Je n'ai pas l'ail, bien sûr...
+{123690}{123752}le romarin, très important,|l'huile d'olive,
+{123760}{123795}mais c'est bon, non ?
+{123845}{123887}C'est infect.
+{123937}{123987}On dirait du pneu.
+{124015}{124055}Je sais. Très bon.
+{125225}{125247}La route !
+{125487}{125520}La civilisation.
+{125675}{125720}Et maintenant, Jack ?
+{125932}{125977}Je dis par là.
+{126000}{126027}D'accord.
+{126050}{126082}A vos ordres, lieutenant.
+{126890}{126925}C'est un mirage.
+{126947}{126980}On rêve ?
+{127020}{127057}Alors,
+{127072}{127137}je rêverais bien|une tarte et un café.
+{127235}{127317}L'un de nous y va seul.|Des fois qu'il y ait des flics.
+{127497}{127545}Entre le premier.
+{127565}{127607}Vois si tout est sûr.
+{127620}{127695}Si ça se passe bien,|tu reviens nous prévenir.
+{127727}{127750}Tu comprends ?
+{127757}{127805}Je comprends. Je suis prêt.
+{127885}{127952}On bouge pas d'ici et on t'attend.
+{128635}{128687}Il y est allé tout droit,|comme un idiot !
+{128750}{128777}Cachons-nous par là.
+{129557}{129602}J'ai dormi longtemps ?
+{129750}{129842}Allons voir.|Je crève de faim et je me gèle.
+{129887}{129950}D'accord, mais en douceur.
+{129965}{130005}Regarde par la fenêtre.
+{130042}{130072}Je te suis.
+{131137}{131205}Tu vois ce que je vois ?
+{131225}{131267}Ce mec me tue.
+{131990}{132020}Mes amis !
+{132050}{132097}Qu'est-ce que tu fous, Bob ?
+{132112}{132175}Venez !|C'est merveilleux, regardez !
+{132222}{132262}Du vin, à manger !
+{132277}{132320}Asseyez-vous !
+{132582}{132655}J'ai des nouvelles pour nous.
+{132695}{132735}Je suis amoureux.
+{132742}{132780}Voici Nicoletta.
+{132822}{132855}Enchantée.
+{132877}{132910}Mangez, s'il vous plaît.
+{133080}{133122}Elle vient d'ltalie aussi.
+{133152}{133237}Je suis d'ltalie.|Je suis de Cesena.
+{133252}{133290}Vous connaissez ?
+{133327}{133425}Cet endroit m'a été offert|par mon oncle Luigi.
+{133477}{133507}Qu'est-il devenu ?
+{133515}{133537}Il est mort.
+{133567}{133602}Tu ris ? Il est mort.
+{133642}{133670}Comment était-il ?
+{133677}{133715}Merveilleux.
+{133740}{133797}Il a gagné cet endroit aux cartes,
+{133805}{133852}il avait peur de le reperdre.
+{133860}{133912}Alors il m'en a fait cadeau.
+{133922}{133985}Je ne savais pas quoi faire avec.
+{134037}{134147}Un jour, c'était un jour très spécial,
+{134187}{134270}d'un seul coup,|mon petit ami m'a quittée.
+{134295}{134340}C'était mon anniversaire...
+{134372}{134420}et mon oncle Luigi est mort.
+{134432}{134470}Tout ça le même jour.
+{134477}{134562}Ce jour-là, j'ai quitté l'ltalie|pour venir vivre ici.
+{134710}{134792}Et voilà que je suis|tombé amoureux, enfin !
+{134835}{134877}J'ai trouvé mon foyer.
+{134892}{134927}Elle m'a demandé
+{134932}{135045}de rester ici|et de vivre ensemble pour toujours,
+{135052}{135107}comme dans un livre d'enfants.
+{135390}{135445}Comment as-tu appris l'anglais ?
+{135452}{135562}Je parle très bien,|mais pas l'anglais pour restaurant :
+{135570}{135647}comme nourriture,|bonne assiette, bon plat :
+{135655}{135695}ces mots je ne connais pas.
+{135720}{135812}Bob sera utile, il parle|un bon anglais de restaurant.
+{135832}{135877}Oui, mon tueur.
+{136175}{136220}C'est formidable, Bob.
+{136242}{136287}Oui, félicitations.
+{136297}{136322}Où sommes-nous ?
+{136327}{136352}En Louisiane.
+{136362}{136397}Je sais, mais...
+{136410}{136467}Près de la frontière du Texas.
+{136502}{136565}Vous voyez ? Texas.|Je le savais !
+{136587}{136622}Texas. Tout près.
+{136652}{136680}Vous vous rappelez ?
+{136705}{136787}Je veux porter un toast.|A Bob et Nicoletta.
+{136857}{136887}Mes amis.
+{137415}{137490}Les habits d'oncle Luigi|te vont bien.
+{137717}{137767}Tu n'as pas de voiture ?
+{137777}{137800}Voiture, non.
+{137807}{137885}Mais je ferai des économies,|j'apprendrai à conduire.
+{137892}{137927}Je n'ai que mon vélo.
+{137947}{138027}Un homme m'apporte|ce qu'il me faut de la ville
+{138037}{138082}chaque semaine.
+{138292}{138340}Encore les habits de l'oncle Luigi.
+{138360}{138397}Très chic, Jack.
+{138520}{138592}Vous devez vraiment partir|aujourd'hui ?
+{138600}{138700}Pourquoi nous ne restons pas|un peu d'abord ?
+{138722}{138770}C'est trop dangereux.
+{138782}{138837}On est sûrement recherchés.
+{138857}{138897}On s'en sortira.
+{138962}{139002}Il faut avancer.
+{139072}{139120}Au moins, on sait où on est.
+{139130}{139175}Où allez-vous maintenant ?
+{139187}{139232}Sans doute vers l'Ouest,
+{139255}{139292}Los Angeles.
+{139345}{139415}Et toi, mon ami Jack,|où vas-tu ?
+{139430}{139512}S'il va à LA, j'irai vers l'Est,|tu vois ce que je veux dire ?
+{139522}{139567}Je vois ce que je veux dire.
+{139717}{139757}Un peu de musique !
+{140810}{140862}Vous êtes sûrs de ne pas rester ?
+{140875}{140905}Je reste.
+{142927}{142970}Si vous suivez cette route,
+{142977}{143055}vous arriverez à un endroit|où elle devient deux.
+{143085}{143195}A droite va vers l'est,|et à gauche va vers l'ouest.
+{143232}{143327}Non, à droite va vers l'ouest.
+{143347}{143402}Non, je ne sais pas.
+{143410}{143460}Enfin, il y a un panneau.
+{143540}{143572}Merci pour tout.
+{143592}{143630}Oui, merci. Au revoir.
+{144335}{144387}N'oubliez pas d'écrire !
+{144457}{144487}A bientôt.
+{144675}{144730}Vous nous manquez !
+{146195}{146237}Eh bien, on y est.
+{146290}{146340}Je ne vois pas de panneau.
+{146357}{146420}Elle a dit qu'à droite,|c'est l'ouest.
+{146437}{146475}Elle ne savait pas.
+{146482}{146527}Moi, je m'en fous.
+{146537}{146625}Va par où tu veux,|et j'irai de l'autre côté.
+{146910}{146967}Tu étais sapé comme ça|avant la taule ?
+{146975}{147055}Un éboueur|en costume du dimanche.
+{147125}{147210}Tu vas faire|la chasse aux écureuils, Jack ?
+{148050}{148085}Bonne chance.

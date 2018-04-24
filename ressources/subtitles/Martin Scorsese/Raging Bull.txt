@@ -1,0 +1,1225 @@
+{80}{125}"Une soirée en compagnie|de Jake La Motta"
+{129}{219}Ces ovations résonnent|encore dans mes tympans.
+{226}{298}J'y penserai encore longtemps.
+{304}{434}Un soir, j'ai ôté mon peignoir.|Je n'avais pas mis de flottant.
+{494}{592}Je me souviens de chaque chute,|chaque crochet, chaque coup...
+{598}{668}C'est à la dure|qu'on muscle un ventre mou.
+{674}{784}Dans ma vie, j'ai vu de tout.
+{827}{897}Mais je préfère être acclamé
+{903}{970}quand c'est Shakespeare|que vous m'entendez réciter.
+{976}{1078}Mon royaume pour un cheval! Je|n'ai pas gagné depuis des mois.
+{1206}{1268}Je suis pas Laurence Olivier,|mais je préférerais...
+{1331}{1461}"Ce qui fait ding,|c'est la comédie, pas le ring"
+{1469}{1547}Qu'on me donne une scène.|Pour ce taureau une arène.
+{1552}{1640}Bien que je sache boxer,|je préfère déclamer.
+{1646}{1696}Ça, c'est du spectacle!
+{1879}{1944}Jake La Motta, Jimmy Reeves.
+{1952}{2027}La Motta est invaincu|mais perdant aux points.
+{2032}{2090}Il vient d'être|sévèrement puni.
+{2204}{2304}Dis-moi, on n'est pas ici|pour que tu te fasses battre!
+{2311}{2358}Secoue-toi un peu, putain!
+{2361}{2479}Tu es mené aux points.|Tu vas devoir le mettre K.O.
+{2486}{2594}- Mords-le, savate-le, tout!|- Ecoute, Joey.
+{2604}{2711}Acharne-toi sur lui! Démolis-le.
+{2718}{2768}Tu veux y aller à ma place,
+{2864}{2901}Au secours!
+{2958}{3005}- Il nous faut un KO.
+{3010}{3057}Dernier round.
+{3062}{3084}Bonne chance.
+{3091}{3204}Reeves combat|contre un adversaire...
+{3214}{3261}qui sait se défendre.
+{3263}{3381}La Motta le harcèle,|et Reeves est au tapis!
+{3454}{3504}La foule encourage Jake.
+{3532}{3612}Reeves tente de se relever.
+{3617}{3712}La Motta revient|sur lui avec un gauche
+{3720}{3812}et Reeves est au tapis|une seconde fois.
+{3819}{3929}La Motta fait un come-back|au dixième round.
+{3982}{4072}Reeves se relève.|La Motta s'avance vers lui.
+{4079}{4219}Un gauche-droite au flanc|et un crochet à la mâchoire.
+{4227}{4330}Une droite, un gauche.|Reeves tombe à nouveau.
+{4337}{4470}- L'arbitre écarte La Motta.|- 2, 3, 4, 5...
+{4478}{4618}Il le compte. Le chrono tourne.|Voici le gong.
+{4681}{4781}La Motta s'est-il|repris à temps?
+{4791}{4931}Jack, viens! C'est fichu!|T'as trop attendu!
+{4950}{5027}Mets-moi mon peignoir|correctement.
+{5062}{5115}Mesdames et messieurs...
+{5166}{5264}Selon le règlement de la|Commission de la boxe de l'Ohio,
+{5270}{5420}après 10 rounds,|le vainqueur à l'unanimité...
+{5472}{5514}Jimmy Reeves.
+{5519}{5606}La Motta a perdu|son premier combat.
+{5722}{5827}C'est Jake le gagnant!|Jake a gagné ce combat!
+{5834}{5944}Reste sur le ring. Tu as gagné.|Laisse-le descendre en premier.
+{5990}{6088}La Motta a mis Reeves sept fois|au tapis, cependant...
+{7396}{7458}Il est presque mort.|Et ils le déclarent vainqueur!
+{7464}{7514}Tommy aurait dû être là.
+{7516}{7643}Il doit passer par Tommy|ou il finira sonné, ton frère.
+{7652}{7752}- Je sais.|- C'est dans l'intérêt de tous.
+{7758}{7886}- Je sais!|- Il faut qu'il le sache aussi.
+{7891}{7976}Bon. T'arrêtes avec ça!
+{7982}{8077}Moi, je pige tout.|Lui, c'est un cabochard.
+{8084}{8166}- C'est pas dur à comprendre!|- Il a une tête en béton.
+{8173}{8258}Tu crois que c'est facile,|Parle-lui, toi.
+{8262}{8302}- Je ne peux pas.|- Pourquoi,
+{8306}{8369}- Il ne m'aime pas.|- Personne t'aime!
+{8425}{8503}Je sais qui est le patron.
+{8616}{8711}Les juges ne le savaient pas.|Mais le public, si.
+{8752}{8847}Tu me crois pas.|Tu crois que je me suis amusé,
+{8851}{8963}Dis-moi la vérité.|Je me suis pas amusé.
+{8971}{9041}- C'est dans ta tête.|- Ouais. Et alors,
+{9044}{9141}Quand j'aurai la ceinture|de champion, là je m'amuserai.
+{9206}{9291}- C'est prêt,|- Non, c'est pas prêt.
+{9296}{9356}Ne le fais pas trop cuire.
+{9399}{9444}Tu gâches tout.
+{9562}{9667}Qu'est-ce que tu fous, Tu le|fais trop cuire. Apporte-le-moi.
+{9675}{9780}- Tu le veux,|- Apporte-le-moi!
+{9784}{9864}On dirait du charbon!
+{9870}{9933}- Tu le veux,|- Ouais, et tout de suite!
+{9938}{10031}Bon. Voilà!|Tu veux pas attendre,
+{10037}{10135}- Non.|- Tiens. T'es content,
+{10141}{10196}- Ça me suffit.|- Non, y a plus. Tiens.
+{10228}{10315}Tu me fais chier pour un steak!
+{10334}{10439}C'est vrai. Il devrait passer|par Tommy. Je lui en parlerai.
+{10447}{10572}Tommy me barbe pour que tu lui|parles. Je suis entre les deux.
+{10577}{10704}- Et moi, je suis son frère.|- Qui d'autre peut lui parler,
+{10775}{10837}- Je lui parlerai.|- Fais tout ton possible.
+{10843}{10933}- A demain.|- Où seras-tu,
+{10937}{10997}- A la salle de gym.|- On se voit là-bas.
+{11000}{11075}D'accord.|Sal... Va te faire foutre.
+{11122}{11190}- Tu rouspètes encore.|- Je rouspète,
+{11192}{11277}- Je t'écoute.|- T'appelles ça des carottes,
+{11283}{11381}- Tu les manges bien, non,|- J'ai pas le choix.
+{11385}{11487}- T'es incroyable!|- J'ai pas le choix!
+{11495}{11590}Pas le choix,|Ne t'approche pas!
+{11596}{11701}- File à côté!|- J'en ai assez!
+{11740}{11805}- Qu'est-ce que vous foutez,|- Quoi,
+{11808}{11940}- Et alors, bande de sauvages,|- Il me traite de sauvage!
+{11949}{11999}- Hé, toi!|- Allez.
+{12003}{12101}Je vais bouffer ton clébard!
+{12107}{12210}- Tu m'entends, Larry,|- Une bande de sauvages!
+{12217}{12335}C'est ta mère qui est sauvage,|espèce de connard!
+{12340}{12425}Tu vas retrouver|ton clebs raide, demain!
+{12430}{12543}On t'entend dans|tout le quartier. Assieds-toi.
+{12548}{12663}Tu casses quelque chose,|je te bute!
+{12674}{12716}Tu parles!
+{12780}{12808}Tu t'es calmé,
+{12908}{13030}Qu'est-ce que j'ai fait,|Allez, chérie, faisons la paix.
+{13067}{13120}- Pouce, d'ac,|- Puis quoi encore!
+{13169}{13269}Tu peux pas bouffer|et boire à tire-larigot...
+{13273}{13383}et supporter ce cirque|toute la journée. Crois-moi!
+{13390}{13473}Oublie Reeves.|Tu auras d'autres combats!
+{13479}{13532}Tu ne peux pas|continuer comme ça.
+{13581}{13611}Qu'est-ce que tu as,
+{13685}{13737}Quelque chose te tracasse,
+{13936}{13971}Tu veux le savoir,
+{14021}{14131}- Mes mains.|- Qu'est-ce qu'elles ont,
+{14196}{14276}J'ai des petites|mains de fillette.
+{14282}{14330}Moi aussi. Et alors,
+{14391}{14434}Tu sais ce que ça signifie,
+{14459}{14537}Même si je deviens un grand,|même si j'affronte des cracks,
+{14540}{14607}je ne me battrai jamais|contre Joe Louis.
+{14613}{14678}C'est un poids lourd,|tu es un poids moyen.
+{14702}{14774}Je ne tomberais|jamais sur les meilleurs.
+{14780}{14875}Je suis meilleur qu'eux|et je ne les affronterai pas.
+{14958}{14998}Voilà le problème.
+{15059}{15114}T'es dingue de penser à ça.
+{15119}{15181}Il est poids lourd|et tu es poids moyen.
+{15187}{15299}T'en auras jamais l'occasion.|Pourquoi tu te prends la tête,
+{15413}{15486}- Fais-moi plaisir.|- Quoi,
+{15492}{15570}- Frappe-moi au visage.|- Quoi,
+{15573}{15673}- Frappe-moi au visage.|- T'es pas fou,
+{15679}{15802}- J'insiste. Vas-y.|- Je t'ai dit non.
+{15810}{15893}On se bagarre sans arrêt. Vas-y.
+{15898}{15941}- Non!|- T'as peur,
+{15945}{16008}- De quoi,|- Allez, frappe!
+{16050}{16130}- Je suis pas pédé.|- Mets-y la pêche.
+{16136}{16266}- T'es vraiment con.|- Qu'est-ce que je t'ai dit,
+{16272}{16302}Fais-le.
+{16350}{16442}- Je ne vais pas te frapper.|- Je suis ton frère aîné.
+{16449}{16489}C'est non!
+{16543}{16638}Je ne le ferai pas... Enfoiré!
+{16715}{16755}J'ai dit non.
+{16788}{16893}- Je n'ai pas de gants.|- Mets-toi ce truc.
+{16900}{16963}- Quoi,|- Ça.
+{17004}{17089}Enroule-le. Combien de fois|il faut que je te le répète,
+{17096}{17161}- Plus beaucoup.|- Allez.
+{17166}{17241}N'y va pas de main morte!
+{17247}{17287}T'es sûr, D'accord.
+{17315}{17357}- Plus fort!|- Ouais,
+{17362}{17464}Tu cognes comme un pédé.|Plus fort!
+{17499}{17577}- Là, j'ai tapé fort!|- Enlève-le.
+{17583}{17683}- On arrête, T'en as eu assez.|- Allez!
+{17690}{17752}- Allez, montre-moi!|- Fillette!
+{17758}{17823}- Et encore!|- Ça suffit!
+{17826}{17878}- J'ai dit: "Ça suffit!"|- Plus fort.
+{17883}{18003}Tes blessures se rouvrent.|Qu'est-ce que tu veux prouver,
+{18582}{18667}Joey, ça gaze,|Jake, t'as l'air en forme.
+{18814}{18849}Comment ça va,
+{18887}{18927}Je suis toujours là.
+{18947}{19017}Joey... Viens ici.
+{19116}{19229}- Il a l'air furax.|- Je lui ai parlé hier.
+{19276}{19366}C'est toi qui les a fait venir,|Réponds-moi!
+{19372}{19412}Ouais, et alors,
+{19442}{19494}- Je vais lui fendre le crâne!|- Calme-toi.
+{19500}{19575}Ne les fais jamais|plus venir ici.
+{19620}{19682}- Putain!|- On dirait deux tapettes.
+{20115}{20160}Je t'appelle demain, Joey.
+{20248}{20321}- Jake, soigne-toi bien!|- Va te faire foutre!
+{20381}{20481}Et ta femme,|Si on t'embête, dis-le-moi.
+{20488}{20546}Ouais. Dis-leur au revoir.|Ce sont tes potes.
+{20550}{20595}Qu'est-ce qui t'a pris,
+{20600}{20690}Ils sont venus parce que|Tommy veut nous aider.
+{20696}{20751}T'es malade,
+{20804}{20881}M'aider,|En me piquant mon fric,
+{20887}{21014}C'est ça, hein,|Je me casse le cul, pas eux.
+{21023}{21100}Ne les invite|jamais plus ici, dingo!
+{21106}{21226}Dingo, moi, T'es un pauvre con.|Ne me frappe pas!
+{21233}{21323}Tiens, connard, attrape.|T'en es pas capable.
+{21932}{21975}Donne-moi un coca.
+{22050}{22105}Tu veux aller danser,
+{22334}{22434}- Qui c'est cette nana,|- La blonde, Vickie.
+{22545}{22650}- Elle vient d'où,|- C'est une fille du quartier.
+{22688}{22783}- Et son nom de famille,|- Vickie. J'en sais pas plus.
+{22790}{22837}Appelle-la Vickie.
+{22871}{22961}- Elle les connaît,|- Ils la connaissent.
+{22968}{23065}Elle est ici tous les jours.|Tout le monde se connaît.
+{23072}{23154}- Elle sort avec eux,|- Elle a 15 balais.
+{23161}{23228}Elle va aller où,|Au Copacabana,
+{23275}{23365}Il paraît qu'il sortait|avec une belle blonde.
+{23406}{23448}C'est pas elle,
+{23468}{23538}Ça m'étonnerait. Pourquoi,
+{23543}{23641}C'est pas une fille que|tu baises puis que tu oublies.
+{23648}{23803}Ne dis pas de gros mots devant|moi! Dis-les devant tes amis!
+{23813}{23850}T'as compris,
+{23854}{23951}C'est pas une fille que|tu baises puis que tu oublies.
+{23959}{24041}Il faut|rester avec elle, s'engager.
+{24105}{24137}Tu l'as baisée,
+{24143}{24176}Non.
+{24183}{24300}- Dis-moi la vérité.|- C'est fait.
+{24308}{24378}Si je me l'étais faite,|tu le saurais.
+{24420}{24533}- Je suis sorti avec elle.|- T'as pas essayé,
+{24540}{24615}- Si.|- Elle n'a pas voulu,
+{24618}{24721}- Elle n'a pas marché|- Evidemment. Elle est pas folle
+{24727}{24827}- Pas folle,|- Elle sait que t'es un sauvage.
+{24835}{24897}Tu ruinerais sa réputation.
+{24929}{25021}- Il t'a parlé, pas vrai,|- C'est le même mec,
+{25028}{25070}- Ouais.|- Je vais le bousiller.
+{25071}{25184}- Tu l'as loupé hier.|- J'étais à la maison.
+{25191}{25221}Je m'en charge.
+{25228}{25326}Regarde-les.|Grande réunion de businessmen!
+{25358}{25466}Ils parlent affaires, et font de|leur mieux pour qu'elle entende.
+{25504}{25584}Vise le gros ponte!
+{25664}{25714}Ne te mouille pas les cheveux.
+{25781}{25806}Grosse légume!
+{25862}{25939}Je te l'enverrais valser...|Bonjour la grosse légume!
+{26018}{26053}Des caïds.
+{26099}{26197}- Tous des caïds.|- Tu penses à quoi,
+{26203}{26348}Tu es marié. C'est fini.|Laisse les filles pour moi.
+{26472}{26504}Grosse légume!
+{26636}{26709}Filons d'ici.
+{26740}{26833}- Où vas-tu,|- Je sors. Pour affaires.
+{26839}{26922}- Si tu sors, moi aussi.|- Fais ce qui te plaît.
+{26928}{27033}Je serai plus là|quand tu rentreras!
+{27041}{27098}- Boucle-la.|- Non, boucle-la toi!
+{27103}{27225}Pour affaires, des clous!|Vous allez vous sucer, oui.
+{27236}{27384}Larry, t'as de quoi|raconter à ton chien.
+{27392}{27485}- Assomme-la avec une batte.|- L'insulte pas! C'est ma femme!
+{27491}{27571}Tu vas encaisser longtemps,|Tue-la.
+{27578}{27708}Pédés! Allez-y.|Abandonnez-moi comme un chien!
+{27715}{27803}- Qu'est-ce qui te prend,|- Vous me laissez en rade.
+{27809}{27927}- Tout le quartier t'entend!|- J'en ai rien à foutre!
+{27938}{28003}Grand bal annuel d'été.
+{28122}{28160}Salut, Fayot!
+{28224}{28254}Jack.
+{28454}{28551}- Asseyons-nous avec Fayot.|- Fayot, qui est Fayot,
+{28558}{28595}- Quoi,|- Fayot qui,
+{28600}{28695}- Fayot. Un des mecs.|- Tu crois qu'elle y sera,
+{28701}{28784}J'en sais rien.|Mais au moins de là tu verras.
+{29069}{29154}- Quoi de neuf, Joe,|- Merci pour les chaises.
+{29160}{29213}Hé, ça va, merci.
+{29217}{29302}J'ai quelques ennuis|avec ces branleurs en bas.
+{29309}{29376}- Bonjour M. le curé!|- Hé, M. le curé.
+{29382}{29444}Vous venez ici pour draguer,
+{29488}{29568}Bénissez-nous tous.
+{29603}{29648}T'as craché à la quête,
+{30130}{30200}- Elle est là-bas.|- Je l'ai vue.
+{30339}{30404}- Ils sont avec elle.|- N'attends pas. Vas-y.
+{31593}{31680}Fous-le camp, bordel!
+{31687}{31759}Toi aussi! Dehors, trouduc!
+{31762}{31845}- Ordures.|- Qu'ils rentrent chez eux.
+{31932}{32009}Hé, Vickie!
+{32195}{32233}- Salut.|- Tu vas bien,
+{32237}{32307}- OK. Que fais-tu,|- Pas grand-chose.
+{32310}{32435}- C'est ta voiture,|- Non, elle est à mon frère.
+{32440}{32530}- C'est lui,|- Ouais. Je te présente,
+{32534}{32579}- Si tu veux.|- Hé, Jack!
+{32887}{32969}Voici mon frère Jake,|le futur champion.
+{32977}{33047}- Salut.|- Ça va bien,
+{33113}{33158}Enchanté.
+{33231}{33296}- Belle voiture.|- Elle te plaît,
+{33345}{33375}Elle est belle.
+{33617}{33692}- Tu es d'où,|- Du quartier.
+{33757}{33804}T'aimerais faire une balade,
+{33890}{33970}Oui, mais je vais me changer.
+{33973}{34058}- D'accord.|- OK, Je reviens.
+{34065}{34107}- Je t'attends.|- OK.
+{34315}{34345}Rapproche-toi.
+{34696}{34798}- Je n'ai jamais joué.|- Je vais te montrer.
+{34875}{34908}Voilà.
+{34912}{35012}- Comme ça,|- Donne un petit coup.
+{35353}{35385}Tu la vois,
+{35431}{35458}Non.
+{35856}{35959}- Ça veut dire quoi,|- La partie est finie.
+{35991}{36034}Allons-y.
+{36106}{36151}Papa,
+{36320}{36370}Papa, Entre donc.
+{36490}{36587}Il a dû aller faire des courses.
+{36742}{36795}Il doit faire des courses.|Assieds-toi.
+{36930}{36968}- Tu veux manger quelque chose,|- Non.
+{36972}{37000}C'est sûr,
+{37290}{37318}A la tienne!
+{37728}{37791}Rapproche-toi.
+{37838}{37893}Tu es si loin!
+{38380}{38545}Viens. Viens ici.|Viens t'asseoir là.
+{38656}{38686}C'est mieux.
+{38781}{38824}Non merci.
+{38878}{38908}De l'eau,
+{39173}{39243}Tu veux visiter la maison,
+{39249}{39274}D'accord.
+{39277}{39342}Je l'ai achetée pour mon père.
+{39348}{39375}Vraiment,
+{39416}{39451}En boxant,
+{39454}{39532}A ton avis,
+{39755}{39787}La salle à manger.
+{39845}{39930}C'est un oiseau.|Du moins ça l'était!
+{40283}{40313}Viens.
+{40523}{40553}Assieds-toi.
+{41081}{41164}- Moi et mon frère.|- Je sais.
+{41220}{41262}Vous êtes bien sur cette photo.
+{41415}{41490}- Pourquoi tu souris,|- Je sais pas.
+{41660}{41698}Tu es très belle.
+{41762}{41834}On te l'a jamais dit,
+{42797}{42802}Robinson et La Motta.|Deuxième combat.
+{42802}{42885}Robinson et La Motta.|Deuxième combat.
+{42891}{42996}Sugar Ray, invaincu, a battu|Jake en octobre dernier.
+{43024}{43071}Ils ont deux styles différents.
+{43076}{43221}Robinson, maître de ballet,|et La Motta le casseur.
+{43230}{43268}Il a fait mal à Robinson.
+{43329}{43447}Il revient sur Robinson.|Gauche-droite à la mâchoire.
+{43511}{43591}Ils ont tous les deux|des chances égales de gagner.
+{43598}{43738}La Motta déstabilise Robinson|avec un gauche à la mâchoire.
+{43746}{43864}Robinson revient. La Motta l'|envoie de l'autre côté du ring.
+{43871}{43989}Robinson va essuyer le 1er|knock-down de sa carrière!
+{44033}{44108}C'est la première fois|que Robinson frôle l'échec.
+{44346}{44429}La Motta mène le combat.
+{44434}{44509}La tactique invincible|de Robinson est démontée.
+{44513}{44601}La Motta feint un gauche.
+{44826}{44951}Au dixième round, le juge Rossi|donne 8 à 2 pour La Motta.
+{45003}{45086}Le juge Murphy,|7 à 3 pour La Motta.
+{45115}{45232}La Motta a gagné à l'unanimité.
+{45243}{45348}Il inflige à Robinson sa première|défaite professionnelle.
+{45355}{45400}Ça déplaît à Robinson.
+{45404}{45544}Avec cette victoire, La Motta|bat le record de Robinson.
+{45554}{45631}Il peut désormais s'attaquer|au titre des poids moyens.
+{45804}{45899}- Tu crois qu'on fait bien,|- Viens.
+{45905}{45950}Avant un combat,
+{46030}{46070}Viens ici.
+{46075}{46147}Ça fait deux semaines|que tu es sage.
+{46153}{46183}Viens.
+{46685}{46727}Touche mes bobos.
+{46849}{46907}C'est ça.
+{46911}{46941}Bobo,
+{46948}{47043}Fais un bisou à mes bobos.|Ça les guérit.
+{47452}{47494}Enlève mon pantalon.
+{47537}{47580}Enlève mon pantalon.
+{48007}{48047}Le reste.
+{48100}{48208}- J'ai promis de ne rien faire.|- Vas-y.
+{48636}{48681}Enlève ta culotte.
+{49868}{49908}J'aime ton odeur.
+{50028}{50080}L'odeur du gymnase.
+{50755}{50795}Non, non.
+{50857}{50892}Ça suffit!
+{50956}{51011}Je dois me battre|contre Robinson.
+{51829}{51914}Qu'est-ce que tu me fais,
+{52830}{52905}La Motta et Robinson se|rencontrent pour la 3ème fois.
+{52966}{53069}Deux éternels adversaires...|Des boxeurs puissants, tenaces
+{53076}{53159}et dangereux...|Personne n'ose leur faire face.
+{53164}{53269}Alors ils se battent entre eux.|Ils ont gagné un combat chacun.
+{53277}{53342}Ils se retrouveront sans doute.
+{53371}{53423}Ils combattaient corps à corps.
+{53550}{53655}7ème round. Robinson mène.|La Motta veut un K. O.
+{53717}{53810}Robinson au tapis pour|la 2ème fois de sa carrière.
+{53816}{53949}La Motta regarde Sugar Ray|se faire compter par l'arbitre.
+{53957}{54005}Robinson tente de se relever.
+{54009}{54054}7...8...
+{54059}{54154}Il est sur pied,|complètement sonné.
+{54197}{54320}La Motta revient à lui.|Robinson mène aux points.
+{54327}{54405}Un gauche à la mâchoire.
+{54452}{54497}Votre attention!
+{54499}{54679}Juge Joe Lanahan donne 8 à 1,|et une égalité pour Robinson.
+{54755}{54890}..avec un score de 6 à 2,|et deux égalités
+{54899}{55066}pour le vainqueur à l'unanimité,|Sugar Ray Robinson.
+{55344}{55444}C'est parce qu'il part|à l'armée qu'il a gagné.
+{55451}{55546}Je l'ai envoyé au tapis.|Je pouvais rien faire d'autre!
+{55553}{55683}C'est du vol. Leurs mères|sont toutes des enculées.
+{55735}{55810}J'ai pas toujours été réglo.
+{55860}{55928}J'ai peut-être la guigne.
+{55933}{55996}Dis pas de conneries.|T'avais gagné.
+{56001}{56086}- On nous a volés.|- Tu veux parler à Vickie,
+{56093}{56135}Non.
+{56192}{56247}- Joey, ramène-la à la maison.|- OK.
+{56403}{56458}- Ça va,|- Ça va.
+{56460}{56525}- T'es sûr,|- Occupe-toi bien d'elle.
+{56528}{56558}T'en fais pas.
+{61715}{61835}Ne me fais plus jamais de coup|pareil. On triche plus!
+{61842}{61947}- De quoi tu parles,|- Regarde! 76 kilos.
+{61954}{62059}- Arrête de bouffer!|- Je ne voulais pas me battre.
+{62066}{62219}Tu m'as dit que|tu pouvais descendre à 70 kilos.
+{62228}{62323}J'ignore même|si je vais arriver à 72,5 kilos.
+{62330}{62460}Et tu me signes à 70 kilos.|Je risque de perdre 15000 dollars.
+{62465}{62555}- Correct!|- Tu es censé être mon manager.
+{62559}{62629}- J'ai fait ce que je voulais.|- C'est bien ce qui m'inquiète.
+{62634}{62762}- Tu veux aller au titre,|- C'est le cirque ici, ou quoi,
+{62770}{62880}- Il a plus de bon sens que toi!|- Tu te tues depuis trois ans.
+{62888}{62985}T'as plus d'adversaire.|Ils ont tous la trouille.
+{62992}{63122}Arrive Janiro. Il est jeune.|Prêt à affronter n'importe qui.
+{63130}{63220}Rencontre-le. Lessive-le.
+{63227}{63304}- De quoi tu t'inquiètes,|- De mon poids.
+{63310}{63385}- Ton poids,|- J'ai dit mon poids.
+{63391}{63464}Si tu perds à cause de ça,
+{63467}{63547}et si on pense|que t'es pas assez costaud,
+{63552}{63652}tant mieux! Tu affronteras ceux|qui avaient peur de toi avant.
+{63660}{63740}- Tu peux t'attaquer au titre.|- Donne-moi un café.
+{63743}{63843}Pourquoi, Il ne reste plus|personne d'autre que toi.
+{63847}{63887}- Du café!|- Ça arrive.
+{63891}{63944}- Tu m'écoutes,|- S'il te plaît, chérie!
+{63947}{64004}- D'accord.|- Alors ça vient,
+{64009}{64079}Tu m'écoutes,|Disons que tu gagnes.
+{64082}{64174}Tu bats Janiro,|ce qui va de soi, non,
+{64181}{64216}- Ouais.|- Pas vrai,
+{64218}{64295}- Ouais.|- Tu t'attaques au titre!
+{64301}{64398}- Pourquoi,|- Toujours pareil. Y'a personne.
+{64405}{64540}T'auras ta chance. Si tu gagnes|tu gagnes, sinon tu gagnes aussi
+{64548}{64678}Tu peux pas perdre.|Tu le feras tout seul.
+{64687}{64792}Tu piges, T'as qu'à descendre|à 70 kilos. Arrête de bouffer.
+{64799}{64907}C'est faisable. Tu comprends,
+{64913}{65026}Joey a raison. Janiro a une|belle gueule et on l'aime bien.
+{65031}{65141}- Pardon, Belle gueule,|- Je dis qu'il a la cote.
+{65148}{65248}- Quoi,|- Joey a raison.
+{65255}{65317}- T'es un expert ou quoi,|- Non. Je...
+{65344}{65416}Prends le môme et tire-toi.
+{65464}{65586}Tous des experts! Comment elle|sait qu'il a une belle gueule,
+{65597}{65667}Elle n'avait pas|d'arrière-pensée.
+{65699}{65774}- On t'a fait signe,|- C'est à moi d'encaisser!
+{65779}{65877}Ne me coupe pas.|C'est pas tes oignons!
+{65883}{66023}Ils ont rien à voir avec toi.|Va à côté avec la petite.
+{66032}{66174}- Laissons les grincheux.|- Change sa couche.
+{66184}{66286}- Tu la fais pleurer.|- Je vais te faire pleurer.
+{66444}{66491}Deux vrais gosses!
+{66499}{66582}Allons au camp d'entraînement.
+{66587}{66682}Pas de femme ni de téléphone.|Rien qui casse les pieds.
+{66690}{66790}- Je vais te faire ton planning.|- Dis-moi un truc.
+{66796}{66859}Quand je suis absent,|tu te rends compte de rien,
+{66864}{66909}- A propos de Vickie,|- Ouais.
+{66914}{66986}- Comme quoi,|- A ton avis,
+{67018}{67123}- Je n'ai rien remarqué.|- Tiens-là à l'oeil.
+{67130}{67255}- Elle ne fait rien de mal.|- Surveille-la en mon absence.
+{67263}{67323}Tu te biles pour rien.
+{67328}{67368}J'ai mes raisons.
+{67373}{67500}Les femmes, au bon moment,|sont capables de tout.
+{67508}{67565}Tout est possible, pas vrai,
+{67571}{67663}T'as pas tort,|mais tu t'en prends à elle.
+{67670}{67730}Tu te mines pour ton poids.|T'as les boules.
+{67735}{67828}Et tu lui dis: "Va à côté!|De quoi tu te mêles,"
+{67832}{67939}- Forcé qu'elle aille s'amuser.|- Elle parlait de Janiro.
+{67946}{68023}Et alors, Elle parlait pour toi.
+{68030}{68132}Elle parlait|d'un beau petit mec.
+{68139}{68174}Amoche-le!
+{68176}{68231}- Surveille-la, compris,|- D'accord.
+{68280}{68400}Va te faire pardonner.
+{68407}{68487}Dis-lui que tu vas la sortir.
+{68494}{68651}Comme ça tu partiras avec|la conscience tranquille!
+{68661}{68733}Où est-ce que tu veux aller,
+{68739}{68874}Je sais pas, dehors! Quand tu|lui en parles, sois discret,
+{68882}{68965}parce que j'emmène pas Lenore.
+{68971}{69039}Tu crois que je vais lui dire,
+{69041}{69108}- Fais ce que tu veux.|- Et comment!
+{69229}{69256}Viens ici.
+{69909}{69989}Bonsoir mesdames et messieurs.|Heureux de vous retrouver.
+{69996}{70103}Riez donc, madame!|J'ai ri quand je vous ai vue!
+{70149}{70234}Il y a une personnalité|parmi nous, ce soir.
+{70241}{70336}Le challenger du titre|mondial des poids moyens.
+{70342}{70482}Le Taureau du Bronx.|M.Jake La Motta!
+{70637}{70692}- Rappelez-moi votre nom,|- Janet.
+{70695}{70792}Désolé. Pas moyen de le retenir.|A l'après combat!
+{70856}{70953}Il m'envoie un crochet gauche.|Pas le poing, juste un crochet.
+{70997}{71047}- Tu vas où,|- Aux toilettes.
+{71166}{71216}- Hé, Vickie!|- Bonsoir.
+{71227}{71277}Tu es ravissante. Joe est là,
+{71281}{71354}- Ouais. Jake aussi.|- Formidable!
+{71359}{71454}Je suis avec Tommy.|Viens prendre un verre.
+{71539}{71571}Comment ça va,
+{71623}{71680}Tu bois pas d'alcool, j'espère,!
+{71685}{71740}- Ça va, Joey,|- Salut, Sal.
+{71745}{71865}Je suis avec Tommy Como.|Venez vous joindre à nous.
+{71873}{71928}Je ne l'ai pas vu.
+{72134}{72231}- A la prochaine, Joey.|- T'as vu son costard, hein,
+{72327}{72379}C'était ma meilleure blague!
+{72509}{72541}Regardez donc qui est là!
+{72603}{72715}Ça va, princesse,|Quel plaisir de te voir.
+{72749}{72854}- Assieds-toi.|- C'est juste un petit bonjour.
+{72861}{72969}Merci d'être venue.|C'est pas une mauvaise fille.
+{72976}{73061}Elle se prend de sacrées|raclées par ce gorille.
+{73161}{73238}- Où étais-tu passée,|- Je parlais à Tommy.
+{73245}{73342}Je t'ai vue.|Pourquoi t'as mis si longtemps,
+{73349}{73434}Je lui ai dit bonjour|et je suis revenue.
+{73440}{73483}Qu'est-ce qu'il a dit,
+{73487}{73587}Il m'a offert un verre.|J'ai refusé. Je les ai laissés.
+{73594}{73711}- Et Sal? Il t'a demandé quoi,|- Si Joey était ici.
+{73719}{73821}Il a dit: "Tommy est ici.|Va le saluer". Et je l'ai fait.
+{73829}{73919}- Il t'intéresse,|- Non. Pourquoi,
+{73925}{73965}T'en es certaine,
+{73972}{74002}Ouais.
+{74039}{74122}Mais tu pourrais t'intéresser|à quelqu'un d'autre,
+{74128}{74291}- Ne commence pas, Jake.|- La ferme ou je te cogne.
+{74298}{74368}C'est M.Como|qui vous les offre.
+{74475}{74535}- Je prends les...|- Quoi,
+{74540}{74623}- Ces verres,|- J'ai pas terminé.
+{74632}{74677}Ça, c'est des blagues!
+{74684}{74771}Ça va, ma chochotte déplumée,
+{74924}{74981}- Merci pour le verre.|- Y'a pas de quoi.
+{74986}{75028}- Comment vas-tu,|- Bien.
+{75033}{75070}- Où est Jake,|- Là-bas.
+{75179}{75234}- Dis-lui de venir.|- D'accord.
+{75310}{75347}Je reviens.
+{75352}{75462}T'appelles plus. On te voit|plus. Qu'est-ce qui t'arrive,
+{75468}{75571}Tu sais même pas|prendre un téléphone,
+{75578}{75661}- Je bosse pas en ville.|- Occupé!
+{75667}{75775}Il me prend au sérieux.|Je blague. Quel numéro!
+{75781}{75856}C'est le meilleur des boxeurs.
+{75910}{75980}Ils ont tous peur|de t'affronter.
+{75983}{76025}- Comment vas-tu,|- Ça va.
+{76029}{76091}- En forme,|- Ouais, en forme.
+{76097}{76194}- Janiro devra faire gaffe.|- Il a intérêt.
+{76202}{76229}Bon.
+{76233}{76330}- Je voulais miser sur lui.|- Un bon combattant.
+{76337}{76429}Il est beau gosse.|Pas une marque. Intact.
+{76509}{76664}- T'as pas un peu grossi,|- Ça va vite fondre.
+{76718}{76815}J'ai une question à te poser.|Histoire de causer.
+{76822}{76974}Je vais miser gros sur toi|dans ce combat contre Janiro.
+{76986}{77021}Ouais.
+{77028}{77173}- Qu'est-ce que t'en dis,|- Parie tout ce que tu as.
+{77182}{77217}- Tout,|- Tout.
+{77245}{77355}Je vais lui mettre un cul comme|ça! Pardonnez-moi l'expression.
+{77359}{77439}- Je vais le faire souffrir.|- Il est gonflé, le mec!
+{77443}{77575}Sa mère va regretter qu'il soit|né. Je vais le hacher menu.
+{77584}{77691}- N'a-t-il pas dit...,|- Beau garçon aussi.
+{77698}{77770}Je sais pas quoi faire.|Le baiser ou le boxer!
+{77839}{77984}- Le baiser ou le boxer!|- Tu risques de te faire baiser.
+{77992}{78032}- Par qui,|- Janiro.
+{78037}{78147}- Tu veux qu'il te baise toi,|- Moi, Non.
+{78154}{78209}- Je peux arranger ça.|- Comment,
+{78215}{78302}Je vous tabasse tous les deux.|Et après vous vous baisez.
+{78342}{78410}- J'aurai du sang partout!|- T'en as l'habitude.
+{78462}{78535}Trinquons.|Bois ton soda, Jake.
+{78543}{78580}Santé.
+{78585}{78630}- Bonne chance.|- Bonne chance.
+{79711}{79758}- Quoi,|- T'es réveillée,
+{79792}{79822}Non.
+{79880}{79938}- Tu m'entends,|- Quoi,
+{80094}{80207}Tu penses à un autre|quand on est au lit,
+{80245}{80305}- Quoi,|- Quand on fait l'amour,
+{80342}{80397}A personne. Je t'aime.
+{80454}{80532}Pourquoi t'as dit ça sur Janiro,
+{80537}{80610}- Quoi,|- Qu'il était beau gosse.
+{80650}{80757}- J'y ai jamais fait attention.|- Alors pourquoi t'as dit ça,
+{80822}{80949}Je ne l'ai jamais vu. Dors.
+{82866}{82951}- Finie la belle gueule.|- Jake l'a bousillée.
+{83028}{83158}Et le vainqueur à l'unanimité|au 10ème round est...
+{83166}{83201}..Jake La Motta.
+{83826}{83903}Va me chercher de la glace.|Un petit morceau.
+{83909}{84041}- Pas d'eau.|- Je crève. Vieux couillon.
+{84107}{84202}Deux kilos. Travaille.|Bouge-toi le cul.
+{84410}{84512}J'ai vu le combat contre Janiro.|Il l'a détruit.
+{84516}{84644}Il lui a quasiment|arraché le pif.
+{84652}{84770}- C'est qui son prochain rival?|- Je sais pas.
+{84777}{84892}- Il va aller au titre.|- Jackie Curtie. Tu le connais.
+{84900}{84992}- Enchanté.|- On va s'attaquer au titre.
+{84999}{85101}- Jake m'a fait gagner du fric.|- Plus qu'il n'en a gagné lui.
+{85111}{85184}J'ai fait|mon beurre avec Jackson.
+{85218}{85315}- Que devient Oscar,|- Sonné ou mort, qui sait,
+{85322}{85379}- Mettez-vous à l'aise.|- On est bien placés.
+{85385}{85427}Pourquoi tu rouspètes,|La table est superbe.
+{85434}{85522}Il travaille dans un ascenseur.
+{85533}{85591}Je ne suis pas italienne.
+{85596}{85736}- Il m'a fait monter.|- Oscar t'a bien aidé.
+{85742}{85852}- Un scotch avec de l'eau!|- Excusez-moi.
+{85856}{85924}Tu reviens, hein,
+{86138}{86178}Il se passe quelque chose.
+{86183}{86283}- Ils ont un problème.|- Ne t'inquiète pas.
+{86289}{86367}- La ferme!|- Je me sens en prison.
+{86373}{86436}Je regarde quelqu'un,|je m'en prends une!
+{86441}{86534}- T'as pas besoin de gueuler,|- Si.
+{86540}{86638}- T'as tort.|- Arrête de me coller au cul.
+{86686}{86716}- Tais-toi!|- Non.
+{86720}{86820}- Ne me...|- Je veux plus t'entendre!
+{86832}{86937}- Je suis seule tous les soirs.|- Pourquoi tu l'as épousé,
+{86941}{86994}- Je l'aime.|- C'est vrai,
+{86999}{87074}Il ne veut même plus me baiser.
+{87122}{87237}Il ira mieux une fois|qu'il aura eu sa chance.
+{87244}{87307}Tu n'auras plus|besoin de traîner.
+{87311}{87381}Il ne sera jamais champion.|Les gens le détestent.
+{87388}{87475}- Tu bois avec eux.|- Je veux m'amuser.
+{87481}{87533}Prends tes affaires!
+{87638}{87730}Tu fais passer|mon frère pour un con!
+{87737}{87824}- Joey...|- Occupe-toi de tes affaires!
+{87828}{87903}- Tu te trompes.|- Ta gueule!
+{87906}{87989}Tu t'emballes pour rien.|On boit un pot, c'est tout.
+{88026}{88089}- Calme-toi.|- Tu le vois quand même!
+{88094}{88197}- On se calme.|- On est de vieux amis.
+{88203}{88271}- C'est la femme de Jake.|- On fait rien de mal.
+{88276}{88331}Désolé. On va arranger ça...
+{88389}{88456}Rien de mal? !|Rien de mal? !
+{88573}{88608}Salopard!
+{88639}{88704}Je vais te déchiqueter!
+{88853}{88915}- Lâche-moi, bordel!|- Allons!
+{88978}{89005}Enculé.
+{89038}{89066}Dehors!
+{89082}{89147}Je vais t'arracher les yeux!
+{89283}{89393}On fait chacun son boulot.|Pas d'insultes.
+{89397}{89455}- T'as tort.|- C'est lui qui a tort!
+{89771}{89811}Du calme!
+{90305}{90375}Debonair Social Club.|Réservé aux adhérents.
+{90388}{90493}Vous avez fait beaucoup|de choses ensemble.
+{90498}{90576}Je sais que c'est|la femme de ton frère,
+{90581}{90684}mais on ne fait pas un scandale|dans un endroit pareil.
+{90691}{90821}Tout le monde a dit ce qu'il|voulait. On va tout oublier.
+{90829}{90896}Je ne devrais pas|mais je vais le faire aussi.
+{90923}{91083}Serrez-vous la main|et oubliez tout.
+{91092}{91190}Sans rancune. C'est essentiel.
+{91221}{91263}Allez, serrez-vous la main.
+{91389}{91499}Je suis d'accord si tu l'es.
+{91507}{91597}- Je regrette ce qui est arrivé.|- Comme nous tous.
+{91603}{91678}C'est bon, On oublie ça!
+{91685}{91757}Je veux lui parler seul à seul.
+{91765}{91805}D'accord.
+{91846}{91883}A plus.
+{91919}{92021}- Désolé. J'avais déjà oublié.|- T'es dingue,
+{92177}{92240}A part ça, la famille, ça va,
+{92245}{92303}Ouais, tout le monde va bien.
+{92404}{92484}- Tu veux rien dire,|- De quoi tu parles,
+{92490}{92558}T'es bizarre.
+{92563}{92676}Tu réponds à la va-vite.
+{92683}{92718}J'en sais rien.
+{92722}{92809}- Tu veux partir,|- C'est pas ça.
+{92813}{92928}C'est tous ces problèmes|et ces combats.
+{92973}{93110}Ecoute-moi.|Jake devient encombrant.
+{93142}{93267}Il me met dans des situations|gênantes. Ça la fout mal.
+{93298}{93406}Je peux même pas leur livrer|un type de mon propre quartier.
+{93413}{93553}Pourquoi il se complique|la vie, Je l'aiderai.
+{93637}{93680}C'est une tête de mule.
+{93807}{93924}C'est dur à t'expliquer.|Jack te respecte.
+{93932}{94042}Il ne salue personne.|A toi, il te parle.
+{94091}{94234}Quand il a un truc|en tête, c'est un vrai mur.
+{94242}{94352}Si Jésus descendait|de sa croix, il s'en foutrait.
+{94357}{94472}- Il veut y arriver seul.|- Seul.
+{94480}{94590}Il croit qu'il va|devenir champion tout seul?
+{94597}{94690}- Ce mec est barjo.|- Il est cinglé.
+{94696}{94809}Ne respecter ou n'écouter|personne. C'est pas fou, ça,
+{94816}{94901}- Il te respecte.|- Il respecte personne.
+{94907}{94957}Fais-moi plaisir.
+{94962}{95080}Dis-lui que je me fous qu'il|soit spécial ou formidable.
+{95087}{95177}Il peut battre tous les Robinson|ou tous les Janiro du monde.
+{95184}{95284}Il n'ira pas au titre|sans nous. Dis-lui ça.
+{95538}{95623}Saloperie! Des pompes à 20 dollars.
+{95820}{95855}Tu sais ce qui s'est passé,
+{95968}{96001}Qu'est-ce qu'il y a,
+{96036}{96116}- Qu'est-ce que t'as,|- Je l'ai rencontrée ici.
+{96161}{96204}- Qui,|- Vickie.
+{96291}{96356}Qu'est-ce qu'elle a fait,
+{96448}{96541}Elle manigance quelque chose.|Je veux la coincer.
+{96636}{96724}Tu veux te rendre service,
+{96730}{96860}Passe-lui un savon ou vire-la|sinon elle va te gâcher la vie.
+{96868}{96900}Parce que c'est ce qui se passe.
+{96983}{97038}Tu vas la supporter|encore longtemps,
+{97298}{97411}- Il a dit quoi,|- Ç'a été la douche écossaise.
+{97444}{97524}Tu pourras t'attaquer au titre
+{97531}{97621}mais tu dois te coucher.
+{97658}{97741}- Quoi d'autre,|- Tu le sentais pas venir,
+{97746}{97846}- On en perd, et on en gagne!|- On va perdre celui-là.
+{97913}{98041}Billy Fox...78kg 500.
+{98117}{98202}Jake La Motta...75,65 kilos.
+{98208}{98318}Vous avez dû entendre|les bruits qui courent.
+{98325}{98408}Il y a peu de temps,|vous étiez grand favori.
+{98414}{98517}On vous donne perdant|à 12 contre 5. Les gens jasent.
+{98523}{98618}- J'ai rien entendu.|- Ce n'est pas encourageant.
+{98626}{98721}Les paris sont figés|sur ce match. On ne mise pas.
+{98727}{98815}Les parieurs avertis disent que|vous avez reçu une enveloppe.
+{98821}{98869}- Ce sont des conneries.|- Ouais, n'importe quoi.
+{98904}{98977}Allez-y! Pariez!|Je relève le défi.
+{98982}{99105}Misez sur Fox. Je gagnerai.|Je ne me couche pour personne.
+{99113}{99196}- C'est ce que je veux entendre.|- Bon.
+{99201}{99286}- C'est tout.|- Vous êtes venu pour ça,
+{99293}{99323}C'était tout.
+{99340}{99370}Qu'il aille se faire foutre.
+{99603}{99643}Bonsoir.
+{99645}{99748}Bienvenue|au Madison Square Garden.
+{99754}{99814}Dans ce coin-ci...
+{99817}{99905}Commissaire, une photo,
+{99947}{100012}..l'invaincu Billy Fox.
+{100107}{100179}Ton frère est sorti|de l'hôpital?
+{100185}{100240}Il est sorti, tant mieux!
+{100286}{100336}- Laisse-moi m'asseoir ici.|- Bien sûr.
+{100409}{100449}- Quoi de neuf,|- Tout va bien,
+{100453}{100478}Ouais.
+{100482}{100567}- Touchez vos gants.|- Soigneurs hors du ring!
+{100896}{101016}Lève-toi! Qu'est-ce que tu fous,|Frappe-moi, pignouf de merde!
+{101051}{101166}- Allez!|- Tu fais quoi, boxe-le!
+{101423}{101543}Qu'est-ce que t'as,|Qu'est-ce que tu fabriques,
+{101551}{101603}- Il y va doucement, c'est tout.|- C'est quoi ton jeu,
+{101609}{101686}Calme-toi. Il va se reprendre.
+{101720}{101810}Putain! Réveille-toi. Pardon.
+{101817}{101879}J'ai misé du pognon sur toi!
+{101887}{101965}- T'as les poches pleines, Jake,|- Cogne, trouduc!
+{102085}{102123}Garde ton fric puant!
+{102130}{102252}Arrête, Jake! Faux derche!
+{102330}{102403}Ne reste pas debout, idiot!
+{102409}{102469}Couche-toi!
+{102476}{102551}L'arbitre interrompt le match.
+{102560}{102603}- Faux cul!|- C'est du truquage!
+{102648}{102731}Le vainqueur par KO technique
+{102737}{102847}est et demeure... Billy Fox.
+{103274}{103369}T'es libre. Ne boxe plus.
+{103379}{103454}Qu'est-ce que j'ai fait,
+{103483}{103526}Qu'est-ce que j'ai fait,
+{103590}{103632}Qu'est-ce que j'ai fait,
+{103806}{103849}Barrez-vous!
+{103914}{103971}T'en fais pas, Jake.
+{104039}{104104}Pourquoi j'ai fait ça, Pourquoi,
+{104124}{104229}La Motta est suspendu.
+{104237}{104287}Ils ont du culot.
+{104331}{104446}Je me couche.|Et ils veulent m'enterrer!
+{104453}{104536}- Ils ne m'enterreront pas.|- Fais-moi plaisir.
+{104541}{104619}Lève les mains.|Je vais te montrer un truc.
+{104659}{104781}- C'est pas si dur que ça!|- Tu piges pas!
+{104790}{104945}J'ai boxé un nullard! Je lui|flanque un coup, il s'écroule.
+{104953}{105026}T'avais pas à l'aider!
+{105032}{105107}Si je l'avais pas fait je serais|encore plus dans la merde!
+{105139}{105176}Je sais pas.
+{105178}{105288}La remise du prix est|suspendue par le procureur.
+{105296}{105423}J'ai l'air de quoi, moi,...|Un tocard, un pitre.
+{105431}{105526}- Un quoi,|- Le pitre de l'année.
+{105532}{105677}Tommy n'oubliera pas. Tu auras|ta chance s'il ne crève pas.
+{105687}{105747}- Qui,|- Tommy.
+{105751}{105836}- Qu'est-ce que tu dis,|- Tommy ne t'oubliera pas.
+{105843}{105925}- Tu iras au titre.|- Il est malade,
+{105932}{105969}Non, je disais juste...
+{106365}{106470}Tu veux boxer sous la pluie,|Dans un stade,
+{106476}{106586}- Tu dois attendre.|- Je veux pas attendre 24 heures.
+{106594}{106686}Moi non plus, mais il le faut.|Allô,
+{106693}{106805}- Arrêtez de...|- Raccroche.
+{106813}{106868}- Raccroche!|- Il veut pas parler.
+{106873}{106933}Y'a déjà assez de pagaille.
+{106938}{107018}N'appelez plus.|Sans commentaires.
+{107024}{107137}Bon. Merci. Au revoir.|C'est pas croyable.
+{107144}{107267}- Raccroche, c'est tout.|- Tu veux manger,
+{107274}{107382}- Je veux rien.|- Tu dois manger un morceau.
+{107451}{107596}Un steak. Mâche et recrache.|Tu pèseras pareil demain.
+{107606}{107648}C'est ça qui t'inquiète,
+{107700}{107805}Je te le commande.|Si tu le veux, c'est là.
+{107811}{107881}- Vas-y.|- Tu veux quoi,
+{107887}{107989}- Un morceau de gâteau.|- C'est tout.
+{107997}{108092}Prends un cheeseburger et des|frites. C'est un repas complet.
+{108101}{108211}- Ouais, bonne idée.|- Tu veux quoi,
+{108216}{108318}- Depuis quand tu commandes ça,|- J'en ai envie.
+{108338}{108441}- Commande ce que tu veux.|- C'était une simple suggestion.
+{108468}{108583}- Pourquoi tu lui dis...|- Elle mange ce qu'elle veut.
+{108591}{108686}- Alors pourquoi lui dire,|- Commande-moi un cheeseburger.
+{108779}{108824}Commande-le-lui.
+{108875}{109010}- Il vous faut combien de temps,|- 40 secondes.
+{109019}{109099}C'est trop long!|Faites-le en 30.
+{109282}{109357}- Quoi,|- Tu as de la visite.
+{109400}{109465}- Ça va,|- Et toi,
+{109587}{109692}- Dis bonjour à Charlie.|- Ça va, Bonne chance.
+{109699}{109734}Merci.
+{109777}{109845}- Ça va,|- On fait aller.
+{109848}{109933}- Tu te sens bien,|- Dans la mesure du possible.
+{109939}{110012}- Je dois aller boxer.|- C'est bien.
+{110017}{110090}- On vient te dire bonne chance.|- Merci.
+{110095}{110128}- T'as besoin de quelque chose,|- Non.
+{110132}{110177}- Vraiment,|- Oui, merci.
+{110182}{110272}- Que Dieu te bénisse!|- Merci, Tommy.
+{110278}{110323}- Tout ira bien.|- Ouais.
+{110330}{110433}- A bientôt.|- Tommy, attends!
+{110443}{110543}Merci de ta visite.|C'était sympa de ta part.
+{110552}{110592}Y'a pas de quoi.
+{110599}{110654}- Ça compte.|- Je t'en prie.
+{110662}{110757}- Au revoir.|- Salut. Prends soin de Jake.
+{110761}{110836}- Oui.|- En cas de besoin, appelle-moi.
+{110844}{110911}Il a le trac.|Au revoir, chérie.
+{110949}{111049}Regardez-moi ce visage!|Et d'une beauté!
+{111055}{111173}- Toujours aussi belle.|- Au revoir, Tommy.
+{111178}{111243}- Salut, tout le monde!|- Salut, Tommy.
+{111522}{111579}Viens ici.
+{111783}{111860}- C'est quoi ce cinéma,|- Quel cinéma,
+{111868}{111908}Tu sais très bien.
+{111960}{112035}- Qu'est-ce qui s'est passé,|- Je lui ai dit au revoir.
+{112038}{112123}- T'es amie avec lui,|- Je lui ai dit au revoir.
+{112129}{112192}Tu lui dis bonjour, au revoir.|C'est tout, t'as compris,
+{112200}{112230}Ouais...
+{112249}{112359}Ecoute-moi bien!|Ne me manque pas de respect.
+{112367}{112422}- Tu m'entends,|- Oui.
+{112424}{112459}File.
+{112497}{112564}- Attends.|- Arrête! Mais arrête!
+{112570}{112665}Ecrase!|Je m'occuperai de toi plus tard.
+{112891}{112941}Vous m'écœurez tous les deux.
+{113061}{113093}Plus tard.
+{113349}{113382}Tape, putain...
+{113426}{113466}Je suis le patron! Le patron!
+{115282}{115357}Pour le championnat|du monde des moyens,
+{115360}{115402}en 15 rounds.
+{115407}{115474}Dans ce coin-ci, le challenger,
+{115480}{115580}72 kilos à la pesée.
+{115587}{115672}Le Taureau du Bronx,|Jake la Motta.
+{115851}{115916}Touchez vos gants.|Que le combat commence.
+{116961}{117033}Maintenant, achève-le.
+{117128}{117218}Souffle-lui dessus. Il tombe.
+{117227}{117259}Tu te sens comment,
+{117347}{117457}Peut-il continuer,|Commissaire, j'arrête le match.
+{117808}{117881}Votre attention,|s'il vous plaît!
+{117886}{117939}Cerdan est|incapable de poursuivre.
+{117944}{118007}L'arbitre a arrêté le combat.
+{118012}{118092}Le vainqueur,|par KO technique,
+{118098}{118170}le nouveau champion|du monde des poids moyens...
+{118176}{118251}le Taureau du Bronx,|Jake la Motta.
+{118865}{118977}Ne la remue pas comme ça.|Tu bousilles tout.
+{119122}{119157}Ah, t'es là!
+{119324}{119371}- Bonjour.|- Où étais-tu,
+{119376}{119473}- Sortie. Qu'est-ce qu'il y a,|- La télé déconne.
+{119506}{119633}- T'es allée où,|- Aux magasins. Chez ma sœur.
+{119957}{120022}C'est quoi|ces embrassades sur la bouche,
+{120028}{120128}- Je peux pas l'embrasser,|- Les joues, ça suffit pas,
+{120134}{120212}- Allez...|- J'embrasse pas maman comme ça.
+{120218}{120318}- Ce serait pas normal.|- C'est ce que je te dis.
+{120457}{120512}- C'est mieux,|- T'as quelque chose.
+{120619}{120677}Ton bide n'est pas transparent.
+{120726}{120758}Pourquoi|tu me regardes de cet œil?
+{120846}{120908}T'es un champion.|Et tu te goinfres.
+{120914}{120986}Ç'a été long|pour arriver au titre.
+{120992}{121072}Tu le défends dans|un mois. Vas-y! Bouffe!
+{121109}{121154}Pourquoi|tu me regardes comme ça,
+{121255}{121318}Qu'est-ce qui s'est passé|entre toi et Salvy,
+{121323}{121388}- Quand,|- Quand tu l'as tabassé.
+{121427}{121522}Quand je lui ai coincé la tête|dans la portière du taxi,
+{121530}{121617}- Ouais.|- Je te l'ai dit, non,
+{121623}{121668}- Non.|- Jamais,
+{121670}{121735}- Non.|- C'était pas grand-chose.
+{121740}{121808}Je lui ai flanqué une rouste.
+{121811}{121908}J'ai dû aller m'expliquer|avec Tommy. C'est oublié.
+{121915}{122020}- Pourquoi tu m'as rien dit,|- Ça ne te concernait pas.
+{122077}{122119}- Vraiment,|- Non.
+{122124}{122201}Qui alors, Vickie,
+{122230}{122345}Je viens de te le dire.|C'était entre moi et Salvy.
+{122354}{122424}Sinon, je t'en aurais parlé.
+{122522}{122602}- C'est pas ce qu'on raconte.|- Comment ça,
+{122609}{122656}- Non.|- Qu'est-ce qu'on t'a raconté,
+{122661}{122746}- Des choses.|- Sur moi et Salvy.
+{122752}{122837}- Des choses.|- Que j'ai cogné Salvy.
+{122844}{122894}- Des choses.|- Quoi,
+{122898}{122996}- Des choses.|- Commence pas à te biler.
+{123002}{123092}Tu veux t'en faire, Pense|au titre le mois prochain.
+{123127}{123155}Fais ça.
+{123256}{123283}Nom de Dieu!
+{123404}{123462}- Salvy, il baise Vickie,|- Quoi,
+{123464}{123506}Est-ce que Salvy baise Vickie,
+{123555}{123650}Commence pas avec ces conneries.|Vraiment, arrête.
+{123657}{123739}- Je t'ai dit de la surveiller.|- Je la surveille.
+{123746}{123846}- Pourquoi tu l'as battu,|- Je te l'ai dit.
+{123852}{123957}- Ça n'a rien à voir avec toi.|- Ne mens pas.
+{123965}{124020}- Je mens pas.|- Tu me prends pour un con,
+{124024}{124107}Je suis ton frère.|Tu me fais pas confiance,
+{124113}{124148}- Non.|- C'est grave!
+{124153}{124215}Avec elle, je fais|confiance à personne.
+{124264}{124352}- Raconte-moi ce qui s'est passé|- Je te l'ai dit
+{124358}{124481}Je l'ai un peu secoué. Tommy|nous a réconciliés. Point final.
+{124648}{124683}Tu fais une drôle de tronche.
+{124768}{124828}Je te crois, j'ai pas le choix.
+{124831}{124936}Mais si j'apprends quoi que|ce soit, je bute quelqu'un.
+{124982}{125057}- Je buterai quelqu'un.|- Vas-y. Tue tout le monde.
+{125062}{125207}Tue Vickie et Salvy et Tommy.|Moi aussi tant que tu y es.
+{125217}{125312}Tu te tues toi-même.|Tu t'empiffres.
+{125318}{125491}- Pourquoi je te tuerais,|- Moi d'abord. Fais ça pour moi.
+{125498}{125643}- T'es un tueur. Tue.|- Comment ça "toi",
+{125686}{125816}- Qu'est-ce que tu racontes,|- Tu raisonnes dans le vide.
+{125824}{125879}- Tu dis n'importe quoi.|- Tu sais de quoi tu parles.
+{125884}{125971}Tu parles de toi,|de Tommy et de Salvy.
+{126001}{126059}Tu parles d'eux et de toi.
+{126095}{126193}Cette nana a gâché ta vie.|Elle s'est bien débrouillée.
+{126197}{126242}Tu débloques!
+{126246}{126306}- Tu la baises,|- Quoi,
+{126312}{126344}Tu la baises,
+{126442}{126539}Comment oses-tu penser ça,|Je suis ton frère.
+{126546}{126663}D'où sors-tu les couilles|pour me demander ça,
+{126776}{126808}Dis-moi.
+{126932}{127007}Je vais pas répondre à ça.|C'est ridicule.
+{127136}{127166}T'es malin, Joey.
+{127240}{127297}Tu me réponds|sans répondre à ma question.
+{127386}{127418}Je te le redemande.
+{127495}{127602}- Tu la baises, oui ou non,|- Je vais pas te répondre.
+{127610}{127702}C'est une question débile|et j'y répondrai pas.
+{127709}{127771}Je vais pas te répondre.|Je me casse.
+{127777}{127904}Je vais pas rester dans|cet asile. Je te plains.
+{127913}{128005}Tu devrais baiser plus|et manger moins.
+{128012}{128089}Si t'avais pas|des problèmes au plumard,
+{128095}{128160}tu me foutrais la paix.
+{128163}{128195}Tu perds la boule!
+{128241}{128281}Complètement givré.
+{129378}{129458}- T'étais où,|- Chez ma sœur.
+{129464}{129557}- Et après, t'es allée où,|- Au cinéma.
+{129563}{129593}T'as vu quoi,
+{129651}{129694}Le Père de la Mariée.
+{129842}{129962}Pourquoi|tu m'as pas parlé du Copa,
+{129969}{130044}- Te parler de quoi,|- Tu sais.
+{130051}{130121}Pourquoi tu m'as rien dit,
+{130126}{130219}- Pourquoi,|- Qu'est-ce que tu racontes,
+{130270}{130385}- Tu t'es fait mon frère,|- Lâche-moi, gros porc!
+{130392}{130415}Alors,
+{130421}{130446}Non!
+{130611}{130664}- Ouvre la porte.|- Va-t-en!
+{130666}{130741}- Je veux te parler.|- T'es malade.
+{130746}{130804}Pourquoi tu t'es tapé Joey,
+{130807}{130857}- Fous le camp!|- Ouvre.
+{130861}{130891}Non.
+{130963}{131040}- Pourquoi,|- Je n'ai pas...
+{131047}{131139}Pourquoi|tu te les es tous tapés,
+{131146}{131241}Je n'ai rien fait! Je les ai|tous baisés. T'es content,
+{131247}{131337}- Avec qui t'as baisé,|- Tommy, Salvy, ton frère!
+{131344}{131429}J'ai sucé Joey! Ça te va,
+{131435}{131523}- Tu l'as sucé,|- Et les autres, aussi.
+{131529}{131592}Tu n'es qu'un sale type égoïste!
+{131647}{131679}- Va...|- Espèce de salaud!
+{131800}{131855}Sa queue est|plus grosse que la tienne!
+{131915}{132050}Où tu vas, où tu vas,|pauvre mec tordu,
+{132058}{132185}Où tu vas, lâche-moi, crétin!
+{132199}{132289}Tu mets ta main dans l'assiette,|je te plante ce couteau.
+{132295}{132340}Mange pas avec tes mains!
+{132394}{132457}- C'est compris!|- Y'a jamais la paix ici.
+{132462}{132545}J'aime pas voir|manger les porcs!
+{132551}{132661}- Qu'est-ce qui te prend,|- T'as baisé ma femme!
+{132726}{132801}Jake, lâche-le! Lâche-le!
+{132825}{132855}Je vais te tuer!
+{132987}{133017}Appelle la police!
+{133093}{133133}Je vais te tuer, putain!
+{133182}{133217}Dehors!
+{134530}{134597}Ne me quitte pas, chérie.|Je t'en prie.
+{135419}{135507}Je serai paumé|sans toi et les gosses.
+{135975}{136005}Juste...
+{136519}{136522}La Motta est en train|de perdre le titre
+{136522}{136584}La Motta est en train|de perdre le titre
+{136587}{136650}qu'il a gagné|au vaillant Cerdan.
+{136655}{136708}Après la mort|tragique de Cerdan
+{136712}{136797}Dauthuille a juré|de ramener le titre en France.
+{136801}{136929}Il devra tenir les 15 rounds|pour devenir champion.
+{136957}{137012}La Motta est martelé de coups.
+{137018}{137135}Un gauche-droite à la tête.|Une droite à la mâchoire.
+{137143}{137230}La Motta faisait le mort!|Il se rebiffe!
+{137237}{137342}Une droite au corps,|une droite à la tête!
+{137348}{137443}Dauthuille vacille!|Le vent a tourné!
+{137541}{137636}Il titube dans les cordes|et s'écroule au tapis!
+{137644}{137754}L'arbitre commence|à le compter.
+{137760}{137870}Il tente de se relever.|7... Il ne va pas y arriver.
+{137878}{137945}- 9...10!|- KO !
+{137951}{138041}C'est fini! Il est KO !
+{138047}{138112}La Motta,|à 13 secondes de la fin,
+{138118}{138215}vient de réussir|un come-back historique.
+{138379}{138464}Dis-lui que tu le regrettes,|qu'il te manque.
+{138614}{138664}C'est ton frère.
+{138876}{138986}Je fais le numéro.|Dis-lui que tu regrettes.
+{139341}{139366}OK.
+{139653}{139728}- Je peux poser une question,|- Pas maintenant.
+{139735}{139802}- Je vous attends depuis 1 h.|- Excusez-moi.
+{139805}{139890}- Ce sera un papier bien ciblé.|- Ne m'ennuyez pas.
+{139896}{139961}- Fichez le camp.|- Allez.
+{139966}{139999}Je vous le demande gentiment.
+{140279}{140309}Allô,
+{140355}{140382}Allô,
+{140477}{140587}Salvy, c'est pas rigolo.|C'est toi,
+{140595}{140695}Je sais qu'il y a quelqu'un.|J'entends respirer.
+{140702}{140835}Ta mère se tape des ânes.|Ça te va,
+{142082}{142122}Le combat de l'année.
+{142125}{142233}Quand on vous demande|ce que vous prenez, répondez:
+{142240}{142265}Une bière Blue Ribbon.
+{142360}{142425}Les coups portés|par La Motta s'expliquent.
+{142428}{142538}Ils se sont rencontrés|5 fois entre 1942 et 1945.
+{142546}{142653}Ce combat a été superbe,|jusqu'à présent.
+{142660}{142722}Belle attaque de La Motta
+{142751}{142791}mais pas de coup décisif.
+{142850}{142958}Treizième round. Celui qui porte|malheur. Voici le gong.
+{142965}{143008}Vous connaissez nos garçons.
+{143278}{143338}Robinson fait mal à La Motta.
+{143419}{143482}La Motta tient bon.
+{143513}{143646}Voici une preuve éclatante du|punch fracassant de Sugar Ray.
+{143653}{143728}Allez! Allez!
+{143735}{143857}Allez! Allez!|Qu'est-ce que tu attends,
+{143867}{143950}Robinson envoie|des coups secs et précis
+{143959}{144009}qui ébranlent La Motta.
+{144013}{144051}Allez, viens!
+{145711}{145808}C'est un assaut pulvérisant.|Comment va-t-il survivre?
+{145833}{145886}Aucun homme ne peut endurer ça.
+{145891}{146006}Frankie Sikora|signale l'arrêt du combat.
+{146042}{146145}Rangée après rangée,|le public se lève et l'acclame.
+{146151}{146226}Il a infligé à La Motta|une défaite foudroyante.
+{146297}{146407}Jake refusait de s'arrêter.|Il voulait continuer.
+{146415}{146582}J'ai jamais touché le tapis!|Je suis jamais allé au tapis!
+{146626}{146771}Tu m'entends, Ray. Jamais!|Tu vois, Regarde!
+{146782}{146915}C'est au treizième round|que le titre a changé de mains.
+{146944}{147034}Eh bien, vous l'avez vu! Un|champion vient d'être vaincu.
+{147069}{147199}Nous attendons|l'annonce d'Eddie Flint.
+{147252}{147342}Puis nous rejoindrons ceux|qui nous écoutent à la radio...
+{147349}{147424}..pour une interview|avec Ray Robinson.
+{147429}{147487}Nous attendons le chrono.
+{147515}{147622}La décision sera prise par|Eddie Flint et le commissaire.
+{147632}{147695}Attention,|mesdames et messieurs!
+{147703}{147840}Le vainqueur par|KO technique au treizième round,
+{147846}{147946}le nouveau champion du monde...|Sugar Ray Robinson!
+{148152}{148217}Vous ne boxerez pas mercredi,
+{148222}{148302}La boxe pour moi, c'est terminé.
+{148345}{148455}J'en ai marre de toujours|penser à mon poids.
+{148461}{148551}Y'a autre chose dans la vie.|La boxe m'a gâté.
+{148558}{148653}J'ai une belle maison|et trois beaux mômes.
+{148660}{148715}J'ai une femme belle|et merveilleuse.
+{148720}{148790}Que demander de plus,
+{148795}{148835}- Vous vous appelez comment,|- Bob.
+{148840}{148945}Prenez une photo. Laisse-le|faire, chérie. Un petit sourire.
+{149056}{149141}Merci, Bob.|Prenez-nous tous ensemble.
+{149259}{149319}Souriez tout le monde!
+{149353}{149451}Vickie, que pensez-vous|de la retraite de Jake ?
+{149458}{149588}C'est formidable. Il est|tout le temps à la maison.
+{149596}{149686}- J'aime ça.|- Vous savez... T'as fini,
+{149692}{149775}- Ouais.|- Je viens d'acheter un club.
+{149781}{149859}C'est un bar. Devinez son nom.
+{149864}{149907}- J'en sais rien.|- Devinez!
+{150248}{150293}Stop! Ça suffit.
+{150344}{150372}Merci.
+{150519}{150624}Je voulais entendre l'effet|du micro sur une fille sexy.
+{150886}{151006}J'ai pas vu autant de perdants|depuis mon dernier combat.
+{151085}{151113}OK, chérie.
+{151155}{151200}Merci.
+{151208}{151253}Elle est pas mal, non,
+{151392}{151515}On la présenterait à son père...|S'il est un peu dégénéré.
+{151564}{151607}J'ai dit ça,
+{151651}{151796}Je suis content de me trouver|devant vous tous, ce soir.
+{151804}{151857}Content surtout d'être debout!
+{151933}{152023}Si vous croyez ça,|vous êtes tous des zozos!
+{152131}{152236}Ma femme Vickie et moi|nous allons nous marier...
+{152289}{152407}Elle est là, Vickie,|Elle n'est pas là.
+{152412}{152547}Nous fêtons notre 11ème|anniversaire de mariage.
+{152553}{152633}Merci. Merci.
+{152637}{152737}Ça me fait penser à deux amis.|Un marié, l'autre célibataire.
+{152743}{152886}Le marié dit à l'autre:|"Regarde-moi. Regarde-toi.
+{152894}{152957}"Regarde-moi. Regarde-toi".
+{153045}{153088}Laissez-moi continuer.
+{153092}{153185}"Tous les soirs,|ma femme me verse un scotch.
+{153191}{153261}"Elle me fait couler un bain,|me fait un massage
+{153268}{153345}et l'amour avec passion.
+{153351}{153456}"Puis elle prépare le dîner.|Tu devrais essayer."
+{153463}{153551}L'autre type dit:|"Super! Elle est chez toi quand,
+{153692}{153810}Je suis pas Olivier, mais s'il|affrontait Sugar Ray, il dirait:
+{153815}{153922}Ce qui fait ding,|c'est la comédie, pas le ring.
+{153963}{154071}Qu'on me donne une scène.|Pour ce taureau une arène!
+{154076}{154173}Bien que je sache boxer,|je préfère déclamer
+{154227}{154342}Ça, c'est du spectacle!
+{155100}{155183}T'étais superbe! Heureusement|que Sugar Ray n'était pas là.
+{155189}{155244}Il a raconté la même blague|la semaine dernière.
+{155249}{155334}Il radote. Il devient gaga.
+{155340}{155425}Voici M. le procureur Bronson.
+{155432}{155502}- Comment allez-vous,|- Et sa femme.
+{155507}{155555}Que faites-vous ici,
+{155557}{155607}L'enveloppe,|c'est la semaine prochaine.
+{155651}{155741}- Vous avez le sens de l'humour.|- C'est une blague, non,
+{155747}{155850}- Vous êtes le seul à le savoir.|- Je plaisantais.
+{155854}{155924}On en reparlera.|C'est votre femme,
+{155929}{155957}Mme Bronson.
+{155961}{156024}- Très séduisante, enchanté.|- Merci.
+{156028}{156126}Un type sympathique. Vous prenez|bien la plaisanterie, hein,
+{156185}{156258}- Ce n'est pas grave.|- Ne vous inquiétez pas.
+{156360}{156415}Une tournée.
+{156449}{156511}- Linda, viens ici.|- Où est votre femme,
+{156516}{156623}- Où est-elle,|- Je la laisse pas venir ici.
+{156670}{156788}Surtout si le procureur est là.|Il vient souvent. Surveillez-le.
+{156795}{156870}Il sait que je plaisante.|Bonne soirée.
+{156899}{156952}- Y'a t-il un problème,|- Aucun.
+{156957}{157032}Je lui ai demandé ses papiers.
+{157038}{157083}- Vous avez quel âge,|- 21 ans.
+{157087}{157210}21 ans, Vous pouvez le prouver,|Prouvez-le-moi.
+{157372}{157479}Elle peut boire ici quand elle|veut. Vous avez quel âge,
+{157486}{157548}- 21 ans.|- Vous pouvez le prouver,
+{157556}{157579}Ouais.
+{157585}{157625}- Prouvez-le.|- Approchez-vous.
+{157940}{158065}- Elle a aussi 21 ans,|- Elle m'a convaincu.
+{158453}{158506}- Jake.|- Attention!
+{158511}{158576}- Ta femme est dehors.|- Mets-la en veilleuse!
+{159108}{159140}Beau travail, Jake.
+{160179}{160297}Il y a eu beaucoup de clients.|Tout va bien,
+{160305}{160380}- Je te quitte.|- Et à part ça,
+{160386}{160473}Je suis sérieuse.|J'ai tout calculé.
+{160560}{160610}- Pousse-toi.|- Pourquoi,
+{160615}{160650}- Ouvre-moi.|- Non.
+{160654}{160732}- Allez.|- Non. On va divorcer.
+{160737}{160800}- Je garde les enfants.|- Laisse-moi monter.
+{160805}{160903}J'ai pris ma décision.|Je te quitte. Point final.
+{160946}{161021}Si tu viens m'embêter,|j'appelle les flics.
+{161027}{161072}Ne sois pas comme ça.
+{161747}{161797}Allez, champion. Réveillez-vous.
+{161909}{161999}- Qu'est-ce qu'il y a,|- On est du cabinet du procureur
+{162005}{162070}- Je sais.|- Il veut vous parler.
+{162076}{162163}- Vous vous ressemblez tous.|- Il veut vous parler.
+{162169}{162244}- De quoi,|- Je dois vous embarquer.
+{162250}{162293}Pour quoi,
+{162414}{162519}Vous reconnaissez cette fille,|Etait-elle au club,
+{162623}{162678}- C'est la même fille,|- Ouais.
+{162724}{162822}- Je ne la connais pas.|- Vous la présentiez à des gars.
+{162829}{162944}Je présente plein de gens.|Je l'ai présentée à des mecs,
+{162952}{163077}Je présente ce type à des mecs.|Mais je dis rien.
+{163084}{163202}- Elle a 14 ans. Vos chaussures!|- Quel âge,
+{163209}{163259}- 14 ans.|- Faites voir.
+{163447}{163499}Une question.
+{163504}{163599}Vous me dites qu'elle a 14 ans,
+{163603}{163645}- 14 ans.|- D'homme à homme.
+{163650}{163722}On doit y aller.
+{163729}{163776}- Au commissariat,|- C'est exact.
+{163807}{163847}A cause d'elle,
+{163922}{163977}- T'es saoul?|- Je suis sorti sous caution.
+{163981}{164069}- Je viens prendre un truc.|- Les gosses dorment.
+{164073}{164198}- Je les dérangerai pas.|- Fais pas de bruit.
+{164205}{164238}- Quoi,|- Pas de bruit!
+{164242}{164277}Un truc, c'est tout!
+{164357}{164410}- Qu'est-ce que tu fais,|- Il me faut 10 000 dollars.
+{164414}{164479}Avec 10 000 dollars,|mon dossier est classé.
+{164485}{164550}- T'as pas de dossier.|- Tu rigoles,
+{164555}{164608}T'as jamais entendu|le témoignage d'une mineure,
+{164675}{164748}T'as vu la presse...|Une affaire de mœurs.
+{164751}{164838}- Qu'est-ce que tu fais,|- Ça n'a plus d'importance.
+{164845}{164932}- Emprunte à tes amis!|- Quels amis,
+{164939}{165046}Tu vas réveiller mes gosses.|Arrête!
+{165259}{165334}- Tu peux pas mieux les ranger,|- Dehors!
+{165345}{165462}Vous voulez me vendre|la ceinture du championnat,
+{165470}{165542}- Voilà les pierres précieuses.|- Et la ceinture,
+{165549}{165621}La ceinture d'un champion|est un objet rare.
+{165627}{165699}Vous auriez dû|venir me voir avant.
+{165705}{165795}- Si vous aviez la ceinture...|- Donnez-moi 2000 dollars.
+{165801}{165861}- 1500 dollars.|- Pas 2000 dollars ,
+{165867}{165954}1 500 maximum.|Désolé. Sinon j'y perds.
+{165961}{166046}Ne me dites pas|que vous ne ferez pas de bénef.
+{166049}{166126}Vous mentez.|Vous en tirerez deux fois plus.
+{166185}{166362}J'ai pas les 10000 dollars.|J'ai essayé partout.
+{166373}{166488}Qu'est-ce que je vais faire,|Que faire,
+{166531}{166576}Laisse-les faire.
+{166620}{166633}Prison de la province de Dade.
+{166633}{166668}Prison de la province de Dade.
+{166672}{166740}T'es pas un champion.|T'es que dalle!
+{166743}{166820}T'es en taule maintenant.
+{166899}{166971}Amène ta graisse|par ici, mon gars!
+{167037}{167130}- T'es plus champion ici.|- Va te faire foutre!
+{167136}{167236}- Putain!|- Salopard! Tu m'entends,
+{167243}{167313}- Tiens-le bien!|- C'est bon.
+{167319}{167432}Tu vois ça, mon vieux,|Tu vas moisir là-dedans!
+{167439}{167532}Moisir dedans! Tu saisis,
+{167536}{167646}Ta mère est une traînée, pédé!
+{167708}{167813}Ça te plaît, tas de fumier!
+{167822}{167934}Enculé! Enculé!|Ta mère est une enculée!
+{168876}{168958}Pauvre con. Pauvre con.
+{169121}{169173}Pourquoi, pourquoi,
+{169660}{169698}Putain de merde!
+{170009}{170039}Pourquoi,
+{170138}{170290}Pourquoi t'as fait ça,|T'es bête, putain, mais bête.
+{170299}{170346}Bête!
+{170352}{170459}On me traite comme un animal.|Je suis pas un animal.
+{170466}{170576}Pourquoi on me traite comme ça,|je suis pas un mauvais mec.
+{170581}{170623}Je suis pas si mauvais que ça.
+{170755}{170798}Je suis pas ce type-là.
+{170886}{170919}Pas ce type-là.
+{171152}{171200}Un gars trouve sa femme|au pieu avec un pote.
+{171204}{171282}Sa femme lui dit:|"Tout le quartier va le savoir."
+{171368}{171430}Merci de rire.|Faites passer.
+{171473}{171605}Mon premier soir au trou,|j'ai demandé où étaient les WC.
+{171610}{171715}- Il répond: "Vous y êtes!"|- Dégage!
+{171723}{171808}- Je fais mon boulot.|- Je t'emmerde!
+{171814}{171899}Tu vas m'obliger|à faire un come-back.
+{171902}{171950}- T'es drôle.|- Va te faire foutre.
+{171986}{172036}A cheval, à pied,
+{172080}{172130}en vélo, et en voiture.
+{172156}{172228}- T'es marrant.|- Je suis ici pour ça.
+{172309}{172384}Offre-lui un autre verre.|Et pisse dedans.
+{172445}{172605}Je vous présente une dame qui|vient de faire le tour du monde.
+{172615}{172752}Applaudissez-la bien fort.|Vous en êtes capables, camés!
+{172794}{172867}Elle s'appelle Emma Grosbonnet.
+{173373}{173443}Taxi. Taxi!
+{173702}{173730}Chérie...
+{173767}{173867}J'ai deux ou trois|choses à régler.
+{173874}{173917}- On se voit plus tard,|- Ouais.
+{173957}{174040}A la maison. Sois prudente.
+{174390}{174465}Joe. Que fais-tu,
+{174471}{174513}Joey.
+{174591}{174646}Tourne-toi!
+{174964}{175034}Joey, tourne-toi. Allez.
+{175344}{175432}Viens ici. Allez.|Qu'est-ce que tu fais ?
+{175436}{175606}Pourquoi t'es si fâché,|Faisons la paix. T'es mon frère.
+{175613}{175673}- Ton frère ?|- Ouais, petit con.
+{175678}{175768}Allez quoi! Embrasse-moi.
+{175775}{175902}- Je vais appeler ma famille.|- T'as tout oublié et pardonné,
+{175911}{175986}C'est du passé tout ça. Oublie.
+{176015}{176045}Allez.
+{176177}{176229}T'es mon frère. Allez.
+{176286}{176328}Fais-moi la bise.
+{176471}{176521}- Comment ça va,|- Bien.
+{176526}{176631}Tout va bien,|ta famille aussi,
+{176745}{176815}Pas ici.
+{176860}{176910}On se voit bientôt.
+{176914}{176957}- Tu m'appelles,|- Oui.
+{176982}{177072}- N'oublie pas.|- Je t'appellerai.
+{177079}{177109}D'accord.
+{177290}{177398}"Une soirée en compagnie|de Jake La Motta, textes de..."
+{177404}{177534}...légitimement, et personne|ne me l'enlèvera. Personne.
+{177555}{177608}Y'a des gens qui|ne sont pas aussi veinards...
+{177679}{177761}..comme le type joué|par Brando dans "Sur les Quais,"
+{177767}{177824}un battant qui a tout perdu.
+{177830}{177937}Tu te rappelles la scène|dans la voiture avec son frère,
+{177944}{177986}Je veux un truc|dans cette veine-là.
+{178080}{178157}C'était pas sa faute, Charlie.|C'était la tienne.
+{178164}{178274}Souviens-toi quand tu m'as dit:|"Mon gars, c'est pas ton soir".
+{178280}{178363}"On va miser|le paquet sur Wilson.
+{178369}{178454}"C'est pas ton soir." Mon soir.
+{178461}{178556}J'aurais pu étaler Wilson.|Au lieu de ça,
+{178562}{178615}il a eu une chance|d'aller au titre.
+{178617}{178702}J'ai eu un aller simple|pour Nazeville.
+{178708}{178783}C'était fini après ça, Charlie.
+{178789}{178876}J'avais atteint le sommet|et puis j'ai dégringolé.
+{178930}{179037}C'est ta faute, Charlie.|T'es mon frère.
+{179045}{179177}T'aurais dû mieux|veiller sur moi.
+{179186}{179261}T'aurais dû t'occuper de moi...
+{179266}{179371}..au lieu de me forcer|à perdre pour des nèfles.
+{179379}{179479}Tu comprends pas.|J'aurais pu avoir de la classe.
+{179485}{179535}Etre un challenger.
+{179540}{179650}J'aurais pu devenir|quelqu'un au lieu d'un tocard.
+{179657}{179732}Faut oser le dire.|C'est ta faute, Charlie.
+{179780}{179852}- C'est toi.|- Ça gaze, champion,
+{179858}{179883}Tout va bien,
+{179890}{179922}Ouais.
+{179928}{179966}- T'es prêt,|- Dans cinq minutes.
+{179970}{180003}- OK.|- Besoin de rien,
+{180006}{180039}- Non.|- C'est sûr,
+{180083}{180113}Ouais.
+{180223}{180308}- Y'a du monde,|- La salle est pleine.
+{180815}{180858}Va les chercher, champion.
+{181105}{181167}C'est moi le patron.
+{181345}{181417}Je suis le patron. Le patron!
+{181587}{181780}Et, pour la seconde fois|(les Pharisiens)
+{181788}{181923}convoquèrent l'homme qui|avait été aveugle et dirent:
+{181929}{181986}"Parle vrai devant Dieu.
+{181991}{182061}"Nous savons cet homme pécheur.
+{182066}{182211}"S'il est pécheur, je ne sais,"|répliqua l'homme.
+{182221}{182366}"Je sais que j'étais aveugle|et que maintenant je vois".
+{182372}{182444}Jean IX, 24-26|Nouveau testament.
+{182450}{182515}In memoriam Haig P.Manoogian,|professeur.
+{182520}{182588}23 mai 1916 - 26 mai 1980.
+{182591}{182668}Avec amour et détermination.|Marty.

@@ -1,0 +1,835 @@
+{1035}{1157}LE SICILIEN
+{5577}{5612}Il va mieux ?
+{5622}{5712}Je crois mais bien sûr,|avec la tuberculose...
+{5725}{5765}Il fume toujours ?
+{7697}{7737}C'était merveilleux.
+{7792}{7840}Je vais prendre un bain.
+{9657}{9680}Qu'est-ce que c'est ?
+{9747}{9775}Mon oncle Dominique.
+{9882}{9905}Sa dernière volonté
+{9910}{9962}était d'être enterré|à Montelepre.
+{10010}{10052}C'était un saint.
+{10102}{10155}Il est tombé|d'une échelle hier.
+{10247}{10295}Le permis d'inhumer.
+{10325}{10370}Il est tombé sur la tête.
+{10377}{10402}La licence
+{10502}{10530}pour la mule.
+{10645}{10670}Vos papiers !
+{11657}{11685}Laissez passer !
+{12465}{12482}Ces chevaux
+{12487}{12557}rentrent à l'écurie.|Faut pas les sortir !
+{12815}{12885}Je monte comme Billy le Kid|pauv' con !
+{13395}{13422}Tu es blessé !
+{13435}{13472}Pourquoi tu ne l'as pas dit ?
+{13517}{13555}Tu perds tout ton sang !
+{13697}{13720}Bonjour capitaine.
+{13762}{13795}Pardon madame la duchesse...
+{13800}{13845}Ces garçons|étaient de notre village ?
+{13850}{13892}De Montelepre, oui.
+{13897}{13985}Giuliano, le plus jeune,|a tué un de mes hommes.
+{13990}{14022}Ce sont des voleurs.
+{14050}{14075}Giuliano et son cousin.
+{14085}{14125}- Ils ont volé quoi ?|- Du blé.
+{14130}{14180}Pour faire du pain.|Pour Montelepre.
+{14212}{14242}Qu'ils vendent ?
+{14247}{14322}Pire. Ils le donnent à ceux|qui ne veulent pas travailler.
+{14327}{14390}Si Votre Excellence|voulait bien
+{14395}{14425}signer cette plainte.
+{14445}{14530}Il y a un vieux dicton|du Connecticut :
+{14555}{14580}"Qu'ils mangent du pain".
+{14620}{14697}C'est pour vos chevaux,|pas pour le blé.
+{14702}{14735}Oh, ne vous inquiétez pas !
+{14742}{14822}Nous les récupérerons|par le canal habituel.
+{14877}{14905}Je suis navrée|pour votre homme.
+{14912}{14930}Moi aussi.
+{14955}{15005}Il est rare|qu'un paysan tue un carabinier.
+{15017}{15072}C'est l'inverse|qui est fréquent. 
+{15095}{15127}Au revoir capitaine.
+{16635}{16660}Qui a tiré le premier ?
+{16680}{16710}Dis la vérité.
+{16720}{16742}Les carabiniers, je le jure !
+{16810}{16840}On a volé du blé.
+{16875}{16905}Une idée de Giuliano.
+{16990}{17025}Pour les affamés de Montelepre.
+{17047}{17062}Il disait comme ça
+{17082}{17110}donnons-leur à manger.
+{17117}{17160}Ici les bienfaits|sont toujours punis.
+{17207}{17220}Ça a été le cas.
+{17300}{17355}Il peut rester|le temps de guérir ?
+{17430}{17460}N'y compte pas.
+{17597}{17625}Il va mourir ?
+{17692}{17745}Il n'en a plus pour longtemps.
+{17800}{17820}Avec ce trou
+{17837}{17882}et le sang qu'il a perdu.
+{17957}{17977}Faut un médecin.
+{18027}{18050}Un vrai médecin.
+{18055}{18112}Un simple barbier|sait reconnaître la mort.
+{18125}{18175}Il était généreux.
+{18195}{18222}Mourir ?
+{18242}{18272}Comme ça ?
+{18277}{18310}Tout d'un coup.
+{18332}{18367}Pour une saloperie|de quignon de pain !
+{18380}{18440}Il savait|que c'était la volonté divine.
+{18447}{18512}Il y a toujours eu|des affamés à Montelepre.
+{18520}{18555}Et il y en aura toujours.
+{19207}{19227}Il est jeune.
+{19250}{19277}Il est costaud.
+{19302}{19350}Il prendra peut-être|son temps
+{19377}{19412}mais il finira|par nous quitter.
+{19692}{19720}Je ne vous quitte pas...
+{19735}{19770}pas encore.
+{20125}{20200}Va trouver... Giovanna.
+{20257}{20290}Dis-lui que j'irai la voir...
+{20317}{20332}bientôt.
+{20345}{20400}Je peux pas t'abandonner ici
+{20425}{20480}avec ces... ces...
+{20517}{20550}Obéis !
+{20570}{20630}On a du mal à le croire|Professeur.
+{20647}{20720}Je lui ai coupé les cheveux|le mois dernier.
+{20732}{20820}La coupe GI à l'américaine.|Aujourd'hui c'est un meurtrier.
+{20900}{20930}Sa tête est mise à prix.
+{20972}{21020}C'est terrible, terrible.
+{21025}{21110}Pas pire|qu'une de tes coupes de cheveux !
+{21120}{21207}Oh, ce n'est pas digne de vous !|Cherchez autre chose.
+{21230}{21265}J'aime mieux pas.
+{21272}{21382}Quand votre filleul|vous contactera
+{21390}{21462}dites-lui de se livrer,|c'est compris ?
+{21467}{21580}Je n'ai pas d'ordres à recevoir|de vous. Ni Giuliano de moi.
+{21592}{21675}Il a tué un carabinier !
+{21682}{21732}En essayant|de nourrir le peuple.
+{21752}{21800}Ce n'est pas son travail.
+{21820}{21895}Et c'est un crime|contre la loi italienne.
+{21907}{22005}Or la Sicile est italienne|que vous le vouliez ou non.
+{22010}{22105}Et je suis maire de Montelepre|que vous le vouliez ou non.
+{22117}{22175}Et je suis comme vous-même
+{22205}{22295}l'ami de Don Masino Croce.
+{22390}{22440}Giuliano est très jeune.
+{22450}{22500}Et très bête.
+{22547}{22602}Don Masino veut qu'il se livre.
+{22612}{22640}Et après ?
+{22657}{22745}Don Masino|indemnise la famille du mort
+{22750}{22775}et c'est la fin des poursuites.
+{22780}{22825}Et Giuliano est libre
+{22837}{22890}d'entrer|au service de Don Masino.
+{22937}{23020}Don Masino suit ce garçon depuis|toujours, Dieu sait pourquoi !
+{23037}{23057}Il est déchaîné.
+{23072}{23110}Personne ne peut le tenir.
+{23132}{23167}Comme si on avait|besoin de ça !
+{23220}{23247}Mais...
+{23350}{23385}c'est un veinard.
+{23437}{23495}La duchesse|a récupéré ses chevaux.
+{23800}{23850}Du sang sur votre soulier.
+{23925}{23972}Je rase si mal.
+{24057}{24087}Giuliano ?
+{24232}{24275}Mourant professeur.
+{24862}{24940}Ils disent que le peuple|n'a que faire de la terre.
+{24957}{25022}Qu'il veut seulement du pain.
+{25042}{25075}Ils se trompent !
+{25085}{25145}Nous voulons|la terre qui nous appartient !
+{25165}{25200}C'est la raison de notre présence.
+{25222}{25257}C'est la loi !
+{25290}{25325}La nouvelle loi
+{25365}{25395}Depuis les dernières|élections
+{25402}{25482}quiconque travaille|sur un domaine agricole
+{25512}{25535}a le droit absolu
+{25555}{25602}à un quelconque arpent|des terres
+{25607}{25645}laissées en friche|de ce domaine.
+{25655}{25677}Il est
+{25682}{25725}tout seul.
+{25732}{25815}Il est acheté par le prince Borsa|et Don Masino !
+{25855}{25882}Vous êtes des centaines !
+{25895}{25932}Vous êtes des citoyens !
+{25950}{25985}La loi est avec vous !
+{26032}{26050}Pas avec eux !
+{26085}{26102}Comment il va ?
+{26140}{26187}Il a une balle dans le ventre.
+{26227}{26275}Il dit qu'il vivra.
+{26292}{26320}"Il dit" ?
+{26362}{26385}Tu n'es pas d'accord ?
+{26392}{26435}S'il le dit, il le fera.
+{26440}{26490}Il est à l'abri|dans la montagne.
+{26505}{26580}Il m'a dit de te dire|qu'il te verra bientôt.
+{26587}{26635}Pourquoi ton frère fait ça ?
+{26670}{26760}Parce que le peuple|a peur de réclamer son dû !
+{26765}{26840}C'est lui|qui devrait avoir peur !
+{26932}{26980}Le maire va tuer
+{26985}{27027}un opposant en public ?
+{27037}{27070}Tu nous barres la route !
+{29205}{29230}Comment tu es entré ?
+{29295}{29345}Tu fumes trop.
+{29390}{29440}Giuliano vivra.
+{29522}{29555}Oh, Dieu soit loué !
+{29592}{29640}Mais c'est peut-être|prématuré...
+{29645}{29665}Pourquoi ?
+{29702}{29757}Don Masino veut qu'il se livre.
+{29767}{29832}Qu'il aille se faire mettre !
+{29837}{29860}Non !
+{29882}{29962}Nous ne parlons pas comme ça|de notre protecteur.
+{29975}{30055}Nous ?|Il protège ceux qui le paient !
+{30092}{30185}Je viens de voir Silvio Ferra|devant chez Borsa.
+{30192}{30230}Le cheval de Quintana a failli
+{30237}{30262}le tuer.
+{30287}{30342}Frisella dit... que Giuliano
+{30347}{30380}est mourant.
+{30390}{30465}Oui, s'il était|comme vous et moi.
+{30495}{30522}Mais il est différent.
+{30547}{30595}Il a décidé de vivre.
+{30625}{30650}Il vivra donc.
+{30760}{30800}Je vais à Palerme.
+{30862}{30882}Pour voler ?
+{30947}{30980}Et voir les femmes.
+{31060}{31087}Vous savez |quelque chose de rigolo ?
+{31092}{31157}Certaines choses sont plus rigolotes|que d'autres. Quoi ?
+{31180}{31222}Giuliano|n'a pas peur de mourir.
+{31282}{31325}Voilà qui est très rigolo.
+{31337}{31392}Je savais que vous le penseriez|Professeur.
+{31547}{31580}Dans leur corps
+{31610}{31667}dévasté par l'âge
+{31715}{31802}l'âme des vieillards est assise.
+{31860}{31920}Comme elle est chagrine|la malheureuse !
+{31955}{32080}Et comme elle s'ennuie|de la vie misérable qu'elle endure !
+{32097}{32167}Comme elle tremble pourtant|à l'idée de la perdre !
+{32172}{32232}Comme elle en est|gâteusement éprise !
+{32242}{32280}L'âme confuse
+{32287}{32342}et contradictoire
+{32347}{32402}qui est assise
+{32407}{32497}tragi-comique|dans leur carcasse usée.
+{32580}{32605}Le président vous attend
+{32612}{32655}dans son bureau.
+{32772}{32830}Votre café est très bon,|ça se sent.
+{32835}{32872}Il vient du Brésil.
+{32937}{32990}J'adore le café du Brésil.
+{33007}{33090}Et je ne bois donc|que de la camomille que je déteste.
+{33107}{33160}Mon foie m'a trahi.
+{33217}{33255}Mon fils est au Brésil.
+{33302}{33355}Il étudie les insectes.
+{33382}{33447}L'entomologie|est une science passionnante.
+{33482}{33552}Dans votre monde docteur,|pas dans le mien.
+{33572}{33632}Pour moi un cafard est un cafard,|ni plus ni moins.
+{33655}{33777}Mon fils, lui, se passionne|pour la sexualité des ténébrions.
+{33795}{33855}C'est un chercheur.
+{33867}{33905}Il n'existe pas.
+{33940}{33970}A mes yeux bien sûr.
+{34085}{34140}Don Masino|nous honore d'une visite.
+{34252}{34322}C'est toujours une joie.
+{34382}{34420}Cher vieil Hector.
+{34447}{34495}Nous ne sommes plus|très nombreux, hein ?
+{34537}{34570}Le temps...
+{34587}{34625}L'ennemi de l'homme.
+{34652}{34690}Le seul vainqueur.
+{34695}{34725}Nous avons besoin|de vos lumières.
+{34740}{34782}Il s'agit d'une broutille.
+{34787}{34810}Le neveu de Don Masino
+{34817}{34910}veut être médecin.|Le Dr Nattore dit que son niveau
+{34915}{34952}ne lui permet pas.
+{34977}{35057}Don Masino|est venu plaider en personne.
+{35072}{35150}Il a tant fait|pour notre université...
+{35157}{35240}J'espère qu'ensemble,|nous viendrons à bout du problème.
+{35247}{35322}La solution est souvent contenue|dans le problème.
+{35327}{35365}Quelle sagesse !
+{35387}{35485}Hector sait bien|que je ne lis guère.
+{35505}{35562}Et les mathématiques :|Un mystère.
+{35585}{35627}Certes, je sais additionner|et soustraire.
+{35640}{35657}Et... diviser !
+{35707}{35725}Vous me flattez.
+{35772}{35825}Bref, j'ai pu glaner ici et là
+{35830}{35935}tout ce que je n'aurai jamais|besoin de savoir dans mon domaine.
+{35945}{35975}Mon neveu|pourrait en faire autant.
+{36025}{36052}Je vous en prie instamment.
+{36097}{36170}Ne brisez pas le cœur|de ma pauvre sœur.
+{36192}{36215}S'il vous plaît.
+{36290}{36307}Je regrette.
+{36332}{36397}Quel mal pourrait faire|mon pauvre neveu ?
+{36405}{36467}Je lui trouverai un poste à l'armée|ou dans un hospice.
+{36472}{36560}Il écouterait les vieillards.|C'est un garçon sensible.
+{36585}{36632}Il ne supporte pas|la vue du sang.
+{36660}{36707}Je crois|que ma famille est maudite.
+{36735}{36787}Mais c'est un aspect|du problème.
+{36797}{36910}Le neveu de Don Masino|veut être chirurgien.
+{36985}{37035}Dans la pratique|votre neveu est un incapable.
+{37105}{37152}Il lui faudra|manier le bistouri
+{37197}{37230}alors qu'il a peur du sang !
+{37260}{37360}J'entrevois un moyen|de sortir de ce labyrinthe.
+{37367}{37405}Je propose un compromis.
+{37412}{37440}Impossible !
+{37475}{37530}Votre neveu sera reçu
+{37537}{37567}docteur
+{37572}{37602}en médecine
+{37607}{37625}et non chirurgien.
+{37632}{37682}On lui donnera alors|un gros traité pharmaceutique.
+{37705}{37767}Les patients|décriront leurs symptômes
+{37772}{37800}et l'ouvrage|lui donnera le remède.
+{37835}{37907}Je lui prédis|une réussite extraordinaire.
+{37912}{37945}Parce que je le connais.
+{37950}{37995}C'est un guérisseur né.
+{38047}{38085}Je me rends.
+{38150}{38207}Une fois encore Pr Adonis,
+{38217}{38282}je suis vaincu par votre bon sens
+{38287}{38327}et votre sagesse.
+{38365}{38390}Soit !
+{38417}{38502}Mon neveu sera médecin|et pas chirurgien.
+{38520}{38550}Mon ambitieuse sœur
+{38575}{38627}elle-même chirurgien née,
+{38645}{38707}vraie charcutière en tout cas,
+{38712}{38747}devra s'en contenter.
+{38897}{38985}Il faut donner votre démission|aujourd'hui même.
+{38997}{39017}Vous êtes fou.
+{39032}{39102}C'est vous qui l'êtes.
+{39112}{39185}Pourquoi ?|Pourquoi je m'en irais ?
+{39190}{39255}Vous avez dit "non"|à Don Masino Croce.
+{39260}{39302}Vous ne pouvez plus vivre
+{39315}{39340}en Sicile.
+{39367}{39402}Comment tu te sens ?
+{39407}{39447}On vous a déjà tiré dessus ?
+{39452}{39515}Je suis franciscain, pas jésuite !
+{39537}{39595}On ressent d'abord le choc,
+{39615}{39717}ensuite la douleur|et la chaleur du sang qui coule.
+{39722}{39790}C'est merveilleux :|On se sent immortel.
+{39797}{39830}C'est qu'on l'est !
+{39837}{39912}Sur le point de retrouver|son protecteur céleste...
+{40010}{40065}On se sent quelqu'un d'autre.
+{40112}{40145}Quelqu'un d'intouchable.
+{40182}{40212}On pourrait...
+{40297}{40387}Ma réponse à votre protecteur|terrestre, Don Masino,
+{40400}{40430}est "non".
+{40467}{40565}Je me sens capable|d'à peu près tout.
+{40597}{40687}Depuis que tu as été blessé ?
+{40702}{40807}Depuis que j'ai survécu|alors que j'aurais dû mourir.
+{41072}{41097}Ici Don Masino,
+{41107}{41177}votre protecteur terrestre.
+{41182}{41215}C'est notre chef.
+{41225}{41250}Ici
+{41255}{41295}les riches|comme le prince Borsa
+{41305}{41370}ils payent Don Masino|et ses amis pour les protéger.
+{41420}{41480}Ici l'Eglise et l'espoir du ciel.
+{41532}{41572}Après la mort bien entendu.
+{41620}{41650}Tu te joindras auquel- ?
+{41657}{41672}A aucun.
+{41692}{41720}Moi je suis là.
+{41727}{41752}Je suis Giuliano.
+{41777}{41850}Nul ne peut vivre en Sicile|sans l'un des trois.
+{41860}{41882}Et le peuple ?
+{41977}{42060}C'est la poussière|où tu traces tes cercles.
+{42080}{42115}Il n'y a rien à tirer des Siciliens.
+{42122}{42157}Et je pèse mes mots.
+{42167}{42215}Ici rien ne change
+{42227}{42247}jamais !
+{42707}{42762}Giuliano dit non.
+{42782}{42817}Il est romantique.
+{42822}{42865}Il veut donner la terre
+{42870}{42895}au peuple.
+{42910}{42932}Il est communiste ?
+{43017}{43085}Mais il est fiancé à la sœur de Ferra.
+{43130}{43205}Ces élections seront difficiles|pour notre parti
+{43210}{43270}grâce à Ferra et à ses amis.
+{43295}{43312}D'où ils sortent ?
+{43362}{43422}Ils poussent|comme des champignons après la pluie.
+{43490}{43565}En tous cas|le ministre est sur les dents.
+{43725}{43757}L'estomac|me brûle terriblement.
+{43782}{43817}La soupe est parfaite.
+{43822}{43857}Faut manger.
+{43880}{43935}Vous avez toujours|des brûlures d'estomac.
+{43942}{43972}Vu ce que vous engloutissiez
+{43977}{44030}on s'étonne|qu'il vous reste un estomac.
+{44042}{44065}Des champignons...
+{44137}{44170}Je suis empoisonné.
+{44267}{44280}Pardon Enzo.
+{44337}{44360}Alors, et Giuliano ?
+{44377}{44405}Il part pour la montagne.
+{44425}{44490}Pour devenir bandit|comme Passatempo et Terranova ?
+{44500}{44595}Je ne veux pas|qu'il finisse en prison.
+{44615}{44642}A quand leur procès ?
+{44657}{44670}Jamais.
+{44722}{44775}J'ai décidé|de les libérer moi-même.
+{44822}{44845}Plutôt en enfer !
+{44887}{44930}Dites à Giuliano de bien se tenir.
+{44967}{45005}Il n'a rien à craindre... il est
+{45010}{45037}sous ma protection.
+{45042}{45107}Qu'est-ce qu'il doit faire|pour vous en retour ?
+{45155}{45177}Qu'il m'aime...
+{45182}{45217}c'est tout.
+{45230}{45340}Mais qu'il s'avise de regarder|un cafard et c'est un homme mort !
+{45495}{45545}Don Masino est notre ami.
+{45567}{45660}Ni le mien,|ni celui de mon frère.
+{45665}{45705}Il pourrait l'être.
+{45722}{45775}Il nous aiderait|à répartir les terres !
+{45837}{45892}Je hais les femmes|qui font de la politique.
+{45897}{45932}Et Giuliano aussi.
+{45965}{46045}Ne vous mêlez pas des élections,|il a déjà assez d'ennuis.
+{46055}{46140}Ne vous en faites pas.|Les contraires s'attirent.
+{46732}{46760}Tu as l'air en forme.
+{46867}{46912}Et toi tu as l'air différent !
+{47090}{47127}Ça excite les femmes.
+{47167}{47197}Tu devrais la laisser pousser.
+{47242}{47265}Et Giovanna ?
+{47272}{47335}Un vrai disque rayé !
+{47367}{47402}Elle me dit à moi
+{47410}{47502}de t'empêcher|de travailler pour Don Masino !
+{47517}{47565}Et de voler les pauvres !
+{47612}{47677}Nous ne volerons jamais les pauvres,|j'en fais serment !
+{48090}{48115}Tu fais un beau moine.
+{48165}{48205}Tu veux|que j'entre dans les ordres ?
+{48222}{48260}Faudrait me passer sur le corps !
+{48315}{48342}Comment va ton frère ?
+{48412}{48440}Ça t'intéresse ?
+{48462}{48490}Bien sûr.
+{48520}{48572}Depuis que Quintana|l'a jeté par terre.
+{48617}{48717}Et il a raison.|Pour les terres.
+{48747}{48815}On a des emmerdes|et tu parles politique !
+{48835}{48900}Ça revient au même, non ?
+{49007}{49087}Adonis dit|que tu vas devoir aller là-haut
+{49092}{49112}avec les anges.
+{49132}{49170}Des anges comme Passatempo
+{49175}{49202}et Terranova.
+{49207}{49282}T'en fais pas,|je redescendrai pour te voir.
+{49287}{49345}En tout cas
+{49355}{49435}je suis fière|de ce que tu as fait.
+{49440}{49542}J'ai dit non à Don Masino ?|Un jour ce sera "oui", peut-être
+{49557}{49595}à ton frère.
+{49605}{49630}Faudra me passer sur le corps.
+{49712}{49752}Tu viens vraiment avec moi ?
+{49812}{49845}Je veux être un ange|moi aussi.
+{49872}{49927}Qu'ai-je à faire de Palerme ?
+{49942}{50000}Les lumières... les femmes...
+{50087}{50125}Pour être un ange
+{50155}{50210}faudra changer de chaussures !
+{50502}{50585}Je ne leur pardonnerai jamais|ce qu'ils t'ont fait.
+{50590}{50622}Pense à ce que je leur ferai moi.
+{50637}{50680}Qu'est-ce que tu comptes faire ?
+{50702}{50770}Sauver le monde !|Il y a autre chose ?
+{50805}{50842}T'inquiète pas.
+{50867}{50905}J'ai mon plan.
+{50927}{50960}Sois prudent.
+{50985}{51065}D'accord, pour toi.
+{51667}{51710}Tu sais où ils sont ?
+{51720}{51762}La caserne des carabiniers
+{51780}{51827}sur la route de Trapani.
+{52410}{52442}Tu as attaqué une banque ?
+{52487}{52542}Eh ben oui.
+{52575}{52605}Une petite.
+{52857}{52887}J'ai votre vin.
+{53102}{53130}Le vin !
+{53417}{53442}Qui a commandé ce vin ?
+{53465}{53535}Mon oncle a dit que c'était|pour le capitaine Roccofino.
+{53757}{53787}Mets-les à l'intérieur.
+{53792}{53867}Je ne vais pas|me casser les reins.
+{53872}{53907}Tu as une aide.
+{53912}{54027}Elle est soûle la garce !|Elle n'est bonne qu'à une chose !
+{54127}{54162}Décharge ce chariot
+{54337}{54360}Réveille-toi garce !
+{54490}{54530}Ton ceinturon caporal !
+{54545}{54575}Alors la garce, c'est Giuliano.
+{54605}{54682}Ne sois pas insultant|caporal... comment ?
+{54787}{54815}Ton ceinturon !
+{54895}{54965}Ouvre tes cages môssieu Silvestro.
+{55447}{55485}Les mains en l'air !
+{55707}{55735}Vous êtes libres de partir
+{55795}{55825}ou de venir avec moi.
+{55880}{55910}Dans la montagne.
+{56762}{56777}Décampe !
+{56842}{56875}Faut que je te botte le cul ?
+{56900}{56945}Essaye !|C'est moi qui te botterai le cul !
+{57105}{57132}Et maintenant
+{57137}{57180}je veux Terranova et Passatempo !
+{57462}{57532}Assieds-toi môssieu Silvestro.
+{57645}{57690}Caporal Silvestro.
+{58812}{58885}Tu es un peu jeune pour déclarer|la guerre à Rome, non ?
+{58895}{59005}A mon âge Alexandre|avait conquis la moitié du monde.
+{59012}{59080}On l'appelait le Feu du ciel.
+{59097}{59132}Alexandre n'était pas
+{59157}{59215}sicilien comme toi et moi.
+{59227}{59287}Il n'y a pas de feu dans notre ciel.
+{59600}{59660}Je suis Salvatore Giuliano.
+{59670}{59702}Vous êtes mes débiteurs.
+{60392}{60430}C'est un miracle.
+{60507}{60535}Je t'en prie,
+{60542}{60570}permets-moi de le tuer.
+{60640}{60675}Respectons-le.
+{60765}{60805}Nous ne tuons pas|les carabiniers.
+{60845}{60912}Du moins pas délibérément.
+{60947}{61000}Alors il n'y a pas de feu|dans le ciel de Sicile ?
+{61360}{61390}Pourquoi ils viendraient ?
+{61395}{61450}Parce que j'aurais dû|mourir là-bas !
+{61460}{61487}Mais je ne suis pas mort.
+{61492}{61527}Pour la seconde fois.
+{61532}{61572}Ils viendront. Ils savent.
+{61577}{61597}Quoi ?
+{61607}{61647}Ils savent|que je ne suis semblable à nul autre.
+{61672}{61710}Passatempo ne viendra pas.
+{61727}{61772}Lui aussi|est sensible aux miracles.
+{61787}{61840}Il n'est sensible qu'à l'argent !
+{61845}{61887}Je veillerai|à ce qu'il en ait beaucoup.
+{61902}{61967}Je ne demande que sa fidélité.
+{62005}{62067}Il a tué l'oncle|qui lui avait donné son premier âne.
+{62090}{62147}Alors je lui enseignerai|la fidélité.
+{63307}{63337}Tu t'habitueras au froid
+{63342}{63370}qu'il fait ici.
+{63602}{63630}Où sont tes hommes ?
+{63642}{63660}Où je veux.
+{63667}{63722}- Et c'est où ça ?|- Ils te surveillent.
+{63737}{63765}Ils me surveillent.
+{64042}{64065}Nous sommes tes débiteurs.
+{64075}{64105}Alors combien ?
+{64112}{64165}A chacun le tiers du butin.
+{64270}{64295}C'est correct.
+{64307}{64342}Mais c'est moi le chef.
+{64392}{64417}Compris ?
+{64462}{64482}Tu n'es qu'un gamin !
+{64517}{64540}Mais veinard.
+{64592}{64617}On va faire de bonnes affaires.
+{64660}{64700}Tu seras riche Giuliano.
+{64705}{64735}Je vous préviens...
+{64740}{64780}je veux aider les pauvres
+{64785}{64812}à acheter la terre.
+{64880}{64930}Pourquoi ?|Personne ne l'a jamais fait.
+{64937}{64975}Justement !
+{65052}{65092}Si tu es communiste|c'est fini.
+{65132}{65165}Je ne tue|que pour un bon chrétien.
+{65170}{65202}Mais j'en suis un.
+{65217}{65267}Ne va pas trop loin|dans ce sens-là non plus.
+{65272}{65312}Tu finiras seul.
+{65332}{65360}Jamais !
+{65410}{65440}Qu'est-ce que tu veux ?
+{65445}{65465}La terre.
+{65760}{65795}Je te suis.
+{66207}{66225}Je te suis.
+{66492}{66547}Salvatore Giuliano !
+{66552}{66597}Seigneur des Montagnes !
+{67210}{67242}Qu'est-ce qui se passe|bon sang ?
+{67247}{67272}Je vais voir !
+{68222}{68320}Si vous passez l'argent|il n'y aura pas de bobo.
+{68327}{68350}Et si je refuse ?
+{68620}{68640}Baissez-vous !
+{69870}{69917}Allez, dehors !
+{70067}{70137}Vous direz à la presse|que moi, Salvatore Giuliano,
+{70167}{70190}accepte
+{70195}{70237}le don généreux de l'armée
+{70242}{70277}aux pauvres de Sicile.
+{70282}{70307}Il permettra
+{70312}{70350}d'acheter de la terre|pour les démunis
+{70362}{70417}et du pain pour les affamés.
+{70422}{70467}Ton tiers, pas le mien !
+{70477}{70510}Evidemment.
+{70537}{70565}Je veux tout le crédit|de l'opération.
+{73320}{73377}Pour moi ?|Ou pour les élections ?
+{73387}{73440}Ni l'un ni l'autre.|Pour les paysans.
+{73460}{73482}Pour acheter la terre.
+{73630}{73672}Tu parles sérieusement ?
+{73695}{73745}Je veux seulement|qu'ils sachent que je l'ai fait.
+{73785}{73810}Pour eux.
+{73870}{73960}Et si tu te présentais|comme président ?
+{73995}{74027}J'ai tué trop de gens.
+{74092}{74110}Ou peut-être pas assez.
+{74227}{74265}Je me demande
+{74277}{74335}s'ils t'aimeront pour ça.
+{74365}{74422}Ils sont si bizarres nos compatriotes.
+{74492}{74537}Nous le saurons bien assez tôt.
+{74567}{74587}N'est-ce pas ?
+{74872}{74960}Mon cher et vieil ami,|ici, à Rome je suis,
+{74965}{75080}étant Sicilien... avec fierté|la carrière de votre jeune ami
+{75132}{75165}dont le style est éclatant.
+{75170}{75277}Mais comme ministre je suis humilié|quand il ridiculise ma police
+{75305}{75380}et j'ai peur quand il donne|de l'argent à Ferra
+{75387}{75425}pour acheter des terres.
+{75460}{75495}Il rend Ferra populaire.
+{75527}{75562}Nous risquons|de perdre les élections.
+{75582}{75700}Si vous voulez que je prenne|la parole à la radio
+{75705}{75750}la Sicile écoutera.
+{75757}{75842}Ce sera la fin de Giuliano|en politique.
+{75850}{75950}Si les paysans|votent communiste l'an prochain
+{75982}{76020}notre parti est fichu.
+{76065}{76142}Les communistes|sont comme les fascistes.
+{76147}{76215}Ils veulent concentrer|tout le pouvoir dans l'Etat.
+{76220}{76320}Ils ne me permettront pas|de protéger vos intérêts.
+{76375}{76415}Ni les miens.
+{76467}{76540}Il faut écraser les partis de gauche.
+{76615}{76637}Votre jeune ami
+{76642}{76687}doit abandonner Silvio Ferra.
+{76692}{76757}Que je vous parle de cette fille.
+{76772}{76825}Elle a les cheveux roux,
+{76837}{76875}les yeux verts,
+{76905}{76957}la peau pâle comme le lait.
+{76972}{77010}Le lait frais.
+{77022}{77125}C'est une question de vie ou de mort|alors pas de lyrisme,
+{77155}{77187}épargnez-moi|le cantique des cantiques.
+{77192}{77267}Je vous parle de Giovanna Ferra.
+{77300}{77327}La sœur de Silvio.
+{77392}{77472}Giuliano veut l'impressionner.
+{77487}{77540}Il n'est pas communiste,
+{77550}{77602}seulement amoureux.
+{77642}{77692}Je l'envie.
+{77737}{77795}Roccofino demande des renforts.
+{77815}{77862}Quand il nous aura aidé|à remporter les élections
+{77867}{77892}nous pourrons...
+{77985}{78035}Pourquoi Giuliano nous aiderait ?
+{78045}{78165}Que Rome me laisse faire comme|il m'arrive de laisser faire Rome.
+{78182}{78250}Plus mon ami sera populaire...
+{78262}{78345}plus utile il sera|quand le peuple votera.
+{78385}{78430}Vous êtes un maître
+{78442}{78475}dans votre domaine.
+{78510}{78555}Des nouvelles de votre fils ?
+{78592}{78660}Je viens de vous donner|de ses nouvelles.
+{78677}{78720}Vous ne l'avez donc pas senti ?
+{80472}{80555}Je n'ai jamais pu tenir|Passatempo.
+{80575}{80640}Et toi il te mange dans la main !
+{80717}{80757}Qu'est-ce que tu vas trouver encore ?
+{80777}{80820}On verra votre époux cette saison ?
+{80837}{80870}J'espère que non.
+{80875}{80915}Il est très bien à Paris
+{80940}{80970}où il dépense mon argent.
+{80990}{81017}Et vos récoltes ?
+{81022}{81120}Excellentes ! Vous savez|qu'on a voulu me prendre la terre ?
+{81127}{81165}Les communistes !
+{81172}{81225}J'ai dit qu'il fallait les pendre...
+{81230}{81265}avant les élections.
+{81270}{81300}Après...
+{81307}{81327}il sera trop tard.
+{81357}{81380}Entre nous
+{81402}{81435}pourquoi ne pas leur laisser
+{81440}{81482}la terre que nous n'utilisons pas ?
+{81487}{81532}Comme c'est américain !
+{81537}{81597}Je suis très américaine.
+{81612}{81672}Et peut-être trop sicilianisée.
+{81682}{81720}En tout cas|ce qu'on n'utilise pas
+{81725}{81755}est sans valeur.
+{82030}{82065}Giuliano en personne.
+{82150}{82210}Faisons une place à notre hôte.
+{82215}{82252}Ici, à côté de moi.
+{82280}{82312}J'ai déjà mangé.
+{82365}{82410}On dîne tôt à la montagne.
+{82545}{82595}Mais vous, je vous en prie,
+{82610}{82652}poursuivez votre repas.
+{82752}{82795}C'est un grand plaisir.
+{82807}{82825}Parfaitement.
+{82937}{82975}Je viens pour vos bijoux.
+{83097}{83122}Ils sont à l'étage.
+{83137}{83175}Je sais où vous les gardez.
+{83270}{83295}Votre montre s'il vous plaît.
+{83767}{83795}Vous en avez d'autres ?
+{83802}{83875}A la banque, à Palerme.
+{83895}{83960}Vous portiez hier soir|les émeraudes Crottone.
+{83987}{84022}Je les ai renvoyées à Palerme.
+{84065}{84147}Aucune voiture|n'est partie pour Palerme.
+{84342}{84385}Ne dérangez pas tout.
+{84577}{84625}Vous êtes américaine,|n'est-ce pas ?
+{84697}{84742}Et vous|comme tout bon Sicilien
+{84747}{84815}vous voulez émigrer|et ouvrir une pizzeria
+{84820}{84852}dans le New Jersey.
+{84875}{84920}Absolument pas.
+{84952}{84987}J'aimerais être américain.
+{85005}{85045}J'aimerais être libre
+{85057}{85100}mais sans pizzeria.
+{85187}{85240}Alors quoi d'autre ?|La mafia ?
+{85245}{85365}Vous la connaissez mieux que moi.|C'est vous qui la payez.
+{85397}{85447}Alors vous n'êtes qu'un bandit.
+{85482}{85525}Pas seulement.
+{85557}{85662}C'est juste. Vous donnez de l'argent|pour la terre.
+{85717}{85750}C'est ce que vous dites|à la presse.
+{85827}{85865}Je déteste Glenn Miller.
+{85872}{85910}Vous n'avez pas de Count Basie ?
+{86012}{86067}J'adore Glenn Miller.
+{86102}{86142}Puisque les bijoux vous intéressent
+{86157}{86202}vous connaissez "String of pearls" ?
+{86222}{86255}Ça peut aller.
+{86547}{86575}Trop vite.
+{86635}{86670}Ralentissez.
+{86737}{86767}Comme ceci.
+{87137}{87157}Votre bague.
+{87225}{87250}Votre bague !
+{87255}{87282}Avec les émeraudes.
+{87312}{87335}Je la veux.
+{87512}{87535}Elle vient du duc.
+{87545}{87610}Non. C'est mon père qui me l'a donnée.
+{87620}{87657}Et maintenant vous me la donnez.
+{87667}{87710}Je la porterai toujours.
+{87720}{87775}Par cet anneau,|je te prends pour épouse...
+{87890}{87910}Quoi ?
+{88045}{88085}Je suppose
+{88152}{88187}que vous allez me violer.
+{88312}{88352}Je ne vous plais pas ?
+{88452}{88475}Mais si.
+{88517}{88540}Vraiment.
+{88557}{88602}Mais vous êtes mariée,
+{88607}{88672}duchesse et moi fiancé.
+{88705}{88730}Je vous en prie !
+{88855}{88897}Si vous ne me violez pas
+{88927}{88965}c'est moi qui te violerai.
+{89015}{89060}On le dit très musicien.
+{89085}{89112}Et très beau.
+{89120}{89175}Ils ont pris|la montre de mon grand-père.
+{89180}{89240}Don Masino les fera pendre !
+{89352}{89392}Vous êtes vraiment belle.
+{89407}{89442}Toi aussi.
+{89480}{89512}Tirez les rideaux.
+{89552}{89595}J'aime la lumière.
+{89637}{89680}En Sicile|on fait l'amour dans le noir.
+{89690}{89720}Essaye donc la lumière.
+{89757}{89792}Je veux te voir.|Tu veux me voir.
+{89797}{89825}Les femmes ne veulent pas ça.
+{89835}{89905}Mais si,|quand elles sont amoureuses.
+{89930}{89987}Enfin... excitées.
+{89992}{90015}Nous sommes d'accord ?
+{90110}{90157}Un caleçon|de l'armée américaine.
+{90290}{90377}Vous en avez vu des tas|quand votre armée était là.
+{90392}{90495}Mon mari m'a épousée pour l'argent.|Moi j'ai épousé son titre.
+{90500}{90520}Je ne suis pas bonne sœur.
+{90547}{90600}Ça non, vous êtes une violeuse.
+{90750}{90780}Comment on peint |un plafond à l'envers ?
+{90822}{90865}Très difficilement.
+{91010}{91030}Tu connais Truman ?
+{91035}{91072}Qui ça ?
+{91077}{91190}Truman. Ton président !|Tu le connais ?
+{91242}{91310}Mon père est républicain.
+{91397}{91427}Ça ne fait rien.
+{91507}{91555}Truman t'intéresse ?
+{91575}{91632}Je fais des déclarations|à la presse.
+{91675}{91712}Nous les adorons.
+{91810}{91842}Je parle sérieusement.
+{91885}{91945}Les Siciliens|adorent ce que tu dis.
+{91982}{92010}Certains d'entre eux.
+{92027}{92077}Tu peux faire passer un message|à Truman ?
+{92140}{92245}J'imagine. Lequel ?
+{92255}{92305}Je pourrais faire un référendum|en Sicile.
+{92327}{92355}On voterait alors
+{92360}{92442}le rattachement aux Etats-Unis|comme énième Etat...
+{92450}{92502}Et Truman nous accepterait.
+{92507}{92542}Et Rome ?
+{92600}{92620}Et l'Italie ?
+{92635}{92660}Elles nous tuent.
+{92672}{92707}Pourquoi je suis un voleur ?
+{92712}{92800}Parce qu'on m'a tiré dessus quand|j'apportais du pain. Pourquoi ?
+{92807}{92902}Parce que sinon des tas de gens|seraient morts de faim.
+{92912}{92932}Pourquoi ?
+{92987}{93025}Parce qu'il n'y a pas de travail.
+{93132}{93190}Truman ne pourra rien pour toi.
+{93225}{93262}Ce n'est pas possible.
+{93292}{93337}Mais pourquoi|tu ne vas pas en Amérique ?
+{93380}{93412}Pour y faire quoi ?
+{93427}{93442}Travailler.
+{93452}{93490}Dans une pizzeria ?
+{93522}{93545}Dans le New Jersey ?
+{93562}{93595}Non, merci.
+{93602}{93655}Ici je suis Giuliano.
+{93717}{93755}Plus pour longtemps, je le crains.
+{94080}{94130}Ne t'en fais pas pour tes bijoux.
+{94197}{94260}Les assurances milanaises|Paieront.
+{94312}{94360}Et tu n'en seras que plus riche.
+{94495}{94515}Garde la bague.
+{94522}{94562}C'est bien mon intention.
+{94645}{94680}Mais je la porterai.
+{94960}{95002}Par cet anneau
+{95037}{95087}je te prends pour femme.
+{95177}{95225}Qu'est-ce que je peux dire ?|Vous avez raison.
+{95240}{95275}Un quart de million|c'est beaucoup d'argent.
+{95292}{95330}Oui, certes.
+{95357}{95395}Et c'est mon argent.
+{95412}{95442}Pas le vôtre.
+{95447}{95495}Nous vous payons grassement
+{95502}{95547}pour pouvoir vivre en toute sécurité.
+{95552}{95600}Votre Excellence|a souffert physiquement ?
+{95682}{95720}Apportez-moi un Coca-Cola.
+{95742}{95790}Le champagne|est trop acide pour moi maintenant.
+{95810}{95835}Je bois donc
+{95840}{95875}votre boisson nationale.
+{95932}{95962}Non, non,
+{95967}{96015}je vais me servir.
+{96022}{96065}Ce serait pourtant normal...
+{96080}{96145}Les Américains|adorent ce mot "normal".
+{96190}{96247}Je bois donc à la normalité...|pour tous.
+{96265}{96317}Je vous en prie, pas de bons mots.
+{96325}{96375}Ce n'est pas dans votre personnage.
+{96387}{96415}Pas d'ironie.
+{96450}{96492}Mais j'ai tant de personnages.
+{96540}{96582}Tant d'usages.
+{96610}{96660}En voici un : Comme par magie.
+{96667}{96752}Vos bijoux Excellence.|Rapportés par
+{96757}{96835}le Pr.Adonis|de l'université de Palerme.
+{96862}{96930}Le plus grand spécialiste italien|de Dante.
+{96945}{96965}Non, de Leopardi.
+{97005}{97070}Tout est bien qui finit bien.
+{97075}{97130}Vous avez payé trop cher|c'est vrai.
+{97147}{97255}Mais en négligeant d'avertir|l'assurance de cette restitution
+{97267}{97335}vous réaliserez|un bénéfice de 100%.
+{97357}{97442}Sur une transaction qui n'a pas|manqué d'être intéressante.
+{97462}{97485}Intéressante ?
+{97490}{97515}Vous avez rencontré
+{97555}{97597}et même appris à connaître
+{97647}{97687}le plus beau jeune homme|de Sicile.
+{97702}{97725}Il garde la bague Excellence.
+{97820}{97840}Pourquoi ?
+{97855}{97895}Je suppose...
+{97930}{97952}Il la porte.
+{98007}{98052}Mais c'est un opéra !
+{98072}{98090}Si romantique !
+{98145}{98180}Le brigand.
+{98185}{98217}La belle duchesse.
+{98252}{98270}Une passion.
+{98642}{98702}Vous êtes peut-être|une duchesse sicilienne
+{98722}{98770}mais vous demeurez|une Américaine
+{98812}{98860}capable de tenir tête|à tous les Siciliens.
+{98920}{98965}Je suis à vos genoux.
+{98982}{99032}Non, je vous en prie Don Masino.
+{99042}{99095}Je rougirais|de vous voir à genoux.
+{99122}{99177}Ah, si je pouvais vous faire rougir...
+{99190}{99210}Vous n'avez pas peur ?
+{99230}{99247}De vous faire rougir ?
+{99257}{99325}De Giuliano ?
+{99362}{99392}Ce gamin ?
+{99397}{99437}A votre place j'aurais peur.
+{99450}{99492}Vous savez comment on l'appelle ?
+{99522}{99562}Le Seigneur des montagnes.
+{99605}{99637}Et la Sicile|n'est qu'une montagne.
+{99650}{99675}C'est vrai
+{99690}{99765}mais l'argent et le pouvoir|sont ici, au bord de la mer.
+{99772}{99840}Dans les montagnes|il n'y a que des chèvres.
+{99852}{99882}Et Giuliano.
+{100105}{100150}Accordez-moi|l'honneur de cette danse.
+{100202}{100245}Pour montrer|que nous sommes amis
+{100257}{100280}comme toujours.
+{100577}{100602}Je ne savais pas que vous dansiez.
+{100607}{100695}Dans ma jeunesse|je fréquentais les thés dansants.
+{100710}{100740}Comme votre époux.
+{100765}{100835}Nous avons grandi ensemble|vous savez.
+{100840}{100897}Lui duc, moi pauvre.
+{100917}{100987}Mais en Sicile|tous les hommes sont les mêmes.
+{101042}{101120}Et toutes les femmes|des madones ou des putains.
+{101232}{101275}Je reviens de Rome.
+{101302}{101350}Cette ville me réveille.
+{101377}{101452}J'en reviens toujours|avec un goût renouvelé pour la vie.
+{101530}{101597}Les Siciliens|n'ont que le goût de la mort.
+{101647}{101685}Ne dites pas ce mot.
+{101965}{102000}Merci professeur.
+{102040}{102125}Je crois que...|le temps va changer.
+{102150}{102185}Bonne nuit messieurs.
+{102462}{102482}Eh bien ?
+{102527}{102580}Il refuse toujours de vous rencontrer.
+{102627}{102670}Mais il accepte votre
+{102687}{102722}affection paternelle.
+{102747}{102785}Bah, c'est un début.
+{102817}{102865}Ce qu'il veut, je le donne.
+{102877}{102915}Giuliano va venir à Palerme.
+{102925}{103030}Non. Il est hors de question|qu'il vienne à Palerme.
+{103135}{103185}Je sais que tu es fou.
+{103225}{103252}Si l'on te reconnaissait...
+{103257}{103322}Comment ?|Je ne suis pas moi-même habillé comme ça.
+{103407}{103472}Tu n'as pas l'air de quelqu'un|qui veut aider les pauvres.
+{103580}{103677}J'ai acheté cette robe, ce costume,|parce que nous sommes pauvres.
+{103832}{103875}J'avais envie|d'un pantalon très large.
+{103927}{103967}Bouffant, tu vois.
+{104165}{104222}On ne t'a jamais dit|que tu étais m'as-tu vu ?
+{104242}{104267}Si, ma mère.
+{104272}{104310}Qu'est-ce que tu as fait ?
+{104317}{104347}Je l'ai tuée.
+{104397}{104442}Je ne trouve pas ça drôle.
+{104447}{104490}Je ne plaisanterai plus jamais.
+{104520}{104552}Pas ce genre de plaisanterie.
+{104570}{104600}Pas avec moi.
+{104740}{104775}J'ai envie d'aller danser.
+{104805}{104902}Tu es fou. Et moi folle|d'être avec toi à Palerme.
+{104957}{105015}J'exige que tu me raccompagnes|à la maison.
+{106082}{106100}C'est moi, Giuliano.
+{106132}{106195}Vous voyez, pas de cornes.
+{106210}{106237}Pas de queue fourchue.
+{106257}{106285}Ce soir c'est la fête.
+{106305}{106347}Je me marie.
+

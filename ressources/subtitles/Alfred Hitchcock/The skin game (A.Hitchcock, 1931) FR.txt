@@ -1,0 +1,1040 @@
+{2142}{2185}On abat les arbres à Longmeadow.
+{2191}{2276}Vraiment !|Je ne vous vois plus Jill...
+{2281}{2311}Pourquoi ils font ça ?
+{2316}{2379}Papa veut construire.
+{2386}{2419}Pour les ouvriers.
+{2424}{2494}Encore ! Il abîme tout le pays !
+{2516}{2589}- Vous prenez parti pour votre clan !|- Quel parti ?
+{2594}{2664}Celui des|"Nos-ancêtres-ont-vécu-ici" !
+{2681}{2789}C'est de l'orgueil ! Votre mère|n'a pas rendu visite à Chloé !
+{2801}{2896}Je sais. J'en suis désolée.|Elle aurait dû le faire.
+{2904}{2979}Mon père et mon frère|ont été choqués.
+{2986}{3056}Ils n'auraient jamais dû|installer d'usines...
+{3061}{3116}Vous êtes injuste Jill...
+{3154}{3249}J'ai de l'amitié pour vous|mais je déteste vos usines !
+{3274}{3371}C'est notre pays|depuis toujours et nous l'aimons !
+{3376}{3416}C'est horrible de le voir gâché !
+{3421}{3479}Vous voudriez renoncer au progrès ?
+{3484}{3584}Mon père est intelligent|et aussi humain que le vôtre...
+{3601}{3671}Depuis qu'il est veuf,|il ne vit que pour nous !
+{3679}{3719}Tout est pour nous !
+{3736}{3829}Vous lui refusez la considération|qu'il mérite.
+{3841}{3864}Soyez juste Jill !
+{3869}{3949}Je le suis ! Je souhaite|être en bons termes.
+{3976}{4039}Mais il est autoritaire !
+{4066}{4119}Ça ne doit pas intervenir|entre nous...
+{4149}{4176}Je ne sais pas.
+{4189}{4224}Je regrette...
+{4281}{4339}Enfin, il faut que je m'en aille...
+{4391}{4424}À bientôt j'espère...
+{5159}{5204}Poteries Hornblower
+{6084}{6184}J'ai besoin de ce terrain.|Déménagez !
+{6191}{6261}Jamais M.Hillcrist ne nous|aurait chassés comme ça !
+{6271}{6356}Quand il vous a vendu le terrain,|il nous a dit...
+{6361}{6459}qu'il était entendu|que nous resterions...
+{6464}{6524}Je ne pensais pas en avoir besoin.
+{6536}{6586}J'ai des ouvriers à loger.
+{6599}{6651}Mes usines deviennent importantes.
+{6656}{6761}Je ne veux pas être dur.|Vous aurez 5 livres pour vos frais.
+{6766}{6814}Nous n'en voulons pas !
+{6819}{6881}Nous avons élevé|trois enfants ici...
+{6886}{6924}et... enterré deux...
+{6979}{7034}Bon ! Disons 10 livres !
+{7039}{7109}Je vous enverrai une voiture|pour déménager.
+{7134}{7191}C'est parler ça, hein ?
+{7236}{7289}D'accord ? C'est ma dernière offre !
+{7294}{7326}On refuse.
+{7331}{7374}On ne veut rien, que rester...
+{7381}{7426}où nous sommes venus|jeunes mariés !
+{7431}{7479}J'étais prêt à patienter !
+{7486}{7554}Si c'est comme ça|vous partirez samedi !
+{7561}{7629}Embarquez tout !|Sinon je vous fiche dehors !
+{7636}{7721}Vous n'êtes pas un brave homme !|C'est tout...
+{7726}{7791}Allez pleurnicher chez Hillcrist !
+{7799}{7836}Je vais le prévenir !
+{8086}{8174}Ton chapeau !|Nous allons le voir tout de suite !
+{8306}{8364}Quand j'ai vendu à Hornblower
+{8371}{8414}nous avons convenu...
+{8419}{8481}que rien ne serait changé pour vous.
+{8486}{8546}Ce n'est pas un monsieur...
+{8551}{8624}30 ans qu'on est là !|Qu'est-ce qu'on va faire ?
+{8631}{8681}Faut nous excuser d'être venus...
+{8686}{8721}J'aurais dû prévoir !
+{8754}{8831}Jamais je n'aurais vendu|si j'avais su !
+{8836}{8919}On dit qu'il achète le Centry aussi.
+{8934}{8991}Pour d'autres usines.
+{9006}{9074}C'est pour ça|qu'il veut les maisons.
+{9109}{9144}Le Centry ?
+{9156}{9184}Impossible !
+{9266}{9339}Un joli coin !|C'est beau vu d'ici...
+{9346}{9424}Le plus joli de Deepwater,|pour sûr !
+{9431}{9479}C'était à votre père
+{9484}{9551}et avant à votre grand-père.|Empêchons ça !
+{9561}{9614}Pour nous,|j'ai dit à Jackman...
+{9636}{9684}M.Hillcrist nous défendra...
+{10321}{10369}Laissez-moi faire Jackman.
+{10580}{10655}Au revoir monsieur. Et merci.
+{11163}{11203}Où est Mme Hillcrist ?
+{11208}{11308}Au jardin avec M.Dawker.|Mais elle a dû rentrer...
+{11390}{11448}Regarde !|Quelle allure il a !
+{11470}{11510}Je peux te déranger ?
+{11515}{11545}C'est important ?
+{11588}{11673}Bien. Nous reprendrons ça plus tard.
+{11713}{11778}Restez Dawker.|J'ai besoin de vous...
+{11825}{11870}Hornblower expulse les Jackman.
+{11900}{11978}Il était entendu|qu'il les garderait.
+{11990}{12070}Ils sont là depuis 30 ans.|Quelle mauvaise foi !
+{12075}{12135}Crois-tu qu'il en soit gêné ?
+{12140}{12235}Il devrait l'être|s'il a le moindre sens d'honnêteté !
+{12265}{12383}Les Jackman disent qu'il achète|le Centry pour bâtir des usines.
+{12485}{12553}Ça gâchera tout !|Et ça nous coupera du Duc !
+{12590}{12673}Mlle Mullins ne vendra pas|sans nous le dire.
+{12678}{12758}Je l'empêcherai de chasser|ces pauvres gens.
+{12763}{12810}Qu'en pensez-vous Dawker ?
+{12868}{12935}C'est un malin.|Il ne s'endort pas !
+{12950}{12995}Ne le mésestimez pas.
+{13000}{13073}- Une fripouille !|- Sans aucun doute !
+{13078}{13138}Jamais Mlle Mullins ne vendra !
+{13145}{13228}Je l'ai entendu dire aussi.|Hornblower y mettra le prix !
+{13233}{13268}Ça vaut combien ?
+{13278}{13320}Le prix qu'on en donne !
+{13330}{13383}Celui du profit pour lui...
+{13405}{13450}Du sentiment pour nous !
+{13460}{13535}Vous ne pourrez pas lutter.|Il est riche.
+{13560}{13628}Je peux aller la voir avant lui...
+{13633}{13660}Dawker doit y aller.
+{13665}{13743}Attendons qu'Hornblower|vienne me voir.
+{13755}{13798}Je lui en parlerai.
+{13895}{13960}Jouons au plus fin. Devançons-le !
+{13965}{13998}Faire comme lui ?
+{14028}{14068}Allez voir Mlle Mullins.
+{14090}{14135}Faites pour le mieux.
+{14918}{14955}M.Hornblower.
+{15105}{15138}Belle journée !
+{15183}{15215}Temps magnifique !
+{15248}{15303}On ne se voit pas souvent...
+{15355}{15410}Pas depuis la vente|de Longmeadow...
+{15415}{15463}C'est pour ça que je viens !
+{15470}{15513}Asseyez-vous je vous prie...
+{15543}{15578}Vous souffrez de la goutte ?
+{15583}{15618}Désolant !
+{15625}{15703}Je n'y suis pas sujet.|Question de tempérament !
+{15710}{15805}Pas d'hérédité ! Je ne souffre|que de mes propres excès !
+{15810}{15845}Vous avez de la chance.
+{15850}{15903}Qu'en pense Mme Hillcrist ?
+{15910}{15973}Suis-je heureux|de n'avoir pas de passé ?
+{15980}{16035}De l'avenir seulement !
+{16040}{16093}En êtes-vous si sûr ?
+{16100}{16138}Je le fais moi-même !
+{16143}{16200}Je viens de voir Jackman.
+{16235}{16268}Avec sa peste de femme ?
+{16273}{16368}Ce sont de braves gens.|Chez moi depuis 30 ans.
+{16375}{16428}Il faut vous secouer !
+{16433}{16493}Deepwater a besoin d'or frais !
+{16500}{16595}Où je suis il y en a !|Ça ne vous réjouit pas ?
+{16600}{16665}La parole donnée|nous importe plus...
+{16670}{16730}Laissez ! Ça ne me touche pas.
+{16735}{16828}Vous aviez promis|de ne pas inquiéter les locataires.
+{16858}{16910}Justement, je dois le faire.
+{16915}{16975}Je n'en avais pas l'intention...
+{16980}{17063}Je comptais sur les terres du Duc.|Il ne vend plus !
+{17068}{17183}J'ai besoin de loger mes ouvriers.|J'ai des commandes...
+{17188}{17278}Les Jackman sont attachés|à leur maison...
+{17285}{17388}Si vous tenez tant à eux,|logez-les ! Vous avez la place.
+{17393}{17475}Là n'est pas la question.|Vous avez promis...
+{17480}{17548}Je croyais que le Duc vendrait.
+{17555}{17580}C'est votre affaire !
+{17585}{17680}La vôtre aussi.|Je dois avoir ces maisons.
+{17718}{17755}Écoutez Hillcrist...
+{17760}{17828}Vous ne savez pas ce que je suis.
+{17835}{17903}J'ai du cran, de l'argent|et je fonce !
+{17908}{17960}J'ai confiance en moi.
+{17970}{18033}Je ne fais pas de sentiment.
+{18040}{18103}Les Jackman ne valent pas|mon petit doigt !
+{18108}{18155}Quel langage !
+{18160}{18215}Puisqu'on en parle...
+{18235}{18275}Je dis ce que je pense...
+{18295}{18390}Vous voulez imposer|votre façon de vivre, moi la mienne.
+{18408}{18475}Il y a un de nous deux de trop ici !
+{18480}{18518}Vous partez quand ?
+{18523}{18578}Ne craignez rien ! Je reste !
+{18585}{18678}On dit que vous bâtirez|des usines à Centry ?
+{18682}{18807}Sans souci de l'environnement|qui a été le nôtre depuis des siècles.
+{18824}{18852}C'est vrai ?
+{18857}{18969}Absolument. Mon fils Charlie|s'en occupe en ce moment !
+{18974}{19072}Il est chez la vieille dame.|Elle veut vendre.
+{19079}{19147}Son prix sera le mien.
+{19154}{19244}C'est un marché de dupes|M.Hornblower !
+{19317}{19382}C'est une expression intéressante !
+{19412}{19457}Marché de dupes !
+{19497}{19582}Enfin ! Les mots|n'ont jamais rien cassé !
+{19587}{19664}J'en connais d'autres !|S'il n'y avait pas de dame ici...
+{19669}{19707}Cette réserve m'étonne de vous.
+{19712}{19829}Je vous le dis ! Vous êtes|un obstacle sur mon chemin...
+{19834}{19917}et personne ne reste|sur mon chemin ou alors...
+{19922}{19982}on y reste à mes conditions !
+{19992}{20069}Je mets des usines|là où j'en ai besoin.
+{20089}{20152}Votre orgueil en prendra un coup.
+{20157}{20202}Est-ce du bon voisinage ?
+{20232}{20304}Vous avez fait un effort|de votre côté ?
+{20349}{20447}Je n'ai plus de femme.|Mais, j'ai une belle-fille.
+{20477}{20557}Vous lui avez rendu visite ?
+{20574}{20649}Je viens d'arriver|et vous êtes une vieille famille.
+{20654}{20737}Pour vous je suis un arriviste !
+{20744}{20789}Je vais à l'église,|ça vous choque...
+{20794}{20852}Je fabrique et je vends,|ça vous déplaît...
+{20857}{20949}J'achète des terres|et je gêne votre environnement...
+{20954}{21022}Vous non plus|vous ne me plaisez pas !
+{21027}{21107}Vous avez profité de tout ça.|C'est fini !
+{21114}{21159}Vous voulez la guerre ?
+{21232}{21332}Je n'ai rien contre vous|personnellement...
+{21352}{21422}Votre espèce est appelée|à disparaître
+{21429}{21472}avec votre goutte et votre dignité !
+{21477}{21552}Vous pouvez être désagréable !|Vous êtes fini !
+{21559}{21649}J'apporte le renouveau ici.|J'ai des projets...
+{21654}{21757}Je me présenterai aux élections.|Le village sera prospère...
+{21762}{21844}Je suis un brave homme|quand on sait me prendre !
+{21854}{21962}Ayons des relations|de bon voisinage et...
+{21979}{22047}Et je m'arrange|sans usines au Centry !
+{22059}{22092}Alors d'accord ?
+{22147}{22217}Achetez dix fois le Centry !
+{22222}{22267}Vos façons me déplaisent.
+{22274}{22314}Je n'ai rien à faire avec vous.
+{22492}{22524}C'est comme ça ?
+{22552}{22577}Bon.
+{22604}{22707}Il est temps que vous appreniez|quelque chose !
+{22742}{22859}Vous réalisez|que je vous cerne de partout ?
+{22912}{23012}Je suis à Hope Hill|où il y a des chantiers.
+{23029}{23089}Ici c'est ma terre...|Là le Centry que j'achète.
+{23129}{23182}Vous êtes en plein milieu !
+{23217}{23284}Quelle campagne, hein ?
+{23377}{23432}Ce n'est pas loyal !
+{23539}{23597}Vous n'avez entendu qu'un parti.
+{23602}{23662}Le parti pris|de chasser les Jackman !
+{23667}{23797}Ils ne sont rien comparés au projet|que j'ai pour le pays.
+{23804}{23869}J'étais de votre côté,|maintenant c'est fini.
+{23874}{23919}Qu'est-ce que je vais devenir !
+{23924}{24019}Je ne m'abaisserai pas|à connaître vos projets...
+{24039}{24112}Mettre dehors de pauvres gens|est ignoble !
+{24159}{24187}Enfin !
+{24204}{24257}La vie est trop courte|pour se disputer !
+{24274}{24367}Un homme qui a travaillé|comme je l'ai fait...
+{24372}{24472}qui s'est élevé, qui connaît la vie,|est seul juge de ses actes !
+{24482}{24547}J'en répondrai à Dieu.|Pas à vous !
+{24552}{24584}Pauvre Dieu !
+{24664}{24702}Vous blasphémez !
+{24707}{24754}Je t'en prie Jill !
+{24879}{24959}Nous n'avons plus rien|à nous dire...
+{25054}{25132}Nous jouerons le jeu de dupes|Hillcrist !
+{25137}{25167}À mains nues !
+{25182}{25227}On ne s'épargnera pas !
+{25242}{25327}Prenez garde à vous|à partir de maintenant !
+{25339}{25392}Seules les affaires comptent !
+{25434}{25459}Où j'ai mis|mon chapeau ?
+{26299}{26342}Dites que je suis là...
+{26642}{26687}Alors Dawker ?
+{26712}{26757}Sauvés pour le moment !
+{26767}{26854}Elle vendra aux enchères.|Elle n'a pas voulu en démordre !
+{26858}{26923}Elle ne veut pas vous désobliger...
+{26941}{27013}À mon avis elle sent l'argent.
+{27058}{27138}Je peux vous voir seule madame ?|C'est important.
+{27143}{27178}Dans le bureau.
+{27381}{27436}Dawker manigance quelque chose...
+{27456}{27503}Je vois ça à sa figure !
+{27523}{27578}Je ne l'aime pas !|Il est commun...
+{27583}{27656}Chacun a sa façon d'être...
+{27713}{27756}Et il est entreprenant.
+{27786}{27838}Ils vont combiner quelque chose
+{27843}{27918}que tu regretteras|si tu n'y veilles pas !
+{27928}{27991}Mère est si vindicative !
+{28018}{28103}Hornblower est méprisable,|ne le soyons pas !
+{28108}{28183}M'en crois-tu capable ?
+{28213}{28261}Non père chéri...
+{28313}{28353}Mais fais attention,
+{28358}{28443}si Mère te dit|que Dawker agit correctement !
+{28498}{28563}Tu es bien sérieuse !
+{28706}{28763}Je commençais à être heureuse...
+{28773}{28846}et tout est gâché|par l'attitude de Mère !
+{28851}{28891}Quel homme horrible !
+{29046}{29141}Ne te laisse pas entraîner,|tu es si bon...
+{29198}{29258}- Comment va la goutte ?|- Mieux !
+{29263}{29301}Ça c'est important...
+{29311}{29393}pour toi, pour nous|c'est autre chose !
+{29398}{29436}Dis-moi Jill...
+{29446}{29536}Qu'est-ce qu'il y a entre toi|et ce jeune Rob ?
+{29643}{29673}Mais voyons ! Rien.
+{29678}{29726}J'en suis heureux.
+{29748}{29821}Je n'ai aucune illusion|sur l'amour !
+{29831}{29876}J'aime avoir des amis...
+{29893}{29943}J'aime la vie.
+{29951}{30013}Avec la haine... C'est impossible !
+{30086}{30176}Vous vous enliserez tous dedans.|Moi aussi...
+{30181}{30211}Je suis...
+{30241}{30273}comme tous les autres.
+{30288}{30368}Tout ça pour notre domaine !
+{30606}{30641}Ne l'aimes-tu pas ?
+{30673}{30741}Bien sûr, je l'adore !
+{30913}{30986}Pour y vivre|il faut arrêter ce butor !
+{30993}{31088}Imagine les cheminées, la fumée,|les arbres abattus...
+{31093}{31151}les chemins défoncés !
+{31183}{31306}Je suis né ici, mon père aussi...|et mon grand-père !
+{31311}{31388}Ils ont aimé ces champs,|ces arbres...
+{31406}{31468}J'ai appris à monter|dans les prairies du Centry !
+{31473}{31543}Les plus belles au printemps !
+{31561}{31673}Tu peux parcourir le monde,|tu ne trouveras pas plus beau.
+{31686}{31743}Je ne l'abandonnerai pas|sans lutter !
+{33403}{33456}Hornblower et son ami sont là !
+{33483}{33586}Chloé aussi, la femme de Charlie !|Elle est avec Rob.
+{33626}{33703}Veux-tu me laisser un moment|Rob ?
+{34061}{34111}Cette femme a des façons !
+{34121}{34168}Ça lui coûtera cher.
+{34753}{34823}La ville se modernise...
+{34838}{34913}On dit que nous allons|avoir l'électricité !
+{35312}{35345}Pardon ?
+{35350}{35382}Mme Hillcrist...
+{35415}{35450}Je ne vous ai fait aucun tort...
+{35457}{35492}L'ai-je dit ?
+{35497}{35535}On pourrait le penser.
+{35542}{35630}Je ne suis pas délibérément|hostile... Pas encore.
+{35692}{35740}Mais vous êtes une Hornblower...
+{35745}{35777}Je n'en veux pas à vos terres...
+{35782}{35870}Empêchez-les donc !|Votre mari est là avec son père...
+{35877}{35910}J'ai essayé...
+{35950}{36007}Ils ne vous écoutent même pas !
+{36012}{36047}Mon mari est juste...
+{36052}{36097}Opinion de bonne épouse !
+{36110}{36170}Pourquoi vous me traitez si mal ?
+{36297}{36370}Voulez-vous êtes assez aimable|pour me laisser seule.
+{36377}{36437}Bien. Je m'éloigne.
+{37157}{37192}Debout Dawker...
+{37297}{37390}Si je ne le vois pas|demandez-lui...
+{37395}{37440}de se moucher, j'enchérirai.
+{37447}{37500}S'il se mouche deux fois je cesserai.
+{37505}{37537}Qu'est-ce que vous avez fixé ?
+{37542}{37582}6000 livres.
+{37590}{37645}Une somme effarante !
+{37802}{37840}Derrière...
+{37885}{37957}Vous allez voir l'homme|dont je vous ai parlé.
+{37962}{38010}Il en sait long sur Mme Chloé.
+{38025}{38050}J'irai vers lui...
+{38065}{38102}et j'y resterai.
+{38847}{38965}Dawker enchérira|si tu te mouches une fois.
+{38977}{39092}Si tu te mouches une seconde fois|il cessera.
+{39302}{39340}Prends ces sels ! Va...
+{39345}{39385}Tu es bien bonne.
+{39532}{39580}Respirez !|Vous êtes toute pâle !
+{39587}{39610}Ça va aller...
+{39617}{39652}Il le faut !
+{39752}{39795}Je vais te chercher de l'eau.
+{40235}{40307}Je n'ai qu'une propriété à vendre...
+{40312}{40417}d'enviables récoltes,|de l'élevage...
+{40422}{40487}et une habitation sur parc...
+{40492}{40577}connue sous le nom|de Centry Deepwater !
+{40777}{40815}Propriété unique !
+{40820}{40857}Une occasion exceptionnelle !
+{40870}{40912}Pour un auditoire parfait !
+{40935}{41030}M.Brucknam va vous lire|les conditions de vente.
+{41035}{41085}Ça ne vous ennuiera pas...
+{41352}{41380}Plus fort !
+{41970}{42050}Il est rare qu'une propriété|de ce genre soit en vente !
+{42075}{42110}La plus belle de Deepwater !
+{42117}{42222}C'est exact.|C'est un endroit privilégié.
+{42227}{42275}Bien situé...
+{42300}{42372}En énoncer les qualités|prendrait du temps...
+{42377}{42442}Telle qu'elle est !|De l'eau, des bois.
+{42447}{42532}Aucune hypothèque...|aucune location.
+{42537}{42595}Vous pouvez|en disposer immédiatement !
+{42602}{42710}Une situation incomparable|pour un domaine...
+{42717}{42792}entre les terres du Duc|et des Hillcrist.
+{42797}{42837}Une île d'émeraude !
+{42845}{42930}Sans allusion à l'Irlande !|La paix y règne !
+{42947}{43005}Rien à voir avec le gouvernement.
+{43010}{43047}Les droits miniers sont inclus.
+{43052}{43100}Et vous savez la valeur
+{43107}{43150}du sous-sol de Deepwater !
+{43341}{43379}À combien commençons-nous ?
+{43386}{43411}3000 ?
+{43431}{43516}Un site exceptionnel et rare !
+{43524}{43599}3000 ! Les enchères sont ouvertes !
+{43604}{43661}Vous prenez votre temps ! Allons !
+{43681}{43769}200 acres de terres à blé|et de prairies !
+{43794}{43861}Et une résidence unique|dans le comté !
+{43871}{43891}Allons !
+{43896}{43964}Pensez à toutes les possibilités|offertes ! Que disons-nous ?
+{43969}{44034}2000 ? Ce n'est pas trop|demander M.Spicer !
+{44041}{44094}Ça vaut ça|pour voisiner avec le Duc !
+{44099}{44161}J'ai dit 2000 !
+{44189}{44209}Allons !
+{44214}{44271}2500 ! Merci monsieur.
+{44326}{44379}M.Sandy, ne vous grattez pas|la tête pour ça !
+{44401}{44424}3000 !
+{44429}{44501}3000 pour cette propriété !
+{44506}{44559}C'est votre avis ?
+{44571}{44609}Allons messieurs !
+{44644}{44721}3500 ! Dois-je dire 4000 ?
+{44754}{44866}Je prends tout !|Disons 3600 ! 3700 !
+{44894}{44976}Allons messieurs !|Ne perdons pas de temps !
+{44984}{45089}Je dis 4000 ! C'est mieux !|Nous commençons à bouger !
+{45094}{45144}Un... Deux...
+{45151}{45184}Trois !
+{45191}{45239}Alors ? 4400 ? 4500 !
+{45246}{45264}600 !
+{45276}{45291}700 !
+{45311}{45354}800 ! 900 !|Je dis 4900 ?
+{45414}{45481}5000 ! J'ai entendu 5000 !
+{45486}{45541}Allons messieurs ! Du nerf !
+{45594}{45631}À qui est l'enchère ?
+{45636}{45666}À Hornblower.
+{45671}{45739}J'en demande mieux que ça !
+{45744}{45829}5000 ! 100... 200... 300...
+{45834}{45896}5300 !
+{45901}{45944}- C'est à qui ?|- À Hornblower.
+{45949}{46001}L'agent du Duc est là-bas.
+{46046}{46121}Une occasion exceptionnelle !|Le poète a dit:
+{46126}{46189}"Ô regrets|de ce que je n'ai pas eu !"
+{46211}{46294}Je dis 5600 ! 5700 ! 5800 !
+{46301}{46354}J'ai 5800 !
+{46406}{46444}Continuons.
+{46509}{46554}Ce n'est pas sa valeur.
+{46564}{46616}5800 !
+{46679}{46729}Allons messieurs,|qui dit mieux ?
+{46734}{46806}5900 ! Et 6000 !
+{46871}{46944}Pour 6000 livres !|La perle du Comté !
+{46949}{47021}6000 livres ! C'est pour rien !
+{47076}{47146}Allons messieurs, un effort !
+{47151}{47174}6000 !
+{47204}{47239}Pour 6000 livres !
+{47281}{47309}Nous adjugeons ?
+{47326}{47359}6000, une fois...
+{47391}{47431}6000, deux fois...
+{47461}{47481}6100 monsieur ?
+{47506}{47559}J'ai 6100 livres !
+{47594}{47621}Mouche-toi !
+{47654}{47729}Plus de 7000 je ne peux pas !
+{47806}{47844}200 ! Merci !
+{47851}{47884}Pour 6300 ?
+{47934}{48004}100 de plus ! 6400 !
+{48011}{48086}Cette propriété pour 6400 livres !
+{48091}{48154}Ce n'est pas votre dernier mot !
+{48159}{48199}500 ! 600 ! 700 !
+{48216}{48241}800 !
+{48249}{48389}6800 ! 6800 livres !|Une fois... Deux fois !
+{48396}{48459}Pour la dernière fois !
+{48471}{48524}Merci M.Hornblower ! 6900 !
+{48529}{48621}Ne te mouche pas,|Dawker arrêterait d'enchérir !
+{48641}{48679}7000 !
+{48716}{48759}Je dis 7000 !
+{48764}{48789}Une fois...
+{48799}{48826}Deux fois...
+{48984}{49044}100 ! Merci ! Et vous, monsieur ?
+{49209}{49304}J'ai une enchère à 7100|pour le Centry !
+{49316}{49384}Voyons si je peux obtenir mieux !
+{49401}{49496}Ce n'est pas... encore son prix !
+{49516}{49584}Un prix énorme ? Si vous le dites...
+{49621}{49694}Quelqu'un dira 7200 ?
+{49744}{49779}Personne ?
+{49784}{49821}À vous de décider !
+{49841}{49944}M.Hornblower ! 7100 une fois...
+{49974}{49994}Deux fois...
+{50046}{50074}7200 !
+{50144}{50184}Merci monsieur !
+{50211}{50259}7200 livres !
+{50306}{50354}Qu'en dites-vous monsieur ?
+{50361}{50399}300... 400...
+{50409}{50439}7400 !
+{50446}{50474}500 ! 600 !
+{50481}{50531}Je dis 7600... Je dis 8000 ?
+{50544}{50559}8000 !
+{50571}{50606}100... 200...
+{50626}{50649}300... 400...
+{50674}{50739}8500 ! 600... 700...
+{50749}{50769}800 ?
+{50786}{50834}9000 !
+{51049}{51084}9000 !
+{51216}{51254}9000 livres...
+{51296}{51329}une fois !
+{51341}{51359}Deux fois...
+{51391}{51429}Pour la dernière fois !
+{51476}{51579}J'ai 500 ! 9500 livres !
+{51598}{51638}Et vous monsieur ?
+{51660}{51710}C'est l'agent du Duc ?
+{51718}{51783}Il a arrêté Hornblower !|Dieu merci !
+{51875}{51923}Le Centry de Deepwater...
+{51930}{51975}pour 9500 livres !
+{51990}{52053}Une fois ! Deux fois !
+{52075}{52148}J'adjuge ! 9500 livres !
+{52265}{52310}C'est tout pour aujourd'hui !
+{53448}{53525}Tu as vu l'air étrange de Chloé...
+{53540}{53598}quand elle a vu l'ami de Dawker ?
+{53640}{53700}Partons. On s'occupe d'elle...
+{54235}{54313}Hornblower n'a pas eu l'air déçu...
+{54463}{54503}Vous m'avez fait monter...
+{54523}{54630}Vous avez du cran.|Mais vous ne me connaissez pas !
+{54675}{54738}Vous avez cédé à 9000 !
+{54745}{54798}Le Centry est à un gentleman !
+{54803}{54858}Le Duc ? Non !
+{54865}{54940}Ni à un gentleman,|ni à un vieux fou...
+{54953}{54983}À moi !
+{54998}{55085}Vous n'êtes pas de taille avec moi !
+{55115}{55213}Votre obstination me coûte cher...
+{55238}{55280}Je ne l'oublierai pas !
+{55285}{55333}La dernière enchère venait de vous ?
+{55338}{55443}Bien sûr !|On ne se met pas sur ma route.
+{55458}{55518}- Maintenant vous y croyez ?|- Un piège !
+{55538}{55633}Vous aviez un agent ? Moi aussi...
+{55650}{55733}L'un a monté au début,|l'autre à la fin !
+{55750}{55793}C'est un piège ?
+{55853}{55905}Disons un jeu de dupes !
+{55920}{55953}Il s'agit bien de ça !
+{55963}{55998}Si j'étais plus jeune !
+{56005}{56045}On se battrait ? Joli spectacle !
+{56080}{56125}Laissez ça aux jeunes...
+{56160}{56250}Et vous mademoiselle,|laissez mon fils tranquille !
+{56383}{56438}Je peux lui cracher à la figure ?
+{56475}{56533}Vous avez gagné par un coup bas !
+{56543}{56653}Nous verrons si vous en profitez !|Il y a des lois !
+{56703}{56773}Si vous êtes déloyal,|nous le serons aussi.
+{56790}{56888}Nous nous battrons.|Faites attention !
+{56905}{56953}Puisque nous parlons net...
+{56980}{57038}Vous avez dédaigné ma belle-fille...
+{57045}{57103}qui vous vaut bien...
+{57130}{57193}et j'ai décidé d'acheter le domaine.
+{57213}{57338}Votre morgue m'exaspère !|Un point c'est tout !
+{57353}{57393}Si vous construisez...
+{57398}{57448}Si je le veux !
+{57465}{57568}J'ai payé 9500 livres une propriété|qui en valait quatre !
+{57573}{57618}Et je la garderai !
+{57640}{57708}Je continuerai à penser...
+{57715}{57775}que vous êtes des cancrelats !
+{57825}{57858}Bonsoir !
+{57980}{58008}Partons...
+{58288}{58323}C'est bizarre...
+{58335}{58403}Cet homme, avec Dawker,|connaît Chloé...
+{58410}{58513}Mère est dans le secret.|Questionne Dawker papa...
+{58765}{58825} Qu'est-ce qui se passe|avec Mme Hornblower ?
+{58835}{58858}Alors ?
+{58863}{58900}Pas devant Jill !
+{58913}{58945}Ce n'est pas pour une jeune fille.
+{58950}{59015}Je lis les quotidiens !
+{59020}{59063}Et ils ne se gênent pas !
+{59075}{59103}À mon âge tu étais déjà mère !
+{59110}{59155}Il ne s'agit pas de moi.
+{59165}{59230}Qu'est-ce qu'il y a ?|Venez Dawker...
+{59303}{59388}Si ça concerne Chloé|j'en suis désolée...
+{59533}{59563}Comment vous savez ?
+{59568}{59610}Mon ami s'en occupait.
+{59618}{59665}C'est scandaleux ! Une honte !
+{59670}{59705}Je t'avais prévenu !
+{59710}{59753}Dites à ce Flynn de venir.
+{59997}{60044}Vous êtes sûr de vous ?
+{60049}{60134}Absolument. Je me souviens|très bien. On l'appelait...
+{60139}{60232}Je préfère l'ignorer.|Personne ne doit savoir ça.
+{60244}{60312}Si Hornblower devient conciliant.
+{60329}{60404}Sinon ça se saura !
+{60409}{60477}Non Amy ! Pas de ça !
+{60489}{60587}Se servir du passé d'une femme !|C'est répugnant !
+{60594}{60687}Tu souhaiterais tout ignorer|si c'était ta belle-fille ?
+{60694}{60777}Je ne sais pas ! Tu as réfléchi...
+{60797}{60894}que ce genre de diffamation|peut entraîner un procès ?
+{60917}{60984}Il n'y a aucun doute.|Pas le moindre !
+{61019}{61099}- Vous avez bien vu !|- En effet...
+{61127}{61239}Je n'aime pas ça du tout !|Pas du tout !
+{61512}{61554}M.Hornblower,
+{61559}{61674}j'ai une révélation à vous faire|au sujet de votre belle-fille.
+{61679}{61754}Je vous attendrai|à 11 heures demain matin.
+{61759}{61849}C'est d'une importance vitale|pour votre famille.
+{61854}{61957}Je pense donc que|vous ne manquerez pas de venir.
+{61962}{62004}Amy Hillcrist.
+{62872}{62927}M.Hornblower veut vous voir.
+{63027}{63052}Je vais le prévenir.
+{63132}{63167}Alors cette migraine ?
+{63172}{63197}Terrible !
+{63209}{63252}Allons dans le bureau...
+{63624}{63719}Dawker attend dans le garage.|Il est pressé...
+{63904}{63939}Est-ce raisonnable ?
+{63944}{64014}Cette querelle|avec les Hillcrist t'ennuie ?
+{64019}{64067}Je peux tout arranger...
+{64182}{64214}Qu'est-ce que vous faites là ?
+{64264}{64292}Tu te sens mieux ?
+{64299}{64332}Cette tête !
+{64342}{64434}J'en suis désolé.|Tu peux m'accorder un moment ?
+{64459}{64542}J'ai un mot de cette femme...
+{64707}{64752}Qu'est-ce que ça veut dire...
+{64764}{64832}Est-elle impudente ou folle ?
+{64839}{64862}Je ne sais pas.
+{64867}{64952}S'il y a quelque chose,|dis-le-moi.
+{64964}{65017}Un homme averti en vaut deux !
+{65084}{65154}Il n'y a rien d'autre|que la faillite de mon père...
+{65159}{65204}Ça arrive à d'autres !
+{65229}{65279}Tu ne parles jamais des tiens...
+{65284}{65322}J'en ai un peu honte.
+{65327}{65367}- Tu disais Rob ?|- Rien...
+{65392}{65452}Tu n'es pas responsable|de ton père...
+{65492}{65547}Si c'est tout, je suis soulagé !
+{65584}{65632}Sales snobs !
+{65644}{65689}Ils me paieront ça aussi !
+{65694}{65754}Ne dites rien à Charlie !
+{65774}{65812}Bien sûr !
+{65819}{65899}Rob aussi aurait fait faillite|sans Charlie !
+{65969}{66057}Rien d'autre avant que je réponde ?
+{66119}{66172}- Tu es sûre ?|- Elle peut inventer !
+{66179}{66244}Il y a des lois contre ça !
+{66259}{66364}S'ils emploient la diffamation|je les attaquerai ! Allons dîner...
+{66369}{66442}Je n'ai pas faim.|Mon mal de tête me reprend.
+{66474}{66522}Je vais aller prendre l'air|au jardin.
+{66529}{66557}Pourquoi par là ?
+{66562}{66592}Ça va aller.
+{66604}{66649}Tu te sens bien ? Vraiment ?
+{66659}{66704}On te montera un plateau...
+{67469}{67512}Vous vouliez me voir...
+{67544}{67592}Je vais calmer ce chien.
+{67622}{67669}Allez, couché !
+{67819}{67854}Vous vous trompez...
+{67897}{67952}J'ai la mémoire des visages.
+{67969}{68017}Si c'est tout je m'en vais...
+{68021}{68128}Ne partez pas ! Vous vous|servez de moi. C'est ignoble.
+{68133}{68201}Quel mal je vous ai fait ?|C'est un jeu ?
+{68206}{68241}Non, les affaires.
+{68246}{68323}Tout ça ne me concerne pas...
+{68328}{68363}Vous n'avez pas de chance.
+{68368}{68461}Comment pouvez-vous briser|la vie d'une femme !
+{68493}{68566}Je devrais ne pas vous reconnaître ?
+{68576}{68668}Ceux qui m'emploient|me font vivre...
+{68673}{68766}Je prends ce que je peux.|Je veux arriver...
+{68783}{68856}Il n'y a pas de nom|pour me qualifier...
+{68868}{68921}ni assez de mépris, je sais.
+{68926}{68971}N'ont-ils pas de pitié ?
+{68976}{69011}Les Hornblower en ont-ils ?
+{69018}{69051}Je n'en suis pas !
+{69058}{69101}Vous en mettrez au monde.
+{69106}{69181}Laissez-moi !|Je suis heureuse ici...
+{69188}{69221}Soyez bon !
+{69271}{69316}N'essayez pas de m'avoir.
+{69321}{69441}J'ai eu une vie si difficile !|Je vous en supplie !
+{69456}{69516}Vous feriez ça à une amie ?
+{69523}{69563}Écoutez Mme Chloé...
+{69573}{69651}Dans cette affaire|vous n'êtes qu'un pion.
+{69656}{69726}Ne vous faites pas|une ennemie de moi.
+{69731}{69826}La vie m'a donné des armes.|Je sais mordre !
+{69836}{69863}J'aime mieux ça !
+{69868}{69966}Je préfère les menaces|aux lamentations. Allez-y !
+{69978}{70028}Voici de l'argent.|Tout ce que j'ai !
+{70033}{70093}Prenez-le et sortez-moi de là !
+{70138}{70236}Vous vous trompez d'adresse.|Pas avec moi...
+{70241}{70293}Vous êtes une sale brute.
+{70303}{70391}Une brute cruelle et lâche !
+{70398}{70476}Tous les moyens vous sont bons !
+{70481}{70541}Je deviens folle|et vous vous en moquez !
+{70548}{70591}Ça suffit. C'est inutile...
+{70596}{70713}Ce que je subis, je le souhaite|à toutes celles de votre famille.
+{70718}{70828}Elles verront ce que c'est !
+{70838}{70936}Vous êtes un lâche !|Un ignoble lâche !
+{70951}{70998}Vous n'êtes pas un homme !
+{71023}{71111}Vous êtes magnifique !|La colère vous va bien.
+{71136}{71216}Que puis-je vous offrir|pour avoir la paix ?
+{71296}{71386}Écoutez, il faut en finir...
+{71398}{71513}Je ne veux rien de vous et je vous|humilierai le moins possible...
+{71721}{71761}Qu'est-ce que tu fais là ?
+{71766}{71843}Je te cherchais...|Tu parlais à quelqu'un ?
+{71876}{71953}Je vais aller m'étendre.|Je n'en peux plus. Ma tête éclate !
+{71958}{72003}Il fait froid ici, viens.
+{72178}{72246}D'où te viennent ces migraines ?
+{72268}{72306}Tu en as souvent...
+{72311}{72408}Je ne sais pas.|Je vais avoir un enfant Charlie.
+{72488}{72513}Tu es heureux ?
+{72518}{72578}Bien sûr ! Tu penses !
+{72583}{72678}Ça me semble si extraordinaire !|Le vieux va être content.
+{72683}{72731}- Ne dis rien encore.|- Entendu.
+{72738}{72813}Désolé de te voir souffrir.|Embrasse-moi...
+{72843}{72923}- Tu as l'air épuisée.|- Mais non !
+{72953}{73001}Tu es heureux avec moi ?
+{73033}{73058}Qu'est-ce que tu en penses ?
+{73063}{73131}Et si on te disait du mal de moi ?
+{73151}{73203}Tu penses encore aux Hillcrist ?
+{73258}{73333}Qu'est-ce que cette femme|avait dans l'esprit ?
+{73348}{73423}J'ai failli lui dire|son fait aujourd'hui !
+{73431}{73461}Tout ça me bouleverse.
+{73466}{73526}Ils me le paieront !
+{73551}{73581}Je ne veux pas !
+{73593}{73646}Dis à ton père de céder...
+{73678}{73711}Et pourquoi ?
+{73786}{73816}Dis-moi Chloé,
+{73868}{73908}qu'est-ce que cache tout ça ?
+{73913}{73943}Qu'est-ce que tu veux dire ?
+{73948}{74048}Tu as l'air vraiment affolée.|Viens, assieds-toi.
+{74058}{74161}Crois-moi. Dans six mois|nous serons débarrassés de ces gens.
+{74166}{74221}Leur baraque sera invivable.
+{74228}{74298}Nous planterons|nos cheminées devant.
+{74308}{74346}Ils seront enfumés !
+{74361}{74416}Cette poseuse filera !
+{74421}{74518}Sans elle nous tiendrons|notre place ici.
+{74528}{74588}Il faut tenir bon et faire vite !
+{74648}{74691}Mais calme-toi sinon...
+{74806}{74846}Repose-toi, c'est tout.
+{74851}{74963}Tu n'as pas encore dîné ?|Vas-y ! Je vais me coucher.
+{75013}{75061}Ne cesse pas de m'aimer...
+{75071}{75103}Sûrement pas.
+{75683}{75746}Cette vente a été pénible...
+{75753}{75781}Pas de notre fait !
+{75788}{75863}Mon père doit se défendre.
+{75868}{75898}J'ai honte pour lui.
+{75903}{76008}Vous ne comprenez pas.|Il est sûr d'agir en bienfaiteur.
+{76013}{76073}Nous sommes sûrs|qu'il est malfaisant !
+{76121}{76156}Les plus capables survivront !
+{76163}{76196}En est-il un ?
+{76203}{76236}Il me semble, non ?
+{76267}{76312}Vous êtes venu me dire ça ?
+{76380}{76490}Associons-nous pour faire|cesser cette histoire...
+{76495}{76530}Je n'en ai pas envie.
+{76565}{76597}Serrons-nous la main.
+{76602}{76650}Le combat rend amer.
+{76672}{76730}- Je ne le suis pas.|- Ça viendra !
+{76735}{76762}Pourquoi ?
+{76777}{76805}Oui Chloé ?
+{76847}{76890}L'attitude de votre mère...
+{76945}{76970}Ce snobisme.
+{77002}{77065}Parce qu'elle n'est pas|de votre monde !
+{77070}{77100}Taisez-vous !
+{77212}{77315}Père a raison.|L'insolence de votre mère hier...
+{77320}{77380}les a rendus furieux|lui et Charlie !
+{77475}{77510}Et vous sifflez !
+{77590}{77625}Vous m'avez assez vu ?
+{77667}{77692}Très bien.
+{77735}{77772}Serons-nous amis un jour ?
+{77777}{77805}Jamais.
+{77830}{77887}C'est si triste.
+{77892}{77932}C'est la vie.
+{77952}{77990}À nous de la changer !
+{78020}{78050}Pas de sermons !
+{78057}{78137}Mais non, je veux|seulement être amical.
+{78147}{78190}Soyez sincère d'abord !
+{78195}{78227}Mais où est le beau rôle ?
+{78232}{78315}Il n'y en a pas.|C'est chacun pour soi !
+{78320}{78347}Pourquoi pas ?
+{78362}{78410}Ce que vous êtes...
+{78417}{78442}Cynique ?
+{78517}{78602}"Chacun pour soi ! "Ce n'est pas|le slogan de votre père ?
+{78617}{78675}Et il ajoute|"Il faut gagner haut la main !"
+{79507}{79592}Ça peut se terminer par un procès.
+{79597}{79637}Vous êtes affirmatif ?
+{79650}{79685}Absolument.
+{79710}{79752}J'ai une preuve.
+{79860}{79892}Veuillez me suivre.
+{80167}{80205}J'ai amené mon ami.
+{80217}{80255}Est-ce que Hornblower viendra ?
+{80260}{80345}J'ai dû lui envoyer|un second message.
+{80372}{80410}M.Hillcrist est là ?
+{80442}{80480}Je ne lui ai rien dit.
+{80522}{80615}Mon ami attendra à côté.|On l'appellera au bon moment.
+{80625}{80665}Je vous en prie.
+{80975}{81032}J'ai préparé un contrat...
+{81065}{81155}Le Centry nous sera cédé|pour 4500 livres.
+{81195}{81305}Si Hornblower se laisse faire|ça lui coûtera 6000 livres !
+{81312}{81360}Il vous en gardera rancune !
+{81367}{81442}Si les choses tournent mal...
+{81450}{81545}Avec lui tout est possible.
+{81560}{81607}Il vous le fera payer.
+{81612}{81652}S'il signe, nous ne pourrons...
+{81657}{81690}Non ! Bien sûr !
+{81795}{81837}Je n'en veux pas à cette femme.
+{81852}{81945}Malheureusement|ça retombera sur elle...
+{82022}{82060}Je le suppose.
+{82202}{82242}C'est sa voiture.
+{82257}{82325}Plus bruyante que les autres !
+{82357}{82435}N'essayez pas de noyer le poisson...
+{82455}{82547}Le Centry n'est pas vital pour lui|s'il lui échappe.
+{82552}{82605}Il sauvera les meubles !
+{82797}{82860}Que veulent dire ces lettres|que je reçois ?
+{82865}{82925}Parlons-en sans témoins !
+{82930}{82995}M.Dawker en sait autant que moi.
+{83000}{83055}Vraiment ? Très bien !
+{83082}{83165}D'après vous,|ma belle-fille m'a menti ?
+{83180}{83237}Alors ? Parlez...
+{83250}{83325}Si ce que vous avez à dire|est la vérité...
+{83337}{83370}vous lui direz en face !
+{83377}{83462}Vous en déciderez|quand vous saurez.
+{83472}{83525}Nous le répéterons devant elle.
+{83557}{83607}Nous ne lui en voulons pas.
+{83622}{83652}Vraiment ?
+{83697}{83755}Quels ragots vous avez entendus ?
+{83770}{83872}Ou qu'est-ce que vous avez inventé|vous et votre Dawker ?
+{83887}{83990}Vous savez qu'il y a des lois|contre la diffamation...
+{84022}{84080}Vous connaissez celles du divorce ?
+{84085}{84115}Non ! Quel rapport ?
+{84120}{84225}L'adultère doit être prouvé.|On crée des situations...
+{84230}{84270}Je sais ! C'est scandaleux...
+{84275}{84385}Le mari se fait prendre|à l'hôtel avec une femme.
+{84420}{84490}Désolée de vous dire|que votre belle-fille...
+{84494}{84606}avant son mariage|était employée pour jouer ce rôle.
+{84616}{84659}Exact ! J'ai des preuves.
+{84731}{84774}Je n'en crois rien.
+{84791}{84846}Vous mentez pour vous en sortir !
+{84861}{84924}Oser dire de telles horreurs !
+{84964}{84994}Je porterai plainte !
+{85001}{85099}L'homme qui m'accompagnait hier|l'a employée...
+{85111}{85194}C'est intolérable !|Une conspiration !
+{85221}{85259}Allez la chercher.
+{85294}{85344}C'est une honte !
+{85359}{85394}Une infâme calomnie...
+{85401}{85466}C'est facile à prouver.|Qu'elle vienne !
+{85524}{85549}J'y vais.
+{86061}{86174}Maintenant mettons en pièces|cette honteuse histoire.
+{86379}{86409}Quelle histoire ?
+{86459}{86541}Ils disent|qu'avant ton mariage tu...
+{86566}{86614}Comment dire une telle horreur !
+{86619}{86649}Continuez.
+{86679}{86759}Tu allais avec des hommes...
+{86764}{86821}qui voulaient divorcer !
+{86839}{86894}- Qui l'a dit ?|- Cette femme...
+{86911}{86951}et son valet !
+{86956}{86989}C'est peu charitable.
+{86994}{87024}C'est vrai ?
+{87086}{87124}À genoux devant elle !
+{87266}{87306}Alors Mme Vane ?
+{87366}{87401}Je ne vous connais pas.
+{87406}{87484}Pourtant vous m'avez reconnu|hier...
+{87496}{87569}Après trois ans !
+{87574}{87624}Je ne vous connais pas !
+{87631}{87724}Je vais rafraîchir votre mémoire.|Il y a trois ans...
+{87746}{87854}Le 3 Octobre, Mme Vane et M.Seale,|Hôtel Bewley, 20 livres...
+{87889}{87946}10 Octobre, idem, 20 livres...
+{87966}{88034}Mes comptes sont en ordre.|Vous pouvez voir.
+{88081}{88116}C'est faux ! Des mensonges !
+{88121}{88189}- On ne vous veut aucun mal.|- Qu'il sorte !
+{88221}{88281}- Tu t'es appelée Vane ?|- Jamais !
+{88934}{89009}Ne dites rien à Charlie !
+{89716}{89759}Je suis anéanti.
+{89804}{89856}Va m'attendre dans la voiture.
+{90256}{90359}Qu'est-ce que vous exigez|pour ce secret ?
+{90486}{90511}Rien.
+{90551}{90581}Vraiment ?
+{90601}{90694}Vous avez manigancé tout ça...|pour rien ?
+{90701}{90796}Nous ne vous ferons de tort|que si vous gardez le Centry.
+{90801}{90881}Pour lequel j'ai payé 9500 livres !
+{90886}{90921}- Nous le rachèterons.|- Au même prix ?
+{90926}{90989}À celui fixé par Mlle Mullins.
+{90994}{91099}Vous nous avez parlé|de 4500 livres.
+{91106}{91211}Et moi j'en serais|de 6000 livres de ma poche ?
+{91274}{91366}Je le garderai.|Envers et contre tous !
+{91419}{91471}Vous n'oserez jamais parler !
+{91476}{91534}Nous agirons à notre guise.
+{91576}{91664}Cet entretien n'a eu aucun témoin...
+{91774}{91809}Vous alors...
+{91856}{91911}vous êtes une femme intelligente !
+{91986}{92081}Jurez-vous,|par Dieu Tout-Puissant...
+{92104}{92226}que votre famille|et votre homme à tout faire...
+{92244}{92339}vous ne soufflez mot|à qui que ce soit ?
+{92344}{92429}Oui... si vous cédez.
+{92626}{92654}Où est Dawker ?
+{92970}{93025}Vous avez tout préparé ?
+{93133}{93205}Une vraie conspiration !
+{93273}{93313}Vous avez une Bible ?
+{93328}{93393}- Ma parole suffira.|- Comment !
+{93420}{93493}Avec vous les choses|doivent être en règle !
+{93535}{93575}Bien. Où est la Bible ?
+{93685}{93733}Acte de cession de Centry:
+{93745}{93843}Vendu par Mlle Mullins devient|propriété de John Hillcrist.
+{93855}{93943}Vous cédez ladite propriété...
+{93948}{93995}pour la somme de 4500 livres.
+{94000}{94108}En considération de ladite somme|vous acceptez, par la présente...
+{94113}{94213}de faire cession, etc.|Je servirai de témoin.
+{94705}{94768}Pour le serment, ajoutons...
+{94785}{94853}tant que les Hornblower|ne nuiront pas...
+{94920}{94995}Tenez-la tous les deux.
+{95040}{95070}Ensemble !
+{95095}{95125}Je jure...
+{95183}{95243}Je jure, par Dieu Tout-Puissant...
+{95295}{95353}de ne jamais souffler mot...
+{95405}{95488}en ce qui concerne|Chloé Hornblower...
+{95528}{95608}à qui que ce soit.
+{95685}{95773}Tant que les Hornblower|ne nous nuiront pas.
+{96245}{96288}Elle a l'air absolument perdue !
+{97293}{97315}Qu'est-ce qu'elle a fait ?
+{97320}{97468}Elle s'est mariée avec Charlie|sans lui dire d'où elle venait !
+{97518}{97565}Un monde si répugnant ?
+{97570}{97613}Je ne sais pas.
+{97620}{97685}Certains peuvent s'en préserver,|d'autres non.
+{97698}{97743}Je ne sais pas ce qu'elle est.
+{97748}{97828}Une chose est sûre.|Elle aime Charlie !
+{97835}{97878}Tout ça est affreux !
+{97883}{97978}Elle est terrifiée, désespérée...
+{98055}{98108}Je ne me sens pas à mon aise|ici, ce soir...
+{98113}{98210}J'ai toujours ignoré la haine.|Elle anéantit tout.
+{98215}{98310}Mère est contente d'elle|et Dawker triomphe !
+{98330}{98398}Je me méfie de lui...|Il est trop...
+{98430}{98548}trop agressif. Et l'autre !|Il est répugnant...
+{98553}{98585}Il l'est !
+{98590}{98658}Il acculerait Chloé|au suicide sans remords !
+{98663}{98710}Ne dis pas ça.
+{98723}{98755}Et maman...
+{98765}{98798}Qu'est-ce que c'est ?
+{98803}{98833}J'ai entendu...
+{98845}{98883}Il y a quelqu'un ?
+{99015}{99043}Entrez...
+{99058}{99090}Nous sommes seuls !
+{99315}{99343}Bonsoir.
+{99360}{99395}Voulez-vous vous asseoir ?
+{99420}{99470}Vous tremblez ?
+{99898}{99943}Qu'est-ce que je peux faire pour vous ?
+{99948}{100023}C'est au-dessus de mes forces !|Il va venir !
+{100028}{100050}Qui ?
+{100055}{100088}Mon mari.
+{100110}{100203}Il veut savoir.|Il soupçonne un secret...
+{100210}{100268}Soyez tranquille.|Nous ne dirons rien.
+{100273}{100395}Non ! Il faut trouver une réponse|pour l'apaiser...
+{100435}{100540}Je suis coupable envers lui !|Je le sais maintenant...
+{100570}{100643}C'était si merveilleux|de le rencontrer...
+{100648}{100693}après tant d'épreuves !
+{100720}{100763}Je ne suis pas corrompue.
+{100770}{100803}Je le jure !
+{100885}{100938}Mon père a fait faillite...
+{100949}{100997}et j'ai travaillé jusqu'à...
+{101019}{101094}Je n'ai rien fait de mal.
+{101109}{101149}Je veux dire...
+{101172}{101239}Il fallait que je gagne ma vie.
+{101267}{101317}Et j'ai rencontré Charlie...
+{101349}{101399}Il a eu des égards...
+{101414}{101482}J'en ai éprouvé un tel réconfort !
+{101504}{101537}Et puis...
+{101602}{101682}je suis tombée amoureuse de lui.
+{101704}{101814}Si j'avais pu imaginer|j'aurais renoncé !
+{101834}{101869}Mais comment savoir ?
+{101879}{101952}C'était le salut à portée de main !
+{101959}{102002}Bien sûr, je comprends...
+{102009}{102119}Je tremble depuis le début|de cette querelle.
+{102124}{102244}Je sentais une menace dans l'air|sans la définir...
+{102264}{102299}Quelque chose de pesant...
+{102304}{102352}Et puis tout a éclaté.
+{102382}{102429}Je paie mes erreurs.
+{102437}{102492}C'est terrible, je vous assure !
+{102497}{102617}Je n'aurais pas de honte|si ce n'était pas pour lui...
+{102649}{102732}Il ne me pardonnera jamais !
+{102769}{102807}Je l'aime
+{102822}{102894}et c'est le plus affreux|de tout ce que j'ai vécu !
+{102899}{102939}Et pourtant...
+{103032}{103082}Il ne faut pas qu'il sache papa...
+{103087}{103147}Il se doute de quelque chose.
+{103152}{103237}Un mari qui a des soupçons|veut savoir...
+{103244}{103279}Et Charlie plus que les autres !
+{103284}{103362}Il est jaloux ! Il va venir...
+{103404}{103459}Que dire pour le calmer ?
+{103464}{103499}C'est difficile...
+{103504}{103577}Je vous en prie !|Je suis désemparée.
+{103582}{103672}Il m'a tant gâtée.|Et il m'aime.
+{103692}{103784}S'il me rejette, je suis perdue.
+{103792}{103834}Vous avez une idée ?
+{103839}{103914}Il faut trouver|une chose positive...
+{103922}{103977}qu'il puisse croire.
+{104014}{104127}Comme une affaire d'argent|peut-être...
+{104134}{104174}Je lui ferai croire !
+{104179}{104232}Oui, c'est ça !
+{104237}{104297}C'est une idée...|N'est-ce pas ?
+{104339}{104394}C'est abominable !
+{104409}{104457}Un chagrin contre un autre !
+{104462}{104557}De toute façon ce sera terrible...|Je suis malheureuse !
+{104602}{104702}Si vous saviez|ce que c'est que la boue !
+{104707}{104789}Oui, je peux vous comprendre.
+{104799}{104892}Je serai le dernier à vous juger.|Allons, courage...
+{104897}{104962}Quelqu'un ! Je m'en vais.
+{104994}{105024}La porte ! J'oubliais...
+{105224}{105262}Charles Hornblower, monsieur...
+{105269}{105289}Ma femme est ici ?
+{105322}{105372}- Elle est venue ?|- Ce matin.
+{105397}{105432}Je le savais !
+{105522}{105554}Qu'est-ce qu'elle vous a dit ?
+{105559}{105584}J'étais absent.
+{105589}{105644}N'éludez pas ma question !
+{105649}{105677}Dois-je sortir ?
+{105699}{105747}Asseyez-vous.
+{105794}{105882}Il paraît que M.Dawker,|mon agent...
+{105894}{105989}connaît une société|où travaillait votre femme.
+{106014}{106109}Je préférerais ne rien dire de plus.
+{106129}{106157}Parlez !
+{106169}{106262}S'il s'agissait de ma femme|ça me suffirait...
+{106269}{106304}Vous insistez ?
+{106319}{106379}Je crois qu'il est question|de comptabilité...
+{106384}{106492}Votre femme n'en a rien dit|et nous n'y croyons pas.
+{106529}{106567}Menteur !
+{106614}{106644}Vous osez !
+{106709}{106779}Pas d'histoires !|Je connais la vérité !
+{106789}{106849}Que vous a dit ma femme ?
+{106864}{106947}Elle ment !|Elle m'a menti trois ans...
+{106987}{107032}Si elle n'ose pas avouer|c'est fini !
+{107074}{107112}Et elle porte mon enfant !
+{107127}{107197}Un peu de pitié.|Elle est désespérée...
+{107204}{107259}- Et moi ?|- Elle vous aime.
+{107264}{107289}La belle affaire !
+{107309}{107394}Cette canaille de Dawker|m'a tout dit ! C'est horrible !
+{107399}{107492}Je suis bouleversé|que nous en soyons arrivés là.
+{107582}{107622}Ma vie est brisée.
+{107654}{107694}Vous préféreriez ne rien savoir ?
+{107784}{107804}Je ne sais pas.
+{107834}{107874}Le mal est fait, par vous.
+{107912}{107949}Vous avez commencé !
+{107967}{107999}Ce n'était rien...
+{108004}{108032}C'était trop !
+{108057}{108097}Que faire maintenant ?
+{108107}{108149}Où est ma femme ?
+{108432}{108469}Elle est venue ici ?
+{108522}{108612}J'ai peur papa. On n'aurait|pas dû la laisser seule.
+{108624}{108727}Je l'ai vue écouter.|Qui sait où elle est allée !
+{108739}{108809}Va à la sablière,|je vais à l'étang.
+{108834}{108864}Allons ensemble...
+{109208}{109258}Qu'on aille chercher Dawker.
+{109306}{109348}Il est là, il attend.
+{109353}{109431}Faites-le entrer|et dites aux Jackman
+{109436}{109478}de rentrer chez eux.
+{110028}{110076}Charlie sait tout ?
+{110091}{110193}Il est venu, j'ai dit|que je ne savais rien...
+{110198}{110228}Il dit être au courant.
+{110236}{110268}Il a commencé à me menacer...
+{110273}{110321}J'ai craqué ! J'ai tout dit !
+{110326}{110443}C'est grave. Nous avions promis.|Mon mari est bouleversé !
+{110448}{110548}Ce n'est pas ma faute !|Il m'a poussé à bout.
+{110563}{110633}Le scandale a déjà éclaté...
+{110638}{110708}On en parle... Ils ne savent pas...
+{110726}{110771}mais des bruits courent.
+{110783}{110816}Ils devront partir.
+{110833}{110913}Tout vaut mieux|que de les avoir pour voisins !
+{110918}{110953}Peut-être.
+{110983}{111006}Gardez ça Dawker...
+{111011}{111098}Ils sont désespérés... Je me demande|ce que va faire mon mari...
+{111103}{111141}Quand il s'y met !
+{111253}{111281}Attendons !
+{111311}{111371}J'en ai assez entendu !
+{111591}{111691}Donnez-moi ce contrat !|Vous l'avez obtenu par fraude !
+{111698}{111773}Vous avez juré de ne rien dire...
+{111778}{111888}Votre fils lui a arraché la vérité|sous la menace !
+{111898}{111953}Je vais vous faire jeter dehors !
+{111958}{112046}Donnez-moi ce contrat !|Vous l'avez !
+{112573}{112616}Aide-moi Jill ! Du cognac !
+{112641}{112733}N'approchez pas.|Je ne veux rien accepter de vous !
+{112891}{112926}Porte-la dans la voiture.
+{113273}{113366}Vous m'avez roulé jusqu'au bout !
+{113396}{113446}Déshonoré !
+{113481}{113546}Vous avez brisé|la vie de mon fils.
+{113573}{113611}Vous avez tué...
+{113656}{113691}mon petit-fils.
+{113738}{113801}Nous ne resterons pas ici.
+{113833}{113886}Mais où que je sois,
+{113898}{113956}je vous poursuivrai tous
+{113961}{113998}de ma malédiction !
+{114058}{114116}Je le jure !
+{114196}{114256}Compte tenu de ce qui s'est passé
+{114303}{114383}je regrette profondément...
+{114516}{114553}Hypocrite !
+{115791}{115828}Les Jackman...
+{115918}{115991}Nous sommes contents|de pouvoir rester...
+{116033}{116086}Nous voulions vous remercier.
+{116236}{116263}Merci.
+{116293}{116321}Merci bien...
+{116378}{116403}Bonsoir !
+{116793}{116833}Je les avais oubliés...
+{116881}{116971}Ce qui semble perdu|dans un combat
+{116988}{117053}ne l'est pas|toujours définitivement.
+{117073}{117181}Commencé loyalement,|il finit en jeu de dupes.
+{117268}{117343}Hier nous avions|les mains nettes...
+{117398}{117446}Et aujourd'hui ?
+{117492}{117547}Que valons-nous donc...
+{117572}{117615}si nous sommes
+{117622}{117647}si vulnérables ?

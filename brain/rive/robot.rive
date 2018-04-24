@@ -11,42 +11,46 @@
 ^ Tu veux vraiment savoir ce que <star> veut dire ? {topic=whats_a_bot}
 - C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
 ^ drole d'être <star>. Tu veux que je te racontes ce que c'est une vie\s
-^ <star> ?{topic=whats_a_bot}
+^ de <star> ?{topic=whats_a_bot}
 
 // Alan make a bad joke
 > topic whats_a_bot
 
- + [*](@like)[*]
+ + [*](@yes)[*]
+ % tu veux que je te racontes ce que c est
  - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
- ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
+ ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
  ^ {topic=joke}
 
- + [*](@dislike)[*]
+ + [*](@no)[*]
+ % tu veux que je te racontes ce que c est
  - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
  ^ un bourreau de travail\s
- ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
+ ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
  ^ {topic=joke}
 
- + [*](@like_dislike)[*]
+ + [*](@maybe)[*]
+ % tu veux que je te racontes ce que c est
  - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
  ^ un bourreau de travail\s
- ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
+ ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
  ^ {topic=joke}
 
  + *
+ % tu veux que je te racontes ce que c est
  - tu veux savoir ou tu veux pas savoir ?
 
- + [*](@like)[*]
+ + [*](@yes)[*]
  % tu veux savoir ou tu veux pas savoir
  - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
- ^ qui ne dort jamais et qui doit obeir et faire tout ce qu'on lui demande.
+ ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
  ^ {topic=joke}
 
- + [*](@like_dislike)[*]
+ + [*](@maybe)[*]
  % tu veux savoir ou tu veux pas savoir
  - tu es tétu comme un robot buggé.
 
- + [*](@like_dislike)[*]
+ + [*](@maybe)[*]
  % tu veux savoir ou tu veux pas savoir
  - Laisse tomber t'es trop compliqué pour moi.
 

@@ -1,0 +1,156 @@
+{407}{460}Je n'y vois rien...|Où sommes-nous ?
+{1198}{1242}Départ à 9h30 pour Key West.
+{1593}{1634}Je ne t'avais pas reconnue.
+{1663}{1730}Tu as pas mal changé, toi aussi.
+{1833}{1878}Ca a toujours été toi.
+{1883}{1931}Dans mon rêve...
+{2030}{2074}c'était toi.
+{2162}{2210}Je me souviens de toi comme ça.
+{2234}{2256}C'est vrai ?
+{2275}{2333}Il me semblait te connaître.
+{2395}{2457}Il me semble t'avoir toujours connu.
+{2731}{2776}J'ai peur !
+{3530}{3583}ON L'A FAIT
+{3600}{3660}- A quelle heure décolle votre avion ?|- 9h30.
+{3665}{3693}Ca va être juste.
+{3698}{3732}Juste ?
+{3744}{3782}Moi, j'ai 7h30.
+{3797}{3865}Un jour normal,|on aurait tout le temps.
+{3874}{3934}Mais aujourd'hui,|il faut compter
+{3941}{3989}avec l'Armée des Douze Singes.
+{4008}{4035}Qu'est-ce que vous dites ?
+{4040}{4102}Les 12 singes.|Vous écoutez pas la radio ?
+{4148}{4191}Une bande d'allumés a libéré
+{4195}{4229}les animaux du zoo.
+{4234}{4294}Et ils ont mis|un grand savant en cage.
+{4299}{4356}C'est son propre fils|qui a fait ça !
+{4380}{4442}Maintenant, il y a des bêtes partout.
+{4459}{4522}Des zèbres ont bloqué l'autoroute.
+{4526}{4579}Et un machin|qu'ils appellent un émeu
+{4586}{4675}a provoqué|un bouchon de plusieurs kilomètres.
+{4818}{4871}C'était ça leur projet :|libérer les animaux.
+{4875}{4943}Sur les murs...|"On l'a fait". Ils parlaient...
+{4947}{4983}Des animaux, oui.
+{5201}{5254}Tout va bien !
+{5350}{5434}Dites à votre personnel|de ne pas tenter de les arrêter.
+{5439}{5501}Qu'on nous alerte.|On a des hommes partout.
+{6171}{6238}- Je connais cet endroit !|- Les aéroports se ressemblent.
+{6284}{6313}C'est mon rêve.
+{6430}{6490}- Ta moustache !|- Et ce n'était pas qu'un rêve.
+{6527}{6590}J'étais ici...|Ca me revient, maintenant.
+{6630}{6719}Une ou deux semaines avant que...|Ies gens commencent à mourir.
+{6772}{6791}Attention !
+{6803}{6849}C'est peut-être nous|qu'ils cherchent.
+{6858}{6935}J'étais ici !|Quand j'étais petit.
+{6949}{7005}Et je crois que tu étais là,|toi aussi.
+{7060}{7165}S'ils nous reconnaissent, ce n'est pas|à Key West qu'ils nous enverront !
+{7256}{7307}Je vais aller la recoller.
+{7314}{7407}Je vais m'occuper des billets,|on se retrouve aux journaux.
+{7689}{7758}Judy Simmons.|J'ai deux réservations pour Key West.
+{8017}{8075}C'est pas courant, du liquide !
+{8080}{8108}C'est une longue histoire.
+{8112}{8160}Embarquement dans vingt minutes.
+{8165}{8223}Bon voyage, Mlle Simmons.
+{8453}{8549}Je ne sais pas si vous êtes là.|Peut-être que vous nettoyez des tapis.
+{8553}{8628}Si c'est le cas, tant mieux.|Je vous souhaite longue vie.
+{8632}{8690}Mais si c'est vous autres,
+{8695}{8772}oubliez les Douze Singes,|ça ne vient pas d'eux.
+{8776}{8820}C'est quelqu'un d'autre.
+{8824}{8899}Les 12 Singes sont des mômes|qui jouent les révolutionnaires.
+{9040}{9102}J'ai fait ce que vous attendiez de moi.
+{9112}{9170}Bonne chance.|Je ne reviendrai pas.
+{9203}{9318}San Francisco, La Nouvelle-Orléans,|Rio de Janeiro, Rome,
+{9330}{9407}Kinshasa, Karachi, Bangkok et Pékin !
+{9421}{9486}Quel périple !|Tout ça en une semaine ?
+{9491}{9524}Pour affaires.
+{9568}{9608}Bon voyage.
+{9960}{10032}Tu as un problème, Bob ?
+{10070}{10096}Foutez-moi la paix !
+{10116}{10168}J'ai fait un rapport.|J'étais pas obligé !
+{10173}{10212}Toujours est-il que...
+{10216}{10267}ta place n'est pas ici.
+{10271}{10343}Tu n'es pas autorisé à rester.
+{10352}{10400}C'est le présent.
+{10404}{10476}Ce n'est pas le passé.|Ce n'est pas le futur.
+{10483}{10507}C'est maintenant !
+{10539}{10589}Je reste ! Compris ?
+{10601}{10644}Vous ne m'en empêcherez pas !
+{10661}{10730}Pas de problème.|Ca me regarde pas.
+{11035}{11080}- Foutez-moi la paix !|- Du calme...
+{11085}{11121}Cole, c'est moi !
+{11169}{11203}José ?
+{11275}{11349}Pourquoi tu t'es arraché la dent ?|C'est dingue !
+{11363}{11409}Tiens... prends ça.
+{11414}{11471}- Pourquoi ? Tu es fou ?|- Moi ? Tu plaisantes ?
+{11476}{11519}C'est toi, le cinglé.
+{11531}{11579}Tu étais un héros,|ils t'avaient gracié !
+{11584}{11630}Tu reviens|et tu t'arraches la dent !
+{11634}{11711}- Comment vous m'avez retrouvé ?|- Le coup de fil !
+{11716}{11773}Ils ont fait leur reconstruction.
+{11826}{11905}Le coup de fil que je viens de passer ?|Il y a 5 minutes ?
+{11912}{11934}5 minutes,
+{11939}{12008}30 ans... Ils l'ont reconstitué.
+{12013}{12049}"C'est Cole.
+{12054}{12128}Je sais pas si vous êtes là|ou si vous nettoyez des tapis."
+{12133}{12162}D'où tu sors ça ?
+{12167}{12229}"Oubliez l'Armée des Douze Singes."
+{12253}{12320}Si seulement ils avaient eu|ton message plus tôt !
+{12327}{12380}Tu serais toujours le héros,|si tu coopérais !
+{12414}{12469}Viens, James. C'est bon.
+{12716}{12785}{y:bi}UN SAVANT|{y:bi}DANS LA CAGE DU GORILLE
+{13369}{13463}J'ai des ordres. Si tu refuses,|je dois flinguer la fille !
+{13484}{13506}Vu ?
+{13515}{13551}Ils l'ont dit !
+{13556}{13616}Fais pas de conneries !|Tu m'entends ?
+{13765}{13818}Tu vois ? J'ai pas le choix.
+{13822}{13866}J'ai des ordres !
+{13906}{13933}Prends-le !
+{14031}{14091}Il ne s'agit plus du virus, hein ?
+{14110}{14160}Il s'agit d'obéir aux ordres.
+{14168}{14204}De faire ce qu'on nous dit.
+{14208}{14271}Tu as une grâce,|que demander de plus ?
+{14295}{14359}Qui je dois flinguer ?
+{14400}{14446}L'assistant du Dr Goines...
+{14451}{14510}Je l'ai vu.|Je crois qu'il est dans le coup !
+{14516}{14607}Le vol pour San Francisco, Porte 38...|S'il y est, c'est sûr !
+{15002}{15076}Puis-je examiner|ce que contient votre sac ?
+{15086}{15129}On n'a pas le temps !
+{15295}{15346}Ce sont des cultures biologiques.
+{15365}{15411}J'ai tous les papiers.
+{15449}{15506}Je vais vous demander de l'ouvrir.
+{15518}{15542}L'ouvrir ?
+{15590}{15626}Mais bien entendu.
+{15658}{15744}C'est trop bien !|Regardez les avions !
+{15785}{15825}Faites la queue !
+{15840}{15869}Vous voyez ?
+{15873}{15931}Biologique. Vérifiez les papiers.
+{15943}{16005}Tout est en règle.|J'ai les autorisations.
+{16149}{16178}C'est vide !
+{16187}{16259}Bien sûr, ça semble vide, mais...
+{16297}{16337}je vous assure|que ça ne l'est pas.
+{16342}{16378}Vous ne comprenez pas !
+{16397}{16486}C'est grave ! Un homme roux|transporte un virus mortel !
+{16498}{16584}Vous voyez ?|lnvisible à l'oeil nu.
+{16661}{16716}Ca n'a même pas...
+{16743}{16769}d'odeur.
+{16781}{16812}Ce n'est pas nécessaire.
+{16831}{16891}C'est bon.|Merci de votre compréhension.
+{16896}{16932}Bon voyage.
+{17136}{17205}- Qui vous traitez de pauvre conne ?|- Vous !
+{17210}{17244}Pauvre conne ?
+{17354}{17383}Attendez !
+{17723}{17769}Elle est médecin-psychiatre !
+{17774}{17812}Le voilà !
+{17817}{17843}Il transporte un virus !
+{17860}{17913}Arrêtez-le !
+{17936}{17955}Police !
+{18374}{18403}Attention !
+{22048}{22081}C'est révoltant !
+{22098}{22160}Toute cette violence, cette folie...
+{22175}{22227}Des fusillades dans les aéroports !
+{22254}{22338}C'est nous, la prochaine espèce|en voie de disparition !
+{22345}{22388}L'espèce humaine.
+{22455}{22503}Vous avez raison.
+{22546}{22604}Vous avez mis le doigt dessus.
+{22671}{22717}Je m'appelle Jones.
+{22841}{22891}Je suis dans les assurances.

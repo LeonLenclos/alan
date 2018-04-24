@@ -1,6 +1,7 @@
 from chatterbot.logic import MultiLogicAdapter
 from collections import Counter
 from chatterbot.conversation import Statement
+import time
 
 class MainLogicAdapter(MultiLogicAdapter):
     """This is the main logic adapter."""
@@ -28,23 +29,21 @@ class MainLogicAdapter(MultiLogicAdapter):
         result_adapter = None
 
         for adapter in self.get_adapters():
+            output = None
             result_info = dict(logic_identifier=adapter.identifier,
                                logic_type=type(adapter).__name__)
+            start = time.time()
 
             if adapter.can_process(statement):
+
                 # get response
                 output = adapter.process(statement)
+
                 # add logic_identifier as extra_data
                 output.add_extra_data("logic_identifier", adapter.identifier)
                 # store result
                 result_info["confidence"] = output.confidence
                 result_info["text"] = output.text
-                # log
-                self.logger.info(
-                    '{} = "{}" (confidence : {})'.format(
-                        adapter.identifier, output.text, output.confidence
-                    )
-                )
                 # check if the sentence have been said
                 result_info["not_allowed_to_repeat"] = False
                 if not adapter.allowed_to_repeat:
@@ -63,12 +62,24 @@ class MainLogicAdapter(MultiLogicAdapter):
                     result_adapter = adapter
                     max_confidence = output.confidence
 
-            else:
-                # log
-                self.logger.info(
-                    '{} = Not processing'.format(adapter.identifier)
-                )
             results.append(result_info)
+
+            # timer
+            end = time.time()
+
+            # log
+            if output:
+                self.logger.info(
+                    '{} = time:{:.6} confidence:{}\ntext:"{}"'.format(
+                        adapter.identifier, end-start, output.text, output.confidence
+                    )
+                )
+            else:
+                self.logger.info(
+                    '{} = time:{:.6} NOT PROCESSING'.format(
+                        adapter.identifier, end-start
+                    )
+                )
 
         try:
             for adapter in self.get_adapters():

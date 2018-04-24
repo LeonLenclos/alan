@@ -29,20 +29,22 @@ class Alan(chatterbot.ChatBot):
     """
 
     name = "Alan"
-    version_infos = (1, 0, 1)
-    version = '.'.join(str(version_infos))
+    version_infos = ("1", "1", "0")
+    version = '.'.join(version_infos)
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
 
-    def __init__(self, settings_file="settings/base.json"):
+    def __init__(self, settings_files):
         """
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
         """
 
         # load settings
-        with open(settings_file, "r") as file:
-            settings = json.load(file);
+        self.settings = {}
+        for settings_file in settings_files:
+            self.load_settings(settings_file)
+
 
         # Alan age
         self.age = ""
@@ -76,17 +78,38 @@ class Alan(chatterbot.ChatBot):
         self.musique_generative = pygame.mixer.Sound("./ressources/musique_generative.wav")
 
         # init chatterbot
-        super().__init__(self.name, **settings)
+        super().__init__(self.name, **self.settings)
 
         # change from MultiLogicAdapter to MainLogicAdapter
         adapters = self.logic.get_adapters()[:-1]
-        self.logic = MainLogicAdapter(**settings, chatbot=self)
+        self.logic = MainLogicAdapter(**self.settings, chatbot=self)
         self.logic.adapters = adapters
+
+    def load_settings(self, settings_file):
+        """
+        Load settings from a file to the settings attribute
+        settings_file is a string, the name of the json file without extension
+        """
+        with open("settings/%s.json" % settings_file, "r") as file:
+            # load json
+            file_settings = json.load(file)
+
+            # loop keys
+            for k in file_settings:
+                # if import, do load_settings (recursive)
+                if k == 'import':
+                    for import_file in file_settings[k]:
+                        self.load_settings(import_file)
+                # else, add setting to self.settings
+                elif k in self.settings and type(self.settings[k]) == list:
+                    self.settings[k] += file_settings[k]
+                else:
+                    self.settings[k] = file_settings[k]
 
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
-        return "%s v%s\nBy %s" % self.name, self.version, self.author
+        return "%s v%s\nBy %s" % (self.name, self.version, self.author)
 
     def get_response(self, input_item, conversation_id=None):
         """
@@ -177,21 +200,26 @@ class Alan(chatterbot.ChatBot):
                 previous_statement.text
             ))
 
-        # Save the statement after selecting a response
 
 if __name__ == '__main__':
-    # enable logging (INFO) if alan.py is launched with the -v argument
+
+
+    # Arguments parsing
     ap = argparse.ArgumentParser()
-    ap.add_argument('-v', action='store_true', help="Verbose")
-    ap.add_argument('-t', action='store_true', help="Test")
+    ap.add_argument('-v', action='store_true', help="Mode verbose (depreciated)")
+    ap.add_argument('-t', action='store_true', help="Mode Test")
+    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["default"])
+
+    args = ap.parse_args()
+    settings_files = args.s
 
     # Mode verbose
-    if ap.parse_args().v:
+    if args.v:
         import logging
         logging.basicConfig(level=logging.INFO)
 
     # init Alan
-    alan = Alan()
+    alan = Alan(settings_files=settings_files)
 
     # Mode test
     if ap.parse_args().t:
@@ -199,6 +227,10 @@ if __name__ == '__main__':
         # locals()[TEST_MODULE].test(alan)
     else :
         # discussion loop
+        print("---------------")
+        print(alan.status())
+        print("---------------")
+
         while True:
             try:
                 print("> ", end="")
@@ -206,3 +238,5 @@ if __name__ == '__main__':
 
             except(KeyboardInterrupt, EOFError, SystemExit):
                 break
+
+        print("---------------")

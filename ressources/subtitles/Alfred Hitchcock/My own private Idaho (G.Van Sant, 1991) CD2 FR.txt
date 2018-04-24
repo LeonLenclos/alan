@@ -1,0 +1,492 @@
+{186}{275}Je ne me sens pas proche|de toi.
+{276}{338}On est proches.
+{343}{425}Là on est proches,|mais je veux dire...
+{427}{492}Euh...
+{493}{524}Vraiment proche ?|Je veux dire...
+{573}{626}Je ne sais pas.|Peu importe.
+{629}{672}Quoi ?
+{701}{775}Je suis quoi pour toi ?
+{777}{844}Tu es quoi pour moi ?
+{849}{895}Mike, tu es mon meilleur ami.
+{897}{962}Je sais mec. Et je... Je sais...|Je sais que je suis ton ami.
+{967}{1046}Nous sommes de bons amis.|Et c'est bon d'être, tu sais, de bons amis.
+{1048}{1094}C'est une bonne chose.
+{1144}{1190}Alors ?
+{1192}{1238}Alors je...
+{1350}{1408}C'est OK.
+{1446}{1489}On peut être amis.
+{1709}{1764}Je baise avec les mecs|que pour le fric.
+{1766}{1822}Oui, je sais.
+{1872}{1922}Deux mecs ne peuvent pas s'aimer.
+{1926}{1981}Oui.
+{1983}{2046}Je ne sais pas...|Je veux dire...
+{2048}{2098}Je veux dire pour moi...
+{2152}{2220}Je pourrai aimer quelqu'un|même si...
+{2224}{2268}j'étais pas payé pour.
+{2345}{2388}Je t'aime et...
+{2441}{2484}tu ne me paies pas.
+{2631}{2700}- Mike.|- J'ai vraiment envie de t'embrasser.
+{2820}{2863}Bonne nuit.
+{3074}{3117}Je t'aime
+{3215}{3258}Tu le sais.
+{3323}{3367}Je t'aime vraiment.
+{3418}{3474}D'accord. Viens là Mike.
+{3524}{3598}C'est comme...|Et puis merde...
+{3601}{3646}Faut dormir.|Allez.
+{4510}{4570}Oh merde !
+{4575}{4618}Oh merde ! Oh mec !
+{4622}{4684}On est bons.
+{4687}{4754}Elle démarre pas. Les flics arrivent.|On est coincés.
+{4759}{4826}Avec une moto volée.
+{4831}{4871}C'est la fin.
+{5023}{5098}- Qu'est-ce qu'il a ton ami ?|- Je ne sais pas.
+{5099}{5147}Je crois qu'il n'aime pas les flics.
+{5149}{5214}-Ah oui ?|- J'ai l'impression.
+{5241}{5305}Qu'est-ce que vous foutez là ?
+{5310}{5372}C'est l'enfer pour démarrer|cette moto.
+{5400}{5455}Vous n'y connaissez rien, hein ?
+{5457}{5522}- Vous n'êtes pas un motard.|- J'en ai fait démarrer.
+{5824}{5894}Réveille-toi Mikey. C'est passé.
+{6299}{6362}Regarde Mike, des sandwiches.
+{6427}{6471}Merci.
+{6521}{6583}Je t'ai montré ta photo|avec maman ?
+{6727}{6787}Elle a été prise à la prison.
+{6792}{6871}On y allait le week-end.
+{6873}{6964}Tu devais avoir un an.
+{6967}{7041}C'était l'horreur.
+{7117}{7196}Scott, un gosse si petit en prison ?
+{7197}{7267}- Pourquoi tu étais en prison ?
+{7269}{7327}- C'est ta question ?|- Je te le demande.
+{7355}{7442}A cause de maman.|Ils pensaient qu'elle était dangereuse.
+{7486}{7548}Mais on était quand même|une famille.
+{7553}{7608}Moi, toi...
+{7630}{7673}Et Maman.
+{8078}{8143}- Tu vas où ?|- Pisser.
+{8814}{8881}- Me raconte pas tes conneries !|- Dick ! Dick !
+{8885}{8938}- Je ne veux pas t'entendre !|- Dick ! Dick !
+{8943}{9012}- Ne me parle pas sur ce ton !|- Dick !
+{9457}{9534}Il va bien. Ça arrive à|chaque fois qu'on est ensemble.
+{9675}{9757}Tu veux boire ? Ça ?
+{10102}{10200}Ils te plaisent ?|Je gagne ma vie avec !
+{10240}{10338}Parfois je ne reçois pas|le chèque, alors je les garde.
+{10393}{10463}Je les aime bien.|Ils me tiennent compagnie.
+{10754}{10838}# Run free and sure 
+{10841}{10897}# No man can take 
+{10922}{11008}# This land from them 
+{11049}{11123}# I want you to know|the truth about your mother.
+{11147}{11226}Je veux que tu saches la|vérité sur ta mère.
+{11230}{11273}Je veux dire la vraie vérité.
+{11323}{11379}- Je sais.|- Tu ne sais pas.
+{11380}{11488}Tu veux vivre ta vie sur un mensonge ?
+{11490}{11550}C'est ça que tu veux ?
+{11580}{11625}Ecoute-moi|quand je te parle.
+{11697}{11796}Elle sortait chercher des hommes|quand je dormais.
+{11823}{11869}Elle faisait les bars.
+{11875}{11976}Elle remuait les fesses|pour tous ceux qui voulaient.
+{11978}{12035}Et elle a rencontré|un mec de Reno...
+{12038}{12117}Un enculé de cow-boy|joueur de merde.
+{12170}{12225}Il travaillait dans un casino|à Las Vegas.
+{12229}{12303}Il s'était fait virer.
+{12305}{12375}C'était une raclure.
+{12377}{12437}Mais ta mère l'aimait.
+{12440}{12485}Elle l'aimait.
+{12488}{12567}Elle s'était mis en tête de l'épouser...
+{12570}{12654}et de partir avec lui...|d'avoir une petite famille...
+{12655}{12735}et une maison avec une clôture blanche...
+{12739}{12790}Un chien, un break.
+{12792}{12854}et tout...
+{12857}{12914}Mais il n'a pas voulu l'épouser.
+{12918}{12963}Il ne l'aimait pas.
+{13004}{13057}C'est à cette époque|que tu es né.
+{13161}{13228}Elle avait un flingue.
+{13233}{13351}Un Smith & Wesson.38.
+{13354}{13448}Et elle aimait ce flingue. Elle aimait|ce flingue. Elle dormait même avec.
+{13451}{13535}Elle touillait les légumes|avec le flingue chargé.
+{13540}{13591}Je me souviens, je lui disais|"Sharon, qu'est-ce que tu fais ?"
+{13593}{13636}"Tu touilles les légumes avec|ton flingue ?"
+{13641}{13713}"Tu vas faire un trou|dans la poêle"
+{13763}{13837}Un soir elle va au drive-in...
+{13840}{13883}avec cet enculé de cow-boy.
+{13936}{14032}C'était quoi ce film ?|Le titre ?
+{14034}{14087}- C'était un western.|- Rio Bravo ?
+{14089}{14135}Oui, Rio Bravo.|Avec John Wayne.
+{14214}{14267}Pendant le film...
+{14269}{14324}elle sort le flingue,|elle lui fout dans la bouche...
+{14327}{14375}et elle lui fait sauter la cervelle.
+{14422}{14482}Rio Bravo à l'écran.
+{14485}{14598}John Wayne sur son cheval dans le désert.
+{14642}{14740}Du pop-corn sur le siège avant|qui s'imbibe de sang.
+{14741}{14809}C'est pas vrai !
+{14813}{14866}Alors elle a dû partir.
+{14955}{15010}Et ce mec,
+{15054}{15116}ce mec est ton vrai père.
+{15182}{15244}Arrête de me prendre la tête !
+{15249}{15328}Je sais la vérité !|Je sais qui est mon père !
+{15331}{15379}Qui c'est ? Qui ?
+{15382}{15463}- Qui ?|- Toi Dick !
+{15468}{15566}Richard, tu es mon père.|Je le sais.
+{15698}{15756}Tu en sais trop.
+{15951}{16009}Elle ne voulait pas me voir comme ça.
+{16214}{16300}Elle m'a envoyé ça|il y a quelques mois.
+{16302}{16389}Tu as foutu du vent.|Tu t'es coupé ?
+{16391}{16439}Crétin.
+{16441}{16552}"Chéri, trouvé un job au bar|du Family Tree à Snake River.
+{16577}{16656}Si tu passes viens me voir,|baisers, maman."
+{16658}{16714}"Chambres, téléphones, télé couleur.
+{16717}{16787}"Moquette, chauffage individuel,|baignoires...
+{16788}{16874}douches, tables de bridge -"
+{16877}{17004}"et deux fauteuils,|avec chambres communicantes..."
+{17006}{17107}Chouette...|J'aimerais bien y vivre.
+{17339}{17419}Je vais aller la voir.
+{17844}{17897}Sharon. Sharon.
+{17899}{17978}Il y a eut une Sharon qui a travaillé ici|il y a un an environ, mais elle s'est tirée.
+{17981}{18040}Elle a économisé pour aller en Italie.
+{18068}{18123}- en Italie ?|- Oui, l'Italie.
+{18126}{18171}Elle y a mis le temps...
+{18176}{18236}mais finalement elle a pris l'avion
+{18241}{18306}Elle cherchait sa famille.|Elle devait être italienne.
+{18310}{18394}Pourtant, elle n'avait pas l'air italien.|Elle a laissé cette adresse.
+{18400}{18489}Sharon Waters, Via Casoli, Settevene...
+{18493}{18591}R- Rome - Rome ? Rome.|Elle est à Rome, en Italie.
+{18593}{18637}- Le mec est là.|- Quel mec ?
+{18641}{18684}Celui qui nous a emmenés à Portland.
+{18689}{18732}- Ah oui. C'est quoi son nom ?|- Qu'est-ce qu'il fait ici ?
+{18738}{18781}- Je ne sais pas. C'est pas Hans son nom ? Hans ?|- Hans.
+{18879}{18951}Scott. Mike.
+{18953}{19006}- Hey.|- Ça fait plaisir de vous revoir.
+{19008}{19063}- Comment ça va ?|- Gut.
+{19103}{19160}A tout à l'heure.
+{19165}{19208}407.
+{19353}{19409}Mike ?
+{19413}{19480}- Quoi ?|- Je suis extrêmement excité.
+{19486}{19537}Je viens d'entrer.|Tu peux pas entendre ?
+{19562}{19624}Tu ne veux rien manger Mike ?
+{19629}{19713}- On va se faire servir ici
+{19715}{19799}Quatre portions de frites...
+{19802}{19857}et du coca.
+{19859}{19902}Et c'est tout.
+{19907}{19986}Ce sera quatre portions de frites...
+{19989}{20032}et un grand coca.
+{20037}{20130}- C'est correct Mike ?|- Ja. Ja. Ja.
+{20134}{20208}Merci beaucoup Mike.|Merci.
+{20209}{20255}- Merci.|- A bientôt.
+{20257}{20296}- Quoi ?|- A bientôt.
+{20300}{20334}Oui, bien.
+{20382}{20428}Je dois te montrer|quelque chose.
+{20500}{20546}Ma mère.
+{20583}{20660}Paix à son âme,|elle est morte il y a sept ans.
+{20684}{20732}Elle est très belle.
+{20737}{20780}Je trouve.
+{20785}{20840}Tu veux la voir ?
+{20944}{21018}Elle te ressemble.
+{21020}{21082}Merci.
+{21083}{21141}Voyons
+{21147}{21200}Avant de vendre des pièces détachées...
+{21231}{21286}pour voiture...
+{21288}{21331}J'étais comédien.
+{21336}{21384}Formidable,|la scène -
+{21387}{21432}Vas-y.
+{21434}{21486}- Oui ? Vous aimeriez ? OK.|- Oui.
+{21490}{21550}Faisons de la place.
+{21554}{21619}On éteint les lumières.
+{21648}{21693}On met la musique.
+{22786}{22872}- # Oh, assis sur une balle |- # Oh, assis sur une balle
+{22911}{22964}#Pensées de pouvoir
+{23010}{23058}#A chaque heure
+{23153}{23186}Whoo !
+{23214}{23262}# Etre dans l'espace 
+{23300}{23355}# Contrôler le monde 
+{23393}{23451}# Avec un nouveau visage
+{23453}{23501}# Visage, visage, visage 
+{23590}{23628}# Berlin 
+{23633}{23727}# New York, Moscou
+{23753}{23799}# Tokio 
+{23878}{23921}Eh bien-
+{23947}{24005}Merci beaucoup.|Ça faisait longtemps.
+{24037}{24090}Dites-moi.
+{24092}{24176}Comment vous êtes arrivés en Idaho ?
+{24179}{24236}Vous étiez à Portland il |y a deux jours, non ?
+{24242}{24295}Sur notre fidèle moto.
+{24297}{24388}Qu'est-ce qui vous amène|dans ce bel hôtel ?
+{24390}{24443}- Des affaires.|- Des affaires ?
+{24445}{24493}Des affaires.
+{24495}{24560}Quel genre d'affaires ?
+{24565}{24651}- On vend des motos.|- OK.
+{24683}{24736}Si on se mettait...
+{24738}{24837}à nos... affaires ?
+{26157}{26200}Bonjour.
+{26205}{26255}Vous savez ce qu'il y a ?
+{26258}{26308}Vous alliez trop vite.
+{26390}{26453}Vous aurez un PV
+{26457}{26514}pour|excès de vitesse.
+{26516}{26576}- Vous aimez votre moto ?|- Mm-hmm.
+{26581}{26624}Vous aurez quand même un PV
+{26669}{26712}Quel est votre nom ?
+{26752}{26788}- Hans.|- Hans ?
+{26791}{26827}- Kline.|- Kline ?
+{26829}{26868}K- L-I -
+{26903}{26970}Vous avez des bagages ?
+{27034}{27087}Hans.
+{27290}{27352}- Bon vol.|- Merci.
+{29089}{29151}Mike ! Mike, ici !
+{29528}{29576}Alors, qu'est-ce qu'ils voulaient ?
+{29578}{29631}Je leur ai dit de s'occuper de toi|pendant que je cherchais un taxi.
+{30404}{30452}Maman ?
+{30542}{30588}Scusa.
+{30632}{30678}Bonjouri.
+{30721}{30771}C'est votre maison ?
+{30775}{30863}- Quoi ?|- Um...
+{30866}{30921}la tua casa ?
+{30926}{30990}Non, c'est la maison de mon oncle...
+{30995}{31038}mais il n'est pas là|actuellement.
+{31108}{31151}Oh.
+{31180}{31237}Je m'appelle Scott.
+{31240}{31290}Scott.
+{31293}{31357}- Je suis Carmella|- Comment vas-tu ?
+{31400}{31453}Um, comment vas-tu ?
+{31455}{31522}Je... Bien.
+{31567}{31613}Maman ?
+{31694}{31759}Une américaine ?
+{31761}{31843}Oui, tu la connais ?
+{31846}{31890}Oui.
+{31893}{31987}Um, mais... ce n'est pas vrai...|Elle ne vit pas ici.
+{32032}{32109}- Non ?|- Non, elle...
+{32112}{32171}Elle est partie il y a longtemps.
+{32177}{32220}Elle est retournée en Amérique.
+{32254}{32316}Oh merde.
+{32318}{32392}C'était ton amie ?
+{32394}{32476}Oui. Elle vivait ici et...
+{32482}{32525}parce que je voulais|apprendre l'anglais...
+{32530}{32606}elle... elle... elle l'a appris...|elle me l'a enseigné.
+{32666}{32710}Oh. Bien...
+{32745}{32788}Tu te débrouilles très bien.
+{32825}{32889}Oh, c'est mon ami.
+{32892}{32949}- C'est Mike.|- Mike.
+{32953}{33003}- Mike ?|- Michael.
+{33006}{33039}- Salut.|- Carmella.
+{33042}{33099}- Salut.|- Elle connais ta mère.
+{33102}{33147}Vraiment ? Où est-elle ?
+{33186}{33234}Non, elle...
+{33236}{33282}Je reviens.
+{33284}{33330}- Uh Mike ?|- Maman !
+{34171}{34224}La maison de ma mère était|bleue.
+{34314}{34371}Non, elle était verte.
+{34399}{34459}Elle était verte.
+{34460}{34503}Comment j'ai pu oublier ça ?
+{34560}{34641}#Da-da, da-da-da, da-dum 
+{34689}{34785}# Da-dum, da-da-da, da-da-da 
+{35449}{35504}Merci d'être venu si loin.
+{35507}{35555}On part quand tu veux.
+{36122}{36175}Quoi ?
+{37481}{37568}Grande.
+{37572}{37615}- Tanta fame ?|- Oui.
+{37620}{37675}- Tanta fame ?|- "Tanta" quoi ?
+{37681}{37712}- Tanta fame ?|- Oh oui.
+{37717}{37777}- Sais-tu ce que ça veut dire "fame" ?|- Faim.
+{37779}{37843}- Faim. Faim.|- Faim.
+{37848}{37896}Désolé.
+{38055}{38130}Bacio. Bacio.
+{38132}{38187}- "Bacio" ?|- Bacio.
+{38191}{38239}This is bacio.
+{38818}{38870}Oui ?
+{39984}{40037}Qu'est-ce qu'il y a ?
+{40040}{40086}Rien.
+{40165}{40208}Non ? OK.
+{40239}{40292}- Allez.|- Non. Reste s'il te plaît.
+{40294}{40344}- D'accord.|- Regarde.
+{40346}{40418}Il y a une castagna dedans.
+{40421}{40483}- "La castagna" ?|- Castagna.
+{40485}{40543}Castagna.
+{40545}{40591}La castagna.
+{40648}{40694}Tu sais à quoi ça sert ?
+{40747}{40855}Plus grosses,|on peut manger.
+{40857}{40910}Si elles sont plus grosses.
+{40958}{41006}Je comprends.
+{41008}{41070}- Vraiment ?|- Oui.
+{41104}{41147}Je comprends tes sentiments.
+{41301}{41346}Je pense que je tombe amoureuse.
+{41788}{41843}Je vais partir quelque temps.
+{41907}{41950}Tu sais...
+{41981}{42024}On se reverra peut être.
+{42317}{42384}Tiens.|C'est ta part pour la moto.
+{42410}{42455}Je suis amoureux Mike.
+{42492}{42538}Je suis désolé...
+{42586}{42636}Je suis vraiment désolé|qu'on ait pas trouvé ta mère.
+{43177}{43222}Scott.
+{44636}{44705}Hmm ?
+{44710}{44753}Mm-hmm.
+{44840}{44916}Quoi ?
+{45187}{45242}- Tuo fisico.|- "Tuo fisico" ?
+{45245}{45290}Bravo, così.
+{46247}{46292}Signore. Signore.
+{46297}{46391}Reveillez-vous.|Nous sommes à Portland.
+{46395}{46457}On est arrivé.
+{46462}{46505}Wahou.
+{46606}{46663}Eteignez vos cigarettes SVP.|Merci.
+{47509}{47560}Oh mec. Où tu étais ?
+{47638}{47683}40 dollars ?
+{47807}{47852}Et ta femme ?
+{47906}{47983}Tu n'es pas bavard ce soir.|C'est cool.
+{48013}{48071}Où on va ?
+{50932}{50975}Bob !
+{50980}{51028}Hé, Bob.
+{51032}{51130}¿Qué pasa, man ?|J'apporte des grandes nouvelles|et beaucoup de joie.
+{51132}{51190}George, quel vent t'amène ?
+{51194}{51280}Tu sais, ce tord boyaux|qu'on s'envoyait dans la rue ?
+{51285}{51371}J'en ai|trois bonbonnes planquées.
+{51374}{51422}De quoi s'éclater.
+{51425}{51492}Il suffit de trouver une|bagnole pour y aller...
+{51545}{51609}J'ai peur|si je partage ton vin...
+{51611}{51673}d'attraper ta maladie.
+{51676}{51723}Ma veste aurait plein |de petites fermetures éclair,
+{51727}{51820}et mes orteils des clochettes.
+{51825}{51904}Bob, reste calme. C'est vrai que|tu es le roi de la rue ?
+{51909}{51971}- Que tu possèdes la rue ?|- C'est exact.
+{51976}{52067}Alors emmène-nous voir Dieu.
+{52072}{52154}Mais c'est Scotty Favor|en personne.
+{52158}{52283}en complet veston,|un vrai gentleman !
+{52285}{52335}- Qui mec ?|- Scott Favor.
+{52337}{52414}Il a palpé son héritage.
+{52543}{52611}George, Budd...
+{52613}{52661}Mike.
+{52663}{52709}Nous avons attendu ce jour.
+{53030}{53085}Scotty, ça fait un bail !
+{53089}{53132}Tu es devenu un homme.
+{53137}{53199}Scotty, je te présente Tiger Warren.
+{53201}{53252}Il possède les Muchísimo Más restaurants.
+{53254}{53312}- Tiger, Scotty Favor.|- Le fils de Jack Favor ?
+{53315}{53380}Bonjour, heureux de vous rencontrer.|Terriblement désolé pour votre père.
+{53383}{53471}Ça a été dur...
+{53477}{53549}mais sa mémoire vit en nous.
+{53551}{53628}Scott, vous avez envisagé la politique ?
+{54099}{54156}Viens George. Regarde.
+{54159}{54210}Tu vas voir comme|je suis reçu.
+{54212}{54265}Hé vous regardez.
+{54267}{54342}C'est vrai qu'on retient l'attention, mais...
+{54344}{54414}Scotty verra que je|tiens à lui parler...
+{54418}{54481}Et peu importe nos vêtements.
+{54487}{54558}Dieu te garde !|Dieu te garde mon doux enfant.
+{54605}{54661}Scotty, mon vrai ami !
+{54735}{54824}Je te parle Scotty. C'est moi, Bob !
+{54934}{54979}Je ne te connais pas|vieillard.
+{55015}{55087}Laisse-moi tranquille.
+{55092}{55150}Quand j'étais jeune|et que tu étais mon maître
+{55153}{55259}en mauvaise conduite,|j'avais prévu de changer.
+{55261}{55340}Autrefois j'ai eu besoin de|suivre ton enseignement...
+{55341}{55428}de professeur psychédélique.
+{55429}{55492}Bien que je t'aime plus que mon|défunt père...
+{55519}{55569}je dois te tourner le dos.
+{55572}{55632}A moins que je change|à nouveau...
+{55682}{55744}ne m'approche plus.
+{55950}{56015}Dehors. Dehors.
+{56466}{56509}Mon Dieu.
+{56577}{56628}Mon- Mon Dieu !
+{56653}{56699}Dieu ?
+{57284}{57341}Pidgeon.
+{57344}{57399}Scott Favor lui a brisé le cœur.
+{57472}{57532}Quel silence.
+{57698}{57770}Il est au ciel ou en enfer.
+{57773}{57830}Soyez-en sûrs,|il n'est pas en enfer.
+{57833}{57912}Il a essayé d'être honnête.
+{57914}{57991}Je l'ai entendu pleurer hier|soir.
+{57993}{58101}Il a dit "Dieu, Dieu, Dieu"...
+{58106}{58149}trois ou quatre fois.
+{58154}{58279}Je suis venue, j'ai mis la main|dans le lit et tâté ses pieds.
+{58281}{58334}Ils étaient glacés.
+{58335}{58390}Et j'ai touché le reste de son corps...
+{58393}{58484}qui était glacé aussi.
+{58539}{58560}Au nom du Père, du Fils...
+{58563}{58618}et du St Esprit, Amen.
+{58621}{58686}"Je suis la résurrection et la vie
+{58691}{58782}"Celui qui croit en moi|vivra éternellement...
+{58783}{58858}"Quiconque croit en moi|vivra éternellement.
+{58860}{58939}"Ne vous souciez pas des|trésors de ce monde...
+{58943}{59036}"que corrompt la rouille|et dont s'emparent les voleurs.
+{59041}{59096}"mais accumulez des trésors|du ciel...
+{59099}{59154}"que la rouille ne corrompt pas...
+{59158}{59232}"où il n'y a pas de voleurs.
+{59234}{59297}"Où est votre trésor|là sera votre cœur.
+{59302}{59365}"Mon sauveur est vivant...
+{59367}{59427}"Et je le verrai de mes yeux.
+{59429}{59518}"On ne moque pas Dieu.
+{59521}{59614}"Car ce que l'on sème,|on le récolte.
+{59645}{59760}# Bob, Bob, Bob, Bob|Bob-Bob-Bob-Bob 
+{59764}{59834}#Bob-Bob-Bob 
+{59836}{59915}#Bob, Bob, Bob|Bob, Bob, Bob 
+{59918}{59975}#Bob-Bob-Bob-Bob-Bob 
+{59980}{60035}#Bob, Bob, Bob 
+{60040}{60143}"Celui qui sème pour la chair|récoltera la corruption de la chair.
+{60145}{60196}#Bob, Bob-Bob 
+{60455}{60527}Bob !
+{60586}{60675}Bob ! Bob ! Bob !
+{60872}{60932}Bob ! Bob ! Bob !
+{61295}{61358}Et ne viendra de nous |que destruction."
+{61483}{61560}Bob ! Bob ! Bob !
+{61664}{61717}George !
+{62426}{62474}Je suis expert en route.
+{62550}{62629}J'ai goûté des routes toute ma vie.
+{62705}{62762}Cette route...
+{62764}{62809}n'a pas de fin.
+{62914}{62959}Elle fait sans doute...
+{62962}{63029}le tour...
+{63073}{63118}du monde.
+{67730}{67802}#When I first came to London 
+{67805}{67872}#I was only 16 
+{67878}{67942}#With a fiver in my pocket 
+{67946}{68016}#And my old dancing bag 
+{68018}{68085}#I went down to the dilly 
+{68090}{68155}#To check out the scene 
+{68160}{68294}#But I soon ended up|upon the old main drag 
+{68300}{68367}#Where the he-males|and the she-males 
+{68371}{68435}#Paraded in style 
+{68440}{68577}#And the old man with the money|would flash you a smile 
+{68583}{68719}#In the dark of an alley|you would work for a five 
+{68723}{68857}#For a swift one off the wrist|down on the old main drag 
+{68861}{68998}#In the cold winter nights|the old town it was chill 
+{69004}{69063}#But there were boys in the cafés 
+{69068}{69128}# Who'd give you cheap pills 
+{69131}{69195}#If you didn't have the money 
+{69199}{69264}#You'd cajole and you'd beg 
+{69270}{69337}#There was always lots of Tuinal 
+{69342}{69406}#On the old main drag 
+{69684}{69759}#One evening as I was lying 
+{69761}{69836}#Down in Leicester Square 
+{69838}{69900}#I was picked up by the coppers 
+{69903}{69965}#And kicked in the balls 
+{69968}{70043}#Between the metal doors at Vine Street 
+{70044}{70121}#I was beaten and mauled 
+{70123}{70178}#And they ruined my good looks 
+{70180}{70247}#For the old main drag 
+{70249}{70290}#In the tube station 
+{70296}{70389}#The old ones who were on the way out 
+{70392}{70454}# Would dribble and vomit 
+{70458}{70530}#And grovel and shout 
+{70532}{70611}#And the coppers would come along 
+{70615}{70670}#And push them about 
+{70672}{70744}#And I wished I could escape from 
+{70747}{70811}#The old main drag 
+{70816}{70881}#And now I am lying here 
+{70882}{70945}#I have had too much booze 
+{70947}{71014}#I've been spat on and shat on 
+{71020}{71099}#And raped and abused 
+{71101}{71226}#I know that I am dying|and I wish I could beg 
+{71229}{71346}#For some money to take me|from the old main drag 
+{72468}{72562}#Deep night 
+{72565}{72676}#Stars in the sky above 
+{72679}{72763}#Moonlight 
+{72768}{72885}#Lighting our place oflove 
+{72888}{72967}#Night winds 
+{72968}{73081}#Seem to have gone to rest 
+{73084}{73161}#Two eyes 
+{73162}{73258}#Brightly with love are gleaming 
+{73261}{73352}#Come to my arms, my dear one 
+{73358}{73466}#My sweetheart, my own 
+{73467}{73560}#Vow that you'll love me always 
+{73563}{73685}#And be mine alone 
+{73687}{73764}#Deep night 
+{73768}{73885}#Whispering trees above 
+{73889}{73966}#Kind night 
+{73968}{74057}#Bringing you nearer|dearer and dearer 
+{74063}{74168}#Deep night 
+{74170}{74218}#Deep in the arms 
+{74221}{74336}#Of love 

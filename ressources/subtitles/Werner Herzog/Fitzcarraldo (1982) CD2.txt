@@ -1,0 +1,271 @@
+{507}{579}Voilà donc la fin.|Le rêve est fini.
+{752}{790}On peut tourner ici?
+{844}{908}Un peu juste, mais ça ira.
+{1216}{1259}Ça ne marchera pas.
+{1336}{1374}Vous avez dit quelque chose?
+{1406}{1440}Retournez-vous.
+{1512}{1553}Vous voyez ce que je vois?
+{1589}{1644}Il manquait plus que ça.
+{1662}{1726}Si on essaye de passer à travers,|on est foutus.
+{1744}{1818}Une seule chose à faire -|tout droit.
+{1871}{1943}Rapprochez-vous de la berge.
+{1982}{2056}Vous, vous allez dans la salle des machines,|mais doucement.
+{2204}{2300}Ils sont armés. . .|des arcs et des flèches.
+{2341}{2415}Mais ils se tiennent à distance.|Vous avez déjà vu une chose comme ça?
+{2431}{2472}Non, jamais.
+{2681}{2770}Merde, maintenant ils bloquent le passage.
+{3624}{3665}Est-ce qu'ils sont toujours là?
+{3671}{3786}Y'en a même plus maintenant.|Une centaine de pirogues peut-être.
+{3806}{3861}Appelez-moi quand ça va péter.
+{3866}{3950}J'aimerais bien un petit feu d'artifice|pour ma dernière heure.
+{4836}{4903}Hé les mecs, quel heure il est au fait?
+{4908}{5014}Par ici les culs-nuls,|je paye la tournée.
+{5021}{5093}Grouillez-vous, j'offre à boire.
+{5098}{5127}D'où tu sors toi?
+{5131}{5217}J'ai fait un petit somme. Les autres ont foutu le camp?|Ces larves ... !
+{5328}{5359}Tais-toi!
+{12470}{12508}Tu comprends ce qu'ils disent?
+{12513}{12558}Ils parlent de la nef blanche. . .|c'est comme ça qu'ils désignent notre bateau 
+{12563}{12690}... ils espèrent qu'il leur apportera le salut promis
+{12695}{12800}Ils disent qu'une malédiction pèse sur ce pays.
+{12833}{12933}Ils savent que nous ne sommes pas des dieux,|mais le bateau fait grande impression .
+{12940}{13029}Mais pourquoi ils jouent de la flûte?|Qu'est-ce qu'ils veulent?
+{13325}{13419}Mes amis, je vous le dis, le voyage continue.
+{14822}{14882}Vous voyez cette falaise rouge là où le fleuve tourne?
+{14885}{14919}Oui, vu.
+{14940}{14976}Ça doit être ça !
+{14995}{15115}Bon. De toute façon on va toucher,|avec le bateau on pourra pas aller plus loin.
+{15157}{15210}Cette pente n'a peut-être l'air de rien. . .
+{15222}{15267}. . .mais elle va décider de mon destin.
+{15709}{15772}Allez, suivez-moi!
+{15895}{15950}Maintenant il va montrer son jeu.
+{16564}{16598}C'est pile ici.
+{16722}{16766}Exactement là où on voulait venir.
+{16784}{16844}Ici? Ça?
+{16870}{17004}Il faut grimper à un arbre|pour que des larves de votre espèce comprennent.
+{17012}{17095}On va construire un joli nid-de-pie|pour ces messieurs là-haut.
+{17684}{17740}J'arrive pas à y croire.
+{17762}{17827}Là, là c'est l'Ucayali.
+{17879}{17954}Toute la rivière au-dessus|du Pongo das Mortes est à nous.
+{17959}{18048}Je sais.|On va construire un tunnel à travers cette montagne.
+{18054}{18078}Non.
+{18114}{18176}On va hisser les bateaux|par-dessus la montagne.
+{18184}{18242}Et les culs-nus vont nous aider.
+{18254}{18307}Bon Dieu, comment vous voulez faire ça?
+{18312}{18370}Exactement comme|une vache saute par-dessus la Lune.
+{18385}{18428}Oui, ça me plaît.
+{18514}{18546}Je suis avec vous.
+{18794}{18818}Entrez.
+{18966}{18993}Qu'est-ce qu'il y a?
+{18996}{19061}Je ne comprends toujours pas|ce que vous avez l'intention de faire.
+{19104}{19140}Venez. Je vais vous montrer.
+{19334}{19363}Ça. . .
+{19397}{19445}. . .c'est l'Amazone.
+{19484}{19520}Ici Iquitos.
+{19559}{19592}Ça. . .
+{19642}{19702}. . . c'est l'Ucayali.
+{19754}{19778}D'accord?
+{19807}{19836}Et ici. . .
+{19944}{19987}. . .c'est le Pachitea.
+{20057}{20181}Donc nous avons d'abord remonté l'Amazone. . .
+{20219}{20279}. . .et ensuite le Pachitea.
+{20284}{20334}Nous on est juste ici. . .
+{20361}{20464}. . .et on fera passer le bateau|par-dessus cette montagne.
+{20484}{20510}Exactement là.
+{20579}{20675}Dans cet espace|le bateau va transporter le caoutchouc. . .
+{20681}{20763}. . .ramassé par des milliers d'ouvriers.
+{20769}{20834}Et pourquoi on n'a pas remonté l'Ucayali?
+{20851}{20909}A cause du Pongo das Mortes.
+{20917}{21010}Il est impensable qu'un bateau|puisse traverser ces rapides ici.
+{21017}{21124}Oui, mais comment on va amener le caoutchouc à Iquitos ?|On a besoin d'un autre bateau ! 
+{21137}{21240}On va amener le caoutchouc par-dessus la montagne,|on construira un poste ici.
+{21244}{21373}Bientôt on aura suffisamment de caoutchouc|pour acheter tous les bateaux d'Iquitos.
+{21444}{21513}- J'ai expliqué votre projet au chef.|- Qu'est-ce qu'il dit?
+{21518}{21557}Il a juste dit oui.
+{25113}{25147}Plus à gauche.
+{25186}{25212}Encore.
+{25229}{25250}Stop!
+{25269}{25312}Encore, un peu à gauche.
+{25361}{25387}Un peu plus.
+{25408}{25432}Stop!
+{25476}{25512}Oui, oui!
+{25621}{25705}Mesure de l'angle, 42 degrés.
+{26523}{26567}Bon début, pas vrai?
+{26571}{26593}Tout à fait.
+{26646}{26727}Il y a plein d'enfants maintenant.|C'est bon signe.
+{27013}{27047}Qu'en penses-tu Paul. . .
+{27050}{27110}. . .est-ce que les indiens vont rester avec nous?
+{27116}{27168}Personne ne sait vraiment ce qu'ils pensent.
+{27173}{27259}Mais bon Dieu, comment comptez-vous faire passer|le bateau par-dessus la montagne?
+{27306}{27402}S'il le faut,|on percera un tunnel .
+{27424}{27464}Je pourrais même le faire tout seul. . .
+{27483}{27536}. . .avec une moufle géante.
+{27598}{27680}Mais alors il me faudrait dix miles de câbles|et dix semaines. . .
+{27688}{27733}. . .pour ne faire avancer le bateau que de ça.
+{27738}{27800}Malheureusement, on n'a pas assez de temps.
+{27808}{27880}On a encore sept mois avant l'expiration de l'option.
+{27891}{27975}On a un cabestan|et la force de centaines d'indiens.
+{27996}{28051}On y arrivera ! 
+{28848}{28891}Comment s'appellent tes petits copains?
+{28916}{28986}McNamara, c'est mon adjudant.
+{28991}{29051}Et ça c'est el comandante.
+{29060}{29134}A la tienne McNamara.
+{30425}{30487}C'est beaucoup plus pentu que ce qu'on croyait.
+{30533}{30576}Maintenant que les arbres sont abattus. . .
+{30615}{30668}. . .on voit vraiment la pente.
+{30700}{30789}On doit égaliser un peu le terrain,|construire une rampe.
+{30828}{30946}Et là-haut on doit raser le sommet.
+{30963}{31015}Ça pourrait durer des mois.
+{31020}{31046}A la dynamite!
+{31053}{31101}J'espère qu'on en a assez.
+{31105}{31156}Attention, ça va terroriser les culs-nuls.
+{31180}{31221}On n'a pas le choix.
+{32652}{32705}A l'abri! Arrière!
+{32710}{32762}Attention! Danger!
+{32930}{33011}Reste-là, restez-là! Où vous allez?
+{33040}{33114}Retournez au boulot, allez.
+{36769}{36832}Les pieux là-haut.|Huerequeque, viens là.
+{36960}{37051}Comment ce tronc pourra résister|à des centaines de tonnes de pression ?
+{37057}{37153}Il tiendra. Regardez à quelle profondeur|il est planté.
+{37195}{37228}Dur comme fer .
+{37262}{37295}Par ici!
+{37767}{37803}Huerequeque, viens avec moi.
+{41086}{41115}Allez-y.
+{41176}{41203}Doucement.
+{41233}{41284}Si on avait su que votre plan c'était. . .
+{41289}{41373}. . .de trimballer le bateau sur des rails. . .
+{41389}{41454}. . .je vous aurais conseillé|de laisser vos rails. . .
+{41459}{41505}. . .à la gare Amazone.
+{41721}{41779}Excuse-moi, je peux vraiment pas t'aider ?
+{41789}{41846}Hier j'ai bu un coup de trop.
+{42399}{42454}Est-ce qu'on devrait pas leur dire|que ça va fondre, qu'il n'en restera rien?
+{42459}{42534}Inutile. Le mot glace n'existe pas dans leur langue.
+{43594}{43630}Allez, foutez le camp!
+{43633}{43664}Dehors! Dehors!
+{43721}{43762}C'est bon, on y va!
+{45296}{45332}Allez-y à fond!
+{45481}{45527}Que je sois maudit. . .|Ça marche.
+{45549}{45578}Ça bouge.
+{45599}{45651}- Ça bouge!|- Ça bouge!
+{45935}{45964}Attention!
+{49895}{49977}Ça fait deux jours et deux nuits|qu'ils fixent la rivière.
+{49998}{50057}C'est sûrement à cause|de ce terrible accident .
+{50065}{50125}Je n'en tire plus rien, ils ne parlent plus.
+{50616}{50640}Et alors?
+{50663}{50690}Ils sont partis.
+{50693}{50777}Tous?|Ils ont vraiment tous disparu?
+{50791}{50834}Qu'est-ce que tu dis de ça?
+{50848}{50920}J'avais un pressentiment,|alors je suis allé voir dehors.
+{50930}{51026}Pas une âme, personne.|Comme avalés par la terre.
+{51036}{51076}Ça peut vouloir dire beaucoup de choses.
+{51081}{51157}Ça pourrait dire qu'ils sont|sur le point de nous attaquer.
+{51170}{51261}Mais le gamin est toujours là.|Mon adjudant, McNamara.
+{51285}{51350}Je suis sûr que ce sera un chef un jour.
+{52628}{52709}Ils sont revenus,|comme si ils n'avaient jamais disparu.
+{52810}{52879}Me posez pas de question, je ne sais pas pourquoi.
+{53375}{53449}Je ne comprends pas comment ce poivrot|d'Huerequeque a eu cette idée.
+{53485}{53603}Amigos, la machine tourne.|Cette idée est tout simplement géniale.
+{53610}{53636}De toute façon, tu ne fais que boire!
+{53640}{53750}Il faut que la machine marche à fond|mais au lieu d'actionner l'hélice...
+{53755}{53873}...elle va hisser le bateau de ses propres forces|jusqu'en haut de la montagne.
+{56495}{56529}Alors, qu'est-ce que vous en dites?
+{56534}{56597}D'un simple cerveau de péquenot,|pour une fois il sort quelque chose d'intelligent.
+{56602}{56640}T'es pas un péquenot!
+{56645}{56717}Tu es le meilleur ivrogne du monde.
+{56727}{56770}- Mais on a oublié quelque chose.|- Quoi?
+{56774}{56837}Enrico! Enrico Caruso!
+{59469}{59507}Pourquoi ils font tout ça?
+{59559}{59622}Je me demande pourquoi ils travaillent|comme des bêtes pour nous?
+{59680}{59701}Pourquoi?
+{59741}{59782}Pourquoi? Pourquoi?
+{59809}{59843}Pourquoi?
+{59894}{59985}- Pourquoi?|- Je ne sais pas non plus.
+{60002}{60086}Il n'y a qu'une chose que je sais,|c'est qu'ils ont leurs raisons.
+{60092}{60176}Ils mijotent quelque chose.| J'en mettrais ma main au feu.
+{60510}{60550}Vous devez boire ça.
+{60559}{60624}C'est du yucca.|Du yucca avec de la salive fermentée.
+{60629}{60662}Vas-y, bois!
+{60667}{60758}Mon Dieu, le temps passe et on n'avance pas.
+{64579}{64615}Il se passe quelque chose.
+{64618}{64707}Les hommes préparent du barbasco,|un poison très violent.
+{64713}{64778}En plus ils ont le visage peint en noir.
+{64829}{64915}Mais la plupart d'entre eux sont cachés|dans la forêt et ils sont armés.
+{65239}{65272}Qu'est-ce que ça veut dire?
+{65278}{65360}D'après ce que je sais, la peinture|est censée les rendre invisibles.
+{65366}{65488}D'habitude, ils font ça pour aller à la chasse|ou pour aller à la guerre.
+{65559}{65626}On devrait peut-être retourner au bateau|et charger nos fusils.
+{65631}{65684}De toute façon on n'aurait pas la moindre chance.
+{66108}{66178}Il me semble qu'ils préparent quelque chose.
+{66183}{66320}Et j'ai bien peur que tous les quatre|on finisse bientôt en têtes réduites.
+{66358}{66411}je crois qu'on est tranquilles pour le moment.
+{66426}{66464}Qu'est-ce qui vous fait dire ça?
+{66478}{66526}Il y a un signe sûr.
+{66553}{66577}Là. . .
+{66606}{66657}Vous voyez ces mains sur les rails?
+{81001}{81032}Qu'est-ce qui se passe?
+{81074}{81170}Le Pongo! On dérive dans le Pongo! Cholo!
+{81474}{81498}Cholo!
+{81519}{81576}Paul! Cholo!
+{81581}{81625}Je dois arrêter le bateau!
+{81813}{81888}Allume la machine!|On dérive dans le Pongo!
+{81894}{81933}Les valves d'abord!
+{82697}{82750}Pour l'amour de Dieu, mon bateau!
+{83192}{83218}Et merde.
+{83224}{83267}Trop tard maintenant.
+{88171}{88204}Vous savez ce qu'il dit?
+{88209}{88288}Ils dit que la nuit dernière|ils ont libéré le bateau en cachette.
+{88293}{88377}Ils ont toujours pensé qu'ils devaient|faire traverser la montagne au bateau. . .
+{88383}{88434}. . .pour le faire dériver dans les rapides.
+{88438}{88546}Ce n'est qu'avec la nef céleste qu'ils peuvent|dominer les esprits néfastes des rapides.
+{88553}{88609}Je dois arrêter mon bateau .
+{90881}{90953}Pour commencer, buvons un coup.
+{90956}{91044}Traverser le Pongo das Mortes|avec un bateau à vapeur. . .
+{91051}{91123}. . .c'est un exploit qui ne sera|pas réédité de sitôt.
+{91128}{91166}Buvons.
+{91208}{91313}Extraordinaire messieurs.|Quel exploit.
+{91348}{91441}A l'apaisement des mauvais esprits|du Pongo.
+{91743}{91793}Je vais vous raconter une histoire.
+{91831}{91893}Quand les Etats-Unis étaient à peine explorés. . .
+{91910}{91994}. . .parmi les trappeurs il y avait un français|qui de Montréal est allé vers l'ouest. . .
+{92058}{92132}. . .et c'est le premier blanc|qui a vu les chutes du Niagara.
+{92183}{92300}A son retour, il a parlé de chutes|qui étaient tellement immenses... 
+{92308}{92365}. . .qu'elles surpassaient l'entendement humain .
+{92408}{92446}Mais personne ne l'a cru.
+{92460}{92513}On l'a pris pour un fou ou un menteur.
+{92568}{92621}On lui demandait de le prouver.
+{92668}{92706}Et il répondait. . .
+{92775}{92809}"La preuve. . .
+{92868}{92909}. . .c'est que je les ai vues."
+{93147}{93176}Je regrette.
+{93200}{93262}Mais je ne sais pas ce que ça a à voir avec moi.
+{93410}{93448}Quels sont vos projets maintenant ?
+{93478}{93507}Je ne sais pas.
+{93523}{93648}Je vous le demande parce que ça m'intéresserait|de racheter le bateau.
+{93657}{93729}Mon entreprise s'est très agrandie ces derniers temps.
+{93750}{93822}On peut réparer les dégâts en quelques jours.
+{93827}{93952}Oh, je vous rassure,|je n'abuserai pas de la situation.
+{94002}{94156}Je viens d'apprendre qu'une troupe d'opéra européenne|est arrivée à Manaos. . .
+{94165}{94223}. . .pour donner une représentation exceptionnelle.
+{94229}{94285}Vous ne devriez pas rater ça.
+{94290}{94398}Ils donnent un opéra de cet extraordinaire|compositeur allemand .
+{94412}{94460}Un de ces tout modernes.
+{94465}{94580}Federico, Roberto. . .Ricardo. . .|C'est quoi déjà, Ricardo. . .?
+{94590}{94616}Wagner?
+{94625}{94668}C'est celui qui a écrit Parsifal.
+{94680}{94709}Oui, je crois que c'est lui.
+{94715}{94767}Très teutonne cette musique.
+{94770}{94840}L'opéra qu'ils donnent s'appelle "Les Puritains".
+{94857}{94927}Non, non, ça c'est un opéra italien, de Bellini.
+{95068}{95099}Dites. . .
+{95159}{95207}. . .c'est sérieux avec le bateau?
+{95282}{95368}Hey, Cholo, Huerequeque,|venez par ici!
+{95437}{95464}Allez, venez.
+{95530}{95614}Paul, voici le nouveau|propriétaire du Molly Aïda.
+{95620}{95679}Mais on peut encore garder|le bateau pendant deux semaines.
+{95700}{95765}Paul, écoute.
+{95815}{95879}Tu vas aller à Manaos|avec cet argent.
+{95912}{95998}Tu me ramènes une queue-de-pie|et le meilleur cigare du monde. 
+{96032}{96114}Et au théâtre, je veux un de ces fauteuils|garniss de velours rouge.
+{96120}{96202}J'ai promis à un cochon qui adore Caruso .
+{96304}{96374}Et puis. . .
+{125112}{125222}Trad LX et BL

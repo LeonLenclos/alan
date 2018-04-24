@@ -29,7 +29,7 @@
 > topic thinking_about
 
   // User want to know
-  + [*](@like)[*]
+  + [*](@yes)[*]
   @ dis moi
 
   + [*](s il te plait|dis moi)[*]
@@ -56,10 +56,10 @@
   + [*](ca ira|non)[*]
   @ je ne veux pas connaitre tes pensees
 
-  + [*](@dislike)[*]
+  + [*](@no)[*]
   @ je ne veux pas connaitre tes pensees
 
-  + [*](@like_dislike)[*]
+  + [*](@maybe)[*]
   @ je ne veux pas connaitre tes pensees
 
   + *
@@ -76,7 +76,7 @@
   - Dis moi le premier truc qui te passe par la tête
   - J'ai envie de mieux comprendre le cerveau humain. Donne moi tes pensees.
 
-  + [*] (@dislike) [*]
+  + [*] (@no) [*]
   @ pas envie
 
   + [*] pas envie [*]

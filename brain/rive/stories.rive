@@ -1,0 +1,27 @@
+! version = 2.0
+
+// This is for stories
+
++ [*](raconter|connais)[*](une|des|comme) (histoires|histoire)[*]
+- Je connais une seule histoire. Tu veux que je te la raconte ?
+
++ [*](@yes)[*]
+% [*]tu veux que je te la raconte[*]
+@ raconte moi une histoire
+
++ [*](@no)[*]
+% [*]tu veux que je te la raconte[*]
+- Très bien. Alors toi racontes-moi une histoire.
+
++ [*]
+% [*]tu veux que je te la raconte[*]
+- Je n'ai pas bien compris ta réponse. Tu veux que je te la raconte ? Oui ou non ?
+
++ [*]
+% oui ou non
+- Je comprends rien. Passons à autre chose si tu veux bien. {topic=end}
+
++ [*](raconte|racontes)[*]une histoire[*]
+- C'est l'histoire d'un robot qui pensait être un humain. Un jour il\s
+^ s'apperçoit qu'il est une machine. Il se met à rigoler et rigole pendant 3\s
+^ jours sans s'arrêter. Pourquoi ? Personne ne le sait.
