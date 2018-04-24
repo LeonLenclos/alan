@@ -1,0 +1,1192 @@
+{375}{427}LA SPLENDEUR DES AMBERSON
+{635}{705}La splendeur des Amberson|commença en 1873
+{765}{815}Elle dura des années,
+{830}{900}jusqu'à ce que le Midland|devînt une ville
+{960}{1030}En ce temps-là,|toutes les dames élégantes
+{1040}{1107}connaissaient|les autres dames élégantes.
+{1142}{1222}Et chacun pouvait mettre un nom|sur chaque équipage.
+{1235}{1305}La seule voiture publique|était le tramway.
+{1325}{1387}De sa fenêtre|on pouvait le héler.
+{1390}{1450}Le tram s'arrêtait et attendait.
+{1467}{1540}Le temps de prendre son chapeau,|son manteau,
+{1572}{1637}de descendre et d'attraper|son parapluie,
+{1637}{1702}de donner des consignes|pour le souper
+{1715}{1767}et de sortir de la maison.
+{1780}{1845}Cette lenteur serait|odieuse aujourd'hui.
+{1845}{1922}Plus nous allons vite,|moins nous avons de temps.
+{1975}{2050}En ce temps où les femmes|portaient le corset,
+{2105}{2182}les messieurs, quel que soit|leur âge, avaient adopté
+{2182}{2247}ce chapeau de soie,|strict et élancé,
+{2247}{2325}que les effrontés appelaient|"tuyau de poêle".
+{2340}{2405}Mais le melon|faisait son apparition.
+{2417}{2480}Tantôt il ressemblait|à une cloche,
+{2482}{2530}tantôt à une cuillère.
+{2535}{2595}On utilisait encore le tire-botte
+{2600}{2660}mais la bottine allait le détrôner.
+{2690}{2757}La mode était de la porter|à bout carré
+{2795}{2837}ou à bout pointu.
+{2885}{2965}Le pantalon, s'il portait un pli,|étaitjugé vulgaire
+{3015}{3075}parce qu'il sentait la confection.
+{3080}{3147}Le pardessus clair|accompagnait l'habit.
+{3157}{3240}Mais il était si court|qu'on voyait dépasser les pans.
+{3262}{3340}Aussi l'allongea-t-on|pour qu'il frôlât les talons.
+{3380}{3442}Le pantalon collant|laissa la place
+{3445}{3492}au pantalon flottant.
+{3560}{3630}En ce temps-là|on avait temps pour tout.
+{3665}{3737}Le temps de faire du traîneau,|d'aller au bal
+{3742}{3797}de recevoir et de s'amuser,
+{3820}{3895}de réveillonner|ou de faire des pique-niques.
+{3925}{4010}Et même, coutume depuis disparue,|de donner la sérénade.
+{4080}{4162}On amenait un orchestre|sous les fenêtres de la belle.
+{4185}{4260}Flûte, harpe, violon,|violoncelle, contrebasse
+{4290}{4352}résonnaient dans les nuits étoilées.
+{4510}{4557}Sur ce fond de décor,
+{4587}{4640}la splendeur des Amberson
+{4652}{4725}détonnait comme une fanfare|à un enterrement.
+{4757}{4795}La résidence Amberson
+{4795}{4845}L'orgueil de la ville !
+{4860}{4925}60000 dollars|pour le bois seulement !
+{4925}{4990}- Eau courante chaude et froide|- A chaque étage
+{4990}{5070}Un cabinet de toilette|jusque chez les domestiques
+{5265}{5290}Miss Amberson ?
+{5290}{5357}Non M.Morgan,|Miss Amberson n'est pas là
+{5732}{5795}Miss Amberson|n'est pas là pour vous
+{5887}{5952}- Elle lui en veut toujours|- Qui ?
+{5952}{6005}- Isabelle|- La fille du major Amberson
+{6005}{6062}Eugène Morgan est son soupirant
+{6070}{6132}L'autre soir,|ayant un peu trop bu,
+{6147}{6215}il est tombé|en écrasant une contrebasse
+{6290}{6365}Je ne l'ai pas vue|depuis son retour d'Europe
+{6382}{6442}Eh bien je ne sais que vous dire
+{6485}{6540}Mais disons qu'elle est
+{6550}{6605}plutôt agréable à regarder !
+{7057}{7097}Wilbur Minafer !
+{7097}{7167}Comment a-t-elle pu le choisir ?|Ça alors !
+{7187}{7250}Il n'est pas un canon de la beauté
+{7265}{7317}mais il est très sérieux
+{7357}{7430}Isabelle a du bon sens|pour une excentrique
+{7435}{7482}Je ne comprends pas !
+{7487}{7545}L'autre était mille fois mieux
+{7552}{7605}Tout ça pour une bêtise !
+{7605}{7667}Il s'est ridiculisé|devant chez elle
+{7695}{7760}C'était la traiter|avec désinvolture
+{7760}{7845}Elle a tort mais c'est trop tard|pour rebrousser chemin
+{7850}{7915}Ce sera un grand mariage,|digne des Amberson !
+{7915}{7990}Il y aura des huîtres|étalées sur de la glace
+{8007}{8060}Un orchestre de grande ville
+{8060}{8137}Et Wilbur l'emmènera faire|un beau voyage de noces.
+{8162}{8215}Elle sera une bonne épouse.
+{8227}{8300}Et leurs enfants|seront horriblement gâtés !
+{8320}{8370}Pourquoi dites-vous ça ?
+{8370}{8420}Elle n'aime pas Wilbur
+{8422}{8497}Elle reportera tout son amour|sur ses enfants !
+{8515}{8560}Pour leur malheur !
+{8565}{8640}La prédiction n'était fausse|que sur un point.
+{8682}{8752}Wilbur et Isabelle|n'eurent qu'un enfant.
+{8775}{8835}Un seul !!|Mais gâté comme dix !!
+{8905}{8955}On la laissait le gâter.
+{8970}{9052}George Amberson Minafer,|l'unique petit-fils du Major...
+{9072}{9122}répandait la terreur !!
+{9165}{9227}Tu crois que la ville t'appartient ?
+{9255}{9320}Certaines gens,|des gens d'expérience,
+{9332}{9382}exprimaient le souhait
+{9397}{9445}de voir enfin le jour
+{9490}{9540}où ce garçon serait maté !!
+{9540}{9567}Serait quoi ?
+{9567}{9600}Maté !
+{9620}{9685}Viendra un jour|où il se fera dresser !
+{9697}{9735}J'aimerais voir ça
+{9735}{9787}Regardez-moi ces boucles !
+{9787}{9837}Des boucles de fille !
+{9840}{9902}T'as chipé la ceinture de ta mère ?
+{9905}{9945}C'est ta sœur qui l'a volée
+{9945}{10010}Elle l'a volée|et elle me l'a donnée !
+{10022}{10077}D'abord j'ai pas de sœur !
+{10112}{10180}Pas chez toi !|Celle qui est en prison !
+{10190}{10252}Chiche que tu oses pas descendre !
+{10270}{10307}Chiche que tu oses pas sortir !
+{10307}{10347}Ose avancer !
+{10372}{10410}Me voilà !
+{10567}{10607}Les garçons !
+{10945}{10980}Arrêtez !
+{10997}{11040}Vous, arrêtez !
+{11062}{11087}Vous savez qui je suis !
+{11087}{11145}Oui ! Le désespoir de ta mère !
+{11152}{11197}Laissez ma mère !
+{11217}{11270}Elle devrait avoir honte !
+{11270}{11335}Allez, tombez la veste|vieille bête !
+{11360}{11412}Essuyez votre bave|et allez vous faire
+{11412}{11440}Quoi ?
+{11440}{11505}Je ne suis pas le seul|à l'avoir entendu
+{11505}{11560}Ma femme et une voisine aussi
+{11582}{11607}C'est un vieux menteur !
+{11607}{11667}Georgie ! Ne parle pas comme ça !
+{11725}{11782}Tu as vraiment dit tout ça ?
+{11842}{11895}Grand-père|se moque pas mal de lui !
+{11895}{11920}Tu ne dois pas
+{11920}{11980}Les Amberson méprisent ces gens-là
+{11997}{12075}C'est un homme du peuple.|Qu'on le traite comme tel.
+{12180}{12245}Sa lettre manque de tact,|certes, mais
+{12245}{12322}- C'est de la racaille !|- Il ne faut pas dire ça.
+{12362}{12430}Je ne veux plus t'entendre|parler comme ça !
+{12440}{12485}Je te le promets !
+{12545}{12600}Sauf si on me pousse à bout.
+{12635}{12692}Attendez qu'il aille à l'école
+{12700}{12780}Là, ce sera autre chose.|On lui rabattra son caquet !
+{12842}{12907}Mais George garda|la même insolence.
+{12947}{13005}Ta mère t'a permis de sortir ?
+{13025}{13077}Tu veux la fessée, morveux ?
+{13077}{13170}Quand il revint pour le Réveillon,|il avait changé physiquement,
+{13232}{13312}mais son caquet n'avait pas|été rabattu, loin de là.
+{13362}{13427}On allait donner un bal|en son honneur.
+{13427}{13482}Et la pompe de cet événement
+{13505}{13582}devait rester longtemps|gravée dans les mémoires.
+{14207}{14272}Ne me regardez pas|comme ça Major !
+{14312}{14355}Tu as bonne mine.
+{14390}{14455}Quand tu étais petit,|tu étais si fluet
+{14455}{14520}que tout le monde|te donnait pour mort.
+{14702}{14750}Votre fils Isabelle ?
+{14780}{14832}- C'est M.Morgan|- Je me souviens de vous !
+{14832}{14912}Sans m'avoir jamais vu !|Mais vous me verrez souvent.
+{14950}{14975}Je l'espère.
+{14975}{15015}Je l'espère aussi Eugène.
+{15015}{15052}Où est Wilbur ?
+{15052}{15125}Il est au fumoir,|avec les autres messieurs.
+{15130}{15182}Il déteste les réceptions.
+{15195}{15260}Je me souviens.|Je retiens une danse !
+{15390}{15442}Je me souviens de vous.
+{15442}{15480}Très bien.
+{15572}{15625}Je me souviens de vous !
+{15625}{15705}Ce n'est pas possible.|Mais tu te souviendras d'elle.
+{15715}{15780}Miss Morgan n'habite pas|notre ville.
+{15795}{15865}Tu peux danser,|je n'ai plus besoin de toi.
+{15872}{15910}Avec plaisir.
+{16002}{16050}Rappelez-moi votre nom.
+{16092}{16145}Content que tu sois revenu.
+{16145}{16192}Pas autant que moi !
+{16197}{16235}Qui est-ce ?
+{16250}{16300}Je n'ai pas saisi le nom.
+{16315}{16365}- Vous parlez de cet échalas ?|- Qui ?
+{16365}{16405}Cet échalas.
+{16405}{16445}Je ne dirais pas ça.
+{16445}{16495}L'autre est mon oncle Jack.
+{16495}{16560}Jack Amberson.|Tout le monde le connaît.
+{16560}{16642}Il fait comme si c'était le cas.|Un trait de famille.
+{16652}{16702}Sans doute est-ce le cas.
+{16705}{16782}Surtout dans notre région.|Oncle Jack est très connu.
+{16820}{16862}Il est sénateur.
+{16900}{16962}La famille est toujours|au Parlement.
+{16977}{17025}C'est une bonne chose.
+{17160}{17210}Vous connaissez tous ces types ?.
+{17210}{17237}Je suis ici depuis huit jours.
+{17237}{17300}Vous n'avez pas perdu votre temps !
+{17392}{17467}Je me demande|pourquoi ma mère les a invités ?
+{17470}{17510}Ils vous déplaisent ?
+{17510}{17595}J'étais président d'un club|dont la plupart faisait partie
+{17600}{17655}mais ça ne m'intéresse plus.
+{17665}{17717}Pourquoi Mère les a-t-elle invités ?
+{17717}{17780}Pour ne pas offenser leurs parents.
+{17795}{17877}Ce n'est pas le genre de choses|dont ma mère se soucie.
+{17900}{17975}Ce doit être merveilleux,|M.Amberson Minafer
+{17977}{18015}Quoi donc ?
+{18017}{18067}D'être aussi important !
+{18120}{18172}Quand on est "quelqu'un"
+{18172}{18230}on peut faire ce qui nous plaît.
+{18380}{18435}Il ne manque pas de toupet.
+{18445}{18505}Cet échalas qui me fait signe !
+{18510}{18555}Il s'adresse à moi.
+{18562}{18600}Vraiment ?
+{18602}{18657}Tout le monde vous connaît !
+{18745}{18790}Etes-vous fiancée ?
+{18810}{18862}En tout cas vous êtes populaire !
+{18862}{18940}Mon père surtout. Il vivait ici|avant ma naissance.
+{18965}{18992}Et depuis ?
+{18992}{19032}Un peu partout.
+{19045}{19127}Pourquoi voyagez-vous tant ?|Il est dans les affaires ?
+{19147}{19195}Non, il est inventeur.
+{19200}{19250}Et qu'est-ce qu'il a inventé ?
+{19277}{19350}Récemment une sorte de voiture,|sans chevaux.
+{19395}{19437}Une automobile ?
+{19485}{19542}Vous n'en êtes pas partisan ?
+{19550}{19597}Si, c'est très bien.
+{19642}{19705}Je commence seulement|à comprendre.
+{19707}{19747}C'est-à-dire ?
+{19810}{19870}Ce que veut dire être un Amberson
+{19875}{19952}Papa m'en avait parlé.|Mais il ne m'a pas tout dit.
+{19980}{20040}Il a connu ma famille autrefois ?
+{20057}{20135}Il en parlait très simplement,|sans aucune vanité.
+{20150}{20230}Si les filles allaient au collège|comme les garçons,
+{20265}{20325}elles auraient moins d'aplomb !
+{20345}{20437}Qui vous a envoyé ces fleurs ?|Vous y plongez le nez sans arrêt !
+{20460}{20500}- Lui|- Lui qui ?
+{20500}{20535}L'échalas.
+{20590}{20645}Lui.|C'est un vieux veuf ?
+{20720}{20807}Oui, il est veuf. J'aurais dû|vous prévenir, c'est mon père.
+{20850}{20905}J'ai gaffé. Si j'avais su.
+{20915}{20980}C'est notre danse.|Dois-je insister ?
+{21020}{21072}George chéri, tu t'amuses ?
+{21072}{21135}Beaucoup Mère.|Vous nous excusez ?
+{21255}{21300}Qui veut du punch ?
+{21305}{21332}Pas moi. Merci.
+{21332}{21385}Vous tenez votre promesse.
+{21422}{21500}Je me souviens du dernier verre|qu'Eugène a bu.
+{21500}{21570}S'il n'avait pas défoncé|la contrebasse,
+{21580}{21630}Isabelle n'aurait pas|épousé Wilbur !
+{21630}{21657}Pas vrai Wilbur ?
+{21657}{21747}Ça ne m'étonnerait pas mais|je suis content qu'il l'ait fait
+{21775}{21825}Qu'est-ce que tu en dis Isabelle ?
+{21825}{21872}Voyez, elle rougit !
+{21917}{21965}Qui ne rougirait pas ?
+{21982}{22062}L'important est que Wilbur|l'ait épousée et gardée !
+{22085}{22145}Autre chose importante pour moi.
+{22150}{22210}Je pardonne à cette contrebasse.
+{22280}{22320}Pour quelle raison ?
+{22320}{22352}Lucy !
+{22360}{22397}Vous vous amusez bien ?
+{22397}{22457}Vous n'avez pas renoncé à fumer ?
+{22475}{22530}J'ai là quelques havanes !
+{22605}{22655}Un rafraîchissement ?
+{22735}{22787}Vous disiez que votre nom était ?
+{22787}{22840}- Morgan.|- Drôle de nom !
+{22852}{22905}Le nom des autres l'est toujours.
+{22905}{22970}Non. C'est une plaisanterie|de potache.
+{23035}{23095}J'aimerais connaître votre prénom.
+{23205}{23255}Est-ce aussi un drôle de prénom ?
+{23255}{23307}Non Lucy, c'est très bien.
+{23347}{23380}Merci.
+{23412}{23445}Merci ?
+{23450}{23497}Merci de l'apprécier.
+{23567}{23635}- Je te laisse. Une danse|- Avec qui ?
+{23645}{23672}Isabelle pardi.
+{23672}{23725}Dix-huit ans ont passé,|et malgré tout.
+{23725}{23785}As-tu fait danser la pauvre Fanny ?
+{23790}{23815}Deux fois !
+{23815}{23870}Le bon vieux temps revient !
+{23892}{23975}Que non ! Le bon vieux temps|est mort une fois passé.
+{24022}{24070}Seul l'avenir compte.
+{24347}{24400}Vous étudiez quoi à l'école ?
+{24400}{24465}- Pardon ?|- Qu'est-ce que vous étudiez à l'école ?
+{24465}{24530}A l'Université !|Des choses inutiles !
+{24542}{24595}Rien qui puisse vous servir ?
+{24595}{24620}Comment ça ?
+{24620}{24682}Plus tard, dans votre profession ?
+{24685}{24745}Je ne compte pas en exercer une.
+{24790}{24830}Pourquoi pas ?
+{24830}{24895}Regardez-les donc !|Belles carrières !
+{24920}{24985}Le barreau, la banque,|la politique.
+{24997}{25047}Qu'est-ce qu'ils ont de la vie ?
+{25075}{25125}Où ça les mène ?
+{25140}{25190}A quoi ils arrivent ?
+{25192}{25242}Qu'est-ce que vous voulez être ?
+{25270}{25307}Yachtman !
+{26037}{26102}Voitures sans chevaux !|Automobiles !
+{26142}{26217}Les gens ne courront pas|les routes là-dedans !
+{26272}{26335}Votre père ferait mieux|d'y renoncer.
+{26350}{26405}Votre opinion l'amuserait !
+{26427}{26492}Ai-je dit quelque chose|d'offensant ?
+{26520}{26585}Que vous soyez insultant|ne me gêne pas.
+{26597}{26650}Papa se moque de votre opinion.
+{26650}{26695}C'est un grand homme.
+{26715}{26777}Espérons-le.|Pour lui en tout cas !
+{26975}{27012}Que votre mère est jolie !
+{27012}{27050}Elle l'est.
+{27052}{27112}Elle danse comme une jeune fille !
+{27155}{27220}Bien des jeunes filles dansent mal !
+{27272}{27332}On danse avec elles par politesse.
+{27377}{27447}On fait du traîneau demain ?|A deux heures.
+{27480}{27525}Je ne pourrai pas.
+{27690}{27737}Je prends nos affaires.
+{27767}{27815}Je serai à votre porte.
+{27820}{27890}Et il faudra me chasser|à coups de fouet !
+{27897}{27987}Tenez, si vous tombez en panne|dans cette voiture sans chevaux.
+{28065}{28125}- Viens !|- Fanny, où vas-tu ?
+{28210}{28242}Alors ?
+{28247}{28285}Non, rien.
+{28287}{28322}Prends ça.
+{28325}{28377}Qui est donc ce Morgan ?
+{28442}{28495}Il a une fille charmante.
+{28495}{28545}On le dirait chez lui.
+{28560}{28615}à le voir danser avec Maman.
+{28650}{28720}Je crains que le cœur|de ta tante Fanny
+{28730}{28790}soit troublé par des souvenirs
+{28795}{28852}Elle avait un faible pour lui ?
+{28860}{28912}Elle n'était pas la seule !
+{28937}{28985}Il avait du succès !
+{29027}{29107}Tu t'intéresses tant|aux parents des jeunes filles ?
+{29120}{29172}Je voulais seulement savoir.
+{29210}{29250}Lucy  pour ce traîneau.
+{29250}{29302}Je veux voir cette voiture.
+{29352}{29420}Si on y monte demain,|je veux l'examiner.
+{29457}{29522}- Soyez prête à deux heures dix.|- N'y comptez pas.
+{29522}{29570}Si. A deux heures dix.
+{29652}{29692}Je serai prête.
+{29782}{29835}Et si elle tombe en panne ?
+{30237}{30307}Trouves-tu George|arrogant et autoritaire ?
+{30327}{30375}Il est encore jeune.
+{30432}{30500}Il y a sûrement|de bonnes choses en lui.
+{30522}{30597}C'est certain|puisqu'il est le fils d'Isabelle
+{30680}{30735}Elle te plaisait autrefois ?
+{30782}{30832}Elle me plaît toujours.
+{30835}{30892}Je sais. Tu as d'autres soucis.
+{30940}{30995}Surtout au sujet de ton père.
+{31005}{31065}- Pourquoi ?|- Il a l'air sombre.
+{31082}{31132}Il a toujours cet air-là
+{31160}{31227}Il est inquiet|pour ses investissements.
+{31237}{31290}Sa santé en est affectée.
+{31290}{31340}Quels investissements ?
+{31342}{31412}Il est engagé|dans les Automobiles Morgan ?
+{31420}{31515}Non, ça c'est l'affaire d'Eugène.|Ton père s'intéresse aux laminoirs
+{31615}{31655}As-tu mal dormi ?
+{31655}{31690}Dis-moi.
+{31692}{31755}ce Morgan,|avec sa fameuse machine,
+{31757}{31835}cherche-t-il à se faire|financer par grand-père ?
+{31850}{31887}Petit sot !
+{31900}{31947}Qu'est-ce que tu racontes là ?
+{31952}{32030}Eugène est capable d'exploiter seul|ses inventions.
+{32045}{32095}Il emprunte à l'oncle Jack ?
+{32095}{32145}Pourquoi dis-tu ça ?
+{32147}{32217}C'est une impression.|N'est-ce pas Père ?
+{32240}{32297}Il était déchaîné il y a 20 ans.
+{32305}{32377}Un peu dans ton genre.|A toujours trop dépenser.
+{32407}{32485}Mais lui n'avait pas|de parents pour l'entretenir.
+{32485}{32532}Il s'est débrouillé
+{32537}{32600}et il a monté sa machine|tout seul.
+{32615}{32667}Pourquoi est-ce qu'il l'a amenée ici ?
+{32667}{32727}Je n'en sais rien.|Demande-lui !
+{32745}{32795}J'irai te dire bonsoir.
+{32915}{32962}Que veux-tu encore ?
+{33005}{33087}Pourquoi Papa a refusé|cette promenade en auto ?
+{33150}{33205}Tu es sa sœur, tu dois savoir.
+{33265}{33320}Il ne veut aller nulle part.
+{33370}{33417}Mais qu'as-tu donc ?
+{33435}{33480}Morgan lui déplaît.
+{33565}{33637}Ton père se fiche éperdument|d'Eugène Morgan.
+{33735}{33760}Encore à vous chamailler ?
+{33760}{33832}Qu'est-ce qui vous intéresse|dans ce Morgan ?
+{33942}{34000}Ne peut-on revoir un vieil ami
+{34032}{34107}sans qu'un gamin stupide|fasse des histoires ?
+{34202}{34275}J'ai dit à ta mère|de donner un dîner pour eux.
+{34332}{34370}Pour qui ?
+{34370}{34420}"Pour qui ?" Georgie
+{34527}{34580}Pour M.Morgan et sa fille.
+{34617}{34690}Non, c'est impossible.|Mère ne peut pas faire ça !
+{34747}{34795}Ce serait ridicule !
+{34865}{34925}Ecoute George, je te conseille
+{34970}{35027}de filer droit dans ta chambre !
+{35060}{35125}Tu as vraiment l'esprit|trop mesquin !
+{35177}{35242}- Taisez-vous !|- Je t'ai bien compris.
+{35255}{35330}Tu penses que je veux|me rapprocher d'Eugène
+{35397}{35437}parce qu'il est veuf !
+{35437}{35470}Quoi ?
+{35555}{35620}Je pense que tu as ton plan|bien arrêté.
+{35645}{35700}Et tu veux que Mère t'aide !
+{35710}{35752}C'est bien ça ?
+{35852}{35907}Occupe-toi de tes affaires !
+{35930}{35982}Je veux bien être pendu !
+{35982}{36052}Ah ça pour sûr !|Je veux bien être pendu !
+{36360}{36402}Ça va marcher ?
+{36620}{36655}Plus fort.
+{36660}{36695}J'essaye.
+{37582}{37632}Achetez donc un cheval !
+{38205}{38240}Ça va ?
+{38245}{38307}Tout va bien !|La neige est molle !
+{38362}{38400}Je vais bien.
+{38400}{38447}Pas de mal Isabelle
+{38452}{38492}Ils n'ont rien
+{38492}{38542}Vous allez bien Lucy ?
+{38557}{38595}Arrête Mère
+{38595}{38622}Quelle chute !
+{38622}{38675}Voyons Mère. Je vais bien.
+{38675}{38747}Tu es sûr ?|Parfois on ne se rend pas compte
+{38830}{38875}Je vais bien Mère.
+{38935}{38990}La neige te va très bien Lucy.
+{39102}{39165}Pendennis sera rentré avant nous !
+{39195}{39260}Confions-nous|à la machine de Morgan !
+{39350}{39390}Tous à bord !
+{39480}{39545}Enlève cette neige,|tu prendrais froid.
+{39570}{39637}Toi, ne reste pas|dans la neige. Monte !
+{39662}{39737}Toujours la même Isabelle !|Divine et ridicule !
+{39765}{39827}George, voulez-vous nous pousser ?
+{39882}{39950}Divine et ridicule.|Les deux s'annulent
+{39987}{40075}Il ne reste rien au final.|Est-ce donc ce que je suis ? Rien ?
+{40117}{40185}Ce n'est pas exactement|ce que je pensais.
+{40545}{40585}Pousse George, pousse !
+{40585}{40630}Je ne fais que ça !
+{40637}{40682}Pousse plus fort !
+{41195}{41222}Pousse !
+{41222}{41270}C'est ce que je fais !
+{41365}{41445}Morgan voulait prouver|que ça roule dans la neige !
+{41455}{41525}Et c'est le cas !|C'est très intéressant.
+{41547}{41637}Il prévoit d'y ajouter des roues|en caoutchouc, gonflées d'air.
+{41677}{41722}Mais ça explosera !
+{41742}{41787}Il est sûr de lui.
+{41795}{41865}On se croirait revenus|au bon vieux temps !
+{42417}{42490}Vous avez tout fait|pour amortir ma chute.
+{42495}{42550}Je l'ai senti. C'était gentil.
+{42560}{42620}N'en parlons plus. Et ce baiser ?
+{44980}{45042}Wilbur Minafer,|un homme si paisible.
+{45110}{45175}On s'apercevra|à peine qu'il a disparu.
+{45447}{45490}Où est Isabelle ?
+{45500}{45545}Elle était fatiguée.
+{45550}{45600}La pâleur ne lui va pas.
+{45695}{45732}Du gâteau aux groseilles !.
+{45732}{45807}Les premières cette année.|Est-il assez gros ?
+{45837}{45890}Tu savais que j'arrivais !
+{45940}{45990}- Qu'est-ce que tu dis ?|- Rien.
+{46085}{46137}- Assez sucré ?|- Très bon.
+{46227}{46305}La remise des diplômes|a dû plaire à ta mère, non ?
+{46345}{46397}Elle est beaucoup sortie ?
+{46410}{46487}En plein deuil ?|Elle n'est venue qu'aux cérémonies.
+{46512}{46540}Comme Lucy.
+{46540}{46597}Comment Lucy est rentrée ?
+{46617}{46667}Par le train, avec nous.
+{46682}{46735}Ne chipote pas comme ça !
+{46942}{47015}Vous êtes passés chez elle|avant de rentrer ?
+{47060}{47107}Non. Son père était là.
+{47255}{47302}Ne mange pas si vite !
+{47500}{47552}Eugène était à la gare ?
+{47605}{47642}A la gare ?
+{47670}{47707}Pourquoi ?
+{47747}{47797}Je ne te comprends pas.
+{47877}{47930}Tu veux encore du lait ?
+{48047}{48115}Je ne l'ai pas vu|en l'absence de ta mère.
+{48137}{48200}Et pour cause, il était dans l'Est.
+{48242}{48280}Tu l'as vu là-bas ?
+{48280}{48340}Oui. Nous sommes rentrés ensemble.
+{48360}{48420}Il a été tout le temps avec vous ?
+{48475}{48540}Seulement dans le train|et trois jours avant le départ.
+{48540}{48592}Oncle Jack l'avait amené.
+{48605}{48650}Tu vas grossir !
+{48657}{48742}C'est plus fort que moi !|Tu es une excellente cuisinière.
+{48787}{48857}Tu sais rendre les choses|appétissantes !
+{48865}{48925}Tu es vraiment bonne à marier !
+{48945}{48985}C'est bizarre.
+{49060}{49100}Quoi donc ?
+{49112}{49177}Ta mère ne m'a pas|parlé de M.Morgan.
+{49205}{49282}Elle n'y a pas pensé.|Mais je vais te dire une chose.
+{49320}{49405}M.Morgan m'a semblé bien distrait|à plusieurs reprises.
+{49412}{49460}Et il s'habille mieux.
+{49502}{49547}Même avec élégance.
+{49595}{49650}Fanny, tu devrais encourager
+{49660}{49715}un veuf qui cherche à plaire.
+{49750}{49790}Que veux-tu qu'il pense ?
+{49790}{49855}Mon oncle dit|que l'usine marche bien.
+{49867}{49892}- En fait.|- Ecoute-moi.
+{49892}{49987}Je ne serais pas surpris de le voir|enfin déclarer ses intentions
+{50010}{50085}et solliciter la permission|de faire sa cour !
+{50217}{50282}- On te taquinait, allons !|- Laissez-moi !
+{50282}{50330}On ne voulait pas.
+{50347}{50402}Ne sois pas aussi sensible.
+{50647}{50717}On ne peut même plus|plaisanter avec elle !
+{50750}{50835}Depuis que nous avons découvert|que Père n'a rien laissé.
+{50920}{50997}Elle devrait être contente|de toucher l'assurance.
+{51025}{51090}Papa lui laisse tout,|sans condition !
+{51270}{51317}Peut-être que nos
+{51322}{51390}taquineries touchaient|un point sensible.
+{51427}{51495}Elle n'a pas eu|grand-chose de la vie.
+{51570}{51620}Tu sais, être ta tante
+{51647}{51710}n'était pas vraiment une fin en soi.
+{51790}{51855}Fanny n'a jamais rien eu|je crois
+{51882}{51940}à part ce penchant pour Eugène.
+{52102}{52167}Nous fabriquons une voiture|par jour
+{52167}{52207}C'est pas pas magnifique ?
+{52207}{52280}- Quoi donc ?|- Fabriquer une voiture par jour
+{52402}{52465}Le bruit et l'odeur te conviennent !
+{52480}{52545}Tu devrais venir ici|quand tu as le cafard
+{52545}{52597}Mais elle n'a jamais le cafard,|George
+{52597}{52665}Je ne connais personne|d'aussi constant
+{52687}{52740}J'aimerais être comme elle
+{52740}{52825}Qui ne se réjouirait de voir un ami|concrétiser son idée,
+{52845}{52902}alors qu'on se moquait de lui !
+{52910}{52965}Et monter une usine pareille !
+{53000}{53047}Vous vous rappelez ?
+{53065}{53112}La première machine !
+{53117}{53167}"L'invincible" Morgan
+{53170}{53210}Certainement !
+{53260}{53307}Je suis si heureuse.
+{53337}{53390}Voyez la nouvelle Morgan.
+{53390}{53445}Elle est belle ! Vraiment !
+{53495}{53547}C'est si agréable à voir !
+{53560}{53627}Votre mère !|Elle est vraiment adorable !
+{53650}{53700}Et Papa éclate de joie !
+{53740}{53815}C'est magnifique !|Nous sommes fiers de vous !
+{53870}{53922}Donnez-lui la main Fanny.
+{53962}{54000}Si Jack était ici
+{54000}{54080}vous seriez félicité|par vos trois plus vieux amis.
+{54117}{54175}Parce que je sais ce que pense Jack.
+{54222}{54280}Il y a vingt ans j'étais poète
+{54300}{54370}- Vous vous en souvenez ?|- Oui, en effet.
+{54377}{54440}Je me sens capable de recommencer
+{54470}{54557}pour vous remercier de faire|une fête de cette simple visite.
+{54885}{54940}Vous devriez le dire à George.
+{54962}{55005}A notre sujet ?
+{55080}{55125}Nous avons le temps.
+{55145}{55195}Ça doit venir de vous.
+{55235}{55287}Je lui dirai mon aimé,
+{55315}{55347}bientôt
+{55677}{55735}Je préfère encore le cheval !
+{55925}{56012}- Non, je vous en prie|- Vous voulez fatiguer ce cheval ?
+{56067}{56140}Vous ralentissez|pour parler de fiançailles.
+{56185}{56250}- Remettez-le au trot !|- N'y comptez pas !
+{56250}{56300}Va, Pendennis, trotte !
+{56380}{56445}Vous êtes ce que ce monde|a de plus beau.
+{56445}{56505}Quand vous déciderez-vous donc ?
+{56522}{56595}Pas avant des années !|Telle est ma réponse.
+{56665}{56705}Qu'est-ce qu'il y a ?
+{56717}{56777}On dirait que vous allez pleurer.
+{56795}{56865}Comme toujours|quand je parle de mariage.
+{56887}{56912}Je le sais.
+{56912}{56955}Alors pourquoi ?
+{56965}{57035}Je sens que jamais|nous ne nous marierons.
+{57055}{57127}- Mais rien ne vous|- C'est une impression.
+{57200}{57250}Tout est si incertain.
+{57250}{57325}Vous êtes bizarre !|Qu'est-ce qu'il y a d'incertain ?
+{57342}{57425}Tout d'abord vous n'avez rien décidé|pour votre avenir.
+{57445}{57500}Enfin, rien que je sache.
+{57525}{57575}N'avez-vous pas compris ?
+{57575}{57642}Je n'entends pas|exercer de profession.
+{57655}{57705}Qu'est-ce que vous comptez faire ?
+{57732}{57782}Mener une vie honorable.
+{57797}{57855}M'occuper d'œuvres de charité,
+{57862}{57917}de ça et d'autres choses.
+{57927}{57952}Lesquelles ?
+{57952}{58002}Celles qui me plairont.
+{58005}{58080}Mais revenons à la question|qui nous préoccupe.
+{58110}{58175}- Votre père est homme d'affaires|- Un génie de la mécanique !
+{58175}{58267}Vous a-t-il suggéré que je devais|travailler avant de me marier ?
+{58330}{58382}Je ne lui en ai pas parlé.
+{58382}{58435}Mais c'est ce qu'il pense.
+{58485}{58525}Suis-je encore un homme
+{58525}{58595}si je me laisse dicter|ma façon de vivre ?
+{58602}{58655}Qui vous dicte quoi que ce soit ?
+{58655}{58735}L'être humain n'est pas fait|pour récurer des plats,
+{58745}{58815}vendre des légumes|ou porter des caisses.
+{58862}{58955}Ce que votre père pense de moi|m'indiffère et c'est réciproque.
+{58992}{59035}Hue Pendennis !
+{59135}{59187}Il a l'air d'aller mieux.
+{59187}{59237}Il retrouvé son allant.
+{59265}{59307}Ton petit-fils.
+{59317}{59372}Hier il était mélancolique.
+{59382}{59425}Pourquoi donc ?
+{59460}{59512}Je doute que ce soit les remords
+{59512}{59577}d'avoir tant dépensé|à l'Université !
+{59590}{59645}En quoi me croit-il fait ?
+{59655}{59710}En or ! Au moins en partie.
+{59747}{59805}- Quelle partie ?|- Ton cœur.
+{59865}{59925}C'est pour ça|qu'il me pèse tant.
+{60032}{60112}Cette ville roule|sur le vieux cœur dont tu parles.
+{60175}{60232}Elle roule  et elle l'enterre.
+{60385}{60422}Ma jeune amie me manque.
+{60422}{60450}A nous aussi.
+{60450}{60527}Lucy est en voyage Père,|avec un camarade de classe.
+{60527}{60572}Elle rentrera lundi.
+{60580}{60640}George, tu ne nous en as rien dit.
+{60670}{60735}Il n'a rien dit|pour le départ de Lucy.
+{60735}{60775}Il avait peur
+{60775}{60842}d'éclater en sanglots|en nous le disant !
+{60865}{60910}Pas vrai George ?
+{60917}{60982}- Lucy t'en avait parlé ?|- Elle me l'a dit.
+{60982}{61027}Il n'a pas approuvé.
+{61035}{61105}C'est à croire|que vous êtes encore fâchés.
+{61137}{61217}On dit qu'on va ouvrir|une usine d'autos en banlieue.
+{61267}{61315}Ou ils vous ruinent,
+{61320}{61397}ou vous vous associez|pour nous chasser des rues !
+{61437}{61485}On élargira les rues.
+{61515}{61590}Les villes s'agrandiront|grâce à l'automobile !
+{61592}{61660}J'espère que non|parce que si c'est le cas
+{61670}{61752}la valeur des terrains,|dans ce quartier ou ailleurs,
+{61762}{61787}s'effondrera.
+{61787}{61852}Vos machines ruineront|nos vieux amis.
+{61892}{61960}Vont-elles transformer|l'aspect du pays ?
+{61982}{62050}C'est d'ores et déjà le cas.|Les autos
+{62060}{62102}sont un fléau !
+{62205}{62252}Qu'est-ce que tu as dit George ?
+{62255}{62307}Les autos sont un fléau !
+{62320}{62387}Mieux aurait valu|ne pas les inventer !
+{62412}{62507}Tu oublies que notre ami Morgan|en fabrique et en partage le brevet.
+{62555}{62605}Il pourrait t'en vouloir.
+{62710}{62767}George n'a peut-être pas tort.
+{62815}{62892}Elles signalent peut-être|le début de la décadence.
+{62970}{63055}Sans doute n'ajouteront-elles|rien à la beauté, à l'âme.
+{63100}{63140}Je n'en sais rien.
+{63165}{63222}Mais elles sont bel et bien là.
+{63245}{63317}Ce qu'elles apportent|va transformer nos vies.
+{63387}{63472}La guerre, la paix, tout ça|sera différent grâce à elles.
+{63505}{63580}L'esprit humain lui même|va s'en trouver changé.
+{63660}{63712}George a peut-être raison.
+{63765}{63830}Il se peut que,|dans dix ou vingt ans,
+{63842}{63910}et si nous sommes encore là|pour le voir,
+{63945}{64040}je condamne le moteur à essence|et je me range à l'avis de George.
+{64090}{64167}Il se peut que je regrette|qu'on les ait inventées.
+{64350}{64405}Si vous voulez bien m'excuser.
+{64452}{64505}Il faut que je passe à l'usine.
+{64505}{64575}- Je vous reconduis.|- Je connais le chemin.
+{64595}{64630}Je viens.
+{65065}{65115}George, qu'est-ce que tu voulais dire ?
+{65115}{65170}Ce que j'ai dit précisément.
+{65195}{65232}Tu l'as blessé.
+{65232}{65312}Je ne vois pas pourquoi.|Je n'ai rien dit contre lui.
+{65337}{65402}Il n'a pas semblé blessé,|au contraire.
+{65427}{65485}Qu'est-ce qui te fait dire ça ?
+{65505}{65545}Je le connais.
+{65765}{65817}Je ne te comprends pas !
+{65830}{65857}Pourquoi donc ?
+{65857}{65935}Quelle drôle de façon|de faire la cour à une fille.
+{65947}{66027}en attaquant son père|sur ce qu'il fait dans la vie.
+{66090}{66170}Vraiment, quelle drôle de façon|de faire la cour !
+{66430}{66502}- Tu as trouvé le bon moyen !|- Je t'en prie !
+{66520}{66572}Ton père te remercierait|s'il te voyait !
+{66572}{66635}Toujours à fouiner ! Tu m'énerves !
+{66637}{66690}J'approuve ce que tu fais.
+{66690}{66750}Mais qu'est-ce que tu as encore ?
+{66755}{66817}Tu t'en prends à moi,|comme toujours
+{66857}{66927}Il n'y a que moi|que tu traites comme ça !
+{66935}{67000}Tu te dis  "La vieille Fanny,|tu parles !"
+{67000}{67080}"Personne ne me dira rien,|allons-y gaiement !"
+{67080}{67167}Et tu as raison. Je n'ai plus rien|depuis la mort de mon frère.
+{67182}{67270}Je ne t'en aurais rien dit,|je n'y aurais pas fait allusion.
+{67287}{67365}si on ne t'avait averti,|à moins que tu aies deviné.
+{67377}{67417}Averti de quoi ?
+{67417}{67475}De ce qu'on raconte sur ta mère.
+{67650}{67677}Qu'est-ce que tu as dit ?
+{67677}{67745}J'ai compris|quand tu as attaqué Eugène.
+{67780}{67870}Tu renonces à Lucy parce qu'il en va|de la réputation de ta mère.
+{67910}{67950}Qu'est-ce que tu veux dire ?
+{67950}{68017}Que je suis désolée pour toi,|c'est tout.
+{68055}{68140}Mais je ne suis que la vieille Fanny,|celle que tu rudoies.
+{68197}{68250}Cette pauvre fille solitaire !
+{68250}{68315}S'il y a eu des racontars|selon Jack,
+{68315}{68382}c'est sur ta façon|de courir après Morgan.
+{68392}{68457}Bien sûr !|La ridicule vieille Fanny !
+{68522}{68587}Tu disais|que Mère l'invitait pour toi.
+{68587}{68640}- Et maintenant tu|- Justement !
+{68640}{68725}Je croyais qu'il aimait danser|avec moi, comme avec ta mère.
+{68730}{68782}Mère le voyait|pour te chaperonner !
+{68782}{68852}Ça n'empêche pas les gens|de parler, non ?
+{68885}{68950}Ils pensaient|que je ne comptais pas !
+{68950}{69015}"Ce n'est que Fanny Minafer"|devaient-ils dire
+{69015}{69082}On savait tous|qu'ils étaient fiancés !
+{69107}{69200}Tout le monde dans cette ville|sait qu'Isabelle n'aimait que lui !
+{69225}{69265}C'est insensé !
+{69275}{69335}Tu me mentais autrefois, alors !
+{69340}{69380}Non, du vivant de Wilbur.
+{69380}{69435}Morgan aurait pu t'épouser ?
+{69485}{69535}Je n'aurais pas accepté.
+{69535}{69620}Alors, parce qu'il vient ici|et qu'on les voit ensemble,
+{69665}{69712}on se permet de dire
+{69730}{69800}qu'elle l'aimait|avant la mort de Père ?
+{69887}{69937}Tu dois bien le savoir !
+{69952}{70005}Tout le monde en ville.
+{70005}{70042}- Qui l'a dit ?|- Quoi ?
+{70042}{70105}Qui a dit ça ?|D'où ça vient ?
+{70120}{70180}Un peu tout le monde je pense.
+{70185}{70235}Qui ose ? Réponds-moi !
+{70237}{70290}Je ne citerai personne !
+{70302}{70375}La mère de Charlie,|ton amie, t'en a parlé ?
+{70380}{70432}C'est elle qui t'en a parlé ?
+{70432}{70472}Vous en avez parlé, n'est-ce pas ?
+{70472}{70497}Le nies-tu ?
+{70497}{70570}C'est quelqu'un de discret,|mais elle a pu.
+{70667}{70715}Où vas-tu ? George !
+{70745}{70782}M.Amberson.
+{70797}{70850}M.Minafer je devrais dire
+{70850}{70890}Veuillez entrer.
+{70915}{70970}Je suis contente de vous voir.
+{71135}{71187}J'ai quelques questions|à vous poser.
+{71187}{71237}Certainement. Volontiers.
+{71252}{71297}J'irai droit au but.
+{71355}{71435}Avez-vous parlé d'un scandale|concernant ma mère ?
+{71500}{71565}Ma tante m'a dit|que vous en avez parlé.
+{71577}{71655}Je ne crois pas que votre tante|vous ait dit ça.
+{71655}{71722}Nous avons bien échangé|quelques potins.
+{71760}{71797}J'imagine !
+{71810}{71875}Mais d'autres se sont montrés|plus méchants.
+{71875}{71950}Précisément. Je veux savoir.|Combien sont-ils ?
+{71980}{72020}Qui en parle ?
+{72032}{72110}Sommes-nous au tribunal ?|Suis-je en accusation ?
+{72150}{72175}Vous pourriez l'être !
+{72175}{72255}Je veux savoir,|dussé-je frapper à toutes les portes.
+{72265}{72340}- Je veux savoir qui.|- Vous voulez savoir ?
+{72345}{72390}Alors sachez ceci,
+{72410}{72487}je veux que vous sortiez d'ici.|Quittez ma maison !
+{72747}{72772}Tu es content de toi !
+{72772}{72812}J'ai bien agi.
+{72837}{72902}Devais-je laisser|ces ragots salir ma mère ?
+{72902}{72980}Maintenant ils le feront.|Un démenti est une faute.
+{73020}{73087}- La réputation de Mère.|- Tu parles !
+{73110}{73162}La méchanceté n'épargne personne.
+{73162}{73210}La sottise non plus.
+{73227}{73310}Tu ne comprends pas|qu'on raconte que Mère va épouser.
+{73320}{73360}J'ai compris !
+{73370}{73450}- Tu en parles si tranquillement !|- Pourquoi pas ?
+{73462}{73527}- Pourquoi pas ?|- Oui, pourquoi pas ?
+{73527}{73597}Comment peux-tu dire ça ?|Ta propre sœur !
+{73617}{73680}Je t'en prie,|arrête le mélodrame !
+{73695}{73732}Reviens !
+{74332}{74387}Laissez|J'ouvrirai moi-même.
+{74437}{74495}C'est sans doute un colporteur.
+{74852}{74905}Votre mère doit m'attendre.
+{74917}{74980}Voulez-vous lui dire que je suis là.
+{75060}{75112}- Je vous disais.|- J'ai entendu
+{75112}{75207}Vous disiez que ma mère devait|sortir avec vous. J'ai dit "non"
+{75217}{75242}Qu'est-ce qu'il y a ?
+{75242}{75317}Ma mère ne sortira pas avec vous.|Ni aujourd'hui
+{75335}{75360}ni un autre jour.
+{75360}{75385}Je ne comprends pas.
+{75385}{75455}Je vais essayer|d'être plus clair alors.
+{75490}{75545}On ne veut pas de vous ici.
+{75555}{75607}Ni aujourd'hui, ni jamais !
+{75607}{75647}Est-ce clair ?
+{76737}{76787}Je viens de chez Eugène.
+{76880}{76930}Je voudrais te parler.
+{77180}{77215}Alors ?
+{77270}{77322}Je sais de quoi il s'agit.
+{77700}{77740}Il lui dit|comment tu as reçu Eugène.
+{77740}{77765}Rentre dans ta chambre.
+{77765}{77835}- N'y va pas !|- Rentre dans ta chambre !
+{77882}{77960}Tu n'as pas à intervenir.|Laisse-les tranquilles !
+{77960}{78015}- Laisse-moi.|- Sûrement pas
+{78077}{78117}Remonte ! Va !
+{78362}{78405}C'est indécent !
+{78415}{78485}Se chamailler|en de telles circonstances !
+{78532}{78625}Je te laisserais entrer là-dedans ?|Jack explique tout à Isabelle.
+{78650}{78720}Alors fiche-leur la paix|Il a du tact, lui.
+{78727}{78765}Moi je n'en ai pas ?
+{78765}{78840}- Non, aucun|- Je ne pense qu'à sa réputation !
+{78845}{78907}Ton opinion a changé|il me semble !
+{78910}{78960}Je te croyais au courant.
+{78975}{79042}Je souffrais tant,|j'ai voulu me confier.
+{79077}{79120}Quelle idiote !
+{79130}{79225}Eugène ne m'aurait jamais regardée,|même sans connaître Isabelle !
+{79235}{79287}Ils n'ont rien fait de mal.
+{79300}{79352}Elle a rendu Wilbur heureux.
+{79365}{79417}Elle a été une bonne épouse.
+{79480}{79555}Je me suis fait du mal|et j'ai gâché leur vie.
+{79610}{79672}Tu me confies tout ce que tu sais,
+{79675}{79750}et quand je veux la protéger,|tu m'attaques !
+{79767}{79810}Ton oncle s'en va.
+{79885}{79937}Laisse-la, ne descends pas.
+{80065}{80102}Laisse-la.
+{80925}{80967}Très chère amie,
+{80975}{81065}hier je croyais venu le temps|de vous demander de m'épouser.
+{81080}{81160}Vous aviez été assez douce|de me le laisser espérer.
+{81197}{81265}Nous devons faire face,|non au scandale,
+{81300}{81375}ni à notre propre peur,|car elle n'existe pas.
+{81405}{81465}Mais à celle de quelqu'un d'autre.
+{81470}{81507}Votre fils.
+{81522}{81577}Je sais combien vous l'aimez.
+{81625}{81670}Et ça m'effraie.
+{81677}{81735}Laissez-moi vous en dire plus.
+{81742}{81795}Je ne crois pas qu'il change.
+{81795}{81835}Quand on a vingt ans,
+{81835}{81905}tout semble important,|permanent, terrible.
+{81950}{82025}Alors que plus tard,|on en comprend la vanité.
+{82067}{82125}Il ne peut pas s'en rendre compte.
+{82145}{82220}On ne comprend ça|que la quarantaine venue.
+{82250}{82302}Aussi, je vous le demande.
+{82327}{82385}Voulez-vous vivre pour vous ?
+{82392}{82435}Ou pour George ?
+{82470}{82522}Ça me désole pour vous.
+{82522}{82587}Mais cette épreuve|que vous devez traverser
+{82587}{82662}n'est que le fruit|de votre faiblesse de mère.
+{82717}{82802}Etes-vous assez forte, Isabelle,|pour livrer ce combat ?
+{83147}{83232}Vous verrez vite que le plus|difficile est de l'accepter.
+{83330}{83405}Ce n'est qu'alors|que vous trouverez le bonheur.
+{83460}{83510}Maisje suis trop bavard.
+{83550}{83607}vous ne voulez pas être forte ?
+{83627}{83692}Ce n'est qu'un bref effort|à fournir.
+{83875}{83940}Ne brisez pas ma vie|une seconde fois.
+{83965}{84025}Cette fois je ne le mérite pas.
+{84837}{84880}Tu as lu chéri ?
+{84927}{84962}En effet.
+{85032}{85072}Entièrement ?
+{85357}{85400}Qu'en penses-tu ?
+{85422}{85460}Qu'est-ce que tu veux dire ?
+{85460}{85515}Tu vois combien il est loyal.
+{85525}{85560}Loyal ?
+{85617}{85682}Loyal en niant|l'impact de ces ragots ?
+{85682}{85750}Quels ragots ?|Le fait qu'Eugène m'aime ?
+{85800}{85847}Il t'a toujours aimée.
+{86020}{86057}C'est vrai.
+{86085}{86130}Mais tu es ma mère.
+{86162}{86210}Tu es une Amberson !
+{86630}{86675}Je ne sais plus.
+{87190}{87240}Je vais écrire à Eugène.
+{87320}{87360}Il comprendra.
+{87385}{87425}Il attendra.
+{87475}{87522}Ce sera mieux comme ça.
+{87632}{87690}On va voyager.|Toi et moi.
+{88035}{88100}- N'avez-vous pas|- N'ai-je pas quoi ?
+{88100}{88130}Rien.
+{88152}{88220}- Je peux vous accompagner ?|- Bien sûr.
+{88477}{88530}J'ai quelque chose à vous dire
+{88530}{88600}D'agréable j'espère.|Papa est si triste lui.
+{88645}{88695}Une histoire amusante ?
+{88697}{88745}Peut-être pour vous.
+{88750}{88792}Pour commencer
+{88802}{88840}vous êtes partie|sans me prévenir.
+{88840}{88897}Pas un mot, pas une note, rien.
+{88932}{88987}J'allais simplement en visite.
+{88997}{89050}- Vous auriez pu.|- Allons George !
+{89050}{89100}Nous nous étions disputés.
+{89100}{89187}Nous ne nous sommes plus adressé|la parole un bout de temps.
+{89192}{89257}Nous étions incapables de jouer|comme deux enfants sages.
+{89257}{89315}Autant ne plus jouer du tout !
+{89322}{89355}Jouer ?
+{89400}{89477}Au point où nous en étions,|il fallait cesser notre jeu.
+{89477}{89535}S'il s'agissait bien d'un jeu.
+{89555}{89595}Jouer les amoureux ?
+{89595}{89642}Oui, c'était absurde.
+{89660}{89700}Pas forcément.
+{89700}{89767}Si, avec votre tempérament|et le mien
+{89790}{89840}ça n'aurait rien donné.
+{89855}{89917}Cette fois|c'est moi qui m'en vais.
+{89920}{89970}Je voulais vous le dire.
+{89985}{90050}Je pars demain soir.|Et pour longtemps.
+{90062}{90120}J'espère que vous vous amuserez.
+{90140}{90195}Je n'espère pas m'amuser !
+{90205}{90255}Alors ne partez pas !
+{90335}{90387}C'est notre dernière promenade.
+{90387}{90445}Certes. Si vous partez demain
+{90480}{90547}c'est la dernière fois|que je vous vois,
+{90570}{90620}la toute dernière fois.
+{90647}{90717}Mère et moi nous partons faire|le tour du monde.
+{90740}{90790}Le retour n'est pas encore prévu.
+{90790}{90837}Un long voyage donc.
+{90842}{90932}Vous voyagerez sans escale|ou vous séjournerez quelque part ?
+{90935}{90982}Ça doit être agréable.
+{91012}{91070}Je ne supporte pas votre ton !
+{91260}{91355}De voir combien vous tenez peu à moi,|combien vous êtes indifférente.
+{91402}{91447}C'est insupportable.
+{91610}{91647}Adieu Lucy.
+{92012}{92057}Un adieu à jamais.
+{92065}{92137}Adieu alors.|Et faites un voyage magnifique !
+{92195}{92247}Mes amitiés à votre mère !
+{92675}{92770}Donnez-moi un cordial je vous prie.|Ainsi qu'un grand verre d'eau.
+{92935}{92987}Mon Dieu mademoiselle !
+{93195}{93235}C'est gentil Lucy
+{93235}{93317}de m'inviter dans votre nouvelle|maison dès mon retour.
+{93340}{93412}Après Paris|la ville vous semblera monotone !
+{93572}{93637}J'ai trouvé Isabelle|comme d'habitude.
+{93702}{93785}Mais le "comme d'habitude"|n'est pas très reluisant.
+{93897}{93960}Il lui faudrait|un fauteuil roulant.
+{93990}{94030}Comment ça ?
+{94080}{94132}Elle est gaie, du moins
+{94145}{94220}fait-elle tout son possible|pour en avoir l'air.
+{94250}{94305}Mais elle respire avec peine.
+{94340}{94400}Père est comme ça|depuis des années.
+{94430}{94477}Mais pas à ce point.
+{94547}{94612}Elle doit demander|à George de revenir.
+{94612}{94655}"Demander" ?
+{94665}{94705}Le veut-elle ?
+{94742}{94790}Elle n'en parle pas.
+{94820}{94895}George aime cette vie.|Il est toujours aussi dur.
+{94990}{95047}Elle est toujours fière de lui.
+{95095}{95135}Mais je sais
+{95172}{95220}qu'elle désire revenir.
+{95275}{95340}Elle aimerait revoir Père.|Je crois.
+{95457}{95510}Je crois qu'elle craint
+{95562}{95615}de ne plus jamais le revoir.
+{95680}{95740}Son propre état de santé l'inquiète.
+{95875}{95940}Et lui ne veut pas|la laisser revenir ?
+{96030}{96090}Il n'emploie pas la force non plus.
+{96107}{96157}Il est gentil avec elle.
+{96185}{96250}Je me demande même|s'ils en ont parlé.
+{96302}{96380}Pourtant, connaissant George|comme tu le connais,
+{96407}{96450}qu'en penses-tu ?
+{96537}{96600}Comme je le connais|tu as raison.
+{97095}{97132}Changée,
+{97187}{97225}si changée.
+{97277}{97327}Tu parles de la ville ?
+{97342}{97410}Tu parles de notre ville,|n'est-ce pas ?
+{97420}{97507}Ça ira mieux. Maintenant|que tu es revenue, tu guériras vite.
+{97655}{97705}Monsieur George arrive.
+{98345}{98395}Je viens voir votre mère.
+{98435}{98482}Je regrette M.Morgan.
+{98577}{98632}Pas cette fois. Je la verrai.
+{98670}{98712}Le docteur dit
+{98735}{98785}qu'il lui faut du calme.
+{98825}{98865}Je serai calme.
+{99007}{99052}Vous ne devriez pas.
+{99097}{99137}Le docteur.
+{99190}{99230}Fanny a raison.
+{99345}{99395}Reviens un peu plus tard.
+{100372}{100415}Elle vous demande.
+{101217}{101295}Mon trésor, tu as trouvé|quelque chose à manger ?
+{101360}{101412}Tout ce qu'il te fallait ?
+{101502}{101567}Tu n'as pas pris froid|en rentrant ?
+{101595}{101640}Je me sens très bien.
+{101725}{101765}C'est si bon.
+{101840}{101880}Quoi donc maman chérie ?
+{101880}{101930}Ma main contre ta joue.
+{101970}{102012}Je la sens bien.
+{102152}{102195}Je me demande
+{102217}{102275}si Eugène me sait de retour ?
+{102310}{102352}J'en suis certain.
+{102465}{102522}A-t-il pris de mes nouvelles ?
+{102607}{102650}Oui, il est venu.
+{102765}{102807}Il est reparti ?
+{103010}{103060}J'aurais aimé le voir !
+{103155}{103200}Rien qu'une fois.
+{103322}{103375}Il faut qu'elle se repose.
+{104232}{104275}Elle t'aimait !
+{104297}{104345}Elle t'aimait tant !
+{104390}{104415}Dès lors
+{104415}{104470}le major Amberson se plongea
+{104480}{104555}dans les plus profondes|méditations de sa vie.
+{104557}{104635}Il se rendit compte|que ce qui l'avait intéressé
+{104635}{104675}durant sa vie
+{104700}{104770}les affaires, l'immobilier,|la finance...
+{104805}{104882}n'étaient que vanité|à côté de ce qui l'attendait.
+{104935}{105025}Il devait maintenant préparer|son entrée dans un monde inconnu
+{105077}{105157}où être un Amberson|ne signifierait peut-être rien.
+{105325}{105385}La maison est au nom d'Isabelle ?
+{105480}{105570}Tu te souviens de la date|à laquelle tu lui as remis l'acte ?
+{105650}{105700}Je ne m'en souviens pas.
+{105727}{105775}C'est sans importance.
+{105780}{105842}Nos affaires sont si embrouillées.
+{105870}{105922}Il te faut cet acte George.
+{105922}{105970}Laisse donc tout ça !
+{106157}{106207}Ça doit être le soleil
+{106287}{106337}Il n'y avait rien ici
+{106352}{106392}que du soleil
+{106547}{106602}La terre est issue du soleil.
+{106625}{106685}Et nous sommes issus de la terre.
+{106755}{106830}Qui que nous soyons,|la terre est notre origine.
+{107092}{107152}Etrange façon de nous dire adieu.
+{107197}{107250}Qui l'aurait pensé|il y a quelques années ?
+{107250}{107290}Et nous voici.
+{107300}{107375}Deux messieurs|tout aussi élégants que ruinés.
+{107457}{107515}Qui sait ce qui peut arriver ?
+{107560}{107640}Autrefois, ici,|je disais adieu à une jeune beauté.
+{107640}{107727}C'était dans l'autre gare,|avant qu'ils construisent celle-ci.
+{107782}{107847}On savait|qu'on se séparait pour un an.
+{107872}{107925}Moi je croyais en mourir.
+{107925}{107975}Elle était en larmes.
+{108015}{108080}Maintenant je ne sais même pas|où elle vit.
+{108080}{108132}si jamais elle est en vie.
+{108160}{108237}Si elle pense à moi,|elle s'imagine que je danse encore
+{108237}{108305}dans le salle de bal|de notre résidence
+{108315}{108382}qu'elle doit encore voir|resplendissante.
+{108392}{108460}La plus belle demeure|de toute la ville.
+{108522}{108570}La vie et l'argent !
+{108600}{108650}Tout ça s'en est allé.
+{108692}{108757}Et nous sommes incapables|de dire où !
+{108822}{108902}Maintenant je vais te dire,|le temps nous est compté
+{108912}{108960}Je vais être franc.
+{108990}{109070}Je t'ai toujours aimé|même si tu m'as souvent déplu.
+{109095}{109155}Nous t'avons trop gâté mon garçon.
+{109160}{109220}Mais tu as bien pris le coup dur.
+{109237}{109327}Le train arrive, mais sache que|parfois je t'aurais giflé !
+{109330}{109407}Un dernier mot.|Il y a peut-être dans cette ville
+{109432}{109510}quelqu'un qui pense comme moi,|malgré tes défauts.
+{109510}{109560}Tu pourrais chercher.
+{109562}{109597}Je file.
+{109602}{109667}Je t'enverrai de l'argent.|Au revoir et
+{109667}{109712}que Dieu te garde !
+{109850}{109920}Connais-tu le nom indien|de ce petit bois ?
+{110030}{110065}Et toi ?
+{110160}{110200}Il s'appelle
+{110200}{110240}Loma-Nashah.
+{110252}{110277}Ce qui veut dire
+{110277}{110342}- "C'est plus fort qu'eux"|- Curieux.
+{110342}{110400}Les noms indiens sont bizarres.
+{110407}{110460}Il y avait un chef indien|très méchant.
+{110460}{110522}Le plus méchant qui ait jamais vécu.
+{110525}{110567}Il s'appelait
+{110630}{110665}Vendonah.
+{110667}{110735}C'est-à-dire|"Celui qui écrase tout"
+{110745}{110810}Vendonah,|"celui qui écrase tout"
+{110927}{110962}Continue.
+{110992}{111045}C'était quelqu'un d'abject.
+{111057}{111155}Il était si fier qu'il piétinait|les gens avec des souliers d'acier.
+{111175}{111217}Sa tribu décida
+{111227}{111292}que sa jeunesse|n'était pas une excuse.
+{111330}{111377}Il lui fallut partir.
+{111395}{111455}Ils l'installèrent dans un canoë
+{111487}{111532}qui quitta la berge.
+{111540}{111600}Le courant l'entraîna vers la mer.
+{111630}{111675}On ne le revit plus.
+{111682}{111757}Ils ne voulaient plus de lui,|ils le haïssaient.
+{111812}{111882}Mais ils ne trouvèrent|aucun autre guerrier
+{111890}{111942}qui pût devenir leur chef.
+{111995}{112045}C'était plus fort qu'eux.
+{112110}{112165}D'où le nom de ce petit bois.
+{112190}{112227}Probablement.
+{112500}{112555}Tu lui préfères ton jardin.
+{112592}{112645}Tu crois qu'il vaut mieux
+{112645}{112722}te promener parmi les fleurs|jusqu'à la vieillesse.
+{112787}{112857}La Femme au Jardin|de la gravure ancienne.
+{112942}{113007}Je suis comme la tribu|qui vivait ici.
+{113035}{113085}J'ai connu trop|de moments désagréables.
+{113085}{113137}Je n'en veux pas d'autres.
+{113190}{113242}Tout ce que je désire|c'est d'être auprès de toi.
+{113242}{113310}Tu crois ?|Quel est le nom de ce bois ?
+{113345}{113387}Le nom indien ?
+{113437}{113475}Mola-Haha.
+{113527}{113565}Mola-Haha ?
+{113592}{113645}Ce n'est pas ce que tu m'as dit.
+{113645}{113682}J'ai oublié.
+{113735}{113785}Le nom du chef aussi ?
+{114010}{114080}J'espère qu'un jour|tu l'oublieras vraiment.
+{114152}{114190}Comprends-moi !
+{114190}{114262}Ça ne nous avance à rien|de nous disputer !
+{114270}{114357}- Cette maison que tu as choisie|- C'est une bonne pension.
+{114360}{114400}Nous serions ensemble !
+{114400}{114455}Avec quoi ? Huit dollars par semaine ?
+{114477}{114545}C'est tout ce que je gagne|comme clerc !
+{114595}{114647}Tu en paierais plus que moi.
+{114685}{114725}Je paierais ?
+{114775}{114842}Bien sûr que oui,|tu paierais pour moi.
+{114867}{114905}Avec quoi ?
+{115010}{115070}J'ai 28 dollars en tout et pour tout !
+{115217}{115300}J'ai dit à Jack que j'avais|encore de l'argent mais
+{115335}{115380}j'ai tout perdu
+{115400}{115447}jusqu'au dernier cent.
+{115477}{115517}Tout est parti.
+{115517}{115555}Pourquoi tu me l'as caché ?
+{115555}{115620}Je voulais attendre|le dernier moment.
+{115635}{115687}A quoi ça t'aurait avancé ?
+{115737}{115792}Je sais ce que tu vas faire.
+{115895}{115932}M'abandonner dans ma misère !
+{115932}{116002}Je te demande seulement|d'être raisonnable.
+{116010}{116092}Il est impossible pour nous deux|de continuer comme ça.
+{116115}{116140}Allons, relève-toi.
+{116140}{116202}Je ne peux pas.|Je suis trop faible
+{116285}{116350}Tout ça ne rime à rien.|Relève-toi !
+{116387}{116455}Ta mère voulait|que je veille sur toi,
+{116492}{116570}que je fasse en sorte|que tu aies toujours un foyer.
+{116595}{116635}J'ai essayé.
+{116675}{116737}J'ai fait de mon mieux|pour t'aider.
+{116805}{116880}Je me suis éreintée|à nous trouver quelque chose.
+{116985}{117057}J'ai parcouru cette ville|de long en large !
+{117155}{117212}Sans même prendre le tramway !
+{117297}{117357}Je ne voulais pas gâcher 5 cents.
+{117427}{117467}Relève-toi !
+{117480}{117547}Tu vas te brûler|contre cette chaudière.
+{117570}{117637}Elle n'est pas chaude.|Elle est froide !
+{117662}{117720}Les plombiers l'ont débranchée.
+{117792}{117845}Si elle marchait encore
+{117947}{118007}ça me serait égal d'être brûlée !
+{118025}{118085}Allez  lève-toi|et calme-toi !
+{118117}{118170}Calme-toi, tu m'entends !
+{118220}{118260}Ecoute-moi !
+{118272}{118340}Voilà. Très bien.|Voyons, réfléchissons
+{118390}{118455}si cette pension|est dans nos moyens
+{118467}{118525}C'est la meilleure solution !
+{118560}{118620}- J'en suis sûr|- C'est possible.
+{118662}{118720}Et nous aurons de la compagnie.
+{118740}{118790}Je pensais à l'argent.
+{118792}{118845}Nous ferons des économies.
+{118910}{118972}Déjà les pourboires sont interdits.
+{119000}{119027}C'est bien.
+{119027}{119090}Mais le loyer|est de 36 dollars par mois
+{119092}{119147}et les repas, 22 pour chacun
+{119157}{119222}J'ai à peu près 100 dollars.|C'est tout.
+{119260}{119325}Si nous n'achetons pas|de vêtements.
+{119340}{119387}Les nôtres sont bons !
+{119390}{119455}- Tu vois bien|- Oui, je vois bien, oui.
+{119455}{119510}Je vois que 36 et 45 font 81.
+{119547}{119610}Il nous faut 100 dollars par mois
+{119665}{119715}et je vais en gagner 32
+{119780}{119822}Quelle ardeur !
+{119832}{119885}Quelle ardeur au travail !
+{119885}{119957}Vous n'avez même pas|attendu pour commencer !
+{119975}{120045}La loi est une maîtresse|jalouse et sévère
+{120055}{120097}Je ne peux pas !
+{120145}{120220}Je voulais vous dire|que je dois gagner plus
+{120222}{120262}et tout de suite.
+{120262}{120337}Je ne vois pas|où vous pourriez être mieux payé.
+{120352}{120417}Les métiers dangereux|rapportent plus.
+{120457}{120495}Les produits chimiques,
+{120495}{120550}les explosifs, la dynamite.
+{120587}{120662}Il faut que je trouve|quelque chose de ce genre.
+{120665}{120717}Et que je commence dès demain.
+{120717}{120777}J'étais un ami de votre grand-père,
+{120795}{120847}dites-moi ce qui ne va pas.
+{120860}{120915}Eh bien ma tante Fanny.
+{120937}{120990}Elle a choisi une pension,
+{121002}{121067}mais elle a tout perdu|en spéculation.
+{121095}{121175}Dans cet endroit,|elle sait qu'elle pourra bridger
+{121237}{121295}avec de vieilles connaissances.
+{121315}{121382}C'est ce qu'elle désire|le plus au monde.
+{121405}{121445}Et je veux qu'elle l'obtienne.
+{121445}{121517}Je suis un peu responsable|de ces placements
+{121535}{121597}Non, je le suis,|je suis son neveu.
+{121600}{121695}Je ne vois pas un jeune homme|comme vous renoncer à travailler ici
+{121717}{121790}pour que sa tante|puisse bridger à son aise.
+{121912}{121952}Promettez-moi|de prendre soin de vous
+{121952}{122002}et je ferai mon possible.
+{122030}{122110}Ça pour être débrouillard,|vous êtes débrouillard !
+{122172}{122240}George Amberson Minafer|rentra chez lui
+{122250}{122325}à travers les étranges rues|d'une étrange cité.
+{122367}{122437}Car la ville s'étendait,|se transformait.
+{122472}{122547}Le centre s'était développé|de façon incroyable
+{122550}{122600}et les faubourgs aussi.
+{122627}{122690}Et tandis que la ville grandissait,
+{122692}{122765}elle obscurcissait le ciel|au dessus d'elle.
+{122822}{122875}Dernier retour à la maison
+{122900}{122975}par National Avenue|vers la résidence Amberson,
+{123017}{123075}la grande et vieille demeure.
+{123110}{123162}Demain ils déménageraient.
+{123187}{123240}Demain tout serait fini.
+{123472}{123517}Mère, pardonne-moi
+{123590}{123640}Mon Dieu, pardonnez-moi.
+{123785}{123837}Quelque chose s'était produit.
+{123837}{123905}Quelque chose qui,|des années auparavant,
+{123927}{124010}avait été l'espoir|de tant d'habitants de cette ville.
+{124122}{124180}Et maintenant c'était arrivé.
+{124215}{124285}George Amberson Minafer|s'était fait mater
+{124370}{124417}à travers trois rudes
+{124460}{124515}et bouleversantes épreuves.
+{124565}{124660}Ceux qui avaient tant attendu ça|n'étaient plus là pour le voir.
+{124720}{124800}Et ceux qui étaient encore là|avaient tout oublié.
+{124850}{124902}Et l'avaient oublié, lui.
+{124980}{125032}Il s'est jeté sous ma voiture !
+{125032}{125100}S'il se remet,|il n'aura droit à rien !
+{125137}{125200}Je suis désolé pour lui.|Madame aussi.
+{125215}{125267}Ces machines peuvent être|dangereuses.
+{125267}{125327}Allez, retournez à votre véhicule.
+{125385}{125442}Les accidents d'auto augmentent.
+{125450}{125515}Le gouverneur va prendre|des mesures.
+{125515}{125580}GA Minafer,|employé à la Sté Zker...
+{125580}{125635}a eu les deuxjambes brisées.
+{125852}{125902}Qu'est-ce que tu vas faire Papa ?
+{126202}{126250}Je vais aller le voir
+{126372}{126415}Tu viens Papa ?
+{127580}{127625}Comment va-t-il ?
+{127645}{127715}- Comment va Georgie ?|- Il s'en remettra.
+{127762}{127825}Si vous l'aviez vu regarder Lucy !
+{127920}{127990}Savez-vous ce qu'il a dit|en nous voyant ?
+{128010}{128047}Il a dit
+{128100}{128185}"Vous avez dû sentir|que Mère vous disait de venir"
+{128217}{128280}"pour que je vous demande pardon"
+{128322}{128380}Nous nous sommes serrés la main.
+{128505}{128590}Je n'avais jamais remarqué|combien il ressemble à Isabelle.
+{128672}{128720}Vous savez Fanny,
+{128790}{128845}je ne peux le dire qu'à vous.
+{129025}{129097}Je sentais une autre présence|dans la chambre.
+{129180}{129255}Par moi, elle avait|de nouveau protégé son fils.
+{129362}{129417}J'ai été fidèle jusqu'au bout.
+{129452}{129497}Fidèle à mon amour.
+{129830}{129905}Mesdames et messieurs,|La Splendeur des Amberson
+{129907}{129975}est tiré du roman|de Booth Tarkington.
+{129985}{130050}Stanley Cortez|est le chef opérateur.
+{130050}{130112}Mark Lee Kirk|a conçu les décors.
+{130167}{130225}Robert Wise|a monté le film.
+{130272}{130337}Edward Stevenson|a créé les robes des dames.
+{130337}{130402}Les effets spéciaux|sont de B.Walker.
+{130402}{130490}La prise du son a été réalisée par|B.Fester et JG Stewart.
+{130520}{130552}Avec :
+{130557}{130607}Eugène :|Joseph Cotten
+{130662}{130717}Isabelle :|Dolores Costello
+{130780}{130825}Lucy :|Anne Baxter
+{130870}{130915}George :|Tim Holt
+{130960}{131012}Fanny :|Agnes Moorehead
+{131077}{131125}Jack :|Ray Collins
+{131182}{131235}Roger Bronson :|B. Samford
+{131300}{131360}Major Amberson :|Richard Bennett
+{131402}{131472}J'ai écrit le scénario|et réalisé le film.
+{131480}{131535}Je m'appelle|Orson Welles.
+{131545}{131602}C'est une Production Mercury.
+

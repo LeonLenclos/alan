@@ -1,0 +1,661 @@
+{4460}{4525}Trouvez-moi l'agent secret|Chester Desmond
+{4522}{4579}à Fargo, dans le Dakota du Nord.
+{4963}{5010}Viens nous donner un coup|de main.
+{5032}{5060}Je répondrai au téléphone.
+{5252}{5290}-Allô!|-Chet...
+{5291}{5349}J'appelle de Portland,|dans l'Orégon.
+{5348}{5423}C'est Fordon Cole,|le chef du bureau régional
+{5420}{5460}qui appelle de Portland!
+{5483}{5511}D'accord, Fordon.
+{5511}{5566}Oregon!
+{5596}{5633}Une fille a été assassinée!
+{5631}{5679}Dix-sept ans.
+{5677}{5734}Elle s'appelle Teresa Banks.
+{5759}{5809}Chet, j'ai une surprise pour|toi.
+{5809}{5872}Une chose très intéressante que|j'aimerais te montrer.
+{5869}{5939}Je fais les arrangements...
+{5936}{6001}pour qu'on se rencontre à|l'aéroport privé...
+{5998}{6023}de Portland!
+{6022}{6057}D'accord, Fordon.
+{7045}{7070}-Content de te voir.|-Salut, Fordon.
+{7101}{7146}Donne à Sam Stanley|une poignée sympa.
+{7144}{7191}Il arrive de Spokane.
+{7189}{7244}Enchanté. On m'a beaucoup parlé|de vous.
+{7242}{7305}C'est Sam qui a éclaircit|l'affaire Whitman.
+{7304}{7357}Mes compliments.
+{7355}{7385}On m'en a parlé!
+{7417}{7467}Maintenant, ta surprise!
+{7513}{7573}Elle s'appelle Lil!
+{7702}{7760}C'est la fille de la sœur|de ma mère.
+{7803}{7828}FBI.
+{7966}{7991}Bonne chance!
+{8021}{8063}Sam, ne lâche pas Chet.
+{8065}{8157}Il a son propre modus operandi.
+{8182}{8207}Les gars, vous pouvez|me contacter...
+{8208}{8243}...dans nos bureaux,|à Philadelphie.
+{8244}{8277}J'y vais aujourd'hui.
+{8395}{8432}Cette fille qui dansait,
+{8431}{8486}ça voulait dire quelque chose,|n'est-ce pas?
+{8487}{8534}Ça voulait dire quoi,|exactement?
+{8534}{8566}Je vais t'expliquer.
+{8603}{8656}Tu te souviens de son expression|Revêche?
+{8656}{8696}Explique-toi.
+{8750}{8807}Son visage avait|une expression revêche.
+{8862}{8935}Nous aurons des problèmes|avec les autorités locales.
+{8932}{8997}Elles ne voudront pas collaborer|avec le FBI.
+{9023}{9065}Le battement des paupières|indique des problèmes....
+{9064}{9092}...venant de haut.
+{9092}{9135}L'œil, c'est pour|les autorités locales.
+{9134}{9204}Un shérif et un commissaire,|je présume.
+{9203}{9253}Elle avait une main|dans sa poche?
+{9251}{9296}Ça veut dire qu'ils cachent|quelque chose.
+{9325}{9360}L'autre main qui forme un|poing,
+{9361}{9409}indique qu'ils seront agressifs.
+{9407}{9457}Sa marche en place indique...
+{9455}{9540}que nous aurons à utiliser nos|jambes.
+{9565}{9667}Cole a dit que Lil était la|fille de la sœur de sa mère.
+{9663}{9726}Qu'est-ce qui manque à cette|phrase?
+{9723}{9770}L'oncle.
+{9771}{9831}Pas celui de Cole. Probablement|l'oncle du shérif...
+{9829}{9864}...actuellement|en prison fédérale.
+{9862}{9902}Dis, Stanley,
+{9903}{9976}concernant sa robe,|tu n'as rien remarqué?
+{9973}{10010}Elle était réparée à sa taille.
+{10008}{10048}J'ai remarque que le fil|de la réparation ...
+{10049}{10096}était de couleur différente.
+{10145}{10187}Fordon a raison.|Tu es brillant.
+{10232}{10274}La robe sur mesure,|c'est notre code pour la drogue.
+{10347}{10374}Tu as vu ce qui y était épinglé?
+{10486}{10546}Une rose bleue?
+{10649}{10674}Bien.
+{10716}{10751}Je ne peux pas t'en parler.
+{10785}{10813}Vraiment?
+{10869}{10906}Non. Je ne peux pas.
+{11909}{11951}Bonsoir.
+{11950}{11975}FBI.
+{12007}{12045}Je suis l'agent secret|Chet Desmond.
+{12044}{12086}J'aimerais voir le shérif Cable,|s'il vous plaît.
+{12303}{12370}Asseyez-vous là-bas,|vous et votre coéquipier.
+{12370}{12392}Allez-y. Prenez vos aises,
+{12394}{12436}car vous en aurez|pour longtemps.
+{12763}{12800}Allez-y, servez-vous|une tasse de café.
+{12825}{12867}C'était frais, il y a|deux jours.
+{13060}{13112}-J'ai suffisamment attendu.|-Vraiment?
+{13330}{13355}Tu ne bouges pas.
+{13613}{13676}Toi, va préparer le café|immédiatement.
+{13901}{13961}-Comment êtes-vous entré?|-FBI.
+{13961}{14006}Agent spécial, Chet Desmond.
+{14035}{14093}Je suis ici pour l'enquête|du me meurtre de Teresa Banks.
+{14131}{14204}Eh bien, mon petit gars,
+{14201}{14261}ici, nous n'avons pas besoin|d'aide de l'extérieur.
+{14299}{14342}J'aime pas que vous veniez fouiner|dans les bois,
+{14340}{14407}sur mon territoire.
+{14404}{14472}En fait, quand ces gars|de l'Etat m'on appelé...
+{14470}{14565}concernant l'arrivée|d'un J.Edgar,
+{14561}{14661}je crois avoir dit, ''Et alors?''.
+{14749}{14784}Ne vous en faites pas,|commissaire,
+{14786}{14858}le shérif s'en occupe.
+{14858}{14888}Cliff...
+{15047}{15097}Votre comportement|n'est pas drôle.
+{15095}{15178}Vous gaspillez le temps|du gouvernement Fédéral.
+{15210}{15283}Soyez chanceux que c'est pas|vous que je gaspille.
+{15313}{15388}Eh bien, mon petit gars,|je récapitule:
+{15385}{15457}Le mot clé dans cette affaire|c'est Fédéral.
+{15454}{15494}Je vous ordonne, maintenant,|de soumettre...
+{15493}{15556}toute information concernant|Teresa Banks.
+{15553}{15608}De son vivant à sa mort.
+{15821}{15871}Un assassinat simple.
+{15869}{15941}Banks était une vagabonde|que personne ne connaissait.
+{15938}{16001}Où est le cadavre?
+{16029}{16109}C'est derrière,|à notre morgue.
+{16145}{16230}Il est 4 heures 30. Nous fermons|à cinq heures.
+{16229}{16276}Nous avons notre propre horloge,
+{16277}{16314}nous fermerons.
+{17068}{17100}Vous savez,
+{17099}{17172}d'après mes calculs, ce bureau,|les meubles inclus,
+{17169}{17209}vaut 27000 dollars.
+{17720}{17775}Elle a vécu au camp de|caravaning, ''La Frosse Truité',
+{17775}{17815}pendant un mois.
+{17813}{17853}Nous irons là-bas.
+{17902}{17957}Elle était serveuse à Hap's.
+{17990}{18043}Au poste de nuit.
+{18041}{18103}On y dînera là-bas, plus tard.
+{18225}{18263}Personne n'est venu réclamer|le corps.
+{18353}{18383}Aucune trace de la famille.
+{18810}{18840}Crane fracassé.
+{18842}{18887}Causé, probablement,
+{18887}{18935}par de multiples coups|derrière la tête...
+{18935}{19008}à l'aide d'un instrument|épointé, à l'angle obtus.
+{19096}{19143}Je me demande où est sa bague?
+{19189}{19299}Effets personnels: une montre,|des dessous,
+{19294}{19334}uniforme rose de serveuse.
+{19568}{19611}La bague a disparu.
+{19681}{19733}Une contusion assez|singulière...
+{19781}{19828}sous l'annulaire|de la main gauche.
+{19879}{19904}Accidentel?
+{20443}{20520}Pourriez-vous tenir|le doigt en place?
+{20644}{20671}Il y a quelque chose là-dedans.
+{20783}{20805}Oui...
+{20879}{20976}Qu'est-ce que c'est?
+{20972}{21012}C'est un morceau de papier...
+{21049}{21094}imprimé de la lettre ''T''.
+{21092}{21120}Regardez.
+{21790}{21860}Il est 3 heures 30 du matin.
+{21859}{21884}Où dormirons-nous?
+{21917}{21945}Nous ne dormirons pas.
+{21943}{21983}Toi et moi, nous allons chercher|à manger.
+{22078}{22140}Demandez à Irene.
+{22140}{22207}Elle est là-bas.
+{22207}{22282}Elle s'appelle Irène,|et il fait nuit.
+{22281}{22329}N'allez pas plus loin.
+{22329}{22382}C'est rien d'agréable.
+{22458}{22486}Merci, Jack.
+{22573}{22628}Qu'est-ce qui se passe|avec cette putain de lampe?
+{22936}{22991}FBI.
+{22989}{23026}Agent Secret, Chet Desmond.
+{23091}{23129}J'aimerais vous poser|quelques questions...
+{23128}{23163}concernant Teresa Banks.
+{23161}{23198}Jack a dit que|vous la connaissiez.
+{23228}{23265}Vous la connaissiez bien?
+{23358}{23445}Elle n'a travaillé ici que|durant un mois.
+{23441}{23471}Gentille fille.
+{23506}{23581}Elle n'était pas la plus|ponctuelle.
+{23578}{23615}A mon avis,
+{23614}{23677}elle avait un petit problème|de...
+{23760}{23815}Vous l'aviez vue prendre|de la cocaïne?
+{23962}{24032}Et vous, vous en avez pris?
+{24031}{24081}Non, je n'en prends pas.
+{24079}{24174}Je n'ai jamais pris de la|drogue.
+{24170}{24245}Je ne prends pas de la drogue.
+{24245}{24295}La nicotine, c'est de la drogue.
+{24293}{24363}La caféine, c'est de la drogue.
+{24360}{24402}C'est qui, cette tête de plomb?
+{24403}{24455}Ces drogues sont légales.
+{24508}{24533}Il est avec moi.
+{24606}{24666}Savez-vous quelque chose sur|Teresa Banks
+{24664}{24702}qui pourrait nous aider?
+{24700}{24767}J'y ai pensé.
+{24801}{24858}A mon avis,
+{24855}{24943}sa mort, c'est ce qu'on|appelle...
+{24980}{25028}un accident bizarre.
+{25162}{25185}Merci.
+{25186}{25224}Vous parlez de cette petite...
+{25223}{25313}qui a été assassinée?
+{25335}{25378}Vous en savez quelque chose?
+{25376}{25451}Je n'en sais rien de rien.
+{25635}{25675}On devrait, peut-être,|l'interroger.
+{25841}{25898}Quelle heure est-il, Stanley?
+{26011}{26071}Il est tard. Il est tard.
+{26071}{26121}Je suis désolé.
+{26121}{26146}Il est tôt.
+{26145}{26183}Il est vraiment tôt.
+{26181}{26293}Je n'en ai parlé à personne,
+{26289}{26382}mais, une fois, pendant trois|jours,
+{26378}{26425}juste avant sa mort,
+{26459}{26544}le bras de Teresa était|complètement mort.
+{26541}{26581}Expliquez-vous.
+{26579}{26629}Son bras gauche...
+{26629}{26674}c'était paralysé.
+{26701}{26764}Elle disait qu'elle ne pouvait|pas le bouger.
+{26761}{26846}Probablement à cause de la|drogue qu'elle prenait.
+{26891}{26943}Je tenais à vous le dire.
+{26979}{27002}Merci.
+{27003}{27041}Vous parlez de la petite...
+{27041}{27126}qui a été assassinée?
+{27126}{27198}Je parie que la drogue n'y était|pour rien.
+{27198}{27260}C'était probablement un problème|nerveux.
+{27294}{27369}Je pourrais examiner le bras à|nouveau,
+{27366}{27413}mais il faudrait que j'amène le|corps à Portland...
+{27411}{27484}pour un examen approfondi|des nerfs.
+{27481}{27556}Je crois que c'est|une bonne idée.
+{27756}{27831}Nous sommes prêts|pour la commande.
+{27828}{27901}Vous voulez entendre|le menu du jour?
+{27972}{28017}Nous n'en avons pas.
+{28262}{28322}Quoi?
+{28320}{28357}Qu'est-ce que c'est?
+{28358}{28380}Quoi?
+{28382}{28414}''Neuf''.
+{28415}{28445}Tu sais lire?
+{28444}{28511}Il est vraiment tard.|Nous sommes matinaux.
+{28511}{28546}J'espère que c'est important.
+{28547}{28592}FBI.
+{28590}{28653}Agent spécial, Chet Desmond.|Agent Sam Stanley.
+{28650}{28675}Désolés,
+{28674}{28699}mais nous aimerions voir...
+{28698}{28740}la caravane de Teresa Banks.
+{28739}{28789}Merde!
+{28810}{28848}Cette putain de caravane...
+{28847}{28897}est plus populaire|que la fête des maquereaux...
+{28897}{28932}dans un bordel.
+{28933}{28968}Vous me comprenez?
+{28969}{29069}Pour moi, c'est du boulot|en plus.
+{29122}{29150}Merde!
+{29485}{29547}Tout est exactement|comme elle laissé.
+{29544}{29607}Je n'ai touché a rien!
+{29604}{29641}Seigneur!
+{29892}{29937}Jette un coup d'œil à ça.
+{30081}{30109}Elle porte la bague.
+{30175}{30242}Je vais me préparer une tasse|de ''Bonjour l'Amérique'.
+{30242}{30287}Vous prendrez une tasse?
+{30285}{30307}S'il vous plaît.
+{30899}{30936}Eh, voilà, les gars.
+{30937}{30959}Merci.
+{30961}{30996}''Bonjour l'Amerique'
+{31045}{31068}Merci.
+{31148}{31225}C'est pas une plaisanterie,|mon pote.
+{31225}{31270}Ça t'amorces pour 48 heures.
+{31268}{31300}En plein dans le mille.
+{31299}{31332}C'est le meilleur café...
+{31330}{31370}qu'on puisse trouver, mon pote.
+{31369}{31411}Nous en avons besoin.
+{31409}{31474}N'est-ce pas?
+{31474}{31524}Nous en avons besoin,|n'est-ce pas, Agent Desmond?
+{31522}{31547}Certainement.
+{32222}{32272}Vous connaissiez|Teresa Banks?
+{33499}{33559}Je me suis beaucoup baladé.
+{33708}{33765}Je ne veux plus bouger.
+{34528}{34578}Qui a déplacé le cadavre?
+{34648}{34710}Vous n'irez nulle part|avec ce corps.
+{34816}{34878}Nous apportons le cadavre à|Portland.
+{34875}{34950}Et vous n'y pouvez rien.
+{35070}{35125}Teresa Banks portait une bague.
+{35146}{35186}Vous en savez quelque chose?
+{35285}{35335}Notre rideau est attaché...
+{35333}{35375}à l'aide d'un anneau.
+{35669}{35729}Retourne à Portland, Stanley.
+{35728}{35786}Je vais jeter un dernier|coup d'œil...
+{35784}{35821}au parc de caravaning.
+{35819}{35894}Agent Desmond,...
+{35891}{35921}quelque chose me donne à|réfléchir.
+{35920}{35970}C'est la rose bleue.
+{36004}{36046}Vous retournez au parc|de caravaning...
+{36045}{36088}pour la rose bleue.
+{36172}{36212}La Frosse Truite|Parc de Caravaning
+{36292}{36347}La caravane de Cliff,|près du camion.
+{36371}{36426}Le camion lui appartient aussi.
+{36423}{36498}La caravane de Banks|est par là?
+{36495}{36520}C'est exact.
+{36522}{36567}Où est mon putain d'eau chaude?
+{36567}{36607}Vous comprenez, maintenant?
+{36639}{36674}Je rentre.
+{36676}{36758}-Je veux de l'eau chaude.|-Viens prendre tes calmants.
+{38852}{38914}PHILADELPHIE
+{39154}{39231}Fordon,|Il est 10 heures 10 du matin,
+{39231}{39291}le 16 février.
+{39372}{39412}Je craignais ce jour,
+{39413}{39463}à cause du rêve dont|je t'ai parlé.
+{41102}{41130}Philip,
+{41129}{41154}c'est toi?
+{41251}{41341}Philip Jeffries,|égaré, il y a longtemps!
+{41340}{41385}On t'en a peut-être parlé|à l'académie.
+{41446}{41468}Eh bien...
+{41470}{41530}je ne dirai rien au sujet|de Judy.
+{41529}{41614}En fait, nous ne parlerons|pas d'elle.
+{41614}{41666}Gardons-la en dehors de tout ça.
+{41663}{41693}Je sais!
+{41692}{41787}Qui c'est, là-bas, d'après toi?
+{41783}{41851}Dis, ça ne tourne pas rond dans|la caboche?
+{41848}{41900}Qu'est-ce qu'il dit, Albert?
+{41898}{41946}C'est l'Agent spécial|Dale Cooper!
+{41946}{42021}Pour l'amour de Dieu, Jeffries,|où diable étais-tu?
+{42018}{42073}Tu as disparu pendant deux ans!
+{42074}{42129}Je voulais tellement...
+{42126}{42166}te raconter toute l'histoire.
+{42277}{42307}C'est une...
+{42306}{42381}table en formica.
+{42411}{42506}Elle est de couleur verte.
+{42550}{42608}C'était un rêve.
+{42606}{42701}Nous vivions dans un rêve.
+{42822}{42894}Une victime est tombée.
+{42927}{43119}Par cet anneau,|je vous déclare mari et femme.
+{43111}{43136}L'anneau.
+{43196}{43236}C'était à l'étage d'un magasin.
+{43320}{43425}Electricité.
+{43447}{43502}Ecoutez. Ecoutez attentivement.
+{43502}{43577}J'ai assisté à l'une de leurs|réunions.
+{43710}{43743}Elga, mon chou!
+{43744}{43812}Putain, non!|J'ai trouvé quelque chose!
+{43915}{43975}Et ils étaient là...
+{44327}{44357}Il est parti!
+{44358}{44426}Il est parti Albert.|Appelle le bureau de réception.
+{44423}{44450}J'ai la réception.
+{44449}{44487}Il n'était ici.
+{44487}{44527}D'après les nouvelles|de Deer Meadow,
+{44525}{44588}l'Agent Chester Desmond|a disparu.
+{44586}{44648}Fordon, qu'est-ce qui se passe?
+{44765}{44790}Il était ici.
+{44832}{44877}Où est-il, alors?
+{44914}{44954}Où est Chester Desmond?
+{45072}{45117}Ici, c'est sa caravane.
+{45115}{45153}Je n'y ai rien touché.
+{45152}{45234}L'Agent Desmond est venu|une deuxième fois,
+{45233}{45305}il voulait voir la caravane|du commissaire Howard...
+{45305}{45367}que je lui ai montré.
+{45364}{45414}Par la suite, je suis retourné|à ma caravane.
+{45412}{45455}Je ne l'ai plus jamais revu.
+{45479}{45504}Merci Carl.
+{45503}{45553}-Désolé de t'avoir réveillé.|-D'accord.
+{45593}{45625}De toutes façons,|je faisais un cauchemar.
+{45657}{45715}C'est pas le chemin qui mène|chez le commissaire Cliff!
+{45714}{45739}Je vous l'ai dit.
+{45767}{45807}Je vais pas chez|le commissaire Cliff
+{45808}{45853}Où diable allez-vous alors?
+{45882}{45917}Par ici.
+{45971}{45996}Pour faire quoi?
+{46019}{46071}Merde! Je comprends pas|ces gens.
+{46275}{46323}Qu'est-ce que vous cherchez?
+{46381}{46414}Quelle est cette trace?
+{46453}{46481}Celle d'une caravane,|naturellement,
+{46481}{46506}quoi d'autre?
+{46544}{46574}Elle appartenait à qui, et...
+{46575}{46605}et qui vivait dedans?
+{46659}{46722}Une vieille et son petit fils.
+{46748}{46775}Ils s'appelaient comment?
+{46829}{46854}Chalfont.
+{46897}{46922}En fait...
+{46946}{46996}Chalfont était aussi le nom...
+{46997}{47029}de ceux qui vivaient ici|avant eux.
+{47060}{47085}Deux Chalfont.
+{47124}{47149}Bizarre, non?
+{47210}{47260}C'est la voiture|de l'Agent Desmond?
+{47325}{47360}Ouais.
+{47359}{47384}C'est bien sa voiture.
+{47651}{47724}Dansons.
+{47817}{47849}Diane, il est 16 heures 20 heures.
+{47881}{47914}Je suis à la rivière du Vent,
+{47913}{47970}non loin de l'endroit où le|corps de Banks a été découvert.
+{47992}{48017}Diane, cette affaire...
+{48016}{48069}me donne une étrange sensation.
+{48092}{48150}Non seulement l'agent secret|Desmond a disparu...
+{48150}{48188}sans laisser de traces,
+{48188}{48266}mais c'est une de ces affaires|''rose bleué' de Cole.
+{48263}{48293}Les indices découverts...
+{48294}{48334}par les Agents Desmond|et Stanley...
+{48335}{48382}n'ont menés à rien.
+{48383}{48415}La lettre trouvée
+{48416}{48456}du dessous de l'ongle|de Teresa Banks...
+{48455}{48520}me donne l'impression que|le tueur attaquera à nouveau.
+{48541}{48591}Tout comme le refrain...
+{48591}{48641}''On ne sait où, on ne sait|quand''.
+{48711}{48739}BIENVENUE A TWlN PEAKS
+{48737}{48852}UN AN PLUS TARD
+{49310}{49343}J'en ai pour une minute, Laura.
+{49926}{50003}Bien sûr, Mike,|t'es vraiment un homme.
+{50003}{50045}Si. Mike, c'est....
+{50043}{50068}un homme.
+{50067}{50097}Mike...
+{50099}{50136}c'est un homme.
+{50185}{50227}Laura Palmer...
+{50226}{50264}passe ton chemin.
+{51355}{51460}Lycée de Twin Peak
+{52050}{52075}Salut, chérie.
+{52210}{52235}Embrasse-moi.
+{52263}{52321}C'est important.
+{52319}{52344}Nous nous aimons.
+{52369}{52412}James, tu ne sais pas|de quoi tu parles.
+{52450}{52525}Laisse tomber.
+{52555}{52588}Je suis perdue...
+{52589}{52627}ça fait longtemps...
+{52627}{52690}comme une dinde, dans le maïs.
+{52762}{52800}T'es pas une dinde.
+{52915}{52993}C'est l'un des oiseaux|les plus sots.
+{53644}{53682}Ne t'en va pas.
+{53744}{53782}Ne t'en va pas.
+{53869}{53907}Jamais, je ne te laisserai.
+{54689}{54712}Putain!.
+{54713}{54743}Où étais-tu depuis une heure?
+{54742}{54810}Je te cherchais partout.
+{54809}{54857}J'étais juste derrière toi,
+{54855}{54927}mais t'étais trop con|pour te retourner.
+{54924}{54994}S'il tourne sa tête,|il aura le vertige.
+{54994}{55056}Où étais-tu?|Je ne plaisante pas!
+{55077}{55110}T'étais avec qui?
+{55111}{55169}Dégage, Bobby!
+{55190}{55220}Vraiment?
+{55221}{55251}Un jour, tu m'appelleras,
+{55250}{55290}et tu ne me trouveras pas.
+{55435}{55485}Allons, Bobby.
+{55537}{55577}Allons.
+{55579}{55611}Même pas un tout petit?
+{55665}{55690}Allons.
+{55833}{55888}Je t'aime, chérie.
+{55887}{55957}''...comme la nuit quand|mon amie est partie...
+{55954}{56044}''partie vers un monde|compliqué...
+{56044}{56084}''les lumières changent...
+{56082}{56114}''et dans l'air il y a plein|de fils de fer...
+{56116}{56203}''et l'asphalte...mec!
+{56199}{56287}''Tout autour de moi...
+{56285}{56350}''Puis je regarde|mes souliers...
+{56348}{56398}''Ils sont si loin|de mon corps...
+{56396}{56464}''Mec, j'arrive pas|à le croire...
+{56461}{56538}''J'ai de forts|pressentiments...
+{56585}{56637}''que je ne tarderai|pas à rire...''
+{56681}{56738}Tu comptes voir James ce soir?
+{56796}{56861}Brusquement, ça t'intéresse|de savoir...
+{56859}{56904}qui je vois la nuit?
+{56966}{57019}J'aime la nuit.
+{57017}{57077}A qui le dis-tu?
+{57074}{57124}Est-ce pourquoi tu ne m'invites|jamais?
+{57180}{57255}Tu comptes voir Bobby?
+{57297}{57337}Peut-être.
+{57338}{57380}Mon Dieu!
+{57436}{57474}Pourquoi pas?
+{57472}{57522}Parce que Bobby,|c'est un mauvais joueur.
+{57520}{57582}Tu l'as dit toi-même.
+{57583}{57618}C'est un paumé.
+{57728}{57768}James, il est bien.
+{57848}{57933}Il t'aime d'un amour infini.
+{57933}{57970}Le vrai.
+{58069}{58132}Oui. James est très gentil.
+{58165}{58248}Il n'y a que le violon|qui manque!
+{58244}{58294}Gentil?
+{58321}{58391}Mon Dieu! Il est superbe.
+{58433}{58518}C'est vrai qu'il est gentil...
+{58517}{58577}et superbe.
+{58680}{58775}Je me demande si Mike serait|capable d'écrire un poème.
+{59099}{59122}Dis,
+{59123}{59196}quand on tombe de l'espace...
+{59195}{59255}est-ce que la vitesse|de la chute ralentit...
+{59256}{59323}ou, on va de plus en vite?
+{59497}{59542}De plus en plus vite.
+{59615}{59662}Pendant longtemps,
+{59663}{59700}on ne sent rien.
+{59759}{59849}Puis, on explose...
+{59910}{59935}pour toujours.
+{60099}{60169}Les anges n'y feront rien...
+{60291}{60353}parce qu'ils sont tous partis.
+{60814}{60839}Maman?
+{61132}{61220}''...je me promène|dans la rue...
+{61216}{61306}''J'essaie de ne pas|sourire...
+{61303}{61348}''Parce que dans la rue|je me promène...
+{61348}{61418}''Et le trottoir est à coté.
+{61418}{61475}''Près des égouts...
+{61472}{61522}''Où s'en va la pluie...
+{61573}{61631}''Comme cette fille que j'ai|connue...
+{61629}{61706}''Les égouts qui débordent|partout...
+{61705}{61755}''Et le rêve...
+{61822}{61870}''Ne dure pas pour toujours...
+{61921}{61988}''Comme la nuit quand|mon amie est partie...
+{61985}{62080}''Partie vers un monde|compliqué...
+{62079}{62114}''Les lumières changent...
+{62115}{62148}''Et dans l'air il y a plein|de fils de fer...
+{62146}{62218}''Et l'asphalte...mec!
+{62247}{62317}''Tout autour de moi...
+{62314}{62381}''Puis je regarde|mes souliers...
+{62379}{62432}''Ils sont si loin|de mon corps...
+{62431}{62496}''Mec, j'arrive pas|à y croire...
+{62494}{62557}''J'ai de forts|pressentiments...
+{63203}{63241}Mon journal intime...
+{63240}{63297}il y a des pages qui manquent.
+{63318}{63368}Qui ferait une chose pareille?
+{63366}{63389}Bob.
+{63428}{63503}Mais Bob n'existe pas.
+{63503}{63558}Des pages sont arrachées!
+{63556}{63598}C'est la réalité, ça!
+{63596}{63671}D'accord. Peut-être,...
+{63668}{63701}peut-être...
+{63700}{63725}D'accord.
+{63753}{63795}Bob existe!
+{63858}{63938}Il me prend depuis|l'âge de douze ans.
+{63992}{64019}Le journal était bien caché.
+{64018}{64128}Personne, à part lui,|ne savait où c'était.
+{64176}{64254}Il rentre la nuit par|ma fenêtre.
+{64337}{64377}Il existe.
+{64376}{64441}Il commence à me connaître.
+{64440}{64480}Il me parle.
+{64520}{64575}Qu'est-ce qu'il te dit?
+{64641}{64741}Qu'il veut être en moi,|sinon il me tue.
+{64793}{64865}-Non! Non!|-Oui!
+{64889}{64924}Oui!
+{64924}{64992}Quoi! Je t'en prie, quoi?
+{64989}{65061}Marche...
+{65058}{65103}dans le feu...
+{65102}{65152}avec...
+{65149}{65187}moi.
+{65186}{65211}Moi!
+{65464}{65486}Les arbres,...
+{65512}{65559}les arbres...
+{65560}{65632}Il faudra cacher le journal,|Harold.
+{65632}{65697}C'est toi qui m'a demandé|de l'écrire.
+{65728}{65775}Il ne sait rien de toi.
+{65776}{65816}Tu n'auras rien à craindre.
+{65919}{65949}Pardonne-moi.
+{66679}{66707}Qu'y a-t-il?
+{66931}{66978}J'ignore quand je reviendrai.
+{67012}{67042}Peut-être jamais.
+{67454}{67521}Je veux goûter...
+{67518}{67583}à l'aide de ta bouche.
+{67640}{67665}Non.
+{67847}{67872}J'ai de forts pressentiments...
+{67873}{67921}que le tueur frappera à nouveau.
+{67919}{67969}Puisque ce sont|des pressentiments,
+{67966}{68011}je ne peux pas les arrêter.
+{68012}{68055}Ce n'est pas tout.
+{68077}{68119}Le prochain meurtre,
+{68120}{68165}tu m'aideras à l'élucider.
+{68218}{68248}Parlons-en.
+{68309}{68354}La prochaine victime sera|t-elle un homme ou une femme?
+{68379}{68404}Une femme.
+{68433}{68458}D'accord.
+{68515}{68580}Ses cheveux seront|de quelle couleur?
+{68618}{68658}Blonde.
+{68657}{68722}Dis-moi davantage à son sujet.
+{68719}{68761}Elle va au lycée.
+{68791}{68831}Elle est sexuellement active.
+{68868}{68905}Elle prend de la drogue.
+{68964}{68999}Elle cherche désespérément|de l'aide.
+{69064}{69104}Putain, Cooper! C'est vraiment|la bonne piste.
+{69103}{69160}C'est le profil de la moitié|des lycéennes de l'Amérique.
+{69213}{69248}Qu'est-ce qu'elle fait|maintenant.
+{69280}{69355}Elle arrange un repas abondant.
+{69577}{69612}Votre monnaie.
+{69611}{69638}Merci.
+{69661}{69701}Heidi a le nez qui saigne.
+{69699}{69737}Le nez qui saigne?
+{69736}{69781}Tu pourrais aider Laura|avec sa livraison?
+{69805}{69870}J'étais en train de...je suis|occupée.
+{69913}{69970}Tu n'es pas si occupée.
+{70989}{71047}Ce serait joli contre tes murs.
+{71145}{71182}L'homme derrière le masque
+{71180}{71270}...cherche le livre aux pages|manquantes.
+{71267}{71320}Il se dirige vers la cachette.
+{71404}{71461}Il est maintenant|sous le ventilateur.
+{71559}{71584}Oui?
+{71621}{71686}Je ne peux pas livrer|aujourd'hui.
+{71687}{71712}Je...
+{71711}{71766}Je ne peux pas.
+{71765}{71810}Quoi?
+{74661}{74721}Mon Dieu! Mon Dieu!
+{75068}{75103}C'est pas lui.
+{75105}{75167}Faites que ce ne soit pas lui!
+{75164}{75232}C'est pas lui!|C'est pas lui!
+{75450}{75520}Tu es...|Tu es ma...
+{75519}{75572}Tu es ma meilleure amie?
+{75570}{75615}Naturellement!
+{75613}{75695}Qu'est-ce qui ne va pas?
+{75963}{76030}Je suis ton amie pour toujours.
+{76131}{76156}Viens.
+{76929}{76954}Salut, chérie.
+{77000}{77025}Comment va Donna?
+{77048}{77073}Bien.
+{77096}{77121}Et l'école?
+{77144}{77184}Ça va bien.
+{77185}{77210}Assieds-toi.
+{77468}{77493}Assieds-toi.
+{77670}{77710}Tu as faim?
+{77732}{77757}Pas vraiment.
+{77998}{78023}Tu n'as pas lavé tes mains...
+{78024}{78066}avant de venir à table,|n'est-ce pas?
+{78250}{78275}Fais voir..
+{78302}{78332}Papa.
+{78384}{78466}Ces mains sont sales.
+{78513}{78538}Regarde.
+{78582}{78667}Il y a de la crasse sous|cet ongle.
+{78787}{78849}-Que fais-tu?|-Tu as vu ces doigts?
+{78846}{78911}Laura ne s'est pas lavée|les mains.
+{78911}{78946}Fais voir ça.
+{78947}{78975}Non.
+{79060}{79110}Ça vient d'un amant?
+{79191}{79229}C'est ton amant qui|te l'a offert?
+{79252}{79322}Au lycée on n'a pas|des ''amants''.
+{79319}{79371}Ce n'est pas de Bobby.
+{79369}{79449}Comment peux-tu le savoir?
+{79445}{79508}C'est de Bobby?
+{79506}{79546}Ce serait un ''nouveau''?
+{79604}{79654}Laisse-la tranquille.|Ne fais pas ça.
+{79652}{79692}Elle n'aime pas ça.
+{79717}{79752}Comment sais-tu ce qu'elle aime?
+{79750}{79802}Arrête!
+{79880}{79902}Arrête!
+{80350}{80397}Assieds-toi...
+{80398}{80450}et prenons notre repas.
+{80481}{80516}Je m'assieds,...
+{80546}{80581}mais personne ne mangera...
+{80582}{80657}avant que Laura ne se lave|les mains!
+{80716}{80766}Lave-toi les mains!
+{82708}{82735}Qu'y a-t-il, Leland?
+{82864}{82889}Laura, chérie?
+{83238}{83286}Je t'aime.
+{83370}{83405}Je t'aime tellement.
+{83456}{83481}Papa.
+{83808}{83843}Bonne nuit, princesse.
+{84736}{84781}Est-ce vrai?
+{88051}{88159}Savez-vous qui je suis?
+{88260}{88327}Je suis le bras.
+{88389}{88421}Et je...
+{88420}{88505}...siffle comme ça.
+{89247}{89299}Ne prends pas l'anneau, Laura.
+{89336}{89386}Ne le prends pas.
+{90144}{90181}Je m'appelle Annie.
+{90206}{90256}J'étais avec Dale et Laura.
+{90278}{90365}Le vrai Dale est prisonnier|à l'auberge.
+{90388}{90428}Va l'écrire dans ton journal.
+{93428}{93470}Nous habitons ici Shelly!
+{93504}{93559}C'est à moi que tu le dis?
+{93557}{93647}Je te montre comment laver|ce parquet, puis, tu le fais.
+{93644}{93704}Je dois m'en aller travailler.
+{93701}{93731}Qu'est-ce tu dis?
+{93754}{93829}-Shelly, je ne plaisante plus!|-D'accord.
+{93828}{93876}Tu devras apprendre comment|adopter...
+{93876}{93909}une bonne disposition!
+{93907}{93944}C'est le secret!
+{93943}{93976}Tout le monde te le dira.
+{94056}{94106}Surtout, ne sors pas!
+{94104}{94136}Je n'ai pas fini avec toi!
+{94276}{94326}Pourquoi tu m'appelles ici?
+{94324}{94361}Pardonne-moi.
+{94387}{94424}Le ballon de foot est vide.
+{94422}{94472}Je cherche le père Noël.
+{94473}{94538}Pas question! Avec l'argent|que tu me dois!
+{94535}{94585}Cinq mille, pour être exact.
+{94631}{94746}Tu veux dire que le Père Noël|n'existe pas?
+{94878}{94923}Ici Roadhouse.
+{94921}{94971}Jacques, c'est Bobby.
+{95012}{95052}Il me faut des choses, mec.
+{95103}{95178}Tu m'appelles seulement|quand t'es désespéré.
+{95175}{95233}T'es désespéré, mon chou?
+{95230}{95297}Ça t'intéresse, oui ou non?
+{95295}{95360}Ouais, peut-être, Bobby|mon chou.
+{95357}{95385}Peut-être.
+{95460}{95540}Pour dix mille, j'ai un ami|qui a ce qui te faut.
+{95537}{95569}Sa marchandise est la meilleure.

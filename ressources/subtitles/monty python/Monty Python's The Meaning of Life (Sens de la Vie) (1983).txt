@@ -1,0 +1,1276 @@
+{62}{140}Notre petit court métrage
+{652}{747}ASSURANCES CRIMSON
+{952}{1032}Londres, Angleterre
+{1167}{1230}En cette sombre période de l'an 1983,
+{1235}{1337}alors que le pays subissait les effets | d'une politique monétariste ruineuse,
+{1347}{1430}les bons et loyaux employés | des Assurances Crimson,
+{1432}{1535}jadis une affaire de famille honorable | menaçant depuis peu de péricliter,
+{1542}{1652}ployaient sous le joug despotique | d'une nouvelle direction.
+{1687}{1732}Vraiment affligeant.
+{2210}{2235}Ramez !
+{2885}{2937}C'est trop, Evans. Vous êtes viré.
+{2955}{2997}La porte ! C'est compris ?
+{3027}{3082}Vous avez entendu ? Il est viré.
+{3180}{3285}Viré ? Allez, les gars. On va leur montrer.
+{3477}{3502}Allons-y !
+{4805}{4850}Laissez-moi sortir !
+{4885}{4952}Je veux voir mon avocat !
+{5165}{5200}Tooley ! Allez !
+{5840}{5890}Silence !
+{5902}{5952}On y va les gars.
+{5952}{6047}Toi, toi et toi, préparez les armes.
+{6050}{6120}Toi, toi et toi, au gréement.
+{6150}{6240}- Toi, prépare le thé. | - Oui, capitaine.
+{6660}{6702}Charles, par là.
+{7412}{7437}Désolé !
+{7457}{7505}Allez, Tooley. Par ici !
+{8102}{8145}Levez l'ancre !
+{9835}{9905}Les Assurances Crimson
+{9907}{10010}mirent ainsi le cap sur la haute mer | de la finance internationale.
+{10442}{10512}Attention, garde le cap !
+{10547}{10617}- Du thé, très cher ? | - Capitaine !
+{10632}{10690}Regardez ! A tribord !
+{10787}{10860}Là, s'étendait la terre convoitée.
+{10892}{10937}Barre à tribord !
+{10947}{11052}Une place financière gorgée | de multinationales, de conglomérats
+{11067}{11147}et de banques d'affaires prospères.
+{11215}{11295}Allez, les gars, aux postes de combat !
+{11330}{11380}Allez ! En avant !
+{11985}{12052}- Bon, ça va aller. | - A couvert !
+{12575}{12622}Baissez-vous !
+{13520}{13565}Barre à tribord !
+{13710}{13747}DANGER - VIVANT
+{14115}{14150}Feu !
+{15822}{15872}Eric ! Mes comptes !
+{15932}{15980}Ross ! Prends les listings !
+{16157}{16207}- Arrêtez-le ! | - Eric !
+{16220}{16262}- Merci ! | - A l'attaque !
+{17487}{17545}- Non, à moi ! A moi ! | - D'accord, Kane.
+{17707}{17732}Attrapé !
+{17925}{17952}J't'ai eu !
+{18860}{18887}Prends ça.
+{19030}{19075}Tiens. Classe ça.
+{19355}{19382}Merde !
+{19607}{19690}Encouragés par leur succès initial,
+{19695}{19812}les employés modérément violents | des Assurances Crimson
+{19832}{19900}livrèrent combat jusqu'à ce que,
+{19937}{20015}le soleil se couchant lentement à l'ouest,
+{20032}{20137}apparaisse le butin prodigieux | de leur audacieuse entreprise.
+{20177}{20272}Les orgueilleux géants de la finance | étaient ruinés,
+{20332}{20387}leur capital, dilapidé,
+{20420}{20497}leur stratégie, anéantie.
+{20807}{20882}En avant toute, M.Cohen !
+{20900}{20972}"Grimpent les cotisations
+{20977}{21060}"Gratte le papier, fais les comptes
+{21160}{21242}"Recruter un comptable, c'est chouette
+{21245}{21332}"Pour voguer sur un océan de chiffres
+{21347}{21445}"Explorer les paradis fiscaux
+{21447}{21530}"Et éviter les bancs de faillite
+{21542}{21622}"Une assurance qui a du
+{21637}{21717}"Votre cotisation augmentera | deux fois par an
+{21730}{21827}"Tout cela est déductible | Nous sommes des incorruptibles
+{21832}{21907}"Nous voguons sur un océan de chiffres"
+{21952}{22042}Ils naviguèrent ainsi | vers les registres de l'histoire,
+{22062}{22127}réduisant en miettes | toutes les capitales de la finance
+{22130}{22205}grâce à leur incroyable génie des affaires.
+{22217}{22260}Du moins en aurait-il été ainsi,
+{22262}{22347}si certaines théories | sur la forme de la planète
+{22347}{22437}ne s'étaient pas révélées | fâcheusement inexactes.
+{23795}{23915}Notre long métrage
+{24587}{24627}- Bonjour. | - Bonjour.
+{25047}{25105}- Quoi de neuf ? | - Pas grand-chose.
+{25230}{25297}- Bonjour ! | - Bonjour ! Bonjour !
+{25365}{25427}- Frank venait aux nouvelles. | - Ah, oui ?
+{25447}{25472}Oui.
+{25545}{25627}- Regardez. Howard se fait manger. | - C'est vrai ?
+{25832}{25877}Ça donne à réfléchir, non ?
+{25885}{25937}Enfin, quel est le sens de tout ça ?
+{25955}{25985}Ça me dépasse.
+{26030}{26115}"Pourquoi sommes-nous là, | que signifie la vie ?
+{26152}{26262}"Dieu est-il vraiment réel | ou y a-t-il des doutes ?
+{26295}{26407}"Ce soir, nous allons répondre à tout ça
+{26420}{26487}"Ce soir : le sens de la vie
+{26542}{26637}"A quoi rime cette plaisanterie ?
+{26660}{26725}"Faut-il se demander | qui de la poule ou de l'œuf ?
+{26727}{26785}"Ne sommes-nous que des jaunes d'œuf ?
+{26792}{26905}"Ou bien juste | une petite plaisanterie de Dieu
+{26927}{27010}"Eh bien, ça, c'est le sens de la vie
+{27052}{27165}"La vie n'est-elle qu'un jeu | dont on invente les règles
+{27175}{27267}"Alors que l'on cherche | ce qu'on pourrait bien dire
+{27297}{27412}"Ou sommes-nous juste des séquences
+{27427}{27515}"D'A.D.N. auto-reproduit ?
+{27557}{27640}"C'est quoi, la vie ? Quel est notre destin ?
+{27677}{27727}"Y a-t-il un paradis, un enfer ?
+{27740}{27780}"Nous réincarnons-nous ?
+{27815}{27930}"L'humanité progresse-t-elle | ou bien est-il trop tard ?
+{27932}{28012}"Ce soir : le sens de la vie
+{28047}{28165}"Pour des millions de gens, | cette vie n'est qu'une vallée de larmes
+{28182}{28257}"Assis là, sans rien à dire
+{28307}{28432}"Tandis que les savants décrètent | que nous ne sommes que des séquences
+{28437}{28527}"D'A.D.N. auto-reproduit
+{28565}{28642}"Alors pourquoi sommes-nous là ?
+{28680}{28760}"Et de quoi avons-nous peur ?
+{28812}{28937}"Eh bien, ce soir, | pour changer, on va tout éclaircir
+{28940}{29027}"Car voici le sens de la vie"
+{29202}{29287}LE SENS DE LA VIE - PREMIÈRE PARTIE | LE MIRACLE DE LA NAISSANCE
+{29847}{29935}Salles d'accouchement | Salle d'accouchement un
+{29970}{30012}Mille huit !
+{30015}{30067}Mme Moore a davantage de contractions.
+{30070}{30137}Bien. Amenez-la | en salle d'épouvante des foetus.
+{30337}{30367}Très bien.
+{30377}{30437}C'est un peu vide ici, aujourd'hui, non ?
+{30462}{30482}Oui.
+{30495}{30560}Veuillez apporter des appareils, | mademoiselle.
+{30567}{30637}Electroencéphalogramme, | moniteur pour la tension et AVV.
+{30640}{30710}- Bien sûr. | - Amenez la machine qui fait "Ping !"
+{30715}{30817}Apportez les appareils les plus chers | au cas où l'administrateur passerait.
+{31002}{31052}C'est ça. Par ici.
+{31055}{31107}Derrière moi. Très bien.
+{31122}{31187}Ça me plait beaucoup mieux.
+{31190}{31255}Oui, c'est mieux comme ça.
+{31270}{31320}Il manque encore quelque chose.
+{31462}{31497}- La patiente. | - C'est ça.
+{31497}{31535}Où est la patiente ?
+{31537}{31567}Patiente !
+{31590}{31642}- La voilà. | - Amenez-la par ici.
+{31657}{31712}- Attention à la machine ! | - Désolée, docteur.
+{31715}{31742}Venez !
+{31745}{31772}Un petit saut !
+{31775}{31870}- Bonjour. Ne vous inquiétez pas. | - Vous serez bientôt guérie.
+{31877}{31940}Laissez-nous faire. | Vous ne vous apercevrez de rien.
+{31942}{31972}Au revoir.
+{31975}{32020}- Goutte-à-goutte. | - Injection.
+{32022}{32107}- Je peux mettre le tube ? | - Seulement si je fais l'épisiotomie.
+{32112}{32147}Jambes en l'air.
+{32160}{32212}- Entrez. | - Entrez tous.
+{32212}{32265}- Voilà. Très bien. | - Allons-y.
+{32272}{32300}Venez par ici.
+{32302}{32350}- Qui êtes-vous ? | - Le mari.
+{32355}{32432}Désolé, on ne laisse entrer | que les personnes concernées.
+{32462}{32512}- Je fais quoi, moi ? | - Pardon ?
+{32517}{32607}- Je fais quoi, moi ? | - Rien, ma chère. Vous n'êtes pas qualifiée.
+{32620}{32647}Laissez-nous faire.
+{32647}{32682}C'est quoi, ça ?
+{32687}{32740}C'est la machine qui fait "Ping !"
+{32772}{32842}Ça signifie que votre bébé | est toujours vivant.
+{32862}{32950}Et voici la machine la plus chère | de tout l'hôpital.
+{32955}{33022}Elle a coûté plus de 750000 livres.
+{33022}{33057}Vous êtes gâtée !
+{33077}{33127}L'administrateur est là, docteur.
+{33132}{33172}Mettez tout en marche.
+{33185}{33215}Bonjour, messieurs.
+{33217}{33262}- Bonjour. | - Bonjour, messieurs.
+{33265}{33307}Bonjour, M.Pycroft.
+{33310}{33360}Très impressionnant.
+{33362}{33437}- Quel est le programme, ce matin ? | - Un accouchement.
+{33452}{33492}Et ça consiste en quoi ?
+{33495}{33605}Il s'agit d'extraire un nouveau-né | du ventre d'une dame.
+{33620}{33677}Incroyable, ce qu'on peut faire aujourd'hui.
+{33680}{33745}Je vois que vous avez la machine | qui fait "Ping !"
+{33747}{33782}C'est ma préférée.
+{33782}{33845}Nous la louons à l'entreprise | qui nous l'a achetée.
+{33847}{33955}Nous la facturons ainsi sur le budget | mensuel et non sur le compte annuel.
+{34052}{34142}Merci, merci. | Nous faisons de notre mieux. Continuez.
+{34167}{34237}- La vulve se dilate, docteur. | - Oui, on voit la tête.
+{34240}{34307}Oui, quatre centimètres, | cinq, six centimètres.
+{34312}{34360}- Action ! | - Amplifiez les "Ping".
+{34362}{34407}- Masques ! | - Succion !
+{34412}{34452}Terminé. C'est un succès !
+{34455}{34495}Le voilà.
+{34547}{34595}Effrayez-le.
+{34607}{34632}Merci.
+{34642}{34687}Les serviettes en crin !
+{34727}{34765}Montrez-le à la mère.
+{34775}{34822}- Ça suffit. | - Endormez-la.
+{34825}{34917}- Numérotez l'enfant. | - Mesurez-le, groupe sanguin et isolation.
+{34930}{34972}Le spectacle est terminé.
+{35010}{35045}C'est une fille ou un garçon ?
+{35047}{35140}Je pense qu'il est un peu tôt | pour lui imposer un rôle défini, non ?
+{35142}{35172}Un conseil.
+{35175}{35272}Vous allez peut-être souffrir d'un sentiment | de déprime totalement irrationnel,
+{35275}{35317}la DPP, en termes scientifiques.
+{35320}{35370}Alors, prenez beaucoup d'euphorisants.
+{35372}{35440}Vous saurez tout | quand vous serez chez vous.
+{35442}{35530}Disponible en Bétacam, | VHS ou Super Huit.
+{35660}{35760}LE MIRACLE DE LA NAISSANCE | DEUXIÈME PARTIE - LE TIERS MONDE
+{36070}{36115}Sacré bon Dieu !
+{36330}{36400}- Tu peux le ramasser, Deidre ? | - Oui, maman.
+{36632}{36692}- C'est à qui de prendre le thé ? | - A moi !
+{36722}{36755}Allons. Sortez.
+{36757}{36855}Bien. Vincent, Tessa, Valérie, Janine, | Martha, Andrew, Thomas,
+{36857}{36955}Walter, Pat, Linda, Michael, | Evadne, Alice, Dominique et Sasha,
+{36957}{36995}au lit.
+{37010}{37050}Pas de discussion !
+{37057}{37127}Laura, Alfred, Nigel, Annie, Simon et...
+{37130}{37227}Attendez. | J'ai une annonce à faire à toute la famille.
+{37245}{37315}Vite. Gordon, va chercher les autres.
+{37352}{37420}L'usine ferme ses portes. Plus de boulot.
+{37427}{37465}Nous sommes indigents.
+{37507}{37542}Venez, mes amours.
+{37542}{37642}Une seule solution : vous vendre tous | à un labo de médecine expérimentale.
+{37687}{37745}Non, non. Je n'y peux rien, mes amours.
+{37750}{37837}L'Eglise catholique m'empêche de porter | ce petit truc de caoutchouc.
+{37840}{37902}Elle a fait de merveilleuses choses | en son temps.
+{37905}{38010}Elle a préservé la grandeur et le mystère | de l'Eglise de Rome,
+{38012}{38117}la sainteté du Sacrement, | l'union indivisible de la Sainte Trinité.
+{38120}{38207}Si elle m'autorisait ce petit truc | en caoutchouc au bout de ma queue,
+{38210}{38270}on ne serait pas dans ce pétrin.
+{38272}{38345}Est-ce que maman n'aurait pas pu | mettre un pessaire ?
+{38370}{38467}Pas si nous voulons rester membres | de la religion qui se développe le plus.
+{38467}{38497}Il a raison.
+{38507}{38557}Voyez-vous, nous avons foi en...
+{38572}{38620}Laissez-moi vous expliquer ça.
+{38622}{38675}"Dans le monde, il y a des Juifs
+{38682}{38727}"Il y a des Bouddhistes
+{38732}{38817}"Des Hindous, des Mormons et puis
+{38847}{38930}"Les disciples de Mahomet
+{38932}{39032}"Mais je n'en ai jamais fait partie
+{39102}{39167}"Je suis un Catholique
+{39180}{39255}"Et ce, bien avant ma naissance
+{39267}{39347}"Quand on est catholique
+{39352}{39440}"On l'est dès le début
+{39447}{39520}"Il n'est pas nécessaire d'être grand
+{39532}{39602}"Ou même intelligent
+{39625}{39702}"Ou de porter des vêtements
+{39707}{39802}"On est catholique | dès l'instant où papa éjacule
+{39817}{39875}"Car
+{39887}{39987}"Chaque semence est sacrée
+{40002}{40087}"Chaque semence est sublime
+{40112}{40207}"Si une semence est gaspillée
+{40217}{40292}"Alors Dieu est courroucé
+{40327}{40417}"Chaque semence est sacrée
+{40430}{40527}"Chaque semence est sublime
+{40537}{40630}"Si une semence est gaspillée
+{40642}{40732}"Alors Dieu est courroucé
+{40747}{40847}"Que les païens répandent la leur
+{40852}{40937}"Sur le sol poussiéreux
+{40957}{41027}"Dieu leur demandera un dû
+{41037}{41140}"Pour chaque semence perdue
+{41167}{41262}"Chaque semence est nécessaire
+{41270}{41360}"Chaque semence est bonne
+{41375}{41470}"Chaque semence est utile
+{41475}{41570}"Dans votre quartier
+{41575}{41657}"Les Hindous, les Taoïstes, les Mormons
+{41662}{41750}"Répandent la leur n'importe où
+{41762}{41845}"Mais Dieu aime ceux qui traitent
+{41847}{41945}"Leur semence avec respect
+{41970}{42057}"Chaque semence est sacrée
+{42067}{42145}"Chaque semence est sublime
+{42160}{42237}"Si une semence est gaspillée
+{42242}{42322}"Alors Dieu est courroucé
+{42332}{42425}"Chaque semence est sacrée
+{42430}{42507}"Chaque semence est bonne
+{42522}{42612}"Chaque semence est utile
+{42617}{42705}"Dans votre quartier
+{42712}{42797}"Chaque semence est utile
+{42805}{42887}"Chaque semence est bienvenue
+{42895}{42977}"Dieu a besoin de chaque semence
+{42987}{43022}- "La mienne | - La mienne
+{43022}{43070}"Et la mienne
+{43435}{43522}"Que les païens répandent la leur
+{43527}{43620}"Sur les montagnes, les collines, | les plaines
+{43625}{43687}"Dieu les punira
+{43695}{43792}"Pour chaque semence gaspillée
+{43810}{43895}"Chaque semence est sacrée
+{43902}{43985}"Chaque semence est bonne
+{43992}{44077}"Chaque semence est utile
+{44085}{44162}"Dans votre quartier
+{44177}{44255}"Chaque semence est sacrée
+{44262}{44342}"Chaque semence est sublime
+{44352}{44437}"Si une semence est gaspillée
+{44442}{44557}"Alors Dieu est courroucé"
+{44765}{44817}Vous voyez mon problème, mes petits.
+{44820}{44872}Je ne peux vous garder sous mon toit.
+{44875}{44907}Plus fort !
+{44922}{44977}Je ne peux vous garder sous mon toit !
+{45000}{45087}Dieu nous a tellement bénis | que je ne peux plus vous nourrir.
+{45097}{45152}Et si on te coupait les couilles ?
+{45170}{45245}Ce n'est pas si simple que ça, Nigel. | Dieu sait tout.
+{45255}{45370}Il verrait la supercherie. | Ce que nous nous faisons, nous lui faisons.
+{45380}{45450}T'aurais pu te les faire arracher | par accident.
+{45487}{45592}Je sais que vous voulez m'aider, | mais j'ai pris ma décision, les enfants.
+{45595}{45657}J'y ai réfléchi longuement,
+{45675}{45755}et ce sera la médecine expérimentale | pour vous tous.
+{45767}{45887}"Chaque semence est sacrée
+{45922}{46032}"Chaque semence est sublime"
+{46070}{46112}Regarde-moi ces cons de Catholiques.
+{46115}{46222}Ils inondent le monde de cons de mioches | qu'ils sont pas foutus de nourrir.
+{46232}{46267}Que sommes-nous, chéri ?
+{46267}{46327}Protestants. Et fiers de l'être.
+{46345}{46410}Pourquoi font-ils tant d'enfants ?
+{46412}{46500}A chaque fois qu'ils ont un rapport sexuel, | ils ont un bébé.
+{46510}{46585}- Mais c'est pareil pour nous, Harry. | - Comment ça ?
+{46587}{46697}Enfin, nous avons deux enfants, | et nous avons eu deux rapports sexuels.
+{46705}{46785}Cela n'a rien à voir. | On pourrait le faire autant qu'on veut.
+{46787}{46807}Vraiment ?
+{46807}{46870}Oui. Et qui plus est, comme on ne croit pas
+{46872}{46945}à toutes ces balivernes papistes, | on peut faire attention.
+{46947}{46990}Vous voulez dire, fermer la porte ?
+{46992}{47085}Non, non : parce que nous sommes | membres de l'Eglise protestante réformée,
+{47087}{47172}qui a su se libérer, au 16eme siècle, | du joug autocratique de la papauté
+{47175}{47267}nous pouvons porter des petits trucs | de caoutchouc pour empêcher la grossesse.
+{47270}{47297}Comment ça ?
+{47300}{47367}Si je voulais, | je pourrais avoir des rapports avec vous.
+{47370}{47400}Oh, oui, Harry.
+{47402}{47470}Et si je mettais cet étui | de caoutchouc sur Popaul,
+{47472}{47565}je serais sûr de ne pas | vous engrosser en éjaculant.
+{47585}{47680}Voilà ce que signifie être protestant. | C'est l'église qui me convient.
+{47682}{47762}Qui convient à tous ceux | qui respectent l'individu
+{47762}{47842}et le droit de l'individu à décider pour soi, | homme ou femme.
+{47845}{47947}En affichant sa protestation sur la porte | de l'église en 1517, Martin Luther
+{47947}{48035}ne se rendait peut-être pas compte | de la portée de son geste,
+{48037}{48102}mais 400 ans après, grâce à lui,
+{48105}{48177}je peux mettre ce que je veux | sur mon petit oiseau.
+{48177}{48247}Le protestantisme ne se borne pas | à la capote de base.
+{48250}{48320}Non ! Je peux même porter | des capotes chatouilleuses.
+{48322}{48337}Pardon ?
+{48337}{48412}Des chatouilleuses, des mambos noires, | des côtes de crocodile.
+{48415}{48482}Des étuis non seulement | destinés à protéger,
+{48485}{48567}mais également à améliorer | et stimuler la copulation.
+{48567}{48595}Vous en avez ?
+{48597}{48685}Est-ce que j'en ai ? | Non, mais je n'ai qu'à descendre la rue
+{48692}{48790}jusqu'à la pharmacie d'Harry, la tête haute, | pour lui dire d'une voix ferme :
+{48792}{48852}"Harry, je voudrais acheter une capote.
+{48855}{48952}"En fait, je voudrais une chatouilleuse, | car je suis un Protestant, moi."
+{48952}{48975}Qu'attendez-vous ?
+{48977}{49012}Eux, ils ne peuvent pas.
+{49012}{49095}Car leur église ne les a jamais | fait sortir du Moyen-Age,
+{49097}{49167}ni libérés de la suprématie | papale étrangère.
+{49175}{49287}Mais malgré les efforts des protestants | pour définir la sexualité comme un plaisir,
+{49295}{49362}les enfants ne cessent | de se multiplier partout.
+{49390}{49500}LE SENS DE LA VIE - DEUXIÈME PARTIE | CROISSANCE ET ÉDUCATION
+{49522}{49625}"Et deux fois avant la troisième heure, | ils virent les chameaux.
+{49657}{49745}"Et les Médianites approchèrent | de Ram Gilead
+{49755}{49800}"à Kadesh Bilgemeth,
+{49805}{49850}"par le biais de Shor Ethra Regalion
+{49852}{49952}"à la maison de Gash-Bil-Bethuel-Bazda.
+{49960}{50027}"Celui qui présenta | le pot de beurre à Balthazar,
+{50030}{50102}"et le piquet de tente | à la lignée de Rashomon.
+{50115}{50180}"Alors ils sacrifièrent les chèvres,
+{50187}{50307}"comme il est dit, et répartirent | tous les morceaux dans des petits pots."
+{50347}{50390}Ici s'achève la leçon.
+{50397}{50447}Prions le Seigneur.
+{50560}{50592}O Seigneur.
+{50672}{50722}Tu es si grand.
+{50805}{50872}Si absolument colossal.
+{50975}{51087}Oh la la, nous sommes vraiment | impressionnés, sur terre.
+{51220}{51322}Pardonne-nous, ô Seigneur, | notre terrible flagornerie.
+{51342}{51407}Et notre adulation effrontée.
+{51412}{51535}Mais Tu es si fort, et tellement génial.
+{51557}{51600}Fantastique.
+{51615}{51667}- Amen, Père. | - Amen.
+{51672}{51722}Deux élèves n'ont rien trouvé de mieux
+{51725}{51802}que de graisser à l'huile de lin | le cormoran de l'école.
+{51825}{51897}Certains estiment peut-être | que ce cormoran ne joue pas
+{51900}{51992}un rôle important dans la vie de l'école, | mais je tiens à vous rappeler
+{51992}{52090}qu'il nous a été offert | par la ville de Sudbury
+{52092}{52157}afin que nous commémorions, | le jour de l'Empire,
+{52160}{52230}les braves de la région de Sudbury
+{52232}{52290}qui ont fait don de leur vie
+{52302}{52355}pour que la Chine reste britannique.
+{52367}{52470}Dorénavant, il est donc strictement | interdit d'approcher le cormoran !
+{52530}{52635}Et Jenkins, il parait que votre mère | est décédée ce matin.
+{52647}{52675}Aumônier.
+{52785}{52867}"O Seigneur, ne nous brûle pas
+{52875}{52955}"Ne grille pas tes ouailles
+{52970}{53070}"Ne nous mets pas sur le barbecue
+{53082}{53165}"Ne nous plonge pas dans un bouillon
+{53182}{53272}"Pas de braises, de fournaise, | ni d'ébullition
+{53282}{53367}"Pas de friture à la chinoise
+{53400}{53497}"Ne nous fais pas pocher
+{53502}{53587}"Ni arroser de graisse chaude
+{53607}{53720}"Ne nous cuisine pas en fricassée, | ou en rôti
+{53725}{53800}"Ne nous fais pas bouillir dans une cuve
+{53817}{53935}"Je t'en prie Seigneur, | n'envoie pas Tes serviteurs
+{53937}{54030}"A la rôtisserie"
+{54172}{54200}Il arrive !
+{54377}{54440}Du calme, asseyez-vous.
+{54480}{54540}Avant de commencer la leçon, | je demanderai à ceux
+{54542}{54617}qui jouent le match de cet après-midi, | d'accrocher leurs manteaux
+{54620}{54680}sur la patère du bas, | juste après le déjeuner,
+{54682}{54752}avant le courrier, | si vous n'allez pas chez le coiffeur
+{54755}{54855}sauf si vous avez un frère de sortie | ce week-end invité par un camarade,
+{54857}{54952}dans ce cas, ajoutez son courrier au votre | avant le repas puis coupez vos cheveux.
+{54952}{55037}Assurez-vous qu'il accroche | votre manteau à la patère du bas.
+{55042}{55080}- Monsieur ? | - Oui, Wymer ?
+{55082}{55142}Mon frère est invité par Dibble | ce week-end,
+{55145}{55205}mais je n'ai pas le coiffeur, | alors je déplace...
+{55207}{55287}J'aimerais que vous prêtiez attention, | Wymer. C'est très simple.
+{55287}{55390}Si vous n'avez pas le coiffeur, vous n'avez | pas à déplacer le manteau de votre frère.
+{55392}{55500}Vous prenez simplement son mot | avant le repas, après vos devoirs,
+{55502}{55570}après le courrier aux parents, avant l'étude,
+{55572}{55650}déplacez votre manteau d'une patère, | accueillez les visiteurs
+{55652}{55730}et signalez à M.Viney | que votre mot a été signé.
+{55755}{55790}A présent, le sexe.
+{55862}{55932}Le sexe, le sexe. Où en étions-nous ?
+{56040}{56145}Au moment où le pénis pénètre le vagin ?
+{56257}{56307}Non, monsieur.
+{56327}{56377}Ah, a-t-on vu les préliminaires ?
+{56445}{56477}Oui, monsieur.
+{56492}{56592}Puisque nous connaissons tous | les préliminaires, vous saurez sans doute
+{56595}{56657}me dire quel en est le but.
+{56687}{56712}Biggs.
+{56820}{56872}J'en sais rien. Désolé, monsieur.
+{56877}{56902}Carter ?
+{56970}{57025}Enlever ses vêtements, monsieur ?
+{57050}{57087}Et ensuite ?
+{57117}{57180}Les accrocher à la patère du bas, monsieur.
+{57222}{57317}Le but des préliminaires | est de lubrifier le vagin
+{57327}{57410}afin que le pénis pénètre plus facilement.
+{57425}{57462}On peut ouvrir, monsieur ?
+{57465}{57502}Oui. Harris, s'il vous plait.
+{57505}{57622}Et bien sûr, de permettre la tension | et l'érection du pénis de l'homme.
+{57677}{57787}Bien. A-t-on vu les sécrétions vaginales | la dernière fois ?
+{57787}{57842}Wadsworth ! Je sais qu'on est vendredi.
+{57845}{57877}Vous regardez le match ?
+{57877}{57942}Venez devant, jeune homme. Attention !
+{57965}{58040}Je peux décider de vous coller | un examen ce trimestre.
+{58047}{58085}- Oh, monsieur ! | - Monsieur !
+{58087}{58135}Alors, écoutez.
+{58187}{58312}A-t-on vu les sécrétions vaginales, | oui ou non ?
+{58355}{58385}Oui, monsieur.
+{58387}{58467}Donnez-moi deux façons | de les faire couler à flot, Watson.
+{58507}{58557}Caresser le clitoris, monsieur ?
+{58647}{58707}Que faites-vous du baiser, jeune homme ?
+{58722}{58785}Pourquoi ne pas la lancer avec un baiser ?
+{58802}{58890}Pas besoin de se ruer sur le clitoris | tel un taureau dans l'arène.
+{58892}{58937}Embrassez-la, jeune homme.
+{58977}{59055}- Sucer le mamelon, monsieur ? | - Bien. Très bien, Wymer.
+{59057}{59132}- Caresser les cuisses, monsieur ? | - Oui, sans doute.
+{59137}{59190}- Mordre le cou. | - Oui, bien.
+{59192}{59277}Mordiller le lobe de l'oreille, | pétrir les fesses, et ainsi de suite.
+{59277}{59360}Nous disposons donc de toute une gamme | de possibilités avant
+{59362}{59437}de foncer sur le clitoris, Watson.
+{59447}{59487}Oui, monsieur. Désolé.
+{59492}{59625}Bien, toutes ces formes de stimulation | peuvent donc maintenant prendre place.
+{59845}{59907}Un coup de langue reste | la meilleure façon de voir
+{59910}{59982}où en sont les sécrétions.
+{59997}{60022}Hélène ?
+{60027}{60107}Bien. La pénétration et le coït, | c'est à dire le rapport sexuel,
+{60110}{60182}y compris l'orgasme.
+{60212}{60245}Bonjour, chérie.
+{60262}{60330}Levez-vous lorsque ma femme | entre dans la classe, Carter.
+{60332}{60365}Désolé, monsieur.
+{60367}{60475}J'ai dit aux Garfield qu'on dînerait | avec eux ce soir. D'accord, Humphrey ?
+{60477}{60560}- Oui, puisqu'il le faut. | - On y sera pour huit heures.
+{60562}{60632}Ça me donnera une excuse | pour abréger la réunion.
+{60632}{60710}Je sais que tu ne les aimes pas, | mais j'étais à court d'excuse.
+{60712}{60755}C'est simplement...
+{60767}{60795}Wymer !
+{60822}{60900}Je fais ça pour vous. | Auriez-vous l'amabilité de suivre ?
+{60907}{60977}Je n'ai pas l'intention | de m'étendre sur le sujet.
+{61240}{61307}On passe sur les préliminaires, | si ça ne t'embête pas.
+{61310}{61337}Non, pas du tout.
+{61340}{61457}L'homme commence donc | par chevaucher sa dame
+{61462}{61502}dans la position classique.
+{61505}{61607}Comme vous pouvez le voir, le pénis | est à présent plus ou moins en érection.
+{61622}{61677}Voilà. C'est mieux.
+{61682}{61712}Carter.
+{61745}{61792}- Oui, monsieur ? | - C'est quoi ?
+{61832}{61892}- Un ocarina, monsieur. | - Apportez-le-moi.
+{61930}{62025}L'homme commence par des mouvements | de va-et-vient avec son bassin
+{62027}{62102}en bougeant le pénis de haut en bas | à l'intérieur du vagin.
+{62105}{62167}Sur la table, jeune homme.
+{62195}{62260}La femme optimise la stimulation | de son clitoris
+{62262}{62330}par le haut du pénis en poussant en avant.
+{62335}{62367}Merci, chérie.
+{62367}{62430}Alors que l'excitation sexuelle augmente...
+{62432}{62477}Qu'y a-t-il de drôle, Biggs ?
+{62495}{62520}Rien, monsieur.
+{62522}{62587}Veuillez partager votre blague | avec nous tous.
+{62590}{62650}Il doit y avoir quelque chose | de terriblement drôle.
+{62652}{62682}J'vous jure que non.
+{62685}{62775}Puisque c'est si drôle, je pense que | vous serez sélectionné pour jouer
+{62777}{62882}dans l'équipe de rugby, dans le match | de cet après-midi contre les professeurs.
+{62882}{62917}Non, monsieur !
+{63405}{63455}Bien joué.
+{65467}{65562}LE SENS DE LA VIE - TROISIÈME PARTIE | LE COMBAT
+{65702}{65785}Blackitt, Sturridge et Walters, | prenez ces salauds par la gauche.
+{65787}{65840}Hordern, Spadger et moi, | sur la ligne de feu.
+{65842}{65897}Vous n'y arriverez pas. On vient avec vous.
+{65897}{65925}Faites ce que je dis.
+{65927}{65982}Bien, chef. Chef ?
+{65990}{66062}Au cas où on se reverrait pas,
+{66072}{66175}je voudrais juste dire que je suis fier | de m'être battu à vos côtés.
+{66177}{66262}Eh bien, ce n'est ni le moment, | ni l'endroit pour des adieux.
+{66265}{66372}On s'en rend bien compte, | mais on se reverra peut-être pas, alors...
+{66377}{66422}D'accord, Blackitt. Merci bien.
+{66425}{66465}Non, un instant, chef.
+{66470}{66527}Moi et les gars, on a fait une collecte.
+{66530}{66605}On vous a acheté ça.
+{66667}{66720}Les mots me manquent.
+{66737}{66817}C'est gentil à vous. Merci. Merci à tous.
+{66825}{66897}Je crois qu'il vaudrait mieux | se mettre à l'abri...
+{66917}{66992}On a autre chose pour vous, chef.
+{67017}{67092}Désolés, c'est encore une pendule, | mais il y a eu un malentendu.
+{67095}{67142}Walter voulait acheter un cadeau
+{67145}{67217}et Spadger et moi avions déjà l'autre.
+{67222}{67295}C'est très beau. Les deux sont belles.
+{67340}{67422}Mettons-nous à l'abri, maintenant. | Je vous remercierai plus tard.
+{67422}{67470}Caporal Sturridge vous offre ça.
+{67472}{67542}Il était pas au courant pour les autres. | C'est suisse.
+{67542}{67617}C'est touchant, Sturridge.
+{67622}{67722}Il y a une carte de nous tous, chef. | Excusez le sang.
+{67755}{67787}Merci à tous.
+{67787}{67852}Section ! Hourra pour le capitaine Biggs.
+{68017}{68045}Ça ira.
+{68047}{68132}Encore une chose, chef. | Spadger, donne-lui le chèque.
+{68142}{68190}C'est vraiment trop.
+{68202}{68287}Je ne le trouve pas. | Il doit être dans la tranchée n° 4.
+{68287}{68342}Pour l'amour de Dieu, laisse tomber.
+{68372}{68425}Fallait pas dire ça, chef.
+{68445}{68485}Vous l'avez vexé.
+{68487}{68575}T'en fais pas pour moi. | Ces gens-là sont tous les mêmes.
+{68582}{68710}Un coup, ils sont tout gentils, | un autre, ils vous marchent dessus.
+{68717}{68790}- Y a qu'à pas lui donner le gâteau. | - Je n'en veux pas.
+{68792}{68865}Blackitt l'a fait exprès pour vous, | espèce de salaud.
+{68867}{68917}Il a gardé ses rations | pendant six semaines.
+{68920}{68992}- Je ne veux pas paraître ingrat. | - Ça ira...
+{69017}{69060}Blackie !
+{69070}{69157}Regardez-le ! | Il a travaillé dur pour le faire, ce gâteau.
+{69160}{69215}Il faisait si froid qu'on était pétrifiés,
+{69217}{69315}mais Blackitt coupait les citrons, | mélangeait le sucre et les amandes.
+{69317}{69407}Essayez un peu de faire fondre | du beurre par -15 degrés.
+{69412}{69537}Il y a tout l'amour de cet homme | dans ce gâteau...
+{69590}{69667}- Oh, mon Dieu ! | - Espèce de salaud.
+{69695}{69752}D'accord, on va le manger.
+{69765}{69842}Ils ont raison. Il mérite d'être mangé.
+{69847}{69925}- Walters, les assiettes et les couteaux. | - Combien, chef ?
+{69927}{69952}Six.
+{69992}{70030}Plutôt cinq.
+{70032}{70100}- Une nappe, chef ? | - Oui, va chercher la nappe.
+{70150}{70197}Non, je vais la chercher moi-même.
+{70200}{70262}Hordern, la table pliante.
+{70275}{70317}- Et la petite lampe ? | - Oui.
+{70327}{70382}Tant que tu y es, prends le napperon.
+{70385}{70437}J'en prends deux, | au cas où l'un serait fripé.
+{70440}{70467}D'accord !
+{70560}{70637}Bien sûr, la guerre n'est pas si drôle. | Arrêtez ça.
+{70640}{70727}C'est très bien de se moquer des militaires, | mais si l'on considère
+{70730}{70827}le sens de la vie, il s'agit d'une lutte | entre différentes conceptions de la vie.
+{70827}{70895}Sans la capacité de défendre | sa propre conception
+{70897}{70957}contre des idéologies plus agressives,
+{70960}{71047}bon sens et modération | seraient amenés à disparaître.
+{71067}{71130}C'est pourquoi l'armée | sera toujours nécessaire.
+{71132}{71202}Que Dieu me foudroie | s'il en est autrement !
+{71302}{71352}Ne restez pas là, bouche bée,
+{71355}{71417}comme si vous n'aviez jamais vu | la main de Dieu !
+{71420}{71520}Aujourd'hui, | nous allons défiler sur la place.
+{71530}{71615}A moins que l'un d'entre vous | n'ait mieux à faire, bien sûr.
+{71640}{71667}Eh bien ?
+{71697}{71762}Personne n'a une autre activité en vue,
+{71762}{71842}que de défiler sur la place ?
+{71892}{71947}Oui ! Atkinson.
+{72007}{72112}Vous préféreriez faire quoi, Atkinson ?
+{72125}{72217}A dire vrai, sergent, | je préférerais être chez moi, en famille.
+{72257}{72295}Ah oui ?
+{72312}{72342}Oui, sergent.
+{72357}{72395}Bien. Foutez le camp.
+{72397}{72427}Tout de suite.
+{72442}{72510}Les autres sont-ils contents | de mon petit projet
+{72515}{72577}de défiler sur la place ?
+{72580}{72615}- Sergent ? | - Oui ?
+{72617}{72712}- J'ai un bon livre à lire. | - Va lire ton livre, alors !
+{72745}{72837}Les autres, sont-ils satisfaits
+{72852}{72985}de mon petit projet de défiler sur la place ?
+{73002}{73027}Sergent ?
+{73042}{73092}Oui, Wyclif, qu'y a-t-il ?
+{73095}{73147}Je prends des cours de piano.
+{73185}{73232}Des cours de piano ?
+{73242}{73270}Oui, sergent.
+{73272}{73355}Et j'imagine que vous voudriez répéter ?
+{73367}{73447}Défiler sur la place, | c'est pas assez bien pour vous ?
+{73465}{73515}- Eh bien... | - Rompez !
+{73527}{73597}Et vous autres, alors ?
+{73632}{73705}On préférerait être au ciné, j'imagine ?
+{73782}{73830}Rompez !
+{73922}{73977}Sacrée armée. Dans quel état !
+{73980}{74055}Sergent major, à mon commandement !
+{74090}{74182}La démocratie et l'humanitarisme font | partie intégrante de l'armée britannique.
+{74185}{74212}Conneries !
+{74217}{74322}Marquant du sceau de son triomphe | les coins les plus reculés de l'Empire.
+{74437}{74510}Première guerre Zoulou 1879
+{74732}{74810}Peu importent l'endroit | ou l'heure du combat,
+{74812}{74905}c'est l'autorité et le flegme des officiers
+{74907}{74982}qui a fait de l'armée britannique | ce qu'elle est.
+{75815}{75847}Excusez-moi.
+{76017}{76095}- Bonjour, Ainsworth. | - Bonjour, Pakenham. Bien dormi ?
+{76097}{76157}Assez. Piqué à mort, par contre.
+{76160}{76215}A cause du trou | de cette sacrée moustiquaire.
+{76217}{76280}De véritables sauvages, n'est-ce pas ?
+{76297}{76337}- Excusez-moi. | - Oui, Chadwick ?
+{76340}{76410}J'ai peur que Perkins n'ait été | durement touché cette nuit.
+{76412}{76442}Comme nous tous.
+{76442}{76510}Il me semble | que le docteur devrait l'examiner.
+{76512}{76582}- Allez donc le chercher. | - Certainement.
+{76587}{76642}Je vais vous accompagner. | Vous venez, Pakenham ?
+{76645}{76680}Oui, après tout.
+{76752}{76790}En route.
+{77002}{77062}- Bonjour, Perkins. | - Bonjour.
+{77067}{77120}Que se passe-t-il ?
+{77122}{77177}J'ai été mordu cette nuit.
+{77217}{77277}- Toute la jambe ? | - Oui.
+{77297}{77352}- Vous avez mal ? | - Ça picote.
+{77372}{77417}Oui, je comprends.
+{77425}{77507}Belle morsure.
+{77515}{77600}- Oui, une merveille, n'est-ce pas ? | - Comment est-ce arrivé ?
+{77605}{77662}Aucune idée. Le mystère total.
+{77665}{77740}Je viens de me réveiller, | avec une chaussette en trop.
+{77742}{77825}- Il doit y avoir un sacré trou. | - On fait venir le docteur.
+{77827}{77897}- Est-ce bien la peine ? | - Mieux vaut prévenir que guérir.
+{77897}{77945}Oui. Mon Dieu, voyez-vous ça !
+{77947}{77997}Mais c'est énorme !
+{78000}{78057}Vous croyez qu'il va revenir ?
+{78060}{78092}- Recommencer ? | - Oui.
+{78095}{78142}- Il faut le faire recoudre. | - Exact.
+{78145}{78175}Bonjour, docteur !
+{78177}{78272}Bonjour. J'ai fait au plus vite. | Que se passe-t-il ?
+{78277}{78405}Perkins s'est fait mordre cette nuit, | toute la jambe.
+{78415}{78482}Ah, c'est la guerre !
+{78485}{78510}Oui.
+{78515}{78567}Des migraines ? Les selles, ça va ?
+{78595}{78670}Voyons voir cette jambe.
+{78697}{78747}Oui.
+{78812}{78872}Bien. Rien d'inquiétant.
+{78877}{78897}Bien.
+{78900}{78992}C'est un virus, certainement. | Restez au chaud, reposez-vous,
+{78995}{79087}et si vous jouez au foot, un conseil, | servez-vous de l'autre jambe.
+{79087}{79112}D'accord.
+{79112}{79170}Vous serez sur pied dans deux jours.
+{79172}{79255}- Merci de m'avoir rassuré. | - Y a pas de quoi, je suis là pour ça.
+{79257}{79317}D'autres soucis ?
+{79317}{79350}Non, ça va.
+{79352}{79402}A la bonne heure, je file.
+{79407}{79482}Elle va repousser, donc ?
+{79577}{79647}Je vais vous parler franchement.
+{79652}{79727}J'ai bien peur que ce ne soit pas un virus.
+{79752}{79837}Un virus, pour nous médecins, | c'est très très petit.
+{79840}{79927}Si petit qu'il est impossible | que ça file avec une jambe entière.
+{79927}{80007}Messieurs, nous avons affaire, | et ce n'est qu'une hypothèse,
+{80010}{80087}je tiens à le préciser, | à une entité multicellulaire vivante
+{80090}{80195}rayée, aux dents aussi tranchantes | qu'un rasoir, de trois mètres de long,
+{80197}{80252}et du genre felis horribilis.
+{80252}{80325}Ce que nous appelons dans notre jargon, | un tigre.
+{80350}{80385}Un tigre ?
+{80532}{80575}Un tigre, en Afrique ?
+{80680}{80772}- Probablement échappé du zoo. | - Ça me semble peu probable.
+{80787}{80825}Chef ! Chef !
+{80827}{80897}Les Zoulous battent en retraite.
+{80900}{80927}Excellent.
+{80930}{81012}Beaucoup de blessés. | Division C, décimée. Transmission, perdue.
+{81015}{81067}- Trente hommes tués, section F. | - Bien.
+{81067}{81127}Au total, près de 150 hommes, chef.
+{81130}{81157}Excellent.
+{81157}{81245}Je n'ai pas les chiffres exacts, | mais il y a de nombreux blessés...
+{81247}{81332}Oui, mais voyez-vous, sergent, | nous avons un grave problème.
+{81380}{81432}Un des officiers a perdu une jambe.
+{81452}{81542}- Oh, non, chef ! | - Mais si. C'est sûrement un tigre.
+{81557}{81587}En Afrique ?
+{81602}{81690}Le docteur dit qu'on peut la recoudre | si on la trouve rapidement.
+{81692}{81797}- Bien, chef. On part en vadrouille. | - En vadrouille ?
+{81825}{81900}- En patrouille. | - J'aime mieux ça.
+{82020}{82050}Excusez le désordre.
+{82052}{82112}On aura fait le ménage avant votre retour.
+{82115}{82170}- On leur en a fait baver, hein ? | - Oui.
+{82172}{82220}On part en patrouille. Laissez ça.
+{82222}{82297}Quel carnage ! C'était super, chef !
+{82300}{82322}Excellent.
+{82325}{82390}- Bonjour, chef. | - Une sacrée blessure, mon vieux.
+{82392}{82432}Merci beaucoup, chef.
+{82465}{82527}En route, soldat. On part en patrouille.
+{82557}{82610}C'est mieux qu'à la maison, hein ?
+{82612}{82667}Là-bas, si vous tuez quelqu'un, | on vous arrête.
+{82670}{82730}Ici, on vous arme | et on vous montre comment faire.
+{82732}{82832}J'en ai zigouillé quinze, chef. | Chez nous, je serais pendu pour ça.
+{82845}{82910}Ici, on va me filer une putain de médaille !
+{83317}{83350}Désolé, chef.
+{83365}{83397}Merci.
+{83820}{83847}Regardez !
+{83902}{83950}Mon Dieu ! Il est énorme !
+{84197}{84262}Ne tirez pas ! | Nous ne sommes pas des tigres.
+{84277}{84320}Nous étions juste...
+{84352}{84407}Pourquoi êtes-vous déguisés en tigre ?
+{84465}{84542}- Ah, pourquoi, pourquoi, pourquoi ? | - Belle journée, non ?
+{84550}{84592}Répondez.
+{84605}{84720}- Eh bien, on... | - C'est juste qu'on...
+{84745}{84780}Non, c'est pas ça.
+{84787}{84852}C'est pour rire. On est en forme. | On s'amuse.
+{84852}{84910}- Aussi simple que ça. | - Rien de plus.
+{84930}{85010}En fait, on travaille | pour les services secrets britanniques.
+{85012}{85107}- Il y a un chef Ashanti pro-tsariste... | - Non, non.
+{85110}{85180}- Non, non, non. | - C'est pour une pub.
+{85182}{85237}C'est ça. Laissez tomber les Russes.
+{85240}{85297}On fait la pub pour le café du Tigre.
+{85297}{85397}"Le café du Tigre, quel caractère ! | Même les tigres le préfèrent à la chair !"
+{85397}{85455}- Ecoutez... | - D'accord, ça va.
+{85457}{85542}Nous sommes habillés en tigre | pour faire comme sa tante en 1839.
+{85545}{85615}- C'est le cinquantième anniversaire. | - C'est un pari.
+{85617}{85707}- C'est Dieu qui nous l'a ordonné. | - En fait, on est complètement givrés.
+{85707}{85772}On vient d'un hôpital psychiatrique bengali,
+{85772}{85877}on s'est enfui en fabriquant ces costumes | avec de vieilles boites de céréales.
+{85887}{85945}- Peu importe ! | - Pardon ?
+{85947}{86015}La raison de leur déguisement | n'a pas d'importance.
+{86017}{86062}Est-ce qu'ils ont ma jambe ?
+{86080}{86132}Bien raisonné. Alors ?
+{86152}{86187}- En fait... | - Oui ?
+{86197}{86250}On voulait devenir taxidermistes.
+{86252}{86312}Pour se rendre compte | du point de vue de l'animal.
+{86315}{86422}Ça suffit ! Tout ce qu'on vous demande, | c'est si vous avez la jambe de cet homme.
+{86450}{86512}- Une jambe de bois ? | - Non, une vraie jambe.
+{86515}{86620}Il dormait et quelqu'un ou quelque chose | s'en est emparé.
+{86650}{86690}Sans le réveiller ?
+{86742}{86792}- Oui. | - Je ne vous crois pas.
+{86800}{86862}La peau vient | d'un magasin de vélos du Caire.
+{86865}{86917}Le vendeur veut qu'on l'emmène | à Dar es Salaam.
+{86920}{87017}Silence ! Avez-vous la jambe, oui ou non ?
+{87027}{87100}- Oui. Non. | - Non, non.
+{87157}{87217}- Pourquoi avez-vous dit oui ? | - C'est faux.
+{87217}{87267}C'est pas à vous que je parle.
+{87440}{87482}Bien. Fouillez le buisson.
+{87495}{87592}A-t-on l'air de types qui pourraient | se glisser la nuit dans le camp,
+{87595}{87675}puis dans une tente, endormir le gars, | établir son type de peau,
+{87677}{87735}amputer sa jambe et filer avec ?
+{87737}{87772}Fouillez le buisson.
+{87792}{87840}Une jambe ! Vous recherchez une jambe !
+{87845}{87910}En fait, il y en a peut-être une là-dedans.
+{87912}{87987}Quelqu'un l'aura abandonnée ici, | sachant que vous la recherchiez.
+{87990}{88072}En fait, on est tombé dessus. | Ils doivent être bien loin maintenant.
+{88075}{88147}J'imagine que ça va encore | être de notre faute.
+{88162}{88260}Bonsoir et bienvenue au milieu du film.
+{88287}{88400}LE MILIEU DU FILM
+{88427}{88487}Bonsoir. Bienvenue au milieu du film.
+{88490}{88555}Pour ce petit interlude, vous êtes invités
+{88557}{88650}par les auteurs du film sur le tournage de | Trouvez le Poisson.
+{88670}{88735}Nous allons vous montrer | la scène d'un autre film
+{88737}{88795}et vous devrez trouver où est le poisson.
+{88797}{88862}Si vous le trouvez, n'hésitez pas
+{88865}{88922}à hurler pour que tout le public | vous entende.
+{88925}{88997}Voici : Trouvez le Poisson.
+{89230}{89305}Je me demande où est ce poisson.
+{89325}{89367}Vous l'aimiez tant.
+{89370}{89440}Vous vous en occupiez | comme de votre propre fils.
+{89447}{89547}Il me suivait partout.
+{89555}{89632}- Est-il dans le placard ? | - Oui !
+{89640}{89740}Voulez-vous le savoir ? | C'était un charmant petit poisson.
+{89750}{89862}Il me suivait partout.
+{89872}{89962}- Derrière le canapé ! | - Où peut-il bien être ?
+{89982}{90037}Dans les tiroirs du bureau ?
+{90037}{90105}Quel poisson insaisissable !
+{90107}{90202}Il me suivait partout.
+{90242}{90302}Petit, petit, petit poisson.
+{90315}{90417}Poisson, poisson, poisson.
+{90470}{90537}Petit, petit, petit poisson !
+{90545}{90647}Qui me suivait partout.
+{90650}{90722}- Dans sa trompe ! | - Ouais ! Dans son pantalon !
+{90732}{90782}- C'était génial ! | - Super !
+{90792}{90850}- Le meilleur, jusqu'ici. | - Fantastique !
+{90877}{90930}Très osé.
+{91020}{91105}Ils n'ont pas encore dit grand-chose | sur le sens de la vie, non ?
+{91107}{91162}- Ils y viennent. | - Tu crois ?
+{91165}{91222}On ne doit pas en être loin.
+{91242}{91352}A mon avis, | ils ne vont pas en parler du tout.
+{91355}{91420}- Faut bien qu'ils en parlent. | - Il le faut.
+{91422}{91450}Ouais.
+{91542}{91622}- A ton avis, y a quoi maintenant ? | - Un autre chapitre, j'imagine.
+{91622}{91685}Sur l'étape suivante ? Ah, voilà.
+{91687}{91737}LE SENS DE LA VIE - QUATRIÈME PARTIE | L'AGE MUR
+{91740}{91772}Facile à deviner.
+{91917}{91972}C'est bien mieux. Merci, chérie.
+{91975}{92007}De rien.
+{92047}{92127}C'était plein de buée. Super.
+{92137}{92222}- Bonjour ! Comment allez-vous ? | - Très bien.
+{92222}{92280}Que désirez-vous manger ce soir ?
+{92282}{92332}On aime l'ananas.
+{92335}{92382}Oui, on adore ça.
+{92387}{92457}Tout ce qui est à l'ananas, on adore.
+{92460}{92515}Dans la salle des tortures ?
+{92537}{92605}- Très bien. | - Vous verrez : plat hawaïen
+{92607}{92710}servi dans une authentique | ambiance médiévale anglaise.
+{93082}{93120}C'est chouette, non ?
+{93142}{93172}Ça va bien ?
+{93202}{93242}Un petit souvenir Kodak.
+{93245}{93295}Merci beaucoup.
+{93620}{93692}Bonsoir. Désirez-vous un sujet | de conversation ?
+{93695}{93797}- Merveilleux. | - Notre spécialité ce soir : les minorités.
+{93800}{93855}Ça a l'air très intéressant.
+{93865}{93917}Et cette conversation-ci, c'est quoi ?
+{93917}{94002}Football. Vous pouvez parler du match | de samedi : Steelers contre Bears,
+{94005}{94077}ou vous pouvez évoquer | les championnats passés.
+{94077}{94102}Non, non.
+{94105}{94187}- Et celle-ci ? | - La philosophie.
+{94202}{94235}C'est un sport ?
+{94255}{94347}Non, c'est plutôt une tentative | d'élaboration d'une hypothèse valable
+{94350}{94397}pour expliquer le sens de la vie.
+{94405}{94457}- Quoi ? | - Que dit-il ?
+{94467}{94507}Ça m'a l'air super.
+{94517}{94597}Est-ce que ça te dirait de parler | du sens de la vie, chérie ?
+{94600}{94635}Pourquoi pas ?
+{94637}{94690}- Philosophie pour les deux ? | - Oui.
+{94692}{94735}- Quelle chambre ? | - 259.
+{94827}{94860}Que fait-on... ?
+{94862}{94917}Voulez-vous que je vous lance ?
+{94922}{94952}Ce serait bien aimable.
+{94952}{94977}Bien !
+{95025}{95105}Vous êtes-vous déjà demandé | pourquoi vous êtes là ?
+{95152}{95232}On a fait Miami l'an dernier, | et la Californie, l'année d'avant...
+{95232}{95320}Non, non. Je veux dire, ici, | sur cette planète.
+{95405}{95427}Non.
+{95435}{95532}Bien. Vous demandez-vous | ce que tout cela signifie ?
+{95540}{95567}Non.
+{95582}{95610}Bon, alors !
+{95615}{95717}Voyez-vous, au cours de l'histoire, | certaines personnes
+{95722}{95817}ont essayé d'expliquer | le mystère de l'existence.
+{95832}{95910}- Super ! | - Ce sont les philosophes.
+{95915}{95972}- Ce dont nous parlons. | - Exactement !
+{95975}{96005}C'est chouette.
+{96007}{96115}Vous semblez piger le truc, | voici quelques cartes de conversation.
+{96117}{96227}Elles vous parlent de méthode | philosophique et de philosophes célèbres.
+{96227}{96257}Voilà.
+{96260}{96335}- Bonne conversation. | - Merci beaucoup.
+{96340}{96412}- Il est chou. | - Oui, très serviable.
+{96445}{96520}Je ne savais pas que Schopenhauer | était un philosophe.
+{96552}{96637}Ouais. C'est celui qui commence | par un "S".
+{96805}{96842}Comme Nietzsche.
+{96892}{96945}Nietzsche commence par un "S" ?
+{96982}{97040}Il y a un "S" dans Nietzsche.
+{97087}{97137}Ah oui.
+{97165}{97225}Tous les philosophes ont un "S" ?
+{97227}{97285}Ouais, la plupart, je crois.
+{97340}{97412}Selina Jones est philosophe alors ?
+{97420}{97447}Exactement !
+{97450}{97535}C'est possible. Elle chante le sens de la vie.
+{97545}{97582}C'est vrai.
+{97602}{97657}Mais, écrit-elle ses chansons ?
+{97657}{97685}Non.
+{97692}{97765}C'est peut-être Schopenhauer | qui écrit ses chansons.
+{97767}{97832}Non. C'est Burt Bacharach.
+{97857}{97917}Il n'y a pas de "S" dans "Burt Bacharach".
+{97920}{97962}Ni dans "Hal David".
+{97987}{98022}Qui est Hal David ?
+{98032}{98105}Il écrit les paroles. | Burt compose la musique.
+{98107}{98195}Mais maintenant, | il a épousé Carol Beyer Seger.
+{98275}{98342}Garçon ? | Cette conversation n'est pas terrible.
+{98342}{98382}Désolé, monsieur.
+{98410}{98470}Nous en avons une | qui ne figure pas sur le menu.
+{98472}{98570}C'est une spécialité de la maison. | La greffe d'organes.
+{98587}{98642}La greffe d'organes ? C'est quoi ?
+{98705}{98820}LE SENS DE LA VIE - CINQUIÈME PARTIE | LA GREFFE D'ORGANES
+{98887}{98942}J'y vais, chérie.
+{99112}{99177}- Oui ? | - Bonjour. On peut prendre votre foie ?
+{99197}{99247}- Quoi ? | - Votre foie.
+{99267}{99350}C'est un gros organe glandulaire | situé dans votre abdomen.
+{99387}{99452}Vous voyez, brun-rouge, un peu...
+{99452}{99547}Oui, oui, je vois. Mais je m'en sers.
+{99607}{99680}Allons, on ne nous la fait pas, monsieur.
+{99725}{99750}Bonjour !
+{99795}{99855}- Et ça, c'est quoi ? | - Une carte de donneur.
+{99857}{99915}- Que faut-il de plus ? | - Rien.
+{99917}{100005}Je ne peux pas vous le donner maintenant. | C'est marqué "en cas de décès".
+{100007}{100032}A l'aide !
+{100035}{100122}Personne n'a survécu à notre opération.
+{100125}{100190}Ne bougez pas, ce ne sera pas long.
+{100530}{100567}Que se passe-t-il ?
+{100570}{100627}Il nous fait don de son foie, madame.
+{100645}{100720}C'est parce qu'il a pris | une de ces cartes idiotes ?
+{100722}{100792}- Exactement, madame. | - Ça ne m'étonne pas de lui.
+{100800}{100880}Il va à la bibliothèque municipale, | il voit deux affiches,
+{100887}{100952}et rentre plein de bonnes intentions.
+{100962}{101057}Il donne son sang, participe | à des expériences sur le rhume, tout ça.
+{101150}{101215}Vous en faites quoi, au fait ?
+{101220}{101270}C'est pour sauver des vies, madame.
+{101272}{101307}C'est ce qu'il dit souvent.
+{101310}{101387}"C'est pour le pays", qu'il dit.
+{101410}{101480}Vous pensez que | c'est pour le bien du pays ?
+{101555}{101650}Je ne sais pas, madame. | Nous, on fait notre boulot, c'est tout.
+{101682}{101737}Vous n'êtes pas médecins alors ?
+{101767}{101800}Ça non, alors !
+{101842}{101922}Maman, papa, je sors. | Je rentre vers sept heures.
+{101930}{101997}D'accord. Fais attention à toi.
+{102112}{102182}Voulez-vous du thé ?
+{102215}{102272}C'est gentil, merci.
+{102287}{102352}Merci beaucoup, madame.
+{102397}{102442}J'ai cru qu'elle demanderait jamais.
+{102545}{102612}Vous êtes consciente qu'il doit être mort
+{102640}{102710}selon les conditions stipulées sur la carte
+{102722}{102767}avant de donner son foie.
+{102770}{102865}Je le lui ai dit, | mais il ne m'écoute jamais, l'imbécile.
+{102867}{102912}Enfin, je me demandais...
+{102937}{103002}ce que vous allez faire à présent.
+{103005}{103070}Vous allez rester seule ?
+{103077}{103175}Y a-t-il quelqu'un d'autre, enfin...
+{103227}{103265}en vue ?
+{103267}{103350}Je suis bien trop vieille | pour ce genre de choses.
+{103352}{103427}Pas du tout. Vous êtes très séduisante.
+{103447}{103542}En tout cas, je me remettrai pas à la colle.
+{103567}{103612}- Certaine ? | - Certaine.
+{103812}{103857}On peut avoir votre foie, alors ?
+{103857}{103900}J'aurais trop peur.
+{103905}{103932}Bien.
+{103972}{104007}Je vais vous dire.
+{104027}{104065}Ecoutez.
+{104097}{104162}"Lorsque la vie est trop dure, Mme Brown
+{104170}{104240}"Et que tout est compliqué
+{104252}{104352}"Quand les gens vous énervent
+{104375}{104495}"Et que vous n'en pouvez plus
+{104585}{104732}"Rappelez-vous que vous êtes | sur une planète qui bouge
+{104735}{104802}"Et qui tourne à 1500 kilomètres/heure
+{104822}{104920}"Elle pivote de 30 kilomètres par seconde, | à ce qu'on sait
+{104922}{104992}"Le Soleil qui nous donne tant d'énergie
+{105017}{105107}"Le Soleil et vous et moi | et toutes les étoiles qu'on voit
+{105112}{105185}"Faisons du 1,5 million kilomètres par jour
+{105205}{105292}"Sur un axe en spirale, à 65000 km/h
+{105307}{105375}"Dans une galaxie qu'on appelle | la Voie Lactée
+{105592}{105677}"Notre propre galaxie | comprend 100 milliards d'étoiles
+{105685}{105762}"Cent mille années-lumière | d'un bout à l'autre
+{105782}{105862}"Avec un renflement au milieu | de 16000 années-lumière
+{105872}{105952}"Pour nous, cela ne fait | que 3000 années-lumière de large
+{105972}{106057}"Nous sommes à 30 000 années-lumière | du centre de la galaxie
+{106062}{106137}"Faisons une révolution | tous les 200 millions d'années
+{106160}{106245}"Et notre galaxie n'est qu'une | parmi des milliards
+{106250}{106332}"Dans cet incroyable univers en expansion
+{107115}{107205}"L'univers continue de s'étendre
+{107207}{107277}"Dans toutes les directions
+{107302}{107397}"Aussi vite qu'il le peut, | la vitesse de la lumière
+{107397}{107482}"20 millions de kilomètres à la minute, | la plus grande vitesse possible
+{107485}{107582}"Lorsque vous vous sentez | faible et vulnérable, souvenez-vous
+{107587}{107667}"Combien votre naissance | est une incroyable coïncidence
+{107687}{107775}"Priez pour qu'il y ait une forme | d'intelligence, là-haut dans l'espace
+{107777}{107850}"Car sur terre, il n'y a que dalle"
+{107975}{108037}On est bien peu de chose, n'est-ce pas ?
+{108040}{108082}Ouais.
+{108142}{108195}On peut prendre votre foie, alors ?
+{108207}{108267}- D'accord. Vous m'avez convaincue. | - Eric !
+{108450}{108492}LA GRANDE COMPAGNIE DES ÉTATS-UNIS
+{108495}{108562}Une fois de plus, | il nous faut prendre conscience
+{108565}{108640}du fait qu'il nous reste tant à conquérir.
+{108665}{108782}Numéro six, à l'ordre du jour : | "Le sens de la vie."
+{108840}{108897}Harry, vous avez planché là-dessus.
+{108900}{108982}J'ai mis une équipe sur le sujet | ces dernières semaines.
+{108982}{109087}Nos conclusions se résument | à ces deux principes fondamentaux.
+{109105}{109172}Un : les gens ne portent pas | assez de chapeaux.
+{109190}{109247}Deux : la matière c'est l'énergie.
+{109260}{109367}Dans l'univers, nombreux sont les champs | énergétiques que nous ne percevons pas.
+{109387}{109497}Certaines de ces énergies ont | une source spirituelle qui agit sur l'âme.
+{109515}{109607}Cependant, cette âme n'existe pas ab initio
+{109612}{109667}tel que l'enseigne le christianisme.
+{109675}{109800}C'est un processus d'introspection guidée | qui doit la révéler à l'homme.
+{109827}{109912}Ce qui est rarement possible | du fait de sa faculté unique
+{109915}{110020}à se laisser distraire | par l'aspect trivial du quotidien.
+{110115}{110175}Quelle était cette histoire de chapeaux ?
+{110207}{110257}Les gens n'en portent pas assez.
+{110257}{110292}C'est vrai ?
+{110297}{110387}Les ventes ont augmenté, non pas | pari passu, tel que le montre la rech...
+{110387}{110447}Vous dites "assez", | qu'entendez-vous par là ?
+{110450}{110512}Concernant votre deuxième point, | je me demande si...
+{110515}{110617}lorsque vous dites que l'âme ne se | développe pas à cause de cette faculté...
+{110677}{110742}Quelqu'un avait-il remarqué ce bâtiment ?
+{110802}{110827}Quoi ?
+{110832}{110857}Mon Dieu !
+{111395}{111462}Les Assurances Crimson !
+{111522}{111600}Nous nous excusons de l'interruption | du film due à une attaque
+{111602}{111640}imprévue du court métrage.
+{111642}{111707}Nous nous sommes préparés | à cette éventualité
+{111710}{111767}et sommes donc en mesure d'y remédier.
+{111797}{111822}Merci.
+{111837}{111932}LE SENS DE LA VIE - SIXIÈME PARTIE | LE TROISIÈME AGE
+{111972}{112077}Bonsoir. Voici un petit air | que j'ai récemment concocté dans les les.
+{112080}{112150}"N'est-ce pas super chouette | d'avoir une quéquette
+{112152}{112222}"N'est-ce pas fantastique d'avoir la trique
+{112227}{112302}"C'est drôle d'avoir la gaule | C'est divin d'avoir le gourdin
+{112302}{112387}"Du plus petit zizi | au plus grand zob du monde
+{112387}{112462}"On applaudit votre ouistiti | ou votre belle queue
+{112472}{112540}"Bravo pour votre chapiteau Pinder
+{112547}{112632}"Votre saucisse, l'amie de votre femme, | votre meilleur partenaire
+{112632}{112720}"Vous pouvez la décorer de rubans | La mettre dans votre chaussette
+{112722}{112800}"Tout ça est très amusant | mais la sortir en public
+{112802}{112887}"N'est pas du plus chic" | Merci beaucoup.
+{112947}{113032}- Quelle amusante petite chanson ! | - Très spirituelle.
+{113115}{113162}- Excellent. | - Merveilleux.
+{113347}{113400}Merde ! Voilà M.Creosote !
+{113857}{113915}Bonjour, monsieur. Comment allons-nous ?
+{113917}{113940}Mieux.
+{113942}{114012}- Mieux ? | - Mieux vaut aller chercher un seau.
+{114015}{114065}Gaston ? Un seau pour monsieur.
+{114177}{114227}Voilà, monsieur.
+{114585}{114640}- Merci, Gaston. | - Je n'ai pas fini.
+{114662}{114737}Pardon ! Gaston ? Mille excuses, monsieur.
+{114737}{114842}Cet après-midi, nous avons le plat préféré | de monsieur : un civet de lièvre.
+{114845}{114957}Le lièvre est très fin, la sauce très riche
+{114962}{115080}avec des truffes, des anchois, | du Grand Marnier, du bacon et de la crème.
+{115082}{115117}Merci, Gaston.
+{115120}{115160}Ce n'est pas fini.
+{115162}{115195}Permettez.
+{115242}{115287}Un autre seau pour monsieur.
+{115372}{115412}Et la femme de ménage.
+{115482}{115560}Et maintenant, | monsieur désire-t-il un apéritif
+{115562}{115627}ou préfère-t-il commander tout de suite ?
+{115647}{115740}En entrée, nous vous proposons... | Excusez-moi.
+{115790}{115912}Des moules marinières, du foie gras, | du caviar, des œufs bénédictine,
+{115915}{115967}une tarte aux poireaux,
+{115970}{116060}des cuisses de grenouille amandine | ou des œufs de caille Richard Shepherd.
+{116062}{116157}C'est à dire | sur un lit de purée de champignons.
+{116160}{116207}Très délicat, succulent.
+{116210}{116245}Je prends tout.
+{116275}{116322}Monsieur a fait le bon choix.
+{116327}{116427}Comment le désirez-vous ? | Tout mélangé dans un seau ?
+{116430}{116482}Ouais. Avec les œufs sur le dessus.
+{116485}{116577}- Certainement. Avec les œufs frits. | - Ne lésinez pas sur le foie gras.
+{116580}{116662}Rassurez-vous. | Même si tout cela est mélangé,
+{116665}{116727}nous vous donnerons de véritables parts.
+{116730}{116825}Je m'assurerai moi-même | qu'on vous donne une double ration.
+{116837}{116907}Quelque chose à boire ?
+{116907}{116987}Ouais, six bouteilles | de Château-Latour 1945.
+{117010}{117062}Et un double jéroboam de champagne.
+{117067}{117122}Bon. Et la bière brune habituelle ?
+{117130}{117227}Ouais. Non, attendez. | Six caisses seulement pour aujourd'hui.
+{117235}{117312}J'espère que monsieur | a été raisonnable hier soir.
+{117327}{117385}La ferme !
+{117400}{117467}Le nouveau seau et la femme de ménage.
+{117625}{117712}- Les plats ne vous conviennent pas ? | - Non, c'était excellent.
+{117715}{117797}- Le service laisse-t-il à désirer ? | - Rien à dire.
+{117805}{117890}Il faut que j'y aille. | J'ai des règles assez abondantes.
+{117925}{117987}Et nous devons prendre le train.
+{117990}{118067}Bien sûr, nous avons notre train.
+{118072}{118147}Je ne voudrais pas tacher | les sièges de sang.
+{118162}{118222}- Madame ? | - Allons-y.
+{118272}{118370}Bien, monsieur. Merci beaucoup. | Ce fut un plaisir.
+{118395}{118455}J'espère que nous vous reverrons | très bientôt.
+{118512}{118590}Oh, j'ai marché dans le seau de monsieur.
+{118685}{118737}Un autre seau pour monsieur !
+{118787}{118835}Peut-être un tuyau.
+{118920}{118987}Oh, Max. Vraiment !
+{119365}{119440}Pour finir, monsieur, une petite menthe.
+{119455}{119530}Toute petite, monsieur.
+{119542}{119617}- Allez vous faire foutre. J'ai plus faim. | - Monsieur.
+{119667}{119712}Toute petite.
+{119740}{119832}Je ne peux plus rien avaler. | Je n'en peux plus.
+{119840}{119875}Allez vous faire voir.
+{119877}{119937}Juste une petite, monsieur.
+{120007}{120110}- D'accord, juste une. | - Celle ci, monsieur.
+{121347}{121417}Merci, monsieur, voici l'addition.
+{121747}{121847}LE SENS DE LA VIE -SIXIÈME PARTIE B | LE SENS DE LA VIE
+{122207}{122290}Voyez-vous Maria, | je me demande parfois si nous
+{122315}{122377}découvrirons un jour le sens de
+{122385}{122442}tout ça en travaillant ici.
+{122445}{122540}J'ai travaillé dans de pires endroits, | d'un point de vue philosophique.
+{122542}{122570}Vraiment ?
+{122572}{122600}Oui.
+{122617}{122687}J'ai travaillé à l'Académie française.
+{122702}{122755}Ça ne m'a pas réussi du tout.
+{122762}{122870}J'ai aussi travaillé | à la bibliothèque du Prado à Madrid,
+{122882}{122957}mais je n'en ai rien retiré.
+{122972}{123082}Je pensais trouver une réponse | à la Bibliothèque du Congrès,
+{123092}{123185}mais pas du tout, encore moins à Oxford.
+{123205}{123302}Je pensais m'en approcher | au British Museum.
+{123317}{123425}J'y travaillais de 9 heures à 18 heures, | j'ai lu tous les volumes
+{123442}{123540}mais je n'ai rien appris | sur le mystère de la vie.
+{123555}{123657}J'ai juste pris de l'âge et ma vue a baissé.
+{123662}{123770}Jusqu'à ce que je la perde | et que mon arthrite s'aggrave.
+{123782}{123847}Et maintenant, je fais le ménage ici.
+{123882}{123937}Mais je ne suis pas aigrie,
+{123942}{124025}voyez-vous, car pour moi, la vie est un jeu.
+{124035}{124097}Parfois on gagne, parfois on perd
+{124105}{124175}et même si je suis un peu triste | ces jours-ci,
+{124177}{124250}au moins je ne bosse pas pour des Juifs.
+{124367}{124402}Je suis vraiment désolé.
+{124405}{124502}J'ignorais totalement que quelqu'un | de raciste travaillait chez nous.
+{124507}{124602}Je regrette sincèrement. Enfin...
+{124650}{124717}Où allez-vous ? | Non, laissez-moi vous expliquer.
+{124825}{124852}Quant à moi,
+{124882}{124970}si vous voulez connaître ma pensée,
+{125032}{125102}- venez avec moi. | - Je disais que...
+{125132}{125172}- Par ici ! | - Allons-y.
+{125190}{125217}Ici !
+{125320}{125352}Par ici.
+{125460}{125502}N'ayez pas peur, venez.
+{125532}{125585}Attention aux marches.
+{125695}{125747}Je pense que vous allez comprendre.
+{125922}{125957}Venez.
+{126040}{126067}Par ici.
+{126340}{126382}Allez.
+{126495}{126527}Par ici.
+{126617}{126650}Suivez-moi.
+{126747}{126780}Par là.
+{126827}{126862}Vous me suivez ?
+{126937}{126980}On y est presque.
+{127217}{127255}Vous voyez ?
+{127320}{127370}C'est là que je suis né.
+{127425}{127477}Voyez-vous, un jour,
+{127492}{127567}ma mère m'a pris sur ses genoux | et m'a dit :
+{127602}{127645}"Gaston, mon fils,
+{127665}{127735}"le monde est un endroit merveilleux.
+{127762}{127852}"Tu dois y trouver ta place | et aimer tout le monde.
+{127897}{127947}"Essaye de rendre tout le monde
+{127972}{128080}"heureux autour de toi, | apporte paix et satisfaction."
+{128117}{128162}Je suis donc devenu serveur.
+{128370}{128462}Ce n'est pas vraiment une philosophie, | je sais bien.
+{128560}{128652}Allez vous faire foutre. | Je peux vivre ma vie comme je l'entends.
+{128680}{128722}Allez vous faire foutre.
+{128765}{128810}Pas la peine de me suivre !
+{128995}{129102}LE SENS DE LA VIE -SEPTIÈME PARTIE | LA MORT
+{129692}{129740}Cet homme va bientôt mourir.
+{129752}{129817}Il va être tué dans quelques instants.
+{129825}{129890}Arthur Jarrett est un criminel condamné
+{129892}{129995}qui a pu choisir sa propre exécution.
+{130082}{130112}Le voilà !
+{130467}{130575}Arthur Charles Herbert | Runcie Macadam Jarrett,
+{130602}{130692}vous avez été condamné par douze personnes
+{130700}{130810}pour le crime aggravé | d'avoir commis des blagues sexistes
+{130820}{130862}dans un film.
+{131765}{131832}"Poussière tu étais, | poussière tu redeviendras."
+{131937}{132010}Je n'en peux plus.
+{132032}{132077}Je ne suis plus bon à rien.
+{132100}{132145}Il faut en finir !
+{132162}{132212}Adieu ! Adieu !
+{132430}{132465}Oh, mon Dieu !
+{132485}{132520}Non !
+{132547}{132625}Que faire ? Je ne peux pas vivre sans lui !
+{132770}{132827}- Maman ! | - Maman, où es-tu ?
+{132827}{132897}Papa ? Maman ?
+{132902}{132927}Maman ?
+{134530}{134555}Oui ?
+{134602}{134647}C'est au sujet de la haie ?
+{134712}{134805}- Je regrette mais je... | - Je suis la Faucheuse.
+{134807}{134827}Qui ça ?
+{134830}{134895}- La Faucheuse. | - Je vois.
+{134905}{134957}Je suis la mort.
+{134977}{135055}Nous avons des amis américains | à dîner ce soir et...
+{135057}{135117}- Qui est-ce, chéri ? | - Un certain M.La Mort.
+{135120}{135200}Il vient pour la moisson ? | On n'en a pas besoin pour l'instant.
+{135202}{135277}Bonsoir. Ne le laisse pas là dehors. | Fais le entrer.
+{135280}{135367}- Je ne crois pas que ce soit le moment. | - Entrez. Venez boire un verre.
+{135367}{135405}Je vous en prie.
+{135492}{135555}C'est un des hommes du village.
+{135570}{135615}Entrez, je vous en prie.
+{135632}{135707}Voici Howard Katzenberg, de Philadelphie.
+{135717}{135777}- Et sa femme, Debbie. | - Bonsoir.
+{135795}{135867}Et voici les Smythe, Jeremy et Fiona, | de Portland.
+{135872}{135895}Bonsoir.
+{135897}{135935}Voici M.La Mort.
+{136117}{136182}- Un verre pour M.La Mort, chéri. | - Oui.
+{136210}{136255}M.Mort est moissonneur.
+{136270}{136340}La Faucheuse.
+{136352}{136405}C'est surprenant, par ce temps.
+{136470}{136532}Vous moissonnez beaucoup par ici, | M.La Mort ?
+{136535}{136632}Je suis la Faucheuse.
+{136652}{136727}Il ne dit rien d'autre. | Voici votre verre, M.La Mort.
+{136732}{136762}Asseyez-vous.
+{136762}{136860}Nous étions juste en train de parler | des problèmes terribles du Tiers...
+{136957}{137050}Vous préférez du blanc ? J'ai bien peur | que nous n'ayons plus de bière.
+{137052}{137097}Le fromage est délicieux.
+{137117}{137242}Je ne suis pas de ce monde.
+{137312}{137340}Mon Dieu.
+{137357}{137422}Je suis la mort.
+{137525}{137557}Extraordinaire, hein ?
+{137560}{137617}Nous parlions justement de la mort.
+{137617}{137712}Oui. Vous savez, | si la mort est vraiment la fin...
+{137715}{137782}Ce que croit mon mari Howard, | ou s'il existe...
+{137785}{137847}je n'aime pas les mots | tels que "âme" ou "esprit"...
+{137850}{137915}- Que peut-on dire d'autre ? | - Exactement.
+{137917}{138005}Vous ne comprenez pas.
+{138047}{138095}Apparemment pas.
+{138097}{138167}- Je vais vous dire une chose, M.La Mort. | - Vous ne...
+{138170}{138230}J'aimerais vous dire, au nom de nous tous
+{138232}{138287}quelle expérience unique vous représentez.
+{138290}{138365}- Absolument. | - Nous sommes ravis de votre venue.
+{138375}{138497}- Je peux terminer, peut-être ? | - Monsieur, y a-t-il une vie après la mort ?
+{138522}{138607}- Attendez... | - Vous ne voulez pas de liqueur ?
+{138607}{138665}Angela, laisse-moi parler.
+{138667}{138722}- Silence ! | - Je peux parler ?
+{138725}{138830}Silence ! Je suis venu pour vous.
+{138892}{139002}- Vous voulez dire pour... | - Vous emmener.
+{139040}{139115}C'est mon objectif.
+{139152}{139240}Je suis la mort.
+{139292}{139367}Cela jette un froid dans la soirée.
+{139367}{139447}Je ne suis pas de cet avis, Geoff. | Je crois que nous sommes
+{139447}{139522}en présence d'une expérience | potentiellement positive qui...
+{139522}{139592}La ferme, espèce d'Américain.
+{139595}{139667}Vous les Américains, | avez toujours quelque chose à dire.
+{139670}{139732}Vous parlez, parlez, vous dites :
+{139742}{139857}"Laisse-moi te dire une chose" | et "Je veux juste dire que".
+{139862}{139945}Eh bien maintenant que vous êtes morts, | la ferme !
+{139957}{140017}- Morts ? | - Morts.
+{140065}{140140}- Nous tous ? | - Vous tous.
+{140205}{140287}Alors ça ! Vous débarquez ici | sans invitation, cassez des verres,
+{140290}{140352}puis annoncez sans détours | qu'on est tous morts.
+{140355}{140430}Je me permets de vous rappeler | que vous êtes un invité...
+{140432}{140460}Silence !
+{140467}{140557}Les Anglais ! | Avec vos putains de simagrées !
+{140582}{140640}Vous n'avez pas de couilles.
+{140682}{140747}- Puis-je poser une question ? | - Quoi ?
+{140757}{140827}Comment sommes-nous | tous morts en même temps ?
+{141137}{141197}La mousse de saumon.
+{141222}{141292}Chérie, ce n'est pas du saumon en boite ?
+{141307}{141377}Je suis totalement confuse.
+{141400}{141482}Le temps est venu.
+{141517}{141542}Suivez.
+{141590}{141622}Suivez-moi.
+{141965}{142025}Juste un test. Désolé.
+{142072}{142147}Suivez-moi. Maintenant.
+{142312}{142340}Venez.
+{142435}{142500}Le poissonnier m'avait promis | du saumon frais.
+{142502}{142552}D'habitude, il est irréprochable.
+{142552}{142622}- On peut prendre nos verres ? | - Bonne idée.
+{142712}{142772}Hé ! Je n'en ai même pas mangé.
+{142902}{142957}Je suis absolument confuse, chéri.
+{142960}{142995}C'est très embarrassant.
+{142997}{143100}Servir du saumon empoisonné à un dîner, | quelle faute de goût.
+{143145}{143210}- On prend les voitures ? | - Pourquoi pas ?
+{143227}{143252}Bonne idée.
+{144140}{144225}Voici le paradis.
+{144272}{144362}- J'aime beaucoup ici, chérie. | - Moi aussi, Marvin.
+{144375}{144437}Bonjour. Bienvenue au Paradis.
+{144657}{144732}Excusez-moi. | Vous pouvez signer ici, s'il vous plait ?
+{144750}{144842}Merci. Il y a une table pour vous par là.
+{144850}{144952}- Mesdames. | - Des menthes de l'au-delà. Merci.
+{144955}{145017}- Joyeux Noël. | - C'est Noël ?
+{145017}{145100}Bien sûr, madame. | Au Paradis, c'est Noël tous les jours.
+{145127}{145172}- C'est bien, non ? | - Charmant.
+{146250}{146297}Mesdames et messieurs, bonsoir.
+{146297}{146397}C'est un très grand honneur | d'être ici ce soir,
+{146412}{146467}un moment merveilleux, chaleureux
+{146472}{146527}et très émouvant pour nous tous.
+{146550}{146662}Aussi j'aimerais chanter pour vous tous.
+{146770}{146860}"C'est Noël au Paradis
+{146870}{146947}"Tous les enfants chantent
+{146955}{147017}"C'est Noël au Paradis
+{147027}{147122}"Les cloches carillonnent
+{147125}{147202}"C'est Noël au Paradis
+{147205}{147282}"La neige tombe du ciel
+{147292}{147342}"Mais il fait bon et chaud
+{147347}{147452}"Tout le monde est chic avec sa cravate
+{147600}{147680}"C'est Noël au Paradis
+{147687}{147755}Il y a des films supers à la télé
+{147775}{147857}Peau d'âne deux fois par heure
+{147862}{147935}"Et Les Dents de la Mer I, II et III
+{147950}{148035}"Des cadeaux pour toute la famille
+{148037}{148112}"Des articles de toilette, des trains
+{148125}{148202}"Il y a des Walkmans Sony
+{148215}{148290}"Et les derniers jeux vidéo
+{148302}{148392}"C'est Noël au Paradis
+{148405}{148470}"Hip Hip Hip Hourra
+{148472}{148597}"Chaque jour, c'est Noël au Paradis
+{148657}{148732}"C'est Noël au Paradis
+{148817}{148920}"Chaque jour, c'est... "
+{149000}{149080}C'est la fin du film. Voici le sens de la vie.
+{149110}{149155}Merci, Brigitte.
+{149267}{149345}Rien de spécial. | "Soyez gentil avec les gens. Mangez léger.
+{149347}{149410}"Un bon bouquin de temps en temps. | Un peu de marche.
+{149412}{149507}"Vivez en paix et harmonie avec | les peuples de toutes races et religions."
+{149507}{149602}Pour finir, voici quelques images gratuites | de pénis pour agacer la censure
+{149605}{149687}et, nous l'espérons, faire scandale, | qui est la seule façon
+{149690}{149790}de bouger le cul des gavés de vidéos | pour les ramener au cinéma.
+{149802}{149850}Le divertissement en famille ? Connerie.
+{149852}{149940}Ils veulent de l'obscène : | des tronçonneuses et du sang.
+{149942}{150030}Des baby-sitters poignardées | par des politiciens homosexuels.
+{150032}{150080}Des milices qui étranglent des poulets.
+{150082}{150150}Des armées de critiques | massacrant des chèvres mutantes.
+{150152}{150197}Où est l'humour au cinéma ?
+{150200}{150262}Ah, ben, voilà. Le générique.
+{150262}{150292}Bonsoir.
+{153282}{153380}Les producteurs remercient tous | les poissons qui ont participé à ce film.
+{153382}{153467}Nous espérons que d'autres poissons | suivront l'exemple
+{153470}{153567}de ces derniers afin qu'à l'avenir | tous les poissons du monde
+{153570}{153652}vivent en harmonie et dans le respect | en mettant de côté
+{153652}{153735}leurs petites différences, | qu'ils cessent de se bouffer entre eux
+{153737}{153837}et vivent ainsi dans un monde meilleur | ainsi que tous ceux qui les aiment.

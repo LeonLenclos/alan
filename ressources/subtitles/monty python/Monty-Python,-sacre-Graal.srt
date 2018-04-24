@@ -1,0 +1,4532 @@
+1
+00:00:09,884 --> 00:00:17,416  X1:237 X2:481 Y1:374 Y2:441
+MONTY PYTHON
+SACRE GRAAL
+
+2
+00:00:21,896 --> 00:00:27,232  X1:240 X2:479 Y1:028 Y2:064
+Ekrit etjoué par...
+
+3
+00:00:31,072 --> 00:00:37,204  X1:313 X2:403 Y1:028 Y2:057
+Avek...
+
+4
+00:00:41,516 --> 00:00:43,814  X1:277 X2:440 Y1:028 Y2:057
+Avek aussi...
+
+5
+00:00:46,821 --> 00:00:54,387  X1:237 X2:480 Y1:028 Y2:061
+Avek, aussi aussi...
+
+6
+00:00:59,634 --> 00:01:02,797  X1:150 X2:570 Y1:028 Y2:104
+Pourquoi ne pas aller en Suède
+pour vos vacances ?
+
+7
+00:01:10,378 --> 00:01:13,643  X1:235 X2:481 Y1:028 Y2:064
+Voir sesjolis lacs...
+
+8
+00:01:20,955 --> 00:01:24,288  X1:098 X2:619 Y1:028 Y2:064
+son magnifiique réseau téléphonique...
+
+9
+00:01:30,365 --> 00:01:33,334  X1:219 X2:499 Y1:028 Y2:102
+et ses intéressants
+mammifères poilus ?
+
+10
+00:01:33,768 --> 00:01:38,535  X1:086 X2:632 Y1:028 Y2:097
+Toute ressemblance avec des personnes
+ou des événements réels...
+
+11
+00:01:38,606 --> 00:01:40,540  X1:170 X2:548 Y1:028 Y2:064
+est purement accidentelle...
+
+12
+00:01:40,608 --> 00:01:42,701  X1:259 X2:461 Y1:028 Y2:057
+Richard Nixon.
+
+13
+00:01:42,777 --> 00:01:45,007  X1:215 X2:503 Y1:028 Y2:104
+Avec la participation
+de l'élan majestueux.
+
+14
+00:01:48,016 --> 00:01:50,314  X1:176 X2:544 Y1:028 Y2:057
+Un élan a mordu ma soeur.
+
+15
+00:01:52,954 --> 00:01:55,422  X1:204 X2:516 Y1:028 Y2:097
+Elle gravait ses initiales
+sur son dos.
+
+16
+00:01:55,490 --> 00:01:58,891  X1:208 X2:510 Y1:028 Y2:097
+Avek la brosse à dents
+de son beau-frère...
+
+17
+00:01:58,960 --> 00:02:01,019  X1:185 X2:533 Y1:028 Y2:097
+qui est dentiste
+et star de cinéma à Oslo...
+
+18
+00:02:03,798 --> 00:02:06,232  X1:182 X2:535 Y1:374 Y2:441
+Nous nous excusons
+de ces sous-titres erronés.
+
+19
+00:02:06,300 --> 00:02:08,666  X1:192 X2:528 Y1:414 Y2:441
+Les auteurs ont été virés.
+
+20
+00:02:08,736 --> 00:02:11,796  X1:216 X2:501 Y1:028 Y2:104
+L'élan peut faire
+de graves morsures...
+
+21
+00:02:14,175 --> 00:02:15,972  X1:144 X2:575 Y1:414 Y2:441
+Nous nous excusons à nouveau.
+
+22
+00:02:16,044 --> 00:02:18,774  X1:147 X2:571 Y1:374 Y2:448
+Ceux qui ont viré
+ceux qui viennent d'être virés...
+
+23
+00:02:18,846 --> 00:02:20,108  X1:195 X2:522 Y1:412 Y2:441
+ont été virés à leur tour.
+
+24
+00:03:01,389 --> 00:03:05,325  X1:177 X2:544 Y1:028 Y2:097
+Les nouveaux responsables
+ont aussi été virés.
+
+25
+00:03:05,393 --> 00:03:10,092  X1:098 X2:619 Y1:028 Y2:104
+Nous avons fait refaire le générique
+dans un style complètement différent.
+
+26
+00:03:22,376 --> 00:03:26,039  X1:142 X2:576 Y1:028 Y2:104
+Réalisé par 40 lamas
+des montagnes équatoriennes...
+
+27
+00:03:26,114 --> 00:03:30,642  X1:136 X2:584 Y1:028 Y2:101
+1 4 guanacos du Chili
+(animaux de la famille du lama)...
+
+28
+00:03:30,718 --> 00:03:32,845  X1:204 X2:516 Y1:028 Y2:064
+Reg Llama de Brixton...
+
+29
+00:03:32,920 --> 00:03:34,820  X1:168 X2:548 Y1:028 Y2:064
+Terry Gilliam et TerryJones.
+
+30
+00:03:39,360 --> 00:03:44,297  X1:134 X2:583 Y1:412 Y2:448
+Angleterre, en l'an de grâce 932.
+
+31
+00:04:39,520 --> 00:04:41,511  X1:290 X2:429 Y1:412 Y2:448
+Qui va là ?
+
+32
+00:04:41,589 --> 00:04:46,083  X1:103 X2:613 Y1:372 Y2:448
+Je suis Arthur, fiils d'Uther Pendragon
+Seigneur de Camelot...
+
+33
+00:04:46,160 --> 00:04:49,561  X1:200 X2:516 Y1:372 Y2:448
+Roi des Anglais,
+vainqueur des Saxons...
+
+34
+00:04:49,630 --> 00:04:52,098  X1:138 X2:579 Y1:412 Y2:448
+Souverain de toute l'Angleterre.
+
+35
+00:04:53,534 --> 00:04:56,298  X1:272 X2:446 Y1:372 Y2:441
+- Balivernes !
+- C'est vrai.
+
+36
+00:04:56,370 --> 00:04:58,702  X1:127 X2:593 Y1:412 Y2:448
+Et voici mon fiidèle serviteur Patsy.
+
+37
+00:04:58,773 --> 00:05:01,207  X1:200 X2:519 Y1:372 Y2:448
+Nous chevauchons
+par monts et par vaux...
+
+38
+00:05:01,275 --> 00:05:04,767  X1:207 X2:511 Y1:372 Y2:441
+à la recherche
+de vaillants chevaliers.
+
+39
+00:05:04,846 --> 00:05:07,474  X1:147 X2:570 Y1:412 Y2:448
+Je souhaite parler à ton maîitre.
+
+40
+00:05:07,548 --> 00:05:10,346  X1:221 X2:496 Y1:372 Y2:441
+- Vous chevauchez ?
+- Oui.
+
+41
+00:05:10,418 --> 00:05:11,851  X1:280 X2:437 Y1:412 Y2:441
+A d'autres !
+
+42
+00:05:11,919 --> 00:05:16,549  X1:112 X2:605 Y1:372 Y2:441
+Vous frappez deux moitiés
+de noix de coco l'une contre l'autre.
+
+43
+00:05:16,624 --> 00:05:20,788  X1:182 X2:537 Y1:372 Y2:441
+Eh bien !
+Nous avons bravé l'hiver...
+
+44
+00:05:20,862 --> 00:05:22,796  X1:137 X2:580 Y1:412 Y2:448
+traversé le Royaume de Mercie...
+
+45
+00:05:22,864 --> 00:05:26,994  X1:182 X2:536 Y1:372 Y2:441
+- Et les noix de coco ?
+- Nous les avons trouvées.
+
+46
+00:05:27,068 --> 00:05:30,469  X1:219 X2:498 Y1:372 Y2:448
+La noix de coco
+est un fruit tropical !
+
+47
+00:05:30,538 --> 00:05:34,907  X1:123 X2:594 Y1:374 Y2:448
+- Nous sommes en zone tempérée.
+- L'hirondelle migre, en hiver.
+
+48
+00:05:34,976 --> 00:05:38,571  X1:118 X2:599 Y1:372 Y2:448
+Comme le pluvier,
+elle va vers des cieux plus cléments.
+
+49
+00:05:38,646 --> 00:05:40,910  X1:219 X2:500 Y1:374 Y2:441
+Pourtant,
+ils sont communs ici.
+
+50
+00:05:40,982 --> 00:05:44,145  X1:168 X2:549 Y1:372 Y2:448
+La noix de coco
+serait un oiseau migrateur ?
+
+51
+00:05:44,218 --> 00:05:46,618  X1:192 X2:528 Y1:412 Y2:448
+Non. Elle a été apportée.
+
+52
+00:05:46,687 --> 00:05:49,679  X1:224 X2:495 Y1:412 Y2:441
+Par une hirondelle ?
+
+53
+00:05:49,757 --> 00:05:51,554  X1:195 X2:524 Y1:412 Y2:448
+Elle la tenait par la fiibre.
+
+54
+00:05:51,626 --> 00:05:54,322  X1:199 X2:521 Y1:412 Y2:448
+La question n'est pas là.
+
+55
+00:05:54,395 --> 00:05:57,023  X1:234 X2:485 Y1:372 Y2:441
+C'est un problème
+de sustentation.
+
+56
+00:05:57,098 --> 00:06:01,330  X1:146 X2:574 Y1:372 Y2:448
+Un oiseau de 1 00 g ne peut pas
+transporter une noix de 500 g !
+
+57
+00:06:01,402 --> 00:06:06,567  X1:166 X2:554 Y1:372 Y2:448
+Il suffiit ! Va dire à ton maîitre
+que le Roi Arthur est ici.
+
+58
+00:06:07,708 --> 00:06:10,700  X1:239 X2:482 Y1:374 Y2:441
+Pour se maintenir
+dans les airs...
+
+59
+00:06:10,778 --> 00:06:15,772  X1:143 X2:576 Y1:372 Y2:448
+l'hirondelle doit battre des ailes
+43 fois par seconde.
+
+60
+00:06:15,850 --> 00:06:17,112  X1:308 X2:409 Y1:412 Y2:441
+Allons !
+
+61
+00:06:17,184 --> 00:06:20,017  X1:254 X2:463 Y1:372 Y2:448
+- D'accord ?
+- Ça m'est égal.
+
+62
+00:06:20,087 --> 00:06:22,715  X1:129 X2:588 Y1:412 Y2:448
+Si c'est une hirondelle d'Afrique...
+
+63
+00:06:22,790 --> 00:06:28,422  X1:111 X2:608 Y1:372 Y2:448
+... là, d'accord. Mais
+une hirondelle d'Europe, impossible.
+
+64
+00:06:28,496 --> 00:06:29,895  X1:249 X2:467 Y1:412 Y2:448
+Je suis d'accord.
+
+65
+00:06:29,964 --> 00:06:34,025  X1:187 X2:534 Y1:372 Y2:448
+Demandez à votre maîitre
+s'il veut sejoindre à moi.
+
+66
+00:06:34,936 --> 00:06:38,872  X1:178 X2:543 Y1:372 Y2:448
+Mais l'hirondelle d'Afrique
+n'est pas migratrice.
+
+67
+00:06:38,940 --> 00:06:41,841  X1:223 X2:495 Y1:372 Y2:441
+Alors d'où vient
+cette noix de coco ?
+
+68
+00:06:41,909 --> 00:06:45,902  X1:121 X2:597 Y1:372 Y2:448
+Supposons qu'elle ait été apportée
+par deux hirondelles.
+
+69
+00:06:45,980 --> 00:06:48,005  X1:182 X2:537 Y1:412 Y2:441
+Il leur faudrait une fiicelle !
+
+70
+00:06:48,082 --> 00:06:51,176  X1:117 X2:603 Y1:412 Y2:448
+Pourquoi pas un morceau de liane ?
+
+71
+00:06:51,252 --> 00:06:54,779  X1:123 X2:594 Y1:372 Y2:448
+- Attaché à leurs plumes dorsales ?
+- Pourquoi pas ?
+
+72
+00:06:56,757 --> 00:06:58,952  X1:242 X2:476 Y1:414 Y2:441
+Sortez vos morts.
+
+73
+00:07:15,309 --> 00:07:17,300  X1:242 X2:476 Y1:414 Y2:441
+Sortez vos morts.
+
+74
+00:07:30,091 --> 00:07:31,524  X1:314 X2:405 Y1:414 Y2:441
+9 sous.
+
+75
+00:07:52,346 --> 00:07:54,280  X1:271 X2:447 Y1:372 Y2:441
+- En voilà un.
+- 9 sous.
+
+76
+00:07:54,348 --> 00:07:56,282  X1:240 X2:477 Y1:374 Y2:441
+-Je suis pas mort.
+- Hein ?
+
+77
+00:07:56,350 --> 00:07:58,910  X1:314 X2:403 Y1:414 Y2:441
+Tenez.
+
+78
+00:07:58,986 --> 00:08:01,250  X1:193 X2:525 Y1:372 Y2:441
+- Il dit qu'il est pas mort.
+- Il l'est.
+
+79
+00:08:01,322 --> 00:08:03,256  X1:326 X2:393 Y1:414 Y2:441
+Non!
+
+80
+00:08:03,324 --> 00:08:04,655  X1:292 X2:427 Y1:412 Y2:448
+Il agonise.
+
+81
+00:08:04,725 --> 00:08:07,489  X1:259 X2:459 Y1:374 Y2:441
+-Je vais mieux.
+- Pas du tout.
+
+82
+00:08:07,561 --> 00:08:10,189  X1:184 X2:533 Y1:412 Y2:448
+Je ne peux pas le prendre.
+
+83
+00:08:10,264 --> 00:08:13,529  X1:202 X2:515 Y1:372 Y2:448
+-Je ne veux pas y aller !
+- Ne fais pas l'enfant.
+
+84
+00:08:13,601 --> 00:08:15,865  X1:267 X2:451 Y1:372 Y2:448
+- Désolé.
+-Je vais bien !
+
+85
+00:08:15,936 --> 00:08:17,995  X1:249 X2:468 Y1:374 Y2:448
+- Soyez sympa.
+-Je ne peux pas.
+
+86
+00:08:18,072 --> 00:08:20,165  X1:158 X2:561 Y1:412 Y2:448
+Il n'en a plus pour longtemps.
+
+87
+00:08:20,241 --> 00:08:23,142  X1:144 X2:575 Y1:372 Y2:441
+On m'attend chez les Robinson.
+Ils en ont 9.
+
+88
+00:08:23,210 --> 00:08:25,337  X1:196 X2:521 Y1:372 Y2:448
+- Vous repassez quand ?
+-Jeudi.
+
+89
+00:08:25,413 --> 00:08:29,008  X1:215 X2:503 Y1:372 Y2:448
+-Je vais faire un tour.
+- Ça ne prend pas.
+
+90
+00:08:29,083 --> 00:08:30,380  X1:215 X2:505 Y1:412 Y2:448
+Faites quelque chose.
+
+91
+00:08:30,451 --> 00:08:34,820  X1:157 X2:560 Y1:412 Y2:448
+Je suis heureux. Tout va bien !
+
+92
+00:08:35,589 --> 00:08:38,524  X1:234 X2:484 Y1:372 Y2:448
+- Merci beaucoup.
+- De rien. Ajeudi.
+
+93
+00:08:38,592 --> 00:08:39,559  X1:299 X2:421 Y1:412 Y2:441
+Entendu.
+
+94
+00:08:43,330 --> 00:08:46,731  X1:191 X2:527 Y1:374 Y2:441
+- Qui est-ce ?
+- C'est sans doute un roi.
+
+95
+00:08:46,801 --> 00:08:50,464  X1:149 X2:569 Y1:374 Y2:448
+- Pourquoi ?
+- Il n'est pas couvert de merde.
+
+96
+00:09:13,260 --> 00:09:14,090  X1:274 X2:446 Y1:412 Y2:445
+Eh, la vieille !
+
+97
+00:09:14,161 --> 00:09:16,356  X1:268 X2:450 Y1:374 Y2:448
+- Homme !
+- Oh, pardon.
+
+98
+00:09:16,931 --> 00:09:18,899  X1:185 X2:533 Y1:412 Y2:448
+Quel chevalier vit là-bas ?
+
+99
+00:09:18,966 --> 00:09:21,366  X1:285 X2:431 Y1:414 Y2:448
+J'ai 37 ans.
+
+100
+00:09:21,435 --> 00:09:23,960  X1:227 X2:490 Y1:374 Y2:448
+J'ai 37 ans.
+Je ne suis pas vieux.
+
+101
+00:09:24,038 --> 00:09:27,064  X1:130 X2:587 Y1:372 Y2:441
+- Comment dois-je vous appeler ?
+- Denis.
+
+102
+00:09:27,141 --> 00:09:30,133  X1:209 X2:509 Y1:374 Y2:441
+-Je ne savais pas.
+- Vous vous en fiichez !
+
+103
+00:09:30,211 --> 00:09:33,044  X1:216 X2:505 Y1:412 Y2:445
+Désolé, mais de dos--
+
+104
+00:09:33,114 --> 00:09:36,345  X1:179 X2:538 Y1:374 Y2:441
+Je réprouve votre manière
+de me traiter en inférieur.
+
+105
+00:09:36,417 --> 00:09:39,250  X1:263 X2:454 Y1:372 Y2:448
+-Je suis le Roi.
+- Tu parles !
+
+106
+00:09:39,320 --> 00:09:43,120  X1:163 X2:555 Y1:372 Y2:448
+Vous l'êtes devenu
+en exploitant les travailleurs.
+
+107
+00:09:43,190 --> 00:09:45,681  X1:189 X2:530 Y1:374 Y2:448
+En maintenant
+un système impérialiste...
+
+108
+00:09:45,759 --> 00:09:49,695  X1:179 X2:539 Y1:372 Y2:448
+qui perpétue les inégalités
+sociales et économiques.
+
+109
+00:09:49,763 --> 00:09:54,860  X1:152 X2:565 Y1:374 Y2:448
+- Pour progresser--
+-J'ai trouvé de belles ordures !
+
+110
+00:09:54,935 --> 00:09:57,267  X1:241 X2:476 Y1:374 Y2:448
+- Monseigneur--
+- Bien le bonjour.
+
+111
+00:09:57,338 --> 00:09:59,465  X1:153 X2:563 Y1:412 Y2:448
+Je suis Arthur, Roi des Anglais.
+
+112
+00:09:59,540 --> 00:10:01,872  X1:247 X2:470 Y1:372 Y2:448
+- Qui habite ici ?
+- Roi de qui ?
+
+113
+00:10:01,942 --> 00:10:02,874  X1:278 X2:442 Y1:412 Y2:448
+Des Anglais.
+
+114
+00:10:02,943 --> 00:10:04,001  X1:305 X2:413 Y1:414 Y2:448
+Qui ça ?
+
+115
+00:10:04,078 --> 00:10:07,411  X1:147 X2:572 Y1:372 Y2:448
+Nous sommes tous des Anglais.
+Je suis votre roi.
+
+116
+00:10:07,481 --> 00:10:11,247  X1:176 X2:542 Y1:374 Y2:441
+Je croyais qu'on était
+une collectivité autonome.
+
+117
+00:10:11,318 --> 00:10:14,446  X1:163 X2:555 Y1:374 Y2:448
+Tu rêves !
+Ce régime est autocratique...
+
+118
+00:10:14,522 --> 00:10:17,889  X1:184 X2:534 Y1:372 Y2:441
+et perpétue les inégalités.
+Les classes laborieuses--
+
+119
+00:10:17,958 --> 00:10:20,256  X1:247 X2:470 Y1:412 Y2:448
+Te voilà reparti !
+
+120
+00:10:20,327 --> 00:10:22,261  X1:197 X2:520 Y1:412 Y2:448
+Tout le problème est là.
+
+121
+00:10:22,329 --> 00:10:26,766  X1:141 X2:576 Y1:372 Y2:448
+Je vous en prie.J'ai grande hâte.
+Qui habite ce château ?
+
+122
+00:10:26,834 --> 00:10:28,734  X1:293 X2:426 Y1:414 Y2:441
+Personne.
+
+123
+00:10:28,802 --> 00:10:31,066  X1:222 X2:496 Y1:374 Y2:448
+- Et votre seigneur ?
+- On n'en a pas.
+
+124
+00:10:32,473 --> 00:10:35,135  X1:162 X2:558 Y1:374 Y2:448
+Nous sommes une commune
+anarcho-syndicaliste.
+
+125
+00:10:35,209 --> 00:10:39,441  X1:142 X2:575 Y1:372 Y2:448
+Chacun à son tour
+est directeur pour une semaine.
+
+126
+00:10:39,513 --> 00:10:42,073  X1:137 X2:583 Y1:372 Y2:448
+Mais les décisions doivent toutes
+être ratifiiées par un scrutin...
+
+127
+00:10:42,149 --> 00:10:44,481  X1:169 X2:549 Y1:372 Y2:448
+à la majorité simple
+pour les affaires courantes...
+
+128
+00:10:44,552 --> 00:10:47,248  X1:232 X2:487 Y1:412 Y2:441
+et à celle des 2/3--
+
+129
+00:10:47,321 --> 00:10:47,980  X1:313 X2:403 Y1:414 Y2:441
+Assez !
+
+130
+00:10:50,824 --> 00:10:54,351  X1:141 X2:577 Y1:372 Y2:448
+-Je vous ordonne de vous taire !
+- Pour qui se prend-il ?
+
+131
+00:10:54,428 --> 00:10:57,727  X1:172 X2:545 Y1:374 Y2:448
+-Je suis votre roi !
+-Je n'ai pas voté pour vous.
+
+132
+00:10:57,798 --> 00:11:01,495  X1:176 X2:542 Y1:372 Y2:441
+- Les rois ne sont pas élus.
+- Comment le devient-on ?
+
+133
+00:11:01,569 --> 00:11:06,632  X1:203 X2:515 Y1:372 Y2:448
+Un jour, le bras drapé
+de brocart chatoyant...
+
+134
+00:11:06,707 --> 00:11:10,268  X1:161 X2:556 Y1:372 Y2:448
+la dame du lac
+fiitjaillir Excalibur de l'onde...
+
+135
+00:11:10,344 --> 00:11:15,680  X1:142 X2:576 Y1:372 Y2:448
+l'épée que par la volonté divine,
+je devais porter...
+
+136
+00:11:15,749 --> 00:11:17,683  X1:206 X2:511 Y1:412 Y2:441
+et fiit de moi votre Roi.
+
+137
+00:11:17,751 --> 00:11:21,118  X1:193 X2:525 Y1:372 Y2:448
+Une bonne femme
+qui distribue des épées...
+
+138
+00:11:21,188 --> 00:11:23,122  X1:151 X2:568 Y1:412 Y2:448
+n'est pas un système politique.
+
+139
+00:11:23,190 --> 00:11:27,251  X1:107 X2:612 Y1:412 Y2:448
+Le pouvoir est conféré par la nation...
+
+140
+00:11:27,328 --> 00:11:29,819  X1:116 X2:602 Y1:414 Y2:448
+pas par une pantomime aquatique !
+
+141
+00:11:29,897 --> 00:11:30,989  X1:303 X2:415 Y1:412 Y2:441
+Silence !
+
+142
+00:11:31,065 --> 00:11:34,660  X1:152 X2:566 Y1:372 Y2:448
+Vous ne pouvez pas prétendre
+au pouvoir suprême...
+
+143
+00:11:34,735 --> 00:11:36,896  X1:241 X2:476 Y1:414 Y2:448
+juste parce que--
+
+144
+00:11:36,971 --> 00:11:37,995  X1:298 X2:418 Y1:414 Y2:441
+Tais-toi !
+
+145
+00:11:38,072 --> 00:11:40,165  X1:146 X2:571 Y1:412 Y2:448
+Si je me proclamais empereur...
+
+146
+00:11:40,241 --> 00:11:44,575  X1:138 X2:581 Y1:372 Y2:441
+pour une raison comme la vôtre,
+on m'enfermerait !
+
+147
+00:11:44,645 --> 00:11:46,840  X1:209 X2:507 Y1:412 Y2:441
+Allez-vous vous taire !
+
+148
+00:11:46,914 --> 00:11:49,041  X1:210 X2:508 Y1:372 Y2:448
+Voilà la violence
+inhérente au système.
+
+149
+00:11:49,116 --> 00:11:50,606  X1:303 X2:415 Y1:412 Y2:441
+Silence !
+
+150
+00:11:50,684 --> 00:11:54,848  X1:206 X2:512 Y1:372 Y2:448
+Venez voir la violence
+inhérente au système !
+
+151
+00:11:54,922 --> 00:11:58,358  X1:127 X2:591 Y1:372 Y2:441
+- Maudit bouseux !
+- Il s'est trahi. Vous avez entendu !
+
+152
+00:11:58,425 --> 00:12:01,485  X1:170 X2:547 Y1:412 Y2:448
+Vous l'avez vu m'oppresser.
+
+153
+00:13:38,292 --> 00:13:41,261  X1:141 X2:575 Y1:412 Y2:441
+Tu es un valeureux combattant.
+
+154
+00:13:44,465 --> 00:13:46,990  X1:153 X2:563 Y1:412 Y2:448
+Je suis Arthur, Roi des Anglais.
+
+155
+00:13:50,971 --> 00:13:55,931  X1:164 X2:553 Y1:372 Y2:441
+J'invite les chevaliers les plus
+valeureux à ma cour.
+
+156
+00:14:00,981 --> 00:14:04,610  X1:180 X2:536 Y1:372 Y2:448
+Tu as montré ta bravoure.
+Joins-toi à moi.
+
+157
+00:14:09,990 --> 00:14:13,391  X1:249 X2:470 Y1:372 Y2:448
+C'est dommage.
+Viens, Patsy.
+
+158
+00:14:13,460 --> 00:14:15,724  X1:248 X2:471 Y1:414 Y2:448
+On ne passe pas.
+
+159
+00:14:15,796 --> 00:14:17,661  X1:248 X2:471 Y1:414 Y2:448
+On ne passe pas.
+
+160
+00:14:17,731 --> 00:14:21,895  X1:197 X2:519 Y1:372 Y2:448
+Sans vouloir t'offenser,
+je dois franchir ce pont.
+
+161
+00:14:21,969 --> 00:14:24,494  X1:236 X2:481 Y1:412 Y2:445
+Alors, tu mourras.
+
+162
+00:14:24,571 --> 00:14:29,338  X1:185 X2:532 Y1:372 Y2:448
+Je suis le Roi des Anglais.
+Je t'ordonne de t'écarter.
+
+163
+00:14:29,410 --> 00:14:33,471  X1:123 X2:593 Y1:412 Y2:448
+Aucun homme ne me fera bouger.
+
+164
+00:14:34,615 --> 00:14:36,048  X1:241 X2:475 Y1:412 Y2:441
+Tu l'auras voulu !
+
+165
+00:15:02,242 --> 00:15:06,178  X1:137 X2:580 Y1:372 Y2:448
+- Ecarte-toi, valeureux chevalier.
+- Pour une égratignure ?
+
+166
+00:15:06,246 --> 00:15:08,373  X1:217 X2:502 Y1:412 Y2:448
+Il te manque un bras.
+
+167
+00:15:08,449 --> 00:15:12,351  X1:247 X2:470 Y1:374 Y2:448
+- Non.
+-J'ai connu pire.
+
+168
+00:15:12,419 --> 00:15:14,410  X1:217 X2:501 Y1:374 Y2:448
+- Menteur !
+- Approche, pleutre !
+
+169
+00:15:22,796 --> 00:15:25,458  X1:217 X2:503 Y1:414 Y2:441
+La victoire est à moi !
+
+170
+00:15:25,532 --> 00:15:28,194  X1:215 X2:505 Y1:412 Y2:448
+Loué soit le Seigneur.
+
+171
+00:15:29,336 --> 00:15:31,395  X1:260 X2:456 Y1:412 Y2:445
+Allez, debout !
+
+172
+00:15:31,472 --> 00:15:33,406  X1:292 X2:427 Y1:412 Y2:448
+En garde !
+
+173
+00:15:34,575 --> 00:15:36,907  X1:192 X2:526 Y1:372 Y2:448
+Tu as du courage,
+maisje suis le vainqueur.
+
+174
+00:15:36,977 --> 00:15:39,377  X1:246 X2:472 Y1:412 Y2:448
+On se dégonfle ?
+
+175
+00:15:39,446 --> 00:15:42,074  X1:217 X2:500 Y1:372 Y2:448
+Imbécile !
+Tu n'as plus de bras !
+
+176
+00:15:42,149 --> 00:15:44,083  X1:259 X2:458 Y1:374 Y2:448
+- Si.
+- Regarde-toi !
+
+177
+00:15:44,151 --> 00:15:46,619  X1:250 X2:467 Y1:412 Y2:448
+Simple entaille !
+
+178
+00:15:46,687 --> 00:15:49,155  X1:278 X2:439 Y1:372 Y2:448
+- Ça suffiit !
+- Dégonflé !
+
+179
+00:15:49,223 --> 00:15:52,283  X1:200 X2:517 Y1:412 Y2:448
+Tant pis pour ta jambe.
+
+180
+00:15:54,461 --> 00:15:56,019  X1:239 X2:477 Y1:412 Y2:448
+Tu me le paieras !
+
+181
+00:15:56,096 --> 00:15:58,155  X1:278 X2:440 Y1:374 Y2:448
+- Hein ?!
+- Approche.
+
+182
+00:15:58,232 --> 00:16:01,565  X1:170 X2:548 Y1:372 Y2:448
+- Tu vas me saigner dessus ?
+-Je suis invincible.
+
+183
+00:16:01,635 --> 00:16:02,966  X1:309 X2:410 Y1:412 Y2:448
+Cinglé !
+
+184
+00:16:03,036 --> 00:16:06,096  X1:198 X2:520 Y1:372 Y2:448
+Le Chevalier Noir
+est toujours victorieux !
+
+185
+00:16:14,681 --> 00:16:17,616  X1:214 X2:504 Y1:412 Y2:441
+C'est bon. Match nul.
+
+186
+00:16:17,684 --> 00:16:19,515  X1:274 X2:443 Y1:414 Y2:448
+Viens, Patsy.
+
+187
+00:16:19,586 --> 00:16:22,111  X1:212 X2:505 Y1:412 Y2:448
+Je vois. On se débine !
+
+188
+00:16:22,189 --> 00:16:26,990  X1:251 X2:468 Y1:372 Y2:441
+Poule mouillée !
+Reviens !
+
+189
+00:16:27,060 --> 00:16:28,960  X1:170 X2:547 Y1:372 Y2:448
+Je vais t'arracher lesjambes
+à coup de dents !
+
+190
+00:17:05,899 --> 00:17:07,867  X1:168 X2:551 Y1:414 Y2:441
+Une sorcière ! Une sorcière !
+
+191
+00:17:09,870 --> 00:17:12,771  X1:179 X2:541 Y1:414 Y2:441
+Nous tenons une sorcière !
+
+192
+00:17:28,822 --> 00:17:31,450  X1:179 X2:541 Y1:374 Y2:441
+Nous tenons une sorcière !
+Pouvons-nous la brûler ?
+
+193
+00:17:31,525 --> 00:17:33,789  X1:196 X2:520 Y1:412 Y2:441
+Au bûcher ! Au bûcher !
+
+194
+00:17:34,261 --> 00:17:37,560  X1:176 X2:542 Y1:372 Y2:441
+- Est-ce bien une sorcière ?
+- Elle en a l'air.
+
+195
+00:17:39,299 --> 00:17:41,597  X1:248 X2:468 Y1:412 Y2:441
+Amenez-la-moi.
+
+196
+00:17:41,668 --> 00:17:44,193  X1:179 X2:538 Y1:414 Y2:448
+Je ne suis pas une sorcière.
+
+197
+00:17:44,271 --> 00:17:46,330  X1:214 X2:506 Y1:414 Y2:445
+Mais, ces vêtements ?
+
+198
+00:17:46,406 --> 00:17:49,204  X1:242 X2:478 Y1:412 Y2:441
+Ils me les ont mis.
+
+199
+00:17:49,276 --> 00:17:51,574  X1:149 X2:571 Y1:412 Y2:445
+Ils m'ont mis un faux nez, aussi.
+
+200
+00:17:55,482 --> 00:17:58,451  X1:194 X2:524 Y1:372 Y2:445
+- Eh bien ?
+- Le nez, c'est bien nous.
+
+201
+00:17:59,653 --> 00:18:02,121  X1:202 X2:518 Y1:372 Y2:441
+Le chapeau aussi.
+Mais c'est une sorcière.
+
+202
+00:18:05,726 --> 00:18:09,389  X1:202 X2:516 Y1:372 Y2:445
+- Vous l'avez déguisée?
+- Non, non !
+
+203
+00:18:09,463 --> 00:18:12,432  X1:239 X2:481 Y1:414 Y2:448
+Bon, un petit peu.
+
+204
+00:18:12,499 --> 00:18:14,865  X1:244 X2:476 Y1:412 Y2:441
+Elle a une verrue.
+
+205
+00:18:14,935 --> 00:18:16,994  X1:234 X2:485 Y1:414 Y2:448
+D'autres preuves ?
+
+206
+00:18:17,070 --> 00:18:19,038  X1:159 X2:560 Y1:412 Y2:441
+Elle m'a transformé en triton.
+
+207
+00:18:20,207 --> 00:18:21,469  X1:283 X2:434 Y1:414 Y2:441
+Vraiment ?
+
+208
+00:18:25,579 --> 00:18:27,206  X1:267 X2:449 Y1:414 Y2:448
+Je vais mieux.
+
+209
+00:18:27,280 --> 00:18:29,214  X1:279 X2:438 Y1:412 Y2:441
+Au bûcher !
+
+210
+00:18:29,282 --> 00:18:30,408  X1:279 X2:438 Y1:412 Y2:441
+Au bûcher !
+
+211
+00:18:32,686 --> 00:18:35,519  X1:288 X2:431 Y1:412 Y2:441
+Du calme !
+
+212
+00:18:35,589 --> 00:18:38,922  X1:222 X2:499 Y1:372 Y2:441
+Nous allons en avoir
+le coeur net.
+
+213
+00:18:38,992 --> 00:18:43,258  X1:281 X2:438 Y1:414 Y2:441
+Comment ?
+
+214
+00:18:43,330 --> 00:18:46,197  X1:181 X2:536 Y1:374 Y2:448
+Dites-moi,
+que fait-on des sorcières ?
+
+215
+00:18:46,266 --> 00:18:47,699  X1:279 X2:438 Y1:412 Y2:441
+Au bûcher !
+
+216
+00:18:49,302 --> 00:18:51,998  X1:191 X2:528 Y1:412 Y2:448
+Que brûle-t-on d'autre ?
+
+217
+00:18:52,072 --> 00:18:55,405  X1:219 X2:499 Y1:374 Y2:441
+- D'autres sorcières !
+- Du bois.
+
+218
+00:18:55,475 --> 00:18:58,444  X1:211 X2:509 Y1:372 Y2:441
+Pourquoi les sorcières
+brûlent-elles?
+
+219
+00:19:09,656 --> 00:19:12,124  X1:223 X2:495 Y1:372 Y2:441
+- Elles sont en bois ?
+- Bien !
+
+220
+00:19:15,095 --> 00:19:18,326  X1:162 X2:556 Y1:374 Y2:441
+Comment savoir
+si cette créature est en bois ?
+
+221
+00:19:18,932 --> 00:19:20,229  X1:171 X2:547 Y1:414 Y2:448
+Construisons un pont avec !
+
+222
+00:19:20,300 --> 00:19:23,963  X1:218 X2:500 Y1:372 Y2:448
+Mais n'y a-t-il pas
+des ponts en pierre ?
+
+223
+00:19:24,938 --> 00:19:26,371  X1:306 X2:412 Y1:412 Y2:445
+Oh, oui.
+
+224
+00:19:27,240 --> 00:19:30,471  X1:163 X2:556 Y1:412 Y2:441
+Le bois coule-t-il dans l'eau ?
+
+225
+00:19:30,544 --> 00:19:33,604  X1:194 X2:524 Y1:372 Y2:448
+- Il flotte !
+-Jetons-la dans l'étang !
+
+226
+00:19:37,084 --> 00:19:39,951  X1:158 X2:560 Y1:412 Y2:448
+Quoi d'autre flotte sur l'eau ?
+
+227
+00:19:40,020 --> 00:19:42,284  X1:257 X2:460 Y1:374 Y2:448
+- Le pain !
+- Les pommes !
+
+228
+00:19:42,355 --> 00:19:45,483  X1:190 X2:527 Y1:372 Y2:441
+- Les petits cailloux !
+- Le cidre ! La béchamel !
+
+229
+00:19:45,559 --> 00:19:48,585  X1:271 X2:447 Y1:374 Y2:448
+- Les cerises !
+- Le plomb!
+
+230
+00:19:48,662 --> 00:19:49,754  X1:285 X2:434 Y1:412 Y2:441
+Un canard.
+
+231
+00:19:52,065 --> 00:19:53,498  X1:271 X2:448 Y1:414 Y2:441
+Exactement !
+
+232
+00:19:54,935 --> 00:19:56,960  X1:218 X2:502 Y1:412 Y2:448
+Donc, logiquement...
+
+233
+00:19:57,037 --> 00:20:01,906  X1:184 X2:534 Y1:372 Y2:448
+si elle pèse le même poids
+qu'un canard--
+
+234
+00:20:04,311 --> 00:20:05,869  X1:253 X2:466 Y1:412 Y2:441
+Elle est en bois !
+
+235
+00:20:05,946 --> 00:20:07,436  X1:298 X2:422 Y1:412 Y2:441
+Et donc ?
+
+236
+00:20:09,549 --> 00:20:10,811  X1:231 X2:488 Y1:414 Y2:441
+C'est une sorcière !
+
+237
+00:20:16,056 --> 00:20:18,251  X1:260 X2:456 Y1:412 Y2:441
+Aux balances !
+
+238
+00:20:39,346 --> 00:20:43,146  X1:243 X2:476 Y1:412 Y2:441
+Enlevez les cales !
+
+239
+00:20:47,020 --> 00:20:48,419  X1:231 X2:488 Y1:414 Y2:441
+C'est une sorcière !
+
+240
+00:20:48,488 --> 00:20:50,251  X1:231 X2:485 Y1:412 Y2:448
+Je suis démasquée.
+
+241
+00:20:50,323 --> 00:20:51,221  X1:279 X2:438 Y1:412 Y2:441
+Au bûcher !
+
+242
+00:20:59,099 --> 00:21:02,364  X1:138 X2:579 Y1:374 Y2:448
+Qui êtes-vous,
+vous qui connaissez ces secrets ?
+
+243
+00:21:02,435 --> 00:21:04,903  X1:153 X2:563 Y1:412 Y2:448
+Je suis Arthur, Roi des Anglais.
+
+244
+00:21:04,971 --> 00:21:07,030  X1:325 X2:392 Y1:414 Y2:441
+Sire !
+
+245
+00:21:07,107 --> 00:21:08,199  X1:245 X2:474 Y1:412 Y2:441
+Preux chevalier...
+
+246
+00:21:08,275 --> 00:21:12,575  X1:187 X2:531 Y1:372 Y2:441
+acceptes-tu de tejoindre
+à la Table Ronde ?
+
+247
+00:21:12,646 --> 00:21:15,240  X1:213 X2:506 Y1:412 Y2:448
+C'est trop d'honneur.
+
+248
+00:21:15,315 --> 00:21:18,341  X1:220 X2:498 Y1:372 Y2:445
+- Quel est ton nom ?
+- Bedevere, Sire.
+
+249
+00:21:18,418 --> 00:21:21,876  X1:168 X2:548 Y1:412 Y2:441
+Tu seras Messire Bedevere...
+
+250
+00:21:21,955 --> 00:21:24,446  X1:167 X2:552 Y1:412 Y2:441
+Chevalier de la Table Ronde.
+
+251
+00:21:25,592 --> 00:21:29,221  X1:101 X2:620 Y1:372 Y2:448
+Lesage Bedevere
+fut lepremierchevalierdu RoiArthur.
+
+252
+00:21:29,296 --> 00:21:32,595  X1:169 X2:551 Y1:372 Y2:441
+D'autres, auxnomsillustres,
+lesuivirent.
+
+253
+00:21:32,666 --> 00:21:35,362  X1:229 X2:491 Y1:412 Y2:445
+Lancelot, le Brave...
+
+254
+00:21:35,435 --> 00:21:38,131  X1:256 X2:467 Y1:412 Y2:445
+Galahad, le Pur.
+
+255
+00:21:38,205 --> 00:21:41,197  X1:154 X2:567 Y1:372 Y2:448
+Et Robin,
+le Pas-si-brave-que-Lancelot...
+
+256
+00:21:41,274 --> 00:21:43,469  X1:222 X2:499 Y1:372 Y2:448
+quifaillit affronter
+le Dragon d'Agnor...
+
+257
+00:21:43,543 --> 00:21:46,569  X1:216 X2:504 Y1:372 Y2:441
+faillit résister
+au Poulet de Bristol...
+
+258
+00:21:46,646 --> 00:21:50,514  X1:181 X2:546 Y1:372 Y2:441
+et quimouilla ses chausses
+à la bataille de Badon Hill.
+
+259
+00:21:50,584 --> 00:21:55,419  X1:189 X2:534 Y1:372 Y2:441
+Ainsique le bien nommé
+Absent-de-ce-film.
+
+260
+00:21:55,488 --> 00:21:58,719  X1:201 X2:519 Y1:372 Y2:448
+Leurs faitsd'armes
+devinrent légendaires...
+
+261
+00:21:58,792 --> 00:22:01,283  X1:230 X2:491 Y1:412 Y2:441
+à travers les siècles.
+
+262
+00:22:01,361 --> 00:22:03,886  X1:136 X2:584 Y1:412 Y2:441
+Les Chevaliers de la Table Ronde.
+
+263
+00:22:03,964 --> 00:22:04,130  X1:189 X2:528 Y1:372 Y2:441
+Voilà pourquoi la terre
+a la forme d'une banane.
+
+264
+00:22:04,130 --> 00:22:07,759  X1:189 X2:528 Y1:372 Y2:441
+Voilà pourquoi la terre
+a la forme d'une banane.
+
+265
+00:22:07,834 --> 00:22:10,268  X1:117 X2:602 Y1:412 Y2:441
+Ces théories modernes me sidèrent.
+
+266
+00:22:10,337 --> 00:22:14,171  X1:177 X2:540 Y1:372 Y2:441
+Et cette théorie
+sur les vessies de mouton ?
+
+267
+00:22:14,241 --> 00:22:15,333  X1:298 X2:423 Y1:412 Y2:441
+Eh bien--
+
+268
+00:22:15,408 --> 00:22:16,397  X1:325 X2:392 Y1:414 Y2:441
+Sire !
+
+269
+00:22:20,113 --> 00:22:23,276  X1:294 X2:424 Y1:412 Y2:441
+Camelot !
+
+270
+00:22:23,350 --> 00:22:25,284  X1:218 X2:501 Y1:414 Y2:448
+C'est une maquette !
+
+271
+00:22:26,052 --> 00:22:28,850  X1:128 X2:591 Y1:412 Y2:445
+Chevaliers, vous êtes ici chez vous.
+
+272
+00:22:28,922 --> 00:22:31,823  X1:208 X2:511 Y1:412 Y2:441
+Bienvenue à Camelot !
+
+273
+00:22:33,159 --> 00:22:36,560  X1:109 X2:615 Y1:372 Y2:448
+Nous, Chevaliers de la Table Ronde
+Nous dansons quandcela nous tente
+
+274
+00:22:36,630 --> 00:22:39,997  X1:138 X2:589 Y1:372 Y2:448
+Nosnuméros et nos chansons
+Un art dupanardsansprécédent
+
+275
+00:22:40,066 --> 00:22:43,263  X1:139 X2:586 Y1:372 Y2:445
+La bouffe estsibonne à Camelot
+Pain, vin, Boursin, coulent à flot
+
+276
+00:22:50,110 --> 00:22:54,342  X1:127 X2:594 Y1:372 Y2:448
+Chevaliers de la Table Ronde
+Avec nosspectacles la tête monte
+
+277
+00:22:55,382 --> 00:22:58,180  X1:139 X2:587 Y1:372 Y2:448
+Maissouvent nos chansonnettes
+Ont ungoûtpasnet
+
+278
+00:22:58,251 --> 00:23:03,450  X1:102 X2:622 Y1:372 Y2:448
+Noussommes fousd'opéra à Camelot
+Notre diaphragmes'enivre trop
+
+279
+00:23:17,237 --> 00:23:17,771  X1:150 X2:570 Y1:412 Y2:448
+Enguerre, on est forts etprêts.
+
+280
+00:23:17,771 --> 00:23:19,466  X1:150 X2:570 Y1:412 Y2:448
+Enguerre, on est forts etprêts.
+
+281
+00:23:19,539 --> 00:23:21,441  X1:160 X2:563 Y1:412 Y2:448
+Jamais fatigués, toujoursgais
+
+282
+00:23:21,441 --> 00:23:22,567  X1:160 X2:563 Y1:412 Y2:448
+Jamais fatigués, toujoursgais
+
+283
+00:23:23,710 --> 00:23:24,506  X1:237 X2:489 Y1:412 Y2:448
+Entre deuxquêtes
+
+284
+00:23:24,577 --> 00:23:26,636  X1:132 X2:594 Y1:372 Y2:448
+Avec nos vestes fluo de fables
+On se faitpasserpourClark Gable
+
+285
+00:23:26,713 --> 00:23:28,305  X1:158 X2:566 Y1:412 Y2:441
+La vie estsi intense à Camelot
+
+286
+00:23:28,381 --> 00:23:33,318  X1:167 X2:558 Y1:412 Y2:448
+Quej'aiqu'à suivre le tempo
+
+287
+00:23:37,424 --> 00:23:41,326  X1:181 X2:539 Y1:372 Y2:441
+Evitons Camelot.
+L'endroit est inconvenant.
+
+288
+00:23:51,705 --> 00:23:55,004  X1:299 X2:421 Y1:412 Y2:441
+Arthur--
+
+289
+00:23:55,075 --> 00:23:57,134  X1:246 X2:475 Y1:412 Y2:448
+Roi des Anglais--
+
+290
+00:23:59,279 --> 00:24:02,646  X1:157 X2:559 Y1:372 Y2:448
+Debout !
+J'ai horreur de la flagornerie !
+
+291
+00:24:02,716 --> 00:24:04,650  X1:235 X2:483 Y1:372 Y2:448
+- Pardon.
+- Ne t'excuse pas !
+
+292
+00:24:04,718 --> 00:24:10,054  X1:116 X2:601 Y1:372 Y2:448
+Je n'entends que ça !
+Seigneur, pardonnez-moi ceci, cela.
+
+293
+00:24:10,123 --> 00:24:11,590  X1:273 X2:446 Y1:412 Y2:448
+Que fais-tu ?
+
+294
+00:24:11,658 --> 00:24:13,922  X1:201 X2:517 Y1:372 Y2:441
+-Je détourne le regard.
+- Cesse !
+
+295
+00:24:13,994 --> 00:24:18,931  X1:102 X2:617 Y1:372 Y2:446
+Et tous ces psaumes, c'est déprimant !
+Arrêtez-moi ça !
+
+296
+00:24:18,999 --> 00:24:20,330  X1:263 X2:455 Y1:414 Y2:448
+Oui, Seigneur.
+
+297
+00:24:20,400 --> 00:24:25,565  X1:173 X2:543 Y1:372 Y2:441
+Je vais te donner l'occasion
+de faire de tes chevaliers...
+
+298
+00:24:25,638 --> 00:24:29,165  X1:122 X2:596 Y1:412 Y2:448
+un exemple pour les siècles à venir.
+
+299
+00:24:29,242 --> 00:24:30,675  X1:280 X2:439 Y1:412 Y2:441
+Bonne idée.
+
+300
+00:24:30,744 --> 00:24:32,735  X1:266 X2:453 Y1:412 Y2:441
+Evidemment !
+
+301
+00:24:32,812 --> 00:24:36,441  X1:171 X2:545 Y1:412 Y2:441
+Vois. Ceci est le Saint Graal.
+
+302
+00:24:36,516 --> 00:24:38,950  X1:266 X2:453 Y1:412 Y2:448
+Regarde bien.
+
+303
+00:24:39,019 --> 00:24:41,681  X1:217 X2:501 Y1:374 Y2:441
+Votre mission sacrée
+est de le retrouver.
+
+304
+00:24:41,755 --> 00:24:44,918  X1:255 X2:464 Y1:412 Y2:441
+C'est votre but.
+
+305
+00:24:44,991 --> 00:24:48,051  X1:197 X2:522 Y1:412 Y2:448
+La quête du Saint Graal.
+
+306
+00:24:51,798 --> 00:24:54,232  X1:162 X2:557 Y1:412 Y2:441
+C'est une bénédiction divine.
+
+307
+00:24:54,300 --> 00:24:55,892  X1:259 X2:461 Y1:412 Y2:441
+Dieu soit loué !
+
+308
+00:26:17,717 --> 00:26:19,685  X1:240 X2:478 Y1:414 Y2:448
+Qui ? Qui est-ce ?
+
+309
+00:26:19,752 --> 00:26:23,017  X1:123 X2:595 Y1:372 Y2:441
+Le Roi Arthur
+et les chevaliers de la Table Ronde.
+
+310
+00:26:23,089 --> 00:26:25,023  X1:240 X2:478 Y1:412 Y2:448
+Qui demeure ici ?
+
+311
+00:26:25,091 --> 00:26:28,527  X1:238 X2:480 Y1:374 Y2:448
+C'est mon maîitre,
+Guy de Loimbard.
+
+312
+00:26:28,595 --> 00:26:30,688  X1:221 X2:496 Y1:412 Y2:441
+Va dire à ton maîitre
+
+313
+00:26:30,763 --> 00:26:34,597  X1:192 X2:527 Y1:372 Y2:441
+que Dieu nous a chargés
+d'une mission sacrée.
+
+314
+00:26:34,667 --> 00:26:37,830  X1:170 X2:548 Y1:412 Y2:448
+S'il nous offre l'hospitalité...
+
+315
+00:26:37,904 --> 00:26:41,032  X1:226 X2:491 Y1:372 Y2:448
+il pourra participer
+à la quête du Graal.
+
+316
+00:26:41,107 --> 00:26:44,304  X1:177 X2:541 Y1:374 Y2:448
+Je vais voir,
+mais n'y comptez pas trop.
+
+317
+00:26:44,377 --> 00:26:46,641  X1:263 X2:457 Y1:412 Y2:448
+Il en a déjà un.
+
+318
+00:26:47,580 --> 00:26:51,380  X1:227 X2:490 Y1:372 Y2:448
+- Pardon ?
+- Il dit qu'il en a un.
+
+319
+00:26:51,451 --> 00:26:53,476  X1:212 X2:508 Y1:414 Y2:441
+En êtes-vous certain ?
+
+320
+00:26:53,553 --> 00:26:55,646  X1:211 X2:508 Y1:412 Y2:445
+Oui, un très chouette.
+
+321
+00:26:55,722 --> 00:26:59,556  X1:188 X2:529 Y1:412 Y2:448
+J'ai dit qu'on en avait un.
+
+322
+00:26:59,626 --> 00:27:03,062  X1:249 X2:471 Y1:412 Y2:441
+Peut-on le voir ?
+
+323
+00:27:03,129 --> 00:27:06,030  X1:188 X2:529 Y1:374 Y2:448
+Certainement pas !
+Vous êtes des Angliches !
+
+324
+00:27:07,200 --> 00:27:08,633  X1:292 X2:427 Y1:414 Y2:441
+Pas vous ?
+
+325
+00:27:08,701 --> 00:27:13,900  X1:133 X2:584 Y1:372 Y2:448
+Je suis français. D'où croyez-vous
+queje tiens cet accent ?
+
+326
+00:27:13,973 --> 00:27:17,136  X1:133 X2:584 Y1:372 Y2:448
+- Que faites-vous en Angleterre ?
+- Ça vous regarde ?
+
+327
+00:27:18,745 --> 00:27:23,011  X1:127 X2:590 Y1:372 Y2:448
+Montrez-nous le Graal,
+ou nous prendrons votre château.
+
+328
+00:27:23,082 --> 00:27:26,643  X1:161 X2:556 Y1:372 Y2:448
+Vous ne nous faites pas peur,
+cochons d'Anglais !
+
+329
+00:27:26,719 --> 00:27:30,985  X1:154 X2:563 Y1:412 Y2:441
+Allez vous faire cuire un oeuf !
+
+330
+00:27:31,057 --> 00:27:35,016  X1:150 X2:567 Y1:372 Y2:441
+Je me mouche sur le soi-disant
+Roi Arthur...
+
+331
+00:27:35,094 --> 00:27:39,554  X1:168 X2:550 Y1:412 Y2:448
+et sur sa gaillerie de rosbifs !
+
+332
+00:27:46,105 --> 00:27:49,666  X1:208 X2:509 Y1:374 Y2:441
+- Curieux personnage.
+- Mon brave--
+
+333
+00:27:49,742 --> 00:27:55,339  X1:117 X2:601 Y1:372 Y2:448
+Je ne peux plus t'entendre,
+espèce de palefrenier sans cervelle !
+
+334
+00:27:56,950 --> 00:27:58,975  X1:214 X2:502 Y1:412 Y2:448
+Je te pète à la fiigure !
+
+335
+00:27:59,052 --> 00:28:04,422  X1:127 X2:591 Y1:372 Y2:448
+Tu es le fiils d'une femelle hamster
+et d'un homme puant le sureau !
+
+336
+00:28:06,292 --> 00:28:08,886  X1:142 X2:575 Y1:372 Y2:448
+Quelqu'un d'autre
+accepterait-il de nous écouter ?
+
+337
+00:28:08,962 --> 00:28:13,763  X1:150 X2:568 Y1:372 Y2:448
+Non. Fichez le camp,
+ou je vous insulte de nouveau !
+
+338
+00:28:15,301 --> 00:28:18,566  X1:185 X2:531 Y1:372 Y2:448
+Je vous laisse une chance.
+J'ai été complaisant.
+
+339
+00:28:24,444 --> 00:28:27,936  X1:195 X2:524 Y1:372 Y2:441
+Si vous refusez
+d'exécuter mes ordres--
+
+340
+00:28:37,223 --> 00:28:39,123  X1:296 X2:422 Y1:412 Y2:448
+Chargez !
+
+341
+00:28:52,639 --> 00:28:54,402  X1:256 X2:464 Y1:412 Y2:448
+Replions-nous !
+
+342
+00:29:05,251 --> 00:29:07,981  X1:194 X2:522 Y1:412 Y2:448
+Je les taillerai en pièces !
+
+343
+00:29:08,054 --> 00:29:11,649  X1:271 X2:445 Y1:412 Y2:448
+J'ai une idée.
+
+344
+00:31:15,248 --> 00:31:17,182  X1:252 X2:468 Y1:414 Y2:441
+Et maintenant ?
+
+345
+00:31:17,250 --> 00:31:21,710  X1:190 X2:529 Y1:372 Y2:441
+Lancelot, Galahad et moi
+attendons la nuit...
+
+346
+00:31:21,788 --> 00:31:24,086  X1:184 X2:535 Y1:412 Y2:448
+nous surgissons du lapin...
+
+347
+00:31:24,157 --> 00:31:29,925  X1:183 X2:536 Y1:372 Y2:448
+et prenons les Français
+par surprise, et désarmés !
+
+348
+00:31:30,296 --> 00:31:32,457  X1:222 X2:497 Y1:412 Y2:448
+Qui surgit du lapin ?
+
+349
+00:31:32,532 --> 00:31:35,592  X1:186 X2:533 Y1:412 Y2:445
+Lancelot, Galahad et moi.
+
+350
+00:31:35,668 --> 00:31:39,035  X1:180 X2:541 Y1:412 Y2:448
+Nous surgissons du lapin--
+
+351
+00:31:43,810 --> 00:31:47,211  X1:128 X2:591 Y1:412 Y2:448
+Et si on essayait avec un blaireau ?
+
+352
+00:31:50,483 --> 00:31:52,110  X1:287 X2:430 Y1:412 Y2:441
+Aux abris !
+
+353
+00:32:02,995 --> 00:32:06,089  X1:179 X2:539 Y1:412 Y2:445
+Cours d'histoire, huitième.
+
+354
+00:32:06,165 --> 00:32:10,329  X1:120 X2:601 Y1:028 Y2:104
+Cette défaite plongea le Roi Arthur
+dans un grand désarroi.
+
+355
+00:32:10,403 --> 00:32:15,102  X1:144 X2:577 Y1:028 Y2:104
+La violence verbale des Français
+le déconcentra complètement.
+
+356
+00:32:15,174 --> 00:32:19,543  X1:155 X2:567 Y1:028 Y2:104
+Il comprit qu'il devait recourir
+à une autre stratégie...
+
+357
+00:32:19,612 --> 00:32:23,946  X1:119 X2:598 Y1:372 Y2:441
+s'il voulait que la quête
+du Saint Graal ait une fiin heureuse.
+
+358
+00:32:24,016 --> 00:32:27,281  X1:142 X2:577 Y1:374 Y2:441
+Après s'être concertés,
+lui et ses chevaliers décidèrent...
+
+359
+00:32:27,353 --> 00:32:31,915  X1:117 X2:600 Y1:412 Y2:448
+de poursuivre la quête séparément.
+
+360
+00:32:31,991 --> 00:32:34,721  X1:219 X2:497 Y1:412 Y2:448
+Voici ce qu'ils fiirent.
+
+361
+00:32:46,405 --> 00:32:49,238  X1:219 X2:500 Y1:414 Y2:441
+LA GESTE DE ROBIN
+
+362
+00:32:49,308 --> 00:32:52,903  X1:163 X2:557 Y1:412 Y2:448
+Nos chevaliersseséparèrent.
+
+363
+00:32:52,979 --> 00:32:56,540  X1:101 X2:620 Y1:372 Y2:448
+Messire Robin chevaucha vers le nord,
+à travers la forêt d'Ewing...
+
+364
+00:32:56,616 --> 00:32:59,050  X1:204 X2:516 Y1:412 Y2:441
+suivi desesménestrels.
+
+365
+00:33:00,319 --> 00:33:04,619  X1:216 X2:507 Y1:372 Y2:448
+Le vaillant Robin
+s'éloigne de Camelot
+
+366
+00:33:04,690 --> 00:33:09,127  X1:194 X2:531 Y1:372 Y2:441
+llne craintpoint la mort
+le noble Robin
+
+367
+00:33:09,195 --> 00:33:13,393  X1:164 X2:563 Y1:412 Y2:448
+Nises visages lesplusaffreux
+
+368
+00:33:13,466 --> 00:33:16,026  X1:211 X2:517 Y1:412 Y2:445
+Vaillant, vaillant Robin
+
+369
+00:33:18,104 --> 00:33:22,336  X1:196 X2:528 Y1:372 Y2:441
+lln'apointpeurdu tout
+d'être hachémenu
+
+370
+00:33:22,408 --> 00:33:26,845  X1:207 X2:519 Y1:372 Y2:441
+D'avoirlesyeuxcrevés
+les coudes désossés
+
+371
+00:33:26,913 --> 00:33:31,111  X1:178 X2:550 Y1:372 Y2:448
+Qu'on luienlève les rotules
+Ou qu'on le brûle
+
+372
+00:33:31,183 --> 00:33:34,778  X1:197 X2:530 Y1:372 Y2:441
+Ou bien qu'on l'écartèle
+Vaillant Robin
+
+373
+00:33:35,855 --> 00:33:39,882  X1:129 X2:601 Y1:372 Y2:448
+Qu'on luiécrase la tête et le coeur
+Qu'on luiarrache foie et boyaux
+
+374
+00:33:39,959 --> 00:33:43,224  X1:195 X2:532 Y1:372 Y2:448
+Qu'on luibrûle les fesses
+Quesespartiessoient--
+
+375
+00:33:43,296 --> 00:33:46,390  X1:204 X2:515 Y1:412 Y2:448
+Ça suffiit pour l'instant.
+
+376
+00:33:46,465 --> 00:33:48,899  X1:199 X2:521 Y1:412 Y2:441
+Le combat nous attend.
+
+377
+00:33:51,037 --> 00:33:54,495  X1:164 X2:553 Y1:412 Y2:441
+Tu crois défendre la liberté ?
+
+378
+00:33:54,574 --> 00:33:57,771  X1:200 X2:519 Y1:372 Y2:441
+Laisse tomber la liberté
+et ramasse cette saleté.
+
+379
+00:34:01,547 --> 00:34:03,913  X1:242 X2:477 Y1:412 Y2:448
+Halte ! Qui va là ?
+
+380
+00:34:03,983 --> 00:34:07,077  X1:205 X2:518 Y1:412 Y2:441
+C'est le vaillant Robin...
+
+381
+00:34:07,153 --> 00:34:10,247  X1:223 X2:497 Y1:372 Y2:448
+La ferme !
+Personne de spécial.
+
+382
+00:34:10,323 --> 00:34:13,622  X1:210 X2:507 Y1:372 Y2:448
+-Je ne fais que passer.
+- Que veux-tu ?
+
+383
+00:34:13,693 --> 00:34:15,786  X1:258 X2:467 Y1:412 Y2:441
+Combattre et--
+
+384
+00:34:15,861 --> 00:34:17,590  X1:293 X2:426 Y1:412 Y2:441
+La ferme !
+
+385
+00:34:17,663 --> 00:34:22,259  X1:163 X2:554 Y1:372 Y2:448
+Rien de spécial.
+Juste passer, noble chevalier.
+
+386
+00:34:22,335 --> 00:34:23,802  X1:284 X2:435 Y1:412 Y2:448
+Impossible.
+
+387
+00:34:25,671 --> 00:34:28,105  X1:101 X2:616 Y1:412 Y2:448
+Je suis un chevalier de la Table Ronde.
+
+388
+00:34:28,174 --> 00:34:31,735  X1:214 X2:503 Y1:372 Y2:441
+- De la Table Ronde ?
+- Oui.
+
+389
+00:34:31,811 --> 00:34:34,371  X1:213 X2:504 Y1:372 Y2:448
+- Alorsje dois te tuer.
+- Le dois-je ?
+
+390
+00:34:34,447 --> 00:34:35,641  X1:259 X2:458 Y1:414 Y2:448
+Je ne crois pas.
+
+391
+00:34:35,715 --> 00:34:36,613  X1:304 X2:413 Y1:414 Y2:448
+Voyons.
+
+392
+00:34:36,682 --> 00:34:40,641  X1:212 X2:505 Y1:374 Y2:441
+-Je serai magnanime.
+- Suffiit !
+
+393
+00:34:40,720 --> 00:34:42,950  X1:134 X2:586 Y1:412 Y2:448
+Dégaine, queje lui coupe la tête !
+
+394
+00:34:43,022 --> 00:34:46,287  X1:234 X2:483 Y1:372 Y2:441
+- Coupe la tienne !
+- Bonne idée !
+
+395
+00:34:46,359 --> 00:34:49,658  X1:186 X2:531 Y1:372 Y2:448
+- Toujours à brailler !
+- Et t'es pas à côté de lui !
+
+396
+00:34:49,729 --> 00:34:52,095  X1:273 X2:444 Y1:374 Y2:441
+- Pourquoi ?
+- Tu ronfles !
+
+397
+00:34:52,164 --> 00:34:54,598  X1:172 X2:545 Y1:412 Y2:445
+Toi, tu as mauvaise haleine.
+
+398
+00:34:54,667 --> 00:34:58,933  X1:202 X2:516 Y1:372 Y2:448
+- Brosse-moi les dents !
+- Allons prendre le thé.
+
+399
+00:34:59,005 --> 00:35:03,499  X1:197 X2:520 Y1:372 Y2:448
+D'accord. Tuons-le,
+et allons prendre le thé.
+
+400
+00:35:03,576 --> 00:35:04,543  X1:269 X2:448 Y1:412 Y2:441
+Sans biscuits.
+
+401
+00:35:04,610 --> 00:35:07,807  X1:260 X2:459 Y1:372 Y2:441
+C'est bon.
+Mais tuons-le !
+
+402
+00:35:11,651 --> 00:35:13,881  X1:272 X2:447 Y1:412 Y2:441
+Il s'est enfui !
+
+403
+00:35:13,953 --> 00:35:18,617  X1:156 X2:569 Y1:412 Y2:448
+Le vaillant Robin apris la fuite
+
+404
+00:35:18,691 --> 00:35:20,386  X1:285 X2:433 Y1:412 Y2:441
+C'est faux !
+
+405
+00:35:20,459 --> 00:35:23,792  X1:172 X2:555 Y1:372 Y2:448
+Quandle dangerest apparu
+Vite, vite ila disparu
+
+406
+00:35:23,863 --> 00:35:24,625  X1:285 X2:433 Y1:412 Y2:441
+C'est faux !
+
+407
+00:35:30,036 --> 00:35:31,025  X1:275 X2:444 Y1:412 Y2:441
+Pas du tout !
+
+408
+00:35:32,538 --> 00:35:34,938  X1:275 X2:445 Y1:414 Y2:448
+Mensonges !
+
+409
+00:36:06,605 --> 00:36:10,006  X1:193 X2:526 Y1:414 Y2:441
+LA GESTE DE GALAHAD
+
+410
+00:37:03,195 --> 00:37:05,322  X1:246 X2:472 Y1:412 Y2:448
+Ouvrez la porte !
+
+411
+00:37:07,666 --> 00:37:10,897  X1:202 X2:514 Y1:372 Y2:448
+Au nom du Roi Arthur,
+ouvrez la porte !
+
+412
+00:37:19,578 --> 00:37:20,840  X1:302 X2:418 Y1:414 Y2:448
+Bonjour.
+
+413
+00:37:20,913 --> 00:37:25,612  X1:146 X2:573 Y1:412 Y2:441
+Bienvenue au château Anthrax.
+
+414
+00:37:26,418 --> 00:37:28,010  X1:212 X2:508 Y1:412 Y2:441
+Le château Anthrax ?!
+
+415
+00:37:28,087 --> 00:37:31,989  X1:153 X2:566 Y1:372 Y2:448
+Le nom n'est pas très heureux,
+je sais.
+
+416
+00:37:32,057 --> 00:37:36,858  X1:142 X2:577 Y1:372 Y2:441
+Mais nous sommes gentilles.
+Nous satisferons tous vos désirs.
+
+417
+00:37:36,929 --> 00:37:39,557  X1:191 X2:526 Y1:372 Y2:441
+Vous êtes les gardiennes
+du Sacré Graal ?
+
+418
+00:37:39,632 --> 00:37:42,533  X1:224 X2:493 Y1:374 Y2:441
+- Le quoi ?
+- Le Graal. Il est ici ?
+
+419
+00:37:43,469 --> 00:37:46,836  X1:222 X2:494 Y1:372 Y2:448
+Vous êtes fatigué.
+Venez vous reposer.
+
+420
+00:37:46,906 --> 00:37:49,739  X1:236 X2:483 Y1:412 Y2:448
+Midget ! Crapper !
+
+421
+00:37:49,809 --> 00:37:51,606  X1:258 X2:462 Y1:412 Y2:448
+Préparez un lit.
+
+422
+00:37:51,677 --> 00:37:54,908  X1:313 X2:406 Y1:414 Y2:441
+Merci !
+
+423
+00:37:54,980 --> 00:37:57,448  X1:198 X2:518 Y1:412 Y2:448
+Allons, dépêchez-vous !
+
+424
+00:37:57,516 --> 00:38:02,681  X1:179 X2:540 Y1:372 Y2:448
+Nos lits sont chauds, doux,
+et très, très profonds.
+
+425
+00:38:03,856 --> 00:38:06,017  X1:124 X2:595 Y1:412 Y2:448
+Quel est ton nom, beau chevalier ?
+
+426
+00:38:06,091 --> 00:38:09,219  X1:223 X2:495 Y1:412 Y2:441
+Galahad... le Chaste.
+
+427
+00:38:09,295 --> 00:38:13,026  X1:248 X2:472 Y1:374 Y2:441
+Moi, c'est Zoot...
+tout court.
+
+428
+00:38:13,098 --> 00:38:14,690  X1:317 X2:399 Y1:414 Y2:441
+Viens.
+
+429
+00:38:15,467 --> 00:38:17,765  X1:249 X2:470 Y1:412 Y2:441
+Où est le Graal ?
+
+430
+00:38:17,837 --> 00:38:21,364  X1:189 X2:527 Y1:372 Y2:441
+Tu as beaucoup souffert.
+Tu délires.
+
+431
+00:38:21,440 --> 00:38:24,102  X1:238 X2:479 Y1:412 Y2:448
+Je sais qu'il est ici.
+
+432
+00:38:24,176 --> 00:38:28,977  X1:156 X2:562 Y1:372 Y2:448
+Tu ne nous ferais pas l'affront
+de refuser notre hospitalité ?
+
+433
+00:38:29,215 --> 00:38:30,307  X1:298 X2:423 Y1:412 Y2:441
+Eh bien--
+
+434
+00:38:30,816 --> 00:38:36,812  X1:116 X2:603 Y1:372 Y2:448
+Notre vie peut paraîitre bien morne,
+comparée à la tienne.
+
+435
+00:38:37,423 --> 00:38:40,256  X1:143 X2:576 Y1:372 Y2:441
+Nous sommes 1 50 jouvencelles,
+brunes et blondes...
+
+436
+00:38:40,326 --> 00:38:46,060  X1:116 X2:603 Y1:374 Y2:448
+entre 1 6 et 1 9 ans 1 /2,
+recluses ici, sans aucune protection.
+
+437
+00:38:46,131 --> 00:38:49,123  X1:168 X2:551 Y1:412 Y2:441
+Notre vie solitaire consiste...
+
+438
+00:38:49,201 --> 00:38:52,796  X1:189 X2:529 Y1:372 Y2:445
+à nous baigner,
+nous vêtir, nous dévêtir...
+
+439
+00:38:52,872 --> 00:38:54,840  X1:151 X2:566 Y1:412 Y2:441
+à tisser des dessous affriolants.
+
+440
+00:38:56,475 --> 00:38:58,773  X1:148 X2:572 Y1:412 Y2:441
+Les beaux chevaliers sont rares.
+
+441
+00:38:58,844 --> 00:39:01,677  X1:208 X2:508 Y1:412 Y2:448
+Viens donc t'allonger.
+
+442
+00:39:02,681 --> 00:39:06,310  X1:257 X2:461 Y1:372 Y2:441
+- Tu es blessé ?
+- Ce n'est rien !
+
+443
+00:39:06,385 --> 00:39:11,322  X1:173 X2:544 Y1:372 Y2:448
+Tu as besoin d'un médecin.
+Allons, allonge-toi.
+
+444
+00:39:14,293 --> 00:39:16,454  X1:191 X2:528 Y1:414 Y2:448
+Qu'est-ce qui ne va pas ?
+
+445
+00:39:16,528 --> 00:39:19,088  X1:214 X2:506 Y1:412 Y2:441
+Elles sont médecins ?!
+
+446
+00:39:19,164 --> 00:39:21,758  X1:162 X2:557 Y1:412 Y2:441
+Elles ont des notions de base.
+
+447
+00:39:21,834 --> 00:39:25,031  X1:232 X2:485 Y1:412 Y2:448
+Tu dois te reposer.
+
+448
+00:39:25,104 --> 00:39:29,268  X1:152 X2:568 Y1:412 Y2:448
+Docteurs, le patient est à vous.
+
+449
+00:39:35,214 --> 00:39:38,672  X1:200 X2:517 Y1:372 Y2:448
+- Détendez-vous.
+- Est-ce indispensable ?
+
+450
+00:39:38,751 --> 00:39:40,719  X1:222 X2:497 Y1:412 Y2:441
+Pour vous ausculter.
+
+451
+00:39:43,589 --> 00:39:47,525  X1:193 X2:527 Y1:412 Y2:441
+Nous sommes médecins.
+
+452
+00:39:49,128 --> 00:39:52,586  X1:187 X2:529 Y1:372 Y2:448
+Impossible !
+J'ai fait voeu de chasteté.
+
+453
+00:39:52,665 --> 00:39:53,791  X1:313 X2:403 Y1:412 Y2:441
+Au lit !
+
+454
+00:39:53,866 --> 00:39:57,097  X1:209 X2:509 Y1:372 Y2:448
+Cessez de vous défiiler.
+J'ai vu le Graal.
+
+455
+00:39:57,169 --> 00:40:00,002  X1:183 X2:535 Y1:374 Y2:448
+- Ici ?
+-Je vous dis queje l'ai vu !
+
+456
+00:40:29,201 --> 00:40:29,997  X1:318 X2:399 Y1:414 Y2:441
+Zoot !
+
+457
+00:40:30,069 --> 00:40:33,334  X1:151 X2:566 Y1:412 Y2:448
+Je suis sa soeurjumelle, Dingo.
+
+458
+00:40:33,405 --> 00:40:35,464  X1:256 X2:462 Y1:372 Y2:441
+- Désolé.
+- Où cours-tu ?
+
+459
+00:40:35,541 --> 00:40:38,999  X1:120 X2:600 Y1:372 Y2:448
+J'ai vu le Graal.
+Il est quelque part dans ce château.
+
+460
+00:40:40,279 --> 00:40:46,240  X1:151 X2:566 Y1:372 Y2:441
+- Non ! Oh, non ! Vilaine Zoot !
+- Pardon ?
+
+461
+00:40:46,318 --> 00:40:48,843  X1:177 X2:542 Y1:412 Y2:445
+La vilaine, méchante Zoot !
+
+462
+00:40:48,921 --> 00:40:53,517  X1:141 X2:578 Y1:372 Y2:441
+Elle a encore allumé notre fanal.
+Il a la forme du Graal.
+
+463
+00:40:53,592 --> 00:40:57,824  X1:156 X2:562 Y1:372 Y2:448
+- Ce n'est pas la première fois.
+- Ce n'est pas le Saint Graal ?
+
+464
+00:40:57,896 --> 00:41:01,627  X1:177 X2:542 Y1:412 Y2:445
+La vilaine, méchante Zoot !
+
+465
+00:41:01,700 --> 00:41:05,158  X1:121 X2:598 Y1:412 Y2:448
+Elle aura la punition qu'elle mérite.
+
+466
+00:41:05,738 --> 00:41:08,172  X1:166 X2:553 Y1:372 Y2:448
+Croyez-vous qu'on aurait dû
+couper cette scène ?
+
+467
+00:41:08,240 --> 00:41:11,107  X1:215 X2:504 Y1:374 Y2:448
+Nous étions inquiets,
+lorsqu'ils l'écrivaient.
+
+468
+00:41:11,176 --> 00:41:14,873  X1:139 X2:579 Y1:374 Y2:448
+Mais nous sommes contents.
+C'est mieux que d'autres scènes.
+
+469
+00:41:14,947 --> 00:41:16,608  X1:157 X2:559 Y1:412 Y2:445
+Au moins, le début est mieux.
+
+470
+00:41:16,682 --> 00:41:19,446  X1:141 X2:576 Y1:372 Y2:448
+Au moins la nôtre était soignée.
+Pas une série de gags cochons !
+
+471
+00:41:19,518 --> 00:41:22,146  X1:218 X2:499 Y1:372 Y2:448
+- Il faut t'y faire.
+- Oui, il faut t'y faire.
+
+472
+00:41:22,221 --> 00:41:25,088  X1:229 X2:490 Y1:412 Y2:448
+Oui, il faut t'y faire.
+
+473
+00:41:25,157 --> 00:41:27,751  X1:211 X2:508 Y1:414 Y2:441
+Cette scène m'amuse.
+
+474
+00:41:27,826 --> 00:41:29,259  X1:261 X2:458 Y1:412 Y2:448
+Il faut t'y faire.
+
+475
+00:41:32,564 --> 00:41:35,089  X1:181 X2:538 Y1:412 Y2:445
+La vilaine, méchante Zoot.
+
+476
+00:41:39,104 --> 00:41:44,440  X1:160 X2:559 Y1:372 Y2:448
+Un seul châtiment est prévu
+pour celle qui allume le fanal.
+
+477
+00:41:44,510 --> 00:41:47,741  X1:155 X2:565 Y1:372 Y2:441
+Elle doit être ligotée sur un lit,
+et fessée.
+
+478
+00:41:47,813 --> 00:41:49,804  X1:221 X2:498 Y1:412 Y2:441
+La fessée ! La fessée !
+
+479
+00:41:49,882 --> 00:41:53,909  X1:210 X2:507 Y1:372 Y2:448
+Ensuite, tu lui feras
+ce que bon te semble.
+
+480
+00:41:53,986 --> 00:41:55,920  X1:207 X2:513 Y1:414 Y2:445
+Puis, ce sera mon tour.
+
+481
+00:41:55,988 --> 00:41:57,512  X1:242 X2:475 Y1:372 Y2:441
+- Et puis le mien !
+- Et le mien !
+
+482
+00:41:57,589 --> 00:42:00,649  X1:148 X2:571 Y1:412 Y2:441
+Nous méritons toutes la fessée.
+
+483
+00:42:00,726 --> 00:42:03,422  X1:221 X2:498 Y1:412 Y2:441
+La fessée ! La fessée !
+
+484
+00:42:03,495 --> 00:42:06,931  X1:242 X2:477 Y1:372 Y2:441
+Et après la fessée,
+coiït buccal !
+
+485
+00:42:06,999 --> 00:42:09,661  X1:275 X2:443 Y1:372 Y2:441
+Coiït buccal !
+Coiït buccal !
+
+486
+00:42:09,735 --> 00:42:11,896  X1:262 X2:454 Y1:412 Y2:448
+Alors, je reste.
+
+487
+00:42:11,970 --> 00:42:14,131  X1:263 X2:454 Y1:372 Y2:441
+- Sir Galahad !
+- Oui.
+
+488
+00:42:14,206 --> 00:42:15,537  X1:305 X2:413 Y1:374 Y2:448
+- Vite !
+- Quoi ?
+
+489
+00:42:15,607 --> 00:42:16,505  X1:242 X2:475 Y1:412 Y2:448
+Tu es en danger !
+
+490
+00:42:16,575 --> 00:42:19,043  X1:227 X2:490 Y1:412 Y2:445
+Silence, tentatrice !
+
+491
+00:42:19,978 --> 00:42:23,004  X1:148 X2:570 Y1:374 Y2:441
+- Nous protégerons ta retraite.
+- Tout va bien.
+
+492
+00:42:24,616 --> 00:42:28,052  X1:131 X2:586 Y1:372 Y2:445
+-Je les materai d'une seule main !
+- Oui, laissez-le nous mater !
+
+493
+00:42:29,521 --> 00:42:33,287  X1:186 X2:531 Y1:372 Y2:448
+- Vite, Galahad !
+-Je m'en tirerai très bien.
+
+494
+00:42:33,358 --> 00:42:35,656  X1:224 X2:495 Y1:412 Y2:441
+Laissez-le s'en tirer !
+
+495
+00:42:35,727 --> 00:42:39,128  X1:209 X2:511 Y1:412 Y2:448
+Elles ne sont que 1 50 !
+
+496
+00:42:39,198 --> 00:42:43,134  X1:154 X2:566 Y1:372 Y2:441
+Il nous maîitrisera.
+Nous n'avons aucune chance !
+
+497
+00:42:47,039 --> 00:42:48,472  X1:308 X2:412 Y1:412 Y2:441
+Merde !
+
+498
+00:42:48,540 --> 00:42:51,475  X1:203 X2:514 Y1:372 Y2:448
+- Tu l'as échappé belle.
+-Je ne crois pas.
+
+499
+00:42:51,543 --> 00:42:54,910  X1:193 X2:525 Y1:372 Y2:441
+- Le danger te guettait.
+- Laissez-moi l'affronter.
+
+500
+00:42:54,980 --> 00:42:58,677  X1:233 X2:485 Y1:374 Y2:448
+- C'est trop risqué.
+-Je n'ai pas peur !
+
+501
+00:42:58,750 --> 00:43:01,844  X1:117 X2:600 Y1:372 Y2:448
+- Trouvons d'abord le Graal.
+- Puis-je affronter le danger avant ?
+
+502
+00:43:01,920 --> 00:43:04,718  X1:222 X2:495 Y1:372 Y2:448
+- C'est trop malsain.
+- Tu es pédé ?
+
+503
+00:43:04,790 --> 00:43:06,382  X1:279 X2:440 Y1:412 Y2:441
+Pas du tout.
+
+504
+00:43:06,458 --> 00:43:10,918  X1:122 X2:600 Y1:372 Y2:441
+Grâce à Lancelot,
+Galahadavait résistéà la tentation.
+
+505
+00:43:10,996 --> 00:43:13,556  X1:153 X2:568 Y1:412 Y2:441
+Mais le Graalétait encore loin.
+
+506
+00:43:13,632 --> 00:43:18,797  X1:117 X2:605 Y1:372 Y2:441
+A un vold'hirondelle, le RoiArthur
+et Bedevere firent une découverte...
+
+507
+00:43:20,639 --> 00:43:23,164  X1:173 X2:549 Y1:412 Y2:441
+Un vold'hirondelle... à vide.
+
+508
+00:43:23,242 --> 00:43:28,111  X1:125 X2:596 Y1:372 Y2:448
+Parce quesielles étaient chargées,
+ilfaut bien en compterquatre.
+
+509
+00:43:28,180 --> 00:43:29,772  X1:158 X2:568 Y1:412 Y2:448
+Quoique, siellesmarchaient--
+
+510
+00:43:29,848 --> 00:43:32,078  X1:261 X2:459 Y1:412 Y2:448
+llfaut t'yfaire.
+
+511
+00:43:32,151 --> 00:43:35,848  X1:211 X2:510 Y1:372 Y2:448
+Bref, dansla scène24,
+quiest magnifique...
+
+512
+00:43:35,921 --> 00:43:38,253  X1:124 X2:594 Y1:412 Y2:448
+Arthurdécouvre un indice capital.
+
+513
+00:43:38,323 --> 00:43:41,622  X1:155 X2:566 Y1:372 Y2:441
+lln'yapasd'hirondelle,
+mais on entendun étourneau.
+
+514
+00:43:43,595 --> 00:43:47,497  X1:144 X2:576 Y1:372 Y2:441
+L'enchanteur dont tu me parles
+a vu le Graal ?
+
+515
+00:43:52,070 --> 00:43:56,131  X1:220 X2:499 Y1:412 Y2:441
+Où habite-t-il ? Où ?
+
+516
+00:43:57,142 --> 00:44:02,102  X1:111 X2:607 Y1:372 Y2:448
+Il connaîit une caverne
+dans laquelle nul n'a jamais pénétré.
+
+517
+00:44:02,181 --> 00:44:04,672  X1:198 X2:521 Y1:412 Y2:448
+C'est là qu'est le Graal ?
+
+518
+00:44:04,750 --> 00:44:08,049  X1:178 X2:540 Y1:372 Y2:441
+Le danger est grand,
+car au-delà de la caverne...
+
+519
+00:44:08,120 --> 00:44:10,987  X1:114 X2:603 Y1:412 Y2:448
+se trouve la Gorge du Péril Eternel...
+
+520
+00:44:11,056 --> 00:44:14,116  X1:102 X2:616 Y1:412 Y2:448
+qu'aucun homme n'a jamais franchie.
+
+521
+00:44:14,193 --> 00:44:16,684  X1:207 X2:512 Y1:412 Y2:441
+Et le Graal ? Où est-il ?
+
+522
+00:44:16,762 --> 00:44:20,493  X1:106 X2:610 Y1:412 Y2:441
+Tu devras trouver le Pont de la Mort.
+
+523
+00:44:21,934 --> 00:44:24,129  X1:177 X2:541 Y1:412 Y2:448
+Ce pont conduit au Graal ?
+
+524
+00:45:09,581 --> 00:45:11,276  X1:255 X2:463 Y1:414 Y2:448
+Qui êtes-vous ?
+
+525
+00:45:14,586 --> 00:45:16,247  X1:261 X2:459 Y1:414 Y2:441
+Non ! Pas eux !
+
+526
+00:45:16,321 --> 00:45:18,380  X1:260 X2:457 Y1:374 Y2:448
+- Eux-mêmes.
+- Qui sont-ils ?
+
+527
+00:45:18,457 --> 00:45:21,915  X1:181 X2:540 Y1:372 Y2:441
+Nous sommes les gardiens
+des mots sacrés.
+
+528
+00:45:21,994 --> 00:45:25,657  X1:197 X2:520 Y1:414 Y2:448
+''Ni Peng'' et ''Ni Wom''.
+
+529
+00:45:26,598 --> 00:45:28,691  X1:111 X2:607 Y1:412 Y2:441
+On survit rarement à leur rencontre.
+
+530
+00:45:28,767 --> 00:45:33,295  X1:164 X2:556 Y1:372 Y2:448
+Les chevaliers qui disent ''Ni''
+exigent un sacrifiice.
+
+531
+00:45:33,372 --> 00:45:37,866  X1:116 X2:605 Y1:372 Y2:441
+Nous sommes d'humbles voyageurs
+à la recherche de l'enchanteur--
+
+532
+00:45:45,050 --> 00:45:48,611  X1:235 X2:484 Y1:412 Y2:441
+Nous dirons ''Ni''...
+
+533
+00:45:48,687 --> 00:45:50,621  X1:128 X2:589 Y1:414 Y2:448
+jusqu'à ce que vous nous apaisiez.
+
+534
+00:45:50,689 --> 00:45:53,624  X1:225 X2:493 Y1:372 Y2:441
+- Que voulez-vous ?
+- Nous voulons--
+
+535
+00:45:54,860 --> 00:45:56,293  X1:275 X2:445 Y1:412 Y2:448
+Un jardinet !
+
+536
+00:45:57,963 --> 00:45:59,396  X1:300 X2:419 Y1:412 Y2:441
+Pardon ?
+
+537
+00:46:01,466 --> 00:46:02,899  X1:299 X2:417 Y1:414 Y2:441
+Arrêtez !
+
+538
+00:46:02,968 --> 00:46:06,995  X1:169 X2:549 Y1:374 Y2:448
+- Nous en trouverons un.
+- Revenez avec un jardinet...
+
+539
+00:46:07,072 --> 00:46:10,508  X1:179 X2:539 Y1:376 Y2:441
+ou vous ne traverserez pas
+cette forêt...
+
+540
+00:46:10,575 --> 00:46:12,907  X1:306 X2:410 Y1:414 Y2:441
+vivants.
+
+541
+00:46:12,978 --> 00:46:16,505  X1:122 X2:597 Y1:412 Y2:448
+Nous reviendrons avec un jardinet.
+
+542
+00:46:16,581 --> 00:46:18,640  X1:291 X2:427 Y1:372 Y2:441
+-Joli.
+- Bien sûr.
+
+543
+00:46:18,717 --> 00:46:20,651  X1:237 X2:480 Y1:372 Y2:441
+- Et pas trop cher.
+- Oui.
+
+544
+00:46:20,719 --> 00:46:23,916  X1:317 X2:399 Y1:412 Y2:441
+Allez !
+
+545
+00:47:07,265 --> 00:47:08,823  X1:299 X2:417 Y1:414 Y2:441
+Arrêtez !
+
+546
+00:47:10,135 --> 00:47:12,968  X1:252 X2:465 Y1:412 Y2:441
+Allez ! Du vent !
+
+547
+00:47:13,038 --> 00:47:15,598  X1:257 X2:460 Y1:412 Y2:441
+Allez-vous-en !
+
+548
+00:47:15,674 --> 00:47:17,699  X1:215 X2:501 Y1:412 Y2:448
+Vous aussi, dégagez !
+
+549
+00:47:22,147 --> 00:47:23,614  X1:266 X2:453 Y1:414 Y2:448
+Foutu temps !
+
+550
+00:47:23,682 --> 00:47:27,379  X1:189 X2:540 Y1:414 Y2:441
+LA GESTEDELANCELOT
+
+551
+00:47:32,724 --> 00:47:35,955  X1:133 X2:587 Y1:412 Y2:448
+Un jour, tout cela t'appartiendra.
+
+552
+00:47:36,027 --> 00:47:37,119  X1:271 X2:448 Y1:412 Y2:441
+Ces rideaux ?
+
+553
+00:47:37,195 --> 00:47:43,134  X1:182 X2:537 Y1:374 Y2:445
+Non ! Tout ce que tu vois :
+ces collines, ces vallées.
+
+554
+00:47:43,201 --> 00:47:44,759  X1:215 X2:503 Y1:414 Y2:448
+Ce sera ton royaume.
+
+555
+00:47:44,836 --> 00:47:46,895  X1:190 X2:527 Y1:374 Y2:448
+- Mais maman--
+- ''Papa'', je suis ton père.
+
+556
+00:47:46,972 --> 00:47:49,532  X1:182 X2:534 Y1:412 Y2:448
+Je ne veux rien de tout ça.
+
+557
+00:47:49,608 --> 00:47:53,135  X1:114 X2:602 Y1:412 Y2:448
+J'ai bâti ce royaume à partir de rien.
+
+558
+00:47:53,211 --> 00:47:56,146  X1:174 X2:544 Y1:414 Y2:448
+Ce n'était qu'un marécage.
+
+559
+00:47:56,214 --> 00:47:59,115  X1:168 X2:552 Y1:374 Y2:448
+Les autres rois me prenaient
+pour un dingue.
+
+560
+00:47:59,184 --> 00:48:02,676  X1:198 X2:519 Y1:374 Y2:448
+Mais qu'importe !
+J'y ai bâti mon château.
+
+561
+00:48:02,754 --> 00:48:06,246  X1:166 X2:550 Y1:372 Y2:448
+Les marais l'ont englouti.
+J'en ai construit un second...
+
+562
+00:48:06,324 --> 00:48:07,518  X1:198 X2:519 Y1:412 Y2:448
+qui a été aussi englouti.
+
+563
+00:48:07,592 --> 00:48:11,153  X1:190 X2:528 Y1:374 Y2:448
+Puis un troisième,
+qu'un incendie a détruit.
+
+564
+00:48:11,229 --> 00:48:14,426  X1:157 X2:563 Y1:412 Y2:448
+Mais le quatrième a tenu bon.
+
+565
+00:48:14,499 --> 00:48:16,524  X1:245 X2:475 Y1:412 Y2:441
+Et il te reviendra.
+
+566
+00:48:16,601 --> 00:48:19,297  X1:179 X2:539 Y1:412 Y2:448
+C'est le plus solide de l'îli e !
+
+567
+00:48:19,371 --> 00:48:22,670  X1:246 X2:471 Y1:374 Y2:448
+Je n'en veux pas.
+Je préfère--
+
+568
+00:48:22,741 --> 00:48:23,537  X1:315 X2:403 Y1:414 Y2:448
+Quoi ?
+
+569
+00:48:23,608 --> 00:48:27,977  X1:221 X2:496 Y1:412 Y2:448
+Je préfère... chanter.
+
+570
+00:48:29,147 --> 00:48:31,911  X1:158 X2:558 Y1:414 Y2:448
+Arrêtez-moi ça. Pas question.
+
+571
+00:48:31,983 --> 00:48:35,180  X1:198 X2:521 Y1:372 Y2:448
+Dans quelques minutes,
+tu vas épouser la fiille...
+
+572
+00:48:35,253 --> 00:48:39,280  X1:137 X2:582 Y1:372 Y2:448
+du plus gros propriétaire foncier
+d'Angleterre.
+
+573
+00:48:39,357 --> 00:48:41,348  X1:174 X2:545 Y1:414 Y2:448
+La terre ne m'intéresse pas.
+
+574
+00:48:41,426 --> 00:48:43,860  X1:248 X2:470 Y1:372 Y2:441
+- Ecoute, Alice--
+- Herbert.
+
+575
+00:48:43,929 --> 00:48:47,524  X1:168 X2:551 Y1:372 Y2:441
+Nous vivons dans un marais.
+Il nous faut de la terre.
+
+576
+00:48:47,599 --> 00:48:49,760  X1:197 X2:519 Y1:412 Y2:448
+Je n'aime pas cette fiille.
+
+577
+00:48:49,835 --> 00:48:52,998  X1:142 X2:577 Y1:412 Y2:448
+Qu'est-ce que tu lui reproches ?
+
+578
+00:48:53,071 --> 00:48:57,838  X1:231 X2:488 Y1:372 Y2:441
+Elle est belle, riche,
+elle a d'énormes...
+
+579
+00:48:57,909 --> 00:49:00,241  X1:234 X2:483 Y1:412 Y2:441
+étendues de terre.
+
+580
+00:49:00,312 --> 00:49:06,217  X1:132 X2:588 Y1:374 Y2:448
+Je sais.
+Maisj'aimerais épouser une fiille...
+
+581
+00:49:06,284 --> 00:49:10,687  X1:155 X2:564 Y1:372 Y2:448
+qui ait un petit quelque chose
+de spécial.
+
+582
+00:49:10,755 --> 00:49:12,689  X1:282 X2:436 Y1:414 Y2:448
+Coupez ça !
+
+583
+00:49:13,692 --> 00:49:16,456  X1:127 X2:590 Y1:412 Y2:448
+Tu vas épouser la Princesse Lucky.
+
+584
+00:49:16,528 --> 00:49:19,691  X1:171 X2:546 Y1:412 Y2:441
+Autant te faire à cette idée.
+
+585
+00:49:22,033 --> 00:49:24,934  X1:179 X2:543 Y1:372 Y2:441
+Le Prince ne doit pas sortir
+avant mon retour.
+
+586
+00:49:25,003 --> 00:49:27,938  X1:208 X2:510 Y1:372 Y2:441
+Il ne doit pas sortir,
+même si vous revenez.
+
+587
+00:49:28,006 --> 00:49:30,372  X1:171 X2:549 Y1:414 Y2:448
+Non. Avant queje revienne.
+
+588
+00:49:30,442 --> 00:49:33,673  X1:178 X2:541 Y1:374 Y2:448
+Avant votre retour,
+nous ne devons pas entrer.
+
+589
+00:49:33,745 --> 00:49:38,842  X1:131 X2:586 Y1:374 Y2:448
+Non. Restez ici,
+et assurez-vous qu'il ne sorte pas.
+
+590
+00:49:38,917 --> 00:49:41,249  X1:163 X2:554 Y1:372 Y2:441
+- Vous viendrez le chercher ?
+- Voilà !
+
+591
+00:49:41,319 --> 00:49:45,346  X1:139 X2:582 Y1:372 Y2:441
+Notre mission est de l'empêcher
+d'entrer ici.
+
+592
+00:49:45,423 --> 00:49:47,288  X1:230 X2:490 Y1:412 Y2:445
+Non, de sortir d'ici.
+
+593
+00:49:47,359 --> 00:49:50,192  X1:224 X2:494 Y1:372 Y2:441
+- Oui, de sortir d'ici.
+- C'est clair ?
+
+594
+00:49:50,262 --> 00:49:51,889  X1:295 X2:425 Y1:414 Y2:441
+Et si-- si--
+
+595
+00:49:52,731 --> 00:49:55,291  X1:298 X2:420 Y1:414 Y2:441
+Si nous--
+
+596
+00:49:55,367 --> 00:49:57,301  X1:245 X2:474 Y1:412 Y2:448
+C'est très simple.
+
+597
+00:49:57,369 --> 00:50:02,432  X1:186 X2:534 Y1:374 Y2:448
+Restez ici, et assurez-vous
+qu'il ne sorte pas.
+
+598
+00:50:02,507 --> 00:50:03,940  X1:287 X2:432 Y1:412 Y2:441
+D'accord ?
+
+599
+00:50:04,009 --> 00:50:07,809  X1:209 X2:513 Y1:372 Y2:441
+Est-ce qu'il peut sortir
+avec nous ?
+
+600
+00:50:07,879 --> 00:50:11,508  X1:135 X2:586 Y1:374 Y2:445
+Non.
+Il doit rester ici, et assurez-vous--
+
+601
+00:50:11,583 --> 00:50:15,849  X1:180 X2:539 Y1:372 Y2:441
+C'est clair. Il doit rester ici.
+Mais s'il doit sortir et--
+
+602
+00:50:15,921 --> 00:50:18,719  X1:122 X2:596 Y1:372 Y2:448
+- Gardez-le ici.
+-Jusqu'à ce que vous ou un autre...
+
+603
+00:50:18,790 --> 00:50:21,281  X1:190 X2:527 Y1:372 Y2:441
+- Non, personne d'autre.
+- Vous seul.
+
+604
+00:50:21,359 --> 00:50:22,883  X1:282 X2:436 Y1:374 Y2:441
+... revienne.
+- Revienne.
+
+605
+00:50:22,961 --> 00:50:25,828  X1:217 X2:499 Y1:374 Y2:448
+Nous resterons
+jusqu'à votre retour.
+
+606
+00:50:25,897 --> 00:50:27,831  X1:205 X2:514 Y1:412 Y2:448
+Qu'il ne sorte pas d'ici.
+
+607
+00:50:27,899 --> 00:50:29,594  X1:315 X2:403 Y1:414 Y2:448
+Quoi ?
+
+608
+00:50:29,668 --> 00:50:31,761  X1:205 X2:514 Y1:412 Y2:448
+Qu'il ne sorte pas d'ici.
+
+609
+00:50:31,836 --> 00:50:33,326  X1:287 X2:432 Y1:414 Y2:441
+Le Prince ?
+
+610
+00:50:33,405 --> 00:50:35,066  X1:173 X2:546 Y1:412 Y2:448
+Oui. Qu'il ne sorte pas d'ici.
+
+611
+00:50:35,140 --> 00:50:38,439  X1:132 X2:585 Y1:412 Y2:448
+Je croyais que vous parliez de lui !
+
+612
+00:50:38,510 --> 00:50:42,503  X1:201 X2:518 Y1:372 Y2:448
+Ça me semblait bizarre,
+de garder un garde.
+
+613
+00:50:42,581 --> 00:50:45,482  X1:228 X2:489 Y1:372 Y2:448
+- C'est clair ?
+- Pas de problème !
+
+614
+00:50:48,820 --> 00:50:51,448  X1:246 X2:471 Y1:372 Y2:441
+- Où allez-vous ?
+- Avec vous.
+
+615
+00:50:51,523 --> 00:50:56,051  X1:130 X2:587 Y1:374 Y2:448
+Je veux que vous restiez ici
+et que vous l'empêchiez de sortir.
+
+616
+00:50:56,127 --> 00:50:57,890  X1:308 X2:409 Y1:414 Y2:448
+Je vois !
+
+617
+00:50:59,931 --> 00:51:02,900  X1:162 X2:555 Y1:412 Y2:441
+Tais-toi et enfiile ce costume.
+
+618
+00:51:09,207 --> 00:51:11,767  X1:216 X2:504 Y1:412 Y2:441
+Pas de chansonnette.
+
+619
+00:51:11,843 --> 00:51:14,107  X1:176 X2:543 Y1:412 Y2:441
+Buvez donc un verre d'eau.
+
+620
+00:52:02,661 --> 00:52:05,255  X1:184 X2:533 Y1:372 Y2:448
+- Bravo, Concorde.
+- C'est trop gentil à vous !
+
+621
+00:52:05,330 --> 00:52:07,093  X1:308 X2:411 Y1:412 Y2:448
+Et hop !
+
+622
+00:52:07,165 --> 00:52:10,862  X1:266 X2:452 Y1:414 Y2:441
+On continue !
+
+623
+00:52:10,935 --> 00:52:13,233  X1:287 X2:430 Y1:414 Y2:441
+Attention.
+
+624
+00:52:13,304 --> 00:52:16,068  X1:238 X2:479 Y1:412 Y2:445
+Allons, Concorde.
+
+625
+00:52:16,141 --> 00:52:18,336  X1:203 X2:517 Y1:414 Y2:448
+Un message pour vous.
+
+626
+00:52:20,045 --> 00:52:22,912  X1:197 X2:523 Y1:412 Y2:448
+Dis-moi quelque chose !
+
+627
+00:52:32,424 --> 00:52:34,449  X1:114 X2:603 Y1:414 Y2:448
+A quiconque trouvera ce message--
+
+628
+00:52:34,526 --> 00:52:38,929  X1:185 X2:534 Y1:414 Y2:448
+Mon père me... séquestre.
+
+629
+00:52:38,997 --> 00:52:41,488  X1:111 X2:609 Y1:412 Y2:441
+Il veut me marier contre ma volonté.
+
+630
+00:52:41,566 --> 00:52:44,660  X1:211 X2:505 Y1:414 Y2:441
+Venez à mon secours.
+
+631
+00:52:44,736 --> 00:52:48,331  X1:168 X2:549 Y1:372 Y2:441
+Je me trouve dans le donjon
+du château des marais.
+
+632
+00:52:48,406 --> 00:52:54,402  X1:147 X2:572 Y1:372 Y2:441
+Ce cri de détresse est peut-être
+la voix du Saint Graal.
+
+633
+00:52:54,946 --> 00:52:59,212  X1:188 X2:529 Y1:372 Y2:448
+Brave Concorde,
+tu n'es pas mort en vain !
+
+634
+00:52:59,284 --> 00:53:01,275  X1:163 X2:554 Y1:414 Y2:448
+Je ne suis pas vraiment mort.
+
+635
+00:53:03,655 --> 00:53:06,283  X1:164 X2:554 Y1:374 Y2:441
+Tu n'as pas été
+mortellement blessé en vain.
+
+636
+00:53:06,357 --> 00:53:09,258  X1:177 X2:540 Y1:414 Y2:448
+Je crois queje m'en tirerai.
+
+637
+00:53:09,327 --> 00:53:10,760  X1:300 X2:416 Y1:412 Y2:445
+Ah, bon!
+
+638
+00:53:10,829 --> 00:53:12,490  X1:215 X2:502 Y1:414 Y2:448
+Je vous accompagne.
+
+639
+00:53:12,564 --> 00:53:15,294  X1:188 X2:529 Y1:372 Y2:448
+Ne bouge pas.
+Je t'enverrai du secours...
+
+640
+00:53:15,366 --> 00:53:20,497  X1:122 X2:597 Y1:372 Y2:448
+dès quej'aurai accompli
+ce fait d'armes, dans mon propre--
+
+641
+00:53:23,441 --> 00:53:25,375  X1:289 X2:429 Y1:372 Y2:446
+- Style ?
+- C'est ça !
+
+642
+00:53:25,443 --> 00:53:29,402  X1:242 X2:475 Y1:372 Y2:441
+-Je me sens bien.
+- A bientôt !
+
+643
+00:53:29,481 --> 00:53:32,917  X1:225 X2:491 Y1:412 Y2:448
+Je vous attends ici ?
+
+644
+00:55:53,725 --> 00:55:56,626  X1:229 X2:490 Y1:412 Y2:448
+Nul ne peut entrer.
+
+645
+00:55:58,429 --> 00:56:02,297  X1:187 X2:529 Y1:374 Y2:445
+Ma mie, je suis
+votre serviteur, Lancelot.
+
+646
+00:56:02,367 --> 00:56:03,561  X1:280 X2:438 Y1:412 Y2:445
+Oh, désolé !
+
+647
+00:56:03,635 --> 00:56:07,264  X1:175 X2:542 Y1:374 Y2:448
+- Tu as reçu mon message !
+-J'ai eu un message.
+
+648
+00:56:07,338 --> 00:56:10,899  X1:252 X2:465 Y1:374 Y2:441
+- Mon sauveur !
+- Eh bien.
+
+649
+00:56:10,975 --> 00:56:12,909  X1:170 X2:546 Y1:412 Y2:448
+Je savais que quelque part...
+
+650
+00:56:12,977 --> 00:56:18,279  X1:212 X2:507 Y1:412 Y2:448
+il y aurait quelqu'un...
+
+651
+00:56:18,349 --> 00:56:20,909  X1:248 X2:469 Y1:414 Y2:446
+Arrêtez-moi ça !
+
+652
+00:56:21,853 --> 00:56:23,047  X1:255 X2:463 Y1:414 Y2:448
+Qui êtes-vous ?
+
+653
+00:56:23,121 --> 00:56:24,713  X1:296 X2:421 Y1:372 Y2:441
+- Ton fiils.
+- Pas toi !
+
+654
+00:56:24,789 --> 00:56:26,188  X1:298 X2:422 Y1:412 Y2:441
+Lancelot.
+
+655
+00:56:26,257 --> 00:56:29,454  X1:218 X2:499 Y1:372 Y2:441
+- Il vient me délivrer.
+- Du calme.
+
+656
+00:56:29,527 --> 00:56:34,464  X1:169 X2:549 Y1:372 Y2:445
+- Tu as tué tous ces gardes ?
+- Euh... oui, désolé.
+
+657
+00:56:34,532 --> 00:56:37,695  X1:172 X2:545 Y1:372 Y2:441
+- Ils m'ont coûté 50£ pièce.
+- Navré.
+
+658
+00:56:37,769 --> 00:56:41,705  X1:215 X2:501 Y1:374 Y2:448
+N'ayez pas peur.
+J'ai tout ce qu'il faut.
+
+659
+00:56:41,773 --> 00:56:44,298  X1:228 X2:489 Y1:414 Y2:441
+Tu as tué 8 invités !
+
+660
+00:56:44,375 --> 00:56:46,843  X1:200 X2:518 Y1:372 Y2:441
+Je pensais que votre fiils
+était une dame.
+
+661
+00:56:46,911 --> 00:56:47,707  X1:261 X2:455 Y1:412 Y2:448
+Je comprends.
+
+662
+00:56:47,779 --> 00:56:50,043  X1:171 X2:549 Y1:412 Y2:448
+Dépêchons-nous, Lancelot !
+
+663
+00:56:50,114 --> 00:56:50,876  X1:293 X2:426 Y1:412 Y2:441
+La ferme !
+
+664
+00:56:50,949 --> 00:56:54,146  X1:147 X2:571 Y1:372 Y2:448
+- Tu as tué le père de la mariée.
+-Je ne voulais pas.
+
+665
+00:56:54,218 --> 00:56:57,119  X1:190 X2:526 Y1:374 Y2:441
+Hein ?!
+Tu lui as tranché la tête !
+
+666
+00:56:57,188 --> 00:56:58,382  X1:277 X2:442 Y1:412 Y2:441
+Il va mieux ?
+
+667
+00:56:58,456 --> 00:57:01,254  X1:157 X2:562 Y1:372 Y2:446
+Tu as renversé la mariée.
+Ça va me coûter une fortune !
+
+668
+00:57:01,326 --> 00:57:05,319  X1:216 X2:501 Y1:372 Y2:441
+Je traversais la forêt,
+venant de Camelot--
+
+669
+00:57:05,396 --> 00:57:08,092  X1:209 X2:507 Y1:412 Y2:441
+Tu viens de Camelot ?
+
+670
+00:57:08,166 --> 00:57:09,758  X1:256 X2:461 Y1:412 Y2:445
+Vite, Lancelot !
+
+671
+00:57:09,834 --> 00:57:11,096  X1:248 X2:469 Y1:412 Y2:448
+Je suis chevalier.
+
+672
+00:57:11,169 --> 00:57:16,004  X1:170 X2:548 Y1:372 Y2:448
+Ils ont un magnifiique
+élevage de cochons, là-bas !
+
+673
+00:57:16,074 --> 00:57:18,099  X1:277 X2:440 Y1:414 Y2:448
+Je suis prêt !
+
+674
+00:57:18,176 --> 00:57:21,634  X1:210 X2:508 Y1:372 Y2:441
+- Tu prends un verre ?
+- Merci...
+
+675
+00:57:21,713 --> 00:57:23,647  X1:277 X2:440 Y1:414 Y2:448
+Je suis prêt !
+
+676
+00:57:23,715 --> 00:57:26,240  X1:174 X2:544 Y1:412 Y2:448
+... de votre compréhension.
+
+677
+00:57:26,317 --> 00:57:29,286  X1:163 X2:557 Y1:372 Y2:441
+Mon style m'entraîine parfois
+à certains excès.
+
+678
+00:57:36,494 --> 00:57:39,930  X1:227 X2:490 Y1:372 Y2:448
+Je vais faire abattre
+cette paroi.
+
+679
+00:57:39,998 --> 00:57:43,263  X1:231 X2:487 Y1:372 Y2:441
+- C'est lui !
+- Nom d'un chien !
+
+680
+00:57:49,874 --> 00:57:53,310  X1:212 X2:507 Y1:412 Y2:441
+Du calme ! Du calme !
+
+681
+00:57:53,378 --> 00:57:56,643  X1:191 X2:530 Y1:372 Y2:448
+Désolé, je me suis encore
+laissé emporter.
+
+682
+00:57:56,714 --> 00:57:59,740  X1:307 X2:413 Y1:412 Y2:441
+Désolé !
+
+683
+00:57:59,817 --> 00:58:02,809  X1:163 X2:556 Y1:412 Y2:448
+Il a tué le garçon d'honneur !
+
+684
+00:58:02,887 --> 00:58:05,412  X1:182 X2:537 Y1:414 Y2:445
+Un moment, un moment !
+
+685
+00:58:05,490 --> 00:58:09,790  X1:158 X2:562 Y1:372 Y2:441
+C'est Lancelot.
+Il vient de la cour de Camelot.
+
+686
+00:58:09,861 --> 00:58:15,390  X1:169 X2:549 Y1:372 Y2:441
+Ce chevalier a le bras long.
+C'est mon invité d'honneur.
+
+687
+00:58:15,466 --> 00:58:17,457  X1:250 X2:469 Y1:412 Y2:441
+Il a tué ma tata !
+
+688
+00:58:18,369 --> 00:58:20,030  X1:261 X2:456 Y1:412 Y2:448
+S'il vous plaîit !
+
+689
+00:58:20,104 --> 00:58:23,164  X1:120 X2:600 Y1:414 Y2:448
+Nous sommes ici pour nous réjouir.
+
+690
+00:58:23,241 --> 00:58:27,769  X1:183 X2:536 Y1:372 Y2:448
+Ne nous chamaillons pas.
+Peu importe qui a tué qui.
+
+691
+00:58:27,845 --> 00:58:32,441  X1:209 X2:508 Y1:372 Y2:448
+Célébrons l'union
+de deuxjeunes êtres...
+
+692
+00:58:32,517 --> 00:58:35,042  X1:151 X2:568 Y1:412 Y2:448
+par les liens sacrés du mariage.
+
+693
+00:58:36,587 --> 00:58:37,884  X1:224 X2:495 Y1:412 Y2:441
+Malheureusement...
+
+694
+00:58:37,955 --> 00:58:42,949  X1:169 X2:549 Y1:372 Y2:441
+l'un d'eux, mon fiils Herbert,
+a fait une chute mortelle.
+
+695
+00:58:44,362 --> 00:58:46,330  X1:199 X2:521 Y1:372 Y2:448
+Mais si j'ai perdu un fiils,
+j'ai surtout...
+
+696
+00:58:46,397 --> 00:58:49,230  X1:255 X2:463 Y1:412 Y2:448
+gagné une fiille.
+
+697
+00:58:50,368 --> 00:58:51,494  X1:324 X2:395 Y1:414 Y2:441
+Car--
+
+698
+00:58:51,569 --> 00:58:53,696  X1:208 X2:509 Y1:372 Y2:448
+Avec la mort tragique
+de son père--
+
+699
+00:58:53,771 --> 00:58:55,068  X1:277 X2:443 Y1:412 Y2:441
+Il vit encore.
+
+700
+00:58:57,008 --> 00:59:00,239  X1:103 X2:616 Y1:412 Y2:448
+Son père étant mortellement blessé--
+
+701
+00:59:00,311 --> 00:59:03,178  X1:284 X2:435 Y1:412 Y2:441
+Il va mieux.
+
+702
+00:59:04,082 --> 00:59:07,381  X1:216 X2:500 Y1:414 Y2:448
+Après que son père...
+
+703
+00:59:07,452 --> 00:59:11,047  X1:179 X2:539 Y1:372 Y2:448
+alors qu'il était
+sur le point de se rétablir...
+
+704
+00:59:11,122 --> 00:59:14,888  X1:118 X2:601 Y1:412 Y2:448
+sentit l'étreinte glacée de la Mort--
+
+705
+00:59:14,959 --> 00:59:17,723  X1:287 X2:432 Y1:412 Y2:441
+Il est mort.
+
+706
+00:59:17,795 --> 00:59:20,923  X1:207 X2:510 Y1:372 Y2:441
+Je souhaite que sa fiille
+me considère...
+
+707
+00:59:20,998 --> 00:59:22,693  X1:191 X2:526 Y1:414 Y2:448
+comme son propre père.
+
+708
+00:59:22,767 --> 00:59:25,759  X1:175 X2:542 Y1:372 Y2:448
+Au sens le plus étroit
+et le plusjuridique du mot.
+
+709
+00:59:27,905 --> 00:59:30,635  X1:164 X2:553 Y1:372 Y2:441
+Je suis certain que la fusion...
+euh... l'union...
+
+710
+00:59:30,708 --> 00:59:33,700  X1:154 X2:564 Y1:412 Y2:441
+entre la Princesse et le brave...
+
+711
+00:59:33,778 --> 00:59:37,111  X1:207 X2:513 Y1:372 Y2:441
+mais redoutable
+Lancelot de Camelot--
+
+712
+00:59:37,181 --> 00:59:39,240  X1:241 X2:479 Y1:412 Y2:441
+Le Prince défunt !
+
+713
+00:59:42,653 --> 00:59:46,282  X1:164 X2:553 Y1:372 Y2:448
+- Il n'est pas tout à fait mort.
+-Je me sens mieux.
+
+714
+00:59:46,357 --> 00:59:48,917  X1:192 X2:525 Y1:412 Y2:448
+Tu es tombé du donjon !
+
+715
+00:59:48,993 --> 00:59:52,861  X1:121 X2:597 Y1:372 Y2:441
+-J'ai été sauvé au dernier moment.
+- Comment ?
+
+716
+00:59:52,930 --> 00:59:56,366  X1:258 X2:462 Y1:412 Y2:445
+Eh bien, voilà--
+
+717
+00:59:56,434 --> 00:59:58,664  X1:215 X2:505 Y1:414 Y2:446
+Pas comme ça ! Non !
+
+718
+00:59:58,736 --> 01:00:00,795  X1:299 X2:417 Y1:414 Y2:441
+Arrêtez !
+
+719
+01:00:07,044 --> 01:00:09,103  X1:279 X2:441 Y1:414 Y2:445
+Par ici, vite !
+
+720
+01:00:09,180 --> 01:00:13,276  X1:172 X2:548 Y1:372 Y2:448
+Ce n'est pas mon style.
+Mon départ doit être plus--
+
+721
+01:00:14,852 --> 01:00:15,978  X1:267 X2:452 Y1:414 Y2:448
+Dramatique ?
+
+722
+01:00:16,521 --> 01:00:17,488  X1:275 X2:444 Y1:414 Y2:441
+Exactement.
+
+723
+01:00:30,134 --> 01:00:33,331  X1:120 X2:599 Y1:412 Y2:448
+Quelqu'un pourrait-il me pousser ?
+
+724
+01:00:52,465 --> 01:00:56,299  X1:134 X2:585 Y1:412 Y2:448
+Où peut-on acheter un jardinet ?
+
+725
+01:00:56,369 --> 01:00:59,167  X1:199 X2:519 Y1:374 Y2:441
+- Qui vous envoie ?
+- Les chevaliers du ''Ni''.
+
+726
+01:00:59,239 --> 01:01:02,766  X1:189 X2:530 Y1:412 Y2:448
+Il n'y a pas dejardinet ici.
+
+727
+01:01:02,842 --> 01:01:05,606  X1:153 X2:566 Y1:372 Y2:445
+Si tu refuses de nous dire,
+mon ami et moi, nous dirons--
+
+728
+01:01:05,678 --> 01:01:09,774  X1:266 X2:455 Y1:412 Y2:441
+Nous dirons--
+
+729
+01:01:09,849 --> 01:01:12,113  X1:327 X2:391 Y1:414 Y2:441
+''Ni''.
+
+730
+01:01:13,086 --> 01:01:15,020  X1:317 X2:402 Y1:414 Y2:441
+Faites.
+
+731
+01:01:15,088 --> 01:01:18,751  X1:143 X2:576 Y1:372 Y2:448
+Puisque tu refuses
+de nous aider de ton plein gré--
+
+732
+01:01:24,497 --> 01:01:27,091  X1:143 X2:573 Y1:412 Y2:448
+Arrêtez ! Il n'y a pas dejardinet.
+
+733
+01:01:29,135 --> 01:01:31,228  X1:185 X2:532 Y1:414 Y2:448
+Tu te trompes. C'est ''Ni''.
+
+734
+01:01:34,674 --> 01:01:36,107  X1:327 X2:393 Y1:414 Y2:441
+Non.
+
+735
+01:01:36,175 --> 01:01:38,166  X1:234 X2:482 Y1:412 Y2:441
+Voilà ! Tu le tiens !
+
+736
+01:01:39,712 --> 01:01:44,445  X1:140 X2:577 Y1:372 Y2:441
+- Dites-vous ''Ni'' à cette vieille ?
+- Euh... oui.
+
+737
+01:01:44,517 --> 01:01:50,456  X1:154 X2:564 Y1:372 Y2:441
+Triste époque, où les manants
+disent ''Ni'' aux vieilles dames.
+
+738
+01:01:50,523 --> 01:01:54,050  X1:111 X2:608 Y1:372 Y2:441
+Quelque chose est pourri en ce pays.
+Plus rien n'est sacré.
+
+739
+01:01:54,127 --> 01:01:59,793  X1:123 X2:598 Y1:372 Y2:448
+Même ceux qui créent lesjardinets
+souffrent de la crise économique !
+
+740
+01:01:59,866 --> 01:02:02,733  X1:220 X2:497 Y1:412 Y2:448
+Tu as dit ''jardinet'' ?
+
+741
+01:02:02,802 --> 01:02:05,703  X1:229 X2:489 Y1:412 Y2:448
+C'est ma spécialité.
+
+742
+01:02:05,772 --> 01:02:08,002  X1:144 X2:576 Y1:412 Y2:448
+Mon nom est Roger leJardinier.
+
+743
+01:02:08,074 --> 01:02:10,599  X1:196 X2:520 Y1:412 Y2:448
+Je conçois desjardinets.
+
+744
+01:02:14,414 --> 01:02:18,441  X1:148 X2:571 Y1:372 Y2:448
+Voici votrejardinet.
+Pouvons-nous prendre congé ?
+
+745
+01:02:18,518 --> 01:02:22,181  X1:202 X2:514 Y1:372 Y2:448
+C'est un joli jardinet.
+J'aime bien les lauriers.
+
+746
+01:02:22,255 --> 01:02:24,485  X1:199 X2:520 Y1:412 Y2:448
+Mais il y a un problème.
+
+747
+01:02:25,024 --> 01:02:28,960  X1:164 X2:555 Y1:372 Y2:448
+Nous ne sommes plus
+les chevaliers qui disent ''Ni''.
+
+748
+01:02:28,995 --> 01:02:33,455  X1:149 X2:569 Y1:372 Y2:448
+Nous disons maintenant :
+''Eki eki eki tapang, zoo pang !''
+
+749
+01:02:38,071 --> 01:02:39,936  X1:197 X2:522 Y1:412 Y2:448
+Il y a une autre épreuve.
+
+750
+01:02:40,006 --> 01:02:44,272  X1:179 X2:540 Y1:372 Y2:441
+Laquelle, ô chevaliers qui...
+disaient ''Ni'' récemment ?
+
+751
+01:02:44,344 --> 01:02:45,470  X1:293 X2:426 Y1:412 Y2:441
+D'abord...
+
+752
+01:02:45,545 --> 01:02:48,605  X1:180 X2:537 Y1:412 Y2:448
+trouver un autrejardinet !
+
+753
+01:02:50,383 --> 01:02:52,874  X1:227 X2:492 Y1:412 Y2:448
+Un autrejardinet !?
+
+754
+01:02:52,952 --> 01:02:56,683  X1:227 X2:491 Y1:372 Y2:448
+Vous le mettrez
+à côté du premier...
+
+755
+01:02:56,756 --> 01:03:00,214  X1:193 X2:525 Y1:372 Y2:441
+un peu surélevé,
+avec une allée au milieu.
+
+756
+01:03:03,029 --> 01:03:05,998  X1:153 X2:565 Y1:412 Y2:448
+Quand vous aurez lejardinet...
+
+757
+01:03:06,065 --> 01:03:11,162  X1:128 X2:590 Y1:372 Y2:441
+vous couperez le plus grand arbre
+de la forêt avec...
+
+758
+01:03:12,171 --> 01:03:13,570  X1:282 X2:437 Y1:412 Y2:448
+un hareng !
+
+759
+01:03:14,974 --> 01:03:17,568  X1:194 X2:523 Y1:372 Y2:448
+- C'est hors de question.
+- S'il vous plaîit.
+
+760
+01:03:17,644 --> 01:03:21,478  X1:211 X2:508 Y1:412 Y2:448
+Ça semble impossible.
+
+761
+01:03:21,547 --> 01:03:24,311  X1:268 X2:450 Y1:374 Y2:448
+- Pas ce mot !
+- Quel mot ?
+
+762
+01:03:24,384 --> 01:03:29,515  X1:179 X2:541 Y1:372 Y2:441
+Nous ne pouvons ni le dire
+ni l'entendre.
+
+763
+01:03:29,589 --> 01:03:32,353  X1:113 X2:606 Y1:414 Y2:448
+Comment pouvions-nous savoir ça ?
+
+764
+01:03:32,425 --> 01:03:34,689  X1:285 X2:432 Y1:372 Y2:448
+- Il a redit !
+- Quoi ?
+
+765
+01:03:34,761 --> 01:03:36,194  X1:246 X2:473 Y1:414 Y2:448
+Non, pas ''quoi'' !
+
+766
+01:03:36,262 --> 01:03:38,526  X1:156 X2:560 Y1:412 Y2:448
+Tu n'irais pas loin sans ''quoi''.
+
+767
+01:03:39,532 --> 01:03:41,591  X1:271 X2:445 Y1:412 Y2:441
+Voilà Robin !
+
+768
+01:03:50,410 --> 01:03:52,503  X1:264 X2:455 Y1:412 Y2:448
+Ça fait plaisir !
+
+769
+01:03:53,112 --> 01:03:55,637  X1:201 X2:517 Y1:372 Y2:448
+Tu n'as pas abandonné
+la quête du Graal ?
+
+770
+01:03:56,916 --> 01:03:57,940  X1:293 X2:426 Y1:412 Y2:441
+La ferme !
+
+771
+01:03:58,651 --> 01:04:01,119  X1:301 X2:418 Y1:414 Y2:446
+Ça, non !
+
+772
+01:04:01,187 --> 01:04:03,519  X1:230 X2:488 Y1:414 Y2:448
+Ça me préoccupe...
+
+773
+01:04:03,589 --> 01:04:06,717  X1:201 X2:517 Y1:412 Y2:441
+même dans cette forêt.
+
+774
+01:04:06,793 --> 01:04:08,784  X1:216 X2:504 Y1:412 Y2:448
+Il est plus loin que ça.
+
+775
+01:04:08,861 --> 01:04:13,025  X1:202 X2:515 Y1:372 Y2:446
+- Ne dites plus ce mot !
+- Ça suffiit !
+
+776
+01:04:13,099 --> 01:04:18,298  X1:288 X2:431 Y1:412 Y2:441
+Il l'a redit !
+
+777
+01:04:26,546 --> 01:04:31,745  X1:097 X2:624 Y1:372 Y2:441
+Arthur, Bedevere et Robin se remirent
+à la recherche de l'enchanteur...
+
+778
+01:04:31,818 --> 01:04:35,584  X1:179 X2:549 Y1:372 Y2:441
+dont avaitparlé le vieillard
+de la scène24.
+
+779
+01:04:36,656 --> 01:04:41,525  X1:110 X2:611 Y1:372 Y2:448
+lls retrouvèrent Lancelot et Galahad,
+et tousse réjouirent.
+
+780
+01:04:53,506 --> 01:04:55,531  X1:145 X2:575 Y1:412 Y2:448
+Dansle désertglacéde Nador...
+
+781
+01:04:55,608 --> 01:04:58,133  X1:197 X2:524 Y1:372 Y2:441
+ils durent manger
+lesménestrels de Robin.
+
+782
+01:04:59,178 --> 01:05:01,510  X1:219 X2:501 Y1:414 Y2:448
+Et tousse réjouirent.
+
+783
+01:05:03,082 --> 01:05:05,016  X1:258 X2:464 Y1:412 Y2:441
+Un an s'écoula.
+
+784
+01:05:08,454 --> 01:05:11,355  X1:151 X2:570 Y1:412 Y2:448
+Leprintempssuccéda à l'hiver.
+
+785
+01:05:11,424 --> 01:05:13,984  X1:228 X2:492 Y1:414 Y2:448
+L 'étéauprintemps.
+
+786
+01:05:14,060 --> 01:05:16,620  X1:153 X2:567 Y1:412 Y2:445
+Puis, ce fut de nouveau l'hiver.
+
+787
+01:05:16,696 --> 01:05:20,325  X1:142 X2:579 Y1:372 Y2:448
+C'est là que l'automne décida
+de doublerleprintemps et l'été.
+
+788
+01:05:22,869 --> 01:05:24,302  X1:281 X2:442 Y1:414 Y2:448
+Et unjour--
+
+789
+01:05:46,259 --> 01:05:50,218  X1:298 X2:422 Y1:414 Y2:441
+En avant.
+
+790
+01:06:27,300 --> 01:06:30,599  X1:101 X2:617 Y1:412 Y2:448
+Qui es-tu, toi qui commandes au feu ?
+
+791
+01:06:30,670 --> 01:06:34,367  X1:209 X2:508 Y1:412 Y2:448
+Je suis un enchanteur.
+
+792
+01:06:36,843 --> 01:06:38,777  X1:230 X2:488 Y1:412 Y2:448
+Quel est ton nom ?
+
+793
+01:06:38,845 --> 01:06:42,372  X1:206 X2:512 Y1:412 Y2:448
+Certains m'appellent...
+
+794
+01:06:42,448 --> 01:06:43,881  X1:328 X2:389 Y1:414 Y2:441
+Tim.
+
+795
+01:06:43,950 --> 01:06:48,046  X1:151 X2:566 Y1:372 Y2:445
+- Salut à toi, Tim l'Enchanteur.
+- Salut à toi, Arthur.
+
+796
+01:06:49,121 --> 01:06:51,055  X1:203 X2:513 Y1:414 Y2:441
+Tu connais mon nom ?
+
+797
+01:06:58,898 --> 01:07:01,526  X1:177 X2:539 Y1:412 Y2:441
+Tu cherches le Saint Graal.
+
+798
+01:07:01,601 --> 01:07:04,968  X1:169 X2:547 Y1:374 Y2:441
+C'est vrai.
+Tu connais bien des secrets.
+
+799
+01:07:05,037 --> 01:07:06,436  X1:320 X2:400 Y1:414 Y2:441
+Exact.
+
+800
+01:07:14,747 --> 01:07:19,650  X1:111 X2:608 Y1:372 Y2:448
+Donc, nous cherchons le Saint Graal.
+C'est notre quête.
+
+801
+01:07:24,590 --> 01:07:26,888  X1:227 X2:489 Y1:372 Y2:441
+Alors... comme ça...
+nous le cherchons.
+
+802
+01:07:28,694 --> 01:07:30,389  X1:182 X2:537 Y1:412 Y2:446
+Ça fait même un moment.
+
+803
+01:07:33,499 --> 01:07:37,094  X1:170 X2:548 Y1:412 Y2:448
+Si vous pouviez nous aider...
+
+804
+01:07:37,169 --> 01:07:40,969  X1:237 X2:481 Y1:412 Y2:446
+ça nous rendrait...
+
+805
+01:07:41,040 --> 01:07:43,600  X1:276 X2:443 Y1:412 Y2:441
+bien service.
+
+806
+01:07:49,649 --> 01:07:52,550  X1:233 X2:484 Y1:372 Y2:448
+Bien. Sans vouloir
+vous importuner...
+
+807
+01:07:52,618 --> 01:07:56,850  X1:198 X2:522 Y1:372 Y2:441
+pourriez-vous nous dire
+où trouver--
+
+808
+01:07:56,923 --> 01:07:59,585  X1:250 X2:469 Y1:414 Y2:441
+Où trouver un--
+
+809
+01:07:59,659 --> 01:08:01,183  X1:295 X2:425 Y1:414 Y2:448
+Un quoi ?
+
+810
+01:08:03,596 --> 01:08:06,531  X1:229 X2:488 Y1:372 Y2:448
+- Un Graal ?
+- Oui, par exemple.
+
+811
+01:08:12,605 --> 01:08:15,096  X1:245 X2:474 Y1:412 Y2:448
+Merci beaucoup.
+
+812
+01:08:19,612 --> 01:08:22,843  X1:174 X2:543 Y1:412 Y2:448
+Vous avez l'air très occupé.
+
+813
+01:08:22,915 --> 01:08:27,113  X1:109 X2:608 Y1:412 Y2:448
+Je peux vous aider à trouver le Graal.
+
+814
+01:08:27,186 --> 01:08:32,556  X1:178 X2:540 Y1:372 Y2:448
+Vous trouverez au nord
+la caverne de Caerbannog.
+
+815
+01:08:32,625 --> 01:08:37,324  X1:174 X2:543 Y1:372 Y2:448
+Sur la paroi, à même le roc,
+sont gravées en runes...
+
+816
+01:08:37,396 --> 01:08:41,025  X1:167 X2:550 Y1:372 Y2:448
+les dernières paroles
+d'Olfiin Bedwere de Rheged.
+
+817
+01:08:43,302 --> 01:08:48,001  X1:181 X2:540 Y1:372 Y2:441
+Elles indiquent la cachette
+du très Saint Graal.
+
+818
+01:08:48,074 --> 01:08:50,372  X1:208 X2:510 Y1:414 Y2:441
+Où est cette caverne ?
+
+819
+01:08:50,443 --> 01:08:52,707  X1:313 X2:404 Y1:414 Y2:441
+Venez.
+
+820
+01:08:52,778 --> 01:08:57,340  X1:156 X2:563 Y1:412 Y2:441
+Mais serez-vous assez braves ?
+
+821
+01:08:57,416 --> 01:09:01,750  X1:159 X2:559 Y1:372 Y2:448
+L'entrée de la caverne
+est gardée par une créature...
+
+822
+01:09:01,821 --> 01:09:05,018  X1:172 X2:546 Y1:412 Y2:448
+si impitoyable et si cruelle...
+
+823
+01:09:05,091 --> 01:09:08,492  X1:192 X2:526 Y1:372 Y2:441
+qu'aucun homme
+n'a survécu à sa férocité.
+
+824
+01:09:09,462 --> 01:09:15,264  X1:130 X2:586 Y1:372 Y2:448
+Les ossements de 50 victimes
+jonchent les abords de sa tanière.
+
+825
+01:09:15,334 --> 01:09:21,330  X1:126 X2:591 Y1:412 Y2:441
+Si vous doutez de votre vaillance...
+
+826
+01:09:21,407 --> 01:09:23,068  X1:201 X2:518 Y1:412 Y2:448
+n'avancez pas plus loin.
+
+827
+01:09:23,142 --> 01:09:29,047  X1:142 X2:576 Y1:372 Y2:448
+Car la mort vous attend
+avec ses vilaines dents pointues.
+
+828
+01:09:31,017 --> 01:09:33,713  X1:207 X2:512 Y1:412 Y2:448
+Quel curieux numéro !
+
+829
+01:09:46,298 --> 01:09:47,890  X1:207 X2:512 Y1:412 Y2:441
+Les chevaux s'affolent.
+
+830
+01:09:47,967 --> 01:09:50,299  X1:215 X2:502 Y1:372 Y2:448
+Laissons-les,
+et continuons à pied.
+
+831
+01:10:05,317 --> 01:10:10,084  X1:138 X2:578 Y1:412 Y2:448
+Voici la caverne de Caerbannog.
+
+832
+01:10:11,557 --> 01:10:13,616  X1:268 X2:450 Y1:414 Y2:441
+Couvrez-moi.
+
+833
+01:10:13,692 --> 01:10:16,490  X1:185 X2:532 Y1:374 Y2:445
+- Avec quoi ?
+- Couvrez-moi, c'est tout.
+
+834
+01:10:19,331 --> 01:10:21,265  X1:301 X2:418 Y1:412 Y2:441
+Le voilà !
+
+835
+01:10:26,272 --> 01:10:27,830  X1:240 X2:480 Y1:412 Y2:448
+Derrière le lapin ?
+
+836
+01:10:27,907 --> 01:10:29,841  X1:269 X2:449 Y1:412 Y2:448
+C'est le lapin.
+
+837
+01:10:31,811 --> 01:10:35,713  X1:218 X2:498 Y1:372 Y2:441
+Sacré farceur !
+Tu nous as bien eus !
+
+838
+01:10:35,781 --> 01:10:37,806  X1:150 X2:569 Y1:412 Y2:448
+Ce n'est pas un lapin ordinaire.
+
+839
+01:10:37,883 --> 01:10:42,843  X1:148 X2:571 Y1:372 Y2:448
+C'est la créature
+la plus cruelle queje connaisse.
+
+840
+01:10:42,922 --> 01:10:46,653  X1:165 X2:552 Y1:372 Y2:448
+Imbécile !
+J'en ai mouillé mon armure !
+
+841
+01:10:46,725 --> 01:10:51,219  X1:137 X2:583 Y1:372 Y2:441
+Il est capable d'atteindre sa cible
+à des lieues à la ronde.
+
+842
+01:10:51,297 --> 01:10:52,286  X1:289 X2:430 Y1:414 Y2:441
+Foutaises !
+
+843
+01:10:52,364 --> 01:10:57,495  X1:127 X2:592 Y1:372 Y2:448
+Il ne fera qu'une bouchée de vous,
+je vous préviens !
+
+844
+01:10:57,570 --> 01:10:58,832  X1:154 X2:566 Y1:412 Y2:448
+En nous grignotant les fesses ?
+
+845
+01:10:58,904 --> 01:11:04,035  X1:203 X2:514 Y1:372 Y2:441
+Ses dents sont acérées.
+Il bondit--
+
+846
+01:11:04,110 --> 01:11:07,637  X1:144 X2:573 Y1:372 Y2:448
+- Regardez tous ces ossements !
+- Va lui couper la tête.
+
+847
+01:11:07,713 --> 01:11:12,309  X1:223 X2:497 Y1:412 Y2:448
+Et un civet de lapin !
+
+848
+01:11:18,090 --> 01:11:19,648  X1:285 X2:435 Y1:414 Y2:441
+Mon Dieu !
+
+849
+01:11:19,725 --> 01:11:22,387  X1:225 X2:491 Y1:414 Y2:448
+Je vous ai prévenus.
+
+850
+01:11:22,461 --> 01:11:26,921  X1:161 X2:555 Y1:374 Y2:448
+Vous ne m'avez pas écouté.
+Vous en saviez plus que moi !
+
+851
+01:11:26,999 --> 01:11:29,763  X1:195 X2:525 Y1:412 Y2:448
+Un petit lapin inoffensif.
+
+852
+01:11:29,835 --> 01:11:32,668  X1:156 X2:563 Y1:412 Y2:448
+C'est toujours la même chose.
+
+853
+01:11:32,738 --> 01:11:34,569  X1:293 X2:426 Y1:412 Y2:441
+La ferme !
+
+854
+01:11:34,640 --> 01:11:36,870  X1:205 X2:513 Y1:412 Y2:448
+J'ai beau les prévenir--
+
+855
+01:11:54,193 --> 01:11:56,286  X1:305 X2:415 Y1:414 Y2:448
+Fuyons !
+
+856
+01:12:05,704 --> 01:12:07,763  X1:264 X2:454 Y1:414 Y2:448
+Qui manque ?
+
+857
+01:12:07,840 --> 01:12:09,239  X1:294 X2:424 Y1:374 Y2:441
+- Gawain.
+- Ector.
+
+858
+01:12:09,308 --> 01:12:11,469  X1:236 X2:482 Y1:372 Y2:441
+- Et Bors, ça fait 5.
+- Trois !
+
+859
+01:12:11,544 --> 01:12:12,704  X1:315 X2:403 Y1:414 Y2:445
+Oui, 3.
+
+860
+01:12:12,778 --> 01:12:16,475  X1:164 X2:555 Y1:372 Y2:448
+Ne l'attaquons plus de front.
+C'est de la dynamite.
+
+861
+01:12:16,549 --> 01:12:19,143  X1:243 X2:476 Y1:372 Y2:448
+Fuyons plus loin
+pour le tromper !
+
+862
+01:12:19,218 --> 01:12:21,516  X1:195 X2:523 Y1:374 Y2:448
+Tais-toi,
+et va changer d'armure.
+
+863
+01:12:21,587 --> 01:12:25,546  X1:094 X2:624 Y1:372 Y2:446
+Insultons-le.
+Ça l'énervera, il commettra une erreur.
+
+864
+01:12:25,624 --> 01:12:27,353  X1:208 X2:511 Y1:412 Y2:448
+Comme par exemple ?
+
+865
+01:12:32,331 --> 01:12:34,265  X1:200 X2:517 Y1:372 Y2:441
+- Avons-nous des arcs ?
+- Non.
+
+866
+01:12:34,333 --> 01:12:38,531  X1:137 X2:581 Y1:372 Y2:441
+- Nous avons la Sainte Grenade.
+- La Sainte Grenade d'Antioche !
+
+867
+01:12:38,604 --> 01:12:42,267  X1:185 X2:535 Y1:372 Y2:448
+L'une des reliques sacrées
+du frère Maynard.
+
+868
+01:12:42,341 --> 01:12:45,401  X1:127 X2:590 Y1:412 Y2:448
+Apportez-nous la Sainte Grenade.
+
+869
+01:13:16,442 --> 01:13:20,276  X1:185 X2:532 Y1:372 Y2:448
+- Comment... ça marche ?
+-Je l'ignore.
+
+870
+01:13:20,346 --> 01:13:22,280  X1:227 X2:493 Y1:412 Y2:441
+Manuel des Armes !
+
+871
+01:13:22,348 --> 01:13:26,808  X1:154 X2:566 Y1:372 Y2:441
+Manuel des Armes, chapitre 2,
+versets 9 à 2 1 ...
+
+872
+01:13:29,355 --> 01:13:33,917  X1:211 X2:509 Y1:372 Y2:441
+Et Saint Attila brandit
+la Grenade et dit :
+
+873
+01:13:33,993 --> 01:13:37,087  X1:200 X2:519 Y1:374 Y2:441
+Seigneur,
+bénie soit Ta Grenade...
+
+874
+01:13:37,162 --> 01:13:42,498  X1:126 X2:593 Y1:372 Y2:441
+qui mettra tes ennemis en charpie
+et à ma merci.
+
+875
+01:13:42,568 --> 01:13:44,502  X1:173 X2:547 Y1:412 Y2:448
+Et le Seigneur eut un rictus.
+
+876
+01:13:44,570 --> 01:13:47,835  X1:167 X2:552 Y1:372 Y2:448
+Et ils décidèrent de festoyer.
+Ils mangèrent des agneaux...
+
+877
+01:13:47,906 --> 01:13:51,273  X1:195 X2:523 Y1:372 Y2:448
+de la carpe, des anchois,
+des orangs-outangs...
+
+878
+01:13:51,343 --> 01:13:53,538  X1:191 X2:527 Y1:412 Y2:441
+des flocons de céréales--
+
+879
+01:13:53,612 --> 01:13:56,240  X1:297 X2:419 Y1:412 Y2:448
+Abrégez.
+
+880
+01:13:56,315 --> 01:13:58,909  X1:186 X2:533 Y1:412 Y2:448
+Et ainsi parla le Seigneur :
+
+881
+01:13:58,984 --> 01:14:02,545  X1:149 X2:570 Y1:412 Y2:448
+Ote d'abord la Sainte Goupille.
+
+882
+01:14:02,621 --> 01:14:05,181  X1:204 X2:516 Y1:414 Y2:448
+Puis, comptejusqu'à 3.
+
+883
+01:14:05,257 --> 01:14:07,987  X1:248 X2:472 Y1:412 Y2:448
+Ni plus ni moins.
+
+884
+01:14:08,060 --> 01:14:10,585  X1:179 X2:540 Y1:412 Y2:448
+3 sera le nombre compté...
+
+885
+01:14:10,663 --> 01:14:13,359  X1:181 X2:537 Y1:414 Y2:448
+etjusqu'à 3 tu compteras.
+
+886
+01:14:14,366 --> 01:14:16,357  X1:140 X2:576 Y1:414 Y2:448
+Tu ne compteras pasjusqu'à 4...
+
+887
+01:14:16,435 --> 01:14:21,429  X1:171 X2:547 Y1:374 Y2:448
+ni jusqu'à 2, si ce n'est
+pour parvenir au nombre 3.
+
+888
+01:14:22,508 --> 01:14:24,533  X1:130 X2:590 Y1:412 Y2:448
+Le nombre 5 est hors de question.
+
+889
+01:14:25,944 --> 01:14:29,778  X1:171 X2:546 Y1:372 Y2:448
+Arrivé au nombre 3,
+qui est le troisième chiffre...
+
+890
+01:14:29,848 --> 01:14:33,181  X1:150 X2:568 Y1:372 Y2:448
+tu lanceras
+la Sainte grenade d'Antioche...
+
+891
+01:14:33,252 --> 01:14:35,277  X1:235 X2:481 Y1:414 Y2:441
+vers tes ennemis...
+
+892
+01:14:35,354 --> 01:14:38,983  X1:150 X2:568 Y1:372 Y2:448
+qui, ayant offensé mon regard,
+trépasseront.
+
+893
+01:14:44,229 --> 01:14:46,493  X1:255 X2:464 Y1:412 Y2:448
+Un, deux, cinq !
+
+894
+01:14:46,565 --> 01:14:49,363  X1:279 X2:439 Y1:374 Y2:441
+- Trois, Sire.
+- Trois.
+
+895
+01:15:36,815 --> 01:15:39,079  X1:198 X2:519 Y1:372 Y2:448
+- Qu'y a-t-il d'écrit ?
+- Quelle langue est-ce ?
+
+896
+01:15:39,151 --> 01:15:41,142  X1:249 X2:471 Y1:412 Y2:448
+Frère Maynard ?
+
+897
+01:15:41,220 --> 01:15:42,744  X1:229 X2:489 Y1:412 Y2:441
+C'est de l'araméen.
+
+898
+01:15:43,589 --> 01:15:46,615  X1:219 X2:498 Y1:374 Y2:448
+Bien sûr !
+Joseph d'Arimathie !
+
+899
+01:15:46,692 --> 01:15:48,683  X1:211 X2:507 Y1:412 Y2:448
+Qu'est-ce que ça dit ?
+
+900
+01:15:48,761 --> 01:15:53,926  X1:170 X2:546 Y1:372 Y2:448
+Ça dit :
+Voici les dernières paroles...
+
+901
+01:15:53,999 --> 01:15:56,559  X1:200 X2:517 Y1:412 Y2:448
+dejoseph d'Arimathie :
+
+902
+01:15:56,635 --> 01:15:59,934  X1:211 X2:509 Y1:372 Y2:448
+Qui a le coeur vaillant
+et l'esprit pur...
+
+903
+01:16:00,005 --> 01:16:03,133  X1:194 X2:523 Y1:412 Y2:441
+trouvera le Saint Graal...
+
+904
+01:16:03,208 --> 01:16:07,804  X1:221 X2:496 Y1:372 Y2:448
+dans le château de...
+Aaarrgh.
+
+905
+01:16:09,481 --> 01:16:11,346  X1:300 X2:419 Y1:412 Y2:441
+Pardon ?
+
+906
+01:16:11,417 --> 01:16:14,818  X1:191 X2:528 Y1:412 Y2:448
+Le château de... Aaarrgh.
+
+907
+01:16:15,721 --> 01:16:19,919  X1:183 X2:535 Y1:372 Y2:448
+- Quel château ?
+- Il est mort en le gravant.
+
+908
+01:16:19,992 --> 01:16:22,790  X1:272 X2:446 Y1:372 Y2:441
+- Balivernes !
+- C'est écrit.
+
+909
+01:16:22,861 --> 01:16:27,730  X1:123 X2:595 Y1:372 Y2:448
+S'il était mort, il n'aurait pas gravé
+''Aaarrgh'', il l'aurait dit.
+
+910
+01:16:27,800 --> 01:16:30,234  X1:280 X2:438 Y1:414 Y2:448
+C'est gravé.
+
+911
+01:16:30,302 --> 01:16:32,770  X1:198 X2:520 Y1:372 Y2:441
+- Peut-être qu'il dictait.
+- La ferme !
+
+912
+01:16:32,838 --> 01:16:33,862  X1:226 X2:493 Y1:412 Y2:446
+Ça dit autre chose ?
+
+913
+01:16:33,939 --> 01:16:37,807  X1:214 X2:505 Y1:412 Y2:448
+Non.Juste ''Aaarrgh''.
+
+914
+01:16:42,848 --> 01:16:46,443  X1:163 X2:556 Y1:412 Y2:448
+C'est peut-être la Camargue.
+
+915
+01:16:46,518 --> 01:16:48,577  X1:273 X2:445 Y1:374 Y2:441
+- Où est-ce ?
+- En France.
+
+916
+01:16:48,654 --> 01:16:51,782  X1:210 X2:510 Y1:372 Y2:441
+Il y a un Saint Aaarrgh
+en Cornouailles.
+
+917
+01:16:51,857 --> 01:16:53,882  X1:246 X2:473 Y1:414 Y2:441
+C'est Saint Yves !
+
+918
+01:16:58,030 --> 01:17:00,260  X1:165 X2:554 Y1:412 Y2:448
+Non. Aaarrgh, avec la gorge.
+
+919
+01:17:00,332 --> 01:17:05,793  X1:163 X2:555 Y1:372 Y2:448
+-Je manifestais mon émoi.
+- Tu voulais dire : ''Aaarrgh !''
+
+920
+01:17:12,311 --> 01:17:17,010  X1:173 X2:547 Y1:372 Y2:448
+C'est le monstre légendaire
+de... Aaarrgh !
+
+921
+01:17:19,084 --> 01:17:21,109  X1:305 X2:415 Y1:414 Y2:448
+Fuyons !
+
+922
+01:17:39,571 --> 01:17:43,063  X1:174 X2:546 Y1:412 Y2:441
+Le monstre fondaitsureux.
+
+923
+01:17:43,141 --> 01:17:45,905  X1:240 X2:481 Y1:412 Y2:448
+lls étaientperdus.
+
+924
+01:17:45,978 --> 01:17:47,343  X1:248 X2:475 Y1:412 Y2:448
+Quandsoudain...
+
+925
+01:17:47,412 --> 01:17:50,404  X1:199 X2:523 Y1:372 Y2:448
+le dessinateur
+eut une crise cardiaque.
+
+926
+01:17:50,482 --> 01:17:53,280  X1:236 X2:489 Y1:372 Y2:441
+Lepérilgraphique
+était écarté.
+
+927
+01:17:53,352 --> 01:17:56,788  X1:201 X2:527 Y1:372 Y2:448
+La quête du Saint Graal
+pouvait continuer.
+
+928
+01:18:08,400 --> 01:18:12,097  X1:230 X2:490 Y1:372 Y2:441
+Le voilà !
+Le Pont de la Mort.
+
+929
+01:18:15,340 --> 01:18:18,138  X1:145 X2:573 Y1:412 Y2:441
+C'est le vieillard de la scène 24 !
+
+930
+01:18:19,444 --> 01:18:22,072  X1:178 X2:541 Y1:412 Y2:448
+Il garde le Pont de la Mort.
+
+931
+01:18:22,147 --> 01:18:26,777  X1:111 X2:606 Y1:372 Y2:448
+- Il pose au voyageur cinq questions.
+- Trois questions.
+
+932
+01:18:26,852 --> 01:18:30,185  X1:095 X2:623 Y1:372 Y2:448
+- Celui qui répond aux cinq questions...
+- Aux trois questions.
+
+933
+01:18:31,323 --> 01:18:32,790  X1:248 X2:470 Y1:416 Y2:448
+...peut traverser.
+
+934
+01:18:32,858 --> 01:18:36,021  X1:230 X2:488 Y1:372 Y2:448
+- Et s'il se trompe ?
+- Il est précipité...
+
+935
+01:18:36,094 --> 01:18:38,324  X1:152 X2:565 Y1:412 Y2:448
+dans la Gorge du Péril Eternel.
+
+936
+01:18:40,198 --> 01:18:42,689  X1:294 X2:424 Y1:414 Y2:448
+Qui y va ?
+
+937
+01:18:42,768 --> 01:18:45,430  X1:149 X2:568 Y1:412 Y2:445
+Vaillant Robin, à toi l'honneur.
+
+938
+01:18:45,504 --> 01:18:49,702  X1:167 X2:551 Y1:372 Y2:448
+J'ai une super idée !
+Si Lancelot y allait d'abord ?
+
+939
+01:18:49,775 --> 01:18:53,711  X1:158 X2:558 Y1:372 Y2:448
+D'accord.
+Je n'en ferai qu'une bouchée.
+
+940
+01:18:53,779 --> 01:18:56,247  X1:235 X2:484 Y1:414 Y2:445
+Non, un moment !
+
+941
+01:18:56,315 --> 01:19:01,014  X1:133 X2:584 Y1:372 Y2:448
+Réponds simplement aux cinq...
+aux trois questions de ton mieux.
+
+942
+01:19:01,086 --> 01:19:03,316  X1:201 X2:518 Y1:414 Y2:448
+Nous prierons pour toi.
+
+943
+01:19:03,388 --> 01:19:05,083  X1:266 X2:452 Y1:414 Y2:448
+Compris, Sire.
+
+944
+01:19:05,157 --> 01:19:08,991  X1:194 X2:526 Y1:372 Y2:448
+Bonne chance, Lancelot.
+Dieu te garde !
+
+945
+01:19:15,968 --> 01:19:20,496  X1:137 X2:580 Y1:374 Y2:448
+Qui veut traverser ce pont
+doit répondre à trois questions...
+
+946
+01:19:20,572 --> 01:19:23,234  X1:183 X2:534 Y1:412 Y2:441
+avant de voir l'autre côté.
+
+947
+01:19:23,308 --> 01:19:26,038  X1:232 X2:487 Y1:374 Y2:448
+Pose tes questions.
+Je suis sans peur.
+
+948
+01:19:26,111 --> 01:19:28,477  X1:230 X2:488 Y1:412 Y2:448
+Quel est ton nom ?
+
+949
+01:19:30,816 --> 01:19:35,185  X1:209 X2:508 Y1:372 Y2:441
+- Quelle est ta quête ?
+- Celle du Saint Graal.
+
+950
+01:19:35,253 --> 01:19:39,053  X1:135 X2:582 Y1:372 Y2:441
+- Quelle est ta couleur préférée ?
+- Le bleu.
+
+951
+01:19:39,124 --> 01:19:40,751  X1:292 X2:427 Y1:412 Y2:441
+C'est bon.
+
+952
+01:19:42,094 --> 01:19:44,562  X1:222 X2:497 Y1:412 Y2:448
+Merci, trop aimable.
+
+953
+01:19:48,066 --> 01:19:49,897  X1:278 X2:440 Y1:412 Y2:441
+C'est facile !
+
+954
+01:19:54,473 --> 01:19:56,805  X1:170 X2:549 Y1:414 Y2:448
+Qui veut traverser ce pont...
+
+955
+01:19:56,875 --> 01:20:01,778  X1:148 X2:571 Y1:372 Y2:441
+doit répondre à trois questions
+avant de voir l'autre côté.
+
+956
+01:20:02,614 --> 01:20:05,412  X1:232 X2:487 Y1:374 Y2:448
+Pose tes questions.
+Je n'ai pas peur.
+
+957
+01:20:05,484 --> 01:20:08,851  X1:230 X2:488 Y1:412 Y2:448
+Quel est ton nom ?
+
+958
+01:20:08,920 --> 01:20:12,583  X1:209 X2:508 Y1:372 Y2:441
+- Quelle est ta quête ?
+- Celle du Saint Graal.
+
+959
+01:20:12,658 --> 01:20:15,252  X1:218 X2:502 Y1:372 Y2:448
+Quelle est la capitale
+de l'Assyrie ?
+
+960
+01:20:17,963 --> 01:20:20,022  X1:246 X2:471 Y1:414 Y2:448
+Je n'en sais rien !
+
+961
+01:20:29,708 --> 01:20:33,269  X1:230 X2:488 Y1:412 Y2:448
+Quel est ton nom ?
+
+962
+01:20:33,345 --> 01:20:37,372  X1:209 X2:508 Y1:372 Y2:441
+- Quelle est ta quête ?
+- Celle du Saint Graal.
+
+963
+01:20:37,449 --> 01:20:40,543  X1:146 X2:573 Y1:412 Y2:448
+Quelle est ta couleur préférée ?
+
+964
+01:20:40,619 --> 01:20:42,951  X1:225 X2:495 Y1:412 Y2:445
+Le bleu... non, euh--
+
+965
+01:20:50,495 --> 01:20:55,831  X1:193 X2:525 Y1:372 Y2:448
+- Quel est ton nom ?
+- Arthur, roi des Anglais.
+
+966
+01:20:55,901 --> 01:21:00,133  X1:209 X2:508 Y1:372 Y2:441
+- Quelle est ta quête ?
+- Celle du Saint Graal.
+
+967
+01:21:00,205 --> 01:21:04,335  X1:206 X2:512 Y1:372 Y2:441
+A quelle vitesse vole
+une hirondelle à vide ?
+
+968
+01:21:04,409 --> 01:21:07,640  X1:091 X2:628 Y1:412 Y2:448
+Une hirondelle d'Afrique ou d'Europe ?
+
+969
+01:21:08,747 --> 01:21:10,681  X1:267 X2:449 Y1:414 Y2:448
+Je ne sais pas.
+
+970
+01:21:16,655 --> 01:21:19,146  X1:153 X2:564 Y1:374 Y2:441
+D'où vous vient
+cette science des hirondelles ?
+
+971
+01:21:19,224 --> 01:21:22,022  X1:106 X2:613 Y1:412 Y2:448
+Un roi doit savoir ce genre de choses.
+
+972
+01:24:09,928 --> 01:24:11,953  X1:205 X2:515 Y1:412 Y2:448
+Le château d'Aaarrgh !
+
+973
+01:24:12,030 --> 01:24:14,521  X1:154 X2:566 Y1:412 Y2:448
+Notre quête touche à son but.
+
+974
+01:24:33,051 --> 01:24:35,144  X1:259 X2:461 Y1:412 Y2:441
+Dieu soit loué !
+
+975
+01:24:37,923 --> 01:24:40,551  X1:193 X2:524 Y1:414 Y2:448
+Seigneur tout puissant...
+
+976
+01:24:40,625 --> 01:24:44,686  X1:167 X2:552 Y1:372 Y2:448
+merci de nous avoir accordé
+la plus sainte--
+
+977
+01:24:50,402 --> 01:24:51,994  X1:241 X2:475 Y1:412 Y2:445
+Alors, les rosbifs !
+
+978
+01:24:52,070 --> 01:24:54,231  X1:202 X2:515 Y1:372 Y2:441
+C'est M. Arthur
+et sa cervelle d'oiseau !
+
+979
+01:24:54,306 --> 01:24:57,366  X1:121 X2:598 Y1:412 Y2:441
+Nous vous avons encore devancés !
+
+980
+01:24:57,442 --> 01:25:00,969  X1:144 X2:574 Y1:372 Y2:448
+Vous osez profaner
+cet endroit par votre présence !
+
+981
+01:25:01,046 --> 01:25:06,382  X1:110 X2:606 Y1:372 Y2:448
+Au nom des chevaliers de Camelot,
+je vous ordonne d'ouvrir les portes...
+
+982
+01:25:06,451 --> 01:25:08,715  X1:198 X2:519 Y1:412 Y2:441
+de ce sanctuaire sacré...
+
+983
+01:25:08,787 --> 01:25:11,688  X1:121 X2:597 Y1:412 Y2:441
+où Dieu lui-même nous a conduits.
+
+984
+01:25:11,756 --> 01:25:14,782  X1:182 X2:537 Y1:372 Y2:448
+Comme disent les Anglais,
+''Je me mouche sur vous...
+
+985
+01:25:14,859 --> 01:25:18,818  X1:220 X2:498 Y1:412 Y2:441
+fiils de rien du tout !''
+
+986
+01:25:18,897 --> 01:25:21,559  X1:169 X2:548 Y1:374 Y2:448
+Vous pensiez que vous étiez
+plus malins que nous...
+
+987
+01:25:21,633 --> 01:25:25,000  X1:133 X2:584 Y1:412 Y2:441
+avec votre démarche de canard ?
+
+988
+01:25:25,070 --> 01:25:28,096  X1:209 X2:509 Y1:372 Y2:448
+Je pisse à la raie
+de vos grands-tantes !
+
+989
+01:25:28,173 --> 01:25:32,906  X1:211 X2:509 Y1:412 Y2:441
+Bande de bons à rien !
+
+990
+01:25:32,978 --> 01:25:38,507  X1:143 X2:575 Y1:372 Y2:441
+Au nom de Dieu, nous exigeons
+l'accès à ce sanctuaire.
+
+991
+01:25:38,583 --> 01:25:41,211  X1:126 X2:593 Y1:412 Y2:448
+Pas question, mouilleurs d'alaises !
+
+992
+01:25:41,286 --> 01:25:43,311  X1:178 X2:539 Y1:372 Y2:448
+Je vous crève mes pustules
+à la gueule.
+
+993
+01:25:43,388 --> 01:25:46,152  X1:181 X2:538 Y1:412 Y2:448
+C'est une requête stupide.
+
+994
+01:25:46,224 --> 01:25:49,716  X1:191 X2:529 Y1:412 Y2:448
+Peigne-cul sans cervelle !
+
+995
+01:25:49,794 --> 01:25:54,254  X1:175 X2:545 Y1:372 Y2:448
+Ouvrez, ou nous prendrons
+ce château par la force.
+
+996
+01:25:55,300 --> 01:25:58,360  X1:243 X2:474 Y1:372 Y2:448
+Au nom de Dieu,
+par la gloire de--
+
+997
+01:26:00,138 --> 01:26:02,732  X1:264 X2:454 Y1:414 Y2:448
+C'en est trop !
+
+998
+01:26:02,807 --> 01:26:05,935  X1:167 X2:551 Y1:372 Y2:448
+Fichez le camp
+une bonne fois pour toutes !
+
+999
+01:26:06,011 --> 01:26:10,778  X1:138 X2:581 Y1:372 Y2:448
+Ou nous ferons des castagnettes
+avec vos roubignoles !
+
+1000
+01:26:10,882 --> 01:26:12,782  X1:172 X2:548 Y1:412 Y2:448
+Eloignons-nous dignement.
+
+1001
+01:26:12,851 --> 01:26:16,651  X1:226 X2:493 Y1:412 Y2:448
+Et n'y revenez plus !
+
+1002
+01:26:16,721 --> 01:26:20,179  X1:108 X2:610 Y1:412 Y2:448
+Car si vous pensez avoir été insultés...
+
+1003
+01:26:20,258 --> 01:26:22,590  X1:129 X2:588 Y1:412 Y2:441
+vous n'avez encore rien entendu !
+
+1004
+01:26:22,660 --> 01:26:25,151  X1:241 X2:479 Y1:412 Y2:441
+Bande de rosbifs !
+
+1005
+01:26:46,584 --> 01:26:49,747  X1:180 X2:537 Y1:372 Y2:445
+- Attaquons-les sans délai.
+- Bien, Sire.
+
+1006
+01:26:49,821 --> 01:26:52,016  X1:276 X2:443 Y1:414 Y2:448
+En position !
+
+1007
+01:27:50,949 --> 01:27:53,008  X1:297 X2:423 Y1:414 Y2:446
+Français !
+
+1008
+01:27:53,785 --> 01:27:58,154  X1:176 X2:544 Y1:372 Y2:448
+La mort de maints vaillants
+chevaliers va être vengée.
+
+1009
+01:27:58,223 --> 01:27:59,690  X1:230 X2:489 Y1:414 Y2:441
+Dieu m'est témoin.
+
+1010
+01:27:59,757 --> 01:28:04,387  X1:127 X2:590 Y1:372 Y2:448
+Nous ne cesserons pas le combat
+avant que vous soyez tous morts...
+
+1011
+01:28:04,462 --> 01:28:10,332  X1:135 X2:583 Y1:372 Y2:448
+et que le Graal soit en possession
+de ceux que Dieu a choisis.
+
+1012
+01:28:40,298 --> 01:28:42,289  X1:268 X2:450 Y1:412 Y2:441
+C'est bien lui.
+
+1013
+01:28:42,367 --> 01:28:45,097  X1:229 X2:488 Y1:412 Y2:448
+Je vous embarque !
+
+1014
+01:28:53,278 --> 01:28:55,769  X1:242 X2:474 Y1:372 Y2:448
+Allons, en route !
+Embarquez-le.
+
+1015
+01:28:57,982 --> 01:29:00,610  X1:258 X2:459 Y1:412 Y2:445
+Allez, circulez !
+
+1016
+01:29:08,126 --> 01:29:10,526  X1:213 X2:506 Y1:372 Y2:441
+Ça suffiit, maintenant.
+Remballe.
+

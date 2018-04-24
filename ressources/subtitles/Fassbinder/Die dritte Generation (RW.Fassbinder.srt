@@ -1,0 +1,1144 @@
+{187}{280}LA TROISIEME GENERATION
+{500}{565}Une comédie en six parties|sur des jeux de société
+{575}{665}pleins de suspense et de logique,|d'horreur et de folie,
+{675}{740}comme les contes|qu'on raconte aux enfants
+{750}{840}pour les aider à supporter|leur vie jusqu'à la mort
+{4652}{4717}Dédié à un vrai amant,
+{4727}{4792}comme à aucun probablement ?
+{4820}{4860}Puis:
+{4867}{5010}"Je ne peux que remercier les juristes|allemands dans cette affaire
+{5017}{5135}(il s'agit du raid antiterroriste|de Mogadiscio,
+{5142}{5260}et peut-être d'autre chose|au-delà de Mogadiscio ?)
+{5267}{5385}"De ne pas avoir instruit|selon le droit constitutionnel."
+{5420}{5532}Helmut Schmidt|cinquième chancelier de la RFA
+{5782}{5825}Tu tires toujours la plus courte.
+{5832}{5890}(Graffiti dans une pissotière,|Kurfürstendamm, Berlin-Ouest)
+{6055}{6092}Je m'inquiétais.
+{6120}{6180}Une heure de retard au décollage,
+{6185}{6237}ils se foutent du monde.
+{6257}{6300}Ça a marché au moins ?
+{6335}{6372}M.Curtiz a téléphoné.
+{6380}{6447}Rappelez-le à Houston, Texas.
+{6452}{6510}Appelez-le-moi.
+{6777}{6842}Vous avez noté|ce que j'avais souligné ?
+{6947}{7005}Question rhétorique.
+{7017}{7065}J'ai de la chance avec vous.
+{7210}{7277}Ne me remerciez pas toujours.
+{7440}{7482}Il est triste ce film.
+{7527}{7607}Tant que les films sont tristes|la vie reste gaie.
+{7737}{7792}Non, pour moi. Une seconde.
+{7800}{7870}Vite, nous attendons un appel|des Etats-Unis.
+{7977}{8017}"Le monde comme volonté|et représentation."
+{8142}{8200}"Le monde comme volonté|et représentation."
+{8392}{8437}Ça ne te dit rien ?
+{8797}{8900}Non, les réactions de Bonn|sont plutôt négatives.
+{8907}{8982}L'informatique est très attaquée|en ce moment.
+{8990}{9050}Une campagne médiatique.
+{9102}{9200}Bonn refuse les nouveaux|contrats d'ordinateurs.
+{9205}{9245}Et puis les derniers temps
+{9252}{9332}il n'y a pas eu la moindre|action terroriste.
+{9372}{9425}Donc pas d'argument de vente !
+{9432}{9530}La situation est moins propice|que ces dernières années.
+{9785}{9835}Une chose est certaine.
+{9840}{9947}On ne peut pas vendre|un seul ordinateur pour l'instant.
+{10020}{10057}Mais ça va changer,
+{10072}{10112}croyez-moi.
+{10127}{10177}Faites-moi confiance.
+{10385}{10420}J'ai terminé.
+{10522}{10565}Ici Susanne.|Je n'ai pas le temps.
+{10572}{10630}"Le monde comme volonté|et représentation."
+{10675}{10742}Ça ne te dit rien grand-père ?
+{10755}{10795}C'est de Schopenhauer.
+{10885}{10937}C'est de la philosophie.
+{10945}{10987}De mon temps
+{10992}{11050}on lisait des choses|plus positives.
+{11057}{11122}Hegel, Kant ou Nietzsche.
+{11130}{11182}Qu'est-ce qu'il y a|de négatif là-dedans ?
+{11187}{11240}C'est très simple.
+{11247}{11287}Ce Schopenhauer dit
+{11305}{11370}que l'existence d'un homme
+{11382}{11475}ne compte pas plus|que celle d'une pierre,
+{11492}{11517}et c'est idiot.
+{11547}{11625}Ça n'a aucun sens.|"Pas plus qu'une pierre" !
+{11747}{11840}C'est pour les gens|qui ne font rien de leur vie.
+{11855}{11905}Il leur faudrait|une nouvelle guerre,
+{11910}{12000}et ils verraient bien que leur vie|vaut plus que celle d'une pierre.
+{12352}{12432}Quelles sont les causes|de la révolution de 1848 ?
+{12437}{12520}La revendication libérale,|à la française,
+{12525}{12582}d'une constitution écrite,|des libertés.
+{12652}{12752}La tendance commune|à l'unité nationale.
+{12765}{12785}Arrête de chanter !
+{12830}{12947}Les hommes ne voient|plus de sens à leur vie.
+{12967}{13037}Il devrait y avoir une guerre|dans chaque vie.
+{13062}{13127}Sinon les valeurs humaines réelles|foutent le camp.
+{13197}{13257}Les hommes ne connaissent|plus l'émotion
+{13262}{13325}de l'entre-deux-guerres|et de la guerre
+{13330}{13387}et il leur vient des idées idiotes,
+{13392}{13445}idiotes et lâches.
+{13452}{13525}Quelle est la signification|de l'Assemblée nationale
+{13530}{13580}réunie à Francfort
+{13585}{13647}en mai 1848
+{13652}{13727}pour la suite de la révolution ?
+{13732}{13835}Elle a été inefficace. Ce "parlement|des professeurs" était monarchiste.
+{13937}{14000}La bourgeoisie détenait|le pouvoir politique.
+{14005}{14100}Elle voulait le garder avec les régnants|contre la poussée radicale du bas.
+{14110}{14187}D'abord ils veulent la révolution,
+{14192}{14282}puis ils ont peur, leurs valeurs|bourgeoises sont menacées.
+{14295}{14360}Quelles sont|les valeurs bourgeoises ?
+{14365}{14405}Maintien de l'état des choses,|ordre,
+{14410}{14475}respect des autorités,|sécurité et travail.
+{14485}{14570}Cette attitude n'a-t-elle pas mené|tout droit au IIIe Reich ?
+{14577}{14655}Le IIIe Reich n'est pas notre sujet.
+{14660}{14750}Parce que cette société|continue jusqu'à nos jours ?
+{14757}{14847}N'importe-t-il pas de conserver|à tout prix ces valeurs bourgeoises
+{14852}{14915}qui ont mené au régime fasciste ?
+{14932}{14990}Ce n'est pas la question ici.
+{14995}{15055}On ne peut pas|généraliser comme ça.
+{15060}{15135}C'est votre avis personnel,|oui ou non ?
+{15145}{15180}Je suis ici
+{15185}{15265}pour vous présenter|des données historiques,
+{15272}{15362}mon opinion personnelle|n'a rien à y voir.
+{15562}{15587}Pourquoi tu viens ici ?
+{15592}{15647}"Le monde comme volonté|et représentation."
+{15652}{15682}Tout est réuni.
+{15687}{15722}Pour Rudolf, en mains propres.
+{15732}{15765}Tu ne viens pas ?
+{15790}{15835}Hans veut son dîner.
+{16560}{16592}Tous les papiers y sont.
+{16855}{16895}August les prendra chez toi.
+{16985}{17000}Alors ?
+{17007}{17037}Quoi "alors" ?
+{17115}{17190}Vous jouez quel rôle|aujourd'hui M.Mann ?
+{17270}{17305}Voleur ou gendarme ?
+{19432}{19515}Tout va bien. "Le monde|comme volonté et représentation."
+{19520}{19577}Les papiers sont au complet.
+{19687}{19715}J'ai vu l'été dernier
+{19720}{19760}un film russe,
+{19777}{19865}avec une image exactement|comme la vue d'ici.
+{19965}{20055}C'est le nom du film, Solaris.
+{20062}{20105}Possible. J'ai oublié le titre.
+{20142}{20210}Je ne me souviens|que de cette image.
+{20245}{20290}A part ça c'était assez confus.
+{20342}{20425}Solaris est un des meilleurs|films que j'aie vus.
+{20432}{20467}Vraiment, pourquoi ?
+{20485}{20567}Le cinéma c'est le mensonge|25 fois par seconde.
+{20582}{20665}Et comme tout est mensonge|c'est aussi la vérité.
+{20672}{20750}Le fait que la vérité|soit mensonge
+{20770}{20872}c'est ce qui fait|la valeur d'un film.
+{20877}{20920}Au cinéma
+{20925}{21010}le mensonge est masqué|et présenté comme vérité.
+{21017}{21135}Et pour moi|c'est l'utopie minimale et unique.
+{21280}{21340}Ça ne vous ressemble pas ces idées.
+{21380}{21440}Qu'est-ce qui ressemble à qui ?
+{21455}{21527}Qu'est-ce qui vous ressemble|quand vous vous regardez ?
+{21570}{21650}Quand un policier se regarde|dans la glace, qu'est-ce qu'il voit ?
+{21662}{21690}Pas grand-chose !
+{21697}{21735}Il vient quand ce Paul ?
+{21742}{21840}Ces jours-ci, mais on ne sait jamais|avec ceux qui sortent de formation.
+{21867}{21915}Tu en as fait aussi ?
+{21927}{21987}Une fois, avant d'être|sur la liste des recherchés.
+{21992}{22030}Il y a assez longtemps.
+{22067}{22127}Il faut que j'écoute|les disques les plus demandés.
+{22132}{22210}Tu dois éliminer la fille.|Elle nous met tous en danger.
+{22262}{22325}La police surveille|en permanence les toxicomanes.
+{22332}{22392}Elle n'a que moi au monde.
+{22422}{22492}Il faut qu'elle parte.|C'est un danger pour tous.
+{22500}{22550}Au contraire, qui irait soupçonner
+{22557}{22622}d'autre chose une maison|où elle se trouve ?
+{22627}{22672}Ce n'est pas un argument.
+{22697}{22755}Nous sommes obligés de l'éliminer.
+{22760}{22822}Elle partira peut-être d'elle-même.
+{22832}{22865}J'espère que tu as raison.
+{22902}{22935}A bientôt.
+{23132}{23167}Content de vos gardes du corps ?
+{23172}{23215}Je ne peux pas me plaindre.
+{23220}{23295}J'ai même joué aux échecs|avec l'un d'eux.
+{23300}{23387}Mais toute la vie se transforme
+{23422}{23480}quand on est suivi à chaque pas.
+{23492}{23550}Vous bénéficiez
+{23572}{23622}d'une protection policière.
+{23650}{23705}On peut l'appeler comme ça,
+{23712}{23750}l'effet est le même.
+{23762}{23847}Cette protection a été commandée|par le patronat.
+{23852}{23925}Plaignez-vous à vos collègues.|Pas à moi.
+{24032}{24100}Vous n'avez|pas beaucoup d'humour, hein ?
+{24115}{24140}Pas le moindre.
+{24147}{24205}J'ai fait un rêve récemment...
+{24237}{24302}Le capital avait|inventé le terrorisme
+{24307}{24402}pour contraindre l'Etat à mieux|le protéger. Très drôle, non ?
+{24540}{24565}J'arrive.
+{24685}{24737}Quelle femme merveilleuse.
+{24742}{24830}Oui, très belle. Vous l'aimez ?
+{24852}{24897}Bien sûr.
+{24910}{24932}Et vous ?
+{24960}{25012}C'est ma belle-fille.
+{25037}{25077}Allons-y Susanne.
+{27372}{27397}Pas ici non plus.
+{27412}{27470}Tu emportes toujours|tes papiers à la banque,
+{27487}{27535}pourquoi pas aujourd'hui ?
+{27555}{27587}Je n'en sais rien.
+{27617}{27665}Je m'en suis aperçu tout de suite.
+{27707}{27747}Réfléchis encore chérie.
+{27770}{27810}Ça ne te revient pas ?
+{27830}{27895}On dirait que tu me soupçonnes.
+{28002}{28065}Tu parles comme|dans un interrogatoire policier.
+{28080}{28170}Qu'est-ce que tu sais|des interrogatoires policiers ?
+{28177}{28200}Ne me touche pas !
+{28227}{28265}D'abord tu me soupçonnes et puis...
+{28272}{28317}Je ne te soupçonne pas.
+{28470}{28492}Lâche-moi !
+{28667}{28702}Je ne te comprends pas.
+{28742}{28780}Ça fait déjà quelque temps
+{28812}{28855}que tu ne veux plus.
+{28892}{28922}Autrefois ça te plaisait.
+{28947}{28982}Qu'en sais-tu donc...
+{29025}{29062}Tu ne sais rien.
+{29107}{29147}Tu t'es tout imaginé.
+{29227}{29270}Arrêtons de nous disputer.
+{29357}{29417}Le dîner est prêt ?
+{29437}{29490}Tu veux toujours quelque chose.
+{29517}{29562}Et ne me touche pas.
+{29700}{29740}Si je te comprenais...
+{29750}{29785}Dis-le,
+{29790}{29875}tu ne m'excites que parce que|tu es mariée à mon fils.
+{29897}{29980}Et dis que tu me hais,|et toi-même aussi.
+{30042}{30122}Je ne t'excite que parce que|je suis mariée à ton fils.
+{30142}{30170}Et je te hais.
+{30232}{30285}Mais ça n'a pas|tellement d'importance.
+{30322}{30350}L'important
+{30367}{30405}c'est que je me hais moi-même.
+{30430}{30465}Ce n'est même pas de la haine.
+{30492}{30527}Je me méprise.
+{30565}{30630}Du mépris !|De mieux en mieux.
+{30637}{30685}C'est vraiment comique.
+{30770}{30802}Il n'y a pas de quoi rire.
+{30905}{30940}Je me méprise vraiment.
+{30965}{31020}Et ça fait très mal.
+{31025}{31065}A crever de rire.
+{31072}{31132}Tu es d'une grandeur archaïque.
+{31187}{31240}La grande forme !
+{31287}{31330}L'antiquité classique !
+{31452}{31485}Et toi, tu es un porc.
+{31502}{31580}Je suis un porc et tu ne coucheras|plus jamais avec moi.
+{31645}{31680}C'était la dernière fois.
+{32515}{32610}Tu es habillée|pour une tempête de neige en Russie.
+{32617}{32652}Défais les boutons.
+{32697}{32735}Fais quelque chose pour une fois.
+{33147}{33220}On finit par avoir besoin|de ce qu'on trouvait dégueulasse.
+{34617}{34660}J'ai ramené Susanne.
+{34787}{34805}Il a été gentil ?
+{34812}{34870}Comme toujours.|Au lit maintenant.
+{35012}{35057}Viens dîner chérie.
+{35355}{35410}Vous arrivez tous à l'heure.
+{35417}{35462}Le petit est couché ?
+{35525}{35550}Tu m'appelles ?
+{35557}{35590}C'est servi.
+{35707}{35735}Tu as fait la cuisine ?
+{35742}{35767}Non, c'est grand-père.
+{35797}{35865}J'espère que ça te plaira|quand même.
+{35877}{35935}Pourquoi pas|quand tu fais la cuisine ?
+{36325}{36360}Tu as bien composé aujourd'hui ?
+{36430}{36467}Tu as encore traqué des hommes ?
+{36472}{36520}Tu en as peut-être|abattu un dans le dos ?
+{36550}{36630}Edgar ! Non.|Mange !
+{36637}{36702}Ai grande queue. Fais tout. Pas s/m.
+{36707}{36740}Tél. 8221705. C'est pressé.
+{36745}{36785}Suis très insatiable.
+{36790}{36882}(Inscription, toilettes publiques|du Volkspark, Berlin-Ouest)
+{36887}{36935}Le monde comme volonté|et représentation.
+{37207}{37255}Il y a erreur sur la personne.
+{37272}{37317}Vous attendiez Adelheid.
+{37330}{37365}Mais Adelheid est morte.
+{37435}{37480}Les autres membres du groupe|sont morts
+{37507}{37565}ou en prison.|Je m'appelle August.
+{37617}{37677}Je suis entré dans le groupe|après votre départ.
+{37682}{37770}J'essaie de reconstituer|une cellule.
+{37782}{37817}Je peux goûter l'Irish coffee ?
+{37860}{37897}J'espère avoir votre appui.
+{37970}{38010}Et ce séjour en Afrique ?
+{38042}{38082}Réussi en tout cas.
+{38107}{38165}Je peux viser et atteindre|n'importe quel point.
+{38192}{38267}Nous avons besoin|d'un tireur d'élite.
+{38275}{38312}Et à la frontière ?
+{38317}{38352}J'ai eu un peu peur au début.
+{38367}{38435}Ils ont tellement fouiné|dans mes papiers...
+{38470}{38510}Mais vous voyez, je suis ici.
+{38542}{38577}J'ai les nouveaux papiers.
+{38592}{38645}Le monde comme volonté|et représentation."
+{38662}{38732}Si vous voulez...|je peux vous tutoyer...
+{38740}{38792}tu peux venir rencontrer les autres.
+{38802}{38840}Pourquoi pas ?
+{38867}{38945}Franchement|je trouve ça pénible
+{38965}{39025}d'être obligée de regarder|cet être lamentable.
+{39035}{39065}Ne regarde pas.
+{39072}{39100}Je la vois bien assez.
+{39107}{39160}Et toujours les piqûres !
+{39175}{39215}Depuis mon enfance,
+{39220}{39280}j'ai une répugnance physique|pour les piqûres.
+{39320}{39365}On a ça sous le nez !
+{39432}{39472}Et je trouve ça indécent.
+{39655}{39695}Viens voir Hilde.
+{39785}{39852}Ne fais pas ça devant tout le monde.
+{39867}{39915}Rudolf a un besoin incompréhensible
+{39922}{39990}et peut-être dangereux|de faire le bien.
+{40015}{40072}Presque comme|les saints catholiques.
+{40087}{40120}Rudolf est catholique ?
+{40127}{40182}Je ne vois pas d'autre explication.
+{40205}{40265}Regarde cette chambre !
+{40282}{40315}Ce désordre !
+{40335}{40360}Qu'un être humain
+{40365}{40445}puisse à ce point perdre|le contrôle de soi-même...
+{40542}{40590}Rien ne me plairait plus
+{40595}{40687}qu'un stage d'entraînement|à la guérilla, pas toi ?
+{40717}{40785}Ça doit être|plutôt dur et rigoureux.
+{40797}{40892}En même temps c'est vraiment
+{40897}{40975}une des dernières grandes aventures|de l'humanité.
+{41037}{41127}Moi cet entraînement draconien|m'effraie un peu.
+{41172}{41207}A mon avis
+{41212}{41325}la grandeur ne peut naître|que de la discipline et de l'ordre.
+{41332}{41377}C'est devenu lugubre.
+{41382}{41430}J'ai toujours appris|que je devais travailler,
+{41435}{41480}alors au début, avec Edgar,|j'ai bien aimé
+{41485}{41552}ne rien devoir faire, mais après...
+{41587}{41630}Mon éducation a repris le dessus.
+{41637}{41720}Il faut aller voir|la nouvelle pièce à la Schaubühne.
+{41725}{41797}"Grand et petit",|la dernière de Botho Strauss.
+{41837}{41950}Tu n'imagines pas|comme il décrit les femmes.
+{42120}{42190}Un nouveau chemisier.|Qu'il est chic !
+{42292}{42355}Le plus simple|c'est toujours le plus cher.
+{42362}{42407}Pas du tout, il n'a rien coûté.
+{42412}{42455}Vous ne me croirez pas...
+{42482}{42530}12 marks 50.
+{42747}{42812}C'est génial ma chérie !
+{42842}{42877}Voilà le mystérieux Paul.
+{43120}{43150}Vous buvez quelque chose ?
+{43172}{43202}C'est lui ?
+{43267}{43300}Vous n'imaginez pas
+{43330}{43390}avec quelle impatience|nous vous attendions.
+{44067}{44105}J'oubliais.
+{44120}{44205}Il faut le loger. Ici c'est trop|dangereux avec la droguée.
+{44215}{44257}Le mieux serait chez toi Hilde.
+{44262}{44330}Pour quelques jours.|C'est le moins risqué.
+{44512}{44545}Voilà mon Reich.
+{44562}{44597}Un peuple, un Führer ?
+{44607}{44642}Mais sans Führer
+{44647}{44707}ni aujourd'hui, ni demain,
+{44730}{44777}ni jamais.
+{44800}{44845}Pourquoi ? Vous êtes lesbienne ?
+{44865}{44900}Cette question est...
+{44952}{44980}primitive.
+{44992}{45047}Non, je ne suis pas lesbienne.|Je fais le lit.
+{45267}{45322}Encore ce truc avec les boules.
+{45337}{45380}Bien sûr, nous l'avons tous.
+{45390}{45440}C'est une sorte de code.
+{45465}{45507}Le magnétoscope aussi.
+{46332}{46367}Il est grand votre Reich.
+{46460}{46490}Vous avez faim ?
+{46600}{46635}Je mange peu.
+{46807}{46847}Votre lit va être prêt.
+{46945}{46992}Pour le lit...
+{47030}{47057}Je ne voudrais pas
+{47065}{47102}coucher sur le divan.
+{47115}{47160}Vous pouvez coucher ici.
+{47237}{47270}Je coucherai sur le divan.
+{47292}{47330}Je n'ai pas dit ça.
+{47347}{47395}Je veux coucher ici avec vous.
+{47502}{47572}J'ai l'habitude de décider|avec qui je couche.
+{47597}{47625}Et moi alors ?
+{47650}{47720}Je décide aussi.|Tu préfères te branler ?
+{47780}{47825}L'Afrique ça m'a suffi pour ça.
+{47852}{47920}Et puis c'est plus pratique.
+{47972}{48020}Pour vous c'est plus simple ou...
+{48027}{48055}pratique.
+{48062}{48087}Pour moi...
+{48112}{48150}ça veut dire...
+{48175}{48215}que ce n'est pas moi qui ai décidé.
+{48257}{48300}Arrête ton baratin petit-bourgeois !
+{48410}{48460}J'obtiens toujours ce que je veux.
+{48512}{48550}Oui, crie !
+{48580}{48610}Au secours !
+{48690}{48777}Dans un instant|ça va te plaire !
+{49187}{49230}Pas de suspense.
+{49235}{49295}Bon, je prends le risque. J'achète.
+{49330}{49390}L'avenue Henri-Martin|pour 8000 à August.
+{49395}{49432}Ça va se décider.
+{49457}{49507}J'espère.|Je vais devoir partir.
+{49727}{49750}Tu attends quelqu'un ?
+{49802}{49847}Deux messieurs pour Mlle Hoffmann.
+{49875}{49932}Voilà les emmerdes.|Je t'avais prévenu.
+{49937}{49972}- La police ?|- Quoi d'autre ?
+{49980}{50040}Ce ne sont pas des policiers.
+{50045}{50072}Il y a un Noir
+{50092}{50157}et un autre avec des yeux innocents.
+{50200}{50257}On n'a pas le choix|si c'est les flics.
+{50292}{50310}Fais-les entrer.
+{50485}{50510}Vous êtes M.Mann ?
+{50542}{50587}Je m'appelle Franz Walsch.
+{50592}{50637}Et c'est mon copain Bernhard.
+{50645}{50715}Il est noble,|il s'appelle von Stein.
+{51180}{51222}Ce qu'on vient faire ici !
+{51250}{51267}C'est une longue...
+{51272}{51305}Une très longue histoire.
+{51325}{51352}On pourrait simplifier.
+{51357}{51395}Nous sortons de l'armée.
+{51400}{51435}Précisément de la marine.
+{51475}{51500}Votre adresse,
+{51510}{51547}on l'a eue par le père d'Ilse.
+{51555}{51602}Sa femme est morte.
+{51617}{51675}Le cancer, non ?
+{51717}{51775}Et Ilse, comment dire,
+{51795}{51855}c'est un peu ma fiancée.
+{51870}{51930}Elle me trottait dans la tête
+{51952}{51985}et nous voilà.
+{52000}{52060}On était venus voir...|Vous comprenez ?
+{52085}{52115}Plus ou moins.
+{52140}{52190}Ici on cause comme ça,|ailleurs autrement.
+{52275}{52307}Elle est là ?
+{52357}{52415}Oui, mais je crois qu'elle dort.
+{52420}{52475}Ça ne fait rien. Croyez-moi.
+{52482}{52537}Elle était toujours|contente de me voir.
+{52597}{52642}Entrez, si vous voulez.
+{52677}{52710}Un grand appartement.
+{52725}{52765}On ne trouve ça qu'à Berlin.
+{52842}{52867}Et Ilse...
+{52915}{52987}Non, il n'y a rien|entre Ilse et moi.
+{52992}{53080}J'ai un grand appartement|et elle est si seule.
+{53090}{53115}Voilà tout.
+{53120}{53160}Je te l'avais bien dit !
+{53165}{53227}Qu'est-ce que tu vas penser !
+{53250}{53275}J'ai rien dit.
+{53280}{53335}Mais tu l'as pensé.
+{53485}{53535}Regarde, elle dort.
+{53612}{53657}C'est moi, ton petit ours.
+{53662}{53715}Elle m'appelait toujours comme ça.
+{53737}{53765}Tu ne m'entends pas ?
+{53772}{53810}Qu'est-ce qui se passe ?
+{53820}{53855}Elle, quand elle dort...
+{53982}{54025}Franz,|comment tu es arrivé jusqu'ici ?
+{54030}{54077}Dans la voiture|du père de Bernhard.
+{54125}{54170}On a été libérés en même temps.
+{54215}{54272}Ça va. C'est un vieil ami.
+{54380}{54427}Des amis à elle.
+{54432}{54467}Fais rentrer les deux.
+{54720}{54795}Revenez. Ce sont des amis d'Ilse,|pas la police.
+{54852}{54890}Un coup de bol.
+{54952}{55047}Mais ça suffit. Je le répète,|elle est un danger, qu'elle se barre !
+{55152}{55222}Ils ont été démobilisés,|ils ne savent pas où aller.
+{55232}{55310}Je pensais qu'il y a de la place...|pour quelques jours.
+{55352}{55425}D'accord, pour quelques jours.
+{55452}{55502}Pour vous|j'ai une chambre derrière.
+{55507}{55547}Vous serez plus près d'elle.
+{55572}{55620}Et pour vous
+{55630}{55705}c'est un cagibi.|Mais pour peu de temps...
+{55872}{55932}Je renvoie le chauffeur à Francfort.
+{56142}{56207}Tu n'en peux plus de faire le bien ?
+{56215}{56255}Tu veux être canonisé ?
+{56267}{56345}Pour quelques jours|ça ne dérange personne.
+{56395}{56440}On reprend le jeu.
+{56757}{56802}Voyons ce que trimbalent|les soldats.
+{56807}{56852}Laisse tomber.
+{56865}{56927}Je veux savoir|ce qu'il a dans sa valise.
+{56957}{56987}Des livres !
+{57037}{57090}Il lit Bakounine|notre petit soldat !
+{57120}{57185}En soulignant des passages|comme ma grand-mère.
+{57190}{57240}"L'homme peut devenir|son propre éducateur,
+{57245}{57302}"son propre professeur,|son propre créateur."
+{57307}{57335}Mon livre !
+{57340}{57385}Remettez-le dans ma valise.
+{57390}{57415}Si je ne veux pas ?
+{57567}{57597}"Mais il n'acquiert ainsi
+{57602}{57652}"qu'une indépendance relative,
+{57722}{57757}"...qui ne le délivrent pas
+{57762}{57800}"des liens qui déterminent son sort."
+{58402}{58430}C'est mon ami
+{58457}{58510}et je n'aime pas|que vous l'emmerdiez.
+{58525}{58545}On s'est bien compris ?
+{58552}{58575}C'était pour rire.
+{58607}{58657}D'ailleurs je dois m'en aller.
+{58970}{59002}Bien sûr, on arrive.
+{59017}{59047}Je me dépêche.
+{59060}{59085}Petra a des ennuis avec son mari.
+{59092}{59160}Elle est devant chez nous|désespérée. Viens Paul.
+{59167}{59200}En quoi ça nous regarde ?
+{59215}{59262}On lui doit bien ça.
+{59342}{59385}J'arrive, partez en avant.
+{59397}{59437}Je vous montre votre chambre.
+{59627}{59692}Je ne sais pas. Ilse...
+{59727}{59765}Quelque chose ne va pas.
+{59800}{59835}Elle prend un truc ?
+{59840}{59895}Tu ne sais pas|à quel point il m'a battue.
+{59935}{60010}Mais si ma petite. Je sais.
+{60045}{60070}Fais voir.
+{60082}{60127}Ça fait surtout mal ici.
+{60187}{60252}On ne voit vraiment rien.
+{60325}{60355}Ces douleurs !
+{60440}{60497}Tu entends|comme son mari l'a battue ?
+{60502}{60545}Difficile de ne pas entendre.
+{60677}{60707}Fais quelque chose !
+{60732}{60775}Laisse-moi voir le film.
+{60795}{60825}Après je regarderai.
+{60985}{61020}Pourquoi méprisez-vous les femmes ?
+{61040}{61105}Je les méprise ni plus ni moins|que nécessaire.
+{61150}{61180}Vous êtes cynique !
+{61190}{61270}Et vous parlez plus vite|que vous ne pouvez penser.
+{61345}{61377}Vous êtes comme les autres.
+{61387}{61435}Bien sûr.|Un homme est un homme.
+{61630}{61657}Quoi encore ?
+{61665}{61732}Il a voulu m'assommer.|A cause de ses papiers.
+{61805}{61832}Regarde.
+{61840}{61885}Où ? Je ne vois rien.
+{61990}{62037}Il m'a frappée|comme une chatte endormie.
+{62047}{62070}Pourquoi une chatte ?
+{62075}{62155}Parce que je le dis !|Et celui-là ne vaut guère mieux !
+{62162}{62217}Parce que je veux voir le film.
+{62567}{62595}Cette fois c'est fini.
+{62602}{62657}Je ne rentrerai jamais.|Plus jamais !
+{62720}{62785}Là, tu vois comme il m'a battue.
+{62822}{62870}Je ne vois rien Petra.
+{62875}{62925}Je m'en fous. Terminé !
+{62970}{63005}Je ne retournerai jamais avec lui.
+{63097}{63157}Mieux vaut|ne pas nous faire remarquer.
+{63185}{63227}Paul a raison.
+{63270}{63300}Votons !
+{63330}{63392}Qui est pour que Petra|rentre chez son mari ?
+{63420}{63450}La majorité.
+{63492}{63565}Une dame vous demande.|Elle dit que vous l'attendez.
+{63600}{63630}C'est absurde.
+{63635}{63702}Je n'ai aucun rendez-vous.
+{63710}{63752}Ne laissez pas entrer n'importe qui.
+{63760}{63815}On ne peut même pas|jouer aux échecs.
+{63850}{63865}Vous !
+{63965}{64037}Susanne, voudriez-vous|nous laisser un instant ?
+{64047}{64082}Vous aussi.
+{64217}{64287}Vous débloquez complètement ?
+{64315}{64392}Vous ne deviez jamais|venir à mon bureau.
+{64402}{64455}Personne ne peut me reconnaître.
+{64492}{64540}Vous ne vous rendez pas compte !
+{64547}{64607}Vous pouvez tout faire échouer !
+{64612}{64705}Avec cette mascarade ridicule,|cette manie du travestissement !
+{64717}{64767}La seule chose dangereuse|c'est vos cris.
+{64817}{64882}Alors pourquoi tout ce cirque ?
+{64942}{64965}Je m'exerce.
+{64972}{65002}Et j'ai besoin d'argent.
+{65010}{65075}Il vous en faut toujours.
+{65082}{65150}Je veux des résultats,|et vite, très vite ! Pigé ?
+{65170}{65200}Je fais mon possible.
+{65220}{65245}Vraiment.
+{65252}{65320}J'ai un problème|avec le bureau de l'état civil.
+{65327}{65392}Les passeports traînent.|C'est pour ça l'argent.
+{65420}{65457}Bon, vous en aurez.
+{65660}{65685}Pour le moment M.Walsch,
+{65692}{65725}je n'ai rien à vous proposer
+{65730}{65787}pour votre qualification d'OP.
+{65812}{65870}Tout ce qui serait possible
+{65875}{65922}ce serait une place de manœuvre.
+{65927}{65960}Ça ne vous tente pas
+{65965}{66002}et je vous comprends.
+{66022}{66115}Il faudrait parler de reconversion.
+{66185}{66220}Signez ça.
+{66475}{66517}Autre chose M.Walsch ?
+{66600}{66655}Je croyais avoir|un droit au travail.
+{66660}{66705}Mais vous l'avez.
+{66710}{66762}Pour l'instant|je ne peux rien pour vous.
+{66767}{66832}Mais croyez-moi,|nous ferons tout notre possible.
+{66837}{66875}Il faut nous adapter|au marché du travail.
+{66882}{66927}Vous devez partir maintenant.
+{66957}{66985}Je ne comprends pas.
+{67012}{67060}Trois ans d'apprentissage.
+{67132}{67190}Tout ça pour rien...
+{67297}{67340}Trois ans...
+{67345}{67372}Au suivant !
+{67892}{67955}Mon petit.|Toujours rien ?
+{67990}{68050}Je te l'avais dit.|C'est comme ça au début.
+{68057}{68110}Trois ans d'apprentissage...
+{68135}{68200}Tout ça pour rien...
+{68230}{68287}J'ai un truc.|Ça va aller mieux tout de suite.
+{69207}{69245}J'ai vu Héliogabale.
+{69287}{69320}Il y a des problèmes.
+{69365}{69420}Nous avons besoin|de nouveaux papiers.
+{69447}{69485}Il s'est passé quelque chose.
+{69552}{69630}En tout cas nous devons|nous réunir au plus vite.
+{69697}{69730}Les autres sont au courant ?
+{69825}{69865}Chez toi ou chez Hilde.
+{70377}{70407}Je te préviendrai.
+{70430}{70470}Ça pourrait être demain.
+{70680}{70705}Pardon.
+{70755}{70780}Ça y est enfin ?
+{70865}{70900}Vous avez enfin trouvé votre père ?
+{70907}{70935}Vous êtes un porc !
+{70947}{70990}On sait ça depuis longtemps.
+{71030}{71160}Un jour on vous cassera la gueule|et vous en crèverez.
+{71300}{71330}Possible.
+{71355}{71420}En tout cas ça ne sera pas vous.
+{71497}{71547}Il suffit de te traiter|comme il faut
+{71622}{71680}et tu n'auras plus besoin|de cette saleté.
+{74442}{74460}Qu'est-ce que tu cherches ?
+{74465}{74520}De l'argent ! J'en veux !
+{74542}{74620}Voler ! Avoir !
+{74682}{74725}Pourquoi en cachette ?
+{74750}{74775}Calme-toi !
+{74787}{74860}Tant que j'ai quelque chose,|je te le donnerai.
+{74895}{74925}Tu le sais bien.
+{75242}{75275}Qu'est-ce qu'elle a ?
+{75352}{75395}Elle s'est trouvée mal.
+{75410}{75450}Une migraine...
+{75522}{75555}Arrête de pleurer, viens.
+{75580}{75607}On va s'en sortir.
+{76040}{76070}Les Turcs puent
+{76075}{76102}et ne pensent qu'à baiser.
+{76107}{76135}Dehors les Turcs !
+{76142}{76177}L'Allemagne aux Allemands.
+{76182}{76257}Renvoyez-les chez eux !
+{76262}{76340}Renvoyez-les, les porcs !
+{76402}{76452}Il faut les expulser ou les gazer !
+{76462}{76517}Mais pas les juifs !
+{76522}{76560}Pauvres crétins.
+{76567}{76602}Porc de nazi !
+{76607}{76650}Sale communiste !
+{76655}{76715}Un jour tu y passeras toi aussi !
+{76722}{76780}(Dialogue anonyme en épisodes,
+{76787}{76875}WC-hommes du grand magasin|KdW, Berlin-Ouest)
+{76885}{76920}Désolée du retard.
+{76950}{76985}Je m'inquiétais.
+{76992}{77065}Je ne suis plus une petite fille.
+{77080}{77120}Nous reprendrons demain.
+{77375}{77400}Alors ?
+{77427}{77502}Les messieurs de la banque|ont été très gentils.
+{77507}{77572}Mais les investissements|dans l'informatique
+{77577}{77640}paraissent très incertains,
+{77660}{77715}c'est plutôt en régression.
+{77757}{77805}Si la situation devait changer,
+{77812}{77870}ils sont bien entendu disposés
+{77902}{77930}à y réfléchir...
+{78185}{78207}Un bon jeu.
+{78290}{78325}Le dîner est prêt ?
+{78330}{78355}Tout de suite.
+{78720}{78767}C'est quoi ce texte ?|Sur toi ?
+{78802}{78900}C'est d'une Française|qui s'est tuée à 17 ans.
+{79037}{79077}Jamais entendu parler.
+{79120}{79212}C'est une histoire bizarre.|On n'a même pas de photo d'elle.
+{79272}{79320}Il n'y a toujours pas|de bière brune !
+{79347}{79415}Je t'ai dit vingt fois|que j'en prends pour les repas !
+{79422}{79487}Pardon, j'oubliais. J'en ai acheté,
+{79492}{79537}je vais la prendre au frigo.
+{79967}{79985}C'est bon ?
+{79992}{80022}Pas mal.
+{80095}{80145}Tu apprendras avec le temps.
+{80195}{80255}Autrefois je faisais chauffer|des conserves.
+{80310}{80350}C'est mauvais pour la santé.
+{80357}{80405}Qu'est-ce qui ne l'est pas ?
+{80415}{80455}La vie ne l'est pas ?
+{80490}{80547}Toi qui as perdu|l'habitude de manger
+{80562}{80590}tu as bon appétit.
+{80597}{80632}Tu voulais tout bouffer ?
+{80670}{80702}J'ai de l'appétit.
+{80742}{80810}Et je me fous|de ce que j'ai pu raconter hier.
+{80867}{80905}Mets plutôt de la musique.
+{80927}{80965}Je ne supporte plus ça.
+{81205}{81222}Qui c'est ?
+{81295}{81335}Alors j'ouvre ?
+{81335}{81382}Ouvre. Mais fais gaffe.
+{81410}{81432}Cache-toi.
+{81715}{81767}Quelle peur tu nous as faite !
+{81785}{81827}Qui pourrait venir ici ?
+{81935}{81985}Qu'est-ce qui se passe ?
+{81990}{82040}Rien de spécial.|Rendez-vous demain chez Rudolf.
+{82045}{82067}Tu aurais pu téléphoner !
+{82072}{82100}J'ai essayé, c'était occupé !
+{82107}{82175}Impossible, personne n'a appelé !
+{83197}{83255}Table ronde|avec Daniel Cohn-Bendit,
+{83262}{83320}Rudi Dutschke et Karsten Voigt.
+{84060}{84095}Tu as appelé ?
+{84105}{84162}D'après le grand-père|ils sont déjà partis.
+{84320}{84395}Vivre c'est vivre,
+{84400}{84482}si l'on savait mourir...
+{84690}{84732}Je ne comprends vraiment pas.
+{84755}{84792}Ils vont arriver.
+{84925}{84982}Pourquoi personne n'éteint ça ?
+{85240}{85295}Il a dit quand ils étaient partis ?
+{85870}{85932}Susanne avait oublié|de faire le plein.
+{85937}{85992}Ce n'était pas à moi de le faire.
+{85997}{86037}Je sais ce que je dis.
+{86090}{86137}Tu cries parce que|tu as mauvaise conscience.
+{86172}{86225}Arrêtez de vous engueuler,|on a peu de temps !
+{86230}{86262}On ne s'engueule pas !
+{86267}{86342}August, dis-nous|la raison de cette réunion.
+{86347}{86397}Oui, c'est plus important.
+{86620}{86680}J'ai eu un tuyau.|Il va se passer quelque chose.
+{86715}{86785}Je ne sais pas. Mais il n'y aura|pas une seconde à perdre.
+{86790}{86845}On a besoin de nouveaux papiers.
+{86850}{86925}Ça va si vite, je ne sais pas...
+{86932}{87010}On a toujours su|que ce moment arriverait.
+{87015}{87112}Arrêtez !|On n'a plus le temps de discuter.
+{87125}{87162}August sait ce qu'il fait.
+{87225}{87250}Alors quoi ?
+{87255}{87315}Nous procurer des papiers en blanc.
+{87325}{87352}A l'état civil alors.
+{87362}{87435}Tirons au sort|qui sera dans le coup.
+{87440}{87490}Sur sept papiers|je fais trois croix,
+{87497}{87557}ceux qui tirent les croix y vont.
+{87570}{87615}C'est pour nous ces papiers ?
+{87672}{87695}C'est juste que...
+{87700}{87800}j'aimerais tant m'appeler|Micaela Angela Martinez.
+{89447}{89497}On pourrait prendre Franz|dans le groupe.
+{89505}{89542}Il est spécialiste des explosifs.
+{89755}{89785}Alors pour Franz ?
+{89805}{89840}Moi je suis d'accord.
+{89877}{89940}Mais je suis contre Bernhard,|le débile.
+{90567}{90590}Les gardiens !
+{90635}{90672}J'avais pourtant|bien regardé !
+{90680}{90707}On fout le camp.
+{90767}{90817}Le danger c'est prévu.
+{90827}{90862}Où est la réserve ?
+{90877}{90900}Là, cette porte !
+{90967}{91035}Planquez-vous,|je vais voir si on passe.
+{91047}{91102}Si c'est tranquille,|tu ouvres la porte.
+{91107}{91152}Je tiens les flics en joue,
+{91157}{91222}à la moindre alerte je tire !
+{91272}{91327}On risque le coup. J'y vais.
+{92327}{92352}Je vais voir.
+{92610}{92637}C'est rien.
+{93742}{93767}Le flic !
+{93820}{93867}Il s'approche.
+{93932}{93947}Il va entrer !
+{94105}{94132}Il repart.
+{94240}{94267}Il rentre.
+{94307}{94337}Saloperie !
+{94402}{94442}Vous savez ce qui m'arrive ?
+{94450}{94480}Rudolf dit
+{94527}{94557}qu'à l'armée
+{94580}{94667}tu as eu une formation|de spécialiste des explosifs.
+{94917}{94977}Je pensais que ça pourrait
+{94985}{95020}être intéressant pour le groupe.
+{95070}{95102}Pour notre cellule.
+{95467}{95535}Tout ce qui est permis.
+{95622}{95662}Et qu'est-ce qui est permis ?
+{95835}{95870}Tout ce qui n'est pas interdit.
+{95877}{95910}Tu vois, tu ne sais pas !
+{95945}{95970}Vous avez faim ?
+{96022}{96057}Réfléchis un peu.
+{96097}{96145}Qu'est-ce qu'il lit notre érudit ?
+{96185}{96237}"Les enfants|de la bourgeoisie héritent
+{96242}{96312}"des excès, des préjugés|et de l'égoïsme de leurs pères."
+{96465}{96497}Tu comprends tout ?
+{96505}{96540}Au moins je fais un effort.
+{96580}{96615}Encore une tartine ?
+{96710}{96742}Les autres.
+{96822}{96880}Je n'en peux plus, je vais éclater.
+{96970}{97030}Rudolf a pissé|dans son froc de peur.
+{97085}{97112}Je n'y crois pas.
+{97125}{97182}Regarde, il est tout mouillé !
+{98147}{98175}Et les papiers ?
+{98277}{98310}Les voilà.
+{98397}{98425}Content ?
+{98447}{98497}Plus que content.|Du beau travail.
+{98537}{98572}Il pleure. Regardez !
+{98590}{98640}Franz ! Qu'est-ce qu'il y a ?
+{98850}{98887}Ilse est morte.
+{99505}{99532}Et maintenant ?
+{99540}{99595}On ne doit pas la trouver ici.
+{99732}{99790}Je m'en occupe avec Petra.
+{99840}{99885}Je l'appelle tout de suite.
+{100430}{100490}Ici Hilde. Ilse est morte.
+{100500}{100545}Il faut la sortir d'ici.
+{100552}{100605}Passe me prendre.
+{100700}{100765}Je voudrais parler à Edgar.|Ici Paul.
+{100770}{100832}Je t'appelle tard|mais c'est important.
+{100847}{100882}Je dois te voir.
+{100910}{100957}A propos des tampons.
+{100972}{101032}Au restaurant japonais Yaki.
+{101435}{101492}AIlô Hilde. Ici Edgar !
+{103200}{103232}Un monsieur
+{103240}{103277}qui refuse de s'en aller.
+{103352}{103375}Vous pouvez nous laisser.
+{103862}{103897}Paul est mort !
+{103932}{103972}Ils l'ont abattu !
+{104002}{104067}Comme un chien enragé.|Il faut foutre le camp !
+{104202}{104235}Où allez-vous ?
+{104242}{104270}Au diable !
+{104437}{104497}- Susanne, je n'en peux plus !|- Sortons !
+{104692}{104777}Mon mari. Il est malade.|Je le raccompagne.
+{105150}{105202}Tu sais où est Paul ? Je l'attends.
+{105222}{105247}Paul est mort.
+{105340}{105362}Vraiment ?
+{105367}{105405}Ils l'ont abattu froidement,
+{105410}{105470}sans sommation d'après Edgar.
+{105510}{105542}Pour lui c'est fini.
+{105587}{105617}Je l'envie presque.
+{105677}{105705}Plus de douleur.
+{105725}{105757}Plus de grande peur.
+{105780}{105822}Plus de désespoir|pour la fin infinie
+{105827}{105905}de la nostalgie apprise|comme satisfaction.
+{105927}{106000}Pas de dépression maintenant.|Tout continue.
+{106010}{106062}Est-ce qu'il a laissé|son carnet ici ?
+{106080}{106117}Il l'a toujours sur lui.
+{106145}{106192}Merde, je le pensais bien.
+{106197}{106247}L'opération Monopoly|est déclenchée.
+{106267}{106335}Voilà les papiers|pour Petra et pour toi.
+{106420}{106537}Rudolf prend le nouvel appartement,|avec Franz.
+{106542}{106592}C'est une bonne recrue.
+{106710}{106740}Regarde-moi Hilde !
+{106795}{106852}C'est mieux. Et souris.
+{106860}{106897}Souris ! Fais un effort !
+{106932}{106977}Tu vois, ça va.
+{107010}{107062}N'oublie pas de prévenir Petra.
+{107067}{107090}Je me tire.
+{107405}{107457}Je m'appelle Marianne Klein.
+{107627}{107680}Esclave cherche maître
+{107685}{107740}qui me dresse comme un chien.
+{107745}{107770}Indépendant
+{107777}{107810}et prêt à tout abandonner.
+{107817}{107877}De retour ici jeudi prochain 16 heures.
+{107882}{107947}Le vrai sadique reconnaîtra aussitôt
+{107952}{108000}l'esclave en moi.
+{108007}{108092}(WC-hommes, cabine de droite,|gare de Berlin-Ouest)
+{108102}{108155}Répétons encore les noms.
+{108217}{108247}Comment tu t'appelles ?
+{108287}{108330}Je m'appelle David Grünbaum,
+{108345}{108427}né le 17.02.1948 à Berlin,
+{108432}{108480}marié, un enfant.
+{108485}{108542}Profession: Représentant d'édition.
+{108580}{108632}Change-toi et recommence.
+{109212}{109230}Et toi ?
+{109247}{109297}Je m'appelle Sarah Grünbaum,|née Stiefel,
+{109302}{109407}le 25.12.1950 à Königsberg,
+{109417}{109465}mariée, un enfant,|profession: Femme au foyer.
+{109477}{109562}Je m'appelle David Grünbaum,|né le 17.2.1948 à Berlin,
+{109567}{109592}marié, un enfant.
+{110125}{110167}Voici une assiette, une soucoupe...
+{110195}{110212}un verre...
+{110227}{110247}une tasse à café...
+{110287}{110307}du vin...
+{110360}{110425}Le chauffe-eau:|Eau froide, eau chaude.
+{110440}{110462}De la tisane...
+{110495}{110535}Poignée... Frigo...
+{110545}{110562}hélas vide...
+{110567}{110622}Commissaire, prenez donc du gâteau !
+{110632}{110655}De ma mère !
+{110755}{110802}Et voilà le compteur !
+{110830}{110862}Je le vois tout seul !
+{111002}{111037}Des seringues commissaire.
+{111085}{111142}C'est la planque à héroïne|d'Ilse Hoffmann ?
+{111172}{111212}Morte elle aussi, la pauvre.
+{111255}{111287}Mettez ça avec le reste.
+{111292}{111312}Bounty ?
+{111487}{111540}Vous n'avez pas d'adresse, rien ?
+{111550}{111615}Rien pour retrouver l'un d'eux ?
+{111687}{111742}Ils ne m'ont même pas|admis dans le groupe !
+{111765}{111787}Je sais.
+{111870}{111897}Vous savez ?
+{111915}{111935}D'où vous le savez ?
+{111967}{112037}C'est mon métier de tout savoir.
+{112200}{112235}Ça c'est la chambre d'Ilse.
+{112245}{112277}C'était sa chambre !
+{112387}{112435}J'oublie qu'elle n'est plus ici.
+{112557}{112600}La casquette de Franz !
+{112617}{112667}Vous ne pouvez pas prendre|cette casquette !
+{112712}{112755}On n'arrête pas une casquette !
+{112760}{112792}C'est incroyable !
+{112802}{112880}On trouve une casquette|et on l'arrête !
+{112887}{112937}Elle traîne là|avec les gants de Franz
+{112942}{112977}et on l'arrête !
+{112990}{113045}Vous êtes aussi buté|que le grand-père d'Edgar.
+{113107}{113197}Aussi buté que le grand-père|d'Edgar. Une casquette.
+{113235}{113262}Fléchettes !
+{113312}{113355}Aussi buté|que le grand-père d'Edgar.
+{113465}{113495}Vous connaissez Edgar ?
+{113517}{113550}Edgar est mon fils.
+{113590}{113650}Et mon père est|le grand-père d'Edgar.
+{113705}{113740}Il est aussi buté que vous !
+{113820}{113855}Vous êtes le père d'Edgar ?
+{113997}{114062}Votre père|est le grand-père d'Edgar ?
+{114435}{114467}Soyez raisonnable.
+{114492}{114525}Passez-moi les fléchettes.
+{114790}{114840}Réfléchissez bien !
+{114862}{114932}Vous connaissez|l'adresse de Susanne.
+{114982}{115047}Je ne connais pas d'adresse !|Justement !
+{115100}{115162}Aussi buté|que le grand-père d'Edgar !
+{115682}{115737}Je crois que Paul a été trahi.
+{115775}{115832}Il a été trahi !
+{115842}{115905}Je m'appelle David Grünbaum...
+{116087}{116122}Vous ne trouverez rien ici !
+{116305}{116332}C'est pour moi que vous criez ?
+{116337}{116402}Pas pour vous mais je crie.
+{116410}{116435}Le voleur qui crie au voleur !
+{116440}{116485}Je connais ça.
+{116490}{116525}C'est un lieu commun.
+{116532}{116575}Les lieux communs|sont la sagesse populaire
+{116582}{116675}et vous apprendrez|que le peuple a toujours raison.
+{116682}{116725}Si vous arrivez à mon âge.
+{116747}{116775}Carnet d'adresses.
+{116787}{116830}Très malin.
+{116837}{116875}C'est marqué dessus.
+{117110}{117152}Vous êtes le père d'Edgar !
+{117222}{117295}Et votre père|est le grand-père d'Edgar.
+{117357}{117427}Le grand-père d'Edgar|connaît l'adresse d'Edgar.
+{117510}{117580}Il ne me la dit pas|parce qu'il est aussi buté que vous !
+{117645}{117697}Une très bonne brioche.
+{117842}{117885}Faite par ma mère !
+{118007}{118047}On a trouvé un magnétophone
+{118052}{118095}avec des cassettes enregistrées.
+{118182}{118215}C'est de la musique.
+{118230}{118255}Tout à fait banale !
+{118260}{118302}Jetez un coup d'œil sur les livres.
+{118380}{118410}Ça vous pouvez !
+{118415}{118455}Arrêter des livres,
+{118467}{118512}de la musique et des casquettes !
+{118667}{118700}C'est à nous de décider
+{118707}{118760}ce que nous voulons examiner.
+{118785}{118832}Arrêtez-les donc. Casquette...
+{118887}{118947}machine à écrire... affiche...
+{119052}{119122}Nous utilisons la machine|avant de l'emporter.
+{119150}{119212}Utilisez-la, utilisez tout !
+{119287}{119312}Le cendrier...
+{119317}{119382}Arrêtez tous les numéros...
+{119432}{119455}Arrêtez la plante grasse !
+{119515}{119557}Vous avez déjà arrêté un store ?
+{119937}{119975}Arrêtez donc la brioche.
+{119992}{120062}Achetée mais bonne...|et chère.
+{120212}{120255}Le magnétoscope.
+{120327}{120375}Le magnétoscope obligatoire.
+{120380}{120415}Pourquoi obligatoire ?
+{120767}{120835}Micha Wolf, né le 03.02.48 à Cham,
+{120840}{120880}Bavière. Célibataire.
+{120895}{120942}Micaela Angela Martinez,
+{120947}{121025}née le 12.11.46 à Santiago du Chili.
+{121067}{121125}Marianne Klein, née le 12.02.47
+{121130}{121165}à Sarrebruck. Divorcée.
+{121202}{121270}Oscar Matzerath, né le 17.06.46
+{121277}{121307}à Cologne. Divorcé.
+{121312}{121350}Et toi ?
+{121355}{121407}Louis-Ferdinand Céline, de Lorraine.
+{121425}{121462}Simple question.
+{121467}{121507}En gros ça se passe bien.
+{121512}{121562}Mais nous avons besoin d'argent.
+{121597}{121622}Où le trouver ?
+{121662}{121702}C'est toi qui demandes ça.
+{121707}{121732}Pourquoi moi ?
+{121767}{121825}Réfléchis un peu.
+{121932}{121960}Vous voulez dire...
+{122040}{122070}Génial.
+{122205}{122250}La vie est si simple.
+{122260}{122300}Nous le retirons à la banque.
+{122305}{122362}En insistant un peu.|Je tire au sort ?
+{122422}{122500}Prenons la banque du mari de Petra.
+{122517}{122560}Au moins l'un de nous connaît.
+{122590}{122630}C'est le mieux.
+{122650}{122707}Nous ne tirons|que tes deux compagnons.
+{122715}{122767}Très raisonnable,|non Rudolf ?
+{122775}{122827}Si raisonnable|que je ne vois même pas
+{122835}{122895}pourquoi on discute.
+{123045}{123112}Quand je pense à Paul|j'ai une angoisse.
+{123155}{123197}Il faut que j'en parle !
+{123227}{123260}Je ne peux pas m'empêcher
+{123277}{123322}de penser qu'il a été trahi.
+{123365}{123385}Par qui ?
+{123390}{123422}C'est très simple,
+{123445}{123480}réfléchissez un peu.
+{123515}{123547}Si c'est vrai...
+{123972}{124005}Pourquoi vous me regardez|comme ça ?
+{124010}{124037}Arrêtez !
+{124042}{124115}A y réfléchir,|je ne crois pas que c'est Franz.
+{124152}{124182}Tirez.
+{124190}{124222}Encore un blanc pour moi.
+{124367}{124395}J'ai une croix.
+{124410}{124435}Moi aussi.
+{124512}{124557}Pour la banque:|Petra, Franz et Hilde.
+{124562}{124600}C'est une affaire pratique mais
+{124627}{124667}il nous faut un signe de ralliement.
+{124692}{124727}Quelque chose d'exaltant.
+{124732}{124787}J'avais pensé|faire sauter un monument.
+{124792}{124820}L'Eglise du Souvenir.
+{124827}{124872}L'émetteur de radio|Freies Berlin.
+{124885}{124932}L'hôtel de ville de Schöneberg.
+{124997}{125035}Génial. Je veux le faire.
+{125055}{125095}Moi toute seule.
+{125102}{125130}Si tu y tiens.
+{125145}{125192}Franz te fabriquera|une belle bombe.
+{125510}{125527}C'était qui ?
+{125567}{125585}La poste.
+{125807}{125835}Qui est là ? Petra ?
+{126347}{126395}C'est un hold-up !|Restez calmes !
+{126402}{126435}Faites ce qu'on vous dit !
+{126562}{126582}Vas-y !
+{127105}{127142}Vite ! On n'a pas le temps !
+{127280}{127347}Trois minutes sans bouger|ou nous tuons le directeur.
+{127437}{127455}Ça ne s'ouvre pas !
+{127460}{127510}Sans la combinaison|même pas la peine.
+{128627}{128700}Le lit de mon arrière-petit-fils.
+{128712}{128757}Le fils d'Edgar.
+{128767}{128827}Je vous demandais l'adresse d'Edgar.
+{128832}{128862}Von Stein ?
+{128880}{128915}Vous êtes noble ?
+{129147}{129182}La mère d'Edgar.
+{129192}{129252}Parfois elle se réveille et s'anime.
+{129275}{129312}Le reste du temps elle rêve.
+{129345}{129390}J'ai toujours voulu être noble.
+{129517}{129555}Je vous donne mon "von".
+{129560}{129612}Ça ne compte pas pour vous ?
+{129657}{129695}Allez comprendre !
+{129735}{129795}Vous vous entendiez si bien|avec Edgar.
+{129812}{129877}Je pensais que vous auriez|son adresse...
+{129890}{129922}Le piano !
+{129927}{130005}Il y composait. Toute la journée.
+{130057}{130090}Je n'ai pas l'adresse !
+{130095}{130150}Vous me harcelez, comme mon fils.
+{130300}{130337}Non, pas de pralines.
+{130342}{130372}Ne lui en veuillez pas.
+{130387}{130425}Elle est étrange.
+{130442}{130477}Depuis longtemps déjà.
+{130580}{130645}Voilà une composition d'Edgar.
+{130662}{130740}Il aurait peut-être pu|devenir un des grands.
+{130747}{130795}Mais je n'y connais rien.
+{130875}{130905}Je reviens.
+{131140}{131185}Vous n'avez pas un Stresemann ?
+{131302}{131370}On n'en porte plus depuis 37 ans.
+{131410}{131445}J'oublie tout.
+{131702}{131765}Stresemann 37 !
+{132372}{132427}Ne crie pas ! C'est dangereux.
+{132445}{132512}Avec le bébé|on ne nous soupçonnera jamais.
+{132517}{132570}Qui serait assez idiot|pour emmener un bébé
+{132575}{132620}dans la clandestinité ?
+{132667}{132720}C'est pas une raison pour crier.
+{132725}{132762}David et moi
+{132792}{132842}nous sommes persuadés
+{132882}{132945}qu'il y a du louche|dans l'affaire de Paul,
+{132947}{132975}autrement dit
+{132980}{133062}qu'il a été trahi.
+{133110}{133155}On a déjà parlé de ça.
+{133160}{133232}Ce n'est toujours qu'un soupçon.
+{133245}{133317}A l'avenir il faut prendre|plus de précautions.
+{133400}{133440}Nous avons un plan:
+{133450}{133545}Enlever l'ex-patron de Susanne,|PJ Lurz.
+{133612}{133657}Enlever PJ Lurz ?
+{133662}{133765}Oui, j'ai tout son emploi du temps.
+{133795}{133875}Je ne vois pas|à quoi ça peut servir.
+{133927}{134005}Nous exigerons la libération de tous|les prisonniers politiques de RFA.
+{134010}{134037}Tous ?
+{134085}{134112}Quoi, mais ?
+{134195}{134210}Pourquoi ?
+{134215}{134255}Parce que c'est comme ça.
+{134272}{134327}C'est ce qui se fait.
+{134342}{134380}C'est juste !
+{134390}{134427}Bien sûr, que c'est juste !
+{134465}{134542}Nous voulons votre aide.
+{134547}{134617}Sans mettre personne d'autre|au courant.
+{134720}{134785}Bien sûr qu'on est partants !
+{134900}{134920}Qui est là ?
+{135117}{135150}On ne t'attendait pas.
+{135172}{135240}J'apporte votre part|de notre petit hold-up.
+{135297}{135322}Vous êtes là vous aussi.
+{135337}{135365}En visite.
+{135370}{135410}On passait jeter un coup d'œil.
+{135440}{135472}Voilà l'argent.
+{135840}{135887}Faut que j'y aille. A bientôt.
+{139405}{139442}Qu'est-ce que vous dites de ça ?
+{139467}{139535}Quel cynisme|de me donner rendez-vous ici !
+{139595}{139640}C'est surtout raisonnable.
+{139662}{139730}Pour l'instant c'est l'endroit|le plus sûr de Berlin.
+{140310}{140365}Personne ne soupçonne rien.
+{141005}{141032}Vous avez l'argent ?
+{142557}{142590}Tu as la bombe ?
+{142650}{142675}Fais attention.
+{142680}{142710}Elle est désamorcée.
+{142780}{142817}Qu'est-ce que Petra doit faire ?
+{142835}{142875}Remonter la minuterie.
+{142887}{142940}Cinq minutes avant de s'éloigner.
+{142970}{143007}Ilse a été retrouvée.
+{143027}{143055}Et enterrée.
+{143072}{143115}Au cimetière de Jérusalem.
+{144370}{144430}Le nègre se rend au cimetière|de Jérusalem.
+{144435}{144530}Une bombe va être déposée|à l'hôtel de ville de Schöneberg.
+{144620}{144667}Franz ! Arrête-toi.
+{144730}{144770}Ne va pas sur la tombe d'Ilse.
+{144850}{144882}Je les ai suivis.
+{144890}{144927}Ils nous ont trompés !
+{144995}{145020}August...
+{145032}{145055}Lurz...
+{145075}{145125}Si tu y vas, ils t'arrêteront.
+{145180}{145207}Tu m'entends ?
+{145255}{145277}Si tu avances,
+{145282}{145305}je te descends !
+{145402}{145420}Laisse-moi en paix !
+{146687}{146710}Voilà la bombe.
+{146715}{146760}Règle-la à midi moins cinq
+{146765}{146807}là-haut, à la fenêtre.
+{148722}{148795}Vous êtes arrivé au cimetière|en même temps que Walsch !
+{148800}{148825}Par hasard.
+{148830}{148875}Ce Walsch était votre ami ?
+{148890}{148960}Vous l'avez rencontré|au cimetière par hasard ?
+{148967}{148992}Par un pur hasard.
+{149047}{149115}Votre présence|n'était pas un hasard !
+{149230}{149257}Je l'ai suivi.
+{149282}{149340}Vous affirmiez à l'instant
+{149345}{149385}ne pas savoir où étaient vos amis.
+{149390}{149417}C'était vrai.
+{149455}{149495}J'ai suivi August.
+{149500}{149540}Il a rencontré Franz|que j'ai suivi.
+{149545}{149587}Vous aviez trouvé cet August où ?
+{149592}{149622}Je l'ai vu dans la rue.
+{149627}{149662}Vous mentez encore !
+{149667}{149687}Vous avez une adresse !
+{149692}{149755}Vous ne gagnez rien à vous taire !
+{149782}{149825}Vous avez une adresse.
+{149830}{149877}La nouvelle adresse de Susanne ?
+{149902}{149945}Minable petit menteur !
+{150005}{150037}Vous allez parler.
+{150100}{150145}Nous avons des méthodes
+{150165}{150210}dont vous ne rêvez même pas.
+{150220}{150277}Vous parlerez, croyez-moi.
+{150292}{150350}C'est une affaire sordide.
+{150392}{150420}J'ai surpris une rencontre
+{150425}{150460}entre August et PJ Lurz
+{150472}{150522}qui l'a payé|pour amener les autres
+{150527}{150565}où ils sont maintenant.
+{150570}{150597}Vous êtes fou.
+{150625}{150662}Vous ne connaissez pas PJ Lurz.
+{150667}{150710}C'est une relation d'affaires|de mon père.
+{150732}{150810}Vous avez beaucoup d'imagination.
+{150827}{150882}C'est un conte de fées délirant.
+{150890}{150912}Allons, montez.
+{150917}{150967}Ce conte de fées délirant
+{150972}{151000}c'est la vérité !
+{151612}{151687}- Vous aussi M.Lurz ?|- Très aimable à vous.
+{151717}{151747}Fais vite.
+{151760}{151830}Il y a un pépin.
+{151835}{151875}Je te prenais pour un pro.
+{151880}{151915}J'ai jamais dit ça.
+{151990}{152070}Vas-y toi-même|puisque tu sais tout !
+{152075}{152100}Arrêtez de vous engueuler !
+{152120}{152187}Toi arrête de jouer au pion.
+{152197}{152242}Je ne disais que l'essentiel.
+{152295}{152350}Je ne dirai plus rien.
+{152415}{152470}Reprenons le texte M.Lurz.
+{152482}{152530}Je m'appelle PJ Lurz.
+{152562}{152692}Nous sommes mardi 27 février 1979.
+{152702}{152740}Mardi gras.
+{152755}{152800}Je suis détenu ici
+{152805}{152840}au nom du peuple
+{152845}{152902}et dans son intérêt.
+{152997}{153055}J'essaie encore.|Je ne suis pas sûr.
+{153080}{153147}Sortez du champ vous autres.
+{153315}{153352}L'inscription est trop grande,
+{153372}{153410}il faut la refaire.
+{153425}{153477}Tu aurais pu t'en apercevoir avant.
+{153547}{153615}Il faudrait tout répéter !
+{153660}{153710}Mets l'ambiance Zoo.
+{154257}{154285}Encore une fois M.Lurz.
+{154712}{154790}Ça va comme ça ?|Vous êtes content ?
+{154795}{154842}C'est la bonne taille ?
+{154907}{154945}Pour l'enregistrement,
+{154950}{154992}si vous pouviez parler plus fort...
+{155025}{155052}Encore une fois.
+{155095}{155127}Un peu plus à gauche.
+{155160}{155195}Comme ça !
+{155230}{155272}Ne bougez plus !
+{155285}{155312}Je vérifie tout.
+{155317}{155377}Sortez enfin du champ !
+{155415}{155447}L'ambiance !
+{156062}{156127}Encore une fois M.Lurz|et plus fort !
+{156132}{156182}Je m'appelle PJ Lurz.
+{156187}{156312}Nous sommes mardi 27 février 1979,
+{156322}{156370}mardi gras.
+{156390}{156435}Je suis détenu ici
+{156442}{156510}au nom du peuple|et dans son intérêt.

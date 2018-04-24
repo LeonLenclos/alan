@@ -1,0 +1,597 @@
+{75}{143}Non, garde la monnaie.|Donne-la à ta femme.
+{145}{242}- Que les dieux vous adorent!|- Seulement dans tes prières.
+{250}{355}Offrons un bon vieux sacrifice|pour le succès de Glabrus.
+{359}{409}Je croyais que tu avais|des réserves à propos des dieux.
+{414}{469}En privé, je ne crois à aucun.|Toi non plus d'ailleurs.
+{474}{524}En public, je crois à tous.
+{492}{549}Salut Marcus Clodius Flavius!
+{1267}{1317}Marcus Glabrus est arrivé?
+{1320}{1375}- Il vous attend dans l'atrium.|- Excellent.
+{1427}{1477}Qu'avons-nous là?
+{1478}{1533}Un cadeau du gouverneur|de la Sicile, seigneur.
+{1897}{1947}Antoninus.
+{1952}{2022}Sicilien, âgé de 26 ans.
+{2024}{2082}Chanteur et poète.
+{2086}{2146}Pour qui as-tu exercé|tes précieux talents?
+{2150}{2207}Pour les enfants de mon maître...
+{2211}{2261}à qui j'ai aussi appris|les classiques.
+{2263}{2318}Les classiques, bien sûr.
+{2323}{2443}Qu'est-ce qu'on a comme emploi pour|un garçon aux dons aussi variés?
+{2481}{2531}Tu seras mon serviteur personnel.|Forme-le.
+{2532}{2582}Suivez-moi.
+{2925}{2977}Tu montes la garde?
+{3041}{3104}Mon cher Crassus,|félicite-moi.
+{3103}{3190}Ou mieux encore,|félicitons-nous.
+{3204}{3254}Je nous félicite.
+{3256}{3314}Demain je commande six cohortes|de la garnison...
+{3316}{3366}contre les esclaves sur le Vésuve.
+{3369}{3426}Toute la cité sortira|pour nous acclamer.
+{3429}{3489}Grands dieux|ensanglantés!
+{3509}{3559}Je te demande pardon.
+{3559}{3651}J'invoque toujours le ciel|dans les moments de triomphe.
+{3655}{3722}Gracchus a-t-il eu à voir|avec cette brillante idée?
+{3724}{3806}Oui, il l'a même proposée.|Plutôt décemment aussi.
+{3809}{3874}Et toi? Crois-tu que je t'ai fait|commandant de la garnison...
+{3878}{3961}pour aller te promener|sur le Vésuve?
+{3962}{4012}C'était pour contrôler|les rues de Rome!
+{4015}{4107}Je n'emmène que six cohortes.|Le reste de la garnison demeure.
+{4111}{4168}- Sous quel commandement?|- Sous César.
+{4170}{4235}Excellent, excellent!
+{4237}{4295}Gracchus dominait déjà|la populace et le sénat...
+{4298}{4386}et tu t'es senti forcé|de lui donner aussi la garnison.
+{4416}{4461}Je vois.
+{4462}{4550}Je refuserai. Je me retirerai|de l'expédition.
+{4553}{4603}L'un des désavantages|d'être patricien...
+{4605}{4667}c'est que tu es forcé d'agir|comme tel à l'occasion.
+{4671}{4721}Tu as promis au sénat d'y aller,|tu dois y aller.
+{4722}{4777}Si Gracchus décidait|d'agir contre toi--
+{4781}{4833}Il ne le fera pas!|Il n'a pas besoin de le faire.
+{4836}{4926}Avec ton concours,|il m'a immobilisé.
+{4956}{5016}Tes légions bivouaquent encore|en dehors des murs de la ville?
+{5050}{5100}Mes légions?
+{5104}{5167}Crois-tu que j'ordonnerais|à mes légions d'entrer à Rome?
+{5166}{5231}Je te signale simplement|que tu peux au besoin.
+{5231}{5291}N'es-tu pas au courant|de la plus ancienne loi de Rome?
+{5294}{5372}Aucun général ne peut entrer à Rome|à la tête de ses légions armées?
+{5370}{5462}- Sylla l'a fait.|- Sylla? Pour l'infamie de son nom!
+{5466}{5528}Et la damnation|de sa lignée!
+{5556}{5606}Non, mon jeune ami.
+{5637}{5732}Un jour, je purgerai cette Rome|que mes pères m'ont léguée.
+{5734}{5844}Je rétablirai les traditions|qui ont fait sa grandeur.
+{5848}{5915}Il s'ensuit donc que je ne peux|saisir le pouvoir ni me défendre...
+{5918}{6015}par un acte qui trahit la tradition|la plus sacrée de toutes.
+{6017}{6107}Je ne ferai pas entrer mes légions|à l'intérieur de ces murs.
+{6122}{6197}Je ne violerai pas Rome...
+{6200}{6255}au moment|de la posséder.
+{6345}{6377}Va.
+{6409}{6459}Prépare tes troupes|tout de suite.
+{6461}{6563}Quitte Rome ce soir, mais|l'hommage de la ville est impossible.
+{6661}{6758}Sors par des rues désertes,|sans bruit, sans même un tambour!
+{6790}{6840}Sors à pas feutrés.
+{6871}{6923}Comme tu veux.
+{6926}{6981}Et pour l'amour du ciel,|mon jeune ami...
+{6981}{7064}veille à ce que tu n'aies pas|à revenir discrètement.
+{7083}{7128}Adieu.
+{10599}{10649}Allez, mon gros!
+{11721}{11771}Nobles romains...
+{11774}{11829}vous vous battez|comme des animaux!
+{11852}{11910}Vos nouveaux maîtres parient|sur qui mourra le premier.
+{11995}{12045}Jetez vos glaives.
+{12204}{12291}Je veux voir leur sang couler|où Draba est mort!
+{12344}{12399}Quand je combats en paire|on se bat à mort.
+{12456}{12521}J'ai fait une promesse Crixus.
+{12520}{12570}J'ai juré|que si je sortais d'ici...
+{12571}{12654}je mourrai avant de revoir|deux hommes se battre à mort.
+{12736}{12791}Draba a aussi fait cette promesse.
+{12825}{12875}Il l'a tenue.
+{12880}{12925}Je la tiendrai aussi.
+{13014}{13071}Allez. Sortez!
+{13149}{13199}Que sommes-nous Crixus?
+{13202}{13265}Que devenons-nous?|Des romains?
+{13266}{13329}N'avons-nous rien appris?|Qu'est-ce qui nous arrive?
+{13331}{13394}On cherche du vin|quand il nous faudrait du pain.
+{13396}{13466}Quand on a du vin,|on n'a pas besoin de pain!
+{13501}{13568}Vous ne pouvez pas être|qu'une bande de pillards ivres.
+{13570}{13662}- Qu'est-ce qu'on peut être d'autre ?|- Des gladiateurs!
+{13665}{13720}Une armée de gladiateurs.
+{13722}{13775}Il n'y a jamais eu|d'armée comme ça.
+{13777}{13845}Un gladiateur vaut mieux|que deux soldats romains.
+{13844}{13901}On bat les gardes romains|mais l'armée romaine est autre chose.
+{13905}{13955}Ils combattent différemment|de nous aussi.
+{13954}{14049}Nous pouvons vaincre quiconque|on nous opposera si nous le voulons.
+{14051}{14119}- Il faut une grande armée pour ça.|- Nous aurons une grande armée.
+{14119}{14169}Une fois en marche...
+{14171}{14224}on libérera les esclaves|de partout.
+{14227}{14277}On peut avoir|une plus grosse armée?
+{14279}{14324}De l'autre côté des Alpes,|nous serons en sécurité!
+{14327}{14407}Personne ne peut franchir les Alpes.|Chaque col est défendu par une légion.
+{14410}{14480}Il n'y a qu'une façon|de sortir de ce pays.
+{14491}{14531}La mer.
+{14534}{14599}À quoi sert la mer|si on n'a pas de bateaux?
+{14603}{14666}Les pirates ciliciens en ont.
+{14668}{14728}Ils sont en guerre avec Rome.
+{14729}{14804}Chaque galère romaine qui sort|de Brindes leur paye un tribut.
+{14805}{14855}Ils ont la plus grosse flotte|au monde.
+{14856}{14934}J'ai été galérien avec eux. Ils vous|emmènent où vous voulez pour de l'or.
+{14935}{14980}On n'a pas d'or.
+{14981}{15039}Prends chaque romain qu'on capture|et réchauffe-lui un peu le dos.
+{15043}{15128}- On aura de l'or.|- Spartacus a raison!
+{15152}{15224}Engageons ces pirates|et marchons sur Brindes!
+{16350}{16420}Joignez-vous à nous.|Venez avec nous.
+{16846}{16901}Suivez-nous!
+{17502}{17552}Vers le Vésuve!
+{18044}{18089}Varinia.
+{18222}{18289}Je pensais|ne jamais te revoir.
+{18623}{18683}Tout est si différent.
+{18823}{18878}La dernière fois que je t'ai vu...
+{18904}{18994}tu attendais|dans l'arène--
+{19168}{19220}Je croyais|que tu étais à Rome.
+{19339}{19384}Comment tu t'es échappée?
+{19447}{19497}J'ai sauté du chariot...
+{19498}{19550}et Batiatus est si gros--
+{19813}{19878}J'ai sauté du chariot...
+{19911}{19969}et Batiatus est si gros...
+{19971}{20024}qu'il n'a pas pu me rattraper.
+{20042}{20095}Il n'a pas pu me rattraper.
+{20112}{20162}Tu te rends compte...
+{20163}{20235}que personne ne pourra plus te vendre?
+{20239}{20289}Personne ne pourra plus te vendre.
+{20289}{20344}- Ni te donner.|- Ni te donner.
+{20346}{20399}Personne ne te forcera plus|à rester avec personne.
+{20399}{20469}Personne ne te forcera plus|à rester avec personne.
+{20530}{20600}Je t'aime Spartacus.
+{20680}{20753}Je t'aime.
+{20826}{20889}J'ai peine à y croire.
+{20936}{21034}Interdis-moi de t'abandonner encore.
+{21178}{21228}Je te l'interdis.
+{21266}{21311}Je te l'interdis.
+{22040}{22112}C'était drôle à l'époque.|J'aurais aimé qu'il l'entende.
+{22116}{22171}Comme tu es bon pour moi,|si je peux me permettre.
+{22169}{22231}- Tu peux|- Merci.
+{22235}{22285}Ne fais pas que regarder|ces oiseaux, mange-les.
+{22284}{22356}Tu n'as pas à te soucier|de tes manières ici.
+{22360}{22420}Puis-je te rappeler...
+{22422}{22472}que tu as été très bon pour moi|dans le passé?
+{22476}{22526}J'ai été bon pour toi?
+{22527}{22670}Oui. Tu m'as vendu des esclaves|à des prix fort raisonnables.
+{22669}{22766}Et tu as organisé des joutes|de gladiateurs au juste prix ou presque.
+{22769}{22824}Dans l'ensemble, tu as été|à la fois moral en affaires...
+{22825}{22920}et socialement prévoyant.
+{22926}{22981}Zénobie a pris un peu de poids|depuis que je l'ai vue.
+{22983}{23058}- Oui, n'est-ce pas? Ça me plaît.|- Moi aussi.
+{23085}{23140}Toi et moi on a tendance|à la corpulence.
+{23143}{23233}La corpulence rend l'homme agréable,|raisonnable et philosophe.
+{23237}{23342}As-tu remarqué que les pires tyrans|sont invariablement maigres?
+{23375}{23477}Malgré tes vices, tu es le plus|généreux des romains de notre époque.
+{23480}{23527}Vices?
+{23561}{23606}Les femmes.
+{23678}{23741}Les femmes!|Depuis quand les femmes sont un vice?
+{23743}{23836}Peut-être que j'ai employé le mauvais mot.|Une excentricité, une faiblesse.
+{23836}{23896}J'espère l'avoir mieux dit--
+{23896}{23968}C'est bien connu que même ton valet|et ton majordome sont des femmes.
+{23972}{24037}Je suis le plus vertueux de Rome.
+{24040}{24123}Je garde ces femmes par respect|pour la moralité romaine.
+{24123}{24193}Cette moralité qui a donné|à Rome la force de voler...
+{24193}{24246}les deux tiers du monde|à leurs maîtres légitimes...
+{24245}{24320}est fondée sur la sainteté|du mariage et de la famille.
+{24325}{24375}Il s'avère que j'aime les femmes.
+{24377}{24434}Je suis porté sur le sexe...
+{24437}{24497}et, contrairement à ces aristocrates,|je ne ferai pas un vœu de mariage...
+{24497}{24552}que ma nature|m'empêchera de tenir.
+{24551}{24636}Tu as un trop grand respect|pour la pureté des femmes.
+{24638}{24691}Exactement.
+{24693}{24793}Ça doit être tentant d'être|entouré d'autant de pureté.
+{24878}{24923}Ça l'est.
+{24925}{25028}Joignons l'utile à l'agréable.|Comment puis-je t'aider?
+{25074}{25146}Grand Gracchus,|il m'est difficile de haïr...
+{25148}{25195}mais il est un homme auquel|je ne peux penser sans rager.
+{25199}{25244}- Qui est-ce?|- Crassus.
+{25246}{25339}- Ta haine a de l'ambition.|- Tu me blâmes?
+{25338}{25398}Je suis passé|du jour au lendemain...
+{25401}{25454}de l'état de millionnaire|à celui de réfugié sans le sou...
+{25454}{25509}ne possédant que ces loques|et mon pauvre corps.
+{25512}{25590}Tout ça parce que Crassus|a décidé de faire escale à Capoue...
+{25590}{25670}avec deux nymphes capricieuses|et trop maquillées!
+{25671}{25771}Ces deux filles de Vénus|ont raillé les gladiateurs...
+{25775}{25848}elles les ont forcés à se battre à mort|et avant que je cligne de l'œil...
+{25853}{25931}j'avais une révolution sur les bras!
+{25931}{25981}Quelle vengeance mijotes-tu?
+{26019}{26074}J'ai vendu à Crassus cette femme,|Varinia.
+{26076}{26169}- Qui?|- Varinia. Les dieux l'enlaidissent!
+{26168}{26243}Il n'y a pas eu de contrat, mais|elle est devenue son esclave...
+{26246}{26299}dès que le marché|a été conclu.
+{26298}{26355}Elle cavale maintenant avec Spartacus,|tuant les gens dans leur lit.
+{26359}{26459}Et Crassus--|pas question d'argent, non!
+{26461}{26514}Tu ne m'as jamais offert|cette femme. Pourquoi pas?
+{26544}{26609}Elle n'est pas du tout|ton genre Gracchus.
+{26610}{26692}- Elle est très maigre et--|- Regarde autour de toi.
+{26695}{26767}Tu verras des femmes de toutes les tailles.
+{26802}{26867}Cinq cents sesterces|en acompte sur Varinia.
+{26871}{26933}Puisqu'il n'a pas payé ça|me donne préséance sur Crassus...
+{26935}{26985}le jour où elle sera capturée.
+{26989}{27057}Puissent les dieux t'adorer!
+{27057}{27105}Pourquoi tu achètes une femme|que tu n'as jamais vue?
+{27108}{27158}Pour ennuyer Crassus bien sûr|et pour t'aider.
+{34895}{34955}- Prenez votre temps!|- Comment vont-ils?
+{34955}{35037}Bien. Donne-m'en mille autres|et on pourra marcher sur Rome.
+{35040}{35090}Allez, encore une fois.
+{35463}{35511}Ici sur le Vésuve,|nous sommes à l'abri d'une attaque...
+{35515}{35578}et nous pouvons organiser|notre armée.
+{35579}{35647}Ça peut prendre six mois.|Ou un an. On ne sait pas.
+{35646}{35728}Quand on sera assez forts, nous|nous fraierons un chemin vers la mer.
+{35733}{35803}Nous obtiendrons des bateaux|des pirates ciliciens.
+{35805}{35880}Et la mer nous permettra|de rentrer chez nous.
+{35885}{35942}Si ça vous va, joignez-vous à nous.
+{35944}{36036}Sinon retournez avant|qu'on découvre votre évasion.
+{36068}{36118}Trop de femmes.
+{36119}{36169}Où est le mal?
+{36171}{36224}Où tu serais maintenant,|voyou...
+{36228}{36283}si une femme n'avait pas subi|toutes les douleurs de l'enfer...
+{36284}{36334}pour t'amener|dans ce monde maudit?
+{36337}{36410}Je peux manier un couteau|aussi bien que n'importe qui.
+{36413}{36468}Je peux jeter des sorts|et préparer des poisons.
+{36468}{36553}J'ai fait des linceuls|pour sept maîtres romains.
+{36581}{36651}- Voyou! Je veux voir Spartacus.|- D'accord grand-mère.
+{36655}{36720}Je suis Spartacus. Reste avec nous.
+{36720}{36787}On aura besoin d'un million|de linceuls romains avant la fin.
+{36861}{36911}Vous venez d'où?
+{36912}{36979}La plupart d'entre nous vient|du domaine de Lillius.
+{36986}{37066}- C'était quoi votre travail?|- J'étais charpentier et maçon.
+{37066}{37133}Bien. Ton métier nous sera utile.
+{37178}{37238}- Et toi, qu'est-ce que tu faisais?|- J'étais premier intendant.
+{37238}{37326}Tu aideras au ravitaillement.|Tu te présenteras à Patullus.
+{37330}{37380}Toi, que faisais-tu?
+{37399}{37449}Chanteur et poète.
+{37476}{37576}Chanteur et poète?|Mais tu faisais quel travail?
+{37578}{37648}C'était mon travail.|Je suis jongleur aussi.
+{37646}{37708}Jongleur. Qu'est-ce que tu sais faire d'autre?
+{37713}{37768}Je peux faire de la magie.
+{37770}{37828}De la magie?
+{37828}{37888}Peut-être qu'il sait faire|disparaître les romains.
+{39982}{40095}J'aurai besoin d'un volontaire,|homme ou femme. Toi peut-être?
+{40116}{40171}Voici un bon sujet.
+{40206}{40281}Tu vois qu'il n'y a rien|dans ma main, n'est-ce pas?
+{40284}{40334}- Combien de doigts tu vois?|- Trois.
+{40334}{40384}- Combien de doigts tu vois?|- Trois!
+{40389}{40439}Je ferme le poing.
+{40438}{40506}Ma main est renversée|et je te demande de souffler dessus.
+{40510}{40562}Non, pas assez fort. Plus fort!
+{40589}{40634}Merci.
+{40802}{40852}Tu aimerais essayer?
+{40935}{40997}Casse-le sur la pierre, doucement.
+{41174}{41269}Poète, il y a des jours|que je n'ai pas eu d'œuf.
+{41272}{41325}Ah oui?
+{41394}{41449}- Tiens.|- Merci.
+{41448}{41498}Je ne laisserai pas le mien|s'échapper.
+{41988}{42063}- Dis-nous un poème.|- Chante Antoninus.
+{42085}{42137}Chante Antoninus.
+{42199}{42276}Lorsque le Soleil brûlant|descend sur l'horizon...
+{42329}{42391}lorsque le vent meurt|sur la montagne...
+{42457}{42530}lorsque la chanson|de l'alouette s'éteint...
+{42594}{42669}lorsque le grillon|ne fait plus cricri...
+{42715}{42803}lorsque l'écume de la mer|est au repos...
+{42806}{42899}que le crépuscule|caresse le sol...
+{42903}{42971}je rentre chez moi.
+{42971}{43051}Dans les ombres bleues|et la forêt empourprée...
+{43053}{43098}je rentre chez moi.
+{43130}{43190}Je vais vers la maison|qui m'a vu naître...
+{43191}{43286}vers la mère qui m'a porté|et le père qui m'a élevé...
+{43287}{43350}il y a longtemps, longtemps...
+{43348}{43403}si longtemps.
+{43431}{43538}Je suis maintenant seul et perdu|dans un monde étranger et lointain.
+{43579}{43656}Pourtant lorsque le soleil brûlant|descend sur l'horizon...
+{43710}{43790}lorsque le vent se meurt|et que l'écume est au repos...
+{43822}{43892}que le crépuscule|caresse le sol...
+{43934}{43989}je rentre chez moi.
+{44116}{44168}Où tu as appris ce poème?
+{44184}{44244}Mon père me l'a enseigné.
+{44262}{44317}J'avais tort à ton sujet, poète.
+{44318}{44371}Tu n'apprendras pas à tuer.|Tu nous apprendras des chansons.
+{44370}{44425}Je suis venu ici pour me battre.
+{44466}{44536}Il est facile d'apprendre à se battre.
+{44536}{44586}Je suis venu me battre!
+{44672}{44744}- Comment tu t'appelles?|- Antoninus.
+{44854}{44944}Il y a un temps pour se battre|et un temps pour chanter.
+{44946}{45003}Apprends-nous à chanter.
+{45007}{45057}Chante Antoninus.
+{45214}{45309}Lorsque le soleil brûlant|descend sur l'horizon--
+{45334}{45384}Tu l'aimes, n'est-ce pas?
+{45486}{45536}Qui veut se battre?
+{45597}{45655}Une bête peut apprendre à se battre.
+{45734}{45802}Mais pour chanter de belles choses...
+{45826}{45878}et les faire croire aux gens--
+{46118}{46168}À quoi tu penses?
+{46347}{46397}Je suis libre.
+{46438}{46488}Et je suis ignorant.
+{46502}{46549}Je ne sais même pas lire.
+{46614}{46669}Tu sais des choses|qu'on n'apprend bas.
+{46738}{46788}Je ne sais rien.
+{46795}{46845}Rien!
+{46903}{46953}Et je veux savoir.
+{46965}{47010}Je veux--
+{47054}{47104}Je veux savoir.
+{47136}{47181}Savoir quoi?
+{47268}{47308}Tout.
+{47385}{47470}Pourquoi une étoile tombe du ciel|et pas les oiseaux.
+{47473}{47538}Où le Soleil se cache la nuit?
+{47542}{47602}Pourquoi la Lune change de forme?
+{47713}{47775}Je veux savoir|d'où vient le vent.
+{47949}{48029}Le vent se lève dans une caverne.
+{48032}{48147}Loin au nord, un jeune dieu|dort dans cette caverne.
+{48150}{48205}Il rêve d'une fille...
+{48206}{48268}et il soupire...
+{48272}{48367}et la brise de la nuit|s'agite avec son souffle.
+{48564}{48632}Je veux tout savoir de toi.
+{48709}{48757}Chaque ligne...
+{48777}{48827}chaque courbe.
+{48910}{48975}Je veux tout|connaître de toi.
+{49040}{49095}Chaque battement de ton cœur.
+{49697}{49765}Continue à propos|de la ville de Métaponte.
+{49762}{49817}On y trouveras|quelle garnison?
+{49854}{49929}Il y a deux légions dans la garnison.|Certaines ont été envoyées au sud--
+{49933}{49983}Posez la litière là.
+{50374}{50462}Où est ce général des esclaves?
+{50553}{50610}Dionysius, conduis|les porteurs au sec.
+{50613}{50675}Donne-leur du pain|et leur liberté.
+{50713}{50768}- D'accord, suivez-moi.|- On vous les paiera.
+{50790}{50863}Nous n'avons pas d'esclaves|dans ce camp.
+{50982}{51039}Tigranes Levantus à votre service.
+{51053}{51103}Mes tablettes.
+{51215}{51260}Entrez.
+{51324}{51386}"Au général des esclaves italiens|appelé Spartacus...
+{51388}{51465}d'Ibar M'hali, gouverneur cilicien|de l'île de Délos."
+{51467}{51514}- Asseyez-vous.|- "Salut.
+{51517}{51577}Nous avons appris que vous voulez|embarquer vos armées...
+{51580}{51680}sur des navires ciliciens|au port italien de Brindes.
+{51682}{51757}- Accueillez mon agent, Tigranes--"|- Levantus.
+{51759}{51816}"qui négocie en mon nom.
+{51818}{51913}Qu'Isis et Sérapis fassent triompher|votre cause. Le gouverneur de Délos."
+{51911}{51993}- Qui sont Isis et Sérapis?|- Des dieux du Levant.
+{51999}{52069}Pourquoi veulent-ils notre victoire?
+{52098}{52151}Parce qu'ils favorisent la Cilicie...
+{52154}{52204}et la Cilicie, comme vous,|lutte contre les romains.
+{52322}{52380}Prendriez-vous du vin?
+{52378}{52453}Je ne bois qu'une fois|les affaires réglées...
+{52457}{52502}jamais avant.
+{52683}{52743}Les ciliciens on combien de navires?
+{52743}{52798}Cinq cents au moins.
+{52801}{52851}Mais aucune affaire n'est trop petite,|je vous assure.
+{52856}{52909}Nous les prendrons tous.
+{52909}{52977}- Tous?|- Quel est le prix?
+{53004}{53119}Le prix est de 100000 sesterces|par navire.
+{53141}{53206}Pour 500 navires ça ferait...
+{53234}{53296}50 millions de sesterces.
+{53327}{53432}- Vous avez une telle somme?|- Nous l'aurons.
+{53516}{53566}Voyez vous-même.
+{53643}{53705}- Magnifique.|- Les bateaux seront prêts quand?
+{53706}{53803}Magnifique.|J'aime voir une telle beauté.
+{53807}{53857}Quand les navires seront-ils prêts?
+{53876}{53926}Mon ami...
+{53927}{53990}quand serez-vous prêts?
+{53996}{54054}Il vous faudra combien de temps...
+{54095}{54145}pour traverser|le tiers de l'Italie...
+{54147}{54207}en livrant bataille|dans chaque ville?
+{54210}{54270}Un an? Deux ans?
+{54272}{54322}Si nous ne sommes pas à Brindes|dans sept mois au plus tard...
+{54323}{54383}nous n'y serons jamais.
+{54434}{54484}Et si nous réunissons les navires...
+{54517}{54610}et qu'il n'y a plus d'armée|d'esclaves pour y monter?
+{54613}{54698}Nous vous donnons ce coffre maintenant|et le reste à notre arrivée à Brindes.
+{54718}{54773}- Celui-ci?|- Oui.
+{54807}{54887}Entendu! Dans sept mois|les navires seront réunis.
+{54940}{55010}Fais charger le coffre.
+{55013}{55105}Avec ta permission, je prendrai|le vin que tu m'as offert.
+{55106}{55156}- Tu te joindras à moi?|- Avec plaisir.
+{55157}{55204}Excellent travail.
+{55208}{55265}Ça vient du domaine|d'un riche noble.
+{55267}{55339}On me dit que tu es toi-même|de noble extraction.
+{55342}{55394}Je suis fils|et petit-fils d'esclaves.
+{55398}{55493}Je l'ai compris quand j'ai vu|que tu ne sais pas lire.
+{55493}{55588}Il plaît à la vanité des romains|de croire que tu es noble.
+{55586}{55651}L'idée de combattre de simples|esclaves leur répugne...
+{55651}{55703}surtout à un homme comme Crassus.
+{55741}{55858}- Tu le connais?|- Je l'ai diverti un après-midi.
+{55862}{55917}- Toi?|- Dans l'arène.
+{55988}{56038}Excellent vin.
+{56116}{56188}- Je peux te poser une question?|- Tu peux.
+{56191}{56273}Tu sais sûrement|que vous serez vaincus, n'est-ce pas?
+{56307}{56352}Vous n'avez aucune chance.
+{56357}{56419}En ce moment même six cohortes|de la garnison de Rome...
+{56421}{56473}approchent de votre camp.
+{56538}{56611}Qu'est-ce que vous allez faire?
+{56712}{56772}On décidera|quand elles arriveront.
+{56877}{56930}Je te le présente autrement.
+{56932}{57012}Si tu regardes|dans une boule de cristal...
+{57015}{57115}et que tu vois ton armée en déroute|et toi mort...
+{57117}{57182}si tu pouvais voir l'avenir...
+{57186}{57234}comme tu le vois maintenant,|j'en suis sûr...
+{57234}{57284}tu continuerais à te battre?
+{57317}{57374}- Oui.|- Sachant que tu perdras?
+{57421}{57491}Nous perdrons quoi?
+{57495}{57570}Tous les hommes perdent en mourant|et nous mourrons tous.
+{57575}{57635}Mais un esclave et un homme libre|ne perdent pas la même chose.
+{57637}{57682}Ils perdent tous deux la vie.
+{57685}{57778}Quand l'homme libre meurt,|il perd les plaisirs de la vie.
+{57802}{57864}L'esclave perd sa misère.
+{57893}{57966}La mort est la seule liberté|que connaisse l'esclave.
+{57968}{58018}C'est pourquoi il ne la craint pas.
+{58070}{58100}C'est pourquoi nous vaincrons.
+{58798}{58868}Spartacus,|ce pirate avait raison.
+{58910}{58983}La garnison de Rome|installe son campement.
+{59010}{59065}- Ils sont combien?|- Environ six cohortes.
+{59093}{59143}- Où?|- À l'entrée de la vallée...
+{59143}{59193}au pied des falaises.
+{59240}{59323}- Un camp fort?|- Ils n'ont pas de palissade.
+{59368}{59438}Pas de palissade? Tu en es sûr?
+{59439}{59536}- J'en suis sûr.|- Cette campagne est un jeu pour eux.
+{59539}{59589}Les romains sont sûrs de la victoire.
+{59614}{59684}- Ils vous ont vus?|- Non! On était cachés.
+{59750}{59810}On devrait peut-être|interrompre leur partie de campagne.
+{59809}{59861}Rassemblez les hommes.
+{59998}{60043}Six cohortes.
+{60062}{60132}Beaucoup d'armes...
+{60137}{60187}avec lesquelles équiper notre armée.
+{60843}{60913}Crixus a toujours voulu|marcher sur Rome.
+{60928}{60978}Maintenant il n'a pas à le faire.
+{60998}{61048}Rome vient à nous.
+{62634}{62699}La moitié par ici!|Le reste par là.
+{63191}{63278}Debout, comme il sied|à un noble romain!
+{63281}{63331}C'est l'orgueil romain pour toi!
+{63491}{63539}C'est mieux.
+{63547}{63592}Quel est ton nom?
+{63628}{63688}Marcus Glabrus.
+{63739}{63804}Commandant de la garnison|de Rome!
+{63805}{63835}Commandant?
+{63837}{63935}Il la commandait sur le ventre|quand on l'a trouvé, il faisait le mort!
+{64020}{64097}Tu me déçois Marcus Glabrus.
+{64099}{64149}Faire le mort.
+{64180}{64230}Tu as peur de mourir?
+{64267}{64320}C'est facile de mourir.
+{64319}{64376}Tu n'as pas vu assez de gladiateurs|dans l'arène pour savoir...
+{64380}{64430}comme c'est facile de mourir?
+{64433}{64491}Bien sûr que si.
+{64545}{64602}Qu'est-ce que vous allez|faire de moi?
+{64604}{64654}Je ne sais pas.
+{64681}{64783}- Qu'est-ce qu'on va faire de lui?|- Faisons la paire, lui et moi.
+{64834}{64892}Je ne me battrai pas en gladiateur!
+{65012}{65077}Tu ne cesses pas de le regarder.
+{65076}{65126}Tu reconnais ce bâton?
+{65154}{65242}- Oui!|- Tu devrais! Il était dans ta tente.
+{65302}{65352}Le symbole du sénat.
+{65355}{65413}Tout le pouvoir de Rome!
+{65454}{65499}Voilà le pouvoir de Rome!
+{65589}{65649}Rapporte-le à ton sénat.
+{65648}{65743}Dis-lui que toi et ce bâton sont|ce qui reste de la garnison de Rome!
+{65748}{65815}Dis-leur qu'on ne veut rien de Rome.
+{65818}{65880}Rien d'autre que notre liberté!
+{65883}{65953}Tout ce qu'on veut|c'est quitter ce pays de malheur!
+{65957}{66007}Nous marchons vers le sud|en direction de la mer.
+{66008}{66065}Et on écrasera toute armée|qu'on enverra contre nous.
+{66070}{66127}Mettez-le à cheval!
+{66540}{66632}Leur chef a dit|que leur haine de Rome est telle...
+{66635}{66710}qu'ils ne veulent rien d'autre|qu'échapper à son joug.
+{66710}{66808}Si on ne leur résiste pas, il promet|de marcher en paix jusqu'à la mer.
+{66812}{66895}Sinon il menace|de dévaster le pays...
+{66893}{66948}et de détruire les légions|que nous enverrons contre lui.
+{66950}{67000}Et lorsqu'ils arriveront à la mer?
+{67002}{67097}Ils s'embarqueront sur les navires|ciliciens et ils rentreront chez eux.
+{67098}{67161}Dans quel port|comptent-ils s'embarquer?
+{67165}{67213}Je ne sais pas.
+{67215}{67280}Mais les garnisons locales|ne peuvent pas leur tenir tête.
+{67283}{67348}Si on veut les intercepter,|il faut envoyer les légions!
+{67350}{67445}Quelle sorte d'homme est|ce chef des esclaves?
+{67449}{67496}Je ne sais pas.
+{67499}{67551}Je crois qu'ils l'appelaient|Spartacus.
+{67631}{67681}Tu connais ce nom ??
+{67737}{67804}Oui, j'ai l'impression.
+{67809}{67854}Je n'arrive pas à le situer.
+{67855}{67905}Après qu'il t'a parlé,|qu'est-ce qui s'est passé?
+{67944}{68022}J'ai été attaché à un cheval|et chassé du camp.
+{68068}{68145}Combien de tes hommes|ont réussi à s'échapper?
+{68148}{68200}Quatorze sont revenus|jusqu'ici.
+{68202}{68272}J'ai été fait prisonnier|dans ma tente de commandement.
+{68275}{68378}Le camp a été complètement envahi|avant qu'on puisse sonner l'alerte.
+{68404}{68512}Tu avais fait entourer le camp|d'un fossé et d'une palissade?
+{68686}{68711}Non.
+{68764}{68864}Nous sommes arrivés dans la nuit et|on a posté des sentinelles aux dix pas.
+{68862}{68947}Il n'y avait pas de raison|de craindre une attaque de nuit.
+{68948}{69028}Et puis, ils--
+{69083}{69123}Continue.
+{69186}{69236}Ce ne sont que des esclaves.
+{69308}{69343}Je vois.
+{69414}{69516}Selon moi Publius Marcus Glabrus|a déshonoré les armes de Rome.
+{69546}{69606}Il appartient au sénat|de prononcer le châtiment.
+{69729}{69809}S'il fallait punir tous|les commandants qui se ridiculisent...
+{69812}{69884}il ne resterait personne|de plus haut rang que centurion.
+{69922}{69990}Mais c'est un cas|de négligence criminelle!
+{69992}{70072}Six cohortes ont été massacrées.
+{70074}{70134}Crassus a parrainé ce jeune homme.
+{70136}{70186}Qu'il prononce la sentence.
+{70269}{70319}Le châtiment est bien connu!
+{70390}{70440}Que Publius Marcus Glabrus|soit privé...
+{70442}{70492}de feu, d'eau,|de nourriture et de logement...
+{70494}{70574}dans un rayon de 400 miles|autour de la cité de Rome.
+{70692}{70745}Autre chose.
+{70748}{70843}Glabrus est mon ami et j'entends|partager sa disgrâce.
+{70845}{70920}J'abandonne le commandement|de mes légions...
+{70920}{70970}et je me retire de la vie publique.
+{71274}{71319}Adieu Crassus.
+{71365}{71452}Un homme d'honneur ne se retire pas|à un tel moment des affaires publiques!
+{71456}{71528}- Honte! Honte!|- Asseyez-vous.
+{71547}{71629}Ce genre de comportement public|héroïque n'est pas nouveau!
+{71631}{71691}Je l'ai déjà vu-- et vous aussi--|et je sais ce qu'il veut dire!
+{71692}{71797}- Crassus a agi en homme d'honneur!|- D'honneur patricien!
+{71802}{71852}Quelque noble qu'il y paraisse|de l'extérieur...
+{71852}{71902}je n'en aime pas la couleur.
+{71904}{71954}Crassus est|le seul homme à Rome...
+{71954}{72051}qui n'ait pas cédé ni ne cédera|jamais à la corruption républicaine!
+{72054}{72149}Je prendrai un peu de corruption|avec la liberté républicaine...
+{72152}{72197}mais je ne prendrai pas...
+{72202}{72309}la dictature de Crassus|et aucune liberté du tout!
+{72360}{72417}C'est pourquoi il est sorti...
+{72422}{72472}et c'est pourquoi il reviendra.
+{78005}{78080}À la mère qui m'a enfantée...
+{78112}{78167}au père qui m'a tant appris...
+{78214}{78264}et au dieu--
+{78331}{78411}À travers les forêts bleues|et les ombres empourprées--
+{78414}{78497}À travers les ombres bleues|et les forêts empourprées.
+{78496}{78589}- Spartacus, tu m'as fait peur!|- Excuse-moi.
+{78643}{78711}- Depuis quand tu es là?|- Un petit moment.
+{78737}{78787}Pourquoi tu n'as rien dit?
+{78787}{78839}Tu semblais si heureuse.|Je ne voulais pas te déranger.
+{78841}{78891}Je suis heureuse.
+{78892}{78990}Spartacus, j'essayais de me rappeler|les mots qu'Antoninus a récités.
+{78993}{79051}C'étaient les ombres bleues|et les forêts empourprées?
+{79049}{79124}Ou les forêts empourprées|et les ombres bleues?
+{79125}{79180}Je veux faire l'amour|à ma femme!
+{79238}{79288}Spartacus, pose-moi. Je--
+{79289}{79336}Ça m'est égal.
+{79339}{79404}- Tu dois, tu as--|- Oui?
+{79406}{79484}- Tu dois être gentil avec moi.|- Pourquoi?
+{79486}{79531}Pourquoi chérie?
+{79534}{79611}J'attends un enfant.|Pose-moi par terre.
+{79675}{79715}Quoi?
+{79772}{79827}Un enfant.
+{79915}{79965}Un enfant? Quand?
+{80029}{80064}Au printemps.
+{80125}{80237}- Comment? Comment tu le sais?|- Je le sais.
+{80262}{80312}Un enfant au printemps.
+{80364}{80427}- J'aurai un fils.|- Peut-être une fille.
+{80429}{80482}- Pourquoi tu ne me l'as pas dit?|- Je viens de te le dire.
+{80485}{80545}Tu as froid.|Tiens, couvre-toi.
+{80572}{80622}- Je t'ai fait mal?|- Non, tu ne m'as pas fait mal.
+{80623}{80693}- Je ne voulais pas être si rude.|- Pourquoi tu ne m'embrasses pas?
+{80697}{80765}C'est la première fois|que j'aurai un enfant.
+{80897}{80952}Un enfant.
+{80955}{81032}Je suis la même|qu'avant Spartacus.
+{81271}{81321}Je ne briserai pas.
+{82022}{82127}Ces esclaves nous ont déjà coûté|mille millions de sesterces.
+{82130}{82200}S'ils veulent nous débarrasser|de leur présence encombrante...
+{82201}{82251}par tous les dieux,|laissez-les aller!
+{82253}{82335}Impossible! Leur soulèvement a déjà|infecté la moitié de l'Italie.
+{82339}{82379}Si on leur permet de s'échapper...
+{82380}{82443}cet esprit de révolte|se propagera à tout l'empire.
+{82603}{82680}La République...
+{82684}{82761}ne s'est pas encore relevée|de vingt ans de guerre civile.
+{82763}{82833}Nous sommes engagés dans deux guerres:
+{82833}{82915}une en Espagne|et l'autre en Orient.
+{83013}{83128}et Spartacus dévalise le commerce|du sud de l'Italie.
+{83132}{83247}La moitié des quartiers de Rome|est privée de pain!
+{83247}{83314}La ville est au bord de la panique.
+{83347}{83419}Il y a deux choses que nous devons|faire immédiatement!
+{83421}{83511}Confier à César le commandement|permanent de la garnison...
+{83609}{83662}et envoyer deux légions...
+{83661}{83791}pour intercepter et détruire Spartacus|devant la ville de Métaponte!
+{83792}{83894}MÉTAPONTE
+{85376}{85433}Si seulement on avait|Batiatus dans l'autre pot!
+{85435}{85520}- Tu parles!|- Varinia, délicieux repas.
+{85543}{85631}Un petit lopin de terre|avec quelques chèvres.
+{85670}{85720}Le meilleur vin du monde.
+{85723}{85831}Il faut aller en Aquitaine pour le vin.|Les raisins les plus doux sur terre.
+{85831}{85909}Venez en Lydie pour le vin.|C'est le meilleur.
+{85914}{86012}Le meilleur vin vient de la Grèce.|Même les romains le reconnaissent!
+{86009}{86074}Non, en Lydie!
+{86094}{86159}Vous avez tous tort!
+{86160}{86218}Le meilleur vin c'est celui|qui vient de sa patrie.
+{86227}{86272}Je suis d'accord avec toi.
+

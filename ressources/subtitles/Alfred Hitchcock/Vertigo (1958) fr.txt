@@ -1,0 +1,1129 @@
+{2065}{2102}Votre main!
+{2217}{2257}Votre main!
+{2945}{3052}- Je croyais que tu ne souffrais plus.|- Ce satané corset me comprime.
+{3065}{3137}Il n'est pas extensible?|Quel manque de chic.
+{3150}{3242}Tu connais les médecins de la police.|La mode et eux...
+{3267}{3322}Demain, c'est le grand jour.
+{3330}{3367}C'est-à-dire?
+{3372}{3430}On m'enlève le corset.
+{3445}{3505}Je vais enfin pouvoir me gratter.
+{3507}{3622}Et je jetterai cette horreur par la fenêtre.|Je serai un homme libre.
+{3655}{3717}Beaucoup d'hommes portent des corsets?
+{3725}{3772}- Plus que tu ne le crois.|- Vraiment?
+{3775}{3845}Tu parles en connaissance de cause ou...
+{3850}{3877}Arrête.
+{3905}{3977}- Et qu'adviendra-t-il après?|- Comment cela?
+{3982}{4075}Que vas-tu faire,|maintenant que tu as quitté la police?
+{4105}{4185}- Tu n'approuves pas.|- Non, c'est ta vie.
+{4187}{4245}Jeune avocat, tu t'étais promis
+{4247}{4310}de devenir commissaire un jour.
+{4315}{4370}- Je devais démissionner.|- Pourquoi?
+{4380}{4465}A cause de cette histoire de vertiges,|de mon acrophobie.
+{4467}{4535}La nuit, je revois cet homme|qui tombe du toit.
+{4537}{4595}J'essaie de le rattraper et...
+{4605}{4687}- Tu n'y es pour rien.|- C'est ce que tout le monde me dit.
+{4695}{4785}- Johnny, les médecins t'ont expliqué que...|- Je sais.
+{4795}{4882}Je souffre d'acrophobie,|ce qui me donne le vertige.
+{4900}{4965}M'en être aperçu à un tel moment!
+{4967}{5075}C'est comme ça et tu ne peux rien y faire.|Alors pourquoi démissionner?
+{5077}{5142}Tu me vois derrière un bureau,|vissé à une chaise?
+{5150}{5240}- Pourquoi pas?|- Et mon acrophobie?
+{5242}{5320}Imagine-moi assis sur cette chaise,|derrière un bureau.
+{5325}{5385}Un crayon tombe par terre,
+{5387}{5467}je me penche pour le ramasser,|et j'ai une attaque d'acrophobie!
+{5535}{5580}Alors, que vas-tu faire?
+{5592}{5655}Rien dans un premier temps.
+{5662}{5757}N'oublie pas que je peux|"vivre de mes rentes", comme on dit.
+{5760}{5795}Plus ou moins.
+{5827}{5880}Tu pourrais partir quelque temps.
+{5880}{5965}Pour oublier?|Ne joue pas les mères poules.
+{6002}{6045}Je ne vais pas perdre les pédales.
+{6047}{6140}- Tu as eu des vertiges cette semaine?|- J'en ai à l'instant.
+{6170}{6240}La musique, là, tu ne trouves pas|que c'est un peu...
+{6322}{6367}C'est quoi ce bidule?
+{6422}{6460}Un soutien-gorge.
+{6465}{6537}Tu en as déjà vu, non?|Un grand garçon comme toi.
+{6540}{6592}Pas des comme ça.
+{6602}{6665}C'est tout nouveau.|Un maintien révolutionnaire.
+{6687}{6795}Pas de bretelles ni d'agrafes,|mais tout le confort du soutien-gorge.
+{6797}{6865}Conçu d'après le système d'un pont.
+{6872}{6902}Vraiment?
+{6910}{6982}C'est un ingénieur en aéronautique|qui l'a dessiné.
+{6985}{7045}A ses heures perdues.
+{7047}{7085}Une sorte de passe-temps.
+{7132}{7187}Du bricolage, en somme.
+{7240}{7285}Et ta vie sentimentale?
+{7307}{7365}Quel à-propos!
+{7367}{7395}Alors?
+{7422}{7452}Rien de neuf.
+{7465}{7512}Tu ne te marieras donc jamais?
+{7515}{7587}Tu sais qu'un seul homme compte|pour moi.
+{7590}{7665}Moi... On a été fiancés, tu te souviens?
+{7705}{7775}- Pendant trois semaines.|- Ah, l'université!
+{7807}{7895}Mais c'est toi qui as rompu, n'est-ce pas?
+{7895}{7967}Je suis toujours libre.
+{7980}{8082}Tu te souviens de Gavin Elster|qui était avec nous à l'université?
+{8095}{8150}- Gavin Elster?|- C'est un drôle de nom.
+{8165}{8207}Je vais te décevoir: Non.
+{8250}{8342}Il m'a appelé aujourd'hui.|Il s'était volatilisé pendant la guerre.
+{8345}{8415}On le disait sur la côte est. Il a dû rentrer.
+{8417}{8497}- D'après le numéro...|- C'est dans un quartier minable?
+{8510}{8540}Probable.
+{8547}{8632}Il doit être fauché|et il veut que tu lui paies un verre.
+{8635}{8735}Je suis fauché aussi. Je vais lui payer|un verre et lui raconter mes malheurs.
+{8737}{8815}Pas ce soir.|Ça te tente d'aller boire une bière?
+{8822}{8857}Non, je travaille.
+{8860}{8910}Alors je vais rentrer.
+{8997}{9067}Midge, tu voulais dire quoi par|"tu ne peux rien y faire"?
+{9077}{9105}Comment?
+{9130}{9167}Pour l'acrophobie.
+{9187}{9225}J'en ai parlé à mon médecin.
+{9240}{9335}Seul un autre choc pourrait|t'en débarrasser. Et rien n'est moins sûr.
+{9337}{9410}Tu ne vas pas replonger d'un toit|pour le savoir!
+{9410}{9467}- Je vais la vaincre.|- Comment?
+{9470}{9510}Voilà ma théorie:
+{9515}{9617}Si je parviens à m'habituer aux hauteurs|petit à petit...
+{9645}{9710}tu vois, progressivement...
+{9710}{9767}Je vais te montrer.
+{9870}{9920}- Je commence avec ça.|- Ça?
+{9922}{9995}Tu préférerais que je m'attaque|au Golden Gate Bridge?
+{9997}{10042}Regarde. J'y vais.
+{10077}{10100}Voilà.
+{10152}{10230}Je regarde en l'air. Et en bas.
+{10282}{10360}- Tu plaisantes. Attends un peu.|- C'est facile.
+{10392}{10435}- Tiens.|- Bonne idée.
+{10455}{10512}J'essaie avec ça. Mets-le là.
+{10572}{10625}La première marche.
+{10680}{10730}Et maintenant, la seconde marche.
+{10752}{10800}La seconde marche pour toi.
+{10880}{10915}Et voilà.
+{10917}{10995}Je regarde en l'air, et en bas, en l'air...
+{11000}{11070}Je vais m'acheter une grande échelle.
+{11072}{11145}- Vas-y doucement.|- Bon, j'y vais.
+{11160}{11192}Facile.
+{11337}{11412}C'est du tout cuit.|Je regarde en l'air et en bas.
+{11430}{11482}Je regarde en l'air et en bas.
+{12175}{12247}Comment en es-tu arrivé|à la construction navale?
+{12265}{12305}Par mon mariage.
+{12345}{12392}C'est un domaine passionnant.
+{12400}{12452}A vrai dire, ça m'ennuie plutôt.
+{12460}{12510}Tu n'en as pas besoin pour vivre.
+{12512}{12572}Non, mais j'ai des responsabilités.
+{12585}{12637}Mon épouse n'a plus personne.
+{12642}{12702}Je veille sur ses intérêts.
+{12707}{12797}L'associé de son père|dirige les chantiers de Baltimore.
+{12825}{12920}Tant qu'à y travailler,|j'ai décidé de le faire ici.
+{12945}{13027}- Je me suis toujours plu ici.|- Tu es rentré depuis quand?
+{13030}{13065}Bientôt un an.
+{13067}{13097}Ça te plaît?
+{13110}{13157}San Francisco a changé.
+{13180}{13272}Ce qui en faisait le charme|a tendance à disparaître.
+{13355}{13385}Comme tout ça?
+{13390}{13447}Oui, j'aurais aimé vivre à cette époque.
+{13450}{13512}Les couleurs, l'aventure, le pouvoir.
+{13527}{13552}La liberté.
+{13597}{13642}Tu ne devrais pas rester assis?
+{13645}{13685}Non, ça va.
+{13705}{13817}J'ai appris ce qui t'est arrivé|par les journaux. Et tu as démissionné.
+{13822}{13910}- C'est un handicap permanent?|- Non.
+{13917}{14022}Je ne peux simplement pas monter|un escalier raide ni aller sur des hauteurs,
+{14025}{14082}comme dans un bar panoramique.
+{14085}{14150}Mais il me reste plein de bars|au rez-de-chaussée.
+{14152}{14197}Tu veux boire un verre?
+{14210}{14250}Non.
+{14252}{14310}C'est un peu tôt pour moi.
+{14375}{14450}Je crois qu'on a fait le tour.
+{14470}{14542}Je ne suis pas marié,|je fréquente peu ceux de l'université.
+{14545}{14632}Je suis un policier à la retraite|et tu es dans la construction navale.
+{14680}{14725}Que voulais-tu me dire?
+{14737}{14842}Je t'ai demandé de venir|sachant que tu avais démissionné,
+{14855}{14957}mais sans savoir si tu accepterais|de reprendre du service pour moi.
+{14975}{15012}Je veux que tu suives ma femme.
+{15015}{15087}Ce n'est pas ça.|Nous filons le parfait amour.
+{15090}{15170}- Mais alors...|- J'ai peur qu'on ne lui veuille du mal.
+{15185}{15237}- Qui?|- Quelqu'un qui est mort.
+{15330}{15420}Scottie, crois-tu que quelqu'un du passé...
+{15437}{15545}qu'un mort puisse prendre possession|d'un vivant?
+{15552}{15577}Non.
+{15602}{15710}Si je te disais que c'est arrivé à ma femme,|que dirais-tu?
+{15720}{15817}Je te conseillerais de la faire examiner|par un psychiatre ou un psychologue,
+{15820}{15917}ou un neurologue... Ou tout simplement|par ton médecin de famille.
+{15930}{15982}Je te ferais examiner aussi.
+{16002}{16087}Alors tu ne peux pas m'aider.|Désolé de t'avoir dérangé.
+{16100}{16155}Merci d'être venu.
+{16215}{16292}Je ne voulais pas être aussi brusque.
+{16302}{16357}Je sais que ça paraît stupide.
+{16365}{16442}Et tu es toujours aussi terre-à-terre, hein?
+{16445}{16520}Tu n'as pas changé.|Tu crois que j'invente tout ça?
+{16547}{16572}Non.
+{16587}{16660}Je n'invente rien. J'en serais incapable.
+{16695}{16755}Par exemple, elle est en train de me parler.
+{16757}{16820}Et soudain, elle s'interrompt.
+{16842}{16915}Son regard s'assombrit et se fait vide.
+{16960}{17037}Elle est ailleurs, elle devient une inconnue.
+{17060}{17120}Je l'appelle, mais elle ne m'entend pas.
+{17140}{17197}Puis, elle pousse un long soupir|et elle revient.
+{17217}{17300}Elle me regarde, pleine de vie.|Elle ignore son absence.
+{17302}{17352}Ne peut rien m'en dire.
+{17410}{17455}Cela arrive souvent?
+{17455}{17510}De plus en plus, ces derniers temps.
+{17510}{17582}Et elle erre, Dieu sait où.
+{17622}{17670}Un jour, je l'ai suivie.
+{17672}{17762}Je l'ai vue sortir de l'appartement.|On aurait dit une inconnue.
+{17780}{17830}Même sa démarche était différente.
+{17852}{17892}Elle a pris sa voiture
+{17900}{17975}et est allée au Golden Gate Park.|Ça fait huit kilomètres.
+{18015}{18045}Au bord du lac,
+{18047}{18132}elle est restée à regarder les colonnes|sur l'autre rive.
+{18135}{18190}Tu sais, les "Piliers du Passé".
+{18200}{18265}Elle est restée là, immobile.
+{18277}{18335}J'ai dû retourner travailler.
+{18345}{18425}Le soir, je lui ai demandé|ce qu'elle avait fait.
+{18425}{18477}Elle a dit qu'elle était allée au parc
+{18480}{18530}et qu'elle s'était assise au bord du lac.
+{18577}{18602}Et?
+{18632}{18717}Le compteur de sa voiture indiquait|150 kilomètres de plus.
+{18735}{18775}Où est-elle allée?
+{18807}{18877}II faut que je sache|où elle va et ce qu'elle fait
+{18880}{18922}avant de la livrer aux médecins.
+{18925}{19010}- Leur en as-tu parlé?|- Oui, sans trop m'avancer.
+{19020}{19115}Je tiens à en savoir davantage|avant de la leur confier.
+{19122}{19197}Je vais mettre une agence de détectives|sur le coup.
+{19200}{19270}- On peut compter sur eux.|- C'est toi que je veux.
+{19280}{19327}Ce n'est pas mon créneau.
+{19345}{19405}Il me faut un ami en qui j'aie confiance.
+{19407}{19457}Tout cela me fait peur.
+{19465}{19557}Je suis à la retraite.|Je ne veux pas être impliqué là-dedans.
+{19560}{19632}Nous allons à une première à l'opéra,|ce soir.
+{19635}{19715}Nous dînerons chez Ernie's avant.|Viens, tu la verras.
+{31872}{31972}CARLOTTA VALDES|3 décembre 1831 - 5 mars 1857
+{34817}{34895}Excusez-moi,|la dame qui est assise là-bas...
+{34907}{34957}Quel est le portrait qu'elle regarde?
+{34960}{35070}Celui de Carlotta. Il est dans le catalogue.|Portrait de Carlotta.
+{35077}{35122}- Je peux?|- Oui.
+{37945}{37967}Oui?
+{38105}{38150}Puis-je vous aider?
+{38152}{38210}- Vous dirigez cet hôtel?|- Oui.
+{38217}{38287}Qui occupe la chambre au deuxième étage
+{38290}{38335}de ce côté?
+{38345}{38432}II m'est impossible de vous satisfaire.
+{38435}{38512}Nos clients comptent sur notre discrétion.
+{38515}{38577}Et je crois bien que c'est contraire à la loi.
+{38595}{38690}Je ne pense pas|que cela les importunerait, mais...
+{38727}{38780}Elle a fait quelque chose de mal?
+{38790}{38837}Répondez, s'il vous plaît.
+{38840}{38920}- Je vois mal cette charmante fille...|- Comment s'appelle-t-elle?
+{38925}{39025}- Mme Valdés. Une Espagnole.|- Carlotta Valdés?
+{39030}{39067}C'est ça.
+{39070}{39127}C'est joli, non? Pour un nom étranger.
+{39130}{39170}Depuis quand est-elle là?
+{39170}{39247}Cela doit faire deux semaines.|Elle doit me régler demain.
+{39260}{39302}Elle passe la nuit ici?
+{39305}{39385}Non, elle se contente de venir|deux ou trois fois par semaine.
+{39402}{39495}Je ne pose aucune question,|tant qu'ils se conduisent bien.
+{39517}{39572}Quand elle descendra, ne lui dites rien.
+{39575}{39630}Mais elle n'est pas venue aujourd'hui.
+{39642}{39692}Je l'ai vue entrer à l'instant.
+{39695}{39785}C'est impossible. Sans quoi, je l'aurais vue.
+{39790}{39897}Je n'ai pas bougé d'ici, je lustre|mes plantes avec de l'huile d'olive.
+{39935}{39967}Regardez.
+{39970}{40047}Vous voyez? Sa clé est là.
+{40055}{40130}- Pourriez-vous aller vérifier?|- Dans sa chambre?
+{40135}{40197}- Oui.|- Si vous y tenez.
+{40235}{40292}- Mais c'est idiot.|- Merci.
+{40727}{40765}Monsieur le policier?
+{40852}{40900}Souhaitez-vous venir voir?
+{41590}{41637}- Sa voiture a disparu.|- Quelle voiture?
+{42390}{42420}Midge...
+{42437}{42527}Selon toi, qui connaît bien l'histoire|de San Francisco?
+{42542}{42590}Quelle entrée en matière!
+{42592}{42650}Pas de: "Tu es en beauté."
+{42650}{42712}Juste: "Qui connaît l'histoire de San... "
+{42715}{42765}- Un verre?|- Non, merci.
+{42775}{42835}Alors, qui? Tu connais tout le monde.
+{42852}{42905}Le professeur Saunders, de Berkeley.
+{42910}{42955}Non, pas l'Histoire.
+{42957}{43052}La petite histoire,|les choses non officielles.
+{43102}{43190}Tu veux parler des beaux jours|de ce bon vieux San Francisco.
+{43200}{43275}Les potins croustillants du genre|"qui a tué qui sur la jetée
+{43275}{43337}- en août 1879? "|- Exactement.
+{43345}{43382}- Pop Leibel.|- Qui?
+{43387}{43457}Pop Leibel. Il tient la librairie Argosy.
+{43470}{43505}Que veux-tu savoir?
+{43507}{43605}Je veux savoir qui a tué qui|sur la jetée en août 1879.
+{43640}{43720}Mais tu n'es plus policier. Alors pourquoi?
+{43720}{43772}- Tu le connais bien?|- Qui?
+{43780}{43822}- Pop Leibel.|- Oui.
+{43837}{43892}Viens, je veux que tu me le présentes.
+{43897}{43962}- Mets ton chapeau.|- Je n'en ai pas besoin.
+{44022}{44075}Vas-y, raconte.
+{44180}{44215}Attends-moi!
+{44300}{44322}LIBRAIRIE ARGOSY
+{44395}{44435}Oui, je me souviens.
+{44457}{44487}Carlotta.
+{44505}{44550}La ravissante Carlotta.
+{44575}{44612}La triste Carlotta.
+{44620}{44695}Quel est le rapport entre une vieille maison|sur Eddy Street
+{44697}{44740}et Carlotta Valdés?
+{44742}{44847}C'était la sienne. Elle a été bâtie pour elle|il y a très longtemps.
+{44850}{44895}- Par qui?|- Par...
+{45030}{45097}Non, le nom m'échappe.
+{45105}{45172}Un homme riche et puissant.
+{45192}{45230}- Une cigarette?|- Non.
+{45232}{45280}- Mademoiselle?|- Non, merci.
+{45312}{45362}Son histoire n'a rien d'original.
+{45397}{45482}Elle venait d'une petite communauté|du sud de la ville.
+{45530}{45587}Elevée par des religieuses espagnoles.
+{45602}{45657}Jeune... très jeune.
+{45690}{45815}Elle dansait et chantait dans un cabaret|quand cet homme l'a découverte.
+{45840}{45880}Il l'a emmenée...
+{45902}{46000}et lui a fait construire la grande maison|dans le quartier ouest.
+{46045}{46072}Et...
+{46100}{46150}Il y a eu un enfant.
+{46162}{46240}C'est ça. L'enfant. L'enfant.
+{46275}{46377}Je ne saurais vous dire|combien de temps cela a duré,
+{46387}{46445}ni s'ils étaient heureux,
+{46457}{46507}mais il a fini par la chasser.
+{46532}{46610}Il n'avait pas d'autre enfant.|Sa femme ne pouvait en avoir.
+{46627}{46720}Alors, il a gardé l'enfant et l'a chassée.
+{46760}{46830}A l'époque, les hommes pouvaient|se le permettre.
+{46840}{46900}Ils jouissaient d'une grande liberté.
+{46930}{46995}C'est ainsi qu'elle devint la triste Carlotta.
+{47030}{47080}Seule dans sa grande demeure...
+{47092}{47142}errant dans les rues, seule.
+{47155}{47252}Ses vêtements devinrent vieux,|sales et déchirés.
+{47305}{47382}Et, Carlotta la folle
+{47420}{47485}arrêtait les gens dans la rue|pour leur demander:
+{47510}{47552}"Où est mon enfant?
+{47580}{47627}"Avez-vous vu mon enfant? "
+{47662}{47717}- La pauvre!|- Et elle est morte.
+{47740}{47775}- Oui.|- Comment?
+{47805}{47845}De ses propres mains.
+{47925}{47977}Une histoire tellement banale...
+{47992}{48040}- Merci beaucoup.|- De rien.
+{48040}{48097}- Vraiment. Au revoir.|- Au revoir.
+{48110}{48185}Attends! Au revoir, Pop. Merci beaucoup.
+{48367}{48432}- Et maintenant, ma récompense.|- Pour quoi?
+{48435}{48530}- Je t'ai amené ici. Raconte-moi.|- Il n'y a rien à raconter.
+{48532}{48627}- Raconte ou c'est le corset.|- Je te raccompagne.
+{48882}{48917}On y est.
+{48922}{48987}- Tu ne m'as pas tout dit.|- Tu en sais bien assez.
+{48990}{49072}- Les noms de l'homme et de la femme?|- Descends. Je suis pressé.
+{49075}{49157}Je sais. C'est celui qui t'a téléphoné,|ton copain Elster.
+{49160}{49190}Midge, descends.
+{49192}{49277}L'idée, c'est que Carlotta la folle|est revenue de l'au-delà
+{49280}{49335}et qu'elle possède la femme d'Elster.
+{49357}{49407}Johnny, enfin voyons!
+{49410}{49485}Je ne te dis pas ce que je crois,|mais ce qu'il croit, lui.
+{49487}{49550}- Qu'est-ce que tu crois?|- Eh bien...
+{49565}{49612}- Elle est belle?|- Carlotta?
+{49625}{49677}Mais non, la femme d'Elster.
+{49740}{49827}Oui. On peut dire qu'elle est...
+{49830}{49907}Je vais aller voir ce portrait. Au revoir.
+{49915}{49967}- Midge...|- Au revoir!
+{50710}{50772}Bravo, tu as fait du bon boulot.
+{50775}{50820}- C'est Carlotta Valdés.|- Oui.
+{50822}{50882}Tu ne m'as pas tout dit.
+{50890}{50972}- J'ignorais où elle te conduirait.|- Mais tu étais au courant.
+{51002}{51095}Tu as remarqué sa coiffure?|II y a autre chose.
+{51115}{51220}Ma femme, Madeleine, possède des bijoux|qui ont appartenu à Carlotta.
+{51222}{51265}Elle en a hérité.
+{51270}{51332}Elle ne les portait jamais,|les trouvant démodés.
+{51335}{51367}Plus maintenant.
+{51387}{51472}Lorsqu'elle est seule,|elle les sort et les regarde...
+{51480}{51537}Elle les observe avec tendresse,
+{51572}{51650}puis elle les met|et se regarde dans le miroir.
+{51655}{51745}La voilà dans cet autre monde,|elle devient quelqu'un d'autre.
+{51765}{51857}Qui était Carlotta Valdés?|La grand-mère de ta femme?
+{51875}{51910}Son arrière-grand-mère.
+{51920}{51972}L'enfant qu'on lui a enlevé,
+{51975}{52085}qui l'a rendue folle et l'a menée au suicide,|était la grand-mère de Madeleine.
+{52097}{52182}Et l'hôtel McKittrick|est l'ancienne demeure des Valdés.
+{52227}{52272}Tout s'explique.
+{52275}{52377}N'importe qui deviendrait obsédé|avec un tel passé.
+{52405}{52457}Elle ignore tout de Carlotta Valdés.
+{52475}{52540}Elle ignore tout de la tombe?
+{52542}{52595}Et de la vieille maison sur Eddy Street?
+{52610}{52682}Et du portrait au musée?
+{52697}{52762}- Exact.|- Quand elle se rend sur ces lieux...
+{52765}{52812}Elle n'est plus ma femme.
+{52855}{52917}Comment sais-tu toutes ces choses|qu'elle ignore?
+{52922}{52997}Sa mère m'a parlé avant de mourir.
+{53000}{53045}Et j'ai fait des recoupements.
+{53047}{53125}- Pourquoi n'avoir rien dit à sa fille?|- Elle avait peur.
+{53145}{53217}Sa grand-mère était folle et s'est suicidée.
+{53237}{53282}Madeleine a son sang dans les veines.
+{53442}{53482}J'en ai bien besoin.
+{58470}{58502}Madeleine.
+{60050}{60075}Oui?
+{60130}{60172}Non, tout va bien.
+{60187}{60235}Je te rappelle.
+{60387}{60415}Ça va?
+{60530}{60570}Prenez ça.
+{61422}{61505}Venez près du feu, il y fait bon.
+{61622}{61667}Pourquoi suis-je ici?
+{61700}{61737}Que s'est-il passé?
+{61780}{61867}Eh bien... vous êtes tombée|dans la Baie de San Francisco.
+{61920}{62005}J'ai séché vos cheveux|du mieux que j'ai pu.
+{62010}{62095}Vos affaires sont dans la cuisine,|elles seront bientôt sèches.
+{62105}{62152}Venez près du feu.
+{62350}{62400}Je vous donne des coussins.
+{62487}{62517}Voilà.
+{62717}{62770}Voulez-vous du café?
+{62835}{62917}Ça vous ferait du bien.|Préférez-vous de l'alcool?
+{63010}{63080}Je suis tombée dans la Baie|et vous m'avez sauvée?
+{63082}{63117}Tout à fait.
+{63137}{63212}- Merci.|- Vous ne vous en souvenez pas?
+{63242}{63272}Non...
+{63325}{63380}Vous vous rappelez où vous étiez?
+{63435}{63505}Oui. Bien sûr que je m'en souviens.
+{63572}{63652}J'ai dû avoir un étourdissement|et m'évanouir.
+{63655}{63692}Où étiez-vous?
+{63710}{63792}A Old Fort Point. Près du Presidio.
+{63840}{63900}Je m'en souviens. J'y vais souvent.
+{63902}{63950}Pourquoi? Pourquoi y allez-vous?
+{63970}{64045}J'aime cet endroit. C'est magnifique.
+{64070}{64115}Surtout au coucher du soleil.
+{64170}{64215}Merci pour le feu.
+{64217}{64262}Où étiez-vous, avant?
+{64272}{64327}- Quand?|- Cet après-midi.
+{64377}{64410}Je me suis promenée.
+{64415}{64487}Oui, mais où? Où étiez-vous juste avant?
+{64562}{64605}J'ai fait des courses en ville.
+{64660}{64717}Tenez, prenez du café.
+{64720}{64767}Il est encore chaud.
+{64822}{64880}Vos questions sont très directes.
+{64882}{64945}Pardon. Je ne voulais pas être indiscret.
+{64977}{65035}Vous ne l'êtes pas. Mais vous êtes direct.
+{65125}{65200}Et vous, que faisiez-vous à Old Fort Point?
+{65230}{65275}Je me promenais.
+{65290}{65340}- Cela vous plaît aussi?|- Oui.
+{65372}{65425}Et juste avant, vous étiez où?
+{65427}{65520}Au Palais de la Légion d'honneur,|au musée.
+{65537}{65602}C'est un bel endroit, n'est-ce pas?
+{65612}{65702}Je n'y suis jamais entrée,|mais j'aime beaucoup l'extérieur.
+{65855}{65925}Heureusement|que vous vous promeniez par là!
+{65932}{65965}Merci.
+{65967}{66012}Je vous ai causé du souci.
+{66015}{66055}Pas du tout.
+{66137}{66170}Quand vous...
+{66280}{66325}J'avais des épingles.
+{66327}{66400}Les épingles... elles sont là.|Je vous les apporte.
+{66402}{66445}Et aussi mon sac.
+{66572}{66620}- Tenez.|- Merci.
+{66692}{66752}Vous n'auriez pas dû m'amener ici.
+{66757}{66805}J'ignorais votre adresse.
+{66837}{66932}Vous auriez pu regarder dans ma voiture.|Mais vous ne la connaissiez pas.
+{66940}{67005}Si. Elle est là, devant la maison.
+{67007}{67082}Mais j'ai pensé que vous préféreriez|éviter de rentrer ainsi.
+{67090}{67120}Vous avez raison.
+{67122}{67205}Et si vous m'aviez ramenée chez moi,|je ne vous aurais pas rencontré.
+{67225}{67317}Merci. Mais nous ne nous sommes pas|présentés.
+{67325}{67405}- Madeleine Elster.|- John Ferguson.
+{67407}{67500}Voilà un nom solide.|Comment vous appellent vos amis?
+{67520}{67555}John, en général.
+{67562}{67637}Mes vieux amis m'appellent John,|les autres Scottie.
+{67657}{67700}Et moi, M.Ferguson.
+{67702}{67757}Oh, là! Pour rien au monde.
+{67785}{67877}Après ce qui s'est passé aujourd'hui,|vous pouvez m'appeler Scottie.
+{67880}{67917}Voire John.
+{67930}{67965}Je préfère John.
+{68052}{68122}C'est fait. Que faites-vous dans la vie?
+{68165}{68200}Je flâne.
+{68202}{68280}Saine occupation. Et vous vivez seul ici?
+{68330}{68400}- On ne devrait jamais vivre seul.|- Certains préfèrent.
+{68452}{68490}C'est une erreur.
+{68567}{68605}Je suis mariée, vous savez.
+{68710}{68810}Pourriez-vous me dire|si cela vous est déjà arrivé?
+{68832}{68857}Quoi?
+{68875}{68930}De tomber dans la Baie de San Francisco.
+{69000}{69055}Non, cela ne m'est jamais arrivé.
+{69065}{69157}Je suis tombée de canot dans un lac|quand j'étais petite.
+{69170}{69275}Je suis même tombée dans une rivière|en sautant de pierre en pierre.
+{69285}{69357}Mais jamais dans la Baie de San Francisco.
+{69387}{69430}Et vous?
+{69435}{69497}Non, c'est une première pour moi aussi.
+{69560}{69615}Je vais vous en chercher un autre.
+{69970}{70035}- Allô?|- Que se passe-t-il? Elle n'est pas rentrée.
+{70035}{70125}Elle va bien. Elle est toujours ici.|Je vais la ramener.
+{70140}{70197}- Qu'est-il arrivé ?|- Elle a sauté dans la Baie.
+{70272}{70327}- Allô?|- Elle est blessée ?
+{70330}{70395}Non, elle va bien. Ne t'inquiète pas.
+{70395}{70457}Mais elle ne sait pas. Tu me comprends?
+{70462}{70517}Elle ne sait pas ce qui s'est passé.
+{70595}{70647}Scottie, Madeleine a 26 ans.
+{70675}{70752}Carlotta Valdés s'est suicidée à 26 ans.
+{70787}{70840}Attends.
+{71550}{71620}Alors, Johnny, c'était un fantôme, ça?
+{71647}{71680}C'était bien?
+{75265}{75305}Une lettre pour moi?
+{75442}{75485}Oui. Bonjour.
+{75505}{75597}Vous m'avez inquiété hier.|Vous n'auriez pas dû vous sauver ainsi.
+{75605}{75660}Je me suis sentie si stupide.
+{75662}{75717}Je voulais vous raccompagner. Ça va?
+{75720}{75782}Oui, je vais bien. Pas de suites.
+{75832}{75887}L'eau était froide, non?
+{75890}{75967}- C'est vrai.|- Je ne sais pas ce qui m'a pris.
+{75980}{76020}Vous avez été si gentil.
+{76055}{76135}C'est une lettre pour vous remercier|et m'excuser.
+{76137}{76210}- Vous n'avez pas à vous excuser.|- Oh, mais si.
+{76212}{76275}Tout cela a dû être bien embarrassant|pour vous.
+{76277}{76325}Pas du tout. J'ai été ravi de...
+{76370}{76405}vous parler.
+{76460}{76507}J'ai été ravie de vous parler.
+{76607}{76647}Je vais voir mon courrier.
+{76690}{76767}- Voulez-vous un café?|- Non, merci.
+{76842}{76925}J'ignorais votre adresse.|Mais j'avais un point de repère.
+{76927}{76995}La tour Coit. Elle m'a menée droit à vous.
+{76997}{77072}C'est la première fois que je la trouve utile.
+{77175}{77230}- Je l'espère aussi.|- Quoi?
+{77247}{77302}- Qu'on se reverra.|- C'est fait.
+{77385}{77417}Au revoir.
+{77805}{77847}Où allez-vous?
+{77862}{77887}Je ne sais pas.
+{77890}{77925}- Faire des courses?|- Non.
+{77935}{77982}Un endroit précis?
+{78015}{78067}J'avais l'intention de flâner.
+{78092}{78145}C'était aussi mon intention.
+{78170}{78272}C'est vrai. J'oubliais...|C'est votre occupation.
+{78280}{78345}Ce serait dommage que nous...
+{78345}{78390}Flânions séparément?
+{78402}{78450}On ne peut flâner qu'en solitaire.
+{78452}{78510}A deux, on sait toujours où on va.
+{78512}{78575}Ce n'est pas toujours vrai.
+{78595}{78672}- Votre porte est ouverte.|- J'arrive.
+{79725}{79752}Il est vieux?
+{79757}{79812}Au moins 2000 ans.
+{79832}{79887}Ce qu'il y a de plus vieux au monde?
+{79920}{79977}- Vous n'étiez jamais venue ici?|- Non.
+{79992}{80032}A quoi pensez-vous?
+{80047}{80110}A tous ces gens|qui sont nés et sont morts...
+{80112}{80152}tandis que ces arbres survivaient.
+{80155}{80257}Leur vrai nom est: Sequoia sempervirens.|"Toujours vivants, toujours verdoyants."
+{80272}{80320}- Je ne les aime pas.|- Pourquoi?
+{80342}{80380}Ils me renvoient à ma mort.
+{80765}{80857}C'est la coupe transversale|d'un vieux spécimen.
+{81050}{81102}LES CERCLES INDIQUENT|LA LARGEUR DE L'ARBRE
+{81105}{81140}AU MOMENT DES ÉVÉNEMENTS
+{81142}{81175}1215 LA GRANDE CHARTE
+{81177}{81205}1066 BATAILLE D'HASTINGS
+{81207}{81232}909 après JC.
+{81305}{81340}1492 DÉCOUVERTE DE L'AMÉRIQUE
+{81340}{81380}1776 DÉCLARATION D'INDEPENDANCE
+{81382}{81407}1930 ARBRE ABATTU
+{81507}{81562}Je suis née quelque part par là...
+{81620}{81660}et morte ici.
+{81685}{81740}Cela n'a représenté qu'un instant pour toi.
+{81757}{81800}Tu n'en gardes aucune trace.
+{83205}{83257}Où êtes-vous maintenant?
+{83285}{83330}- Ici, avec vous.|- Où?
+{83357}{83430}- Les grands arbres...|- Etes-vous déjà venue ici?
+{83440}{83472}- Oui.|- Quand?
+{83522}{83562}Quand êtes-vous née?
+{83582}{83622}- Il y a longtemps.|- Où?
+{83640}{83682}Quand? Dites-le-moi.
+{83692}{83730}- Dites-le-moi.|- Non!
+{83732}{83807}- Où allez-vous? Vers quoi?|- Je ne peux pas le dire.
+{83810}{83880}Vous avez sauté dans la Baie|sans savoir où vous étiez.
+{83882}{83960}- Vous disiez que j'étais tombée.|- Pourquoi avez-vous sauté?
+{83962}{84050}- Je ne peux le dire.|- Quelle force vous y a poussée?
+{84062}{84097}- Arrêtez.|- Quoi?
+{84102}{84145}Ne me le demandez pas.
+{84190}{84235}Je veux partir d'ici.
+{84255}{84300}Je vous ramène chez vous?
+{84345}{84390}Emmenez-moi à la lumière.
+{84407}{84490}Jurez-moi de ne plus rien me demander.|Jurez-le-moi.
+{85322}{85360}Pourquoi courez-vous?
+{85370}{85420}Je suis responsable de vous désormais.
+{85435}{85502}Les Chinois disent que|lorsque l'on a sauvé quelqu'un,
+{85505}{85582}on en est responsable pour toujours.|C'est mon cas.
+{85590}{85627}Il faut que je sache.
+{85655}{85707}J'en sais si peu.
+{85810}{85915}C'est comme si je marchais|dans un long couloir
+{85960}{86065}autrefois orné d'un miroir,|dont il ne reste que des fragments.
+{86075}{86155}Lorsque j'arrive au bout du couloir,
+{86160}{86215}il n'y a que des ténèbres.
+{86255}{86322}Et je sais que lorsque je parviendrai|à ces ténèbres,
+{86380}{86417}je mourrai.
+{86465}{86557}Je ne suis jamais allée au bout.|Je m'arrête avant.
+{86590}{86635}- Sauf une fois.|- Hier?
+{86660}{86752}Et vous ignoriez ce que vous faisiez|jusqu'à votre réveil chez moi.
+{86757}{86800}Vous ignoriez où vous étiez.
+{86800}{86890}Mais vous vous souvenez|des fragments du miroir.
+{86892}{86940}- Vaguement.|- De quoi d'autre?
+{86942}{86990}II y a une pièce...
+{87007}{87052}j'y suis seule.
+{87057}{87110}- Toujours seule.|- Et puis?
+{87135}{87180}- Une tombe.|- Où?
+{87197}{87270}Je ne sais pas. C'est une tombe ouverte.
+{87305}{87377}Je suis près de la pierre tombale,|je regarde à l'intérieur.
+{87392}{87442}- C'est ma tombe.|- Comment le savez-vous?
+{87445}{87532}- Je le sais.|- Y a-t-il un nom dessus?
+{87552}{87577}Non.
+{87597}{87680}Non, elle est neuve, propre... Elle attend.
+{87722}{87755}Quoi d'autre?
+{87770}{87822}Ça, je crois que c'est un rêve.
+{87867}{87972}Il y a une tour, une cloche|et un jardin en contrebas.
+{87995}{88045}On dirait l'Espagne...
+{88060}{88102}Un village espagnol.
+{88120}{88172}Puis ça disparaît.
+{88175}{88220}Et un portrait?
+{88235}{88282}- Vous voyez un portrait?|- Non.
+{88287}{88360}Si seulement je trouvais la clé, l'origine...
+{88365}{88407}Je reconstituerais tout et...
+{88410}{88455}Tout s'expliquerait?
+{88490}{88550}J'ai une explication.
+{88582}{88662}Si je suis folle, cela expliquerait tout, non?
+{88912}{88990}Je ne suis pas folle!|Je ne veux pas mourir.
+{89010}{89087}Une femme en moi dit que je dois mourir.
+{89090}{89137}Ne me laissez pas partir.
+{89150}{89210}Je suis là. Je vous retiens.
+{89232}{89267}J'ai si peur.
+{89512}{89550}Ne m'abandonnez pas.
+{89565}{89615}- Restez avec moi.|- Toujours.
+{90270}{90307}Bonjour, Johnny.
+{90340}{90405}- Tu as eu mon mot?|- Tout à fait.
+{90430}{90475}Je te sers un verre.
+{90515}{90602}Depuis quand glisses-tu des mots|sous les portes des hommes?
+{90610}{90672}Depuis que je ne peux plus les joindre|au téléphone.
+{90675}{90762}Pour quelqu'un qui n'a rien à faire,|tu es bien occupé.
+{90765}{90810}Où passes-tu ton temps?
+{90822}{90852}Je flâne.
+{90892}{90940}- Où?|- Partout.
+{91075}{91132}Pourquoi ce besoin impérieux de me voir?
+{91137}{91207}Tout ce que je t'ai écrit, c'est: "Où es-tu? "
+{91212}{91272}Cela n'a rien d'impérieux.
+{91277}{91335}J'ai senti qu'il y avait autre chose.
+{91365}{91457}Je me disais que si je t'offrais|à boire et à dîner,
+{91460}{91520}tu m'emmènerais peut-être au cinéma.
+{91522}{91602}C'est raisonnable.|De quoi parlerons-nous au dîner?
+{91645}{91677}De tout et de rien.
+{91695}{91740}De ce que je deviens?
+{91755}{91792}Si tu veux.
+{91795}{91860}On n'abordera que les sujets|qui te conviennent.
+{91865}{91897}Bien sûr.
+{91970}{92017}Que deviens-tu?
+{92050}{92077}Je flâne.
+{92140}{92207}Et toi, que deviens-tu?
+{92217}{92270}Tout va merveilleusement bien.
+{92272}{92360}- Je me suis remise à la peinture.|- Bravo.
+{92365}{92447}Tu perdais ton temps|dans le sous-vêtement.
+{92450}{92532}Il faut bien vivre.|Mais je suis très emballée par ce projet.
+{92537}{92585}C'est quoi? Une nature morte?
+{92595}{92647}Non, pas vraiment.
+{92680}{92712}Tu veux voir?
+{92742}{92800}J'ai l'intention de te le donner.
+{93167}{93212}Ce n'est pas drôle.
+{93292}{93332}Je voulais juste...
+{93425}{93482}On remet le cinéma à un autre soir.
+{93810}{93857}Marjorie Wood, ce que tu es bête!
+{93887}{93915}Idiote!
+{95120}{95157}Madeleine, qu'y a-t-il?
+{95160}{95245}J'aurais dû appeler, mais je voulais te voir,|être avec toi.
+{95250}{95315}- Qu'y a-t-il?|- J'ai fait ce rêve.
+{95317}{95397}- Je l'ai refait.|- Tout va s'arranger.
+{95417}{95490}Ça va aller. Je te sers un cognac.
+{95505}{95542}Avale ça.
+{95557}{95600}Comme un médicament.
+{95645}{95675}Ecoute-moi.
+{95687}{95765}C'était un rêve. Tu es éveillée.|Tout va bien.
+{95802}{95842}Tu me le racontes?
+{95872}{95965}J'ai revu la tour, la cloche|et le vieux village espagnol.
+{95967}{96040}- Oui?|- Ça n'avait jamais été aussi clair.
+{96050}{96077}Décris-le.
+{96100}{96160}Il y avait une pelouse bordée d'arbres
+{96162}{96235}et une vieille église espagnole, blanche,|avec un cloître.
+{96255}{96322}En face, il y avait|une grande maison en bois
+{96325}{96395}avec un porche et un balcon|au-dessus d'un petit jardin.
+{96397}{96487}A côté, il y avait une écurie|avec plusieurs attelages.
+{96490}{96517}Continue.
+{96520}{96600}Au bout de la pelouse,|il y avait une maison blanche
+{96602}{96652}avec un ravissant poivrier.
+{96655}{96730}Et un vieil hôtel en bois,|style californien d'antan?
+{96735}{96840}Et un saloon? Sombre, bas de plafond,|avec des lampes à huile?
+{96865}{96917}- Oui.|- Tout ça existe.
+{96945}{96977}Ce n'est pas un rêve.
+{97030}{97097}Tu y es allée. Tu l'as vu.
+{97142}{97165}Non, jamais.
+{97167}{97260}A 160 kilomètres de San Francisco,|il y a une vieille mission espagnole,
+{97262}{97330}San Juan Bautista, qui est restée
+{97332}{97397}telle qu'elle était il y a 100 ans.|C'est un musée.
+{97400}{97462}Essaie de te souvenir, ma chérie.
+{97485}{97572}- Tu y es déjà allée. Tu as déjà vu ça.|- Non, jamais.
+{97575}{97635}- Qu'est-ce que ça veut dire?|- Concentre-toi.
+{97635}{97700}Parle-moi de ton rêve.|Qu'est-ce qui t'a fait peur?
+{97710}{97782}J'étais seule sur la pelouse,|à chercher quelque chose.
+{97800}{97870}Puis je me suis dirigée vers l'église...
+{97897}{97990}Mais tout s'est obscurci.|J'étais seule, dans le noir,
+{98005}{98105}attirée par les ténèbres,|et j'ai lutté pour me réveiller.
+{98135}{98192}Ça va aller, maintenant.
+{98197}{98257}J'ai un point de départ.
+{98260}{98315}Je t'emmène à la mission cet après-midi.
+{98315}{98380}Et là, tu te souviendras|de la fois où tu l'as vue.
+{98382}{98460}Et ce cauchemar sera fini.|Je le détruirai, je te le promets.
+{98480}{98510}D'accord?
+{98562}{98650}- Viens, je te raccompagne.|- Non, ce n'est pas la peine.
+{98680}{98727}Reviens vers midi.
+{100300}{100330}ÉCURIES
+{100617}{100700}Madeleine, sais-tu où tu es?
+{100752}{100810}- Ici, avec toi.|- Et tout ceci existe!
+{100820}{100877}Ce n'est pas simplement|comme il y a 100 ans
+{100880}{100985}ou l'an dernier ou il y a six mois,|ou quand tu y es venue.
+{100987}{101055}Rappelle-toi de la fois où tu étais ici.
+{101110}{101172}Il y avait moins d'attelages.
+{101210}{101267}Il y avait des chevaux dans les stalles.
+{101295}{101347}Un cheval bai, deux noirs et un gris.
+{101402}{101452}C'était notre endroit préféré,
+{101497}{101555}mais on n'avait pas le droit d'y jouer.
+{101557}{101640}Et sœur Teresa nous grondait.
+{101742}{101810}Regarde... Le voilà, ton cheval gris.
+{101862}{101965}Il a juste besoin d'un peu d'aide|pour entrer et sortir de sa stalle.
+{101965}{102035}Tu vois, il y a une réponse à tout.
+{102140}{102200}Madeleine... Essaie.
+{102330}{102365}Pour moi.
+{102857}{102922}- Je t'aime, Madeleine.|- Moi aussi.
+{102932}{102997}- C'est trop tard.|- Non, nous sommes ensemble.
+{103002}{103070}C'est trop tard, je dois faire quelque chose.
+{103072}{103127}Non, tu ne dois rien faire.
+{103250}{103315}Aucune femme n'est en toi.|Tu ne crains rien avec moi.
+{103475}{103515}Non. Il est trop tard.
+{103817}{103912}Ce n'est pas juste. Il est trop tard.|Ça ne devait pas se passer comme ça.
+{103915}{103980}Mais si. Nous nous aimons,|c'est ce qui compte.
+{103980}{104037}- Lâche-moi!|- Ecoute-moi.
+{104192}{104245}- Tu le crois, que je t'aime?|- Oui.
+{104290}{104345}Si tu me perds, tu sauras...
+{104345}{104410}que je t'aimais|et que je voulais que ça dure.
+{104415}{104450}Je ne te perdrai pas.
+{104515}{104585}- Laisse-moi entrer dans l'église, seule.|- Pourquoi?
+{108595}{108717}M.Elster, se doutant de la fragilité mentale|de son épouse,
+{108740}{108845}prit la précaution de la faire surveiller|par M.Ferguson
+{108850}{108895}afin que rien ne lui arrive.
+{108902}{108960}Vous savez que M.Elster était disposé
+{108962}{109022}à faire entrer sa femme en clinique
+{109025}{109132}où elle aurait reçu les soins appropriés|de spécialistes.
+{109150}{109235}M.Ferguson, un ancien policier, semblait
+{109240}{109322}la personne idéale pour lui servir|de gardien et de protecteur.
+{109330}{109400}Comme vous le savez,|ce choix fut malheureux.
+{109402}{109495}Cependant, vous conviendrez|que rien ne saurait être reproché au mari.
+{109497}{109557}S'il a tardé à se tourner vers les médecins,
+{109560}{109652}c'est parce qu'il souhaitait en savoir plus|sur son comportement
+{109655}{109717}et attendait ces informations|de M.Ferguson.
+{109720}{109785}Il avait tout fait pour protéger son épouse.
+{109785}{109857}Il ne pouvait se douter que la faiblesse|de M.Ferguson,
+{109860}{109902}sujet au vertige,
+{109907}{109975}le rendrait incapable d'intervenir|au moment opportun.
+{109977}{110020}Quant à M.Ferguson,
+{110042}{110102}vous avez pu entendre son ancien chef,
+{110107}{110197}le commissaire Hansen de San Francisco,
+{110200}{110265}répondre de son caractère|et de ses compétences.
+{110272}{110330}Il en a fait un très bel éloge.
+{110335}{110407}Le fait que lors de circonstances analogues
+{110410}{110517}M.Ferguson ait laissé tomber dans le vide|un de ses collègues,
+{110520}{110600}a été qualifié par le commissaire Hansen|de "malheureux accident".
+{110650}{110707}Il faut bien entendu féliciter M.Ferguson
+{110710}{110772}d'avoir auparavant sauvé cette femme
+{110780}{110882}lorsque, dans un accès de folie,|elle s'est jetée dans la Baie.
+{110900}{110985}Il est à déplorer que,|connaissant ses tendances suicidaires,
+{111007}{111080}il n'ait pas été aussi héroïque|la seconde fois.
+{111145}{111245}Mais nous ne sommes pas là|pour juger son manque d'initiative.
+{111250}{111290}Il n'a rien fait...
+{111295}{111385}et la loi ne se prononce pas|sur ce qui est inachevé.
+{111387}{111512}De même, son étrange comportement|après la chute du corps
+{111535}{111592}ne doit pas vous influencer.
+{111610}{111692}Il n'est pas resté sur les lieux du drame.|Il est parti.
+{111710}{111797}Il prétend avoir perdu|toute conscience des événements
+{111800}{111912}jusqu'à son retour chez lui,|plusieurs heures plus tard.
+{111917}{111975}Libre à vous d'y croire.
+{112017}{112115}Ou vous pouvez croire que, ayant déjà|indirectement causé la mort de quelqu'un,
+{112130}{112212}il n'a pu affronter|les conséquences de sa faiblesse,
+{112215}{112250}et s'est enfui.
+{112307}{112375}Vous n'en tiendrez pas compte.
+{112385}{112462}C'est une affaire entre lui et sa conscience.
+{112510}{112620}Connaissant l'état de santé mentale|de Madeleine Elster,
+{112622}{112715}les circonstances de sa mort|et les résultats de l'autopsie
+{112717}{112767}confirmant la cause du décès,
+{112770}{112837}vous n'aurez aucune difficulté|à prononcer votre verdict.
+{112840}{112900}Messieurs, vous pouvez vous retirer.
+{112970}{113012}Un instant, M.Jones.
+{113537}{113597}- Notre verdict.|- Merci.
+{113680}{113755}"Le jury déclare que Madeleine Elster|s'est suicidée
+{113757}{113805}"lors d'une crise de démence."
+{113825}{113895}Dont acte. L'affaire est close.
+{114045}{114115}- Allons-y.|- Puis-je lui parler?
+{114117}{114147}Bien sûr.
+{114307}{114362}Désolé, c'était dur.
+{114370}{114430}Il n'avait aucun droit de te parler ainsi.
+{114432}{114522}C'est de ma faute.|Je n'aurais pas dû t'impliquer dans tout ça.
+{114530}{114600}Non, ne me dis rien.
+{114607}{114667}Je m'en vais. Pour toujours.
+{114670}{114710}Je ne peux pas rester ici.
+{114722}{114792}Je vais régler ses affaires et les miennes,
+{114805}{114852}et partir le plus loin possible.
+{114870}{114910}Peut-être en Europe.
+{114927}{114987}Je ne reviendrai sans doute jamais.
+{115010}{115050}Au revoir, Scottie.
+{115090}{115165}Si je peux faire quoi que ce soit|avant mon départ...
+{115205}{115262}Ils ne pouvaient pas comprendre.
+{115292}{115352}Nous savons tous deux|qui a tué Madeleine.
+{115537}{115590}Viens, allons-nous-en.
+{118665}{118747}C'est du Mozart, Wolfgang Amadeus.
+{118785}{118860}La dame qui pratique la musicothérapie...
+{118865}{118927}a dit que c'était Mozart qu'il te fallait
+{118930}{118992}afin de balayer tout cela.
+{119052}{119100}C'est ce qu'elle a dit.
+{119180}{119255}Tu verrais, c'est très bien organisé:
+{119257}{119362}Ils ont les musiques pour les dipsomanes,|celles pour les mélancoliques,
+{119365}{119420}et aussi pour les hypochondriaques.
+{119447}{119530}Je ne sais pas ce que ça donnerait|si leurs dossiers étaient mélangés.
+{119780}{119867}Je t'en ai apporté d'autres,|tu n'as qu'à choisir.
+{119875}{119925}Ça s'arrête tout seul.
+{120127}{120167}Johnny, fais un effort.
+{120182}{120215}Allez.
+{120227}{120292}Tu n'es pas perdu. Maman est là.
+{120405}{120430}C'est l'heure?
+{120525}{120570}Je reviendrai, John.
+{120587}{120640}Tu veux que je l'arrête?
+{121190}{121252}Tu ne sais même pas que je suis là, hein?
+{121342}{121377}Mais je suis là.
+{121732}{121787}Puis-je voir le médecin?
+{121817}{121857}Mademoiselle Wood.
+{121900}{121947}Veuillez entrer.
+{121967}{122005}Oui, Mlle Wood?
+{122015}{122107}Combien de temps faudra-t-il|pour le sortir de là?
+{122112}{122190}C'est difficile à dire. Au moins six mois.|Peut-être un an.
+{122200}{122240}Tout dépend de lui.
+{122242}{122292}- Il ne veut pas parler.|- Non.
+{122310}{122372}Il souffre de mélancolie aiguë
+{122375}{122420}et d'un complexe de culpabilité.
+{122422}{122482}Il se reproche ce qui est arrivé|à cette femme.
+{122485}{122547}Nous en savons peu sur ce qui s'est passé.
+{122562}{122637}Je peux vous dire une chose:|Il en était amoureux.
+{122662}{122725}Cela complique les choses, n'est-ce pas?
+{122740}{122815}Je vais les compliquer davantage:|Il l'est toujours.
+{122840}{122880}Vous voulez que je vous dise?
+{122882}{122952}Je ne crois pas que Mozart arrangera ça.
+{125117}{125187}- Où avez-vous eu cette voiture?|- Pardon?
+{125200}{125270}Je l'ai achetée à un monsieur|qui habitait ici.
+{125270}{125350}M.Gavin Elster. Je la lui ai achetée|quand il a déménagé.
+{125372}{125420}Vous les connaissiez, lui et sa femme!
+{125427}{125472}La pauvre. Je ne la connaissais pas.
+{125475}{125550}- On dit qu'elle s'est...|- Veuillez m'excuser.
+{126075}{126125}Bonsoir.
+{126752}{126792}Un whisky-soda.
+{130610}{130700}- Qu'y a-t-il?|- Puis-je vous poser quelques questions?
+{130705}{130777}- Pour quoi faire? Qui êtes-vous?|- John Ferguson.
+{130782}{130835}C'est pour un sondage?
+{130855}{130925}- Non, juste quelques questions.|- Vous vivez ici?
+{130927}{130990}Non. Je vous ai vue entrer et...
+{130992}{131040}Vous voulez un rancart.
+{131045}{131135}Vous en avez du culot de me suivre|jusqu'à ma chambre d'hôtel.
+{131145}{131227}- Fichez le camp.|- Je veux juste vous parler.
+{131235}{131275}Je vais crier.
+{131277}{131345}Je ne vous veux pas de mal.|Je vous assure.
+{131357}{131420}Je vous en prie. Laissez-moi vous parler.
+{131442}{131482}- A propos de quoi?|- De vous.
+{131490}{131557}- Pourquoi?|- Vous me rappelez quelqu'un.
+{131597}{131642}On me l'a déjà faite, celle-là.
+{131660}{131725}Je ressemble à une femme|dont vous étiez fou amoureux,
+{131727}{131777}mais elle vous a quitté pour un autre,
+{131780}{131845}et vous vous consumez pour elle depuis.
+{131850}{131912}Vous m'avez vue et vous avez eu un déclic.
+{131947}{131987}Vous n'êtes pas loin.
+{131990}{132070}- Ça ne prend pas, partez.|- Laissez-moi entrer.
+{132100}{132202}Laissez la porte ouverte.|Je veux simplement vous parler.
+{132267}{132330}Je vous préviens, je peux crier très fort.
+{132337}{132377}Ce sera inutile.
+{132407}{132537}Vous ne ressemblez pas à Jack l'Eventreur.|Que voulez-vous savoir?
+{132545}{132592}- Votre nom.|- Judy Barton.
+{132595}{132655}- Qui êtes-vous?|- Je travaille chez Magnin's.
+{132655}{132752}- Comment se fait-il que vous habitiez ici?|- C'est un endroit comme un autre.
+{132757}{132830}- Mais c'est récent?|- Ça fait environ trois ans.
+{132832}{132897}- Et avant?|- A Salina, dans le Kansas.
+{132937}{132997}Dites-moi, que voulez-vous?
+{133012}{133087}- Savoir qui vous êtes.|- Je vous l'ai dit.
+{133137}{133210}Je m'appelle Judy Barton,|je viens du Kansas.
+{133215}{133267}Je travaille chez Magnin's et je vis ici.
+{133325}{133375}Il vous faut des preuves?
+{133510}{133582}Très bien,|voici mon permis de conduire du Kansas.
+{133597}{133677}"Judy Barton, numéro Z296794.
+{133680}{133757}"425, Maple Avenue, Salina, Kansas."
+{133842}{133927}Vous voyez cette adresse? C'est ici.
+{133940}{134032}Un permis de conduire|délivré en Californie le 25 mai 1954.
+{134077}{134150}Vous voulez mes empreintes?|Vous êtes content?
+{134192}{134275}Content ou pas, fichez le camp.
+{134380}{134445}Vous êtes vraiment accro, hein?
+{134510}{134560}Je lui ressemble vraiment?
+{134680}{134730}Elle est morte, c'est ça.
+{134842}{134917}Je suis désolée.|Et je suis désolée d'avoir crié après vous.
+{135092}{135145}C'est moi avec ma mère.
+{135182}{135220}Et là, c'est mon père.
+{135245}{135332}Il est mort. Ma mère s'est remariée.|Je n'aimais pas mon beau-père,
+{135335}{135417}alors je suis venue voir|le soleil de Californie.
+{135445}{135495}Je suis ici depuis trois ans.
+{135510}{135537}C'est vrai.
+{135777}{135837}- Vous dîneriez avec moi?|- Pourquoi?
+{135855}{135947}- Je vous dois bien ça.|- Vous ne me devez rien du tout.
+{135950}{136022}- Faites-le pour moi.|- Dîner et puis quoi?
+{136035}{136125}- Simplement dîner.|- Parce que je vous la rappelle?
+{136135}{136195}Parce que j'aimerais dîner avec vous.
+{136310}{136357}J'ai déjà dîné avec des inconnus.
+{136365}{136445}Et même avec des hommes|qui m'avaient abordée.
+{136515}{136580}Je vais chercher ma voiture.|J'en ai pour 30 minutes.
+{136582}{136660}- Il faut que je me prépare.|- Une heure?
+{139475}{139512}Mon cher Scottie,
+{139530}{139572}Tu m'as donc retrouvée.
+{139585}{139647}C'est le moment que je redoutais|et espérais tant,
+{139650}{139735}me demandant ce que je te dirais|si jamais je te revoyais.
+{139745}{139807}Je voulais te revoir une dernière fois.
+{139817}{139882}Je vais partir, ne me cherche plus.
+{139890}{139992}Je veux que tu retrouves la paix.|Tu n'as rien à te reprocher.
+{139997}{140035}Tu es la victime.
+{140035}{140147}J'ai été l'instrument, et toi la victime,|dans le plan d'Elster pour tuer sa femme.
+{140155}{140262}Il m'a choisie car je lui ressemble.|Il m'a habillée comme elle.
+{140267}{140365}Il ne risquait rien: Elle vivait|à la campagne et venait rarement en ville.
+{140367}{140437}Tu étais le témoin idéal de son suicide.
+{140460}{140525}Il a plus ou moins inventé|l'histoire de Carlotta
+{140525}{140610}afin que tu attestes|que Madeleine voulait se suicider.
+{140625}{140727}Elster savait que jamais tu ne monterais|en haut du clocher.
+{140737}{140805}Il avait tout prévu. Il n'a fait aucune erreur.
+{140837}{140897}Moi si: Je suis tombée amoureuse.
+{140910}{140962}Ce n'était pas prévu.
+{140985}{141070}Je t'aime toujours|et je voudrais tant que tu m'aimes.
+{141090}{141142}Si j'étais forte, je resterais,
+{141145}{141205}dans l'espoir que tu puisses|à nouveau m'aimer
+{141205}{141250}pour ce que je suis...
+{141280}{141362}et que tu oublies l'autre,|que tu oublies le passé. Mais...
+{141405}{141475}Je ne suis pas sûre d'en avoir la force.
+{144747}{144790}Laissez-moi faire.
+{144832}{144907}- Et voilà.|- Merci encore. Bonne nuit.
+{144910}{144955}Puis-je vous voir demain?
+{144972}{145055}- Demain soir?|- Non, demain matin.
+{145125}{145182}Mais je dois aller travailler.
+{145185}{145280}- N'y allez pas.|- Et je vivrais de mes puits de pétrole?
+{145287}{145340}Laissez-moi m'en charger.
+{145385}{145442}Merci beaucoup, mais non merci.
+{145475}{145555}- Vous m'avez mal compris.|- Je comprends très bien.
+{145560}{145622}J'ai compris dès 17 ans.
+{145640}{145682}- Et après?|- Non.
+{145702}{145752}Non? Alors, quoi?
+{145762}{145802}Nous pourrions juste...
+{145815}{145862}nous voir souvent.
+{145882}{145907}Pourquoi?
+{145940}{145985}Parce que je lui ressemble?
+{146117}{146170}Ce n'est guère flatteur.
+{146212}{146250}Et rien de plus?
+{146300}{146325}Non.
+{146335}{146392}Pas très flatteur non plus.
+{146395}{146462}Je veux être avec vous|le plus souvent possible.
+{146770}{146800}Eh bien...
+{146825}{146912}Je pourrais appeler le magasin|demain matin...
+{146960}{147007}et trouver une excuse.
+{148605}{148640}Choisissez.
+{148680}{148720}J'aime celle-ci.
+{148730}{148767}- Celle-là?|- Oui.
+{148785}{148842}C'est très joli.
+{148887}{148922}Et voilà.
+{148925}{148995}Maintenant, on va s'occuper|des vêtements.
+{148997}{149050}- Vraiment?|- C'est juste en face.
+{149052}{149125}- Rien que du chic. C'est combien?|- 50 cents.
+{149127}{149175}- Merci.|- Vous n'êtes pas obligé.
+{149177}{149210}J'y tiens.
+{149760}{149850}- Non, ce n'est pas du tout ça.|- Vous vouliez du gris.
+{149857}{149925}Je veux un tailleur tout simple, gris.
+{149930}{150015}- Celui-ci me plaît.|- Non, ça ne convient pas.
+{150037}{150105}Monsieur sait ce qu'il veut.
+{150125}{150172}Très bien. Nous y arriverons.
+{150352}{150425}- Que faites-vous?|- J'essaie de vous acheter un tailleur.
+{150455}{150515}J'adorais le second.
+{150532}{150622}- Celui-là aussi, il est superbe.|- Non, ce n'est pas ça du tout.
+{150635}{150715}Je vois le tailleur dont vous parlez.|Il date de quelque temps.
+{150717}{150772}Je vais voir si je le retrouve.
+{150775}{150807}Merci.
+{150860}{150925}Vous cherchez le tailleur qu'elle portait.
+{150927}{151005}- Vous m'habillez comme elle.|- Je veux que vous soyez élégante.
+{151005}{151092}- Je sais ce qu'il vous faut.|- Je refuse de faire ça!
+{151240}{151305}Qu'est-ce que ça peut vous faire?
+{151305}{151382}Je ne veux pas de vêtements.|Je veux m'en aller.
+{151385}{151442}- Faites-le pour moi.|- Et voilà.
+{151467}{151515}- C'est ça.|- Je m'en doutais.
+{151535}{151590}- Je ne l'aime pas.|- Nous le prenons.
+{151597}{151627}Ça lui ira?
+{151630}{151715}Avec quelques petites retouches,|mais c'est la bonne taille.
+{151737}{151800}Vous allez pouvoir le passer.
+{151805}{151875}- Ce sera long pour les retouches?|- Eh bien...
+{151877}{151957}- Pouvons-nous l'avoir ce soir?|- Si c'est impératif.
+{151960}{152042}Ça l'est. Et maintenant,|nous voudrions une robe du soir,
+{152045}{152145}courte, noire, à manches longues,|avec une encolure carrée.
+{152217}{152305}Vous savez exactement|ce que vous voulez. Je vais voir.
+{152505}{152577}- C'est cela. Les avez-vous en marron?|- Oui.
+{152580}{152607}Parfait.
+{152802}{152887}Tenez. Avalez ça, comme un médicament.
+{152907}{152992}Pourquoi faites-vous cela?|Où cela nous mènera-t-il?
+{152997}{153032}Je l'ignore.
+{153042}{153097}Nulle part, je suppose.
+{153187}{153262}Laissez-moi tranquille. Je veux partir.
+{153295}{153335}Vous êtes libre.
+{153390}{153440}Non, vous m'en empêcheriez.
+{153497}{153565}Et puis, je ne veux pas partir.
+{153590}{153652}Judy, écoutez...
+{153655}{153742}Je n'avais pas été aussi heureux|depuis un an.
+{153757}{153797}Je sais. Parce que...
+{153827}{153877}je lui ressemble.
+{153922}{153972}Et manifestement pas tant que ça.
+{153982}{154007}Non.
+{154027}{154102}Non, Judy. C'est vous aussi...
+{154122}{154177}Il y a quelque chose en vous qui...
+{154287}{154360}- Vous ne voulez même pas me toucher.|- Mais si.
+{154415}{154495}Vous ne pourriez pas m'aimer, moi,|telle que je suis?
+{154535}{154622}Au début, c'était tellement bien.|On s'amusait.
+{154680}{154745}Et puis, ça a été|cette histoire de vêtements.
+{154785}{154852}Je les porterai, ces vêtements,|si vous le voulez...
+{154855}{154927}Je veux juste que vous m'aimiez bien.
+{155070}{155115}La couleur de vos cheveux.
+{155260}{155322}S'il vous plaît. Ce n'est pas grand-chose.
+{155585}{155642}Si je le fais, ça suffira?
+{155657}{155707}Si je fais ce que vous me dites,
+{155755}{155790}vous m'aimerez?
+{155795}{155820}Oui.
+{155862}{155902}- Oui.|- Très bien.
+{155947}{156040}Très bien, je vais le faire.|Ça n'a plus d'importance.
+{156262}{156317}Allons nous asseoir près du feu.
+{156817}{156867}Ça va prendre plusieurs heures.
+{156870}{156970}Madame vous conseille de rentrer.|Elle vous rejoindra chez vous.
+{156972}{157052}Non. Dites-lui que je vais l'attendre|à son hôtel.
+{157070}{157150}- Vous êtes sûre de la couleur?|- Oui, c'est très courant.
+{157150}{157207}- Et pour le reste...|- Ne vous inquiétez pas.
+{157210}{157242}Merci.
+{159737}{159762}Alors?
+{159765}{159855}Je voulais les cheveux en arrière,|en chignon. Je le lui ai dit.
+{159855}{159880}A vous aussi.
+{159905}{159982}Nous avons essayé.|Mais ça ne m'allait pas.
+{160125}{160162}Je vous en prie.
+{164615}{164680}- Où dînons-nous?|- Où tu veux.
+{164682}{164762}- Chez Ernie's?|- Tu aimes vraiment y aller.
+{164787}{164835}C'est notre restaurant.
+{164927}{164975}Alors, mon chéri, je te plais?
+{165030}{165095}- Tu ne peux pas faire mieux?|- Approche.
+{165102}{165140}Tu vas tout chiffonner.
+{165152}{165210}J'en ai bien l'intention. Approche.
+{165225}{165277}Trop tard. Je suis maquillée.
+{165290}{165327}J'ai faim.
+{165347}{165427}- Tu préfères aller ailleurs?|- Non. Ça me va.
+{165507}{165582}Je vais prendre un énorme steak.
+{165600}{165675}Voyons... Pour commencer, je vais...
+{165720}{165767}Tu peux m'aider?
+{165837}{165870}Je l'ai.
+{165900}{165970}- Comment on ferme ça?|- Tu ne vois pas?
+{165995}{166085}- Ça y est.|- Merci. Je suis presque prête.
+{166105}{166160}Il ne me manque que le rouge à lèvres.
+{166175}{166230}Où est-il? Je l'avais à l'instant.
+{166547}{166617}Là-dedans? Le voilà.
+{166667}{166702}Je suis prête.
+{166765}{166815}Maintenant, tu peux me chiffonner.
+{166900}{166967}Scottie, tu es bien à moi, maintenant?
+{167040}{167120}Et si nous allions dîner|en dehors de la ville?
+{167135}{167230}- On pourrait longer la côte.|- Si tu veux.
+{167667}{167712}Nous allons loin.
+{167715}{167792}J'ai envie de rouler. Tu as vraiment faim?
+{167815}{167855}Non, ça va.
+{168345}{168387}Où allons-nous?
+{168497}{168552}J'ai une dernière chose à faire
+{168612}{168667}pour me libérer du passé.
+{169147}{169207}Scottie, que faisons-nous ici?
+{169217}{169250}Je te l'ai dit.
+{169307}{169357}Je dois revivre le passé une fois encore.
+{169360}{169442}Rien qu'une fois. Une dernière fois.
+{169470}{169505}Pourquoi ici?
+{169522}{169572}C'est ici que Madeleine est morte.
+{169622}{169705}- Je ne veux pas y aller. J'attends...|- J'ai besoin de toi.
+{169710}{169735}Pourquoi?
+{169760}{169825}J'ai besoin que tu sois Madeleine|un instant.
+{169842}{169907}Ensuite, nous serons tous deux libérés.
+{169925}{170007}- J'ai peur.|- Je vais te parler de Madeleine.
+{170032}{170065}Là.
+{170095}{170157}C'est là que je l'ai embrassée|pour la dernière fois.
+{170160}{170227}Elle m'a dit: "Si tu me perds,|tu sauras que je t'aimais
+{170230}{170272}"et que je voulais que ça dure."
+{170275}{170352}J'ai répondu: "Je ne te perdrai pas."|Mais je l'ai perdue.
+{170390}{170430}Elle s'est retournée...
+{170475}{170520}et s'est précipitée dans l'église.
+{170832}{170895}Je l'ai suivie, mais c'était trop tard.
+{171002}{171045}Je ne veux pas y aller!
+{171047}{171082}Trop tard!
+{171272}{171362}Je ne la voyais pas.|J'ai entendu des pas dans les escaliers.
+{171377}{171427}Elle montait dans le clocher.
+{171430}{171462}Ici.
+{171480}{171535}Tu vois? Elle montait les escaliers.
+{171542}{171610}Elle a disparu derrière la trappe|en haut du clocher.
+{171612}{171685}J'ai essayé de la suivre,|mais je n'ai pas pu monter.
+{171690}{171755}Je n'ai pas pu aller jusqu'en haut.
+{171757}{171812}On a rarement une seconde chance.
+{171815}{171867}Je dois me libérer de cette obsession.
+{171880}{171967}Tu es ma seconde chance, Judy.|Ma seconde chance.
+{171970}{172005}Laisse-moi!
+{172012}{172100}Tu es comme Madeleine, maintenant.|Monte.
+{172102}{172150}- Non!|- Monte.
+{172215}{172262}Monte, Judy.
+{172300}{172340}Je te suis.
+{173772}{173845}Je n'ai pas pu aller plus loin,|mais toi, tu as continué.
+{173880}{173910}Tu te souviens?
+{173935}{174007}Le collier, Madeleine. Voilà l'erreur.
+{174025}{174070}Je me suis souvenu du collier.
+{174072}{174137}- Lâche-moi!|- Non. On va jusqu'en haut, Madeleine.
+{174140}{174182}Impossible! Tu as peur!
+{174200}{174282}On verra bien. C'est ma seconde chance.
+{174285}{174310}Arrête!
+{174317}{174382}Tu savais que je ne te suivrais pas.
+{174385}{174455}- Qui était là-haut? Elster et sa femme?|- Oui.
+{174457}{174537}C'est elle qui est morte.|Sa véritable épouse. Pas toi.
+{174545}{174602}Tu étais son sosie, c'est ça?
+{174605}{174675}- Elle était morte ou...|- Il lui avait brisé la nuque.
+{174675}{174750}Il lui avait brisé la nuque|pour ne prendre aucun risque.
+{174752}{174837}Quand tu es arrivée, il l'a jetée,|mais c'est toi qui as crié.
+{174840}{174940}- Pourquoi as-tu crié?|- Je voulais l'arrêter.
+{174942}{175045}L'arrêter? Pourquoi crier,|alors que tu m'avais si bien trompé?
+{175052}{175147}Tu étais parfaite dans le rôle de la femme.|Il t'avait modelée, hein?
+{175152}{175232}Tout comme je t'ai modelée.|Mais c'était plus réussi.
+{175235}{175342}Les vêtements, les cheveux,|mais aussi les attitudes, la façon de parler.
+{175345}{175392}Et cet incroyable regard vide.
+{175395}{175442}Et tu as sauté dans la Baie, hein?
+{175445}{175515}Je parie que tu sais très bien nager.
+{175515}{175555}- Pas vrai?|- Oui!
+{175565}{175670}Comment t'a-t-il préparée?|II t'a fait répéter?
+{175677}{175750}II t'a dit exactement|ce qu'il fallait dire, faire?
+{175750}{175820}Et tu étais une bonne élève, n'est-ce pas?
+{175855}{175915}Pourquoi m'avoir choisi? Pourquoi moi?
+{175917}{175952}Ton accident!
+{175965}{176000}L'accident!
+{176017}{176065}Le pigeon idéal, hein?
+{176067}{176122}Le témoin sur mesure.
+{176305}{176337}J'y suis arrivé.
+{176382}{176445}- J'y suis arrivé.|- Que vas-tu faire?
+{176507}{176577}On va monter jusqu'au lieu du crime.
+{176580}{176615}Allez, Judy.
+{176907}{176955}C'est ici que c'est arrivé.
+{177010}{177075}Vous avez attendu que le champ soit libre
+{177075}{177157}puis vous vous êtes faufilés en ville,|c'est ça?
+{177165}{177225}Et ensuite? Tu étais sa maîtresse?
+{177247}{177290}Que s'est-il passé?
+{177305}{177347}II t'a plaquée?
+{177387}{177430}II avait l'argent de sa femme,
+{177432}{177527}il était libre et il t'a plaquée.|Quel dommage.
+{177530}{177595}Mais il savait que tu ne parlerais pas.
+{177597}{177660}- Il t'a donné quelque chose?|- De l'argent.
+{177670}{177740}Et le collier. Le collier de Carlotta.
+{177767}{177827}C'est ce qui t'a perdue, Judy.
+{177830}{177892}Il ne faut pas garder de souvenirs|d'un meurtre.
+{178005}{178065}Tu n'aurais pas dû être si sentimentale.
+{178160}{178210}Je t'aimais tant, Madeleine.
+{178315}{178360}Je ne risquais rien quand je t'ai revu.
+{178360}{178412}Tu ne pouvais rien prouver.
+{178415}{178507}Mais ensuite, je n'ai pas pu m'enfuir.|Je t'aimais trop.
+{178525}{178575}Malgré le danger, j'ai accepté de changer
+{178577}{178635}parce que je t'aimais et que je te voulais.
+{178700}{178755}Scottie... Dis que tu m'aimes.
+{178772}{178837}- Protège-moi!|- C'est trop tard.
+{178840}{178905}C'est trop tard. On ne la ramènera pas.
+{178907}{178935}Je t'en prie.
+{179232}{179270}J'ai entendu des voix.
+{179365}{179402}Que Dieu ait pitié.

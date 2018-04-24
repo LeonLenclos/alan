@@ -1,0 +1,801 @@
+{1952}{2032}Après, dit-il, ils s'embrassent toujours.
+{2091}{2168}L'animal pousse son front en sueur|contre sa joue
+{2186}{2256}et ils restent ainsi une heure,|dans l'obscurité,
+{2278}{2325}comme un couple enlacé.
+{2378}{2493}Et quelle absurdité,|je ne cesse de penser au cheval,
+{2510}{2628}pas au garçon, au cheval,|à ce qu'il voudrait peut-être faire.
+{2668}{2773}Je ne cesse de voir l'énorme tête,|le baiser de sa bouche enchaînée
+{2783}{2876}poussant à travers le métal|un désir impossible et fou
+{2874}{2949}de se remplir le ventre|ou de propager son espèce.
+{2970}{3025}De quel désir pourrait-il s'agir ?
+{3042}{3100}Celui de ne plus être un cheval ?
+{3107}{3232}De se libérer de ses rênes,|de ses liens génétiques spécifiques ?
+{3280}{3405}Est-il imaginable que parfois un cheval|contemple toutes ses souffrances,
+{3402}{3517}les incessants coups d'éperon|qui forment son quotidien
+{3553}{3593}et les transforme
+{3593}{3621}en chagrin ?
+{3678}{3728}Quelle est l'utilité du chagrin
+{3742}{3782}pour un cheval ?
+{3852}{3885}Vous voyez...
+{3929}{3962}Je suis perdu.
+{4011}{4116}Quelle est l'utilité de ce genre de questions|pour un psychiatre surmené
+{4114}{4164}dans un hôpital de province ?
+{4183}{4238}Elles ne sont pas seulement inutiles.
+{4241}{4286}Elles sont, en réalité,
+{4292}{4327}subversives.
+{4388}{4425}Le fait est...
+{4474}{4536}que je porte moi-même cette tête de cheval,
+{4560}{4637}pris que je suis dans les rênes|de mots et d'hypothèses usés,
+{4634}{4744}jarrets tendus vers une vie nouvelle|dont je ne fais que soupçonner l'existence.
+{4742}{4842}Je ne la vois pas parce que ma tête instruite|et banale n'est pas tenue au bon angle.
+{4838}{4933}Je ne peux pas sauter|parce que le mors l'interdit et ma propre force,
+{4968}{5023}en chevaux-vapeur si je puis dire,
+{5035}{5070}est trop faible.
+{5088}{5143}Je ne suis sûr que d'une chose.
+{5142}{5235}La tête d'un cheval m'est inconnaissable.
+{5233}{5321}Pourtant je m'occupe de têtes d'enfants|que je suppose plus compliquées,
+{5320}{5383}au moins dans le domaine qui me concerne.
+{5416}{5474}Ça n'a rien à voir avec ce garçon.
+{5473}{5576}Depuis des années, dans ce triste lieu,|les doutes s'amoncèlent.
+{5574}{5687}C'est le côté extrême de ce cas|qui les a activés. Le côté extrême, oui.
+{5684}{5782}Tout de même,|ces doutes sont plus qu'inquiétants,
+{5780}{5825}ils sont intolérables !
+{6028}{6065}Pardonnez-moi.
+{6101}{6146}Je ne suis pas très clair.
+{6162}{6222}Commençons par le commencement.
+{6312}{6387}Allez, arrêtez. Allez !
+{6427}{6500}...la barrière vers un autre champ.|Je ne le voyais pas.
+{6499}{6597}Mais je savais que je devais franchir|cette barrière. Alors je verrais tout.
+{6619}{6664}C'est bon.
+{6761}{6821}- Prends-en un Mary Ann.|- Je n'en veux pas.
+{6821}{6881}- Allez.|- Ne m'embête pas.
+{6917}{7010}- Tu n'as pas besoin de toujours les écouter.|- Je sais mais...
+{7011}{7086}- Si tu en veux un, prends-le.|- Ne sois pas si bête !
+{7084}{7149}C'est bon. Calmez-vous.
+{7183}{7215}EQUUS
+{7217}{7264}Inutile. On l'écrase ?
+{7265}{7315}- Oui.|- Non.
+{7339}{7412}- Allez, on l'écrase.|- Non.
+{7411}{7479}- Bon. Attrape ta jambe droite.|- Non.
+{7502}{7562}- Attrape ta jambe droite.|- Pourquoi ?
+{7581}{7671}- J'aimerais beaucoup que tu le fasses.|- J'ai dit "non" !
+{7783}{7820}Allez. Debout.
+{7823}{7888}Crie ! Cogne ! Vas-y !
+{8005}{8108}Crie ! C'est ça.
+{8111}{8209}Ça a commencé il y a quelques mois,|un lundi, avec la visite d'Hesther.
+{8233}{8295}Désolée Martin.|J'aurais dû t'appeler d'abord.
+{8296}{8348}Pas du tout.|C'est un soulagement bienvenu.
+{8349}{8406}- Un café dégueu ?|- Non, s'il te plaît.
+{8403}{8466}- En fait c'est assez urgent.|- Pose-toi.
+{8468}{8553}C'est le cas le plus choquant|que j'aie jamais jugé.
+{8552}{8632}Mes collègues voulaient|l'envoyer en prison immédiatement.
+{8631}{8686}Je l'ai fait ajourner|en demandant un rapport.
+{8686}{8756}- Qui c'est ?|- Un jeune. Du nom de Strang.
+{8768}{8853}Il a fait quoi ? Mis un aphrodisiaque|dans le Pepsi d'une gamine ?
+{8852}{8954}Qu'est-ce qui peut bien avoir déclenché|la fureur réactionnaire de ta cour ?
+{9027}{9112}Il a crevé les yeux de six chevaux|avec une pointe métallique.
+{9145}{9187}- Crevé les yeux ?|- Oui.
+{9204}{9294}- Tous à la fois ou en plusieurs fois ?|- A la fois, la nuit d'avant-hier.
+{9290}{9315}Où ?
+{9317}{9387}Une écurie de Chalk Ford.|Il y travaillait les week-ends.
+{9386}{9451}- Il a dit quoi à la cour ?|- Rien. Il a chanté.
+{9451}{9538}- Chanté ?|- Tu dois le prendre ici.
+{9554}{9622}Tu crois que cet hôpital convient ?|Il est dangereux ?
+{9621}{9671}Toi personnellement je veux dire.
+{9672}{9742}Ecoute Hesther, avant de continuer,
+{9741}{9834}je ne peux plus prendre de patients.|Je n'y arrive déjà pas avec ceux que j'ai.
+{9832}{9872}- Tu dois.|- Pourquoi ?
+{9880}{9930}Merci. Oh bon sang !
+{10062}{10097}Allô Pat ?
+{10115}{10233}Annulez ses sorties pendant un mois.|On verra ce qu'en dit son papa.
+{10245}{10275}Pourquoi ?
+{10276}{10358}Parce qu'il n'y a personne d'autre|à 130 miles à la ronde
+{10358}{10450}qui puisse le faire avec une chance|de comprendre ce qui se passe.
+{10449}{10541}L'hôpital traditionnel ne servira à rien|pas plus que tes collègues ici.
+{10540}{10610}- C'est une déclaration injustifiable.|- C'est la vérité.
+{10609}{10644}Ils seront professionnels.
+{10645}{10715}Mais dégoûtés au fond,|et immuablement anglais,
+{10713}{10750}comme ma cour.
+{10756}{10823}- Que suis-je ? Polynésien ?|- Je t'en prie.
+{10837}{10929}- C'est le dernier service que je te demande.|- C'est faux.
+{10935}{11010}Il est abominable. Je le sais déjà.
+{11058}{11118}Pourquoi moi ? Pourquoi ?
+{11159}{11241}- Il a quelque chose d'extraordinaire.|- Comment ça ?
+{11252}{11297}De terrible si tu veux.
+{11298}{11400}Je ne sais pas exactement ce que je dis.|Mais il fallait que je vienne.
+{11408}{11480}Prends-le Martin. C'est très important.
+{11602}{11690}J'en attendais quoi ?|Bien peu, je vous assure.
+{11705}{11800}Encore un petit visage d'écorché vif,|encore un monstre adolescent.
+{11806}{11846}L'étrangeté habituelle.
+{11861}{11979}Cette chambre sera totalement à toi.|Personne n'y entrera sans ta permission.
+{11985}{12045}Il y a une sonnette|si tu veux quelque chose.
+{12043}{12141}La salle de bains est dans le couloir,|deuxième porte à gauche.
+{12239}{12342}C'est une des plus jolies chambres|de l'hôpital. N'est-ce pas M.Pearce ?
+{12338}{12373}Tout à fait.
+{12530}{12575}J'en veux parfois à Hesther.
+{12602}{12647}Elle me l'a amené.
+{12652}{12685}Bien sûr, c'est insensé.
+{12684}{12784}Qu'est-il d'autre que la dernière goutte ?|Un dernier symbole. C'est tout.
+{12818}{12878}J'étais mûr pour la confrontation.
+{12899}{12956}- Alan Strang docteur.|- Merci.
+{12981}{13008}Bonjour.
+{13050}{13108}Je m'appelle Martin. Toi Alan.
+{13153}{13200}Tu ne veux pas t'asseoir ?
+{13218}{13291}Aujourd'hui|je veux juste quelques simples faits.
+{13350}{13425}C'est ton nom complet ? Alan Strang ?
+{13467}{13535}Et tu as 17 ans, c'est ça ?
+{13635}{13718}La semaine|tu travailles dans un magasin d'électricité.
+{13716}{13764}D'électricité et de vaisselle.
+{13851}{13944}Doublez votre plaisir avec Doublemint,|le chewing-gum doublement bon
+{14014}{14107}Voyons, tu vis avec tes parents|et ton père est imprimeur.
+{14103}{14143}Il imprime quoi ?
+{14141}{14233}Doublez votre plaisir avec Doublemint,|le chewing-gum doublement bon
+{14232}{14297}Des prospectus, des calendriers ?|Ce genre de choses ?
+{14297}{14410}Goûtez Martini,|la plus belle boisson au monde
+{14405}{14507}La meilleure, celle qu'il vous faut,|c'est Martini
+{14515}{14592}Tu devrais t'asseoir pour chanter.|Tu serais plus à l'aise.
+{14592}{14694}Il n'y a qu'un T, c'est le thé Typhoo,|en vrac ou en sachets
+{14693}{14758}Choisissez, il reste authentique
+{14757}{14812}Il n'y a qu'un T, c'est le thé Typhoo
+{14834}{14869}Bonne chanson.
+{14867}{14962}Je la préfère aux deux autres. Rechante-la.
+{14966}{15058}Doublez votre plaisir avec Doublemint,|le chewing-gum...
+{15268}{15300}Ecoute.
+{15326}{15401}Tu n'es ni dans une maison de fous|ni dans une prison.
+{15404}{15502}Si tu te conduis correctement|tu y seras relativement bien.
+{15503}{15580}Sinon on t'enverra dans un asile d'aliénés
+{15580}{15675}où tu seras beaucoup moins libre.|Alors ça te regarde.
+{15681}{15736}Tu me verras tous les jours.
+{15740}{15820}La séance durera exactement 45 minutes.
+{15820}{15902}Et tu devras être extrêmement ponctuel.|D'accord ?
+{16037}{16075}A propos,
+{16083}{16185}lequel de tes parents t'interdit|de regarder la télévision ?
+{16222}{16252}Ta mère ?
+{16268}{16298}Ton père ?
+{16335}{16373}Ou les deux ?
+{16414}{16451}Entrez David.
+{16486}{16583}Faites visiter l'hôpital à Strang|avant le déjeuner.
+{16594}{16677}Tu vas voir, c'est assez agréable.|Salle de piano,
+{16675}{16730}chambre noire pour les photographes
+{16747}{16792}et même salle de télévision.
+{16918}{16998}Trois nuits plus tard|j'ai fait un rêve très particulier.
+{17006}{17089}Dans le rêve je suis un grand-prêtre|de la Grèce d'Homère.
+{17090}{17182}Je porte un large masque d'or,|majestueux et barbu
+{17182}{17269}comme le masque dit d'Agamemnon|découvert à Mycènes.
+{17273}{17358}Debout près d'une grosse pierre ronde,|je tiens un couteau pointu.
+{17371}{17459}Je suis l'officiant d'un sacrifice rituel|d'une immense importance
+{17455}{17562}dont dépend le sort des récoltes|ou une expédition militaire.
+{17577}{17640}Je dois sacrifier un troupeau d'enfants,
+{17642}{17747}cinq cents garçons et filles qui attendent|en une longue file dans la plaine d'Argos.
+{17745}{17808}Je sais que c'est Argos parce que le sol est rouge.
+{17824}{17941}Je suis flanqué de deux prêtres assistants|portant également des masques
+{17936}{17981}aux gros yeux globuleux,
+{17984}{18034}comme ceux retrouvés aussi à Mycènes.
+{18032}{18115}D'une force immense ces prêtres,|et absolument inlassables.
+{18119}{18227}Ils saisissent chaque enfant qui avance|et le jettent sur la pierre.
+{18222}{18329}Alors, avec une précision chirurgicale qui|m'étonne moi-même, je plonge le couteau
+{18328}{18450}et je fends élégamment jusqu'au nombril,|comme une couturière suivant un patron.
+{18454}{18524}J'écarte la peau,|je coupe les canaux internes,
+{18529}{18614}je les arrache et je les jette,|chauds et fumants, sur le sol.
+{18627}{18732}Les deux autres en étudient les formes|comme s'ils lisaient des hiéroglyphes.
+{18735}{18830}Il est évident pour moi|que je suis un grand-prêtre au top.
+{18838}{18933}C'est mon talent unique pour le découpage|qui m'a amené jusque-là.
+{18975}{19017}La seule chose est que
+{19025}{19078}sans que les autres s'en doutent,
+{19078}{19148}je commence à ressentir|une véritable nausée.
+{19148}{19203}Elle empire avec chaque victime.
+{19210}{19277}Sous le masque mon visage vire au vert.
+{19279}{19349}Bien sûr je redouble de professionnalisme,
+{19349}{19394}coupant et incisant à l'envi,
+{19394}{19492}parce que je sais que si ces deux-là|ont le moindre soupçon de mon angoisse
+{19488}{19568}et du doute implicite|que ce travail répétitif et puant
+{19567}{19612}est utile au bien public,
+{19613}{19688}je serai le prochain sur la pierre.
+{19725}{19785}Et bien sûr|le satané masque se met à glisser.
+{19811}{19876}Les deux prêtres se tournent et le regardent.
+{19877}{19944}Leurs gros yeux d'or|se remplissent soudain de sang.
+{19955}{20025}Ils m'arrachent le couteau de la main et...
+{20083}{20115}je me réveille.
+{20358}{20461}Mme Strang, vous savez|comment ça a pu se produire ?
+{20462}{20537}Non docteur. C'est incroyable.
+{20540}{20625}Alan a toujours été un garçon très doux.
+{20639}{20729}- Il adore les animaux, surtout les chevaux.|- Merci.
+{20737}{20780}- Surtout ?|- Oui.
+{20785}{20863}Il a même la photo d'un cheval|dans sa chambre.
+{20862}{20947}Un vieux cadeau de son père|venant d'un calendrier qu'il avait imprimé
+{20946}{21008}et Alan ne l'a jamais retirée.
+{21018}{21088}Quand il avait sept ou huit ans
+{21097}{21187}je devais toujours lui lire le même livre,|tout le temps,
+{21186}{21233}- une histoire de cheval.|- Ah oui ?
+{21231}{21309}Il s'appelait Prince|et personne ne pouvait le monter.
+{21360}{21450}Vous dites qu'il avait la photo d'un cheval|dans sa chambre ?
+{21473}{21553}- Je pourrais la voir ?|- Oui, naturellement.
+{21571}{21636}- Merci.|- Par ici je vous prie.
+{21756}{21821}Je me souviens lui avoir dit|une chose très bizarre.
+{21821}{21926}Vous le saviez, lorsque les cavaliers|chrétiens sont apparus au nouveau monde
+{21921}{22014}les païens ont cru que cheval et cavalier|ne faisaient qu'une personne ?
+{22012}{22052}- Une personne ?|- Oui.
+{22082}{22117}Bien sûr.
+{22130}{22195}En fait ils les ont pris pour des dieux.
+{22327}{22367}Par ici je vous prie.
+{22377}{22422}Voici la chambre d'Alan.
+{23008}{23058}- Remarquable.|- Oui.
+{23192}{23240}Mme Strang,
+{23267}{23352}vous vous souvenez lui avoir dit|autre chose sur les chevaux ?
+{23350}{23388}Quoi que ce soit ?
+{23389}{23459}Ils sont dans la Bible naturellement.
+{23485}{23555}"Quand la trompette sonne il dit : Ha, ha !"
+{23569}{23604}"Ha, ha" ?
+{23607}{23647}Le livre de Job.
+{23651}{23693}Un passage très noble.
+{23705}{23743}Vous le connaissez ?
+{23744}{23809}"Est-ce toi qui donnes|la vigueur au cheval ?
+{23811}{23881}"Et qui revêts son cou|d'une crinière flottante ?
+{23914}{23981}"Son fier hennissement répand la terreur.
+{23988}{24086}"Quand la trompette sonne il dit : Ha, ha !"
+{24159}{24231}- C'est merveilleux.|- Oui.
+{24285}{24340}Voilà M.Strang qui arrive.
+{24448}{24548}Frank, le docteur est ici avec moi.|On descend.
+{24631}{24709}Il est bouleversé. Vous comprenez.
+{24866}{24929}Voici le Dr Dysart chéri.
+{24942}{24990}- M.Strang.|- Enchanté.
+{25065}{25190}J'expliquais au Dr Dysart|qu'Alan a toujours adoré les chevaux.
+{25216}{25299}En fait on a toujours aimé les chevaux|dans la famille.
+{25312}{25362}Enfin, de mon côté.
+{25372}{25457}Mon oncle montait tous les matins|dans les Downs derrière Brighton.
+{25454}{25551}En grande tenue, bombe et jodhpurs.|Il était magnifique.
+{25547}{25615}Il appelait ça "Se livrer à l'équitation."
+{25623}{25711}Je me souviens avoir expliqué à Alan|que ce mot venait de "equus".
+{25734}{25794}- "Equus" ?|- "Cheval" en latin.
+{25825}{25890}Alan était fasciné par ce mot.
+{25900}{26005}Sans doute parce qu'il ne connaissait pas|d'autre mot avec deux "U" ensemble.
+{26015}{26087}Chérie, tu as offert|une tasse de thé au docteur ?
+{26125}{26165}Non chéri.
+{26173}{26235}Vous devez être mort de soif. Excusez-moi.
+{26520}{26638}Ma femme a des idées romanesques|si vous voyez ce que je veux dire.
+{26648}{26733}- Sur sa famille ?|- Elle pense s'être mésalliée.
+{26739}{26824}C'est vrai, j'imagine.|Je ne comprends pas ces machins-là.
+{26830}{26912}Vous diriez qu'elle est plus proche|de votre fils que vous ?
+{26926}{27041}Ils ont toujours été comme cul et chemise.|Je ne suis pas tout à fait d'accord,
+{27081}{27144}surtout quand je l'entends lui lire la Bible,
+{27142}{27204}soir après soir là-haut dans sa chambre.
+{27204}{27304}- Vous voulez dire qu'elle est pieuse ?|- A l'excès diraient certains.
+{27309}{27371}Bien sûr ça la regarde,
+{27410}{27512}mais quand il s'agit d'en gaver le gamin|c'est mon fils autant que le sien.
+{27520}{27557}Saleté de religion.
+{27575}{27688}C'est notre seul problème|mais il est insurmontable. Je l'admets.
+{27683}{27743}Excusez mon mari docteur.
+{27757}{27837}Ce sujet est un peu obsessionnel chez lui.
+{27834}{27877}N'est-ce pas ? Reconnais-le.
+{27877}{27962}Appelle-le comme tu veux.|Tout ça c'est de l'inhibition sexuelle.
+{27959}{28047}- Ça a quelque chose à voir avec Alan ?|- Tout Dora.
+{28062}{28129}Je ne comprends pas. Qu'est-ce que tu dis ?
+{28275}{28400}M.Strang, à votre avis,|votre fils sait quoi sur le sexe ?
+{28429}{28467}Je ne sais pas.
+{28472}{28545}Vous ne l'avez pas informé vous-même ?
+{28566}{28621}Pas à proprement parler, non.
+{28649}{28694}Et vous Mme Strang ?
+{28700}{28772}Je lui en ai un peu parlé. Il le fallait.
+{28772}{28807}Je vais vous aider.
+{28825}{28917}Quel genre de choses vous lui avez dites ?|Désolée si ça vous gêne.
+{28935}{29002}Je lui ai donné les faits biologiques.
+{29014}{29077}Mais je lui ai dit aussi ce que je croyais,
+{29079}{29189}que le sexe n'est pas seulement biologique|mais aussi spirituel,
+{29220}{29298}qu'un jour, si Dieu le voulait,|il tomberait amoureux.
+{29299}{29341}- Du sucre ?|- Merci.
+{29357}{29482}Qu'il devait se préparer|à l'événement le plus important de sa vie.
+{29491}{29598}Et qu'ensuite, s'il avait de la chance,|il connaîtrait un amour encore supérieur.
+{29690}{29775}Allons Dora. Tout va bien. Allez.
+{29774}{29859}- Tu ris comme d'habitude.|- Personne ne rit.
+{30649}{30732}Soudain j'ai compris|quel visage j'avais vu dans mon rêve.
+{30754}{30814}A travers chaque victime, sur la pierre,
+{30834}{30886}c'était son regard qui m'accusait.
+{30906}{30941}Mais de quoi ?
+{31520}{31562}Comment tu vas ce matin ?
+{31582}{31647}Désolé de t'avoir surpris hier soir.
+{31702}{31824}Je prenais des papiers dans mon bureau|et j'ai voulu jeter un coup d'œil.
+{31982}{32027}Tu rêves souvent ?
+{32188}{32218}Et vous ?
+{32239}{32311}Poser les questions est mon boulot,|le tien est de répondre.
+{32311}{32351}- Qui dit ça ?|- Moi.
+{32373}{32415}Tu rêves souvent ?
+{32426}{32456}Et vous ?
+{32462}{32532}- Ecoute Alan...|- Je répondrai si vous répondez.
+{32532}{32567}Chacun son tour.
+{32610}{32710}- Très bien. Mais il faut dire la vérité.|- Très bien.
+{32776}{32808}Tu rêves souvent ?
+{32810}{32837}Oui.
+{32848}{32890}- Et vous ?|- Oui.
+{32898}{32951}Tu fais un rêve particulier ?
+{32968}{33020}Non. Et vous ?
+{33064}{33131}Oui. De quoi tu as rêvé la nuit dernière ?
+{33138}{33201}- Oublié. Et vous ?|- La vérité j'ai dit.
+{33200}{33283}C'est la vérité. De quoi vous rêvez ?|Le rêve particulier.
+{33320}{33365}Que je découpe des enfants.
+{33397}{33432}C'est à moi.
+{33483}{33546}Quel est ton premier souvenir d'un cheval ?
+{33569}{33612}Je ne me rappelle pas.
+{33639}{33729}Tu ne te souviens pas|de la première fois que tu as vu un cheval ?
+{33727}{33782}Je viens de vous le dire. A moi.
+{33833}{33876}Vous êtes marié ?
+{33891}{33916}Oui.
+{33937}{33979}Elle est médecin aussi ?
+{33980}{34010}A moi.
+{34157}{34229}Qu'est-ce qu'un "eq" ?
+{34272}{34389}C'est ce que tu criais dans ton sommeil.|Tu aimerais peut-être en parler.
+{34416}{34498}Ploc, ploc, pchit, pchit.
+{34504}{34582}Oh, quel soulagement.
+{34629}{34697}Allons Alan, tu peux faire mieux que ça.
+{34696}{34794}Doublez votre plaisir
+{34797}{34887}Vous pouvez tout avoir en double
+{34944}{34994}Très bien, au revoir.
+{35089}{35154}- Comment ça ?|- C'est fini pour aujourd'hui.
+{35204}{35267}- On n'a eu que cinq minutes.|- Tant pis.
+{35390}{35437}Tu as entendu ? J'ai dit "Au revoir."
+{35438}{35463}C'est pas juste.
+{35463}{35496}- Non ?|- Non.
+{35516}{35611}L'état vous paie 50 livres l'heure|pour me voir. On me l'a dit en bas.
+{35612}{35677}Redescends apprendre d'autres choses.
+{35674}{35752}Ce n'est pas juste. C'est de l'arnaque.
+{35785}{35828}Sale arnaqueur !
+{35828}{35913}- Dois-je appeler l'infirmière ?|- Si elle me touche, je la frappe.
+{35912}{35992}Elle te le rendra beaucoup plus fort,|je te le garantis.
+{35991}{36029}Maintenant va-t'en.
+{36696}{36749}- Sur une plage.|- Quoi ?
+{36758}{36806}Le premier cheval que j'ai vu.
+{36921}{36946}Tu avais quel âge ?
+{36960}{37018}Qu'est-ce que j'en sais ? Six ans.
+{37075}{37138}- Qu'est-ce que tu faisais là ?|- Rien.
+{37159}{37194}Je bâtissais.
+{37228}{37291}- Des châteaux de sable ?|- Quoi d'autre ?
+{37362}{37392}Continue.
+{38667}{38705}Ce château est énorme.
+{38765}{38830}Tu as dû mettre du temps à le construire.
+{38897}{38972}Tu peux le caresser si tu en as envie.|Il voudra bien.
+{39020}{39105}Il s'appelle Trojan. Doucement Trojan.
+{39116}{39188}Tout doux. Doucement.
+{39274}{39366}Tu peux à peine y arriver d'en bas.|Tu veux monter ?
+{39552}{39589}Viens alors.
+{39635}{39725}Non, de ce côté, fais le tour.|On monte toujours à cheval par la gauche.
+{39722}{39787}Je vais te soulever, d'accord ?
+{39957}{40045}Ne fais rien. Tout doux !
+{40067}{40162}N'aie pas peur. Accroche-toi|à sa crinière et serre les genoux.
+{40158}{40218}C'est ça. Allons-y.
+{40650}{40700}Tu veux aller plus vite ?
+{40732}{40777}Il te suffit de dire:
+{40777}{40827}"Allez Trojan, emporte-moi."
+{40877}{40907}Dis-le !
+{40933}{40963}Emporte-moi.
+{40971}{41018}Je ne t'entends pas. Dis-le !
+{41053}{41088}Emporte-moi !
+{41093}{41126}Allez Trojan !
+{41765}{41790}Alan !
+{42050}{42087}Revenez !
+{42194}{42254}- Alan. Hé vous !|- Tout doux.
+{42258}{42313}- Qu'est-ce que vous imaginez ?|- Imaginer ?
+{42311}{42381}- Qu'est-ce que mon fils fait là-haut ?|- Il n'est pas blessé ?
+{42381}{42448}On demande avant de faire une bêtise comme ça.
+{42448}{42523}- C'est merveilleux papa.|- Il est tout à fait en sécurité.
+{42522}{42612}Ne me prenez pas de haut jeune homme.|Descends, tu as entendu ta mère.
+{42611}{42661}- Non.|- Descends immédiatement.
+{42661}{42726}Tout de suite ! J'ai dit tout de suite !
+{42752}{42807}Attention ! Vous êtes fou ?
+{42819}{42877}- Alan !|- Vous voulez terrifier le cheval ?
+{42875}{42937}- Vous êtes un danger public.|- Tout doux Trojan.
+{42935}{43008}- Il est blessé.|- Un enfant sur un animal dangereux !
+{43007}{43052}- Dangereux ?|- Frank, il est blessé.
+{43053}{43115}- Il a les yeux qui roulent.|- Vous aussi.
+{43115}{43195}Il s'est coupé. Il est blessé.
+{43201}{43248}C'est pas vrai !
+{43601}{43654}C'est tout ce dont je me rappelle.
+{43740}{43773}C'est beaucoup.
+{43874}{43902}Merci.
+{44036}{44068}Tu sais...
+{44220}{44290}Tu sais que je ne suis jamais|monté à cheval ?
+{44290}{44320}Moi non plus.
+{44349}{44389}Depuis tu veux dire ?
+{44397}{44422}Oui.
+{44436}{44469}Jamais ?
+{44488}{44523}- Non.|- Pourquoi ?
+{44563}{44603}Ça ne me disait rien.
+{44613}{44706}Tu veux dire que tu n'as jamais monté,|même aux écuries ?
+{44714}{44779}- Non.|- Ça ne faisait pas partie du travail ?
+{44788}{44823}Non, pas obligé.
+{44829}{44929}Pourquoi pas ? Ça aurait sûrement été bien|après avoir passé la semaine au magasin.
+{44928}{44955}Ça me disait rien.
+{44956}{45041}Enfin, c'est à moi.|Je vous ai dit un secret, dites-m'en un.
+{45126}{45154}D'accord.
+{45193}{45288}Certains patients ont des choses à me dire|mais ils ont honte
+{45287}{45367}de me les dire en face.|A ton avis, qu'est-ce que je fais ?
+{45374}{45399}Quoi ?
+{45433}{45498}Je leur donne ce petit magnétophone.
+{45522}{45599}Ils vont ailleurs|et l'infirmière me rapporte la cassette.
+{45599}{45669}- Ils n'ont pas à l'écouter avec moi.|- Stupide.
+{45682}{45775}Très simple en fait. On appuie|sur ce bouton et on parle là-dedans.
+{45810}{45895}Enfin, ta séance est finie pour aujourd'hui.|On se verra demain.
+{45893}{45936}- Peut-être.|- Peut-être ?
+{45946}{45981}Si j'en ai envie.
+{46526}{46551}Stupide.
+{47236}{47286}Demain je pensais aller
+{47308}{47343}voir le petit.
+{47436}{47468}Tu viendrais ?
+{47596}{47671}Ce n'est pas bien de ne pas...
+{47762}{47797}Mais tu devrais.
+{48783}{48823}Tu dois lui dire.
+{48847}{48892}Au docteur je veux dire.
+{48898}{48940}Il devrait le savoir.
+{48946}{49003}- Tu crois que c'est important ?|- Oui.
+{49015}{49045}Pourquoi ?
+{49082}{49127}Ça peut l'être, c'est tout.
+{49330}{49407}C'était érotique.|C'est ce que vous voulez savoir, non ?
+{49710}{49750}- Allô ?|- Allô docteur.
+{49752}{49784}Il n'est pas trop tard ?
+{49785}{49810}Non Mme Strang.
+{49830}{49898}M.Strang et moi on parlait.
+{49902}{49957}Il y a une chose|qui pourrait vous intéresser.
+{49974}{50027}Je peux venir vous voir demain ?
+{50049}{50089}Et si je venais ?
+{50111}{50158}Je parle de la plage,
+{50169}{50221}de ce que je vous ai raconté.
+{50276}{50331}J'étais à l'avant du cheval.
+{50365}{50430}La sueur de son cou|me coulait sur les jambes.
+{50454}{50507}Ses flancs étaient tout chauds...
+{50535}{50565}l'odeur...
+{50596}{50631}et le diriger...
+{50672}{50734}Toute cette puissance qui va où on veut.
+{50778}{50813}Et puis papa...
+{51123}{51178}C'est au sujet de la photo...
+{51192}{51222}du cheval.
+{51269}{51317}Celle qui est dans sa chambre ?
+{51325}{51430}Je ne vous ai pas tout dit la dernière fois.
+{51437}{51495}Ça ne me semblait pas très important.
+{51513}{51541}Voyez-vous,
+{51555}{51640}elle a pris la place d'une photo|d'un genre bien différent.
+{51646}{51678}Quel genre ?
+{51703}{51780}Une reproduction de Notre Seigneur|sur le chemin du calvaire.
+{51799}{51881}Alan avait insisté pour l'acheter|avec son argent de poche
+{51890}{51977}et l'accrocher à un endroit|où il la verrait avant de s'endormir.
+{51996}{52048}Mon mari était très mécontent.
+{52060}{52128}Et franchement elle est un peu exagérée.
+{52151}{52196}Et puis un jour,
+{52199}{52297}M.Strang et moi on a eu|une de nos prises de bec sur la religion,
+{52300}{52395}il a grimpé les escaliers quatre à quatre|et il l'a arrachée du mur.
+{52415}{52470}Alan en a fait une crise.
+{52471}{52536}Il a pleuré pendant des jours, sans arrêt.
+{52533}{52603}Mais ça s'est arrangé|quand il a eu la photo du cheval ?
+{52602}{52627}Oui.
+{52645}{52725}Il l'a accrochée|exactement au même endroit.
+{52746}{52809}Et c'en a été fini de ces horribles pleurs.
+{54698}{54806}Il a porté nos chagrins|et il s'est chargé de nos douleurs
+{56203}{56236}M.Dalton ?
+{56261}{56309}Je m'appelle Dysart. Je suis médecin.
+{56309}{56397}Je m'occupe d'Alan Strang.|Enfin, je soigne Alan Strang.
+{56422}{56524}Désolé de m'imposer comme ça|mais j'aimerais avoir un entretien avec vous.
+{56532}{56602}Je comprends|que ça doit être difficile pour vous.
+{56601}{56631}Difficile ?
+{56643}{56688}Je n'ai pas d'autre mot.
+{56697}{56765}S'il ne tenait qu'à moi|ce garçon serait mort.
+{56772}{56834}J'aurais dû le tuer cette nuit-là.
+{56834}{56946}Maintenant il est à l'hôpital, évidemment.|Chambre individuelle, trois repas par jour,
+{56945}{57035}traitement thérapeutique,|ping-pong, vannerie.
+{57089}{57194}- M.Dalton...|- Il faut être moderne.
+{57196}{57271}Après tout il n'y a plus de criminels.
+{57290}{57385}On est tous capables de tout.|Je le sais. On me l'a assez répété.
+{57381}{57428}Pardonner et oublier,
+{57434}{57476}deux mois de ping-pong
+{57484}{57537}et il a payé sa dette à la société.
+{57798}{57828}M.Dalton ?
+{57856}{57896}Allez vous faire voir !
+{57990}{58047}Désolé, je ne peux pas m'en empêcher.
+{58057}{58134}Je n'arrête pas de le voir. Sans arrêt.
+{58150}{58183}Jill a fait une dépression.
+{58184}{58234}- Jill ?|- Elle travaillait pour moi.
+{58235}{58305}Une grosse dépression.|Elle ne s'en sortira jamais.
+{58304}{58392}Bien sûr elle culpabilise|puisque c'est elle qui l'a amené ici.
+{58388}{58503}- C'est une fille qui l'a amené ?|- C'est ce que j'ai dit, non ? Jill Mason.
+{58527}{58597}Excusez ma stupidité|mais est-ce que c'était sa petite amie ?
+{58596}{58629}Comment je le saurais ?
+{58630}{58703}Non, il l'a rencontrée quelque part,|il lui a parlé de travail.
+{58700}{58752}Elle lui a dit de venir me voir.
+{58769}{58842}- Foutez le camp maintenant !|- Oui, je m'en vais.
+{58855}{58928}Une chose, la première fois,|il vous a semblé particulier ?
+{58927}{58992}- Enfin, étrange en quoi que ce soit ?|- Non.
+{59004}{59047}Il bossait sacrément bien.
+{59066}{59131}Des heures avec les chevaux,|étrillant, pansant,
+{59131}{59186}bien plus qu'il avait à le faire.
+{59208}{59260}C'était une vraie perle.
+{59296}{59399}Apparemment, tout le temps où il a travaillé|pour vous il n'a jamais monté.
+{59397}{59457}- C'est vrai.|- Ce n'était pas bizarre ?
+{59462}{59514}Sûrement s'il ne le faisait pas.
+{59546}{59581}Comment ça ?
+{59579}{59647}De temps à autre, toute cette année-là,
+{59656}{59744}j'ai eu l'impression|que les chevaux sortaient la nuit.
+{59771}{59844}- La nuit ?|- Des trucs étranges que j'ai remarqués.
+{59860}{59885}Enfin,
+{59903}{59990}trop souvent|il y en avait un qui transpirait le matin
+{59987}{60052}sans être malade. Qui transpirait beaucoup.
+{60054}{60114}Sa stalle était moins sale|qu'elle aurait dû
+{60114}{60151}s'il y avait passé toute la nuit.
+{60153}{60233}Bêtement je n'y ai jamais fait très attention|à l'époque.
+{60246}{60331}Ce n'est que quand j'ai compris|que j'avais embauché un dingue
+{60345}{60462}que je me suis demandé|s'il n'avait pas toujours monté en cachette.
+{60601}{60661}D'accord, c'est juste mon imagination.
+{60673}{60771}Ce truc m'a tellement secoué|que je pourrais croire n'importe quoi.
+{60836}{60881}Pourquoi on ferait ça ?
+{60927}{60997}Pourquoi un jeune homme|monterait tout seul la nuit
+{60997}{61074}s'il peut le faire le jour avec les autres ?
+{61088}{61125}A vous de répondre !
+{61136}{61188}Il est dingue, non ?
+{61548}{61590}Cette fille, Jill Mason,
+{61593}{61651}vous pourriez me dire où elle habite ?
+{61654}{61721}Sa mère tient un magasin|à un mile.
+{61723}{61803}- Elle est antiquaire.|- Merci.
+{61814}{61857}Elle n'y sera pas.
+{62030}{62070}Autre chose.
+{62068}{62151}Quand le cheval est apparu|j'ai regardé dans sa bouche.
+{62157}{62209}Il y avait une chaîne dedans.
+{62272}{62329}J'ai demandé "Ça fait mal ?" et il...
+{62337}{62380}Le cheval a dit...
+{62735}{62813}FERME POUR CAUSE DE MALADIE|EN CAS D'URGENCE APPELER...
+{63083}{63143}Après ça a toujours été pareil.
+{63164}{63244}A chaque bruit de sabot|il fallait que j'aille voir
+{63272}{63310}dans les sentiers,
+{63351}{63381}partout,
+{63500}{63555}juste pour voir leur peau
+{63596}{63653}et la façon dont leur cou se tord.
+{63689}{63737}La sueur coule dans les plis.
+{63794}{63837}Des mots comme "rênes",
+{63852}{63882}"éperons",
+{63900}{63980}"flancs", "éperonnant les flancs|de sa monture"...
+{63977}{64025}Ces mots suffisaient à me...
+{64056}{64111}La façon dont ils se donnent à nous.
+{64135}{64170}C'était ça aussi.
+{64224}{64321}Ils pourraient nous mettre en pièces|avec leurs sabots et ils ne le font pas.
+{64334}{64436}Ils passent des journées à tourner|au bout d'une corde, totalement humbles.
+{64483}{64583}Ils nous donnent toute leur force|et nous ne leur donnons que des coups.
+{64641}{64688}Ils peuvent courir sans trêve.
+{64706}{64771}Galoper jusqu'à la mort
+{64804}{64854}si on ne leur dit pas "Arrête !"
+{64900}{64942}Ils vivent pour nous,
+{64967}{65004}uniquement pour nous,
+{65034}{65076}toute leur vie.
+{65150}{65205}Longtemps je ne l'ai dit à personne.
+{65236}{65308}Ma mère n'aurait pas compris.|Elle aime l'équitation,
+{65305}{65358}les bombes, les jodhpurs.
+{65370}{65470}Mon oncle s'habillait pour le cheval dit-elle.|Mais ça veut dire quoi ?
+{65473}{65518}Le cheval n'est pas habillé.
+{65533}{65563}Il est nu.
+{65562}{65672}Il est plus nu que tout, plus qu'un chien,|un chat ou quoi que ce soit.
+{65677}{65749}Même la plus vieille haridelle a sa vie.
+{65746}{65819}Mettre dessus un cavalier en tenue|c'est dégoûtant.
+{65821}{65928}Les mettre à son pas, quelle honte !|Satanés spectacles équestres !
+{65941}{65993}Personne ne comprend.
+{66046}{66108}Sauf les cow-boys. Eux oui.
+{66125}{66238}Mais ils sont libres. Ils sautent en selle|et en avant pour des miles.
+{66274}{66329}Je parie qu'ils sont tous orphelins.
+{66346}{66381}Je parie que oui.
+{66398}{66446}Personne ne dit aux cow-boys:
+{66449}{66499}"Comprends-moi." Ou Dieu.
+{66499}{66587}"Dieu te voit toujours Alan.|Dieu a des yeux partout."
+{66600}{66708}Non, j'arrête, je déteste ça.|Sifflez tant que vous voulez. J'en ai marre.
+{66895}{66990}- Je suis très occupé vous savez.|- C'est pourquoi je me suis déplacé.
+{67041}{67109}M.Strang, vous me cachez quelque chose ?
+{67108}{67141}Comment ça ?
+{67144}{67244}La dernière fois vous avez dit|que la religion était à la base de tout ça.
+{67245}{67267}Et c'est vrai.
+{67269}{67366}- Parce que sa mère lui lit la Bible ?|- Tous les soirs.
+{67394}{67504}Il y a 50 ans|on aurait trouvé ça normal pour une mère.
+{67549}{67594}Je sais que je suis impertinent.
+{67595}{67675}Je suis indiscret et curieux.
+{67722}{67805}Mais si vous voulez aider Alan,|vous devez m'aider.
+{67830}{67887}Ça peut être n'importe quoi.
+{67909}{67954}N'importe quel foutu truc !
+{68502}{68607}- Votre femme m'a parlé de la photo.|- Non, ce n'est pas ça, c'est...
+{68679}{68721}C'est à propos de ça.
+{68806}{68839}C'est pire.
+{68945}{69043}Je voulais vous le dire l'autre jour,|mais devant Dora je n'ai pas pu.
+{69050}{69090}J'aurais peut-être dû.
+{69091}{69206}Ça lui aurait peut-être montré où ça mène|ce qu'elle lui met dans la tête dans mon dos.
+{69204}{69247}De quoi s'agit-il ?
+{69295}{69358}- D'une chose dont j'ai été témoin.|- Où ?
+{69374}{69406}A la maison,
+{69415}{69455}il y a 18 mois.
+{69542}{69587}Il était tard.
+{69628}{69708}Il était couché depuis des heures,|du moins je le croyais.
+{69717}{69745}Continuez.
+{69806}{69856}En sortant de la salle de bains
+{69892}{69929}j'ai entendu...
+{69952}{70000}Je l'ai entendu psalmodier.
+{70026}{70076}- Psalmodier ?|- Oui, vous savez.
+{70098}{70193}D'après la Bible, une de ces litanies|que sa mère n'arrêtait pas de lui lire.
+{70191}{70294}Ces "a engendré un tel, a engendré"...|Vous savez, de la généalogie.
+{70300}{70357}A quoi ressemblait la litanie d'Alan ?
+{70374}{70437}Je me rappelle le genre de truc...
+{70482}{70524}D'abord j'ai entendu le mot...
+{70525}{70570}Prince.
+{70588}{70623}- Prince ?|- Oui.
+{70661}{70706}Prince a engendré Prance.
+{70755}{70817}Et Prance a engendré Prankus.
+{70885}{70935}Et Prankus a engendré Flankus.
+{71005}{71057}Et Flankus a engendré Spankus.
+{71127}{71227}Et Spankus a engendré Spunkus le Grand|qui vécut trois fois vingt ans.
+{71297}{71349}Et Leckwus a engendré Neckwus.
+{71414}{71492}Et Neckwus a engendré Fleckwus,|le roi du Crachat.
+{71590}{71657}Et Fleckwus parlait dans son tchink-tchank.
+{71671}{71698}Quoi ?
+{71702}{71782}Je suis sûr que c'était ce mot.|Je ne l'ai jamais oublié.
+{71779}{71814}"Tchink-tchank."
+{71870}{71973}Et il a dit "Voyez, je vous donne Equus,|le seul fils que j'ai engendré."
+{72014}{72039}Equus ?
+{72047}{72127}Aucun doute,|il a répété ce mot plusieurs fois.
+{72156}{72188}"Equus,
+{72218}{72270}"le seul fils que j'ai engendré."
+{72364}{72394}Et puis
+{72412}{72447}il a pris une...
+{72482}{72507}corde...
+{72556}{72621}et il l'a mise dans la bouche, et...
+{72671}{72711}de l'autre main,
+{72767}{72800}il a pris un...
+{72846}{72901}cintre, en bois,
+{73049}{73084}et il...
+{74290}{74375}Vous voyez,|je ne pouvais pas le dire à sa mère.
+{74424}{74504}La religion est à la base de tout ça,|vous ne voyez pas ?
+{74579}{74634}Vous lui en avez parlé par la suite ?
+{74675}{74700}Non.
+{74716}{74816}Je ne peux pas parler de ces choses-là.|Ce n'est pas dans ma nature.
+{74927}{74957}Je le vois.
+{75064}{75104}Je vais vous aider.
+{75134}{75226}Passez-le sous l'eau.|Vous m'avez énormément aidé.
+{75495}{75575}Strang, il y a autre chose ?
+{75599}{75669}En fait oui. Une chose.
+{75695}{75732}La nuit...
+{75744}{75787}où il a fait ça,
+{75807}{75887}cette chose horrible aux écuries...
+{75920}{75980}Cette nuit-là il était avec une fille.
+{76003}{76073}- Comment vous le savez ?|- Je le sais, c'est tout.
+{76088}{76160}- C'était Jill Mason ?|- Je ne connais pas son nom.
+{76157}{76222}- Qu'est-ce que vous savez ?|- Je ne peux pas en dire plus.
+{76222}{76324}- M.Strang...|- Demandez-lui s'il était avec une fille.
+{76469}{76572}- Merci pour la cassette. Elle était excellente.|- Oui, je n'en ferai plus.
+{76579}{76659}Je n'ai pas compris une chose,|tu as commencé à dire
+{76656}{76716}que le cheval de la plage t'avait parlé.
+{76723}{76796}- Stupide, les chevaux ne parlent pas.|- Je le crois.
+{76826}{76873}Je ne sais pas de quoi vous parlez.
+{76874}{76939}Ce n'est pas grave. Dis-moi autre chose.
+{76938}{77006}Qui t'a amené aux écuries ?
+{77010}{77058}Quelqu'un que j'ai rencontré.
+{77066}{77096}Où ?
+{77130}{77203}Bonjour, je peux t'aider ?
+{77226}{77314}- Non.|- Tu traînes toujours par ici, non ?
+{77349}{77436}- Moi ?|- Oui. Tous les jours à l'heure du déjeuner.
+{77442}{77500}- Je t'ai vu.|- Pas moi.
+{77514}{77594}Bien sûr que si.|Tu cherches du boulot ou quoi ?
+{77605}{77683}Il y en a ? Je n'ai que les week-ends.
+{77682}{77767}Les gens montent le week-end.|Des bras en plus ça serait bien.
+{77766}{77843}- Il faudra surtout enlever le crottin.|- Ça m'est égal.
+{77845}{77870}Je t'en prie.
+{77872}{77944}Viens samedi. Je te présenterai à M.Dalton.
+{77969}{78004}Et tu y es allé ?
+{78032}{78062}Oui.
+{80075}{80100}Bonjour !
+{80142}{80177}Alors tu es venu.
+{80367}{80457}Allons chercher M.Dalton.|Je m'appelle Jill à propos. Et toi ?
+{80521}{80616}Tous les cavaliers sont accompagnés|madame. Aucun ne peut sortir seul.
+{80639}{80739}Très bien, je la note pour 15 heures.|Votre nom je vous prie ?
+{80741}{80774}Mme Shawcross.
+{80797}{80839}Merci. Au revoir.
+{80864}{80914}Voici Alan Strang M.Dalton.
+{80965}{81022}Tu as déjà travaillé dans une écurie ?
+{81039}{81099}- Tu sais monter ?|- Non, je ne veux pas.
+{81120}{81180}Ce n'est pas en plus.|Ça fait partie du travail.
+{81180}{81227}Je veux juste travailler ici.
+{81233}{81273}Tu aimes les chevaux ?
+{81297}{81352}Une aide nous sera utile, c'est sûr.
+{81353}{81415}Il y a du travail pour six lads ici.
+{81415}{81492}Quatre livres par jour.|Le samedi et le dimanche. Ça va ?
+{81502}{81542}- Oui monsieur.|- Bon.
+{81566}{81646}Tout doit être en ordre,|sec et propre à tout moment.
+{81665}{81762}Règle numéro un : ne jamais dire qu'on sait|quand ce n'est pas vrai.
+{81780}{81842}En fait, règle numéro un: s'amuser.
+{81852}{81902}Souviens-toi, 7 heures 30 précises.
+{81926}{82004}Les chevaux ne font pas la grasse matinée.|A plus tard.
+{82087}{82157}Voici Nugget. Viens, c'est ça.
+{82250}{82290}C'est mon préféré.
+{82370}{82415}Ça c'est une brosse douce.
+{82424}{82469}On s'en sert avec une étrille.
+{82470}{82530}On panse toujours dans le même sens,
+{82530}{82575}des oreilles vers le bas.
+{82597}{82652}N'aie pas peur de frotter trop fort.
+{82653}{82730}Plus tu frottes, plus les chevaux adorent.
+{82758}{82823}A travers la robe, comme ça.
+{82830}{82910}Travaille vers la queue et à travers la robe.
+{82921}{82953}Tu vois comme il aime ça ?
+{82955}{83025}Je te fais un bon massage, hein mon joli ?
+{83067}{83105}Tiens, essaie.
+{83359}{83394}Calmement.
+{83401}{83438}Ne te presse jamais.
+{83470}{83543}Travaille vers la queue et à travers la robe.
+{83561}{83591}C'est ça.
+{83612}{83642}Encore.
+{83736}{83831}Tu es doué, ça se voit.|Ça va être sympa de t'apprendre.
+{83828}{83875}Jill !
+{83882}{83955}- Quoi ?|- M.Dalton te demande. Tout de suite.
+{83954}{84017}Continue un quart d'heure.|Puis passe à Trooper.
+{84015}{84050}A tout à l'heure.
+{87575}{87645}Bon, je m'en vais.|Je reviendrai après déjeuner.
+{87651}{87759}Si quelqu'un téléphone note-le.|Deux cavaliers cet après-midi. C'est tout.
+{87884}{87959}C'était agréable ? De les toucher ?
+{87982}{88052}Ça a dû être merveilleux|d'être enfin près d'eux,
+{88071}{88143}de les rendre tout frais et lustrés.
+{88191}{88213}Dis-moi,
+{88239}{88299}tu travaillais là-bas tous les week-ends ?
+{88299}{88324}Oui.
+{88335}{88387}Tu as dû beaucoup voir la fille.
+{88404}{88459}Parle-moi d'elle. Elle te plaisait ?
+{88495}{88555}- Allez, dis-moi.|- D'accord.
+{88575}{88642}- Elle était gentille ?|- Oui.
+{88644}{88707}- Ou distante ?|- Oui.
+{88711}{88766}- Lequel des deux ?|- Quoi ?
+{88767}{88804}Elle était comment ?
+{88879}{88962}Tu l'as invitée à sortir ?
+{88994}{89049}- Tu es sorti avec elle ?|- Quoi ?
+{89056}{89086}Dis-moi si tu l'as fait.
+{89088}{89115}"Dis-moi !"
+{89119}{89214}"Dis-moi, dis-moi." Sans arrêt.|Espèce de fouine.
+{89215}{89290}C'est ce que vous êtes, une sale fouine,|comme mon père.
+{89289}{89366}- "Dis-moi ci, dis-moi ça" tout le temps.|- Je suis désolé.
+{89363}{89433}C'est à moi maintenant.|Dites-moi, répondez-moi.
+{89450}{89530}- On ne joue pas à ce jeu.|- On joue à ce que je dis.
+{89553}{89580}Très bien.
+{89603}{89641}Qu'est-ce que tu veux savoir ?
+{89641}{89676}Vous sortez avec des filles ?
+{89678}{89713}Je te l'ai dit, je suis marié.
+{89713}{89763}Je sais. A Margaret, une dentiste.
+{89764}{89811}Vous voyez ? Je me suis renseigné.
+{89809}{89852}Pourquoi vous l'avez choisie ?
+{89852}{89927}Vous la mordiez|quand elle vous baisait sur le fauteuil ?
+{89924}{89957}Ce n'est pas drôle.
+{89958}{90018}- Vous la trompez ?|- Non.
+{90018}{90045}Alors quoi ?
+{90044}{90084}Vous la baisez ?
+{90105}{90157}- Bon.|- Allez, dites-moi.
+{90155}{90203}- Ça suffit.|- Je parie que non.
+{90202}{90272}Vous ne la touchez jamais je parie.|Pas d'enfants, hein ?
+{90272}{90324}C'est parce que vous baisez pas ?
+{90327}{90402}Va dans ta chambre. Sur-le-champ.
+{91006}{91048}Donne-moi ces cigarettes.
+{91133}{91173}Donne-les-moi !
+{91454}{91492}Maintenant va-t'en.
+{91771}{91811}Absolument remarquable.
+{91812}{91882}Le garçon esquive et il se défend.|Je suis quoi alors ?
+{91881}{91976}Le petit salaud vicieux ! Il savait exactement|quelles questions poser.
+{91972}{92030}Ce qui n'a rien d'épouvantable.
+{92028}{92078}Les grands névrosés sont parfois comme ça.
+{92077}{92175}Ils visent en plein|dans la zone de vulnérabilité maximale,
+{92212}{92292}ce qui est une description de Margaret|qui en vaut une autre.
+{92291}{92323}Arrête ça.
+{92325}{92402}- Je te gêne ?|- Ça ne va pas tarder je pense.
+{92399}{92454}Ma femme ne me comprend pas|Votre Honneur.
+{92454}{92499}Tu la comprends ?
+{92531}{92556}Non.
+{92579}{92629}Et je ne l'ai jamais comprise.
+{92648}{92681}Désolée.
+{92723}{92768}Je n'aime pas poser de questions.
+{92768}{92856}Mais pour moi vous n'avez jamais été|exactement compatibles.
+{92854}{92917}On l'était. Ça a marché un moment.
+{92921}{92956}Pour nous deux je veux dire.
+{92958}{93010}Elle pour moi, par une espèce de...
+{93011}{93041}d'impatience,
+{93046}{93159}une impatience claire, rousse, inaccessible,|qui m'a remonté pendant des mois.
+{93178}{93250}Enfin, si on est comme moi|branché par l'hygiène nordique,
+{93250}{93337}on peut difficilement trouver|plus attirant qu'une dentiste écossaise.
+{93337}{93392}C'est toi qui es vicieux, tu sais.
+{93389}{93414}Pas du tout.
+{93415}{93505}Elle en a autant à mon service.|Efficacité aseptisée.
+{93524}{93569}J'étais comme ça à l'époque.
+{93576}{93638}Je nous vois sur notre photo de mariage,
+{93639}{93701}Dr et Dr MacImpatient.
+{93701}{93798}On s'est fait la cour impatiemment,|mariés impatiemment, déçus impatiemment.
+{93794}{93879}Fui l'un l'autre impatiemment|et réfugié chacun dans son cabinet.
+{93879}{93954}Et maintenant il y a un joli rien impatient.
+{93975}{94040}Vous n'avez pas eu d'enfants, n'est-ce pas ?

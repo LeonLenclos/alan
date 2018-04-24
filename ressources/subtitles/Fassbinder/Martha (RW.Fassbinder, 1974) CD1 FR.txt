@@ -1,0 +1,575 @@
+{535}{603}Oui papa, j'arrive.
+{764}{805}Excuse-moi papa, mais...
+{811}{897}Non papa, je suis sous la douche.|Je sais. Tout de suite papa...
+{909}{957}Je descends tout de suite.
+{3077}{3119}Mais papa...
+{3128}{3186}Tu ne comprends pas|un mot de ce journal !
+{3192}{3217}Enfin !
+{3249}{3305}Je dois toujours t'attendre Martha.
+{3317}{3391}J'ai passé ma vie|à vous attendre toi et ta mère.
+{3404}{3447}Tu dis des bêtises papa.
+{3459}{3553}- Je ne dis pas de bêtises.|- Alors tu exagères.
+{3565}{3634}Tu essaies toujours|de m'entraîner dans des discussions
+{3641}{3687}quand tu as tort.
+{3707}{3754}- Pardon papa.|- Je t'en prie.
+{3759}{3829}Ça aussi tu ne le dis|que pour me faire taire.
+{3908}{3982}Aurais-tu la gentillesse|de nous commander un taxi ?
+{4030}{4063}A vos ordres !
+{4331}{4361}Immédiatement.
+{4435}{4466}Au fait...
+{4478}{4567}C'est moi qui ai envoyé le Libyen|à qui vous faisiez de l'œil hier.
+{4649}{4761}- J'ai fait de l'œil à qui ?|- Au Noir. Hier.
+{4773}{4829}Vous savez, je suis|dans le métier depuis 20 ans...
+{4848}{4944}Je n'ai jamais fait de l'œil|à qui que ce soit. Jamais !
+{4956}{4991}Ce n'est pas mon genre.
+{4998}{5046}Excusez-moi. Je croyais...
+{5109}{5195}Le taxi ! N'oubliez pas le taxi !
+{5256}{5324}Papa, j'aimerais envoyer|une carte postale à maman.
+{5360}{5424}Si tu crois que c'est nécessaire !
+{5594}{5697}''Maman ! Nous allons bien.|Il fait beau. Rome est fantastique.
+{5709}{5806}Et papa est si bon envers moi.|Martha''
+{5876}{5948}- Votre taxi.|- Il ne me manque que le timbre.
+{6104}{6134}Viens Martha !
+{6147}{6170}Mais ...
+{6381}{6427}Ça a marché ? Mais non !
+{7152}{7246}Va savoir pourquoi ils permettent ça|à un endroit pareil !
+{7263}{7306}Oui papa.
+{7318}{7366}C'est surprenant.
+{7383}{7410}Viens !
+{7747}{7820}Ça ne va pas papa ?|Ça te fatigue trop ?
+{7835}{7934}Non, mais cet escalier|n'en finit pas.
+{7982}{8005}Oui...
+{8067}{8118}Il est très fatigant.
+{8266}{8328}Tu veux t'appuyer|un peu sur moi papa ?
+{8626}{8706}Tu cherches toujours|à me toucher Martha !
+{9589}{9655}Papa, dis quelque chose !
+{9689}{9716}Papa !
+{9750}{9782}Je t'en prie !
+{9794}{9841}Mon Dieu, dis quelque chose !
+{9848}{9890}Je t'en prie...
+{9914}{9963}Lâche-moi Martha.
+{11041}{11089}Mon sac !
+{11141}{11169}Mon sac...
+{11181}{11239}On a volé mon sac !
+{13357}{13381}Maman !
+{13426}{13515}Promets-moi de rester calme maman.|Tout à fait calme.
+{13527}{13597}J'ai une terrible|nouvelle à t'annoncer.
+{13609}{13659}Je ne sais pas...
+{13671}{13724}Non maman, c'est que...
+{13751}{13833}Papa est décédé aujourd'hui...
+{13845}{13948}Il s'est écroulé tout d'un coup dans|l'escalier de la Place d'Espagne.
+{14028}{14126}Il n'y avait plus rien|à faire pour lui. Ensuite...
+{14138}{14266}De plus on m'a volé mon sac à main|avec tout notre argent.
+{14282}{14366}Papa n'a pas souffert du tout.|Ça s'est passé si vite.
+{14378}{14471}Il ne faut pas pleurer maman.|Tu sais bien...
+{14503}{14576}qu'il croyait fermement en Dieu.|Alors...
+{14588}{14642}Ce n'est pas si grave pour lui.
+{14662}{14734}C'est pour ça que je suis|à l'Ambassade d'Allemagne,
+{14740}{14785}à cause de l'argent.
+{14791}{14842}Il faut régler ça vite madame.
+{14854}{14932}- Nous fermons dans 10 minutes.|- Volontiers, posez vos questions !
+{14944}{14977}Je vous comprends.
+{14988}{15068}- Non maman, c'est ici.|- Votre nom ?
+{15086}{15140}Heyer... Martha Heyer.
+{15152}{15221}Je dois leur donner plein|de renseignements.
+{15227}{15289}Ils vont m'aider.|Je suis complètement perdue.
+{15295}{15337}Papa m'avait donné tout l'argent.
+{15343}{15425}Il n'aime pas avoir d'argent|sur lui. Tu le sais très bien.
+{15431}{15501}- Votre âge ?|- 31 ans.
+{15516}{15611}Ces derniers jours|il était si heureux, si serein.
+{15617}{15718}Et l'Eglise Saint-Pierre !|Il voulait la voir depuis des années.
+{15732}{15788}- Mariée ?|- Non, célibataire.
+{15806}{15877}Il n'arrête pas de dire|qu'il veut voir le Pape.
+{15893}{15995}Il ne le pense pas sérieusement.|Il se l'imagine et il s'emballe.
+{16021}{16080}- Votre adresse exacte ?|- Constance...
+{16088}{16144}20 Detlef Sierck Strasse.|C'est là aussi que je suis née.
+{16150}{16257}Je suis allée à l'école à Constance.|J'ai mon bac et je suis bibliothécaire.
+{16263}{16350}J'ai toujours éprouvé|un grand intérêt pour les livres.
+{16365}{16441}Pas si vite.|Je dois tout noter.
+{16447}{16481}Bien sûr.
+{16510}{16557}Je suis un peu nerveuse.
+{16568}{16626}Comprenez-vous... la situation !
+{16690}{16738}Ne pleure pas maman !
+{16744}{16831}Papa déteste te voir pleurer.|Tu le sais très bien.
+{16846}{16899}Il a toujours détesté nous voir...
+{17025}{17108}Il a toujours détesté|nous voir pleurer ma mère et moi.
+{17135}{17178}Je viens de raccrocher.
+{17190}{17238}Je l'ai fait sans réfléchir.
+{17268}{17316}C'est arrivé tout seul.
+{17365}{17411}Je n'y peux rien.
+{17474}{17526}Aidez-moi !
+{17538}{17623}Je me suis sauvée tout simplement|et j'ai abandonné papa.
+{17636}{17700}Je ne savais pas du tout quoi faire.
+{17712}{17792}Dites...|Vous auriez une cigarette pour moi ?
+{18158}{18181}Merci.
+{18307}{18395}- Vous allez m'aider ?|- Bien sûr mademoiselle Heyer.
+{18401}{18450}Bien sûr que nous allons vous aider.
+{18463}{18516}Je vous l'ai déjà promis.
+{18564}{18650}Vous savez, c'est la première|cigarette de ma vie.
+{18685}{18733}Papa m'a interdit de fumer.
+{18761}{18788}Dites-moi...
+{18800}{18889}Auriez-vous la gentillesse|de refaire le numéro de ma mère ?
+{19446}{19487}Excuse-moi...
+{19499}{19563}mais la ligne a été coupée.
+{19587}{19643}Figure-toi|que je suis en train de fumer !
+{19655}{19692}C'est la première fois.
+{19704}{19777}Les gens sont tous très gentils ici.
+{19794}{19862}Ils m'aideront à ramener|le corps de papa en Allemagne.
+{21155}{21203}- Non, non...|- Maman !
+{22031}{22071}Viens maman !
+{22110}{22148}Assieds-toi ici !
+{22383}{22474}Qu'est-ce que tu as bien pu faire|pour irriter papa à ce point ?
+{22486}{22567}Il n'a jamais arrêté|de se mettre en colère après toi.
+{22598}{22637}Assieds-toi.
+{22648}{22695}Assieds-toi Martha !
+{22915}{22968}Tu ne peux pas être|comme tout le monde ?
+{22979}{23103}Papa ne s'est occupé que de toi.|Tu as toujours accaparé son énergie.
+{23153}{23226}- Bonjour Erna.|- Bonjour mademoiselle Heyer.
+{23597}{23638}Me revoilà.
+{23799}{23828}Asseyez-vous !
+{24124}{24217}Je me suis sentie|un peu seul sans vous.
+{24330}{24392}Cette affreuse histoire|avec votre père !
+{24404}{24461}Ce que vous avez dû endurer !
+{24473}{24532}C'était un homme très cultivé.
+{24546}{24576}Quel dommage !
+{24649}{24701}Il était malade depuis longtemps ?
+{24707}{24808}Oui. Papa avait une déficience|cardiaque depuis son enfance.
+{24839}{24899}Heureusement ça aide à surmonter.
+{24981}{25048}- Mademoiselle Heyer ?|- Oui.
+{25076}{25177}Vous vouliez me donner une réponse|à ma question après vos vacances ?
+{25224}{25308}Je suis résolue à ne pas me marier|monsieur Meister.
+{25495}{25529}Pas encore.
+{25541}{25599}Vous imaginez sans doute|combien ma mère
+{25605}{25652}a besoin de moi en ce moment.
+{25768}{25805}C'est si difficile.
+{25829}{25876}C'est très triste...
+{25888}{25952}pour moi mademoiselle Heyer.
+{26010}{26076}Mais je dois accepter|votre décision.
+{26122}{26145}Merci.
+{26381}{26473}Alors Erna, vous vous en êtes|sortie toute seule ?
+{26479}{26583}A peu près. Certaines choses|étaient difficiles à trouver.
+{26589}{26621}Mademoiselle von Scratch !
+{26650}{26708}- Oui.|- Venez un instant.
+{27599}{27657}Il veut m'épouser.
+{27752}{27819}Martha, si vous saviez|combien je suis heureuse.
+{27830}{27916}Nous serons si heureux.|Il a une si belle maison.
+{27930}{27977}Et il est si bon.
+{28517}{28574}Maman a retrouvé son équilibre.
+{28586}{28637}Elle voulait|voir le médecin aujourd'hui.
+{28649}{28708}Ça l'a plus touchée|que je le croyais.
+{28720}{28814}Bien sûr. Le jour même|elle a téléphoné partout.
+{28820}{28892}Elle a insulté les gens,|moi y compris.
+{28901}{28956}Elle était passablement ivre|je crois.
+{29006}{29029}Ivre ?
+{29064}{29112}Je ne crois pas Marianne.
+{29124}{29225}Papa n'aurait jamais toléré|d'alcool sous son toit.
+{29237}{29281}Je ne suis pas certaine Martha.
+{29287}{29348}Je l'ai supposé|parce qu'elle était bizarre.
+{29354}{29387}Elle buvait peut-être en cachette
+{29393}{29485}sans que ton père et toi|vous l'ayez jamais remarqué.
+{29496}{29520}Maman ?
+{29613}{29641}Enfin...
+{29652}{29686}Tu as peut-être raison.
+{29702}{29794}Si tu savais ce qui se passe|en cachette dans un couple !
+{29800}{29884}J'ai toujours discuté avec Edgar|quand je n'étais pas de son avis.
+{29890}{29936}Bien sûr, c'est normal.
+{29942}{30013}Non, ça ne l'est pas.|Bien au contraire !
+{30031}{30130}J'ai appris à donner raison|à mon mari, toujours et partout.
+{30136}{30222}Mais quand il le faut les choses|se passent comme je le désire.
+{30228}{30282}Edgar ne s'en rend même pas compte.
+{30294}{30323}Mais c'est ...
+{30336}{30357}C'est...
+{30363}{30417}Malhonnête ? D'accord.
+{30423}{30506}C'est peut-être malhonnête|mais aussi plus paisible.
+{30512}{30563}Et ça demande moins de calmants.
+{30589}{30612}Et...
+{30658}{30679}le divorce ?
+{30705}{30778}On n'en parle plus|depuis longtemps. Eh oui...
+{30793}{30865}Beaucoup de choses ont changé|ces dernières semaines.
+{31098}{31115}Qui c'est ?
+{31138}{31162}Le Dr Salomon.
+{31168}{31227}Tu devrais le connaître.|Il a demandé Ilse en mariage.
+{31234}{31251}Et elle ?
+{31263}{31323}Elle a bien sûr accepté.|Elle serait bien bête.
+{31333}{31425}Salut mes chéries. Excusez-moi|de ne pas pouvoir rester.
+{31431}{31490}J'ai un empêchement. Salut !
+{31716}{31780}Meister a reparlé de mariage|aujourd'hui.
+{31785}{31812}Et alors ?
+{31833}{31856}Je...
+{31922}{31986}Tu sais, à cause de maman.
+{32018}{32056}Elle a besoin de moi. Alors...
+{32062}{32103}Alors tu as refusé.
+{32156}{32229}Tu es bien bête.|C'est un beau parti.
+{32258}{32332}- Maintenant il épouse Erna.|- Erna qui ?
+{32344}{32430}- Erna von Scratch, ma collègue.|- Enfin...
+{32442}{32541}Ça devait arriver.|Mais c'est tout de même intéressant.
+{32591}{32647}Il est déjà si tard.|Excuse-moi Martha.
+{32653}{32750}Il faut que j'y aille.|Edgar m'attend. Il s'impatiente vite.
+{32812}{32850}Allez, à la prochaine !
+{33768}{33791}Maman...
+{33820}{33893}Mademoiselle daigne enfin|rentrer à la maison ?
+{33905}{33973}Pardonne-moi.|J'aurais dû t'appeler.
+{33986}{34024}Allez ! Lève-toi !
+{34095}{34140}Depuis quand tu bois ?
+{34195}{34243}Tu n'as jamais bu autrefois.
+{34356}{34420}- Maman !|- Petite imbécile !
+{34438}{34502}Ça fait vingt ans que je bois.
+{34518}{34571}Vingt ans, tu entends ?
+{34792}{34844}Mange quelque chose maman !
+{34867}{34902}Tu es allée voir le médecin ?
+{34952}{35030}Cet imbécile !|Cet immense imbécile !
+{35036}{35081}Il n'y connaît rien.
+{35097}{35167}Il prétend que je suis|en bonne santé. Moi !
+{35225}{35353}Sauf que mes nerfs, dit-il,|sont un peu à vif.
+{35398}{35421}Non...
+{35457}{35499}Ce salaud !
+{35506}{35524}Maman...
+{35530}{35580}Maman, maman, maman...
+{35586}{35689}Personne ne me prend au sérieux.|Personne !
+{35732}{35793}Il m'a prescrit du valium.
+{35798}{35828}Tu vois.
+{35849}{35905}Il t'a bien prescrit quelque chose.
+{35928}{35996}Je n'ai pas d'ordres|à recevoir de toi.
+{36018}{36090}- Il n'en est pas question.|- Qu'est-ce que c'est que ça ?
+{36186}{36234}Ça ? C'est mon mari.
+{36421}{36458}J'en fais ce que je veux.
+{36464}{36505}Bien entendu maman.
+{36546}{36574}Au fait...
+{36597}{36652}Meister m'a redemandée|hier en mariage.
+{36663}{36678}Et alors ?
+{36694}{36725}J'ai refusé bien sûr.
+{36832}{36878}Cesse immédiatement de rire !
+{36894}{36931}Cesse de rire !
+{36942}{37007}Je ris et je bois autant que je veux.|Je fais ce que je veux.
+{37013}{37059}Ce que je veux, ce que je veux...
+{37326}{37417}Tu es une vieille fille repoussante|Martha.
+{37434}{37467}Tu me dégoûtes.
+{38187}{38289}Allons, allons... Pourquoi parler|de la mort lors d'un mariage ?
+{38301}{38405}On pense à la vie madame Heyer.|A la vitalité, aux enfants...
+{38415}{38450}Vous en voulez ?
+{38475}{38526}Hans ne veut pas d'enfants.
+{38532}{38569}Ilse, je t'en prie...
+{38574}{38647}Je n'ai jamais dit|que je ne voulais pas d'enfants.
+{38659}{38757}J'ai dit que l'éducation des enfants|me faisait peur. C'est tout.
+{38822}{38886}Aujourd'hui|on fait un problème de tout.
+{38948}{39039}Les enfants ne réclament|qu'un peu d'amour et de poigne.
+{39044}{39071}Pas plus.
+{39077}{39194}Je suis d'accord. Les adultes n'ont|qu'à transmettre leur expérience
+{39200}{39252}au lieu de faire confiance|au hasard.
+{39258}{39303}Comme disait Goethe...
+{39321}{39379}On pourrait mettre au monde|des enfants éduqués
+{39391}{39423}si les parents l'étaient.
+{39429}{39504}Tout à fait.|Tous ces discours sur la liberté...
+{39510}{39590}- La vie n'est pas libre non plus.|- Vous avez tous raison bien sûr.
+{39602}{39662}Nous avons tous été éduqués|de façon autoritaire
+{39674}{39733}et ça ne nous a pas porté préjudice.
+{39739}{39773}Cependant...
+{39779}{39865}Il n'y a pas de ''cependant''.|N'écoute pas ces idées modernes.
+{39871}{39940}Le code moral|n'est pas une question de mode.
+{39952}{39997}Vous hochez la tête Martha.
+{40009}{40061}Vous n'êtes pas de cet avis ?
+{40149}{40172}Moi ?
+{40192}{40305}Non, bien au contraire.|Je suis d'accord avec cette opinion.
+{40329}{40356}Docteur Salomon !
+{40362}{40416}Votre frère vient d'arriver.|Je vous en prie.
+{40424}{40442}Merci.
+{41033}{41069}Bonsoir Helmuth.
+{41075}{41099}Bonsoir.
+{41123}{41165}Je te présente Ilse.
+{41222}{41262}Mes félicitations.
+{41280}{41311}Assieds-toi.
+{41436}{41492}Je te présente la mère d'Ilse.
+{41522}{41550}Son père.
+{41593}{41636}Son amie Marianne...
+{41665}{41698}et son mari.
+{41725}{41762}Monsieur Meister,
+{41773}{41861}le directeur de la bibliothèque|du Land et sa femme.
+{41927}{42016}Le docteur Hauff,|notre médecin de famille à tous.
+{42059}{42105}Madame Heyer...
+{42117}{42167}et sa fille Martha.
+{42179}{42237}Bonsoir à tous.
+{42266}{42330}Nous nous connaissons déjà|je crois.
+{42353}{42405}Moi ? Mais...
+{42454}{42518}Si, si. Nous nous connaissons.
+{42529}{42587}Non, certainement pas.
+{42604}{42664}- J'en suis sûr madame...|- Mademoiselle...
+{42670}{42759}On s'est rencontrés à Rome|devant l'ambassade d'Allemagne.
+{42790}{42819}Ah, là-bas ?
+{42853}{42893}Oui, c'est vrai.
+{42906}{42995}Mais Martha... pourquoi|vous vouliez nous le cacher ?
+{43686}{43732}C'était ignoble de votre part.
+{43744}{43782}Mais c'est la vérité.
+{43818}{43874}Que va penser maman ?
+{43886}{43940}Elle a l'imagination si ...
+{43953}{43981}malsaine.
+{44024}{44072}Le mot ''connaître'',
+{44102}{44159}elle l'entend dans le sens biblique,
+{44171}{44224}si vous voyez ce que je veux dire.
+{44289}{44343}Mais vous êtes adulte ?
+{44351}{44406}Non, je ne le suis pas.
+{44597}{44620}Enfin...
+{44668}{44712}Oui, je suis adulte...
+{44729}{44795}seulement... maman l'ignore encore.
+{44813}{44877}Ou plutôt...|elle ne veut pas l'admettre.
+{44888}{44916}Elle est...
+{44963}{45016}Enfin, elle est un peu étrange.
+{45037}{45082}Elle n'a pas toujours été comme ça.
+{45088}{45152}C'est seulement|depuis la mort de papa. Mais...
+{45388}{45458}Je vous ai remarquée|tout de suite à Rome.
+{45469}{45528}Vous aviez les larmes aux yeux.
+{45583}{45631}Papa venait de mourir,
+{45654}{45734}environ un quart d'heure|avant notre rencontre.
+{45746}{45783}Au milieu de l'escalier...
+{45788}{45867}Je vous ai trouvée très excitante.
+{45935}{46004}Je ne vous ai pas oublié|non plus depuis.
+{46055}{46160}Je n'ai pas dit que|je ne vous avais pas oubliée depuis.
+{46189}{46217}Vous...
+{46333}{46388}Mais c'est peut-être vrai.
+{46406}{46460}Peut-être que je ne vous ai|pas oubliée...
+{46474}{46509}depuis.
+{46523}{46552}Oui...
+{46567}{46595}Peut-être.
+{46659}{46742}- Jamais couché avec un homme ?|- Qu'est-ce qui vous prend...
+{46754}{46787}Alors j'ai raison ?
+{46880}{46903}Oui.
+{46957}{46996}Vous avez raison.
+{47072}{47124}Vous vous trouvez belle ?
+{47245}{47314}Séduisante et ravissante ?
+{47328}{47351}Oui.
+{47369}{47395}Un peu.
+{47594}{47650}Je ne vous trouve pas très belle.
+{47810}{47886}Et aucunement séduisante|ou ravissante.
+{47902}{47980}Vous êtes trop mince,|presque maigre.
+{48003}{48119}Quand on vous regarde comme ça|on a l'impression de sentir vos os.
+{48220}{48317}De plus j'ai l'impression|que votre corps sent mauvais.
+{48523}{48546}Maman.
+{48595}{48666}Je dois retourner à l'intérieur.|Je vous en prie.
+{48895}{48916}Mon Dieu !
+{48937}{48969}Docteur, qu'est-ce qui est arrivé à maman ?
+{49007}{49043}Rien de grave.
+{49052}{49093}Inutile de vous inquiéter Martha.
+{49157}{49236}Votre mère a dû prendre|trop de tranquillisants par erreur.
+{49292}{49331}Aidez-moi s'il vous plaît.
+{49933}{50001}Qu'on prépare un peu de lait chaud !
+{50134}{50157}Olga !
+{50221}{50304}Apportez un verre de lait...|du lait !
+{50310}{50336}Tout de suite.
+{50470}{50517}Je vous remercie.|Vous pouvez disposer.
+{50523}{50602}Le fait de vous voir|ne la remettra pas sur ses pieds.
+{50707}{50740}Préparez le lait !
+{50981}{51016}Dites-moi Martha,
+{51022}{51071}qu'est-ce que vous avez fait à votre mère
+{51078}{51131}pour qu'elle aspire tant à la mort ?
+{51173}{51233}Restez près d'elle.|Je reviens immédiatement.
+{51239}{51287}Vous, faites chauffer le lait !
+{51344}{51373}Maman...
+{51401}{51457}tu en fais de belles !
+{51486}{51513}Vraiment !
+{51533}{51577}Ça ne fait plus rire personne|maman.
+{51635}{51693}Tu veux me tuer Martha.
+{51764}{51807}Bonjour mademoiselle Heyer.
+{51812}{51828}Bonjour.
+{51846}{51876}C'est elle.
+{51889}{51927}Approchez donc !
+{51936}{51985}Je vous présente monsieur Kaiser
+{51991}{52059}qui va prendre le poste de ma femme.
+{52072}{52133}Je lui ai dit|beaucoup de bien de vous
+{52139}{52207}et lui ai promis|que vous l'initieriez à son travail.
+{52212}{52296}- Vous le ferez, n'est-ce pas ?|- Bien sûr. Volontiers.
+{52302}{52344}Je le savais.
+{52350}{52418}- Merci beaucoup.|- De rien. Je le fais volontiers.
+{52424}{52450}Mais si.
+{52469}{52544}Quand on entame|un nouveau chapitre de sa vie...
+{52550}{52614}Je vous comprends très bien.|Venez !
+{52736}{52786}Qu'est-ce que vous préférez dans la vie ?
+{52798}{52835}Je ne sais pas.
+{52884}{52938}- Le destin.|- Comment ?
+{52954}{52984}Le destin !
+{52997}{53025}Pourquoi ?
+{53056}{53097}Vous trouvez ça drôle ?
+{53166}{53197}Je ne sais pas.
+{53244}{53279}Par désespoir ?
+{53317}{53378}Parlons de choses plus amusantes !
+{53384}{53460}Vous connaissez|''A quoi pense la souris le jeudi ?''
+{53465}{53531}- Non.|- Moi oui. Voilà :
+{53555}{53639}{y:i}A quoi pense Ia souris|{y:i}le jeudi, le jeudi ?
+{53645}{53714}{y:i}À la même chose|{y:i}que tous les autres jours.
+{53726}{53804}{y:i}Ah si j'avais une tartine|{y:i}au saucisson !
+{53810}{53866}{y:i}Avec plein de saucisson|{y:i}sur très peu de pain.
+{53872}{53919}- Ça vous plaît ?|- Oui.
+{53931}{53989}Alors on reprend ensemble.
+{54638}{54667}C'était qui ?
+{54740}{54762}Ça ?
+{54794}{54855}C'était l'homme que je vais épouser.
+{55052}{55075}Alors ?
+{55098}{55184}Ça me donne mal au cœur|et j'ai vraiment peur.
+{55190}{55254}Martha... je suis avec toi.
+{55260}{55304}C'est vrai mais...
+{55310}{55338}Allez !
+{55369}{55440}La peur est faite|pour être surmontée.
+{58160}{58208}Je veux que tu sois ma femme.
+{58232}{58274}Je veux t'épouser.
+{58458}{58496}Merci Helmuth.
+{58532}{58579}Merci, merci, merci.
+{58591}{58638}Tu n'imagines pas...
+{58650}{58731}combien je désirais|entendre ces mots.
+{59606}{59644}Asseyez-vous donc !
+{59676}{59742}- Merci. Je préfère rester debout.|- Comme vous voulez.
+{59758}{59859}Vous désirez boire quelque chose ?|Un cognac français peut-être ?
+{59864}{59952}Helmuth Salomon m'a demandé|de devenir sa femme maman.
+{59966}{60005}J'ai dit oui.
+{60019}{60070}Je vais épouser Helmuth.
+{60076}{60131}Tu ne le feras pas Martha.
+{60183}{60240}Pas tant que je vivrai.
+{60246}{60275}Si maman.
+{60281}{60318}Je le ferai.
+{60381}{60406}Bon.
+{60434}{60475}Si tu le veux ainsi.
+{60516}{60542}Je t'en prie.
+{61796}{61867}- Où tu vas ?|- Appeler le docteur Hauff.
+{61873}{61900}Pourquoi ?
+{61910}{61960}Parce que sinon maman mourra.
+{62036}{62064}Helmuth !
+{62143}{62194}Je comprends ce que tu veux dire.
+{62250}{62315}Tu veux dire|qu'elle a droit à la mort.
+{62367}{62414}C'est bien ça, non ?
+{62799}{62842}Ne refais jamais ça Martha !
+{62874}{62956}Ne me résiste plus jamais|quand j'aurai envie de t'aimer.
+{63548}{63581}Docteur Hauff ?
+{63603}{63644}Helmuth Salomon à l'appareil.
+{63666}{63702}Venez vite !
+{63736}{63829}Madame Heyer a de nouveau pris|une surdose de tranquillisants.
+{63846}{63970}D'autre part je suis persuadé|qu'il est devenu nécessaire...
+{63976}{64027}de la placer|dans une maison de santé.
+{64119}{64142}Merci.
+{64333}{64371}Alors Martha...
+{64406}{64497}Tu as vraiment cru|que je laisserais mourir ta mère ?
+{64674}{64697}Non.
+{64753}{64848}C'était ton idée|à toi toute seule Martha ...
+{64903}{64947}et sans doute ton souhait ?
+{65328}{65379}Je préfère encore|être seule avec toi.
+{65391}{65453}Tous ces gens ! Quoique...
+{65463}{65510}C'était un mariage magnifique.
+{65522}{65579}Ils ont tous été si gentils|avec moi. Même maman.
+{65596}{65658}Comme si l'infirmier|n'avait pas été là.
+{65665}{65713}Elle a tout|pour être heureuse, non ?
+{65719}{65756}Bien sûr.
+{65790}{65854}Elle avait l'air si contente,|si confiante.
+{65869}{65924}Tout le monde|était heureux de mon bonheur.
+{65952}{66002}Helmuth, Helmuth !
+{66040}{66097}Quelle chance|de pouvoir connaître ça !
+{66103}{66136}Et maintenant...
+{66142}{66175}Seule avec toi.
+{66196}{66252}Nous allons passer|trois semaines magnifiques.
+{66263}{66351}Je me réjouis tellement|à l'idée de revoir l'Italie.
+{66364}{66454}A la pensée de chaque grain de sable,|de chaque vague, de tout.
+{66492}{66519}De tout !
+{66534}{66615}Et combien je serai bonne|envers toi, si tendre.
+{66627}{66711}Mon Dieu !|J'ai tant de tendresse à offrir.
+{66735}{66797}Tout mon désir, tout !
+{66829}{66920}Je suis si heureuse que j'ai envie|de pleurer de bonheur.
+{66983}{67014}Mais toi ?
+{67043}{67129}Tu es si grave, si silencieux.
+{67163}{67240}Tu ne te réjouis pas ?|Tu n'es pas heureux ?
+{67295}{67353}Si Martha, je suis heureux.
+{67375}{67431}Mais moi je n'ai pas besoin|de m'en persuader.
+{67486}{67519}Pardonne-moi !
+{67840}{67892}Mon Dieu, que c'est beau !
+{67904}{67993}On ne s'en était pas aperçu|cette nuit. Et cette vue !
+{68024}{68089}Je pourrais boire|une cafetière entière
+{68095}{68148}et manger dix œufs à la coque !
+{68178}{68250}J'ai commandé du thé.|C'est meilleur pour la santé.
+{68256}{68282}Et des corn flakes.
+{68328}{68370}Tu nous as commandé du thé !
+{68376}{68415}Et des corn flakes.
+{68421}{68449}Oui.
+{68464}{68510}Des corn flakes. Bien sûr.
+{68518}{68568}Ça te convient ma chérie ?
+{68574}{68604}Oui.
+{68619}{68678}Naturellement. Bien sûr.
+{68721}{68769}Pas avant le petit-déjeuner !
+{68884}{68959}Je suis contente|que quelqu'un veille à ma santé.
+{68982}{69034}On se laisse aller si facilement.
+{69049}{69089}C'est vrai Martha.
+{69119}{69183}C'est la pire des choses|quand on voyage beaucoup.
+{69188}{69278}On est dépendant des habitudes|du pays. En Amérique du Sud
+{69284}{69361}il n'y a pas de thé|au petit-déjeuner.
+{69367}{69468}On t'oblige à boire du café.|Imagine combien j'ai souffert là-bas.
+{69473}{69537}Tous les matins du café...
+{69558}{69646}pendant neuf mois.|Et la nourriture en général !
+{69664}{69726}Mais il faut bien manger...
+{69755}{69828}et l'homme finit|par s'habituer à tout.
+{69847}{69889}Mon Dieu, j'y pense...
+{69901}{69976}Nous n'avons jamais parlé cuisine.
+{69996}{70089}Qu'est-ce que tu aimes,|enfin qu'est-ce que tu préfères ?
+{70101}{70149}Ce que je préfère...
+{70181}{70229}C'est difficile à dire.
+{70259}{70334}Mais je crois que ce sont les rognons|de porc à la sauce bourguignonne.
+{70347}{70418}Les rognons de porc|à la sauce bourguignonne ?
+{70430}{70483}Mon Dieu... comme papa !
+{70512}{70540}Mais il faut renoncer
+{70546}{70604}à ce genre de choses|dans les pays méditerranéens.
+{70610}{70663}On ne sait jamais trop|ce qu'on a dans l'assiette.
+{70669}{70699}Mon pauvre chéri !
+{70705}{70774}Il est temps que ces voyages|lointains se terminent.
+{70780}{70824}Je passerai les trois prochaines années
+{70830}{70900}en Allemagne,|en Autriche et en Suisse.
+{70906}{70964}Je pourrai rentrer|tous les week-ends.
+{71601}{71667}Sois gentil|et mets-moi de la crème !
+{71703}{71743}Tu sais Martha...
+{71761}{71810}tu as la peau si blanche...
+{71846}{71869}Oui.
+{71906}{71993}J'aimerais que tu bronzes|le plus vite possible.
+{72027}{72076}Toute cette peau blanche !
+{72109}{72162}Et si j'attrape un coup de soleil ?
+{72168}{72236}Mais non, le soleil brille à peine.
+{72289}{72312}D'accord.
+{72350}{72398}Si tu m'aimes bronzée ...
+{72420}{72458}Pourquoi pas ?
+{72553}{72594}Qu'est-ce que tu lis ?
+{72636}{72731}''La conscience dépossédée''|du professeur Hans Kilian.
+{72747}{72770}Et alors...
+{72789}{72837}C'est intéressant ?
+{72856}{72894}D'une certaine façon.
+{72908}{72980}Pour quelqu'un qui le comprend,|c'est intéressant.
+{73060}{73093}C'est drôle...
+{73127}{73195}Ilse aussi a cessé de travailler.
+{73221}{73266}Elle a bien raison.
+{73297}{73344}Quand un mari|peut nourrir sa femme
+{73350}{73405}ce n'est pas convenable|qu'elle travaille.
+{73412}{73476}Dans le cas d'Ilse|tu as peut-être raison.
+{73488}{73541}Elle détestait son travail.
+{73555}{73578}Mais...
+{73606}{73675}Quand une femme aime son travail...
+{73700}{73740}Je ne sais pas...
+{73785}{73836}Ça peut être une bonne chose.
+{74601}{74647}Ça ne va toujours pas mieux ?
+{75032}{75085}Tu t'es endormie Martha.
+{75143}{75201}Il ne faut jamais|s'endormir au soleil.
+{75219}{75304}Parce que l'organisme n'offre alors|aucune résistance au soleil.
+{75407}{75455}Tu es belle Martha.
+{75612}{75638}Oui ?
+{77131}{77171}On ne rentre pas à la maison ?
+{77185}{77228}Si, nous rentrons à la maison.
+{77234}{77251}Mais...
+{77265}{77323}ce n'est pas la bonne direction.
+{77413}{77438}Oui ?
+{77454}{77557}C'est par là que nous habitons,|dans la maison de mes parents, non ?
+{77567}{77636}Non, nous n'habiterons pas|chez tes parents.
+{77642}{77695}Je nous ai loué une maison.
+{77706}{77751}La maison du colonel Olbricht.
+{77829}{77863}La maison de...
+{77897}{77920}Mais Helmuth...
+{77947}{77985}Dans cette maison...
+{77997}{78051}Il y a eu un crime, un vrai.
+{78058}{78126}Oui. C'est pour ça|qu'elle est moins chère.
+{78192}{78280}Tu ne vas tout de même pas|avoir peur Martha ?
+{78287}{78314}N'est-ce pas ?
+{78341}{78376}Non, seulement...
+{78434}{78513}je m'étais tellement faite|à la maison de mes parents.
+{78531}{78602}Toute mon enfance,|tous mes souvenirs.
+{78613}{78706}J'ai été si heureuse|dans cette maison et maintenant...
+{78736}{78767}Et maintenant ?
+{78816}{78895}Tu vois, là est toute la question.
+{78907}{79006}Nous voulons toi et moi repartir|à zéro, commencer une nouvelle vie.
+{79041}{79068}N'est-ce pas ?

@@ -1,0 +1,670 @@
+{0}{60}Hé, Wilkie, quelle est la situation là-bas ?
+{76}{119}Les deux pilotes sont morts.
+{134}{207}25, on peut pas bouger ces hommes, Matty.
+{208}{251}On les achève rien qu'en les portant.
+{257}{313}- On se stabilise ici ?|- D'accord.
+{320}{394}On se fixe dans l'hélico.|Je répète: on se fixe ici. A vous.
+{401}{448}Bien compris, Wilkie.| On vous couvre. A vous.
+{448}{531}Super 64, entrez sur zone| et prenez la position de Wolcott.
+{555}{609}Bien reçu. 64 allons sur zone.
+{1268}{1306}Super 64, est-ce que tout va bien ?
+{1307}{1373}Ici Super 64. On se maintient.
+{1374}{1441}Vous êtes sûrs ?| Vous semblez avoir du plomb dans l'aile.
+{1455}{1502}Les instruments ont tenu le choc.
+{1506}{1597}Non, on s'en tire bien. Juste une légère| vibration dans les pédales, mais ça ira.
+{1616}{1721}Bon, ramenez ce coucou à la base, 64.| Faites le vérifier juste pour être sûr.
+{1738}{1761}Entendu.
+{1846}{1944}Je sens que ça bouge au niveau des pédales.| Re-vérifie les systèmes.
+{2289}{2346}On a perdu le rotor de queue !| Il est plus là !
+{2346}{2387}Ici 64, appareil en chute !
+{2426}{2461}64, on descend à toute allure.
+{2500}{2540}64 en perdition.  
+{2658}{2701}On va s'écraser.
+{2819}{2864}Dites à Struecker et à sa colonne| de revenir en arrière.
+{2869}{2919}Qu'ils se rendent rapidement| sur le lieu du crash de Durant.
+{2919}{2981}- Encore un appareil de perdu.|- Je veux qu'on les sorte de là.
+{3002}{3024}Tous sans exception.
+{3130}{3204}Capitaine Steele, on doit décamper| ou on va se retrouver coincés !
+{3213}{3260}Nous allons aussi vite| que nous le pouvons.
+{3265}{3339}Vous faites votre boulot,| et vous me laissez faire le mien. A vous.
+{3527}{3589}- Putain ! ....Putain !|- Ruiz, reste au sol !
+{3600}{3629}- Putain je le savais...|- Infirmier.
+{3634}{3653}Et merde !
+{3672}{3722}Capitaine Steele,| je vais déloger le tireur embusqué à cette fenêtre.
+{3735}{3788}Rassemblement à l'immeuble gris.| J'y vais, Capitaine.
+{3790}{3802}Sergent !
+{3802}{3829}C'est bon, on y va !
+{3980}{4010}Couvrez moi !
+{4149}{4213}- Allons-y, on se bouge !|- En avant.
+{4347}{4363}Ami !
+{4368}{4407}Amis laissez passer !
+{4415}{4463}Allez, allez ! Avancez !
+{4468}{4496}Allons-y, pressons !
+{4520}{4535}Allez !
+{4735}{4775}Avancez ! Allez ! Avancez !
+{4785}{4824}Qu'est-ce que vous foutez, bordel ?
+{4825}{4890}Mon boulot !| Faut qu'on rejoigne le lieu du crash !
+{4900}{4966}On doit emprunter cette rue,| et va falloir se presser !
+{4981}{5030}Il faut que vous nous suiviez, Monsieur !
+{5034}{5086}Ne me donnez jamais d'ordres, Sergent.
+{5101}{5158}Nous ne pouvons combattre efficacement,| vous saisissez ?
+{5159}{5196}Trop de blessés à transporter !
+{5199}{5276}Alors donnez-moi de bons tireurs| et on progressera en cercle jusqu'à l'hélico.
+{5342}{5402}Grimes ! Vous êtes avec l'Unité 4 ?
+{5404}{5427}Oui, Monsieur !
+{5433}{5515}Bon, vous allez avec les Delta !| Rejoignez le sergent Eversmann.
+{5532}{5585}Vous autres, tenez cette position !
+{5589}{5641}Soignez les blessés.| Nous attendrons le convoi !
+{5643}{5703}Ensuite on se rassemble au site du crash.| Compris ?
+{5710}{5740}Les gars, en piste !
+{6487}{6558}C-2, j'ai deux tireurs d'élite des Delta,|Shughart et Gordon...
+{6563}{6626}...qui sont volontaires pour| protéger le second site. A vous.
+{6640}{6739}Non, Super 62, demande rejetée.| Trop risqué d'y envoyer un autre appareil.
+{6786}{6879}On ne voit rien qui bouge là-dessous,| pas moyen de savoir s'il reste encore des survivants.
+{6912}{6977}Une équipe au sol s'apprête à y entrer.
+{6977}{7018}E.H.A. de l'équipe au sol ? A vous.
+{7024}{7096}Inconnu, mais dans peu de temps.
+{7103}{7158}Faites ce que vous pourrez de là-haut.
+{7253}{7294}Bon, rassemblez-vous !
+{7302}{7377}Le 64 de Durant a été abattu.| Alors on retourne les chercher !
+{7380}{7430}C'est de la folie.| On sait au moins si quelqu'un a survécu ?
+{7431}{7487}Qu'importe, on n'abandonne personne.| Et tu le sais.
+{7494}{7545}On est en train de perdre du temps.
+{7551}{7622}Préparez-vous et faites le plein de munitions| et de grenades. Vous avez cinq minutes !
+{7655}{7698}Sizemore, vous allez où ?
+{7703}{7768}- Avec vous autres.|- Pas avec ce plâtre.
+{7791}{7868}D'accord, d'accord, c'est bon.| Va chercher ton casque.
+{7920}{7948}Je t'écoute.
+{7956}{7988}Je peux pas y retourner.
+{7994}{8103}Thomas, on ressent tous| la même chose que toi. D'accord ?
+{8110}{8185}C'est ce que tu vas faire maintenant| qui va faire la différence.
+{8208}{8243}C'est à toi de décider.
+{8256}{8280}Hou-ha ?
+{8430}{8459}Hou-ha.
+{8849}{8935}Ce serait une bonne idée de nettoyer| le sang des humvees.
+{9159}{9180}Sergent Struecker !
+{9217}{9236}Sergent Struecker !
+{9276}{9306}Je peux venir, chef ?
+{9306}{9351}- T'as des munitions ?|- Affirmatif, Chef !
+{9359}{9395}Allez monte !
+{9827}{9858}Attendez moi !
+{9889}{9941}Dépêche, Thomas. Monte !
+{10505}{10532}Par où ?
+{10649}{10719}- Par là, je crois !|- Ne crie pas, putain.
+{11536}{11566}Gentille, la mule.
+{12007}{12039}Rangers ?
+{12051}{12074}Qui c'est ?
+{12096}{12180}C'est Yurek ! Bande de nazes!
+{12187}{12220}Putain !
+{12224}{12286}Mec, on a failli te buter !
+{12286}{12359}- Viens là !|- Va te faire voir, z'avez qu'à venir ici.
+{12665}{12695}Désolé, Chef !
+{12703}{12749}Mec, où t'étais passé, merde ?
+{12754}{12796}Laisse tomber,| t'as ramené les lunettes infrarouges ?
+{12797}{12852}Non, je l'ai pas fait| et tu sais pourquoi ?
+{12856}{12929}Parce t'as dit: " T'auras pas besoin de ça,| on sera de retour dans une demi-heure."
+{12930}{12966}Ben, c'est pas à toi que je le disais.
+{12973}{13020}Nelson, couvre ce côté.
+{13032}{13068}On aura besoin de la vision nocturne.
+{13070}{13127}Qu'est-ce qui va pas chez toi ?
+{13142}{13206}Oh, il est sourd. C'est de ma faute.
+{13209}{13262}- Faut qu'on sorte d'ici !|- Par là.
+{13270}{13357}On doit pas être loin du site.| C'est par où ?
+{13372}{13412}Je croyais que tu le saurais.
+{13432}{13464}On s'en va.
+{13607}{13667}Nelson, Twombly ? Parlez. A vous.
+{13690}{13790}Nelson, Twombly, ici Galentine.| Il nous faudrait la position du convoi. A vous.
+{13813}{13866}J'arrive pas à les joindre, Sergent.
+{13873}{13936}Chef, fichons le camp d'ici, faut évacuer !
+{13977}{14049}- On se tire.|- Retrait vers le périmètre de sécurité !
+{14053}{14076}Allons-y !
+{14131}{14208}Nos troupes au sol occupent| plusieurs immeubles le long de Marehan Road...
+{14210}{14248}...mais elles sont toutes dispersées.
+{14255}{14359}L'Unité 4 d'Eversmann a établi un périmètre| autour du site où s'est écrasé Wolcott.
+{14362}{14418}DiTomasso se trouve dans la structure adjacente.
+{14430}{14523}Le Capitaine Steele et 40 hommes environ,| des Rangers, sont ici, deux pâtés plus loin.
+{14526}{14561}Ils sont en piteux état.
+{14561}{14677}Il a établi un point de regroupement des victimes,| et je ne crois pas qu'ils puissent les bouger.
+{14691}{14747}Le Sergent Sanderson| et une équipe réduite de Delta...
+{14747}{14839}...ont quitté la position de Steele| et rejoignent le site de Wolcott en ce moment-même.
+{15112}{15139}Attire les sur toi !
+{15143}{15209}Lorsque le salopard s'arrêtera| pour recharger, tu me couvres !
+{15212}{15244}- Allez !|- Compris.
+{15338}{15361}On recommence !
+{15483}{15517}Il recharge !
+{15572}{15607}Continue !
+{15626}{15666}Mon flingue s'est enrayé !
+{15693}{15728}Je l'ai !
+{15758}{15799}Non, merde !
+{16116}{16145}Lance-roquettes !
+{16494}{16553}Ça va ? t'es OK ?
+{16561}{16632}Ouais. J'entends les cloches sonner.
+{16666}{16718}Allez ! Viens !
+{16767}{16790}On y va !
+{16961}{17029}Il y une foule qui avance à six,| sept pâtés du crash.
+{17029}{17088}Ici Shughart et Gordon,| demandons à nouveau la permission...
+{17089}{17170}...de contrôler la situation| jusqu'à l'arrivée du convoi. A vous.
+{17174}{17246}Mon Général, il y a à présent| une centaine de personnes dans la foule.
+{17256}{17337}De leur position, ils ont| une meilleure vue que nous tous réunis.
+{17340}{17384}Leur demande est motivée.
+{17394}{17427}Laissez moi leur parler.
+{17432}{17457}Ici Garrison.
+{17459}{17560}Je veux être sûr d'avoir compris ce que| vous demandez, alors redites le haut et fort.
+{17610}{17705}Nous voudrions aller sur site et créer| un périmètre jusqu'à l'arrivée du convoi. A vous.
+{17720}{17823}Vous réalisez qu'il ne m'est pas possible| de vous dire quand, et que ça pourrait être long.
+{17838}{17897}- Affirmatif.|- Et vous voulez toujours y aller ?
+{17904}{17922}Oui, mon Général.
+{18020}{18059}- Colonel Harrell?|- Oui, mon Général ?
+{18064}{18090}A vous de décider.
+{18117}{18152}Bien reçu.
+{18198}{18251}Goffena, vous les emmenez.
+{18578}{18619}Fils de pute. Le fils de pute.
+{18752}{18775}Lance-grenade !
+{19012}{19048}Formez votre périmètre!
+{19228}{19273}Il a une putain de roquette dans le corps, Chef !
+{19273}{19365}Othic, du calme, bon Dieu !| Elle n'a pas explosée, dégagez tout de suite !
+{19397}{19440}Fils de pute.
+{19479}{19553}C'est bon, soulevez le !| Soulevez le! doucement, doucement!
+{19565}{19639}Allez, rentrez le ici ! Bien, comme ça !| Doucement, faites gaffe!
+{19687}{19713}Monte dans le camion, et roule.
+{19713}{19759}- Je suis touché, mon Colonel.|- Tout le monde l'est.
+{19760}{19808}Ramenons les prisonniers ! Allons-y !
+{19833}{19917}D'après la surveillance, il faut prendre| sur Hawlwadig, et continuer tout droit.
+{19922}{20022}McKnight, vous devez rebrousser chemin| et aller en direction d' Hawlwadig.
+{20035}{20088}Vous vous foutez de moi !| On vient de la traverser !
+{20088}{20128}Doit y avoir une meilleure route !
+{20128}{20252}C'est l'info que je reçois du PC Central,| Faites demi-tour et retournez y.
+{20281}{20328}Bien reçu. Bien reçu.
+{20346}{20409}J'y crois pas à cette merde !| Fais demi-tour, Maddox.
+{20410}{20456}Ils veulent qu'on se fasse descendre !
+{20458}{20494}Fais le, c'est tout ! Roule !
+{20506}{20529}Connerie !
+{20529}{20584}Sors nous d'ici, bon sang, roule !
+{20765}{20798}Garde le pied sur le champignon !
+{20807}{20851}Le pied sur le champignon !
+{20851}{20875}Putain !
+{21235}{21257}Merde.
+{21628}{21693}C-2, Shughart et Gordon| sont sur le terrain. A vous.
+{21699}{21721}Bien reçu.
+{22351}{22386}Amis !
+{22433}{22461}Bon Dieu, ça fait du bien de vous voir !
+{22473}{22515}Content de te voir aussi. C'est grave ?
+{22515}{22583}J'ai une jambe cassée et je sens| un truc bizarre dans le dos.
+{22592}{22641}Faut qu'on te sorte de là, mon pote.
+{22665}{22709}Je l'évacue ! Couverture!
+{22795}{22817}Attends, je...
+{23018}{23049}Je te repose.
+{23056}{23122}C-2, on est sur le site du crash 64,| on défend le périmètre.
+{23122}{23159}- Tu t'en sors?|- Ouais, ça va.
+{23165}{23199}T'es paré, j'ai rechargé ton calibre.
+{23210}{23290}Tu surveilles nos arrières,| au cas où des rachos sortiraient des coins.
+{23291}{23353}- Où est l'équipe de sauvetage ?|- C'est nous.
+{23493}{23567}C'est bon, arrête, arrête, Maddox.| On s'arrête.
+{23593}{23627}Les fils de pute.
+{23632}{23699}Romeo 64, on est retourné à la case départ.
+{23702}{23766}Je manque de munitions.| J'ai un paquet de blessés, dont moi...
+{23778}{23819}...et des véhicules à peine en état de marche.
+{23819}{23888}Ok, Danny, pas de blabla,| donnez moi une réponse claire.
+{23899}{23949}Pouvez vous arriver| jusqu'à l'endroit du crash ?
+{23972}{24032}Mon Colonel, j'y vois que dalle.
+{24129}{24149}Négatif.
+{24156}{24216}Avec le nombre de blessés ici,| ça ne fera qu'empirer les choses.
+{24216}{24310}On doit revenir à la base, se réarmer,| se regrouper, ensuite on pourra retenter une sortie.
+{24324}{24347}Bien reçu.
+{24387}{24465}C-2, ramenez-les.| Sortez-les de là.
+{24506}{24544}Bien reçu. Retournez à la base.
+{24565}{24597}On rentre à la maison !
+{24613}{24659}En avant. A gauche.
+{24958}{25035}Bien reçu. Compris.| Convoi en route vers la base.
+{25164}{25213}- Qu'est-ce qui se passe ?|- Ils les renvoient.
+{25215}{25253}Le convoi retourne au camp de base.
+{25254}{25305}Oh, ça tombe sous le sens, pas vrai ?
+{25327}{25423}Faut évacuer les blessés tout de suite| et se tirer avant qu'il ne soit trop tard !
+{25427}{25511}Si le Colonel McKnight est retourné à la base,| il devait avoir une bonne raison.
+{25514}{25547}Ça ne change rien.
+{25555}{25586}Bon, écoutez moi.
+{25586}{25681}Nous allons tenir ce périmètre|et défendre ce camp retranché.
+{25702}{25779}Economisez les munitions.| Ne tirez que si vous pensez pouvoir le toucher.
+{25827}{25870}Le convoi finira par arriver.
+{25899}{25922}On rentrera chez nous.
+{26225}{26248}Recharge !
+{26454}{26484}Recharge !
+{26495}{26537}Randy, j'ai besoin d'un chargeur !
+{26861}{26884}Recharge !
+{26973}{27006}Randy, c'est mon dernier chargeur !
+{27092}{27117}Gordy!
+{27207}{27230}Merde !
+{27554}{27605}Gordy est mort, vieux. Je serai dehors.
+{27624}{27650}Bonne chance.
+{28162}{28230}Il faut faire venir le 10ème Montagnard.| Tout ce qu'ils ont.
+{28233}{28307}Les Pakistanais, les Malais.| Je veux leurs tanks et leurs transports de troupes.
+{28316}{28349}Ils ne savent toujours pas qu'on est entré.
+{28358}{28463}On vient de secouer un nid de guêpes.| C'est toute une ville qu'on doit combattre.
+{28472}{28584}Trouvez moi tout ce qui est blindé| et qui peut rouler. Sortez tout.
+{28592}{28670}On sortira nos hommes de la zone hostile| une fois ceux-ci rassemblés...
+{28672}{28732}...direction le Stade Pakistanais,| dans la zone protégée.
+{28736}{28796}- Bon, exécution.|- A vos ordres, patron.
+{32028}{32067}Mohamed Farrah Aïdid...
+{32091}{32129}veut ce prisonnier...
+{32142}{32181}...vivant !
+{32581}{32643}A genoux ! Mettez vous à genoux !
+{32735}{32828}Accroche toi.| T'as juste une balle dans la jambe.
+{32935}{33005}Vous voyez là où brûlent les pneus ?| Toute cette fumée noire ?
+{33013}{33096}Affirmatif. Je le vois,| mais je ne peux pas m'y rendre. A vous.
+{33097}{33169}Allez 100m plus loin.| C'est l'endroit du crash.
+{33182}{33231}Négatif. Vous ne comprenez pas.
+{33237}{33344}Il y a barrage sur barrage.| Il faut nous trouver une autre route. A vous.
+{33358}{33444}Y'en a pas. Autrement, il faudrait| contourner toute la ville.
+{33446}{33471}Bien reçu.
+{33476}{33535}Kilo 64, ici Kilo 11.
+{33540}{33646}Demande permission de se rendre| à pied au site numéro 2. A vous.
+{33668}{33715}Feu vert, Kilo 11.
+{33717}{33774}Arrêtez le véhicule. Je descends.
+{34861}{34946}Quand ce sera fini,les p'tits gars,| j'irai vous mixer quelques margaritas.
+{34948}{35016}Comme d'hab. Bien mélangé, sans sel.
+{35196}{35273}Ici Kilo 12.| Nous devons changer de position. A vous.
+{35595}{35636}Eversmann, parlez.
+{35638}{35664}Eversmann.
+{35722}{35776}- J'écoute. Qui est-ce ?|- Sanderson.
+{35783}{35888}Ne tirez pas...je répète, ne tirez pas| en direction de l'est. On vient vers vous.
+{35927}{35953}Compris.
+{35958}{36013}DiTomasso et ses hommes| sont à l'angle sud-est.
+{36014}{36070}On a besoin de vous| au nord-est de l'immeuble.
+{36075}{36109}Bien reçu. On s'en charge.
+{36129}{36182}Faites gaffe au rachos.| Ils sont sur les toits.
+{36185}{36244}Ils vont bientôt finir la prière.
+{36326}{36369}Retenez vous de tirer vers l'est.
+{36895}{36935}Eversmann ? C'est Yurek.
+{36948}{37004}Je suis avec Nelson et Twombly.
+{37014}{37079}On a l'hélico en visu.| T'es où ?
+{37086}{37158}On est au coin sud-ouest.| Où t'étais passé ? Ça va vous ?
+{37158}{37178}Ouais.
+{37220}{37270}Tirez pas. On arrive.
+{37391}{37415}On va y aller.
+{37415}{37484}Shawn, écoute !|Le Sergent Yurek part en premier.
+{37487}{37580}Quand il aura traversé la rue,| il se retournera et te couvrira pendant que tu cours.
+{37580}{37678}Ecoute bien. Quand tu y seras,| tu te retournes et tu me couvres, OK?
+{37726}{37781}Tu ne fais pas que courir| jusqu'à la position d'Eversmann.
+{37784}{37850}Tu vas t'arrêter| et tu vas me couvrir.
+{37855}{37907}C'est important que tu le comprennes.
+{37923}{37954}OK, t'es prêt ?
+{37977}{38008}Ouais, je crois.
+{38139}{38174}- N'oublie pas.|- Quoi ?
+{38192}{38222}N'oublie pas.
+{38552}{38631}Je les ai en visu, Chef.| Ils vont débouler par la porte ouest.
+{38631}{38656}Je les vois.
+{38729}{38759}Allons-y.
+{38818}{38859}Vous pouvez nous couvrir, Sergent?
+{38865}{38895}Affirmatif.
+{39076}{39109}Nelson !
+{39277}{39300}Merde !
+{39504}{39527}Twombly !
+{39568}{39594}Smith ! Non !
+{39595}{39624}Ça va ?
+{39707}{39739}Enlève moi ça !
+{39759}{39793}Enlève le !
+{39827}{39865}Allez, vieux. Tiens bon.
+{39890}{39960}Doc ! Faut que vous voyez Smith ici !
+{40166}{40193}Ma jambe ! Ma jambe !
+{40193}{40232}Accroche-toi, Jamie, je te tiens !
+{40375}{40423}On soulève, 1, 2, 3.
+{40457}{40520}- Tu vas t'en sortir.|- Il faut maintenir un pression sur la blessure.
+{40553}{40577}Ma cuisse droite !
+{40601}{40628}Une pression, d'ac.
+{40629}{40684}- J'ai encore mes balloches ?|- Tu les a toujours.
+{40684}{40710}J'ai besoin de bras ici.
+{40714}{40776}Twombly! Nelson!
+{40787}{40860}- Pose le.|- Oh, bon sang, j'ai mal....
+{40885}{40936}- Ca fait un mal de chien !|- Appuyez directement dessus.
+{40936}{40972}Ça va aller, c'est bon.
+{40985}{41041}- Laissez moi voir !|- D'accord.
+{41054}{41107}C'est bon, laissez moi regarder ça.
+{41115}{41137}Oh, merde!
+{41141}{41163}Oh, putain!
+{41186}{41243}- Qu'est-ce que c'est, merde?|- Ça va aller.
+{41250}{41301}Tenez le. Il faut faire venir| l'hélico de secours sur le champ.
+{41311}{41338}Galentine!
+{41348}{41363}T'en fais pas.
+{41363}{41406}Galentine! Appelle le Capitaine Steele!
+{41450}{41503}- Sergent Ruiz, vous tenez le coup ?|- Juliette 64, parlez. A vous.
+{41504}{41596}Ils viendront pas nous chercher.| Ils viendront pas pour nous.
+{41596}{41668}Remettez vous en selle, Sergent.| Concentrez vous.
+{41679}{41735}- Vous pouvez le faire?|- Juliette 64, parlez. A vous.
+{41747}{41792}Bon, pouvez vous tenir votre arme ?
+{41798}{41821}Oui, Monsieur.
+{41823}{41918}Celui qui passe cette porte en prend| deux dans la poitrine et une dans la tête.
+{41923}{42004}- Vous m'avez compris ?|- Je suis toujours d'attaque, Monsieur.
+{42012}{42081}Capitaine Steele,| faites venir le secours d'urgence maintenant!
+{42085}{42145}- Le Caporal Smith a été touché!|- Restez en ligne, 25.
+{42155}{42189}Toujours d'attaque.
+{42189}{42222}Il est dans un sale état.
+{42225}{42312}25, on a aussi des blessés.| Faites au mieux pour l'instant, à vous.
+{42329}{42388}S'il ne reçoit pas de soins| dans la demi-heure, on va le perdre !
+{42397}{42440}C-2, ici 64.
+{42444}{42544}Demandons le secours d'urgence pour assister| un blessé critique sur le site de l'Unité 4. A vous.
+{42557}{42625}PC, l'Unité 4 demande| l'envoi du secours d'urgence.
+{42632}{42686}On peut pas prendre ce risque.| C'est encore trop chaud.
+{42696}{42812}Capitaine, impossible d'envoyer l'hélico.| Tenez bon. A vous.
+{42826}{42917}25, ici 64. Négatif pour l'hélico.| Ce sera pas possible.
+{42917}{43007}Le PC ne veut pas risquer un autre hélico.| Vous devrez tenir le coup.
+{43189}{43214}C'est bon. Je m'en occupe.
+{43214}{43270}Une pression directe sur la blessure.
+{43312}{43354}On va s'en sortir.
+{44294}{44361}Je crois que c'est à moi!
+{44427}{44501}Ici Kilo 11.|Je suis sur le site de Durant.
+{44501}{44534}Bien reçu.
+{45056}{45098}Site numéro deux traité.
+{45106}{45162}Le Lieutenant Colonel Cribbs en ligne, Monsieur.
+{45184}{45204}Cribbs ?
+{45211}{45264}- Ils discutent encore de la route à prendre.|- Combien de temps ?
+{45297}{45335}Deux bonnes heures, au moins.
+{45339}{45378}Ce sera trop long, Joe.
+{45382}{45492}Le général Pakistanais dit, puisque nous| n'avons pas jugé utile de l'informer du raid...
+{45494}{45586}...que cela prendra un certain temps pour| mobiliser le 10ème Montagnard et 100 véhicules.
+{45590}{45637}Vous allez dire ceci au Général:
+{45643}{45711}que je comprends, mais qu'il est| de mon devoir de l'informer...
+{45721}{45817}...que mes hommes sont entourés| par des milliers de miliciens somaliens armés.
+{45820}{45945}Nous devons impérativement les sortir| de la zone hostile et les mener en terrain sûr.
+{45950}{45985}J'ai besoin de son aide maintenant.
+{46015}{46046}A vos ordres, mon Général.
+{46164}{46194}Durant.
+{46211}{46269}Michael Durant.
+{46289}{46312}Oui.
+{46317}{46373}Vous êtes le Ranger qui tue mon peuple ?
+{46387}{46468}Je ne suis pas Ranger. Je suis pilote.
+{46561}{46591}C'est vrai.
+{46610}{46681}Plus aucun Américain ne fume.
+{46761}{46872}Vous vivez plus longtemps.| De longues vies, monotones et sans intérêt.
+{46916}{46960}Que me voulez vous?
+{46971}{47012}Vous avez pris des otages.
+{47047}{47085}Et on vous a.
+{47092}{47165}Mon gouvernement n'acceptera jamais de négocier.
+{47176}{47283}Alors que vous et moi pouvons négocier, hein ?
+{47322}{47382}Entre soldats.
+{47533}{47575}Je suis pas responsable.
+{47647}{47751}Bien sûr que non. Vous avez le pouvoir| de tuer, mais pas de négocier.
+{47765}{47834}En Somalie, tuer c'est négocier.
+{47871}{47952}Pensez-vous réellement| qu'en capturant le Général Aïdid...
+{47959}{48039}...vous nous forcerez à déposer les armes...
+{48042}{48113}...et à adopter la démocratie à l'Américaine ?
+{48123}{48166}Croyez vous que les tueries s'arrêteront ?
+{48177}{48274}Nous savons ceci :| Sans victoire, il ne peut y avoir de paix.
+{48293}{48351}Il y aura toujours des tueries, voyez-vous ?
+{48365}{48416}C'est ainsi que vont les choses| dans notre monde.
+{48725}{48811}Mike Durant, on ne vous abandonnera pas.
+{48863}{48944}Mike Durant, on ne vous abandonnera pas.
+{49012}{49080}Il faudrait que vous preniez la relève.| Avec les deux mains.
+{49265}{49343}C'est l'artère fémorale,| mais je peux pas la voir.
+{49347}{49429}Ce qui veut dire| qu'elle s'est rétractée dans le bassin.
+{49437}{49543}Je dois la trouver et y placer un clamp.| C'est la seule façon d'arrêter l'hémorragie.
+{49548}{49597}Je n'ai plus d'intra-veineuses.
+{49625}{49693}Je vais avoir besoin de vous| pour m'assister. OK ?
+{49698}{49736}Ouais, ouais.
+{49760}{49841}Maintenant écoutez-moi, Jamie.| je dois tenter quelque chose, ce sera douloureux.
+{49871}{49959}Vous allez encore souffrir, mais je dois| le faire pour vous venir en aide.
+{49968}{49998}D'accord, vous me comprenez ?
+{49998}{50045}- Et la morphine.|- C'est impossible.
+{50058}{50118}Ça ferait chuter| votre rythme cardiaque. Je suis désolé.
+{50120}{50174}Twombly, vous pouvez lui tenir les mains ?
+{50284}{50353}Gardez la plaie ouverte, et maintenez| la pression sur le haut de la jambe.
+{50354}{50406}Yurek, vous tenez le pied et la torche.
+{50413}{50439}A mon signal.
+{50442}{50489}C'est bon, Jamie. On y va.
+{50542}{50593}Un. Deux.
+{50618}{50643}Trois.
+{50832}{50889}Attendez, bougez pas. Ok. Je le sens.
+{50896}{50927}Je sens le pouls.
+{50974}{51005}Je l'ai eue. Ca y est.
+{51013}{51042}Je l'ai, ouais. Ca y est.
+{51042}{51079}- Je la tiens.|- Vous l'avez ?
+{51096}{51119}Clamp ?
+{51181}{51211}J'ai posé le clamp.
+{51216}{51245}- Tenez le.|- C'est bon.
+{51251}{51279}Ici, prenez le.
+{51289}{51329}- Ça se déchire.|- Je l'ai.
+{51337}{51380}- Toubib, elle se rétracte !|- Retenez la !
+{51387}{51416}Ça se déchire !
+{51421}{51491}- Ok. Enlevez vous. Tenez la plaie.|- Ok, je la tiens.
+{51528}{51558}Déplacez votre main.
+{51831}{51860}Quoi ?
+{52317}{52340}C'est réparé ?
+{52422}{52479}Ouais, ouais. C'est fait.
+{52856}{52899}Qu'est-ce que tu fous ?
+{52903}{53008}Tout est dans la manière de moudre, Sergent.| Pas trop fin, pas trop gros.
+{53011}{53074}Grimesy, t'es pas croyable.
+{53511}{53602}Chef, ça vous dirait pas un bon kawa ?
+{53602}{53640}Mélange Côte d'Or.
+{53652}{53722}Assieds toi.| Je veux jeter un œil à ce pied.
+{53732}{53781}- Non, c'est pas un problème.|- Allons.
+{53939}{54012}- Où diable t' ont-ils déniché ?|- Derrière un bureau.
+{54049}{54121}Non, sérieux. Quoi, j'ai l'air de rigoler ?
+{54210}{54251}- Quelqu'un a été touché ?|- Non, ça va !
+{54388}{54410}Ça va ?
+{54410}{54433}Ouais !
+{54442}{54476}Tout le monde va bien ?
+{54481}{54505}Ouais !
+{54844}{54873}Ça vient !
+{55189}{55234}Continuez de tirer...plus nourri!
+{56440}{56487}DiTomasso est touché ! Emmenez le !
+{57285}{57326}Ranger. Ici Kilo 11.
+{57331}{57404}Unité 4. Nous sommes à l'angle| sud-est du crash. Qui est là?
+{57404}{57451}Ici Hoot. J'arrive avec trois hommes.
+{57458}{57498}Demande couverture. A vous.
+{57503}{57572}Bien reçu, Kilo 11. Cessez le feu!| Arrivée de Delta.
+{57598}{57645}Cessez le feu! Cessez le feu!
+{57731}{57840}Le personnel au sol devra marquer| les positions cible avec des balises infrarouges.
+{57859}{57948}Faites faire aux Alouettes des mitraillages| en rase-motte, et ce toute la nuit.
+{57951}{58004}Si on ne tient pas cette ville en respect...
+{58021}{58092}...on aura 100 cercueils| à remplir au petit matin.
+{58097}{58125}A vos ordres.
+{58129}{58194}Colonel Harrell,| le personnel au sol au site n°1...
+{58199}{58306}...devra marquer la cible avec des balises| infrarouges pour préparer la frappe aérienne.
+{58308}{58368}Stade Pakistanais
+{58464}{58492}McKnight.
+{58561}{58647}Entre le 10ème Montagnard et l'ONU,| on dispose de suffisamment de troupes, OK?
+{58680}{58746}Danny, vos hommes n'auront pas| à s'investir cette fois.
+{59233}{59294}Je peux pas crever ici, mec.
+{59322}{59419}Vous n'allez pas mourir, vous m'entendez ?| Vous n'allez pas mourir.
+{59441}{59474}Je suis désolé.
+{59486}{59564}Tu 'as rien à te reprocher.
+{59566}{59641}Tu as secouru Twombly.| Tu as été parfait.
+{59667}{59702}T'es d'aplomb, Twombs?
+{59720}{59763}Ouais, ça ira, Jamie.
+{59794}{59846}T'as fait ce pourquoi on t'a entraîné.
+{59872}{59916}Tu dois en être fier.
+{59992}{60023}Fier de ça.
+{60036}{60080}- Ev?|- Ouais.
+{60135}{60166}Rends moi un service.
+{60193}{60210}Ouais
+{60240}{60357}Dis à mes parents| que je me suis bien battu aujourd'hui.
+{60437}{60461}Que j'ai...
+{60539}{60583}Que j'ai tout donné.
+{60629}{60688}Tu le leur diras toi-même, OK?
+{60693}{60724}Tu m'entends ?
+{60769}{60793}D'accord ?
+{60839}{60913}- Les Humvees, ils sont là ?|- Ils arrivent, Jamie.
+{60928}{60971}Ils arrivent.
+{60977}{61029}Tu dois juste t'accrocher encore un peu.
+{61029}{61087}Tiens bon, juste un peu.| Tu peux y arriver.
+{61096}{61123}J'y arriverai.
+{61157}{61191}C'est rien.
+{61219}{61253}C'est rien.
+{61279}{61305}C'est rien.
+{61308}{61363}- C'est rien.|- C'est rien.
+{61391}{61418}Rien.
+{61601}{61624}Oh, merde.
+{61649}{61679}Maintenez la plaie.
+{62272}{62289}Toubib.
+{62333}{62351}Toubib.
+{62869}{62900}Ça va aller.
+{63536}{63570}Qu'est-ce que vous faites ?
+{63648}{63688}J'ai besoin de munitions.
+{63893}{63935}Vous avez fait tout votre possible.
+{63946}{63998}Ils auraient du envoyer le secours d'urgence.
+{64013}{64103}Et en ce moment, on serait en train| de défendre un autre hélico, lui aussi abattu.
+{64104}{64162}Encore plus de chair à canon.
+{64236}{64267}Peut-être.
+{64279}{64346}Vous voyez, vous supposez.| Ça ne sert à rien.
+{64354}{64425}Sergent, vous ne pouvez décider| qui est touché, et qui en réchappe.
+{64430}{64496}Qui tombe d'un hélico| et pourquoi ça arrive.
+{64497}{64558}Ça ne dépend pas de vous.| C'est ça la guerre.
+{64607}{64653}Ouais, n'empêche, Smith est quand même mort.
+{64699}{64809}- C'est arrivé parce que Blackburn est tombé.|- Devrait, pourrait, on s'en fout.
+{64811}{64901}Vous aurez tout le temps d'y repenser.| Croyez-moi.
+{64996}{65070}Sergent, vous avez amené| vos hommes jusqu'ici.
+{65086}{65126}Vous avez fait ce qu'il fallait aujourd'hui.
+{65132}{65214}Vous devez commencer à réfléchir| à la manière de nous sortir d'ici.
+{65372}{65419}Bon, on y va ?
+{65628}{65700}Je veux 4 hommes dans ce coin,| tout de suite!
+{65849}{65887}Lance-roquette !
+{65981}{66041}Ici Barbier 52 en position| pour lâcher d'armes.
+{66045}{66095}Seigneur. Regarde ça.
+{66111}{66182}Ici 25! Je vous vois.| Vous êtes juste au dessus de moi.
+{66190}{66271}Eversmann, Je ne peux distinguer| personne là-dessous. Trop d'activité.
+{66278}{66335}Je vais marquer l'emplacement| avec une balise! A vous.
+{66335}{66362}Bien reçu.
+{66645}{66672}Vous la voyez ?
+{66735}{66773}Nan, j'y vois que dalle.
+{66799}{66867}- Je vais la placer sur le toit.|- Vous aurez besoin d'aide !
+{66871}{66894}Couvrez moi.
+{66917}{67008}OK, les gars, à trois on lui fait| un tir de couverture !
+{67015}{67034}Prêts ?
+{67043}{67059}Un.
+{67073}{67089}Deux.
+{67103}{67141}Trois. Feu!
+{67921}{68002}J'ai votre position. J'ai repéré la cible.|On met plein gaz dans votre direction.
+{68599}{68707}C-2, minicanons à sec. Demandons permission| de regagner la base pour réarmer. A vous.
+{68707}{68774}Bien reçu. Deuxième équipe en route.| Votre position.
+{68789}{68839}A votre emplacement dans quatre minutes.
+{69034}{69106}C'est bon, ils sont là.| Préparez les blessés pour le transport.
+{69114}{69171}Balancez quelques tirs de couverture !
+{69227}{69270}J'ai cru avoir entendu un bruit là dehors!
+{69271}{69335}- Chargez. On se barre d'ici.|- A vos ordres.
+{69422}{69534}25, ici 64. La colonne des secours est| sur place et vous rejoindra dans 5 min.
+{69538}{69579}Préparez vos hommes à évacuer.
+{69584}{69643}Ouais, bien reçu, Monsieur! cinq sur cinq !
+{69663}{69752}Cinq minutes! Le convoi arrive dans cinq minutes !
+{70231}{70285}Il me faut un chargeur !| Eversmann, j'suis à court !
+{70288}{70319}C'est mon dernier !
+{70567}{70617}Le convoi est là !
+{71056}{71138}Sergent Eversmann.| Vous voulez qu'on vous dépose, paraît-il !
+{71148}{71183}Oui, Monsieur !
+{71184}{71246}Amenez vos blessés| et commencez à les charger !
+{71427}{71477}Hé, je te tiens. Je te tiens.
+{71484}{71550}Ça ira. J'ai envie de marcher.
+{71561}{71633}Ouais, je ferais pareil. On y va !
+{71962}{72042}On va chercher les corps des pilotes,| puis direction le stade.
+{72055}{72095}On commence à manquer de place ici.
+{72095}{72141}Utilisez tout l'espace disponible.
+{72181}{72292}OK, le 10ème Montagnard agira comme bouclier,| et nous mènera hors de la zone rouge.
+{72292}{72327}Le 10ème Montagnard ? Non.
+{72332}{72409}Monsieur, avec tout le respect,| mes Rangers pourront protéger les arrières.
+{72415}{72513}On vous accompagne à pied hors de la zone rouge,|puis on embarquera à bord des véhicules de queue.
+{72534}{72562}OK, allez on dégage.
+{72565}{72594}En route.
+{72603}{72660}- C'est bon, vous le tenez ?|- Ouais, par ici.
+{72708}{72740}Dépêchons !
+{72767}{72839}Ces putains de trucs attirent les balles.| Allez, on y va !
+{72847}{72904}On y va quand j'en recevrai l'ordre, soldat.
+{72971}{72998}Attention.
+{73015}{73067}Doucement. Allez-y doucement.
+{73148}{73180}Doucement.
+{73433}{73487}Colonel, qu'est-ce qui se passe là-dessous ?
+{73490}{73566}Ils sont en train de démonter| le cockpit tout autour du corps.
+{73572}{73660}Combien de temps ça va prendre ?| Je veux une estimation franche, et pas de blabla.
+{73680}{73711}Ils sont incapables de le dire !
+{73760}{73789}Danny...
+{73824}{73866}...on n'abandonne personne.
+{73886}{73929}Vous m'avez bien compris ?
+{73943}{73978}Oui, Général.
+{74000}{74037}Faites ce que vous avez à faire.
+{74063}{74093}A vos ordres.
+{74246}{74299}- C'est bon. Amenez le .|- Je le tiens.
+{74330}{74405}- Prend son barda. Sors les blessés.|- Compris, chef !
+{74409}{74529}05 H 45 - Lundi 4 Octobre
+{74596}{74612}Mettez en route !
+{74612}{74645}On y va ! En avant !
+{74885}{74905}Putain !
+{74967}{74997}Grenade incendiaire !
+{74997}{75041}- On y va ! Bougez-vous!|- On y va !
+{75303}{75384}- Ouvrez la portière ! On a des hommes ici!|- Y'a plus de place! Montez sur le toit!
+{75384}{75409}Qu'est-ce qu'il y a ?
+{75414}{75484}- Sur le toit ?|- Je monte pas sur un putain de toit !
+{75510}{75542}Non, non, c'est complet.
+{75570}{75647}Y'a plus de place. Continuez d'avancer.| Utilisez la voiture comme bouclier.
+{75721}{75769}Magnez vous! Faut y aller !
+{76170}{76230}Bon, attendez. Arrêtez.
+{76266}{76299}- Partez!|- Allez! On y va !
+{76307}{76327}Partez !
+{77664}{77720}Baissez vous! Baissez vous!
+{77749}{77778}Baissez vous, madame!
+{77840}{77873}J'ai plus de munitions!
+{77899}{77946}Sanderson, je suis à court !
+{78082}{78119}Ne fais pas ça.
+{78125}{78183}- Qu'est-ce que tu fous ?|- Fais pas ça nom de Dieu.
+{78225}{78256}Kurth, on bouge !
+{81708}{81743}Doucement.
+{82948}{82973}Ah, merde.
+{82984}{83072}La balle a raté votre jugulaire| de trois millimètres. Bougez pas.
+{83109}{83157}Allez-y, faites vite.
+{83241}{83336}Je suis à court de café,| mais je t'ai trouvé du thé.
+{83434}{83472}Comment tu te sens, soldat ?
+{83503}{83547}Je sens plus rien.
+{83792}{83829}Prends son pouls.
+{84629}{84662}Hé, Sergent.
+{84773}{84795}Capitaine.
+{84799}{84869}Lorenzo. Comment vous vous sentez ?
+{84935}{85050}Elle est entrée et sortie, l'infirmier dit| que je serai sur pied dans quelques jours.
+{85057}{85096}Bonnes nouvelles.
+{85112}{85150}On va se les faire ?
+{85151}{85216}Tu peux compter là dessus.| On va réunir nos forces.
+{85252}{85297}N'y allez pas sans moi.
+{85327}{85410}N'y retournez pas sans moi.
+{85431}{85479}Je suis encore capable de faire mon boulot.
+{85519}{85580}Il faut vous reposer maintenant, OK?
+{85944}{85976}Vous y retournez ?
+{86027}{86070}Il reste des hommes à nous là dehors.
+{86128}{86163}Bon Dieu.
+{86290}{86320}Lorsque je serai de retour...
+{86348}{86383}...quand les gens me demanderont:
+{86385}{86465}"Hé, Hoot, pourquoi tu y as pris part, mec ?"
+{86478}{86569}"Pourquoi ? T'as la guerre dans le sang ?"
+{86591}{86650}Je ne dirai pas un traître mot.
+{86655}{86683}Pourquoi ?
+{86705}{86749}Ils ne comprendront pas.
+{86787}{86841}Ils ne comprendront pas| pourquoi nous le faisons.
+{86876}{86974}Ils ne comprendront pas| que c'est pour ceux que nous côtoyons.
+{87023}{87054}Il ne s'agit que de ça.
+{87105}{87136}Et rien d'autre.
+{87389}{87493}N'y pensez même pas, d'accord ?| Je me démerde mieux étant seul.
+{87616}{87687}Une nouvelle semaine| vient de commencer. C'est lundi.
+{88001}{88044}Je discutais avec Blackburn l'autre jour...
+{88045}{88156}...et il m'avait demandé, "Qu'y avait-il| de changé ? Pourquoi partons-nous ?"
+{88198}{88252}alors je lui répondais, " Rien. "
+{88259}{88353}Mais c'est pas vrai, tu sais.| Je crois que tout a changé.
+{88389}{88425}Je sais que moi j'ai changé.
+{88561}{88624}Un copain à moi m'avait posé| cette question avant mon arrivée ici.
+{88626}{88680}C'était au moment où| nous recevions notre feuille de route.
+{88685}{88719}Il m'avait demandé:
+{88747}{88811}"Pourquoi pars-tu te battre| dans la guerre d'un autre ?
+{88836}{88894}"Parce que vous vous prenez| tous pour des héros ?"
+{88965}{89020}Je n'avais pas su quoi| lui répondre à cette époque...
+{89092}{89148}...mais s'il me reposait aujourd'hui| la question, je lui répondrais "non".
+{89215}{89263}Aucune foutue chance.
+{89287}{89335}Personne ne demande à devenir un héros.
+{89466}{89519}Ce sont simplement des choses qui arrivent.
+{89614}{89686}J'irai parler à tes parents à mon retour, OK?
+{90615}{90704}Au cours de ce raid, plus de 1000 Somaliens périrent| et 19 soldats américains furent tués.
+{90704}{90792}Mon amour, tu es quelqu'un de fort| qui va réussir dans la vie.
+{90848}{90907}Je vous aime profondément,| toi et les enfants.
+{90929}{91012}Aujourd'hui et demain,| laisse les jours s'écouler tranquillement.
+{91042}{91141}Souris à la vie et n'abandonne jamais,| même si cela te pèse parfois.
+{91174}{91233}Une dernière chose, mon amour...
+{91239}{91330}...ce soir, borde les enfants| tendrement pour moi.
+{91341}{91450}Dis leur combien je les aime.| Serre les bien contre toi...
+{91457}{91528}...et embrasse-les tous deux|très fort, de la part de Papa.
+{91574}{91730}Les Sergents des Delta Gary Gordon et Randy Shughart| furent les premiers soldats à recevoir la Médaille d'Honneur| à titre posthume depuis la  guerre du Vietnam.
+{91730}{91814}Michael Durant fut libéré après 11 jours de captivité.
+{91814}{91937}Deux semaines plus tard, le Président Clinton ordonna| le retrait de Somalie de la Force Delta et des Rangers. 
+{91993}{92125}Le Général William F.Garrison assuma toute| responsabilité quant au résultat du raid.
+{92125}{92257}Le 2 août 1996, Mohamed Farrah Aïdid fut tué à Mogadiscio.| Le lendemain, le Général Garrison prit sa retraite.

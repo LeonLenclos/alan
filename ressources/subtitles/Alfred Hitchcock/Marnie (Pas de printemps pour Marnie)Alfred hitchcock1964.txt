@@ -1,0 +1,1349 @@
+{500}{600}PAS DE PRINTEMPS|POUR MARNIE
+{3600}{3640}Tout a été pris !
+{3652}{3677}Nettoyé !
+{3717}{3792}9 967 $.|Comme je vous l'ai dit.
+{3805}{3835}Et c'est cette fille.
+{3845}{3910}Marion Holland ! C'est elle !
+{3947}{3975}Décrivez-la.
+{3982}{4020}Mais certainement.
+{4050}{4145}1 m 68. 50 kg.
+{4170}{4205}Taille : 36.
+{4225}{4332}Yeux bleus. Cheveux noirs ondulés.
+{4355}{4430}Traits réguliers. Jolies dents.
+{4455}{4485}Ça vous amuse ?
+{4495}{4565}Un vol important a été|commis dans cette maison.
+{4582}{4637}Vous disiez ?|Cheveux noirs ondulés...
+{4645}{4715}traits réguliers. Jolies dents.
+{4727}{4790}Elle a été votre employée|pendant 4 mois ?
+{4815}{4842}Ses références ?
+{4907}{4947}A dire vrai...
+{4967}{5012}Bien sûr qu'elle avait|des références !
+{5067}{5102}Vous ne vous rappelez pas ?
+{5110}{5157}Elle n'en avait pas.
+{5205}{5320}Elle travaillait à la machine à calculer.|Rien de confidentiel.
+{5360}{5387}M. Rutland !
+{5405}{5447}Je ne vous savais pas en ville.
+{5465}{5540}Nous venons d'être volés|de 10 000 $.
+{5542}{5612}Par une fille sans références !
+{5620}{5702}Quand vous l'avez vue,|vous m'avez dit qu'avec elle...
+{5715}{5797}la beauté entrait dans la maison.
+{5820}{5887}La brune|avec de jolies jambes ?
+{5952}{6000}M. Rutland est un client.
+{6010}{6085}Vous n'avez pas le temps|de parler affaires.
+{6090}{6137}Avec cette histoire !
+{6140}{6227}J'ai toujours du temps|pour la maison Rutland.
+{6230}{6275}Ça va à Philadelphie ?
+{6292}{6390}La garce ! J'espère qu'elle|en prendra pour 20 ans !
+{6402}{6447}C'était trop beau !
+{6462}{6515}Toujours prête à travailler|après l'heure.
+{6520}{6570}Jamais une erreur.
+{6575}{6647}Couvrant ses genoux|avec sa jupe
+{6650}{6722}comme s'ils étaient|des pièces de musée.
+{6725}{6812}Elle avait l'air si comme il faut,|si capable, si...
+{6820}{6852}pleine de ressources !
+{10890}{10962}Mlle Edgar ! On va vous donner|votre ancienne chambre.
+{11032}{11085}Peut-on me conduire chez Garrod ?
+{11112}{11157}Quand vous voudrez !
+{11162}{11195}Le temps de me changer.
+{11620}{11690}- Content de vous revoir Mlle Edgar.|- Bonjour M. Garrod.
+{11700}{11735}Voilà mon trésor !
+{11740}{11820}Eh bien, votre trésor|se doutait de quelque chose.
+{11830}{11877}Il a essayé de me mordre,|ce matin.
+{11890}{11955}Si tu veux mordre quelqu'un,|mords-moi.
+{13465}{13492}C'est toi ?
+{13500}{13530}Où est ma mère ?
+{13542}{13612}Elle me fait un gâteau.
+{13660}{13687}Je vois.
+{13860}{13895}Qui est-ce, Jessie ?
+{13930}{14022}Marnie !|Ça alors, c'est le comble !
+{14025}{14127}Tu passes sans crier gare|d'une ville à l'autre.
+{14275}{14337}Je t'ai apporté des chrysanthèmes.
+{14342}{14445}Mais ces glaïeuls|sont encore tout frais !
+{14472}{14550}Je n'ai jamais pu|supporter les glaïeuls.
+{14590}{14640}Tu mets de l'eau partout.
+{14662}{14705}Si tu les emportais à ta mère ?
+{14715}{14815}Elle ne rentre pas avant 6 heures.|Je reste ici jusque-là.
+{14855}{14910}Mets-les à la cuisine.|Que je ne les voie plus.
+{14925}{14955}Fais-le, ma chérie.
+{14960}{14997}Qu'elles ne s'égouttent pas.
+{15015}{15092}On les supporte,|nous, les glaïeuls !
+{15160}{15240}Avec l'argent que je t'envoie,|tu n'as pas à garder des enfants.
+{15245}{15330}Qui te dit que j'en ai besoin ?|C'est pour mon plaisir.
+{15350}{15447}Cette petite Jessie...|si tu savais...
+{15452}{15495}les réflexions qu'elle peut faire !
+{15500}{15520}Je sais.
+{15550}{15680}Tu me racontes|tous ses mots d'esprit.
+{15685}{15737}Et chaque fois que je viens,|elle est là.
+{15835}{15882}Tu t'es décoloré les cheveux ?
+{15910}{15977}Un peu. Ça ne te plaît pas ?
+{16032}{16125}Tu as l'air de vouloir|attirer les hommes.
+{16155}{16217}Les hommes ne feront que ternir|ta réputation.
+{16275}{16325}Je t'ai apporté quelque chose.
+{16385}{16452}Pourquoi as-tu gaspillé|de l'argent ?
+{16517}{16590}Tu as tort de tant|dépenser pour moi.
+{16600}{16647}L'argent est fait pour ça.
+{16665}{16725}La Bible le dit :|L'argent peut tout acheter.
+{16755}{16810}Ne blasphème pas !
+{16815}{16852}Pas ici !
+{17050}{17090}Comment ça se porte ?
+{17095}{17175}Comme ceci :|bien enroulé autour du cou.
+{17182}{17235}C'est très élégant.
+{17245}{17310}Une si belle fourrure.|Comme si ça ne coûtait rien !
+{17347}{17390}M. Pendleton m'a augmentée !
+{17392}{17452}J'ai dit à Mme Cotton :
+{17455}{17512}ma fille est secrétaire|d'un millionnaire.
+{17520}{17605}Il la traite comme|sa propre enfant.
+{17645}{17690}Vous ne me brossez pas|les cheveux ?
+{17695}{17730}Maman va arriver.
+{17735}{17767}Si, chérie.
+{17780}{17815}Va chercher la brosse.
+{17870}{17917}Les cheveux de Jessie...
+{17930}{17975}me rappellent les tiens
+{17977}{18037}quand tu étais petite.|Même couleur.
+{18070}{18100}Ce côté de la rue
+{18105}{18137}n'est pas ensoleillé.
+{18142}{18197}Ma jambe me fait|terriblement mal.
+{18397}{18432}Voilà la brosse.
+{18527}{18565}Ma jambe, Marnie.
+{19030}{19092}Je n'ai jamais soigné|les cheveux de Marnie...
+{19095}{19142}quand elle était petite.
+{19152}{19185}Pourquoi ?
+{19232}{19355}Après mon accident,|j'ai été si longtemps malade.
+{19360}{19405}Puis, j'ai dû travailler.
+{19417}{19480}Vous n'aviez pas de papa non plus ?
+{19492}{19525}Non, tu vois.
+{19642}{19700}Ils sont beaux, maintenant.
+{19747}{19810}Déjà 6 h 05 ! Rentre chez toi !
+{19820}{19885}N'oublie pas les glaïeuls|pour ta maman.
+{20007}{20047}Et mon gâteau ?
+{20052}{20125}Je le ferai ce soir|et je te l'apporterai.
+{20130}{20185}Allez, Jessie ! Rentre !
+{20245}{20285}A bientôt, Mlle Bernice.
+{20420}{20480}Elle te plaît, cette étole ?
+{20485}{20542}C'est du vrai vison.
+{20545}{20607}Tu as l'air de la chérie|d'un vieux monsieur.
+{20632}{20687}Aucun homme|ne m'a autant gâtée.
+{20715}{20810}Nous n'avons pas besoin|des hommes, toi et moi.
+{20860}{20932}Une femme comme il faut|n'a pas besoin d'un homme.
+{20965}{21037}Regarde-toi !|J'ai dit à Mme Cotton :
+{21042}{21097}ma fille est trop intelligente...
+{21102}{21187}pour se laisser impressionner|par les hommes.
+{21270}{21380}Allons à la cuisine|nous occuper du gâteau.
+{21852}{21927}Je pensais demander|à Mme Cotton et à Jessie
+{21930}{21980}de venir vivre avec moi.
+{22002}{22075}Mme Cotton est une femme très bien
+{22102}{22195}qui travaille dur|pour élever sa fille.
+{22212}{22275}Allons, maman, dis plutôt que...
+{22282}{22340}tu voudrais avoir Jessie avec toi.
+{22425}{22520}Tu ne vas pas être|jalouse d'une enfant !
+{22532}{22590}Jessie ne fait pas tant d'histoires.
+{22605}{22660}Ça ferait rentrer de l'argent.
+{22675}{22720}Les Cotton sont très convenables.
+{22847}{22907}Pourquoi ne m'aimes-tu pas ?
+{22927}{22995}Je me le suis toujours demandé.
+{23055}{23140}Si tu me donnais l'affection|que tu donnes à Jessie...
+{23295}{23362}Pourquoi t'écartes-tu|toujours de moi ?
+{23365}{23410}Que me reproches-tu ?
+{23412}{23472}Rien. Je ne te reproche rien.
+{23497}{23527}C'est faux.
+{23530}{23617}Tu as toujours cru|que j'avais mal agi !
+{23622}{23642}Jamais.
+{23675}{23757}Quand je songe à ce que j'ai fait...
+{23772}{23830}pour gagner ta tendresse !
+{23835}{23877}Ce que j'ai fait !
+{23965}{24052}A quoi penses-tu ?|A ce que j'ai fait ?
+{24085}{24162}Tu penses que je me suis|mal conduite, c'est ça ?
+{24190}{24265}Que je suis la maîtresse|de M. Pendleton ?
+{24270}{24345}Tu crois que c'est à ce prix|que je te fais vivre ?
+{24582}{24622}Je suis désolée, maman.
+{24625}{24695}Je ne sais pas|ce qui m'a pris.
+{24700}{24760}Tu ne m'as jamais méprisée.
+{24765}{24790}Non, jamais.
+{24842}{24932}Excuse-moi, je vais|ramasser les noix.
+{24937}{25050}Non. Monte t'allonger.|Tu es à bout de nerfs.
+{25055}{25112}Jessie les ramassera.
+{25205}{25235}Après tout...
+{25267}{25337}le gâteau est pour elle, non ?
+{25805}{25860}Je ne veux pas, maman...
+{25905}{25935}Réveille-toi.
+{25997}{26065}Je ne peux pas bouger.|J'ai froid.
+{26067}{26115}Tu es en train de rêver.
+{26150}{26217}Fais ta toilette.|Le dîner est prêt.
+{26260}{26307}J'ai encore fait ce rêve...
+{26340}{26385}ces coups frappés à la porte.
+{26392}{26440}J'ai dit : le dîner est servi.
+{26465}{26522}Tu ouvres la porte...
+{26557}{26612}et soudain il fait froid.
+{27935}{28015}<i>On demande caissière comptable.|Sérieuses références.</i>
+{28020}{28087}<i>S'adresser à Rutland & Cie.</i>
+{28932}{28965}M. Ward est là ?
+{28967}{29042}Il reçoit une postulante|pour la place de caissière.
+{29057}{29112}Rutland & Cie|est une vieille entreprise.
+{29115}{29195}M. Rutland, je vous|présente Mlle Blakely.
+{29257}{29315}Nous vous écrirons.
+{29437}{29480}Elle me paraît faire l'affaire.
+{29627}{29657}Venez par ici.
+{29925}{30015}- Asseyez-vous Mme... Taylor.|- Merci.
+{30080}{30220}J'ai vos références.|Vous avez travaillé chez Kendall.
+{30225}{30275}Pas d'autres références ?
+{30280}{30325}J'ai une bonne formation.
+{30327}{30372}Mais j'ai peu de pratique.
+{30375}{30420}Kendall était mon premier emploi.
+{30425}{30465}Après mes études,|je me suis mariée.
+{30472}{30515}Mon mari sortait|d'une grande école.
+{30520}{30565}Il m'a aidée à me perfectionner.
+{30570}{30647}Il m'a enseigné la comptabilité...
+{30650}{30695}et un peu d'informatique.
+{30725}{30797}Quand il est mort,|en novembre dernier...
+{30817}{30867}il m'a laissé un peu d'argent...
+{30872}{30955}mais j'ai décidé de m'absorber|dans le travail.
+{30985}{31042}J'ai trouvé cette place|chez Kendall.
+{31045}{31087}Ce n'était pas assez astreignant.
+{31092}{31177}Aucune chance d'avoir chez eux|un autre poste.
+{31185}{31260}Je ne demande pas|un salaire élevé...
+{31265}{31325}mais un travail plus intéressant.
+{31330}{31412}Quelque chose|qui me tienne occupée.
+{31435}{31510}Peu m'importe|le nombre d'heures.
+{31547}{31590}Pourquoi avoir quitté|Pittsburgh ?
+{31595}{31625}Après le décès
+{31630}{31655}de mon mari...
+{31687}{31742}Il s'agit d'un poste de confiance.
+{31762}{31815}Laissez-moi faire mes preuves.
+{32060}{32145}Alors, disons que|vous commencez lundi ?
+{32207}{32247}Passez dans le bureau
+{32252}{32290}de Mlle Clabon.
+{32375}{32397}Je vous y rejoins.
+{32427}{32510}Elle n'a aucune référence.|Vous qui êtes si exigeant !
+{32512}{32600}Disons que je me livre|à une expérience.
+{32605}{32632}Je ne comprends pas.
+{32655}{32702}Tant pis !
+{32875}{32932}Comment va le plus radin|des trésoriers ?
+{32980}{33005}Mark est là ?
+{33010}{33075}J'ai faim et j'ai un chèque|à encaisser.
+{33077}{33152}J'ai pensé à Mark pour le repas,|et à vous pour le chèque.
+{33217}{33280}Vous avez votre carte|de sécurité sociale ?
+{33285}{33317}Oui, bien sûr.
+{33322}{33355}Jolie fille !
+{33415}{33497}Mlle Clabon vous montrera tout.|Elle est ici depuis 7 ans.
+{33502}{33575}Elle a dû trouver le travail|assez astreignant.
+{33580}{33675}Que le service du personnel|vous envoie les formulaires.
+{33865}{33915}Ici le bureau de M. Ward.
+{33942}{33977}Faites-nous monter
+{33980}{34020}les formulaires, s'il vous plaît.
+{34022}{34077}Avant le déjeuner.|J'attendrai.
+{34140}{34192}Alors, pour samedi ?
+{34240}{34305}Ta mère ne devait pas|venir avec nous.
+{34307}{34362}Je voulais savoir|avant de réserver.
+{34430}{34460}Bon. Rappelle-moi...
+{34652}{34737}J'essaierai de ne pas|en faire bon usage !
+{34865}{34945}C'est Lil Mainwaring,|la belle-soeur de M. Rutland.
+{34950}{34992}Sa soeur était Mme Rutland.
+{35005}{35025}Était ?
+{35030}{35097}Elle est morte de|quelque chose au coeur.
+{35107}{35152}Elle avait 29 ans.
+{35170}{35225}Elle a élevé Lil...
+{35240}{35297}qui vivait avec eux|et le vieux M. Rutland.
+{35315}{35417}La petite Lil m'a l'air|de vouloir rester pour de bon.
+{36897}{36977}Je me suis laissé dire|que le père de Mark...
+{36982}{37045}n'avait jamais mis les pieds ici.
+{37052}{37125}L'affaire périclitait quand Mark|l'a reprise en main.
+{37135}{37237}Dès la 1ère semaine|il a saqué...
+{37245}{37292}le Conseil, le Président...
+{37297}{37330}sa secrétaire...
+{37525}{37560}Vous m'en apportez une tasse ?
+{37565}{37607}Avec un beignet ?
+{37625}{37680}Je vous apporte une pâtisserie.
+{37687}{37720}Non, juste un café.
+{37725}{37765}Je n'ai plus d'encre rouge.
+{37780}{37847}Prenez la mienne.|Je vous l'apporte.
+{38512}{38545}Vous êtes blessée ?
+{38625}{38657}Elle a dû se blesser.
+{38700}{38735}Mary ? Ça va ?
+{38785}{38840}Mais naturellement !
+{38845}{38890}J'ai simplement tâché ma blouse.
+{38900}{38970}En vous voyant courir,|M. Rutland a cru...
+{38975}{39007}que vous étiez blessée.
+{39032}{39087}Juste un peu d'encre.
+{39120}{39185}Que d'histoires pour rien !
+{39975}{40040}Pourquoi ouvre-t-il|et referme-t-il ce tiroir ?
+{40047}{40095}Il oublie toujours la combinaison.
+{40100}{40130}Elle est indiquée dans le tiroir.
+{40135}{40195}M. Rutland et moi|avons aussi les clés.
+{40227}{40275}Il n'y a pourtant que 5 chiffres.
+{40382}{40432}M. Rutland vient|de me téléphoner.
+{40467}{40535}Vous aviez parlé|d'heures supplémentaires.
+{40555}{40615}Pourriez-vous travailler samedi ?
+{40622}{40675}Certainement !|A quelle heure ?
+{40682}{40707}14 heures 30.
+{40722}{40782}Je vais lui dire que|vous êtes d'accord.
+{42045}{42072}Entrez, Mme Taylor.
+{42345}{42400}L'art précolombien|vous intéresse ?
+{42417}{42485}La collection de ma femme.|Elle est morte.
+{42490}{42535}C'est tout ce qui me reste d'elle.
+{42572}{42600}Voici Sophie.
+{42627}{42660}Un Jaguarondi.
+{42705}{42752}Je l'avais dressée.
+{42780}{42807}A quoi faire ?
+{42825}{42857}A me faire confiance !
+{42877}{42905}C'est tout ?
+{42910}{42972}C'est beaucoup|pour une chatte sauvage.
+{43010}{43035}Nous travaillons ?
+{43050}{43095}Vous pouvez vous servir|de la machine.
+{43102}{43157}Je veux un original et un double.
+{43162}{43207}Si ce n'est pas clair,|dites-le.
+{43212}{43290}Je suis un piètre dactylo.
+{43450}{43530}Les destructeurs d'arbres|de la forêt brésilienne...
+{43545}{43655}Avant d'être envoyé chez Rutland,|je me destinais à la zoologie.
+{43662}{43707}Je m'y intéresse encore.
+{43715}{43745}Aux zoos ?
+{43775}{43812}Je m'occupe des instincts.
+{43850}{43902}La zoologie traite|des êtres humains ?
+{43920}{44035}Et des animaux, dont l'homme|tient ses instincts.
+{44050}{44095}Même les instincts féminins ?
+{44120}{44177}Cet article parle|des instincts destructeurs.
+{44185}{44260}Disons : des criminels|du monde animal.
+{44265}{44342}Les femelles y figurent|en bonne place.
+{44777}{44817}Allumez l'autre lampe...
+{44827}{44867}la prise est près de la porte.
+{45242}{45287}Asseyez-vous.
+{45295}{45392}Si l'orage vous effraie à ce point,|je vais vous servir à boire.
+{45752}{45805}Nous avons un paratonnerre.
+{45907}{45955}Nous sommes en sûreté ici.
+{46165}{46205}Arrêtez ces couleurs !
+{46215}{46250}Quelles couleurs ?
+{47165}{47212}C'est fini.
+{47327}{47370}Voulez-vous boire|un peu de cognac ?
+{47375}{47447}Non, merci. Je suis désolée.
+{47487}{47555}Pourquoi parliez-vous|de couleurs ?
+{47597}{47665}Vous aviez l'air terrifiée|par des couleurs !
+{47682}{47745}Ce qui me fait peur, c'est le tonnerre.
+{47772}{47855}Je ne vous croyais pas|femme à avoir peur.
+{48222}{48260}Rien ne dure ici-bas.
+{48300}{48365}Vous n'êtes plus en état|de travailler.
+{48367}{48425}Je vais vous ramener|chez vous.
+{48450}{48475}Prenez vos affaires.
+{48597}{48685}Il fait froid.|J'appellerai le service entretien.
+{49132}{49212}- Désolée, pour votre collection.|- Vous n'y êtes pour rien.
+{49240}{49307}C'est tout ce qui vous restait|de votre femme.
+{49310}{49382}Tout ce que j'avais gardé|de ma femme !
+{49537}{49577}Je voudrais écouter...
+{49610}{49637}Vous aimez les courses ?
+{49642}{49715}J'aime les chevaux.|Je vais aux courses.
+{49725}{49777}Votre mari s'y intéressait ?
+{49827}{49877}Maintenant, vous y allez seule ?
+{49950}{50052}Il y a des courses à Atlantic City,|si on y allait samedi ?
+{50080}{50155}D'accord !|Vous aimez les chevaux ?
+{50157}{50190}Pas du tout !
+{50860}{50892}Encore une autre course.
+{50947}{50987}On est bien ici.
+{51010}{51072}Quel cheval joueriez-vous|dans la prochaine ?
+{51100}{51162}Lemon Pudding.|Il a été 3 fois 3ème.
+{51167}{51215}Il est bien monté aujourd'hui.
+{51242}{51332}On le donne à 4 contre 1 .|Je le joue.
+{51505}{51550}Vous êtes bien Peggy Nicholson ?
+{51585}{51615}Vous me reconnaissez ?
+{51642}{51682}Pardon, vous disiez ?
+{51690}{51750}N'êtes-vous pas Peggy Nicholson ?
+{51755}{51790}Du tout !
+{51800}{51872}J'aurais juré...|en vous apercevant...
+{51890}{51970}Vous faites erreur.|Je ne suis pas Mlle Nichols.
+{51975}{52002}Nicholson !
+{52042}{52122}Frank Abernathy nous avait|présentés à Détroit !
+{52165}{52232}Vous vous rappelez Frank ?
+{52240}{52362}Je ne connais pas|de Frank Abernathy.
+{52395}{52425}Maintenant, laissez-moi.
+{52430}{52517}Vous êtes en train de|me faire marcher, non ?
+{52520}{52572}Pourquoi vous ferait-elle marcher ?
+{52587}{52657}Je m'excuse !|Je croyais l'avoir reconnue.
+{52670}{52700}Vous a-t-il reconnue ?
+{52712}{52757}Vous ne l'avez pas reconnue.
+{52760}{52835}J'ai dit : Je croyais...|et Je m'excuse...
+{52840}{52910}Heureusement pour vous !|Maintenant, filez !
+{53050}{53077}Vous êtes vite revenu !
+{53102}{53195}- Qui est votre admirateur ?|- Je dois avoir un de ces visages...
+{53210}{53257}Quel cheval|dans la prochaine ?
+{53260}{53327}Allons au paddock.|J'aimerais voir Telepathy.
+{53330}{53410}Je le suis|depuis qu'il a deux ans.
+{54000}{54037}Votre vieil ami...
+{54040}{54072}Telepathy.
+{54082}{54127}Oui. Numéro 8.
+{54312}{54410}Un grand efflanqué, mais je|m'incline devant vos connaissances.
+{54412}{54445}Qu'y a-t-il ?
+{54455}{54497}Ne pariez pas sur lui.
+{54502}{54552}- Pourquoi ?|- Il louche.
+{54565}{54605}Partons.
+{54910}{54992}Vous ne buvez pas,|ne fumez pas, ne jouez pas.
+{55017}{55055}Tentez votre chance.
+{55070}{55105}Je n'y crois pas.
+{55110}{55145}A quoi croyez-vous ?
+{55185}{55202}A rien !
+{55242}{55302}Aux chevaux peut-être.|Ils sont beaux.
+{55307}{55350}Pas comme les gens.
+{55372}{55427}Les gens !|Une sale engeance.
+{55432}{55457}En général !
+{55470}{55525}Vous avez eu|une enfance malheureuse ?
+{55527}{55557}Pas particulièrement.
+{55585}{55690}Je crois que si !|Il vous a fallu lutter.
+{55695}{55742}Mais vous êtes intelligente.
+{55755}{55842}D'où tenez-vous cette distinction ?
+{55865}{55900}J'ai observé !
+{55922}{55987}Et votre enfance malheureuse,|M. Rutland ?
+{55992}{56032}Toujours la même histoire.
+{56035}{56090}Une jeunesse influencée
+{56092}{56165}par des questions d'argent.
+{56185}{56255}La Maison donnait de la bande.
+{56275}{56342}Un millier d'employés|sur le point d'être à la rue !
+{56355}{56415}Et que serait-il advenu|des Rutland ?
+{56432}{56467}Il n'arrive rien à une famille...
+{56472}{56545}qui épouse une héritière|une génération sur deux.
+{56625}{56652}Vous auriez dû parier.
+{56660}{56725}Votre loucheur a gagné|de 4 longueurs !
+{56820}{56867}J'en ai assez. Nous partons ?
+{56872}{56900}Si vous voulez.
+{56915}{56957}Les courses ont lieu|jusqu'à la fin du mois.
+{56962}{57015}Ça nous donne encore|deux samedis.
+{57035}{57117}Si votre chance dure,|je vais être riche.
+{57370}{57435}Vous exagérez, mon vieux !
+{57650}{57685}Où allons-nous ?
+{57692}{57752}Il est temps que je vous|présente à mon père.
+{57780}{57815}Vous auriez dû m'avertir.
+{57860}{57887}Mon père a du flair.
+{57892}{57947}Si vous sentez le cheval racé,|c'est gagné.
+{58382}{58455}Nous voilà arrivés|au foyer familial.
+{58850}{58875}Qui est-ce ?
+{58880}{58930}Je te présente Mary Taylor.
+{58955}{58980}Une jeune fille ?
+{58985}{59050}Plutôt un amateur de chevaux.
+{59070}{59145}Je l'ai amenée pour|lui montrer les tiens.
+{59150}{59192}Pour la retenir un peu.
+{59195}{59285}J'en suis ravi. Venez.|J'allais prendre le thé.
+{59477}{59520}Ma belle-soeur Lil.
+{59585}{59635}Je vous ai vue à l'imprimerie.
+{59640}{59712}Que pouvez-vous trouver|à faire à l'imprimerie ?
+{59825}{59897}Je crois que je me suis|foulé le poignet.
+{59905}{59960}J'ai peur de renverser...
+{59977}{60020}Vous voulez bien..?
+{60075}{60150}Fort. Pas de lait. Deux sucres.
+{60160}{60217}La nourriture est détestable, ici.
+{60220}{60292}Mais j'exige du bon cake.
+{60305}{60347}Du citron, Lil ?
+{60470}{60520}Pour moi, fort avec du rhum.
+{60525}{60620}Gâcher son thé avec de l'alcool.|C'est tricher.
+{60655}{60760}Mlle Taylor ?|Notre vieux Mark tricherait-il ?
+{60787}{60807}Possible !
+{60877}{60927}Comment prenez-vous votre thé ?
+{60930}{60987}En sachet,|dans de l'eau bouillante.
+{60997}{61047}Solution paresseuse, ma chère !
+{61052}{61112}Je voudrais une bonne|tranche de ce cake.
+{61125}{61152}Vous montez à cheval ?
+{61160}{61182}Un peu.
+{61187}{61245}Ce qu'il y a de mieux|au monde...
+{61247}{61282}c'est un cheval !
+{61307}{61350}Mark vous a intéressée ?
+{61360}{61390}Il ne monte même pas !
+{61392}{61462}Je t'en prie, papa.|Ne la décourage pas.
+{61470}{61525}Moi qui voulais|lui montrer les chevaux...
+{61542}{61602}Posez ça ou emportez-le|aux écuries.
+{61605}{61677}Mark a amené Mlle Taylor|pour voir les chevaux.
+{61685}{61720}En réalité, c'est pour moi.
+{61727}{61825}- Vraiment ? Pourquoi ?|- Je suis encore très présentable.
+{61897}{61977}Auras-tu la force de verser|une 2ème tasse de thé ?
+{61980}{62007}Bonne idée.
+{62012}{62035}Je ne peux pas.
+{62040}{62095}Quand le devoir murmure :|Tu dois...
+{62102}{62162}Une seule réponse :|Je peux !
+{62197}{62270}En fait de citation, tu inventes.
+{62940}{63000}Venez-vous passer|le week-end avec nous ?
+{63005}{63047}Vous apporterez votre thé.
+{63052}{63102}Et vous choisirez un cheval.
+{63255}{63297}A lundi.
+{63922}{63977}Je n'ai plus de poudre.|Tu m'en donnes ?
+{64457}{64515}Rentrons.|Si jamais il t'appelait...
+{64537}{64565}S'il n'appelle pas, je m'en...
+{64567}{64640}C'est la plus belle|occasion de ta vie !
+{66610}{66665}4 tours gauche - 36,|4 tours droite - 20.
+{66670}{66740}2 tours gauche - 16,|2 à droite - 8, 1 à gauche - 5.
+{70270}{70332}Vous gazez ce soir, Rita.|Pourquoi ?
+{70337}{70387}J'ai envie d'aller me coucher !
+{71230}{71270}Mettez pied à terre.
+{71282}{71340}Vous marcherez jusqu'à l'écurie.
+{71397}{71470}Vous êtes à l'hôtel|ou chez des amis ?
+{71487}{71532}Vous n'aimez pas les chevaux !
+{71535}{71645}C'est vrai, mais eux m'adorent.|Ce qui nous ramène à nous, Mlle Edgar.
+{71905}{71980}Edgar est votre vrai nom ?|Et vous êtes blonde.
+{72007}{72100}Nous gagnerons du temps,|si vous me dites la vérité !
+{72105}{72140}Est-ce votre vrai nom ?
+{72165}{72195}Quel débit !
+{72205}{72260}Je me retiens|de vous faire parler !
+{72360}{72435}Pour la dernière fois :|est-ce votre vrai nom ?
+{72440}{72497}Et n'essayez pas de mentir.
+{72502}{72545}Oui. Margaret Edgar.
+{72567}{72592}Née où ?
+{72640}{72695}En Californie. Los Angeles.
+{72717}{72735}Où est l'argent ?
+{72817}{72857}En voici une partie.
+{72872}{72927}- Et le reste ?|- En sûreté.
+{72932}{72980}Dans un guichet de P.M.U. ?
+{73000}{73100}Sert-il à soigner votre mère, ou|à payer les études de votre frère ?
+{73105}{73170}Je n'ai ni frère, ni mère.|Je n'ai personne.
+{73172}{73202}Pas même un M. Taylor ?
+{73210}{73277}Je ne serais pas étonné|si le reste...
+{73282}{73337}était entre les mains|de votre défunt mari !
+{73342}{73442}J'espère bien le retrouver|les poches bourrées...
+{73445}{73505}de l'argent des Rutland.
+{73510}{73560}Le reste de l'argent se trouve...
+{73565}{73670}à mon nom, dans une|boîte postale à New York.
+{73675}{73692}Voici la clé.
+{73732}{73777}Donnez-moi le récépissé.
+{73855}{73927}Le récépissé et le paquet|valent des aveux signés.
+{73935}{73957}Compris ?
+{73972}{74012}Et M. Taylor ?
+{74030}{74082}Je n'ai jamais été mariée.
+{74087}{74142}C'était le nom|d'une amie de ma mère.
+{74147}{74230}Vous l'avez pris pour|vous présenter chez Rutland ?
+{74232}{74312}Pour échapper à une cousine,|une mauvaise fille : Jessie.
+{74322}{74352}J'avais peur...
+{74357}{74417}que si elle apprenait|cette histoire d'assurance...
+{74420}{74455}elle n'en veuille sa part !
+{74457}{74495}Quelle assurance ?
+{74525}{74577}Celle de Mme Taylor qui est morte.
+{74582}{74612}Pauvre Mme Taylor !
+{74620}{74722}- Et la cousine est dans le coup.|- Personne n'est dans le coup !
+{74725}{74800}Vous parlez comme si|j'étais une professionnelle.
+{74805}{74860}- Comme si j'avais tout calculé.|- Ce n'était pas le cas ?
+{74915}{74970}Vous n'êtes pas née à Los Angeles.
+{74975}{75087}Vous avez prononcé le mot|assurance avec l'accent du Sud !
+{75097}{75145}Vous mentez avec sang-froid.
+{75165}{75195}C'est plus fort que moi.
+{75200}{75232}On ne dirait pas.
+{75282}{75362}Je suis née en Virginie.
+{75375}{75420}Mon père nous a abandonnées.
+{75432}{75502}Nous avons d'abord vécu|à Richmond.
+{75512}{75557}Puis, en Californie...
+{75572}{75617}où ma mère a trouvé du travail.
+{75620}{75660}Je vous jure que c'est vrai !
+{75665}{75757}Ma mère est morte.|Mme Taylor m'a recueillie.
+{75780}{75815}Venez.
+{75877}{75972}- Comment m'avez-vous retrouvée ?|- C'est moi qui pose les questions.
+{75990}{76057}Comment avez-vous eu|la combinaison du coffre ?
+{76062}{76107}J'ai pris la clé à Suzan.
+{76117}{76200}Je vois. Commencez|par le commencement.
+{76255}{76327}Je vous l'ai dit.|Je suis née à Richmond.
+{76337}{76432}Nous étions pauvres.|Extrêmement pauvres.
+{76537}{76625}J'étais horriblement seule|à la mort de ma mère.
+{76637}{76682}Continuez, je vous écoute.
+{76725}{76822}Je me suis occupée de Mme Taylor|jusqu'à sa mort.
+{76852}{76892}Elle m'a légué sa maison...
+{76895}{76962}et une assurance de 5 000 $.
+{77032}{77110}J'ai vendu la maison.|Elle était hypothéquée.
+{77120}{77160}Je n'en ai eu que 9 000 $.
+{77185}{77272}Je me suis retrouvée|avec 14 000 $.
+{77287}{77345}Libre d'en faire|ce que je voulais.
+{77387}{77432}J'ai acheté Forio...
+{77475}{77512}mon cheval,|chez Garrod.
+{77527}{77577}J'ai vécu deux années magnifiques.
+{77582}{77662}En novembre dernier,|je n'avais plus un sou.
+{77667}{77735}Je suis allée à Pittsburgh|et suis entrée chez Kendall...
+{77740}{77772}en attendant mieux.
+{77795}{77920}Voyons si on arrive à tirer|de ces mensonges des faits réels.
+{77947}{77995}Vos dates sont fausses.
+{77997}{78102}Vous avez travaillé chez Strutt & Cie.|Je vous y ai vue.
+{78115}{78190}Strutt est notre conseiller.
+{78210}{78260}Vous étiez brune.
+{78275}{78335}Il m'a parlé|de votre disparition.
+{78365}{78415}Vous saviez... quand|vous m'avez engagée ?
+{78430}{78467}Je n'étais pas certain
+{78472}{78570}mais j'ai trouvé intéressant|de vous avoir sous la main.
+{78575}{78652}Et vous avez essayé de|me prendre au piège ?
+{78720}{78747}Je ne sais plus.
+{78752}{78822}D'abord, ça a été de la curiosité.
+{78832}{78885}Puis, les événements|m'ont dépassé.
+{78905}{78932}Vous me plaisiez.
+{78945}{78972}Je vois !
+{79005}{79077}Vous avez pris des risques,|sachant que...
+{79090}{79145}Rutland était un client de Strutt.
+{79157}{79260}J'ignorais les noms|des clients de Strutt.
+{79330}{79427}Continuons. Vous êtes|une voleuse et une menteuse.
+{79440}{79472}Mais à quel degré ?
+{79475}{79547}Êtes-vous kleptomane ?|Menteuse pathologique ?
+{79560}{79595}Et après ?
+{79655}{79707}Pour moi, ça changerait|bien des choses.
+{79837}{79870}Vous êtes allée en prison ?
+{79900}{79927}Non.
+{79990}{80055}Je sais que vous ne me|croirez plus jamais.
+{80072}{80135}C'est vrai, j'ai volé Strutt.
+{80157}{80227}Je ne sais pas pourquoi !|Sur un coup de colère !
+{80250}{80322}M. Strutt était si...|Je le détestais.
+{80350}{80380}Comme vous me détestez ?
+{80437}{80467}Oh non ! Pas vous !
+{80682}{80720}Essuyez vos yeux !
+{81870}{81902}Vous désirez ?
+{81922}{81955}Une francfort et un café.
+{81957}{81990}La même chose.
+{82042}{82092}Poursuivons|notre petite discussion.
+{82115}{82170}L'emploi chronique|d'un nom d'emprunt...
+{82172}{82292}ne cadre pas avec|votre geste non prémédité.
+{82317}{82420}Si vous aviez volé 10 000 $,|vous changeriez votre nom.
+{82457}{82515}A quoi bon tenter|de vous faire comprendre ?
+{82520}{82580}J'essaie de vous croire.
+{82602}{82640}Je veux vous croire !
+{82655}{82685}Vous comprenez ça ?
+{82890}{82965}Les causes de ce vol...
+{83000}{83057}sont si confuses.
+{83115}{83140}Je devais partir...
+{83175}{83247}Partir de chez Rutland.
+{83287}{83312}Vous saisissez ?
+{83317}{83350}Vous et moi...
+{83360}{83420}Était-ce une raison|pour vous enfuir ?
+{83425}{83482}Oui. Avant que je ne|commence à souffrir.
+{83490}{83537}Je ne me fais pas d'illusions.
+{83550}{83577}On vous appelle Margaret ?
+{83595}{83617}Marnie !
+{83692}{83732}Si vous me laissiez partir...
+{83755}{83802}Je ne peux pas|vous laisser partir !
+{83815}{83885}Quelqu'un doit vous aider.|Vous retenir.
+{83895}{83992}Sinon, je serais moralement|et légalement responsable.
+{84005}{84027}Alors ?
+{84060}{84085}Marnie...
+{84117}{84152}Ça vous va bien !
+{84200}{84250}Voilà ce qui va se passer.
+{84270}{84352}Je vais vous ramener|à Philadelphie. Chez moi.
+{84357}{84410}Demain, vous retournerez|chez Rutland.
+{84415}{84495}Vous remettrez la clé|dans le sac de Suzan.
+{84505}{84550}Comment pourrais-je ?
+{84555}{84607}J'ai remplacé l'argent.
+{84645}{84710}Quand j'ai vu|que vous aviez pris la fuite
+{84712}{84757}j'ai tout de suite compris.
+{84770}{84892}Je suis allé au coffre et|j'ai remis la somme volée.
+{84912}{84945}Puis, je vous ai cherchée.
+{84965}{85060}Vous rappelez-vous|à propos de Telepathy ?
+{85120}{85202}Le cheval que vous suivez|depuis toujours ?
+{85207}{85242}J'ai fait des recherches.
+{85247}{85322}Il avait été entraîné|par un certain Marston.
+{85325}{85442}Je l'ai appelé et lui ai demandé|si on pouvait louer des chevaux.
+{85452}{85500}Il m'a donné trois adresses.
+{85530}{85600}J'y suis allé.|Sans succès.
+{85612}{85700}Puis, on m'a dit de voir|chez Garrod.
+{85902}{85950}Pourquoi me ramenez-vous|chez vous ?
+{85980}{86022}Parce que je n'ai pas|confiance en vous.
+{86085}{86147}Vous avez le récépissé|et la clé...
+{86155}{86180}Et mon nom !
+{86185}{86260}Etes-vous sûre de vous|appeler Margaret Edgar ?
+{86270}{86340}Et de n'avoir pas égaré|un mari ou deux ?
+{86345}{86387}Je n'ai jamais été mariée.
+{86410}{86445}Ni... presque ?
+{86467}{86542}Pas d'amoureux, ni de|chevaliers servants...
+{86545}{86570}Rien !
+{86595}{86635}Bon ! Mangez !
+{86725}{86787}J'aimerais aller|me faire une beauté.
+{86805}{86835}Nul besoin !
+{87137}{87172}Je n'arrive pas à vous croire.
+{87177}{87242}Vous avez dû plaire|à beaucoup d'hommes !
+{87247}{87325}Oui. Mais moi,|ça ne m'intéressait pas.
+{87345}{87362}Jamais ?
+{87437}{87487}Jusqu'au jour où...
+{87520}{87537}Pourquoi moi ?
+{87570}{87605}Vous êtes différent.
+{87645}{87685}Ça ne prend pas, Marnie.
+{87700}{87747}C'est vrai. Vous me plaisez.
+{87792}{87822}Oui. Je le crois.
+{87835}{87892}Mais sans plus.
+{87915}{88050}A la maison, je dirai|que vous êtes partie.
+{88055}{88107}Que j'ai couru après vous|et vous ai ramenée.
+{88110}{88167}Mon père admire l'énergie.
+{88192}{88275}Puis, j'annoncerai notre mariage.
+{88285}{88385}Je vous garderai à la maison.
+{88390}{88445}Mon père admire aussi|le désir exclusif !
+{88480}{88540}Nous nous marierons|dès que possible.
+{88545}{88612}Puis, nous partirons|pour une longue croisière.
+{88617}{88642}Vers les mers du Sud ?
+{88650}{88695}Où voulez-vous en venir ?
+{88720}{88777}A une demande de mariage.
+{88785}{88835}Comment dois-je la faire ?
+{88855}{88885}Cérémonieusement ?
+{88900}{88942}Êtes-vous complètement fou ?
+{88950}{88985}C'est possible.
+{89030}{89125}Je continuerai|à vous appeler Marnie.
+{89140}{89172}Mais Taylor ?
+{89195}{89267}Vous porterez le nom|de Mary Taylor.
+{89275}{89357}Vous pouvez même signer|Minnie Mouse...
+{89360}{89397}sans sortir de la légalité !
+{89400}{89515}Je suis Minnie la voleuse...|la menteuse !
+{89525}{89632}Mon malheur est d'être amoureux|d'une voleuse !
+{89650}{89677}Amoureux ?
+{89725}{89790}Mark ! Si vous m'aimez,|laissez-moi partir.
+{89815}{89862}Je vous en supplie.
+{89890}{89942}Vous ne savez rien de moi !
+{90012}{90100}Je ne suis pas une fille|comme les autres. Je me connais.
+{90125}{90155}J'en doute, Marnie.
+{90160}{90227}Il faudra faire face.
+{90252}{90297}Je vous aime.
+{90340}{90407}C'est terrible, mais vrai.
+{90430}{90477}Vous ne m'aimez pas.
+{90490}{90610}Vous m'avez prise au piège,|comme un animal.
+{90615}{90662}C'est vrai.
+{90665}{90742}Et cette fois,|j'ai attrapé l'indomptable !
+{90755}{90832}Je vous ai prise|et je ne vous lâche pas.
+{90845}{90905}Et à la maison,|évitez d'avoir l'idée
+{90910}{90960}de filer avec l'argenterie !
+{90970}{91075}Dans une semaine, vous pourrez|en prendre possession légalement.
+{91085}{91167}Comme vous le ferez... de moi ?
+{91205}{91240}C'est une façon|de voir les choses.
+{91265}{91330}Quelqu'un doit vous|prendre en charge, Marnie.
+{91345}{91425}Moi ou la police : choisissez !
+{91870}{91945}Oh Bob ! J'allais oublier.|Tu as fait le nécessaire ?
+{91972}{92027}Les travellers chèques...|les lettres de crédit...
+{92030}{92110}Merci. Fais prendre|ma voiture à l'aéroport.
+{92132}{92192}Bob est le plus obligeant|des cousins.
+{92350}{92400}Nous t'enverrons|un grand chef sauvage.
+{92440}{92520}Merci de nous avoir mariés.
+{92735}{92812}Allons finir le champagne|et le cake.
+{92817}{92902}Un vrai cake. Je m'en|suis occupé moi-même.
+{92907}{92992}J'ai fait la connaissance|du chef pâtissier...
+{92995}{93080}Le brillant de la bague|pèse au moins 5 carats.
+{93095}{93195}6 carats 50. Blanc bleu.|Une pierre sans défaut.
+{93200}{93290}Sa mère a pourtant laissé|de beaux bijoux.
+{93295}{93390}Il voulait quelque chose|qui n'ait appartenu à personne.
+{93395}{93452}Mais 6 carats 50 !
+{93477}{93522}Il a dû vendre des valeurs.
+{93527}{93630}Il ne l'a pas payée.|Il l'a fait porter en compte.
+{93632}{93727}Elle a coûté 42 000 $, hors taxe.
+{93740}{93807}42 000 $ ?
+{93842}{93887}Il est fou !
+{93892}{93940}Savez-vous ce qu'il m'a|fait samedi dernier ?
+{93945}{93977}Il est arrivé au club...
+{93982}{94045}avec un chèque de 7 000 $.
+{94055}{94130}J'ai dû aller ouvrir|ma banque...
+{94135}{94182}et lui remettre 7 000 $ !
+{94202}{94235}Puis, il a prélevé...
+{94250}{94352}de quoi payer le prix du voyage.
+{94385}{94477}Il a vendu des titres|et a voulu de l'argent liquide.
+{94490}{94530}10 000 $ en petites coupures.
+{94535}{94615}Quand je lui ai demandé pourquoi,|il m'a dit :
+{94620}{94732}On me fait chanter et on exige|des petites coupures !
+{94760}{94827}Je sais qu'on lui trouve|un sens de l'humour...
+{94830}{94947}Pas moi ! Ce n'est pas|de l'humour que de dépenser...
+{95035}{95150}... y compris la bague,|70 000 $ en une semaine !
+{95175}{95287}6 ou 7 000 $ pour un voyage|de noces.
+{95290}{95337}Une bague de 42 000 $.
+{95360}{95415}Pour fêter... quoi ?
+{95430}{95495}Ce mariage à la sauvette ?
+{95500}{95535}Il n'a même pas invité ma mère.
+{96775}{96832}Rembourser Strutt...
+{97857}{97907}Je vous prépare un verre ?
+{98127}{98195}Un bourbon|pour vous brosser les dents ?
+{98312}{98387}Quoi qu'en disent les films|et les magazines féminins
+{98392}{98532}le champ de bataille du mariage|n'est pas la chambre à coucher...
+{98547}{98612}mais la salle de bains.
+{98625}{98732}C'est dans le bain et pour le bain|que la bataille se livre.
+{98750}{98835}Il me semble que nous|avons mal débuté.
+{98840}{98912}47 minutes que vous occupez|la salle de bains.
+{98990}{99025}Elle est à votre disposition.
+{99140}{99205}Vous êtes très sexy|sans maquillage.
+{99245}{99292}Marnie, venez ici !
+{99910}{99940}Je ne peux pas...
+{99992}{100025}Voyons, Marnie...
+{100087}{100182}Si vous me touchez encore|une fois, j'en mourrai !
+{100270}{100355}Je ne vous toucherai pas.|Mais ne restez pas là.
+{100450}{100507}Expliquez-moi.
+{100517}{100595}Je vous déplais à ce point ?
+{100605}{100662}Je vous avais dit|de ne pas m'épouser !
+{100665}{100712}Si vous m'aviez laissé partir !
+{100777}{100820}Non. Je vous en prie.
+{100832}{100857}Je vous sers un verre.
+{100862}{100897}Je ne veux pas boire.
+{100917}{100965}Laissez-moi tranquille !
+{100975}{101027}Pas avant d'avoir pu|vous aider.
+{101042}{101115}Le seul moyen|est de vous éloigner.
+{101127}{101160}Vous ne comprenez pas ?
+{101165}{101232}Je ne supporte pas|d'être touchée.
+{101260}{101277}Par personne ?
+{101295}{101325}Par... les hommes !
+{101442}{101510}Ça n'avait pas l'air|à mon bureau,
+{101515}{101540}puis au haras...
+{101545}{101602}et pendant cette semaine,
+{101607}{101642}je vous ai embrassée.
+{101662}{101735}Vous ne vous êtes pas refusée.
+{101750}{101802}Je croyais pouvoir le supporter.
+{101880}{101925}Vous avez toujours|été comme ça ?
+{101927}{101957}Oui. Toujours.
+{101975}{101997}Pourquoi ?
+{102012}{102042}Sans raison.
+{102047}{102140}Je n'ai jamais supporté|que l'on me touche, voilà tout.
+{102175}{102212}En avez-vous parlé...
+{102217}{102260}à quelqu'un ?
+{102270}{102325}Pourquoi ?|Je ne voulais pas me marier.
+{102340}{102422}C'est dégradant.|J'étais très bien comme ça.
+{102450}{102522}Erreur, Marnie.|Vous auriez continué à voler.
+{102540}{102575}Ce n'est pas vrai.
+{102582}{102642}Vous l'auriez fait.|Encore et encore.
+{102650}{102765}Vous auriez fini|par vous faire pincer.
+{102782}{102872}Un autre maître chanteur|aurait été...
+{102877}{102975}moins tolérant que moi.
+{102992}{103045}Tôt ou tard,|vous seriez allée en prison.
+{103050}{103137}Ou bien, vous auriez cédé|à un vieux patron sadique,
+{103142}{103190}prêt à se servir !
+{103202}{103247}Vous les auriez eus,|lui et la prison !
+{103267}{103390}Vous voyez que vous|avez besoin d'aide.
+{103392}{103435}Pas de la vôtre !
+{103460}{103547}Vous n'êtes pas capable|d'en juger.
+{103567}{103595}Ce qu'il vous faut...
+{103605}{103660}c'est un psychiatre !
+{103670}{103697}C'est ça, les hommes !
+{103715}{103815}Vous vous refusez et|c'est l'asile d'aliénés !
+{103820}{103882}Ce serait risible,|si ce n'était pas tragique !
+{103930}{103997}Essayons de dormir.|Demain, on verra.
+{104002}{104035}Il n'y a rien à voir.
+{104047}{104185}Je serai la même demain|et le jour suivant...
+{104195}{104292}Nous n'en reparlerons que|quand vous le jugerez bon.
+{104297}{104335}Nous allons être sur ce bateau...
+{104340}{104382}des jours et des nuits.
+{104395}{104487}Tâchons d'effectuer|ce maudit voyage...
+{104492}{104535}aussi agréablement que possible.
+{104550}{104645}Essayons au moins d'être aimables.
+{104697}{104772}Si c'est trop vous demander,|je le serai, moi !
+{104775}{104820}Contentez-vous d'être polie.
+{104832}{104855}Vous ne... ?
+{104922}{104942}Non !
+{105012}{105045}Vous avez ma parole.
+{105125}{105180}Prenons un peu de repos.
+{105202}{105245}Vous, dans votre petit lit...
+{105260}{105310}Moi, à des années-lumière de vous !
+{105355}{105472}Merci. J'aimerais rester ici|encore un instant, mais...
+{105480}{105507}merci !
+{105832}{105890}Vous allez bouleverser|la vieille demeure.
+{105922}{105990}Mon père a sorti|ses chemises de soie.
+{106007}{106047}Comment j'occuperai mon temps ?
+{106050}{106110}Je remplirai mon rôle|de maîtresse de maison.
+{106127}{106210}Il y a, au Kenya,|une fleur merveilleuse.
+{106215}{106332}Couleur de corail|avec des pointes vertes.
+{106360}{106407}Mais en l'approchant,
+{106412}{106490}on découvre que|ce n'est pas du tout une fleur.
+{106510}{106622}Elle est faite de centaines|d'insectes microscopiques...
+{106637}{106727}qui échappent ainsi|aux oiseaux affamés.
+{106765}{106815}<i>Les Animaux marins.</i>
+{107140}{107192}Je vais fermer la porte.|La lumière me gêne.
+{107315}{107367}La lumière ? Bien sûr !
+{107380}{107467}Merci de m'avoir permis|de lire si tard.
+{107475}{107532}Je dissèque la vie marine.
+{107537}{107597}L'entomologie ne vous|intéressant pas...
+{107602}{107680}je suis anxieux de vous|trouver un sujet.
+{107702}{107750}En voici un...
+{107765}{107895}Combien de temps va-t-on|rester sur ce bateau ?
+{107900}{107950}Quand rentrons-nous ?
+{107955}{108025}Envisageriez-vous|de mettre un terme...
+{108027}{108185}à ces nuits merveilleuses|de charmante intimité ?
+{108367}{108495}J'aimerais me coucher.|Le lumière me gêne.
+{108500}{108582}Je ne voudrais pas vous importuner.
+{108610}{108680}Couchez-vous ou sortez !
+{108717}{108820}Je désire passionnément|me coucher, Marnie.
+{109130}{109170}Excusez-moi, Marnie !
+{114155}{114200}Pourquoi n'avoir pas|sauté par-dessus bord ?
+{114230}{114325}Je voulais me tuer,|pas nourrir les poissons.
+{114575}{114657}Quelle joie de te revoir !|C'était affreux les Fidji ?
+{114662}{114730}Nous ne les avons pas vues.|Nous voulions rentrer.
+{114787}{114837}Nous avons besoin de nous reposer.
+{114842}{114892}A six ans, tu voulais|aller à New York.
+{114895}{114952}Je t'ai prévenu.|Les voyages, ça épuise.
+{114957}{115000}Vous devez être éreintés !
+{115010}{115075}Nous allons monter|nous mettre au lit.
+{115107}{115135}On se verra demain.
+{115155}{115185}Vos bagages ?
+{115190}{115210}A l'aéroport.
+{115215}{115265}Bonne nuit, père.|A demain.
+{115545}{115627}Ici, ce n'est pas|une maison de correction.
+{116785}{116880}Dissimulons notre vie privée|derrière une façade.
+{116910}{116955}Petit déjeuner à 8 h 30.
+{116957}{116997}J'y retrouve mon père.
+{117240}{117267}C'est l'usage :
+{117272}{117335}l'épouse accompagne|le mari jusqu'à la porte.
+{117345}{117457}Donne ou reçoit un baiser,|le regarde s'éloigner.
+{117465}{117532}Un petit signe de la main|est facultatif.
+{117830}{117910}Tu vas à ton bureau ?
+{117915}{117992}Dès le premier jour ?|Quel manque de tact !
+{117997}{118090}Non. Je vais faire une course.|A tout à l'heure.
+{118160}{118195}Je n'ai pas d'argent.
+{118205}{118305}Je vais téléphoner à Bob|de t'ouvrir un compte.
+{118315}{118395}N'en attends pas grand-chose...
+{118400}{118450}tu sais que j'ai fait|de grosses dépenses.
+{118455}{118507}Et puis, j'ai réglé Strutt.
+{118520}{118557}Anonymement, bien sûr !
+{118567}{118620}Mais c'est loin, tout ça !
+{118672}{118755}Tu as gaspillé 10 000 $ ?|C'est idiot !
+{118760}{118835}Peut-être ! Mais les idiots,|on ne les met pas en prison.
+{118842}{118960}Je ne tiens pas à passer|pour suspect.
+{118992}{119047}Vous, peut-être, Madame ?|Mais pas moi !
+{120322}{120355}Maman ?
+{120377}{120450}Non, je vais bien, très bien.
+{120452}{120530}J'ai eu la grippe et je|n'avais pas envie d'écrire.
+{120565}{120612}Une laryngite.
+{120642}{120700}Je suis toujours enrouée.
+{120755}{120837}Je ne peux pas parler.|Je vais bien.
+{120842}{120897}Je vais t'envoyer un peu d'argent.
+{120920}{120980}Je ne sais pas quand|j'irai à Baltimore.
+{120985}{121027}Pas avant quelques semaines.
+{121085}{121182}En cas de besoin, écris-moi :|boîte postale Philadelphie.
+{121222}{121302}Il faut que je raccroche.|Au revoir.
+{122342}{122420}Forio ! Mon trésor !
+{123217}{123257}Elle qui se disait|modeste écuyère.
+{123380}{123415}Si tu as besoin de moi...
+{123450}{123550}Je suis complètement|dénuée de scrupules.
+{123555}{123605}Et capable de mentir à la police.
+{123610}{123652}Que veux-tu dire ?
+{123672}{123745}Je vous ai entendus,|toi et Marnie, ce matin.
+{123780}{123825}D'accord, j'ai tendu l'oreille.
+{123847}{123930}On peut dire|qu'on t'a mal élevée.
+{123935}{123980}Ne me parle pas comme ça,|Mark.
+{123987}{124087}Cette Mary-Marnie|que tu as épousée...
+{124090}{124157}et que tu as voulu cacher|dans le Pacifique Sud...
+{124167}{124267}sans même vous avoir|entendus parler de prison...
+{124277}{124330}je savais que tu avais|un coup dur !
+{124365}{124407}Laisse-moi t'aider.
+{124412}{124515}Sois gentille avec Marnie,|elle a besoin d'une amie.
+{124550}{124620}La meilleure amie d'une fille,|c'est sa mère.
+{124672}{124742}Sa mère est-elle donc|si peu sortable ?
+{124752}{124840}Lorsqu'on ne veut pas inviter|quelqu'un à un mariage
+{124842}{124872}on trouve une excuse.
+{124877}{124930}La fatigue du voyage,|par exemple.
+{124935}{125007}Mais prétendre qu'elle|est morte, non !
+{125010}{125082}Où veux-tu en venir ?
+{125135}{125190}Je t'offrais mes services.
+{125200}{125272}Comme agent secret.
+{125280}{125330}Agent secret !
+{125370}{125457}Marnie a téléphoné à sa mère,|à Baltimore.
+{125467}{125532}Elle lui a dit qu'elle|avait eu la grippe.
+{125537}{125637}Qu'elle lui enverrait de l'argent|cette semaine
+{125650}{125747}et que la mère continue d'écrire|à la même boîte postale.
+{125800}{125837}J'étais derrière la porte.
+{125910}{125985}Elle s'est moquée de toi, Lil !
+{126007}{126107}Elle a voulu te donner|une leçon.
+{126112}{126145}Répète, pour voir !
+{126182}{126222}Restons-en là, veux-tu ?
+{126320}{126357}Tu grandis, Lil !
+{126370}{126435}Il faut qu'on te trouve|un fiancé !
+{126440}{126477}Quel est ton type ?
+{126485}{126582}Je t'attendais.|J'adore les menteurs.
+{126590}{126662}Vraiment ?|Quelle sorte de menteurs ?
+{126667}{126702}On pourrait mettre une annonce...
+{126705}{126800}Demoiselle épouserait menteur.
+{127062}{127155}Il y a quelqu'un ?|Où est Marnie ?
+{127160}{127245}Partie à cheval avec Père.|Il l'emmène à la chasse.
+{127250}{127310}Elle doit courir avec la meute
+{127315}{127382}et Père va donner une réception|pour la présenter.
+{127387}{127452}On ne m'a pas appelé|de l'Inter ?
+{127457}{127497}Pas que je sache.
+{127515}{127542}J'y vais.
+{127672}{127715}Je vous prends sur un autre poste.
+{127747}{127810}Je monte.|Raccroche dès que je parlerai.
+{127892}{127955}Tu raccrocheras, n'est-ce pas ?
+{128480}{128595}C'est bon, Lil.|Je vais lui parler.
+{128615}{128685}Vous avez trouvé quelque chose ?
+{128690}{128735}Attendez, je prends un crayon.
+{128807}{128870}Bernice Edgar.
+{128882}{129000}116 Van Buren Street.
+{129040}{129075}Noté. Continuez.
+{129215}{129297}Elle l'a tué ? A quelle date ?
+{129362}{129417}Elle devait avoir environ 5 ans.
+{129430}{129552}Que lui est-il arrivé ?|Pas à la mère. A la fille.
+{129657}{129715}Restez là-bas et complétez|votre documentation.
+{129720}{129812}Envoyez les copies|des documents judiciaires...
+{129817}{129865}à mon bureau.
+{129872}{129922}Vous avez bien travaillé.
+{130000}{130065}Envoyez des photocopies.
+{130075}{130162}Et appelez-moi dès que|vous en saurez davantage.
+{130217}{130272}J'attends de vos nouvelles.
+{130705}{130805}Maman, ne pleure pas.|Je t'en prie.
+{131020}{131065}Ne pleure pas, maman.
+{131420}{131457}Réveille-toi, Marnie !
+{131595}{131625}Ne lui faites pas de mal.
+{131672}{131732}Ne faites pas de mal|à ma maman.
+{131932}{131970}Non, laissez-moi !
+{132025}{132057}Que se passe-t-il ?
+{132070}{132105}Un cauchemar !
+{132135}{132217}Réveille-toi, Marnie !|Ce n'est qu'un cauchemar.
+{132340}{132370}Elle va très bien.
+{132387}{132425}J'ai froid.
+{132470}{132532}C'est ton rayon, mon vieux !
+{132940}{132997}<i>La Sexualité de la femme criminelle.</i>
+{133002}{133047}Je vais te donner du cognac.
+{133105}{133150}Où as-tu trouvé ces pilules ?
+{133205}{133262}On en a comme on veut.
+{133272}{133417}Tu peux aussi te procurer|une corde ou un sac en plastique.
+{133435}{133480}Les moyens ne manquent pas.
+{133507}{133552}Je voudrais dormir.
+{133572}{133667}Ton sommeil est moins|agréable que tes veilles !
+{133702}{133750}Ce rêve...
+{133755}{133820}tu l'as déjà fait...
+{133850}{133897}il se rapporte à un événement..?
+{133912}{134002}Non, je ne sais pas|ce qu'il signifie.
+{134027}{134087}Ta mère veut que tu te lèves.
+{134132}{134182}Mais avant, il y a...
+{134185}{134225}trois coups frappés.
+{134255}{134345}Et elle dit : Lève-toi, Marnie !.
+{134365}{134512}Seulement, si je me lève,|on lui fera du mal.
+{134527}{134567}Qui lui fera du mal ?
+{134635}{134722}Eux. Je ne sais pas.
+{134727}{134815}Mais j'entends du bruit.|J'ai froid.
+{134822}{134852}Quel bruit ?
+{135027}{135047}Qui le faisait ?
+{135247}{135302}Tu es Freud ?|Moi, ta malade ?
+{135400}{135497}Sans voir de psychanalyste,|tu devrais faire quelque chose.
+{135515}{135602}C'est bien pour ça que|je suis prise au piège.
+{135620}{135647}Laisse-moi.
+{135672}{135710}Si je te donnais certains livres...
+{135745}{135890}<i>La Frigidité féminine ?|Les Psychopathes ?</i>
+{135897}{135925}Tu les as lus ?
+{135930}{135987}Je n'en ai pas besoin|pour savoir que...
+{135990}{136085}les femmes sont des idiotes|et les hommes des salauds.
+{136160}{136240}C'était un refus.
+{136265}{136332}Je veux que tu les lises.|Commence par
+{136337}{136362}<i>L'ignorance de soi.</i>
+{136365}{136450}Fiche-moi la paix.|Je suis fatiguée.
+{136505}{136562}Tu ne peux pas|me laisser tranquille ?
+{136597}{136652}Tu es malade, ma chère.
+{136695}{136835}Je suis malade ?|Mais regarde-toi, mon cher.
+{136842}{136895}Toi qui joues les psychanalystes,
+{136897}{136935}examine ton cas :
+{136945}{137022}te voilà obsédé
+{137025}{137142}par une menteuse et une criminelle|qui hurle à ton approche !
+{137235}{137300}Parle-moi de tes rêves, papa.
+{137317}{137362}Je ne suis pas parfait.
+{137400}{137467}Mais tout ce discours|me fait croire
+{137472}{137527}que tu as parcouru|un de ces livres.
+{137537}{137592}Lequel t'a le plus intéressée ?
+{137647}{137720}Tu meurs d'envie|de jouer au docteur ?
+{137762}{137840}Je connais la musique.|Je vais au cinéma.
+{137910}{138005}On commence par le rêve|ou le rapport entre les idées ?
+{138035}{138132}Des petits... rapports.
+{138157}{138232}Donne-moi un mot et|je réponds par association.
+{138237}{138337}Par exemple : Quand un homme|se marie... les ennuis commencent.
+{138350}{138372}Prêt ?
+{138430}{138525}Je croyais que tu voulais jouer.|Alors jouons !
+{138560}{138582}Eau.
+{138610}{138707}Bain. Savon. Pureté.
+{138720}{138850}Ses larmes te laveront|de tes péchés et tu renaîtras.
+{138865}{138935}J'allais à l'église le dimanche.
+{139005}{139070}Je ne me contracte pas.
+{139077}{139140}Vous m'extériorisez|merveilleusement, docteur.
+{139145}{139232}Grâce à vous, je serai d'aplomb|en un rien de temps !
+{139265}{139287}Voir.
+{139302}{139377}Contempler.|C'est ce que vous faites.
+{139437}{139525}Vous prétendez que vous m'aimez,|mais vous trichez.
+{139542}{139562}Sexe.
+{139577}{139645}Masculin. Féminin. Adam et Eve.|Jack et Jill.
+{139650}{139725}Jack, je vous giflerai|si vous osez m'approcher.
+{139740}{139757}Mort.
+{139782}{139827}Moi. Ecoute, Mark...
+{139835}{139847}Aiguilles.
+{139852}{139867}Epingles.
+{139870}{139882}Noir.
+{139900}{139927}Rouge !
+{139932}{139965}Blanc ! Blanc !
+{140085}{140160}Je ne laisserai personne|te faire de mal.
+{140235}{140337}Au secours, mon Dieu !
+{140342}{140390}Aidez-moi !
+{141645}{141690}M. et Mme Strutt.
+{141760}{141807}Je suis Lil, la belle-soeur|de Mark.
+{141812}{141880}- Merci d'être venus.|- Merci de nous avoir invités.
+{141922}{141975}Attendez de l'avoir|vue sur un cheval.
+{142052}{142137}- Je n'ai pas peur du tout.|- Tu n'as aucune raison.
+{142160}{142225}Tu es la plus jolie,
+{142230}{142317}la plus élégante et|la plus intelligente.
+{142357}{142400}Tout le monde est là.
+{142405}{142497}Lil a dressé la liste des invités.
+{142500}{142570}Moi, je ferai mieux|la prochaine fois.
+{142572}{142612}Tu t'en tires très bien.
+{142892}{142935}Pourquoi ?
+{142962}{143017}Je ne sais pas. Je te le jure.
+{143040}{143105}On ne l'a jamais invité ici.
+{143117}{143150}C'est Lil.
+{143200}{143310}- Elle ne le connaît même pas.|- C'est elle. Emmène-moi.
+{143330}{143437}Trop tard, les voici.|Bluffe-les, je suis là.
+{143540}{143607}Nous ne connaissions pas|Mme Strutt.
+{143617}{143647}Voici ma femme.
+{143682}{143715}Quelle surprise !
+{143720}{143755}Vous êtes marié ?
+{143765}{143830}Nous estimons beaucoup votre mari.
+{143882}{143942}Nous travaillons avec les Rutland...
+{143960}{143995}depuis longtemps.
+{144117}{144175}Nous nous connaissons.
+{144195}{144217}Je ne crois pas.
+{144280}{144310}Réfléchissez.
+{144375}{144422}Vous vous êtes mariés récemment ?
+{144440}{144500}Il y a deux mois.
+{144505}{144562}Mais ça fait 4 ans que|nous nous connaissons.
+{144587}{144625}Avant Estelle ?
+{144632}{144665}Tu l'ignorais ?
+{144762}{144812}Betty a l'air perdue...
+{144817}{144880}Veuillez nous excuser.
+{144892}{145007}Lil, occupe-toi de M. et Mme Strutt.
+{145025}{145095}- J'ai mal au coeur...|- Mais non.
+{145102}{145162}Quand tu as dit 4 ans, Lil...
+{145165}{145240}Je me fiche de ce que Lil|peut imaginer.
+{145245}{145265}Le dîner est prêt.
+{145267}{145300}Annoncez-le.
+{145455}{145527}M. Strutt, voulez-vous|accompagner ma femme ?
+{145827}{145862}Cinq minutes
+{145870}{145980}t'ont suffi pour t'échapper|et venir faire tes valises ?
+{145985}{146032}Laisse-moi m'en aller.
+{146035}{146092}Il va me faire|mettre en prison.
+{146097}{146145}Un peu de cran !
+{146150}{146232}Il reviendra demain.|C'est pour m'avoir.
+{146235}{146275}Mais il ne t'aura pas.
+{146280}{146355}Strutt peut partir d'ici avec|des idées de vengeance,
+{146357}{146407}mais c'est un homme d'affaires.
+{146450}{146497}Lui et moi faisons des affaires.
+{146500}{146552}Nous sommes|ses meilleurs clients.
+{146555}{146610}Et s'il se conduit|comme un salaud...
+{146615}{146715}j'y veillerai en personne|et je le lui ferai comprendre.
+{146722}{146797}Même s'il retire sa plainte,|il parlera.
+{146802}{146862}Je n'y attache|aucune importance.
+{146865}{146895}Moi, si !
+{146905}{146960}La bave du crapaud...
+{146992}{147075}Ne comprends-tu pas|qu'il n'y a pas eu que cela ?
+{147080}{147150}Je ne veux pas|qu'on entende parler de moi.
+{147172}{147240}Puisque tu es une pauvre|orpheline sans amis,
+{147245}{147275}qui cela intéresse t’il ?
+{147280}{147302}La police.
+{147310}{147370}Que peut-elle faire si|Strutt retire sa plainte ?
+{147375}{147440}Découvrir d'autres histoires...
+{147442}{147472}semblables !
+{147605}{147630}Il y en a d'autres ?
+{147667}{147727}Combien ?
+{147830}{147897}Dis-moi la vérité.|Combien de vols as-tu commis ?
+{147902}{147922}Trois.
+{147955}{147975}Un petit effort !
+{148007}{148055}Quatre. Cinq, en comptant Strutt.
+{148070}{148100}En combien de temps ?
+{148125}{148177}En cinq ans.|C'est la vérité.
+{148212}{148232}Combien ?
+{148235}{148297}- Au total ?|- Moins de 50 000 $.
+{148322}{148345}Où ?
+{148362}{148440}Buffalo. Détroit.|Elisabeth. New York.
+{148465}{148507}Ici, je serai le pauvre Mark,
+{148510}{148580}à qui une jolie fille|a tourné la tête !
+{148585}{148677}Ailleurs, je serai considéré...|comme complice.
+{148707}{148752}Laisse-moi partir.|Tu ignorais...
+{148757}{148825}Quand tu as tout appris,|j'étais partie.
+{148830}{148912}Si je te laisse filer,|ils ont ton vrai nom.
+{148930}{149017}Et quand ils t'arrêteront...
+{149020}{149067}tout sera contre toi.
+{149085}{149190}Pas d'affolement.|Il suffit que Strutt se taise.
+{149195}{149237}Ça nous donnera du temps.
+{149310}{149345}Deux options.
+{149357}{149390}Prendre un avocat...
+{149392}{149420}et un psychanalyste.
+{149422}{149537}Avouer les vols commis|et rendre l'argent.
+{149545}{149595}Tu as une grande chance
+{149597}{149642}d'obtenir le sursis.
+{149700}{149792}Ou alors, nous pouvons|contacter tes victimes.
+{149795}{149870}Tu exprimeras ton repentir...
+{149875}{149955}avec la plus grande sincérité,|et pendant ce temps-là,
+{149960}{150002}je sortirai un chèque.
+{150042}{150080}Je le leur remettrai
+{150085}{150167}en les suppliant|de retirer leur plainte.
+{150182}{150282}Mais si l'une prend l'argent|sans retirer la plainte, c'est fichu.
+{150285}{150382}Alors, c'est le tribunal|et une condamnation probable.
+{150435}{150485}Avec un peu de chance,|on s'en tirera.
+{150525}{150557}Réfléchis.
+{150592}{150645}Tâche de dormir.|Tu vas à la chasse.
+{150650}{150692}Tu n'y penses pas ?
+{150712}{150750}Bien sûr que si.
+{150765}{150817}Strutt ne doit pas te voir.
+{150822}{150872}Lil serait trop contente
+{150877}{150912}si tu lâchais prise.
+{150925}{151005}Cette nuit, Marnie,|la porte restera ouverte.
+{155867}{155992}Donnez-moi un fusil.|Mon cheval est blessé.
+{156000}{156042}Vous voulez abattre votre cheval ?
+{156120}{156220}Je ne peux pas vous donner un fusil.|Mon mari n'est pas là.
+{156260}{156290}Vous êtes folle ?
+{156397}{156460}Cette femme me demande|de lui donner un fusil.
+{156465}{156530}Dites-lui de me le donner.|Forio est blessé.
+{156550}{156592}J'appelle un vétérinaire.
+{156597}{156632}Il ne pourra rien.
+{156635}{156690}On n'a pas le téléphone.
+{156695}{156782}Si le cheval est blessé,|je peux lui prêter un pistolet.
+{156792}{156842}Je vous en prie, il souffre.
+{156845}{156877}Allez le chercher.
+{156892}{156950}Je vais le faire.|Attendez ici.
+{156955}{157015}Etes-vous encore|d'humeur à tuer ?
+{157077}{157107}Marnie, je vous en prie...
+{157112}{157152}Laissez-moi passer.
+{157320}{157350}Si vous refusez
+{157355}{157427}que je le fasse,|je vais chercher un homme.
+{157837}{157882}Voilà.
+{158097}{158215}Vous voyez, M. Strutt,|combien toute action intentée...
+{158220}{158290}serait désastreuse|pour nous tous.
+{158320}{158420}Pour moi, pour une malade mentale...
+{158425}{158442}et pour vous.
+{158462}{158567}Vous avez beau jeu de dire ça.|Attendez d'avoir été escroqué.
+{160832}{160867}Excusez-moi.
+{160960}{160997}Lil, qu'y a-t-il ?
+{161110}{161155}Je raccroche.
+{161175}{161262}Il y a eu un accident à la chasse.
+{161265}{161330}Nous poursuivrons|cette conversation demain.
+{161335}{161362}Je dois partir.
+{163547}{163587}Je vais te ramener à la maison.
+{163930}{163960}Tu n'en peux plus.
+{163965}{163985}Ne t'affole pas.
+{164085}{164132}J'ai parlé à Strutt.
+{164135}{164187}Je crois pouvoir le persuader.
+{164400}{164450}Je vais ranger ça.
+{165095}{165145}Allons, tu veux cet argent.
+{165150}{165217}Sinon, tu n'aurais pas pris|mes clés.
+{165220}{165292}Prends l'argent maintenant.|Prends-le !
+{165432}{165537}Ce qui est à moi est à toi.|Tu ne le voles pas.
+{165560}{165625}Tu veux l'argent ?|Prends-le, je te dis !
+{166122}{166157}Nous allons à Baltimore
+{166160}{166190}voir ta mère.
+{166797}{166870}Je savais que tu voulais t'enfuir.
+{166877}{166960}J'ai vu que la clé du tiroir|avait disparu.
+{166995}{167085}Si tu racontes tout à ma mère,|je te tuerai.
+{167132}{167227}Au sujet des vols ?|Je ne lui dirai rien.
+{167260}{167302}C'est elle qui va parler.
+{168120}{168145}Ne crains rien, Marnie.
+{168185}{168247}Excusez-nous de faire irruption.
+{168262}{168322}Vous savez que Marnie|a peur de l'orage.
+{168335}{168392}Marnie, ne fais pas l'enfant !
+{168422}{168450}Qui êtes-vous ?
+{168457}{168490}M. Pendleton ?
+{168495}{168542}Non. Qui est M. Pendleton ?
+{168547}{168607}Qu'est-ce que vous voulez|à ma Marnie ?
+{168615}{168675}Je suis Mark Rutland, son mari.
+{168687}{168722}Marnie est malade.
+{168725}{168800}Je suppose que ça date|de votre accident.
+{168822}{168865}Car vous appelez ça ainsi ?
+{168882}{168937}Qu'est-ce que vous racontez ?
+{168942}{169027}Vous débarquez chez moi|pour me parler de mon accident ?
+{169067}{169130}Vous n'êtes pas marié avec Marnie.
+{169172}{169212}Votre fille a besoin d'aide.
+{169217}{169312}Dites-lui la vérité.|Que s'est-il passé cette nuit-là ?
+{169325}{169380}Il faut qu'elle se le rappelle.
+{169390}{169417}Vous devez l'aider.
+{169427}{169485}Vous êtes complètement fou !
+{169507}{169575}Alors, je le lui dirai, moi !
+{169610}{169695}Vous ne savez pas tout.
+{169700}{169742}Je suis seule à savoir.
+{169790}{169882}Vous n'ignorez pas|que votre fille
+{169900}{169942}ne supporte pas
+{169947}{169992}d'être approchée|par un homme.
+{170017}{170050}Vous savez pourquoi.
+{170070}{170145}C'est à vous de l'aider|à le comprendre.
+{170167}{170290}Elle a de la chance|d'être comme ça !
+{170320}{170362}Très intéressant !
+{170385}{170435}Mais j'ai fait faire une enquête.
+{170440}{170495}J'ai lu les comptes rendus...
+{170505}{170552}de votre procès pour meurtre.
+{170565}{170660}Il en ressort que vous viviez de|votre commerce avec les hommes.
+{170685}{170765}C'est l'un de vos clients|que vous avez tué.
+{170795}{170835}Mon Dieu !
+{170855}{170967}Par une nuit d'orage ? C'est pour cela|que Marnie en a si peur ?
+{170975}{171077}Il y avait des éclairs ?|Votre fille était terrifiée ?
+{171090}{171127}En plus du reste ?
+{171135}{171182}Sortez d'ici !
+{171277}{171390}Je ne veux plus d'un|de ces sales hommes chez moi !
+{171455}{171480}Sortez !
+{171610}{171632}Laissez-la !
+{171647}{171722}Vous m'entendez ?|Laissez ma maman !
+{171732}{171775}Vous lui faites mal !
+{171795}{171825}Qui suis-je, Marnie ?
+{171832}{171877}Pourquoi lui voudrais-je du mal ?
+{171882}{171945}Vous êtes un de ces hommes...
+{171995}{172042}en uniforme blanc !
+{172047}{172075}Tais-toi !
+{172080}{172127}Non. Souviens-toi !
+{172152}{172187}Raconte-nous tout.
+{172205}{172235}Les uniformes blancs.
+{172440}{172482}Et ces coups frappés ?
+{172495}{172540}Pourquoi te font-ils pleurer ?
+{172552}{172622}Ils veulent entrer.
+{172645}{172695}Les hommes en blanc.
+{172735}{172797}Maman vient me sortir du lit.
+{172835}{172900}Je ne veux pas.
+{173422}{173475}Lève-toi, Marnie.
+{173510}{173545}C'est bien.
+{173855}{173910}Rendors-toi, mon chaton.
+{174302}{174385}Tu ne vas pas pleurer|pour un petit orage.
+{174510}{174537}Ensuite, Marnie ?
+{174550}{174675}Il s'approche de moi.
+{174735}{174827}Je ne l'aime pas.|Il sent mauvais.
+{174840}{174937}T'auras un matelot pour te protéger.|Ne pleure pas !
+{174947}{174987}Je veux ma maman !
+{175047}{175120}Lâchez-moi ! Maman !
+{175202}{175255}Ne touche pas à ma gosse !
+{175260}{175302}Qu'est-ce qui te prend ?
+{175497}{175530}Fais-le partir !
+{175592}{175670}J'veux pas qu'il m'embrasse.|Fais-le partir !
+{175802}{175875}Qu'est-ce qu'elles ont mes mains ?
+{175932}{175985}Que se passe-t-il, Marnie ?
+{175990}{176032}Il bat ma maman.
+{176055}{176120}Qu'est-ce qui te prend ?|T'es saoule ?
+{176132}{176155}Tu crois
+{176160}{176202}que je vais me laisser faire ?
+{176380}{176425}Ma jambe !
+{176450}{176475}Elle est blessée ?
+{176485}{176527}Comment cela ?
+{176530}{176587}Il est tombé sur elle.
+{176600}{176665}Elle a si mal !
+{176692}{176750}Marnie, au secours !
+{176845}{176885}Il faut que je l'aide.
+{177115}{177145}Je le frappe !
+{177180}{177270}Je le frappe avec le tisonnier.
+{177472}{177495}Voilà.
+{177995}{178067}C'est fini, ma chérie.|Tout ira bien, maintenant.
+{178702}{178775}J'ai cru, quand elle|a oublié cette nuit-là
+{178780}{178832}que Dieu m'avait pardonnée,
+{178847}{178920}qu'une chance m'était donnée...
+{178930}{178972}de réparer...
+{179005}{179052}de me rattraper.
+{179070}{179115}Je suis désolé, Mme Edgar.
+{179202}{179295}Ta mère a dit qu'elle l'avait tué.|Légitime défense.
+{179310}{179390}J'étais si mal en point|qu'ils l'ont cru.
+{179397}{179460}Personne n'a jamais su|la vérité.
+{179555}{179620}Même quand on a voulu|te séparer de moi.
+{179722}{179842}Alors, tu m'aimais !|Tu m'aimais !
+{179905}{180002}Tu es la seule personne|que j'aie jamais aimée.
+{180175}{180252}J'étais si jeune, Marnie.
+{180285}{180357}Et si dénuée de tout.
+{180490}{180542}Tu sais de quelle façon j't'ai eue, Marnie ?
+{180670}{180732}J'avais un copain.
+{180735}{180795}Billy.
+{180797}{180905}Et je voulais son|pull de basket.
+{180932}{181000}J'avais 15 ans.
+{181032}{181102}et Billy a dit, que si je le laissais faire,
+{181107}{181172}je pourrai avoir le pull.
+{181202}{181252}Alors je l'ai laissé faire.
+{181342}{181440}Ensuite, quand je lui ai dit que j'étais enceinte,|il a filé.
+{181522}{181597}J'ai toujours ce vieux pull.
+{181645}{181690}Et je t'ai toi, Marnie.
+{181767}{181880}Après l'accident,|on m'a proposé
+{181885}{181952}de te faire adopter.
+{181957}{182012}J'ai refusé.
+{182017}{182062}Je voulais te garder.
+{182067}{182150}J'ai promis à Dieu,|s'il me laissait te garder
+{182150}{182237}et si tu oubliais,
+{182242}{182327}que je ferais de toi|une fille différente de moi !
+{182332}{182382}Convenable.
+{182387}{182457}Convenable ?
+{182460}{182525}Oh, Maman !
+{182570}{182627}Ton ambition s'est réalisée.
+{182632}{182715}Je suis convenable !
+{182747}{182882}Je triche, je vole,|je mens...
+{182907}{182957}mais je suis convenable !
+{183002}{183122}Marnie, il est temps|d'avoir un peu pitié de toi-même !
+{183127}{183290}Marnie, quand un enfant,|quel que soit son âge, n'est pas aimé,
+{183295}{183377}il prend ce qu'il trouve,|par n'importe quel moyen.
+{183382}{183457}C'est facile à comprendre.
+{183785}{183872}Relève-toi.|Tu me fais mal à la jambe.
+{184512}{184565}Que vais-je faire ?
+{184570}{184647}Que va-t-il arriver ?
+{184650}{184712}Qu'est-ce que tu désires ?
+{184745}{184847}Que tout soit éclairci, j'imagine.
+{184925}{184992}Vais-je aller en prison ?
+{185010}{185100}Pas après leur avoir parlé.
+{185482}{185627}J'emmène Marnie.|Elle est épuisée.
+{185657}{185707}Au revoir, Maman.
+{185752}{185802}Au revoir.
+{185945}{185992}Au revoir, mon chaton !
+{186387}{186497}Je ne veux pas aller en prison.|Je veux rester avec toi.
+{186500}{186562}C'est bien vrai, chérie ?

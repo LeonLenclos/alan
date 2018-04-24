@@ -1,0 +1,573 @@
+{34}{110}je voulais te connaître, voir qui tu étais.
+{120}{189}Je vois que tu es gentille. C'est tout.
+{271}{357}- Vous n'allez pas me faire de mal ? | - Je ne te ferai aucun mal.
+{359}{411}Il n'y a pas de mal ici.
+{450}{536}Il n'y a pas de colère entre nous, rien. | Seulement la quête de la vérité.
+{600}{695}M'as-tu jugé, m'en as-tu voulu, | quand tu m'as pris en train de fumer ?
+{724}{749}Non.
+{789}{879}Mais tes parents t'ont jugée. | Ils t'en ont beaucoup voulu, non ?
+{889}{923}Si.
+{931}{985}Ils t'ont punie pour leurs péchés.
+{1012}{1046}Qu'est-ce qu'ils ont fait ?
+{1101}{1192}Mon père... | Ils ont simplement beaucoup crié et...
+{1219}{1250}ma mère a pleuré
+{1252}{1332}et mon père m'a interdit | de conduire la Cherokee.
+{1334}{1426}Je dirais qu'ils t'ont punie | pour leurs péchés et cela t'a blessée,
+{1428}{1474}à juste titre.
+{1498}{1570}Mais le professeur Fiable | a un petit conseil à te donner.
+{1588}{1644}Ne les condamne pas. Ne les juge pas.
+{1646}{1715}Pardonne-leur | car ils ne savent pas ce qu'ils font.
+{1779}{1829}Pourquoi haïssez-vous mon père ?
+{1831}{1920}Je ne le hais pas du tout. | Oh non. Je prie pour lui.
+{1932}{1971}Je suis venu l'aider.
+{2010}{2059}Nous faisons tous des erreurs.
+{2072}{2135}Toi comme moi. | Au moins nous tentons de l'admettre.
+{2144}{2175}N'est-ce pas ?
+{2186}{2214}Oui.
+{2228}{2271}Mais pas ton père.
+{2300}{2393}Tout homme porte autour de la tête | un cercle d'enfer, comme un halo.
+{2401}{2452}Ton père aussi. Tout homme
+{2462}{2560}doit traverser l'enfer | pour atteindre son paradis.
+{2570}{2612}Tu sais ce qu'est le paradis ?
+{2633}{2671}- Non. | - Le salut.
+{2711}{2757}Ton père n'est pas heureux.
+{2759}{2800}Ta mère n'est pas heureuse.
+{2807}{2882}Et tu sais quoi ? Tu n'es pas heureuse.
+{2920}{2975}- L'es-tu ? | - Non.
+{3092}{3155}Tu as pensé à moi hier soir, non ?
+{3272}{3305}Oui.
+{3318}{3347}Je sais.
+{3413}{3489}Je me dis | que j'ai peut-être trouvé un compagnon
+{3521}{3586}pour la longue marche vers la lumière.
+{3667}{3725}Ça t'ennuierait | que je te prenne dans mes bras ?
+{4053}{4080}Tout va bien.
+{4132}{4195}Non, c'est d'accord.
+{4197}{4228}Bon.
+{6328}{6423}Où diable étiez-vous ? | Il s'en est pris à ma fille au cours.
+{6425}{6507}Vous m'avez dit de le guetter la nuit. | Je le fais. Qu'est-ce qui s'est passé ?
+{6509}{6601}Ma femme a trouvé de la marihuana | dans un des manuels scolaires de Dani.
+{6603}{6667}Nous ignorons | si Cady la lui a donnée ou non.
+{6669}{6720}Elle a peur, elle ne veut pas en parler.
+{6722}{6779}Mais ça suffit. Il faut que ça s'arrête !
+{6781}{6846}- Vous avez appelé les flics ? | - Non.
+{6848}{6923}Qu'avez-vous dit d'eux ? | "Lents, incrédules, même pitoyables".
+{6929}{7006}Non, tout va bien. Un instant.
+{7083}{7178}Je veux engager ces trois types, | vous savez, pour l'envoyer à l'hosto.
+{7180}{7249}Le plus tôt sera le mieux.
+{7254}{7301}Trois hommes, ça fera 1000 dollars.
+{7303}{7372}C'est pas donné | mais il en faut au moins trois.
+{7374}{7415}Mieux vaut trop que pas assez.
+{7417}{7467}Vous aurez l'argent demain matin.
+{7469}{7530}On programmera ça demain soir.
+{7563}{7612}Vous ne le regretterez pas.
+{7677}{7704}Très bien.
+{8017}{8069}Vous voyez ces jeunes ?
+{8075}{8112}Ils n'ont pas l'air très heureux.
+{8114}{8214}Ils se consacrent à leur profession, | à leurs ambitions, pas les uns aux autres.
+{8216}{8258}Taisez-vous et écoutez-moi.
+{8302}{8342}Si vous ne laissez pas...
+{8349}{8445}ma famille tranquille | et si vous ne partez pas d'ici
+{8456}{8530}vous souffrirez plus | que dans vos rêves les plus terribles.
+{8578}{8626}- Vous pouvez répéter ? | - J'ai dit,
+{8628}{8680}si vous ne partez pas d'ici,
+{8685}{8757}vous souffrirez plus | que dans vos rêves les plus terribles.
+{8759}{8795}- C'est une menace ? | - Oui.
+{8797}{8844}Vous pouvez en être sûr.
+{8846}{8888}J'ai envisagé de m'installer
+{8890}{8960}là où m'on apprécierait davantage, | peut-être en Californie.
+{8962}{9029}Je pourrais enseigner | la préparation aux séismes.
+{9044}{9128}Mais tout d'un coup j'ai réalisé, | j'adore le New Essex.
+{9154}{9239}Où pourrais-je comme ici discuter | sans cérémonie avec un vieux collègue ?
+{9241}{9319}Nous ne sommes pas collègues. | Vous comprenez ?
+{9322}{9386}- Vous croyez valoir mieux que moi. | - Non.
+{9388}{9428}La question n'est pas là.
+{9430}{9520}Bien. Si vous ne valez pas mieux, | j'ai le droit d'avoir ce que vous avez.
+{9531}{9599}- Qu'est-ce que j'ai ? | - Une femme, une fille.
+{9659}{9728}Je vais vous apprendre | ce que veut dire s'engager.
+{9745}{9841}Il y a quatorze ans, j'ai dû m'engager | envers une cellule de six mètres carrés,
+{9843}{9918}et maintenant vous allez être obligé | de vous engager.
+{9920}{9973}C'est comme si j'étais venu vous sauver.
+{10052}{10076}Très bien.
+{10116}{10160}Regardez dans la Bible,
+{10162}{10219}entre le livre d'Esther et les Psaumes.
+{10472}{10502}Ça va ?
+{10534}{10583}- Tout va bien ? | - Oui.
+{10671}{10728}Ça ne marchera pas.
+{10730}{10831}- Quoi ? | - Nous enfermer, nous cacher du monde.
+{10833}{10878}N'exagère pas.
+{10880}{10974}- M'empêcher d'aller à l'école. | - Tu y retournes demain.
+{10976}{11036}Et habille-toi. Tu n'es plus une gamine.
+{11038}{11133}Pourquoi j'y retourne demain ? | Qu'est-ce que tu vas faire ?
+{11135}{11187}Ça ne te regarde pas.
+{11298}{11367}Il ne s'est pas imposé à moi, tu sais.
+{11380}{11438}Je sais que tu aimerais le croire.
+{11455}{11507}Mais je pense qu'il...
+{11525}{11597}Il essayait simplement | d'entrer en contact avec moi.
+{11599}{11642}- Tu vois ? | - Maintenant,
+{11648}{11697}je veux que tu m'écoutes.
+{11710}{11754}Non. Tu comprends ?
+{11795}{11885}Il n'y aura jamais aucun contact entre toi
+{11898}{11931}et Max Cady.
+{11969}{12006}Tu comprends ça ?
+{12245}{12280}Il t'a touchée ?
+{12344}{12390}Qu'est-ce qui te fait rire ?
+{12400}{12434}Pourquoi tu souris ?
+{12436}{12499}Je te pose une question. Il t'a touchée ?
+{12524}{12570}Arrête de sourire !
+{12572}{12622}Je te demande s'il t'a touchée ?
+{12790}{12856}Attends. Je suis désolé.
+{12918}{12961}Attends mon chou. Désolé.
+{12963}{13007}Sors d'ici !
+{13300}{13365}Tu es UN VIP SUR TERRE | Je suis UN VIP AU CIEL
+{13367}{13422}AMÉRICAIN DE NAISSANCE | SUDISTE GRÂCE A DIEU !
+{14626}{14667}Viens-y.
+{15411}{15445}Maître ?
+{15562}{15597}C'est vous ?
+{15687}{15759}Sortez, où que vous soyez.
+{16103}{16151}Je ne suis pas une sale racaille blanche.
+{16153}{16207}Je vaux mieux que vous tous.
+{16272}{16323}J'apprends plus vite.
+{16349}{16396}Je suis meilleur lecteur.
+{16398}{16516}Meilleur penseur et meilleur philosophe.
+{16518}{16575}Et je vous survivrai.
+{16577}{16680}Vous croyez m'abattre | avec quelques coups à l'estomac ?
+{16682}{16746}Il en faudra beaucoup plus
+{16748}{16804}pour prouver | que vous valez mieux que moi !
+{16856}{16957}"Je suis comme Dieu, | et Dieu est comme moi.
+{16959}{17024}"Je suis aussi grand que Dieu.
+{17026}{17098}"Il est aussi petit que moi.
+{17100}{17210}"Il ne peut être au-dessus de moi | ni moi au-dessous de lui".
+{17250}{17336}Silesius, XVIIe siècle.
+{17620}{17666}Etes-vous là ?
+{18088}{18134}Je me demande si vous êtes là.
+{18355}{18393}Et merde !
+{18427}{18493}Si vous y êtes, qu'est-ce que ça change ?
+{18520}{18551}Enfoiré !
+{18799}{18868}- M.Kersek sur la une. | - Bon. Je le prends.
+{18904}{18954}Tu as l'air fatigué. Tu l'as écrit ?
+{18956}{19024}Non, il faut qu'on en parle. | Attends, je réponds.
+{19031}{19085}Je suis vraiment désolé pour hier soir.
+{19087}{19149}Ce fils de pute survivrait | à une attaque nucléaire.
+{19151}{19180}Ne quittez pas.
+{19182}{19240}Je ne veux pas le faire. Je l'ai trompé
+{19242}{19298}et j'ai eu le retour de bâton.
+{19300}{19401}Vous avez été idiot. | Je ne demande pas la lune. C'est ma fille !
+{19403}{19490}Non, c'est du parjure. | C'est des conneries et je refuse.
+{19492}{19545}- D'accord ? | - Je serai dans mon bureau.
+{19547}{19591}Qui est le meilleur avocat d'assises ?
+{19593}{19650}Lee Heller. Il faut qu'on parle.
+{19652}{19719}Si ça se sait que Cady | a mis la pâtée à ces trois types
+{19721}{19765}ça sera dur d'en trouver d'autres.
+{19767}{19823}Je n'en veux pas d'autres. Vous entendez ?
+{19825}{19926}M.Heller, c'est Sam Bowden, | de l'étude Broadbent et Denmeyer.
+{19928}{20029}Tom dit grand bien de vous. Vous êtes | le meilleur et j'ai besoin de vous.
+{20031}{20115}On s'est gelé les fesses ensemble | en Corée. Que puis-je pour vous ?
+{20117}{20227}Une demande d'ordonnance d'interdiction | est déposée mais il y a des complications.
+{20229}{20312}Je sais que le délai est court | mais j'ai besoin d'une injonction.
+{20314}{20408}Un ancien détenu, Max Cady, | harcèle ma famille.
+{20410}{20490}Désolé, je dois interrompre | cette conversation.
+{20492}{20597}- Puis-je vous rappeler ? | - Hélas, j'ai un conflit d'intérêt.
+{20599}{20640}- Comment ça ? | - Eh bien,
+{20642}{20712}M.Cady m'a engagé hier.
+{20714}{20787}- Quoi ? | - En fait, la liste des messages indique
+{20789}{20865}qu'il a appelé ce matin | et je suis sûr qu'il va donner suite...
+{20867}{20944}Mais attendez. C'est un psychotique.
+{20946}{21032}On se verra donc à l'audience après tout.
+{21072}{21171}- Vous pouvez répéter ? | - J'ai dit "Si vous ne laissez pas...
+{21181}{21281}"ma famille tranquille, | et si vous ne partez pas d'ici,
+{21283}{21359}"vous souffrirez plus | que dans vos rêves les plus terribles".
+{21374}{21487}- C'est une menace ? | - Vous pouvez en être sûr.
+{21489}{21585}Un coup d'œil à mon client | suffit pour savoir
+{21609}{21741}que M.Bowden a mis à exécution | sa menace haineuse et lâche.
+{21757}{21854}Comme Dieu s'est levé au jour du jugement | pour sauver les faibles,
+{21859}{21927}j'espère et je prie que vous ferez de même.
+{21929}{21967}Votre Honneur,
+{21985}{22064}M.Cady n'aurait pas enregistré | subrepticement notre rencontre
+{22066}{22113}s'il n'avait pas su qu'il...
+{22155}{22253}Cette Cour ne pardonne
+{22270}{22364}ni la vendetta, ni l'autodéfense.
+{22382}{22497}Je citerai notre grand éducateur noir, | M.Booker T.Washington.
+{22516}{22616}"Je ne permettrai à aucun homme | de m'entraîner assez bas
+{22648}{22707}"pour que je le haïsse".
+{22711}{22734}Oui.
+{22753}{22816}J'accorde l'ordonnance d'interdiction,
+{22818}{22904}non pas pour reconnaître | la malveillance qui existe entre vous,
+{22906}{23027}mais dans l'intérêt | de l'harmonie chrétienne.
+{23064}{23138}Ne vous approchez pas | à moins d'un demi mile
+{23140}{23251}de M.Maximilian Cady
+{23272}{23391}avant que l'ordonnance ait été levée | par la Cour.
+{23401}{23517}Le roi Salomon n'aurait pas | jugé plus sagement Votre Honneur.
+{23535}{23645}La tactique philistine de M.Bowden | est si outrageante
+{23653}{23741}que j'ai demandé à l'Ordre des Avocats | de le rayer du Barreau
+{23753}{23813}pour turpitude morale.
+{23819}{23892}Si vous voulez bien m'excuser, mon client
+{23894}{23963}doit retourner à l'hôpital
+{24025}{24131}pour avoir les résultats | des multiples radiographies.
+{24191}{24227}Je veux une arme.
+{24229}{24289}- Il me faut une arme. J'en veux une. | - Une arme ?
+{24291}{24327}Oui, il m'en faut une.
+{24332}{24418}- Vous connaissez les armes ? | - Je suis contre. Chez moi.
+{24420}{24488}Je vous en trouverai une. De quel type ? | Calmez-vous.
+{24495}{24574}- Quelque chose de simple à manier. | - Voyons ce qu'il vous faut.
+{24576}{24642}Quarante-cinq... Montrez-moi vos mains.
+{24692}{24750}- Un .38 spécial à canon court. | - Très bien.
+{24752}{24800}Je vous apprendrai à vous en servir.
+{24802}{24855}- Génial. | - Première leçon,
+{24858}{24915}n'essayez pas de tirer sur un homme.
+{24917}{24966}- Bien. | - L'arme prolonge votre poing.
+{24968}{25020}Tendez le poing et frappez.
+{25022}{25061}Boum ! Très bien.
+{25063}{25126}Ensuite on tirera sur des arbres, d'accord ?
+{25128}{25169}Ce sera génial. Bien.
+{25231}{25274}Qu'est-ce qu'il y a ? Quoi ?
+{25276}{25314}- Eh bien... | - Oui ?
+{25316}{25377}Je vous donne une arme. | Vous la pointez sur Cady,
+{25380}{25477}et vous comprenez que tirer sur un homme | est différent de tirer sur un arbre.
+{25479}{25527}En un clin d'œil, Cady a l'arme.
+{25529}{25627}Vous allez m'apprendre. | Je saurai m'en servir. Il ne la prendra pas.
+{25634}{25702}Dans le meilleur des cas, vous le tuez.
+{25730}{25805}Entre quinze ans et perpétuité. | Vous en êtes conscient ?
+{25948}{26015}Bordel ! Les dés sont vraiment pipés !
+{26036}{26118}La justice me considère | comme plus dangereux que Max Cady !
+{26120}{26224}Un gros connard de procureur a foutu | la merde au comité d'éthique de l'Ordre.
+{26238}{26310}Ils tiennent une séance d'urgence | sur l'agression à Raleigh.
+{26312}{26354}Comment ils sont remonté à vous ?
+{26356}{26460}Je suis allé prévenir Cady. | Ça me semblait être la chose à faire.
+{26462}{26541}J'espérais lui faire peur. | Il a tout enregistré.
+{26598}{26645}Sacrés connards.
+{26726}{26783}Cette audience est vraiment importante ?
+{26824}{26931}Uniquement si je veux continuer | à pratiquer le droit.
+{26933}{26985}Cady n'y sera pas, si ?
+{27002}{27052}M.Cady est au-delà de tout reproche.
+{27056}{27114}- Mais on vous a convoqué. | - Oui.
+{27126}{27199}- Quand a lieu l'audience ? | - Jeudi matin à 9 heures.
+{27208}{27273}La torture va durer deux jours.
+{27299}{27353}Vous prenez l'avion la veille au soir ?
+{27356}{27384}C'est ça.
+{27405}{27497}Cady est un opportuniste. | S'il sait que vous serez absent deux jours,
+{27499}{27574}ce sera aussi tentant pour lui | que de la merde pour une mouche.
+{27580}{27623}Si Cady pénètre chez vous
+{27625}{27662}on peut le tuer.
+{27664}{27693}Avec juste raison.
+{27740}{27825}Mais il ne se montrera pas sans être sûr | de votre absence.
+{29473}{29538}- Bon voyage. | - Oui. Au revoir.
+{29540}{29592}- Appelle ce soir, d'accord ? | - Très bien.
+{29848}{29946}- J'ai raté le vol de 21 heures 20 pour Raleigh ? | - Oui. Il y en a un autre à 22 heures 20.
+{29949}{30045}Non. J'ai des documents importants | pour Samuel Bowden.
+{30058}{30094}Il est parti à 21 heures 20 ?
+{30108}{30168}Je n'ai pas le droit de vous le dire.
+{30170}{30211}C'est juste...
+{30219}{30274}Je pourrais les lui envoyer ce soir,
+{30276}{30367}mais il risque de revenir demain | aussi bien, et je...
+{30393}{30431}Vous voyez, je...
+{30433}{30515}Ma femme et moi on a eu un accident | et c'est notre avocat.
+{30517}{30615}Si je n'arrive pas à le joindre, | on risque de perdre.
+{30617}{30682}On a déjà perdu notre petite Dani.
+{30718}{30744}Peut-on...
+{30784}{30882}Peut-on savoir s'il a pris ce vol | et quand il rentre ?
+{30884}{30929}Ça nous rendrait vraiment service.
+{31178}{31239}Il rentre après-demain.
+{31241}{31275}Dieu vous bénisse.
+{31658}{31690}Rentre.
+{31749}{31779}Baisse-toi.
+{31941}{31977}Donne-moi une cigarette.
+{31997}{32080}Doucement. Tu fumes deux fois plus | que moi depuis que tu as repris.
+{32082}{32139}Compte combien je t'en dois.
+{32187}{32249}- Ça a marché à l'aéroport ? | - On a joué le jeu
+{32251}{32326}mais on ne sait pas s'il nous a vus | ou s'il était là.
+{32346}{32390}Le piége est en place, on verra.
+{32408}{32443}Et si on ne veut pas voir ?
+{32445}{32479}Quoi ?
+{32482}{32532}Il a peut-être empoisonné le chien.
+{32534}{32583}Surveillez les fenêtres.
+{32585}{32646}Tu n'as pas le droit de te lever, | tu as oublié ?
+{32815}{32875}- Cady ne l'a pas suivie ? | - Il faut la connaître.
+{32877}{32965}Si elle trouve une punaise | dans sa chambre, elle la porte dehors.
+{32972}{33026}Elle est incapable de tuer quoi que ce soit.
+{33028}{33075}Même une punaise de six pieds ?
+{33138}{33172}Oh mon Dieu !
+{33380}{33410}Qu'est-ce que c'est ?
+{33435}{33514}Une ligne monofilament. | Ça vient du matériel de pêche de Sam.
+{33521}{33583}Je la place en travers des fenêtres | et des portes
+{33585}{33635}et je l'attache au nounours de Dani.
+{33637}{33757}Si l'ours bouge d'un quart de pouce, | c'est que le fantôme se glisse à l'intérieur.
+{34480}{34519}Tu lis quoi ?
+{34597}{34629}LA SAINTE BIBLE
+{34631}{34687}- Pourquoi ? Kersek est parti ? | - Non.
+{34707}{34750}Mais Cady a dit...
+{34754}{34793}Tu veux des réponses.
+{34832}{34868}Moi aussi.
+{34917}{34979}J'aimerais savoir à quel point on est forts
+{35003}{35034}ou faibles.
+{35096}{35181}Mais la seule façon de le découvrir c'est
+{35186}{35225}d'en passer par là.
+{35315}{35406}Cady a dit de lire ce qui se trouve | entre le livre d'Esther et les Psaumes.
+{35428}{35467}Qu'est-ce que c'est ?
+{35479}{35512}Le livre de Job.
+{35587}{35656}Job était un homme de bien. | Il croyait en Dieu
+{35683}{35729}et Dieu l'a mis à l'épreuve.
+{35745}{35797}Il lui a pris tout ce qu'il avait,
+{35838}{35876}même ses enfants.
+{36272}{36336}C'est horrible ce plan. Barbare.
+{36348}{36418}Ils sont fous. | Mon père est devenu un espèce de...
+{36426}{36455}Je ne sais pas quoi.
+{36457}{36486}Barbare.
+{36568}{36672}Obéis à ton père. Ecoute-les. | Que peux-tu faire d'autre ?
+{36674}{36722}Partir. On pourrait aller au bateau
+{36724}{36784}et se perdre dans la première crique venue.
+{36908}{36938}Viens.
+{36955}{36991}Ne reste pas dehors.
+{37161}{37223}Vous voulez savoir ce qui me trouble ?
+{37239}{37277}Le fait de tuer ce type.
+{37300}{37346}De prendre la vie d'un homme.
+{37393}{37449}Je ne sais pas si je pourrai le supporter.
+{37465}{37500}Vous serez peut-être obligé.
+{37513}{37579}- Souvenez-vous du plan. | - Je le connais.
+{37584}{37644}C'est de la préméditation bordel.
+{37658}{37734}Ça fait de moi un complice, un instigateur.
+{37752}{37795}Recours à une force excessive.
+{37797}{37861}La seule chose excessive | qu'on puisse faire à Cady
+{37863}{37924}serait de l'éventrer et de manger son foie.
+{37928}{37962}Ça serait excessif.
+{37964}{38015}Bon Dieu, je suis sérieux.
+{38023}{38073}Non, vous avez peur.
+{38081}{38114}Mais ce n'est pas grave.
+{38126}{38174}Je veux que vous savouriez cette peur.
+{38189}{38239}Le Sud s'est construit dans la peur,
+{38241}{38299}peur des indiens, des esclaves,
+{38301}{38344}peur de ce putain de Nord.
+{38367}{38435}Savourer la peur, | c'est une tradition dans le Sud.
+{38869}{38904}Qu'est-ce qu'il y a ?
+{38920}{38961}Ne regarde pas !
+{38982}{39023}Elle me rend nerveux.
+{39056}{39098}Que fait-elle d'habitude,
+{39100}{39154}quand Sam n'est pas là | pour la raccompagner ?
+{39156}{39200}Elle passe la nuit ici.
+{39202}{39246}Alors qu'elle le fasse.
+{42999}{43035}Quoi ?
+{43047}{43088}Je sais comment le chien est mort.
+{43123}{43166}- Tu rêves ? | - Non !
+{43168}{43251}Je viens d'avoir l'impression bizarre | qu'il était déjà dans la maison.
+{43615}{43657}Vous ne dormez pas Mlle Graciela ?
+{43668}{43700}Il fait chaud.
+{43738}{43829}C'est ce temps lourd qui nous donne soif.
+{43871}{43913}Pardon.
+{43934}{43980}Mon père était flic.
+{43998}{44028}Vingt ans.
+{44044}{44106}C'était sa boisson préférée en planque.
+{44570}{44628}J'ai appris ça en prison. Ça vous plaît ?
+{44639}{44682}Sale racaille blanche.
+{44905}{44939}Reste ici.
+{45492}{45549}Retourne dans ta chambre.
+{45551}{45581}Ferme la porte à clé.
+{45746}{45812}- N'y va pas. | - Tout va bien.
+{46491}{46527}Ne regarde pas.
+{46539}{46588}Mon Dieu, Graciela !
+{46666}{46694}Mon Dieu.
+{47327}{47364}C'est la corde du piano.
+{47511}{47567}J'aurai ce fils de pute !
+{47775}{47811}Dis-lui d'arrêter !
+{47863}{47910}Mon Dieu, il est peut-être là, dehors !
+{48315}{48345}ROSES - OEILLETS - BOUQUETS
+{48579}{48624}MIEL - SUREAU - FLEUR D'ORANGER
+{48835}{48883}Où PASSEREZ-VOUS L'ÉTERNITÉ ?
+{48898}{48950}J'ai l'arme de Kersek
+{48952}{49037}et la corde de piano utilisée par Cady | est dans la maison.
+{49039}{49093}Oui, je sais de quoi ça a l'air.
+{49098}{49156}On ne doit pas quitter le lieu du crime.
+{49158}{49213}Vous l'ignorez peut-être lieutenant,
+{49215}{49288}mais il existe une chose | qu'on appelle la force majeure.
+{49290}{49348}C'est un événement imprévisible
+{49351}{49416}qui annule toutes les promesses | et obligations.
+{49418}{49476}Légalement parlant, les paris sont nuls.
+{49486}{49561}Trouvez Max Cady et nous reviendrons.
+{49624}{49679}- Que dit-il ? | - Que nous sommes en fuite.
+{49681}{49741}- Qu'est-ce que ça veut dire ? | - Que nous avons raison.
+{50271}{50315}Cape Fear - PROCHAINE SORTIE
+{50418}{50490}Où est votre vieux corniaud ?
+{51704}{51739}BOUTIQUE - GLACE | BATEAUX A LOUER
+{53873}{53922}Demain je pêcherai.
+{53935}{54032}Ce n'est pas la peine. | J'ai à manger pour une semaine.
+{54235}{54269}Mais ce serait chouette.
+{54307}{54329}Bon.
+{54556}{54608}Ce n'est que la pluie. Un rideau de pluie.
+{54715}{54768}- Qu'est-ce que c'était ? | - Un coup de vent.
+{54807}{54869}- Je vais vérifier l'ancre. | - Attends. Ne sors pas.
+{54871}{54938}Tout va bien. D'accord ?
+{54940}{55030}- On est sur l'eau maintenant. | - Ce n'est qu'un coup de vent.
+{55631}{55679}Graciela a un frère.
+{55688}{55780}Enfin, elle en avait un.
+{55804}{55832}Oh ma chérie.
+{55895}{55953}On va le contacter tout de suite.
+{56032}{56073}On fait du thé.
+{56330}{56381}Je ne t'entends pas. Il y a du vent.
+{57373}{57401}Qu'est-ce qu'il y a ?
+{57412}{57444}On bouge ?
+{57564}{57597}Bonsoir mesdames.
+{57635}{57681}Vous savez que mon mari a une arme ?
+{57683}{57712}Pas celle-là ?
+{57723}{57776}- C'est celle-là ? | - Où il est ?
+{57778}{57841}Il se repose. | La journée a été longue et difficile.
+{57861}{57967}On n'échappe pas à ses démons en partant, | je te l'ai dit Danielle.
+{57993}{58021}Je ne suis pas partie.
+{58044}{58102}- Mes parents m'ont amenée ici. | - Bien sûr.
+{58125}{58155}Où est Sexus ?
+{58174}{58236}- A la maison. | - Dommage.
+{58247}{58316}J'espérais qu'on pourrait le lire ensemble | à haute voix.
+{58366}{58424}Eh bien, j'en...
+{58436}{58496}- ai appris des passages par cœur. | - C'est vrai ?
+{58498}{58539}- Oui. | - Vraiment ?
+{58622}{58659}Je suis très impressionné.
+{58689}{58717}Quel passage ?
+{58771}{58811}Le passage...
+{58843}{58893}vous savez lequel.
+{58925}{59003}- Tu n'as pas fait tes devoirs je crois. | - Si.
+{59027}{59063}Quels passages ?
+{59118}{59148}Les meilleurs ?
+{59160}{59195}Oui. C'était...
+{59197}{59251}- Tu as été sage ? | - Oui.
+{59255}{59302}Je savais que vous me suivriez et...
+{59304}{59350}Tu me connais bien, hein ?
+{59352}{59404}Oui.
+{59416}{59477}Tu vas me connaître encore mieux.
+{59611}{59663}C'est excitant ce que tu me proposes ?
+{59693}{59753}Mettons les choses au clair.
+{59801}{59896}J'ai passé quatorze ans | dans une cellule de six mètres carrés,
+{59898}{59967}entouré de gens | qui étaient moins qu'humains.
+{59998}{60073}A ce moment-là, ma mission était | de devenir plus qu'humain.
+{60113}{60138}Vous voyez ?
+{60177}{60239}Mon papi manipulait des serpents | à l'église.
+{60247}{60280}Mamie buvait de la strychnine.
+{60282}{60354}On peut dire que j'ai été aidé | sur le plan génétique.
+{60567}{60629}Je te pardonne Danielle.
+{60639}{60704}Je sais que ce n'était pas toi, | pas ton moi profond.
+{60706}{60767}Mais je voudrais | que tu attendes dans la cale.
+{60844}{60898}Va dans la cale.
+{60988}{61020}- Arrêtez ! | - Non !
+{61227}{61281}Prête à renaître ?
+{61380}{61477}Quelques minutes seule avec moi | et vous parlerez javanais.
+{63368}{63405}Excusez-moi Mme B.
+{63413}{63451}N'en prenez pas ombrage,
+{63453}{63516}mais dans le plan que j'ai élaboré
+{63525}{63606}il y a bien autre chose | que faire l'amour avec vous.
+{63608}{63657}C'est tellement
+{63676}{63719}banal et ennuyeux.
+{63764}{63813}Ici et maintenant, | nous avons une occasion.
+{63815}{63865}Vous vous demandez "Quelle occasion ?"
+{63867}{63928}Eh bien, ici et maintenant | nous avons l'occasion
+{63930}{64003}de décrire et de dramatiser
+{64072}{64128}la force et la profondeur
+{64158}{64242}de l'amour d'une mère pour sa fille, | si vous voyez ce que je veux dire.
+{64244}{64309}Viens mon bébé chéri. Allons-y.
+{64312}{64377}Sors de là. Viens ici.
+{64386}{64457}Ceci est entre vous et moi. | Laissez-les en dehors de ça.
+{64459}{64554}C'est ma soirée maître. | Ne me faites pas d'ombre.
+{64590}{64611}Arrêtez !
+{64666}{64694}Oui ?
+{64710}{64764}Ecoutez-moi.
+{64844}{64916}Depuis que tout ça a commencé
+{64921}{64970}je n'arrête pas de penser à vous.
+{64972}{65094}J'ai essayé d'imaginer | ce qu'ont dû être pour vous
+{65103}{65157}toutes ces années, enfermé en prison.
+{65159}{65283}J'ai essayé de vous imaginer, | vous et même vos crimes
+{65287}{65375}et ce que vous avez dû ressentir | en les commettant.
+{65391}{65479}Vous voyez, je sais ce qu'est perdre.
+{65481}{65592}Perdre du temps et même des années.
+{65614}{65711}Je sais que ça n'a rien à voir | avec la prison mais
+{65733}{65775}je comprends
+{65786}{65839}et je pourrais partager ça avec vous.
+{65842}{65957}Quoi que vous ayez projeté,
+{65964}{66020}je veux que vous le fassiez avec moi,
+{66057}{66094}pas avec elle,
+{66114}{66144}parce que...
+{66191}{66238}il y a ce lien entre nous.
+{66514}{66562}Qu'en pensez-vous maître ?
+{66694}{66742}Vous avez été très éloquente.
+{66797}{66829}Et courageuse.
+{66843}{66938}Je vous remercie de m'avoir fait part | de vos émotions les plus fortes,
+{66964}{66991}parce que...
+{67131}{67186}je prendrai d'autant plus de plaisir | à tout ça.
+{67428}{67456}Oh mon Dieu !
+{68839}{68919}Le peuple appelle Samuel J.Bowden.
+{69007}{69085}Jurez-vous de dire la vérité | et rien que la vérité ?
+{69087}{69159}- Quelqu'un doit manœuvrer le bateau. | - Avez-vous juré ?
+{69162}{69198}- Je vais le faire. | - Assis.
+{69200}{69274}Ne prends pas ton devoir civique | à la légère. Tu es le jury.
+{69302}{69377}Bon, je jure de dire la vérité. | Que voulez-vous savoir ?
+{69379}{69475}A-t-on établi un rapport d'antécédents | sexuels en relation avec ma défense ?
+{69583}{69607}C'est...
+{69651}{69709}Désolé Votre Honneur. | C'est un point litigieux.
+{69711}{69804}Un enquêteur a bien établi un tel rapport | sur la victime présumée,
+{69806}{69835}exact ?
+{69837}{69923}Je peux poser des questions | tendancieuses. Le témoin est hostile.
+{69925}{70016}Voulez-vous indiquer à la Cour | l'essence de ce rapport ?
+{70018}{70080}Il y a quatorze ans. J'ai oublié.
+{70102}{70163}Comment peut-il répondre | si vous le frappez ?
+{70180}{70263}Parce qu'il se parjure. | Il se souvient foutrement bien.
+{70265}{70333}- Non ? | - Elle couchait avec tout le monde.
+{70335}{70416}Elle avait eu trois amants différents | en un mois.
+{70421}{70501}Au moins trois ! Avez-vous montré | ce rapport au ministère public ?
+{70609}{70717}Je l'ai trouvé quand je me suis représenté | moi-même, six ans après le verdict !
+{70721}{70767}Il était dans le dossier.
+{70769}{70829}En 77 vous l'avez enterré.
+{70831}{70895}Voulez-vous dire pourquoi au jury ?
+{70934}{70991}Voulez-vous dire pourquoi à la Cour ?
+{71048}{71114}Parce qu'il l'avait | sauvagement violée et frappée.
+{71116}{71165}Adressez-vous à moi !
+{71187}{71262}Ses mœurs légères | ne vous donnaient pas le droit de la violer !
+{71264}{71353}Vous vous êtes vanté de deux autres | viols aggravés. Vous êtes dangereux !
+{71355}{71392}Vous étiez mon avocat !
+{71431}{71498}Ce rapport aurait pu | me faire gagner quatorze ans.
+{71500}{71569}- Vous avez sans doute raison. | - Enculé d'hypocrite !
+{71686}{71766}Je suis Virgile et je vous guide | par les portes de l'enfer.
+{71768}{71853}Nous sommes dans le neuvième cercle, | celui des traîtres.
+{71864}{71938}Les traîtres au pays, | à leurs frères humains,
+{71946}{71990}à Dieu !
+{71996}{72098}Vous êtes accusé d'avoir trahi | les principes des trois !
+{72108}{72165}Veuillez citer, selon l'Ordre des Avocats,
+{72167}{72232}le septième principe fondamental | de déontologie.
+{72268}{72323}"L'avocat doit représenter son client..".
+{72325}{72412}"Doit représenter son client avec diligence | dans les limites de la loi".
+{72414}{72481}Et je te déclare coupable
+{72483}{72538}de trahison envers tes frères humains,
+{72540}{72588}de trahison envers ton pays,
+{72590}{72642}d'avoir renié ton serment,
+{72644}{72707}de m'avoir jugé et de m'avoir vendu !
+{72714}{72795}Et grâce au pouvoir dont je suis investi | par le royaume de Dieu
+{72803}{72906}je te condamne | au neuvième cercle de l'enfer !
+{72908}{72974}Tu vas apprendre ce qu'est la perte,
+{72980}{73070}la perte de liberté, la perte d'humanité.
+{73082}{73175}A présent, | toi et moi serons vraiment semblables.
+{73179}{73230}A genoux.
+{73232}{73261}Déshabille-toi !
+{73263}{73304}A genoux tout de suite !
+{73364}{73429}Déshabillez-vous ! Mettez-vous à genoux.
+{73500}{73540}Non !
+{73600}{73680}Allez, déshabille-toi !
+{73684}{73794}Toi Leigh, déshabille-toi. Tout de suite !
+{73838}{73898}Vas-y !
+{73938}{73984}Ce soir, tu apprendras à être une bête,
+{73986}{74051}à vivre et à mourir comme une bête.
+{74138}{74177}Donne-moi la main !
+{74998}{75027}Vas-y !
+{78519}{78592}Tu as oublié l'ordonnance d'interdiction ?
+{78594}{78650}Tu es à bien moins d'un demi mile !
+{78818}{78863}Nous y voilà,
+{78865}{78904}deux avocats,
+{78908}{78943}en plein boulot !
+{79275}{79317}Je vais te tuer !
+{79321}{79391}Tu m'as déjà sacrifié.
+{80487}{80557}"Sur les rives déchaînées du Jourdain
+{80562}{80615}"Oh qui viendra avec moi
+{80631}{80712}"Je suis en route pour la terre promise"
+{83640}{83696}On n'a jamais parlé de tout ça,
+{83705}{83753}pas entre nous du moins.
+{83779}{83825}Par peur, je pense
+{83841}{83916}que le fait de se rappeler son nom | ou ce qu'il avait fait,
+{83925}{83987}ne lui permette d'envahir nos rêves.
+{84010}{84090}Je ne rêve presque plus de lui.
+{84136}{84219}Pourtant rien ne sera jamais plus | comme avant.
+{84236}{84277}Mais ça n'a pas d'importance,
+{84284}{84379}car lors qu'on s'accroche au passé | on meurt un peu chaque jour.
+{84400}{84434}Et quant à moi
+{84451}{84494}je sais que je préfère vivre.

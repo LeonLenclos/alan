@@ -1,0 +1,771 @@
+{6123}{6160}Merci.
+{6788}{6863}Bonjour. Non, j'arrive.
+{6883}{7000}Littéralement. Je viens d'atterrir.|Je ne suis pas encore au terminal.
+{7005}{7045}Qu'y a-t-il ?
+{7142}{7267}Où restiez-vous, espèces de trouducs ?!|On va rater le second vol.
+{7272}{7379}Vous allez me faire perdre mon boulot !|Magnez-vous un peu.
+{7384}{7439}Hé, ça fait 30 dollars.
+{7507}{7587}Tenez, gardez la monnaie.|Allez, les gars.
+{7592}{7644}On y va ?
+{7979}{8034}Bon, je vais l'appeler.
+{8037}{8112}Promis. Dès que j'ai mes bagages.
+{8137}{8244}Non, j'en ai vraiment envie.|Merci.
+{8369}{8409}Et merde.
+{8934}{9024}lci Corky. Voiture 36.|On m'a demandé de rappeler.
+{9197}{9287}Victoria Snelling. M. Pitt est là ?
+{9312}{9357}Oui, j'attends.
+{9957}{10022}Ray, ici Corky. Je viens aux nouvelles.
+{10049}{10099}Je suis à l'aéroport.
+{10137}{10259}Au terminal affaires, je crois.|Je n'étais jamais venue ici.
+{10297}{10339}Non, tout va bien.
+{10344}{10497}Mais cette bagnole a un problème.|J'ai arrangé ça moi-même.
+{10547}{10699}Oui, mais que Gonzalez se bouge un peu|ou c'est moi qui assurerai l'entretien.
+{10867}{10934}Larry, c'est Victoria.
+{10957}{11082}Je suis à l'aéroport, et j'attends|mes bagages. D'où le bruit.
+{11177}{11292}Tu as de bonnes nouvelles concernant|l'actrice que je t'ai envoyée ?
+{11297}{11432}Non, tout baigne. Des musicos|m'ont filé un gros pourboire.
+{11454}{11559}Tu connais le groupe Utensil ?
+{11562}{11717}J'ai ramené 7 bandes,|avec de jeunes actrices sensass.
+{11722}{11887}Non, pas seulement New York. Chicago,|Minneapolis, Seattle, San Francisco.
+{11902}{11979}Toutes inconnues.
+{11984}{12054}Elles sont géniales. Vraiment.
+{12169}{12272}Je les trouve toutes bonnes.|Mais c'est à toi de décider.
+{12277}{12324}Je te les apporte ?
+{12329}{12444}Je passe vite chez moi,|puis je vais directement chez toi.
+{12447}{12497}On regardera ça ensemble.
+{12502}{12619}Je prends un client, puis je rentre.|- Une d'elles te fera sûrement craquer.
+{12624}{12734}Pas de problème, patron.|- Du calme. A tout à l'heure.
+{12737}{12809}Ray, je ne suis plus une môme.
+{12859}{12904}Merde !
+{12987}{13042}Vous cherchez un taxi, madame ?
+{13067}{13152}Oui.|- Mon auto est là.
+{13179}{13254}Vous êtes chauffeur de taxi ?|- Oui.
+{13307}{13349}Pourquoi pas ?
+{13984}{14079}Faites attention.|Je tiens à mes bagages.
+{14084}{14144}Pas de problème, madame.
+{14297}{14377}Pas l'attaché.
+{14452}{14489}Merci.
+{14599}{14669}J'ai besoin de ma jambe.|- Pardon.
+{14717}{14772}Vous y êtes ?|- Oui, merci.
+{15097}{15172}Qu'y a-t-il ?|- Rien.
+{15242}{15337}Où va-t-on ?|- Beverly Hills, s'il vous plaît.
+{16229}{16337}Six-cinq-quatre-neuf...
+{16359}{16439}Sapristi.|- Qu'y a-t-il ?
+{16444}{16559}Mon agenda téléphonique|se trouve dans la valise.
+{16564}{16622}Le numéro est dans l'annuaire ?
+{16627}{16729}Oui, c'est un hôtel.|Je l'ai appelé des centaines...
+{16777}{16882}Merci.|- Rendez-le-moi quand vous avez fini.
+{16917}{17037}Vous pouvez rouler sans ?|- Pas de problème.
+{17464}{17514}La suite 216, je vous prie.
+{17567}{17617}Carol, ici Victoria.
+{17639}{17724}Oui, je viens de l'avoir en ligne.
+{17752}{17829}Nerveux, comme d'habitude.|Complètement speedé.
+{17834}{17979}Que veut-il de plus ?|Je lui ai envoyé 10 actrices parf...
+{17982}{18039}Enfin, six qui étaient parfaites.
+{18044}{18104}Mais il les veut de plus en plus jeunes.
+{18109}{18274}Dix-huit ans, sans aucune expérience.|Mais ayant du caractère.
+{18279}{18364}ll n'est pas humain.|C'est un andro.ï.de.
+{18399}{18524}J'y vais avec les bandes|que j'ai rapportées.
+{18554}{18609}Carol, je...
+{18637}{18739}Je dois dîner ce soir|avec Peter et Shera, mais...
+{18767}{18849}Un instant. Mademoiselle ?
+{18887}{18984}Pouvez-vous couper la musique ?
+{19022}{19077}Bien sûr, m'man.|- Merci.
+{19112}{19209}C'est mon jour...|Où en étions-nous ?
+{19232}{19332}Ah oui, veux-tu leur expliquer|que cela m'est impossible ?
+{19337}{19424}Parfait.|ll y a eu des messages pour moi ?
+{19744}{19812}M. Kincade a appelé ?
+{19862}{19912}Tu es sûre ?
+{19932}{19972}Bon...
+{20069}{20227}Bon, alors... On se voit demain.|OK. Au revoir.
+{20807}{20874}Ce M. Kincade, c'est votre petit ami ?
+{20932}{20967}En effet.
+{21029}{21089}Du moins je le crois.
+{21119}{21227}Les hommes...|Nécessaires, mais impossibles.
+{21274}{21324}On peut le dire.
+{21362}{21432}Votre annuaire... Merci.
+{22277}{22352}Le soir tombe vite en hiver, hein ?
+{22387}{22494}Rouler la nuit ne vous gêne pas ?|- Pourquoi ça me gênerait ?
+{22499}{22597}Moi je ne saurais pas.|Je suis héméralope.
+{22602}{22679}On a ça quand on vieillit ?
+{22717}{22794}Non, pas du tout.
+{22812}{22924}Ça n'a rien à voir avec l'âge.|J'ai toujours eu ça.
+{23102}{23177}Putain ! C'est moche.
+{24322}{24419}Ça ne me regarde pas,|mais tu fumes trop.
+{24439}{24479}Oui, m'man.
+{24562}{24667}Tu aimes être chauffeur de taxi ?|- Merde, oui.
+{24672}{24769}Je veux dire... oui.|C'est un chouette boulot.
+{24814}{24939}C'était ton but dans la vie ?|Etre chauffeur de taxi ?
+{24964}{25094}Vous avez quelque chose contre ?|- Non, pardon.
+{25114}{25202}Je ne voulais pas dire ça.
+{25472}{25602}En fait, je ne veux pas|le rester toute ma vie.
+{25619}{25664}Que voudrais-tu être ?
+{25669}{25737}Mécanicien.
+{25759}{25862}Je m'y connais bien là-dedans.|Mes deux frères sont mécaniciens.
+{25867}{25974}lls sont plus âgés que moi, et comme|je suis une fille et que je suis jeune...
+{25979}{26054}...je dois faire mes preuves.
+{26074}{26209}Et te marier et avoir des enfants ?|- Absolument. Je veux des enfants.
+{26214}{26289}Mais des garçons. Des tas.
+{26292}{26404}C'est chouette d'avoir des filles.
+{26407}{26474}Oui, peut-être quelques filles.
+{26479}{26639}Mais le problème n'est pas là.|Trouver un bon mari, tout est là.
+{26652}{26702}Tu l'as dit.
+{26787}{26847}Je suis assez difficile.
+{26852}{26957}Et je suis aussi patiente.|Du moins, je l'espère.
+{26962}{27064}Car, on peut parfois attendre|longtemps.
+{27069}{27174}C'est pas si simple de trouver|celui qui vous convient.
+{27179}{27247}L'homme de sa vie...
+{27297}{27392}Un autre mécanicien ?|- Peu importe ce qu'il fait...
+{27397}{27519}...du moment qu'il m'aime.|Avec son âme.
+{27522}{27599}Et qu'il m'accepte telle que je suis.
+{27694}{27749}Je te comprends parfaitement.
+{27791}{27863}Comme dit Popeye:|''Je suis comme je suis.''
+{27866}{27961}N'est-ce pas ?|- Tu as entièrement raison.
+{29126}{29168}Salut, Marty.
+{29186}{29243}Oui, je l'ai eue en ligne.
+{29248}{29346}ll m'a dit cent fois|ce qu'il voulait.
+{29351}{29431}OK, Marty, redis-le-moi.
+{29491}{29568}Retourne à l'auto-école, andouille !
+{29866}{29981}Une idée brillante m'est venue,|dans ce taxi.
+{29986}{30058}Oui, je suis dans un taxi.
+{30061}{30126}Non, je ne peux te l'expliquer.
+{30183}{30283}Tout ce que je peux dire,|c'est que j'ai une idée.
+{30353}{30418}Je ne t'en dirai rien, Marty.
+{30451}{30548}Je parais peut-être calme,|mais en fait je suis surexcitée.
+{30553}{30618}Je t'appellerai pour t'en dire plus.
+{30641}{30688}Salut, Marty.
+{30723}{30803}On arrive à Beverly Drive. Et puis ?
+{30826}{30976}A droite à Beverly Court,|puis tu montes vers Beverly Circle.
+{30981}{31021}D'accord.
+{31286}{31361}C'est à gauche. Le numéro 97 1 .
+{32886}{32996}Je les porte à l'intérieur ?|- Non, tu peux les déposer.
+{33001}{33078}Ça fait partie de mon boulot.
+{33566}{33626}Ça fera 33 dollars.
+{33683}{33783}Non, garde la monnaie.|- Merci.
+{33788}{33918}Je peux te poser une question ?|Cela va te paraître un peu fou...
+{33941}{33993}Je suis agent de casting.
+{33996}{34128}Ça signifie que je cherche des gens|pour jouer dans de grands films.
+{34178}{34313}Je t'ai bien observée, et je trouve|que tu as quelque chose de spécial.
+{34316}{34423}Je cherche justement quelqu'un,|et ça t'irait comme un gant.
+{34426}{34513}C'est un rôle en or.
+{34518}{34603}Tu peux devenir une vedette.|- Maintenant ?
+{34678}{34818}Ça ne me dit vraiment rien. J'ai déjà|un job. Et je ne veux pas le perdre.
+{34823}{34948}Je n'ai pas envie de tout gâcher.|Vous comprenez ?
+{34986}{35128}Pas d'empressement.|Je suis sérieuse, tu sais.
+{35151}{35228}Tu comprends ce que je te propose ?
+{35233}{35346}Oui, mais je suis chauffeur de taxi.|C'est mon boulot.
+{35351}{35411}Et je veux devenir mécanicien.
+{35481}{35546}Je ne veux pas te forcer.
+{35571}{35668}Mais pour dissiper tout doute...
+{35673}{35851}Tu veux dire que tu n'as pas envie|de devenir une vedette de cinéma ?
+{35856}{35896}C'est ça...
+{35901}{36053}Tu pourras être mécanicien plus tard.|Tout le monde veut faire du cinéma !
+{36056}{36188}J'aime bien le cinéma,|et je vois que vous êtes sérieuse...
+{36193}{36293}...mais cela ne me dit rien.
+{36316}{36441}ll y a sûrement des tas de filles|qui veulent être actrices...
+{36446}{36508}Je m'exprime mal.
+{36513}{36606}Mais ma voie est toute tracée.
+{36611}{36683}Tout va comme je veux.
+{36791}{36861}Et pas question de changer ça, hein ?
+{36951}{37003}Merci quand même.
+{37156}{37221}Et merci pour le pourboire.
+{37246}{37306}Prenez garde à vous.|- Oui, m'man.
+{38291}{38338}Oh, la ferme !
+{40446}{40506}ll me faut un taxi.
+{40586}{40643}lci !
+{40828}{40876}Brooklyn !
+{40928}{41043}Ducon !|J'ai noté ton numéro de plaque !
+{41046}{41136}Alors, vous me prenez ou quoi ?
+{41188}{41263}Ça grouille de taxis...
+{41271}{41308}D'argent.
+{41341}{41456}Je veux rentrer chez moi !|Nom de Dieu ! Je veux rentrer.
+{41473}{41526}J'ai du fric !
+{41561}{41628}Regardez, j'ai du fric !
+{41726}{41783}Alors, quoi ?!
+{41826}{41948}Ne me piquez pas mon taxi...|Passez votre chemin.
+{41971}{42028}Je suis désespéré, ça se voit !
+{42033}{42108}Je suis invisible ? Merde !
+{42113}{42183}Je veux un taxi ! Rien que pour moi.
+{42423}{42478}Tu vas à Brooklyn ?
+{42481}{42541}Bonjour, ça va ?
+{42586}{42636}Je voudrais aller à Brooklyn.
+{42671}{42723}Montez, monsieur.
+{42811}{42896}Tu sais où est Brooklyn ?|- Brookland ?
+{42901}{42958}ll vaut mieux que vous m'expliquiez.
+{43046}{43128}Tu descends Broadway, puis je te dirai.
+{43298}{43348}Qu'y a-t-il ?
+{43356}{43431}Tu es novice ?|Elle est en P.
+{43453}{43523}Tu dois mettre le levier sur Drive.
+{43546}{43588}D !
+{43593}{43678}D, c'est drive. Mets-la en drive !
+{43698}{43746}D, c'est drive.
+{44011}{44058}Que fais-tu ?
+{44231}{44281}Qu'est-ce qu'elle a, cette caisse ?
+{44286}{44361}C'est une automatique.|- Mais enfin...
+{44408}{44458}Qu'est-ce que tu fiches ?
+{44463}{44513}Arrête-toi !
+{44518}{44591}Arrête, bon Dieu ! lci !
+{44691}{44736}Merde.
+{44801}{44901}On n'y arrivera jamais.|Je prends un autre taxi.
+{44906}{45006}Non... S'il vous plaît. Vous êtes...
+{45011}{45068}...mon plus meilleur client.
+{45073}{45233}Je descends. Tu ne sais pas conduire.|- Vous voulez un taxi. Je suis là.
+{45236}{45373}Je le sais bien.|Mais je vais en prendre un autre.
+{45411}{45528}C'est très important pour moi.|D'accord ?
+{45691}{45783}Bon, c'est d'accord.
+{45788}{45878}Nous allons à Brooklyn.|Mais tu me laisses conduire.
+{45883}{45956}Je conduis, et tu vas à côté de moi.
+{45971}{46061}Je réglerai la course.|Mais je conduis.
+{46086}{46181}Non. Non, c'est...|- Comment ça, non ?
+{46186}{46251}Ce n'est pas permis.
+{46256}{46333}Mais si !|On est à New York !
+{46393}{46463}Bien.|- Bon.
+{46468}{46508}New York, New York.
+{46511}{46688}Je suis nouveau, et s'il arrive|quelque chose, j'aurai de gros ennuis.
+{46693}{46848}De très très gros ennuis.|Tu comprends ce que je dis ?
+{46876}{46976}Roule prudemment.
+{47008}{47126}Je sais conduire.|- Pas d'accident.
+{47188}{47293}Ne le dis à personne.|- A qui le dirais-je ?
+{47298}{47413}Sinon je perds mon boulot.|- Ne t'en fais pas.
+{47418}{47483}En avant.|- Attends un peu.
+{47486}{47623}Ton compteur n'est même pas mis. En|premier lieu, il faut allumer le compteur.
+{47628}{47731}Ça éteint la lumière sur le toit.|Tu n'es donc plus libre.
+{47736}{47811}Je ne suis plus libre...
+{47831}{47883}Puis tu passes en D. Tu vois ?
+{47888}{47963}Oui, tu me l'as déjà expliqué.
+{47968}{48101}Pas d'insultes, mec. Je pige tout.|Tu passes en D, ça veut dire rouler.
+{48106}{48178}Du calme. Merde !
+{48585}{48630}C'est chouette.
+{48695}{48762}C'est New York. <i>Cool.</i>
+{48767}{48835}Oui, il fait frais.
+{48840}{48937}Non, c'est le pied. Cool. Génial.
+{48950}{49067}Je comprends. Cool, ça veut dire chouette.|- Oui.
+{49275}{49325}Va bien.
+{49370}{49417}Oui, oui, va bien.
+{49422}{49482}Nous disons: ''Tout baigne.''
+{49485}{49637}Tout baigne.|Tout baigne. Parfait.
+{49692}{49762}Oui. Ne me distrais pas.
+{49767}{49820}On a la même...
+{49825}{49922}On a la même toque.
+{49927}{50007}Non, la mienne est différente.|- C'est la même.
+{50010}{50072}La mienne est différente.|- Ceci l'est.
+{50077}{50145}La mienne vient de sortir.|Elle est ''in''.
+{50150}{50227}Les couvre-oreilles sont les mêmes.
+{50230}{50327}Non, mec. La mienne, c'est le nec.|- Ça veut dire quoi, ''nec'' ?
+{50332}{50397}C'est quoi ?|- ''ln''.
+{50400}{50502}Toque in.|- ln. Dans le vent.
+{50507}{50590}Ça sonne bien. Toque in.|- C'est ça.
+{50770}{50817}D'où viens-tu ?
+{50852}{50930}D'Allemagne. Allemagne de l'Est.
+{50952}{51067}De Dresde.|Près de la Tchécoslovaquie.
+{51100}{51192}De la Tchécoslovaquie. Prague.
+{51207}{51262}La capitale... Prague.
+{51305}{51405}Tu t'es enfui ?|- Non, j'ai pu partir librement.
+{51452}{51550}Tu as de la famille là-bas ?|- Je n'ai pas de famille.
+{51722}{51845}Que faisais-tu là-bas ? T'étais|sûrement pas chauffeur de taxi.
+{51850}{51967}Clown dans un cirque.|- Sans blague ?
+{51972}{52050}Non, attends. Je vais te montrer.
+{52410}{52472}Sensass, mec !
+{52677}{52717}Comment t'appelles-tu ?
+{52732}{52857}Helmut Grokenberger.|C'est marqué ici. C'est moi.
+{52865}{52897}H<i>elmet</i> ?
+{52902}{52952}Helmut.
+{52980}{53032}Tu t'appelles comme ça ?|- Oui.
+{53060}{53137}Drôle de nom pour un gosse.
+{53170}{53300}Chez nous, ça veut dire ''casque''.|On met ça sur sa tête.
+{53305}{53350}Tu vois ? Un casque.
+{53407}{53602}C'est comme si on appelait son gosse|Abat-jour, ou un truc de ce genre.
+{53640}{53720}Abat-jour, range ta chambre !
+{53800}{53857}Comment t'appelles-tu ?
+{53890}{53930}Yo-Yo.
+{54015}{54110}Yo-Yo. C'est mon nom.|- Ce n'est pas un nom.
+{54262}{54327}C'est un jouet pour enfants.
+{54330}{54485}Pas du tout. C'est mon nom.|- C'est un jouet.
+{54490}{54547}Ça n'a rien à voir.
+{54577}{54662}Tu t'appelles Yo-Yo, moi Helmut.
+{54712}{54765}Bien.
+{55495}{55542}Que fait-elle ici ?
+{55600}{55682}Merde !|- Qu'y a-t-il ?
+{55800}{55892}Elle est encore en train de déconner.
+{55895}{55950}Qu'y a-t-il ?
+{56037}{56117}Je reviens tout de suite, Helmut.
+{56127}{56252}Qu'est-ce que tu fous ?
+{56405}{56462}Bas les pattes !
+{56467}{56552}ll n'y a personne ! Où vas-tu ?|- Ça te regarde ?
+{56555}{56677}T'arrêtes pas de faire la java.|- Ce ne sont pas tes affaires.
+{56680}{56770}Si, je suis de la famille.|Tu devrais être avec ton mari !
+{56775}{56860}ll sait où je suis, idiot !
+{56885}{56972}Ne me touche pas.|- Angela, écoute.
+{57035}{57137}Qu'est-ce que tu veux ?|C'est une affaire de famille. Casse-toi.
+{57147}{57255}Dans l'auto, Angela.
+{57377}{57452}Monte dans l'auto, merde !
+{57457}{57547}Lâche-moi ! Lâche-moi, bordel !
+{57735}{57830}Ne m'oblige pas à te faire mal !|Cesse de donner des coups de pied !
+{57955}{58015}Laisse-moi sortir !
+{58065}{58130}C'est quoi ton problème, merde ?!|Toi !
+{58135}{58207}Non, toi, bordel !|- Angela, ne jure pas ainsi.
+{58212}{58275}Merde, merde, merde !
+{58280}{58355}La ferme !|- Toi-même !
+{58360}{58415}Boucle-la !|- Boucle-la toi-même !
+{58420}{58460}Merde.
+{58537}{58685}Tu sais quel est ton problème ?|On a inversé ton cul et ta tête !
+{58717}{58777}Ne t'en fais pas.|C'est une affaire de famille.
+{58780}{58872}T'es pas de ma famille.|- Je suis ton beauf.
+{58895}{58982}Du calme.|- Ne me dis pas de me calmer !
+{58987}{59075}Elle est très jolie. Ravissante.
+{59085}{59132}Tu trouves ?|- Oui.
+{59150}{59200}Merci.|- Je t'en prie.
+{59290}{59345}Comment t'appelles-tu ?|- Casque.
+{59350}{59447}Casque Abat-jour ou je ne sais quoi.|- Fais pas chier.
+{59452}{59580}Je m'appelle Helmut Grokenberger.|C'est marqué ici.
+{59615}{59727}Super...|Je suis avec un idiot et un clown.
+{59732}{59832}Oui, je suis clown.|- Oui, Angela, c'est vrai.
+{59837}{59897}La ferme !|- C'est véridique.
+{59902}{60005}Casque, montre-lui.|Refais un peu ce truc à la flûte.
+{60277}{60335}C'est dément !
+{60340}{60397}Qu'est-ce que c'est que ça ?!
+{60435}{60535}Merci.|-Tu vois. Que t'avais-je dit, Angela ?
+{61607}{61662}Helmut, oublie-la un peu.
+{61680}{61747}Regarde, le pont de Brooklyn.
+{61810}{61875}Que c'est beau.
+{61995}{62045}Toutes ces lumières.
+{62647}{62705}lmpec !
+{62785}{62845}Je suis le chauffeur.
+{62932}{63012}Quelqu'un peut m'expliquer|ce qui se passe ?
+{63017}{63132}Que veux-tu dire ?|- Pourquoi conduis-tu ce taxi ?
+{63137}{63252}Et ces toques, ça signifie quoi ?|Vous formez un duo comique ?
+{63257}{63375}Oui, on a les mêmes toques.|- Laisse tomber.
+{63380}{63492}C'est son premier jour.|ll roule mal. Alors, j'ai pris le volant.
+{63495}{63660}Tu as pris le volant...|Tu es un vrai despote, tu sais ça ?
+{63665}{63757}La ferme.|- Ne me dis pas de la fermer.
+{63762}{63922}Je te dis de la fermer !|- La ferme, OK ?
+{63960}{64045}T'es un connard, Yo-Yo !|- Tu vois ce panneau ?
+{64050}{64140}''Asseyez-vous bien dans le fond.''|ll se peut que je freine brusquement.
+{64145}{64242}Ose faire ça, et je te botte le train.
+{64247}{64335}Toujours le dernier mot, hein ?|- Voilà.
+{64447}{64552}Dis quelque chose. Allons.|- Si tu la fermais, je me tairais.
+{64555}{64695}Alors ferme ton clapet,|comme ça je ne devrai rien dire.
+{64700}{64762}Je t'emmerde !|- Moi aussi !
+{64765}{64862}Tu sais ce que tu es ?|Un sale petit roquet !
+{64867}{65007}Alors, je vais te mordre les fesses !|Fais gaffe au petit roquet.
+{65190}{65287}Chouette famille.|- C'est un trouduc.
+{65315}{65365}Un trouduc. C'est un trouduc.
+{65420}{65465}Trouduc.
+{65790}{65907}Regarde, Helmut.|Brooklyn. Qu'en penses-tu ?
+{65932}{65977}Superbe.
+{66000}{66045}Une vraie zone, oui.
+{66050}{66162}Ne dis pas ça. C'est notre quartier.|- Rien à fiche.
+{66235}{66282}Brookland.
+{66975}{67035}Tu vois, Helmut ? On habite ici.
+{67055}{67132}Je te remercie, trouduc !|- Bas les pattes, Angela !
+{67135}{67200}La ferme !|- Toi-même !
+{67262}{67315}Au revoir.
+{67375}{67455}Au revoir, tête casquée.|- Au revoir.
+{67545}{67587}Va te faire foutre !
+{67815}{67867}Tiens.
+{67960}{68110}Vérifie. ll faut toujours vérifier.|- Pourquoi ?
+{68332}{68377}Tu vois ?
+{68390}{68487}Oui, tu m'as donné trop peu.
+{68492}{68577}Le compteur indique 13.|Je t'ai donné 12 $.
+{68700}{68800}On est à New York.|- Tu veux que je te dise. L'argent...?
+{68805}{68962}L'argent... n'est pas important pour moi.|Je suis un clown. J'en ai besoin...
+{68967}{69057}...mais ce n'est pas important.
+{69311}{69389}Tu sauras retourner à Manhattan ?
+{69551}{69681}Tu fais l'inverse|de ce qu'on a fait pour venir.
+{69684}{69771}Là où on a pris à droite,|tu prends à gauche.
+{69776}{69869}Et inversement. D'accord ?
+{69874}{69974}Oui, deux fois à droite.|- Non.
+{69979}{70104}Helmut, tu sors de cette rue,|tu vas à droite, puis...
+{70136}{70249}Quand tu seras sur l'avenue,|la grande avenue...
+{70254}{70401}Tu demanderas à quelqu'un.|- D'accord, M. Abat-jour.
+{70464}{70591}Non, mec. Tu es M. Abat-jour.|- Moi ?
+{70596}{70674}Bon, je suis M. Abat-jour.
+{70776}{70829}Salut, Helmut.
+{70899}{70984}D, c'est rouler.
+{70989}{71106}Oui, c'est ça.|D, c'est drive.
+{71134}{71189}Apprends l'anglais, Helmut !
+{71209}{71249}A droite !
+{71314}{71386}A droite ! Helmut, à droite !
+{71499}{71566}Chouette famille.
+{71759}{71819}A gauche, ou à droite ?
+{72366}{72449}Deux fois à droite.
+{72674}{72726}Non, tout droit.
+{103683}{103820}lls pourraient allumer les lampadaires.
+{104203}{104268}Ecoute, écoute.
+{104273}{104350}On s'envoie en l'air ?
+{104355}{104425}<i>Envoyez une voiture sur-le-champ.</i>
+{104428}{104510}Où le ferons-nous ?|- <i>Via Marmotta, 12.</i>
+{104515}{104558}Ensuite ?|- <i>Via Buffalota, 40.</i>
+{104563}{104643}Et puis ?|- <i>Piazza Quadrata, pas de numéro.</i>
+{104648}{104733}On le fera Piazza Quadrata.
+{104738}{104808}<i>OK, mais il n'y a pas de numéro.</i>
+{104828}{104913}On le fera combien de fois ?|- <i>Mille et une.</i>
+{104918}{104990}Quand ?|- <i>Tout de suite. 3 autos.</i>
+{104995}{105103}Trois taxis ? Traînée ! Terminé.
+{105578}{105648}Hôtel Génie... quel nom !
+{105653}{105785}Je voudrais une chambre à côté de...|Léonard de Vinci et Einstein.
+{105790}{105865}Oui, merci. Qui est-ce ?|Dante, tout va bien ?
+{105870}{105988}Je prends un café avec Shakespeare.|lsaac Newton ! Beethoven !
+{105993}{106073}Beethoven, voici Charlie Parker.
+{106078}{106163}Dis quelque chose, Charlie.
+{106378}{106448}Charlie Parker à l'hôtel Génie.
+{106483}{106595}Si l'hôtel Génie est complet,|j'irai à l'hôtel lmbécile.
+{106813}{106868}Rome, ville désertée...
+{106895}{106943}Ville magnifique.
+{106948}{107073}Tous les Romains ont quitté la ville.|lls sont tous à Bergame.
+{107078}{107148}Que cherchent-ils à Bergame ?
+{107403}{107528}J'aime ces sens uniques.|J'ignorais que c'était un sens unique.
+{107533}{107613}On se croirait sur un carrousel.
+{107618}{107753}''Au milieu du cours de notre vie,|mes amis, je vous annonce que...
+{107758}{107880}...je me trouvais dans un sens unique.''|Peut mieux faire.
+{108045}{108125}C'est un sens unique !
+{108130}{108240}C'est exact ! Sens unique, crétin !
+{108245}{108300}Tu roupilles ?
+{108380}{108473}Qu'est-ce que c'est ?|Ce mur n'était pas là hier.
+{108478}{108595}Par saint Pierre, en arrière !
+{108600}{108693}Par tous les saints, en avant !
+{108743}{108865}Encore un sens unique.|Ces cons les changent constamment.
+{109018}{109055}Je suis dangereux ?
+{109060}{109160}J'ai un taxi, ils sont armés,|et c'est moi qui suis dangereux !
+{109168}{109245}lnou.ï.. C'est le bouquet.
+{109248}{109340}Je devrais les écraser.
+{110118}{110195}Un évêque seul à 4 h du mat'.
+{110200}{110260}Ça porte malheur. Touchons du bois.
+{111189}{111309}Désolé, mon révérend. Je ne vous|voyais plus, avec la statue.
+{111314}{111394}Je vais à l'autre bout de la ville.|A Tiburtino.
+{111397}{111462}Pas au Vatican ?|Vous n'êtes pas évêque ?
+{111467}{111542}Pas au Vatican.
+{112282}{112369}Mon révérend, je dois vous dire...
+{112372}{112497}...que c'est un honneur pour moi|d'avoir un évêque dans mon taxi.
+{112502}{112562}Je ne suis pas évêque, mon fils.
+{112567}{112639}Je sais bien, mais...
+{112787}{112894}Je peux vous poser une question ?|- Je vous en prie, mon révérend.
+{112897}{113027}Voulez-vous enlever vos lunettes ?|Rouler la nuit avec ça est dangereux.
+{113182}{113304}Je les ai mises ce matin|et j'ai oublié que je les avais.
+{113309}{113389}Je vois beaucoup mieux. Merci.
+{113394}{113547}Je me sens comme un aveugle|qui recouvre miraculeusement la vue.
+{113947}{114057}Ça va, mon révérend ?|- Ça va.
+{114782}{114879}Excusez-moi, mais|il est mis ''lnterdit de fumer''.
+{114882}{114974}Ah, cet écriteau ?|J'oublie toujours de m'en débarrasser.
+{115017}{115104}lls mettent ça dans tous les taxis.|Ridicule.
+{115837}{115879}Mon révérend...
+{115884}{116024}Ça va vous paraître bizarre, mais|on est seuls dans ce taxi...
+{116029}{116107}...et je voudrais me confesser.
+{116147}{116209}L'endroit est mal choisi.
+{116214}{116352}Je sais, on est dans un taxi, pas|à l'église, mais je dois me confesser.
+{116357}{116529}Se confesser est un acte anonyme.|L'Eglise doit se tenir à cela.
+{116532}{116629}Je ne le dirai à personne. Juré.
+{116632}{116709}Je suis toscan, pas romain.
+{116714}{116792}Je fais ce métier içi depuis 15 ans...
+{116797}{116874}...et je n'ai jamais eu|deux fois le même client.
+{116879}{117014}Et si je vous prends dans 10 ans,|je ne vous reconnaîtrai pas.
+{117019}{117134}Je promets de ne pas vous regarder.|Je dois surveiller la route.
+{117139}{117294}Je veux me confesser. S'il vous plaît !
+{117299}{117389}Vous ne devrez pas payer la course.
+{117394}{117464}ll le faut, ou j'irai en enfer.
+{117467}{117562}C'est totalement inacceptable.
+{117567}{117649}J'ai commis tant de péchés.
+{117687}{117792}Quand j'avais 12 ou 13 ans...
+{117797}{117904}...à l'âge où on devient homme,|façon de parler...
+{117909}{118054}...et qu'on se met à ressentir|du désir pour, comment dire...
+{118057}{118132}...l'amour, le sexe...
+{118137}{118309}On aspire à une délivrance !|Vous comprenez ?
+{118314}{118419}On veut satisfaire le besoin...
+{118424}{118532}J'habitais à la campagne.|Les femmes étaient rares.
+{118537}{118702}On est encore un enfant, mais|à l'intérieur, on se sent un homme.
+{118707}{118854}Et il n'existait aucun moyen|d'exprimer ce sentiment.
+{118859}{118964}D'où l'idée qu'a eue|un de mes amis, très malin...
+{118967}{119144}...de nous satisfaire avec...|On le faisait avec une citrouille.
+{119149}{119299}Chaude, agréable et humide...|Avec des pépins à l'intérieur...
+{119304}{119364}Et on...
+{119419}{119507}Aidez-moi à trouver les mots...
+{119512}{119594}On se déversait dans ces citrouilles.
+{119599}{119697}Après un petit temps, j'ai arrêté.
+{119702}{119777}J'ignore si mes amis ont continué,|c'est leur affaire.
+{119782}{119894}J'ai arrêté car je sentais,|vous serez d'accord avec moi...
+{119899}{119989}...que plus j'évoluais|et plus ma foi grandissait...
+{119992}{120064}...plus j'avais besoin d'amour.
+{120069}{120177}Pas avec un légume, mais avec|quelque chose de vivant.
+{120182}{120339}Quelque chose qui bouge, soit chaud,|qu'on puisse regarder dans les yeux.
+{120344}{120384}Ayant une âme.
+{120389}{120512}Et il y avait cette... brebis.|Une magnifique petite brebis.
+{120517}{120692}Elle était belle, gentille,|douce, charmante. Je l'ai appelée Lola.
+{120697}{120864}Les autres étaient vieilles et laides,|mais elle était si délicate.
+{120869}{120964}Son pelage était doux|et ses deux grands yeux me regardaient.
+{120967}{121057}D'abord, je n'ai pas fait attention.
+{121062}{121152}Et elle bêlait si doucement.
+{121229}{121342}J'étais conquis.|Elle était différente des autres.
+{121347}{121524}Ses mouvements étaient si gracieux.|Toujours propre, jamais sale.
+{121529}{121632}Elle venait près de moi,|et je me mettais sur elle.
+{121637}{121729}Elle était si jolie...
+{121734}{121799}...sensuelle, même.
+{121802}{121987}J'étais un peu gêné, car elle venait|près de moi quand j'étais avec des amis.
+{121992}{122089}Ça devenait flagrant. Très embarrassant.
+{122094}{122264}Mon père le remarqua, lui aussi.|Quel horrible souvenir.
+{122269}{122374}Savez-vous ce qu'il a fait ?|ll l'a vendue à un...
+{122442}{122584}...un boucher.|ll a vendu ma Lola à un boucher.
+{122589}{122692}Un certain Guido Rusticoni.|Un gros lard plein de poils...
+{122697}{122777}...toujours en sueur,|sans aucune manière.
+{122782}{122869}Vraiment repoussant.|ll était dégoûtant.
+{122874}{122949}Vendue à un boucher pour 80.000 lires.
+{122954}{123077}Ça m'a tellement choqué que depuis,|je ne mange plus de viande.
+{123082}{123169}Quand on me propose du mouton,|je refuse catégoriquement.
+{123174}{123267}Je ne mange pas de légumes non plus,|à cause des citrouilles.
+{123272}{123349}Je mange très peu, en fait.
+{123354}{123419}Ça m'a particulièrement traumatisé.
+{123424}{123569}Je voudrais ajouter ceci:|j'admets que ces péchés sont graves.
+{123572}{123662}Mais je les ai commis par amour.
+{124462}{124527}Ça boume, Gino ?
+{124547}{124689}C'est le calme plat.|Aucun client. Une foutue soirée.
+{124694}{124817}lci aussi, c'est calme.|- On n'a rien gagné.
+{124834}{124894}Un évêque.
+{124902}{124952}Un vrai ? Ça alors !
+{124957}{125097}ll est mignon comme tout !|- Adorable.
+{125247}{125402}Repassez un de ces jours.
+{125592}{125664}Gino me remonte toujours le moral.
+{125732}{125777}Jolies filles, hein ?
+{125782}{125852}Mon frère Vincenzo habite aussi|à Rome.
+{125857}{125949}ll est plombier.|ll répare les conduites d'eau.
+{125952}{126082}Un soir, ils m'invitent à dîner,|lui et ma belle-soeur. Monica.
+{126087}{126214}Je vais donc chez eux.|lls ont une jolie petite chienne.
+{126217}{126362}Après le repas, il reçoit|un appel urgent. Une conduite crevée...
+{126367}{126472}...dans un immeuble. lnondation.
+{126477}{126614}ll prend ses outils|et part en quatrième vitesse.
+{126617}{126674}Je reste seul avec Monica.
+{126677}{126799}Elle est très belle, Monica.|Vous devriez la voir.
+{126804}{126932}Une vraie beauté. Et elle m'aime bien.
+{126937}{127042}Elle me regarde toujours|avec ses ''yeux de belle-soeur''.
+{127047}{127154}A leur mariage, je les ai félicités,|mais elle me regardait bizarrement.
+{127159}{127317}Mon frère et moi, on a le même type.|Je suis un peu plus beau que lui.
+{127322}{127437}Monica et moi étions donc seuls.|Elle a commencé sa vaisselle.
+{127442}{127587}Quand elle s'est baissée,|j'ai vu deux demi-pêches.
+{127592}{127782}Un popotin grandiose.|Et un minuscule slip blanc.
+{127787}{127937}ll était un peu remonté,|dénudant une fesse.
+{127942}{128039}lmpossible de me maîtriser !
+{128044}{128134}Elle s'est retournée|et m'a regardé avec ces yeux...
+{128139}{128239}Je me suis retrouvé sur elle.
+{128242}{128319}Quel magnifique popotin !
+{128322}{128409}Rose, moelleux et rond|comme une citrouille !
+{128414}{128472}Son slip duveteux|comme une brebis.
+{128477}{128637}La citrouille, la brebis, la femme|de mon frère... J'étais déchaîné.
+{128642}{128737}Nous avons roulé sous la table.|C'était fabuleux !
+{128742}{128882}Quel pied ! C'était véritablement...|lmaginez, mon révérend...
+{128887}{128974}Le paradis sur terre ! Je me disais:
+{128977}{129094}''C'est la femme de mon frère !''|Mais je ne pouvais m'arrêter.
+{129097}{129212}Je me répétais: ''C'est la femme|de ton frère ! Arrête !''
+{129277}{129359}Ça a duré des heures.|Elle a hurlé !
+{129364}{129504}Et j'ai hurlé !|C'était dingue. Fantastique.
+{129509}{129597}Je l'ai retournée,|l'ai embrassée partout...
+{129602}{129727}...son cou, ses seins parfaits...|Je suis resté toute la nuit.
+{129732}{129882}Je n'y suis jamais retourné,|bien que mon frère ne l'ait jamais su.
+{129887}{129952}Quand elle me voit, elle me sourit...
+{129957}{130117}...et je dis: ''Tu te souviens de notre|partie de baise ?'' Le paradis.
+{130122}{130212}Ma superbe belle-soeur !
+{130217}{130297}Si vous ne l'avez jamais fait|avec votre belle-soeur...
+{130302}{130394}...vous devriez essayer.|C'est extraordinaire.
+{130397}{130464}Puis on se confesse. lnou.ï..
+{130469}{130652}Je sais que je dois me confesser,|mais c'était tellement formidable.
+{130657}{130714}Quelle fille, cette Monica.
+{130769}{130812}Eblouissante.
+{131017}{131104}Je ne vous ai pas choqué, j'espère ?
+{131388}{131453}ll s'est assoupi.
+{131611}{131731}Pas de blague, mon révérend.|Vous ne vous sentez pas bien ?
+{131783}{131898}Vous n'êtes pas mort, quand même ?
+{131976}{132101}C'est moi, votre chauffeur de taxi !|Je l'ai tué !
+{132228}{132323}Bon sang, qu'ai-je fait ?|ll est mort !
+{132466}{132583}J'ai tué un prêtre.|Pire encore, un évêque !
+{132621}{132753}Ce sera la prison à vie !|On reçoit combien, pour un évêque ?
+{132803}{132846}Vous dormez ?
+{132851}{132918}C'est une blague, hein ?
+{132921}{133013}J'ai tué un prêtre !|Je ferai la une !
+{133016}{133091}''Chauffeur de taxi tue évêque.''
+{133096}{133223}Mon frère va tout découvrir|sur moi et Monica ! Quel bordel !
+{133296}{133391}ll était si délicat.|Un si gentil prêtre.
+{133396}{133493}Je n'aurais jamais dû|parler de la brebis et de Monica.
+{133498}{133596}Je regrette, mon révérend.|Je vais vraiment finir en enfer.
+{133636}{133703}Où vais-je le mettre ?
+{135231}{135338}Ce n'est qu'un prêtre,|mais il pèse autant qu'un cardinal.
+{142531}{142633}<i>Rue des lndes, 40. Premier appel.</i>
+{142638}{142738}<i>Rue des lndes, 40. Second appel.</i>
+{142743}{142813}<i>Voiture 285 pour rue des lndes.</i>
+{142818}{142886}<i>Merci, 285.</i>
+{142958}{143088}<i>Rue de l'lndustrie, 29. Trois clients.</i>|<i>Premier appel.</i>
+{143093}{143186}<i>Rue de l'lndustrie, 29. Trois clients.</i>|<i>Deuxième appel.</i>
+{143191}{143303}<i>Rue de l'lndustrie, 29. 3e appel.</i>
+{143366}{143456}Voiture 101 pour rue de l'lndustrie.
+{143488}{143573}<i>Salut, Mika. OK. Au revoir.</i>
+{143576}{143626}Au revoir.
+{145326}{145378}Vous avez demandé un taxi ?
+{145381}{145448}Non, un camion de la voirie.
+{145478}{145548}Mais vous ferez ça très bien.
+{145911}{145963}ll va bien ?
+{145983}{146068}Non, il ne va pas bien.
+{146073}{146141}Mais ne vous inquiétez pas.
+{146206}{146276}Allons-y.|- Où ça ?
+{146311}{146361}A la maison.
+{146366}{146433}J'habite le plus près,|déposez-moi d'abord.
+{146436}{146513}On va d'abord reconduire Aki.
+{146516}{146623}ll habite le plus loin et il est naze.|- C'est toi qui es naze.
+{146631}{146721}C'est notre pote. On doit veiller|à ce qu'il rentre chez lui.
+{146726}{146786}C'est toi qui paies.|- J'ai pas d'argent.
+{146791}{146883}Moi non plus !
+{146966}{147016}Et lui ?
+{147088}{147228}ll a sa prime de licenciement.|- OK, on a de l'argent. Allons-y.
+{147233}{147353}Où va-t-on ?|- On habite le même quartier.
+{147356}{147413}Roule, on te dira.
+{148311}{148383}Comment t'appelles-tu ?|- Mika.
+{148431}{148621}Mon hamster avait le même nom.|- Mika Patapouf !
+{148653}{148733}Pourquoi a-t-il reçu cette prime ?
+{148766}{148838}ll a été renvoyé aujourd'hui.
+{148881}{148938}Et ça va ?
+{148943}{149006}Non, ça ne va pas.
+{149011}{149123}ll vient de te dire|qu'il venait d'être licencié !
+{149151}{149306}ll est dans le 36e dessous, et pas|seulement parce qu'il a été congédié.
+{149338}{149386}Que veux-tu dire ?
+{149406}{149568}Aujourd'hui, ça a été le pire jour|de sa vie. Voilà ce que je veux dire.
+{149636}{149718}Ou plutôt, hier.
+{149813}{149863}Je suis désolé.
+{149893}{149953}Tu ne sais même pas de quoi il s'agit.
+{149981}{150128}Tu n'as aucune idée de ce qu'il ressent.
+{150151}{150236}En ce moment,|il ne ressent pas grand-chose.
+{150278}{150393}Ecoute, taximan, ne nous agace pas !
+{150398}{150478}Fais gaffe, idiot ! ll conduit !|- ldiot toi-même !
+{150483}{150583}Arrêtez, ou vous rentrez à pied !
+{151063}{151128}Je peux poser une question ?
+{151133}{151178}Laquelle ?
+{151198}{151308}Qu'est-il arrivé|de si terrible à votre ami ?
+{151313}{151391}Outre son licenciement, je veux dire.
+{151416}{151491}Qu'y a-t-il eu de si terrible ?
+{151496}{151553}Je vais te le raconter.
+{151591}{151683}Ce matin, il va|au boulot en voiture.
+{151686}{151848}Une neuve qu'il venait de payer.|ll se gare et va travailler.
+{151853}{151946}ll est en retard,|mais ce n'est pas nouveau.
+{151950}{152065}Aujourd'hui, la tuile:|il est licencié.
+{152070}{152142}Pour cause de retards répétés.
+{152145}{152217}ll a des mots avec le patron.
+{152222}{152362}On le fout dehors,|avec sa prime de licenciement.
+{152405}{152567}ll prend l'enveloppe, remet de l'ordre|dans ses vêtements et va vers son auto.
+{152572}{152657}Mais au lieu de trouver|une voiture toute neuve...
+{152660}{152857}...il se retrouve devant une ruine.|Sa voiture était complètement amochée.
+{152880}{152985}Un idiot ou l'autre|avait transformé sa voiture...
+{152990}{153055}...en une véritable épave.
+{153060}{153172}ll boit quelques verres pour reprendre|ses esprits et prend le bus pour rentrer.
+{153175}{153325}Sa femme et sa fille, âgée de 16 ans,|l'attendent. Toutes deux en larmes.
+{153330}{153417}ll y a un gros problème,|lui dit sa femme.
+{153422}{153570}La fille s'en va en pleurant|dans sa chambre.
+{153575}{153655}Sa fille est enceinte...
+{153660}{153722}Plutôt jolie, sa fille.
+{153727}{153832}La ferme ! On ne parle pas ainsi|de la fille de son pote.
+{153837}{153872}Je n'ai pas voulu dire ça.
+{153875}{154010}Je sais ce que tu as voulu dire,|gros dégoûtant !
+{154015}{154062}C'est tout ?
+{154092}{154147}Non, ce n'est pas tout.
+{154167}{154312}ll annonce qu'il est congédié|et que leur auto est foutue.
+{154315}{154447}Sa femme devient hystérique|et gueule qu'elle veut divorcer...
+{154460}{154577}...qu'il n'est ni bon père|ni bon mari.
+{154582}{154710}Et elle le chasse en le menaçant|avec un couteau de boucher.
+{154715}{154762}Un couteau à pain.|- Un couteau de boucher !
+{154767}{154802}Un couteau à pain, il a dit.
+{154807}{154925}Non, il a insisté sur le fait|que c'était un couteau de boucher !
+{156030}{156090}Ça aurait pu être pire.
+{156180}{156272}Qu'est-ce qui pourrait être pire que ça ?
+{156275}{156385}OK, monsieur le chauffeur de taxi.
+{156390}{156502}Des trucs pires te sont arrivés ?
+{156515}{156607}Tu veux que je raconte ?|- Oui.
+{156652}{156697}Tu as des enfants ?
+{156702}{156770}Un fils.|- Et moi une fille.
+{156797}{156945}Je suis content d'avoir un fils.|- Crétin. Une fille, c'est mieux.
+{156950}{157045}Un fils veut toujours te ressembler.
+{157050}{157165}Dans ton cas, c'est à éviter...|- Toi, évite d'ouvrir ta grande gueule.
+{157170}{157252}Ça suffit !|Ou vous faites le reste à pied !
+{157425}{157537}C'était quoi, la terrible histoire|que tu voulais nous raconter ?
+{157562}{157675}Je suis marié.|- C'est terrible, en effet...
+{157680}{157842}Ma femme et moi travaillons dur.|Elle a un job, j'en ai deux.
+{157845}{157982}On épargne car on veut des enfants.|Une fille ou un fils.
+{158005}{158085}On a tout fait pour avoir un bébé.
+{158090}{158227}ll n'y a rien de plus agréable...|- La ferme. Laisse-le raconter.
+{158232}{158320}C'est ta femme ?|- Oui.
+{158350}{158390}Eija.
+{158430}{158532}Après un petit temps,|ma femme est tombée enceinte.
+{158537}{158637}On était fous de joie.|Son ventre grossissait.
+{158642}{158725}Au 6e mois,|elle s'est sentie bizarre.
+{158730}{158810}Je l'ai emmenée à la clinique.
+{158832}{158882}Elle allait bien ?
+{158887}{158980}lls l'ont prise en charge.
+{158985}{159082}J'étais mort d'inquiétude|et j'ai dû attendre des heures.
+{159087}{159195}Finalement, le toubib est venu|me dire qu'Eija avait accouché.
+{159210}{159345}Elle se portait bien, et le bébé,|une fille, était vivant.
+{159350}{159425}J'aurais sauté en l'air de bonheur.
+{159430}{159480}Une fille !
+{159530}{159680}Mais le docteur ajouta gravement|qu'elle était née bien trop tôt.
+{159685}{159800}Elle se portait bien,|mais avait été placée en couveuse.
+{159805}{159972}ll ajouta également|qu'elle ne survivrait sans doute pas.
+{160127}{160172}Et ensuite ?
+{160232}{160332}Le jour suivant,|ma femme a pu rentrer à la maison.
+{160335}{160417}Le bébé devait rester en couveuse.
+{160450}{160517}Vous auriez dû le voir.
+{160520}{160667}Si petit et parfait.|Des mains et des pieds de poupée.
+{160672}{160747}Elle avait la forme d'une cacahuète.
+{160910}{160992}Le docteur ne nous laissa aucun espoir.
+{160995}{161140}ll nous annonça que notre fille|ne vivrait pas plus d'une semaine.
+{161145}{161230}Eija était folle d'angoisse.
+{161235}{161292}Je pris une décision difficile.
+{161295}{161400}Je décidai de ne pas|m'attacher au bébé.
+{161405}{161507}Puisqu'elle devait mourir,|il fallait que je reste distant.
+{161512}{161637}Je ne pouvais supporter|de perdre un enfant.
+{161642}{161732}J'étouffai donc mon amour dans l'oeuf.
+{161927}{162047}Une semaine passa,|et le bébé était toujours vivant.
+{162097}{162220}Une autre semaine passa.|On en était à la 3e semaine.
+{162225}{162312}Après trois semaines,|l'enfant vivait encore.
+{162317}{162452}Mais le docteur restait pessimiste.|Ça commençait à m'énerver.
+{162457}{162595}Je n'ai pas fermé l'oeil de la nuit,|tout comme ma femme qui était au lit.
+{162640}{162715}J'étais là, dans la cuisine,|peu avant l'aube.
+{162735}{162802}La même lumière que maintenant.
+{162835}{163005}Eija est venue près de moi et m'a dit|que je m'étais trompé. Elle avait raison.
+{163010}{163107}Pour survivre, le bébé avait|besoin de tout mon amour.
+{163110}{163172}Un amour fort comme le roc.
+{163190}{163237}Ce fut un soulagement.
+{163240}{163422}Je sentis l'amour sortir|par tous les pores de ma peau.
+{163492}{163575}Je me sentais content et apaisé.
+{163580}{163677}Cette cacahuète était notre enfant.
+{163682}{163752}Nous avons pleuré de bonheur.
+{163757}{163857}On a essayé de déjeuner,|mais impossible.
+{163920}{163977}Nous sommes alors allés|à la maternité.
+{163982}{164105}On voulait que le bébé|ressente notre amour.
+{164175}{164285}A la maternité,|le docteur nous attendait.
+{164290}{164437}Son visage était grave.|ll nous a pris à part.
+{164462}{164585}ll nous a alors dit|qu'un peu plus tôt...
+{164590}{164690}...juste avant le lever du soleil,|le bébé était mort.
+{164695}{164750}ll n'y avait plus rien à faire.
+{165282}{165412}Ne t'en fais pas.|Vous en aurez un autre.
+{165485}{165550}Peut-être un jour.
+{165630}{165687}Que c'est triste.
+{165790}{165855}Tu es un brave type, Mika.
+{165902}{165962}Aki est un raseur.
+{166012}{166080}Sa vie n'est pas si moche.
+{166085}{166250}ll fait un monde de tout.|- Certains ont vraiment des ennuis.
+{166335}{166390}Tu as raison, Mika.
+{166465}{166520}Tu es un brave mec.
+{166662}{166727}On y est presque.
+{166730}{166850}Première à droite, puis à gauche.|C'est notre rue.
+{166855}{166922}Et votre copain ?|Ça va ?
+{166925}{166997}Qu'il aille au diable.
+{167000}{167072}Et sa femme qui a un couteau ?
+{167077}{167122}Quel couteau ?
+{167137}{167217}Ah, oui. Rien à fiche.
+{167222}{167347}ll viendra frapper chez nous|s'il ne sait pas rentrer.
+{167352}{167405}C'est un profiteur.
+{169005}{169060}Ne te fais pas de souci.
+{169065}{169147}Tout va s'arranger.|- Oui.
+{169150}{169290}Remets mon bonjour à Eija.|- De ma part aussi.
+{171060}{171110}On se réveille, Aki !
+{171205}{171260}Qui es-tu, bon Dieu ?
+{171282}{171325}Où suis-je, bordel ?
+{171330}{171507}Dans un taxi, bordel, devant chez toi.|Et tu me dois la course, bordel.
+{171512}{171630}Oui, je sais.|On n'a rien pour rien.
+{171962}{172007}Merci.
+{172352}{172397}Ça va ?
+{172475}{172535}Tu sais où tu es ?
+{172555}{172600}Oui.
+{172619}{172671}A Helsinki.
+{174234}{174296}Bonjour, Aki.

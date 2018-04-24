@@ -1,0 +1,670 @@
+{4306}{4378}La Voie du Samouraï|se trouve dans la mort.
+{4386}{4455}Il faut méditer chaquejour|sur la mort inévitable.
+{4480}{4544}Chaquejour,|le corps et l'esprit en paix,
+{4548}{4593}on doit méditer sur la mort :|déchiré
+{4597}{4676}par les flèches, les balles,|les lances et les épées,
+{4688}{4741}emporté|par les vagues déferlantes,
+{4745}{4808}précipité au coeur|d'un grand incendie,
+{4812}{4845}frappé par la foudre,
+{4858}{4921}broyé par un grand|tremblement de terre,
+{4933}{5014}tombant du haut d'une falaise,|emporté par la maladie,
+{5020}{5094}faisant seppuku|à la mort de son maître.
+{5114}{5239}Chaquejour sans exception,|on doit se considérer comme mort.
+{5258}{5361}Telle est en substance|la Voie du Samouraï.
+{6133}{6239}LA VOIE DU SAMOURAI
+{14234}{14292}Il est mauvais|qu'une chose devienne deux.
+{14306}{14393}On ne doit rien chercher d'autre|dans la Voie du Samouraï.
+{14397}{14477}Il en va de même|pour tout ce qu'on appelle Voie.
+{14481}{14584}Celui qui a cette compréhension|sera ouvert à toutes les Voies
+{14588}{14656}et sera toujours plus|en accord avec la sienne.
+{15175}{15221}Je te donne le reste demain.
+{15253}{15284}Pas de problème.
+{16580}{16606}Ecoute, Frank.
+{16610}{16687}Règle numéro 1 :|on baise pas la fille du chef.
+{16691}{16737}Me les brise pas, oncle Joe.
+{16741}{16787}Connard, écoute-moi.
+{16791}{16876}Elle va d'une clinique à l'autre,|pour examen psychiatrique.
+{16880}{16926}C'est une dingue totale !
+{16937}{17011}Vargo a mis tout l'argent|de la famille à son nom.
+{17015}{17089}- Première nouvelle.|- Tu vas te faire buter.
+{17098}{17150}Tu as fini, oncle Joe ?
+{17154}{17183}Tu vas te faire descendre !
+{17187}{17223}Je suis pas...
+{17238}{17336}Je suis pas encore mort,|alors on raccroche.
+{17354}{17446}Tu m'écoutes, merde ?|Elle est complètement chtarbée !
+{17485}{17529}Et Vargo est dingue d'elle.
+{17533}{17583}Tu vois ce queje veux dire,|dingue ?
+{17587}{17643}Oui, je vois, oncle Joe.
+{18065}{18096}Pardon, M. Vargo.
+{18100}{18192}Sonny, Louie Bonacelli|dit que vous l'avez convoqué.
+{18269}{18329}Excusez-moi un instant,|je reviens.
+{18374}{18419}J'ai failli avoir le bon numéro.
+{18423}{18451}Tu as joué quoi ?
+{18455}{18527}Ma plaque minéralogique.|Tu sais quoi ?
+{18531}{18602}Le numéro de ma baraque|est sorti !
+{18966}{19007}Allons faire un tour.
+{19057}{19100}Alors, tout est réglé ?
+{19107}{19198}C'est pour ce soir.|J'utilise mon mec spécial.
+{19258}{19288}Et la petite ?
+{19292}{19383}Morini dit qu'il l'a mise|dans le bus. Pour le bord de mer.
+{19422}{19473}Mais ça me met mal à l'aise.
+{19480}{19571}Handsome Frank est un affranchi.|Un bon soldat.
+{19575}{19632}Je me sens un peu mal.
+{19646}{19718}Oublie ça.|Handsome Frank a merdé.
+{19722}{19803}Tu lui rendras hommage|aux funérailles, avec nous tous.
+{20899}{20947}Reprends du vin, Louise.
+{20985}{21030}Je n'en veux plus.
+{21662}{21703}Quoi, merde !
+{21721}{21771}Tu veux ma Rolex ?
+{22290}{22350}C'est mon père|qui vous a envoyé ?
+{22519}{22557}C'est un bon livre.
+{22686}{22762}Le Japon ancien|était un endroit assez étrange.
+{22851}{22913}Prenez-le. Je l'ai fini.
+{23120}{23212}Si on devait définir en un mot|la condition de samouraï,
+{23216}{23328}sa base tient dans une|dévotion sérieuse, corps et âme,
+{23332}{23371}à son maître.
+{23386}{23422}Ne pas oublier son maître
+{23426}{23497}est la chose fondamentale|pour un vassal.
+{23981}{24033}J'ai un mauvais pressentiment.
+{24189}{24291}Valerio me convoque pour voir Vargo,|et maintenant,
+{24295}{24324}cet oiseau...
+{24456}{24497}Petit salopard !
+{24599}{24700}Merde, Vinny, c'est ridicule.|Je peux pas écrire aussi petit.
+{24765}{24858}On pourrait pas voler un fax|et lui envoyer ?
+{24863}{24898}C'est pas le moyen âge !
+{25054}{25090}Je l'ai !
+{25278}{25342}Doucement, M. Poulet.
+{25542}{25596}Jésus-Marie-Joseph,|tiens-le bien !
+{25600}{25641}Je veux pas lui faire mal.
+{25788}{25844}Rentre chez toi, petit oiseau...
+{27206}{27281}Que se passe-t-il ?|Y a un truc qui va pas ?
+{28294}{28379}Reçu ton message.|On a un gros problème.
+{28383}{28441}Contacte-moi immédiatement.
+{29239}{29320}Voir le monde comme un rêve|est un bon point de vue.
+{29329}{29373}Quand on fait un cauchemar,
+{29377}{29481}on se réveille et on se dit|que ce n'était qu'un rêve.
+{29492}{29541}Il est dit|que le monde où nous vivons
+{29545}{29588}n'en diffère en rien.
+{31359}{31439}Petit morveux !|Tu veux qu'on monte ?
+{31479}{31522}Tu vas recevoir une trempe !
+{31587}{31618}Petit con !
+{31659}{31679}Enfoiré !
+{31733}{31779}Qu'est-ce que vous foutez ?
+{31785}{31856}Le gamin dit|que sa mère l'a enfermé,
+{31860}{31892}et maintenant il est furax.
+{31996}{32032}Vargo nous attend.
+{32037}{32102}Je crois que tu as|des problèmes plus gros, non ?
+{32152}{32226}Tu as dit que la fille était|dans le putain de bus.
+{32230}{32248}Alors ?
+{32252}{32279}Elle y était.
+{32295}{32364}J'en sais pas plus.|Allons-y. On est en retard.
+{33283}{33352}Ghost Dog !|De savoir à savoir.
+{34189}{34268}Parmi les maximes au mur|du seigneur Naoshige
+{34272}{34305}se trouvait celle-ci :
+{34317}{34400}"Les questions importantes|doivent être traitées légèrement. "
+{34404}{34451}Maître lttei commenta :
+{34455}{34542}"Celles sans importance|doivent être traitées sérieusement. "
+{34921}{34976}Ils sont dedans. Ils attendent.
+{35086}{35141}Condoléances pour Handsome Frank.
+{35240}{35288}Mes pensées t'accompagnent.
+{35293}{35329}Ils t'attendent.
+{35509}{35552}Mes regrets, pour Frank.
+{35597}{35647}Désolé pour ton neveu, petit.
+{35675}{35746}Ils l'ont buté !|Qu'est-ce qu'on y peut ?
+{35750}{35792}C'est la vie.
+{36108}{36152}Entre, ils t'attendent.
+{36446}{36514}Pardon d'être en retard,|M. Vargo, Sonny.
+{36533}{36607}M. Bonacelli a été...|retardé en chemin.
+{36681}{36708}Assieds-toi.
+{36930}{37001}Johnny, va dehors|fumer un clope.
+{37235}{37349}On a un grave problème, Louie.|Tu sembles directement responsable.
+{37353}{37391}Ton homme-mystère a merdé.
+{37400}{37458}Morini m'a dit|qu'il avait mis la nana...
+{37482}{37559}Ia fille de M. Vargo,|dans le bus.
+{37570}{37646}Mais elle est descendue|et est allée chez Handsome Frank.
+{37657}{37731}Tu voulais faire buter Frank.|C'est fait.
+{37745}{37780}De l'extérieur.
+{37827}{37917}J'ai tout monté :|pas de traces, rien.
+{37990}{38055}Morini a dit|qu'elle avait pris le bus.
+{38061}{38151}Bon Dieu, on a du pot|qu'il l'ait pas butée aussi.
+{38203}{38301}S'il l'avait fait, tu serais mort !
+{38355}{38402}C'est pas acceptable, Louie.
+{38406}{38456}Où est-elle ?|Elle n'a rien ?
+{38460}{38511}T'occupe pas|de la fille de M. Vargo.
+{38515}{38567}Il s'agit d'éliminer le fumier
+{38577}{38654}qui a buté Frank.|Frank était des nôtres.
+{38666}{38714}Son assassin doit être...
+{38718}{38800}neutralisé, effacé|de la surface de la planète.
+{38835}{38946}En quatre ans, ce type a exécuté|une douzaine de contrats parfaits.
+{38950}{39003}Parfaits. Un vrai fantôme.
+{39018}{39103}Il est précieux.|Impossible de remonter jusqu'à lui.
+{39119}{39174}Il ne savait pas|que quelqu'un était là
+{39181}{39238}quand il a liquidé Frank,|ou il aurait annulé.
+{39242}{39328}Une chose est sûre,|il savait pas qu'elle était là.
+{39340}{39390}Si tu veux pas|être enterré avec Frank,
+{39394}{39481}dis-nous tout ce que tu sais|de ce fantôme,
+{39488}{39547}de ce tueur|impossible à repérer.
+{39673}{39722}Je le paie pas au contrat.
+{39731}{39783}Je dois le payer|une fois par an,
+{39787}{39854}Ie premier jour de l'automne.|C'est comme ça.
+{39870}{39963}Ce jour-là, je règle|les contrats de l'an écoulé.
+{40156}{40246}Oublions ça pour le moment.|Où habite-t-il ?
+{40262}{40322}J'en sais rien.|C'est un autre truc bizarre.
+{40326}{40373}Je peux pas l'appeler,
+{40377}{40450}il me contacte que par...|un oiseau.
+{40518}{40578}Depuis que je lui donne|des contrats,
+{40582}{40632}I'oiseau vient chaque jour.
+{40644}{40689}Attends.
+{40710}{40791}Tu dis qu'il te contacte|par un putain d'oiseau ?
+{40795}{40824}J'ai bien entendu ?
+{40877}{40919}Exactement quelle espèce
+{40951}{40985}d'oiseau ?
+{41012}{41047}Un pigeon.
+{41058}{41113}Un genre de pigeon voyageur.
+{41117}{41213}Un pigeon migrateur !|C'est une espèce disparue
+{41217}{41274}depuis 1 91 4 !
+{41283}{41311}Merde, je rêve ?
+{41376}{41419}Laisse tomber l'oiseau.
+{41439}{41472}Je te pose une question.
+{41484}{41538}Ce type mystérieux,|de quoi il a l'air ?
+{41542}{41591}Tu peux me le dire, non ?
+{41620}{41689}Un grand mec. Un grand Noir.
+{41760}{41820}Il dit que c'est un nègre !
+{41886}{41962}Il y a huit ans,|j'ai vu un mec, ce mec-là,
+{41966}{42035}c'était plutôt un gosse,|en mauvaise posture.
+{42231}{42263}Y a un truc qui va pas ?
+{42267}{42297}Alors, j'ai...
+{42358}{42397}arrangé le coup.
+{42644}{42722}Puis, il y a quatre ans,
+{42729}{42790}ce grand Noir débarque chez moi.
+{42794}{42845}Un pigeon sur l'épaule.
+{42854}{42949}Va savoir comment il m'a retrouvé.|Il dit qu'il est mon obligé.
+{42967}{43015}Je l'ai vu qu'une fois après ça,
+{43019}{43100}et on a conclu cet arrangement.
+{43115}{43167}Très touchant, Louie.
+{43171}{43261}Laisse-moi|revenir en arrière un instant.
+{43271}{43326}L'oiseau vient chez toi|chaque jour.
+{43354}{43379}Et aujourd'hui ?
+{43383}{43444}Oui, il était là ce matin.
+{43449}{43494}Il avait un message ?
+{43503}{43585}Le même que d'habitude :|"Mission accomplie."
+{43627}{43686}Tu as renvoyé un message ?
+{43827}{43925}Tu m'avais convoqué, j'ai pensé|qu'il valait mieux ne rien faire.
+{43937}{43972}Tu as essayé|de suivre l'oiseau ?
+{44022}{44099}De lui mettre un mouchard,|ce genre de truc ?
+{44146}{44230}Non. Je n'ai jamais eu|de raison de faire ça.
+{44253}{44383}Je sais que mon arrangement|avec ce type est un peu bizarre,
+{44387}{44449}mais il m'a toujours|montré du respect.
+{44466}{44522}Un nouveau siècle s'annonce.
+{44526}{44625}M. Vargo veut que toute la famille|se fasse une priorité
+{44629}{44677}de l'élimination de ce barge.
+{44698}{44748}C'est un professionnel.
+{44757}{44817}S'en prendre à lui|peut être très dangereux.
+{44836}{44949}Handsome Frank était des nôtres,|alors on va dégommer ce nègre.
+{45043}{45096}Plutôt lui que toi, hein, Louie ?
+{45219}{45273}Alors merde, c'est quoi son nom ?
+{45304}{45327}Ghost Dog.
+{45543}{45585}Il a dit Ghost Dog !
+{45601}{45656}Oui, il se fait appeler Ghost Dog.
+{45660}{45740}Aujourd'hui, plein de Noirs,|le genre gangsta,
+{45744}{45801}s'inventent des noms comme ça.
+{45805}{45835}C'est vrai ?
+{45870}{45902}Comme les rappers.
+{45913}{45959}Ils ont tous des noms comme ça.
+{45963}{46035}Snoop Doggy Dogg, lce Cube,|Q. Tipp, Method Man.
+{46047}{46106}Mon préféré, c'est Flavor Flav,|de Public Enemy.
+{46315}{46368}- J'adore ce mec.|- J'y connais rien,
+{46382}{46479}mais ça me fait penser aux lndiens.|Ils ont des noms comme...
+{46493}{46594}Red Cloud, Crazy Horse,|Running Bear,
+{46612}{46646}Black Elk.
+{46807}{46841}Ce genre de connerie.
+{46845}{46929}Indiens, nègres,|du pareil au même !
+{47120}{47138}Va chercher
+{47142}{47200}Sammy the Snake, Joe Rags,|Big Angie.
+{47207}{47243}Ramène-les ici.
+{53022}{53063}C'est ton chien ?
+{53145}{53193}Je croyais qu'il était à toi.
+{53453}{53478}Quoi ?
+{53579}{53622}Il te quitte pas des yeux.
+{53637}{53673}Il veut peut-être ma glace.
+{53693}{53720}Je ne crois pas.
+{54044}{54138}S'il t'embête, dis-lui simplement|de s'en aller.
+{54195}{54218}Va-t'en.
+{54336}{54384}Je t'ai déjà vu.
+{54402}{54468}Tu as toujours cette mallette.
+{54472}{54565}Tu vis dans la baraque sur le toit|de l'immeuble en face de chez moi.
+{54569}{54623}Là où il y a les oiseaux.
+{54635}{54758}Maman dit que tu parles jamais|à personne et que t'as pas d'amis.
+{54779}{54809}Je connais pas ta maman.
+{54813}{54850}Mais c'est vrai ?
+{54893}{54942}Que tu parles jamais à personne ?
+{54981}{55024}Je te parle, non ?
+{55415}{55468}Tu as ton déjeuner,|dans cette boîte ?
+{55488}{55565}- Tu as quoi, dans ta mallette ?|- J'ai demandé le premier.
+{55586}{55651}Non, pas mon déjeuner.
+{55677}{55743}Mes livres. Tu veux voir ?
+{55900}{55943}Le Vent dans les saules.
+{55972}{56004}Je l'ai lu.
+{56050}{56125}Manoir Crapaud et le reste.|Formidable.
+{56159}{56196}Tu l'as vraiment lu !
+{56280}{56325}L'Ame du peuple noir.
+{56385}{56447}J'ai lu ça aussi.|Qui te l'a donné ?
+{56464}{56523}Mlle Andrews, ma prof.
+{56527}{56589}Je n'ai pas tout lu,|mais je compte le faire.
+{56622}{56650}Tu as le temps.
+{56774}{56796}Infirmière de nuit.
+{56917}{56937}Tu as lu ça ?
+{56951}{57017}Non. Mais j'aime la couverture.
+{57159}{57185}Frankenstein.
+{57201}{57227}Ca, c'est un bon livre.
+{57243}{57291}Je sais. Meilleur que le film.
+{57305}{57332}Tu trouves, toi aussi ?
+{57373}{57400}Je peux le voir ?
+{57558}{57637}"ll sauta par le hublot...
+{57656}{57766}"sur le radeau de glace|qui était contre le navire.
+{57799}{57867}"ll fut rapidement emporté|par les vagues
+{57874}{57936}"et se perdit dans l'obscurité
+{57953}{57986}"et le lointain."
+{58007}{58083}C'est tout à la fin !|Raconte pas la fin.
+{58099}{58130}Le monstre...
+{58152}{58184}Frankenstein.
+{58540}{58638}Rashômon. De quoi ça parle ?
+{58701}{58747}Tu peux le prendre.
+{58765}{58851}Promets-moi qu'après l'avoir lu,|tu me diras ce que tu en penses.
+{58902}{58923}D'accord.
+{59025}{59107}Alors, c'est vrai|que t'as pas d'amis ?
+{59200}{59250}Mon meilleur ami est là-bas.
+{59270}{59314}Tu veux le connaître ?
+{59326}{59355}Je vois personne.
+{59375}{59441}Là-bas,|le camion du marchand de glaces.
+{59445}{59466}Ca va pas ?
+{59481}{59567}Tu me crois débile ? J'y vais pas,|je te connais à peine.
+{59602}{59627}Comme tu veux.
+{59708}{59741}Bon, d'accord.
+{59765}{59840}Pearline ! Où vas-tu comme ça ?
+{59844}{59872}Chercher une glace.
+{59887}{59928}Je reviens tout de suite !
+{60507}{60561}Mon meilleur ami, Raymond.
+{60565}{60625}Raymond, voici...|Pearline, c'est ça ?
+{61227}{61274}Chocolat. Mon parfum préféré.
+{61280}{61321}Le mien aussi.
+{61561}{61613}Quelle langue il parle ?
+{61617}{61642}Français.
+{61674}{61698}Uniquement.
+{61714}{61747}Tu comprends le français ?
+{61762}{61846}Seulement l'anglais. Je ne comprends|pas un mot de ce qu'il dit.
+{61931}{61967}Et c'est ton meilleur ami ?
+{62305}{62323}Des ours ?
+{63147}{63182}De quoi il parle ?
+{63197}{63233}Des ours, je suppose.
+{63321}{63374}Ecoute, je dois partir.
+{63390}{63436}J'ai des affaires à régler.
+{63676}{63706}Pour les glaces.
+{63844}{63882}Le livre que je t'ai donné.
+{63892}{63957}Lis-le|et dis-moi ce que tu en penses.
+{65311}{65350}Il est chargé, ce con d'engin ?
+{65417}{65444}Allons-y.
+{65569}{65587}C'est lui ?
+{65602}{65630}Je le flingue ?
+{65634}{65668}Non, c'est pas lui.
+{65672}{65742}- Vargo a parlé d'un Noir.|- Et lui, il est quoi ?
+{65757}{65784}T'es quoi, portoricain ?
+{65801}{65848}Je crois|que c'est un genre d'lndien.
+{65863}{65897}Alors, t'es quoi ?
+{66048}{66064}Cayuga.
+{66100}{66167}Cayuga ? Qu'est-ce que c'est|que cette merde ?
+{66179}{66247}Portoricain, lndien, nègre,|même combat.
+{66256}{66300}Flinguons-le,|pour être sûrs, pour M. Vargo.
+{66304}{66338}On a pas le feu vert.
+{66351}{66434}Tirons-nous.|Je veux trouver le vrai salopard.
+{66648}{66679}Connard de Blanc.
+{66687}{66714}T'as dit quoi ?
+{66739}{66793}J'ai dit : connard de Blanc.
+{66797}{66860}Enculé de nègre rouge,|Sitting Bull de neige !
+{66864}{66959}Tu te contrôles plus.|Foutons le camp.
+{66963}{66986}Cayuga, mon cul !
+{67003}{67052}Apprends à fermer ta gueule,
+{67077}{67122}ou je t'explose la cervelle.
+{67141}{67177}Pauvre con.
+{69804}{69847}Selon les paroles d'un ancien,
+{69851}{69957}attaquer un ennemi, c'est comme|un faucon qui fond sur un oiseau.
+{69961}{70029}Bien qu'il plonge|parmi un millier d'oiseaux,
+{70033}{70143}il ne prête attention|qu'à celui qu'il a d'abord choisi.
+{70464}{70510}Qu'est-ce qui se passe, les gars ?
+{70867}{70893}Merde.
+{70939}{70960}C'est pas lui.
+{70975}{71024}Qu'est-ce que t'en sais ?
+{71039}{71074}Je le sens pas.
+{71078}{71153}Bon, il a des ailes,|qu'il vole avec ses pigeons.
+{71157}{71205}Vargo a dit, si ça lui ressemble,
+{71209}{71262}descendez-le tout de suite.
+{71267}{71303}Je sais. Allons-y.
+{71307}{71370}J'ai un truc à faire pour Sonny.
+{73889}{73915}Merde.
+{73922}{73973}Je savais que ce serait toi.
+{74214}{74300}Tu vas me tuer ?|Tu peux aussi bien me tuer.
+{74304}{74343}Je suis ton vassal.
+{74365}{74467}J'obéis à un code.|Tu as toujours eu mon respect.
+{74471}{74546}Et tu me braques|ce flingue sur la tempe ?
+{74567}{74598}Pardonne-moi.
+{74620}{74674}Je ne veux pas|te manquer de respect.
+{74681}{74734}Comment m'as-tu trouvé ici ?
+{74753}{74797}Tu m'as convoqué.
+{74876}{74963}On dirait que tout change|autour de nous, pas vrai, Louie ?
+{74967}{75012}Ca, tu peux le dire.
+{75081}{75180}Avec ce mec, l'autre nuit,|il y avait une fille ?
+{75184}{75230}On m'a pas dit|d'éliminer une fille.
+{75234}{75294}Je sais. Seulement,
+{75325}{75417}tout s'est compliqué entre-temps.
+{75502}{75554}Ils vont te buter, Ghost Dog.
+{75567}{75641}S'ils te trouvent pas,|ils me buteront à ta place.
+{75649}{75696}Ils me buteront de toute façon.
+{75700}{75725}Ray Vargo ?
+{75729}{75774}Toute la famille te cherche.
+{75778}{75822}Et le lieutenant, Sonny Valerio ?
+{75826}{75881}Bien sûr. Il tire toutes...
+{75938}{76016}Comment t'en sais si long|sur l'organisation ?
+{76022}{76057}Qui était la fille ?
+{76099}{76177}Oublie-la.|Je peux pas en parler.
+{76184}{76298}J'essaie de te prévenir qu'ils vont|te tuer. Et peut-être moi aussi.
+{76302}{76352}Plutôt moi que toi, Louie.
+{76363}{76483}A cette minute,|je suis obligé d'être d'accord.
+{76529}{76565}Pardon d'être en retard.
+{76582}{76640}Je regrette vraiment de...
+{76725}{76814}Nom de Dieu ! Tu as tué Morini.
+{76829}{76877}C'est le beau-frère de Valerio !
+{76889}{76952}Il avait une arme,|il allait te descendre.
+{76991}{77022}Vois s'il est mort.
+{77327}{77382}Je crois|qu'il ne vieillira pas plus.
+{77404}{77428}Retourne-le.
+{77687}{77748}Maintenant,|tu ferais mieux de me tuer.
+{77789}{77846}Je pourrai jamais expliquer ça.
+{77924}{77965}Putain de Morini.
+{77998}{78039}Bon, descends-moi.
+{78044}{78087}Vas-y, tue-moi tout de suite.
+{78100}{78189}Je suis ton vassal. Te tuer serait|contre le code du samouraï.
+{78199}{78310}Si tu es mon vassal, quoi que ça|puisse être, obéis et descends-moi !
+{78487}{78525}Pourquoi t'as fait ça ?
+{78529}{78554}Tu me l'as dit.
+{78615}{78667}Je ne voulais pas|te manquer de respect.
+{78706}{78798}Tu pourras dire que|je vous ai attaqués tous les deux.
+{78867}{78913}Surveille ton dos, Ghost Dog !
+{78959}{78989}Comme tu disais,
+{79002}{79095}on dirait que tout...|change autour de nous.
+{79238}{79282}Rien n'a plus de sens.
+{79819}{79847}Je prends ton cavalier.
+{80503}{80532}Tu parles de glaces ?
+{82130}{82167}C'est stupéfiant.
+{82214}{82288}Comment il va faire|pour le descendre de là ?
+{82675}{82719}Je ne comprends pas !
+{82723}{82773}Je continue mon travail.
+{83130}{83230}J'y vais. J'ai des affaires à régler,|et le soleil va se coucher.
+{86774}{86810}Selon les anciens,
+{86823}{86933}on doit prendre ses décisions|dans l'espace de sept respirations.
+{86950}{87001}Il s'agit d'être résolu
+{87005}{87096}et d'avoir assez de courage|pour franchir le pas.
+{88100}{88155}Tu peux me rendre un service.
+{89944}{90031}Et maintenant,|ma dernière invention.
+{90066}{90129}Je peux changer des diamants
+{90183}{90223}en bonbons !
+{90243}{90320}Mais vous croyez|queje suis heureux ?
+{90335}{90401}Non. Je suis frustré, frustré !
+{90469}{90518}Vous demandez pourquoi ?
+{90522}{90607}Felix le Chat|et son sac à malice !
+{90615}{90651}C'est de la magie !
+{90655}{90697}Je vais faire un canoë.
+{90728}{90784}De la magie,|encore de la magie !
+{91038}{91120}Je croyais qu'on avait vu ça hier.|Qu'est-ce qui te prend ?
+{91124}{91179}Tout ce que je veux,|c'est mon argent.
+{91183}{91278}Il y a du monde.|On en parlera une autre fois.
+{91299}{91352}A chaque fois,|je dois venir chercher mon loyer.
+{91356}{91451}Trois mois.|C'est tous les trois mois !
+{91685}{91719}Ca chatouille !
+{91742}{91774}C'est pas le moment.
+{91778}{91857}J'ai des problèmes plus graves.|J'arrange ça demain.
+{91866}{91960}Paie-moi demain, ou je te jure|que je fais venir les flics.
+{91967}{92022}Trois mois de loyer !
+{92053}{92114}C'est quoi, votre combine ici ?
+{93128}{93204}Le chef non plus|n'a pas trop gobé ton histoire.
+{93208}{93320}Morini, c'était la famille.|C'était aussi mon beau-frère.
+{93328}{93370}Je suis triste|de ce qui est arrivé.
+{93374}{93428}Mais merde, j'ai pris une balle !
+{93441}{93490}Tu crois que j'invente ?
+{93496}{93559}Je sais pas ce que je crois !
+{93779}{93870}Joe, Snake. Allez au garage|chercher des voitures.
+{93874}{93941}Demain matin,|vous emmenez M. Vargo et l'équipe
+{93945}{93998}à son château dans les bois.
+{94010}{94038}Tout de suite ?
+{94048}{94111}Non, la semaine prochaine. Allez !
+{94292}{94334}Pigeon migrateur !
+{94383}{94414}Attrapez-le !
+{94572}{94615}Je l'ai. Tiens.
+{94619}{94683}Emmène ce rat volant.|Je veux pas le voir près de moi.
+{94687}{94738}Enlève le message.
+{94871}{94909}Renvoie-le chez lui.
+{95356}{95389}Ca dit...
+{95393}{95473}"Si la tête d'un samouraï|est subitement tranchée,
+{95493}{95564}"il doit pouvoir accomplir|une dernière action
+{95586}{95627}"avec assurance."
+{95684}{95743}Ca veut dire quoi, bordel ?
+{95781}{95820}C'est de la poésie.
+{95828}{95898}La poésie de la guerre.
+{96073}{96175}Même si la tête d'un samouraï|est subitement tranchée,
+{96186}{96300}il doit pouvoir accomplir|une dernière action avec assurance.
+{96326}{96394}S'il devient|pareil à un fantôme vengeur
+{96398}{96450}et montre|une grande détermination,
+{96454}{96554}même la tête coupée,|il ne devrait pas mourir.
+{101159}{101206}Passez dans la ruelle.
+{102940}{103028}Il est bon de porter|de la poudre rouge dans sa manche.
+{103037}{103117}Il peut arriver, quand|il cuve son vin ou se réveille,
+{103121}{103180}qu'un samouraï|ait mauvaise mine.
+{103184}{103304}Il est alors bon de sortir du rouge|et de se farder.
+{108957}{108986}Plan B.
+{109505}{109577}Quand on a pris la décision|de tuer quelqu'un,
+{109581}{109686}même si l'action immédiate|présente de graves difficultés,
+{109690}{109782}il ne sert à rien|d'user de voies détournées.
+{109802}{109874}La Voie du Samouraï|est celle de l'immédiateté,
+{109878}{109943}il faut foncer tête baissée.
+{110082}{110129}Je m'appelle Bob Solo.
+{110133}{110209}De Westside Realty.|J'ai rendez-vous avec M. Vargo.
+{110226}{110283}Comment vous avez|franchi la grille, M. Solo ?
+{110300}{110370}M. Valerio m'a donné le code.
+{110374}{110451}C'est important.|J'ai peut-être un acheteur.
+{110455}{110512}Tu sais quoi ?|Va te renseigner, Sammy.
+{110527}{110589}Je vais rester avec M. Solo.
+{110684}{110727}Je peux me dégourdir les jambes ?
+{110736}{110796}Restez dans la voiture, M. Solo.
+{110938}{110978}Si je vous donnais ma carte ?
+{112343}{112404}C'est le putain d'oiseleur !
+{112969}{113013}Je t'attendais.
+{113854}{113900}Encore vous.
+{113984}{114028}Vous avez emprunté mon livre.
+{114713}{114778}Merde ! Tu m'as tiré dessus !
+{114788}{114826}Pile au même endroit !
+{114830}{114911}Je suis ton vassal.|Je ne veux pas te manquer de respect.
+{114934}{114994}Et je ne veux pas|te faire trop de trous.
+{115078}{115121}Où est Sonny Valerio ?
+{115409}{115439}A plus tard.
+{115569}{115597}Vinny ?
+{115688}{115731}Ici, Louie !
+{116679}{116740}Sacré gros ours|que vous avez tué là.
+{116804}{116867}Ce salopard|fait bien ses 1 50 kilos.
+{116925}{117030}C'est marrant... je savais pas que|la chasse aux ours était ouverte.
+{117062}{117141}T'es un garde-chasse ?|Un genre d'agent fédéral ?
+{117206}{117267}Non. Je demande comme ça.
+{117291}{117326}Je vais te dire.
+{117346}{117450}Il y a plus beaucoup|de ces gros salauds noirs par ici.
+{117465}{117563}Quand on en a un dans le viseur,|on le loupe pas.
+{117612}{117651}Vous les tuez pour ça ?
+{117698}{117745}Parce qu'il y en a plus beaucoup ?
+{117783}{117833}Je comprends pas bien ta question.
+{117872}{117923}Il y a pas beaucoup
+{117930}{117978}de gens de couleur non plus,|par ici.
+{118013}{118077}Tu devrais remonter|dans ta belle auto et filer.
+{118180}{118219}Vous avez peut-être raison.
+{118424}{118480}Tu m'as éclaté le genou !
+{118558}{118615}Dans les cultures anciennes,
+{118625}{118682}Ies ours étaient|les égaux des hommes.
+{118726}{118796}Ici, c'est pas une culture ancienne.
+{118862}{118906}Parfois, ça l'est.
+{118966}{119049}Nos corps|reçoivent la vie du néant.
+{119058}{119134}Exister là où il n'y a rien|est le sens de la phrase
+{119138}{119178}"la forme est vide".
+{119190}{119282}Le néant pourvoit à toutes choses,
+{119286}{119375}c'est le sens de la phrase|"le vide est forme".
+{119385}{119462}On ne doit pas voir là|deux choses différentes.
+{119869}{119896}Tu sais, Louie...
+{119917}{119981}ce Ghost Dog a une qualité.
+{120007}{120043}Laquelle ?
+{120057}{120113}Il nous expédie à l'ancienne.
+{120170}{120230}Comme de vrais gangsters.
+{120272}{120310}Tiens bon.
+{120317}{120356}Tu vas t'en tirer.|Accroche-toi.
+{120559}{120638}Bon Dieu. Putains de flics.
+{121089}{121136}Restez à l'intérieur du véhicule.
+{121144}{121242}Pourquoi en ville, on voit jamais|un flic, et dès qu'on en sort,
+{121249}{121307}ils nous tombent dessus|comme la Gestapo ?
+{121314}{121373}Comme dans un con|de pays étranger !
+{121468}{121537}Mon ami va très mal.|Faut qu'on l'emmène à l'hosto.
+{121541}{121588}- Qu'avez-vous au bras ?|- Je vais bien.
+{121592}{121646}C'est mon ami.|Je dois l'emmener à l'hosto.
+{121661}{121707}Permis et carte grise !
+{121711}{121743}On a pas le temps, madame !
+{121747}{121798}Me cherchez pas,|je suis pas d'humeur !
+{121802}{121857}Restez dans le véhicule.
+{122011}{122048}Génial.
+{122295}{122346}Qu'est-ce que tout ça veut dire ?
+{122445}{122479}Barrons-nous.
+{122864}{122954}Vin, tu viens de refroidir une femme,|t'es au courant ?
+{123001}{123124}Tu sais ce que t'es, Louie ?|Un salaud de phallocrate.
+{123140}{123215}Comment ça,|un salaud de phallocrate ?
+{123229}{123261}Tu viens de buter|une gonzesse !
+{123272}{123351}Un flic.|Je viens de buter un flic.
+{123380}{123429}Elles veulent l'égalité ?
+{123448}{123495}Je lui donne l'égalité.
+{123920}{123953}Vin, tu es toujours là ?
+{125154}{125210}Ca fait un moment|que je t'ai pas vu.
+{125556}{125598}La petite Pearline ?
+{125789}{125886}Elle voulait me rendre le livre.|Je me demande ce qu'elle en a pensé.
+{125910}{126032}Il est un peu grand, mais tu connais|des tailleurs haïtiens,
+{126036}{126090}ils sauront le retoucher pour toi.
+{126186}{126207}Oui. Pour toi.
+{126399}{126494}Il n'existe rien que le but unique|du moment présent.
+{126514}{126614}Toute la vie d'un homme|est une succession de moments.
+{126625}{126680}Si l'on comprend|le moment présent,
+{126684}{126775}il n'y aura rien d'autre à faire,|et rien d'autre à poursuivre.
+{130274}{130333}Ma putain de Jaguar ! Merde !
+{130426}{130462}Vous avez un téléphone ?
+{132682}{132767}Il y a quelque chose|à apprendre d'une averse.
+{132774}{132822}Surpris par une averse,
+{132826}{132917}on essaie de ne pas se mouiller|et on se hâte sur la route.
+{132925}{133023}En faisant des choses telles que|passer sous l'auvent des maisons,
+{133027}{133068}on est quand même mouillé.
+{133075}{133163}Si l'on est résolu dès le départ,|on ignorera l'hésitation,
+{133167}{133224}dût-on être trempé|de la même façon.
+{133245}{133347}Cette compréhension|s'étend à toutes choses.
+{139555}{139633}Il est dit que ce qu'on appelle|"l'esprit d'une époque"
+{139637}{139698}est une chose à quoi|on ne peut revenir.
+{139710}{139763}Si cet esprit|se dissipe peu à peu,
+{139767}{139834}c'est que le monde|approche de sa fin.
+{139838}{139927}Aussi, même si l'on souhaite|changer le monde d'aujourd'hui
+{139931}{140002}et revenir à l'esprit|d'il y a cent ans ou plus,
+{140006}{140053}cela ne se peut.
+{140069}{140174}Il faut donc tirer le meilleur parti|de chaque génération.
+{140973}{141023}Ghost Dog. Pouvoir et égalité.
+{141027}{141074}Tu vois toujours tout, mon frère.
+{142119}{142154}Tu as l'air inquiet.
+{142554}{142592}Ne t'inquiète pas.
+{142600}{142626}Ce n'est rien.
+{142645}{142676}Tout va bien.
+{142689}{142763}Je dois aller|à l'intérieur du camion.
+{143710}{143730}Tourne-toi.
+{143775}{143810}Retourne-toi.
+{144701}{144752}Non, merci. Je n'ai pas faim.
+{144775}{144818}Tiens, je veux te donner ça.
+{144922}{144977}Je ne veux pas que tu t'inquiètes.
+{145013}{145067}Ne t'inquiète de rien.
+{145085}{145141}Tout arrive pour une raison.
+{145196}{145294}Tu sais, le type qui est venu,|avec le bras dans le plâtre ?
+{145421}{145461}Je le connais.
+{145477}{145510}Il s'appelle Louie.
+{145552}{145593}Je suis son vassal.
+{145654}{145705}Une fois, il y a longtemps,
+{145724}{145763}il m'a tiré d'affaire.
+{145975}{146019}Je suis son obligé.
+{146091}{146111}Un samouraï
+{146124}{146210}doit toujours rester|fidèle à son maître,
+{146229}{146264}quoi qu'il arrive.
+{146308}{146392}Enfin, lui et moi, on est
+{146397}{146467}de deux tribus anciennes.
+{146471}{146567}Maintenant,|toutes deux ont presque disparu.
+{146701}{146742}Parfois,
+{146774}{146833}il faut s'en tenir|aux voies anciennes.
+{146892}{146935}De la vieille école.
+{147011}{147061}Je sais que tu me comprends.
+{147287}{147330}Il y a quelqu'un là-dedans ?
+{147533}{147626}Non. Mais merci.|Je n'ai pas vraiment faim.
+{147736}{147770}Je t'ai rapporté ton livre.
+{147774}{147850}Je l'avais fini,|mais je ne t'ai pas vu.
+{147900}{147931}Qu'est-ce que tu en as pensé ?
+{147957}{148019}J'ai aimé les six histoires.
+{148024}{148095}Le Japon ancien|était un endroit assez bizarre.
+{148106}{148168}J'ai surtout aimé la première,
+{148173}{148235}où c'est...|comme une seule histoire,
+{148239}{148314}mais où chaque personnage|voit une autre histoire.
+{148318}{148357}Celle-là est vraiment bien.
+{148361}{148393}Yabu no naka.
+{148402}{148449}C'est ma préférée aussi.
+{148476}{148534}Merci de me l'avoir rapporté,
+{148538}{148581}et merci pour tes remarques.
+{148664}{148700}Rends-moi un service.
+{148852}{148878}Prends ce livre...
+{148915}{148957}et lis-le un de ces jours.
+{148982}{149018}Enfin, pas tout de suite.
+{149110}{149142}Il est bien ?
+{149243}{149282}Moi, il m'a beaucoup plu.
+{149358}{149427}Ce n'est pas exactement|une histoire, plutôt...
+{149666}{149707}Tu devrais rentrer.
+{150299}{150340}Qu'est-ce que c'est, Louie ?
+{150400}{150443}Le train sifflera trois fois ?
+{150528}{150582}Le duel final ?
+{150651}{150685}Faut croire.
+{150781}{150822}C'est très dramatique.
+{150952}{150996}Et je comprends.
+{151018}{151078}Tu dois venger|la mort de tes chefs.
+{151941}{151957}Approchez pas !
+{152107}{152140}N'approche pas !
+{152900}{152965}Maintenant,|tu vas être le chef de ton clan.
+{153056}{153085}Parce que...
+{153094}{153142}il ne reste personne d'autre,
+{153152}{153193}pas vrai, Louie ?
+{153224}{153280}Non, pas exactement.
+{153616}{153638}Bougez pas !
+{153871}{153907}C'est comme tu disais.
+{153919}{153963}Plutôt toi que moi.
+{154012}{154064}Rien n'a plus de sens.
+{154099}{154143}C'est bon, Louie.
+{154236}{154293}J'ai vu tout|ce que j'ai besoin de voir.
+{154432}{154503}Rends-moi tout de même un service.
+{154537}{154578}Qu'est-ce que je dois faire ?
+{154636}{154676}Prends ce livre.
+{154714}{154764}Lis-le un de ces jours.
+{154790}{154822}Et plus tard...
+{154851}{154905}tu me diras ce que tu en penses.
+{156507}{156543}Foutons le camp.
+{156611}{156647}C'est mon livre.
+{156655}{156714}Non, Mlle Vargo.|Ce type me l'a donné.
+{156727}{156762}Ghost Dog.
+{156817}{156852}On peut y aller ?
+{156856}{156916}Ca se passe dans le Japon ancien.
+{157022}{157049}Vous devriez le lire.
+{157495}{157532}On peut y aller.
+{158821}{158884}Pearline, tu me gênes.
+{158933}{158993}Va lire à côté.
+{159453}{159497}Dans la région de Kamigata,
+{159501}{159563}il y a une sorte|de coffret à repas
+{159567}{159654}qui sert pour unejournée,|quand on va admirer les fleurs.
+{159658}{159767}Au retour,|on lejette et on le piétine.
+{159796}{159879}La fin est importante|en toutes choses.
+{166070}{166134}Traduction : Eisenschitz - Louit
+{166228}{166310}Sous-titrage vidéo : C.M.C.

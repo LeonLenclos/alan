@@ -1,0 +1,959 @@
+{460}{532}LES MILLE ET UNE NUITS
+{3070}{3142}"La vérité n'est pas|dans un seul rêve,
+{3147}{3200}"mais dans nombre de rêves"
+{3295}{3392}Qui lance les enchères pour|cette esclave, la dame des lunes ?
+{3397}{3480}Personne ici|ne masse mieux qu'elle :
+{3485}{3530}ses massages de la tête
+{3535}{3577}font dormir comme des loirs.
+{3582}{3670}Ses massages aux jambes|font bondir comme des chevreaux,
+{3690}{3770}et comme dit le poète|"la masseuse
+{3775}{3815}"est au-dessus des sages
+{3820}{3860}"et tient sous sa main
+{3862}{3905}"les têtes des rois."
+{3910}{3945}500 dinars !
+{3947}{3980}Moi 600 !
+{3987}{4017}700 dinars !
+{4040}{4125}Tu as entendu dame des lunes ?|Il offre 700 dinars.
+{4140}{4177}Tu le veux pour maître ?
+{4180}{4252}Sûrement pas cet homme|poilu comme un singe !
+{4260}{4310}Je la prends pour 800 dinars.
+{4327}{4410}S'il était bon maître,|Dieu ne l'aurait pas fait borgne !
+{4437}{4477}Comment oses-tu ?
+{4492}{4545}Maudit vendeur,|qu'est-ce que tu as amené au marché ?
+{4555}{4670}Je n'y peux rien. Le patron|lui permet de choisir son acheteur.
+{4682}{4710}Mille dinars.
+{4732}{4822}Qu'est-ce que tu attends ? C'est un prix de roi !|Tu veux bien de ce vieux ?
+{4920}{4970}Tu as là un bâton en cire molle !
+{4975}{5025}Quand tu dors, il se lève
+{5032}{5135}et quand tu te lèves, il dort.|Dieu aie pitié de qui est près de toi !
+{5142}{5167}Vendeur !
+{5172}{5220}Tu oses amener une esclave
+{5225}{5272}qui se moque de nous et qui nous humilie
+{5292}{5330}ouvertement
+{5337}{5377}par ses idioties !
+{5420}{5465}Excusez-moi encore !
+{5590}{5627}Je ne veux être vendue
+{5632}{5675}qu'à ce garçon là-bas !
+{5680}{5710}A moi ?
+{5775}{5827}Mais ce garçon n'a pas un sou !
+{5832}{5855}Tu es sûre ?
+{5872}{5937}Lui seul sera mon maître|parce qu'il a il a les joues lisses
+{5942}{5982}et ses beautés éblouissent.
+{5992}{6055}Allons ! Courage jeune homme !
+{6060}{6110}Achète-la puisqu'elle t'a choisi.
+{6135}{6150}Viens,
+{6155}{6197}avance, elle est à toi !
+{6535}{6590}Prends ma main,|emmène-moi dans la petite rue.
+{6752}{6782}Prends cette bourse.
+{6790}{6832}- Ensuite ?|- Donne mille au vendeur.
+{6840}{6927}Avec le reste loue une maison|dans le quartier des charpentiers.
+{9320}{9385}Pas là idiot... pas comme ça.
+{9420}{9492}Je ne sais pas y faire, aide-moi.
+{9940}{9980}Cesse de jouer Barsoum.|Viens là !
+{10037}{10075}Viens là, vite !
+{10632}{10687}Noureddine, réveille-toi. Viens !
+{10705}{10752}Qu'est-ce qu'il y a mon amour ?
+{10912}{11002}C'est toi qui l'as fait ?|Tu as travaillé toute la nuit ?
+{11065}{11080}Regarde !
+{11295}{11362}Porte cette toile au marché|et vends-la
+{11367}{11402}200 dinars.
+{11410}{11457}Mais écoute bien,
+{11462}{11535}ne la vends pas|à un homme aux yeux bleus.
+{11560}{11615}A aucun prix, tu as compris ?
+{11655}{11720}J'ai peur que quelque chose|nous sépare.
+{11722}{11795}Je suis en sueur.|J'ai comme une ombre dans le cœur.
+{11805}{11865}Je suis là, sois tranquille.
+{12200}{12227}Regardez comme c'est beau !
+{12240}{12285}Ce n'est pas beau seigneur ?
+{12300}{12377}C'est le travail de mains habiles.|Qui l'a fait ?
+{12397}{12435}Une esclave qui tisse pour moi.
+{12440}{12465}Je veux l'acheter.
+{12480}{12540}Je pourrais vendre l'âme|qui est dans mon corps.
+{12557}{12612}Je plaisante !|Prenez cette toile.
+{12622}{12647}Et donnez-moi 200 dinars.
+{12655}{12680}J'en offre 1000.
+{12825}{12890}Je ne peux pas la vendre|à un homme aux yeux bleus.
+{12895}{12965}C'est une affaire !|Tu serais bête de refuser.
+{13045}{13100}Donne-moi les mille dinars|mais reste à l'écart !
+{13860}{13897}Chrétien,|tu me suis comme un chien.
+{13907}{13975}Je veux seulement|quelque chose à manger.
+{13980}{14025}Il n'y a rien ici, va-t'en !
+{14040}{14120}Qui refuse à manger|est ingrat envers Dieu.
+{14592}{14630}Qu'est-ce qu'il y a ?
+{14657}{14685}Qu'est-ce que tu lis ?
+{14707}{14730}Ecoute,
+{15852}{15940}"Mon œil la vit pour mon malheur
+{15945}{16030}"et je fus pris d'angoisse|à devoir la quitter."
+{16222}{16270}Poètes de ma cour !
+{16277}{16345}Voyons s'il est vrai|que les poètes savent parler
+{16350}{16405}des choses qu'ils n'ont pas vues.
+{16407}{16480}Faites-moi une poésie|qui commence comme ça
+{16482}{16542}"Mon œil la vit pour mon malheur
+{16550}{16615}"et je fus pris d'angoisse|à devoir la quitter."
+{16617}{16645}Toi Sioum !
+{16650}{16710}Mon œil la vit pour mon malheur
+{16725}{16780}et je fus pris d'angoisse|à devoir la quitter,
+{16787}{16817}la gazelle qui fit de moi
+{16820}{16885}son prisonnier|à l'ombre de deux palmiers.
+{16892}{16960}Elle versait sur elle|l'eau d'un vase d'argent.
+{16962}{17020}Elle me vit et se cacha le pubis
+{17027}{17077}mais il débordait de ses mains.
+{17082}{17155}Puissé-je rester au-dessus|une heure ou deux !
+{17242}{17310}Je passai près de deux jeunes gens|et je dis
+{17312}{17340}"Je vous aime."
+{17345}{17392}Et eux "Tu as de l'argent ?"
+{17397}{17465}Je répondis :|"Je les dépense avec plaisir."
+{17467}{17527}Alors ils s'écrièrent :
+{17537}{17577}"Affaire conclue !"
+{17615}{17682}Regarde là-bas !|Qui sont ces trois-là ?
+{18297}{18352}Je peux vous lire mes vers ?
+{18360}{18437}Je les ai écrits il y a longtemps,|quand j'étais jeune
+{18442}{18482}à peu près comme vous.
+{18522}{18582}Un homme chargé d'ans|avec des désirs jeunes
+{18587}{18645}aime avec passion les beaux garçons.
+{18647}{18730}Le matin il se lève|dans l'esprit de Mossoul.
+{18775}{18852}Cité de la pureté !|Mais il ne rêve, tout le jour,
+{18857}{18907}qu'à la vie pécheresse d'Alep.
+{18957}{19020}J'ai quelque chose à vous proposer.
+{19025}{19065}On t'écoute. Parle.
+{19070}{19117}Si vous n'avez rien à faire|venez chez moi.
+{19122}{19180}C'est plein de bonnes choses.
+{19182}{19257}Vin précieux|porté par les frères du monastère !
+{19312}{19380}Viandes d'agneau|et toutes sortes d'oiseaux.
+{19382}{19432}Mangeons, buvons...
+{19440}{19522}puis, vous trois,|prenez plaisir l'un avec l'autre
+{19527}{19607}et si vous voulez, ensemble,|donnez-moi du plaisir.
+{19612}{19647}Nous sommes d'accord.
+{19660}{19690}Allons !
+{19865}{19932}La plus grande joie|est celle du jeune buveur
+{19937}{19995}qui a de beaux garçons|pour compagnons.
+{20000}{20097}L'un chante pour lui,|l'autre lève son verre à sa santé.
+{20105}{20215}Et quand il veut le baiser d'un autre,|cet autre lui donne sa bouche.
+{20225}{20295}Pourquoi tu n'écris pas|une poésie pour chacun ?
+{20335}{20365}Je paierais de ma vie
+{20370}{20477}la douceur de cette joue|parce qu'aucune somme ne la vaut.
+{20515}{20592}Béni soit celui|qui a fait ces joues sans poil
+{20597}{20622}et y a répandu
+{20627}{20695}cette couleur|où affluent toutes les beautés.
+{20820}{20907}Si mon esprit est tranquille|dans ce village, mon cœur
+{20912}{20960}est attiré par deux désirs :
+{20965}{21045}un amour me pousse|vers le minaret de Bagdad...
+{21067}{21145}et un amour|vers la terre des deux mosquées.
+{22215}{22232}Tu t'appelles comment ?
+{22240}{22272}Mon nom est Berhane.
+{22290}{22335}- Tu as quel âge ?|- Quinze ans.
+{22340}{22365}Tu es marié ?
+{22370}{22442}Non et je ne pense pas|que je me marierai.
+{22447}{22502}Les femmes t'auraient fait du mal ?
+{22507}{22562}Non, mais j'ai lu|qu'elles étaient perfides.
+{22567}{22647}"Le paradis se trouve|dans leur sein et la lune,
+{22652}{22695}dans le ciel,|surplombe leur colline."
+{22705}{22767}Tu trouveras cela|aussi dans les livres.
+{22780}{22857}Par nature les femmes|trahissent n'importe qui.
+{22865}{22900}Elles se peignent les cils,
+{22905}{22960}elles se teignent les doigts,|elles se tressent les cheveux
+{22965}{23012}et elles t'en font voir de belles.
+{23015}{23060}Je te propose quelque chose,
+{23065}{23100}tu veux venir à ma cour ?
+{23110}{23157}Oui, merci mon seigneur !
+{23852}{23880}Comment tu t'appelles ?
+{23887}{23915}Giana.
+{23927}{23950}Quel âge as-tu ?
+{23957}{23982}Quinze ans.
+{24005}{24035}Tu veux venir avec moi ?
+{24052}{24085}Avec plaisir.
+{24700}{24735}Allons !
+{24792}{24847}Tu perdras ton pari Zeudi.
+{24850}{24892}La fille dont tu parles
+{24897}{24972}est un vase d'urine|à côté de mon rameau de myrte.
+{24975}{25040}Inutile de débattre|de qui est plus beau.
+{25042}{25112}On leur a donné|deux narcotiques différents
+{25117}{25172}pour les réveiller|à des heures différentes.
+{25177}{25230}Ils se jugeront mutuellement.
+{25235}{25295}Nous on ne serait|jamais d'accord.
+{25390}{25452}C'est sûrement elle la plus belle.
+{25465}{25492}Regarde-la !
+{25647}{25715}Tu te trompes.|Le plus beau c'est lui.
+{25732}{25790}C'est l'amour qui en décidera.
+{25810}{25840}On va les réveiller.
+{25845}{25925}Si l'un tombe amoureux de l'autre,|c'est qu'il est moins beau.
+{25935}{26015}Parce que c'est toujours le moins beau|qui aime le plus beau.
+{26032}{26082}Bon, laissons l'amour en décider.
+{26955}{27032}Ce que Dieu veut arrive.|Ce que Dieu ne veut pas n'arrive pas.
+{31975}{32007}Personne n'a gagné.
+{32010}{32097}Ils s'aiment|autant l'un que l'autre.
+{32102}{32155}Ils sont le miroir l'un de l'autre.
+{32160}{32225}Deux pleines lunes|dans le même ciel.
+{32327}{32360}Comment tu es entré ?
+{32365}{32407}Par la porte ou par la cour,|qu'importe ?
+{33912}{33960}Tu me reconnais Zoumourroud ?
+{34020}{34047}Tu as osé dire
+{34052}{34112}que mon membre ne se levait pas.
+{34115}{34162}Voilà la punition que tu mérites.
+{34287}{34337}Dieu te punira !
+{34902}{34950}Sang de mon sang Zoumourroud !
+{35122}{35157}Où es-tu ?
+{35220}{35250}Où es-tu ?
+{36105}{36150}Quel est ton nom ?
+{36155}{36192}Pourquoi tu pleures ?
+{36205}{36252}Dis-moi ce qui t'arrive.
+{36257}{36342}J'ai perdu mon esclave,|achetée mille dinars.
+{36357}{36437}Un chrétien aux yeux bleus|est venu et il me l'a volée.
+{36445}{36480}Sans elle je mourrai !
+{36497}{36580}Ne pleure pas,|tu verras que je te la trouverai,
+{36590}{36680}quitte à entrer|dans toutes les maisons de la ville.
+{36685}{36715}Merci madame.
+{37217}{37247}Noureddine !
+{37300}{37360}J'ai de bonnes nouvelles pour toi.
+{37667}{37697}J'ai trouvé ton esclave.
+{37702}{37790}Comme je le pensais,|elle est chez Rachid. Je lui ai parlé.
+{37797}{37880}Elle t'attend cette nuit,|dans une heure, sous le mur.
+{37892}{37942}Elle sifflera,|tu l'aideras à descendre
+{37965}{38005}et vous filerez.
+{38017}{38082}Je t'ai aidé,|tu dois être gentil avec moi
+{38087}{38135}et me faire sentir|que tu es un homme.
+{38310}{38335}Amour...
+{38497}{38530}Tu me la fais dresser !
+{38540}{38577}Je te crois !
+{38615}{38650}Mon amour...
+{40557}{40615}Prends la corde, aide-moi !
+{40957}{40987}Mon amour !
+{40997}{41037}Prends cette bourse pleine d'or.
+{41147}{41225}Qui es-tu ? Où est Noureddine ?|Où tu m'emmènes ?
+{41230}{41297}Je suis moi|et je t'emmène où je veux.
+{41300}{41382}Noureddine a des cheveux|comme la soie. Toi on dirait un porc.
+{41387}{41417}Laisse-moi !
+{41450}{41502}Laisse-moi, sale bête !
+{41507}{41555}Mords-toi la langue|ou je t'étrangle.
+{41560}{41585}Avance !
+{41622}{41685}Vois ce soldat,|c'est nous qui l'avons tué.
+{41690}{41735}Voilà comment tu finiras demain
+{41740}{41780}si tu n'es pas docile.
+{41917}{41967}Je suis Djiawan le Kurde.
+{41972}{42060}Nous sommes 40 voleurs|et cette nuit on t'enfilera tous.
+{42557}{42630}Je t'apporte une chose précieuse|père. Surveille-la.
+{42632}{42710}Je vais chercher les autres|et je reviens de suite.
+{43042}{43090}Je parie|que ta tête est pouilleuse.
+{43155}{43207}Tu veux que je t'épouille ?
+{43252}{43275}Tu veux ?
+{43445}{43490}Zoumourroud, mon amour !
+{44620}{44687}Dors petit, dors !
+{44705}{44742}Fais dodo !
+{46787}{46835}Cavalier qui viens du désert,
+{46840}{46910}tu seras couronné Roi de cette cité.
+{46915}{46985}- Quoi ?|- Qui es-tu ? Quel est ton nom ?
+{46992}{47042}Je suis soldat, mon nom est Ouardan.
+{47045}{47092}Notre coutume,|quand le roi meurt
+{47097}{47125}sans laisser de fils,
+{47130}{47230}c'est d'attendre à cette porte|le premier homme venant du désert
+{47235}{47275}et de le faire roi.
+{47280}{47342}Dieu soit loué|qui nous envoie un homme
+{47345}{47395}au corps svelte|et beau de visage.
+{47400}{47460}Bois, puis nous entrerons|dans la cité !
+{48217}{48315}Avant d'être couronné tu dois|prendre femme. Voici ma fille.
+{48320}{48372}Qui te dit|que je veux prendre femme ?
+{48377}{48460}C'est la coutume.|Désobéis, tu seras jeté d'une tour.
+{48475}{48522}Que la volonté de Dieu|soit faite !
+{49602}{49685}Tu n'as rien de mieux à faire|que de réciter le rosaire ?
+{49690}{49730}Ton épouse ne te plaît pas ?
+{49745}{49805}Tu es belle Hayat,|mais je suis malheureux.
+{49810}{49860}Tu en aimes peut-être une autre ?
+{49865}{49965}Mais si tu ne consommes pas|le mariage on te jettera d'une tour.
+{49967}{50010}Je peux te demander une chose ?
+{50025}{50097}Si je te confie un secret,|tu sauras le garder ?
+{50110}{50135}Je promets.
+{50180}{50215}Alors regarde !
+{50670}{50712}Maintenant tu connais mon secret.
+{50715}{50797}Si tu me trahis,|je serai jeté de la plus haute tour.
+{50820}{50885}- Je ne te trahirai pas.|- Mon nom est Zoumourroud.
+{50887}{50930}J'ai été esclave|du plus beau des maîtres,
+{50935}{50990}Noureddine,|et je ne sais plus rien de lui.
+{50995}{51082}Je t'aiderai à le trouver. Malgré|mon infortune je ne trahirai pas.
+{51095}{51167}Voilà comment faire venir|beaucoup de gens en ville
+{51172}{51220}et peut-être le trouver.
+{51225}{51295}Fais semblant d'être ma femme,|ne dis rien.
+{51310}{51375}Promis.|On fera venir les gens que tu veux.
+{52755}{52805}Qu'est-ce que tu fais étranger ?|Mange ce qui est devant toi.
+{52845}{52890}Laisse-le !|Le roi a dit de manger à satiété.
+{52897}{52967}Il n'a pas dit de piocher|dans l'assiette des autres.
+{52972}{53007}Ça me plaît, j'en mange.
+{53050}{53135}Mange ce que tu veux|et puisses-tu t'étouffer !
+{53352}{53437}Je le disais qu'il avait tort|de piocher dans les assiettes.
+{53522}{53592}Qui es-tu|et pourquoi es-tu dans notre pays ?
+{53620}{53685}Je suis Ali, tisserand,|et je viens vendre.
+{53700}{53780}Lève la tête étranger.|Regarde-moi dans les yeux !
+{53822}{53857}Chien, tu mens à un roi !
+{53862}{53960}N'es-tu pas Barsoum, le Chrétien|qui a volé une femme ? La vérité !
+{53975}{54040}Tu vois juste roi.|Je suis Barsoum.
+{54067}{54167}Emmenez cet homme aux yeux bleus|hors de la ville et tuez-le !
+{54920}{55007}Pardon, sauriez-vous|où est mon esclave Zoumourroud ?
+{55130}{55207}Les enfants,|vous avez vu passer Zoumourroud ?
+{55212}{55250}Qui est Zoumourroud ?
+{56437}{56480}Allez, viens avec nous !
+{56660}{56722}N'aie pas peur, on ne te fera rien.
+{56725}{56772}Rien qu'un bon massage !
+{56890}{56947}Ne crains rien, assieds-toi.
+{57032}{57082}Arrête, elle se dresse !
+{57087}{57132}C'est vrai !
+{57175}{57240}Tu voudrais prendre|toute sa richesse !
+{57255}{57312}Laisses-en pour moi aussi !
+{57330}{57405}C'est moi qui l'ai fait se dresser.|Ma mère disait
+{57410}{57487}"Qui redonne vie à la terre morte|peut en jouir."
+{57535}{57592}D'accord, mais ma mère disait
+{57597}{57655}"Le gibier appartient|à qui le prend,
+{57660}{57690}"non à qui le déniche."
+{57695}{57760}Tu l'as déniché, moi je le prends.
+{57800}{57850}Bon, on fait comme ça !
+{57860}{57942}En attendant que vous soyez|d'accord, moi je le prends.
+{59157}{59190}Frère, on ne touche pas à ça.
+{59207}{59235}Je mange ce que je veux.
+{59252}{59325}Ce riz est maudit.|Si tu en manges, tu finiras
+{59330}{59385}crucifié. C'est arrivé à un autre.
+{59390}{59472}Je m'en fiche, tais-toi.|Je fais ce que je veux.
+{59480}{59520}Quelle faim !|Tu mangerais l'assiette.
+{59525}{59617}Laisse-le.|Son visage est déjà celui d'un mort.
+{59640}{59735}Et il n'y a rien à faire|contre la volonté de Dieu.
+{61030}{61120}Mendiant, tes bras peuvent-ils|porter de lourdes charges ?
+{61125}{61177}Aide-nous et je te paierai bien.
+{61322}{61375}Donne-moi des pommes de Syrie,
+{61380}{61467}des coings ottomans, des pêches|d'Amman, du jasmin d'Alep,
+{61472}{61522}des cornichons du Nil,|des citrons d'Egypte,
+{61527}{61590}du cèdre, du myrte,|du réséda, de la camomille,
+{61595}{61680}des grenades, des roses mouchetées|et des gâteaux,
+{61685}{61760}des beignets fourrés,|du nougat glacé, des confiseries,
+{61767}{61860}des gâteaux secs, de la pâte|feuilletée, de l'encens mâle,
+{61865}{61922}de l'ambre, du musc|et des cires alexandrines.
+{62332}{62365}Mabouba ! Boudour !
+{62370}{62400}Sœurs !
+{62405}{62445}Venez, tout est prêt !
+{62560}{62625}Tadji Almolouk,|fils du roi Souleyman,
+{62630}{62685}quand il devint adolescent,
+{62690}{62795}était si beau que dès qu'il sortait|il enchantait tout le monde
+{62815}{62880}au point qu'on écrivit|des poèmes à sa louange.
+{62885}{62960}Les plus purs, par amour de lui,|perdaient leur pudeur
+{62972}{63005}tant sa beauté resplendissait.
+{63020}{63057}Ainsi, comme dit le poète,
+{63062}{63125}"Je l'ai embrassé|et je me suis enivré de son parfum,
+{63130}{63177}"tendre rameau nourri de vent.
+{63182}{63225}"Je suis ivre sans avoir bu de vin
+{63230}{63292}"mais enivré|par la liqueur de sa salive."
+{67220}{67257}En descendant de cheval, Tadji
+{67262}{67342}aperçut un beau jeune homme|vêtu de noir, l'air gentil.
+{67350}{67430}Mais sa beauté semblait fanée.
+{67450}{67545}Il était abattu comme quelqu'un|qui est loin de ceux qu'il aime.
+{67965}{67997}Quel est ce papier ?
+{68005}{68045}Rien qui puisse te servir.
+{68057}{68085}Fais voir.
+{68337}{68407}Gloire à Dieu qui apprend|à l'homme ce qu'il ignore.
+{68452}{68537}Pourquoi tu t'es mis à pleurer|en voyant ce papier ?
+{68550}{68600}Mon histoire est longue...
+{68605}{68695}Ce qui me lie à ce parchemin|et à sa propriétaire
+{68700}{68765}est un fait très étrange.
+{68770}{68855}Dis-moi ton histoire et celle|de qui a peint ces gazelles.
+{68862}{68970}Je m'appelle Aziz. J'étais fiancé|avec ma cousine Aziza.
+{68972}{69057}Le jour du mariage,|quand tout était prêt
+{69070}{69117}je suis allé prendre un bain.
+{69155}{69190}Bonne chance Aziz.
+{69192}{69257}Grand bonheur pour toi et Aziza.
+{69560}{69592}Quel bon parfum !
+{69605}{69642}Comme tu sens bon !
+{70155}{70190}Aziza, chère épouse !
+{70312}{70355}Ecoute, j'ai oublié
+{70360}{70447}d'inviter Ali au mariage.|C'est mon meilleur ami.
+{70455}{70490}J'y vais et je reviens.
+{70970}{70997}Qu'est-ce que tu fais ?
+{71002}{71047}Aziza t'attend !
+{71242}{71270}Le mouchoir, tu l'as mis
+{71275}{71352}sous ton derrière.|Tu ne peux pas essuyer ta sueur.
+{73080}{73175}"Quel émerveillement pour le soleil|et la lune quand il apparaît
+{73177}{73300}"et quelle honte pour les boutons|de rose quand ils voient ses boucles."
+{73522}{73550}Tu arrives maintenant ?
+{73557}{73637}Il y avait tout le monde,|le Cadi, les gardes, les émirs.
+{73642}{73725}Ils ont mangé et bu.|Tu n'arrivais pas, ils sont partis.
+{73735}{73802}Ton père a repoussé|le mariage d'un an.
+{74512}{74560}Qu'est-ce qui t'est arrivé ?
+{74595}{74632}Je suis tombé amoureux d'une fille
+{74637}{74720}qui m'a jeté un mouchoir|par la fenêtre et qui a disparu.
+{74805}{74837}Elle ne t'a rien dit ?
+{74857}{74882}Non.
+{74897}{74940}Elle a juste fait ça.
+{75190}{75250}Elle veut dire quoi|avec ces signes ?
+{75260}{75305}Avoir mis le doigt dans la bouche
+{75310}{75372}ça veut dire que tu es devenu pour elle
+{75377}{75432}ce que l'âme est pour le corps.
+{75435}{75532}Avoir posé deux doigts|entre les seins veut dire
+{75535}{75602}viens dans deux jours|consoler mon cœur.
+{75605}{75645}Dans deux jours !
+{76447}{76505}Regarde dans quel état tu es...
+{76520}{76605}à rester là sans manger,|sans boire et sans dormir.
+{76627}{76680}Habille-toi, arrange-toi !
+{76685}{76717}Réjouis-toi !
+{76722}{76765}Les deux jours sont passés.
+{76862}{76910}Habille-toi, vite !
+{77000}{77065}Va la voir|et que Dieu aide votre amour.
+{78367}{78400}Alors Aziz ?
+{78412}{78475}Pourquoi tu n'as pas passé|la nuit avec ton aimée
+{78480}{78537}et pris ce que tu voulais ?
+{78700}{78800}Je ne me moque pas de toi.|Dis-moi comment ça s'est passé.
+{78802}{78847}Elle n'est pas venue !
+{78887}{78927}Ne sois pas triste.
+{78940}{78987}Tu touches au but.
+{78992}{79037}Elle n'est pas venue
+{79042}{79095}pour voir si ton amour est sincère.
+{79100}{79187}Demain tu n'auras qu'à attendre|sous sa fenêtre.
+{79190}{79245}Tes ennuis sont finis. Courage !
+{79247}{79310}Mange et bois sinon tu vas mourir.
+{79455}{79545}Qui aime est comme un fou et|n'a envie ni de manger ni de dormir !
+{79555}{79597}Je sais, je sais bien.
+{79602}{79637}Ce sont les signes de l'amour.
+{81340}{81372}Comment ça a été cette fois ?
+{81377}{81422}Elle a fait ça...
+{81905}{81930}Ça veut dire quoi ?
+{81945}{82032}"Attends le coucher du soleil.|Quand l'ombre de la nuit
+{82037}{82097}"sera tombée, viens.
+{82120}{82197}"Entre dans le jardin|qui est au bout de la ville.
+{82200}{82275}"Avance jusqu'à ce que|tu voies une lumière.
+{82280}{82330}"Assieds-toi là et attends-moi,
+{82332}{82387}"mon amour pour toi|me tue presque."
+{82437}{82495}Il ne fait pas encore nuit.|Repose-toi !
+{82500}{82547}Il y a huit jours|que tu ne manges pas.
+{84885}{84912}Comment ça a été ?
+{84920}{84965}J'ai fait ce que tu m'as dit,
+{84970}{85045}mais je me suis endormi|et le matin au réveil,
+{85047}{85115}j'ai trouvé ça sur mon ventre.
+{85135}{85200}La pièce est son œil droit,|là où se font les serments.
+{85217}{85280}Le poignard veut dire|qu'elle a juré de te tuer
+{85287}{85347}si tu te comportes encore|comme cette nuit.
+{85355}{85385}Qu'est-ce que je dois faire ?
+{85400}{85452}Ce soir retourne dans son jardin.
+{85457}{85572}Pour ne pas t'endormir,|repose-toi maintenant et puis mange.
+{85577}{85620}Allonge-toi et dors !
+{85855}{85890}Je mourrai.
+{85952}{86017}Réveille-toi Aziz, et mange.
+{86140}{86175}Je n'ai pas faim.
+{86195}{86265}Allons, mange.|Ne fais pas l'enfant.
+{86385}{86477}Cette fois ne mange pas|et ne t'endors pas dans le jardin.
+{86482}{86530}Elle viendra à l'aube.
+{86560}{86635}Mais je voudrais|te faire une recommandation.
+{86655}{86690}Quand tu partiras
+{86695}{86770}après avoir fait avec elle|ce que tu veux,
+{86775}{86807}récite ces vers 
+{86860}{86947}"Amoureux, au nom de Dieu,|que doit faire un garçon
+{86952}{87025}"quand l'amour est son maître ?"
+{87465}{87527}Je ne dois toucher|à rien de tout ça !
+{87802}{87865}Aziz, mon amour ! Tu m'as attendue.
+{89302}{89362}Tu as pensé à lui dire ces vers ?
+{89392}{89425}J'ai oublié !
+{89427}{89502}Je voulais regarder|le parchemin qu'elle m'a offert.
+{89507}{89552}Regarde comme il est beau !
+{89717}{89790}- Tu me le donnes ?|- S'il te plaît, bien sûr.
+{89980}{90060}Demain avant de la quitter,|après avoir fait l'amour,
+{90062}{90102}promets-moi de dire ces vers.
+{90110}{90190}Je te le promets|mais laisse-moi dormir.
+{90210}{90257}Ce que j'ai sommeil !
+{91842}{91882}- Adieu !|- Ecoute...
+{91902}{91950}"Amoureux, au nom de Dieu,
+{91952}{92027}"que doit faire un garçon|quand l'amour est son maître ?"
+{92040}{92105}On manœuvre avec son amour,|on cache son secret
+{92107}{92172}et on patiente en toutes choses|avec résignation.
+{92410}{92435}Où est Aziza ?
+{92442}{92500}Elle est sur la terrasse,|seule, et elle pleure.
+{92505}{92530}Qu'est-ce qu'elle a ?
+{92542}{92640}Tu la laisses comme ça sans|lui demander de quoi elle souffre.
+{93807}{93832}Alors Aziz,
+{93840}{93877}tu lui as récité les vers ?
+{93947}{94012}Oui et elle m'a répondu|par ces vers 
+{94015}{94087}"Qui aime doit cacher son secret|et se résigner."
+{94117}{94197}"Il a cherché à se résigner|mais n'a trouvé en lui
+{94202}{94250}"qu'un cœur désespéré|par la passion."
+{94297}{94350}Demain matin, en la quittant,
+{94355}{94422}récite-lui ces vers.|Tu as compris ?
+{94502}{94560}"Il a cherché à se résigner
+{94565}{94620}"mais il n'a trouvé en lui
+{94625}{94707}"qu'un cœur désespéré|par la passion d'amour."
+{94817}{94867}"S'il ne trouve pas la résignation,
+{94872}{94962}"il n'y a peut-être rien de mieux|pour lui que la mort."
+{95155}{95180}Tiens !
+{95187}{95212}Tu lui as dit mes vers ?
+{95265}{95300}Oui, et elle m'a répondu :
+{95305}{95377}"S'il ne se résigne pas, la meilleure|chose pour lui c'est la mort."
+{95380}{95427}"Nous avons entendu et obéi,
+{95430}{95475}"et maintenant mourons."
+{95480}{95565}"Salue pour moi|celle qui a empêché mon amour."
+{98290}{98320}Ecoute 
+{98365}{98445}"Nous avons entendu et obéi,|donc nous mourons.
+{98447}{98510}"Salue pour moi|qui a empêché mon amour."
+{98515}{98580}Celle qui t'a dit ces vers|est morte.
+{98592}{98617}Si j'avais su
+{98622}{98677}qu'il y avait cette fille,|je t'aurais éloigné de moi.
+{98682}{98735}Qu'est-ce que tu dis ? C'est ma cousine !
+{98852}{98897}Elle savait|qu'on faisait l'amour ?
+{98915}{98940}Oui !
+{98945}{99045}Que Dieu te fasse pleurer sur|ta jeunesse comme toi sur la sienne.
+{99060}{99105}Allons, va la trouver.
+{99762}{99810}Combien de temps ça va durer ?
+{99845}{99915}On continuera à prier|jusqu'au milieu de la nuit.
+{99920}{99990}Toi aussi parce que tu as sa mort|sur la conscience.
+{100037}{100067}Qu'est-ce que tu as fait
+{100075}{100120}pour faire éclater son cœur ?
+{100122}{100190}Elle n'a rien voulu dire.|Qu'est-ce que tu lui a fait ?
+{100200}{100247}Je ne lui ai rien fait.
+{100260}{100325}Elle m'a demandé de dire|à la fille que tu vois
+{100335}{100437}"La fidélité est un bien|mais la légèreté aussi est un bien."
+{100460}{100485}Je le lui dirai.
+{100490}{100542}Puis elle m'a remis|une chose pour toi
+{100547}{100627}quand je te verrai pleurer|sincèrement sa mort.
+{100632}{100657}Fais voir.
+{100665}{100757}Je ne crois pas te voir pleurer|sincèrement sa mort.
+{100795}{100860}Je dois m'en aller.|Je ne peux pas attendre.
+{101105}{101140}Amour !
+{101217}{101242}Tu avais raison, elle est morte.
+{101250}{101295}On l'a enterrée aujourd'hui.
+{101365}{101447}La faute de sa mort c'est toi,|prends garde à ne pas devoir la payer.
+{101460}{101535}Puis elle a dit|qu'il fallait te dire ces mots
+{101537}{101582}"La fidélité est un bien
+{101587}{101635}"mais la légèreté aussi|est un bien."
+{101640}{101677}Elle t'a sauvé par ces mots
+{101682}{101740}parce que j'avais décidé|de te faire du mal.
+{101745}{101787}Du mal ? Comment ça ?
+{101802}{101865}Cette nuit,|avant de faire l'amour avec moi,
+{101870}{101932}tu feras l'aumône|pour l'âme de ta cousine
+{101937}{102005}et tu demanderas à un maçon|une tombe en marbre
+{102010}{102050}comme pour les saints.
+{102152}{102197}Je ferai comme tu me demandes.
+{102252}{102272}Va !
+{102492}{102552}Attends, encore un peu de parfum.
+{102555}{102620}Bois encore un verre|de ce vin frais.
+{102665}{102695}Santé !
+{103215}{103260}Beau jeune homme, viens !
+{103265}{103332}Lis la lettre de mon fils|qui travaille très loin.
+{103412}{103455}"Cher père, je vais bien
+{103462}{103520}"mais ici on ne trouve pas un sou.
+{103545}{103630}"Qu'il en soit selon la volonté|de Dieu. Je t'embrasse. Ton Ali."
+{103635}{103705}Merci. Entre chez moi|boire un verre de vin.
+{103720}{103752}C'est ici.
+{103755}{103785}Belle !
+{104100}{104152}Tu préfères quoi, mourir...
+{104157}{104190}- Ou vivre ?|- Vivre !
+{104205}{104252}Si tu veux vivre, épouse-moi.
+{104275}{104305}Moi, t'épouser ?
+{104312}{104382}Comme ça|tu échapperas à Boudour-la-piquée.
+{104402}{104437}Qui est Boudour-la-piquée ?
+{104460}{104517}Tu la vois depuis un an|sans la connaître ?
+{104550}{104590}Elle en a tués avant toi !
+{104602}{104660}Jusqu'à présent Aziza t'a sauvé.
+{104665}{104715}Mais où en trouver une comme elle ?
+{104717}{104807}Tu es naïf devant la perversité|des femmes, hein ?
+{104815}{104842}Oui, c'est vrai.
+{104847}{104935}Je veux te sauver mais pas|sans contrepartie comme ta cousine.
+{104937}{105000}Je suis riche, on trouve chez moi
+{105005}{105067}"le pain dans la huche|et l'eau dans la cruche".
+{105072}{105140}Je ne demande en échange|que de faire avec moi
+{105145}{105175}ce que fait le coq.
+{105180}{105210}Que fait le coq ?
+{105355}{105435}Viens ici.|D'ailleurs tu ne peux pas partir.
+{105530}{105607}Fais de moi ce que tu veux,|je suis ton esclave !
+{105612}{105675}Donne-la-moi toute,|ma vie t'appartient.
+{106227}{106252}Alors Aziz,
+{106260}{106325}un an a passé,|je tiens mes promesses.
+{106330}{106402}A toi de tenir les tiennes.|Va chez ta mère mais jure
+{106407}{106447}de revenir avant la nuit.
+{106452}{106485}Je te le jure !
+{106907}{106940}Boudour !
+{106982}{107055}Tu m'attendais ?|Comment tu savais que je viendrais ?
+{107072}{107175}Je n'en savais rien. Il y a un an|que je reste ici jour et nuit.
+{107192}{107245}Je suis marié et j'ai un fils.
+{107250}{107320}Je suis venu|mais je ne peux rester qu'une nuit.
+{107325}{107367}Je te remercie beaucoup
+{107372}{107462}mais maintenant tu as une femme|et un fils. Qu'est-ce que je ferais de toi ?
+{107465}{107547}Je ne te veux plus|mais je ne te laisserai pas à elle.
+{107645}{107687}Venez femmes !
+{107857}{107890}Au secours !
+{108117}{108200}"La fidélité est un bien|mais la légèreté aussi est un bien."
+{108220}{108285}Ces mots ne sauvent que ta vie
+{108312}{108395}parce que la punition que je veux|te donner, tu la mérites.
+{108440}{108490}Prenez la poudre à blessures.
+{108525}{108552}Qu'est-ce que tu veux faire ?
+{108565}{108590}Qu'est-ce que tu veux faire ?
+{108602}{108655}Non ! Boudour, par pitié !
+{108742}{108772}Tenez-le.
+{108892}{108912}Tirez !
+{109625}{109660}Aziz ! Mon fils...
+{109690}{109752}Où tu es allé ? D'où tu viens ?
+{109757}{109820}Qu'est-ce que tu as fait|pendant tout ce temps ?
+{109995}{110027}Aziza !
+{110095}{110152}Que de bien tu m'as fait !
+{110155}{110215}Que d'amour tu as eu pour moi !
+{110480}{110522}Voilà ce que t'a laissé Aziza.
+{110577}{110667}Oui Aziz,|maintenant je peux te le donner.
+{110835}{110925}Ce parchemin n'est pas l'œuvre|de Boudour mais de la reine Dunya.
+{110930}{111012}Pour ma part,|je te décharge de toute faute.
+{111017}{111107}Je remercie Dieu|de m'avoir fait mourir avant toi.
+{111112}{111155}Ton Aziza.
+{111412}{111490}J'ai cherché Dunya,|je suis entré dans son jardin.
+{111495}{111552}Je l'ai vue|et je suis tombé amoureux d'elle.
+{111567}{111650}Que pouvais-je faire,|moi qui suis comme une femme ?
+{111870}{111917}Qu'est-ce qui t'arrive ?
+{112167}{112195}Allons à la cité de Dunya !
+{112205}{112240}Je suis amoureux d'elle
+{112245}{112280}sans l'avoir vue.
+{112285}{112347}Aide-moi à la trouver,|je te récompenserai.
+{112352}{112450}En voyant du sang sur mes vêtements,|mon père croira que je suis mort.
+{113322}{113395}Voilà le père de Dunya. Il va|peut-être chercher un autre roi.
+{113560}{113600}Viens Tadji !
+{113687}{113730}Le chef du marché est là ?
+{113735}{113797}Oui, c'est lui le cheik,|mais attention !
+{113815}{113892}Il est de ceux qui préfèrent|la banane à la figue.
+{113897}{113945}C'est celui qui fume là-bas.
+{113990}{114025}Bonjour cheik !
+{114047}{114072}Quels beaux garçons !
+{114075}{114155}Dommage qu'étant aussi jolis|le voyage vous ait salis.
+{114185}{114220}Avant toute chose
+{114225}{114252}il faudra un bon bain.
+{114260}{114300}Et comme dit le poète 
+{114310}{114380}"Longue et heureuse vie|au gardien du bain,
+{114385}{114497}"tandis que sa main effleure un corps|nu né entre l'eau et la lumière."
+{114505}{114600}Tu voudrais les emmener au bain|et jouir de leur beauté, hein ?
+{114605}{114700}Je ne suis pas comme Dunya, notre|princesse qui déteste les hommes
+{114707}{114767}et qui ne veut pas entendre parler|de mariage.
+{114772}{114795}Que dis-tu ?
+{115095}{115155}C'est toi|le jardinier de ce jardin ?
+{115160}{115187}Oui monsieur. Pourquoi ?
+{115202}{115250}On voudrait le visiter,|on peut entrer ?
+{115262}{115312}Attendez, je viens vous ouvrir.
+{115440}{115487}Dis, à qui est ce jardin ?
+{115492}{115537}A Dunya, la fille du roi.
+{115545}{115630}- Celle qui hait les hommes ?|- Oui monsieur. A elle.
+{115642}{115672}Pourquoi cette haine ?
+{115675}{115735}Elle a rêvé d'une colombe|prise dans un filet,
+{115740}{115815}sauvée par une autre colombe|qui tomba dans le filet,
+{115820}{115887}le mâle s'enfuit|et la colombe fut égorgée.
+{115910}{115957}Elle pense que tous les mâles|sont comme ça.
+{115970}{116040}Combien te paie Dunya par mois ?
+{116055}{116102}- Un dinar seulement.|- Ecoute...
+{116117}{116197}je veux faire ici quelque chose|de bien qui reste en mémoire.
+{116210}{116247}De quoi s'agit-il ?
+{116255}{116310}En attendant prends ces 300 dinars.
+{116320}{116395}Dans ce jardin|tu peux faire tout ce que tu veux.
+{116465}{116542}- Allons.|- Qu'est-ce que tu veux faire Tadji ?
+{116765}{116795}Vous cherchez du travail
+{116800}{116842}et j'ai besoin de vous.
+{116847}{116885}Si tu veux de nous, d'accord.
+{116895}{116950}Je vous donne|trois dinars chacun par jour.
+{116967}{116995}Non, ça ne va pas.
+{117000}{117022}Quatre !
+{117040}{117060}Six !
+{117077}{117097}Neuf !
+{117120}{117237}Nous travaillerons pour toi si|tu nous donnes un seul dinar chacun.
+{118077}{118122}Vous êtes frères, n'est-ce pas ?
+{118162}{118245}Nous ne sommes pas frères de chair|mais frères en Dieu.
+{118257}{118372}Pourquoi vous vous êtes faits saints|et vous allez comme des moines ?
+{118382}{118415}Pour servir Dieu.
+{118420}{118492}Qu'est-ce qui vous a poussés|à faire ça ?
+{118512}{118537}Ça vous distraira
+{118542}{118647}et vous m'apprendrez quelque chose|de bon, à moi qui suis très jeune.
+{118655}{118712}Si ça peut grandir|la gloire de Dieu,
+{118717}{118765}je te raconterai mon histoire.
+{121980}{122050}Merci de ton aide.|Je meurs de faim et de soif.
+{122055}{122117}Je te récompenserai.|Je suis fils de roi.
+{122120}{122217}Je portais des cadeaux au roi de|l'Inde. Des bandits nous ont attaqués.
+{122227}{122290}Mieux vaut ne parler de ça|à personne.
+{122295}{122367}Nos pays sont ennemis|mais je te donnerai l'hospitalité.
+{122372}{122445}Je ne te serai pas à charge.|Je peux travailler
+{122452}{122525}et pourvoir à mes besoins.|J'ai étudié,
+{122547}{122602}je sais écrire, compter,
+{122607}{122675}je connais la science|et la littérature.
+{122705}{122772}Ton métier ne mène à rien ici.
+{122782}{122832}Les gens ne s'occupent que d'argent.
+{122845}{122930}Si tu veux, tu iras couper du bois|dans la campagne alentour.
+{124730}{124762}Es-tu homme ou démon ?
+{124790}{124815}Je suis un homme.
+{124820}{124855}Tu es venu comment ?
+{124860}{124907}Je ne sais pas,|mais si c'est le destin
+{124912}{125017}c'est arrivé pour que cessent|ma tristesse et ma peine.
+{125225}{125267}Qui es-tu petite fille ?
+{125272}{125325}Je suis la fille d'un roi.
+{125330}{125425}Mais un démon m'a enlevée|et enfermée dans cette tombe.
+{125430}{125517}Il vient faire l'amour avec moi|tous les dix jours.
+{125532}{125622}Si j'ai besoin de lui,|il suffit que je touche ces mots
+{125625}{125660}gravés sur cette plaque,
+{125665}{125707}et il arrive.
+{126185}{126207}Mon amour,
+{126212}{126265}je veux te délivrer|de ce maudit démon !
+{126337}{126412}Tu seras à moi seul.|Je te ferai quitter cette tombe
+{126427}{126470}et si le démon vient,|gare à lui !
+{126577}{126615}Pars ! Va-t'en !
+{126620}{126660}Le démon viendra et il te tuera !
+{128025}{128085}Vous savez à qui sont ces souliers ?
+{128105}{128165}Non, on ne les a jamais vus.
+{128375}{128455}Connaissez-vous|le propriétaire de ces chaussures ?
+{128457}{128507}Non, on ne sait pas.
+{128780}{128880}Dis tailleur, tu connais|le propriétaire de ces souliers ?
+{128920}{128952}Shahzaman ! Un étranger
+{128957}{129010}a trouvé tes souliers.
+{130215}{130287}Voilà ton amant.|Tue-le, tu seras sauvée.
+{130732}{130837}Tue-la et je te relâcherai|sans rien te faire.
+{131060}{131102}Je ne peux pas tuer une femme|que je n'ai jamais vue
+{131105}{131155}et qui ne m'a pas fait de mal.
+{131170}{131230}Entre vous il y a de l'amour.
+{132215}{132280}Vous avez fait l'amour|avec les yeux.
+{132780}{132862}Je ne suis pas sûr|que tu m'aies trahi avec elle.
+{132912}{133005}Je ne te tuerai pas|mais tu ne resteras pas impuni.
+{133012}{133062}Sois généreux jusqu'au bout
+{133072}{133105}et libère-moi.
+{133120}{133160}Ne compte pas là-dessus.
+{133460}{133492}Allez !
+{133655}{133722}Redresse-toi maudit singe !
+{134575}{134645}Par le grand nom de Dieu|et par sa puissance,
+{134657}{134750}deviens ce que ta nature|désire le plus devenir.
+{134877}{134920}Tiens, un singe !
+{135565}{135615}Viens ici, viens !
+{136085}{136117}Capitaine !
+{136167}{136242}C'est le rouleau pour le roi.|Avant d'arriver,
+{136245}{136300}il faut écrire l'histoire|de notre voyage.
+{136305}{136350}On avait oublié.|Je m'en charge.
+{136362}{136390}Où vas-tu|yeux de gazelle ?
+{136870}{136920}Laisse le destin faire|ce qu'il veut,
+{136922}{136977}accepte volontiers|ce qu'il t'envoie,
+{136980}{137045}ne te réjouis|ni ne t'attriste de rien !
+{137050}{137127}Mais si tu ouvres l'encrier|de la puissance et de la grâce,
+{137132}{137222}que ton encre|soit libéralité et générosité !
+{137247}{137307}Cette écriture est vraiment belle.
+{137317}{137412}Mes conseillers n'écrivent pas|aussi bien les caractères toulouth.
+{137415}{137470}Trouvez l'auteur de cette écriture,
+{137475}{137527}revêtez-le d'un habit d'honneur
+{137532}{137567}et escortez-le ici.
+{140957}{141002}Ibriza ! Regarde !
+{141010}{141077}Père, pourquoi me montrer|à des étrangers ?
+{141110}{141157}C'est vrai|ce que ma fille dit de toi ?
+{141170}{141255}Que tu es un homme|et non un singe ? C'est vrai ?
+{141347}{141400}Ce n'est pas une bête|mais un homme.
+{141412}{141457}Je t'en conjure,
+{141465}{141545}délivre-le de sa condition|pour en faire mon vizir.
+{141560}{141607}Je ferai ce que tu me commandes.
+{141745}{141815}Au risque de ma vie.|Sois le bienvenu !
+{142002}{142040}Pauvre singe,
+{142047}{142097}ton âme a été plus forte|que ta nature.
+{142115}{142172}Merci de m'avoir rendu mon âme.
+{142475}{142537}Cette fillette|avait sacrifié sa vie pour moi
+{142542}{142580}en la brûlant dans le feu.
+{142585}{142635}Si ma peine avait frappé|les montagnes,
+{142640}{142692}elles se seraient écroulées.
+{142700}{142747}Je sentis que j'avais offensé Dieu.
+{143732}{143822}Tu renonces à ta fortune, ton rang,|ta sagesse ? Pourquoi ?
+{143840}{143895}Non par générosité
+{143900}{143967}mais à cause d'un jugement|sur le genre humain.
+{144560}{144595}Que le Seigneur soit avec toi !
+{144605}{144655}Avec toi aussi étranger !
+{144660}{144735}Je veux te charger de quelque chose,|comme si tu étais
+{144740}{144767}mon plus vieil ami.
+{144787}{144820}Bon... dis-moi.
+{144825}{144887}Dieu m'a révélé que demain midi
+{144895}{144987}tu viendras vers moi|sur l'île au fond du golfe.
+{144992}{145060}Tu me trouveras mort|près d'un puits.
+{145065}{145175}Lave-moi, enroule-moi dans|le linceul qui sera là, et enterre-moi.
+{145180}{145247}Prends ma tunique et mon turban,
+{145250}{145295}et à celui qui te les demandera
+{145320}{145350}tu les remettras.
+{145355}{145390}Bien. Je le ferai.
+{146532}{146600}Yunan, mon fils !
+{146610}{146682}Reste comme ça, les yeux fermés,
+{146697}{146737}et écoute-moi !
+{146740}{146807}La mer Yunan, la mer...
+{146825}{146862}va auprès de ton père
+{146867}{146932}et demande-lui|de faire un voyage en mer.
+{147835}{147865}Père !
+{147880}{147930}C'est à nous les îles d'outre-mer ?
+{147937}{147970}Oui ! Pourquoi ?
+{147982}{148032}Je veux prendre un bateau|et m'y rendre.
+{148042}{148127}Tu veux aller en pleine mer ?|A quoi penses-tu ?
+{148155}{148220}Tu as peur d'un bain|dans la baignoire,
+{148225}{148285}tu joues encore avec les enfants,
+{148290}{148335}et tu dors tout le temps !
+{148360}{148432}Père, je veux connaître le monde.
+{149540}{149595}Monte au mât et dis ce que tu vois.
+{150130}{150162}A droite je vois
+{150167}{150225}la surface des eaux|pleine de poissons.
+{150227}{150247}Et là-bas,
+{150255}{150302}il y a une ombre
+{150307}{150360}qui est tantôt noire
+{150365}{150405}tantôt blanche.
+{150417}{150480}Nous sommes perdus,|personne ne s'en tirera !
+{150515}{150562}Explique-toi, qu'est-ce qu'il y a ?
+{150567}{150620}C'est la montagne|de pierres noires !
+{150625}{150685}Il y a le chevalier en cuivre !
+{150732}{150812}Il faut qu'il tombe à la mer|sinon le bateau
+{150817}{150887}se fracassera contre la montagne.
+{153132}{153160}Yunan !
+{153165}{153212}Creuse à tes pieds !
+{153220}{153285}Il y a un arc en cuivre|et une flèche en plomb.
+{153312}{153387}Frappe le chevalier|qui est sous la coupole !
+{153392}{153440}Fais-le tomber à la mer
+{153445}{153490}et délivre le monde
+{153495}{153530}de ce malheur.
+{155690}{155782}Reste bien enfermé.|Ne sors surtout pas.
+{155787}{155817}Oui père !
+{155860}{155902}A mon retour j'ouvrirai.
+{155907}{155955}Adieu père, adieu !
+{155977}{156017}Adieu mon fils.
+{157620}{157660}Qui es-tu ? Qu'est-ce que tu veux ?|Va-t'en !
+{157665}{157722}Par pitié, ne me tue pas !
+{157972}{158020}Tu ne veux pas me tuer ?
+{158225}{158292}Tu me laisseras vivre, hein ?
+{159010}{159070}Je suis content que tu sois calmé.
+{159075}{159127}Je suis roi, fils de roi.
+{159130}{159217}Tu es un ami.|Pourquoi je voudrais te tuer ?
+{159240}{159295}J'ai quinze ans.|A mon père qui est roi
+{159297}{159377}les prophètes ont dit|que je serais tué ce jour
+{159395}{159482}par un jeune homme sans yeux|venu de la mer
+{159487}{159515}et qui aurait
+{159520}{159587}délivré le monde|en tuant un chevalier en cuivre
+{159605}{159667}en échange d'une victime sans faute.
+{159672}{159700}La victime ce serait moi.
+{159730}{159812}Je te le dis, crois en la bonté|de Dieu et sois gai !
+{159827}{159920}Je suis content d'avoir|fait naufrage ici pour te défendre
+{159935}{160005}parce que si quelqu'un te veut du mal,|gare à lui !
+{160010}{160027}Merci.
+{160040}{160090}Je suis heureux|que tu sois mon hôte,
+{160095}{160157}même si c'est sous terre.
+{160225}{160307}Tu vas voir,|il y a un très beau bain, entre !
+{160335}{160377}Comme dit le poète
+{160382}{160490}"Vive le garçon du bain quand|sa main touche la poitrine d'Ali
+{160515}{160557}"et le dos de Malik.
+{160560}{160647}"Le bain te semble un enfer|alors que c'est un paradis,
+{160650}{160755}"surtout si on y trouve des corps|beaux comme des soleils et des lunes."
+{160760}{160787}Viens !
+{160800}{160862}Moi aussi je sais|une poésie sur le bain.
+{160887}{160917}"Vie de joie
+{160925}{160965}"pour qui descend dans le bain.
+{160972}{161072}"Les étains ont versé|d'ardentes larmes sur lui."
+{163907}{163945}Regardez
+{163950}{163980}ce garçon là-bas !
+{163985}{164022}Regardez, il est tout seul
+{164030}{164062}sur la plage.
+{164080}{164135}C'est peut-être Yunan, mon fils.
+{164170}{164245}Mais oui, c'est lui,|je le reconnais !
+{164267}{164337}Mon fils Yunan...|C'est moi, ton père !
+{165040}{165075}Que Dieu soit avec toi !
+{165080}{165130}On t'a laissé une tunique pour moi ?
+{165172}{165197}Oui monsieur.
+{165207}{165240}Donne-la-moi !
+{165755}{165780}Qu'est-ce qui t'arrive ?
+{165797}{165832}Adieu père !
+{166202}{166245}Où vas-tu ?
+{167242}{167282}Dunya, regarde dans la maison.
+{167325}{167367}Regarde comme c'est beau...
+{167410}{167457}Qui a pu faire ce plafond ?
+{167827}{167877}Il est magnifique Dunya !
+{168005}{168065}Je ne comprends pas.|C'est l'histoire de mon rêve.
+{168090}{168167}Oui ! On voit la colombe|prise dans le filet.
+{168215}{168242}Mais une chose
+{168247}{168332}n'était pas dans ton rêve.|Le mâle que tu croyais enfui
+{168337}{168430}par lâcheté|a été tué par un autre oiseau.
+{168475}{168530}Les rêves parfois instruisent mal
+{168540}{168622}parce que toute la vérité|n'est jamais dans un seul rêve
+{168645}{168695}mais dans nombre de rêves.
+{172420}{172497}Porteur ! Regarde bien|et ne te trompe pas.
+{172530}{172560}Comment tu appelles ça ?
+{172572}{172595}Dis-moi !
+{172852}{172887}Alors pigeon !
+{172900}{172955}- Tu te trompes !|- Dis-moi comment !
+{172967}{173037}L'herbe parfumée des prés.
+{173055}{173092}Alors qu'elle soit louée !
+{173135}{173210}Maintenant à moi !|Porteur, viens là !
+{173215}{173260}Comment tu appelles ça ?
+{173265}{173307}Regarde et ne te trompe pas !
+{173360}{173397}L'herbe parfumée des prés !
+{173402}{173447}Idiot, tu t'es trompé !
+{173462}{173492}Alors, c'est comment ?
+{173500}{173542}Grenade pelée.
+{173552}{173582}C'est pas fini.
+{173590}{173642}Comment ça s'appelle ?
+{173697}{173765}Regarde bien|et ne te trompe pas encore !
+{173772}{173800}Grenade pelée.
+{173810}{173845}Idiot, c'est pas ça !
+{173860}{173885}Alors, c'est comment ?
+{173892}{173955}L'auberge du bon accueil.
+{173965}{174030}Ah oui ? Alors ça c'est quoi ?
+{174035}{174092}Regarde et ne te trompe pas !
+{174097}{174135}Regarde bien !
+{174252}{174282}Qui le sait ?
+{174295}{174332}Moi je le sais !
+{174520}{174562}Alors comment ça s'appelle ?
+{174575}{174630}C'est l'âne qui broute...
+{174635}{174675}l'herbe parfumée des prés
+{174682}{174727}qui mange la grenade pelée
+{174762}{174800}et passe la nuit à l'auberge
+{174805}{174837}du bon accueil.
+{175357}{175387}Zoumourroud !
+{176192}{176227}Tu veux me déchiqueter, fais-le !
+{176245}{176312}Je suis fatigué|de marcher et de chercher.
+{176357}{176432}J'avais la plus belle des esclaves,|je l'ai perdue.
+{176455}{176482}Vas-y lion.
+{176500}{176587}Tue-moi, mange-moi,|comme ça ma peine finira !
+{176865}{176892}Qu'est-ce qu'il y a ?
+{176930}{176957}Qu'est-ce que tu veux ?
+{177042}{177075}Je ne comprends pas.
+{177135}{177180}Tu veux que je te suive ?
+{177290}{177332}Bon, je viens.
+{179947}{180025}Arrête ! Ne touche pas à ce plat,|c'est dangereux.
+{180030}{180092}Ceux qui ont goûté de ce riz|sont morts.
+{180100}{180160}Qu'il mange !|On verra ce qui arrivera.
+{180170}{180262}Laissez-moi ! Si on me tue,|tant mieux. Je ne souffrirai plus.
+{180665}{180707}- Tu t'appelles comment ?|- Noureddine.
+{180712}{180805}Habillez-le, parfumez-le,|emmenez-le au palais !
+{180810}{180902}Loin de le tuer,|notre roi est gentil avec ce garçon.
+{180912}{180977}Le roi aura été frappé|par ses beaux yeux.
+{180990}{181025}Ce n'est pas étonnant.
+{181030}{181100}Notre roi préfère sans doute|le melon à la prune.
+{181112}{181170}Je me le ferais bien ce garçon.
+{181195}{181250}Fais-moi un massage aux jambes.
+{181527}{181557}Allons !
+{181565}{181595}Plus haut !
+{181640}{181690}Plus haut|mais pas au-dessus du genou.
+{181700}{181752}Comment ! Tu ne veux pas obéir ?
+{181755}{181817}Attention ! Je te le déclare :
+{181820}{181867}tu dois faire ce que je dis.
+{181892}{181932}Je veux te garder comme amant
+{181937}{181992}et je te ferai peut-être émir.
+{182010}{182032}Qu'est-ce que je dois faire ?
+{182037}{182070}Etends-toi sur le lit !
+{182085}{182167}Je ne l'ai jamais fait,|garde tout et laisse-moi partir.
+{182175}{182237}Obéis et va t'étendre sur le lit !
+{182252}{182317}Tu veux te faire couper la tête ?
+{182800}{182837}Sur le ventre !
+{182972}{183020}Maintenant baisse ton froc !
+{183072}{183102}Allons, vite !
+{183590}{183632}Ne me fais pas trop mal !
+{183637}{183682}Tu aimes les poésies d'amour ?
+{183685}{183732}Tu en as déjà entendues ?
+{183770}{183807}Ne me regarde pas. Ecoute !
+{183820}{183912}"Le duvet de la première barbe|a écrit comme le peut un poète
+{183917}{183985}"deux lignes au myrte|sur les joues d'un garçon.
+{183990}{184072}"Quel émerveillement pour le soleil|et la lune quand il apparaît
+{184075}{184135}"et quelle honte pour les branches|quand il se penche."
+{184167}{184197}Bon...
+{184205}{184242}Tu connais celle-ci ?
+{184247}{184275}Ne me regarde pas !
+{184280}{184352}"Je lui parlai de se faire|monter par moi. Il dit
+{184357}{184412}"Quand cesseras-tu|de m'offenser ?"
+{184417}{184462}Mais je lui montrai un dinar,
+{184467}{184530}et le beau garçon me regarda|et dit
+{184535}{184592}"Si mon destin est|d'être monté par toi,
+{184597}{184647}"je ne peux pas y échapper."
+{184670}{184722}Et cette autre, tu la connais ?
+{184725}{184762}Ne me regarde pas !
+{184795}{184867}"Mon amour est grand|et le beau garçon dit alors 
+{184872}{184920}"Rentre ton chose|jusqu'aux viscères
+{184925}{184962}"et sois vigoureux !"
+{185582}{185635}- Mais elle n'est pas raide ?|- Non !
+{185665}{185752}Il faut me la toucher|avec les mains. Touche-la-moi !
+{185755}{185822}Tu sais ce qui t'attend|si tu n'obéis pas ?
+{185880}{185910}Allez !
+{186032}{186127}Mais tu es fait comme les femmes|et la mienne se raidit.
+{186147}{186217}Mon amour, tu ne me reconnais pas ?|Je suis ton esclave !
+{186290}{186317}Zoumourroud, mon amour !
+{186535}{186592}Moi aussi je connais une poésie :
+{186655}{186727}"Quelle nuit !|Dieu n'en a pas fait d'égales.
+{186732}{186822}"Son début fut amer|mais comme sa fin fut douce !"
+
