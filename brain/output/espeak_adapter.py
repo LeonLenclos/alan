@@ -2,13 +2,20 @@ from time import sleep, clock
 import subprocess
 from chatterbot.output import OutputAdapter
 
-class MacSayAdapter(OutputAdapter):
+class EspeakAdapter(OutputAdapter):
     """
     This is an output_adapter to give a voice to the chatbot.
-    With the `say` command of the mac.
+    With the `espeak` command of linux.
     """
     def __init__(self, **kwargs):
+        """
+        print_response : a boolean. True if we have to print the response
+        voice : the voice (see espeak man)
+        speed : the speed (see espeak man)
+        """
         super().__init__(**kwargs)
+        self.voice = kwargs.get("voice", 'fr')
+        self.speed = kwargs.get("speed", 100)
 
     def process_response(self, statement, session_id=None):
         """
@@ -16,5 +23,9 @@ class MacSayAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The response statement.
         """
-        subprocess.run(['say', statement.text])
+        command = ['espeak',
+                   '-v', self.voice,
+                   '-s', str(self.speed),
+                   statement.text]
+        subprocess.run(command)
         return statement
