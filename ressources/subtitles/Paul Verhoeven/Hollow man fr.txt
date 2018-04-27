@@ -1,0 +1,940 @@
+{1505}{1536}INSTABLE
+{1541}{1565}Merde !
+{2317}{2357}Merde.
+{2703}{2778}TU DEVRAIS TRAVAILLER
+{3591}{3714}Je suis un putain de génie.
+{3915}{3969}Bon sang...
+{4139}{4214}Sebastian, tu as une idée|de l'heure ?
+{4205}{4298}Pour Léonard de Vinci,|dormir était une perte de temps.
+{4287}{4327}Qui c'est ?
+{4371}{4407}Ça te regarde pas.
+{4468}{4500}Plus maintenant.
+{4541}{4572}Linda...
+{4611}{4674}J'ai réussi la réversion.
+{4690}{4753}- T'as réussi ?|- Tu vas voir.
+{4854}{4885}Regarde.
+{4951}{5105}On cherche depuis 11 mois, et tout à|coup tu trouves ? Comment t'as fait ?
+{5084}{5165}Comme d'hab' : café et twinkies.
+{5156}{5207}Je te déteste.
+{5202}{5327}Tu trouves Matt et tu files au labo ?|Je veux qu'Isabelle soit prête.
+{5312}{5396}Je vais essayer.|Quand penses-tu être là ?
+{5397}{5456}Il doit faire jour en Suède.
+{5450}{5602}Faut que j'appelle la fondation du|Nobel pour qu'ils se tiennent prêts.
+{5594}{5652}A plus.
+{5808}{5839}Matt.
+{5844}{5909}Sebastian a appelé.|Faut aller au labo.
+{5902}{5958}C'est si urgent ?
+{5953}{6030}- Il a réussi la réversion.|- Tu plaisantes ?
+{6019}{6103}- Quand ça ?|- Pendant qu'on dormait.
+{6126}{6168}Je te dépose ?
+{6209}{6272}On devrait prendre|chacun notre voiture.
+{6271}{6350}J'en ai marre de me cacher.
+{6339}{6401}Il va bien falloir lui dire.
+{6395}{6470}Je finirai par le faire.
+{6460}{6518}J'attends le bon moment.
+{6560}{6666}Avec Sebastian,|ce ne sera jamais le bon moment.
+{7055}{7155}Tu étais destiné à mourir
+{7183}{7264}Car moi j'étais fait pour voler
+{7749}{7788}Bonjour, Dr Caine.
+{7785}{7843}- Bonne journée.|- Merci.
+{8318}{8366}- Bonjour.|- Bonjour, Ed.
+{8361}{8434}Ils sont tous là.|Il se passe quelque chose ?
+{8424}{8479}Désolé, Ed.|Le règlement !
+{8649}{8758}- Code.|- Caine-zéro-zéro-deux-sept.
+{8741}{8780}Confirmé.
+{9617}{9659}Isabelle.
+{10238}{10273}Allez, Isabelle.
+{10285}{10338}Du calme, ma jolie.
+{10414}{10457}C'est bien...
+{10694}{10736}Du calme...
+{10769}{10817}ça ne te fera pas mal.
+{10859}{10902}Bouge pas.
+{11537}{11568}Isabelle ?
+{11567}{11628}Elle devient plus agressive.
+{11622}{11727}C'est à ça que ça sert,|les tranquillisants ! J'y vais.
+{11712}{11810}Ça dure depuis trop longtemps.|Le cerveau est atteint.
+{11819}{11894}- Va soigner cette morsure.|- Je me débrouillerai.
+{12004}{12068}Je parie 10 dollars que je la chope|en premier.
+{12063}{12102}D'accord.
+{12375}{12441}Papa a une surprise pour toi.
+{12863}{12905}T'as raté.
+{12903}{12993}Je m'entraîne pas|pendant le déjeuner, moi !
+{13052}{13086}Tu me dois 10 dollars.
+{13108}{13146}Mets ça sur mon ardoise.
+{13148}{13276}Tu sais, un jour il va falloir payer.
+{13349}{13431}Sarah est énervée,|essaie d'être aimable.
+{13419}{13541}- C'est des conneries, Sebastian.|- Bonjour à toi aussi.
+{13527}{13581}Allons mettre le singe sur la table.
+{13574}{13702}Comment peux-tu injecter le sérum|à Isabelle sans même Le tester ?
+{13683}{13780}- Ça fait gagner du temps.|- Bien, mais après tu nettoies.
+{13766}{13834}Tu crois que je cherche à la tuer ?
+{13826}{13919}- La liquéfier, plutôt.|- Le labo est prêt.
+{13908}{14028}Tes objections sont dûment notées|et sommairement rejetées.
+{14009}{14053}Bien, monsieur.
+{14087}{14192}Pourquoi quand tu dis ça, j'entends|''Va te faire foutre'' ?
+{14187}{14219}Je suis rodée.
+{14235}{14366}- Comment j'ai pu l'engager ?|- Tu voulais le meilleur véto du pays.
+{14347}{14475}- Elle s'attache trop aux animaux.|- C'est pour ça qu'elle est bonne.
+{14483}{14555}Ce mec avec lequel tu sors,|il est comment ?
+{14549}{14605}Il est tout ce que tu n'es pas.
+{14619}{14660}Il doit être assommant.
+{15143}{15210}- Prête dans 40 secondes.|- Entendu.
+{15228}{15302}- Paramètres vitaux ?|- Tout est normal.
+{15292}{15421}Normal, façon de parler...|Paramédical. Prêt à intervenir.
+{15399}{15439}Où en êtes-vous ?
+{15436}{15477}C'est Dieu qui parle.
+{15474}{15551}Vous perturbez l'ordre naturel|des choses...
+{15540}{15637}et serez sévèrement|punis pour l'éternité.
+{15625}{15674}Dieu a parlé.
+{15676}{15751}Combien de fois|je dois te le répéter, Frank ?
+{15740}{15785}Dieu, ce n'est pas toi...
+{15796}{15829}c'est moi.
+{15860}{15913}Désolé, chef.|J'avais oublié.
+{15913}{15957}Vous êtes prêts ?
+{15994}{16104}Comme si ces cons de médecins|attendaient après nous.
+{16093}{16174}Dis-lui que ça fait|deux heures qu'on est prêts.
+{16164}{16216}C'est ça, je lui dirai.
+{16216}{16281}- On est prêts.|- Bon. Enregistrement.
+{16272}{16298}C'est parti.
+{16318}{16448}Sujet : Isabelle II.|Processus entamé depuis 126 heures.
+{16527}{16580}Analyse, phase-D du protocole.
+{16576}{16685}Protéine irradiée|'' Caine-un-deux-cinq'' .
+{16668}{16774}Arrête de leur donner ton nom,|ça marchera peut-être.
+{16757}{16892}Merci pour la judicieuse observation.|Elle figurera dans mes mémoires.
+{16870}{16944}Très flatté.|Je te rendrai la pareille.
+{16934}{17023}Vous pourriez être un peu sérieux ?
+{17028}{17124}- Tu crois que ça va marcher ?|- J'en sais rien.
+{17110}{17174}Marqueurs quantum étalonnés.
+{17188}{17256}Sarah, trouve-nous une veine.
+{17389}{17424}Spray.
+{17574}{17604}Veine apparente.
+{17633}{17676}Bien.
+{17709}{17756}Allons-y.
+{17756}{17829}Pas question, Matthew.|A moi l'honneur.
+{18269}{18386}Heure de l'injection : 8 heures 47.
+{18723}{18772}Rythme cardiaque accéléré.
+{18848}{18911}- Encore dans les normes.|- Confirmé.
+{18913}{19016}Energie bio-électrique|et indicateurs quantiques stables.
+{19118}{19164}On a une réaction cellulaire.
+{19468}{19501}Ça marche...
+{19498}{19528}Ça marche !
+{19537}{19598}- Evidemment !|- Te vante pas !
+{19704}{19777}Son cœur s'emballe.|Elle a peur.
+{19768}{19903}Réaction quasi-instantanée|du sujet. Le protocole agit vite.
+{19883}{19953}ALERTE :|Nodule bio-électrique TO1
+{19951}{20037}Tension artérielle en baisse.|Pouls élevé.
+{20170}{20205}C'est le cœur.
+{20268}{20350}Rythme cardiaque|et activité cérébrale erratiques.
+{20339}{20420}- Arrêt cardiaque.|- Défibrillateur !
+{20411}{20462}Prépare une intracardiaque.
+{20582}{20674}- C'est foutu.|- Non. Vas-y !
+{20662}{20698}Dégagez !
+{20746}{20791}- Encore.|- Dégagez !
+{20860}{20897}- Encore !|- Dégagez !
+{20935}{20960}Encore !
+{20959}{20986}Prêt !
+{21013}{21041}Merde !
+{21039}{21074}lntracardiaque !
+{21084}{21133}Attendez, ça reprend !
+{21259}{21316}Toujours irrégulier.
+{21312}{21365}Il se stabilise.
+{22392}{22439}Ça alors...
+{22441}{22576}Activité cérébrale redevenue normale.|Marqueurs quantiques stables.
+{22614}{22672}Bienvenue, lsabelle.
+{22790}{22837}Super, baby !
+{22855}{22911}- On a réussi.|- C'est du beau boulot !
+{22906}{22968}C'est génial !
+{22960}{23026}Alors, comment elle va ?
+{23061}{23124}Elle devrait s'en remettre.
+{23229}{23331}- Allez. Entre là-dedans.|- Allez, lsabelle.
+{23325}{23390}Vas-y. C'est bien !
+{23439}{23484}Elle est bien calme.
+{23480}{23542}A croire qu'il ne lui est rien arrivé.
+{23536}{23662}On procédera à la vivisection lundi.|Pour vérifier les voies neurologiques.
+{23643}{23730}Tu veux déjà lui découper|le cerveau ?
+{23718}{23776}Je dirige pas un zoo, bordel !
+{23777}{23878}- Un enfoiré sans éthique !|- Dis-lui que tu plaisantes.
+{23864}{23930}- N'est-ce pas ?|- Oui.
+{23921}{23976}Je lui laisse quelques semaines.
+{23992}{24025}Sebastian, arrête !
+{24038}{24108}Allez, on a quelque chose à fêter !
+{24100}{24170}- J'ai faim, allons-y.|- Moi aussi.
+{24190}{24246}C'est toi qu'on devrait découper.
+{24279}{24381}Mesdames et messieurs,|votre attention s'il vous plaît.
+{24364}{24395}C'est parti !
+{24394}{24488}A la meilleure équipe|que j'aie jamais eue.
+{24474}{24512}Santé.
+{24686}{24779}...y a eu une grosse explosion|et elle a dit :
+{24766}{24860}''Si tu es si malin,|qu'est-ce que tu fais en CE1 ?''
+{24878}{24961}- Ses sourcils ont repoussé ?|- En un mois.
+{24950}{25015}- T'as été renvoyé longtemps ?|- Un mois.
+{25427}{25476}Je te croyais parti.
+{25482}{25531}Pour aller où ?
+{25587}{25641}Un truc m'échappe...
+{25638}{25708}T'es pas censé être content ?
+{25702}{25840}La réversion constituait|le dernier grand défi. Ça sent la fin.
+{25819}{25909}C'est pas vrai. On a des données|pour toute une vie.
+{25924}{26014}Matt aime se pencher|sur des chiffres, mais moi...
+{26002}{26112}il me faut de la splendeur,|du spectacle.
+{26095}{26177}Les détails, ça ne m'intéresse pas.
+{26175}{26262}Je sais.|J'en faisais partie.
+{26335}{26422}Nous deux, c'était super.
+{26450}{26481}Parle pour toi.
+{26501}{26568}Moi, je n'étais qu'un à-côté.
+{26584}{26697}Allez, on a passé de bons moments.
+{26691}{26747}C'est vrai.
+{26823}{26911}T'as jamais eu envie|de revenir en arrière ?
+{26920}{26970}De réessayer.
+{26991}{27108}Les voyages dans le temps|n'existent pas.
+{27098}{27137}Alors...
+{27150}{27194}inventons-les.
+{27603}{27641}Tant pis...
+{28596}{28646}ça fait quoi ?
+{28922}{28984}Il y a quatre ans,|ce comité m'a confié...
+{28976}{29051}une mission bien particulière|et complexe...
+{29041}{29171}visant à placer un être humain|en dehors de l'univers visible...
+{29149}{29237}puis à le réintégrer|en toute sécurité.
+{29231}{29336}Les envoyer dans ce pays imaginaire|a été facile.
+{29333}{29401}C'est le retour qui est difficile.
+{29684}{29819}- Les brins d'ADN lâchent ?|- Avec liaisons cellulaires instables.
+{29807}{29854}C'est résolu ?
+{29890}{29908}Non.
+{29943}{30019}Mais nous n'en sommes pas loin.
+{30091}{30139}Laissez-nous du temps.
+{30415}{30505}J'ai su dès votre arrivée|en première année...
+{30491}{30544}que vous étiez différent.
+{30539}{30630}Votre génie n'a cessé|de m'impressionner.
+{30628}{30665}Merci, Dr Kramer.
+{30663}{30709}Attendez un peu.
+{30733}{30818}Ce comité vous a donné toute liberté.
+{30806}{30945}Nous avons toléré vos excentricités|et respecté votre intimité.
+{30922}{31051}Mais je vous l'assure,|notre patience a des limites.
+{31029}{31101}Trouvez vite une solution...
+{31097}{31180}ou votre génie|ne m'impressionnera plus.
+{31173}{31235}Si vous n'y arrivez pas...
+{31231}{31328}je trouverai un autre|Sebastian Caine.
+{31323}{31411}- C'est quoi, ce bordel ?|- T'as intérêt à t'expliquer.
+{31399}{31482}- C'était pas le moment de leur dire.|- Ah bon ?
+{31472}{31556}Tu as des résultats,|tu dois les présenter.
+{31544}{31625}- Je peux parler ?|- T'as menti au Pentagone !
+{31616}{31763}Quand ils sauront qu'on a trouvé,|ils s'approprieront le projet.
+{31738}{31820}- Pourquoi ?|- On sera devenus inutiles.
+{31809}{31894}C'est leur projet.|Ça finira bien par arriver !
+{31881}{31969}D'accord, mais c'est aussi mon rêve.
+{31958}{32063}- Et tu suggères quoi ?|- De passer à la phase 3.
+{32048}{32098}T'es cinglé ou quoi ?
+{32093}{32194}Les essais cliniques sur humains|doivent suivre des règles...
+{32190}{32314}Pour entrer dans l'Histoire,|il faut savoir saisir l'occasion.
+{32340}{32435}Tu veux être le premier.|C'est ça, le problème.
+{32432}{32482}C'est à nous que je pense.
+{32501}{32546}On voulait changer le monde.
+{32589}{32644}C'est le moment ou jamais.
+{32676}{32744}Comment t'as eu le feu vert ?
+{32738}{32808}Je me suis porté volontaire.
+{32810}{32852}Tu plaisantes ?
+{32888}{32969}Tu t'es porté volontaire ?|Tu es fou ?
+{33001}{33127}Salk a testé le vaccin antipolio|sur lui-même. Il était fou ?
+{33116}{33163}A mon avis, oui.
+{33170}{33213}Merde.
+{33221}{33355}Ces quatre dernières semaines,|on a récupéré sept primates.
+{33334}{33449}- Ça veut tout dire.|- Tu essaies de t'en convaincre.
+{33431}{33571}Je pensais que ça te ferait plaisir.|Ça permet aux animaux de souffler.
+{33637}{33759}La précipitation nuit à l'expérience,|quel que soit le sujet.
+{33738}{33808}Comment le comité|a-t-il pu accepter ?
+{33798}{33887}- Moi, je trouve ça bien.|- Ben voyons.
+{33885}{33976}Si on veut avancer,|c'est la suite logique.
+{34041}{34149}Je resterai invisible trois jours|et on fera une réversion quantique.
+{34141}{34159}Génial !
+{34159}{34204}Je compte sur vous.
+{34331}{34361}Parfait.
+{34557}{34624}Dire qu'il nous a entraînés|là-dedans !
+{34646}{34703}On peut en parler plus tard ?
+{34697}{34758}J'essaie de faire l'amour.
+{34759}{34830}Notre carrière est en jeu !
+{34872}{34920}Je sais, Matt.
+{34915}{34971}Pourquoi on a accepté, alors ?
+{34984}{35086}Parce qu'on sait|que Sebastian peut réussir.
+{35149}{35264}- J'ai une autre question.|- Qui va être au-dessus ?
+{35367}{35412}Il te manque ?
+{35477}{35602}- Pourquoi tu me demandes ça ?|- Parce qu'il place la barre haut.
+{35627}{35687}Je vais te confier un secret.
+{35710}{35837}Le concept de Sebastian|est bien plus attirant...
+{35819}{35878}que Sebastian lui-même.
+{35991}{36038}On est prêts.
+{36132}{36176}A plus.
+{36230}{36342}- Tu peux changer d'avis.|- C'est à moi d'angoisser, non ?
+{36326}{36384}On se sent concernés aussi.
+{36391}{36470}- Tu connais celle de Superman ?|- Pas maintenant.
+{36458}{36554}Allez ! Superman|vole au-dessus de Metropolis.
+{36540}{36608}Il survole les immeubles,|super excité...
+{36599}{36733}quand il voit Wonder Woman sur|le toit de la Ligue des Justiciers.
+{36712}{36852}Elle est là, à poil, jambes écartées,|prête à être baisée.
+{36830}{36875}Alors, Superman se dit :
+{36872}{36941}'' Celle-là, je vais me la faire !''
+{36933}{37050}Puis il se dit qu'il pourrait|lui mettre un coup rapide...
+{37031}{37170}et se tirer fissa. C'est Superman,|il est plus rapide qu'une balle !
+{37146}{37271}Il fonce sur elle et la baise si vite|qu'elle se rend compte de rien.
+{37252}{37388}Wonder Woman se redresse et dit :|'' Merde, c'était quoi ?''
+{37372}{37448}Alors, l'homme invisible répond :|''Je sais pas...
+{37439}{37529}mais qu'est-ce que j'ai mal au cul !''
+{37551}{37653}Elle est marrante, non ?|Allez, rigolez, quoi !
+{38043}{38145}Mesdemoiselles,|c'est pour la science.
+{38272}{38323}Branchement du goutte-à-goutte.
+{38438}{38508}- Comment tu te sens ?|- Un peu tendu.
+{38499}{38602}Pouls 88, TA 14-19,5.|C'est un peu élevé.
+{38587}{38637}On se demande pourquoi.
+{38652}{38683}Tu es décidé ?
+{38691}{38731}Affirmatif.
+{38756}{38811}- Prêt, au paradis ?|- Prêt.
+{38846}{38878}C'est parti.
+{38876}{38968}Pourvu que ça devienne pas gore.|C'est parti.
+{38964}{39034}Au cas où,|j'ai une option sur sa Porsche.
+{39049}{39121}- Comment tu peux dire ça ?|- Désolée.
+{39119}{39169}La Porsche est pour moi.
+{39172}{39274}Sujet de sexe masculin, 38 ans,|poids 75 kilos.
+{39353}{39407}Sérum irradié.
+{39427}{39479}- Pourvu que ça marche.|- Ça marchera.
+{39498}{39535}On parie ?
+{39532}{39608}Si je gagne,|tu ne seras pas là pour payer.
+{39600}{39631}Tu es prêt ?
+{39640}{39741}Je m'en charge. Si ça foire,|ça sera pas de votre faute.
+{39785}{39816}D'accord.
+{39905}{39945}Une dernière déclaration ?
+{39965}{40061}Si je meurs, dis que mes derniers|mots étaient brillants.
+{40725}{40800}Heure de l'injection : 18 heures 23.
+{40838}{40924}- Tu sens quelque chose ?|- Pas encore.
+{41000}{41068}- Tout est stable.|- Pas de réaction.
+{41060}{41136}Avec l'ADN humain,|ça peut être long.
+{41126}{41175}- T'as fait comme il faut ?|- Oui.
+{41170}{41249}Revérifie la radioactivité.
+{41238}{41314}L'activité bio-électrique est stable.
+{41310}{41340}Bordel de merde !
+{41347}{41441}- Je vais répéter le protocole.|- Attends.
+{41475}{41554}Je commence à sentir quelque chose.
+{41577}{41638}Dans mon bras...
+{41634}{41688}Il devient chaud.
+{41717}{41809}Je sens des picotements.
+{41839}{41916}Maintenant, c'est le dos.
+{42081}{42112}C'est parti.
+{42331}{42405}Merde, ça fait mal !
+{42415}{42458}Ça me déchire !
+{42465}{42567}Rythme cardiaque accéléré.|Pouls, 110, 130.
+{42706}{42788}Je pensais pas que j'aurais si mal !
+{42784}{42887}- Frank, affichage !|- Il risque d'avoir une attaque.
+{42983}{43080}Pouls 165, 170.|Tension artérielle 18-11 .
+{43065}{43125}Sebastian, tu m'entends ?
+{43264}{43331}- Le cœur va lâcher.|- Défibrillateur !
+{43323}{43362}Tout de suite !
+{43491}{43557}Quantum subcellulaire.|Il va partir.
+{43550}{43611}Bio-électrique hors normes.
+{43630}{43661}Attends.
+{43664}{43706}Ça repart.
+{43803}{43842}Pouls 180.
+{43839}{43886}Etat stationnaire.
+{44291}{44359}Merde alors !
+{44479}{44601}Le pouls ralentit.|170... 160...150.
+{45057}{45151}Heure de la transformation|bio-quantique .: 18 heures 26.
+{45187}{45218}Il va bien ?
+{45217}{45319}Etat de choc bio-électrique.|Il s'est évanoui.
+{45304}{45434}- Les constantes sont normales ?|- Pouls 110. TA 13-7,5.
+{45415}{45508}- Mesures quantiques normales.|- Activité électrique stable.
+{45619}{45700}On racontera ça|à nos petits-enfants.
+{45725}{45793}Pouls régulier à 85.
+{45819}{45924}Tu as réussi.|Tu es le premier.
+{46772}{46819}N'aie pas peur.
+{46826}{46876}Tu t'étais assoupie.
+{46901}{46971}Sa respiration est soporifique.
+{46996}{47047}Ça fait combien de temps ?
+{47061}{47092}17 heures.
+{47109}{47208}On a assez de données|pour deux générations.
+{47195}{47243}C'est une sacrée avancée !
+{47317}{47441}Devant ce vide, c'est à se demander|s'il est vraiment là.
+{47436}{47497}- Tu as vu ?|- Tu m'entends ?
+{47490}{47620}La lumière !|Eteignez cette putain de lumière !
+{47700}{47757}lmpossible de fermer les yeux.
+{47749}{47813}Tes paupières sont transparentes.
+{47806}{47940}Etrange... Je me sens comme avant,|sauf que je ne suis pas là.
+{47933}{47979}Tu es là.
+{48231}{48267}Par ici.
+{48265}{48326}- Où ça ?|- Devant la glace.
+{48331}{48382}Je me regarde.
+{48447}{48534}Ou plutôt, je regarde dans le vide.
+{48646}{48733}- Comment il va ?|- Demande-le lui.
+{48737}{48838}- Comment tu te sens ?|- A vrai dire, pas si mal.
+{48950}{49010}Un peu plus d'ambiance.
+{49002}{49101}C'est la lumière.|Ses paupières sont transparentes.
+{49113}{49175}Alors, ça fait quoi|d'être un fantôme ?
+{49167}{49264}Eux, ils sont morts.|Moi, je suis bien en vie.
+{49250}{49290}Fais pas le con !
+{49322}{49363}J'ai pas pu résister.
+{49359}{49431}Je crois jouer à colin-maillard.
+{49454}{49516}Où peut-il bien être ?
+{49510}{49619}Je vois que ta personnalité|est restée la même.
+{49610}{49714}- Il vient de me frôler !|- Du calme, je m'en occupe.
+{49766}{49829}- Tu vois quelque chose ?|- Où il est ?
+{49821}{49866}Tu l'as trouvé ?
+{49929}{49975}Je te vois, chef.
+{49999}{50066}Vous savez pas vous amuser.
+{50069}{50117}Mon Dieu !
+{50113}{50236}J'ai fait en sorte qu'il y ait|toujours quelqu'un à tes côtés.
+{50217}{50338}L'équipe sera d'astreinte Alpha.|En cas de problème on est là...
+{50320}{50440}en 30 minutes.|C'est moi qui ai rédigé la procédure.
+{50434}{50539}C'était pour te rassurer.|Il y a une caméra infrarouge...
+{50524}{50592}- Elle aime ça, hein ?|- Quoi ?
+{50584}{50661}- Commander.|- Oui, elle adore ça.
+{50654}{50729}Il était temps de passer la main.
+{50739}{50774}N'oubliez pas...
+{50798}{50861}c'est encore mon projet.
+{51066}{51188}- Ça te va, d'être de nuit ?|- Vu ce que je sors, de toute façon...
+{51168}{51255}C'est le lot des accros du boulot.
+{51242}{51323}Carter viendra à six heures te relayer.
+{51312}{51379}Moi à heures heures.|Appelle-moi s'il le faut.
+{51376}{51424}Ça ira.|Va te reposer.
+{51419}{51474}- D'accord, salut.|- Salut.
+{53045}{53077}Tu es réveillée ?
+{54229}{54279}Sebastian ?
+{54402}{54454}Tu es là ?
+{54688}{54738}Je sais que tu es là.
+{54978}{55058}- Tu as bien dormi ?|- Non.
+{55048}{55116}C'est dur de dormir les yeux ouverts.
+{55107}{55235}- Qu'est-ce que tu as fait ?|- J'ai fait les cent pas.
+{55214}{55282}Sarah dit que tu es sorti|de ta chambre.
+{55274}{55327}Je suis allé boire un café.
+{55320}{55422}La prochaine fois,|préviens la permanence...
+{55408}{55474}au cas où il t'arrive quelque chose.
+{55465}{55556}Je suis touché,|mais il n'y a pas de lézard.
+{55544}{55594}Pourvu que ça dure.
+{55629}{55673}Tout est normal.
+{55705}{55761}Je vais t'enlever ça.
+{55834}{55873}Ça va ?
+{55878}{55912}Oui. Pourquoi ?
+{55918}{55974}Je te sens un peu nerveuse.
+{56013}{56078}Je vais très bien.
+{56169}{56217}Tu me regardes, là ?
+{56233}{56270}Non.
+{56285}{56316}Pourquoi ?
+{56378}{56409}Pour rien.
+{56632}{56739}- Et les clients, c'était quel genre ?|- Un mec m'a dit :
+{56723}{56836}'' Les femmes, je les aime|comme mon café.'' Tu y crois, toi ?
+{56818}{56904}- Il voulait dire froid et amer.|- Très drôle.
+{56893}{56974}Je vais pisser.|Eloigne Carter de ma bouffe.
+{56963}{57011}Je ne te promets rien.
+{57990}{58060}Ça doit être flippant|au début seulement.
+{58050}{58153}Mais qu'est-ce que tu ferais|si t'étais invisible ?
+{58139}{58274}Moi, ça me fout les jetons. Même|pour pisser, il me faut mes lunettes.
+{58253}{58346}- Personne veut voir ça.|- Qu'est-ce que j'en sais ?
+{58332}{58422}Ce qu'on ferait nous,|ou ce que Sebastian ferait ?
+{58409}{58435}Quelle différence ?
+{58436}{58511}Il y a la nature humaine,|et celle de Sebastian.
+{58502}{58561}Lui qui se prend pour Dieu...
+{58555}{58639}imaginez ce qu'il ferait,|livré à lui-même.
+{58628}{58653}Ça fait peur.
+{58662}{58731}Heureusement, c'est presque fini.
+{58723}{58823}C'est pas fini ! Vous pensez|que Sebastian exagère...
+{58807}{58897}alors, imaginez l'usage|qu'en fera l'armée !
+{58883}{58952}Autant que ce soit notre armée.
+{60064}{60122}Sebastian, merde !
+{60124}{60253}Tu ne sais pas à quel point|c'est drôle. Tu devrais essayer.
+{60239}{60300}J'en aurai sûrement l'occasion.
+{60445}{60476}Du calme.
+{60475}{60584}C'est ma dernière nuit,|on fait une dernière expérience ?
+{60625}{60742}Est-ce que tu devines|ce que c'est ?
+{60741}{60778}Quoi ?
+{60897}{60949}Tu ressens quoi ?
+{60975}{61031}Une sensation trop familière.
+{61165}{61284}Tu veux pas savoir ce que ça fait|de coucher avec l'homme invisible ?
+{61273}{61355}- Ce serait comme avant.|- Comment ça ?
+{61344}{61393}Tu n'étais jamais là.
+{61396}{61455}Je suis là, maintenant.
+{61471}{61533}On en a déjà parlé, tu te souviens ?
+{61529}{61564}De quoi ?
+{61563}{61635}De la différence que ça ferait.
+{61647}{61728}Sebastian, la différence,|je la connais.
+{61725}{61838}Ce n'est pas que je ne vois rien,|mais je ne ressens rien.
+{61859}{61904}Repose-toi un peu.
+{61904}{61953}Demain c'est le grand jour.
+{62129}{62182}Sujet .: Dr Sebastian Caine.
+{62177}{62302}Processus entamé depuis|86 heures et 23 minutes.
+{62283}{62403}Phase-D du protocole. Injection|de la protéine Caine-un-deux-sept.
+{62385}{62446}Irradiation achevée.
+{62443}{62474}Prêt.
+{62489}{62555}- Tu es prêt ?|- Pas vraiment.
+{62598}{62655}Je commençais juste à m'amuser.
+{62685}{62722}Tant pis pour toi.
+{62749}{62814}On se voit dans une minute.
+{62848}{62938}Heure de l'injection : 9h28.
+{63195}{63236}Comment tu te sens ?
+{63243}{63310}Quelque chose ne va pas.
+{63472}{63517}Rythme cardiaque accéléré.
+{63513}{63559}Indicateurs erratiques.
+{63556}{63657}- Activité bio-électrique déréglée.|- Contrôle la radiation.
+{63685}{63715}Quoi ?
+{63722}{63829}- Que se passe-t-il ?|- Je n'arrive pas à respirer...
+{63824}{63907}- Voies respiratoires ?|- Arrêt respiratoire. Intubation !
+{63979}{64007}Carter !
+{64111}{64138}Intubez-le !
+{64615}{64703}- Il est en phase de changement.|- Mettez-le sur la table.
+{64707}{64757}On n'a plus de signaux.
+{64751}{64798}Allez !
+{64824}{64900}- Amène-moi une IV d'AG-7.|- J'y vais.
+{65002}{65033}Plus de pouls.
+{65046}{65092}Je n'ai plus de pouls !
+{65089}{65147}Début de réanimation.
+{65294}{65384}Me claque pas entre les mains,|Sebastian !
+{65379}{65419}Le pouls repart.
+{65512}{65609}- Sebastian, tu m'entends ?|- Il est en état de choc.
+{65740}{65787}Bon Dieu !
+{65938}{65997}Ça n'a pas marché ?
+{65990}{66021}Non.
+{66043}{66138}Tu as l'air inquiète.|Ça a dû être grave.
+{66187}{66307}- Tu as failli mourir.|- J'en ressortirai encore plus fort.
+{66287}{66383}Et on peut dire adieu|à notre carrière.
+{66375}{66410}Et pour Kramer ?
+{66429}{66460}On ne dit rien.
+{66470}{66527}Pas besoin qu'il soit au courant.
+{66539}{66655}- Les autres, on leur ment aussi ?|- Y a pas le choix.
+{66638}{66718}Si je dois rester|comme ça un moment...
+{66707}{66778}on va devoir faire|quelques ajustements.
+{66880}{66913}Ça y est.
+{66997}{67056}- Ouvre.|- Voilà.
+{67636}{67674}Soulève la tête.
+{67694}{67736}Carter, le ventilateur.
+{68075}{68123}OK, ne bouge pas.
+{68417}{68444}Ne bouge pas.
+{68576}{68627}Merci. C'est mieux.
+{68689}{68721}Et voilà.
+{68750}{68842}- Y a du progrès.|- On dirait presque un humain.
+{68828}{68923}- Ça nous changera.|- Vous parlerez plus dans le vide.
+{68911}{68988}On va pouvoir rallumer.
+{69000}{69095}Essayons de découvrir|ce qui n'a pas marché.
+{69081}{69153}Avant qu'il se mette aussi|à nous mordre.
+{69289}{69347}- Et merde !|- Quoi ?
+{69340}{69386}J'ai perdu la cohésion.
+{69392}{69451}- Tu y arrives ?|- Non.
+{69455}{69532}J'arrive pas à trouver|le B et le C.
+{69530}{69565}Le B et le C ?
+{69593}{69724}En CM2, mon prof m'avait dit que|le génie, c'est d'aller de A à D...
+{69704}{69770}sans passer par B et C.
+{69769}{69910}Ça, Sebastian en est capable.|Mais moi, il me faut le B et le C.
+{69980}{70052}Tiens bon, Sebastian.|On y est presque.
+{70085}{70136}Dégagez, les gars !
+{70428}{70535}- Je n'en peux plus, de ces tests.|- Je sais, c'est dur...
+{70520}{70587}Arrête ! Tu ne sais rien du tout.
+{70593}{70688}- Ce n'est facile pour personne.|- Ta gueule, Matt !
+{70684}{70714}Pour toi, si.
+{70733}{70800}Je devais rester invisible|trois jours.
+{70793}{70860}Et ça fait dix jours que ça dure !
+{70854}{70978}Dix jours d'examens d'anapath,|d'irradiation et de piqûres à la con !
+{70986}{71049}J'en peux plus !
+{71053}{71127}- Ce que je voulais dire...|- Je m'en branle !
+{71124}{71156}Et ne me dis...
+{71155}{71224}Ne me dis plus jamais|que c'est dur !
+{71558}{71607}La voilà.
+{72290}{72355}Je te sucerais bien les nichons.
+{72375}{72428}Dr Caine, qu'est-ce qu'il y a ?
+{72423}{72487}Je vais juste faire un tour.
+{72514}{72584}Une minute ! Vous sortez ?|Attendez !
+{72659}{72684}Dr Caine.
+{72691}{72803}- Comment ça, vous sortez ?|- Si je reste ici, je pète les plombs.
+{72785}{72860}- Vous ne devez pas sortir.|- Pourquoi ?
+{72850}{72928}- C'est le règlement.|- Le mien. Je l'ai changé.
+{72918}{72989}- Code.|- Caine-zéro-zéro-deux-sept.
+{72982}{73047}- Confirmé.|- Vous pouvez pas le changer.
+{73038}{73142}J'ai pas l'intention de moisir|dans ce trou à rats !
+{73127}{73206}Je sors !|Je reviens dans quelques heures.
+{73207}{73242}Et merde !
+{73420}{73529}Salut, c'est Carter...|Y a un problème.
+{73926}{74006}- Comment ça va, Ed ?|- Salut !
+{74017}{74122}- Ça faisait un bail !|- Tu sais ce que c'est...
+{74105}{74158}Le boulot, encore le boulot...
+{74152}{74250}Ça m'inquiétait, que votre voiture|n'ait pas bougé.
+{74237}{74288}Merci beaucoup.
+{74289}{74336}Tout va bien.
+{75279}{75338}Hé, regarde.
+{75331}{75414}- Regarde ça.|- Mince, il est bizarre !
+{75451}{75495}Maman !
+{75491}{75562}- Maman !|- Quoi ?
+{75570}{75608}- Quoi ?|- Un fantôme !
+{75606}{75706}- Soyez pas bêtes.|- Y a un fantôme !
+{75711}{75823}On se retrouve au labo.|Je vais passer chez lui, au cas où.
+{75808}{75842}A tout à l'heure.
+{75850}{75892}Il pourrait être là.
+{75929}{75977}Il pourrait être n'importe où.
+{77323}{77358}Merde.
+{77616}{77684}C'est même pas la peine d'y penser.
+{77826}{77873}Qui le saura ?
+{82475}{82530}Merde !
+{82576}{82641}Matt, c'est moi.|Il est passé ici.
+{82636}{82700}Non, il a retiré son masque.
+{82692}{82801}Aucune idée. Il a dû sortir.|Je sais pas où il est.
+{82785}{82840}Je rentre au labo.
+{82846}{82946}Et comment je fais ?|Je ne peux pas le voir !
+{83945}{84024}Si vous voulez le buter,|je suis partante.
+{84012}{84130}C'est pas un singe !|Vous n'exagérez pas un peu ?
+{84111}{84201}C'est pas la question.|Dehors, il est en danger.
+{84188}{84300}Si on découvre qui il est,|tout le projet tombe à l'eau.
+{84283}{84389}Du calme.|On va rien découvrir du tout.
+{84374}{84437}- Je peux le buter ?|- Où t'étais ?
+{84432}{84468}J'ai prévenu Carter.
+{84478}{84570}Je suis passé chez moi|prendre des affaires.
+{84557}{84593}C'est ça !
+{84596}{84710}Je suis passée chez toi.|Tu t'es pas contenté de faire ça.
+{84691}{84797}- Je sais pas de quoi tu parles.|- Comment tu as pu ?
+{84781}{84838}Tu as vu quoi, chez moi ?
+{84831}{84887}J'ai vu ton visage, tes vêtements.
+{84881}{84973}Pourquoi il a fallu|que tu te montres en public ?
+{84959}{85086}Je suis toujours le chef de ce projet.|C'est ma décision.
+{85072}{85167}Tu as raison. C'est ta décision.
+{85167}{85282}Mais sors encore une fois|et je te dénonce au comité.
+{85282}{85351}Pour foutre ta carrière en l'air ?
+{85352}{85398}Pas cap' !
+{85430}{85462}Chiche.
+{85645}{85695}Alors, c'est comme ça ?
+{85700}{85751}Me voilà rat de laboratoire.
+{85745}{85818}Dès le début,|tu connaissais les risques.
+{85834}{85928}Carter, tu me trouveras|une roue pour hamster ?
+{85921}{85956}Pas de problème.
+{85985}{86048}Laissez tomber, on rentre.
+{86054}{86158}- Il la veut vraiment, sa roue ?|- A ton avis ?
+{86182}{86271}Le comité est au courant|de ce qu'on a fait, non ?
+{86312}{86397}- Merde !|- Si on arrive à le récupérer, ça ira.
+{86385}{86494}- J'arrive pas à y croire !|- Tu diras que tu ne savais rien.
+{86496}{86592}Mais je t'en supplie,|ne nous balance pas.
+{86710}{86794}- Elle va parler ?|- Elle est trop impliquée.
+{86782}{86861}- C'est pas elle qui m'inquiète.|- Sebastian.
+{86849}{86968}L'expérience s'éternise.|J'ai peur pour sa santé mentale.
+{86948}{86994}Il est peut-être trop tard.
+{87063}{87098}Bougez pas.
+{87210}{87240}Bien.
+{87259}{87359}- Alors, c'était comment ?|- Quoi ?
+{87352}{87479}- D'être dehors.|- Je me suis juste baladé.
+{87458}{87548}C'est ça...|Et vous avez rien fait d'autre ?
+{87540}{87578}Comme quoi ?
+{87592}{87642}Moi, si j'étais vous...
+{87638}{87713}je ferais chier les gens,|je m'amuserais...
+{87713}{87814}je traînerais dans les magasins|de lingerie. Le pied !
+{87883}{87932}Un peu puéril, non ?
+{87933}{87958}Non.
+{87991}{88080}Il était tard.|Je ne suis pas sorti longtemps.
+{88071}{88121}Vous avez vu quelqu'un ?
+{88118}{88165}Une fille...
+{88202}{88261}- Vous vous l'êtes tapée ?|- Non.
+{88286}{88375}En fait, je lui ai fait peur.
+{88399}{88424}Et alors ?
+{88458}{88500}C'était agréable.
+{88549}{88590}Génial !
+{90498}{90625}Lin, tu te souviens de B et C ?|Je crois que j'ai trouvé.
+{90634}{90731}Réversion : 55% .|On n'a jamais fait mieux.
+{90717}{90862}On était dans une impasse. Il fallait|changer la signature des radiations.
+{90841}{90931}Soixante-quinze pour cent.|Quatre-vingt pour cent.
+{90920}{90981}- Quatre-vingt deux.|- Allez !
+{90979}{91016}Ça y est.
+{91014}{91102}- Non, ça ralentit.|- Sois un peu optimiste !
+{91096}{91180}88 pour cent.|92 pour cent.
+{91197}{91256}93 pour cent.
+{91269}{91322}94 pour cent.
+{91342}{91392}95 pour cent.
+{91472}{91512}- Oh, non !|- Merde !
+{91532}{91680}- Les chaînes se désintègrent.|- Effondrement des quanta à 95% .
+{91659}{91810}Chouette avancée ! J'ai failli me|transformer en un tas de chair fumant.
+{91791}{91871}- Ne me tente pas.|- Allons, on s'en approche !
+{91859}{91969}Il a juste remplacé l'énergie|quantique par la stabilité !
+{91951}{92046}- Tu chies de pas y avoir pensé !|- Tu crois ça ?
+{92032}{92152}95%, ça mérite même|pas que je m'y attarde !
+{92173}{92201}Connard.
+{92424}{92489}Sale con !|C'est quoi, ton problème ?
+{92485}{92566}Matt est sur une piste.|Il a besoin de toi.
+{92605}{92680}On peut dire qu'il est|sur une piste...
+{92669}{92767}à la traîne, juste derrière moi.|Depuis des années.
+{92752}{92857}Descends de ton piédestal.|Il fait tout pour te sortir de là.
+{92864}{92905}Pour me tuer, oui.
+{92924}{92988}Et tu sais ce qui est le pire ?
+{92979}{93074}C'est d'avoir ce don|sans pouvoir m'en servir.
+{93080}{93182}- C'est un don, maintenant ?|- Tu l'as dit !
+{93174}{93298}Si t'étais pas si bornée,|tu me laisserais l'explorer.
+{93290}{93432}Si t'étais pas si borné,|tu nous aiderais à te sauver la vie !
+{93449}{93494}Ma vie ?
+{93496}{93597}Je n'ai pas de vie, putain !|Je suis prisonnier.
+{93641}{93676}Non, c'est faux.
+{93714}{93802}C'est ça que tu te dis|en rentrant, le soir ?
+{93790}{93870}Pour te donner bonne conscience...
+{93858}{93992}pendant que je reste bloqué|dans ce trou à rats et que toi...
+{93980}{94040}tu t'envoies en l'air ?
+{94118}{94175}Qu'est-ce qui te pèse le plus ?
+{94177}{94240}De ne plus avoir de vie...
+{94288}{94338}ou que moi j'en aie une ?
+{95265}{95346}- Je vais au labo.|- Tu dors pas ?
+{95334}{95452}- De Vinci ne dormait jamais.|- Je suis là, au cas où.
+{96846}{96908}Non, non !
+{98008}{98063}Enfoiré !
+{98072}{98150}J'allais commencer sans toi.
+{98498}{98523}Bon sang !
+{98803}{98853}Je ne vois rien.
+{99026}{99064}Allô ?
+{99075}{99108}Non.
+{99108}{99153}Il est là.
+{99151}{99227}J'en suis sûr.|Il est là, sous mes yeux.
+{99226}{99264}Y a un problème ?
+{99268}{99374}- Je le réveille ?|- Non, c'était juste pour savoir.
+{99456}{99518}Pour qui elle se prend, celle-là ?
+{99511}{99593}Je suis pas assez bien pour elle ?
+{99583}{99658}Je vais leur montrer|ce que je vaux !
+{99647}{99683}La ferme !
+{99739}{99786}La ferme !
+{99788}{99840}Tu cherches la bagarre ?
+{99836}{99917}Tu sais ce qui se passe|dans ces cas-là ?
+{100168}{100254}Du calme.|On ne va pas te faire de mal.
+{101349}{101453}Très ingénieux. Ça repasse|sans cesse la même image.
+{101437}{101483}On part à sa recherche ?
+{101485}{101551}Non. On va voir le comité.
+{101544}{101605}Pas si vite !|Il a rien fait.
+{101597}{101666}Ah bon ?|Il a tué un chien à mains nues !
+{101658}{101731}- T'étais là ?|- Il est sorti chaque soir...
+{101721}{101817}en se fichant|de sa sécurité et de la nôtre.
+{101803}{101880}- Dieu sait ce qu'il a fait.|- N'y pensons pas.
+{101868}{101903}C'est grave ?
+{101900}{102010}Matt et moi assumons l'entière|responsabilité du mensonge.
+{101994}{102077}- Et quand il revient ?|- On suit la procédure.
+{102065}{102124}Le comité assurera la sécurité.
+{102117}{102173}On voit ça demain matin.
+{102448}{102558}J'avais confiance,|je pensais que vous sauriez gérer ça.
+{102542}{102607}Je sais qu'on a mal agi.
+{102600}{102730}Ça n'a rien à voir.|C'est bien pire que ça.
+{102722}{102773}Restons-en là.
+{102857}{102943}Je vais réunir|le comité de surveillance.
+{102933}{103008}Retournez au labo.|On se charge de Sebastian.
+{102997}{103120}- On peut faire quelque chose ?|- Videz vos bureaux.
+{103139}{103232}Sachez que nous sommes|vraiment désolés.
+{103219}{103288}C'est un peu tard pour des excuses.
+{103360}{103395}Howard ?
+{103405}{103446}C'était quoi ?
+{103450}{103524}- Un problème au boulot.|- C'est grave ?
+{103514}{103575}Assez pour réveiller des généraux.
+{104943}{104987}Bonsoir, patron.
+{105348}{105373}Au secours !
+{105478}{105519}Au secours !
+{106170}{106202}Howard !
+{106777}{106854}- Tu es bien nerveuse.|- Tu m'as fait peur.
+{106847}{106907}Tu ne me dis pas bonjour ?
+{106907}{106955}Tu ne m'aimes plus.
+{106960}{107038}- Je suis pressée.|- Je comprends.
+{107037}{107102}La journée va être longue.
+{107265}{107305}Il est rentré quand ?
+{107303}{107400}A trois heures du mat'.|Depuis, il traîne au labo.
+{107394}{107424}Kramer a appelé ?
+{107424}{107507}Il doit être en réunion|avec le comité.
+{107500}{107598}On aurait dû avoir des nouvelles.|J'appelle.
+{107650}{107707}Est-ce que le Dr Kramer est là ?
+{107712}{107747}Quoi ?
+{107823}{107864}Mon Dieu !
+{107888}{107923}Quoi ?
+{107933}{107973}Il est mort.
+{107988}{108050}Il s'est noyé dans sa piscine.
+{108181}{108237}Le général Caster, s'il vous plaît.
+{108368}{108412}Il n'y a pas de tonalité.
+{108453}{108568}- Pas de ligne extérieure non plus.|- Alertons la sécurité.
+{108630}{108732}- Code.|- McKay-un-delta-huit-trois-cinq.
+{108728}{108803}Code non valide.|Requête rejetée.
+{108797}{108916}C'est bien la première fois.|McKay-un-delta-huit-trois-cinq.
+{108905}{108961}Code non valide.|Requête rejetée.
+{108971}{109014}Je vais essayer le mien.
+{109026}{109101}Kensington-deux-roméo-un-cinq-neuf.
+{109091}{109181}Code non valide.|Requête rejetée.
+{109261}{109309}On a un problème.
+{109386}{109420}J'y crois pas !
+{109418}{109472}Les secours vont être longs ?
+{109465}{109548}Ça risque de prendre|un jour ou deux.
+{109540}{109637}- Tu as infiltré le système ?|- Ça y est.
+{109670}{109775}- Tu parles d'un système !|- C'est lui qui est doué.
+{109761}{109835}Visiblement, il y a encore plus fort.
+{109852}{109905}- Alors ?|- Le système fonctionne.
+{109900}{110026}Nos codes d'accès ont été effacés.|Il n'en reste qu'un seul.
+{110122}{110182}Ça veut dire qu'on est coincés ?
+{110188}{110230}File-m'en une.
+{110929}{110971}Il n'est pas là.
+{111025}{111126}Sebastian, ce n'est plus drôle.|Dis-nous où tu es.
+{111111}{111216}Désolé, mais je ne peux pas|te laisser me balancer.
+{111239}{111288}Sebastian, où es-tu ?
+{111291}{111345}Tu ne sais pas ce que c'est.
+{111353}{111466}Ce pouvoir, cette liberté.|Je ne peux pas y renoncer.
+{111466}{111590}J'ignore ce que tu mijotes|avec le téléphone, l'ascenseur...
+{111574}{111668}mais ça ne marchera pas.|Ils sont au courant.
+{111654}{111690}Eh non...
+{111694}{111764}Kramer est mort|avant d'avoir parlé.
+{111765}{111808}J'y ai veillé.
+{111805}{111831}Seigneur.
+{111837}{111887}Tu te rends compte ?
+{111885}{111965}Tu sais, c'est fou|ce qu'on peut faire...
+{111953}{112031}quand on n'a plus|à se regarder dans la glace.
+{112059}{112108}- Sebastian.|- Au revoir.
+{112165}{112203}Merde !
+{112250}{112291}Où est Janice ?
+{112305}{112350}Elle était derrière nous.
+{112347}{112395}Merde !
+{112390}{112432}Merde !
+{112837}{112870}Il est là.
+{112935}{113005}- Le pistolet.|- C'est Sebastian ?
+{113195}{113246}Mon Dieu !
+{113242}{113273}Merde !
+{113274}{113317}Mon Dieu !
+{113367}{113485}- Elle était juste derrière nous.|- Comment il a pu faire ça ?
+{113474}{113546}Putain, il a pété les plombs !
+{113543}{113580}C'est encore pire.
+{113586}{113658}- Il a tout préparé.|- Quoi ?
+{113648}{113711}Il savait qu'on allait le dénoncer...
+{113709}{113822}et que sa carrière était fichue.|Sa seule porte de sortie...
+{113805}{113929}c'était que personne ne sache|qui il est, ni ce qu'il a fait.
+{113910}{114013}- Il va se débarrasser de nous.|- Petite conne !
+{114003}{114119}T'aurais pu empêcher ça !|Vous avez joué avec nos vies.
+{114099}{114179}- La ferme, Sarah !|- Non ! Elle a raison.
+{114168}{114271}Je m'en fous, qu'elle ait raison !|Je me fous du coupable !
+{114260}{114334}Je veux savoir ce qu'on va faire !
+{114374}{114426}Tu peux rétablir les codes ?
+{114442}{114534}- Je vais essayer.|- On va pas rester là à attendre.
+{114521}{114616}On ne va pas attendre.|On va le descendre.
+{114620}{114664}Tu t'es déjà servi de ce truc ?
+{114661}{114755}On s'en servait|pour retrouver les rats égarés.
+{114741}{114795}Les infrarouges, ça marchait pas.
+{114796}{114825}Connexion.
+{114843}{114868}C'est parti.
+{114867}{114933}Détecteurs de mouvement activés.
+{114931}{114978}Il y a un mouvement !
+{114989}{115057}- Couloir six.|- Le voilà.
+{115101}{115143}On y va.
+{115164}{115206}- Prêts.|- Prêts.
+{115207}{115277}- Fais attention.|- Surveille nos arrières.
+{115269}{115318}- Prêt ?|- On y va.
+{115506}{115573}Prenez à gauche au prochain couloir.
+{115566}{115627}On pourrait le piéger au couloir 8 ?
+{115621}{115725}- S'il continue par là.|- Je prends le 5.
+{115937}{115998}- Alors ?|- On doit pouvoir escalader.
+{115992}{116054}Y a une échelle|dans la cage d'ascenseur.
+{116092}{116138}Merde, je l'ai perdu.
+{116147}{116202}- Je l'ai perdu.|- Il a dû s'arrêter.
+{116253}{116278}C'est moi !
+{116329}{116382}- T'as vu un truc ?|- Non.
+{116378}{116472}- Comment il a pu nous échapper ?|- C'est impossible.
+{116512}{116584}Là-bas.|Derrière les canalisations.
+{116640}{116680}Dr Caine ?
+{116693}{116765}- Vous m'entendez ?|- Je vais le buter.
+{116785}{116823}Couvre-moi.
+{116843}{116868}Je te couvre.
+{117200}{117291}C'était juste une bouche d'aération|à la con !
+{117434}{117489}Lâche-le ! Lâche-le, putain !
+{117803}{117842}Qu'est-ce qui se passe ?
+{117851}{117883}Carter est blessé !
+{117902}{117927}Tire-toi !
+{117937}{117986}Où est Sebastian ?
+{117983}{118053}Merde. Il t'arrive juste dessus !
+{118265}{118366}- Il est parti où ?|- Par ici. Vers le labo.
+{118358}{118428}Les portes se referment.|Il m'a enfermé !
+{118463}{118500}- Tu le vois ?|- Oui.
+{118505}{118579}Il est toujours là.|Il est de ton côté.
+{118571}{118633}- Où ça ?|- Juste devant toi.
+{118625}{118662}Il vient vers toi.
+{118721}{118801}Il y a au moins|cinq ou six thermiques.
+{118877}{118912}Plus de résolution.
+{119002}{119106}Il diffuse de la chaleur.|Tu ne le verras pas.
+{119111}{119187}Son corps est à la température|de l'air.
+{119178}{119212}- Il est piégé.|- J'y vais.
+{119210}{119272}- C'est dangereux.|- Retourne au labo.
+{119266}{119325}- Faut pas se séparer.|- Trouve Carter.
+{119319}{119355}Tu brûles.
+{119433}{119469}Tu brûles.
+{119524}{119549}Raté !
+{119549}{119611}Il va falloir payer ton ardoise.
+{119611}{119716}Viens ici ! Tu crois que|tu vas m'avoir, Sebastian ?
+{119873}{119999}Pourquoi t'as déconné ? C'est le|sérum ou le pouvoir qui t'a fait ça ?
+{120017}{120073}Et toi, t'as pas déconné ?
+{120107}{120218}Toi qui dînes de mes restes|et m'empruntes ma propre vie !
+{120232}{120312}- Comme tu as emprunté Linda.|- Elle t'a quitté.
+{120300}{120425}Qu'est-ce qu'elle peut bien trouver|à un minable comme toi ?
+{120406}{120517}- Je ne suis pas malade, au moins !|- Non, mais tu es faible.
+{120615}{120723}Je pensais avoir du mal à te tuer.|En fait, ça me plaît !
+{121048}{121133}Le pouls et la respiration|sont faibles !
+{121122}{121173}- Il va s'en sortir.|- C'est grave !
+{121167}{121246}- Il va s'en sortir !|- Viens ici !
+{121236}{121305}Appuie sur sa plaie|jusqu'à mon retour.
+{121298}{121355}- Tu vas où ?|- Il a besoin de sang.
+{121348}{121450}- Attends les autres !|- Si j'attends, il va mourir.
+{121455}{121480}Merde !
+{121814}{121882}Je leur avais dit|de nous retrouver ici.
+{122300}{122341}Oh, non !
+{122880}{122982}Allez, avance, Sebastian.|Juste un pas en avant, bordel !
+{122976}{123006}Avance !
+{123214}{123252}Merde !
+{123289}{123337}Quel bordel !
+{123499}{123548}Fils de p...
+{123568}{123607}Dégage !
+{123628}{123718}- C'était bien la dernière fois, non ?|- Pitié !
+{123739}{123786}Fais de beaux rêves.
+{123996}{124033}Tu sais...
+{124063}{124134}j'ai toujours admiré ta fougue.
+{124514}{124594}Carter, bordel !|Tiens le coup !
+{124598}{124655}Sarah, il ne tient pas !
+{124690}{124742}- Et Sarah ?|- Fallait du sang.
+{124737}{124809}- Elle est partie seule ?|- Pour le sauver !
+{124810}{124853}Il est mort.
+{124862}{124899}Allez.
+{125128}{125158}Attends.
+{125526}{125573}Continue à vaporiser.
+{125657}{125698}Oh, non...
+{125842}{125877}C'est fini.
+{125909}{125935}Quoi ?
+{125995}{126080}Elle est morte, c'est ça ?|Bordel de merde !
+{126198}{126223}Seigneur.
+{126401}{126460}Laisse-moi faire !
+{126485}{126515}Non !
+{126815}{126860}- Merde !|- Au revoir, Linda.
+{126877}{126935}Amusez-vous bien.
+{126993}{127040}On est enfermés.
+{127073}{127120}C'est grave ?
+{127155}{127248}Ça saigne, mais les organes|n'ont pas été touchés.
+{127233}{127295}- Et Frank ?|- Non.
+{127328}{127396}Il faut que je referme ta blessure.
+{127515}{127554}Merde.
+{127642}{127682}Parle-moi.
+{127679}{127769}Je vois tout qui... tourne...
+{128382}{128479}- Tu m'entends ?|- Je ne sens plus rien.
+{128499}{128543}Et ça ?
+{128562}{128599}Un peu.
+{128603}{128630}Allez...
+{128630}{128673}Il faut que tu sois fort.
+{128670}{128740}- Ne t'endors pas.|- J'essaie.
+{128736}{128819}Allez, parle-moi.
+{128811}{128844}Parle-moi.
+{129689}{129743}Salut, toi.
+{130920}{130997}On ne va pas mourir là-dedans !
+{131696}{131739}Acide sulfurique
+{133819}{133892}Je reviens avec de l'aide.|Promis.
+{134521}{134636}- Code.|- Caine-zéro-zéro-deux-sept.
+{134619}{134693}- Confirmé.|- Merci.
+{134725}{134817}- Tu ne partiras pas.|- Tu n'as pas le choix.
+{134803}{134858}Oh si...
+{135243}{135343}Tu te prends pour Dieu,|eh bien tu vas le rencontrer !
+{137227}{137287}Je savais|que t'étais une salope !
+{137432}{137457}Salope !
+{137534}{137597}Normal que ça ait foiré, nous deux.
+{137800}{137860}La touche pas !
+{137933}{138005}Cette fois, c'est moi qui te sauve.
+{138711}{138772}Viens. J'ai entendu une explosion.
+{139151}{139191}- Touche pas !|- Quoi ?
+{139189}{139247}- C'est de la nitro.|- Arrêtons ça.
+{139240}{139287}On peut pas ! Viens !
+{139283}{139346}Y a une échelle dans l'ascenseur.
+{139437}{139503}- Ça ira ?|- J'ai pas le choix.
+{139942}{139990}Vas-y d'abord.
+{141186}{141223}Dépêche-toi !
+{141502}{141535}Merde.
+{141554}{141594}Sur le côté !
+{141906}{141957}Il redescend !
+{142079}{142107}Descends !
+{142819}{142848}Merde, alors !
+{142925}{142981}Allons-y avant qu'il tombe.
+{143790}{143869}Lâche-moi ! Lâche-moi !
+{144887}{145008}- Lâche-moi !|- Juste un dernier baiser.
+{145019}{145073}En souvenir du bon vieux temps.
+{145554}{145579}Va au diable.
+{146249}{146274}Allez !
+{146685}{146729}Mon Dieu...
+{146725}{146828}Dieu n'est plus...

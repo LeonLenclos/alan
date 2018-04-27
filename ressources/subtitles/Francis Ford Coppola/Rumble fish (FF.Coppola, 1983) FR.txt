@@ -1,0 +1,844 @@
+{773}{845}LE MOTORCYCLE BOY REGNE
+{1024}{1067}LE MOTORCYCLE BOY REGNE
+{1749}{1790}Hé, Rusty-James.
+{1802}{1852}Biff Wilcox te cherche.
+{1881}{1980}Je ne me cache pas.|- Il dit qu'il va te tuer.
+{2067}{2110}Ça ne veut pas dire qu'il le fera.
+{2122}{2145}Merde !
+{2181}{2224}Pas de chance.
+{2244}{2328}Ça arrive. La prochaine fois|on devrait jouer quitte ou double.
+{2341}{2365}Assieds-toi !
+{2376}{2470}Sans arrêt en train de vous chamailler,|comme des vrais putains de blancs.
+{2484}{2532}Soigne ton langage.
+{2544}{2594}Benny, tu me fais un cacao ?
+{2661}{2733}Comment il veut s'y prendre ?|Pour me tuer ?
+{2746}{2885}Il veut te voir ce soir vers 10 heures|derrière la boutique pour animaux.
+{2931}{2996}Après ça tu seras un homme.|- Il viendra seul je suppose ?
+{3009}{3061}Ça m'étonnerait.
+{3073}{3135}S'il amène des amis alors moi aussi.
+{3148}{3237}Tu sais bien ce qui va se passer.|A la fin tout le monde s'en mêle.
+{3251}{3297}Tu amènes des gens, lui aussi ...
+{3309}{3388}Tu crois que je vais y aller seul ?|Tu es dingue ?
+{3402}{3484}Soignez votre langage.|On ne s'énerve pas. Du calme.
+{3496}{3532}Va te faire mettre !
+{3544}{3623}Steve me suit partout où je vais.|Assieds-toi Steve.
+{3641}{3692}Assieds-toi et ne fais pas de bruit.
+{3704}{3771}On n'avait pas eu de telles emmerdes|depuis longtemps. - Tu as les jetons ?
+{3799}{3826}Smokey a les jetons.
+{3886}{3939}Smokey ne vient pas avec nous.
+{3952}{3985}BJ !
+{4044}{4080}Smokey a les jetons.
+{4106}{4173}Tu ne viens pas ? Bon, d'accord.
+{4186}{4239}Tu sais très bien que j'y serai.
+{4251}{4364}Le Motorcycle Boy dit que les gangs...|- Il est pas venu depuis deux mois.
+{4396}{4447}Et s'il revient et qu'il l'apprend...
+{4494}{4563}Et si ton frère revient|et qu'il l'apprend ?
+{4576}{4655}Mais mon frère n'est pas là !|J'en ai marre de ces conneries !
+{4669}{4793}Je sais pas s'il reviendra ni quand|ce sera ! Si vous voulez l'attendre,
+{4808}{4875}allez-y les mecs.|- Descends de là !
+{4889}{4977}Mais je vais buter ce connard ce soir|et j'aurai besoin de quelques amis ...
+{4992}{5059}On y sera mec. OK ?
+{5072}{5136}Mais vous réglez ça entre vous, OK ?|- BJ !
+{5176}{5268}On se tiendra derrière toi.|- Merde, descends de là !
+{5334}{5380}Excuse-moi Benny.
+{5519}{5624}J'adore les bagarres ! Ça me rappelle|le temps où on se battait encore.
+{5639}{5687}L'héroïne a détruit les gangs.
+{5698}{5739}J'en sais rien.
+{5751}{5818}Demande à mon frère. A l'époque|les gangs c'était quelque chose.
+{5847}{5957}Il y en avait déjà plus, tu avais|à peine 10 ans. - J'avais 11 ans.
+{6097}{6207}A l'époque, un gang ça voulait dire...|- Atterrir à l'hôpital.
+{6222}{6308}La loyauté mec !|- Je viens avec vous en fait.
+{6322}{6420}Il y aura pas de bagarre, tu entends ?|Toi et Biff vous en mettez un coup,
+{6434}{6490}et nous on regarde.
+{6502}{6572}De toute façon|je ne pense pas qu'on sera nombreux.
+{6584}{6615}Oui... Ecoutez-moi:
+{6627}{6713}Je reviens tout de suite.|Je dois parler à quelqu'un.
+{6727}{6751}Patty !
+{6802}{6838}On se connaît ?
+{6849}{6921}Rusty-James, l'homme de tes rêves !|- De mes cauchemars, oui...
+{6934}{6975}Qu'est-ce que tu fais ?
+{6986}{7077}Rusty-James !|- Je passe te voir ce soir.
+{7117}{7179}Pas de visites quand ma mère|n'est pas là ! - Depuis quand ?
+{7192}{7242}Depuis que je vois des garçons.|- C'est-à-dire ?
+{7254}{7299}Depuis l'âge de 9 ans.|- Lâche-moi Donna !
+{7311}{7395}Tu ne m'avais jamais dit ça.|- Je n'en ai pas souvent l'occasion.
+{7408}{7468}J'étais très occupé.|- On m'a dit ça, oui...
+{7481}{7548}Je passe ce soir !|N'oublie pas le tapis rouge !
+{7589}{7613}On verra.
+{7639}{7704}Tu sais bien que tu es folle de moi.
+{7716}{7740}Ah oui ?
+{7806}{7918}D'abord tu organises une bagarre|et après tu prends rendez-vous.
+{7934}{7968}Oui. Casse-toi.
+{7978}{8036}Tu sais ce qui va se passer|si tu ne viens pas ?
+{8051}{8168}Jamais il croira qu'on est venus|juste pour regarder. - Ecoute.
+{8184}{8227}On se retrouve à 9 heures et demie,
+{8239}{8295}OK ? Viens Steve.
+{8660}{8696}Qu'est-ce que tu as ?
+{8708}{8751}Tu as une cigarette ?
+{8763}{8808}Tu sais bien que je n'en ai pas.
+{8820}{8851}C'est vrai,
+{8862}{8908}j'oubliais.
+{8935}{8971}Qu'est-ce que tu as ?
+{9020}{9075}Rien. Je suis fatigué, c'est tout.
+{9132}{9200}C'est parce que|le Motorcycle Boy est parti ?
+{9248}{9305}Je ne veux pas en parler, OK ?
+{9339}{9387}Ne commence pas avec ça.
+{9427}{9456}Et ça c'est quoi ?
+{9484}{9518}Une habitude que j'ai prise.
+{9542}{9566}Alors arrête.
+{10336}{10365}Salut.
+{10376}{10484}Salut Donna. Ta sœur est là ? - Oui.|Je pensais que tu venais pour moi.
+{10499}{10602}Ta mère est là ?|- Non, juste ma sœur.
+{10617}{10674}Patty ! C'est Rusty-James !
+{10762}{10817}Salut mon cœur.
+{10845}{10934}Tu sais bien que je ne peux pas|recevoir de visite. - Quoi ?
+{10977}{11022}Qu'est-ce que tu as fait tout ce temps ?
+{11035}{11107}Ce que j'ai fait ?|- Oui. - Rien. Je...
+{11120}{11179}J'ai glandé, j'ai rien fait de spécial ...
+{11192}{11218}Avec des filles ?
+{11229}{11323}Des filles ?|C'est pas mon genre, tu le sais bien.
+{11337}{11375}Tu es toujours avec des filles.
+{11387}{11459}Va-t'en commère.|- Je veux écouter ce que vous dites.
+{11498}{11534}Petite futée.
+{11545}{11612}Traître !|- Je ne suis pas un traître.
+{11872}{11906}Alors qu'est-ce que tu as fait ?
+{11917}{11946}Donna !
+{12150}{12203}J'ai compris.
+{12230}{12278}Allez, va-t'en.
+{12567}{12603}Beurk !
+{12647}{12695}Il faut pas faire ça devant moi.
+{12707}{12781}- Va dans ta chambre !|- Il est temps d'aller au lit.
+{12795}{12893}Je devrais faire mon exposé|sur vous deux. Avec des images !
+{12920}{12968}Attends de voir !|- Amusez-vous bien !
+{13122}{13175}Tu m'as vraiment manqué.
+{15029}{15137}Rusty-James ! Réveille-toi.|- Mais quoi ? Quelle heure il est ?
+{15152}{15267}On est le jour ou la nuit ? - La nuit.|C'était une super soirée, vraiment.
+{15302}{15335}Dix heures moins le quart.
+{15394}{15469}Merde ! Je dois me battre|contre Bill Wilcox à 10 heures !
+{15722}{15793}Merci, maman va croire|que c'est moi qui l'ai bue.
+{15955}{16000}Finis-la.
+{16197}{16240}Qu'est-ce que tu as ?
+{16252}{16293}Fais-moi un sourire.
+{16304}{16369}Tu m'avais dit|que tu arrêterais de te battre.
+{16407}{16507}Mais c'est juste pour cette fois.|- Tu me dis ça à chaque fois.
+{16531}{16584}Tu veux être comme ton frère.
+{16622}{16655}Il est cool.
+{16667}{16712}Mais toi tu es bon.
+{16724}{16760}Oui, mais...
+{16792}{16828}Il est intelligent.
+{16839}{16868}Tu l'es aussi.
+{16894}{16925}Sauf avec les mots.
+{17014}{17038}Ecoute.
+{17151}{17233}Je t'aime,|mais il faut que j'y aille. OK ?
+{17404}{17452}OK. A plus.
+{17611}{17647}Sois prudent !
+{17772}{17810}Je t'aime.
+{17952}{18022}Hé, on ne n'attendait plus !
+{18034}{18092}Fais gaffe ou je commence par toi.
+{18104}{18145}Viens, on y va.
+{18191}{18230}Alors ils sont où ?
+{18241}{18289}Il faut être au moins|aussi nombreux qu'eux.
+{18302}{18359}Mais on devait juste regarder.
+{18372}{18396}Alors les mecs ?
+{18408}{18456}Tu étais où Rusty-James ?
+{18468}{18502}Et toi ?
+{18550}{18615}J'étais chez Patty. Ça te regarde ?
+{18635}{18668}Non.
+{18703}{18786}Tu n'attends pas Steve j'espère ?|- Pourquoi tu fréquentes ce minus ?
+{18800}{18908}On se connaît depuis la maternelle.|- Tu t'attaches trop aux gens.
+{18923}{18970}Oui. Allez, on y va.
+{19535}{19573}Où est Steve ?
+{19652}{19700}Il est peut-être en retard.
+{20441}{20537}On dirait qu'on va devoir|se battre contre nous-mêmes.
+{20639}{20679}Voilà Steve.
+{20847}{20892}Où est Rusty-James ?
+{20904}{20940}Je suis là !
+{20973}{21004}Plus pour longtemps.
+{21059}{21124}Attention, il a pris des pilules.|- Je déteste les types camés.
+{21165}{21189}Pourriture.
+{21201}{21232}Tu voulais me voir ?
+{21244}{21277}Vas-y, approche.
+{21288}{21350}Allez, mets-m'en une que je te ...
+{21363}{21389}T'en mettre une ?
+{21401}{21465}Vas-y ! Frappe !
+{21485}{21523}Je te découpe en morceaux !
+{21637}{21666}Vas-y !
+{24297}{24321}Salaud !
+{24333}{24403}Une glorieuse victoire de plus|pour le royaume, c'est ça ?
+{24438}{24481}Je te croyais parti pour toujours.
+{24498}{24570}On avait bien conclu un traité ?|- Attention Rusty-James !
+{24623}{24693}Tu es mort Rusty-James.
+{25030}{25162}Ne bouge surtout pas.|- Ça va aller. Mais ne bouge pas.
+{25177}{25283}Tu es en colère après moi.|- Tais-toi. Je vais m'occuper de toi.
+{25812}{25884}Ce n'est pas un peu tard pour toi|Steven ?
+{25945}{26034}Rentre chez toi mon garçon.|- Oui, Sir.
+{26063}{26145}Tu devrais faire attention|à tes fréquentations.
+{26282}{26340}Je le croyais parti définitivement.
+{26352}{26467}Peut-être que vous lui manquiez.|Il est revenu juste pour vous.
+{26609}{26719}C'aurait été mieux pour tout le monde|si tu n'étais pas revenu.
+{26889}{26915}Je le tiens.
+{26934}{26994}Je le tiens.|- Allongez-le.
+{27006}{27069}Doucement !|- Allongez-le, tout doucement.
+{27119}{27174}Mon Dieu, il saigne !|Il y a du sang partout !
+{27186}{27220}Empêchez-le de bouger.
+{27242}{27266}Tenez-le.
+{27414}{27455}Qu'est-ce que tu comptes faire ?
+{27467}{27500}Fais quelque chose !
+{27526}{27579}Où est le vieux ?|- Pas à la maison.
+{27609}{27633}Mais viens l'aider !
+{27770}{27803}Je regarde, c'est tout.
+{27837}{27893}Tiens, bois.
+{27937}{27961}Ça saigne beaucoup.
+{28199}{28230}Putain !
+{28257}{28308}Qu'est-ce que tu fais ?|Ça doit faire mal !
+{28372}{28407}Il devrait voir un médecin !
+{28419}{28520}Il a connu pire comme blessure.|- Ça pourrait s'infecter. Touche pas !
+{28553}{28582}Relaxe, OK ?
+{28628}{28686}Il faudrait qu'on me découpe|tout le côté.
+{28697}{28779}Où tu étais ?|- En Californie.
+{28813}{28908}Reste allongé, OK ?|- Merde ! C'est bien la Californie ?
+{28928}{28981}Tu l'imagines comment ?
+{28992}{29045}Comme dans les films.
+{29057}{29129}Des blondes qui se baladent,|les Beach Boys,
+{29160}{29208}des palmiers,
+{29219}{29270}la mer. Comment est la mer ?
+{29305}{29350}Je n'y suis pas allé.|- Ah bon ?
+{29362}{29424}La Californie était sur mon chemin.
+{29537}{29647}La Californie était sur ton chemin ?|La Californie est au bord de la mer.
+{29677}{29715}Ne parle pas tant.
+{29754}{29807}Arrête Steve !
+{29842}{29895}Ça ne saigne plus autant.
+{30167}{30210}Il a changé.
+{30272}{30336}Je pense que c'est le bronzage.
+{30356}{30452}Oui, on doit bronzer en Californie.
+{30481}{30534}Qu'est-ce qu'il a ?
+{30546}{30623}Parfois il devient sourd|tout d'un coup. Et il est daltonien.
+{30637}{30713}Beaucoup de gens sont daltoniens.|C'est pas un drame.
+{30726}{30832}Il fait vieux et il n'a que 21 ans.|- Oui, c'est assez vieux.
+{30872}{30937}Non, il fait vraiment vieux.
+{30949}{30973}Il fait...
+{30986}{31027}... 25 ans à peu près.
+{31150}{31205}Steve, j'ai réfléchi.
+{31218}{31314}Je pense qu'un jour|j'aurai exactement son physique.
+{31329}{31374}Aucune chance.
+{31393}{31455}Pourquoi ? Qu'est-ce qui est différent ?
+{31500}{31538}D'abord...
+{31568}{31613}Le Motorcycle Boy...
+{31656}{31711}Je ne sais jamais ce qu'il pense.
+{31747}{31781}Tandis que toi...
+{31828}{31890}Je sais toujours ce que tu penses.
+{33304}{33342}Tu m'as manqué.
+{33381}{33494}Je te croyais parti pour toujours.|- Pas moi. J'avais le mal du pays.
+{34398}{34522}... des milliers de fois.|- Quoi ? - L'autre fille...
+{34785}{34829}Qu'est-ce que tu fais ici ?
+{34868}{34920}Ce sont les cigarettes de ma mère.
+{34933}{35010}Quand j'étais jeune, mon petit ami|il m'emmenait en sortie.
+{35023}{35069}Maman !|- Dépêche-toi !
+{35080}{35131}Je vais t'emmener en sortie.
+{35142}{35221}Ne t'inquiète pas, je m'en fiche.|- On va à un concert ce soir.
+{35235}{35278}Et après ça on pourrait ...
+{35290}{35383}Après on pourrait aller quelque part|rien que nous deux.
+{35398}{35491}Tu n'as pas d'argent pour les billets.|- Je vais en trouver.
+{35505}{35582}Tu te prépares|et tu me laisses faire le reste.
+{35595}{35679}Je viens te chercher|vers sept ou huit heures.
+{35897}{35921}Patty !
+{35955}{35990}Rentre à la maison !
+{36018}{36047}A tout à l'heure.
+{36523}{36554}Salut.|- Dégage !
+{36566}{36604}Dégage espèce de...
+{36615}{36651}C'est charmant.
+{36698}{36731}C'est quoi ça, hein ?
+{36756}{36842}Il est à peine rentré,|tu viens déjà l'emmerder. Pourquoi ?
+{36856}{36913}Qu'est-ce que tu as contre moi ?
+{36945}{37005}J'ai toujours été gentille avec toi.
+{37018}{37099}J'aime pas les profs|qui habitent dans mon immeuble.
+{37128}{37157}C'est quoi ça ?
+{37167}{37278}Parce que tu lis les mêmes livres,|c'est ça ? Ça ne veut rien dire !
+{37293}{37348}Tu ne sais rien de lui.
+{37361}{37387}Rien !
+{37398}{37429}Je sais.
+{37473}{37535}Tu n'es qu'une de ses gonzesses.
+{37566}{37638}Il ne t'aime pas plus|qu'il n'aime les autres.
+{37651}{37694}Il ne m'aime pas,
+{37706}{37766}tout simplement.
+{37868}{37892}Qu'est-ce qu'il y a ?
+{37963}{37996}Tu te piques ?
+{38069}{38102}Putain d'héroïne !
+{38151}{38194}Nous on ne s'est jamais drogués.
+{38205}{38268}Ça a détruit les gangs,|ça a tout détruit.
+{38280}{38357}Si j'attrapais ma copine à faire ça|je lui casserais le bras !
+{38408}{38446}Que le bras ?
+{38579}{38670}Si seulement il avait autant|de compassion pour moi !
+{38832}{38880}Je ne suis pas dépendante.
+{38907}{38969}Je pensais que ça m'aiderait un peu.
+{39007}{39067}Je pensais|qu'il était parti pour toujours.
+{39095}{39145}Je me suis trompée.
+{39204}{39267}Mais j'avais raison.|- Non, tu te trompes.
+{39327}{39428}Tu te trompes, merde ! Il est revenu !
+{39902}{39941}Pauvre petit !
+{40014}{40105}Tu as l'air complètement crevé|tout le temps.
+{40119}{40155}Je le suis pas.
+{40234}{40318}Faut que je mange quelque chose.|- Hé ! - Quoi ?
+{40583}{40650}Hé !|- Quoi ? Ça va.
+{40703}{40739}Pourquoi ?
+{40750}{40796}Quoi ?|- Pourquoi ?
+{40825}{40856}Putain !
+{40889}{40993}Pourquoi ?|Arrête avec tes "putain". Pourquoi ?
+{41065}{41144}Faut que je mange quelque chose.|- Dis-moi pourquoi.
+{41194}{41258}Pourquoi ?|- Pourquoi quoi ?
+{41291}{41363}Pourquoi est-ce que tu es toujours|complètement crevé ?
+{41428}{41471}Je ne sais pas.
+{41483}{41521}Je n'en sais rien.
+{41920}{41966}Salut toi.
+{42612}{42646}Tous les deux à la maison ?
+{42715}{42818}Tu peux me prêter de l'argent papa ?|- Ça fait longtemps que je t'ai pas vu.
+{42832}{42861}J'étais là hier soir.
+{42892}{42940}J'ai pas remarqué.
+{42952}{43000}J'ai besoin d'argent.
+{43052}{43105}Tu es malade ?
+{43127}{43185}Je me suis blessé dans une bagarre.
+{43196}{43230}Oui, effectivement.
+{43272}{43306}Effectivement.
+{43416}{43464}Quelles étranges vies vous menez.
+{43520}{43544}C'est vrai.
+{43554}{43609}Moi je ne suis pas un avocat|qui vit de l'aide sociale.
+{43623}{43647}Pas vrai ?
+{43729}{43753}Merci.
+{43796}{43852}Un avocat vivant de l'aide sociale.
+{43881}{43924}Comment était ton voyage ?
+{43936}{43984}J'étais en Californie.
+{44024}{44076}C'était comment la Californie ?
+{44116}{44219}Je me suis amusé comme un fou.|- En Californie ! - C'est mieux qu'ici.
+{44258}{44316}Je ne sais pas quoi te dire d'autre.|- Ah oui ?
+{44328}{44419}J'y suis vraiment allé papa.|Tu veux que je te raconte ?
+{44473}{44536}Ça suffit là ! Ça suffit !
+{44553}{44587}Arrêtez avec ça !
+{44598}{44687}Arrête. Lâche ça.
+{44713}{44754}Non, je te la donnerai pas.
+{44973}{45023}Tu es comme ta mère.
+{45061}{45092}Russel-James,
+{45123}{45195}sois plus prudent s'il te plaît.
+{45227}{45314}Cette fille, Cassandra, m'a dit|qu'elle n'était pas dépendante.
+{45327}{45385}Ah oui ?|- Oui.
+{45397}{45440}Je la crois.
+{45453}{45501}Vraiment ?|- Bien sûr.
+{45515}{45594}Tu sais ce qui est arrivé à ceux|qui n'ont pas cru Cassandra.
+{45608}{45675}Les Grecs les ont attrapés.|Tu piges ?
+{45687}{45745}Quoi ?|- Les Grecs les ont attrapés.
+{45772}{45839}Qu'est-ce que les Grecs|ont à voir avec ça ?
+{45915}{46003}Qu'est-ce que j'en ai à foutre moi,|des Grecs ?
+{46037}{46080}Rien du tout.
+{46093}{46170}Quoi ? - Tu veux me faire plaisir ?|- Quoi ? - Viens ici.
+{46296}{46370}Un peu plus de respect s'il te plaît.|- Va te faire foutre !
+{46383}{46465}Je rigole.|Je suis content que tu sois là.
+{46558}{46606}Le temps c'est bizarre.
+{46633}{46686}C'est très particulier.
+{46698}{46813}Quand on est jeune, enfant,|on n'a que ça, du temps.
+{46843}{46925}On gaspille quelques années par ci,|quelques années par là.
+{46954}{46990}Ce n'est pas important.
+{47001}{47030}N'est-ce pas ?
+{47056}{47173}Et en vieillissant on se dit un jour:|Mince, il me reste 35 ans à vivre.
+{47189}{47271}Imagine un peu: 35 ans ...
+{47903}{47984}Smokey,|tu as vraiment des idées géniales.
+{48018}{48095}C'est pour ça que je suis venu.
+{48108}{48171}Cool, on va s'éclater !
+{50511}{50547}La gueule de bois encore ?
+{50559}{50624}Non, je suis malade.|Tenez, sentez là.
+{50636}{50718}Vous me faites une attestation ?|- M.Harrigan t'attend à son bureau.
+{50730}{50790}Ah oui ? Qu'est-ce qu'il veut ?
+{50803}{50851}Il va te le dire.
+{50893}{50944}Tu voulais me voir tout à l'heure.
+{50998}{51053}C'est votre fille M. Harrigan ?
+{51066}{51150}Elle est jolie. - Tu commences|à Cleveland lundi prochain.
+{51164}{51193}Tu es renvoyé.
+{51230}{51290}Mettez-moi donc à la porte !|Je m'en fous.
+{51301}{51373}Je ne viens ici|que pour voir mes amis.
+{51387}{51466}Vous croyez que ça m'intéresse ?|Je m'en fous ! Rien à foutre !
+{51479}{51537}Vous me foutez dehors ?|C'est moi qui me casse !
+{51940}{51995}Salut ! Tu m'appelles !|A demain James !
+{52058}{52118}Elle est vraiment fâchée.
+{52262}{52320}Qu'est-ce qu'il y a Patty ?
+{52343}{52381}Qu'est-ce que tu as chérie ?
+{52393}{52429}Ce que j'ai ?
+{52439}{52487}Ne me touche pas.
+{52535}{52599}Mais pourquoi tu es en colère ?
+{52625}{52651}Bon, d'accord.
+{52690}{52745}Je sais tout sur votre fête.
+{52757}{52800}Quoi ?|- Votre fête au lac. - Et alors ?
+{52813}{52885}Marsha Kirk y était,|elle m'a tout raconté.
+{52913}{53030}Mais ça n'a rien à voir avec nous !|- Bien sûr. Laisse-moi !
+{53079}{53130}Mais quoi ?|- Comment va ta copine ?
+{53142}{53219}Quelle copine ?|- La salope aux cheveux noirs !
+{53249}{53304}Qu'est-ce qu'elle a à voir avec nous ?
+{53331}{53360}S'il te plaît ma chérie.
+{53373}{53421}Tu me traites comme une merde !
+{53445}{53496}Tu baises d'autres filles,|tu te fous de moi !
+{53508}{53583}Attention, ta petite sœur est là.|Je baise pas d'autres filles.
+{53595}{53657}C'est toi que j'aime.|- Laisse-moi !
+{53686}{53722}S'il te plaît ma chérie.
+{53739}{53763}Ecoute.
+{53773}{53855}Va te faire foutre, OK ?|Tu es qu'un salaud !
+{53941}{54020}OK. Va te faire foutre toi aussi !
+{54034}{54077}Qu'est-ce que j'ai fait ? Rien du tout !
+{54088}{54124}Des clous !
+{54196}{54246}Je ne veux plus jamais le revoir.
+{54279}{54346}Ce sera pas nécessaire salope !
+{54443}{54467}Va te faire foutre.
+{55448}{55501}Alors frangin,
+{55512}{55555}qu'est-ce que tu fais ?
+{55568}{55616}Tu as une cigarette ?|- Oui.
+{55685}{55773}On bouge ce soir, OK ?|Il faut que je sorte de ce trou.
+{55788}{55850}On va sur l'autre rive,|dans le quartier chaud.
+{55863}{55937}Tu viens ?|Qu'est-ce que tu lis là ?
+{55950}{56019}Il y a une photo de moi|dans ce magazine.
+{56104}{56143}Pas mal.
+{56161}{56231}Il y a un article sur toi ?
+{56243}{56325}Non. C'est un photographe qui m'a pris|quand j'étais en Californie.
+{56350}{56391}C'est une belle photo.
+{56413}{56466}Attends un peu qu'ils voient ça.
+{56478}{56583}Non, s'il te plaît. Je préfère|que tu n'en parles à personne.
+{56599}{56647}Ils le sauront assez tôt.
+{56659}{56683}D'accord.
+{56694}{56775}J'en ai marre de cette réputation|de Robin des bois et joueur de flûte.
+{56789}{56897}J'aimerais rester le "nouveau"|dans le coin si tu n'as rien contre.
+{56911}{56935}Tu comprends ?
+{56946}{56999}Je comprends ce que tu veux dire|avec "joueur de flûte".
+{57011}{57086}Les mecs t'auraient suivi|n'importe où.
+{57098}{57158}Et ils le feraient encore.
+{57171}{57233}Imagine.|- Le joueur de flûte...
+{57246}{57294}Qu'est-ce que tu entends par là ?
+{57384}{57453}C'est toi qui l'as dit, pas moi.
+{57466}{57526}Mais je comprends ce que tu veux dire.
+{57579}{57655}Comme ce type avec sa flûte.|Ils t'auraient suivi partout.
+{57668}{57704}Le type avec sa flûte ?
+{57778}{57845}Comme dans un film.|- Oui.
+{57873}{57993}Ils me suivraient jusqu'au fleuve|et ils plongeraient dedans.
+{58130}{58171}Je sais pas.
+{58193}{58229}Oui, sûrement.
+{58285}{58393}Si tu veux que les gens te suivent,|il te faut un but.
+{58758}{58840}Qu'est-ce que vous comptez faire ?|Me tabasser avec votre matraque ?
+{58853}{58971}Pourquoi il est revenu ? - Il vit ici.|On vit tous quelque part.
+{58986}{59075}Mais il savait|qu'il valait mieux ne pas revenir.
+{59089}{59149}Mais il est ici chez lui.
+{59236}{59284}Motorcycle Boy.
+{59296}{59336}"Le" Motorcycle Boy.
+{59348}{59396}Tu crois que tu le connais ?
+{59409}{59433}Oui.
+{59488}{59560}Je ne comprends pas pourquoi|vous le haïssez tant.
+{59573}{59676}Je le hais parce que vous les mômes,|vous le prenez pour ce qu'il n'est pas.
+{59691}{59726}Ce n'est pas un héros.
+{59738}{59788}Vous peut-être ?
+{59800}{59846}Mais bien sûr, vous êtes un héros.
+{59859}{59902}Viens, on s'en va.
+{59998}{60039}On s'en va.
+{61442}{61499}Tu aimes vraiment ce fleuve, hein ?
+{61514}{61606}C'est un chouette fleuve.|- Il se jette directement dans l'océan.
+{61721}{61779}Tiens.|- J'en veux pas.
+{61808}{61856}Bois un coup Steve.
+{61931}{62010}C'est dégueulasse.|- Mais ça met de bonne humeur.
+{62024}{62115}Fais-moi penser à manger|un chewing-gum avant de rentrer.
+{62128}{62200}Pourquoi tu bois autant ?|Tu n'aimes pas que ton père boive.
+{62214}{62281}Je ne bois pas tant que ça, tu es dingue !
+{62293}{62358}Si mon père me voyait boire,|il me tuerait.
+{62956}{62997}Tu es mignon. Vraiment.
+{63008}{63063}Donne-moi le ballon petit.
+{63556}{63631}Je suppose|que je ne peux pas venir avec vous...
+{63649}{63695}Non, pas cette fois.
+{63818}{63861}Il ne l'aime pas.
+{63900}{63948}On a fait de beaux voyages ensemble|à l'époque.
+{63959}{64036}Oui, on a fait de beaux voyages.
+{64298}{64404}C'est une junkie.|Je ne sais pas ce qu'il lui trouve.
+{64428}{64481}Elle est belle.|- C'est un cas sans espoir.
+{64539}{64572}On y va !
+{64598}{64632}Elle est super.
+{64643}{64682}Allez, on y va.
+{64803}{64839}On se casse !
+{64945}{64969}Viens.
+{65692}{65731}C'est vraiment cool ici.
+{65742}{65812}Je déteste notre quartier,|il y a pas de couleurs.
+{65825}{65943}Tu ne vois pas les couleurs, pas vrai ?|- Et tu es sourd m'a dit Rusty-James !
+{65957}{66017}Comment tu vois tout ça ?
+{66077}{66142}Comme une télé noir et blanc,|le son très bas.
+{66155}{66241}Je croyais que les Daltoniens ne voyaient|pas le rouge, le vert ou le marron...
+{66409}{66505}Je crois que je me rappelle|comment c'est de voir les couleurs.
+{66519}{66553}C'était il y a longtemps.
+{66579}{66608}Ah oui ?
+{66644}{66716}J'ai arrêté d'être enfant|à l'âge de cinq ans.
+{66756}{66828}Je me demande|quand j'arrêterai de l'être.
+{66886}{66910}Jamais.
+{67011}{67095}J'ai vu notre mère en Californie.
+{67239}{67282}Elle est donc vivante ?
+{67489}{67527}En Californie ?
+{68029}{68091}Je l'ai vue à la télé.
+{68108}{68204}J'étais assis dans un bar confortable,|à réfléchir.
+{68218}{68328}Il y avait une émission à la télé.|Elle était dans le public.
+{68343}{68415}Ah oui ? - Je savais|que je la retrouverais en Californie.
+{68428}{68474}Je la croyais morte.
+{68485}{68560}Maintenant je sais pourquoi|le vieux dit toujours:
+{68572}{68647}"Tu es comme ta mère."
+{68660}{68684}Ah oui ?
+{68713}{68765}Je dois lui ressembler aussi, non ?
+{68854}{68931}Elle vit avec un producteur de films !
+{68959}{69011}Je ne sais pas|comment elle était à l'époque.
+{69074}{69098}Elle était ...
+{69126}{69167}Elle était contente de te voir ?
+{69179}{69258}Oui. Elle m'a dit n'avoir jamais|rien entendu de plus marrant.
+{69271}{69326}Elle voulait que j'emménage chez elle.
+{69408}{69485}La Californie|c'est vraiment marrant.
+{69499}{69559}C'est encore mieux qu'ici.
+{69607}{69654}C'est bien, la Californie, non ?
+{69681}{69710}C'est bien.
+{69722}{69777}La Californie c'est comme ...
+{69844}{69971}Comme une fille superbe et sauvage|qui a pris de l'héroïne.
+{70012}{70098}Elle est complètement raide,|croit qu'elle est en pleine forme
+{70133}{70234}et ne voit pas qu'elle meurt,|même si tu lui montres ses marques.
+{70353}{70464}C'est trop cool ici.|J'adore, vraiment.
+{70501}{70606}Les lumières, tous ces gens.|J'adore la foule.
+{70621}{70693}Je ne sais pas pourquoi,|peut-être parce que...
+{70748}{70861}Je supporte pas d'être seul.|Je supporte pas.
+{70875}{70952}C'est comme si on essayait|de m'étrangler.
+{70988}{71056}Quelqu'un m'étrangle.|Je ne supporte pas.
+{71068}{71188}Tu avais deux ans, j'en avais six,|quand notre mère a décidé de partir.
+{71229}{71344}Elle m'a emmené avec elle|et le vieux a picolé pendant trois jours.
+{71375}{71432}Il m'a dit|que c'était la première fois.
+{71444}{71540}Il m'a dit que c'était|la première fois qu'il était saoul.
+{71554}{71583}Et il a aimé ça.
+{71594}{71632}Continue. Tu disais ?
+{71644}{71684}Alors mon mignon. Ça te dit ?
+{71697}{71810}Tu disais ? - Que c'était|la première fois qu'il était saoul,
+{71824}{71927}En tout cas il t'a laissé seul|à la maison pendant ces trois jours.
+{71941}{72039}On habitait ailleurs à l'époque.|Dans une très grande maison.
+{72054}{72083}Et puis...
+{72149}{72216}En fait elle a fini par m'abandonner.
+{72229}{72305}Ils m'ont ramené chez le vieux.
+{72319}{72415}Il avait assez bu|pour rentrer à la maison.
+{72469}{72517}C'est de là que te vient|la peur de rester seul.
+{72544}{72592}Tu me l'avais jamais dit.
+{72603}{72646}Bouge pas beau gosse.
+{72683}{72712}Non.
+{72736}{72808}Je pensais qu'il valait mieux pas|que tu le saches.
+{72929}{72953}Regarde !
+{72989}{73013}Pousse-toi !
+{73089}{73185}Barre-toi de là mocheté !|- Qu'est-ce que tu fais ? Arrête ça !
+{73199}{73307}M'énerve pas Steve. OK ?|- On ne frappe pas sur les gens comme ça !
+{73321}{73434}C'est pas le moment de me faire chier.|- Pourquoi tu frappes sur les gens ?
+{73459}{73538}Tu crois qu'il lui serait|venu à l'idée de me dire
+{73551}{73620}qu'il avait vu notre mère|en Californie ? - Qui ?
+{73634}{73694}Il aurait dû me le dire.|Je l'aurais fait moi.
+{73723}{73824}Je suis son frère. J'ai le droit|de savoir. - De quoi tu parles ?
+{74479}{74523}Ça va vieux ?
+{74539}{74637}J'en ai ras le bol !|Ho ! A l'aide !
+{75483}{75524}Il est cool ce mec.
+{75551}{75637}Je serai exactement comme lui.|Même physiquement.
+{75678}{75736}Tu seras jamais comme lui.
+{75748}{75777}Ah oui ?
+{75789}{75849}Qu'est-ce que t'en sais ?|Je serai comme lui un jour.
+{75861}{75950}Tu ne seras jamais comme cet homme.|C'est un prince.
+{75979}{76075}C'est vrai.|Donne-moi un peu de temps. Tu verras.
+{76119}{76218}Il est comme un roi en exil.|Tu vois ce que je veux dire ?
+{76325}{76368}Il y a quelque chose|qu'il ne sait pas faire ?
+{76767}{76822}Monsieur l'officier ! Bonjour à vous !
+{77254}{77307}Je suis raide.
+{77379}{77453}Allez Rusty. Viens, on s'en va.
+{77466}{77494}Réveille-toi !
+{77538}{77567}Réveille-toi !
+{77608}{77663}Ne t'endors pas ici.
+{77860}{77892}Il est parti où ?
+{77908}{77956}Hé ! Il est parti où ?
+{78176}{78235}Où est la légende vivante ?
+{78285}{78374}Il a dû se casser avec une moto volée.
+{78448}{78532}On voulait marcher|au milieu de la rue.
+{78561}{78599}Je suis pressé !
+{78632}{78711}Si tu as peur alors je suis terrifié...|- J'ai pas peur !
+{78725}{78778}Mais ça me donne la chair de poule.
+{78814}{78886}J'aime pas les ruelles sombres,|c'est tout. OK ?
+{78921}{78967}Ça revient au même.
+{79019}{79105}Pourquoi tu chuchotes ?|- Je ne chuchote pas. On va...
+{79332}{79380}Mon Dieu, on est morts.
+{79392}{79433}Vous avez du fric ?
+{79480}{79532}Pourquoi ?|Parce que si on en a
+{79544}{79606}il ne nous frappera pas ?|- Exactement.
+{79619}{79705}Un pays progressif,|aux agressions tempérées.
+{79719}{79784}On n'a pas d'argent, merde !
+{79796}{79827}On ne veut pas de problèmes.
+{79839}{79865}Vraiment.
+{79877}{79951}On veut pas de problèmes.|Va te faire foutre !
+{79991}{80022}Rusty-James !
+{80111}{80135}Rusty-James !
+{80801}{80880}Six dollars.|- Qu'est-ce que tu as trouvé ?
+{80913}{80958}Quelques cigarettes.
+{80988}{81021}Il a rien.
+{82384}{82408}Patty...
+{82430}{82504}Il n'y avait que toi, je te le jure.
+{82682}{82802}A Rusty-James,|un type vraiment cool.
+{82817}{82845}A Rusty-James !
+{83304}{83340}A l'aide !
+{83399}{83433}Steve !
+{83663}{83702}Amène-toi mec !
+{85109}{85148}Tu es encore en vie ?
+{85321}{85357}Mon estomac !
+{85554}{85635}Où sont passés les mecs|qui nous ont tabassés ?
+{85702}{85782}Il les a tabassés.|Il leur a flanqué une raclée.
+{85809}{85865}L'un d'eux est parti courant.
+{85877}{85908}Pas mal.
+{85950}{85979}Pas mal.
+{86087}{86166}Cette fois tu vas à l'hôpital.|Je suis sérieux.
+{86179}{86258}A l'époque, les bagarres...|- Ferme-la !
+{86295}{86367}Tous les jours il y avait quelqu'un ...|- La ferme je te dis !
+{86412}{86465}Toi et tes gangs !
+{86482}{86538}Quelles conneries !
+{86585}{86681}Ça n'avait rien à voir|avec ce que tu t'imagines !
+{86695}{86760}Ils s'entretuaient les uns les autres !|- T'en sais rien.
+{86773}{86828}J'en sais rien ?|- Ou tout. - Dis-lui toi !
+{86872}{86913}Dis-lui, toi !
+{87072}{87106}C'était rien de particulier.
+{87297}{87338}Tu vois ?
+{87349}{87412}Quoi ?|- Tu vois ? Tu as entendu ?
+{87474}{87558}Ça représentait quelque chose|pour toi, c'est obligé.
+{87572}{87632}Tu étais le président !
+{87689}{87745}Au début c'était marrant.
+{87757}{87798}Puis c'est devenu ennuyeux.
+{87862}{87951}On m'a choisi pour présider|les bagarres simplement parce que
+{87964}{88027}tous savaient|que je les trouvais ennuyeuses.
+{88039}{88073}Elles finiraient par s'arrêter un jour.
+{88084}{88190}Trop de gens ...|- Dis pas que c'était marrant !
+{88204}{88228}C'était pas marrant !
+{88239}{88306}Je parle de ma propre expérience.
+{88359}{88474}La plupart d'entre eux|n'aimaient pas les bagarres.
+{88531}{88572}Ils étaient morts de peur.
+{88634}{88708}La peur panique|peut passer pour du courage.
+{88756}{88795}C'était bien.
+{88806}{88864}Tu es assez bête pour avoir aimé !|- Va te faire mettre !
+{88878}{88957}Dis-toi bien une chose Stevie.
+{88983}{89055}La loyauté est son seul vice.
+{89110}{89144}Le Motorcycle Boy !
+{89156}{89232}Je me demande pourquoi|personne ne t'a encore buté.
+{89310}{89423}Même la société la plus primitive|a un respect inné pour les fous.
+{89699}{89747}Je veux rentrer à la maison.
+{89759}{89840}Courage !|Les gangs finiront par revenir
+{89874}{89922}dès que les drogues auront disparu.
+{89967}{90036}Les gens veulent toujours|appartenir à quelque chose.
+{90049}{90109}Tu verras renaître les gangs.
+{90144}{90206}Si tu vis assez longtemps.
+{90818}{90873}Qu'est-ce qui t'arrive ?
+{90900}{90972}Je ne t'ai jamais vu|si longtemps assis sans rien faire.
+{91133}{91205}Comment on sait que quelqu'un est fou ?
+{91343}{91388}On ne le sait pas toujours.
+{91419}{91515}Ça dépend combien de gens pensent|que ce quelqu'un est fou.
+{92061}{92118}Ce qu'il fait chaud ici.
+{92132}{92168}Voilà ton amie.
+{92180}{92247}Quoi ?|- Patty. - Ah oui ?
+{92325}{92411}Avec elle c'est du sérieux.|- Un coca Benny.
+{92442}{92469}Merde.
+{92629}{92653}Merci.
+{92762}{92810}Tu voulais me voir ?|- Non.
+{92906}{92945}Hé beauté.
+{93064}{93091}Tu es jolie.
+{93207}{93257}Tu es vraiment belle.
+{93601}{93637}Tu vas bien ?|- Ça va.
+{93648}{93684}J'ai quelque chose pour toi.
+{93696}{93732}Pour moi ?
+{93744}{93825}C'est moi,|je fêtais mon cinquième anniversaire.
+{93839}{93901}Déjà à l'époque, j'étais pas mal.
+{93915}{93943}Merci.
+{93980}{94013}Tu veux quelque chose ?
+{94032}{94056}Quoi ?
+{94094}{94142}Je peux faire quelque chose pour toi ?
+{94155}{94203}Non, on devrait sortir tous les deux.
+{94257}{94295}Je ne veux pas me battre avec toi.
+{94321}{94432}J'ai juste dit ...|J'aimerais qu'on sorte pour parler.
+{94477}{94523}Regarde-toi ...
+{94534}{94568}Regarde-toi.
+{94579}{94627}Ce ne serait pas fair-play.
+{94639}{94692}Tu peux pas te battre dans ton état.
+{94704}{94791}Je viens de dire|que je ne voulais pas me battre.
+{94820}{94860}J'ai dit que je voulais me battre ?
+{94872}{94929}J'ai dit que je voulais sortir ...
+{94956}{95071}Et parler... Communiquer.|Tu comprends ça ?
+{95201}{95230}Bon, d'accord.
+{95570}{95601}Smokey...
+{95613}{95687}L'autre jour, quand on est allés|dans cette maison au bord du lac,
+{95699}{95745}avec ces filles...
+{95799}{95869}C'était exprès|pour que Patty l'apprenne ?
+{95904}{96031}Pour qu'elle me plaque|et que tu puisses prendre la relève ?
+{96054}{96097}Regarde-moi, merde !
+{96110}{96138}C'était ça ?
+{96207}{96303}Je suppose, oui.|J'y ai pensé plus ou moins.
+{96497}{96581}Jamais j'aurais été capable|de penser une chose pareille.
+{96647}{96681}Je sais.
+{96900}{96972}S'il y avait encore des gangs,|je serais le président, pas toi.
+{96985}{97038}Tu serais mon lieutenant.
+{97100}{97182}Tu aurais profité un temps|de la réputation de ton frère
+{97194}{97230}mais tu n'as pas sa cervelle.
+{97269}{97341}Pour être chef de gang|faut être intelligent.
+{97409}{97515}C'est pas pour te vexer mais|personne te suivrait dans une bagarre.
+{97545}{97590}Avec toi ils se feraient tous tuer.
+{97616}{97664}Personne ne veut mourir.
+{97907}{97971}Tu as sûrement raison.|Personne ne veut mourir.
+{97984}{98037}Tu tiens vraiment à Patty alors ?
+{98059}{98114}Tu l'aimes bien ?|- Oui.
+{98142}{98235}Même si c'était pas ta copine|je l'aimerais bien quand même.
+{98389}{98413}Elle est à toi.
+{98424}{98453}Arrête de crâner.
+{98534}{98573}Tenez les mômes.
+{98883}{98940}Il faut que vous fassiez attention.
+{98955}{99046}Ce flic, Patterson, ne cherche|qu'une excuse pour le coffrer.
+{99061}{99085}Ah oui ?
+{99095}{99213}Il m'a tabassé une fois.|Et il m'a mis en taule pour un week-end.
+{99228}{99287}Ça fait des années|qu'il est après nous.
+{99325}{99373}C'est un bon flic.
+{99420}{99538}Son seul problème c'est ton frère.|- Le Motorcycle Boy, jamais il ne l'aura.
+{99565}{99640}Jamais.|- Il est envieux.
+{99653}{99689}C'est sûrement ça.
+{99751}{99820}Tu l'as vu ?|- Oui, dans la boutique pour animaux.
+{99833}{99919}Qu'est-ce qu'il fait là-bas ?|- Il regarde les poissons.
+{99933}{99985}Ces putains de poissons !
+{99998}{100063}Qu'est-ce qu'il leur trouve|à ces putains de poissons ?
+{100857}{100898}Qu'est-ce qu'il y a ?
+{100984}{101034}Qu'est-ce que tu as ?
+{101061}{101112}Tu te sens bien ?
+{101222}{101275}Pourquoi on les a séparés ?
+{101290}{101328}Ce sont des combattants.
+{101364}{101412}Ils se tueraient s'ils pouvaient.
+{101424}{101486}Vous voulez acheter un poisson ?
+{101515}{101547}Non.
+{101593}{101633}C'est la vérité.
+{101645}{101707}Ceux-là|ce sont des combattants du Siam.
+{101738}{101817}Regarde. Si tu mets un miroir
+{101841}{101894}contre la vitre
+{102000}{102063}ils essaient de tuer leur propre image.
+{102091}{102153}C'est vraiment cool.|- Oui. Vas-y, essaie.
+{102186}{102210}Là.
+{102237}{102280}Au milieu.
+{102299}{102371}Par là. Tu vois celui-là ?
+{102555}{102617}Ils feraient la même chose|dans une rivière ?
+{102630}{102678}Je vais fermer les garçons !
+{102689}{102752}Je n'ai pas beaucoup de liquide.
+{102764}{102810}On regarde !
+{102857}{102946}Les couleurs sont démentes.|- Les couleurs...
+{102975}{103018}Les couleurs sont cool.
+{103084}{103185}C'est triste, je ne peux pas les voir.|- Que tu puisses être triste m'étonne.
+{103220}{103296}D'où vient cet intérêt soudain|pour les animaux ?
+{103309}{103352}Ils sont là depuis des heures.
+{103406}{103454}Regardez-moi ces poissons !
+{103569}{103600}Tu es fou.
+{103631}{103665}Tu es vraiment fou.
+{103706}{103759}Et je l'ai toujours su.
+{103786}{103848}Ils devraient être dans une rivière.
+{103878}{103986}Ils ne s'y battraient pas|parce qu'ils auraient de la place pour vivre.
+{104002}{104064}Il faudrait que quelqu'un|te sorte de la rue.
+{104182}{104256}Il faudrait que quelqu'un|jette ces poissons dans la rivière.
+{108397}{108467}Pourquoi tu me suis ?|- Je suis inquiet.
+{108480}{108562}Pourquoi ?|- Je m'inquiète pour toi.
+{108605}{108667}Pourquoi tu te comportes comme ça ?
+{108750}{108808}Tu crois que le vieux est là ?
+{109078}{109114}Hé Papa !
+{109251}{109313}Content de vous revoir tous les deux.
+{109516}{109573}Je voulais te demander quelque chose.
+{109625}{109649}Oui ?
+{109775}{109840}Est-ce que notre mère est folle ?
+{109985}{110024}Elle est OK.
+{110052}{110083}Enfin, je...
+{110095}{110217}Pourquoi cette question ?|- Elle est partie en nous laissant.
+{110242}{110266}Eh bien...
+{110363}{110528}Il y a des gens qui ont une vision|du monde différente de celle des autres.
+{110545}{110602}Ça ne veut pas dire qu'ils sont fous.
+{110615}{110646}Je veux dire que...
+{110657}{110756}Avoir une perception aiguë des choses|ça ne veut pas dire qu'on est fou.
+{110769}{110875}Tu peux parler normalement ?|- Mais parfois...
+{110889}{110957}ça peut rendre fou.
+{110987}{111035}Tu veux bien parler normalement,
+{111046}{111145}je ne comprends même pas la moitié|de ce que tu me racontes.
+{111159}{111207}Tu comprends ce que je veux dire ?
+{111241}{111294}Eh bien ta mère...
+{111332}{111382}... n'est pas folle.
+{111409}{111495}Ton frère non plus contrairement|à ce que les gens pensent.
+{111536}{111574}Il est juste dans le mauvais film.
+{111626}{111732}Il est né au mauvais moment,|du mauvais côté du fleuve.
+{111801}{111919}Il a la capacité de pouvoir faire|ce qu'il a envie de faire
+{111949}{111997}et il ne trouve rien|qu'il ait réellement envie de faire.
+{112031}{112088}Je dis bien "rien".|- OK.
+{112116}{112186}Tu ne me comprends plus, c'est ça ?
+{112208}{112256}La différence elle est là.
+{112293}{112365}Tu n'as jamais perdu ta mère,|c'est moi qui l'ai perdue.
+{112491}{112524}Je crois...
+{112535}{112566}que...
+{112610}{112692}je lui ressemblerai beaucoup|quand je serai plus vieux.
+{112838}{112877}Prie pour que ce ne soit pas le cas.
+{112965}{113018}Pauvre bébé.
+{113093}{113160}Quoi ?|- Pauvre enfant.
+{113510}{113544}L'addition !
+{113835}{113892}On bouge ce soir, OK ?
+{113919}{114030}Du vin, des filles, on fait la fête...|Ça te dit ?
+{114081}{114148}J'ai l'impression de gâcher ma vie|à attendre quelque chose.
+{114161}{114208}Attendre quoi ?
+{114226}{114298}J'aimerais avoir une raison de partir.
+{114451}{114518}Viens.|- Qu'est-ce que tu fais ? - Monte.
+{114538}{114645}- Qu'est-ce que tu fais ?|- On va faire un tour toi et moi.
+{114688}{114724}Tu es fou ?
+{116480}{116544}Tu veux pas t'arrêter ici quand même ?
+{116567}{116668}T'inquiète pas pour ces putains|de poissons. Tu entends ?
+{116735}{116797}Ils vont très bien. Je t'assure !
+{116930}{116971}Où est-ce que tu vas ?
+{117019}{117072}Tu as besoin d'argent ?
+{117100}{117138}Je m'en occupe.
+{117150}{117229}Tout le monde t'a vu|traîner par ici aujourd'hui.
+{117242}{117345}Beaucoup de gens t'ont vu venir ici,|c'est sûr. Tu m'écoutes ?
+{117384}{117413}Les voisins !
+{117600}{117636}Qu'est-ce que tu fais ?
+{117647}{117714}Pourquoi tu me suis partout|comme un petit chien ?
+{117727}{117758}Qu'est-ce que tu veux ?
+{117770}{117839}Tu veux quoi, de l'argent ?|Je peux t'en procurer.
+{117852}{117890}Viens, on s'en va !
+{117903}{117936}Je n'ai pas besoin d'argent.
+{117948}{117996}Dis-moi, qu'est-ce que tu veux ?
+{118032}{118148}Que tu me voies quand tu me regardes,|que tu me parles normalement.
+{118163}{118201}Toi et le vieux vous me croyez bête,
+{118213}{118280}parce que je ne comprends pas|vos grands mots.
+{118293}{118372}Vous me laissez toujours de côté|mais je suis pas si bête.
+{118385}{118472}On pourrait régner sur le quartier|si tu me donnais une chance.
+{118518}{118551}Viens.|- Non !
+{118588}{118660}Donne-moi une chance quoi !|Regarde-moi !
+{118708}{118806}Je veux juste que tu me voies.|Je suis là, devant toi.
+{118835}{118888}Je te vois Rusty-James.
+{119002}{119062}Allez, viens ! Toi et moi...|- Toi et moi
+{119075}{119147}on ne peut pas !|- Oh non, s'il te plaît !
+{119183}{119224}S'il te plaît, fais pas ça !
+{119365}{119394}Tu sais...
+{119431}{119515}J'aimerais être le grand frère|que tu as toujours voulu avoir.
+{119528}{119631}Mais je ne suis pas ce que je veux,|exactement comme toi.
+{119645}{119736}Ecoute. Je vais jeter|les poissons dans le fleuve.
+{119751}{119823}Et après je veux que tu fasses|quelque chose pour moi. - Quoi ?
+{119867}{119966}C'est important alors écoute bien.|- OK. J'écoute.
+{119980}{120102}Je veux que tu prennes la moto|et que tu partes.
+{120135}{120204}Tu iras directement à la mer.
+{120240}{120335}Tu suivras le fleuve jusqu'à la mer.
+{120450}{120505}Tu viens avec moi ?
+{120518}{120542}Non.
+{120607}{120648}Fais pas ça.
+{120709}{120752}S'il te plaît, non.
+{122348}{122372}Non !
+{124099}{124157}OK, on écarte les jambes !
+{124467}{124543}Allez, tu viens avec nous !|- Laissez-le partir !
+{124596}{124654}C'est son petit frère.
+{124689}{124730}Faites attention à lui.
+{124876}{124914}Rusty-James !
+{125134}{125198}Arrêtez avec vos putains de photos !
+{125266}{125295}Qu'est-ce qui se passe ?
+{125331}{125386}Barrez-vous ! Le touchez pas !
+{125399}{125459}Il a fallu qu'il le descende !
+{125586}{125677}Qui est ce type ?|- Le Motorcycle Boy. Ils l'ont tué.
+{125706}{125780}Qu'est-ce qui se passe ?|- Un jeune homme a été tué.
+{125793}{125848}Ils ont tué le Motorcycle Boy.
+{125890}{125991}Traitez-le bien.|- Qu'est-ce qui lui est arrivé ?
+{126043}{126147}Qu'est-ce qui est arrivé à ce petit ?|- C'est le Motorcycle Boy.
+{126160}{126242}Quelqu'un d'autre a été blessé ?|- Non.
+{126275}{126333}Je ne peux pas en dire plus.|- Il le connaît.
+{126346}{126427}Désolé, ça n'a pas d'importance.|On va barricader.
+{126441}{126489}Rusty-James a peut-être été blessé.
+{126500}{126531}Quelle horreur !
+{126543}{126646}Où il est parti ? - Reculez s'il vous plaît.|- Ce garçon avait de l'avenir.
+{126931}{126974}Mais c'est horrible.
+{127171}{127211}Ils ont tué un jeune homme.
+{127223}{127295}Jamais personne n'oubliera|le Motorcycle Boy.
+{127554}{127594}LE MOTORCYCLE BOY REGNE

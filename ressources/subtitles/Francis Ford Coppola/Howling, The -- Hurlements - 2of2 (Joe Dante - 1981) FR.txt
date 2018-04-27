@@ -1,0 +1,242 @@
+{1805}{1870}Je n'ai rien eu le temps de voir !
+{1890}{1927}C'est indispensable ?
+{1932}{1977}C'est une précaution.
+{2072}{2100}Je veux partir.
+{2127}{2175}Il est imprudent de voyager...
+{2195}{2245}après ce genre de morsure.
+{2337}{2382}La marque du loup-garou !
+{2390}{2432}Mais c'est une légende !
+{2437}{2472}Les légendes reposent...
+{2480}{2500}sur des faits !
+{2507}{2587}Peut-être une image|de la double personnalité !
+{2662}{2757}L'homme pur peut se changer|en loup-garou...
+{2765}{2845}quand l'herbe-a-loups|fleurit sous la lune !
+{2872}{2912}Je vais répondre !
+{2937}{2962}Qui ça peut être ?
+{2975}{3032}Je vais y aller !
+{3042}{3075}J'y vais !
+{3290}{3317}Je ne dors pas !
+{3402}{3430}Tu plaisantes ?
+{3450}{3497}Bon, on va venir !
+{3512}{3565}Calme-toi !
+{3690}{3725}Un loup a mordu Bill !
+{3767}{3835}Qui survit à la morsure|du loup-garou...
+{3842}{3887}deviendra un loup-garou !
+{3930}{3975}Ce n'était qu'un film !
+{3982}{4035}Tu vas partir tout de suite.
+{4042}{4072}Je te rejoindrai.
+{4077}{4150}Ça devait être un chien sauvage !
+{4240}{4270}Tu vas bien ?
+{4312}{4425}Donna appelle Marsha|"la dévoreuse" !
+{4445}{4515}Elle vit dans une cabane.
+{4522}{4590}Il y a des bêtes|pendues aux poutres.
+{4595}{4657}Et elle a des vues sur Bill ?
+{4670}{4732}Ce n'est qu'une impression !
+{4862}{4910}Pas du tout !
+{4935}{4997}J'ai oublié les légumes !
+{5010}{5047}Les légumes pour Bill !
+{5057}{5162}J'ai oublié que tu es végétarien !
+{5170}{5207}Je me régale !
+{5222}{5290}J'ai si faim|que je mange de tout !
+{5832}{5867}Pose ton livre !
+{5927}{5985}Il y a longtemps que...
+{6015}{6060}Tu tombes mal.
+{6112}{6147}C'est les piqûres.
+{6152}{6180}Tant pis !
+{6305}{6357}On est mal synchronisés !
+{6365}{6422}On ne veut jamais rien|en même temps !
+{7540}{7585}J'en peux plus !
+{17140}{17180}Par ici Terry !
+{20212}{20245}Il y a quelqu'un ?
+{27332}{27372}Réponds Chris !
+{27557}{27597}Tu ne vas pas me croire...
+{27787}{27830}Dans la salle de bains !
+{27900}{28010}J'ai encore fait un cauchemar|et tu étais dedans.
+{28032}{28095}Tu dors trop !
+{28105}{28145}Qui t'a griffé dans le dos ?
+{28227}{28270}C'est le soir où j'ai été mordu.
+{28312}{28357}C'est plus récent !
+{28542}{28580}Tu as couché avec Marsha !
+{28585}{28625}Assez de fantasmes !
+{28630}{28662}Ce n'en est pas un !
+{28670}{28710}Tu crois que tout le monde|t'en veut !
+{28717}{28792}Tu rampes devant elle !
+{28797}{28840}Cette chienne en chaleur !
+{28947}{28982}Ne me touche pas !
+{29235}{29290}Je vais appeler Chris.
+{29297}{29362}Il viendra nous chercher|Terry et moi.
+{29402}{29440}Tu ne sais pas ce que c'est...
+{29445}{29490}Je ne veux pas savoir !
+{29647}{29682}C'était Eddie Quist !
+{29690}{29767}Eddie Quist est mort.
+{29790}{29865}Il a la même chambre ici.
+{29872}{29940}Le paysage sur le dessin...
+{29962}{30007}C'est à la colonie !
+{30040}{30065}C'est la réalité !
+{30092}{30130}Tu es chez le docteur ?
+{30187}{30235}Il faut que je te dise...
+{30272}{30300}C'est l'un des leurs !
+{30365}{30425}Il y a un classeur dans le bureau ?
+{30487}{30520}Tu vas mieux ?
+{30575}{30667}Oui, ça me fait du bien|de t'entendre.
+{30702}{30745}Cherche le dossier de Quist.
+{30810}{30847}Tu ne raccroches pas ?
+{30852}{30905}Après j'appellerai la police.
+{30910}{30935}Cherche le dossier !
+{30967}{31040}J'emporte le téléphone avec moi !
+{32332}{32407}Appelez-moi le shérif|de San Luis !
+{32882}{32915}Vous en faites pas !
+{32922}{33000}Je vais rassembler mes hommes.
+{33027}{33105}Il ne lui arrivera rien.
+{34420}{34497}C'est de l'argent, ça coûte cher !
+{34502}{34532}Envoyez-moi la note !
+{34557}{34592}Sale type !
+{34857}{34945}Je peux téléphoner docteur ?
+{35002}{35067}Qu'est-ce qui s'est passé ?
+{36642}{36670}Bonjour Karen.
+{36737}{36767}Je suis content.
+{36792}{36827}Je voulais te revoir.
+{36902}{36940}Je vous ai vu mourir !
+{37037}{37115}Tu voulais qu'on fasse connaissance.
+{37132}{37215}Me voilà ! Regarde-moi.
+{37315}{37362}Tu as mal agi.
+{37407}{37445}J'avais confiance en toi.
+{42375}{42490}Faut que je gagne ma vie moi !
+{42497}{42555}C'est une question de vie|ou de mort !
+{42710}{42792}Sortez de là !|On vous attendait.
+{43240}{43285}Elle s'est fait prier !
+{44977}{45005}Où est Bill ?
+{45032}{45062}Il est des nôtres !
+{45067}{45145}Il aurait fini|par vous amener à nous !
+{45152}{45295}Quand on a été mordus|Jerry et moi on a lutté !
+{45300}{45415}Et puis le docteur|nous a aidés à accepter.
+{45422}{45500}Il sait tout sur le don !
+{45517}{45592}Comment l'utiliser et le contrôler !
+{45602}{45677}Acceptez le don|et Bill vous sera rendu.
+{45687}{45720}On veut pas d'elle !
+{45742}{45795}Il fallait garder nos costumes !
+{45802}{45872}Pourquoi élever du bétail|pour le manger ?
+{45880}{45920}Notre bétail c'est l'homme !
+{45927}{45960}L'homme est notre proie !
+{45977}{46035}On s'en est toujours nourri !
+{46067}{46115}Vos idées de canaliser l'énergie !
+{46122}{46170}Je voulais nous sauver !
+{46200}{46247}Il faut nous adapter...
+{46252}{46297}à la société nouvelle.
+{46312}{46407}Les temps ont changé|et nous n'avons pas évolué !
+{46415}{46440}Taisez-vous !
+{46537}{46602}Personne n'a voulu m'écouter !
+{46677}{46730}Vous nous avez dit...
+{46745}{46860}qu'on pourrait vivre|avec les autres !
+{46872}{46917}Vous êtes fini !
+{46937}{46990}Elle est à nous maintenant !
+{47412}{47455}Ton amie m'a fait ça !
+{47532}{47607}Vous êtes fous !|Avez-vous donc oublié ?
+{47622}{47675}Elle ne doit pas disparaître.|Elle est trop célèbre !
+{47680}{47707}On simulera...
+{47715}{47730}un accident.
+{47737}{47762}Je m'y oppose !
+{47950}{48012}On ne dompte pas|ce qui est sauvage.
+{48022}{48055}C'est contre nature.
+{49932}{49955}Salut !
+{50030}{50052}Eddie ?
+{50085}{50115}Tu me connais ?
+{50135}{50190}Moi je ne te connais pas !
+{50205}{50227}Où est Terry ?
+{50242}{50302}C'est ta petite amie ?
+{50310}{50327}Où est-elle ?
+{50370}{50430}Au centre des rituels.
+{50465}{50480}C'est là-bas...
+{50487}{50587}que le docteur|fait ses expériences.
+{50630}{50655}Qu'est-ce qu'on lui a fait ?
+{50717}{50760}Elle a une voix sensuelle.
+{50782}{50835}J'aime les voix sensuelles.
+{50900}{50975}Écoute ça !
+{51015}{51045}Vous êtes fou !
+{51092}{51152}Je suis bien plus que ça !
+{51167}{51205}Bien plus !
+{51295}{51315}Prends ça !
+{51385}{51417}Essaie de nouveau !
+{51475}{51542}Vas-y petit malin !
+{51635}{51662}Tu ne sais pas ?
+{52085}{52122}Mettez-les dans la voiture !
+{52130}{52222}Foutez-y le feu et balancez-la|de la route !
+{52340}{52395}Ils vont te tuer Chris !
+{52402}{52455}Ce fusil ne te servira à rien !
+{52557}{52575}Arrêtez !
+{53557}{53595}J'ai des balles d'argent !
+{53610}{53675}On s'en fout !
+{53690}{53727}Tue-le TC !
+{53982}{54007}C'est vrai !
+{54162}{54200}N'approchez pas docteur !
+{54462}{54492}Dieu soit loué !
+{55285}{55325}Il y a une autre porte ?
+{55332}{55367}Je ne crois pas !
+{55415}{55445}Où est Terry ?
+{55452}{55520}Ils l'ont tuée.|Et Bill aussi certainement.
+{57692}{57735}Comment tu as su ?
+{57747}{57770}Terry m'a appelé.
+{57775}{57815}Arrête-toi, c'est Sam !
+{58040}{58065}Baisse-toi !
+{58767}{58797}Donne-moi ça !
+{60557}{60587}Il faut avertir les gens.
+{60620}{60675}Il faut qu'ils nous croient.
+{60970}{61035}Tu es superbe !
+{61105}{61160}Laisse-nous Fran.
+{61415}{61442}J'ai peur !
+{61450}{61485}Il le faut !
+{61657}{61697}Voici des nouvelles...
+{61705}{61762}du feu qui ravage la Côte|ce soir.
+{61767}{61865}L'incendie se serait déclaré|à la colonie...
+{61875}{61985}le centre expérimental|du docteur Wagner.
+{61990}{62015}Elle est prête !
+{62022}{62065}Elle tiendra le coup ?
+{62087}{62192}Plusieurs corps ont été retrouvés|dans les bâtiments.
+{62280}{62327}Nos reporters qualifient|le spectacle...
+{62332}{62375}d'insoutenable !
+{62382}{62472}Et voici le témoignage|de Karen White !
+{62480}{62562}Si elle cale comme la dernière fois,|coupez !
+{62637}{62667}Bonsoir.
+{62732}{62762}Dès notre naissance...
+{62787}{62847}nous devons livrer un combat...
+{62855}{62920}entre ce qu'il y a de pacifique...
+{62935}{62985}et de violent en nous.
+{62995}{63037}C'est un éditorial ?
+{63045}{63190}C'est ce combat qui différencie|l'homme de l'animal.
+{63207}{63245}Il nous est naturel...
+{63252}{63325}Ce n'est pas le texte|qui est écrit !
+{63337}{63370}On l'a changé.
+{63392}{63495}À certains êtres|on a retiré ce droit au combat.
+{63525}{63640}Il existe parmi nous|une société secrète.
+{63697}{63720}Ses membres...
+{63737}{63827}sont à mi-chemin entre l'homme|et l'animal.
+{63835}{63865}Laissons-les faire...
+{63870}{63917}et ils nous dévoreront !
+{63932}{63972}Ils nous assujettiront !
+{63997}{64077}Je sais que vous avez du mal|à me croire...
+{64082}{64102}Ça suffit !
+{64107}{64127}Laissez-la !
+{64135}{64150}Coupez !
+{64155}{64172}Laissez-la !
+{64177}{64265}Mais j'ai des preuves|et ce soir...
+{64270}{64327}ce que je vais vous montrer...
+{64362}{64387}vous convaincra !
+{64672}{64727}C'est pas vrai !
+{64980}{65007}Qu'est-ce que vous regardez ?
+{65015}{65072}La dame se change en loup-garou !
+{65742}{65795}Coupez bon Dieu !
+{65870}{65890}Que c'est bon !
+{65910}{65990}Un festin pour votre chien !
+{66005}{66060}C'est fou ces truquages !
+{66072}{66112}J'ai vu un film...
+{66120}{66145}C'était réel.
+{66160}{66225}Elle s'est changée en loup-garou|et on l'a abattue.
+{66265}{66300}Tu as trop bu !
+{66325}{66360}C'était réel !
+{66365}{66430}Un steak pour moi|et un hamburger...
+{66435}{66465}pour la dame !
+{66470}{66502}Comment elle le veut ?
+{66510}{66540}Comment tu le veux ?
+{66630}{66655}Saignant !
+{70160}{70200}Maintenant partez...
+{70205}{70255}Que Dieu vous aide !

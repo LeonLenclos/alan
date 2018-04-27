@@ -1,0 +1,814 @@
+{467}{510}Mardi 9 mai - 18 heures 57
+{700}{752}Salut M.Lee !
+{757}{807}C'est le Nouvel An philippin ?
+{827}{855}Non, pourquoi ?
+{867}{897}Vous cuisez un festin.
+{912}{965}Je le sens depuis l'autoroute.
+{977}{1025}C'est un barbecue ?
+{1037}{1092}Oui, mais ça ne vient pas d'ici.
+{1120}{1150}Et ce bruit ?
+{6227}{6290}Votre évaluation Jerry ?
+{6300}{6362}Le public va adorer monsieur le Président.
+{6370}{6425}Mais on prend la tranche de 18 heures
+{6427}{6472}ou on attend le 20 heures ?
+{6482}{6575}Merde à la presse,|il faut classer ça top secret,
+{6580}{6630}monter en niveau opérationnel 4.
+{6642}{6690}On ne peut pas étouffer ça.
+{6730}{6780}Général Casey, un avis ?
+{6822}{6885}On est sûrs qu'ils sont hostiles ?
+{6887}{6940}Sûrs ? Ils encerclent la Terre
+{6945}{6992}avec une flotte de guerre !
+{7012}{7050}De guerre, on est sûrs ?
+{7142}{7210}Professeur, qu'est-ce qu'on sait d'eux ?
+{7257}{7382}Vu leur haut niveau technologique,|on peut les supposer pacifiques.
+{7402}{7462}Une civilisation avancée,|par définition,
+{7465}{7505}n'est pas barbare.
+{7512}{7580}Monsieur le Président, c'est un grand jour.
+{7597}{7637}Mes collègues et moi
+{7642}{7675}sommes très excités.
+{7750}{7807}La vie extraterrestre.
+{7837}{7907}Vous avez raison Jerry,|le public va adorer.
+{7942}{7980}C'est un jour mémorable.
+{8042}{8077}Nous jouons les médias.
+{8092}{8170}Mon Cerruti bleu.|Il me faut un bon discours.
+{8202}{8265}Du présidentiel, de l'historique,
+{8290}{8332}mais convivial, familier.
+{8337}{8420}Abraham Lincoln rencontre|une Famille en or.
+{8467}{8505}C'est démodé ?
+{8510}{8542}Non, pas ça.
+{8550}{8630}Celui-ci a la bonne couleur,|mais... non plus.
+{8677}{8717}Nancy avait mis ça ?
+{8742}{8770}Sûrement pas.
+{8772}{8840}La soie moirée.|En solde cette semaine.
+{8870}{8932}Je n'ai guère à me soucier de ça.
+{8937}{8995}Mon mari est le chef du monde libre.
+{9030}{9070}A ton avis Taffy ?
+{9082}{9157}Laisse le salon Roosevelt|comme ils l'ont voulu.
+{9197}{9292}Eleanor Roosevelt|aimait trop le chintz.
+{9310}{9352}Maman, tu n'es pas chez toi.
+{9355}{9430}Si tu fais ta chipie,|je devrai t'ignorer.
+{9632}{9692}Mercredi 10 mai - 13 heures 43
+{10007}{10072}Je vous ai vu contre|Sonny Liston en 69.
+{10100}{10135}Vous étiez déjà nonne ?
+{10160}{10250}On a toujours été fans de boxe,|pas vrai mes sœurs ?
+{10302}{10387}C'est pour moi, je vous laisse.|Amusez-vous bien.
+{10575}{10615}Pardon de t'appeler là.
+{10637}{10677}Les garçons ont découché,
+{10697}{10730}je ne sais pas quoi faire.
+{10745}{10785}Tu fais de ton mieux.
+{10800}{10830}C'est de leur âge.
+{10892}{10955}Le patron me regarde.|Je dois te quitter.
+{10977}{11010}Je te rappelle.
+{11042}{11105}Tu m'invites toujours à Washington ?
+{11120}{11150}Bien sûr.
+{11172}{11225}Prends soin de toi.
+{11615}{11647}Tu bois devant moi ?
+{11652}{11702}Tu es adulte. Assume.
+{11712}{11782}Ça ne m'aide pas qu'on|passe le temps dans des bars.
+{11792}{11840}C'est le boulot petite.
+{11845}{11922}J'observe le décor,|l'éclairage, l'affluence.
+{11927}{11992}Tu es un truand,|j'aurais pas dû t'épouser.
+{12007}{12107}Pas truand. Je suis ambitieux.|Il y a une différence.
+{12112}{12132}Si tu crois
+{12137}{12187}qu'on peut se faire du blé ici
+{12192}{12270}sans savoir louvoyer un brin,
+{12277}{12360}tu connais rien à l'industrie des jeux.
+{12372}{12465}Le Galaxy sera le|meilleur hôtel de Vegas.
+{12482}{12512}Le meilleur !
+{12537}{12600}Tu sais ce que tu fais ?|Tu détruis la Terre !
+{12612}{12675}Toute cette cupidité !|Le règne de l'argent !
+{12682}{12727}Tu détruis tout !
+{12810}{12850}Baisse la voix.
+{12880}{12920}J'ai des amis ici.
+{12962}{13015}Chérie ! Remets-moi ça.
+{13020}{13060}Flirte pas avec la serveuse !
+{13135}{13167}Va à la roulette,
+{13212}{13245}joue notre anniversaire,
+{13262}{13300}mise pas sur le noir.
+{13422}{13485}Mercredi 10 mai - 17 heures 26
+{13605}{13665}Vite, on est à l'antenne dans 10 minutes.
+{13690}{13775}Le vrai président ?|Comment ça intervenir ?
+{13962}{13995}Les cheveux sont bien.
+{14030}{14050}Bonne coupe.
+{14132}{14167}Stone, j'écoute.
+{14177}{14207}Jason, c'est moi.
+{14240}{14260}T'as un soutif ?
+{14287}{14370}C'est énorme. Le président|intervient dans mon émission.
+{14417}{14480}Ridicule. Il en est à|passer à ''Mode actuelle'' ?
+{14487}{14600}Il intervient partout.|Une déclaration urgente.
+{14610}{14662}Absurde.|Il devrait passer chez nous.
+{14702}{14762}La Maison-Blanche en direct.
+{14772}{14835}Bonsoir mes chers compatriotes.
+{14850}{14940}Excusez-moi d'interrompre|vos programmes mais
+{14952}{15007}j'ai une annonce|très importante.
+{15027}{15092}J'ai vécu bien|des moments importants.
+{15112}{15160}Ma remise de|diplôme à Princeton.
+{15180}{15215}Le jour où Marsha
+{15220}{15287}a accepté d'être ma femme.|La naissance
+{15292}{15335}- de notre Taffy.|- Merci papa.
+{15347}{15452}Ce que j'ai appris aujourd'hui|prend place à leurs côtés.
+{15472}{15515}Un événement mémorable
+{15537}{15632}non pour moi seul,|mais pour toute l'humanité.
+{15650}{15692}Une grande découverte
+{15720}{15770}a été faite par le télescope Hubble.
+{15792}{15835}Ses informations
+{15842}{15880}ont été décodées
+{15882}{15987}puis analysées par les|puissants ordinateurs du MIT.
+{16007}{16062}Les images sont incontestables.
+{16082}{16157}Nous sommes à l'aube|d'une ère nouvelle.
+{16182}{16265}Les agrandissements offrent|un spectacle étonnant.
+{16285}{16390}Une flotte d'engins|qu'on ne peut que qualifier
+{16397}{16430}de soucoupes volantes.
+{16437}{16505}Allons !|Papa a besoin de nouvelles pompes !
+{16602}{16655}Je suis seul à jouer ici ?
+{16675}{16727}Nous allons les rencontrer.
+{16742}{16800}Conclusion parfaite du siècle...
+{16812}{16892}Des Martiens. Génial.
+{16920}{16970}Je vous en prie, venez sur Terre.
+{17005}{17027}Pour nous.
+{17135}{17177}J'ai des investisseurs !
+{17187}{17245}Tout le monde veut en être.
+{17265}{17332}Le Galaxy sera... classe mondiale.
+{17352}{17452}Et bientôt nous deviendrons|un système solaire uni.
+{17475}{17502}De quoi ?
+{17507}{17605}Ces soucoupes volantes|viennent de la planète Mars.
+{17607}{17670}Vu leur direction|et leur vitesse...
+{17692}{17817}Ecoute, j'ai inventé les Martiens|avant les Martiens.
+{17822}{17910}Il est bouleversant de savoir|qu'une vie intelligente
+{17915}{17967}- existe ailleurs.|- C'est déjà ça.
+{17975}{18067}Notre monde ne sera plus|jamais tout à fait le même.
+{18107}{18137}Bonne nuit.
+{18162}{18207}Et Dieu vous garde.
+{18237}{18302}Jeudi 11 mai - 5 heures 26
+{18515}{18557}C'est géant.
+{18615}{18647}Ta gueule Poppy.
+{18837}{18855}Pour toi.
+{18912}{18965}Poppy mon chou, non.
+{19160}{19195}Je pourrais y être à...
+{19212}{19250}je ne sais pas, 11 heures...
+{19630}{19702}Je dois interviewer ce|professeur de la Maison-Blanche.
+{19832}{19915}Je crois que c'est son nom.|Celui qui fait de la science...
+{19922}{19950}C'est dément.
+{19977}{20012}Il devrait venir chez nous.
+{20035}{20080}J'y peux rien si vous êtes lents.
+{20257}{20322}Jeudi 11 mai - 9 heures 37
+{20747}{20785}Une minute 57 !
+{20827}{20872}J'avais dit moins de deux minutes !
+{20927}{20950}Je suis fier de toi.
+{20955}{21010}- Un beignet ?|- Ils sont de quand ?
+{21022}{21042}Frais de lundi.
+{21055}{21117}Richie, ça fait six jours !
+{21132}{21160}Bon, deux.
+{21262}{21307}Ces Martiens c'est impressionnant.
+{21317}{21405}Personne n'a vu mon Muffy|bande de traîtres ?
+{21410}{21452}Ton frère est volontaire.
+{21455}{21505}Dès que je rentre à la base.
+{21510}{21532}Pour quoi ?
+{21542}{21570}Opération Martiens.
+{21622}{21710}Si ces Martiens se pointent,|je leur botte les fesses !
+{22260}{22312}Pardon, arrêt non prévu !
+{22395}{22415}Maman !
+{22445}{22522}Vous traînez ici au|lieu d'être en classe ?
+{22527}{22582}- Y a pas eu classe.|- C'est pas vrai !
+{22612}{22650}Ici ! Je ne te ferai pas mal.
+{22672}{22692}Lâche-le.
+{22767}{22792}Viens ici.
+{22877}{22945}Vous trouvez malin de sécher l'école ?
+{22977}{23050}Vous serez recalés !|Vous irez en prison !
+{23052}{23092}Allez, dans le bus !
+{23195}{23230}Plus un mot, compris ?
+{23242}{23282}- J'aime pas l'école.|- J'ai entendu !
+{23892}{23922}Tu viens chéri ?
+{23932}{23960}Ça te dit ?
+{24060}{24080}Tentant...
+{24145}{24180}Le stress au boulot...
+{24195}{24225}c'est pas croyable.
+{24362}{24407}M.Bava, je peux vous parler ?
+{24412}{24480}Non, je surveille la salle.|Qu'est-ce que tu veux ?
+{24487}{24537}J'ai une famille à nourrir dans l'Est.
+{24537}{24570}T'es divorcé.
+{24577}{24640}Oui, mais je dois m'occuper d'eux.
+{24662}{24775}Bref je roule pas sur l'or.|J'aimerais une augmentation.
+{24792}{24812}Pas question.
+{24822}{24900}Je suis rentable pour l'hôtel.|Les gens m'aiment bien.
+{24902}{24937}Tu es un bon gars.
+{24952}{25035}Mais je peux avoir Spinks ou|Douglas au même prix ou moins.
+{25057}{25122}Grouille, tu passes dans cinq minutes.
+{25342}{25400}On va faire péter l'Audimat.
+{25447}{25517}Question de langage : quelquefois,
+{25522}{25585}la proposition ''deux et deux font cinq''
+{25597}{25635}est parfaitement fondée.
+{25677}{25705}Appelez-moi Nathalie.
+{25727}{25785}Et vous appelez-moi Donald.
+{25822}{25845}Je suis un fan.
+{25915}{25975}Vraiment ?|Vous aimez ce que je fais ?
+{25992}{26030}Enormément.
+{26130}{26167}Fin de la pub.
+{26270}{26350}Nous revoici|en compagnie du professeur
+{26355}{26462}Donald Kessler,|président de la Société américaine...
+{26467}{26530}d'astronautique !
+{26597}{26715}N'est-il pas étrange que notre sonde|sur Mars n'ait trouvé personne ?
+{26735}{26800}Pas vraiment... Nathalie.
+{26842}{26927}Nous n'avons pas exploré les canaux|qui sont des canyons.
+{26940}{26985}Profonds de 100 miles et plus.
+{26995}{27110}La civilisation martienne|s'est développée sous la surface.
+{27120}{27195}Leur technologie doit être stupéfiante.
+{27230}{27292}Alors, d'après vous Donald...
+{27315}{27332}Kessler...
+{27345}{27437}Président, que peuvent nous|apprendre les Martiens professeur ?
+{27505}{27560}Bien des choses|sur Mars Nathalie.
+{27652}{27675}Elle flirte !
+{27690}{27765}Sérieusement,|tout ça est follement excitant.
+{27775}{27842}Le savoir, les nouvelles idées.|Tout va changer.
+{27862}{27900}Nous devons être ouverts.
+{27907}{27965}Ils peuvent nous expliquer l'univers.
+{27972}{28040}Comment il est né, où il va.|Peut-être...
+{28055}{28097}même... sa finalité.
+{28122}{28220}C'est follement excitant.|L'événement le plus important depuis
+{28235}{28287}que Jésus est venu en Galilée.
+{28332}{28372}Qu'est-ce qu'elle a l'image ?
+{28377}{28410}Caméra 2 !
+{28412}{28440}Elle est HS.
+{28445}{28485}Alors la 1 ! La 4 !
+{28650}{28672}Il l'a pelotée !
+{29132}{29162}C'est ça un Martien...
+{29245}{29272}Ça un Martien ?
+{29495}{29540}Je ne veux pas de ça chez moi.
+{29587}{29685}On sera peut-être obligés.|Les gens attendent une rencontre.
+{29690}{29747}Je ne sors pas le service Van Buren.
+{29800}{29885}Vise ce cerveau.|Il doit être vachement calé.
+{29902}{29935}Il est dégueu !
+{29965}{30062}N'oubliez pas Nathalie...|on a l'air aussi moche pour lui.
+{30202}{30245}Le signe international du beignet !
+{30252}{30355}A partir d'informations limitées,|j'ai fait trois extrapolations. Un,
+{30367}{30430}notre Martien est un organisme carboné.
+{30435}{30487}Deux, il respire de l'azote.
+{30492}{30602}Trois, le gros cerveau, ici, indique...
+{30607}{30650}un potentiel télépathique.
+{30662}{30727}Ils peuvent... lire nos pensées ?
+{30780}{30802}Potentiellement.
+{30815}{30897}Et leurs intentions ?|Sont-ils bien disposés ?
+{30915}{30940}Logiquement,
+{30942}{31020}vu leur très haut|niveau de technologie,
+{31035}{31155}c'est une civilisation supérieure.|Donc pacifique et éclairée.
+{31172}{31225}L'espèce humaine en revanche
+{31250}{31305}est dangereusement agressive.
+{31335}{31447}J'ai idée qu'ils ont plus à|craindre de nous que l'inverse.
+{31560}{31642}Depuis des années je fabrique|un ordinateur de traduction.
+{31667}{31735}Le résultat n'est pas parfait,|mais ceci
+{31742}{31787}peut répondre à vos questions.
+{31957}{32040}Tout verts de peau...|il y a 800 siècles.
+{32057}{32125}Leurs sécrétions font naître
+{32130}{32167}des hybrides.
+{32170}{32205}Combien de siècles ?
+{32245}{32302}... l'autodétermination|du cosmos.
+{32315}{32370}Car c'est du daim sombre qui...
+{32375}{32457}fauche comme la récolte.
+{32477}{32507}Qu'est-ce qu'il raconte ?
+{32915}{33007}Désolé, pas par là.|Il y a une visite.
+{33252}{33285}Je m'appelle Barbara.
+{33350}{33445}Je suis une alcoolique|mais je n'ai rien bu depuis trois mois.
+{33610}{33687}Je me sens très optimiste|à cause des Martiens.
+{33707}{33760}Nous ne sommes pas|seuls dans l'univers.
+{33772}{33892}C'est parfait que ça arrive au|début du nouveau millénaire.
+{33915}{34050}Notre planète souffrait, avec la|couche d'ozone, la forêt tropicale...
+{34087}{34157}tant de gens malheureux|dans leur vie...
+{34180}{34230}Et puis... les Martiens
+{34235}{34310}ont entendu notre|appel à l'aide karmique.
+{34322}{34417}On les trouve laids mais je crois|qu'ils vont nous montrer la voie.
+{34477}{34525}Ils viennent nous sauver.
+{34965}{35030}Sois prudent hein ? !|Va pas te faire tuer.
+{35035}{35065}C'est pas mignon ?
+{35067}{35115}Fils, on est fiers de toi.
+{35227}{35330}Salut demeuré. Et touche pas|à mes affaires en mon absence.
+{35380}{35410}Au revoir grand-mère.
+{35417}{35445}Au revoir Thomas.
+{35450}{35475}C'est Billy-Glenn.
+{35485}{35530}Je sais Thomas.
+{35992}{36022}Veillez sur mon gars !
+{36295}{36347}- Ça se passera bien.|- Je l'espère.
+{36352}{36377}Ils sont entraînés.
+{36522}{36555}Il en a pour un moment.
+{36590}{36637}Pourquoi t'es pas comme ton frère ?
+{36640}{36740}On a gagné le gros lot avec Billy-Glenn.|Ça n'arrive qu'une fois.
+{36762}{36837}Richie ! Rends-toi utile pour changer.
+{36867}{36907}Ramène grand-mère au foyer.
+{37255}{37325}Tu pensais pas voir|un jour les Martiens ?
+{37347}{37385}C'est géant, non ?
+{37440}{37522}Mais tu en as vu des|trucs dingues, dans ta vie.
+{37542}{37610}L'invention du train|ça a dû faire peur.
+{37642}{37700}Dis gamin, je suis pas si vieille !
+{37790}{37810}Tu te sens bien ?
+{37860}{37897}Je veux voir Slim.
+{37905}{37995}Je veux voir... Slim, Muffy...
+{38015}{38042}et Richie.
+{38120}{38147}Richie c'est moi.
+{38192}{38237}Je sais Thomas.
+{38247}{38307}Richie a toujours été le meilleur.
+{38410}{38477}Le président et les autres grands
+{38482}{38525}font une liste de sujets
+{38527}{38555}à aborder en commun.
+{38572}{38672}La démarche diplomatique|est unie et concertée.
+{38792}{38865}S'ils se posent la presse|pourra les interviewer ?
+{38902}{38975}Ça dépend.|Nous devons établir le contact,
+{38982}{39055}résoudre les problèmes|de communication.
+{39060}{39122}Ensuite on verra bien.
+{39140}{39162}Le président.
+{39267}{39312}Content de vous revoir tous.
+{39327}{39412}Je n'ai que quelques minutes|alors commençons.
+{39522}{39592}Les Martiens ont-ils|deux sexes comme nous ?
+{40600}{40732}Ce minou c'est le plus|mignon minou du monde entier.
+{40745}{40785}C'est mon Muffy.
+{40907}{40940}Tu as déjà eu un minou
+{40945}{40970}rien qu'à toi ?
+{41020}{41042}Musique !
+{41332}{41360}Tout ira bien ?
+{41392}{41480}Si tu veux quelque chose,|des beignets, tu m'appelles.
+{42112}{42140}Salut Byron.
+{42172}{42252}On dirait que t'es à pinces.
+{42267}{42290}Monte.
+{42412}{42490}Je vais te faire une fleur.|Je te dois bien ça.
+{42492}{42585}Je me suis fait une tonne de blé|sur ton dernier combat en 73.
+{42587}{42647}''Cyclone à la Jamaïque.''
+{42657}{42687}Quelqu'un y a gagné.
+{42697}{42780}Je sais.|C'est dur pour les sportifs.
+{42800}{42837}L'âge vous rattrape...
+{42852}{42902}les occasions se font rares.
+{42920}{42957}Voilà le topo.
+{42962}{43060}Un gus me doit un gros paquet,|il a besoin d'un rappel.
+{43067}{43120}Ce que je te demande
+{43122}{43200}c'est de lui servir ton|crochet du gauche breveté.
+{43220}{43287}Seulement sur le ring Art.
+{43292}{43347}Je suis avec toi, mais...
+{43365}{43417}je te file deux mille.
+{43442}{43472}Quand t'as fini
+{43480}{43572}t'as plus qu'à t'amener au|bureau ramasser l'oseille.
+{43587}{43630}Pourquoi tu me fais ça Art ?
+{43635}{43680}J'essaie de me remettre avec ma femme.
+{43685}{43747}Ça a cassé à cause de trucs comme ça.
+{43775}{43847}Mais j'ai changé mec.|J'ai trouvé Allah,
+{43852}{43907}je mange plus de porc,|je suis meilleur.
+{43940}{43997}J'ai affronté le démon,|je n'en veux plus.
+{44067}{44107}Il bouffe plus de porc !
+{44295}{44322}Leurs coordonnées.
+{44445}{44480}13 mai - 4 heures 58
+{44485}{44510}Ils se posent où ?
+{44512}{44560}Pahrump, désert du Nevada.
+{44565}{44642}Je peux y amener mes troupes pour 8 heures.
+{44647}{44735}N'envoyons pas à ces|gens le mauvais message.
+{44737}{44785}Il faut le tapis, pas les tanks !
+{44790}{44897}On ne peut pas laisser|les Martiens débouler dans le Nevada !
+{44915}{44942}Vous avez raison.
+{44960}{45040}La situation a besoin|d'être prise en main.
+{45047}{45122}Général Casey, vous vous en|sentez capable ?
+{45147}{45172}J'en serais fier.
+{45177}{45230}Mais verrouillez bien.
+{45235}{45320}Les grands médias, un choix|d'invités représentatifs.
+{45327}{45390}On ne veut pas que ça tourne au zoo.
+{45615}{45665}Ils disent n'importe quoi.
+{45682}{45802}Libéraux, intellectuels,|pacifistes, des crétins !
+{45835}{45930}Voulez-vous parler moins fort ?|Des gens habitent ici.
+{46582}{46652}Oui, je reçois l'ambassadeur de Mars !
+{46667}{46700}C'est pas génial ?
+{46727}{46772}Ça c'est un honneur.
+{46792}{46902}Je te l'ai toujours dit chérie,|garder sa place et profil bas,
+{46907}{46955}ça ne peut que bien tourner.
+{48572}{48655}Les Martiens seront traités|en dignitaires étrangers.
+{48660}{48782}Je veux des hommes vigilants|et imposants, et que ça claque.
+{48817}{48890}Faut du panache.|Le monde entier regarde.
+{49035}{49082}Vous êtes affirmatif, ça marche ?
+{49117}{49155}Affirmatif, je l'affirme.
+{49160}{49192}Pas de boulette.
+{49197}{49237}Non, pas du tout.
+{49767}{49845}Poppy ! Tout ce monde !
+{49855}{49905}Tous venus pour te voir.
+{49975}{50012}Voilà Jason Poppy !
+{50422}{50485}La foule est venue de nombreux Etats,
+{50505}{50577}elle attend, elle regarde.|Pourquoi est-elle venue ?
+{50590}{50645}Par curiosité ? Ou autre chose ?
+{50652}{50712}Ou simplement pour dire|""J'y étais"" ?
+{50727}{50790}""J'étais à la|rencontre de l'Homme
+{50807}{50870}""et du Martien. ""|Jason Stone,
+{50882}{50935}GNN, de Pahrump.
+{51735}{51797}Faites place.
+{53052}{53105}C'est impressionnant.
+{53125}{53175}L'engin spatial étincelle
+{53202}{53247}dans le soleil du Nevada
+{53262}{53332}comme un... enjoliveur géant.
+{53385}{53415}Il y a quelque chose.
+{53560}{53615}La porte s'ouvre.
+{53732}{53807}Une rampe argentée en sort...
+{53837}{53875}comme une langue géante.
+{55180}{55207}Les Martiens !
+{55232}{55270}Drôles de bestioles !
+{56257}{56282}Un instant.
+{56352}{56385}Salutations.
+{56400}{56455}Je suis l'ambassadeur de Mars.
+{56522}{56582}C'est en phase général.|Parlez.
+{56587}{56655}Salut.|Je suis le général Casey,
+{56662}{56772}commandant les Forces|armées des Etats-Unis.
+{56785}{56867}Au nom des peuples de la Terre,|soyez les bienvenus.
+{56897}{56920}Il a été bon.
+{57655}{57700}Nous venons en paix.
+{57882}{57925}Ils sont venus en paix.
+{60762}{60820}Crève connard d'extraterrestre !
+{60977}{60997}Je me rends !
+{61187}{61242}Non, c'est pas en train d'arriver !
+{62622}{62710}Sainte Mère de Dieu !|Vous avez vu ?
+{62712}{62750}Faut les foutre en l'air !
+{62777}{62812}Je sais bien,
+{62817}{62895}ça paraît affreux,|mais n'allons pas trop vite.
+{62905}{62932}On les atomise !
+{62955}{63015}D'abord établir une communication.
+{63037}{63085}Pourquoi pas un débat public ?
+{63087}{63117}Consultons l'opinion.
+{63177}{63212}A ton avis Marsha ?
+{63265}{63295}Dérouille-les.
+{63375}{63427}C'est peut-être un malentendu culturel.
+{63442}{63495}Pour eux colombe égale guerre !
+{63552}{63580}On a tous vu
+{63582}{63650}que la colombe leur a fait peur.
+{63682}{63727}Il a bien dit...
+{63782}{63825}''Nous venons en paix.''
+{64065}{64115}Le nouvel ordinateur est prêt.
+{64145}{64235}Allons-y.|Je sais que c'est la bonne décision.
+{64307}{64342}Prêt à émettre.
+{64392}{64485}Ici le président des Etats-Unis.
+{64505}{64627}Je vous parle dans l'espoir que|l'incident du désert du Nevada
+{64642}{64715}ait été un malentendu culturel.
+{64742}{64805}Sans le moindre doute, nos deux peuples
+{64810}{64887}ont beaucoup à offrir l'un à l'autre.
+{64892}{64917}Vous devez être émus,
+{64922}{65020}comme nous, de découvrir une|intelligence dans le système solaire.
+{65052}{65097}Je serai clair.
+{65105}{65192}Vous n'avez rien à|craindre de nous.
+{65207}{65277}Nos mœurs peuvent|vous paraître étranges
+{65282}{65360}mais nous ne vous|voulons aucun mal.
+{67077}{67132}Les investisseurs
+{67152}{67207}doivent être accueillis
+{67242}{67272}par une limousine.
+{67307}{67362}Voitures haut de gamme,
+{67380}{67427}intérieur en cuir,
+{67447}{67490}corinthien si possible.
+{67495}{67600}Tu délires encore sur|ton hôtel à la gomme ?
+{67687}{67710}Les Martiens ont attaqué !
+{67740}{67810}C'est pas un malentendu.|J'y étais.
+{67815}{67842}Je l'ai vu.
+{67857}{67892}Tu t'inquiètes pour hier.
+{67907}{67955}Et moi pour demain.
+{67957}{68047}Si les Martiens arrivent|il faudra les loger.
+{68050}{68082}Comme tout le monde.
+{68177}{68237}Peut-être qu'on doit tous être détruits.
+{68267}{68337}L'humanité ne mérite pas de vivre.
+{68542}{68582}Ça me fait penser.
+{68587}{68720}Installez dans les limousines|tous les alcools connus à ce jour.
+{68727}{68830}Plus une bouteille de|Dom Pérignon, frappé.
+{68852}{68935}Je suis troublé par|l'absence d'appareil génital.
+{68937}{69045}Ici nous voyons l'aorte.|Là le sphinx.
+{69060}{69167}Un système nerveux crânien|hautement développé. Ceci explique
+{69177}{69222}les artères cérébrales.
+{69232}{69307}Et nous remarquons ici, derrière
+{69312}{69375}le chiasma optique,|plusieurs glandes...
+{69475}{69505}Très curieux.
+{70795}{70875}Billy-Glenn a donné sa vie|en défendant notre pays.
+{70877}{70915}Pourquoi lui ?
+{70920}{71020}En véritable héros américain.|Dieu donne le repos à son âme.
+{71597}{71667}Byron ! Tout va bien ?|Tu viens demain ?
+{71677}{71757}Essaie de m'en empêcher !|L'avion se pose à 16 heures.
+{71770}{71797}Les gosses sont là ?
+{72065}{72102}C'est qui ? Neville ?
+{72130}{72145}Ça va ?
+{72155}{72190}On va à la Maison-Blanche.
+{72247}{72272}Demain.
+{72277}{72302}Rends-le-moi !
+{72307}{72330}Lâche-moi.
+{72337}{72377}Avec l'école, en visite.
+{72390}{72452}Vous allez quand même à l'école ?
+{72497}{72522}Repasse-moi maman.
+{72587}{72642}Tu piques toujours le téléphone !
+{72667}{72697}Je suis le plus fort !
+{72752}{72820}Tu fais monter la note.|Je te verrai demain.
+{72830}{72887}Oui, mais j'ai une chose à te dire.
+{72897}{72947}Parce que j'en ai envie.
+{73007}{73032}Je t'aime.
+{73085}{73122}Je t'aime aussi.
+{73132}{73200}Arrête de gaspiller l'argent.|A demain.
+{73627}{73652}Ils répondent.
+{73742}{73782}Un message des Martiens !
+{73872}{73915}Des excuses officielles.
+{73970}{74012}Formidable !
+{74035}{74077}Je vous l'avais pas dit ?
+{74082}{74147}L'ambassadeur est consterné, il demande
+{74152}{74182}à parler au Congrès.
+{74187}{74222}C'est bon, non ?
+{74232}{74257}Je veux.
+{74280}{74332}Un triomphe pour notre administration.
+{74915}{74950}Pas d'applaudissements
+{75002}{75030}Pas d'oiseaux
+{76170}{76237}C'est un grand jour|pour l'Amérique.
+{76255}{76330}Il y a une photo à faire Jerry.
+{76352}{76395}Je ne devrais pas être là ?
+{76425}{76490}La sécurité ne veut|pas avoir l'exécutif
+{76495}{76567}et le législatif au même|endroit en même temps.
+{76595}{76662}L'ambassadeur va dire quelques mots.
+{76677}{76730}Venez monsieur l'Ambassadeur.
+{78577}{78617}C'est absurde !
+{78622}{78657}Ce n'est pas logique !
+{78725}{78755}C'était pas la colombe.
+{78972}{79020}Ils ont fait sauter le Congrès !
+{79555}{79585}Pourquoi ils font ça ?
+{79610}{79672}Peut-être qu'ils aiment pas les humains.
+{80107}{80155}Messieurs... merci à tous
+{80160}{80240}d'être venus si vite.
+{80270}{80360}Général Decker, je crois|que je vous dois des excuses.
+{80392}{80430}On peut tous se tromper.
+{80442}{80477}Plus maintenant.
+{80497}{80565}On va prendre les choses en main !
+{80575}{80620}J'ai préparé le décret.
+{80677}{80755}Le décret-loi pour le|recours à l'arme nucléaire.
+{80847}{80905}Ça va pas ?|Je ne déclenche pas une guerre.
+{80907}{81002}Nous sommes déjà en guerre !|Il faut les atomiser ! Tout de suite !
+{81042}{81130}Général, si vous ne vous taisez pas,
+{81135}{81182}je vous relève de votre commandement.
+{81192}{81282}Il faut frapper maintenant !|Anéantir ! Tuer !
+{81300}{81382}La ferme !
+{82072}{82122}Je veux que le pays sache
+{82130}{82230}qu'il reste deux branches du|gouvernement à son service
+{82235}{82272}et ce n'est pas si mal.
+{82285}{82400}Je veux que le pays sache que|les écoles restent ouvertes.
+{82412}{82467}Et je veux que le pays sache
+{82472}{82542}que les ordures sont ramassées.
+{82552}{82622}Et je veux un flic|à chaque coin de rue.
+{82632}{82732}Ce qui, entre parenthèses,|serait déjà fait
+{82737}{82810}si on m'avait écouté|aux dernières élections.
+{82927}{82972}Quand peut-on être à l'antenne ?
+{83110}{83162}Mes chers compatriotes,
+{83180}{83227}c'est le cœur lourd
+{83230}{83292}que je m 'adresse à vous.
+{83302}{83357}Comme vous le savez,|tout à l'heure,
+{83362}{83435}l'ambassadeur de Mars|et ses complices
+{83452}{83497}ont attaqué et tué
+{83502}{83592}un grand nombre de|vos élus au Capitole.
+{83612}{83742}Je vais me concerter avec les|autres grands chefs d'Etat.
+{83745}{83840}Soyez assurés qu'en|conjuguant nos efforts,
+{83850}{83907}nous aboutirons bientôt...
+{83935}{84007}à un véritable aboutissement.
+{84792}{84822}C'est vous ?
+{84882}{84905}Comment vous sentez-vous ?
+{84960}{85002}Pas très bien, j'en ai peur.
+{85047}{85090}Dites-moi une chose.
+{85162}{85197}Bien sûr Nathalie.
+{85230}{85282}Vous flirtiez avec moi à l'antenne ?
+{85295}{85317}Parce que...
+{85327}{85440}si c'est le cas je veux|vous dire que ça m'a plu.
+{85492}{85540}C'est vrai ?
+{85550}{85630}Vous savez, je vous ai|beaucoup regardée à la télé.
+{85682}{85772}J'ai eu le béguin pour vous|comme un collégien pendant...
+{85790}{85810}une éternité.
+{86837}{86877}La Maison-Blanche vous intéresse ?
+{87017}{87100}J'y travaille, je suis le porte-parole.|Jerry Ross.
+{87127}{87162}Vous avez entendu parler ?
+{87210}{87267}Pas croyable|le stress dans ce travail.
+{87315}{87355}Un nouveau visage, c'est bon.
+{87552}{87587}Vous êtes prise ?
+{87590}{87682}Je peux vous faire faire|une visite personnalisée.
+{87695}{87722}Ça vous dit ?
+{87792}{87860}Mitch, c'est moi. Tu ouvres ?
+{88007}{88080}On est un peu nerveux|après l'épisode du Congrès.
+{88322}{88387}Bien des grands personnages|sont passés par ici.
+{88410}{88455}Maintenant c'est nous.
+{88472}{88520}Bonne sensation, non ?
+{88602}{88642}Vous êtes très gracieuse.
+{88662}{88687}J'aime ça.
+{88880}{88902}Venez.
+{89402}{89447}On l'appelle la chambre Kennedy.
+{89552}{89590}Classe, non ?
+{90422}{90447}Un verre ?
+{91185}{91225}On se détend, je vois.
+{91287}{91315}Superbe.
+{91662}{91700}La belle se sent bien ?
+{91957}{92002}Vous êtes chaude !
+{92022}{92050}Ce chewing-gum,
+{92055}{92077}on l'enlève ?
+{92237}{92262}Mon doigt !
+{92422}{92455}C'est urgent !
+{94685}{94710}T'en fais pas chérie.
+{95210}{95227}Merci Mitch.
+{95252}{95280}C'est mon boulot.
+{96582}{96605}Qu'est-ce qui se passe ?
+{96610}{96677}Ils semblent très agités, et...
+{96710}{96742}je ne sais pas.
+{96765}{96795}Franchement, je ne sais pas.
+{96797}{96867}Je ne comprends plus rien.|C'est frustrant.
+{96872}{96900}Je ne me sens plus.
+{96910}{96972}Si je pouvais vous|tenir dans mes bras...
+{97025}{97057}J'ai peur !
+{97877}{97977}Vous vouliez les résultats|de l'analyse du chewing-gum.
+{97982}{98005}Eh bien ?
+{98010}{98082}Du NO2. Fortement concentré.
+{98087}{98115}De l'azote.
+{98172}{98245}Voilà comment il a pu respirer|dans notre atmosphère.
+{98265}{98297}Quel est ce bruit ?
+{99077}{99142}Théodore, je ne crois|pas que Lincoln...
+{99157}{99190}C'est une invasion.
+{99195}{99237}Mettez-vous en sécurité.
+{99382}{99412}Pas par là ?
+{99417}{99472}Pardon, il y a une visite.
+{99490}{99580}Le Salon bleu passe pour le|plus beau de la Maison-Blanche.
+{99592}{99660}Le président y reçoit|souvent ses hôtes.
+{99687}{99757}Il est meublé dans le|style de James Monroe.
+{99762}{99790}Qu'est-ce que c'est ?
+{99802}{99887}Ça ? C'est un portrait de James Monroe.
+{101142}{101170}On a perdu Taffy !
+{101285}{101327}Je vous en prie, avancez !
+{101330}{101367}Vers l'escalier de derrière !
+{101525}{101560}Le lustre de Nancy Reagan !
+{102030}{102102}Restez pas plantés là !|Emmenez le président !
+{102255}{102297}Ma garantie personnelle
+{102315}{102382}que vous récupérerez|votre investissement
+{102397}{102447}dans les cinq mois.
+{102452}{102490}M.Land, excusez-moi.
+{102495}{102587}Un instant cheik... Rakula.
+{102642}{102740}Même pendant une prétendue|alerte intergalactique,
+{102772}{102805}les gens
+{102830}{102892}veulent rouler les bobs !
+{102955}{103000}Encore cinq minutes.
+{103042}{103117}Ce que j'aimerais c'est vous montrer
+{103122}{103175}notre scène ultramoderne.
+{103212}{103270}Elle est d'enfer.
+{103432}{103517}Y a pas moyen qu'on soit perdants !
+{105165}{105202}J'arrête pas de t'appeler.
+{105212}{105242}Le vol est annulé.
+{105247}{105302}Il y a des Martiens partout !
+{105395}{105417}Je t'entends pas !
+{105565}{105595}Je vais à Washington.
+{105712}{105757}Tu connais un pilote ?
+{105772}{105792}Ton mari, Art.
+{105800}{105820}Non, il est mort.
+{105832}{105867}Je l'avais prévenu.
+{105872}{105920}J'ai rempli l'avion de provisions.
+{105927}{106027}Je veux aller aux grottes de Tahoe.|C'est loin, à l'abri des Martiens.
+{106040}{106060}Et l'avion ?
+{106080}{106130}A l'aérodrome privé, en face.
+{106140}{106175}Il fera Washington ?
+{106180}{106225}Pourquoi ? Je vais à Tahoe.
+{107060}{107090}Tirez-vous les filles !
+{107325}{107372}J'ai un Martien sur les talons !
+{107392}{107437}Vous êtes Tom Jones !
+{107470}{107527}Un autographe ?|Qui a un stylo ?
+{107987}{108015}Sacré punch.
+{108020}{108050}Prenez cette arme.
+{108060}{108097}- Tom Jones.|- Byron Williams.
+{108102}{108155}Je vous ai vu combattre à Cardiff.
+{108187}{108205}Ça va ?
+{108210}{108247}Il me faut un verre.
+{108252}{108275}Moi aussi.
+{108277}{108302}Filons d'ici.
+{108307}{108347}- Vous savez piloter ?|- Vous avez un avion ?
+{108362}{108380}Elle, oui.
+{108852}{108912}Ne fuyez pas.|Nous sommes vos amis.
+{109660}{109692}Ils ont démoli le snack.
+{109697}{109717}Tu rigoles ?
+{109722}{109745}Et grand-mère ?
+{109747}{109832}Oublie-la, elle plane déjà|de toute façon. Tiens, arme.
+{109842}{109912}En tout cas ils auront pas la télé !
+{110167}{110207}Le président français,
+{110212}{110295}ligne 2.|Il dit que c'est important.
+{110525}{110615}Bonne nouvelle.|L'ambassadeur de Mars est ici.
+{110622}{110675}Nous avons négocié un accord.
+{110755}{110812}Sortez de la pièce.|Tout de suite !
+{112052}{112105}Vous devez signer ça !
+{112227}{112262}Qu'est-ce que c'est ?
+{112267}{112320}Mon testament ?
+{112327}{112417}L'ordre d'engager notre|arsenal nucléaire !
+{114147}{114187}C'était quoi ?
+{116847}{116872}Qu'est-ce que c'est ?
+{116922}{116970}- Où tu vas ?|- Chercher grand-mère.
+{116975}{117022}Tu restes pour défendre la caravane !
+{117027}{117075}C'est ce que Billy-Glenn aurait fait.
+{117080}{117115}Tu fais honte à ce héros.
+{117125}{117167}Je m'en fiche, j'y vais.
+{117552}{117580}Et ça c'est quoi ?
+{118482}{118567}T'es sapé en pharaon|mais t'es pas notre chef !
+{118572}{118612}Ça va pas !
+{118617}{118667}On est perdus !|Il nous a menés dans un labyrinthe !
+{118672}{118707}Je rentre à l'hôtel !
+{118712}{118740}Par là !
+{118750}{118792}Attendez ! Où vous allez ?
+{118825}{118852}Je l'aime bien !
+{119007}{119107}Connards ! Pourquoi les écouter ?|J'aurais dû rester à l'hôtel.
+{119220}{119252}Je me rends, d'accord ?
+{119272}{119320}Tu comprends ? Se rendre ?
+{119355}{119412}Vous êtes des êtres intelligents.
+{119430}{119482}Faisons affaire. Je peux vous aider.
+{119490}{119520}Je suis avocat.
+{119532}{119610}Pour conquérir le monde|vous en aurez besoin !
+{119700}{119740}Tu veux ma montre ?
+{119750}{119807}Vas-y, prends-la. Une Rolex !
+{120067}{120092}Bien visé !
+{120107}{120137}Dommage, trop tard.
+{120142}{120185}Barbara, tu me rends le fusil ?
+{122625}{122675}Je crois qu'ils sont très malades.
+{122705}{122750}Qu'est-ce qui les tue ?
+{122802}{122852}Ça doit être ma musique.
+{123052}{123075}Silence.
+{124322}{124375}Vous vous croyez tout permis ?
+{124385}{124437}Vous vous trompez, parce que
+{124447}{124530}nous sommes des êtres humains.
+{124535}{124617}Et les Etats-Unis ont
+{124622}{124675}une armée qui vous combattra
+{124680}{124775}jusqu'au dernier homme !|Nous ne capitulerons jamais !
+{124897}{124980}Nous vous combattrons sur les plages,|dans les rues !
+{124987}{125042}Jamais nous ne capitulerons !
+{125057}{125105}Jusqu'à la victoire !
+{125115}{125152}La démocratie survivra !
+{125165}{125202}Jamais, jamais
+{125210}{125237}nous ne capitulerons !
+{125255}{125280}Nous vaincrons !
+{125287}{125317}L'Aigle triomphera...
+{126062}{126092}Pourquoi
+{126102}{126142}faites-vous ça ?
+{126247}{126362}L'univers n'est pas assez vaste...|pour nos deux peuples ?
+{126460}{126520}Qu'est-ce qui ne va pas chez vous ?
+{126582}{126622}Nous pourrions coopérer.
+{126650}{126692}Pourquoi être ennemis ?
+{126727}{126760}Parce qu'on est différents ?
+{126792}{126825}C'est ça ?
+{126935}{126987}Pensez à ce qu'on pourrait faire.
+{127032}{127115}Quelle force serait la nôtre !
+{127145}{127175}La Terre...
+{127202}{127237}et Mars...
+{127272}{127300}unis.
+{127367}{127445}Il n'est rien que nous|ne pourrions accomplir.
+{127460}{127495}Pensez-y.
+{127637}{127670}Pourquoi détruire...
+{127692}{127740}alors qu'on peut créer ?
+{127777}{127817}Nous pouvons tout avoir...
+{127847}{127917}ou nous pouvons tout briser !
+{127987}{128020}On ne peut pas
+{128032}{128080}résoudre nos différends ?
+{128115}{128217}On ne peut pas s'arranger ?
+{128285}{128330}Petits hommes...
+{128390}{128445}pourquoi ne pouvons-nous simplement...
+{128467}{128505}nous entendre ?
+{130105}{130157}Ne fuyez pas.|Nous sommes vos amis.
+{130587}{130627}Filons à la radio.
+{130700}{130727}On y est !
+{131220}{131245}Le voilà !
+{131285}{131337}Tom, mets-le en route.|Barbara, suis-le.
+{131340}{131370}Cindy, avec moi.
+{131797}{131860}- Vous savez vraiment piloter ?|- Je crois.
+{131927}{131960}Qui a mis ça ?
+{131992}{132012}C'est bloqué.
+{132017}{132050}De ce côté.
+{132262}{132320}Ils ne nous ont pas vus.
+{132372}{132400}Va dans l'avion.
+{132417}{132512}Je reste pour créer une diversion.|Décollez dès que possible.
+{132517}{132560}- Je ne te quitte pas.|- Vas-y !
+{132580}{132617}Je vais les attirer. Pars !
+{132867}{132890}Qu'est-ce qu'il fait ?
+{132892}{132915}Il a flippé !
+{132920}{132960}Il nous libère le terrain !
+{132965}{132995}On va pas le laisser !
+{133082}{133102}Pas d'arme !
+{133122}{133160}Pas de costume de clown !
+{133172}{133197}Rien que moi...
+{133217}{133237}Byron Williams !
+{133267}{133315}Poids lourd ! Champion...
+{133335}{133362}du monde !
+{135072}{135120}Il est arrivé...
+{135132}{135172}quelque chose à Byron.
+{137152}{137235}Adieu ma chérie.|J'aurais voulu que tout soit différent.
+{137237}{137265}Moi aussi.
+{137450}{137475}Je t'aime.
+{137480}{137522}Je t'aime aussi Nathalie.
+{139820}{139852}Florence Norris,
+{139860}{139935}je vous remets la Médaille|d'honneur du Congrès,
+{139937}{139990}la plus haute distinction du pays.
+{140042}{140122}Merci ma petite,|mais que ça ne se reproduise plus.
+{140162}{140190}Richard Norris,
+{140212}{140325}en l'absence de mes parents, pour|avoir sauvé le monde des Martiens,
+{140347}{140402}je vous remets la Médaille d'honneur.
+{140427}{140465}Pas besoin de m'embrasser.
+{140487}{140515}Je dois le faire.
+{140607}{140647}J'ai écrit un discours. Je peux ?
+{140677}{140715}Bien sûr, ça se fait.
+{140840}{140867}Salut tout le monde.
+{140907}{140937}D'abord je veux dire...
+{140942}{140990}Plus fort ! On n'entend rien.
+{141022}{141087}Je voulais dire que plein de gens
+{141092}{141160}ont fait beaucoup plus que moi...
+{141165}{141215}c'est eux qui devraient être ici...
+{141225}{141260}avoir la Médaille.
+{141307}{141342}Et je remercie grand-mère
+{141362}{141487}d'avoir toujours été bonne avec moi,|d'avoir sauvé le monde et tout ça.
+{141510}{141610}Alors maintenant, je suppose|qu'on doit repartir à zéro,
+{141615}{141690}tout reconstruire,|nos maisons par exemple.
+{141697}{141807}Mais je pensais, au lieu de maisons,|on pourrait vivre dans des tipis,
+{141825}{141877}c'est mieux par des tas de côtés.
+{141965}{142015}C'est tout ce que j'ai à dire.
+{142077}{142105}Ça allait ?
+{142150}{142182}Tu as une copine ?
+{142250}{142292}Aidez-moi un peu.
+{142297}{142395}Allez nettoyer votre chambre.|Je ne peux pas tout faire.
+
