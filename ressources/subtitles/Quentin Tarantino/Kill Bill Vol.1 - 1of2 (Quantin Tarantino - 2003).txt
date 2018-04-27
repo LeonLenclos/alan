@@ -1,0 +1,369 @@
+{87}{179}La vengeance est un plat qui se mange froid.
+{1013}{1048}Tu me trouves sadique?
+{1202}{1415}Tu sais, je parie que je pourrais faire|cuire un œuf sur ton front.
+{1382}{1422}Si je voulais.
+{1470}{1980}Tu sais petite. J'espère que tu te rends compte même maintenant|qu'il n'y a aucune trace de sadisme dans mes actions.
+{1909}{2039}Bon peut être envers cette bande de rigolos.
+{2069}{2122}Mais pas envers toi.
+{2178}{2548}Tu sais petite, à cet instant, tel que tu me vois|je ne pourrais pas être moins sadique.
+{2484}{2587}Mais Bill c'est ton enfant...
+{6421}{6493}{Y:u}Chapitre un.
+{6660}{6760}{C:$00FF66}Pasadena, Californie.
+{7259}{7397}J'arrive, bah Sarah t'es en avance,|je t'attendais pas...
+{9257}{9317}Ramène-toi, approche Blondasse.
+{9325}{9425}Approche, viens te battre.
+{10357}{10447}- Maman je suis là.|- Bonjour ma chérie, comment c'était à l'école?
+{10486}{10603}Maman, qu'est-ce qui vous est|arrivé à toi et au salon?
+{10633}{10821}C'est à cause de ton nigaud de chien,|il s'est pointé ici et d'un coup il est devenu comme fou.
+{10746}{10793}Voilà ce qui s'est passé ma belle.
+{10783}{10818}Barnet a fait ça ?
+{10811}{11006}Chérie, il ne faut surtout pas que tu entres ici|parce qu'il y a du verre partout et tu risques de te couper.
+{11108}{11193}Ça c'est une vieille amie à moi qui est venue me faire une surprise.
+{11193}{11358}Salut chérie, je suis X et toi comment tu t'appelles?
+{11373}{11450}Elle s'appelle Niki.
+{11433}{11710}Niki, c'est un charmant prénom pour une charmante jeune fille.|Quel âge tu as Niki?
+{11733}{11833}Niki, je crois que X t'a posé une question.
+{11848}{11888}J'ai quatre ans.
+{11881}{12206}Ah bon tu as quatre ans. Tu sais, j'avais une fille avant moi aussi.|Elle aurait presque le même âge que toi aujourd'hui.
+{12213}{12360}Ecoute ma chérie.|Maman et son amie doivent discuter de chose d'adulte à présent.
+{12330}{12448}Alors je voudrais que tu montes dans ta chambre|et que tu y restes jusqu'à ce que je t'appelle.
+{12449}{12471}D'accord.
+{12521}{12659}Niki dans ta chambre tout de suite.
+{12913}{12983}Je t'offre un café?
+{12985}{13035}Ouais, d'accord.
+{13209}{13366}{Y:i}Cette mère de famille de Pasadena s'appelle Giny Bell.|Epouse du docteur Laurence Bell.
+{13339}{13474}{Y:i}Mais à l'époque où je l'ai connue il y a quatre ans,|elle s'appelait Vernita Green.
+{13454}{13601}{Y:i}Son nom de code était Coper Head.|Le mien Black Mamba.
+{13579}{13599}Tu aurais une serviette?
+{13654}{13676}Ouais.
+{13766}{13854}- Merci.|- Tu prenais de la crème et du sucre, hein?
+{13837}{13865}Ouais.
+{13925}{14020}Je suppose qu'il est trop tard pour des excuses?
+{14002}{14070}Tu supposes bien.
+{14055}{14205}Ecoute Blondasse, je veux savoir|si tu comptes refoutre le bordel autour de ma petite fille.
+{14196}{14389}Pour l'instant rassure-toi. Je ne vais pas te couper la gorge|sous les yeux de ta fille, OK?
+{14395}{14497}Tu te montres plus sensée que ce que Bill|m'avait amenée à croire en parlant de toi.
+{14477}{14650}C'est de pitié, de compassion et de clémence que je manque.|Pas de rationalité.
+{14777}{14937}Je sais que je t'ai fait des emmerdes. Je t'ai fait beaucoup de mal,|je te jure que je regrette mais je l'ai fait.
+{14950}{15000}Tu veux rendre le mal pour le mal, je comprends.
+{14990}{15190}Non, non. Pour rendre vraiment le mal pour le mal...
+{15182}{15232}Je devrais d'abord te tuer toi...
+{15252}{15467}Puis je devrais monter là-haut et tuer Niki. Ensuite attendre|le retour de ton époux, le gentil Docteur Bell, et le tuer.
+{15449}{15497}Là, je crois qu'on serait vraiment quitte.
+{15502}{15577}Une belle vengeance carrée.
+{15572}{15684}Ecoute, si le temps pouvait se remonter je te jure que je le ferais.|Mais ça c'est un rêve.
+{15711}{15788}Tout ce que je peux dire c'est que je ne suis plus|la femme que j'étais alors.
+{15783}{15896}Oh bien sûr, super.|Je m'en fiche.
+{15873}{16013}Bien sûr c'est normal. Je sais que je ne mérite|ni ta pitié ni ta clémence.
+{15987}{16124}Cependant j'implore les deux,|épargne-moi au nom de ma fille unique.
+{16122}{16207}Pourriture, tu peux cesser ton numéro tout de suite.
+{16209}{16452}Le fait que je n'ai pas voulu te mettre en pièce sous les yeux|de ta fille ne veut pas dire qu'en te pavanant devant moi avec sa photo,
+{16362}{16412}tu risques d'inspirer la pitié.
+{16442}{16524}On a un compte en souffrance, souviens-toi bien de ça.
+{16509}{16729}Et rien de ce que tu as pu faire au cours des années que j'ai passées|au fond d'un lit, y compris avoir une gamine, ne saurait changer ça.
+{16719}{16774}Alors tu veux qu'on s'affronte quand?
+{16786}{16836}Oh ça, ça dépend de toi.
+{16841}{16903}Dis-moi, tu préfères mourir quand ?
+{16899}{17032}- Demain soir, ou peut-être le lendemain.|- Qu'est-ce que tu penses de ce soir Blondasse?
+{17014}{17072}Splendide, où ça?
+{17047}{17174}Y'a un terrain de baseball où j'entraîne la ligue junior,|à moins d'un mile.
+{17172}{17272}Viens m'y retrouver ce soir, habillée de noir de la tête aux pieds.
+{17252}{17384}Tes cheveux dans un bandana noir,|et on s'affronte à l'arme blanche.
+{17358}{17440}On sera pas importunées.
+{17423}{17580}Maintenant je dois servir les céréales de Niki.
+{17755}{17868}Bill disait que tu étais une des meilleurs filles|qu'il ait jamais vu avec une arme blanche.
+{17845}{17985}Va te faire foutre Blondasse.|Je sais bien qu'il me trouvait pas la meilleure.
+{17973}{18070}Alors surtout ne te paye pas ma tête Black Mamba.
+{18069}{18121}Black Mamba!
+{18123}{18188}C'est moi qui aurais du être Black Mamba.
+{18175}{18303}Le choix des armes t'appartient. Et si tu veux garder|ton couteau de boucher ça me va très bien.
+{18325}{18373}Très amusant Blondasse.
+{18390}{18418}Très amusant!
+{19816}{19894}Je n'avais pas l'intention de faire ça sous tes yeux.
+{19939}{20004}Pour ça je te demande pardon.
+{20016}{20249}Mais crois-moi sur parole,|elle mérite ce qui lui est arrivé.
+{20566}{20756}Quand tu sera grande,|si jamais tu as envie de te venger de moi Niki...
+{20806}{20851}Viens me trouver.
+{20956}{21026}{C:$66FF00}Pour ceux qui regardent tel des guerriers
+{21028}{21086}{C:$66FF00}Quand nous engageons le combat...
+{21087}{21237}{C:$66FF00}la victoire de tes ennemis concerne uniquement le guerrier.
+{21264}{21422}{C:$66FF00}Ça enlève toute émotion et compassion humaine.
+{21512}{21707}{C:$66FF00}...tuant quiconque se trouvant sur ta route même si c'est|Dieu ou le Bouddha lui-même.
+{21820}{21993}{C:$66FF00}Voici les véritables mensonges au cœur de l'art du combat
+{22298}{22335}{Y:u}Chapitre deux.
+{22329}{22434}L'éclaboussure de sang de la mariée.
+{22570}{22705}{C:$00FF66}"Quatre ans et six mois avant|dans la ville de El Paso, Texas"
+{23667}{23820}Eh bien, donne-moi les détails sanguinolents. Fils N°1.
+{23791}{23851}C'est un vrai massacre, P'a.
+{23896}{23991}Ils ont abattu tous les gens présents|à la noce comme des chiens.
+{24025}{24065}Fais-moi un compte rendu.
+{24067}{24192}Y'a neuf morts, ils n'ont pas fait dans la dentelle, crois-moi.
+{24174}{24479}La mariée, le marié, le révérend, la femme du révérend,|ils ont même descendu le vieux noir qui jouait de l'orgue.
+{24463}{24601}Il semble que ce mariage plaisait pas à quelqu'un|et qu'il a voulu faire part de son opposition.
+{24691}{24766}Nom d'une pute borgne!
+{24891}{25053}Je te l'avais dit P'a.|C'est une nom de Dieu de boucherie à la nicaraguayenne.
+{25025}{25160}Ferme ta tirelire à blasphèmes,|on se trouve dans un lieu de prière.
+{25135}{25172}Excuse-moi P'a.
+{25227}{25272}C'est l'œuvre de tueurs professionnels.
+{25264}{25402}A première vue, je dirais|un commando de la mafia mexicaine.
+{25404}{25462}Quatre ou bien cinq coupables.
+{25459}{25497}Qu'est-ce qui te fait dire ça?
+{25512}{25692}On voit que c'est le boulot de quelqu'un d'entraîné.|Ça n'a rien d'un boulot d'amateur.
+{25657}{25779}Je pense qu'on a affaire à un vieux loup du crime.
+{25773}{25841}Ça se devine à la propreté du carnage.
+{25826}{26021}Regarde fiston, c'est peut-être bien une tuerie barbare.|Mais les couleurs n'ont pas dépassé les lignes.
+{26003}{26103}Si t'étais un demeuré|tu pourrais presque admirer le style.
+{26377}{26424}Qui est la mariée?
+{26414}{26454}On ne sait pas.
+{26462}{26639}Le certificat de mariage la désigne sous le nom de Eurline Machavelie.|C'est un faux nom.
+{26620}{26723}Nous l'avons tous baptisée la mariée à cause de sa robe.
+{26710}{26763}Tu m'avais pas dit qu'elle était enceinte?
+{26785}{26918}Bon Dieu de merde, il faut être une sacrée ordure|pour brûler la cervelle d'une si jolie fille.
+{26961}{27304}Regarde-la. De longs cheveux dorées. De beaux grands yeux.|C'est un bel ange maculé de sang.
+{27316}{27361}Fils N°1?
+{27354}{27394}Ouais P'a.
+{27386}{27529}Cette saloperie de suceuse de queues est vivante!
+{30711}{30796}{C:$00FF66}membre|DU SQUAD DES VIPÈRES ASSASSINES.
+{30783}{30848}{C:$00FF66}Nom de code :|PIÈGE DES MONTAGNES CALIFORNIENNES
+{31222}{31302}Je ne t'ai jamais vraiment aimé, je l'avoue..
+{31324}{31412}Je n'éprouve pour toi qu'un mépris énorme.
+{31419}{31544}Mais c'est loin de vouloir dire que je ne te respecte pas.
+{31605}{31778}Décéder en dormant est un luxe|que les gens de notre métier peuvent rarement se payer.
+{31763}{31858}Je vais donc te faire ce cadeau.
+{31994}{32036}Fais chier!
+{32116}{32176}Salut Bill.
+{32195}{32248}Dans quel état est-elle?
+{32258}{32293}Comateuse.
+{32320}{32358}Où est-elle?
+{32350}{32460}Je me trouve à ses côtés en ce moment même.
+{32438}{32485}C'est bien ma chérie.
+{32543}{32635}LA, tu vas interrompre ta mission.
+{32643}{32693}On lui doit mieux que ça.
+{32688}{32753}Oh arrête. Tu ne lui dois rien du tout.
+{32739}{32786}Pourrais-tu baisser la voix, LA.
+{32776}{32824}Tu ne lui dois rien du tout.
+{32816}{32876}Je peux dire quelque chose?
+{32864}{32899}Je t'écoute.
+{32939}{33059}Vous avez toutes battu cette fille à mort|mais vous ne l'avez pas tuée.
+{33035}{33170}Et je lui ai tiré une balle en pleine tête|et son cœur à continué de battre.
+{33162}{33292}Tu le sais, tu as vu toute la scène|avec ton magnifique œil bleu.
+{33266}{33334}Est-ce qu'il faut que je te rafraîchisse la mémoire?
+{33344}{33586}Nous avons fait un tas de chose à cette femme|et si un jour elle se réveille nous lui en ferons encore plus.
+{33555}{33848}Mais ce qu'on ne fera pas, c'est se glisser dans sa chambre la nuit|comme des sales rats pour la tuer pendant son sommeil.
+{33805}{34022}Et la raison pour laquelle nous ne ferons pas une chose pareille|c'est que cette chose nous abaisserait.
+{34005}{34070}N'êtes-vous pas de mon avis Mlle Dragga?
+{34107}{34140}Je suppose que oui.
+{34135}{34202}Et tu vas m'obliger de supposer?
+{34190}{34330}Non, non. Je ne suis pas vraiment obligée de supposer.
+{34324}{34346}J'en suis sûre.
+{34385}{34430}Reviens à la maison chérie.
+{34461}{34491}Affirmatif.
+{34546}{34586}Je t'aime très fort.
+{34611}{34638}Je t'aime moi aussi.
+{34716}{34751}Au revoir.
+{34808}{34836}C'est pas vrai.
+{35023}{35088}Je parie que tu as trouvé ça super drôle, hein?
+{35147}{35312}Juste avant de filer un conseil,|surtout ne te réveille pas, salope.
+{35352}{35437}Quatre ans plus tard.
+{36144}{36347}A cet instant, tel que tu me vois|je ne pourrais pas être plus masochiste.
+{36307}{36392}Bill, c'est ton enfant...
+{37891}{37954}Mon enfant.
+{38568}{38743}Quatre vies, quatre années.
+{39050}{39090}C'est là.
+{39356}{39491}Le prix, 75 dollars la baise mon vieux.|Alors elle te fait bander ou quoi?
+{39464}{39539}Ça ouais, tu peux le dire.
+{39611}{39723}20, 40, 70, 75, c'est bon.
+{39701}{39743}Voilà le règlement.
+{39736}{39988}Règle n°1, jamais de coup. Si l'infirmière s'amène ici|et qu'elle a un coquard fini la baise.|Sous aucun prétexte tu ne dois frapper cette fille.
+{39938}{40101}Au fait, elle crache cette salope, c'est un réflexe moteur.|Mais qu'elle bave ou quoi, pas de coup.
+{40069}{40144}Est-ce qu'on n'est parfaitement|d'accord sur la règle n°1?
+{40129}{40169}- Ouais.|- Excellent.
+{40162}{40289}Règle n°2, pas de morsure ni de suçon.|En fait, il faut pas laisser de marque.
+{40288}{40378}Après ça, c'est que du plaisir mon gars.
+{40383}{40473}Sa plomberie interne fonctionne plus|alors hésite pas à balancer ta sauce.
+{40455}{40540}Fiche pas le bordel et surtout fais pas de bruit.|Je repasse dans 20 minutes.
+{40614}{40642}Oh, j'oubliais.
+{40652}{40804}Au fait, quelque fois il peut arriver que sa chatte|soit plus sèche que les sables du Sahara.
+{40775}{40858}Si elle est sèche, lubrifie-la avec ça et ça ira.
+{40890}{40950}Bon appétit mon ami.
+{41211}{41249}Ouais.
+{41284}{41409}Ah t'es la plus belle fille que j'ai fourrée ces jours-ci.
+{42545}{42598}Yo, c'est l'heure, rhabilles-toi vieux.
+{42607}{42637}Dommage que tu sois trop long.
+{42632}{42707}Alors mon salaud, tu t'es bien amusé?
+{43491}{43529}Où est Bill?
+{43549}{43581}Où est Bill?
+{43621}{43686}- Pitié, ne me faites pas de mal.|- Où est Bill?
+{43730}{43797}- Je sais pas qui est ce Bill.|- Menteur !
+{43990}{44082}D'après ce que les gens racontent|t'es vraiment une très jolie fille, hein?
+{44065}{44132}Une parfaite inconnue, aucune famille, hein?
+{44117}{44325}Moi je suis de Hansville au Texas. Je suis infirmier.|Et je suis venu te fourrer.
+{44366}{44483}Alors tu es infirmier pas vrai?
+{44497}{44607}Et tu es venu me fourrer, c'est bien ça?
+{44597}{44654}Une minute, non...
+{45236}{45373}Pussy Wagen "la voiture chatte", enfoiré.
+{48608}{48683}Tu vas remuer le gros orteil.
+{48771}{48838}Tu vas remuer le gros orteil.
+{49017}{49092}Tu vas remuer le gros orteil.
+{49202}{49290}Tu vas remuer le gros orteil.
+{49391}{49446}Tu vas remuer le gros orteil.
+{49434}{49587}{Y:i}Tandis qu'étendu à l'arrière de la camionnette,|j'essayais de sortir mes membres de l'entropie
+{49557}{49599}Tu vas remuer le gros orteil.
+{49589}{49739}{Y:i}Me revenait à la mémoire le visage des garces qui m'avaient fait ça.|Et du salaud qui y avait participé.
+{49747}{49847}{Y:i}Tous membres de l'organisation personnelle de Bill.
+{49961}{50196}{Y:i}Lorsque la chance sourit à un projet aussi violent, il n'y a que|la vengeance. La preuve semble être faite que non seulement Dieu existe.
+{50148}{50228}{Y:i}Mais que l'on accompli également sa volonté.
+{50231}{50471}{Y:i}Au moment où j'en savais le moins sur mes ennemies, la première personne|sur ma liste, O-Ren Ishihi, était la plus facile à trouver.
+{50424}{50664}{Y:i}Evidemment, lorsqu'on réussi la tâche difficile de devenir la reine|de la pègre de Tokyo, il est rare qu'on s'en cache n'est-ce pas?
+{50617}{50739}{C:$00FF66}membre|DU SQUAD DES VIPÈRES ASSASSINES
+{50713}{50838}{C:$00FF66}Nom de Code:|LA BOUCHE DE COTON
+{50855}{50888}{Y:u}Chapitre Trois
+{50882}{50954}Les origines de O-Ren
+{50942}{51102}{Y:i}O-Ren Ishihi était née sur une base militaire américaine,|à Tokyo au Japon.
+{51103}{51300}{Y:i}Cette gamine de l'armée américaine, moitié japonaise moitié chinoise,|croisa pour la première fois le chemin de la mort à l'âge de neuf ans.
+{51285}{51538}{Y:i}C'est à cet âge qu'elle fut témoin de l'assassinat de ses parents|par le plus impitoyable des chefs Yakusa du Japon, Boss Matsumoto.
+{56187}{56227}Maman?
+{57880}{58145}{Y:i}Elle jura de se venger.|Heureusement pour elle Boss Matsumoto était pédophile.
+{58120}{58220}{Y:i}A onze ans elle obtint sa vengeance.
+{58289}{58401}{C:$66FF00}Regarde moi Matsumoto...
+{58419}{58499}{C:$66FF00}...regarde bien mon visage.
+{58542}{58600}{C:$66FF00}Regarde mes yeux.
+{58663}{58718}{C:$66FF00}Regarde ma bouche.
+{58738}{58783}{C:$66FF00}Est-ce que je te semble familière?
+{58841}{58901}{C:$66FF00}Est-ce que je te rappelle quelqu'un...
+{58888}{58956}{C:$66FF00}...que tu as tué!
+{60700}{60835}{Y:i}A 20 ans elle était devenue|l'une des meilleures tueuses à gages du monde.
+{61959}{62289}{Y:i}A 25 ans elle participa à l'assassinat de neuf personnes innocentes,|y compris la fille dont j'étais enceinte,
+{62130}{62240}{Y:i}dans une petite chapelle à El Paso au Texas.
+{62245}{62450}{Y:i}Mais ce jour là, il y a quatre ans,|elle a commis une seule erreur.
+{62441}{62506}{Y:i}Elle aurait dû en tuer dix.
+{62514}{62681}{Y:i}Néanmoins avant de savourer cette satisfaction,|j'avais d'autres priorités.
+{62666}{62771}Tu vas remuer le gros orteil.
+{62906}{63078}Bon, le plus dur est fait maintenant,|essayons d'agiter tes petits camarades.
+{63103}{63151}Trente heures après
+{63830}{63952}- Bienvenue à Air-O, que puis-je faire pour vous?|- Un aller simple pour Okinawa
+{64130}{64167}{Y:u}Chapitre Quatre
+{64166}{64256}L'HOMME D'OKINAWA
+{64358}{64440}{C:$33FFFF}L'île d'OKINAWA, JAPON
+{64576}{64599}Bonjour.
+{64611}{64669}{C:$66FF00}Bienvenue...
+{64776}{64809}Bienvenue.
+{64831}{64894}Vous, anglaise ?
+{64886}{64946}Vous êtes pas loin, américaine.
+{64934}{65034}Américaine, bienvenue, bienvenue.
+{65031}{65054}Domo.
+{65069}{65119}Votre visite est un honneur.
+{65126}{65221}Vous avez dit Domo?|Vous parlez japonais?
+{65222}{65402}Oh non, juste un ou deux mots que j'ai entendus ici et là.|Heu, je peux m'asseoir au bar?
+{65374}{65444}Oh bien sûr, bien sûr, asseyez-vous.
+{65520}{65595}Quel autre mot est-ce que vous connaissez?
+{65615}{65645}Oh, juste une minute.
+{65647}{65780}{C:$66FF00}Nous avons une invitée.|Amène du thé, vite.
+{65764}{65839}{C:$66FF00}Je suis en train de regarder ma série.
+{65831}{65854}Oh, le chien.
+{65859}{65911}{C:$66FF00}Quel bâtard...
+{65906}{65969}{C:$66FF00}Arrête ta série...dépêche!
+{65959}{66079}{C:$66FF00}Le thé est chaud.|Pourquoi tu le sers pas toi-même pour une fois ?
+{66054}{66141}La ferme !|Et amène tes fesses ici !
+{66156}{66226}Excusez-moi. Oh la la.
+{66260}{66335}Et quoi d'autre en japonais, vous connaissez?
+{66345}{66425}Oh, voyons voir. Aligato!
+{66421}{66471}Aligato, bravo!
+{66536}{66619}- J'ai déjà dit deux mots, hein?|- Oui, oui oui.
+{66634}{66669}Konai shi wa.
+{66705}{66803}Koni shi wa, koni shi wa, veuillez répéter.
+{66797}{66829}Koni shi wa.
+{66827}{66894}Parfait excellent, excellent.
+{66905}{66978}Vous dites les mots japonais|comme si vous étiez une japonaise.
+{66964}{67084}- Oh arrêtez, vous vous moquez de moi.|- Non, non, ce sont pas des phrases ça.
+{67061}{67149}Prononciation vraiment juste.
+{67149}{67271}Vous dites Aligato comme nous on dit Aligato.
+{67329}{67424}Merci beaucoup, je veux dire Aligato.
+{67437}{67549}Vous devriez apprendre le japonais.|C'est très facile.
+{67564}{67757}- Non, au contraire, on dit que c'est difficile.|- Extrêmement difficile, oui mais vous avez la langue nippone.
+{67798}{67903}Voilà c'est prêt.|Un o-Matchito ça va?
+{67893}{67965}Oh quel bon à rien celui-la.
+{67990}{68165}{C:$66FF00}Hé, qu'est-ce qui s'est passé avec ce damné thé.|Dépêche-toi...Bon sang!
+{68223}{68340}{C:$66FF00}Sale paresseux...
+{68424}{68496}{C:$66FF00}Qu'est-ce tu veux?
+{68493}{68528}Je vous demande pardon?
+{68564}{68614}Comme boisson?
+{68611}{68711}Oh oui, une bouteille de Saké chaud s'il vous plaît.
+{68703}{68798}Une bouteille de Saké.|Très Nippon.
+{68793}{68835}{C:$66FF00}Une bouteille de Saké chaud !
+{68828}{68925}{C:$66FF00}Du Saké? Au milieu de la journée?
+{68923}{69043}{C:$66FF00}- Le jour, la nuit, l'après-midi|- Ça fait rien - Amène le Saké!
+{69025}{69108}{C:$66FF00}Comment se fait-il que je doive toujours amener du Saké?
+{69091}{69124}{C:$66FF00}Tu écoutes bien...
+{69134}{69226}{C:$66FF00}Depuis treize ans, tu fais le poisson,|j'apporte le Saké.
+{69209}{69269}{C:$66FF00}Si nous étions militaires,
+{69259}{69369}{C:$66FF00}Je serais un général maintenant!
+{69346}{69426}{C:$66FF00}Oh, tu serais Général hein?
+{69412}{69535}{C:$66FF00}Si tu étais Général,|je serais un empereur.
+{69509}{69584}{C:$66FF00}et tu es encore à apporter le Saké.
+{69569}{69649}{C:$66FF00}Alors la ferme et apporte le Saké!
+{69638}{69650}Est-ce que c'est clair?
+{69653}{69718}{C:$66FF00}Je suis pas chauve, ok? Je rase ma tête.
+{69708}{69755}Est-ce que c'est clair?
+{69826}{69859}Désolé.
+{69899}{70006}Nado, ah c'est la première fois au Japon?
+{70030}{70098}Qu'est-ce qui vous amène ici à Okinawa?
+{70100}{70148}Y'a un homme que je dois voir.
+{70224}{70284}Vous avez un ami qui vit à Okinawa?
+{70294}{70366}- Pas tout à fait.|- C'est pas un ami?
+{70376}{70401}Je ne l'ai jamais vu.
+{70404}{70429}Jamais.
+{70464}{70494}Qui est-il?
+{70496}{70539}Si je peux me permettre?
+{70568}{70615}Hattori Hanzo.
+{70909}{71004}{C:$66FF00}Qu'est-ce que vous voulez à Hattori Hanzo?
+{71019}{71089}{C:$66FF00}J'ai besoin de l'acier japonais.
+{71143}{71223}{C:$66FF00}Pourquoi est-ce que vous avez besoin de l'acier japonais?
+{71251}{71334}{C:$66FF00}J'ai une vermine à tuer.
+{71401}{71554}Vous devez avoir de vraiment gros rats|s'il vous faut de l'acier d'Hattori Hanzo.
+{71589}{71647}Enormes, oui.
+{73740}{73778}Puis-je?
+{73792}{73822}Si vous voulez.
+{73907}{73932}Attendez.
+{73947}{74007}Essayer le Katana rouge et noir.
+{75261}{75399}Je trouve ça drôle.|Vous aimez les sabres de samouraï.
+{75449}{75524}Et j'aime le baseball.
+{75705}{75773}{C:$66FF00}Je voulais vous montrer ça.
+{75790}{75813}{C:$66FF00}Cependant...
+{75840}{75933}{C:$66FF00}...quelqu'un comme vous, qui sait tant de chose,|sait sûrement...
+{75945}{76073}{C:$66FF00}...je ne fabrique plus depuis longtemps des instruments de mort.
+{76081}{76129}{C:$66FF00}Ce que j'ai là...
+{76150}{76312}{C:$66FF00}...je les garde pour le côté esthétique et sentimental.
+{76315}{76425}{C:$66FF00}Maintenant, je suis fier de mon travail...
+{76529}{76624}{C:$66FF00}...Je me suis retiré.
+{76803}{76938}- Alors, donnez-moi un de ceux là.|- Ces Katana ne sont pas à vendre.
+{76937}{77055}Je n'ai pas dit vendez moi, j'ai dit donnez-moi.
+{77096}{77174}Pourquoi je vous donnerais un coup de main ?
+{77179}{77294}Parce que ma vermine a été formée ici par vos soins.
+{77348}{77593}Et étant donné l'élève en question|je dirais que vous avez une assez grande obligation.
+{78913}{78953}{C:$66FF00}Vous pouvez dormir ici.
+{78978}{79043}{C:$66FF00}Ça va me prendre un mois...
+{79094}{79129}{C:$66FF00}...pour faire la lame.
+{79159}{79236}{C:$66FF00}Je vous suggère de le passer à vous entraîner.
+{79996}{80081}UN MOIS PLUS TARD.
+{81361}{81411}{C:$66FF00}J'ai complètement fini...
+{81451}{81566}{C:$66FF00}...ce que j'avais juré à Dieu, il y a 28 ans
+{81594}{81704}{C:$66FF00}...de ne plus jamais faire.
+{81749}{81871}{C:$66FF00}J'ai créé "quelque chose qui tue des gens".
+{81889}{82059}{C:$66FF00}Et ce but, je l'ai atteint.
+{82095}{82157}{C:$66FF00}J'ai fait ça parce que philosophiquement
+{82169}{82341}{C:$66FF00}je rallie votre cause.
+{82389}{82549}{C:$66FF00}Je peux vous dire sans ego que c'est ma plus fine lame.
+{82555}{82650}{C:$66FF00}Si un jour vous rencontrez Dieu...
+{82630}{82727}{C:$66FF00}...Il vous la coupera.
+{83005}{83072}{C:$66FF00}Guerrière aux cheveux jaunes...
+{83070}{83125}{C:$66FF00}Va.
+{83130}{83152}Domo.
+{83446}{83481}{Y:u}Chapitre Cinq
+{83489}{83612}La Descente à la Maison du Départ Bleu.
+{83648}{83735}{Y:i}Ce fut un an après le massacre de El Paso au Texas,
+{83718}{83868}{Y:i}que Bill décida de soutenir sa protéger Nipponne|à la fois financièrement et philosophiquement,
+{83838}{83920}{Y:i}dans sa lutte pour le pouvoir de manitude shakespearienne,
+{83903}{84035}{Y:i}avec les autres clans Yakusa pour décider|qui contrôlerait le grand Tokyo.
+{84034}{84319}{Y:i}Quand les sabres furent rengainés, ce fut O-Ren Ishihi|et sa garde prétorienne, les féroces 88, qui s'arrogèrent la victoire.
+

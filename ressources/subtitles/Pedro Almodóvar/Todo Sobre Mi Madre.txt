@@ -1,0 +1,1279 @@
+{2548}{2578}J'appelle.
+{2985}{3030}Centre national|des transplantations.
+{3037}{3086}Manuela,|de l'hôpital Ramon y Cajal.
+{3096}{3138}On a un donneur.
+{3144}{3220}On a fait le 1er encéphalo.|On a l'accord de la famille.
+{3241}{3272}Les données?
+{3293}{3338}Un homme de 35 ans.
+{3348}{3371}Groupe sanguin?
+{3383}{3442}O positif, 70 kilos environ.
+{3678}{3717}Receveurs hépatiques
+{4026}{4069}Avec Dodotis,
+{4091}{4123}pas la moindre goutte.
+{4290}{4321}Le film commence.
+{4337}{4359}J'arrive.
+{4512}{4564}"Eve mise à nu".
+{4587}{4688}Cette manie de changer le titre.|ça devrait être "tout sur Eve".
+{4702}{4747}"Tout sur Eve", ça sonne mal.
+{4973}{5007}Qu'est-ce que tu écris?
+{5020}{5038}Rien.
+{5073}{5119}Les futurs prix Pulitzer.
+{5146}{5215}Rien que ça!|Mange pour engraisser un peu
+{5226}{5302}au cas où tu devrais|faire le trottoir pour m'entretenir.
+{5314}{5378}Ce qui compte,|c'est d'avoir une belle queue.
+{5409}{5458}En voilà une façon de parler!
+{5471}{5499}Tu l'as cherché.
+{5505}{5541}Je blaguais.
+{5602}{5621}Et toi?
+{5627}{5650}Quoi moi?
+{5662}{5712}Tu te prostituerais pour moi?
+{5764}{5824}J'ai déjà tout fait pour toi.
+{5896}{5918}Mange!
+{5965}{6029}Les chasseurs d'autographes|sont pas des êtres humains.
+{6035}{6092}Une vraie meute de chacals.
+{6102}{6132}Ce sont tes admirateurs.
+{6147}{6248}Que veux-tu qu'ils admirent?|Des voyous, des débiles.
+{6254}{6313}Un public|qui n'a jamais vu une pièce
+{6319}{6361}ni mis le pied dans un théâtre.
+{6370}{6421}En voilà une qui l'a fait.
+{6438}{6491}Je te l'ai amenée.|Entrez, Eve.
+{6554}{6618}- J'ai cru qu'on m'oubliait.|- Pas du tout.
+{6624}{6668}Margo, Eve Harrington.
+{6674}{6715}Comment allez-vous?
+{6738}{6782}T'aimerais pas être actrice?
+{6795}{6848}J'ai eu assez de mal|à être infirmière.
+{6854}{6911}J'écrirais des rôles pour toi.
+{6933}{7025}J'ai fait du théâtre amateur|autrefois. Je m'en tirais bien.
+{7047}{7099}Je dois avoir une photo.
+{7118}{7156}Je voudrais bien la voir.
+{7184}{7215}Je la chercherai.
+{7379}{7411}Regarde, Esteban.
+{7420}{7459}J'ai retrouvé une photo.
+{7561}{7632}On avait monté|des textes de Boris Vian.
+{7662}{7705}Du café-théâtre pour intellos.
+{8033}{8077}- Bon anniversaire!|- Déjà?
+{8083}{8126}Il est minuit, mon coeur.
+{8164}{8208}"Musique pour caméléons"!
+{8215}{8249}Comment t'as deviné?
+{8255}{8290}Je sais que tu aimes Capote.
+{8309}{8353}Lis, comme quand j'étais petit.
+{8480}{8505}Préface.
+{8541}{8591}"J'ai commencé à écrire|à huit ans."
+{8600}{8628}Je suis pas le seul.
+{8672}{8800}"C'était m'enchaîner pour la vie|à un maître noble mais implacable.
+{8810}{8899}"Quand Dieu nous accorde un don,|il l'accompagne d'un fouet,
+{8931}{9003}"destiné uniquement|à l'auto-flagellation."
+{9038}{9084}ça vous ôte l'envie d'écrire.
+{9090}{9122}Sois pas bête.
+{9138}{9190}Cette préface est une merveille.
+{9214}{9280}Que veux-tu faire|pour ton anniversaire?
+{9295}{9342}Assister à un de tes séminaires.
+{9348}{9374}Pourquoi?
+{9387}{9464}J'écris une nouvelle sur toi,|pour un concours.
+{9482}{9584}Pour te voir dans une de vos impros|sur le don d'organes.
+{9627}{9714}Faut que je demande à Mamen,|la psy qui dirige les stages.
+{9720}{9767}Très bien, demande-le-lui.
+{9807}{9861}ça m'ennuie que t'écrives sur moi.
+{9934}{9977}C'est impossible.
+{9990}{10049}On vient de le voir, il respirait.
+{10055}{10144}On vous l'a expliqué.|C'est l'assistance respiratoire.
+{10165}{10227}Faut-il prévenir un parent?
+{10263}{10291}Je n'en ai pas.
+{10315}{10354}Je n'ai que mon fils.
+{10387}{10447}Comment vais-je lui annoncer ça?
+{10453}{10566}De son vivant, votre mari|parlait du don d'organes?
+{10581}{10631}Se souciait-il de ces questions?
+{10645}{10694}De son vivant,|il se souciait de vivre.
+{10753}{10818}J'imagine que la vie d'autrui|lui importait.
+{10845}{10872}Je ne comprends pas.
+{10891}{10969}Mon confrère veut dire|que les organes de votre mari
+{10974}{11030}peuvent sauver d'autres malades.
+{11036}{11090}Mais il nous faut votre accord.
+{11105}{11159}Vous pourriez lui faire une greffe?
+{11184}{11258}Non, plutôt le contraire.
+{11504}{11579}Passons à l'analyse|de cette simulation.
+{12628}{12674}Fais attention en traversant.
+{12703}{12765}- A quoi pensais-tu?|- Rien, une idée.
+{12773}{12819}Donne les billets au monsieur.
+{12943}{13005}Qu'est-ce qu'il y a?|Je suis affreuse?
+{13011}{13072}Non, tu es plus belle que jamais.
+{13078}{13159}Ce doit être le gentleman|que tu attendais.
+{13169}{13220}Vous n'êtes pas monsieur Huntleigh,
+{13250}{13285}et vous non plus.
+{13720}{13764}Il faudra lui couper les ongles.
+{13817}{13842}La camisole, docteur.
+{13864}{13935}Dites-lui de me lâcher,|s'il vous plaît.
+{13977}{14005}Lâchez-la.
+{14136}{14181}Allons, relevez-vous.
+{14268}{14307}Appuyez-vous à mon bras...
+{14343}{14375}Mlle Dubois.
+{14445}{14464}Qui que vous soyez,
+{14470}{14552}je me suis toujours fiée|à la bonté des inconnus.
+{14836}{14887}Allez, le plus dur est fait.
+{14893}{14955}Ne me touche pas, salaud!
+{14961}{14998}Fais gaffe à ce que tu dis.
+{15209}{15240}Stella, viens ici.
+{15348}{15402}Je remettrai plus les pieds ici!
+{15480}{15509}Jamais!
+{15678}{15734}Je voudrais un autographe|de Huma Rojo.
+{15739}{15775}Par ce temps?
+{15781}{15817}Quel rapport?
+{16003}{16031}Si elle sort pas?
+{16036}{16095}Attends un peu.|C'est mon anniv'.
+{16132}{16181}Déjà l'automne.
+{16336}{16396}Nina Cruz t'a beaucoup émue?
+{16415}{16466}Pas elle, Stella.
+{16492}{16590}Il y a 20 ans, avec la troupe,|on avait monté le Tramway.
+{16604}{16640}Je jouais Stella.
+{16653}{16696}Ton père jouait Kowalsky.
+{16708}{16772}Il faudra me dire|tout sur mon père.
+{16787}{16830}Pas seulement qu'il est mort.
+{16836}{16869}C'est pas facile.
+{16875}{16945}Je m'en doute,|sinon tu l'aurais déjà fait.
+{16974}{17039}J'ai failli te le demander|pour mon anniversaire.
+{17048}{17115}- Ce serait pas un cadeau.|- Tu te trompes.
+{17121}{17162}Pour moi, c'est le plus beau.
+{17237}{17304}Alors, je te dirai tout à la maison.
+{17375}{17431}Le théâtre,|c'est pire que le couvent.
+{17490}{17575}Si tu peux pas te camer|jusqu'aux yeux, c'est le couvent!
+{17581}{17611}Exactement.
+{17662}{17705}30, avenue Alphonse XII.
+{17800}{17843}Allons-y, laisse tomber.
+{18619}{18657}Mon fils!
+{19328}{19408}Demain j'aurai 17 ans,|mais je fais plus vieux.
+{19420}{19511}Les enfants qui vivent seuls|avec leur mère ont une expression
+{19517}{19595}plus sérieuse que les autres,|d'intello ou d'écrivain.
+{19601}{19682}Moi, c'est normal, je suis écrivain.
+{19804}{19845}RÉANIMATION
+{19943}{19991}Lola, de Ramon y Cajal.
+{20061}{20174}On a un donneur, en réa,|on lui a fait le 1er encéphalo.
+{20180}{20224}On a pas encore|l'accord de la mère.
+{20231}{20264}Les données.
+{20281}{20314}C'est le fils de Manuela.
+{20324}{20397}La Manuela que je connais?|La coordinatrice?
+{20414}{20469}Oui. C'est horrible.
+{21016}{21047}Malheureusement...
+{21157}{21227}L'encéphalogramme|confirme nos craintes.
+{21439}{21492}Il faut décider, le temps presse.
+{21634}{21719}J'autorise|la transplantation du coeur...
+{22393}{22421}BLOC OPÉRATOIRE
+{22901}{22929}C'est l'hôpital!
+{22976}{23009}Faut y aller!|Faut appeler!
+{23015}{23095}- Tout de suite. Calme-toi.|- Je suis calme. Appelle!
+{24777}{24818}On est dans la rue, chéri!
+{24845}{24909}- On est dehors!|- ça a pas l'air vrai.
+{24928}{24964}J'arrive pas à y croire.
+{24980}{25013}Je respire aussi mal.
+{25019}{25083}- Tu respireras mieux.|- Avec un coeur de 18 ans!
+{25089}{25130}Je vais te faire des beignets!
+{25136}{25179}N'exagère pas, tout de même.
+{25262}{25324}Hier maman m'a montré|une photo d'elle, jeune.
+{25345}{25381}Il en manquait la moitié.
+{25395}{25426}Je n'ai pas voulu le lui dire,
+{25432}{25484}mais c'est la moitié|qui manque à ma vie.
+{25863}{25901}J'étais inquiète.
+{25930}{25978}J'ai cru que t'appellerais jamais.
+{25989}{26031}J'ai appelé en arrivant à Madrid.
+{26036}{26072}Je te parle de l'Argentine.
+{26078}{26192}Je t'ai appelée cent fois, j'ai dû|mal noter le numéro de ta tante.
+{26220}{26293}J'étais pas en Argentine,|j'étais à La Corogne.
+{26541}{26589}Qu'allais-tu y faire?
+{26661}{26718}J'ai suivi le coeur de mon fils.
+{26738}{26793}Mais qui t'a dit...|Comment sais-tu?
+{26810}{26921}J'ai fouillé les dossiers pour|trouver les coordonnées du receveur.
+{26935}{26976}Tu n'aurais jamais dû!
+{26988}{27069}C'est interdit,|et ça te rendra folle. Regarde-moi!
+{27075}{27171}Je sais. Je vais quitter le Centre|et Madrid.
+{27177}{27245}- Je dis pas ça.|- Tu le penses et tu as raison.
+{27276}{27319}Je ne défais pas ma valise.
+{27325}{27408}Tu n'es pas en état|de voyager seule, tu es malade.
+{27419}{27478}Il faut te reposer, récupérer.
+{27484}{27520}Je reste avec toi ce soir.
+{27526}{27555}Alors, viens chez moi.
+{27560}{27605}J'ai besoin d'être seule.
+{27610}{27662}- Sois un peu raisonnable.|- Comment?
+{27901}{27978}Il y a 17 ans,|j'ai fait le même trajet.
+{27984}{28057}Mais en sens inverse,|de Barcelone à Madrid.
+{28088}{28175}Je fuyais aussi,|mais je n'étais pas seule.
+{28205}{28260}Je portais Esteban en moi.
+{28294}{28349}C'était son père|que je fuyais alors
+{28366}{28397}et maintenant,
+{28407}{28452}je vais à sa recherche.
+{30024}{30056}On continue par là?
+{30065}{30095}Oui, continuez.
+{32093}{32119}Arrêtez-vous!
+{32224}{32270}- Fils de pute!|- Ferme-la!
+{32479}{32533}T'es dingue, pédé.
+{33052}{33085}Qu'est-ce que t'as fait?
+{33091}{33131}Je l'ai cogné avec une pierre.
+{33152}{33206}- Aide-moi à le relever.|- Debout!
+{33266}{33304}Allez, Juan, lève-toi!
+{33316}{33342}ça va?
+{33352}{33378}Debout!
+{33400}{33449}Allez, vite.
+{33481}{33513}Dépêchons-nous.
+{33555}{33624}T'es qu'un psychopathe de merde!
+{33778}{33825}Tu vois les "top" autour du feu?
+{33838}{33933}Demande Ursula de la part d'Agrado.|Elle te soignera.
+{33947}{33962}Agrado!
+{34036}{34053}C'est toi?
+{34066}{34096}Manolita!
+{34223}{34253}T'es blessée?
+{34259}{34304}Non, c'est toi qui m'as tachée.
+{34310}{34377}Tu viens de me sauver|mais ce que tu m'as manqué!
+{34383}{34460}18 ans sans un mot|ni un coup de fil.
+{34466}{34512}Je te croyais morte, salope.
+{34518}{34551}Rentrons, tu me raconteras.
+{34557}{34608}D'abord une pharmacie,|t'as l'air d'un Christ.
+{34614}{34657}- Où y a des taxis?|- Par là.
+{34717}{34785}Pourvu qu'on nous agresse pas.|T'as le couteau?
+{34790}{34849}Oui et une grosse pierre|dans mon sac.
+{34940}{34976}Bonsoir.
+{35061}{35110}Pardon de t'avoir réveillé.
+{35126}{35147}Viens là.
+{35153}{35178}Vous désirez?
+{35191}{35233}On va pas te manger.
+{35241}{35263}Vous désirez?
+{35277}{35314}Laisse-moi faire.
+{35320}{35396}De la povidone iodée,|des Stéristrip,
+{35409}{35483}du trombocide,|des compresses stériles.
+{35489}{35554}- T'as de l'alcool?|- J'ai tout bu hier soir.
+{35567}{35598}Non, pour désinfecter.
+{35604}{35623}Non, j'ai
+{35629}{35705}de la vaseline, des capotes|et beaucoup de sparadraps.
+{35718}{35737}Avec ça?
+{35750}{35783}De l'alcool.
+{35851}{35895}Barcelonette!
+{35901}{35956}Le bon temps!|Tu te rappelles?
+{35975}{36052}Oui, arrête de remuer la tête.
+{36122}{36162}Tu as de ses nouvelles?
+{36173}{36214}De qui? De Lola?
+{36220}{36245}Malheureusement.
+{36251}{36279}Ah bon, pourquoi?
+{36289}{36380}Je l'ai hébergée, elle allait mal.|Avec tout ce qu'elle prend!
+{36410}{36512}Un matin, je rentre du tapin,|vannée, elle m'avait dévalisée.
+{36518}{36589}Les bijoux, les journaux de mode 70|dont je m'inspire.
+{36595}{36633}Trois cent mille pesetas.
+{36639}{36718}Le pire, c'est une statue|de la Vierge du Pino,
+{36724}{36752}un cadeau de ma mère.
+{36758}{36807}Pourquoi, merde,|elle croit à rien!
+{36813}{36899}A moins qu'elle l'ait embarquée|pour un rite satanique.
+{36918}{36957}Elle n'a pas changé.
+{36967}{37026}Me faire ça,|avec ce qu'elle me doit!
+{37032}{37107}Depuis 20 ans,|je la traite comme une soeur.
+{37113}{37179}On nous a mis nos seins ensemble,|tu le sais mieux que personne.
+{37255}{37301}Tu l'as revue?
+{37310}{37338}Je veux pas.
+{37345}{37373}Tu la cherches?
+{37483}{37521}Un truc à régler.
+{37590}{37655}Pourquoi t'es partie comme ça?
+{37733}{37765}Tu me diras rien?
+{37826}{37860}Je ne peux pas.
+{37905}{37936}Une autre fois.
+{37997}{38032}Mais ne recommence pas.
+{38061}{38120}J'aime dire au revoir|à ceux que j'aime.
+{38126}{38191}Ne serait-ce que|pour le plaisir de chialer.
+{38747}{38779}C'est pas vrai.
+{39048}{39083}On dirait Elephant Man.
+{39113}{39179}T'exagères,|c'est un peu enflé, c'est tout.
+{39187}{39249}Un peu?|Où je vais, avec cette tête?
+{39269}{39305}Viens, à table.
+{39312}{39365}Fallait pas te donner tant de mal.
+{39376}{39427}Extra, la salade!
+{39463}{39505}J'ai mal quand je mâche!
+{39511}{39543}Je pourrai pas sucer.
+{39562}{39590}Ne va pas travailler.
+{39596}{39683}Et quoi? Lola m'a mise|sur la paille. Je dois travailler.
+{39689}{39745}De la confiture de lait,|des empanadas!
+{39751}{39790}De la provoleta.
+{39796}{39869}Cherchons du travail ensemble,|j'en ai besoin.
+{39875}{39902}Oh oui!
+{39958}{40016}Depuis ton départ|je mange plus comme une chrétienne.
+{40022}{40115}Bien sûr, étant mannequin,|je dois me surveiller
+{40121}{40157}pour rester mignonne
+{40163}{40266}et être à la pointe des progrès|de la chirurgie et des cosmétiques.
+{40433}{40465}Tu es magnifique.
+{40471}{40524}Rien ne vaut un Chanel|pour se sentir respectable.
+{40530}{40550}Tu es respectable.
+{40574}{40624}Et moi?|ça fait pas un peu pute?
+{40630}{40724}C'est bien, les Soeurs n'aident|que les putains et les travestis.
+{40766}{40800}C'est un vrai Chanel?
+{40806}{40863}J'irais pas dépenser|un demi-million
+{40869}{40919}avec la faim|qu'il y a dans le monde.
+{40925}{41040}Je n'ai de vrai que les sentiments|et des tonnes de silicone.
+{41048}{41117}Je suis vieille|et c'est pas de mon âge.
+{41127}{41167}C'est les coups d'hier soir.
+{41185}{41246}Plutôt les 400 coups depuis 40 ans.
+{41348}{41389}Qui demandez-vous?
+{41395}{41487}Celle qui nous visite près du stade,|qui est si jolie.
+{41493}{41547}Soeur Rosa, elle est à l'atelier.
+{41804}{41846}Rosa, t'as de la visite.
+{41997}{42041}- Qu'est-ce qui t'est arrivé?|- Rien.
+{42047}{42116}Les risques du métier.|On peut parler?
+{42124}{42204}Allons au parloir,|on sera tranquilles.
+{42229}{42312}On veut lâcher le trottoir,|mais on doit travailler.
+{42318}{42385}N'importe quoi, même des ménages.
+{42391}{42451}Y a pas grand-chose.|Enfin, éboueuses
+{42457}{42505}ou l'artisanat, ici, à l'atelier,
+{42511}{42573}broderie au petit point,|fleurs séchées...
+{42579}{42628}Je préfère encore éboueuse.
+{42652}{42694}Et toi, tu sais faire quoi?
+{42699}{42736}J'ai été cuisinière.
+{42743}{42831}Elle est presque chirurgienne,|regarde, elle m'a recousue.
+{42837}{42891}C'est une compatriote de Lola.
+{42942}{42980}Vous avez de ses nouvelles?
+{42986}{43030}Je l'ai pas vue depuis 18 ans.
+{43036}{43075}Et moi, elle m'a dévalisée.
+{43082}{43166}On l'a eue ici,|il y a environ 4 mois.
+{43176}{43223}On l'a aidée à se désintoxiquer.
+{43236}{43339}J'ai veillé sur elle pendant|son sevrage, et puis elle a disparu.
+{43352}{43413}J'aimerais la saluer|avant d'aller au Salvador.
+{43424}{43468}Vous allez au Salvador?
+{43474}{43579}J'irais bien. Dans le tiers-monde,|je crois que je ferais un tabac.
+{43597}{43634}Venez, je serai moins seule.
+{43652}{43695}Le tapin, c'est la galère.
+{43701}{43781}Les putes ça allait,|mais les drag queens nous tuent.
+{43787}{43840}Je supporte pas ces drags.
+{43846}{43938}Elles font du cirque,|pas du travestisme. Pire, du mime!
+{43944}{44001}Une femme c'est des cheveux,|des ongles,
+{44007}{44051}une bouche pour sucer|ou critiquer.
+{44057}{44121}A-t-on déjà vu une femme chauve?
+{44127}{44183}Je supporte pas,|c'est des épouvantails.
+{44229}{44307}Au Salvador,|ils sont en pleine guérilla.
+{44313}{44365}Ah bon? Je savais pas.
+{44396}{44438}Je remplace une Soeur assassinée.
+{44456}{44539}J'ai pas vraiment besoin|d'une guérilla en ce moment.
+{44545}{44588}Ce que tu es bête.
+{44626}{44658}Vous êtes cuisinière?
+{44692}{44738}Qui? Celle-ci?
+{44744}{44774}La meilleure.
+{45362}{45386}Quelle surprise!
+{45392}{45424}Bonjour, maman.
+{45435}{45459}Tu travaillais?
+{45469}{45515}Pour une fois que tu viens.
+{45592}{45630}Je te présente Manuela.
+{45652}{45703}Entrez, ne restez pas là.
+{45758}{45853}Manuela est cuisinière,|alors comme Florinda est partie...
+{45859}{45923}Merci,|Vicenta et moi on se débrouille.
+{45929}{45998}Comment?|Papa occupe déjà deux personnes.
+{46004}{46057}- Où est-il?|- Dehors, avec le chien.
+{46063}{46094}- Tout seuls?|- Bien sûr.
+{46100}{46129}S'ils se perdent?
+{46135}{46188}Le chien connaît le chemin.
+{46195}{46250}J'avais très envie de les voir.
+{46256}{46344}On ira les chercher,|mais avant il faut qu'on parle.
+{46350}{46419}- Vous êtes venue pour rien.|- C'est pas grave.
+{46425}{46459}Prends-la à l'essai.
+{46465}{46519}Et pour papa,|elle est infirmière.
+{46525}{46554}Et cuisinière?
+{46560}{46620}Ton père,|j'aime m'en occuper moi-même.
+{46626}{46688}Je comprends très bien, merci.
+{46694}{46719}Je m'en vais.
+{46771}{46819}Attendez-moi. Ce sera pas long.
+{46910}{46966}Tu m'amènes une putain|à la maison?
+{46972}{47039}Aucun domestique ne vous supporte.
+{47045}{47072}M'enfin, une putain!
+{47078}{47129}Tu as été grossière avec elle.
+{47135}{47203}Je préfère qu'on ne me voie pas|faire des faux Chagall.
+{47217}{47245}ça se comprend, non?
+{47251}{47317}Manuela n'est plus putain.|Elle a cessé.
+{47327}{47355}Depuis quand la connais-tu?
+{47376}{47397}Depuis ce matin.
+{47414}{47499}Ce matin?|Tu es incroyable, Rosa!
+{47529}{47588}Mon travail c'est d'aider les gens,|même sans les connaître.
+{47599}{47629}Pas le mien.
+{47642}{47711}Fais pas cette tête,|je ne suis pas intolérante.
+{47743}{47787}Je te propose un marché.
+{47815}{47912}Je lui donnerai sa chance|si tu ne vas pas au Salvador.
+{47918}{47976}J'ai bien assez de doutes comme ça.
+{47982}{48082}C'est normal! Ce voyage est|un suicide, et même un parricide!
+{48097}{48143}Bon, je te laisse.
+{48155}{48185}Manuela m'attend.
+{48191}{48273}Les putains et les Salvadoriens|passent avant tes parents.
+{48279}{48294}Commence pas.
+{48300}{48361}Tu ferais mieux|d'aller voir un psychiatre.
+{48400}{48455}ça ne nous ferait de mal|ni à l'une ni à l'autre.
+{48493}{48543}Tu voulais voir|ton père et le chien.
+{48557}{48587}Une autre fois.
+{48600}{48629}Tu vas bien?
+{48989}{49040}- Vicenta!|- Ma chérie.
+{49050}{49109}Tu as maigri! Tu manges pas!
+{49116}{49163}Tu as vu une blonde, en bas?
+{49219}{49250}Pense à manger.
+{49546}{49591}Un tramway nommé Désir
+{49678}{49729}Je m'excuse pour ma mère.
+{49747}{49778}Pardon.
+{49833}{49852}On y va?
+{49880}{49934}Je ne la supporte pas, ma mère.
+{49961}{49991}Tu as tes parents?
+{49997}{50027}Ils sont morts.
+{50042}{50078}Tu es toute seule?
+{50084}{50115}Faut croire.
+{50132}{50169}T'as une drôle de tête.
+{50178}{50217}Je me sens pas bien.
+{50243}{50282}J'ai envie de vomir.
+{50528}{50563}Tu as vu un médecin?
+{50615}{50683}Tu devrais.|C'est peut-être une gastrite.
+{50757}{50817}On peut aller chez toi|le temps que ça passe?
+{50835}{50858}Ben...
+{50870}{50899}Tu as un logement?
+{50909}{51001}Je viens d'en louer un,|mais c'est pas encore meublé.
+{51096}{51148}Fais pas attention au désordre.
+{51174}{51223}Je suis là depuis 4 jours.
+{51242}{51281}Va t'allonger sur mon lit.
+{51287}{51341}Non, je vais m'asseoir ici|sur le sofa.
+{51346}{51375}ça va passer.
+{51381}{51417}Je me change.
+{51487}{51527}C'est qui, ce beau garçon?
+{51545}{51574}Esteban.
+{51584}{51614}Mon fils.
+{51705}{51747}Je croyais que tu étais seule.
+{51754}{51796}Il est mort, un accident.
+{51827}{51869}Je suis désolée pour toi.
+{51970}{52020}Ne touche pas au cahier.
+{52913}{52961}Allez, le plus dur est fait.
+{52967}{53033}Ne me touche pas, salaud.
+{53039}{53084}Fais gaffe à ce que tu dis.
+{53245}{53267}Stella, viens ici.
+{53290}{53347}Je remettrai plus les pieds ici!
+{53352}{53378}Jamais!
+{54088}{54116}LOGES
+{54443}{54474}Entre, Nina.
+{54504}{54549}C'est pas Nina, c'est Manuela.
+{54644}{54682}Vous n'avez rien à faire ici.
+{54696}{54729}Nina est partie.
+{54944}{54976}Où est Nina?
+{54987}{55037}Je l'ai vue sortir en courant.
+{55163}{55209}Elle devait m'attendre.
+{55244}{55281}C'est impossible.
+{55396}{55495}2 semaines seulement qu'on est ici!|Elle peut pas me faire ça!
+{55652}{55685}Vous avez une voiture?
+{55690}{55729}Non. Pour aller où?
+{55773}{55802}Je ne sais pas.
+{55840}{55869}Vous savez conduire?
+{55996}{56063}Gardez-le pour vous,|Nina est accro à l'héro.
+{56101}{56177}Où peut-on se fournir la nuit|à Barcelone?
+{56183}{56229}On va se renseigner.
+{56279}{56301}Qui que vous soyez,
+{56307}{56385}je me suis toujours fiée|à la bonté des inconnus.
+{56440}{56479}Moi, je conduis pas.
+{56489}{56526}C'est Nina qui conduit.
+{56689}{56752}J'ai commencé à fumer|à cause de Bette Davis.
+{56758}{56798}Pour l'imiter.
+{56808}{56873}A 18 ans,|je fumais déjà comme un pompier.
+{56896}{56938}D'où ce nom de Huma.
+{56945}{56994}C'est un très joli nom.
+{57033}{57086}Ma vie n'a été que fumée.
+{57092}{57139}Vous avez connu le succès.
+{57152}{57208}Le succès n'a ni saveur ni odeur.
+{57215}{57280}Avec l'habitude,|il se réduit à rien.
+{57315}{57368}Mais où est-elle passée?
+{58127}{58161}Je crois qu'elle est là.
+{58244}{58291}Attendez ici, j'y vais.
+{58538}{58602}C'est une salope,|il entube tout le monde.
+{58607}{58645}Et moi, je suis pas d'ici.
+{58669}{58705}Me touche pas, toi!
+{58711}{58739}Ecoutez, Nina.
+{58758}{58793}Huma vous attend.
+{58820}{58857}Et toi, t'es qui?
+{58869}{58901}Dans la voiture.
+{59303}{59331}J'ai de tout.
+{59379}{59412}Merde, mon sac!
+{59418}{59503}Oui, j'ai un sac...|Des X, de la C.
+{60105}{60148}- Qui est là?|- Rosa.
+{60235}{60300}- Tu es seule?|- Oui, je me lève.
+{60312}{60330}Si tard?
+{60336}{60395}Je suis rentrée à pas d'heure.
+{60426}{60483}Un petit déj'? T'as pas faim?
+{60492}{60536}Tu es retournée au tapin.
+{60545}{60616}J'allais te proposer|de gagner des sous sans sortir.
+{60622}{60731}Propose. Des putasseries, on m'en|a fait mais je ne suis pas pute.
+{60742}{60775}Pourquoi m'avoir menti?
+{60781}{60849}Une idée d'Agrado,|la tenue était à elle.
+{60858}{60954}Alors, dis-moi comment|gagner des sous sans sortir,
+{60960}{61000}je meurs de curiosité.
+{61026}{61078}Combien tu me louerais|une chambre?
+{61083}{61131}Une chambre? Pourquoi?
+{61145}{61199}Je vais quitter mes Soeurs|un moment.
+{61205}{61240}Et le Salvador?
+{61272}{61315}Je ne vais pas bien.
+{61333}{61374}Je ne peux pas voyager.
+{61385}{61465}Pourquoi t'installer ici|si en plus tu es malade?
+{61548}{61585}Je suis enceinte.
+{61679}{61716}Que comptes-tu faire?
+{61726}{61782}Le garder, évidemment.
+{61795}{61845}Ici, le scandale serait moindre.
+{61851}{61900}Le père peut t'aider, non?
+{61906}{61962}Le père, Dieu sait où il est.
+{61968}{62018}Tu sais qui c'est, j'imagine?
+{62024}{62080}Bien sûr, pour qui tu me prends?
+{62148}{62193}Ta compatriote, Lola.
+{62307}{62356}Cette salope de Lola!
+{62424}{62469}Pourquoi tu te mets dans cet état?
+{62512}{62546}Quoi, pourquoi?
+{62583}{62609}De combien?
+{62642}{62677}Trois mois, je crois.
+{62707}{62733}Je suis inquiète.
+{62739}{62782}Inquiète, tu m'étonnes!
+{62842}{62875}J'ai saigné ce matin.
+{62881}{62905}T'as vu un médecin?
+{62976}{63027}Je vais à l'hôpital demain.
+{63047}{63089}Tu peux m'accompagner?
+{63111}{63141}Bien sûr.
+{63237}{63275}Pour la location?
+{63308}{63334}Je regrette.
+{63351}{63388}C'est pas possible.
+{63908}{63945}Bonsoir, je dérange?
+{63975}{64002}Je vous attendais.
+{64008}{64083}Je ne savais pas où envoyer le sac.|Il est là.
+{64226}{64257}Tout y est?
+{64266}{64300}Oui, tout y est.
+{64326}{64365}Merci pour hier soir.
+{64370}{64422}Désolée, je suis à la bourre.
+{64428}{64497}- Je peux vous aider?|- Oui, mes boutons.
+{64522}{64555}Votre nom, déjà?
+{64612}{64651}Vous travailleriez pour moi?
+{64657}{64680}A faire quoi?
+{64686}{64724}Un peu tout.
+{64735}{64822}Sauf coucher avec moi.|Nina me suffit amplement.
+{64844}{64887}A vrai dire,|je cherche du travail.
+{64893}{64982}J'ai besoin d'une assistante.|D'une personne de confiance.
+{64988}{65019}On ne se connaît pas.
+{65025}{65073}J'en ai vu assez hier soir.
+{65079}{65117}Mais Nina me déteste.
+{65123}{65196}Elle déteste tout le monde,|elle et moi comprises.
+{65208}{65233}Bon.
+{65286}{65346}- Je commence quand?|- Sur-le-champ, si possible.
+{65352}{65379}D'accord.
+{65442}{65528}Voyez ce que Nina veut manger.|Moi, une brandade de Chez Pincho.
+{65534}{65552}Autre chose?
+{65558}{65647}Un anxiolytique pour Nina,|elle est sur les nerfs.
+{65653}{65681}J'ai du Lexomil.
+{65687}{65719}Formidable.
+{66314}{66353}Ne parle pas du père.
+{66367}{66407}Pourquoi t'en veux à Lola?
+{66428}{66476}Elle a les pires défauts des hommes
+{66485}{66519}et des femmes.
+{66558}{66592}Je te raconte une histoire.
+{66634}{66688}J'avais une amie,|mariée très jeune.
+{66713}{66813}Son mari partit pour Paris,|chercher une situation.
+{66847}{66961}2 ans passèrent. Le mari économisa|et vint ouvrir un bar à Barcelone.
+{66980}{67026}Elle le rejoignit ici.
+{67046}{67093}Deux ans, c'est peu,
+{67117}{67161}mais il avait changé.
+{67180}{67213}Il l'aimait plus?
+{67236}{67284}Il avait plutôt changé physiquement.
+{67301}{67365}Il avait des seins|plus gros qu'elle.
+{67464}{67508}Mon amie était très jeune,
+{67542}{67628}dans un pays étranger|où elle n'avait personne.
+{67684}{67778}En dehors des seins,|le mari n'avait guère changé, alors
+{67801}{67840}elle finit par accepter.
+{67891}{67978}Nous les femmes, on est prêtes|à tout pour pas être seules.
+{67989}{68060}On est plus tolérantes,|mais c'est bien.
+{68073}{68109}On est surtout connes...
+{68130}{68165}et un peu gouines.
+{68192}{68234}Ecoute la fin de l'histoire.
+{68257}{68309}Elle et son mari|ouvrirent une buvette,
+{68315}{68374}juste en face, à Barcelonette.
+{68414}{68493}Moulé dans un bikini,|il sautait sur tout ce qui bouge,
+{68513}{68621}mais lui faisait un sac quand|elle mettait un bikini ou une mini.
+{68630}{68661}Pauvre mec!
+{68667}{68741}Comment peut-on être machiste|avec des seins pareils?
+{68923}{68957}Asseyez-vous.
+{68970}{69002}Qui est la patiente?
+{69040}{69059}Alors?
+{69122}{69155}Ma soeur est enceinte.
+{69161}{69229}D'après nos calculs,|d'environ 3 mois.
+{69242}{69298}C'est sa 1ère consultation.
+{69321}{69359}Hier, j'ai saigné.
+{69394}{69469}Allez vous allonger|et enlevez le bas.
+{69493}{69518}Courage.
+{69630}{69660}Mettez ça.
+{69736}{69814}D'après l'échographie,|le foetus se porte bien.
+{69836}{69874}Vous habitez ensemble?
+{69903}{69927}Décidez-vous.
+{69939}{70022}Elle habite chez notre mère,|mais elle ne lui a rien dit.
+{70035}{70111}- C'est votre tension normale?|- Je suis hypertendue.
+{70153}{70214}Vous risquez une fausse couche.
+{70242}{70285}Bougez le moins possible.
+{70336}{70374}Je dois travailler.
+{70388}{70495}Vous devez rester tranquille|et ne plus faire de bêtises.
+{70513}{70571}Que votre mère surveille sa tension.
+{70577}{70622}Régime sans sel.
+{70631}{70649}Et repos.
+{70660}{70693}Je lui dirai.
+{70740}{70796}Je travaille avec des gens à risque.
+{70802}{70885}J'aimerais qu'on me fasse|le test du sida.
+{70910}{70933}Quel travail?
+{70957}{70997}Assistante sociale.
+{71009}{71054}Quand aura-t-on les résultats?
+{71075}{71115}Dans une quinzaine.
+{71152}{71243}Dis-le à ta mère.|Tu as besoin de quelqu'un.
+{71274}{71342}J'ai trouvé du travail,|je serai prise.
+{71349}{71385}Ecoute-moi.
+{71396}{71454}Tu n'as pas le droit|de me demander ça.
+{71460}{71559}Tu as déjà une mère.|On choisit pas ses parents.
+{71718}{71801}Ne me fais pas de chantage,|s'il te plaît.
+{71922}{71977}Ai-je bien fait|d'appeler la clinique?
+{72007}{72058}Tu as fait ce que tu devais faire.
+{72064}{72120}Si je la croyais,|je quitterais Stanley.
+{72127}{72205}Ne la crois pas. Ce qui compte,|c'est toi et ton fils.
+{72211}{72253}Et si elle disait vrai?
+{72288}{72344}Blanche n'est pas en état|de dire la vérité.
+{72350}{72409}Même si elle le voulait, la pauvre.
+{72474}{72509}Où est mon coeur?
+{72526}{72583}Sa boîte à bijoux en forme de coeur.
+{72589}{72623}Par ici, je crois.
+{72631}{72655}Le voilà.
+{72708}{72735}Un collier.
+{72741}{72773}On va en trouver un.
+{72851}{72904}Comment s'appelle le gentleman|que tu attends?
+{72912}{72941}Huntleigh.
+{72950}{73003}Il n'a pas appelé?
+{73041}{73071}C'est bizarre.
+{73153}{73220}Pourquoi me regardes-tu?|Je suis affreuse?
+{73231}{73298}Non, tu es plus belle que jamais.
+{73355}{73394}Avec ce collier ce sera mieux.
+{73400}{73420}Je t'aide?
+{73496}{73540}Alors tu pars en vacances?
+{73546}{73617}Quelle chance, comme je t'envie.
+{73687}{73777}Ce doit être ce gentleman|qui vient te chercher.
+{74208}{74251}En scène dans quinze minutes.
+{74257}{74275}Entre.
+{74326}{74365}- Toujours pas là?|- Où sont-elles?
+{74371}{74441}J'étais à la télé,|je ne les ai pas vues.
+{74468}{74502}- Et Nina?|- Elle est pas avec toi?
+{74508}{74546}Elle s'est couchée.
+{74552}{74594}- Couchée?|- Qu'est-ce qu'elle a?
+{74600}{74661}Son dîner est pas passé...|Elle est malade.
+{74667}{74720}Pourquoi tu m'as rien dit?
+{74726}{74770}Pour pas t'inquiéter à la télé.
+{74777}{74817}- Elle a vu un médecin?|- Bien sûr.
+{74824}{74844}C'est une gastro.
+{74850}{74920}Il lui a donné un médicament,|elle ira mieux demain.
+{74926}{74950}On annule?
+{74972}{75023}J'aimerais parler à Huma.
+{75029}{75051}Attends dehors.
+{75083}{75099}5 minutes!
+{75183}{75201}La vérité!
+{75207}{75261}Elle est raide défoncée.
+{75267}{75352}Elle est sortie après toi,|elle pensait pas me voir.
+{75358}{75404}Elle me croyait avec toi.
+{75435}{75476}Qu'est-ce qu'on fait?
+{75556}{75631}Si tu crains pas l'infarctus,|je peux la remplacer.
+{75654}{75713}Je sais le rôle|à force de l'entendre.
+{75739}{75769}Tu sais jouer?
+{75786}{75817}Je mens très bien
+{75829}{75866}et j'ai l'habitude d'improviser.
+{75872}{75900}ça, j'ai vu.
+{75932}{75979}Mon fils me trouvait bonne actrice.
+{76011}{76066}J'ignorais que tu avais un fils.
+{76111}{76157}En scène dans 5 mn!
+{76186}{76239}Que fait-on?|On peut plus attendre.
+{76402}{76440}Bon anniversaire, Blanche.
+{76454}{76485}Ton cadeau.
+{76500}{76570}Merci, Stanley, il ne fallait pas.
+{76576}{76612}J'espère qu'il te plaît.
+{76649}{76678}Mais c'est...
+{76690}{76774}Un billet de car,|un billet de retour pour mardi.
+{76810}{76863}Tu insinues que je dois partir?
+{76869}{76898}D'après toi?
+{77070}{77113}Pourquoi lui as-tu fait ça?
+{77119}{77150}Marre qu'elle m'insulte,
+{77156}{77246}marre que vous complotiez|sous mon nez!
+{77255}{77288}Ne t'en va pas, s'il te plaît.
+{77294}{77343}- Ma chemise!|- Sale brute!
+{77360}{77417}Je l'étais quand on s'est connus.
+{77423}{77494}Ma brutalité|n'avait pas l'air de te gêner.
+{77507}{77609}Tu m'as montré une photo|de votre maison, avec ses colonnes.
+{77619}{77690}Je t'en ai arrachée|pour t'apprendre le bonheur.
+{77696}{77764}On riait, on était heureux ensemble
+{77770}{77819}jusqu'à ce que Blanche débarque.
+{77849}{77885}Qu'est-ce que tu as?
+{77916}{77974}Emmène-moi à l'hôpital,|s'il te plaît.
+{78716}{78790}Bravo pour hier soir.|On dit que tu étais très bien.
+{78796}{78852}Dommage que tu ne sois pas venue.
+{78883}{78958}J'allais trop mal.|Agrado m'a raconté.
+{78964}{79013}Elle a appelé|la moitié de Barcelone.
+{79019}{79089}Tu fais|tout ce que le médecin t'a dit?
+{79122}{79155}Je viens de le voir.
+{79201}{79270}- Pour les résultats.|- C'était aujourd'hui.
+{79528}{79558}Je suis séropositive.
+{79614}{79658}On va refaire les analyses!
+{79709}{79770}Comment t'as pu baiser avec Lola!
+{79780}{79836}15 ans qu'elle se shoote!
+{79863}{79929}Dans quel monde tu vis, quel monde?
+{80114}{80135}Je sais pas.
+{80194}{80228}Tu as parlé à ta mère?
+{80378}{80403}Et aux Soeurs?
+{80454}{80476}Non plus.
+{81039}{81113}Allons chercher tes affaires.|Tu t'installes ici.
+{81545}{81609}Tu as été merveilleuse hier soir.
+{81727}{81753}Bonsoir.
+{81759}{81789}Voilà la sainte nitouche.
+{81798}{81826}Qu'est-ce qu'il y a?
+{81851}{81887}T'avais tout prévu, salope!
+{81899}{81929}Pas d'insultes.
+{81935}{82021}T'es comme Eve Harrington!|T'as appris le rôle exprès.
+{82027}{82093}C'est impossible,|le coup des haut-parleurs.
+{82099}{82141}Tu me prends pour une conne!
+{82147}{82201}Les haut-parleurs m'ont aidée.
+{82207}{82251}Je connais ce |depuis des années.
+{82268}{82300}Quelle coïncidence!
+{82306}{82342}Plus que tu n'imagines!
+{82348}{82417}Tu vois!|Tu cherchais quoi le 1er soir?
+{82422}{82467}Encore une coïncidence?
+{82488}{82517}C'en était pas une.
+{82625}{82708}Je ne vous ennuierai plus.|Je m'en vais.
+{82750}{82805}Je crois que tu nous dois|une explication.
+{83076}{83133}Le "Tramway..." a changé ma vie.
+{83199}{83217}Voilà 20 ans,
+{83223}{83294}j'ai joué Stella|dans une troupe amateur.
+{83324}{83368}J'y ai connu mon mari.
+{83411}{83452}Il jouait Kowalsky.
+{83510}{83569}Il y a 2 mois,|je vous ai vues à Madrid.
+{83671}{83711}Avec mon fils.
+{83759}{83808}Le soir de son anniversaire.
+{83848}{83902}On a attendu malgré la pluie,
+{83908}{83960}pour te demander un autographe,|Huma.
+{84205}{84253}C'était une folie sous cette pluie,
+{84259}{84335}mais pour son anniversaire,|j'ai pas refusé.
+{84397}{84475}Vous êtes parties en taxi|et il vous a couru après.
+{84553}{84623}Une voiture qui arrivait|l'a renversé.
+{84666}{84697}Il est mort.
+{84731}{84769}La voilà, l'explication.
+{85246}{85286}Laisse-moi passer.
+{85332}{85366}Qu'est-ce que tu fais là?
+{85387}{85462}Je viens te payer.|Hier t'es partie trop vite.
+{85492}{85533}Ma soeur, Rosa.
+{85574}{85603}Je vais t'aider.
+{85635}{85672}Prenons l'ascenseur.
+{85678}{85701}Et Nina?
+{85707}{85779}Je l'ai confiée à Mario,|elle te dit bonjour.
+{85862}{85900}Pose-les là.
+{85988}{86029}Toi, va te reposer.
+{86035}{86081}- Je suis pas fatiguée.|- Discute pas.
+{86103}{86131}Assieds-toi.
+{86181}{86212}Tu bois quelque chose?
+{86282}{86326}Une vraie gamine.
+{86436}{86495}Je n'ai pas dormi,|je pensais à ton fils.
+{86506}{86571}Je me rappelle son visage|sous la pluie.
+{86585}{86624}Le cahier qu'il tenait.
+{86665}{86708}Il me semble le voir.
+{86719}{86770}Je ne veux pas parler de mon fils.
+{86796}{86817}Je ne peux pas.
+{86921}{86994}Nina et moi,|on te demande pardon, reviens.
+{87026}{87060}Rosa est malade.
+{87075}{87128}Il faut s'occuper d'elle|toute la journée.
+{87134}{87174}Je ne peux pas la laisser.
+{87181}{87207}Je regrette.
+{87222}{87264}Je ne sais plus quoi faire.
+{87295}{87352}Si tu faisais soigner Nina.
+{87496}{87568}Si je romps mon contrat,|j'aurai un procès.
+{87592}{87679}Trouve-lui une remplaçante|et remplis ton contrat.
+{87697}{87747}Sans Nina, je ne peux pas.
+{87794}{87858}Elle est accro à l'héro,|moi, à elle.
+{88130}{88158}Qui c'était?
+{88194}{88215}Tu lui as ouvert?
+{88268}{88341}Fallait dire qu'on est occupées,|surtout pour toi.
+{88347}{88416}Installe-toi et arrête de t'agiter.
+{88436}{88462}Qu'est-ce qu'elle a?
+{88482}{88505}Un accident.
+{88557}{88621}- Quel genre?|- Comment n'y ai-je pas pensé!
+{88627}{88676}Agrado pourrait me remplacer.
+{88694}{88755}Celle à qui tu voulais pas ouvrir?
+{88775}{88825}Un truc entre nous.|Pour toi c'est idéal.
+{88956}{88991}Quel âge a Agrado?
+{88999}{89070}Plus toute jeune, entre 30 et 50.
+{89078}{89112}C'est son vrai nom?
+{89118}{89172}Un nom d'artiste, comme Huma.
+{89227}{89258}Sais-tu comment j'ai choisi?
+{89305}{89332}Manuela m'a raconté.
+{89376}{89401}Et quoi d'autre?
+{89415}{89456}Elle m'a tout raconté.
+{89478}{89537}Toi et Nina, qu'elle est accro.
+{89568}{89600}Que ça finira mal.
+{89656}{89711}Quoi encore? Je suis curieuse.
+{89721}{89763}Que tu es une grande actrice...
+{89826}{89881}mais que dans la vie,|t'as tout faux.
+{89970}{89988}Et quoi d'autre?
+{90090}{90129}De rien en dire.
+{90166}{90203}C'est quoi, dans le sac?
+{90209}{90244}Des bulles et une glace.
+{90250}{90262}Pourquoi?
+{90268}{90321}Pour fêter ton triomphe, saleté.
+{90326}{90359}Merci, entre.
+{90488}{90561}Quelle surprise!|Trois nanas toutes seules
+{90571}{90658}dans un apparte vide, on dirait :|"Comment épouser un millionnaire".
+{90664}{90691}ça va, Soeur Rosa?
+{90697}{90761}- Huma, Agrado.|- Enchantée, je suis fans.
+{90822}{90883}Tu es une déesse,|une légende vivante.
+{90889}{90932}Je dis fans, au pluriel.
+{90944}{91003}Mais alors, Manuela, l'autre soir...
+{91026}{91098}j'étais pas en matinée,|mais en soirée, j'ai chialé.
+{91138}{91170}Et le Salvador?
+{91184}{91240}J'y vais pas, je reste ici.
+{91252}{91305}Je ne travaille plus pour Huma.
+{91311}{91399}On disait justement|que tu pourrais me remplacer.
+{91422}{91498}Moi, Stella?|Je me vois plutôt en Blanche.
+{91538}{91590}Me remplacer moi,|pas Nina ni Huma.
+{91613}{91645}Merci, je ne crois pas...
+{91651}{91712}Essaye, elle est pas aussi bête|qu'elle en a l'air.
+{91724}{91798}Bien sûr que si.|D'ailleurs, là, je comprends rien.
+{91841}{91907}Ouvre la bouteille,|qu'on s'éclate un peu.
+{91931}{91961}J'ai aussi une glace.
+{91980}{92066}Buvons, ça nous détendra.|J'apporte des verres.
+{92181}{92245}Je peux pas boire d'alcool.
+{92251}{92278}Je boirais bien un coup.
+{92289}{92372}Qu'est-ce qu'elle a Manuela?|Je la trouve bizarre.
+{92390}{92444}Le succès lui monte déjà à la tête?
+{92481}{92522}Elle veut te fourguer à Huma.
+{92656}{92705}Prada,|c'est idéal pour une religieuse.
+{92711}{92785}Moi, un rien m'habille,|je suis très éclectique.
+{92791}{92858}Barcelone me donne des engelures.
+{92879}{92935}Vide.|Je vais en chercher d'autres?
+{92941}{92985}J'adorerais, mais non.
+{93001}{93049}- Les toilettes?|- Tout droit.
+{93169}{93258}Dites-moi ce qui se passe,|je ne suis pas une étrangère.
+{93264}{93282}Demain.
+{93288}{93352}Lui dis rien,|elle tient pas sa langue.
+{93357}{93405}Je tiens très bien ma langue.
+{93411}{93484}J'ai pas joué le jeu|pour que la diva se doute de rien?
+{93490}{93586}Un modèle de discrétion,|même quand je taille une pipe.
+{93592}{93630}J'en ai sucé des queues en public
+{93636}{93711}sans que nul s'en aperçoive,|sauf l'intéressé.
+{93717}{93783}Un bail que j'en ai pas sucé, moi.
+{93900}{93955}Moi, j'adore le mot queue.
+{93961}{93991}Et queutard!
+{94063}{94086}Je me sauve.
+{94092}{94115}ça va?
+{94121}{94156}- ça va?|- Mieux que jamais!
+{94162}{94227}Accompagne-la à un taxi.
+{94247}{94268}J'oubliais.
+{94274}{94305}C'est pour toi.
+{94360}{94400}Au revoir, les filles.
+{94527}{94577}Tu m'apprendras à aboyer.
+{94613}{94703}J'ai peur d'avoir été grossière.|Je lui ai dit de ces trucs.
+{94738}{94760}C'est pas grave.
+{94778}{94873}- Pas ressemblantes pour des soeurs.|- Parce qu'elles sont soeurs?
+{94879}{94943}- Manuela me l'a dit.|- Si elle le dit.
+{94959}{95045}- Vous êtes un peu tordues, hein?|- Faut connaître, voilà.
+{95061}{95095}Tu sais conduire?
+{95114}{95165}Jeune, j'étais routier.
+{95171}{95214}A Paris, avant mes seins.
+{95220}{95286}Puis j'ai lâché le camion|et je suis devenue pute.
+{95292}{95339}- Comme c'est intéressant.|- Très.
+{95450}{95472}Un chèque.
+{95504}{95527}150 000.
+{95533}{95567}Elle est généreuse.
+{95680}{95702}C'est quoi?
+{95725}{95787}Un autographe de Huma|pour Esteban.
+{95803}{95831}Cher Esteban,
+{95837}{95894}Voici l'autographe|que je n'ai pu te donner
+{95900}{95947}malgré tes efforts.
+{96058}{96110}J'ai donné des perles aux pourceaux.
+{96116}{96180}- Tu dis ça pour moi?|- Et pour ton ami Mitchel.
+{96185}{96281}Il est venu me débiter|tes mensonges. Je l'ai chassé.
+{96287}{96319}Tu as chassé Mitch?
+{96347}{96423}Il est revenu me demander pardon,|avec des roses.
+{96429}{96515}"Pardon," disait-il. Mais il est|des choses impardonnables.
+{96523}{96576}La cruauté ne mérite pas le pardon.
+{96584}{96651}C'est la seule chose|qu'on ne puisse pardonner.
+{96739}{96778}Tu l'apprends toi aussi?
+{96784}{96799}Mais non.
+{96820}{96852}Tu devrais, qui sait?
+{96861}{96875}Tu crois?
+{96909}{96933}Laisse-moi seule.
+{96951}{97020}Pour fumer de l'héro?|T'attends même plus la fin?
+{97031}{97065}Si tu le sais, demande pas.
+{97107}{97183}Je dirai rien à Huma|si tu fumes dans les toilettes.
+{97189}{97224}C'est pas un spectacle.
+{97278}{97317}Garde la porte.
+{97465}{97546}Je sais que quand on est jeune,|mais enfin, t'es plus une fillette,
+{97552}{97595}ces choses-là on s'en fiche.
+{97601}{97621}Mais...
+{97628}{97757}tu es jolie, bien proportionnée,|petite mais jolie.
+{97763}{97835}Tu as maigri, mais bon,|avec ce que tu t'envoies...
+{97841}{97905}bref, ce qui compte|c'est que t'es mince,
+{97911}{98001}t'as du talent, limité,|mais du talent.
+{98007}{98064}Et surtout, une femme qui t'aime.
+{98070}{98149}Tu bazardes tout pour l'héro!|Tu crois que ça remplace?
+{98155}{98217}Mais ça remplace pas,|pas du tout.
+{98254}{98326}Je le bazarde pour un peu de paix.|Aide-moi.
+{98514}{98560}Tu deviens plate.
+{98595}{98643}Comparée à toi, c'est sûr.
+{98709}{98754}Ce que t'es vicieuse!
+{98794}{98846}T'as jamais pensé|à te faire opérer?
+{98852}{98944}Les clients nous aiment|pneumatiques et bien montées.
+{98950}{99022}Un peu asthmatiques,|quels tarés les mecs!
+{99028}{99083}Pas asthmatique, pneumatique.
+{99089}{99186}Une paire de seins bien gonflés|et une belle queue.
+{99221}{99260}Montre-moi ta bite.
+{99270}{99323}ça te fait un sale effet, la dope.
+{99333}{99367}Qui sait, ça me brancherait?
+{99373}{99464}Avec les goûts que t'as,|t'as assez de problèmes.
+{99470}{99532}Vas-y.|Mais gerbe pas en scène.
+{99538}{99619}Ils adorent, je suis enceinte,|ils croient que c'est le rôle.
+{99625}{99694}T'es plus enceinte,|t'as accouché du baigneur.
+{99700}{99731}C'est vrai.
+{99893}{99946}J'y vais|mais après tu me la montres?
+{99959}{100013}D'accord si tu manges un peu.
+{100044}{100085}Ces jeunes, rien les dégoûte.
+{100604}{100645}Je l'appellerai Esteban.
+{100661}{100693}Ton fils?
+{100716}{100750}Pour quelle raison?
+{100761}{100791}Comme le tien.
+{100829}{100878}Il sera à nous deux.
+{100913}{100936}Si seulement!
+{100973}{101077}Si on était seules au monde,|sans aucun engagement.
+{101136}{101184}Toi et ton fils,|pour moi toute seule.
+{101234}{101279}Mais tu as une famille.
+{101322}{101386}Je vais te coiffer et te maquiller.
+{101401}{101452}- Pourquoi?|- Pour te faire belle.
+{101479}{101522}Et j'ai appelé ta mère.
+{101538}{101580}Elle va venir te voir.
+{101588}{101615}Ma mère?
+{101623}{101687}Tu as une mère, tu te rappelles?
+{101745}{101777}Je lui dis quoi?
+{101805}{101857}Que tu l'aimes... Je sais pas, moi.
+{101961}{101994}Entre, Huma.
+{102026}{102079}C'est pas Huma, je peux?
+{102085}{102121}Bien sûr, Mario, entre.
+{102163}{102205}T'arrives très tt.
+{102262}{102286}Tu fais quoi?
+{102292}{102332}Rien, je repasse.
+{102351}{102388}ça va pas?
+{102403}{102461}Ben, j'ai mal dormi.
+{102467}{102505}Du coup je suis nerveux.
+{102540}{102583}Tu me taillerais une pipe?
+{102624}{102701}Mettez-vous dans la tête|que j'ai pris ma retraite.
+{102706}{102749}Non, c'est pas ça.
+{102755}{102866}J'ai été nerveux toute la journée,|je crois qu'une pipe me détendrait.
+{102874}{102938}Taille-m'en une,|moi aussi je suis nerveuse.
+{102948}{103036}Ce serait la 1ère pipe|que je taille à une femme mais...
+{103042}{103071}s'il le faut.
+{103077}{103125}Ma bite obsède toute la troupe!
+{103131}{103190}C'est pourtant pas la seule.|T'en as pas?
+{103228}{103325}Les passants te demandent de|les sucer parce que t'as une bite?
+{103336}{103379}Ah non? Alors...
+{103430}{103499}Je vais te sucer pour te montrer|mon ouverture d'esprit
+{103505}{103565}et ma sensibilité à ces choses.
+{103571}{103609}Saleté de téléphone!|Où est-il?
+{103872}{103923}T'inquiète. Je m'en occupe.
+{103996}{104019}On va dans ma loge?
+{104025}{104052}Si Huma arrive...
+{104057}{104129}Huma est à l'hôpital avec Nina.
+{104135}{104181}Qu'est-ce qui s'est passé?
+{104187}{104233}Elles ont failli s'entre-tuer.
+{104243}{104268}Merde.
+{104349}{104367}Tiens.
+{104380}{104435}- Alors on annule.|- Dis rien.
+{104441}{104473}Faudra bien dire...
+{104479}{104513}Pas la vérité.
+{104519}{104564}J'inventerai un truc.
+{104816}{104839}Entrez.
+{104967}{104993}Où est-elle?
+{104999}{105036}Dans la chambre.
+{105534}{105604}Et moi qui m'inquiétais|de te savoir au Salvador.
+{105648}{105694}Tu as appris à mentir.
+{105705}{105749}Je savais pas comment te le dire.
+{105762}{105850}Et maintenant, tu vas quitter|les ordres, te marier?
+{105863}{105908}Maman! Quelles questions!
+{105934}{105970}Avec toi, on sait jamais.
+{105991}{106019}Moi en tout cas.
+{106056}{106115}Même ça,|je l'apprends par ton amie.
+{106189}{106237}Qu'aurais-je fait sans elle?
+{106266}{106335}- Comment va papa?|- Comme toujours.
+{106360}{106381}Plus mal.
+{106429}{106494}Si ça te va,|je préfère ne rien lui dire.
+{106546}{106603}De toute façon, il comprendrait pas.
+{106651}{106673}Et Sapic?
+{106679}{106700}ça va.
+{106839}{106884}Je ne sais pas quoi faire.
+{106937}{106972}Qu'attends-tu de moi?
+{107025}{107054}Rien.
+{107105}{107153}Tu n'attends rien de moi.
+{107211}{107240}C'est pas ça.
+{107275}{107340}Ne me rends pas les choses|plus difficiles.
+{107709}{107752}Vous voulez du thé?
+{107791}{107885}Qu'a-t-elle exactement?|Au téléphone, j'ai mal compris.
+{107891}{107953}L'échographie montre|un placenta praevia.
+{107959}{108032}Elle devra accoucher par césarienne.
+{108038}{108093}En attendant, repos absolu.
+{108099}{108133}Je la prends chez nous?
+{108139}{108229}Vous savez, son père, il faut|s'en occuper comme d'un enfant.
+{108249}{108280}Vous êtes sa mère,
+{108298}{108348}mais je crois qu'elle est mieux ici.
+{108366}{108413}C'est bien mon impression.
+{108435}{108536}S'il vous faut de l'argent, demandez|et tenez-moi au courant.
+{108542}{108572}Soyez sans crainte.
+{108609}{108644}- Je vous raccompagne.|- Pas la peine.
+{108777}{108834}J'ignore quelle a été|mon erreur avec Rosa.
+{108842}{108902}On dirait une extra-terrestre.
+{108930}{108963}Vous avez des enfants?
+{108980}{109006}Oui, un.
+{109025}{109067}Vous vous entendez bien?
+{109117}{109143}Il est mort.
+{109201}{109228}Navrée.
+{109763}{109815}Pour un cas de force majeure,
+{109821}{109915}deux des actrices|qui triomphent sur cette scène
+{109921}{109992}ne peuvent être ici aujourd'hui,|les pauvres.
+{109998}{110063}La représentation est annulée.
+{110081}{110143}Ceux qui le souhaitent|seront remboursés.
+{110149}{110203}Mais si vous n'avez rien à faire,
+{110209}{110278}pour une fois|que vous venez au théâtre!
+{110299}{110324}Si vous restez,
+{110330}{110409}je promets de vous amuser|en vous racontant ma vie.
+{110468}{110514}Au revoir, dommage.
+{110528}{110599}Si je vous ennuie,|ronflez, comme ça.
+{110624}{110704}Je comprendrai|et je me vexerai pas.
+{110710}{110742}C'est juré.
+{110804}{110873}On m'appelle Agrado|parce que toute ma vie
+{110879}{110936}j'ai voulu l'agrément d'autrui.
+{110983}{111065}En plus d'être agréable,|je suis très authentique.
+{111113}{111150}Voyez ce corps!
+{111170}{111207}Du sur mesure!
+{111240}{111302}Les yeux en amande, 80 000!
+{111346}{111384}Le nez, 200 000!
+{111390}{111475}Gaspillés, parce qu'un an après,|on me l'a cassé.
+{111480}{111571}ça me donne du caractère, mais|si j'avais su, j'y touchais pas.
+{111592}{111619}Je continue.
+{111625}{111696}Seins, deux,|parce que je suis pas un monstre,
+{111708}{111797}70 pièce,|mais je les ai largement amortis.
+{111816}{111835}Silicone.
+{111841}{111866}Où ça?
+{111873}{111970}Lèvres, front, pommettes,|hanches et cul.
+{111976}{112071}100 000 le litre, faites le compte,|moi je m'y perds.
+{112079}{112125}Limage des mandibules, 75 000.
+{112130}{112231}Epilation définitive au laser,|la femme aussi descend du singe,
+{112237}{112262}60 000 la séance.
+{112267}{112366}ça dépend du poil.|La norme c'est de 2 à 4 séances.
+{112380}{112458}Pour certaines chanteuses|folkloriques c'est bien plus long.
+{112558}{112656}Voilà, ça coûte cher|d'être authentique, mes chéries.
+{112662}{112767}Et pas question d'être radine|parce qu'on est le plus authentique
+{112773}{112848}quand on ressemble le plus|à ce qu'on a rêvé de soi-même.
+{113154}{113208}On tourne.|Doucement s'il vous plaît.
+{113214}{113247}Vous inquiétez pas.
+{113261}{113300}On soulève un peu.
+{113361}{113387}ça va?
+{113539}{113563}T'y arrives?
+{113730}{113779}A l'Hôpital del Mar.
+{113798}{113854}On passe|par la place de Medinacelli?
+{113860}{113925}Ta mère|nous rejoint pas à l'hôpital?
+{113954}{114008}Je veux voir la place en passant.
+{114214}{114243}Arrêtez-vous.
+{114292}{114345}J'y jouais quand j'étais petite.
+{114519}{114543}Sapic!
+{115091}{115149}Ce chien va avec n'importe qui.
+{115185}{115213}Vous avez un chien?
+{115232}{115289}Non, mais je les aime beaucoup.
+{115296}{115321}Quel âge avez-vous?
+{115337}{115371}26 ans.
+{115416}{115439}Votre taille?
+{115450}{115510}Pas très grande, 1 m 68.
+{115677}{115697}Va avec papa.
+{115966}{116005}Tu as des douleurs?
+{116053}{116113}C'est bien!|Accoucher sans douleur.
+{116170}{116217}A quelle heure elle entre au bloc?
+{116237}{116273}D'ici une heure et demie.
+{116329}{116404}ça me laisse le temps|d'aller voir ton père.
+{116429}{116475}T'es pas obligée de revenir.
+{116497}{116539}Je veux être avec toi.
+{116622}{116656}Donne un baiser à papa.
+{116666}{116707}Celui-là, je me le garde.
+{117108}{117183}J'espère que le 3ème Esteban|sera le bon pour toi.
+{117189}{117227}Le 3ème Esteban?
+{117247}{117331}Lola a été le 1er.|Ton fils, le second.
+{117341}{117407}Tu savais que Lola|était le père de mon fils?
+{117413}{117437}Bien sûr.
+{117459}{117501}C'était pas difficile.
+{117516}{117605}Lola ne le sait pas.|Je ne le lui ai jamais dit.
+{117642}{117687}Ton fils le savait?
+{117704}{117733}Non plus.
+{117804}{117865}Soyons pas tristes,|c'est un grand jour.
+{117879}{117959}On a mis Videla en prison|et ton fils va naître.
+{118034}{118066}Promets-moi.
+{118072}{118094}Quoi?
+{118129}{118185}- S'il arrivait...|- Il arrivera rien.
+{118207}{118244}Ne lui cache rien.
+{118250}{118343}J'ai rien à promettre,|tu lui diras ce que tu voudras.
+{118354}{118385}Promets-le-moi.
+{118422}{118465}Si ça te tranquillise.
+{118527}{118589}Bon, je te le promets.
+{119052}{119124}Disons adieu à notre soeur Rosa.
+{119140}{119171}Chacun de vous
+{119177}{119238}gardera d'elle|un souvenir merveilleux.
+{119247}{119320}De sa jeunesse, de son courage,|de sa générosité.
+{119929}{119974}Quelle joie de te revoir!
+{119988}{120017}Dommage que ce soit ici.
+{120048}{120099}ça ne pourrait être ailleurs.
+{120108}{120192}Tu n'es pas un être humain, Lola,|tu es une épidémie.
+{120229}{120271}J'ai toujours été excessive.
+{120294}{120334}Je suis très fatiguée.
+{120370}{120400}Je vais mourir.
+{120460}{120474}Viens.
+{120554}{120591}Je fais mes adieux à tout.
+{120609}{120677}J'ai volé Agrado|pour aller en Argentine.
+{120704}{120766}Pour voir une dernière fois|la ville...
+{120787}{120812}le fleuve...
+{120829}{120847}notre rue.
+{120889}{120950}Je suis heureuse|de pouvoir te dire adieu.
+{121001}{121066}Il me reste à connaître|le fils de Soeur Rosa.
+{121098}{121131}Mon fils.
+{121204}{121278}J'ai toujours rêvé d'avoir un fils,|tu le sais.
+{121302}{121355}En quittant Barcelone,|j'étais enceinte de toi.
+{121449}{121472}Toi aussi...
+{121517}{121540}Tu l'as gardé?
+{121582}{121615}Un enfant merveilleux.
+{121627}{121681}Je veux le voir.|Il est avec toi?
+{121691}{121742}Il est à Madrid,|tu peux pas le voir.
+{121765}{121847}Même de loin, je te promets,|sans qu'il me voie.
+{121891}{121929}La dernière chose.
+{121951}{121991}Tu ne peux pas le voir.
+{122025}{122053}S'il te plaît!
+{122172}{122253}Il y a six mois,|une voiture l'a renversé.
+{122322}{122344}Il est mort.
+{122590}{122650}Je ne suis venue à Barcelone|que pour te le dire.
+{122684}{122711}Pardon.
+{122731}{122762}Pardon!
+{123387}{123411}Le petit!
+{123446}{123489}D'où viens-tu à pareille heure?
+{123495}{123537}Tu n'as pas encore sorti Sapic?
+{123543}{123572}Tu n'étais pas là.
+{123591}{123626}Je suis là maintenant.
+{123750}{123771}Il a faim.
+{123777}{123844}- Le biberon chauffe.|- Apportez-le-moi.
+{123907}{123964}Occupez-vous de monsieur,|qu'il n'entre pas.
+{123970}{124021}Il s'est mis en tête|que l'enfant est de vous.
+{124027}{124056}Je sais.
+{124110}{124143}Il est très jaloux.
+{124165}{124207}J'ai dit qu'il était de toi.
+{124213}{124256}J'arrive pas|à lui dire la vérité.
+{124262}{124301}D'ailleurs, il comprendrait pas.
+{124319}{124358}S'il pouvait être de moi!
+{124431}{124461}Que veux-tu?
+{124471}{124508}Qui est cette femme?
+{124514}{124563}Manuela, la nouvelle cuisinière.
+{124569}{124625}A notre service depuis 4 jours.
+{124631}{124706}Nous lui préparons cette chambre|pour elle et son fils.
+{124712}{124751}Je te l'ai dit.
+{124787}{124809}Quel âge avez-vous?
+{124822}{124845}38 ans.
+{124866}{124893}Votre taille?
+{124902}{124931}1 m 70.
+{125001}{125049}Va te promener.
+{125214}{125256}Le biberon, madame.
+{125388}{125412}On va manger.
+{125553}{125600}Ne parle à personne|des anticorps.
+{125734}{125764}Les Soeurs le savent?
+{126797}{126823}Prends-le.
+{126894}{126928}Doucement.
+{127072}{127109}Que dit le médecin?
+{127115}{127169}Qu'il va bien, tu vois, normal.
+{127257}{127296}T'es avec papa.
+{127328}{127361}Je peux l'embrasser?
+{127366}{127398}Bien sûr, idiote.
+{127524}{127608}Mon fils, pardon de te laisser|un tel héritage.
+{127614}{127640}Ne dis pas ça.
+{127646}{127719}Il va bien.|Il n'aura pas forcément la maladie.
+{128073}{128123}Voilà notre Esteban.
+{128191}{128226}Tu l'avais appelé Esteban?
+{128507}{128549}Il voulait être écrivain.
+{128584}{128663}C'est son cahier.|Il l'emportait partout.
+{128682}{128748}Regarde. Il a écrit ça|le jour de sa mort.
+{128799}{128827}Lis-le.
+{128860}{128919}"Hier maman|m'a montré une photo..."
+{128945}{128986}"Il en manquait la moitié.
+{129015}{129048}"Je n'ai pas voulu|le lui dire
+{129053}{129115}"mais c'est la moitié|qui manque à ma vie."
+{129189}{129226}Continue, continue.
+{129344}{129451}"Ce matin, j'ai fouillé ses tiroirs|et trouvé plein de photos.
+{129481}{129528}"A toutes, il manquait la moitié.
+{129557}{129592}"Mon père, je suppose.
+{129674}{129719}"Je veux le connaître.
+{129739}{129859}"Maman doit comprendre que|peu m'importe qui ou comment il est
+{129866}{129915}"ni comment il a agi avec elle.
+{129950}{130008}"Elle ne peut me priver|de ce droit."
+{130159}{130183}Garde la photo.
+{130698}{130746}Je n'aime pas|qu'on embrasse le petit.
+{130752}{130797}Qui était cette femme?
+{130813}{130856}Cette femme, c'est son père.
+{130875}{130908}Tu dis?
+{130920}{130977}C'est son père, il est très malade.
+{130998}{131068}C'est ce monstre|qui a tué ma fille?
+{131128}{131170}N'y pense pas.
+{131464}{131540}Certains pensent que les enfants|se font en un jour,
+{131565}{131603}mais c'est long.
+{131621}{131649}Très long.
+{131676}{131767}Aussi, est-ce terrible de voir|le sang d'un fils répandu.
+{131815}{131921}Source qui coule une minute|et nous a coûté tant d'années.
+{132062}{132115}Quand j'ai découvert mon fils,
+{132133}{132194}il gisait au milieu de la rue.
+{132454}{132537}J'ai trempé les mains dans le sang|et je les ai léchées
+{132564}{132606}parce qu'il était mien.
+{132683}{132743}Les bêtes se lèchent, n'est-ce pas?
+{132795}{132847}Je n'ai pas le dégoût de mon fils.
+{132905}{132958}Tu ne peux savoir ces choses.
+{133026}{133099}Dans un ostensoir|de cristal et de topaze,
+{133133}{133214}je placerai la terre|imbibée de son sang...
+{133389}{133426}Continue de pétrir.
+{133439}{133498}Que la tristesse|passe dans tes mains.
+{133505}{133531}Pétris.
+{133537}{133574}Il faut pétrir.
+{133607}{133641}Il s'entend, mon rhume?
+{133647}{133671}Non, c'est très bien.
+{133688}{133734}Sortez, c'est interdit.
+{133829}{133895}J'apporte des fleurs|pour Agrado et Huma Rojo.
+{133901}{133937}Signez ici, svp.
+{133943}{134008}- Pour Agrado, t'es sûr?|- C'est écrit.
+{134065}{134082}Tenez.
+{134088}{134135}Tu sais pourquoi|je m'appelle Agrado?
+{134157}{134232}Toute ma vie j'ai voulu être|agréable aux autres.
+{134238}{134263}C'est bien.
+{134405}{134436}"Chères Agrado et Huma,
+{134442}{134550}"Je fuis encore sans dire au revoir|et tu aimes tant les adieux, Agrado.
+{134556}{134630}"Avec les parents de Rosa,|c'est devenu insupportable.
+{134639}{134701}"La grand-mère a peur|que le petit la contamine."
+{134707}{134798}J'emmène Esteban là où il n'aura pas|à supporter tant d'hostilité.
+{134812}{134889}Agrado, tu sais combien je t'aime.
+{134895}{134948}Prends soin de toi et de Huma.
+{134957}{135065}Je ne pourrai pas assister au succès|de votre hommage à Garcia Lorca.
+{135078}{135109}Je vous écrirai.
+{135115}{135179}Pour l'instant, mieux vaut|que vous n'en sachiez pas plus.
+{135209}{135242}Déchirez ma lettre.
+{135249}{135272}Votre Manuela.
+{135430}{135494}Je reviens à Barcelone|2 ans plus tard,
+{135515}{135601}mais pas pour fuir,|pour un congrès sur le sida
+{135607}{135660}à l'hôpital Can Ruti.
+{135666}{135749}Mon Esteban est devenu séronégatif|en un temps record.
+{135755}{135796}Ils veulent étudier son cas.
+{135802}{135838}Je suis si heureuse.
+{135904}{135932}Je dérange?
+{136031}{136079}Elle est à moi aussi!
+{136123}{136181}Que tu es belle!|Tes cheveux ont poussé.
+{136187}{136221}Les tiens aussi.
+{136227}{136257}C'est une perruque.
+{136263}{136318}Ta boucle d'oreille est ouverte.|J'arrange ça.
+{136324}{136356}Apprends, idiote!
+{136362}{136424}Idiote,|mais qui te bichonne comme moi?
+{136434}{136479}C'est merveilleux pour ton fils.
+{136485}{136556}Il est devenu négatif|du jour au lendemain.
+{136562}{136628}Son cas démontre|que le virus peut disparaître.
+{136634}{136721}Ils étudient son cas|mais c'est un miracle.
+{136727}{136794}Je le savais.|J'ai tant prié pour ce petit.
+{136815}{136879}Pourquoi tu ne t'installerais pas|chez nous?
+{136884}{136899}Bien sûr.
+{136905}{136941}On va chez les grands-parents.
+{136947}{137001}C'est une telle joie|pour la mère de Rosa.
+{137007}{137047}C'est fou ce qu'elle a changé.
+{137056}{137103}- En scène dans 5 mn.|- J'y vais.
+{137194}{137237}Tu as la photo d'Esteban!
+{137243}{137287}Lola me l'a donnée|avant de mourir.
+{137293}{137355}Je la gardais pour toi.
+{137376}{137403}Je te la donne.
+{137537}{137563}Et Nina?
+{137600}{137630}J'y vais.
+{137676}{137738}Nina s'est mariée, dans son patelin.
+{137744}{137803}Elle aussi a un enfant,|il est gros, une horreur.
+{137809}{137854}Affreux, mais affreux!
+{137950}{137986}A tout à l'heure.
