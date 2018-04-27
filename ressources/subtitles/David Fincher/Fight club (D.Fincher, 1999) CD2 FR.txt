@@ -1,0 +1,900 @@
+{138}{158}Qui tu es ?
+{188}{229}- Qui je suis ?|- Oui.
+{278}{328}L'enseigne dehors annonce "Lou's Tavern".
+{368}{409}Je suis Lou, bordel.
+{418}{449}Qui t'es toi, bordel ?
+{470}{499}Tyler Durden.
+{583}{648}Enfoirés,|qui vous a permis de venir chez moi ?
+{656}{701}On a fait un deal avec Irvine.
+{728}{776}Il est chez lui avec une clavicule cassée.
+{785}{843}Cet endroit n'est pas à lui mais à moi.
+{908}{941}Combien il touche ?
+{948}{972}Pas d'argent.
+{978}{1000}Vraiment ?
+{1003}{1039}- Gratos.|- C'est pas fort, ça ?
+{1053}{1082}Effectivement.
+{1098}{1139}Ecoute pauvre con,
+{1153}{1208}vous allez vous casser maintenant.
+{1238}{1272}Rejoins notre club.
+{1298}{1332}T'entends ce que je te dis ?
+{1338}{1374}Toi et ton ami.
+{1455}{1486}T'entends maintenant ?
+{1533}{1569}Non, j'ai pas bien pigé.
+{1736}{1760}Toujours pas.
+{1826}{1847}J'ai pigé !
+{1853}{1904}J'ai pigé.|Merde, j'ai oublié.
+{1948}{1977}Reculez tous !
+{2023}{2057}Reculez tous !
+{2253}{2284}Lou !
+{2318}{2349}Allez mec.
+{2361}{2390}On aime vraiment cet endroit.
+{2627}{2675}- Sors tes tripes.|- Ta gueule !
+{2845}{2881}Tu trouves ça drôle ?
+{3115}{3151}Vous êtes timbrés, les gars.
+{3208}{3234}Pas croyable.
+{3350}{3379}Tu sais pas d'où je sors.
+{3386}{3417}Nom de Dieu !
+{3453}{3486}Tu sais pas d'où je sors !
+{3570}{3599}Laisse-nous cet endroit !
+{3611}{3635}Je t'en prie !
+{3643}{3696}Vous pouvez rester ici !
+{3703}{3766}Donne-moi ta parole Lou ! Ta parole !
+{3773}{3816}Sur les yeux de ma mère !
+{4038}{4064}Merci Lou.
+{4128}{4162}Toi aussi mon grand.
+{4271}{4304}A la semaine prochaine.
+{4693}{4719}Cette semaine,
+{4733}{4784}vous aurez tous un devoir à faire.
+{4811}{4895}Vous allez sortir|et vous battre avec un parfait inconnu.
+{4976}{5019}Vous allez vous battre...
+{5040}{5076}et perdre.
+{5148}{5184}Excellent choix monsieur.
+{5238}{5259}Fais gaffe
+{5266}{5300}connard !
+{5310}{5375}C'est moins facile qu'il n'y paraît.
+{5503}{5563}La plupart des gens, les gens normaux,
+{5570}{5616}font tout pour éviter la bagarre.
+{5650}{5679}Excusez-moi,
+{5688}{5736}vous m'avez arrosé accidentellement.
+{5745}{5769}Faites attention.
+{5781}{5817}Jay, appelle les flics !
+{5888}{5924}Lâchez ce tuyau.
+{5933}{5962}Arrêtez !
+{6051}{6070}Désolé.
+{6453}{6484}On doit parler.
+{6630}{6716}Par où commencer ?|Votre absentéisme permanent ?
+{6731}{6784}Votre aspect lamentable ?
+{6798}{6826}Vous êtes bon pour la porte.
+{6838}{6903}"Je suis|l'absence totale de surprise de Jack."
+{6913}{6954}- Quoi ?|- Imaginons...
+{6963}{7023}Vous êtes le ministère des Transports.
+{7048}{7113}Quelqu'un vous signale que cette compagnie
+{7121}{7164}installe des fixations de sièges
+{7171}{7214}qui ont échoué au crash-test.
+{7228}{7257}Des garnitures de freins
+{7263}{7299}qui lâchent après 1000 miles.
+{7305}{7351}Et des injecteurs qui explosent
+{7358}{7442}et brûlent les gens. Qu'est-ce qui se passe ?
+{7478}{7511}C'est une menace ?
+{7541}{7579}Foutez le camp. Vous êtes viré !
+{7586}{7617}J'ai mieux.
+{7628}{7736}J'émarge comme consultant externe|et en échange de mon salaire
+{7745}{7796}mon boulot sera de ne jamais révéler
+{7803}{7848}ces choses que je sais.
+{7865}{7935}Je n'aurai même pas à venir,|je bosserai chez moi.
+{7981}{8065}Pour qui vous vous prenez, pauvre petite
+{8073}{8095}merde ?
+{8188}{8214}Sécurité ?
+{8231}{8278}"Je suis la vengeance narquoise de Jack."
+{8510}{8544}Qu'est-ce qui vous prend ?
+{8775}{8802}Ça fait mal.
+{8868}{8902}Pourquoi ?
+{8920}{8947}Mon Dieu !
+{8958}{8987}Non, arrêtez !
+{9238}{9262}Qu'est-ce que vous faites ?
+{9296}{9329}Je vous en supplie !
+{9343}{9403}Curieusement je pensai à mon premier combat
+{9413}{9439}avec Tyler.
+{10070}{10116}En marge de tout ce que cet homme
+{10124}{10171}considérait comme naturel
+{10183}{10233}quelque chose d'horrible avait grandi.
+{10263}{10340}Accordez-moi ma paie|comme je l'ai demandé
+{10348}{10403}et vous ne me reverrez plus.
+{10408}{10468}C'est alors qu'au moment vraiment
+{10476}{10502}idéal...
+{10558}{10627}Je vous en prie, ne me frappez plus !
+{10641}{10694}Téléphone, ordinateur, fax,
+{10698}{10792}52 semaines de paie et 48 billets d'avions...
+{10800}{10855}On était parrainés par une entreprise.
+{10863}{10952}Tyler et moi on pouvait aller|au Fight club tous les soirs.
+{11018}{11080}Personne n'était|le centre de Fight club hormis
+{11088}{11122}les deux combattants.
+{11143}{11205}Le chef parcourait la foule|dans l'obscurité.
+{11260}{11304}Tyler était attaqué en justice
+{11310}{11358}par l'hôtel Pressman pour l'urine
+{11365}{11411}trouvée dans la soupe.
+{11548}{11603}"Je suis la vie gâchée de Jack."
+{11895}{11955}Tyler inventait de nouveaux "devoirs"
+{11963}{12026}et il les distribuait sous enveloppe scellée.
+{12488}{12576}FERTILISEZ VOTRE PELOUSE|AVEC DE L'HUILE DE VIDANGE
+{12978}{13042}Tu es au courant du Fight club|à Delaware City ?
+{13098}{13136}Il y en a un à Penns Grove.
+{13143}{13200}- Laisse.|- Bob en a trouvé un à New Castle.
+{13208}{13244}Tu l'as monté ?
+{13249}{13287}Je croyais que c'était toi.
+{14058}{14087}SAISIE DE CATAPULTE A MERDE
+{14123}{14159}ARTISTE BRANCHÉ MOLESTÉ
+{14215}{14249}FONTAINE SOUILLÉE|SINGES RASÉS
+{14523}{14564}- Arrête-toi.|- On fait quoi ?
+{14569}{14604}- Tourne-toi.|- On fait quoi ?
+{14610}{14639}Un "devoir".
+{14646}{14708}- Quel genre ?|- Sacrifice humain.
+{14726}{14783}C'est un flingue ? Dis-moi que non.
+{14789}{14820}C'est un flingue.
+{14823}{14876}- Retrouve-moi derrière.|- Non, c'est pas drôle !
+{14880}{14914}Retrouve-moi derrière.
+{14923}{14964}A la longue...
+{14984}{15036}le taux de survie de chacun tombe à zéro.
+{15081}{15110}Tu fais quoi ?
+{15116}{15144}Mains derrière le dos.
+{15163}{15190}Ton portefeuille.
+{15265}{15323}Raymond K.Hessel,|1320 Banning, appartement A.
+{15338}{15369}Un petit appart en sous-sol ?
+{15374}{15410}Comment vous le savez ?
+{15418}{15473}Les apparts miteux|sont désignés par des lettres.
+{15478}{15512}Raymond
+{15526}{15552}tu vas mourir.
+{15608}{15658}C'est tes parents ? Ils vont devoir
+{15663}{15742}appeler le dentiste.|Tu veux savoir pourquoi ?
+{15753}{15791}Tu seras méconnaissable.
+{15843}{15930}Une carte d'étudiant périmée.|Tu étudiais quoi ?
+{15961}{16007}- Des trucs.|- Des "trucs" ?
+{16018}{16049}Les partiels étaient durs ?
+{16093}{16119}Quelle matière ?
+{16128}{16173}- Biologie principalement.|- Pourquoi ?
+{16204}{16295}- Je sais pas !|- Tu voulais faire quoi Raymond ?
+{16345}{16432}Raymond, je t'ai demandé|ce que tu voulais faire.
+{16493}{16524}Réponds-lui bon Dieu !
+{16531}{16562}Vétérinaire.
+{16568}{16587}Les animaux !
+{16594}{16625}Oui, les animaux et...
+{16631}{16686}Les trucs j'ai pigé.|Tu dois encore étudier.
+{16701}{16725}Trop d'études.
+{16735}{16759}Tu préfères être mort ?
+{16785}{16814}Tu préfères mourir ici,
+{16821}{16876}à genoux derrière une épicerie ?
+{17050}{17082}Je garde ton permis.
+{17118}{17183}Je vais te surveiller, je sais où tu habites.
+{17213}{17307}Si tu n'as pas repris tes études|dans six semaines tu es mort.
+{17376}{17405}File chez toi.
+{17528}{17569}Cours Forrest, cours !
+{17613}{17646}Je me sens pas bien.
+{17698}{17730}Imagine comment il se sent.
+{17735}{17831}C'était pas drôle !|Quel est l'intérêt de tout ça ?
+{17855}{17930}Demain sera le plus beau jour|de la vie de Raymond.
+{17948}{18032}Son petit déj' sera meilleur|que tout ce que nous avons pu manger.
+{18084}{18124}Il fallait le lui concéder.
+{18163}{18214}Il avait un plan qui commençait
+{18220}{18273}à se tenir dans la logique de Tyler.
+{18281}{18324}Pas de peur, pas de dispersion.
+{18361}{18452}La capacité d'ignorer|ce qui ne compte pas vraiment.
+{18781}{18816}Vous n'êtes pas votre boulot.
+{18878}{18933}Vous n'êtes pas votre compte bancaire.
+{19003}{19041}Vous n'êtes pas votre voiture.
+{19066}{19111}Vous n'êtes pas votre portefeuille.
+{19159}{19199}Ni vos putains de treillis.
+{19258}{19318}Vous êtes le rebut à tout faire du monde.
+{19553}{19599}Je vais libérer le plancher.
+{19631}{19664}Tu n'as pas à partir.
+{19715}{19739}Peu importe.
+{19783}{19819}Non, sérieux.
+{19843}{19860}Tu peux rester.
+{20098}{20136}Tu vas toujours aux réunions ?
+{20171}{20197}Oui.
+{20248}{20274}Chloé est morte.
+{20370}{20399}C'est arrivé quand ?
+{20429}{20453}Ça t'attriste ?
+{20488}{20536}Je sais pas. C'est un peu le passé.
+{20558}{20589}Oui. Eh bien...
+{20613}{20668}C'est ce qui pouvait lui arriver de mieux.
+{20723}{20759}Dis-moi...
+{20781}{20829}Ça t'apporte quoi tout ça ?
+{20848}{20875}Quoi ?
+{20898}{20949}Tout ça. Pourquoi tu continues...
+{20976}{21016}Ça te rend heureuse ?
+{21071}{21104}Oui, parfois.
+{21161}{21233}Je ne comprends pas. Pourquoi faut-il
+{21238}{21332}que les faibles s'accrochent|aux plus forts ? Pourquoi ?
+{21345}{21384}Toi, ça t'apporte quoi ?
+{21445}{21529}C'est pas pareil.|C'est complètement différent
+{21536}{21560}avec nous.
+{21563}{21589}Nous ?
+{21608}{21632}C'est qui "nous" ?
+{21643}{21674}Tu as entendu ?
+{21701}{21763}- Quoi ?|- Ce bruit. Attends une seconde.
+{21768}{21818}Non, ne change pas de sujet.
+{21826}{21845}Parlons de ça.
+{21856}{21887}Tu parles pas de moi, hein ?
+{21919}{21933}Quoi ?
+{21938}{21995}A quoi tu pensais|en venant jouer au docteur ?
+{22008}{22041}De quoi vous parlez ?
+{22048}{22077}Rien. A rien.
+{22083}{22128}- Je ne crois pas.|- Tu cherches quoi ?
+{22133}{22166}Regarde-moi.
+{22171}{22190}Regarde-moi.
+{22225}{22290}- C'est quoi ça ?|- Rien, t'inquiète.
+{22318}{22361}- Qui a fait ça ?|- Quelqu'un.
+{22368}{22387}Garçon ou fille ?
+{22403}{22439}Qu'est-ce que ça change ?
+{22445}{22477}- Dis-moi.|- Ça te regarde pas.
+{22491}{22519}Tu as peur de le dire.
+{22525}{22568}- Lâche-moi.|- Non, parle-moi !
+{22576}{22600}Lâche-moi.
+{22618}{22637}"Cette conversation..."
+{22643}{22667}Cette conversation...
+{22674}{22690}"est terminée."
+{22711}{22737}est terminée.
+{22778}{22829}Je ne peux pas|avoir le dessus avec toi, hein ?
+{23043}{23096}Cette histoire commence à durer.
+{23143}{23184}C'est quoi tout ça ?
+{23191}{23217}A ton avis ?
+{23268}{23311}Pourquoi des lits superposés ?
+{23533}{23557}Trop jeune.
+{23563}{23590}Désolé.
+{23623}{23651}A quoi tu joues ?
+{23668}{23745}Candidat jeune, tu dis "trop jeune",|vieux, "trop vieux".
+{23753}{23780}Candidat ?
+{23783}{23862}S'il attend trois jours dehors sans manger,
+{23868}{23925}il peut entrer et attaquer l'entraînement.
+{23933}{23964}Quel entraînement ?
+{24114}{24147}Tu crois que c'est un jeu ?
+{24158}{24208}Tu es trop jeune pour t'entraîner.|Point.
+{24216}{24273}Assez perdu de temps, fous le camp.
+{24388}{24420}Mauvaise nouvelle l'ami.
+{24453}{24486}Ça ne colle pas.
+{24516}{24564}Désolé s'il y a eu malentendu.
+{24570}{24635}C'est pas la fin du monde.|Alors va-t'en.
+{24683}{24710}Va.
+{24733}{24803}C'est une propriété privée,|je vais appeler la police.
+{24910}{24932}Baisse les yeux !
+{24938}{25010}Tu t'imagines dans cette maison ?|Jamais !
+{25021}{25093}Tire-toi de mon porche.|Tire-toi de là !
+{25101}{25180}Tôt ou tard|on devenait tels que Tyler nous voulait.
+{25189}{25229}Je vais chercher une pelle.
+{25443}{25484}Tu as deux chemises noires ?
+{25500}{25536}Deux pantalons noirs ?
+{25548}{25577}Une paire de boots noires ?
+{25583}{25619}Deux paires de chaussettes noires ?
+{25625}{25649}Une veste noire ?
+{25656}{25730}- 300 dollars pour ton enterrement ?|- Oui monsieur.
+{25799}{25825}Bien.
+{26088}{26131}T'es trop vieux le gros.
+{26163}{26203}Trop gros nichons. Tire-toi.
+{26836}{26896}Tel le singe prêt à partir dans l'espace.
+{26915}{26944}Un singe spatial.
+{26968}{27032}Prêt à se sacrifier pour la bonne cause.
+{27181}{27226}T'es trop vieux gros tas !
+{27264}{27290}Et toi,
+{27301}{27332}t'es trop...
+{27378}{27423}Tirez-vous ! Tous les deux !
+{27450}{27477}Ça a continué comme ça.
+{27484}{27522}Ecoutez bande d'asticots.
+{27538}{27579}Vous n'avez rien de spécial.
+{27600}{27667}Vous n'êtes pas uniques|comme les flocons de neige.
+{27695}{27779}Vous êtes de la matière organique|en décomposition.
+{27791}{27838}Tyler se constitua une armée.
+{27845}{27929}Nous sommes le rebut à tout faire du monde.
+{27949}{28028}Nous faisons tous partie|du même tas de compost.
+{28073}{28145}Pourquoi Tyler se constituait une armée ?
+{28153}{28180}Dans quel but ?
+{28194}{28232}Pour quelle bonne cause ?
+{28321}{28364}On avait foi en Tyler.
+{28448}{28489}Non, quand il a dit:
+{28509}{28605}"Vous n'êtes pas votre boulot"|j'ai trouvé ça super.
+{28678}{28709}Ça veut dire quoi ?
+{28843}{28888}- Qu'est-ce qui se passe ?|- C'est la fête.
+{28895}{28934}- On fête quoi ?|- Vas-y.
+{29078}{29100}Je les prends.
+{29396}{29425}Les enquêteurs sont là.
+{29433}{29481}Le commissaire Jacobs vient d'arriver.
+{29513}{29578}Commissaire, de quoi s'agit-il au juste ?
+{29603}{29670}Probablement un de ces actes de vandalisme
+{29675}{29735}liés aux clubs de boxe clandestins.
+{29743}{29793}Nous allons mener une enquête
+{29800}{29846}coordonnée et rigoureuse.
+{29868}{29906}C'était le commissaire Jacobs
+{29913}{29963}arrivé sur les lieux d'un grave incendie
+{29974}{30007}déclenché il y a une heure.
+{30013}{30047}Elle est canon.
+{30083}{30117}A vous les studios.
+{30213}{30237}Nom de Dieu...
+{30428}{30474}Qu'est-ce que vous avez foutu ?
+{30700}{30777}Première règle du projet Chaos:|pas de questions.
+{30956}{30992}La guerre contre le crime
+{31003}{31071}ne sera pas gagnée en une nuit.|Il nous faudra
+{31078}{31155}du dévouement,|de l'engagement et de la coopération.
+{31163}{31216}Les rues sont plus sûres.|Il y a de l'espoir
+{31223}{31276}pour les quartiers défavorisés.
+{31298}{31327}Je vais pisser.
+{31353}{31456}C'est le début d'un long voyage.|C'est pourquoi nous avons créé
+{31466}{31502}le projet Espoir.
+{31603}{31687}Il verra l'effort conjoint|de la police et des leaders
+{31696}{31777}des diverses communautés.|Il sera une arme puissante
+{31788}{31831}dans la guerre contre le crime.
+{32931}{32977}Enroule ça autour des couilles.
+{32981}{33010}Elles sont glacées.
+{33070}{33137}Tu vas annuler ton enquête rigoureuse.
+{33149}{33230}Tu vas annoncer|qu'il n'y a pas de groupes clandestins
+{33246}{33277}ou ils te les coupent.
+{33303}{33354}Une pour le NY Times,|une pour le LA Times.
+{33360}{33389}Avec la pub qu'il faut.
+{33441}{33503}Ceux que tu traques|sont ceux dont tu as besoin.
+{33508}{33597}On cuisine tes repas,|ramasse tes ordures, connecte tes appels,
+{33605}{33637}conduis tes ambulances,
+{33653}{33701}veille au grain quand tu dors.
+{33803}{33846}Déconne pas avec nous.
+{34081}{34119}Je t'ai eu !
+{34596}{34670}"Je suis|le sentiment de rejet exacerbé de Jack."
+{35893}{35953}J'avais envie de tuer chaque panda
+{35961}{36023}refusant de baiser pour sauver son espèce.
+{36093}{36136}Je voulais ouvrir les vannes
+{36143}{36234}des tankers sur ces plages françaises|que je ne verrai jamais.
+{36283}{36336}Je voulais respirer de la fumée.
+{36793}{36839}Où tu étais psycho-boy ?
+{36886}{36939}J'avais envie de démolir du beau.
+{37054}{37094}Emmenez-le à l'hosto.
+{37399}{37425}Ne vous inquiétez pas M.Durden.
+{37431}{37467}Elle vient du parking longue durée.
+{37508}{37549}Après vous M.Durden.
+{37588}{37617}Après toi.
+{37776}{37809}RECYCLEZ VOS ANIMAUX
+{38059}{38104}- Des soucis mon cher ?|- Non.
+{38123}{38192}Si. Pourquoi je ne sais rien|du projet Chaos ?
+{38204}{38271}Première règle du projet Chaos:|pas de questions.
+{38276}{38327}- Mais encore ?|- Il fallait m'inclure au début.
+{38333}{38405}Fight club était le début, il a évolué.
+{38413}{38447}C'est le projet Chaos.
+{38451}{38518}On a créé Fight Club ensemble,|tu te souviens ?
+{38524}{38562}Il m'appartient tout autant.
+{38569}{38595}Il s'agit de toi et de moi ?
+{38601}{38666}- Je croyais qu'on était associés.|- Tu n'y es pas.
+{38673}{38750}Ça ne nous appartient pas.|On n'est personne.
+{38758}{38782}Il fallait m'en parler.
+{38841}{38860}Tyler !
+{38928}{38966}- Bon Dieu !|- Tu veux quoi ?
+{38975}{39043}Les statuts ? Un e-mail ?|Etre au programme ?
+{39063}{39111}Tu décides de ton niveau d'engagement !
+{39123}{39176}J'ai des questions à poser d'abord.
+{39183}{39241}- Première règle du projet...|- La ferme !
+{39288}{39319}Je veux savoir ce que tu penses.
+{39326}{39377}Oublie ce que tu sais.|C'est ça, ton problème.
+{39381}{39407}Oublie ce que
+{39413}{39507}tu crois savoir sur la vie, l'amitié,|et surtout sur toi et moi.
+{39551}{39589}Ça veut dire quoi ?
+{39678}{39707}Tu fais quoi ?
+{39764}{39809}Qu'aimeriez-vous avoir fait|avant de mourir ?
+{39816}{39859}- Un autoportrait.|- Une maison.
+{39886}{39939}- Et toi ?|- Je sais pas. Rien.
+{39948}{39999}- Fais gaffe.|- Une autre question alors.
+{40005}{40072}Si tu mourais là,|que penserais-tu de ta vie ?
+{40084}{40132}Je ne sais pas. Rien de bien !
+{40138}{40167}C'est ce que tu attendais ?
+{40179}{40208}Insuffisant.
+{40229}{40253}Déconne pas !
+{40391}{40412}Nom de Dieu !
+{40418}{40485}Va te faire foutre !|J'emmerde le Fight club
+{40493}{40548}et Marla !|Marre de tes conneries !
+{40649}{40704}- Arrête, tiens le volant !|- Regarde-toi.
+{40713}{40773}- Tiens le volant.|- Tu es pitoyable !
+{40783}{40812}Qu'est-ce que tu dis ?
+{40835}{40893}Pourquoi j'ai fait sauter ton appart ?
+{40930}{40952}Quoi ?
+{40958}{41044}Toucher le fond n'est pas de tout repos,|ni un séminaire.
+{41059}{41135}Cesse de vouloir tout contrôler et lâche-toi.
+{41209}{41228}Lâche !
+{41248}{41277}Bon, très bien.
+{41304}{41328}Très bien.
+{42749}{42799}Je n'avais jamais eu d'accident.
+{42833}{42881}C'est ce que devaient ressentir les gens
+{42889}{42965}avant que je les classe|dans les statistiques.
+{43114}{43164}On a frôlé la vie un court instant !
+{43304}{43333}J'imagine un monde
+{43354}{43411}où on traquerait l'élan dans les forêts
+{43416}{43476}entourant les ruines du Rockefeller Center.
+{43531}{43610}Nos vêtements de cuir dureraient toute la vie.
+{43646}{43733}On grimperait aux vignes|ceignant les Sears Towers.
+{43774}{43865}En regardant en bas,
+{43881}{43924}étalant des quartiers de gibier
+{43931}{44012}sur le couloir|d'une quelconque autoroute abandonnée.
+{44328}{44366}Ça va mieux champion ?
+{44811}{44835}Et puis...
+{44883}{44919}Tyler était parti.
+{45126}{45164}Est-ce que je dormais ?
+{45209}{45228}Avais-je dormi ?
+{45306}{45371}La maison était devenue une chose vivante.
+{45384}{45468}Humide par la sueur|et le souffle de tous ses occupants.
+{45493}{45560}Tant de gens bougeaient, la maison bougeait.
+{45633}{45672}Planète Tyler.
+{45679}{45719}Je devais longer les murs,
+{45726}{45796}piégé avec cette noria de singes spatiaux.
+{45803}{45868}On ne fume pas ici,|la maison est bourrée d'éther.
+{45876}{45945}Cuisinant, travaillant et dormant par équipes.
+{46538}{46572}Tout est sous contrôle.
+{46649}{46678}Où est Tyler ?
+{46688}{46753}Première règle du projet Chaos:|pas de...
+{46758}{46801}Ça va, c'est bon.
+{46865}{46904}Je suis tout seul.
+{46921}{46988}Mon père m'a planté. Tyler m'a planté.
+{47013}{47073}Je suis le cour brisé de Jack.
+{47171}{47264}Quel est le prochain objectif du projet ?|Seul Tyler sait.
+{47278}{47343}Deuxième règle: pas de questions.
+{47425}{47478}Va voir ailleurs, bordel !
+{47516}{47540}Qui sont ces types ?
+{47673}{47718}Paper Street Soap Company.
+{47788}{47817}Je peux entrer ?
+{47908}{47935}Il n'est pas là.
+{47958}{47982}Quoi ?
+{48023}{48088}Tyler n'est pas là.
+{48121}{48159}Tyler s'en est allé.
+{48169}{48205}Tyler est parti.
+{48944}{48987}J'ai deux blessés par balle !
+{49003}{49018}Faites de la place !
+{49061}{49096}Qu'est-ce qui s'est passé ?
+{49101}{49130}On était en mission.
+{49133}{49176}On devait faire d'une pierre deux coups.
+{49210}{49256}Détruire une œuvre d'art...
+{49276}{49319}Opération Cappuccino-Tonnerre, go.
+{49371}{49412}Et saccager un bar franchisé.
+{49571}{49597}On avait tout prévu.
+{49826}{49848}Ça baignait jusqu'à...
+{49861}{49899}Police ! On ne bouge plus !
+{49906}{49923}Quoi ?
+{49949}{49968}Ils ont tué Bob.
+{50011}{50037}Une balle dans la tête.
+{50044}{50063}Les fumiers !
+{50239}{50275}Les enfants de salaud !
+{50294}{50334}Bande de tarés.
+{50341}{50399}Vous vous baladez cagoulés|pour tout casser.
+{50405}{50453}Vous vous attendiez à quoi ?
+{50559}{50633}Vite, il faut se débarrasser|de cette preuve !
+{50643}{50660}Enterrez-le.
+{50681}{50708}Quoi ?
+{50711}{50759}Enterrez-le dans le jardin.
+{50776}{50803}On s'active !
+{50838}{50874}Ne le touchez pas !
+{50881}{50912}De quoi vous parlez ?
+{50918}{50954}Ce n'est pas une preuve à charge,
+{50958}{51001}c'est une personne, un ami,
+{51008}{51054}pas question de l'enterrer ici.
+{51063}{51128}Il est mort au service du projet Chaos.
+{51133}{51160}C'est Bob.
+{51166}{51183}Monsieur,
+{51198}{51251}pas de noms dans le cadre du projet.
+{51258}{51282}Ecoutez-moi bien,
+{51291}{51366}c'est un homme et il a un nom:|Robert Paulson.
+{51405}{51441}- Robert Paulson ?|- Un homme
+{51448}{51511}qui est mort à cause de nous.|Vous comprenez ça ?
+{51553}{51582}Je comprends.
+{51643}{51715}Mort, un membre du projet Chaos...
+{51734}{51765}a un nom.
+{51793}{51841}Il s'appelle Robert Paulson.
+{51863}{51916}Il s'appelle Robert Paulson.
+{51929}{51986}Il s'appelle Robert Paulson.
+{52083}{52117}Ça va, arrêtez.
+{52251}{52294}Vos gueules ! Tout ça est fini !
+{52394}{52434}Je dois trouver Tyler.
+{53178}{53229}Inspecteur Stern de la criminelle.
+{53238}{53260}J'ai besoin de vous voir.
+{53383}{53472}Je ratisse les villes visitées par Tyler,|passant de bar en bar.
+{53498}{53549}Je pouvais passer devant 50 bars
+{53559}{53604}différents et savoir lequel choisir.
+{53611}{53635}Je cherche Tyler Durden.
+{53648}{53701}Je dois absolument lui parler.
+{53718}{53745}J'aimerais vous aider
+{53771}{53797}monsieur.
+{53949}{53978}A chaque ville,
+{54018}{54061}dès que je posais pied à terre,
+{54083}{54129}je savais s'il y avait un Fight Club.
+{54244}{54340}Regardez-moi, je suis un membre aussi.|Vous avez vu Tyler ?
+{54358}{54437}Je ne suis pas autorisé|à vous transmettre cette information.
+{54446}{54554}Ni, si je la détenais là à ce moment,|à vous la donner.
+{54603}{54622}Vous êtes débile.
+{54628}{54662}Veuillez partir.
+{54698}{54734}Tyler avait été occupé
+{54753}{54813}à monter des franchises dans tout le pays.
+{54888}{54915}Est-ce que je dormais ?
+{54951}{54985}Ai-je dormi ?
+{54993}{55043}Tyler est mon cauchemar ou suis-je le sien ?
+{55083}{55136}- Des bruits courent.|- Lesquels ?
+{55143}{55181}Personne ne connaît son visage.
+{55188}{55253}Il subit une chirurgie plastique tous les trois ans.
+{55269}{55312}Jamais rien entendu d'aussi stupide.
+{55319}{55371}Il existe un Fight Club à Miami ?
+{55381}{55429}M.Durden monte une armée ?
+{55444}{55504}Je vivais en perpétuel état de déjà-vu.
+{55539}{55615}J'avais le sentiment|d'être déjà passé partout.
+{55634}{55699}C'était comme suivre un homme invisible.
+{55728}{55771}L'odeur du sang séché,
+{55803}{55870}les traces de pieds sales s'entremêlant,
+{55881}{55932}la vieille sueur sentant le poulet frit,
+{55963}{56002}le sol encore tiède
+{56008}{56042}du combat de la veille.
+{56068}{56138}J'étais toujours à un pas derrière Tyler.
+{56258}{56311}Il s'appelle Robert Paulson.
+{56401}{56444}Ravi de vous revoir monsieur.
+{56473}{56509}Ça s'est bien passé ?
+{56541}{56568}Vous me connaissez ?
+{56591}{56627}C'est un test ?
+{56630}{56671}Non, ce n'est pas un test.
+{56701}{56751}Vous étiez là jeudi dernier.
+{56771}{56800}Jeudi ?
+{56814}{56893}Vous étiez au même endroit,|m'interrogeant sur la sécurité.
+{56925}{56959}Elle est béton monsieur.
+{57031}{57072}Qui je suis selon vous ?
+{57093}{57139}Ce n'est vraiment pas un test ?
+{57143}{57186}Ce n'est pas un test.
+{57218}{57254}Vous êtes monsieur Durden.
+{57278}{57334}Vous m'avez fait ça.
+{57358}{57435}Veuillez redresser le dossier de vos sièges.
+{57746}{57763}Marla, c'est moi.
+{57771}{57816}- On l'a déjà fait ?|- Quoi ?
+{57823}{57845}Couché ensemble ?
+{57864}{57899}C'est quoi cette question stupide ?
+{57906}{57959}Stupide parce que c'est "oui" ou "non" ?
+{57973}{58023}- C'est une blague ?|- Non, je dois savoir.
+{58031}{58115}Si je pense qu'on a baisé ou fait l'amour ?
+{58136}{58198}- On a fait l'amour ?|- Tu vois ça comme ça ?
+{58206}{58271}Réponds Marla ! On l'a fait ou non ?
+{58288}{58348}Tu me baises, me snobes,|m'aimes, me détestes,
+{58353}{58413}te montres sensible, puis à chier.
+{58421}{58479}C'est un bon résumé|de notre relation Tyler ?
+{58499}{58549}La cabine vient de se dépressuriser.
+{58553}{58572}Pardon ?
+{58578}{58597}T'es pas bien ?
+{58603}{58630}Comment tu m'as appelé ?
+{58635}{58676}Tyler Durden, espèce de taré !
+{58723}{58742}J'arrive.
+{58748}{58782}Non, je suis pas là-bas !
+{58823}{58840}Tu m'as trahi.
+{58896}{58929}Tu lui as parlé de moi.
+{58936}{58974}C'est quoi ce cirque ?
+{58979}{59058}Je t'avais demandé une chose.|Une chose simple.
+{59063}{59092}Pourquoi on me prend pour toi ?
+{59134}{59148}Réponds !
+{59258}{59282}Assieds-toi.
+{59363}{59411}Pourquoi on me prend pour toi ?
+{59446}{59468}Tu le sais.
+{59488}{59531}- Non, je ne sais pas.|- Mais si.
+{59541}{59599}Comment on peut te confondre avec moi ?
+{59646}{59687}Je ne sais pas.
+{59796}{59817}Tu as pigé.
+{59846}{59872}Déconne pas avec nous !
+{59889}{59905}Dis-le.
+{59948}{59975}Parce que...
+{60025}{60047}Dis-le.
+{60100}{60136}On est la même personne.
+{60171}{60190}Exact.
+{60193}{60241}On est le rebut à tout faire.
+{60254}{60280}Je ne comprends pas.
+{60283}{60334}Tu voulais changer de vie.
+{60343}{60393}Tu ne pouvais le faire de toi-même.
+{60404}{60454}Tout ce que tu souhaitais être,
+{60465}{60494}je le suis.
+{60508}{60561}Avec le look, la façon de baiser,
+{60569}{60622}la classe, la compétence et surtout
+{60639}{60689}la liberté que tu n'as pas.
+{60719}{60755}Tyler n'est pas là.
+{60764}{60788}Tyler est parti.
+{60794}{60827}C'est impossible.
+{60836}{60855}C'est dingue.
+{60861}{60897}Les gens font ça tout le temps.
+{60905}{60929}Ils se parlent,
+{60936}{60982}ils s'imaginent tels qu'ils aimeraient être.
+{60998}{61060}Mais ils n'ont pas ton courage|d'aller jusqu'au bout.
+{61159}{61197}Naturellement tu luttes contre ça,
+{61206}{61235}tu es parfois toi.
+{61243}{61279}Il faudra recommencer à l'occasion.
+{61288}{61348}Des fois tu t'imagines me regardant.
+{61356}{61411}Si c'est votre première fois|vous devez combattre.
+{61418}{61444}Petit à petit
+{61465}{61521}tu te laisses aller à devenir...
+{61558}{61585}Tyler Durden.
+{61591}{61611}Vous n'êtes pas votre boulot,
+{61616}{61655}ni votre compte en banque !
+{61674}{61697}Tu as une maison.
+{61703}{61718}Louée à ton nom.
+{61723}{61759}Tu as des boulots, une vie.
+{61766}{61845}Tu bosses la nuit à cause de tes insomnies|ou tu fais du savon.
+{61853}{61901}C'est toi qui baises Marla.
+{61909}{61969}Techniquement c'est toi|mais c'est pareil pour elle.
+{62084}{62127}Tu vois notre dilemme.
+{62148}{62189}Elle en sait trop.
+{62216}{62247}Il faut voir comment
+{62254}{62304}Ça risque de compromettre nos buts.
+{62345}{62384}Qu'est-ce que tu dis ?
+{62401}{62432}C'est des conneries.
+{62456}{62492}Je refuse de t'écouter.
+{62499}{62513}Tu es fou !
+{62519}{62593}Tu es fou|et on n'a vraiment pas de temps à perdre
+{62601}{62627}avec cette connerie !
+{62688}{62733}On appelle ça "commuter",
+{62739}{62840}le film continue|et le public ne s'aperçoit de rien.
+{63184}{63212}Vous partez ?
+{63218}{63242}Préparez ma note.
+{63254}{63302}Veuillez vérifier la note de téléphone.
+{63413}{63444}Ils ont été passés quand ?
+{63451}{63506}C'est noté là, entre 2 heures et 3 heures 30.
+{63651}{63692}Me suis-je couché plus tôt chaque soir ?
+{63699}{63744}Levé plus tard chaque matin ?
+{63789}{63830}Ai-je été Tyler de plus en plus
+{63835}{63862}longtemps ?
+{63941}{63958}Y a quelqu'un ?
+{64046}{64108}Le déjà-vu, toujours et encore.
+{64141}{64196}Avec assez de savon|on peut tout faire sauter.
+{64399}{64459}- 1888.|- Qui est à l'appareil ?
+{64466}{64499}1888 Franklin, maintenance.
+{64606}{64661}Je suis au 1888 Franklin Street ?
+{64674}{64719}Oui. Que puis-je pour vous ?
+{64860}{64925}- Passez-moi le responsable.|- Lui-même.
+{64931}{65029}Quelque chose d'épouvantable|va arriver à votre immeuble.
+{65039}{65077}On contrôle la situation.
+{65105}{65122}Pardon ?
+{65126}{65198}Ne vous inquiétez pas pour nous, tout baigne.
+{65288}{65317}2160.
+{65624}{65672}Il faut que je te parle !
+{65678}{65738}Tes tarés au crâne rasé m'ont tabassée !
+{65744}{65780}Ils ont failli me casser le bras !
+{65786}{65853}Ils brûlaient leurs empreintes,|ça puait grave !
+{65874}{65936}Fais un effort, aie confiance,|tu dois m'écouter.
+{65944}{65989}Les conneries vont pleuvoir.
+{65994}{66032}Un peu plus confiance que ça.
+{66139}{66172}Je ne veux rien savoir.
+{66186}{66220}Tu es en droit de...
+{66254}{66288}Je prendrai un café.
+{66293}{66356}Tout ce que vous commanderez est gratuit.
+{66381}{66408}Pourquoi ça ?
+{66416}{66437}T'occupe.
+{66451}{66511}Bon... je prendrai la soupe de palourdes,
+{66518}{66556}le poulet frit garni
+{66561}{66594}et la mousseline au chocolat.
+{66601}{66642}Que la bouffe soit clean.
+{66654}{66678}Dans ce cas
+{66683}{66719}évitez la soupe de palourdes.
+{66726}{66767}Pas de soupe de palourdes.
+{66831}{66860}Tu as 30 secondes.
+{66928}{66995}J'ai agi de façon très bizarre, d'accord ?
+{67003}{67056}Comme s'il y avait deux facettes en moi.
+{67064}{67114}Tu es Dr Jekyll et M.Ducon.
+{67121}{67193}Je le mérite.|Mais j'ai compris un truc important.
+{67203}{67220}Quoi ?
+{67226}{67290}La dimension de notre relation m'échappait
+{67298}{67351}jusqu'alors. Ce qui compte c'est que
+{67361}{67416}je sais m'être mal comporté.
+{67421}{67481}15 secondes. Accorde-moi 15 secondes.
+{67488}{67532}Ne dis rien, puis tu partiras.
+{67538}{67591}Je veux te dire que je suis désolé,
+{67599}{67688}et que j'ai compris|que je t'aime beaucoup, Marla.
+{67733}{67750}Vraiment ?
+{67756}{67842}Vraiment. Je tiens à toi,|je ne veux pas qu'il t'arrive
+{67851}{67897}malheur à cause de moi.
+{67921}{67969}Ta vie est en danger.
+{68006}{68022}Quoi ?
+{68026}{68107}Quitte la ville, évite toute grande ville
+{68116}{68135}et pars camper.
+{68139}{68177}Tu es complètement fou.
+{68184}{68215}Je t'ai mêlée
+{68218}{68264}à quelque chose d'affreux.
+{68268}{68290}Tu es en danger.
+{68384}{68451}J'ai essayé Tyler. J'ai vraiment essayé.
+{68456}{68485}Je sais.
+{68488}{68529}J'aime certains de tes côtés:
+{68534}{68608}tu es intelligent, drôle|et une vraie bête de sexe...
+{68624}{68660}mais...
+{68663}{68764}tu es insupportable,|tu as un problème émotionnel grave,
+{68774}{68848}profondément ancré. Tu devrais consulter.
+{68853}{68882}Je suis désolé...
+{68888}{68946}Tu l'es, je le suis, on est tous désolés.
+{68976}{69017}Je ne peux plus continuer.
+{69044}{69075}Je ne peux pas.
+{69078}{69112}Je ne veux plus.
+{69148}{69177}Je m'en vais.
+{69211}{69266}Ne fais pas ça, tu es en danger.
+{69341}{69379}- Tu ne comprends pas !|- Lâche-moi !
+{69386}{69434}- J'essaie de te protéger !|- Va-t'en !
+{69441}{69467}Je ne veux plus te revoir !
+{69471}{69550}D'accord si c'est ce que tu veux.|Attends ici.
+{69663}{69678}Bougez pas !
+{69683}{69715}Vos gueules !
+{69736}{69834}Prends cet argent, monte dans ce bus|et je ne t'embêterai plus.
+{69846}{69863}Ta gueule !
+{69886}{69943}Monte dans ce bus, je t'en prie.
+{69991}{70020}Pourquoi tu fais ça ?
+{70024}{70115}Tu les menaces. Je peux pas t'expliquer,|fais-moi confiance !
+{70123}{70157}Je ne dois pas voir où tu vas.
+{70164}{70224}Je les garde comme taxe sur ta connerie.
+{70231}{70281}Entendu. Reste hors de la ville
+{70289}{70332}pour au moins deux jours, OK ?
+{70389}{70437}Tu es ce qui m'est arrivé de pire.
+{70838}{70922}Arrêtez-moi.|Je dirige une organisation terroriste
+{70931}{71032}responsable du vandalisme|et des agressions perpétrés en ville.
+{71056}{71135}En zone métropolitaine|avec environ 200 membres.
+{71151}{71206}Nous avons essaimé dans cinq ou six
+{71214}{71240}autres grandes villes.
+{71246}{71318}C'est une organisation à la discipline stricte,
+{71326}{71366}avec de nombreuses cellules
+{71373}{71450}totalement indépendantes du pouvoir central.
+{71459}{71545}Allez voir la maison au 1537 Paper Street.
+{71563}{71595}Notre QG.
+{71606}{71671}Derrière, enterré dans le jardin,
+{71679}{71734}vous trouverez le corps de Robert Paulson.
+{71756}{71782}Dans le sous-sol
+{71786}{71877}il y a des baignoires|ayant servi à la fabrication
+{71883}{71919}de nitroglycérine.
+{71951}{71987}Dans le but je crois,
+{71994}{72071}de détruire les maisons mères|de ces sociétés de crédit,
+{72078}{72119}ainsi que l'immeuble TRW.
+{72153}{72225}Pourquoi ces immeubles ?|Ces sociétés de crédit ?
+{72244}{72330}En effaçant les fichiers débiteurs,|on repart tous à zéro.
+{72348}{72394}On génère le chaos.
+{72459}{72502}Faites-le parler, je dois appeler.
+{72774}{72810}J'admire ce que vous faites.
+{72856}{72873}Quoi ?
+{72881}{72936}Quel courage de vous infliger ça.
+{72944}{72968}Vous êtes un génie.
+{72991}{73019}Vous avez dit que quiconque
+{73026}{73081}se mettrait en travers du projet, même vous,
+{73113}{73139}il fallait l'émasculer.
+{73178}{73198}Ne luttez pas.
+{73203}{73249}Quel geste puissant M.Durden.
+{73264}{73333}- Quel exemple.|- Vous faites erreur les gars.
+{73341}{73396}- Vous aviez prédit ces mots.|- Je ne suis pas Durden !
+{73401}{73432}Que vous diriez ça aussi.
+{73464}{73512}Entendu, je suis Tyler Durden.
+{73518}{73602}Je vous donne l'ordre|d'annuler cette mission.
+{73626}{73659}Prédit aussi.
+{73813}{73878}Vous êtes dingues ?|Vous êtes des policiers !
+{73941}{73965}Quelqu'un minute ça ?
+{73983}{74024}Bouclez-la.
+{74049}{74070}Merde !
+{74161}{74221}Certaines informations concordent.
+{74239}{74299}- Allons voir cette baraque.|- J'arrive.
+{74369}{74390}Tu le tiens ?
+{74419}{74450}Ne luttez pas.
+{74461}{74500}Où est l'élastique ?
+{74509}{74559}Ecartez-vous ! Lâchez ce couteau !
+{74654}{74671}Reculez !
+{74689}{74727}Face au sol ! Tous les deux !
+{74793}{74832}Allongez-vous !
+{74943}{74989}Le premier qui franchit cette porte...
+{75001}{75040}se fait truffer de plomb !
+{75654}{75685}Tirez-vous !
+{76001}{76032}J'ai couru.
+{76066}{76159}Jusqu'à ce que mes muscles brûlent|et mes veines pompent de l'acide.
+{76226}{76264}Puis j'ai couru encore.
+{77258}{77301}Qu'est-ce que tu fous
+{77311}{77342}en caleçon ?
+{77349}{77375}Tu as l'air d'un cinglé.
+{77389}{77427}Je t'ai démasqué, je sais
+{77431}{77455}ce qui se trame ici.
+{77461}{77512}Viens, j'ai trouvé un super point de vue.
+{77546}{77572}Un vrai pay-per-view.
+{78773}{78790}Et maintenant ?
+{78826}{78845}Je vais débrancher ça.
+{78859}{78873}Pourquoi ?
+{78889}{78920}C'est ton chef-d'œuvre.
+{78923}{78954}Je ne peux laisser faire ça.
+{78984}{79036}Dix autres immeubles sont piégés.
+{79041}{79094}Le projet ne consistait pas à tuer !
+{79099}{79171}Les immeubles sont vides.|Il n'y a que nos hommes.
+{79179}{79215}On ne tue pas, on libère les gens !
+{79231}{79281}Bob est mort d'une balle dans la tête.
+{79308}{79363}On fait pas d'omelette sans casser des œufs.
+{79386}{79414}Je t'écoute pas, tu n'es pas là.
+{79619}{79635}J'éviterais...
+{79648}{79701}à moins de connaître le câblage.
+{79714}{79747}Si tu sais, je sais.
+{79886}{79920}Ou sachant que tu saurais,
+{79927}{79984}j'ai pensé aux mauvais câblages.
+{80199}{80218}Celui-là ?
+{80271}{80298}Non, pas le vert.
+{80338}{80369}Tout sauf le vert.
+{80514}{80545}Fais pas ça !
+{80691}{80708}Eloigne-toi du van.
+{80796}{80827}Je ne plaisante pas.
+{80839}{80872}Eloigne-toi du van !
+{81109}{81181}Tu es en train de tirer|sur ton ami imaginaire
+{81188}{81239}qui est à côté de 400 gallons de nitro !
+{81304}{81318}Calme-toi !
+{81664}{81697}Arrête !
+{82669}{82683}Quoi ?
+{83798}{83818}Trois minutes.
+{83834}{83868}Nous y voilà.
+{83884}{83915}Le commencement.
+{83936}{83967}Déflagration maximum.
+{83973}{84024}C'est là qu'on est entrés en scène.
+{84029}{84084}Quelques mots pour marquer le coup ?
+{84146}{84160}Pardon ?
+{84176}{84234}Toujours rien ne me vient à l'esprit.
+{84286}{84324}Humour flash-back.
+{84451}{84482}Ça devient excitant.
+{84538}{84560}Deux et demi.
+{84571}{84626}Pense à tout ce qu'on a accompli.
+{84669}{84741}On va assister à l'effondrement|de l'histoire de la finance.
+{84769}{84831}Un pas de plus vers l'équilibre économique.
+{85196}{85217}Elle fait quoi là ?
+{85226}{85265}Elle a un détail à régler.
+{85361}{85416}- Ne fais pas ça.|- Je ne fais rien.
+{85431}{85501}Nous faisons ça.|C'est ce que nous voulons.
+{85521}{85548}Je ne veux pas ça.
+{85558}{85616}Sauf que "toi" ne veut plus rien dire.
+{85626}{85650}Oublions ce "toi".
+{85656}{85713}Bon Dieu, tu es une voix dans ma tête.
+{85721}{85748}Et toi dans la mienne !
+{85753}{85816}Tu es une hallucination.|Comment t'éliminer ?
+{85824}{85838}Tu as besoin de moi.
+{85844}{85889}Non, je n'ai plus besoin de toi.
+{85898}{85946}Tu m'as créé. Je n'ai pas créé
+{85953}{86025}un minus pour mon bien-être.|Prends tes responsabilités.
+{86032}{86091}Je le fais. Je suis responsable
+{86098}{86134}de tout ça et je l'accepte.
+{86148}{86191}Alors je t'en supplie,
+{86196}{86234}annule ça.
+{86291}{86334}Nous ai-je déjà laissé tomber ?
+{86384}{86424}Qu'as-tu réussi grâce à moi ?
+{86574}{86622}Je vais nous mener jusqu'au bout.
+{86629}{86689}Comme toujours je te porterai
+{86696}{86768}malgré tes protestations|et, à la fin, tu me remercieras.
+{86851}{86889}Je te sais gré
+{86896}{86927}pour tout ce que tu as fait.
+{86944}{86994}Mais là c'est trop. Je n'en veux pas.
+{87007}{87028}Qu'est-ce que tu veux ?
+{87034}{87120}Reprendre ton boulot merdique ?|Ton appart à la con ? Merde !
+{87146}{87182}Je ne le ferai pas.
+{87198}{87232}Ce n'est pas possible.
+{87256}{87297}C'est déjà fait, alors écrase.
+{87304}{87328}Soixante secondes.
+{87441}{87503}Je peux résoudre ça. Rien n'est vrai.
+{87509}{87590}Tu n'es pas vrai.|Ce flingue n'est pas dans ta main.
+{87633}{87672}Il est dans la mienne.
+{87814}{87857}Bravo, mais ça ne change rien.
+{88084}{88134}Pourquoi tu vises ta tête ?
+{88164}{88228}Pas ma tête Tyler, notre tête.
+{88302}{88335}Intéressant.
+{88421}{88471}Ça va te mener où IKEA-boy ?
+{88676}{88712}C'est toi et moi.
+{88794}{88823}Amis.
+{88974}{89021}Je veux que tu m'écoutes vraiment.
+{89126}{89167}Mes yeux sont ouverts.
+{89586}{89632}C'est quoi cette odeur ?
+{90434}{90463}Etes-vous...
+{90476}{90508}Ça va monsieur ?
+{90521}{90554}Oui, ça va.
+{90568}{90604}- C'est grave...|- Qu'est-ce qui s'est passé ?
+{90618}{90640}Rien, tout va bien.
+{90663}{90702}Non, sérieusement.
+{90708}{90744}Il faut vous faire soigner.
+{90756}{90770}Je vais bien.
+{90806}{90825}Je vais bien.
+{90842}{90875}Tout va bien.
+{90987}{91018}Lâchez-la !
+{91064}{91090}Toi...
+{91111}{91143}Salut Marla.
+{91176}{91245}Laissez-la avec moi.|Prenez vos trucs, je vous retrouve en bas.
+{91253}{91270}Vous êtes sûr ?
+{91278}{91319}Oui, je suis sûr.
+{91364}{91395}Espèce d'enfoiré !
+{91402}{91447}A quoi tu joues ? ! Me mettre dans
+{91454}{91514}un bus à la...|Mon Dieu, ta tête !
+{91527}{91553}Oui, je sais.
+{91693}{91712}Qu'est-ce qui s'est passé ?
+{91729}{91765}- Dis rien.|- C'est un coup de feu.
+{91771}{91815}Oui, un coup de feu.
+{91846}{91911}- Et il tient debout.|- Coriace l'enfoiré.
+{92024}{92048}Qui a tiré ?
+{92076}{92110}Moi en fait.
+{92128}{92148}Trouve de la gaze.
+{92207}{92243}Tu t'es tiré dessus ?
+{92248}{92308}Oui mais ça va.|Marla, regarde-moi.
+{92316}{92355}Je vais vraiment bien.
+{92389}{92461}Crois-moi, tout ira bien maintenant.
+{92779}{92851}Tu m'as rencontré|à un moment très étrange de ma vie.
