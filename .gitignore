@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 
 # Database
-database.*
+*.sqlite3
 
 # Todos
 todo*
