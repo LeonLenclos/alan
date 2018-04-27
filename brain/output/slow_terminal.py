@@ -6,6 +6,8 @@ class SlowTerminal(OutputAdapter):
     """This is an output_adapter to give a voice to the chatbot."""
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
+        self.delay = kwargs.get("delay", 0.00005)
+
 
     def process_response(self, statement, session_id=None):
         """
@@ -18,7 +20,7 @@ class SlowTerminal(OutputAdapter):
 
         animation = ' .  ', ' .. ', ' ...', ' .. '
         idx = 0
-        waiting_time =  len(statement.text) / 50000
+        waiting_time =  len(statement.text) * self.delay
         while clock() - start_time < waiting_time:
             frame = animation[idx % len(animation)]
             print(frame + "\r" * 4, end="")

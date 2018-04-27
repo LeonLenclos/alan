@@ -19,6 +19,8 @@ import chatterbot
 import pygame
 
 from logic import MainLogicAdapter
+from output import MainOutputAdapter
+
 from test.simple_talk import test
 
 class Alan(chatterbot.ChatBot):
@@ -77,13 +79,22 @@ class Alan(chatterbot.ChatBot):
         # create sound objects that Alan can play
         self.musique_generative = pygame.mixer.Sound("./ressources/musique_generative.wav")
 
+
         # init chatterbot
         super().__init__(self.name, **self.settings)
 
         # change from MultiLogicAdapter to MainLogicAdapter
-        adapters = self.logic.get_adapters()[:-1]
+        logic_adapters = self.logic.get_adapters()[:-1]
         self.logic = MainLogicAdapter(**self.settings, chatbot=self)
-        self.logic.adapters = adapters
+        self.logic.adapters = logic_adapters
+
+        # For having several output adapters
+        self.output = MainOutputAdapter(**self.settings, chatbot=self)
+        output_adapter = self.settings.get('output_adapter',
+                                           'chatterbot.output.OutputAdapter')
+        output_adapters = self.settings.get('output_adapters', [output_adapter])
+        for adapter in output_adapters:
+            self.output.add_adapter(adapter, **self.settings)
 
     def load_settings(self, settings_file):
         """
