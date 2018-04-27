@@ -1,0 +1,439 @@
+{416}{455}- J'ai compris !|- Qu'est-ce que tu fais ?
+{460}{540}Tout devient clair !|Tu veux m'écouter ?
+{551}{666}Tu as jamais vu un truc absurde qui|devient logique sous un autre angle ?
+{676}{697}Non, jamais.
+{703}{749}Comment non ?|Ecoute-moi...
+{755}{808}J'essaie de comprendre.
+{818}{890}Ferme les yeux|et tout deviendra magnifique !
+{928}{952}Tu nous fais peur.
+{959}{1030}N'aie pas peur.|Je suis en pleine forme.
+{1038}{1079}Tout va bien.
+{1086}{1134}Je me suis jamais|senti aussi bien.
+{1143}{1191}Tout va s'arranger,|je le sais.
+{1275}{1340}- Qu'est-ce qui reste ?|- Et celle-là ?
+{1375}{1404}Ouais !
+{2340}{2369}Comme ça ?
+{2440}{2472}Du grillage !
+{2725}{2770}Vous n'avez pas le droit !
+{2777}{2815}Il va le remettre.
+{2822}{2846}Je vous le paierai.
+{2855}{2877}Prenez-le !
+{2883}{2923}Je me sens très bien.
+{2930}{2978}Tu vas lâcher ça ?|Viens !
+{2985}{3052}Tu veux une claque ?|Lâche ce grillage !
+{3060}{3115}Toby !|Ecoute ce que je te dis !
+{3122}{3160}Lâche ça immédiatement !
+{3169}{3241}- Je veux rester avec papa !|- Viens !
+{3682}{3708}Gentils !
+{3829}{3885}Où on va maman ?
+{3892}{3928}Montez dans la voiture.
+{3938}{4005}- Où est-ce qu'on va ?|- Montez vite, allez !
+{4017}{4046}Grimpe Toby !
+{4060}{4082}Allez, vite.
+{4157}{4214}- Papa a besoin de nous.|- Verrouillez les portières.
+{4222}{4253}Papa a besoin de nous.
+{4260}{4303}Verrouillez les portières...
+{4310}{4341}et remontez les vitres.
+{4347}{4404}Papa a encore besoin de nous.
+{4414}{4450}Chérie, où est-ce que tu vas ?
+{4457}{4500}- Quoi ?|- Où tu vas ?
+{4522}{4577}J'emmène les enfants chez ma sœur.
+{4614}{4665}T'es folle, t'es encore|en chemise de nuit.
+{4694}{4718}Quoi ?
+{4730}{4761}Je suis quoi ?
+{4882}{4920}Attends !
+{4929}{4975}Ronnie, arrête.
+{5011}{5045}Tu vas t'arrêter une minute ?
+{5704}{5723}Bonjour.
+{6672}{6746}Mais qu'est-ce que j'ai ?
+{6894}{6923}Qui est là ?
+{6933}{7029}C'est le facteur. Un paquet|pour Julie Anderson.
+{7108}{7178}Laissez-le à la porte !
+{7221}{7322}J'ai pas le droit.|C'est en recommandé.
+{7330}{7362}Et d'ailleurs...
+{7386}{7441}il faut qu'on se parle...
+{7468}{7504}au sujet de Kim.
+{7976}{8041}Tels les grains de sable|dans le sablier...
+{8051}{8118}ainsi s'écoulent Days of Our Lives.
+{8738}{8825}Une catastrophe ferroviaire|est à la une de cette édition.
+{8832}{8876}A Devil's Tower, dans le Wyoming...
+{8882}{8962}un train chargé d'un produit|dangereux a déraillé...
+{8973}{9033}provoquant un exode massif|de la population...
+{9040}{9115}ce qui soulève la controverse|des transports par rail.
+{9123}{9199}Je ferai tout ce que tu voudras.|Je te le promets.
+{9250}{9298}Je fais des efforts.
+{9318}{9368}Je ne demande que ça.
+{9408}{9427}Je suis sain d'esprit.
+{9433}{9502}L'armée supervise l'évacuation.
+{9515}{9618}Je ne suis pas un enfant.|Tout ça c'est dans ta tête.
+{9628}{9664}C'était une blague !
+{9670}{9734}Il n'y aura plus|de danger d'ici trois jours.
+{9753}{9818}Ronnie, oui, tout ce que tu voudras.
+{9828}{9888}Je ferai tout ce que tu voudras.
+{9962}{9996}Tu restes longtemps ?
+{10143}{10179}Les enfants aussi ?
+{10212}{10317}Non. Je veux t'en parler|en personne.
+{10347}{10429}Non, on ne peut pas en parler|au téléphone !
+{10467}{10561}Ronnie ! Ne raccroche pas !|Ne raccroche...
+{10685}{10757}Devil's Tower,|un site spectaculaire, qui a été...
+{10765}{10851}inscrit au patrimoine|par Theodore Roosevelt en 1915.
+{10862}{10941}Des milliers de réfugiés|quittent la région...
+{10949}{11028}les wagons-citernes|qui se sont renversés...
+{11037}{11143}à Walkashi Needles Junction|étaient remplis de gaz paralysant.
+{11285}{11354}L'accident n'a fait aucune victime.
+{11362}{11412}On nous demande de quitter|ce secteur...
+{11422}{11506}qui en raison du vent|a été déclaré zone rouge.
+{11514}{11600}On s'est approchés d'aussi près|qu'il nous a été permis.
+{11612}{11672}Le vent nord-sud n'arrange rien.
+{11679}{11744}Les spécialistes|de la Garde Nationale...
+{11752}{11833}s'emploient à colmater les fuites|de gaz toxique...
+{11842}{11914}et à évacuer un périmètre|de plus de 200 miles carrés.
+{11922}{11999}Nous lançons cet appel ..|évacuez la zone dangereuse.
+{12009}{12074}Evacuez la zone dangereuse.
+{12081}{12132}10000 personnes sont sans abris.
+{12140}{12243}L'armée a publié de nouvelles|restrictions à la circulation.
+{12251}{12328}Sont fermées toutes les routes|au nord de Crowheart.
+{12337}{12416}Toutes les routes conduisant|au Grand Tetons.
+{12424}{12491}Les autoroutes L16 et 86...
+{12499}{12590}de même que tout le réseau routier|au sud de Cody.
+{12841}{12906}Pourquoi il n'y a pas|de grandes voies ?
+{13018}{13062}C'est un sens unique !
+{13111}{13188}Demi-tour. C'est pas par là.
+{13206}{13242}Vous vous croyez où ?
+{13251}{13285}Désolé. Oui, j'ai vu.
+{13294}{13359}C'est une voiture de location.
+{13381}{13410}C'est ma faute !
+{13419}{13472}Les gens dont le nom|commence par ''F''...
+{13479}{13529}jusqu'à la lettre ''J''...
+{13536}{13636}doivent se diriger vers le quai|numéro 3. Embarquement immédiat.
+{13728}{13781}Vous regretteriez de ne pas|vous munir...
+{13789}{13892}d'un de ces articles|pour vous protéger du gaz toxique.
+{13901}{13951}Même mon chien|porte un masque à gaz.
+{13959}{14019}Votre vie vaut plus que celle|d'un chien.
+{14781}{14817}Roy !
+{15101}{15170}Retournez derrière la barrière|bon Dieu !
+{15818}{15842}Pourquoi on s'arrête ?|Qu'est-ce qu'on fait ?
+{15848}{15924}Le seul moyen,|c'est de couper à travers champ.
+{15933}{15976}- Allons-y.|- Attention...
+{16555}{16608}La police a dragué la rivière.
+{16616}{16683}Je leur ai dit qu'il n'y serait pas.
+{16693}{16801}Ensuite ils sont allés vérifier chaque|maison dans un rayon de cinq miles.
+{16827}{16921}Ils ont fouillé les caves|et les remises.
+{16952}{17005}ROUTE FERMÉE
+{17022}{17102}Ils m'ont demandé si j'avais vu|des inconnus.
+{18737}{18788}Je n'aurais jamais cru|que ça existait.
+{18842}{18887}J'en crois pas mes yeux.
+{18919}{18953}Oui ça existe.
+{19114}{19189}On va redescendre, prendre|de l'essence et trouver le chemin.
+{19269}{19293}Qu'est-ce que c'est ?
+{19879}{19975}Je suis sûr que tout ça|c'est de la mise en scène.
+{21104}{21157}Qu'est-ce que vous voulez ?|Me touchez pas !
+{21213}{21268}- Comment vous vous sentez ?|- Bien !
+{21288}{21365}On m'a dit que la pollution|venait de votre cul.
+{21635}{21679}- Emmenez-les.|- Qu'est-ce qui se passe ?
+{21685}{21726}Qu'est-ce que vous faites ?
+{21746}{21777}Où vous l'emmenez ?
+{21783}{21833}Pourquoi on nous sépare ?
+{21843}{21863}Attention à la marche.
+{22300}{22389}Nous n'avons pas beaucoup de temps.|Voici M.Lacombe.
+{22401}{22483}Nous voulons des réponses|franches et précises.
+{22490}{22517}Où est Jillian ?
+{22574}{22646}Vous vous rendez compte du danger|que vous courez ?
+{22673}{22750}En venant ici, vous vous exposez|au gaz toxique.
+{22758}{22794}Je suis vivant.
+{22801}{22832}Je vous parle.
+{22858}{22903}C'est vrai M.Neary.
+{22928}{23005}Si les vents dominants avaient|soufflé du sud au lieu du nord...
+{23043}{23094}Cette conversation n'aurait|pas lieu.
+{23100}{23144}L'air n'est pas pollué.
+{23183}{23219}Qu'est-ce qui vous fait dire ça ?
+{23225}{23278}J'en suis sûr.|L'air n'est pas pollué.
+{23293}{23343}Allez dehors voir si je mens.
+{23448}{23503}Je veux voir le responsable.
+{23511}{23566}M.Lacombe est|la plus haute autorité.
+{23575}{23618}Il n'est même pas américain.
+{23677}{23744}M.Neary, êtes-vous un artiste,|un peintre ?
+{23777}{23799}Non.
+{23888}{23960}Entendez-vous des sons|curieux et persistants ?
+{23967}{24008}Presque agréables ?
+{24015}{24039}Non.
+{24076}{24123}Des maux de tête ?|Des migraines ?
+{24137}{24164}Oui.
+{24195}{24240}Irritation des yeux et des sinus ?
+{24250}{24274}Oui.
+{24303}{24377}Des démangeaisons,|des allergies ?
+{24430}{24483}Des brûlures sur le visage|et sur le corps ?
+{24490}{24547}- Vous êtes qui ?|- Regardez ceci.
+{24557}{24627}J'en ai un comme ça|dans mon séjour.
+{24770}{24828}M.Neary, encore une question.
+{24872}{24932}Avez-vous récemment fait|une rencontre ?
+{24963}{25035}Une rencontre plutôt inhabituelle.
+{25107}{25150}Vous êtes qui ?
+{25315}{25365}Ce sont des étrangers pour vous ?
+{25374}{25413}Oui. Sauf elle.
+{25462}{25527}Vous vous êtes crus obligés|de venir ici ?
+{25557}{25600}On peut dire ça comme ça.
+{25614}{25689}- Vous espériez trouver quoi ?|- Une réponse !
+{25732}{25775}C'est déraisonnable ?
+{26167}{26237}Une seconde.
+{26245}{26271}C'est tout ?
+{26297}{26352}C'est tout ce que vous allez|me demander ?
+{26377}{26434}J'ai un ou deux milliers|de questions.
+{26442}{26538}Je demande à parler au responsable.|Je veux faire une réclamation.
+{26552}{26604}De quel droit vous rendez|les gens fous ?
+{26612}{26708}Je ne crois pas aux salades|des présentateurs télé.
+{26722}{26808}Pourquoi est-ce que|je connais tous les détails ?
+{26817}{26855}Je connais pas ce patelin.
+{26882}{26925}Pourquoi j'en sais autant ?
+{26934}{26978}Qu'est-ce qui se passe ici ?
+{26984}{27032}Qui êtes-vous ?
+{27629}{27677}C'est bon ? Répondez-moi.
+{27697}{27776}Je suis pas venu de si loin|pour qu'on me renvoie.
+{28321}{28369}Je veux cinq minutes, cinq.
+{28386}{28437}Attends un peu.
+{29253}{29330}Vous avez amené douze personnes...
+{29338}{29439}au lieu de les évacuer|comme il se doit. Pourquoi ?
+{29448}{29513}Parce que ça veut dire|quelque chose.
+{29560}{29637}Ces gens sont venus de partout...
+{29680}{29760}dans un endroit dangereux|pour leur vie.
+{29768}{29795}Pourquoi ?
+{29800}{29887}Des gens ont peut-être intérêt|à saboter cette opération...
+{29896}{29975}en mobilisant des fanatiques,|des membres de cultes...
+{30161}{30218}C'est un petit groupe|de personnes...
+{30256}{30330}qui ont eu la même vision|en même temps.
+{30348}{30374}Regardez.
+{30451}{30523}C'est un mystère.|Pourquoi sont-ils venus ?
+{30531}{30579}Eux-mêmes ne savent pas pourquoi.
+{31112}{31139}Vous serez asphyxiés.
+{31150}{31227}L'air qu'on respire|est parfaitement inoffensif.
+{31235}{31326}l'armée nous fait évacuer|parce qu'ils ne veulent pas de témoins.
+{31345}{31422}Si l'armée ne veut pas de nous,|on n'y peut rien.
+{31432}{31514}On voulait juste voir la montagne|qu'on a dessinée.
+{31522}{31558}Vous pouvez l'enlever.
+{31565}{31630}Je respire comme un poisson|dans l'eau.
+{31655}{31743}Il y en a combien d'entre vous|qui veulent foutre le camp ?
+{31880}{31962}Moi non plus je ne sais pas|ce qui se passe.
+{32078}{32186}Pour chaque personne angoissée|qui est ici...
+{32250}{32360}il y a sûrement des centaines d'autres|qui ont eu une vision du même genre...
+{32389}{32457}qui n'ont pu venir car ils n'ont|pas regardé la télé.
+{32500}{32574}Ou qui n'ont pas établi|le rapprochement.
+{32584}{32671}C'est une coïncidence.|Ça n'a rien de scientifique.
+{32734}{32777}Ecoutez-moi commandant Walsh...
+{32784}{32844}C'est un événement sociologique.
+{33317}{33351}Attendez !
+{33734}{33782}- Je m'appelle Neary !|- Larry Butler !
+{33789}{33827}Enchanté.
+{33834}{33877}Ravi de vous rencontrer.
+{33894}{33995}N'enlevez pas vos masques à gaz|avant d'être hors de danger.
+{34004}{34103}Ecoutez, nous n'avons plus rien|à faire ici.
+{34539}{34616}Dans une heure|la montagne sera dégagée.
+{34624}{34686}Utilisez la détection|à infrarouge...
+{34694}{34752}et je veux la spectroscopie|de la face nord.
+{34759}{34807}J'ai donné des ordres dans ce sens.
+{34814}{34862}Commandant, écoutez.
+{34869}{34950}Nous avons déjà assez d'ennuis|avec les éleveurs.
+{34959}{35048}Si vous n'arrivez pas|à faire évacuer d'ici 20 heures...
+{35059}{35112}commencez à arroser au EZ4.
+{35129}{35158}C'est quoi le EZ4 ?
+{35164}{35243}C'est un gaz anesthésiant|destiné au bétail...
+{35252}{35285}dans les cas extrêmes.
+{35291}{35380}Ils dormiront 6 heures et ils se réveilleront|avec mal au crâne, c'est tout.
+{35389}{35475}Nous n'avons pas choisi cet endroit.|Vous n'avez pas...
+{35484}{35532}le droit d'expulser ces gens.
+{35679}{35731}Ils ont plus le droit d'être ici|que nous.
+{35921}{35960}J'aurais pas dû|arrêter le jogging !
+{35966}{36046}On va se faire cette petite gorge|au coin de la montagne.
+{36053}{36089}Les hélicoptères !
+{36160}{36206}Le périmètre de ce parc...
+{36214}{36295}a été placé sous l'autorité|du gouvernement fédéral.
+{36306}{36365}Il y a une entaille jusqu'au sommet.
+{36373}{36440}- Elle est praticable.|- Ça sert à rien.
+{36448}{36530}Au sommet il y a une falaise à pic.|Couchez-vous !
+{36538}{36598}Qu'est-ce qu'il y a|de l'autre côté ?
+{36618}{36690}Il y a un ravin avec des pistes|et des sentiers.
+{36698}{36748}On peut y accéder par cette montée.
+{36756}{36821}Je voyais pas ça comme ça|dans mon dessin.
+{36829}{36896}Il n'y avait pas de ravin|dans mes gribouillages.
+{36904}{36971}Tu nous prends pour des guides|de montagne.
+{36978}{37005}Allez, en route.
+{37138}{37198}Le périmètre de ce parc...
+{37206}{37304}a été placé sous l'autorité|du gouvernement fédéral.
+{37313}{37418}Vous avez pénétré|dans une zone interdite...
+{37428}{37490}relevant de la justice militaire.
+{37498}{37534}Appelle la base.
+{37628}{37676}Bahamas, ici Pyramide. A vous.
+{37683}{37709}Parlez.
+{37716}{37769}Rien à signaler à mi-chemin.
+{37778}{37842}Il y a des milliers de recoins|pour se cacher.
+{37853}{37941}Il faudrait qu'on soit trois fois|plus pour ratisser tout ça.
+{37953}{38027}Repliez-vous. Dégagez la face nord.
+{38036}{38076}On va sulfater.
+{38717}{38748}Couchez-vous.
+{38775}{38840}Vous avez pénétré|dans une zone interdite...
+{38848}{38929}soumise au règlement militaire.
+{39642}{39709}Larry, grouille-toi !
+{40132}{40207}Larry ! Ils vont nous repérer.|Couche-toi !
+{41067}{41158}C'est rien. C'est des pesticides.|Espèce de pollueur !
+{41294}{41325}T'arrête pas !
+{41342}{41385}Regarde pas en arrière, avance !
+{42141}{42203}Dépêche-toi, on est à dix pieds|du sommet.
+{42213}{42283}On se laissera glisser|de l'autre côté.
+{42461}{42521}Fais un effort. Je descends.
+{42529}{42548}Ne descends pas.
+{42576}{42615}Allez Roy, dépêche-toi !
+{42621}{42662}Va devant, je te suis.
+{42691}{42725}Tu vas te magner le train !
+{42878}{42929}Dépêche-toi je te dis.
+{42996}{43020}Allez Roy !
+{43076}{43100}Je t'en supplie !
+{43201}{43227}Saute, saute !
+{43541}{43613}- Tu vois ça ?|- Oh oui.
+{43631}{43657}Bien.
+{43683}{43741}Les haut-parleurs sont accordés ?
+{43751}{43787}Il faut tester les retours.
+{43874}{43909}On est en ligne ?
+{43931}{43959}Vous me recevez ?
+{44016}{44112}- On va faire un essai.|- Un, deux, trois.
+{44139}{44179}Essai. Essai.
+{44185}{44257}Un, deux, trois. Essai.
+{44436}{44525}Mesdames, messieurs,|prenez position.
+{44555}{44601}Ceci n'est pas un exercice.
+{44608}{44690}Je répète .. ceci n'est pas|un exercice.
+{44716}{44802}On pourrait réduire les projecteurs|de 60% ?
+{44815}{44854}De 60%.
+{44958}{45044}Je crois qu'on ne pouvait pas|rêver plus belle nuit.
+{45260}{45315}Maintenant observez le ciel.
+{45335}{45450}Nous avons des échos-radars|qui viennent du nord.
+{46650}{46722}On est les seuls à savoir,|les seuls.
+{46955}{46993}Tu vois ça ?
+{47042}{47068}Oui.
+{47089}{47111}Bien.
+{48275}{48378}Tout le personnel au sol,|non titulaire de l'autorisation D...
+{48387}{48475}est prié d'évacuer l'aire centrale|d'approche.
+{48494}{48594}Techniciens d'analyse, vous restez|derrière la ligne jaune.
+{48744}{48802}ITC, résonance et résistance.
+{48819}{48853}L'audio est prêt ?
+{48869}{48934}Interpolation harmonique en synergie.
+{48942}{48987}ARP enclenché. Allons-y.
+{49004}{49059}Vitesse fixée à sept et demi.
+{49069}{49143}Tout le système est opérationnel.|On est parés.
+{49732}{49760}Parlez.
+{49768}{49795}- Crépuscule.|- Allez-y.
+{49823}{49886}D'accord. Donnez la première note.
+{50056}{50083}- Tang.|- Allez.
+{50109}{50152}Un ton plus haut.
+{50229}{50272}Descendez d'une tierce majeure.
+{50281}{50324}Descendez d'un octave.
+{50449}{50477}- Code bleu.|- Allez.
+{50483}{50531}Remontez d'une quinte.
+{50594}{50637}Rien, pas le moindre écho.
+{50758}{50784}Première note.
+{50798}{50849}- Ré, à la seconde.|- Montez d'un ton.
+{50855}{50899}- Mi, à la tierce.|- Passez au do.
+{50905}{50953}- Do tonique.|- Descendez d'un octave.
+{50961}{51002}Do à l'octave.
+{51009}{51047}Sol à la quinte juste.
+{51433}{51462}Je reconnais cet air.
+{51531}{51557}Plus vite.
+{51935}{51964}Le plus vite possible.
+{52068}{52102}Allons-y !
+{53103}{53136}Je suis très heureux.
+{53147}{53188}- Félicitations.|- Merci.
+{53208}{53282}On a fait du bon travail.
+{53755}{53786}M.Lacombe ?
+{53947}{54010}Qu'est-ce qui se passe ?
+{55345}{55402}Viens. Allez, suis-moi.
+{55444}{55478}Baisse-toi.
+{55619}{55655}Qu'est-ce qu'ils essayent de nous dire ?
+{57344}{57370}Baisse la tête !
+{58236}{58267}Photo un.
+{58274}{58350}Fantastique !|Changez les pellicules.
+{58358}{58394}Fantastique !
+{58556}{58603}- Tu veux mieux voir ?|- Je vois très bien.
+{58610}{58682}- On peut pas rester ici.|- Moi si.
+{58708}{58792}- Pourquoi ?|- Parce que Barry n'est pas là.
+{58816}{58864}Je ne suis pas encore prête.
+{58955}{59006}Je ne peux pas rester ici.|Je dois y aller.
+{59013}{59049}Je sais.
+{59853}{59949}Ici contrôle informatique|à tout le personnel.
+{59962}{60037}Nous n'enregistrons|aucun risque biologique.
+{60046}{60098}Rayon de sécurité assuré.
+{61720}{61782}Mon Dieu !
+{63069}{63119}Mon Dieu !
+{63696}{63725}Mince alors !
+{66413}{66463}Nous délimitons la zone|de sécurité...
+{66473}{66562}à 25 mètres autour du vaisseau.
+{66575}{66686}Les unités spéciales|ne sont pas concernées.
+{66698}{66794}Méfiez-vous|de l'électricité statique.
+{66857}{66946}Toutes les sections|opérationnelles...
+{66955}{67005}signalez-vous par un double bip.
+{67013}{67083}Si tout est en place|sur la face cachée de la Lune...
+{67095}{67131}jouez les cinq notes.
+{68799}{68859}Envoyez six croches|et faites une pause.
+{68890}{68921}Ils ont envoyé quatre croches...
+{68927}{69003}puis cinq croches|et quatre demi-croches.
+{69352}{69400}Les cinq notes d'origine sont le seul|élément en commun.
+{69407}{69486}- Il faut tout enregistrer.|- Qu'est-ce qu'on se raconte ?
+{69494}{69559}Ils nous enseignent|un vocabulaire tonal.
+{69566}{69598}C'est le premier jour d'école.
+{69799}{69869}Collez à la partition du vaisseau|note par note.
+{70274}{70332}On a une translation synergique|de leurs signaux.
+{70342}{70373}Nous allons enregistrer.
+{71878}{71919}Allons-y !
+{74240}{74283}Je suis Claude Lacombe.
+{74365}{74398}Frank Taylor...
+{74405}{74465}Iieutenant de l'aéronavale des Etats-Unis...
+{74473}{74516}matricule 0641 99.
+{74523}{74576}Lieutenant, bienvenue au pays.
+{74590}{74628}Nous allons faire votre rapport.
+{74641}{74665}Harry Ward Craig...
+{74670}{74718}capitaine de l'aéronavale des Etats-Unis...
+{74725}{74778}043431 .
+{74785}{74859}Capitaine, par ici...
+{74907}{74965}Bienvenue.
+{75013}{75087}- Craig, Harry Ward.|- '' Capitaine de l'aéronavale...
+{75095}{75141}043431.''
+{75150}{75222}Disparu au large de Chicken Shoals,|escadrille 19.
+{75275}{75363}Matthew McMichael, lieutenant|de vaisseau de aéronavale...
+{75377}{75430}0909411.
+{75437}{75476}Je suis heureux de vous voir.
+{75499}{75550}Furlow, Otis B...
+{75560}{75627}lieutenant de l'aéronavale|des Etats-Unis...
+{75635}{75704}Ils n'ont même pas vieilli.|Einstein avait raison.
+{75712}{75763}Einstein était un des leurs.
+{75778}{75830}Erickson, David A...
+{75837}{75907}lieutenant de l'aéronavale|des Etats-Unis...
+{75917}{76008}0639552.
+{76039}{76094}Henkle, Robert F...
+{76102}{76181}lieutenant de l'aéronavale|des Etats-Unis...
+{77014}{77053}Qu'est-ce que vous voulez ?
+{77121}{77196}Je veux m'assurer|que ça arrive vraiment.
+{77277}{77390}Je suis monté dans le ciel|et j'ai vu la maison.
+{77400}{77484}J'étais en dessous.|Tu m'as vue courir après toi ?
+{77624}{77672}Il faut qu'on parle.
+{77744}{77790}Je voudrais vous parler|du cas de M.Neary.
+{77799}{77857}Swensen, Matthew Daniel...
+{77864}{77947}porté disparu en avril 1976.
+{77972}{78036}- Ils vont partir ?|- Oui.
+{78144}{78168}Attendez un instant.
+{78174}{78267}Ce sont des gens ordinaires dans|des circonstances extraordinaires.
+{78301}{78375}Delores, Rudolph E...
+{78384}{78466}porté disparu en décembre 1941|à Bisbee...
+{78482}{78518}en Arizona.
+{78614}{78655}Au revoir.
+{78906}{78930}Monsieur Neary...
+{78984}{79017}Je vous envie.
+{81856}{81920}On me dit qu'on peut compter|sur vous.
+{81930}{81988}- Votre groupe sanguin ?|- Aucune idée.
+{81995}{82057}- Votre date de naissance ?|- 4 décembre 44.
+{82065}{82120}Avez-vous été vacciné|contre la diphtérie ?
+{82128}{82197}Il y a eu des hépatites|dans votre famille ?
+{83617}{83674}Que la divine providence|soit louée à jamais.
+{83682}{83745}Que le Seigneur nous accorde|un voyage heureux.
+{83755}{83784}Qu'il nous indique la voie.
+{83789}{83832}Qu'il nous conduise|le long de Son chemin.
+{83842}{83921}Le Seigneur a chargé Ses anges|de vous guider.
+{83932}{84013}Accorde à ces pèlerins|un heureux voyage...
+{84022}{84135}et des jours paisibles afin que|sous la protection de Tes anges...
+{84147}{84226}ils parviennent|à leur destination...
+{89534}{89566}Au revoir.

@@ -1,0 +1,665 @@
+{2531}{2668}"Septembre 1939, les forces allemandes|ont vaincu la Pologne en deux semaines."
+{2750}{2810}"Les Juifs ont reçu l'ordre de déclarer|tous les membres de leur famille...
+{2812}{2860}et de déménager dans les grandes villes.
+{2860}{2937}Plus de 10000 Juifs de la campagne|arrivent à Cracovie chaque jour."
+{3397}{3428}Nom?
+{7413}{7485}- Jerzy, qui est cet homme?|- Je ne sais pas.
+{7950}{8000}Rapprochez-vous!
+{8003}{8036}Un sourire!
+{8801}{8837}Oui monsieur.
+{8880}{8938}Servez-leur une tournée.
+{8974}{9074}Parfait. De la part de qui?
+{9103}{9149}Dites que c'est de ma part.
+{9662}{9722}- De la part de ce monsieur.|- Où?
+{9861}{9909}Vous le connaissez?
+{9942}{9988}Essayez de savoir qui c'est.
+{9990}{10031}A vos ordres.
+{10110}{10161}Je ne sais pas ce que je donnerais...
+{10163}{10216}pour vous entendre chanter ce soir.
+{10218}{10264}Mais vous ne le ferez pas.
+{10319}{10364}Vous me gênez.
+{10583}{10628}Qu'est-ce qu'il fait?
+{10698}{10746}Restez ici.
+{10832}{10866}Comment allez-vous?
+{10868}{10947}Vous laissez une dame seule|à une table dans un endroit pareil?
+{10981}{11038}Ma chère, vous êtes l'image|de la solitude.
+{11108}{11175}Quel délicieux parfum.|Vous me brisez le cœur.
+{11175}{11266}Une autre chaise! Vodka pour mon ami.|Et pour la dame...
+{11558}{11618}Venez avec nous!|Épousez-nous!
+{12287}{12333}Je les trouve coopératifs.
+{12335}{12419}Quelques jours après le décret|ordonnant aux Juifs de porter l'étoile...
+{12422}{12529}les tailleurs juifs la fabriquaient|dans une variété de tissus à 3 zlotys.
+{12529}{12570}Parlez-moi de votre cave.
+{12573}{12654}J'ai un excellent Riesling 1937.
+{12657}{12728}Français. Un Bordeaux.|Château Latour 28... 29.
+{12731}{12798}Comme s'ils ne comprenaient pas|le sens de cette loi.
+{12800}{12865}Comme si c'était l'emblème|de leur club hippique.
+{12868}{12901}- Un Margaux 29?|- Non.
+{12906}{12975}- Bourgogne alors. Romanée Conti 37.|- Oui.
+{12975}{13047}C'est humain.|On fait ceci pour éviter cela.
+{13047}{13103}C'est ce qu'ils font|depuis des milliers d'années.
+{13103}{13162}Pour résister à la tempête.
+{13162}{13222}Cette tempête est différente.|Ce ne sont pas les Romains.
+{13225}{13256}Ce sont les SS.
+{14050}{14086}Oui monsieur.
+{14105}{14148}Qui est cet homme?
+{14179}{14232}C'est Oskar Schindler!
+{15946}{15994}"Le Judenrat"
+{15996}{16068}"Le conseil juif|composé de 24 Juifs élus...
+{16068}{16176}personnellement garants de l'exécution|des ordres du régime à Cracovie...
+{16176}{16260}comme de dresser les listes de ration,|de logement et de groupes de travail.
+{16263}{16311}Un endroit où déposer des plaintes."
+{16332}{16411}- On ne peut confisquer le bien privé.|- Quand rouvrent les écoles?
+{16414}{16442}Je ne sais pas.
+{16445}{16507}- Art.47. Le pillage est interdit.|- Vous ne savez rien!
+{16510}{16555}Je connais la Convention de La Haye.
+{16557}{16668}On est venus dans notre maison et on|a dit que nous n'y habitions plus.
+{16668}{16730}Elle appartient à un officier SS.
+{16733}{16785}Je ne sais que ce qu'ils me disent.
+{16788}{16864}Et ce qu'ils me disent|change tous les jours.
+{16867}{16929}Vous n'êtes pas là pour nous aider?
+{16960}{17018}Si je retire cette chose-là!
+{17020}{17056}Qu'est-ce qu'ils feront?
+{17059}{17157}Ils vous tueront.|Cessez de dire des bêtises!
+{17195}{17246}Je cherche Itzhak Stern.
+{17308}{17358}Vous êtes Itzhak Stern ou non?
+{17385}{17411}C'est moi.
+{17413}{17449}Où on peut parler?
+{17692}{17797}Il y a une fabrique où vous avez tenu|la comptabilité, rue Lipowa.
+{17799}{17845}Elle fabriquait|des batteries de cuisine?
+{17847}{17922}La loi m'oblige à vous dire|que je suis Juif.
+{17924}{17994}Moi je suis Allemand. Et voilà!
+{18080}{18114}Une bonne fabrique?
+{18116}{18173}Réussite modeste.
+{18176}{18226}Je ne connais rien à l'émail.|Et vous?
+{18229}{18279}J'étais juste comptable.
+{18298}{18344}La mécanique doit être simple.
+{18344}{18444}En modifiant les machines|on peut fabriquer autre chose.
+{18447}{18504}Couverts de paquetage... de cantine.
+{18524}{18569}Contrats avec l'armée.
+{18619}{18667}Après la guerre on oublie.|Maintenant c'est bien.
+{18675}{18715}On peut faire fortune, non?
+{18718}{18799}La plupart des gens|ont d'autres priorités.
+{18821}{18859}Quoi?
+{18881}{18941}Vous réussirez|si vous décrochez ces contrats.
+{18943}{18986}Pire ce sera,|mieux vous réussirez.
+{18989}{19085}J'aurai les signatures.|C'est facile.
+{19085}{19173}Trouver l'argent pour acheter|la fabrique c'est plus dur.
+{19173}{19216}Vous n'avez pas d'argent?
+{19219}{19272}Pas une somme pareille.
+{19274}{19322}Vous connaissez quelqu'un?
+{19358}{19435}Des Juifs... des investisseurs.
+{19437}{19507}Vous connaissez|les hommes d'affaires juifs?
+{19509}{19564}Les Juifs ne peuvent plus|avoir d'affaire à eux.
+{19566}{19610}Celle-ci est en liquidation.
+{19610}{19670}Elle ne serait pas à eux.|Elle serait à moi.
+{19670}{19720}Je les rembourserais|en batteries de cuisine.
+{19722}{19756}Batteries de cuisine?
+{19758}{19804}Quelque chose à utiliser.
+{19806}{19893}A échanger au marché noir,|en faire ce qu'ils veulent.
+{19895}{19941}Tout le monde est content.
+{19991}{20044}Si vous voulez|vous dirigerez la Société.
+{20168}{20219}Si je comprends bien...
+{20221}{20281}ils mettent tout l'argent,|je fais tout le travail.
+{20281}{20351}Et vous, si je peux me permettre,|vous ferez quoi?
+{20370}{20418}Je ferai connaître la fabrique.
+{20418}{20485}Je lui donnerai un certain panache.
+{20487}{20547}Je suis bon pour ça.|Pas le travail.
+{20581}{20629}La présentation.
+{21072}{21151}Je ne connais personne|que ça intéresse.
+{21209}{21266}Ils devraient s'y intéresser.
+{21298}{21346}Ils devraient.
+{22101}{22189}J'ai un client qui vend le mark|contre le zloty à 2,45.
+{22192}{22247}Pure laine. Col fourrure.|Joli manteau.
+{22249}{22288}Contre des tickets de rationnement.
+{22290}{22333}Mèches pour lampes.
+{22333}{22381}Un camion plein de mèches?
+{22384}{22427}Qu'est-ce que tu veux que j'en fasse?
+{22429}{22472}9 sur 12, 9 sur 14.
+{22477}{22540}Grand, beau, persan.
+{22659}{22679}Quoi?
+{22681}{22731}- Tu ne reconnais pas?|- Du cirage.
+{22731}{22798}- En boite métal?|- T'as demandé du cirage!
+{22801}{22873}En boite métal. Ça c'est du verre.|Pas ce que j'ai demandé.
+{22875}{22926}Qu'est-ce que ça change?
+{22928}{22957}Qu'est-ce que ça change?
+{22957}{23038}Mon client l'a vendu à son client|qui l'a vendu à l'armée allemande.
+{23041}{23117}Sur place le froid a tout cassé.
+{23120}{23173}Les 10000 boites.
+{23175}{23223}- C'est pas mon problème.|- Pas son problème.
+{23225}{23278}- Pas ton problème?|- Pas mon problème.
+{23297}{23326}Bon.
+{23345}{23424}L'armée allemande veut savoir|d'où viennent ces boites.
+{23427}{23470}Je veillerai à ce qu'elle le sache.
+{23470}{23494}C'est ton problème.
+{23496}{23530}Tais-toi!
+{23587}{23635}En boite métal.
+{23662}{23695}Bonjour.
+{23719}{23805}Pardon de vous interrompre|mais vous avez une jolie chemise.
+{23820}{23877}Jolie chemise.
+{23880}{23945}Où je peux|en trouver une comme ça?
+{24139}{24172}Comme ça?
+{24175}{24244}C'est illégal de vendre dans la rue.
+{24247}{24275}On ne fait pas ça.
+{24292}{24335}On est ici pour prier.
+{24465}{24513}Vous savez combien coûte|une chemise comme ça?
+{24515}{24566}Les jolies choses coûtent de l'argent.
+{24894}{24940}Combien?
+{24973}{25045}Je vais avoir aussi besoin|d'autres choses.
+{25047}{25076}Pas de problème.
+{25079}{25112}Régulièrement.
+{25242}{25347}"20 mars 1941|Date limite d'entrée au ghetto"
+{25354}{25419}"Le décret 44/91|établit un district juif fermé...
+{25419}{25455}au sud de la Vistule.
+{25457}{25503}La résidence dans le ghetto|est obligatoire.
+{25505}{25577}Les Juifs de Cracovie et des régions|avoisinantes sont forcés...
+{25580}{25644}de quitter leur maison et de|s'entasser dans seize pâtés de maisons."
+{28018}{28076}Manifestement la bonne adresse.
+{28231}{28368}Adieu les Juifs!|Adieu les Juifs!
+{29090}{29138}Oh mon Dieu!
+{29620}{29658}Ça ne pourrait pas être mieux.
+{29677}{29711}Ça pourrait être pire.
+{29713}{29756}Comment? Dis-moi?
+{29756}{29840}Comment ça pourrait être pire?
+{30229}{30267}Qu'est-ce que c'est?
+{30296}{30344}Le Judenrat a sa propre police|maintenant.
+{30344}{30382}C'est pas vrai!
+{30409}{30449}Je suis policier. Tu peux croire ça?
+{30452}{30526}- C'est difficile à croire.|- Non. C'est pas difficile à croire.
+{30528}{30596}C'est un bon métier.|Le seul bon métier actuel.
+{30596}{30663}Je pourrais toucher un mot|pour toi à mes supérieurs.
+{30663}{30711}Tes supérieurs?
+{30711}{30773}Ils ne sont pas si méchants|qu'on le dit.
+{30775}{30843}Ils sont pires qu'on le dit,|mais c'est beaucoup d'argent.
+{30850}{30895}Beaucoup d'argent.
+{30919}{30984}Donne-moi mon affectation|de logement.
+{30991}{31018}Donne.
+{31020}{31089}T'es bizarre avec cette casquette|Goldberg!
+{31111}{31161}T'as l'air d'un clown tu sais.
+{31315}{31389}C'est un homme très important.|Donnez-lui deux minutes de votre temps.
+{31392}{31473}Le temps n'est pas toujours de l'argent.|Asseyez-vous et écoutez.
+{31475}{31499}Je vous en prie.
+{31619}{31651}<i>Pour chaque 1000 investis...</i>
+{31653}{31684}je vous rembourserai avec...
+{31686}{31722}200 kilos d'émail par mois...
+{31725}{31770}à partir de juillet|et pendant un an.
+{31773}{31859}Après quoi nous serons quittes.|Voilà. C'est très simple.
+{31866}{31893}Pas intéressant.
+{31895}{31936}Pas intéressant.
+{31938}{31989}Pas intéressant?
+{31996}{32056}Regardez où vous vivez.|Regardez où on vous a mis!
+{32063}{32092}Pas intéressant?
+{32094}{32156}Y a deux mois peut-être.|Mais plus maintenant.
+{32159}{32224}L'argent est toujours l'argent.
+{32279}{32324}Plus maintenant.
+{32327}{32375}C'est pour ça qu'on est là.
+{32377}{32466}Pour faire du troc, seule monnaie|valable dans le ghetto.
+{32468}{32526}Les choses ont changé mon ami.
+{32593}{32646}C'est moi qui ai voulu vous voir?
+{32648}{32744}Vous souhaitiez me parler. Je suis là.|Je vous ai fait une offre honnête.
+{32746}{32854}Une offre honnête serait des parts|de l'entreprise.
+{32902}{32960}On laisse tomber. Descendez!
+{33096}{33159}Comment savoir si vous ferez|ce que vous dites?
+{33161}{33231}Parce que j'ai dit que je le ferai.|Vous voulez un contrat?
+{33233}{33322}Pour quel tribunal?|Ce que j'ai dit est notre contrat.
+{34250}{34350}Le salaire de base SS pour un ouvrier|juif qualifié est de 7 marks par jour.
+{34353}{34425}5 pour les ouvriers non qualifiés|et les femmes.
+{34427}{34501}C'est ce qu'on paie|au Service économique du Reich.
+{34504}{34568}Les Juifs eux-mêmes|ne reçoivent rien.
+{34571}{34624}Les Polonais, on les paie.
+{34626}{34698}En général ils gagnent plus.|Vous m'écoutez?
+{34698}{34789}Qu'est-ce que vous dites sur les SS?|Le salaire? Le quoi?
+{34791}{34871}Le salaire de l'ouvrier juif.|Vous le payez aux SS. Pas à l'ouvrier.
+{34873}{34902}Lui n'a rien.
+{34904}{34962}Mais il est moins cher|qu'un Polonais.
+{34964}{34983}Il est moins cher.
+{34986}{35038}Voilà mon argument majeur.
+{35062}{35108}Les Polonais coûtent plus cher.
+{35144}{35194}Pourquoi j'irais engager|des Polonais?
+{35225}{35321}Une fabrique d'articles en émail|installée rue Lipowa.
+{35324}{35393}Elle appartient à un Allemand.
+{35393}{35434}Mais elle est en dehors du ghetto.
+{35439}{35501}Vous pouvez faire du troc|contre des marchandises...
+{35503}{35575}ce qu'il vous faut...|avec les ouvriers polonais.
+{35578}{35659}Il offre aussi du travail|à dix femmes en santé...
+{35662}{35714}Je suis en santé.
+{35717}{35755}Amène ta sœur, d'accord?
+{35923}{35997}Vous devez avoir un métier,|précieux pour l'effort de guerre.
+{36002}{36021}Par exemple?
+{36026}{36043}Je suis musicien.
+{36045}{36091}- Sinon?|- Vous êtes sur une liste.
+{36093}{36146}Vous êtes sur une liste,|on vous met dans des camions et...
+{36148}{36172}Non, ce n'est pas vrai.
+{36177}{36196}Vous êtes musicien?
+{36199}{36259}Je me cacherais à votre place.
+{36261}{36323}Je ne me cacherai pas comme un animal.
+{36323}{36371}Il y a des cachettes.
+{36532}{36594}Je suis diplômé|de l'Université de Lwow.
+{36623}{36654}Je travaillais à la centrale...
+{36657}{36729}- ...électrique de Roznow.|- Blauschein.
+{36820}{36908}Je vais chercher les papiers requis.|Cette carte est périmée.
+{36911}{36976}Vous pouvez rester dans cette file|toute la journée.
+{36978}{37024}C'est pas valable.
+{37024}{37096}Quittez cette file.|On vous donnera un certificat bleu...
+{37098}{37177}un Blauschein disant que vous êtes|un travailleur essentiel.
+{37179}{37273}J'aurai ces papiers pour vous|chez Pankiewicz, le pharmacien.
+{37275}{37297}Là. Regardez.
+{37318}{37347}Regardez qui est là.
+{37350}{37417}Poldek! T'aimes le mauvais temps?
+{37419}{37448}T'aimes les files d'attente?
+{37450}{37486}Tu veux du cirage?
+{37489}{37522}En boite métal?
+{37553}{37587}Pas essentiel?
+{37589}{37666}Vous ne comprenez pas|le sens de ce mot.
+{37669}{37731}Pas de Blauschein. L'autre file!
+{37733}{37781}Allez! Suivant!
+{37810}{37865}Qu'entendez-vous par non essentiel?
+{37882}{37942}J'enseigne l'histoire|et la littérature.
+{37942}{37992}Depuis quand n'est-ce pas essentiel?
+{38131}{38177}Il est polisseur sur métal.
+{38347}{38381}Ce n'est pas bien?
+{38383}{38441}Il a 53 ans. Ça fait trop neuf.
+{38688}{38747}Vous l'avez laissé|dans votre tiroir?
+{38750}{38800}Combien de fois je vous l'ai dit?
+{38803}{38870}Le certificat de travail|toujours dans la poche.
+{38872}{38913}Vous l'oubliez dans un tiroir?
+{38915}{38966}Combien de fois je vous l'ai dit?
+{38994}{39045}Je suis polisseur sur métal.
+{39268}{39325}Prenez la feuille de métal...
+{39354}{39416}plongez-la|dans l'émulsion savonneuse.
+{39445}{39541}Ensuite placez-la au centre|de la presse.
+{39913}{39958}On obtient une marmite.
+{39968}{39992}La marmite.
+{40006}{40045}Marmite.
+{40088}{40138}Grosz, madame Grosz,|restez ensemble.
+{40241}{40327}Monsieur, j'ai dix permis de travail...
+{40330}{40378}pour la Deutsch Email Fabrik...
+{40380}{40447}signés par monsieur Bankier.
+{40450}{40560}Si c'est carbonisé|nettoyez-le à la lime.
+{40582}{40687}Mais ne touchez pas les deux électrodes|en même temps.
+{40690}{40757}Vous seriez électrocuté.|Tenez, essayez.
+{40867}{40922}Faites glisser le métal|sous la presse.
+{40925}{41037}Attention que vos mains ne ressortent|pas en poignées de marmite.
+{41092}{41116}Profession?
+{41119}{41174}Je suis écrivain.|Je joue de la flûte.
+{41176}{41263}Mais Moïse est un...|ouvrier en métaux, qualifié.
+{41263}{41318}Il sait faire|des pots d'étain ou des tanks.
+{41320}{41366}Tout ce que monsieur Schindler|demande.
+{41368}{41423}Il est très qualifié.|Donnez votre carte.
+{41430}{41471}Donnez-lui votre carte.
+{41555}{41653}Plongez la bassine avec les pinces|dans la solution d'émail.
+{41706}{41814}Après l'avoir fait pivoter, posez-la|délicatement pour qu'elle sèche.
+{41886}{41975}Quoi qu'il vous demande, je vous|représente, je parle à votre place.
+{41977}{42015}Ne dites pas un mot.
+{42015}{42087}Classement, facturation,|mise à jour de mes rendez-vous.
+{42090}{42142}Sténo. Dactylo évidemment.
+{42145}{42190}Comment vous tapez?
+{42193}{42238}- Pas mal.|- Je vous en prie.
+{43528}{43598}Il vous faut une secrétaire.|Choisissez-en une.
+{43624}{43715}Je ne sais pas comment.|Elles sont toutes si... qualifiées.
+{43742}{43790}Il faut choisir.
+{43874}{43924}Un sourire. Un sourire.
+{44531}{44602}Le thé en boite c'est bon.|Café. Pâté...
+{44631}{44725}saucisses Kielbasa, fromages,|caviar de béluga.
+{44727}{44773}Et bien sûr|des cigarettes allemandes!
+{44775}{44821}<i>Tout ce que vous pourrez trouver.</i>
+{44840}{44885}<i>Et des fruits frais.</i>
+{44885}{44948}<i>Les rares...</i>|<i>oranges, citrons, ananas.</i>
+{44950}{44998}Plusieurs boites de cigares|de La Havane.
+{45000}{45056}Les meilleurs.|Et du chocolat noir amer.
+{45058}{45108}Pas de petites barres.|Du chocolat en plaque.
+{45111}{45166}Pour accompagner les alcools.
+{45190}{45262}On a besoin de cognac.|Le meilleur. Hennessy.
+{45264}{45305}Champagne Dom Pérignon.
+{45336}{45396}<i>Trouvez des sardines d'espadon...</i>
+{45396}{45468}<i>Et si possible des bas nylon.</i>
+{45542}{45612}<i>C'est un grand plaisir pour moi</i>|<i>de vous annoncer...</i>
+{45614}{45684}<i>la mise en service...</i>
+{45686}{45768}<i>de la Deutsche Email Fabrik.</i>
+{45768}{45859}<i>Fabriquant des batteries de cuisine</i>|<i>de qualité supérieure.</i>
+{45861}{45991}<i>Particulièrement conçues</i>|<i>pour l'usage militaire.</i>
+{45993}{46060}<i>N'utilisant que l'outillage</i>|<i>le plus moderne...</i>
+{46063}{46182}<i>l'équipe DEF d'artisans</i>|<i>et de compagnons hautement qualifiés...</i>
+{46185}{46269}<i>livre un produit</i>|<i>d'une qualité incomparable...</i>
+{46269}{46367}<i>qui me permet d'offrir avec fierté</i>|<i>et entière confiance...</i>
+{46370}{46432}<i>toute une ligne de batteries</i>|<i>de cuisine et de cantine...</i>
+{46434}{46530}<i>insurpassable, saufle respect</i>|<i>que je dois à mes concurrents.</i>
+{46533}{46592}<i>Voir la liste ci-jointe</i>|<i>des coloris disponibles.</i>
+{46631}{46712}<i>En espérant que ces offres</i>|<i>rencontreront votre approbation...</i>
+{46712}{46813}<i>et en souhaitant que notre future</i>|<i>association soit longue et prospère...</i>
+{46813}{46887}<i>veuillez agréer l'expression</i>|<i>de ma plus sincère gratitude...</i>
+{46887}{46959}<i>et de ma considération distinguée.</i>|<i>Oskar Schindler.</i>
+{46962}{46988}<i>Il m'en faut...</i>
+{46990}{47046}700 grosses d'ici jeudi prochain.
+{47046}{47108}900. Non, mettez-en 1000...|pour mercredi.
+{47110}{47180}Toute cette marchandise ira mardi|à l'usine de Madritsch.
+{47180}{47206}Mardi en huit.
+{47595}{47676}<i>Mon père disait qu'on a besoin</i>|<i>de trois choses dans la vie.</i>
+{47679}{47775}<i>un bon médecin, un prêtre indulgent...</i>
+{47786}{47834}<i>un comptable ingénieux.</i>
+{47940}{48024}Je n'ai pas eu à faire appel|aux deux premiers.
+{48026}{48079}Mais le troisième...
+{48249}{48316}Faites semblant pour l'amour de Dieu!
+{48422}{48470}Ce sera tout?
+{48611}{48657}J'essaie de vous remercier.
+{48700}{48784}Je dis que je n'aurais pas fait|tout ça sans vous.
+{48853}{48913}L'usage veut que vous répondiez|à ma gratitude.
+{48916}{48985}Ce serait la moindre des courtoisies.
+{49043}{49084}Je vous remercie.
+{49323}{49364}Sortez!
+{49688}{49750}Qui c'est?
+{49992}{50047}Elle est si gênée. Regarde-la.
+{50342}{50395}Tu sais, elle te plairait.
+{50398}{50445}- Je t'en prie.|- Quoi?
+{50448}{50477}Elle n'a pas à me plaire...
+{50479}{50546}parce qu'elle te plaît à toi!
+{50891}{50937}Tu as bien réussi.
+{51007}{51052}Tu es superbe.
+{51136}{51177}Attention à la marche mademoiselle...
+{51182}{51215}Madame Schindler.
+{51539}{51584}Ce n'est pas une plaisanterie?
+{51587}{51632}Pourquoi?
+{51635}{51661}La voiture, l'appartement...
+{51663}{51757}Attends.|Devine combien j'ai d'employés.
+{51788}{51860}Mon père, à l'apogée de son succès,|en avait 50.
+{51862}{51913}Moi j'en ai 350.
+{51913}{52021}350 employés qui travaillent|dans un seul but.
+{52033}{52073}Faire des batteries de cuisine?
+{52076}{52150}Faire de l'argent... pour moi.
+{52316}{52383}Quelqu'un demande après moi?
+{52426}{52474}Chez nous?
+{52474}{52536}Tout le monde. Tout le temps.
+{52673}{52776}On n'oubliera pas de sitôt|le nom de Schindler ici.
+{52824}{52901}"Oskar Schindler" dira-t-on.
+{52903}{52951}Tout le monde se souvient de lui.
+{52999}{53080}Il a fait quelque chose|d'extraordinaire.
+{53112}{53172}Quelque chose que personne d'autre|n'a fait.
+{53231}{53291}Il est arrivé ici sans rien.
+{53303}{53368}Une valise.
+{53368}{53478}Il a fait d'une fabrique en faillite|une importante manufacture.
+{53522}{53594}Et il est reparti|avec une malle cabine.
+{53596}{53670}Deux malles cabines pleines d'argent.
+{53716}{53778}Toutes les richesses du monde.
+{53860}{53948}C'est réconfortant de voir|que rien n'a changé.
+{53951}{53996}Tu as tort Émilie.
+{54039}{54102}Je ne pouvais pas le savoir avant|mais...
+{54104}{54167}il y avait toujours quelque chose|qui manquait.
+{54179}{54267}Dans tout ce que j'ai tenté|ce n'est pas moi qui ai échoué.
+{54270}{54342}Quelque chose manquait.
+{54344}{54447}Même si j'avais su ce que c'était,|je n'aurais rien pu y faire.
+{54473}{54543}On ne peut pas créer cette chose.
+{54545}{54656}Et c'est elle qui fait la différence|dans le monde entre le succès et l'échec.
+{54692}{54737}La chance?
+{54788}{54836}La guerre.
+{55425}{55473}Tu veux que je reste?
+{55531}{55591}C'est une ville magnifique.
+{55634}{55706}Je te demande si tu veux que je reste.
+{55759}{55807}A toi de décider.
+{55922}{55998}Promets-moi qu'aucun portier|ni maître d'hôtel...
+{56001}{56089}ne pourra me prendre pour|une autre que madame Schindler...
+{56092}{56137}et je reste.
+{56214}{56260}Au revoir ma chérie!
+{56660}{56751}J'essaie de lire ça où je déjeune|tant que c'est chaud.
+{56768}{56809}On marche bien.
+{56814}{56852}Mieux que le mois dernier?
+{56854}{56945}- Pourquoi craindre le prochain?|- La guerre peut finir.
+{57214}{57240}Quoi d'autre?
+{57243}{57363}Un mécanicien veut vous remercier|de lui avoir donné du travail.
+{57365}{57461}Il vient ici tous les jours.
+{57847}{57921}Je veux vous remercier monsieur...
+{57921}{57986}de m'avoir donné l'occasion|de travailler.
+{57986}{58056}De rien. Je suis sûr|que vous faites un bon travail.
+{58058}{58106}Les SS m'ont battu.
+{58108}{58161}Ils m'auraient tué.
+{58161}{58245}Mais je suis essentiel|à l'effort de guerre.
+{58247}{58281}Grâce à vous.
+{58283}{58326}Formidable.
+{58326}{58386}Je travaille dur pour vous.
+{58389}{58413}J'en suis sûr.
+{58415}{58487}Je continuerai à trimer dur.
+{58499}{58533}C'est parfait. Merci.
+{58535}{58573}Dieu vous bénisse!
+{58576}{58595}D'accord.
+{58597}{58655}Vous êtes un homme bon.
+{58729}{58784}- Il m'a sauvé la vie.|- En effet.
+{58806}{58866}- Dieu le bénisse!|- Venez.
+{58928}{58974}Dieu vous bénisse!
+{59273}{59341}Désolé Herr Direktor,|mais vous êtes très en retard.
+{59343}{59420}Ceci est pour l'Obersturmbannführer...
+{59422}{59496}et ça pour sa nièce, Greta.
+{59496}{59564}A propos, ne me refaites jamais ça.
+{59566}{59624}Allez! Pas de salut!
+{59626}{59674}Vous n'aviez pas remarqué|qu'il était manchot.
+{59676}{59715}Ah oui?
+{59815}{59839}A quoi il sert?
+{59842}{59875}Il est très utile.
+{59947}{60010}- En quoi?|- Très utile. Bonne chance!
+{60844}{60889}On va être en retard au travail.
+{61196}{61259}<i>Ne les considérez pas comme "à vous"'</i>.
+{61261}{61316}Comprenez que bon nombre|d'officiers...
+{61319}{61386}n'ont rien à faire de la production.
+{61388}{61448}Pour eux c'est une question...
+{61451}{61534}de priorité nationale.|Les Juifs doivent déblayer la neige.
+{61534}{61602}<i>Ça n'a rien à voir avec la réalité.</i>
+{61604}{61659}<i>Vous le savez et je le sais.</i>
+{61662}{61731}<i>Les Juifs qui déblaient la neige,</i>|<i>ça a...</i>
+{61753}{61784}<i>un sens rituel.</i>
+{61865}{61896}Venez avec moi.
+{61899}{61947}Je suis un travailleur essentiel.
+{61949}{62007}Travailleur essentiel?
+{62084}{62131}Je travaille pour Oskar Schindler.
+{62131}{62208}Un travailleur essentiel|pour Oskar Schindler? Amusant!
+{62215}{62249}Deux fois plus inutile.
+{62275}{62347}J'ai perdu un jour de production Rolf.
+{62350}{62412}Je travaille pour Oskar Schindler.
+{62443}{62525}Danka, regarde la neige!|Regarde la neige!
+{62630}{62671}J'ai perdu un ouvrier.
+{62673}{62714}Je dois être indemnisé.
+{62716}{62774}Déposez une plainte|auprès du Service économique.
+{62776}{62824}- C'est votre droit.|- Ça servira à quelque chose?
+{62827}{62863}Bien sûr que non.
+{62932}{63031}Un ponte du Budget et de la|Construction nous a dit à déjeuner...
+{63033}{63103}"<i>croire que l'ouvrier juif...</i>
+{63105}{63172}<i>a sa place dans l'économie du Reich...</i>
+{63174}{63220}<i>est un acte de trahison. "</i>
+{63325}{63395}Un mécanicien manchot?
+{63429}{63481}Un opérateur sur presse à métaux.
+{63596}{63642}Très qualifié.
+{64400}{64426}Merde!
+{64426}{64455}Je ne peux pas le croire!
+{64455}{64515}Stern, c'est vous?
+{64517}{64565}Non, c'est Poldek.
+{64567}{64606}Au sujet de Stern.
+{64608}{64707}Laissez vos bagages sur le quai.
+{64709}{64764}Identifiez-les.
+{64766}{64855}D'abord le prénom, ensuite le nom.
+{64858}{64918}Ne gardez pas vos bagages avec vous.
+{64922}{64982}Ils vous rejoindront plus tard.
+{64997}{65076}Laissez vos bagages sur le quai.
+{65078}{65121}Identifiez-les.
+{65342}{65380}Il est sur la liste.
+{65383}{65419}Il y est.
+{65421}{65455}Bon, trouvons-le.
+{65457}{65517}Désolé. Vous ne pouvez pas|le récupérer. Il est sur la liste.
+{65517}{65553}Si c'était un travailleur essentiel...
+{65555}{65622}Je parle à un subalterne.|Quel est votre nom?
+{65625}{65670}La liste est correcte.
+{65673}{65742}Je ne parle pas de la liste.|Je vous demande votre nom.
+{65891}{65951}Ce monsieur pense|qu'il y a eu une erreur.
+{65951}{66016}Mon directeur d'usine|est dans ce train.
+{66018}{66064}S'il l'emmène|la production est arrêtée.
+{66066}{66116}L'Armement va vouloir|savoir pourquoi.
+{66155}{66212}Il est sur la liste?
+{66311}{66406}La liste est correcte monsieur.|Je ne peux rien faire pour vous.
+{66430}{66478}Quel est votre nom?
+{66498}{66545}Mon nom?
+{66548}{66593}Mon nom est Kunder.
+{66598}{66649}Hauptscharführer Kunder.
+{66651}{66680}Quel est le vôtre?
+{66682}{66735}Schindler. S.C.H.I.N.D.L.E.R.
+{66737}{66795}Messieurs je vous remercie.
+{66797}{66840}Je crois pouvoir vous garantir...
+{66843}{66917}que vous serez tous les deux|sur le front russe à la fin du mois.
+{66917}{66943}Au revoir.
+{67704}{67747}Mes excuses.
+{67749}{67775}Stoppez ce train!
+{67778}{67840}- Excusez-moi.|- Il est là.
+{67864}{67898}Stoppez ce train!
+{68233}{68298}Signez ici. Initiales ici.
+{68334}{68396}Pour nous ça ne change rien|vous savez.
+{68399}{68442}Celui-ci, celui-là!
+{68444}{68495}C'est l'inconvénient de la liste.
+{68495}{68526}La bureaucratie.
+{68583}{68679}J'ai essayé d'expliquer|que c'était une erreur.
+{68682}{68713}Désolé. C'est si stupide.
+{68715}{68782}Et si j'étais arrivé|cinq minutes plus tard?
+{68782}{68830}Où j'en serais?
+{71381}{71501}"'Ville juive'|Ghetto de Cracovie - Hiver 1942"
+{71513}{71580}Je me suis réveillé|en plein cauchemar ce matin.
+{71580}{71681}J'étais fauché et je partageais|ma chambre avec douze inconnus.
+{71684}{71741}Pour découvrir que j'étais fauché...
+{71744}{71835}et que je partageais ma chambre|avec douze inconnus.
+{71835}{71887}- Ça te fait rire?|- Il faut que je rie.
+{71890}{71955}Vous vivez derrière des murs.
+{71957}{72012}Les murs, je m'en arrange.
+{72014}{72077}Ce sont les restrictions à ma vie|que je ne supporte plus.
+{72079}{72151}Ces murs les éloignent.|C'est tout ce qui compte pour moi.
+{72151}{72187}Je me plais ici.
+{72187}{72230}Il y a une sorte...
+{72233}{72278}de misère ancestrale dans tout ça.
+{72281}{72333}- Tu es esclave.|- Plus personne ne nous envie.
+{72333}{72355}Je suis malin.
+{72357}{72412}Oui. Tu es un petit génie.
+{72415}{72439}Tu as eu ta chance.
+{72441}{72556}Aujourd'hui j'ai eu le temps|de réfléchir.
+{72556}{72628}Depuis quand je n'avais pas fait ça?
+{72631}{72674}Depuis quand on n'avait pas fait ça?
+{72676}{72731}Depuis quand on ne s'est pas réunis|pour discuter?
+{72734}{72813}Personne ne m'a fait monter|dans un camion.
+{72815}{72870}Personne ne m'a pris mon commerce.
+{72873}{72921}Tu n'as plus de commerce à prendre.
+{72923}{72981}On ne peut pas aller plus bas.
+{72983}{73038}Ça y est. On a touché le fond.
+{73041}{73077}Le ghetto, c'est...
+{73077}{73115}la liberté.
+{73283}{73350}Cette rue divise le ghetto en deux.
+{73374}{73443}Côté droit, le ghetto A.
+{73443}{73496}Employés civils...
+{73496}{73568}travailleurs industriels et le reste.
+{73568}{73640}Côté gauche, le ghetto B.
+{73642}{73693}Main-d'œuvre en trop.
+{73695}{73734}Les vieillards et les infirmes.
+{73755}{73815}Par où vous voulez commencer?
+{73817}{73868}Vous avez une question?
+{73868}{73940}Oui. Pourquoi la capote est relevée?|Je pèle de froid.
+{73997}{74060}On attend une main-d'œuvre|de 25000 à 30000 personnes.
+{74060}{74122}Séparées bien sûr.|"Camp de travail de Plaszow|en construction"
+{74124}{74184}Les hommes près de la carrière.|Les femmes derrière le barbelé.
+{74184}{74215}Mes quartiers sont où?
+{74218}{74256}Là.
+{74261}{74283}Oui, la villa.
+{74283}{74321}Vous appelez ça une villa?
+{74323}{74357}La synagogue...
+{74359}{74417}- Ce n'est pas une villa.|- On la transforme en écurie.
+{74419}{74448}Rien qu'une maison.
+{74467}{74515}C'est quoi ça là-bas?
+{74563}{74628}Le jardin d'enfants. Au 51.
+{74630}{74697}Nous avons un dentiste,|un cordonnier...
+{74697}{74736}des médecins traitants.
+{74800}{74846}Les voilà.
+{74971}{75043}L'une de vous a beaucoup de chance.
+{75067}{75153}Il y a une offre d'emploi...
+{75155}{75196}loin de tous ces...
+{75199}{75244}travaux éreintants...
+{75246}{75297}à ma nouvelle villa.
+{75424}{75510}Qui parmi vous|a une expérience domestique?
+{75597}{75692}Tout bien réfléchi je ne veux pas|de la bonne d'un autre.
+{75692}{75762}Toutes ces habitudes gênantes|à faire perdre!
+{75896}{75949}Je ne veux pas vous passer|mon rhume.
+{75968}{76016}Quel est votre nom?
+{76117}{76165}Je n'entends rien.
+{76678}{76723}Au travail!
+{76731}{76783}Démontez-la. Elle n'est pas sûre!
+{76786}{76819}Démontez-la!
+{76822}{76898}Elle dit que les fondations sont|mal faites. Démontez la charpente.
+{76901}{76973}J'ai dit que ce sont des baraques|pas un hôtel de luxe!
+{76973}{77033}Putain de salope d'ingénieur juive!
+{77035}{77076}Putain de salope!
+{77136}{77205}La charpente doit être démontée...
+{77205}{77248}les fondations recoulées.
+{77248}{77340}Sinon il y aura un affaissement...
+{77342}{77395}à la façade sud du baraquement.
+{77397}{77459}Affaissement et puis écroulement.
+{77462}{77527}Vous êtes ingénieur?
+{77529}{77567}Je m'appelle Diana Reiter.
+{77570}{77649}Ingénieur des travaux publics|diplômée de l'Université de Milan.
+{77651}{77692}Une Juive cultivée!
+{77694}{77742}Comme Karl Marx.
+{78025}{78071}Tuez-la.
+{78126}{78224}J'essaie juste de faire mon travail.
+{78227}{78265}Et je fais le mien.
+{78265}{78325}C'est le contremaître du chantier.
+{78327}{78390}On ne discute pas avec ces gens-là.
+{78474}{78546}Non. Tuez-la ici|sous mon autorité.
+{78826}{78876}Il faudra plus que cela.
+{78879}{78920}Vous avez raison.
+{79099}{79176}Démolissez. Recoulez. Rebâtissez!
+{79179}{79222}Comme elle l'a dit.
+{79224}{79308}On a encore beaucoup à voir.|Mais la nuit tombe dans une heure.
+{79586}{79636}<i>Ce jour est historique.</i>
+{79677}{79747}<i>Ce jour restera dans les mémoires.</i>
+{79785}{79840}Dans des années...
+{79843}{79898}la jeunesse demandera avec admiration...
+{79900}{79951}qu'on lui raconte ce jour.
+{79967}{80051}Ce jour est historique|et vous y participez.
+{80094}{80154}Il y a 600 ans...
+{80157}{80245}<i>quand on les tenait responsables</i>|<i>de la mort noire...</i>
+{80248}{80286}<i>Casimir le Grand...</i>
+{80289}{80341}<i>ainsi nommé...</i>
+{80344}{80394}<i>dit aux Juifs</i>|<i>qu'ils pouvaient revenir...</i>
+{80397}{80440}<i>à Cracovie.</i>
+{80442}{80490}<i>Ils sont venus.</i>
+{80492}{80581}<i>Ils ont transporté leurs biens</i>|<i>dans cette ville.</i>
+{80584}{80600}<i>Ils s'y sont installés.</i>
+{80634}{80679}<i>Ils s'en sont emparés.</i>
+{80696}{80747}<i>Ils y ont prospéré.</i>
+{80747}{80775}<i>Dans le commerce...</i>
+{80778}{80843}<i>les sciences, l'éducation, les arts.</i>
+{80866}{80917}<i>Ils sont arrivés sans rien.</i>
+{80960}{80982}<i>Rien.</i>
+{81020}{81065}<i>Et ils ont prospéré.</i>
+{81089}{81166}<i>Pendant six siècles il y a eu...</i>
+{81169}{81214}<i>une Cracovie juive.</i>
+{81238}{81296}<i>Réfléchissez-y.</i>
+{81296}{81346}<i>A partir de ce soir...</i>
+{81346}{81392}<i>ces six siècles...</i>
+{81394}{81444}<i>ne sont qu'une rumeur.</i>
+{81471}{81519}Ils n'ont jamais eu lieu.
+{81555}{81603}Ce jour est historique.
+{81931}{82053}"Liquidation du ghetto|le 13 mars 1943"
+{82363}{82435}Nous allons commencer|par le ghetto B.
+{82662}{82693}D'accord?
+{82696}{82720}Des deux côtés?
+{82722}{82770}Non. Vous commencez par là.
+{82773}{82799}Le côté droit.
+{82801}{82833}Vous revenez par-là.
+{86029}{86120}Petit garçon.|Comment tu t'appelles?
+{86980}{87050}On va passer par les égouts.|Je vais voir si la voie est libre.
+{87086}{87127}Fais un petit bagage.
+{87129}{87189}Je ne peux pas aller dans les égouts.|Je ne veux pas.
+{87306}{87354}Tu y arriveras.
+{87354}{87390}Tu y arriveras.
+{87443}{87486}Je n'irai pas dans les égouts.
+{87767}{87796}Avancez!
+{87798}{87829}Par là! Allez!
+{87860}{87908}Ta carte Juif!.
+{88076}{88124}Cette file!
+{91090}{91167}Elle est presque morte.|Laissez-la.
+{91167}{91239}Un moment. Laissez-moi l'emmener|à l'intérieur.
+{91375}{91428}Tu peux la rejoindre...
+{91430}{91476}ou aller dans ta file.
+{91581}{91632}Les femmes à gauche!
+{91634}{91706}Les hommes à droite!|Les femmes à gauche!
+{91709}{91771}Lâchez-moi!|Je veux rester avec mon mari.
+{91900}{91939}Les femmes à gauche!
+{91941}{91977}Les hommes à droite!

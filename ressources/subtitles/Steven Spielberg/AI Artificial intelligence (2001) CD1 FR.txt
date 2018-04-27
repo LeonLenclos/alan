@@ -1,0 +1,570 @@
+{1281}{1358}INTELLIGENCE ARTIFICIELLE
+{1695}{1758}C'était après la fonte|des calottes glaciaires...
+{1765}{1815}due aux gaz à effet de serre.
+{1829}{1894}Les océans avaient recouvert|tant de villes...
+{1902}{1955}le long des côtes du monde.
+{1965}{2054}Amsterdam, Venise, New York...
+{2070}{2111}perdues à jamais.
+{2120}{2182}Des millions de personnes déplacées.
+{2188}{2245}Un bouleversement climatique.
+{2259}{2341}Des millions de gens affamés|dans les pays pauvres.
+{2347}{2458}Ailleurs, une grande prospérité|subsista dans les pays développés...
+{2465}{2539}grâce à une stricte législation|des grossesses.
+{2558}{2639}C'est pourquoi les robots,|jamais affamés...
+{2648}{2729}ne consommant de ressources|que pour leur fabrication...
+{2736}{2820}constituèrent un maillon économique essentiel...
+{2828}{2888}de la chaîne sociale.
+{2910}{2950}Créer un être artificiel. . .
+{2956}{3028}est le rêve de l'homme|depuis que la science existe.
+{3068}{3113}Ça ne date pas de l'ère moderne. . .
+{3120}{3202}quand le monde s'étonna|à la vue de machines pensantes. . .
+{3210}{3268}des monstres primitifs|joueurs d'échecs.
+{3275}{3318}Quel chemin nous avons fait depuis.
+{3365}{3475}L'être artificiel est une réalité,|un parfait simulacre. . .
+{3495}{3550}aux membres articulés. . .
+{3555}{3608}au langage articulé. . .
+{3628}{3695}et non dépourvu|de réactions humaines.
+{3823}{3892}Voire de mémorisation de la douleur.
+{4015}{4059}Qu'est-ce que vous avez ressenti ?
+{4066}{4110}De la colère ? Un choc ?
+{4113}{4199}- Je ne comprends pas.|- J'ai blessé vos sentiments ?
+{4220}{4256}Vous avez blessé ma main.
+{4372}{4418}"Là est l'embarras. "
+{4440}{4476}Déshabillez-vous.
+{4487}{4530}Chez Cybertronics, New Jersey. . .
+{4535}{4607}l'être artificiel a atteint|sa forme la plus élevée.
+{4612}{4658}Le Méca,|adopté dans le monde entier. . .
+{4665}{4742}base de centaines de modèles|au service de l'humanité. . .
+{4750}{4808}dans tous les aspects|de la vie quotidienne.
+{4824}{4858}C'est bon, arrêtez.
+{4862}{4946}Mais nous n'avons aucune raison|de nous féliciter.
+{4966}{5052}Nous en sommes fiers à juste titre.
+{5065}{5121}Mais à quoi ça se résume ?
+{5139}{5163}Sheila, ouvrez.
+{5635}{5688}Un jouet sensoriel. . .
+{5699}{5767}doté de circuits|comportementaux intelligents. . .
+{5785}{5857}utilisant une technique|de séquençage des neurones. . .
+{5863}{5933}aussi vieille que moi.
+{5970}{6054}Je crois que ma cartographie|des impulsions nerveuses. . .
+{6066}{6097}à l'intérieur d'un neurone. . .
+{6102}{6158}nous permettra de construire. . .
+{6174}{6260}un Méca d'une autre classe|sur le plan qualitatif.
+{6296}{6339}Je propose. . .
+{6358}{6408}que nous construisions un robot. . .
+{6453}{6484}capable d'aimer.
+{6554}{6648}On livre des milliers|de robots d'amour tous les mois.
+{6654}{6748}Et tu es toi-méme|ton meilleur client Syatyoo-Sama.
+{6762}{6827}Le contrôle de qualité ça compte.
+{7119}{7150}Dites-moi.
+{7175}{7201}Qu'est-ce que l'amour ?
+{7212}{7260}D'abord, agrandir mes yeux. . .
+{7267}{7351}respirer plus vite,|réchauffer ma peau, le contact. . .
+{7359}{7424}Et ainsi de suite, exactement.|Merci Sheila.
+{7462}{7536}Je ne parlais pas|des sensuo-simulateurs.
+{7545}{7600}J'ai employé le mot "amour" .
+{7617}{7677}Pareil à l'amour d'un enfant|pour ses parents.
+{7683}{7733}Je parle de construire. . .
+{7740}{7788}un enfant-robot capable d'aimer. . .
+{7792}{7903}qui aimera vraiment|les parents imprimés en lui. . .
+{7912}{7956}d'un amour qui ne finira jamais.
+{7963}{8009}Un substitut d'enfant-Méca ?
+{8012}{8103}Mais un Méca doté d'un esprit,|d'un feedback neuronal.
+{8110}{8163}Je suggère que l'amour. . .
+{8168}{8276}soit pour lui la clé d'une forme|d'inconscient inconnue à ce jour.
+{8283}{8391}Un monde de métaphores, d'intuitions,|de raisonnement autonome.
+{8410}{8434}De rêves.
+{8440}{8486}Un robot qui rêve ?
+{8491}{8546}Et comment on va goupiller ça ?
+{8556}{8608}Ça me fait penser. . .
+{8618}{8714}avec l'hostilité ambiante|envers les Mécas. . .
+{8723}{8805}le tout n'est pas de créer|un robot capable d'aimer.
+{8813}{8916}Le vrai casse-tête n'est-il pas :|peut-on amener un humain à l'aimer ?
+{8925}{8954}Notre enfant sera parfait. . .
+{8961}{9038}un arrêt sur image :|toujours aimant, jamais malade.
+{9042}{9131}Tant de couples attendent en vain|un permis de grossesse. . .
+{9137}{9250}que notre Méca répondra à un nouveau|marché et à un besoin humain.
+{9264}{9324}Vous ne m'avez pas répondu.
+{9332}{9423}Si un robot peut réellement|aimer une personne. . .
+{9435}{9535}quelle est la responsabilité|de celle-ci envers le Méca ?
+{9620}{9651}Question morale, non ?
+{9663}{9703}La plus ancienne de toutes.
+{9709}{9798}Mais Dieu n'a-t-il pas créé Adam|pour être aimé de lui ?
+{10313}{10378}VINGT MOIS PLUS TARD
+{11972}{12044}"Le bébé naquit|aux premières feuilles d'automne.
+{12060}{12094}Un petit garçon.
+{12099}{12150}Et le vœu de Marian fut exaucé.
+{12155}{12208}Le garçon avait les cheveux blancs.
+{12212}{12301}Il fut baptisé Martin,|comme son grand-père. "
+{12498}{12534}Dr Frazier. . .
+{12557}{12658}J'ai lu un article|dans le Journal de médecine chinoise.
+{12665}{12756}A propos de détecteurs de virus,|de micro-chasseurs synthétiques.
+{12765}{12804}Je vous entends.
+{12913}{12956}Je m'inquiète pour elle Henry.
+{12983}{13083}Elle sent qu'elle devrait|faire le deuil de votre fils.
+{13090}{13167}Au bout de cinq ans,|votre instinct vous y pousse aussi.
+{13173}{13230}Selon la médecine,|l'heure n'est pas au deuil.
+{13235}{13278}Martin est juste en attente.
+{13376}{13453}Et tout son chagrin|continue de peser sur elle.
+{13526}{13593}Si notre science|ne peut rien pour votre fils. . .
+{13601}{13658}elle peut aider votre femme.
+{13926}{13978}La sélection a été très dure. . .
+{13982}{14027}plus que la construction du modèle.
+{14034}{14135}Sur nos 2000 employés, très peu|répondaient aux conditions requises.
+{14173}{14231}Dossier professionnel, style de vie.
+{14280}{14309}Données internes.
+{14312}{14353}Fidélité à l'entreprise. . .
+{14360}{14434}et, dans le cas de ce sujet. . .
+{14440}{14521}une tragédie familiale|qui lui donne l'avantage.
+{14640}{14669}Je vais le recevoir.
+{14800}{14884}- Ne me tue pas.|- Henry, qu'est-ce que tu fais ?
+{14920}{14951}Je t'aime.
+{14955}{14991}Ne me tue pas.
+{15067}{15108}La porte est fermée.
+{16036}{16082}J'aime votre plancher.
+{16349}{16400}Je ne peux pas accepter ça !
+{16407}{16458}Rien ne remplace son propre enfant !
+{16465}{16532}Tu n'as pas à l'accepter.|On peut le rapporter.
+{16540}{16571}Qu'est-ce que tu croyais ?
+{16577}{16658}- Je ferai ce que tu voudras !|- Tu crois que je peux. . .
+{16685}{16730}Je ferai ce que tu voudras !
+{16737}{16787}Je ne sais pas quoi faire.
+{16805}{16925}Je sais. Je le rendrai à Cybertronics|dès demain matin. Terminé.
+{17060}{17123}Henry, tu as vu son visage ?
+{17163}{17203}Il est tellement réel.
+{17266}{17292}Mais il ne l'est pas.
+{17335}{17376}Dedans, il est comme les autres ?
+{17391}{17443}100 miles de fibre optique.
+{17516}{17597}Mais extérieurement|il a l'air si réel. . .
+{17650}{17705}on dirait un enfant.
+{17740}{17784}Un enfant-Méca.
+{17946}{17987}Un enfant.
+{18811}{18873}La foi que l'entreprise|a placée en moi, en nous. . .
+{18880}{18908}est extraordinaire.
+{18914}{19020}Il y a une procédure simple|si tu décides de garder David.
+{19031}{19143}Un protocole d'empreinte parentale,|une chaîne précise de sept mots. . .
+{19151}{19230}qu'il faut lui dire|dans l'ordre indiqué ici.
+{19234}{19287}Pour notre protection. . .
+{19295}{19340}le processus est irréversible.
+{19347}{19445}L'amour de l'enfant-robot est scellé,|ineffaçable, en lui à jamais.
+{19454}{19545}Et après empreinte,|un enfant-Méca ne peut pas être revendu.
+{19555}{19608}Si un parent adoptif|ne garde pas l'enfant. . .
+{19616}{19683}il le rend à Cybertronics|pour destruction.
+{19695}{19789}J'ai dû signer un accord|ou on ne te laissait pas voir David.
+{19794}{19847}Tu dois signer aussi, là.
+{19914}{20001}Ne programme pas|tant que tu n'es pas sûre.
+{20020}{20058}Tu es bête.
+{20063}{20120}Evidemment je ne suis pas sûre.
+{20780}{20833}Vous voulez que je dorme maintenant ?
+{20865}{20909}Bonne idée.
+{20988}{21041}Il est tard. Neuf heures passées.
+{21076}{21143}On te laisse veiller tard ?
+{21150}{21195}Je ne m'endors jamais.
+{21202}{21279}Mais je peux rester couché|sans un bruit.
+{21290}{21376}Ce pyjama t'ira bien.|On viendra te voir dès le réveil.
+{21385}{21424}Tu me mets le pyjama ?
+{21436}{21480}Je vous dis bonne nuit. . .
+{21487}{21526}vous êtes de grands garçons !
+{25447}{25476}C'est un jeu ?
+{25530}{25564}Cache-cache.
+{25596}{25629}Je t'ai trouvé.
+{25691}{25724}Voilà ta chambre.
+{25733}{25761}Va jouer.
+{26305}{26331}Je t'ai trouvée.
+{26337}{26378}Va-t'en !
+{26402}{26460}Et ferme cette fichue porte !
+{31215}{31255}Ce programme, une fois activé. . .
+{31262}{31305}est permanent et inaltérable.
+{31449}{31487}Protocole d'empreinte
+{31495}{31553}Dites ces mots|clairement et dans l'ordre.
+{31972}{32006}C'est un jeu ?
+{32028}{32081}Je vais lire quelques mots.
+{32123}{32209}Ils ne te diront rien|mais je veux que tu écoutes.
+{32250}{32293}Ne me quitte pas des yeux.
+{32305}{32346}Tu peux faire ça ?
+{32535}{32606}Tu sens ma main sur ta nuque ?
+{32668}{32708}Est-ce que ça fait mal ?
+{32798}{32832}Regarde-moi.
+{32858}{32891}Prêt ?
+{32978}{33016}Cirrus.
+{33078}{33119}Socrate.
+{33173}{33211}Particule.
+{33257}{33296}Décibel.
+{33355}{33391}Ouragan.
+{33405}{33434}Dauphin.
+{33492}{33521}Tulipe.
+{33595}{33631}Monica.
+{33680}{33713}David.
+{33750}{33783}Monica.
+{34153}{34201}Je me demande si je l'ai bien fait.
+{34285}{34321}C'était pour quoi maman ?
+{34450}{34486}Comment tu m'as appelée ?
+{34630}{34678}Je suis qui David ?
+{34788}{34831}Tu es ma maman.
+{35375}{35418}Tu sens très bon.
+{35428}{35466}J'aime quand tu mets ce parfum.
+{35470}{35525}Tu m'aimeras|quand je n'en aurai plus ?
+{35563}{35654}On peut se remarier et recommencer|avec un parfum moins rare.
+{35662}{35708}Viens, on est en retard.
+{35850}{35905}Tu nous accompagnes à la porte ?
+{35966}{36005}Ma chaussure !
+{36145}{36169}Ton nœud pap !
+{36174}{36210}- Je suis incapable.|- Tu es lamentable.
+{36214}{36288}- Il a fait notre lit.|- Il se donne tant de mal. . .
+{36297}{36371}pour me plaire.|Il fait si bien mon café.
+{36380}{36450}C'est effrayant.|On ne l'entend pas venir, il est là.
+{36455}{36493}Ce n'est qu'un enfant.
+{36500}{36546}Monica, c'est un jouet.
+{36563}{36606}C'est un cadeau.
+{36623}{36661}De toi.
+{36727}{36785}A notre départ,|la domotique ferme tout. . .
+{36793}{36862}et tu ne pourras plus|sortir de ta chambre.
+{36870}{36904}J'en ai trop mis ?
+{36908}{36958}Je sens très bon ?
+{37422}{37470}Est-ce que tu vas mourir ?
+{37588}{37648}Un jour, oui, je vais mourir.
+{37762}{37808}Je serai tout seul.
+{37828}{37876}Ne te tracasse pas comme ça.
+{38127}{38173}Combien de temps tu vas vivre ?
+{38214}{38255}Très, très longtemps.
+{38282}{38332}Cinquante ans.
+{38358}{38418}Je t'aime maman.
+{38448}{38505}J'espère que tu ne mourras jamais.
+{38730}{38831}On va avoir un tel retard|que ça n'aura plus rien de branché.
+{39448}{39508}Il était à Martin, mon fils.
+{40185}{40228}Il s'appelle Teddy.
+{40233}{40290}Teddy, voici David.
+{40415}{40456}Teddy est un superjouet. . .
+{40463}{40531}et je sais|que vous vous entendrez bien.
+{40534}{40601}Je ne suis pas un jouet.
+{40710}{40741}Qu'est-ce que tu faisais ?
+{40747}{40795}Je te le dirai dans la voiture.
+{41050}{41127}Cinquante ans, ça fait longtemps ?
+{41220}{41249}Je ne crois pas.
+{41282}{41335}David, je réponds !
+{41590}{41640}Regarde ce que je sais faire.
+{41915}{41959}Mme Swinton, ne quittez pas.
+{41962}{42003}Un appel urgent de votre mari.
+{42052}{42083}J'ai besoin du téléphone.
+{42140}{42169}Monica, tu m'entends ?
+{42175}{42213}Laisse parler le téléphone.
+{42226}{42254}Décroche Monica.
+{42267}{42301}Va jouer avec Teddy.
+{42378}{42426}Henry, qu'est-ce qui se passe ?
+{42530}{42564}Quand ?
+{43120}{43197}Il est arrivé la chose|la plus merveilleuse du monde.
+{43282}{43323}Voici Martin.
+{43350}{43395}Mon fils.
+{43910}{43991}On fait un concours pour voir|vers qui il vient d'abord.
+{44125}{44173}Viens ici Teddy.
+{44265}{44304}Appelle-le aussi.
+{44916}{44971}Ils te torturent Teddy ?
+{44988}{45053}Avant c'était un superjouet, mais. . .
+{45061}{45125}maintenant il est vieux et idiot.
+{45177}{45204}Tu le veux ?
+{45300}{45386}Alors c'est toi le nouveau superjouet.|Tu sais faire quoi ?
+{45407}{45493}Tu fais des trucs déments,|genre marcher au plafond ?
+{45514}{45567}Antigravité, flotter en l'air. . .
+{45575}{45603}ou voler ?
+{45609}{45638}Toi tu fais ça ?
+{45650}{45727}Non, parce que je suis réel.
+{45930}{45959}Tu peux le casser ?
+{45991}{46017}Vaut mieux pas.
+{46027}{46102}Ces trucs sont mieux en morceaux.
+{46130}{46154}Je ne peux pas.
+{46280}{46318}Lève-toi.
+{46483}{46548}Ils t'ont fait plus grand que moi !
+{46570}{46627}- Qui ?|- Les fabricants de poupées.
+{46634}{46677}Ils t'ont fait plus grand.
+{46796}{46829}Pourquoi t'en as pas l'air ?
+{46916}{46968}T'es pas mignon comme une poupée.
+{46986}{47053}T'as juste l'air|d'un gosse ordinaire.
+{47113}{47154}C'est quand ton anniversaire ?
+{47182}{47218}Je n'en ai jamais eu.
+{47231}{47324}T'as été construit quand ?|Ton fabriversaire ?
+{47383}{47429}Je ne me rappelle pas.
+{47497}{47579}Le premier truc que tu te rappelles|c'est quoi ?
+{47671}{47695}Un oiseau.
+{47710}{47748}Quel genre ?
+{47812}{47870}Un oiseau avec de grandes ailes. . .
+{47895}{47950}et des plumes dressées derrière.
+{47969}{48003}Tu peux le dessiner ?
+{48533}{48571}On dirait un paon.
+{48590}{48633}Tu sais dire paon ?
+{48678}{48719}Tu sais dire pi ?
+{48747}{48797}Dis-le deux fois très vite.
+{49060}{49156}Après tu mets les verts. . .
+{49165}{49198}Tu nous fais la lecture ?
+{49531}{49576}David va adorer.
+{49640}{49707}"Dès la fin du spectacle,|le forain gagna la cuisine. . .
+{49715}{49770}où, en vue de son dîner,|un mouton entier. . .
+{49776}{49847}tournait lentement sur la broche.
+{49855}{49920}Voyant qu'il manquait de bois|pour le feu. . .
+{49928}{49961}il appela Arlequin. . .
+{49970}{50003}et Polichinelle et dit :
+{50011}{50097}"Amenez-moi Pinocchio.|Vous le trouverez pendu à un clou.
+{50106}{50209}Il est en bon bois sec, il fera|une belle flambée pour mon rôti. "
+{50228}{50273}Pinocchio travailla jusqu'à minuit.
+{50279}{50384}Au lieu de faire huit paniers,|il en fit seize.
+{50425}{50504}Puis il alla se coucher et s'endormit.
+{50517}{50627}Dans son sommeil il vit la Fée,|belle et souriante. . .
+{50650}{50698}qui l'embrassa et dit :
+{50709}{50750}"Brave Pinocchio. . .
+{50767}{50813}pour ton bon cœur. . .
+{50820}{50887}je te pardonne|toutes tes bêtises passées.
+{50899}{50974}Sois bon à l'avenir|et tu seras heureux. "
+{51010}{51115}Alors le rêve prit fin, et Pinocchio|se réveilla, émerveillé.
+{51137}{51216}Imaginez son étonnement|lorsqu'il vit. . .
+{51225}{51323}qu'il n'était plus un pantin|mais un vrai petit garçon. . .
+{51340}{51396}comme les autres petits garçons. "
+{51535}{51598}Josephine a pris|un congé exceptionnel.
+{51651}{51692}Je le sentais venir.
+{51697}{51731}Je ne vois pas comment.
+{51753}{51794}Elle souffrait !
+{51825}{51858}Il n'en a jamais parlé.
+{52350}{52379}Tu vas te casser !
+{52775}{52808}Il peut manger ?
+{52829}{52858}Je ne suis pas sûre.
+{52870}{52903}Ne fais pas ça.
+{52934}{52958}Où est le manuel ?
+{52961}{53007}Martin, pose ta fourchette.
+{53061}{53124}Martin, arrête de le provoquer.
+{53860}{53911}De la salive dans les microcomposants.
+{53920}{53951}Ça sent l'ail !
+{53954}{54007}Ça mériterait un bonbon à la menthe.
+{54024}{54082}- Tu repères la zone de service ?|- Touche pas !
+{54133}{54176}Un vrai marécage là-dedans.
+{54179}{54220}Tu t'es bien cochonné.
+{54336}{54401}Les épinards|c'est pour les lapins et Popeye.
+{54433}{54467}Pas pour les enfants-robots.
+{54477}{54521}Essaie de passer.
+{54561}{54609}Par le coffre, les parties basses.
+{54625}{54663}Tout va bien maman.
+{54672}{54711}Ça ne fait pas mal.
+{55224}{55272}Il y en a encore.
+{55352}{55440}Si tu fais quelque chose|de vraiment spécial pour moi. . .
+{55492}{55545}une mission spéciale. . .
+{55564}{55617}j'irai dire à maman. . .
+{55632}{55668}que je t'aime.
+{55694}{55754}Alors elle t'aimera aussi.
+{55834}{55878}Qu'est-ce que je dois faire ?
+{55900}{55976}Promets-moi|et je te le dirai après.
+{56000}{56028}Dis-le-moi. . .
+{56050}{56095}et je promettrai après.
+{56154}{56221}Je veux une mèche|des cheveux de maman.
+{56242}{56281}Je la partagerai avec toi.
+{56285}{56347}Si tu l'avais et si tu la portais. . .
+{56369}{56417}elle t'aimerait peut-être|encore plus.
+{56443}{56496}Comme la princesse|dans le film qu'on a vu.
+{56500}{56586}Quand elle a eu des cheveux du prince|dans son pendentif. . .
+{56602}{56643}il a été amoureux d'elle.
+{56670}{56699}On a qu'à lui demander.
+{56707}{56796}Non, il faut que ce soit|une mission secrète.
+{56818}{56914}Glisse-toi dans la chambre de maman|en pleine nuit. . .
+{56940}{56998}et coupe-la.
+{57126}{57169}Je ne peux pas Martin.
+{57180}{57216}Je n'ai pas le droit.
+{57243}{57279}Tu as promis.
+{57285}{57367}Tu as dit "Dis-le-moi|et je promettrai après. "
+{57398}{57431}Pas vrai ?
+{59154}{59186}Pourquoi tu as fait ça ?
+{59303}{59339}Tu lui fais mal !
+{59380}{59404}Tu vas le casser !
+{59475}{59504}Henry. . .
+{59520}{59571}je voulais que maman m'aime. . .
+{59593}{59624}encore plus.
+{59695}{59731}Je suis blessée à l'œil.
+{59738}{59762}Ça saigne.
+{59949}{60030}C'est. . . normal pour des petits|garçons d'être jaloux.
+{60037}{60082}Martin n'est là que depuis un mois. . .
+{60088}{60152}c'est normal pour des frères|de se défier.
+{60169}{60226}Il jouait, il a fait une erreur.
+{60232}{60297}- Il est presque humain.|- Pas avec un couteau.
+{60305}{60329}Des ciseaux.
+{60332}{60363}C'était une arme.
+{60370}{60418}Pourquoi crois-tu|qu'il m'attaquait ?
+{60424}{60470}Vu qu'on n'a pas la réponse. . .
+{60477}{60556}vaut-il le risque pour toi,|Martin ou notre famille ?
+{60574}{60641}Je t'interdis de le rendre.|Il finirait comme tu as dit.
+{60650}{60677}Réfléchis.
+{60699}{60805}Si on l'a créé pour aimer,|on peut penser qu'il sait aussi haïr.
+{60826}{60908}Poussé à bout, de quoi est-il capable ?
+{61365}{61408}Joyeux anniversaire Martin.
+{61450}{61484}J'ai fait ça pour toi.
+{61585}{61633}C'est lui ? C'est ton petit frère ?
+{61641}{61684}Pas au sens strict.
+{61775}{61811}C'est un Méca.
+{61814}{61841}C'est quoi Méca ?
+{61848}{61944}On est organiques.|Toi tu es mécanique.
+{61963}{62008}Orga, Méca.
+{62090}{62129}Todd, arrête !
+{62133}{62174}On fabrique même des gamins ?
+{62181}{62262}- Tu peux faire pipi ?|- Je ne peux pas.
+{62267}{62318}Voyons avec quoi tu fais pas pipi.
+{62405}{62444}Touche.
+{62464}{62497}Il est trop réel.
+{62504}{62538}Bonjour l'angoisse.
+{62595}{62628}Mécaréel.
+{62692}{62728}Il a le DAS ?
+{62732}{62783}- Quel DAS ?|- Das ist gut !
+{62794}{62866}Dispositif anti-sinistres.
+{62877}{62921}C'est une alarme anti-douleur.
+{62926}{62967}Notre valet en a un.
+{62975}{63042}Pour éviter qu'il touche au feu|à mains nues.
+{63082}{63125}Regardez ça.
+{63181}{63253}Je vais pas te couper.|Ça va pas te faire mal.
+{63259}{63341}Je vais pas t'entamer la peau.|Dis-moi quand tu sens.
+{63447}{63493}Protège-moi Martin.
+{63545}{63569}Lâche-moi !
+{63807}{63853}Protège-moi.
+{64533}{64581}Il ne respire pas !
+{64761}{64792}Respire !
+{64797}{64838}Crache ! C'est bien !
+{65831}{65896}Je dois te parler une minute.
+{66783}{66847}Teddy m'aide à écrire|je vous aime toi et Teddy
+{66956}{67042}Je vous aime toi et Henry|et le soleil brille
+{67190}{67267}Je suis vraiment notre fils|je déteste Teddy, il est pas réel
+{67342}{67416}Je suis ton petit garçon|et Martin aussi mais pas Teddy
+{67517}{67561}C'est très beau.
+{68007}{68110}On pourrait aller faire un tour|à la campagne demain.
+{68119}{68174}Toi et moi. Qu'est-ce que tu en dis ?
+{68193}{68248}- Et Teddy ?|- Teddy aussi.
+{68510}{68563}Merci beaucoup.
+{68765}{68830}Demain c'est rien que pour nous.
+{69215}{69251}Où on va ?
+{69320}{69358}Dans un endroit joli ?
+{69515}{69566}Ce sont des larmes de bonheur ?
+{69666}{69714}Qu'est-ce qu'on a pour dîner ?
+{69750}{69797}Tu sais bien que tu ne manges pas.
+{69890}{69940}Mais j'aime être à table.
+{71520}{71549}David, je veux. . .
+{71597}{71626}Ecoute-moi !
+{71915}{71972}Tu ne vas pas comprendre|les raisons, mais. . .
+{71980}{72047}je dois te laisser ici.
+{72077}{72115}C'est un jeu ?
+{72217}{72270}Tu viendras me rechercher quand ?
+{72290}{72371}Je ne reviendrai pas.|Tu vas devoir rester seul ici.
+{72417}{72450}Tout seul ?
+{72507}{72543}Avec Teddy.
+{72872}{72944}- Non maman, je t'en supplie !|- Ils te détruiraient.
+{72967}{73034}Pardon de m'être cassé|et pour tes cheveux. . .
+{73042}{73105}et de t'avoir fait mal,|et à Martin, et à Henry. . .
+{73110}{73139}Je dois m'en aller !
+{73149}{73178}Arrête !
+{73372}{73458}Si je deviens un vrai garçon,|comme Pinocchio, je pourrai rentrer ?
+{73464}{73532}- C'est une histoire.|- Une histoire dit ce qui se passe.
+{73548}{73615}Ce n'est pas réel ! Tu n'es pas réel !
+{73775}{73799}Ecoute.
+{73851}{73887}Prends ca.
+{73897}{73943}Ne montre pas combien il y a.
+{73967}{74013}Ne va pas de ce côté.
+{74020}{74075}Regarde-moi !|Va n'importe où mais pas par là.
+{74085}{74138}Ne les laisse pas t'attraper !
+{74163}{74254}Evite les foires à la chair,|évite les foules.
+{74260}{74337}Evite les gens.|Seuls les Mécas sont sans danger.
+{74365}{74398}Pourquoi tu me laisses ?
+{74462}{74548}Pardon de ne pas être réel.|Je veux être si réel pour toi !
+{74620}{74656}Lâche-moi !
+{74767}{74836}Pardon de ne pas t'avoir|expliqué le monde !
+{75515}{75556}J'ai peur.
+{75564}{75612}- De moi ?|- Oui.
+{75623}{75663}Peur que je te fasse mal ?
+{75755}{75788}Je crois. . .
+{75809}{75865}que tu as peur de te laisser aller.
+{75902}{75967}Je crois que tu as peur du bonheur.
+{76010}{76073}Et ça commence à m'exciter.
+{76105}{76170}As-tu peur de voir les étoiles. . .
+{76190}{76219}Patricia ?
+{76242}{76304}Je peux te montrer|comment les atteindre.
+{76344}{76407}J'ai peur de ce que tu as là-dessous.
+{76469}{76529}Je peux le voir d'abord ?
+{76582}{76628}C'est ta première fois ?
+{76645}{76691}Avec quelque chose comme moi ?
+{76728}{76786}Je n'ai jamais été avec un Méca.
+{76793}{76833}On est deux.
+{76970}{77018}J'ai peur que ça fasse mal.
+{77112}{77167}Quand tu auras connu|un robot d'amour. . .
+{77227}{77282}tu ne voudras plus d'homme réel.
+{77297}{77326}Plus jamais.
+{77459}{77516}Ce sont les blessures de la passion ?
+{77825}{77868}Tu entends cette musique ?
+{78051}{78075}Tu. . .
+{78100}{78140}es une déesse. . .
+{78167}{78196}Patricia.
+{78265}{78332}Tu fais monter des choses en moi.
+{78360}{78463}Mais tu mérites beaucoup mieux|de la vie.
+{78518}{78573}Ce que tu mérites. . .
+{78623}{78649}c'est moi.
+{79619}{79686}- Joe, ça va le boulot ?|- Jane, tu es en veine ?
+{79823}{79854}Joe, ça va le boulot ?
+{79884}{79952}"Ne pas déranger" pour la chambre 102.
+{80153}{80249}Quand tu auras fini ici|ouvre ton col et fais voir ton permis.
+{80254}{80357}Il y a une foire à la chair à Barn|Creek, ils traquent les clandestins.
+{80420}{80482}Une chance|que je sois tombé sur vous.
+{80515}{80560}On ne fait pas attendre une dame.
+{81528}{81559}Joe.
+{81569}{81603}Pour vous servir.
+{81641}{81713}Je compte les secondes|depuis la dernière fois.
+{81864}{81915}Tu as pleuré Samantha ?
+{81945}{81988}J'ai trouvé une larme.
+{82232}{82268}Joe, ça va le boulot ?
+{82344}{82396}Ça fait combien de secondes. . .
+{82404}{82457}depuis votre dernière fois ?
+{82495}{82569}255133.
+{82700}{82736}Adieu Sam.
+{82744}{82776}Et n'oublie pas :
+{82790}{82833}tu m'as tué la première.
+{83005}{83062}Je suis dans la merde.
+{83790}{83838}Si je suis un vrai petit garçon...
+{83865}{83911}je peux rentrer chez moi.
+{83943}{83991}Et alors elle m'aimera.
+{84025}{84054}Comment ?
+{84115}{84192}La Fée Bleue a changé Pinocchio|en vrai garçon.
+{84229}{84293}Elle peut me changer|en vrai garçon.
+{84332}{84409}Il faut que je la trouve.|Il faut que je devienne réel.
+{84429}{84520}Quelqu'un sur Terre|doit bien savoir où elle habite.
+{87427}{87463}La Lune se lève !
+{87920}{88024}La foire à la chair. Ils nous|détruisent en public. Je l'ai vu.
+{88107}{88131}Alors ?
+{88155}{88191}On s'enfuit.
+{88245}{88286}Vieille ferraille !
+{88617}{88670}Débarrassez-vous de vos Mécas !
+{88691}{88770}Purgez-vous de l'artificiel !
+{88778}{88871}Lâchez quelques Mécas.|Pas de ferraille sans permis par là ?
+{88938}{88972}Tu as vu ?
+{89007}{89043}C'est presque humain.
+{89116}{89161}Non, il est scanné froid.
+{89169}{89222}Sans date d'expiration ni identité.
+{89229}{89274}Un nouveau modèle non enregistré ?
+{89287}{89335}Une nouvelle génération|de Mécas d'amour.
+{89364}{89419}Ça change de cette quincaillerie.
+{89427}{89473}Sûr, c'est pas un homme ?
+{89480}{89530}Pas d'incident comme à Trenton.
+{89537}{89577}C'est un Méca en liberté.
+{89613}{89680}Ferrez-le.|Lâchez les motards sur les autres.
+{90434}{90470}Ratissez le bidonville !
+{92079}{92110}Comment tu t'appelles ?
+{92229}{92258}Tu as quel âge ?
+{92282}{92313}Je ne sais pas.
+{92326}{92379}Tu veux quelqu'un|qui s'occupe de toi ?
+{92402}{92443}Tu aimerais une nounou ?
+{92461}{92513}J'ai de très bonnes références.
+{92532}{92597}Vous savez où habite la Fée Bleue ?
+{93170}{93204}Descendez le filin.
+{93217}{93248}Stabilise-toi.
+{93330}{93368}Ouvre la cage.
+{93620}{93661}N'aie pas peur.
+{94114}{94152}Je vais me casser.
+{95265}{95310}Quelqu'un a perdu ça ?
+{95360}{95405}C'est votre chien ?
+{95510}{95562}Mets-le aux objets trouvés.
+{95611}{95666}Foire à la chair|Célébration de la vie
+{95803}{95868}- Connaissez-vous David ?|- Où on l'éteint ?
+{95935}{95971}Où est David ?
+{96033}{96088}Aidez-moi à trouver David.
+{96148}{96198}Je dois trouver David.
+{96241}{96289}Vous m'emmenez voir David ?
+{97480}{97552}Vous m'envoyez par-dessus l'hélice ?
+{97561}{97649}Je pensais passer à travers|mais j'ai changé d'avis.
+{97670}{97752}Messieurs, lancez vos moteurs !
+{98568}{98592}Et nous ?
+{98745}{98805}Nous sommes vivants. . .
