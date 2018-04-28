@@ -23,7 +23,9 @@ class EspeakAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The response statement.
         """
-        command = ['espeak',
+        # setsid is for not showing mbrola errors
+        # see : https://stackoverflow.com/a/50072485/8752259
+        command = ['setsid', 'espeak',
                    '-v', self.voice,
                    '-s', str(self.speed),
                    statement.text]
