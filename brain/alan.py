@@ -170,6 +170,9 @@ class Alan(chatterbot.ChatBot):
         return output
 
     def execute_command(self, command):
+        """
+        Execute a special alan's command.
+        """
         self.logger.info('command "{}" passed by Alan'.format(command))
         if command == 'quit': sys.exit()
         if command == 'todo':
@@ -201,7 +204,7 @@ class Alan(chatterbot.ChatBot):
         """
         Learn that the statement provided is a valid response.
         """
-
+        # TODO: Is this realy useful ??
         if previous_statement:
             statement.add_response(
                 Response(previous_statement.text)
@@ -211,10 +214,14 @@ class Alan(chatterbot.ChatBot):
                 previous_statement.text
             ))
 
+    def main_loop(self):
+        while True:
+            try:
+                self.get_response(None)
+            except(KeyboardInterrupt, EOFError, SystemExit):
+                break
 
-if __name__ == '__main__':
-
-
+def main():
     # Arguments parsing
     ap = argparse.ArgumentParser()
     ap.add_argument('-v', action='store_true', help="Mode verbose (depreciated)")
@@ -238,16 +245,9 @@ if __name__ == '__main__':
         # locals()[TEST_MODULE].test(alan)
     else :
         # discussion loop
-        print("---------------")
-        print(alan.status())
-        print("---------------")
+        print('-'*10, alan.status(), '-'*10, sep="\n")
+        alan.main_loop()
+        print('\n' + '-'*10)
 
-        while True:
-            try:
-                print("> ", end="")
-                alan.get_response(None)
-
-            except(KeyboardInterrupt, EOFError, SystemExit):
-                break
-
-        print("---------------")
+if __name__ == '__main__':
+    main()
