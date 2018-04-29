@@ -10,3 +10,7 @@ todo*
 
 # Pour les mac
 .DS_Store
+
+# source pip file
+src/*
+src/
