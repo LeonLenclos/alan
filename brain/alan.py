@@ -122,7 +122,7 @@ class Alan(chatterbot.ChatBot):
         """Return all you need to know about this instance of Alan"""
         return "%s v%s\nBy %s" % (self.name, self.version, self.author)
 
-    def get_response(self, input_item, conversation_id=None):
+    def get_response(self, input_item, conversation_id=None, listener=None):
         """
         Return the bot's response based on the input.
         :param input_item: An input value.
@@ -138,10 +138,13 @@ class Alan(chatterbot.ChatBot):
             conversation_id = self.default_conversation_id
 
         # Get input
+        if listener : listener.send(state='listening')
         if input_item:
             input_statement = chatterbot.conversation.Statement(input_item)
         else:
             input_statement = self.input.process_input()
+
+        if listener : listener.send(state='thinking')
 
         # Preprocess the input statement
         for preprocessor in self.preprocessors:
@@ -149,6 +152,7 @@ class Alan(chatterbot.ChatBot):
 
         # get response
         response = self.logic.process(input_statement)
+
 
         # search command
         command_regex = r"\*(.+)\*"
@@ -161,8 +165,11 @@ class Alan(chatterbot.ChatBot):
                                             input_statement,
                                             response)
 
+        if listener : listener.send(state='speaking')
         # Process the response output with the output adapter
         output = self.output.process_response(response, conversation_id)
+
+        if listener : listener.send(state='waiting')
 
         # execute command
         if command: self.execute_command(command.group(1))
