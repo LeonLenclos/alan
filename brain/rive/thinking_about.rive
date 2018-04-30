@@ -27,10 +27,7 @@
   % tu veux que je te dise a quoi j etais en train de penser
   @ dis moi
 
-
-//{@....} complète la réponse en renvoyant à un autre triger.
-  + [*](s il te plait|dis moi)[*]
-  % tu veux que je te dise a quoi j etais en train de penser
+  + [*](s il te plaît|dis moi)[*]
   - Je me demandais si j'étais capable de me poser des questions.\s
   ^ {@ tu m as deja dis a quoi tu pense}
   - Je me demandais quelle était la différence entre une erreur de calcul et\s

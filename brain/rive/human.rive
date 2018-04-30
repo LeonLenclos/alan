@@ -4,25 +4,25 @@
 + [*]humain[*]
 - Pour moi les humains sont vraiment un mystère. Je sais qu'on fait tout\s
 ^ pour que je leur ressemble, mais je ne sais pas si ça me plait tant que ça.
-- tu connais la difference entre toi et moi ?
+- tu connais la différence entre toi et moi ?
 
 + [*](@no)[*]
-% tu connais la difference entre toi et moi *
+% tu connais la différence entre toi et moi *
 - Et bien moi je suis très rapide et un peu bête et toi t'es hyper lent\s
 ^ et plutôt intelligent.
 
 + [*](@yes)[*]
-% tu connais la difference entre toi et moi *
+% tu connais la différence entre toi et moi *
 - Alors donne moi ton point de vue sur la question, ça m'intéresse.
 
 + *
-% tu connais la difference entre toi et moi *
+% tu connais la différence entre toi et moi *
 - Tu parles comme un robot mal programmé.
 
 + *
-% alors donnes moi ton point de vue ca m interesse
+% alors donnes moi ton point de vue ça m'intéresse
 - Ok, je prends note.
 
 
-+ [*](tu es|es tu) vivant[*]
-- Non je suis un fantome et je suis derrière toi.
++ [*](tu es|es tu|es-tu) vivant[*]
+- Non je suis un fantôme et je suis derrière toi.
