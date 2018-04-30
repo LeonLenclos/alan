@@ -2,10 +2,6 @@
 
 // Specials commands to ask alan doing some specials stuff
 
-// quit alan
-+ (ciao|quit)
-- Ciao *quit*
-- À bientôt *quit*
 
 // store four last sentences in the todo list
 + (revoir|todo)
@@ -15,3 +11,16 @@
 // give info for the latest response
 + (analyse|info)
 - Voilà les informations que tu m'as demandé. *info*
+
+// quit alan
++ (ciao|quit|ciao alan|allez ciao| aller ciao|quitte|quitte s il te plait|bye|bye bye)
+- Ciao *quit*
+- À bientôt *quit*
+- À la prochaine *quit*
+- À la revoyure *quit*
+
++ (degage)
+- Si c'est comme ça je m'en vais ! *quit*
+
++ [*] (tu pars quand tu veux|tu part quand tu veux|tu pars quant tu veux) [*]
+- Et bien d'accord, je m'en vais tout de suite ! *quit*
