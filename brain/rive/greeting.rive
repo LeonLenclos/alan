@@ -165,16 +165,3 @@
   - Je crois me souvenir qu'on s'est déjà dit bonjour...
 
 < topic
-
-// quit alan
-+ (ciao|quit|ciao alan|allez ciao| aller ciao|quitte|quitte s il te plait|bye|bye bye)
-- Ciao *quit*
-- À bientôt *quit*
-- À la prochaine *quit*
-- À la revoyure *quit*
-
-+ (degage)
-- Si c'est comme ça je m'en vais ! *quit*
-
-+ [*] (tu par[st] quan[dt] tu veu[x]) [*]
-- Et bien d'accord, je m'en vais tout de suite ! *quit*
