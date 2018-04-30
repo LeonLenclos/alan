@@ -1,0 +1,784 @@
+{545}{569}Clap.
+{1406}{1478}A la rencontre de forrester
+{4652}{4690}Jamal !
+{4704}{4755}Tu es réveillé ?
+{4782}{4834}Je sais que tu m'entends.
+{4841}{4932}Je t'écris tout ça. J'ai ce truc avec ton prof,
+{4941}{5056}et je travaille tard.|Tu feras ton dîner tout seul, d'accord ?
+{5071}{5123}- D'accord ?|- D'accord.
+{5225}{5316}Je croyais que tu voulais te lever à 7 heures 30.
+{5644}{5673}Joli bruit !
+{5676}{5733}Garde-le mec.
+{5740}{5800}Attends. Ça gaze, J ? Où t'étais ?
+{5828}{5855}Je pionçais.
+{5859}{5926}J'ai réfléchi très tard|à la façon de vous tirer de là.
+{5931}{5963}Nous tirer d'où ?
+{6021}{6083}Détruis-le mec !
+{6234}{6270}Le laisse pas faire.
+{6275}{6335}- Le laisse pas faire !|- Je suis réveillé.
+{6450}{6501}Tu as un truc pour moi ?
+{6514}{6550}Un soufflé vieux !
+{6669}{6702}T'as rien.
+{6724}{6764}Pour ce que ça sert !
+{6856}{6899}Il apporte un truc à Fenêtre.
+{6903}{6963}- Tu l'as déjà vu ?|- Fenêtre ?
+{6973}{7031}Non, mais lui nous voit.
+{7159}{7187}Allez !
+{7191}{7263}Qu'est-ce que vous avez tous ?|Vous voulez pas jouer ?
+{7288}{7320}Réveillez-vous.
+{7470}{7509}En 1845
+{7518}{7590}Poe a écrit son célèbre poème, Le Corbeau.
+{7595}{7703}Il prenait alors de la cocaïne|et il était obsédé par la mort.
+{7714}{7760}Le Corbeau c'est comme l'équipe de foot.
+{7764}{7838}Ils sont obsédés par la mort|et ils se font toujours battre.
+{7876}{7979}Baltimore a la seule équipe de foot|dont le nom vient d'un poème classique.
+{7985}{8019}Quelqu'un l'a lu ?
+{8048}{8118}''Une fois, sur le minuit lugubre
+{8135}{8212}''pendant que je méditais, faible et fatigué''
+{8255}{8294}Jamal, qu'est-ce que tu en dis ?
+{8363}{8409}Je l'ai pas lu.
+{8468}{8530}Bon, je veux ces exposés mardi prochain.
+{8701}{8766}Mon père a vu Fenêtre.|Il y a environ 20 ans.
+{8770}{8852}Il était là comme un fantôme,|comme ceux de nos bouquins de sciences.
+{8856}{8884}Exactement pareil.
+{8889}{8932}- Il était blanc ?|- Comme du lait, non ?
+{8936}{8977}Tous les fantômes le sont, non ?
+{8982}{9015}Je plaisantais.
+{9019}{9081}Il aurait tué quelqu'un.|C'est pour ça qu'il sort pas.
+{9086}{9149}Il faut tuer une armée|pour être obligé de se cacher.
+{9151}{9266}Assez plaisanté. Vous vous rappelez|Shurrita qui habitait en dessous ?
+{9288}{9377}Un soir elle m'appelle, elle était folle.
+{9388}{9484}Elle entendait taper|et le bruit venait de chez Fenêtre.
+{9616}{9692}Elle s'est mise à crier au téléphone.
+{9701}{9783}Le bruit était descendu à son étage.
+{9913}{9982}Le bruit était derrière sa porte.
+{9993}{10072}Elle m'a dit qu'il tapait|avec un genre de couteau.
+{10086}{10189}Puis la communication a été coupée.|On a plus jamais revu Shurrita.
+{10196}{10265}La Shurrita qui habitait en face ?
+{10289}{10320}Une pute qui marche au crack.
+{10323}{10359}Non, elle était sympa.
+{10368}{10438}Tout ce que je sais|c'est que Fenêtre est dangereux.
+{10448}{10467}La règle c'était,
+{10471}{10542}si on sortait,|on s'approchait pas de chez Fenêtre.
+{10545}{10593}On approche pas de toi sale menteur.
+{10598}{10634}Vous me croyez, hein ?
+{10641}{10686}C'est des conneries.
+{10694}{10716}Merde.
+{10728}{10798}Je vois. Toi tu irais, c'est ça ?
+{10831}{10879}C'est un vieux qui regarde par la fenêtre.
+{10881}{10910}Toi tu irais, hein ?
+{10911}{10966}- Il ira pas.|- Dis-leur.
+{10985}{11045}- Il ira pas.|- Ce nègre a les boules.
+{11063}{11111}Le prochain défi est à moi.
+{11120}{11158}Et alors ?
+{11160}{11218}Je te défie d'y aller, d'accord ?
+{11228}{11257}D'accord ?
+{11271}{11331}Si tu veux. J'irai. Ouais.
+{11339}{11370}- Il y va.|- M'as-tu-vu !
+{11373}{11402}Je suis prêt.
+{11409}{11449}Bon chien.
+{11479}{11520}Je te crois.
+{11531}{11581}Ferme-la. Va en cours ou ailleurs.
+{11608}{11661}Là. Assieds-toi ici.
+{11695}{11748}- Tu me cherches.|- C'est mon anniversaire.
+{11750}{11772}Va là-bas.
+{11775}{11835}- Super. C'est pas près de toi.|- Prends ta pomme.
+{13498}{13536}- Mlle Joyce ?|- Oui.
+{13568}{13645}- Je suis contente de vous voir.|- Moi aussi. Asseyez-vous.
+{13716}{13773}On a eu les résultats des tests de Jamal.
+{13783}{13839}- Les tests ?|- Les tests d'évaluation.
+{13841}{13920}Tous les élèves les passent.
+{13933}{13972}Il ne vous l'a pas dit ?
+{14036}{14112}Mme Wallace, Jamal a toujours des C
+{14115}{14221}c'est-à-dire assez pour passer|mais pas assez pour se faire remarquer.
+{14227}{14321}Ce qui est bizarre ce sont ses résultats.
+{14489}{14527}Oh mon Dieu !
+{14555}{14651}Il lit tout le temps.|Des livres que je n'ai pas lus.
+{14668}{14764}Que je ne connais même pas quelquefois.|Et il passe son temps à écrire.
+{14785}{14881}Depuis que son père est parti.|Mais c'est ce que je vois.
+{14904}{14978}Il ne parle que de basket-ball.
+{14996}{15059}C'est par le basket qu'il se fait accepter.
+{15065}{15118}Les autres se fichent de ce qu'il écrit.
+{15135}{15200}Allons-y ! Entre les lignes jaunes !
+{15206}{15230}Ouais, T.
+{15238}{15305}- Ça va Fly ?|- On fait aller.
+{15338}{15393}Tu cherches des tickets, petit frère ?
+{15403}{15453}Il y en a pas ce soir. Désolé.
+{15458}{15508}Allez. On sait que tu en as.
+{15514}{15550}Ça tient en quatre mots :
+{15551}{15618}Red Sox de Boston.
+{15650}{15732}Les tickets des Yankees et des Sox|sont vendus depuis un mois.
+{15746}{15801}D'accord M.Fly ? Au fait,
+{15805}{15930}va dire au conducteur de cette Camry|d'éloigner sa tire pourrie de merde
+{15941}{15981}de cette Mercedes.
+{15985}{16061}Occupe-t'en. On y va Fly !
+{16094}{16149}Alors Jamal ? Maman a appelé.
+{16163}{16240}- Elle m'a parlé de ce test. Qu'est-ce qu'il y a ?|- Rien.
+{16246}{16284}Ça veut dire quoi ''rien'' ?
+{16285}{16345}Ça dérange tes plans ou quoi ?
+{16351}{16399}C'était ton plan avant.
+{16415}{16468}Je sais. Jouer à l'université
+{16472}{16561}et puis faire des chèques à tout le monde,|résoudre leurs problèmes.
+{16576}{16611}Et regarde-moi.
+{16684}{16715}Attends.
+{16763}{16799}Prends ça.
+{16841}{16891}C'est notre plan maintenant.
+{16920}{16947}Un truc.
+{16993}{17048}Parle de ces résultats à personne.
+{17055}{17105}T'en fais pas. Je suis ton frère.
+{17111}{17173}Tout ce qu'on dit reste entre nous.
+{17195}{17241}Je t'aime. Tu piges ?
+{17247}{17293}Souviens-toi juste d'un truc.
+{17306}{17409}Maman saura à quelle heure ça finit|alors ramène ton cul tout droit à la maison.
+{17423}{17522}Gare-toi des ennuis. Fais gaffe à toi.|Je t'aime.
+{17535}{17598}- D'accord beau gosse.|- Fais gaffe.
+{17630}{17666}Ça pue ici.
+{17685}{17764}Tu vois cette fenêtre ?|Quelquefois il la laisse entrouverte.
+{17780}{17828}C'est éteint depuis deux heures.
+{17837}{17868}T'es sûr qu'il dort ?
+{17872}{17965}Il est vieux comme Mathusalem.|Il fait que ça.
+{17988}{18084}Sérieusement, là je suis pas sûr.
+{18098}{18136}Je crois que... Merde !
+{18170}{18218}Je crois que je retire le défi.
+{18230}{18280}- Non, je vais le faire.|- Des rats !
+{18320}{18394}- Tiens.|- Garde-le. Il faut que tu ramènes un truc.
+{18418}{18480}Si tu nous entends|tu te planques, d'accord ?
+{18501}{18525}D'accord.
+{18541}{18584}N'y reste pas trop longtemps.
+{18605}{18629}Pigé.
+{18688}{18716}C'est branlant.
+{23092}{23142}Oh merde ! Tu ramènes un truc ?
+{23160}{23196}- Merde !|- Raconte !
+{23212}{23239}Fils de pute !
+{23242}{23292}Il ne dormait pas connards.
+{23298}{23358}- Tu l'as vu ?|- Pas longtemps.
+{23480}{23554}Arrête de jouer au ballon dans la maison.
+{23568}{23647}Le nom de Michael Jordan est écrit|partout sur mon plancher.
+{23652}{23688}T'inquiète pas, je nettoierai.
+{23693}{23760}Il vaudrait encore mieux|que je demande à Michael Jordan.
+{23765}{23847}Si tu veux prendre une douche|l'eau chaude met du temps à arriver.
+{23852}{23929}- J'en ai pas envie.|- Où est ton sac ?
+{23990}{24052}- Je sais pas.|- Tu ''sais pas'' ?
+{24065}{24108}Qu'est-ce que ça veut dire ça ?
+{24125}{24195}On voulait que tu ramènes un truc,|pas que t'en laisses un.
+{24200}{24239}Laisse tomber, tu veux ?
+{24250}{24298}Il y avait quoi dans ton sac ?
+{24317}{24382}Je parle pas du putain de sac.
+{24392}{24421}Tu parles !
+{24439}{24507}Je vais t'apprendre un truc.|Regarde mes yeux.
+{24515}{24573}Il est sûrement en train de te regarder.
+{24660}{24744}Tu n'y connais rien.|C'est comme ça qu'on fait.
+{26137}{26185}Je toucherai pas à ta voiture.
+{26204}{26228}Pardon ?
+{26232}{26291}Tu as peur que je touche à ta voiture ?
+{26298}{26382}Je m'inquiète partout pour cette voiture.|Le prends pas pour toi.
+{26393}{26429}C'est qu'une voiture.
+{26432}{26511}Non, c'est pas ''qu'une voiture''.|C'est une BMW.
+{26525}{26583}Si on connaît un peu cette boîte,
+{26587}{26642}on sait que c'est plus|que juste une voiture.
+{26648}{26700}Si on connaît un peu cette boîte ?
+{26705}{26755}Et je ne peux pas la connaître moi ?
+{26759}{26810}C'est pas ce que je voulais dire.
+{26839}{26892}Le dernier truc que j'ai appris sur BMW
+{26898}{26970}c'est qu'au départ|ils fabriquaient des moteurs d'avion.
+{26976}{27043}C'est un mec nommé Franz Popp|qui a fondé la boîte.
+{27060}{27130}Franz Popp. J'aime ce nom.
+{27145}{27245}Il a fabriqué un moteur avant 1920.|Il a volé presque six miles.
+{27274}{27344}Ce n'était qu'un début|pour Popp et ses gars.
+{27349}{27443}Ils en ont fabriqué un autre, le 801,|Seconde Guerre mondiale, 14 cylindres,
+{27449}{27526}2300 chevaux, sept miles de vol.
+{27582}{27657}Avec du temps|leurs bombes auraient détruit l'Angleterre,
+{27663}{27709}peut-être même gagné la guerre.
+{27732}{27778}C'est de là que ça vient.
+{27795}{27855}Une hélice blanche sur fond de ciel bleu.
+{27880}{27963}Après la guerre on leur a interdit|de fabriquer des moteurs d'avion.
+{27970}{28075}C'est là que BMW a pensé sérieusement|à fabriquer des voitures.
+{28092}{28131}De ce genre-là.
+{28142}{28212}Tu savais sûrement tout ça|puisque tu en loues une.
+{28228}{28273}Merci pour le cours d'histoire.
+{28295}{28328}Pas de problème.
+{29597}{29659}Esprit Constipé
+{29792}{29847}ce passage est fantastique !
+{29882}{29918}de la précision
+{30079}{30125}écriture mordante - mots banals
+{30140}{30181}indigne du lecteur
+{30222}{30272}C'est mes textes.
+{30392}{30483}Je veux aider cet écrivain,|on peut sortir un peu du Bronx ?
+{30500}{30534}constipé
+{30598}{30646}Où vous voulez en venir ?
+{31644}{31685}L'autre soir c'était...
+{31690}{31761}C'était le jeu des défis|auquel on joue avec mes potes.
+{32179}{32261}Je me demandais|si je pouvais vous en apporter d'autres
+{32279}{32330}ou je pourrais écrire autre chose.
+{32335}{32445}Pourquoi pas 5000 mots sur les putains|de raisons de ne plus venir ici ?
+{33472}{33532}Allez ! Je sais que vous êtes là.
+{33633}{33692}Vire ta main de ma porte.
+{33722}{33755}Je suis venu
+{33774}{33832}déposer ce truc que vous m'avez demandé.
+{33844}{33871}Quel truc ?
+{33897}{33978}Les 5000 mots...|Pourquoi je ne dois plus venir.
+{33989}{34033}C'est à peu prés ce que vous avez dit.
+{34037}{34130}Essaie de te rappeler|exactement ce que j'ai dit.
+{34825}{34864}Entre.
+{34865}{34893}Salut chéri.
+{34922}{34948}Ça va.
+{34987}{35013}Assieds-toi.
+{35044}{35135}Quand nous avons vu|tes résultats aux tests
+{35142}{35209}nous les avons communiqués|aux écoles privées.
+{35224}{35281}Nous avons bien fait.
+{35317}{35418}- M.Bradley.|- Je m'appelle David Bradley.
+{35425}{35475}Je travaille à l'école Mailor à Manhattan.
+{35479}{35515}Mailor-Callow ?
+{35520}{35572}C'est ça. Vous nous connaissez ?
+{35579}{35603}Oui.
+{35617}{35704}Ce n'est pas seulement|la meilleure école préparatoire de la ville,
+{35711}{35781}c'est l'une des meilleures écoles privées|de la côte Est.
+{35784}{35820}Seuls les meilleurs y vont.
+{35824}{35879}Le trimestre d'automne|vient de commencer
+{35884}{35980}mais nous gardons toujours quelques|places jusqu'aux résultats des tests.
+{36019}{36091}C'est un euphémisme de dire|que vos résultats
+{36098}{36138}ont retenu notre attention.
+{36167}{36251}Je suis venu voir si ça vous intéresse|d'intégrer notre école.
+{36371}{36462}Il ne sera pas facile de partir|dans un autre lycée, surtout privé.
+{36476}{36555}Mais tu n'es plus à ta place ici.
+{36575}{36618}Le choix n'est pas difficile à faire.
+{36692}{36757}Nous n'avons pas les moyens de payer.
+{36765}{36808}Nous ne vous le demandons pas.
+{36829}{36899}Quand il a dit|que seuls les meilleurs allaient à Mailor,
+{36904}{37007}le Dr Simon a oublié de dire que|notre engagement allait au-delà des cours.
+{37029}{37091}- Je m'en doutais.|- C'est ce que nous pensions.
+{37097}{37195}Quarante de nos étudiants ont continué|à jouer au basket à l'université.
+{37212}{37296}Trois sont devenus professionnels.|Nous avons évalué
+{37307}{37389}votre jeu l'an dernier et,|bien que notre offre soit purement scolaire,
+{37394}{37454}nous aimerions vous avoir dans l'équipe.
+{37471}{37553}Nous vous demandons seulement|de venir voir et d'y réfléchir.
+{37571}{37610}D'accord.
+{37627}{37660}Merci.
+{37691}{37742}- Au revoir.|- On reste en contact.
+{38932}{38968}Cette fois je n'ai pas frappé.
+{38969}{39075}- Tu parlais à qui ?|- Rendez-moi mes 5000 mots, je répondrai.
+{40059}{40128}Ferme la porte à clé si tu entres.
+{40294}{40333}L'homme de la voiture ?
+{40471}{40519}Il venait d'une école privée.
+{40546}{40589}Ils veulent que j'y aille.
+{40674}{40729}On n'a rien à payer.
+{40775}{40842}Ma mère et moi|on habite dans la rue voisine.
+{40915}{41011}Mon frère était là il y a quelques années|mais il est parti après mon père.
+{41407}{41484}Ma mère en a eu marre d'attendre|la désintox de mon père.
+{41509}{41569}Et mon père en a eu marre d'essayer.
+{41612}{41657}C'est là que j'ai commencé à écrire.
+{41659}{41700}Tu t'appelles comment ?
+{41707}{41745}Jamal Wallace.
+{41757}{41819}On dirait un nom de marmelade.
+{41834}{41865}Tu as quel âge ?
+{41894}{41927}Seize ans.
+{41932}{41968}Seize ans ?
+{41995}{42028}Et tu es noir.
+{42109}{42162}- C'est remarquable.|- ''Remarquable'' ?
+{42194}{42302}Que je sois noir ? Qu'est-ce que ça change|à quoi que ce soit ?
+{42434}{42493}Tu ne sais pas quoi faire, c'est ça ?
+{42506}{42600}Si tu dis ce que tu as envie de dire,|je n'en lirai peut-être pas plus.
+{42632}{42713}Mais si tu me laisses te démolir|avec ces conneries racistes,
+{42766}{42819}ça fait quoi de toi ?
+{42926}{42979}Je ne joue pas à ce jeu.
+{42998}{43049}Moi je dis que tu y joues.
+{43059}{43136}Un visage en dit autant que mille mots.
+{43194}{43242}Et le tien est très expressif.
+{43387}{43409}Tiens.
+{43822}{43873}Vieux débris débile !
+{44019}{44110}''Une main pour donner, une pour recevoir,|nous mangeons en harmonie.
+{44129}{44213}''Que notre esprit, notre corps|et notre âme soient plus forts.
+{44218}{44298}''Et félicitations à Jamal. Amen.''
+{44362}{44386}Tu as vu ça ?
+{44389}{44454}- Fais voir.|- Ne le salis pas.
+{44474}{44496}Attends.
+{44499}{44568}D'après la couverture|on dirait une école de rigolos.
+{44574}{44612}Mange Terrell.
+{44614}{44698}Tout ira bien.|Maman ne fabrique que des petits soldats.
+{44704}{44752}Tu aurais pu faire pareil.
+{44756}{44840}Je travaille dans un parking|et j'ai rien d'un employé moyen.
+{44849}{44923}Je supervise tous les employés du parking.
+{44929}{45004}Tu sais jamais combien tu vas gagner|d'une semaine à l'autre.
+{45009}{45062}Une semaine 50 dollars,|100 dollars la suivante.
+{45066}{45121}- C'est pas un vrai boulot.|- Laisse-le.
+{45127}{45199}Je fais du rap. Tu sais que ça marche.
+{45204}{45257}Ne me parle pas du rap. Mange.
+{45261}{45314}- Je te chante quelque chose ?|- Mange.
+{45318}{45347}Je vais chanter pour toi.
+{45352}{45407}''Quand faut payer,|Quand je me débine
+{45409}{45478}''Ton fils, le superviseur|Du parking''
+{45526}{45582}Dis-le Jamal, j'ai une super voix, non ?
+{46762}{46827}- Oui.|- Salut. Je suis Claire Spence.
+{46884}{46942}Bradley m'a demandé de te faire visiter.
+{46957}{46981}D'accord.
+{47087}{47108}Viens.
+{47244}{47359}Inutile de répondre aux questions|avant de décider ce que tu vas faire.
+{47372}{47429}Et puis ici les profs
+{47440}{47504}n'apprécient pas trop|la participation des étudiants.
+{47509}{47557}Ils préfèrent s'entendre parler.
+{47561}{47597}- Qu'est-ce que tu veux dire ?|- Tu verras.
+{47631}{47722}Ce matin nous commençons la troisième|lecture obligatoire du semestre.
+{47729}{47786}L'étude d'un roman qui renferme tout
+{47788}{47860}et d'un auteur|qui aurait pu apporter beaucoup plus.
+{47962}{48060}C'est Robert Crawford.|Il fait partie des meubles ici.
+{48066}{48143}En 1953, à 23 ans, William Forrester
+{48157}{48212}a décidé d'écrire son premier livre.
+{48232}{48330}Bien des auteurs en herbe parlaient|d'écrire le grand roman du XXe siécle.
+{48356}{48400}William Forrester l'a fait
+{48418}{48452}au premier essai.
+{48459}{48495}Tu l'as lu ?
+{48518}{48554}Oui. Et toi ?
+{48564}{48610}Seulement une douzaine de fois.
+{48614}{48682}C'est le seul livre qu'il ait choisi de publier.
+{48686}{48767}Pour autant qu'on le sache|le seul qu'il ait choisi d'écrire.
+{48804}{48892}Votre travail de la semaine prochaine|est de le lire et de me dire pourquoi.
+{48899}{48928}Alors
+{48954}{48999}tu reviens demain ?
+{49008}{49071}Oui. Ils veulent que je passe du temps|sur le terrain.
+{49076}{49107}Je sais.
+{49113}{49199}Les diplômes ont été un peu durs|avec l'équipe de l'an dernier.
+{49214}{49271}Mais c'est comme la fac, non ?
+{49282}{49356}Tu as une formation|et ils ont ce qu'ils veulent.
+{49369}{49412}Tout le monde y gagne peut-être.
+{49416}{49442}Peut-être.
+{49498}{49551}J'ai été contente de te rencontrer.
+{49571}{49635}Moi aussi. Tu seras dans le coin demain ?
+{49641}{49691}Pas au même endroit que toi mais
+{49705}{49763}tu me trouveras peut-être pour déjeuner.
+{49951}{50035}- Hier je n'ai pas prononcé ces mots.|- Pourquoi pas ?
+{50056}{50113}Je veux que vous continuiez de lire.
+{50211}{50261}On parle beaucoup de vous là-bas.
+{50294}{50342}Toutes ces conneries de légende.
+{50345}{50441}Il y a des histoires.|On se demande si vous avez tué quelqu'un.
+{50447}{50509}Ça et pourquoi vous êtes ici|depuis si longtemps.
+{50514}{50600}Moi je n'en partirais pas. C'est tranquille.|On n'entend rien ici.
+{50623}{50681}Chez nous il y a des voisins bruyants.
+{50696}{50763}Leur gamin hurle tout le temps|parce qu'il a un an,
+{50768}{50828}ou le père hurle|parce que le gamin fait du bruit.
+{50834}{50939}Et en plus la mère hurle.|Mais ce sont des cris différents,
+{50964}{51070}son mari lui joue un petit air|alors elle se tape la tête contre le mur,
+{51074}{51126}et elle crie...
+{51131}{51176}Tu devrais remuer cette soupe.
+{51208}{51232}Quoi ?
+{51258}{51316}Remue la soupe avant qu'elle se fige.
+{51488}{51540}Pourquoi la nôtre ne fige pas ?
+{51547}{51609}Viens. Plus prés.
+{51641}{51658}Là.
+{51661}{51709}C'est quelqu'un qui crie comme ça ?
+{51713}{51812}C'est un mâle adulte. Assez joli.
+{51843}{51903}Il a dû s'éloigner du parc.
+{52013}{52061}Une fauvette à gorge grise.
+{52079}{52136}Il vous arrive de sortir pour faire ça ?
+{52164}{52229}Tu aurais dû t'en tenir|à la question sur la soupe.
+{52234}{52349}Une question sert à avoir des informations|qui ne comptent que pour nous.
+{52419}{52491}Tu te demandais|pourquoi ta soupe ne se figeait pas ?
+{52496}{52563}Sans doute parce que ta mère|a été élevée dans une maison
+{52568}{52631}où l'on ne gâchait pas le lait dans la soupe.
+{52635}{52786}C'était une bonne question|par rapport à ''M'arrive-t-il de sortir ?''
+{52801}{52914}qui ne répond pas au critère|de l'intérêt des informations pour toi.
+{52934}{53022}Bon. Je n'ai plus de question sur la soupe.
+{53086}{53148}Pourquoi avoir dit tous ces trucs|sur ma couleur ?
+{53154}{53216}Ça n'avait rien à voir avec ta couleur.
+{53218}{53323}Je voulais savoir|ce que tu supporterais comme conneries.
+{53332}{53373}- Et vous m'attendiez ?|- Oui.
+{53374}{53438}Je sais aussi|que tu iras dans ce nouveau lycée.
+{53444}{53468}Comment vous le savez ?
+{53471}{53586}Parce qu'il y a dans tes écrits une question|sur ce que tu veux faire de ta vie.
+{53605}{53706}C'est une question à laquelle|ton lycée actuel ne peut pas répondre.
+{53805}{53872}On se met deux par deux.|Wallace, prenez Hartwell.
+{53959}{53999}Ça va ? Je m'appelle Jamal.
+{54013}{54066}Contente-toi de le tenir, d'accord ?
+{54129}{54162}Garde le ballon.
+{54183}{54215}Dépêche-toi.
+{54286}{54312}C'est parti.
+{54483}{54524}Accroche-le.
+{54609}{54652}Bien joué !
+{54731}{54791}Défense. On y va ordure.
+{54796}{54822}Viens.
+{54836}{54865}Approche-toi.
+{55003}{55068}Si tu laissais le langage ordurier chez toi ?
+{55080}{55162}Quoi ? Arrête de prendre cet air idiot.
+{55169}{55227}- Maintenant je vais te mettre à genoux.|- C'est ça.
+{55229}{55281}- Tu vas te mettre à genoux.|- Viens.
+{55474}{55502}Joue.
+{55576}{55609}- Viens ici.|- Quoi ?
+{55626}{55667}Tu es trop petit.
+{55814}{55862}Un peu de défense, ça serait sympa.
+{55866}{55921}Exact entraîneur. Un peu de défense.
+{55956}{55997}- Essaie de passer la ligne.|- Quoi ?
+{56000}{56044}J'ai dit : passe la ligne.
+{56098}{56127}Pression.
+{56195}{56239}C'est trop.
+{56341}{56377}J'ai besoin d'aide !
+{56391}{56447}Dix secondes. On tourne.
+{56813}{56851}- Je prends ta place.|- Quoi ?
+{56855}{56901}- Je prends ta place.|- Tu prends rien.
+{56903}{56941}Essaie.
+{57258}{57299}C'est mon terrain.
+{57443}{57481}C'est comme ça qu'on joue ici.
+{57486}{57522}C'est vrai.
+{57598}{57661}John Hartwell est un gosse de riche|qui veut attirer l'attention
+{57666}{57733}sur lui pendant sa dernière année.|C'est tout.
+{57739}{57844}- On prend les choses au sérieux ici.|- C'est un endroit sérieux.
+{57860}{57951}Assez pour que je mange sur mes livres|presque tous les jours.
+{57985}{58031}Tu travailles sur quoi ?
+{58060}{58098}Le livre de Forrester.
+{58105}{58187}- Tu l'as lu une douzaine de fois.|- Je sais mais regarde ça.
+{58201}{58280}Mon père me l'a acheté.|C'est une des premières éditions.
+{58449}{58511}- Il faut que j'y aille.|- Mais tu viens d'arriver !
+{58515}{58628}Je sais mais j'ai oublié un truc.|Il faut que je vérifie un truc.
+{58653}{58687}A plus tard.
+{59064}{59123}William Forrester - RECHERCHE
+{59178}{59219}''Né en 1930
+{59233}{59271}''en Ecosse.''
+{59369}{59453}William Forrester reçoit|le Grand Prix du Livre de l'année
+{59469}{59565}''Entre 17 et 19 ans|il emménage à New York avec sa famille.
+{59578}{59648}''M.Forrester n'a pas pu être joint.''
+{59683}{59698}Ça ne m'étonne pas.
+{59723}{59798}Tu as l'intention de faire une habitude|de ces visites ?
+{59847}{59893}Mais vous saviez que je reviendrais.
+{59897}{59952}Je croyais que tu voulais dire une fois.
+{59959}{60016}J'ai besoin d'aide pour un truc au lycée.
+{60023}{60083}Oui. Un ''truc'' au lycée.
+{60101}{60170}Et de quel ''truc'' il s'agit maintenant ?
+{60305}{60363}Vous avez lu ce livre ?
+{60460}{60575}Moi j'essaie. Mais je n'arrive pas|à dépasser les dix premières pages.
+{60644}{60687}Si je me souviens bien
+{60719}{60791}moi aussi j'ai mis du temps|à aller plus loin.
+{60865}{60978}Tu en as corné certaines.|Aie un peu de respect pour l'auteur.
+{61130}{61169}C'est vous, non ?
+{61200}{61239}Vous êtes l'auteur.
+{61300}{61382}Je l'ai lu en entier. Ce n'est pas mal.|Surtout le passage...
+{61425}{61464}Je sais ce que c'est.
+{61470}{61559}Je n'ai aucun besoin de savoir|ce que les autres en pensent.
+{61566}{61597}Je n'allais pas dire ça.
+{61598}{61686}Tu allais dire quoi ?|Que je devrais tout te dire de moi ?
+{61693}{61729}Je vous ai parlé de moi.
+{61732}{61821}Tu as des choses à apprendre|sur la réserve.
+{62629}{62715}Si je te demandais|de ne rien dire à personne
+{62727}{62783}de ce lieu, de nous,
+{62820}{62880}je pourrais te faire confiance ?
+{63003}{63030}Oui.
+{63053}{63087}Je vous le promets.
+{63103}{63134}Parfait.
+{63180}{63255}Et si je vous demande|de continuer de m'aider à écrire ?
+{63608}{63668}Je n'autoriserai aucune question sur moi,
+{63683}{63770}ma famille, ou la raison pour laquelle|il n'y a pas eu d'autre livre.
+{63776}{63814}Je n'en poserai pas.
+{63850}{63876}Bien.
+{63888}{63921}Et bonsoir.
+{64178}{64219}Qu'est-ce qu'on ressent ?
+{64243}{64265}Quoi ?
+{64268}{64319}En écrivant comme vous.
+{64368}{64416}Tu le découvriras peut-être.
+{64828}{64876}Ecoute nabot...
+{64928}{64986}C'est pourtant ce que je dis.
+{65058}{65099}Tu as quel âge Kenzo ?
+{65103}{65130}Pourquoi ?
+{65133}{65200}Regarde-toi !|C'est pas ta mère qui t'a fait ça !
+{65208}{65246}Elle t'a commencé jeune.
+{65250}{65324}Tu sais d'où ça vient ?|Tu bouffes trop de minou.
+{65396}{65439}Teresa m'a raconté.
+{65448}{65508}J'aime les grosses.|Ça te pose un problème ?
+{65518}{65583}- J'ai rien contre les grosses !|- A ce point ?
+{65588}{65689}C'est pareil.|C'est comme d'être avec vos mères.
+{65703}{65736}- Pas ma mère.|- Si.
+{65741}{65786}Attends petite saucisse !
+{65793}{65906}Arrête de blaguer. Un jour tu t'es fait|cogner en classe. Duke t'en a mis un.
+{65912}{66020}Jette ça à ta mère.|Tous les jours jette ça à ta mère.
+{66031}{66086}Ta mère. Arrête de jeter ta mère.
+{66093}{66148}Parle pour toi frère.
+{66160}{66192}Pourquoi tu te marres ?
+{66195}{66260}Tes lunettes|c'est des vrais culs de bouteilles.
+{66310}{66337}De Coca.
+{66388}{66457}- Tu as déjà rencontré un mec célèbre ?|- A quel point ?
+{66462}{66520}Je sais pas, comme
+{66549}{66595}quelqu'un qui serait connu.
+{66609}{66668}Il y en a pas dans le coin.
+{66773}{66823}Tu es ici pour de bon maintenant ?
+{66838}{66891}Oui. J'essaie juste de m'installer.
+{66993}{67067}Au moins ils font de l'effet, non ?
+{67348}{67444}Je vous annonce que les dates du concours|annuel d'écriture ont été fixées.
+{67448}{67525}Pour les participants|tous les textes doivent être rendus
+{67528}{67633}avant les vacances de printemps, vous|avez le temps de remettre à plus tard.
+{67672}{67749}N'hésitez pas à essayer|une approche plus dynamique.
+{67895}{67926}Approchez-vous.
+{67977}{68083}J'ai examiné les dossiers|transmis par votre ancien lycée.
+{68130}{68180}Résultats des tests, impressionnants.
+{68185}{68257}Travail réel, pas très impressionnant.
+{68293}{68384}Est-ce le niveau de travail|auquel je dois m'attendre ?
+{68505}{68556}Si c'est ça
+{68573}{68662}ça m'aidera à décider|si je dois vous traiter comme un étudiant
+{68675}{68757}ou comme quelqu'un qui est ici avec,|comment dire,
+{68780}{68821}d'autres objectifs ?
+{68853}{68937}Bien sûr votre travail vous donnera|la possibilité de répondre.
+{68995}{69031}Bonne journée.
+{69190}{69260}Tu t'en es bien tiré.
+{69277}{69311}Comment ça ?
+{69320}{69409}Tu n'as rien dit.|Ceux qui parlent ont des ennuis.
+{69427}{69475}- John Coleridge.|- Jamal Wallace.
+{69564}{69616}Combien disent quelque chose ?
+{69625}{69707}Et restent au cours de Crawford ?|Pas beaucoup.
+{69760}{69801}J'ai pas entendu.
+{69832}{69871}J'ai rien dit.
+{69987}{70023}Vous les avez tous lus ?
+{70027}{70109}Non, je les garde|pour impressionner tous mes visiteurs.
+{70155}{70196}Tous vos visiteurs.
+{70213}{70268}On a parlé de votre livre au lycée.
+{70272}{70383}Les gens en parlent depuis des années.|Ils ne disent rien.
+{70403}{70453}Je crois avoir compris pourtant.
+{70458}{70527}Vous écrivez que dans la vie|rien n'aboutit jamais.
+{70533}{70629}Vraiment ? Il t'a fallu lire un livre|pour t'en apercevoir ?
+{70649}{70724}Mais Crawford a pas pigé.
+{70742}{70812}Pour lui, le type qui a des ennuis|après la guerre c'est vous.
+{70818}{70916}Un symbole à la con des problèmes|que vous aviez avec tout le monde.
+{70928}{70964}Robert Crawford ?
+{70980}{71083}Oui. Des conneries. Je crois|qu'il y avait vraiment quelqu'un d'autre.
+{71262}{71291}M.Johannsen ?
+{71312}{71336}Tiens.
+{71352}{71453}M.Massie. Encore un voyage|vers votre destination favorite.
+{71458}{71520}J'ai quatre sacs.|Je peux les laisser si vous voulez.
+{71526}{71559}Non.
+{71615}{71646}Entrez.
+{71658}{71708}Comment allez-vous M.Johannsen ?
+{71715}{71768}Le soleil se couche dans une demi-heure.
+{71772}{71868}Vous pourrez repartir en courant|à Manhattan.
+{71887}{71942}Avec ça vous devriez tenir une semaine.
+{71949}{72012}Votre courrier est dans celui-là.
+{72053}{72115}- Les indispensables sont...|- Indispensables ?
+{72120}{72216}J'ai payé les factures. Les copies sont ici.
+{72230}{72304}La compagnie du téléphone demande|si vous annulez votre abonnement
+{72310}{72372}puisque vous n'avez pas eu d'appel|depuis...
+{72384}{72476}Les chaussettes pour quelques semaines|sont dans ce sac.
+{72497}{72567}J'ai votre chèque de la comptabilité.
+{72573}{72676}Ils demandent si vous avez encaissé|le dernier. Il n'a pas été débité.
+{72685}{72747}Il a bien diminué.
+{72865}{72934}Désolé. Je n'avais pas vu|que vous aviez de la visite.
+{72940}{73009}Nous discutions de...
+{73019}{73108}l'histoire automobile allemande.|Vous voulez vous joindre à nous ?
+{73119}{73189}- Non, je suis mal garé.|- Bien sûr.
+{73202}{73236}A la semaine prochaine ?
+{73238}{73279}Pas si j'ai de la chance.
+{73410}{73490}Si vous lui donniez congé|et faisiez vos courses vous-même ?
+{73497}{73538}Les chaussettes sont à l'envers ?
+{73543}{73581}Les chaussettes sont mal conçues.
+{73584}{73661}Les ourlets sont à l'intérieur|et blessent le pied.
+{73690}{73791}Dans certaines cultures ça porte chance|de porter un vêtement à l'envers.
+{73803}{73834}Vous y croyez ?
+{73837}{73914}Non. Mais c'est comme la prière.|Où est le risque ?
+{73925}{74028}Et je sors. Comment tu crois|que je nettoie ces fenêtres ?
+{74092}{74176}Pour en revenir à ton professeur.
+{74187}{74278}Qu'est-ce que tu as pensé quand il t'a dit|ce que tu ne pouvais pas faire ?
+{74289}{74333}Qu'il se croyait meilleur que moi.
+{74337}{74399}Montrons-lui ce que tu peux faire.
+{74440}{74491}Pourquoi ce que nous écrivons|pour nous-même
+{74495}{74569}est toujours mieux que ce que|nous écrivons pour les autres ? Bouge-toi.
+{74679}{74711}Assieds-toi.
+{74936}{74965}Vas-y.
+{74993}{75029}Vas-y quoi ?
+{75033}{75056}Ecris.
+{75123}{75154}Qu'est-ce que vous faites ?
+{75157}{75265}J'écris. Comme toi quand tu te mettras|à frapper sur les touches.
+{75402}{75434}Quelque chose ne va pas ?
+{75437}{75478}Non. Je réfléchis.
+{75500}{75550}Pas de réflexion. Ça vient après.
+{75656}{75694}On écrit le premier jet
+{75722}{75761}avec le cœur.
+{75780}{75836}On réécrit avec la tête.
+{75929}{75982}La première clé de l'écriture c'est
+{76017}{76051}d'écrire.
+{76072}{76103}Pas de réfléchir.
+{76355}{76386}Ça !
+{77281}{77337}Vous pourriez vous asseoir ?
+{77777}{77844}''Une saison de foi parfaite.''|Qu'est-ce que c'est ?
+{77850}{77888}Commence à taper ça.
+{77897}{78012}Parfois le rythme de la frappe suffit à nous|amener de la page un à la page deux.
+{78042}{78141}Quand tu commenceras à sentir|tes propres mots, commence à les taper.
+{78677}{78732}Cogne sur les touches, grand Dieu !
+{78982}{79011}Voilà !
+{79116}{79169}Tu es un homme maintenant mon pote.
+{79303}{79370}dans ce tunnel sombre.
+{79394}{79505}Pour moi il est aussi beau qu'une
+{79544}{79604}nuit obscure et profonde.
+{80752}{80817}Tout ce qu'on écrit dans cet appartement
+{80827}{80880}doit y rester.
+{80899}{80930}Sans exception.
+{81712}{81762}On se donne, les gars.
+{81919}{81977}- Faute.|- Hein ? C'était ma place.
+{81982}{82035}Je te le dirai quand ça sera ta place.
+{82046}{82161}La saison commence dans une semaine.|Si je vois ça encore une fois
+{82171}{82257}vous allez tirer des lancers francs|et le premier qui rate court.
+{82262}{82294}C'est compris ?
+{82310}{82332}Un.
+{82485}{82506}Deux.
+{82610}{82631}Trois.
+{82731}{82758}Onze.
+{82862}{82883}Douze.
+{82962}{82988}Treize.
+{83057}{83086}Vingt-neuf.
+{83294}{83322}Quarante-huit.
+{83415}{83446}Quarante-neuf.
+{83569}{83593}Attendez.
+{83649}{83673}Encore un.
+{84005}{84098}C'était une des choses les plus|impressionnantes que j'aie jamais vues.
+{84104}{84174}Pourquoi est-ce que ça ne vous suffit pas ?
+{84177}{84223}Douchez-vous et sortez d'ici.
+{84299}{84364}Tu crois peut-être qu'on est pareils.|C'est faux.
+{84682}{84702}Professeur.
+{84705}{84762}Le dernier travail que vous m'avez remis
+{84812}{84891}était en net progrès sur les précédents.
+{84907}{84936}- Merci.|- Oui.
+{84944}{84990}Vous l'avez écrit en combien de temps ?
+{84994}{85025}Je l'ai écrit hier soir.
+{85030}{85061}Hier soir.
+{85094}{85163}J'ai du travail à terminer.
+{85169}{85200}Bonne journée.
+{85407}{85452}C'est exact. Faites un autre choix.
+{85457}{85524}- ''Oiseaux de la même nichée'' pour 600 dollars.|- Réponse :
+{85529}{85608}''De couleur vive, son nom estl'anagramme|d'une statuette grecque.''
+{85611}{85642}Tangara écarlate.
+{85647}{85695}Non ''Qu'est le tangara écarlate ?''
+{85699}{85735}Qu'est le tangara écarlate ?
+{85739}{85798}Pour jouer il faut connaître les règles.
+{85805}{85879}Un écrivain dont tu n'as jamais|entendu parler a écrit :
+{85902}{85972}''Ton devoir flamme ailée du printemps
+{85992}{86037}''n'est que d'aimer, de voler
+{86052}{86151}''et de chanter''|Il parlait du chant du tangara.
+{86162}{86255}Un chant de nouvelles saisons,|d'une nouvelle vie.
+{86276}{86317}C'est James Lowell.
+{86326}{86369}Je le connais.
+{86392}{86476}Je reste à ''Hypothèses spécieuses''|pour 800 dollars Alex.
+{86507}{86562}Vous avez déjà vu des tangaras par ici ?
+{86567}{86632}Ils ne s'éloignent pas autant du parc.
+{86767}{86875}Ton professeur ne t'a pas vraiment félicité|cet après-midi ?
+{86881}{86917}Pas vraiment.
+{86947}{87050}Il faut que je te dise quelque chose|sur Robert Crawford.
+{87077}{87144}Il a écrit un livre|quelques années après moi.
+{87157}{87258}Tous les éditeurs l'ont refusé|et ils ont eu raison.
+{87287}{87337}Au lieu d'en écrire un autre
+{87354}{87441}il s'est mis à enseigner l'écriture|aux autres.
+{87484}{87515}Comment vous savez tout ça ?
+{87519}{87600}Souviens-toi que les professeurs|amèrement désappointés
+{87612}{87679}sont soit très efficaces,
+{87699}{87738}soit très dangereux.
+{88880}{88988}Ce soir c'est la première étape.|Un ban pour Mailor.
+{88999}{89057}Un, deux, trois, Mailor !
+{89691}{89742}Maillots or. Maillots noirs.
+{89799}{89850}Haut et droit !
+{90139}{90166}Ça gaze ?
+{90172}{90236}- Tu étais là ce soir ?|- T'as mis 26 points.
+{90242}{90304}8 paniers sur 10|et 10 lancers francs sur 10.
+{90309}{90341}Et je manquerais ça ?
+{90342}{90366}C'était génial.
+{90369}{90434}Ça ajoute du sérieux à ton dossier.
+{90446}{90487}Il y a des trucs prévus ?
+{90514}{90593}Les potes vont au Red Rose.|J'ai dit qu'on les rejoindrait.
+{90600}{90647}C'est vendredi soir. Viens.
+{90652}{90717}Tu prévois de faire ça tous les soirs ?
+{90729}{90799}- Ça a bien marché.|- On peut le dire.
+{90849}{90883}Voici Fly.
+{90886}{90953}Salut. Je m'appelle Claire.|Tu es un ami de Jamal ?
+{90959}{91004}Viens.
+{91014}{91045}J'arrive.
+{91056}{91128}Ne fais pas attendre le bus. A plus Fly.
+{91159}{91228}Qu'est-ce que tu fous avec elle ?
+{91264}{91291}Ferme-la.
+{91339}{91394}Pour le Red Rose
+{91426}{91512}il faut que j'aille chez ce gars.|Ils font ça tous les ans.
+{91521}{91555}Ne m'en veux pas.
+{91566}{91653}Tu es une vedette. Vas-y.|Je veux pas retarder ton bus.
+{91659}{91702}Tu seras dans le coin ce week-end ?
+{91706}{91780}Et où je serais ?|Aux Hamptons, avec les rupins ?
+{93017}{93094}J'ai été heureux de vous parler.|S'il vous faut quelque chose,
+{93099}{93161}appelez-moi. D'accord ?
+{93199}{93225}D'accord.
+{93364}{93424}Tu commences une collection ?
+{93451}{93490}J'en ai quelques-unes.
+{93499}{93544}On sort un moment ?
+{93561}{93613}Oui. Tu connais cet endroit ?
+{93641}{93704}J'y habite. Viens.
+{93898}{93994}Ils vont se féliciter de ton jeu|jusqu'à minuit.
+{94009}{94095}Demain il faudra que je me dépêche|de préparer l'examen de lundi.
+{94104}{94138}Un examen sur quoi ?
+{94141}{94184}Les livres de Sherlock Holmes.
+{94188}{94256}Il faut chercher|des trucs inutiles du genre :
+{94262}{94310}Qui a présenté Watson à Holmes ?
+{94326}{94403}C'est pour nous obliger à tout lire.
+{94431}{94484}On dirait que ça va durer un moment.
+{94487}{94520}Peut-être.
+{94531}{94617}Avec ton copain Fly,|vous vous connaissez depuis longtemps ?
+{94639}{94716}Plutôt. Il est né là-bas et moi aussi.
+{94721}{94762}- Dans le Bronx ?|- Oui.
+{94774}{94807}Ça doit être dur.
+{94816}{94838}Quoi ?
+{94859}{94914}De nouvelles têtes, un nouveau lycée.
+{94932}{94956}Non ?
+{95022}{95125}C'est dur de grandir dans un endroit|où les flics veulent même pas aller la nuit.
+{95154}{95214}De savoir qu'on y est en sécurité.
+{95218}{95326}Parce que les gens dangereux|savent qu'on a rien à leur donner.
+{95350}{95398}Alors c'est bien que tu sois ici.
+{95462}{95541}Ces gens pensent|que j'ai rien à leur donner non plus.
+{95549}{95633}Ne me laisse pas passer.|Si je passe, je marque.
+{95651}{95733}Prête ? Reste devant moi, d'accord ?
+{95746}{95773}D'accord ?
+{95856}{95894}Je suis passé.
+{95901}{95951}Tu es plus grand que moi.
+{95973}{96024}Ça fait rien. Tu dois défendre quand même.
+{96029}{96058}Et comment ?
+{96081}{96149}Comment on défend ?|Je vais te montrer une façon.
+{96181}{96210}Tourne-toi.
+{96326}{96355}Tu sens ça ?
+{96366}{96387}Oui.
+{96401}{96478}Là je sais où tu vas aller|parce que je te sens bouger.
+{96499}{96540}Essaie d'aller à gauche.
+{96605}{96686}Tu vois, tu ne peux pas passer.|J'ai senti que tu allais à gauche.
+{96694}{96735}Essaie d'aller à droite.
+{96799}{96832}Je suis encore là.
+{96839}{96913}Je sens que tu veux aller à droite|alors tu ne peux pas y aller.
+{96919}{96964}Maintenant essaie de passer.
+{97011}{97050}Attends.
+{97073}{97114}Tu dois dribbler d'abord.
+{97116}{97186}Dribble. Bon. Comme...
+{97211}{97242}Comme ça ?
+{97322}{97355}- Désolée.|- Claire.
+{97397}{97425}Papa ?
+{97436}{97484}Certains des invités s'en vont.
+{97516}{97564}On se voit lundi, d'accord ?
+{97932}{97956}Oui ?
+{97973}{98007}C'était Stamford.
+{98026}{98050}Pardon ?
+{98061}{98100}Dans le bar à Londres.
+{98107}{98164}C'est lui qui a présenté Watson à Holmes.
+{98176}{98252}Ça peut te faire gagner du temps|quand tout ça sera fini.
+{98431}{98494}Vous savez|combien de temps j'y ai travaillé ?
+{98499}{98600}C'était pas une saison de foi parfaite.|On dirait plutôt deux ou trois saisons.
+{98726}{98793}Vous ne m'entendez même pas, hein ?
+{98808}{98897}Si je vous demandais pourquoi|vous n'avez jamais déménagé, vous...
+{98903}{98951}Le troisième paragraphe commence
+{98976}{99026}par une conjonction, ''et''.
+{99054}{99112}On ne commence pas une phrase|par une conjonction.
+{99116}{99155}- Bien sûr que si.|- Non.
+{99169}{99195}C'est une règle stricte.
+{99246}{99351}Ça l'était. Quelquefois|commencer une phrase par une conjonction
+{99359}{99447}la met en valeur. C'est peut-être|ce qu'essaie de faire l'auteur.
+{99459}{99509}Et quel est le risque ?
+{99516}{99557}De le faire trop souvent.
+{99571}{99647}Le texte risque d'apparaître|continu et monotone.
+{99656}{99771}Mais la règle sur l'usage de ''et'' ou ''mais''|au début d'une phrase est douteuse.
+{99789}{99856}Même si trop de professeurs|l'enseignent encore.
+{99869}{99967}Certains des meilleurs auteurs, dont vous,|l'ont ignorée pendant des années.
+{100044}{100140}Tu as pris un texte de moi
+{100169}{100245}et tu l'as fait tien. C'est une réussite.
+{100306}{100338}Merci.
+{100341}{100389}Le titre est encore à moi, non ?
+{100452}{100487}Oui.
+{100506}{100569}C'est le voisinage qui a changé, pas moi.
+{100579}{100617}J'ai vu changer que dalle.
+{100621}{100721}Tu as ''vu changer que dalle'' ?|Qu'est-ce que c'est que ce langage ?
+{100761}{100826}Ici, ne parle pas comme là-bas.
+{100832}{100909}Je vous faisais marcher.|C'était une plaisanterie.
+{100999}{101095}Parlez-moi du voisinage|quand les gens lisaient encore votre livre.
+{101128}{101167}Qu'est-ce que tu as dit ?
+{101239}{101268}Rien.
+{101273}{101374}Tu as dit|''quand les gens lisaient encore mon livre.''
+{101406}{101428}Non ?

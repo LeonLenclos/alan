@@ -1,0 +1,562 @@
+{2}{52}Guide des hôtels suisses
+{224}{286}St-Moritz|Passez vos vacances en Suisse
+{523}{641}L'HOMME QUI EN SAVAIT TROP
+{2679}{2708}Vous n'avez rien ?
+{2718}{2814}Demandez à ma nurse,|mon anglais n'est pas assez bon.
+{2840}{2910}Il a bien failli nous mettre KO.
+{2919}{2984}- KO ? Je ne comprends pas.|- C'est une expression.
+{2993}{3029}Tu vas prendre froid !
+{3057}{3120}Alors, Louis...|Tu es dans le cirage ?
+{3134}{3167}Pardon, je vous ai bousculé.
+{3172}{3249}Ce n'est rien,|c'était difficile de l'éviter.
+{3287}{3345}Rentrons !|Ça suffit comme ça.
+{3541}{3582}Je vais retourner à l'hôtel.
+{3589}{3611}Un autre saut ?
+{3616}{3657}C'était ma dernière chance.
+{3683}{3733}Méchante fille !
+{3745}{3793}C'est lui,|le vilain petit chien !
+{3798}{3829}J'aurais pu me tuer.
+{3839}{3916}Mon dernier jour ici a failli|être mon dernier jour sur terre.
+{3920}{3951}Ton dernier jour ici ?
+{3961}{4009}- Tu ne pars pas ce soir ?|- Mais si !
+{4015}{4051}Je prends le dernier train.
+{4058}{4082}Oncle Louis !
+{4087}{4130}Pourquoi|m'appelles-tu "oncle" ?
+{4137}{4181}Pour moi,|tu es comme un oncle.
+{4214}{4315}- Tu nous manqueras.|- Maman sera déçue, hein papa ?
+{4329}{4351}Vraiment ?
+{4360}{4420}Elle vous adore.|Pas vrai, papa ?
+{4428}{4456}Je suis navré de partir.
+{4461}{4557}Et si je vous invitais à dîner,|toi et ta charmante femme ?
+{4569}{4600}Elle en sera ravie.
+{4617}{4703}Oncle Louis...|Le soir, je meurs de faim.
+{4711}{4799}Tu meurs de sommeil aussi.|Tu feras un gros dodo.
+{4814}{4869}Laisse-moi venir,|Je dormirai tard, demain.
+{4878}{4907}Demande à ta mère.
+{4924}{4945}Où est Jill ?
+{4962}{5027}Elle participe à la finale|de tir aux pigeons.
+{5036}{5074}Je voudrais qu'elle gagne,|pas vous ?
+{5081}{5108}Qui joue contre elle ?
+{5146}{5206}- Alors, il faut qu'elle gagne !|- Tu ne l'aimes pas ?
+{5213}{5254}- Et toi ?|- Je ne sais pas...
+{5259}{5319}Il a l'air ennuyeux|mais sympathique.
+{5328}{5366}Pourquoi ne l'aimes-tu pas ?
+{5374}{5462}Il fait trop de sourires|et il met trop de brillantine !
+{5568}{5592}Voilà mon ennemi !
+{5599}{5640}Les Anglais ont tant d'humour !
+{5647}{5695}Je ne vous souhaite pas|la victoire !
+{5700}{5781}Vous gagnerez ! Vous êtes|si belle, si intelligente.
+{5815}{5853}Si on commençait ?
+{6339}{6411}- Je dîne avec vous ce soir ?|- Tu veux le savoir maintenant ?
+{6420}{6464}Oui, maintenant !|Oui ou non ?
+{6471}{6521}Petite fille riche !|Regarde...
+{6543}{6588}La broche que tu voulais...
+{6598}{6643}Repars et sois sage !
+{6823}{6859}Regarde ce que maman...
+{6864}{6919}Tais-toi !|Ce n'est pas le moment !
+{7196}{7235}Je ne suis pas un bébé !
+{7285}{7366}Vous voyez ? Ne m'imitez pas,|ne faites jamais d'enfants.
+{7381}{7407}C'est ta faute !
+{7479}{7522}Ta fille va me faire perdre.
+{7539}{7573}C'est ta fille aussi !
+{7580}{7623}Si je perds, je la renie !
+{8126}{8219}Désolé, vous avez perdu, mais|je suis ravi d'avoir gagné !
+{8229}{8286}Vous avez très bien tiré,|et je m'y connais.
+{8293}{8317}Vous me flattez.
+{8322}{8363}J'aimerais|prendre ma revanche.
+{8370}{8399}J'en rêve déjà.
+{8420}{8500}Et cette fois, je vous|la mettrai dans les pattes.
+{8509}{8548}Les Anglais sont merveilleux !
+{8555}{8639}- Mon amour !|- Ma chérie !
+{8646}{8670}Mon déjeuner !
+{8699}{8727}Garde ton rejeton !
+{8761}{8828}Je pars avec un autre homme !
+{8914}{8974}Tu mettras Betty au lit.
+{9048}{9122}Ma femme a perdu,|alors elle part avec un autre.
+{9129}{9153}C'est votre faute !
+{9160}{9218}Votre femme|est tellement charmante !
+{10130}{10176}C'est le tricot de ta mère ?
+{10255}{10279}Donne-le-moi !
+{10485}{10507}Vas-y Louis.
+{10533}{10557}Comment ça ?
+{10564}{10588}Fais ton numéro.
+{10629}{10682}Que penses-tu|du mâle britannique ?
+{10689}{10735}Il est beaucoup trop froid.
+{10766}{10814}Sauf quand il a bu,|bien sûr !
+{10864}{10905}C'est pour lui, ce pull ?
+{10936}{11005}Bien sûr ! Tu croyais|que c'était pour toi ?
+{11043}{11069}C'est un souvenir.
+{11074}{11124}Pour réchauffer|mon pauvre cœur !
+{12732}{12754}Vite !
+{12780}{12804}Dites à Bob...
+{12833}{12886}Mon blaireau...|Dans ma chambre.
+{12902}{12958}Qu'il la porte|au Consul Britannique...
+{12965}{13032}Ou à Gibson.
+{13074}{13153}N'en soufflez mot...
+{13168}{13189}à personne.
+{13414}{13474}Sois gentille|et va dans ta chambre.
+{13618}{13709}- C'est un impact de balle !|- On a tiré de l'extérieur !
+{13733}{13808}- J'ai du courrier ?|- Deux lettres, monsieur.
+{13901}{13947}Il est mort, c'est affreux !
+{13964}{14028}Il y a quelque chose|de louche là-dessous.
+{14034}{14111}Il a dit d'aller dans sa chambre|et de chercher un blaireau.
+{14123}{14174}Voilà sa clé, il me l'a donnée.
+{14178}{14250}- Qu'est-ce que ça veut dire ?|- On le saura bientôt.
+{15364}{15388}Ouvrez !
+{15467}{15510}C'est très important !
+{15991}{16051}WAPPING|G.Barbor contact l'Albert Hall...
+{16058}{16090}Le 21 mars.
+{16303}{16351}- Il y a un problème ?|- Aucun !
+{16358}{16416}Si j'étais vous, je...|Donnez-le-moi !
+{16454}{16502}Vous nous devez|des explications.
+{16509}{16579}Que faisiez-vous dans|la chambre de monsieur Bernard ?
+{16586}{16634}C'est interdit !|Expliquez-vous !
+{16699}{16759}C'est très simple...|Mais j'ai besoin d'aide.
+{16763}{16814}Veuillez joindre|le Consul Britannique.
+{16821}{16852}D'accord, mais après !
+{16876}{16970}- Je dois absolument lui parler.|- Au Consul Britannique ?
+{17009}{17088}Il vaut mieux que vous attendiez|dans mon bureau.
+{17395}{17491}C'est une simple formalité !|Dans ma position, vous savez...
+{17859}{17900}Allez-vous appeler le Consul ?
+{17921}{17977}Tout de suite, monsieur.
+{18100}{18134}Je veux parler à ma femme.
+{18139}{18227}Désolé, le commissaire veut|vous questionner séparément.
+{18254}{18354}- Vous dites que c'était un ami.|- Il parlait très peu de lui.
+{18414}{18481}Savez-vous si le Consul|est à St-Moritz aujourd'hui ?
+{18489}{18520}Je ne comprends pas.
+{18661}{18690}Der Britisher Consul.
+{18695}{18748}Vous savez,|notre représentant en Suisse.
+{18755}{18791}Il est là ?|Heu... lui ?
+{18798}{18827}Oui, c'est un homme.
+{18836}{18877}Ce n'est pas ça !|Il est là ?
+{18889}{18913}Là ? Non !
+{18972}{19020}Il est ici, à St Moritz ?
+{19392}{19442}J'ai oublié s'il était|vers la fenêtre,
+{19449}{19487}ça s'est passé très vite !
+{19492}{19533}Je veux parler à ma femme.
+{19543}{19600}Le commissaire|a donné des ordres...
+{19612}{19662}Je n'y peux rien !|Excusez-moi.
+{19869}{19926}- Si vous permettez, je...|- Quoi ?
+{20024}{20115}On l'a déposé à la réception,|c'était écrit "urgent".
+{20525}{20568}Il vous demande de sortir !
+{20580}{20618}J'ai un message pour ma femme.
+{20625}{20700}Les Mitchell ne viendront|pas déjeuner demain.
+{20949}{21050}Ne dites rien sur ce que|vous avez découvert...
+{21058}{21121}ou vous ne reverrez jamais|votre enfant.
+{21552}{21610}Qu'est-ce que c'est ?|Donnez-moi ça !
+{22829}{22911}J'ignore si je peux vous aider,|mais posez-moi vos questions.
+{22918}{22992}Ne racontez pas d'histoires,|ça ne prend pas.
+{23022}{23125}Le 10 mars, votre femme et vous|partez ensemble pour la Suisse.
+{23171}{23200}Pour St Moritz.
+{23255}{23284}Avec votre fille.
+{23327}{23365}Du soda, dans le whisky ?
+{23399}{23459}Le 19 mars,|vous retournez à Londres.
+{23579}{23651}Vous revenez à Londres|sans votre fille.
+{23773}{23799}Où est-elle ?
+{23821}{23878}- Chez une tante.|- Quelle tante ?
+{23966}{24007}Et où habite cette tante ?
+{24021}{24048}A Paris.
+{24074}{24095}A quelle adresse ?
+{24103}{24196}Les noms français sont trop|durs à retenir pour un anglais.
+{24304}{24374}Pourquoi étiez-vous si nerveux|quand en quittant la Suisse ?
+{24381}{24431}Je ne savais pas|que j'étais nerveux.
+{24462}{24525}Etait-ce parce que|votre fille a été...
+{24563}{24587}Kidnappée ?
+{24906}{24966}Autre chose...|Voilà ce que je pense.
+{24982}{25073}Ce n'est pas le genre de type|à perdre la tête.
+{25080}{25128}Ou bien à vendre la mèche.
+{25157}{25214}Tu comprends ?|Quand j'étais dans la marine...
+{25224}{25269}C'est un train électrique ?
+{25274}{25303}Oui, de 20 volts.
+{25348}{25384}Je l'ai offert à Betty.
+{25418}{25452}Elle n'en joue plus ?
+{25464}{25550}Elle n'y a jamais touché,|tu ne la laissais pas faire !
+{26290}{26342}Tu ne dois pas te décourager.
+{26374}{26438}Ce que je veux dire,|c'est que...
+{26465}{26503}Ne baisse pas les bras.
+{26702}{26726}Ça va bien.
+{26803}{26894}Tu mélanges les wagons à|bestiaux et ceux des voyageurs !
+{27032}{27092}- C'est votre dernier mot ?|- Absolument !
+{27099}{27188}Navré de vous dire que je ne|crois mot de votre histoire.
+{27945}{28029}Vous êtes encore là ?|Vous cherchez votre sifflet ?
+{28050}{28115}Je ne suis pas flic.|Je m'appelle Gibson.
+{28124}{28189}Je suis secrétaire au Ministère|des Affaires Etrangères.
+{28199}{28275}Vraiment ?|Comment allez-vous ?
+{28299}{28352}Votre ami Louis|travaillait pour nous,
+{28359}{28402}dans les services secrets.
+{28436}{28486}Vous l'ignoriez, n'est-ce pas ?
+{28529}{28599}N'avez-vous rien trouvé|dans ce blaireau ?
+{28774}{28803}Je suis très pressé...
+{28808}{28865}Ce n'est pas parce|que votre fille a été enlevée
+{28872}{28906}qu'il faut vous taire !
+{28932}{29019}Il y avait un papier là-dedans|quand Louis à été tué.
+{29042}{29075}Je suis très surpris.
+{29176}{29205}Tu n'as rien dit ?
+{29217}{29289}Pas encore, mais il est|sur le point de le faire.
+{29298}{29346}Voici M.Gibson.
+{29399}{29483}Je comprends tout à fait.|Ecoutez-moi et vous comprendrez
+{29490}{29535}pourquoi j'ose venir|vous ennuyer.
+{29543}{29612}Avez-vous entendu parler|d'un chef d'état nommé Ropa ?
+{29619}{29646}Je ne pense pas.
+{29679}{29725}Alors,|peu vous importe de savoir
+{29732}{29770}qu'on cherche à l'assassiner.
+{29778}{29854}- Quel rapport avec nous ?|- Vous allez comprendre.
+{29874}{29898}Louis est mort
+{29905}{29977}parce qu'il savait qui préparait|cet attentat contre Ropa.
+{29985}{30050}Ça a un rapport avec|l'enlèvement de votre fille,
+{30060}{30136}car aujourd'hui, c'est vous|qui détenez l'information.
+{30153}{30230}Elle était dissimulée|dans le blaireau de Louis.
+{30259}{30350}Ropa est actuellement à Londres|et nous devons le protéger.
+{30357}{30400}Vous devez nous donner|ce papier.
+{30407}{30443}Désolé, c'est impossible.
+{30450}{30510}Mais je peux vous lire|un autre bout de papier.
+{30518}{30601}"Si vous parlez, vous ne|reverrez jamais votre fille."
+{30611}{30659}C'est sa vie|contre celle de Ropa.
+{30664}{30755}Que nous importe à nous,|l'assassinat d'un inconnu ?
+{30767}{30848}Avez-vous entendu parlez|de Sarajevo en juin 1914 ?
+{30858}{30932}Non ! Et encore moins de|l'archiduc François-Ferdinand.
+{30939}{30999}Et en un mois,|un homme inconnu de vous,
+{31006}{31051}en a tué un autre,|inconnu de vous,
+{31058}{31097}et ça a déclenché une guerre.
+{31106}{31133}Ne lui dis rien !
+{31154}{31214}Navrée, mais ça ne nous|intéresse pas.
+{31221}{31298}Vous avez sans doute raison,|mais notre fille est en danger.
+{31308}{31365}Cela doit passer en premier,|vous comprenez ?
+{31372}{31437}Savez-vous à quel genre d'hommes|vous avez à faire ?
+{31444}{31495}Croyez-vous que le meurtre|les arrête ?
+{31502}{31562}Qui vous dit qu'elle est|toujours vivante ?
+{31663}{31734}Il y a quelqu'un au téléphone.|C'est au sujet de Betty.
+{31742}{31773}Branche-le-moi ici.
+{31945}{31989}Ecoutez bien...
+{32009}{32103}Nous ne voulons pas interrompre|votre conversation avec l'agent
+{32112}{32184}mais souvenez-vous|que si vous parlez
+{32191}{32249}vous ne reverrez jamais|votre fille.
+{32263}{32299}C'est un avertissement.
+{32326}{32395}- Qu'est-ce que c'est ?|- Une farce, sûrement !
+{32407}{32522}Si vous croyez à un canular,|je vais vous passer votre fille.
+{32685}{32745}- Allô, ma chérie ?|- Allô, maman !
+{32786}{32846}- Tu vas bien ?|- Oui, maman.
+{32870}{32942}- Tu as à manger ?|- Demande-lui où elle est !
+{33027}{33070}Tu me manques terriblement.
+{33102}{33185}Ton oncle et moi|jouons avec ton train.
+{33197}{33231}Demande-lui où elle est !
+{33236}{33298}Venez me chercher !|Je veux rentrer à la maison.
+{33305}{33358}Tu y seras très bientôt.
+{33377}{33449}- Demande-lui où elle est !|- Je vais venir te chercher.
+{33495}{33581}Chérie, où es-tu ?
+{33816}{33838}Courage !
+{34213}{34261}Avez-vous reconnu cette voix ?
+{34311}{34345}Laissez-nous !
+{34350}{34448}- Peut-on localiser l'appel ?|- Les préposés ne le disent pas.
+{34534}{34587}Passez-moi les services secrets.
+{34618}{34654}C'est G à l'appareil.
+{34695}{34741}D'où vient le dernier appel ?
+{34760}{34827}De Wapping ?|D'une cabine téléphonique...
+{34834}{34932}Prévenez Scotland Yard, qu'on|poste des hommes un peu partout.
+{34987}{35031}Qu'on boucle le quartier !
+{35043}{35100}Wapping,|ça vous dit quelque chose ?
+{35131}{35153}Rien du tout.
+{35239}{35318}N'oubliez pas que s'il y a des|problèmes, ce sera votre faute.
+{35326}{35383}Votre conscience|n'est pas très belle.
+{35572}{35668}Si vous changez d'avis,|faites-le moi savoir.
+{35827}{35877}Tu nous accompagnes ?|A Wapping.
+{35899}{35947}Je vais chercher mon manteau.
+{35962}{36037}S'ils s'aperçoivent|que le quartier est bouclé,
+{36046}{36142}ils penseront qu'on a parlé.|Il faut donc y aller... Vite !
+{36149}{36209}Tu restes ici.|Ils pourraient téléphoner.
+{36216}{36264}Je te préviendrai|en cas de problème.
+{36272}{36327}Je ne veux pas|rester ici sans toi.
+{36444}{36507}- Et ton dîner ?|- Laisse-moi un os...
+{36866}{36921}G.BARBOR|DENTISTE
+{36931}{36993}WAPPING.|G.BARBOR CONTACT A.HALL.
+{37093}{37153}Il y a plusieurs G. Barbor|à Wapping.
+{37170}{37230}De toute façon, il faudra|le trouver, allons-y.
+{37237}{37299}Regarde !|On dirait que c'est la police.
+{37714}{37755}- On entre ?|- Un moment.
+{37788}{37846}- Comment tu me trouves ?|- Parfait !
+{37896}{37939}Nous devons préparer|des questions.
+{37948}{37972}Bonne idée !
+{37984}{38017}Fais voir tes dents.
+{38082}{38123}Ça devrait aller.|Viens !
+{38526}{38590}La salle d'attente|est comble, on dirait.
+{38643}{38667}B'soir !
+{38737}{38782}Mon pote a une rage de dents.
+{38825}{38852}Je vais voir ça.
+{39750}{39774}Pauvre vieux !
+{39793}{39817}Cinq shillings !
+{39848}{39899}Paie-le pour moi,|s'il te plaît.
+{39991}{40013}Où allez-vous ?
+{40020}{40087}- Faut voir les miennes.|- Qu'est-ce qui ne va pas ?
+{40094}{40161}J'ai eu mal aujourd'hui.|Voulez-vous regarder ?
+{40178}{40243}Tu restes dehors|et tu fermes la bouche !
+{41374}{41397}Il est arrivé ?
+{41409}{41431}Pas encore.
+{41599}{41640}Vous venez de débarquer ?
+{41668}{41690}Quel bateau ?
+{41712}{41733}Le Saxon.
+{41803}{41841}Il n'arrive que demain.
+{41867}{41951}Non, je viens du Tillbury,
+{41984}{42027}je suis arrivé par le train.
+{42034}{42082}Ce bateau est une vielle carne.
+{42097}{42118}Comment ?
+{42142}{42171}Il est à la casse.
+{42219}{42284}C'est vrai...|Ce que je disais...
+{42293}{42315}Est faux.
+{42327}{42382}Ce bateau a fait|son dernier voyage.
+{42413}{42485}Bien sûr !|Je perds la mémoire.
+{42499}{42535}Vos dents sont saines.
+{42547}{42629}Vous avez sûrement raison.|J'ignore ce que j'ai eu.
+{42636}{42679}- Je m'en vais.|- Attendez.
+{42701}{42742}Qu'est-ce qui ne va pas ?
+{42768}{42802}Il y en a une, là...
+{42816}{42837}Assis !
+{43098}{43163}Ce n'est pas la peine|de faire ça !
+{45340}{45364}Il est arrivé ?
+{45484}{45539}Te voilà !|Tu as fait bon voyage ?
+{45558}{45599}J'ai été malade à crever.
+{45618}{45692}C'est la dernière fois que|je viens en fraude dans ce pays.
+{45700}{45721}Même pour toi !
+{45738}{45827}Tu viendras en fraude à chaque|fois que je le déciderai.
+{45918}{45980}C'est ta faute,|tu es un tireur d'élite.
+{46051}{46111}Tu dois payer le prix|de ton génie.
+{46147}{46183}Tout est prêt, pour ce soir ?
+{46188}{46219}J'ai choisi ta loge.
+{46248}{46298}C'est l'endroit|le plus pratique.
+{46305}{46382}Pas de problème avec|la charmante petite Betty ?
+{46459}{46492}Exquise, la souris !
+{46514}{46545}Et où est la souris ?
+{46550}{46665}Dans un petit trou,|quelque part, attends de voir.
+{46758}{46842}- C'est ton dernier client ?|- Non, c'est le premier.
+{47278}{47316}Ils sont partis par où ?
+{47338}{47410}Tu as appris quelque chose ?|Tu me racontes ?
+{47996}{48044}Ils seraient entrés là-dedans ?
+{48111}{48135}Regarde !
+{48449}{48507}- Qui sont-ils ?|- Les adorateurs du soleil.
+{48516}{48567}Ils doivent être|très brillants !
+{50370}{50480}Cette femme à l'arrière...
+{50521}{50639}à notre gauche,|à tous les deux...
+{50734}{50842}Quel rang, mon ami ?
+{50869}{50986}Je ne pige pas ce que tu dis.
+{51031}{51148}Hélas, hélas !|Fais gaffe !
+{51187}{51304}Je sens à vue de nez|que les ennuis vont commencer.
+{51697}{51784}Peut-être que les gens qui|viennent pour la première fois
+{51793}{51832}et n'ont pas encore été initiés
+{51839}{51901}aux mystères|de la divinité solaire,
+{51931}{52008}se demandent-ils|ce qui va se passer maintenant.
+{52030}{52063}Je vais le leur dire.
+{52068}{52149}Avant la cérémonie qui n'est|ouverte qu'aux initiés,
+{52161}{52233}il est bien entendu nécessaire|que chacune de vos âmes
+{52243}{52308}ait été préparé aux mystères|et purifiée.
+{52327}{52416}Je vais donc demander à une|personne non encore initiée
+{52436}{52505}de se soumettre|à un contrôle très simple.
+{52534}{52618}Qu'il ou elle se place|sur le quatrième cercle.
+{52644}{52714}Y a-t-il un volontaire|parmi nous ce soir ?
+{52726}{52755}Vous, peut-être ?
+{53923}{53947}Relaxez-vous.
+{53971}{54028}Gardez vos yeux fixés|sur cette lumière.
+{54047}{54090}Ne la quittez pas des yeux.
+{54107}{54203}Avant d'accéder au premier rayon|du septuple chemin lumineux,
+{54213}{54268}votre âme doit être|blanche et vide.
+{54292}{54345}Vous avez sommeil.
+{54369}{54395}Vous m'entendez ?
+{54462}{54546}Votre esprit|est complètement vide.
+{54558}{54606}Vous le sentez, n'est-ce pas ?
+{54625}{54702}De plus en plus vide.
+{54805}{54877}Complètement... vide.
+{55703}{55751}Cela suffira pour aujourd'hui.
+{55768}{55847}Que ceux qui n'appartiennent|pas encore au quatrième cercle
+{55857}{55933}quittent le temple|aussi doucement que possible.
+{56383}{56460}Vous n'allez pas abandonner|votre ami, j'espère !
+{57214}{57238}Bonsoir !
+{57571}{57643}J'espère que vous n'avez pas été|trop brutal avec lui.
+{57650}{57682}Il est apoplectique.
+{57701}{57729}- Qui ça ?|- Qui ?
+{57744}{57801}Ce pauvre George Barbor|de Wapping !
+{57852}{57876}Je peux ?
+{57947}{57999}Je devrais peut-être|vous le dire.
+{58021}{58103}Vous devriez contrôler|votre instinct paternel
+{58114}{58213}et ne pas laisser de traces|derrière vous.
+{58330}{58397}Tu as pris les offrandes|de notre frère ?
+{58424}{58445}J'ai oublié.
+{58623}{58656}Il y en a là-dedans !
+{58819}{58913}Voulez-vous rejoindre|notre petit cercle ?
+{58933}{58960}Merci beaucoup !
+{59305}{59351}Vous ici ?|Quelle surprise !
+{59372}{59432}Ravi de vous revoir,|M.Lawrence.
+{59662}{59746}- Ma fille est prête à partir ?|- Non, elle dort et...
+{59971}{60050}Ne tire pas !|Tu veux que la police arrive ?
+{60160}{60244}Va jouer de l'orgue,|ou on entendra le bruit dehors.
+{61176}{61238}CONCERT INTERNATIONAL|AU ROYAL A. HALL 22 MARS.
+{61255}{61305}Passe par la fenêtre !|Préviens Jill !
+{61310}{61387}Dis-lui que ça se passe|au concert de l'Albert Hall !
+{62496}{62517}Pardon.
+{62544}{62568}Pardonnez-moi.
+{62656}{62697}Appelez Mme Lawrence !
+{62709}{62779}Dites-lui que si elle va|au concert ce soir,
+{62786}{62817}sa fille est...
+{63504}{63526}Ecoute Jill.
+{63535}{63593}Tu sais,|l'homme qu'on va abattre...
+{63607}{63648}Ça se passera au Albert Hall.
+{63677}{63713}Au Albert Hall.
+{63809}{63854}Tu devrais peut-être y aller.
+{63881}{63907}Oui, tout de suite !
+{63911}{63975}Tu sais ce qui va arriver.|Tu dois arrêter ça !
+{64011}{64088}Je n'ai plus le temps.|Je dois appeler la police.
+{64457}{64522}Madame vient juste de sortir.
+{64714}{64757}Ce sera tout pour ce soir ?
+{64805}{64841}Je veux que tu restes.
+{64870}{64942}Il faut que je rentre,|mon mari veut dîner.
+{64955}{65041}De plus, je refuse d'être mêlée|à une histoire louche.
+{65195}{65260}Veille à ce que madame|reste ici, hein ?
+{65485}{65511}C'est du poison ?
+{65569}{65629}- Vous buvez quelque chose ?|- Merci.
+{65667}{65730}C'est là que vous écrivez|vos sermons ?
+{65737}{65761}Quelquefois.
+{66215}{66278}Allons, n'explosez pas|s'il vous plaît.
+{66290}{66340}Vous avez déjà été à la plage ?
+{66685}{66714}Tu l'as appelée ?
+{66745}{66772}Elle est partie.
+{66922}{66993}Nous allons nous arranger|d'une autre manière.
+{67058}{67113}C'est mon copain|avec les flics !
+{67351}{67437}S'il bouge, n'hésite pas,|tire-lui dans les jambes.
+{67473}{67504}Personne n'entendra.
+{68218}{68239}Encore lui !
+{68263}{68328}Cet homme a fait|plein de dégâts, ce soir.
+{68335}{68357}Pas du tout.
+{68364}{68431}Ils ont enlevé une petite fille|qu'ils ont caché ici,
+{68438}{68486}croyant qu'on ne l'y|chercherait pas.
+{68493}{68558}Et ce type, je veux dire lui,|C'est un malfaiteur !
+{68568}{68594}C'est un alcoolique.
+{68618}{68688}Son ami était rond,|mais lui est en plein délire.
+{68695}{68745}Il vient toujours nous ennuyer.
+{68863}{68911}Voulez-vous porter plainte|contre lui ?
+{68919}{68941}Hélas, oui !
+{68955}{69013}Nous ne voulons pas|faire pression, mais...
+{69027}{69075}nous avons été assez patients.
+{69116}{69173}Qu'avez-vous à dire|pour votre défense ?
+{69181}{69224}Ce soir, mon ami et moi...
+{70065}{70089}Où sont-ils ?
+{70111}{70173}Les flics.|Ceux qui viennent de siffler.
+{70202}{70288}Ils ont emmené notre ami anglais|au commissariat.
+{70322}{70410}Quelle chance !|J'ai porté plainte contre lui.
+{70478}{70554}Il aura plus de chance|que vous !
+{70899}{70920}J'oubliais...
+{70930}{70968}La petite nous rejoint ?
+{71018}{71090}C'est la plus douce enfant|que je connaisse.
+{71318}{71438}Pour un homme de cœur,|rien n'est plus touchant
+{71479}{71546}qu'un père qui dit au revoir|à son enfant,
+{71558}{71592}pour la dernière fois.
+{71606}{71654}Qu'y a-t-il de plus émouvant ?
+{71666}{71745}Si c'est ce que vous attendez|de moi, vous allez être déçu !
+{71755}{71776}On verra...
+{71805}{71858}Pourquoi|me regardez-vous ainsi ?
+{72324}{72348}Ça va, chérie ?
+{72557}{72631}Ça va aller !
+{72908}{72954}J'ai quelque chose à te dire.
+{73009}{73059}Ton carnet de notes est arrivé.
+{73069}{73093}Il est très bon.
+{73460}{73481}Où est maman ?
+{73522}{73546}Dites-lui donc !
+{73575}{73627}Mais il ne dira rien, ma chère !
+{73668}{73711}La scène était tellement|touchante,
+{73719}{73755}que j'ai failli oublier.
+{73795}{73884}Il y a un concert au Albert Hall,|ce soir...
+{73895}{73919}Charmant, non ?
+{74003}{74089}Je sais que tu ne t'intéresses|pas trop à la musique,
+{74099}{74140}mais si tu écoutes bien,
+{74161}{74233}je te dirai le moment|exact où tu dois tirer.
+{74535}{74566}Si tu tires à ce moment là,
+{74576}{74619}on n'entendra pas|le coup de feu.
+{74626}{74710}Je pense que le compositeur|aurait apprécié ce geste.
+{74725}{74768}Personne ne s'en apercevra.
+{74775}{74797}Sauf un seul !
+{74859}{74897}Si tu es intelligent...
+{74920}{75007}Tu devrais te préparer|pour être à l'heure au concert.
+{75114}{75148}Et dis à Mme Lawrence
+{75182}{75261}que Betty et son mari|vont très bien.
+{75268}{75292}Autre chose ?
+{75299}{75364}Dis-lui qu'ils vont bientôt|nous quitter
+{75378}{75426}pour un très très long voyage.
+{75462}{75510}Que disait Shakespeare, déjà ?
+{75556}{75630}Venez, venez !|Tranchez le fil de mes jours.
+{75656}{75687}Quel grand poète !
+{84713}{84744}Vite !|Il est parti par-là !
+{84901}{84973}Suivez cette voiture !|Vous, venez avec moi !
+{85596}{85618}Alors ?
+{85625}{85647}Ça y est !
+{85719}{85757}Qui est-ce qui a crié ?
+{85767}{85831}Veuillez nous excuser|pour cette interruption
+{85841}{85908}du concert de ce soir|en direct de l'Albert Hall.
+{85917}{85998}On a tenté d'assassiner|un diplomate européen,
+{86015}{86070}Sir Ropa,|qui était dans la salle.
+{86082}{86106}Tenté ?
+{86111}{86185}Nous sommes néanmoins heureux|de vous annoncer que la balle
+{86192}{86250}n'a fait qu'effleurer|l'épaule du diplomate
+{86260}{86308}qui a pu regagner sa résidence.
+{86348}{86401}Nous allons maintenant|retourner à l'Albert Hall
+{86408}{86471}pour écouter la suite du concert|qui a déjà repris.
+{86480}{86535}C'est à cause de la femme|qui a crié !
+{86849}{86881}Personne ne t'a suivi ?
+{86887}{86949}Personne ne m'a suivi,|c'est impossible !
+{86959}{87011}J'espère pour toi|que tu as raison !
+{87055}{87103}Et aussi,|pour la petite Betty.
+{87549}{87585}Va chercher les autres.
+{88117}{88141}Regardez !
+{89185}{89231}C'est la routine, pour moi !
+{89336}{89394}Va à la porte|et frappe à l'entrée.
+{89401}{89492}Dès qu'ils ouvrent, regarde|par où on peut s'engouffrer.
+{90697}{90743}Vous connaissez cette maison ?
+{90750}{90800}Votre fille y est ?
+{90807}{90850}Je n'en sais pas plus que vous.
+{90854}{90924}Je sais qu'ils sont à Wapping,|car mon mari a dit...
+{91089}{91144}- Qu'est-ce que c'est ?|- On ne passe pas !
+{91151}{91187}J'ai ma levée à faire !
+{91853}{91879}Rien de nouveau ?
+{91956}{92028}On manquait de revolvers, alors|j'ai fait venir des fusils.
+{92038}{92098}- D'où viennent-ils ?|- D'une armurerie.
+{92567}{92606}- On a les fusils.|- Parfait !
+{92615}{92675}Postez les hommes dans|des appartements alentours
+{92683}{92711}qui sont au même étage.
+{92723}{92759}Tu te chargeras de ça.
+{92783}{92850}Dites aux gens|de vider les lieux d'abord !
+{92871}{92938}- Où est la cour ?|- Derrière la cuisine.
+{93672}{93696}Qu'y a-t-il ?
+{93703}{93765}- On va évacuer les familles.|- Ils vont refuser.
+{93772}{93847}Ne restez pas ici,|on a du travail là-dedans.
+{94179}{94270}- Vous devriez attendre dehors.|- Je viens voir si ça va.
+{94311}{94373}Ce n'est pas le moment|de nous faire un concert.
+{94380}{94431}Ce piano va gêner, déplaçons-le.
+{94798}{94855}Eloigne-toi,|tu vas te faire tuer !
+{94871}{94950}Sors de cette pièce,|la police veut s'installer !
+{95113}{95197}Vous commencerez à tirer|quand je donnerai le signal.
+{95226}{95274}Protégez-vous avec ce matelas.
+{95339}{95430}Je me servirais bien de ce|matelas pour roupiller un peu !
+{95458}{95492}Il est encore chaud.
+{95511}{95552}Tu raconteras à ta femme.
+{97286}{97343}On devrait trouver un passage|vers la maison.
+{97351}{97379}Vérifiez les portes.
+{97434}{97458}C'est verrouillé !
+{97463}{97487}Défoncez !
+{97576}{97602}Ils y sont tous !
+{97703}{97746}Allez vous mettre à l'abri.
+{98117}{98146}C'est du solide !
+{99171}{99240}- Il nous faut des munitions.|- Va en chercher !
+{101209}{101276}Non, j'arrête !|Je ne continue pas !
+{101319}{101384}Tu as intérêt à aller|jusqu'au bout !
+{102443}{102508}Ce n'est pas comme ça|qu'on s'en sortira.
+{102565}{102651}Je le sais depuis que le premier|policier a été abattu.
+{102673}{102767}On va essayer de s'en sortir|avec la petite.
+{102917}{102941}Va la chercher !
+{103291}{103319}Va la chercher !
+{103478}{103516}Je la serrerai contre moi.
+{103523}{103583}S'ils m'abattent,|ils la tuent aussi.
+{104498}{104544}On dirait qu'ils tirent moins.
+{104551}{104572}Regardez !
+{104824}{104850}Cessez de tirer.
+{104949}{104970}Descendez-le !
+{105052}{105105}Impossible,|je risque de tuer la gosse.
+{105948}{106017}Deux hommes sur le toit !|Ramenez la fille !
+{106067}{106106}Les autres, suivez-moi.
+{107277}{107342}Alors, ma chérie ?|Allez, tout va bien.
+{107493}{107517}Tout va bien !
+{107678}{107699}C'est fini.

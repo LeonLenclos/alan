@@ -1,0 +1,3891 @@
+1
+00:01:02,049 --> 00:01:06,804  X1:133 X2:585 Y1:036 Y2:058
+140 km au sud-ouest de lsla Nublar
+
+2
+00:01:19,809 --> 00:01:23,802  X1:122 X2:596 Y1:500 Y2:522
+LE MONDE PERDU - JURASSIC PARK
+
+3
+00:01:33,889 --> 00:01:37,404  X1:087 X2:628 Y1:500 Y2:527
+Merci beaucoup, Mark. ça a l'air fabuleux.
+
+4
+00:01:37,529 --> 00:01:39,406  X1:255 X2:461 Y1:500 Y2:527
+Merci, Geoffrey.
+
+5
+00:01:39,529 --> 00:01:42,805  X1:078 X2:637 Y1:500 Y2:527
+Mettez aussi une bouteille de rouge. Merci.
+
+6
+00:01:47,049 --> 00:01:49,404  X1:259 X2:457 Y1:500 Y2:525
+Merci, Bernard.
+
+7
+00:01:50,129 --> 00:01:54,088  X1:187 X2:529 Y1:460 Y2:527
+Tout ça a l'air merveilleux.
+Quelle belle journée !
+
+8
+00:01:54,209 --> 00:01:56,006  X1:199 X2:516 Y1:460 Y2:527
+- Où vas-tu ?
+- Manger mon sandwich.
+
+9
+00:01:56,129 --> 00:01:58,324  X1:196 X2:519 Y1:460 Y2:522
+ça va te couper l'appétit.
+Y a des crevettes.
+
+10
+00:01:58,409 --> 00:02:01,242  X1:170 X2:545 Y1:460 Y2:527
+- Je n'aime pas les crevettes.
+- Ne t'éloigne pas trop.
+
+11
+00:02:01,889 --> 00:02:04,449  X1:093 X2:623 Y1:500 Y2:527
+Pour l'amour de Dieu, laisse-la tranquille.
+
+12
+00:02:04,649 --> 00:02:08,358  X1:109 X2:607 Y1:460 Y2:525
+- Ma puce, on va jouer avec ton ballon.
+- Maman, tu m'ennuies !
+
+13
+00:02:13,129 --> 00:02:16,599  X1:158 X2:557 Y1:500 Y2:527
+Chéri... s'il y avait un serpent ?
+
+14
+00:02:17,449 --> 00:02:19,883  X1:134 X2:582 Y1:500 Y2:527
+Il n'y a pas de serpent sur la plage.
+
+15
+00:02:20,009 --> 00:02:21,886  X1:148 X2:569 Y1:500 Y2:527
+Laisse-la s'amuser pour une fois.
+
+16
+00:02:58,289 --> 00:03:00,803  X1:279 X2:437 Y1:500 Y2:527
+Bonjour, toi.
+
+17
+00:03:01,249 --> 00:03:04,366  X1:092 X2:623 Y1:500 Y2:527
+Qu'est-ce que tu es ? Un oiseau ou quoi ?
+
+18
+00:03:09,169 --> 00:03:14,197  X1:135 X2:581 Y1:460 Y2:522
+Tu as faim ? Tu veux un morceau ?
+C'est du rosbif. C'est bon.
+
+19
+00:03:14,529 --> 00:03:17,202  X1:174 X2:541 Y1:500 Y2:527
+Viens, je te ferai pas de mal.
+
+20
+00:03:18,569 --> 00:03:21,800  X1:101 X2:612 Y1:500 Y2:527
+Venez voir ! J'ai trouvé quelque chose !
+
+21
+00:03:35,089 --> 00:03:37,239  X1:134 X2:580 Y1:500 Y2:527
+Cathy chérie, le déjeuner est prêt !
+
+22
+00:03:38,889 --> 00:03:41,244  X1:174 X2:541 Y1:500 Y2:527
+C'est ça qui vous intéresse ?
+
+23
+00:03:41,609 --> 00:03:44,328  X1:152 X2:564 Y1:460 Y2:527
+J'ai peur qu'il y en ait pas assez
+pour tout le monde.
+
+24
+00:03:56,849 --> 00:04:00,046  X1:177 X2:535 Y1:460 Y2:527
+Venez vite, je vous en prie !
+Dépêchez-vous !
+
+25
+00:04:54,769 --> 00:04:56,760  X1:245 X2:471 Y1:500 Y2:525
+C'est vous, hein ?
+
+26
+00:04:57,849 --> 00:04:59,726  X1:303 X2:413 Y1:500 Y2:522
+Pardon ?
+
+27
+00:04:59,849 --> 00:05:03,080  X1:138 X2:578 Y1:500 Y2:522
+Le savant ? Je vous ai vu à la télé.
+
+28
+00:05:05,329 --> 00:05:07,968  X1:264 X2:451 Y1:500 Y2:522
+Je vous ai cru.
+
+29
+00:05:37,689 --> 00:05:39,725  X1:113 X2:603 Y1:500 Y2:527
+Qui dois-je annoncer à M. Hammond ?
+
+30
+00:05:39,849 --> 00:05:43,842  X1:166 X2:550 Y1:500 Y2:527
+Ian Malcolm. Il m'a convoqué.
+
+31
+00:06:04,569 --> 00:06:06,605  X1:277 X2:438 Y1:500 Y2:522
+Pr Malcolm !
+
+32
+00:06:08,289 --> 00:06:11,884  X1:190 X2:526 Y1:460 Y2:522
+- Bonjour, Pr Malcolm.
+- Les enfants. Les enfants.
+
+33
+00:06:12,009 --> 00:06:16,799  X1:113 X2:600 Y1:460 Y2:527
+- Je suis ravi de vous revoir.
+- C'est formidable ! Regardez-moi ça !
+
+34
+00:06:17,209 --> 00:06:19,245  X1:167 X2:547 Y1:500 Y2:527
+Vous venez voir Grand-père ?
+
+35
+00:06:19,369 --> 00:06:22,679  X1:203 X2:513 Y1:460 Y2:527
+Oui. Il... il m'a fait venir.
+Vous savez pourquoi ?
+
+36
+00:06:23,089 --> 00:06:26,764  X1:143 X2:573 Y1:460 Y2:527
+Moi non plus.
+Cet endroit fout les jetons, hein ?
+
+37
+00:06:26,889 --> 00:06:28,686  X1:267 X2:448 Y1:500 Y2:522
+Tout va bien ?
+
+38
+00:06:28,809 --> 00:06:31,277  X1:253 X2:464 Y1:500 Y2:522
+Pas exactement.
+
+39
+00:06:41,649 --> 00:06:43,401  X1:282 X2:434 Y1:500 Y2:522
+Pr Malcolm.
+
+40
+00:06:43,729 --> 00:06:47,802  X1:127 X2:588 Y1:460 Y2:522
+Vous venez échanger vos souvenirs
+avec mon oncle ?
+
+41
+00:06:53,809 --> 00:06:57,597  X1:089 X2:626 Y1:460 Y2:527
+Vous pouvez faire croire ce que vous
+voulez au Washington Post et aux autres,
+
+42
+00:06:57,729 --> 00:06:59,879  X1:099 X2:617 Y1:500 Y2:527
+mais j'y étais. Je sais ce qui s'est passé.
+
+43
+00:07:00,009 --> 00:07:05,641  X1:096 X2:620 Y1:460 Y2:527
+Vous croyez que celui qui choisit d'être
+discret le fait pour des raisons infâmes ?
+
+44
+00:07:05,769 --> 00:07:09,205  X1:170 X2:546 Y1:460 Y2:527
+- Lex et Tim aussi ?
+- Laissez-les en dehors de ça.
+
+45
+00:07:09,329 --> 00:07:13,117  X1:098 X2:619 Y1:460 Y2:525
+C'est exact. Vous avez signé une clause,
+avant d'aller sur l'île,
+
+46
+00:07:13,249 --> 00:07:17,288  X1:101 X2:615 Y1:460 Y2:527
+qui vous interdit de dire
+ce que vous avez vu. Vous l'avez violée.
+
+47
+00:07:17,409 --> 00:07:20,526  X1:155 X2:561 Y1:460 Y2:527
+Vous avez menti sur les causes
+de la mort de 3 personnes
+
+48
+00:07:20,649 --> 00:07:25,120  X1:090 X2:626 Y1:460 Y2:527
+et gavé le public de fausses informations.
+On m'a pris pour un fou.
+
+49
+00:07:25,249 --> 00:07:28,127  X1:159 X2:556 Y1:460 Y2:527
+On vous a offert
+de généreuses compensations.
+
+50
+00:07:28,249 --> 00:07:30,240  X1:131 X2:585 Y1:500 Y2:527
+C'était un pot de vin et une insulte.
+
+51
+00:07:30,369 --> 00:07:34,567  X1:117 X2:599 Y1:460 Y2:527
+Cacher les preuves ne fait pas
+que ruiner ma réputation, ça fait mal.
+
+52
+00:07:34,689 --> 00:07:37,522  X1:209 X2:507 Y1:500 Y2:527
+Si je me souviens bien,
+
+53
+00:07:37,649 --> 00:07:41,119  X1:100 X2:615 Y1:460 Y2:527
+vous avez été révoqué pour avoir vendu
+des mensonges à la presse.
+
+54
+00:07:41,249 --> 00:07:44,241  X1:091 X2:624 Y1:500 Y2:527
+J'ai pas touché un sou et j'ai dit la vérité.
+
+55
+00:07:44,369 --> 00:07:45,688  X1:270 X2:442 Y1:500 Y2:522
+Votre vérité !
+
+56
+00:07:45,809 --> 00:07:49,199  X1:174 X2:542 Y1:460 Y2:527
+Il n'y a pas plusieurs vérités.
+Et lnGen ne peut...
+
+57
+00:07:49,689 --> 00:07:54,001  X1:126 X2:589 Y1:460 Y2:527
+InGen est sous ma responsabilité
+à présent. Je défendrai ses intérêts.
+
+58
+00:07:54,129 --> 00:07:56,006  X1:096 X2:619 Y1:500 Y2:527
+Votre responsabilité ? Et M. Hammond ?
+
+59
+00:07:57,929 --> 00:08:01,399  X1:146 X2:569 Y1:460 Y2:527
+Je dois affronter notre conseil
+d'administration, pas mon oncle.
+
+60
+00:08:01,529 --> 00:08:04,999  X1:122 X2:593 Y1:460 Y2:527
+Croyez-moi, les problèmes
+que vous soulevez sont sans intérêt.
+
+61
+00:08:05,529 --> 00:08:08,760  X1:168 X2:548 Y1:460 Y2:522
+Dans quelques semaines,
+ils seront totalement oubliés.
+
+62
+00:08:10,569 --> 00:08:12,048  X1:279 X2:437 Y1:500 Y2:527
+Pas par moi.
+
+63
+00:08:12,169 --> 00:08:14,160  X1:292 X2:423 Y1:500 Y2:522
+Attention.
+
+64
+00:08:15,889 --> 00:08:19,199  X1:187 X2:530 Y1:460 Y2:527
+Ce costume vaut plus cher
+que votre éducation.
+
+65
+00:08:20,369 --> 00:08:22,564  X1:152 X2:566 Y1:500 Y2:527
+Vous aviez raison et j'avais tort.
+
+66
+00:08:22,689 --> 00:08:25,761  X1:133 X2:587 Y1:460 Y2:522
+Vous vous attendiez
+à m'entendre dire une telle chose ?
+
+67
+00:08:27,049 --> 00:08:30,200  X1:194 X2:523 Y1:500 Y2:527
+Dieu merci pour le Site B.
+
+68
+00:08:30,369 --> 00:08:32,360  X1:290 X2:426 Y1:500 Y2:522
+Le Site B ?
+
+69
+00:08:32,809 --> 00:08:36,165  X1:150 X2:566 Y1:460 Y2:522
+Isla Nublar n'était qu'une vitrine
+destinée aux touristes.
+
+70
+00:08:36,289 --> 00:08:39,201  X1:096 X2:622 Y1:500 Y2:525
+L'usine était sur le Site B, sur lsla Sorna,
+
+71
+00:08:39,329 --> 00:08:41,399  X1:230 X2:486 Y1:500 Y2:522
+à 140 km de Nublar.
+
+72
+00:08:41,529 --> 00:08:43,520  X1:133 X2:584 Y1:500 Y2:527
+Nous y faisions naître les animaux,
+
+73
+00:08:43,649 --> 00:08:47,244  X1:158 X2:558 Y1:460 Y2:527
+Ies nourrissions quelques mois
+et les amenions dans le parc.
+
+74
+00:08:47,449 --> 00:08:50,202  X1:154 X2:561 Y1:500 Y2:527
+C'est vrai ? Je ne savais pas ça.
+
+75
+00:08:50,329 --> 00:08:52,320  X1:168 X2:548 Y1:500 Y2:527
+Après l'accident dans le parc,
+
+76
+00:08:52,449 --> 00:08:55,839  X1:138 X2:577 Y1:460 Y2:522
+I'ouragan Clarissa a balayé
+toutes nos installations du Site B.
+
+77
+00:08:55,969 --> 00:08:58,722  X1:172 X2:542 Y1:500 Y2:527
+Appelez ça un signe de Dieu.
+
+78
+00:08:58,849 --> 00:09:01,682  X1:190 X2:525 Y1:460 Y2:522
+On a été obligés de partir.
+On a libéré les animaux
+
+79
+00:09:01,929 --> 00:09:03,806  X1:133 X2:582 Y1:500 Y2:527
+pour qu'ils vieillissent à leur guise.
+
+80
+00:09:04,209 --> 00:09:08,407  X1:102 X2:614 Y1:460 Y2:522
+"La vie trouve toujours un chemin",
+comme vous l'avez si bien dit autrefois.
+
+81
+00:09:08,529 --> 00:09:11,441  X1:107 X2:609 Y1:460 Y2:527
+A présent, on a un système écologique
+complet sur cette île,
+
+82
+00:09:11,569 --> 00:09:14,447  X1:178 X2:538 Y1:460 Y2:527
+avec des dizaines d'espèces
+vivant par groupes sociaux,
+
+83
+00:09:14,569 --> 00:09:18,278  X1:151 X2:564 Y1:460 Y2:527
+sans barrière, sans frontière,
+sans technologie contraignante.
+
+84
+00:09:18,409 --> 00:09:24,439  X1:083 X2:633 Y1:460 Y2:527
+Et depuis quatre ans, je suis arrivé
+à les protéger des interférences humaines.
+
+85
+00:09:24,609 --> 00:09:26,008  X1:261 X2:455 Y1:500 Y2:522
+C'est très bien.
+
+86
+00:09:26,089 --> 00:09:30,002  X1:099 X2:617 Y1:460 Y2:527
+Espérons que vous avez mis cette île
+en quarantaine et que vous la contrôlez.
+
+87
+00:09:30,129 --> 00:09:31,960  X1:153 X2:563 Y1:500 Y2:527
+Mais je suis choqué par tout ça.
+
+88
+00:09:32,089 --> 00:09:36,287  X1:098 X2:617 Y1:460 Y2:527
+Ils sont toujours vivants !
+Vous les avez créés déficients en lysine.
+
+89
+00:09:36,409 --> 00:09:39,048  X1:206 X2:510 Y1:460 Y2:527
+Ils auraient dû crever,
+sans apport d'enzymes.
+
+90
+00:09:40,249 --> 00:09:42,604  X1:108 X2:608 Y1:500 Y2:527
+Oui. Mais par Dieu, ils sont florissants.
+
+91
+00:09:42,729 --> 00:09:45,721  X1:203 X2:514 Y1:460 Y2:527
+L'équipe devra répondre
+à toutes ces questions.
+
+92
+00:09:45,849 --> 00:09:47,646  X1:294 X2:422 Y1:500 Y2:527
+L'équipe ?
+
+93
+00:09:48,609 --> 00:09:55,401  X1:148 X2:569 Y1:460 Y2:527
+J'ai organisé une expédition
+qui doit y aller et se documenter
+
+94
+00:09:55,529 --> 00:09:59,727  X1:145 X2:570 Y1:460 Y2:522
+pour établir le plus spectaculaire
+des dossiers sur fossiles vivants.
+
+95
+00:09:59,849 --> 00:10:03,080  X1:118 X2:597 Y1:460 Y2:527
+Y aller ? Se documenter ?
+Vous voulez pas dire avec des gens ?
+
+96
+00:10:03,209 --> 00:10:05,723  X1:161 X2:556 Y1:500 Y2:522
+Les animaux n'en sauront rien.
+
+97
+00:10:05,849 --> 00:10:09,762  X1:173 X2:545 Y1:460 Y2:522
+Uniquement de l'observation
+et de la documentation.
+
+98
+00:10:10,009 --> 00:10:14,605  X1:089 X2:627 Y1:460 Y2:522
+Nos photos par satellite montrent que
+les animaux sont férocement territoriaux.
+
+99
+00:10:14,769 --> 00:10:17,567  X1:192 X2:526 Y1:460 Y2:522
+Les carnivores sont isolés
+à l'intérieur de l'île.
+
+100
+00:10:17,689 --> 00:10:20,806  X1:188 X2:527 Y1:460 Y2:527
+Alors l'équipe restera
+sur le périmètre extérieur.
+
+101
+00:10:21,009 --> 00:10:23,967  X1:150 X2:563 Y1:460 Y2:527
+Vous inquiétez pas,
+je refais pas les mêmes erreurs.
+
+102
+00:10:24,129 --> 00:10:26,927  X1:146 X2:570 Y1:500 Y2:525
+Non, vous en faites de nouvelles.
+
+103
+00:10:27,889 --> 00:10:29,163  X1:239 X2:475 Y1:500 Y2:527
+John, est-ce que...
+
+104
+00:10:29,289 --> 00:10:33,123  X1:106 X2:611 Y1:460 Y2:525
+Bon, il y a une autre île avec
+des dinosaures, sans clôture cette fois,
+
+105
+00:10:33,329 --> 00:10:35,479  X1:133 X2:583 Y1:500 Y2:527
+et vous voulez y envoyer des gens.
+
+106
+00:10:35,609 --> 00:10:39,158  X1:096 X2:620 Y1:500 Y2:527
+Un petit groupe. Sur le terrain, c'est ça ?
+
+107
+00:10:39,289 --> 00:10:42,167  X1:159 X2:557 Y1:460 Y2:527
+Qui sont les 4 cinglés
+que vous entraînez là-dedans ?
+
+108
+00:10:42,289 --> 00:10:47,443  X1:077 X2:638 Y1:460 Y2:527
+ça n'a pas été facile de les convaincre.
+J'ai dû utiliser mon chéquier pour les avoir.
+
+109
+00:10:47,569 --> 00:10:52,563  X1:195 X2:522 Y1:460 Y2:525
+Il y a Nick van Owen,
+un vidéo-documentaliste,
+
+110
+00:10:52,849 --> 00:10:57,206  X1:132 X2:584 Y1:460 Y2:527
+et Eddie Carr,
+un expert en matériel d'expédition.
+
+111
+00:10:57,929 --> 00:11:00,921  X1:156 X2:561 Y1:500 Y2:527
+Nous avons un paléontologiste.
+
+112
+00:11:01,049 --> 00:11:05,281  X1:182 X2:533 Y1:460 Y2:527
+Et j'avais espéré que vous
+pourriez faire le quatrième.
+
+113
+00:11:05,449 --> 00:11:10,045  X1:111 X2:606 Y1:460 Y2:527
+Nous avons été à la limite de la faillite
+depuis cet accident dans le parc.
+
+114
+00:11:10,169 --> 00:11:12,239  X1:116 X2:601 Y1:500 Y2:527
+Certains dans la compagnie voulaient
+
+115
+00:11:12,369 --> 00:11:15,725  X1:208 X2:508 Y1:460 Y2:527
+qu'on exploite le Site B
+pour nous renflouer.
+
+116
+00:11:15,929 --> 00:11:20,286  X1:127 X2:589 Y1:460 Y2:527
+Ils ont cette idée depuis des années
+et j'ai pu les en empêcher jusqu'ici.
+
+117
+00:11:20,409 --> 00:11:22,286  X1:161 X2:555 Y1:500 Y2:527
+Mais il y a quelques semaines,
+
+118
+00:11:22,409 --> 00:11:27,085  X1:150 X2:567 Y1:460 Y2:527
+une famille anglaise en croisière
+est tombée par hasard sur l'île,
+
+119
+00:11:27,289 --> 00:11:30,361  X1:154 X2:562 Y1:500 Y2:527
+et leur petite fille a été blessée.
+
+120
+00:11:30,489 --> 00:11:32,286  X1:281 X2:435 Y1:500 Y2:522
+Elle va bien.
+
+121
+00:11:32,409 --> 00:11:35,003  X1:198 X2:519 Y1:460 Y2:522
+Mais les administrateurs
+se servent de l'incident
+
+122
+00:11:35,089 --> 00:11:37,603  X1:130 X2:586 Y1:500 Y2:527
+pour me retirer le contrôle d'lnGen.
+
+123
+00:11:38,449 --> 00:11:41,998  X1:191 X2:525 Y1:460 Y2:527
+Aujourd'hui, ce n'est plus
+qu'une question de temps
+
+124
+00:11:42,129 --> 00:11:46,327  X1:194 X2:522 Y1:460 Y2:527
+pour que ce monde perdu
+soit découvert et pillé.
+
+125
+00:11:46,449 --> 00:11:49,122  X1:123 X2:593 Y1:460 Y2:527
+Il ne me reste que l'opinion publique
+pour le préserver.
+
+126
+00:11:49,249 --> 00:11:53,447  X1:101 X2:616 Y1:460 Y2:527
+Mais pour me rallier une aide populaire,
+j'ai besoin d'un vrai dossier,
+
+127
+00:11:53,569 --> 00:11:56,959  X1:143 X2:572 Y1:460 Y2:522
+avec les photos des animaux
+dans leur environnement naturel.
+
+128
+00:11:57,689 --> 00:12:00,806  X1:161 X2:554 Y1:460 Y2:522
+Vous êtes passé de capitaliste
+à naturaliste en 4 ans.
+
+129
+00:12:01,929 --> 00:12:03,203  X1:232 X2:484 Y1:500 Y2:527
+C'est une prouesse.
+
+130
+00:12:05,809 --> 00:12:10,758  X1:079 X2:637 Y1:500 Y2:527
+C'est notre dernière chance de rédemption.
+
+131
+00:12:15,089 --> 00:12:16,647  X1:329 X2:387 Y1:500 Y2:522
+Non.
+
+132
+00:12:16,769 --> 00:12:20,205  X1:247 X2:470 Y1:500 Y2:527
+Bien sûr que non.
+
+133
+00:12:20,329 --> 00:12:24,607  X1:139 X2:576 Y1:460 Y2:527
+Je vais contacter les 3 autres
+et les convaincre de ne pas partir.
+
+134
+00:12:24,729 --> 00:12:27,118  X1:181 X2:534 Y1:500 Y2:527
+Qui est le paléontologiste ?
+
+135
+00:12:27,249 --> 00:12:31,606  X1:175 X2:541 Y1:460 Y2:527
+- C'est elle qui m'a contacté.
+- Qui ça ?
+
+136
+00:12:32,089 --> 00:12:35,240  X1:162 X2:554 Y1:460 Y2:525
+Je sais que vous êtes capable,
+lan, de vous affilier,
+
+137
+00:12:35,329 --> 00:12:37,923  X1:140 X2:575 Y1:500 Y2:527
+avec les meilleurs professionnels.
+
+138
+00:12:38,009 --> 00:12:39,488  X1:227 X2:488 Y1:500 Y2:527
+Ce n'est pas Sarah ?
+
+139
+00:12:39,649 --> 00:12:42,117  X1:192 X2:525 Y1:460 Y2:522
+L'étude du comportement
+des fossiles est récent.
+
+140
+00:12:42,249 --> 00:12:44,240  X1:113 X2:603 Y1:500 Y2:527
+Sarah Harding est une des pionnières.
+
+141
+00:12:44,529 --> 00:12:48,807  X1:131 X2:586 Y1:460 Y2:527
+Ses théories sur la fibre maternelle
+des carnivores a cerné la question.
+
+142
+00:12:48,929 --> 00:12:51,921  X1:191 X2:525 Y1:460 Y2:527
+- Que faites-vous ?
+- Où est votre téléphone ?
+
+143
+00:12:54,329 --> 00:12:58,925  X1:131 X2:584 Y1:500 Y2:527
+C'est trop tard. Elle est déjà là-bas.
+
+144
+00:13:03,249 --> 00:13:05,319  X1:114 X2:602 Y1:500 Y2:527
+Les autres la rejoindront dans 3 jours.
+
+145
+00:13:10,769 --> 00:13:14,284  X1:140 X2:576 Y1:460 Y2:525
+Vous avez envoyé ma petite amie
+sur cette île, toute seule ?
+
+146
+00:13:14,409 --> 00:13:17,242  X1:162 X2:554 Y1:460 Y2:527
+Envoyé n'est pas le mot exact.
+On n'a pas pu la retenir.
+
+147
+00:13:17,369 --> 00:13:21,248  X1:157 X2:558 Y1:460 Y2:527
+Elle faisait déjà des recherches
+à San Diego, au parc animalier.
+
+148
+00:13:21,649 --> 00:13:23,640  X1:127 X2:589 Y1:500 Y2:527
+Le vol ne dure que quelques heures.
+
+149
+00:13:23,729 --> 00:13:27,199  X1:203 X2:514 Y1:460 Y2:527
+Elle voulait absolument,
+elle tenait plus que tout
+
+150
+00:13:27,329 --> 00:13:29,968  X1:133 X2:583 Y1:500 Y2:527
+à faire partie de la 1ère expédition.
+
+151
+00:13:30,849 --> 00:13:34,444  X1:148 X2:568 Y1:460 Y2:522
+Elle se prend pour Diane Fossey.
+"Observation sans interférence".
+
+152
+00:13:36,969 --> 00:13:40,439  X1:093 X2:623 Y1:460 Y2:527
+Quand vous avez été blessé dans le parc,
+elle vous a cherché partout.
+
+153
+00:13:41,009 --> 00:13:43,807  X1:145 X2:569 Y1:460 Y2:527
+Elle est allée
+jusqu'à cet hôpital du Costa Rica
+
+154
+00:13:43,929 --> 00:13:46,807  X1:182 X2:535 Y1:460 Y2:522
+pour demander à quelqu'un
+si la rumeur était vraie.
+
+155
+00:13:47,689 --> 00:13:50,249  X1:125 X2:592 Y1:460 Y2:522
+Si vous voulez passer à la postérité,
+libre à vous !
+
+156
+00:13:50,369 --> 00:13:53,998  X1:145 X2:571 Y1:460 Y2:522
+Mais n'en faites pas payer le prix
+aux autres.
+
+157
+00:13:54,129 --> 00:13:58,202  X1:099 X2:619 Y1:460 Y2:527
+Elle s'en sortira. Elle a passé des années
+à étudier les prédateurs africains
+
+158
+00:13:58,329 --> 00:14:02,038  X1:150 X2:566 Y1:460 Y2:527
+en dormant sous le vent et tout.
+Elle sait bien ce qu'elle fait.
+
+159
+00:14:02,369 --> 00:14:04,360  X1:199 X2:517 Y1:500 Y2:527
+L'équipe de recherches...
+
+160
+00:14:06,209 --> 00:14:10,999  X1:078 X2:638 Y1:460 Y2:527
+C'est plus une équipe de recherches,
+mais de sauvetage, et elle part maintenant.
+
+161
+00:14:30,329 --> 00:14:33,321  X1:155 X2:560 Y1:460 Y2:527
+Tu peux pas m'ôter 3 jours
+et demander que tout soit prêt.
+
+162
+00:14:33,449 --> 00:14:35,565  X1:098 X2:616 Y1:500 Y2:527
+Je n'ai pu tester aucun de ces appareils.
+
+163
+00:14:35,689 --> 00:14:38,681  X1:145 X2:573 Y1:460 Y2:527
+Pourquoi lui donner un téléphone
+s'il marche pas ?
+
+164
+00:14:38,809 --> 00:14:41,926  X1:148 X2:569 Y1:460 Y2:522
+ça peut venir de taches solaires,
+du satellite...
+
+165
+00:14:42,089 --> 00:14:45,161  X1:135 X2:581 Y1:460 Y2:527
+Je veux les pneus gonflés à moitié
+pour l'avion.
+
+166
+00:14:45,289 --> 00:14:46,768  X1:226 X2:491 Y1:500 Y2:522
+Elle sait s'en servir ?
+
+167
+00:14:46,889 --> 00:14:50,359  X1:112 X2:605 Y1:460 Y2:522
+Quoi ? Elle m'a faxé des améliorations
+sur 50% du matériel.
+
+168
+00:14:50,489 --> 00:14:53,640  X1:105 X2:612 Y1:500 Y2:527
+Ne fais pas ça. Il faut le cajoler, l'aimer.
+
+169
+00:14:53,729 --> 00:14:56,323  X1:190 X2:525 Y1:460 Y2:522
+- Je l'aimerai s'il marche.
+- Il marchera si tu l'aimes.
+
+170
+00:14:56,449 --> 00:14:57,564  X1:225 X2:491 Y1:500 Y2:522
+Tu viens avec nous ?
+
+171
+00:14:57,649 --> 00:15:00,561  X1:173 X2:542 Y1:460 Y2:527
+D'habitude, j'aime pas trop.
+Mais là, je peux pas résister.
+
+172
+00:15:00,689 --> 00:15:03,078  X1:190 X2:526 Y1:500 Y2:527
+Merci de m'avoir prévenu.
+
+173
+00:15:03,209 --> 00:15:06,201  X1:137 X2:579 Y1:460 Y2:527
+Nick van Owen, voici lan Malcolm.
+Nick est notre photographe.
+
+174
+00:15:06,329 --> 00:15:08,479  X1:091 X2:623 Y1:500 Y2:527
+Vous avez une expérience sur le terrain ?
+
+175
+00:15:08,569 --> 00:15:10,685  X1:091 X2:624 Y1:500 Y2:527
+Oui. Terrain, combat, ce que vous voulez.
+
+176
+00:15:10,769 --> 00:15:14,159  X1:153 X2:561 Y1:460 Y2:527
+Pour "En direct avec vous",
+j'ai fait le Rwanda, et la Bosnie.
+
+177
+00:15:14,289 --> 00:15:16,883  X1:098 X2:618 Y1:500 Y2:527
+Et je fais du bénévolat pour Greenpeace.
+
+178
+00:15:17,009 --> 00:15:20,445  X1:169 X2:547 Y1:460 Y2:522
+- Qu'est-ce qui vous y attire ?
+- Les femmes.
+
+179
+00:15:21,289 --> 00:15:24,520  X1:153 X2:563 Y1:460 Y2:522
+- 80% de femmes à Greenpeace.
+- Noble cause !
+
+180
+00:15:24,689 --> 00:15:28,284  X1:113 X2:603 Y1:460 Y2:527
+Les nobles causes, c'était l'an dernier.
+Cette année, je me fais payer.
+
+181
+00:15:28,409 --> 00:15:32,163  X1:137 X2:579 Y1:460 Y2:522
+Ou le chèque d'Hammond est bon,
+ou adieu la chasse au Dahu.
+
+182
+00:15:32,289 --> 00:15:36,441  X1:121 X2:595 Y1:460 Y2:527
+Là où vous allez,
+ce sont les Dahus qui vous chassent.
+
+183
+00:15:37,049 --> 00:15:38,164  X1:238 X2:478 Y1:500 Y2:527
+Papa, Papa, Papa...
+
+184
+00:15:40,889 --> 00:15:43,847  X1:172 X2:545 Y1:460 Y2:527
+Kelly, ma chérie. T'as trouvé.
+Pourquoi t'as été si longue ?
+
+185
+00:15:43,929 --> 00:15:47,126  X1:144 X2:572 Y1:460 Y2:527
+- Désolée, je trouvais pas de taxi.
+- C'est pas grave. Ecoute...
+
+186
+00:15:47,209 --> 00:15:50,485  X1:130 X2:586 Y1:460 Y2:527
+il faut que je te dise quelque chose.
+Il faut que je te parle.
+
+187
+00:15:51,689 --> 00:15:53,441  X1:129 X2:586 Y1:500 Y2:527
+Je connais même pas cette femme.
+
+188
+00:15:53,529 --> 00:15:55,645  X1:095 X2:620 Y1:500 Y2:527
+C'est Karen. Tu la connais depuis 10 ans.
+
+189
+00:15:55,729 --> 00:15:58,721  X1:147 X2:567 Y1:460 Y2:527
+Elle a même pas un Sega.
+C'est carrément une troglodyte !
+
+190
+00:15:58,849 --> 00:16:00,840  X1:161 X2:554 Y1:500 Y2:527
+Cruel, mais bon usage du mot.
+
+191
+00:16:01,249 --> 00:16:05,162  X1:134 X2:581 Y1:460 Y2:527
+- Pourquoi je vais pas chez Sarah ?
+- Sarah est en voyage.
+
+192
+00:16:05,289 --> 00:16:08,964  X1:118 X2:597 Y1:460 Y2:527
+Karen est fantastique. Vous irez
+faire du cheval... Ce sera fantastique.
+
+193
+00:16:09,089 --> 00:16:11,967  X1:178 X2:538 Y1:460 Y2:525
+Cesse de dire "fantastique".
+Et d'abord, où vas-tu ?
+
+194
+00:16:12,089 --> 00:16:16,799  X1:101 X2:616 Y1:460 Y2:527
+C'est pour quelques jours. Je n'irais pas
+si c'était pas vraiment important.
+
+195
+00:16:16,929 --> 00:16:21,400  X1:086 X2:630 Y1:460 Y2:527
+Je suis ta fille. Tu peux pas m'abandonner
+à la première occasion.
+
+196
+00:16:21,609 --> 00:16:24,442  X1:167 X2:549 Y1:460 Y2:527
+C'est blessant ! C'est ta mère
+qui t'a dit de me dire ça ?
+
+197
+00:16:24,529 --> 00:16:26,963  X1:111 X2:606 Y1:500 Y2:527
+Pr Malcolm, descendez s'il vous plaît !
+
+198
+00:16:27,489 --> 00:16:29,400  X1:107 X2:608 Y1:500 Y2:522
+On a des années difficiles devant nous.
+
+199
+00:16:29,489 --> 00:16:33,004  X1:133 X2:582 Y1:460 Y2:527
+Mais depuis 2 ans, on s'est bien
+débrouillés. ça n'allait pas mieux ?
+
+200
+00:16:33,209 --> 00:16:37,202  X1:125 X2:591 Y1:460 Y2:527
+Si, mais j'ai besoin que tu te fâches,
+que tu m'envoies dans ma chambre.
+
+201
+00:16:37,329 --> 00:16:39,843  X1:210 X2:505 Y1:460 Y2:527
+- Tu fais jamais ça.
+- Pourquoi je le ferais ?
+
+202
+00:16:39,969 --> 00:16:45,726  X1:135 X2:582 Y1:460 Y2:527
+Tu es devenue si belle, si brillante,
+si forte, si drôle, si généreuse !
+
+203
+00:16:45,969 --> 00:16:48,199  X1:154 X2:561 Y1:500 Y2:522
+Ma reine. Ma déesse. Ma muse.
+
+204
+00:16:48,329 --> 00:16:52,038  X1:146 X2:569 Y1:460 Y2:525
+Je pourrais venir avec toi et être
+ton assistante, comme à Austin.
+
+205
+00:16:52,169 --> 00:16:55,241  X1:166 X2:550 Y1:500 Y2:527
+ça n'a rien à voir avec Austin.
+
+206
+00:16:55,689 --> 00:16:58,681  X1:101 X2:613 Y1:460 Y2:527
+Mais de toute façon,
+tu as tes compétitions de gymnastique.
+
+207
+00:16:58,809 --> 00:17:00,959  X1:156 X2:559 Y1:500 Y2:527
+Tu t'entraînes depuis des mois.
+
+208
+00:17:01,089 --> 00:17:06,004  X1:095 X2:619 Y1:460 Y2:527
+Gymnastique ? J'ai été éliminée,
+virée de l'équipe. Merci de t'en souvenir.
+
+209
+00:17:07,209 --> 00:17:13,205  X1:086 X2:630 Y1:460 Y2:527
+Je suis désolé, chérie. Je sais à quel point
+ça comptait pour toi, et...
+
+210
+00:17:13,329 --> 00:17:17,800  X1:120 X2:596 Y1:460 Y2:527
+T'aimes les gosses, mais t'aimes pas
+trop vivre avec eux, hein ?
+
+211
+00:17:18,889 --> 00:17:23,679  X1:089 X2:627 Y1:460 Y2:527
+C'est pas moi qui t'ai laissée tomber pour
+me tirer à Paris. Te venge pas sur moi !
+
+212
+00:17:24,449 --> 00:17:27,919  X1:132 X2:585 Y1:500 Y2:525
+Pr Malcolm, on vous attend en bas.
+
+213
+00:17:32,089 --> 00:17:35,161  X1:135 X2:580 Y1:500 Y2:527
+Chérie, je suis désolé. Excuse-moi.
+
+214
+00:17:35,289 --> 00:17:39,646  X1:122 X2:594 Y1:460 Y2:527
+Tu veux un bon conseil de ton père ?
+Ne m'écoute pas !
+
+215
+00:17:42,809 --> 00:17:45,277  X1:266 X2:450 Y1:500 Y2:522
+Où on en est ?
+
+216
+00:17:45,609 --> 00:17:49,284  X1:114 X2:602 Y1:460 Y2:522
+Sa fiche dit qu'il se déforme pas
+à 12000 P.S.I. Alors on va faire l'essai.
+
+217
+00:17:49,409 --> 00:17:52,765  X1:189 X2:528 Y1:500 Y2:527
+D'accord, alors on dégage.
+
+218
+00:17:53,209 --> 00:17:55,677  X1:200 X2:516 Y1:500 Y2:522
+C'est un "cache en l'air".
+
+219
+00:17:55,809 --> 00:17:59,040  X1:112 X2:603 Y1:460 Y2:525
+Un cache en l'air.
+Tu sais, il monte et il te cache en l'air.
+
+220
+00:17:59,169 --> 00:18:03,959  X1:097 X2:619 Y1:460 Y2:527
+Il monte au-dessus des arbres et permet
+d'être hors de portée des animaux.
+
+221
+00:18:04,089 --> 00:18:07,286  X1:135 X2:580 Y1:460 Y2:527
+Avec les dinos,
+ça risque d'être un "mord en l'air".
+
+222
+00:18:08,249 --> 00:18:11,480  X1:219 X2:497 Y1:460 Y2:527
+- T'as l'heure ?
+- L'heure ? Pourquoi ?
+
+223
+00:18:11,609 --> 00:18:13,406  X1:190 X2:526 Y1:500 Y2:527
+On part dans trois heures.
+
+224
+00:18:31,929 --> 00:18:34,397  X1:254 X2:459 Y1:500 Y2:527
+C'est trop cool !
+
+225
+00:19:30,369 --> 00:19:34,044  X1:112 X2:605 Y1:460 Y2:527
+Fusil à air comprimé.
+Projette une flèche subsonique Fluger.
+
+226
+00:19:34,169 --> 00:19:37,002  X1:106 X2:610 Y1:460 Y2:522
+- ça marche mieux que ton téléphone ?
+- Très drôle.
+
+227
+00:19:37,129 --> 00:19:41,759  X1:091 X2:624 Y1:460 Y2:527
+Je l'ai chargé d'extrait de venin de Conus
+Purpurascens, le cône des mers du Sud.
+
+228
+00:19:41,889 --> 00:19:46,519  X1:118 X2:598 Y1:460 Y2:527
+Elle agit en 2/1000e de s.,
+plus vite que la conduction nerveuse.
+
+229
+00:19:46,649 --> 00:19:49,800  X1:174 X2:542 Y1:460 Y2:527
+L'animal est à terre
+avant d'avoir senti la piqûre.
+
+230
+00:19:49,889 --> 00:19:53,040  X1:085 X2:630 Y1:460 Y2:527
+- Il y a un antidote ?
+- Pourquoi ? Tu veux te tirer dans le pied ?
+
+231
+00:19:53,129 --> 00:19:56,485  X1:135 X2:583 Y1:460 Y2:527
+Ne le fais pas. Tu seras mort avant
+de savoir que t'as eu un accident.
+
+232
+00:20:01,289 --> 00:20:04,838  X1:104 X2:612 Y1:460 Y2:527
+Ce type veut tout débarquer sur la rive.
+Il ira pas plus loin.
+
+233
+00:20:04,969 --> 00:20:09,679  X1:081 X2:635 Y1:460 Y2:527
+Il a entendu trop d'histoires sur ces îles.
+Il veut nous débarquer et s'ancrer au large.
+
+234
+00:20:09,809 --> 00:20:11,606  X1:205 X2:510 Y1:500 Y2:527
+Quel genre d'histoires ?
+
+235
+00:20:17,169 --> 00:20:21,367  X1:105 X2:611 Y1:460 Y2:527
+Des histoires de pêcheurs
+qui ne sont jamais revenus de cette île.
+
+236
+00:20:21,849 --> 00:20:24,761  X1:171 X2:544 Y1:500 Y2:527
+Il a la radio. Il a le téléphone.
+
+237
+00:20:27,369 --> 00:20:29,963  X1:086 X2:630 Y1:500 Y2:525
+Si on a besoin de lui, il arrive dans les 2 h.
+
+238
+00:20:30,769 --> 00:20:32,760  X1:191 X2:525 Y1:500 Y2:527
+Mais il veut pas rester ici.
+
+239
+00:20:34,049 --> 00:20:36,040  X1:141 X2:574 Y1:500 Y2:527
+Il veut pas rester près de ces îles.
+
+240
+00:20:36,889 --> 00:20:38,880  X1:215 X2:500 Y1:500 Y2:527
+Ils appellent ces îles...
+
+241
+00:20:42,329 --> 00:20:44,320  X1:179 X2:536 Y1:500 Y2:527
+Qu'est-ce que ça veut dire ?
+
+242
+00:20:45,129 --> 00:20:49,122  X1:146 X2:571 Y1:500 Y2:527
+Les Cinq Morts. C'est ce qu'il dit.
+
+243
+00:21:02,769 --> 00:21:06,728  X1:148 X2:567 Y1:460 Y2:527
+J'ai placé un localisateur
+dans le téléphone du Pr Harding.
+
+244
+00:21:06,849 --> 00:21:08,840  X1:262 X2:454 Y1:500 Y2:527
+ça me rassure.
+
+245
+00:21:10,209 --> 00:21:14,282  X1:103 X2:614 Y1:460 Y2:527
+Le repère dit qu'on devrait être sur elle.
+En fait, elle devrait être juste ici.
+
+246
+00:21:14,369 --> 00:21:16,360  X1:242 X2:471 Y1:500 Y2:527
+Regardez, là-bas !
+
+247
+00:21:28,889 --> 00:21:30,038  X1:311 X2:402 Y1:500 Y2:522
+Sarah !
+
+248
+00:21:32,529 --> 00:21:34,599  X1:257 X2:457 Y1:500 Y2:527
+Sarah Harding !
+
+249
+00:21:34,849 --> 00:21:37,727  X1:103 X2:613 Y1:500 Y2:527
+Combien de Sarah y a-t-il sur cette île ?
+
+250
+00:21:48,449 --> 00:21:50,246  X1:225 X2:491 Y1:500 Y2:527
+Qu'est-ce que c'est ?
+
+251
+00:21:51,249 --> 00:21:53,126  X1:289 X2:426 Y1:500 Y2:527
+C'est gros.
+
+252
+00:22:22,209 --> 00:22:25,201  X1:240 X2:473 Y1:500 Y2:527
+C'est magnifique !
+
+253
+00:22:25,329 --> 00:22:28,719  X1:136 X2:580 Y1:500 Y2:527
+ça commence toujours comme ça.
+
+254
+00:22:28,849 --> 00:22:32,728  X1:111 X2:605 Y1:460 Y2:522
+Mais après, il y a des "sauve qui peut"
+et des hurlements.
+
+255
+00:23:00,209 --> 00:23:03,007  X1:130 X2:586 Y1:460 Y2:527
+Je vois que tu as une petite avance
+sur nous, pas vrai ?
+
+256
+00:23:07,969 --> 00:23:11,803  X1:090 X2:627 Y1:460 Y2:527
+Ian, je n'aurais jamais cru, même en rêve,
+qu'Hammond te ferait venir ici.
+
+257
+00:23:14,489 --> 00:23:16,480  X1:271 X2:442 Y1:500 Y2:525
+Salut, Eddie !
+
+258
+00:23:16,609 --> 00:23:20,397  X1:132 X2:583 Y1:460 Y2:522
+Vous avez des barres de céréales ?
+Je meurs de faim.
+
+259
+00:23:21,729 --> 00:23:24,402  X1:176 X2:540 Y1:460 Y2:527
+Ces animaux, tu les as vus ?
+C'est un groupe familial.
+
+260
+00:23:24,489 --> 00:23:27,640  X1:114 X2:602 Y1:460 Y2:527
+Un couple et un adolescent,
+encore ensemble après tant d'années.
+
+261
+00:23:27,729 --> 00:23:30,527  X1:200 X2:517 Y1:460 Y2:527
+Les oeufs, une fois éclos,
+sont écrasés et piétinés.
+
+262
+00:23:30,649 --> 00:23:34,483  X1:173 X2:545 Y1:460 Y2:522
+Les petits restent longtemps
+dans l'environnement natal.
+
+263
+00:23:34,569 --> 00:23:37,925  X1:139 X2:577 Y1:460 Y2:527
+Je mettrais fin à la controverse,
+si je pouvais photographier le nid.
+
+264
+00:23:38,009 --> 00:23:41,922  X1:127 X2:588 Y1:460 Y2:527
+- Tu as été attaquée ?
+- Non, c'est mon sac porte-bonheur.
+
+265
+00:23:42,049 --> 00:23:44,085  X1:164 X2:552 Y1:500 Y2:527
+Il a toujours été dans cet état.
+
+266
+00:23:46,929 --> 00:23:49,602  X1:092 X2:624 Y1:500 Y2:527
+C'est un Nikon ? Je peux te l'emprunter ?
+
+267
+00:23:50,329 --> 00:23:52,604  X1:092 X2:623 Y1:500 Y2:527
+Je reviens vite, mon chéri, je te promets.
+
+268
+00:23:55,129 --> 00:23:59,919  X1:111 X2:605 Y1:460 Y2:527
+Sarah, quand Hammond t'a contactée,
+pourquoi tu m'en as pas parlé ?
+
+269
+00:24:00,049 --> 00:24:02,244  X1:124 X2:592 Y1:460 Y2:522
+Je savais que tu m'aurais empêchée
+de venir.
+
+270
+00:24:02,369 --> 00:24:04,599  X1:137 X2:577 Y1:500 Y2:527
+Je t'aurais attachée au pied du lit.
+
+271
+00:24:04,729 --> 00:24:06,799  X1:079 X2:635 Y1:500 Y2:522
+Je sais comment ces animaux ont survécu.
+
+272
+00:24:06,929 --> 00:24:07,918  X1:266 X2:447 Y1:500 Y2:522
+Je m'en fous !
+
+273
+00:24:08,049 --> 00:24:10,847  X1:085 X2:633 Y1:500 Y2:527
+Les espèces herbivores qui sont prospères
+
+274
+00:24:10,969 --> 00:24:14,200  X1:117 X2:601 Y1:460 Y2:527
+mangent beaucoup d'agames de soja,
+très riches en lysine.
+
+275
+00:24:14,329 --> 00:24:18,117  X1:092 X2:625 Y1:460 Y2:522
+Et les carnivores mangent les herbivores.
+Alors...
+
+276
+00:24:22,169 --> 00:24:24,637  X1:096 X2:620 Y1:500 Y2:522
+Restez où vous êtes. Silence. Je reviens.
+
+277
+00:24:28,169 --> 00:24:30,160  X1:292 X2:424 Y1:500 Y2:522
+Restez ici.
+
+278
+00:24:58,009 --> 00:25:00,125  X1:179 X2:538 Y1:500 Y2:527
+Elle est beaucoup trop près.
+
+279
+00:25:00,289 --> 00:25:03,201  X1:166 X2:550 Y1:460 Y2:527
+- Que fait-elle ?
+- Trop près. Elle est trop près.
+
+280
+00:25:23,769 --> 00:25:28,399  X1:120 X2:595 Y1:460 Y2:527
+Regardez ça, il faut qu'elle le touche.
+Elle peut pas s'en empêcher.
+
+281
+00:25:29,089 --> 00:25:31,444  X1:106 X2:611 Y1:500 Y2:527
+Dès qu'elle voit quelque chose, il faut...
+
+282
+00:25:40,569 --> 00:25:42,446  X1:189 X2:527 Y1:500 Y2:527
+Est-ce que c'est possible ?
+
+283
+00:25:43,449 --> 00:25:45,440  X1:317 X2:398 Y1:500 Y2:522
+Quoi ?
+
+284
+00:25:46,049 --> 00:25:49,519  X1:081 X2:634 Y1:460 Y2:527
+Sur quoi tu croyais qu'on se documentait ?
+Que croyais-tu voir ?
+
+285
+00:25:49,729 --> 00:25:52,562  X1:197 X2:520 Y1:500 Y2:522
+Des animaux. Peut-être...
+
+286
+00:25:53,889 --> 00:25:56,357  X1:252 X2:463 Y1:500 Y2:527
+de gros iguanes.
+
+287
+00:25:57,729 --> 00:25:59,640  X1:242 X2:472 Y1:500 Y2:527
+Tous des cinglés !
+
+288
+00:26:07,249 --> 00:26:08,967  X1:219 X2:496 Y1:500 Y2:527
+Ils aiment les photos.
+
+289
+00:26:19,929 --> 00:26:20,918  X1:309 X2:404 Y1:500 Y2:522
+Tue-le !
+
+290
+00:26:21,049 --> 00:26:24,166  X1:213 X2:503 Y1:460 Y2:522
+- Ils protègent le bébé.
+- Moi aussi.
+
+291
+00:26:43,769 --> 00:26:46,237  X1:201 X2:513 Y1:500 Y2:527
+Je crois qu'ils s'en vont.
+
+292
+00:26:55,289 --> 00:26:57,280  X1:170 X2:546 Y1:500 Y2:527
+Ces images sont incroyables.
+
+293
+00:26:57,409 --> 00:27:00,162  X1:125 X2:591 Y1:460 Y2:522
+Certains ont pas un cliché aussi bon
+de toute leur vie.
+
+294
+00:27:00,289 --> 00:27:02,757  X1:165 X2:551 Y1:460 Y2:522
+Tu peux me donner le Pulitzer
+tout de suite.
+
+295
+00:27:03,289 --> 00:27:07,202  X1:172 X2:544 Y1:460 Y2:527
+La compétition est terminée.
+Je remercie les perdants.
+
+296
+00:27:07,329 --> 00:27:10,685  X1:152 X2:564 Y1:460 Y2:527
+Ne l'allume pas. Les dinosaures
+repèrent les odeurs de très loin.
+
+297
+00:27:10,809 --> 00:27:13,004  X1:106 X2:610 Y1:500 Y2:527
+On est là pour observer, pas participer.
+
+298
+00:27:13,169 --> 00:27:15,478  X1:096 X2:620 Y1:500 Y2:527
+Ce qui est une impossibilité scientifique.
+
+299
+00:27:15,609 --> 00:27:19,079  X1:186 X2:530 Y1:460 Y2:527
+Le Principe d'Heisenberg :
+on change ce qu'on étudie.
+
+300
+00:27:19,209 --> 00:27:21,200  X1:244 X2:471 Y1:500 Y2:527
+Je risque le coup.
+
+301
+00:27:21,329 --> 00:27:24,207  X1:204 X2:511 Y1:460 Y2:527
+J'en ai marre de gratter
+des pierres et des os,
+
+302
+00:27:24,329 --> 00:27:27,321  X1:169 X2:549 Y1:460 Y2:522
+d'imaginer les habitudes
+nourricières d'animaux morts
+
+303
+00:27:27,449 --> 00:27:29,644  X1:176 X2:539 Y1:500 Y2:527
+depuis 65 millions d'années.
+
+304
+00:27:29,729 --> 00:27:32,448  X1:170 X2:546 Y1:460 Y2:527
+Et voilà que tu me parles
+de tes histoires d'il y a 4 ans.
+
+305
+00:27:32,529 --> 00:27:34,087  X1:158 X2:557 Y1:500 Y2:527
+Alors je viens ici. ça t'étonne ?
+
+306
+00:27:34,169 --> 00:27:36,125  X1:168 X2:548 Y1:500 Y2:527
+Des morts ! T'as pas écouté ?
+
+307
+00:27:36,249 --> 00:27:39,207  X1:188 X2:528 Y1:460 Y2:527
+Ne me parle pas comme si
+je passais ma licence.
+
+308
+00:27:39,329 --> 00:27:41,763  X1:209 X2:506 Y1:460 Y2:527
+J'étudie les prédateurs
+depuis l'âge de 20 ans.
+
+309
+00:27:41,889 --> 00:27:44,687  X1:178 X2:539 Y1:500 Y2:527
+Lions, chacals, hyènes... toi.
+
+310
+00:27:52,249 --> 00:27:54,046  X1:266 X2:450 Y1:500 Y2:522
+Où est le feu ?
+
+311
+00:27:54,209 --> 00:27:56,803  X1:170 X2:546 Y1:460 Y2:527
+J'essaie de changer un siècle
+de dogmes bien ancrés.
+
+312
+00:27:56,929 --> 00:28:00,524  X1:138 X2:579 Y1:460 Y2:522
+On a décrit très tôt les dinosaures
+comme des lézards vicieux.
+
+313
+00:28:00,649 --> 00:28:03,880  X1:133 X2:584 Y1:460 Y2:527
+On admet pas l'idée qu'ils puissent
+se comporter en parents.
+
+314
+00:28:04,009 --> 00:28:08,161  X1:122 X2:593 Y1:460 Y2:527
+Robert Burke a dit que le T.Rex était
+un rogue qui abandonnait ses petits.
+
+315
+00:28:08,289 --> 00:28:10,280  X1:171 X2:543 Y1:500 Y2:527
+Je peux prouver le contraire.
+
+316
+00:28:10,449 --> 00:28:13,680  X1:133 X2:579 Y1:500 Y2:527
+Au feu ! Y a le feu au campement !
+
+317
+00:28:18,689 --> 00:28:21,203  X1:162 X2:556 Y1:460 Y2:522
+Non ! L'eau fait trop de fumée,
+mettez de la terre !
+
+318
+00:28:22,009 --> 00:28:24,000  X1:246 X2:470 Y1:500 Y2:522
+Qui a fait ce feu ?
+
+319
+00:28:25,209 --> 00:28:27,848  X1:136 X2:578 Y1:500 Y2:527
+Je voulais juste vous faire à dîner.
+
+320
+00:28:27,969 --> 00:28:31,757  X1:196 X2:519 Y1:460 Y2:527
+Je voulais qu'en rentrant
+vous ayez la surprise.
+
+321
+00:28:33,129 --> 00:28:36,280  X1:178 X2:538 Y1:460 Y2:522
+Tu trouves qu'il y a
+un air de famille entre eux ?
+
+322
+00:28:36,769 --> 00:28:40,318  X1:097 X2:618 Y1:500 Y2:527
+Tu m'as pratiquement invitée à venir ici.
+
+323
+00:28:40,449 --> 00:28:43,919  X1:136 X2:579 Y1:460 Y2:527
+Tu m'as dit "ne m'écoute pas ! "
+J'ai pensé que c'était un message.
+
+324
+00:28:44,049 --> 00:28:47,246  X1:132 X2:582 Y1:460 Y2:527
+Tu savais exactement de quoi
+je voulais parler, tu n'as pas idée...
+
+325
+00:28:47,329 --> 00:28:51,561  X1:135 X2:580 Y1:460 Y2:527
+Tu veux la boucler pour curiosité ?
+De qui elle tient ?
+
+326
+00:28:51,649 --> 00:28:55,278  X1:086 X2:630 Y1:500 Y2:527
+Me fais pas le coup de l'entraide féminine.
+
+327
+00:28:56,329 --> 00:29:00,288  X1:155 X2:559 Y1:500 Y2:527
+Te mêle pas de ça. S'il te plaît !
+
+328
+00:29:01,729 --> 00:29:04,004  X1:124 X2:592 Y1:500 Y2:527
+Pourquoi ce truc ne marche jamais ?
+
+329
+00:29:04,129 --> 00:29:09,442  X1:144 X2:571 Y1:460 Y2:527
+C'est pas une ligne téléphonique.
+Tu dois attendre le signal.
+
+330
+00:29:11,969 --> 00:29:15,200  X1:200 X2:516 Y1:460 Y2:527
+Violence et technologie
+ne font pas bon ménage.
+
+331
+00:29:16,489 --> 00:29:21,005  X1:080 X2:636 Y1:460 Y2:527
+Hammond nous pousse à placer le matériel
+le plus près possible des animaux.
+
+332
+00:29:21,129 --> 00:29:24,201  X1:129 X2:587 Y1:460 Y2:527
+Vous pouvez aussi vous barbouiller
+de sang de mouton !
+
+333
+00:29:24,329 --> 00:29:30,598  X1:107 X2:608 Y1:460 Y2:527
+Y a-t-il une raison de penser
+que la radio dans la caravane marche ?
+
+334
+00:29:30,729 --> 00:29:34,688  X1:124 X2:592 Y1:460 Y2:522
+Si tu te sens assez qualifié,
+essaie de mettre le bouton sur "on".
+
+335
+00:29:35,369 --> 00:29:38,247  X1:090 X2:627 Y1:500 Y2:527
+Bon. Ecoutez, j'emmène ma fille loin d'ici.
+
+336
+00:29:38,369 --> 00:29:41,406  X1:191 X2:526 Y1:460 Y2:522
+Si l'un de vous veut venir,
+c'est sa dernière chance.
+
+337
+00:29:41,529 --> 00:29:44,202  X1:185 X2:532 Y1:460 Y2:527
+Ne faites rien qui permette
+aux gens de dire
+
+338
+00:29:44,329 --> 00:29:46,763  X1:102 X2:614 Y1:500 Y2:527
+que nos découvertes sont contaminées.
+
+339
+00:29:46,889 --> 00:29:49,767  X1:177 X2:541 Y1:460 Y2:527
+La communauté scientifique
+ne nous pardonnera rien.
+
+340
+00:29:49,889 --> 00:29:54,519  X1:107 X2:610 Y1:460 Y2:527
+On laisse aucune odeur : ni insecticide,
+ni lotion pour cheveux, ni parfum.
+
+341
+00:29:57,049 --> 00:29:59,358  X1:201 X2:516 Y1:460 Y2:527
+Notre présence doit être
+à 100% antiseptique.
+
+342
+00:30:01,129 --> 00:30:04,599  X1:137 X2:578 Y1:460 Y2:527
+- Papa, tu es fâché ?
+- Je suis pas fâché, je suis furieux.
+
+343
+00:30:05,809 --> 00:30:08,528  X1:114 X2:601 Y1:460 Y2:527
+- C'est quoi ça ? On dirait ta chambre.
+- Je vais ranger.
+
+344
+00:30:08,609 --> 00:30:10,600  X1:269 X2:446 Y1:500 Y2:522
+Tout de suite.
+
+345
+00:30:11,609 --> 00:30:14,282  X1:201 X2:512 Y1:460 Y2:522
+Qu'est-ce que c'est ?
+Y a des tas de boutons !
+
+346
+00:30:14,409 --> 00:30:17,958  X1:139 X2:578 Y1:460 Y2:527
+Ian, te fâche pas. J'allais t'appeler
+pour te dire où j'étais.
+
+347
+00:30:18,609 --> 00:30:20,520  X1:126 X2:589 Y1:500 Y2:527
+C'est ce que je fais d'habitude, non?
+
+348
+00:30:20,689 --> 00:30:24,921  X1:106 X2:608 Y1:460 Y2:527
+Je suis la petite amie parfaite pour toi.
+Celle qui voyage beaucoup.
+
+349
+00:30:25,049 --> 00:30:27,279  X1:097 X2:618 Y1:500 Y2:527
+ça te plaît ! Tu aimes ton indépendance.
+
+350
+00:30:27,409 --> 00:30:31,960  X1:086 X2:629 Y1:460 Y2:527
+J'ai l'habitude d'être seul, mais ça
+veut pas dire que je veux vivre comme ça.
+
+351
+00:30:32,089 --> 00:30:36,321  X1:118 X2:599 Y1:460 Y2:527
+Kelly, c'est une discussion de grands.
+Juste pour une minute.
+
+352
+00:30:36,449 --> 00:30:39,361  X1:168 X2:549 Y1:460 Y2:527
+C'est comme une interdiction
+dans un parc d'attractions.
+
+353
+00:30:40,089 --> 00:30:46,722  X1:089 X2:627 Y1:460 Y2:527
+Si tu voulais me sauver, pourquoi tu m'as
+pas délivrée de ce cocktail de charité ?
+
+354
+00:30:48,129 --> 00:30:50,165  X1:156 X2:559 Y1:500 Y2:522
+C'était une situation différente.
+
+355
+00:30:50,329 --> 00:30:53,844  X1:180 X2:538 Y1:460 Y2:527
+Et ce dîner avec tes parents
+où t'es pas venu ?
+
+356
+00:30:53,969 --> 00:30:58,645  X1:185 X2:532 Y1:460 Y2:522
+Pourquoi tu me sauves pas
+au bon moment ?
+
+357
+00:30:58,769 --> 00:31:02,239  X1:083 X2:631 Y1:500 Y2:522
+J'ai fait une véritable carrière à t'attendre.
+
+358
+00:31:02,609 --> 00:31:04,600  X1:163 X2:553 Y1:500 Y2:527
+Sarah n'a pas tout à fait tort...
+
+359
+00:31:04,729 --> 00:31:10,361  X1:102 X2:611 Y1:460 Y2:527
+Il est important pour ton avenir
+que tu finisses pas ta phrase... Dehors !
+
+360
+00:31:15,529 --> 00:31:19,841  X1:147 X2:568 Y1:460 Y2:522
+Je suis ravie que tu sois venu ici
+sur ton blanc destrier. Vraiment.
+
+361
+00:31:20,609 --> 00:31:24,204  X1:119 X2:596 Y1:500 Y2:527
+C'est très touchant, très dramatique.
+
+362
+00:31:24,329 --> 00:31:27,207  X1:204 X2:513 Y1:460 Y2:527
+Mais je voudrais parfois
+que tu viennes en taxi.
+
+363
+00:31:27,329 --> 00:31:31,880  X1:125 X2:590 Y1:460 Y2:527
+Kelly, que fais-tu ?
+Non, ne sors pas ! C'est dangereux !
+
+364
+00:31:39,809 --> 00:31:43,597  X1:090 X2:625 Y1:500 Y2:527
+Je sais ce que je fais. Vous pouvez partir.
+
+365
+00:31:44,329 --> 00:31:46,399  X1:238 X2:477 Y1:500 Y2:527
+Mais moi, je reste.
+
+366
+00:31:46,529 --> 00:31:50,124  X1:163 X2:553 Y1:460 Y2:525
+Je t'aime. Mais j'ai pas besoin
+de toi, maintenant.
+
+367
+00:31:51,169 --> 00:31:54,400  X1:133 X2:582 Y1:460 Y2:527
+Je vais te dire de quoi t'as besoin :
+d'un bon antidépresseur.
+
+368
+00:31:54,529 --> 00:31:56,440  X1:145 X2:570 Y1:500 Y2:527
+Je vais revenir dans 5 ou 6 jours.
+
+369
+00:31:56,569 --> 00:31:58,366  X1:195 X2:521 Y1:500 Y2:525
+Non, en 5 ou 6 morceaux.
+
+370
+00:31:58,449 --> 00:32:01,486  X1:143 X2:573 Y1:460 Y2:525
+ça t'embête que je n'aie pas peur
+de cet endroit. Et toi, si.
+
+371
+00:32:01,569 --> 00:32:04,481  X1:175 X2:542 Y1:500 Y2:527
+Bien sûr. Le problème est là.
+
+372
+00:32:05,289 --> 00:32:06,563  X1:229 X2:486 Y1:500 Y2:527
+C'est quoi ce bruit ?
+
+373
+00:32:16,409 --> 00:32:20,925  X1:123 X2:591 Y1:460 Y2:527
+Je vais nous faire rapatrier dans un
+de ces engins, tout de suite. Par ici !
+
+374
+00:32:23,649 --> 00:32:27,688  X1:181 X2:535 Y1:460 Y2:527
+Je pige pas. Y a écrit lnGen
+sur cet hélicoptère !
+
+375
+00:32:28,329 --> 00:32:31,878  X1:149 X2:567 Y1:460 Y2:527
+Je pige pas. Pourquoi Hammond
+enverrait 2 équipes ?
+
+376
+00:32:33,449 --> 00:32:35,519  X1:148 X2:568 Y1:500 Y2:527
+Coupe le cordon ombilical, Papa.
+
+377
+00:32:35,649 --> 00:32:39,039  X1:165 X2:550 Y1:460 Y2:527
+Il nous fait pas confiance ?
+On n'a pas encore commencé.
+
+378
+00:32:47,209 --> 00:32:49,643  X1:171 X2:545 Y1:460 Y2:527
+C'est bien, ici,
+pour établir le camp de base.
+
+379
+00:32:49,729 --> 00:32:52,004  X1:196 X2:520 Y1:460 Y2:527
+C'est la première priorité
+dès qu'on aura fini.
+
+380
+00:32:52,089 --> 00:32:57,482  X1:132 X2:583 Y1:460 Y2:527
+Je veux qu'on puisse lever le camp
+en 30 mn. Compris ? Terminé.
+
+381
+00:32:57,609 --> 00:33:00,442  X1:231 X2:484 Y1:460 Y2:527
+- Annulez cet ordre.
+- Quoi ? Pourquoi ?
+
+382
+00:33:00,609 --> 00:33:03,681  X1:189 X2:528 Y1:460 Y2:527
+C'est une piste de gibier.
+Les carnivores y chassent.
+
+383
+00:33:03,809 --> 00:33:07,358  X1:157 X2:559 Y1:460 Y2:527
+Vous voulez établir
+un camp de base ou un buffet ?
+
+384
+00:33:09,889 --> 00:33:13,484  X1:136 X2:581 Y1:460 Y2:522
+Trouvons un nouvel emplacement,
+d'accord ? Terminé.
+
+385
+00:33:13,609 --> 00:33:17,488  X1:131 X2:586 Y1:460 Y2:527
+Peter, si vous voulez que j'organise
+votre safari, il y a 2 conditions.
+
+386
+00:33:17,569 --> 00:33:20,766  X1:143 X2:572 Y1:460 Y2:527
+La 1ère, c'est moi qui dirige.
+Quand je suis pas là, c'est Dieter.
+
+387
+00:33:20,889 --> 00:33:22,481  X1:196 X2:520 Y1:500 Y2:527
+Vous, signez les chèques
+
+388
+00:33:22,569 --> 00:33:25,481  X1:164 X2:551 Y1:460 Y2:527
+et ouvrez la caisse de whisky
+quand on a fait du bon boulot.
+
+389
+00:33:25,609 --> 00:33:28,328  X1:167 X2:549 Y1:460 Y2:527
+2e condition, mes honoraires.
+Vous pouvez les garder.
+
+390
+00:33:28,449 --> 00:33:32,203  X1:127 X2:588 Y1:460 Y2:527
+Ce que je veux en échange,
+c'est chasser un des tyrannosaures.
+
+391
+00:33:32,329 --> 00:33:35,048  X1:145 X2:571 Y1:460 Y2:527
+Un mâle. Comment et pourquoi ?
+ça me regarde.
+
+392
+00:33:35,169 --> 00:33:37,603  X1:155 X2:561 Y1:460 Y2:522
+Si une condition vous plaît pas,
+continuez seul.
+
+393
+00:33:37,729 --> 00:33:39,959  X1:103 X2:611 Y1:500 Y2:527
+Allez-y, établissez votre campement ici
+
+394
+00:33:40,089 --> 00:33:43,126  X1:150 X2:566 Y1:460 Y2:527
+ou dans un marais ou au milieu
+d'un nid de T.Rex, ça m'est égal.
+
+395
+00:33:43,249 --> 00:33:46,525  X1:202 X2:514 Y1:460 Y2:522
+J'ai trop fait de safaris
+avec de riches dentistes
+
+396
+00:33:46,649 --> 00:33:49,209  X1:091 X2:624 Y1:460 Y2:522
+pour écouter encore ces idéessuicidaires.
+D'accord ?
+
+397
+00:33:50,849 --> 00:33:52,043  X1:299 X2:417 Y1:500 Y2:522
+D'accord.
+
+398
+00:33:57,169 --> 00:34:00,639  X1:116 X2:599 Y1:460 Y2:527
+Motard, isolez un animal du troupeau
+et poussez-le sur la droite.
+
+399
+00:34:00,809 --> 00:34:03,801  X1:113 X2:604 Y1:500 Y2:527
+Piégeur, soyez prêt. Il vient vers vous.
+
+400
+00:34:05,969 --> 00:34:09,166  X1:252 X2:464 Y1:500 Y2:527
+C'est un pachy...
+
+401
+00:34:09,289 --> 00:34:12,122  X1:102 X2:614 Y1:500 Y2:527
+Le gros lard au crâne tondu, Frère Tuck.
+
+402
+00:34:38,649 --> 00:34:41,368  X1:215 X2:501 Y1:460 Y2:522
+- Pachycephalosaurus.
+- Carnivore ?
+
+403
+00:34:41,489 --> 00:34:44,083  X1:153 X2:564 Y1:500 Y2:525
+Non. Herbivore, fin du Crétacée.
+
+404
+00:34:51,569 --> 00:34:53,446  X1:163 X2:552 Y1:500 Y2:522
+Il a un crâne arrondi distinctif.
+
+405
+00:34:53,569 --> 00:34:57,164  X1:086 X2:629 Y1:500 Y2:525
+20 cm d'os solides. Maintenant, attention.
+
+406
+00:34:58,609 --> 00:35:03,205  X1:086 X2:630 Y1:460 Y2:527
+Il a le cou attaché au bas du crâne,
+et non derrière la tête comme les reptiles.
+
+407
+00:35:03,289 --> 00:35:07,077  X1:128 X2:587 Y1:460 Y2:527
+Quand il baisse la tête, son cou
+s'aligne avec sa colonne vertébrale.
+
+408
+00:35:07,169 --> 00:35:09,285  X1:093 X2:623 Y1:500 Y2:527
+Ce qui est parfait pour absorber l'impact.
+
+409
+00:35:15,489 --> 00:35:19,004  X1:173 X2:545 Y1:460 Y2:522
+Piégeur, Frère Tuck est lâché
+et il va croiser votre route.
+
+410
+00:36:23,049 --> 00:36:27,167  X1:077 X2:640 Y1:460 Y2:527
+Dieter, mets-toi en position siège extérieur.
+Tu t'approches d'un carano...
+
+411
+00:36:27,929 --> 00:36:30,443  X1:133 X2:583 Y1:500 Y2:527
+Répète-moi ça ! Répète ! Un quoi ?
+
+412
+00:36:31,489 --> 00:36:35,402  X1:125 X2:592 Y1:460 Y2:522
+Le gros avec la grosse corne rousse.
+La banane. Elvis.
+
+413
+00:36:36,809 --> 00:36:39,926  X1:207 X2:508 Y1:500 Y2:525
+Fais-moi sortir, Carter !
+
+414
+00:36:53,609 --> 00:36:56,077  X1:197 X2:519 Y1:500 Y2:527
+C'est bon. Récupère-moi.
+
+415
+00:36:59,649 --> 00:37:01,640  X1:276 X2:438 Y1:500 Y2:522
+Doucement !
+
+416
+00:37:02,609 --> 00:37:05,248  X1:206 X2:509 Y1:500 Y2:527
+Pas trop près, les gars !
+
+417
+00:37:05,689 --> 00:37:08,886  X1:100 X2:612 Y1:500 Y2:527
+Visez les pattes ! Attention à la queue !
+
+418
+00:37:56,889 --> 00:37:58,368  X1:298 X2:416 Y1:500 Y2:522
+Viens ici.
+
+419
+00:38:03,369 --> 00:38:07,203  X1:171 X2:544 Y1:460 Y2:527
+- Tu reconnais ces traces ?
+- Oui. C'est un Tyrannosaure.
+
+420
+00:38:20,409 --> 00:38:25,642  X1:160 X2:556 Y1:460 Y2:525
+- Où tu vas comme ça ?
+- Chercher mon dû, M. Ludlow.
+
+421
+00:38:40,089 --> 00:38:44,321  X1:096 X2:620 Y1:460 Y2:527
+Compsognathus triassicus.
+Découvert par Frass en Bavière, en 1913.
+
+422
+00:38:44,489 --> 00:38:47,083  X1:244 X2:472 Y1:500 Y2:527
+Il est dangereux ?
+
+423
+00:38:47,609 --> 00:38:49,167  X1:228 X2:488 Y1:500 Y2:527
+Non, je ne crois pas.
+
+424
+00:38:50,049 --> 00:38:53,246  X1:089 X2:628 Y1:460 Y2:522
+Compso est présumé être un nécrophage,
+comme les chacals.
+
+425
+00:38:54,169 --> 00:38:58,162  X1:141 X2:575 Y1:460 Y2:527
+ça me fout la chair de poule.
+On dirait qu'il a pas peur de nous.
+
+426
+00:38:59,169 --> 00:39:02,559  X1:138 X2:578 Y1:460 Y2:527
+Il y a jamais eu de visiteurs.
+Il peut pas avoir peur de l'homme.
+
+427
+00:39:07,609 --> 00:39:10,077  X1:261 X2:454 Y1:500 Y2:525
+Maintenant, si.
+
+428
+00:39:28,489 --> 00:39:31,083  X1:222 X2:493 Y1:500 Y2:522
+C'est le nid du T.Rex.
+
+429
+00:39:32,489 --> 00:39:36,960  X1:141 X2:576 Y1:460 Y2:527
+Le petit a pas plus de 2 semaines.
+Il a pas encore quitté le nid.
+
+430
+00:39:40,529 --> 00:39:44,568  X1:133 X2:582 Y1:460 Y2:527
+Un bébé aussi jeune, les parents
+vont pas le laisser seul longtemps.
+
+431
+00:39:46,009 --> 00:39:49,479  X1:168 X2:547 Y1:460 Y2:522
+On se fait une planque ?
+On attend le retour du mâle ?
+
+432
+00:39:50,809 --> 00:39:53,881  X1:098 X2:617 Y1:500 Y2:527
+Si le nid est dans le vent, on y est aussi.
+
+433
+00:39:54,329 --> 00:39:59,039  X1:088 X2:628 Y1:460 Y2:527
+Quand il va revenir, il va savoir
+qu'on est là sans nous laisser une chance.
+
+434
+00:39:59,649 --> 00:40:02,004  X1:264 X2:453 Y1:500 Y2:525
+Le truc, c'est...
+
+435
+00:40:02,129 --> 00:40:06,600  X1:093 X2:623 Y1:500 Y2:522
+de le forcer à venir là où nous le voulons.
+
+436
+00:40:53,769 --> 00:40:57,728  X1:085 X2:631 Y1:460 Y2:527
+C'est pour ça qu'Hammond était si pressé.
+Il savait qu'ils venaient.
+
+437
+00:40:58,089 --> 00:41:00,922  X1:161 X2:556 Y1:500 Y2:527
+Putain, ils sont bien organisés.
+
+438
+00:41:01,049 --> 00:41:03,040  X1:179 X2:537 Y1:500 Y2:527
+Ils ont des jouets high-tech.
+
+439
+00:41:04,009 --> 00:41:07,718  X1:141 X2:574 Y1:460 Y2:527
+Je devrais utiliser leur téléphone.
+Leur antenne est plus grosse.
+
+440
+00:41:08,169 --> 00:41:10,808  X1:081 X2:635 Y1:500 Y2:527
+Ils veulent construire un nouveau parc ici ?
+
+441
+00:41:10,929 --> 00:41:13,523  X1:111 X2:603 Y1:500 Y2:527
+Après ce qui est arrivé sur l'autre île ?
+
+442
+00:41:13,649 --> 00:41:18,120  X1:103 X2:613 Y1:460 Y2:522
+Ils construisent rien du tout. Ils veulent
+emmener les animaux sur le continent.
+
+443
+00:41:20,569 --> 00:41:23,561  X1:158 X2:557 Y1:460 Y2:527
+Je dois vous dire qu'Hammond
+m'avait prévenu de leur venue.
+
+444
+00:41:23,889 --> 00:41:27,325  X1:166 X2:550 Y1:460 Y2:527
+Il pensait qu'on aurait fini
+quand ils débuteraient, sinon,
+
+445
+00:41:27,409 --> 00:41:28,967  X1:162 X2:554 Y1:500 Y2:527
+il envoyait un plan de secours.
+
+446
+00:41:29,049 --> 00:41:30,801  X1:233 X2:483 Y1:500 Y2:527
+C'est quoi ce plan ?
+
+447
+00:41:30,929 --> 00:41:32,567  X1:330 X2:386 Y1:500 Y2:522
+Moi.
+
+448
+00:41:32,809 --> 00:41:37,564  X1:101 X2:615 Y1:460 Y2:527
+InGen recherche des associés pour
+partager les frais d'expansion du projet.
+
+449
+00:41:37,689 --> 00:41:40,601  X1:143 X2:575 Y1:460 Y2:527
+Le prospectus qu'on vous a remis
+explique en détails
+
+450
+00:41:43,569 --> 00:41:48,563  X1:117 X2:600 Y1:460 Y2:527
+Comme vous le montrent nos 2 amis,
+le programme software est déjà prêt.
+
+451
+00:41:51,369 --> 00:41:54,679  X1:191 X2:528 Y1:460 Y2:522
+On peut dire que l'histoire
+s'est mise en marche.
+
+452
+00:41:55,849 --> 00:42:01,799  X1:078 X2:637 Y1:460 Y2:527
+Je vais vous emmener faire le tour du parc.
+Vous y verrez les plus grands spécimens.
+
+453
+00:42:28,969 --> 00:42:32,678  X1:096 X2:620 Y1:460 Y2:527
+On fait pas venir les gens de l'autre bout
+de monde pour visiter un zoo.
+
+454
+00:42:32,809 --> 00:42:37,439  X1:144 X2:573 Y1:460 Y2:527
+On amène le zoo chez eux.
+Et San Diego est l'endroit parfait.
+
+455
+00:42:37,569 --> 00:42:41,642  X1:104 X2:614 Y1:460 Y2:522
+Le public associe déjà notre magnifique
+ville aux attractions animalières :
+
+456
+00:42:41,769 --> 00:42:45,045  X1:137 X2:580 Y1:500 Y2:527
+Ie zoo de San Diego, le Sea World,
+
+457
+00:42:45,169 --> 00:42:46,761  X1:166 X2:550 Y1:500 Y2:527
+I'équipe de foot des Chargers.
+
+458
+00:43:13,289 --> 00:43:15,564  X1:209 X2:506 Y1:500 Y2:522
+M. Hammond le savait.
+
+459
+00:43:15,689 --> 00:43:18,487  X1:133 X2:583 Y1:500 Y2:525
+Avant même d'avoir rêvé à une île,
+
+460
+00:43:19,329 --> 00:43:22,002  X1:164 X2:553 Y1:460 Y2:527
+il a commencé la construction
+d'un amphithéâtre
+
+461
+00:43:22,769 --> 00:43:26,842  X1:126 X2:589 Y1:460 Y2:527
+près de là où vous êtes assis,
+dans le complexe maritime d'lnGen.
+
+462
+00:43:27,369 --> 00:43:30,008  X1:233 X2:482 Y1:500 Y2:522
+Mais il l'abandonna
+
+463
+00:43:30,129 --> 00:43:33,166  X1:087 X2:630 Y1:500 Y2:527
+en faveur de quelque chose de plus grand,
+
+464
+00:43:33,289 --> 00:43:36,281  X1:188 X2:527 Y1:500 Y2:527
+et pour finir, d'impossible.
+
+465
+00:43:36,689 --> 00:43:40,762  X1:124 X2:592 Y1:460 Y2:525
+Plusieurs des installations
+sont restées inutilisées, inachevées,
+
+466
+00:43:40,889 --> 00:43:45,440  X1:145 X2:572 Y1:460 Y2:522
+alors qu'elles pourraient recevoir
+des visiteurs dans un mois.
+
+467
+00:44:07,009 --> 00:44:09,648  X1:201 X2:512 Y1:500 Y2:527
+Ajay, attention ! Saute !
+
+468
+00:44:35,809 --> 00:44:39,279  X1:162 X2:553 Y1:460 Y2:527
+C'est la dernière fois
+que t'es responsable du camp.
+
+469
+00:45:00,089 --> 00:45:04,048  X1:150 X2:564 Y1:460 Y2:527
+- Mon Dieu ! T'es dingue ?
+- Il a une patte cassée. Entrons !
+
+470
+00:45:04,169 --> 00:45:07,957  X1:176 X2:539 Y1:460 Y2:527
+T'es complètement dingue ?
+Sais-tu ce que tu tiens ?
+
+471
+00:45:09,409 --> 00:45:11,206  X1:286 X2:430 Y1:500 Y2:527
+T'es cinglé.
+
+472
+00:45:12,689 --> 00:45:15,487  X1:198 X2:517 Y1:500 Y2:527
+Ian va avoir une attaque.
+
+473
+00:45:19,609 --> 00:45:22,919  X1:195 X2:521 Y1:460 Y2:527
+- Qu'est-ce qui se passe ?
+- C'est pas évident ?
+
+474
+00:45:25,569 --> 00:45:27,560  X1:156 X2:560 Y1:500 Y2:527
+On n'est pas seuls sur cette île.
+
+475
+00:45:37,249 --> 00:45:39,922  X1:169 X2:547 Y1:500 Y2:527
+C'est pas la bonne fréquence.
+
+476
+00:45:42,449 --> 00:45:43,962  X1:296 X2:418 Y1:500 Y2:527
+Regarde !
+
+477
+00:46:01,209 --> 00:46:03,086  X1:179 X2:537 Y1:500 Y2:527
+Qu'est-ce que c'est que ça ?
+
+478
+00:46:03,649 --> 00:46:06,447  X1:166 X2:549 Y1:500 Y2:527
+Je crois que j'ai trouvé. Allô ?
+
+479
+00:46:10,849 --> 00:46:13,966  X1:122 X2:594 Y1:460 Y2:522
+Non, pas Enrique. C'est lan Malcolm.
+Vous êtes sur le bateau ?
+
+480
+00:46:15,369 --> 00:46:17,724  X1:220 X2:496 Y1:500 Y2:525
+Non, c'est le bateau ?
+
+481
+00:46:18,209 --> 00:46:22,760  X1:093 X2:623 Y1:460 Y2:527
+On est sur lsla Sorna
+et on doit parler au bateau Mar del Plata.
+
+482
+00:46:29,729 --> 00:46:31,526  X1:275 X2:440 Y1:500 Y2:527
+Je le prends.
+
+483
+00:46:35,369 --> 00:46:36,848  X1:278 X2:438 Y1:500 Y2:527
+Dépêche-toi.
+
+484
+00:46:38,769 --> 00:46:40,122  X1:222 X2:493 Y1:500 Y2:527
+Attention à la queue.
+
+485
+00:46:42,649 --> 00:46:45,482  X1:144 X2:571 Y1:460 Y2:527
+- Elle est fâchée.
+- Je suis désolé pour cet Enrique.
+
+486
+00:46:45,609 --> 00:46:50,046  X1:168 X2:548 Y1:460 Y2:527
+Ian, pas de réflexion.
+Kelly, chérie, reste en arrière.
+
+487
+00:46:52,409 --> 00:46:54,400  X1:206 X2:511 Y1:500 Y2:522
+Fais attention à sa tête.
+
+488
+00:46:55,809 --> 00:46:57,959  X1:080 X2:637 Y1:500 Y2:527
+Laisse-moi passer. Je vais avancer la table.
+
+489
+00:47:11,489 --> 00:47:14,686  X1:152 X2:564 Y1:460 Y2:527
+Il faut vous assommer ou quoi ?
+Ne t'approche pas, chérie.
+
+490
+00:47:19,369 --> 00:47:22,839  X1:200 X2:514 Y1:460 Y2:527
+Non, madame, ça suffit !
+Mauvaise fréquence.
+
+491
+00:47:27,489 --> 00:47:29,480  X1:153 X2:563 Y1:500 Y2:527
+Nick, ne le laisse pas t'agripper.
+
+492
+00:47:36,009 --> 00:47:38,477  X1:128 X2:588 Y1:500 Y2:527
+On va jeter un coup d'oeil là-dessus.
+
+493
+00:47:43,249 --> 00:47:46,207  X1:176 X2:540 Y1:500 Y2:525
+Bon, ici on a les métatarses.
+
+494
+00:47:50,289 --> 00:47:54,441  X1:181 X2:534 Y1:460 Y2:527
+Et le tibia, le péroné.
+C'est ici. Il y a une fracture.
+
+495
+00:47:54,569 --> 00:47:57,208  X1:104 X2:611 Y1:460 Y2:527
+- Grave ?
+- Si on la réduit pas, ce bébé va mourir.
+
+496
+00:47:57,369 --> 00:47:59,837  X1:137 X2:578 Y1:500 Y2:527
+Sa cheville ne pourra plus pivoter.
+
+497
+00:47:59,969 --> 00:48:03,405  X1:149 X2:568 Y1:460 Y2:527
+Il ne pourra ni courir, ni marcher
+et un prédateur le bouffera.
+
+498
+00:48:04,609 --> 00:48:08,602  X1:086 X2:628 Y1:500 Y2:527
+Réponds, nom de Dieu. Espèce de salaud !
+
+499
+00:48:09,449 --> 00:48:11,565  X1:129 X2:587 Y1:500 Y2:527
+D'autres animaux vont entendre ça.
+
+500
+00:48:11,729 --> 00:48:14,004  X1:120 X2:596 Y1:500 Y2:527
+Réponds, s'il te plaît. Tu m'entends ?
+
+501
+00:48:14,129 --> 00:48:18,566  X1:196 X2:521 Y1:460 Y2:522
+Papa, je veux sortir de là.
+Je veux aller à l'abri.
+
+502
+00:48:21,129 --> 00:48:24,678  X1:096 X2:619 Y1:460 Y2:522
+- On est à l'abri, ici !
+- Je veux aller dans un endroit très haut.
+
+503
+00:48:24,769 --> 00:48:29,923  X1:142 X2:573 Y1:460 Y2:527
+Quoi ? Qu'est-ce qu'il y a ? Quoi ?
+Qu'est-ce qui se passe ?
+
+504
+00:48:30,049 --> 00:48:33,598  X1:147 X2:568 Y1:460 Y2:522
+Tu es plus heureux en l'ignorant.
+Fais-nous monter. En route !
+
+505
+00:48:38,729 --> 00:48:41,766  X1:145 X2:569 Y1:460 Y2:527
+Je suis une idiote.
+Je n'aurais pas dû venir avec toi.
+
+506
+00:48:42,649 --> 00:48:44,128  X1:229 X2:487 Y1:500 Y2:527
+Tu peux le soigner ?
+
+507
+00:48:44,249 --> 00:48:48,800  X1:125 X2:592 Y1:460 Y2:527
+Oui. Il me faut une attelle provisoire
+qui disparaîtra quand il grandira.
+
+508
+00:48:49,209 --> 00:48:52,167  X1:151 X2:565 Y1:460 Y2:527
+Dis-moi quand tu seras prête.
+Parce qu'il se débat, "Dr Quinn".
+
+509
+00:48:56,409 --> 00:48:58,843  X1:189 X2:527 Y1:460 Y2:527
+Quelle est la fréquence
+pour contacter le bateau ?
+
+510
+00:48:58,929 --> 00:49:01,523  X1:103 X2:613 Y1:500 Y2:527
+15-888. C'est le 3e en partant d'en haut.
+
+511
+00:49:03,209 --> 00:49:07,487  X1:123 X2:593 Y1:460 Y2:527
+Voilà, on est en l'air,
+et c'est l'endroit le plus sûr, je crois.
+
+512
+00:49:07,609 --> 00:49:11,318  X1:170 X2:546 Y1:460 Y2:527
+D'après Sarah,
+ces plantes nous camouflent.
+
+513
+00:49:11,449 --> 00:49:15,328  X1:149 X2:565 Y1:460 Y2:522
+Tu veux me rassurer.
+Je me souviens de tes histoires.
+
+514
+00:49:15,609 --> 00:49:20,637  X1:113 X2:604 Y1:460 Y2:522
+Non. ça n'a rien à voir.
+La situation est totalement différente.
+
+515
+00:49:29,649 --> 00:49:32,925  X1:157 X2:559 Y1:460 Y2:522
+Y a un moyen de communiquer
+avec les caravanes ?
+
+516
+00:49:36,489 --> 00:49:37,888  X1:177 X2:538 Y1:500 Y2:527
+Redonne-lui de la morphine.
+
+517
+00:49:38,169 --> 00:49:42,401  X1:145 X2:571 Y1:460 Y2:527
+On sait rien de son métabolisme.
+On risque l'arrêt respiratoire.
+
+518
+00:49:42,609 --> 00:49:45,362  X1:129 X2:586 Y1:500 Y2:527
+Viens mettre ta main ici. Appuie là.
+
+519
+00:49:46,249 --> 00:49:49,559  X1:147 X2:568 Y1:460 Y2:527
+Pas de réponse. Quelle surprise !
+Comment je descends ?
+
+520
+00:49:49,689 --> 00:49:51,759  X1:228 X2:488 Y1:500 Y2:522
+Mets cette ceinture.
+
+521
+00:49:51,889 --> 00:49:55,848  X1:107 X2:609 Y1:500 Y2:527
+Où tu vas, Papa ? Reste ici, s'il te plaît.
+
+522
+00:49:55,969 --> 00:49:59,484  X1:160 X2:555 Y1:460 Y2:527
+Serre cette corde très fort.
+Tu descendras plus lentement.
+
+523
+00:49:59,609 --> 00:50:02,203  X1:170 X2:545 Y1:460 Y2:527
+- Si tu la serres pas du tout...
+- J'ai compris.
+
+524
+00:50:02,369 --> 00:50:05,679  X1:264 X2:452 Y1:500 Y2:527
+Papa, reste ici.
+
+525
+00:50:05,809 --> 00:50:08,926  X1:158 X2:558 Y1:500 Y2:525
+Chérie, ma reine ? Ma déesse ?
+
+526
+00:50:09,329 --> 00:50:13,242  X1:228 X2:487 Y1:460 Y2:527
+- Ta muse ?
+- Voilà qui est parlé.
+
+527
+00:50:16,729 --> 00:50:19,607  X1:119 X2:595 Y1:500 Y2:527
+Je vais vite revenir. Tu as ma parole.
+
+528
+00:50:19,769 --> 00:50:21,600  X1:173 X2:540 Y1:500 Y2:527
+Mais tu tiens jamais parole !
+
+529
+00:50:28,329 --> 00:50:30,445  X1:132 X2:584 Y1:500 Y2:527
+Moi, j'aurais serré un peu plus fort.
+
+530
+00:50:30,809 --> 00:50:32,879  X1:223 X2:493 Y1:500 Y2:527
+Bon, j'ai presque fini.
+
+531
+00:50:33,009 --> 00:50:37,161  X1:079 X2:636 Y1:460 Y2:527
+J'ai besoin d'un adhésif,
+quelque chose de malléable que je puisse...
+
+532
+00:50:40,369 --> 00:50:42,166  X1:304 X2:409 Y1:500 Y2:522
+Crache !
+
+533
+00:50:44,249 --> 00:50:46,240  X1:234 X2:480 Y1:500 Y2:527
+Ton chewing-gum !
+
+534
+00:51:22,009 --> 00:51:24,682  X1:202 X2:514 Y1:460 Y2:527
+Prends l'amoxicilline
+et remplis une seringue.
+
+535
+00:51:24,809 --> 00:51:28,324  X1:188 X2:529 Y1:460 Y2:527
+Une piqûre d'antibiotiques
+et je vais le sortir de là.
+
+536
+00:51:33,369 --> 00:51:35,929  X1:126 X2:588 Y1:500 Y2:527
+Tu pourrais répondre au téléphone !
+
+537
+00:51:36,049 --> 00:51:39,325  X1:136 X2:579 Y1:460 Y2:527
+- Aide-moi à sortir ça.
+- Non, on vient juste de le soigner.
+
+538
+00:51:44,369 --> 00:51:46,121  X1:190 X2:526 Y1:500 Y2:522
+Maman est très en colère.
+
+539
+00:52:59,609 --> 00:53:03,443  X1:083 X2:633 Y1:460 Y2:522
+Ian, c'est pas un comportement de chasse.
+Ils cherchent.
+
+540
+00:53:04,449 --> 00:53:06,440  X1:156 X2:560 Y1:500 Y2:527
+Ils viennent chercher leur petit.
+
+541
+00:53:07,489 --> 00:53:09,127  X1:209 X2:507 Y1:500 Y2:527
+Il faut pas les décevoir.
+
+542
+00:53:11,609 --> 00:53:13,804  X1:172 X2:542 Y1:500 Y2:527
+Je prends sa tête, d'accord ?
+
+543
+00:53:14,249 --> 00:53:15,887  X1:189 X2:524 Y1:500 Y2:522
+Attention. Fais attention !
+
+544
+00:53:17,129 --> 00:53:19,085  X1:244 X2:471 Y1:500 Y2:527
+ça va. Je le tiens.
+
+545
+00:53:19,209 --> 00:53:21,200  X1:244 X2:472 Y1:500 Y2:522
+Muselière retirée.
+
+546
+00:53:59,609 --> 00:54:02,282  X1:181 X2:534 Y1:500 Y2:527
+Ils repartent dans la jungle.
+
+547
+00:54:03,409 --> 00:54:07,482  X1:116 X2:604 Y1:460 Y2:522
+- Je sais. Je vois. Comment va Kelly ?
+- Elle va bien. Elle est avec moi.
+
+548
+00:54:09,929 --> 00:54:13,239  X1:243 X2:473 Y1:460 Y2:527
+- Kelly, ça va ?
+- Oui, je vais bien.
+
+549
+00:54:13,369 --> 00:54:17,328  X1:136 X2:581 Y1:460 Y2:527
+Ecoute. Reste où tu es. Bouge pas.
+Je vais remonter. Compris ?
+
+550
+00:54:17,449 --> 00:54:18,802  X1:249 X2:466 Y1:500 Y2:527
+Oui, j'ai compris.
+
+551
+00:54:21,729 --> 00:54:25,517  X1:126 X2:590 Y1:460 Y2:527
+Personne m'écoute jamais. J'utilise
+des mots simples. J'ai pas d'accent.
+
+552
+00:54:25,649 --> 00:54:28,447  X1:128 X2:588 Y1:460 Y2:527
+- La ferme !
+- C'est bon pour ton bouquin, hein ?
+
+553
+00:54:29,249 --> 00:54:34,118  X1:101 X2:616 Y1:460 Y2:527
+Le débat sur l'instinct parental du T.Rex
+est maintenant dépassé.
+
+554
+00:54:40,609 --> 00:54:42,725  X1:147 X2:567 Y1:500 Y2:527
+Accrochez-vous. ça va faire mal.
+
+555
+00:55:00,769 --> 00:55:03,567  X1:148 X2:567 Y1:500 Y2:527
+Ils nous poussent vers la falaise.
+
+556
+00:55:12,689 --> 00:55:15,487  X1:237 X2:479 Y1:460 Y2:522
+- Une fois dehors...
+- Vers la forêt !
+
+557
+00:55:17,049 --> 00:55:19,040  X1:200 X2:515 Y1:500 Y2:522
+Ils vont nous massacrer.
+
+558
+00:55:25,049 --> 00:55:26,846  X1:246 X2:466 Y1:500 Y2:522
+Accrochez-vous !
+
+559
+00:56:05,489 --> 00:56:07,684  X1:250 X2:463 Y1:500 Y2:527
+Mon Dieu, pitié !
+
+560
+00:56:13,609 --> 00:56:15,281  X1:283 X2:432 Y1:500 Y2:527
+Bouge pas !
+
+561
+00:56:15,409 --> 00:56:18,640  X1:087 X2:628 Y1:500 Y2:527
+Je descends te chercher. Reste tranquille.
+
+562
+00:56:19,569 --> 00:56:21,048  X1:259 X2:455 Y1:500 Y2:525
+J'arrive, Sarah.
+
+563
+00:56:29,129 --> 00:56:32,007  X1:196 X2:519 Y1:500 Y2:527
+Le téléphone, attrape-le !
+
+564
+00:57:03,889 --> 00:57:05,925  X1:186 X2:530 Y1:500 Y2:525
+Donne-moi la main, chérie.
+
+565
+00:57:11,249 --> 00:57:12,841  X1:286 X2:426 Y1:500 Y2:522
+Attention !
+
+566
+00:57:24,689 --> 00:57:26,008  X1:209 X2:507 Y1:500 Y2:527
+Ton sac porte-bonheur.
+
+567
+00:57:32,089 --> 00:57:33,920  X1:212 X2:502 Y1:500 Y2:522
+Je la tiens. Je la tiens.
+
+568
+00:58:03,769 --> 00:58:06,761  X1:260 X2:455 Y1:460 Y2:522
+- Oui, on est là.
+- Tenez bon !
+
+569
+00:58:07,609 --> 00:58:09,406  X1:299 X2:413 Y1:500 Y2:522
+J'arrive !
+
+570
+00:58:14,329 --> 00:58:17,162  X1:130 X2:585 Y1:500 Y2:527
+J'arrive. Qu'est-ce qui s'est passé ?
+
+571
+00:58:17,569 --> 00:58:21,721  X1:159 X2:556 Y1:460 Y2:522
+- Kelly. Qu'as-tu fait de Kelly ?
+- Elle est dans le cache en l'air.
+
+572
+00:58:22,809 --> 00:58:25,562  X1:131 X2:585 Y1:460 Y2:522
+- Qui est blessé ? Que vous faut-il ?
+- Une corde.
+
+573
+00:58:25,689 --> 00:58:27,168  X1:197 X2:519 Y1:500 Y2:522
+Une corde. Autre chose ?
+
+574
+00:58:27,329 --> 00:58:29,445  X1:104 X2:610 Y1:460 Y2:527
+Oui,
+3 doubles cheeseburgers avec ketchup.
+
+575
+00:58:29,569 --> 00:58:32,686  X1:183 X2:533 Y1:460 Y2:527
+- Sans oignon, le mien.
+- Et une tarte aux pommes.
+
+576
+00:59:09,009 --> 00:59:11,842  X1:288 X2:427 Y1:500 Y2:522
+Tenez bon.
+
+577
+00:59:13,489 --> 00:59:15,559  X1:201 X2:516 Y1:500 Y2:522
+Lance-la. Lance la corde.
+
+578
+00:59:17,489 --> 00:59:20,367  X1:262 X2:454 Y1:460 Y2:527
+- Eddie, ça va ?
+- Oui. ça vient.
+
+579
+00:59:20,489 --> 00:59:22,798  X1:102 X2:612 Y1:500 Y2:522
+On a besoin de la corde. Lance-la. Vite !
+
+580
+00:59:23,169 --> 00:59:25,603  X1:137 X2:578 Y1:460 Y2:527
+Bien visé.
+Tu l'as attachée à quelque chose ?
+
+581
+00:59:29,249 --> 00:59:30,443  X1:246 X2:468 Y1:500 Y2:527
+On glisse, Eddie !
+
+582
+01:01:57,889 --> 01:01:59,288  X1:204 X2:510 Y1:500 Y2:522
+Accélère ton ascension.
+
+583
+01:04:15,769 --> 01:04:18,363  X1:156 X2:561 Y1:460 Y2:522
+Nos moyens de communication
+ont été détruits.
+
+584
+01:04:18,489 --> 01:04:22,118  X1:147 X2:569 Y1:460 Y2:522
+Si votre radio et votre téléphone
+étaient dans cette caravane...
+
+585
+01:04:22,249 --> 01:04:23,238  X1:278 X2:437 Y1:500 Y2:527
+Ils y étaient.
+
+586
+01:04:23,369 --> 01:04:27,044  X1:148 X2:567 Y1:460 Y2:527
+Alors on est coincés ici.
+Coincés ensemble, grâce à vous.
+
+587
+01:04:27,209 --> 01:04:29,677  X1:193 X2:522 Y1:460 Y2:527
+On est venus observer,
+et vous, exploiter le filon.
+
+588
+01:04:30,169 --> 01:04:32,160  X1:166 X2:549 Y1:460 Y2:522
+- Au moins, on était préparés.
+- Comment?
+
+589
+01:04:32,249 --> 01:04:36,720  X1:121 X2:595 Y1:460 Y2:522
+Cinq ans de labeur ne suffisaient pas
+à l'autre île.
+
+590
+01:04:37,049 --> 01:04:39,244  X1:206 X2:510 Y1:460 Y2:527
+24 cow-boys Marlboro
+pourraient changer ça ?
+
+591
+01:04:39,329 --> 01:04:42,082  X1:164 X2:552 Y1:460 Y2:522
+C'est une mentalité de pilleur.
+Vous n'avez aucun droit.
+
+592
+01:04:42,369 --> 01:04:44,929  X1:168 X2:550 Y1:460 Y2:522
+Une espèce disparue qui revit
+n'a aucun droit.
+
+593
+01:04:45,049 --> 01:04:48,803  X1:152 X2:565 Y1:460 Y2:522
+Elle existe parce qu'on l'a créée.
+On a le brevet. Elle est à nous.
+
+594
+01:04:49,449 --> 01:04:51,963  X1:188 X2:527 Y1:460 Y2:527
+- Tu cherches des ennuis ?
+- Et je t'ai trouvé ?
+
+595
+01:04:57,009 --> 01:05:00,843  X1:162 X2:553 Y1:460 Y2:527
+Je te connais. Tu fais partie
+des "Terre d'Abord", c'est ça ?
+
+596
+01:05:01,329 --> 01:05:03,206  X1:120 X2:596 Y1:500 Y2:527
+"Terre d'abord", qu'est-ce que c'est ?
+
+597
+01:05:03,289 --> 01:05:06,440  X1:193 X2:521 Y1:460 Y2:527
+- Des écologistes.
+- ça suffit ! Ecoutez-moi !
+
+598
+01:05:06,569 --> 01:05:10,244  X1:166 X2:551 Y1:460 Y2:527
+En prenant le bébé chez nous,
+on a changé leur territoire.
+
+599
+01:05:10,369 --> 01:05:11,848  X1:288 X2:429 Y1:500 Y2:527
+Leur quoi ?
+
+600
+01:05:12,289 --> 01:05:15,918  X1:173 X2:543 Y1:460 Y2:527
+Ils attaquent les caravanes
+pour défendre leur territoire.
+
+601
+01:05:16,249 --> 01:05:17,648  X1:241 X2:473 Y1:500 Y2:527
+Il faut partir d'ici !
+
+602
+01:05:17,889 --> 01:05:22,121  X1:079 X2:637 Y1:460 Y2:527
+Partir avec quoi ? Le bateau, leurs hélicos ?
+On peut pas les joindre.
+
+603
+01:05:22,849 --> 01:05:27,286  X1:168 X2:547 Y1:460 Y2:527
+Attendez. Il y a un centre
+de communication, près d'ici.
+
+604
+01:05:27,409 --> 01:05:30,128  X1:144 X2:574 Y1:460 Y2:527
+Hammond avait tout fait installer
+en énergie géothermale.
+
+605
+01:05:30,209 --> 01:05:32,040  X1:118 X2:598 Y1:500 Y2:527
+Il devait jamais être réapprovisionné.
+
+606
+01:05:32,129 --> 01:05:35,007  X1:154 X2:561 Y1:460 Y2:527
+Si on peut l'atteindre,
+on pourra contacter les hélicos.
+
+607
+01:05:35,129 --> 01:05:38,280  X1:147 X2:569 Y1:460 Y2:527
+- La fréquence est quelque part ?
+- Oui, dans ce bouquin. C'est...
+
+608
+01:05:38,369 --> 01:05:40,883  X1:171 X2:544 Y1:460 Y2:527
+- On s'occupe de ça.
+- Bon, on est loin du village ?
+
+609
+01:05:40,969 --> 01:05:43,039  X1:138 X2:579 Y1:500 Y2:527
+Un jour de marche, peut-être plus.
+
+610
+01:05:46,169 --> 01:05:49,081  X1:188 X2:528 Y1:460 Y2:527
+- C'est pas ça le problème.
+- C'est quoi ?
+
+611
+01:05:49,729 --> 01:05:51,367  X1:202 X2:513 Y1:500 Y2:527
+C'est quoi le problème ?
+
+612
+01:05:52,089 --> 01:05:53,442  X1:237 X2:480 Y1:500 Y2:527
+Les vélociraptores.
+
+613
+01:05:58,609 --> 01:06:01,965  X1:137 X2:578 Y1:460 Y2:522
+Nos photos montrent les sites
+de nidification à l'intérieur de l'île.
+
+614
+01:06:02,089 --> 01:06:03,841  X1:181 X2:534 Y1:500 Y2:522
+On devait rester sur la rive.
+
+615
+01:06:04,089 --> 01:06:07,240  X1:159 X2:556 Y1:460 Y2:527
+- Attendez, c'est quoi ce vélo...
+- Vélociraptore.
+
+616
+01:06:07,329 --> 01:06:08,921  X1:154 X2:562 Y1:500 Y2:522
+Un carnivore. Chasse en meute.
+
+617
+01:06:10,089 --> 01:06:11,966  X1:135 X2:582 Y1:500 Y2:527
+Environ 2 m de haut, long museau,
+
+618
+01:06:12,169 --> 01:06:15,957  X1:132 X2:583 Y1:460 Y2:527
+vision binoculaire, avant-bras forts
+et habiles et griffes meurtrières.
+
+619
+01:06:16,249 --> 01:06:20,481  X1:097 X2:618 Y1:460 Y2:527
+Les T.Rex vont nous chasser aussi,
+s'ils sentent une menace pour leur petit.
+
+620
+01:06:20,689 --> 01:06:23,647  X1:099 X2:617 Y1:500 Y2:527
+Non, pas si nous quittons leur territoire.
+
+621
+01:06:23,849 --> 01:06:28,206  X1:095 X2:622 Y1:460 Y2:527
+Pariez pas là-dessus.
+Le T.Rex a la plus grande cavité olfactive
+
+622
+01:06:31,209 --> 01:06:35,600  X1:176 X2:539 Y1:460 Y2:527
+Oui, le vautour à tête rouge.
+Il peut renifler à 15 km.
+
+623
+01:06:35,729 --> 01:06:40,007  X1:082 X2:634 Y1:460 Y2:527
+Tout ça est passionnant,
+mais je suggère qu'on parte vers le village.
+
+624
+01:06:40,169 --> 01:06:42,046  X1:144 X2:571 Y1:500 Y2:527
+On pourrait revenir vers le lagon.
+
+625
+01:06:42,169 --> 01:06:44,205  X1:118 X2:599 Y1:500 Y2:527
+Et faire quoi ? Attendre à découvert ?
+
+626
+01:06:44,449 --> 01:06:48,488  X1:101 X2:614 Y1:460 Y2:527
+A côté d'un point d'eau polluée,
+en espérant que votre capitaine arrive ?
+
+627
+01:06:48,609 --> 01:06:49,803  X1:262 X2:451 Y1:500 Y2:527
+Il viendra pas !
+
+628
+01:06:49,969 --> 01:06:53,928  X1:115 X2:600 Y1:460 Y2:527
+Allons au village. On pourra y trouver
+un abri et appeler des secours.
+
+629
+01:06:54,209 --> 01:06:56,723  X1:175 X2:540 Y1:460 Y2:527
+Le T.Rex est nourri,
+il chassera pas pour bouffer.
+
+630
+01:06:56,849 --> 01:06:58,567  X1:165 X2:551 Y1:500 Y2:527
+Nourri ? Vous parlez d'Eddie ?
+
+631
+01:06:58,689 --> 01:07:01,840  X1:133 X2:582 Y1:460 Y2:522
+Montrez un peu de respect !
+Il nous a sauvés en donnant sa vie.
+
+632
+01:07:01,969 --> 01:07:05,882  X1:120 X2:596 Y1:460 Y2:527
+Ses ennuis sont finis. Les prédateurs
+ne chassent pas s'ils n'ont pas faim.
+
+633
+01:07:06,009 --> 01:07:07,237  X1:225 X2:491 Y1:500 Y2:522
+Seul l'homme le fait.
+
+634
+01:07:07,329 --> 01:07:10,765  X1:113 X2:601 Y1:460 Y2:522
+Vous me brisez le coeur ! Allez !
+Mettons ce festin ambulant en route !
+
+635
+01:07:28,169 --> 01:07:30,160  X1:219 X2:498 Y1:500 Y2:527
+Excuse-moi, cow-boy.
+
+636
+01:07:31,009 --> 01:07:33,318  X1:186 X2:530 Y1:500 Y2:527
+Tu veux un chewing-gum ?
+
+637
+01:07:34,649 --> 01:07:38,244  X1:154 X2:560 Y1:460 Y2:527
+Tu as l'air d'avoir du bon sens.
+Alors qu'est-ce que tu fous ici ?
+
+638
+01:07:39,929 --> 01:07:43,046  X1:151 X2:564 Y1:460 Y2:527
+Sur cette île vit
+le plus grand prédateur qui soit.
+
+639
+01:07:45,969 --> 01:07:49,041  X1:196 X2:519 Y1:460 Y2:527
+- Tu vas le faire avec ça ?
+- S'il ne se rend pas, oui.
+
+640
+01:07:49,169 --> 01:07:51,160  X1:167 X2:547 Y1:500 Y2:527
+Je peux le voir une seconde ?
+
+641
+01:07:52,729 --> 01:07:56,199  X1:137 X2:579 Y1:460 Y2:527
+Cet animal existe pour la 1ère fois
+depuis 10 millions d'années.
+
+642
+01:07:56,329 --> 01:07:58,365  X1:154 X2:561 Y1:500 Y2:527
+Et ce que tu veux, c'est le tuer !
+
+643
+01:07:58,929 --> 01:08:01,887  X1:116 X2:600 Y1:460 Y2:522
+Tu te rappelles ce type, il y a 20 ans ?
+J'ai oublié son nom.
+
+644
+01:08:01,969 --> 01:08:05,245  X1:086 X2:631 Y1:460 Y2:527
+Il avait escaladé l'Everest sans oxygène et
+y revenait presque mort.
+
+645
+01:08:05,329 --> 01:08:08,207  X1:158 X2:558 Y1:460 Y2:527
+On lui a demandé, "Pourquoi
+être allé là-haut pour mourir ?"
+
+646
+01:08:08,329 --> 01:08:10,923  X1:202 X2:513 Y1:460 Y2:527
+Il a dit, "Pas du tout.
+J'y suis allé pour vivre".
+
+647
+01:08:15,969 --> 01:08:19,564  X1:081 X2:634 Y1:460 Y2:527
+J'ai pas encore pu vous dire bonne chance.
+Vos débuts sont prometteurs !
+
+648
+01:08:19,689 --> 01:08:22,681  X1:143 X2:572 Y1:460 Y2:527
+Mon équipe est intacte.
+Je regrette la perte de votre ami.
+
+649
+01:08:22,809 --> 01:08:27,007  X1:097 X2:619 Y1:460 Y2:527
+C'est facile de critiquer quelqu'un qui
+génère une idée, qui assume les risques.
+
+650
+01:08:27,129 --> 01:08:29,848  X1:210 X2:508 Y1:460 Y2:522
+En singeant Hammond,
+vous semblez racoler.
+
+651
+01:08:29,969 --> 01:08:33,325  X1:149 X2:567 Y1:460 Y2:527
+C'est pas votre faute. On dit que
+le talent saute une génération.
+
+652
+01:08:33,449 --> 01:08:36,168  X1:198 X2:518 Y1:460 Y2:527
+Je pense que vos gosses
+seront des petits futés.
+
+653
+01:08:36,289 --> 01:08:39,281  X1:175 X2:543 Y1:460 Y2:527
+Hammond prenait ses désirs
+pour des réalités. Moi pas.
+
+654
+01:08:39,489 --> 01:08:41,400  X1:144 X2:573 Y1:500 Y2:522
+Sortir des dinosaures de cette île
+
+655
+01:08:41,529 --> 01:08:44,965  X1:109 X2:607 Y1:460 Y2:522
+est la pire idée dans la longue et triste
+histoire des mauvaises idées.
+
+656
+01:08:45,089 --> 01:08:48,081  X1:096 X2:618 Y1:500 Y2:527
+Je veux être là quand vous l'apprendrez.
+
+657
+01:09:20,769 --> 01:09:23,237  X1:201 X2:514 Y1:500 Y2:527
+On fait une pause. 5 mn.
+
+658
+01:09:34,169 --> 01:09:36,637  X1:230 X2:485 Y1:500 Y2:522
+Vous êtes blessée ?
+
+659
+01:09:37,929 --> 01:09:42,320  X1:082 X2:635 Y1:460 Y2:527
+Non, ça vient du bébé. J'ai soigné sa patte.
+ça sèche pas avec l'humidité.
+
+660
+01:09:42,449 --> 01:09:44,440  X1:241 X2:472 Y1:500 Y2:522
+Roland ? Un mot !
+
+661
+01:09:46,089 --> 01:09:49,240  X1:179 X2:535 Y1:500 Y2:522
+J'aimerais savoir où on est.
+
+662
+01:09:53,329 --> 01:09:56,321  X1:079 X2:637 Y1:500 Y2:527
+On fait ami-ami avec le Capitaine Crochet ?
+
+663
+01:10:09,889 --> 01:10:12,323  X1:106 X2:610 Y1:500 Y2:527
+Carter, je vais aux toilettes des dames.
+
+664
+01:10:12,449 --> 01:10:15,168  X1:139 X2:576 Y1:500 Y2:525
+Alors, tu m'attends ici. D'accord ?
+
+665
+01:11:03,009 --> 01:11:05,682  X1:097 X2:619 Y1:500 Y2:527
+C'est très impoli de surprendre les gens.
+
+666
+01:11:24,969 --> 01:11:28,678  X1:237 X2:478 Y1:500 Y2:522
+Carter ? Où es-tu ?
+
+667
+01:11:32,649 --> 01:11:34,560  X1:169 X2:546 Y1:500 Y2:525
+Je tourne en rond, là-dedans.
+
+668
+01:11:39,209 --> 01:11:42,201  X1:139 X2:575 Y1:500 Y2:525
+Carter, fais-moi entendre ta voix !
+
+669
+01:13:38,849 --> 01:13:41,841  X1:173 X2:544 Y1:500 Y2:527
+La pause est finie. On repart.
+
+670
+01:13:48,809 --> 01:13:50,800  X1:292 X2:425 Y1:500 Y2:522
+Porte-moi.
+
+671
+01:14:20,289 --> 01:14:22,086  X1:252 X2:463 Y1:500 Y2:527
+Foutez le camp !
+
+672
+01:15:19,929 --> 01:15:23,478  X1:164 X2:551 Y1:460 Y2:527
+- Quand l'as-tu vu en dernier ?
+- Il y a 10 ou 15 mn.
+
+673
+01:15:25,489 --> 01:15:29,004  X1:156 X2:560 Y1:460 Y2:525
+Viens avec moi. Et toi.
+S'il est vivant, on va le trouver.
+
+674
+01:15:29,129 --> 01:15:32,519  X1:103 X2:613 Y1:460 Y2:525
+Les autres continuent.
+Dans 10 mn, vous arriverez au sommet.
+
+675
+01:15:32,649 --> 01:15:34,446  X1:214 X2:501 Y1:500 Y2:527
+Vous nous y attendez.
+
+676
+01:15:37,049 --> 01:15:39,517  X1:169 X2:546 Y1:500 Y2:527
+On ne dit rien à la petite fille.
+
+677
+01:15:45,969 --> 01:15:48,039  X1:295 X2:419 Y1:500 Y2:522
+En route !
+
+678
+01:15:49,769 --> 01:15:51,999  X1:207 X2:507 Y1:500 Y2:522
+Tout le monde debout !
+
+679
+01:15:53,249 --> 01:15:55,399  X1:214 X2:501 Y1:500 Y2:525
+Allez. Debout, debout.
+
+680
+01:15:56,329 --> 01:15:59,321  X1:140 X2:572 Y1:500 Y2:527
+Allez, les mecs. On lève le camp !
+
+681
+01:16:48,809 --> 01:16:50,800  X1:227 X2:488 Y1:500 Y2:522
+Vous l'avez trouvé ?
+
+682
+01:16:54,649 --> 01:16:57,925  X1:095 X2:620 Y1:460 Y2:522
+Juste les morceaux qu'ils ont pas aimés.
+Carte !
+
+683
+01:17:00,529 --> 01:17:04,488  X1:176 X2:542 Y1:460 Y2:527
+Le centre de communication
+se trouve juste ici.
+
+684
+01:17:04,729 --> 01:17:07,448  X1:100 X2:615 Y1:500 Y2:525
+A environ 2,5 km du bas de ces falaises.
+
+685
+01:17:07,569 --> 01:17:10,129  X1:185 X2:530 Y1:460 Y2:522
+- Comment vous le savez ?
+- Je l'ai vu.
+
+686
+01:17:10,249 --> 01:17:13,047  X1:182 X2:535 Y1:500 Y2:527
+La descente sera pas facile.
+
+687
+01:17:13,489 --> 01:17:16,481  X1:110 X2:606 Y1:500 Y2:522
+On les laisse dormir encore une heure.
+
+688
+01:17:17,329 --> 01:17:19,320  X1:227 X2:490 Y1:500 Y2:525
+Ensuite, on se lance.
+
+689
+01:19:22,809 --> 01:19:24,527  X1:179 X2:537 Y1:500 Y2:527
+Qu'est-ce que c'est que ça ?
+
+690
+01:19:58,569 --> 01:20:02,278  X1:150 X2:563 Y1:460 Y2:527
+Restez à terre ! Ne bougez pas !
+Ne courez pas !
+
+691
+01:20:10,209 --> 01:20:12,677  X1:136 X2:579 Y1:500 Y2:527
+Ne regardez pas ! Courez, courez !
+
+692
+01:20:26,769 --> 01:20:27,645  X1:305 X2:409 Y1:500 Y2:522
+Salaud !
+
+693
+01:22:02,089 --> 01:22:04,557  X1:185 X2:530 Y1:500 Y2:527
+Fous le camp, fils de pute !
+
+694
+01:22:08,449 --> 01:22:10,246  X1:183 X2:530 Y1:500 Y2:527
+Il peut pas nous atteindre !
+
+695
+01:22:21,489 --> 01:22:24,083  X1:109 X2:605 Y1:500 Y2:527
+Un serpent ! Au secours ! Un serpent !
+
+696
+01:22:40,289 --> 01:22:41,768  X1:291 X2:422 Y1:500 Y2:522
+Il revient !
+
+697
+01:22:45,489 --> 01:22:46,968  X1:319 X2:396 Y1:500 Y2:527
+Papa !
+
+698
+01:22:48,329 --> 01:22:49,364  X1:318 X2:398 Y1:500 Y2:522
+Merci.
+
+699
+01:23:01,969 --> 01:23:04,767  X1:128 X2:587 Y1:500 Y2:527
+N'allez pas dans les hautes herbes !
+
+700
+01:23:09,649 --> 01:23:11,844  X1:175 X2:539 Y1:500 Y2:522
+Pas dans les hautes herbes !
+
+701
+01:24:12,649 --> 01:24:14,879  X1:216 X2:499 Y1:460 Y2:527
+- Regardez !
+- Qu'est-ce que c'est ?
+
+702
+01:24:14,969 --> 01:24:16,766  X1:156 X2:559 Y1:500 Y2:527
+Je crois que c'est le sac d'Ajay.
+
+703
+01:24:32,129 --> 01:24:34,438  X1:119 X2:596 Y1:500 Y2:527
+Courez... aussi vite que vous pouvez.
+
+704
+01:25:07,449 --> 01:25:10,168  X1:152 X2:562 Y1:500 Y2:522
+Je vois une construction là-bas.
+
+705
+01:25:10,289 --> 01:25:13,520  X1:174 X2:541 Y1:460 Y2:522
+Ils disent que c'est
+le centre de communication.
+
+706
+01:25:13,649 --> 01:25:16,959  X1:145 X2:571 Y1:460 Y2:527
+Alors, je vais y entrer
+et lancer l'appel radio, d'accord ?
+
+707
+01:25:17,049 --> 01:25:18,687  X1:254 X2:462 Y1:460 Y2:522
+- Rejoignez-moi.
+- Attends-nous.
+
+708
+01:25:18,769 --> 01:25:21,078  X1:183 X2:534 Y1:460 Y2:522
+Ceux qui veulent me suivre
+sont les bienvenus !
+
+709
+01:25:21,169 --> 01:25:23,478  X1:213 X2:502 Y1:460 Y2:527
+- D'accord !
+- Non ! lan, repose-toi.
+
+710
+01:27:28,409 --> 01:27:32,243  X1:113 X2:602 Y1:500 Y2:522
+Ici Chef Récolte lnGen à Base Récolte.
+
+711
+01:27:32,369 --> 01:27:37,284  X1:105 X2:610 Y1:460 Y2:527
+Je répète, j'appelle pour Chef Récolte
+lnGen, je demande Base Récolte lnGen.
+
+712
+01:27:37,569 --> 01:27:39,082  X1:172 X2:543 Y1:500 Y2:527
+Je vous reçois, ChefRécolte.
+
+713
+01:27:39,209 --> 01:27:43,487  X1:106 X2:610 Y1:460 Y2:527
+L'opération a subi de lourdes pertes.
+Les survivants sont en danger de mort.
+
+714
+01:27:43,609 --> 01:27:48,000  X1:099 X2:617 Y1:460 Y2:522
+Envoyez-nous des secours tout de suite.
+Nos coordonnées sont...
+
+715
+01:27:48,529 --> 01:27:52,408  X1:094 X2:623 Y1:500 Y2:525
+Nos coordonnées sont 9 58' nord, 85 ...
+
+716
+01:29:23,289 --> 01:29:25,484  X1:288 X2:426 Y1:500 Y2:525
+Ici, ici, ici !
+
+717
+01:29:25,769 --> 01:29:26,997  X1:220 X2:493 Y1:500 Y2:522
+Mettez-vous à l'abri !
+
+718
+01:31:27,529 --> 01:31:28,644  X1:312 X2:401 Y1:500 Y2:527
+Vas-y !
+
+719
+01:31:28,769 --> 01:31:31,158  X1:168 X2:547 Y1:460 Y2:522
+- Où je vais, une fois dehors ?
+- Je te suis...
+
+720
+01:31:57,449 --> 01:31:59,041  X1:286 X2:426 Y1:500 Y2:522
+Attention !
+
+721
+01:32:02,289 --> 01:32:03,438  X1:301 X2:413 Y1:500 Y2:522
+Là-haut !
+
+722
+01:32:27,649 --> 01:32:29,446  X1:308 X2:406 Y1:500 Y2:525
+Eh, toi !
+
+723
+01:32:48,289 --> 01:32:50,200  X1:133 X2:584 Y1:500 Y2:527
+Et on t'a virée de l'équipe de gym ?
+
+724
+01:32:50,489 --> 01:32:53,481  X1:271 X2:442 Y1:500 Y2:522
+Sortez de là !
+
+725
+01:34:10,809 --> 01:34:12,606  X1:242 X2:471 Y1:500 Y2:525
+Venez vite, allez !
+
+726
+01:34:39,089 --> 01:34:42,764  X1:143 X2:573 Y1:460 Y2:522
+- Et les autres ? Il y en a d'autres.
+- Un autre hélico arrive.
+
+727
+01:35:00,569 --> 01:35:03,037  X1:172 X2:544 Y1:500 Y2:527
+ça va. C'est fini, maintenant.
+
+728
+01:35:04,449 --> 01:35:07,919  X1:147 X2:568 Y1:460 Y2:527
+Voilà un souvenir
+qu'ils emporteront pas avec eux.
+
+729
+01:35:15,689 --> 01:35:20,444  X1:147 X2:568 Y1:460 Y2:527
+Trouvez le petit tyrannosaure.
+Je veux l'emmener dans mon jet
+
+730
+01:35:20,849 --> 01:35:24,239  X1:097 X2:618 Y1:500 Y2:527
+à l'infirmerie du complexe de San Diego.
+
+731
+01:35:24,889 --> 01:35:29,360  X1:118 X2:597 Y1:460 Y2:527
+Vite ! J'aimerais être dans l'avion
+avant que la mère sache qu'on est là.
+
+732
+01:35:35,849 --> 01:35:39,637  X1:130 X2:585 Y1:460 Y2:527
+Vous avez sauvé lnGen. On a perdu
+tout ce qu'on venait chercher ici.
+
+733
+01:35:39,889 --> 01:35:43,165  X1:177 X2:539 Y1:460 Y2:522
+Mais cet animal et son petit
+vont nous éviter la faillite.
+
+734
+01:35:43,289 --> 01:35:45,280  X1:276 X2:441 Y1:500 Y2:522
+Félicitations.
+
+735
+01:35:45,529 --> 01:35:49,044  X1:123 X2:590 Y1:500 Y2:527
+Vous avez votre trophée ! Un mâle !
+
+736
+01:35:49,169 --> 01:35:53,959  X1:114 X2:602 Y1:460 Y2:527
+Mais il est vivant ! Et toute la planète
+défilera pour l'admirer.
+
+737
+01:35:55,409 --> 01:35:58,879  X1:209 X2:507 Y1:460 Y2:527
+- Qu'est-ce qui va pas ?
+- Il y est resté. Ajay.
+
+738
+01:36:00,329 --> 01:36:01,478  X1:262 X2:452 Y1:500 Y2:522
+Je suis désolé.
+
+739
+01:36:02,489 --> 01:36:04,286  X1:243 X2:471 Y1:500 Y2:525
+Vraiment, désolé.
+
+740
+01:36:06,089 --> 01:36:07,124  X1:280 X2:435 Y1:500 Y2:525
+Vous savez,
+
+741
+01:36:07,809 --> 01:36:09,959  X1:105 X2:608 Y1:500 Y2:527
+j'oublie jamais les gens qui m'ont aidé.
+
+742
+01:36:10,089 --> 01:36:12,683  X1:215 X2:501 Y1:460 Y2:527
+Il y a un job pour vous
+au Parc de San Diego.
+
+743
+01:36:12,809 --> 01:36:13,924  X1:285 X2:432 Y1:500 Y2:525
+Non, merci.
+
+744
+01:36:16,049 --> 01:36:18,722  X1:190 X2:526 Y1:460 Y2:527
+J'ai passé assez de temps
+en compagnie de la mort.
+
+745
+01:37:31,929 --> 01:37:34,762  X1:079 X2:636 Y1:500 Y2:527
+Il y a 15 ans, John Hammond a fait un rêve.
+
+746
+01:37:34,849 --> 01:37:37,317  X1:164 X2:551 Y1:460 Y2:527
+Comme John lui-même,
+le rêve était grand, démesuré.
+
+747
+01:37:37,409 --> 01:37:40,481  X1:117 X2:598 Y1:500 Y2:522
+Il était audacieux. Il était irréalisable.
+
+748
+01:37:40,609 --> 01:37:42,600  X1:205 X2:510 Y1:500 Y2:522
+Il était... voué à l'échec.
+
+749
+01:37:43,049 --> 01:37:48,203  X1:082 X2:635 Y1:460 Y2:527
+Dans une 1/2 h, le rêve de John Hammond,
+ré-imaginé, va se réaliser.
+
+750
+01:37:48,929 --> 01:37:52,478  X1:123 X2:592 Y1:460 Y2:522
+Pour 1/100e du prix d'un parc
+construit à des milliers de km d'ici...
+
+751
+01:37:53,689 --> 01:37:56,362  X1:165 X2:550 Y1:460 Y2:527
+- C'est la conférence Ludlow ?
+- Propriété privée !
+
+752
+01:37:56,489 --> 01:37:59,049  X1:153 X2:561 Y1:460 Y2:522
+- On est invités !
+- Remontez dans votre voiture !
+
+753
+01:38:00,489 --> 01:38:02,605  X1:087 X2:629 Y1:500 Y2:522
+On a les résultats des tests de M. Ludlow.
+
+754
+01:38:02,729 --> 01:38:04,287  X1:180 X2:535 Y1:500 Y2:527
+Il y a du bon et du mauvais.
+
+755
+01:38:04,689 --> 01:38:07,647  X1:112 X2:605 Y1:460 Y2:527
+Ce soir,
+on baptise Jurassic Park de San Diego
+
+756
+01:38:07,769 --> 01:38:11,205  X1:150 X2:565 Y1:460 Y2:522
+avec une méga-attraction qui va
+écraser en nombre de visiteurs
+
+757
+01:38:11,449 --> 01:38:13,326  X1:195 X2:519 Y1:500 Y2:527
+tous les parcs du monde.
+
+758
+01:38:16,649 --> 01:38:21,723  X1:094 X2:622 Y1:460 Y2:527
+Merci à vous d'avoir été assez intrépides
+pour venir de si bon matin.
+
+759
+01:38:22,129 --> 01:38:25,007  X1:236 X2:478 Y1:460 Y2:522
+- Le bateau arrive !
+- Il est en avance ?
+
+760
+01:38:25,129 --> 01:38:27,438  X1:186 X2:529 Y1:500 Y2:522
+Il est... Vous devriez venir.
+
+761
+01:38:29,329 --> 01:38:31,320  X1:234 X2:480 Y1:500 Y2:527
+C'est passionnant !
+
+762
+01:38:32,689 --> 01:38:34,919  X1:200 X2:516 Y1:460 Y2:522
+- Vous voyez ce couple ?
+- Venez.
+
+763
+01:38:35,049 --> 01:38:37,165  X1:239 X2:476 Y1:500 Y2:522
+Allez les chercher.
+
+764
+01:38:37,689 --> 01:38:39,168  X1:294 X2:421 Y1:500 Y2:522
+Je vérifie.
+
+765
+01:38:43,089 --> 01:38:47,162  X1:152 X2:565 Y1:460 Y2:522
+C'est le signal de leur émetteur,
+Venture 58-88.
+
+766
+01:38:47,289 --> 01:38:50,759  X1:198 X2:518 Y1:460 Y2:527
+- Je peux pas les joindre.
+- Essayez encore.
+
+767
+01:38:51,169 --> 01:38:55,959  X1:084 X2:630 Y1:460 Y2:522
+Capitaine S.S. Venture. Ici Officier
+de Port lnGen. Vous me recevez ? A vous !
+
+768
+01:38:57,769 --> 01:39:02,638  X1:092 X2:622 Y1:460 Y2:527
+Capitaine S.S. Venture, vous approchez
+de la digue à pleine vitesse. Ralentissez !
+
+769
+01:39:17,289 --> 01:39:19,519  X1:088 X2:628 Y1:500 Y2:525
+S.S. Venture, ralentissez immédiatement.
+
+770
+01:39:24,569 --> 01:39:27,037  X1:111 X2:604 Y1:500 Y2:527
+Qu'est-ce que tout le monde regarde ?
+
+771
+01:39:30,169 --> 01:39:32,080  X1:173 X2:544 Y1:500 Y2:522
+Fallait rester dans la voiture.
+
+772
+01:40:22,969 --> 01:40:26,245  X1:159 X2:556 Y1:460 Y2:527
+- ça va, M. Ludlow ?
+- Je sais pas. De quoi j'ai l'air ?
+
+773
+01:40:58,529 --> 01:41:00,326  X1:235 X2:480 Y1:500 Y2:527
+Où est l'équipage ?
+
+774
+01:41:01,129 --> 01:41:02,164  X1:258 X2:459 Y1:500 Y2:527
+Un peu partout.
+
+775
+01:41:49,929 --> 01:41:52,887  X1:193 X2:523 Y1:460 Y2:527
+Allez voir dans la soute.
+Il y a peut-être quelqu'un.
+
+776
+01:41:52,969 --> 01:41:55,324  X1:131 X2:583 Y1:500 Y2:522
+Tout le monde descend du bateau !
+
+777
+01:42:36,769 --> 01:42:38,487  X1:109 X2:607 Y1:500 Y2:522
+Maintenant vous êtes John Hammond.
+
+778
+01:43:07,729 --> 01:43:09,401  X1:189 X2:526 Y1:500 Y2:527
+Vous l'avez pas endormi ?
+
+779
+01:43:09,489 --> 01:43:12,561  X1:158 X2:559 Y1:460 Y2:527
+Si. Roland lui a filé 2 fléchettes
+de Carfentanil. Plus de 10 mg.
+
+780
+01:43:12,649 --> 01:43:15,209  X1:157 X2:559 Y1:460 Y2:527
+- Il aurait dû être dans le coma.
+- Il respirait plus.
+
+781
+01:43:15,289 --> 01:43:18,122  X1:166 X2:550 Y1:460 Y2:527
+On lui a donné du Naltrexone,
+mais on savait pas le dosage.
+
+782
+01:43:18,249 --> 01:43:20,809  X1:181 X2:535 Y1:460 Y2:527
+Vous administrez
+un antagoniste comme ça ?
+
+783
+01:43:20,929 --> 01:43:24,399  X1:180 X2:535 Y1:460 Y2:522
+Il est en état narcoleptique.
+Une vraie locomotive !
+
+784
+01:43:24,569 --> 01:43:28,198  X1:119 X2:596 Y1:460 Y2:527
+- D'autres dinosaures sur ce bateau ?
+- Non, on a ramené le petit en avion.
+
+785
+01:43:28,289 --> 01:43:30,519  X1:209 X2:506 Y1:500 Y2:527
+On a ça pour le calmer.
+
+786
+01:43:34,729 --> 01:43:37,197  X1:230 X2:484 Y1:500 Y2:527
+Vous avez le petit ?
+
+787
+01:43:38,249 --> 01:43:40,240  X1:247 X2:469 Y1:500 Y2:522
+Il est en sécurité.
+
+788
+01:43:42,249 --> 01:43:46,003  X1:122 X2:595 Y1:460 Y2:527
+L'animal est déshydraté. En premier,
+il va aller à un point d'eau.
+
+789
+01:43:46,129 --> 01:43:48,802  X1:099 X2:616 Y1:460 Y2:527
+Ensuite,
+il va chercher ce que son corps réclame.
+
+790
+01:43:48,889 --> 01:43:52,802  X1:117 X2:598 Y1:460 Y2:527
+Mettons le matériel pour sa capture
+sur le bateau. Il est peut-être en état.
+
+791
+01:43:52,889 --> 01:43:54,481  X1:190 X2:524 Y1:500 Y2:527
+Je sais ce que tu vas dire.
+
+792
+01:43:54,569 --> 01:44:00,246  X1:114 X2:601 Y1:460 Y2:525
+Il est venu à la caravane pour le bébé.
+Il fera la même chose, cette fois.
+
+793
+01:44:04,969 --> 01:44:07,164  X1:255 X2:460 Y1:500 Y2:527
+Où est le petit ?
+
+794
+01:44:09,449 --> 01:44:12,725  X1:148 X2:569 Y1:500 Y2:527
+Dans un abri protégé, pourquoi ?
+
+795
+01:44:14,689 --> 01:44:17,487  X1:252 X2:463 Y1:500 Y2:522
+Où est cet abri ?
+
+796
+01:45:37,289 --> 01:45:39,757  X1:145 X2:571 Y1:500 Y2:527
+Il y a un dinosaure dans le jardin.
+
+797
+01:45:45,449 --> 01:45:49,237  X1:149 X2:567 Y1:500 Y2:527
+Benjamin, qu'est-ce que tu fais ?
+
+798
+01:45:53,009 --> 01:45:54,727  X1:145 X2:571 Y1:500 Y2:527
+Il y a un dinosaure dans le jardin.
+
+799
+01:45:54,809 --> 01:45:59,929  X1:123 X2:593 Y1:460 Y2:527
+- Tu dois lui faire la lecture.
+- Non. Je vais te dire, moi, ce qu'il a.
+
+800
+01:46:00,169 --> 01:46:01,761  X1:267 X2:449 Y1:460 Y2:522
+- Fais-le dîner.
+- Il a dîné !
+
+801
+01:46:01,889 --> 01:46:04,926  X1:156 X2:558 Y1:460 Y2:522
+C'est la lumière de l'aquarium !
+Il a besoin du noir.
+
+802
+01:46:05,049 --> 01:46:07,483  X1:203 X2:513 Y1:460 Y2:527
+- Couvre l'aquarium !
+- On dirait qu'il fait jour.
+
+803
+01:46:07,569 --> 01:46:09,366  X1:182 X2:533 Y1:500 Y2:527
+C'est pas ça ! Eteins-le et...
+
+804
+01:46:30,369 --> 01:46:32,166  X1:275 X2:439 Y1:500 Y2:522
+Ralentissez !
+
+805
+01:46:55,369 --> 01:46:56,848  X1:307 X2:409 Y1:500 Y2:522
+Il est là.
+
+806
+01:47:02,969 --> 01:47:04,960  X1:240 X2:475 Y1:500 Y2:522
+Il est sous sédatif.
+
+807
+01:47:06,409 --> 01:47:09,879  X1:154 X2:561 Y1:500 Y2:527
+Il dort profondément. Aide-moi.
+
+808
+01:47:12,809 --> 01:47:18,600  X1:108 X2:608 Y1:460 Y2:527
+Quand l'adulte va nous revoir avec son
+petit, il va faire "Encore vous ?"
+
+809
+01:47:19,009 --> 01:47:22,797  X1:190 X2:525 Y1:460 Y2:522
+Il risque d'y avoir
+de furieuses retrouvailles.
+
+810
+01:47:24,089 --> 01:47:26,887  X1:106 X2:609 Y1:460 Y2:527
+Qui sait ?
+Il peut aussi être heureux de nous voir.
+
+811
+01:47:27,169 --> 01:47:28,682  X1:193 X2:523 Y1:500 Y2:525
+Que faites-vous là, vous ?
+
+812
+01:47:30,969 --> 01:47:32,960  X1:227 X2:489 Y1:500 Y2:527
+On emmène le petit.
+
+813
+01:47:33,369 --> 01:47:36,042  X1:082 X2:634 Y1:500 Y2:527
+Pour nous en empêcher, tirez-nous dessus.
+
+814
+01:47:37,809 --> 01:47:40,881  X1:158 X2:558 Y1:460 Y2:522
+- Comment on trouve l'adulte ?
+- On suit les cris.
+
+815
+01:48:05,569 --> 01:48:08,322  X1:177 X2:537 Y1:500 Y2:522
+Allez de l'autre côté du bus.
+
+816
+01:49:14,609 --> 01:49:18,648  X1:208 X2:505 Y1:460 Y2:527
+Il saura pas qu'on l'a
+s'il n'émet pas un son !
+
+817
+01:49:18,769 --> 01:49:20,805  X1:281 X2:434 Y1:500 Y2:522
+Réveille-toi.
+
+818
+01:49:27,009 --> 01:49:28,488  X1:318 X2:397 Y1:500 Y2:522
+Il sait.
+
+819
+01:49:42,729 --> 01:49:45,527  X1:254 X2:461 Y1:500 Y2:527
+Ralentis un peu.
+
+820
+01:49:47,249 --> 01:49:48,728  X1:238 X2:475 Y1:500 Y2:527
+Il vaut mieux pas !
+
+821
+01:50:08,089 --> 01:50:11,399  X1:179 X2:536 Y1:460 Y2:522
+Il est pratiquement réveillé.
+Tu sais où tu vas ?
+
+822
+01:50:11,689 --> 01:50:14,920  X1:137 X2:579 Y1:460 Y2:527
+Oui. Le front de mer
+est de l'autre côté de ces hangars.
+
+823
+01:50:15,169 --> 01:50:17,080  X1:184 X2:531 Y1:500 Y2:522
+Comment on les traverse ?
+
+824
+01:50:17,209 --> 01:50:19,006  X1:200 X2:515 Y1:500 Y2:522
+On va le savoir très vite.
+
+825
+01:50:24,369 --> 01:50:25,848  X1:301 X2:413 Y1:500 Y2:522
+Et voilà !
+
+826
+01:50:28,209 --> 01:50:30,404  X1:158 X2:558 Y1:500 Y2:525
+Tu dois me suivre, maintenant.
+
+827
+01:50:35,249 --> 01:50:36,238  X1:275 X2:441 Y1:500 Y2:527
+Tu es prête ?
+
+828
+01:50:36,369 --> 01:50:38,803  X1:167 X2:548 Y1:460 Y2:527
+Où est le T.Rex ?
+Il est toujours derrière nous ?
+
+829
+01:50:45,689 --> 01:50:47,122  X1:280 X2:432 Y1:500 Y2:522
+Voilà l'eau !
+
+830
+01:50:47,409 --> 01:50:49,798  X1:099 X2:615 Y1:500 Y2:522
+Tirez-lui dessus. Dites-leur de l'abattre !
+
+831
+01:50:54,049 --> 01:50:59,169  X1:111 X2:605 Y1:460 Y2:527
+Non, crétin, l'adulte. Tirez sur l'adulte.
+Je veux le petit vivant.
+
+832
+01:51:30,329 --> 01:51:32,684  X1:106 X2:610 Y1:500 Y2:527
+Qu'en avez-vous fait ? Je veux ce petit.
+
+833
+01:52:03,089 --> 01:52:04,886  X1:297 X2:418 Y1:500 Y2:522
+Tu es là ?
+
+834
+01:52:34,009 --> 01:52:35,488  X1:304 X2:412 Y1:500 Y2:522
+Te voilà.
+
+835
+01:52:54,809 --> 01:52:56,208  X1:294 X2:420 Y1:500 Y2:522
+Attends...
+
+836
+01:55:00,049 --> 01:55:03,325  X1:087 X2:633 Y1:500 Y2:527
+Voici une très bonne vue du pont du cargo
+
+837
+01:55:03,449 --> 01:55:07,761  X1:129 X2:588 Y1:460 Y2:525
+et de sa soute qui, pour le moment,
+contient l'animal,
+
+838
+01:55:07,889 --> 01:55:10,244  X1:097 X2:618 Y1:500 Y2:527
+probablement avec son petit près de lui.
+
+839
+01:55:10,649 --> 01:55:13,959  X1:122 X2:593 Y1:460 Y2:522
+A l'heure qu'il est, selon nos calculs,
+ils devraient être
+
+840
+01:55:14,169 --> 01:55:17,684  X1:179 X2:538 Y1:460 Y2:525
+à mi-chemin de leur périple.
+Jim, vous m'entendez ?
+
+841
+01:55:17,809 --> 01:55:20,687  X1:159 X2:563 Y1:460 Y2:522
+Très bien. On est effectivement
+à mi-chemin de l'île.
+
+842
+01:55:20,809 --> 01:55:24,085  X1:186 X2:532 Y1:460 Y2:527
+Elle est à 206 miles marins
+de notre position actuelle.
+
+843
+01:55:24,209 --> 01:55:25,198  X1:255 X2:463 Y1:500 Y2:527
+Le cargo avance
+
+844
+01:55:25,409 --> 01:55:29,163  X1:132 X2:587 Y1:460 Y2:525
+à environ 20 noeuds, ce qui le ferait
+arriver vers 11h30, heure locale.
+
+845
+01:55:29,289 --> 01:55:32,645  X1:121 X2:598 Y1:460 Y2:522
+Une des préoccupations de la marine
+a été la sécurité.
+
+846
+01:55:32,769 --> 01:55:36,045  X1:137 X2:581 Y1:460 Y2:527
+Quand on voit l'imposante armada
+qui escorte le cargo,
+
+847
+01:55:36,169 --> 01:55:38,842  X1:210 X2:508 Y1:460 Y2:527
+I'incident de San Diego
+ne se reproduira pas.
+
+848
+01:55:40,289 --> 01:55:42,484  X1:150 X2:568 Y1:500 Y2:522
+Nous revenons dans nos studios
+
+849
+01:55:42,609 --> 01:55:46,318  X1:125 X2:592 Y1:460 Y2:527
+pour diffuser l'interview enregistrée
+aujourd'hui de John Hammond.
+
+850
+01:55:46,449 --> 01:55:49,327  X1:184 X2:532 Y1:460 Y2:527
+C'est l'ex-patron d'lnGen,
+société de bio-engineering.
+
+851
+01:55:49,449 --> 01:55:52,088  X1:131 X2:588 Y1:500 Y2:522
+Il est le fer de lance du mouvement
+
+852
+01:55:52,209 --> 01:55:54,404  X1:116 X2:603 Y1:500 Y2:527
+qui doit ramener ces animaux sur l'île
+
+853
+01:55:54,529 --> 01:55:57,521  X1:082 X2:634 Y1:500 Y2:527
+et aussi la préserver dans son état naturel.
+
+854
+01:55:58,289 --> 01:56:01,804  X1:183 X2:537 Y1:500 Y2:527
+Il est absolument impératif
+
+855
+01:56:01,929 --> 01:56:05,888  X1:102 X2:615 Y1:460 Y2:527
+qu'on travaille avec la direction
+des Réserves Biologiques du Costa Rica
+
+856
+01:56:06,009 --> 01:56:08,762  X1:152 X2:567 Y1:500 Y2:527
+afin d'établir une série de règles
+
+857
+01:56:08,889 --> 01:56:13,360  X1:191 X2:526 Y1:460 Y2:522
+pour la préservation
+et l'isolement de cette île.
+
+858
+01:56:13,769 --> 01:56:17,762  X1:155 X2:563 Y1:460 Y2:527
+Ces créatures ont besoin
+de notre absence pour survivre,
+
+859
+01:56:17,889 --> 01:56:20,357  X1:225 X2:491 Y1:500 Y2:522
+et non de notre aide.
+
+860
+01:56:20,489 --> 01:56:24,482  X1:134 X2:586 Y1:500 Y2:527
+Si nous pouvons juste nous effacer
+
+861
+01:56:25,129 --> 01:56:27,120  X1:171 X2:547 Y1:500 Y2:525
+et faire confiance à la nature,
+
+862
+01:56:28,209 --> 01:56:30,882  X1:183 X2:533 Y1:500 Y2:522
+Ia vie trouvera son chemin.
+

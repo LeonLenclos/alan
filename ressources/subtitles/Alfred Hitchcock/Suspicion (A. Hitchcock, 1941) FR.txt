@@ -1,0 +1,1173 @@
+{362}{445}SOUPÇONS
+{1555}{1660}Oh, c'était votre jambe !|Le tunnel m'a surpris.
+{1655}{1703}Je croyais que le compartiment était vide.
+{1792}{1854}Désolé. Je ne vous ai pas fait mal ?
+{1873}{1940}Mon voisin, à côté,|fumait un cigare immonde.
+{1964}{2039}J'ai un mal de tête ! Vous ne fumez pas ?
+{2038}{2101}- Non.|- Dieu merci.
+{2100}{2200}Après cette nuit ma tête n'aurait pas|supporté. Vous me comprenez !
+{2266}{2316}PSYCHOLOGIE DE L'ENFANT
+{2429}{2486}Vos billets.
+{2585}{2638}Waterloo - HAZLEDENE|Première classe
+{2717}{2774}Vous vous êtes trompé de compartiment.
+{2774}{2811}Je suis bien en première ?
+{2824}{2877}- Tout va bien.|- Vous avez un billet de troisième.
+{2877}{2902}TROISIÈME CLASSE
+{2942}{3034}Mais j'ai payé un billet de première !
+{3030}{3073}Je regrette...
+{3072}{3147}5,04 livres de supplément.
+{3150}{3185}Vous avez la monnaie de 5 livres ?
+{3211}{3278}Inutile, je ne les ai pas.
+{3374}{3426}Je ne peux pas faire mieux.
+{3426}{3513}Bon, disons 5 livres, ça ira ?
+{3570}{3612}Apparemment non.
+{3738}{3820}Je m'excuse, vous auriez la monnaie ?
+{3831}{3891}Je crains que...
+{3931}{3999}Tenez, vous avez un timbre !
+{4027}{4057}Merci.
+{4059}{4141}Voilà, le compte y est.
+{4190}{4243}C'est absolument légal !
+{4328}{4373}Vous écrirez à votre mère.
+{4640}{4673}M.JOHN (JOHNNIE) AYSGARTH ET
+{4673}{4713}MME HELEN NEWSHAM|VUS À MERCHESTER.
+{5263}{5316}M.Aysgarth, je peux ?
+{5316}{5406}Avancez un peu Mme Fitzpatrick. Merci.
+{5405}{5455}Maintenant M.Aysgarth, s'il vous plaît.
+{5491}{5566}Un sourire s'il vous plaît.
+{5565}{5623}Il est trop tôt.
+{5645}{5702}- Le voilà. Bonjour Johnnie.|- Comment ça va ?
+{5702}{5762}On vous cherchait partout !
+{5760}{5832}Pardon. Si c'était possible...
+{5832}{5909}Mais bien sûr ! À tout à l'heure.
+{5987}{6062}Brillante assistance !
+{6059}{6114}Très bien.
+{6114}{6199}Un petit sourire ? Vous vous souvenez ?
+{6457}{6527}Pas possible ! Ce n'est pas la même !
+{6567}{6612}Vous la connaissez ?
+{6613}{6710}Oui, mais vous avez assez à faire.
+{6706}{6761}Et puis ce n'est pas votre genre.
+{6761}{6841}Ça me changera.
+{6840}{6895}- Présentez-moi.|- Certes non.
+{6896}{6943}Elle est trop bien élevée pour vous !
+{6943}{6995}Je me présenterai tout seul.
+{7630}{7705}- Lina ! Peut-on entrer ?|- Je ne vous avais pas vues.
+{7791}{7846}Je vous présente M.Aysgarth.
+{7927}{7957}Enchanté !
+{7968}{8028}Nous passions par là.
+{8028}{8098}- John a exigé qu'il vous soit présenté.|- Pourquoi ?
+{8098}{8203}Les hommes célibataires|se font rares par ici !
+{8208}{8273}- Il est terrible !|- Merveilleux !
+{8272}{8300}N'est-ce pas ?
+{8328}{8398}- Dépêchez-vous !|- Pourquoi ?
+{8405}{8450}Nous allons à l'office.
+{8450}{8540}- Vous êtes venus me chercher ?|- Non mais...
+{8539}{8609}- Si vous voulez...|- Ça nous ferait plaisir.
+{8632}{8705}C'est très gentil. Je viens.
+{8704}{8817}Parfait ! Mettez le chapeau|que vous aviez dans le train.
+{8814}{8897}D'accord. Je reviens.
+{9378}{9428}- Tu vas où Lina ?|- À l'église.
+{9427}{9460}- Mais...|- J'ai changé d'avis.
+{9461}{9531}- Tu veux que j'aille avec toi ?|- Les Barnham m'attendent.
+{9531}{9588}- Je croyais que...|- J'ai horreur de ces filles !
+{9664}{9709}C'est curieux !
+{10356}{10431}- Vous n'allez pas entrer !|- Mais si !
+{10428}{10508}- Allons nous promener.|- Vous êtes fou !
+{10508}{10595}Attendez ! Pile on entre. Face on file.
+{11018}{11098}Je ne veux pas vous étrangler !
+{11097}{11172}Vous luttez|comme si vous étiez en danger !
+{11179}{11214}Lâchez-moi.
+{11265}{11355}Vous croyiez|que je voulais vous embrasser !
+{11351}{11406}- J'avais tort ?|- Je n'aurais pas osé !
+{11406}{11474}Vous aviez une mèche dans le cou.
+{11476}{11528}Je suis décoiffée ?
+{11529}{11629}Le fait est que je n'osais pas vous le dire.
+{11639}{11711}- Vous vous moquez !|- Mais pas du tout !
+{11722}{11810}J'ai peut-être l'air d'une provinciale|mais je ne vous comprends pas.
+{11809}{11884}Vous semblez vous moquer de moi.
+{11898}{11933}Je vous assure que non.
+{11955}{11997}Mais votre coiffure ne va pas.
+{11998}{12083}À l'idée de les arranger j'ai perdu la tête.
+{12090}{12172}Je me suis senti l'âme|d'un coiffeur passionné !
+{12168}{12238}- Quel est le problème ?|- Je vais vous montrer.
+{12278}{12311}Voyons...
+{12354}{12409}- Laissez ça !|- Pourquoi ?
+{12419}{12489}Votre salière est charmante.
+{12488}{12548}De quelle salière vous parlez ?
+{12599}{12659}- Celle-ci.|- N'y touchez pas.
+{12699}{12732}Voilà !
+{12757}{12792}C'est parfait !
+{12939}{13009}J'ai l'air d'un phénomène
+{13006}{13071}comparée à vos compagnes habituelles.
+{13092}{13162}Quel effet je vous fais|comparé à votre cheval ?
+{13162}{13277}Je crois que je parviendrais|à vous dresser.
+{13301}{13363}Et si, une fois dressé,
+{13364}{13419}je vous embrassais ?
+{13416}{13473}Laissez mes cheveux en paix !
+{13584}{13669}Vous avez l'air d'un singe ébouriffé !
+{13689}{13761}C'est Ouistiti votre surnom ?
+{13805}{13862}C'était mieux tout à l'heure !
+{13987}{14052}Il faut que je rentre déjeuner.
+{14051}{14146}Si j'étais en retard et bien coiffée|père s'étranglerait !
+{14406}{14496}- Inutile de m'accompagner.|- Je reviendrai à 15 heures.
+{14495}{14580}- Je ne serai pas à la maison.|- Mais si.
+{14578}{14648}Non, j'ai des courses à faire.
+{14650}{14678}Menteuse.
+{14706}{14753}Quinze heures !
+{14784}{14847}Lina ne se mariera jamais !
+{14845}{14912}Mais elle ne manquera jamais de rien.
+{14914}{15009}Tu as raison.|Elle est faite pour rester vieille fille.
+{15007}{15087}C'est un état très honorable !
+{15083}{15208}Pourtant elle aurait pu faire|une excellente épouse.
+{15852}{15887}Je suis en retard, excusez-moi.
+{15958}{16011}Une tranche bien cuite je vous prie.
+{16037}{16087}Tu es restée longtemps à l'église.
+{16109}{16209}Je suis allée me promener...
+{16229}{16266}Avec un homme.
+{16293}{16351}Il s'appelle John Aysgarth.
+{16375}{16425}Le fils de Tom ?
+{16423}{16466}Tu l'as connu comment ?
+{16466}{16544}C'est un dévoyé !
+{16542}{16632}Du raifort ? C'est la saison ?
+{16632}{16702}- C'est de la conserve ?|- Bien sûr que non.
+{16701}{16771}En effet ! Il n'aurait pas cette saveur !
+{16873}{16943}John Aysgarth serait un dévoyé ?
+{16943}{17020}Il trichait aux cartes dans son club,|n'est-ce pas ?
+{17068}{17128}Je ne lui ai pas demandé.
+{17125}{17190}On a dû le radier, je crois...
+{17190}{17260}- Qu'est-ce qu'il fait ici ?|- Il est en vacances.
+{17259}{17306}Il ne serait pas invité ici
+{17305}{17363}s'il trichait aux cartes !
+{17365}{17487}Ce serait plutôt une histoire de femme,|une histoire de divorce...
+{17535}{17608}Du diable si je m'en souviens !
+{17605}{17710}Il doit venir me chercher à 15 heures.
+{17807}{17865}Mademoiselle au téléphone.
+{18169}{18201}Vous ne pouvez pas ?
+{18286}{18329}Je comprends.
+{18348}{18383}Merci d'avoir appelé.
+{18442}{18497}Je serais heureuse de vous revoir.
+{19387}{19449}M.Aysgarth est-il là ?
+{19470}{19503}Non...
+{19511}{19621}Doit-il venir au Bal de Beauchamp ?
+{19650}{19747}Ça ne fait rien. Je rappellerai.
+{19794}{19861}- Rien mademoiselle.|- Vous en êtes sûre ?
+{19890}{19960}- Certaine.|- Excusez-moi d'insister mais...
+{19959}{20052}dans une autre boîte aux lettres|peut-être ?
+{20050}{20138}La lettre nous aurait été renvoyée.
+{20261}{20319}Aysgarth, John D. A11 Albany W1|REGENT 0021
+{20409}{20462}Regent 0021 je vous prie.
+{20600}{20633}On ne répond pas ?
+{20656}{20688}Merci.
+{20934}{21006}Le général McLaidlaw et madame,
+{21003}{21043}ainsi que leur fille,
+{21041}{21109}sont priés d'assister
+{21108}{21176}au Bal de Beauchamp
+{21176}{21234}le 7 mars
+{21233}{21268}à 19 heures 30.
+{21504}{21539}Il est 19 heures !
+{21576}{21628}Tu ne mets pas ta robe ?
+{21639}{21696}Non, je n'ai pas envie.
+{21706}{21783}- Qu'est-ce qu'il y a ?|- J'ai la migraine.
+{21808}{21858}Je n'irai pas au bal.
+{21869}{21954}Tu n'y vas pas ?|Mais que va dire ton père ?
+{21957}{22007}Prends un cachet !
+{22032}{22127}- Tu n'as pas de fièvre ?|- Je ne sais pas.
+{22151}{22223}- Où sont les cachets ?|- Dans le bureau.
+{22235}{22288}Un télégramme mademoiselle.
+{22521}{22583}À ce soir au bal.
+{22583}{22670}N'oubliez pas votre salière. Johnnie.
+{22971}{23028}- Ton cachet.|- Pour quoi ?
+{23031}{23086}- Ta migraine.|- Guérie !
+{23082}{23192}- Je descends tout de suite !|- Je ne te comprends décidément pas.
+{24348}{24386}Vous oubliez notre danse !
+{24614}{24686}C'est Lina qui danse là-bas ?
+{24712}{24765}Je ne l'aurais pas reconnue.
+{24768}{24815}Moi non plus !
+{24815}{24872}Général, on vous demande à l'entrée.
+{24873}{24975}Voici le général McLaidlaw.
+{24976}{25071}Il y a là un de vos invités.
+{25081}{25151}Il n'a pas de carton. M.Aysgarth.
+{25158}{25221}Il fait erreur.
+{25271}{25346}Général McLaidlaw ? John Aysgarth.
+{25354}{25442}J'ignorais vous avoir invité.
+{25455}{25500}J'ai cru le comprendre.
+{25498}{25563}Je viens de Londres exprès.
+{25587}{25624}Je ne sais que dire.
+{25626}{25708}Dites quelque chose|avant qu'il meure de honte !
+{25903}{25943}Nous nous demandions|si vous alliez venir.
+{25941}{26006}Désolé du retard. C'est notre danse, non ?
+{26238}{26288}- Bonjour Ouistiti.|- Bonjour Johnnie.
+{26856}{26908}C'est impossible ! Où on va ?
+{26909}{26976}- Où est votre voiture ?|- C'est absurde...
+{26986}{27016}Là-bas !
+{27115}{27165}Vous allez attraper froid !
+{27434}{27504}On vous a déjà embrassée en voiture ?
+{27534}{27564}Quoi ?
+{27566}{27641}Ne vous moquez pas de moi.
+{27640}{27710}- Je ne sais pas flirter.|- Je ne plaisante pas.
+{27707}{27780}- On vous a déjà embrassée en voiture ?|- Jamais.
+{27918}{27963}Ça vous plairait ?
+{28282}{28380}Vous êtes la première|à dire oui en pensant oui.
+{28378}{28468}- Les autres disent quoi ?|- Tout sauf "oui".
+{28466}{28528}- Mais elles vous embrassent.|- En général oui.
+{28593}{28633}Parlez Ouistiti.
+{28643}{28725}- Il y en a eu beaucoup ?|- Il me semble.
+{28736}{28811}Un soir j'ai essayé de les compter.
+{28811}{28876}Comme les moutons...
+{28873}{28935}J'ai sombré à 73.
+{28964}{29064}- Vous êtes toujours aussi franc ?|- Pas vraiment.
+{29072}{29142}Pourquoi avec moi ? Je suis différente ?
+{29142}{29184}Ce n'est pas ça.
+{29185}{29292}Avec vous|c'est le meilleur moyen de réussir.
+{29340}{29433}Dois-je le dire ? Je vous aime.
+{29532}{29612}Il fallait me le dire, Ouistiti.
+{29640}{29712}- Où on va ?|- Tout droit.
+{29729}{29809}Moi aussi je suis amoureux,|j'en ai bien peur.
+{29808}{29860}Je vous fuis depuis huit jours
+{29861}{29893}parce que j'ai peur de vous.
+{29928}{29983}Pour une surprise...
+{29983}{30056}Notre rencontre a été si imprévue !
+{30078}{30128}J'imaginais une rencontre dans les règles,
+{30126}{30201}un pique-nique,|plusieurs soirées en tête-à-tête,
+{30201}{30286}des promenades ensemble...
+{30285}{30358}Voilà la maison.|Venez boire quelque chose.
+{30355}{30382}Non,
+{30388}{30483}je vais vous reconduire au bal illico.
+{30678}{30708}Descendez.
+{30812}{30857}Pourquoi vous vous êtes arrêté ?
+{30863}{30910}Je n'en sais rien !
+{30946}{30976}Venez.
+{31149}{31199}J'ai entendu la voiture.
+{31197}{31264}Nous venons seulement prendre un verre.
+{31269}{31316}Allons dans le bureau.
+{31372}{31460}Je vous prépare un cocktail.|Vous en avez besoin.
+{31501}{31549}Vous êtes de fer !
+{31566}{31593}Si calme !
+{31595}{31645}Regardez mes mains...
+{31648}{31750}- Vous pourriez vous pâmer !|- J'en suis la première étonnée.
+{31765}{31835}Mais ce soir, pour la première fois,
+{31835}{31877}je sais ce que je veux.
+{32261}{32306}Vous me faites la cour ?
+{32349}{32389}On dirait !
+{32426}{32479}Quel instant merveilleux.
+{32498}{32583}Être là, seule avec vous,|dans cette maison où je suis née,
+{32606}{32686}ensemble, dans ma pièce préférée.
+{32695}{32740}Elle vous plaît ?
+{32750}{32785}Beaucoup.
+{32905}{32960}Qu'est-ce que vous faites ici vous ?
+{33052}{33117}Vous trouvez que nous allons un peu loin ?
+{33186}{33211}Il ne m'aime pas.
+{33299}{33374}Il n'a aucune confiance en moi.
+{33388}{33495}Vous avez raison.|Avant qu'il soit trop tard
+{33503}{33585}dites que je suis un bon à rien !
+{33581}{33654}Exprimez-vous,|c'est votre dernière chance !
+{33690}{33722}Vous l'entendez ?
+{33730}{33770}Très distinctement.
+{33783}{33903}Il n'exagère pas. Tout ce qu'il dit est vrai.
+{33925}{33968}Je l'aime papa.
+{33983}{34038}- Il a sursauté !|- Oui.
+{34146}{34184}Qu'est-ce que vous dites de ça ?
+{34221}{34326}Général, j'ai l'honneur|de vous demander la main de votre fille.
+{34366}{34416}Ça vous en bouche un coin !
+{34547}{34612}Vous l'avez entendu ?
+{34630}{34680}Qu'importe ! Qu'importe !
+{34712}{34752}Pauvre Ouistiti...
+{34927}{34972}Vous entendez la musique ?
+{34975}{35013}Parfaitement.
+{35050}{35142}Dansons avant que je... que nous...
+{35155}{35190}Dansons.
+{36322}{36382}Je descends à la poste.
+{36404}{36489}Tu me rapporteras cette laine verte...
+{36488}{36528}Où je l'ai fourrée ?
+{36613}{36648}La voici.
+{36655}{36755}Fais attention, exactement la même.
+{36935}{37035}- Tu n'as besoin de rien ?|- Non, rien.
+{37548}{37601}Ne sois pas en retard !
+{37841}{37931}État Civil - Naissances, mariages, décès
+{38593}{38651}M.& MME. John Aysgarth|WICKSTEAD - ANGLETERRE
+{38855}{38900}Celle-là dans la chambre.
+{38938}{38996}Vous êtes satisfaite Mme Aysgarth ?
+{38994}{39056}Sinon plains-toi à M.Bailey.
+{39056}{39126}Il est venu en notre absence|et il a tout décoré.
+{39125}{39223}- Si ça te plaît...|- Oui ! C'est magnifique !
+{39220}{39263}Je suis ravie !
+{39263}{39321}J'ai droit aux compliments|puisque je l'ai engagé...
+{39371}{39413}Tu es extraordinaire !
+{39415}{39495}Je vais vous laisser monsieur.
+{39508}{39556}Pour la facture ?
+{39556}{39641}Posez-la sur la table mon vieux.
+{39886}{39974}Je vous souhaite beaucoup de bonheur.
+{40067}{40142}C'est un rêve chéri !
+{40140}{40198}C'est vraiment dans nos moyens ?
+{40215}{40282}- J'ai oublié votre nom...|- Ethel monsieur.
+{40294}{40337}Servez donc le thé Ethel.
+{40397}{40449}- Comment tu la trouves ?|- Parfaite.
+{40450}{40502}- Mais tu es sûr...|- Viens.
+{40809}{40864}- Où on est ?|- Au bal de Beauchamp.
+{40874}{40917}- Mais encore ?|- À Venise.
+{40955}{41043}À Naples, Capri, Monte-Carlo, Nice...
+{41075}{41103}Paris.
+{41147}{41205}Un télégramme monsieur.
+{41423}{41465}Un ennui ?
+{41463}{41541}Un ami qui me demande 1000 livres.
+{41540}{41640}- Tu ne les aurais pas par hasard ?|- Pour quoi faire ?
+{41658}{41740}Peut-être parce que je les lui dois.
+{41739}{41771}Mais pourquoi ?
+{41780}{41883}Je voulais|que notre lune de miel soit parfaite.
+{41880}{41925}Elle l''était ?
+{41940}{42030}- Tu n'as pas de fortune ?|- Pas un sou !
+{42071}{42129}Je pensais, j'ai cru...
+{42129}{42207}Ne pense pas à ces histoires d'argent.
+{42203}{42268}Il y a toujours moyen de se débrouiller.
+{42268}{42323}Je ne comprends toujours pas.
+{42339}{42377}Tu n'as plus d'argent ?
+{42392}{42470}Ouistiti, je n'en ai jamais eu !
+{42483}{42583}Pourquoi n'avoir rien dit ?|À chaque fois tu...
+{42582}{42657}Cette maison va être ruineuse !
+{42654}{42716}Tu voulais habiter où ?
+{42713}{42808}Tu seras riche un jour !
+{42807}{42889}Je n'arrive pas à m'y faire...
+{42886}{42959}Tu pensais à mon héritage quand...
+{42965}{43017}Que dire...
+{43015}{43060}Enfin chérie...
+{43066}{43151}Pourquoi gâcher notre jeunesse|à attendre la fortune ?
+{43150}{43190}Profitons-en !
+{43260}{43325}Je commence à comprendre...
+{43330}{43367}Tu es un enfant !
+{43380}{43490}Tu ne m'as pourtant pas|épousée pour mon argent...
+{43490}{43568}Mais ma rente ne suffira pas|à payer tout ça !
+{43627}{43674}Parle à ton père.
+{43725}{43810}Je ne veux rien leur demander|ni à lui, ni à maman.
+{43811}{43906}Tu as vu comme elle était distante|à la gare ?
+{43905}{44012}Tu ne comptais pas là-dessus|pour nous faire vivre ?
+{44022}{44062}Non, bien sûr !
+{44127}{44162}Réponds-moi Johnnie.
+{44247}{44342}Il n'y a qu'un moyen d'en sortir.
+{44338}{44376}Il va falloir
+{44394}{44466}que j'emprunte un peu plus.|Je n'ai qu'à taper Midlum,
+{44466}{44536}c'est deux mois de gagnés !
+{44571}{44621}Tu es fou !
+{44676}{44763}Ouistiti, t'avoir épousée|prouve que je ne suis pas fou.
+{44865}{44900}Donnez-moi ça.
+{44901}{44948}C'est bien trop lourd pour vous.
+{44970}{45015}Débarrassez la table.
+{45107}{45177}Il y a des gâteaux ?
+{45214}{45262}Eh bien apportez-les !
+{45574}{45629}Tu n'emprunteras plus.
+{45627}{45712}- Que faire alors ?|- Travailler.
+{45725}{45760}Travailler !
+{45794}{45859}Tu me vois en salopette ?
+{45860}{45895}Cesse tes plaisanteries.
+{45895}{45930}Qu'est-ce que tu t'imagines ?
+{45951}{46051}Tu te fais des illusions. Voyons les faits.
+{46047}{46102}Tu connais les statistiques de chômage ?
+{46101}{46214}Pour être plombier,|charpentier ou électricien, il faut...
+{46211}{46264}Tu ne te rends pas compte !
+{46264}{46349}Il faut être apprenti et même...
+{46349}{46399}Il y a d'autres emplois.
+{46398}{46478}J'ai l'esprit large.|Parlons-en en prenant le thé.
+{46478}{46558}Dressons une liste de ce que je peux faire.
+{46566}{46639}Je prends du papier.
+{46742}{46772}Derrière toi.
+{46828}{46865}Maman...
+{46878}{46961}Oui, la maison est magnifique.
+{46983}{47051}Dis à papa combien j'ai été peinée...
+{47079}{47164}Vraiment ? Je le dis à Johnnie.
+{47163}{47275}Papa nous envoie son cadeau de mariage !|Maman lui a dit que j'étais heureuse et...
+{47273}{47333}Ça me fait tellement plaisir !
+{47332}{47397}- Et moi donc !|- Papa ?
+{47447}{47550}- Il l'envoie quand ?|- Il va arriver.
+{47548}{47631}Qu'il vienne dîner !|Ou jouer au golf, un jour...
+{47629}{47714}Dis-lui qu'on cherchait|une situation pour moi.
+{47711}{47816}- Ça lui fera plaisir !|- Tu exagères !
+{47821}{47881}On dirait que ça t'amuse !
+{47881}{47936}Tu devrais avoir honte !
+{47944}{47979}Pardon ?
+{47984}{48057}On en parlait
+{48064}{48154}très sérieusement.
+{48155}{48247}Il a déjà une idée|de ce qu'il aimerait faire...
+{48250}{48307}Il a de bonnes pistes.
+{48343}{48403}On apporte un colis.
+{48404}{48486}- Apportez-le !|- Voilà ton cadeau papa.
+{48554}{48642}Je devine ce que c'est !
+{48641}{48689}Johnnie, tu vas être content !
+{48689}{48744}C'est merveilleux !
+{48763}{48833}Nos plus vieux meubles de famille !
+{48832}{48915}On en a offert des sommes folles à papa...
+{48947}{49032}- Il y en a combien ?|- Deux monsieur.
+{49029}{49079}Il nous donne les deux !
+{49077}{49145}Papa n'a rien de plus précieux !
+{49180}{49262}Nous pourrons les léguer à nos enfants,
+{49262}{49372}- qui feront de même.|- Avec plaisir !
+{49417}{49512}Je suis si touchée ! J'en pleurerais.
+{49626}{49663}Comment ?
+{49690}{49748}Ça me fait vraiment plaisir.
+{49799}{49861}Et Johnnie aussi est ravi !
+{49914}{49984}Il veut te remercier...
+{50013}{50110}Sois gentil.|Ce sont des pièces de musée tu sais...
+{50140}{50235}Ils sont dignes d'un musée, vraiment...
+{50239}{50309}Évidemment que nous sommes ravis !
+{50315}{50352}Un emploi ?
+{50360}{50480}On en parlait.|J'ai pensé à plusieurs choses...
+{50483}{50528}Lesquelles ?
+{50565}{50645}Un de mes cousins vient de m'écrire.
+{50643}{50693}Oui, un type épatant.
+{50706}{50809}Il cherche un gérant pour son domaine.
+{50806}{50849}Ravi que vous approuviez.
+{50852}{50939}Je laisse Lina organiser un dîner.
+{50938}{50985}Au revoir.
+{51041}{51119}Ton cousin Melbeck|ne t'a jamais écrit ça.
+{51118}{51148}Tu crois ?
+{51223}{51308}Réfléchis bien
+{51305}{51393}et dis-moi si le poste t'intéresse.
+{51401}{51479}- Tu le sais depuis longtemps ?|- Oui.
+{51496}{51544}Pourquoi tu n'as rien dit ?
+{51562}{51632}Je ne pensais pas en arriver là
+{51631}{51741}ni recevoir ces deux objets d'art !
+{52177}{52257}John a dégoté|une magnifique maison géorgienne !
+{52254}{52349}Ça a dû coûter une fortune !
+{52348}{52405}- Qui êtes-vous ?|- Beaky Thwaite.
+{52426}{52501}- Vous êtes la femme de Johnnie ?|- En effet.
+{52503}{52553}Il ne vous a pas parlé de moi ?
+{52554}{52611}Beaky, c'est vous !
+{52611}{52661}C'était mon surnom au collège.
+{52660}{52740}Je passais par là. Je viens prendre le thé.
+{52737}{52787}J'ai beaucoup entendu parler de vous.
+{52788}{52828}Moi de même.
+{52826}{52886}Je l'ai vu aux courses la semaine dernière.
+{52908}{52943}Aux courses ?
+{52943}{53008}J'ai gaffé ! Il ne vous l'a pas dit ?
+{53034}{53102}Depuis qu'il travaille|il ne va plus aux courses.
+{53101}{53134}De plus il ne parie plus.
+{53135}{53193}Quel farceur ce Johnnie !
+{53192}{53287}Ne vous en faites pas.
+{53283}{53326}Il faut le prendre comme il est !
+{53326}{53389}Et puis il vous trouve sensas !
+{53389}{53482}- Je suis bien d'accord !|- Vous voulez vous asseoir...
+{53480}{53550}Quelque chose ne va pas ?
+{53550}{53632}Il y avait deux chaises ici.
+{53631}{53696}Elles ont disparu ?
+{53708}{53748}On dirait.
+{53772}{53865}- Elles avaient de la valeur ?|- Oui, c'était des pièces de musée !
+{53924}{54041}C'est Johnnie ! Ça ne peut être que lui !|Vous ne comprenez pas ?
+{54044}{54121}- Non.|- Je parie qu'il les a vendues !
+{54120}{54155}Pour quelle raison ?
+{54156}{54241}Pour payer ses dettes aux courses|sans doute.
+{54240}{54320}Il a perdu un paquet à Newburgh.
+{54317}{54414}Et les books ne font pas crédit|aux gars comme Johnnie !
+{54413}{54495}Je n'en crois pas un mot !
+{54494}{54536}Encore une gaffe !
+{54537}{54649}Allons, ce n'est pas si grave.|Johnnie est un type formidable.
+{54659}{54764}Il est unique, je ne vous apprends rien !
+{54764}{54869}Il ne les aurait pas vendues|sans me le dire.
+{54879}{54937}Le voilà ! Ne dites pas|que j'ai vendu la mèche.
+{54945}{55005}Pour admirer l'artiste|évoquez simplement les chaises.
+{55004}{55077}Il va vous inventer un roman
+{55084}{55136}instantanément !
+{55134}{55204}On va bien s'amuser !
+{55268}{55336}- Qu'est-ce que tu fais ici ?|- Je suis venu te voir !
+{55333}{55375}Je suis ravi de te voir.
+{55385}{55437}Comment va mon Ouistiti ?
+{55461}{55518}- Qu'est-ce qu'il y a ?|- Rien, pourquoi ?
+{55519}{55549}Tu es sûre ?
+{55564}{55647}Ta femme a perdu des chaises.
+{55665}{55725}Ta pipe est éteinte. J'ai des allumettes.
+{55898}{55930}Attrape !
+{55967}{56057}Alors ces chaises ?
+{56065}{56102}Ces chaises qui manquent...
+{56101}{56161}L'Américain a dû venir les prendre.
+{56187}{56270}Je ne t'ai pas dit ? Quel idiot je fais.
+{56269}{56354}Il est venu ici. Un ami de Melbeck.
+{56360}{56395}Tu faisais du cheval.
+{56406}{56436}Continue.
+{56465}{56543}Les chaises lui ont plu.
+{56542}{56627}Il proposait 100 livres par chaise.|Tout le monde aurait accepté !
+{56650}{56685}Pas moi.
+{56729}{56782}Vraiment chérie ?
+{56799}{56844}Je me suis trompé.
+{56875}{56930}Je pensais le contraire.
+{56942}{56992}Tu ne m'as rien dit.
+{56995}{57052}Excuse-moi, je croyais l'avoir fait.
+{57053}{57130}Puisqu'elles sont vendues...
+{57129}{57179}Vous pouvez le dire !
+{57184}{57234}Allons nous habiller pour dîner.
+{57246}{57274}Tu es un amour.
+{57321}{57411}Tu dis qu'il a payé 200 livres ?
+{57436}{57473}Fais voir le chèque.
+{57475}{57540}- Il l'enverra.|- Je te parie que tu ne me laisses pas
+{57539}{57624}téléphoner à Melbeck
+{57620}{57675}pour demander s'il connaît l'Américain.
+{57673}{57748}Vous voulez dire que mon mari a menti ?
+{57745}{57820}Mais il plaisante voyons !
+{57826}{57886}Prenons d'autres sujets.
+{57889}{57944}Vous restez dîner ?
+{57944}{58024}Je reste tout le week-end !
+{58023}{58141}Les amis de John sont les bienvenus|tant qu'ils sont ses amis...
+{58581}{58613}Vous contemplez votre image ?
+{58611}{58636}C'est bien !
+{58664}{58709}Notre gloire locale est à l'honneur.
+{58717}{58747}Vous allez par là ?
+{58765}{58805}- Comment va Johnnie ?|- Bien.
+{58806}{58891}Je viens de lui acheter votre dernier livre.|Il vous admire.
+{58889}{58957}Il a dévoré tous vos romans policiers.
+{58957}{59005}Qu'est-ce qu'il y a ?
+{59003}{59103}J'oubliais:|j'ai un renseignement à demander ici.
+{59120}{59150}Venez dîner bientôt.
+{59415}{59490}Je vous dois des excuses.
+{59493}{59538}Comment ça ?
+{59539}{59636}Je vous l'expliquerai.|J'ai été injuste envers vous.
+{59635}{59742}Injuste ? Grand merci.|Vous êtes déjà pardonnée !
+{59762}{59802}Mais vous semblez fâchée.
+{59803}{59858}Ne dites rien...
+{59858}{59928}- C'est encore Johnnie ?|- Excusez-moi...
+{59928}{60000}Lui en vouloir ne sert à rien.
+{60000}{60072}Si je vous énerve c'est normal.
+{60071}{60168}J'ennuie tout le monde.|Mais ce n'est pas sa faute...
+{60227}{60300}Laissez-moi seule avec lui.
+{60299}{60339}Dans le jardin ?
+{60378}{60435}Que personne ne bouge !
+{60436}{60483}Vous faites la tête ?
+{60486}{60521}Tu as quoi là ?
+{60522}{60587}Tu vas voir ! C'est un grand jour.
+{60613}{60653}Qu'est-ce qu'il y a à boire ?
+{60651}{60708}Gin, cognac, champagne...
+{60709}{60754}Apportez tout. Vite !
+{60770}{60815}Recule Beaky.
+{60815}{60898}Tu te rappelles ce collier|que tu avais admiré ?
+{60897}{60925}Le voilà...
+{60926}{61016}Non, ça c'est pour Ethel. Voilà pour toi !
+{61012}{61057}- Qu'est-ce que c'est ?|- Devine.
+{61058}{61135}- Une canne !|- Premier choix !
+{61194}{61244}Tu te souviens ?
+{61245}{61340}Ça aussi ça te faisait envie à Londres.
+{61393}{61430}Quelques chapeaux.
+{61429}{61487}Je n'ai jamais aimé les tiens.
+{61484}{61559}Comme celui que tu portais|le jour de notre rencontre en train.
+{61558}{61643}- Qu'est-ce que ça veut dire ?|- Ne sois pas fâchée.
+{61643}{61718}Tu pourras les échanger.
+{61716}{61784}Moi aussi j'ai mon cadeau !
+{61791}{61886}Magnifique cette canne !
+{61969}{62016}Solide !
+{62071}{62136}Johnnie, explique-nous...
+{62136}{62203}J'ai joué "Ravageur"
+{62201}{62266}au Grand Handicap.
+{62263}{62333}Un pari de 200 livres à dix contre un.
+{62330}{62390}Ça fait 2000 livres.
+{62390}{62430}Bravo !
+{62431}{62506}Tu as calculé tellement vite !
+{62512}{62565}Fiche-toi de moi !
+{62574}{62634}Tu ne dis rien ?
+{62642}{62732}- Tu m'en veux ?|- 2000 livres ça excuse tout !
+{62731}{62803}J'ai eu tort, je sais.|Tout ça c'est pour toi.
+{62841}{62873}Souris chérie...
+{62881}{62934}Où tu as pris ces 200 livres ?
+{62934}{63004}- En voilà une question !|- Où ?
+{63004}{63096}Tu sais bien, l'argent des chaises.
+{63097}{63162}Tu les as vendues pour jouer !
+{63162}{63267}Et pour régler des dettes|avec un bookmaker.
+{63293}{63403}Je voulais le rembourser|et puis j'ai eu ce tuyau...
+{63404}{63452}Je t'en prie, souris-moi.
+{63454}{63529}Chatouille-la, je vais grimacer.
+{63638}{63678}Toujours rien ?
+{63679}{63726}Tu connais autre chose ?
+{63729}{63814}Un truc infaillible. J'imite le canard.
+{63863}{63888}Rien.
+{63890}{63917}Je la chatouille ?
+{64031}{64091}J'oubliais ! Chérie, regarde.
+{64101}{64186}Reçu pour l'achat de deux chaises,
+{64184}{64259}livrables à domicile.
+{64307}{64364}Enfin, un sourire !
+{64455}{64500}Bravo !
+{64524}{64619}Voilà de quoi fêter cet heureux jour !
+{64620}{64698}Beaky ne perd pas jamais le nord.
+{64915}{64970}Beaky va se rafraîchir le bec.
+{64968}{65063}Ethel, un cadeau. Tournez-vous.
+{65189}{65276}C'est trop beau pour moi !
+{65356}{65411}Qu'est-ce que mon ami va dire ?
+{65587}{65644}Pour vous Lina.
+{65641}{65669}Voilà le tien.
+{65732}{65805}- Tu bois du cognac ?|- Pour une fois.
+{65804}{65879}- Tu ne le supportes pas.|- Juste une goutte.
+{65889}{65939}C'est une exception.
+{65975}{66072}Ouistiti, je bois à mon dernier pari.
+{66068}{66118}Au dernier !
+{66626}{66718}- De l'eau vite !|- Il n'y a rien à faire.
+{66714}{66809}Ça lui est déjà arrivé.
+{66808}{66893}Soit il en meurt, soit le malaise va passer.
+{67203}{67243}Désolé...
+{67323}{67386}Un jour il en mourra.
+{67620}{67703}- Que de livres !|- Vous allez lire tout ça ?
+{67701}{67809}- C'est pour Johnnie.|- Depuis quand...
+{67840}{67908}- Ce sont des policiers !|- Il adore ça !
+{67910}{67985}Il se fait à cette simple vie rurale ?
+{67984}{68084}- Elle semble lui plaire.|- Il a renoncé à tous ses vices ?
+{68090}{68145}Quels vices ?
+{68152}{68225}À jouer aux courses par exemple.
+{68224}{68292}Son travail l'occupe trop.
+{68291}{68386}Il a dû faire une pause mardi dernier.
+{68387}{68445}Il était aux courses de Manchester.
+{68457}{68529}Ah oui ? Intéressant.
+{68692}{68744}MELBECK IMMOBILIER - BUREAUX
+{69033}{69073}M.Aysgarth est-il là ?
+{69151}{69211}- Il viendra quand ?|- Je n'en sais rien.
+{69210}{69273}Vous voulez voir le capitaine Melbeck ?
+{69272}{69330}Volontiers.
+{69510}{69560}Je suis très heureux de vous voir.
+{69589}{69622}Asseyez-vous.
+{69707}{69774}Je ne voudrais pas vous importuner
+{69771}{69861}mais étant le cousin et le patron de John,
+{69875}{69962}je devais vous parler.|Je suis très préoccupée.
+{69966}{70021}Je vous comprends.
+{70047}{70144}Mais il sait que je ne porte pas plainte.
+{70143}{70230}- Je ne comprends pas...|- Je lui ai dit que je ne porterai pas plainte.
+{70282}{70342}Qu'est-ce qu'il a donc fait ?
+{70341}{70394}Il s'en sort comment ?
+{70392}{70462}Qu'est-ce qu'il a dit au sujet de son renvoi ?
+{70459}{70549}- C'était quand ?|- Il y a six semaines.
+{70586}{70656}Je n'ai pas vraiment le sens de l'humour.
+{70675}{70750}Vous parlez sérieusement ?
+{70756}{70808}Je ne plaisante pas.
+{70821}{70889}Nous avons eu un contrôle surprise,
+{70888}{70956}la comptabilité|accusait un déficit de 2000 livres.
+{70969}{71042}J'ai vérifié les comptes de Johnnie...
+{71054}{71096}Je suis navré.
+{71104}{71154}Il aurait dû vous prévenir.
+{71154}{71204}Ne vous excusez pas.
+{71204}{71274}Vous renoncez à le poursuivre ?
+{71293}{71338}Pour l'instant.
+{71338}{71436}Je lui laisse ses chances|de me rembourser,
+{71463}{71503}sinon...
+{71546}{71618}Bien sûr. Merci capitaine Melbeck.
+{71917}{71962}Monsieur est rentré ?
+{72612}{72705}Je te quitte.
+{72903}{72965}Inutile de nous revoir.
+{72965}{73037}Tu trouveras bien une explication
+{73034}{73079}tant pour toi que pour les autres.
+{74053}{74088}Tu le sais ?
+{74201}{74263}J'ai beaucoup de peine aussi.
+{74299}{74402}Ce télégramme du docteur|donne des précisions.
+{74466}{74544}Ai le regret de vous apprendre
+{74541}{74606}que votre père est mort|d'une crise cardiaque.
+{74605}{74678}Votre mère souhaite vous voir.
+{74925}{74990}À ma chère sœur Emily
+{74987}{75099}une rente annuelle de 1000 livres, et ce à vie.
+{75118}{75218}À ma nièce une somme de 5000 livres.
+{75241}{75356}À mes deux chers cousins 500 livres chacun.
+{75372}{75487}Je lègue ma maison|et tout ce qu'elle contient
+{75485}{75547}à ma femme chérie
+{75548}{75663}qui continuera à verser|une rente annuelle de 500 livres
+{75660}{75710}à ma fille Lina.
+{75756}{75849}Enfin, je lègue à Lina et à John Aysgarth
+{75855}{75917}mon portrait,
+{75917}{75999}œuvre du grand peintre|Sir Joshua Nettlewood.
+{76200}{76260}- Il me faut un verre.|- Je te l'apporte.
+{76257}{76337}Ne te dérange pas.
+{76889}{76929}C'est vous qui gagnez.
+{77344}{77424}Tu regrettes parfois d'être ma femme ?
+{77435}{77480}Pourquoi cette question ?
+{77495}{77593}Ton père aurait été plus généreux
+{77591}{77649}si tu n'avais pas été Mme Aysgarth.
+{77648}{77698}Voilà à quoi tu penses !
+{77701}{77761}Tu ne m'as pas répondu.
+{77768}{77833}Tu as des regrets toi ?
+{77867}{77982}C'est la seule chose de ma vie|que je ne regrette pas.
+{77996}{78028}C'est vrai Johnnie ?
+{78092}{78169}Je veux passer ma vie près de toi.
+{78166}{78231}Si tu mourais avant moi...
+{78233}{78281}Si je mourais avant toi ?
+{78343}{78391}Et toi ?
+{78408}{78473}Je ne peux cesser de t'aimer.
+{78516}{78556}Tu as essayé ?
+{78588}{78641}Une fois.
+{78686}{78716}Quand ?
+{78755}{78845}Quand j'ai su|que tu n'étais plus chez Melbeck.
+{78931}{79003}- Il y a longtemps ?|- Vendredi dernier.
+{79019}{79097}- Qui te l'a dit ?|- Le capitaine Melbeck.
+{79156}{79231}- Il t'a dit pourquoi ?|- Non.
+{79286}{79336}Explique-moi.
+{79340}{79390}Nous n'étions jamais d'accord.
+{79412}{79495}C'est joli ici !|On s'arrête pour voir la mer ?
+{79692}{79752}Pourquoi vous n'étiez pas d'accord ?
+{79751}{79821}Il a l'esprit un peu lent.
+{79819}{79892}Mes idées l'effrayaient...
+{79888}{80005}Pour moi, le secret du succès|c'est de voir grand.
+{80053}{80133}Tu crois que je divague ?
+{80133}{80210}La fortune appartient aux audacieux.
+{80243}{80325}Regarde ces terrains. Regarde cette vue.
+{80325}{80387}Il y a quelque chose à faire.
+{80389}{80479}Avec 10000 ou plutôt 20000 livres,
+{80485}{80545}je construirais ici.
+{80653}{80711}Tu n'as besoin que de 20000 livres.
+{80761}{80798}Ou 30000 livres.
+{80823}{80885}40000 serait l'idéal.
+{80905}{80962}Voici l'emplacement des terrains.
+{80962}{81034}On construira un grand hôtel là ?
+{81031}{81104}Et des cabines sur la plage...
+{81103}{81156}Des cabines ?
+{81170}{81243}Vous complotez tous les deux ?
+{81242}{81352}Nous montons une société|pour acheter ces terrains en bord de mer.
+{81350}{81410}Avec la vue, le soleil !
+{81415}{81470}Nous les revendrons très cher.
+{81470}{81542}- Il vous faut de l'argent.|- Évidemment.
+{81542}{81584}Tu as un commanditaire ?
+{81582}{81617}Bien sûr.
+{81616}{81659}- Qui ?|- Moi !
+{81736}{81766}Je vois...
+{81784}{81854}L'idée est de moi. L'argent c'est Beaky.
+{81859}{81951}Il revendra ses titres à Paris.
+{81950}{82030}Nous lancerons des actions.|Je vais te montrer.
+{82076}{82141}La société sera à mon nom.
+{82223}{82283}Vois comme c'est simple.
+{82318}{82383}- Vous comprenez ?|- Tout à fait.
+{82396}{82429}Je crois.
+{82452}{82574}M.Melbeck demande à parler à monsieur.
+{82617}{82667}Je vais le prendre dans le bureau.
+{82780}{82840}Expliquez-moi tout ça.
+{82859}{82984}J'aime cette sensation|d'être un homme d'affaires !
+{82989}{83051}Soyez rassuré.
+{83051}{83141}Je pense pouvoir|vous rembourser dans deux semaines.
+{83147}{83224}En revendant certains terrains
+{83224}{83286}nous ferons un bénéfice de 100%.
+{83286}{83361}Nous construirons un machin là.
+{83360}{83438}Mais qui est le vendeur ? À quel prix ?
+{83436}{83521}- Qui les achètera ?|- Ce ne sera pas difficile.
+{83540}{83597}Soyez un peu plus mûr.
+{83599}{83669}- Vous me grondez ?|- Vous le méritez.
+{83710}{83773}Je vais au coin ?
+{83842}{83927}Vous agissez mal avec Johnnie.
+{83928}{83988}Mais comment !
+{83986}{84073}- Il sera payé. Il signera les chèques.|- C'est ce que je crains.
+{84072}{84119}Pourquoi ?
+{84134}{84239}Vieux frère, elle dit que tu es cinglé.|C'est ça ?
+{84235}{84325}- J'ai entendu.|- C'est pas très gentil ça.
+{84331}{84408}Va te changer pour dîner.
+{84408}{84468}Il reste avec nous quelques jours.
+{84467}{84537}- Ta chambre est là-haut.|- Je file !
+{84652}{84744}Je t'interdis de te mêler de mes affaires.
+{84755}{84840}J'ai seulement voulu dire que...
+{84858}{84900}Dire quoi ?
+{84901}{84991}Qu'il a tort de te laisser|toutes les responsabilités.
+{84987}{85082}Il faut partager les risques.
+{85082}{85164}Vous n'êtes pas des hommes d'affaires.
+{85175}{85273}- Qu'est-ce que tu sais des affaires ?|- Très peu de choses...
+{85271}{85316}Si Beaky t'avait écoutée
+{85317}{85377}tu ruinais tout mon plan !
+{85375}{85472}- Si tu ne réussis pas ?|- C'est mon affaire.
+{85497}{85555}Je sais ce que je fais.
+{85567}{85667}Je ne laisserai personne s'en mêler.
+{85664}{85689}Compris ?
+{86053}{86093}Bonjour Ouistiti.
+{86103}{86173}Je ne t'ai pas entendu venir.
+{86228}{86313}Tu sais, j'abandonne cette affaire.
+{86311}{86344}Qu'est-ce qui s'est passé ?
+{86345}{86415}- Rien.|- Beaky le sait ?
+{86422}{86485}- Pas encore.|- Mais pourquoi ?
+{86498}{86583}Peut-être que le terrain n'est pas bon.
+{86583}{86670}Peut-être que j'hésite|à risquer l'argent de Beaky.
+{86669}{86744}Peut-être que je suis trop paresseux.
+{86774}{86816}Tu es encore fâché ?
+{86870}{86950}Tu es sûr ? Je n'ai pas dormi de la nuit.
+{86952}{87034}Tu ne m'avais jamais parlé comme ça.|J'ai eu peur...
+{87030}{87070}Peur de quoi ?
+{87083}{87148}Que tu ne m'aimes plus...
+{87158}{87213}Non, je ne suis pas fâché.
+{87220}{87272}Je t'aime très fort.
+{87577}{87665}Quand je joue à ça|je ne fais que des mots de trois lettres.
+{87662}{87717}D, O, U, T, E... Doute.
+{87732}{87814}E, U, X... Douteux.
+{87814}{87859}Je prends.
+{87859}{87919}Je ne vois pas le problème
+{87919}{87996}mais si tu dis qu'on laisse tomber,|laissons tomber.
+{87996}{88036}C'est encore à moi ?
+{88036}{88146}Je ne comprends pas|pourquoi il faut y aller.
+{88141}{88224}Ce n'est pas à moi d'annuler ce projet.
+{88226}{88341}- Tu dois être d'accord.|- Si tu veux annuler, je suis d'accord.
+{88336}{88406}Après tout c'était ton idée.
+{88405}{88498}Je ne vais pas t'en empêcher.
+{88496}{88574}Il faut quand même|que tu y ailles demain matin.
+{88573}{88623}Pourquoi tu insistes ?
+{88628}{88695}J'ai besoin de ton accord.
+{88696}{88796}En voilà un long. M, U... ça n'existe pas.
+{88798}{88831}Il faut un R.
+{88832}{88935}Je n'ai pas envie d'y aller.|Il fait froid et humide.
+{88964}{88994}On irait à quelle heure ?
+{88995}{89020}MEURTRE
+{89021}{89098}Avec I et R, j'aurais MEURTRIER.
+{89119}{89154}Le plus tôt sera le mieux.
+{89153}{89233}À 7 heures. Il y a peu de voitures.
+{89230}{89280}7 heures ? C'est un peu raide.
+{89319}{89411}C'est trop tôt.
+{90834}{90872}Monsieur déjeune ?
+{90877}{90992}Il est parti il y a deux heures|avec M.Thwaite.
+{90991}{91046}- Dans quelle voiture ?|- Celle de M.Thwaite.
+{91523}{91605}Tangmere-sur-mer - 640 hectares|Renseignements - Eustace Dodd & Co.
+{94879}{94949}Mets la prise.
+{95574}{95649}Voyons. Je n'ai été absent|que quelques heures.
+{95649}{95734}- Ça m'a semblé des années.|- Moi aussi !
+{95731}{95766}C'était trois fois rien.
+{95767}{95872}J'ai failli y rester, non ?
+{95878}{95960}- Vous avez failli y rester ?|- Il s'en fallait de peu !
+{95988}{96073}- Tais-toi !|- Racontez-moi.
+{96089}{96174}On était au bord de la falaise,
+{96172}{96217}j'ai vu que le sol était trop crayeux.
+{96218}{96340}J'ai voulu faire une manœuvre,|je ne suis pas très doué.
+{96338}{96425}- Johnnie était avec vous ?|- Non, il était descendu.
+{96429}{96499}N'y pensons plus !
+{96498}{96563}J'étais près du bord.
+{96563}{96608}J'ai failli basculer dans le vide !
+{96608}{96681}Johnnie s'est jeté sur le frein.
+{96680}{96743}Sans lui je me tuais !
+{96750}{96785}Il vous a sauvé !
+{96784}{96886}Au risque d'y rester lui aussi !
+{96886}{96964}Tu n'imagines pas|comme c'est important pour moi.
+{96961}{97033}- Pour toi ?|- Et moi donc !
+{97033}{97123}On fait une virée pour fêter ça ce soir ?
+{97134}{97176}Une tournée de Grands Ducs !
+{97177}{97234}Et ton voyage à Paris ?
+{97249}{97309}C'est vrai,
+{97308}{97388}il faut que j'aille|annuler mes engagements.
+{97394}{97444}Viens avec moi.
+{97445}{97510}Oublies-tu que je suis marié ?
+{97512}{97619}Mais je t'emmène à Londres en voiture.|Nous passerons la soirée ensemble.
+{97618}{97695}- D'accord Ouistiti ?|- Dites oui.
+{97691}{97736}Je crois...
+{97737}{97804}Tu crois qu'il me faut un travail ?
+{97802}{97885}J'ai plus de chances|d'en trouver à Londres.
+{97883}{97941}Laissez-le venir.
+{97941}{98006}Comment je l'en empêcherais ?
+{98044}{98106}Si tu pouvais venir à Paris...
+{98104}{98179}Je t'ai raconté mon dernier voyage ?
+{98178}{98253}C'était très bizarre.|Sur les Champs-Élysées
+{98252}{98317}j'ai rencontré une fille charmante.
+{98317}{98409}On a dîné ensemble|et un peu plus tard...
+{98436}{98496}Je vous demande pardon.
+{98558}{98626}J'ai failli gaffer !
+{98700}{98772}Bientôt de retour - Je t'aime
+{99061}{99119}Un certain inspecteur Hudson
+{99117}{99157}demande monsieur.
+{99155}{99247}Puisqu'il est absent|ils veulent vous parler.
+{99315}{99375}Installez-les dans le bureau.
+{99591}{99631}Veuillez me suivre.
+{99951}{100051}Je suis l'inspecteur Hodson|de la police du comté.
+{100047}{100099}Mon collègue, M.Benson.
+{100207}{100270}M.Aysgarth est en voyage ?
+{100272}{100327}Il est à Londres depuis deux jours.
+{100327}{100407}Vous pourriez peut-être nous renseigner.
+{100406}{100478}Une tasse de thé ?
+{100478}{100533}Nous venons d'en prendre.
+{100541}{100601}Vous connaissez M.Thwaite ?
+{100600}{100658}C'est un de ses amis intimes.
+{100657}{100715}Je ne sais comment vous le dire...
+{100729}{100797}Voulez-vous lire
+{100797}{100837}le journal de cet après-midi ?
+{101222}{101285}UN ANGLAIS EST TROUVÉ MORT
+{101284}{101379}Fin mystérieuse dans une maison à Paris...
+{101375}{101445}Il semble|que M.Gordon Cochrane Thwaite
+{101834}{101924}Excusez-moi. C'est un choc.
+{101965}{102020}On le connaissait si bien.
+{102021}{102088}Désolé, mais la police française
+{102088}{102175}nous a demandé d'enquêter.
+{102174}{102231}M.Thwaite avait des papiers
+{102232}{102319}disant qu'il était associé à votre mari.
+{102420}{102503}Il est mort de quoi ?
+{102510}{102597}Voici ce que nous dit Paris:
+{102799}{102894}"M.Thwaite est arrivé|en compagnie d'un autre Anglais.
+{102893}{102958}"Tous les deux étaient ivres.
+{102957}{103037}"Thwaite a commandé|une bouteille de cognac.
+{103037}{103132}"D'après une des serveuses|travaillant dans ce bar,
+{103130}{103240}"l'ami de Thwaite a demandé|qu'on lui serve de grands verres.
+{103243}{103328}"Apparemment|à la suite d'un pari entre eux,
+{103326}{103426}"Thwaite a rempli un verre|et l'a bu entièrement.
+{103430}{103510}"L'autre homme n'était pas présent|à ce moment-là.
+{103508}{103578}"Il venait de quitter le local.
+{103578}{103675}"La police française ne connaît pas son identité.
+{103679}{103774}"Selon un serveur qui parle un peu anglais
+{103769}{103886}"son nom serait 'Albeam' ou 'Hallby'".
+{103966}{104023}Désolé de vous importuner.
+{104035}{104115}M.Thwaite et votre mari avaient-ils
+{104114}{104169}un ami portant un nom semblable ?
+{104186}{104286}Pouvez-vous nous renseigner|sur cette société ?
+{104296}{104346}Je pense que oui.
+{104359}{104446}Mon mari envisageait|un projet immobilier avec lui,
+{104457}{104550}M.Thwaite était à Paris|pour annuler un emprunt.
+{104555}{104627}Il a dû mourir avant d'avoir pu le faire.
+{104637}{104712}C'est tout Benson ?
+{105271}{105329}M.Aysgarth revient quand ?
+{105329}{105364}Ce soir.
+{105365}{105420}Dites-lui de m'appeler au commissariat.
+{106553}{106668}Il n'est pas allé à Paris !
+{106922}{106984}M.Aysgarth je vous prie.
+{106994}{107041}Il revient quand ?
+{107077}{107130}Il est parti hier matin...
+{107157}{107217}Ça ne fait rien.
+{107799}{107839}Bonjour Ouistiti.
+{108135}{108197}Tu as lu, ce pauvre Beaky...
+{108237}{108292}Je l'aimais bien.
+{108307}{108377}- Vraiment ?|- Oui,
+{108386}{108464}j'aimais cet idiot au grand cœur.
+{108470}{108542}- C'est vrai ?|- Bien sûr.
+{108561}{108638}Après toi c'était l'être le plus cher.
+{108638}{108683}Après moi ?
+{108722}{108770}Pauvre Ouistiti !
+{108803}{108896}Je ne pense qu'à moi et je t'oublie.
+{108894}{108952}Toi aussi tu l'aimais bien.
+{108971}{109029}Je l'aimais beaucoup.
+{109100}{109145}La police est venue.
+{109203}{109235}Qu'est-ce qu'ils voulaient ?
+{109257}{109312}Que tu les aides...
+{109315}{109365}Un télégramme de Paris
+{109366}{109456}parlait d'un Anglais et d'un pari.
+{109454}{109539}Je sais. Les journaux en parlent.
+{109543}{109575}Et puis ?
+{109586}{109651}L'inspecteur demande que tu l'appelles
+{109655}{109750}pour l'aider à identifier l'Anglais.
+{109928}{110018}Tu as parlé de notre projet ?
+{110061}{110143}J'ai dit que Beaky|était parti annuler ses engagements.
+{110152}{110249}J'aurais préféré leur dire moi-même.|C'est tout ?
+{110253}{110288}J'ai dit aussi
+{110288}{110381}que j'attendais ton retour dans la journée.
+{110650}{110735}Le commissariat.
+{110863}{110933}C'est John Aysgarth. Je viens de rentrer.
+{110986}{111088}Oui, nous avons dîné ensemble|mardi au Savoy.
+{111139}{111194}Puis je l'ai accompagné à Croydon.
+{111240}{111312}Je suis resté à Londres|jusqu'à cet après-midi.
+{111331}{111356}À mon club.
+{111525}{111560}Je vous en prie,
+{111561}{111631}si je peux vous aider faites appel à moi.
+{111630}{111670}MEURTRE SUR LA PASSERELLE
+{112142}{112190}Isobel, vous permettez ?
+{112188}{112253}Quelle bonne surprise !
+{112250}{112305}Je vous vois trop rarement.
+{112303}{112338}C'est gentil.
+{112339}{112404}J'ai lu jusqu'à 3 heures du matin.
+{112404}{112506}Votre dernier roman est si prenant|que je devais vous en parler.
+{112504}{112596}C'est le meilleur des compliments !
+{112617}{112670}Vous avez déjà pris votre thé ?
+{112667}{112729}Vous aimez donc|les histoires de meurtres ?
+{112727}{112775}Depuis peu.
+{112775}{112840}Ça vous a vraiment plu ?
+{112837}{112900}J'admire les procédés de votre criminel...
+{112899}{112954}Non, de mon héros !
+{112955}{113012}Mes meurtriers sont des héros.
+{113012}{113102}Pardon de vous interrompre.|Vous admirez son habileté...
+{113099}{113181}Quand il entraîne la victime
+{113180}{113237}sur cette passerelle effondrée
+{113238}{113323}en sachant que la victime|ne sait pas nager.
+{113331}{113436}Je me demande|si c'est réellement un meurtre ?
+{113431}{113549}Moralement oui, sans aucun doute.
+{113554}{113591}Je suppose que oui.
+{113590}{113628}Johnnie en dit quoi ?
+{113626}{113688}On n'en a pas parlé.
+{113688}{113730}Ça l'intéresserait !
+{113731}{113803}La mort de son ami, à Paris, est identique.
+{113823}{113850}Identique ?
+{113851}{113903}Ce cognac c'est ma passerelle !
+{113901}{113956}Seul cet Anglais sait
+{113957}{113997}s'il y a eu meurtre ou accident.
+{113997}{114060}Ce procédé n'est pas nouveau !
+{114077}{114157}- Ça a déjà été fait ?|- Et pas dans un roman !
+{114155}{114180}C'est écrit là.
+{114196}{114288}Richard Palmer a tué comme ça|une de ses victimes.
+{114304}{114334}Il a été pendu ?
+{114335}{114447}<i>Le Procès de Richard Palmer...</i>|où je l'ai mis ?
+{114446}{114526}Ils l'ont arrêté après son sixième meurtre.
+{114523}{114606}Cet imbécile avait changé de méthode.
+{114605}{114675}- C'était un fou.|- Voyons à la lettre T.
+{114675}{114775}S'il s'en était tenu au cognac...|Bonne idée !
+{114771}{114823}J'en parlerai à mon frère.
+{114823}{114920}Il est médecin légiste.
+{114916}{114961}Il me donne souvent des idées.
+{114962}{115059}Ne vous dérangez pas Isobel.|Ça ne fait rien.
+{115073}{115135}Il faut que je me sauve.
+{115135}{115205}Je sais, ce livre est chez vous !
+{115231}{115303}<i>Le Procès de Richard Palmer,</i>|l'histoire de cognac...
+{115303}{115373}John me l'a emprunté il y a 15 jours.
+{115956}{116034}LE PROCES DE RICHARD PALMER
+{116781}{116889}Si tu peux patienter encore
+{116886}{116989}je crois avoir un autre moyen|pour te rembourser ce que je te dois.
+{116985}{117057}J'ai eu de grandes difficultés.
+{117245}{117308}Mme Aysgarth à l'appareil.
+{117307}{117355}Les Assurances Guarantors.
+{117353}{117450}Nous avons tardé à répondre|à sa demande.
+{117449}{117544}Il aura notre réponse par lettre|demain matin.
+{117547}{117595}Je le lui dirai.
+{118192}{118252}Il y a du courrier ?
+{118251}{118344}Des lettres pour monsieur.|Une revue pour madame.
+{118611}{118694}Confidentiel|Les Assurances Guarantors.
+{118764}{118837}Le petit déjeuner et le courrier.
+{118836}{118939}- Des lettres pour moi ?|- Trois.
+{120249}{120284}Bonnes nouvelles ?
+{120286}{120361}Spotty retourne aux Indes.
+{120398}{120438}Quelle vie...
+{120449}{120519}il dit qu'il manque de temps.
+{120540}{120625}Pauvre vieux !
+{120688}{120730}Je prends mon bain le premier.
+{121096}{121191}Il n'y a presque plus de savon.
+{121211}{121286}Prends-en dans le placard.
+{121376}{121466}Nous ne pouvons vous accorder|le prêt de 500 livres que vous sollicitez.
+{121532}{121607}Ce règlement ne peut s'effectuer
+{121606}{121671}qu'en cas de décès de votre femme.
+{121843}{121943}- Tu trembles ?|- J'ai froid.
+{121944}{122019}Je vais te réchauffer.
+{122032}{122107}Tu vas mieux, maintenant ?
+{122128}{122181}Et comme ça ?
+{122294}{122399}- On va où ce soir ?|- Chez Isobel.
+{122744}{122801}Dans votre livre,
+{122801}{122921}un homme entre dans une pièce,|s'enferme à clé, joue du piano
+{122918}{122991}et il est tué par le trou de la serrure.
+{123009}{123104}Pourquoi il s'enferme pour jouer ?
+{123100}{123138}Il joue si mal ?
+{123139}{123177}Voilà mon idée:
+{123177}{123277}une touche du piano|est reliée à un revolver caché
+{123273}{123353}et quand il joue cette note|le tour est joué.
+{123372}{123444}Ça ne me plaît pas ! Vilaine fille !
+{123441}{123514}- Où est le problème ?|- C'est trop compliqué !
+{123512}{123582}Il faut tuer simplement.
+{123582}{123624}N'est-ce pas docteur ?
+{123626}{123706}C'est exact.|Tant qu'on ne se fait pas pincer.
+{123704}{123739}Tu peux t'occuper du vin ?
+{123784}{123826}Tu ferais comment ?
+{123824}{123904}Je ne sais pas.
+{123904}{123969}Je m'arrangerais|pour qu'on ne me soupçonne pas.
+{123968}{124048}- Par exemple ?|- Le poison.
+{124054}{124137}J'utiliserais un poison connu|comme l'arsenic.
+{124260}{124358}J'ai examiné le cadavre d'un homme|quatre ans après,
+{124356}{124461}il restait du poison|dans les ongles et les cheveux.
+{124462}{124527}Mais le coupable a été pris ?
+{124603}{124635}Je ne crois pas.
+{124666}{124741}À cet instant même|des centaines de personnes tuent
+{124740}{124813}et en sont en liberté.
+{124811}{124841}Des milliers !
+{124843}{124913}Tu crois qu'ils sont heureux ?
+{124912}{124975}Je ne sais pas. Pourquoi pas ?
+{124972}{125014}La peur d'être découverts.
+{125013}{125138}Le moindre indice peut les trahir.
+{125171}{125279}Il doit y avoir des poisons|qui ne laissent aucune trace.
+{125366}{125406}Votre opinion docteur ?
+{125434}{125494}J'ai eu un cadavre l'autre jour...
+{125494}{125591}- Raconte.|- Ne détournez pas la conversation.
+{125590}{125690}Vous êtes de mèche vous deux.|Ce poison existe ?
+{125686}{125736}Absolument pas.
+{125745}{125813}Vous le connaissez ? Avouez !
+{125820}{125867}Jamais !
+{125865}{125945}Enfin ! Ai-je l'air d'un assassin ?
+{125945}{126015}Intéressant ! Qu'est-ce que tu en dis Isy ?
+{126014}{126119}Elle prétend pouvoir deviner|qui est capable de tuer.
+{126146}{126223}Sans me vanter, je le sens.
+{126223}{126270}Pourrais-je tuer quelqu'un ?
+{126270}{126345}Toi tu es absolument inoffensif !
+{126344}{126444}Et Mme Aysgarth ?|Cette lueur étrange dans le regard...
+{126440}{126533}Non ! Elle n'aurait|pas plus de courage que moi.
+{126536}{126616}Quant à lui, regardez son expression.
+{126613}{126701}Il prend un air mystérieux.|Je ne marche pas !
+{126699}{126787}Vous êtes incapable|de tuer qui que ce soit !
+{126857}{126910}Je suis d'accord.
+{127013}{127078}Tu fermes ? Et Ethel ?
+{127095}{127175}C'est son jour de sortie.
+{127178}{127218}Et la cuisinière ?
+{127220}{127267}Mais voyons,
+{127267}{127317}elle est en vacances !
+{128158}{128258}Tu trembles encore ? Tu as pris froid ?
+{128254}{128299}Oui, je crois.
+{128299}{128367}Mets-toi au lit tout de suite.
+{128364}{128434}- Enlève ton manteau.|- Ne fais pas ça.
+{128472}{128550}Ça me rappelle notre premier rendez-vous.
+{128548}{128623}Tu refusais que j'ouvre ton col.
+{128623}{128663}Tu te souviens ?
+{128726}{128776}Je n'oublierai jamais.
+{128855}{128930}Va vite te déshabiller chérie.
+{128930}{129040}Je ne sais pas pourquoi,|je voudrais être seule ce soir.
+{129040}{129110}Ça t'ennuierait de dormir à côté ?
+{129174}{129219}Et comment !
+{129284}{129364}J'ai très mal dormi ces temps-ci.
+{129366}{129403}Je comprends !
+{129409}{129494}Tu dormais bien|quand je n'étais pas là et tu...
+{129524}{129611}Puisque ça te fait plaisir. Bonne nuit.
+{130259}{130299}Tu te sens mieux ?
+{130307}{130347}Oui, merci.
+{130411}{130446}Comment allez-vous ?
+{130444}{130479}Bien.
+{130509}{130574}J'ai donc dormi toute la journée ?
+{130585}{130650}Le frère d'Isobel t'a donné un somnifère.
+{130647}{130702}Tu fais une dépression nerveuse.
+{130717}{130764}Tu nous inquiètes.
+{130765}{130815}Rien de grave. Bertrand vous a examinée.
+{130814}{130914}D'habitude il ne soigne pas les vivants|mais il s'y entend.
+{130913}{130980}Il veut que vous dormiez.
+{130987}{131077}Je vais chercher ton dîner.
+{131174}{131229}Quel mari exceptionnel !
+{131230}{131257}N'est-ce pas ?
+{131258}{131305}Je peux fumer ?
+{131306}{131346}Vous êtes là depuis cet après-midi ?
+{131346}{131406}Depuis qu'il m'a appelée.
+{131407}{131447}Rétablissez-vous vite:
+{131447}{131520}si je reste seule avec John,
+{131519}{131557}ma carrière est fichue !
+{131555}{131642}- Il flirte ?|- Mais non !
+{131642}{131704}Il me soutire tous mes secrets d'auteur.
+{131704}{131784}Il doit écrire en cachette !
+{131816}{131856}Quels secrets ?
+{131855}{131908}Il sait me faire parler !
+{131905}{131977}Je lui raconte tout !
+{131989}{132034}Qu'est-ce que vous lui avez dit ?
+{132035}{132137}Bertrand en est furieux.
+{132150}{132250}Mais vous pouvez résister à Johnnie ?
+{132320}{132368}Il s'agit de ce poison ?
+{132366}{132458}Ne m'en parlez pas. J'en meurs de honte.
+{132457}{132562}Je ne suis qu'une sotte !|S'il écrit un roman là-dessus avant moi
+{132559}{132607}je l'aurai bien mérité !
+{132605}{132690}C'est un produit courant,
+{132698}{132746}à la portée de tout le monde.
+{132744}{132851}Une minute après l'avoir ingéré|la victime n'est plus !
+{132847}{132922}Et ça ne laisse aucune trace.
+{132965}{133030}Est-ce qu'on souffre ?
+{133029}{133067}Pas du tout !
+{133067}{133157}J'imagine même que c'est agréable.
+{135875}{135940}Tu m'en veux encore ?
+{135940}{136015}Non. Je ne me sens pas bien, c'est tout.
+{136013}{136098}Tu te sentiras mieux chez ta mère ?
+{136097}{136182}C'est un hasard,|elle m'a téléphoné ce matin.
+{136179}{136244}Il devait être bien tôt !
+{136243}{136326}Elle se lève à l'aube.
+{136323}{136383}Je lui ai dit que j'étais tendue
+{136382}{136465}et sans le vouloir j'ai accepté d'y aller.
+{136471}{136531}Je vais sortir la voiture.
+{136531}{136604}- J'irai seule.|- Je te conduirai.
+{138101}{138156}Je prends le raccourci !
+{138532}{138582}Qu'est-ce qui te prend ?
+{138580}{138680}Arrête !
+{138681}{138758}En voilà assez !|Tu vas me dire ce que tu as !
+{138754}{138819}Tu m'interdis ta chambre,|tu vas chez ta mère.
+{138819}{138894}Tu es ma femme !
+{138893}{138933}Tu as failli nous tuer
+{138934}{139049}en m'empêchant de fermer la portière.
+{139080}{139140}Si tu me détestes, tu ne me verras plus !
+{139157}{139212}Où tu vas ?
+{139222}{139299}- Je te conduis chez ta mère.|- Et puis ?
+{139298}{139358}Ne t'inquiète pas. Tu ne me verras plus.
+{139391}{139446}Johnnie, tu vas...
+{139447}{139529}Cette histoire de poison d'Isobel,
+{139528}{139575}qu'est-ce que tu voulais faire ?
+{139574}{139627}Tu voulais te tuer ?
+{139682}{139752}C'est une lâcheté, je sais.
+{139749}{139814}Mais il y a ces dettes, la prison.
+{139813}{139876}L'argent que tu dois à Melbeck ?
+{139878}{139993}Je pensais le rembourser|quand je suis parti avec Beaky.
+{139991}{140039}- À Paris ?|- Non, à Liverpool,
+{140038}{140126}je voulais emprunter sur ton assurance.
+{140130}{140185}Tu étais à Liverpool...
+{140182}{140240}Tu n'es pas allé à Paris ?
+{140238}{140268}Non !
+{140267}{140362}Sinon Beaky n'aurait pas fait ce pari idiot !
+{140384}{140489}Si j'avais su !|C'est autant ma faute que la tienne.
+{140502}{140589}Je pensais à moi,|pas à ce que tu subissais.
+{140585}{140660}Je n'ai pas su t'aider
+{140657}{140737}et tu avais honte de te confier à moi.
+{140734}{140784}Si j'avais su comprendre...
+{140849}{140924}Mais maintenant tout va changer !
+{140943}{141020}Pas moi Lina. Je ne suis bon à rien.
+{141038}{141128}Revenons chez nous|et reprenons tout à zéro.
+{141125}{141192}Je vais te conduire chez ta mère.
+{141192}{141272}Ça va marcher. Je t'en prie !
+{141275}{141328}Ce n'est pas ton problème.
+{141337}{141390}Si ! Ne me repousse pas.
+{141390}{141483}Rentrons à la maison, je t'en prie.

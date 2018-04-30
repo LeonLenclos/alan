@@ -1,0 +1,891 @@
+{33}{64}pour t'apprendre des trucs
+{72}{140}- Lâche-le !|- Puceau !
+{170}{201}T'es trop con !
+{208}{277}On ira à la Nouvelle-Orléans.|Je t'arrangerai ça, tête de nœud
+{288}{316}Lâche-le
+{322}{423}- Le seul nœud, c'est toi|- Tu saurais pas t'en servir
+{433}{466}Ça suffit
+{473}{504}Pauvre puceau
+{510}{546}Chef, ça suffit
+{562}{586}Laisse tomber
+{603}{655}Lâche-le, tu m'as entendu ?
+{675}{704}Tais ta gueule
+{750}{803}On est pas dans la biffe,|t'es matelot
+{820}{868}Vire-moi ce galure de biffin
+{875}{947}et arrête de fumer cette merde
+{1058}{1111}C'est quoi, cette peinture ?
+{1118}{1146}Du camouflage
+{1152}{1174}Comment ça ?
+{1181}{1224}Pour qu'on me voie pas
+{1243}{1307}Réveille-toi, y a du boulot
+{1728}{1759}Sampan à bâbord
+{1778}{1852}Sampan à bâbord. On jette un œil
+{1882}{1966}Clean, le M-60. Chef, un M-16
+{1993}{2041}J'ai dit le M-60 !
+{2110}{2144}Qu'est-ce qu'on fait ?
+{2188}{2231}Un contrôle de routine
+{2270}{2325}Oubliez la routine, laissez-les
+{2347}{2426}Ils ravitaillent souvent l'ennemi.|Je vais vérifier
+{2453}{2554}Ma mission est prioritaire.|Vous seriez pas ici sans moi
+{2578}{2652}Pour l'instant,|vous n'êtes que mon passager
+{2680}{2735}- Paré, Lance|- L'amarre
+{2762}{2810}Allez, on les aborde
+{3140}{3198}Fais-les sortir de là-dessous
+{3360}{3430}Magne-toi, enfoiré, can couc
+{3480}{3521}- Toi aussi|- Ouvre l'œil
+{3542}{3564}Entendu
+{3863}{3887}C'est bon
+{3898}{3936}C'est bien eux, ça va
+{3943}{3974}Fouille le bateau
+{4005}{4050}- Y a rien|- Fouille-le !
+{4077}{4104}Des paniers
+{4118}{4163}des bananes, y a rien !
+{4186}{4214}Va fouiller
+{4220}{4278}Rien qu'une chèvre, du poisson
+{4303}{4349}- des légumes|- Va à bord !
+{4356}{4387}Mais y a rien !
+{4430}{4454}Bougez-vous de là !
+{4496}{4546}Des cochons, des mangues
+{4553}{4599}- Dans le sac ?|- Du riz, putain !
+{4605}{4629}Regarde dedans
+{4646}{4670}Du poisson
+{4693}{4736}Des noix de coco, du riz
+{4743}{4772}Voilà le riz
+{4800}{4822}Ce panier ?
+{4828}{4871}Sors de là
+{4920}{4949}Vérifie ce panier
+{4970}{4994}Ta gueule !
+{5003}{5050}- Y a rien là-dedans|- Les boîtes ?
+{5077}{5116}Ce bidon rouillé
+{5131}{5186}Du riz, putain, c'est tout.|Y a rien
+{5193}{5255}Le bidon jaune.|Elle était assise dessus
+{5456}{5489}Je vais vous crever !
+{5498}{5539}Enculés de niacoués ! Enfoirés !
+{5760}{5803}Faut tous les flinguer
+{5813}{5845}Enfoirés de merde !
+{5850}{5886}Halte au feu !
+{5893}{5941}Faut tous les crever !
+{5955}{6020}Pourquoi pas ? Bordel de merde !
+{6143}{6164}Ça va
+{6365}{6408}- Ça va, Lance ?|- Putain, merde !
+{6433}{6474}T'as vu ce qu'elle planquait ?
+{6483}{6502}Ça va ?
+{6508}{6553}Pourquoi elle courait ?
+{6641}{6665}Un putain de chiot !
+{6773}{6795}Donne-le-moi
+{6805}{6865}- Donne-moi ce clebs|- Tu l'auras pas, sale con !
+{6983}{7046}Une mangue aussi, tu la veux ?
+{7053}{7115}Derrière toi, elle bouge,|elle est vivante
+{7131}{7200}Derrière toi, elle bouge,|vérifie
+{7268}{7330}Elle est pas morte.|Clean, va l'aider
+{7368}{7408}Doucement
+{7428}{7464}On se calme
+{7483}{7538}- Attends|- Elle respire ?
+{7556}{7637}Elle est blessée, elle saigne
+{7648}{7706}On va l'amener aux Vietnamiens
+{7714}{7745}Vous dites ?
+{7751}{7813}On l'amène chez les alliés,|mon capitaine
+{7823}{7845}Ecarte-toi
+{7853}{7874}Le règlement...
+{8220}{8261}Je vous avais dit|de pas vous arrêter
+{9721}{9800}C'était comme ça|qu'on se supportait
+{9821}{9902}On les criblait de balles|et on leur filait un pansement
+{9953}{9989}C'était un mensonge
+{10011}{10057}Plus j'en voyais
+{10075}{10128}plus je haïssais les mensonges
+{10179}{10258}Ils me regarderaient|plus jamais comme avant
+{10288}{10394}Mais je comprenais mieux Kurtz|qu'en lisant son dossier
+{10528}{10627}Do Lung était|le dernier avant-poste de l'armée
+{10730}{10781}Après, il n'y avait plus que Kurtz
+{10901}{10929}Qu'est-ce que t'en dis ?
+{10938}{10955}C'est beau
+{11011}{11081}Qu'est-ce que t'as ? T'es bizarre
+{11121}{11183}Tu sais, l'acide que je gardais
+{11211}{11232}Je l'ai pris
+{11238}{11272}T'as pris de l'acide !
+{11283}{11315}T'es malade
+{11513}{11563}Emmenez-moi !
+{11953}{11996}Tu vas y avoir droit
+{12198}{12267}Y a-t-il un capitaine Willard|à bord ?
+{12304}{12330}Qui êtes-vous ?
+{12336}{12374}Lieutenant Carlson
+{12381}{12402}Eteignez ça
+{12449}{12552}Nha Trang vous envoie ça.|Je vous attends depuis trois jours
+{12563}{12599}Le courrier du bateau
+{12608}{12644}Heureux de vous voir
+{12653}{12684}- Pourquoi ?|- Je peux m'en aller
+{12696}{12725}Si je trouve un moyen
+{12830}{12874}C'est le trou du cul du monde ici
+{13011}{13045}Où allez-vous ?
+{13050}{13127}Chercher du gasoil et des infos
+{13156}{13195}Reprenez-moi de l'autre côté
+{13204}{13242}Un homme avec lui
+{13251}{13275}J'y vais
+{13299}{13328}J'en ai envie
+{14594}{14642}Réveille-toi, mec !
+{14656}{14687}Où est le commandant ?
+{14694}{14758}T'y es venu tout droit
+{14809}{14843}Viens ici
+{14898}{14958}Où est l'officier commandant ?
+{14973}{15002}A Beverly Hills
+{15009}{15028}Quoi ?
+{15039}{15146}Là-bas, y a un bunker|qu'on appelle Beverly Hills
+{15156}{15219}Où vous croyiez que c'était ?
+{16059}{16124}- Tu me marches dessus !|- Je te croyais mort
+{16131}{16170}Tu te gourais, merde
+{16272}{16358}Fallait pas déconner avec moi.|Gros malin
+{16379}{16410}Sur quoi tirez-vous ?
+{16416}{16473}Des niacs, putain, qu'est-ce que...
+{16488}{16572}Pardon, mon capitaine.|Des niacs, mais je les ai tués
+{16581}{16626}Mon cul, oui ! Ecoute
+{16671}{16738}Merde, il appelle ses potes !|Balance une fusée
+{16954}{17000}Tu te crois malin, hein ?
+{17009}{17033}Ils sont morts
+{17041}{17103}Y a un survivant sous les cadavres
+{17114}{17145}Qui est l'officier commandant ?
+{17181}{17205}C'est pas vous ?
+{17266}{17297}Tu te crois malin ?
+{17304}{17393}Je vais t'en mettre plein le cul,|tu vas voir !
+{17456}{17504}Y a que des cadavres
+{17599}{17640}Va chercher la Fumette
+{17903}{17944}La Fumette, y a des niacs|sur les barbelés
+{17982}{18010}Tu l'entends ?
+{18066}{18107}Enculé, G.I. !
+{18129}{18158}On va l'exploser
+{18239}{18301}GI, enculé !
+{18529}{18569}Tu l'entends, près des barbelés ?
+{18646}{18690}Je te tue GI !
+{18696}{18730}Une éclairante ?
+{18828}{18922}Il est près. Il est tout près
+{19759}{19790}Enfoiré
+{19819}{19848}Soldat !
+{19959}{19997}Vous savez qui commande ici ?
+{20444}{20495}Putain de merde !
+{20608}{20678}Deux mecs se sont fait exploser|sur le pont
+{20687}{20747}Du calme. Tout ira bien
+{20849}{20865}C'est quoi ?
+{20874}{20912}- Le courrier|- Plus tard !
+{20919}{20950}Surveille les arbres
+{21012}{21069}Pas de gasoil mais des munitions
+{21079}{21108}En route
+{21119}{21155}Vous avez trouvé le commandant ?
+{21164}{21209}Y en a pas, ici
+{21264}{21307}Allons-y, en route
+{21316}{21350}Où je vais ?
+{21497}{21518}Vous le savez
+{21567}{21605}Ça dépend plus que de vous
+{21644}{21685}Vous voulez continuer ?
+{21694}{21780}C'est comme ce pont|qu'on reconstruit sans arrêt
+{21789}{21844}pour faire plaisir aux généraux
+{21869}{21888}Pensez-y
+{21974}{22036}- Rien à branler !|- Remontez la rivière
+{22179}{22203}A la poupe
+{22234}{22253}Paré, Clean
+{22259}{22278}En avant
+{23639}{23668}A qui ce colis ?
+{23674}{23712}T'en as un autre
+{23722}{23774}Attends, c'est tout ?
+{23784}{23816}Pour toi, oui
+{23839}{23899}Mr. L. B. Johnson, tenez
+{23934}{23968}C'est le pied !
+{23974}{24010}Je l'attendais celle-là
+{24016}{24048}J'en ai un autre
+{24069}{24093}Un colis d'Eva
+{24100}{24140}"Lance, je vais bien
+{24169}{24221}"Sue et moi|on s'est fait un trip à Disneyland"
+{24274}{24315}Je retourne Chez Antoine
+{24329}{24394}Comment je pourrais oublier...|magnifique
+{24422}{24511}"Existe-t-il un seul endroit|comme Disneyland ?"
+{24559}{24588}Bien sûr, ici
+{24706}{24809}"Nous devons vous informer|d'un fait nouveau
+{24824}{24898}"Voici quelques mois,|un homme vous a précédé
+{24927}{25016}"On présume qu'il opère|avec le colonel Kurtz
+{25059}{25138}"Saïgon l'a déclaré|disparu au combat
+{25166}{25200}"On le supposait mort
+{25209}{25281}"mais on a intercepté|une lettre à sa femme"
+{25295}{25364}Vends tout. Oublie-moi.|Je reviendrai jamais
+{25384}{25427}Le capitaine Richard Colby
+{25479}{25517}Il était avec Kurtz
+{25556}{25583}Disneyland !
+{25606}{25664}Putain, c'est encore mieux ici
+{25672}{25717}"Charles Manson
+{25724}{25796}"a fait massacrer tout le monde|en signe de protestation"
+{25824}{25843}Bizarre, non ?
+{25894}{25923}Psychédélique, regardez !
+{25930}{25961}Arrête ça
+{25967}{26007}Une cassette de ma mère
+{26019}{26055}Vive l'arc-en-ciel !
+{26082}{26115}Reniflez ça
+{26132}{26182}Eva m'imagine pas au Viêt-nam
+{26202}{26274}Elle me voit à la maison,|devant la télé
+{26364}{26400}Attrape !
+{26424}{26463}Je suis si contente...
+{26470}{26551}Eva se demande|si notre relation survivra
+{26562}{26605}Moi, à 20 000 bornes de là
+{26612}{26689}j'aimerais bien survivre|tout court !
+{26710}{26786}Je n'en dirais pas autant|de tes copains
+{26797}{26909}Si la cassette est bonne, je dirai|à papa de t'en envoyer une
+{27409}{27423}Là-bas !
+{28082}{28120}Va voir Clean !
+{28127}{28166}Clean est touché !
+{28200}{28238}Où est le chien ?
+{28264}{28305}Occupe-toi de Clean
+{28314}{28388}Faut retourner pour le chien
+{28404}{28507}Je rêvais d'avoir|d'autres enfants
+{28534}{28577}Tu peux pas mourir, enfoiré
+{28635}{28738}Alors j'espère que bientôt
+{28757}{28815}pas trop tôt, mais bientôt
+{28822}{28906}j'aurai plein|de petits-enfants à gâter
+{28914}{28994}pour que ta femme|puisse m'en vouloir
+{29050}{29103}Tante Jessie et mémé
+{29109}{29181}viendront fêter ton retour
+{29189}{29268}Grand-mère et papa veulent|t'offrir une voiture
+{29277}{29363}mais c'est un secret
+{29395}{29457}En tout cas, fais ce qu'il faut
+{29465}{29515}reste à l'abri des balles
+{29522}{29613}et reviens-nous entier à la maison
+{29622}{29672}parce que nous t'aimons fort
+{29679}{29717}Ta maman qui t'aime
+{31973}{31997}Attendez
+{32067}{32108}Les jumelles
+{32442}{32486}Prends un M-16
+{32565}{32618}Chef, le 60
+{33157}{33176}Putain !
+{34837}{34866}Couvre le capitaine
+{34905}{34939}Couvre le capitaine !
+{35359}{35393}C'est des Français !
+{35457}{35517}La ferme ! Ramasse ton arme !
+{36413}{36454}Ça va. Posez les armes
+{37785}{37843}On a perdu un de nos hommes
+{37912}{38016}Nous autres Français, honorons|toujours les morts de nos alliés
+{38082}{38118}Soyez les bienvenus
+{38205}{38243}Je m'appelle Hubert Desmarais
+{38275}{38330}Cette plantation|appartient à ma famille
+{38350}{38410}Il en est ainsi|depuis soixante-dix ans
+{38452}{38517}et il en sera ainsi|jusqu'à notre mort à tous
+{41683}{41757}Mon capitaine,|voici le drapeau de Tyrone Miller
+{41768}{41820}au nom de la nation reconnaissante
+{42307}{42370}C'est délicieux, non ?|Le vin, les sauces
+{42380}{42454}J'en reviens pas.|Je peux parler au chef ?
+{42465}{42513}Il parle seulement vietnamien
+{42523}{42609}Sans blague ? Un cuisinier pareil|qui parle pas français ?
+{42653}{42687}Le chef est niac
+{43466}{43545}C'est de Baudelaire.|Un poème cruel pour des enfants
+{43556}{43649}mais utile|parce que la vie est parfois cruelle
+{43686}{43717}Voyez vous-même
+{43810}{43856}Attaques repoussées par la famille
+{43863}{43896}Pendant cette guerre-ci
+{43913}{44013}Viêt-công, cinquante-huit.|Nord-Vietnamiens, douze
+{44038}{44090}Sud-Vietnamiens, onze
+{44105}{44151}Américains, six ?
+{44208}{44258}Il peut y avoir eu des erreurs
+{44776}{44819}Je te présente le capitaine Willard
+{44848}{44877}Mme Sarrault
+{45556}{45623}Pardon, mon capitaine.|Une anecdote parisienne
+{45631}{45698}Pendant la guerre, les restrictions,|les gens sont attablés
+{45706}{45775}Un silence,|quelqu'un dit "Un ange passe"
+{45788}{45850}et un autre : "Mangeons-le"
+{46046}{46120}Combien de temps|tiendrez-vous ici ?
+{46130}{46166}A tout jamais...
+{46193}{46227}Non, je voulais dire
+{46273}{46311}Quand rentrerez-vous chez vous,|en France ?
+{46403}{46432}C'est ici, chez nous
+{46446}{46472}Tôt ou tard, vous...
+{46545}{46591}Vous ne comprenez pas|notre mentalité
+{46598}{46636}Celle de l'officier français
+{46658}{46709}On a perdu la deuxième Guerre mondiale
+{46715}{46778}Je dis pas que vous avez gagné,|mais on a perdu
+{46840}{46903}A Diên Biên Phû, on a perdu.|En Algérie, on a perdu !
+{46910}{46956}En Indochine, on a perdu !
+{46971}{47031}Mais ici, on perdra pas !
+{47048}{47099}Cette terre, nous la garderons
+{47114}{47152}Jamais on ne la perdra ! Jamais !
+{47298}{47334}Les Américains
+{47375}{47469}En... 1945... c'est ça...
+{47491}{47536}après la guerre du Japon
+{47561}{47590}le président Roosevelt
+{47595}{47672}ne voulait pas que la France|reste en Indochine
+{47718}{47737}Alors...
+{47765}{47828}vous nous avez implanté|le Viêt-minh
+{47878}{47900}Que veut-il dire ?
+{47906}{47982}C'est vrai. Les Américains|ont inventé le Viêt-công
+{48066}{48117}Vous avez remplacé les Français
+{48131}{48176}et le Viêt-minh vous combat
+{48185}{48252}Que pouvez-vous faire ? Rien
+{48261}{48300}Absolument rien
+{48314}{48371}Les Vietnamiens|sont très intelligents
+{48378}{48423}Les Russes veulent les aider ?
+{48436}{48501}"Passez la monnaie.|On est communistes"
+{48509}{48557}"Les Chinois nous arment.|On est tous frères"
+{48566}{48606}Ils détestent les Chinois !
+{48620}{48707}Ils détestent moins les Américains|que les Russes et les Chinois
+{48733}{48829}S'ils deviennent communistes,|ils resteront vietnamiens avant tout
+{48838}{48893}Les Américains|comprendront jamais ça
+{48924}{49027}Qui sait, à l'avenir, on s'arrangera|peut-être avec le Viêt-minh
+{49046}{49082}Tu comprends donc pas ?
+{49091}{49151}Le Viêt-công dit "Allez-vous-en !"
+{49158}{49215}C'est fini pour les blancs,|l'Indochine
+{49223}{49295}Français, Américains, ça change rien
+{49305}{49382}"Dehors !" Ils veulent vous oublier.|Regardez
+{49446}{49474}Regardez, c'est vrai
+{49498}{49515}Un œuf
+{49586}{49622}Le blanc est parti
+{49654}{49678}mais le jaune
+{49688}{49712}est resté !
+{49896}{49983}A Saïgon, j'ai parlé|avec un de vos hommes politiques
+{49990}{50031}Il m'a bien expliqué
+{50066}{50136}Hier la Corée,|aujourd'hui le Viêt-nam
+{50144}{50201}demain la Thaïlande, les Philippines
+{50223}{50259}ensuite, peut-être l'Europe
+{50351}{50403}Regardez la Tchécoslovaquie
+{50411}{50488}Avant la guerre de 39,|les Américains savaient déjà !
+{50496}{50553}Ils refusent que cette saloperie|s'empare du monde !
+{50626}{50681}Tous les blancs, c'est de la merde !
+{50688}{50731}Ils se battent pour la liberté
+{50741}{50786}La liberté ? C'est du baratin
+{50799}{50861}Baratin français. Baratin américain
+{50874}{50917}Diên Biên Phû, c'était un piège
+{50933}{51012}Tous les soldats savaient|qu'ils étaient déjà morts
+{51058}{51094}Diên Biên Phû, vous connaissez ?
+{51203}{51234}Vous ne savez rien !
+{51246}{51268}Pas vraiment
+{51273}{51343}Diên Biên Phû|était une erreur militaire
+{51351}{51401}Une erreur ? Une erreur volontaire !
+{51411}{51435}Volontaire !
+{51504}{51585}Tous les soldats savaient,|on savait qu'on allait mourir
+{51609}{51666}Les généraux croyaient|impossible que les Viets
+{51674}{51734}hissent de l'artillerie|dans la montagne
+{51741}{51767}Ils l'ont fait
+{51783}{51853}et ils ont attendu|la saison des pluies
+{51876}{51907}Quand il pleut
+{51916}{51968}aucun avion ne passe plus
+{51994}{52042}Nos paras ont sauté de 90 mètres !
+{52049}{52121}Rendez-vous compte !|90 mètres ! 70 mètres !
+{52128}{52186}Aucune armée au monde|ne peut faire ça !
+{52208}{52278}Ils l'ont fait|pour mourir avec leurs camarades
+{52443}{52494}L'armée française a été sacrifiée
+{52501}{52553}par des politiciens,|à l'abri chez eux
+{52566}{52628}Ils ont mis l'armée|dans une situation impossible
+{52661}{52738}Les étudiants manifestaient à Paris
+{52747}{52797}Ils ont poignardé|les militaires dans le dos
+{52806}{52890}Un militaire|dégoupillait une grenade, rien
+{52899}{52947}il en tombait un bout de papier
+{53044}{53070}"On est pour les Viets"
+{53086}{53110}Des traîtres !
+{53128}{53174}Des traîtres communistes en France !
+{53286}{53327}Les Français, c'est de la merde
+{53371}{53419}Tout le monde s'en fout. Personne...
+{53486}{53568}Pourquoi vous tirez pas|la leçon de nos erreurs ?
+{53589}{53663}Avec votre armée, votre puissance,|vous pourriez gagner
+{53741}{53772}Vous pouvez gagner
+{53861}{53940}Je suis sûr|qu'on pourrait s'arranger ici
+{53949}{53992}J'en suis sûr
+{53999}{54063}J'ai jamais fait de mal|aux gens d'ici
+{54071}{54134}Les communistes français|ne sont pas des traîtres
+{55091}{55190}Nous pouvons rester.|Je sais que nous pouvons rester
+{55289}{55363}Vous savez,|on a toujours aidé les gens
+{55371}{55414}On travaille avec...
+{55809}{55895}Vous voyez, quand mon grand-père
+{55942}{56006}et le père de mon oncle sont arrivés
+{56061}{56092}il n'y avait rien
+{56106}{56128}Rien
+{56151}{56204}Les Vietnamiens n'étaient rien
+{56253}{56301}Nous avons travaillé dur
+{56316}{56343}très dur
+{56364}{56457}pour faire venir le caoutchouc|du Brésil et l'implanter ici
+{56482}{56546}Nous avons travaillé|avec les Vietnamiens
+{56577}{56673}pour bâtir quelque chose|à partir de rien
+{56709}{56800}Alors quand vous me demandez|pourquoi nous voulons rester
+{56836}{56930}Nous voulons rester|parce que ça nous appartient
+{56947}{57004}C'est la cohésion de notre famille
+{57031}{57067}Nous nous battons pour ça !
+{57121}{57167}Alors que vous, les Américains
+{57191}{57311}vous vous battez pour rien,|rien du tout !
+{57496}{57527}Désolé, mon capitaine
+{57552}{57609}Je verrai si vos hommes|ont besoin d'aide
+{57616}{57654}pour réparer votre bateau
+{57668}{57745}et vous permettre|de continuer votre guerre
+{58599}{58662}Il ne faut pas leur en vouloir,|capitaine
+{58706}{58754}Nous avons beaucoup perdu, ici
+{58791}{58865}Hubert, sa femme et deux fils
+{58976}{59027}et moi, mon mari
+{59167}{59198}Je comprends
+{59212}{59265}Vous êtes fatigué de la guerre
+{59314}{59369}Je le vois sur votre visage
+{59424}{59512}Les soldats de notre guerre|avaient le même regard
+{59561}{59617}Nous les appelions|les soldats perdus
+{59814}{59871}Si vous voulez,|nous avons du cognac
+{60044}{60114}Il faut que je m'occupe|de mes hommes et...
+{60294}{60359}La guerre sera encore là demain
+{60614}{60647}Vous avez raison
+{60859}{60921}J'ai vu que vous ne buviez pas|de vin pendant le dîner
+{60952}{61016}Je n'en bois pas
+{61097}{61190}J'aime le cognac|mais je n'en ai pas envie, merci
+{61292}{61361}Alors je boirai seule
+{61607}{61681}Vous rentrerez en Amérique|après la guerre ?
+{61819}{61899}Alors votre patrie est ici,|comme nous
+{62319}{62415}Savez-vous pourquoi on ne se baigne|jamais deux fois dans la même rivière ?
+{62512}{62555}Parce qu'elle coule sans cesse
+{62577}{62658}C'était moi qui préparais|l'opium pour mon mari
+{62827}{62935}C'était sa morphine|pour les blessures de son cœur
+{63017}{63108}Il rageait, il pleurait.|Mon soldat perdu
+{63197}{63235}Et je lui disais
+{63262}{63343}"Il y a deux hommes en toi,|tu ne le vois pas ?
+{63362}{63443}"Celui qui tue et celui qui aime"
+{63500}{63540}Et il me disait
+{63559}{63653}"Je ne sais pas si je suis|un animal ou un dieu "
+{63729}{63770}Mais vous êtes les deux
+{64779}{64813}Vous en voulez encore ?
+{64954}{65036}Tout ce qui compte,|c'est que vous soyez vivant
+{65085}{65135}Vous êtes vivant, capitaine
+{65235}{65268}C'est la vérité
+{67047}{67124}Il y a deux hommes en vous,|vous ne voyez pas ?
+{67160}{67201}Celui qui tue
+{67227}{67274}et celui qui aime
+{67962}{67998}On voit rien
+{68004}{68031}On s'arrête
+{68037}{68090}Vous n'y êtes pas autorisé
+{68097}{68152}J'arrête mon bateau
+{68182}{68216}Je ne risque plus de vies
+{68222}{68294}C'est moi qui commande,|nom de Dieu !
+{68342}{68387}Tu vois quelque chose ?
+{68444}{68497}Pourquoi ils attaquent pas ?
+{68954}{68976}Attention, là
+{69037}{69069}Une souche
+{69147}{69180}Le M-50
+{69187}{69226}Il était proche
+{69280}{69323}Vraiment proche
+{69375}{69437}Je ne le voyais pas|mais je le sentais
+{69444}{69552}comme si le bateau était aspiré,|que l'eau retournait à la jungle
+{69625}{69663}Quoiqu'il arrive
+{69684}{69728}ce ne serait pas ce qu'on disait
+{69734}{69761}à Nha Trang
+{69892}{69916}Des flèches
+{69922}{69939}Feu !
+{70010}{70051}Ouvre le feu !
+{70427}{70473}Chef, ça va, halte au feu !
+{70482}{70513}C'est des jouets !
+{70530}{70566}Arrêtez. Silence !
+{70577}{70613}Dites-leur d'arrêter
+{70643}{70703}C'est des bouts de bois.|Pour nous faire peur
+{70709}{70736}Silence !
+{70772}{70847}Vous nous avez mis dans la merde|et vous êtes paumé
+{70865}{70884}c'est ça ?
+{70897}{70924}C'est ça ?
+{70963}{70994}Espèce de salaud !
+{71060}{71096}Lance, prends la barre !
+{71130}{71183}Bande de sauvages, montrez-vous !
+{71707}{71741}Une lance
+{73652}{73717}Ma mission est|d'entrer au Cambodge
+{73732}{73826}Un colonel est devenu fou,|je dois le tuer
+{73872}{73916}Alors ça, c'est typique, putain !
+{73945}{73993}Viêt-nam à la con !
+{74002}{74081}J'ai presque fini mon temps|et ça me tombe dessus !
+{74090}{74172}C'est formidable, putain,|formidable !
+{74230}{74278}C'est vraiment dingue !
+{74287}{74352}Je croyais que c'était un pont
+{74360}{74432}ou un train, à faire sauter
+{74450}{74465}D'accord
+{74469}{74541}Attendez. On y va ensemble.|En bateau
+{74553}{74577}On est avec vous
+{74582}{74642}On y va tous, mais en bateau
+{76278}{76381}J'avais peur de ce qu'il me restait|à découvrir et à faire
+{76448}{76489}Je connaissais les risques
+{76517}{76563}Je croyais les connaître
+{76616}{76671}Mais j'éprouvais plus que tout
+{76680}{76728}plus fort que la peur
+{76755}{76820}le désir de le voir en face
+{78546}{78579}Continuez d'avancer
+{78637}{78690}Touche pas à ton arme
+{80773}{80830}Tout va bien. C'est d'accord
+{80868}{80935}J'y vais pas,|ces salauds nous ont attaqués
+{80983}{81046}Fais-les flipper avec ta sirène
+{81315}{81380}Il y a des mines là et là.|Et attention
+{81388}{81424}aux singes, ils mordent
+{81435}{81502}Ça c'est joli. Droit sur moi
+{81526}{81550}Je suis américain
+{81587}{81619}Civil. Salut les Yankees
+{81658}{81682}Américain
+{81688}{81729}Civil. Tout va bien
+{81743}{81813}Et t'as des cigarettes,|j'en rêvais
+{81883}{81907}Qui êtes-vous ?
+{81925}{81954}Et toi ?
+{82045}{82079}Reporter photographe
+{82103}{82154}Je couvre la guerre depuis 64
+{82161}{82177}Laos
+{82183}{82224}Cambodge, Viêt-nam
+{82338}{82388}C'est le bordel, votre bateau
+{82423}{82462}Qui sont ces gens ?
+{82485}{82533}Ils croient que vous venez
+{82551}{82575}pour l'emmener
+{82583}{82626}J'espère que c'est pas vrai
+{82633}{82654}Emmener qui ?
+{82713}{82735}Lui
+{82755}{82784}Le colonel Kurtz
+{82803}{82839}Ce sont tous ses enfants
+{82848}{82879}à perte de vue
+{82898}{82972}Ici, nous sommes tous ses enfants
+{82981}{83017}On pourrait...
+{83036}{83076}lui parler ?
+{83100}{83162}On parle pas au colonel
+{83178}{83212}On l'écoute
+{83249}{83292}Il m'a ouvert l'esprit
+{83315}{83390}C'est un poète guerrier,|au sens classique
+{83398}{83501}Parfois, on le salue et il passe|sans un mot
+{83513}{83613}sans te remarquer. Et soudain|il t'agrippe et il dit
+{83623}{83673}"Il y a si|au cœur du mot vision
+{83683}{83767}"Si tu as confiance|quand tous doutent de toi"
+{83775}{83840}Moi, je peux pas,|je suis un petit homme
+{83861}{83897}C'est un grand homme
+{83911}{83971}J'aurais dû être un crustacé furtif
+{83978}{84038}détalant|au fond des mers silencieuses
+{84048}{84074}Garde le bateau
+{84091}{84138}Y allez pas sans moi
+{84148}{84184}Je veux faire une photo
+{84238}{84269}Il peut être terrible
+{84276}{84309}Il peut être méchant
+{84323}{84359}Il peut être juste
+{84368}{84404}Il fait la guerre
+{84421}{84455}C'est un grand homme
+{84523}{84554}C'est-à-dire...
+{84630}{84676}Si j'avais les mots
+{84721}{84790}je pourrais te dire...|L'autre jour, il a voulu me tuer
+{84798}{84820}ce genre-là
+{84825}{84859}Vous tuer, pourquoi ?
+{84868}{84909}J'ai pris sa photo
+{84923}{84983}Il a dit : "Si tu recommences
+{85011}{85044}"je te tue"
+{85070}{85109}Il était sérieux
+{85163}{85221}Alors, pas faire de vague
+{85228}{85267}s'écraser, piger
+{85274}{85322}il redevient sympa
+{85353}{85428}Mais on peut pas juger le colonel
+{85438}{85491}Pas comme un homme ordinaire
+{85658}{85730}Attention. C'est des Américains
+{85748}{85786}On sent les vibrations ici
+{85793}{85827}Je prends une photo
+{85875}{85909}Bouge pas une minute
+{86453}{86484}Colby
+{86873}{86902}Les têtes
+{86925}{86971}Tu regardes les têtes
+{87013}{87064}Des fois, il va trop loin
+{87073}{87118}Il est le premier à l'avouer
+{87141}{87165}Il est fou
+{87170}{87199}C'est faux !
+{87243}{87356}Si vous l'aviez entendu|il y a deux jours seulement
+{87378}{87453}- Vous l'auriez traité de fou ?|- Et comment !
+{87508}{87554}Je veux lui parler
+{87598}{87649}Mais il est parti
+{87678}{87728}Dans la jungle, avec les siens
+{87739}{87755}J'attendrai
+{87764}{87812}Il est à l'aise avec eux
+{87828}{87878}Il oublie qui il est
+{87963}{88045}Mon capitaine,|on devrait attendre au bateau
+{88113}{88156}On va y retourner
+{88163}{88226}C'est ça, pour rester avec Lance
+{88778}{88838}Ce colon, il est cinglé
+{88848}{88906}Pire que fou, mauvais
+{88914}{89024}Il a installé|une putain d'idolâtrie païenne, ici
+{89061}{89097}Il est maboule
+{89104}{89140}Alors vous m'aiderez ?
+{89161}{89223}Et comment ! Je suis prêt à tout|pour sortir d'ici
+{89254}{89357}Si défoncés que si on les bute,|ils le sauront même pas
+{89386}{89498}J'ai pas peur des crânes,|des autels et tout ça
+{89539}{89623}Avant, je pensais qu'en mourant|dans un lieu maudit
+{89639}{89704}mon âme irait pas au paradis
+{89711}{89793}Mais maintenant, rien à branler
+{89826}{89898}Du moment qu'elle reste pas ici
+{89909}{89981}Vous voulez que je le tue, ce con ?
+{89993}{90010}Qu'on se tire
+{90018}{90059}T'attendras ici
+{90076}{90129}J'emmènerai Lance pour fouiner
+{90136}{90210}Voir si je peux trouver le colonel
+{90263}{90318}Qu'est-ce que vous voulez|que je fasse ?
+{90358}{90397}Tiens, prends la radio
+{90441}{90506}Si je ne suis pas revenu à 22 h
+{90558}{90604}appelle l'aviation
+{90731}{90762}Code Almighty
+{90769}{90845}Coordonnées|0 - 9 - 0 - 2 - 6 - 4 - 7 - 1 - 2
+{90868}{90902}Tout est là
+{91213}{91297}Tout me disait que Kurtz|était devenu fou
+{91399}{91440}Partout des cadavres
+{91446}{91549}nord-vietnamiens, viêt-công,|cambodgiens
+{91719}{91803}Si j'étais vivant,|c'était qu'il le voulait
+{92619}{92686}Ça sentait la mort lente|là-dedans
+{92714}{92743}la malaria
+{92766}{92800}les cauchemars
+{92857}{92921}La rivière finissait bien là
+{93249}{93292}D'où êtes-vous, Willard ?
+{93421}{93469}Ohio, mon colonel
+{93601}{93639}Vous y êtes né ?
+{93653}{93685}Oui, mon colonel
+{93714}{93750}Où, au juste ?
+{93766}{93805}Toledo, mon colonel
+{93959}{94014}A quelle distance du fleuve ?
+{94164}{94214}Du fleuve Ohio ?
+{94266}{94311}Dans les 300 km
+{94499}{94573}J'ai descendu ce fleuve|quand j'étais enfant
+{94687}{94756}Il y a un endroit|dont j'ai oublié le nom
+{94764}{94881}qui a dû être une plantation|de gardénias autrefois
+{94891}{94970}Elle est retournée|à l'état sauvage mais...
+{94991}{95121}sur 10 km, on aurait cru que|le paradis était tombé sur la terre
+{95143}{95199}sous forme de gardénias
+{95579}{95624}Avez-vous envisagé
+{95671}{95724}une quelconque liberté réelle ?
+{95844}{95928}Etre libre de l'opinion d'autrui
+{95996}{96051}voire de vos propres opinions
+{96431}{96479}Vous ont-ils dit...
+{96571}{96615}Pourquoi ils veulent
+{96626}{96705}liquider... mon commandement ?
+{97061}{97128}Ma mission est secrète,|mon colonel
+{97214}{97271}Elle ne l'est plus
+{97289}{97315}N'est-ce pas ?
+{97472}{97512}Que vous ont-ils dit ?
+{97579}{97615}Ils m'ont dit
+{97639}{97685}que vous étiez devenu
+{97704}{97752}complètement fou
+{97801}{97863}Que vos...
+{97884}{97925}méthodes... étaient...
+{97939}{97970}malsaines
+{98049}{98112}Mes méthodes|sont-elles malsaines ?
+{98241}{98279}Je ne vois...
+{98297}{98335}aucune méthode...
+{98369}{98403}mon colonel
+{98556}{98595}Je m'attendais
+{98619}{98660}à quelqu'un comme vous
+{98724}{98767}A quoi vous attendiez-vous ?
+{98954}{98995}Etes-vous un assassin ?
+{99111}{99145}Je suis un soldat
+{99229}{99275}Ni l'un ni l'autre
+{99319}{99370}Vous êtes un garçon de courses
+{99397}{99457}envoyé par des commis d'épicerie
+{99539}{99583}pour encaisser la facture
+{100637}{100673}Pourquoi ? Hein ?
+{100689}{100740}Un gentil garçon comme toi
+{100746}{100782}tuer un génie
+{100939}{100977}Ça fait du bien ?
+{101000}{101021}Pourquoi ?
+{101069}{101093}Tu sais
+{101124}{101165}tu sais que cet homme
+{101254}{101312}cet homme t'aime bien ?
+{101384}{101429}Il t'aime vraiment bien
+{101437}{101456}Mais...
+{101492}{101542}Il envisage un truc pour toi
+{101562}{101591}T'es pas curieux ?
+{101617}{101648}Je suis curieux
+{101674}{101710}Très curieux
+{101742}{101770}Pas toi ?
+{101830}{101885}Il se passe quelque chose
+{101979}{102027}Je sais un truc que tu sais pas
+{102054}{102090}Tu l'as dit, bouffi
+{102107}{102160}Il a l'esprit clair
+{102179}{102222}mais son âme est folle
+{102327}{102368}Il est mourant, je crois
+{102374}{102432}Il déteste tout ça
+{102454}{102526}Mais cet homme est...
+{102639}{102697}Il lit de la poésie, d'accord ?
+{102730}{102756}Et d'une voix
+{102805}{102829}Une voix...
+{102900}{102965}Il t'aime|parce que t'es encore vivant
+{102971}{103014}Il a des projets pour toi
+{103050}{103136}Je t'aiderai pas.|C'est toi qui vas l'aider
+{103150}{103183}Tu vas l'aider
+{103189}{103244}Que dira-t-on, après sa mort ?
+{103252}{103357}Parce qu'il meurt, si ça meurt,|si ça meurt, il meurt
+{103367}{103413}Que diront-ils de lui ?
+{103420}{103496}Qu'il était bon, qu'il était sage ?
+{103504}{103583}Qu'il avait des projets ?|Penses-tu !
+{103594}{103659}Et c'est moi qui leur expliquerais ?
+{103667}{103710}Tu m'as vu ? Jamais !
+{103789}{103811}Ce sera toi
+{103942}{103990}Presque huit heures
+{104107}{104140}Je dors
+{104179}{104259}Et je rêve que je suis|sur ce rafiot de merde
+{104540}{104561}Putain !
+{104662}{104705}Ça fait huit heures ?
+{104774}{104817}Allô, Almighty ?
+{104830}{104935}Ici Street Gang. A vous
+{104952}{105029}Street Gang, ici Almighty. A vous
+{110259}{110286}Le magazine Time
+{110325}{110380}Un hebdomadaire d'information
+{110402}{110479}22 septembre 1967
+{110515}{110568}Volume 90, numéro 12
+{110580}{110626}"La Guerre à l'horizon
+{110635}{110676}"Les Américains doutent
+{110685}{110743}"de la victoire|des Etats-Unis au Viêt-nam
+{110775}{110804}"Toutefois
+{110819}{110870}"l'une des enquêtes|les plus complètes
+{110878}{110938}"jamais réalisées sur ce conflit
+{110948}{111017}"semble prouver|que la puissance des Etats-Unis
+{111025}{111083}"deux ans et demi|après le début de l'escalade
+{111102}{111155}"commence à se faire sentir
+{111168}{111237}"La Maison-Blanche|soutient que l'impact
+{111257}{111286}"de cet engagement
+{111295}{111398}"pourrait bien mettre l'ennemi|dans l'incapacité
+{111410}{111456}"de continuer le combat"
+{111497}{111538}Ça ne vous dit rien ?
+{111570}{111642}"Lyndon Johnson,|craignant que l'opinion publique
+{111658}{111732}"soit d'humeur à rejeter|ces conclusions optimistes
+{111740}{111795}"n'autorise pas|la publication du rapport
+{111803}{111884}"Pourtant, il en est lui-même|suffisamment impressionné
+{111894}{111966}"et tient assez|à en faire connaître les conclusions
+{111975}{112042}"pour permettre aux experts|qui y ont travaillé
+{112050}{112093}"de l'évoquer en termes généraux"
+{112145}{112191}Sans date. Magazine Time
+{112525}{112575}"Sir Robert Thompson
+{112600}{112672}"vainqueur de la guérilla communiste|en Malaisie
+{112680}{112740}"aujourd'hui consultant|de la Rand Corporation
+{112747}{112855}"rentre du Viêt-nam où il a enquêté|pour le président Nixon
+{112880}{112911}"Il a dit au président
+{112917}{112984}"que les choses|s'amélioraient beaucoup
+{112995}{113070}"et sentaient|nettement moins mauvais"
+{113112}{113155}Ça sent quoi, d'après vous ?
+{113455}{113510}Vous êtes libre,|mais sous bonne garde
+{113542}{113583}Vous lirez tout ça
+{113600}{113631}Ne les perdez pas
+{113645}{113698}Si vous fuyez, on vous abattra
+{113742}{113790}Nous parlerons de tout ça plus tard
+{118565}{118611}"Nous sommes les hommes creux
+{118635}{118719}"Nous sommes les hommes empaillés,|penchés les uns vers les autres
+{118735}{118819}"La tête pleine de paille, hélas !
+{118853}{118942}"Nos voix sèches|chuchotent insignifiantes
+{118951}{119008}"Comme le vent dans l'herbe sèche
+{119030}{119124}"Ou des pattes de rat|sur le verre cassé dans notre cave"
+{119133}{119159}Il est vraiment là
+{119166}{119206}"Forme sans forme
+{119243}{119277}"Nuance sans couleur
+{119305}{119353}"Force paralysée
+{119380}{119418}"Geste sans mouvement"
+{119425}{119468}Tu sais ce qu'il dit ?
+{119502}{119541}"Ceux qui ont traversé..."
+{119548}{119608}C'est de la dialectique toute simple
+{119615}{119699}de 1 à 9,|sans "peut-être", sans fraction
+{119708}{119780}On peut pas voyager dans l'espace
+{119788}{119833}sans... enfin, avec des fractions
+{119840}{119943}Sur quoi se poser, un quart ?|Pour aller d'ici à Vénus ?
+{119955}{119996}C'est dialectique, physique, vu ?
+{120003}{120099}Amour et haine.|On aime quelqu'un ou on le hait
+{120123}{120147}Couché !
+{120200}{120229}Pauvre chien
+{120253}{120373}Le monde finit comme ça.|On est dans la merde
+{120386}{120424}Il finit dans un vagissement
+{120431}{120496}Et sur ce vagissement,|moi, je me casse
+{121205}{121232}Sur la rivière
+{121241}{121310}je pensais qu'en le voyant|je saurais quoi faire
+{121341}{121377}Et puis non
+{121416}{121471}Je suis resté des jours avec lui
+{121481}{121512}Sans garde
+{121523}{121554}J'étais libre
+{121576}{121636}Il savait que je n'irais nulle part
+{121656}{121737}Et savait mieux que moi|ce que j'allais faire
+{121910}{121999}Si les généraux de Nha Trang|voyaient ce que je voyais
+{122016}{122069}auraient-ils voulu que je le tue ?
+{122108}{122153}Plus que jamais, sans doute
+{122186}{122244}Qu'aurait voulu sa famille|si elle avait appris
+{122250}{122320}combien il s'était éloigné d'elle ?
+{122370}{122411}Il avait rompu avec elle
+{122418}{122471}puis rompu avec lui-même
+{122491}{122562}Je n'avais jamais vu|un homme si brisé
+{122570}{122601}si déchiré
+{122615}{122656}J'ai vu des horreurs
+{122683}{122736}des horreurs que vous avez vues
+{122776}{122807}Vous n'avez pas le droit
+{122813}{122880}de me traiter d'assassin,|vous avez celui de me tuer
+{122906}{122970}Vous avez le droit de le faire
+{123005}{123063}mais pas le droit de me juger
+{123223}{123276}Les mots ne permettent pas
+{123316}{123352}de décrire
+{123400}{123429}ce qui est
+{123445}{123481}nécessaire
+{123529}{123557}à l'intention de ceux
+{123588}{123626}qui ne savent pas
+{123651}{123675}ce que
+{123699}{123737}l'horreur signifie
+{123781}{123805}L'horreur
+{123881}{123941}L'horreur a un visage
+{124001}{124061}Il faut se faire une amie|de l'horreur
+{124089}{124173}L'horreur et la terreur morale
+{124180}{124212}sont vos amies
+{124218}{124261}Si elles ne le sont pas
+{124278}{124347}elles sont des ennemies redoutables
+{124371}{124414}De vraies ennemies
+{124536}{124617}Je me rappelle, quand j'étais|dans les Forces spéciales
+{124713}{124816}on dirait qu'il y a|un millier de siècles de cela
+{124890}{124960}Nous sommes allés|dans un camp vacciner
+{125010}{125042}des enfants
+{125146}{125184}Nous sommes repartis
+{125211}{125290}après les avoir vaccinés|contre la polio
+{125334}{125430}Un vieillard nous a couru après|en pleurant, il ne pouvait parler
+{125501}{125549}Nous y sommes retournés
+{125556}{125640}Ils étaient venus et avaient tranché
+{125651}{125702}tous les bras vaccinés
+{125751}{125799}Ils étaient entassés
+{125806}{125837}Un tas
+{125888}{125922}de petits bras
+{126001}{126032}Je me rappelle...
+{126116}{126193}avoir... avoir pleuré,|avoir sangloté comme...
+{126230}{126293}une grand-mère
+{126346}{126444}J'aurais voulu m'arracher les dents,|je ne savais pas quoi faire
+{126468}{126538}Et je veux me le rappeler,|ne jamais l'oublier
+{126546}{126593}Je veux ne jamais l'oublier
+{126629}{126674}Puis je me suis rendu compte
+{126704}{126811}comme si j'avais été transpercé|d'un diamant
+{126833}{126920}d'une balle de diamant|à travers le front
+{126958}{127044}et j'ai pensé, mon Dieu,|le génie de cela
+{127053}{127092}le génie
+{127116}{127181}la volonté... de faire cela
+{127214}{127334}parfaite, authentique, complète,|d'une pureté de cristal
+{127384}{127422}Et j'ai compris
+{127431}{127510}qu'ils étaient plus forts que moi|parce qu'ils le supportaient
+{127518}{127578}Ce n'étaient pas des monstres,|mais des hommes
+{127586}{127627}des cadres bien formés
+{127649}{127754}Ils se battaient de tout leur cœur,|ils ont une famille, des enfants
+{127763}{127806}Ils sont pleins d'amour
+{127816}{127866}Ils avaient la force
+{127896}{127939}la force
+{128031}{128064}de faire cela
+{128078}{128193}Si j'avais dix divisions|de tels hommes
+{128206}{128285}nos ennuis ici seraient vite réglés
+{128321}{128369}Il faut avoir des hommes
+{128404}{128442}qui soient moraux
+{128481}{128584}et capables en même temps
+{128616}{128659}d'utiliser leur...
+{128716}{128783}instinct primordial,|leur instinct de tuer
+{128813}{128878}sans sentiment, sans passion
+{128913}{128987}sans... jugement, sans jugement
+{129103}{129178}car c'est par le jugement|qu'on est vaincu
+{129634}{129691}Je crains que mon fils
+{129713}{129814}risque de ne pas comprendre|ce que j'ai tenté d'être
+{129863}{129983}Et si je devais être tué, Willard
+{130014}{130151}je voudrais que quelqu'un aille|chez moi tout raconter à mon fils
+{130221}{130298}Tout ce que j'ai fait,|tout ce que vous avez vu
+{130332}{130406}car il n'est rien|que je déteste plus
+{130429}{130477}que la puanteur du mensonge
+{130541}{130610}Et si vous me comprenez,|Willard, vous...
+{130661}{130721}Vous ferez cela pour moi
+{132307}{132371}Street Gang, ici Almighty. A vous
+{132398}{132427}Street Gang, ici Almighty
+{132434}{132487}A l'écoute. A vous
+{132529}{132637}Street Gang, ici Almighty.|Me recevez-vous ?
+{132751}{132816}Ils me donneraient|les galons de commandant pour ça
+{132834}{132908}Et j'étais même plus|dans leur putain d'armée
+{132962}{133022}Tout le monde voulait|que je le fasse
+{133049}{133087}Lui, surtout
+{133121}{133172}Je sentais qu'il était là-haut
+{133182}{133244}à attendre|que je l'arrache à sa douleur
+{133307}{133362}Mais il voulait partir en soldat
+{133386}{133413}Debout
+{133436}{133468}Pas comme un misérable
+{133474}{133537}renégat en haillons
+{133616}{133678}Même la jungle voulait sa mort
+{133697}{133764}et c'était d'elle|qu'il prenait ses ordres
+{135611}{135674}Nous les formons|à déverser le feu sur les gens
+{135706}{135750}mais leurs chefs
+{135767}{135829}leur interdisent d'écrire enculés
+{135849}{135875}sur leur avion
+{135881}{135910}parce que
+{135931}{135965}c'est obscène
+{137960}{137993}L'horreur
+{140877}{140985}Lâchez la bombe.|Exterminez-les tous
+{145867}{145908}J'appelle Street Gang
+{145937}{146026}Street Gang, ici Almighty.|Me recevez-vous ?

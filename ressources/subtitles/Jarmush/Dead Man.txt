@@ -1,0 +1,675 @@
+{562}{674}IIest toujours préférabIe|de ne pas voyager avec un mort.
+{7803}{7841}Regardez par la fenêtre.
+{7941}{8013}ça ne vous rappelle pas|quand on est en bateau...
+{8071}{8087}Et puis,
+{8093}{8210}plus tard, la nuit, couché,|contemplant le plafond...
+{8230}{8344}l'eau dans votre tête|n'est pas différente d'un paysage.
+{8360}{8443}On se dit :|''Comment se fait-il que le paysage
+{8449}{8485}''bouge,
+{8498}{8602}''alors que le bateau est immobile ?''
+{8670}{8737}Et aussi...|D'où est-ce que vous êtes ?
+{8772}{8798}De Cleveland.
+{8935}{8963}Le lac Erié.
+{9010}{9095}Vous avez des parents à... Erié ?
+{9143}{9180}Récemment décédés.
+{9366}{9437}Vous avez une... femme,
+{9471}{9500}à Erié ?
+{9593}{9626}Une fiancée ?
+{9682}{9734}J'en avais une, mais...
+{9781}{9816}elle a changé d'avis.
+{9890}{9954}Elle s'est trouvé quelqu'un d'autre.
+{10018}{10060}Mais si.
+{10184}{10282}ça n'explique pas pourquoi|vous avez fait tout ce voyage.
+{10296}{10343}Tout ce voyage jusqu'en enfer.
+{10455}{10487}J'ai un emploi
+{10511}{10559}dans la ville de Machine.
+{10598}{10629}C'est le terminus.
+{10767}{10858}J'ai reçu une lettre
+{10939}{11012}en provenance|de la fonderie Dickinson
+{11046}{11088}m'assurant d'un emploi.
+{11101}{11126}Vraiment ?
+{11173}{11199}Je suis comptable.
+{11235}{11278}Je ne peux pas dire,
+{11297}{11330}je ne sais pas lire.
+{11354}{11449}Mais... je vais vous dire|ce qui est sûr.
+{11465}{11542}Je ne me fierais pas à des mots|écrits sur un bout de papier.
+{11555}{11643}Surtout d'un Dickinson|dans la ville de Machine.
+{11674}{11730}Vous pourriez bien|y trouver votre tombe.
+{11814}{11875}Regardez.|lls tuent des bisons !
+{12010}{12047}D'aprês le gouvernement,
+{12063}{12141}ils en ont tué un million|rien que l'an dernier !
+{18806}{18836}Excusez-moi.
+{18846}{18902}Pourriez-vous m'indiquer le bureau ?
+{19811}{19888}Je suis Bill Blake,|votre nouveau comptable.
+{19930}{19976}Qu'est-ce que vous foutez là ?
+{20056}{20174}J'ai ici une lettre|qui garantit ma place.
+{20275}{20345}Cette lettre a été postée|il y a deux mois.
+{20351}{20399}Vous êtes en retard d'un mois.
+{20405}{20496}Voici M. Olafsen.|C'est lui notre nouveau comptable.
+{20628}{20656}Je m'excuse.
+{20678}{20720}Je crois qu'il y a eu erreur.
+{20750}{20774}Ecoutez, M. Black...
+{20780}{20792}Blake.
+{20798}{20828}Je suis très occupé,
+{20843}{20923}M. Dickinson ne me paie pas|pour bavarder inutilement.
+{20929}{20944}J'en suis sûr,
+{20950}{21031}mais cette lettre|garantit ma place.
+{21049}{21136}J'ai mis tout ce que je possédais|dans ce voyage.
+{21150}{21190}Ecoutez, M. Black.
+{21203}{21296}J'ai beaucoup de travail,|et ceci ne me regarde pas.
+{21323}{21366}J'aimerais parler à M. Dickinson.
+{21642}{21683}Non, je ne crois pas.
+{21697}{21750}J'insiste pour lui parler.
+{21757}{21804}Vous ? insister ?
+{21815}{21841}J'insiste.
+{21849}{21877}Vous insistez ?
+{22063}{22107}Allez-y, voici la porte.
+{22277}{22310}Allez-y !
+{22346}{22366}J'y vais.
+{22805}{22836}M. Dickinson ?
+{23586}{23624}Qui tu es, toi ?
+{23635}{23706}D'où tu sors ce costume de clown ?|De Cleveland ?
+{23774}{23878}En effet, oui.|Je l'ai eu à Cleveland.
+{23899}{23938}Qu'est-ce que tu fous|dans mon bureau ?
+{23962}{24033}Je suis venu pour parler|de mon emploi.
+{24039}{24055}Ton emploi ici,
+{24061}{24142}ça va être de faire pousser|des marguerites sur ton cercueil.
+{24148}{24172}Maintenant, file.
+{24271}{24297}Merci, monsieur.
+{24791}{24844}Au travail, M. Olafsen.
+{27611}{27645}Une bouteille, je vous prie.
+{29330}{29382}On t'aimait mieux en pute !
+{29465}{29500}Pauvre type !
+{29577}{29599}Merde !
+{29857}{29903}Tu veux mon portrait ?
+{30056}{30081}Excusez-moi.
+{30110}{30130}Je vous aide.
+{30137}{30223}Elle est fichue.|Pas celle-ci !
+{30546}{30584}Buvez un peu.
+{30940}{30966}Pardon.
+{31030}{31092}Vous voulez bien m'accompagner ?
+{31252}{31286}Je prends ma valise.
+{31489}{31512}Par ici.
+{31681}{31801}Quelque chose me dit|que ce colosse était éméché.
+{31807}{31874}J'allais intervenir,|mais je ne veux pas faire d'ennuis.
+{32072}{32107}C'est ma chambre.
+{32193}{32289}Je... n'attendais pas de visite.
+{32689}{32711}ça vous plaît ?
+{32720}{32750}C'est très beau.
+{32770}{32802}Ces fleurs...
+{32869}{32899}Etonnant.
+{33154}{33227}Je les ai faites... avec du papier.
+{33431}{33471}Si un jour j'ai l'argent,
+{33498}{33536}j'aimerais les faire en tissu.
+{33570}{33599}En soie.
+{33642}{33695}J'y mettrais une goutte de parfum.
+{33766}{33797}De parfum français,
+{33816}{33847}dans chacune.
+{34074}{34112}Qu'est-ce que ça sent ?
+{34164}{34184}Le papier.
+{34206}{34235}C'est du papier.
+{34560}{34629}Bill... tu as du tabac ?
+{34642}{34684}Je ne fume pas.
+{34883}{34930}Attention, il est chargé.
+{35000}{35028}Pourquoi as-tu ça ?
+{35075}{35123}On est en Amérique.
+{35401}{35422}Charlie !
+{35723}{35754}Tu sais, Thel...
+{35803}{35856}je ne voulais pas m'en aller.
+{35899}{35944}Nous avons dit que...
+{35961}{36021}c'était fini et tout, mais...
+{36121}{36175}tu es toujours restée|dans mon coeur.
+{36230}{36253}Toujours.
+{36370}{36404}Je t'ai acheté...
+{36503}{36533}C'est un cadeau.
+{36685}{36713}Un cadeau ?
+{36855}{36881}Je m'en vais.
+{37035}{37074}Je m'excuse, Thel...
+{37197}{37231}de t'avoir dérangée.
+{37304}{37364}Je t'ai jamais aimé, de toute façon.
+{37617}{37650}Moi, j'ai jamais cessé.
+{41066}{41119}Du métal d'homme blanc|prês de ton coeur.
+{41156}{41216}J'ai voulu l'enlever,|mais c'est profond.
+{41290}{41340}La lame trancherait ton coeur
+{41347}{41394}et l'esprit s'envolerait.
+{41447}{41492}Con de Blanc !
+{41948}{41979}Tu as du tabac ?
+{42024}{42051}Je ne fume pas.
+{42867}{42892}Wilson,
+{42904}{42946}tu as du tabac ?
+{42972}{43037}Bien sûr, t'en aurais pas en rab.
+{43043}{43066}Et toi ?
+{43141}{43215}Merde, t'es même pas|assez vieux pour fumer.
+{44049}{44083}La nuit dernière,
+{44094}{44125}mon fils cadet, Charlie,
+{44131}{44171}paix à son âme,
+{44177}{44217}a été tué de sang-froid,
+{44223}{44272}dans notre hôtel.
+{44292}{44328}Le lâche assassin,
+{44334}{44376}un certain Bill Blake,
+{44383}{44459}a aussi abattu|Mlle Thel Russell, la fiancée
+{44465}{44492}de mon cher fils.
+{44499}{44536}Non seulement cela,
+{44542}{44613}il a volé un cheval fougueux|et d'un grand prix,
+{44626}{44743}un magnifique pinto|de mon écurie familiale.
+{44758}{44861}Un pinto,|y a pas de quoi se frapper.
+{44867}{44894}La ferme !
+{45223}{45306}Vous passez pour les meilleurs|tueurs d'hommes et d'lndiens
+{45313}{45361}de cette moitié du monde.
+{45388}{45481}Cole Wilson, ta réputation|est déjà légendaire.
+{45491}{45534}Je peux te faire confiance.
+{45555}{45640}Conway Twill, tu es un bon tueur.
+{45651}{45729}Mais tu devrais fermer|ta grande gueule.
+{45749}{45868}Johnny ''the Kid'' Pickett,|il paraît que tu as tué 14 hommes.
+{45875}{45924}Plus que tu n'as vécu d'années.
+{45933}{45998}Je ne te dis même pas|ce que je pense de toi.
+{46028}{46064}Je travaille seul.
+{46076}{46135}Pardonnez-moi, M. Dickinson, mais...
+{46172}{46239}j'ai jamais travaillé|avec personne non plus.
+{46259}{46284}Moi non plus.
+{46290}{46315}Vos gueules !
+{46383}{46434}Mon petit Charlie est mort.
+{46497}{46547}Je ne vous le demande pas.
+{46556}{46586}J'ordonne.
+{46598}{46696}Et si ça ne vous plaît pas,|je suis prêt à tuer, moi aussi.
+{46752}{46773}Ce fumier
+{46779}{46822}peut pas être bien loin.
+{46856}{46944}Je veux vous dire,|M. Dickinson, qu'on devrait partir
+{46950}{47016}demain matin, reposés.|L'après-midi tire à sa fin,
+{47026}{47083}et le temps qu'on se prépare...
+{47301}{47424}Je veux qu'on me l'amêne, mort|ou vif. Mort, ce serait plus simple.
+{47460}{47501}Je vous engage
+{47507}{47552}à titre exclusif.|Je suis prêt à payer
+{47558}{47620}plus d'argent|que vous n'en avez jamais vu.
+{47829}{47858}La chasse est ouverte.
+{48743}{48787}Con de Blanc.
+{49688}{49731}Télégraphiez ça.
+{49744}{49834}Affichez les $500 de récompense|d'ici jusqu'en enfer.
+{49840}{49885}Avisez tous les marshals,|shérifs,
+{49891}{49968}charognards et crapules|du territoire.
+{49977}{50042}Tout le monde.|Je veux la tête de ce salaud.
+{50048}{50162}Avec la description de mon pinto.|Je veux le récupérer.
+{50192}{50303}Le pinto est un animal stupide.|Stupide comme un jour sans fin.
+{50310}{50429}Pourquoi il s'excite tellement|à cause de cette bête ?
+{50435}{50563}Autant s'acheter un alezan et|peindre des taches blanches dessus.
+{50577}{50690}Je me méfierais d'un homme qui passe|son temps à parler à un ours.
+{50764}{50801}A un putain d'ours.
+{51345}{51397}Les pierres rondes sous la terre
+{51410}{51452}ont parlé à travers le feu.
+{51645}{51745}Les choses semblables dans la nature|en viennent à se ressembler.
+{51775}{51866}Les pierres qui parlent|ont longtemps regardé le soleil.
+{52067}{52103}Les pierres qui parlent ?
+{52113}{52163}On dit qu'elles tombent|avec la foudre.
+{52177}{52288}Je crois qu'elles sont sur terre,|et l'éclair les enfonce dans le sol.
+{52393}{52444}Tu as tué le Blanc qui t'a tué ?
+{52625}{52657}Je ne suis pas mort.
+{52762}{52835}Quel nom t'a-t-on donné|à la naissance, Blanc stupide ?
+{53030}{53060}William Blake.
+{53098}{53169}C'est un mensonge,|ou une ruse de Blanc ?
+{53230}{53262}Je suis William Blake.
+{53315}{53359}Alors, tu es un homme mort.
+{53415}{53464}Pardon, je ne comprends pas.
+{53505}{53573}Tu t'appelles vraiment|William Blake ?
+{53880}{53968}''Chaque nuit, chaque matin,
+{54021}{54083}''Certains naissent pour le chagrin.
+{54167}{54248}''Chaque matin, chaque nuit,
+{54289}{54350}''Certains naissent|pour le délice exquis.
+{54386}{54439}''Certains naissent|pour le délice exquis,
+{54489}{54547}''Certains pour la nuit infinie.''
+{54678}{54754}Vraiment... je ne comprends pas.
+{54791}{54832}Moi, je comprends !
+{54862}{54933}Tu étais un poête. Et un peintre.
+{54960}{55036}Maintenant, tu es|un tueur d'hommes blancs.
+{55216}{55274}ll faut te reposer, William Blake.
+{55777}{55841}''Certains naissent|pour le délice exquis,
+{55900}{55965}''Certains pour la nuit infinie.''
+{56108}{56159}Faire des biscuits avec maman...
+{56213}{56300}Regarder par la fenêtre...|Embrasse-moi...
+{56396}{56429}Chérie...
+{56644}{56690}Tu y as pas touché, au moins ?
+{56749}{56768}Jure-le.
+{56781}{56798}Je le jure.
+{56804}{56856}T'as pas posé tes mains sur elle ?
+{56867}{56910}Jure que tu dis la vérité.
+{56916}{56959}Je te jure que c'est vrai.
+{57212}{57283}Pas un mot là-dessus, jamais.|Compris ?
+{57339}{57385}Me pose pas de questions.
+{61067}{61088}Où sommes-nous ?
+{61154}{61201}Tu es suivi, William Blake.
+{61246}{61276}Tu es sûr ?
+{61306}{61335}Comment le sais-tu ?
+{61444}{61535}Souvent, la puanteur|de l'homme blanc le précède.
+{61643}{61679}Pourquoi on ne...
+{61734}{61776}On devrait peut-être...
+{61894}{61921}Qu'est-ce qu'on fait ?
+{61967}{62073}Jamais l'aigle ne perdit plus|de temps qu'en apprenant du corbeau.
+{62602}{62646}Tu voudrais pas être la lune ?
+{62689}{62736}J'ai le poireau gelé.
+{62850}{62910}Ma braguette est ouverte|depuis quand ?
+{62917}{63011}On est ensemble depuis deux jours,|vous auriez pu me le dire...
+{63017}{63087}Dessellez vos putains de chevaux.
+{63124}{63195}Desselle ton putain de cheval.
+{63393}{63451}Un lndien a fait ce feu.
+{63590}{63667}On traque pas|de foutus lndiens, Cole.
+{63673}{63748}Dickinson a pas parlé d'lndiens.
+{63754}{63844}ll s'appelle William Blake.|C'est un nom d'lndien, ça ?
+{63850}{63871}''Chef Billy !''
+{63877}{63907}Tu as entendu ?
+{64093}{64126}C'était rien.
+{64688}{64720}Tu sais, pour Wilson ?
+{64789}{64851}T'es au courant, pour Cole Wilson ?
+{64939}{65019}Bien sûr, je suis au courant.|C'est une légende vivante !
+{65025}{65063}ll a baisé ses parents.
+{65147}{65168}Quoi ?
+{65182}{65255}ll a baisé ses parents.
+{65338}{65361}Les deux ?
+{65427}{65516}Mêre, pêre : ses parents, les deux.|ll les a baisés.
+{65704}{65738}Tu sais ce qu'on m'a dit ?
+{65784}{65881}Après les avoir tués, il les a fait|cuire et les a bouffés.
+{66063}{66113}Tu me dis qu'il a tué...
+{66120}{66222}ll les a tués, il les a baisés,|les a fait cuire, les a bouffés.
+{66287}{66364}ll a pas de conscience.|Tu comprends ce que je dis ?
+{66372}{66465}Nous égorger en pleine nuit|ou se balader, c'est pareil.
+{66551}{66596}Bien sûr, quelqu'un de ton âge...
+{66669}{66721}si tu lui troues la peau...
+{66771}{66871}''Johnny the Kid Pickett|tue Cole Wilson.''
+{67632}{67684}Tu sais te servir de cette arme ?
+{67860}{67890}Pas vraiment.
+{67896}{67952}Cette arme remplacera ta langue.
+{68009}{68060}Tu apprendras à parler par elle.
+{68090}{68161}Ta poésie sera écrite avec du sang.
+{68455}{68473}Quel est ton nom ?
+{68730}{68780}Mon nom est Personne.
+{68837}{68859}Pardon ?
+{68875}{68918}Mon nom est Xebeche.
+{68943}{69014}''Celui-qui-parle-fort-|sans-rien-dire.''
+{69145}{69191}Tu n'as pas dit Personne ?
+{69248}{69299}Je préfêre qu'on m'appelle Personne.
+{69535}{69555}Personne ?
+{69622}{69654}Tu devrais pas être avec ta tribu ?
+{69781}{69824}Je suis de sang mêlé.
+{69847}{69925}Ma mère était Ungumpe Piccana,
+{69956}{70023}mon père est Absolucca.
+{70068}{70118}Un métissage méprisé.
+{70144}{70237}Enfant, j'étais souvent|livré à moi-même.
+{70244}{70317}J'ai passé bien des mois|à traquer le peuple élan
+{70339}{70401}pour prouver|que je serais bon chasseur.
+{70434}{70498}Un jour, ma famille élan|m'a pris en pitié.
+{70509}{70562}Un jeune élan m'a donné sa vie.
+{70590}{70661}Avec mon couteau,|j'ai pris sa vie.
+{70688}{70776}J'allais découper la viande|quand des Blancs m'ont surpris.
+{70796}{70830}Des soldats anglais.
+{70845}{70894}J'en ai frappé un|avec mon couteau.
+{70905}{70958}lls m'ont assommé à coups de crosse.
+{70976}{71005}Tout est devenu noir.
+{71036}{71083}Mon esprit a paru me quitter.
+{71149}{71194}J'ai été emmené vers l'Est,
+{71204}{71239}dans une cage.
+{71284}{71357}Toronto, puis Philadelphie,
+{71396}{71431}et ensuite New York.
+{71454}{71532}A mon arrivée|dans chaque nouvelle ville,
+{71538}{71639}l'homme blanc semblait avoir déjà|réinstallé tous les siens.
+{71698}{71788}Dans chaque nouvelle ville,|toujours les mêmes Blancs.
+{71794}{71911}Comment pouvait-on déplacer si vite|toute une population ?
+{71977}{72106}Finalement, on m'a mis sur un bateau|pour traverser le grand océan
+{72132}{72163}jusqu'en Angleterre.
+{72173}{72266}On m'a exhibé|comme un animal capturé.
+{72283}{72314}Une curiosité.
+{72360}{72451}Alors, je les ai imités,|eux et leurs manières.
+{72468}{72557}Espérant qu'ils cesseraient|de s'intéresser à ce jeune sauvage.
+{72563}{72615}Leur intérêt n'a fait que croître.
+{72621}{72719}Alors, ils m'ont mis|dans les écoles de l'homme blanc.
+{72725}{72772}C'est là que j'ai découvert,
+{72789}{72823}dans un livre,
+{72837}{72910}les mots que toi, William Blake,|tu avais écrits.
+{72969}{73038}Des mots puissants, qui m'ont parlé.
+{73131}{73229}J'ai fait des plans minutieux|et j'ai fini par m'enfuir.
+{73280}{73363}Une fois de plus,|j'ai traversé le grand océan.
+{73413}{73505}J'ai vu des choses tristes|en revenant vers les miens.
+{73548}{73596}Quand ils ont compris qui j'étais,
+{73605}{73669}le récit de mes aventures|les a mis en fureur.
+{73701}{73741}On m'a traité de menteur.
+{73758}{73789}''Xebeche.''
+{73801}{73848}Celui-qui-parle-fort-sans-rien-dire.
+{73888}{73946}On m'a tourné en ridicule.|Mon peuple.
+{73986}{74066}J'ai été condamné|à errer seul par le monde.
+{74132}{74158}Je suis Personne.
+{74327}{74409}C'est bien que le soleil se couche.|On est préparé.
+{74415}{74515}Si tout s'éteignait d'un coup,|comme on souffle une bougie...
+{74521}{74586}On est là à chevaucher,|on y voit clair,
+{74592}{74674}l'instant d'après,|c'est le noir total.
+{74680}{74728}ça me foutrait la trouille.
+{75354}{75394}Blanc stupide.
+{75477}{75514}William Blake, va les voir.
+{75662}{75679}Seul ?
+{75703}{75743}On n'a qu'à faire le tour.
+{75788}{75807}Vas-y.
+{75858}{75882}C'est une épreuve.
+{75926}{76005}Je ne les connais pas,|ils n'ont pas l'air très amical.
+{76019}{76047}S'ils me tuent ?
+{76057}{76103}Personne verra.
+{76220}{76268}C'est bon. J'irai.
+{76303}{76349}J'aimerais mieux pas,|mais j'irai.
+{76550}{76588}Quel est le meilleur chemin ?
+{76594}{76639}Tais-toi et vas-y !
+{76695}{76796}ll la scalpa, lui arracha la tête,|prit les cheveux blonds
+{76802}{76860}et fit un tricot pour bébé ours.
+{76877}{76901}C'est terrible.
+{76923}{76953}Horrible.
+{76974}{77012}Terrible, voilà ce que c'est.
+{77064}{77145}Je peux plus|boire du whisky comme avant.
+{77152}{77250}Mon vieux bide tient plus.|J'ai la chiasse à tous les coups.
+{77277}{77315}Désolé, Big George.
+{77321}{77422}J'ai ici de la bouffe que même|Boucles d'Or n'a jamais goûtée.
+{77428}{77494}ça fera du bien à ta vieille tripe.
+{77707}{77744}Ces fayots,|c'est de la merde !
+{77782}{77857}Ferme ton clapet|et bouffe tes fayots.
+{77864}{77880}Benmont,
+{77886}{77973}il y a de l'opossum dans ces fayots,|et des épices.
+{77979}{78009}Je me suis donné du mal.
+{78022}{78076}Je m'en torche|de ce qu'on peut dire.
+{78082}{78134}Je dis que tu fais|de sacrés fayots.
+{78140}{78213}Si tu nous récitais|une prière de la Bible ?
+{78219}{78283}Merci, Big George.|J'en serais ravi.
+{78437}{78531}''Aujourd'hui même, le Seigneur|te remettra entre mes mains.
+{78537}{78647}''Je t'abattrai|et te couperai la tête.
+{78653}{78742}''Je donnerai les cadavres|de l'armée des Philistins
+{78748}{78788}''aux oiseaux du ciel
+{78794}{78852}''et aux animaux de la terre.''
+{78883}{78939}C'est quoi, un Philistin ?
+{78945}{78983}Quelqu'un de vraiment sale.
+{79204}{79243}J'ai senti...
+{79266}{79292}des fayots.
+{79345}{79374}Tu voyages avec qui ?
+{79428}{79450}Personne.
+{79485}{79507}Tu vas où ?
+{79594}{79616}Je sais pas.
+{79761}{79791}T'aimes les fayots ?
+{79827}{79859}J'adore les fayots.
+{79917}{79952}Tu as du tabac ?
+{79968}{79991}Je ne fume pas.
+{79997}{80034}Tu m'en donnerais ?
+{80045}{80069}Si j'en avais.
+{80075}{80130}Je t'échange des fayots|contre du tabac.
+{80150}{80203}Je n'en ai pas,|mais j'aimerais des fayots.
+{80209}{80231}Blessé ?
+{80296}{80326}Lunettes ?
+{80408}{80485}Joli costume, aussi.|Je nettoie très bien.
+{80519}{80555}C'est quelle pointure ?
+{80571}{80584}Du 44.
+{80592}{80630}ça a l'air confortable.
+{80651}{80673}Pas mal.
+{80716}{80740}C'est quoi, cette fleur ?
+{80816}{80917}C'est une rose faite avec du papier.
+{80961}{80988}Tu vois ça ?
+{81074}{81141}Le tranchant de ce couteau.|Tâte-le.
+{81148}{81190}- J'aime mieux pas.|- Vas-y.
+{81272}{81369}ça, c'est un couteau|très, très aiguisé.
+{81431}{81456}Comment t'appelles ça ?
+{81494}{81515}Joli.
+{81532}{81547}Pardon ?
+{81573}{81625}Le chapeau,|tu l'appelles comment ?
+{81697}{81734}Je ne sais pas.
+{81753}{81829}Tes cheveux...|tes cheveux sont doux.
+{81838}{81864}Comme une fille.
+{81887}{81928}Bon Dieu, ils sont doux.
+{81975}{82020}Comment tu y arrives ?
+{82026}{82123}Regarde ma tignasse.|C'est comme du vieux foin.
+{82129}{82186}On peut pas les arranger.
+{82193}{82248}Comment tu fais|pour les garder comme ça ?
+{82301}{82338}C'est juste de la chance.
+{82361}{82391}De la chance.
+{82479}{82530}Merde ! Bas les pattes.
+{82536}{82582}Je t'ai dit de pas me toucher !
+{82588}{82664}Rien à foutre.|Touche pas à ses cheveux.
+{82684}{82722}ça te regarde ?
+{82745}{82773}Plutôt, bon sang !
+{82795}{82816}Celui-là est à moi !
+{82822}{82846}A toi ?
+{82882}{82952}ll est à moi, Big George.|Tu as eu le dernier.
+{82958}{82980}Vraiment ?
+{82986}{83016}Je l'ai vu le premier.
+{83022}{83107}Rien à foutre de qui a vu quoi,|qui a fait quoi ou s'est fait qui.
+{83117}{83184}Tu as eu le dernier Philistin.|ll est à moi !
+{83192}{83242}Si je veux celui-là,|je l'aurai aussi !
+{83306}{83375}Et si je te flingue ?|Qu'est-ce que tu dis de ça ?
+{83381}{83408}Tu vas me flinguer ?
+{83441}{83476}Alors, vas-y !
+{83482}{83517}Je vais te flinguer !
+{83523}{83542}Vas-y !
+{83570}{83615}Arrête d'en parler et fais-le !
+{83621}{83638}Je le fais !
+{83733}{83784}- Voilà !|- Bon Dieu, je suis touché !
+{83793}{83817}Dieu ait pitié de moi.
+{83824}{83889}ça brûle comme le feu de l'enfer.|Salaud.
+{83902}{83944}Faut que je tue quelqu'un.
+{84111}{84175}Je crois que personne t'aura.
+{84222}{84234}Personne.
+{86839}{86861}''Recherché.
+{86923}{87027}''Pour le meurtre brutal de Thel|Russell et Charles Dickinson.''
+{87124}{87163}Je n'ai pas tué Thel.
+{87331}{87361}Je n'ai pas tué Thel.
+{87526}{87560}Tes actes sont vains.
+{87609}{87675}C'est une invention pure et simple.
+{87855}{87919}On n'arrête pas les nuages|en construisant un bateau.
+{88079}{88100}Que dis-tu ?
+{88178}{88218}Marre de ce charabia indien !
+{88224}{88327}Je n'ai pas compris un mot depuis|qu'on se connaît. Pas un seul !
+{88379}{88433}Tu n'as vraiment pas de tabac ?
+{88452}{88494}Je te l'ai dit, je ne fume pas.
+{88504}{88537}Si je ne fume pas,
+{88543}{88602}il y a des chances|pour que je n'aie pas de tabac.
+{88698}{88759}Xebeche s'en va, William Blake.
+{89736}{89839}Le meilleur conseil,|c'est de ne pas écouter de conseil.
+{89928}{89974}Qu'est-ce que c'est
+{89992}{90023}que ça ?
+{90339}{90363}ça dit quoi ?
+{90397}{90410}Lis.
+{90486}{90557}''Recherché : William Blake.
+{90568}{90638}''Récompense : 500 dollars.''
+{90780}{90879}Nous voilà plus baisés qu'une pute|à l'heure de fermeture.
+{90885}{90960}Grâce à ce M. Dick-in-son !
+{90979}{91021}Je t'explique ce que ça dit :
+{91028}{91110}le premier trappeur débile,
+{91116}{91251}écorcheur d'opossums, bouffeur|de fayots, empochera la prime.
+{91272}{91297}ça te plaît ?
+{91340}{91366}Un foutu trappeur !
+{91372}{91397}Merde alors.
+{91409}{91469}500 dollars ?|Je comprends pas !
+{91490}{91514}''A titre exclusif' !
+{91537}{91587}ll nous a payé une avance en or
+{91593}{91672}et me voilà en plein dans la merde,
+{91681}{91717}avec deux fêlés complets.
+{91737}{91768}L'un qui dit rien,
+{91806}{91852}l'autre qu'arrête pas|de jacasser !
+{91907}{91946}Tu vas pleurer ?
+{92359}{92398}Je ferais pas ça à ta place.
+{92534}{92551}Et pourquoi ?
+{92571}{92615}C'est pas bon pour ta santé.
+{92689}{92711}Je t'emmerde.
+{92763}{92776}Tu m'emmerdes ?
+{92837}{92849}Je t'emmerde !
+{93306}{93335}Bon Dieu, Cole.
+{93392}{93419}C'est qu'un gosse.
+{93480}{93538}Une poupée de terre navajo,|maintenant.
+{95752}{95807}Je viens d'ingérer
+{95834}{95876}la nourriture du Grand Esprit.
+{95923}{95956}Grand-père Peyotl.
+{95995}{96037}Je peux y goûter ?
+{96130}{96198}On ne doit pas en user,|pas même William Blake.
+{96247}{96282}Le pouvoir du remède
+{96308}{96400}donne des visions sacrées|qui ne sont pas encore pour toi.
+{96459}{96529}Mes frères du Sud|se le sont vu interdire
+{96571}{96609}par les diables espagnols.
+{96654}{96682}Aujourd'hui,
+{96711}{96799}même les Notnomemesa et les Dené
+{96831}{96875}connaissent sa douceur.
+{98664}{98696}Que regardes-tu ?
+{99885}{99961}C'est très étrange que|tu ne te rappelles pas ta poésie.
+{100069}{100122}Je ne connais rien à la poésie.
+{100128}{100166}Comme tu es modeste.
+{100498}{100537}Je me sens très faible.
+{100599}{100627}J'ai faim.
+{100702}{100764}La quête de visions|est une bénédiction.
+{100799}{100889}Pour y arriver, il faut se passer|de nourriture et d'eau.
+{100941}{101054}Les esprits sacrés|reconnaissent ceux qui jeûnent.
+{101099}{101167}ll est bon de se préparer ainsi|à un voyage.
+{101416}{101504}Je crois que j'ai égaré|mes lunettes.
+{101585}{101600}Je n'y vois pas.
+{101792}{101845}Tu verras peut-être mieux|sans elles.
+{101921}{101971}Tu es un homme très étrange.
+{103069}{103117}Que le Grand Esprit te protège.
+{103881}{103909}Personne ?
+{106114}{106134}Marvin ?
+{106240}{106361}Le télégramme ne décrivait pas|le cheval que ce salaud a volé.
+{106367}{106448}Mais si, Lee. Un pinto,|exactement comme celui-là.
+{106576}{106664}Pattes blanches, cul marron,|flancs marron.
+{106679}{106738}Vraiment ? Je ne crois pas.
+{106744}{106784}Connard !
+{106806}{106858}Tu as le télégramme, regarde-le.
+{106864}{106928}C'est vrai, je l'ai là.|Je vais vérifier.
+{106966}{107026}Je pensais peut-être aux affiches.
+{107285}{107324}Lee, c'est lui !
+{107469}{107510}William Blake ?
+{107532}{107561}C'est moi.
+{107618}{107654}Vous connaissez mes poêmes ?
+{108771}{108802}Certains naissent
+{108850}{108886}pour la nuit infinie.
+{109332}{109381}Rome ne s'est pas faite en un jour.
+{109388}{109471}Bien sûr, je n'étais pas là|pour contrôler.
+{110264}{110300}Fraîchement tués.
+{110391}{110448}Oui, et pas de tabac, en tout cas.
+{110544}{110596}C'est un télégramme ?
+{110605}{110626}ça dit quoi ?
+{110686}{110713}Encore Dickinson.
+{110735}{110788}Putain de Dickinson.
+{110794}{110869}ll a même mis la loi sur le coup ?
+{110963}{111086}Un truc est sûr, si ce Blake|continue de tuer des marshals,
+{111111}{111143}il va finir par me plaire.
+{111349}{111416}On dirait une putain d'icône.
+{112076}{112134}Pour revenir au début de l'histoire,
+{112140}{112266}mon grand-pêre qui est venu d'Ecosse|appartenait au clan MacTwill.
+{112273}{112390}Le tartan du clan était or|et violet, si je me souviens bien.
+{112396}{112443}Moi, j'ai jamais porté ça.
+{112449}{112573}ll a enlevé le Mac en venant|à l'Ouest pour trouver du travail.
+{112591}{112671}Et ta famille, Cole ?|Je vais deviner.
+{112678}{112723}Tu dois être allemand.
+{112742}{112789}Juste ? Pas loin ?
+{112816}{112839}Autrichien ?
+{114152}{114203}J'aimerais parler à M. Dickinson.
+{114291}{114346}J'insiste pour parler|à M. Dickinson.
+{118301}{118346}Foutus Peaux-rouges !
+{123868}{123893}Personne ?
+{124391}{124420}Elle est fâchée.
+{125442}{125472}Elle est belle.
+{125629}{125679}Elle ne le pensait pas vraiment.
+{125728}{125805}Mais tu as interrompu|un moment très tendre.
+{125811}{125826}Désolé.
+{125853}{125899}Attends-moi ici.
+{126313}{126374}Ne laisse pas le soleil|te trouer le cul.
+{126399}{126515}Lêve-toi et mêne ta charrue|sur les os des morts.
+{126581}{126619}Tu as encore mes lunettes ?
+{126666}{126689}Je les ai troquées.
+{126703}{126726}Troquées ?
+{126765}{126797}Tu as du tabac ?
+{126869}{126896}Je l'ai troqué.
+{126907}{126928}Contre quoi ?
+{126963}{126989}Je ne le dirai pas.
+{127036}{127056}Menteur.
+{127096}{127112}Voleur.
+{128772}{128894}Je m'en moque|que tu aies été mariée seize fois.
+{128920}{128979}Je t'aime toujours.
+{129235}{129293}Je t'emmênerai au pont fait d'eau.
+{129320}{129347}Au miroir.
+{129396}{129466}Et tu seras conduit|au prochain niveau du monde.
+{129516}{129621}Le lieu d'où vient William Blake,|où son esprit est chez lui.
+{129671}{129759}Je dois te faire revenir|par le miroir à l'endroit
+{129769}{129811}où la mer rejoint le ciel.
+{130859}{130898}Un comptoir de l'homme blanc.
+{130956}{131006}Les lndiens y attrapent|des maladies.
+{131038}{131057}Comment ?
+{131084}{131111}Variole.
+{131121}{131145}Phtisie.
+{131188}{131228}Des couvertures infectées.
+{131267}{131305}ça contamine les villages.
+{131406}{131448}Tu as acquis une nouvelle arme.
+{131483}{131527}Oui, une Winchester.
+{131565}{131610}Tiens, prends-la.
+{131649}{131690}Vraiment, prends-la.
+{131702}{131738}Je l'ai prise à un Blanc mort.
+{131769}{131812}William Blake a tué ce Blanc ?
+{131974}{132007}William Blake a tué le Blanc.
+{132364}{132398}ll nous faut un canoë.
+{133355}{133378}De l'eau.
+{134287}{134300}''Les meurtres
+{134306}{134381}''de Charles Dickinson|et sa fiancée Thel Russell,
+{134414}{134538}''ainsi que des marshals|dont les noms suivent...
+{134549}{134633}''Big George Drakoulias,|Benmont Tench
+{134649}{134740}''et Salvatore ''Sally'' Jenko.''
+{134762}{134785}Pas mal.
+{134840}{134898}Ce n'est pas|un mauvais portrait de toi.
+{135102}{135131}Prends-le.
+{135149}{135169}En cadeau.
+{135685}{135780}Servez le Seigneur, qu'll vous guide|dans votre morne vie.
+{135786}{135835}Que puis-je pour vous,|pauvre homme ?
+{135862}{135901}Nos munitions sont garanties.
+{135907}{136010}Celles-ci ont été bénies|par l'archevêque de Detroit.
+{136300}{136375}Que le Seigneur lave cette terre|de Sa sainte lumière
+{136397}{136474}et purge ses sombres recoins|des païens
+{136494}{136523}et Philistins.
+{136573}{136630}La vision de Christ que tu as
+{136654}{136706}est la pire ennemie|de ma vision à moi.
+{136976}{137004}As-tu du tabac ?
+{137046}{137073}ça, non.
+{137122}{137183}Ce ne sont pas|des boîtes de tabac, là ?
+{137192}{137212}ça, oui.
+{137238}{137272}Mais elles sont vides.
+{137308}{137341}Pas de tabac dedans.
+{137390}{137448}Tu veux voir des colliers ?
+{137499}{137536}Ou une couverture ?
+{137613}{137636}Une couverture...
+{137713}{137757}Oui, cher monsieur. Des munitions.
+{137828}{137863}Du tabac, je vous prie.
+{137943}{138039}ll m'en reste peut-être...|une ou deux carottes.
+{138096}{138148}De ma réserve personnelle.
+{138230}{138263}Pour les bons amis.
+{138443}{138468}Grand Dieu !
+{138514}{138549}Vous êtes William Blake !
+{138692}{138743}Par la grâce du Tout-Puissant !
+{138779}{138814}Serait-ce présomptueux
+{138820}{138849}de vous demander...
+{138932}{138962}votre autographe ?
+{139080}{139113}Cher monsieur,
+{139143}{139180}ce serait un honneur.
+{139285}{139302}Pardon.
+{139528}{139555}Voici mon autographe.
+{139654}{139736}Puisse Dieu vouer ton âme|aux flammes de l'enfer !
+{139836}{139862}ll l'a déjà fait.
+{140582}{140612}Je suis fatigué.
+{140734}{140761}Je libère les chevaux.
+{142198}{142250}Tu as encore ramassé|du métal de Blanc.
+{142304}{142345}Je l'attire comme un aimant.
+{142512}{142561}Beau jour pour faire du canoë.
+{145060}{145089}Est-ce le bateau
+{145133}{145191}qui me fera traverser|le miroir de l'eau ?
+{145306}{145345}Ce bateau n'est pas assez puissant.
+{145752}{145868}WiIIiam BIake|est une Iégende àprésent,
+{145887}{145947}c'est un bon amià moi.
+{150746}{150785}Dresse-toi.
+{151795}{151826}Marche fiêrement.
+{154805}{154839}Cet homme,
+{154859}{154887}je le connais.
+{154943}{155012}C'est un grand constructeur|de canoës de mer.
+{161906}{161973}J'ai mis des rameaux de cêdre|dans ton canoë.
+{162026}{162090}Le temps est venu pour toi|de partir.
+{162136}{162196}De retourner là d'où tu viens.
+{162293}{162326}A Cleveland ?
+{162359}{162428}A l'endroit|d'où sont venus tous les esprits
+{162462}{162524}et où tous les esprits retournent.
+{162606}{162663}Ce monde ne te concernera plus.
+{162949}{162985}J'ai trouvé du tabac.
+{163040}{163098}Ce tabac est pour ton voyage,
+{163126}{163156}William Blake.
+{163453}{163479}Personne,
+{163531}{163560}je ne fume pas.
+

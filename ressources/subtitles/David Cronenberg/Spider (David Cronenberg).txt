@@ -1,0 +1,507 @@
+{4039}{4099}{y:i}D'après le roman de Patrick McGrath
+{8879}{8920}C'est pas en bas ?
+{8945}{8985}C'est en bas je crois.
+{9029}{9053}Voyons ça.
+{9060}{9093}C'est écrit quoi ?
+{9192}{9225}Ça dit quoi...
+{9239}{9275}Pegge Street.
+{10417}{10443}Miss... Wilkinson ?
+{10527}{10556}Mr.Cleg je présume ?
+{10630}{10675}Je suis Mrs Wilkinson.
+{10697}{10736}Entrez, on vous attendait.
+{10795}{10857}Je vais chercher mes clés Mr.Cleg.
+{12605}{12650}Bien le bonsoir monsieur.
+{12690}{12760}Vous connaissez le scorpion|je suppose ?
+{12838}{12859}Non.
+{12880}{12926}Vous n'êtes donc pas d'Afrique ?
+{12933}{13014}Je vous avais pris|pour un ancien d'Afrique.
+{13045}{13069}Non.
+{13155}{13184}L'Afrique...
+{13215}{13277}en voilà un continent noir !
+{13330}{13380}On avait dit à un ami,
+{13387}{13493}de ne pas sortir nu-pieds|à cause des scorpions.
+{13565}{13616}On fait connaissance Mr.Cleg ?
+{13645}{13724}On ne peut hélas|pas faire confiance à Terrence,
+{13745}{13788}n'est-ce pas Terrence ?
+{13820}{13868}Suivez-moi.
+{13878}{13928}On va ôter ces habits mouillés.
+{14208}{14270}S'est levé en pleine nuit,
+{14295}{14322}a mis ses chaussures...
+{14407}{14451}a mis ses chaussures,
+{14488}{14524}piqué par un scorpion,
+{14565}{14618}caché au bout de sa chaussure.
+{14640}{14686}Son agonie a été longue.
+{14706}{14754}Dix-sept heures.
+{15180}{15216}Tenez Mr.Cleg.
+{15728}{15755}Suivez-moi.
+{16300}{16346}Votre chambre Mr.Cleg.
+{18246}{18272}Pas encore déshabillé ?
+{18291}{18317}Venez ici.
+{18431}{18479}A votre aise Mr.Cleg.
+{18491}{18551}Débrouillez-vous seul...
+{22559}{22595}Kitchener Street,
+{22636}{22674}Spleen Street...
+{22774}{22812}Omdurman Close...
+{22842}{22916}les jardins le long des voies...
+{22958}{22997}suivre le canal...
+{23076}{23114}suivre le canal.
+{23126}{23162}Kitchener Street.
+{23286}{23320}Maman...
+{23636}{23686}Debout Mr.Cleg !
+{23924}{23972}On ne fume pas au lit.
+{24597}{24652}Vous avez bien dormi monsieur ?
+{24699}{24795}Les lits sont assez spéciaux|n'est-ce pas ?
+{24833}{24896}Mais on s'y fait,
+{24912}{24991}après quelques années.
+{25069}{25100}Je ne resterai pas...
+{25121}{25169}aussi longtemps.
+{25207}{25262}Moi non plus, je l'espérais mais...
+{25291}{25351}le monde est brutal,
+{25374}{25425}et nous sommes sur une île.
+{25431}{25463}Mais...
+{25477}{25561}c'est une île où règne|une reine tyrannique.
+{25581}{25663}Qui a le pouvoir de nous renvoyer
+{25672}{25712}d'où nous venons...
+{25767}{25786}à l'asile !
+{25837}{25873}On se lance déjà ?
+{25907}{25972}On devrait en discuter un jour.
+{26104}{26152}On porte combien de chemises ?
+{26159}{26205}Un, deux, trois, quatre !
+{26244}{26316}Est-ce vraiment nécessaire ?
+{26324}{26380}Mais oui chère madame.
+{26409}{26481}C'est l'habit qui fait l'homme,
+{26569}{26622}et moins il y a d'homme
+{26631}{26679}plus il faut d'habits.
+{28461}{28502}Maman...
+{29109}{29193}Je veux être avec toi...
+{29312}{29362}Maman chérie...
+{29420}{29444}S'il te plaît...
+{29657}{29713}Tu vois... Tu sais...
+{29782}{29816}Maman...
+{29932}{29966}Elle était si...
+{30037}{30078}Elle était si...
+{33172}{33199}Splendide !
+{33245}{33274}C'est une...
+{33307}{33338}une aile...
+{33363}{33394}de... mouette.
+{33508}{33565}Ça ne pouvait aller que là.
+{33857}{33910}Vous faites des progrès ?
+{36542}{36574}Qu'est-ce que tu fais ?
+{36583}{36607}Quelque chose.
+{36628}{36659}Quelque chose.
+{36718}{36752}Comme tu es malin !
+{36775}{36819}Et si habile de tes mains.
+{36828}{36845}Pour toi !
+{36855}{36886}Pour toi...
+{36896}{36932}Pour toi...
+{37200}{37277}Va au pub dire à ton père|que le dîner est prêt.
+{37298}{37324}C'est pas prêt.
+{37343}{37371}C'est pas prêt.
+{37390}{37455}Ça le sera|quand tu l'auras sorti du pub.
+{37498}{37537}Attention, j'ai lavé les marches.
+{39353}{39385}C'est qui ce gosse ?
+{39393}{39450}- T'es mignon !|- Je viens chercher papa.
+{39463}{39504}Il est pas là.
+{39683}{39721}Tu lui as montré.
+{39746}{39782}Elle a fait ça ?
+{39789}{39829}Regarde sa tête !
+{39843}{39877}Un ange !
+{40188}{40224}- 'Soir Bill.|- 'Soir Ernie.
+{40231}{40284}- Comme d'hab ?|- Ouais.
+{40428}{40450}Papa ?
+{40494}{40520}Papa ?
+{40653}{40680}Papa ?
+{40726}{40752}Papa ?
+{41195}{41227}Pas un mot !
+{41839}{41879}Le pub "Dog & beggar"...
+{42354}{42409}Quand j'étais jeune fille...
+{42449}{42501}on vivait à la campagne.
+{42544}{42565}Dans l'Essex.
+{42608}{42687}Le matin je roulais|dans les champs à vélo.
+{42731}{42776}Y avait des toiles aux arbres.
+{42816}{42859}Comme des nuages de mousseline.
+{42884}{42920}Toiles d'araignée ?
+{42941}{42972}Toiles d'araignée.
+{42979}{43017}Bien sûr.
+{43034}{43074}Qui tisse des toiles ?
+{43124}{43155}Ensuite,
+{43176}{43217}en s'approchant,
+{43258}{43314}on voit que c'est pas|de la mousseline,
+{43349}{43390}c'est des roues...
+{43426}{43493}De grandes roues brillantes.
+{43558}{43585}Tu sais quoi ?
+{43603}{43618}Quoi ?
+{43678}{43729}Si on sait regarder,
+{43761}{43817}on voit les poches d'œufs.
+{43861}{43904}De ravissants petits paquets.
+{43941}{43999}Elle tisse des sacs en soie,
+{44009}{44045}pour y pondre ses œufs.
+{44074}{44144}Et après,|qu'est-ce qu'elle fait ?
+{44176}{44224}Tu l'aimes cette histoire ?
+{44251}{44299}Elle s'en va, en traînaillant.
+{44306}{44347}Sans même jeter un regard.
+{44354}{44392}Et ensuite elle meurt.
+{44406}{44440}Elle a fait son travail.
+{44474}{44519}Il lui reste plus de soie.
+{44559}{44600}Elle est toute sèche et vide.
+{44644}{44682}Toute sèche...
+{44846}{44877}T'es prête ?
+{44909}{44950}On ne peut plus prête !
+{45156}{45185}Et toi
+{45194}{45252}j'te confie la maison, d'accord ?
+{46009}{46040}Je t'aime...
+{46259}{46333}C'est bon Billy...|Allez, on va boire un verre !
+{47244}{47271}Tu veux quoi ?
+{47314}{47346}Un gin-orange.
+{47519}{47555}- 'Soir Bill.|- 'Soir Ernie.
+{47564}{47627}Une pinte et un gin-orange.
+{47644}{47677}Un gin-orange.
+{47737}{47792}Y avait pas grand-chose là-dessous.
+{47847}{47864}Bien tassé !
+{47869}{47921}Et il s'est fini au poignet, là...
+{47949}{47976}"Tu sais faire que ça ?"
+{47982}{48058}"Fais ça chez les rupins,|tu verras c'qu'y disent."
+{48067}{48105}On s'rince l'œil ?
+{48244}{48304}C'est cette grosse pouffe d'Yvonne.
+{48337}{48363}A la tienne !
+{48369}{48396}A la tienne !
+{48564}{48605}Grosse pouffe...
+{48687}{48742}gin-orange...
+{48999}{49038}Bois pas si vite !
+{49215}{49231}Même chose ?
+{49297}{49357}Non, pas tout de suite.
+{49467}{49544}Alors j'lui dis|"Y a pas l'feu au lac Nora !"
+{49652}{49707}C'est qu'il était déjà dedans !
+{49714}{49776}Elle se retrouve|avec une tonne sur elle.
+{49784}{49844}Et elle reste là, à rire...|"Tu ris ?" je dis.
+{49862}{49905}"J'me sèche les cheveux..."
+{49914}{49952}"J'te comprends..."
+{49959}{50021}"Regarde moi ça,|on dirait Tom Pouce !"
+{50057}{50153}"Tom Pouce ?|On jurerait un petit doigt."
+{50170}{50205}Et on est parties...
+{50292}{50357}Tous les jours|je trouve un mégot...
+{50365}{50434}Ce mec c'est une rognure !
+{50469}{50522}Y m'dit qu'il y est.|J'y dis:
+{50530}{50597}"Les Anglais ont débarqué...|Tu piges ?"
+{50845}{50888}Yvonne Wilkinson...
+{50963}{51015}Elle a fait le premier pas.
+{52032}{52068}- L'plombier.|- Qui ça ?
+{52079}{52156}J'suis le plombier.|Problèmes de tuyaux ?
+{52167}{52182}Yvonne !
+{52210}{52241}C'est l'plombier !
+{52270}{52315}N'écrase pas le chat !
+{52400}{52429}C'est ici.
+{52635}{52673}C'est lui l'plombier ?
+{52797}{52826}Salut Yvonne.
+{52922}{52951}T'entends ça ?
+{52967}{53011}Ça arrête pas une minute.
+{53054}{53086}Toute la journée,
+{53130}{53157}c'est-y vrai Nora ?
+{53167}{53203}Toute la journée.
+{53242}{53273}Faut d'l'air.
+{53308}{53370}On en a de l'air. Ça refoule.
+{53392}{53416}Ça refoule...
+{53475}{53514}Tu sens ?
+{53525}{53566}Ça vient pas des vécés ?
+{53582}{53623}J'aimerais mieux...
+{53689}{53752}Toute l'installation est pourrie.
+{53900}{53950}Tu m'nettoies les tuyaux ou non ?
+{54492}{54578}J'ai reçu une lettre|de Sophia Loren ce matin.
+{54598}{54617}Ah ouais ?
+{54630}{54647}Ouais !
+{54652}{54693}Qu'est-ce qu'elle veut ?
+{54720}{54761}Le truc classique.
+{54777}{54823}Tu veux dire... le truc ?
+{54845}{54886}Tout à fait !
+{54913}{54951}Toutes les mêmes !
+{54960}{55001}Les mêmes, toutes !
+{55015}{55075}En même temps,|c'est ça ou rien.
+{55085}{55136}La Française en sait long|là-dessus.
+{55142}{55214}C'est sûr, j'en connais une|qu'a trois nichons.
+{55226}{55264}- Tu charries ?|- J'te jure !
+{55270}{55327}Un là... un là... et le dernier ici.
+{55358}{55420}Là tu m'étonnes...
+{55428}{55471}Chic fille. De Manchester.
+{55478}{55511}T'as dit Française.
+{55520}{55566}C'était une autre en fait...
+{55653}{55717}Ma mère en avait trois aussi.
+{55755}{55784}Une belle femme.
+{55825}{55866}Elle aimait les matelots.
+{55890}{55941}Bob, dis pas ça sur ma mère !
+{55956}{56004}Je te présenterai bien sûr.
+{56010}{56044}Comment ça ?
+{56075}{56125}Chaque fois que je fume une clope
+{56176}{56200}ma mère
+{56205}{56258}s'envoie un matelot.
+{56288}{56323}Tu fumes tout le temps !
+{56330}{56373}C'est c'que j'disais.
+{56873}{56904}Salut plombier !
+{57155}{57196}C'est quoi ton nom au juste ?
+{57203}{57239}Une minute...
+{57267}{57296}Bill !
+{57333}{57381}Je t'avais déjà remarqué.
+{57400}{57446}Mon chat s'appelait Bill.
+{57468}{57533}On gèle !|Heureusement j'ai ma fourrure.
+{57591}{57627}Tu l'aimes ma fourrure ?
+{57655}{57705}J'l'ai eue au marché tu sais.
+{57713}{57742}D'occasion.
+{57750}{57800}Aujourd'hui tout est comme ça...
+{57820}{57895}J'suis un peu d'occase aussi.|Ça te gêne pas ?
+{57931}{57988}Tu dois aimer ça, non ?
+{58026}{58081}Tu m'as bien ramoné les tuyaux.
+{58103}{58154}Y sont comme neufs...
+{58178}{58219}Mais ça pue toujours.
+{58273}{58340}Allez plombier,|on va s'occuper d'toi.
+{58378}{58426}Tu me ramones...
+{58446}{58489}Et moi j'éponge...
+{58558}{58596}Ça te plaît ?
+{59364}{59419}Grouille-toi Bill. On se les gèle.
+{59466}{59516}J'reste un peu ici.
+{59523}{59559}Si tu veux.
+{59578}{59623}Moi je vais au "Dog".
+{59831}{59888}J'suis allé boire au "Salisbury".
+{59908}{59966}On a le droit, après le boulot.
+{60090}{60155}J'étais pas faite|pour vivre comme ça.
+{60165}{60206}C'est pas ma faute.
+{60215}{60275}- Mais si !|- Pas ma foutue faute !
+{60426}{60464}T'en fais pas Spider.
+{60478}{60538}Ton père et moi on discute...
+{60561}{60602}Tu m'as réveillé.
+{60671}{60709}T'en fais pas.
+{60729}{60772}On va tous se coucher.
+{60886}{60931}Viens ma grosse araignée.
+{60961}{60997}Au lit !
+{62378}{62416}J'ai fait des courses.
+{62484}{62517}Papa aimera tu crois ?
+{62643}{62672}Spider ?
+{62886}{62922}Ça va pas.
+{63183}{63212}Ça va pas du tout !
+{63276}{63374}Ça va pas...|Mais on va faire aller...
+{63584}{63617}Vous me ramassez ça Mr.Cleg.
+{63661}{63690}Chaque morceau.
+{63731}{63755}{y:i}Allô ?
+{63784}{63798}Allô ?
+{64541}{64587}L'usine à gaz te fascine, non ?
+{64596}{64632}Ça ne m'étonne pas.
+{64639}{64691}C'est dangereux le gaz.
+{64706}{64735}J'ai connu un type
+{64759}{64814}qui s'était mis la tête|dans le four,
+{64861}{64907}il a ouvert le gaz...
+{64942}{65002}et puis il a changé d'avis.
+{65062}{65110}Mais sa tête était bloquée.
+{66067}{66095}Ça sent le gaz.
+{66706}{66740}Du gaz...
+{67416}{67493}Je sens...|c'est du gaz n'est-ce pas ?
+{69287}{69332}Ça serait bien de rester ici.
+{69402}{69440}Tous les deux.
+{69500}{69569}- Tu trouves pas ?|- Ah ça non !
+{69595}{69643}J'en peux plus de cette baraque.
+{69942}{69968}Bill !
+{70542}{70576}Spider !
+{71602}{71647}- Un grand Scotch.|- Ça marche.
+{72200}{72258}- Elle s'en va.|- Je me demande où...
+{72459}{72507}Alors plombier,
+{72532}{72573}on est en forme ce soir ?
+{72613}{72685}Pourquoi on irait pas|vers les jardins ?
+{72747}{72781}Les jardins ?
+{72815}{72829}Quand ça ?
+{72874}{72915}Pour moi c'est maintenant.
+{72928}{72973}On s'y retrouve ?
+{73019}{73048}D'accord plombier.
+{73062}{73084}J'ai rien contre.
+{74153}{74184}Je sors Spider.
+{74273}{74309}Je vais voir ton père.
+{75975}{76004}Merde.
+{76250}{76303}- Ça va ?|- J'crois bien.
+{76327}{76383}Tu t'es pris une gamelle.
+{76390}{76429}Je tiens.
+{76477}{76528}- Ça va ?|- Ouais et toi ?
+{76538}{76579}Ça ira mieux dans une minute.
+{76675}{76703}Par là.
+{76710}{76746}Tu m'entraînes où ?
+{76753}{76799}Là-dedans !
+{76805}{76856}J'ai quelque chose à te montrer.
+{76888}{76928}- Joli !|- C'est chez moi.
+{77468}{77492}Deux Scotch.
+{77523}{77585}Une pinte de bitter, trois gin.
+{77593}{77665}Sept paquets de chips|et des Embassy.
+{77672}{77708}Je vous sers quoi ?
+{77718}{77763}Je cherche mon mari.
+{77783}{77819}Elle cherche son mari !
+{77828}{77878}- C'est qui ton mari ?|- Bill.
+{77885}{77933}- Bill qui ?|- Bill Cleg.
+{77987}{78035}Bill... ta bourgeoise !
+{78075}{78092}Il est là ?
+{78118}{78161}S'il est malin, non...
+{78203}{78263}Bill Cleg ? Inconnu.|Il vient souvent ?
+{78273}{78287}Non.
+{78333}{78388}Enfin... je ne crois pas.
+{78443}{78469}Je vous sers quelque chose ?
+{78506}{78530}Non.
+{78538}{78564}Sans façon.
+{82898}{82949}On fait l'ménage plombier ?
+{83309}{83359}On fait l'ménage plombier...
+{83713}{83749}Vas-y, réchauffe-moi !
+{83758}{83787}C'est romantique.
+{83794}{83823}Une minute chérie.
+{83926}{83964}Je fonds.
+{84044}{84091}Quoi ? On s'en fout !
+{84129}{84170}Tu réveilles les voisins.
+{84176}{84219}C'est mes voisins maintenant !
+{84229}{84279}Ouais, t'es à moi maintenant.
+{84301}{84335}Que nous deux !
+{85181}{85217}Bande d'ordures !
+{85252}{85290}Ordures !
+{85326}{85379}Barrez-vous ordures !
+{85409}{85485}Ou j'vous bute tous,|bande d'enfoirés !
+{85513}{85576}J'suis pas espagnol !
+{85592}{85635}Lâche ça Freddy !
+{85676}{85705}Allez !
+{85728}{85760}Sois gentil.
+{85783}{85829}Personne n'a dit ça.
+{85844}{85892}Ordures !
+{85921}{86005}J'vais vous arracher l'cœur|à la truelle.
+{86014}{86071}Me parle pas de nonchalance.
+{86134}{86201}J'vais vous écorcher vifs,|ordures...
+{86306}{86345}J'vous préviens !
+{86394}{86445}M'approchez pas !
+{87671}{87739}J'ai trouvé un morceau... de verre.
+{87754}{87792}C'était par terre.
+{88064}{88093}Je l'ai trouvé
+{88099}{88131}par terre.
+{88199}{88238}Le voilà !
+{88334}{88382}On ne savait pas où il était.
+{88769}{88812}Ça peut crever un œil...
+{90229}{90265}{y:i}Kitchener Street.
+{91150}{91181}Ça te dit ?
+{91222}{91253}Ça doit partir !
+{91277}{91334}On achètera à manger.
+{91349}{91407}Tu es un ange !
+{91479}{91515}On y va !
+{91532}{91552}Gentille...
+{93207}{93243}Tu veux ma photo ?
+{93322}{93406}T'es vraiment devenu|un drôle de petit gars.
+{93435}{93490}J'comprends que Bill soit inquiet.
+{93532}{93571}Qu'est-ce que t'as ?
+{93905}{93941}Voilà ton toast.
+{93982}{94018}De la sauce ?
+{94177}{94235}Ton père va rentrer tôt.
+{94277}{94335}Jamais j'serai prête.
+{94342}{94393}Est-ce que ça en vaut la peine ?
+{94430}{94485}C'est vrai qu'on a tué ta mère.
+{94520}{94577}C'est moi ta mère maintenant.
+{94675}{94735}Ils m'ont mis les abats en plus.
+{94792}{94816}Assassin !
+{94898}{94912}Quoi ?
+{94930}{94971}Vous êtes des assassins !
+{94990}{95014}Mon Dieu !
+{95138}{95198}A la cave !|Ça commence à suffire.
+{95208}{95253}A la cave ! Viens ici !
+{95335}{95371}Pas la peine de revenir !
+{95399}{95426}Assassin !
+{95503}{95534}Bordel !
+{95669}{95701}Assassin !
+{95740}{95783}Vous êtes des assassins.
+{96240}{96307}{y:i}Douce nuit
+{96330}{96410}{y:i}Nuit sacrée
+{96442}{96526}{y:i}Tout est calme
+{96545}{96621}{y:i}Tout est lumineux
+{96660}{96705}{y:i}Autour de la Vierge
+{96773}{96862}{y:i}La mère et l'enfant
+{96885}{96954}{y:i}Divin enfant
+{96977}{97064}{y:i}Si tendre et délicat
+{97113}{97259}{y:i}Dors en paix
+{97385}{97555}{y:i}Dors en paix
+{98200}{98231}Dennis !
+{98310}{98330}Dennis !
+{98680}{98709}Tu te sens bien ?
+{98835}{98861}Viens Dennis.
+{98900}{98922}Viens,
+{98928}{98961}je dois te parler.
+{99048}{99093}Qu'est-ce qui cloche ?
+{99140}{99229}Pourquoi tu nous en veux ?
+{99290}{99324}Ta mère a de la peine.
+{99340}{99371}C'est pas ma mère.
+{99430}{99471}Ah non, pas ça !
+{99488}{99516}C'est qui alors ?
+{99535}{99566}Qui ?
+{99585}{99602}C'est qui ?
+{99616}{99637}Une grue.
+{99700}{99760}Tête de mule !|J'devrais te tuer.
+{99768}{99792}Une pouffiasse.
+{99828}{99909}T'as tué maman, assassin !|Sale tueur !
+{100290}{100331}Tu te rends compte ?
+{100358}{100394}T'es dingue ?
+{100490}{100545}D'où tu sors tout ça ?
+{100580}{100664}T'es trop sauvage.|T'as pas un seul copain.
+{100693}{100732}A ton âge j'en avais plein.
+{100791}{100851}Il te faut des potes de ton âge.
+{101029}{101055}Dennis !
+{101118}{101185}Tu crois vraiment que j'l'ai butée ?
+{101285}{101302}Réponds !
+{101346}{101401}Tu crois ça ?
+{101759}{101795}A la bonne heure !
+{101878}{101916}Allez, on rentre.
+{101931}{101953}Viens !
+{102385}{102419}Pardon.
+{102546}{102575}Pardon.
+{102879}{102908}Ça va ?
+{102913}{102945}Ça va mieux.
+{103086}{103117}Asseyez-vous.
+{103315}{103351}J'ai ramené
+{103361}{103401}quelque chose d'extra
+{103408}{103437}pour le dîner.
+{104066}{104082}Debout !
+{104306}{104342}Debout ! Vite !
+{105651}{105672}Mr.Cleg ?
+{105711}{105754}Pourquoi ce regard ?
+{105809}{105850}Répondez Mr.Cleg !
+{105916}{105952}On a perdu sa langue ?
+{106292}{106325}Mrs.Wilkinson.
+{116395}{116462}Je ne trouve pas|mon trousseau de clés.
+{116518}{116587}Je l'avais laissé sur la table|hier soir,
+{116595}{116667}et ce matin il n'y était plus.
+{116725}{116746}Alors ?
+{116913}{116951}Mr.Cleg ?
+{116995}{117045}Vous savez où il est ?
+{117078}{117143}Un trousseau de clés.
+{117205}{117236}Avec un anneau.
+{117613}{117642}Pas de clés...
+{118360}{118384}Mr.Cleg !
+{118525}{118595}Pas dans votre chambre Mr.Cleg !
+{118618}{118649}Cette saleté !
+{118743}{118781}Enlevez ça !
+{118856}{118923}Je vous le redemande Mr.Cleg:
+{118938}{118976}Où sont mes clés ?
+{119048}{119084}Vous êtes qui ?
+{119123}{119173}Ne jouez pas au malin avec moi.
+{119225}{119249}D'accord,
+{119262}{119310}vous ne me laissez pas le choix.
+{119341}{119386}On écarte bras et jambes.
+{119988}{120031}Une vraie pie !
+{120067}{120108}Où elles sont cachées ?
+{120271}{120326}Rien à me dire Mr.Cleg ?
+{120400}{120434}Pas vraiment.
+{128681}{128720}- Ça va ?|- Tu m'fais mal !
+{128729}{128760}Pardon !
+{128769}{128831}C'est juste pour t'embrasser.
+{128854}{128904}J'm'en occupe...
+{129379}{129415}Ça marche pas.
+{129452}{129490}Allez, quoi...
+{129527}{129570}Tu parles d'un plombier...
+{129592}{129635}Les chiottes sont bouchées...
+{132277}{132308}Reste ici !
+{133109}{133133}Non...
+{133184}{133254}A l'aide ! Par pitié !
+{133262}{133305}Par pitié !
+{133359}{133395}Dieu tout-puissant.
+{133472}{133498}T'as fait ça.
+{133549}{133585}C'est toi qui as fait ça.
+{133635}{133678}T'as buté ta maman.
+{133802}{133845}Tu as tué ta mère.
+{133905}{133955}Tu as assassiné ta mère.
+{134293}{134331}Qu'avez-vous fait ?
+{134497}{134538}Qu'avez-vous fait ?
+{135070}{135130}Prêt à revenir chez nous|mon vieux ?
+{135222}{135282}T'as une clope John ?
+

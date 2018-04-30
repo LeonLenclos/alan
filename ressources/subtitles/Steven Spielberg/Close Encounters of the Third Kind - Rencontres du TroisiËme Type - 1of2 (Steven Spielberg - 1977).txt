@@ -1,0 +1,559 @@
+{770}{945}RENCONTRES DU|TROISIÈME TYPE
+{2794}{2890}Désert de Sonora, Mexique
+{2944}{3014}Aujourd'hui
+{3485}{3528}Nous sommes les premiers ?
+{3599}{3652}Nous sommes les premiers|à arriver ?
+{4642}{4690}L'interprète est là ?
+{4719}{4834}Je ne suis pas interprète professionnel,|je suis dans la cartographie.
+{4854}{4885}Je fais des cartes.
+{4892}{4959}Vous pouvez traduire l'anglais|et le français ?
+{4967}{5039}Oui, je l'ai dit au chef|à la Villa Hermosa.
+{5046}{5099}Mais je suis un peu|pris à court.
+{5719}{5787}Ils sont tous là ! Au complet !
+{6062}{6115}Je veux les numéros|de moteurs !
+{6711}{6798}M.Lacombe veut les numéros|de série des moteurs !
+{6879}{6946}M-447148 !
+{6954}{7055}W-445529 !
+{7067}{7146}Numéro 445529, d'accord !
+{7154}{7257}A peu près 200 litres|dans le réservoir de droite !
+{7268}{7311}447149, d'accord !
+{7317}{7370}De quoi s'agit-il exactement ?
+{7379}{7432}- C'est l'escadrille 19 !|- Et alors ?
+{7439}{7525}Ils étaient partis en mission|de la base de Fort Lauderdale.
+{7542}{7607}Ils faisaient des exercices|sur une cible.
+{7614}{7669}Ils se servent encore|de ces coucous ?
+{7679}{7787}Vous rigolez ? Ces appareils|ont été portés manquants en 1945.
+{7914}{7952}Ils sont flambants neufs !
+{8059}{8099}Les pilotes sont là ?
+{8123}{8175}Je ne comprends pas !
+{8195}{8245}Où sont passés les pilotes ?
+{8345}{8410}Comment ils sont arrivés jusqu'ici ?
+{9197}{9231}Il est du village voisin.
+{9237}{9297}Il a vu ce qui s'est passé|hier soir.
+{9843}{9882}Coup de Soleil?
+{10271}{10336}Il dit que le Soleil s'est levé|La nuit dernière.
+{10375}{10428}Que le Soleil a chanté pour lui.
+{11057}{11182}Centre de contrôle aérien|d'Indianapolis
+{11299}{11352}Tu veux bien surveiller ce plot ?
+{11359}{11405}Il est sur 122 point 5.
+{11412}{11448}Je reviens.
+{11491}{11571}Contrôle Indianapolis,|Quel trafic pour Air East 31 ?
+{11624}{11648}Air East 31, négatif.
+{11657}{11769}Le seul trafic en vue est un L-1 0-11|de la TWA, sur votre position 6 heures...
+{11783}{11833}distance 15 miles...
+{11847}{11931}et un DC-9 Allegheny|à 12, à environ 50 miles
+{11940}{12007}Je passe sur grand écran.|A vous.
+{12030}{12100}J'ai un signal à 2 heures,|au-dessus et en descente.
+{12122}{12153}Air East 31, compris.
+{12160}{12229}J'ai un écho|pour la position indiquée.
+{12237}{12278}Aucun trafic recensé.
+{12285}{12332}Je regarde les autres paliers.
+{12355}{12405}Regarde le trafic bas.
+{12412}{12443}Ici Air East 31.
+{12449}{12494}Pas sur un palier inférieur.
+{12504}{12580}Ils sont à une heure,|au-dessus de nous et en descente.
+{12603}{12666}Air East 31,|vous pouvez dire quel appareil ?
+{12692}{12776}Négatif. Je ne distingue|pas les contours en fait.
+{12815}{12877}L'appareil est très brillant.
+{12885}{12976}Jamais vu de feux de position|aussi éblouissants.
+{12985}{13033}Ils passent du blanc au rouge.
+{13047}{13083}Des couleurs saisissantes.
+{13090}{13166}Contrôle, ici TWA 517.
+{13174}{13248}L'appareil a des phares|très puissants.
+{13256}{13328}J'ai cru que Air East|avait allumé les siens.
+{13362}{13395}Peut-être un satellite ?
+{13404}{13466}Est-ce qu'il est à 10 heures de votre position...
+{13476}{13505}et à 5 miles ? A vous.
+{13512}{13545}Affirmatif 31.
+{13564}{13643}Il se déplace nord-est.|Pas d'altitude signalée.
+{13652}{13719}Compris. Je ne pense pas|qu'il nous gêne.
+{13727}{13804}Il va descendre à 1500 pieds|au-dessous de moi.
+{13812}{13848}Un instant !
+{13857}{13885}Attendez contrôle.
+{13907}{13969}Contrôle, il vient|de virer plein nord.
+{13977}{14056}Il fonce sur mon pare-brise.|Je vire à droite.
+{14067}{14098}ALERTE ROUGE
+{14104}{14154}Descendez au palier 310...
+{14162}{14205}virez de 30 degrés à droite.
+{14212}{14318}Appelez le 45ème et demandez s'il|y a des essais de missiles prévus.
+{14329}{14418}Est-ce qu'il y a des essais de missiles|dans la zone 2508 ?
+{14426}{14462}Air East 31, compris.
+{14469}{14563}Il est très lumineux et|sa trajectoire n'a rien de balistique.
+{14572}{14635}Compris.|Continuez votre descente.
+{14643}{14714}D'accord, contrôle.|Descente en continu.
+{14722}{14794}Il approche.|Il est brillant et rapide.
+{14804}{14883}Il passe à côté...|Il nous a évités de justesse !
+{14892}{14957}Air East 31,|je suis au palier 340...
+{14965}{15013}Ils veulent faire un rapport ?
+{15029}{15111}TWA 517, vous voulez faire|un rapport sur un OVNI ?
+{15224}{15310}Voulez-vous faire un rapport|sur un OVNI ? A vous.
+{15364}{15434}Négatif. Nous ne ferons|pas de rapport.
+{15443}{15517}Air East, voulez-vous faire|un rapport ?
+{15559}{15622}Négatif. Nous ne ferons pas|de rapport.
+{15639}{15725}Air East, voulez-vous faire|un rapport quelconque ?
+{15747}{15814}Je ne saurais pas|quel imprimé choisir.
+{15825}{15870}Moi non plus Air East 31.
+{15877}{15930}J'essaierai de suivre l'objet.
+{19941}{19973}Barry ?
+{20240}{20271}Chéri ?
+{20649}{20685}Barry !
+{21167}{21237}Papa, tu me fais mon problème ?
+{21274}{21370}C'est ton problème.|Quand on a un problème, on le résout.
+{21379}{21461}J'ai terminé mes études,|j'ai plus de problèmes à faire.
+{21477}{21534}Je comprends rien aux fractions.
+{21544}{21619}D'accord.|Un tiers de 60 ça fait combien ?
+{21639}{21687}C'est une fraction.|Je sais pas.
+{21694}{21725}Bon...
+{21735}{21771}Mettons que...
+{21799}{21878}ce wagon fasse|60 pieds de long.
+{21905}{21984}Et qu'un tiers dépasse|cette intersection.
+{22063}{22118}Voilà un autre convoi qui arrive.
+{22209}{22279}De combien il faudrait|déplacer celui-ci...
+{22287}{22345}pour il ne l'écrabouille pas ?
+{22352}{22412}Vite ! Des centaines|de vies sont en jeu.
+{22434}{22477}Alors ça vient ?
+{22537}{22585}La semaine dernière...
+{22597}{22678}tu avais dit que|tu nous emmènerais tous au ciné.
+{22731}{22760}Chéri ?
+{22830}{22897}Tu nous avais promis|un golf miniature !
+{23038}{23122}Roy, c'est quoi tous ces outils|sur ma table ?
+{23138}{23193}Cette table est pour mes affaires.
+{23200}{23243}Sers-toi de celle-là.
+{23250}{23285}C'est là qu'on mange.
+{23295}{23343}Je veux pas attraper le tétanos !
+{23354}{23409}- C'est quoi ?|- Tu sais ce qu'on donne ?
+{23420}{23484}Pinocchio !|Les gosses ne l'ont pas vu.
+{23492}{23552}Vous allez adorer Pinocchio.
+{23559}{23588}C'est incroyable !
+{23594}{23700}Y a que les enfants qui vont voir|des dessins animés débiles !
+{23712}{23755}- Quel âge tu as ?|- Huit ans.
+{23762}{23800}- Tu veux avoir neuf ans ?|- Oui.
+{23810}{23870}Alors tu verras Pinocchio|demain soir.
+{23900}{23950}Quelle bonne méthode !
+{23959}{24051}Je plaisante.|Pinocchio c'est toute mon enfance.
+{24059}{24126}Et les enfants pourraient aimer ça.
+{24195}{24250}J'ai tort.|Je le reconnais, d'accord ?
+{24257}{24345}|Toby ! Je vais casser la tienne|de tête ! Viens par ici !
+{24467}{24577}Je vais vous laisser le choix.|Je vais être tout à fait démocratique.
+{24589}{24685}Vous jouez au golf miniature,|avec la queue, les bousculades...
+{24695}{24748}ou on voit Pinocchio...
+{24755}{24841}avec des animaux en peluches|et des trucs magiques.
+{24862}{24903}- Alors on vote.|- Le golf !
+{24910}{24945}Tout le monde au lit !
+{24955}{25048}Papa avait dit qu'on regardait|Les dix commandements !
+{25075}{25135}Roy, ce film dure quatre heures.
+{25142}{25199}Ils peuvent regarder|cinq commandements.
+{25207}{25240}Salut, c'est Earl.
+{25247}{25322}On a un problème.|J'ai besoin de ton mari.
+{25329}{25375}Il ne conduit pas la nuit sans moi.
+{25382}{25432}On s'attend à une panne générale.
+{25439}{25506}Attends... Chéri !
+{25527}{25608}Jiminy Cricket !|C'est Earl au téléphone.
+{25742}{25831}Prends ta camionnette|et file sur la ligne N à Tolono.
+{25839}{25933}Le courant baisse sur tout|le réseau. Vous êtes touchés ?
+{26237}{26261}Hé, lumière !
+{26887}{26945}Barry !
+{27485}{27531}Au secours ! Je suis perdu.
+{27597}{27662}J'aimerais savoir|où se trouve Tolono.
+{27674}{27749}Je sais que|c'est sur la nationale 90.
+{27757}{27813}Si seulement j'avais un repère...
+{27824}{27886}- Cornbread Road, sud de la D 20.|- Cornbread ?
+{27901}{27940}Ils ont dû rétablir là-bas.
+{27947}{28021}Les habitants|pensent que c'est samedi soir.
+{28030}{28054}Ici le 411.
+{28060}{28127}Je ne tiens pas compte|de Tolono alors ?
+{28209}{28257}T'es au milieu, patate !
+{28274}{28343}Alors dis-moi où est Cornbread.|Crétin !
+{29022}{29096}834... F-27...
+{29132}{29204}M-Mary-10 jusqu'à M-Mary-12...
+{29400}{29491}Y a le raccord|mais ça ne nous mène nulle part.
+{29560}{29596}M-Mary-10.
+{33923}{33971}Qu'est-ce qui se passe là-bas ?
+{33987}{34030}J'en crois pas mes yeux !
+{34050}{34098}C'est grand comme une maison !
+{34153}{34179}On dirait une grange !
+{34214}{34270}Je ne sais pas quoi vous dire...
+{34380}{34464}Autoroute de Tolono|en direction de Harper Valley.
+{36135}{36161}Non !
+{36172}{36201}Attention !
+{36332}{36380}Mon Dieu ! Madame !
+{36401}{36445}Pas de casse ?|Excusez-moi.
+{36455}{36534}Je ne l'ai pas vu.|Il était au milieu, dans le virage.
+{36593}{36631}Ohé ! Venez !
+{36640}{36676}Qu'est ce qui te prend ?
+{36700}{36750}Barry, reviens ici !
+{37520}{37556}Des cornets de glace !
+{38040}{38078}C'est dingue !
+{38379}{38446}FRONTIÈRE DE L'OHIO
+{39115}{39153}Hé, attendez !
+{39174}{39230}Vous cavalez derrière quoi ?
+{39237}{39300}La camionnette !|Vous oubliez le péage !
+{39420}{39511}T'as vu ce qu'ils font ?|Ils collent à la route !
+{40655}{40698}Chérie, réveille-toi !
+{40714}{40786}Ronnie chérie !|J'ai vu un truc faramineux !
+{40797}{40833}Pas maintenant !
+{40839}{40904}Ecoute !|J'ai jamais vu un truc pareil !
+{40912}{40969}Une espèce de...|Dans la camionnette...
+{40979}{41039}tout d'un coup...|C'était rouge et puis...
+{41087}{41118}Roy...
+{41125}{41151}Ike a appelé.
+{41171}{41211}Et McGovern.
+{41217}{41272}Ils n'arrivent pas à te joindre.
+{41290}{41319}J'avais éteint ma radio.
+{41325}{41376}Le téléphone a pas|arrêté de sonner.
+{41382}{41466}Sylvia a été réveillée deux fois.|Tu devrais les rappeler.
+{41475}{41550}Tu te souviens des photos|d'aurores boréales ?
+{41557}{41617}C'est plus joli encore.
+{41625}{41671}Viens Ronnie.|Lève-toi !
+{41677}{41728}- Qu'est-ce qui va pas ?|- Rien.
+{41735}{41790}- Viens !|- Il y a eu un accident ?
+{41797}{41862}Pas un accident.|Tu voulais sortir, non ?
+{41872}{41908}Pas à quatre heures du matin.
+{41914}{41996}Il y a quelque chose|qu'il faut que tu voies.
+{42004}{42045}C'est très important.
+{42052}{42112}D'accord.|Et les enfants ?
+{42120}{42161}Je vais les chercher.
+{42170}{42213}On va voir un truc dément !
+{42225}{42288}Toby ! Brad !|Debout, venez !
+{42295}{42328}Mieux que le mini-golf !
+{42435}{42490}Oui, je me dépêche !
+{42517}{42543}Allez, on monte !
+{42625}{42666}Bonjour Madame Harris.
+{42675}{42711}Roy, c'est Madame Harris.
+{42717}{42760}J'espère que tu as|une bonne raison...
+{42767}{42800}C'est n'importe quoi !
+{42837}{42926}C'est bon, on a compris|ce que tu voulais dire.
+{43013}{43063}Tu as pris un coup de Soleil !|Regarde-toi !
+{43213}{43253}Qu'est-ce qui s'est passé ?
+{43375}{43423}Ça ressemblait à quoi ?
+{43450}{43501}A un cornet de glace.
+{43547}{43580}Quel parfum ?
+{43587}{43616}Orange.
+{43640}{43697}Ça ressemblait pas à un cornet...
+{43707}{43758}Plutôt à un coquillage.
+{43767}{43798}A un chausson ?
+{43805}{43913}Un de ces chaussons en forme|de croissants de Lune ?
+{43921}{43981}Un croissant, c'est ça ?
+{44190}{44250}Tu trouves pas|que je prends ça bien ?
+{44340}{44429}On venait ici rien que|pour se regarder dans les yeux.
+{44542}{44578}Un câlin...
+{45408}{45499}Désert de Gobi, Mongolie.
+{48075}{48161}C'est pas croyable !
+{48184}{48216}C'est pas croyable !
+{48222}{48246}C'est le Cotopaxi.
+{48252}{48324}- Comment il est venu là ?|- J'en sais rien.
+{48562}{48642}La police les a vus|mais n'a pas pu les arrêter
+{48650}{48780}Des ovnis au dessus|de cinq comtés de l'Indiana
+{49157}{49203}C'est ici la salle de bains ?
+{49635}{49712}Arrête de jouer|avec l'appareil photo !
+{49723}{49764}On dirait un steak pas cuit !
+{49770}{49854}Allez, sortez tous !|Sortez de cette maison !
+{49862}{49915}Tu n'as pas|à t'amuser avec ça !
+{49925}{49985}Dehors pendant que je range !
+{49995}{50038}Merci bien.
+{50485}{50536}Tiens, j'ai trouvé|ce lait auto-bronzant.
+{50542}{50633}Etale-le sur l'autre moitié|pour une teinte uniforme.
+{50642}{50712}J'aurai un teint de carotte.|Ça te rappelle quoi ?
+{50735}{50785}On dira que tu t'es endormi...
+{50795}{50835}sous la lampe à bronzer.
+{50844}{50873}Pour quoi faire ?
+{50915}{50970}Je peux te poser une question ?
+{50978}{51011}Ils existent ?
+{51017}{51053}Voilà pourquoi !
+{51060}{51091}Non, ils n'existent pas.
+{51098}{51150}Sortez vous acheter|des hot dogs.
+{51160}{51196}Ne lui dis pas ça.
+{51202}{51286}Si tu sais pas ce que tu racontes,|il ne faut pas en parler.
+{51295}{51389}Si j'en parle pas, comment|comprendre ce qui se passe ?
+{51397}{51424}Quoi ?
+{51435}{51466}Moi j'y crois maman.
+{51472}{51513}J'y crois aussi moi.
+{51520}{51551}Non, tu n'y crois pas.
+{51560}{51596}Papa dit qu'on y croit.
+{51605}{51646}Il n'a rien dit de tel.
+{51665}{51696}Tu as dit ça Roy ?
+{51728}{51807}Ce qui m'intéresse,|c'est de savoir ce qui se passe.
+{51815}{51887}Il ne se passe rien !|Ces choses arrivent...
+{51897}{51938}Quelles choses ?
+{51960}{52017}- Je ne veux rien savoir.|- C'est important !
+{52024}{52091}Je ne vais pas m'en tenir là !
+{52099}{52147}Je refuse de t'écouter !
+{52155}{52217}J'ai vu quelque chose d'inexplicable.
+{52268}{52330}J'ai vu quelque chose|d'inexplicable aussi.
+{52381}{52433}J'y retourne cette nuit.
+{52488}{52519}Non.
+{52535}{52564}Si.
+{52575}{52608}Non.
+{52615}{52644}Si.
+{52705}{52736}Je te dis que non.
+{52742}{52773}Ils habitent sur la Lune ?
+{52780}{52879}Ils ont des bases là-haut et|la nuit ils entrent par ta fenêtre.
+{52887}{52959}C'est pas un coup de Lune|que j'ai sur la figure.
+{52967}{53034}- T'es passé par ma fenêtre !|- Tu me fais mal !
+{53042}{53102}- T'as pris mes crayons !|- Roy n'est pas comme ça.
+{53110}{53170}Il adore son travail.|Ne dites pas ça !
+{53177}{53235}Il était avec nous|toute la soirée !
+{53243}{53276}Je n'irai pas ce soir.
+{53286}{53348}C'est pas du tout son genre !
+{53363}{53408}C'est pas la peine de crier !
+{53422}{53468}Vous lui en avez parlé|au moins ?
+{53475}{53504}Allô ?
+{53515}{53553}J'y crois pas...
+{53560}{53591}Roy...
+{53600}{53638}ils t'ont renvoyé.
+{53663}{53711}Ils n'ont même pas|osé te le dire.
+{54373}{54459}Dharmsala, Inde du Nord
+{55500}{55550}D'où vient cette musique ?
+{56182}{56262}D'où viennent ces sons ?|Je veux savoir.
+{56482}{56561}Nous voudrions savoir|d'où viennent ces sons.
+{56915}{56972}Mesdames et messieurs, bonsoir.
+{57080}{57171}Désolé mais mon anglais|n'est pas parfait non plus.
+{57243}{57279}Je voudrais vous soumettre...
+{57287}{57361}un élément musical|recueilli en Inde.
+{57375}{57445}On pense qu'il va|dans le sens de nos recherches.
+{57475}{57540}Nous pensons|que c'est un fait capital.
+{57557}{57670}Pour vous aider à suivre, j'utilise|le langage gestuel de Zoltàn Kodàly.
+{57723}{57826}Il a élaboré ces signes|pour enseigner la musique aux sourds.
+{59870}{59903}Bonsoir.
+{59928}{59950}Salut.
+{59955}{60011}Comment ça va ?|Vous êtes venue aussi ?
+{60017}{60053}Oui. Jillian Guiler.
+{60060}{60110}Roy Neary.|Désolé pour votre garçon.
+{60120}{60189}- Bonsoir !|- Quoi ?
+{60233}{60283}Laissez-moi vous regarder.
+{60355}{60408}Vous avez la même brûlure !
+{60415}{60503}Sur vous c'est plus joli.|C'est uniforme en tout cas.
+{60515}{60571}Il faut que je bronze de l'autre côté.
+{60588}{60636}Comment va le petit ?|Désolé.
+{60643}{60676}Je reviens.
+{60683}{60736}Lève la tête|et fais-moi un sourire.
+{60760}{60832}Un peu jeune pour témoigner,|vous ne croyez pas ?
+{61312}{61341}Bizarre...
+{61388}{61494}Ça a l'air dingue|mais depuis hier déjà, sur la route...
+{61516}{61559}je vois cette forme partout.
+{61618}{61687}Dans la crème à raser,|mon oreiller...
+{61988}{62040}Je sais...|Je sais ce que c'est.
+{62217}{62258}Ça signifie quelque chose.
+{62416}{62456}C'est important.
+{62478}{62506}Les voilà !
+{62516}{62547}Va chercher l'appareil photo !
+{62553}{62596}Du nord-ouest !
+{62968}{63032}On se croirait au carnaval...
+{63077}{63111}C'est Mardi gras.
+{63755}{63803}ARRÊTEZ-VOUS ET|SOYEZ AMICAUX
+{63857}{63886}Attendez un peu...
+{65165}{65184}Voici les caractéristiques ..
+{65193}{65273}- Nous avons reçu deux émissions.|- Signaux non-aléatoires ?
+{65280}{65367}104 pulsations, une pause|de cinq secondes et 40 autres.
+{65375}{65431}Encore une pause|puis 30 pulsations.
+{65437}{65471}Radiotélescope de Goldstone|Station 14
+{65478}{65595}Un silence, puis une série différente.|40, une pause. 36, une pause. Puis 10.
+{65605}{65655}Et 104 pulsations rapides.
+{65665}{65748}Et au bout de 60 secondes|toute le cirque recommence.
+{65768}{65833}- D'où viennent ces émissions ?|- D'à côté.
+{65839}{65883}Sept secondes en temps-lumière.
+{65893}{65941}Dans les limites de l'écliptique.
+{65950}{66060}Ces pulsations non-aléatoires,|40, 36, 10, sont en réponse à ça ?
+{66071}{66157}Nous diffusons cette combinaison|depuis des semaines.
+{66165}{66218}En retour,|nous n'avons que des nombres.
+{66338}{66424}Les notes indiennes se perdent|donc dans l'infini...
+{66435}{66464}et ne signifient rien.
+{66471}{66519}Il y a tant de choses|qu'on ignore.
+{66525}{66585}Par exemple,|l'origine de ces signaux.
+{66660}{66691}Excusez-moi...
+{66748}{66793}104, c'est quel élément ?
+{66855}{66884}Excusez-moi.
+{66963}{67035}Avant ce projet j'étais spécialisé...
+{67113}{67149}dans la topographie.
+{67203}{67256}Ce premier nombre|est une longitude.
+{67390}{67426}Deux séries de trois nombres.
+{67433}{67500}Degrés, minutes et secondes.
+{67508}{67606}Le premier a trois chiffres,|les autres sont inférieurs à 60.
+{67632}{67707}Il ne s'agit pas de coordonnées|dans l'espace.
+{67742}{67797}C'est une position terrestre.
+{67805}{67850}Y a une mappemonde|dans le bureau.
+{67936}{67967}C'est ce qu'il nous faut.
+{67973}{68030}Il y a peut-être une vis dessous.
+{68043}{68124}Ce globe coûte 2500 dollars !
+{68535}{68624}Un peu de silence !|Silence !
+{68741}{68796}On avait des antennes|partout sauf là !
+{68804}{68844}C'est en Amérique du Nord.
+{68850}{68884}Dans le Wyoming.
+{69050}{69105}Il faut une carte géodésique|du Wyoming.
+{69115}{69156}A l'échelle la plus réduite.
+{69165}{69244}L'armée a une carte géodésique|du Wyoming.
+{71920}{71956}Joujou !
+{71985}{72028}Joujou !
+{73883}{73916}Mon Dieu !
+{74608}{74661}Venez jouer avec moi.
+{74671}{74712}Venez jouer avec moi.
+{74840}{74902}Entrez par la porte.
+{74950}{75027}Un... deux... trois...
+{75278}{75326}Maman !|Regarde le Soleil !
+{75470}{75511}Mon Dieu !
+{76426}{76462}Allez-vous en !
+{77046}{77077}Allez, nettoyez !
+{77468}{77518}- Maman, donne !|- Mais chéri...
+{77943}{77979}Maman, regarde !
+{78188}{78243}Ça vient par la porte !
+{78770}{78811}Barry !
+{79216}{79244}Une déclaration ?
+{79250}{79317}Votre déposition|était très émouvante.
+{79325}{79373}Répondez pour|le journal de 20 heures.
+{79440}{79469}Ils l'ont.
+{79475}{79499}Quoi ?
+{79505}{79562}Vous allez partir|à sa recherche ?
+{79573}{79647}- Est-ce qu'il y a une demande de rançon ?|- Par où commencer ?
+{79713}{79756}Il s'appelle Barry.
+{79778}{79826}Où est votre mari|Madame Guiler ?
+{79866}{79945}Pratiquez-vous une forme|de parapsychologie ?
+{79973}{80021}Retournez-vous madame.
+{80075}{80150}Votre déposition,|voulez-vous nous la répéter ?
+{80250}{80322}Si vous voulez entrer : salle 3655.
+{80335}{80412}Ceci est une soucoupe volante.
+{80420}{80447}C'est ça que j'ai vu !
+{80518}{80592}C'est celle-là que j'ai vue !
+{80627}{80685}En étain, pur japon...
+{80696}{80766}lancée dans le ciel|par un de mes enfants.
+{80810}{80909}On peut être farceur|quand on est militaire.
+{80918}{80986}L'an dernier dans ce pays...
+{80993}{81063}sept milliards de photos|ont été prises...
+{81071}{81186}et 6,6 milliards de dollars ont été|dépensés en développement et pellicules.
+{81196}{81239}Au milieu de tous ces clichés...
+{81246}{81310}est-ce qu'il y a un seul témoignage|convaincant ?
+{81318}{81395}J'ai plus de 20 ans|de journalisme à mon actif.
+{81405}{81494}Nos caméras n'ont jamais pu|enregistrer des images...
+{81502}{81586}d'accident d'avions ou de voitures|et les diffuser au 20 heures.
+{81785}{81862}Il y a des théories auxquelles|on se plaît à croire.
+{81876}{81914}La télépathie...
+{81921}{81954}le voyage dans le temps...
+{81965}{82003}l'immortalité...
+{82021}{82064}et même le père Noël.
+{82080}{82176}C'est pas drôle de rentrer chez soi|en disant ''Vous savez quoi ?
+{82185}{82269}J'étais au centre commercial|et j'ai vu une lumière...
+{82280}{82331}Je me suis précipité dehors...
+{82337}{82383}et j'ai aperçu un avion !''
+{82392}{82459}Excusez-moi.|Je ne cherchais pas à la voir.
+{82495}{82524}Eh bien moi si.
+{82533}{82576}Depuis 15 ans que je cherche...
+{82586}{82653}un de ces objets|qui scintillent dans le ciel...
+{82668}{82699}je n'en ai jamais vu.
+{82708}{82773}Mais je crois|que la vie existe ailleurs.
+{82788}{82817}Pourquoi ne pas dire...
+{82823}{82910}que l'armée fait des essais secrets|dans la région ?
+{82918}{82980}Il serait facile de dire|que c'est exact.
+{83001}{83085}Je ne veux pas vous tromper,|ce n'est pas le cas.
+{83101}{83149}Je ne sais pas|ce que vous avez vu.
+{83155}{83210}N'essayez pas de nous avoir|en disant ça.
+{83260}{83303}J'ai vu le Bigfoot.
+{83423}{83519}En 1951. Au Sequoia National Parc.
+{83529}{83627}Il avait des panards de 37 pouces|de l'orteil au talon.
+{83724}{83805}Il a poussé un cri|qui m'a fait froid dans le dos.
+{83926}{83991}Moi aussi|j'ai vu cette personne.
+{84022}{84080}Un soir je regardais|par la fenêtre...
+{84088}{84143}et je vois une tâche blanche|dans le ciel...
+{84151}{84203}elle devient rouge,|bleue et verte.
+{84210}{84311}ENLÉVEMENT COSMIQUE
+{84320}{84432}Les ovnis ne sont pas une menace|directe pour notre sécurité nationale.
+{84466}{84550}Nous ne reconnaissons pas|leur existence. Ignorez-les.
+{85481}{85531}Appelons les services forestiers...
+{85538}{85622}sinon on va avoir un tas de véhicules|dans les pâturages.
+{85636}{85722}Les pâturages sont sacrés|pour les habitants du Wyoming.
+{85881}{85938}Si cette mission|est menée à terme...
+{85965}{86078}j'ai des sueurs froides en pensant|aux gens qui pourraient en pâtir.
+{86110}{86153}Votre vol est à 20 heures précises.
+{86160}{86244}Une voiture va vous conduire|à l'héliport tout de suite.
+{86261}{86343}Le transport sera assuré|à votre arrivée aussi.
+{86411}{86493}- L'inondation est une bonne idée.|- Où trouver l'eau ?
+{86513}{86600}Nous leur dirons qu'un de leurs|réservoirs va exploser.
+{86633}{86669}Si on n'a pas assez d'eau|il y aussi les nappes phréatiques.
+{86675}{86752}L'eau contaminée a des effets|sur les habitants.
+{86761}{86789}Des maladies.
+{86795}{86855}- Des épidémies.|- Quel genre d'épidémies ?
+{86865}{86887}La peste.
+{86895}{86943}Personne ne croira à la peste.
+{86961}{87006}- L'anthrax !|- Une contrée sauvage.
+{87013}{87066}Il y a des milliers|de moutons là-bas.
+{87072}{87101}C'est excellent !
+{87108}{87177}Il se peut qu'on ne puisse pas|évacuer tout le monde.
+{87189}{87256}Certains rigolos|se croient immunisés.
+{87305}{87401}Il faut un truc terrifiant|pour que les gens fuient en masse...
+{87411}{87478}Il n'y aurait plus âme qui vive|à 50 miles à la ronde.
+{88230}{88269}Tiens, sers-toi.
+{88343}{88446}Je déteste la purée.|Il y a une mouche morte dedans !
+{88455}{88486}C'est pas grave.
+{91040}{91084}Vous avez dû remarquer...
+{91106}{91209}que depuis quelques jours|j'ai une attitude bizarre.
+{91290}{91331}Ne craignez rien...
+{91388}{91426}Je suis toujours Papa.
+{91548}{91642}J'arrive pas à expliquer|ce que je ressens...
+{91650}{91706}et ce que je pense.
+{91771}{91821}Ça doit vouloir dire quelque chose.
+{91854}{91906}C'est important.
+{92176}{92217}C'est pas ça !
+{92310}{92344}C'est pas comme ça !
+{92395}{92438}C'est pas ça !
+{93118}{93159}Qu'est-ce que c'est ?
+{93198}{93250}Qu'est-ce que c'est ?
+{93431}{93471}C'est pas juste.
+{93606}{93640}Dites-le moi !
+{94356}{94396}Ouvre s'il te plaît.
+{94425}{94451}S'il te plaît !
+{94530}{94569}Ouvre cette porte !
+{94576}{94619}Ouvre la porte !
+{95302}{95369}Je sais pas ce qui m'arrive...
+{95519}{95624}Ecoute Roy...|Faisons une thérapie familiale.
+{95633}{95695}On y va tous.|Chacun de nous parle.
+{95705}{95794}On est tous concernés.|Tu n'es peut-être pas responsable.
+{95805}{95863}Elle marche encore.
+{95886}{95917}Dis-moi que tu viendras !
+{95930}{96000}T'es un pleurnichard !
+{96011}{96052}- Pleurnichard !|- Fiche le camp !
+{96061}{96087}Fiche le camp !
+{96093}{96134}Calmez-vous...
+{96153}{96193}T'es qu'un pleurnichard !
+{96203}{96238}- J'en ai assez !|- Ça suffit !
+{96245}{96281}Qu'est-ce qui se passe ?
+{96290}{96346}- Je ne sais pas.|- Sortez !
+{96356}{96423}Allez dans votre chambre|et fermez la porte !
+{96498}{96520}- Ronnie ?|- Oui ?
+{96528}{96624}J'ai très peur.|Je voudrais que tu m'aides.
+{96635}{96705}Toutes ces conneries|chamboulent la maison !
+{96728}{96769}Je te déteste ! Voilà !
+{96821}{96897}Serre-moi dans tes bras.|Ça me fera du bien.
+{96905}{96934}Ça me fera du bien.
+{96941}{97003}Tu ne vois pas|ce qui se passe ?
+{97018}{97064}Nos amis ne téléphonent plus !
+{97070}{97123}T'es au chômage !|Et tu t'en fiches !
+{97130}{97190}T'es en train de nous détruire !
+{97203}{97260}- Ronnie, attends !|- Non !
+{97269}{97298}Attends !
+{97481}{97550}Ronnie, ouvre !|Allez !
+{98401}{98471}Ça alors !|Désintégré.
+{98548}{98637}Bon anniversaire petit Martien.
+{98656}{98692}Merci !
+{98860}{98906}Il a dû en avoir assez.
+{98967}{99020}Est-ce que tu vas me gronder ?
+{99191}{99263}OVNIS :|LES VOIR, C'EST Y CROIRE
+{99354}{99418}Le Canada :|refuge des ovnis ?
+{99433}{99469}Ronnie, c'est fini !
+{99715}{99763}J'enlève tout ça.
+{99883}{99948}On sera comme avant !
+{100146}{100263}Ça suffit !|Je sors mon arme secrète !
+{101016}{101100}Roy, excuse-moi pour hier soir.|Roy ?
+{101179}{101229}Roy, qu'est-ce que tu fais ?
+{101256}{101290}Mon Dieu !
+{101515}{101544}Les plantes sont bien|où elles sont !
+{101581}{101607}Tu m'entends ?
+{101625}{101651}Attends !
+{101658}{101704}Attends !|Tu vas où ?
+{101710}{101739}Ça va te plaire !
+{101745}{101800}- Quoi ?|- Tu vas être emballée !
+{101808}{101870}Enfin Roy,|qu'est-ce que tu fais ?
+{102129}{102162}Venez les hommes !
+{102200}{102296}Papa, on pourra en balancer|un peu par ma fenêtre aussi ?
+{102386}{102417}Arrête !
+{102448}{102489}Ça suffit !|Arrête !
+{102495}{102529}Ronnie !
+{102545}{102644}Si je fais pas ça|j'aurai besoin d'un médecin.
+{102741}{102760}Qu'est-ce que tu fais ?

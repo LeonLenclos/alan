@@ -1,0 +1,567 @@
+{530}{576}Oh mon Dieu, Danka!
+{715}{739}Vous avez un Blauschein.
+{741}{796}Le Blauschein n'a plus d'importance.|Ils écument le ghetto.
+{799}{839}Il n'y a pas de place pour vous.
+{842}{931}On a fait l'essai. Il y a|de la place pour tout le monde.
+{933}{981}J'ai changé d'avis.
+{1024}{1084}Regardez toute cette place|et regardez-moi.
+{1086}{1115}Vous avez peur!
+{1118}{1170}Je garde la petite mais pas vous.
+{1173}{1206}Maman, je veux sortir.
+{1209}{1230}Reste où tu es!
+{1233}{1295}Je préfère te savoir ici|que je ne sais où!
+{1885}{1918}Voilà un bon salut!
+{1921}{2017}Je signale qu'on m'a donné l'ordre|d'enlever les bagages de la rue...
+{2019}{2079}pour qu'il n'y ait plus|d'obstruction du passage.
+{2096}{2151}Finis et rentre dans le rang...
+{2153}{2216}petit soldat "claque talons".
+{2853}{2901}Oh, tu es un ami de mon fils.
+{2904}{2961}N'aie pas peur,|je m'en vais tranquillement.
+{2961}{3002}Cachez-vous sous l'escalier.
+{3004}{3067}Ils arrêteront bientôt les recherches.
+{3069}{3120}Je vous en prie. Cachez-vous.
+{3120}{3194}Cachez-vous sous l'escalier.
+{3285}{3345}J'ai fouillé l'immeuble.|Il n'y a personne.
+{3772}{3803}Bonjour Adam.
+{3836}{3882}Bonjour Danka.
+{4031}{4100}Venez avec moi, je vous mettrai|dans la bonne file.
+{4167}{4242}Tu connais le dicton|"Une heure de vie c'est encore la vie"?
+{4244}{4287}Tu n'es plus un enfant.
+{4290}{4354}Je fais une prière pour toi.
+{6682}{6721}Je t'en prie, allons-nous-en.|Je t'en prie.
+{6723}{6754}Viens.
+{6778}{6814}Viens.
+{11518}{11569}Il me tarde|que cette nuit se termine.
+{14338}{14403}Le pire est passé.|On est des ouvrières maintenant.
+{15347}{15434}Nom de Dieu. Amon!
+{16863}{16937}T'es qu'un putain de sale môme!
+{16939}{16985}Debout! Debout!
+{17227}{17266}Fais du café!
+{17268}{17313}Fais-le toi-même!
+{17678}{17788}<i>Les SS vont implanter</i>|<i>certaines industries dans Plaszow.</i>
+{17791}{17843}<i>une usine métallurgique,</i>|<i>une fabrique de brosses...</i>
+{17846}{17899}<i>une autre de recyclage</i>|<i>de vêtements des Juifs...</i>
+{17901}{17994}<i>des ghettos pour nos familles</i>|<i>victimes des bombardements. Mais...</i>
+{17997}{18064}<i>ce sont les entreprises privées</i>|<i>comme la vôtre qui gagnent...</i>
+{18066}{18129}à s'installer dans le camp|du commandant Amon Goeth.
+{18131}{18232}- Non. Restez assis. Julian, ça va?|- Bien et vous?
+{18414}{18464}- Heureux de vous voir.|- Ravi que vous soyez là.
+{18467}{18498}Un plaisir pour moi. Julius.
+{18500}{18527}- Ça va?|- Bien.
+{18531}{18570}- Vous avez maigri.|- Des épaules!
+{18572}{18623}Je vous en prie, asseyez-vous!
+{18651}{18702}Ravi de vous connaître.
+{18754}{18802}On a commencé sans vous.
+{18805}{18834}J'ai raté quelque chose?
+{18836}{18913}J'expliquais à Herr Bosch|et Herr Madritsch...
+{18915}{18987}les avantages à installer|leurs usines à Plaszow.
+{18989}{19035}Je parlais du repas.
+{19100}{19198}La main-d'œuvre logée sur place|est disponible à tout moment.
+{19200}{19265}Elle peut travailler de nuit.
+{19268}{19363}La politique de gestion|de votre entreprise restera la même.
+{19375}{19423}Elle sera respectée.
+{19423}{19486}D'où vous sortez un costume|comme celui-là?
+{19488}{19526}C'est quoi? De la soie?
+{19529}{19574}Bien sûr.
+{19632}{19680}Joli chatoiement.
+{19680}{19728}- Merci.|- Très élégant.
+{19728}{19819}Je vous en aurais eu un|mais le tailleur doit être mort.
+{19821}{19865}Je ne sais pas.
+{19891}{19946}<i>J'arrive à la fabrique l'autre jour.</i>
+{19977}{20032}<i>Il n'y avait personne.</i>
+{20035}{20114}<i>On ne me dit rien.</i>|<i>Je dois découvrir tout seul.</i>
+{20147}{20193}Tout le monde a disparu.
+{20394}{20454}Ils ne sont pas disparu.|Ils sont ici.
+{20454}{20502}Ils sont à moi!
+{20538}{20584}Chaque jour qui passe...
+{20586}{20627}chaque ouvrier tué|me coûte de l'argent.
+{20629}{20670}Je dois trouver un remplaçant,|le former.
+{20673}{20740}On va faire tant d'argent que rien|de tout ça ne comptera.
+{20742}{20788}Ce n'est pas du travail!
+{21099}{21138}Merci.
+{21140}{21186}Laisse la bouteille.
+{21234}{21277}Enlève ça.
+{21291}{21382}Lena... merci.
+{21593}{21656}Scherner m'a dit autre chose|à votre sujet.
+{21725}{21780}Oui? Quoi?
+{21783}{21883}Que vous connaissez la signification|du mot gratitude.
+{21910}{22039}Ce n'est pas du vague pour vous|comme ça l'est pour d'autres.
+{22073}{22145}Vous voulez rester où vous êtes.
+{22147}{22219}Vous avez vos "petits à-côtés".
+{22221}{22274}Ça va pour vous.
+{22277}{22370}Vous ne voulez pas qu'on vous dise|ce qu'il faut faire.
+{22384}{22480}Je peux comprendre tout ça.|Je vous connais.
+{22543}{22660}Ce que vous voulez,|c'est avoir votre propre camp.
+{22799}{22859}Vous n'avez pas idée|de ce que ça implique.
+{22862}{22917}Rien que la paperasse|pour construire ce fichu machin!
+{22919}{22986}Se procurer les permis de construire|ça rend fou.
+{22986}{23061}Ensuite les ingénieurs débarquent|et discutent drainage...
+{23063}{23121}fondations, règlements,|spécifications...
+{23123}{23212}clôtures parallèles de quatre kilomètres,|1200 kilos de barbelé...
+{23214}{23296}Six tonnes de barrières électriques,|isolateurs en céramique...
+{23296}{23346}Trois mètres cubes d'air par prisonnier.
+{23348}{23432}On a des envies de meurtre.|Je suis passé par là. Je connais.
+{23435}{23497}Vous connaissez.|Vous êtes passé par là.
+{23576}{23631}Vous pourriez|me faciliter les choses.
+{23720}{23765}Je ne serais pas ingrat.
+{24617}{24660}Où est Stern?
+{24749}{24799}Goldberg et Chilowicz...
+{24801}{24878}veillent à ce que je reçoive|une commission...
+{24880}{24933}des patrons des usines de ce camp.
+{24936}{25017}Ça vous laisse vous occuper|de mon compte principal.
+{25019}{25101}Le compte Schindler.
+{25101}{25182}Il veut son indépendance.|Je la lui ai donnée.
+{25202}{25307}Mais l'indépendance coûte cher.|Vous comprenez?
+{25446}{25489}Regardez-moi.
+{25753}{25815}N'oubliez pas pour qui|vous travaillez maintenant.
+{26321}{26384}Encore du champagne!
+{26386}{26458}Attention les filles!|Ne le laissez pas partir.
+{27002}{27043}Merci Herr Direktor!
+{27199}{27237}Qu'est-ce que vous faites?
+{27242}{27283}Je me gratte la tête.
+{27285}{27372}Ça fait croire qu'on a des poux.|Ils gardent leurs distances.
+{27400}{27453}- Vous avez des poux?|- Sortez votre calepin.
+{27453}{27547}Le calendrier de mon bureau|a les anniversaires de nos amis SS.
+{27549}{27582}N'oubliez pas d'envoyer quelque chose.
+{27611}{27690}Enregistrez les pots-de-vin|au Service économique et à l'Armement.
+{27693}{27724}Moins vite Stern.
+{27726}{27803}Au service de l'Intérieur|du gouverneur de Pologne...
+{27805}{27861}et au chef de la police,|en honoraires.
+{27861}{27911}Payez-les|le premier de chaque mois...
+{27913}{27973}contrairement aux pots-de-vin|à nos contacts SS.
+{27976}{28028}La liste est dans le tiroir du bas|de mon bureau...
+{28031}{28098}premier du mois...
+{28100}{28153}Contacts SS.|Tiroir du bas de mon bureau...
+{28156}{28223}enregistrés comme contributions|à des œuvres de charité...
+{28225}{28273}à envoyer au bureau|de chaque officiel.
+{28275}{28333}Les affaires au marché noir|enregistrées à la rubrique...
+{28335}{28434}- "fournisseurs" dans les comptes...|- Oublions ça.
+{28434}{28510}- Comment oublions ça?|- Ça me colle la migraine.
+{28700}{28753}- Je ne peux pas vous sortir de là.|- Je me débrouillerai.
+{28781}{28851}De toute façon, je viens ici|presque chaque semaine.
+{28853}{28978}Le mercredi d'habitude.|Je passerai vous voir.
+{29016}{29057}Tenez.
+{29059}{29146}Mettez ça dans vos poches. Allez.
+{29254}{29340}Ne laissez pas tomber.|J'ai travaillé trop dur.
+{29556}{29601}Merci de...
+{29623}{29668}Bonne chance.
+{30488}{30606}"Atelier de métallurgie|du camp de travail de Plaszow"
+{30886}{30956}- Qu'est-ce que vous faites?|- Des gonds.
+{31049}{31131}J'ai de nouveaux ouvriers qui arrivent|demain. D'où ils viennent déjà?
+{31133}{31189}De Yougoslavie.
+{31189}{31236}Il faut que je fasse de la place.
+{31306}{31361}Faites-moi un gond.
+{31364}{31383}A vos ordres.
+{32160}{32208}Continuez. C'est bien.
+{32428}{32467}C'est très bien.
+{32498}{32589}Mais je suis perplexe.|Vous pouvez peut-être m'éclairer.
+{32591}{32646}Je ne comprends pas.
+{32649}{32704}Vous travaillez depuis... environ...
+{32706}{32774}six heures ce matin?
+{32802}{32913}Et il n'y a qu'une si petite pile|de gonds.
+{33622}{33646}Nom de Dieu!
+{33649}{33677}Je peux essayer?
+{33680}{33728}Regardez le levier coudé.|Peut-être faussé.
+{33730}{33812}Non. On n'entendrait pas de déclic.|C'est la sûreté.
+{33812}{33874}Peut-être que le cran de sûreté|est graisseux.
+{33876}{33922}Qu'est-ce que je disais? Tenez.
+{34023}{34090}Permettez-moi de vous signaler...
+{34092}{34181}que ma pile de gonds|n'était pas satisfaisante...
+{34181}{34298}parce que les machines ont dû être|calibrées de nouveau ce matin.
+{34334}{34402}J'étais au pelletage du charbon.
+{34970}{35015}Bizarre, hein?
+{35186}{35231}Merci Moch.
+{35274}{35353}Ne touche pas le cuir,|il vient d'être huilé.
+{35392}{35442}Pour moi? Merci beaucoup|Herr Direktor.
+{35725}{35756}Il était trop lent.
+{35759}{35850}Cet homme fabrique un gond en moins|d'une minute. Pourquoi cette histoire?
+{36571}{36603}Merci.
+{36605}{36634}De rien.
+{36725}{36787}Personne ne sait qui a volé le poulet?
+{36811}{36931}Un homme se promène avec un poulet|et personne ne le remarque.
+{36933}{36981}Sauvez votre vie.
+{37001}{37046}Dites qui a volé le poulet.
+{37427}{37473}Personne ne sait?
+{37761}{37806}C'était toi.
+{37806}{37864}- Tu as commis ce crime?|- Non.
+{37866}{37909}Mais tu sais qui l'a fait.
+{37909}{37957}- Oui.|- Qui?
+{37986}{38008}Lui!
+{38132}{38204}- Il est très doux.|- Oui. Faites-le venir.
+{38288}{38312}D'accord.
+{38353}{38377}Merci.
+{38525}{38564}Merci encore Herr Direktor!
+{38566}{38593}Encore de rien.
+{38595}{38653}Honoré d'être|dans une si grande entreprise!
+{38653}{38684}Content de t'avoir!
+{38684}{38772}J'apprendrai tout|ce qu'il faut savoir sur l'émail.
+{38775}{38789}Formidable!
+{39118}{39178}Mlle Elsa Krause est ici.
+{39178}{39230}Elle voudrait parler|au Herr Direktor.
+{39739}{39765}Oui.
+{39880}{39926}Il ne veut pas vous voir.
+{40662}{40710}Asseyez-vous.
+{40791}{40815}Pernod? Cognac?
+{40820}{40866}Non, merci.
+{40921}{40969}Qu'est-ce que je peux faire pour vous?
+{41079}{41141}On dit que personne ne meurt ici.
+{41144}{41194}On dit que votre usine est un havre.
+{41261}{41309}On dit que vous êtes bon.
+{41383}{41417}Qui dit ça?
+{41443}{41482}Tout le monde.
+{41650}{41709}Je m'appelle Regina Perlman|et non Elsa Krause.
+{41712}{41796}Je vis à Cracovie sous un faux nom|depuis le massacre du ghetto.
+{41798}{41877}Mes parents sont à Plaszow.|Ils s'appellent...
+{41877}{41949}Chana et Jakob Perlman.
+{41952}{41983}Ils sont âgés.
+{41985}{42036}Ils tuent les gens âgés à Plaszow.
+{42038}{42072}Ils les enterrent en forêt.
+{42074}{42105}Écoutez...
+{42153}{42199}je n'ai pas d'argent.
+{42242}{42292}J'ai emprunté ces vêtements.
+{42350}{42398}Je vous en prie.
+{42400}{42472}Je vous en supplie.|Faites-les venir ici.
+{42491}{42551}Je ne fais pas ça.
+{42553}{42611}On vous a mal renseignée.
+{42613}{42690}Je demande une chose:|si un ouvrier est qualifié.
+{42693}{42726}C'est ce qui m'importe.
+{42728}{42784}Mon père est importateur,|pas ouvrier en métaux.
+{42786}{42820}Cette activité est illégale.
+{42844}{42908}- Il a payé mes faux papiers très cher.|- Vous ne me piégerez pas.
+{42911}{42997}- Il est ruiné.|- Pleurez et je vous fais arrêter.
+{43230}{43294}Les gens meurent,|c'est une réalité de la vie.
+{43297}{43388}Il veut tuer tout le monde?|Que voulez-vous que j'y fasse?
+{43388}{43455}Que j'engage tout le monde?|C'est ce que vous pensez?
+{43455}{43527}Envoyez-les à Schindler.|Envoyez-les tous.
+{43527}{43620}Sa fabrique est un havre.|Ce n'est pas une usine.
+{43623}{43671}Pas une entreprise commerciale.
+{43673}{43788}C'est un havre pour les rabbins, les|orphelins, les gens sans qualification.
+{43879}{43939}Vous croyez que je ne sais pas|ce que vous faites?
+{43942}{44021}Vous êtes toujours si calme.|Je sais.
+{44023}{44098}- Vous perdez de l'argent?|- Ce n'est pas le problème.
+{44100}{44136}- Où est le problème?|- C'est dangereux.
+{44138}{44181}Dangereux pour moi!
+{44287}{44371}Il faut comprendre.|Goeth subit d'énormes pressions.
+{44373}{44428}Réfléchissez|dans quelle situation il est.
+{44467}{44524}Il a tout cet endroit à gérer.
+{44527}{44589}Il est responsable de tout et de tous.
+{44591}{44644}Il doit s'occuper de tant de choses.
+{44680}{44771}Et il y a la guerre|qui révèle le pire côté de l'homme.
+{44774}{44862}Jamais le bon. Toujours le mauvais.
+{44908}{45023}Dans des circonstances normales,|il serait très bien.
+{45025}{45100}Il se servirait des bons aspects|de sa personnalité.
+{45131}{45186}C'est un merveilleux escroc.
+{45188}{45232}Il aime la bonne chère, le bon vin...
+{45232}{45301}les femmes... faire de l'argent...
+{45304}{45347}Tuer.
+{45363}{45411}Il ne peut pas aimer ça.
+{45433}{45479}Bejeski m'a raconté que l'autre jour...
+{45481}{45570}un homme s'est échappé de son travail|hors de l'enceinte.
+{45570}{45630}<i>Goeth a fait aligner tous les hommes...</i>
+{45634}{45666}<i>de son baraquement.</i>
+{45668}{45721}<i>Il a abattu l'homme</i>|<i>à la gauche de Bejeski...</i>
+{45723}{45761}<i>et celui à sa droite</i>|<i>puis il est entré...</i>
+{45764}{45833}<i>dans les rangs en abattant</i>|<i>un homme sur deux.</i>
+{45980}{46016}25 morts.
+{46138}{46171}Que voulez-vous que j'y fasse?
+{46174}{46205}Rien. Rien.
+{46229}{46277}Nous parlons. C'est tout.
+{46728}{46766}Le mari et la femme.
+{47174}{47224}Demandez à Goldberg|de les faire venir.
+{48579}{48660}Ce sera mieux|que ces guenilles Lisiek.
+{48687}{48754}J'aidais Lisiek à trouver de quoi|nettoyer les dépôts...
+{48756}{48838}sur la baignoire|du Herr Kommandant.
+{48864}{48910}Excusez-moi Herr Direktor.
+{49010}{49121}Vous n'avez pas de compte à me rendre.|Vous savez qui je suis?
+{49351}{49396}Je suis Schindler.
+{49430}{49497}J'ai entendu parler de vous et...
+{49523}{49574}vous êtes venu ici.
+{49646}{49706}Tenez. Mettez ça à l'abri.
+{49706}{49758}Allez, prenez.
+{49761}{49789}J'ai ce qu'il faut ici.
+{49792}{49866}Si vous ne le mangez pas|vous l'échangerez.
+{49869}{49907}Ou donnez-le à Lisiek.
+{49972}{50017}Il faut reprendre des forces.
+{50140}{50187}Mon premier jour ici...
+{50219}{50317}il m'a frappée parce que j'ai jeté|les os qui restaient du dîner.
+{50401}{50497}Il est descendu|au sous-sol à minuit...
+{50516}{50571}et il m'a demandé où ils étaient.
+{50641}{50739}Pour ses chiens... vous comprenez.
+{50804}{50907}Je lui ai dit...|je ne sais pas comment j'ai fait...
+{50909}{50979}je ne pourrais plus lui dire...|je lui ai dit...
+{50993}{51075}"Pourquoi vous me frappez?"
+{51132}{51221}Il a dit "La raison|pour laquelle je te frappe...
+{51223}{51307}c'est parce que tu as demandé|pourquoi je te frappais."
+{51355}{51427}Je sais ce que vous avez enduré.
+{51487}{51533}Ça n'a pas d'importance.
+{51585}{51640}J'ai accepté.
+{51660}{51703}Accepté?
+{51756}{51801}Un jour il me tuera.
+{51803}{51868}Non, non.|Il ne vous tuera pas.
+{51871}{51935}Je sais.|Je vois des choses.
+{51964}{52074}On était sur le toit mardi,|Lisiek et moi, et on a vu...
+{52079}{52149}Herr Kommandant sortir|par la porte principale...
+{52151}{52266}et au bas des marches dans le patio,|en dessous de nous...
+{52269}{52379}arrivé à la dernière marche,|il a sorti son revolver et...
+{52381}{52439}a tiré à bout portant|sur une passante...
+{52484}{52561}portant un ballot de linge...|dans la gorge...
+{52564}{52664}juste une femme qui passait,|comme ça.
+{52667}{52710}Elle n'était ni plus grosse|ni plus maigre...
+{52712}{52830}ni plus lente ni plus rapide|qu'une autre. Je ne comprenais pas...
+{52832}{52916}ce qu'elle avait fait.
+{53017}{53093}Plus on fréquente|le Herr Kommandant...
+{53096}{53175}plus on voit qu'il n'y a...
+{53175}{53230}aucune règle à suivre avec lui.
+{53232}{53350}On ne peut pas se dire "Si je suis|ces règles, je n'ai rien à craindre."
+{53429}{53515}Il ne vous tuera pas|parce qu'il apprécie votre présence.
+{53542}{53640}Il l'apprécie tant qu'il|ne vous laisse pas porter l'étoile.
+{53642}{53743}Il veut que personne ne sache|qu'il apprécie une Juive.
+{53832}{53983}Il a tiré sur cette passante|parce qu'elle n'était rien pour lui.
+{54012}{54117}Un simple numéro qui ne l'offensait|ni ne lui plaisait.
+{54215}{54261}Mais vous, Helen.
+{54379}{54477}Ne craignez rien.|Ce n'est pas ce genre de baiser.
+{54628}{54666}Merci.
+{54784}{54822}Tenez.
+{54973}{55019}Bon. Le vin.
+{55199}{55261}Merveilleuse soirée.|Merci.
+{55474}{55546}Pourquoi vous buvez|cette huile de vidange?
+{55549}{55594}Je vous fournis du bon|tout le temps.
+{55628}{55719}Votre foie va exploser|comme une grenade.
+{55721}{55767}Plus je vous regarde...
+{55793}{55836}je vous observe...
+{55884}{55935}vous n'êtes jamais soûl!
+{56035}{56081}Un vrai contrôle de soi.
+{56110}{56155}Le contrôle est le pouvoir.
+{56186}{56234}C'est le pouvoir.
+{56333}{56400}C'est pour ça|qu'on nous craint?
+{56460}{56553}On a le pouvoir de tuer.|C'est pour ça qu'on nous craint.
+{56553}{56642}Parce que nous avons le pouvoir|de tuer arbitrairement.
+{56644}{56692}Un homme commet un crime.|Il n'aurait pas dû.
+{56695}{56762}On le fait tuer|et on se sent bien après.
+{56764}{56838}On le tue nous-mêmes|et on se sent encore mieux.
+{56886}{56961}Pourtant|ce n'est pas le pouvoir.
+{56963}{57049}C'est la justice.|C'est différent du pouvoir.
+{57133}{57239}Le pouvoir... c'est quand|on a toutes les raisons de tuer...
+{57256}{57292}et qu'on ne le fait pas.
+{57323}{57371}Vous croyez|que c'est le pouvoir?
+{57433}{57486}Celui des empereurs.
+{57488}{57551}Un homme qui a commis un vol|est amené devant l'empereur.
+{57553}{57654}Il se jette à ses pieds|pour implorer sa pitié.
+{57656}{57718}Il est sûr qu'il va mourir.
+{57786}{57869}Et l'empereur lui pardonne.
+{57901}{57965}Ce vaurien.|Il le laisse partir.
+{58064}{58116}Je crois que vous êtes soûl.
+{58157}{58208}C'est le pouvoir Amon.
+{58231}{58306}Ça... c'est le pouvoir.
+{58495}{58562}Amon... le Bon.
+{58632}{58677}Je vous pardonne.
+{58874}{58908}Qu'est-ce qu'ils veulent?
+{58910}{58989}Je ne sais pas.|Mais ils vérifient nos livres.
+{58992}{59049}En tant que comptable...
+{59049}{59140}dites-moi si je dois m'alarmer|de ces contrôles...
+{59143}{59188}ou vous avez fait votre travail?
+{59191}{59250}Vous n'avez pas à vous alarmer.
+{59363}{59382}Excusez-moi.
+{59385}{59442}Tu sais combien|coûte cette selle?
+{59445}{59495}Tu sais combien elle coûte?
+{59620}{59660}Bon.
+{59706}{59749}Ça va.
+{59836}{59886}Stern, pourquoi|vous me suivez partout?
+{61044}{61077}Elle fumait à son travail!
+{61173}{61217}Dites-lui|de ne pas recommencer.
+{61615}{61662}Je dois vous signaler...
+{61701}{61785}que je n'ai pas pu enlever|les dépôts dans votre baignoire.
+{61883}{61921}Qu'est-ce que tu utilises Lisiek?
+{61924}{61962}Du savon Kommandant.
+{62029}{62075}Du savon? Pas de lessive?
+{62310}{62377}Allez, va-t'en.|Je te pardonne.
+{62931}{62976}Je te pardonne.
+{65669}{65753}Bien que n'étant pas rabbin,|étant donné les circonstances...
+{65755}{65822}je prie le Tout-Puissant|de me pardonner...
+{65825}{65887}si je dis la prière|de la bénédiction.
+{67148}{67261}Alors...|c'est ici que tu viens...
+{67263}{67302}te cacher de moi.
+{67326}{67371}Je suis venu te dire...
+{67410}{67491}que tu es une merveilleuse|cuisinière...
+{67494}{67556}et une domestique très stylée.
+{67573}{67621}Je le pense.
+{67621}{67704}Si tu as besoin de références|après la guerre, je serai...
+{67745}{67793}heureux de t'en donner.
+{67822}{67868}Tu dois te sentir seule ici...
+{67870}{67961}en entendant tout le monde|s'amuser là-haut.
+{68134}{68182}N'est-ce pas?
+{68234}{68278}Tu peux répondre.
+{68337}{68421}Mais que faut-il répondre?|Voilà ce que tu te dis!
+{68443}{68489}Qu'est-ce qu'il veut entendre?
+{68640}{68735}Helen, la vérité|est toujours la bonne réponse.
+{68810}{68865}Oui... tu as raison.
+{68867}{68918}Parfois nous sommes seuls|tous les deux.
+{68956}{69002}Oui, je...
+{69052}{69100}Je veux dire...
+{69273}{69316}J'aimerais tant...
+{69361}{69452}t'atteindre et te toucher|dans ta solitude.
+{69472}{69546}Je me demande ce que ça donnerait...|je veux dire...
+{69577}{69642}qu'est-ce qu'il y aurait de mal à ça?
+{69644}{69721}Je veux dire...|je sais que tu n'es pas une personne...
+{69723}{69798}dans le sens strict du terme...
+{69846}{69915}Enfin, peut-être|que t'as raison aussi pour ça.
+{69918}{70011}Peut-être que ce qui ne va pas...|ce n'est pas nous.
+{70076}{70126}C'est... enfin, tout ça.
+{70193}{70260}Je veux dire,|quand on vous compare...
+{70289}{70366}à de la vermine,|des rats et des poux...
+{70459}{70505}je crois que...
+{70579}{70634}non, là tu as un bon argument.
+{70654}{70704}Un très bon argument.
+{70910}{70972}Est-ce le visage d'un rat?
+{71044}{71116}Sont-ce les yeux d'un rat?
+{71181}{71258}Un Juif n'a-t-il pas des yeux?
+{71617}{71711}J'ai de la compassion pour toi.
+{72119}{72164}Non, je ne crois pas.
+{72224}{72282}Salope de Juive!
+{72325}{72382}Tu as failli me convaincre!
+{72382}{72428}N'est-ce pas?
+{73440}{73524}Au nom de tout le personnel...
+{73526}{73581}je vous souhaite|un bon anniversaire.
+{73583}{73629}Bon anniversaire.
+{73631}{73677}Remerciez tout le personnel.
+{73679}{73735}Merci pour ce joli gâteau.
+{74212}{74240}Merci.
+{74245}{74300}Remercie tout le monde de ma part.
+{74686}{74797}Les trains sont arrivés et ils ont fait|descendre les gens avec des gourdins.
+{74799}{74895}Ils les ont fait s'aligner|devant deux grands hangars.
+{74897}{74991}L'un était marqué "vestiaire"|et l'autre "objets de valeur".
+{74993}{75056}Ils les ont fait se déshabiller.
+{75056}{75163}Un petit Juif leur a donné des bouts|de ficelle pour leurs chaussures.
+{75180}{75233}Ils leur ont rasé les cheveux.
+{75235}{75331}Ils en avaient besoin|pour les équipages de sous-marins.
+{75362}{75456}Ensuite, ils les ont conduits|à travers un long couloir...
+{75458}{75554}dans des bunkers avec|des étoiles de David sur les portes...
+{75557}{75653}et des écriteaux disant|"bains et inhalation".
+{75655}{75703}Les SS leur ont donné du savon.
+{75705}{75792}Ils leur ont dit de respirer|profondément pour la désinfection.
+{75852}{75902}Et ils les ont gazés.
+{75933}{76007}Pourquoi le savon?
+{76010}{76058}Pour qu'ils acceptent d'entrer|j'imagine.
+{76060}{76149}Arrête. Tu fais peur au monde|avec tes histoires.
+{76151}{76218}Tu sais, c'est ridicule.
+{76221}{76262}Je ne peux pas y croire.
+{76262}{76322}Je ne dis pas que j'y crois.|Je dis ce qu'on m'a raconté.
+{76324}{76350}Qui ça?
+{76350}{76405}Quelqu'un qui le tient|de quelqu'un qui y était.
+{76408}{76525}S'ils y avaient été,|eux aussi auraient été gazés.
+{76528}{76557}Oui.
+{76559}{76609}Ça n'a pas de sens.
+{76612}{76662}Nous sommes leur main-d'œuvre.
+{76664}{76746}Pourquoi ils tueraient|leur main-d'œuvre?
+{76748}{76818}S'être donné tout ce mal|pour rassembler...
+{76820}{76856}cette force de travail, juste pour...
+{76880}{76926}Ça ne peut pas être vrai.
+{76959}{77031}Nous sommes très importants|pour eux.
+{77077}{77127}Nous le sommes maintenant.|Bonne nuit.
+{77130}{77180}Bonne nuit.|Faites de beaux rêves.
+{77398}{77458}<i>Attention! Attention!</i>
+{77458}{77576}<i>Toute personne valide</i>|<i>doit se rendre à l'Appellplatz.</i>
+{77657}{77710}On doit aller à l'Appellplatz.
+{77712}{77813}Ceux qui font les listes sont là.|Il va y avoir une sélection.
+{77818}{77935}<i>Attention! Attention!</i>|<i>Toute personne valide...</i>
+{77935}{77995}<i>doit se rendre à l'Appellplatz.</i>
+{78710}{78767}Vous pourriez perdre|un peu de poids.
+{78808}{78865}Et réduire|votre consommation de cognac.
+{78868}{78937}Bonjour.|Qu'est-ce qui se passe?
+{78940}{79014}La visite médicale semestrielle.
+{79057}{79093}Là.
+{79122}{79168}Oh, j'ai encore|un convoi qui arrive.
+{79170}{79223}Ils sont quoi cette fois-ci?
+{79225}{79271}Hongrois.
+{79273}{79362}On doit séparer les malades des|bien portants pour faire de la place.
+{80237}{80278}Laisse-moi t'aider.
+{80304}{80354}Il faut qu'on sorte d'ici.
+{80676}{80757}Je vais t'aider. Ne bouge pas.
+{80760}{80815}Aie l'air vivant Rebecca!
+{81366}{81421}C'est mon mécanicien.
+{81424}{81481}Qui a eu la brillante idée|de se débarrasser de lui?
+{83021}{83102}Non, non, non. Lâchez-la.|Elle peut travailler.
+{83104}{83181}Regardez. Séparez les malades|des bien portants.
+{83184}{83248}Qui peut et ne peut pas travailler.|Elle, elle peut.
+{83251}{83296}Vous pouvez travailler|Venez.
+{85387}{85452}Ceux qui ne sont pas sélectionnés|pour le transport...
+{85480}{85519}rhabillez-vous.
+{85521}{85569}Les hommes,|retournez aux baraquements!
+{85572}{85622}Retournez aux baraquements!
+{85917}{85965}Oh mon Dieu!
+{87171}{87200}Je ne l'ai pas vu.
+{87202}{87274}Ils se cachent. Crois-moi,|ils se cachent. Je connais Danka.
+{87276}{87317}Elle les a cachés.|Elle a emmené...
+{87319}{87408}Olek et Janek et elle a trouvé|une bonne cachette.
+{87880}{87924}Trouve un autre endroit.
+{87926}{88012}Il n'y a pas de place pour toi ici.|Va-t'en! Vite!
+{88576}{88648}Fiche le camp, c'est notre planque!|Fiche le camp!
+{89250}{89317}Alors?
+{89317}{89372}J'ai essayé de vous joindre.|Tiens Hujar, pousse-toi.
+{89374}{89429}Quel pique-nique, hein?
+{89432}{89516}Je suis en retard. Ça prend|plus de temps que je croyais.
+{89516}{89549}Un verre?
+{89552}{89600}Quelque chose de frais. <i>Bowle.</i>
+{89710}{89755}Encore une belle journée.
+{90722}{90794}Vous devriez sortir vos lances|à incendie et arroser ces wagons.
+{90923}{90969}Faites-moi ce plaisir.
+{91062}{91096}Apportez les lances à incendie.
+{91108}{91139}Où est le feu?
+{91244}{91276}Sur les fenêtres.
+{91280}{91343}C'est ça. Et sur le toit.
+{91347}{91376}Très bien.
+{91379}{91415}Sur les fenêtres.
+{91745}{91820}Voilà! Voilà! Là.|Encore! Encore!
+{91822}{91906}Ça c'est cruel Oskar!|Vous leur donnez de l'espoir.
+{91908}{91954}Vous ne devriez pas.
+{91966}{92002}C'est cruel!
+{92004}{92086}Allez, essayez d'atteindre le bout.|Attention.
+{92251}{92306}J'ai 200 mètres|de tuyaux à Emalia.
+{92309}{92354}J'en ai vingt mètres|dans mon jardin.
+{92357}{92407}On pourra atteindre|les wagons du bout.
+{92407}{92472}Qu'est-ce qu'il y a?
+{92594}{92635}Oui. Bien sûr.
+{93095}{93138}N'oubliez pas le toit.
+{93141}{93186}Le toit, de l'autre côté!
+{93414}{93448}Chaque fois que le train s'arrête...
+{93450}{93489}ouvrez les portes, donnez de l'eau.
+{93520}{93565}Ce wagon! Ce wagon!
+{94157}{94234}Je ne dis pas que vous le regretterez.|Mais vous pourriez.
+{94237}{94277}Vous devriez le savoir.
+{94280}{94352}Nous allons risquer|ce genre de regret.
+{94352}{94448}Bon. C'est une belle journée.|Je viens faire un tour avec vous.
+{95306}{95342}Et toi? Pourquoi?
+{95344}{95443}J'ai violé la loi|sur les races.
+{95445}{95524}Bien que je doute|qu'un paragraphe me concerne.
+{95546}{95601}J'ai embrassé une Juive.
+{95725}{95773}Et ta bite est tombée?
+{96229}{96279}<i>Il aime les femmes.</i>
+{96337}{96406}Il aime les jolies femmes.
+{96445}{96536}Il ne réfléchit plus|dès qu'il en voit une.
+{96620}{96663}Il a tant de femmes.
+{96665}{96713}Et elles l'aiment!
+{96735}{96809}Elles l'aiment.|Je veux dire, il est marié... mais...
+{96848}{96893}Bon, enfin, ce n'est pas...
+{96896}{96934}Elle était Juive,|il n'aurait pas dû.
+{96939}{97025}Mais vous n'avez pas vu|cette fille.
+{97027}{97097}Je l'ai vue. Elle était...
+{97116}{97166}elle était très jolie.
+{97267}{97325}Ils vous jettent un sort|les Juifs!
+{97327}{97375}Quand on travaille à leur contact|on le voit.
+{97377}{97425}Ils ont ce pouvoir.|C'est comme un virus.
+{97425}{97505}Mes hommes l'attrapent. Faut avoir|pitié d'eux, pas les punir.
+{97507}{97569}On devrait les soigner.|C'est aussi réel que le typhus.
+{97572}{97639}Je vois ça tout le temps.|C'est une question d'argent?
+{97699}{97747}Vous m'offrez un pot-de-vin?
+{97792}{97838}Un pot-de-vin? Non.
+{97840}{97910}Je vous en prie.|C'est une gratification.
+{98066}{98114}Bonjour Amon.
+{98207}{98231}Asseyez-vous.
+{98293}{98322}On vous donne des Juives...
+{98325}{98387}à 5 marks par jour. C'est nous...
+{98389}{98440}que vous devriez embrasser.|Pas elles.
+{98442}{98540}Dieu vous épargne|du goût des Juives.
+{98543}{98615}Il n'y a pas d'avenir là-dedans.|Elles n'ont pas d'avenir.
+{98643}{98715}Ce n'est plus un discours|de bouffeurs de Juif!.
+{98742}{98787}C'est la politique.
+

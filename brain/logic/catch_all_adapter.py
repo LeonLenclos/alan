@@ -32,6 +32,9 @@ class CatchAllAdapter(AlanLogicAdapter):
             del self.sentences[self.index_selected]
         self.index_selected = None
 
+    def can_process(self, statement):
+        return len(self.sentences) > 0
+        
     def process(self, statement):
         self.index_selected = randint(0, len(self.sentences)-1)
         statment_out = Statement(self.sentences[self.index_selected])

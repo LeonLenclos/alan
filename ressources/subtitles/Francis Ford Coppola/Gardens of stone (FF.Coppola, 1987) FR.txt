@@ -1,0 +1,1130 @@
+{492}{565}- Escorte, halte !|- Peloton de tir.
+{572}{635}Garde-à-vous !
+{677}{775}Veuillez-vous lever pour rendre|les derniers honneurs militaires.
+{905}{995}Peloton de tir, tirez trois salves !
+{1082}{1140}Présentez armes !
+{1145}{1240}En joue, feu !
+{1262}{1360}Rechargez armes, en joue, feu !
+{1382}{1485}Rechargez armes, en joue, feu !
+{1497}{1537}Rechargez !
+{3220}{3315}Ici Thor, on a deux blessés. 
+{3447}{3595}Ici Hélico 2, Thorbear a reçu|deux balles dans la poitrine. 
+{3600}{3715}- Bien reçu.|- Et une balle au bras droit. 
+{3722}{3822}Bien reçu. Quelle est l'heure de retour|prévue pour l'hélico ? 
+{3827}{3902}Environ sept minutes|si on se grouille. 
+{3907}{4065}Reçu. Ici Trail.|On n'est plus que neuf. 
+{4135}{4205}OK, on embarque le gars. 
+{4252}{4347}- Reçu. J'arrive.|- On le récupère et on se casse. 
+{4355}{4472}On ne prend personne d'autre.|Vérifiez que ce gars ne monte pas. 
+{4477}{4512}Bien reçu. 
+{4517}{4605}Pas de civil non plus.|Je ne veux pas de journaliste. 
+{4610}{4650}Doux Jésus ! 
+{4662}{4780}Hélicoptère de sauvetage touché. 
+{4787}{4855}Reçu. On a un hélico à terre. 
+{5747}{5805}Etendard. Garde-à-vous.
+{5920}{6010}Au nom du Président,|veuillez accepter ce drapeau...
+{6015}{6105}en reconnaissance des services|rendus à la nation par votre mari.
+{6195}{6305}Au nom du Chef des Armées|et des Veuves d'Arlington...
+{6312}{6395}veuillez accepter nos condoléances.|Que Dieu vous bénisse.
+{6592}{6632}Cher sergent: 
+{6657}{6722}C'est peut-être ma dernière lettre. 
+{6780}{6835}J'en ai l'impression. 
+{6847}{6902}- Rachel.|- J'ai perdu trois hommes aujourd'hui. 
+{6910}{7005}Des bons. C'est comme ça. 
+{7010}{7060}On perd toujours les meilleurs. 
+{7082}{7205}Qu'est-ce que je vais dire à leurs parents ?|Qu'est-ce que vous diriez à ma femme ? 
+{7240}{7337}C'est drôle mais j'ai l'impression|d'être déjà venu ici. 
+{7345}{7437}Toute ma vie j'ai été soldat.|Toute ma vie. 
+{7455}{7510}Même quand j'étais gamin. 
+{7527}{7677}Je suis là mais rien ne va.|Ce n'était pas censé se passer comme ça. 
+{7682}{7817}Bien sûr qu'il allait y avoir du sang,|des sacrifices, des morts. 
+{7822}{7910}Je le savais sergent.|Mais pas comme ça. 
+{7955}{8022}Vous avez essayé de me prévenir. 
+{8057}{8127}Dès le premier jour|vous avez essayé. 
+{8147}{8235}J'étais si jeune.|Si sûr d'avoir les réponses. 
+{8242}{8295}FORT MYER, VIRGINIE|1968
+{8300}{8402}Je n'ai plus les réponses.|Seulement des questions. 
+{8405}{8497}- Caporal Jack Willow.|- Pete Deveber, administration.
+{8502}{8565}- Enchanté.|- De même.
+{8567}{8620}Votre peloton fait un dépôt|dans le jardin.
+{8627}{8690}Un enterrement. Cimetière.|C'est ça qu'on fait ici.
+{8697}{8830}Grâce au Vietnam, on est en pleine|expansion. Quinze dépôts par jour.
+{8837}{8940}Vu que t'as raté ce service,|prends ta matinée. Je te couvrirai.
+{8947}{9030}- C'est très gentil à vous.|- Je suis gentil moi.
+{9037}{9122}- C'est le bureau du patron ?|- Oui. Williams le Tueur.
+{9127}{9200}- Le Tueur ?|- Il a fait de la boxe à l'armée.
+{9205}{9257}Ça me rappelle un truc...
+{9262}{9330}il me faut quelqu'un de garde|cette nuit.
+{9337}{9390}Pas de problème, je suis ton homme.
+{9415}{9485}Je crois que Top va te plaire.
+{9492}{9557}Vous allez bien vous entendre.|Pour sûr.
+{9575}{9647}- Salut Top.|- Hé !
+{9655}{9750}- Vous êtes qui vous ?|- Willow est de garde ce soir.
+{9752}{9842}Vibro, il n'y a pas pire garde|que la garde de nuit...
+{9847}{9975}et elle a déjà été attribuée|à des petits merdeux.
+{9982}{10067}Je sais, Top. Il me l'a dit.|Je suis volontaire.
+{10122}{10180}Tu es volontaire dans ma compagnie ?
+{10187}{10275}J'ai un petit merdeux de volontaire|dans ma compagnie ?
+{10347}{10435}Vibro, t'as réussi à devenir|ma bête noire...
+{10442}{10532}en exactement 13 secondes !
+{10540}{10600}Ce garçon vous pose un problème|Top ?
+{10642}{10705}Non mon adjudant. Pas exactement.
+{10712}{10780}Je vous entendais jurer des latrines.
+{10787}{10885}Ce garçon aurait sodomisé|votre chèvre, c'est ça ?
+{10992}{11115}- Je suis venu voir ce que ça a donné.|- C'est tout simplement honteux.
+{11122}{11225}Dire que ces soldats d'opérette|portent les insignes de l'infanterie !
+{11232}{11290}Surtout quand la véritable|infanterie...
+{11292}{11382}est plongée jusqu'au cou|dans les bouses de buffle au Vietnam.
+{11387}{11460}Je l'ai dit et répété,|assez pour devenir impopulaire.
+{11467}{11517}- Sergent Hazard.|- Capitaine.
+{11525}{11570}Pourquoi tant d'agitation ?
+{11587}{11710}Je disais que le meilleur service|que je puisse rendre à mon armée...
+{11715}{11832}c'est de préparer ces morveux|à l'inévitable, leur apprendre...
+{11837}{11950}Clell ! Vous avez demandé votre|transfert, j'ai refusé. Point final.
+{11957}{12095}C'est le meilleur soldat du poste.|Avec l'adjudant Nelson.
+{12100}{12187}- Qu'est-ce qu'il fait ici ?|- Il a servi deux fois au Vietnam.
+{12192}{12257}Capitaine ! Un nouveau pour vous.
+{12262}{12375}Fantastique. Venez dans mon bureau,|on va discuter.
+{12380}{12540}- Tu viendras me voir après Vibro.|- "Willow", Top. On confond souvent.
+{12627}{12747}Tu veux tirer un coup ce soir|ou tu préfères t'amuser ?
+{12752}{12845}Enervé comme je suis, j'irai|jusqu'à passer la soirée avec toi.
+{12852}{12930}- Mon adjudant. Sergent.|- Désolé.
+{12972}{13010}Première classe " Lèche-cul".
+{13020}{13080}- Asseyez-vous.|- Merci capitaine.
+{13112}{13232}- Bienvenue caporal Vibro.|- Willow. caporal Willow.
+{13237}{13320}Ah oui.
+{13325}{13405}Adresse: Fort Huachuca.|Fils de militaire ?
+{13412}{13500}Mon père est, plutôt était,|premier sergent major.
+{13507}{13600}- Il est à la retraite.|- Je vois.
+{13607}{13742}Equipe de basket à la fac, défenseur.|Fantastique.
+{13747}{13860}On manque de bons joueurs,|surtout de blancs.
+{13870}{13982}Travaillez dur et vous deviendrez|sous-officier en un rien de temps.
+{13990}{14082}Je visais un peu plus haut.
+{14087}{14177}J'aimerais postuler|à l'école des officiers.
+{14182}{14302}J'aimerais aussi demander un transfert|pour le front, au Vietnam.
+{14337}{14445}Vous savez, c'est un privilège|d'appartenir à la Vieille Garde.
+{14450}{14560}Nous escortons le président.|C'est l'unité la plus prestigieuse.
+{14567}{14697}Ecoutez-moi bien fiston. Vous avez|tout le temps d'aller au Vietnam.
+{14702}{14765}Quant à l'école des officiers...
+{14770}{14877}prouvez-moi que vous avez l'étoffe|d'un officier et je m'en occupe.
+{14887}{14967}L'armée a besoin|de bleusaille intelligente.
+{14975}{15060}- Oui capitaine.|- Vous pouvez disposer.
+{15332}{15405}- A la prochaine Pete.|- A la prochaine.
+{15432}{15475}Comment allez-vous ?
+{15752}{15825}Félicitations pour ton diplôme|Mackie.
+{15832}{15940}Ton père qui t'aime.
+{16430}{16487}- Sergent ?|- Oui.
+{16495}{16532}Je ne comprends pas.
+{16540}{16640}Il y a des plaques d'acier|à l'intérieur des chaussures.
+{16665}{16720}Effectivement.
+{16727}{16845}Comme ça, quand on rabat un pied|contre l'autre ça claque joliment.
+{16867}{16910}Bienvenue dans le show-business.
+{16917}{16990}C'est un honneur de vous rencontrer|sergent.
+{16997}{17040}Vraiment ? Et pourquoi ?
+{17047}{17140}D'abord on est les deux seuls ici|à vouloir partir.
+{17147}{17280}- Partir ? Où ça ?|- Au front, au Vietnam sergent.
+{17300}{17370}Il n'y a pas de front au Vietnam.
+{17385}{17467}Rien à voir avec les autres guerres.|C'est même pas une guerre.
+{17472}{17540}Rien à gagner|et impossible de la gagner.
+{17575}{17660}Si c'est votre sentiment,|pourquoi y retourner ?
+{17670}{17765}Je n'y retourne pas.|Il n'y a rien pour moi là-bas.
+{17777}{17872}Je connais une unité au Vietnam.|Ils ont des cartes avec écrit:
+{17880}{17980}"Tuer c'est notre métier.|Les affaires sont bonnes."
+{17987}{18132}Ici, c'est l'inhumation notre métier.|Nos affaires sont meilleures.
+{18147}{18290}Ne soyez pas si pressé|de vous faire embaumer. Rompez.
+{18427}{18500}Vous avez connu mon père, pas vrai ?|Shelby Willow ?
+{18532}{18575}Oui.
+{18592}{18640}En Corée.
+{18645}{18730}On a combattu|sur les rives du Chongchon.
+{18757}{18835}On était amis.|Toujours aussi grande gueule ?
+{18842}{18955}Il a eu deux infarctus.|Il est retraité, dans le Kentucky.
+{18962}{19070}Vous lui avez laissé de bons|souvenirs. Il se rappelle à vous.
+{19077}{19195}Sa vision de la guerre est celle|de l'infanterie. Plus conventionnelle.
+{19202}{19295}Il est de la vieille école.
+{19325}{19410}J'ai instruction dans dix minutes.
+{19417}{19522}Fiston, si tu y penses,|salue ton père de ma part.
+{19540}{19585}Tu peux disposer.
+{20157}{20235}Je ne me lasse jamais de voir|ton esprit en ébullition.
+{20240}{20345}Inutile d'attendre que je triche.|J'ai trop de force de caractère.
+{20385}{20540}Le gosse a été muté à Delta.|Merci d'avoir interverti les papiers.
+{20547}{20635}Il allait être muté|à la Garde d'Honneur mais j'ai pensé:
+{20637}{20780}pourquoi les laisser en faire un idiot|alors que tu es très doué pour ça ?
+{20785}{20827}C'est le fils de qui ?
+{20830}{20920}De Shelby Willow. On a veillé|l'un sur l'autre en Corée...
+{20925}{21045}- Puis on a dû veiller sur toi.|- Je me souviens de lui.
+{21050}{21115}J'ai sa lettre.
+{21222}{21312}" Cher Clell," bla bla bla.|Sa femme est à l'asile...
+{21320}{21440}et lui il me parle de mon divorce|avec Linda comme si ça datait d'hier.
+{21445}{21550}Et que ça doit être très dur pour moi|de ne pas voir mon fils Mackie.
+{21557}{21650}Bref. Et à la fin:
+{21672}{21805}"peut-être que tu pourrais garder|un œil sur mon fils.
+{21817}{21860}Shelby."
+{21990}{22127}- Un valet rouge sur une reine rouge ?|- Ce sont pas des cartes asiatiques.
+{22145}{22182}Asiatiques !
+{22617}{22660}Comment allez-vous ?
+{22667}{22730}Plus de soleil.
+{22737}{22820}- Un coup de main ?|- Ça va. Merci.
+{22825}{22895}Parfois ça prend des heures.
+{22952}{23050}- Merci.|- Merci.
+{23380}{23425}Sara ?
+{23447}{23490}Sue ?
+{23517}{23635}S.Davis ? Seules les femmes mettent|leur initiale pour passer inaperçues.
+{23642}{23725}Ça avait bien marché jusqu'à|maintenant.
+{23845}{23912}- Stephanie ? Sophie ?|- Sam.
+{23920}{23970}Samantha.
+{24107}{24172}Jolie voiture.
+{24177}{24275}La Corvair.|Je vous vois aller et venir.
+{24697}{24795}Je suis vraiment désolé|d'avoir dit ces bêtises.
+{24802}{24950}Je sais que quand une fille ne veut|pas nous encourager elle se tait.
+{24955}{25085}- Les filles sont comme ça.|- Je sais que vous n'êtes pas impolie.
+{25092}{25140}Merci.
+{25152}{25240}Un ami vient dîner avec son amie|chez moi ce soir.
+{25245}{25370}- Vous aimeriez vous joindre à nous ?|- Merci, mais j'attends un appel.
+{25377}{25465}- A quelle heure ?|- Chico ! Dans la soirée.
+{25470}{25510}Chico !
+{25752}{25867}En vérité vous n'attendez pas|de coup de fil ce soir.
+{25882}{25985}Je ne sais pas pourquoi|j'y attache tant d'importance.
+{25992}{26055}Merci.
+{26202}{26250}A quelle heure ?
+{26262}{26322}- Pardon ?|- A quelle heure ?
+{26427}{26530}19 heures 30... enfin sept heures et demie.
+{26537}{26625}- D'accord.|- Sept heures et demie.
+{26790}{26832}- Adjudant.|- Vieux renard. 
+{26837}{26930}- Viens dîner avec Betty ce soir.|- Désolé. De la paperasse à finir.
+{26937}{27057}- Je dois prétendre diriger ce poste.|- La fille ne viendra pas sinon. 
+{27062}{27192}Ouvre tes oreilles : hors de question.
+{27207}{27265}Tu ne me laisses pas le choix,|mon vieux.
+{27270}{27362}Nha Trang, 1962.|Qui t'a sauvé la peau...
+{27367}{27465}- en mettant la sienne en danger ?|- Tu as un sacré culot.
+{27472}{27540}Elle a de grosses miches au moins ? 
+{27547}{27662}Change pas de sujet. Tu as une dette,|il est temps de casquer.
+{27667}{27775}Promets-moi de ne jamais plus|me ressortir ces histoires dépassées.
+{27787}{27890}- Juré craché.|- Quelle heure ? 
+{27895}{27995}- Viens à 19 heures 30.|- OK. J'appelle Betty Rae.
+{28000}{28092}- Rien que pour mater ces miches.|- Surveille ton langage.
+{28107}{28180}- Bordel de merde.|- Salaud. 
+{28427}{28467}- Salut.|- Salut.
+{28472}{28515}Entrez donc.
+{28587}{28660}Désolé, mes amis ont du retard.
+{28687}{28790}- Un verre de vin blanc ?|- Avec plaisir, merci.
+{29022}{29075}Merci.
+{29215}{29260}Il est bon.
+{29282}{29360}Je voulais vous impressionner.
+{29492}{29597}- Vous faites quoi dans la vie ?|- Je travaille au Washington Post. 
+{29602}{29720}Je viens du Charlotte Observer|en Caroline du Nord.
+{29787}{29860}- Vous m'excusez un instant ?|- Bien sûr.
+{30597}{30685}- Il est magnifique. C'est un persan ?|- Oui.
+{30692}{30785}Ce sont tous des tapis persans.
+{30792}{30875}Celui-ci c'est un Ispahan.
+{30882}{30975}Celui-là un Chiraz.
+{31002}{31070}Le rouge décoloré là-bas, un kilim.
+{31075}{31180}Celui derrière moi vient du Kurdistan.
+{31187}{31225}Joli.
+{31252}{31290}Bien...
+{31362}{31460}Pendant que vous aviez le dos tourné|j'admirais votre bibliothèque.
+{31467}{31575}Je suis journaliste.|Il faut toujours que je fouine.
+{31582}{31625}Bref...
+{31635}{31690}Intéressants ces livres.
+{31707}{31762}Tout ici est intéressant.
+{31787}{31870}Intéressant ou intéressant|pour quelqu'un comme moi ?
+{31875}{32005}Encore une leçon sur les filles ?|Nous prenons les soldats de haut ?
+{32037}{32127}Comment vous allez survivre dans|ce nid à communistes qu'est le Post ?
+{32132}{32220}- Ça sera dur.|- La Pravda sur le Potomac.
+{32225}{32320}Si je bossais pour le sénateur Ervin|je m'inquiéterais aussi.
+{32325}{32475}Sam Ervin se flatte|de n'être à la gauche de personne.
+{32482}{32560}- Aucun doute là-dessus.|- Peut-être de sa maman.
+{32567}{32655}Et de ces deux vigoureux|combattants ici-présents.
+{32662}{32765}C'est ça qui vous a rapproché ?|Vos opinions de droite ?
+{32805}{32890}Qu'est-ce que vous faites dans ce poste ?
+{32965}{33055}Clell, petit cachottier,|tu n'as rien dit à la dame ?
+{33070}{33202}Nous appartenons à la Vieille Garde.|Les soldats d'opérette de la nation.
+{33207}{33337}On défile avec des fusils à blanc|et des baïonnettes inoffensives.
+{33342}{33425}Nous sommes le kabuki|du métier des armes.
+{33430}{33522}Les bouffons à la cour de Mars,|Dieu de la Guerre, etc, etc.
+{33527}{33612}Goody Nelson, arrête ça tout de suite.
+{33617}{33690}Tu te mets à tenir le même discours|que Clell:
+{33695}{33780}un discours amer, cynique|et irrévérencieux.
+{33785}{33880}Seule l'élite de l'armée y est admise.
+{33887}{33997}Et ils devraient être très honorés|et flattés...
+{34002}{34070}qu'on leur ait proposé|d'en faire partie.
+{34075}{34187}Ce n'était pas une proposition,|c'était un ordre.
+{34195}{34340}On avait demandé un poste|d'instructeur à l'école d'infanterie.
+{34345}{34425}On croyait pouvoir en aider certains|à revenir debout...
+{34432}{34520}et non pas étendus dans ces boites|qu'on met en terre.
+{34527}{34615}Vous deux|c'est bonnet blanc et blanc bonnet.
+{34620}{34735}On se bouge les hommes !|Et la suite de ce merveilleux repas ?
+{34952}{35055}- Vous avez rencontré Goody où ?|- Un jour, un électeur du pays...
+{35060}{35157}est venu voir le sénateur Ervin|pour visiter Fort Myer.
+{35162}{35235}- Je lui ai servi de guide...|- Clell, mon vieux...
+{35245}{35380}tu as tout d'un coup très bon goût.|Très classe la fille.
+{35387}{35527}- Je me viderais bien les couilles...|- T'as promis. Ferme-la !
+{35532}{35590}OK. On y retourne...
+{35595}{35697}je veux me rincer encore un peu l'œil.|Miam-miam.
+{35702}{35790}Je suis tombée raide dingue|de l'adjudant sur-le-champ.
+{35797}{35887}Comme une jeune fille du Sud|bien élevée et raffinée.
+{35890}{35942}- C'est splendide.|- Faites place.
+{35947}{35990}Et une grande.
+{35997}{36047}Comme je vous disais.
+{36082}{36157}Ces deux-là ont l'air de s'entendre|à merveille.
+{36172}{36237}- A nous et à nos semblables.|- Au peu qu'il en reste.
+{36260}{36320}La plupart sont morts.
+{36392}{36452}Je vous sers ?
+{36457}{36510}Miam-miam !
+{36647}{36727}- Goody est toujours si... ?|- Non.
+{36732}{36865}Uniquement avec les gens|qu'il apprécie. Vous en faites partie.
+{36882}{36960}Tous les sergents vous ressemblent ?
+{36997}{37085}- Non.|- C'est bien dommage.
+{37092}{37155}J'ai passé une excellente soirée|Clell.
+{37162}{37257}- La meilleure depuis très longtemps.|- Tant mieux.
+{37265}{37350}- Merci de m'avoir invitée.|- Merci à vous Sam.
+{37537}{37580}Appelez-moi.
+{37622}{37665}Bonne nuit.
+{37875}{37970}Allez les fillettes,|il est l'heure de se lever !
+{37975}{38087}Walters, dégage du pieu !|Allez, on se bouge !
+{38107}{38210}Allez, debout ! Wildman ?|On se bouge, allez !
+{38217}{38267}Debout et que ça saute les gars.
+{38317}{38420}On range les revues cochonnes|et on se prépare pour l'inspection !
+{38507}{38582}- Trey, à terre. Tu m'en feras dix.|- Oui sergent.
+{38585}{38660}Une sergent. Deux sergent.|Trois sergent...
+{38672}{38760}Pourquoi tu regardes ma nuque ?|J'ai les tifs trop longs ?
+{38765}{38830}- Permission de me relever sergent.|- Accordée.
+{38880}{38945}- Pas mal.|- Merci sergent.
+{38980}{39047}Pas de pantalon qui traîne par terre !
+{39067}{39175}Pourquoi tu regardes ma nuque ?|J'ai les tifs trop longs ?
+{39252}{39337}Wildman, arrête !|Il vient par là.
+{39357}{39480}Wildman, fils de pute !|Debout quand je te parle !
+{39487}{39570}Tu es au troisième régiment d'lnfanterie|de la Vieille Garde...
+{39575}{39627}pas dans un cirque !
+{39680}{39767}On dirait que t'as ciré tes pompes|avec du chocolat fondu !
+{39785}{39925}Je vais devoir te réexpliquer|la chaîne de commandement. Simple !
+{39930}{40035}Le lieutenant engueule Hazard !|Hazard m'engueule !
+{40042}{40112}Moi je t'engueule !|C'est ça la chaîne de commandement !
+{40117}{40205}Très simple. La merde|ça roule à la descente. Pigé ?
+{40212}{40292}- T'as pigé ?|- Une minute sergent.
+{40302}{40412}Laissez-moi m'occuper de lui.|Vous avez mieux à faire.
+{40422}{40507}C'est ça caporal "je veux prendre|du galon", occupe-toi de lui.
+{40512}{40550}Oui sergent.
+{40562}{40625}Je n'ai pas de temps à perdre.
+{40692}{40780}- Taylor, ton lit est au carré ?|- Montre-moi ta chaussure.
+{40787}{40895}- Tu te fous de moi ?|- Je vais te montrer.
+{40902}{41000}- On se bouge au lieu de papoter !|- Tête de nœud !
+{41005}{41100}- Tu utilises de la salive ?|- Ben oui, pour nettoyer.
+{41105}{41170}Utilise de l'eau froide et du coton.
+{41175}{41220}Pas de salive ?
+{41237}{41275}Comme ça.
+{41332}{41400}Des petits cercles. Prépare une base.
+{41407}{41472}Ça prend du temps. Essaie.
+{41477}{41550}Enlève les lacets et repasse-les.
+{41555}{41667}Bon les héros, on écoute ! 
+{41672}{41830}On reste en chaussettes|jusqu'à 09.58 !
+{41852}{41920}- On est dans les temps ?|- Tout est en ordre.
+{41927}{41982}- Il est à Bravo.|- Oui.
+{41987}{42025}Merci.
+{42072}{42155}- Je vais le retarder.|- D'accord.
+{42232}{42302}Pendant l'inspection... 
+{42307}{42445}le colonel Godwin interrogera|certains d'entre vous... 
+{42450}{42540}- de manière amicale.|- Fantastique.
+{42542}{42612}Jouez pas au con,|c'est un ordre ! 
+{42617}{42755}Contentez-vous de dire que vous êtes|de Trou-du-Cul, en Arkansas...
+{42762}{42837}que vous aimez l'armée|et après vous la fermez !
+{43170}{43330}Si je trouve de la bave dans|ces gourdes je vous la fais boire.
+{43597}{43660}Faites place. Et une grande.
+{44060}{44105}Soldat !
+{44117}{44202}Tu as dit au colonel|que tu aimais l'armée soldat !
+{44207}{44280}- Tu vien d'où ?|- Columbus, dans l'Ohio.
+{44285}{44390}- Il en reste des comme toi là-bas ?|- Pas à ma connaissance.
+{44397}{44507}- Tu as des sœurs à Colombus ?|- Oui, une sœur.
+{44512}{44565}Elle a une activité sexuelle ?
+{44570}{44692}Bien sûr que non. C'est ma sœur.|Elle n'a que treize ans.
+{44697}{44735}Dommage.
+{44740}{44855}Plus on est jeune, mieux on apprend.
+{45062}{45130}Faites place. Et une grande !
+{45762}{45845}- Ton nom soldat ?|- Willow mon adjudant.
+{45867}{45955}- Tu aimes l'armée ?|- Beaucoup mon adjudant.
+{45992}{46057}- Tu as eu des cours de biologie ?|- Oui.
+{46062}{46120}Comment copulent les vers ?
+{46127}{46220}Ils ne copulent pas.|Leur reproduction est asexuée.
+{46265}{46305}Intéressant ce concept.
+{46312}{46392}Tu saurais me dire|qui a inventé cette notion ?
+{46402}{46505}- La reproduction sans sexe ?|- Votre femme mon adjudant ?
+{46757}{46805}Oubliez ça les gars.
+{46892}{46982}Pas de blâme dans cette section.|Ils sont nickels.
+{47050}{47195}Wildman !|" Miam-miam," dit l'ours affamé.
+{47202}{47280}Voyons ce que nous avons ici.
+{47325}{47415}- Bonté divine !|- Fais ta prière.
+{47652}{47712}Qui c'est sa nounou Clell ?
+{47717}{47785}Monsieur Reproduction Asexuée ?
+{48182}{48225}Bien.
+{48265}{48375}Je crois savoir ce que c'est|mais je doute que lui le sache.
+{48455}{48505}Sergent Hazard.
+{49862}{49925}Porteurs, halte !
+{49997}{50050}Soulevez.
+{50115}{50185}Sur le côté !
+{50312}{50422}...tu redeviendras poussière.|- Magnez-vous qu'on se casse !
+{50430}{50487}- Sans blague !|- Du calme !
+{50557}{50615}Abaissez !
+{50650}{50732}Garde-à-vous !
+{50807}{50885}Etendard.
+{50942}{51010}Attachez le cercueil.
+{51552}{51627}Etendard. Garde-à-vous !
+{51672}{51717}- Escorte !|- Fanfare.
+{51722}{51785}Garde-à-vous !
+{51790}{51830}Quart de tour droite...
+{51837}{51880}droite !
+{52075}{52135}Présentez armes.
+{52142}{52190}Exécution !
+{52242}{52285}Drapeau, garde-à-vous.
+{52290}{52375}Etendard, garde-à-vous.
+{52537}{52680}Cortège vers l'avant,|pas cadencé, marche !
+{53700}{53787}Sergent, adjudant, bonsoir.|Vous vouliez me voir ?
+{53800}{53845}- Quoi ?|- Vous vouliez me voir.
+{53852}{53915}Non, te payer un verre. Assieds-toi.
+{53922}{54000}Zeke ! Trois pressions !
+{54057}{54180}L'adjudant a bien connu|ton père en Corée.
+{54337}{54485}Quant aux résultats|de l'inspection du bataillon...
+{54502}{54580}Vois-tu petit,|comme il est écrit dans la Bible...
+{54585}{54670}un jour l'ours te croque,|l'autre c'est toi qui le croque.
+{54675}{54755}En clair on a gagné l'inspection.|Malgré Wildman.
+{54777}{54880}Tu faisais bonne figure fiston.|Le plus beau soldat de la semaine.
+{54885}{54975}Plus beau même que les divas|de la Garde d'Honneur.
+{54980}{55050}- Félicitations.|- Merci mon adjudant.
+{55070}{55127}Goody, figure-toi que Willow...
+{55155}{55217}veut aller au Vietnam.
+{55222}{55300}Il pense que la place d'un fantassin|est au front.
+{55305}{55352}Il n'y a pas de front au Vietnam.
+{55357}{55420}C'est ce que dit le sergent Hazard.
+{55425}{55522}C'est une drôle de guerre fiston.|Les choses ont changé.
+{55527}{55577}Quoi par exemple ?
+{55600}{55635}Eh bien tout d'abord...
+{55640}{55775}- Le peuple pacifiste du Vietnam...|- Arrête, tu vas me faire vomir.
+{55780}{55905}Les Viets adorent ça la guerre !|Ça fait 1000 ans qu'ils la font !
+{55910}{55955}Bien dit.
+{55962}{56080}Moi j'en ai rien à cirer du Vietnam.
+{56090}{56205}Je m'en tape complètement|de qui gouverne le Vietnam.
+{56212}{56302}Pour être honnête je me fous aussi|de qui gouverne les USA.
+{56307}{56360}Vous vous foutez de tout ?
+{56365}{56480}Non. Pas du sort de l'armée.|C'est ma famille.
+{56487}{56587}La seule que j'ai. Et je n'aime pas|la savoir dans le pétrin.
+{56592}{56647}Pétrin ? Sergent !
+{56657}{56752}On a battu l'Angleterre|et on a foutu la raclée à Hitler.
+{56787}{56835}On a toujours battu tout le monde.
+{56840}{56935}On va pas se laisser faire|par des petits paysans asiatiques.
+{56940}{57012}Regarde le bien ce paysan.
+{57017}{57120}Il t'avale des miles de jungle,|sans nourriture...
+{57125}{57220}massacre son peuple, bébés compris.|C'est un soldat.
+{57225}{57292}Il ne résistera pas|à la puissance de feu de l'armée.
+{57305}{57412}J'ai vu une photo d'un hélico|revenant criblé de flèches.
+{57417}{57500}Des flèches ça fait pas le poids|contre un hélico !
+{57507}{57592}Comment battre un ennemi|qui tire des flèches sur un hélico ?
+{57607}{57767}En tout cas pas en restant ici,|ni dans ce putain de Fort Benning.
+{57772}{57845}Qu'est-ce que t'as mec ?
+{57850}{57952}Ça te plaît pas ce que je raconte ?|OK, on va discuter dehors.
+{57957}{58020}Pourquoi dehors ? On est bien ici.|Vas-y.
+{58025}{58062}Alors c'est parti !
+{58087}{58162}La Garde d'Honneur.|Flanagan !
+{58215}{58287}A nous et à nos semblables.
+{58317}{58355}Au peu qu'il en reste.
+{58457}{58527}Ton gamin se fait fracasser la tête.
+{58657}{58775}Faites place et une grande !|Débarrassez-moi le plancher !
+{59527}{59577}Attendez-moi !
+{59582}{59722}- Peter, vieux paon ! Peter Pan !|- Debout. Ressaisis-toi.
+{59732}{59807}- Je t'attendais.|- Super.
+{59812}{59877}Le capitaine Thomas veut te voir.
+{59915}{59992}- Enfile ça.|- Tout de suite ?
+{60017}{60055}Et voilà.
+{60107}{60182}Willow au rapport capitaine.|Vous vouliez me voir ?
+{60345}{60392}Assieds-toi.
+{60605}{60682}Ton père a eu un arrêt cardiaque...
+{60725}{60787}à 20 heures.
+{60880}{60997}Ça a été très rapide.|Il n'a pas trop souffert.
+{61040}{61082}Je suis désolé.
+{61272}{61347}On va te laisser seul|quelques minutes.
+{61472}{61502}Willow...
+{61507}{61645}Vibro, Top, rappelez-vous.|On confond souvent.
+{61650}{61715}Ton père était sergent major.
+{61722}{61842}Tu as droit à une semaine.|Si tu as besoin de plus, appelle-moi.
+{62305}{62372}Si j'ai bonne mémoire...
+{62452}{62555}c'est la seule que j'ai|que ton père n'a pas...
+{62560}{62620}alors fais en sorte de...
+{62627}{62697}Tu lui agrafes, d'accord ?
+{62750}{62795}Sergent, je...
+{62905}{62967}J'ai réfléchi.
+{62995}{63080}C'est trop tard pour que mon père|repose à Arlington ?
+{63100}{63210}Bien sûr que non. Tu connais Goody.|Il peut tout arranger.
+{63215}{63347}Je sais que ce ne sera|qu'un bout de terrain nu...
+{63352}{63450}mais si vous pouviez lui trouver|une place dans le jardin...
+{63460}{63490}Sans problème.
+{64035}{64095}En avant.
+{64132}{64270}L'histoire du 3ème d'Infanterie|est liée à celle de la nation. 
+{64275}{64355}En 1922 le Ministère de la Guerre|autorisa... 
+{64360}{64442}la Vieille Garde à défiler|baïonnette au canon. 
+{64450}{64587}Elle va maintenant fixer les|baïonnettes au son des tambours. 
+{64615}{64657}Un !
+{64722}{64762}Deux !
+{64837}{64875}Trois !
+{64917}{64962}Quatre !
+{64992}{65025}Cinq !
+{65125}{65177}Cérémonial !
+{65197}{65247}Repos !
+{65322}{65372}Depuis la Révolution américaine... 
+{65377}{65467}les couleurs jouent un grand rôle|dans les unités. 
+{65472}{65560}Elles permettent aux soldats|de se positionner. 
+{65567}{65652}Au centre,|arborant les couleurs nationales... 
+{65665}{65782}les Portes-drapeaux|du 3ème régiment d'Infanterie... 
+{65787}{65855}Arrive maintenant la compagnie D. 
+{65860}{65925}Elle est emmenée|par le capitaine Thomas. 
+{65947}{66010}A sa suite la Compagnie E,|la Garde d'Honneur... 
+{66015}{66105}emmenée par le capitaine Harrison. 
+{66110}{66185}A droite, droite !
+{66225}{66307}Fermant la marche,|en uniforme de musiciens... 
+{66315}{66387}le Corps des Fifres et Tambours. 
+{66402}{66517}C'est George Washington qui|a voulu que leur tenue soit rouge... 
+{66522}{66615}et non plus bleue comme l'infanterie|pour ne pas les confondre... 
+{66620}{66677}dans la fumée des batailles. 
+{66695}{66785}Le Corps est mené aujourd'hui|par le tambour-major Phipps. 
+{66882}{66947}J'ai cuisiné Betty Rae à votre sujet.
+{66955}{67040}Ah oui ?|Elle a dévoilé quels secrets ?
+{67075}{67192}Vous avez été marié.|Vous avez divorcé il y a trois ans.
+{67197}{67285}- C'est exact.|- Vous avez un fils.
+{67312}{67357}Oui.
+{67400}{67517}Linda m'a quitté|quand j'ai rempilé pour le Vietnam.
+{67522}{67592}Je n'ai pas revu Mackie depuis.
+{67610}{67690}Et même avant...
+{67695}{67765}je ne le voyais déjà pas beaucoup.
+{67832}{67897}Et vous, des enfants|de votre premier mariage ?
+{67905}{67975}Non, je ne peux pas en avoir.
+{68110}{68182}Je suis désolée pour votre famille.
+{68250}{68317}Ce n'était pas ma priorité Sam.
+{68325}{68390}Ce n'est pas...
+{68395}{68487}le métier idéal pour garder une femme.
+{68915}{69027}Si vous n'agissez pas|ça va faire du tort à votre unité.
+{69595}{69687}Vous avez cependant le droit|d'attendre d'être entré.
+{70052}{70112}Ramène tes fesses !
+{70245}{70322}Mon adjudant.|Sergent, vous vouliez me voir ?
+{70462}{70502}Tu n'es pas en tenue.
+{70515}{70607}- Ah bon ?|- Non.
+{70730}{70862}Tu ne seras en tenue|que quand je t'aurai collé ça.
+{70887}{70957}Pas mal pour six mois, hein ?
+{70967}{71070}Apparemment|un certain sergent Flanagan...
+{71075}{71162}était si saoul l'autre soir|qu'il a mis le bar à sac.
+{71167}{71260}- Ça lui a coûté un galon.|- L'ours brun.
+{71285}{71435}Il a fallu descendre très bas|pour lui trouver un remplaçant.
+{71440}{71532}Au fait, pour être officiels|ils doivent être d'abord fixés.
+{71537}{71582}Fixés ?
+{71595}{71677}Tu sais, fixés,|comme "fixés", tu vois ?
+{71705}{71810}J'abandonne maintenant ma place|au grand ours brun...
+{71815}{71857}l'adjudant Nelson.
+{71905}{71952}Pauvre vieux.
+{72150}{72230}Regarde-le.
+{72235}{72275}Il bout d'impatience.
+{72280}{72322}Il tremble d'excitation.
+{72375}{72425}Il est à toi Top.
+{72430}{72482}Vibro.
+{72512}{72615}La seule chose pire encore...
+{72620}{72747}qu'un enfoiré de volontaire...
+{72780}{72915}c'est un jeune enculé de sergent.
+{72992}{73037}- J'ai raté !|- Trop tard, un seul coup.
+{73045}{73160}Clell, lâche-moi.|Je l'ai pas touché !
+{73292}{73325}- Bonsoir.|- Salut Jack.
+{73330}{73392}- Heureux de vous revoir.|- De même.
+{73400}{73462}Clell a été retenu au poste.
+{73467}{73602}C'est moi qui cuisine ce soir.|A vos risques et périls.
+{73615}{73670}- Entrez.|- Merci.
+{73675}{73717}Entrez.
+{73765}{73807}Je vous offre un verre ?
+{73815}{73887}- Je veux bien un coca.|- Très bien.
+{74025}{74077}- Tenez.|- Merci.
+{74082}{74132}- Je peux vous aider ?|- Avec plaisir.
+{74205}{74265}Clell m'a beaucoup parlé de vous...
+{74270}{74322}et de votre père.
+{74337}{74400}Ils ont combattu aux côtés|l'un de l'autre.
+{74405}{74457}Oui, en Corée.
+{74475}{74587}Combattre ensemble|ça rapproche énormément.
+{74635}{74717}- Asseyez-vous.|- Merci.
+{74820}{74967}Mon père chérissait sa MCI, la|Médaille du Courage de l'Infanterie.
+{74972}{75102}Une couronne de laurier en argent|avec un fusil Kentucky sur fond bleu.
+{75117}{75180}Quand on est soldat|et qu'il y a une guerre...
+{75185}{75270}il n'y a pas à tergiverser,|faut y aller.
+{75275}{75342}Je ne partage pas le point de vue|du sergent Hazard.
+{75347}{75427}Vous si sans doute,|vous bossez au Post. 
+{75432}{75462}Pas vraiment, non.
+{75467}{75590}Pour Clell cette guerre|est une mauvaise décision.
+{75595}{75645}Pour moi c'est un génocide.
+{75715}{75827}Bon sang Clell, vous pouvez pas|garder vos opinions pour vous ?
+{75832}{75917}Elles sont arrivées aux oreilles|des autres commandants !
+{75922}{76007}Je ne savais pas que c'était contraire|au règlement d'avoir un avis.
+{76012}{76102}Ne soyez pas stupide|et ne jouez pas au plus fin avec moi !
+{76112}{76215}Ça a toujours été contraire|au règlement d'exprimer son avis.
+{76220}{76317}L'Armée des Etats-Unis|s'en contrebalance des opinions.
+{76325}{76412}Bon sang,|qu'est-ce que je vais pouvoir faire de vous ?
+{76432}{76482}Vous êtes un bon soldat Clell.
+{76487}{76615}Mais depuis votre arrivée vous êtes|surtout un emmerdeur de première !
+{76620}{76670}Vous me mettez dans l'embarras !
+{76675}{76762}Mes amis me demandent|" Comment va ton sergent beatnik ?"
+{76767}{76822}Je ne suis pas pacifiste|capitaine.
+{76827}{76907}Je n'approuve pas cette guerre,|c'est tout.
+{76912}{76982}Si nous devons combattre,|faisons le bien.
+{76987}{77110}Pensez ce que vous voulez|mais gardez votre avis pour vous !
+{77142}{77232}Peut-être que vous avez fait erreur|en me faisant affecter ici.
+{77240}{77325}Vous pourriez la corriger|en approuvant mon transfert.
+{77330}{77395}Non.
+{77400}{77475}Vous n'irez pas à Fort Benning|sergent.
+{77487}{77575}Vous n'irez nulle part.|Vous allez rester ici...
+{77580}{77667}et vous allez me faire honneur !
+{77827}{77867}Tom ?
+{77872}{77917}Merci.
+{77967}{78042}Il ne faut pas qu'on arrive en retard,|compris ?
+{78050}{78140}Ne reste pas coincé dans un taxi.|On se voit là-bas.
+{78145}{78215}- Raconte-moi tout.|- Oui, par-là.
+{78222}{78277}Allez, Stan.
+{78315}{78385}- Rappelle-moi.|- Dis-lui d'y jeter un œil.
+{78390}{78505}Je vous aiderai pour l'article,|alors efforcez-vous de venir.
+{78510}{78665}- Et pour la réception ce soir ?|- C'est demain. Rendez-vous à 19 heures 30.
+{78672}{78792}Ça vous laissera le temps de vous|pomponner, on y sera pour 20 heures.
+{78810}{78925}Le sergent va me révéler où se cachent|les tapis persans dans cette ville.
+{78935}{79042}- J'espère que je n'ai pas...|- C'est pour le boulot. Une réception.
+{79055}{79162}Les ambassadeurs aiment que|les journalistes soient pomponnés ?
+{79172}{79227}Oui, parfois.
+{79337}{79382}C'est joli...
+{79390}{79455}- Allons voler un tapis.|- OK.
+{79460}{79505}Avec tout mon amour.
+{79682}{79760}Qu'est-ce qui te tracasse Clell ?|Dis-le-moi.
+{79765}{79852}Pourquoi tu tiens tant à quitter|la Vieille Garde ?
+{79885}{79967}On est des soldats d'opérette Sam.
+{80012}{80097}Tu es contre cette guerre|mais si tu es transféré...
+{80102}{80182}c'est toi qui enverras ces gosses|se faire tuer.
+{80190}{80302}Oui. Je suppose que je devrais être là|où je peux faire la différence.
+{80372}{80502}Je n'en peux plus de voir|tous ces gamins...
+{80530}{80637}- Ça doit être de la faiblesse.|- Ce n'est pas de la faiblesse Clell.
+{80657}{80795}Sam, l'armée c'est ma famille.
+{80802}{80897}Si un bâtiment prend feu|et tes enfants sont à l'intérieur...
+{80902}{81002}tu fais le maximum, tu auras bien|le temps de pleurer ensuite.
+{81195}{81272}Celui-ci est pour toi.|Un Ushak. Splendide.
+{81277}{81315}Joli.
+{81445}{81537}Veux-tu bien arrêter|de tourner en rond, bordel !
+{81545}{81632}Goody, j'ai bien réfléchi.
+{81710}{81832}Il y a des chances que ma section|joue l'agresseur cette année ?
+{81925}{81965}L'agresseur ?
+{81970}{82055}Les similis Vietcongs|qui s'inclinent...
+{82060}{82182}face aux nobles Américains ?|Tu es volontaire pour cette merde ?
+{82187}{82272}- Présenté comme ça, oui.|- Convaincs-moi.
+{82287}{82415}Ces gamins vont se retrouver|au Vietnam et je pensais...
+{82420}{82522}si je les avais deux semaines,|je pourrais peut-être les former.
+{82562}{82640}OK. Et la raison officieuse ?
+{82645}{82700}C'est ça. Rien d'autre.
+{82705}{82760}Tu peux m'arranger ça ?
+{82790}{82867}En un mot : non.
+{82912}{82967}Merci vieux renard.
+{83160}{83215}30 mai 1968.
+{83220}{83257}Ma chère Rachel... 
+{83262}{83312}toujours pas de réponse de ta part. 
+{83317}{83380}Tu as dit que tu allais essayer|de m'oublier. 
+{83387}{83475}Moi je n'y arrive pas|malgré tous mes efforts. 
+{83485}{83537}Ça a été une grosse semaine. 
+{83542}{83642}C'était le chaos dans le jardin|comme on surnomme le cimetière. 
+{83647}{83742}Delta avait plus de vingt dépôts par|jour, c'est-à-dire d'enterrements. 
+{83747}{83810}D'après le sergent,|de mauvais poil... 
+{83815}{83935}cette charge de travail confirme ses|dires. On n'en viendra jamais à bout. 
+{83940}{84035}Je lui ai dit que c'était pire pour|la Garde d'Honneur du Vietnam. 
+{84040}{84137}On n'est d'accord sur rien|quand il s'agit du Vietnam. 
+{84142}{84265}Sa copine, Sam, a été arrêtée|manifestant devant le Pentagone. 
+{84270}{84347}Elle est adorable|mais elle rend fou le sergent. 
+{84355}{84467}Il n'aime pas la guerre|mais encore moins ses détracteurs. 
+{84472}{84552}Je ne sais toujours pas|si ces lettres te parviennent. 
+{84557}{84657}Je donnerais tout pour avoir|de tes nouvelles. Je t'embrasse... 
+{84662}{84707}Jackie. 
+{85025}{85100}Te retourne pas tout de suite...
+{85105}{85217}mais une fille super canon te mate|depuis cinq minutes.
+{85222}{85297}Je te jure. A 6 heures.|Retourne-toi tout doucement.
+{85302}{85352}Une fille à tomber par terre.
+{85372}{85422}Où elle est partie ?
+{85427}{85532}- Sérieux. Va voir.|- Arrange ta chemise.
+{85930}{86012}Garde-à-vous ! 
+{86122}{86172}A droite ! 
+{86180}{86287}- Relève de la garde.|- Procédure habituelle.
+{86297}{86365}- Ordres bien reçus.|- Prêts ! 
+{86370}{86417}Rachel ?
+{86430}{86500}- Jackie.|- Qu'est-ce que tu fais ici ?
+{86505}{86605}Je suis venue visiter la tombe|de Kennedy. Je ne l'ai jamais vue.
+{86610}{86712}- Qu'est-ce que tu fais à Washington ?|- Mes parents habitent ici maintenant.
+{86717}{86782}- Mon père est au Pentagone.|- Toi aussi ?
+{86787}{86910}Je suis toujours à la fac.|En Allemagne. Je suis venue les voir.
+{86915}{87017}- Tu as beaucoup d'allure.|- Merci.
+{87022}{87097}Tu accepterais de dîner|avec moi ce soir ?
+{87102}{87177}- Je ne peux pas. J'ai rendez-vous.|- Annule.
+{87195}{87287}- Ce n'est pas une bonne idée.|- Annule ton rendez-vous.
+{87365}{87497}D'accord. 2218 M Street.|Georgetown. 20 heures.
+{87505}{87557}Bien reçu.
+{87610}{87675}Vous avez le droit d'aider|les visiteurs...
+{87680}{87785}mais pas celui de les kidnapper.|Aussi tentant que ça puisse être.
+{87790}{87855}Sergent Hazard,|je vous présente Rachel Feld.
+{87860}{87947}- Rachel est une vieille connaissance.|- Mlle Feld.
+{87952}{88015}Ravie de vous rencontrer.
+{88020}{88102}Il faut que j'y aille. A bientôt.
+{88115}{88180}- 2218 ?|- Oui.
+{88185}{88270}Ouah...
+{88275}{88312}Bien joué petit.
+{88320}{88380}Sergent,|il faut que vous me prêtiez 50 dollars.
+{88385}{88452}Je vous rembourse|dès que je touche ma solde.
+{88510}{88557}Sa solde...
+{88810}{88882}J'aurais besoin de votre voiture|aussi.
+{88950}{89002}J'ai bien fait de venir.
+{89007}{89107}Les Américains ne veulent plus|donner à leurs dirigeants... 
+{89145}{89202}- de carte blanche politique.|- C'est très joli.
+{89207}{89307}- Vous aussi, toujours aussi belle.|- Merci Don.
+{89320}{89370}Excusez-moi.
+{89375}{89482}Don, mon ami, le sergent Hazard.|Clell, Don Brubaker.
+{89487}{89540}Que Dieu soit loué.
+{89545}{89627}On va enfin m'expliquer|ce qui se passe au Vietnam !
+{89635}{89717}Alors général, on leur botte le cul|oui ou merde ?
+{89740}{89842}Méfie-toi, Don est président|d'Avocats Contre la Guerre.
+{89850}{89950}Il y a un rapport de dix morts|contre un. Ça vous va ?
+{89955}{90092}Non, c'est peu par rapport au nombre|de cœurs que nous devions conquérir.
+{90105}{90150}On s'en sort bien ?
+{90155}{90262}On ?|On n'a pas l'air de faire grand'chose.
+{90267}{90365}- A part ramener sa grande gueule.|- On est en démocratie.
+{90370}{90445}A mon avis|nous massacrons des innocents.
+{90460}{90505}Voyez-vous...
+{90510}{90637}les avis c'est comme les trous|du cul. Tout le monde en a un.
+{90642}{90700}- Qu'est-ce qui te...|- Il n'a pas le droit de...
+{90705}{90790}Il a tout à fait le droit de parler|du Vietnam.
+{90795}{90872}- C'était une insulte tout à l'heure ?|- Tout à l'heure ?
+{90877}{90947}J'en sais rien. Mais allez vous faire|foutre quand même.
+{90955}{91075}Je ne suis pas un de vos petits Nazis.|Viens te battre dehors, connard.
+{91080}{91195}J'ai une meilleure idée. Reconnaissons|ici-même qu'on ne s'aime pas.
+{91200}{91300}Il faut vous traiter de quoi pour que|vous réagissiez ? De tueur d'enfants ?
+{91307}{91365}Fous-lui une raclée soldat !
+{91460}{91525}Mon Dieu !
+{91572}{91615}- Arrêtez...|- Non !
+{91620}{91672}Arrêtez-le !
+{91705}{91795}Appelez une ambulance.|S'il vous plaît.
+{91800}{91852}Sale fasciste !
+{91857}{91927}Appelez une ambulance !
+{91945}{91992}Fasciste !
+{92400}{92520}Sous le déluge de balles|les hommes se sont mis à couvert. 
+{92525}{92597}Abattu par un tireur embusqué... 
+{92605}{92695}- Salut Clell.|- Salut Sam.
+{92700}{92767}Je viens de parler à Don Brubaker.
+{92772}{92882}Il a la mâchoire cassée,|il a dû écrire ce qu'il voulait dire.
+{92887}{93007}Il dit qu'il était saoul,|qu'il a agi en vrai trou du cul.
+{93017}{93127}Ni remboursement des soins médicaux,|ni poursuites judiciaires.
+{93160}{93222}Pourquoi il ferait ça ?
+{93237}{93317}Au fond c'est un type bien.
+{93330}{93462}Et les gens bien qui font des erreurs|s'en rendent compte tôt ou tard.
+{93555}{93615}Entre. Désolé.
+{93797}{93867}Tu n'as pas eu à le convaincre ?
+{93875}{93972}A cause de sa mâchoire|il ne pouvait rien dire.
+{94105}{94195}Je t'aime si fort.|Je m'inquiète tant.
+{94200}{94227}Je t'aime.
+{94290}{94345}Jackie, je suis ravie de vous voir.
+{94350}{94432}Content de vous revoir Mme Feld.|Vous avez bonne mine.
+{94447}{94527}- Comment allez-vous ?|- Très bien.
+{94540}{94610}- Bonsoir Jack.|- Bonsoir colonel.
+{94647}{94740}Entrez donc.
+{94745}{94775}Merci colonel.
+{94830}{94902}Rachel ne s'attendait pas|à vous voir ce matin.
+{94907}{95027}- J'ai été très surpris moi aussi.|- C'est bien normal.
+{95032}{95137}Ça faisait un bail|que vous ne vous étiez pas vus !
+{95150}{95222}- Rachel dit que vous êtes sergent.|- Oui colonel.
+{95230}{95315}- Dans la Vieille Garde, à Myer.|- C'est ça.
+{95320}{95440}C'est une bonne unité|pour l'infanterie.
+{95480}{95532}Oui colonel.
+{95550}{95632}Vous êtes toujours|dans l'électronique à Washington ?
+{95637}{95767}Et comment, je dirige un important|projet de recherche et développement.
+{95772}{95837}- C'est top secret.|- Je vois.
+{95842}{95952}Croyez-moi Jack, cette guerre|est une bénédiction pour le R&D.
+{95957}{96025}- Je n'en doute pas.|- Bonsoir.
+{96030}{96122}Je croyais que tu avais rendez-vous|avec le fils Peterson.
+{96127}{96207}Comment tu as réussi à annuler ?|Il est coriace.
+{96215}{96262}J'ai réussi.
+{96360}{96430}- Bonne soirée.|- Bonne soirée.
+{96435}{96485}On y va ?
+{96490}{96542}Au revoir.
+{96595}{96677}- Bonne soirée sergent.|- Bonsoir colonel.
+{96962}{97020}Ton père est égal à lui-même.
+{97027}{97107}Toujours aussi con.
+{97115}{97172}Le tien, il va comment ?
+{97205}{97292}Mon père est mort|d'une crise cardiaque le mois dernier.
+{97357}{97412}Mon Dieu !
+{97470}{97547}J'aimais beaucoup ton père.
+{97560}{97672}Je sais Rachel.|Il t'aimait beaucoup lui aussi.
+{97680}{97732}Vraiment.
+{98010}{98095}- C'est le Cabernet ?|- Oui monsieur.
+{98230}{98335}Alors, est-ce que l'armée remplit|toutes tes attentes ?
+{98342}{98392}Oui et non. De façon générale, oui.
+{98400}{98495}J'attends toujours d'aller|à l'école militaire et au front.
+{98500}{98545}Tu veux partir au Vietnam ?
+{98560}{98672}Un soldat où il faut quand il faut|peut changer le monde.
+{98765}{98860}Dommage.|J'espérais que ça t'avait passé.
+{98865}{98895}Va te faire voir Rachel.
+{98905}{99000}- Contentons-nous de papoter.|- Non, au contraire !
+{99005}{99075}Je me fous bien de l'Europe|et de tes amis !
+{99080}{99160}- Et de ce que tu as lu dernièrement.|- C'est plus facile.
+{99167}{99245}On s'en fout de la facilité.|Tu m'aimes toujours ?
+{99250}{99357}- Tu me poseras la question en civil.|- Je te la pose maintenant.
+{99455}{99555}Sais-tu que mon père avait peur|que je me mésallie...
+{99560}{99610}et que je bousille sa carrière ?
+{99615}{99697}Il t'a fait miroiter West Point|pour t'éloigner de moi.
+{99702}{99815}Le fils de sergent qui épouse|la fille du colonel !
+{99820}{99947}Il t'a fait marcher ! Et tu l'as cru !|C'est ce qui nous a séparés.
+{99990}{100047}Tu es si naïf.
+{100145}{100217}Je t'aimais tellement Jack.
+{100317}{100387}C'était ta décision.
+{100560}{100642}On s'en va ?
+{100675}{100727}Oui.
+{100880}{100962}Merci pour les boissons.
+{100995}{101027}Tout va bien.
+{101320}{101407}- Sergent, c'est Willow.|- Génial ! Tu veux me piquer quoi ?
+{101412}{101457}Tu as déjà mon fric...
+{101462}{101515}et ma voiture.|Tu veux ma queue ? 
+{101522}{101625}Vous fréquentez trop l'adjudant.|Votre vocabulaire s'en ressent.
+{101632}{101710}- Allez, crache l'affaire.|- Je me demandais... 
+{101717}{101805}si je pouvais emprunter votre appart|ou celui de Mlle Davis ?
+{101880}{101930}D'accord. Viens chez moi.
+{101935}{101997}La clé sera sous le paillasson.
+{102005}{102082}Merci ! Vraiment.|Je vous revaudrai ça.
+{102145}{102202}C'est dans la poche.
+{102230}{102282}Je veux simplement discuter.
+{102287}{102352}Mais bien sûr beau gosse.
+{102600}{102692}- Vous êtes encore là.|- Oui. Désolé Jack...
+{102697}{102792}- On vient de m'appeler. Alerte Rouge.|- Alerte Rouge !
+{102802}{102900}A mon avis on part en manœuvres.
+{102905}{102972}- Désolé Mlle Feld.|- Non ! Pas ce soir !
+{102977}{103075}On est debout depuis 03.00, on a bossé|comme des fous dans le jardin !
+{103082}{103120}- On est crevés !|- Du calme.
+{103125}{103190}Tu te plaindras à l'aumônier|dans quinze jours.
+{103195}{103270}Je te parie que c'est un coup|de Goody Nelson.
+{103275}{103372}- Qu'est-ce qui se passe Jack ?|- Exercices sur le terrain !
+{103377}{103437}Il faut que je parle à Rachel|sergent !
+{103442}{103512}Cinq minutes. Entrez.
+{103517}{103577}Cinq, pas plus.
+{103620}{103665}Je te l'ai dit...
+{103670}{103775}je veux t'épouser Rachel,|quoi qu'il arrive.
+{103780}{103897}- Tu ne me l'avais jamais dit.|- Je l'ai écrit dans mes lettres.
+{103905}{103975}Je ne les ai pas ouvertes.
+{104000}{104060}Je voulais t'oublier.
+{104070}{104165}Si tu veux que je quitte l'armée, je le|ferai. Mais j'ai raison d'espérer ?
+{104170}{104225}Il faut que je sache.
+{104235}{104332}Je ne m'attendais vraiment pas|à te voir ce matin.
+{104345}{104417}- C'était ce matin seulement ?|- Faut y aller ! 
+{104440}{104517}Laisse-nous une chance|s'il te plaît.
+{104522}{104637}- Allez petit, faut bouger !|- Rachel...
+{104655}{104727}- Je t'aime.|- Merde ! 
+{104997}{105037}Allez.
+{105042}{105137}- File-moi la clé !|- Quoi ? Tenez.
+{105225}{105262}Red Man 4 ! 
+{105300}{105392}Revenez immédiatement|au poste de commande du bataillon !
+{105415}{105447}Rentrez s'il vous plaît !
+{105470}{105540}Retournez immédiatement|au PC du bataillon. 
+{105622}{105720}Sergent Hazard, vous m'entendez ? 
+{105742}{105820}Il marche ce truc ?|Red Man 4 ? 
+{105887}{105957}A partir de maintenant|vous êtes l'ennemi. 
+{105962}{106037}Frayez-vous un chemin|en douceur. 
+{106042}{106105}Ressentez la jungle,|ne lui résistez pas. 
+{106110}{106205}- Wildman, tu sais nager ?|- La jungle est votre amie. 
+{106210}{106262}Utilisez-la. Laissez-vous porter. 
+{106270}{106355}Aimez-la.|Votre amour sera payé de retour. 
+{106370}{106442}Un jour vous affronterez|les vrais Vietcongs... 
+{106450}{106485}et ce jour-là... 
+{106490}{106605}un vague souvenir de ces exercices|vous sauvera peut-être la vie. 
+{107715}{107767}Eh, les mecs, qu'est-ce qui se passe ?
+{107775}{107850}Les Niaks nous ont volé notre matos !
+{107895}{108042}Je suis complètement perdu, bordel.|Voyons si ce truc marche.
+{108082}{108127}C'est pas le nord. Merde !
+{108490}{108552}Merde ! C'était quoi ça ?
+{108640}{108757}Wildman, ta cervelle|vient d'éclabousser le sol.
+{108765}{108842}Franchement, elle a plus fière|allure comme ça.
+{108870}{108930}Dis-moi. Tu n'as jamais...
+{108935}{109052}sorti ta queue pour|quoi que ce soit dans la vie ?
+{109060}{109120}Insulté un officier peut-être ?
+{109125}{109192}Non sergent.|Ce n'est pas mon genre.
+{109232}{109307}Ça veut dire que je ne suis pas|un homme, c'est ça ?
+{109345}{109400}Ni plus ni moins qu'un autre.
+{109405}{109527}Un homme devrait toujours avoir|du respect pour lui-même. Viens.
+{110200}{110245}Bon boulot Jackie.
+{110452}{110517}Il veut être reformé ?
+{110522}{110592}Il fait honte à tout le bataillon !
+{110597}{110645}Je suis sûr qu'il n'en sait rien chef.
+{110652}{110770}On se fait botter le cul par une section|de Viets devant les observateurs !
+{110782}{110910}Godwin vient de me dire " C'est pas|votre faute. C'est celle de votre cul !"
+{111072}{111127}On est des cadres moyens Homer.
+{111132}{111227}Vraiment. On est le cœur et l'âme|de l'Amérique.
+{111232}{111365}On fait partie du système, on le fait|avancer en surveillant nos arrières.
+{111387}{111512}C'est un boulot accaparant.|Clell ne l'a jamais appris lui.
+{111517}{111597}Il va falloir lui dire les choses|en face.
+{111615}{111720}Il va falloir lui enfoncer ça|dans le crâne à coup de burin !
+{111815}{111925}Seul problème, pour l'instant|personne ne peut le localiser !
+{112537}{112612}C'est quoi ton putain de problème|psychopathe de mes deux ?
+{112617}{112720}C'est du suicide ! Un putain de taré|qui veut la cour martiale ?
+{112725}{112805}Qui t'a proclamé|Dieu des instructeurs de l'infanterie ?
+{112810}{112892}Il y a un gars de Benning là-bas.|Tu le connais même pas !
+{112897}{112990}- D'où tu serais meilleur que lui ?|- Je veux simplement...
+{112997}{113055}faire mon possible.
+{113092}{113192}Pourquoi tu n'y retournes pas ?|Emmène-les patrouiller.
+{113197}{113305}Berce-les dans tes bras pendant|qu'ils se videront de leur sang.
+{113312}{113407}Je suis peut-être ignare mais|je te connais: tu perds les pédales.
+{113682}{113770}Avant ça ces gamins étaient|nuls à chier.
+{113777}{113857}Tu devrais voir|ce qu'ils sont devenus, Goody.
+{113892}{113957}Donne-moi 24 heures et ensuite...
+{113962}{114092}je reviens au QG de mon propre chef,|promis juré.
+{114362}{114467}Capitaine, vos hommes sont censés|mener un raid aérien.
+{114472}{114605}Au lieu de quoi, ils se font massacrer|par un ramassis de 35 pouilleux !
+{114610}{114707}Les hélicos sont placés ici.|Je veux un raid aérien. Compris ?
+{115235}{115332}Bonsoir capitaine. Vous avez le droit|de garder le silence.
+{115662}{115705}Cassez-vous.
+{115862}{115917}Très amusant.
+{115922}{115995}Très amusant, sergent !
+{116020}{116080}Je suppose|que je suis censé m'énerver.
+{116090}{116217}Vous rétrograder de 15 galons|et vous muter quelque part...
+{116227}{116347}où vous n'aurez ensuite aucun mal|à vous faire transférer à Benning !
+{116352}{116390}C'est ça ?
+{116395}{116435}Aucune chance sergent.
+{116460}{116565}Hors de question que je passe|pour un raté là-haut ou ailleurs.
+{116582}{116637}Non, je vais leur dire...
+{116642}{116757}que vous êtes mon meilleur soldat.|Et dans quatre jours...
+{116772}{116882}je pointerai les failles|de leur programme dépassé !
+{116887}{116990}Ça donne à réfléchir, hein ?|Vous en aurez largement le temps.
+{116995}{117115}Vous allez passer le restant de vos|jours à défiler autour de mon poste !
+{117212}{117305}Les gens adorent voir défiler|un héros de guerre pur jus.
+{117820}{117860}- Sergent ?|- Oui.
+{117865}{117917}Il faut que je vous parle.
+{117927}{118045}J'ai déjà eu droit au sermon de Goody|et lui je ne peux pas lui botter le cul.
+{118052}{118167}- Malgré mon respect, il est con.|- Respectueusement con.
+{118172}{118247}Vous vous êtes mouillé|pour vos convictions.
+{118255}{118327}Le reste|c'est des trucs de croulants.
+{118332}{118382}Pourquoi Fort Benning sergent ?
+{118387}{118477}Vous aurez beau vous tuer|à les entraîner...
+{118482}{118562}au cœur de l'action|il leur manquera quelqu'un.
+{118567}{118647}Vous. Leur sergent de section.|Vous êtes né pour ça.
+{118652}{118785}Je suppose que je devrais t'être|très reconnaissant de me le signaler.
+{118790}{118842}Pourquoi ne pas l'admettre ?
+{118847}{118912}Tu veux une histoire ?|J'en ai des tas.
+{118917}{119032}Tu en veux une sur un garçon|que j'aimais comme un fils ?
+{119037}{119127}En voilà une. Un garçon|que je n'avais jamais remarqué...
+{119132}{119230}jusqu'à ce qu'il me supplie|d'abréger ses souffrances.
+{119235}{119300}Puis il a vu ses tripes|qui pendaient...
+{119305}{119375}et il m'a supplié de les lui rentrer.
+{119380}{119507}A la fin il m'a demandé d'aller|trouver sa fille dans l'Ohio...
+{119542}{119655}pour lui dire que sa dernière pensée|a été pour son spectacle de danse.
+{119660}{119765}Sa fille était blonde,|elle avait cinq ans.
+{119840}{119967}Elle était magnifique en tutu.
+{120045}{120167}Des histoires où on sauve des vies,|vous n'en avez pas ?
+{120192}{120257}C'était des compromis,|on fait ce qu'on peut.
+{120262}{120362}Le compromis ça a du bon si ça|marche. Pas se mentir à soi-même.
+{120367}{120402}Ecoute !
+{120407}{120530}Si j'en savais autant que toi|sur la vie et ce pour quoi on naît...
+{120537}{120642}je serais un sacré type, hein ?|Un type comme toi.
+{121092}{121175}A 60 miles au sud,|les soldats du Premier de Cavalerie... 
+{121182}{121275}ont lancé par hélicoptères|l'assaut de la plaine côtière. 
+{121280}{121372}Dès l'atterrissage ils ont été|accueillis par le feu ennemi. 
+{121377}{121487}L'assaut du Premier de Cavalerie a été|appelé Opération Broyeur. 
+{121492}{121582}Ici, près de Lang Son,|l'ennemi a choisi de... 
+{121587}{121640}On va se marier.
+{121742}{121827}Désolé chérie, mais c'est impossible.
+{121852}{121970}Certaines filles nubiles enverraient|leur père se faire foutre !
+{122062}{122112}Tu ne penses qu'à ton étoile !
+{122117}{122267}- Tu vas prendre un autre ton !|- Je prends le ton que je veux chef !
+{122912}{122982}Bienvenue dans l'armée Mme Willow.
+{123335}{123380}Allez, une photo !
+{123975}{124052}Rachel Feld, Gazette de l'Armée. 
+{124390}{124452}Tu es ravissante. J'adore ta robe.
+{124457}{124555}- Tu es très bon danseur.|- J'ai appris dans les marécages.
+{124605}{124647}Un sourire !
+{124702}{124745}J'ai un truc à faire.
+{124842}{124905}Je porte un toast aux mariés.
+{124912}{125000}A une longue vie pleine de félicités !
+{125140}{125180}A mon nouveau fils.
+{125232}{125335}- Au marié et à la mariée.|- A nous et à nos semblables !
+{125342}{125390}- Au peu qu'il en reste !|- Mon Dieu !
+{125532}{125580}Fantastique.
+{125707}{125747}Félicitations.
+{126072}{126127}En selle cow-boy !
+{126452}{126500}Rachel, merci.
+{126682}{126800}- Ne fume pas au lit. Pas ce soir.|- Merci capitaine.
+{126927}{127000}- Un verre ?|- On a quelque chose pour toi.
+{127112}{127172}- Génial !|- Il va falloir que tu les mérites.
+{127177}{127235}Ça ne devrait pas être trop dur|vu que...
+{127240}{127307}tu pars à l'école militaire|dans deux semaines.
+{127312}{127417}Goody et moi on est allés voir|le capitaine Thomas...
+{127422}{127477}et après moult discussions...
+{127482}{127545}- J'ai croqué l'ours brun.|- Oui.
+{127770}{127830}Pourquoi aller à l'école militaire ?
+{127835}{127917}A quoi ça sert d'être|sous-lieutenant ?
+{127937}{127975}C'est pourri !
+{128510}{128612}... conserve basse altitude|en attente de... 
+{128642}{128677}Restez à vos postes ! 
+{128952}{129060}- On a deux blessés.|- OK, on embarque leur équipement. 
+{129127}{129210}- Reçu. J'arrive.|- On les récupère et on se casse. 
+{129217}{129325}On ne prend personne d'autre.|Vérifiez que ce gars ne monte pas. 
+{129475}{129520}Cher sergent: 
+{129542}{129650}Dans moins d'un mois|j'aurai fini l'école militaire. 
+{129662}{129735}Ici tout le monde ne parle|que du Vietnam. 
+{129742}{129852}Dehors on n'entend parler|que des manifestations. 
+{129857}{129955}Cette guerre divise le pays|tout entier. 
+{129995}{130090}C'est toujours matière à dispute|avec Sam ? 
+{130102}{130165}N'oubliez pas, c'est une civile. 
+{130170}{130252}Comment elle pourrait comprendre|que personne... 
+{130257}{130345}ne déteste autant la guerre|que ceux qui la font ? 
+{130350}{130410}Amitiés, Jackie. 
+{130632}{130727}- Tu es bon pour le Vietnam.|- Pas de chance vieux !
+{130732}{130807}- Flanagan !|- Toi aussi Flanagan.
+{130900}{131005}Et merde ! Te voilà parti.|Juste quand tu pensais y échapper.
+{131010}{131080}Wildman,|tue un rouge pour le Christ.
+{131242}{131300}Félicitations au jeune lieutenant !
+{131387}{131475}Je crois que tu es censé rendre|leur salut.
+{131480}{131575}- Repos.|- On dirait des vrais soldats.
+{131582}{131635}- Chérie, comment tu vas ?|- Du gâteau !
+{131642}{131697}- Fiston.|- Comment allez-vous sergent ?
+{131802}{131930}Tes barrettes sont splendides Jackie.|Prends une coupe de champagne.
+{132072}{132177}- Je voudrais dire quelque chose.|- Un discours. C'est ta soirée.
+{132182}{132225}Je pars au front.
+{132232}{132332}Dans deux semaines|je serai à Quang Tin.
+{132337}{132377}Félicitations fiston.
+{132415}{132462}Tu es ce qu'il manquait à l'armée.
+{132572}{132627}Ça vous va sergent ?
+{132727}{132812}Je regrette simplement|de ne pas t'accompagner.
+{132842}{132935}Les sergents de section|n'ont jamais de lieutenant compétent.
+{132947}{133045}Tu vas mâcher le travail|à un veinard là-bas.
+{133087}{133160}Tu es né pour ça gamin.
+{133197}{133280}A nous et à nos semblables.
+{133367}{133415}Au peu qu'il en reste.
+{133507}{133622}- Allez, célébrons ça.|- A Jackie et Rachel.
+{133647}{133780}Ici Hélico 2, Thorbear a reçu|deux balles dans la poitrine. 
+{133792}{133882}- Bien reçu.|- Et une balle au bras droit. 
+{133920}{134037}Bien reçu. Quelle est l'heure de retour|prévue pour l'hélico ? 
+{134152}{134257}Ici Call 5, suis derrière|Coast Call, sécurisez le terrain. 
+{134327}{134410}Terrain dégagé et sécurisé ? 
+{134415}{134530}Reçu. On l'a pour quelques minutes,|vous pouvez atterrir. 
+{134637}{134710}- Tu as lu la dernière Gazette ?|- Non.
+{134717}{134787}Devine qui a obtenu|la Médaille d'Honneur...
+{134792}{134862}- Pour ses exploits au Vietnam.|- Qui ça ?
+{134867}{134930}Devine qui a sauvé la peau|à ses potes ?
+{134935}{135032}Devine qui a mis en déroute, à lui|seul, toute une armée de méchants ?
+{135037}{135100}Qui ça putain, Goody ?
+{135107}{135135}Wildman.
+{135237}{135372}Le préfet de police sud-vietnamien|a tué un homme portant une arme... 
+{135377}{135470}preuve d'après lui|que c'était un officier Viet-cong. 
+{135477}{135617}Le préfet lui a logé une balle|dans la tête. Il n'a pas été destitué. 
+{135637}{135717}Les balles ont fusé de toutes parts|dans Cao Lang. 
+{135722}{135840}Désorientés, les habitants ne|savaient plus à quel saint se vouer. 
+{135942}{136005}Dis-moi que tu n'es pas si triste|que ça.
+{136010}{136102}Et si tu comptes mentir|fais-le mieux que ça.
+{136107}{136155}L'année est finie.
+{136180}{136272}Le plus dur est passé.|Il revient dans trois semaines.
+{136322}{136412}Le mari de Bonnie Fowler|n'était plus le même à son retour.
+{136425}{136482}Apparemment...
+{136487}{136595}pendant qu'il lui écrivait|des mots tendres...
+{136602}{136720}il écrivait à sa mère|qu'il voulait divorcer.
+{136737}{136817}Ils ont une fillette de deux ans.
+{136917}{136987}Les hommes reviennent fous...
+{136992}{137042}brisés et froids.
+{137167}{137205}Mais...
+{137212}{137302}- Pas mon Jackie.|- Non, pas lui.
+{137352}{137387}Alors tout ira bien.
+{137652}{137745}- Rachel est un vrai cordon-bleu.|- Un chef.
+{137752}{137870}Je l'ai surprise au téléphone.|Elle appelait le traiteur.
+{137902}{137982}- Tu plaisantes ?|- Merci pour le compliment.
+{137987}{138035}Je plaisante, c'est un régal.
+{138117}{138190}Comment va Jackie ?|Tu as des nouvelles ?
+{138217}{138285}Oui, j'ai reçu une lettre...
+{138322}{138445}- Chérie, tu veux bien la...|- Non, lis-la toi.
+{138527}{138667}" Ça fait un an que je suis ici mais|j'ai l'impression que ça fait une vie.
+{138682}{138730}Dix vies entières.
+{138762}{138822}J'ai du mal à croire|qu'on va bientôt se revoir.
+{138827}{138985}J'ai même du mal à croire que vous|existez. Tous. Rachel comprise.
+{139047}{139197}J'ai du mal à croire qu'elle m'aime|toujours, que l'amour existe.
+{139202}{139265}Ses lettres sont si belles...
+{139270}{139380}j'aimerais tellement les croire.|Je veux l'enlacer...
+{139385}{139480}encore et encore, et tout ira bien."
+{139552}{139677}J'ai appris que je ne pouvais pas|protéger ces gosses. 
+{139682}{139802}J'ai prêté serment de le faire|pourtant, mais j'en suis incapable. 
+{139807}{139932}J'ai toujours su que je vivrai|et mourrai dans l'armée. Toujours. 
+{139937}{140047}Désormais je ne sais plus rien.|J'ai besoin qu'on discute... 
+{140062}{140140}que vous me remettiez|les idées en place. 
+{140162}{140225}- Entrez !|- Mon adjudant...
+{140265}{140325}le sergent Hazard, il...
+{140765}{140840}DECEDE: J.WILLOW
+{141110}{141187}- Jackie Willow...|- Je sais.
+{141362}{141407}Goody a téléphoné.
+{141412}{141465}Il voulait une MCI.
+{141542}{141632}La Médaille du Courage|de l'lnfanterie. Plus que tout.
+{141637}{141710}La plupart des gosses de son âge...
+{141757}{141855}ils rêvent d'une promotion|quelconque...
+{141860}{141912}d'une garçonnière...
+{141917}{141975}d'une stéréo encastrée...
+{141997}{142070}d'une voiture de sport, merde !
+{142137}{142187}Non, lui il voulait une MCI.
+{142252}{142327}J'ai essayé de le freiner...
+{142370}{142457}de le rendre moins fébrile de partir.
+{142462}{142535}J'ai essayé de lui dire. Goody aussi.
+{142562}{142667}- On n'a pas été très convaincants.|- Ce n'est pas de ta faute Clell.
+{142707}{142830}J'ai cru pouvoir y arriver d'ici.|Si ces cons me refusaient Benning...
+{142835}{142915}alors je les instruirai ici.|Moi, le sergent Hazard.
+{142920}{142962}Moi le...
+{142987}{143025}le vétéran, le dur à cuire.
+{143030}{143152}- Arrête Clell.|- Ecoutez-moi et vous survivrez.
+{143157}{143237}Je suis tout simplement lamentable.
+{143242}{143357}- Tu te fais du mal Clell.|- C'est plus fort que moi Sam.
+{143362}{143422}Et puis j'ai pensé...
+{143457}{143532}puisque je ne peux pas|tous les aider...
+{143537}{143667}je pourrais peut-être en aider un.|Choisir un gamin...
+{143710}{143777}un seul...
+{143862}{143920}Jackie...
+{144082}{144137}Où tu pourrais être utile Clell ?
+{144170}{144290}Si tu ne peux pas l'être ici,|ni à Fort Benning, où alors ?
+{144382}{144462}- Là-bas ?|- Où ça ?
+{144467}{144540}Ne m'oblige pas à prononcer le nom.
+{144570}{144695}Effectivement,|ce serait un bon endroit. C'est là...
+{144702}{144750}que ça compte vraiment.
+{144912}{144992}Je ne veux pas que tu t'en ailles.
+{144997}{145082}Mais c'est à toi de décider,|pas à moi.
+{145090}{145137}Et nous ?
+{145142}{145205}Pendant que moi je...
+{145272}{145390}sauve le monde, toi tu disparais|à l'horizon avec Don Brubaker.
+{145395}{145495}Je ne disparais à l'horizon|avec personne Clell.
+{145500}{145602}Je reste ici à attendre,|seule et terrorisée.
+{145627}{145735}Mais ça ne cadre pas|avec ce que tu penses de la guerre.
+{145787}{145867}Je n'ai pas changé d'avis|sur cette guerre.
+{145872}{145942}Je ferai tout mon possible|pour l'arrêter.
+{145947}{146062}Je manifesterai, je protesterai,|je harcèlerai les députés.
+{146067}{146167}Et si tu prends ça comme une trahison,|tant pis.
+{146172}{146240}Tu dois faire ton devoir...
+{146260}{146302}moi aussi.
+{146502}{146617}J'ai une autre question.|Si je faisais ce qu'on a dit...
+{146652}{146685}chérie...
+{146717}{146850}tu voudrais m'épouser|avant mon départ ? S'il te plaît ?
+{146960}{147005}Oui.
+{147027}{147052}Vraiment ?
+{147147}{147195}Je t'aime.
+{147202}{147262}Moi aussi je t'aime.
+{149087}{149157}Tu es poussière|et tu redeviendras poussière.
+{149162}{149217}Enterrez-le qu'on puisse se casser.
+{149222}{149275}- Magnez-vous...|- Ta gueule !
+{149327}{149382}Tu me cherches toi ?
+{149425}{149487}Etendard. Garde-à-vous !
+{149720}{149775}Repos.|Garde-à-vous !
+{151152}{151250}Nous sommes|sur la Tombe du Soldat Inconnu.
+{151267}{151337}Sur la pierre est gravé:
+{151395}{151462}"Ici repose dans toute sa gloire...
+{151472}{151557}un soldat américain|connu seulement de Dieu."
+{151562}{151700}On m'a dit qu'il n'y aurait sans doute|pas de soldat inconnu au Vietnam.
+{151727}{151765}Apparemment...
+{151795}{151847}nous pouvons inventorier...
+{151895}{151947}tous les corps.
+{151972}{152017}Nous avons...
+{152062}{152122}appris à mieux les identifier.
+{152157}{152295}Je me demandais si nous avions appris|à mieux les connaître.
+{152342}{152385}Ici reposera...
+{152390}{152547}un glorieux soldat américain|connu seulement d'un petit nombre.
+{152607}{152660}Je le connais.
+{152777}{152812}Je ne l'oublierai pas.
+{152987}{153072}Veuillez vous lever|pour les derniers honneurs militaires.
+{153227}{153327}Peloton de tir, tirez trois salves.
+{153332}{153415}Présentez armes.
+{153457}{153550}En joue, feu !
+{153557}{153635}Rechargez armes, en joue, feu !
+{153802}{153852}Vous pouvez vous asseoir.
+{153882}{153935}Reposez armes !
+{154072}{154122}Préparez les drapeaux.
+{154452}{154552}Au nom du Président,|veuillez accepter ce drapeau...
+{154557}{154647}en reconnaissance des services rendus|à la nation par votre mari.

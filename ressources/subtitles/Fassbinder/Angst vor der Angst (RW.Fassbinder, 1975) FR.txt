@@ -1,0 +1,681 @@
+{650}{695}- Papa !|- Bibi !
+{737}{792}Qu'est-ce qu'il y a ? Tu pleures ?
+{805}{852}Je n'ai pas le droit d'aider maman.
+{860}{932}Je voudrais bien|l'aider à faire le gâteau.
+{940}{1025}Voyons Bibi,|tu ne peux pas aider maman !
+{1042}{1120}Tu fais toujours|des saletés et du désordre.
+{1450}{1557}Quelle journée ! Le vendredi|tout le monde est sur les nerfs.
+{1650}{1700}Comment va mon fils ?
+{1705}{1765}Il donne encore des coups de pied ?
+{1795}{1852}Il me dit quelque chose !
+{1917}{1970}On va se reposer ce week-end, hein ?
+{2007}{2060}On sera bien tranquilles.
+{2850}{2907}PEUR DE LA PEUR
+{3592}{3685}- Et si on jouait au docteur ?|- Oh oui maman ! Viens !
+{4142}{4220}Examine-moi partout.|Tout me fait mal.
+{4742}{4790}Qu'est-ce que tu as maman ?
+{4797}{4860}J'ai encore mal ici, et là.
+{5035}{5087}Je suis si malade que ça ?
+{5122}{5172}Mais non Bibi.
+{5225}{5295}Au contraire.|Tu es en bonne santé.
+{5315}{5367}Alors va examiner papa.
+{5510}{5557}On va se promener Kurt ?
+{5577}{5627}J'aimerais tant !
+{5655}{5705}Je pourrais marcher, marcher...
+{5725}{5827}- Et toi et Bibi...|- On voulait se reposer ce week-end.
+{5832}{5882}Et puis j'ai du travail.
+{5887}{5965}Tu sais bien|que je potasse mes maths.
+{6015}{6075}Ma-thé-ma-tiques.
+{6140}{6217}Moi non plus|je ne veux pas aller me promener.
+{6432}{6482}On va faire un gâteau.
+{6495}{6577}- Oui, allons-y.|- Je pourrai pétrir la pâte ?
+{6595}{6642}Oui ma chérie.
+{6687}{6745}Mais tu en as déjà fait un hier.|Pourquoi...
+{6752}{6795}Hier, oui.
+{6812}{6867}Et alors ? On le mangera.
+{6875}{6945}Les gâteaux ça se mange toujours.
+{7467}{7517}Ce n'est pas grave.
+{7527}{7577}Je nettoierai tout après.
+{7585}{7610}Continue.
+{8015}{8080}On met des pommes ou des prunes|dans le gâteau ?
+{8095}{8167}Des prunes. Et plein de sucre !
+{8385}{8447}Ton ventre est drôlement gros.
+{8535}{8615}Bientôt tu ne pourras plus bouger.
+{8690}{8772}Eh bien|je t'appellerai et tu m'aideras !
+{8780}{8830}Et tout sera très facile.
+{8855}{8925}Il serait temps qu'il arrive Jan.
+{8955}{9032}Tu m'as dit|qu'il serait bientôt prêt.
+{9052}{9132}Il faudra encore attendre|quelques semaines.
+{9142}{9200}Et puis|est-ce que ce sera un garçon ?
+{9207}{9285}- Ce n'est pas sûr.|- Mais moi je veux un petit Jan.
+{9292}{9370}Papa aussi.|Et puis mamie et Lore...
+{9400}{9450}Je monte voir mamie.
+{9457}{9482}Non !
+{9575}{9625}Reste avec moi.
+{9635}{9667}Je vais te lire une histoire.
+{9695}{9785}Je voulais juste dire à mamie|que j'avais fait un gâteau.
+{9815}{9862}Pardon Bibi.
+{9870}{9920}J'ai crié mais...
+{9972}{10020}Je t'aime tellement !
+{10152}{10217}Ma petite Bibi ! Mon enfant !
+{10382}{10425}Va voir mamie.
+{10445}{10517}Monte lui dire|que tu as fait un gâteau.
+{11025}{11075}Ça c'est donc moi.
+{11100}{11132}Moi.
+{11187}{11217}Moi ?
+{11247}{11285}C'est quoi ?
+{11310}{11352}C'est quoi moi ?
+{11382}{11430}Maintenant...
+{11905}{11957}Je suis hystérique Kurt.
+{11980}{12045}Je suis hystérique parce que je suis enceinte.
+{12052}{12115}Dis-moi que je suis hystérique.
+{12132}{12237}Deux personnes sur les genoux|c'est trop, même pour un costaud.
+{13690}{13740}Tu as encore mal au dos ?
+{13765}{13792}Oui.
+{13840}{13890}Mais ce n'est pas grave.
+{13935}{13995}Si j'arrive à me sentir en vie|ça va.
+{14002}{14040}Pardon ?
+{14105}{14142}Rien.
+{14875}{14915}Je crois que ça y est !
+{14932}{14970}Déjà ?
+{14987}{15035}C'était prévu|pour dans trois semaines.
+{15042}{15102}J'ai accouché de Bibi avant terme.
+{15145}{15202}Tu veux que je prévienne ma mère ?|Ou Lore ?
+{15210}{15257}Non, surtout pas.
+{15270}{15337}Demain sera largement assez tôt.
+{15370}{15407}J'appelle l'hôpital ?
+{15460}{15510}Non, merci. Je m'en charge.
+{15912}{16005}Allô ? L'hôpital Katharin ?|Ici Margot Staudte.
+{16037}{16120}Je vais accoucher. Les contractions|viennent toutes les 10 minutes.
+{16127}{16175}Je peux venir ?
+{16182}{16230}Oui, merci.
+{16582}{16630}Ça recommence.
+{16697}{16745}Je deviens folle.
+{16792}{16840}Je perds la tête.
+{17707}{17757}C'est pas possible !
+{17780}{17847}Dieu, tu ne peux pas accepter ça.
+{17930}{18020}Si je deviens folle,|qu'est-ce que les enfants vont devenir ?
+{18135}{18217}J'ai deux petits enfants|et je perds la tête !
+{18272}{18340}Qu'est-ce qui se passe Margot ?|Tu es folle ?
+{18365}{18465}Tu as réveillé tout le monde.|Il faut que je dorme et toi aussi.
+{18635}{18685}Qu'est-ce qu'il y a Margot ?
+{19080}{19105}Dr Auer ?
+{19140}{19210}Veuillez m'excuser.|C'est M.Staudte.
+{19240}{19290}C'est au sujet de Margot.
+{19297}{19385}Je ne sais pas ce qu'elle a.|Elle est bizarre.
+{19397}{19447}Oui, ce serait gentil.
+{19477}{19527}Merci beaucoup docteur.
+{21152}{21217}Eh bien, qu'est-ce qui ne va pas|Mme Staudte ?
+{21515}{21580}À vrai dire tout est normal.
+{21635}{21720}Je vais vous injecter un tranquillisant.
+{21725}{21775}Après vous dormirez.
+{21795}{21870}Vous viendrez me voir demain matin.
+{22692}{22772}- Maman !|- Le Dr Auer est venu cette nuit.
+{22797}{22855}- Les enfants sont-ils malades ?|- Non.
+{22862}{22927}Asseyez-vous.|Margot a eu un malaise.
+{22932}{23030}Selon le docteur elle est encore|faible à cause de l'accouchement.
+{23065}{23120}Il faut qu'elle se nourrisse bien.
+{23125}{23195}Elle ne mange rien. Elle n'aime rien|de ce qu'on lui apporte.
+{23235}{23325}Si Lore. Tu cuisines très bien|et belle-maman aussi.
+{23340}{23390}Mais parfois je ne peux rien avaler.
+{23395}{23467}Bibi est déjà comme toi.|Compliquée et...
+{23472}{23525}Elle va devenir comme toi.
+{23532}{23600}- Ce n'est pas sain.|- J'y vais. Tu t'occuperas de Jan
+{23605}{23675}- quand Margot sera chez le médecin ?|- Quelle question !
+{23682}{23730}Ça va de soi !
+{23740}{23812}Margot et Bibi|déjeuneront chez nous.
+{23827}{23872}Du canard au chou rouge.
+{23977}{24055}Soyez tout à fait rassurée|Mme Staudte.
+{24062}{24120}Tout est normal|sur le plan organique.
+{24172}{24220}Vous faites un peu d'anémie
+{24227}{24275}mais rien d'alarmant.
+{24285}{24312}Il vous faut du repos.
+{24325}{24385}Du repos et encore du repos.
+{24402}{24502}Beaucoup de lait, de la salade,|des fruits, du bouillon de viande,
+{24510}{24570}et vous n'aurez plus d'ennuis.
+{24727}{24770}''Système nerveux''
+{25225}{25272}Vous savez...
+{25465}{25540}Ces derniers temps j'ai souvent eu...
+{25602}{25685}des crises d'angoisse, très étranges.
+{25705}{25777}Je ne sais pas du tout pourquoi...
+{25825}{25882}Vous êtes une jeune femme sensible.
+{25890}{25940}Très sensible même.
+{25945}{26047}Le système neurovégétatif|peut poser des problèmes.
+{26067}{26127}C'est plus fréquent qu'on croie.
+{26135}{26185}Rien d'inquiétant.
+{26200}{26275}Je vous ai prescrit un peu de Valium.
+{26325}{26370}Prenez-en si vous êtes trop nerveuse.
+{26392}{26485}Un seul à la fois, pas plus !|Mais je vous fais confiance.
+{26500}{26560}Au revoir !|Ne vous faites pas de souci.
+{26915}{26950}Patient suivant !
+{32065}{32117}Je ne veux pas de cette robe.
+{32125}{32185}Ni de celle-ci ni d'aucune autre !
+{32190}{32227}Aidez-moi.
+{32340}{32390}Excusez-moi. Je...
+{32420}{32480}J'ai eu un moment de panique.
+{33362}{33410}Maman, on y va ?
+{33425}{33460}J'ai peur.
+{33800}{33880}- C'était qui le monsieur ?|- Tais-toi Bibi.
+{33892}{33937}Pourquoi ? Qui c'était ?
+{33945}{34010}- Dis-le-moi !|- C'était M.Bauer,
+{34030}{34105}- voilà tout.|- Il regarde bizarrement.
+{34112}{34160}Il a des yeux bizarres !
+{34180}{34227}M.Bauer est malade.
+{34237}{34310}Pourquoi maman ?|Il se promène pourtant dans la rue.
+{34317}{34370}Il est malade de la tête.
+{34900}{34935}Je...
+{35010}{35065}Je voudrais retirer Bibi...
+{35095}{35142}du jardin d'enfants.
+{35175}{35212}Pardon ?
+{35290}{35355}On fait l'impossible|pour avoir une place et...
+{35365}{35412}On aura l'air de quoi ?
+{35542}{35602}Mais c'est une vraie usine,
+{35622}{35672}un lieu sans âme.
+{35705}{35780}Imagine... Hier j'entre,
+{35810}{35905}et je vois tous les enfants|assis les bras croisés
+{35912}{35985}et personne n'a le droit de parler.
+{36322}{36397}Alors je demande à la dame|ce qui se passe.
+{36415}{36505}Elle me répond|que les enfants ont été méchants.
+{36515}{36557}Méchants !
+{36565}{36625}Comment on peut être méchant|à quatre ans ?
+{36645}{36692}Les enfants peuvent l'être.
+{36710}{36770}Tu le sais très bien Margot.
+{36787}{36855}À l'école aussi|ils devront rester assis en silence.
+{36862}{36942}Comme ça|ils en prennent l'habitude très tôt.
+{36950}{37020}Et laisse-moi tranquille.|Pour réussir mon examen
+{37025}{37060}je dois travailler dans le calme.
+{37555}{37622}Tu préfères rester ici avec moi demain
+{37640}{37710}ou bien aller au jardin d'enfants ?
+{37815}{37860}Je ne sais pas trop...
+{37875}{37995}Demain il faut que j'y aille.|On va faire un défilé avec des lampions.
+{38002}{38055}- Et après-demain...|- Oui.
+{38072}{38122}D'accord Bibi.
+{38152}{38212}J'ai compris. Va jouer !
+{39962}{39987}Karli !
+{40002}{40035}Toi ici ?
+{40052}{40140}Je ne travaille pas aujourd'hui.|J'ai eu envie d'aller nager.
+{40147}{40230}Mais ça fait dix minutes|que je te regarde.
+{40235}{40277}Tu n'arrêtes pas de nager.
+{40295}{40385}C'est très sain !|Tous les médecins le disent.
+{40410}{40455}Je nage tous les matins.
+{40555}{40605}Oui... mais comme ça ?
+{40635}{40682}Ce n'est pas normal.
+{40690}{40735}Pas normal ?
+{40742}{40790}Pourquoi tu dis ça ?
+{40810}{40885}Pourquoi tu dis|que ce n'est pas normal ?
+{40910}{40990}Ne t'énerve pas !|Je voulais juste dire...
+{40997}{41090}Tu fais des tas de longueurs très vite.|C'est fatigant !
+{41105}{41180}Oui, mais j'arrive à tout oublier.
+{41212}{41247}Tout...
+{41300}{41330}... oublier.
+{41435}{41482}Excuse-moi d'avoir crié.
+{41507}{41580}Ce n'est pas grave. Pas du tout.
+{41820}{41935}Karli m'a dit que tu nageais|tous les matins comme une dératée.
+{41945}{41995}Et tu n'arrêtes pas|de maigrir et de pâlir.
+{42002}{42075}Il te faut du repos, pas de la piscine.|Maman et Lore disent...
+{42082}{42155}Maman et Lore !|Tu n'as que ces mots-là à la bouche.
+{42160}{42237}Mais les médecins disent tous|qu'il faut bouger.
+{42250}{42295}Maman a raison.
+{42302}{42365}Une femme avec deux enfants|bouge assez comme ça.
+{42372}{42410}Vous vous plaignez toujours.
+{42425}{42505}- Je ne me suis jamais plainte.|- Oui, c'est vrai.
+{42515}{42557}Mais maman et Lore,
+{42562}{42630}elles, sont submergées de travail.
+{42732}{42797}Tu sais comme elles triment
+{42807}{42907}pendant que tu vas nager|comme une folle tous les matins ?
+{43072}{43122}Tu as raison Kurt.
+{43137}{43187}Vous avez tous raison.
+{43200}{43270}Mais je ne peux pas te l'expliquer.
+{43295}{43345}J'ai peur...
+{43397}{43447}Peur de...
+{43460}{43557}Je ne connais pas de mot|pour exprimer ce que je ressens.
+{43575}{43625}En fait ce n'est rien.
+{43647}{43740}Il faut juste que je fasse|constamment quelque chose,
+{43747}{43797}que je m'occupe.
+{43805}{43855}Sinon...
+{43897}{43977}Sinon je me regarde|dans la glace et...
+{44130}{44220}Tu viens toi-même de dire|que ce n'était rien.
+{44225}{44310}Il faut que tu prennes|les médicaments qu'on t'a prescrits.
+{44320}{44370}Et tu as besoin de repos.
+{44387}{44422}Tout rentrera dans l'ordre.
+{45332}{45382}Vos yeux Mme Staudte.
+{45405}{45450}Vos yeux.
+{45485}{45525}Il faut faire attention à vous.
+{45585}{45630}Ne m'adressez pas la parole.
+{45650}{45700}Pouvez-vous...
+{45720}{45755}en parler à quelqu'un d'autre ?
+{45792}{45840}Je n'ai rien...
+{45857}{45907}à raconter à personne.
+{45965}{45990}Rien du tout.
+{46035}{46075}Dommage.
+{46095}{46142}Dommage pour vous.
+{46170}{46247}Il est très important d'avoir quelqu'un
+{46267}{46317}avec qui on puisse...
+{46330}{46370}en parler.
+{46592}{46632}Christa !
+{46675}{46742}C'est Margot, ta vieille amie.
+{46835}{46897}Il faut que je vienne te voir.
+{46920}{46970}J'ai besoin de toi.
+{46980}{47040}J'ai besoin de changer d'air.
+{47065}{47092}Oui ?
+{47120}{47155}Merci !
+{47220}{47292}Demain ou après-demain au plus tard.
+{47300}{47347}Oui, je te rappelle.
+{47360}{47397}À bientôt.
+{47617}{47685}Non !|Que ça ne recommence pas...
+{47697}{47770}Je n'ai rien contre.|Ça te fera du bien de changer d'air.
+{47785}{47870}Ça va te donner la pêche,|te sortir de ton quotidien.
+{48062}{48100}Merci !
+{48120}{48202}- Margot, qu'est-ce qui t'arrive ?|- Excuse-moi.
+{48212}{48265}Mais je suis si heureuse !
+{48525}{48605}C'est gentil d'être venu me chercher.
+{48630}{48707}- Tu ne serais jamais rentrée sinon.|- Mais si !
+{48715}{48792}- Je serais sûrement rentrée très vite.|- Vraiment ?
+{48852}{48902}Tu es mon mari.
+{48930}{48967}Je t'aime.
+{49007}{49057}Ma place est à tes côtés.
+{49065}{49155}J'aime t'entendre dire ça.|Tu ne me le dis pas assez souvent.
+{49205}{49265}Pourquoi ne pas me demander|comment je vais ?
+{49272}{49305}Si je suis heureuse ?
+{49325}{49407}À quoi bon ?|Je vois que tu vas bien.
+{49412}{49445}Et heureuse ?
+{49485}{49580}On aura tout le temps d'être heureux|quand j'aurai passé mon examen.
+{49642}{49712}- Tu te moques de moi ?|- Non Kurt.
+{49780}{49827}Pourquoi me moquerais-je de toi ?
+{49865}{49925}Où trouverais-je la force|de me moquer de toi ?
+{49945}{49980}La force ?
+{50007}{50055}Comment ça, la force ?
+{50065}{50140}- Je ne comprends pas.|- Moi non plus.
+{50200}{50280}Il y a tant de choses|que je ne comprends pas.
+{50312}{50380}Je ne veux pas te faire peur.
+{50430}{50480}Tu es bien étrange.
+{50505}{50555}Maintenant tu parles de peur.
+{50592}{50687}Des fois j'aimerais bien savoir|ce qui se passe dans ta tête.
+{51050}{51095}Mes enfants...
+{51157}{51225}Mes enfants ont une mère malade,
+{51265}{51315}une étrangère.
+{51490}{51540}Ce n'est pas possible !
+{51660}{51710}Je veux être ta femme Kurt !
+{51717}{51802}Je veux que tu me désires,|que tu m'arraches à mon désespoir.
+{51810}{51880}Je veux entendre mes cris,|les tiens, me savoir en vie.
+{52355}{52402}Notre prof de maths
+{52437}{52490}c'est un vrai salaud.
+{52550}{52597}Il démolit les gens
+{52650}{52705}juste parce que ça l'amuse.
+{52770}{52817}Ça l'amuse.
+{52885}{52945}Aujourd'hui il a dit à quelqu'un :
+{52975}{53050}''Müller,|si vous ne voulez pas travailler,
+{53087}{53167}''ne restez pas là à empester l'air.''
+{53255}{53307}On ne peut rien y faire...
+{53450}{53500}Tu es si loin de moi.
+{53572}{53617}Si loin Kurt.
+{53652}{53685}Si loin.
+{53712}{53750}Pardon ?
+{53860}{53897}Rien.
+{53932}{53980}Je n'ai rien dit.
+{55142}{55205}- Il me faudrait aussi un laxatif.|- Oui.
+{55212}{55272}Dr Merck !|Vous auriez une minute ?
+{55280}{55367}Bonjour Mme Staudte.|Qu'est-ce que je peux faire pour vous ?
+{55415}{55465}S'il vous plaît, je...
+{55512}{55552}Venez.
+{55805}{55855}Il me faut du Valium.
+{55870}{55922}Maintenant, tout de suite.
+{55942}{56000}Sans ordonnance c'est impossible.
+{56010}{56055}- C'est la loi.|- La loi !
+{56090}{56150}Vous savez bien|que le Dr Auer m'en prescrit.
+{56165}{56205}Je n'ai pas eu le temps d'y aller.
+{56212}{56280}Je vous donnerai l'ordonnance|plus tard.
+{56297}{56345}Comprenez-moi,|il m'en faut maintenant !
+{56360}{56457}Excusez mon indiscrétion,|mais pourquoi tant de Valium ?
+{56465}{56515}Vous êtes jeune, belle, saine.
+{56540}{56600}Vous parlez au lieu de m'aider.
+{56607}{56652}Vous ne voyez pas
+{56660}{56727}- dans quel état je suis ?|- Suivez-moi dans mon bureau.
+{56735}{56805}Il vaut mieux|que ça reste entre nous.
+{56937}{57000}Qu'est-ce qu'il y a ?|Je vous connais depuis longtemps,
+{57005}{57097}et vous avez toujours été|en pleine forme. Je vous admirais.
+{57280}{57317}Qu'est-ce qui se passe ?
+{57475}{57557}Vous n'en êtes pas moins belle,|au contraire.
+{57565}{57612}J'aime vos grands yeux,
+{57627}{57677}votre peau transparente.
+{57740}{57800}Quelque chose ne va pas chez vous.
+{57900}{57952}Ayez confiance en moi.
+{57962}{58070}Je vais vous donner du Valium.|Je ferais n'importe quoi pour vous,
+{58080}{58157}mais dites-moi|pourquoi vous en prenez.
+{58647}{58700}Vos cheveux sont superbes,
+{58707}{58760}ils sentent si bon.
+{58960}{59017}Je crois que je vais y aller.
+{59172}{59250}Promettez-moi|de ne pas culpabiliser !
+{59255}{59330}Si vous avez besoin de vous confier,|appelez-moi.
+{60522}{60555}Oui ?
+{60630}{60665}Merci.
+{60695}{60742}Je vais bien Dr Merck.
+{61652}{61735}Tu es très chic aujourd'hui.|Tu sors avec papa ?
+{61742}{61810}Non. Je me suis fait belle,|c'est tout.
+{61815}{61860}Tout simplement !
+{61885}{61970}Maman ? Tu me mettras|du vernis sur les ongles ?
+{62025}{62102}Oui Bibi.|Je ferai tout ce que tu voudras.
+{62157}{62192}Tout.
+{62212}{62257}Allez, viens.
+{62420}{62515}- Qu'est-ce qu'il y a ?|- Le monsieur est encore là.
+{62682}{62727}Viens Bibi.
+{63835}{63945}Bizarre. D'habitude tu n'aimes pas|que je me peigne les ongles.
+{63992}{64050}Rien n'est plus comme avant.
+{64090}{64175}Si tu étais adulte|et si je pouvais te parler...
+{64445}{64515}J'ai fait des galettes|de pommes de terre pour vous.
+{64520}{64602}Kurt adore|les pommes de terre nouvelles.
+{64615}{64662}Je peux passer ?
+{64680}{64730}Je t'en prie.
+{64870}{64927}Mais qu'est-ce que tu fais ?
+{64935}{65042}Du vernis sur les ongles ?|Comment tu peux la laisser faire ?
+{65050}{65135}Et toi tu es pomponnée|comme pour aller à l'opéra.
+{65185}{65282}Ah je vous jure !|Viens, on va enlever tout ça.
+{65305}{65405}Non. Maman s'est faite belle,|moi aussi je veux être belle.
+{65410}{65437}Bon !
+{65452}{65520}Tu cuisines quoi tout en te maquillant ?
+{65565}{65595}Je...
+{65655}{65710}Aujourd'hui je n'ai pas...
+{65722}{65772}fait la cuisine.
+{65792}{65877}Je pensais faire|des œufs brouillés pour Bibi et moi.
+{65885}{65937}Et pour Jan un petit pot.
+{65945}{66025}- Oui, il a son petit pot.|- Oeufs brouillés, petit pot...
+{66032}{66150}C'est pas un déjeuner ça !|Et les petits pots c'est trop cher.
+{66155}{66217}Tu crois que Kurt|trouve son argent dans la rue ?
+{66240}{66312}Pour la petite|il faut des épinards, des carottes,
+{66320}{66370}mais pas d'œufs brouillés.
+{66375}{66415}Prends exemple sur Lore !
+{66420}{66487}Lore ressemble à ce qu'elle cuisine.
+{66492}{66542}Quelle idiote tu fais !
+{66547}{66605}Tu trouves ça chic et moderne,
+{66610}{66680}tes enfants vont y rester,|et toi tu t'en fiches.
+{66687}{66770}- Tu t'en fiches complètement.|- Voyons belle-maman !
+{66790}{66870}D'habitude je cuisine le midi,|tu le sais bien.
+{66877}{66927}Mais aujourd'hui
+{66932}{66987}je n'en ai pas eu la force.
+{67010}{67065}- Aujourd'hui.|- Très bien !
+{67070}{67127}Fais réchauffer les galettes pour Kurt.
+{67135}{67210}Et ne laisse pas la petite|faire tout ce qu'elle veut.
+{67475}{67540}- Oui ?|- Je prends ma pause déjeuner
+{67545}{67595}en lisant le journal.
+{67600}{67675}''L'Opéra de quat'sous'' passe au théâtre.
+{67682}{67787}J'irais bien le voir avec vous|puis on irait boire un verre de vin.
+{67812}{67872}Je sais que c'est impossible.
+{67892}{67972}Mais ce serait bien. Très bien même.
+{67985}{68045}Ne m'appelez plus ! Jamais !
+{68052}{68097}Ne m'appelez plus jamais !
+{68105}{68152}C'est impossible !
+{68172}{68255}J'en suis certaine.|Je ne peux pas, vous comprenez ?
+{68260}{68305}Laissez-moi tranquille !
+{70820}{70860}''PHARMAClE''
+{71685}{71757}Bonjour...|Je voudrais parler au Dr Merck.
+{71765}{71815}C'est urgent !
+{71895}{71930}C'est moi...
+{71940}{71977}Docteur.
+{72035}{72117}Tu n'as rien à expliquer.|Passe me voir. Viens !
+{72137}{72197}C'est ce qu'il y a de plus simple.
+{72207}{72257}Entre par-derrière.
+{72275}{72320}Je t'attends.
+{73130}{73177}Entre mon petit.
+{73285}{73335}Mais regarde !
+{73807}{73855}Tu permets ?
+{74572}{74635}Et maintenant on se met à l'aise.
+{75050}{75082}Merci.
+{75102}{75155}Je suis content que...
+{75165}{75250}vous soyez venue me voir.|Après mon coup de fil,
+{75257}{75302}je pensais que vous étiez capricieuse,
+{75322}{75377}et ça ne m'aurait pas plu.
+{75385}{75457}Même si pour toi|je m'en serais accommodé.
+{75497}{75562}Buvons en l'honneur de ta visite.
+{75650}{75692}Assieds-toi.
+{76515}{76582}Je ne te force à rien mon petit.
+{76605}{76657}Mais il faudra toujours venir me voir,
+{76662}{76737}chaque fois que tu en auras besoin.
+{77490}{77565}C'est toi !|Le Dr Merck, pas vrai ?
+{77627}{77695}Mais je n'ai plus besoin de toi.
+{77702}{77775}Je n'ai plus besoin de vous docteur !
+{77792}{77860}À présent je sais ce qu'il me faut.
+{77865}{77915}Du cognac, c'est tout !
+{77982}{78035}C'est de l'alcool qu'il me faut.
+{78040}{78100}De l'alcool et rien d'autre.
+{78532}{78600}J'ai fait des courses|pour toi au marché.
+{78607}{78705}Maman m'a dit que tu n'avais|plus de légumes. Je t'en apporte !
+{78845}{78942}Il y avait du beau chou blanc|et du chou frisé pour 50 pfennigs.
+{78965}{79002}- Lore !|- Oui ?
+{79045}{79097}Je n'aime pas le chou blanc.
+{79105}{79142}Ça pue !
+{79165}{79220}Et je n'aime pas le chou frisé.
+{79230}{79292}Kurt non plus. Et Bibi déteste ça.
+{79392}{79472}Mais tu peux demander à Jan.|Peut-être que lui il aime ton chou.
+{79477}{79505}Ton chou qui pue.
+{79575}{79625}Tu as bu Margot ?
+{79670}{79747}Tu bois de l'alcool en pleine journée !
+{79765}{79835}- En pleine journée !|- Oui Lore.
+{79840}{79910}Je suis soûle. En pleine journée !
+{79927}{80007}Et je ne t'ai pas demandé|la permission.
+{80015}{80075}J'ai tout simplement oublié !
+{80150}{80200}Je vais le dire à maman.
+{80215}{80280}À maman et à Kurt.|Bonne journée !
+{80940}{80987}Tu es bien silencieux.
+{81015}{81060}Je mange.
+{81162}{81205}Tu manges.
+{81267}{81310}Tu manges.
+{81415}{81482}Les deux sorcières|ont jeté de l'huile sur le feu.
+{81490}{81547}C'est pour ça que tu ne parles pas.
+{81555}{81617}Dis-le. Dis-le donc !
+{81657}{81750}- Dis-moi ce qui ne va pas.|- Elles m'ont dit que tu avais bu.
+{81755}{81812}Je leur ai dit|que c'étaient nos affaires.
+{81820}{81905}On ne va pas se disputer !|J'ai eu une journée pénible.
+{81920}{81990}Il faut que je me concentre.
+{82017}{82117}Si seulement elles n'entraient pas|ici constamment sans prévenir !
+{82125}{82185}Si elles ne fourraient pas|leur nez partout !
+{82190}{82270}Elles se mêlent de tout !|De l'éducation des enfants,
+{82275}{82325}de ce qu'on mange...
+{82350}{82390}- Kurt...|- Oui ?
+{82435}{82520}Si on se prenait quand même|un appartement à nous ?
+{82527}{82565}Et ces meubles !
+{82590}{82682}- Ces meubles qui ne sont pas à nous !|- Non Margot.
+{85112}{85180}On va faire les courses.|Tu veux quelque chose ?
+{85185}{85250}Non, merci.|J'irai moi-même, plus tard.
+{85255}{85335}T'as le teint tout vert.|Tu ne peux pas sortir comme ça.
+{85345}{85382}Vert ?
+{85422}{85472}- Vraiment ?|- Oui, vert.
+{85487}{85592}Je te rapporte de l'aspirine.|C'est sûrement à cause de l'alcool.
+{85715}{85807}Je n'ai pas besoin d'aspirine !|Je ne veux rien de vous !
+{86572}{86610}C'est moi.
+{86625}{86662}J'ai besoin de toi.
+{87570}{87625}J'ai peur de devenir folle.
+{87790}{87860}Tu es un phénomène, tu sais ?
+{87912}{88005}On pourrait être|très heureux pour toujours.
+{88047}{88095}Je veux rester avec toi.
+{88130}{88180}Pour toujours.
+{88207}{88260}Je suis heureuse avec toi.
+{88290}{88337}Je me sens bien.
+{88370}{88450}Je vais tout simplement|rester avec toi.
+{88522}{88570}Je vais parler à Kurt,
+{88630}{88685}lui dire que je le quitte.
+{88775}{88827}Tu m'aimes n'est-ce pas ?
+{88870}{88915}Bien sûr.
+{88947}{89000}Ça fait longtemps que tu me plais.
+{89007}{89090}Ce que nous venons de faire|c'était très beau.
+{89150}{89225}C'est rare que ce soit si beau.
+{89237}{89280}Mais...
+{89295}{89332}Mais ?
+{93577}{93650}- Qu'est-ce qu'il y a ?|- Occupe-toi des enfants !
+{93787}{93835}Appelle Kurt, vite !
+{94205}{94275}Il faut que vous m'aidiez !|Je me suis coupée.
+{94280}{94355}- Je vais vous faire un bandage.|- Je saigne beaucoup.
+{94540}{94585}Pourquoi tu as fait ça ?
+{94595}{94637}Pourquoi ?
+{94675}{94747}Ça ne te ressemble pas.|C'est du chantage.
+{94882}{94950}Il n'y a aucune raison.
+{95165}{95222}Ça n'a rien à voir avec toi.
+{95297}{95345}C'était un accident.
+{95380}{95427}J'ai glissé.
+{95520}{95562}Bon, bon.
+{96192}{96257}Je raccompagne Mme Staudte chez elle.
+{96287}{96380}- Tenez la boutique pendant ce temps.|- Bien sûr docteur.
+{97527}{97565}Qu'est-ce qui s'est passé ?
+{97575}{97617}- C'est grave ?|- Ne vous inquiétez pas.
+{97625}{97690}Votre femme s'est coupée,|je lui ai fait un bandage.
+{97712}{97772}Merci bien.|Merci beaucoup.
+{97780}{97830}Je vous en prie.
+{98142}{98190}Dis-moi ce qui se passe !
+{98197}{98275}- Je veux savoir ce que tu as !|- Rien Kurt.
+{98300}{98380}Je me suis juste coupée|avec un éclat de verre.
+{98660}{98725}- Maman...|- Va dans ta chambre !
+{98850}{98917}''Je me suis juste coupée'' :|à qui tu veux faire gober ça ?
+{98940}{98985}C'était un accident.
+{99015}{99055}C'était un accident.
+{99085}{99125}Un accident.
+{99202}{99262}Ce matin|elle est sortie de la pharmacie
+{99267}{99317}mais par-derrière.
+{99472}{99525}Qu'est-ce que tu as fait avec le Dr Merck ?
+{99697}{99765}Elle est passée|près de moi sans me remarquer.
+{99875}{99907}Laissez-nous seuls.
+{99927}{100040}Comme tu voudras.|Mais ne te laisse pas encore embobiner !
+{100397}{100437}Alors ?
+{100495}{100577}Il s'est passé quelque chose|dernièrement.
+{100585}{100635}Tu n'es plus comme avant.
+{100680}{100755}Dis-moi ce qui s'est passé|avec ton bras.
+{100775}{100830}C'était un accident...
+{100837}{100887}ou bien tu voulais...
+{100937}{101032}Dis-moi Margot,|et si on allait voir un médecin ?
+{101072}{101122}Je vais t'accompagner.
+{101135}{101195}Je ne te laisserai pas tomber.
+{101712}{101752}Bonjour.
+{101827}{101865}Ils vont et viennent.
+{102040}{102072}Dites, on se connaît ?
+{102315}{102387}- Je voudrais repartir.|- Non, on reste là.
+{102465}{102537}Mme Staudte ?|Venez je vous prie.
+{103017}{103060}''CABINET MÉDlCAL''
+{103300}{103362}M.Staudte,|je peux vous voir un instant ?
+{104360}{104397}Il t'a dit quoi ?
+{104472}{104520}Rien ma chérie.
+{104572}{104622}En fait il n'a rien dit.
+{104785}{104852}Il croit que je voulais me tuer.
+{104937}{104985}Mais c'est faux.
+{105055}{105130}Je voulais seulement|ressentir la douleur.
+{105167}{105235}Je cherchais à tromper mon angoisse.
+{105480}{105535}Tiens chérie : ton Valium.
+{105557}{105617}Comme ça tu pourras dormir un peu.
+{105910}{105957}Ça va déjà mieux.
+{106002}{106055}Je te suis très reconnaissante.
+{106112}{106160}Si reconnaissante !
+{106175}{106257}Tu n'as pas à me remercier, vraiment.
+{106302}{106335}Tu sors ?
+{106365}{106417}Je monte juste voir maman.
+{106430}{106470}Je reviens tout de suite.
+{106517}{106555}Oui Kurt.
+{106597}{106635}C'est d'accord.
+{107290}{107322}Alors ?
+{107360}{107427}Qu'est-ce qu'a dit le médecin ?
+{107452}{107500}Qu'est-ce qu'elle a ?
+{107535}{107585}Je n'en sais rien.
+{107595}{107650}Il enverra son expertise au Dr Auer.
+{107660}{107727}Tu mens.|Tu sais quelque chose.
+{107765}{107810}Ça se voit à ton air.
+{107820}{107885}- Mon air ?|- T'as l'air bouleversé.
+{107892}{107940}Oui, bouleversé.
+{107980}{108087}À nous tu peux bien le dire.|On est ta famille, n'est-ce pas ?
+{108350}{108435}Dis-nous ce qui se passe.|Tu ne peux pas porter ce fardeau seul.
+{108580}{108657}Il y a quelque chose|qui cloche chez elle.
+{108705}{108765}C'est ce qu'a dit le médecin.
+{108802}{108840}Il a dit...
+{108880}{108907}''schizophrène''.
+{108952}{108992}Elle est folle.
+{109010}{109082}Je me suis toujours dit|qu'elle n'était pas nette.
+{109142}{109240}Avec son Valium et tout le reste...|c'était prévisible.
+{109255}{109355}Et avec les enfants, tous ces câlins,|ces baisers ! Ce n'est pas normal !
+{109375}{109490}Tu exagères. Une mère tendre|avec ses enfants, rien de plus normal !
+{109495}{109575}Normal ?|C'est nous qui sommes normaux.
+{109595}{109700}Un de ces jours elle va mettre|la maison sens dessus dessous.
+{110917}{110950}Bonjour. Pour toi.
+{110975}{111015}Pour moi ?
+{111040}{111080}Pourquoi tu m'offres des fleurs ?
+{111115}{111167}Tu ne vas pas très bien en ce moment,
+{111172}{111247}- je voulais te faire plaisir.|- Karli ! Qu'est-ce que tu fais là ?
+{111257}{111280}Moi ?
+{111292}{111390}J'ai apporté des fleurs à Margot.|Quelques fleurs, c'est tout.
+{111412}{111467}Ce n'était pas nécessaire.
+{111480}{111580}- Absolument pas !|- Je te les donne si tu les veux.
+{111595}{111645}Ce beau geste me fait plaisir.
+{111652}{111755}Non, merci. Je ne veux pas de fleurs|qui ne sont pas pour moi.
+{111812}{111872}Alors qu'est-ce qu'on fait ?
+{111885}{111955}Laissons-la ronchonner !|Ça ne va pas durer.
+{111970}{112025}Tu veux entrer ?|Un petit verre de cognac ?
+{112045}{112100}Non, merci. Je vais remonter,
+{112107}{112192}sinon ça va barder.|Mais si tu as besoin de moi
+{112200}{112260}sache que je suis de ton côté.
+{112592}{112660}Regarde Bibi.|Un cadeau de tonton Karli.
+{112695}{112762}Il t'aime beaucoup tonton Karli.
+{114610}{114655}Je veux voir maman !
+{115757}{115810}Je veux aller chez ma maman !
+{116175}{116257}- Qu'est-ce qu'il y a ?|- Elle est pourtant chez elle.
+{116282}{116365}Mon Dieu ! Qu'est-ce qui s'est passé ?|Qu'est-ce qu'elle a fait ?
+{116375}{116472}Rien de grave.|Elle est tombée et elle s'est blessée.
+{116485}{116550}- Va chercher la clé !|- Je l'ai sur moi au cas où.
+{116615}{116665}Maman !|Où est ma maman ?
+{117010}{117080}C'est une honte !
+{117100}{117185}Regardez-moi ça !|Musique et cognac.
+{117207}{117267}Et les enfants peuvent crever !
+{117607}{117650}Ma petite Bibi !
+{117665}{117707}Ma chérie !
+{117722}{117805}- Qu'est-ce que tu as ?|- Du sang maman.
+{118875}{118940}Quand est-ce qu'elle sera enfin terminée
+{118955}{119045}- cette cure de sommeil ?|- Encore deux, trois jours.
+{119195}{119237}Espérons-le !
+{119315}{119380}Parce que j'ai besoin de parler.
+{119442}{119525}La cure de sommeil|vous a fait du bien, n'est-ce pas ?
+{119575}{119645}Nous vous donnerons|des médicaments et vous verrez,
+{119650}{119682}tout ira mieux.
+{119750}{119810}Je fais une grave dépression
+{119827}{119915}dont je ne peux pas sortir|sans médicaments.
+{120610}{120655}Tu m'entends ?
+{120695}{120732}Edda !
+{120875}{120930}Elle ne peut pas m'entendre.
+{120997}{121047}Edda est triste.
+{121977}{122025}Elle est triste
+{122087}{122137}et moi je suis heureuse.
+{122395}{122465}Il ne s'agit pas du tout|de schizophrénie.
+{122472}{122525}Votre femme souffre d'une dépression,
+{122535}{122597}mais ça se soigne|avec des médicaments.
+{122605}{122670}Rien à voir avec la schizophrénie.
+{122675}{122760}Margot pourra|bientôt rentrer à la maison ?
+{122775}{122855}Quand elle le voudra.|Si elle suit bien son traitement
+{122860}{122930}elle pourra vivre comme tout le monde.
+{122937}{123002}J'aimerais juste la garder|encore une semaine ou deux.
+{123020}{123105}Vous êtes une jeune femme saine,|ne l'oubliez jamais.
+{123112}{123202}Vous êtes en bonne santé.|Dépressive certes,
+{123210}{123282}mais on peut y remédier|grâce aux médicaments
+{123287}{123340}et à la psychothérapie.
+{123347}{123420}Surtout ne craignez plus devenir folle,
+{123425}{123475}comme vous vous en persuadez|vous-même.
+{123482}{123545}Vous êtes seulement|plus sensible que d'autres.
+{123552}{123602}Vous devez faire attention à vous.
+{123610}{123660}Lisez, faites des études
+{123667}{123715}ou bien trouvez-vous un travail,
+{123722}{123812}gagnez un peu d'argent.|Vous avez appris un métier ?
+{123820}{123900}- Je sais taper à la machine.|- Voilà donc un début.
+{123907}{123950}Et si vous prenez vos médicaments...
+{124110}{124195}Viens donc me voir|quand tu auras le temps.
+{124230}{124280}J'essaierai...
+{124445}{124495}Mais tu sais bien...
+{124507}{124555}il y a les enfants.
+{124597}{124620}Au revoir.
+{126512}{126582}La porte était ouverte.|Alors je me suis dit...
+{126600}{126705}Bibi fait une course et a laissé|la porte ouverte pour ne pas sonner.
+{126720}{126785}- Je peux m'asseoir ?|- Mais oui.
+{127157}{127207}Quelque chose ne va pas ?
+{127250}{127340}Non, rien. Mais en face,|de l'autre côté de la rue...
+{127390}{127432}En face ?
+{127445}{127482}De l'autre...
+{127945}{128010}M.Bauer, tu vois qui il est ?
+{128020}{128077}Il s'est suicidé... pendu.
+{128130}{128210}Mais il ne faut pas|te mettre dans tous tes états.
+{128217}{128275}Il valait mieux|que ce soit moi qui te le dise
+{128285}{128327}plutôt que les autres.
+{128332}{128382}Merci Karli.
+{128405}{128480}Je ne me mets pas|dans tous mes états.
+{128487}{128535}Je suis bien calme.
+{128557}{128607}Je suis très, très calme.
+{128645}{128715}Tu peux vraiment me laisser seule.

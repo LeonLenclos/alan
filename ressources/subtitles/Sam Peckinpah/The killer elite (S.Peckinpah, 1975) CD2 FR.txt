@@ -1,0 +1,565 @@
+{637}{695}Comment tu vas Mac ?
+{699}{749}Tu te portes bien pour un robot.
+{801}{876}C'est grâce à mon huile antirouille.
+{882}{997}Je suis venu à l'hôpital et je t'ai écrit.|Tu ne réponds jamais.
+{1005}{1077}Ton bras droit est foutu lui aussi ?
+{1080}{1168}Tu sais bien que je déteste écrire.
+{1194}{1292}Tu peux m'accorder deux, trois jours ?
+{1300}{1436}De maintenant à après-demain.
+{1486}{1542}Qu'est-ce que tu mijotes ?
+{1567}{1610}Toujours la même sauce.
+{1659}{1716}Je croyais que t'avais lâché pour de bon.
+{1722}{1789}C'est l'occasion d'attraper Hansen.
+{1822}{1896}C'est très malsain.
+{1899}{2040}J'ai déjà accepté et j'ai besoin de toi.|Sauf si tu veux qu'il m'attrape d'abord.
+{2059}{2143}- Ça va Josephine ?|- Voilà ton café.
+{2149}{2213}- Tiens.|- Qu'est-ce que j'en ferais ?
+{2219}{2334}- Elles sont pas pour toi mais pour elle.|- Merci M.Davis.
+{2579}{2711}Il me faut quelque chose de solide,|rapide et qui se fonde dans la masse.
+{2797}{2871}Je vais les mettre dans l'eau.
+{3054}{3099}Solide ?
+{3914}{3962}C'est ça ?
+{3967}{4048}- Sam, du ComTeg.|- Bonjour.
+{4054}{4121}L'enveloppe du silencieux était mal fixée.
+{4124}{4186}Merci.
+{4192}{4338}Ça se fondra dans la masse.|Quels sont ses autres atouts ?
+{4344}{4399}Le réservoir est sous le siège arrière.
+{4404}{4500}Cadre en acier, pare-chocs renforcés.
+{4507}{4615}- Et moteur à turbocompresseur.|- Pourquoi on s'en est jamais servi ?
+{4622}{4728}Je viens de l'avoir.|C'est un syndicaliste qui l'a assemblée.
+{4734}{4863}Vitres pare-balles et il s'est fait tuer|dans son lit. Sa veuve me l'a donnée.
+{4872}{4965}Je croyais que t'avais tout plaqué.|A quoi ça te sert une caisse comme ça ?
+{4972}{5053}J'aime les belles machines.
+{5106}{5221}Avant je croyais que ce que je faisais|était bon pour l'humanité.
+{5274}{5348}Aujourd'hui je sais plus.
+{5562}{5614}- Miller.|- Partenaire.
+{5799}{5883}C'est qui le zozo qui est caché derrière ?
+{5889}{5980}- Tu le connais ?|- C'est Miller. Il est avec nous.
+{5986}{6032}Il va assurer nos arrières.
+{6086}{6192}Josephine a été cambriolée deux fois|le mois dernier. Désolé.
+{6237}{6299}Jolie piaule.
+{6349}{6397}Je peux voir ?
+{6673}{6745}Tu te prends pour qui ? Wyatt Earp ?
+{6752}{6857}- J'ai mieux si tu veux.|- Non, ça ira.
+{6864}{6931}C'est vieux. Mauvaise cadence.
+{6959}{7012}Lourd. Dur à manier.
+{7138}{7232}- Joli chromé.|- C'est quoi ton prénom Miller ?
+{7314}{7357}Jerome.
+{7362}{7405}Pardon ?
+{7524}{7564}Allons-y.
+{7594}{7697}- J'ai le temps de me changer ?|- On se lavera plus tard.
+{7704}{7798}Tu dois signer ça|pour que je puisse l'envoyer.
+{7804}{7876}Apporte-moi une chemise.|Je pars quelques jours.
+{7882}{7997}T'avais dit que tu laissais tomber|pour de bon.
+{8004}{8107}Je serai absent quelques jours.|Si on me demande.
+{8159}{8257}Je suis désolé Josephine.|Tu sais ce que c'est.
+{8399}{8468}Qu'est-ce qu'elle a Josephine ?
+{8474}{8586}- Ça l'énerve que je parte.|- Elle m'a appelé M.Davis.
+{8594}{8738}Quand t'es là elle appelle tout le monde|M.Davis. Comme au bon vieux temps.
+{8936}{9054}J'en ai pour une seconde.|Soyez sage.
+{9379}{9448}J'en sais un paquet sur toi, tu sais ?
+{9567}{9643}Pas de bobo pour s'amuser, d'accord ?
+{9701}{9761}C'est mal.
+{9766}{9903}Tu veux que je braque ce calibre 45|là où il faut chauffeur ?
+{10131}{10201}Tu aimes les hôtesses de l'air ?
+{10249}{10295}Parfois.
+{10404}{10488}Voilà l'adresse.|Entrée de devant, 39 Grant Avenue.
+{10494}{10559}Entrée de derrière, 46 Waverly Place.
+{10574}{10636}- Demandez M.Yi.|- On y va.
+{10834}{10906}A gauche vers Sacramento|et à droite vers Grant.
+{11136}{11232}- Tu vas faire de la protection rapprochée ?|- Exact.
+{11239}{11306}Tu surveilles le secteur.
+{11311}{11364}Pourquoi pas ?
+{11401}{11550}- Je resterai avec toi Jerome.|- Je sais pas ce que je ferais sans toi.
+{11569}{11708}Ne le braque pas en l'air comme ça.|Toute la planète va nous repérer.
+{12098}{12149}Mon équipier, Hamilton.
+{12229}{12287}Tout le monde est sur cette liste.
+{12404}{12488}Sa bande l'a aussi ?
+{12493}{12553}Il va avoir besoin de la photocopieuse.
+{12580}{12685}Cap, ça va mettre trop de désordre.
+{12725}{12770}Tout à fait d'accord.
+{12775}{12895}J'ai dit à M.Collis que je suis opposé|à vous voir impliqué là-dedans.
+{12902}{12988}Mon clan, les ninjas,|travaille bien plus discrètement.
+{12995}{13052}Ce sont des clowns !
+{13058}{13153}Leur performance à l'aéroport|relevait du cirque.
+{13160}{13205}Ils ont beau être ceintures noires,
+{13210}{13306}s'ils croisent mon chemin ils finiront|couverts de bleus ou à la morgue.
+{13312}{13413}Peu importe qui élimine Yuen Chung.
+{13419}{13527}Cependant M.Collis,|la fierté de notre peuple fait
+{13535}{13657}que si mes ninjas s'en chargent|et sont impliqués là-dedans
+{13664}{13813}alors que votre homme échoue, vous|et moi nous devrons renégocier notre accord.
+{13850}{13917}Et voilà George. Tout est dit.
+{13934}{13982}On ne baissera pas les bras.
+{14015}{14113}Et dans tous les cas|je sais que vous ne serez pas perdant.
+{14120}{14227}C'est sûrement vous|qui avez appelé ce clan.
+{14235}{14352}Vous avez l'art de monter les gens|les uns contre les autres.
+{14612}{14744}M.Collis, vous avez vu|vos comptes suisses récemment ?
+{14789}{14883}Vos versements sont arrivés|dans les temps.
+{14889}{14935}Merci.
+{15102}{15157}On y est.
+{15162}{15213}On va le faire sortir par là.
+{15215}{15291}Mac, amène-moi à l'entrée de devant.
+{15294}{15359}Jerome, tu surveilles ces corniches.
+{15365}{15439}Notre ami aime viser d'en haut.
+{15444}{15543}Je préfère d'en bas.|La gravité fait tant de merveilles.
+{15614}{15665}Notre client n'est pas un pro.
+{15669}{15758}On balance ce qu'on veut dans|ces fenêtres depuis le toit d'en face.
+{15764}{15898}Fusil, grenade. On va l'emmener à la|campagne, faire un périmètre de sécurité.
+{15907}{16022}- Tu connais un coin où on peut le caser ?|- Ça oui.
+{16029}{16125}Georgie et moi on a fait|des photos aériennes de l'endroit
+{16129}{16218}et on s'y est beaucoup baladés|il y a longtemps.
+{16415}{16534}Laisse ce truc baissé, si possible.|C'est bien compris ?
+{16542}{16590}C'est ici.
+{16639}{16707}- Passe-moi ma mallette.|- Oui.
+{16742}{16811}Couvre-moi jusqu'à la porte.
+{16842}{16925}Et attention aux voitures de flics,|d'accord ?
+{16932}{17011}Prends ça pour me tenir au courant.
+{17014}{17045}D'accord.
+{17050}{17153}J'amène notre homme à l'entrée|de derrière dès que possible. Couvre-moi.
+{17270}{17322}C'est parti Jerome.
+{18052}{18105}Merci.
+{18109}{18160}On m'a dit de demander M.Yi.
+{18192}{18259}Je suis celui que vous demandez.
+{18307}{18347}Qui êtes-vous ?
+{18352}{18404}Et toi ?
+{18452}{18500}Tommie, ça suffit.
+{18569}{18663}Essayons d'être clairs.|Pas de sous-titres s'il vous plaît.
+{18669}{18717}Votre client vous attendait.
+{18776}{18819}- Je suis Yuen Chung.|- Enchanté.
+{18824}{18891}- Et voici ma fille.|- Enchanté.
+{19166}{19234}- On est au complet ?|- Pourquoi vous faire confiance ?
+{19239}{19296}Pour ne pas mourir.
+{19299}{19345}Qui vous paie ?
+{19434}{19523}- Qui pose les questions ici ?|- Moi. Qui vous paie ?
+{19559}{19609}Une agence privée. ComTeg.
+{19615}{19703}- Tu en penses quoi ?|- Cet endroit est indéfendable.
+{19719}{19803}Une attaque en masse|aurait raison de nous.
+{20407}{20464}Un flic arrive.
+{20544}{20592}On descend.
+{20712}{20806}Doucement. Je suis avec Locken.
+{20812}{20891}A quoi tu joues ?
+{20897}{20968}Sympas tes copains.
+{21039}{21130}- Une benne à ordures bloque la rue.|- Et alors ?
+{21137}{21228}Alors il n'y a pas d'ordures|à ramasser dans la rue.
+{21234}{21273}On y va.
+{21361}{21450}- L'Holiday Inn s'il vous plaît.|- Je suis occupé.
+{21867}{21896}Attendez.
+{21899}{22019}George est sur le toit|au-dessus du panneau. Il n'est pas seul.
+{22034}{22082}D'accord. Charge.
+{22184}{22247}On y va.
+{22312}{22350}Plus un geste.
+{22354}{22419}Voir mon permis de port d'arme|va vous étonner.
+{22424}{22475}Jetez votre arme.
+{22479}{22546}Impossible.|La détente est trop sensible.
+{22552}{22636}Si je jette mon arme|il y aura plein de blessés.
+{22642}{22678}Jetez-la.
+{22681}{22763}Arrête. Ne tire pas sur un flic.
+{22769}{22822}Faites ce qu'il dit.
+{22964}{23020}Espèce de fou...
+{23024}{23089}T'as fait de moi ton complice.
+{23134}{23252}- Y a une benne qui bloque la rue.|- Oui. Et je mettrais bien Miller dedans.
+{23259}{23326}C'est bon. C'est pas un flic.
+{23369}{23450}- Comment ça ?|- Regarde son arme.
+{23469}{23557}Si c'est pas un 9 mm Star|je veux bien te baiser les fesses.
+{23564}{23614}Tu l'as su comme ça ?
+{23620}{23713}La police de San Francisco porte|des Smith & Wesson calibre 38.
+{23719}{23767}C'est tout.
+{23804}{23838}Viens Jerome.
+{23969}{24041}Tiens-le bien.|Je vais chercher la boîte à outils.
+{24047}{24099}Fais attention.
+{24291}{24354}Il vaut mieux attendre|l'arrivée de la police.
+{24359}{24450}C'est ça. Si vous voulez rester en vie,|montez dans ce taxi.
+{24873}{24933}- Dégagez d'ici !|- Tu veux que je te laisse là ?
+{24937}{24990}Dégagez !
+{25300}{25396}- Je t'ai dit de dégager.|- Pas question !
+{25695}{25778}Fais-nous sortir de cette rue.|Je veux choper George.
+{25825}{25866}- Vous nous aidez ?|- La ferme !
+{25870}{25952}- Tu m'écoutes ?|- C'est quoi votre problème ?
+{25955}{26034}- On doit passer la benne.|- Elle est trop large.
+{26040}{26098}- Tiens-toi prêt Miller.|- Prêt.
+{26402}{26452}- Ça t'a plu ?|- Restez couchés.
+{26538}{26626}- Appuie sur le champignon Mac.|- Comme tu voudras.
+{26665}{26756}- Sors-nous de là !|- On y va.
+{26772}{26815}Attention.
+{27165}{27225}Locken a gagné la première manche.
+{27230}{27342}Je l'ai sous-estimé.|Il a mieux anticipé que moi.
+{27350}{27467}J'ai oublié le credo de l'agence:|la règle des quatre P.
+{27475}{27547}Préparation propice|pour une performance parfaite.
+{27552}{27607}Ne sois pas trop dur avec toi-même.
+{27610}{27680}Je l'avais dans ma ligne de mire.|Je l'ai raté.
+{27742}{27812}- Comment on va le trouver ?|- Ce ne sera pas un problème.
+{27817}{27887}Le problème|ce sera de percer sa défense.
+{27892}{27945}- Il va aller où tu crois ?|- Je ne sais pas.
+{28003}{28118}Code 33. Poursuite de véhicule.|Taxi jaune immatriculé 265...
+{28565}{28630}Accélère un peu Mac.
+{28740}{28817}Je croyais que cette caisse|en avait dans le ventre.
+{28985}{29038}C'est bon.
+{29080}{29173}- Pourquoi tu ralentis ?|- J'aime pas ça.
+{29180}{29237}- Y a un truc qui cloche.|- Quoi ?
+{29243}{29296}Faut que je vérifie.
+{29359}{29427}Il y a un bruit à l'arrière.
+{29520}{29561}Dépêche-toi.
+{30072}{30120}Alors c'est quoi ?
+{30125}{30168}C'est une bombe.
+{30173}{30225}Qu'est-ce que tu racontes ?
+{30230}{30290}Près du pot d'échappement.
+{30327}{30375}Sacré Sam !
+{30400}{30445}Enlève-la.
+{30450}{30522}J'essaie.
+{30663}{30715}Flic à l'horizon.
+{30720}{30787}Planquez ça dessous.
+{31223}{31283}Bonjour. Il vous faut une dépanneuse ?
+{31319}{31398}C'est l'arbre droit. Je crois que ça ira.
+{31405}{31462}Vous voulez|que j'appelle une dépanneuse ?
+{31495}{31574}Ça sera réparé avant son arrivée.
+{31615}{31725}Unité de patrouille 1.|Indiquez votre position.
+{31835}{31914}- Patrouille 1 au central...|- Il y a quoi dans ce sac ?
+{31920}{32037}- Amorces, plastic, charges creuses...|- Rien d'inoffensif ?
+{32045}{32102}Tout est offensif.
+{32232}{32290}On a assez de problèmes comme ça.
+{32294}{32393}Sortez du véhicule|que je puisse vous voir.
+{32442}{32497}Je ne le dirai pas deux fois.
+{32502}{32569}Oui monsieur. un instant.
+{32609}{32681}Ne secouez pas la voiture bon sang !
+{32712}{32750}Bien.
+{32754}{32865}Vous là-dessous,|je veux voir vos mains.
+{32882}{32961}Je vais vous montrer mes papiers.
+{32967}{33030}Je veux voir les papiers|de tout le monde.
+{33049}{33085}Une seconde.
+{33090}{33176}Sortez de là|ou je vous traîne par les pieds.
+{33182}{33264}La bombe va exploser. Je vous en prie.
+{33269}{33339}Quelle bombe ?
+{33357}{33405}Celle-ci.
+{33600}{33689}- Là.|- Vous voulez que j'en fasse quoi ?
+{33695}{33755}Ce n'est pas une bombe|mais un bout du pot.
+{33759}{33850}Regardez. Ceci est un minuteur.
+{33857}{33960}Il est programmé pour faire exploser|la bombe dans deux minutes.
+{34020}{34070}Que tout le monde recule.
+{34074}{34180}Qu'est-ce que vous comptez faire|avec ça monsieur l'agent ?
+{34185}{34245}Je vais la jeter le plus loin possible.
+{34249}{34364}Ça tuerait tout le monde.|C'est du plastic avec un détonateur.
+{34372}{34441}Sa portée maximale est de 100 yards.
+{34464}{34532}Qu'est-ce que je dois faire ?
+{34537}{34662}Vous voyez cette crique ?|Il faudrait courir et la lancer dedans.
+{34670}{34718}On vous attend ici.
+{34784}{34851}Il faudrait vraiment courir|monsieur l'agent.
+{34965}{35018}Quel demeuré ! Allons-y.
+{35677}{35730}- On est grillés.|- Quoi ?
+{35734}{35826}- On ne peut pas continuer.|- Qu'est-ce que vous allez faire ?
+{35832}{35921}On va procéder à ma façon.
+{35927}{36011}On va emmener votre ketch|à l'embarcadère de Bethlehem Steel.
+{36017}{36166}On partira à huit heures et on les livrera|à trois heures. Le bateau attendra ?
+{36174}{36325}J'y veillerai. En attendant|je vais organiser le transfert.
+{36731}{36831}- Raccrochez ce téléphone.|- On se voit demain...
+{36838}{36926}- Je voulais juste...|- Plus de coup de fil.
+{37005}{37070}Excusez-moi,|j'aimerais aller aux toilettes.
+{37076}{37135}Assis.
+{37141}{37273}C'est dans la tête. J'attends de vous|que Chung ait pris la mer d'ici demain.
+{37325}{37421}J'estime que ce n'est|qu'une question de formalité.
+{37810}{37856}Au travail.
+{37931}{37978}Quel service ?
+{38008}{38113}Quel service ?|Ne répondez pas.
+{38400}{38460}L'action IPM.
+{38466}{38514}Elle chute.
+{38557}{38605}Mauvaise gestion.
+{38665}{38761}Ce n'est pas mon problème.|Ils sont dans l'hôtellerie.
+{38768}{38880}Et les matières plastiques ?|Rien sur les préservatifs ?
+{38888}{38972}- J'ai vu ça il y a un instant.|- Bien.
+{38976}{39031}Je ne l'ai pas.
+{39045}{39100}Quel service ?
+{39105}{39185}Distribution. Prenez ça en note.
+{39503}{39541}C'est pas encore réparé ?
+{39561}{39676}L'action est en hausse.|Ils n'ont même pas de société.
+{39765}{39876}- Ne répondez pas.|- Je n'en avais pas l'intention.
+{39931}{39981}Travaillez.
+{40315}{40363}Vous avez faim ?
+{40368}{40426}Maintenant que tu en parles.
+{40591}{40639}APP...
+{40670}{40718}en chute.
+{40890}{40967}Il se fait tard, je suis fatigué.
+{40997}{41141}Vous pouvez faire ça pour moi.|Je vous rapporterai du poisson-chat.
+{41172}{41259}- On se voit dans deux semaines.|- Sans faute.
+{41475}{41562}- Où vous étiez passé ?|- J'étais occupé.
+{41568}{41623}Vous connaissez l'embarcadère|de Bethlehem Steel ?
+{41628}{41690}J'y suis allé il y a quatre ans|avec Mike.
+{41695}{41765}- Rendez-vous-y.|- J'y serai.
+{41825}{41933}Mon père vous fait confiance.|Ça ne lui ressemble pas.
+{41975}{42056}Pourquoi ? Je suis du côté des gentils.
+{42063}{42111}Vous avez beaucoup de femmes ?
+{42133}{42183}Des tonnes.
+{42188}{42267}J'envoie mes surplus|dans les harems turcs.
+{42272}{42330}Je suis vierge.
+{42421}{42497}C'est très bien.
+{42546}{42641}Mais je n'ai pas le temps|d'écouter vos confidences.
+{42648}{42696}Ecoute ma petite...
+{42725}{42869}Sans vouloir être trop brutal,|je me tape vraiment de tout ça.
+{43230}{43278}Préparez la bouline.
+{43642}{43733}- Il y a trop de fenêtres.|- Ça c'est mon problème.
+{43741}{43827}Reste à l'extérieur. J'irai à l'intérieur.
+{43877}{43954}Ecoutez bien.
+{43961}{44066}Appelez Ben et Donnie. Dites-leur|de venir ici une demi-heure avant l'aube.
+{44072}{44123}- Quand on sera tous en sécurité.|- Oui.
+{44127}{44226}- Un autre doit garder le bateau.|- Je m'en occupe.
+{44233}{44298}- Donne-lui un flingue.|- Je n'ai besoin de rien.
+{44302}{44403}- Encore un as du kung-fu ?|- Ne le sous-estimez pas.
+{44410}{44499}Très bien. Moi j'en ai rien à faire|s'il finit au cimetière.
+{44505}{44580}Miller, tu montes la garde là-haut.
+{44673}{44721}Désolé mon pote.
+{44780}{44854}Le reste à l'intérieur. Allez.
+{44860}{44934}On y va. Restez sur le bateau.
+{45252}{45314}Doucement. Maintenant chargez-le.
+{45503}{45608}Allez. Entrez. Allez.
+{45658}{45780}Allez à l'arrière, à l'étage,|et allumez la lumière. On attendra là.
+{45787}{45864}C'est une souricière Mike.
+{45870}{45959}- Allez.|- Tu te sers d'eux comme appâts.
+{46530}{46593}- Ils sont là.|- Bien sûr.
+{47195}{47284}Il viendra. Je le connais.
+{47290}{47441}C'est pour ça les lumières ?|Il t'a vraiment brisé.
+{47450}{47543}C'est lui qui te dicte tous tes actes.
+{47550}{47648}Tu es son prisonnier. Dans la tête.
+{47655}{47718}Tu te trompes.
+{47722}{47832}- Je n'ai jamais eu la tête aussi froide.|- C'est marrant tout de même.
+{47840}{47938}Depuis cinq heures de l'après-midi|on te tire dessus, on te crie après.
+{47955}{48044}Tu as violé assez de lois|pour être bouclé pendant 100 ans.
+{48050}{48122}Et combien de morts jusqu'à présent ?
+{48127}{48178}Juste un seul type.
+{48339}{48413}Miller n'est pas parfait.
+{48466}{48533}Je connais le topo.
+{48551}{48685}Autodéfense. Dieu et la patrie.|Encore une mission dans l'intérêt du pays.
+{48711}{48824}Celle-ci présente un autre intérêt.
+{48848}{48896}Bon sang !
+{48916}{49007}T'es si occupé avec ton boulot|que tu ne sais plus qui sont les méchants.
+{49013}{49061}Ne t'inquiète pas.
+{49101}{49214}Je sais qui sont les méchants:|tous ceux qui essaient de me nuire.
+{49383}{49501}Tout le monde essaie.|Tous ceux qui ont le pouvoir.
+{49508}{49592}Tous ceux qui tirent les ficelles|en sirotant leurs cocktails.
+{49598}{49732}Tu fais couler le sang pour eux|pendant qu'ils devisent de liberté.
+{49741}{49873}C'est des enfoirés.|Pas un qui se soucie des civils.
+{49900}{49982}Ça suffit.|Tu veux pas prendre un peu l'air ?
+{50099}{50187}Va mettre l'un de ces automatiques|près de la porte de derrière.
+{50521}{50578}Va voir dehors.
+{51016}{51104}Prends le canot pour observer le ketch.
+{51111}{51164}Je vais par là.
+{52231}{52288}Qu'est-ce que tu fous ?
+{52440}{52493}Où tu vas ?
+{52498}{52561}Je sors exploiter la nuit.
+{52588}{52672}"Exploiter la nuit" ?|C'est pas mignon ça ?
+{52886}{52999}Il y a un fou dehors avec un 30-06.|Il te tirera dessus au moindre pas.
+{53005}{53070}Il faudra d'abord qu'il me voie.
+{53093}{53131}Ecoute petite.
+{53136}{53275}Sois gentille. Va donc là-bas|t'entraîner au tigre, à la grue,
+{53283}{53410}au poulet ou à ce que tu veux.|Mais dehors c'est pas possible !
+{53418}{53514}- Vous pouvez lui parler ?|- On lui a déjà tiré dessus.
+{53521}{53591}C'est quoi cette famille de tarés ?
+{53606}{53670}Où elle est ?
+{53710}{53804}Jerome, ne tire pas !|C'est la petite tarée en tenue de plongée !
+{53810}{53870}- Tu m'entends ?|- Je t'entends.
+{53885}{53955}Enlève ton doigt de la détente.
+{54023}{54073}Génial.
+{54130}{54176}Hansen sait parfaitement où on est.
+{54188}{54263}Chez vous, vivre ou mourir|n'a pas d'importance.
+{54268}{54397}Bien sûr que si. C'est dans la manière de|vivre ou de mourir qu'on trouve sa place.
+{54436}{54551}C'est ça votre plan ?|Retourner dans votre pays pour mourir ?
+{54558}{54644}- Qui vous protégera là-bas ?|- Je n'ai pas besoin d'une armée.
+{54651}{54718}Je ne suis ni un révolutionnaire|ni un ambitieux.
+{54721}{54769}On connaît la chanson.
+{54773}{54843}Attends. J'ai compris.
+{54848}{54930}Il veut retourner mourir|sur sa terre natale.
+{54935}{55005}Comme ces idiots de saumons.
+{55041}{55122}Tout pays|qui veut devenir une démocratie
+{55128}{55260}a besoin d'au moins une voix|dans l'opposition. J'ai été choisi.
+{55268}{55414}Et même si une seule personne|entend ma voix c'est un bon début.
+{55540}{55586}Je vais vous dire.
+{55603}{55704}Jusqu'ici mes moutons|ont toujours fui le danger.
+{55710}{55778}Mais vous vous jetez|dans la gueule du loup.
+{55783}{55881}Tu vois ! Tu risques ta vie pour le protéger
+{55888}{55988}et le renvoyer dans un endroit|où il finira par se faire descendre.
+{55996}{56123}Et pourquoi avoir ramené votre fille ?|Elle ne devrait pas être au couvent ?
+{56130}{56236}Pour la raison qui fait que vous|ne pouvez pas l'empêcher d'aller dehors.
+{56391}{56467}Mac, refais un contrôle derrière la maison.
+{56473}{56542}Et va voir le bateau.
+{56656}{56742}Je suis bien content de ne pas être|votre courtier d'assurances.
+{56745}{56783}Mais vous l'êtes.
+{56788}{56879}Alors vérifiez les termes de votre contrat.|Et prenez une arme.
+{56885}{56962}Votre philosophie à la noix|ne vous amènera pas au bateau.
+{56965}{57025}Alors prenez une arme !
+{57080}{57123}Conneries.
+{59652}{59703}J'ai la fille.
+{59978}{60038}Dis à son père de sortir.
+{60043}{60132}Toi, Mac et Miller,|venez vous mettre dans la lumière.
+{60231}{60291}Plus loin.
+{60306}{60431}Sinon son sourire énigmatique|en prendra un sacré coup.
+{60504}{60544}Allez.
+{61004}{61088}- Tu as fouillé son sac ?|- J'ai pas encore eu le temps.
+{61093}{61218}Je croyais que tu avais toujours le temps|quand le prix y était.
+{61227}{61349}Le prix y était.|Tu veux qu'on partage ?
+{61376}{61420}Ne fais pas l'idiot.
+{61424}{61496}Tu es fidèle envers qui ?|On a le même patron.
+{61501}{61595}- Qu'est-ce que tu veux dire ?|- Comment ça, qu'est-ce que je veux dire ?
+{61601}{61656}On a le même patron.
+{61661}{61699}Collis ?
+{61869}{61962}T'en fais pas.|J'ai obtenu le meilleur prix possible.
+{61969}{62050}J'ai posé de nouveaux jalons|en quelque sorte.
+{62096}{62194}Cette fois c'est Bora Bora.|Pour les cinq années à venir.
+{62202}{62252}La belle vie au soleil.
+{62359}{62407}Lâche ça Mac.
+{62466}{62511}Vas-y.
+{62642}{62697}Pourquoi tu ne m'as pas tué ?
+{62721}{62798}Je t'aime bien. On était potes.
+{62853}{62901}Et un autre s'en serait chargé.
+{62906}{62975}- Tuez-le.|- Il pointe un pistolet sur ta tempe.
+{62981}{63043}Vous ne tueriez pas|une jeune fille de 18 ans.
+{63048}{63101}Je me gênerais.
+{63107}{63202}Tu l'entends George ?|C'est mignon, hein ?
+{63226}{63317}Il ne me manquait plus|que la dramaturgie chinoise.
+{63323}{63376}Tais-toi.
+{63501}{63607}J'ai équipé tout le monde d'un petit 38.
+{63783}{63865}Ça ferait de l'effet|si on se mettait tous à tirer.
+{63871}{63936}Ça serait quelque chose.
+{63941}{63987}Où est Miller ?
+{64194}{64241}Descends.
+{64323}{64350}Merde !
+{64354}{64397}J'arrive.
+{64409}{64466}Plus vite.
+{64661}{64762}J'ai rien contre la fille|et j'ai pas du tout envie de te tuer.
+{64766}{64893}C'est le Chinois que je veux.|Et j'ai son enfant. Alors livre-le-moi.
+{64901}{65023}Je peux convaincre Collis d'augmenter|mon salaire. T'auras une belle part.
+{65031}{65119}Mais si tu ne veux pas faire équipe|on est foutus tous les deux.
+{65126}{65186}Collis s'est assuré le service de tueurs.
+{65191}{65289}D'après ce que je sais|il les a envoyés après nous deux.
+{65361}{65404}Qui ne tente rien n'a rien.
+{65516}{65602}Reste où tu es. Jette ton arme.
+{65646}{65698}Et ta canne.
+{65720}{65800}Il paraît que tu t'en sers bien.
+{65858}{65921}On se reverra.
+{65926}{65972}Au revoir.
+{66074}{66121}Où tu vas ?
+{67568}{67635}C'était moins une partenaire.
+{68246}{68311}Il ne le pensait pas Jerome.
+{68650}{68722}Rentrons nous mettre à l'aise.
+{68729}{68806}Le mieux aurait été que Collis avoue.
+{68811}{68921}Hansen mort on n'a plus de témoin|mais c'est déjà un bon départ.
+{68926}{69010}Je me fiche de tout ça.|C'est votre service.
+{69016}{69135}Je veux juste savoir quoi faire.|Je n'irai pas au rendez-vous de Collis.
+{69153}{69276}Il saura que Hansen a foiré et il enverra|ses tueurs pour empêcher Chung de filer.
+{69283}{69319}Ecoutez-moi bien.
+{69321}{69455}Demain matin allez dans la Baie de|Suisun, là où se trouve la flotte de réserve.
+{69464}{69524}Rang G, Queen Voctory.
+{69528}{69653}Attendez là-bas.|Votre embarcation sera là vers midi.
+{69661}{69721}Midi.
+{69725}{69773}Et Mike ?
+{69809}{69916}Sachez que j'aurai Collis. Une fois coincé|son boulot vous reviendra.
+{69920}{70000}Chef de secteur. Ça vous dit ?
+{70573}{70660}C'est quoi ? Un petit remontant ?
+{70666}{70716}Un calmant.
+{70721}{70781}Ça ne me ferait pas de mal non plus.
+{70979}{71048}- T'étais passé où ?|- On l'a cherché toute la nuit.
+{71054}{71123}C'est parti.
+{71183}{71279}Donnez-moi un coup de main|pour la voile d'étai.
+{73672}{73732}Attendez, je vais vous aider.
+{74192}{74237}C'est bizarre.
+{74536}{74637}Qui entretient ce cimetière ?
+{74709}{74762}Ça me plaît pas partenaire.
+{74766}{74814}Pas du tout.
+{74839}{74896}A moi non plus.
+{75037}{75123}On va faire le tour|et amarrer de l'autre côté.
+{75181}{75301}- Remplace-moi.|- Recule.
+{75534}{75635}Va jeter un œil sur l'uzi|et le reste du matos.
+{76226}{76363}Emmenez la gamine en bas et restez-y|jusqu'à ce que je vous fasse signe.
+{76829}{76894}- Mac, à tribord.|- A tribord.
+{76964}{77012}Paré à l'abordage.
+{77367}{77455}Au moindre truc louche vous partez.
+{77462}{77541}- On y va Mac !|- J'arrive.
+{78399}{78452}Attendez. J'en étais sûr.
+{78691}{78823}Chung est à l'abri sur le bateau.|Au moindre truc louche il partira.
+{78961}{79016}Il faut qu'on parle.
+{79022}{79108}On y va.|Ouvrez l'œil les gars.
+{79297}{79349}Reste là Mac.
+{79449}{79497}Pile à l'heure.
+{79539}{79633}Après tout ce qu'on vous a fait subir|vous restez d'un calme olympien.
+{79639}{79687}Vous me connaissez.
+{79691}{79742}Je suis un dur à cuire.
+{79791}{79906}Votre bateau devrait être là|d'ici une demi-heure.
+{79971}{80038}Hansen m'a tout dit.
+{80081}{80146}Normal. Vous étiez amis.
+{80249}{80328}Tout le monde vous paie.|Notre camp, leur camp.
+{80334}{80374}Les camps...
+{80379}{80427}un ramassis de conneries.
+{80446}{80557}Ils veulent tous la même chose.|Tenir les rênes.
+{80564}{80643}Vous croyez que votre protégé|asiatique est différent ?
+{80649}{80718}C'est un politicien arriviste|comme les autres.
+{80721}{80752}Ecoutez.
+{80776}{80884}Vous avez liquidé mon meilleur élément.|Vous pouvez prendre sa place.
+{80891}{80934}Maintenant.
+{80982}{81053}Avec quel...
+{81079}{81134}Doucement.
+{81204}{81297}Quelques 50000 dollars|pour commencer, hein ?
+{81351}{81387}50000 ?
+{81476}{81558}Pourquoi leur camp paie|si mieux que le nôtre ?
+{81563}{81633}L'Asiatique paie au prix fort.
+{81766}{81819}Ne soyez pas bête.
+{81821}{81872}Vous savez que je suis couvert.
+{81951}{81989}On y va !
+{82066}{82114}Ils doivent rester ici.
+{82118}{82171}L'heure de la retraite a sonné.
+{82758}{82804}Ça fait quel effet ?
+{83082}{83122}Derrière toi Mike.
+{83902}{83957}Mac, on remet ça.
+{86499}{86549}Arrêtez.
+{86712}{86825}Vous n'écoutez jamais ce qu'on vous dit ?|Vous ne deviez pas bouger.
+{86832}{86904}J'ai pensé qu'il serait bien de venir.
+{86927}{86982}- Maintenant.|- J'ai entendu.
+{86987}{87083}Il ira à la police de San Francisco.|C'est fini.
+{87089}{87173}Il y a des choses|qu'on ne peut pas repousser.
+{87179}{87237}Mon pays en engendre beaucoup|comme Toku.
+{87242}{87300}- Je vais le buter.|- Non, s'il vous plaît.
+{87304}{87376}Si je ne survis pas,|je ne suis pas l'homme qu'il faut.
+{87381}{87463}J'ai jamais entendu|des conneries pareilles.
+{87469}{87589}Comment vous sauverez votre peuple si|vous jouez à la bagarre avec ce guignol ?
+{87597}{87707}On n'a pas traversé tout ça|pour assister à votre mort. Vas-y Mac.
+{87712}{87825}Souvent les décisions d'un homme|trahissent sa confusion.
+{87837}{87950}- Il faut s'engager dans des voies claires.|- Je le tuerai moi.
+{87957}{88026}- Non.|- Laisse tomber.
+{88127}{88271}- C'est quoi ces costumes ?|- Des robes de cérémonie peut-être.
+{88279}{88320}Ça donne l'air tarte.
+{88657}{88744}Je te parie que c'est le petit qui va gagner.
+{90534}{90611}Le cotre arrive.|Prenez le bateau de Collis.
+{90637}{90738}Retrouvez le cotre en route|et faites embarquer notre client.
+{90835}{90895}Collis est fini grâce à vous.
+{90937}{91021}Prenez quelques jours|avant d'entamer votre nouveau travail.
+{91027}{91094}Et félicitations.
+{91096}{91168}Je devais raccompagner|mes clients jusqu'à chez eux.
+{91175}{91242}Vous devez uniquement|les mettre dans le cotre.
+{91247}{91326}Quand est-ce que tu vas|enfin m'écouter ?
+{91332}{91442}Weyburn s'est servi de toi, de nous tous,|pour faire son ménage politique.
+{91447}{91500}Combien on se fait si on part avec vous ?
+{91504}{91576}- Zéro.|- Tant que ça ?
+{91602}{91654}Ça a le mérite d'être clair.
+{91659}{91748}Viens avec moi. Passe chez les civils.
+{91754}{91879}Tu vas pas rester avec ce salaud|de Weyburn après ce qu'il t'a fait.
+{91987}{92047}Il n'a que ça.
+{92051}{92116}Vous n'avez pas tout à fait raison.
+{92209}{92322}Weyburn, avant que ce pauvre homme|soit si salement blessé...
+{92357}{92417}il m'a prêté de l'argent.
+{92422}{92578}Et il m'a donné son bateau.|Un très beau geste en vérité.
+{92661}{92738}Histoire d'avoir bonne conscience.|Vous comprenez ?
+{92742}{92814}Alors à bientôt.
+{92910}{92965}- Qu'est-ce que tu fais ?|- Je te le répète.
+{92969}{93103}Tu n'es pas sortable comme ça.|Tu ne te laves donc jamais ?
+{93187}{93232}Désolé.
+{93291}{93330}Au revoir.
+{93334}{93382}Trouvez-vous quelqu'un d'autre.
+{93622}{93658}Emmenez-moi à l'hôpital !
+{93661}{93743}Portez-le sur mon bateau.
+{93852}{93904}- Vas-tu enfin me le dire ?|- Te dire quoi ?
+{93909}{94002}- Où on va.|- Je n'en sais rien.
+{94006}{94069}Je ne sais pas où on a été.
+{94092}{94154}Mais je sais|que ce n'était pas le bon endroit.
+{94159}{94215}Quoi ?
+{94217}{94272}On va faire des folies.
+{94432}{94544}- Larguez les amarres.|- Oui. Larguez les amarres.
+{94552}{94641}- Comment il est arrivé là ?|- Comme ça. On y va.
+{95051}{95123}Votre embarcation vous attend.
+{95374}{95422}Et Josephine ?
+{95427}{95475}- Laisse-la à M.Davis.|- Comment ?
+{95637}{95685}Quoi ?

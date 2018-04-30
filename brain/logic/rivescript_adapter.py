@@ -2,7 +2,7 @@ from chatterbot.conversation import Statement
 import rivescript
 
 from logic import AlanLogicAdapter
-from utils import clean
+from utils import remove_punctuation
 
 class RiveScriptAdapter(AlanLogicAdapter):
     """This logic adapter is an interface to RiveScript
@@ -42,14 +42,14 @@ class RiveScriptAdapter(AlanLogicAdapter):
     def get(self, statement):
         """take a statment and ask a reply to the interpreter"""
         user = "human"
-        text = clean(statement.text)
+        text = remove_punctuation(statement.text)
 
         # set last reply as the real reply
         history = self.interpreter.get_uservar(user, "__history__")
         if type(history) is dict:
             latest_reply = self.chatbot.storage.get_latest_statement()
             if latest_reply:
-                history["reply"][0] = clean(latest_reply.text)
+                history["reply"][0] = remove_punctuation(latest_reply.text)
         self.interpreter.set_uservar(user, "__history__", history)
 
         # if self.reply is empty, get a reply if not return the last reply

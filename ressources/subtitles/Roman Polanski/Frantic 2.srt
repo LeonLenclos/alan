@@ -1,0 +1,836 @@
+{2752}{2792}Tu reconnais ?
+{2800}{2832}Non...
+{2847}{2890}ca a trop changé.
+{3657}{3700}Alors, changez le pneu !
+{4285}{4312}On est arrivés ?
+{4317}{4345}On a crevé !
+{5077}{5120}Maintenant, tu reconnais ?
+{7362}{7395}Veuillez confirmer
+{7400}{7480}déjeuner ce jour, 13 h,|restaurant de la Tour Eiffel.
+{7482}{7542}Dr Maurice Alembert.
+{7545}{7620}Téléphone : 45 84 32 53
+{9062}{9090}C'est bien.
+{9135}{9165}Des fruits...
+{9190}{9252}J'aimerais mieux des fleurs.
+{9270}{9295}Belle vue.
+{9300}{9337}Magnifique !
+{9380}{9457}Ce sera encore plus beau de la Tour Eiffel
+{9460}{9540}avec le Dr Alembert cet après-midi !
+{9590}{9640}J'ai besoin d'une douche chaude.
+{9650}{9680}Mais d'abord le message.
+{9685}{9737}Je confirme ton déjeuner.
+{9742}{9762}Pourquoi ?
+{9767}{9820}Tu ne parles pas francais.
+{9835}{9880}Mais je n'y vais pas.
+{9882}{9975}Tu l'as prévenu de ton arrivée.
+{9977}{10012}Tu as envie de le voir !
+{10015}{10050}Alors donne !
+{10060}{10120}Je ne lui ai rien dit.
+{10197}{10285}C'est lui qui préside le congrès.
+{10342}{10370}Donne-moi ca !
+{10592}{10645}Tu vas t'étrangler !
+{10650}{10685}Ca t'inquiète ?
+{10837}{10905}Tiens ! Ca passera mieux.
+{11015}{11115}Chérie, Alembert se fiche bien de moi.
+{11117}{11195}Depuis qu'il t'a vue a Berkeley...
+{11200}{11262}il veut que ma charmante épouse|m'accompagne.
+{11265}{11352}Celui qui avait de longues jambes ?
+{11405}{11435}Laisse tomber.
+{11592}{11640}Tu veux un petit déjeuner ?
+{11645}{11690}Merci, j'ai assez mangé.
+{11745}{11810}Café au lait et croissants, ca te dit ?
+{12690}{12727}J'appelle les enfants.
+{12732}{12770}C'est direct.
+{12780}{12797}Je sais.
+{13185}{13207}Ca y est.
+{13537}{13560}Salut !
+{13562}{13582}Salut, P'pa !
+{13585}{13615}Comment va ?
+{13647}{13692}Il est 11 h !
+{13720}{13752}Pourquoi tu dors pas ?
+{13765}{13800}Tu m'as réveillé !
+{13822}{13872}Je sais, c'était pour voir.
+{13922}{14025}Il y a eu un appel de Paris pour maman.
+{14035}{14080}Quelqu'un t'a appelée de Paris.
+{14100}{14150}Je n'y connais personne.
+{14177}{14240}Attends, maman veut te parler.
+{14245}{14325}J'arrive pas a ouvrir ma valise.
+{14395}{14425}Ca va ?
+{14432}{14467}Tu es au lit ?
+{14500}{14530}Qui m'a appelée ?
+{14532}{14590}C'est Casey qui a répondu.
+{14612}{14650}Passe-la-moi.
+{14667}{14702}T'es tout seul ?
+{14707}{14735}Casey est sortie ?
+{14780}{14805}Quand est-elle sortie ?
+{14807}{14855}Je sais pas. Elle a du...
+{14860}{14902}Tu n'as pas peur ?
+{15280}{15325}Pas étonnant.
+{15330}{15372}C'est pas ta valise.
+{15422}{15520}Il n'y a pas ton nom, d'ailleurs il n'y a rien !
+{15522}{15602}Les clés n'ouvrent pas, c'est pas ta valise !
+{15767}{15810}Tu l'as fait exprès.
+{15815}{15872}Pour que je m'habille a Paris !
+{15945}{16005}Je règle ca tout de suite avec la TWA.
+{16102}{16150}La TWA s'il vous plait.
+{16235}{16285}Le service bagages.
+{16295}{16360}D'ailleurs, pendant|les 24 heures qui viennent...
+{16362}{16435}inutile de t'habiller.
+{16457}{16505}Toujours des promesses !
+{16572}{16680}J'étais sur le vol 862 ce matin.|San Francisco...
+{16690}{16720}et ma femme...
+{16725}{16782}s'est trompée de valise.
+{16785}{16815}Une Samsonite ?
+{16830}{16860}Vous l'avez ?
+{16862}{16947}On va chercher.|Elles se ressemblent toutes.
+{16952}{16987}Votre numéro ?
+{17092}{17120}Une seconde !
+{17762}{17795}Alors ?
+{17822}{17885}Ils vont récupérer cette valise.
+{17887}{17945}Tu remplis un formulaire
+{17950}{18055}et tu espères que tes affaires|ne plairont pas plus
+{18075}{18107}a celui qui a pris la tienne !
+{18117}{18175}Il était question de déjeuner au lit.
+{18215}{18260}Je suis a toi dans une minute.
+{19230}{19275}Je n'entends rien.
+{20202}{20270}Madame est bien silencieuse.
+{20282}{20340}Tu ne dors pas au moins ?
+{20377}{20447}Je me rase pas pour des prunes !
+{20667}{20702}Tu vas ouvrir ?
+{26235}{26270}Je cherche ma femme.
+{26507}{26550}Ou est votre collègue ?
+{26565}{26627}Celui de ce matin.
+{26642}{26687}Il quitte a 8 h.
+{26705}{26745}Je peux vous aider ?
+{26800}{26885}J'aimerais parler au directeur.
+{26890}{26917}Certainement, Monsieur.
+{27260}{27307}Vous vouliez me voir ?
+{27367}{27405}Nous sommes arrivés ce matin.
+{27410}{27470}Pendant que je prenais une douche,
+{27485}{27522}ma femme a disparu.
+{27685}{27710}Elle connait Paris ?
+{27730}{27757}Elle s'est perdue ?
+{27760}{27822}Non, elle ne serait pas sortie
+{27827}{27887}sans son sac, sans me prévenir...
+{27955}{27977}Pour moi ?
+{28170}{28232}Vous avez fait bon voyage, docteur ?
+{28237}{28260}Oui, merci.
+{28287}{28345}Je vous appelle de la part du Dr Alembert.
+{28347}{28427}Les valves aortiques|ne sont pas un groupe facile !
+{28432}{28502}Pourriez-vous avancer|votre communication ?
+{28507}{28547}Pas de problème.
+{28552}{28587}Il nous faut vos diapos.
+{28610}{28670}Et pour le déjeuner a la Tour Eiffel ?
+{28675}{28747}Voulez-vous qu'on passe vous prendre ?
+{28752}{28790}Hélas ! Il faut annuler.
+{28795}{28835}Oh, quel dommage !
+{28840}{28925}Ce n'est pas un piège a touristes,|vous savez.
+{28930}{29002}Non, désolé, c'est impossible.
+{29005}{29120}Le Dr se faisait une joie de vous voir,|tous les deux !
+{29127}{29175}Il vous rappellera.
+{29227}{29250}Alors ?
+{29277}{29315}Non, c'est autre chose.
+{29320}{29375}Pascal, notre chef de la sécurité.
+{29385}{29430}Votre femme connait quelqu'un a l'hotel ?
+{29472}{29497}Pas que je sache.
+{29502}{29547}Vous avez vu le concierge ?
+{29552}{29597}Il a fini son service.
+{29650}{29685}Appelons-le.
+{29860}{29912}Est-elle diabétique, ou bien...
+{29917}{30002}Non, non, ca n'a rien de médical.
+{30180}{30225}Il dit que son père dort.
+{30760}{30790}On rappellera.
+{30802}{30840}Vous l'avez cherchée a l'hotel ?
+{30845}{30925}Au stand des journaux, au bar.
+{30940}{30965}Dehors, partout.
+{30970}{31002}Et aux toilettes ?
+{31845}{31880}Elle n'est pas la.
+{33875}{33900}Vous désirez ?
+{33905}{33957}Je cherche ma femme. C'est elle.
+{33960}{34025}L'auriez-vous vue ce matin ?
+{34032}{34095}Elle portait une robe rouge.
+{34195}{34242}On voit tellement de gens !
+{34305}{34377}La-bas dans le passage.
+{34400}{34452}Homme mettre femme dans voiture.
+{34535}{34560}Cette femme ?
+{34595}{34682}Venir avec moi. J'explique.
+{35422}{35465}Oui, c'est vrai.
+{35510}{35560}Histoire incroyable.
+{35732}{35767}Ils ont tout vu.
+{35772}{35820}Quoi ? Ils ont vu quoi ?
+{35825}{35905}Homme pousser avec brutalité|pauvre femme dans voiture.
+{36205}{36222}Plus tard.
+{36227}{36247}Quand ?
+{36415}{36455}Je ne fume pas, mais...
+{37420}{37457}Les yeux ?
+{37470}{37520}Bleus, enfin un peu gris.
+{37722}{37745}Le visage ?
+{37757}{37797}Oui, quoi ?
+{37802}{37825}La forme.
+{37860}{37950}Mince, machoire étroite... front bombé.
+{38097}{38130}Ville lumière !
+{38142}{38220}Dites, je veux etre pris au sérieux !
+{38222}{38295}On vous prend au sérieux, Monsieur !
+{38322}{38370}C'est meme un traitement de faveur.
+{38375}{38432}D'ordinaire, ce formulaire attend 8 jours.
+{38437}{38485}On prend la déposition.
+{38597}{38632}Voila la procédure.
+{39440}{39495}Meme s'ils la retrouvent...
+{39500}{39572}ils n'ont pas le droit|de communiquer son adresse
+{39575}{39645}sans son consentement formel.
+{39650}{39737}Pourquoi refuserait-elle|de me dire ou elle est ?
+{39742}{39777}Vous etes déja venus a Paris ?
+{39780}{39822}Pour notre lune de miel.
+{39825}{39917}Elle aurait pu rencontrer|quelqu'un et y penser...
+{39995}{40057}Depuis juin 1968 ?
+{40062}{40140}Ne vous fachez pas.|Je ne suis qu'un ex-flic.
+{40145}{40190}On en voit des choses !
+{40195}{40265}Rappelons ce concierge...
+{40447}{40477}C'est sa femme, il est sorti.
+{40482}{40507}Ou est-il ?
+{40585}{40612}Gin & Tonic, un bar ?
+{40615}{40655}Gym-Tonic, un gymnase.
+{40740}{40767}Et l'adresse !
+{41545}{41582}Ils ne passent pas les clients.
+{41585}{41642}C'est une urgence !
+{41695}{41725}Il a raccroché.
+{42717}{42745}402.
+{42780}{42827}Que puis-je pour vous ?
+{42850}{42940}Ma femme...|Vous vous rappelez ma femme ?
+{42980}{43060}Elle a quitté l'hotel ce matin.|Pendant votre service...
+{43067}{43090}Vous l'avez vue ?
+{43095}{43130}Oui, je lui ai parlé.
+{43170}{43200}Qu'a-t-elle dit ?
+{43210}{43275}De faire monter des articles de toilette.
+{43287}{43330}Et puis elle est partie avec un homme.
+{43415}{43457}Je ne comprends pas.
+{43462}{43505}Eh bien, un homme
+{43510}{43575}m'a demandé si elle était a l'hotel.
+{43620}{43650}Il a appelé sa chambre.
+{43655}{43715}Elle est descendue.
+{43725}{43830}Elle m'a demandé du dentifrice, une brosse
+{43835}{43895}et, comment dit-on, pour démaquiller ?
+{43902}{43942}Enlever le maquillage ?
+{43987}{44017}Des boules de coton ?
+{44027}{44062}Et ils sont partis.
+{44090}{44125}Un problème ?
+{44215}{44282}Elle avait l'air de le connaitre ?
+{44297}{44342}Vous avez remarqué autre chose ?
+{44362}{44435}Elle avait les cheveux mouillés,|c'était bizarre.
+{44450}{44515}Je n'ai pas entendu|ce qu'ils disaient mais...
+{44530}{44570}il avait le bras autour d'elle.
+{44645}{44685}Autour de sa taille ?
+{44695}{44735}Non, de l'épaule.
+{44845}{44890}A quoi ressemblait-il ?
+{44915}{45000}Grand, bien vetu, moustache, basané.
+{45007}{45042}Il avait un accent.
+{45090}{45140}Pas américain, vous voyez.
+{45175}{45217}Plutot du Moyen-Orient.
+{45502}{45542}Pardon... Merci beaucoup.
+{45700}{45747}Attendez votre tour.
+{45762}{45825}C'est une urgence, vous comprenez ?
+{45880}{45932}Vous comprenez|mais vous vous en foutez !
+{45937}{46032}Il y a beaucoup d'urgences.|Il faut patienter.
+{46050}{46120}Il y a beaucoup de femmes kidnappées ?
+{46135}{46165}Je ne sais pas, monsieur.
+{46665}{46695}Ou habitez-vous ?
+{46735}{46800}San Francisco, c'est écrit sur le passeport.
+{46865}{46912}Veuillez passer par le portique.
+{46930}{46962}Je le garde, monsieur.
+{47040}{47115}Otez tous les objets|métalliques de vos poches.
+{47402}{47442}Je garde le passeport.
+{47475}{47552}Gardez le badge|tant que vous serez a l'intérieur.
+{47835}{47860}Yeux ?
+{47880}{47905}Bleus...
+{47910}{47940}tous les deux.
+{48005}{48030}Visage ?
+{48042}{48057}Ovale.
+{48062}{48130}On dirait de la paperasserie
+{48135}{48225}mais nous devons prévenir|la préfecture de police.
+{48227}{48260}Je suis déja allé a la police.
+{48262}{48355}J'ai rempli ce fichu formulaire.|Ce n'est pas une fugue !
+{48360}{48400}C'est un enlèvement !
+{48402}{48467}Vous ne croyez pas que c'est prématuré ?
+{48470}{48507}Non, je ne crois pas.
+{48512}{48587}J'ai des témoins. Ma femme a été enlevée.
+{48592}{48625}Vous comprenez ?
+{48630}{48667}Oui, bien sur.
+{48672}{48730}Qu'attendez-vous de nous au juste ?
+{48800}{48842}Retrouvez ma femme !
+{48902}{48995}Docteur, nous ne faisons|qu'assurer la liaison
+{49000}{49060}avec l'administration francaise,
+{49065}{49145}le ministère de l'Intérieur,|mais ils sont chez eux.
+{49150}{49237}On ne peut pas envoyer des mercenaires !
+{49255}{49290}Que faites-vous ici ?
+{49330}{49375}Les services généraux.
+{49380}{49402}Les visas.
+{49407}{49452}L'enregistrement des naissances.
+{49455}{49510}A qui puis-je m'adresser ?
+{49620}{49675}Voyez le responsable de la sécurité.
+{49712}{49740}Etes-vous riche ?
+{49765}{49810}Je suis a l'aise... chirurgien.
+{49815}{49850}Faites-vous de la politique ?
+{49852}{49877}Et votre femme ?
+{49880}{49980}Pareil. Nous ne votons meme plus.
+{49985}{50050}Pourquoi penser a un enlèvement ?
+{50055}{50092}C'est votre seule preuve ?
+{50095}{50127}Elle pourrait l'avoir perdue.
+{50157}{50225}C'est pas solide, ca ferme mal.
+{50245}{50275}Ca fermait bien.
+{50325}{50395}Vous étiez sous la douche, c'est ca ?
+{50405}{50472}Donc, vous n'avez rien entendu ?
+{50500}{50545}Non, rien.
+{50557}{50655}Ils ont parlé et elle est descendue|a sa rencontre.
+{50700}{50770}Parfaitement, et, en sortant...
+{50775}{50817}il avait son bras autour d'elle.
+{50820}{50890}Vous savez ce que j'en tire ?
+{50895}{50965}Il tenait peut-etre une arme, comme ca !
+{50985}{51055}Tais-toi, avance, souris !
+{51060}{51105}Ils sont sortis comme ca !
+{51130}{51187}Oui, c'est possible...
+{51192}{51240}ou alors c'était un couple heureux.
+{51310}{51367}Vous parlez de ma femme.
+{51397}{51445}Vous devez penser a la votre !
+{52067}{52110}402, s'il vous plait.
+{52380}{52415}Pas d'autre message ?
+{52430}{52507}Rien. Il faut faire descendre la valise.
+{52515}{52547}Ma clé, s'il vous plait.
+{52650}{52695}Elle n'est pas la.
+{57430}{57465}Attendez un peu.
+{58440}{58465}Attendez.
+{59492}{59540}Appelez le Dr Walker.
+{59545}{59632}Grand Hotel Intercontinental.
+{59765}{59797}C'est important.
+{61952}{61995}Tu cherches Dédé ?
+{62045}{62095}Vous le connaissez ?
+{62100}{62172}Toi, t'as pas l'air de le connaitre !
+{62232}{62272}Quel air devrais-je avoir ?
+{62280}{62320}Désespéré.
+{62395}{62425}Je suis désespéré.
+{62445}{62507}D'ou tu sors ? New York ?
+{62550}{62592}C'est encore mieux !
+{62607}{62690}North Beach, beaucoup mieux !
+{62692}{62740}Ca danse partout.
+{62767}{62860}Si tu vas a San Francisco
+{62882}{62980}Mets une fleur dans tes cheveux
+{62995}{63037}Tu m'offres un kahlua,
+{63040}{63112}et tu me racontes ton désespoir.
+{63117}{63205}En fait, je n'ai besoin que de Dédé.
+{63215}{63302}Tout le monde cherche Dédé aujourd'hui.
+{63305}{63395}Seulement Dédé a disparu|depuis deux soirs.
+{63400}{63435}Ou est-il ?
+{63437}{63505}Dis-moi plutot ce que tu cherches.
+{63512}{63570}Il n'y a pas que Dédé !
+{63602}{63670}Et si toi, tu me disais ce que je cherche.
+{63697}{63752}La dame blanche.
+{63790}{63835}Hein, que c'est ca ?
+{63920}{63990}Le voila bien, le désespoir !
+{63992}{64012}Comment est-elle ?
+{64017}{64057}Au poil, mon vieux.
+{64075}{64152}Personne n'y a touché...
+{64167}{64207}T'en fais pas.
+{64225}{64252}Suis-moi.
+{64557}{64577}Ou est-elle ?
+{64582}{64607}Du calme !
+{64610}{64680}Personne ne lui a marché sur les pieds.
+{64690}{64710}La voici.
+{64725}{64785}Pure comme de la neige fraiche.
+{64815}{64860}Vas-y, essaie !
+{64862}{64917}Goute, tu verras si je mens.
+{64945}{65005}T'inquiète, va ! Le nez connait.
+{65087}{65125}La dame blanche.
+{65137}{65175}100% blanche !
+{65215}{65250}Bonne, pas vrai ?
+{65295}{65335}600 francs !
+{65340}{65390}T'as pas besoin de Dédé.
+{65710}{65735}En dollars ?
+{65765}{65790}Ca va.
+{65827}{65900}Un autre pour l'adresse de Dédé.
+{74835}{74865}Pas de message ?
+{74895}{74960}Ici, rien. Je demande au standard.
+{75072}{75140}Venez faire un peu de sport, docteur...
+{75355}{75432}Un homme a appelé|sans laisser de message.
+{75455}{75490}Salaud !
+{75532}{75575}Venez dans ma chambre une minute.
+{75605}{75630}Très bien.
+{76730}{76755}La valise.
+{76760}{76790}J'appelle la police.
+{76865}{76892}Pas tout de suite !
+{76912}{76980}La valise que j'ai fait descendre.
+{76987}{77025}Elle n'est plus la.
+{77030}{77095}La TWA l'a récupérée|quand j'ai pris mon service.
+{77352}{77380}Fermez la porte.
+{77440}{77485}Traduisez-moi ca.
+{78267}{78302}Elle attend Dédé.
+{78860}{78890}La, elle est en colère.
+{79090}{79130}Ca ferme a quelle heure ?
+{79132}{79185}4 h, 6 h, ca dépend.
+{81550}{81575}Ou est-elle ?
+{81587}{81612}Ne me tuez pas !
+{81617}{81640}Ou est-elle ?
+{81642}{81665}Qui ?
+{81670}{81687}Ma femme.
+{81690}{81712}Quelle femme ?
+{81727}{81770}Pourquoi vous l'avez tué ?
+{81802}{81870}Je ne l'ai pas tué ! J'ai tué personne !
+{81875}{81912}Qu'est-ce que vous voulez ?
+{82262}{82295}Tu connais ?
+{82297}{82320}D'ou ca sort ?
+{82322}{82352}De ta valise.
+{82357}{82435}Donc, vous l'avez ?|Alors payez mon boulot !
+{82440}{82457}Boulot ?
+{82460}{82495}Vous savez bien.
+{82500}{82595}Tout ce que je sais, c'est que j'ai ta valise...
+{82600}{82655}et toi, celle de ma femme !
+{82667}{82697}Compris ?
+{82702}{82780}Tu t'es trompée de valise.
+{82865}{82890}Tu comprends ?
+{82932}{82980}Il me faut cette valise.
+{82982}{83025}Qu'y a-t-il dedans ?
+{83030}{83080}Il faut partir !
+{83090}{83140}Vite ! Je vous en prie !
+{83505}{83555}Tu étais sur le vol 862.
+{83585}{83620}Oui, ce matin.
+{83625}{83657}Ton billet.
+{83662}{83685}Pourquoi ?
+{83692}{83737}Si tu veux ta valise...
+{83740}{83785}Il est chez moi.
+{83790}{83825}Prenons un taxi.
+{83830}{83857}J'ai ma voiture.
+{84425}{84450}Tiens-moi ca.
+{84607}{84680}Je ne vais pas sauter, j'ai pas ma clé.
+{84682}{84777}Ma copine est a Bangkok|et tu sais ou est ma clé !
+{85620}{85675}Voila, je me suis pas envolée.
+{85832}{85892}J'appelle mon hotel. Le téléphone ?
+{85895}{85925}La-bas.
+{86115}{86135}Tiens !
+{86342}{86370}Il est coupé.
+{86377}{86465}Sonia n'a pas payé, la salope.
+{86470}{86495}Le billet ?
+{86710}{86745}Je l'ai jeté.
+{86770}{86817}Peut-etre... attends !
+{87107}{87157}J'échange le billet contre la valise.
+{87210}{87250}Pour la remettre a la consigne ?
+{87275}{87340}T'es avec ceux qui me suivent !
+{87345}{87367}Pas du tout.
+{87370}{87405}Tu sais pour la consigne !
+{87407}{87450}J'ai écouté les messages de Dédé.
+{87452}{87475}En francais !
+{87475}{87520}On me les a traduits.
+{87525}{87560}C'est si important ?
+{87590}{87707}Tu as déposé la valise de ma femme|a la consigne.
+{87710}{87760}Je ne peux pas la récupérer.
+{87790}{87845}La valise. Je ne peux pas.
+{87850}{87932}Je m'en fiche, c'est elle que je cherche.
+{87935}{87955}Qui ?
+{88032}{88085}Ma femme, bon sang !
+{88167}{88275}Dans la valise,|il n'y a pas ce qu'ils cherchaient.
+{88277}{88345}Mais il y a son nom dessus.
+{88347}{88395}Ils sont venus la prendre a l'hotel.
+{88400}{88430}Ta femme ?
+{88435}{88470}Ils l'ont enlevée.
+{88472}{88522}Mais c'est la valise qu'ils voulaient.
+{88527}{88605}Qui t'a engagée ?
+{88615}{88630}Dédé.
+{88635}{88657}Qui l'a engagé ?
+{88660}{88690}J'en sais rien.
+{88750}{88800}S'ils me trouvent, ils me tuent.
+{88805}{88895}C'est moi qui me suis trompée,|et ils ont tué Dédé.
+{88900}{88920}Je ne crois pas.
+{88922}{88955}Tu crois que je mens ?
+{88975}{89065}Dédé est mort depuis plus longtemps.
+{89075}{89097}Parfaitement !
+{89100}{89132}T'es médecin ?
+{89145}{89250}Meme Dédé ne puerait pas autant|en 12 heures !
+{89252}{89285}Justement, je suis médecin.
+{89312}{89375}Tu passes de la drogue ?
+{89387}{89425}Bien sur que si !
+{89430}{89462}Pas cette fois.
+{89482}{89515}Alors quoi ?
+{89535}{89572}Bon, c'était de la drogue.
+{89577}{89622}Quoi ? Héroine, coke, opium ?
+{89627}{89657}Ca change quoi ?
+{89662}{89692}Ca compte.
+{89702}{89757}J'en sais rien et je m'en fiche.
+{89790}{89815}J'ai peur.
+{89830}{89897}Tu veux ta femme ? Rends-moi ma valise !
+{90520}{90572}C'est par la que tu passes ?
+{91645}{91670}Ne te gene pas !
+{91675}{91702}C'est elle ?
+{91742}{91785}Elle a l'air heureuse.
+{91812}{91835}Elle l'est.
+{91865}{91915}C'est sa nature.
+{92180}{92212}Ils me suivent.
+{92235}{92255}Qui ?
+{92267}{92305}Un type dans l'avion.
+{92310}{92357}Je l'ai revu dans le train de Roissy.
+{92372}{92435}Je l'ai semé a la gare.
+{92467}{92512}La police ?
+{92517}{92545}Je ne crois pas.
+{92545}{92570}Alors qui ?
+{92582}{92630}Ceux qui m'ont engagée...
+{92635}{92700}heu... qui ont engagé Dédé.
+{92767}{92787}Arrete !
+{92790}{92830}Je veux leur parler.
+{93155}{93187}Bon, on y va ?
+{93190}{93220}Je te dis qu'on me suit !
+{93225}{93260}Ote tes doigts de la...
+{93262}{93305}et a l'aéroport !
+{94080}{94115}Un bagage perdu.
+{94180}{94212}Quel genre ?
+{94580}{94627}C'est une valise a double fond ?
+{94727}{94795}Ces chiens flairent la drogue.
+{94832}{94867}C'en est pas !
+{94877}{94910}C'est quoi ?
+{94915}{95015}Je m'en fous !|Je sais que ce n'est pas de la drogue.
+{95062}{95110}Tu veux ta femme ou quoi ?
+{95145}{95227}Alors, du calme ! Suis-moi.
+{95257}{95290}Ils auront ce qu'ils veulent...
+{95295}{95347}Toi ta femme, moi mon blé, tout le monde
+{95352}{95380}sera content...
+{95392}{95422}sauf Dédé.
+{95437}{95495}Y a-t-il un médecin dans la salle ?
+{95702}{95770}Tu t'étais caché en première !
+{95775}{95810}Non, on est arrivés hier.
+{95815}{95892}Et tu es encore a l'aéroport ?
+{95897}{95925}La, je suis battu.
+{95960}{95992}Une erreur de bagage.
+{95995}{96027}Ca m'en a tout l'air.
+{96075}{96130}Entre nous, je suis un peu parti.
+{96135}{96185}C'est demain que tu parles ?
+{96190}{96235}Non, aujourd'hui.
+{96285}{96325}Tu crois que tu y seras ?
+{96332}{96370}T'as du feu ?
+{96400}{96437}Regarde qui est la.
+{96462}{96515}Notre ami Dick.
+{96532}{96557}Comment va ?
+{96675}{96722}J'espérais bien te voir.
+{96767}{96795}Comment va Sondra ?
+{96810}{96832}Très bien.
+{96835}{96902}Vous etes arrivés hier ?
+{96925}{97005}Je la réveillerai en arrivant a l'hotel...
+{97010}{97040}pour le petit déjeuner.
+{97075}{97137}Pour voir si elle a fait des rencontres.
+{97165}{97202}Tu m'aides, Dick !
+{97207}{97255}Jusqu'à la douane.
+{97542}{97592}Tu cherches la demoiselle ?
+{97602}{97650}Elle est partie par la.
+{99140}{99167}Donne-lui ca !
+{99692}{99732}Quelle musique tu aimes ?
+{99825}{99882}Oh, les vieux trucs...
+{99885}{99942}Comme moi. Celui-la te plait ?
+{99985}{100012}Ce n'est pas vieux.
+{100015}{100060}3 ou 4 ans au moins !
+{100395}{100447}Tu me tiens le volant une minute.
+{100610}{100632}Ben quoi ?
+{100637}{100672}Tiens le volant !
+{100675}{100750}Y en avait pour 500 F, au moins !
+{100755}{100790}Regarde la route.
+{101265}{101285}Merci...
+{101295}{101350}je n'ai plus besoin de toi,
+{101355}{101392}j'ai la valise.
+{101432}{101477}Sauf si tu me dis ce qu'il y a dedans.
+{101500}{101582}Si je te le dis,|tu n'auras plus besoin de moi.
+{101587}{101620}Donc, tu le sais ?
+{101622}{101670}Non, mais c'est ma valise.
+{101675}{101720}Et ca, je vais le lui dire !
+{101760}{101800}Tu m'embrouilles !
+{101827}{101867}J'ai très faim.
+{102400}{102475}Traduisez-le, s'il vous plait.
+{102490}{102532}Le Dr Alembert a besoin des diapos.
+{102535}{102605}Au palais des congrès avant midi.
+{102620}{102670}Faites-moi porter un petit déjeuner.
+{102702}{102730}Un ou deux ?
+{102755}{102770}Deux.
+{103167}{103222}Pire que chez moi !
+{103230}{103295}Il y a toujours quelqu'un de plus fort.
+{103307}{103345}Combien te donnaient-ils ?
+{103390}{103410}Vite.
+{103420}{103442}Combien ?
+{103467}{103532}D'abord, Dédé m'a donné dix mille francs.
+{103537}{103600}Et puis quinze pour acheter le billet.
+{103605}{103670}Et au retour, encore...
+{103672}{103717}Combien te doivent-ils ?
+{103735}{103775}Dix mille... non, plutot...
+{103802}{103827}onze.
+{103842}{103892}Dix mille francs plus ou moins.
+{103907}{103935}Qu'est-ce que tu fais ?
+{103935}{103995}Je te donne de l'argent...
+{104000}{104047}Pour avoir la paix.
+{104060}{104125}2 000 dollars, ca fait 11 000 francs.
+{104130}{104160}Un peu plus.
+{104355}{104407}Navré, docteur, mais il fallait
+{104410}{104520}tout laisser en l'état pour la police.
+{104770}{104795}Un instant.
+{105130}{105165}J'en prends la moitié.
+{105230}{105277}Et je reste avec toi.
+{105280}{105302}Pourquoi ?
+{105305}{105390}Jusqu'à ce que tu leur rendes la valise.
+{105392}{105430}Je veux pas finir comme Dédé.
+{105527}{105557}Va-t'en !
+{105562}{105615}Non, je t'en prie !
+{105630}{105695}Je te rejoins chez toi dès que je peux.
+{105705}{105730}Promis ?
+{105755}{105792}Oui.
+{105795}{105825}Allez, file !
+{105982}{106022}Il me faut des sous.
+{106025}{106080}Je viens de te donner 1 000 dollars.
+{106090}{106157}Comme salaire, mais les frais ?
+{106517}{106555}Pas question !
+{106560}{106590}Pardon ?
+{106640}{106667}S'il vous plait...
+{106730}{106800}Elle ne sait rien de tout ca.
+{106830}{106920}Je suis marié, un peu de compréhension.
+{106947}{107005}Paris a tellement changé ?
+{107295}{107335}Il vous manque quoi que ce soit ?
+{107340}{107387}Des bijoux, des vetements ?
+{107415}{107435}Pourquoi ?
+{107450}{107522}Il faut une liste pour porter plainte.
+{107525}{107570}En fait, non.
+{107575}{107622}Je ne porte pas plainte.
+{107655}{107712}Il n'y a pas lieu, a vrai dire.
+{107762}{107805}C'est moi qui ai tout mis a sac.
+{107810}{107870}Une dispute avec ma femme.
+{107895}{107942}Je cherchais son agenda.
+{107947}{108025}Elle connait bel et bien quelqu'un a Paris.
+{108090}{108125}Ecoutez...
+{108150}{108242}j'ai une communication importante|a faire au congrès.
+{108262}{108300}Je ne veux pas d'histoires.
+{108302}{108352}Pardon pour le dérangement.
+{108392}{108447}Nous comprenons, docteur.
+{108682}{108785}A propos, vous avez demandé|au concierge de vous traduire
+{108790}{108825}une bande magnétique.
+{108830}{108887}Il a parlé d'un certain Dédé.
+{108920}{109025}Je croyais que c'était|des informations médicales.
+{109045}{109067}Cette bande,
+{109070}{109095}vous l'avez ?
+{109260}{109292}Ecoutez, docteur...
+{109300}{109400}mes collègues ont rencontré|un certain Dédé Martin
+{109405}{109470}qui aurait eu besoin d'un médecin.
+{109482}{109555}Si vous trouvez cette bande, prévenez-moi.
+{109582}{109637}J'espère que vous savez ce que vous faites.
+{109660}{109685}Bonne journée.
+{112055}{112090}Quoi de neuf ?
+{112112}{112147}Pas grand-chose, papa.
+{112152}{112242}On donne une boum mais on est sages.
+{112332}{112372}Amuse-toi bien.
+{112410}{112470}Tu vas bien, papa ?
+{112492}{112530}Très bien, chérie.
+{112555}{112602}Vous vous etes pas disputés ?
+{112607}{112635}Mais non !
+{112650}{112680}Richie va bien ?
+{112697}{112742}Tu es sur que tu vas bien ?
+{112765}{112797}Absolument.
+{112812}{112862}C'est quoi cette musique ?
+{112870}{112942}Grace Jones, ca te plait ?
+{112980}{113010}Je l'entends beaucoup.
+{113015}{113037}Sans blague !
+{113042}{113105}On dirait que vous vous amusez,|tous les deux !
+{113117}{113140}Oh oui !
+{113165}{113202}Retourne a ta boum.
+{113225}{113247}Je t'aime.
+{113250}{113285}Moi aussi.
+{113290}{113372}Et embrasse maman très fort.
+{122685}{122702}Chérie !
+{122775}{122805}Ou es-tu ?
+{122897}{122945}Je me réveille et t'es plus là.
+{122960}{122992}Reviens au lit !
+{123090}{123122}Vous faites du boucan.
+{123125}{123152}Qui etes-vous ?
+{123215}{123250}Des amis a toi ?
+{123255}{123285}Pas vraiment.
+{123312}{123337}A quoi on joue ?
+{123347}{123402}Du calme, c'est une erreur.
+{123485}{123525}Un peu qu'il y a erreur !
+{123530}{123577}Mollo, mon petit monsieur !
+{123582}{123620}On se renseignait.
+{123625}{123707}Mon cul, oui ! Allez, dehors !
+{123710}{123737}Si je veux.
+{123742}{123767}Allez, ouste !
+{123810}{123837}Tu me cherches ?
+{123842}{123890}Je suis ricain et dingue.
+{124835}{124862}Ou suis-je ?
+{126175}{126210}Comment j'ai atterri ici ?
+{126215}{126255}Mes amis t'ont transporté.
+{126430}{126457}Elle a appelé.
+{126472}{126497}Ta femme.
+{126507}{126570}A l'hôtel. Elle rappelle a une heure.
+{126575}{126597}Une heure !
+{127915}{127947}On les a loupés.
+{128077}{128102}Ou est-elle ?
+{128220}{128255}Ou est ma femme ?
+{128275}{128295}Attends.
+{128417}{128445}Chérie...
+{128490}{128545}Ils ne t'ont pas fait de mal ?
+{128655}{128692}Tu lui as parlé.
+{128725}{128755}Je vous en prie...
+{128762}{128845}ne lui faites pas peur. Ne l'effrayez pas.
+{128860}{128937}Elle est un peu fatiguée, c'est tout.
+{128967}{129057}J'ai... la chose, que dois-je faire ?
+{129070}{129142}Niveau jaune - Parking Beaubourg.
+{129145}{129185}Attendez ! Répétez !
+{129190}{129262}Parking Beaubourg - Niveau jaune,|compris ?
+{129285}{129327}Avec la statue, docteur.
+{129332}{129355}Quand ?
+{129375}{129400}Tout de suite !
+{129407}{129437}Et, docteur...
+{129460}{129502}pas de betises !
+{129510}{129535}Sinon...
+{129540}{129610}au revoir Mme Walker.
+{130692}{130720}Qu'est-ce que c'est ?
+{130730}{130755}J'en sais rien.
+{130865}{130897}Tu as du scotch ?
+{131715}{131790}Cache-toi et viens quand je te le dirai.
+{131795}{131835}D'accord. J'ai peur.
+{131840}{131862}Tu as peur ?
+{131872}{131922}A en crever.
+{131955}{132002}Ca veut dire bonne chance, en Francais.
+{132012}{132057}Faut pas répondre.
+{133737}{133762}La liberté ?
+{133767}{133812}Ma femme d'abord.
+{133850}{133870}Arretez !
+{133885}{133932}C'est la fille qui l'a ! Je l'appelle !
+{134150}{134175}Viens !
+{134367}{134410}Qu'ils me donnent mon fric !
+{134425}{134497}Ne fais pas ca ! Donne-la-leur !
+{134517}{134540}Jamais !
+{134555}{134577}Attention !
+{135430}{135462}Connards !
+{137465}{137527}Dans une BMW bleue...
+{137535}{137582}4 portes, numéro...
+{137597}{137735}1068 PD 92.
+{137760}{137782}Compris ?
+{137800}{137845}Elle avait un couteau sous la gorge.
+{137915}{137945}Vous m'entendez ?
+{137950}{138030}Un couteau, oui, allez-y...
+{138035}{138107}Ou ? Ma femme sert d'otage !
+{138112}{138172}J'entends bien. Mais heu...
+{138177}{138245}ce bidule électronique, la...
+{138250}{138277}Un Krytron.
+{138322}{138415}Et l'autre bande ? Celle de la Peugeot ?
+{138515}{138557}L'autre bande était a pied.
+{138585}{138677}Le type a la Peugeot|était avec les ravisseurs.
+{138680}{138742}Il est mort, rue de Rivoli.
+{138765}{138835}J'ai peur de ne pas très bien|comprendre, docteur.
+{138840}{138910}Ne quittez pas, j'ai un autre appel.
+{139372}{139412}De quel numéro m'appelez-vous ?
+{139437}{139480}Comment voulez-vous...?
+{139572}{139620}Je suis dans un café...
+{139630}{139660}le Paris Midi.
+{139675}{139705}Epelez, s'il vous plait.
+{139715}{139742}Que j'ép...
+{139792}{139842}Avec "S" comme Sale con !
+{140670}{140720}On les croit pleins aux as !
+{140727}{140817}Regarde-moi ca, 200 francs !
+{140835}{140862}Son portefeuille.
+{140875}{140900}Au mort.
+{140905}{140937}Tu l'as pris ?
+{140942}{141012}Fallait pas ? Il en a plus besoin.
+{141055}{141082}Fais voir.
+{141295}{141330}Né a Chypre.
+{141462}{141492}Qu'est-ce que c'est ?
+{141500}{141532}Une boite.
+{141572}{141645}C'est pour les vieux cons.
+{141650}{141722}Pleine de riches Arabes, des Grecs.
+{141745}{141772}T'y es allée ?
+{141780}{141815}Une fois avec Dédé.
+{142152}{142197}Je reconnais que vous aviez raison.
+{142202}{142230}A quel sujet ?
+{142252}{142277}C'est le...?
+{142282}{142302}Oui.
+{142570}{142652}Parlez ! Elle en sait plus que nous tous.
+{142705}{142737}Qui tient ma femme ?
+{142740}{142775}Des Arabes, je crois.
+{142810}{142887}On est un peu dans le noir.
+{142917}{142967}Vous connaissez le Krytron ?
+{142980}{143017}Moi non plus.
+{143027}{143110}C'est un... détonateur électronique.
+{143127}{143187}Un relais miniature.
+{143200}{143300}Thermo-résistant.
+{143305}{143332}Ca sert a quoi ?
+{143340}{143377}Mise a feu des missiles...
+{143382}{143457}Déclenchement des détonations nucléaires.
+{143577}{143620}Les bombes atomiques ?
+{143625}{143642}D'ou l'intéret !
+{143645}{143682}Il a été volé a l'usine.
+{143687}{143740}Une chance qu'on l'ait trouvé.
+{143772}{143847}J'aurais du demander 20 000 francs !
+{143852}{143895}Et les 2 types, chez elle ?
+{143897}{143935}Probablement des alliés a nous.
+{143940}{143987}A nous ? A vous, oui !
+{143992}{144047}Nous faisons tout pour votre femme.
+{144052}{144102}Nous agissons auprès des Francais.
+{144105}{144202}Interpol est prévenu.|Et le State Department.
+{144207}{144320}Avant tout, il faut le mettre en sureté.
+{144337}{144372}C'est-a-dire ?
+{144377}{144405}A l'ambassade.
+{144417}{144462}C'est la vie de Sondra.
+{144467}{144532}Ca ne vous appartient pas.
+{144545}{144575}A vous non plus.
+{144580}{144647}Il est a moi !
+{145765}{145822}Me touche pas la figure.
+{146300}{146332}Et ca ?
+{146345}{146382}On peut pas l'emporter.
+{147010}{147045}Tu es ravissante.
+{147930}{147972}Vous acceptez cette carte ?
+{147975}{148022}American Express, bien sur.
+{148032}{148070}Allez demander.
+{148075}{148107}Mais je vous assure...
+{148112}{148132}J'insiste.
+{148425}{148477}Je déteste cette musique.
+{148792}{148825}Ca alors !
+{148847}{148937}Le congrès de cardiologie du Caire, 1981.
+{148942}{148982}Ah oui ! Ca va ?
+{148985}{149037}C'est lui, le Dr Walker.
+{149055}{149110}On vous a attendu aujourd'hui.
+{149120}{149157}Je vous présente.
+{149260}{149302}Le meilleur chirurgien de Tunisie.
+{149370}{149405}Des ennuis ?
+{149410}{149490}Ou trop de champagne, comme nous ?
+{149522}{149547}On danse ?
+{153142}{153182}Nous acceptons cette carte.
+{153205}{153250}J'ai autre chose.
+{153330}{153347}Ou est-il ?
+{153350}{153367}Mort.
+{153370}{153415}Chiens d'Israéliens !
+{153422}{153467}Vous étiez suivis, dommage !
+{153472}{153517}C'était plutot vous.
+{153542}{153587}Nous tenons encore votre femme.
+{153622}{153672}Et moi, l'objet que vous voulez.
+{153685}{153745}Je propose un autre échange.
+{153790}{153882}Cette fois, c'est moi qui organise.
+{153895}{153927}Je vous contacterai.
+{153960}{154007}Nous sommes tous|entre vos mains, docteur.
+{154012}{154037}Exactement.
+{155547}{155575}Prets ?
+{155690}{155717}5 heures.
+{155750}{155822}Sur le pont, près de la statue de la liberté.
+{155857}{155885}Compris.
+{157167}{157205}J'avais ta parole.
+{157222}{157265}Tu me gardais avec toi.
+{157305}{157335}Pardon.
+{157340}{157375}C'est dangereux.
+{157440}{157490}J'ai pas besoin de ton fric.
+{157665}{157695}Il fait froid.
+{158637}{158662}Halte !
+{158765}{158790}Montre !
+{159070}{159097}Donne-le a la fille.
+{159202}{159237}Elle vient seule.
+{159247}{159292}D'abord ma femme.
+{160070}{160132}Mon fric ou je le balance a la flotte !
+{160150}{160192}Quel fric ?
+{160200}{160227}J'ai pas été payée.
+{160250}{160285}Je n'en ai pas.
+{160295}{160322}Vraiment ?
+{160325}{160347}Arrete !
+{160362}{160382}Combien ?
+{160387}{160420}10 000 francs.
+{160430}{160452}Vite !
+{161700}{161720}Va-t'en !
+{161790}{161815}Mais va-t'en !
+{163855}{163887}J'ai froid.
+{163900}{163927}Ca ira, mon petit...
+{163965}{163992}Tout ira bien.
+{165527}{165597}C'est ce que vous voulez ?
+{166627}{166657}Oh, je t'aime !
+{166695}{166725}Je t'aime.

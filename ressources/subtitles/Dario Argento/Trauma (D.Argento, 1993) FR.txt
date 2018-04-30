@@ -1,0 +1,869 @@
+{2548}{2583}Bonjour.
+{2595}{2655}Dis chéri, je te vois quand ?
+{2723}{2793}Trop tôt,|j'ai encore un patient à voir.
+{2838}{2875}Je sais, il est tard
+{2880}{2915}mais c'est un nouveau patient.
+{2923}{2958}Je n'ai pas pu refuser.
+{2965}{3023}Il a insisté.|Qu'est-ce que je peux y faire y faire ?
+{3028}{3095}Mes mains|ont le pouvoir de guérir.
+{3135}{3218}De te guérir aussi chéri.|Mais avec toi je suis dure.
+{3330}{3375}Entrez je vous prie.
+{3383}{3418}Avant de commencer
+{3423}{3483}j'aime avoir|l'historique de mes patients.
+{3488}{3555}Je vais vous faire remplir|ce questionnaire.
+{3565}{3593}Répondez-y
+{3598}{3628}et on pourra commencer.
+{3640}{3733}D'après vos dires|il s'agirait d'une hernie discale.
+{3738}{3780}Vous devez souffrir.
+{4005}{4073}Je ne vous ai|encore jamais soigné ?
+{4088}{4125}Votre visage m'est familier.
+{4145}{4203}Je n'oublie jamais un visage.
+{5905}{5918}Votre main.
+{5945}{5958}Laissez-moi.
+{5983}{6000}Je vais vous aider.
+{6050}{6108}Vous n'allez pas vous suicider ?
+{6123}{6173}- Si.|- Mais non voyons.
+{6233}{6273}Je ne veux pas de votre aide.
+{6285}{6343}Laissez-moi sauter,|je vous en prie.
+{6398}{6428}Mon Dieu...
+{6510}{6583}Cessez de vous torturer.|Je peux vous aider.
+{6595}{6638}- Vous n'allez pas sauter.|- Si.
+{6650}{6695}Ça va aller.|Donnez votre main.
+{6700}{6728}Rapprochez-vous.
+{6735}{6765}Je veux sauter.
+{6815}{6840}Voilà.
+{6980}{7005}Seigneur...
+{7010}{7045}Qu'est-ce que vous regardez ?
+{7063}{7123}J'admire votre joli bracelet.
+{7185}{7238}- Vous avez faim ?|- J'ai déjeuné.
+{7243}{7270}Une glace alors ?
+{7275}{7300}Je dois m'en aller.
+{7305}{7330}Y a pas le feu.
+{7335}{7385}Qu'est-ce que vous me voulez, hein ?
+{7390}{7478}On pourrait prendre un café|ou autre chose ?
+{7508}{7583}Occupez-vous de vos affaires,|voulez-vous ?
+{7593}{7625}Y a pas de problème.
+{7708}{7750}Tout va bien, hein ?
+{7758}{7810}Allez, montez dans ma voiture.
+{7975}{8008}- Tenez.|- Merci.
+{8150}{8208}- Vous voulez celui-ci ?|- Non, merci.
+{8225}{8238}Alors...
+{8270}{8325}Par lequel je commence ?
+{8343}{8368}Ça a l'air bon.
+{8373}{8405}Je ne trouve pas.
+{8435}{8505}- Et vos parents ?|- Je ne les vois pas.
+{8523}{8535}Comment ?
+{8553}{8610}Je vis seule, j'ai de l'argent.
+{8633}{8670}Vous avez 14, 15 ans ?
+{8678}{8710}16 ans.
+{8748}{8775}Et l'école ?
+{8805}{8848}Cessez de m'interroger.
+{8860}{8893}Arrêtez, d'accord ?
+{8908}{8930}Excusez-moi.
+{9013}{9033}C'est que...
+{9108}{9170}j'ai eu les mêmes marques|que vous.
+{9185}{9215}Vous ne savez rien de moi.
+{9233}{9295}- Oh que si.|- Oh que non.
+{9323}{9358}Si vous vous droguez...
+{9368}{9438}Je n'ai pas de problème de drogue.|Seulement...
+{9710}{9745}Vous êtes content ?
+{9765}{9793}Content que je mange ?
+{9838}{9870}Bon, parfait.
+{9890}{9930}Je vais aux toilettes.
+{10828}{10868}Mademoiselle, on veut vous parler.
+{10873}{10913}Moi ?|Je n'ai rien fait.
+{10918}{10973}Je suis une étudiante roumaine.
+{10978}{11003}On a gagné.
+{11008}{11035}Je n'ai rien fait.
+{11040}{11075}Retour à la clinique.
+{11095}{11173}Aura Petrescu, allons.
+{11180}{11258}J'ai de l'argent.|Je peux vous en donner.
+{11263}{11305}On ne vous y ramènera pas.
+{11310}{11383}Mais nous devons vous ramener|à vos parents.
+{11395}{11415}Pas à la clinique.
+{11480}{11520}On doit vous ramener.
+{11528}{11555}Je vous emmerde.
+{11560}{11580}Arrêtez.
+{11630}{11675}Circulez, tout va bien.
+{11680}{11738}Circulez.|Allez, on se dépêche.
+{11998}{12013}Salope...
+{12113}{12155}C'est bon de rentrer chez soi.
+{12495}{12523}Vous désirez ?
+{12528}{12568}Brigade des mineurs.
+{12573}{12588}Oui ?
+{12593}{12623}On a retrouvé Aura.
+{12633}{12690}Aura ?|Elle est avec vous ?
+{12770}{12830}Ma pauvre petite chérie.
+{12838}{12865}Je suis la mère
+{12870}{12958}de cette petite fille difficile|mais très belle.
+{12985}{13078}Je vous remercie|de m'avoir ramené mon bébé.
+{13083}{13130}Très aimable à vous, merci.
+{13225}{13295}La clinique c'est pour ton bien.
+{13300}{13380}Tu y resteras|le temps qu'il faudra.
+{13385}{13438}Non, je l'ai en horreur.
+{13443}{13518}Ne m'y renvoyez pas,|j'en mourrais.
+{13588}{13635}Viens voir qui est là.
+{13643}{13683}Deux agents l'ont ramenée.
+{13758}{13790}Quelle surprise.
+{13795}{13858}Tu donnes bien du souci à ta mère.
+{13865}{13940}Excuse-moi papa|mais la clinique c'est horrible.
+{13945}{13993}Ils veulent ma mort.
+{14013}{14110}Emmène-la à l'étage.|Donne-lui du thé.
+{14370}{14443}Tu fais trop d'ennuis,|ta mère est fâchée.
+{14448}{14470}Je sais papa.
+{14475}{14528}Garde-moi ici, je serai sage.
+{14533}{14580}Ta mère a beaucoup de soucis.
+{14585}{14613}Une autre séance ?
+{14618}{14648}Très importante.
+{14728}{14783}Je vais t'apporter un dîner.
+{14793}{14863}Essaie de manger.|Ça fera plaisir à ta mère.
+{14868}{14895}Je n'ai pas faim.
+{14900}{14945}Il faut que tu manges.
+{14958}{14990}Et tu retourneras à la clinique.
+{15335}{15368}Bonsoir.
+{15823}{15900}Ravi de vous voir.|Donnez-moi votre parapluie.
+{15905}{15978}Quelle nuit|Les esprits aiment peut-être ça.
+{15993}{16035}Elle est très forte.
+{16048}{16123}Quand Nicholas se mettra à parler
+{16128}{16168}observe mes mains.
+{16223}{16270}Je vous ai téléphoné.
+{16335}{16378}Mon Dieu...
+{17088}{17113}Je suis en retard ?
+{17930}{17955}Aura ?
+{18375}{18418}Questions.
+{18428}{18488}Est-ce qu'on pourra contacter ma mère ?
+{18495}{18540}Nous avons tant de questions.
+{18580}{18648}Nous qui sommes réunis ici...
+{18670}{18690}Nicholas,
+{18720}{18763}inestimable ami,
+{18808}{18855}nous aideras-tu ?
+{18980}{19023}Nicholas,
+{19043}{19113}es-tu avec nous ce soir ?
+{19178}{19228}Je fais appel à toi.
+{19328}{19360}Laissez-moi
+{19430}{19463}venir.
+{19608}{19653}Ce n'est pas Nicholas.
+{19688}{19750}Un autre esprit|est avec nous ce soir.
+{19765}{19808}Il essaie de passer.
+{19933}{19955}Un esprit...
+{19988}{20055}Un esprit qui est proche
+{20060}{20150}du récent défunt|et qui est proche des tueurs.
+{20170}{20198}Parle.
+{20243}{20293}Ma tête...
+{20355}{20423}Il a pris ma tête.
+{20510}{20563}Il m'a assassiné.
+{20610}{20685}Un monstre avec un fil d'acier.
+{20750}{20818}Je n'étais pas sa première victime
+{20833}{20913}et je ne serai pas la dernière.
+{20980}{21080}Je sais qui est le tueur.
+{21148}{21233}Je suis le seul à savoir
+{21268}{21343}que le tueur est... présent.
+{21553}{21590}Je te vois.
+{21605}{21645}Tu ne peux pas m'échapper.
+{21665}{21705}Je te connais.
+{21840}{21863}Maman.
+{21903}{21930}Maman.
+{22035}{22070}Papa.  Arrête.
+{24068}{24113}Qu'est-ce que tu as vu ?
+{24123}{24160}Tu as vu quelque chose.
+{24165}{24203}C'était qui ?
+{24223}{24248}Je n'ai rien vu.
+{24293}{24393}Il avait...|leurs têtes devant son visage.
+{24483}{24588}Vérifie ces trucs sur les murs,|ça sent l'occultisme.
+{24623}{24708}Il se fait tard.|Ramenez-moi à la maison.
+{24788}{24855}Quelque chose n'allait pas|depuis le début.
+{24865}{24913}Vous n'avez rien entendu ?
+{25223}{25250}Elle avait
+{25255}{25288}d'autres parents ?
+{25308}{25325}Non.
+{25335}{25415}Voyez-vous capitaine,|jusqu'à sa dernière fugue
+{25420}{25470}elle était dans mon service.
+{25475}{25498}Pas possible.
+{25503}{25528}Elle était ma patiente
+{25540}{25583}à la clinique Ferriday.
+{25590}{25633}Ses parents l'y avaient mise.
+{25643}{25668}Qu'est-ce qu'elle avait ?
+{25678}{25733}Je ne peux pas vous le dire,
+{25745}{25813}mais ça n'a rien à voir|avec cette affaire.
+{25823}{25858}Nous allons la récupérer.
+{25870}{25930}Elle a besoin de nos soins.
+{25935}{26015}Passez demain|à la brigade des mineurs.
+{26045}{26078}Ils vous la confieront.
+{26095}{26140}Après notre enquête préliminaire.
+{26353}{26425}Avec ce double meurtre|le maniaque aura frappé quatre fois.
+{26430}{26488}Les métallurgistes|négocient de nouveau.
+{26503}{26570}La hausse des prix|diminue votre pouvoir d'achat.
+{26598}{26643}On va rigoler avec celui-là.
+{26648}{26708}On l'appelle|"le chasseur de têtes".
+{26723}{26750}J'ai entendu ça.
+{26768}{26790}Grace te l'a dit ?
+{26828}{26858}On se parle des fois.
+{26863}{26928}Elle t'a dit à quoi il ressemble ?
+{26945}{26988}T'inquiète, personne ne t'a vu.
+{26993}{27080}Très drôle.|T'es à mourir de rire.
+{27085}{27153}Si on travaillait|pour changer, hein ?
+{27168}{27243}Arnie, tu fais quoi|à part amasser les livres ?
+{27273}{27378}On a tout un sujet|sur la dernière réunion du KKK,
+{27405}{27455}l'atterrissage de la navette
+{27478}{27545}et le voyage|du Président à Belgrade.
+{27550}{27563}Pas de sexe ?
+{27608}{27658}La First Lady, ça te dit ?
+{27663}{27753}Laisse tomber. Je trouverai ça|dans le Tour de France.
+{27773}{27820}Je ne passerai pas avec ça.
+{27843}{27865}Bienvenue Grace.
+{27878}{27953}On ne peut pas avoir|un truc plus stylisé ?
+{27960}{28010}J'ai ça mais je dois le terminer.
+{28015}{28030}C'est mieux.
+{28035}{28108}Non,|je le préfère carrément nature.
+{28113}{28150}Genre "le chasseur de têtes".
+{28155}{28188}Oui, excellente idée.
+{28193}{28208}Très sobre...
+{28235}{28275}Je dois y retourner.
+{28280}{28360}On doit répéter|une des impros de Ben.
+{28473}{28558}Grace, cette tenue|te va merveilleusement bien.
+{28573}{28615}- J'ai trouvé.|- Quoi ?
+{28630}{28673}De grosses lettres couleur sang.
+{28688}{28720}De trois pieds de haut.
+{28920}{28950}Oui, c'est moi.
+{29010}{29040}Bien sûr que je le veux.
+{29113}{29203}Je n'ai pris que 6 dollars.|J'avais besoin de manger.
+{29215}{29265}Je traîne dehors depuis hier.
+{29280}{29300}Comment tu m'as retrouvé ?
+{29320}{29358}Grâce à ta carte d'identité.
+{29370}{29405}Je suis passée chez toi.
+{29420}{29453}Tu ne sais où aller ?
+{29508}{29540}Tu cherches un endroit ?
+{29550}{29618}Non, j'ai besoin d'autre chose.
+{29623}{29718}Comme tu m'as déjà aidée,|j'ai pensé que...
+{29745}{29778}Tu veux de l'argent.
+{29870}{29893}Alors quoi ?
+{29928}{29970}Je veux rentrer chez moi.
+{30000}{30018}Chez toi ?
+{30038}{30065}Je t'y dépose.
+{30110}{30190}Viens au bureau,|on va appeler tes parents.
+{30320}{30378}Tu ne veux pas les appeler ?
+{30510}{30558}Comme tu voudras.|Ecoute...
+{30568}{30628}je vais chercher mes clés,|d'accord ?
+{30638}{30658}Ça va ?
+{30668}{30730}On déplore deux|nouvelles décapitations
+{30748}{30813}dans une maison|adjacente au Parc Inhamus.
+{30828}{30890}Les victimes|seraient les médiums Stefan
+{30895}{30923}et Adriana Petrescu.
+{30928}{30998}Capitaine,|les victimes sont-elles
+{31003}{31035}choisies au hasard ?
+{31040}{31108}On sait que les victimes|étaient paralysées
+{31113}{31165}mais conscientes|pendant le meurtre.
+{31170}{31223}Y a rien à tirer de ces connards.
+{31228}{31260}Je vais faire un tour.
+{31265}{31333}Emigrés de Roumanie,|il ne reste que leur fille
+{31338}{31373}Aura, âgée de 16 ans.
+{31378}{31423}Préviens Grace de mon départ.
+{31433}{31468}Je suis sur un scoop.
+{31473}{31538}Depuis la fille|demeure introuvable.
+{31580}{31638}Pourquoi rentrer chez toi Aura ?
+{31643}{31678}J'ai besoin de vêtements.
+{31710}{31748}Tu connais mon nom ?
+{31768}{31808}J'ai regardé le JT.
+{31850}{31873}Je suis désolé.
+{31933}{31983}Ça doit être affreux pour toi.
+{31998}{32080}Tu n'as pas de la famille|chez qui aller ?
+{32085}{32135}Ne te mêle pas de ça.
+{32180}{32218}J'essaie seulement de t'aider.
+{32230}{32258}J'en ai pas besoin.
+{32268}{32330}Plutôt que d'aller chez toi|on devrait
+{32358}{32388}voir un médecin.
+{32393}{32423}Les médecins.
+{32435}{32523}Ecoute,|je ne veux plus voir de médecin.
+{32548}{32613}Je viens de sortir|des griffes d'un médecin.
+{32620}{32678}Je n'ai plus besoin de médecins.
+{32725}{32768}J'ai besoin de réponses.
+{32790}{32838}Je veux savoir qui les a tués.
+{32945}{32993}Ne te gare pas trop près.
+{34220}{34255}Pas de courant.
+{34288}{34343}Sûrement à cause de l'orage.
+{34425}{34468}Tu veux vraiment continuer ?
+{34545}{34595}Comment on va au sous-sol ?
+{34623}{34660}Par ici.
+{35083}{35133}Je crois que c'est là.
+{35343}{35368}Parfait.
+{35463}{35495}Je reviens.
+{37013}{37045}Maman...
+{37055}{37095}Maman
+{37460}{37515}Et je ne serai pas la dernière.
+{37615}{37668}Je sais qui est le tueur.
+{37755}{37843}Je suis la seule à savoir
+{37875}{37915}que le tueur est...
+{37920}{37970}présent
+{38063}{38103}Je l'ai à peine reconnue.
+{38135}{38173}Tu as reconnu qui ?
+{38220}{38250}Ma mère.
+{38303}{38363}Je n'avais jamais entendu ça.
+{38415}{38443}Ça va aller.
+{39133}{39168}Allez, viens
+{39393}{39418}Qu'est-ce qui est arrivé ?
+{39423}{39475}Quelqu'un a brisé ma vitre.
+{39488}{39538}En guise d'avertissement.
+{39543}{39568}La police.
+{39600}{39640}C'est ça, reste baissée.
+{39965}{40043}Il paraît|que tu as un scoop pour moi.
+{40053}{40113}On marche|sur mes plates-bandes, hein ?
+{40125}{40208}Essaie de m'appeler|au bureau avant 10 heures.
+{40228}{40273}Après je serai à l'antenne.
+{40285}{40308}Salut.
+{41375}{41453}Gabriel, qu'est-ce que tu fabriques ?|Va au lit.
+{41468}{41555}Il y a une dame dans cette maison.|Elle me regarde.
+{41560}{41585}Elle ne bouge pas.
+{41590}{41630}Au dodo.
+{41895}{41935}Il n'y a pas de dame.
+{42180}{42213}Si, elle est là.
+{42235}{42315}Elle n'arrête pas de me fixer.|Une dame noire.
+{42343}{42425}Désolé de vous appeler si tard|M.Ferriday
+{42430}{42463}mais vous étiez sorti.
+{42468}{42505}Je sors d'une réunion.
+{42510}{42598}Je dois vous parler|de la jeune fille qui s'est enfuie.
+{42608}{42643}Aura Petrescu.
+{42648}{42733}Dr Judd, la clinique|se passe de ce genre de pub.
+{42748}{42840}Laissez-moi faire M.Ferriday,|je la retrouverai.
+{42880}{42928}Ma tête...
+{42978}{43045}Il a pris ma tête.
+{43455}{43523}Je pensais passer te voir ce soir.
+{43575}{43613}Pas ce soir Grace.
+{43620}{43658}Tu ne veux pas me voir ?
+{43748}{43793}En fait... j'ai quelqu'un
+{43820}{43870}qui dort dans l'autre pièce.
+{43875}{43913}Je la connais ?
+{43940}{44018}Non, c'est une fille|que j'ai rencontrée
+{44035}{44068}et qui ne savait pas où aller.
+{44073}{44118}Alors salut.
+{44168}{44190}Grace ?
+{45435}{45478}Elle se dit anorexique.
+{45523}{45573}J'aurais pu trouver tout seul.
+{45578}{45615}Ne te mortifie pas.
+{45620}{45663}Ce sont des gens secrets.
+{45668}{45733}Des petites filles|qui cachent leurs problèmes.
+{45745}{45773}Vraiment ?
+{45803}{45828}Mais encore ?
+{45845}{45878}Voyons...
+{45890}{45955}Très attachées|à une mère instable,
+{45960}{46030}elles sont de la haute bourgeoisie,|les garçons aussi.
+{46035}{46090}En général|artistiquement brillantes.
+{46108}{46153}Quoi d'autre ?|C'est vrai,
+{46158}{46183}j'oubliais le sexe.
+{46198}{46223}Alors ?
+{46228}{46263}Tu l'as niquée ?
+{46268}{46293}C'est une gamine...
+{46298}{46328}Tu as joué avec ?
+{46373}{46433}Normal, elles ont peur du sexe.
+{46438}{46525}Elles veulent retourner en enfance|et ne pas grandir.
+{46530}{46570}Il y a 8 millions d'anorexiques.
+{46590}{46618}Comment tu sais tout ça ?
+{46633}{46685}Je regarde la télévision, pas toi ?
+{46690}{46723}Pas ces émissions-là.
+{46728}{46753}Voilà ton problème.
+{46770}{46798}C'est la télévision.
+{46803}{46868}On ne peut pas la prendre|à la légère.
+{46880}{46950}Tu devrais les regarder|et manger de ça.
+{46960}{47018}Ça vous sauve|de l'anorexie, hein ?
+{47040}{47060}Sérieusement,
+{47068}{47103}ton amie est en danger.
+{47123}{47168}Beaucoup d'anorexiques meurent,
+{47173}{47198}se suicident.
+{47208}{47225}Le pire
+{47230}{47325}c'est qu'elle refusera ton aide|tout en la désirant.
+{47358}{47395}Pourquoi elle en est là ?
+{47418}{47450}A cause des parents.
+{47455}{47515}Elles rêvent souvent de leur père
+{47520}{47580}se penchant sur elles|pour les embrasser.
+{48135}{48170}"Teliapolytheus".
+{55495}{55578}Elle s'est fait à manger.|Il y a du progrès.
+{55581}{55641}C'est probablement du bidon.
+{55645}{55715}On a du mal à les guérir.|Beaucoup meurent.
+{55815}{55862}Beaucoup d'anorexiques meurent.
+{55963}{56000}Très attachées à une mère instable.
+{56155}{56205}Il y a huit millions d'anorexiques.
+{56271}{56356}Elles rêvent que leur père|va les embrasser.
+{57921}{57936}C'était quoi ?
+{57964}{57992}J'ai rien entendu.
+{57996}{58028}Moi si.
+{58348}{58366}Alors ?
+{58401}{58428}Elle est partie.
+{58440}{58460}Et alors ?
+{58481}{58503}Je vais la chercher.
+{58531}{58596}Arrête, ne me dis pas|qu'on l'a choquée.
+{58607}{58660}Grace, ce n'est qu'une gamine.
+{58675}{58755}Elle profite de toi|et de tout le monde.
+{58761}{58828}Elle a besoin d'aide,|elle est suicidaire.
+{58835}{58900}Elle a passé un mois|à la clinique Ferriday.
+{58905}{58960}Dans cette clinique ?|Sans blague ?
+{58967}{59020}Ils sont allés trop loin.
+{59050}{59085}Elle est parano
+{59090}{59145}et elle te manipule, oublie-la.
+{59158}{59183}Je t'emmerde.
+{59187}{59200}David ?
+{61305}{61340}Désolée pour hier soir.
+{61343}{61423}Je n'ai pas pu|m'empêcher de partir.
+{61429}{61449}Tu es fâché ?
+{61476}{61528}Non.|Tu es fâchée avec moi ?
+{61536}{61591}Non, je ne suis pas fâchée.
+{61595}{61645}Tant mieux,|je dois aller travailler.
+{61664}{61679}Pourquoi ?
+{61695}{61755}Pour faire semblant d'être normal.
+{61821}{61869}Tu devrais aller au marché
+{61876}{61964}pour acheter des légumes|et des fruits qui te tentent.
+{61983}{62008}D'accord.
+{62022}{62062}J'essaierai de cuisiner.
+{63658}{63681}Tu vois ?
+{63713}{63761}On trouve tout à la télé.
+{63773}{63836}Le 18, le 23 et le 29...
+{63864}{63892}Tu piges ?
+{63911}{63938}Nom de Dieu...
+{63977}{64012}Il tue quand il pleut.
+{64063}{64101}Alors évite la pluie.
+{64142}{64162}Oui.
+{64184}{64284}Il est là, ne quittez pas.|C'est ta nouvelle copine.
+{64400}{64448}Je suis allée au marché
+{64456}{64484}et j'ai vu le Dr Judd.
+{64488}{64533}Il m'a suivie, je me suis enfuie.
+{64544}{64611}Non, lâchez-moi.
+{65057}{65077}Aura ?
+{65156}{65196}Aura, tu es là ?
+{65383}{65403}Elle n'est pas là.
+{65449}{65479}Où est-elle ?
+{65503}{65588}Je m'inquiétais.|Je m'inquiétais pour toi
+{65608}{65648}et aussi pour elle.
+{65666}{65738}Tu m'as dit|qu'elle était suicidaire.
+{65766}{65848}Alors j'ai fait ce qu'il fallait,
+{65903}{65958}j'ai appelé la clinique Ferriday.
+{65979}{66019}Ils sont venus la chercher.
+{66025}{66060}Tu les as appelés ?
+{66170}{66218}Tu es fière de toi au moins ?
+{66370}{66430}Je ne pensais pas te revoir si tôt.
+{66448}{66545}Dois-je attribuer ça à mon charme|et à ma personnalité ?
+{66588}{66681}Vous pouvez disposer,|Mlle Petrescu est une amie.
+{66720}{66737}Aura,
+{66763}{66801}tu es seule désormais.
+{66808}{66848}Je dois m'occuper de toi.
+{66863}{66960}Tout ne dépend que de toi.
+{66974}{67044}De ton bon vouloir|à regarder en toi
+{67050}{67125}et à affronter le passé.
+{67130}{67200}Je ne vous intéresse pas,|il y a autre chose.
+{67211}{67281}Je veux ton bien-être, c'est tout.
+{67296}{67383}Mais le secret...|se trouve là-dedans.
+{67437}{67484}N'aie pas peur.
+{67523}{67560}Vois-tu,
+{67578}{67660}la tête de chaque être humain
+{67715}{67765}abrite l'âme,
+{67773}{67853}la véritable énigme de l'univers.
+{67871}{67923}Regarde dans la tête,
+{67933}{67991}déverrouille la mémoire
+{67999}{68114}et on découvre l'univers|comme dans un livre ouvert.
+{68192}{68217}Aura,
+{68286}{68321}tu vois ça ?
+{68392}{68459}Ça t'aidera à te souvenir de tout.
+{68462}{68490}C'est quoi ?
+{68503}{68538}Une baie très rare.
+{68556}{68601}Un puissant psychotrope.
+{68608}{68650}Je ne veux pas de drogue.
+{68656}{68714}Cette substance|agit sur la mémoire,
+{68735}{68827}elle lève toutes les barrières.
+{68851}{68886}N'aie pas peur.
+{68895}{68960}Allez, prends-la.
+{69000}{69065}Ecrase la baie avec tes dents
+{69074}{69127}et avale le liquide.
+{69285}{69302}Allez.
+{69336}{69403}Voilà, écrase-la
+{69412}{69484}La puissance de ton cerveau|et de ton imagination
+{69490}{69545}dépasse celle d'un volcan.
+{71410}{71480}Je me souviens, c'était vous.
+{71493}{71545}Vas-y, continue.
+{71621}{71643}Je ne veux pas.
+{71992}{72037}Son visage.
+{72130}{72155}La tête...
+{72120}{72195}derrière celles de maman|et de papa.
+{72200}{72280}Le visage de qui ?|Tu l'as vu.
+{72308}{72338}Le visage de qui Aura ?
+{72361}{72406}Je n'ai rien vu.
+{72400}{72450}Je ne te crois pas.
+{72458}{72485}C'est la vérité.
+{73593}{73613}Je vous en prie,
+{73623}{73648}laissez-moi partir.
+{75976}{76004}Vas-y.
+{76067}{76102}Non, je vous en prie.
+{76210}{76247}Allons ma chérie,
+{76252}{76332}reste tranquille|ou je devrai recommencer.
+{76439}{76519}Si tu luttes, tu n'en resteras|que plus longtemps ici.
+{76672}{76694}Bonsoir.
+{76763}{76780}Allons.
+{76793}{76815}Je vous en prie.
+{77022}{77075}Allons chérie, reste tranquille.
+{77351}{77378}Voilà.
+{77416}{77451}C'est parti.
+{79649}{79716}Quelle est la chambre|d'Aura Petrescu ?
+{79736}{79759}Alors...
+{79765}{79845}Je ne peux pas vous le dire|et l'heure des visites est passée.
+{80134}{80227}Où t'étais ?|Et ne me raconte pas de bobards.
+{84270}{84295}C'est moi.
+{84335}{84362}Ça va ?
+{84373}{84423}- Ils m'ont droguée.|- Droguée ?
+{84479}{84511}D'où tu sors ça ?
+{84537}{84582}Je les ai volées.
+{84653}{84676}Bon.
+{84705}{84755}Attends-moi ici, d'accord ?
+{84760}{84818}Attends-moi ici.|Ça va aller ?
+{84859}{84889}Reste ici.
+{85617}{85644}Tu as fait ça.
+{87680}{87718}La clinique Ferriday
+{87722}{87822}a vécu une décapitation|après celles qui ont terrorisé...
+{87828}{87848}Aura.
+{87892}{87907}Viens.
+{87928}{87998}Il y a eu un meurtre à la clinique.|Je le savais.
+{88021}{88059}C'était mon infirmière.
+{88078}{88110}Ton infirmière ?
+{88153}{88241}L'assistante du Dr Judd.|C'est elle qui m'a droguée.
+{88261}{88321}Tu as vu|ou entendu quelque chose ?
+{88599}{88659}Où que j'aille|les gens se font tuer.
+{88691}{88776}Arrête, tu n'es pas responsable|de sa mort.
+{88781}{88861}Le directeur, le Dr Judd,|ne s'est pas encore exprimé.
+{88876}{88919}Tu n'es pas un assassin
+{88954}{88984}mais une voleuse.
+{89118}{89163}Ce sont ses clés.
+{89225}{89267}Tout est de ma faute.
+{89424}{89506}"Marigold"|je connais, c'est un entrepôt.
+{89794}{89872}Arrête la télévision|et va te coucher.
+{89876}{89933}Tu dois dormir|quand je rentrerai.
+{89950}{90010}Tu n'as pas peur|de te coucher tout seul ?
+{90040}{90093}Au revoir, je t'aime.
+{91632}{91710}Il tenait la tête|devant son visage.
+{91757}{91830}Je n'ai pas pu le voir,|c'est la vérité.
+{92170}{92193}Les flics sont peut-être là.
+{92218}{92278}Impossible,|ils ne sont pas au courant.
+{92286}{92319}Ça ne saurait tarder.
+{92325}{92375}En fouillant son appartement
+{92380}{92407}ils trouveront.
+{92465}{92490}Ne traînons pas.
+{92578}{92691}Celle qui loue ces locaux|les a depuis sept ou huit ans.
+{92709}{92771}Je peux compter ses apparitions
+{92789}{92824}sur les doigts de la main.
+{93821}{93848}Les flics. Filons.
+{93875}{93910}Allez, dépêche-toi
+{93962}{93997}Attends, la clé.
+{94001}{94024}Laisse-la aux flics.
+{94078}{94171}C'est curieux|tous ces gens sont morts.
+{94201}{94228}Mon Dieu...
+{94248}{94301}Une, deux, trois, toutes mortes.
+{94348}{94418}"Chère Hilda,|en souvenir de nos frasques,
+{94423}{94451}"Love, Linda."
+{94488}{94508}Ça doit être elle.
+{94577}{94635}"Linda Quirk, 992 Benton Road."
+{94640}{94675}Elle habite près d'ici.
+{94693}{94731}Du moins "elle habitait".
+{94747}{94762}C'est quoi ça ?
+{94835}{94863}Un symbole
+{94867}{94907}ou un écusson.
+{94914}{94969}A mon avis|le docteur est le meurtrier.
+{94983}{95026}Pourquoi pas elle ?
+{95040}{95088}Elle n'en a pas l'air.
+{95105}{95148}Ça ne veut rien dire.
+{95154}{95194}N'importe qui peut tuer.
+{95251}{95294}J'envoie ça demain à la police,
+{95310}{95342}anonymement.
+{95360}{95407}Il sera peut-être trop tard.
+{95492}{95537}Je l'ai connue Alice.
+{95546}{95634}Georgia et Katherine aussi.|C'est ce qui m'effraie.
+{95647}{95682}On était ensemble.
+{95686}{95706}Quand ?
+{95721}{95753}Lors de l'accident.
+{95769}{95804}Avant de me connaître ?
+{95836}{95886}La thérapie électro-convulsive
+{95915}{95950}était ma spécialité.
+{95980}{96007}Les électrochocs ?
+{96040}{96097}Je croyais posséder|la méthode à fond
+{96114}{96169}et savoir faire oublier aux gens.
+{96196}{96236}Quirk, Quirk...
+{96306}{96373}J'ai trouvé, il y a une L.Quirk
+{96377}{96425}mais à une autre adresse.
+{96429}{96486}Pourquoi ?|Qu'est-ce que vous avez fait ?
+{96502}{96532}Quelque chose
+{96555}{96585}d'épouvantable.
+{96652}{96697}On a cru pouvoir s'en tirer.
+{96832}{96862}Linda Quirk ?
+{96868}{96900}Ne quittez pas.
+{96918}{96978}C'est un type, il te demande.
+{97105}{97155}Je cherche une Linda Quirk.
+{97174}{97209}Qui êtes-vous ?
+{97214}{97279}Vous avez connu|Hilda Volkman ?
+{97377}{97392}Raccroché.
+{97419}{97449}Rappelle.
+{97842}{97877}C'est sûrement elle.
+{97944}{97966}Faut y aller.
+{98018}{98033}Les voilà
+{98091}{98106}Ce sont elles
+{98338}{98376}Arrêtez-vous
+{98389}{98439}Qu'est-ce que vous me voulez ?
+{98444}{98481}Juste vous parler.
+{98550}{98577}David
+{99210}{99278}Et merde.|Je l'ai perdue de vue.
+{99292}{99337}On devrait tourner à gauche.
+{99394}{99427}Alors à droite.
+{99819}{99869}Merde. On l'a perdue
+{99873}{99903}Fais demi-tour.
+{100625}{100670}Elle est là
+{100675}{100735}- C'est ça, parfait.|- Je le savais.
+{102125}{102158}On voit sa voiture d'ici.
+{102234}{102279}Il va pleuvoir à ton avis ?
+{102300}{102320}Il fait beau,
+{102321}{102364}ça ne risque sûrement pas.
+{102464}{102504}Linda, c'est toi ?
+{102511}{102548}Dieu merci tu vas bien.
+{102551}{102639}Je suis à l'hôtel.|Viens vite m'y retrouver.
+{102646}{102711}Calme-toi.|Je crois que tu as paniqué.
+{102712}{102747}C'étaient deux gamins.
+{102759}{102832}Pas dangereux du tout.|Tu dramatises.
+{102836}{102876}Je ne les connais pas
+{102876}{102958}mais je suis en danger|et tu l'es aussi chez moi.
+{102959}{103012}Viens me retrouver ici.
+{103018}{103073}On devrait prévenir la police.
+{103087}{103120}On en discutera ensemble.
+{103127}{103174}Entendu. Tu es où ?
+{103175}{103258}The Hopkins House, chambre 301.
+{103270}{103302}Près de l'aéroport.
+{103330}{103375}- J'arrive.|- Sois prudente.
+{104895}{104922}David ?
+{104951}{104978}Quoi ?
+{104985}{105075}Rien, je voulais m'assurer|que tu étais toujours là.
+{105399}{105439}Bien sûr que je suis là.
+{105470}{105492}Va-t'en.
+{105503}{105521}Pourquoi ?
+{105526}{105568}Je ne veux pas t'arroser.
+{106002}{106044}Oui, qu'elle monte.
+{109251}{109281}Lloo...
+{109320}{109355}Lloyd.
+{109907}{109934}C'est le Dr Lloyd.
+{109952}{110004}Il exerce toujours ici ?
+{110008}{110088}Non, il est parti d'ici|il y a longtemps.
+{110105}{110200}Il est venu il y a quelques années,|dans un sale état.
+{110231}{110316}Probablement pour faucher|des bricoles au dispensaire.
+{110321}{110366}Si je me fais comprendre...
+{110370}{110402}Oui, je comprends.
+{110417}{110452}Où on peut le trouver ?
+{110457}{110554}J'ai appris qu'il vivait|dans le secteur des entrepôts.
+{110559}{110629}Vous devriez chercher|dans les bars.
+{110636}{110683}Entendu, merci.
+{111176}{111226}Hilda Volkman,|elle travaillait ici.
+{111287}{111314}Linda Quirk...
+{111317}{111367}Harry, je connais ces femmes.
+{111373}{111413}Dis-moi qui est ce type.
+{111418}{111456}Le docteur Lloyd...
+{111487}{111562}C'est drôle,|un jeune est passé tantôt
+{111571}{111604}avec la même photo.
+{111611}{111636}Tu lui as dit quoi ?
+{111645}{111675}D'aller aux entrepôts.
+{112808}{112830}Qu'est-ce que tu me veux ?
+{112835}{112863}Docteur Lloyd ?
+{112868}{112928}Dans une autre vie ça se peut.
+{112939}{112974}Dis, tu as du fric ?
+{112980}{113043}Non mais Linda Quirk,|Hilda Volkman,
+{113048}{113098}ça vous dit quelque chose ?
+{113104}{113159}- Duran, Jackson...|- Lâche-moi.
+{113164}{113191}Elles sont mortes.
+{113195}{113250}Il en meurt tous les jours.
+{113256}{113294}Elles ont été décapitées.
+{113300}{113320}Quoi ?
+{113326}{113391}On les a toutes décapitées.
+{113398}{113471}C'est pas possible,|j'y suis pour rien.
+{113474}{113516}Docteur, vous devez parler.
+{113550}{113582}Il est trop tard.
+{113615}{113647}Vous savez quelque chose.
+{113652}{113745}Je sais rien|Maintenant, fous-moi la paix
+{113807}{113882}C'est mon numéro,|n'hésitez pas à m'appeler.
+{119454}{119514}C'était un chouette quartier...
+{119540}{119640}On a trouvé que ça sur lui.|Un numéro de téléphone.
+{119656}{119686}"David".
+{119771}{119796}C'est quoi ?
+{120066}{120086}Réveille-toi.
+{120126}{120146}Aura ?
+{120195}{120222}Allez Aura.
+{120386}{120416}Viens avec moi.
+{121248}{121288}Arrêtez. Police.
+{122124}{122159}Je l'aimais.
+{122169}{122207}Je l'aimais.
+{122682}{122717}Venez voir ça les gars.
+{122758}{122823}Stop, le périmètre est bouclé.
+{122831}{122889}Dégagez,|le périmètre est bouclé.
+{123424}{123446}Aura ?
+{123746}{123856}"Cher David, je vais rejoindre|ma mère. Je t'aime."
+{124551}{124584}Reviens
+{124984}{125024}Aura, tu es où ?
+{126307}{126330}Sauvez-la...
+{126344}{126367}Qu'est-ce qu'il dit ?
+{126370}{126415}Il a dit "Sauvez-la".
+{126421}{126458}Il est un peu tard.
+{126480}{126510}Sauvez-la...
+{126584}{126637}La terreur qui paralysait la ville
+{126643}{126708}a pris fin|lorsqu'une Cadillac dernier modèle
+{126712}{126817}a franchi en force un barrage|de police près du lac Veronica.
+{126833}{126923}Son chauffeur, le Dr Judd,|est mort sur le coup.
+{126928}{127038}Les sept têtes|étaient dans le coffre de sa voiture.
+{127042}{127137}Notre reporter a interviewé|le chef de la police.
+{127150}{127210}Capitaine,|le Dr Judd était le tueur ?
+{127227}{127299}Ce qu'on a découvert|le prouve sans aucun doute.
+{127305}{127338}Ses motivations ?
+{127347}{127442}Il avait apparemment une obsession|morbide pour l'occultisme.
+{127446}{127496}Je ne vois pas d'autre motivation.
+{127502}{127559}Vous allez poursuivre l'enquête ?
+{127565}{127635}En ce qui me concerne|l'affaire est close.
+{127661}{127699}Qu'est-ce qui a poussé
+{127703}{127753}le Dr Judd, brillant psychiatre,
+{127760}{127803}spécialiste de l'anorexie
+{127808}{127905}et directeur de clinique|à commettre ces crimes ?
+{127920}{127968}Qu'avaient en commun|les victimes ?
+{127975}{128010}Partageaient-elles un secret
+{128014}{128097}qui les a menées|vers ce funeste destin ?
+{128104}{128229}Ces questions et d'autres seront|posées dans notre édition spéciale.
+{128232}{128284}Une chose est certaine,
+{128289}{128344}le cauchemar a pris fin.
+{129070}{129107}Passez-moi Grace Harrington.
+{129180}{129245}Grace ?|C'est moi, David.
+{129282}{129325}Il me faut ces formulaires.
+{129366}{129406}Je t'en prie Grace.
+{129451}{129471}Je t'en prie.
+{129490}{129535}Juste quelques-uns.
+{129586}{129636}C'est bon, parfait.
+{129680}{129705}Oui, parfait.
+{131086}{131106}Merci.
+{131192}{131222}Mike, viens voir.
+{131236}{131281}L'ordonnance est bidon.
+{131285}{131310}Hé toi.
+{131447}{131537}Ton ordonnance est bidon.|Alors rends-moi ça.
+{131563}{131601}Va te faire foutre
+{132102}{132144}Bien fait sale camé.
+{133429}{133446}Salut.
+{133490}{133538}Tu n'aurais pas vu|une fille en noir ?
+{133638}{133658}Sûr ?
+{133728}{133768}Je t'en serais reconnaissant.
+{134336}{134366}Excusez-moi.
+{134403}{134486}Je vous ai prise pour une autre,|avec un bracelet.
+{138159}{138186}Mon Dieu...
+{138386}{138411}Aura ?
+{138600}{138645}Nicholas...
+{139864}{139939}Vous m'avez prise pour Aura.|Ce n'est que moi.
+{139995}{140037}Vous vouliez voir Aura.
+{140651}{140678}J'étais sûr de te revoir.
+{140697}{140737}J'en étais sûre aussi.
+{140750}{140782}Où on est ?
+{140792}{140835}Chez ma mère.
+{140908}{140948}Alors c'était elle ?
+{140987}{141020}Elle est en vie ?
+{141082}{141127}Elle est où maintenant ?
+{141136}{141168}A l'étage.
+{141187}{141237}Vite, il faut faire vite.
+{141541}{141596}On va essayer|de la tenir à distance.
+{141713}{141748}On va essayer.
+{141978}{142003}Ça va ?
+{142312}{142349}Je ne pige toujours pas.
+{142366}{142451}Ta mère était morte.|Tu l'avais vue morte, non ?
+{142459}{142499}J'ai vu un cadavre
+{142533}{142643}mais ce n'était pas elle.|C'était celui d'une voisine.
+{142730}{142775}Elle a simulé sa mort.
+{142808}{142850}J'aurais dû le voir.
+{142857}{142949}Ça s'est passé|juste devant mon visage.
+{142970}{143010}Dans le noir j'ai cru
+{143016}{143054}voir plusieurs têtes.
+{143080}{143113}Il n'y avait en fait
+{143124}{143157}que celle de mon père.
+{143195}{143268}J'étais sûr|que Judd avait tué ta mère.
+{143274}{143371}Non, il n'a jamais tué personne.
+{143397}{143469}Mais il savait|qui était le meurtrier...
+{143527}{143549}maman.
+{146014}{146042}Au secours.
+{146058}{146098}A l'aide.
+{146132}{146177}Sortez-nous d'ici.
+{146268}{146311}Je peux pas croire que ta mère...
+{146318}{146341}Elle l'a fait.
+{146376}{146398}Elle a tué ton père ?
+{146463}{146493}Pourquoi ?
+{146512}{146540}Pourquoi ?
+{146626}{146643}Elle vient.
+{146877}{146900}Ote la chaîne.
+{146985}{147007}Fais pas ça.
+{147023}{147088}N'enferme pas ta mère dehors.
+{147105}{147177}Je ne te ferais jamais de mal,|tu le sais.
+{147188}{147233}Je ne t'écoute pas.
+{147297}{147337}Je ne te ferai pas de mal.
+{147380}{147405}Ote-la...
+{147465}{147515}Ote cette chaîne.
+{147538}{147570}Ote-la.
+{147616}{147646}Ote-la.
+{147657}{147687}Immédiatement.
+{147690}{147715}Immédiatement.
+{148069}{148099}Pourquoi vous faites ça ?
+{148436}{148494}J'ai cru pouvoir m'arrêter.
+{148498}{148518}Je t'en prie.
+{148566}{148601}Pourquoi les avoir tués ?
+{148613}{148643}Parce que...
+{148672}{148714}Nicholas...
+{148770}{148818}Poussez.|Allons, poussez.
+{148864}{148912}Allez, il faut pousser.
+{148955}{149008}Arrêtez avant que ça empire.
+{149847}{149877}Il faut l'aider.
+{149895}{149925}Il faut agir.
+{150160}{150230}Docteur,|il faut faire quelque chose.
+{150547}{150590}Acceptez de le faire.
+{151141}{151213}Ils ont cru|pouvoir me faire oublier.
+{151264}{151312}Mais Nicholas est venu
+{151329}{151394}et m'a ordonné de tuer tous ceux
+{151398}{151428}qui l'avaient tué.
+{151462}{151505}Et alors j'ai tué.
+{151534}{151577}Vous connaissez mon secret.
+{152129}{152177}Maman, non.
+{152710}{152743}Mlle Petrescu,
+{152758}{152805}j'aimerais vous interroger.
+{152928}{152978}Virez-moi ces journalistes.
+{153075}{153108}Vous connaissiez Judd.
+{153113}{153168}Qu'est-ce que vous pouvez me dire sur lui ?
+{153209}{153239}Le Dr Judd ?
+{153269}{153304}Dr Judd...
+{153444}{153494}Il travaillait avec votre mère ?
+{153529}{153549}Travaillait...
+{153646}{153674}Ils étaient amants ?
+{153721}{153749}Amants...
+{153850}{153903}Votre mère a commis ces meurtres ?
+{153913}{153940}Meurtres...
+{153951}{153988}Les a-t-elle tués ?
+{154110}{154145}Laissez-le.
+{154206}{154261}Aura, tout est fini.
+{154285}{154322}C'est moi, David.
+{154348}{154375}C'est fini.
+{154725}{154765}Je ne te ferai jamais de mal.
+{154818}{154863}Je t'ai cherchée partout.
+{154916}{154946}Je t'aime.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

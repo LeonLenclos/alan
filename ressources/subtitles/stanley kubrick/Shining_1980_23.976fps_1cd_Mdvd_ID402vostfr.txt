@@ -1,0 +1,1260 @@
+{4776}{4831}L'ENTREVUE
+{5040}{5100}J'ai rendez-vous avec M.Ullman.
+{5101}{5148}Je suis Jack Torrance.
+{5152}{5215}Première porte à gauche.
+{5664}{5684}M.Ullman ?
+{5687}{5717}Jack Torrance.
+{5722}{5775}Oh... Entrez donc.
+{5796}{5861}- Très heureux.|- Moi aussi, M.Ullman.
+{5863}{5900}Ma secrétaire, Susie.
+{5908}{5971}- Enchanté.|- Du mal à nous trouver ?
+{5973}{6045}Pas le moindre.|J'ai fait le trajet en 3 h 1/2.
+{6047}{6095}Excellent temps.
+{6100}{6140}Asseyez-vous, je vous prie.
+{6146}{6188}Mettez-vous à votre aise.
+{6191}{6224}Voulez-vous du café ?
+{6228}{6290}Si vous en prenez aussi, volontiers.
+{6321}{6364}Priez Bill Watson de nous rejoindre.
+{6661}{6689}M'man.
+{6747}{6837}Tu tiens à passer l'hiver|dans cet hôtel ?
+{6848}{6883}Bien sûr.
+{6887}{6935}Ce sera très amusant.
+{6978}{7031}Sans doute.
+{7034}{7139}En tout cas, y a guère de monde|avec qui jouer par ici.
+{7153}{7243}Je sais. Il faut un peu de temps|pour se faire des amis.
+{7275}{7333}Oui, sans doute.
+{7349}{7374}Et Tony ?
+{7378}{7438}Il a hâte de voir cet hôtel,|je parie.
+{7447}{7507}Pas du tout, Mme Torrance.
+{7515}{7575}Ne fais pas l'idiot, Tony.
+{7581}{7631}J'ai pas envie d'y aller.
+{7641}{7691}Pourquoi pas ?
+{7697}{7750}Parce que.
+{7762}{7822}Nous verrons bien.
+{7824}{7891}On va tous bien s'amuser.
+{7922}{7985}Bill, voici Jack Torrance.
+{7987}{8022}Bonjour, Bill.
+{8026}{8076}- Enchanté.|- De même.
+{8078}{8125}Venez vous asseoir, Bill.
+{8128}{8231}C'est Jack qui va avoir la charge|de l'Overlook cet hiver.
+{8233}{8306}Je voudrais que vous lui fassiez|faire le tour, après.
+{8310}{8333}Bon.
+{8347}{8394}Jack est enseignant.
+{8400}{8450}Ex-enseignant.
+{8452}{8492}Que faites-vous maintenant ?
+{8497}{8537}Je suis écrivain.
+{8541}{8631}J'enseignais surtout|à des fins alimentaires.
+{8632}{8682}Ça va vous changer|de l'enseignement.
+{8701}{8746}Je ne demande que ça.
+{8751}{8839}Nos gens à Denver l'ont chaudement|recommandé, et pour une fois...
+{8841}{8881}je partage leur avis.
+{8895}{8940}Bon, où en étions-nous ?
+{8942}{9007}J'allais vous dire...
+{9010}{9115}que la saison ici est|du 15 mai au 30 octobre.
+{9115}{9203}Nous fermons alors|jusqu'au mois de mai suivant.
+{9205}{9275}Puis-je savoir pourquoi ?
+{9276}{9363}Ce coin serait fabuleux|pour le ski.
+{9365}{9428}Tout à fait. Le problème,|c'est les frais énormes...
+{9433}{9496}que l'on aurait pour garder|la route de Sidewinder ouverte.
+{9508}{9551}Un tronçon de 40 km.
+{9555}{9615}Il y a six mètres de neige|en hiver.
+{9617}{9697}Il n'existe|aucun moyen raisonnable...
+{9699}{9746}de le dégager en permanence.
+{9748}{9808}En 1907, quand l'hôtel|a été construit...
+{9811}{9874}on ne s'intéressait pas|aux sports d'hiver.
+{9878}{9998}Le site a été choisi|pour son isolement et sa beauté.
+{10000}{10062}Pour ça, c'est réussi.
+{10065}{10095}C'est vrai.
+{10110}{10182}Vous a-t-on donné une idée...
+{10185}{10225}de la nature de vos tâches ?
+{10227}{10280}Juste une vue d'ensemble.
+{10338}{10403}Les hivers peuvent être|très rigoureux.
+{10405}{10490}L'essentiel est de conjurer|les dégâts onéreux...
+{10491}{10544}causes de dépréciation.
+{10546}{10606}Il s'agit d'alimenter la chaudière...
+{10609}{10706}desservant l'hôtel|selon une rotation quotidienne...
+{10710}{10777}de faire les réparations...
+{10778}{10848}afin que les éléments|n'aient pas de prise.
+{10874}{10929}Ça me semble faisable.
+{10936}{11011}Physiquement,|ce n'est pas exténuant.
+{11012}{11089}Ce qui, ici, peut devenir|éprouvant en hiver...
+{11091}{11159}c'est de se sentir isolé.
+{11182}{11297}Ça tombe à pic !|C'est exactement ce que je cherche.
+{11300}{11377}Je prépare|une nouvelle œuvre littéraire...
+{11385}{11465}et cinq mois de tranquillité,|c'est idéal.
+{11482}{11524}C'est une chance, Jack...
+{11532}{11610}car pour certaines personnes...
+{11611}{11656}la solitude...
+{11659}{11699}et l'isolement...
+{11719}{11777}peuvent devenir insupportables.
+{11793}{11833}Pas pour moi.
+{11843}{11923}Mais, votre femme et votre fils ?
+{11962}{11992}Ils adoreront.
+{12095}{12177}Avant que je vous confie à Bill...
+{12179}{12267}il y a autre chose,|dont je dois vous parler.
+{12267}{12302}Je ne tiens pas à dramatiser...
+{12306}{12371}mais c'est une chose...
+{12374}{12429}qui a fait réfléchir bien|des postulants.
+{12443}{12483}Vous m'intriguez.
+{12489}{12546}On ne vous a rien dit à Denver...
+{12549}{12647}de la tragédie survenue ici,|l'hiver 70 ?
+{12656}{12706}Je ne crois pas.
+{12767}{12809}Mon prédécesseur...
+{12826}{12906}avait engagé comme gardien|un certain Charles Grady.
+{12908}{12996}Il est arrivé avec sa femme|et ses deux filles.
+{12997}{13072}Il était réputé compétent,|avait de bonnes références.
+{13073}{13130}Et à en croire les gens,|il semblait...
+{13132}{13200}absolument normal.
+{13202}{13262}A un moment donné|au cours de l'hiver...
+{13265}{13355}il a dû être victime|d'une dépression nerveuse...
+{13356}{13416}Devenu fou...
+{13495}{13550}il a tué sa famille|avec une hache...
+{13578}{13693}a entassé les corps dans une chambre|de l'aile ouest, puis...
+{13708}{13801}il a placé le double canon|de son fusil dans sa bouche.
+{13825}{13870}La police...
+{13875}{13977}a attribué ça à ce qu'on appelait|"mal d'enfermement".
+{13977}{14052}Une forme de claustrophobie|qui se manifeste...
+{14057}{14159}quand les gens sont longtemps|enfermés ensemble.
+{14274}{14312}C'est là...
+{14316}{14353}une drôle d'histoire.
+{14382}{14419}Oui, certes.
+{14444}{14526}J'ai encore peine à croire|que ça s'est passé ici.
+{14531}{14573}Et pourtant, c'est vrai.
+{14615}{14715}Vous comprenez pourquoi|je vous en ai parlé.
+{14725}{14788}Cela va sans dire...
+{14797}{14860}et je vois aussi pourquoi|les gens de Denver...
+{14863}{14918}vous ont laissé ce soin.
+{14944}{15012}Évidemment,|certains peuvent craindre...
+{15014}{15116}de rester seuls,|là où une telle chose s'est produite.
+{15117}{15240}Soyez assuré, M.Ullman, que|pareille chose ne m'arrivera pas.
+{15240}{15332}Quant à ma femme...
+{15332}{15427}elle sera absolument fascinée|quand je lui raconterai.
+{15430}{15503}Elle adore...
+{15501}{15564}les films d'épouvante.
+{15677}{15769}Tony, tu crois|que papa sera engagé ?
+{15799}{15854}C'est déjà fait.
+{15864}{15956}Il va appeler Wendy|dans un instant pour lui dire.
+{16305}{16372}- Salut.|- Chéri, ça marche ?
+{16373}{16463}Du tonnerre ! Je suis à l'hôtel|et j'ai encore à faire.
+{16464}{16542}Je ne pense pas rentrer|avant 21 ou 22 heures.
+{16544}{16584}Tu es engagé ?
+{16587}{16652}Tout juste... Magnifique endroit.
+{16654}{16709}Danny et toi, vous en serez fous.
+{16742}{16812}Tony, pourquoi tu veux pas|aller à l'hôtel ?
+{16817}{16859}Je sais pas.
+{16885}{16972}Si, tu le sais. Dis-le-moi.
+{16983}{17036}Je veux pas.
+{17049}{17082}Je t'en prie.
+{17110}{17137}Non.
+{17144}{17196}Voyons, dis-le-moi.
+{17910}{17980}Ne bouge pas les yeux|que je puisse regarder.
+{18083}{18138}C'est bien. L'autre...
+{18171}{18206}Bien, mon garçon.
+{18382}{18415}Dis-moi, Danny...
+{18425}{18475}quand tu te brossais les dents...
+{18481}{18556}as-tu senti une drôle d'odeur...
+{18558}{18675}ou vu des lumières brillantes|ou quelque chose ?
+{18793}{18855}Tu te souviens|que tu te brossais les dents ?
+{18924}{19014}Et tout de suite après,|de quoi te souviens-tu ?
+{19113}{19178}Ma maman qui disait :|"Réveille-toi, Danny."
+{19276}{19331}Tu te souviens|de ce que tu faisais...
+{19334}{19409}juste avant de te brosser|les dents ?
+{19465}{19508}Je parlais à Tony.
+{19522}{19582}C'est une de tes peluches ?
+{19603}{19675}Non. C'est un petit garçon|qui habite dans ma bouche.
+{19679}{19739}C'est son ami imaginaire.
+{19806}{19891}Si tu ouvrais la bouche,|je pourrais le voir ?
+{19953}{19983}Pourquoi ?
+{20013}{20058}Il se cache.
+{20073}{20115}Où va-t-il ?
+{20140}{20185}Dans mon ventre.
+{20232}{20302}Tony te dit de faire des choses,|parfois ?
+{20399}{20466}Je ne veux plus en parler.
+{20524}{20562}Ça ne fait rien.
+{20578}{20623}Très bien, Danny.
+{20640}{20710}Veux-tu me faire plaisir...
+{20712}{20797}et rester bien sagement|au lit aujourd'hui ?
+{20798}{20826}Je suis obligé ?
+{20832}{20887}Oui. J'aimerais bien.
+{20889}{20959}Nous allons parler|dans la pièce à côté.
+{20961}{21014}Je reviens te voir.
+{21218}{21275}- Dans le salon ?|- Oui.
+{21502}{21609}Madame Torrance, vous n'avez|aucune inquiétude à avoir.
+{21608}{21711}Je suis certaine que Danny n'a rien,|physiquement.
+{21820}{21900}Il a l'air d'aller très bien.
+{21901}{21924}Mais si vous l'aviez vu...
+{21939}{21964}Je sais.
+{21971}{22013}Avec les enfants,|on peut avoir très peur.
+{22016}{22089}Mais croyez-moi, ce genre|de syncope n'est pas rare.
+{22088}{22153}Et ça a l'air plus grave|que ça ne l'est.
+{22163}{22230}Mais qu'est-ce qu'il a eu ?
+{22231}{22334}Il n'y a souvent aucune explication|à ces évanouissements.
+{22335}{22405}Ils sont provoqués|par des facteurs émotionnels...
+{22407}{22454}et se reproduisent rarement.
+{22471}{22546}Cela se rapproche de|l'auto-hypnose...
+{22548}{22621}une sorte de transe|auto-provoquée.
+{22622}{22672}Si cela se reproduit,|et j'en doute...
+{22691}{22769}nous pourrons toujours envisager|quelques examens.
+{22828}{22885}Vous avez sûrement raison.
+{22922}{22990}Vous êtes à Boulder|depuis longtemps ?
+{23006}{23038}Depuis trois mois.
+{23042}{23127}Nous sommes du Vermont.|Mon mari y était instituteur.
+{23172}{23267}L'ami imaginaire de Danny...
+{23296}{23396}Tony est-il apparu|après votre arrivée ici ?
+{23466}{23501}Voyons...
+{23516}{23579}Je crois que Danny a commencé|à parler à Tony...
+{23581}{23648}quand nous l'avons mis|à la maternelle.
+{23655}{23713}Il s'y est bien adapté ?
+{23763}{23813}Ça ne lui plaisait pas,|au début.
+{23816}{23898}Puis il s'est blessé,|alors il est resté à la maison...
+{23929}{24027}C'est à ce moment que j'ai remarqué|qu'il parlait à Tony.
+{24047}{24107}Qu'est-ce qu'il s'était fait ?
+{24120}{24173}Il s'est démis l'épaule.
+{24183}{24241}Comment a-t-il fait ?
+{24320}{24397}Ce sont des choses qui arrivent.
+{24398}{24448}Par accident.
+{24469}{24539}Mon mari avait bu...
+{24541}{24626}et il est rentré|avec trois heures de retard.
+{24629}{24742}Il n'était pas de très bonne|humeur, ce soir-là.
+{24756}{24876}Danny avait éparpillé ses copies|de l'école dans toute la pièce...
+{24876}{24983}et mon mari l'a attrapé|par le bras, pour l'en éloigner.
+{24983}{25058}Exactement comme on fait,|si souvent avec les enfants...
+{25060}{25113}au parc ou dans la rue.
+{25135}{25202}Mais cette fois-là...
+{25204}{25269}mon mari y a mis trop de force...
+{25271}{25336}et lui a démis l'épaule.
+{25408}{25520}Mais ça a servi à quelque chose,|parce qu'il m'a dit :
+{25519}{25584}"Wendy, je ne boirai plus|une goutte de ma vie.
+{25587}{25637}Et si ça m'arrive,|laisse-moi tomber."
+{25640}{25673}Il a tenu parole.
+{25676}{25788}Il n'a pas bu d'alcool|depuis cinq mois.
+{25802}{25887}JOUR DE LA CLÔTURE ANNUELLE
+{26426}{26531}On doit être vraiment très haut.|L'air est bien plus vif.
+{26664}{26694}Papa ?
+{26759}{26801}J'ai faim.
+{26843}{26913}Fallait manger au petit-déjeuner.
+{26930}{27003}On te donnera quelque chose|à l'hôtel.
+{27077}{27180}C'est par ici que la neige|a bloqué le groupe Donner ?
+{27219}{27304}C'était plus à l'ouest.|Dans les Sierras.
+{27336}{27396}Qui c'est, le groupe Donner ?
+{27441}{27549}Des pionniers dans les chariots|de la ruée vers l'or.
+{27551}{27633}Bloqués par la neige,|dans la montagne...
+{27635}{27738}ils eurent recours|au cannibalisme pour survivre.
+{27762}{27834}Ils se sont mangés entre eux ?
+{27836}{27914}Il a bien fallu, pour rester en vie.
+{27915}{27945}Jack...
+{27951}{27976}T'en fais pas.
+{27979}{28089}Le cannibalisme, je connais.|Je l'ai vu à la télé.
+{28090}{28155}Tu vois, aucun danger.
+{28156}{28216}Il a vu tout ça à la télévision.
+{28950}{28997}- Décollage ?|- 20h30.
+{29001}{29069}Ça nous donne le temps|de tout passer en revue.
+{29123}{29200}Bonjour, Jack.|Vous n'avez pas trop attendu ?
+{29202}{29267}Non. Ça nous a permis|de manger un morceau.
+{29270}{29345}Juste avant qu'on ferme la cuisine.
+{29345}{29388}Votre famille visite les lieux ?
+{29392}{29477}Non, mon fils a découvert|le salon de jeux.
+{29478}{29555}- A-t-on apporté vos bagages ?|- Là-bas.
+{29566}{29614}Vu l'espace que nous avons|à parcourir...
+{29617}{29709}allons voir votre appartement,|et ensuite, en route.
+{29709}{29779}Bill, qu'on porte les bagages|chez les Torrance.
+{29782}{29847}Je vais chercher ma petite famille.
+{30040}{30100}Ça, c'est notre salon Colorado.
+{30103}{30163}Oh, il est magnifique.
+{30220}{30282}Cet endroit est fantastique,|hein, chéri ?
+{30285}{30320}Certes.
+{30323}{30393}Je n'ai jamais rien vu de pareil.
+{30428}{30478}Les dessins indiens|sont authentiques ?
+{30481}{30516}Ils s'inspirent...
+{30520}{30600}principalement de motifs|navajos et apaches.
+{30602}{30652}Ils sont splendides.
+{30655}{30680}D'ailleurs...
+{30683}{30761}c'est l'hôtel le plus splendide|que j'aie jamais vu.
+{30767}{30842}Cette vieille baraque|a un passé illustre.
+{30844}{30921}Au temps de sa gloire, c'était un des lieux|préférés de la jet-set...
+{30923}{30998}avant même que le mot|soit inventé.
+{31000}{31075}Nous avons eu quatre présidents.
+{31079}{31111}Beaucoup de stars.
+{31115}{31153}Des rois, des reines ?
+{31161}{31196}Les gens les plus huppés.
+{32467}{32532}Ceci est l'aile du personnel.
+{32553}{32636}Aucune autre chambre n'est chauffée.
+{32714}{32764}Et voici votre appartement.
+{32771}{32836}Salle de séjour,|chambre, salle de bains.
+{32838}{32900}Et la chambre de votre fils.
+{32984}{33034}Parfaite pour lui.
+{33205}{33293}Bien. C'est un logement|très bien conçu.
+{33293}{33333}Facile d'entretien.
+{33396}{33424}Confortable.
+{33428}{33485}Très confortable,|pour une famille.
+{33487}{33530}Si vous avez envie|de vous étaler...
+{33534}{33599}vous pouvez vous installer|n'importe où dans l'hôtel.
+{33637}{33700}Eh bien, c'est très...
+{33708}{33741}familial.
+{33808}{33866}Voilà notre célèbre labyrinthe.
+{33869}{33976}Une attraction locale.|Les parois ont 4 m de haut...
+{33976}{34034}et la haie a le même âge|que l'hôtel.
+{34037}{34102}C'est très amusant,|mais je ne m'y aventurerais...
+{34104}{34179}que si j'avais une heure devant moi|pour trouver la sortie.
+{34209}{34261}Quand a-t-on bâti l'hôtel ?
+{34286}{34341}La construction|commencée en 1907...
+{34344}{34391}a été achevée en 1909.
+{34394}{34462}Le site, dit-on,|est celui d'un cimetière indien.
+{34463}{34503}Au cours des travaux...
+{34508}{34578}il y a eu des attaques|par les indiens.
+{34592}{34637}Voici notre chenillette.
+{34653}{34706}Vous savez conduire ?
+{34714}{34804}La chenillette se conduit|à peu près comme une auto.
+{34805}{34870}Vous vous y ferez vite.
+{34896}{34979}Nous avons fait venir un décorateur|de Chicago l'année passée...
+{34981}{35061}pour refaire cette partie|de l'hôtel.
+{35064}{35111}Il a fait du beau travail.
+{35113}{35173}Rose et or,|ce sont mes couleurs préférées.
+{35190}{35248}Voici le Salon d'Or.
+{35284}{35316}Ça, alors !
+{35319}{35412}On peut y recevoir 300 personnes|sans problème.
+{35423}{35495}On pourrait faire|une belle soirée dans cette pièce.
+{35496}{35591}Je crains que ça ne soit pas réussi|si vous n'arrivez pas équipés :
+{35592}{35667}nous enlevons les alcools,|quand nous fermons...
+{35669}{35747}pour réduire le coût|de l'assurance.
+{35748}{35773}Nous ne buvons pas.
+{35777}{35812}C'est une chance.
+{35816}{35921}Dick, venez dire bonjour|à M.et à Mme Torrance.
+{35921}{35976}Dick Hallorann,|le chef-cuisinier.
+{35979}{36046}M.Hallorann, moi c'est Jack.|Et ma femme, Winifred.
+{36047}{36077}Très heureux.
+{36080}{36153}Les Torrance auront la charge|de l'Overlook cet hiver.
+{36156}{36248}Bravo. Vous aimez l'hôtel ?
+{36248}{36296}Il est merveilleux.
+{36299}{36336}Danny !
+{36366}{36423}Je l'ai trouvé dehors.|Il vous cherchait.
+{36449}{36522}Tu t'es lassé|de bombarder l'univers ?
+{36553}{36590}Viens.
+{36594}{36624}Merci, Susie.
+{36627}{36727}Montrez donc la cuisine|à Mme Torrance...
+{36728}{36773}pendant que je continue avec Jack.
+{36776}{36839}Avec plaisir. Par ici.
+{36841}{36878}Super.|A tout à l'heure, chéri.
+{36973}{37056}Mme Torrance, votre mari|vous a présentée comme Winifred.
+{37058}{37123}Vous appelle-t-on "Winnie"|ou "Freddie" ?
+{37124}{37154}C'est Wendy.
+{37158}{37238}Wendy. C'est bien.|C'est le plus joli nom.
+{37240}{37282}Ça, c'est la cuisine ?
+{37327}{37387}Elle te plaît, Danny ?|Assez vaste ?
+{37390}{37473}Oui. J'en ai jamais vu|d'aussi grande.
+{37476}{37534}Ce lieu est|un si énorme labyrinthe...
+{37536}{37626}qu'il me faudra tracer une piste|en miettes de pain.
+{37644}{37689}Ne vous frappez pas.
+{37691}{37754}C'est grand, mais ce n'est jamais|qu'une cuisine.
+{37759}{37814}Vous ne toucherez|à aucun ustensile.
+{37815}{37870}Je ne saurais pas m'en servir.
+{37873}{37951}Une chose est sûre,|vous ne mourrez pas de faim.
+{37953}{38070}Au cours d'une année, vous n'auriez|pas deux fois le même menu.
+{38070}{38148}Ici se trouve notre chambre froide.
+{38171}{38249}Nous y conservons nos viandes.
+{38251}{38301}Il y a 15 côtes de bœuf...
+{38303}{38358}des hamburgers par sacs|de 5 kilos...
+{38361}{38436}et aussi 12 dindes,|environ 40 poulets...
+{38438}{38515}50 faux-filets,|2 douzaines de rôtis de porc...
+{38516}{38591}et 20 gigots.|Tu aimes ça, Doc ?
+{38595}{38677}- Non.|- Alors, quel est ton plat préféré ?
+{38679}{38724}Frites et ketchup.
+{38742}{38792}On peut te trouver ça, Doc.
+{38794}{38837}Regarde où tu marches.
+{38999}{39036}Qui vous a dit|qu'on l'appelle "Doc" ?
+{39066}{39141}Vous l'avez appelé "Doc"|deux fois de suite.
+{39142}{39177}Ah oui ?
+{39195}{39272}Nous l'appelons "Doc" parfois|comme Bugs Bunny.
+{39273}{39306}Comment le saviez-vous ?
+{39309}{39371}J'ai dû vous entendre|l'appeler ainsi.
+{39374}{39432}Je ne me rappelle pas...
+{39435}{39490}l'avoir appelé ainsi devant vous.
+{39491}{39546}C'est vrai, il a l'air sérieux.
+{39578}{39615}Quoi de neuf, Docteur ?
+{39658}{39713}Et voici la resserre.
+{39751}{39798}Ici sont entreposées...
+{39801}{39871}l'épicerie et les conserves.
+{39873}{39933}Conserves de fruits, de légumes...
+{39936}{40031}de poisson et de viande.|Toutes sortes de céréales.
+{40032}{40112}Corn Flakes, flocons d'avoine,|Rice Crispies...
+{40113}{40216}farine d'avoine,|crème de riz et de blé.
+{40216}{40276}Une dizaine de pots de mélasse.
+{40279}{40359}60 caisses de lait en poudre.
+{40539}{40599}Tu aimes la glace, Doc ?
+{40655}{40705}Et des gâteaux secs.
+{40707}{40747}Tout ce qu'on veut...
+{40750}{40838}Des pêches et des abricots secs.
+{40839}{40916}Des raisins secs et des pruneaux.
+{40918}{41026}Il faut avoir une vie réglée|pour être heureux.
+{41090}{41130}- Ça va?|- A merveille.
+{41134}{41224}Je vous emprunte Mme Torrance|pour lui montrer le sous-sol.
+{41225}{41275}Ce ne sera pas long.
+{41277}{41357}Faites donc.|J'en étais au rayon des glaces.
+{41359}{41404}Tu aimes la glace, Doc ?
+{41424}{41449}Je m'en doutais.
+{41531}{41576}- Pas du tout.|- Non. C'est permis.
+{41594}{41634}Ça te plaît ?
+{41637}{41687}Tâche d'être sage.
+{41760}{41805}Tu préfères quel parfum ?
+{41808}{41830}Chocolat.
+{41834}{41909}Chocolat, c'est parti. Allons-y.
+{42014}{42064}C'est fou,|l'activité qui règne ici.
+{42068}{42136}Les clients et quelques employés|sont partis hier.
+{42140}{42175}Le dernier jour est très agité.
+{42178}{42256}Chacun veut filer dès que possible.
+{42258}{42358}Vers 1 7 h, vous croirez qu'il n'y a|jamais eu âme qui vive ici.
+{42359}{42411}Un vaisseau fantôme !
+{42542}{42617}Tu sais comment j'ai su ton surnom ?
+{42774}{42834}Tu sais de quoi je parle ?
+{42998}{43083}Je me rappelle que|lorsque j'étais gamin...
+{43093}{43155}ma grand-mère et moi|pouvions nous parler...
+{43157}{43255}sans jamais ouvrir la bouche.
+{43275}{43332}Elle appelait ça "Shining".
+{43366}{43433}Et j'ai longtemps cru|que nous étions les seuls...
+{43438}{43503}à avoir ce pouvoir.
+{43514}{43589}Comme toi,|tu as pu te croire le seul.
+{43602}{43647}Mais, il y en a d'autres...
+{43651}{43746}Quoique la plupart|l'ignorent ou n'y croient pas.
+{43852}{43915}Ça t'est venu quand ?
+{44036}{44096}Tu ne veux pas en parler ?
+{44219}{44271}J'en ai pas le droit.
+{44305}{44370}Qui dit ça ?
+{44450}{44485}Tony.
+{44531}{44571}Qui est Tony ?
+{44632}{44714}Le petit garçon|qui vit dans ma bouche.
+{44758}{44808}C'est Tony...
+{44810}{44850}qui te raconte des choses ?
+{44957}{45017}Comment s'y prend-il ?
+{45057}{45164}C'est comme si je m'endormais,|et il me montre des choses.
+{45165}{45268}Mais quand je me réveille,|je ne me rappelle pas tout.
+{45309}{45399}Maman et papa connaissent|l'existence de Tony ?
+{45477}{45540}Ils savent qu'il te dit des choses ?
+{45559}{45634}Non. Tony m'a défendu|de leur en parler.
+{45681}{45766}Tony a-t-il jamais fait allusion|à cet hôtel ?
+{45765}{45830}A l'Overlook ?
+{45907}{45947}Je sais pas.
+{45966}{46036}Réfléchis bien, Doc.
+{46136}{46203}Je crois qu'il m'a montré|quelque chose.
+{46225}{46290}Essaie de te rappeler.
+{46359}{46442}M.Hallorann, vous avez peur|de cet endroit ?
+{46512}{46567}J'ai peur de rien, ici.
+{46577}{46614}Simplement...
+{46632}{46702}certains lieux,|c'est comme les gens.
+{46718}{46761}Certains ont le shining...
+{46764}{46799}d'autres pas.
+{46828}{46881}On peut dire que l'Overlook...
+{46883}{46965}a quelque chose|qui ressemble au shining.
+{47035}{47095}Il y a des choses mauvaises ici ?
+{47374}{47434}Quand quelque chose se produit...
+{47437}{47527}ça peut laisser comme un sillage...
+{47542}{47579}comme...
+{47584}{47659}lorsque quelqu'un|laisse brûler un toast.
+{47706}{47824}Certains événements passés laissent|peut-être d'autres sortes de traces.
+{47848}{47933}Non des traces|que quiconque peut voir...
+{47934}{48054}mais des traces que seuls ceux|qui ont le shining perçoivent.
+{48075}{48158}Comme ils perçoivent|des choses à venir...
+{48210}{48313}et parfois des événements|d'un passé lointain.
+{48347}{48419}Il s'est passé bien|des choses ici-même...
+{48420}{48510}précisément dans cet hôtel,|au cours des années...
+{48521}{48581}pas toutes recommandables.
+{48658}{48723}Et la chambre 237 ?
+{48803}{48858}La chambre 237 ?
+{48886}{48964}La chambre 237|vous fait peur, hein ?
+{49000}{49038}Pas du tout.
+{49072}{49167}Qu'est-ce qu'il y a|dans la chambre 237 ?
+{49196}{49231}Rien.
+{49240}{49320}Il n'y a rien|dans la chambre 237.
+{49322}{49402}Et tu n'as rien à y faire,|de toute façon.
+{49403}{49458}Donc n'y entre pas !
+{49460}{49523}Tu as compris ? N'y entre pas !
+{49585}{49648}UN MOIS PLUS TARD
+{51904}{51946}Bonjour, chéri.
+{51992}{52037}Petit-déjeuner !
+{52052}{52094}Quelle heure est-il ?
+{52097}{52142}Environ 11 h et demie.
+{52162}{52227}1 h et demie... Ça alors !
+{52248}{52308}On se couche trop tard.
+{52313}{52348}Je sais.
+{52380}{52450}Des œufs au plat,|comme tu les aimes.
+{52455}{52495}C'est gentil.
+{52547}{52592}Il fait beau.
+{52596}{52676}Emmène-moi faire un tour|quand tu auras déjeuné.
+{52687}{52795}Il vaudrait mieux|que je me mette à écrire.
+{52825}{52865}Tu as des idées ?
+{52888}{52931}Des tas d'idées.
+{52934}{52971}Aucune de bonne.
+{52981}{53043}Ça va venir.
+{53053}{53150}Il faut reprendre l'habitude|d'écrire chaque jour.
+{53169}{53229}Oui, ça ne tient qu'à ça.
+{53277}{53335}C'est chouette, ici, non ?
+{53342}{53377}J'adore.
+{53388}{53428}Vraiment.
+{53448}{53525}Je ne me suis jamais senti|aussi heureux et détendu.
+{53526}{53619}C'est fou ce qu'on s'habitue vite|à un endroit aussi grand.
+{53619}{53694}D'abord, quand on est arrivés...
+{53696}{53748}je l'ai trouvé plutôt effrayant.
+{53757}{53822}Moi, je l'ai tout de suite aimé.
+{53836}{53906}Quand je suis venu|pour l'entrevue...
+{53913}{54008}c'est comme si j'étais déjà venu.
+{54008}{54073}Nous avons tous eu des impressions|de vie antérieure...
+{54074}{54129}mais à ce point...
+{54147}{54192}Presque comme si je savais déjà...
+{54195}{54290}à chaque détour,|ce que j'allais voir.
+{55180}{55223}Tu vas perdre.
+{55228}{55306}Je te rattraperai... Cours vite !
+{55422}{55452}Attention...
+{55456}{55501}je me rapproche.
+{55503}{55565}C'est toi qui seras de corvée.
+{55634}{55669}Bon. Danny, tu as gagné.
+{55676}{55733}On continue en marchant.
+{55793}{55828}Donne la main.
+{55889}{55934}Oh, que c'est beau.
+{56359}{56392}Un cul de sac.
+{57769}{57809}On a réussi.
+{57820}{57852}C'est génial, non ?
+{58367}{58415}C'est si joli.
+{58526}{58601}Je ne le croyais pas si grand.|Et toi ?
+{58658}{58723}MARDI
+{58864}{58924}Rutherford était condamné à vie...
+{58926}{58971}pour un meurtre commis en 1968.
+{58974}{59071}Les recherches continuent,|pour la jeune femme d'Aspen.
+{59072}{59155}Cela fait 10 jours que|Susan Robertson, 24 ans, a disparu.
+{59158}{59226}Elle a disparu lors d'une partie|de chasse avec son mari.
+{59228}{59298}Les recherches risquent|d'être suspendues...
+{59301}{59363}car une tempête de neige|s'annonce pour demain.
+{59365}{59413}Il fait si beau à Denver...
+{59416}{59468}qu'on a du mal à croire|à l'imminence d'une tempête.
+{59470}{59528}J'ai envie d'aller m'étendre|au soleil...
+{59530}{59632}et pourtant au nord, à l'ouest,|c'est la neige et le froid.
+{59633}{59663}Et cela se rapproche...
+{59666}{59746}ici, vers le Colorado,|en ce moment même. C'est incroyable.
+{63304}{63339}Chéri...
+{63425}{63460}Ça avance ?
+{63521}{63549}Oui.
+{63600}{63637}Beaucoup écrit ?
+{63807}{63869}La météo annonce|qu'il va neiger, ce soir.
+{63993}{64048}Que veux-tu que j'y fasse ?
+{64100}{64155}Oh, je t'en prie.
+{64159}{64209}Ne sois pas grognon.
+{64216}{64251}Je ne suis pas...
+{64257}{64289}grognon.
+{64293}{64363}Je veux seulement finir|ce que je fais.
+{64444}{64501}Je comprends.
+{64506}{64571}Je reviendrai plus tard|t'apporter des sandwiches.
+{64579}{64639}Tu me laisseras lire un passage...
+{64712}{64739}Wendy...
+{64743}{64808}je vais t'expliquer quelque chose.
+{64828}{64925}Chaque fois que tu entres ici,|tu me déconcentres.
+{64925}{64960}Je perds le fil...
+{64964}{65052}et il me faut du temps|pour reprendre là où j'en étais.
+{65053}{65085}Tu saisis ?
+{65170}{65200}Bien.
+{65225}{65267}Établissons une nouvelle règle.
+{65270}{65308}Quand je suis ici...
+{65311}{65368}que tu m'entendes taper...
+{65411}{65484}ou non, quoi que je sois|en train de foutre ici...
+{65485}{65542}ça veut dire que je travaille...
+{65544}{65599}ça veut dire "n'entre pas".
+{65602}{65660}Peux-tu te plier à ça ?
+{65768}{65798}Parfait.
+{65821}{65903}Commence tout de suite|et fous le camp d'ici.
+{65987}{66022}D'accord.
+{66615}{66682}JEUDI
+{66759}{66791}Ça suffit, toi !
+{66827}{66869}Je sais que tu en as encore.
+{66920}{66945}Raté !
+{67078}{67098}J'en ai plus !
+{67102}{67147}Tu triches !
+{67848}{67915}SAMEDI
+{68765}{68798}Je m'en doutais !
+{69523}{69611}IKDIK 12 appelle IKDIK 1 .
+{69666}{69759}KDK 12 à KDK 1.
+{69760}{69840}Ici IKDIK 1 .|Nous vous recevons. Terminé.
+{69847}{69924}Ici, Wendy Torrance|de l'Hôtel Overlook.
+{69935}{70005}Comment ça va pour vous, là-haut ?
+{70007}{70040}Très bien...
+{70046}{70106}mais nos téléphones|semblent en dérangement.
+{70108}{70186}Les lignes|seraient-elles coupées ?
+{70198}{70293}Certaines le sont|à cause de la tempête.
+{70295}{70375}Peuvent-elles être|bientôt réparées ?
+{70376}{70406}Que dire ?
+{70410}{70495}Parfois, elles restent coupées|jusqu'au printemps.
+{70504}{70589}Cette tempête,|c'est vraiment quelque chose...
+{70597}{70670}Une des plus terribles|qu'on ait eues.
+{70678}{70758}Pouvons-nous autre chose|pour vous ?
+{70767}{70822}Pas que je sache.
+{70835}{70917}Si vous avez le moindre ennui|là-haut, appelez-nous.
+{70917}{70950}Et, Mme Torrance...
+{70954}{71059}il serait bon de laisser|votre radio branchée en permanence.
+{71074}{71111}Je le ferai.
+{71114}{71167}J'ai eu plaisir à parler avec vous.
+{71169}{71234}Au revoir. Terminé.
+{72071}{72123}Bonjour, Danny.
+{72248}{72308}Viens jouer avec nous.
+{72423}{72493}Viens jouer avec nous, Danny.
+{72533}{72581}A jamais...
+{72622}{72664}à jamais...
+{72685}{72737}à jamais.
+{73491}{73531}Tony...
+{73552}{73602}j'ai peur.
+{73732}{73822}Rappelle-toi ce que disait|M.Hallorann.
+{73856}{73954}C'est comme des images|dans un livre.
+{73955}{74007}C'est pas pour de vrai.
+{74175}{74240}LUNDI
+{74275}{74322}Laissez-moi vous donner|de l'argent.
+{74326}{74376}Il n'en est pas question.
+{74382}{74412}Mais comment vous remercier ?
+{74435}{74482}Ça va. Vraiment.
+{74494}{74547}Je vais me faire un café.
+{74550}{74590}En voulez-vous ?
+{74629}{74657}Volontiers.
+{74661}{74708}Bien. Asseyez-vous.
+{74940}{75008}Merveilleux, ces beignets.|Servez-vous.
+{75044}{75106}Le café est presque prêt.
+{75191}{75273}Je peux aller chercher|ma voiture de pompiers ?
+{75307}{75374}Pas maintenant.|Papa dort.
+{75395}{75450}Je ferai pas de bruit.
+{75481}{75529}Allons, Doc.
+{75532}{75574}Il s'est couché très tard.
+{75577}{75622}Tu ne peux pas attendre ?
+{75625}{75703}Je ferai pas de bruit.|Je ferai tout doucement.
+{75777}{75809}D'accord.
+{75812}{75872}Mais vraiment ne fais pas de bruit.
+{75875}{75913}Promis, maman.
+{75931}{75973}Et reviens tout de suite...
+{75976}{76026}Je vais bientôt|préparer le déjeuner.
+{77292}{77372}Je peux aller prendre mon jouet ?
+{77460}{77515}Viens ici un instant.
+{78399}{78444}Comment ça va ?
+{78477}{78510}Très bien.
+{78549}{78594}Tu t'amuses ici ?
+{78643}{78680}Oui, papa.
+{78830}{78885}Je tiens à ce que tu t'amuses.
+{78899}{78939}Je m'amuse, papa.
+{79190}{79232}Tu es malade ?
+{79374}{79432}Juste un peu fatigué.
+{79468}{79530}Pourquoi tu vas pas te coucher ?
+{79614}{79654}Je ne peux pas.
+{79689}{79746}J'ai trop à faire.
+{79967}{80022}Tu aimes cet hôtel ?
+{80163}{80198}Bien sûr.
+{80221}{80253}Je l'adore.
+{80303}{80338}Pas toi ?
+{80395}{80430}Sans doute.
+{80495}{80525}Bon.
+{80600}{80657}Je veux que tu te plaises ici.
+{80750}{80835}Je souhaiterais pouvoir|y rester à jamais...
+{80836}{80881}à jamais...
+{80897}{80929}à jamais.
+{81056}{81084}Quoi ?
+{81113}{81190}Tu nous ferais pas du mal,|à maman et à moi ?
+{81319}{81356}Où as-tu pris ça ?
+{81477}{81542}Est-ce que ta mère t'a dit ça...
+{81555}{81600}que je te ferais du mal ?
+{81618}{81651}Non, papa.
+{81702}{81742}Tu es sûr ?
+{81751}{81789}Oui, papa.
+{81905}{81955}Je t'aime, Danny.
+{81983}{82048}Tu m'es plus précieux|que n'importe quoi...
+{82049}{82114}au monde...
+{82131}{82206}et jamais je ne pourrais|te faire du mal...
+{82211}{82241}jamais !
+{82261}{82314}Tu sais cela, n'est-ce pas ?
+{82322}{82360}Oui, papa.
+{82382}{82409}Bien.
+{82457}{82497}MERCREDI
+{84518}{84563}Maman ?|Tu es là-dedans ?
+{86459}{86484}Que s'est-il passé ?
+{86539}{86576}Qu'est-ce qui ne va pas ?
+{86770}{86805}J'ai fait...
+{86808}{86873}le plus horrible cauchemar...
+{86918}{86990}- Le rêve le plus abominable.|- Calme-toi.
+{87016}{87051}C'est fini, maintenant.
+{87153}{87190}J'ai rêvé que...
+{87195}{87255}je vous tuais, toi et Danny.
+{87317}{87372}Ce n'est pas tout...
+{87403}{87471}Je vous découpais|en petits morceaux.
+{87586}{87651}Je dois être en train|de perdre la raison.
+{87704}{87769}Tout ça va s'arranger.
+{87816}{87884}Debout.
+{88069}{88126}Ne restons pas par terre.
+{88329}{88359}Danny !
+{88366}{88413}Tout va bien...
+{88415}{88495}Va jouer un moment|dans ta chambre.
+{88500}{88552}Ton papa a la migraine.
+{88582}{88657}Danny,|va jouer dans ta chambre !
+{88825}{88910}Danny, pourquoi n'obéis-tu pas ?
+{89067}{89112}Oh, Danny...
+{89139}{89199}qu'est-ce qu'on t'a fait au cou ?
+{89243}{89295}Qu'est-ce que tu as au cou ?
+{89988}{90038}C'est toi qui lui as fait ça...
+{90045}{90083}hein ?
+{90126}{90176}Salaud !
+{90180}{90225}C'est toi qui lui as fait ça !
+{90227}{90265}N'est-ce pas ?
+{90295}{90338}Comment as-tu pu ?
+{90341}{90383}Comment as-tu pu ?
+{92536}{92613}Que ne donnerais-je|pour un verre !
+{92676}{92746}Mon âme au diable...
+{92747}{92809}pour un verre de bière.
+{93167}{93205}Salut, Lloyd.
+{93288}{93348}C'est le désert, ce soir.
+{93461}{93518}En effet, M.Torrance.
+{93566}{93603}Qu'est-ce que ce sera ?
+{93641}{93716}Bien content|que vous me le demandiez...
+{93718}{93801}car j'ai justement deux billets|de 20 dollars...
+{93802}{93874}et deux de 10|dans mon portefeuille.
+{93875}{93958}Je craignais de les garder|jusqu'en avril.
+{93971}{94016}Alors, voilà...
+{94021}{94078}vous me filez une bouteille|de bourbon...
+{94083}{94153}un verre et de la glace.
+{94154}{94207}C'est possible ?
+{94214}{94274}Vous n'êtes pas débordé ?
+{94284}{94347}Non, monsieur, pas du tout.
+{94356}{94396}Brave garçon.
+{94401}{94428}Vous versez...
+{94435}{94505}et moi, je me les tape, Lloyd,|un par un.
+{94531}{94603}Péché de la race blanche, Lloyd...
+{94604}{94659}péché de la race blanche.
+{94804}{94831}Dites donc...
+{94834}{94902}il me semble être|momentanément à sec...
+{94909}{94969}On me fait crédit ici ?
+{94973}{95033}Le crédit que vous voulez.
+{95048}{95088}C'est chouette.
+{95091}{95133}Je t'aime bien, Lloyd.
+{95136}{95176}Et ça depuis toujours.
+{95182}{95239}Tu as toujours été le meilleur...
+{95241}{95301}le plus sympathique des barmen...
+{95304}{95377}de Tombouctou à Portland, Maine...
+{95378}{95433}Portland, Oregon, plutôt.
+{95443}{95483}Merci de le dire.
+{95541}{95653}A mes cinq misérables mois|d'abstinence...
+{95655}{95758}et aux dommages irréparables|ainsi causés.
+{96189}{96251}Comment va la vie,|M.Torrance ?
+{96280}{96345}Ça pourrait aller mieux.
+{96378}{96448}Ça pourrait aller|beaucoup mieux.
+{96467}{96524}Rien de grave, j'espère.
+{96593}{96643}Rien de grave.
+{96680}{96745}Juste un petit problème...
+{96747}{96825}avec ma banque à sperme,|là-haut.
+{96829}{96934}Mais pas dramatique.
+{96941}{96966}Les femmes.
+{96970}{97007}On peut pas vivre avec...
+{97011}{97059}et on peut pas vivre sans.
+{97134}{97171}La voix de la raison, Lloyd.
+{97175}{97213}La voix...
+{97215}{97252}de la raison.
+{97527}{97609}Je n'ai jamais frappé le gosse,|bordel !
+{97610}{97650}Je le jure.
+{97696}{97811}Je ne toucherais pas à un cheveu|de sa foutue petite tête.
+{97824}{97901}Je l'adore,|ce petit fils de pute.
+{97936}{98006}Je ferais n'importe quoi|pour lui.
+{98008}{98078}N'importe quoi !
+{98174}{98239}Mais cette pétasse...
+{98260}{98300}jamais...
+{98305}{98393}elle ne me laissera oublier|ce qui s'est passé.
+{98620}{98690}Je lui ai fait mal une fois,|d'accord.
+{98697}{98747}Mais c'était un accident...
+{98751}{98816}absolument involontaire.
+{98845}{98900}Ça peut arriver.
+{98941}{99026}Et il y a trois|bon Dieu d'années de ça...
+{99029}{99099}Le petit Jean-foutre|avait éparpillé mes cahiers.
+{99101}{99164}J'ai voulu l'écarter.
+{99225}{99343}Une perte momentanée|de coordination musculaire.
+{99345}{99375}Disons...
+{99389}{99477}quelques kilos|d'excédent d'énergie...
+{99477}{99549}par seconde, par seconde...
+{99932}{99979}Dieu merci tu es là !
+{100019}{100111}Jack, il y a quelqu'un d'autre|dans l'hôtel avec nous.
+{100112}{100175}Il y a une folle|dans une chambre.
+{100180}{100243}Elle a tenté d'étrangler Danny.
+{100300}{100363}Tu es cinglée ?
+{100365}{100457}Non, c'est vrai, je t'assure.
+{100458}{100508}Je le jure, Danny me l'a dit.
+{100515}{100560}Il est entré|dans une chambre...
+{100563}{100651}Il a vu cette timbrée|dans la baignoire.
+{100652}{100709}Elle a tenté de l'étrangler.
+{100796}{100841}Quelle chambre ?
+{101023}{101076}Sur la chaîne 10 de Miami...
+{101079}{101139}voici le Journal de la Nuit,|avec Glenn Rinker...
+{101138}{101246}Ann Bishop|et toute notre équipe.
+{101248}{101308}Je suis Glenn Rinker...
+{101311}{101389}Miami étouffe|sous une vague de chaleur...
+{101390}{101445}dont la température monte à 32°.
+{101448}{101525}Par contre, les Rocheuses|sont ensevelies sous la neige.
+{101526}{101626}Dans le Colorado, 30 cm de neige|en quelques heures.
+{101626}{101684}Impossible de franchir|les Rocheuses.
+{101689}{101764}Aéroports fermés.
+{101764}{101809}Congères bloquant les routes.
+{101813}{101858}Voies ferrées gelées.
+{101860}{101912}Du Colorado,|on nous communique...
+{101916}{102004}qu'au moins trois personnes|sont mortes de froid.
+{102004}{102061}Le gouverneur du Colorado...
+{102063}{102108}va décréter l'état d'urgence.
+{102112}{102157}La garde nationale...
+{102159}{102189}devra dégager rues et routes.
+{102193}{102248}La météo prédit plus de neige...
+{102250}{102300}et des vents violents|ce soir et demain...
+{102303}{102371}avec une température|d'environ -20°.
+{102373}{102448}Ici, en Floride,|nous avons le problème inverse.
+{102450}{102505}Chaleur et humidité.
+{102508}{102558}On s'écrase sur les plages.
+{102560}{102610}Le bulletin météo régional...
+{102613}{102695}vous sera donné par Walter Cronice.
+{110661}{110756}Nous regrettons de ne pouvoir|donner suite à votre appel.
+{110758}{110860}En cas d'urgence,|appelez l'opératrice.
+{111248}{111296}Oui, c'est moi.
+{111445}{111490}Tu as trouvé ?
+{111493}{111561}Non, rien du tout.
+{111572}{111649}Pas la moindre chose.
+{111713}{111801}Tu es allé dans la chambre|indiquée par Danny... 237 ?
+{111803}{111840}Bien sûr.
+{111850}{111895}Et tu n'y as rien vu du tout ?
+{111899}{111949}Absolument rien.
+{111953}{111983}Comment va-t-il ?
+{111986}{112031}Il dort toujours.
+{112039}{112067}Bon.
+{112205}{112282}Il retrouvera ses esprits|demain matin.
+{112388}{112450}Tu es sûr que c'était bien|la même chambre ?
+{112452}{112532}Peut-être que Danny s'est trompé.
+{112533}{112593}Il a dû entrer.
+{112596}{112661}La porte était ouverte|et les lampes allumées.
+{112723}{112780}Je n'y comprends rien.
+{112882}{112959}D'où viennent ces meurtrissures|sur son cou ?
+{113007}{113065}Il faut bien que quelqu'un|les ait faites.
+{113260}{113297}Je crois...
+{113337}{113399}qu'il s'est fait ça lui-même.
+{113585}{113635}Ce n'est pas possible.
+{113764}{113856}Si tu écartes sa version|de ce qui s'est passé...
+{113857}{113922}il n'y a pas d'autre explication...
+{113931}{113963}n'est-ce pas ?
+{114020}{114090}Ce n'est pas très différent...
+{114091}{114176}de la crise qu'il a eue|avant notre départ.
+{114177}{114207}N'est-ce pas ?
+{114398}{114473}Jack, quelle que soit l'explication...
+{114551}{114586}je pense...
+{114590}{114658}qu'il va falloir éloigner Danny.
+{114769}{114816}L'éloigner d'ici ?
+{114914}{114956}Tu veux dire...
+{114981}{115028}quitter l'hôtel ?
+{115244}{115279}C'est tout toi...
+{115284}{115344}de soulever ce problème...
+{115347}{115410}quand je peux enfin m'accomplir...
+{115412}{115474}quand je m'absorbe|dans mon travail !
+{115480}{115577}Retournant à Boulder,|je pourrais choisir mon emploi ?
+{115578}{115671}Déblayer la neige des rues,|laver des voitures...
+{115671}{115723}ça te plairait ?
+{115726}{115821}Wendy, jusqu'ici je t'ai laissée|foutre ma vie en l'air...
+{115821}{115911}Je ne te laisserai pas|foutre en l'air ceci.
+{117775}{117832}Service des Forêts.
+{117845}{117880}Ici, Dick Hallorann.
+{117883}{117946}Je suis le chef-cuisinier|de l'Hôtel Overlook.
+{117945}{118000}Qu'y a-t-il pour votre service ?
+{118002}{118092}J'essaie de téléphoner d'urgence|à l'hôtel...
+{118093}{118176}mais on me dit|que les lignes sont coupées.
+{118178}{118268}Elles sont coupées|à cause de la tempête.
+{118269}{118334}Je suis désolé|de vous importuner...
+{118337}{118419}mais il y a un couple là-haut,|avec un enfant...
+{118420}{118460}et vu la tempête, et le reste...
+{118463}{118538}j'aimerais que vous fassiez|un appel radio...
+{118539}{118589}pour voir si tout va bien.
+{118598}{118631}Pas de problème.
+{118634}{118704}Rappelez-moi dans 20 minutes.
+{118705}{118757}Merci beaucoup.|A tout à l'heure.
+{119282}{119330}Bonsoir, M.Torrance.
+{119333}{119370}Bonsoir.
+{119957}{119994}Salut, Lloyd.
+{119997}{120045}J'ai été absent,|mais je suis de retour.
+{120048}{120093}Bonsoir, M.Torrance.
+{120106}{120131}Heureux de vous voir.
+{120134}{120201}Heureux d'être revenu.
+{120214}{120259}Je vous sers...?
+{120275}{120330}De quoi reprendre|du poil de la bête.
+{120361}{120404}Bourbon et glace.
+{120422}{120459}A merveille.
+{120781}{120836}C'est gratuit pour vous.
+{120870}{120918}Gratuit ?
+{120932}{120982}Votre argent n'a pas cours ici.
+{121114}{121159}Ordre de la Direction.
+{121234}{121294}Ordre de la Direction ?
+{121372}{121422}Buvez, M.Torrance.
+{121472}{121584}Je suis le genre d'homme qui aime|savoir qui lui paye à boire.
+{121635}{121710}Ça ne vous concerne pas...
+{121712}{121759}du moins, pas pour le moment.
+{121872}{121932}Comme vous voudrez, Lloyd...
+{121942}{121992}comme vous voudrez.
+{122301}{122363}Oh, mon Dieu,|je suis désolé, monsieur.
+{122427}{122490}J'ai complètement|abîmé votre veste, monsieur.
+{122518}{122608}Ce n'est rien.|J'ai beaucoup de vestes.
+{122609}{122679}C'est de l'Advocaat.|Ça tache.
+{122682}{122710}De l'Advocaat ?
+{122714}{122769}Oui, monsieur.|Le mieux serait...
+{122770}{122825}de m'accompagner aux toilettes...
+{122828}{122890}Je passerai un peu d'eau dessus.
+{122911}{122993}Vous avez aussi taché votre habit...
+{122993}{123018}mon vieux Nestor.
+{123023}{123103}Ce n'est rien.|L'important, c'est vous.
+{123103}{123166}C'est gentil à vous.
+{123174}{123246}Je compte changer de veste|ce soir...
+{123248}{123303}avant le dîner de gala.
+{123306}{123359}Ça vaut mieux, monsieur.
+{123361}{123386}Venez...
+{123411}{123469}Je tiens la porte.
+{123471}{123516}Merci, monsieur.
+{123538}{123628}Voyons si nous pouvons atténuer ça|avec un peu d'eau.
+{123629}{123661}Je vais...
+{123665}{123770}poser mon bourbon|et Advocaat en attendant.
+{123780}{123815}Ce ne sera pas long.
+{123926}{123968}Comment vous appelle-t-on ?
+{123971}{124034}Grady, monsieur. Delbert Grady.
+{124146}{124166}Grady ?
+{124171}{124206}Oui, monsieur.
+{124268}{124306}C'est ça.
+{124566}{124619}Je vous ai déjà vu quelque part ?
+{124621}{124688}Non, je ne crois pas, monsieur.
+{124856}{124901}Ça commence à disparaître.
+{125092}{125154}Étiez-vous le gardien ici,|autrefois ?
+{125155}{125225}Non, pas que je sache, monsieur.
+{125294}{125379}Vous êtes un homme marié,|sans doute, M.Grady ?
+{125380}{125400}Oui, monsieur.
+{125405}{125488}J'ai une femme et deux fillettes.
+{125508}{125545}Et...
+{125584}{125616}où sont-elles ?
+{125620}{125720}Oh, quelque part par là.|Je ne sais au juste, monsieur.
+{125908}{126023}M.Grady,|vous avez été le gardien ici.
+{126067}{126117}Je vous reconnais.
+{126148}{126223}J'ai vu votre portrait|dans les journaux.
+{126232}{126274}Vous...
+{126285}{126372}avez découpé votre femme|et vos filles en petits morceaux...
+{126381}{126416}et...
+{126431}{126479}vous vous êtes brûlé|la cervelle.
+{126713}{126758}C'est étrange, monsieur...
+{126781}{126849}je n'ai pas le moindre souvenir|de tout cela.
+{126990}{127072}Vous avez été le gardien ici.
+{127255}{127325}Je regrette de vous contredire...
+{127368}{127410}mais c'est vous...
+{127426}{127473}qui êtes le gardien.
+{127524}{127599}Vous avez toujours été|le gardien.
+{127662}{127710}Je le sais...
+{127743}{127808}car moi, j'ai toujours été ici.
+{128240}{128297}Saviez-vous, monsieur Torrance...
+{128299}{128344}que votre fils...
+{128350}{128417}tente de faire participer|quelqu'un...
+{128420}{128478}de l'extérieur ?
+{128535}{128578}Le saviez-vous ?
+{128726}{128779}C'est certain.
+{128831}{128861}Qui ?
+{128914}{128954}Un nègre.
+{129051}{129086}Un nègre ?
+{129152}{129187}Un cuisinier...
+{129191}{129218}nègre.
+{129373}{129405}Comment ?
+{129455}{129500}Votre fils...
+{129509}{129579}a un très grand talent.
+{129600}{129688}Je pense que vous ignorez|son étendue.
+{129700}{129780}Il s'efforce d'utiliser ce talent...
+{129784}{129834}pour vous contrecarrer.
+{130132}{130210}C'est un enfant très volontaire.
+{130263}{130323}Vous l'avez dit.
+{130325}{130397}Un enfant très volontaire.
+{130400}{130433}Un vilain...
+{130436}{130476}garnement...
+{130480}{130560}si je puis me permettre,|monsieur.
+{130729}{130774}C'est sa mère.
+{130822}{130860}Elle...
+{130863}{130913}me contrecarre.
+{130985}{131063}Peut-être leur faut-il...
+{131064}{131104}une bonne semonce...
+{131112}{131134}Si...
+{131138}{131206}vous me permettez ce conseil.
+{131222}{131262}Peut-être même...
+{131276}{131318}davantage.
+{131391}{131421}Mes gamines...
+{131426}{131524}ne se plaisaient pas|à l'Overlook, au début.
+{131533}{131630}L'une d'elles a même volé|une boîte d'allumettes...
+{131631}{131699}et a tenté de mettre le feu.
+{131722}{131762}Mais...
+{131766}{131816}je les ai corrigées, monsieur.
+{131845}{131950}Quand ma femme a voulu m'empêcher|de faire mon devoir...
+{131952}{131982}je...
+{132005}{132057}je l'ai corrigée aussi.
+{132397}{132444}On a la chenillette.
+{132524}{132569}Si le temps se dégage...
+{132571}{132614}on pourrait peut-être...
+{132617}{132664}descendre la montagne.
+{132733}{132808}Je pourrais appeler|les Rangers avant...
+{132809}{132841}et...
+{132848}{132895}leur dire qu'on arrive...
+{132900}{132930}Comme ça...
+{132934}{133036}ils commenceraient|à nous chercher si on n'y arrive pas.
+{133122}{133175}Et si Jack ne veut pas venir...
+{133233}{133326}je lui dirai qu'on y va sans lui.
+{133329}{133377}Voilà tout.
+{133408}{133445}Ertruem.
+{133467}{133509}Ertruem.
+{133778}{133805}Qu'y a-t-il, mon chéri ?
+{133811}{133831}Ertruem !
+{133836}{133888}Tu fais un mauvais rêve ?
+{134027}{134059}Chéri ?
+{134196}{134294}Danny n'est pas là,|Mme Torrance.
+{134410}{134447}Allons, mon chéri.
+{134469}{134504}Réveille-toi.
+{134527}{134582}Ce n'était qu'un mauvais rêve.
+{134613}{134668}Tout va bien.
+{134761}{134859}Danny ne peut pas se réveiller,|Mme Torrance.
+{135084}{135129}Réveille-toi !
+{135156}{135189}Allez.
+{135193}{135230}Tout de suite.
+{135240}{135275}Réveille-toi !
+{135370}{135470}Danny est parti, Mme Torrance.
+{135714}{135779}KDK 1 appelle KDK 12.
+{135860}{135903}Est-ce que vous me recevez ?
+{135977}{136064}KDK 1 appelle KDK 12.
+{136141}{136183}M'entendez-vous ?
+{136286}{136361}KDK 1 appelle KDK 12.
+{136430}{136473}Vous me recevez ?
+{137346}{137394}Bonsoir. Service des Forêts.
+{137397}{137452}C'est encore Dick Hallorann.
+{137454}{137531}J'ai déjà appelé, à propos|des gens de l'Hôtel Overlook.
+{137557}{137652}Nous avons essayé de les contacter,|mais ils ne répondent pas.
+{137652}{137742}Ils ont dû débrancher leur radio|ou alors ils ne l'entendent pas.
+{137743}{137816}Si vous voulez,|j'essaierai un peu plus tard.
+{137825}{137880}C'est très aimable à vous.
+{137883}{137926}Je vous rappellerai.
+{138224}{138292}8 h du matin
+{139084}{139159}S'il vous plaît, à quelle heure|arrive-t-on à Denver ?
+{139161}{139213}L'arrivée est prévue pour 8h20.
+{140788}{140811}Garage Durkin.
+{140814}{140841}Pourrais-je parler à Larry ?
+{140845}{140870}C'est moi.
+{140877}{140939}Salut. C'est Dick.|Dick Hallorann.
+{140944}{140984}Dick ! Comment va ?
+{140987}{141022}Tu as beau temps ?
+{141027}{141107}Je ne suis pas en Floride.|J'appelle de l'aéroport.
+{141109}{141149}Qu'est-ce que tu fais ici ?
+{141160}{141245}J'arrive de Miami.|Il faut que j'aille à l'Overlook.
+{141247}{141287}Comment est le temps ?
+{141301}{141374}Les chasse-neige maintiennent|la circulation en ville...
+{141377}{141424}mais les routes de montagne|sont bloquées.
+{141433}{141500}Alors il me faut une chenillette.
+{141503}{141548}Tu peux m'en trouver une ?
+{141550}{141605}Pourquoi dois-tu y aller|aujourd'hui...
+{141608}{141646}surtout par ce temps ?
+{141665}{141753}Larry, garde ça pour toi,|mais on a un problème embêtant...
+{141755}{141810}avec les gens|qui gardent l'hôtel.
+{141812}{141909}Des enfoirés totalement|irresponsables.
+{141910}{141955}Ullman m'a appelé hier soir.
+{141958}{142043}Je suis censé aller voir|s'il faut les remplacer.
+{142073}{142126}Tu seras là quand ?
+{142130}{142173}Dans cinq heures.
+{142176}{142231}Je vais louer une voiture|à l'aéroport.
+{142241}{142284}Bon, je m'en occupe.
+{142287}{142359}Merci, Larry.|C'est vraiment sympa.
+{142358}{142423}C'est bon.|Sois prudent au volant.
+{142561}{142641}Bonjour. Hal et Charlie|sur Radio 63 KHOW Denver.
+{142641}{142706}Nous avons une sombre journée.
+{142709}{142794}Fortes chutes de neige,|car il neige dru sur Denver.
+{142795}{142830}La plupart des cols de montagne...
+{142835}{142905}sont interdits à la circulation.
+{142907}{142990}Et les chaînes sont obligatoires|dès maintenant.
+{142991}{143033}Je crois...
+{143036}{143116}que quelques vols|atterrissent encore à Stapleton.
+{143118}{143158}Mais vu ces tempêtes...
+{143161}{143264}l'aéroport va être fermé|dans l'heure.
+{143264}{143336}La tempête continuera|toute la journée, et la météo...
+{143339}{143402}a publié une mise en garde...
+{143404}{143474}pour toutes les zones|autour de Denver et de sa région.
+{143476}{143508}Rentrez les vaches !
+{144023}{144050}Chéri ?
+{144168}{144228}Écoute-moi un instant, tu veux ?
+{144316}{144409}Je vais juste aller parler|à papa...
+{144411}{144461}et je reviens.
+{144483}{144545}Tu vas rester là...
+{144547}{144610}et regarder tes dessins animés.
+{144684}{144719}D'accord ?
+{144796}{144869}Oui, Mme Torrance.
+{145076}{145106}Très bien.
+{145155}{145225}Je reviens dans cinq minutes.
+{145242}{145302}Je vais fermer la porte à clé.
+{147898}{147973}Un "Tiens" vaut mieux que|deux "Tu l'auras"
+{148521}{148644}Un "Tiens" vaut mieux que|deux "Tu l'auras"
+{150245}{150287}Ça te plaît ?
+{150443}{150481}Ça te plaît ?
+{150719}{150786}Qu'est-ce que tu viens faire ici ?
+{150889}{150947}Je voulais...
+{150954}{150981}seulement...
+{150990}{151035}causer avec toi.
+{151133}{151171}Causons.
+{151404}{151451}De quoi veux-tu causer ?
+{151642}{151720}Je... ne me rappelle pas.
+{151738}{151791}Tu ne te rappelles pas.
+{151807}{151839}Non...
+{151848}{151883}je ne sais plus.
+{152008}{152090}C'était peut-être au sujet de Danny.
+{152143}{152210}Peut-être était-ce à son sujet.
+{152297}{152379}Nous devrions parler de Danny.
+{152442}{152487}Je crois...
+{152494}{152587}qu'il faut décider|de ce que nous allons faire de lui.
+{152696}{152761}Que devons-nous faire de lui ?
+{152878}{152923}Je n'en sais rien.
+{152934}{152984}Je n'en crois pas un mot.
+{152986}{153051}Je pense que tu as des idées|très précises...
+{153053}{153095}le concernant...
+{153101}{153163}et j'aimerais les connaître.
+{153209}{153254}Je pense...
+{153258}{153371}qu'on devrait le mener|chez un médecin.
+{153368}{153451}On devrait le mener|chez un médecin ?
+{153501}{153584}Quand devrait-on le mener|chez un médecin ?
+{153596}{153631}Dès que possible ?
+{153643}{153700}"Dès que possible ?"
+{153764}{153801}Je t'en prie...
+{153832}{153912}Tu veux dire|qu'il y va de sa santé ?
+{154017}{154082}Tu te fais du souci pour lui ?
+{154142}{154197}Te fais-tu du souci pour moi ?
+{154215}{154243}Bien sûr.
+{154247}{154302}Bien sûr !
+{154306}{154384}As-tu jamais songé|à mes responsabilités ?
+{154385}{154422}Pourquoi me dis-tu ça ?
+{154427}{154497}As-tu jamais réfléchi|un seul instant...
+{154498}{154551}à mes responsabilités ?
+{154553}{154608}Mes responsabilités...
+{154614}{154684}envers mes employeurs ?
+{154685}{154733}T'est-il venu à l'esprit...
+{154736}{154821}que je dois garder l'hôtel|jusqu'au 1er mai ?
+{154825}{154875}Ce n'est donc rien pour toi...
+{154881}{154956}que la Direction ait confiance|en moi...
+{154957}{155002}et que j'aie signé un accord...
+{155005}{155105}un contrat par lequel j'assume|cette responsabilité ?
+{155112}{155162}As-tu la moindre idée...
+{155165}{155245}de ce qu'est un principe de morale,|une éthique ?
+{155252}{155330}T'es-tu demandé|ce que serait mon avenir...
+{155331}{155391}si je n'étais pas à la hauteur ?
+{155394}{155451}Te l'es-tu demandé ? Hein ?
+{155453}{155491}N'approche pas !
+{155509}{155537}Pourquoi ?
+{155544}{155617}Je veux retourner|dans ma chambre.
+{155621}{155651}Pourquoi ?
+{155712}{155765}Je ne sais plus où j'en suis...
+{155787}{155880}J'ai besoin d'être seule|pour réfléchir.
+{155901}{155998}Tu as toute ta foutue|chienne de vie pour réfléchir !
+{155999}{156069}A quoi bon|quelques minutes de plus ?
+{156071}{156129}Jack... reste à distance !
+{156133}{156166}Je t'en prie !
+{156184}{156211}Ne me fais pas de mal !
+{156215}{156248}Je ne te ferai pas de mal.
+{156252}{156282}Écarte-toi !
+{156285}{156307}Arrière !
+{156311}{156334}Chérie...
+{156340}{156378}lumière de ma vie...
+{156388}{156421}je ne vais pas te faire de mal.
+{156424}{156474}Tu ne m'as pas laissé finir.
+{156476}{156531}J'ai dit :|"Je ne te ferai pas de mal".
+{156534}{156604}Je vais juste|te défoncer la gueule...
+{156607}{156680}et t'écraser la cervelle.
+{156704}{156744}Ne m'approche pas !
+{156754}{156779}Ne m'approche pas !
+{156784}{156844}Je ne te ferai rien.
+{156847}{156885}Arrière !
+{156889}{156916}Reste à distance !
+{156934}{156967}Je t'en prie !
+{156989}{157034}Cesse de brandir ta batte.
+{157038}{157070}Arrière !
+{157085}{157117}Pose ta batte, Wendy !
+{157120}{157158}Arrête !
+{157193}{157221}Wendy, donne-moi la batte.
+{157224}{157254}Arrière...
+{157258}{157313}- n'approche pas !|- Donne la batte.
+{157389}{157432}- N'approche pas !|- Pas de moulinets !
+{157435}{157467}Descends.
+{157470}{157500}Donne la batte.
+{157503}{157533}Arrière !
+{157540}{157600}- Va-t'en !|- La batte.
+{157631}{157656}Qu'est-ce que tu fais ?
+{159461}{159504}Attends un peu...
+{159568}{159603}Que fais-tu ?
+{159636}{159686}Que fais-tu ?
+{160114}{160151}Attends un peu !
+{160208}{160246}Que fais-tu ?
+{160251}{160294}Ouvre la porte.
+{160322}{160350}Nom de Dieu !
+{160354}{160441}Laisse-moi sortir !|Ouvre cette maudite porte.
+{160527}{160559}Wendy...
+{160567}{160640}laisse-moi sortir|et j'oublierai toute l'histoire.
+{160642}{160704}Comme si de rien n'était.
+{161055}{161090}Wendy, mon petit...
+{161117}{161199}Tu m'as foutu|un drôle de coup sur la tête...
+{161234}{161274}J'ai le vertige.
+{161299}{161351}Il me faut un médecin.
+{161515}{161545}Mon chou...
+{161607}{161665}ne me laisse pas là-dedans.
+{161870}{161917}Je m'en vais à présent.
+{161989}{162034}Je vais essayer...
+{162037}{162112}de descendre Danny|jusqu'à Sidewinder...
+{162125}{162185}avec la chenillette.
+{162239}{162284}Je ramènerai un médecin.
+{162408}{162456}Je pars.
+{162634}{162729}Une grosse surprise t'attend.
+{162758}{162823}Tu vas nulle part.
+{162862}{162964}Va vérifier la chenillette|et la radio, tu comprendras.
+{163069}{163114}Va vérifier !
+{163164}{163219}Va vérifier !
+{163297}{163344}Va vérifier !
+{164972}{165037}16 heures
+{165930}{165992}C'est Grady, M.Torrance.
+{166006}{166053}Delbert Grady.
+{166615}{166662}Salut, Grady.
+{166775}{166817}M.Torrance...
+{166862}{166955}Je constate que vous n'êtes pas|passé à l'action...
+{166971}{167033}dont nous avions parlé.
+{167191}{167263}Inutile de me le rappeler,|M.Grady.
+{167282}{167384}Je redresserai la situation|dès que je sortirai d'ici.
+{167399}{167469}Est-ce bien certain, M.Torrance ?
+{167478}{167523}Je me le demande...
+{167550}{167600}J'avoue que j'en doute.
+{167629}{167734}Moi, et bien d'autres|en sommes venus à croire...
+{167734}{167809}que le cœur n'y est pas.
+{167821}{167886}Que vous manquez d'estomac.
+{168031}{168139}Donnez-moi encore une chance|de le prouver, M.Grady.
+{168154}{168201}Je ne demande que ça.
+{168237}{168342}Votre femme semble plus forte|que nous ne l'imaginions.
+{168343}{168381}Beaucoup plus...
+{168384}{168434}ingénieuse.
+{168438}{168508}Elle vous a damé le pion.
+{168581}{168648}Momentanément, M.Grady.
+{168665}{168718}Momentanément seulement.
+{168760}{168865}Dans cette affaire, je crains que|vous n'ayez à sévir...
+{168869}{168959}avec le maximum de rigueur,|M.Torrance.
+{168970}{169007}C'est...
+{169012}{169077}l'unique solution.
+{169158}{169211}Il n'est rien que j'anticipe...
+{169213}{169310}avec plus de plaisir...
+{169340}{169408}Vous m'en donnez votre parole ?
+{169440}{169490}Je vous en donne ma parole.
+{171217}{171282}Ertruem.
+{171301}{171366}Ertruem.
+{174430}{174470}Cesse, Danny !
+{174592}{174637}MEURTRE
+{175797}{175867}Wendy, je suis rentré.
+{176763}{176835}Sors, montre-toi, où que tu sois.
+{177411}{177493}Danny, je ne peux pas sortir !
+{177509}{177537}Cours...
+{177558}{177593}cours te cacher !
+{177605}{177633}Cours...
+{177637}{177667}vite !
+{177705}{177818}Petits cochons, petits cochons,|ouvrez-moi donc.
+{178070}{178123}Sinon, je soufflerai...
+{178125}{178170}Je soufflerai si fort...
+{178175}{178228}que la maison va s'envoler !
+{178557}{178619}Jack... je t'en prie !
+{179305}{179342}Revoilà Johnny !
+{183382}{183427}Il y a quelqu'un ?
+{184288}{184333}Il y a quelqu'un ?
+{185050}{185098}Il y a quelqu'un ?
+{186079}{186121}Danny ! Mon petit !
+{189973}{190023}J'arrive.
+{190082}{190129}J'arrive, Dan !
+{191584}{191644}Belle réception, hein ?
+{192065}{192120}J'arrive !
+{192181}{192238}Tu ne peux pas t'échapper !
+{192326}{192389}Je suis sur tes talons !
+{203399}{203521}Hôtel Overlook|Bal du 4 juillet 1921

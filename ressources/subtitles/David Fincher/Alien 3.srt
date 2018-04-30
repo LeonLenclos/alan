@@ -1,0 +1,1157 @@
+{2948}{2977}Stase interrompue.
+{2990}{3030}Incendie dans compartiment cryogène.
+{3053}{3139}Je répète : incendie|dans compartiment cryogène.
+{3180}{3225}L'équipage doitrejoindre
+{3230}{3331}Ia capsule de détresse EEV|au pad de lancement.
+{3387}{3437}Départ volinterspatial
+{3445}{3527}à H moins 20 secondes.
+{5994}{6027}FIORINA "FURY" 161
+{6033}{6093}RAFFINERIE INTERGALAXIQUE|DE MINERAUX
+{6101}{6163}PENITENCIER POUR SUJETS|A CHROMOSOME DOUBLE Y
+{6171}{6207}HAUTE SECURITE
+{6595}{6655}UNITE CARCERALE CLASSE C
+{6773}{6854}SIGNALE CRASH|CAPSULE DETRESSE EEV2650
+{6950}{6993}Nom de Dieu!
+{7003}{7051}Tu parles d'un atterrissage!
+{7058}{7077}Braque la torche.
+{7383}{7399}Y en a combien?
+{7408}{7439}Je sais pas.
+{7446}{7482}Trois, peut-être quatre.
+{7490}{7509}Activons.
+{7515}{7587}Dans 5 minutes, il fera moins 40.
+{7660}{7681}Reviens!
+{7685}{7714}Je vais le tuer!
+{7745}{7808}Ton crétin de chien. Fous-le dehors!
+{7827}{7878}- Viens.|- Je déteste ce clébard.
+{7907}{7929}Il est parti.
+{8030}{8066}Sale façon de crever!
+{8113}{8139}Magnez-vous.
+{8177}{8201}Attendez!
+{8270}{8308}Y en a un qui vit encore.
+{8520}{8548}Survivante
+{8654}{8697}Ne jetez rien, on en a besoin.
+{8792}{8895}F. non identifiée|Approx. 12 ans - Morte
+{8957}{8998}C'est ça...
+{9162}{9224}Caporal D. Hicks - Mort
+{9634}{9720}Humanoïde de synthèse|Capacités négatives
+{10909}{10995}Contrôle anti-rumeurs. Voilà les faits.
+{11016}{11049}Comme certains le savent déjà,
+{11063}{11155}une capsule de détresse EEV 337
+{11159}{11283}s'est crashée ici ce matin à 6 heures.
+{11326}{11360}Il y a un survivant...
+{11366}{11416}deux morts et un droïde
+{11423}{11466}irrémédiablement détruit.
+{11474}{11531}Le survivant est une femme.
+{11620}{11704}Je tiens à dire|que j'ai fait voeu de chasteté
+{11710}{11758}et que ça inclut les femmes.
+{11765}{11796}Ce voeu, on l'a tous fait!
+{11838}{11881}Personnellement, je refuse
+{11888}{11919}qu'elle se mêle
+{11926}{11974}aux détenus et au personnel.
+{11978}{12086}Notre frère veut dire|que la présence d'un étranger ,
+{12096}{12139}et surtout une femme ,
+{12148}{12198}nous paraîtï une violation de l'harmonie
+{12205}{12246}et un risque de fracture spirituelle.
+{12253}{12308}Nous connaissons vos sentiments.
+{12316}{12385}Vous serez heureux d'apprendre|que j'ai demandé
+{12391}{12489}une équipe de secours|qui devrait arriver dans une semaine
+{12510}{12610}pour l'évacuer au plus vite.
+{12663}{12687}Son bilan médical?
+{12690}{12733}Elle n'est pas trop endommagée.
+{12745}{12795}Elle est inconsciente.|Je ne peux en dire plus
+{12800}{12826}à ce stade.
+{12838}{12864}Elle s'en tirera?
+{12867}{12884}Je le pense.
+{12954}{13019}Mieux vaut qu'elle reste à l'infirmerie
+{13027}{13125}jusqu'à l'arrivée des secours.|Et gardez-la sous surveillance.
+{13202}{13231}Messieurs,
+{13237}{13257}poursuivons
+{13262}{13301}nos tâches habituelles
+{13307}{13355}sans nous énerver inutilement.
+{13474}{13500}Merci, messieurs.
+{13655}{13691}Qu'ils arrivent vite!
+{14644}{14663}C'est quoi?
+{14706}{14788}Un cocktail de ma façon. Un coup de fouet.
+{14831}{14850}Vous êtes toubib?
+{14854}{14892}Je m'appelle Clemens.
+{14909}{14941}Je suis le médecin-chef.
+{14949}{15009}- Où est-on ici?|- Fury 161.
+{15016}{15098}C'est un des pénitenciers extérieurs|de la Weyland-Yutani Co...
+{15107}{15143}j'ai le regret de le dire.
+{15149}{15168}Permettez.
+{15253}{15284}C'est un stabilisant.
+{15336}{15394}Je devrai vous tondre la tête,
+{15414}{15464}on a des problèmes de vermine.
+{15493}{15563}Je vous donnerai des ciseaux|pour vos régions intimes.
+{15568}{15614}Comment je suis arrivée ici?
+{15646}{15742}Votre capsule EEV s'est crashée
+{15751}{15833}après séparation de votre vaisseau|hors de notre atmosphère.
+{15841}{15908}Vous êtes restée longtemps|en hyper-sommeil?
+{15918}{15964}Ce réveil brutal secoue le système.
+{15968}{16013}Je serai malade une quinzaine.
+{16021}{16052}Certainement.
+{16138}{16160}Et les autres?
+{16176}{16205}Ils n'ont pas réussi.
+{16215}{16230}Quoi?
+{16240}{16279}Ils n'ont pas survécu.
+{16371}{16421}Je veux aller dans la capsule.
+{16430}{16469}Il faut que j'aille à bord.
+{16476}{16504}Vous n'êtes pas en état.
+{16516}{16598}Vous me donnez des vêtements...|ou j'y vais comme ça?
+{16616}{16724}Connaissant les moeurs des indigènes,|les vêtements sont recommandés.
+{16771}{16792}Ils n'ont pas vu
+{16796}{16839}de femme depuis des années.
+{16900}{16951}Moi non plus, au fait!
+{17011}{17090}Ce centre pouvait accueillir|jusqu'à cinq mille détenus.
+{17095}{17184}Mais il ne reste que ving-cinq relégués.
+{17193}{17248}- Pourquoi?|- Pour garder les veilleuses.
+{17256}{17282}Les veilleuses?
+{17306}{17354}Il y a un haut-fourneau
+{17358}{17401}qui marche au méthane naturel.
+{17406}{17477}On a une fonderie, lieutenant Ripley.
+{17485}{17560}Les détenus fabriquent|des conteneurs pour déchets toxiques.
+{17565}{17618}Comment savez-vous mon nom?
+{17635}{17705}Il est imprimé sur vos sous-vêtements.
+{17905}{17939}Lâche le câble.
+{18387}{18423}Où sont les corps?
+{18427}{18547}A la morgue, jusqu'à l'arrivée|des enquêteurs la semaine prochaine.
+{18609}{18667}Il y avait un droïde.
+{18672}{18694}Déconnecté.
+{18700}{18733}Eparpillé en mille morceaux.
+{18745}{18800}On a toutjeté au dépôt d'ordures.
+{18820}{18853}Le caporal s'est empalé
+{18859}{18890}sur le vérin de sécurité.
+{18904}{18942}Tué sur le coup.
+{18947}{18978}Et la fillette?
+{19004}{19081}Elle s'est noyée dans son cryo-tube.
+{19090}{19145}Elle avait déjà perdu connaissance
+{19164}{19188}quand c'est arrivé.
+{19222}{19250}Je suis navré.
+{19769}{19817}- Qu'y a-t-il?|- Où est-elle?
+{19821}{19852}A la morgue.
+{19873}{19907}Je veux la voir.
+{19957}{19995}Voir ce qu'il en reste.
+{20136}{20198}Te voilà, toi!
+{20236}{20267}Je t'ai cherché partout.
+{20272}{20293}Où t'étais?
+{20546}{20568}Viens ici.
+{20669}{20719}Laisse-moi voir. Ca va?
+{20799}{20870}Où tu as fourré ta gueule?
+{20933}{20959}Qui t'a fait ça?
+{21114}{21183}Faut être une bête|pour faire ça à un chien!
+{21893}{21931}Je peux rester seule?
+{21956}{21982}Bien sûr.
+{22793}{22824}Pardonne-moi.
+{23417}{23465}Qu'est-ce qu'elle fait?
+{23907}{23941}Il faut l'autopsier.
+{23947}{23982}- Quoi?|- Je veux savoir
+{24001}{24035}comment elle est morte.
+{24074}{24115}Je vous l'ai dit,
+{24121}{24150}elle s'est noyée.
+{24177}{24211}Je n'en suis pas si sûre.
+{24232}{24285}Il faut voir à l'intérieur.
+{24291}{24342}Vous êtes désorientée et...
+{24346}{24394}J'ai une très bonne raison.
+{24400}{24450}Pourriez-vous me la dire?
+{24529}{24587}Possibilité de contagion.
+{24599}{24633}De quel genre?
+{24681}{24717}- Le choléra.|- Le choléra?
+{24811}{24871}Il n'y a pas eu|un cas de choléra depuis 200 ans.
+{25036}{25081}Je vous en prie.
+{25956}{26004}Tout est en place.
+{26056}{26142}Aucun signe d'infection.|Aucune maladie apparente.
+{26150}{26184}Sa poitrine.
+{26195}{26227}Ouvrez-la.
+{26428}{26455}Attention.
+{27255}{27284}Les poumons
+{27341}{27391}sont remplis de liquide.
+{27440}{27486}Donc elle s'est noyée.
+{27670}{27728}Je ne suis pas totalement idiot,
+{27752}{27795}alors dites ce que vous cherchez.
+{28065}{28098}M. Clemens.
+{28120}{28139}M. Ie Superviseur...
+{28205}{28239}Vous ne connaissez pas encore
+{28244}{28273}Ie Lt. Ripley.
+{28315}{28384}- Que se passe-t-il?|- Oui, que se passe-t-il?
+{28430}{28459}Tout d'abord,
+{28475}{28504}Ie lieutenant
+{28525}{28587}va mieux, je me réjouis|de le signaler. Ensuite,
+{28597}{28647}dans l'intérêt de la santé de tous,
+{28655}{28681}j'autopsie le corps.
+{28684}{28713}Sans mon autorisation?
+{28730}{28775}Il y avait urgence.
+{28784}{28823}Mais tout va bien.
+{28827}{28885}- Aucun risque de contagion.|- Bon.
+{28902}{28976}Ca aiderait si elle ne s'exhibait pas|devant les détenus
+{28989}{29075}comme elle le fait depuis une heure.|Et ça m'aiderait aussi
+{29079}{29151}que vous m'informiez|de tout changement de son état.
+{29167}{29210}Est-ce trop demander?
+{29214}{29242}Incinérons-les.
+{29272}{29308}Non! On les garde dans la glace
+{29317}{29343}en attendant les secours.
+{29365}{29384}Dans la glace.
+{29399}{29447}Il y a un problème de santé.
+{29481}{29570}Elle pense qu'il y a|possibilité de contagion.
+{29626}{29677}Vous disiez qu'elle n'était pas malade!
+{29681}{29727}L'enfant paraîtï s'être noyée.
+{29731}{29789}Mais sans tests de laboratoire,
+{29794}{29837}on ne peut rien affirmer.
+{29866}{29955}Il serait imprudent|d'accepter le moindre risque
+{29962}{30017}d'apparition d'un virus. Une épidémie
+{30021}{30043}de choléra
+{30046}{30140}ferait mauvais effet dans un rapport, non?
+{30194}{30254}Nous avons 25 relégués ici.
+{30259}{30304}Tous des chromosomes double Y,
+{30309}{30405}tous voleurs, violeurs,|assassins, pervers. La lie de la terre.
+{30429}{30522}Qu'ils aient trouvé la foi|ne les rend pas moins dangereux.
+{30534}{30584}J'évite de heurter leurs convictions.
+{30593}{30646}Je veux que l'ordre soit maintenu.
+{30676}{30736}Je ne veux pas de rides|à la surface de l'eau.
+{30758}{30852}Et je ne veux pas qu'une femme|leur donne des idées en se pavanant.
+{30858}{30890}Je vois.
+{30893}{30950}Pour ma propre sécurité!
+{30983}{31000}Exactement.
+{31026}{31122}Je vous laisse|les détails de l'incinération.
+{31201}{31316}Utilisez le haut-fourneau,|mais bouclez tout le monde pour 22 h.
+{32853}{32917}Nous confions cette enfant
+{32925}{32988}et cet homme à ta garde, Seigneur.
+{33035}{33083}Leurs corps
+{33089}{33195}ont été arrachés à l'ombre de notre nuit.
+{33250}{33329}Ils sont à présent affranchis
+{33347}{33398}des ténèbres
+{33405}{33440}et de la souffrance.
+{33550}{33581}L'enfant
+{33597}{33628}et l'homme
+{33649}{33695}sont au-delà de notre monde.
+{33742}{33790}Ils sont désormais
+{33807}{33831}éternels.
+{33994}{34050}Les cendres à la cendre...
+{34060}{34120}Ia poussière à la poussière.
+{34172}{34196}Pourquoi?
+{34242}{34299}Pourquoi les innocents sont-ils punis?
+{34437}{34494}Pourquoi ce sacrifice?
+{34562}{34600}Pourquoi cette souffrance?
+{34671}{34748}Aucune promesse n'a été faite.
+{34791}{34815}Rien n'est sûr,
+{34841}{34908}sauf que certains sont élus...
+{34916}{34959}Certains sont sauvés.
+{34979}{35077}Elle ne connaîtï rajamais|les épreuves et la douleur
+{35084}{35120}de ceux qui restent.
+{35149}{35238}Nous confions leurs corps au vide
+{35274}{35308}d'un coeur léger.
+{35556}{35604}Car dans chaque graine,
+{35608}{35663}il y a la promesse d'une fleur.
+{35760}{35811}Et dans chaque mort,
+{35816}{35859}si infime soit-elle,
+{35919}{35969}il y a toujours une vie nouvelle...
+{36071}{36128}un nouveau commencement.
+{36246}{36267}Amen.
+{37115}{37173}Merde, c'est pas normal.
+{37178}{37243}Y a que la femme qui a survécu.
+{39241}{39282}Je voulais juste
+{39302}{39359}vous remercier pour vos paroles...
+{39411}{39452}Mes amis seraient contents...
+{39464}{39524}Me faites pas la conversation.
+{39549}{39590}Je suis un assassin et un violeur.
+{39674}{39689}Ah oui?
+{39779}{39856}Alors je dois vous rendre plutôt nerveux...
+{40241}{40277}Vous avez la foi, ma soeur?
+{40287}{40315}Pas vraiment.
+{40319}{40369}Ici, on a tous la foi.
+{40406}{40434}On en a assez pour vous!
+{40471}{40497}Y a pas de femmes ici.
+{40508}{40546}Pas jusqu'à maintenant.
+{40584}{40641}Mais on tolère tout le monde
+{40659}{40690}même l'intolérable.
+{40743}{40763}Merci.
+{40784}{40808}C'est une question
+{40813}{40869}de principe. Rien de personnel.
+{40881}{40946}Ici, on attend en paix.
+{40963}{41047}Et jusqu'ici, on a pas eu de tentations.
+{41098}{41131}Dillon et les autres
+{41163}{41202}relégués
+{41220}{41321}ont embrassé la religion|depuis près de cinq ans.
+{41333}{41357}Prenez-en deux.
+{41370}{41404}Je suis sous traitement?
+{41411}{41437}Façon de parler.
+{41440}{41464}Quel genre de religion?
+{41470}{41600}Une sorte de fondamentalisme|millénariste apocalyptique...
+{41663}{41725}Quand la Compagnie a fermé le pénitencier,
+{41733}{41817}Dillon et les autres convertis|ont choisi de rester.
+{41833}{41866}On les a autorisés
+{41873}{41979}à assumer la garde des lieux,|avec deux superviseurs
+{41987}{42028}et un médecin.
+{42057}{42081}Voilà.
+{42112}{42165}Comment vous avez eu|cette... sinécure?
+{42262}{42291}Votre coiffure vous plaîtï ?
+{42338}{42362}Pas mal.
+{42795}{42845}Maintenant que je me suis mouillé pour vous
+{42847}{42957}auprès d'Andrews,|au risque d'aggraver mes rapports avec lui
+{42983}{43102}et que j'ai brossé|le médiocre historique de Fury 161...
+{43124}{43175}dites-moi ce que vous cherchiez.
+{43182}{43226}Je vous attire?
+{43269}{43298}Dans quel sens?
+{43374}{43400}Dans ce sens-là.
+{43460}{43496}Vous êtes très directe.
+{43542}{43597}Je suis dans l'espace depuis longtemps.
+{44994}{45025}Hé, Spike!
+{45226}{45295}Qu'est-ce que tu fous?
+{46360}{46427}Je suis comblé par tes attentions
+{46468}{46538}mais elles nous dévient de ma question
+{46596}{46629}de façon exquise.
+{46750}{46801}Tu casses l'ambiance.
+{46838}{46877}J'ai un travail à faire.
+{46911}{46954}Pourquoi les a-t-on incinérés?
+{46955}{47029}J'ai fait un rêve horrible,|dans mon hyper-sommeil
+{47036}{47086}et je voulais savoir
+{47090}{47124}comment l'enfant est morte.
+{47140}{47179}En tout cas, j'ai fait une erreur.
+{47243}{47262}C'est possible.
+{47317}{47346}Et là, j'en ai fait une autre.
+{47367}{47396}Laquelle?
+{47402}{47460}Me lier avec un prisonnier.
+{47490}{47531}Avoir un contact physique.
+{47540}{47561}C'est interdit.
+{47642}{47678}Je ne suis pas un prisonnier.
+{47750}{47822}Tu as un code-barres derrière le crâne.
+{47930}{47985}Ca mérite une explication
+{48012}{48065}mais c'est pas le moment.
+{48347}{48436}Andrews vous demande|au puits de ventilation 22.
+{48445}{48505}Tout de suite. Il ya eu un accident.
+{48509}{48526}Grave?
+{48545}{48576}Oui, on peutle dire.
+{48582}{48651}Un détenu a été coupé en petits morceaux.
+{48659}{48690}Excuse-moi.
+{48707}{48738}Je dois te quitter.
+{48804}{48845}Mon devoir médical.
+{49537}{49553}Qui était-ce?
+{49582}{49603}Murphy.
+{49619}{49640}Vous êtes sûr?
+{49669}{49690}C'est sa chaussure.
+{49769}{49833}Je lui ai donné ce boulot.|C'était un feignant.
+{49839}{49891}Ce n'est pas votre faute, Aaron.
+{50201}{50280}Pas grand-chose à dire.|La mort a été instantanée.
+{50286}{50305}Sans blague!
+{50308}{50361}Il a été poussé dans le ventilateur?
+{50366}{50409}Peut-être un appel d'air, mais...
+{50416}{50461}Ca a failli m'arriver.
+{50474}{50526}Je les ai avertis cent fois!
+{50531}{50586}"Eloignez-vous des ventilos!"
+{50594}{50620}Personne m'écoute.
+{50624}{50662}Il n'aspirait pas, il soufflait...
+{50864}{50885}Qu'est-ce que c'est?
+{50898}{50917}Aucune idée.
+{50923}{50945}Je vous attends
+{50948}{51020}dans mon bureau|dans trente minutes, je vous prie.
+{52317}{52346}Tu es là!
+{52360}{52393}Te balader sans escorte,
+{52400}{52441}ça va faire râler Andrews.
+{52495}{52515}Parle-moi
+{52517}{52546}de cet accident.
+{52553}{52591}Un détenu a été tué.
+{52639}{52695}Ah oui? Comment?
+{52700}{52748}Dans une bouche d'aération.
+{52762}{52817}Il a été happé|dans un ventilateur de 3 mètres.
+{52850}{52905}J'ai découvert quelque chose sur place,
+{52912}{52984}près de l'endroit où ça s'est passé.
+{52992}{53021}Une marque...
+{53040}{53074}Une brûlure.
+{53127}{53182}Comme sur le cryo-tube de la petite.
+{53337}{53361}Ecoute,
+{53377}{53422}je suis dans ton camp.
+{53435}{53512}Je veux t'aider,|mais je dois savoir ce qu'il se passe
+{53519}{53582}ou ce que tu crois qu'il se passe.
+{53639}{53690}Si tu veux vraiment m'aider,
+{53697}{53781}trouve un ordinateur|pour interroger l'enregistreur de vol.
+{53789}{53842}On n'a rien de tel ici.
+{53867}{53895}Et Bishop?
+{53901}{53956}Le droïde qui était avec moi.
+{53967}{54019}Je peux juste t'indiquer la direction.
+{54027}{54070}Je ne t'accompagne pas,
+{54074}{54129}j'ai un autre engagement.
+{54189}{54239}Ecoutez bien, pauvre merde.
+{54244}{54272}Encore une connerie
+{54279}{54310}et je vous coupe en deux!
+{54344}{54389}Désolé, je ne comprends pas.
+{54394}{54463}A 7 heures,|j'ai reçu un message de la Compagnie.
+{54472}{54534}Le premier|venant d'un niveau aussi élevé
+{54541}{54630}que nous ayons jamais reçu,|à ma connaissance.
+{54652}{54683}Ils veulent qu'on la bichonne!
+{54688}{54748}- Elle est top priorité.|- Pourquoi?
+{54756}{54799}Pas la moindre idée.
+{54819}{54889}Pourquoi a-t-elle quitté l'infirmerie?
+{54896}{54930}L'accident de Murphy,
+{54933}{55015}ça arrive|quand ces crétins attrapent une érection.
+{55021}{55060}Je suis médecin, vous geôlier.
+{55126}{55174}Nous savons tous deux qui vous êtes.
+{55219}{55240}Asseyez-vous.
+{55246}{55289}Je me sentirai mieux si je sors.
+{55296}{55380}Je n'aime pas votre compagnie.
+{55386}{55410}Tiens donc!
+{55416}{55450}Réfléchissez, M. Clemens.
+{55471}{55543}Vous aimeriez|que je raconte votre histoire sordide
+{55548}{55678}à votre nouvelle amie?|Pour son édification, bien sûr.
+{55696}{55746}Alors rasseyez-vous, bon Dieu!
+{56054}{56121}Il y a quelque chose que je devrais savoir?
+{58475}{58506}Viens ici, pute!
+{59041}{59068}Ca va?
+{59326}{59391}Taillez-vous. Je veux rééduquer
+{59397}{59433}nos frères.
+{59454}{59492}Discuter de questions spirituelles.
+{59781}{59855}Il en finit pas, ce couloir!
+{59912}{59940}Combien de bougies?
+{59948}{60023}On en est à 176.
+{60073}{60140}Pas tant de bruit en mastiquant, j'essaie
+{60148}{60182}de calculer la surface.
+{60189}{60263}- Tu fais trop de bruit, bon Dieu!|- Pas de blasphème.
+{60268}{60302}Excuse-moi.
+{60329}{60377}Voilà, on a fait
+{60381}{60417}Ie tour du caisson.
+{60421}{60442}Quoi?
+{60573}{60640}- Merde, qui fait ça?|- Tu blasphèmes encore.
+{60648}{60691}J'ai le droit de dire merde,
+{60706}{60756}- ça insulte pas Dieu.|- Pourquoi ça danse?
+{60918}{61004}Ca doit être le courant d'air|du circuit de ventilation.
+{61053}{61101}Si ça s'éteint, on va se perdre.
+{61106}{61170}Il faut que quelqu'un les rallume.
+{61223}{61250}D'accord, à moi la corvée.
+{61516}{61547}Attention où tu marches.
+{61782}{61852}Qui est-ce qui fait le clown?
+{62767}{62798}Au secours!
+{63122}{63166}Fonce! Fous le camp!
+{63534}{63546}Donne-moi ça.
+{64551}{64587}Lâche-moi, saloperie!
+{66216}{66249}Salut, Bishop.
+{66266}{66304}Comment vas-tu?
+{66316}{66354}Mal à lajambe.
+{66386}{66410}Je suis désolée...
+{66416}{66473}Pas grave. Je ne suis plus|qu'un grille-pain de luxe.
+{66498}{66524}Et toi, ça va?
+{66561}{66611}J'aime ta nouvelle coiffure.
+{66615}{66668}Tu peux accéder à l'enregistreur de vol?
+{66685}{66700}Sans problème.
+{66833}{66864}J'y suis.
+{66880}{66909}Que s'est-il passé?
+{66930}{66971}Pourquoi les tubes ont été éjectés?
+{66983}{67033}Stase interrompue.
+{67040}{67112}Incendie dans compartiment cryogène.
+{67120}{67170}Je répète : incendie...
+{67175}{67259}Explique : comment le feu s'est déclaré?
+{67290}{67302}Tu m'entends?
+{67365}{67403}Il était d'origine électrique...
+{67410}{67486}dans la charpente du plancher.
+{67492}{67576}Les capteurs n'ont rien détecté|à bord avant la séparation?
+{67598}{67658}Il fait très sombre.|Je ne suis plus aussi pointu.
+{67664}{67684}Dis-moi,
+{67697}{67750}il y a quelque chose sur l'enregistreur?
+{67772}{67825}Y avait-il un Alien à bord?
+{67990}{68028}Est-il resté sur le Sulaco
+{68034}{68085}ou est-ce qu'il est venu dans la capsule?
+{68109}{68164}Il nous a accompagnés.
+{68259}{68300}La Compagnie est au courant?
+{68315}{68389}Ils savent tout ce qui s'est passé à bord.
+{68394}{68495}L'ordinateur a tout enregistré|et l'a répercuté à la Base.
+{68506}{68542}Et ensuite?
+{68567}{68639}J'ai mal... Rends-moi un service.
+{68654}{68675}Déconnecte-moi.
+{68692}{68773}Même réparé,|je ne serai plus jamais au top niveau.
+{68807}{68841}J'aime mieux n'être plus rien.
+{68887}{68904}Tu es sûr?
+{68949}{69004}Fais ça pour moi.
+{69361}{69383}C'était pas moi.
+{69404}{69440}J'ai rien fait.
+{69484}{69539}C'était... c'était ce dragon.
+{69547}{69580}Il mange le cerveau.
+{69584}{69627}On peut rien contre lui.
+{69631}{69653}Où sont Boggs et Rains?
+{69659}{69738}Il les a crevés comme des cochons.|C'était pas moi!
+{69788}{69827}Il est fou à lier.
+{69833}{69891}Je n'accuse personne,|mais il aurait dû être encordé.
+{69899}{69978}Vous l'avez dit, chef, il est fou dingue.
+{69983}{70067}Séparez-le des autres,|je ne veux pas qu'il crée une panique.
+{70106}{70123}Calmez-le.
+{70128}{70162}Qu'il parle d'abord des autres.
+{70203}{70275}Reprends-toi... essaie de répondre.
+{70285}{70357}- Où sont Boggs et Rains?|- C'était pas moi.
+{70364}{70426}C'est sans espoir.|Vous ne tirerez rien de lui.
+{70433}{70471}Envoyons une équipe de recherche.
+{70476}{70524}Je crains d'être forcé|de conclure que ce salaud
+{70528}{70557}a tué les autres.
+{70630}{70683}Ca, vous en savez rien.
+{70713}{70766}Il m'ajamais menti.
+{70778}{70854}Il est cinglé et tête en l'air|mais c'est pas un menteur.
+{70906}{70944}Il dit la vérité.
+{70963}{71035}Je voudrais lui parler|au sujet de ce... dragon.
+{71045}{71076}C'est un dragon!
+{71081}{71110}Pas question.
+{71136}{71157}Votre avis
+{71161}{71233}ne m'intéresse pas.|Vous ne connaissez pas la réalité.
+{71240}{71317}Il a commis de nombreux|assassinats sanguinaires.
+{71343}{71388}Ce n'est pas vrai, M. Dillon?
+{71395}{71409}Ca oui,
+{71426}{71455}c'est vrai.
+{71517}{71582}Alors, je veux parler avec vous.|C'est important.
+{71590}{71628}Quand j'aurai achevé ma tâche,
+{71635}{71707}je serai heureux de papoter avec vous.
+{71821}{71876}Voyons si j'ai bien suivi.
+{71903}{71979}Une créature de près de 3 m|avec du sang acide
+{71987}{72026}qui était dans votre capsule!
+{72050}{72124}Il tue à vue et a un sale caractère.
+{72137}{72195}Vous espérez me faire avaler ça?
+{72215}{72256}Je n'espère rien du tout.
+{72265}{72292}Quelle histoire!
+{72302}{72348}Ca oui! Epatante.
+{72372}{72401}Jamais entendu ça!
+{72413}{72494}C'est évident. Alors,|que voulez-vous que nous fassions?
+{72585}{72614}Quelles armes avez-vous?
+{72629}{72723}C'est une prison.|Pas d'armes accessibles aux détenus.
+{72732}{72770}Pour qu'ils ne vous tuent pas!
+{72777}{72844}Oui. Et on ne peut pas s'évader.
+{72872}{72939}La navette de secours l'éliminera.
+{72944}{73040}C'est une prison de haute sécurité
+{73074}{73156}et vous n'avez aucune arme ici?
+{73219}{73308}Des couteaux à la boucherie,|quelques autres au réfectoire...
+{73317}{73389}des haches d'incendies ici et là...|rien de bien redoutable.
+{73396}{73420}C'est tout?
+{73439}{73494}On s'est engagés sur l'honneur.
+{73609}{73638}Alors, on est baisés.
+{73677}{73713}C'est vous qui êtes baisée.
+{73732}{73792}Je vous boucle à l'infirmerie.|En quarantaine.
+{73799}{73855}M. Aaron va vous escorter.
+{73866}{73897}Là-bas, vous serez à l'abri
+{73902}{73959}de ces vilaines grosses bêtes!
+{74041}{74075}Bonne petite!
+{74139}{74215}Rassemblement au réfectoire.|Le Superviseur veut vous parler.
+{74231}{74277}Au réfectoire, tout de suite!
+{74306}{74357}Aucun moyen de partir d'ici?
+{74414}{74465}Le vaisseau de ravitaillement|tous les six mois.
+{74471}{74491}C'est tout?
+{74496}{74520}C'est tout.
+{74594}{74668}Mais ils envoient une navette|pour te ramener. Bientôt.
+{74741}{74763}Quand?
+{74774}{74798}Je ne sais pas.
+{74806}{74873}Personne ne se bouscule pour venir ici!
+{74956}{75008}Dis-moi de quoi tu parlais avec Andrews.
+{75078}{75121}Tu me traiterais de folle.
+{75171}{75197}Ce n'est pas charitable.
+{75411}{75435}Comment ça va?
+{75473}{75509}Pas terrible.
+{75586}{75631}Mal à la gorge... Mal au ventre...
+{75656}{75680}et furieuse!
+{75699}{75735}Ca peut se comprendre.
+{75795}{75834}Tu veux mon cocktail spécial?
+{75863}{75894}Pourquoi on accuse les gens
+{75901}{75925}de n'importe quoi?
+{75940}{75988}Personne n'est parfait.|On estjuste des hommes.
+{76010}{76063}Je connais pas d'être humain parfait.
+{76101}{76132}Vous êtes mariée?
+{76180}{76231}- Moi?|- Mariez-vous, faites des gosses.
+{76246}{76279}Vous êtes belle fille.
+{76308}{76356}J'en ai connu plein, avant.
+{76391}{76436}Elles m'aimaient bien...
+{76525}{76554}Au début.
+{76682}{76737}Vous y passerez.
+{76900}{76926}Tu l'es?
+{76955}{76981}Quoi?
+{77010}{77039}Mariée.
+{77055}{77079}Pourquoi?
+{77108}{77134}Simple curiosité.
+{77254}{77283}Dis-moi la vérité.
+{77340}{77421}Je t'ai demandé|comment tu es venu ici et tu as éludé.
+{77430}{77473}Quand j'ai parlé de ce tatouage
+{77478}{77552}sur ton crâne, tu as esquivé aussi.
+{77622}{77684}C'est une longue et triste histoire...
+{77730}{77761}Assez mélodramatique.
+{77777}{77813}Je suis prête à tout.
+{77880}{77913}Si tu insistes...
+{78034}{78073}Après mes années de fac,
+{78130}{78216}en dépit du fait|que j'étais devenu secrètement esclave
+{78225}{78263}de la morphine,
+{78272}{78311}on me jugeait très prometteur.
+{78329}{78370}Un chirurgien d'avenir...
+{78447}{78555}Pendant mon internat,|j'ai passé 36 h d'affilée aux urgences.
+{78579}{78656}Après quoi, j'ai pris une grande cuite.
+{78679}{78715}Là-dessus, on m'a rappelé.
+{78731}{78839}Une chaudière d'usine avait explosé.|Il y avait 30 blessés.
+{78851}{78878}Onze sont morts.
+{78904}{79014}Pas de leurs blessures...|J'avais mal dosé l'analgésique.
+{79076}{79170}J'ai eu 7 ans de prison|et j'ai été interdit de chirurgie.
+{79249}{79292}Au moins, ça m'a guéri de la drogue.
+{79321}{79345}C'est moche...
+{79396}{79439}Je m'en suis tiré à bon compte.
+{79491}{79513}Tu étais ici?
+{79559}{79588}Je me suis lié
+{79591}{79634}avec ces voyous de tout poil.
+{79641}{79672}Et quand ils sont restés,
+{79693}{79732}je suis resté aussi.
+{79779}{79832}Personne d'autre ne voulait de moi.
+{79904}{79928}Alors,
+{79934}{79967}tu ne crains pas ma seringue?
+{81878}{81921}Contrôle anti-rumeurs.
+{81928}{81966}Voici les faits.
+{81995}{82074}A 8 h ce matin, le détenu Murphy,
+{82083}{82190}à cause de sa négligence,|est mort dans le puits 17.
+{82207}{82284}Apparemment happé|par les pales du ventilateur.
+{82348}{82405}Vers 21 h,
+{82423}{82504}Ie détenu Golic est apparu|dans un état mental inquiétant.
+{82512}{82562}Boggs et Rains sont portés manquants.
+{82593}{82674}Il est vraisemblable|qu'ils ont été attaqués
+{82689}{82754}par le détenu Golic.
+{82807}{82869}Une équipe va partir à leur recherche.
+{82920}{82934}Que les volontaires
+{82945}{82986}se présentent.
+{83049}{83141}Il est clair que ce centre|habituellement si bien huilé
+{83147}{83219}connaîtï soudain quelques problèmes.
+{83227}{83301}J'espère que nous saurons nous reprendre
+{83306}{83359}d'ici l'arrivée, dans quelques jours,
+{83365}{83434}du vaisseau qui rapatriera Ripley.
+{83442}{83487}Il est ici! Il a eu Clemens!
+{83492}{83518}Balivernes!
+{83522}{83577}Je vous dis qu'il est là!
+{83587}{83649}Aaron, enfermez cette folle à l'infirmerie.
+{83952}{83976}Merde!
+{84144}{84187}Qu'est-ce qu'on fait maintenant?
+{84194}{84232}Qui commande?
+{84262}{84279}S'organiser...
+{84290}{84317}Il faut s'organiser.
+{84344}{84365}C'est moi
+{84368}{84385}Ie plus gradé.
+{84390}{84436}C'est 85 qui commande? Pitié!
+{84456}{84473}M'appelle pas 85.
+{84485}{84536}Je peux pas remplacer Andrews.
+{84565}{84596}C'était un type bien...
+{84613}{84656}Ces conneries, on s'en fout.
+{84683}{84745}Et vous, la fille? Vous êtes officier.
+{84751}{84796}Faites voir votre sens du commandement.
+{84803}{84832}Oublions Shirley Temple.
+{84833}{84852}Vas-y, toi.
+{84855}{84879}Je suis pour.
+{84883}{84945}- Du reste, tu fais toujours la loi.|- Pas question.
+{84962}{85010}J'ai pas le genre à être officier.
+{85065}{85108}Je m'occupe que de moi.
+{85118}{85180}Il veut quoi, ce putain d'animal?
+{85241}{85284}Nous bousiller tous!
+{85393}{85422}C'est-y pas gentil!
+{85436}{85455}On fait quoi?
+{85582}{85611}On n'a pas d'armes, hein?
+{85631}{85650}Non.
+{85678}{85738}Je n'en ai jamais vu|un tout à fait comme lui.
+{85758}{85794}Il bouge différemment.
+{85852}{85888}Les autres avaient peur du feu...
+{85916}{85949}mais de rien d'autre.
+{85987}{86021}On peut boucler la zone?
+{86028}{86057}Rien à faire.
+{86098}{86156}Y a plus de 600 conduits d'aération...
+{86160}{86244}Et la vidéo?|Tous ces moniteurs en circuit fermé?
+{86257}{86320}Ca marche plus depuis des années.
+{86343}{86372}Rien ne marche ici.
+{86375}{86428}Y a le matériel mais rien pour dépanner.
+{86433}{86484}- 85 dit que...|- M'appelle pas comme ça.
+{86487}{86521}on n'a ni télé ni hi-fi...
+{86533}{86583}ni clime, ni système vidéo...
+{86595}{86653}ni caméras de surveillance, ni congélateurs,
+{86657}{86753}ni sorbets, ni capotes,|ni putes, ni armes.
+{86772}{86830}Tout ce qu'on a ici, c'est de la merde.
+{86858}{86935}Pourquoi on lui cause?|C'est elle qui a amené ce cochon.
+{86963}{87010}Balançons cette conne
+{87015}{87046}à travers le mur!
+{87083}{87107}Morse...
+{87225}{87273}ferme ta grande gueule.
+{87543}{87562}Alors?
+{87909}{87945}C'est quoi, ça?
+{87972}{88020}Ca relie le réfectoire
+{88030}{88095}à l'infirmerie. C'est un conduit d'aération.
+{88100}{88141}Allons-y.
+{88153}{88189}On va le traquer.
+{88195}{88271}Y a des kilomètres de tunnels là-dessous.
+{88305}{88341}Il n'ira pas loin.
+{88373}{88426}Il va faire son antre dans ce coin.
+{88432}{88466}Sans doute...
+{88505}{88531}ici.
+{88548}{88584}Comment vous le savez?
+{88620}{88663}C'est comme un lion...
+{88682}{88732}qui reste près des zèbres.
+{88738}{88786}C'est nous les zèbres?
+{88812}{88869}Mais aller nous balader|dans le noir... vous rigolez?
+{88877}{88920}Le conduit principal n'a pas d'ouvertures.
+{88927}{88956}On a des lampes?
+{88962}{89024}Des milliers,|mais pas de piles. Rien ne marche.
+{89032}{89058}Des torches?
+{89072}{89137}Vous êtes capables d'allumer du feu?
+{89147}{89219}La plupart des humains|y arrivent depuis l'Age de Pierre.
+{89258}{89294}Pas la peine d'ironiser.
+{89369}{89405}Ca n'ajamais servi.
+{89412}{89436}C'était pour
+{89437}{89512}Ies déchets nucléaires.|Ca s'est pas fait. C'est propre.
+{89519}{89567}C'est le seul accès?
+{89577}{89604}Exact.
+{89612}{89660}Les murs, c'est 2 mètres d'acier!
+{89677}{89711}Ils ont fait du beau boulot.
+{89714}{89772}Si on fait entrer la chose là-dedans,
+{89802}{89836}elle pourra pas sortir?
+{89843}{89859}Exact.
+{89882}{89932}Rien à faire.
+{90108}{90160}C'est là. Je me rappelle pas le nom...
+{90167}{90191}De la quinitricétyline.
+{90197}{90226}Je le savais.
+{90254}{90300}Je vais organiser le boulot
+{90308}{90370}avec Dillon pour l'étaler partout.
+{90442}{90485}David, installe les fûts.
+{90490}{90526}D'accord, 85.
+{90598}{90636}M'appelle pas comme ça.
+{90699}{90769}Pourquoi vous l'appelez 85?
+{90793}{90905}On a vu son dossier personnel...|C'est son Q.I.
+{91097}{91196}Un jour, j'ai vu un fût de ce truc|tomber sur le fortin d'un port.
+{91202}{91279}L'explosion a envoyé un remorqueur|en cale sèche pour 17 semaines.
+{91286}{91322}C'est du costaud!
+{91442}{91495}Voyons si j'ai bien pigé.
+{91519}{91596}Vous voulez le faire sortir|à coup de flammes,
+{91602}{91690}Ie forcer à entrer ici|et fermer la porte pour le piéger?
+{91700}{91717}C'est ça.
+{91722}{91755}Et vous voulez
+{91762}{91810}que des chromos Y vous aident?
+{91830}{91858}Vous avez mieux à faire?
+{91868}{91928}Pourquoi on risquerait notre cul pour vous?
+{91932}{91980}Votre cul, il est déjà mal barré.
+{91982}{92030}La seule question, c'est...
+{92039}{92080}comment vous comptez le sauver!
+{92420}{92458}Ca pue, cette saleté.
+{92712}{92755}Le toubib vous manque, hein?
+{92822}{92865}Pourquoi vous dites ça?
+{92887}{92940}Vous étiez plutôt copains, non?
+{93000}{93065}Vous avez regardé par le trou de la serrure!
+{93076}{93114}C'est bien ce que je pensais.
+{93302}{93331}Je déteste cet endroit.
+{93464}{93524}Y a quelque chose près de nous.
+{93602}{93683}Attendez mon signal pour allumer.|Le signal, ce sera ça.
+{93722}{93777}Compris? Vous vous en souviendrez?
+{95359}{95393}Attendez le signal, bon Dieu!
+{95607}{95638}Baissez-vous!
+{95736}{95799}Vite, il faut trouver les extincteurs.
+{95804}{95842}Il faut aider ces mecs.
+{96132}{96192}Foncez au dépôt!|Et n'ouvrez pas la porte!
+{97664}{97745}Dillon! Viens ici.|En voilà encore un!
+{97786}{97858}Merde! Ca fait dix.
+{97949}{97999}Putain!
+{98022}{98067}On fait quoi maintenant?
+{98166}{98204}- Ca va?|- On s'en fout!
+{98213}{98252}Il rôde dans le coin. On fait quoi?
+{98261}{98292}Je l'ai déjà dit.
+{98295}{98348}- Triste crétin!|- Arrêtez vos conneries.
+{98371}{98410}Dis à ton pote de se calmer.
+{98481}{98510}Vous avez une idée?
+{98557}{98588}Je vais dans l'EEV.
+{98601}{98630}Pourquoi?
+{98640}{98688}J'ai besoin du neuro-scanner.
+{98726}{98752}Z'avez une sale tête.
+{98757}{98800}Je m'en fous. Qu'est-ce qu'on fait?
+{98814}{98852}Tu veux mon poing sur le pif?
+{98856}{98888}Ta gueule,
+{98891}{98917}tu vas foutre la panique.
+{98928}{98952}La panique?
+{98958}{99003}T'es même pas foutu d'épeler ça!
+{99028}{99071}La ferme, vous deux.
+{99130}{99154}La ferme!
+{99415}{99444}J'ai plus d'idées.
+{99456}{99485}C'est pas un scoop!
+{99543}{99598}- Si on sortait?|- Tu parles d'une idée!
+{99606}{99706}Il fait nuit et l'équipe de secours|est à des heures de vol d'ici!
+{99731}{99807}Super. Tu veux qu'on reste|pour qu'il nous bouffe au déjeuner?
+{99813}{99865}Rassemble tous les mecs|qui sont encore debout
+{99871}{99921}et amène-les au fourneau.
+{100718}{100768}Je peux vous aider?
+{100826}{100869}Je voulais pas vous faire peur.
+{100901}{100944}Faut pas vous balader seule.
+{100948}{100979}Rendez-moi service.
+{100993}{101044}Vous allez taper sur le clavier.
+{101363}{101385}Comment je fais?
+{101385}{101450}Taper B ou C... Que dit C?
+{101461}{101497}"lndiquez bio-fonctions".
+{101503}{101519}C'est ça.
+{101618}{101656}J'y suis. Et maintenant?
+{101670}{101709}Attendez la fin du cycle.
+{101746}{101775}C'est flou.
+{101790}{101829}Tapez sur lmage Fine.
+{102318}{102347}Continuez à regarder.
+{102528}{102559}Je sais pas déchiffrer ça.
+{102568}{102592}Une hémorragie
+{102595}{102653}formerait une tache sombre.
+{102807}{102838}Regardez s'il y a
+{102855}{102912}une ligne de fracture à la base du crâne...
+{102943}{102967}blanchâtre...
+{102985}{103021}TISSU ETRANGER
+{103190}{103209}Quoi?
+{103258}{103294}Y en a un en vous.
+{103386}{103415}Impossible!
+{103516}{103537}Comment est-ce?
+{103604}{103644}TISSU ADN NON VISIBLE
+{103670}{103687}Horrible!
+{103700}{103738}Je veux voir.
+{103803}{103825}Arrêtez sur l'image.
+{103827}{103882}- Regardez pas!|- Bloquez!
+{104512}{104539}Désolé.
+{104740}{104769}C'est en marche.
+{104790}{104829}Vous voulez leur dire quoi?
+{104862}{104903}Que la station est contaminée.
+{104930}{104956}Vous plaisantez?
+{104978}{105009}Leur navette fera demi-tour!
+{105035}{105093}- Je sais.|- Vous déconnez!
+{105105}{105168}Notre seul espoir,|c'est qu'ils tuent la bête.
+{105190}{105267}Et ils peuvent vous mettre|en hibernation. Vous opérer...
+{105276}{105314}Ils ont la technologie.
+{105317}{105413}Si l'Alien quitte cette planète,|il tuera tout.
+{105425}{105476}La Compagnie s'en moque bien!
+{105479}{105546}Ils veulent l'avoir|pour leur labo d'armes biologiques.
+{105565}{105622}Alors il ne faut pas|les laisser débarquer ici.
+{105645}{105669}Faites pas chier!
+{105691}{105789}C'est moche que vous ayez ça|dans le corps, mais je veux m'en tirer!
+{105797}{105833}Je me fous des prisonniers.
+{105837}{105892}J'ai une femme et un gosse.|Mon départ était prévu.
+{105914}{105943}C'est dur, mais,
+{105947}{105974}je dois envoyer ce message...
+{105987}{106032}Donnez-moi le bon Dieu de code.
+{106043}{106071}Excusez-moi, madame...
+{106084}{106106}Ie code est secret.
+{106113}{106175}Ecoute, petit con, il faut le faire...
+{106200}{106236}Y a pas le choix.
+{106260}{106311}Je vous le donnerai pas. Pas question!
+{106472}{106520}Ecoutez... c'est pas contre vous.
+{106548}{106577}Vous comprenez?
+{106587}{106626}Je vous trouve très bien.
+{106767}{106793}Merci.
+{107007}{107033}Vous avez une idée?
+{107037}{107078}Essayer de le trouver
+{107125}{107168}et voir s'il est aussi fort que ça.
+{107175}{107215}Vous allez le chercher?
+{107277}{107342}Je crois savoir où il est.
+{107353}{107394}Quelque part là-dessous.
+{107424}{107456}Au sous-sol.
+{107467}{107520}Toute la station est en sous-sol!
+{107565}{107598}C'était une métaphore.
+{107640}{107666}Vous voulez venir?
+{107754}{107795}Je suis trop con!
+{107856}{107950}RECU BILAN NEURO-SCANNER|ARRIVEE SECOURS DANS 2 H
+{108357}{108412}PRIORITE ABSOLUE|LT. RIPLEY EN QUARANTAINE
+{108507}{108564}CONFIRMEZ RECEPTION
+{109793}{109846}Où es-tu quand j'ai besoin de toi?
+{110645}{110683}N'aie pas peur,
+{110730}{110778}maintenant, je suis de la famille.
+{112380}{112423}Tu es dans ma vie depuis si longtemps
+{112462}{112524}tu es la seule chose dontje me souvienne...
+{112574}{112626}A toi de faire quelque chose pour moi.
+{112670}{112703}C'est facile.
+{112720}{112753}Fais juste
+{112779}{112844}ce que tu fais avec les autres.
+{113908}{113953}Il refuse de me tuer.
+{113958}{114001}Qu'est-ce que tu fous ici?
+{114011}{114052}J'en ai un dans le corps.
+{114114}{114149}- Quoi?|- Je l'ai vu.
+{114179}{114215}Sur le scanner.
+{114234}{114258}C'est une reine.
+{114289}{114332}Une pondeuse.
+{114349}{114394}Elle peut en faire mille comme celui-ci!
+{114413}{114478}Ca m'a l'air|d'une belle foutaise, tout ça!
+{114519}{114557}Comment elle est entrée en toi?
+{114666}{114719}Quand j'étais en hyper-sommeil, j'imagine.
+{114760}{114811}Je n'ai pas beaucoup de temps
+{114851}{114904}et je n'arrive pas|à faire ce que je devrais.
+{114966}{115012}Il faut que tu m'aides.
+{115109}{115152}Il faut que tu me tues.
+{115188}{115208}Quoi?
+{115213}{115261}De toute façon, je suis fichue.
+{115276}{115322}Je n'y survivrai pas.
+{115354}{115421}Mais l'Alien qui est en moi|en engendrera des milliers!
+{115463}{115499}Elle doit mourir.
+{115530}{115587}Pour ça, il faut me tuer.
+{115656}{115692}Tu en as la force?
+{115726}{115786}T'en fais pas pour ça.
+{116211}{116247}Pas de discours...
+{116341}{116379}Pas de prières.
+{117148}{117177}Alors?
+{117184}{117220}J'aime pas perdre.
+{117235}{117290}Devant rien ni personne!
+{117299}{117409}Ce bestiau a tué la moitié des gars|et les autres font sous eux.
+{117416}{117516}Tant qu'il est là,|tu sauveras pas l'univers.
+{117561}{117590}Sale poltron!
+{117638}{117710}Je veux le liquider|et pour ça, j'ai besoin de toi.
+{117723}{117816}S'il refuse de te tuer,|ça peut nous aider pour le coincer.
+{117837}{117887}Alors m'emmerde pas!
+{118076}{118105}Si on le tue...
+{118151}{118182}tu t'occuperas de moi?
+{118186}{118232}Sans problème.
+{118238}{118264}Rapide...
+{118273}{118319}facile et sans douleur.
+{118355}{118444}Ou vous crevez assis sur votre cul|ou vous crevez en vous battant.
+{118454}{118519}On peut essayer au moins!|On lui doit bien ça!
+{118523}{118564}De quoi tu parles?
+{118571}{118627}De bousiller ce salopard.
+{118633}{118667}Tu veux qu'on l'attaque?
+{118681}{118707}Arrête de déconner!
+{118718}{118766}Vous êtes tous cinglés!
+{118781}{118829}- J'ai femme et enfant!|- On s'en fout, 85.
+{118833}{118867}T'es pas un croyant comme nous,
+{118871}{118917}t'es un flic de la Compagnie.
+{118927}{118999}Exact, je suis pas|un sale assassin comme vous tous.
+{119028}{119052}T'arrêtes pas
+{119058}{119084}de me traiter de con...
+{119091}{119144}Je suis assez malin|pour ne pas avoir eu perpète.
+{119157}{119171}Va chier!
+{119215}{119273}Et assez malin|pour attendre des renforts armés
+{119278}{119316}avant d'attaquer.
+{119323}{119345}D'accord...
+{119356}{119411}Restez tous assis sur votre cul. Parfait.
+{119423}{119478}Moi je reste assis sur mon cul, d'accord?
+{119486}{119512}Vas-y.
+{119528}{119561}Oh, j'oubliais...
+{119576}{119615}tu as un contrat avec Dieu
+{119626}{119672}pour vivre éternellement!
+{119682}{119709}Les autres
+{119716}{119737}pédales
+{119745}{119784}n'ont qu'à attendre aussi.
+{119788}{119843}Moi et elle, on va se bagarrer.
+{119910}{120005}Moi aussi, je veux qu'il crève.|Cette ordure a tué mes potes.
+{120047}{120083}Attendons la navette de secours,
+{120090}{120131}pour avoir des armes.
+{120138}{120179}Pourquoi on irait au suicide?
+{120213}{120246}Parce qu'ils ne le tueront pas!
+{120271}{120333}Mais ils vous tueront peut-être|pour l'avoir vu!
+{120341}{120377}C'est dingue!
+{120383}{120438}C'est du baratin. Ils nous tueront pas!
+{120505}{120565}Quand ils ont appris l'existence d'Alien,
+{120573}{120628}il est devenu|plus précieux que notre équipage.
+{120658}{120711}La fois suivante,|ils ont envoyé les Marines
+{120718}{120744}et leurs vies ne comptaient pas non plus.
+{120773}{120864}Et ils épargneraient des détenus|à perpète qui ont trouvé Dieu
+{120870}{120921}au fond du cul de l'espace?
+{120963}{121047}Vous croyez qu'ils vous laisseront|compromettre leurs projets?
+{121082}{121106}A leurs yeux,
+{121110}{121139}on est de la bouse.
+{121152}{121181}Ils se foutent pas mal
+{121196}{121277}de savoir qu'un seul de vos amis est mort.
+{121300}{121319}Un seul!
+{121433}{121466}Tu as un plan?
+{121473}{121519}C'est une fonderie de plomb, non?
+{121543}{121637}Faut faire tomber|ce putain d'animal dans le creuset
+{121649}{121692}et le noyer dans le plomb fondu.
+{121713}{121740}D'accord.
+{121749}{121766}Mais comment?
+{121807}{121846}Avec quoi on va l'appâter?
+{122015}{122035}Merde!
+{122061}{122104}Vous allez tous crever.
+{122145}{122207}Le seul problème, c'est comment...
+{122251}{122294}Debout sur vos deux pieds?
+{122320}{122373}Ou à genoux?
+{122385}{122407}Et le suppliant!
+{122428}{122476}Moi j'aime pas trop ça.
+{122480}{122533}On m'ajamais fait de cadeau.
+{122548}{122601}Alors je dis... merde à cette chose!
+{122604}{122621}Faut se bagarrer.
+{122757}{122784}Oui, merde!
+{122792}{122833}Allons le bousiller!
+{123243}{123291}Depuis quand il ne sert plus?
+{123309}{123350}La dernière fois, c'était il y a 5 ou 6 ans.
+{123357}{123393}Le piston va fonctionner?
+{123401}{123451}Rien n'est sûr ici.
+{123571}{123597}On le coince,
+{123600}{123624}tu baisses le levier,
+{123630}{123673}Ie piston va le pousser
+{123680}{123743}dans le creuset,|et on fera pisser le plomb.
+{123755}{123796}Fin de l'histoire.
+{123803}{123831}Et si un gars déconne?
+{123835}{123871}Alors on sera baisés.
+{123874}{123898}On n'a qu'une chance.
+{123944}{123976}On aurait pas le temps de réarmer.
+{124002}{124050}Quand tu actionneras le levier,
+{124060}{124144}tu resteras enfermée|quelques secondes avec la bête.
+{124156}{124177}Si vous foirez pas,
+{124182}{124206}je foirerai pas.
+{124212}{124274}J'espère que c'est vrai|qu'il te veut pas de mal.
+{124282}{124397}Parce qu'il ne peut sortir|qu'en passant par la trappe où tu seras.
+{124422}{124482}- Où seras-tu?|- Pas loin.
+{124502}{124531}Où sont les autres?
+{124550}{124574}Ils prient.
+{124637}{124681}- Il a un problème, ce plan.|- Lequel?
+{124687}{124779}Faudra cavaler dans un labyrinthe|tout noir avec ce bâtard au cul!
+{124787}{124859}Tu le diriges dans le couloir B|jusqu'à la salle du piston.
+{124865}{124917}Je bouclerai le sas derrière toi.
+{124973}{125016}Couloir J ouvert.
+{125019}{125070}Et s'il refuse d'avancer?|Et si on se perd?
+{125217}{125260}C'est son idée à elle.
+{125538}{125614}Couloir B, sas 7.
+{125632}{125694}J'y crois pas, à ces conneries.
+{125714}{125747}Hé, les mecs!
+{125770}{125789}Mon sas
+{125796}{125815}fonctionne pas!
+{125817}{125844}Qu'est-ce qu'il dit?
+{125847}{125876}Il faut revoir ce plan!
+{126199}{126249}Vous avez rien entendu?
+{126549}{126604}Viens me chercher, sale merdeux!
+{126634}{126670}Il est derrière moi!
+{126699}{126720}C'est commencé.
+{126770}{126789}Derrière moi!
+{126824}{126853}Il est dans le couloir B.
+{126884}{126934}Fermez le sas!
+{126944}{127002}Il doit se diriger vers le couloir.
+{127119}{127182}Ce con a l'air en rogne!
+{127186}{127234}- Tu as dit le B?|- Non, le E.
+{127239}{127297}- Mais tu as dit de ne pas bouger!|- Fonce.
+{127757}{127824}Viens me chercher, tête de noeud!
+{128092}{128114}Sas A-7 fermé.
+{128232}{128261}Ouvre le passage Est.
+{128282}{128309}Sas B-7 verrouillé.
+{128690}{128726}Tout le monde dans le couloir E.
+{128729}{128775}- Merde, où il est, le E?|- Par ici.
+{129257}{129305}Viens... minou, minou, minou...
+{129441}{129472}Oh bon Dieu!
+{129479}{129495}Saloperie!
+{129551}{129570}Il arrive!
+{129611}{129652}Il arrive par le tunnel!
+{129659}{129705}Il nous suit!
+{129728}{129779}Ouvrez ces putains de sas!
+{129839}{129942}Dillon? Quelqu'un?|On est pas à la manoeuvre, bordel!
+{129954}{130055}Kevin! Gregor! Où vous êtes?
+{130142}{130171}Je suis revenu dans le A.
+{130527}{130602}Sas 3 couloir F fermé...
+{130631}{130660}j'espère...
+{130721}{130755}A quoi tu joues?
+{130762}{130822}Tu la tiens mal. Tiens-la comme ça.
+{130827}{130873}Tu vas tuer quelqu'un, connard!
+{131209}{131228}Ils n'ont
+{131231}{131272}qu'à suivre le couloir.
+{131292}{131321}Reste ici.
+{131416}{131449}Où il est?
+{132658}{132697}N'active pas le piston!
+{132761}{132775}Arrête,
+{132804}{132825}il est parti.
+{132934}{132963}Il est parti.
+{134007}{134031}Au secours!
+{134341}{134394}Il arrive!
+{134451}{134479}Prends le piston.
+{134608}{134658}Tout va bien, Kevin.
+{134965}{134985}Laisse-le.
+{134991}{135030}Laisse-le, il est mort.
+{135391}{135432}Merde! Il reste combien de temps?
+{135441}{135491}Je suis pas sûr, 4 ou 5 minutes.
+{135498}{135520}Mais il faut le ramener ici
+{135523}{135602}avant que le piston|bloque l'entrée. Magnons-nous!
+{136308}{136325}Au secours!
+{136446}{136559}Aide-moi, Dillon! Il vient sur moi!
+{136611}{136681}Regarde pas en arrière, Jude... Fonce!
+{137384}{137461}Bon sang, vous voilà enfin!
+{137510}{137529}Gardien Aaron.
+{137540}{137564}Matricule 13 75 12.
+{137580}{137604}On n'a pas grand monde...
+{137616}{137697}Où est le lieutenant Ripley?|Elle vit encore?
+{137708}{137760}Si elle vit,|elle est au haut-fourneau...
+{137793}{137841}à la fonderie de plomb avec le cureton.
+{137848}{137881}Ils voulaient pas attendre.
+{138245}{138274}Nom de Dieu!
+{138283}{138324}Sale con, tu m'as fait peur.
+{138347}{138383}Je croyais que t'étais la bête!
+{138410}{138430}Connard!
+{138615}{138653}Branlouilleur!
+{139150}{139172}Avance!
+{139198}{139219}Vas-y, saloperie!
+{139420}{139442}Sors de là!
+{139483}{139495}Viens!
+{139573}{139614}Ripley, le temps passe!
+{139780}{139799}Où tu es?
+{140550}{140564}Amène-toi.
+{140582}{140613}Sors de là!
+{140626}{140674}Tu es malade ou quoi?
+{140678}{140697}Laisse-la partir.
+{140770}{140830}Ca marche. Allons à la salle de piston.
+{140865}{140930}- Fais-la passer devant le piston.|- J'essaie!
+{141097}{141116}Le sas!
+{141331}{141360}Ferme le sas!
+{141385}{141416}- Allez!|- Ferme-le.
+{141427}{141449}Ferme le sas!
+{141502}{141521}Vite!
+{141713}{141741}Je vais verser le plomb!
+{142650}{142683}- Et toi?|- Je reste.
+{142687}{142703}Déconne pas!
+{142707}{142781}- Y a dix tonnes de plomb fondu!|- Je veux mourir.
+{142789}{142839}On a un accord, n'oublie pas.
+{142845}{142914}Elle meurt d'abord,|toi ensuite. Je te lâche pas.
+{142927}{142953}Allons-y.
+{143372}{143398}Je l'empêche de filer!
+{143412}{143434}Et moi?
+{143438}{143472}Dieu s'occupe de toi.
+{143544}{143566}Verse le plomb.
+{143759}{143774}Crève!
+{143850}{143881}Fais-le cuire!
+{143900}{143928}Vas-y!
+{143985}{144009}Verse le plomb.
+{144074}{144115}T'es une chiffe ou quoi?
+{144120}{144148}Bats-toi, saloperie!
+{144215}{144258}Morse, viens ici.
+{144335}{144364}Verse le plomb!
+{144464}{144479}Verse-le!
+{145827}{145856}J'aime pas les morpions!
+{146544}{146563}Il est chauffé à blanc!
+{146594}{146633}Ouvre les vannes.
+{146651}{146666}Arrose
+{146672}{146707}ce con!
+{147512}{147529}On t'a eu!
+{149158}{149175}N'approchez pas.
+{149196}{149239}Attendez, ils viennent vous aider.
+{149246}{149277}Restez où vous êtes.
+{149394}{149427}Bishop!
+{149440}{149495}- Je viens t'aider.|- Pas de baratin.
+{149526}{149559}Je la sens bouger en moi.
+{149564}{149578}Tu sais qui je suis?
+{149606}{149683}Un droïde. Le même modèle que Bishop
+{149692}{149716}envoyé par la Compagnie.
+{149761}{149814}Je ne suis pas le droïde Bishop.
+{149831}{149867}C'est moi qui l'ai dessiné.
+{149881}{149912}Je suis tout à fait humain!
+{149943}{149989}On voulait que tu voies un visage ami
+{150019}{150041}pour prouver
+{150043}{150084}à quel point tu es précieuse pour nous.
+{150099}{150123}Pour moi.
+{150133}{150157}Tu veux la ramener?
+{150169}{150202}Non, la tuer et te ramener.
+{150216}{150233}Foutaise!
+{150243}{150271}Tu te trompes.
+{150298}{150313}On veut t'aider.
+{150334}{150368}Ca signifie quoi?
+{150394}{150439}On va te l'enlever.
+{150466}{150488}Pour la garder?
+{150504}{150581}On ne peut pas la laisser vivre.|Elle détruirait tout notre monde.
+{150656}{150690}Tu ne la ramèneras pas?
+{150694}{150733}Ne perdons pas de temps.
+{150763}{150850}On a une antenne chirurgicale|sur la navette. Viens avec moi.
+{150918}{150971}Tu peux encore avoir une vie normale.
+{151013}{151032}Des enfants...
+{151080}{151101}Et par-dessus tout,
+{151115}{151147}tu sauras qu'elle est morte.
+{151159}{151193}Laisse-moi t'aider.
+{151239}{151299}Quelle garantie est-ce que j'ai
+{151344}{151392}une fois qu'on me l'aura enlevée
+{151411}{151440}que vous allez la détruire?
+{151479}{151508}Fais-moi confiance.
+{151641}{151670}Je t'en prie,
+{151691}{151710}aie confiance.
+{152126}{152150}A quoi ça te mènerait?
+{152226}{152248}Bon Dieu!
+{152398}{152422}Aide-moi.
+{152456}{152484}Comment ça?
+{152571}{152595}C'était un accident,
+{152623}{152642}bien inutile.
+{152648}{152675}Enfoiré de droïde!
+{153138}{153196}Pense à tout ce qu'elle pourrait|nous apprendre!
+{153223}{153273}Une occasion unique!
+{153283}{153317}Laisse-moi la prendre.
+{153340}{153393}C'est un sujet magnifique.
+{153904}{153935}Que fais-tu?
+{155908}{155970}- Amène-toi.|- Va chier.
+{156141}{156227}Le capitaine Dallas estmort.
+{156243}{156305}Le vaisseau etsa cargaison sont détruits.
+{156335}{156407}Je devrais atteindre la frontière|dans environ 6 semaines.
+{156428}{156496}Avec un peu de chance,|le réseau me récupérera.
+{156520}{156551}Ici Ripley...
+{156568}{156625}Ia dernière survivante du Nostromo.
+{156656}{156677}Terminé.
+{156746}{156806}CENTRE FERME ET SCELLE
+{156810}{156885}EQUIPEMENT VENDU A LA CASSE
+{156903}{156968}FIN DE TRANSMISSION.

@@ -1,0 +1,2992 @@
+1
+00:00:43,000 --> 00:00:45,320
+<i>Je m'appelle Thomas Shelby.</i>
+
+2
+00:00:45,400 --> 00:00:47,640
+<i>Aujourd'hui, je vais tuer un homme.</i>
+
+3
+00:00:49,800 --> 00:00:51,360
+{\an8}<i>Aujourd'hui, c'est le jour du Derby.</i>
+
+4
+00:00:52,200 --> 00:00:55,680
+<i>Le meurtre se produira cet après-midi,</i>
+<i>aux courses d'Epsom.</i>
+
+5
+00:01:04,000 --> 00:01:07,560
+{\an8}<i>Je pourrai peut-être fuir</i>
+<i>après le meurtre,</i>
+
+6
+00:01:07,640 --> 00:01:11,520
+{\an8}<i>mais il y a peu de chances,</i>
+<i>c'est pourquoi j'écris cette lettre.</i>
+
+7
+00:01:11,960 --> 00:01:15,400
+{\an8}<i>Des agents de la Couronne m'ont forcé</i>
+<i>à commettre ce meurtre.</i>
+
+8
+00:01:15,480 --> 00:01:19,680
+{\an8}<i>Au cas où je mourrais moi-même,</i>
+<i>je veux révéler les faits suivants :</i>
+
+9
+00:01:20,280 --> 00:01:22,960
+{\an8}<i>ma famille n'est impliquée en rien.</i>
+
+10
+00:01:28,120 --> 00:01:29,960
+{\an8}Qui sommes-nous ?
+
+11
+00:01:31,640 --> 00:01:32,840
+{\an8}Allez !
+
+12
+00:01:41,960 --> 00:01:44,360
+{\an8}<i>Si certains sont coupables</i>
+<i>d'autres choses,</i>
+
+13
+00:01:46,560 --> 00:01:49,440
+{\an8}<i>je n'ai révélé les détails</i>
+<i>de cette mission à aucun d'entre eux,</i>
+
+14
+00:01:49,520 --> 00:01:51,640
+<i>ni utilisé de capitaux de l'entreprise.</i>
+
+15
+00:01:51,760 --> 00:01:55,000
+COURSES D'EPSOM
+GRADINS
+
+16
+00:01:57,960 --> 00:02:00,880
+{\an8}<i>Les agents de la Couronne se sont alliés</i>
+<i>aux Féniens pro-traité</i>
+
+17
+00:02:00,960 --> 00:02:02,320
+{\an8}<i>pour fomenter ce meurtre.</i>
+
+18
+00:02:02,400 --> 00:02:06,160
+{\an8}<i>Je pense que le gouvernement prévoit</i>
+<i>d'accuser l'I.R.A., qui est anti-traité.</i>
+
+19
+00:02:06,240 --> 00:02:08,640
+{\an8}<i>Ainsi, la balle</i>
+<i>que je tirerai cet après-midi</i>
+
+20
+00:02:08,720 --> 00:02:11,240
+{\an8}<i>sera le déclencheur</i>
+<i>de la guerre civile irlandaise.</i>
+
+21
+00:02:13,600 --> 00:02:16,600
+{\an8}<i>L'homme que je dois tuer</i>
+<i>est le marshal Russell.</i>
+
+22
+00:02:16,760 --> 00:02:19,720
+<i>Un ancien commandant Black and Tan</i>
+<i>ayant commis des atrocités</i>
+
+23
+00:02:19,800 --> 00:02:21,040
+<i>dans le comté de Cork.</i>
+
+24
+00:02:22,080 --> 00:02:24,920
+<i>Je n'éprouve aucun remords</i>
+<i>à l'idée de sa mort.</i>
+
+25
+00:02:25,640 --> 00:02:29,320
+<i>Toutefois, le complot derrière sa mort</i>
+<i>est source d'inquiétudes mondiales.</i>
+
+26
+00:02:29,920 --> 00:02:33,240
+<i>Ma mission est d'une telle importance</i>
+<i>qu'une fois mon but atteint,</i>
+
+27
+00:02:33,320 --> 00:02:34,960
+<i>je pense qu'ils me tueront.</i>
+
+28
+00:02:35,040 --> 00:02:36,040
+Tu veux du thé ?
+
+29
+00:02:36,120 --> 00:02:39,640
+<i>Aussi, je souhaite mentionner</i>
+<i>un individu particulier dans cette lettre.</i>
+
+30
+00:02:41,200 --> 00:02:43,800
+<i>L'agent qui a initié et orchestré ce crime</i>
+
+31
+00:02:43,880 --> 00:02:45,720
+<i>est le major Chester Campbell</i>
+
+32
+00:02:45,800 --> 00:02:48,320
+<i>des services secrets britanniques.</i>
+
+33
+00:02:49,440 --> 00:02:52,720
+<i>Me choisir pour cette basse besogne</i>
+<i>est pour lui une vengeance</i>
+
+34
+00:02:52,800 --> 00:02:55,600
+<i>qui s'explique</i>
+<i>par une haine de longue date.</i>
+
+35
+00:02:55,680 --> 00:03:00,400
+<i>Au cas où je mourrais,</i>
+<i>il faut qu'il soit traduit en justice.</i>
+
+36
+00:03:00,520 --> 00:03:03,600
+<i>Si vous lisez ceci,</i>
+<i>c'est que je suis déjà mort.</i>
+
+37
+00:03:03,680 --> 00:03:06,600
+<i>Vivant dans un pays libre, j'espère</i>
+
+38
+00:03:06,680 --> 00:03:09,960
+<i>que vous pourrez révéler au monde</i>
+<i>les faits cités ci-dessus.</i>
+
+39
+00:03:10,040 --> 00:03:12,960
+<i>Bien à vous, Thomas Shelby.</i>
+
+40
+00:03:14,440 --> 00:03:16,880
+Je t'en ai fait un quand même, petit con.
+
+41
+00:03:16,960 --> 00:03:19,320
+Ada, assieds-toi une minute.
+
+42
+00:03:23,600 --> 00:03:26,400
+Ada, s'il m'arrive
+quelque chose aujourd'hui,
+
+43
+00:03:31,200 --> 00:03:32,520
+je veux que tu postes ce courrier.
+
+44
+00:03:34,440 --> 00:03:36,000
+Il est déjà affranchi.
+
+45
+00:03:36,080 --> 00:03:39,760
+Ne pose pas de questions,
+c'est au sujet de l'assurance.
+
+46
+00:03:44,160 --> 00:03:46,960
+{\an8}Écoute, Tommy,
+
+47
+00:03:47,360 --> 00:03:50,840
+peu importe ce à quoi tu es mêlé,
+dis-nous tout.
+
+48
+00:03:53,040 --> 00:03:55,200
+Tu ne te confies jamais.
+
+49
+00:03:58,160 --> 00:03:59,600
+On t'aime, Tom.
+
+50
+00:04:02,880 --> 00:04:05,640
+Qu'est-ce que tu fais debout,
+à 6 heures du matin ?
+
+51
+00:04:07,160 --> 00:04:08,160
+Prêt ?
+
+52
+00:04:08,240 --> 00:04:10,000
+Qu'est-ce qui se passe ?
+
+53
+00:04:10,080 --> 00:04:11,120
+Un truc à faire.
+
+54
+00:04:11,200 --> 00:04:12,960
+Quoi donc ?
+
+55
+00:04:13,040 --> 00:04:14,560
+Reste ici, Ada.
+
+56
+00:04:14,640 --> 00:04:15,760
+Où ça ?
+
+57
+00:04:15,840 --> 00:04:18,440
+- Allez, on y va.
+- James, qu'y a-t-il ?
+
+58
+00:04:18,520 --> 00:04:21,720
+Ne l'écoute pas, James. Il te fera tuer.
+
+59
+00:04:21,800 --> 00:04:23,480
+Quel truc à faire ?
+
+60
+00:04:23,560 --> 00:04:25,360
+Pour la cause, Ada.
+
+61
+00:04:26,120 --> 00:04:27,640
+Pour cette bonne vieille cause.
+
+62
+00:04:53,800 --> 00:04:55,560
+Debout, là-dedans. Garde à vous.
+
+63
+00:04:55,720 --> 00:04:57,480
+Une chose à la fois.
+
+64
+00:04:57,560 --> 00:04:59,240
+C'est tout ce que je demande.
+
+65
+00:05:00,880 --> 00:05:03,200
+Vous sortez, M. Shelby.
+
+66
+00:05:17,560 --> 00:05:21,200
+Les dix témoins ont retiré
+leur témoignage contre vous,
+
+67
+00:05:21,280 --> 00:05:22,560
+hier soir.
+
+68
+00:05:23,640 --> 00:05:26,000
+Tout d'un coup, à 21 heures.
+
+69
+00:05:27,040 --> 00:05:29,440
+Ne me demandez pas pourquoi,
+je n'en sais rien.
+
+70
+00:05:31,040 --> 00:05:34,600
+Pendant les dix prochaines minutes,
+ne fais ou dis que ce que je t'indique.
+
+71
+00:05:34,680 --> 00:05:36,160
+Compris ?
+
+72
+00:05:36,240 --> 00:05:37,400
+- Compris ?
+- Oui.
+
+73
+00:05:39,920 --> 00:05:41,320
+Bonjour, Ollie.
+
+74
+00:05:42,440 --> 00:05:45,000
+Attendez. Vous, uniquement.
+
+75
+00:05:45,080 --> 00:05:46,480
+Il reste ici.
+
+76
+00:05:47,800 --> 00:05:49,120
+Reste ici.
+
+77
+00:06:28,680 --> 00:06:30,280
+Ça alors, Johnny Dogs.
+
+78
+00:06:33,600 --> 00:06:35,160
+Comment il m'a fait sortir ?
+
+79
+00:06:35,240 --> 00:06:36,760
+Je dois te trouver un téléphone.
+
+80
+00:06:36,840 --> 00:06:38,360
+Tu dois passer un appel.
+
+81
+00:06:38,440 --> 00:06:40,080
+Ça fait partie du plan de Tommy.
+
+82
+00:06:41,400 --> 00:06:42,560
+Apparemment.
+
+83
+00:06:53,800 --> 00:06:56,080
+Ce doit être pour vous, non ?
+
+84
+00:07:02,600 --> 00:07:03,760
+Allô ?
+
+85
+00:07:04,640 --> 00:07:05,840
+Arthur.
+
+86
+00:07:06,680 --> 00:07:08,000
+Tu es sorti.
+
+87
+00:07:13,440 --> 00:07:15,040
+Bien, on s'est donc occupés
+
+88
+00:07:15,120 --> 00:07:17,560
+de nettoyer devant votre porte.
+
+89
+00:07:19,280 --> 00:07:20,520
+Et devant la mienne ?
+
+90
+00:07:21,240 --> 00:07:22,920
+Qu'est-ce que vous avez pour moi ?
+
+91
+00:07:29,280 --> 00:07:31,320
+Signé par le ministre de l'Empire
+lui-même.
+
+92
+00:07:31,440 --> 00:07:33,400
+Ah, oui ? Voyons.
+
+93
+00:07:33,960 --> 00:07:36,720
+Ainsi, vous pouvez placer
+votre rhum dans nos cargaisons
+
+94
+00:07:36,840 --> 00:07:39,640
+sans que personne à Poplar Docks
+ne pose de problème.
+
+95
+00:07:39,720 --> 00:07:42,320
+Je ne vais même pas
+le donner à mon avocat.
+
+96
+00:07:42,400 --> 00:07:44,040
+- Je sais, c'est légal.
+- Vous savez quoi ?
+
+97
+00:07:44,200 --> 00:07:46,920
+Je vous fais confiance. C'est bon.
+
+98
+00:07:47,640 --> 00:07:50,040
+Alors, whisky ?
+
+99
+00:07:51,480 --> 00:07:55,280
+Cela dit,
+on doit discuter de quelque chose.
+
+100
+00:07:55,360 --> 00:07:56,600
+Quoi donc ?
+
+101
+00:07:56,680 --> 00:07:59,480
+Il est mentionné :
+
+102
+00:08:00,240 --> 00:08:02,800
+"20 % de vos exports me seront reversés."
+
+103
+00:08:03,760 --> 00:08:06,560
+- Comme convenu au téléphone.
+- Non, non.
+
+104
+00:08:06,640 --> 00:08:12,600
+J'ai dit à mon avocat
+de rédiger ceci pour nous, au cas où.
+
+105
+00:08:16,200 --> 00:08:21,440
+Il est dit ici que 100 %
+
+106
+00:08:21,520 --> 00:08:25,000
+de votre chiffre me revient.
+
+107
+00:08:28,520 --> 00:08:30,880
+- Je vois.
+- C'est juste là.
+
+108
+00:08:30,960 --> 00:08:33,760
+Ne vous en faites pas,
+c'est un contrat légal.
+
+109
+00:08:33,840 --> 00:08:37,720
+Il vous suffit de signer le document
+pour tout me transférer.
+
+110
+00:08:38,040 --> 00:08:40,360
+- Il suffit de signer ici ?
+- Oui.
+
+111
+00:08:40,440 --> 00:08:43,400
+Je vois. C'est amusant, en fait.
+
+112
+00:08:44,320 --> 00:08:45,320
+Quoi ?
+
+113
+00:08:45,400 --> 00:08:46,840
+Non, c'est amusant.
+
+114
+00:08:47,920 --> 00:08:50,240
+"Je vous donne 100 % de mon chiffre."
+
+115
+00:08:52,920 --> 00:08:53,960
+Oui.
+
+116
+00:08:55,440 --> 00:08:56,480
+Pourquoi ?
+
+117
+00:09:01,800 --> 00:09:03,920
+Ollie, non. Non.
+
+118
+00:09:04,000 --> 00:09:06,320
+Pose ça. Il comprend.
+
+119
+00:09:07,320 --> 00:09:08,800
+C'est un grand garçon, il sait.
+
+120
+00:09:08,880 --> 00:09:11,560
+Écoutez, c'est pas négociable.
+
+121
+00:09:11,680 --> 00:09:12,840
+C'est tout
+ce qu'il y a à savoir.
+
+122
+00:09:12,920 --> 00:09:16,160
+Vous n'avez qu'à signer
+ce putain de contrat.
+
+123
+00:09:16,240 --> 00:09:17,640
+- Juste ici.
+- Signer ici ?
+
+124
+00:09:17,760 --> 00:09:19,200
+Avec votre stylo.
+
+125
+00:09:19,280 --> 00:09:20,640
+- Je comprends.
+- Bien.
+
+126
+00:09:21,000 --> 00:09:22,000
+Faites donc.
+
+127
+00:09:22,080 --> 00:09:24,440
+Un associé m'attend à la porte.
+
+128
+00:09:26,840 --> 00:09:30,880
+On dirait un enfant de chœur,
+mais c'est en fait un anarchiste
+
+129
+00:09:31,560 --> 00:09:33,640
+- de Kentish Town.
+- Tommy...
+
+130
+00:09:33,720 --> 00:09:36,080
+Je vais vous tirer une balle.
+
+131
+00:09:36,200 --> 00:09:37,480
+D'accord ?
+
+132
+00:09:37,560 --> 00:09:39,920
+À mon arrivée ici, M. Solomons,
+
+133
+00:09:40,000 --> 00:09:43,280
+je me suis arrêté pour refaire mon lacet.
+N'est-ce pas ?
+
+134
+00:09:43,360 --> 00:09:44,360
+Ollie ?
+
+135
+00:09:44,800 --> 00:09:47,080
+Je me suis arrêté pour refaire mon lacet.
+
+136
+00:09:47,160 --> 00:09:48,560
+Pendant ce temps,
+
+137
+00:09:48,680 --> 00:09:51,040
+j'ai posé une grenade
+sur l'un de vos tonneaux,
+
+138
+00:09:51,880 --> 00:09:54,200
+marque 15, avec un déclencheur à distance.
+
+139
+00:09:54,760 --> 00:09:56,680
+Et mon ami, là-haut...
+
+140
+00:09:56,760 --> 00:10:01,480
+C'est comme un des anarchistes
+qui ont fait sauter Wall Street.
+
+141
+00:10:01,680 --> 00:10:03,080
+C'est un professionnel.
+
+142
+00:10:03,360 --> 00:10:05,360
+Et c'est lui qui a le déclencheur.
+
+143
+00:10:05,800 --> 00:10:09,280
+Si je ne passe pas la porte
+à 7 heures précises,
+
+144
+00:10:10,120 --> 00:10:13,400
+il déclenchera la grenade,
+
+145
+00:10:13,480 --> 00:10:18,480
+et votre rhum hautement inflammable
+nous enverra tous en enfer.
+
+146
+00:10:21,400 --> 00:10:23,000
+Et je m'en fiche,
+
+147
+00:10:25,520 --> 00:10:27,560
+car je suis déjà mort.
+
+148
+00:10:32,760 --> 00:10:34,200
+Il a refait son lacet, Alfie.
+
+149
+00:10:34,280 --> 00:10:35,560
+Et il y a bien un gamin, dehors.
+
+150
+00:10:35,640 --> 00:10:36,840
+De bonne famille, aussi.
+
+151
+00:10:36,920 --> 00:10:38,360
+C'est fou, ce qu'ils deviennent...
+
+152
+00:10:38,440 --> 00:10:40,520
+Tu faisais quoi, pendant ce temps ?
+
+153
+00:10:41,000 --> 00:10:42,480
+Il a fait son lacet, c'est tout.
+
+154
+00:10:42,560 --> 00:10:43,880
+Oui, mais toi ?
+
+155
+00:10:44,520 --> 00:10:46,120
+Je cochais les chevaux dans le journal.
+
+156
+00:10:48,640 --> 00:10:49,800
+Que faites-vous ?
+
+157
+00:10:49,960 --> 00:10:52,280
+Je regarde l'heure. Continuez.
+
+158
+00:10:53,400 --> 00:10:55,600
+Bien, Ollie, tu vas sortir
+
+159
+00:10:55,680 --> 00:10:58,600
+et mettre une balle dans la tête
+de ce garçon de bonne famille.
+
+160
+00:10:58,680 --> 00:11:02,000
+Si quelqu'un d'autre que moi sort,
+il déclenche la grenade.
+
+161
+00:11:03,800 --> 00:11:06,160
+- Il a fait son lacet...
+- J'ai bien fait mon lacet.
+
+162
+00:11:09,040 --> 00:11:11,560
+Je parie à 100 contre 1
+
+163
+00:11:13,160 --> 00:11:15,440
+que vous mentez, l'ami.
+
+164
+00:11:15,520 --> 00:11:16,720
+C'est mon argent.
+
+165
+00:11:16,800 --> 00:11:19,240
+Vous n'avez pas examiné le contexte.
+
+166
+00:11:19,760 --> 00:11:23,320
+J'ai fait sauter mon propre pub
+pour toucher l'assurance.
+
+167
+00:11:27,480 --> 00:11:32,040
+Le contexte pris en compte,
+je dirais plutôt 65 contre 1.
+
+168
+00:11:32,120 --> 00:11:33,160
+Très bonne cote.
+
+169
+00:11:33,240 --> 00:11:35,240
+Je serais plus qu'heureux
+
+170
+00:11:35,320 --> 00:11:37,880
+si vous me cédiez 65 % de votre chiffre.
+
+171
+00:11:37,960 --> 00:11:40,760
+- Merci.
+- Soixante-cinq ? Non.
+
+172
+00:11:40,840 --> 00:11:42,680
+- Ollie, t'en dis quoi ?
+- Bon sang, Alfie.
+
+173
+00:11:42,760 --> 00:11:44,720
+Il a refait son putain de lacet !
+
+174
+00:11:45,240 --> 00:11:47,760
+Il a posé une grenade, je le sais.
+
+175
+00:11:47,920 --> 00:11:49,760
+Alfie, c'est Tommy Shelby...
+
+176
+00:11:53,040 --> 00:11:55,520
+Tu te comportes comme un gamin.
+
+177
+00:11:55,680 --> 00:11:57,280
+C'est un monde d'hommes.
+
+178
+00:11:59,040 --> 00:12:02,360
+Enlève ton tablier et assieds-toi
+au coin, comme un enfant.
+
+179
+00:12:03,440 --> 00:12:05,200
+Dégage, maintenant.
+
+180
+00:12:10,120 --> 00:12:12,760
+- Quatre minutes.
+- Bien, quatre minutes.
+
+181
+00:12:13,360 --> 00:12:15,000
+Parlez-moi des grenades.
+
+182
+00:12:15,080 --> 00:12:18,160
+La marque à la craie sur le tonneau,
+à hauteur de genou,
+
+183
+00:12:18,240 --> 00:12:19,760
+c'est Hamilton Christmas.
+
+184
+00:12:19,920 --> 00:12:22,080
+Je l'ai dégoupillée
+et reliée au déclencheur.
+
+185
+00:12:41,040 --> 00:12:42,720
+Vu ce que vous me dites,
+
+186
+00:12:47,360 --> 00:12:48,880
+quarante-cinq pour cent.
+
+187
+00:12:48,960 --> 00:12:50,120
+Trente.
+
+188
+00:12:50,200 --> 00:12:52,560
+Merde, Tommy. C'est pas assez.
+
+189
+00:12:56,400 --> 00:13:00,320
+En France, M. Solomons,
+j'étais creuseur de tranchées.
+
+190
+00:13:00,400 --> 00:13:02,080
+179.
+
+191
+00:13:04,040 --> 00:13:06,000
+J'ai fait sauter un Schwaben Hohe.
+
+192
+00:13:07,760 --> 00:13:09,680
+Avec le même dispositif qu'aujourd'hui.
+
+193
+00:13:10,960 --> 00:13:12,400
+C'est marrant, ça.
+
+194
+00:13:14,640 --> 00:13:16,680
+Je connais la 179.
+
+195
+00:13:17,400 --> 00:13:19,760
+Il paraît qu'ils ont tous été enterrés.
+
+196
+00:13:21,160 --> 00:13:22,920
+Trois d'entre nous sommes sortis de terre.
+
+197
+00:13:23,000 --> 00:13:25,120
+Comme vous le faites maintenant ?
+
+198
+00:13:26,680 --> 00:13:28,320
+Exactement.
+
+199
+00:13:31,920 --> 00:13:33,320
+Putain.
+
+200
+00:13:36,320 --> 00:13:38,560
+Écoutez, je vous accorde 35 %.
+
+201
+00:13:39,160 --> 00:13:40,760
+C'est mon dernier mot.
+
+202
+00:13:42,920 --> 00:13:44,080
+Trente-cinq.
+
+203
+00:14:05,640 --> 00:14:07,880
+- T'es en retard.
+- Hé, c'est mon affaire.
+
+204
+00:14:10,760 --> 00:14:12,200
+Comment tu m'as fait sortir ?
+
+205
+00:14:12,280 --> 00:14:14,160
+J'ai besoin de toi aujourd'hui, mon frère.
+
+206
+00:14:14,240 --> 00:14:16,240
+J'ai fait jouer mes relations.
+
+207
+00:14:16,320 --> 00:14:17,920
+- Ça va ?
+- Maintenant, oui.
+
+208
+00:14:19,800 --> 00:14:21,440
+C'est à nouveau Arthur le chef ?
+
+209
+00:14:21,600 --> 00:14:24,280
+Il s'occupe de toi,
+et vous, vous vous occupez de lui.
+
+210
+00:14:24,680 --> 00:14:26,560
+Aujourd'hui, on fait de la surveillance.
+
+211
+00:14:26,640 --> 00:14:28,080
+- Tom, j'en ai marre de...
+- Finn.
+
+212
+00:14:28,160 --> 00:14:30,520
+Si tu n'obéis pas, ne viens pas.
+
+213
+00:14:31,920 --> 00:14:33,560
+- Johnny Dogs.
+- Tommy.
+
+214
+00:14:33,640 --> 00:14:34,840
+Tes gars nous retrouvent là-bas ?
+
+215
+00:14:34,920 --> 00:14:37,400
+Au moins, ils seront là-bas, capitaine.
+
+216
+00:14:38,920 --> 00:14:41,320
+- Capitaine ?
+- On t'a promu.
+
+217
+00:14:41,400 --> 00:14:44,520
+Ils ont décidé que tu n'étais plus
+un sergent-major.
+
+218
+00:14:44,600 --> 00:14:47,480
+À baiser des femmes riches
+et à utiliser des mots recherchés.
+
+219
+00:14:48,000 --> 00:14:50,000
+Je dirais que tu es plutôt un capitaine.
+
+220
+00:14:50,080 --> 00:14:52,880
+Je le prends comme un compliment.
+
+221
+00:14:52,960 --> 00:14:54,280
+Ne me tire pas dessus.
+
+222
+00:14:54,360 --> 00:14:56,720
+Allons au Derby, messieurs.
+
+223
+00:14:56,800 --> 00:14:59,280
+D'accord ! Chargez-les !
+
+224
+00:15:06,560 --> 00:15:07,680
+Allô ?
+
+225
+00:15:08,640 --> 00:15:11,080
+Non, M. Shelby est à Londres.
+
+226
+00:15:11,920 --> 00:15:13,560
+On ne peut pas le joindre.
+
+227
+00:15:13,640 --> 00:15:15,640
+Non, il ne revient pas aujourd'hui.
+
+228
+00:15:16,520 --> 00:15:20,160
+Il est aux courses d'Epsom.
+Au Derby d'Epsom.
+
+229
+00:15:20,960 --> 00:15:22,760
+Qui est à l'appareil ?
+
+230
+00:15:30,200 --> 00:15:32,040
+Je vais à la gare.
+
+231
+00:16:03,480 --> 00:16:05,960
+- C'est quoi, ça ?
+- C'est ton argent.
+
+232
+00:16:10,400 --> 00:16:14,040
+Tu prends l'argent,
+tu achètes un billet de train
+
+233
+00:16:14,120 --> 00:16:17,240
+et tu commences
+une nouvelle vie à Londres.
+
+234
+00:16:17,320 --> 00:16:20,080
+Je ne veux pas te voir ici
+quand je reviendrai.
+
+235
+00:16:23,760 --> 00:16:25,240
+Si je reviens.
+
+236
+00:16:27,360 --> 00:16:30,160
+Rien n'est jamais sûr
+quand on vit à Birmingham.
+
+237
+00:16:30,640 --> 00:16:35,120
+Tu peux m'écrire le dimanche
+et me rendre visite les jours fériés.
+
+238
+00:16:35,760 --> 00:16:39,600
+Mais je veux que tu oublies cette ville.
+
+239
+00:16:41,240 --> 00:16:43,120
+C'est ce que j'aurais dû faire
+dès le départ.
+
+240
+00:16:43,200 --> 00:16:45,400
+J'ai des affaires à régler.
+
+241
+00:16:53,040 --> 00:16:54,160
+Je t'aime, Michael.
+
+242
+00:16:56,440 --> 00:16:57,760
+Moi aussi, je t'aime.
+
+243
+00:17:00,840 --> 00:17:02,680
+Tu vas rater ton train.
+
+244
+00:17:42,280 --> 00:17:44,720
+Mes lévriers bien-aimés.
+
+245
+00:17:47,080 --> 00:17:48,280
+Regardez.
+
+246
+00:17:50,720 --> 00:17:52,440
+Le lapin d'aujourd'hui.
+
+247
+00:17:55,560 --> 00:17:59,600
+À mon signal,
+je veux que vous éliminiez cet homme.
+
+248
+00:18:02,520 --> 00:18:05,720
+J'ai décidé de vous utiliser,
+car je ne pouvais faire confiance
+
+249
+00:18:05,800 --> 00:18:09,200
+au cœur et à la rate
+des femmelettes d'Anglais
+
+250
+00:18:09,280 --> 00:18:11,120
+qu'on m'a donné comme hommes de main.
+
+251
+00:18:12,240 --> 00:18:13,440
+Bien.
+
+252
+00:18:15,160 --> 00:18:17,720
+Cet homme sait se défendre,
+
+253
+00:18:19,280 --> 00:18:23,720
+mais je ne tolèrerai ni excuses, ni échec.
+
+254
+00:18:24,160 --> 00:18:26,720
+La Red Right Hand
+des Forces volontaires d'Ulster
+
+255
+00:18:26,800 --> 00:18:28,880
+ne vous abandonnera pas, M. Campbell.
+
+256
+00:18:31,840 --> 00:18:33,600
+La Red Right Hand.
+
+257
+00:18:35,680 --> 00:18:37,480
+Bonne chance, messieurs.
+
+258
+00:18:54,080 --> 00:18:57,040
+Messieurs, aujourd'hui,
+on ne fait pas de conneries.
+
+259
+00:18:57,120 --> 00:19:00,600
+J'espère que vous avez obéi
+et avez apporté des armes chargées.
+
+260
+00:19:00,720 --> 00:19:02,240
+Très bien.
+
+261
+00:19:02,320 --> 00:19:05,240
+Sachez que si on vous prend
+sur un champ de course
+
+262
+00:19:05,320 --> 00:19:07,160
+avec une arme chargée, vous prenez 20 ans.
+
+263
+00:19:07,280 --> 00:19:09,880
+Ne vous en faites pas.
+Aujourd'hui, on ne vous pincera pas.
+
+264
+00:19:09,960 --> 00:19:12,520
+Car aujourd'hui, il n'y aura pas de flics.
+
+265
+00:19:12,680 --> 00:19:16,920
+À 15 heures pile se produira
+un incident au stand des propriétaires,
+
+266
+00:19:17,000 --> 00:19:19,560
+et l'attention de tous les flics
+du lieu sera détournée.
+
+267
+00:19:19,680 --> 00:19:21,720
+Ils chercheront quelqu'un.
+
+268
+00:19:21,800 --> 00:19:23,080
+Vous pourrez opérer librement.
+
+269
+00:19:23,160 --> 00:19:24,360
+Ils chercheront qui ?
+
+270
+00:19:24,440 --> 00:19:26,320
+Moi. Ils me chercheront, moi.
+
+271
+00:19:26,400 --> 00:19:28,000
+Pendant que j'occuperai les flics,
+
+272
+00:19:28,080 --> 00:19:29,680
+vous agirez contre Sabini.
+
+273
+00:19:29,760 --> 00:19:32,400
+Vous confisquerez ses prises,
+détruirez ses licences,
+
+274
+00:19:32,480 --> 00:19:33,720
+en le menaçant de votre fusil.
+
+275
+00:19:33,800 --> 00:19:36,600
+En général, la police le protège,
+donc ils ne seront pas armés.
+
+276
+00:19:36,680 --> 00:19:40,360
+Attachons-nous à faire cette opération
+sans tirer un seul coup de feu.
+
+277
+00:19:40,440 --> 00:19:41,640
+Et n'oubliez pas,
+
+278
+00:19:41,720 --> 00:19:44,800
+les licences comptent plus que les prises.
+
+279
+00:19:44,880 --> 00:19:45,880
+Très bien.
+
+280
+00:19:45,960 --> 00:19:49,080
+Avant de commencer, vous pouvez
+miser 10 livres sur Nom de Guerre.
+
+281
+00:19:49,640 --> 00:19:51,240
+Il paraît qu'elle va gagner.
+
+282
+00:19:52,480 --> 00:19:54,760
+Seulement de la bière avant,
+
+283
+00:19:54,840 --> 00:19:57,000
+on aura le temps après
+pour le rhum et le whisky.
+
+284
+00:19:57,640 --> 00:20:00,480
+N'oubliez pas,
+on ne fait rien avant 15 heures.
+
+285
+00:20:00,560 --> 00:20:03,240
+Quand les flics partiront. C'est tout.
+
+286
+00:20:04,600 --> 00:20:06,720
+Un incident ? Que vas-tu faire
+
+287
+00:20:06,800 --> 00:20:08,560
+pour détourner l'attention
+
+288
+00:20:08,640 --> 00:20:10,360
+de tous les flics du Derby ?
+
+289
+00:20:11,080 --> 00:20:12,160
+Fais-moi confiance, frangin.
+
+290
+00:20:37,080 --> 00:20:38,200
+Dix, s'il vous plaît.
+
+291
+00:20:57,880 --> 00:21:00,160
+Elle a perdu un fer en sortant du box.
+
+292
+00:21:07,320 --> 00:21:09,000
+Elle a l'air en bonne forme.
+
+293
+00:21:09,840 --> 00:21:11,640
+Bonjour, bonjour.
+
+294
+00:21:11,720 --> 00:21:14,600
+Tu m'as manqué, canasson.
+
+295
+00:21:19,320 --> 00:21:22,080
+- Dois-je m'inquiéter ?
+- Non.
+
+296
+00:21:23,800 --> 00:21:24,960
+Bois un verre, profite.
+
+297
+00:21:25,040 --> 00:21:27,240
+Je viendrai te voir
+à la fin de la course.
+
+298
+00:21:29,560 --> 00:21:31,680
+Elle est jolie. Elle est à toi ?
+
+299
+00:21:32,000 --> 00:21:34,600
+Ma mère la portait au Derby de 1895.
+
+300
+00:21:35,360 --> 00:21:37,080
+On l'avait présentée à la reine Victoria.
+
+301
+00:21:39,000 --> 00:21:40,600
+La course finie,
+je me change dans le box
+
+302
+00:21:40,680 --> 00:21:43,880
+et je te rejoins là-haut,
+avec les aristos, d'accord ?
+
+303
+00:21:45,560 --> 00:21:46,640
+Oui.
+
+304
+00:21:50,360 --> 00:21:51,640
+Tu ne veux pas.
+
+305
+00:21:54,840 --> 00:21:57,280
+Pas grave. Je resterai ici, dans la boue.
+
+306
+00:22:09,720 --> 00:22:13,240
+Quoi qu'il arrive aujourd'hui,
+c'était bon.
+
+307
+00:22:16,000 --> 00:22:17,680
+Qu'on gagne ou qu'on perde ?
+
+308
+00:22:19,640 --> 00:22:21,520
+Oui, voilà.
+
+309
+00:22:23,960 --> 00:22:26,040
+Je ne regarde jamais la course.
+
+310
+00:22:26,120 --> 00:22:27,480
+C'est trop dur.
+
+311
+00:22:28,360 --> 00:22:31,120
+Je trouve toujours
+un recoin sombre et calme.
+
+312
+00:22:34,800 --> 00:22:36,240
+Tommy ?
+
+313
+00:22:37,800 --> 00:22:40,040
+Si tu ne me trouves pas là-haut,
+
+314
+00:22:40,600 --> 00:22:42,720
+je viendrai te chercher plus tard.
+
+315
+00:22:44,040 --> 00:22:45,520
+Comment ça ?
+
+316
+00:22:45,600 --> 00:22:49,360
+Quoi qu'il arrive, May, ne regrette rien.
+
+317
+00:22:50,800 --> 00:22:52,120
+Ne regrette rien.
+
+318
+00:22:53,480 --> 00:22:55,200
+Je te retrouverai.
+
+319
+00:22:57,200 --> 00:22:58,360
+D'accord.
+
+320
+00:22:59,040 --> 00:23:00,480
+Ne l'oublie pas.
+
+321
+00:23:01,200 --> 00:23:02,280
+Au revoir.
+
+322
+00:23:16,600 --> 00:23:18,480
+Misez sur Nom de Guerre.
+
+323
+00:23:28,040 --> 00:23:29,520
+Bonjour, monsieur.
+
+324
+00:23:33,640 --> 00:23:35,200
+Le voilà.
+
+325
+00:23:38,920 --> 00:23:40,880
+Les enfoirés.
+
+326
+00:23:42,520 --> 00:23:43,960
+Allez, on y va.
+
+327
+00:24:39,680 --> 00:24:41,440
+Je dois te parler.
+
+328
+00:24:41,520 --> 00:24:42,880
+Grace. Qu'est-ce que tu fais là ?
+
+329
+00:24:42,960 --> 00:24:44,640
+Je dois te parler.
+
+330
+00:24:45,400 --> 00:24:46,600
+Grace.
+
+331
+00:24:47,960 --> 00:24:49,840
+C'est pas le moment.
+
+332
+00:24:53,920 --> 00:24:56,080
+C'est à quel propos ?
+Veuillez nous excuser.
+
+333
+00:24:57,560 --> 00:24:59,320
+Grace, ça va devoir attendre.
+
+334
+00:24:59,400 --> 00:25:02,240
+Je ne peux pas. Ce n'était pas ma faute.
+
+335
+00:25:03,600 --> 00:25:04,640
+Je suis enceinte.
+
+336
+00:25:06,640 --> 00:25:08,200
+Le bébé est de toi.
+
+337
+00:25:14,920 --> 00:25:16,400
+Mieux vaut croire...
+
+338
+00:25:17,320 --> 00:25:19,120
+Fais croire à ton mari qu'il est de lui.
+
+339
+00:25:19,200 --> 00:25:20,800
+C'est ce que tu veux ?
+
+340
+00:25:20,880 --> 00:25:23,800
+Grace, j'ai des choses à faire.
+
+341
+00:25:23,880 --> 00:25:25,360
+Ça ne se joue pas à pile ou face ?
+
+342
+00:25:25,440 --> 00:25:28,840
+Grace, j'ai des choses à faire.
+Quand ce sera...
+
+343
+00:25:28,920 --> 00:25:31,360
+Quand ce sera fini, je déciderai.
+
+344
+00:25:31,440 --> 00:25:32,920
+- Quand ça ?
+- Après la course.
+
+345
+00:25:33,000 --> 00:25:35,600
+Après cette putain de course, Tommy ?
+
+346
+00:25:35,680 --> 00:25:37,680
+Après la course, je déciderai quoi faire.
+
+347
+00:25:37,760 --> 00:25:39,920
+Quoi faire, d'accord ?
+
+348
+00:25:40,000 --> 00:25:43,960
+Mais, Tommy...
+J'ai eu raison de ne pas lui dire ?
+
+349
+00:25:45,080 --> 00:25:47,840
+J'aurais pu l'appeler et lui mentir,
+mais je ne l'ai pas fait.
+
+350
+00:25:47,920 --> 00:25:49,360
+Dis-moi que j'ai bien fait.
+
+351
+00:25:49,440 --> 00:25:51,880
+De ne pas lui mentir au téléphone.
+
+352
+00:25:51,960 --> 00:25:53,920
+Soutiens-moi, Tommy.
+
+353
+00:25:55,520 --> 00:25:58,160
+Oui, Grace.
+
+354
+00:25:58,240 --> 00:25:59,640
+Car en fait,
+
+355
+00:26:02,480 --> 00:26:04,240
+je t'aime, toi, pas lui.
+
+356
+00:26:07,960 --> 00:26:09,600
+Ce n'est pas rien.
+
+357
+00:26:14,920 --> 00:26:16,160
+Un bébé, Thomas.
+
+358
+00:26:16,880 --> 00:26:18,040
+Oui.
+
+359
+00:26:21,880 --> 00:26:23,320
+Va voir ta course.
+
+360
+00:26:23,400 --> 00:26:24,720
+Où seras-tu ?
+
+361
+00:26:24,800 --> 00:26:26,200
+Je t'attendrai.
+
+362
+00:26:27,560 --> 00:26:29,920
+Je t'attendrai près du stand des paris.
+
+363
+00:27:04,920 --> 00:27:06,480
+On a trouvé une brebis égarée.
+
+364
+00:27:07,160 --> 00:27:08,600
+Allez, Lizzie.
+
+365
+00:27:11,160 --> 00:27:13,120
+- Tu en penses quoi ?
+- De quoi ?
+
+366
+00:27:13,560 --> 00:27:15,720
+- De la robe ?
+- Déboutonne un peu. Allez !
+
+367
+00:27:23,240 --> 00:27:25,800
+Tommy, je ne pensais jamais voir ça.
+
+368
+00:27:25,880 --> 00:27:27,040
+Ouais.
+
+369
+00:27:28,000 --> 00:27:29,480
+Mais je suis là pour travailler,
+
+370
+00:27:29,560 --> 00:27:31,320
+donc tu vois, je n'ai pas bu.
+
+371
+00:27:31,400 --> 00:27:32,720
+Alors, voilà.
+
+372
+00:27:33,760 --> 00:27:35,960
+Prends ça. Tu en auras peut-être besoin.
+
+373
+00:27:41,520 --> 00:27:44,360
+Quel genre de travail dois-je faire,
+aujourd'hui, Tommy ?
+
+374
+00:27:44,720 --> 00:27:46,160
+Prendre des notes
+lors d'une réunion ?
+
+375
+00:27:46,560 --> 00:27:49,120
+Non, Lizzie. Pas du tout.
+
+376
+00:27:50,000 --> 00:27:51,880
+Ma sténo ne sera pas nécessaire.
+
+377
+00:27:53,280 --> 00:27:54,320
+Lizzie...
+
+378
+00:27:59,080 --> 00:28:02,000
+Il y a un homme, ici,
+que je voudrais éloigner de la foule
+
+379
+00:28:02,080 --> 00:28:03,600
+et emmener dans un coin calme.
+
+380
+00:28:03,680 --> 00:28:05,080
+Un coin calme.
+
+381
+00:28:05,440 --> 00:28:06,760
+Lizzie, je sais ce que j'ai dit.
+
+382
+00:28:06,840 --> 00:28:08,040
+Oui, tu sais.
+
+383
+00:28:08,800 --> 00:28:11,160
+Tu m'as dit
+que je devrais plus avoir à faire ça.
+
+384
+00:28:11,240 --> 00:28:13,520
+J'ai simplement besoin que tu l'isoles.
+
+385
+00:28:13,600 --> 00:28:15,840
+Pas d'exception, tu avais dit.
+
+386
+00:28:15,920 --> 00:28:20,560
+Je vais te faire un plan,
+pour que tu saches où l'emmener.
+
+387
+00:28:21,080 --> 00:28:24,120
+Pendant des mois, je n'ai rien fait,
+car tu me l'avais interdit.
+
+388
+00:28:24,200 --> 00:28:26,360
+Lizzie, il suffit de l'occuper.
+
+389
+00:28:26,440 --> 00:28:29,800
+J'ai marqué l'endroit d'un "X".
+J'arriverai avant,
+
+390
+00:28:29,880 --> 00:28:31,840
+je te le promets. D'accord ?
+
+391
+00:28:34,280 --> 00:28:36,280
+Je devrais pas me frotter les yeux,
+il aimera pas.
+
+392
+00:28:36,360 --> 00:28:37,640
+Lizzie,
+
+393
+00:28:37,720 --> 00:28:39,800
+c'est la seule et unique fois.
+
+394
+00:28:39,880 --> 00:28:42,000
+Après ça, plus jamais.
+
+395
+00:28:43,160 --> 00:28:44,520
+Je te paierai cinq...
+
+396
+00:28:44,600 --> 00:28:46,600
+Ne me parle pas d'argent.
+
+397
+00:28:46,680 --> 00:28:49,720
+Pas maintenant,
+ou je te brise ce verre sur la tête.
+
+398
+00:28:53,440 --> 00:28:55,840
+Pas d'exception, ce n'était pas dur.
+
+399
+00:28:56,960 --> 00:28:58,240
+Tu sais pourquoi ?
+
+400
+00:29:05,720 --> 00:29:07,240
+Peu importe.
+
+401
+00:29:08,880 --> 00:29:09,960
+Qui est-ce ?
+
+402
+00:29:10,200 --> 00:29:12,400
+Sur ta droite. Le soldat.
+
+403
+00:29:13,840 --> 00:29:15,440
+Celui qui fume.
+
+404
+00:29:15,520 --> 00:29:16,920
+Sois seule avec lui à 15 heures,
+
+405
+00:29:17,080 --> 00:29:20,320
+au début de la course,
+et je me charge du reste. D'accord ?
+
+406
+00:29:20,960 --> 00:29:22,080
+Tu as de la craie ?
+
+407
+00:29:22,600 --> 00:29:25,000
+- De la craie ?
+- Les soldats nous repèrent ainsi.
+
+408
+00:29:25,080 --> 00:29:27,320
+On s'en fiche, donne-moi de la craie.
+
+409
+00:29:37,800 --> 00:29:39,800
+Lizzie, ça va aller.
+
+410
+00:29:41,360 --> 00:29:44,320
+Je viendrai, promis.
+Avant qu'il ne se passe quoi que ce soit.
+
+411
+00:29:44,720 --> 00:29:46,080
+Je serai là.
+
+412
+00:29:59,920 --> 00:30:02,200
+Préparez-vous à dégainer.
+
+413
+00:30:08,160 --> 00:30:10,200
+Les flics ne bougent pas.
+
+414
+00:30:10,680 --> 00:30:13,120
+Ils restent plantés là,
+comme des gargouilles.
+
+415
+00:30:14,280 --> 00:30:16,800
+Restez sur le qui-vive, d'accord ?
+
+416
+00:30:51,960 --> 00:30:55,880
+<i>Mesdames, messieurs,</i>
+<i>la course débutera dans quatre minutes.</i>
+
+417
+00:30:55,960 --> 00:30:58,240
+<i>Veuillez vous rapprocher de la piste.</i>
+
+418
+00:31:19,040 --> 00:31:20,720
+Vous ne devriez pas être occupé ?
+
+419
+00:31:23,040 --> 00:31:26,520
+Quand on a un plan solide,
+pas besoin de se précipiter.
+
+420
+00:31:27,440 --> 00:31:29,360
+Vous savez quoi ?
+
+421
+00:31:29,520 --> 00:31:31,800
+Je vous fais confiance, en fait.
+
+422
+00:31:36,080 --> 00:31:38,160
+Pensez-vous qu'on ait développé
+
+423
+00:31:38,720 --> 00:31:41,600
+une certaine forme de respect mutuel ?
+
+424
+00:31:41,680 --> 00:31:43,240
+<i>Mesdames, messieurs,</i>
+
+425
+00:31:43,320 --> 00:31:46,920
+<i>jockeys et montures se préparent,</i>
+<i>veuillez regagner vos sièges.</i>
+
+426
+00:31:47,000 --> 00:31:50,760
+De vieux ennemis
+qui ont appris à s'admirer
+
+427
+00:31:51,640 --> 00:31:54,520
+et à voir les vertus professionnelles
+de l'autre.
+
+428
+00:31:57,720 --> 00:32:00,960
+Personnellement, je ne crois pas.
+
+429
+00:32:01,240 --> 00:32:02,640
+Je ne crois pas.
+
+430
+00:32:05,480 --> 00:32:07,240
+Eh bien, je bois à cette idée.
+
+431
+00:32:08,480 --> 00:32:10,120
+<i>Mesdames, messieurs,</i>
+
+432
+00:32:10,200 --> 00:32:13,320
+<i>veuillez vous lever pour l'hymne national.</i>
+
+433
+00:32:18,280 --> 00:32:21,160
+Il est toujours prévu
+que vous restiez ensemble pour toujours.
+
+434
+00:32:23,000 --> 00:32:27,400
+Peut-être qu'elle fera le tapin pour vous
+et prendra l'argent de son mari.
+
+435
+00:32:27,480 --> 00:32:29,320
+C'est ça, le plan ?
+
+436
+00:32:30,760 --> 00:32:32,760
+Comme je me trompais sur son compte !
+
+437
+00:32:34,520 --> 00:32:36,840
+Moi aussi.
+
+438
+00:32:41,400 --> 00:32:43,200
+Un jour, vous m'avez dit
+
+439
+00:32:44,640 --> 00:32:47,160
+que les hommes comme nous
+ne peuvent être aimés.
+
+440
+00:32:49,000 --> 00:32:50,640
+Elle m'aime.
+
+441
+00:32:51,640 --> 00:32:53,040
+Elle me l'a dit.
+
+442
+00:32:54,720 --> 00:32:56,480
+Elle m'aime.
+
+443
+00:32:58,160 --> 00:33:03,240
+Vous, vous n'avez reçu qu'une balle
+et une canne à tête de loup.
+
+444
+00:33:04,360 --> 00:33:07,440
+Eh bien, bravo à vous.
+
+445
+00:33:10,280 --> 00:33:11,960
+Mais je sais une chose :
+
+446
+00:33:13,680 --> 00:33:16,320
+Ce qui vous attend, c'est la damnation,
+
+447
+00:33:16,400 --> 00:33:19,520
+tandis que j'ai l'amour de Dieu
+
+448
+00:33:19,600 --> 00:33:21,800
+et la certitude du salut.
+
+449
+00:33:35,120 --> 00:33:37,320
+Je sais ce que vous avez fait à Polly.
+
+450
+00:33:40,240 --> 00:33:42,720
+Je sais ce qui est arrivé à mon oncle,
+en prison.
+
+451
+00:33:46,880 --> 00:33:51,280
+Aujourd'hui, l'un de nous deux mourra,
+
+452
+00:33:52,080 --> 00:33:53,800
+mais que ce soit vous ou moi,
+
+453
+00:33:54,120 --> 00:33:56,400
+le mort se réveillera en enfer, demain.
+
+454
+00:34:00,920 --> 00:34:02,160
+<i>Mesdames et messieurs,</i>
+
+455
+00:34:02,240 --> 00:34:05,520
+<i>les jockeys et leurs montures</i>
+<i>sont en place.</i>
+
+456
+00:34:09,440 --> 00:34:11,080
+<i>Et les voilà partis !</i>
+
+457
+00:34:32,400 --> 00:34:34,600
+Allez, ma fille, allez.
+
+458
+00:34:37,920 --> 00:34:39,880
+Au moins, fais-toi remarquer.
+
+459
+00:34:48,080 --> 00:34:49,680
+Allez, Tommy.
+
+460
+00:35:07,360 --> 00:35:09,840
+Quelle belle robe !
+
+461
+00:35:16,680 --> 00:35:18,080
+Enlève-la.
+
+462
+00:35:18,160 --> 00:35:20,320
+Déshabillons-vous d'abord.
+
+463
+00:35:20,400 --> 00:35:23,760
+Lève ta robe, montre-moi que tu es propre.
+
+464
+00:35:26,400 --> 00:35:28,480
+Fais ce qu'on te dit !
+
+465
+00:35:30,400 --> 00:35:33,280
+On devrait ralentir, on a le temps.
+
+466
+00:35:40,800 --> 00:35:42,920
+- Cette zone est interdite.
+- Quoi ?
+
+467
+00:35:43,000 --> 00:35:44,400
+Le roi arrive par là
+après la course.
+
+468
+00:35:44,600 --> 00:35:46,080
+- Cette zone est sécurisée.
+- Mais, je...
+
+469
+00:35:46,160 --> 00:35:47,920
+Vous devrez faire le tour.
+
+470
+00:36:01,720 --> 00:36:03,840
+- Lâchez-moi !
+- Salope !
+
+471
+00:36:03,920 --> 00:36:05,080
+Lâchez-moi !
+
+472
+00:36:05,160 --> 00:36:06,920
+Laissez-moi tranquille !
+
+473
+00:36:19,440 --> 00:36:20,560
+Hé !
+
+474
+00:36:28,920 --> 00:36:30,280
+Russell !
+
+475
+00:36:30,360 --> 00:36:31,360
+Merde !
+
+476
+00:36:49,920 --> 00:36:51,160
+Arrêtez !
+
+477
+00:37:16,960 --> 00:37:19,000
+- Lizzie...
+- T'étais où ?
+
+478
+00:37:19,160 --> 00:37:20,680
+T'étais où, putain ?
+
+479
+00:37:20,760 --> 00:37:21,880
+Donne-moi l'arme, Lizzie.
+
+480
+00:37:21,960 --> 00:37:23,800
+Lizzie.
+
+481
+00:37:24,800 --> 00:37:27,320
+- Je suis désolé.
+- Lâche-moi !
+
+482
+00:37:27,400 --> 00:37:28,720
+Pars.
+
+483
+00:37:29,320 --> 00:37:30,720
+Allez, pars !
+
+484
+00:37:43,400 --> 00:37:44,920
+Messieurs les agents !
+
+485
+00:37:45,000 --> 00:37:46,360
+J'étais en train de chier
+
+486
+00:37:46,440 --> 00:37:49,680
+quand j'ai entendu des voix irlandaises
+suivies d'un coup de feu.
+
+487
+00:37:49,760 --> 00:37:52,400
+Je vous jure,
+il y a un soldat mort, là-dedans.
+
+488
+00:37:55,840 --> 00:37:58,440
+Envoyez tous les hommes en uniforme
+autour du roi !
+
+489
+00:37:58,520 --> 00:38:01,960
+Tous les hommes en uniforme
+autour du roi ! Tout de suite !
+
+490
+00:38:03,200 --> 00:38:04,840
+L'I.R.A. est dans l'hippodrome !
+
+491
+00:38:04,920 --> 00:38:06,120
+<i>Tous avec le roi !</i>
+
+492
+00:38:10,880 --> 00:38:13,400
+Allez, les amis. C'est parti.
+
+493
+00:38:13,480 --> 00:38:16,240
+Prêts. Passe par-derrière.
+
+494
+00:38:16,320 --> 00:38:17,560
+Allez, on se disperse.
+
+495
+00:38:18,720 --> 00:38:21,240
+Reste avec nous. Reste en arrière.
+
+496
+00:38:21,320 --> 00:38:22,320
+Allez !
+
+497
+00:38:25,840 --> 00:38:27,480
+Les mains en l'air !
+
+498
+00:38:30,360 --> 00:38:31,680
+Tournez-vous !
+
+499
+00:38:37,640 --> 00:38:38,880
+Il y a un problème ?
+
+500
+00:38:38,960 --> 00:38:40,560
+Des Féniens dans l'hippodrome.
+
+501
+00:38:40,680 --> 00:38:43,080
+Un soldat a reçu une balle,
+il y aurait un Irlandais.
+
+502
+00:38:44,160 --> 00:38:45,560
+C'est exact.
+
+503
+00:38:50,960 --> 00:38:52,160
+Vraiment désolé, monsieur.
+
+504
+00:38:54,040 --> 00:38:56,480
+Vérifiez la sécurité de Sa Majesté.
+
+505
+00:38:57,320 --> 00:38:59,560
+Je ne vais pas vous distraire.
+
+506
+00:39:41,960 --> 00:39:44,920
+M. Sabini, vous êtes en retard.
+Asseyez-vous.
+
+507
+00:39:52,160 --> 00:39:53,320
+Qu'est-il arrivé à votre nez ?
+
+508
+00:39:53,400 --> 00:39:55,240
+Vous devriez achever votre frère.
+
+509
+00:39:55,320 --> 00:39:56,920
+On a essayé. Il a mordu le véto.
+
+510
+00:39:57,000 --> 00:40:02,000
+J'ai dit aux flics que vous étiez
+un sale racketeur bohémien Peaky Blinder.
+
+511
+00:40:03,160 --> 00:40:04,960
+Ils arrivent. Ils vont vous expulser.
+
+512
+00:40:05,040 --> 00:40:06,720
+Avant que le roi n'arrive.
+
+513
+00:40:07,120 --> 00:40:11,400
+À ce que j'ai vu,
+la police est quelque peu occupée.
+
+514
+00:40:12,280 --> 00:40:14,680
+Vous avez gagné de l'argent,
+aujourd'hui, M. Sabini ?
+
+515
+00:40:18,560 --> 00:40:20,120
+Où sont les flics ?
+
+516
+00:40:20,960 --> 00:40:25,120
+J'ai dit "une minute" à ce sergent,
+il m'a dit "deux", et ça en fait dix !
+
+517
+00:40:25,200 --> 00:40:28,000
+Je vous l'ai dit, ils sont un peu occupés.
+
+518
+00:40:28,080 --> 00:40:29,240
+Comme mes hommes.
+
+519
+00:40:29,320 --> 00:40:31,920
+- Ça veut dire quoi, ça ?
+- Ce que ça veut dire ?
+
+520
+00:40:32,040 --> 00:40:34,320
+Mes gars sont sur la piste.
+
+521
+00:40:34,400 --> 00:40:36,320
+Ils font un petit feu de joie.
+
+522
+00:40:36,800 --> 00:40:38,760
+Avec des licences de jeu, vous voyez ?
+
+523
+00:40:43,520 --> 00:40:44,640
+Merde !
+
+524
+00:40:47,840 --> 00:40:52,880
+Vous comptez trop sur la police
+pour assurer votre sécurité, M. Sabini.
+
+525
+00:40:52,960 --> 00:40:54,480
+C'était une erreur.
+
+526
+00:40:56,960 --> 00:41:00,720
+Pensez à qui vous êtes,
+à l'endroit où vous êtes.
+
+527
+00:41:01,000 --> 00:41:03,480
+Si vous dégainez maintenant,
+vous serez l'assassin du roi.
+
+528
+00:41:03,560 --> 00:41:05,680
+Asseyez-vous et calmez-vous.
+
+529
+00:41:11,080 --> 00:41:12,200
+Bien.
+
+530
+00:41:13,560 --> 00:41:16,200
+L'autre erreur
+que vous avez commise, M. Sabini,
+
+531
+00:41:16,800 --> 00:41:20,280
+c'était de rompre votre promesse
+auprès d'Alfie Solomons.
+
+532
+00:41:22,720 --> 00:41:26,720
+Vous avez promis à Alfie
+d'autoriser ses bookmakers à Epsom.
+
+533
+00:41:27,640 --> 00:41:30,640
+Il a été très contrarié
+quand vous avez refusé.
+
+534
+00:41:30,720 --> 00:41:32,200
+Très contrarié.
+
+535
+00:41:33,680 --> 00:41:36,480
+C'est pourquoi Alfie et moi
+faisons à nouveau affaire.
+
+536
+00:41:51,800 --> 00:41:53,640
+Arrêtez ! Arrêtez !
+
+537
+00:41:53,720 --> 00:41:56,440
+Tout va bien, messieurs les agents.
+
+538
+00:41:56,520 --> 00:41:59,400
+Ce n'est qu'un mauvais perdant.
+Quoi ? Hé !
+
+539
+00:42:00,520 --> 00:42:04,480
+Tu as perdu, enfoiré de bohémien !
+
+540
+00:42:04,560 --> 00:42:06,120
+T'as perdu !
+
+541
+00:42:11,040 --> 00:42:13,080
+Qu'est-ce que tu regardes ?
+
+542
+00:42:13,320 --> 00:42:15,200
+Reculez, allez !
+
+543
+00:42:15,920 --> 00:42:18,080
+Vous êtes désormais prisonnier
+de la Red Right Hand.
+
+544
+00:42:24,360 --> 00:42:26,880
+Prenez sa casquette et son arme.
+
+545
+00:42:28,240 --> 00:42:29,640
+Faites-le monter.
+
+546
+00:42:30,520 --> 00:42:31,680
+Doucement.
+
+547
+00:42:34,440 --> 00:42:35,840
+Asseyez-vous.
+
+548
+00:42:37,200 --> 00:42:38,440
+Assis !
+
+549
+00:42:43,960 --> 00:42:45,200
+Voilà.
+
+550
+00:42:46,440 --> 00:42:49,120
+Mettez-vous à l'aise.
+
+551
+00:42:50,720 --> 00:42:53,440
+On va faire un petit bout de route,
+M. Shelby.
+
+552
+00:42:56,120 --> 00:42:57,320
+Allez.
+
+553
+00:43:32,160 --> 00:43:34,760
+J'ai deviné, et John l'a confirmé.
+
+554
+00:43:36,040 --> 00:43:37,080
+Deviné quoi ?
+
+555
+00:43:38,120 --> 00:43:39,520
+Qui êtes-vous ?
+
+556
+00:43:39,920 --> 00:43:41,600
+Je suis May Carleton.
+
+557
+00:43:41,880 --> 00:43:44,000
+Je dresse le cheval de Tommy Shelby.
+
+558
+00:43:45,200 --> 00:43:47,560
+Et vous êtes la femme
+qui devait mettre les voiles.
+
+559
+00:43:52,000 --> 00:43:54,360
+Je vois qu'il ne vous a pas parlé de moi.
+
+560
+00:43:56,120 --> 00:43:58,960
+Il m'a parlé de vous,
+je me demande si c'est significatif.
+
+561
+00:44:00,000 --> 00:44:01,280
+Qu'aurait-il dû me dire ?
+
+562
+00:44:01,360 --> 00:44:03,320
+Savez-vous où il est ?
+
+563
+00:44:05,920 --> 00:44:07,720
+Je l'attends, ici.
+
+564
+00:44:15,840 --> 00:44:17,880
+Il y a eu du grabuge sur la piste.
+
+565
+00:44:18,120 --> 00:44:20,320
+On a brûlé toutes les licences
+des bookmakers.
+
+566
+00:44:20,400 --> 00:44:21,760
+Ne devez-vous pas être aux écuries ?
+
+567
+00:44:21,840 --> 00:44:24,640
+Ils devront
+donc reformuler leurs paris légaux.
+
+568
+00:44:25,080 --> 00:44:27,560
+Ça fait partie du plan
+de Tommy pour l'avenir.
+
+569
+00:44:28,080 --> 00:44:29,520
+Que savez-vous de son avenir ?
+
+570
+00:44:29,600 --> 00:44:31,680
+On le leur refusera, évidemment.
+
+571
+00:44:31,760 --> 00:44:33,360
+Alors, on accordera tous les paris
+
+572
+00:44:33,440 --> 00:44:35,080
+aux bookmakers de Tommy.
+
+573
+00:44:38,440 --> 00:44:40,560
+Je le sais, car je m'en assurerai.
+
+574
+00:44:42,480 --> 00:44:44,240
+J'ai de l'influence sur le comité.
+
+575
+00:44:47,680 --> 00:44:50,160
+Il y a les affaires, et il y a l'amour.
+
+576
+00:44:50,240 --> 00:44:51,520
+Ah, vraiment ?
+
+577
+00:44:53,440 --> 00:44:55,200
+Il y a Thomas Shelby.
+
+578
+00:44:58,720 --> 00:45:01,400
+- Que voulez-vous de lui ?
+- Pareil que vous.
+
+579
+00:45:04,160 --> 00:45:05,760
+Je veux me sentir vivante.
+
+580
+00:45:16,280 --> 00:45:17,960
+Vous a-t-il dit mon nom ?
+
+581
+00:45:24,080 --> 00:45:25,560
+Je m'appelle Grace.
+
+582
+00:45:33,080 --> 00:45:35,160
+<i>Dans votre déclaration à l'Assemblée,</i>
+
+583
+00:45:35,680 --> 00:45:40,840
+vous devriez dire
+que des témoins ont entendu le tueur dire
+
+584
+00:45:40,920 --> 00:45:45,000
+qu'ils étaient membres de l'I.R.A.,
+et que le meurtre vengeait
+
+585
+00:45:45,080 --> 00:45:48,600
+les actions du marshal
+dans le comté de Cork.
+
+586
+00:45:51,960 --> 00:45:54,040
+Notre ami de Birmingham ?
+
+587
+00:45:55,000 --> 00:45:56,960
+On s'en est chargé.
+
+588
+00:45:59,760 --> 00:46:01,560
+Bonne journée, monsieur.
+
+589
+00:46:02,480 --> 00:46:03,760
+Je vous remer...
+
+590
+00:46:05,480 --> 00:46:07,280
+Pardon, je dois vous laisser.
+
+591
+00:46:08,360 --> 00:46:09,640
+Au revoir.
+
+592
+00:46:12,800 --> 00:46:13,960
+Polly.
+
+593
+00:46:18,680 --> 00:46:20,840
+Tommy m'a dit que vous seriez ici.
+
+594
+00:46:25,160 --> 00:46:28,280
+Et j'ai dit à Tommy
+que c'est moi qui devrais vous achever.
+
+595
+00:46:32,520 --> 00:46:34,040
+Petite et faible.
+
+596
+00:46:34,680 --> 00:46:36,880
+C'est ce que vous aimez, non ?
+
+597
+00:46:37,720 --> 00:46:40,640
+Cette fois-ci,
+la petite et faible est armée.
+
+598
+00:46:42,680 --> 00:46:45,040
+Vous n'oseriez pas faire ça.
+
+599
+00:46:45,120 --> 00:46:46,200
+Non.
+
+600
+00:46:47,640 --> 00:46:49,400
+Vous voyez des flics ?
+
+601
+00:46:50,360 --> 00:46:52,080
+Moi, non.
+
+602
+00:46:52,160 --> 00:46:54,480
+Ils sont tous avec votre précieux roi.
+
+603
+00:47:10,320 --> 00:47:12,400
+Polly...
+
+604
+00:47:15,080 --> 00:47:17,720
+- Une partie de vous...
+- Je n'ai pas de partie.
+
+605
+00:47:17,800 --> 00:47:20,280
+Une partie de vous me désirait, aussi.
+
+606
+00:47:20,360 --> 00:47:22,200
+Je le sais, je l'ai senti.
+
+607
+00:47:23,800 --> 00:47:28,000
+Et il est évident qu'une partie de moi
+vous désire toujours.
+
+608
+00:47:29,120 --> 00:47:31,880
+Et pas que cette partie-là,
+
+609
+00:47:33,080 --> 00:47:35,120
+mais une partie de mon âme.
+
+610
+00:47:36,240 --> 00:47:37,960
+Une partie de mon âme.
+
+611
+00:47:38,960 --> 00:47:42,640
+C'est étrange pour moi, ce sentiment,
+surtout envers vous.
+
+612
+00:47:44,120 --> 00:47:45,960
+Les contraires, peut-être.
+
+613
+00:47:46,720 --> 00:47:49,680
+Les contraires et ce...
+
+614
+00:47:51,680 --> 00:47:54,240
+Ce truc planté dans mon cœur.
+
+615
+00:47:54,320 --> 00:47:58,240
+Vous possédez une partie de mon cœur.
+
+616
+00:47:58,680 --> 00:48:00,160
+C'est la vérité, Polly.
+
+617
+00:48:00,640 --> 00:48:01,920
+C'est la vérité.
+
+618
+00:48:13,320 --> 00:48:16,080
+Ne cherchez pas les Peaky Blinders.
+
+619
+00:49:16,000 --> 00:49:17,760
+On rentre à la maison.
+
+620
+00:49:17,840 --> 00:49:19,080
+Allez.
+
+621
+00:49:22,560 --> 00:49:24,800
+Regardez cet endroit. Il est à nous !
+
+622
+00:49:26,120 --> 00:49:28,600
+Rangez votre argent, ou je le vole !
+
+623
+00:49:28,680 --> 00:49:30,440
+- Dégagez de là !
+- Debout !
+
+624
+00:49:32,040 --> 00:49:34,880
+Lizzie, qu'est-ce que tu fous là ?
+
+625
+00:49:34,960 --> 00:49:36,600
+Je travaille pour Tommy,
+comme nous tous.
+
+626
+00:49:36,680 --> 00:49:38,400
+Tu travailles pour les Blinders.
+
+627
+00:49:38,480 --> 00:49:39,880
+Qu'est-ce qui t'est arrivé ?
+
+628
+00:49:39,960 --> 00:49:40,960
+Je suis tombée.
+
+629
+00:49:41,040 --> 00:49:42,720
+Ne me raconte pas de conneries.
+
+630
+00:49:43,520 --> 00:49:44,600
+Lizzie...
+
+631
+00:49:45,360 --> 00:49:48,040
+Viens là, viens là.
+
+632
+00:49:48,920 --> 00:49:50,880
+Tu travaillais ?
+
+633
+00:49:50,960 --> 00:49:52,080
+Oui ?
+
+634
+00:49:52,960 --> 00:49:55,720
+Tu pensais gagner quelques sous
+aux courses ?
+
+635
+00:49:55,800 --> 00:49:57,640
+Ça doit cesser, Lizzie.
+
+636
+00:49:57,760 --> 00:49:59,960
+Ça doit cesser, Tommy te l'a dit.
+
+637
+00:50:01,160 --> 00:50:04,000
+Les aristos des courses sont les pires.
+
+638
+00:50:04,880 --> 00:50:07,400
+Viens là, regarde-moi.
+
+639
+00:50:07,480 --> 00:50:08,560
+Souris.
+
+640
+00:50:09,120 --> 00:50:10,480
+On a gagné.
+
+641
+00:50:10,920 --> 00:50:12,680
+On a mis la main sur Epsom.
+
+642
+00:50:12,760 --> 00:50:15,080
+On a botté le cul des Cockneys.
+
+643
+00:50:15,160 --> 00:50:16,640
+Félicitations, putain.
+
+644
+00:50:16,720 --> 00:50:18,480
+On les a battus.
+
+645
+00:50:18,760 --> 00:50:21,200
+John n'a même pas tiré !
+
+646
+00:50:21,280 --> 00:50:25,040
+On est les rois ! Les rois du monde !
+
+647
+00:50:26,520 --> 00:50:31,160
+John, je ne vois pas la même chose
+dans tes yeux que dans ceux de Tommy.
+
+648
+00:50:32,760 --> 00:50:34,440
+Tu devrais partir.
+
+649
+00:50:35,800 --> 00:50:37,360
+Tu devrais partir.
+
+650
+00:50:42,120 --> 00:50:43,880
+Où est Tommy, d'ailleurs ?
+
+651
+00:51:50,960 --> 00:51:52,920
+Vous étiez en France ?
+
+652
+00:51:59,760 --> 00:52:02,240
+Je fumerais bien une cigarette.
+
+653
+00:52:05,160 --> 00:52:06,560
+Dans la Somme.
+
+654
+00:52:08,040 --> 00:52:09,440
+La Forêt Noire.
+
+655
+00:52:13,960 --> 00:52:15,600
+Dans la Somme, les Bulls.
+
+656
+00:52:17,800 --> 00:52:19,000
+Fumez.
+
+657
+00:52:40,320 --> 00:52:41,560
+Si près du but.
+
+658
+00:52:48,840 --> 00:52:50,480
+Si près du but.
+
+659
+00:53:02,080 --> 00:53:03,920
+Et il y a une femme.
+
+660
+00:53:06,400 --> 00:53:07,480
+Ouais.
+
+661
+00:53:08,760 --> 00:53:09,760
+Une femme...
+
+662
+00:53:12,040 --> 00:53:13,360
+Que j'aime...
+
+663
+00:53:15,640 --> 00:53:17,240
+J'étais tout proche.
+
+664
+00:53:23,520 --> 00:53:27,200
+J'avais presque tout !
+
+665
+00:53:52,720 --> 00:53:54,160
+Et merde.
+
+666
+00:53:56,640 --> 00:53:57,960
+Finissons-en.
+
+667
+00:54:09,240 --> 00:54:10,520
+Camarade,
+
+668
+00:54:11,400 --> 00:54:13,200
+on a des ordres,
+
+669
+00:54:13,960 --> 00:54:15,080
+vous savez ce que c'est.
+
+670
+00:54:20,400 --> 00:54:22,120
+Je sais ce que c'est.
+
+671
+00:54:36,160 --> 00:54:37,680
+Au milieu de ce morne hiver.
+
+672
+00:54:43,080 --> 00:54:44,880
+Un jour viendra
+
+673
+00:54:44,960 --> 00:54:48,760
+où M. Churchill voudra vous parler
+en personne, M. Shelby.
+
+674
+00:54:51,360 --> 00:54:53,560
+Il a un travail pour vous.
+
+675
+00:54:54,080 --> 00:54:55,560
+On vous contactera.
+
+676
+00:54:57,720 --> 00:54:59,400
+Sortez de la tombe, gitan.
+
+677
+00:55:02,080 --> 00:55:04,080
+Dégagez d'ici !
+
+678
+00:55:35,200 --> 00:55:36,360
+Merde !
+
+679
+00:56:16,800 --> 00:56:18,120
+Oui !
+
+680
+00:56:20,280 --> 00:56:24,800
+Mesdames, messieurs,
+je voudrais porter un toast.
+
+681
+00:56:26,640 --> 00:56:29,200
+Aux Small Heath Rifles.
+
+682
+00:56:29,280 --> 00:56:30,600
+Small Heath Rifles !
+
+683
+00:56:30,920 --> 00:56:32,440
+Aux Lane Boys !
+
+684
+00:56:33,920 --> 00:56:36,640
+Et aux Peaky Blinders !
+
+685
+00:56:43,360 --> 00:56:45,600
+Qui peut nous arrêter ?
+
+686
+00:56:59,440 --> 00:57:00,800
+Personne.
+
+687
+00:57:24,600 --> 00:57:26,360
+Polly et moi avons parié.
+
+688
+00:57:30,640 --> 00:57:32,200
+L'un d'entre nous a parié
+
+689
+00:57:33,240 --> 00:57:35,000
+que tu prendrais l'argent et partirais.
+
+690
+00:57:37,360 --> 00:57:40,280
+L'autre a parié que tu serais encore là.
+
+691
+00:57:41,840 --> 00:57:43,600
+Elle veut que je reste.
+
+692
+00:57:46,720 --> 00:57:48,880
+Tu sais quoi, Michael ?
+
+693
+00:57:51,200 --> 00:57:52,800
+Ce que Polly veut,
+
+694
+00:57:54,880 --> 00:57:57,960
+ce sera toujours un mystère pour moi.
+
+695
+00:58:09,080 --> 00:58:10,440
+J'ai pris une décision.
+
+696
+00:58:12,000 --> 00:58:14,000
+Je veux me faire de l'argent
+
+697
+00:58:15,400 --> 00:58:16,880
+avec vous.
+
+698
+00:58:42,800 --> 00:58:44,840
+J'ai des idées, Michael.
+
+699
+00:58:46,440 --> 00:58:48,360
+Pour l'avenir de l'entreprise.
+
+700
+00:58:51,040 --> 00:58:52,480
+Et puis,
+
+701
+00:58:55,160 --> 00:58:56,920
+je prévois de me marier.
+
+702
+00:59:20,240 --> 00:59:21,960
+En mémoire de Ian Summers
+

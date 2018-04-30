@@ -1,0 +1,632 @@
+{920}{1025}C'est l'histoire de Giuliano|et de son cousin Aspanu.
+{1038}{1053}C'est lequel ?
+{1060}{1115}Voilà le cercueil avec le blé.
+{1140}{1183}Les carabiniers lui tirent dessus|mais il survit.
+{1188}{1218}Ils ne peuvent pas l'abattre !
+{1425}{1470}Joyeuses Pâques professeur.
+{1485}{1528}Christ est ressuscité.
+{3648}{3665}Qui c'est ?
+{3670}{3738}Le père Doldana.|Il est là depuis trois mois.
+{3745}{3778}Il a les mains calleuses.
+{4308}{4350}Ma sœur m'a parlé.
+{4458}{4490}Tu as ma bénédiction.
+{4573}{4628}Et ma gratitude pour ton soutien.
+{5035}{5090}C'est Roccofino !|Il a des tas d'hommes avec lui.
+{5345}{5370}Il doit,
+{5408}{5498}nous devons... tous nous devons|faire ce que nous avons à faire.
+{6420}{6463}C'est Silvestro Canio.
+{6485}{6513}Il est seul !
+{6730}{6793}Il veut se joindre à nous,|je le tue ?
+{6843}{6933}Le piège est grossier, c'est un espion.
+{6990}{7043}Tu m'as fait perdre mes galons.
+{7048}{7070}Qu'est-ce que tu veux que je te dise ?
+{7075}{7115}Qu'est-ce que tu as à dire toi ?
+{7138}{7205}Je sais qui t'a trahi à Pâques.
+{7210}{7313}Doldana, le nouveau curé,|chez le coiffeur.
+{7323}{7383}Il a dit|que tu viendrais à Montelepre.
+{7395}{7430}Il a dû l'apprendre en confession.
+{7435}{7470}C'est ce qu'il croit.
+{7498}{7525}Il n'est pas curé.
+{7530}{7545}Je sais.
+{7550}{7603}Et Frisella le barbier
+{7610}{7660}l'a dit à Roccofino.
+{7673}{7690}Frisella
+{7713}{7750}est un indic.
+{7765}{7780}Il ment.
+{7803}{7825}Pourquoi ?
+{7840}{7863}Il te trahira.
+{7873}{7903}Me trahir moi ?
+{7908}{7963}Seul un ami peut le faire.
+{8063}{8110}On va bien voir si tu mens.
+{9025}{9050}Pose-le.
+{9095}{9123}Mais j'ai un client.
+{9168}{9200}On n'est pas à la montagne ici.
+{9255}{9290}Suis-nous dehors.
+{9438}{9473}Au nom du ciel|dites quelque chose.
+{9500}{9528}Quoi ?
+{9535}{9555}Vous êtes le maire !
+{9590}{9615}Et l'ami de Don Masino.
+{9713}{9733}C'est vrai.
+{9795}{9820}Et vous pas.
+{9873}{9890}Viens dehors.
+{10500}{10565}J'ai coupé les cheveux de ton père|pendant 20 ans !
+{10635}{10685}Je te connais depuis toujours.
+{11578}{11610}Je te donnais du citron givré
+{11615}{11658}quand tu n'étais qu'un marmot.
+{11695}{11723}Je t'ai sauvé la vie
+{11728}{11768}quand tu étais blessé.
+{11788}{11838}Mets-toi en paix avec Dieu.
+{11858}{11923}Ne fais pas mourir de faim|ma femme et mon fils.
+{11965}{11988}J'y veillerai.
+{11993}{12023}Je te le promets.
+{12433}{12460}Pour mon fils
+{12478}{12515}quand il sera grand.
+{12525}{12543}Non Giuliano !
+{12578}{12593}Ne fais pas ça !
+{12610}{12623}Tu n'es pas...
+{12850}{12888}Tu n'es pas avisé.
+{13525}{13568}Ainsi meurent|ceux qui trahissent Giuliano.
+{13923}{13953}Qu'est-ce que vous comptez faire ?
+{13985}{14073}Sans renforts... rien.
+{14093}{14170}Je me rappelle|quand il les a achetées.
+{14200}{14233}Il disait qu'elles lui dureraient
+{14240}{14265}toujours.
+{14270}{14295}C'était vrai.
+{14325}{14385}J'ai connu des hommes durs.
+{14398}{14448}Ceux qui le sont vraiment
+{14453}{14543}sont capables de vivre|avec ce qu'ils ont fait.
+{14613}{14653}Pourquoi ?
+{14680}{14728}En public ?
+{14743}{14813}Il faut qu'on sache|que je suis un homme sérieux.
+{15070}{15115}Monsieur l'homme sérieux,
+{15148}{15218}porte-les à son fils
+{15255}{15288}toi-même.
+{15328}{15363}Si tu l'oses.
+{16328}{16365}Il les a laissées pour toi...
+{16398}{16448}quand tu seras grand.
+{16513}{16553}Ce que j'ai fait
+{16568}{16630}il fallait le faire.|Tu comprends...
+{16730}{16755}Il m'a...
+{16875}{16933}Je lui ai dit|que je m'occuperai de vous.
+{16963}{16990}Et je le ferai.
+{17033}{17065}Toujours.
+{18035}{18053}Excellence.
+{18120}{18160}Salvatore Giuliano
+{18170}{18223}vous invite respectueusement
+{18238}{18300}à lui rendre visite dans la montagne.
+{18318}{18353}Je peux prendre|mon parapluie ?
+{18358}{18400}Bien sûr Excellence.
+{18430}{18508}Dehors,|n'essayez pas de courir.
+{18543}{18643}Je ne cours jamais.|Depuis l'université
+{18663}{18693}j'ai de l'asthme.
+{18943}{18985}C'est très beau.
+{19045}{19075}Scarlatti.
+{19103}{19158}Il est né dans le voisinage.
+{19180}{19218}Il avait de l'asthme aussi.
+{19325}{19373}Je crois qu'il ne pleut pas.
+{19440}{19473}Non Excellence.
+{19565}{19598}Je vais vous en chercher encore.
+{19775}{19823}Vous êtes prêt mon fils ?
+{19950}{19980}Je l'espère
+{19985}{20028}parce que j'ai péché.
+{20038}{20075}Depuis ma dernière communion
+{20095}{20113}j'ai tué un homme.
+{20135}{20195}Pire, il est bouffi d'orgueil.
+{20903}{20943}Un curé aussi doit se défendre.
+{20973}{21048}Je me confesserai|à la montagne
+{21060}{21088}où nous serons tous
+{21100}{21123}plus près de Dieu !
+{21198}{21233}Je suis encore mal avisé ?
+{21275}{21383}Non, c'est moi
+{21410}{21483}parce que je t'aime malgré le sang, |malgré tout.
+{21510}{21548}Le ciel nous aide !
+{21935}{21975}Nous nous retrouvons prince Borsa.
+{21980}{22040}Retrouvons ? Ah bien sûr !
+{22045}{22080}Le repas de Camilla.
+{22140}{22178}Vous avez été inoubliable.
+{22210}{22238}C'est un compliment ?
+{22248}{22280}Absolument.
+{22435}{22460}La bague de Camilla
+{22470}{22503}donnée par son père.
+{22550}{22578}Ce n'est pas ça ?
+{22600}{22685}Eh bien non, donnée par moi.
+{22695}{22733}Ah, vous aussi ?
+{22768}{22848}Pour reprendre votre expression, oui.
+{22860}{22888}Moi aussi.
+{22975}{23063}Ce sera très agréable|de vous avoir ici.
+{23108}{23158}J'ai toujours été curieux de vous.
+{23173}{23195}Nous avons le même âge.
+{23200}{23248}Il a au moins|quarante-cinq ans !
+{23300}{23338}Ce n'est pas si vieux.
+{23358}{23393}Vous vous plairez ici.
+{23423}{23458}C'est bon pour l'asthme.
+{23625}{23678}Au risque de manquer de tact
+{23690}{23748}à combien vous m'estimez ?
+{23765}{23840}Vous comprenez... au prix du marché.
+{23875}{23953}Le gouvernement|a mis ma tête à prix : 10 millions.
+{23960}{24053}Ce serait insulter|l'homme le plus riche de Sicile
+{24090}{24153}que de ne pas fixer votre rançon
+{24205}{24253}à dix fois la mienne.
+{24343}{24425}J'espère que les miens|me tiennent en aussi haute estime.
+{24450}{24473}Il y a intérêt.
+{25348}{25420}Vos nouvelles|arrivent comme les carabiniers,
+{25440}{25478}après le crime.
+{25570}{25633}Nous voici tous réunis
+{25650}{25680}mes amis.
+{25720}{25780}Des amis|qui ont un ennemi commun.
+{25795}{25908}Chacun est maître chez soi mais|je suis prisonnier dans ma ville.
+{25930}{26038}Giuliano me tolère|parce qu'il n'est pas encore prêt
+{26043}{26123}mais quand il le sera...|qu'est-ce que vous ferez ?
+{26165}{26208}Je suis venu pour écouter.
+{26218}{26263}Mon cher Don Masino
+{26270}{26323}nous vous respectons tous.
+{26335}{26420}Sans vos amis de l'armée américaine|nous ne serions pas là.
+{26425}{26458}C'était hier.
+{26463}{26503}Parlons du défi d'aujourd'hui !
+{26520}{26548}On nous ridiculise.
+{26553}{26590}Si nous fermons les yeux
+{26595}{26640}sur l'enlèvement de Borsa,|c'est foutu.
+{26673}{26705}Je suis d'accord.
+{26755}{26775}Accordez-moi
+{26780}{26815}une dernière tentative|auprès de Giuliano.
+{27048}{27088}Merci.
+{27135}{27188}Je savais|que vous seriez d'accord.
+{27238}{27275}C'est d'ailleurs notre force.
+{27313}{27365}Nous agissons toujours|comme un seul homme.
+{27565}{27613}C'est inepte Borsa.
+{27620}{27703}Vous dites que vous traitez vos gens|en parents
+{27718}{27773}mais s'ils demandent de la terre
+{27780}{27853}même en friche vous les tuez.
+{27865}{27928}La terre même en friche
+{27933}{27998}appartient à ma famille|depuis mille ans.
+{28008}{28045}Je la détiens pour mon fils
+{28050}{28138}comme mon père la détenait pour moi|et son père avant lui.
+{28150}{28223}Nous ne renoncerons jamais.|Ça nous est impossible.
+{28230}{28298}Et si les communistes|remportent les élections ?
+{28305}{28358}Impossible.|Les Siciliens croient en Dieu.
+{28413}{28480}Le faux curé... il est mort.
+{28518}{28560}Je l'ai crucifié
+{28583}{28605}vivant.
+{28693}{28730}Il est cruel.
+{28758}{28783}Vous pas ?
+{28815}{28863}Je fais ce que j'ai à faire.
+{28925}{28978}On vous dit communiste.
+{28985}{29028}Je hais la politique.
+{29055}{29105}Moi aussi je crois en Dieu.
+{29120}{29185}Vous allez épouser|la sœur de Ferra.
+{29190}{29268}Il veut prendre mes terres|pour les paysans.
+{29298}{29375}Je l'y aiderai... si je peux.
+{29395}{29448}Vous tenez tant|à ce qu'on vous aime ?
+{29453}{29505}Vous tenez tant|à ce qu'on vous haïsse ?
+{29510}{29588}Me haïr ? Ils ne haïssent point.|C'est impossible.
+{29600}{29688}Je suis le prince. Comme le vent|du sud qui vient d'Afrique
+{29700}{29738}j'ai toujours été là.
+{29780}{29808}Vous pas.
+{29815}{29888}Sans rançon vous n'êtes plus là|pour très longtemps.
+{29893}{29983}Alors mon fils sera prince|et le vent du sud continuera.
+{30008}{30065}Je vous hais tous|pour ce que vous nous avez fait.
+{30070}{30105}Vous ne me haïssez pas.
+{30110}{30158}Vous haïssez n'être pas moi.
+{30163}{30248}Mais si vous étiez moi|vous n'auriez jamais été vous.
+{30253}{30308}Aussi vous pouvez prendre|mon argent, ma vie,
+{30313}{30363}sans jamais être moi.
+{30368}{30420}C'est de la métaphysique Aspanu.
+{30448}{30498}C'est des conneries Giuliano.
+{30510}{30553}C'est la vie messieurs.
+{30588}{30640}Il refuse de venir me voir
+{30655}{30745}mais il dit que je peux aller le voir|à la montagne
+{30750}{30778}comme un roi.
+{30800}{30898}J'ai offert 10 millions pour sa tête|et lui trois fois plus pour la mienne !
+{30910}{30945}Il interdit à la police
+{30950}{31035}les rues après minuit pour|que ses hommes visitent la famille.
+{31040}{31108}En Sicile la famille est tout.
+{31260}{31278}Assez ressemblant.
+{31315}{31363}Où il s'arrêtera grands dieux ?
+{31525}{31563}Quel genre d'homme est-ce ?
+{31575}{31598}Je ne l'ai jamais rencontré.
+{31643}{31665}Jamais rencontré ?
+{31710}{31738}Vous disiez que c'était
+{31745}{31778}votre fils !
+{31815}{31908}Celui que je n'ai jamais eu|et que j'aimerais avoir.
+{31968}{31998}J'ai des espions dans son camp.
+{32048}{32108}Si je leur ordonnais de le tuer
+{32125}{32183}vous savez ce qu'ils feraient ?|Ils me tueraient moi.
+{32248}{32278}Ils l'adorent.
+{32320}{32360}Toute la Sicile l'adore.
+{32385}{32430}Aux dernières élections
+{32448}{32485}Silvio Ferra a failli l'emporter.
+{32500}{32523}Cette année il va gagner si...
+{32530}{32610}Je vous garantis le résultat|mais à une condition.
+{32655}{32703}Il faut promettre d'amnistier Giuliano.
+{32818}{32903}Même en Italie on ne peut pas faire|que le soleil se lève à l'ouest.
+{32915}{32963}Il a commis|tous les crimes imaginables.
+{32968}{33015}J'ai dit promettre|de l'amnistier.
+{33098}{33115}Et ça marchera ?
+{33135}{33215}Il va se marier.|Il voudra se ranger.
+{33235}{33260}Emigrer ?
+{33325}{33370}Promettez l'amnistie.
+{34015}{34063}Je ne dirais pas|que j'espère vous revoir
+{34068}{34123}mais ça a été agréable,|n'est-ce pas ?
+{34133}{34160}Mais oui.
+{34183}{34215}Plus d'asthme !
+{34263}{34295}Fuyez la politique.
+{34315}{34353}C'est pour votre bien.
+{34368}{34403}Rien ne change jamais ici.
+{34408}{34435}Si vous n'arrêtez pas
+{34440}{34508}de le dire rien ne changera.
+{34518}{34555}Alors je vais continuer à le dire.
+{34573}{34610}Vous oui. Moi non.
+{35260}{35310}Il ne veut pas|que je lui fasse la barbe.
+{35490}{35528}Il le fait lui-même.
+{35545}{35575}Il ne l'avait pas fait
+{35610}{35653}depuis vingt ans.
+{36240}{36263}On dirait un jeune marié.
+{36305}{36360}Alors c'est vous|qui célébrerez l'office.
+{36625}{36665}Quelque chose dans l'œil ?
+{36730}{36753}Une poussière.
+{36810}{36848}La poussière de Sicile.
+{37240}{37283}Vous semblez d'attaque|cher Hector.
+{37290}{37348}Et vous avez l'air|d'un président de la République.
+{38268}{38303}Je vous baise la main.
+{39445}{39505}Vous m'avez fait attendre|longtemps.
+{39523}{39558}Je suis flatté.
+{39728}{39753}Bref, nous voici
+{39775}{39808}enfin réunis.
+{39833}{39873}Je rentre de Rome.
+{39895}{39955}- J'entrevois un moyen d'en sortir.|- De quoi ?
+{39963}{39983}Pour entrer dans quoi ?
+{40000}{40070}Le gouvernement craint que vous|souteniez les communistes.
+{40075}{40140}J'ai répondu :|Impossible, il est Sicilien.
+{40183}{40218}Le Sicilien par excellence.
+{40223}{40260}Les Russes|nous amnistieraient peut-être.
+{40278}{40315}Restons pratiques.
+{40340}{40408}Le parti de Trezza|est le moins dangereux pour nous.
+{40420}{40485}Il est de notre intérêt commun|qu'il l'emporte.
+{40490}{40538}Quel est|notre intérêt commun ?
+{40588}{40660}Pour nous le communisme|n'est pas...
+{40675}{40743}une bonne chose en général.
+{40783}{40800}Vous êtes d'accord, non ?
+{40825}{40923}Si j'aide le parti de Trezza|j'aurai quoi ?
+{40930}{40963}Un bon coup de pied au cul.
+{41050}{41085}En signe de sa bonne foi
+{41105}{41163}le ministre vous fait parvenir ceci.
+{41220}{41298}Ce sont les plans des militaires|pour vous détruire.
+{41363}{41458}C'est mon cadeau de noces|à vous et à la belle Giovanna.
+{41510}{41533}Le ministre
+{41538}{41600}m'a personnellement promis
+{41605}{41640}de vous amnistier.
+{41670}{41718}Bien sûr après les élections
+{41740}{41773}que nous allons remporter.
+{41860}{41913}Je suis sûr que jamais |il ne vous mentirait.
+{41935}{41963}Non plus qu'à moi.
+{41995}{42025}Cependant
+{42070}{42148}je veux l'entendre|des lèvres de Trezza.
+{42295}{42353}Il vous en fera|la promesse à Rome.
+{42360}{42388}Je ne peux pas y aller !
+{42393}{42438}Vous pouvez aller à Palerme !
+{42455}{42483}Vous l'avez prouvé !
+{42525}{42575}Vous pouvez aller à la cathédrale.
+{42625}{42710}Le cardinal vous transmettra|la promesse de Trezza.
+{42715}{42748}Faites confiance au cardinal...
+{42755}{42780}Je ne fais confiance|à personne !
+{42868}{42920}Sauf Aspanu Pisciotta.
+{43015}{43060}Qu'il voie le cardinal.
+{43258}{43320}J'ai toujours su|que nous serions amis.
+{43383}{43448}J'ai toujours su|que nous serions amis.
+{43475}{43543}Oui, je vous entends|Don Masino.
+{43663}{43700}Je vous comprends.
+{44253}{44308}Je vous baise la main mon fils.
+{45205}{45240}Entrez mon fils.
+{45700}{45735}Est-ce la vraie vie messieurs ?
+{45743}{45813}Quoi qu'il en soit Aspanu Pisciotta,
+{45830}{45878}c'est préférable à la mort
+{46223}{46293}Nous avons un message de Rome|pour Giuliano.
+{46315}{46328}Une solution
+{46343}{46375}pour vous deux.
+{46388}{46428}Rome est sensible
+{46435}{46555}à la popularité de Giuliano.|Les gens l'écoutent.
+{46560}{46603}Ils n'écoutent personne|tant qu'ils n'ont pas ceci
+{46638}{46673}sous la gorge.
+{46715}{46770}Pas devant Son Eminence.
+{46780}{46848}C'est un peu rustique Aspanu.
+{46918}{46940}J'étais comme vous jadis.
+{46985}{47028}Vous n'avez jamais été|comme moi.
+{47118}{47188}C'est que nous sommes honnêtes...|à notre manière.
+{47298}{47320}"Au cas
+{47325}{47350}où Salvatore Giuliano
+{47355}{47398}demeurant à Montelepre
+{47405}{47438}en Sicile..."
+{47505}{47610}Je reconnaîtrais cette toux|n'importe où même après ma mort.
+{47615}{47668}Qui ne saurait tarder !
+{47690}{47740}Tu as passé un accord|avec le gouvernement,
+{47745}{47790}la mafia et l'Eglise.
+{47795}{47860}Un accord ?|Je m'engage à quoi ?
+{47870}{47963}Empêcher les communistes de voter.|Faire peur aux paysans.
+{47990}{48023}Et quoi encore ?
+{48028}{48115}Tu seras... Nous, c'est-à-dire|moi aussi... nous serons amnistiés.
+{48135}{48163}Et après ?
+{48173}{48228}Je passe au service de Don Masino.
+{48233}{48298}Tu vas en Amérique|avec Giovanna.
+{48315}{48338}Bonne chance !
+{48755}{48805}Le Seigneur de la montagne|et sa dame !
+{48810}{48858}Je peux danser avec la dame ?
+{48935}{48963}Tu es vraiment en beauté.
+{49010}{49053}Laisse-toi guider.
+{49175}{49243}Je ne suis pas chanteur,|je suis danseur.
+{49275}{49318}C'est comme ça|qu'on fait à Palerme.
+{49338}{49405}Giovanna dit que vous quitterez|les montagnes un jour.
+{49415}{49453}C'est ce qu'elle veut.
+{49463}{49523}- Et toi ?|- Je ne sais pas.
+{49528}{49618}J'espérais faire quelque chose|de grand pour le peuple.
+{49625}{49673}Si nous gagnons les élections
+{49678}{49740}la terre sera pour tous,|c'est déjà bien.
+{49748}{49808}Je croyais|que rien ne changeait en Sicile.
+{49863}{49915}Ne travaille pas|avec les communistes.
+{49935}{49980}Mais pour la réforme agraire|nous sommes alliés.
+{49985}{50053}Pas cette fois-ci, je t'en prie.
+{50270}{50303}Cent ans de bonheur !
+{51725}{51768}On vise au-dessus des têtes !
+{51775}{51808}C'est bien compris ?
+{52430}{52465}J'ai des tas de parents en bas.
+{52480}{52510}Moi aussi.
+{54100}{54133}Des pétards.
+{54930}{54968}Arrêtez ! Arrêtez !
+{56088}{56140}Emportez-le.|Nous nous occupons des vivants.
+{56363}{56385}Toi !
+{57460}{57518}Je leur avais dit de ne pas y aller !
+{57543}{57575}Je sais.
+{57705}{57740}Allez, viens.
+{57845}{57903}J'avais dit de tirer au-dessus des têtes.
+{57933}{57975}De leur faire peur|sans leur faire de mal.
+{57980}{58053}Imbécile, de qui était l'idée ?
+{58075}{58108}De Don Masino.
+{58145}{58180}Il t'a eu.
+{58230}{58310}Mais ce n'était pas lui|qui tenait la mitrailleuse.
+{58428}{58490}Quand je découvrirai|celui qui...
+{58638}{58688}Qu'est-ce que ça change ?
+{58735}{58763}Ils ne te pardonneront jamais.
+{58800}{58838}Je finirai ton œuvre
+{58890}{58920}si je le peux.
+{58963}{58998}Si tu essayes
+{59015}{59070}tu seras aussi mort que lui.
+{59090}{59118}Je sais.
+{59170}{59238}C'est triste, n'est-ce pas ?
+{59478}{59540}Mettez-vous en paix avec Dieu|tous les deux !
+{59548}{59560}A genoux !
+{59565}{59588}J'irai en enfer debout.
+{59640}{59673}On n'a pas tiré sur les gens.
+{59680}{59708}Je le jure.
+{59948}{59990}S'il n'avait pas fait ça
+{59995}{60030}je t'aurais abattu aussi.
+{60038}{60083}Tu fais ce que tu as à faire.
+{62070}{62123}Ainsi meurent|tous ceux qui trahissent Giuliano.
+{62138}{62185}Un refuge mais où ?
+{62218}{62323}Giuliano est l'homme|le plus haï d'Italie grâce à nous.
+{62363}{62473}Un de nos contacts américains|va venir l'aider à émigrer.
+{62478}{62500}Trop tard.
+{62520}{62615}J'envoie des commandos,|des paras, des blindés.
+{62640}{62718}Il ne restera plus|une montagne en Sicile
+{62723}{62765}pour ne rien dire de Giuliano.
+{62828}{62925}Giovanna ira en bateau à Tunis.|Elle recevra des papiers
+{62933}{62983}puis elle s'envolera pour l'Amérique.
+{62993}{63100}La famille qui employait ton père|la protégera à New York.
+{63108}{63143}Tu la rejoindras plus tard.
+{63148}{63240}Don Masino a pris soin|de tout combiner.
+{63245}{63313}Don Masino protège|ce qu'il a besoin de protéger.
+{63318}{63408}Il t'a protégé trois années durant !|Mais maintenant...
+{63505}{63578}Ils ont gagné les élections|grâce à moi.
+{63588}{63655}Grâce à tous ceux|qui ont été tués à Ginestra.
+{63690}{63728}Maintenant j'exige mon paiement.
+{63735}{63753}La terre.
+{63758}{63803}Ils ne la donneront jamais.
+{63828}{63868}Je saurai les y contraindre.
+{63878}{63905}Comment ?
+{63925}{63950}Descends !
+{64153}{64218}Alors Aspanu...
+{64243}{64315}il est peut-être temps|que tu penses à toi
+{64363}{64408}- Il a raison.|- Je le sais.
+{64423}{64443}Alors vas-y !
+{64490}{64515}Je reste
+{64548}{64570}jusqu'à la fin.
+{64583}{64615}Qu'est-ce que je ferais d'autre ?
+{65115}{65148}Votre Eminence...
+{65188}{65218}Vous êtes mon prisonnier.
+{65225}{65278}Des fusils|dans la maison de Dieu ?
+{65298}{65340}Un homme sans parole
+{65345}{65385}dans la maison de Dieu ?
+{65415}{65473}Vous avez trahi votre parole.
+{65505}{65583}Je ne bougerai pas
+{65590}{65633}de ce lieu !
+{65665}{65728}Tue-moi ! Ici !
+{65743}{65790}Si vous refusez de me suivre...
+{65818}{65878}je vous ligoterai comme une chèvre
+{65905}{65935}pour vous emmener|dans la montagne.
+{66300}{66335}- Tu es fou !|- Faites signe !
+{66505}{66583}Ton âme immortelle est en danger|mon fils.
+{66598}{66660}Mon âme ? Songez à la vôtre !
+{66670}{66773}Il y a en enfer une section|réservée aux mauvais prêtres.
+{66780}{66830}Vous y aurez de la compagnie.
+{66848}{66873}De nombreux amis je pense.
+{66900}{66923}Qu'est-ce que tu me veux ?
+{66933}{66995}Je voulais que vous soyez|un honnête homme de Dieu.
+{67058}{67078}Maintenant
+{67088}{67150}je veux que vous disiez au peuple
+{67175}{67293}que l'Eglise les bénira|s'ils prennent possession des terres.
+{67300}{67348}Je ne suis pas l'Eglise.
+{67385}{67408}Je ne suis même pas
+{67413}{67465}un honnête homme de Dieu|à tes yeux.
+{67473}{67538}Je vous offre une chance|de vous racheter.
+{67568}{67653}Il n'est qu'un Rédempteur
+{67668}{67728}et ce n'est pas toi.
+{67748}{67818}Alors arrêtons cette comédie,|sers-toi de ton arme.
+{67860}{67935}C'est tout|ce que tu sais faire !
+{67973}{67998}Vous !
+{68038}{68065}Vous qui m'avez menti !
+{68110}{68125}Vous osez !
+{68590}{68658}Tu es allé trop loin mon fils.
+{68698}{68778}Tu navigues|hors de la carte de ce monde.
+{68825}{68928}J'ai souvent causé de toi|avec Don Masino.
+{68933}{69013}Depuis ta blessure en volant...|quoi, du pain ?
+{69018}{69108}Il n'a cessé de te protéger.
+{69118}{69165}De ses amis, de la police,
+{69170}{69208}de tout le monde !
+{69225}{69255}Sauf de toi-même.
+{69285}{69348}Il voulait que tu sois son fils.
+{69365}{69425}Je lui ai bien dit|que c'était impossible.
+{69430}{69505}Tu n'es le fils de personne|sinon de Dieu.
+{69535}{69618}Et les voies du Seigneur|ne sont pas de ce monde.
+{69665}{69775}Don Masino veut sauver ta femme|et l'enfant de toi qu'elle porte.
+{69790}{69828}Il a ma bénédiction.
+{69863}{69923}Il tentera de te sauver.
+{69965}{70065}Mais je lui ai conseillé|de n'en rien faire.
+{70085}{70118}Maintenant tu sais tout.
+{70148}{70210}Mon fils, ta fin s'approche.
+{70233}{70305}Alors tue-moi|pour mettre la touche finale
+{70315}{70403}à l'épopée de Giuliano le bandit !
+{70440}{70478}Quoi que j'aie pu être
+{70518}{70600}je ne suis pas seulement|un bandit. J'étais...
+{70618}{70643}Arrête la voiture !
+{70740}{70768}Dehors !
+{70785}{70863}Nous n'avons eu|qu'un seul Sauveur Giuliano
+{70870}{70955}et nous l'avons crucifié
+{70970}{71053}il y a deux mille ans.
+{71770}{71813}Derrière ces grilles
+{71880}{71920}hectares de terre,
+{71930}{71988}de terre|laissée à l'abandon,
+{71995}{72043}attendent
+{72085}{72108}que vous
+{72118}{72170}les réclamiez pour vous !
+{72195}{72233}Au nom de la loi !
+{72285}{72323}En quoi les lois romaines|nous concernent ?
+{72413}{72493}Laisserez-vous|cinq hommes de Don Masino
+{72498}{72548}condamner vos enfants|à mourir de faim ?
+{72613}{72653}Vous avez oublié|le pourquoi de notre présence ici ?
+{72665}{72700}Pour honorer ton frère !
+{72745}{72800}Votre peur|ne lui fait pas honneur !
+{73205}{73243}Faites-les descendre de cheval.
+{73250}{73280}Amenez-les-moi.
+{73323}{73348}Pied à terre !
+{74378}{74398}A genoux !
+{74410}{74453}Mettez-vous en paix avec Dieu.
+{74570}{74608}Je vous exécute
+{74620}{74670}au nom de Dieu et de la Sicile !
+{75620}{75660}Ils ne me pardonneront pas...
+{75718}{75743}Non.
+{75758}{75803}Mais jamais ils ne t'oublieront.
+{76903}{76943}Le colonel Amato est arrivé.
+{77540}{77635}Tu as réussi|ce que nul autre n'avait pu faire.
+{77673}{77743}Tu as uni|tous les partis politiques d'Italie
+{77748}{77800}autour d'un objectif commun.
+{77805}{77828}Toi.
+{77865}{77890}Mort.
+{77895}{77938}On dit que c'est une armée|de célibataires
+{77975}{78010}pour qu'il n'y ait pas de veuves.
+{78068}{78090}Il faut que Giovanna
+{78095}{78110}quitte la Sicile.
+{78160}{78190}Quoi ?
+{78220}{78243}J'ai quelque chose dans l'œil.
+{78248}{78275}Viens ici.
+{78608}{78638}En arrivant en Amérique
+{78685}{78715}téléphone-moi.
+{78748}{78768}Où ça ?
+{78773}{78875}On te le dira. Et puis|je m'arrangerai avec Don Masino.
+{78955}{78975}Et je te rejoindrai.
+{78985}{79035}Un homme seul|ne s'arrange pas avec Don Masino.
+{79085}{79105}Un homme seul ?
+{79110}{79140}Deux hommes.
+{79160}{79178}Il ne reste que nous.
+{79185}{79238}Tu es seul Salvatore !
+{79368}{79398}C'est comme ça que j'ai commencé.
+{79505}{79540}Et je m'en suis bien tiré.
+{80160}{80223}Pars avec moi... tout de suite.
+{80245}{80308}C'est trop dangereux...
+{80335}{80363}pour toi
+{80380}{80413}Je viendrai plus tard.
+{80588}{80623}La vie est dure Enzo.
+{80628}{80663}Quelqu'un a prétendu|le contraire ?
+{81030}{81073}Je ne peux rien faire de plus.
+{81140}{81188}Je sais. Vous avez raison.
+{81230}{81248}Il est fou.
+{81255}{81283}Je lui ai dit.
+{81335}{81363}Si seulement je pouvais...
+{81535}{81598}Tu ne veux pas endosser|la responsabilité ?
+{81613}{81643}Moi non plus.
+{81713}{81813}On s'arrangera pour que la police...|l'armée ait toute la gloire.
+{81943}{81968}Mais après que...
+{82018}{82045}Tu te livreras.
+{82113}{82153}Tu es son complice.
+{82188}{82230}Un an ou deux en prison.
+{82245}{82273}Rien de plus.
+{82318}{82343}Puis l'amnistie.
+{82468}{82500}Et si je m...
+{82525}{82578}La vie est dure Aspanu.
+{83320}{83370}Le bateau américain|n'attendra pas indéfiniment.
+{83380}{83438}Quand elle m'aura appelé,|je partirai.
+{83560}{83603}Tu choisis la bonne solution.
+{83668}{83695}En fuyant ?
+{83743}{83835}Dis à Don Masino que je pars|parce qu'il ne me reste personne
+{83840}{83873}en dehors d'Aspanu.
+{83935}{83973}En dehors d'Aspanu.
+{84750}{84778}J'y suis.
+{85230}{85280}Moi parti|tu n'auras plus rien à craindre.
+{85285}{85318}Je m'en fous.
+{85365}{85405}Tu veux aller en Amérique ?
+{85450}{85478}Tu veux quoi ?
+{85483}{85508}La terre.
+{85593}{85628}Qu'est-ce que tu vas faire ?
+{85635}{85688}Me battre comme toi.|Toujours.
+{85745}{85763}Pourquoi ?
+{85773}{85828}Pour que tu nous reviennes.
+{85968}{86010}Je vais te dire un secret.
+{86045}{86098}Jamais, jamais je ne m'en irai.
+{86135}{86163}Pas vraiment.
+{86215}{86255}Je serai toujours ici
+{86280}{86303}en un sens
+{86348}{86373}avec toi.
+{87110}{87145}Au revoir !
+{87150}{87180}Au revoir.
+{87423}{87448}Arrête la voiture.
+{87460}{87500}J'ai dit arrête la voiture !
+{87535}{87560}Descends Hector.
+{87848}{87918}Salvatore, j'ai fait|tout ce que je pouvais
+{87955}{87978}pour toi.
+{88020}{88058}Je te jure...
+{88075}{88108}que c'est vrai.
+{88125}{88213}Mais je ne pouvais pas t'aider.|Personne ne pouvait.
+{88220}{88308}Tu as promis la terre au peuple.|Il n'en veut pas.
+{88318}{88375}Il veut du pain ! C'est tout !
+{88430}{88478}Don Masino le savait.
+{88515}{88553}Toi pas.
+{88605}{88683}Et Don Masino t'a promis quoi ?
+{89193}{89223}Tu es prêt ?
+{89455}{89483}Tire.
+{89668}{89703}Je ne peux pas.
+{89805}{89865}Je t'ai dit|que je n'avais pas peur de mourir.
+{89908}{89935}C'est vrai.
+{90050}{90098}Le temps que j'avais ici s'achève.
+{90135}{90170}Appuie sur la détente.
+{90275}{90313}Je ne peux pas. Je t'aime.
+{90353}{90383}Obéis-moi !
+{91045}{91158}Ici Howard Austin de Pathé Journal.|Le célèbre hors-la-loi sicilien
+{91163}{91228}Salvatore Giuliano a été tué ce matin
+{91235}{91290}dans une fusillade|avec une unité spéciale.
+{91328}{91355}Vous l'avez apporté ?
+{91983}{92005}De l'opium ?
+{92255}{92273}Des rêves.
+{94283}{94350}Ainsi meurent|ceux qui trahissent Giuliano
+{94420}{94453}Rêve...
+{94480}{94528}d'or
+{94535}{94568}mon garçon.
+{95755}{95770}Que n'a-t-il...
+{95860}{95898}Pourquoi|il n'est pas venu à moi ?
+{95983}{96013}Pourquoi l'eût-il fait ?
+{96035}{96093}Il était son propre père.
+{96110}{96140}Il s'était inventé lui-même.
+{96178}{96223}Puis nous l'avons tué.
+{96290}{96358}Vous... et moi.
+{96413}{96455}Et maintenant il n'est plus.
+{96628}{96650}Qu'est-ce qu'il y a ensuite ?
+{96895}{96933}Qu'est-ce qu'il y a ensuite ?
+{96988}{97050}Ensuite ? Il n'y a rien.
+{97078}{97113}Ensuite il n'y a jamais rien
+{97148}{97183}ici.

@@ -1,0 +1,625 @@
+{14195}{14252}...envoyé par Baker?
+{14561}{14630}Je lui ai dit tout ce que je sais
+{14633}{14684}Dis-lui de me laisser|en paix, okay?
+{14687}{14771}Dis-lui qu'il est inutile|de continuer à me tourmenter!
+{14777}{14858}Je ne sais rien de ces pièces d'or.
+{14861}{14893}Maintenant elles ont disparu,
+{14896}{15001}mais s'il m'avait écouté...|...on aurait pu tout éviter.
+{15019}{15076}L'armée m'a jugé
+{15076}{15127}mais sans témoins,
+{15130}{15196}elle n'a rien pu découvrir.
+{15205}{15289}Je ne saurais pas dire à Baker|où est passé cet argent!
+{15292}{15346}Va lui dire ça!
+{15421}{15496}Tu as reçu une visite...
+{15547}{15607}...et Baker le sait.
+{15661}{15718}Un certain Jackson.
+{15874}{15930}Jackson est venu...
+{15975}{16056}...ou Baker s'est trompé?
+{16275}{16335}Il ne s'est pas trompé.
+{16350}{16485}Il aimerait peut-être savoir|ce que vous vous êtes dit...
+{16491}{16557}...au sujet de l'or.
+{16674}{16755}Mais ce n'est pas pour|ça qu'on me paie.
+{16874}{16994}Dis-moi sous quel nom|se cache maintenant Jackson.
+{17087}{17168}Pourquoi il aurait un nom d'emprunt?
+{17171}{17246}Je l'aurais déjà retrouvé autrement.
+{17267}{17366}Quand je cherche quelqu'un, je le trouve.
+{17369}{17438}C'est pour ça qu'on me paie.
+{17597}{17675}Combien il te donne Baker?
+{17759}{17807}C'est ta famille?
+{18103}{18130}Oui.
+{18160}{18226}Belle famille.
+{18292}{18361}Combien il te paie pour me tuer?
+{18454}{18505}500 dollars...
+{18535}{18583}... pour avoir le nom!
+{18772}{18814}Le nom!
+{19101}{19131}Carson.
+{19149}{19200}Bill Carson.
+{19206}{19287}Voila comment il s'appelle maintenant.
+{20195}{20273}Voilà tout notre argent, 1000 dollars.
+{20396}{20447}1000 dollars...
+{20522}{20576}Et des pièces d'or. 
+{20582}{20639}Jolie somme!
+{20762}{20810}Mais je finis toujours le travail...
+{20833}{20887}..pour lequel on me paie.
+{23072}{23114}C'est toi!
+{23135}{23189}Il a parlé?
+{23246}{23294}Trop.
+{23339}{23426}Certaines choses t'intéressent...
+{23426}{23504}...et deux ou trois choses|m'intéressent moi.
+{23507}{23564}C'est-à-dire?
+{23579}{23657}Jackson se cache|sous le nom de...
+{23660}{23708}...Bill Carson.
+{23777}{23833}Voilà pour toi.
+{23914}{23953}Continue.
+{23968}{24046}Il a aussi parlé d'une certaine...
+{24049}{24142}...caisse d'or |qui aurait disparu.
+{24175}{24217}Voilà pour moi!
+{24241}{24280}Qu'est-ce qu'il a dit d'autre?
+{24307}{24376}Ça te suffit pas?
+{24382}{24439}Mais ne t'inquiète pas.
+{24442}{24514}Il ne parlera plus!
+{24553}{24601}Parfait.
+{24622}{24676}Tiens.
+{24685}{24736}Prends ça
+{24739}{24795}Beau travail.
+{24798}{24849}Tu mérites ces 500 dollars.
+{24969}{25026}Au fait, j'oubliais...
+{25029}{25098}...lui m'a donné 1000 dollars.
+{25107}{25176}Je crois qu'il voulait que je te tue.
+{25407}{25470}Et je finis toujours...
+{25479}{25554}...un travail payé.
+{25563}{25614}Tu le sais.
+{27025}{27091}No pistol amigo.
+{27094}{27148}Ne t'amuse pas à ça!
+{27151}{27196}Nous sommes trois.
+{27691}{27819}Tu sais que tu as la tête de|quelqu'un qui vaut 2000 dollars?
+{28002}{28125}Toi t'as pas la tête|de celui qui les encaissera.
+{28326}{28407}Recule amigo.
+{29800}{29836}Merci
+{30121}{30178}Combien tu vaux maintenant?
+{30190}{30229}Combien?
+{30268}{30304}2000 dollars!
+{30391}{30442}Oui, 2000 dollars.
+{30454}{30508}Yeah 2000 dollars!
+{30724}{30786}! HiJo de puta que te pario!
+{30795}{30843}Tu le paieras cher!
+{30846}{30930}J'espère que tu crèveras...
+{30930}{31011}...du choléra et de la peste!!
+{31014}{31125}Libère-moi tout de suite !|Libère-moi fumier puant!
+{31128}{31167}Je veux descendre!
+{31170}{31254}J'espère que ta mère finira dans|un bordel à deux balles!
+{31257}{31332}Libère-moi!|Libère-moi!
+{31365}{31419}Tu peux te racheter.
+{31422}{31503}Libère-moi et je te|laisserai tranquille.
+{31509}{31557}Laisse-moi partir!
+{31587}{31674}Je me sens mal.|Le sang me monte à la tête...
+{31718}{31763}A boire...
+{31796}{31850}Agua! De l'eau...
+{32054}{32129}Fumier! T'es vraiment une ordure!
+{32195}{32258}T'as de la chance que je sois ligoté!
+{32261}{32306}Reviens!
+{32309}{32366}Reviens te battre!
+{32396}{32456}Fumier!
+{32483}{32528}C'est qui ça?
+{32528}{32597}Un fumier rentre et l'autre sort!
+{32597}{32648}Ferme-la!|Ferme-la!
+{32651}{32749}Je suis un honnête fermier!|Je suis innocent de tout--
+{32827}{32887}Tu es un honnête fermier?
+{32890}{32959}Et cet homme, tu le reconnais?
+{32971}{33028}C'est toi!
+{33079}{33169}Tu tiens ça d'où?|Tu ne sais même pas lire!
+{33184}{33235}C'est ça, roule-le!
+{33238}{33313}Tu sais où tu peux te le mettre!
+{33316}{33439}J'en ai rien a faire de vos|prisons, de vos shérifs!
+{33442}{33523}Regardez tous, c'est|de l'argent sale!
+{33526}{33559}Judas!
+{33562}{33607}Tu m'as vendu.
+{33631}{33691}Mais tu ne profiteras pas de cet argent!
+{33694}{33783}S'il y a une justice,|il paiera ton enterrement!
+{33786}{33876}Chaque sous.|Tu sais ce que t'es?
+{33882}{33951}Tu veux savoir de|qui tu es le fils?
+{33951}{34023}Tu sais pas, hein?.|Tout le monde le sait.
+{34026}{34083}T'es le fils d'un millier de pères!
+{34083}{34131}Tous des salauds comme toi!
+{34134}{34218}Et ta mère vaut mieux pas en parler...
+{34221}{34263}Salaud!
+{34293}{34431}Ta mère, si tu savais!!|J'ai jamais causé de tort à personne.
+{34440}{34533}...recherché dans 14 comtés de cet Etat...
+{34563}{34709}...le condamné a été reconnu|coupable pour crimes...
+{34727}{34838}...attaques à main armée de citoyens,|de banques et de postes...
+{34841}{34958}...vols d'objets sacrés...
+{34964}{35075}...faux témoignages, bigamie,|abandon du domicile conjugal...
+{35105}{35225}...incitation à la prostitution, rapt...
+{35228}{35318}...extorsion de fonds...
+{35321}{35468}...émission de fausse monnaie...
+{35477}{35567}...le condamné est coupable d'utilisation....
+{35609}{35713}..en les pouvoirs qui nous sont conférés,...
+{35734}{35818}...nous condamnons...
+{35821}{35935}...Tuco Benedicto Pacifico|Juan Maria Ramirez...
+{35941}{35977}...dit le "Faux-jeton"!...
+{35977}{36067}...et tous les surnoms|qu'il peut avoir...
+{36094}{36148}...à la pendaison jusqu'à ce que mort s'ensuive.
+{36148}{36250}Dieu aie pitié de lui.
+{37026}{37089}Cinq pour toi...
+{37101}{37179}Un, deux, trois, quatre...
+{37200}{37236}...cinq pour moi.
+{37281}{37344}Cinq pour toi...
+{37347}{37425}...cinq pour moi.
+{37434}{37494}Tu sais ce que tu vaux maintenant?
+{37497}{37554}Non, combien?
+{37560}{37605}3000 dollars!
+{37718}{37802}Il y a deux sortes de gens|dans l'esprit de mon ami.
+{37805}{37841}Les uns ont la corde au cou...
+{37844}{37925}...les autres coupent la corde.
+{37928}{38024}Mais c'est moi qui passe la tête|dans le nœud coulant!
+{38027}{38090}C'est moi qui prend les risques.
+{38102}{38204}Alors à l'avenir,|je veux plus de la moitié.
+{38210}{38285}C'est peut-être toi qui|prends les risques mon ami...
+{38288}{38354}...mais c'est moi qui tire
+{38387}{38474}Si nous diminuons ma part...
+{38513}{38558}Cigare?
+{38606}{38710}...je pourrais rater mon coup.
+{38755}{38866}Si tu manques la corde,|ne manque pas le pendu.
+{38872}{38983}Celui qui me trahit|et qui me laisse la vie sauve...
+{38986}{39082}...celui-la ne connaît rien à Tuco.
+{39112}{39160}Rien!
+{39265}{39340}Recherché dans 15 comtés...
+{39340}{39457}...le condamné|qui se tient devant nous...
+{39460}{39559}...Tuco Benedicto Pacifico|Juan Maria Ramirez...
+{39562}{39628}...est jugé coupable par cette cour...
+{39631}{39747}...des crimes suivants:|meurtre...
+{39750}{39822}...viol d'un jeune vierge de race blanche...
+{39825}{39942}...viol d'une mineur de race noire...
+{39954}{40062}...déraillement d'un train en|vue de détrousser ses passagers....
+{40230}{40284}Qu'est-ce que tu as appris?
+{40287}{40344}Une histoire de fous!
+{40344}{40473}Des soldats convoyant de l'or|tombent dans une embuscade yankee....
+{40473}{40548}...et seuls trois hommes y survivent.
+{40551}{40623}Stevens, Baker et Jackson.
+{40626}{40697}Les pièces d'or sont volées.
+{40700}{40784}Mais alors l'armée décide que naturellement|il doit y avoir enquête...
+{40787}{40820}...et Jackson est acquitté.
+{40823}{40910}Il disparaît et il devient Bill Carson.
+{40913}{40943}Ça je le sais.
+{40946}{41039}Mais tu ne sais pas QUI tu|cherches et ça je le sais!
+{41042}{41162}Je ne voudrais pas être à sa place!
+{41234}{41321}-Où est Carson?|-Il a rempilé.
+{41324}{41369}Le pauvre a perdu un œil.
+{41369}{41435}Il vit avec une certaine Maria
+{41438}{41510}Une fille de rien.
+{41513}{41543}Elle est où?
+{41546}{41662}Dans une ville...?|C'est près d'ici...
+{41737}{41791}Santa Ana.
+{41866}{41938}Adios demi-portion.
+{42091}{42127}Un whisky!
+{42475}{42574}Enfin ils l'ont arrêté.|Une crapule pareille
+{42586}{42639}Ce n'est pas la corde qui fait le pendu.
+{42642}{42714}Qu'est-ce que vous voulez dire?
+{42756}{42867}Même un miteux comme lui|a un ange gardien.
+{43071}{43170}Un ange blond veille sur lui.
+{43173}{43254}Toutes les accusations qui lui sont portées|sont le fruit de confessions spontanées.
+{43299}{43413}Par conséquent nous le condamnons à|la pendaison jusqu'a ce que mort s'ensuive.
+{43413}{43512}Paix ait son âme|Faites.
+{43958}{44027}Dégageons d'ici!
+{44971}{45049}Qu'est-ce que tu dis?|Tout le monde peut rater un tir?
+{45052}{45109}On ne rate pas son coup|quand on va me pendre!
+{45112}{45220}Tu n'as jamais eu la corde au cou.|Je vais te dire un truc.
+{45223}{45352}Quand le nœud serre on sent|le diable vous mordre les fesses.
+{45439}{45496}Tu as raison.
+{45520}{45574}Ça devient plus dur.
+{45603}{45657}Je commence à penser...
+{45660}{45786}...qu'il n'y a pas d'avenir|avec un rustre comme toi.
+{45789}{45831}Comment ça?
+{45834}{45957}Tu ne vaudras jamais|plus de 3000 dollars.
+{45972}{46035}Explique-toi.
+{46041}{46134}Je dissous notre association.
+{46158}{46215}Mais toi...
+{46218}{46275}...tu restes attaché.
+{46278}{46365}A moi l'argent, à toi la corde.
+{46371}{46494}Espèce de double salopard puant!|Tu n'es qu'un--
+{46497}{46580}La ville est a 70 miles.
+{46622}{46733}Si tu ménages tes forces, tu y arriveras.
+{46736}{46772}Adios.
+{46775}{46865}Crapule! Reviens!
+{46877}{46964}Reviens! Coupe cette corde!|Descends de cheval!
+{46967}{47033}Descends de cheval, sale lâche!
+{47033}{47069}Si je te retrouve...
+{47072}{47135}...Je t'arracherai le cœur|et je le mangerai!
+{47138}{47252}Je te pèlerai vivant!|Je te pendrai par la langue.
+{47294}{47381}Je te tuerai!|Je te tuerai!
+{47429}{47563}Quelle ingratitude après toutes|les fois où je t'ai sauvé la vie.
+{47785}{47830}Ne me laisse pas ici...
+{47833}{47875}Reviens
+{47878}{47953}Attends! Blondin!
+{48001}{48064}! HiJo de una gran puta!
+{49203}{49263}Bande de crapules.
+{49754}{49796}Maria.
+{50006}{50066}C'est toi Bill?
+{50429}{50486}Qui êtes-vous?
+{50489}{50548}Que voulez-vous?
+{50551}{50638}Continuer à parler de Bill Carson.
+{50653}{50725}Je ne le connais pas.
+{50743}{50842}Tu l'appelais dans le noir!
+{50953}{50986}Où est-il?
+{50989}{51067}Qu'est-ce que vous allez faire?
+{51100}{51181}C'est moi qui pose les questions.
+{51223}{51280}Où est-il?
+{51493}{51534}Où est-il?
+{51792}{51858}Assez!
+{51888}{51933}Je ne sais pas où il est.
+{51936}{52041}Il a rejoint son régiment il y a dix jours.
+{52044}{52089}Ils sont tous partis.
+{52092}{52164}Quel régiment?|Où il est allé?
+{52281}{52371}3ème Cavalerie, général Sibley.
+{52392}{52458}Ils sont partis à Santa Fe.
+{52458}{52541}Je ne sais rien de plus.|Je le jure!
+{55308}{55401}Désolé mais je ferme.
+{56533}{56602}Vos revolvers!
+{56755}{56818}Revolvers!
+{56839}{56935}Ceux-ci sont les meilleurs.
+{57085}{57172}Regardez: un Remington, un Colt...
+{57211}{57301}...Smith Wesson Colt de la Navy....
+{57340}{57439}Un autre Remington et celui-ci--
+{57454}{57507}C'est bon.
+{58790}{58853}Des cartouches.
+{59099}{59192}-Pour un essai c'est la derrière.--|-Allons-y.
+{61685}{61745}Cartouche
+{61982}{62015}Combien?
+{62015}{62072}20 dollars.
+{62279}{62333}50 dollars.
+{62372}{62425}Combien?
+{62437}{62497}100 dollars.
+{62575}{62668}200 dollars.|C'est tout ce que j'ai.
+{63322}{63367}Venez ici!
+{64275}{64326}Ce matin j'ai tout entendu.
+{64329}{64394}Le colonel Canby approche|avec ses Nordistes...
+{64397}{64481}...ils seront ici demain.|Ils seront dans la ville.
+{64484}{64574}Ces lâches de Sudistes déguerpissent!
+{64577}{64703}Tu vois dès que ces froussards entendent que les|bleus sont dans les environs ils déguerpissent.
+{64706}{64796}-Ils n'ont plus envie de se battre.|-Pauvres mecs.
+{64796}{64844}Ils seront bientôt tous finis.
+{64847}{64880}On est débarrassé de ces bâtards...
+{64883}{64958}...maintenant on va faire affaire|avec les yankees.
+{64958}{65087}Eux ils ont de l'or, pas du papier,|et ils vont battre le Sud.
+{65123}{65219}Tu vois le barbu là?|Assis dans le chariot?
+{65219}{65336}C'est le général Sibley. Il a l'air mort.|Il va nous sortir par tous les trous
+{65336}{65425}Vivent les Confédérés!|Vivent les Confédérés!!
+{65596}{65671}Où est le propriétaire de ce cheval?
+{65689}{65725}Monsieur, je vous en prie...
+{65728}{65788}-...j'ai le cœur malade....|-Où?
+{65791}{65866}La guerre m'a déjà éprouvé
+{65875}{65947}Je recherche le propriétaire de ce cheval.
+{65947}{66046}Il est grand, blond, il fume le cigare et|c'est un fils de garce!
+{66058}{66097}Où il est?
+{66097}{66184}Laissez-le!|Il est hôtelier, pas maquignon!
+{66187}{66271}Ferme-la la vieille!
+{66307}{66405}Bon... au premier étage... chambre 4.
+{66576}{66621}Ecoute ça!
+{66786}{66876}Bande de crapules!
+{72199}{72253}Tes éperons!
+{72618}{72699}Il y a deux sortes d'éperons:
+{72702}{72789}ceux qui passent par la porte...
+{72792}{72867}...et ceux qui passent par la fenêtre.
+{72870}{72942}Jette ton arme.
+{73161}{73218}Elle est vide.
+{73284}{73343}Pas la mienne.
+{73523}{73643}Quand Judas s'est pendu, il a aussi tonné.
+{73745}{73820}C'est peut-être un coup de canon.
+{73820}{73928}Canon ou tonnerre,|pour toi c'est pareil!
+{73997}{74081}Ça te dit quelque chose l'ami?
+{74353}{74431}Passe la corde autour de la poutre.
+{74488}{74548}Là-haut.
+{74878}{74941}Monte la-dessus
+{75235}{75288}C'est bien.
+{75288}{75363}Assure-toi qu'elle est bien fixée!
+{75372}{75459}Elle doit supporter|le poids d'un gros saligaud!
+{75645}{75729}Passe ton cou là-dedans.
+{75927}{75987}Parfait.
+{76020}{76080}Ça te serre?
+{76083}{76140}Je vais arranger ça.
+{76143}{76194}Je connais un moyen.
+{76197}{76280}Différent du tien...
+{76286}{76346}Je ne vise pas la corde
+{76349}{76418}mais l'escabeau!
+{76550}{76601}Adios.
+{82053}{82161}...Le condamné Thomas Martin, alias Shorty|Larson, a été reconnu coupable des faits suivants....
+{82712}{82775}Et Shorty?
+{83479}{83542}Désolé Shorty!
+{83566}{83641}Lève-toi.
+{84375}{84471}C'est marrant,|j'ai toujours soif dans le désert.
+{84480}{84516}Ça tape, hein?
+{84516}{84630}Paraît que|les blonds supportent mal le Soleil.
+{85358}{85460}Comme ça tu te sentiras plus léger.
+{85499}{85559}On va où?
+{85571}{85607}Où?
+{85610}{85682}Où je vais moi tu veux dire? Amigo
+{85703}{85751}Par là!
+{85754}{85856}Cent miles de sable brûlant!
+{85880}{85952}Que même les soldats évitent .
+{85955}{86024}Sibley bat en retraite de ce côté-ci.
+{86027}{86108}Et Canby arrive par là...
+{86126}{86227}...mais personne ne viendra dans cet enfer...
+{86254}{86329}...à part toi et moi.
+{86374}{86470}Cent miles,|c'est une belle balade.
+{86542}{86638}Qu'est-ce que tu m'as dit l'autre fois?
+{86680}{86806}"Si tu ménages tes forces,|tu y arriveras."
+{86863}{86953}Eh bien toi si tu n'y arrives pas,|tu crèveras.
+{86956}{87001}A petit feu.
+{87034}{87109}Très, très doucement.
+{87267}{87354}Je t'en prie. Marche.
+{90843}{90906}Tu te reposes déjà?
+{90921}{91053}Du nerf Blondin!|Il ne nous reste que 60 miles.
+{91098}{91205}Et plus que huit heures|à marcher en plein Soleil!
+{91208}{91277}Ne nous plaignons pas.
+{91310}{91364}Avance!
+{95057}{95116}Eh bien Blondin...
+{95182}{95245}...au revoir.
+{102024}{102135}200000 dollars en or.|Ils sont à toi mais à boire!
+{102294}{102360}Qu'est-ce que t'as dit?
+{102360}{102408}Qui tu es?
+{102480}{102549}Je m'appelle maintenant Bill Carson.
+{102576}{102624}Attaqués par surprise.
+{102681}{102708}Tous tués.
+{102711}{102804}Je m'appelle Jackson. Non... Carson.
+{102816}{102870}Ouais ouais, ravi de|te rencontrer Carson!
+{102873}{102981}Moi je suis le grand-père de Lincoln.|Combien tu as de dollars?
+{102984}{103046}200000... tous à moi...
+{103082}{103160}la caisse du 3eme Cavalerie.
+{103172}{103235}Baker n'a rien.
+{103253}{103289}L'or...
+{103292}{103379}J'ai caché l'or en lieu sûr.
+{103403}{103457}Où? Ici?
+{103496}{103550}Parle!
+{103562}{103625}Dans le cimetière.
+{103628}{103688}Quel cimetière?
+{103721}{103790}Celui de Sad Hill.
+{103793}{103847}Il y a une tombe près de...
+{103871}{103916}Quelle tombe?
+{103919}{103994}Son nom? Son numéro?
+{103994}{104065}Parle!
+{104116}{104182}Il n'y a pas de numéro...
+{104197}{104242}...Il y a un nom.
+{104275}{104341}Il est écrit.
+{104539}{104578}De l'eau!
+{104662}{104746}Parle d'abord,|et après je te donnerai de l'eau!
+{104752}{104800}Cimetière de Sad Hill, c'est ça?
+{104806}{104842}Dans une tombe, c'est ça!
+{104845}{104920}Mais il doit y avoir un nom ou un numéro!
+{104926}{105012} Il y a 1000, 5000 tombes ... tu--
+{105129}{105186}Ne meurs pas.
+{105189}{105261}Ne meurs pas!|Je t'apporte de l'eau!
+{105264}{105363}Reste là.|Je t'apporte de l'eau.
+{105366}{105438}Attends un peu avant de mourir!
+{106208}{106247}Ecarte-toi!
+{106442}{106496}Il est mort.
+{106604}{106658}Je vais te tuer!
+{106730}{106826}Si tu fais ça|tu seras toujours pauvre.
+{106859}{106955}Tu resteras le minable que tu es.
+{106966}{107032}A ta place je ne tirerais pas...
+{107038}{107089}...laisse-moi en vie.
+{107098}{107167}Qu'est-ce qu'il ta dit?
+{107197}{107233}Un nom.
+{107269}{107326}Un nom sur une tombe.
+{107332}{107383}Quel nom?
+{107797}{107857}Blondin, ne meurs pas.
+{107890}{107964}Ne meurs pas. Je suis ton ami!
+{107970}{108078}S'il te plait, ne meurs pas.|Je suis ton ami!
+{108180}{108243}Allez, quoi!|Je vais t'aider.
+{108246}{108336}Bouge pas. Je reviens avec de l'eau.
+{108336}{108411}Ne meurs pas comme ce porc.
+{108456}{108507}Voilà de l'eau!
+{108510}{108570}N'avale pas. C'est mauvais!
+{108573}{108630}Tu te sens mieux?
+{108630}{108741}Je t'en supplie, ne meurs pas!
+{109604}{109643}Nous transportons un malade.
+{109646}{109691}Nous n'avons plus de lits.
+{109691}{109763}Vous lui donnerez le vôtre!
+{109922}{109990}-Où est le père Ramirez?|-Padre Ramirez
+{109990}{110041}Il n'est pas là pour le moment.
+{110047}{110119}Il devrait rentrer d'un jour à l'autre.
+{110122}{110254}Ce n'est pas important. On va d'abord bien soigner mon ami.
+{110257}{110305}Dieu est avec nous.
+{110308}{110344}dans le cas où vous ne le connaissez pas...
+{110347}{110461}...Dieu est avec nous aussi.|Parce que Lui aussi déteste les Yankees.
+{110515}{110557}Mon père, il respire encore?
+{110560}{110623}Oui.
+{110641}{110698}Ce que tu es lourd!
+{111953}{112043}Refais-lui son pansement.
+{112070}{112139}Voici ma cellule.
+{112289}{112361}Dehors soldat! Allez dehors!
+{112364}{112484}Veillez bien sur lui.|C'est un frère pour moi!
+{113053}{113137}Mon père, il a parlé?
+{114048}{114129}Mon père, il a dit quelque chose?
+{114129}{114213}Non, il n'a pas encore parlé.|Mais ne vous inquiétez pas!
+{114216}{114330}Non, mais il est jeune et robuste.|C'est ce qui l'a sauvé.
+{114336}{114417}Il devrait se rétablir sous peu.
+{114420}{114546}Merci mon père. Vous ne savez pas|ce qu'il représente pour moi!
+{116907}{117018}Le père m'a dit|que tu serais bientôt remis.
+{117024}{117126}Une chance que j'étais|là pour te ramener.
+{117135}{117207}Tu te vois là-bas, tout seul?
+{117279}{117327}Tu sais...
+{117327}{117402}...quand on est malade...
+{117411}{117516}...on aime bien avoir|des amis près de soi.
+{117576}{117624}Tu as...
+{117624}{117690}...de la famille Blondin?
+{117705}{117750}Une mère?
+{117753}{117819}Pas de mère!.
+{117843}{117881}Aucune.
+{117908}{117992}Tu es seul, hein? Comme moi Blondin.
+{118013}{118094}On est seuls au monde.
+{118097}{118157}Je n'ai que toi et tu n'as que moi.
+{118250}{118319}Et encore, pas pour longtemps.
+{118331}{118388}Tout peut arriver.
+{118409}{118484}Quel coup du sort!
+{118484}{118580}Dire qu'on pourrait avoir tout cet argent!
+{118772}{118846}Il faut que je te dise la vérité Blondin.
+{118849}{118945}A ma place, tu en ferais autant.
+{118990}{119056}Pour toi c'est fini.
+{119077}{119167}Plus personne ne peut rien pour toi.
+{119290}{119359}Tout est de ma faute!
+{119740}{119856}Je vais te dire une chose Blondin.|Si je savais ma dernière heure venue...
+{119856}{119991}...si j'étais à ta place en somme,|je ferais la même chose.
+{120027}{120126}Je dirais où sont les dollars.|C'est vrai!
+{120129}{120201}Je dirais le nom sur la tombe.
+{120204}{120285}A quoi sert l'argent|quand on est mort?
+{120288}{120348}Il est quelque part dans un cimetière.
+{120351}{120444}Mais il y en a des tombes là-bas!
+{120447}{120483}S'il te plaît.
+{120546}{120606}Je t'en prie...
+{120705}{120795}Café? Je t'en prie, dis-moi le nom.
+{120854}{120899}Sur la tombe.
+{120926}{121016}Si je mets la main|sur ces 200000 dollars...
+{121070}{121148}...j'honorerai à jamais ta mémoire.
+{121163}{121256}Je te le jure!
+{121349}{121409}Approche...
+{121559}{121592}Dis-moi.
+{121760}{121828}Je dormirai mieux...
+{121867}{121942}...maintenant que je|sais que mon ami...
+{121951}{122011}...est à coté de moi...
+{122014}{122059}...pour me protéger.
+{122380}{122449}"De l'eau Tuco!"
+{122452}{122560}Quand tu m'auras dit le nom,|je t'en cracherai de l'eau!
+{122773}{122859}Allez grand dadais,|sors-toi de ce lit!
+{122862}{122925}Debout! La fête est finie.
+{122928}{122979}Le chariot est attelé.
+{122982}{123045}De la manière où il laisse les blessés...
+{123045}{123144}...on ferait mieux de déguerpir avant|qu'on soit mêlés à cette guerre.
+{123147}{123234}Le père Ramirez est de retour.
+{123240}{123372}Y a un truc dans lequel je dois aller jeter un œil. Ça prendra une minute. Bouge-toi un peu!
+{123378}{123426}-Ou? Par là?|-Oui.
+{123959}{123992}Hey Pablo!
+{124244}{124310}Tu ne me reconnais pas?
+{124355}{124409}C'est moi, Tuco!
+{124427}{124496}Laisse moi t'embrasser!
+{124580}{124670}Je ne connais pas les usages.
+{124801}{124870}Je passais et je me suis dit ...
+{124870}{124987}..."Et si j'allais voir mon frère?"
+{125065}{125122}J'ai eu tort?
+{125152}{125233}Tant pis. Moi ça me fait plaisir.
+{125233}{125302}Bon, tu m'as vu maintenant.
+{125362}{125440}Oui et je suis content d'être venu.
+{125614}{125704}Mon uniforme? C'est une longue histoire.
+{125740}{125838}Mais parlons de toi.|C'est plus important.
+{125853}{125907}Tu as bonne mine.
+{125916}{125997}Un peu maigre peut-être mais...
+{126036}{126123}...mais tu as toujours été mince!|Eh Pablito?
+{126216}{126276}Comment vont nos parents?
+{126315}{126381}C'est seulement maintenant|que tu y penses? 
+{126417}{126477}Au bout de neuf ans?
+{126543}{126600}Neuf ans?
+{126639}{126681}Alors ça fait neuf ans.
+{126788}{126878}Notre mère est morte il y a longtemps.
+{126914}{127016}Et notre père vient de mourir.
+{127016}{127073}C'est pour ça j'étais absent.
+{127130}{127202}Elle t'a demandé!
+{127205}{127274}Mais elle n'aura revu que moi.
+{127478}{127538}Et toi?
+{127541}{127634}A part le mal, tu fais quoi ?
+{127676}{127780}Autrefois tu avais une femme.
+{127852}{127915}Des femmes j'en ai à la pelle!
+{127918}{127996}Une par-ci, une par-là, où je les trouve.
+{128032}{128116}Vas-y, fais-moi un sermon Pablo.
+{128170}{128239}A quoi bon?
+{128275}{128350}Va, reprends ton chemin.
+{128353}{128395}Pars.
+{128437}{128476}Et que le Seigneur ait pitié de ton âme!
+{128476}{128584}J'y vais, j'y vais. En attendant|qu'Il se souvienne de moi...
+{128587}{128698}...je vais te parler de frère à frère...
+{128698}{128757}...Je vais te dire une bonne chose.
+{128760}{128820}Tu te crois meilleur que moi.
+{128823}{128901}Chez nous,|pour ne pas mourir de pauvreté...
+{128904}{128976}...on devenait prêtre ou bandit!
+{128979}{129057}Tu as suivi ta voie, moi la mienne.
+{129060}{129108} La mienne est une voie difficile.
+{129114}{129165}Tu me parles de nos parents.
+{129168}{129231}Tu te rappelles quand|tu es entré au monastère?
+{129234}{129276}je suis resté seul.
+{129276}{129393}J'avais 10, 12 ans, et je suis resté.
+{129393}{129465}J'ai lutté mais c'était inutile.
+{129468}{129534}Ecoute-moi bien.
+{129534}{129582}Tu t'es fait prêtre ...
+{129582}{129672}...par lâcheté, pour ne|pas faire ce que je fais
+{130589}{130655}Pardon mon frère.|Oublie moi.
+{131545}{131596}J'ai le ventre bien rempli.
+{131650}{131710}Quel chic type mon frère!
+{131718}{131790}C'est lui qui commande ici.
+{131793}{131859}Un peu comme le pape.
+{131862}{131919}Le pape, lui, commande a Rome.
+{131922}{132024}Mon frère m'a dit:|"Reste, ne t'en va pas."
+{132027}{132081}"On ne se voit jamais.
+{132084}{132216}Ici, il y a à boire et à manger."|"Amène ton ami aussi."
+{132219}{132288}Quand on se retrouve|il ne me lâche plus.
+{132291}{132363}C'est toujours la même chose.
+{132366}{132444}Mon frère il m'adore.
+{132561}{132588}C'est comme ça.
+{132588}{132690}C'est bon de se dire|qu'un vagabond comme moi...
+{132713}{132878}...a un frère quelque part qui ne|lui refusera jamais un bol de soupe.
+{132920}{132962}C'est sûr.
+{133004}{133121}Après un bon repas|rien de tel qu'un bon cigare.
+{135159}{135204}Réveille-toi!
+{135216}{135258} Voilà des soldats.
+{135261}{135321}Bleus ou gris?
+{135525}{135657}Gris, comme nous.|On les salue et ensuite on file.
+{135680}{135776}Vivent les Confédérés!
+{135779}{135842}A bas le général Grant!
+{135845}{135932}Vive le général... C'est quoi son nom?
+{135935}{135965}Lee!
+{136025}{136130}Dieu est avec nous parce qu'il|déteste les Yanks aussi!
+{136181}{136295}Dieu n'est pas avec nous.|Il déteste les idiots comme toi.
+{136891}{136939}Prisonniers de guerre...
+{136942}{136993}...en avant...
+{137020}{137056}...marche!
+{138938}{139007}Une seule file.
+{140796}{140844}Robert Clark.
+{140847}{140883}Présent.
+{140913}{140952}Sam Richmond.
+{140955}{140991}Présent.
+{141084}{141129}Bill Carson.
+{141318}{141378}J'ai dit Bill Carson!
+{141402}{141489}Hé Blondin, ce serait pas|"Oeil d'ange"?
+{141504}{141600}Eh bien, qu'est-ce qu'il fait ? Il dort?
+{141686}{141782}Si, et tu ferais bien d'être Bill Carson.
+{141872}{141914}C'est moi!
+{142163}{142229}Pardon Carson mais ...
+{142265}{142316}Chez nous Carson on répond: Présent!
+{142364}{142430}T'es sourd?
+{142601}{142687}Tu veux bien dire "présent" Carson?
+{142732}{142819}J'aime les gros, comme toi...
+{142819}{142891}Quand ça tombe, ça fait du boucan.
+{142894}{142969}Et ça ne peut plus se relever.
+{142999}{143056}Wallace...
+{143101}{143152}...c'en est assez.
+{143230}{143287}Sergent!
+{143332}{143422}Le capitaine vous demande.
+{143509}{143596}Soigne-les bien ces deux-la.
+{143898}{144006}T'as entendu Blondin?|"Soigne-les bien!"
+{144213}{144288}Pour la dernière fois sergent...
+{144291}{144324}...je vous le répète...
+{144324}{144417}...Je veux qu'on traite les prisonniers|avec humanité.
+{144441}{144495}Assez de brutalités!
+{144528}{144641}Je n'ai que quelques gardiens|pour tous ces prisonniers.
+{144641}{144713}Je dois me faire respecter.
+{144713}{144860}Ils vous respecteront|si vous les traitez mieux.
+{144902}{144980}Est-ce que les nôtres sont bien traités|à Andersonville?
+{144980}{145064}Je me moque|de ce que font les Sudistes!
+{145067}{145136}Tant que je commanderai ici...
+{145139}{145172}...ni tortures...
+{145175}{145226}...ni vols...
+{145235}{145283}...ni exécutions!
+{145292}{145346}C'est une accusation?
+{145346}{145448}La gangrène me dévore la jambe...
+{145472}{145520}...mais pas les yeux.
+{145523}{145615}Je sais qu'ici on vole les prisonniers...
+{145615}{145732}et la racaille|qui bivouaque autour du camp...
+{145735}{145822}...attend que quelqu'un lui apporte ce butin.
+{145822}{145936}Mais tant que je commanderai,|j'interdirai ces fourberies!
+{145936}{145984}C'est compris?
+{146038}{146077}Oui monsieur.
+{146083}{146176}Tant que vous commanderez.
+{146209}{146254}Oui sergent.
+{146341}{146440}Je sais que je n'en ai|plus pour longtemps,...
+{146443}{146530}...mais j'espère avoir le temps...
+{146530}{146679}...d'envoyer devant une cour martiale...
+{146700}{146778}...tous ceux qui déshonorent...
+{146787}{146838}...l'uniforme de l'Union!
+{146964}{147015}Je vous souhaite de réussir.

@@ -1,0 +1,12 @@
+{
+    "input_adapter": "chatterbot.input.TerminalAdapter",
+    "output_adapters": [
+      {
+        "import_path": "output.SlowTerminal",
+        "delay": 0
+      },
+      {
+        "import_path": "output.MacSayAdapter",
+      }
+    ]
+}

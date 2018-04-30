@@ -1,0 +1,373 @@
+{42}{67}Vide ton sac.
+{137}{192}Deux jours. Minuit.
+{190}{253}Au son du bruit de la scie.
+{332}{397}Jacques, t'es un sacré|putain de Canadien.
+{394}{444}Ça m'a l'air d'être une grosse.
+{1479}{1542}Où vas-tu?
+{1539}{1581}Nul part...
+{1616}{1653}et tu ne viens pas.
+{1712}{1757}Laura, allons.
+{1755}{1817}Tu me reconnais?|Ta meilleure amie.
+{2167}{2247}Tu ne m'offres rien à boire?
+{2437}{2475}Où sont les tourtereaux?
+{2528}{2576}Tu parles de Fred et de Finger?
+{2574}{2616}Ils dansent.
+{2704}{2751}Si j'avais cinq sous...
+{2752}{2789}pour chacun des mégots|de ta mère,
+{2790}{2822}je serais morte.
+{3022}{3060}Je t'appellerai demain.
+{4036}{4096}Ce genre d'incendie, une fois|commencé...
+{4095}{4190}est difficile à éteindre.
+{4189}{4311}Les jeunes rameaux verts|brûlent en premier.
+{4306}{4376}Puis, le vent augmente...
+{4376}{4398}alors,
+{4431}{4489}la bonté est en danger.
+{5162}{5319}''...où étais-tu
+{5315}{5480}''pourquoi es-tu resté...
+{5502}{5667}''loin de moi...
+{5705}{5825}''quand le monde entier...
+{5823}{5945}''semble avoir compris...
+{5943}{6015}''pourquoi...
+{6015}{6155}''pourquoi es-tu parti...
+{6225}{6307}''est-ce ma faute...
+{6304}{6397}''est-ce ta faute...
+{6393}{6533}''tant de question dans|un monde...
+{6529}{6667}''de bleu...
+{6692}{6912}''comment un cœur...
+{6903}{7073}''rempli d'amour...
+{7109}{7249}''peut-il pleurer...
+{7299}{7419}''quand le monde entier...
+{7416}{7531}''paraît si bien...
+{7526}{7606}''comment...
+{7603}{7768}''comment l'amour peut-il|mourir...
+{7823}{7901}''est-ce ma faute...
+{7898}{7965}''est-ce ta faute...
+{7965}{8120}''tant de questions dans|un monde...
+{8113}{8188}''de bleu...
+{8896}{9101}''quand le jour...
+{9093}{9296}''de toute sa lumière...
+{9287}{9429}''se transforme en nuit...
+{9495}{9648}''quand le monde entier|paraît...''
+{9642}{9712}Alors, vous voulez baiser|la princesse?
+{9762}{9794}Faisons le tour du monde,|mon chou.
+{9886}{9953}Ça ne t'emmènera pas très loin.
+{9996}{10056}Tu peux aller jusqu'au bout,
+{10054}{10079}n'est-ce pas, petite?
+{10166}{10201}Tôt ou tard.
+{10279}{10341}Tu veux aller jusqu'au bout?
+{10362}{10397}Tu vas me baiser?
+{10701}{10733}Faisons la fête.
+{10734}{10801}Que diable fais-tu ici?
+{10842}{10890}Tu fais partie de l'affaire?
+{10890}{10930}Non!
+{12042}{12079}C'est quoi ton nom?
+{12116}{12141}Buck.
+{12198}{12246}C'est vraiment bien, Buck.
+{12862}{12887}D'accord, Donna.
+{12926}{12949}On y va.
+{13472}{13525}Bienvenu au Canada...
+{13750}{13828}Ici, tu ne trouveras pas|des hot-dog de dinde.
+{13985}{14025}Les baiseuses...
+{14052}{14100}-Devinez...|-Quoi?
+{14122}{14182}Demain ne viendra pas.
+{14242}{14277}Tu sais pourquoi?
+{14342}{14389}Il sera en retard.
+{14596}{14646}Jacques...
+{14644}{14681}Je ne suis pas Jacques.
+{14780}{14830}Je suis le grand Disparu.
+{14956}{15008}Je suis le Baba.
+{15077}{15137}Et quel baba tu as...
+{15564}{15679}Je suis aussi vide qu'un pet.
+{16800}{16842}Avale d'un trait, Donna.
+{19998}{20111}Je t'ai vue pour la dernière|fois au Diable Borgne.
+{20150}{20210}Qu'a t-on fait d'autre,|ensemble?
+{20313}{20353}Je me souviens.
+{20976}{21076}Les jumelles fêtardes.
+{21072}{21142}Mon sandwich de lycée.
+{21139}{21202}Mettons-en de la viande.
+{21261}{21308}Elle est morte depuis un an.
+{21309}{21336}Qui?
+{21460}{21518}Oui, toute une année.
+{21637}{21672}Elle allait devenir riche...
+{21709}{21764}Elle faisait du chantage...
+{21865}{21890}C'est vrai.
+{21915}{21948}Elle m'avait appelé.
+{22004}{22094}Elle voulait que je lui décrive|vos pères.
+{22092}{22122}Quoi?
+{22124}{22171}La description de mon père?
+{22248}{22273}Dites...
+{22272}{22367}je vous attends cette semaine|à ma cabine?
+{23312}{23349}Nous voilà reparties.
+{23374}{23426}C'est comme au Diable Borgne.
+{23462}{23542}Mon Dieu, tu as raison.
+{23671}{23711}Putain...
+{23738}{23780}C'est Donna Hayward?
+{24215}{24278}Tire-la d'ici, Jacques!
+{24550}{24608}Ne porte plus mes vêtements!
+{24606}{24661}Ne porte jamais mes vêtements!
+{24658}{24695}C'est pas tes vêtements.
+{24694}{24752}Jacques, aide-moi à|l'accompagner chez elle.
+{24751}{24786}Tommy!
+{24788}{24860}Je ne peux pas porter|tes vêtements?
+{24884}{24944}Donna, pas toi!
+{26158}{26233}Comment suis-je arrivée|chez moi?
+{26266}{26326}Dans mon lit?
+{26350}{26432}La vie est pleine de mystères.
+{26496}{26544}T'es fâchée à cause|de tes fringues?
+{26596}{26691}Je ne veux pas que tu portes|mes fringues.
+{26821}{26884}Je t'aime, tu sais.
+{27088}{27125}Je t'aime aussi.
+{27260}{27317}Je ne veux pas que tu sois|comme moi.
+{27481}{27521}Pourquoi tu fais ces choses?
+{28084}{28121}Excuse-moi, chérie.
+{28182}{28242}Nous devons prendre|le petit déjeuner avec maman.
+{28240}{28278}A plus tard.
+{28415}{28447}Au revoir, Donna.
+{28446}{28481}Au revoir.
+{29301}{29383}Papa, c'est le moteur qui brûle?
+{29383}{29433}Ça sent le brûlé.
+{29915}{29947}Quelque chose brûle!
+{29948}{30000}C'est le moteur!
+{29998}{30066}Tu as volé le maïs.
+{30063}{30130}Je le gardais en conserve...
+{30127}{30167}dans le magasin!
+{30190}{30215}Vous, mademoiselle...
+{30214}{30389}Son expression,|quand on l'a ouvert!
+{30384}{30444}L'inertie!
+{30444}{30519}Comme une table en formica!
+{30518}{30623}Le fil se cassera,|Monsieur Palmer!
+{30619}{30644}Allez!
+{30643}{30710}Le fil se cassera!
+{30792}{30827}C'est lui!
+{30827}{30895}C'est ton père!
+{30892}{30942}Arrête!
+{31022}{31077}Ça voulait dire quoi,|cette histoire?
+{31228}{31258}Monsieur!
+{31256}{31313}Il faut pas user ainsi|votre moteur.
+{31314}{31359}Il faut aller doucement.
+{31357}{31432}Vous allez brûler votre moteur.
+{31429}{31479}Que, diable, s'est-il passé?
+{31477}{31537}Pourquoi personne ne fait rien?
+{31534}{31584}Un type arrive de nulle part,
+{31582}{31632}il commence à hurler|comme un fou,
+{31630}{31677}et à harceler ma fille.
+{31675}{31705}Tu vas bien, chérie?
+{31704}{31759}-Et pour toi, ça va?|-Oui.
+{32037}{32097}Tu ressembles beaucoup|à ma Laura.
+{32152}{32234}C'est quand ton prochain|voyage d'affaires mon grand?
+{32234}{32266}Bientôt.
+{32265}{32298}La prochaine fois,
+{32296}{32346}on fera la fête avec ces copines
+{32344}{32381}dont tu parlais.
+{32427}{32482}-D'accord?|-Bien sûr.
+{32480}{32525}Je peux m'en occuper.
+{32723}{32765}Qu'est-ce que tu fais?
+{32794}{32829}Qui suis-je?
+{32878}{32933}Je ne sais pas.
+{32931}{32991}C'est exact.
+{32988}{33013}Papa.
+{33044}{33074}Papa!
+{33122}{33185}Qui...était-ce?
+{33184}{33277}Il a un air...familier.
+{33274}{33301}Je le connais?
+{33299}{33357}Non chérie. Je ne pense pas.|Tu l'as déjà vu?
+{33355}{33390}Non!
+{33432}{33454}Allons chercher ta mère.
+{33456}{33536}Non. Reste ici pour un moment.
+{33577}{33602}Mon Dieu.
+{33662}{33737}Un homme qui vient de nulle part.
+{33734}{33771}Que devient le monde?
+{34349}{34374}Salut, beau gosse.
+{34373}{34398}Salut.
+{34454}{34502}-Ça ne va pas?|-Tout va bien.
+{34502}{34550}J'ai eu peur.
+{35432}{35485}Tu es sûr que ça va?
+{35482}{35524}Oui.
+{35863}{35893}Papa?
+{35923}{35960}Oui.
+{36026}{36084}La semaine dernière,|tu étais passé à la maison?
+{36198}{36226}Non.
+{36289}{36329}Laisse-nous tranquilles!
+{36331}{36388}Putain! Retournez|à votre boulot!
+{36754}{36829}Je croyais t'avoir vu.
+{36915}{36967}Tiens, je me souviens...
+{37011}{37103}j'étais à la maison Vendredi,|à bien y réfléchir.
+{37126}{37158}J'avais une forte migraine,
+{37160}{37197}Puisque j'étais aux alentours,
+{37195}{37258}je m'étais arrêté à la maison...
+{37257}{37287}pour des cachets.
+{37337}{37374}Tu étais où?
+{37372}{37410}Je ne t'avais pas vue?
+{37572}{37629}J'étais au bas de la rue.
+{38690}{38748}La même bague.
+{39083}{39126}Qui es-tu?
+{39162}{39207}Qui es-tu, vraiment?
+{40830}{40877}Je suis à vide.
+{40878}{40918}Ne t'en fais pas, ma puce.
+{40916}{41006}Toi et moi, ce soir,|on va faire le plein.
+{41004}{41029}C'est quoi ça?
+{41055}{41092}Ça devrait te suffire.
+{41180}{41207}Merci.
+{41229}{41284}Le plein?
+{41282}{41347}Peut-être notre plus grand|plein.
+{41347}{41374}Tu ne dis rien à Mike.
+{41373}{41456}C'est entre toi et moi.
+{41455}{41488}Ce soir,
+{41486}{41533}on se rencontre près de chez|toi,
+{41534}{41571}à 23 heures.
+{41618}{41676}Minuit...
+{41675}{41735}au son du bruit de la scie...
+{41975}{42012}Tu m'aimes, Laura?
+{42071}{42096}Regarde.
+{42202}{42250}C'est bien Laura.
+{42250}{42313}C'est très bien.|C'est formidable.
+{43036}{43081}Allons, arrête.
+{43113}{43171}Arrête! Putain.
+{43323}{43361}Donne-moi cette|bouteille.
+{43360}{43405}D'accord.
+{43523}{43560}J'entends des bruits de pas.
+{44128}{44176}J'ai trouvé une pomme de pin.
+{44217}{44277}La ferme! La ferme! La ferme!
+{44277}{44372}-J'ai trouvé de la poussière!|-La ferme! La ferme!
+{44478}{44503}Le voici!
+{44766}{44796}Viens.
+{44998}{45043}Qui t'envoie?
+{45042}{45067}Jacques.
+{45111}{45136}C'est bon.
+{45384}{45412}Tu aimes ça, petite?
+{45494}{45787}Quoi?
+{45775}{45800}Mon Dieu!
+{45882}{45907}Mon Dieu!
+{45906}{45974}Qu'est-ce que tu as fait?
+{46019}{46069}Je l'ai tué...mon Dieu!
+{46102}{46142}Je l'ai tué.
+{46144}{46169}Putain!
+{46393}{46420}Viens m'aider!
+{46474}{46499}Viens ici!
+{46628}{46658}Merde.
+{47070}{47110}La ferme, putain!
+{47112}{47152}C'est pas drôle, Laura.
+{47152}{47202}C'est pas drôle, putain!
+{47200}{47253}Aide-moi à l'enterrer.
+{47413}{47438}Merde.
+{47480}{47572}-Bobby, t'as tué Mike.|-Putain, c'est pas Mike.
+{47773}{47808}C'est Mike?
+{48079}{48124}Bobby, tu réalises|ce que tu as fait?
+{48225}{48290}-Tu as tué Mike.|-Tais-toi.
+{48817}{48862}-Bobby, tu as tué...Mike.|-C'est pas drôle!
+{48860}{48890}La ferme, putain!
+{48918}{48965}La ferme!
+{48966}{49023}Foutons le camp|d'ici.
+{49044}{49069}Viens.
+{49207}{49250}Merde! Ça t'amuse?
+{49249}{49306}On fout le camp d'ici!
+{49303}{49328}Regarde!
+{49370}{49443}Viens. On fout le camp d'ici!
+{49440}{49465}Viens!
+{50472}{50500}Tu étais où hier soir?
+{50499}{50571}On devait se rencontrer, non?
+{50721}{50754}Encore de la drogue, hein?
+{50923}{50966}Quand pourrai-je te voir?
+{51157}{51202}Je dois m'en aller.
+{56580}{56647}Qui es-tu?
+{56644}{56682}Qui es-tu?
+{56680}{56727}Qui es-tu?
+{56802}{56862}Qui es-tu?
+{57725}{57750}Laura, chérie?
+{57873}{57935}J'aimerais vraiment te parler.
+{57998}{58060}Laura, mon ange..
+{58218}{58243}-Laura?|-Non.
+{58812}{58837}Ma chérie?
+{58872}{58897}Mon ange?
+{58966}{59018}Tu ne te sens pas bien ce matin?
+{59114}{59176}Ne t'approche pas de moi.
+{61280}{61315}Pas ce soir.
+{61409}{61461}Donne-moi...
+{61459}{61524}de quoi tenir le coup|jusqu'à demain.
+{61553}{61598}Pourquoi?
+{61598}{61648}Pourquoi pas? Où vas-tu?
+{61766}{61801}Où vas-tu?
+{61904}{61991}Je rentre chez moi, Bobby.
+{62130}{62175}Tu veux pas de moi.
+{62213}{62266}Tu cherches un bon coup, c'est ça ?
+{62389}{62444}C'est bon.
+{62443}{62503}Bobby en a.
+{62504}{62554}Réserve personnelle.
+{62736}{62774}Bonne nuit.
+{62803}{62853}Bonne nuit mon cœur.
+{64049}{64102}Oui, je t'aime, mais ... 
+{64327}{64435}Je te retrouve dans quinze...
+{64455}{64525}Je te retrouve|dans quinze minutes.
+{64922}{65002}Mon Dieu, pourquoi j'ai dit ça ?
+{65022}{65080}Un quart d'heure?
+{67519}{67572}Qu'est-ce qui va pas chez toi?
+{67572}{67640}Ça va.
+{67638}{67728}On n'a nulle part où aller, hein James ?
+{67776}{67853}Qu'est-ce que tu veux dire ?
+{67850}{67943}Tu le sais aussi bien que moi.
+{67939}{67994}Qu'est-ce qui va pas entre nous ?
+{68028}{68101}On a tout.
+{68097}{68177}Tout et rien.
+{68577}{68654}Tu fais toujours du mal à ceux que tu aimes.
+{68654}{68714}Tu me fais pitié.
+{68711}{68771}Tu peux dire ce que tu veux.
+{68835}{68897}Je sais que tu m'aimes.
+{68943}{68993}Et je t'aime.
+{69334}{69401}Je t'aime, James.
+{69447}{69507}Laissons-nous emporter.
+{69844}{69877}Merde.
+{69906}{69934}Quoi?
+{69991}{70051}Je crois qu'il cherche à te tuer.
+{70211}{70243}C'est quoi le problème?
+{70275}{70333}Quoi?
+{70331}{70408}S'il apprend...
+{70453}{70503}Laura, qu'est-ce qui se passe?
+{70635}{70698}Bobby a tué un mec.
+{70724}{70781}De quoi tu parles?
+{70782}{70832}Bobby n'a tué personne.
+{70866}{70924}Tu veux voir?
+{70922}{70975}Voir quoi?
+{71045}{71077}Bon.
+{71166}{71238}Ouvre les yeux, James.
+{71395}{71467}Tu ne me connais pas.
+{71465}{71590}Il y a des choses ...
+{71584}{71659}Même Donna ne sait pas.
+{72078}{72156}Ta Laura est partie.
+{72537}{72599}C'est moi maintenant.
+{72974}{73039}Qu'est-ce que t'en penses, James?
+{73487}{73552}Je pense que tu vas me ramener chez moi.
+{73898}{73940}Pas ça!
+{73938}{73998}Viens!
+{73996}{74084}Non! Arrête!
+{74192}{74267}Je t'aime, James!
+{75129}{75186}Pile à l'heure ma poule.
+{76982}{77015}Non.
+{77052}{77117}Jacques! Pas ça!
+{77160}{77235}Merde, m'attache pas ce soir!
+{77234}{77269}-Arrête!|-Reviens!
+{77267}{77334}Non! Non!
+{77335}{77367}Je t'en prie!
+{77365}{77430}M'attache pas, Jacques!
+{78285}{78360}Leo, détache-moi
+{78751}{78834}Leo, s'il te plaît
+{78832}{78865}Ta gueule!
+{79297}{79377}Oh, mon Dieu!
+{80038}{80085}Bob?
+{80865}{80925}Tu vas me tuer?
+{81011}{81058}Père...
+{81107}{81157}Si je meurs maintenant...
+{81155}{81272}est-ce que tu viendras me voir?
+{81420}{81460}Ton journal.
+{81507}{81587}J'ai toujours pensé que tu savais |que c'était moi!
+{81587}{81659}Me regarde pas!
+{81732}{81855}Je n'ai jamais su que tu savais que c'était moi.
+{81852}{81907}Je te veux.
+{81905}{81963}Je suis une merde.
+{81994}{82044}Je ne suis pas prête.
+{82101}{82144}I'm sorry.
+
+{82967}{83014}Ouvrez-moi!
+{83014}{83039}Ouvrez-moi!
+{83815}{83872}Ne me pousse pas à le faire!
+{87672}{87727}Bob...
+{87725}{87967}donne-moi tout mon garmonbozia|(chagrin et douleur).

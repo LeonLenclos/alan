@@ -1,0 +1,505 @@
+{100}{187}Vous avez une sale réputation.|J'aime ça.
+{212}{243}Merci.
+{256}{350}Pour un banquier ça n'irait pas.|Dans votre métier c'est un atout.
+{369}{433}- Bonne publicité.|- Ça ne fait pas de mal.
+{440}{520}- Ça séduit des clients comme ma fille.
+{525}{560}Probable
+{589}{687}Ça m'étonne qu'elle vous emploie|encore. Elle a un nouveau mari?
+{706}{807}Non... Elle pense|que le dernier a été assassiné.
+{844}{910}- D'où lui vient cette idée?
+{920}{960}De moi je pense.
+{1360}{1446}La tête du poisson|ne vous dégoûte pas?
+{1454}{1528}C'est la tête de poulet qui me dégoûte.
+{1580}{1698}- Qu'en dit la police?|- Que c'est un accident.
+{1742}{1833}- Qui mène l'enquête?|- Le lieutenant Escobar.
+{1841}{1898}- Vous le connaissez?|- Ça oui.
+{1913}{2033}- D'où?|- On était flics à Chinatown.
+{2083}{2170}- Il connaît son métier?|- Très bien.
+{2200}{2270}- Honnête?|- Jusqu'ici, oui
+{2284}{2361}Mais il navigue dans|les mêmes eaux que nous tous.
+{2369}{2441}Vous ne pensez pas|qu'il a saboté l'enquête?
+{2455}{2507}- Non.|- Dommage!
+{2537}{2570}Dommage?
+{2588}{2715}Ça revient à dire que vous menez|ma fille en bateau, financièrement.
+{2755}{2791}Vous lui prenez combien?
+{2849}{2940}Le tarif habituel...|plus la prime de réussite.
+{2947}{2993}Vous couchez avec elle?
+{3062}{3141}Allons, pas besoin d'effort|pour vous le rappeler!
+{3213}{3316}Je peux demander à un de mes gars|de faire cette enquête pour vous.
+{3384}{3430}- M.Gitts...|- Gittes.
+{3472}{3544}C'est une femme déboussolée|qui vient de perdre son mari.
+{3552}{3590}Je dois la protéger.
+{3614}{3652}- Asseyez-vous.|- Pourquoi?
+{3723}{3829}Vous croyez savoir où vous allez,|mais vous n'en savez rien.
+{3878}{3912}Ça vous fait rire?
+{3922}{3997}C'est ce que le procureur me disait|à Chinatown.
+{4005}{4130}Et avait-il raison? Qu'est-ce que vous savez|de moi au juste? Asseyez-vous.
+{4286}{4409}Vous êtes riche et respectable.|Vous n'aimez pas qu'on parle de vous.
+{4419}{4496}Bien sûr que je suis respectable.|Je suis vieux.
+{4521}{4626}Politiciens et putains deviennent|respectables en vieillissant.
+{4654}{4731}Je vous offre double tarif,|plus 10000 dollars...
+{4740}{4819}- Si vous retrouvez la petite amie.|- Sa petite amie?
+{4829}{4884}- Elle a disparu, non?|- Oui.
+{4920}{4999}- Il serait utile de l'interroger.|- Peut-être.
+{5060}{5158}Elle est l'une des dernières personnes|à avoir vu Mulwray vivant...
+{5168}{5240}Quand avez-vous vu Mulwray|pour la dernière fois?
+{5267}{5341}L'équipe du shérif.|Tous des guignols.
+{5356}{5476}Ils donnent 5000 dollars pour sa campagne|électorale. Je leur prête mon terrain.
+{5589}{5639}Quand avez-vous vu Mulwray?
+{5664}{5724}A mon âge la mémoire se perd.
+{5753}{5864}C'était il y a cinq jours|pour une belle engueulade.
+{5893}{5989}J'ai les photos au bureau|si ça peut vous rafraîchir la mémoire.
+{6060}{6137}- Vous discutiez de quoi?|- De ma fille.
+{6177}{6270}- Mais encore?|- Retrouvez la fille.
+{6397}{6553}Hollis l'aimait bien.|Je voudrais l'aider si je peux.
+{6565}{6648}Je ne vous savais pas|si intime avec Mulwray.
+{6679}{6796}Hollis Mulwray a créé cette ville|et il a fait ma fortune.
+{6844}{6921}Nous étions plus liés|que ne l'imagine Evelyn.
+{6985}{7078}Si vous voulez m'engager,|il faut me dire de quoi vous parliez.
+{7126}{7229}Ma fille est très jalouse. Je ne|voulais pas qu'elle sache pour la fille.
+{7263}{7299}Comment vous l'avez su?
+{7312}{7405}Il me reste quelques dents.|Et quelques amis.
+{7614}{7683}Ma secrétaire établira le contrat.
+{7765}{7846}Vous avez peur pour la fille|ou de ce qu'Evelyn peut faire?
+{7859}{7902}Trouvez la fille!
+{7935}{7974}Je m'en occuperai...
+{7985}{8059}Mais d'abord|j'ai des orangeraies à visiter.
+{8150}{8184}On se reverra.
+{8325}{8438}Je cherche le cadastre|pour la vallée du Nord-Ouest.
+{8448}{8546}En partie à la commune de Ventura.|Nous ne l'archivons pas.
+{8589}{8654}Je me contenterai|de la commune de Los Angeles.
+{8681}{8731}Rangée 23, section C.
+{8839}{8867}Sale fouine.
+{10279}{10358}Ça veut dire quoi|ces noms collés par-dessus?
+{10375}{10447}Chaque vente est notée|dans la semaine.
+{10461}{10523}- Ce sont les nouveaux propriétaires?|- C'est ça.
+{10560}{10639}La vallée a changé de mains|en quelques mois.
+{10652}{10686}C'est bien ça.
+{10740}{10796}Je peux emprunter le registre?
+{10824}{10915}Les archives ne sont pas|une bibliothèque de prêt.
+{10927}{10996}- Vous avez une règle?|- Une règle?
+{11044}{11142}Pour suivre les lignes.|Sans lunettes, j'ai du mal à lire.
+{12675}{12721}DÉFENSE D'ENTRER
+{14795}{14831}Ça suffit!
+{14850}{14886}Regarde s'il est armé.
+{15227}{15282}Je n'ai pas dit|de lui faire les poches.
+{15390}{15424}Pas d'arme.
+{15434}{15506}Vous êtes du Service des Eaux|ou promoteur immobilier?
+{15565}{15603}- Bas les pattes!|- Réponds-lui!
+{15610}{15672}Si tu recommences,|il te faudra une deuxième béquille!
+{15680}{15781}- Attaque-toi à quelqu'un de ta taille.|- Ça suffit! Laissez-le parler.
+{15899}{15971}Je m'appelle Gittes.|Je suis détective privé.
+{15988}{16091}- Je ne travaille ni pour l'un ni pour l'autre.|- Qu'est-ce que vous foutez ici?
+{16129}{16254}On m'a engagé pour voir...|si le Service des Eaux irrigue vos terres.
+{16265}{16373}Irriguer mes terres!|Ils ont fait saboter mes réservoirs!
+{16381}{16458}On a empoisonné trois puits!|Drôle de façon d'irriguer mes terres!
+{16474}{16515}Pour qui vous travaillez?
+{16658}{16689}Pour Mme Mulwray.
+{16698}{16765}Mulwray?|C'est le fumier qui sabote.
+{16773}{16850}Mulwray est mort.|Ne dis pas de conneries!
+{17780}{17867}Tu étais mal parti.|On a appelé ta patronne.
+{18009}{18040}Merci d'être venue.
+{18148}{18217}- Le barrage est un coup monté.|- Quel barrage?
+{18227}{18309}Celui que votre mari refusait.|Ils convaincront LA de le construire.
+{18316}{18384}Et l'eau ne sera pas pour LA,|mais pour la vallée.
+{18416}{18524}Il irriguera toutes ces terres.|Je suis passé au cadastre.
+{18688}{18815}En trois mois, Robert Knox|a acheté 2300 hectares, Emma Dill 4800,
+{18825}{18943}Clarence Speer 2000|et Jasper Lamar Crabb 10000.
+{18954}{19000}- Jasper Lamar Crabb!|- Vous le connaissez?
+{19006}{19047}Je m'en souviendrais.
+{19094}{19166}Ils découragent les paysans|et ils rachètent la terre pour rien.
+{19177}{19280}Vous savez ce que vaudrait|cette terre si elle était bien irriguée?
+{19290}{19357}30 millions de plus|que ce qu'ils ont payé.
+{19405}{19491}- Hollis le savait?|- C'est pour ça qu'on l'a tué.
+{19535}{19573}Jasper Lamar Crabb...
+{19708}{19739}J'y suis!
+{19787}{19878}Un service à la mémoire de|Jasper Lamar Crabb à Mar Vista Inn!
+{19890}{20010}- Il est mort il y a quinze jours.|- Qu'est-ce qu'il y a d'anormal?
+{20022}{20111}Il est mort il y a quinze jours|et il a acheté la terre il y a une semaine.
+{20122}{20162}Voilà ce qui est anormal!
+{21195}{21253}Bonjour.|Je peux vous aider?
+{21287}{21388}Oui, je l'espère.|C'est pour papa...
+{21407}{21477}Je n'en peux plus avec lui,|n'est-ce pas chérie...
+{21507}{21560}Ça n'a rien à voir avec lui.|C'est ma faute.
+{21568}{21654}Papa est un ange.|Mais lui et mon ma...
+{21709}{21819}Je veux ce qu'il y a de mieux pour lui.|Peu importe le prix.
+{21830}{21876}Nous devrions le rencontrer.
+{21908}{21939}Un détail encore...
+{21972}{22039}Acceptez-vous les gens|de confession juive?
+{22067}{22105}Je suis désolé... non.
+{22113}{22195}Ne soyez pas désolé!|Vous nous rassurez.
+{22232}{22326}Je peux consulter la liste de vos hôtes|pour m'en convaincre?
+{22340}{22424}En aucun cas. Nos clients|tiennent à une discrétion absolue.
+{22438}{22479}Vous comprenez, j'en suis sûr...
+{22495}{22562}C'est exactement la réponse|que je souhaitais!
+{22598}{22646}Il est trop tard pour visiter?
+{22658}{22739}- Suivez-moi...|- On peut visiter seuls?
+{22758}{22842}Si vous vous cantonnez|au bâtiment principal. Il est tard.
+{22850}{22882}Oui, bien sûr.
+{22909}{22949}Venez ma chère.
+{23598}{23649}GROUPES D'ACTIVITÉS
+{23821}{23893}Ils sont tous là. Chaque nom...
+{24041}{24120}Voilà les propriétaires|d'un empire de 20000 hectares.
+{24129}{24174}C'est incroyable.
+{24268}{24325}Ils ne le savent peut-être pas mais c'est vrai.
+{24434}{24477}Est-ce que Emma Dill est là?
+{24539}{24580}- Vous êtes Emma?|- Oui.
+{24586}{24666}- Je vous cherchais partout!|- Pourquoi?
+{24677}{24768}- Vous êtes très riche.|- Oh non!
+{24791}{24882}- Vous avez beaucoup de terres.|- Plus maintenant.
+{24892}{25055}Mon défunt mari possédait des terres,|en bord de mer, mais on a tout perdu.
+{25074}{25134}- C'est très beau.|- Merci.
+{25155}{25251}- Où vous avez eu ça?|- À l'Albacore Club.
+{25258}{25381}- Abacore?|- L'albacore. C'est un poisson
+{25397}{25498}Mon petit-fils est un membre.|Le Club nous aide beaucoup.
+{25509}{25588}- Comment ça?|- Il nous donne des choses...
+{25599}{25659}Pas seulement des vieux|bouts de tissu mais...
+{25696}{25768}Nous sommes une œuvre|de charité officieuse du Club.
+{25804}{25871}Suivez-moi.|Quelqu'un veut vous parler.
+{26217}{26267}J'ai un gars à te présenter.
+{26292}{26368}- Laissons la dame en dehors de ça.|- Pourquoi pas.
+{26377}{26420}Je préfèrerais l'accompagner|à la voiture.
+{26427}{26499}- Elle peut y aller toute seule.|- Je reste.
+{26509}{26538}Allez dans la voiture!
+{28483}{28574}- La bonne est sortie?|- Pourquoi?
+{28589}{28646}Comment ça pourquoi?|La maison est vide.
+{28654}{28721}J'ai donné congé|à tout le monde.
+{28733}{28776}Du calme,|c'est une question innocente.
+{28788}{28853}Aucune question venant|de vous n'est innocente
+{28866}{28897}Peut-être...
+{29063}{29154}Vous m'avez sorti de la m...|enfin, du pétrin.
+{29246}{29282}Dites-moi une chose...
+{29324}{29434}- Ça vous arrive souvent?|- Quoi donc?
+{29473}{29545}J'ai passé un après-midi|et une soirée avec vous.
+{29553}{29675}À ce rythme-là, survivre 24 heures|ça doit être un exploit pour vous.
+{29731}{29791}Ça ne m'était pas arrivé|depuis longtemps.
+{29801}{29830}Depuis quand?
+{29864}{29951}- Pourquoi?|- Question innocente...
+{30071}{30151}- Depuis Chinatown.|- Qu'est-ce que vous y faisiez?
+{30206}{30268}- Je travaillais pour le procureur.|- Mais encore?
+{30294}{30406}- En faisant le moins possible...|- C'est ce qu'attendait le procureur?
+{30441}{30561}- À Chinatown, oui.|- Pourquoi en êtes-vous parti?
+{30665}{30787}Vous avez de l'eau oxygénée|ou quelque chose du genre?
+{30797}{30864}Bien sûr. Venez avec moi.
+{31400}{31517}C'est sérieux!|Je ne pensais pas que...
+{31762}{31801}Ça fait mal?
+{31885}{31911}Ça doit faire mal.
+{31977}{32047}- Qu'est-ce qu'il y a?|- Votre œil...
+{32153}{32182}Eh bien?
+{32200}{32267}Il y a une chose noire|dans le vert de votre œil.
+{32392}{32448}Un défaut de l'iris.
+{32483}{32603}- Un défaut?|- Une sorte de signe particulier.
+{33467}{33582}- Tu portais l'uniforme?|- Des fois.
+{33638}{33689}Tu dois être mignon en bleu.
+{33741}{33784}Laisse-moi tranquille...
+{33808}{33916}Je te connais.|Je voudrais mieux te connaître...
+{33950}{33979}Plus tard...
+{34036}{34096}Tu n'aimes pas parler du passé.
+{34179}{34208}Je suis fatigué.
+{34233}{34300}Pourquoi tu ne veux pas parler|de ton passé?
+{34319}{34465}Personne n'en garde un bon souvenir...|de Chinatown... personne.
+{34498}{34544}Moi j'ai eu la poisse.
+{34659}{34815}On ne sait pas toujours où on en est.|Avec toi par exemple...
+{35129}{35173}Comment ça la poisse?
+{35289}{35445}J'essayais de protéger quelqu'un.|Ça a mal fini pour elle.
+{35647}{35707}Ça concernait une femme...
+{35751}{35780}Bien sûr.
+{35824}{35853}Morte?
+{36370}{36425}Ne faites rien! Attendez-moi.
+{36569}{36622}- Je dois sortir.|- Où?
+{36712}{36794}- Où vas-tu?|- Je t'en prie. Ne te fâche pas.
+{36807}{36867}Il ne s'agit pas de toi...|ni de tout ceci.
+{36875}{36932}- Où vas-tu?|- Je t'en prie...
+{37007}{37057}Fais-moi un peu confiance.
+{37553}{37706}J'ai une chose à te dire.|Le Club dont parlait la vieille dame...
+{37768}{37801}L'Albacore Club.
+{37832}{37887}- Mon père...|- Je sais.
+{37898}{37965}...il en est le propriétaire...|Tu es au courant?
+{37982}{38013}Je l'ai vu.
+{38103}{38192}Tu as vu... mon père?
+{38288}{38348}- Quand?|- Ce matin.
+{38423}{38524}- Tu ne m'as rien dit.|- Je n'ai pas eu le temps.
+{38600}{38629}Qu'a-t-il dit?
+{38811}{38842}Que tu es jalouse.
+{38896}{38992}- Il craint tes réactions.|- Envers qui?
+{39028}{39079}La petite amie de Mulwray.
+{39141}{39177}Il veut que je la retrouve.
+{39276}{39316}Ecoute-moi bien...
+{39364}{39519}Mon père est un homme dangereux.|Plus que tu imagines. Et plus fou.
+{39554}{39662}- C'est lui qui tirerait les ficelles?|- C'est possible.
+{39831}{39920}- Même pour la mort de ton mari?|- C'est possible.
+{39943}{40029}Ne pose plus de questions.|Attends-moi ici.
+{40074}{40102}J'ai besoin de toi ici.
+{45389}{45421}Les clés...
+{45509}{45578}Ou conduisez-nous|au poste de police.
+{45681}{45791}- Vous séquestrez l'amie de votre mari.|- Je ne la séquestre pas.
+{45804}{45891}- Vous la détenez contre sa volonté.|- C'est faux.
+{45929}{45992}- Allons lui parler alors.|- Non!
+{46074}{46180}- Elle est trop bouleversée.|- Par quoi?
+{46209}{46326}Par la mort de Hollis.|J'ai essayé de la lui cacher,
+{46337}{46390}le temps d'organiser notre départ.
+{46412}{46455}Elle a su?
+{46529}{46637}- On ne dirait pas.|- On dirait quoi?
+{46659}{46722}Elle en sait plus|que vous le voulez.
+{46774}{46863}- Vous êtes fou!|- Je ne suis pas la police.
+{46881}{46953}Je ne vais pas vous juger.|Je ne vous veux aucun mal.
+{47064}{47172}- Vous n'irez pas à la police?|- J'irai si vous ne me dites rien.
+{47645}{47683}C'est ma sœur.
+{47898}{48006}Soit, c'est votre sœur.|Mais pourquoi ces mystères?
+{48105}{48184}Parce qu'elle sortait|avec votre mari?
+{48312}{48370}Je n'aurais jamais|fait de mal à Hollis.
+{48395}{48484}Il était l'homme|le plus gentil du monde.
+{48577}{48637}Je ne lui ai pas simplifié l'existence.
+{48735}{48786}Je voulais le rendre heureux.
+{49234}{49313}Je rapporterai la voiture|de votre mari demain matin.
+{49346}{49466}- Tu ne rentres pas avec moi?|- Je ne dirai rien à personne.
+{49524}{49572}Il ne s'agit pas de ça...
+{49742}{49835}Je suis fatigué Mme Mulwray.|Bonsoir.
+{51533}{51600}- Ida Sessions veut te voir.|- Qui?
+{51614}{51724}- Ida... tu te rappelles?|- Oui.
+{51733}{51778}Bien sûr que tu te rappelles...
+{51849}{51890}Tu veux que je te dise?
+{51923}{52024}Si elle veut me voir|qu'elle m'appelle au bureau.
+{52672}{52826}848 bis East Kensington. Elle m'a|supplié de t'appeler. Elle t'attend.
+{57347}{57398}Tu as trouvé quelque chose?
+{57513}{57597}- Qu'est-ce que tu fous ici?|- Tu m'as appelé, non?
+{57653}{57742}- D'où tu la connais?|- Je ne la connais pas.
+{57816}{57847}Viens voir.
+{58107}{58222}- C'est ton numéro?|- Essaie pour voir si j'y suis.
+{58232}{58302}Loach t'a appelé pour vérifier.
+{58310}{58398}Tu t'es pris le nez dans une fenêtre?
+{58464}{58582}Non, c'est ta femme qui dans l'excitation|a croisé les jambes trop vite.
+{59140}{59178}Tu les reconnais?
+{59211}{59283}- Je les ai prises et alors?|- Où les a-t-elle eues?
+{59292}{59366}Je peux essayer de deviner,|mais je ne sais pas.
+{59388}{59439}Tu me prends pour un con?
+{59446}{59547}Je ne me suis pas posé|la question, mais je peux y réfléchir.
+{59586}{59665}- Je veux le reste des photos.|- Quelles photos?
+{59698}{59770}C'est cette garce qui t'a engagé,|pas Evelyn Mulwray.
+{59845}{59919}On voulait faire chanter Mulwray,|elle t'a embauché.
+{59928}{60036}- Et tu as découvert l'assassinat.|- Je croyais que c'était un accident.
+{60046}{60125}Tu nous prends|pour des trous du cul?
+{60147}{60204}C'était de l'eau de mer|dans ses poumons.
+{60251}{60361}Tu le suivais pas à pas. Tu as vu|le meurtre. T'as même pris des photos.
+{60380}{60462}C'est Evelyn Mulwray.|Et elle te paye.
+{60488}{60553}- Tu m'accuses de chantage?|- Absolument.
+{60560}{60641}Tu es encore plus con|que je pensais.
+{60651}{60754}Je ne ferais pas chanter|mon pire ennemi. J'ai des limites.
+{60770}{60816}Je veux les photos.
+{60823}{60902}Tu es complice d'un crime|et maît re-chanteur.
+{60909}{60993}Elle aurait noyé son mari dans l'océan|et transporté le corps
+{61006}{61070}jusqu'à un réservoir|pour simuler un accident?
+{61107}{61208}Il ne fallait pas qu'on trouve|le cadavre de Mulwray dans l'océan.
+{61254}{61350}Il a découvert qu'on y|déversait de l'eau douce.
+{61399}{61481}- Qu'est-ce que tu chantes?|- Viens voir.
+{61524}{61584}C'est ton enquête oui ou non?
+{62033}{62072}- C'est trop tard.|- Pour quoi?
+{62082}{62130}On ne vide l'eau qu'à la nuit.
+{62184}{62247}- Tu as eu quelqu'un?|- Yelburton...
+{62259}{62300}Je sais qui c'est.|Vas-y!
+{62307}{62359}- Il dit que...|- Je sais ce qu'il dit...
+{62366}{62433}La ferme.|Continue!
+{62446}{62489}Il dit que l'irrigation de la vallée
+{62496}{62573}entraîne des petites déperditions.|Il dit que Gittes le sait
+{62586}{62673}mais il lance|des accusations absurdes.
+{62698}{62768}On arrête la gonzesse?|Pourquoi on hésite?
+{62788}{62901}Parce qu'il vient d'être promu lieutenant|et qu'il voudrait garder ses galons.
+{62989}{63042}Que ta cliente soit chez moi|dans deux heures.
+{63049}{63169}Je te laisse libre, mais je pourrais|t'arrêter pour rétention de preuves.
+{64342}{64383}Où est Mme Mulwray?
+{64425}{64473}Ce sont ses sacs?
+{64532}{64635}Elle part en voyage?|Qu'est-ce qui se passe ici?
+{64663}{64742}- Elle part en vacances?|- Madame pas là.
+{64754}{64838}Pas là?|Je vais jeter un coup d'œil.
+{65022}{65063}Mauvais pour le verdure?
+{65140}{65192}Eau salée, très mauvais.
+{65570}{65642}- De l'eau salée?|- Très mauvais.
+{65901}{65994}Qu'est-ce que c'est?|Juste là.
+{67518}{67566}- Vous attendre.|- Toi, attends.
+{67729}{67765}J'essayais de vous joindre.
+{67790}{67849}- Vous avez dormi?|- Bien sûr.
+{67870}{67921}Vous voulez manger|quelque chose?
+{67930}{67999}- Où est la petite?|- En haut, pourquoi?
+{68010}{68045}Je veux la voir.
+{68056}{68135}Elle prend son bain.|Pourquoi vous voulez la voir?
+{68155}{68282}- Vous partez?|- Oui... le train est à 17 heures 30.
+{68730}{68834}- Qu'est-ce qu'il y a? Mon train...|- Vous le raterez.
+{68944}{69009}Retrouve-moi au 1972 Canyon Drive.
+{69049}{69092}Ne perds pas de temps.
+{69124}{69160}Pourquoi vous faites ça?
+{69176}{69246}- Vous avez un bon avocat?|- Non.
+{69291}{69420}Je vous en recommanderai un.|Cher mais dans vos prix.
+{69458}{69537}Expliquez-vous enfin!
+{69823}{69895}Je les ai trouvées dans votre jardin,|dans le bassin.
+{69922}{69994}Celles de votre mari, non?|Non?
+{70053}{70084}Oui, probablement.
+{70092}{70164}Oui, sûrement!|C'est là qu'on l'a noyé.
+{70203}{70263}Ne faites pas l'étonnée!
+{70291}{70365}Ses poumons étaient|pleins d'eau salée.
+{70374}{70453}Je veux savoir comment|c'est arrivé et pourquoi.
+{70463}{70547}Répondez avant qu'Escobar arrive.|Je tiens à ma licence de détective.
+{70563}{70654}Je ne sais pas de quoi vous parlez!|C'est de la folie... du délire...
+{70693}{70724}Je vais vous aider
+{70739}{70825}Vous vous battiez,|il est tombé en se heurtant le crâne.
+{70835}{70866}La petite a tout vu.
+{70878}{70971}Vous n'osez pas la tuer mais|vous avez les moyens de la cloîtrer.
+{71049}{71131}Qui c'est?|Vous n'avez pas de sœur.
+{71162}{71237}Je vais...|Je vais tout vous expliquer.
+{71304}{71345}Son nom?
+{71392}{71457}- Katherine.|- Katherine comment?
+{71519}{71550}C'est ma fille.
+{71588}{71624}La vérité!
+{71649}{71680}C'est ma sœur.
+{71727}{71758}C'est ma fille.
+{71789}{71885}- Ma sœur et ma fille.|- La vérité!
+{71989}{72058}C'est ma sœur et ma fille!
+{72157}{72262}Khan, remontez.|Ne la laissez pas descendre!
+{72450}{72491}Mon père et moi...
+{72600}{72687}Vous comprenez?|Ou ça vous dépasse?
+{72925}{72959}Il vous a violée?
+{73364}{73388}Et ensuite?
+{73413}{73485}- Je me suis enfuie.|- Au Mexique.
+{73642}{73726}Hollis m'y a retrouvée.|Il s'est occupé de moi.
+{73797}{73828}Je ne pouvais pas la voir.
+{73870}{73904}J'avais 15 ans.
+{73992}{74081}J'aurais voulu la voir...|mais je ne pouvais pas.
+{74262}{74365}Je veux qu'elle reste avec moi.|Je veux prendre soin d'elle.
+{74389}{74485}- Vous l'emmenez où?|- Au Mexique.
+{74519}{74593}Escobar fera surveiller|tous les trains.
+{74772}{74825}- Un avion peut-être...|- Pire encore.
+{74837}{74892}Partez! Laissez tout ça!
+{74919}{75010}Où habite Khan?|Demandez-lui son adresse exacte.
+{75151}{75228}Elles ne sont pas... à Hollis.
+{75242}{75328}- Comment vous le savez?|- Ce sont des doubles foyers.
+{76093}{76206}- Katherine... Dis bonjour à M.Gittes.|- Bonjour.
+{76400}{76469}1712 Alameda.|Vous voyez où c'est?
+{76554}{76585}Oui.
+{77132}{77192}- Sophie, passez-moi Walsh.|- Oui M.Gittes.
+{77270}{77347}Escobar va essayer de me boucler|dans cinq minutes.
+{77391}{77427}Ne t'énerve pas.
+{77447}{77526}Reste au bureau. Si je n'ai|pas rappelé dans deux heures,
+{77535}{77602}viens avec Duffy au 1712 Alameda.
+{77657}{77690}Mais c'est Chinatown!
+{77703}{77746}Fais ce que je te dis.
+{78562}{78656}On est tous les deux trop tard.|Elle a filé.
+{78780}{78828}Et tu ne sais pas où elle est.
+{78862}{78920}- J'ai ma petite idée.|- Où?
+{78935}{78992}Chez sa bonne.|Elle a dû sentir le vent.
+{79004}{79050}Où habite sa bonne?
+{79071}{79110}Je vais te l'écrire...
+{79159}{79229}- Tu vas nous y mener.|- Pourquoi?
+{79253}{79352}Si elle n'y est pas,|je te garde jusqu'à ce qu'elle revienne.
+{79401}{79451}Je fais ce que je peux.
+{79497}{79545}Tu m'expliqueras ça en route.
+{79884}{79956}- Allons cueillir la petite dame.|- Rends-moi un service.
+{79987}{80044}Laisse-moi aller|la chercher seul.
+{80056}{80123}Elle n'est pas armée,|ce n'est pas un problème.
+{80141}{80185}Une minute seuls...
+{80190}{80255}C'est beaucoup pour elle.|Et pour moi.
+{80382}{80485}- Tu ne changes pas!|- Je suppose que non.
+{80668}{80781}- Trois minutes. Pas plus.|- Merci Lou.
+{81337}{81412}- Pour une surprise M.Gittes...|- Appelle-moi Jake.
+{81428}{81469}Vous mangez avec nous?
+{81509}{81540}Un verre de vin?
+{81552}{81604}- C'est le gars qui...|- Je sais.
+{81670}{81742}Juste un verre d'eau.|Viens à la cuisine.
+{81880}{81923}- Où est ta bagnole?|- Au garage.
+{81930}{81970}- C'est loin?|- Juste là.
+{81977}{82040}- Tu peux m'emmener?|- Après manger.
+{82048}{82139}- C'est urgent.|- Je préviens bobonne...
+{82147}{82186}Tu lui diras plus tard.
+{82957}{83021}Conduis doucement.
+{83034}{83128}- Qu'est-ce que ça veut dire?|- Je t'expliquerai.
+{83169}{83202}Combien tu me dois?
+{83251}{83361}On part pêcher demain.|Vous avez été chic. Mais mon cousin...
+{83379}{83487}Veux-tu me rembourser en emmenant|deux personnes à Ensenada?
+{83501}{83564}- Départ ce soir.|- Je sais pas.
+{83589}{83688}Je t'obtiendrai peut-être 75 dollars.
+{83711}{83759}Ou même cent...
+{83784}{83851}- Plus ma dette?|- On oublie ça.
+{83891}{83966}1712 Alameda. À Chinatown.|Si je n'y suis pas à 8 heures 30,
+{83976}{84029}emmène-les à ton bateau.
+{84357}{84482}- Y a pas de pétard?|- Je ne suis pas un débutant.
+{85167}{85244}Vous avez votre chéquier|M.Cross? J'ai la petite.
+{85292}{85333}Où est-elle?
+{85340}{85438}- Vous vous rappelez le chiffre...|- Bien sûr. Où êtes-vous?
+{85447}{85507}Chez votre fille.|Vous pouvez venir quand?
+{85531}{85562}Dans une heure.
+{86135}{86164}Ah, vous voilà!
+{86200}{86280}Vous tenez bien le coup.
+{86308}{86353}- Où est la petite?|- Je l'ai.
+{86362}{86410}- Comment elle va?|- Elle va bien.
+{86454}{86521}- Où est-elle?|- Avec sa mère.
+{86570}{86628}J'ai quelque chose|à vous montrer.
+{86676}{86746}Des nécrologies.|Vous voyez assez clair?
+{86756}{86808}Je pense que oui.
+{87044}{87138}- Ça veut dire quoi?|- Que vous avez tué Hollis Mulwray.
+{87166}{87276}Ici même... dans ce bassin.|Vous l'avez noyé.
+{87330}{87363}En perdant ceci.
+{87421}{87515}Il avait de l'eau salée|dans les poumons.
+{87608}{87711}Les marais salants le fascinaient.
+{87734}{87818}- Vous savez ce qu'il disait?|- Je donne ma langue au chat.
+{87827}{87870}"C'est là que naît la vie,
+{87879}{87932}"Dans les bourbiers, les marécages..."
+{87961}{88067}Il avait tout de suite compris|qu'il fallait gorger d'eau tout ce sable.
+{88084}{88209}L'eau coule jusqu'à la roche et y reste|au lieu de s'évaporer dans des bassins.
+{88229}{88313}On en perd 20%, au lieu de 70%.|Mulwray a créé Los Angeles.
+{88325}{88395}- Vous voulez faire ça dans la vallée?|- Je le fais déjà!
+{88410}{88532}Huit millions seront votés mardi|pour le bassin et l'aqueduc. C'est fait!
+{88543}{88658}Les gens seront furieux|de payer une eau qui ira ailleurs.
+{88667}{88708}Le nécessaire est fait.
+{88760}{88868}Ou l'eau vient à Los Angeles|ou Los Angeles tombe à l'eau.
+{88877}{88980}- Comment vous vous y prendrez?|- Los Angeles intègrera la vallée.
+{89048}{89079}Vous possédez combien?
+{89085}{89133}Aucune idée.|Combien voulez-vous?
+{89141}{89220}- Vous avez plus de 10 millions?|- Oh oui.
+{89228}{89256}Pourquoi vous faites ça?
+{89270}{89349}Mangerez-vous mieux?|Qu'est-ce que vous vous paierez de plus?
+{89357}{89429}L'avenir M.Gittes, l'avenir.
+{89461}{89559}Où est la petite?|Je veux l'unique fille qui me reste.
+{89572}{89640}Evelyn est perdue pour moi|depuis longtemps.
+{89648}{89766}- Est-ce sa faute?|- Ce n'est pas la mienne.
+{89792}{89872}La plupart des gens|ne le sauront jamais.
+{89889}{89989}Quand les conditions sont réunies,|n'importe qui peut faire n'importe quoi.
+{90043}{90115}Claude, prends-lui les lunettes.
+{90296}{90433}Ça ne vaut pas la peine.|Vraiment pas la peine.
+{91953}{92022}Mulvihill, vous vous souvenez,|les gars?
+{92032}{92097}Mes associés, M.Cross.|M.Walsh et M...
+{92147}{92180}Je t'arrête.
+{92243}{92271}Bonne nouvelle!
+{92277}{92359}Dissimulation de preuves,|extorsion, la panoplie complète!
+{92367}{92417}Je n'ai rien extorqué!
+{92426}{92529}C'est Noah Cross, le père d'Evelyn.|C'est lui ton coupable.
+{92538}{92602}Je t'explique tout,|donne-moi cinq minutes.
+{92614}{92705}Il est riche.|Il croit qu'il peut tout se permettre.
+{92725}{92783}Je vais t'attacher à la voiture!
+{92807}{92910}Je suis riche, je suis Noah Cross.|Evelyn Mulwray est ma fille.
+{92920}{93048}C'est un dingue! Il a tué Mulwray|à cause de l'eau! Écoute-moi!
+{93070}{93111}Attache-le au volant.
+{93137}{93197}Lou, tu ne sais pas|ce qui se passe ici.
+{93298}{93366}Je suis ton grand-père.
+{93614}{93664}Ne la touche pas. Laisse-la!
+{93671}{93788}Evelyn, allons. Sois raisonnable.|Viens...
+{93798}{93856}Laisse-la!
+{93904}{93971}Combien de temps|il me reste à vivre?
+{93979}{94019}Elle aussi est à moi.
+{94026}{94077}Elle ne le saura jamais!
+{94166}{94217}Tu es une détraquée!|Tu ne peux pas assurer...
+{94241}{94301}Laissez faire la police!
+{94312}{94350}La police lui appartient!
+{94371}{94433}- Laisse-la.|- Il faudra me tuer.
+{94519}{94562}Katherine, ferme la porte.
+{95630}{95671}Appelez une ambulance!
+{95703}{95748}Relâche-le.|Relâche-les tous.
+{96448}{96482}Le moins possible...
+{96491}{96520}Quoi?
+{96590}{96621}Qu'est-ce que tu as dit?
+{96737}{96790}Vous voulez lui rendre service?
+{96846}{96880}Ramenez-le chez lui.
+{97013}{97061}Qu'il foute le camp!
+{97138}{97231}Rentre chez toi Jake.|Je te rends service.
+{97393}{97451}Laisse tomber, c'est Chinatown.
+{97834}{97899}Dégagez!|Sur le trottoir!
+{97951}{97992}Sur le trottoir!
+{98045}{98074}Dégagez la rue!
+

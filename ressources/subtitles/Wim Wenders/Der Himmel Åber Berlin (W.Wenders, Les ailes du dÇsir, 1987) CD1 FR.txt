@@ -1,0 +1,586 @@
+{550}{608}Lorsque l'enfant était enfant,
+{633}{683}il marchait les bras ballants,
+{690}{810}voulait que le ruisseau soit|rivière et la rivière fleuve,
+{818}{888}que cette flaque soit la mer.
+{915}{955}Lorsque l'enfant était enfant,
+{963}{1018}il ne savait pas|qu'il était enfant,
+{1025}{1148}tout pour lui avait une âme,|et toutes les âmes étaient une.
+{1160}{1208}Lorsque l'enfant était enfant,
+{1220}{1273}il n'avait d'opinion sur rien,
+{1280}{1318}il n'avait pas d'habitudes,
+{1325}{1413}il s'asseyait en tailleur,|démarrait en courant,
+{1420}{1478}avait une mèche rebelle
+{1485}{1568}et ne faisait pas de mines|quand on le photographiait.
+{3158}{3288}LES AILES DU DESlR
+{4440}{4468}Regarde !
+{4798}{4915}La joie de lever la tête|vers la lumière, au grand air,
+{4935}{4980}la joie du soleil
+{4988}{5078}inondant les couleurs|des yeux des gens...
+{5150}{5173}Enfin folle, enfin
+{5180}{5253}plus seule !|Enfin folle, enfin sauvée !
+{5273}{5288}Enfin folle,
+{5295}{5325}enfin tranquille !
+{5978}{6048}Il y a une petite maison avec
+{6058}{6100}deux étages et une terrasse...
+{6143}{6198}On va s'y baigner|tous les jours...
+{6220}{6283}Et l'homme qui habite là|s'appelle...
+{6345}{6423}Incroyable comme|j'en sais peu sur ce rôle.
+{6430}{6498}Peut-être qu'on trouvera|pendant le tournage.
+{6505}{6575}Un bon costume et la bataille|est à moitié gagnée.
+{6583}{6658}Berlin... Emil Jannings...
+{6680}{6733}Kennedy... Von Stauffenberg...
+{6790}{6823}Quel joli dessin !
+{6830}{6853}C'était à Berlin ?
+{6878}{6928}Qu'est-ce que ça change ?|C'est arrivé.
+{6935}{7003}Si grand-mère était là|elle dirait ''Spazier''...
+{7055}{7135}Tokyo, Kyoto, Paris, Londres,
+{7145}{7170}Trieste,
+{7190}{7213}Berlin...
+{9055}{9128}Il n'y a rien de bien|à la télé.
+{9203}{9293}Vous butez sur vos couleurs|et vous n'êtes jamais ponctuels.
+{9613}{9678}La même odeur.|Mais plus poussiéreux.
+{9695}{9733}Elle collectionnait tout.
+{9800}{9825}Les tickets de métro.
+{9833}{9888}Elle ne jetait jamais rien.
+{9950}{10013}Mère. Ma mère.
+{10030}{10060}Elle ne l'a jamais été.
+{10068}{10143}Mon père... était mon père.
+{10155}{10183}Elle est morte.
+{10195}{10253}Pas de larmes, pas de douleur.
+{10260}{10293}Plus tard, peut-être.
+{11015}{11080}Elle ne t'aime pas,|elle ne t'a jamais aimé.
+{11088}{11128}Et toi aussi|tu fais seulement semblant.
+{11135}{11188}Sois content qu'ils t'aient oublié.
+{11195}{11233}Tu es enfin libre.
+{11405}{11473}Mon Dieu,|que va devenir ce garçon.
+{11498}{11553}Il ne pense qu'à la musique.
+{11670}{11710}Qu'est-ce qu'il veut encore ?
+{11738}{11793}Je lui ai déjà acheté|une guitare.
+{11810}{11860}Maintenant une batterie ?
+{11940}{12000}Je commence à en avoir marre.
+{12018}{12085}Sera-t-il jamais raisonnable ?
+{12310}{12343}Ça commence à bien faire.
+{12375}{12430}Je ne peux plus rien pour lui.
+{12505}{12568}Il n'a rien appris|que le rock'n'roll.
+{12578}{12668}Peut-être bien|qu'il se trouvera un jour.
+{12953}{13000}Lorsque l'enfant était enfant,
+{13028}{13093}ça a été le temps|des questions comme :
+{13110}{13195}Pourquoi suis-je moi|et pourquoi pas toi?
+{13235}{13273}Pourquoi suis-je ici
+{13280}{13333}et pourquoi pas là ?
+{13343}{13453}Quand commence le temps|et où finit l'espace ?
+{13485}{13518}La vie sous le soleil
+{13525}{13570}n'est-elle pas qu'un rêve ?
+{13635}{13715}Ce que je vois, entends, sens,|n'est-ce pas simplement
+{13723}{13793}l'apparence d'un monde|devant le monde ?
+{13813}{13863}Le mal existe-t-il vraiment
+{13870}{13938}et des gens qui sont|vraiment les mauvais ?
+{13980}{14083}Comment ça se fait que moi,|qui suis moi,
+{14090}{14173}avant de devenir,|je n'étais pas,
+{14185}{14223}et qu'un jour moi,
+{14230}{14263}qui suis moi,
+{14270}{14345}je ne serai plus|ce moi que je suis ?
+{14485}{14528}L'enfant a besoin d'oxygène.
+{14535}{14568}A fond, dans le ventre.
+{14575}{14633}Je ne peux pas l'aider.|Souffrir à sa place.
+{14640}{14715}Ça fait mal ! Ça va passer.
+{14723}{14758}Ça y est presque.
+{14798}{14870}Petite crevette, je suis|si heureuse de te voir.
+{14878}{14920}De quoi tu auras l'air ?
+{14970}{15018}Ordure !
+{15055}{15118}Avec les femmes|tu vas foutre ta vie en l'air.
+{15128}{15245}Blackie, je me suis perdue.|On allait au cimetière...
+{15995}{16013}Alors ?
+{16195}{16275}Lever du soleil 7 heures 22,|coucher 16 heures 28,
+{16283}{16335}lever de la lune 19 heures 04,|coucher...
+{16343}{16405}Niveau de la Havel|et de la Spree...
+{16413}{16475}Il y a 20 ans aujourd'hui|un avion soviétique
+{16483}{16553}s'écrasait à Spandau,|dans le lac.
+{16560}{16600}Il y a 50 ans c'était...
+{16608}{16633}Les jeux Olympiques.
+{16690}{16793}Il y a 200 ans NF Blanchard|survolait la ville en ballon.
+{16800}{16855}Comme les transfuges|l'autre jour.
+{16865}{16890}Et aujourd'hui :
+{16918}{16998}Lilienthaler Chaussee,|un homme a ralenti le pas,
+{17005}{17078}regardé par-dessus son épaule|dans le vide.
+{17130}{17198}A la poste 44 un homme|qui veut en finir aujourd'hui
+{17205}{17278}a collé des timbres spéciaux|sur ses lettres d'adieux,
+{17285}{17310}sur chacune un autre,
+{17318}{17425}puis, Mariannenplatz, a parlé anglais|avec un soldat américain
+{17433}{17508}pour la première fois|depuis l'école, couramment.
+{17560}{17600}A Ploetzensee, un détenu
+{17608}{17658}avant de se jeter|la tête contre le mur
+{17665}{17688}a dit ''Maintenant !''
+{17713}{17813}Au métro Zoo, le chef de quai,|au lieu du nom de la station,
+{17820}{17863}s'est écrié ''Terre de feu''...
+{17870}{17893}Beau !
+{17910}{17988}Dans les collines un vieillard|lisait l'Odyssée à un enfant
+{18000}{18088}et son petit auditeur|a cessé de cligner des yeux.
+{18120}{18168}Et toi ? Qu'est-ce que tu racontes ?
+{18228}{18258}Une passante qui
+{18265}{18338}sous la pluie a fermé|son parapluie d'un coup sec
+{18345}{18388}et s'est laissée tremper.
+{18443}{18475}Un écolier
+{18500}{18533}qui décrivait à son maître
+{18540}{18625}comment une fougère sort|de terre et le maître étonné.
+{18690}{18758}Une aveugle qui a cherché|des mains sa montre
+{18765}{18803}en percevant ma présence...
+{18865}{18940}Merveille de vivre en esprit|et d'attester pour l'éternité
+{18948}{19023}le spirituel, rien que|le spirituel chez les gens.
+{19085}{19163}Mais parfois je suis las|de mon existence d'esprit.
+{19175}{19225}J'aimerais ne plus|éternellement survoler,
+{19233}{19288}j'aimerais|sentir en moi un poids
+{19295}{19365}qui abolisse l'illimité|et m'attache à la terre.
+{19388}{19473}Pouvoir à chaque pas,|à chaque coup de vent,
+{19483}{19510}dire ''maintenant'',
+{19528}{19570}maintenant, maintenant
+{19575}{19640}et non plus ''depuis toujours''|et ''à jamais''.
+{19675}{19733}S'asseoir|à la table des joueurs
+{19738}{19813}et être salué,|serait-ce d'un signe de tête.
+{19860}{19950}Même quand nous participions,|nous faisions semblant.
+{19988}{20020}Combattant l'un d'eux,
+{20028}{20088}faire semblant de se laisser|démettre la hanche,
+{20095}{20158}faire semblant|d'attraper un poisson,
+{20165}{20240}faire semblant de s'asseoir|aux tables, de boire
+{20248}{20295}et de manger, semblant encore,
+{20305}{20368}se faire rôtir des agneaux,|servir du vin
+{20375}{20453}dans les tentes du désert,|toujours faire semblant !
+{20480}{20568}Je ne demande pas à engendrer|un enfant, planter un arbre,
+{20593}{20643}mais ce serait|déjà quelque chose
+{20650}{20695}au retour d'une longue journée
+{20715}{20778}de nourrir le chat|comme Philip Marlowe,
+{20810}{20845}d'avoir la fièvre,
+{20855}{20918}les doigts noircis|par le journal,
+{20963}{21058}de ne plus être exalté par|l'esprit mais par un repas,
+{21090}{21128}par la courbe d'une nuque,
+{21140}{21175}par une oreille.
+{21243}{21310}Mentir ! Comme on respire !
+{21348}{21430}Sentir en marchant|sa charpente qui avance.
+{21445}{21528}Deviner enfin au lieu|de toujours tout savoir,
+{21535}{21633}pouvoir dire ''ah !'',|''oh !'' et ''aïe !''
+{21655}{21695}au lieu de ''oui et amen !''
+{21755}{21818}Et pouvoir aussi|s'exalter pour le mal :
+{21825}{21858}en croisant les passants,
+{21865}{21923}attirer à soi|tous les démons de la terre
+{21930}{21975}et les chasser dans le monde !
+{22005}{22043}Etre un sauvage !
+{22113}{22155}Ou enfin sentir ce que c'est
+{22163}{22223}d'enlever ses chaussures|sous la table
+{22230}{22278}et d'étirer les orteils,
+{22285}{22323}pieds nus, comme ça.
+{22440}{22478}Rester seul !
+{22495}{22535}Laisser survenir !
+{22543}{22580}Garder son sérieux !
+{22588}{22693}Nous ne pouvons être sauvages|qu'en gardant notre sérieux.
+{22705}{22748}Ne rien faire que regarder,
+{22755}{22820}rassembler, attester,|conserver !
+{22880}{22913}Rester esprit !
+{22933}{22988}Garder la distance !|Rester en parole !
+{22995}{23033}Regarde, un cabriolet.
+{23043}{23073}On n'achète pas ça,
+{23080}{23140}on le fauche !|Sinon on se le fait faucher.
+{23148}{23173}Imagine un peu :
+{23183}{23228}on ouvre le toit,|on sort du smog !
+{23235}{23255}Une bagnole de mac !
+{23658}{23753}Walter Benjamin acheta en 1921|une aquarelle de Paul Klee...
+{30230}{30288}Raconte, muse, le conteur,
+{30300}{30353}l'enfantin, l'antique,
+{30363}{30410}dérivé au bord du monde,
+{30418}{30458}et fais qu'en lui
+{30465}{30538}se reconnaisse chaque homme.
+{30783}{30823}Avec le temps
+{30830}{30908}ceux qui m'écoutaient|sont devenus mes lecteurs,
+{30915}{30980}ils ne sont plus|assis en cercle,
+{30988}{31028}mais à part soi et
+{31035}{31090}l'un ne sait rien de l'autre.
+{31265}{31368}Je suis un vieillard|à la voix cassée mais
+{31375}{31483}le récit s'élève|encore des profondeurs
+{31490}{31613}et la bouche entrouverte|le répète
+{31620}{31675}avec force et évidence,
+{31685}{31818}une liturgie où personne|n'a besoin d'être initié
+{31828}{31898}au sens des mots|et des phrases.
+{32155}{32195}Peut-être|qu'elle n'a pas d'argent
+{32203}{32248}pour voir un autre médecin.
+{32295}{32345}Voilà quatre ans|que je ne l'ai pas vue,
+{32353}{32385}deux qu'elle est malade.
+{32393}{32440}Quand allez-vous prier|avec vos propres mots
+{32448}{32488}et pas pour la vie éternelle ?
+{32540}{32638}Ces petites qui font|de l'œil aux hommes...
+{32733}{32773}Pourquoi est-ce que je vis ?
+{32785}{32875}Qui est le premier à avoir|traversé le Wannsee à la nage ?
+{32955}{32985}Avec ma petite pension...
+{33305}{33365}Tu es perdu|mais ça peut encore durer.
+{33373}{33443}Rejeté par tes parents,|quitté par ta femme,
+{33450}{33488}ton ami dans une autre ville,
+{33495}{33553}tes enfants ne se rappellent|que tes tics,
+{33560}{33638}tu pourrais te gifler|en te voyant dans la glace...
+{33663}{33688}Qu'est-ce que c'est ?
+{33700}{33733}Qu'est-ce qui se passe ?
+{33785}{33815}Je suis encore là.
+{33823}{33888}Si je le veux,|si seulement je le veux...
+{33928}{33965}Je dois vouloir,
+{33973}{34005}et je vais m'en sortir.
+{34013}{34055}C'est moi|qui me suis laissé aller,
+{34063}{34098}je peux aussi m'en tirer.
+{34105}{34145}Il ne manquerait plus que ça.
+{34455}{34478}Regarde, deux marks !
+{34485}{34518}C'est une capsule de bière !
+{34525}{34575}Tu parles ! Allez, tire !
+{34690}{34728}Rien que 10 pfennigs.
+{34768}{34813}Vous pariez ?|C'était génial hier soir !
+{34820}{34880}Vous pariez ?|Ça passait pas hier soir !
+{34910}{34943}Il y a quelques jours,
+{34950}{34973}il y a un mois.
+{35068}{35113}Je suis tout seul,
+{35135}{35175}je fais la gueule,
+{35185}{35230}jouer à trois|ça serait la joie.
+{35540}{35615}Et ils ont vécu|heureux jusqu'à...
+{36125}{36183}Marion, pas comme ça !
+{36285}{36348}Avec élan, pas avec force !
+{36410}{36455}Ne pendouille pas, vole !
+{36463}{36493}Tu es un ange !
+{36500}{36555}Putain de bordel de merde !
+{36588}{36630}De bordel de merde !
+{36658}{36718}Je ne peux pas voler|avec ces trucs.
+{36725}{36760}Bien sûr que si.
+{36768}{36833}Avec des ailes|c'est plus facile que sans.
+{36860}{36900}Pas avec des plumes de poulet !
+{37425}{37460}Ça suffit !
+{37508}{37533}Concentre-toi Marion !
+{37540}{37628}Il faut dire qu'elle travaille|la volaille.
+{37650}{37685}Fais un effort !
+{37693}{37728}Un effort !
+{37740}{37793}Bien sûr je fais un effort.
+{37800}{37850}Qu'est-ce que je fous ici !
+{37895}{37945}Je vous serais|déjà tombée sur la tête
+{37953}{38018}si je ne faisais pas|un effort !
+{38185}{38213}Venez voir.
+{38245}{38265}Arrêtez tout.
+{38295}{38340}On ne peut plus payer,
+{38385}{38413}on est fauchés.
+{38490}{38528}Demain on démonte,
+{38538}{38588}roulottes à la remise,
+{38608}{38643}la clé sous le paillasson,
+{38665}{38728}pour cette année|le cirque est mort.
+{38758}{38785}Désolé.
+{39340}{39398}Je n'imaginais pas comme ça
+{39435}{39483}mes adieux au cirque.
+{39540}{39640}Le dernier soir pas un chat,|vous jouez comme des pieds
+{39658}{39748}et je volète sous la tente|comme une poule au pot.
+{39793}{39873}Et puis je redeviens serveuse.
+{40765}{40808}Un ange passe !
+{45605}{45653}Ne plus penser à rien.
+{49203}{49228}Les couleurs.
+{49245}{49308}Néons dans le ciel du soir.
+{49355}{49408}Métro aérien rouge et jaune.
+{51740}{51833}Tu n'as jamais vu crever quelqu'un ?
+{51888}{51925}Je pue l'essence.
+{51965}{52018}J'ai tout vu clairement :
+{52025}{52093}la flaque d'huile,|la Mercedes...
+{52100}{52168}Karin,|j'aurais dû te dire.
+{52213}{52253}Ça ne peut pas être si simple,
+{52260}{52310}j'ai encore tant à faire.
+{52330}{52378}Comme je sortais de la vallée
+{52385}{52445}et des brumes dans le soleil...
+{52520}{52573}L'incendie de la prairie,
+{52590}{52653}les pommes de terre dans la cendre,
+{52675}{52748}la remise à bateaux|loin dans le lac...
+{52765}{52818}La Croix du Sud.
+{52835}{52890}L'Orient lointain.
+{52908}{52958}Le Grand Nord.
+{52990}{53043}L'Ouest sauvage.
+{53068}{53138}Le Grand Lac de l'Ours.
+{53160}{53245}Les îles Tristan da Cunha.
+{53288}{53363}Le delta du Mississippi.
+{53410}{53443}Stromboli.
+{53495}{53563}Les vieilles maisons|de Charlottenburg.
+{53610}{53653}Albert Camus.
+{53713}{53753}La lumière du matin.
+{53795}{53863}Le regard de l'enfant.
+{53910}{53988}Le bain dans la cascade.
+{54033}{54113}Les taches des premières|gouttes de pluie.
+{54148}{54173}Le soleil.
+{54198}{54260}Le pain et le vin.
+{54295}{54330}Le saut à cloche-pied.
+{54358}{54393}La fête de Pâques.
+{54428}{54473}Les veines des feuilles.
+{54505}{54550}L'herbe ondoyante.
+{54585}{54630}Les couleurs des pierres.
+{54660}{54743}Les galets|sur le lit du ruisseau.
+{54775}{54840}La nappe blanche au grand air.
+{54875}{54935}Le rêve de la maison|dans la maison.
+{54973}{55043}Le prochain qui dort|dans la pièce voisine.
+{55073}{55120}La paix du dimanche.
+{55158}{55185}L'horizon.
+{55223}{55295}La lumière de la chambre|dans le jardin.
+{55343}{55373}Le vol de nuit.
+{55405}{55463}Le vélo sans les mains.
+{55515}{55563}La belle inconnue.
+{55610}{55638}Mon père.
+{55700}{55723}Ma mère.
+{55785}{55813}Ma femme.
+{55875}{55903}Mon enfant.
+{56313}{56383}Le monde paraît se noyer|dans le crépuscule,
+{56390}{56433}mais je raconte,
+{56440}{56523}comme au début,|dans ma monodie
+{56530}{56573}qui me soutient,
+{56580}{56705}par le récit épargné|des troubles du présent et
+{56713}{56765}protégé pour l'avenir.
+{57113}{57190}C'en est fini|du grand souffle de jadis,
+{57198}{57265}du va-et-vient|à travers les siècles.
+{57273}{57368}Je ne peux plus penser|qu'au jour le jour.
+{57398}{57468}Mes héros ne sont plus
+{57475}{57548}les guerriers et les rois|mais
+{57563}{57683}les choses de la paix,|toutes égales entre elles,
+{57695}{57783}les oignons qui sèchent
+{57793}{57863}valant le tronc d'arbre...
+{57885}{57978}Mais nul n'a encore réussi
+{57985}{58078}à chanter|une épopée de la paix.
+{58085}{58138}Pourquoi la paix
+{58153}{58250}ne peut-elle pas|exalter à la longue,
+{58275}{58378}ne se laisse-t-elle pas|raconter.
+{58503}{58553}Renoncer ?
+{58573}{58628}Si je renonce
+{58635}{58698}l'humanité perdra son conteur.
+{58705}{58798}Et si jamais|l'humanité perd son conteur
+{58805}{58888}elle perd du même coup|son enfance.
+{59135}{59230}Je ne retrouve pas|Potsdamer Platz.
+{59325}{59343}Ici ?
+{59388}{59455}Ça ne peut pas être ça.
+{59478}{59538}Potsdamer Platz,
+{59545}{59610}il y avait là le café Josti,
+{59618}{59668}j'y venais l'après-midi
+{59690}{59768}faire la conversation,|prendre un café
+{59795}{59900}et regarder le public|après avoir fumé mon cigare
+{59908}{60020}chez Loese et Wolf,|marchands de tabac réputés.
+{60033}{60085}Ici, juste en face.
+{60135}{60248}Ça ne peut pas être|Potsdamer Platz.
+{60300}{60368}Et personne
+{60375}{60415}à qui demander.
+{60483}{60553}C'était... une place animée.
+{60573}{60678}Des tramways,|des omnibus à chevaux et...
+{60685}{60808}deux autos : la mienne|et celle du chocolatier.
+{60880}{60983}La magasin Wertheim aussi|était ici.
+{61010}{61038}Et puis...
+{61065}{61148}soudain...|des drapeaux sont apparus...
+{61245}{61350}Toute la place|en était couverte...
+{61365}{61415}Et les gens
+{61435}{61498}n'étaient|plus du tout aimables,
+{61505}{61570}la police non plus.
+{61610}{61698}Je n'abandonnerai pas
+{61705}{61810}tant que je n'aurai pas|retrouvé Potsdamer Platz !
+{61955}{62053}Où sont mes héros ?|Où êtes-vous mes enfants ?
+{62068}{62170}Où sont les miens, les obtus,
+{62195}{62245}ceux des origines ?
+{62470}{62583}Appelle-moi muse,|le pauvre chantre immortel
+{62590}{62668}qui abandonné des mortels|qui l'écoutaient
+{62678}{62745}perdit la voix :
+{62760}{62828}lui qui, de l'ange du récit|qu'il était,
+{62838}{62960}devint l'aède|ignoré ou raillé
+{62968}{63063}au-dehors, sur le seuil|du no man's land.
+{63643}{63738}20 marks, 40 marks, 80 marks.
+{63745}{63835}En une semaine je pourrais|en avoir 500. Vers le sud !
+{63865}{63960}Quelle idée débile de me|mettre ici. Trop de trafic.
+{63968}{64043}Connard, ça fait|trois fois qu'il passe.
+{64073}{64110}Me tirer d'ici.
+{64118}{64213}Si quelqu'un me reconnaît|je me fais jeter du lycée.
+{64223}{64288}Là j'aurais besoin de Klaus,
+{64295}{64363}il se serait occupé de moi.
+{64370}{64420}Il était trop bon.|C'est pour ça
+{64428}{64458}qu'il est crevé.
+{64670}{64753}Est-ce qu'il reste des frontières ?|Plus que jamais !
+{64775}{64868}Chaque rue|a sa propre barrière.
+{64900}{64995}Entre les lignes|il y a un terrain vague
+{65003}{65073}camouflé par une haie|ou un fossé.
+{65093}{65178}On y tombe|sur des chevaux de frise,
+{65185}{65208}on est frappé
+{65215}{65255}par des rayons laser.
+{65265}{65330}Les truites dans l'eau|sont des torpilles.
+{65375}{65468}Chaque maître de maison,|chaque propriétaire,
+{65475}{65513}cloue son nom sur la porte
+{65550}{65625}et étudie le journal|comme un maître du monde.
+{65633}{65700}Le peuple allemand a éclaté|en autant de mini-Etats
+{65708}{65743}qu'il y a d'individus.
+{65750}{65778}Et les Etats isolés
+{65788}{65830}sont mobiles :
+{65840}{65883}chacun emmène le sien avec soi
+{65890}{65985}et si on veut y pénétrer|exige un droit de passage :
+{65998}{66120}une mouche enfermée dans|de l'ambre, ou une flasque.
+{66155}{66198}Et ce n'est que la frontière
+{66205}{66258}mais on ne peut pas|aller plus avant
+{66265}{66338}dans chaque mini-Etat|avec ses quelques mots de passe.
+{66825}{66895}L'âme allemande d'aujourd'hui|ne peut pas être conquise
+{66903}{66940}et dirigée que par celui
+{66948}{67000}qui approchera chacun d'eux
+{67008}{67045}avec ses mots de passe.
+{67053}{67128}Par bonheur nul n'en est|actuellement capable.
+{67135}{67155}Comme ça chacun
+{67163}{67188}part pour l'étranger
+{67195}{67298}et fait flotter aux quatre vents|sa cime d'Etat.
+{67305}{67360}Ses enfants aussi|agitent déjà leur crécelle
+{67368}{67418}et tirent leur merde|en cercles autour d'eux.
+{67425}{67498}C'est ça le livre|dont vous me parliez ?
+{67505}{67538}Das Double ?
+{67580}{67620}Hitler avait un double, ou...
+{67628}{67663}Il y avait deux Hitler ?
+{67680}{67698}Non. Hitler
+{67705}{67770}est revenu|du front de l'Est et...
+{67778}{67863}il est mort avant|d'atterrir dans les Alpes.
+{67895}{67970}Et Goebbels a fait jouer|Hitler par un acteur.
+{67978}{68018}Pour empêcher qu'on sache...
+{68038}{68095}Une question. Cette histoire,
+{68115}{68180}je ne la trouve pas|très plausible.
+{68233}{68298}Une heure|avant le prochain plan.
+{68328}{68390}Elle est plus réaliste|que notre film !
+{68400}{68448}Je vais vous expliquer.
+{68455}{68495}Les gens aiment|les histoires policières
+{68503}{68603}alors tous les prétextes|sont bons pour en faire.
+{68610}{68695}C'est débile, d'accord,|mais ça aussi c'est débile !
+{68703}{68783}Erika, fiche-moi la paix !
+{68805}{68833}Désolé.
+{68850}{68893}Je veux te dire un mot chérie.
+{68970}{69013}On a assez de photos.
+{69020}{69088}S'il te plaît,|plus de photos.
+{69113}{69145}Helen, je vous cherchais,
+{69153}{69205}je ne peux pas|porter ce chapeau !
+{69218}{69273}Il vous va très bien !
+{69280}{69310}Essayez-le !
+{69415}{69435}Mettez-le.
+{69443}{69525}On a d'autres chapeaux là-bas,|essayez-les.
+{69790}{69873}On va trouver un chapeau|pour aller avec cette tête.
+{70035}{70078}Quel genre vous voulez ?
+{70095}{70183}Je veux avoir l'air|allemand, anonyme,
+{70198}{70288}je veux me fondre|dans la foule.
+{70305}{70360}Là on dirait Humphrey Bogart.
+{70368}{70403}Essayez celui-là.
+{70513}{70533}Celui-là ?
+{70570}{70600}C'est pour l'opéra.
+{70608}{70670}Vous avez l'air d'un rabbin !
+{70725}{70783}Celui-là,|ça sur la 42ème Rue...
+{70790}{70858}c'est un bookmaker.
+{71015}{71063}Trouvez-moi un bon chapeau !
+{71070}{71100}Je suis déguisé,
+{71105}{71173}je veux passer inaperçu.
+{71230}{71305}C'est ridicule ces chapeaux,
+{71328}{71403}des chapeaux de gangsters.
+{71423}{71480}Ça c'en est pas un.
+{71500}{71543}Là je me marie.
+{71575}{71625}Ça c'est pour...
+{71630}{71685}aller aux courses à Londres.
+{71698}{71725}Celui-là est bien.
+{71853}{71875}Peut-être.
+{71895}{71923}Ça se pourrait.
+{71935}{71960}Possible.
+{72010}{72088}C'est bon. Vous avez l'air|d'un grand-père.
+{72265}{72290}Charlie Chan,
+{72318}{72400}honorable fils,|pas très intelligent...
+{72830}{72915}Columbo n'avait pas|de chapeau. Un sacré costume.
+{72923}{72970}C'était mon manteau à moi.
+{72975}{73065}Peter, où est ton imper ?|Nettoyé, brûlé.
+{73090}{73133}Qu'est-ce qu'il y a Peter ?
+{73140}{73200}Pourquoi tes pensées|s'égarent-elles ?
+{73270}{73345}Je vais manger|une sole meunière ce soir.
+{73353}{73400}Les Allemands font|la sauce meunière ?
+{73405}{73490}Peut-être des spaghetti|avec sauce tomate au pesto.
+{73500}{73555}Les Allemands font le pesto ?
+{73603}{73653}Ça ne changera jamais.
+{73690}{73765}Ils étaient élégants|les frères.
+{73775}{73813}Ils s'y connaissaient.
+{73988}{74048}La seule chose qui me manquera
+{74055}{74135}du dehors,|du royaume de la lumière,
+{74160}{74188}ce seront les moineaux.
+{74195}{74253}L'argent fait le bonheur.|Comment vivre ?
+{74260}{74328}L'Homme au casque d'or|est un bluff !
+{74335}{74428}Vous n'êtes pas d'ici.|Vous êtes tous des réfugiés.
+{74520}{74580}Je suis là depuis ce matin,
+{74588}{74638}j'ai froid et je m'ennuie.
+{74645}{74753}Le vent dans le visage,|le premier air chargé de neige,
+{74760}{74810}l'eau dans la rigole,
+{74815}{74893}le balcon|avec la belle étrangère...
+{74928}{75003}Ce sont peut-être des vrais.|Ils en ont l'air.
+{75023}{75065}Ils prenaient la bouffe
+{75070}{75098}des chiens, dans les camps.
+{75105}{75155}Ça vous changerait les idées.
+{75160}{75210}Vous réjouissez pas trop vite.
+{75235}{75268}Le Français...
+{75280}{75338}je l'ai rencontré dans la rue.
+{75345}{75385}''Berlin ça donnera plus rien,''
+{75390}{75430}il m'avait dit ça.
+{75470}{75528}La maison était|à moitié tombée.
+{75535}{75585}Il restait encore|quelque chose.
+{75590}{75625}Pour combien de temps ?
+{75635}{75695}Je vois encore cette femme
+{75700}{75775}qui se tenait là-haut|dans les ruines,
+{75823}{75878}et qui secouait les couettes.
+{75885}{75978}Quand était-ce donc ?|Mai... juin 45.
+{76035}{76080}Je peux vous dessiner ?
+{76275}{76310}Un instant, très rapide.
+{76318}{76338}Ne bougez pas !
+{76458}{76518}Je me demande|si elle est juive.
+{76540}{76575}Quel gentil visage !
+{76583}{76640}Est-ce que c'est bien fait|ce qu'il peint là ?
+{76748}{76785}Quelle narine.
+{76805}{76845}Dramatique.
+{76865}{76975}Ces gens sont|des figurants, des extras,
+{77013}{77065}ils sont tellement patients.
+{77085}{77118}Ils restent assis là.
+{77160}{77218}Peut-être|qu'il va m'en faire cadeau.
+{77285}{77343}Ces humains sont des extras,
+{77365}{77408}des extra-humains.
+{77473}{77500}Très bon,
+{77525}{77563}très joli portrait !
+{77598}{77685}L'étoile jaune|veut dire la mort.
+{77695}{77745}Pourquoi ont-ils|choisi le jaune ?
+{77750}{77790}Tournesols.
+{77810}{77865}Van Gogh s'est suicidé.
+{77880}{77930}Ce dessin est dégueulasse.
+{77953}{77980}Et alors ?
+{77988}{78023}Personne ne le verra.
+{78040}{78105}Un jour tu feras|un bon dessin.
+{78125}{78168}J'espère, j'espère.
+{78220}{78275}Action pour les cascadeurs !
+{78953}{79020}Encore une interview,|la télé de Berlin.
+{79030}{79098}Tu as le temps. Je vais faire|un gros plan de toi
+{79103}{79155}après ce plan subjectif
+{79165}{79205}mais tu as tout le temps.
+{79213}{79275}J'arrive les gars.|On la fait tout de suite.
+{79408}{79448}Qu'est-ce qu'il y a Peter ?
+{79555}{79575}''La vie... ''
+{79595}{79655}''si je ne l'avais pas, elle me manquerait.''
+{79660}{79718}Dit le général à la putain.
+{80148}{80208}Viens, je vais|te montrer autre chose.
+{82498}{82555}Lorsque l'enfant était enfant
+{82560}{82678}il se gavait d'épinards,|de petits pois, de riz au lait
+{82685}{82720}et de chou-fleur bouilli.
+{82725}{82783}il mange tout ça à présent,
+{82790}{82838}et pas seulement|parce qu'il est forcé.
+{82845}{82890}Lorsque l'enfant était enfant,
+{82895}{82965}il s'est réveillé un jour|dans un lit inconnu
+{82973}{83023}et à présent|ça lui arrive toujours,
+{83030}{83095}beaucoup de gens|lui paraissaient beaux,
+{83103}{83158}et à présent ça n'arrive|plus que par chance.
+{83170}{83203}Il avait une image claire
+{83210}{83255}du Paradis
+{83263}{83330}et à présent|il le devine tout au plus,
+{83335}{83400}ne pouvait imaginer un néant,
+{83408}{83465}et aujourd'hui|il tremble à son idée.
+{83483}{83505}Lorsque l'enfant
+{83513}{83573}était enfant,|il jouait avec enthousiasme
+{83595}{83620}et à présent
+{83625}{83665}il est à son affaire|comme jadis
+{83670}{83713}seulement quand cette affaire
+{83720}{83753}est son travail.
+{88055}{88125}Tu te souviens,|notre première venue ici ?
+{88130}{88195}L'Histoire n'avait|pas commencé.
+{88225}{88320}Nous avons vu passer matin|et soir et nous avons attendu.
+{88325}{88348}Il a fallu longtemps
+{88355}{88435}pour que le fleuve trouve|son lit, que l'eau stagnante
+{88440}{88483}se mette à couler.
+{88490}{88535}Vallée du fleuve primitif !
+{88543}{88610}Un jour,|je me souviens encore,
+{88635}{88673}le glacier a vêlé
+{88680}{88750}et les glaces ont fait route|vers le nord.
+{88765}{88858}Un arbre passa, encore vert,|avec un nid vide.
+{88890}{88975}Pendant des myriades d'années|seuls les poissons bondirent !
+{88983}{89065}Puis vint le moment où|l'essaim d'abeilles se noya.
+{89073}{89183}Après les deux cerfs se sont|battus sur cette rive.

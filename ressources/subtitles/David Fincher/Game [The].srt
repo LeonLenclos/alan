@@ -1,0 +1,1356 @@
+{4090}{4136}Merci, llsa.
+{4161}{4205}Bonne journée.
+{5006}{5035}Bonjour, monsieur.
+{5037}{5130}Dites-moi ce qu'il faut faire.
+{5137}{5206}On sera tous baisés|s'il y a un krach.
+{5210}{5266}Le vieux va nous couler.
+{5271}{5324}Dès que j'ai le rapport|de Baer/Grant,
+{5329}{5377}je vous appelle.
+{5382}{5425}C'est promis?
+{5429}{5477}J'ignore ce mot-là.
+{5481}{5570}Et si Anson appelle|pour une indemnité?
+{5577}{5646}Votre secrétaire dira|que vous êtes en réunion.
+{5651}{5707}Merci, Jack. Oui, Maria?
+{5711}{5778}- Les invitations. Au gala?|- Non.
+{5784}{5829}Au banquet de Fitzwilliam?
+{5834}{5877}- Non.|- Au mariage de Hinchberger?
+{5881}{5936}Le mariage de Hinchberger?
+{5956}{6033}Smokings et conversations|de gens ivres. Non merci.
+{6046}{6106}Je vous excuserai.
+{6111}{6147}A quoi bon?
+{6151}{6240}Vous ignorez le plaisir qu'on a|à éviter le beau monde.
+{6271}{6305}Oui?
+{6308}{6344}Une certaine Elizabeth sur la 3.
+{6376}{6462}- Votre ex-femme.|- Je sais qui c'est.
+{6471}{6519}Prenez un message.
+{6541}{6601}Bon anniversaire, monsieur.
+{6609}{6642}Merci, Maggie.
+{6726}{6767}Elle me déplaît.
+{6772}{6848}J'hésite à vous|en parler mais il a insisté.
+{6853}{6898}- C'est une blague.|- Quoi?
+{6903}{6991}Un monsieur veut|déjeuner avec vous.
+{6995}{7063}- Quel est son nom?|- M. Seymour Butts.
+{7106}{7180}"Under the bleachers"|de Seymour Butts.
+{7186}{7238}Pardon?
+{7243}{7324}Faites une réservation|au City Club
+{7331}{7386}pour M. Butts et moi-même.
+{7435}{7512}Réservez à mon nom.
+{7628}{7705}- Vous désirez commander?|- Non, j'attends.
+{7711}{7759}C'était un thé glacé.
+{7913}{7954}Conrad, quelle surprise!
+{7958}{8004}Bon anniversaire, Nickie.
+{8096}{8144}C'est un restaurant sympa.
+{8146}{8228}- On m'a prêté une veste.|- Tu devras la rendre.
+{8230}{8316}- Je suis déjà venu ici.|- Ouais, je t'avais invité.
+{8323}{8385}Non. Pour acheter de|la came au maître d'hôtel.
+{8391}{8437}- Vraiment?|- J'étais en fac.
+{8441}{8501}- Laquelle?|- Très juste!
+{8528}{8557}Je t'ai manqué?
+{8560}{8603}Ouais, en quelque sorte.
+{8608}{8649}T'as l'air d'être en forme.
+{8653}{8713}Toi aussi.|Dire que je me bilais.
+{8717}{8753}Pour moi?
+{8758}{8837}C'était quand les obsèques|de maman? 2, 3 ans?
+{8841}{8891}Tu n'avais pas arrêté?
+{8896}{8934}J'ai pas tenu.
+{8936}{8977}Il est interdit de fumer ici.
+{8981}{9024}Je suis avec toi.
+{9025}{9100}Il est interdit de fumer|au restaurant, en Californie.
+{9105}{9139}La Californie, mon cul!
+{9186}{9246}- Ca va?|- Ca peux pas mieux aller.
+{9250}{9305}- Et Elizabeth?|- On a divorcé.
+{9311}{9399}Elle s'est remariée|avec un pédiatre ou un gynéco.
+{9406}{9444}Elle vit à Sausalito.
+{9445}{9531}Dommage. Je l'aimais bien.
+{9538}{9583}Et toi?
+{9588}{9655}Tu ne m'as plus à l'oeil?.
+{9660}{9706}Plus depuis ta cure de détox.
+{9710}{9765}Quel bon vent t'amène, Conrad?
+{9771}{9814}- Tout va bien?|- Ouais.
+{9815}{9858}- Besoin de quelque chose?|- Non.
+{9860}{9889}C'est vrai?
+{9891}{9946}Je ne veux rien de toi.
+{9950}{10020}Je me faisais bronzer nu|sur une plage près d'lbiza
+{10025}{10078}et tout à coup, clic!
+{10082}{10133}12 octobre.|Anniversaire de Nickie.
+{10136}{10172}C'est le 11 octobre.
+{10175}{10214}Peu importe.
+{10310}{10384}- Tiens.|- T'aurais pas dû.
+{10390}{10479}Qu'offre t-on|à un homme qui a tout?
+{10593}{10638}"Conso Récré Services".
+{10643}{10678}J'ai déjà des clubs de golf.
+{10683}{10714}Appelle-les.
+{10745}{10766}Pourquoi?
+{10771}{10869}- Pour pimenter...ta vie.|- Pimenter?
+{10876}{10928}Tu as dû voir comment|les autres s'éclatent.
+{10933}{10983}C'est un organisme|de loisir et de récréation.
+{10987}{11026}Des call-girls?
+{11055}{11089}Une expérience unique.
+{11128}{11173}Désolé. Je vais...
+{11178}{11252}Non, ça va. Mais...
+{11256}{11278}Tu m'appelles?
+{11280}{11330}- Je t'ai dit oui!|- C'est pas vrai.
+{11375}{11437}Tu es toujours sous traitement?
+{11442}{11485}Pourquoi tu me demandes ça?
+{11489}{11523}Vous désirez commander?
+{11525}{11578}Ce n'est pas|ce que je voulais dire.
+{11580}{11644}Je prends rien.|Je vois plus de psy.
+{11651}{11696}Et j'ai la pêche.|Vous permettez?
+{11789}{11851}Ca va te plaire.
+{11855}{11927}Il ne pouvait rien|m'arriver de mieux.
+{11929}{11968}Je les appellerai.
+{11970}{12008}Fais-le. Pour toi.
+{12087}{12164}Mais je...|J'ai horreur des surprises.
+{12169}{12311}Je sais.
+{12319}{12401}Happy birthday to you
+{12407}{12506}Happy birthday, Mr Van Orton
+{12512}{12589}Happy birthday to you!
+{12722}{12806}On devrait crucifier Anson.
+{12809}{12843}Vous avez vu|le rapport de rentabilité?
+{12847}{12922}Je suis aussi|terriblement déçu.
+{12925}{12961}Vous vous occupez de lui?
+{12965}{12986}Oui.
+{12990}{13014}Nous sommes furieux.
+{13017}{13051}Dormez bien, Nicholas.
+{13054}{13076}Oui.
+{14514}{14538}Bonne nuit, llsa.
+{14539}{14597}- Votre dîner est au four.|- Merci.
+{14601}{14666}J'ai vu Conrad aujourd'hui.
+{14670}{14723}Ah bon? Comment va t-il?.
+{14727}{14785}Bien. Je crois qu'il est membre
+{14789}{14835}d'une secte|d'amélioration personnelle!
+{14839}{14901}Embrassez-le de ma part.
+{14907}{14957}- Joyeux anniversaire.|- Bonne nuit.
+{15667}{15743}..de certaines sociétés n'ayant|pas tenu leurs échéances.
+{15839}{15906}..on attend des offres|de 500 millions de dollars...
+{15912}{15945}Elizabeth, bonsoir.
+{15950}{15983}Joyeux anniversaire, Nickie.
+{15987}{16056}23h 40. Tu l'as presque raté.
+{16062}{16119}Tu l'as bien fêté?
+{16124}{16181}Qu'est-ce que tu crois?
+{16186}{16292}On me l'a souhaité|non pas une fois mais deux.
+{16299}{16366}J'imagine. Comment vas-tu?
+{16371}{16431}Connie m'a posé|la même question, aujourd'hui.
+{16434}{16530}Connie? C'est vrai?|J'ai toujours aimé ton frère.
+{16534}{16558}Bref...
+{16559}{16640}Je pensais que|ce serait dur pour toi.
+{16647}{16680}Un anniversaire|comme les autres.
+{16713}{16747}A cause de ton père.
+{16751}{16821}Oui. Il avait 48 ans, non?
+{16826}{16896}Je n'y avais pas pensé|jusqu'à présent.
+{16901}{16983}A quoi bon appeler?
+{16989}{17023}J'en sais franchement rien.
+{17024}{17096}Donne mon bonjour|au Dr Mel et à Rachel.
+{17099}{17171}Elle va avoir un petit frère.
+{17174}{17207}J'ai passé une échographie.
+{17211}{17257}Une famille nucléaire.
+{17261}{17307}Vous devez être contents.
+{17311}{17391}Nous le sommes.
+{17396}{17465}Ca m'a fait plaisir|de te parler.
+{17471}{17516}Je te laisse.
+{17521}{17554}Prends soin de toi.
+{17559}{17638}Toi aussi, Nicholas.|Je le pense sincèrement.
+{17644}{17678}Porte-toi bien.
+{17681}{17736}Un projet de loi|encourageant les PME,
+{17742}{17811}à offrir à leurs employés|une assurance maladie
+{17816}{17885}est actuellement|en discussion à Washington.
+{17892}{17961}Ce projet, associant les PME|et les grandes entreprises
+{17966}{18011}pour l'assurance maladie,
+{18016}{18051}est défendu
+{18056}{18121}par certains républicains.
+{18124}{18162}Mais les législateurs démocrates
+{18166}{18231}s'y opposent fermement,
+{18919}{18996}Comprenons-nous bien.
+{19000}{19046}Une fois noir sur blanc,
+{19050}{19115}je vous garantis mon soutien.
+{19121}{19167}Entendu.
+{19171}{19205}A bientôt.
+{20038}{20065}Non.
+{20068}{20193}Ne le prenez pas mal.
+{20201}{20232}J'ai reçu ceci...
+{20236}{20272}Un instant.
+{20276}{20326}Je suis navrée que|vous le voyiez ainsi.
+{20331}{20369}Je comprends.
+{20371}{20438}J'espère que|cela ne vous a pas dérangé.
+{20441}{20480}Merci d'avoir choisi CRS.
+{20481}{20550}M. Feingold,|veuillez aider ce monsieur.
+{20555}{20613}Oh, ouais.
+{20616}{20678}Jim Feingold,|analyste de données.
+{20734}{20803}- Cette carte vient de mon frère|- Voyons donc.
+{20808}{20841}Très bien. Allons-y.
+{20846}{20939}Excusez ce chantier.
+{20946}{21020}Nous...emménageons.
+{21025}{21128}J'ai un bureau|quelque part par là.
+{21136}{21179}Vous pouvez me tenir ça?
+{21223}{21280}Merci infiniment.
+{21286}{21336}OK... Merci.
+{21340}{21398}Vous avez faim? Café New Moon.
+{21403}{21437}Non, merci.
+{21440}{21500}Le meilleur de Chinatown.
+{21583}{21669}Un cadeau de Conrad Van Orton...
+{21676}{21726}- Intéressant.|- Quoi?
+{21730}{21802}Votre frère était client|de notre filiale de Londres.
+{21805}{21863}Nous avons une sorte|de notation interne.
+{21867}{21913}Ses résultats|étaient...brillants.
+{21917}{21982}- Vraiment?|- Toujours pas faim?
+{21988}{22019}Non.
+{22086}{22155}Voici l'inscription|et deux tests psychologiques.
+{22160}{22198}Le MNPI et le PAP.
+{22200}{22248}Pour le questionnaire financier,
+{22250}{22317}ne répondez que|si vous en avez envie.
+{22321}{22355}On va faire un TRW.
+{22357}{22436}"Je fais du mal aux animaux.|Vrai ou faux?
+{22497}{22589}"Je me sens coupable|quand je me masturbe."
+{22595}{22641}Je n'écris pas les questions.
+{22645}{22700}J'analyse les réponses.
+{22797}{22831}C'est pour quoi?
+{22835}{22890}Pour évaluer vos capacités.
+{22895}{22969}Non, à quoi ça sert?|Vous vendez quoi?
+{22975}{23047}Oh. C'est un jeu.
+{23053}{23089}Un jeu?
+{23092}{23147}Conçu individuellement|pour chaque participant.
+{23150}{23198}Voyez ça comme des vacances.
+{23200}{23267}Mais vous ne partez pas.|Elles viennent à vous.
+{23273}{23337}Quel genre de vacances?
+{23342}{23375}Elles ne sont jamais pareilles.
+{23380}{23442}Vous pourriez être plus précis.
+{23448}{23484}Nous fournissons...
+{23551}{23584}Ce qui manque.
+{23587}{23628}Et s'il ne manque rien?
+{23632}{23670}Je peux faire deux suggestions?
+{23675}{23751}Vous croyez que je vais|jouer sans rien savoir?
+{23755}{23847}D'abord, admettez|que ça vous intrigue.
+{23853}{23875}Ensuite, vous avez le temps.
+{23877}{23932}Faites ces tests,|remplissez les formulaires.
+{23937}{23990}Et vous serez dans le jeu.
+{23996}{24065}Vous aimerez ou pas.|Et vous déciderez.
+{24070}{24218}Nous sommes dans l'univers|de l'aventure, du roman vécu.
+{24225}{24307}Vous vous arrêtez quand|vous voulez, sans obligation.
+{24410}{24443}Ce sera long?
+{24448}{24517}Une heure. Et une autre|pour la visite médicale.
+{24523}{24544}Visite médicale?
+{24547}{24581}C'est une visite ordinaire.
+{24584}{24654}"Dites 33",|des choses de ce genre.
+{25827}{25861}Perplexe.
+{26011}{26033}Risqué.
+{26133}{26157}Sanglant.
+{26256}{26288}Aïiïe...
+{26772}{26842}M. Sutherland a appelé|au sujet de Baer/Grant.
+{26846}{26887}Repoussez à mercredi.
+{26891}{26932}Anson Baer aimerait|vous voir demain.
+{26937}{27006}Demain? Il y en a|encore pour longtemps?
+{27013}{27046}C'est presque fini.
+{27050}{27090}Vous dites ça|depuis deux heures!
+{27094}{27139}Reportez tout à demain.
+{27144}{27199}Pour répondre|aux questions suivantes.
+{27205}{27287}Vous avez|0,9 secondes pour réagir.
+{27289}{27334}Votre réflexe|est un élément fondamental.
+{27367}{27463}Donnez votre réponse.
+{27469}{27620}Vous avez|0,9 secondes pour répondre...
+{27629}{27662}Ca finit quand ce truc?
+{28034}{28080}Désolé de vous faire attendre.
+{28084}{28190}Je suis content d'avoir passé|ma journée avec vos "experts".
+{28197}{28231}Il n'y a plus que ceci,
+{28234}{28268}pour l'assureur.
+{28272}{28329}Vous déclarez connaître|l'existence du jeu
+{28334}{28391}et vous acceptez d'y participer.
+{28459}{28528}et dépend de votre satisfaction.
+{28534}{28589}Si je ne suis pas satisfait,|il ne paie rien?
+{28644}{28692}On dit "insatisfaits".
+{28694}{28761}C'est ça.|Vous êtes un lexicomaniaque.
+{28764}{28812}Initiales, initiales|et signez là.
+{28814}{28838}Avec votre sang.
+{28839}{28911}Je plaisante.
+{28914}{28996}Votre exemplaire sera|à l'accueil dans ce dossier.
+{29002}{29036}et...gardez le stylo.
+{29039}{29073}On vous fera signe.
+{29139}{29184}Lundi ou mardi?
+{29189}{29230}Ca ne me convient pas.
+{29234}{29268}Et ce soir?
+{29269}{29317}Je travaille toute la soirée.
+{29319}{29390}Je ne suis libre que mercredi.
+{29394}{29464}- On va dîner?|- OK.
+{29468}{29538}Je suis allé chez CRS.
+{29544}{29590}C'est vrai? Et alors?
+{29594}{29664}Ils m'ont semblé désorganisés.
+{29668}{29738}Pourtant à Londres,|ils ne débutaient pas.
+{29744}{29778}Tu vas le faire?
+{29782}{29837}Non, je n'ai pas encore décidé.
+{29892}{29956}C'est comme si je m'associais
+{29958}{29999}au prochain Disneyland.
+{30079}{30113}On a vu des choses|plus étranges.
+{30115}{30183}Non, on a cru voir.
+{30189}{30222}Ils ont ouvert ici.
+{30224}{30263}Le jeu à San Francisco?
+{30267}{30337}Tu vois? lls se débrouillent|bien sans nous.
+{30458}{30515}- Nicholas, ça va?|- James, bonsoir.
+{30522}{30579}- Bonsoir, monsieur.|- De nouveaux membres?
+{30584}{30629}Je crois, monsieur.
+{30634}{30718}- Je leur offre un verre.|- Entendu, monsieur.
+{30774}{30808}Non, et non.
+{30810}{30843}La dernière fois que j'ai joué,
+{30933}{30981}A propos de jeux...
+{30986}{31089}Vous avez mentionné CRS.
+{31093}{31141}Je vous en parle
+{31144}{31228}car j'ai fait leurs tests|à Montgomery Street.
+{31233}{31286}Ah, oui? Bravo!
+{31288}{31345}- Votre partie a commencé?|- Pas encore.
+{31351}{31420}C'était une des questions|que j'avais à vous poser.
+{31426}{31490}De quoi s'agit-il?.
+{31496}{31529}L'éternelle question.
+{31534}{31565}Je vous envie.
+{31568}{31686}J'aimerais recommencer à zéro,|pouvoir le revivre...
+{31746}{31815}Buvons...|aux expériences nouvelles.
+{31897}{31954}Excusez-moi, je dois partir.
+{31958}{31992}Bonne nuit, Ted.
+{31996}{32042}- Nicholas.|- Heureux de vous rencontrer.
+{32126}{32215}- Vous avez joué, récemment?|- Il y a un an, environ.
+{32221}{32291}Je travaillais à Los Angeles.
+{32296}{32366}Le bureau de Londres|est très prisé aussi.
+{32371}{32441}On dirait un jeu de rôles bidon.
+{32501}{32606}Vous voulez savoir ce que c'est?
+{32614}{32700}St Jean, Chapitre 9, Verset 25.
+{32704}{32800}Il y a longtemps que|je ne vais plus au catéchisme.
+{32804}{32881}"Autrefois j'étais aveugle,|désormais je vois."
+{32941}{32991}Bonne nuit, Nicholas.
+{32995}{33029}Bonne chance.
+{33033}{33057}Bonne nuit.
+{33408}{33538}Si la réunion Baer/Grant|n'a pas lieu demain...
+{33698}{33768}Au décollage de son avion,|demain, M. Van Orton...
+{33773}{33831}..aura tous les accords|et les avenants,
+{33836}{33901}un dossier complet,|impeccablement révisé.
+{33905}{33987}Tant pis pour votre opéra.|Vous auriez sûrement dormi.
+{33993}{34058}Nous pourrons montrer|à notre client
+{34062}{34144}comment nous allons relever|ce défi exaltant.
+{34150}{34181}Oui.
+{34183}{34217}Nicholas Van Orton?
+{34221}{34255}Qui êtes-vous?
+{34257}{34291}Cynthia de CRS.
+{34295}{34331}Comment avez-vous eu ce numéro?
+{34336}{34381}Nous avons analysé|votre inscription.
+{34386}{34417}Je suis en réunion...
+{34421}{34462}Vous n'êtes pas admis.
+{34463}{34496}Pardon?
+{34500}{34569}Ne le prenez pas mal.
+{34576}{34669}- Ceci est ridicule...|- Merci de votre confiance.
+{34676}{34707}Y'a un problème?
+{34710}{34756}Non... Non, aucun.
+{34816}{34921}Raccrochez ou appuyez|sur la touche étoile.
+{34928}{34997}Ici Conrad. Laissez un message.
+{35003}{35084}Connie, c'est Nicholas.|Appelle-moi à ton retour.
+{35087}{35159}A propos de|ton cadeau d'anniversaire.
+{35163}{35235}Je suis débordé, en ce moment.
+{35237}{35309}Je n'aurai peut-être|pas le temps.
+{35313}{35390}On en parlera|au dîner demain soir.
+{36155}{36177}Y'a quelqu'un?
+{37657}{37703}..La hausse du chômage|qui s'ensuivra
+{37707}{37765}et le déclin pour|les petites sociétés.
+{37880}{37921}une économie atone.
+{37926}{37971}Personne n'a exprimé|une opinion quant à l'impact
+{37976}{38045}possible sur la vie douillette
+{38049}{38085}de Nicholas Van Orton.
+{38087}{38164}Les démocrates et|les républicains sont d'accord:
+{38171}{38238}I'avenir économique inquiète|sérieusement les Américains.
+{38242}{38300}Un récent sondage révèle
+{38304}{38421}que 57% des ouvriers américains|pensent être au chômage
+{38430}{38504}dans les sept ans à venir.
+{38510}{38550}Qu'est-ce que cela peut faire
+{38555}{38624}à une grosse légume|telle que vous?
+{38630}{38740}On note une hausse générale|sur les marchés obligataires
+{38746}{38816}après l'annonce|de beaux résultats
+{38822}{38911}par des industries de pointe,|suivie d'un repli en apprenant
+{38917}{38965}que Nicholas Van Orton|avait éternué.
+{39022}{39082}Allez-vous passer|toute la soirée
+{39086}{39130}à regarder|la bouche de ce clown?
+{39174}{39208}Je... Je ne...
+{39212}{39294}C'est agaçant|si vous ne m'écoutez pas.
+{39299}{39354}C'est quoi, ce truc?
+{39360}{39444}Le jeu a commencé,|Nicholas, et bonne chance.
+{39449}{39533}Je vais vous dévoiler|quelques règles élémentaires.
+{39539}{39628}Vous avez la 1ère clef,|d'autres vont suivre.
+{39635}{39690}Vous ne saurez ni où les trouver
+{39694}{39740}ni ce qu'elles ouvrent.
+{39744}{39787}Soyez donc attentif.
+{39792}{39837}Comment vous...?|Vous me voyez?
+{39842}{39899}Gardez les questions pour après.
+{39947}{39978}Comment ça marche?
+{40037}{40142}Il y a une mini caméra|qui vous observe.
+{40149}{40181}Impossible.
+{40184}{40225}Vous avez raison. Impossible.
+{40227}{40296}Vous parlez|avec votre téléviseur.
+{40386}{40417}Elle est miniaturisée.
+{40486}{40544}Ce que vous faites|est dangereux!
+{40652}{40684}M. Van Orton?
+{40687}{40725}Pour les nouvelles|de la région...
+{40729}{40762}Oui, llsa, qu'y a-t-il?.
+{40767}{40839}- Tout va bien?|- Oui...
+{40845}{40879}La raffinerie de pétrole...
+{40881}{40903}Bien.
+{40907}{40981}J'ai terminé.|Vous faut-il autre chose?
+{40987}{41073}- Non, merci. Bonne nuit.|- Eh bien, bonne nuit.
+{41164}{41200}Plusieurs ouvriers|ont été blessés...
+{41204}{41274}- Qui c'est?|- Peu importe.
+{41278}{41324}Comment cette caméra|est-elle arrivée chez vous?
+{41329}{41360}J'aimerais le savoir.
+{41561}{41580}Froid.
+{41637}{41668}Glacé.
+{41766}{41790}Tiède.
+{41904}{41925}Chaud!
+{42309}{42350}Notez ce numéro.
+{42351}{42423}C'est la ligne|de CRS ouverte 24h/24.
+{42427}{42470}En cas d'urgence seulement.
+{42472}{42556}N'appelez pas|pour demander le but du jeu.
+{42561}{42631}Le jeu est précisément|de le découvrir.
+{42636}{42730}Bonne chance|et merci de jouer avec nous.
+{42736}{42844}..menaçant d'expulser|l'ambassadeur américain.
+{42851}{42933}Le département d'Etat|a présenté de promptes excuses
+{42938}{43034}en annonçant le transfert|immédiat de l'ambassadeur.
+{43454}{43500}Vous avez pas de la monnaie?
+{43504}{43545}Pour m'aider.
+{43921}{43977}Raccrochez|et consultez l'annuaire.
+{45815}{45856}Je peux vous aider?
+{45958}{45998}Qu'est-ce qu'il y a?
+{46093}{46117}Quoi?
+{46340}{46372}Merci.
+{46678}{46707}Hé mon gars!
+{46778}{46816}Vous pouvez m'aider?
+{46866}{46943}Y'a plus de papier.
+{46973}{47030}Allez à côté.
+{47086}{47165}Soyez sympa.
+{47170}{47230}Hé!
+{47378}{47429}Je ne m'attendais pas|à vous voir.
+{47433}{47469}Je voulais vous|souhaiter bonne chance.
+{47472}{47506}Une nuit blanche?
+{47510}{47544}Je l'ai relu moi-même.
+{47547}{47605}Merci bien, Sam. Allez dormir.
+{47610}{47668}- Plus besoin de moi?|- Ca ira.
+{47673}{47719}Jolie chemise!
+{47723}{47754}Ne m'en parlez pas!
+{47758}{47784}Ciao!
+{48473}{48518}..que tu visites ce bureau,
+{48522}{48570}c'est pour réclamer|ma démission.
+{48572}{48642}Tu t'étais engagé, Anson,
+{48648}{48694}à porter l'action à 1,60 $.
+{48698}{48780}Je ne pense pas|que ma visite te surprenne.
+{48784}{48830}Tu étais trop optimiste|dans tes prévisions.
+{48834}{48856}Oui, je l'admets.
+{48860}{48930}Le gain par action|a progressé de 8%.
+{49027}{49092}Tout ça pour quelques centimes?
+{49098}{49167}Mes actions baissent, j'ignore|comment sont les tiennes.
+{49172}{49222}Ces "centimes"|me coûtent des millions.
+{49227}{49260}Donne-moi encore trois mois.
+{49265}{49317}Si, dans trois mois,|tu penses pareil...
+{49322}{49367}C'est le présent qui compte.
+{49372}{49427}Non.
+{49433}{49515}Tu...tu n'es qu'un salaud.
+{49519}{49589}Si ton père te voyait.
+{49595}{49636}Quoi?
+{49640}{49731}J'étais un ami de ton père,|merde! Je t'ai vu grandir.
+{49738}{49783}Parce que vous pêchiez ensemble,
+{49863}{49899}- J'étais...|- J'ai pas fini.
+{49902}{50027}Tu t'es trompé|en parlant de démission.
+{50035}{50069}Je te vire.
+{50155}{50201}Les actions grimpent.
+{50205}{50275}Il n'y a pas|d'Editions Baer/Grant...
+{50305}{50394}Pas d'Editions Baer/Grant|...sans...Anson Baer!
+{50400}{50441}Où est Stewart Grant?
+{50444}{50528}Sur son bateau,|à profiter de sa retraîte
+{50532}{50602}et à se demander|où tu es passé, Anson.
+{50607}{50641}Je suis navré.
+{50645}{50671}Tu as échoué.
+{50763}{50897}Ton indemnité|est plus qu'équitable.
+{50942}{50993}Valable jusqu'à...ce soir.
+{51052}{51102}Je peux t'attaquer.
+{51107}{51171}Si je repars sans ta signature,
+{51177}{51237}cet accord se détruira|petit à petit.
+{51242}{51319}Moins d'avantages,|moins d'options,
+{51325}{51383}et tes indemnités flétriront.
+{51549}{51626}Tu as intérêt, Anson, à...
+{52022}{52094}Ce doit être ton jour de chance.
+{52132}{52204}Mes avocats vont te contacter.
+{53002}{53072}Conrad Van Orton|a-t-il laissé un message?
+{53076}{53141}- Je vérifie immédiatement.|- Merci.
+{53292}{53338}Excusez-moi! Je suis désolée.
+{53342}{53364}Attendez.
+{53366}{53407}Ne faites pas ça!
+{53411}{53486}Je regardais ailleurs.|Ce n'est pas mon jour.
+{53492}{53597}Ni votre mois. Vous avez fait|pareil la semaine dernière.
+{53604}{53630}Tenez.
+{53635}{53735}Non. Apportez-moi des serviettes|et de l'eau de Seltz.
+{53742}{53838}Le nettoyage va coûter|plus cher que le costume.
+{53844}{53902}J'en doute fort.
+{53906}{53952}C'est un accident, monsieur.
+{53957}{54014}- Bravo.|- Je me suis excusée.
+{54101}{54130}Trouduc...
+{54134}{54196}Christine! M. Van Orton|est un bon client.
+{54202}{54243}Alors léchez-lui le cul.
+{54246}{54292}Ne prenez pas ce ton avec moi.
+{54296}{54354}Je me suis excusée.|Que voulez-vous d'autre?
+{54359}{54426}- Videz votre placard.|- Quoi?
+{54489}{54558}Je suis vraiment navré,|M. Van Orton.
+{54564}{54647}Pouvons-nous vous|offrir votre repas?
+{54654}{54687}Ca ira.
+{54874}{54931}J'appelle un serveur.
+{54967}{54993}L'addition, monsieur.
+{55534}{55601}Va te faire foutre|avec ta vichyssoise!
+{55606}{55633}Mademoiselle?
+{55636}{55689}- Excusez-moi...|- Oh, super. C'est vous.
+{55693}{55789}J'ignore les règles, mais vous|avez quelque chose pour moi?
+{55796}{55884}On...m'a remis ce message.
+{55891}{55948}C'est quoi ce délire,|espèce de taré?
+{55954}{55999}Je dois savoir ce qui se passe.
+{56005}{56062}J'ai plus de boulot.
+{56067}{56119}Je suis bonne pour le chomedu.
+{56124}{56181}Je vais vous expliquer.
+{56186}{56231}Pas besoin. Tire-toi.
+{56321}{56355}Merde!
+{56357}{56453}Je suis... J'essaie de...|Je vous fais mes excuses.
+{56751}{56783}Qu'est-ce qui se passe?
+{56886}{56951}- Qu'est-ce qu'il a?|- J'sais pas. Il est tombé.
+{56956}{56997}Vous m'entendez?|Vous savez quoi faire?
+{57001}{57066}Je sais même pas s'il respire.
+{57096}{57127}Bougez la tête.
+{57131}{57200}Ne restez pas planté là.|Appelez les secours.
+{57206}{57256}Hé... Ca va aller.
+{57261}{57294}Nous allons chercher de l'aide.
+{57299}{57342}Il bluffe pas?
+{57346}{57452}Il a pissé dans son froc!|C'est pas du chiqué!
+{57458}{57480}Mon Dieu!
+{57484}{57522}Il vire au violet!
+{57560}{57591}Police!
+{57853}{57898}Remplissez ces formulaires.
+{57903}{57936}Je ne connais pas cet homme.
+{57941}{57974}Donnez. Je mets quoi?
+{57976}{58029}Vous devez me suivre.
+{58033}{58072}- Vous suivre?|- Pour le rapport.
+{58076}{58112}Elle peut le faire.
+{58166}{58206}- L'hôpital?.|- Il est à côté.
+{58211}{58242}Ce n'est pas ma femme.
+{58365}{58399}C'est débile!
+{58403}{58461}Il y a 10 mn, je m'apprêtais
+{58465}{58542}à dîner tranquillement.|On me remet ce mot.
+{58628}{58686}- Il respire, non?|- Oui.
+{58691}{58734}La sirène|est-elle indispensable?
+{58780}{58807}Bon.
+{59163}{59185}Attendez.
+{59218}{59275}Il faut votre numéro|de permis de conduire.
+{59597}{59662}Mais c'est pas vrai!
+{59668}{59714}Qu'est-ce qui se passe?
+{59718}{59817}Je tentais de vous l'expliquer.|C'est un jeu.
+{59823}{59869}- Quoi?|- C'est une société.
+{59873}{59938}Elle fait des blagues.|Comme celle-là.
+{59942}{60000}Je ne comprends pas très bien.
+{60006}{60076}De quoi vous parlez?
+{60080}{60159}Tout s'est éteint.|100 personnes disparaissent.
+{60166}{60285}Le type qui s'est pissé dessus|et qui a viré violet...
+{60292}{60325}Je suis désolé.
+{60356}{60389}Y'a de quoi.
+{60490}{60536}Pourquoi êtes-vous mêlée à ça?
+{60565}{60671}Doit bien y avoir une torche.
+{60701}{60725}Oh, génial!
+{60851}{60930}Je l'ai cru mourant. Je lui|ai fait le bouche-à-bouche.
+{60935}{60971}Salut.
+{61041}{61077}Vous connaissez le chemin?
+{61080}{61126}Je connais rien du tout.
+{61533}{61567}Vous feriez mieux|de rester planqués.
+{62065}{62110}- Le hall d'entrée?|- Ouais.
+{63165}{63256}Mon frère m'a offert|un chèque-cadeau.
+{63262}{63356}J'ai... J'ai sorti la clef...
+{63362}{63432}..de la bouche d'un...clown.
+{63470}{63492}Laissez tomber!
+{63589}{63630}J'aime pas ça.
+{63858}{63891}Y'a pas de tonalité.
+{63894}{63995}Combien coûte l'aventure|"Coincés dans l'Ascenseur"?
+{64025}{64065}N'y pensez même pas.
+{64070}{64120}- Pourquoi pas?|- Lisez le panneau.
+{64124}{64187}"Attention.|Ne pas ouvrir en cas de panne.
+{64191}{64237}- "Utilisez le...|- Téléphone...
+{64242}{64276}S'il y en a un.
+{64279}{64325}"Et attendez les secours."
+{64329}{64370}Attendons les secours.
+{64624}{64701}- OK, je vous soulève.|- Allez-y d'abord.
+{64705}{64750}Je n'essaie pas d'être galant.
+{64755}{64824}Sans moi,|comment allez-vous monter?
+{64830}{64863}Vous me hissez.
+{64867}{64912}Ma méthode sera plus facile.
+{64916}{64950}- Non.|- Oh, je vous en prie.
+{64954}{65002}Je n'ai pas de culotte.
+{65034}{65075}Eh bien voilà, c'est dit!
+{65209}{65231}OK...
+{65614}{65660}On peut s'en servir d'échelle.
+{65664}{65708}Mon héros! Allons-y!
+{65789}{65823}Peut-être pas.
+{65889}{65911}Merci.
+{66125}{66158}Ma serviette!
+{66264}{66285}Je vous attends.
+{66316}{66374}On ne risque pas de l'ouvrir.
+{66559}{66638}- Un instant! On est chez CRS.|- CRS?
+{66644}{66750}La boîte qui m'a offert|le chèque-cadeau.
+{66756}{66794}C'est son immeuble.
+{66964}{67055}Attendons l'arrivée|des vigiles et expliquons-leur.
+{67062}{67129}Ils vont adorer!|Expliquez-leur pour moi.
+{67199}{67232}Attendez-moi.
+{67604}{67657}Faut pas qu'on nous remarque.
+{67660}{67693}Marchons lentement.
+{67696}{67720}Foncez.
+{67829}{67865}C'est étroit!
+{68036}{68076}Vous voulez me lâcher?
+{68081}{68138}Vous êtes grand.|Je suis pas responsable...
+{68204}{68255}J'ai pas démarré cette...
+{68634}{68686}- Montez!|- J'y vais!
+{68723}{68776}Tenez.
+{68781}{68836}Grimpez donc!
+{69069}{69138}Vous êtes moins réservée|avec les chiens!
+{69144}{69168}Merde!
+{69416}{69471}La ferme!|Putain de chiens!
+{69589}{69649}Laissez-moi deviner.|Moi d'abord.
+{69913}{69956}1000 $ foutus en l'air.
+{69958}{70011}Vous avez des pompes à 1000 $?
+{70013}{70049}Celles-là oui.
+{70213}{70235}Tenez.
+{70339}{70418}Faites attention|aux clous et aux rats.
+{70423}{70445}Quoi?
+{70448}{70506}Il doit y avoir|une issue de secours.
+{71007}{71041}C'est classique!
+{71088}{71124}Pourquoi moi?
+{71214}{71248}Qui êtes-vous?
+{71283}{71324}Nicholas Van Orton.
+{71328}{71391}Vous êtes quoi, un tzar?
+{71471}{71567}Si on se jette d'ici,
+{71573}{71657}- Les ordures nous amortiront.|- Je crois pas.
+{71664}{71700}Faites attention!
+{71840}{71897}Vous regardez quoi, bordel?.
+{71904}{71952}Oh...merde!
+{72583}{72619}Une table pour deux.
+{72760}{72801}On va où?
+{72805}{72875}Voyez ce grand immeuble|illuminé? C'est là.
+{73010}{73044}Tout va bien, mademoiselle?
+{73073}{73130}Ouais. Et vous?
+{73173}{73206}La crème de San Francisco!
+{73486}{73555}Je peux jeter ça quelque part?
+{73560}{73618}Il y a une poubelle|derrière le bureau.
+{73688}{73767}Je dois avoir un sweat|propre à vous prêter.
+{73772}{73806}Ce serait super.
+{73930}{74005}Vous ne m'avez toujours pas|demandé mon nom.
+{74010}{74084}Le maître d'hôtel|vous a appelée Christine.
+{74087}{74116}C'est vrai.
+{74169}{74217}Je vous appelle un taxi.
+{74317}{74362}Vous avez une douche|dans votre bureau?
+{74367}{74388}Ouais.
+{74393}{74438}Vous faites du sport?
+{74464}{74510}Non, de la finance.
+{74514}{74605}Je déplace des fonds|d'une banque à...l'autre.
+{74804}{74826}Non.
+{74859}{74917}Vous auriez pas une serviette?
+{74923}{74981}Ouais. Derrière la porte.
+{74985}{75064}- Je fais vite.|- Rien ne presse.
+{75133}{75197}Je connais le propriétaire|du City Club.
+{75202}{75271}Je le contacte si vous voulez.
+{75278}{75333}Non. C'était un boulot merdique.
+{75363}{75464}Je... J'ai un aveu à vous faire.
+{75513}{75559}On m'a payée 400 $
+{75639}{75697}Vraiment? Que vous a-t-on dit?
+{75702}{75757}Ils ont dit 300, j'ai dit 400.
+{75763}{75830}Ils ont dit le mec|en flanelle grise.
+{75834}{75928}J'ai dit:|"Le beau mec en flanelle grise?"
+{76510}{76543}M. Van Orton?
+{76548}{76617}Je pensais que vous|ne rentreriez jamais.
+{76622}{76643}Merci.
+{76777}{76842}- Allô.|- M. Van Orton? C'est Maria.
+{76847}{76881}J'ai préféré vous contacter.
+{76884}{76918}Quelle heure est-il?.
+{76922}{77004}11 heures. J'ai reporté|votre rendez-vous.
+{77009}{77067}Je serai là dans une heure.
+{77070}{77170}J'ai oublié ma serviette|au 1019 Montgomery Street.
+{77177}{77234}Pourriez-vous appeler|les Objets Trouvés?
+{77240}{77345}Anson Baer est au Carlton.|Il veut dîner avec vous.
+{77352}{77385}On verra.
+{77390}{77433}Et l'Hôtel Nikko a appelé.
+{77437}{77500}Ils ont votre carte|American Express.
+{77505}{77579}Vous l'avez oubliée hier soir.|J'envoie...?
+{77585}{77659}- Non. Donnez-moi le numéro.|- 555 11 11.
+{77664}{77698}Je vous rappelle.
+{77797}{77843}Bonjour. Hôtel Nikko.
+{77847}{77917}Nicholas Van Orton. Vous avez|ma carte American Express?
+{77921}{78034}Oui! Le vin et les fleurs|sont en place...
+{78040}{78064}Ah bon?
+{78064}{78160}Une jeune femme a appelé pour|dire qu'elle serait en retard.
+{78166}{78224}A-t-elle laissé son nom?
+{78229}{78275}Je l'ignore.
+{78279}{78337}Bien sûr. Merci.
+{78604}{78637}Pardon. C'est de ma faute.
+{78820}{78914}Ah, M. Van Orton.|Bienvenue. Tenez.
+{78977}{79011}On se connaît?
+{79044}{79080}Je crois.
+{79159}{79226}Veuillez signer ici.
+{79406}{79428}Merci.
+{79554}{79576}Mes clefs?
+{79643}{79689}Je n'ai pas droit à une clef?
+{79729}{79774}Je vous l'ai remise hier soir.
+{79779}{79824}Non, je ne crois pas.
+{79909}{79948}Bien joué.
+{79951}{79987}Par ici, monsieur.
+{80014}{80048}Bonne journée.
+{82474}{82510}Femme de chambre!
+{82698}{82753}Vous pouvez revenir plus tard?
+{83381}{83409}Merde!
+{84238}{84274}Merci, monsieur.
+{86017}{86063}Où est-il, bon sang?
+{86067}{86115}- Mon Dieu!|- Pourquoi me suivez-vous?
+{86117}{86251}De quoi parlez-vous?|Je ne vous suis pas!
+{86257}{86351}Le jeu, c'est Anson Baer, non?|C'est l'explication?
+{86357}{86415}Tire-toi, hein?
+{86419}{86441}Quoi?
+{86445}{86515}C'est malin.
+{86517}{86586}On joue le jeu|avec des balles réelles.
+{86626}{86667}Mon Dieu! Bordel...!
+{86702}{86750}Je suis un détective privé.
+{86752}{86810}On m'a engagé|pour vous surveiller.
+{86842}{86895}Qui vous paie?
+{87121}{87245}Maria, demandez à Sutherland|de me retrouver au Carlton.
+{87507}{87567}- Quoi de neuf?|- Suivez-moi, Sam.
+{87765}{87815}Nicholas! C'est inattendu.
+{88053}{88110}tu vas salir ma réputation?
+{88115}{88216}Tu peux me photographier|enculant le Père Noël!
+{88222}{88277}Ce qui compte,|ce sont les actions!
+{88282}{88335}Qu'elles montent ou descendent!
+{88337}{88376}- Papa?|- Ce n'est rien.
+{88378}{88449}Et le fait d'avoir mêlé Conrad
+{88452}{88532}à ce jeu puéril...|est inadmissible.
+{88537}{88619}- T'as fini?|- Non, j'ai pas fini!
+{88623}{88694}Je te présente mon avocat,|Samuel Sutherland.
+{88697}{88765}Vous devez discuter|tous les deux.
+{88768}{88811}On s'est déjà|rencontrés, ce matin.
+{88813}{88885}J'ai signé l'échéance|du contract Baer/Grant.
+{88887}{88963}J'ai accepté tes conditions.
+{88967}{89061}Tu avais raison.|Je pars faire du bateau.
+{89097}{89155}Déjeune avec nous.
+{89220}{89277}Tu connais ma femme, Mary Carol,
+{89281}{89344}et ma belle-fille, Kayleigh?
+{89495}{89594}Je te prie...d'accepter mes...
+{89640}{89672}..propos déplacés, euh...
+{89980}{90074}- Dois-je m'inquiéter?|- C'était un malentendu.
+{90107}{90155}Il vous ressemble.
+{90157}{90243}Si vous voyiez|leur journal télévisé du soir.
+{90249}{90273}Quoi?
+{90278}{90357}- J'ai besoin d'un service.|- Demandez.
+{90361}{90452}Renseignez-vous sur une boîte|du nom de Conso Récré Services.
+{90490}{90547}Ca fait fabricant|de raquettes de tennis.
+{90551}{90609}Va savoir!
+{90614}{90674}Je leur ai signé une décharge.
+{91039}{91085}- Qu'est-ce que c'est?|- Une déchar...
+{91141}{91223}C'est... C'est pas possible!
+{91227}{91294}- De l'encre sympathique.|- Vous plaisantez.
+{91297}{91429}Je suis le joujou|d'une bande de mioches!
+{91462}{91491}Vous allez bien?
+{91519}{91565}Rassurez-moi.
+{91629}{91703}Ne vous inquiétez pas.|Je vous l'assure.
+{91710}{91731}Bon.
+{91807}{91841}Je vous téléphonerai.
+{91871}{91915}D'accord.
+{91984}{92054}Maria, l'autre soir, hier soir.
+{92129}{92168}- Quelle était la compagnie?|- United.
+{92171}{92229}- Quoi?|- United Taxi Company.
+{92309}{92355}et la destination.
+{93052}{93074}Ilsa?
+{93116}{93150}Oh, merde!
+{93906}{93940}Je suis armé!
+{95580}{95631}Comme mon père,|je choisis le sommeil éternel.
+{95736}{95767}Espèce d'enculés!
+{95886}{95908}Ilsa?
+{95936}{95974}- Ilsa!|- M. Van Orton?
+{95979}{96029}- Ca va?|- Pourquoi?
+{96033}{96079}- Vous avez vu la maison?|- Quoi?
+{96083}{96153}On m'a cambriolé.|Verrouillez votre porte.
+{96158}{96182}Faites attention!
+{96333}{96355}Service des Urgences!
+{96358}{96444}Je voudrais la police.|J'ai été cambriolé.
+{96451}{96520}Restez en ligne|et donnez-moi votre adresse.
+{96526}{96591}2210 Broadway.|La plus grande maison de la rue.
+{96596}{96630}Vous avez dit effraction?
+{96633}{96666}Oui.
+{96671}{96716}Etes-vous sûr|qu'ils sont partis?
+{96721}{96742}Quoi?
+{96746}{96844}Etes-vous sûr|qu'il n'y a plus personne?
+{96850}{96879}Je ne...
+{96883}{96938}- Nickie!|- Monsieur, vous êtes là?
+{96943}{96977}Rendez-vous à ta voiture!
+{97251}{97299}Que s'est-il passé?
+{97325}{97397}- Conrad, où va-t-on?|- Attends.
+{97513}{97556}T'es dingue?
+{97560}{97661}On m'a déjà piégé|à l'hôtel, alors ta voiture...
+{97668}{97708}- Qui?|- CRS! Qui d'autre?
+{97777}{97835}- Tu peux m'expliquer?|- C'est trop con!
+{97841}{97915}Ils te baisent,|te baisent, te baisent!
+{97920}{97999}Tu crois que c'est fini.|Et ça repart de plus belle!
+{98003}{98044}Calme-toi. Respire.
+{98138}{98169}Ils n'arrêteront pas, Nick.
+{98173}{98250}Je leur ai donné|leur putain de fric!
+{98333}{98372}Je suis leur souffre-douleur!
+{98373}{98445}Pourquoi ils continuent|si tu as payé?
+{98448}{98531}Va savoir. Je leur ai donné|plus pour qu'ils s'arrêtent!
+{98833}{98866}C'est eux qui ont fait ça!
+{98871}{98921}- Un pneu crevé.|- T'es sûr?
+{98926}{98985}Ressaisis-toi!|On va trouver une solution.
+{98987}{99011}OK.
+{99237}{99307}Le téléphone ne marche pas.|Pas de tonalité.
+{99313}{99335}C'est vrai?
+{99337}{99416}- Tu sais changer un pneu?|- Non. Et toi?
+{99423}{99490}On devrait pas|rester à découvert.
+{99493}{99565}Déclenche le GPS.|Dans la boîte à gants.
+{100047}{100136}- Tu es avec eux.|- Quoi?
+{100142}{100188}Tu es dans le coup.
+{100270}{100311}C'est à qui?
+{100316}{100395}On les a mises|dans la voiture!
+{100397}{100490}- Tu as tout manigancé.|- Tu me les as présentés!
+{100498}{100603}Elles étaient|dans ta voiture, putain!
+{100753}{100787}Ecoute-toi parler!
+{100789}{100847}Tu ne vas pas contrôler|cette discussion!
+{100853}{100901}Pourquoi je ferais|une chose pareille?
+{100905}{100956}- Tu m'en veux!|- Arrête.
+{100958}{101006}Tu supportes pas|que je vive ma vie.
+{101008}{101041}Parle moins fort!
+{101046}{101096}T'as peur qu'on t'entende?
+{101100}{101160}Retourne|dans ta baraque de merde!
+{101165}{101198}J'appelle les flics.
+{101203}{101284}T'as peur qu'on voie|comment tu manipules les gens!
+{101286}{101320}Qu'est-ce que tu as pris?
+{101324}{101425}Désolé de ne pas avoir été|à la hauteur!
+{101431}{101458}N'importe quoi!
+{101462}{101505}Je ne serai jamais toi.|Je ne désire pas l'être!
+{101569}{101603}Tu mets ça sur mon dos.
+{101607}{101653}Bon Dieu, je suis ton frère!
+{101657}{101703}Je veux seulement t'aider.
+{101707}{101777}Ton aide, garde-la!|Ne joue pas au papa.
+{101783}{101881}Ne dis pas ça!|Est-ce que j'avais le choix?
+{103179}{103210}Quoi?
+{103211}{103283}Ton aide, garde-la!|Ne joue pas au papa.
+{103287}{103340}Est-ce que j'avais le choix?
+{103834}{103849}Taxi!
+{103849}{103858}Taxi!
+{104003}{104030}2210, Broadway.
+{104676}{104724}Il fallait tourner.
+{104764}{104812}Vous m'entendez?
+{104844}{104880}Il fallait tourner...
+{104909}{104941}Non!
+{104945}{104991}Non, non. Arrêtez-vous!
+{104995}{105031}Arrêtez-vous!
+{105114}{105148}Merci.
+{105176}{105210}Ouvrez la portière.
+{105214}{105248}Ouvrez la portière!
+{105250}{105285}Ouvrez la portière, merde!
+{105497}{105578}Ecoutez... Je...suis|un homme extrêmement riche.
+{105611}{105659}Quel que soit votre salaire...
+{105664}{105707}Je le double!
+{105809}{105833}Nom de Dieu!
+{106411}{106435}Non!
+{106881}{106970}Vous êtes barjo, ou quoi?
+{107384}{107454}C'est un jeu.
+{108476}{108509}Les voilà.
+{108621}{108654}Inspecteur,|je suis Sam Sutherland.
+{108659}{108680}Tim Foley.
+{108726}{108802}- Vous savez où on va?|- Par ici. 14ème étage.
+{109299}{109344}Selon le gérant de l'immeuble,
+{109349}{109418}cet espace|n'est pas encore loué.
+{109423}{109492}Au registre du commerce,|pas de trace
+{109498}{109561}de Conso Récré Services.
+{109563}{109620}Les plongeurs recherchent|toujours le taxi.
+{109626}{109674}Ils récupéreront|la plaque d'immatriculation.
+{109678}{109721}Avez-vous parlé à votre frère?
+{109726}{109771}Il ne m'a pas rappelé.
+{109776}{109802}Et la maison?
+{109803}{109887}Les graffitis étaient une|peinture pour marquage maritime,
+{109893}{109927}interdite aux Etats-Unis.
+{109930}{110000}Une enquête est possible|mais ce sera long.
+{110005}{110101}La photo, le revolver,|le clown, l'ambulance...
+{110107}{110141}L'analyse est en cours.
+{110145}{110210}Pour l'effraction,|c'est dans la poche.
+{110216}{110304}Dommage matériel, vandalisme,|harcèlement mais c'est tout.
+{110308}{110366}Surveillance illégale,|mise en danger...
+{110370}{110394}Tentative de meurtre.
+{110398}{110477}Mais vous les avez engagés.
+{110483}{110526}Ca n'a rien à voir.
+{110531}{110651}On vous a dit ce qu'on a.|Mais on n'a pas le mobile.
+{110880}{110940}Comment était mon père, llsa?
+{110946}{111022}- Pourquoi cette question?|- Comme ça.
+{111028}{111138}Depuis que je vous connais, vous|ne m'avez jamais parlé de lui.
+{111212}{111270}Je pensais à lui.
+{111275}{111335}Votre mère aimait|beaucoup votre père.
+{111338}{111396}Je crois qu'il travaillait trop.
+{111400}{111518}Il était...morose? Enfin...
+{111523}{111664}Je me souviens surtout|qu'il était très...discret.
+{111673}{111796}On pouvait être dans la même|pièce que lui sans le voir.
+{111802}{111905}Non, je veux parler de...|d'avant...
+{111913}{111946}Avant la tragédie? Non.
+{111950}{112000}Personne ne s'y attendait.
+{112004}{112098}Je me demande quelle part|de lui est en moi.
+{112105}{112139}Une toute petite.
+{112228}{112288}Est-ce que maman|était inquiète?
+{112292}{112350}Personne ne|s'inquiétait pour lui.
+{112442}{112475}- Oui.|- C'est Maria.
+{112480}{112537}J'ai retrouvé|l'adresse de United Taxi.
+{112542}{112583}Donnez-la-moi.
+{114079}{114110}Qui êtes-vous?
+{114154}{114195}Christine est là?
+{114199}{114231}Elle dort.
+{114235}{114281}Amy, qui est-ce?
+{114335}{114380}Que faites-vous ici?
+{114385}{114418}Je peux vous parler?
+{114447}{114468}Bien sûr.
+{114692}{114756}Je ne pensais pas vous revoir.
+{114762}{114819}Que savez-vous sur ces photos?
+{114825}{114851}C'est vous?
+{114859}{114950}- Où les avez-vous trouvées?|- Dans ma chambre d'hôtel.
+{114957}{115007}Ce n'était pas ma chambre.
+{115012}{115093}Alors ce n'est pas vous?
+{115100}{115198}Qu'est-ce qui vous fait...|croire que c'est moi?
+{115204}{115274}Le soutien-gorge rouge.
+{115354}{115388}Je croyais que...
+{115499}{115545}Je peux m'asseoir?
+{115549}{115571}Bien sûr.
+{115599}{115633}Ca va?
+{115694}{115740}Ca ne va pas, hein?
+{115744}{115833}C'est votre concours...|Il continue ou...
+{115870}{115928}Je vous embête. Je m'en vais.
+{115932}{116021}Non, on peut parler.|Je vais m'habiller.
+{116170}{116218}Vous avez de l'aspirine?
+{118859}{118940}- Quelque chose pour l'avaler?|- C'est vous?
+{118979}{119036}Ouais. Ma 1ère communion.
+{119079}{119160}- Montrez-la-moi.|- Qu'y a-t-il?.
+{119165}{119242}Sortez la photo|et montrez-la-moi.
+{119249}{119280}D'accord.
+{119351}{119382}Ils regardent.
+{119386}{119408}Quoi?
+{119410}{119470}Pas ici. On peut nous voir.
+{119477}{119553}Par le...détecteur de fumée.
+{119648}{119694}Qu'est-ce que vous dites?
+{119698}{119768}Vous voulez faire|une balade en voiture?
+{119774}{119868}Non. J'en ai ras-le-bol|de cette histoire.
+{119874}{119905}Allons prendre un verre...
+{119910}{120003}Pour qui vous prenez-vous?
+{120009}{120043}- Sortez de là!|- Nicholas, je vous en prie.
+{120045}{120117}Allez. Sortez immédiatement!
+{120319}{120362}Bravo.
+{120789}{120841}- Merde!|- Ils vont faire quoi?
+{120847}{120880}Eloignez-vous de la fenêtre.
+{121583}{121617}Qu'est-ce...?
+{121848}{121930}- C'est quoi?|- Une arnaque à la con!
+{122903}{122948}Montez.
+{123478}{123522}Ca va? Cramponnez-vous.
+{124063}{124097}Descendez de voiture.
+{124099}{124133}J'aurais pu vous balancer...
+{124137}{124171}Descendez de cette voiture!
+{124175}{124283}Personne d'autre peut vous|expliquer ce qui se passe.
+{124658}{124752}Vous voulez savoir?|Sans moi, vous ne saurez jamais.
+{125040}{125133}Ils canardent sans savoir|si c'est la bonne adresse!
+{125140}{125197}- Qui ça "ils" ?|- Je suis une employée.
+{125203}{125251}- Vous êtes bonne à quoi?|- Je sais des choses.
+{125255}{125303}- Votre frère est de mèche.|- Vous mentez.
+{125307}{125363}J'étais serveuse|le jour de votre anniversaire.
+{125367}{125413}Connie vous a parlé de CRS.
+{125418}{125463}Vous ne m'avez jamais remarquée?
+{125468}{125561}C'était pas sa faute.|Il pensait s'en tirer.
+{125640}{125710}La même chose qu'à vous.
+{125715}{125785}- Que racontez-vous?|- Vous avez vérifié vos comptes?
+{125790}{125872}Dans votre bureau, j'ai noté|le No de votre modem privé.
+{125877}{125935}CRS a eu accès|à votre ordinateur.
+{125940}{126005}- Vous avez fourni le reste.|- Quand?
+{126010}{126080}En faisant leur test.|Votre écriture, info-psy.
+{126085}{126155}Ils s'en sont servi|pour trouver vos mots de passe.
+{126160}{126230}Et Feingold...|Le type qui vous a inscrit...
+{126235}{126292}..a tiré cinq ans|pour piratage de banque.
+{126298}{126406}En détournant votre attention,|ils ont vidé vos comptes.
+{126412}{126446}Service international, svp.
+{126450}{126520}Sinon, pourquoi nous canarder?
+{126524}{126598}Allgmeine Bank,|Zurich, Suisse.
+{126605}{126698}Ils en ont fini avec vous.
+{126705}{126822}Mort ou vivant, c'est pareil.|Vous devez disparaître.
+{126831}{126852}Guten Tag.
+{126855}{126886}Englisch, bitte.
+{126890}{126943}Ja. Votre passeport, svp?
+{126947}{127005}Oui. Bleu, 2, barre oblique.
+{127009}{127079}9, 6, 9, 0.
+{127085}{127119}"D" comme David.
+{127147}{127171}C'est ça.
+{127175}{127202}Le solde?
+{127320}{127419}- Ce n'est pas possible.|- Ils l'ont déjà.
+{127425}{127459}Ils ont tout.
+{127620}{127690}Vous êtes chez les Sutherland.|Laissez votre message.
+{127694}{127771}J'ai tout vérifié, Sam.
+{127777}{127859}J'ignore comment, mais|ils ont liquidé mes comptes.
+{127865}{127947}Ils veulent me tuer.|Prévenez les flics.
+{127951}{128033}J'en tiens déjà une.|On va la prendre comme témoin.
+{128039}{128156}Appelez-moi sur mon portable.
+{128165}{128210}Et soyez prudent.
+{129317}{129372}Deux sucres, non?
+{129377}{129415}Tant pis.
+{129574}{129636}Je ne m'appelle pas Christine.|Ce n'est pas mon vrai nom.
+{129642}{129690}Je m'en fous.
+{129694}{129793}Ce n'est jamais que du fric.|Soyez heureux d'être en vie.
+{129799}{129868}Je préfère ne pas en parler.
+{129874}{129931}Enfin, un type comme vous...
+{129937}{129990}Vous en avez fait combien?
+{129994}{130087}- Quoi?|- Des arnaques. Combien?
+{130094}{130115}Un paquet.
+{130119}{130196}Avant, c'était|des petits coups minables,
+{130200}{130252}Ià, il ne s'agit pas que de moi.
+{130254}{130338}Ce sont des fonds de retraites,|des salaires...
+{130345}{130405}Y'en a|pour 600 millions de dollars!
+{130721}{130749}Oui?
+{130754}{130799}C'est Sam.|J'ai eu votre message.
+{130804}{130861}Ca m'a alarmé, pour le moins.
+{130866}{130899}Qu'allons-nous faire?
+{130904}{130973}J'ai passé|une heure au téléphone.
+{130980}{131059}Vos fonds sont intacts.|On n'a touché à rien.
+{131063}{131109}J'ai vérifié moi-même.
+{131113}{131183}- Qui est-ce?|- J'ai téléphoné!
+{131189}{131211}Rien n'a changé.
+{131213}{131290}Il ne manque pas un centime.
+{131296}{131332}Qui est-ce?
+{131334}{131394}Mon avocat.|Il dit qu'il ne manque rien.
+{131398}{131439}Il est dans le coup.
+{131444}{131513}J'y comprends rien|mais ne bougez pas...
+{131520}{131553}Sutherland est dans le coup.
+{131555}{131666}J'ai un autre appel.|Dites-moi où vous êtes.
+{131804}{131849}Nous devons décamper d'ici.
+{131995}{132065}Comment ils l'ont eu?
+{132071}{132107}Pourquoi ai-je...?
+{132149}{132189}Ne vous en faites pas.
+{132333}{132376}Comment ça?
+{132404}{132459}Vous n'y pouvez rien.
+{132993}{133039}On peut intercepter|un portable.
+{133079}{133124}Tous vos appels?
+{133129}{133174}A la Banque d'Angleterre,|de France, de Suisse...
+{133213}{133283}..vous nous parliez.
+{133288}{133334}Remplissez les cases vides...
+{133338}{133379}Codes d'accès, mots de passe...
+{133383}{133489}Votre avocat|ne savait pas tout...
+{133496}{133542}On a tout, on a terminé.
+{133873}{133899}Salut, Nicholas.
+{137150}{137251}L'ambassade américaine?
+{137255}{137315}- Par ici, ouais?|- Merci.
+{137380}{137464}J'ai des ennuis.|Et c'est important.
+{137543}{137631}Pas d'argent, ni papiers|d'identité, ni passeport.
+{137688}{137721}Que vous est-il arrivé?
+{137725}{137830}Par où commencer?
+{137838}{137900}- C'est compliqué.|- Ca l'est toujours.
+{138010}{138140}J'étais en vacances, seul,|et deux types m'ont volé...
+{138148}{138196}Volé?
+{138200}{138258}Vous êtes à quel hôtel?.
+{138262}{138341}Je ne me souviens pas.
+{138348}{138401}Vous avez prévenu la police?
+{138441}{138520}Je ne parle pas espagnol.
+{138536}{138624}Il me faut juste|de quoi repartir.
+{138631}{138705}On peut vous aider|avec la police, si vous y tenez.
+{138797}{138843}Vous avez dit|qu'on vous a agressé?
+{138847}{138917}Vous avez toujours votre montre?
+{138985}{139031}Elle vaut combien?
+{139035}{139064}200, au moins...
+{139135}{139185}Pour tes 18 ans.|La montre de ton père. Maman.
+{139190}{139214}Avec une montre pareille,
+{139215}{139303}on a rarement|des problèmes de passeport.
+{141324}{141363}Excusez-moi...
+{141367}{141427}Votre attention, svp?
+{141539}{141577}Merci.
+{141599}{141685}Est-ce que quelqu'un|va à San Francisco?
+{141760}{141805}J'ai 18 dollars et...
+{141810}{141867}..70...78 centimes.
+{141900}{141953}Pour aller à San Francisco.
+{142090}{142128}Personne?
+{144702}{144757}- Gardez la monnaie.|- Merci.
+{144843}{144920}Conrad Van Orton.|Appelez-le dans sa chambre.
+{144941}{144981}Un instant, je vous prie.
+{145074}{145122}Y'a un problème?
+{145124}{145172}C'est pour Conrad Van Orton?
+{145176}{145231}- Je suis le directeur.|- Où est mon frère?
+{145264}{145326}Suivez-moi, je vous prie.
+{145331}{145374}Il a des ennuis?
+{145378}{145450}Ceci ne concerne que vous.
+{145697}{145771}Des clients se sont plaints.
+{145773}{145809}Il a endommagé le mobilier.
+{145813}{145878}Nous avons essayer|de le maîtriser.
+{145883}{145916}Le maîtriser?
+{145918}{145997}Il y a eu un...incident|il y a quelques jours.
+{146021}{146066}Une dépression nerveuse.
+{146070}{146116}La police l'a emmené.
+{146120}{146192}Elle a laissé cette adresse.
+{146199}{146247}C'est un hôpital de Napa.
+{146289}{146325}Je suis vraiment navré.
+{146729}{146806}Elizabeth, j'ai besoin|d'emprunter ta voiture.
+{146821}{146919}Nickie, que t'est-il arrivé?
+{146958}{146989}Mais regarde-toi!
+{146993}{147039}Ce qui s'est passé?|J'en sais rien.
+{147043}{147098}Je... J'ai besoin de ta voiture.
+{147126}{147184}Bien sûr, prends-la.
+{147213}{147276}Tu veux manger quelque chose?
+{147436}{147476}Tous les autres...
+{147478}{147567}Si Sam Sutherland appelle,|ne lui parle de rien.
+{147573}{147641}Quoi qu'il arrive|avec ces gens ...
+{147648}{147715}Un café, un muffin,
+{147718}{147759}et votre eau.
+{147780}{147850}Cette bouteille est ouverte.|Qui l'a ouverte?
+{147855}{147889}Moi-même.
+{147893}{147944}Je veux une bouteille bouchée.
+{147948}{148020}Pas de glaçon. Juste le verre.
+{148025}{148061}S'il vous plaît.
+{148238}{148317}J'ignore de quoi tu parles.
+{148323}{148373}Je suis désolé, Liz. Désolé.
+{148423}{148542}J'ai bien réfléchi|ces deux derniers jours.
+{148550}{148600}J'ai eu...du temps libre.
+{148653}{148708}Et je voulais te dire que...
+{148747}{148812}Je comprends|pourquoi tu m'as quitté.
+{148818}{148900}Je t'en voulais.
+{149028}{149081}Pardonne-moi.
+{149109}{149207}Pour t'avoir ignorée|et pour t'avoir délaissée.
+{149213}{149268}J'espère que tu me pardonneras.
+{149273}{149342}Vous êtes fatigué.|Deux jours sans vous arrêter!
+{149348}{149391}Il n'y a rien à pardonner.
+{149395}{149438}Et la douleur s'installe.
+{149443}{149486}La migraine vous envahit.
+{149489}{149547}Vous connaissez ce problème?
+{149553}{149594}Voici enfin la solution.
+{149598}{149654}Non! Salauds!
+{149658}{149704}Taggarene. Depuis presque 10 ans
+{149708}{149742}Ies médecins le prescrivent...
+{149746}{149792}Comment vous m'avez retrouvé?
+{149867}{149930}contre maux de tête, de dents,|douleurs musculaires...
+{149934}{149968}C'est un comédien.
+{149972}{150018}Si vous croyez|en votre médecin,
+{150022}{150056}croyez en Taggarene.
+{150083}{150128}C'est un acteur de télé.
+{150183}{150233}Je t'expliquerai un jour.
+{150257}{150298}Je prends les Pages Jaunes.
+{150870}{150925}New Moon Café...
+{150930}{150971}Le meilleur de Chinatown.
+{150997}{151031}Tire-toi de la voiture, connard!
+{151035}{151076}Ouvre la portière|et n'arrête pas le moteur.
+{151080}{151114}Vous faites erreur.
+{151117}{151151}Descends de la voiture, bordel!
+{151152}{151197}Descends, nom d'un chien!
+{151202}{151286}Je suis au bout du rouleau.
+{151532}{151578}New Moon...Café...
+{151623}{151656}Il fait de la pub...
+{151660}{151705}Vous savez combien|j'ai de clients?
+{151709}{151767}- Des centaines, des milliers.|- Il est venu ici.
+{151772}{151842}Il est allé|au 1019 Montgomery Street.
+{151847}{151903}Y a-t-il quelqu'un|qui peut m'aider?
+{151907}{151940}C'est un acteur,
+{151945}{152029}comme les gens sur ces photos...
+{152278}{152323}Vous prenez ma photo?
+{152378}{152435}On espérait pouvoir|l'auditionner aujourd'hui.
+{152440}{152485}Il est parfait pour ce rôle.
+{152490}{152547}Ca va lui briser le coeur.
+{152551}{152609}Peut-on le contacter?
+{152614}{152660}Son bip est sur la table.
+{152664}{152710}Il a emmené les mômes au zoo.
+{152715}{152818}- C'est gentil. Quel zoo?|- Celui qui a un tigre blanc.
+{152913}{152997}Lionel Fisher,|j'admire votre travail.
+{153165}{153196}Débarrassez-vous d'eux.
+{153199}{153267}Les mômes,|c'est l'heure du goûter.
+{153272}{153318}Tenez... Allez filez.
+{153358}{153444}Ecoutez...|C'était mon boulot.
+{153450}{153481}Je n'y suis pour rien.
+{153484}{153544}J'ai joué mon rôle,|j'ai un peu improvisé.
+{153550}{153596}Je suis doué pour ça.
+{153600}{153658}Je veux parler au chef.
+{153662}{153688}Personne ne le connaît.
+{153693}{153746}On est au courant de rien.
+{153750}{153798}Tammy, Alex! Ca suffit.
+{153802}{153841}Le bureau est vide.
+{153855}{153919}Je dois les retrouver.
+{153993}{154062}Ecoutez...|Tout l'immeuble est à eux.
+{154066}{154129}Ils vont d'étage en étage.
+{154134}{154204}Tu travailles pour eux, non?|Fais-moi entrer.
+{154209}{154267}- Je ne peux pas.|- Mais si.
+{154271}{154312}Dis-leur que la police a appelé.
+{154316}{154350}Tu dois parler avec quelqu'un.
+{154354}{154412}Je vais les balancer.
+{154416}{154462}Vous êtes fou!
+{154466}{154500}C'est très dangereux.
+{154566}{154626}Tu ne piges pas bien.
+{154672}{154698}En ce moment...
+{154732}{154814}Je suis...|extrêmement ...dangereux.
+{154909}{154943}Michael, les mômes...
+{154946}{154980}On s'en va.
+{155232}{155272}On y est.
+{155277}{155306}Entre.
+{155454}{155500}Qu'allez-vous faire?
+{155504}{155547}Vous ne serez pas remboursé.
+{155549}{155583}Je me fiche de l'argent.
+{155586}{155644}Je lève le voile.
+{155649}{155695}Je veux rencontrer|le Grand Chef.
+{155844}{155887}Il nous regarde|d'un sale oeil.
+{155889}{155952}Gare-toi ici,|on ne te verra pas.
+{156484}{156522}Merde! Restez caché.
+{156667}{156708}Vous n'avez pas|le droit d'être ici.
+{156712}{156755}On m'a dit de revenir.
+{156800}{156832}Il est avec moi.
+{156893}{156927}Je ne vous suis plus utile.
+{156929}{156962}La ferme!
+{156991}{157024}Entre.
+{157029}{157072}Attache-le à la barre.
+{157221}{157250}Quel étage?
+{157699}{157781}Vous êtes baisés!|On va me chercher.
+{157811}{157861}- Où?|- On m'a engagé par téléphone.
+{157866}{157899}Où recevais-tu tes chèques?
+{157904}{157961}- Je ne sais pas.|- Essaie de deviner.
+{157966}{157999}Je sais pas. Par là.
+{158004}{158037}J'en sais rien.
+{158861}{158902}Je vais lui faire une surprise.
+{159376}{159402}Oh, putain!
+{159451}{159496}Que faites-vous ici?
+{159526}{159559}J'ai ressuscité.
+{159793}{159863}Nicholas,|vous n'allez tuer personne.
+{159868}{159902}Demi-tour!
+{160113}{160159}Vous allez me suivre.
+{160163}{160202}A plat ventre!
+{160726}{160759}Où est-ce qu'on va?
+{160853}{160875}Fermé!
+{160983}{161007}Arrêtez!
+{161218}{161278}A quoi vous jouez?
+{161282}{161316}A vous de me le dire.
+{161318}{161414}Qui est le chef?|Qui m'a fait ce coup?
+{161420}{161507}C'est pas croyable?|Vous allez être dupe longtemps?
+{161513}{161551}On n'avait rien contre vous.
+{161627}{161658}Prenez la radio.
+{161663}{161718}Appelez votre patron.|Ou je plombe quelqu'un.
+{161722}{161766}Personne ne viendra.
+{161768}{161823}Si. Que quelqu'un monte
+{161827}{161861}sinon je vous descends.
+{161863}{161896}Ils me laisseront crever.
+{161901}{161961}Vous êtes en mesure|de menacer personne.
+{161965}{162027}- D'où sortez-vous ça?|- Quoi?
+{162033}{162105}Ce flingue... Ce...|C'est pas un automatique.
+{162110}{162156}C'est quoi ces conneries?
+{162158}{162191}Le garde avait un automatique!
+{162196}{162231}C'est le mien.
+{162232}{162266}On a fouillé la maison.
+{162270}{162321}Pas entièrement, on dirait.
+{162325}{162373}Il a un vrai flingue.
+{162378}{162411}Qu'est-ce vous faites?
+{162412}{162458}C'est un faux.|Ca fait partie du jeu.
+{162462}{162517}- Ne commencez pas!|- Ecoutez-moi!
+{162523}{162556}Ne me poussez-pas à bout!
+{162560}{162600}- C'est le jeu.|- Foutaises!
+{162602}{162674}Ils ont tué ce type|Feingold, Fisher.
+{162677}{162737}- Qu'avez-vous vu?|- Je les ai vus le tuer!
+{162743}{162793}Qu'avez-vous vraiment vu?
+{162797}{162864}Des effets spéciaux...|Comme au cinéma!
+{162903}{162937}Nicholas, écoutez...
+{162938}{162986}J'ai un vrai flingue|avec de vraies balles!
+{162990}{163031}Je le pose!
+{163075}{163147}Feingold, M. Fisher|est derrière la porte.
+{163153}{163210}- C'est un acteur.|- Vous voulez me tuer.
+{163212}{163246}Posez le revolver.
+{163250}{163308}Vous faites une grosse erreur.
+{163312}{163346}Je ne travaille pas sans filet.
+{163350}{163384}Pour le taxi,|on avait un plongeur.
+{163387}{163421}Ils ont tiré à blanc.
+{163425}{163495}- C'est faux.|- Vous nous avez payés pour ça.
+{163500}{163558}On nous attend derrière|cette porte avec du champagne.
+{163614}{163655}Svp, nom de Dieu! Conrad!
+{163660}{163683}Conrad est là!
+{163688}{163733}C'est votre fête d'anniversaire.
+{163738}{163771}Arrêtez de mentir!
+{163838}{163874}Je vais vous montrer.
+{163902}{163936}Ne bougez pas.
+{163970}{164039}Il est armé! Reculez!
+{164370}{164404}Vous l'avez tué.
+{164607}{164646}Appelez une ambulance!
+{165158}{165186}Il est mort.
+{165286}{165330}On croyait que vous le saviez.
+{165436}{165513}Comment en êtes-vous arrivé là?
+{165517}{165572}Il...il ne m'a pas écoutée.
+{165667}{165736}On l'a pourtant répété souvent.
+{165832}{165878}C'est votre responsabilité.
+{165914}{165998}On ne se laisse pas|dépasser par le marché.
+{166057}{166090}Je suis désolée.
+{166166}{166212}J'avais un talkie-walkie!
+{166216}{166262}J'avais un talkie-walkie!
+{166329}{166363}On est bons pour la prison.
+{166367}{166441}A vie!
+{166697}{166721}Oh, mon Dieu!
+{167604}{167673}Il a atterri sur le matelas.
+{167680}{167745}Au milieu de la cible.
+{167749}{167811}Soyez prêts à porter secours.
+{167817}{167855}Tout le monde à l'écart
+{167859}{167928}tant qu'il y a|des débris de verre.
+{167934}{167992}M. Van Orton,|n'ouvrez pas les yeux.
+{167996}{168071}C'est du Sécurit mais ça coupe.
+{168077}{168135}On va vous ausculter.
+{168137}{168175}Je vais prendre votre pouls.
+{168301}{168334}Allez-y doucement.
+{168336}{168368}C'était une sacrée chute!
+{168517}{168589}Descente par l'ascenseur nord.
+{168591}{168663}Je répète...descente|par l'ascenseur nord.
+{169129}{169164}Joyeux anniversaire, Nickie.
+{169300}{169369}Drogué, laissé|pour mort à Mexico.
+{169373}{169448}Et je n'ai eu|que ce Tee-shirt ridicule.
+{169476}{169509}Qu'est-ce que c'est?
+{169511}{169555}Ton cadeau.
+{170033}{170072}Il fallait que j'agisse.
+{170076}{170134}Tu devenais tellement con.
+{170406}{170475}Mesdames et messieurs...|Mon frère, Nicholas Van Orton.
+{171096}{171142}Vous êtes cordialement invité
+{171146}{171223}au 48 ème anniversaire|de Nicholas Van Orton...
+{171326}{171398}Incroyable!|Je tenais à vous le dire.
+{171401}{171458}- Un saut superbe.|- Le meilleur de tous.
+{171501}{171558}Heureusement que vous avez sauté
+{171563}{171604}sinon je vous aurais poussé!
+{171608}{171630}Merci.
+{171634}{171667}On doit rentrer.
+{171671}{171716}Je te dis au revoir.
+{171748}{171815}Rachel... Fais de beaux rêves.
+{171863}{171896}Mel, merci d'être venus.
+{171900}{171934}Désolé pour la voiture.
+{171936}{172008}Je...crois l'avoir|laissée au zoo.
+{172010}{172039}Pas de problème.
+{172193}{172227}Joyeux anniversaire, Nicholas.
+{172291}{172343}Je t'appelle. Promis!
+{172714}{172788}Je n'y connais pas grand chose,
+{172792}{172886}mais...ton choix de champagne|est impeccable, comme toujours.
+{172892}{172933}Belle entrée.
+{172937}{173014}Anson, à propos de|ce qui s'est passé...
+{173021}{173054}Non, je t'en prie.
+{173056}{173128}Je n'ai jamais été|aussi heureux.
+{173130}{173166}Je te remercie.
+{173170}{173216}Et ma femme aussi.
+{173256}{173290}Merci d'être venus.
+{173318}{173351}Merci, Sam.
+{173423}{173449}C'est quoi?
+{173453}{173489}C'est...
+{173523}{173549}L'addition!
+{173588}{173621}L'addition?
+{173625}{173658}Gardez le stylo.
+{173710}{173732}Merci.
+{173735}{173759}A tous les deux.
+{173923}{173957}On partage?
+{173960}{174030}Oui, avec plaisir.
+{174062}{174094}Mon Dieu!
+{174205}{174239}Merci, Connie.
+{174343}{174389}Et cette...
+{174393}{174438}..serveuse?|Comment elle s'appelait?
+{174443}{174484}Christine?
+{174488}{174548}Elle a parlé de prendre l'avion.
+{174553}{174623}Je l'ai vue héler un taxi.
+{175167}{175237}Je n'ai pas pu|vous dire au revoir.
+{175243}{175277}Merci...
+{175280}{175352}Je vous ai demandé votre nom?
+{175355}{175379}Non.
+{175405}{175453}C'est...Claire.
+{175455}{175541}Vous prenez l'avion...
+{175548}{175617}J'ai décroché|un petit rôle en Australie.
+{175623}{175663}Vous allez tondre|un mouton de plus?
+{175664}{175746}- De la figuration.|- A votre retour...
+{175818}{175875}..on pourrait dîner ensemble.
+{175880}{175938}Vous ignorez tout de moi.
+{175971}{176007}Non.
+{176009}{176055}Alors dites-moi.
+{176059}{176105}- Quoi...?|- D'où vous êtes.
+{176145}{176176}Mes origines?
+{176180}{176211}Oklahoma.
+{176240}{176261}Colorado.
+{176340}{176409}Je fais ce métier|depuis trop longtemps.
+{176470}{176504}Vous savez...
+{176563}{176597}Vous voulez prendre...
+{176600}{176670}..un café avec moi à l'aéroport?

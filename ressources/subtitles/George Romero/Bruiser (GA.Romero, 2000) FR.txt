@@ -1,0 +1,1167 @@
+{760}{823}- Qu'est-ce qui vous arrive ?|- J'ai un projet
+{828}{868}- Lequel ?|- Le suicide
+{970}{993}J'ai un revolver
+{1005}{1028}Chargé ?
+{1090}{1128}Je regrette mais...
+{1133}{1198}je peux pas|prendre ça au sérieux,
+{1205}{1278}j'ai trop d'appels de dingues...
+{1353}{1420}Chacun son truc.|Je prends un autre appel.
+{1435}{1493}- Je suis là|- Comment ça va ?
+{1498}{1540}Vous en avez rien à foutre,
+{1545}{1583}je suis un homme ordinaire.
+{1588}{1698}Payé un million de dollars|pour donner son avis !
+{1703}{1758}Je ne suis pas payé pour ça
+{1763}{1830}mais pour instaurer le dialogue.
+{1835}{1890}C'est ce que j'essaye de faire,
+{1895}{1948}je ne veux pas que vous vous suicidiez.
+{1953}{1993}Mon vieux est mort.
+{2000}{2055}- Condoléances.|- Il m'a légué sa maison.
+{2080}{2138}C'est toute sa vie cette maison.
+{2175}{2230}Et le résultat ?
+{2240}{2280}Impôt par-ci, impôt par-là.
+{2290}{2348}Impôt pour|m'apprendre à être vivant.
+{2358}{2398}J'ai perdu la maison.
+{2403}{2458}Saisie et vendue.
+{2465}{2563}On travaille toute sa vie,|on fait tout comme il faut
+{2568}{2623}et on laisse rien à son fils.
+{2640}{2680}On est effacé.
+{2705}{2773}Tout le monde a des malheurs.
+{2780}{2865}On trime toute sa vie|et il ne reste rien.
+{2870}{2923}Pourquoi se donner du mal ?
+{2930}{3005}Comme si on n'avait jamais existé !
+{3010}{3063}Vous existez vous, son fils.
+{3070}{3140}Il ne voudrait pas votre suicide.
+{3250}{3313}On va faire une pause sur 66 FM.
+{3318}{3353}A tout de suite.
+{3673}{3700}Janine ?
+{3865}{3905}Ce que tu es...
+{4263}{4308}Merde, déjà le matin ?
+{4313}{4348}Je t'ai réveillée.
+{4353}{4398}Ferme les rideaux.
+{4543}{4570}Rendors-toi.
+{4575}{4635}Je rentrerai...|comme d'habitude.
+{4680}{4733}On est censés aller à ce truc.
+{4738}{4753}Quel truc ?
+{4770}{4800}Le barbecue.
+{4820}{4875}C'est ton patron, Henry !
+{4895}{4948}Il y a encore de la lumière.
+{4970}{5013}Ah oui. J'éteins.
+{5270}{5310}C'est dingue.
+{5315}{5403}Un type vient de se suicider|en direct à la radio.
+{5420}{5443}Chacun son truc.
+{5485}{5498}Merde !
+{5505}{5568}Je suis réveillée.
+{6368}{6450}C'est pour les gens,|pas les souris.
+{6630}{6680}Elle a appris toute seule.
+{6685}{6748}C'est mignon.|Tu veux bien l'appeler ?
+{6778}{6828}T'as qu'à le débrancher
+{7173}{7235}Tu veux bien l'appeler|s'il te plaît ?
+{8158}{8193}Pourquoi marcher|quand on peut voler ?
+{8200}{8263}- C'est quoi ça ?|- Ma nouvelle monture, grimpe.
+{8275}{8378}Si je baisais ma Merce|je vivrais dans mon garage.
+{8390}{8463}- Qu'est-ce que t'en dis ?|- Elle est bandante.
+{8470}{8515}- Je te montre ?|- Je peux dire non ?
+{8520}{8538}Tu peux pas !
+{8668}{8688}Ralentis !
+{9025}{9088}Mon rêve. Elle m'a coûté un paquet
+{9093}{9168}mais ça valait le coup.|Je ne regrette pas mon fric.
+{9198}{9250}- J'ai largué Consolidated|- Westerman ?
+{9268}{9333}Vendu mais à perte.
+{9338}{9413}Graves a gagné 1/8ème|mais t'avais acheté cher
+{9418}{9488}malgré mes conseils.|Tu gagnes sur Stimper.
+{9493}{9523}Bref, combien j'aurai ?
+{9528}{9575}C'est sur ton compte. 12000.
+{9580}{9610}Douze ?
+{9615}{9660}Le marché est malade
+{9665}{9705}Quand même, j'espérais...
+{9743}{9788}C'est bien ma veine, j'espérais...
+{9793}{9840}A t'entendre, je t'arnaque.
+{9845}{9933}C'est pas ça.|J'espérais plus.
+{9960}{10048}J'espère toujours plus.|C'est à cause de la maison.
+{10065}{10148}Je fais des heures sup|pour finir de la payer.
+{10153}{10193}T'as tes relevés tous les mois.
+{10200}{10260}Je regarde de loin.|Les finances c'est Janine.
+{10265}{10358}Mauvaise idée. Faut pas mélanger|l'argent et les sentiments.
+{10363}{10383}Arrête.
+{10388}{10438}Je peux bien me fier|à mon plus vieil ami.
+{10535}{10580}12 heures 30 au club.
+{10585}{10640}Appelle Machine, là, ma secrétaire.
+{10645}{10688}C'est ça, Betty, vois avec elle.
+{11015}{11045}Vous êtes fou.
+{11678}{11710}Bonjour Rita.
+{11875}{11918}Vous écoutez|Larry Case à la radio ?
+{11923}{12000}Frank m'a dit qu'un abruti|s'était flingué.
+{12005}{12053}Enfin, chacun son truc.
+{12253}{12303}- Vous avez entendu...|- T'as regardé Elsa ?
+{12308}{12348}La collection Deevers ?
+{12353}{12450}Rip a rien trouvé de mieux|que de se faire greffer des seins.
+{12455}{12528}J'ai une copine qui le connaît.|Elle dit qu'il voulait voir
+{12535}{12603}comment ses fringues|tombaient sur des seins.
+{12658}{12708}- Café ?|- Et comment !
+{12730}{12763}Rosemary,|qu'est-ce que tu fais là ?
+{12768}{12843}La couverture de septembre.|Milo m'a demandé de l'aider.
+{12848}{12903}- J'aime bien celle-là|- Et toi ?
+{12908}{12953}Je pense que Milo|prendra celle-là.
+{12983}{13018}N° 7. Mon porte-bonheur
+{13023}{13100}- Tu ne l'as même pas vue.|- Ton choix est le mien.
+{13105}{13133}C'est pas mon choix...
+{13138}{13200}Buongiorno, bande de brutes.
+{13263}{13293}Bon, écoutez bien.
+{13463}{13495}- Brutes !|- Brutes !
+{13520}{13623}On allonge 300000 dollars|pour une tronche
+{13650}{13705}parce qu'elle est à la mode.
+{13715}{13753}C'est dément, non ?
+{13760}{13853}Nous on est à la mode.|On fait la mode.
+{13865}{13910}A compter d'aujourd'hui
+{13935}{13985}la couv c'est Rosie.
+{14050}{14115}Je ne serai pas en couverture.
+{14120}{14205}Tu devrais, ils en baveraient tous !
+{14263}{14308}T'es numéro un de la photo.
+{14313}{14383}Trouve-moi des tronches|dans la rue
+{14390}{14455}qui seront à moi,|que j'achèterai
+{14473}{14498}pour rien.
+{14508}{14590}Je n'ai jamais vu|aucune de ces gonzesses.
+{14598}{14638}Mais dans une minute
+{14643}{14723}j'aurai choisi|la couverture de septembre.
+{14730}{14775}L'instinct, vous connaissez ?
+{14805}{14870}Les pois chiches que vous avez|entre les jambes
+{14883}{14928}c'est des couilles !
+{14973}{15030}Vous ne savez plus|à quoi ça ressemble ?
+{15120}{15208}Alors si vous n'avez rien|dans le caleçon
+{15213}{15253}restez chez vous.
+{15258}{15315}Mais si vous avez|une paire de maracas
+{15320}{15373}amenez-vous, on va danser !
+{15378}{15470}Tu parles ! Si t'as des couilles,|ici c'est la porte.
+{15480}{15520}En piste pour le rock'n'roll.
+{15543}{15593}Dix candidates. De un à dix.
+{15600}{15653}Vous choisissez laquelle ?
+{15658}{15703}- N° 7|- Qui a dit ça ?
+{15708}{15735}Moi monsieur
+{15773}{15860}Henry vote pour le n° 7.
+{15870}{15920}- Qui d'autre ?|- Numéro 2.
+{15935}{15963}Numéro 10.
+{15970}{16003}Ça ne peut-être que la 10.
+{16010}{16053}Tu as vu ses dents ?
+{16058}{16085}Moches les dents.
+{16123}{16158}Pas question.
+{16163}{16258}On l'a vue mille fois|cette tronche-là, non ?
+{16265}{16343}C'est du réchauffé.
+{16350}{16410}Il nous reste la 7 et la 9.|J'attends.
+{16415}{16448}Je garde le n° 7.
+{16453}{16500}Henry maintient le n° 7.
+{16535}{16608}Je l'admire|et c'est parce que je l'admire
+{16613}{16703}que je peux être honnête.|T'as un goût de chiotte.
+{16785}{16865}Le n° 7 c'est de la merde.
+{16885}{16928}Tu la veux ? Je te la laisse.
+{16933}{17013}Voilà ce que j'appelle|la beauté brute.
+{17090}{17143}Tu es parfaite.
+{17173}{17235}Rosie, c'est une Chinetoque|ou une Jap ?
+{17240}{17290}Une Américaine.|Née ici.
+{17295}{17363}Père coréen,|mère portoricaine.
+{17368}{17383}Dominicaine.
+{17388}{17423}Une Espingouine !
+{17430}{17495}Mi-latino, mi...
+{17500}{17540}Jap. Japingouine !
+{17555}{17610}Ou Nippogouine, je m'en branle !
+{17615}{17695}La couv à laquelle|toutes voudront ressembler.
+{17700}{17765}Tête de gondole|à la quinzaine du blanc.
+{17805}{17845}Joli boulot Rosie.
+{17850}{17900}Et rappelez-vous brutes.
+{17928}{17973}La mode c'est nous.
+{18255}{18308}- Mettez-vous ça dans le crâne|- Et ça dans le cul.
+{18370}{18403}Ça m'a pas porté bonheur.
+{18408}{18485}J'étais sûre qu'il la prendrait.|C'est son genre.
+{18490}{18525}C'était ton choix.
+{18530}{18603}Non, j'ai dit que|ce serait celui de Milo.
+{18633}{18693}Tu as choisi à cause de moi.|Tu es si gentil.
+{18700}{18750}Tu es bien le seul ici.
+{18765}{18813}- Milo est...|- Le patron.
+{18820}{18868}- Les patrons sont...|- Des cons.
+{18885}{18960}- Ont certains droits|- Milo les prend tous.
+{18965}{19013}Il n'a pas toujours été comme ça.
+{19018}{19063}Non, avant il était communiste.
+{19068}{19130}C'était un réfugié, bordel !
+{19140}{19233}Il a été bien avec moi.|Je lui dois ma carrière.
+{19240}{19283}Je ne peux pas l'oublier.
+{19305}{19350}Il faut que tu saches...
+{19355}{19393}Creedlow !
+{19413}{19468}Tu viens oui ou merde !
+{19473}{19535}Tu vois, t'es bien le seul.
+{19540}{19600}T'es une amie... ma seule vraie...
+{19648}{19680}Je sais.
+{19688}{19768}Tu sais rien du tout,|toi et moi on...
+{19825}{19878}Gueule de raie t'appelle.
+{19945}{20023}Qu'est-ce que t'as ?|T'es sourd ?
+{20060}{20100}La fête s'annonce bien ?
+{20118}{20155}Le barbecue...
+{20160}{20233}Pourquoi je te parlerais|de mon barbecue ?
+{20240}{20278}Le bal masqué.
+{20283}{20353}Bravo Henry.|C'est bien ça.
+{20378}{20408}Tout est d'équerre ?
+{20448}{20553}Attractions, bouffe, laser,|grand-guignol, tout baigne ?
+{20558}{20618}- Ça va être chaud|- Tu seras là ?
+{20625}{20705}- J'organise tout.|- Non, au barbecue !
+{20718}{20753}Oui, j'y serai.
+{20758}{20803}Les épouses sont invitées.
+{20828}{20893}- J'amènerai la mienne.|- Au poil.
+{21050}{21108}Il est en réunion.|Un message ?
+{21115}{21160}- Qui c'est ?|- M.Wynn.
+{21165}{21205}Passez-le-moi.
+{21320}{21378}C'est au sujet de votre demande.
+{21383}{21443}Vous avez demandé une Platinum ?
+{21450}{21523}J'ai la Gold mais ma femme|n'est pas bluffée
+{21530}{21568}d'où l'idée d'une Platinum.
+{21573}{21668}La Platinum|c'est un chèque en blanc.
+{21673}{21735}Les débits ne sont pas plafonnés.
+{21743}{21808}Vos relevés sont impeccables|mais votre portefeuille
+{21815}{21853}vous l'avez surestimé.
+{21860}{21940}De quoi, 10 ou 15000 dollars ?|Le marché va remonter.
+{21945}{22000}- Nous connaissons le marché.|- Votre costume.
+{22013}{22075}Mais au vu de vos obligations
+{22080}{22160}il manque bien plus|de 10 ou 15000 dollars.
+{22210}{22245}Tant que ça ?
+{22268}{22320}J'ai dû me tromper... tant que ça ?
+{22325}{22403}Alors mon pote est assis au bar.
+{22408}{22488}Deux types entrent,|ils en portent un troisième.
+{22505}{22573}Ils le laissent là.|Le mec tombe du tabouret.
+{22625}{22668}Elle est pas vraie ?
+{22675}{22690}Non, je te jure.
+{22700}{22770}Mon pote le remet|sur le tabouret.
+{22775}{22825}Le type gueule et vlan !
+{22830}{22908}Glisse de nouveau|et se retrouve sur le cul.
+{22913}{22988}Mon pote se dit|qu'il est raide bourré.
+{22995}{23053}Il trouve son adresse|sur son permis
+{23060}{23108}et il le ramène chez lui
+{23113}{23183}Sa femme ouvre.|"Votre mari". Elle le remercie.
+{23188}{23265}Et elle lui fait|"Et son fauteuil roulant ?"
+{23325}{23405}Un fauteuil roulant !|C'est pas vrai Henry.
+{23423}{23485}Avec le fric|que je te fais gagner
+{23490}{23548}achète-toi un sens de l'humour.
+{23645}{23663}Quarante, trente.
+{23670}{23703}J'en ai une pour toi.
+{23718}{23770}Un mec se réveille, déprimé.
+{23775}{23820}Au bout du rouleau.|Il appelle...
+{23825}{23903}Larry Case !|Le mec qui s'est flingué.
+{23908}{23938}Encore un bide !
+{23943}{23983}Les médias, ça te dit rien ?
+{23988}{24048}Moi, les médias ?|Je suis dans les tronches.
+{24085}{24128}- Elle est dehors|- Non
+{24135}{24148}Trois pouces !
+{24168}{24240}Jeu, set et match.|C'est à vous.
+{24260}{24310}Pourquoi faire un truc pareil ?
+{24315}{24373}Qui n'a pas une vie de merde ?
+{24380}{24413}Personne.
+{24428}{24463}Sauf moi peut-être.
+{24478}{24518}Je n'ai pas eu la Platinum.
+{24523}{24585}Et alors ? Un thé glacé.|Prends un alcool.
+{24590}{24625}Non. Un thé glacé.
+{24630}{24725}Mon portefeuille serait insuffisant.
+{24730}{24768}C'est à se demander.
+{24793}{24878}Je comprends ça.|Tu crois qu'il y a une arnaque ?
+{24883}{24905}De qui ?
+{24920}{24970}Qui y a accès ?|C'est pas Janine.
+{24995}{25055}Un bug d'ordinateur ?|Je vais voir ça.
+{25098}{25188}En attendant te prends pas|la tête, d'accord ?
+{25195}{25260}Comme ton pote à la radio, là.
+{25265}{25308}Et pourquoi ? Pour rien.
+{25325}{25410}Si on m'arnaque, je te jure|que c'est pas moi que je tuerai.
+{25793}{25858}C'est plus fort que moi.
+{25865}{25935}Il y a une piscine,|faut en profiter.
+{25945}{25993}Sans rancune, hein ?
+{25998}{26040}Ça gaze petit ?
+{26045}{26125}Merci Milo.|C'est vraiment chouette.
+{26138}{26205}La fête est super.|La maison aussi.
+{26223}{26283}Super maison.|Si elle croit l'avoir !
+{26288}{26378}Rien Rosie,|plutôt me couper la bite !
+{26383}{26450}- T'as un bon avocat ?|- Le meilleur. Moi.
+{26455}{26480}Ça va ?
+{26493}{26560}- Tu as engagé la procédure ?|- Pas encore.
+{26565}{26613}Il suffit qu'elle reste ici.
+{26618}{26653}Elle doit vivre avec lui.
+{26658}{26695}Pas avec, à côté.
+{27135}{27193}- Ça lui ressemble pas.|- Mais si.
+{27200}{27235}- Les pommettes|- Le nez.
+{27240}{27278}La bouche peut-être.
+{27283}{27328}Incroyable. Copie conforme.
+{27335}{27403}Pourtant méconnaissable.|Le vide.
+{27410}{27423}Qui ça ?
+{27430}{27493}Toi mon chou. Viens voir.
+{27498}{27523}C'est moi ?
+{27660}{27693}Là c'est toi.
+{27750}{27798}C'est épatant. Je me vois.
+{27810}{27853}Et les autres te voient ?
+{27858}{27898}- Comment ça ?|- Peins-le
+{27905}{27973}de manière à ce qu'on puisse|te reconnaître.
+{27980}{28013}Super. Mais qui c'est ?
+{28018}{28063}Je ne reconnais que Wilson.
+{28068}{28113}- Comment ?|- Au bec.
+{28118}{28155}T'en as fait un de toi ?
+{28190}{28205}Tu l'as peint ?
+{28210}{28278}Ce serait pas drôle.|Je sais qui je suis.
+{28313}{28330}Et Milo ?
+{28335}{28385}Elle le voit assez en vrai.
+{28390}{28438}Gloria, la plupart du temps...
+{28445}{28508}On sait ce qu'il fait|la plupart du temps.
+{28513}{28565}- Et avec qui.|- Il faut le prouver.
+{28588}{28623}- C'est toi ?|- Arrête !
+{28628}{28695}Le drapeau ? Quand une femme|sera présidente.
+{28760}{28803}Je ne savais pas que tu étais sculpteuse.
+{28808}{28840}Je ne le suis pas.
+{28845}{28933}Comme dirait Milo|je n'ai pas les couilles de faire ça.
+{28940}{29000}C'est mon jardin des âmes perdues.
+{29005}{29098}Qu'importe leur maquillage,|leurs fringues.
+{29105}{29188}Sitôt partis|ils s'effacent de la mémoire.
+{29215}{29273}- Les gens sont oubliables|- La plupart.
+{29300}{29338}Pas tous.
+{29345}{29413}Excuse-moi, tu avais du plâtre.
+{29503}{29548}On ne devrait pas se cacher.
+{29578}{29618}On va nous chercher.
+{29650}{29715}Il faudrait que je me montre.
+{29793}{29845}Va travailler ton image.
+{30665}{30718}La fille que vous avez choisie.
+{30723}{30778}Elle te plaît cette poupée Ted ?
+{30783}{30805}Tom.
+{30810}{30865}T'as peur|que je lui retire sa culotte ?
+{30913}{30988}Enfin... oui.|Elle me plaît beaucoup.
+{30993}{31055}- Mais non, je ne pensais pas...|- Mais si.
+{31060}{31123}Mais je ne le ferai pas.|Pas ce soir.
+{31130}{31180}Demain elle redevient une proie.
+{31185}{31268}Dans un mois|elle sera la proie de tous.
+{31300}{31415}Ce soir c'est ta seule chance|de lui montrer que tu es un homme.
+{31433}{31483}D'accord. Merci M.Styles
+{31488}{31548}pour vos conseils.
+{31590}{31618}Connard.
+{31633}{31680}T'es totalement dégueulasse.
+{31685}{31735}Et toi t'es quoi ?
+{31955}{32010}Pourquoi faire chier le monde ?
+{32015}{32060}C'est tout ce qu'il mérite.
+{32065}{32108}Regarde-les tous.
+{32113}{32188}Ils sont pitoyables.|Je n'en connais pas la moitié.
+{32193}{32283}Tout ce qui m'intéresse|c'est qu'ils soient occupés.
+{32288}{32390}Et qu'est-ce qui les occupe ?|Moi, Milo Styles.
+{32413}{32495}T'es le dernier des salauds.
+{32530}{32603}Tout le monde a besoin d'un salaud,
+{32608}{32683}d'une espèce de...
+{32715}{32785}mètre-étalon, pour se mesurer.
+{32790}{32868}Ton mètre-étalon est sorti.
+{32885}{32945}Tripote-le.
+{32950}{33005}Tu es une grande fille, vas-y.
+{33018}{33085}Ejacule pas, d'accord ?
+{33090}{33143}Je n'ai jamais vu un mec aussi rapide.
+{33153}{33228}Les vieux perdent vite patience.
+{33233}{33278}T'es pas vieux.
+{33313}{33375}J'ai attrapé l'anneau.
+{33380}{33438}Je gagne un tour gratuit ?
+{33443}{33488}Rien n'est gratuit Milo.
+{33505}{33548}Tout se paie comptant.
+{34173}{34220}Le plein. De super.
+{34228}{34258}Je vais conduire.
+{34265}{34308}Je ne suis pas soûle.
+{34313}{34370}Si. Mais je n'ai pas dit ça.
+{34375}{34440}Dis ce que tu penses. Pas d'énigme.
+{34445}{34530}Une raison de m'intéresser|encore à un gland comme toi ?
+{34535}{34628}Aucune raison, c'est pas les glands|qui manquent.
+{34650}{34735}Tu nous as vus ?|Ton encéphalo n'est pas plat !
+{34740}{34783}- Liquide ou carte ?|- Carte.
+{34788}{34858}Je fais ce que je peux.|Tous les jours...
+{34863}{34918}Tu te laisses piétiner.
+{34923}{35008}Quand il le faut.|Il y a des règles...
+{35013}{35068}Je les connais mieux que toi.
+{35080}{35130}Eteignez ça.|L'huile ça va ?
+{35135}{35175}C'est lui qui ne va pas.
+{35188}{35223}Seulement le plein.
+{35240}{35303}Y en a qui couchent pour arriver.
+{35320}{35348}Moi...
+{35368}{35433}j'ai couché pour tout rater.
+{35470}{35528}Six ans. Ça nous a rapporté quoi ?
+{35533}{35555}Une vie.
+{35630}{35690}Je croyais que tu étais un battant.
+{35698}{35738}Je me suis bien trompée.
+{35743}{35793}Tu n'exprimes rien. Tu avales tout.
+{35800}{35815}Tu es injuste.
+{35820}{35890}Mais merde,|tu m'as vue branler un mec !
+{35895}{35988}Tu lui es tombé dessus ?|Tu m'es tombé dessus ?
+{36010}{36043}Votre carte.
+{36050}{36103}Je veux aller quelque part.
+{36115}{36170}Toi tu vas nulle part
+{36190}{36260}T'es rien. Personne !
+{36410}{36468}Je ne rentre pas.|Descends !
+{36480}{36523}Descends de la voiture.
+{36615}{36658}Je me donne un mal de chien.
+{36755}{36825}Je donne tout.|Tu veux quoi de plus ?
+{36888}{36953}Et d'un seul coup je ne suis rien ?
+{36970}{36990}Je t'emmerde.
+{37310}{37338}M'attends pas.
+{37455}{37493}T'entends Ducon ?
+{37498}{37548}M'attends pas !
+{38813}{38878}On nous appelle d'un peu partout.
+{38883}{38973}Et nous avons John en ligne.
+{38985}{39015}- Larry ?|- Oui, j'écoute.
+{39020}{39100}Je voudrais parler du type|qui s'est suicidé.
+{39105}{39148}Cet imbécile ?
+{39155}{39215}Pourquoi imbécile ?|Je trouve que...
+{39220}{39285}- Bah, je ne sais pas...|- C'était frappant.
+{39290}{39340}Surtout pour lui !
+{39345}{39423}Très drôle.|Il a fait la une des journaux !
+{39428}{39503}Grâce à mon émission, c'est tout.
+{39510}{39568}On l'a remarqué|pour la première fois de sa vie.
+{39575}{39645}Où est l'intérêt s'il est mort ?
+{39650}{39715}On le remarquera dans sa tombe ?
+{39720}{39755}- Il n'est pas mort|- Quoi ?
+{39760}{39833}Il sirote tranquillement une mousse
+{39845}{39900}en parlant à un mac de la radio.
+{39905}{39970}C'est moi Ducon, c'est moi le mec.
+{39975}{40070}Le mec ordinaire tu sais,|mon vieux et tout ça
+{40075}{40113}je suis ressuscité.
+{40125}{40238}Et je me ferai plus - bip ! -|par des salauds comme toi.
+{40243}{40290}Pour toi on n'est rien,
+{40295}{40365}on n'existe pas.|Mais on existe !
+{40370}{40448}Et c'est toi qui finiras par payer.
+{40453}{40510}C'est pas possible.|Je rêve.
+{41188}{41218}Le garage est ouvert.
+{41253}{41288}Y a quelqu'un ?
+{41293}{41330}Janine n'est pas là, moi si.
+{41438}{41528}Vous avez laissé le garage ouvert.|La porte ouverte.
+{41548}{41610}C'est une ville dangereuse.
+{41700}{41743}Faut pas laisser ouvert.
+{41765}{41820}- ué bastardo|- Pardon ? Vous dites ?
+{41825}{41868}Su madre es una bruja.
+{42485}{42558}Qu'est-ce que vous avez trouvé|dans ma poche Katie ?
+{42563}{42620}Trouvé ? Rien.
+{42625}{42723}J'arrangeais votre veste.|Je la mettais comme il faut.
+{42775}{42800}Vous avez volé de l'argent.
+{42810}{42883}De l'argent ! Non, jamais.
+{42913}{42948}Et de l'argenterie ?
+{42953}{42988}Je n'ai rien volé.
+{42995}{43060}? Pero quién se cree que es ?|Un hombre muy grande.
+{43065}{43133}Pas un grand homme|mais celui qui te paie.
+{43138}{43198}Celui que tu insultes|et que tu voles.
+{43230}{43290}Vous parlez espagnol ?
+{43300}{43345}Je réserve plein de surprises.
+{43413}{43505}Ça doit être joli chez vous|avec tout ce que vous volez.
+{43510}{43550}J'ai rien volé.
+{43570}{43598}J'ai rien pris.
+{43655}{43723}Alors il n'y a rien dans ce sac.
+{43840}{43923}Elle m'a mis dans une telle rogne.|La salope.
+{44155}{44203}Je ne rêve pas.
+{44208}{44248}Tout ça est vrai.
+{44773}{44835}Le chien est dehors.
+{45283}{45313}Pupsie, bébé.
+{45333}{45373}On rentre.
+{45380}{45418}Henry, t'es là ?
+{45728}{45768}Le chien était dehors.
+{46050}{46078}Allez, entre.
+{47133}{47163}Pupsie, viens.
+{47190}{47248}Je sais. C'est une vieille saleté.
+{47273}{47325}J'ai dit à papa de la débrancher.
+{47385}{47453}Ce raté ne sait pas|se servir d'une rallonge.
+{47558}{47590}Salut. C'est moi.
+{47645}{47680}Non, il n'est pas là.
+{47685}{47753}Pupsie, arrête. Je l'ai éteint.
+{47760}{47785}Viens ici.
+{47835}{47898}Viens là bébé. C'est bien.
+{47930}{48023}Tu crois que je lui dirais|que je pars avec toi ?
+{48063}{48118}Quand tu te décideras,|je lui parlerai.
+{48123}{48163}D'ici là je dois vivre.
+{48238}{48298}T'es drôle. T'en as rien à cirer.
+{48693}{48720}Quitte pas.
+{48950}{48978}Viens là.
+{49030}{49095}Un week-end au soleil ? Je prends.
+{49103}{49163}Même si tu te fous de moi.
+{49390}{49430}Tu veux ça Pupsie ?
+{49490}{49570}Tiens. Voilà. Viens.
+{52505}{52533}Je suis caché.
+{52623}{52663}Tu chauffes.
+{52708}{52743}Tu chauffes.
+{52770}{52813}Tu brûles.
+{53250}{53288}J'ai pas faim.
+{53295}{53360}Il faut prendre des forces chérie.
+{53365}{53430}Un muffin ?|Un petit pain fourré ?
+{53435}{53480}Je te dis que je n'ai pas faim.
+{53485}{53550}Quelque chose de plus consistant ?
+{53620}{53730}On y va ou pas ? Tes petits pains|fourrés ne m'intéressent pas.
+{53860}{53950}Alors un peu de mon miel|dans ta ruche.
+{53998}{54055}Ta queue prend de l'EP0 ?
+{54060}{54105}On vient de baiser toute la nuit.
+{54110}{54193}On va passer tout le week-end au lit.
+{54225}{54255}Le lit
+{54275}{54375}est une bénédiction|qui nous vient des dieux.
+{54455}{54505}Combien de fois
+{54518}{54568}il t'est arrivé de le faire
+{54573}{54695}sur une table de conférence|à 40000 dollars ?
+{55148}{55228}Putain, ce que c'est beau.
+{55410}{55480}C'est bon. Vas-y, vas-y.
+{55595}{55618}Attends !
+{55658}{55698}Je te tiens connard.
+{55830}{55900}Tu m'espionnes.|C'est indigne de toi.
+{55905}{55963}Ça m'apprend|qui tu juges digne de toi.
+{55970}{56050}- Tu veux me ruiner ?|- Je veux mon dû.
+{56063}{56078}Quoi ?
+{56083}{56128}La justice !
+{56165}{56198}Putain ! Merde !
+{57040}{57075}Milo, c'est toi ?
+{57185}{57238}Ma dégaine te choque ?
+{57258}{57318}Je suis très choqué par la tienne.
+{57323}{57348}Regarde-moi !
+{57568}{57625}Tu es complètement cinglé !
+{57630}{57715}Je ne suis pas cinglé.|Je n'ai plus rien.
+{57728}{57808}Tu m'as volé l'irremplaçable,|mon identité.
+{57813}{57880}Il ne me reste plus rien.
+{57925}{57955}Où je suis ?
+{58085}{58145}Allez, sors de là.
+{58235}{58263}Où je suis ?
+{58530}{58595}- C'est du sang ?|- Oui, et je vais te dire,
+{58600}{58645}j'y prends goût.
+{58733}{58773}Je suis peut-être un raté
+{58790}{58860}mais je sais très bien me servir
+{58865}{58915}d'une rallonge électrique.
+{58985}{59033}Tu ne peux pas me faire ça !
+{59040}{59123}C'est ma vie privée.
+{59128}{59203}Tu n'as aucun principe ?
+{60810}{60860}Me fais pas de mal.
+{60898}{60933}Tu sais qui je suis ?
+{60950}{61048}Je vous ai entendus.|Janine et toi.
+{61088}{61145}Ça te donne l'avantage.
+{61150}{61183}Tu sais qui je suis.
+{61190}{61263}Ouvre le rideau|que je sache qui tu es.
+{61268}{61293}Je t'en prie.
+{61298}{61355}- Laisse-moi partir|- Tire le rideau !
+{61498}{61545}- Qu'est-ce que t'as ?|- Qu'est-ce que tu fais là ?
+{61555}{61620}J'avais du travail en retard.
+{61680}{61720}Sors de là Tom.
+{61728}{61780}Tu ne vas pas...
+{61785}{61835}Sors de là.
+{61843}{61903}Lui prendre le pouls !
+{61908}{61998}Elle se balance à 30 pieds du sol|au bout d'une rallonge.
+{62025}{62118}Pas de panique,|les flics arrivent.
+{62225}{62305}Elle est là...|J'ai aucune idée de ce qui...
+{62310}{62363}Elle a sauté. Du troisième étage.
+{62380}{62453}- ... de la bouche d'une idiote|- Quoi ?
+{62458}{62525}Janine avait raison.|J'ai tout avalé.
+{62563}{62653}N'y prends pas goût|ou tu finiras comme moi.
+{62845}{62933}Ils ont tout vu.|Ghandi sait ce qui s'est passé.
+{62940}{63028}Il a tout vu.|Et le joueur de saxo est aveugle !
+{63033}{63075}Calmez-vous.
+{63080}{63138}- Restez là, je vais voir.|- Une ambulance !
+{63175}{63228}Je ne sais pas ce qui m'est arrivé.
+{63310}{63375}Je ne sais pas ce que je dois faire.
+{63638}{63690}Il faut qu'on se mette d'accord.
+{63695}{63733}Bien sûr.
+{63748}{63798}Tout ce que tu voudras.
+{63825}{63878}Dis à personne que tu m'as vu.
+{63903}{63933}Je dirai rien.
+{63938}{64033}Si tu dis à qui que ce soit|que j'étais là aujourd'hui
+{64038}{64100}je serai obligé|de prendre des mesures.
+{64123}{64198}Je te jure... Jamais je ne...
+{64203}{64288}Ne me déçois pas.|J'ai été suffisamment déçu.
+{64325}{64370}Tu as ma parole Henry.
+{64593}{64630}Vous êtes M.Styles ?
+{64655}{64685}Oui, et vous ?
+{64690}{64770}Inspecteur McCleary.|Qu'est-ce qui s'est passé ?
+{64775}{64805}Ça se voit pas ?
+{64820}{64853}Mais encore ?
+{64858}{64913}Me regardez pas comme ça.|J'ai rien fait.
+{64918}{64988}J'étais dans la rue|quand elle a sauté.
+{64995}{65068}Mes hommes là-haut ne pensent pas|qu'elle a sauté.
+{65073}{65133}- Quoi ?|- Pour eux c'est un meurtre.
+{65193}{65243}Demandez-leur à eux.
+{65275}{65363}Ils ont tout vu.|Ils vous diront ce qui s'est passé.
+{65378}{65413}Demandez-leur.
+{65418}{65448}Je vous le demande.
+{65585}{65640}- Ça enregistre ?|- S'il y a une cassette.
+{65653}{65715}Patron, regardez.
+{65735}{65828}Génial. Continue à foutre le bordel|sur le lieu du crime.
+{65833}{65873}Connard.
+{65918}{65978}Navré de vous demander ça
+{65993}{66053}mais vous avez reconnu|ces vêtements ?
+{66058}{66110}A ton avis Columbo ?
+{66115}{66193}Je suis en caleçon|au milieu de la rue
+{66198}{66275}et un de vos mecs|agite un pantalon
+{66280}{66320}à ma fenêtre.
+{66513}{66580}J'avais une liaison.
+{66585}{66660}Je ne l'ai pas jetée|par la fenêtre pour autant.
+{66665}{66703}Vous étiez seuls ?
+{66713}{66778}Je baise toujours en public.
+{66785}{66838}Fans, feux d'artifice.
+{66895}{66940}Ma femme. Mon ex-femme...
+{66950}{67023}Elle était là ?|Elle faisait partie du public ?
+{67035}{67148}Très drôle. Elle bosse|pour le magazine. Photographe !
+{67155}{67215}Vous l'avez vue quitter l'immeuble ?
+{67238}{67293}Si elle était encore dedans ?
+{67298}{67390}Cachée vous voulez dire ?|Arrêtez.
+{67403}{67455}Pas possible.
+{67460}{67513}Ma Rosie c'est un ange.
+{67518}{67578}Vous ne comprenez pas, elle...
+{67603}{67698}Pas possible !|C'est horrible, merde, de dire ça !
+{69600}{69640}- Rappelle-le|- Je l'ai rappelé.
+{69645}{69713}Tu connais le numéro alors.|Rappelle-le.
+{70185}{70243}Vous êtes bien chez les Creedlow.
+{70248}{70298}Laissez-nous un message
+{70305}{70355}et nous vous rappellerons.
+{70453}{70513}Il faut qu'on y aille.
+{70680}{70788}C'est l'inspecteur Rakowski.|C'est à propos de votre femme.
+{70795}{70835}Il faut qu'on se parle.
+{70853}{70918}Ça ne répond pas.|Je te dis qu'il n'est pas là.
+{70938}{70968}On entre ?
+{70975}{71023}Non. Pas maintenant.
+{71028}{71083}S'il lui est arrivé quelque chose ?
+{71088}{71108}Peut-être.
+{71115}{71138}On devrait entrer.
+{71203}{71258}On ne peut pas.|Pour forcer la porte
+{71263}{71313}il nous faut une raison.
+{71318}{71383}Il a peut-être foutu le camp.
+{71390}{71435}- Pourquoi ?|- A ton avis ?
+{71440}{71493}Il a peut-être tué sa femme.
+{71520}{71578}C'est pas lui. C'est la meuf.
+{71583}{71633}L'ex de Styles ?
+{71645}{71738}Ils ne sont pas divorcés.|Elle a eu l'occasion et le mobile.
+{71745}{71793}Styles a dit qu'elle était là.
+{71810}{71865}C'est pas une meuf qui a fait ça.
+{71870}{71928}Il fallait casser la fenêtre.
+{71933}{71960}D'où le fauteuil.
+{71993}{72075}C'était un mec.|Et ce type-là, ce Burtram ?
+{72080}{72123}100 dollars que c'est la meuf
+{72128}{72178}- 50 de plus|- Je prends le pari.
+{72188}{72253}Tu t'occupes de ce Burtram.
+{72258}{72303}Je vais voir Styles et son ex.
+{72310}{72368}On va laisser filer le mari ?
+{72373}{72470}Non, on ne va pas le laisser filer.|On va le rechercher.
+{72475}{72543}- C'est la meuf|- Non, c'est pas la meuf.
+{72813}{72888}Henry, je viens de voir les infos.
+{72913}{72968}C'est Jimmy, vers 15 heures.
+{72975}{73038}Il ne faut pas que tu flippes.
+{73045}{73115}Janine est... j'arrive pas à le dire.
+{73120}{73233}Si c'est vrai il y a des formalités|légales pour vos comptes communs...
+{73238}{73303}Avant de faire quoi que ce soit,|appelle-moi.
+{73313}{73363}Henry, merde, il est 15 heures 30.
+{73370}{73460}C'est Jimmy. J'en peux plus.|Appelle-moi.
+{74403}{74443}J'espérais plus.
+{74473}{74520}J'espère toujours
+{74545}{74573}qu'il y en ait plus.
+{75358}{75415}Tu auras été une vraie plaie.
+{76180}{76258}Aucun suspect dans l'affaire|du meurtre de Newmarket Street.
+{76280}{76353}La circulation a été perturbée|par le barrage de police.
+{76358}{76428}Les commerçants se sont plaints.
+{76435}{76513}Nous ne connaissons pas|le nom de la victime.
+{76518}{76588}Elle s'est jetée|par la fenêtre du troisième,
+{76593}{76635}pendue à une rallonge.
+{76640}{76723}La police reste sur les lieux...
+{76985}{77033}L'agence San Juan ?
+{77040}{77108}On attendait|une de vos employées.
+{77113}{77218}Saldano. Son prénom c'était...|c'est Katie3.
+{77233}{77273}Elle n'est pas venue.
+{77293}{77348}Je vous rappellerai|si j'ai du nouveau.
+{77998}{78023}Qu'est-ce que tu dis ?
+{78133}{78165}Quitte pas.
+{78170}{78210}Inga !
+{78233}{78250}Quitte pas.
+{78255}{78310}La porte bordel !
+{78760}{78825}Je ne suis là pour personne.
+{78885}{78955}Tu es mouillée.|Alors tu décroches
+{78960}{79013}et moi j'ouvre.
+{79085}{79138}A moins que je me mouille
+{79143}{79188}et t'iras ouvrir.
+{79245}{79288}Bon, je vais ouvrir.
+{79295}{79360}Mais réponds au téléphone.
+{79928}{79993}- Laissez-moi tranquille.|- N'ouvre pas !
+{80005}{80048}- Quoi ?|- N'ouvre pas la porte.
+{80060}{80115}- C'est la police !|- C'est toi Henry ?
+{80120}{80158}- Ils pensent que c'est toi.|- Moi quoi ?
+{80165}{80215}Attention à ce que tu dis.
+{80220}{80250}C'est fou.
+{80255}{80293}Non, ne viens pas par là.
+{80298}{80325}Où, par là ?
+{80345}{80398}- Tu es où ?|- Dehors.
+{80410}{80468}Tu es dans mon jardin ?
+{80850}{80908}Vous savez ce que c'est, hein ?
+{80925}{80988}Vous avez l'air|d'en avoir vu d'autres.
+{81015}{81118}Dans votre boulot|les occasions manquent pas.
+{81160}{81225}Si j'étais comme vous|entouré de petites pépés.
+{81230}{81323}Jamais de mineures.|Si ça se savait je serais cuit.
+{81328}{81403}Le magazine serait cuit.|Tous grillés.
+{81420}{81535}Si je veux me tremper la nouille|je me trouve des adultes.
+{81540}{81580}Vous suivez ?
+{81650}{81698}Je comprends, oui, "adulte".
+{81720}{81753}La femme d'un autre quoi.
+{81758}{81793}Allez vous faire foutre.
+{81798}{81875}Vous avez jamais fourré|le sandwich d'un autre ?
+{81880}{81935}Allez, on est entre hommes.
+{81950}{82043}Deux personnes avaient un mobile.|Toi. Et m...
+{82048}{82093}- C'est pas moi !|- Ecoute.
+{82100}{82148}Je te jure que c'est pas moi.
+{82153}{82233}L'un de nous l'a fait.|Si c'est pas toi...
+{82238}{82303}- C'est quelqu'un d'autre|- Les flics sont là.
+{82308}{82355}Je l'ai tuée. C'est moi !
+{82360}{82443}Navré de vous déranger.|C'est un moment difficile.
+{82448}{82515}C'est une dure. Pas vrai chérie ?
+{82520}{82583}- Une vraie dure à cuire|- Je dois dire quoi Milo ?
+{82588}{82653}Comment ça ? Je n'ai rien à cacher.
+{82660}{82715}J'ai tout raconté.
+{82720}{82778}Les photos, tu te souviens ?
+{82790}{82835}J'y étais, c'est tout.
+{82840}{82878}Tu y étais.
+{82888}{82970}Je lui ai dit aussi...|C'est vrai, j'ai insisté
+{82975}{83060}que ça pouvait pas être toi.
+{83065}{83105}J'étais partie.
+{83110}{83158}C'est ce que j'ai dit.
+{83170}{83210}Tu vas la fermer !
+{83215}{83260}Me parle pas sur ce ton !
+{83265}{83313}Madame vous a dit de la fermer !
+{83380}{83438}Excusez-moi. Je regrette.
+{83460}{83528}Voulez-vous poursuivre seule ?
+{83625}{83680}- Ces masques.|- Bizarres, hein ?
+{83738}{83778}Un passe-temps de madame.
+{83783}{83815}On peut rentrer ?
+{83820}{83903}Pour admirer|ses talents cachés ?
+{83910}{84003}Nettement plus intéressants|que les masques.
+{84015}{84085}On ne sait jamais...
+{84390}{84443}Vous êtes au courant|pour la cassette ?
+{84453}{84495}La caméra de sécurité de brute.
+{84500}{84543}Un connard l'a filée à la presse.
+{84548}{84618}C'est un masque ?|Ça ne peut être qu'un masque.
+{84625}{84673}C'est Creedlow. Le mari.
+{84690}{84780}Bon, c'est un mec.|Accorde-moi ça, c'est évident.
+{84785}{84850}Evident ?|Ça pourrait être une meuf.
+{84855}{84920}- L'ex, elle en fait|- Elle fait quoi ?
+{84925}{84968}Des masques. Elle en a des tas.
+{84973}{85033}Elle aurait aussi tué Creedlow.
+{85040}{85090}Un truc que je ne sais pas ?
+{85095}{85148}La perquise. Le vrai bordel.
+{85153}{85210}Du sang partout.|Ses papiers au milieu.
+{85215}{85258}Des impacts de 9 mm.
+{85263}{85328}Et une chemise|avec une boutonnière en trop.
+{85340}{85400}- C'est le sang de qui ?|- On cherche.
+{85415}{85493}Alors Fadush, c'est qui ta copine ?
+{85500}{85543}Notre seul témoin.
+{85563}{85605}Interroge-la, hein ?
+{85678}{85758}Vous avez droit à un avocat.|Si vous n'avez pas les moyens
+{85763}{85805}Fadush vous en paiera un.
+{85960}{86048}Le suspect demeure introuvable,|augmentant encore les spéculations
+{86053}{86118}sur l'identité|du mystérieux criminel.
+{86125}{86170}La police se refuse|à tout commentaire
+{86175}{86228}sur le mobile du crime.
+{86233}{86323}Pour l'inspecteur il ne peut s'agir|d'un tueur en série.
+{86438}{86503}Ce meurtre, le 56ème cette année,
+{86508}{86588}soulève de nouveau le problème|de la politique anti-criminelle
+{86595}{86683}qui n'a pas empêché|l'augmentation de la violence.
+{86690}{86780}57 pour cent de plus|que l'année dernière.
+{88188}{88263}Bon, d'accord, c'est très drôle.
+{88273}{88288}Qui est là ?
+{88303}{88338}Un pas grand-chose.
+{88528}{88560}Tu te fous de moi ou quoi ?
+{88565}{88628}Non, vas-y, continue.
+{88633}{88703}Je voulais parler|de mon portefeuille.
+{88708}{88765}Quand j'espérais plus.
+{88848}{88923}C'est mieux d'en parler.
+{88948}{88988}Que tu t'en sois aperçu.
+{88993}{89055}De quoi j'ai bien pu m'apercevoir ?
+{89133}{89175}Tu parles de l'argent ?
+{89183}{89238}L'argent que tu m'as volé.
+{89298}{89330}Depuis quand on se connaît ?
+{89348}{89420}Longtemps. Très longtemps.
+{89435}{89543}Tu trouves ça bien de voler des gens|que tu connais depuis longtemps ?
+{89593}{89655}Ta voiture|c'est moi qui te l'ai payée ?
+{89665}{89718}Il y a quelqu'un ?
+{89800}{89830}Walter ?
+{89938}{89968}Paul ?
+{90050}{90080}Y a quelqu'un ?
+{90553}{90625}Y a quelqu'un ?
+{90853}{90900}Je me suis cassé quelque chose.
+{90920}{90958}J'ai un truc cassé.
+{91045}{91093}Tu l'as signé, pas vrai ?
+{91105}{91165}Là où c'est écrit... "Le mandataire"
+{91278}{91308}T'es cinglé ?
+{91320}{91370}T'as pété les plombs ?
+{91570}{91590}Merde !
+{91615}{91633}C'est moi !
+{91638}{91728}A peu près 30000 en deux ans.|En tout et pour tout.
+{91768}{91855}C'est Janine qui a eu l'idée.|Elle a pris le reste.
+{91863}{91955}Je te jure que je vais|tout te rembourser.
+{92015}{92053}Dans ma mallette.
+{92068}{92123}Elle est dans mon casier.
+{92163}{92208}Je vais te faire un chèque.
+{92228}{92300}Tu t'es pissé dessus.|Ça doit être le stress.
+{92305}{92348}Le stress de la haute finance.
+{92355}{92403}Espèce de con !
+{92445}{92478}Ça t'amuse, hein ?
+{92560}{92595}Ton visage...
+{92635}{92665}- Tu es...|- Changé ?
+{92698}{92733}J'ai changé.
+{92745}{92788}Fini le gentil Henry.
+{93010}{93028}Pourquoi ?
+{93065}{93115}J'ai déconné.
+{93130}{93178}J'ai déconné et je regrette.
+{93190}{93275}Je vais te faire un chèque.|On sera quittes.
+{93295}{93325}On remet les compteurs à zéro.
+{93363}{93413}Quittes ? Loin de là !
+{93435}{93493}Tu devais jamais t'apercevoir.
+{93518}{93620}Parce que je passe inaperçu|je ne devais pas m'en apercevoir ?
+{93625}{93638}Oui !
+{93660}{93725}Alors si tu veux flinguer quelqu'un
+{93730}{93768}flingue-toi, pas moi !
+{93845}{93880}Je vais suivre ton conseil.
+{93890}{93963}Le seul conseil valable|que tu m'aies donné.
+{93970}{94073}Si on m'arnaque je te jure|que c'est pas moi que je tuerai.
+{94473}{94518}Espèce de taré.
+{95048}{95098}Ça valait le coup.
+{95108}{95148}Je ne regrette pas mon fric.
+{95275}{95358}L'homme alla au marché|acheter un solitaire
+{95363}{95448}Il ne s'était jamais aperçu|qu'il n'était pas roi
+{95455}{95558}Il prit le plus brillant,|un diamant fait de verre
+{95570}{95680}L'or de la bague|n'était que cuivre de bon aloi
+{95723}{95770}L'homme dépensa tout
+{95785}{95830}Le bijoutier était un filou
+{95838}{95925}Il lui dit que les rois|portent leur diamant au pied
+{95940}{96003}L'homme partit tout fier
+{96008}{96073}Dans son soulier, le solitaire
+{96085}{96173}Et nul ne lui dit jamais|qu'il n'était pas roi
+{96190}{96273}Vous l'avez vu|mais vous ne pouvez pas le décrire
+{96285}{96325}Je suis suspect ?
+{96338}{96448}Si c'est le cas|je veux un avocat...
+{96453}{96498}Un avoquoi ?
+{96553}{96578}Du calme M.Burtram
+{96595}{96658}Buvez un café. Il est bon.
+{96663}{96723}Votre facho est passé chez moi.
+{96745}{96780}Rien ne m'obligeait à venir.
+{96785}{96850}Rien. Pourquoi vous êtes venu ?
+{97030}{97058}On va vous raccompagner.
+{97080}{97118}Tu le raccompagnes.
+{97790}{97843}Sans visage !
+{98308}{98348}T'es encore mou.
+{98353}{98390}Excuse-moi.
+{98505}{98543}C'était quoi ?
+{98558}{98573}Rien.
+{98595}{98633}Ça va.
+{98653}{98738}Allez, on essaye encore,|je suis prête.
+{98750}{98788}Je crois que...
+{98813}{98838}moi pas.
+{98870}{98950}Tu disais que personne|t'excitait autant que moi.
+{98955}{98995}C'est vrai.
+{99003}{99080}Et j'avais des espoirs|pour nous, vraiment.
+{99085}{99128}Mais faut que je me tire.
+{99148}{99198}Du bain ?
+{99225}{99245}De la ville.
+{99273}{99313}De tout ce cirque.
+{99318}{99380}- M'en sortir.|- Tu es recherché ?
+{99385}{99448}- Tu es en cavale ?|- La femme qui est morte
+{99468}{99543}c'est moi qu'on soupçonne.|Je ne l'ai pas tuée.
+{99565}{99610}Mais... je sais qui.
+{99638}{99683}Qui ?
+{99688}{99720}Un autre type.
+{99743}{99808}Un autre... ordinaire comme moi.
+{99813}{99845}Tu l'as donné aux flics ?
+{99850}{99910}J'ai dit que je ne savais pas|qui c'était.
+{99945}{100005}C'est presque vrai.|Je le connais à peine.
+{100010}{100113}Mais finalement c'est peut-être|le meilleur ami que j'aie eu.
+{100173}{100238}Tu crois que je vais fuir avec toi
+{100243}{100290}quand je fais la couverture|de Brute ?
+{100295}{100323}Je t'ai rien demandé.
+{100355}{100393}J'ai la couverture.
+{100398}{100443}Je t'ai rien demandé.
+{100448}{100523}Tu voudrais|que je parte maintenant ?
+{100590}{100653}Vicieux ! Tu veux te rincer l'œil ?
+{100678}{100785}Profites-en. Demain je ne serai plus|dans tes moyens.
+{100805}{100918}66 FM. Le 66ème appel gagne|un tee-shirt à l'effigie de personne.
+{100923}{100965}Qui est l'homme sans visage ?
+{100970}{101013}Mon frère. C'est un rebelle.
+{101018}{101055}Flanque-lui une fessée.|Suivant.
+{101060}{101130}- Je pense que c'est toi|- Très drôle.
+{101135}{101235}Personne ne t'a jamais vu.|Tu n'es qu'une voix homonyme.
+{101240}{101293}Homonyme... homo... anémone ?
+{101298}{101363}Anonyme imbécile.|Ce que je ne suis pas.
+{101368}{101430}- C'est Frank Himmelfarb|- Qui ça ?
+{101435}{101490}- Vous voyez, inconnu !|- Si vous le dites.
+{101495}{101600}Ici Suicide FM.|Appelez-nous et suicidez-vous.
+{101683}{101738}On se retrouve après la pause.
+{102043}{102100}Je voulais pas te faire peur.
+{102105}{102180}- En fait si.|- Qu'est-ce que tu fais là ?
+{102205}{102278}Je vais partir.|J'ai un compte à régler avant.
+{102313}{102343}Il est pas là !
+{102348}{102410}Il est parti il y a une heure.
+{102450}{102470}Une heure ?
+{102480}{102538}Le compte à régler|c'est avec moi ?
+{102543}{102638}Je ne voulais pas te réveiller.|Alors j'ai fini ça.
+{102693}{102720}Il n'est pas de moi.
+{102745}{102805}Non, entièrement de moi.
+{102818}{102865}J'ai travaillé mon image.
+{102890}{102963}J'étais le dernier des caves.
+{102968}{103028}Je deviens un as de la cambriole.
+{103033}{103110}Je suis entré par la fenêtre.|Bien obligé.
+{103120}{103175}Il y a une voiture de flics devant.
+{103498}{103540}Tu ne peux pas sortir.
+{103593}{103628}Je regrette.
+{103638}{103708}Je regrette ce qui s'est passé.
+{103715}{103785}Tu as l'air coupable.|Mais de quoi ?
+{103805}{103875}Parce que j'étais au courant.|Je savais.
+{103880}{103938}Tu savais ? Pour Milo et Janine ?
+{104003}{104053}- Depuis quand ?|- Pas longtemps.
+{104058}{104100}Tu me fais peur.
+{104105}{104193}On s'habitue aux mensonges|et aux trahisons et...
+{104213}{104323}on fait des choses qu'on regrette.|J'ai essayé de te parler.
+{104335}{104425}Je sais. Mais quand tu as dit|que c'était toi ou moi
+{104430}{104473}j'ai cru que tu m'accusais.
+{104478}{104548}- Je ne pouvais pas imaginer...|- Que c'était moi ?
+{104553}{104650}Que c'était Henry.|Henry comment déjà ?
+{104655}{104775}Ce rat qui courait partout|dans sa baraque inachevée.
+{104780}{104825}Pour qu'elle ressemble à ça !
+{104858}{104918}Qui à part Milo|peut vivre là-dedans ?
+{104945}{105020}Pourquoi t'envoies pas tout valser ?
+{105025}{105083}Laisse-le sur son tas d'ordures !
+{105110}{105170}J'essaie. Ce n'est pas si simple.
+{105175}{105225}Dans ta tête non. Mais en dehors,
+{105230}{105285}là où on a les pieds sur terre, si.
+{105290}{105370}Simple comme le meurtre.|A quoi tu penses ?
+{105453}{105480}Doucement.
+{105690}{105748}Je comprends ce que tu as fait.
+{105780}{105858}Je ne peux ni le pardonner,|ni l'oublier.
+{105895}{105945}Mais je peux le comprendre.
+{105965}{106005}Je sais ce que c'est
+{106010}{106083}de se sentir trahie.
+{106088}{106183}Ce que tu ne comprends pas|c'est qu'en se laissant trahir
+{106188}{106258}on se trahit soi-même.|Je n'ai fait que ça.
+{106273}{106315}Tu en fais autant en restant.
+{106340}{106380}Je n'ai rien d'autre.
+{106395}{106420}Regarde-moi.
+{106470}{106493}Tu vois quoi ?
+{106498}{106530}Une belle femme.
+{106548}{106628}Quelqu'un d'estimable.|Quelqu'un que j'estime.
+{106685}{106705}Je suis toujours là.
+{106723}{106785}- On aurait dû parler.|- Tu n'écoutais pas.
+{106818}{106913}Au journal tu as dit|que tu avais une dette envers Milo.
+{106943}{106988}Que sinon toi et moi...
+{107010}{107053}C'est Larry Case ?
+{107070}{107098}Je suis en direct ?
+{107120}{107195}Je sais qui est l'homme sans visage.
+{107220}{107278}C'est moi, Creedlow,|j'ai tué ma femme.
+{107285}{107350}Et aussi Katie Saldano.
+{107355}{107440}Ce n'était pas prémédité|mais je l'ai tuée.
+{107460}{107500}Je l'ai jetée à l'eau au dock n°9.
+{107505}{107528}Arrête !
+{107533}{107605}Et mon ami Larson|au même endroit.
+{107610}{107665}Dans une belle caisse toute neuve.
+{107693}{107738}Les flics soupçonnent Burtram.
+{107745}{107818}Il n'y est pour rien.|C'est un type bien.
+{107835}{107908}Rosie aussi est quelqu'un de bien.
+{107915}{108013}Rosemary Newley.|Elle a rien à voir là-dedans.
+{108018}{108123}Pas plus que|dans ce qui se passera ce soir.
+{108153}{108193}Je te libère Rosie.
+{109165}{109205}On va où ?
+{109210}{109255}Ça fait partie du jeu.
+{109260}{109350}Les idées amusantes de Milo.|Visite du ghetto en bétaillère.
+{109430}{109488}Tout le monde descend.
+{109493}{109523}C'est ici ?
+{109528}{109595}Pas tout à fait.
+{109630}{109693}J'ai trouvé le bouton.|Je t'allume ?
+{109705}{109775}T'es belle sans tes lunettes.
+{109780}{109860}Je voulais des lentilles|mais y avait pas ma taille.
+{109873}{109908}Allez, dépêchons-nous.
+{109945}{109990}- T'as du bon matos.|- Cul sec.
+{110020}{110035}Je n'ai rien.
+{110040}{110085}Voyons de quoi il s'agit.
+{110105}{110145}T'as raison, t'as plus rien.
+{110423}{110463}On va s'éclater !
+{110553}{110613}On prend un taxi et on rentre.
+{110618}{110678}Je peux vous demander votre nom ?
+{110705}{110778}M.Styles veut savoir|qui n'assiste pas.
+{110910}{110955}On va faire un tour.
+{110968}{111015}Restez près de moi.
+{111295}{111340}T'as pas un peu de monnaie ?
+{111345}{111378}C'est Henry.
+{111385}{111473}C'est moi qui t'ai engagé.|Tout va bien ?
+{111478}{111565}Trois camions déchargés.|Personne a vu qu'on était bidon.
+{111570}{111585}Bien.
+{111878}{111925}Je fais la couverture.|Vous êtes important ?
+{111930}{111995}Je ne crois pas.|J'ai voté pour la 7.
+{112020}{112055}Je suis un cinglé !
+{112060}{112103}Tu te trompes de cible.
+{112118}{112180}Un délire pour chaque sire.
+{112185}{112250}Une chambre pour chaque membre.
+{112395}{112440}Sentez le froid.
+{112445}{112525}Le froid de la viande morte.
+{113498}{113598}C'est complètement dingue.|Demande six voitures en douce.
+{113603}{113685}Si Creedlow est là|je ne veux pas le faire fuir.
+{113690}{113795}Secteur Canal Street.|N° 12. Demande renforts.
+{113800}{113855}Qu'est-ce qui ne va pas chez vous ?
+{113860}{113910}Qu'est-ce qui ne va pas chez vous ?
+{113915}{113960}Waka, c'est une Brute !
+{113980}{114025}Qui a fait ton costume ?
+{114030}{114068}Papa et maman.
+{114093}{114128}Je me caille.
+{114133}{114165}C'est intéressant.
+{114170}{114245}Tu déconnes, c'est du vrai. J'adore.
+{114250}{114290}Le nouveau truc.
+{114295}{114358}Plus chaud que la silicone.|La poule à moustache.
+{114380}{114435}Je change la couv de septembre.
+{114445}{114535}Tu ne peux pas me faire ça.|La couv c'est moi.
+{114540}{114565}Casse-toi monstre !
+{114570}{114638}- Ça gaze ?|- C'était quoi ça ?
+{114840}{114905}- Qu'est-ce que vous faites là ?|- Je surveille.
+{115045}{115093}Chester ?|Henry Creedlow.
+{115100}{115160}- On s'est parlé au téléphone.|- Ça va ?
+{115173}{115208}C'est quoi tout ça ?
+{115215}{115315}Table de mixage, séquenceurs,|avec commande manuelle bien sûr
+{115320}{115378}Bien sûr. Et puis tu sais,
+{115383}{115433}là-bas j'ai un nub|qui chope les signaux,
+{115445}{115495}tu vois, pour la zicmu.
+{115500}{115565}Ça va être dément mec, tu vas voir
+{115570}{115633}les confettis, tout ça.|De la balle !
+{115655}{115720}J'ai un peu les boules, tu vois.
+{115725}{115813}J'ai jamais eu à faire un méga show
+{115818}{115860}comme celui-là.
+{115865}{115965}Attention. Ce machin-là|est chaud comme deux soleils.
+{115970}{116015}On fera gaffe alors.
+{116020}{116045}Vraiment.
+{116050}{116105}Brute, mec. Brute de Brute.
+{116845}{116880}Vous devriez partir.
+{116885}{116980}Il s'est rendu méconnaissable.|Il n'y a que moi qui l'aie vu.
+{116998}{117028}On reconnaît personne.
+{117033}{117100}On ne connaît pas son vrai visage.
+{117105}{117170}On trouve Styles et on le lâche plus.
+{117210}{117238}Meurs !
+{117490}{117525}Où est-ce qu'on va ?
+{117610}{117655}C'est bon, montez-le.
+{117688}{117710}Victime suivante.
+{117953}{118010}Merde ! Par là. Suis-moi.
+{118015}{118045}Salopard !
+{118243}{118303}Tirez pas, vous allez la blesser.
+{118355}{118370}On monte.
+{118375}{118418}Non, il va redescendre.
+{118423}{118483}- Où sont les renforts ?|- Je ne sais pas.
+{118488}{118538}Tu restes là, je monte.
+{118643}{118688}Tu as prévenu la police.
+{118693}{118728}Ils m'ont suivie.
+{118740}{118795}Ni eux, ni toi vous ne m'arrêterez.
+{118800}{118865}- Je règle ton divorce.|- Pas comme ça.
+{118870}{118933}Comment ?|Tu vis encore avec lui
+{118940}{119033}Il doit même te sauter,|quand il lui reste l'énergie
+{119038}{119098}- Je me trompe ?|- Oui, tu te trompes
+{119113}{119175}Ne fais pas ça.|Ils savent qui tu es
+{119180}{119245}Tout le monde le sait.|Tu leur as dit.
+{119255}{119318}Je ne voulais pas|que tu sois accusée.
+{119323}{119375}- Je m'en serais sortie.|- De quoi ?
+{119380}{119448}- T'as rien fait.|- Tu comprends pas.
+{119503}{119583}Tu voulais partir.|Pars pendant qu'il est temps.
+{119618}{119668}Je t'ai perdu, c'est fini.
+{119673}{119750}- C'est fini ?|- Quand tu as avoué
+{119765}{119818}j'ai su que tu ne serais pas...
+{119823}{119853}Pas quoi ?
+{119858}{119903}Ton ami ? L'âme sœur ?
+{119908}{119973}Celui qui te tiendrait la main.
+{120010}{120050}Tu veux un compagnon,|offre-toi un chien.
+{120055}{120095}Mais pas un caniche.
+{120270}{120295}On descend là.
+{120338}{120425}- T'inquiète pas, c'est sans danger.|- Je t'en supplie.
+{120430}{120495}Vraiment ?|On ne m'a jamais supplié.
+{120500}{120548}C'est plutôt agréable.
+{120553}{120588}Va-t'en maintenant.
+{120593}{120633}Tu dis ça pour sauver Milo.
+{120653}{120690}Profites-en.
+{120695}{120758}Fais comme tout le monde|et profites-en.
+{120763}{120835}Attends. Ils te prendront|si tu y vas.
+{120878}{120930}Ils me verront pas.
+{120935}{121010}Je suis invisible.|Je l'ai toujours été.
+{122130}{122148}Je suis là.
+{122153}{122193}Il est au deuxième.
+{122333}{122368}Bouge plus ou...
+{122523}{122600}Je vous tuais si j'avais voulu.
+{122733}{122773}Espèce de salaud !
+{123538}{123605}Vire !|On me paye pas assez pour ça.
+{123775}{123808}Vous avez vu Styles ?
+{123813}{123848}Allez voir aux chiottes.
+{123853}{123930}Venez. On va lui faire|ce qu'il fait aux autres.
+{124283}{124325}C'est quoi ce bordel ?
+{124355}{124395}Tu veux me faire peur ?
+{124435}{124475}J'attends mon tour.
+{124480}{124515}T'es mon genre toi.
+{124553}{124655}Je commande toujours|une spéciale handicapés.
+{124665}{124763}Personne les utilise.|C'est propre, impeccable
+{124768}{124828}et il y a de la place pour s'éclater.
+{124860}{124910}Tu étais avec une femme ?
+{124983}{125070}Tu crois que j'ai coulé|le bronze du siècle ?
+{125075}{125105}A mon avis
+{125110}{125190}tu es la chose la plus ignoble|qui ait jamais existé.
+{125215}{125248}On n'existe pas pour toi.
+{125253}{125308}C'est vrai.|Tu sais pourquoi ?
+{125313}{125370}Parce que t'es rien !
+{125383}{125488}Une fourmi.|Une fourmi sans cerveau
+{125493}{125595}avec de petites couilles. Voilà !|Et moi, les fourmis je les bouffe.
+{125633}{125685}Du calme, c'est du spectacle.
+{125690}{125765}C'est pour le spectacle ?|D'accord.
+{125770}{125838}C'est pour jouer, c'est tout.
+{125848}{125893}- Comme tu joues avec nous.|- Ça me plaît.
+{125898}{125960}- On a eu une idée.|- Le bouquet final ?
+{125970}{126040}Pas de bouquet final sans vous.
+{126045}{126105}- C'est juste.|- Emmenez-le.
+{126130}{126210}Le bouquet final. Ça va me plaire.
+{126390}{126440}Il est parti. La fête est finie.
+{126458}{126553}Tu devrais te fringuer|et foutre le camp.
+{126565}{126598}Allez !
+{127530}{127578}En plein dans le mille.
+{127678}{127710}C'est quoi ça ?
+{127985}{128030}Armaggedon,|mesdames et messieurs.
+{128105}{128153}Je vole.
+{128228}{128305}Où est passée Clochette ?
+{128375}{128433}Et maintenant ?
+{128528}{128638}Je vous aime|Romains, mes concitoyens.
+{128730}{128823}Je vous aime. Merci à tous.
+{128978}{129033}Descendez-moi de là !
+{129060}{129155}C'est pas un happening !|C'est pour de vrai !
+{129240}{129335}Qu'est-ce que tu fais ?|Tu veux jouer ?
+{129405}{129480}Pauvre nul.|T'es qu'un nul !
+{129498}{129563}La mode c'est nous.
+{130785}{130868}- Henry, je ne t'avais pas vu.|- Tu vois mon visage ?
+{130885}{130950}- Oui, je le vois|- J'ai retrouvé mon visage ?
+{130955}{131000}Il était parti ?
+{131015}{131078}Oui, mais je me suis battu.
+{131120}{131160}Pour me retrouver !.
+{131165}{131230}T'es barjo.|Mais t'es tellement mignon.
+{131235}{131270}Viens danser avec moi.
+{131275}{131310}Pas un geste.
+{131353}{131400}Ce n'est rien, voyez.
+{131465}{131515}Le masque, mon masque.
+{131543}{131598}Totalement vide.
+{131603}{131675}- Comme le tien avant.|- Je t'entends pas.
+{131770}{131815}Attendez !|C'est moi l'assassin !
+{131820}{131860}C'est moi que vous cherchez.
+{131865}{131930}C'est moi.|Vous l'avez su tout de suite.
+{131940}{131983}- C'est moi !|- C'est moi !
+{132470}{132515}Il est mort !
+{132525}{132560}Cette fois j'arrête.
+{132565}{132623}Non poupée, t'es virée.
+{133195}{133230}Ça va ?
+{133390}{133423}Condoléances.
+{133455}{133530}Faut boucler tout le quartier.
+{133535}{133593}Une Volvo marron.
+{133700}{133733}Il a disparu.
+{133775}{133808}Il est quelque part.
+{133848}{133898}Et je le trouverai.
+{133908}{133955}C'est mon boulot.
+{133983}{134023}Pourquoi vous avez fait ça ?
+{134038}{134060}Quoi ?
+{134133}{134218}Je me suis fait avoir.|J'ai des comptes à rendre.
+{134225}{134275}Alors aidez-moi un peu.
+{134283}{134318}Dites-moi pourquoi.
+{134360}{134445}Je ne sais pas du tout|de quoi vous parlez.
+{134685}{134718}Si vous changez d'avis,
+{134723}{134810}si vous le retrouvez avant moi.|Appelez-moi.
+{135173}{135223}Paula Fleet, c'est vous.
+{135280}{135333}Qu'est-ce qu'on fait|pour l'escalier ?
+{135395}{135445}Voilà pour vous monsieur.
+{135453}{135500}Une pomme par jour...
+{135543}{135620}C'est de la merde,|voilà ce qu'il y a !
+{135625}{135688}Vous avez un goût de chiottes !
+{135693}{135758}Vous avez pas de cerveau ou quoi ?
+{135763}{135815}C'est pas un cerveau qu'il vous faut.
+{135820}{135855}Ce qu'il vous faut|c'est des couilles,
+{135860}{135918}des putains de maracas !
+{135943}{135983}Tu veux ma photo ?
+{135988}{136058}- Moi monsieur ?|- Oui, toi. Glandu !
+{136070}{136128}- Ça t'intéresse ?|- Pas vraiment.
+{136133}{136175}Alors qu'est-ce que tu regardes ?
+{136180}{136235}Rien monsieur, rien.
+{136245}{136305}Reviens ici. Je te parle !
+{136310}{136360}Je te parle !
+{136365}{136425}Vous êtes tous des cons !
+{136430}{136528}Je trouve même pas un coursier|qui connaît son boulot.
+{136533}{136605}J'ai pas fini avec toi connard.|Reviens.
+{136625}{136668}Je viens monsieur.

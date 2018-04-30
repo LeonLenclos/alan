@@ -1,0 +1,650 @@
+{257}{329}Les Studios MOSFILM|de Moscou
+{360}{410}Quatrième Groupement
+{652}{719}Ton prénom, ton nom?
+{825}{940}Je m'appelle Iouri Jary
+{1099}{1152}Tu arrives d'où ?
+{1172}{1289}De Kharkov.
+{1594}{1642}Où tu fais tes études?
+{1649}{1790}Dans un collège technique.
+{1879}{1960}Toi et moi on va procéder|à une petite expérience.
+{1969}{2043}Tu me regardes attentivement.
+{2146}{2208}Là, dans les yeux.
+{2284}{2310}En avant.
+{2636}{2677}Tourne-toi de dos.
+{2749}{2809}Concentre-toi sur ma main.
+{2817}{2884}Ma main te tire en arrière.
+{3286}{3327}Présente tes mains à plat.
+{3431}{3580}Concentre-toi.|Toute l'attention sur les mains.
+{3671}{3752}Les mains ne se relâchent pas!
+{3784}{3867}Toute ta volonté,|ton ardent désir de vaincre,
+{3876}{3929}tout se concentre dans tes mains.
+{3958}{4061}L'effort des mains continue de croître.
+{4071}{4124}Les mains. Encore.
+{4149}{4300}Regarde tes doigts.|L'effort se communique aux doigts.
+{4319}{4427}C'est d'ici que toute la tension|passe dans les doigts.
+{4439}{4547}Regarde tes mains.|Iouri, concentre-toi.
+{4611}{4700}Maintenant je vais compter jusqu'à trois|et tes mains ne bougeront plus.
+{4738}{4904}Un, deux, trois!|Les mains ne bougent pas.
+{4916}{4966}Tu ne peux pas bouger les mains.
+{4973}{5050}Tu tentes de bouger les mains,|mais elles ne t'obéissent pas.
+{5081}{5182}Tu n'arrives pas à faire|un mouvement précis.
+{5201}{5247}À présent je supprime le flux
+{5253}{5400}et tu vas parler distinctement,|facilement, avec aisance.
+{5433}{5589}Et tu parleras toujours de cette façon|à voix haute, distinctement.
+{5642}{5676}Regarde-moi.
+{5710}{5820}Je supprime la tension interne|de tes mains et de ton élocution.
+{5887}{5976}Un, deux, trois!
+{6013}{6085}À voix haute et distincte|"Je sais parler!"
+{6136}{6234}LE MIROIR
+{6248}{6391}Dans les rôles de la mère et de Nathalia|Margarita TÉREKHOVA
+{6408}{6518}Scénario: Alexandre MICHÉRINE|etAndréi TARKOVSKI
+{6531}{6648}Réalisateur: Andréi TARKOVSKI
+{6658}{6768}Directeur de la photographie|Guéorgui RERBERG
+{6778}{6855}Décors|Nikolaï DVIGOUBSKI
+{6865}{6946}Musique d'Édouard ARTÉMIEV
+{6957}{7039}Son : Sémione LITVINOV
+{7053}{7132}Sous-titres français|Alexandre KARVOVSKI
+{7427}{7454}Avec
+{7462}{7512}I.DANILTSEV,|L.TARKOVSKAÏA et A.DÉMIDOVA
+{7520}{7561}A.SOLONITSINE|et N.GRIGNKO
+{7568}{7632}T.OGORODNIKOVA,|I.NAZAROV et O.IANKOVSKI
+{7640}{7702}F.IANKOVSKl,|I.SVENTIKOV et T.RECHETNIKOV
+{7842}{7950}Texte off lu par|I.SMOKTOUNOVSKI
+{7960}{8085}Poèmes d'Arsène TARKOVSKI|lus par l'auteur
+{8097}{8221}Morceaux musicaux de|JS BACH, PERGOLÈSE et PURCELL
+{8425}{8526}LE MIROIR
+{9206}{9276}Le chemin de la gare|passait par Ighnatiévo,
+{9287}{9381}s'écartait sur la gauche|peu avant le hameau
+{9389}{9452}où avant la guerre|nous passions nos étés
+{9469}{9555}et à travers le bois de chênes|poursuivait vers Tomchino.
+{9626}{9674}D'habitude on|reconnaissait les nôtres
+{9682}{9766}au moment où ils émergeaient de derrière|la buisson poussé au cœur du grand pré.
+{9804}{9905}Si la silhouette tournait dans notre|direction c'était mon père,
+{9939}{10023}autrement ce n'était pas mon père,
+{10032}{10094}et ça voulait dire|qu'il ne viendrait plus jamais.
+{10451}{10511}C'est bien le chemin de Tomchino?
+{10531}{10591}Il ne fallait pas tourner|après le buisson.
+{10642}{10702}- Et ça... c'est quoi ?|- Quoi ?
+{10741}{10789}Qu'est-ce que vous faites là,|perchée sur la barrière?
+{10801}{10880}- J'habite ici.|- Où? Sur la barrière?
+{10909}{10986}Vous voulez savoir comment aller|à Tomchino ou bien où j'habite?
+{11011}{11155}J'ai pris ma trousse|et j'ai oublié la clé.
+{11196}{11285}Vous n'auriez pas|un clou ou un tournevis?
+{11334}{11372}Non, pas de clou.
+{11401}{11449}Vous me semblez nerveuse, qu'est-ce qu'il y a?
+{11461}{11516}Donnez-moi la main. Je suis le médecin.
+{11649}{11699}Vous m'importunez.
+{11706}{11752}Faut-il que j'appelle mon mari?
+{11761}{11926}Vous n'avez pas de mari.|Votre alliance?
+{12039}{12149}Au vrai plus personne ne la porte.|Les vieilles personnes à la rigueur.
+{12311}{12366}On peut vous demander une cigarette?
+{12788}{12831}Mais pourquoi vous êtes-vous triste?
+{13068}{13116}Et qu'est-ce qui vous rend si gai?
+{13128}{13212}Le fait déjà de tomber|sur une femme émoustillante.
+{13435}{13610}Je tombe sur vous et je vois toutes ces|choses... Des racines, des arbustes...
+{13646}{13725}Vous ne vous êtes jamais dit|que les plantes
+{13770}{13921}doivent sentir, qu'elles sont conscientes,|qu'elles comprennent même...
+{13986}{14055}Les arbres, ce noisetier...
+{14070}{14130}- C'est un aune.|- Aucune importance.
+{14163}{14206}Ils sont là, ils ne galopent nulle part.
+{14235}{14341}C'est nous qui galopons, qui remuons,|qui disons des incongruités.
+{14510}{14623}Parce que la nature qui est en nous,|nous ne voulons pas nous y fier.
+{14673}{14766}Je ne sais quelle défiance,|quelle presse perpétuelle,
+{14795}{14855}on n'a pas le temps de réfléchir.
+{14905}{14950}Quelque chose ne...
+{14968}{15073}Aucun danger. Puisque je suis médecin.
+{15143}{15191}Et "La chambrée numéro 6"?
+{15215}{15290}Des inventions tchékhoviennes tout ça!
+{15338}{15518}Venez nous voir à Tomchino.|Il est rare qu'on s'ennuie là-bas.
+{15529}{15565}Vous saignez!
+{15587}{15674}- Où ça?|- Derrière l'oreille!
+{17126}{17198}Nous célébrions comme une révélation
+{17207}{17274}Chaque seconde de nos rencontres.
+{17282}{17354}Nous étions seuls au monde.
+{17369}{17498}Plus hardie et plus légère qu'aile d'oiseau
+{17509}{17567}Dans l'escalier comme un vertige
+{17575}{17647}Tu dévalais les marches deux à deux|Et à travers les ruisselants lilas
+{17654}{17724}M'emmenais dans ton royaume|De l'autre côté du verre miroir.
+{17736}{17784}Et quand la nuit advint
+{17791}{17846}Me fut octroyée la grâce,
+{17854}{17892}Les portes de l'autel s'ouvrirent,
+{17899}{17964}Et dans la pénombre s'allumant,
+{17972}{18034}Lentement ta nudité me salua.
+{18044}{18126}" Sois bénie..." murmurai-je
+{18134}{18206}À l'éveil, sachant bien téméraire
+{18214}{18277}Ma parole. Car tu dormais
+{18285}{18347}Et le lilas sur la table tâchait
+{18354}{18402}À poser l'azur du ciel sur ta paupière,
+{18412}{18472}Et ta paupière d'azur touchée
+{18479}{18558}Était sérénité, ta main était tiédeur.
+{18591}{18656}Dans le cristal le pouls des fleuves,
+{18664}{18738}L'envol des monts, la houle des mers.
+{18754}{18814}Endormie sur le trône, tu gardais
+{18821}{18895}La sphère lucide au creux de la main.
+{18909}{18978}Et - Juste Dieu ! - Tu fus à moi.
+{18996}{19049}Tu t'éveillais, transfigurant
+{19056}{19116}Le quotidien vocabulaire d'homme,
+{19129}{19198}D'accents pleins et forts ta voix
+{19206}{19288}S'emplit et le mot "toi" livra
+{19297}{19380}Son nouveau sens et signifia " le roi ".
+{19388}{19453}Métamorphosé, le monde, jusqu'aux
+{19461}{19533}Objets rustiques, - cuvette, broc,
+{19542}{19599}Quand entre nous s'interposa
+{19611}{19675}une eau veinée et dure, en sentinelle.
+{19689}{19747}Alors nous fûmes emportés je ne sais où,
+{19756}{19818}Comme mirages s'écartèrent devant nous
+{19826}{19874}Des cités bâties par miracle.
+{19886}{19954}La menthe venait en tapis sous le pied,
+{19964}{20014}Les oiseaux se plaisaient à nous suivre,
+{20021}{20093}Les poissons remontaient les cours d'eau
+{20101}{20163}Et le ciel bascula dans l'instant
+{20181}{20251}Où le Sort nous emboîtait le pas,
+{20266}{20335}Tel le fou qui empoigne un rasoir.
+{20536}{20622}C'est-y Dieu possible! Dounia!
+{20678}{20736}Qu'est-ce que c'est Pacha?!
+{21071}{21119}Un incendie. Mais vous cessez de hurler!
+{21488}{21524}Toi, si je te tiens!
+{21533}{21649}Et si le Vitka est là-bas? S'il a brûlé?
+{21661}{21728}Klanka, où est-elle?
+{21845}{21872}De quoi?
+{24826}{24853}Papa.
+{29379}{29427}- Alexis?|- Bonjour m'man.
+{29433}{29481}Cette voix... Qu'est-ce que tu as?
+{29495}{29570}Rien de grave, une angine je pense.
+{29611}{29658}Je suis resté trois jours aphone.
+{29685}{29762}J'ai même pensé que|c'est bon de se taire un peu.
+{29790}{29836}Les mots sont incapables de dire
+{29843}{29936}tout ce que l'homme ressent,|ils sont amorphes.
+{30008}{30092}Je viens de te voir en songe.
+{30105}{30144}Comme si tu es encore petit...
+{30150}{30266}À propos, en quelle année|père nous a quittés?
+{30318}{30407}En 1935. Pourquoi penser à çà?
+{30466}{30552}Et l'incendie? Tu te rappelles,|au hameau, la grange qui a flambé?
+{30583}{30634}La même année, en 35.
+{30677}{30756}Laisse, je ne veux pas penser à ça.
+{30765}{30847}Sais-tu que... Lisa est morte.
+{30915}{31081}Celle qui travaillait à l'imprimerie.
+{31122}{31232}- Seigneur... quand donc?|- Ce matin. À 7 heures.
+{31290}{31395}Et maintenant il est quelle heure?
+{31405}{31470}- Pas loin de six heures.|- Du matin?
+{31482}{31540}Qu'est-ce que tu dis? Du soir.
+{31570}{31669}Maman, on va se disputer longtemps?
+{31693}{31757}Pardon si c'est de ma faute.
+{32342}{32424}L'imprimerie.|Prochain arrêt Serpoukhovskaïa.
+{33302}{33347}Où vous pressez-vous comme ça?
+{34614}{34678}Bonjour.
+{34729}{34794}Où est passé le placard|que je corrigeais?
+{34801}{34904}Es-ce que je sais. J'arrive.
+{35021}{35069}Ici Élisabeth Pavlovna.
+{35271}{35310}Maroussia, qu'est-ce qu'il y a?
+{35414}{35459}C'est au sujet des épreuves de la nuit?
+{35482}{35570}L'édition du Gosslit? Ne t'énerve pas!
+{35598}{35644}Il faut chercher dans les casiers .
+{35689}{35732}Tu ne vas pas catastropher.
+{35996}{36114}Une édition comme celle-ci!
+{36231}{36293}Celle-ci ou celle-là, une édition|ne doit pas comporter de coquilles.
+{36316}{36360}Tais-toi idiote.
+{37871}{37933}- Qu'est-ce qui est arrivé?|- Rien de grave.
+{37941}{38063}Je veux voir...|Peut-être que je me trompe...
+{38098}{38143}Commençons par le commencement.
+{38163}{38214}Je préfère moi-même.
+{38220}{38292}Tout le monde se dépêche,|tout le monde est pressé !
+{38470}{38508}Vous pensez que j'ai peur?
+{38515}{38573}Est-ce que je ne saisis pas?|La peur c'est pour les autres.
+{38581}{38665}Les uns n'ont qu'à faire le boulot,|les autres n'ont qu'à avoir peur.
+{39128}{39168}Mais qu'est-ce qui est donc arrivé?
+{39178}{39242}Il est arrivé ce qui est arrivé.|La presse a marché toute la nuit...
+{41042}{41100}Hier je t'ai attendue toute la matinée.
+{41115}{41180}Ils ont compris que tu ne viendrais pas.
+{41190}{41247}Tu te souviens du temps qu'il faisait?
+{41254}{41328}Une fête! Je suis sorti sans manteau.
+{41349}{41412}J'arrive aujourd'hui et voilà,
+{41424}{41489}une journée plus grise que jamais,
+{41497}{41566}la pluie et ce soir qui n'en finit pas,
+{41582}{41664}les gouttes qui filent sur les branches,
+{41684}{41780}les mots sont impuissants,|le mouchoir ne sert à rien...
+{42349}{42507}Tu vois qu'il n'y a rien eu?|Que tout va bien.
+{42519}{42630}Tout va bien... Une faute|tout simplement épouvantable.
+{42639}{42682}Pourquoi tu pleures alors?
+{42721}{42844}Même que je l'ai vu|à la composition ce mot.
+{42855}{42883}Quel mot?
+{43339}{43377}Ça fait du bien!
+{43526}{43620}De l'alcool. Peu, mais utile.
+{43656}{43735}Vois, tu es trempée comme une soupe!|Tête de linotte !
+{43744}{43823}C'est vrai, trempée.
+{43844}{44007}Je crois que je vais prendre|une douche. Où est le peigne?
+{44044}{44121}Tu sais à qui tu ressembles là?
+{44166}{44221}- À qui?|- À Maria Timoféevna.
+{44228}{44267}Qui c'est ça encore?
+{44334}{44406}Tiens. C'est bien un peigne que tu veux?
+{44498}{44558}Non, mais quelle Maria Timoféevna?
+{44593}{44749}Tu ne te rappelles pas?|La sœur du capitaine Lébiadkine.
+{44804}{44890}C'est fou ce que tu lui ressembles.
+{44904}{44999}Moi? Et en quoi?
+{45053}{45164}Fiodor Mikhaïlovitch, malgré tout...|Tu as beau dire...
+{45174}{45207}Quoi?
+{45221}{45291}"Lébiadkine, apporte-moi de l'eau!"
+{45301}{45452}La différence c'est qu'au lieu de lui|apporter son eau, le frère la tabasse.
+{45476}{45533}Explique, je ne saisis pas.
+{45564}{45655}Toute ta vie c'est comme son|"apporte-moi de l'eau!"
+{45709}{45757}Un simulacre d'indépendance.
+{45763}{45814}Quand quelque chose ne te convient pas,
+{45821}{45912}tu fais comme si ça n'existait pas.
+{45938}{45986}Qu'est-ce que tu vas inventer?!
+{45993}{46055}La patience de ton ex-mari m'épate.
+{46063}{46161}Il devait te laisser tomber bien avant.
+{46170}{46206}A la fin qu'est-ce que tu me veux?
+{46213}{46302}Est-ce que tu le reconnaîtrais,|même fautive? Pour rien au monde!
+{46313}{46416}Parce que cette situation|tu l'as créée de tes propres mains!
+{46460}{46573}Comme tu as échoué|à faire partager par ton cher époux
+{46585}{46693}cet état démentiel que|tu appelles l'émancipation,
+{46703}{46756}autant dire qu'il s'est carapaté à temps.
+{46778}{46883}Quant aux enfants il n'y a aucun doute,|tu les rendras malheureux.
+{47145}{47191}Cesse de faire l'oiseau de malheur!
+{47998}{48084}Allons quoi? Macha!
+{48177}{48225}Fiche-moi la paix!
+{48372}{48440}Ma vie terrienne franchie à moitié,
+{48455}{48519}voilà que je m'égare dans la forêt...
+{50052}{50179}J'ai toujours dit|que tu es le portrait de ta mère.
+{50187}{50240}Probablement pour ça|qu'on s'est séparés.
+{50297}{50369}J'observe avec horreur comment|Ighnate se met à te ressembler.
+{50376}{50458}Pourquoi avec horreur?
+{50467}{50558}Toi et moi, je ne sais pas pourquoi,|on n'a jamais pu causer normalement.
+{50642}{50742}Quand je revois mon enfance et ma mère,
+{50752}{50848}elle a toujours ton visage, c'est drôle?
+{50909}{50955}Au fond j'en sais la raison.
+{50982}{51087}Vous me faites pitié|pareillement toi et elle.
+{51097}{51130}Ah oui?
+{51152}{51212}Ighnate, pose ce verre à sa place!
+{51388}{51444}Tu ne pourras vivre|normalement avec personne.
+{51451}{51492}Possible.
+{51514}{51632}Ne te vexe pas.|Je ne sais pas mais tu as la conviction
+{51662}{51734}que ta seule existence|aux côtés des gens qui t'entourent
+{51751}{51797}doit suffire à faire leur bonheur.
+{51809}{51845}Tu ne sais qu'exiger.
+{51869}{51948}Parce que j'ai été élevée par des femmes.
+{51971}{52038}Si tu ne veux pas qu'Ighnate|suive le même chemin,
+{52048}{52094}marie-toi en vitesse.
+{52146}{52206}- Avec qui?|- Ça je n'en sais rien.
+{52236}{52284}Ou laisse-moi Ighnate.
+{52418}{52502}Et toi, pourquoi tu ne t'es pas réconciliée|avec maman? C'était toi le fautif.
+{52518}{52597}En quoi?
+{52633}{52703}Elle s'est persuadée qu'elle sait mieux|que moi comment je dois vivre.
+{52716}{52785}Qu'il lui faut construire mon bonheur.
+{52849}{52983}Pour ce qui est de maman,|je le sens avec une acuité croissante.
+{53010}{53061}Quoi, avec acuité?
+{53069}{53129}Nous devenons toujours plus étrangers,
+{53151}{53213}Je n'y peux rien.
+{53711}{53833}Nathalia, trouve-lui une occupation !|Il recommence avec son Espagne.
+{53843}{53893}Ça va finir par un nouveau scandale.
+{54013}{54109}Je voulais te demander...|On refait l'appartement.
+{54135}{54253}Ighnate aimerait|passer la semaine chez toi.
+{54263}{54320}Mais très volontiers.
+{55260}{55299}Qu'est-ce qu'il dit?
+{55305}{55377}Il présente le célèbre matador|Palomo Linarès.
+{56134}{56190}Les adieux l'ont|particulièrement impressionné.
+{56250}{56317}Toute la ville était dans la rue.|Ils chantaient, ils dansaient.
+{56330}{56392}Sa mère a du s'abstenir,|elle était malade.
+{56417}{56564}Son père se tenait à l'écart,|peiné et silencieux.
+{56595}{56688}Il savait qu'avec son fils|ils pensaient à la même chose:
+{56699}{56759}allaient-ils jamais se revoir?
+{57212}{57245}Écoute, tu te moques de moi?
+{57280}{57352}Depuis le temps qu'on s'échinait|en vain à te l'apprendre,
+{57359}{57405}or monsieur y arrive fort bien!
+{57479}{57585}Il a été en Espagne et il n'a rien compris.
+{57602}{57731}Et vous-même, vous ne voudriez|pas retourner en Espagne?
+{57752}{57848}Impossible, je suis mariée à un Russe.
+{57877}{57917}Mes enfants sont russes.
+{58160}{58251}Je lui en glisserai un mot!
+{63965}{63989}Ighnate!
+{64093}{64131}Arrive ici! Je pars.
+{64598}{64653}Toujours la même histoire,|dès qu'on se dépêche...
+{64685}{64735}Abrège, fourre ça comme ça vient!
+{65005}{65134}- Ça fait comme un courant électrique.|- Quel courant?
+{65257}{65324}Comme si j'ai déjà vu tout ça...
+{65527}{65575}C'est pourtant la première fois|que je mets les pieds ici.
+{65749}{65826}Donne-moi l'argent|et cesse tes inventions.
+{65969}{66087}Ramasse ça ici, que tout soit propre.
+{66661}{66738}Et tu ne touches à rien.
+{66762}{66844}Si Maria Nikolaïévna vient,|dis-lui qu'elle m'attende.
+{67182}{67249}Entre. Bonjour.
+{67387}{67459}Une petite tasse de plus|pour le jeune homme.
+{67956}{68079}S'il te plaît, trouve le cahier.|Dans l'armoire, le troisième casier.
+{68281}{68358}Je lis la page marquée par le signet.
+{68532}{68683}"Comme on lui demandait quelle était|l'influence des sciences et des arts
+{68694}{68761}sur la moralité des hommes,|Rousseau répondit "pernicieuse".
+{68768}{68886}Ne lis que ce qui est souligné en rouge.
+{68916}{68997}"En dépit de ce que..."|Ah non.
+{69029}{69139}"La séparation des Églises|nous coupa de l'Europe.
+{69156}{69202}Nous n'eûmes part
+{69213}{69371}à aucun des grands événements|qui la bouleversèrent par la suite.
+{69394}{69507}Mais nous possédions|notre vocation singulière.
+{69541}{69613}La Russie et ses immenses espaces
+{69626}{69681}absorba l'invasion tartaro-mongole.
+{69691}{69852}Les Tartares n'osèrent pas poursuivre|au-delà de nos frontières occidentales.
+{69889}{69939}Ils se retirèrent dans leurs déserts,
+{69946}{70020}la civilisation chrétienne fut sauvée.
+{70066}{70147}Mais pour remplir cette mission|nous devions mener
+{70173}{70286}une existence spécifique qui, tout en|nous préservant en tant que chrétiens,
+{70308}{70409}fit de nous des étrangers|au monde de la chrétienté.
+{70453}{70525}Pour ce qui est de notre|insignifiance historique,
+{70533}{70591}je ne saurais être d'accord avec vous.
+{70599}{70709}Vraiment, vous ne voyez|rien de considérable
+{70721}{70774}dans la situation actuelle de la Russie,
+{70781}{70852}susceptible de frapper|l'historien de demain?
+{70898}{70982}Bien qu'attaché de cœur au souverain,
+{71005}{71120}je suis loin d'être enthousiasmé|par tout ce que je vois autour de moi.
+{71155}{71299}En tant que littérateur,|je m'irrite, je suis offensé,
+{71316}{71436}mais, parole d'honneur, pour|rien au monde je ne voudrais
+{71445}{71522}changer de patrie|ou avoir une autre histoire
+{71530}{71583}que celle de nos ancêtres,
+{71590}{71648}telle que le Seigneur nous l'a donnée".
+{71668}{71804}D'une lettre de Pouchkine à Tchaadaiev.|Le 19 octobre 1836.
+{71951}{71991}Va ouvrir.
+{72418}{72471}Je crois que j'ai fait erreur.
+{74009}{74069}Ighnate, raconte, comment va?
+{74120}{74168}Maria Nikolaïevna n'est pas passée?
+{74175}{74294}Non... une je ne sais quoi a sonné...|S'est trompée de porte.
+{74304}{74462}Trouve-toi une occupation|ou alors appelle des camarades.
+{74481}{74539}Tu as bien des petites amies?
+{74549}{74621}À l'école? Tu parles!
+{74632}{74740}À ton âge j'étais déjà amoureuse...|c'était pendant la guerre...
+{74774}{74889}Une rouquine... Ses lèvres|étaient toujours gercées.
+{74919}{74981}L'instructeur militaire lui faisait la cour,|il était réformé pour blessure.
+{75034}{75070}Tu m'écoutes?
+{76639}{76742}Où tu as tiré? Tu crois|que je ne t'ai pas vu?
+{76829}{76894}Tu as tiré là-haut!
+{76904}{77000}Ben quoi? Puisqu'il n'y a personne.
+{77008}{77047}Et s'il y avait quelqu'un?
+{77092}{77130}C'est des arbres.
+{77136}{77181}Et s'il y avait quelqu'un dans l'arbre?
+{77261}{77388}Demi-tour! Demi-tour j'ai commandé!
+{77423}{77512}Pose le fusil à sa place.
+{77528}{77576}Ben j'ai tourné.
+{77593}{77704}Tu as appris ton règlement|du service armé?
+{77771}{77907}Faire un tour, en russe, ça veut dire|exactement ce que j'ai fait.
+{77929}{78087}Faire un tour, ça veut dire|tourner de 360 degrés.
+{78120}{78243}De quoi, de quoi? Exécuter!
+{78498}{78580}Sur la position de tir, en avant, marche!
+{78721}{78781}Toi, je t'envoie chercher tes parents.
+{78808}{78851}Quels parents encore?
+{78913}{78961}Les parents qu'il faut.
+{79053}{79122}C'est quoi la position de tir?
+{79133}{79186}Allonge-toi sur le matelas!
+{79193}{79260}Ses parents sont morts|pendant le blocus.
+{79411}{79514}La position de tir|c'est... la position de tir.
+{79653}{79699}- Markov.|- Moi.
+{79742}{79800}Énumère les pièces principales de l'ar...
+{79917}{79963}Du fusil.
+{80368}{80401}La crosse.
+{80493}{80567}- La bouche.|- Bouche toi-même.
+{80867}{80913}Ben qu'est-ce que c'est alors la bouche?
+{81607}{81665}Les mecs! Une grenade!
+{81857}{81924}Une grenade à fragmentation!
+{82227}{82263}Non!
+{82287}{82330}À terre!
+{82340}{82380}T'es fou!
+{83315}{83353}Tu ne vois pas que c'est|du toc, pour l'exercice?
+{83842}{83949}Tu me parles d'un vétéran|du blocus de Léningrad...
+{88258}{88337}Je ne crois pas aux pressentiments
+{88345}{88434}Et ne suis pas superstitieux.
+{88443}{88517}Calomnie et poison n'ont pas de prise sur moi.
+{88530}{88571}La mort n'existe pas.
+{88580}{88645}Tous et tout sont immortels.
+{88653}{88713}Tu ne dois craindre la mort|ni à dix-sept,
+{88720}{88804}ni à soixante-dix ans ...|N'existent que présence et clarté.
+{88820}{88892}Il n'y a ni ténèbres ni mort ici-bas.
+{88905}{88963}Déjà nous voici tous sur la côte,
+{88980}{89040}je suis de ceux qui halent le filet
+{89048}{89103}Quand l'immortalité remonte des fonds.
+{89118}{89190}Habitez vos foyers,|les foyers tiendront bon.
+{89205}{89260}Je convoque un siècle au hasard,
+{89270}{89333}J'y entre, j'y bâtis ma demeure.
+{89347}{89407}C'est pourquoi j'ai à table avec moi
+{89418}{89473}vos enfants, vos épouses,
+{89484}{89554}Et même assiette|pour l'aïeul, le petit-fils -
+{89567}{89630}Ici, maintenant, s'accomplit le devenir.
+{89642}{89700}Car si je lève la main,
+{89710}{89775}les cinq rais restent pour vous.
+{89792}{89862}Les jours révolus je les ai tous épaulés
+{89870}{89927}De mes clavicules-étais.
+{89940}{90004}J'ai mesuré le temps|à la chaîne d'arpenteur,
+{90012}{90077}et comme l'Oural|je l'ai traversé de part en part.
+{90085}{90145}Car j'ai choisi le siècle à ma taille.
+{90153}{90236}Nous descendions au sud,|la poussière montait sur la steppe,
+{90250}{90312}la ronce fumait,|le criquet polissonnait,
+{90319}{90377}venant tâter de la moustache nos sabots|et chuchoter des prophéties.
+{90392}{90456}Pour moi c'était la mort, foi de prieur.
+{90464}{90531}J'ai donc jeté mon sort|en travers de la selle,
+{90539}{90599}et dans les temps futurs,|pareil au gamin,
+{90607}{90662}je m'arc-boute sur mes étriers.
+{90682}{90742}J'ai assez de mon immortalité
+{90757}{90821}pour qu'aille mon sang couler|d'un siècle l'autre,
+{90834}{90896}pour un coin sûr où il ne fait pas froid
+{90907}{90962}j'eusse volontiers donné ma vie,
+{90970}{91034}encore que sa pointe ailée est le fil
+{91042}{91109}qui me conduit sur les routes du monde.
+{95795}{95884}Maroussia ! Et les enfants?
+{95970}{95999}Où sont les enfant?
+{96093}{96169}Je dirai que tu as volé un livre.
+{96231}{96314}- De quoi?|- Je dirai.
+{96390}{96524}- Arrête, dis!|- Allez, va cafeter!
+{96535}{96614}Je le dirai, si!
+{96743}{96793}Marina!
+{98787}{98859}Tu pourrais te pointer plus souvent.|Tu sais bien qu'il s'ennuie de toi.
+{98940}{99112}Ighnate n'a qu'à venir chez moi.
+{99230}{99266}Tu parles sérieusement?
+{99277}{99368}C'est toi qui a dit qu'il le voudrait.
+{99409}{99460}On ne peut rien te dire...
+{99472}{99559}D'après toi, je l'ai inventé|pour m'amuser?
+{99589}{99675}Tu veux, on lui demande.|A lui de décider...
+{99704}{99750}D'ailleurs ça te facilitera les choses.
+{99792}{99833}Je voudrais savoir en quoi?
+{99959}{99997}Tu as rangé tes livres?
+{100067}{100110}Va dire au revoir à ton père.
+{100176}{100282}Maman et moi|on voulait te demander...
+{100312}{100338}Quoi?
+{100437}{100494}Tu seras peut-être mieux chez moi?
+{100503}{100535}Comment ça?
+{100562}{100696}On habitera ensemble.|Tu n'en a pas parlé avec maman?
+{100727}{100842}Qui a parlé? Quand? Non, pas de ça.
+{101649}{101701}Mais c'est vrai que nous|nous ressemblons beaucoup.
+{101726}{101764}Alors là, pas une goutte!
+{102225}{102297}Qu'est-ce que tu attends de ta mère?|Quelle sorte de relations?
+{102436}{102513}Celles que tu as connues enfant|sont impossibles.
+{102746}{102864}Tu parles de je ne sais quel|sentiment de culpabilité envers elle,
+{102873}{102919}elle aurait sacrifié sa vie pour vous...
+{102956}{103008}Qu'est-ce que tu lui veux?|Ces choses-là sont inévitables.
+{103073}{103157}Elle, elle rêve de te voir|redevenu le môme d'antan
+{103166}{103250}pour qu'elle puisse te prendre dans ses|bras, te défendre du bec et des ongles.
+{103330}{103445}Mais de quoi je vais me mêler?
+{103491}{103522}Comme toujours...
+{103795}{103857}À quoi bon faire des vagues? Explique.
+{103931}{103993}Je l'épouse ou je l'épouse pas?
+{104167}{104280}- Je le connais au moins?|- Non...
+{104315}{104348}Un Ukrainien?
+{104366}{104409}Qu'est-ce que ça peut faire?
+{104446}{104558}- Qu'est-ce qu'il fait?|- Un écrivain.
+{104616}{104676}Il s'appelle pas Dostoïevski des fois?
+{104688}{104719}Dostoïevski.
+{104775}{104852}N'a rien écrit, un parfait inconnu.
+{104873}{104942}La quarantaine je suppose?|Une nullité par conséquent.
+{105031}{105112}Tu as beaucoup changé.
+{105203}{105268}Un incapable. N'écrit pas.
+{105278}{105323}Il écrit mais on ne le publie pas.
+{105390}{105481}Admire, notre cancre|a fichu le feu à quelque chose.
+{105580}{105642}Tu as tort d'ironiser|au sujet du cancre.
+{105653}{105708}S'il se fait mettre à la porte du lycée|il est bon pour le service militaire,
+{105715}{105796}je vois d'ici comment tu te démèneras|pour lui obtenir une exemption.
+{105855}{105912}Les fruits de ton éducation.
+{105920}{106006}Tu sais, un séjour à l'armée|n'aurait rien de désastreux pour lui.
+{106015}{106058}Pourquoi tu ne téléphones pas à maman?
+{106068}{106140}Elle a gardé trois jours le lit|après la mort de tante Lisa...
+{106152}{106289}Puisqu'elle devait venir à cinq heures.
+{106360}{106422}Ça t'est si difficile|de faire le premier pas?
+{106445}{106497}Laisse, on parle d'Ighnate.
+{106585}{106633}Il se peut qu'il y ait aussi de ma faute.
+{106724}{106775}Ou alors c'est l'esprit petit-bourgeois|qui s'installe doucement?
+{106814}{106973}Un esprit petit-bourgeois,|comment dire, barbare, asiatique.
+{106992}{107064}Pas de propriété privée,|aisance croissante.
+{107077}{107116}À n'y rien comprendre.
+{107125}{107168}Qu'est-ce que tu as à t'irriter comme ça?
+{107180}{107261}De miens amis,|leur fils de 15 ans leur déclare :
+{107270}{107323}"Je vous quitte.|Ça m'écæure de vous voir
+{107329}{107382}tourniquer en rond, leur faire à tous un|sourire, aux chrétiens et aux païens".
+{107397}{107462}Bien ce garçon. Pas comme notre nigaud.
+{107532}{107589}Le nôtre, malheureusement,|ne diras jamais ça.
+{107597}{107647}J'imagine ce que sont tes amis!
+{107662}{107773}Pas pire que nous.|Lui travaille dans un journal.
+{107802}{107866}Au fait, s'estime aussi être écrivain.
+{108004}{108044}Encore qu'il ne puisse comprendre
+{108051}{108116}qu'un livre ce ne sont pas|des honoraires, c'est un acte.
+{108167}{108231}Le poète a vocation|de secouer les âmes,
+{108239}{108287}non pas de former des idolâtres.
+{108489}{108556}Tout de même, qu'est-ce que je dois faire?
+{108582}{108646}Te marier.
+{108659}{108760}Tu ne te rappelles pas,|le buisson ardent c'était avec qui?
+{108786}{108822}Tu sais, l'ange apparu|sous la forme du buisson?
+{108852}{108940}J'ai oublié. Pas Ighnate en tout cas.
+{108974}{109032}Et si on le mettait à l'école militaire?
+{109061}{109200}L'ange qui prit la forme du buisson|ardent s'est manifesté à Moïse.
+{109229}{109291}Après ça il a fait traverser|la mer à son peuple.
+{109308}{109380}Pourquoi rien de tel|ne m'apparaît jamais?
+{109686}{109804}Moi je fais régulièrement|le même songe.
+{109868}{109969}Comme si quelque chose|s'efforce de me faire revenir
+{110009}{110057}sur les lieux chers à pleurer
+{110063}{110116}où se trouvait la maison de grand-père,
+{110154}{110334}là où il y a 40 ans je suis né en toute|simplicité sur la table des repas.
+{110401}{110490}Mais quand je veux entrer, toujours|pareil, quelque chose m'en empêche.
+{110561}{110637}Je le fais souvent ce songe.
+{110731}{110867}Et quand je reconnais les murs de rondins,|l'entrée plongée dans l'obscurité,
+{110891}{110968}je sais déjà que ce n'est qu'un rêve.
+{111000}{111149}Et l'immense bonheur|est gâché par l'attente de l'éveil.
+{111248}{111320}Parfois, pour je ne sais quelle raison,|je cesse de voir en songe
+{111329}{111415}la maison, les sapins poussés|autour de la maison de mon enfance.
+{111476}{111526}Et je commence à céder au cafard.
+{111581}{111669}Et je guette le retour de mon rêve,|je le guette avec impatience,
+{111708}{111770}pour me revoir enfant
+{111806}{111865}et me sentir heureux de nouveau,
+{111898}{112030}parce que tout est encore à faire,|tout est encore possible...
+{113235}{113261}Maman.
+{116467}{116529}- Maman, on entre par là.|- Qu'est-ce que tu as ?
+{116704}{116737}Bonjour.
+{116826}{116853}Bonjour.
+{117087}{117185}- Vous êtes Nadiejda Petrovna?|- Je ne vous...
+{117194}{117268}Je suis la belle-fille de Matvéi Ivanov.
+{117304}{117355}C'étaient des amis de votre mari.
+{117377}{117449}Qui est ce Matvéi?
+{117457}{117552}Il est médecin, avant il habitait ici,
+{117561}{117676}puis il est allé s'installer à Iourévets|où il a un poste de juriste.
+{117759}{117821}Vous habitez en ville?
+{117829}{117901}On habite à Moscou mais|on a une chambre à Iourévets.
+{118067}{118141}Nous avons été évacués|l'automne dernier.
+{118189}{118287}Les premiers bombardements sur Moscou,|j'ai mes deux enfants.
+{118299}{118363}Maman avait des relations ici...
+{118476}{118557}Mon mari est absent, il est à Moscou.
+{118686}{118749}Arrête de te gratter!
+{118768}{118852}C'est vous que je cherchais.|Une confidence de dames.
+{119020}{119102}Entrez. On va pas|rester plantées ici...
+{119271}{119348}Vous essuyez vos pieds.|Macha vient de laver les planchers.
+{119961}{120076}Tu restes tranquille ici.|Nous n'en avons pas pour longtemps.
+{126166}{126260}Pourquoi tu restes dans le noir?|Elle s'est éteinte?
+{126319}{126364}Pourquoi tu ne nous as pas appelées?
+{126426}{126488}- Tu t'appelles comment toi?|- Aliocha.
+{126573}{126652}Moi aussi j'ai un fils,|pas aussi grand que le vôtre, non.
+{126671}{126742}Les enfants à présent|c'est un problème. La guerre.
+{126768}{126826}Moi qui souhaiterai|avoir encore une fille.
+{126843}{126903}Je vous le montre? Il dort.
+{126924}{126991}On ne fera pas de bruit.|C'est un enfant étrange.
+{128101}{128166}L'autre jour il demande à son père:
+{128186}{128274}"Pourquoi les 5 kopecks|sont plus grands que les 10?"
+{128290}{128408}J'en suis restée baba, son père|non plus n'a rien trouvé à lui dire.
+{128451}{128568}Lui c'est une fille qu'il voulait.|Il avait déjà un prénom.
+{128608}{128718}J'avais préparé la layette rose,|tout - les langes, le ruban.
+{128753}{128801}J'ai du tout refaire.
+{128821}{128919}Tu nous as bien attrapés petit brigand.
+{128995}{129048}On t'a réveillé?
+{129055}{129141}Voilà comment elle est ta maman,|une bavarde incorrigible.
+{129158}{129273}Qui est-ce qui nous rend visite?|Quelqu'un que tu ne connais pas?
+{129288}{129408}Allons bon, tu n'arrives|pas à te réveiller?
+{129433}{129534}Dors alors mon poussin.
+{129773}{129871}Est-ce que ça me va? Et la bague?
+{129900}{130006}- Qu'est-ce que vous avez?|- Je ne sais, un malaise.
+{130032}{130121}La route vous a fatiguée,|j'aurais dû y penser avant.
+{130135}{130199}Buvez déjà ça, réchauffez-vous.
+{130280}{130392}Je cause, je cause,|et le dîner qui va le préparer?
+{130407}{130474}Je en vous prie, ne vous|inquiétez pas pour moi.
+{130482}{130616}- Vous n'allez pas repartir comme ça?|- On a mangé avant de partir.
+{130638}{130695}Quelle mauvaise toux votre gars!
+{130754}{130809}Toute la journée à traîner dehors...
+{130820}{130913}Il faut que mon mari l'examine.
+{130930}{131028}On ne peut plus attendre, songez|que nous avons deux heures de route.
+{131037}{131128}Et les boucles d'oreilles?|L'argent c'est mon mari.
+{131137}{131238}On va tuer un poulet.|Seulement je dois vous demander...
+{131267}{131351}J'en suis au quatrième mois,|la nausée ne me lâche pas.
+{131360}{131424}Il suffit que je traie la vache|pour que ça remonte...
+{131447}{131555}Alors le poulet...|Vous ne pourriez pas?
+{131614}{131650}Vous savez...
+{131697}{131726}Comment, vous aussi?
+{131740}{131838}Non, mais je n'ai jamais fait ça.
+{131847}{131950}Pensez-vous, c'est deux fois rien. Sûr|qu'à Moscou vous mangez les cadavres.
+{132035}{132112}Je fais ça ici, sur ce billot.
+{132135}{132209}La hache. Mon mari l'a affûtée ce matin.
+{132232}{132307}- Ici, dans cette pièce?|- On posera une cuvette.
+{132314}{132429}Comme ça demain|vous emporterez votre poulet.
+{132439}{132473}Je ne pourrai pas.
+{132492}{132597}Demandons à Aliocha alors?|Un homme malgré tout.
+{132657}{132698}Aliocha, non...
+{132709}{132853}Si c'est comme ça, tenez-le bien.|S'il s'échappe la vaisselle est fichue.
+{133161}{133233}Aïe, ça ne va vraiment pas... Eh bien?
+{134422}{134537}Calme-toi! Tout ira bien.
+{134579}{134615}C'est triste que je ne te voie
+{134621}{134684}que lorsque je suis au plus mal...
+{134729}{134784}- Tu m'entends?|- Oui.
+{134956}{134996}Tu vois, je m'envole.
+{135003}{135066}Qu'est-ce qu'il y a Maroussia? Ça ne va pas?
+{135073}{135217}Ne sois pas étonné. Je t'aime.
+{135261}{135376}Comment, vous partez? Et les boucles?|Mon mari va arriver.
+{135386}{135477}- C'est lui qui a l'argent.|- Nous avons changé d'avis.
+{135486}{135572}Une course de vingt kilomètres. Vous|n'allez pas partir à la nuit tombante?
+{135581}{135629}Ce n'est pas grave,|ne vous inquiétez pas.
+{135949}{136032}L'homme n'a qu'un corps, un seul.
+{136040}{136115}L'âme en a sa claque|De l'enveloppe opaque
+{136123}{136198}Avec oreilles et yeux|Grands comme cent sous
+{136205}{136306}Et la peau couturée de cicatrices|Tendue sur les os.
+{136321}{136402}Elle file par la cornée|Se jeter dans les ruisseaux célestes,
+{136410}{136501}Enfourcher l'aiguille de glace,|Sauter dans le char de l'oiseau.
+{136510}{136592}Et derrière les barreaux|De son vivant cachot
+{136605}{136706}Elle écoute crépiter forêts et champs,|trompeter les sept océans.
+{136725}{136828}L'âme sans le corps se sent honteuse,|Comme le corps sans camisole,
+{136840}{136946}Ni projet, ni travaux,|Ni idée, ni parole.
+{136965}{137056}Sans solution la devinette:|Qui retourne dans son coin
+{137072}{137171}Après avoir dansé sur une piste|Désertée par les danseurs?
+{137188}{137288}Je rêve alors d'une autre âme,|Vêtue différemment:
+{137303}{137385}Elle flambe, elle saute|D'hésitation en espérance,
+{137392}{137486}Flamme brûlant sans ombre comme l'alcool|Qui court au ras du sol,
+{137503}{137596}Laissant sur la table pour mémoire|Une grappe de lilas.
+{137605}{137720}Cours, mon enfant, et ne plains pas|la malheureuse Eurydice,
+{137735}{137828}Et pousse à coups de baguette|Ton cerceau de laiton par la planète,
+{137837}{137933}Tant qu'en écho à chacun de tes pas,|Ne fût-ce qu'au quart de voix,
+{137952}{138058}Gaiement et sèchement la Terre|Continue de bruire à ton oreille.
+{142009}{142097}Maman, la lampe qui fume.
+{142138}{142162}Tu dis?
+{142614}{142662}Tout va dépendre de lui-même.
+{142669}{142731}Comment une angine|a pu avoir de tels effets?
+{142821}{142869}L'angine? Rien à voir.
+{142973}{143036}- Un cas tout ce qu'il y a de courant.|- Courant?
+{143211}{143381}La mort brutale d'une mère,|d'une femme, d'un enfant...
+{143431}{143515}Deux, trois jours - tout est fini, alors|que le défunt était en parfaite santé.
+{143524}{143572}Mais il n'y a pas de décès chez lui...
+{143619}{143777}Songez aux scrupules... à la mémoire...
+{143794}{143832}Qu'est-ce qu'elle a à voir la mémoire?
+{144068}{144179}- Vous l'estimez en un sens coupable?|- C'est son avis.
+{144191}{144232}Fichez-moi la paix!
+{144341}{144461}- Vous avez dit quelque chose?|- Fichez-moi la paix!
+{144518}{144609}Être heureux,|c'est tout ce que je voulais.
+{144643}{144727}Et ta mère si tu ne guéris pas?|Tu y as pensé?
+{144868}{144968}Te frappe pas, tout s'arrangera...
+{145023}{145062}Tout...
+{146890}{146967}Tu préfèrerais quoi,|un garçon ou une fille?
+{152846}{152944}FIN

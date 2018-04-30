@@ -1,0 +1,408 @@
+{107}{175}Mon père, que vais-je faire de lui?
+{207}{272}Je l'aime le petit Oscar
+{287}{350}mais il a déjà quatorze ans
+{357}{432}et toujours ces ennuis|et maintenant ça!
+{437}{462}Mon Dieu!
+{470}{550}Priez Madame Matzerath!
+{600}{650}Arrête Oscar!
+{3342}{3415}Qu'est-ce que je disais?|Encore du poisson!
+{3437}{3475}Elle ne mange pas, elle dévore
+{3482}{3530}et puis elle s'étonne d'être malade!
+{3537}{3590}Comment est-ce possible?
+{3605}{3645}Ça fait trois semaines!
+{3660}{3705}D'abord des sprats et des sardines,
+{3712}{3765}maintenant des harengs par paquets.
+{3817}{3857}J'ai tout essayé,
+{3865}{3915}je ne sais plus quoi faire.
+{3925}{3975}Il fallait me chercher plus tôt.
+{4337}{4385}Qu'est-ce qui te prend Agnès?
+{4482}{4537}Toi qui ne supportes pas le poisson!
+{4560}{4597}C'est moi qui vous le dis!
+{4605}{4705}Pour moi, le Führer|préfère un communiste repenti
+{4710}{4780}à un bureaucrate petit-bourgeois...
+{4930}{4957}Pas envie de vivre,
+{4962}{5000}pas envie de mourir.
+{5007}{5072}Je ne sais pas.
+{5102}{5192}Il y a trop de tout et de plus en plus.
+{5257}{5347}Je disais ça aussi|et c'est allé quand même.
+{5392}{5460}Tu crois que ça a été facile|quand Koljaiczek,
+{5467}{5510}ton père,
+{5532}{5587}s'est retrouvé sous le bois
+{5622}{5670}et qu'il n'est plus ressorti.
+{5675}{5712}Au moins il n'était plus là!
+{5717}{5762}Plus là l'homme!
+{5772}{5862}Tu dis ça toi qui t'en paies deux.
+{5870}{5895}Tu n'en as jamais assez.
+{5900}{5937}Ça va bien mère!
+{5945}{5995}Tu es enceinte, et alors?
+{6027}{6087}Comme s'il n'y avait pas|assez de place ici.
+{6147}{6187}C'est pour quand?
+{6230}{6290}Jamais!
+{6427}{6547}Agnès!|Je ne pouvais pas savoir.
+{6787}{6822}Va l'aider!
+{7025}{7085}Pourquoi tu ne veux pas de cet enfant?
+{7222}{7280}Ça ne fait rien de qui il est!
+{7832}{7867}Pas de trompette ici!
+{7875}{7940}Si tu en as envie, va jouer chez tes SA.
+{7952}{8030}Vous serez bientôt essoufflés,|salauds de Nazis!
+{8037}{8070}Cochon de rouge!
+{10035}{10087}Qu'est-ce que vous faites ici?
+{10095}{10132}Vous n'avez rien à faire ici.
+{10140}{10190}Vous voulez savoir ce que vous êtes?
+{10197}{10275}Vous savez quoi? Un youpin!
+{10875}{10967}Tu vois ce qu'ils font à Markus?
+{10985}{11035}Lui qui est baptisé comme eux.
+{11110}{11152}Ton tambour est cassé?
+{11172}{11250}Viens me voir.|Je t'en donnerai un neuf.
+{11397}{11450}Quelle belle journée!
+{11457}{11565}Là où elle est tout est bon marché.
+{11622}{11670}Oui Leo-Meschugge, une belle journée!
+{11682}{11725}Une journée inoubliable!
+{11742}{11792}Moi aussi j'ai vu le Seigneur!
+{11800}{11850}Vous avez vu le Seigneur?
+{12342}{12387}Belle journée!
+{12530}{12617}Le Seigneur... Il est passé,
+{12637}{12670}et Il était pressé.
+{17307}{17370}Il était une fois un tambour
+{17377}{17412}qui s'appelait Oscar.
+{17420}{17535}Il perdit sa pauvre maman|qui avait mangé trop de poisson.
+{17542}{17620}Il était une fois un peuple crédule
+{17632}{17690}qui croyait au père Noël.
+{17702}{17790}Mais en réalité le père Noël
+{17795}{17835}était le préposé au gaz!
+{18712}{18800}Il était une fois un marchand de jouets
+{18832}{18900}qui s'appelait Sigismund Markus
+{18952}{19065}et qui vendait des tambours|rouges et blancs vernis.
+{19270}{19345}Il était une fois un tambour
+{19372}{19417}qui s'appelait Oscar.
+{19655}{19682}Il était une fois
+{19687}{19727}un marchand de jouets
+{19735}{19780}qui s'appelait Markus
+{19812}{19912}et qui emporta avec lui|tous les jouets de ce monde.
+{20915}{20960}La patience du Führer est à bout.
+{20967}{21042}Danziger Vorposten!
+{21347}{21432}C'est le 1er septembre 1939,
+{21465}{21527}je suppose que vous connaissez|cette date,
+{21562}{21640}que je me rendis coupable|pour la deuxième fois;
+{21667}{21722}moi, Oscar le tambour,
+{21730}{21817}je n'ai pas seulement mené|ma pauvre maman au tombeau.
+{21825}{21900}C'est aussi moi qui ai entraîné
+{21907}{21977}mon pauvre oncle|et père présumé Jan Bronski
+{21985}{22032}à la poste polonaise
+{22040}{22107}et ainsi causé sa mort.
+{22207}{22245}Halte, on ne passe pas!
+{22272}{22327}Zone interdite! Personne n'entre!
+{22392}{22467}Nous allons voir le portier Kobyella.
+{22495}{22550}C'est un Polonais, arrêtez-le!
+{22732}{22805}Il était temps.|A la distribution d'armes!
+{23575}{23615}Qu'est-ce que tu viens faire ici?
+{23622}{23662}Kobyella. Réparer le tambour!
+{23670}{23760}Il n'a pas le temps|de s'occuper de toi!
+{23897}{23935}Va te cacher Oscar!
+{23942}{24000}Je dois rester ici. File!
+{24137}{24217}Agression contre le territoire du Reich!
+{24267}{24320}Cette nuit pour la première fois
+{24327}{24425}les provocations|depuis le territoire polonais
+{24442}{24497}sont venues de troupes régulières.
+{24517}{24620}Depuis 5 heures 45 nous répondons à leur tir.
+{24830}{24922}Désormais les bombes|répondent aux bombes!
+{25957}{26030}- Où est Jan, oncle Jan?|- Dans la cave.
+{27405}{27477}Le tambour! Jan, le tambour!
+{27487}{27522}Je veux le tambour!
+{27540}{27615}Oscar! Descends!
+{27732}{27785}Ne reste pas ici!
+{29245}{29292}Ne flanche pas!
+{29395}{29472}Je t'installe, tu ne tomberas pas.
+{30630}{30680}Partie gagnée, quatre trèfles,
+{30685}{30770}quarante-huit points,|ça fait douze pfennigs!
+{31487}{31557}Ne gâche pas le jeu maintenant!
+{31565}{31605}Je ne peux pas jouer tout seul!
+{31612}{31655}Reprends-toi!
+{31720}{31755}Qu'est-ce que tu as?
+{31917}{31965}Kobyella, je t'en prie!
+{31997}{32072}J'ai un jeu formidable!
+{32437}{32462}Agnès!
+{32470}{32500}Elle est morte.
+{33105}{33200}Nous capitulons! Ne tirez pas!
+{33287}{33327}Cessez le feu!
+{35412}{35512}On nous filma pour les actualités,
+{35527}{35585}qui passèrent dans toutes les salles.
+{35592}{35702}Car ce qu'Oscar avait vécu|à la poste polonaise de Danzig
+{35712}{35790}est entré dans l'Histoire
+{35802}{35862}comme le début|de la Deuxième Guerre mondiale.
+{36492}{36550}Ils ont fusillé Jan Bronski?
+{36840}{36925}Ils ont ramassé
+{36945}{37005}toutes les douilles.
+{37022}{37082}Toutes sauf une.
+{37112}{37200}On en oublie toujours une.
+{37632}{37680}La ville libre hanséatique de Danzig
+{37687}{37757}fêta le rattachement|de sa brique gothique
+{37765}{37827}au Grand Reich allemand.
+{37872}{37932}C'est un grand moment de ta vie!
+{37945}{38012}Fais bien attention|pour pouvoir tout raconter!
+{38020}{38095}S'il me regarde|je crois que je vais m'évanouir!
+{38102}{38135}Le voilà!
+{38972}{39052}C'est Maria, elle voudrait|se faire embaucher ici.
+{39500}{39590}Tu disais bien qu'il te fallait quelqu'un|pour les clients.
+{39622}{39667}Tu ne peux pas continuer comme ça.
+{39717}{39770}Et lui non plus.
+{39790}{39867}Je vous salue Marie pleine de grâce...
+{40092}{40122}Seigneur, donne-moi...
+{40135}{40190}la foi pour que j'aille au ciel.
+{40355}{40390}Tu as été au petit coin?
+{40467}{40502}Je joue quelque chose?
+{40512}{40577}"Aimer Marie sera mon sort".
+{41302}{41330}Va-t'en!
+{41727}{41817}Si je ne tiens pas compte|d'engouements anonymes,
+{41832}{41910}Maria fut mon premier amour.
+{44102}{44137}Quel âge as-tu?
+{44142}{44175}Juste seize ans.
+{44182}{44215}Moi aussi.
+{44277}{44320}On ne le dirait pas.
+{44977}{45035}Maria sentait la vanille.
+{45055}{45090}Ça venait d'où?
+{45100}{45170}Est-ce qu'elle se frictionnait|avec une racine?
+{45185}{45297}S'agissait-il d'un parfum bon marché?
+{45310}{45375}Oscar décida d'en avoir le cœur net.
+{47875}{47917}Qu'est-ce que tu fais?
+{48112}{48147}Arrête!
+{48622}{48665}Quel polisson!
+{48677}{48735}Tu viens voir là-dedans|et tu ne sais rien.
+{49012}{49075}- Vous rentrez tard?|- Possible petite.
+{49082}{49135}Trop de victoires à fêter.
+{49160}{49200}Tu peux dormir avec Maria.
+{49220}{49277}On tient dans un lit avec Oscar.
+{49285}{49330}C'est un huitième de portion!
+{49352}{49427}Vite, sous les couvertures!
+{49440}{49485}Allez, dépêche-toi!
+{49525}{49580}Il va être bien content!
+{53592}{53625}Il est moins le quart!
+{53645}{53715}Encore un peu Alfred!
+{53755}{53790}Mais fais attention!
+{53797}{53887}Mais oui, mais oui.
+{53962}{54020}Ça vient.
+{54047}{54105}Encore un peu mais...
+{54112}{54157}Je fais attention!
+{54262}{54287}Va-t'en!
+{54522}{54575}- Qu'est-ce qui te prend?|- Arrête!
+{54582}{54655}C'est pas sa faute|si tu ne peux pas faire attention!
+{54662}{54747}Et qui a dit "Encore un peu?"
+{54752}{54842}J'ai dit "Fais attention, ça vient!"
+{54850}{54925}Vous n'en avez jamais assez!|Toutes les mêmes!
+{54932}{55005}Tu crois que moi|c'est l'aller-retour vite fait?
+{55015}{55062}Tu peux t'en chercher une autre!
+{55067}{55137}Ma sonnerie ne se déclenche pas|comme ça!
+{55142}{55195}Tu ne fais même pas attention!
+{55202}{55275}J'en ai assez de t'entendre gueuler!
+{55307}{55375}Alors va voir ton chef de cellule|couille en bois!
+{55380}{55467}Il va falloir changer de ton.|Les bonnes femmes!
+{55472}{55565}Encore des gicle-vite comme toi!|Fous le camp!
+{55572}{55642}Si tu es en chaleur|prends un prisonnier de guerre!
+{55652}{55700}Le Français qui livre la bière,
+{55707}{55752}il fera sûrement ça mieux!
+{55997}{56075}Pour moi, l'amour c'est pas|que des cochonneries!
+{56107}{56180}Je préfère encore jouer aux cartes.
+{58302}{58350}Petit nain vicieux,
+{58357}{58412}espèce de gnome timbré!
+{58420}{58510}On devrait te mettre au cabanon!
+{58952}{59010}Je ne le pensais pas Oscar!
+{59760}{59795}Tu auras ta chambre à toi.
+{59802}{59840}Bientôt 17 ans!
+{61672}{61720}Viens donc!
+{61795}{61852}Tu vas te geler!
+{62100}{62140}Tu ne veux pas monter?
+{62562}{62590}Entre.
+{62767}{62815}Approche-toi Oscar.
+{62852}{62902}Viens sous l'édredon, il fait chaud.
+{62910}{62955}Il fait froid,
+{62965}{63012}Greff ne chauffe pas.
+{63020}{63045}Entre!
+{63595}{63642}Greff veut durcir son corps!
+{63692}{63740}Il aime la jeunesse, l'austérité.
+{63747}{63810}Il préfère les garçons aux filles.
+{64105}{64137}J'ai les pieds gelés.
+{64162}{64212}Un éclaireur n'a pas froid!
+{64482}{64527}Ça avance à l'Est!
+{64607}{64650}Leningrad tombe d'un jour à l'autre.
+{64657}{64707}Kiev compte plus, à cause du pétrole.
+{64715}{64797}Beaucoup mieux qu'en quinze|quand j'étais là-bas.
+{64805}{64845}Le principal c'est Moscou!
+{64892}{64927}Alfred, découpe-la!
+{64952}{65007}Si on n'avait pas les grands-mères!
+{65015}{65107}Pour fournir des oies|les Kachoubes sont toujours assez bons.
+{65112}{65175}Je regrette de ne pas y être.
+{65187}{65255}Mais je suis indispensable|sur le front intérieur.
+{65262}{65302}Moscou doit être rasée
+{65310}{65375}pour ne pas avoir à nourrir ces gens.
+{65382}{65420}Le Führer le sait bien.
+{65437}{65527}Ils ont transféré mon Herbert au front
+{65575}{65605}pour qu'il se batte.
+{65612}{65662}Bataillon disciplinaire!
+{65680}{65800}On les aura par la faim!|Et la guerre sera finie.
+{65807}{65842}Le blanc ou la cuisse?
+{65847}{65890}Je voudrais la cuisse.
+{65965}{66000}Elle est bien croustillante.
+{66012}{66055}Toute l'Europe avec nous!
+{66062}{66095}L'héroïque Finlandais...
+{66102}{66135}Pas d'oie sans sauge.
+{66142}{66175}Les Magyars, les Roumains!
+{66182}{66247}Oscar, quel beau repas de baptême!
+{66255}{66325}Nous triomphons même en mer.
+{66365}{66417}Greff, pas d'oie?
+{66425}{66465}Jamais de viande!
+{67137}{67247}Maintenant Oscar tu as un petit frère.
+{67255}{67305}Tu pourras jouer avec lui plus tard.
+{67312}{67367}L'aîné du boucher aussi est tombé!
+{67375}{67430}Il a eu la Croix de fer|première classe!
+{67437}{67472}Deuxième!
+{67657}{67690}Kurt, mon fils.
+{67720}{67777}Tu es bien mon fils.
+{67822}{67877}Quand tu auras trois ans,
+{67885}{67927}je te donnerai un tambour.
+{67942}{67992}Et si tu ne veux pas grandir,
+{68002}{68052}je te montrerai comment t'y prendre.
+{68247}{68270}Un autographe.
+{68277}{68355}Excusez-moi.|Un autographe s'il vous plaît.
+{68807}{68860}Mon cher Oscar!
+{68887}{68960}Comme je suis heureux de vous revoir.
+{68977}{69012}Ne l'avais-je pas dit?
+{69020}{69077}Nous sommes trop petits|pour nous perdre.
+{69112}{69182}Très bien, vous n'avez pas grandi.
+{69210}{69255}Roswitha!
+{69327}{69385}Je vous présente Oscar,
+{69392}{69467}un vieil ami qui brise|le verre avec sa voix.
+{69550}{69590}La grande somnambule!
+{69597}{69670}La joie des soldats sur tous les fronts
+{69695}{69732}et de mes vieux jours.
+{69985}{70052}Mon accoutrement vous étonne.
+{70072}{70157}Le ministère de la Propagande|nous a sollicités.
+{70162}{70207}On nous a proposé
+{70215}{70272}de paraître|devant les plus hautes sommités.
+{70295}{70335}Saleté de politique!
+{70340}{70400}Nous nous consacrons aux combattants.
+{70865}{70907}Un cadeau d'Oscar!
+{70962}{71012}Merci mille fois cher Oscar.
+{71020}{71045}Vous avez du talent.
+{71052}{71135}Venez avec nous.|Qu'est-ce qui vous retient ici?
+{71142}{71195}Venez avec nous jeune homme,
+{71202}{71260}jouez du tambour, brisez des verres,
+{71267}{71317}des ampoules,|des flûtes de champagne!
+{71322}{71382}L'armée d'occupation allemande|en France,
+{71392}{71465}dans le gai Paris,|vous en sera reconnaissante!
+{71482}{71525}Connaissez-vous Paris?
+{71535}{71562}Eh bien alors!
+{71592}{71665}Chers soldats de plomb de Paris,
+{71675}{71762}le Théâtre aux armées|de Bebra joue pour vous,
+{71767}{71795}chante pour vous,
+{71802}{71885}vous aide à remporter|la victoire finale!
+{72002}{72047}Tous à Paris!
+{72055}{72105}Tous sur les boulevards!
+{72117}{72175}A quoi penses-tu?
+{72205}{72272}Aux jupes de ma grand-mère.
+{72550}{72615}Et maintenant cher public,
+{72627}{72685}pour la première fois en France,
+{72692}{72755}une nouveauté de notre programme,
+{72767}{72817}l'homme à l'arme-miracle
+{72822}{72895}dont nous avons|tellement entendu parler.
+{72907}{72955}Oscar le tambour!
+{72967}{73035}Oscar le vitricide!
+{73135}{73160}Mazel tov.
+{74227}{74295}Un caporal, cinq hommes,|rien à signaler.
+{74352}{74397}Merci. Repos caporal.
+{74405}{74465}Vous voyez mon capitaine,|rien à signaler.
+{74477}{74517}Ça dure depuis des années.
+{74525}{74615}Enfin, la marée...|Le spectacle de la nature!
+{74625}{74682}C'est ce que nos hommes|ne supportent plus.
+{74700}{74757}C'est pourquoi nous construisons|bunker après bunker.
+{74765}{74822}Et vous croyez au béton lieutenant?
+{74830}{74875}Ici on ne croit plus à rien.
+{74897}{74922}Caporal?
+{74930}{74972}A plus rien mon lieutenant.
+{74980}{75035}Mais vous coulez le béton.
+{75267}{75342}Oscar, regarde comme la mer est belle!
+{76042}{76122}Pique-nique au grand air!
+{76187}{76265}La nature nous creuse l'estomac!
+{76360}{76410}Un vrai salami hongrois...
+{76417}{76487}Et du chocolat de Hollande.
+{76522}{76592}Bon appétit à tous!
+{77980}{78040}Et maintenant Signorina Raguna,
+{78047}{78112}pouvez-vous nous dire
+{78130}{78197}à nous et à notre cher public
+{78220}{78280}la date de naissance exacte
+{78287}{78365}du lieutenant Herzog?
+{78390}{78482}11 avril
+{78500}{78592}1915...
+{78632}{78672}A Brême!
+{78682}{78720}Oui, c'est exact!
+{78727}{78755}Le lieu aussi!
+{78795}{78897}Signorina Raguna,|la grande somnambule!
+{78980}{79090}Je vois qu'on lui apporte du champagne.
+{79097}{79175}Mais vous ne le boirez pas.
+{79182}{79202}Je regrette.
+{79210}{79240}Pourquoi pas?
+{80027}{80072}Tous ensemble!
+{80080}{80132}La sorcière noire est-elle là?
+{80140}{80187}Non, non, non!
+{80692}{80727}N'aie pas peur.
+{80735}{80770}Il ne t'arrivera rien.
+{80952}{81005}Mon petit homme...
+{82127}{82155}Entrez!
+{82202}{82250}Vite les enfants!
+{82267}{82295}Qu'est-ce qui se passe?
+{82302}{82345}Les Américains arrivent!
+{82855}{82920}Il faut que je prenne un café!
+{82937}{83005}Roswitha on part!
+{84165}{84275}Roswitha, je ne connais pas ton âge,
+{84292}{84357}je sais seulement|que tu sentais la cannelle
+{84372}{84417}et la muscade,
+{84427}{84522}que tu pouvais lire|dans le cœur des hommes
+{84530}{84627}mais pas dans ton propre cœur.
+{84687}{84725}Cher Oscar,
+{84737}{84812}nous autres nains et fous|nous ne devrions pas danser
+{84820}{84870}sur un béton coulé pour des géants.
+{84937}{84977}Allez, il faut y aller.
+{85000}{85065}- Au revoir Oscar!|- Bon courage!
+{85072}{85127}- Sois brave!|- Bonne chance!
+{86252}{86340}Regarde Kurt. Oscar est rentré|pour ton anniversaire!
+{86387}{86445}Ton petit frère a trois ans aujourd'hui.
+{86450}{86505}Je t'ai apporté un cadeau.
+{87115}{87177}Tu as le droit de porter cet uniforme?
+{87217}{87260}Où tu étais?
+{87295}{87377}On t'a cherché partout, la police aussi.
+{87382}{87460}Nous avons dû jurer|que nous ne t'avions pas descendu.
+{87502}{87562}Enfin, te voilà revenu!
+{88430}{88490}Beethoven, voilà un génie!
+{88877}{88965}Arrête ça. Tout est fini.|Victoire finale!
+{89445}{89557}Débarrasse-toi donc de ton insigne,|les Popov vont arriver!
+{89692}{89747}Enterre-le sous les pommes de terre.
+{93205}{93295}Allez, pressons un peu.
+{93310}{93375}J'ai encore des bottes à réparer.
+{93497}{93532}La main!
+{93562}{93607}Ça ne fait plus rien.
+{94027}{94075}Arrête de lancer des pierres!
+{94165}{94240}Je dois ou je ne dois pas?
+{94255}{94325}Tu as vingt-et-un ans!
+{94332}{94440}Oscar, dois-tu ou ne dois-tu pas?
+{94475}{94537}Tu es orphelin!
+{94715}{94777}Je le dois, il le faut,
+{94785}{94845}je veux grandir!
+{95182}{95230}Kurt, qu'est-ce que tu as encore fait?
+{95665}{95695}Il grandit!
+{95820}{95900}Regardez comme il grandit!
+{95917}{95975}J'ai vu le Seigneur!
+{96507}{96590}C'est comme ça les Kachoubes.
+{96662}{96712}Ils en prennent toujours sur la tête.
+{96760}{96850}Mais vous partez pour l'Ouest|où tout va mieux.
+{96902}{96950}La grand-mère sera seule à rester.
+{96977}{97052}Les Kachoubes,|pas moyen de les faire partir.
+{97095}{97165}Eux ils restent sur place
+{97200}{97252}pour que les autres tapent dessus.
+{97310}{97370}On n'est pas des vrais Polonais,
+{97392}{97435}pas des vrais Allemands,
+{97442}{97522}et ceux-là ils veulent toujours|qu'on soit l'un ou l'autre.
+{97587}{97617}Ça fait mal?
+{97650}{97717}Pourvu que tu ne deviennes pas|hydrocéphale!
+{97727}{97777}A trois ans il est tombé dans la trappe
+{97785}{97817}et il n'a plus grandi.
+{97827}{97865}Maintenant il est tombé dans la fosse
+{97875}{97917}et il veut de nouveau grandir.

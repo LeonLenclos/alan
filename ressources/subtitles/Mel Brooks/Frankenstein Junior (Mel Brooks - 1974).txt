@@ -1,0 +1,1047 @@
+{7390}{7503}Si l'on examine la base d'un cerveau|tout juste retiré d'un crâne,
+{7509}{7605}on ne voit, en fait,|que très peu du mésencéphale.
+{7613}{7687}Pourtant, comme nous l'avons vu|la semaine dernière,
+{7692}{7834}si l'on écarte avec soin|la base des lobes temporaux,
+{7862}{7954}on peut voir|la partie supérieure du tronc cérébral.
+{7972}{8082}Ce ''tronc cérébral''|est composé du mésencéphale,
+{8122}{8215}d'une protubérance arrondie|appelée le pont de Varole,
+{8247}{8343}et d'une tige effilée vers le bas|appelée le bulbe rachidien,
+{8348}{8436}qui sort du crâne par le foramen magnum
+{8443}{8515}et devient, bien sûr, la moelle épinière.
+{8533}{8595}Avez-vous des questions|avant de poursuivre?
+{8600}{8655}J'ai une question, Dr Frankenstein.
+{8722}{8775}Fronkonstine.
+{8778}{8823}Pardon?
+{8833}{8917}Mon nom. Ça se prononce ''Fronkonstine''.
+{8922}{9011}Mais n'êtes-vous pas le petit-fils|du célèbre Dr Victor Frankenstein,
+{9017}{9132}qui exhumait des corps fraîchement enterrés|et transformait des éléments morts en...
+{9138}{9177}Oui, oui.
+{9181}{9207}Oui.
+{9211}{9259}Nous savons tous ce qu'il faisait.
+{9283}{9391}Mais j'aimerais qu'on se rappelle de moi|pour ma modeste contribution à la science
+{9418}{9499}et non en raison de ma parenté accidentelle
+{9503}{9582}avec un célèbre... taré.
+{9680}{9743}Bien, maintenant,|quelle est votre question?
+{9748}{9835}Eh bien, je ne suis pas sûr|de comprendre la distinction entre
+{9838}{9900}les influx nerveux volontaires et les réflexes.
+{9905}{10004}Bien. Puisque nos travaux pratiques|illustrent cette distinction,
+{10009}{10066}pourquoi ne pas poursuivre?
+{10294}{10371}Voici M.Hilltop,|avec qui je n'ai jamais travaillé
+{10376}{10441}et à qui je n'ai donné aucune instruction,
+{10446}{10537}a gracieusement offert ses services|pour notre démonstration.
+{10556}{10659}M.Hilltop, voulez-vous sauter sur vos pieds|et vous tenir près de cette table?
+{10899}{10947}Joli saut.
+{10999}{11047}M.Hilltop,
+{11060}{11170}veuillez lever votre genou gauche.
+{11246}{11323}Vous venez d'assister|à un influx nerveux volontaire.
+{11328}{11400}Il commence|sous forme de stimulus du cortex cérébral,
+{11403}{11485}passe par le tronc cérébral|et atteint les muscles nécessaires.
+{11491}{11544}M.Hilltop, vous pouvez baisser le genou.
+{11548}{11668}Les réflexes sont les mouvements|exécutés indépendamment de la volonté,
+{11676}{11729}et transmis le long des voies
+{11735}{11838}passant entre le système nerveux|périphérique et le système nerveux central.
+{11844}{11919}Sale fils de pute pourri.
+{11924}{11986}Nous n'avons pas conscience de ces influx.
+{11992}{12083}Et nous ne voulons pas|qu'ils contractent nos muscles.
+{12089}{12147}Mais, comme on le voit, ils le font tout seuls.
+{12149}{12250}Mais si l'on bloque l'influx nerveux|en exerçant une pression locale,
+{12257}{12327}à l'aide d'une pince en métal ordinaire,
+{12332}{12435}juste sur le renflement|de la racine postérieure des nerfs,
+{12471}{12555}pendant, disons... 5 ou 6 secondes.
+{12678}{12731}Hé, salaud d'enfoiré.
+{12760}{12832}Comme vous le voyez,|toute communication est coupée.
+{12915}{12982}En dépit de notre magnifique mécanique,
+{13000}{13118}sans ce flux continu d'impulsions motrices,
+{13125}{13173}nous nous écroulerions
+{13175}{13252}comme un tas de brocolis.
+{13384}{13439}Pour conclure, il faut noter que...
+{13455}{13525}- Donnez-lui un dollar de plus.|- Oui, monsieur.
+{13530}{13598}..que toute blessure autre que bénigne
+{13601}{13665}à la racine des nerfs est toujours grave.
+{13685}{13759}En effet,|lorsqu'une fibre nerveuse est coupée,
+{13766}{13845}il n'existe,|sur terre et au ciel, aucun moyen
+{13873}{13938}de la régénérer.
+{13943}{14013}Avez-vous encore des questions|avant de partir?
+{14016}{14063}Dr Frank...
+{14065}{14123}- Fronkonstine...|- Oui?
+{14125}{14226}Est-il vrai que Darwin a conservé|un vermicelle sous un globe de verre
+{14233}{14286}jusqu'à ce que, de façon extraordinaire,
+{14291}{14375}il se mette à bouger|d'un mouvement volontaire?
+{14394}{14482}Parlez-vous du ver ou du spaghetti?
+{14518}{14566}Eh bien, du ver, monsieur.
+{14571}{14676}Oui. Il me semble avoir lu quelque chose|sur cet incident pendant mes études.
+{14681}{14765}Mais rappelez-vous qu'un ver,|à de très rares exceptions près,
+{14771}{14840}n'est pas un être humain.
+{14861}{14938}Mais n'était-ce pas|la base des travaux de votre grand-père?
+{14943}{14991}La réanimation des tissus morts?
+{14995}{15077}Mon grand-père n'était pas sain d'esprit.
+{15083}{15182}Mais en tant que Fronkonstine,|n'avez-vous aucune curiosité à son égard?
+{15189}{15290}Ramener à la vie ce qui était mort|ne vous intrigue-t-il pas?
+{15296}{15450}Vous parlez des élucubrations insensées|d'un esprit dément. Ce qui est mort est mort.
+{15457}{15524}Mais voyez ce qu'on fait|avec les cœurs et les reins.
+{15527}{15656}Les cœurs et les reins sont des joujoux.|Je parle, moi, du système nerveux central.
+{15661}{15738}- Mais, monsieur...|- Je suis scientifique, pas philosophe!
+{15743}{15808}Vous avez plus de chances|de ranimer ce scalpel
+{15813}{15866}que de réparer un système nerveux abîmé.
+{15872}{15987}- Et les travaux de votre grand-père?|- Ses travaux étaient zinzins!
+{16037}{16085}La mort ne m'intéresse pas.
+{16089}{16175}Tout ce qui m'intéresse|est la conservation de la vie!
+{16370}{16413}Le cours...
+{16417}{16456}..est...
+{16459}{16507}..terminé.
+{16724}{16772}Dr Frankenstein...
+{16806}{16859}Fronkonstine.
+{16945}{17003}Je m'appelle Gerhart Falkstein.
+{17007}{17132}J'ai fait 7000 kilomètres pour vous apporter|le testament de votre arrière grand-père.
+{17138}{17248}Le baron Beaufort von Frankenstein.
+{17585}{17633}Oh, mon tendre chéri.
+{17637}{17731}Oh, mon cher amour.|Je compterai les heures jusqu'à ton retour.
+{17738}{17829}- Oh, chérie, moi aussi.|- Pas sur la bouche.
+{17833}{17936}Je vais à la soirée de Nanna et Nicky.|Je ne veux pas ruiner mon maquillage.
+{17943}{17981}- Tu comprends.|- Bien sûr.
+{17986}{18022}Tout le monde à bord!
+{18040}{18107}- Oh, mon Dieu.|- Eh bien, je pense que ça y est.
+{18113}{18158}Freddy, mon chéri.
+{18163}{18261}Comment puis-je dire en un instant|ce qu'il m'a fallu une vie pour comprendre?
+{18267}{18315}- Essayez donc.|- D'accord.
+{18340}{18388}Vous avez gagné, monsieur.
+{18403}{18484}Je suis à vous.|Toute entière. Que puis-je ajouter?
+{18490}{18564}- Mon tendre amour...|- Mes cheveux. Je sors du coiffeur.
+{18567}{18615}Désolé.
+{18634}{18739}- Aimez-vous les noces à l'ancienne?|- Je préfère les nuits de noce à l'ancienne.
+{18745}{18829}- Vous êtes incorrigible.|- Est-ce à dire...
+{18879}{18953}- ..que vous m'aimez?|- Tu parles Charles.
+{18958}{19042}- Oh, mon unique amour.|- Taffetas, mon chéri.
+{19056}{19101}Taffetas, ma douce.
+{19103}{19209}Non, ma robe est en taffetas.|Ça se froisse pour un rien.
+{19215}{19251}En voiture!
+{19253}{19306}Encore ce méchant homme.
+{19310}{19377}Dépêchez-vous,|avant que je ne me rende ridicule.
+{19383}{19431}Oh, mes ongles!
+{19433}{19481}Désolé.
+{19664}{19722}- Au revoir, ma chérie.|- Au revoir, Freddy.
+{19858}{19894}Chérie.
+{20454}{20536}- Harry, il a recommencé.|- Et que veux-tu que j'y fasse?
+{20542}{20576}Tous les jours.
+{20579}{20620}Laisse-le faire.
+{20624}{20713}Prochain arrêt New York. Tous les voyageurs|pour New York descendent.
+{21360}{21437}Pardon, jeune homme.|Est-ce la gare de Transylvanie?
+{21467}{21517}Ja,ja. Quai 29.
+{21557}{21605}Oh, puis-je cirer vos chaussures?
+{21642}{21690}Non, merci.
+{22348}{22396}Dr Frankenstein?
+{22525}{22559}Fronkonstine.
+{22605}{22653}Vous vous moquez de moi.
+{22657}{22712}Non. Ça se prononce Fronkonstine.
+{22735}{22792}Dites-vous aussi Frodorick?
+{22795}{22843}Non. Frederick.
+{22848}{22922}Alors, pourquoi pas Frodorick Fronkonstine?
+{22928}{22988}Non. C'est Frederick Fronkonstine.
+{22994}{23046}Je vois.
+{23051}{23132}- Tu dois être Igor.|- Non. Ça se prononce Aï-gor.
+{23171}{23267}- Mais ils m'ont dit que c'était Igor.|- Eh bien, ils avaient tort.
+{23296}{23353}C'est Herr Falkstein qui t'envoie, non?
+{23359}{23450}Oui. Mon grand-père|travaillait pour votre grand-père.
+{23523}{23595}- C'est charmant.|- Bien sûr, les tarifs ont augmenté.
+{23600}{23687}Bien sûr. Je suis sûr|que nous nous entendrons très bien.
+{23725}{23787}Désolé. Je...
+{23809}{23905}Tu sais, je ne veux pas te gêner,|mais je suis un excellent chirurgien.
+{23912}{23969}Je pourrais t'aider pour cette bosse.
+{23973}{24021}Quelle bosse?
+{24134}{24179}Allons-y.
+{24184}{24258}Permettez-moi, maître.
+{24261}{24309}Merci beaucoup.
+{24404}{24461}Venez.
+{24506}{24554}Ainsi.
+{24977}{25054}Je pense|que vous serez plus à l'aise à l'arrière.
+{25199}{25264}- Qu'est-ce que c'était?|- Inga.
+{25269}{25370}Herr Falkstein a pensé que vous auriez|besoin d'une laborantine temporaire.
+{25480}{25561}Bonjour.|Voulez-vous vous rouler dans le foin?
+{25598}{25636}C'est rigolo.
+{25640}{25722}Roule, roule, roule dans le foin.
+{26277}{26334}Parfois, j'ai peur des éclairs.
+{26341}{26396}Ce n'est qu'une décharge atmosphérique.
+{26400}{26448}Rien à craindre.
+{26577}{26625}Loup-garou.
+{26630}{26678}Loup-garou?
+{26683}{26731}- Là.|- Pardon?
+{26752}{26800}Loup là.
+{26806}{26854}Château là.
+{26858}{26906}Pourquoi parles-tu comme ça?
+{26908}{26977}- Je pensais que ça vous plaisait.|- Non.
+{27003}{27051}Comme vous voulez. Ça m'est égal.
+{27130}{27166}Eh bien...
+{27167}{27210}La voilà.
+{27213}{27261}La maison.
+{28040}{28090}Quelle belle paire!
+{28122}{28170}Merci, docteur.
+{28174}{28232}Oh, je vous en prie.
+{28256}{28297}Nous y voilà.
+{28606}{28666}Je suis Frau Blücher.
+{28771}{28819}Du calme!
+{28858}{28920}Enchanté. Je suis le Dr Fronkonstine.
+{28927}{29011}Voici mon assistante.|Inga, je vous présente Frau Blücher.
+{29099}{29164}Je me demande ce qui leur prend.
+{29169}{29275}Vos appartements sont prêts, Herr Doktor.
+{29281}{29344}Si vous voulez bien me suivre.
+{29349}{29421}Aï-gor. Apporte les sacs|dès que tu as fini, s'il te plaît.
+{29424}{29460}Oui, maître.
+{29464}{29522}Après vous, Frau Blücher.
+{29883}{29933}Blücher!
+{30335}{30397}Suivez-moi, s'il vous plaît.
+{30903}{30951}Restez près des bougies.
+{30955}{31039}L'escalier est parfois traître.
+{31245}{31351}Und voici votre chambre.|C'était celle de votre grand-père Victor.
+{31357}{31405}Je vois.
+{31437}{31487}Bon. On dirait qu'il y a pas mal de livres.
+{31493}{31541}La bibliothèque médicale de Victor...
+{31556}{31625}..du Baron.
+{31631}{31729}- Où est sa bibliothèque privée?|- Que voulez-vous dire?
+{31735}{31831}Ces livres sont tous très généraux.|N'importe quel docteur aurait les mêmes.
+{31835}{31931}C'est la seule bibliothèque|que je connaisse, Dr Frankenstone.
+{31958}{32013}- Fronkonstine.|- Fronkonstine.
+{32035}{32093}Bien, nous verrons.
+{32116}{32164}Bonne nuit.
+{32220}{32302}Le docteur désire-t-il|un cognac avant de se retirer?
+{32328}{32390}Non. Merci.
+{32444}{32492}Un lait chaud...
+{32519}{32562}..peut-être?
+{32584}{32649}Non, merci beaucoup.
+{32651}{32701}Non, merci.
+{32707}{32755}Ovomaltine?
+{32859}{32902}Rien.
+{32906}{32947}Merci.
+{32951}{33006}Je suis un peu fatigué.
+{33079}{33129}Alors je vous souhaite... une bonne nuit.
+{33131}{33179}Bonne nuit!
+{33571}{33638}Bonne nuit, mon chéri.
+{33724}{33775}Bonne nuit, Herr Doktor.
+{33777}{33834}Bonne nuit, Frau Blücher.
+{34352}{34400}Non, non, non...
+{34437}{34494}Non, non, non...
+{34602}{34660}Je ne suis pas un Frankenstein.
+{34690}{34743}Je ne suis pas un Frankenstein.
+{34779}{34827}Je suis un Fronkonstine.
+{34847}{34895}Ne dites pas ça!
+{34899}{34962}Je ne crois pas au destin.
+{34982}{35030}Et je ne le dirai pas.
+{35068}{35125}Très bien, vous avez gagné. Je cède.
+{35132}{35190}Je le dirai. Je le dirai, je le dirai.
+{35243}{35293}Destin. Destin.
+{35307}{35365}Je n'y échapperai pas.
+{35368}{35418}Destin. Destin.
+{35422}{35478}Je n'y échapperai pas.
+{35483}{35533}Destin. Destin...
+{35538}{35586}Je n'y échapperai...
+{35627}{35687}Dr Fronkonstine. Réveillez-vous.
+{35708}{35794}- Qu'y a-t-il?|- Vous faisiez un cauchemar.
+{35846}{35915}- Quelle est cette étrange musique?|- Je l'ignore.
+{35950}{35998}Mais on dirait qu'elle vient
+{36029}{36084}de derrière la bibliothèque.
+{36123}{36183}Derrière la bibliothèque...
+{36225}{36275}Passez-moi ce peignoir, ma chère.
+{36393}{36469}Vous aviez raison.|Ça vient de derrière ce mur.
+{36493}{36529}Où est-il?
+{36533}{36576}- Où est-il?|- Quoi?
+{36580}{36676}Il y a toujours un dispositif. Si je peux|trouver le mécanisme déclencheur...
+{36684}{36732}Aha!
+{36981}{37077}On entend mieux d'ici.|Passez-moi cette bougie, voulez-vous?
+{37186}{37262}Remettez la bougie à sa place.
+{37413}{37509}Très bien.|Je pense avoir compris maintenant.
+{37513}{37637}Prenez la bougie et je bloquerai|la bibliothèque avec mon corps.
+{37894}{37959}Ecoutez-moi attentivement.
+{37964}{38039}Ne replacez pas la bougie.
+{38054}{38102}De toute votre force,
+{38104}{38192}poussez sur l'autre côté de la bibliothèque.
+{38208}{38268}Est-ce clair?
+{38299}{38347}Je pense que oui.
+{38554}{38602}Brave fille.
+{38629}{38701}Replacez la bougie.
+{38882}{38940}Oh, regardez, docteur. Un passage.
+{38944}{39016}Quelle que soit cette musique,|elle vient d'en-bas.
+{39019}{39105}- Je devrais jeter un œil.|- Oh, laissez-moi venir avec vous, docteur.
+{39109}{39157}Je ne veux pas rester seule ici.
+{39162}{39231}D'accord.|Boutonnez-vous et suivez-moi.
+{39237}{39285}Oh, docteur. La bougie...
+{39308}{39370}Bonne idée. Essayons celle-ci.
+{39403}{39451}Reculez!
+{40251}{40308}Ne craignez rien, ma chère.|Ce n'est qu'un rat.
+{40328}{40386}Un horrible rat dégoûtant.
+{41251}{41299}Grands Dieux!
+{41408}{41444}MORT DEPUlS 3 ANS
+{41459}{41507}MORT DEPUlS 2 ANS
+{41589}{41624}MORT DEPUlS 6 MOlS
+{41768}{41809}Je-e-e
+{41811}{41868}Je n'ai personne
+{41871}{41953}Et personne ne m'aime
+{41989}{42025}- Aï-gor.|- Frodorick.
+{42030}{42077}Comment es-tu arrivé ici?
+{42116}{42208}Par le monte-plats. J'ai entendu|une musique étrange dans la cuisine
+{42214}{42269}et je l'ai suivie jusqu'ici.
+{42271}{42343}Appelez ça... une intuition.
+{42359}{42455}- Il doit y avoir eu quelqu'un d'autre ici.|- Ça y ressemble.
+{42461}{42526}Et il n'y a qu'une autre porte.
+{42531}{42579}Attendez, maître.
+{42584}{42632}Ça pourrait être dangereux.
+{42654}{42702}Allez-y le premier.
+{42977}{43035}N'y a-t-il aucune lampe ici?
+{43062}{43167}Il y a deux vieux interrupteurs là-bas,|mais je n'y toucherai pas le premier.
+{43297}{43345}Maudite soit ta vue!
+{43347}{43395}Trop tard.
+{43705}{43777}Donc c'est ici que ça s'est passé.
+{44047}{44158}Imagine ça. Un cerveau mort|prêt à revivre dans un nouveau corps.
+{44177}{44244}Regarde.|Pas de sang, pas de décomposition.
+{44250}{44298}Seulement quelques points de suture.
+{44302}{44364}- Allume l'interrupteur principal.|- Oui, maître.
+{44530}{44585}Quelle porcherie!
+{44591}{44679}Je ne sais pas. Un coup de peinture,|des fleurs, des coussins...
+{44777}{44888}Bien, on dirait|que notre mystérieux violoniste a dis...p...
+{44895}{44960}- Dis... quoi?|- ..paru.
+{44963}{45049}Il y a de la lumière derrière cette porte.
+{45110}{45158}Suivez-moi.
+{45828}{45876}Docteur, regardez!
+{45920}{46004}Bien... Ça explique la musique.
+{46046}{46092}Il est encore chaud.
+{46096}{46142}Mais qui en jouait?
+{46147}{46183}Je ne sais pas.
+{46186}{46275}Mais qui que ce soit,|il vient d'éteindre son cigare.
+{46281}{46341}Que de faits étranges!
+{46404}{46452}Quel est cet endroit?
+{46456}{46514}Le salon de musique?
+{46519}{46589}Mais il n'y a que des livres et des documents.
+{46604}{46652}Des livres et des documents?
+{46674}{46707}C'est ça!
+{46708}{46788}C'est la bibliothèque privée|de mon grand-père. Je le sens.
+{46826}{46874}Regardez! Regardez ça.
+{46908}{46963}COMMENT J'AI RÉUSSl|de Victor Frankenstein
+{47222}{47337}''..jusqu'à ce que, au milieu|de cette obscurité, la lumière m'envahisse.''
+{47367}{47470}''Une lumière si puissante et merveilleuse,|et pourtant si simple.''
+{47499}{47559}''Intervertir les pôles de plus à moins
+{47587}{47654}et de moins à plus.''
+{47746}{47845}''Moi seul ai réussi à découvrir|le secret du don de la vie.''
+{47865}{47911}''Non, plus encore...''
+{47915}{48035}''Moi seul devint capable d'animer
+{48060}{48118}des sujets inanimés.''
+{48290}{48366}Ça pourrait marcher.
+{48793}{48853}- Hareng?|- Merci, docteur.
+{48990}{49067}''La taille infime des éléments me retardant,
+{49073}{49205}j'ai donc décidé|de faire une créature gigantesque.''
+{49273}{49314}Bien sûr.
+{49315}{49365}Ça simplifierait tout.
+{49371}{49409}En d'autres termes,
+{49410}{49523}ses veines, ses pieds, ses mains,|ses organes devraient tous être agrandis.
+{49530}{49576}Exactement.
+{49599}{49663}Il aurait un énorme Schwanzstück.
+{49808}{49858}Cela va sans dire.
+{49923}{49981}Il sera très populaire.
+{50003}{50130}Bien. Nous cherchons donc un être|d'environ 2,20 mètres de haut,
+{50139}{50254}dont toutes les caractéristiques congénitales|ou artificielles sont proportionnées.
+{50261}{50304}Quelque chose comme...
+{50316}{50364}..ça?
+{50469}{50510}Aha...
+{50514}{50562}Il y a de l'idée.
+{50567}{50651}Grossier, oui, primitif, oui,|peut-être même grotesque,
+{50656}{50718}pourtant quelque chose d'inexplicable me dit
+{50741}{50842}que ça pourrait être notre homme.
+{51231}{51279}Bon, bon.
+{51284}{51344}C'est suffisant pour lui.
+{51754}{51802}Baisse-toi, imbécile.
+{52004}{52052}Maintenant!
+{52750}{52798}Quel sale boulot!
+{52812}{52864}- Ça pourrait être pire.|- Comment?
+{52870}{52918}Il pourrait pleuvoir.
+{54050}{54103}Vite.
+{54211}{54256}Un coup de main?
+{54258}{54342}Non, merci.|J'en ai déjà une. Merci quand même.
+{54348}{54386}Un instant, monsieur.
+{54391}{54479}Je connais tout le monde ici,|mais je ne vous ai jamais vu avant.
+{54486}{54534}Pouvez-vous me dire qui vous êtes?
+{54538}{54634}Oui. Je suis le Dr Frederick Fronkonstine,|tout juste arrivé des Etats-Unis.
+{54640}{54703}Oh, oui, monsieur.|On m'a dit que vous étiez là.
+{54708}{54782}Bon, je suis l'agent Henry, monsieur.|Enchanté.
+{54829}{54884}Ravi de vous rencontrer, monsieur l'agent.
+{54889}{54958}Vous êtes transi, monsieur.
+{54964}{55033}Un bon feu bien chaud vous ferait du bien.
+{55039}{55115}Une bonne rasade|ne vous ferait pas de mal non plus, monsieur.
+{55122}{55174}Ça serait au poil, oui.
+{55179}{55260}Bon, si vous avez tout en main, monsieur,|bonsoir.
+{55266}{55314}Merci beaucoup, monsieur l'agent.
+{55318}{55388}A votre service, monsieur.
+{55436}{55500}- Bonsoir, monsieur l'agent.|- Bonsoir, monsieur.
+{55922}{55987}Oh, quelle vision splendide!
+{56024}{56111}Quelle nuit profonde et spirituelle!
+{56144}{56199}Avec un tel spécimen physique,
+{56214}{56315}tout ce qu'il nous faut|est un cerveau tout aussi magnifique.
+{56369}{56436}- Tu sais ce que tu dois faire?|- J'en ai une bonne idée.
+{56442}{56490}Brave homme.
+{56507}{56586}N'avais-tu...|Ne la portais-tu pas de l'autre côté?
+{56590}{56638}- Pardon?|- Ta...
+{56663}{56711}Ce n'est pas grave.
+{56799}{56886}- As-tu le nom que je t'ai donné?|- Je l'ai noté.
+{56917}{57018}- H.Delbruck.|- Hans Delbruck.
+{57047}{57095}BANQUE DE CERVEAUX
+{57142}{57214}APRÈS 17 HEURES,|DÉPOSEZ LES CERVEAUX DANS LA FENTE
+{57935}{57990}HANS DELBRUCK|SCIENTIFIQUE ET SAINT
+{58701}{58816}NE PAS UTILISER CE CERVEAU!|ANORMAL
+{59726}{59812}- Il est hideux.|- Il est magnifique.
+{59843}{59922}Et il est à moi.
+{60119}{60184}Vite.|Nous luttons contre le temps et les éléments.
+{60189}{60283}- Es-tu prêt?|- Etes-vous sûr qu'ils le faisaient comme ça?
+{60289}{60349}Oui. Tout est écrit dans les notes.
+{60354}{60426}Attache les cerfs-volants|et descends au plus vite.
+{60432}{60465}Pourquoi tant de hâte?
+{60469}{60560}Il y a un risque d'électrocution.|Tu comprends?
+{60657}{60745}J'ai dit:|''Il y a un risque d'électrocution.''
+{60761}{60819}Tu comprends?
+{60825}{60895}Je comprends, je comprends.|Pourquoi criez-vous?
+{60925}{60964}As-tu...
+{60987}{61054}- As-tu attaché les cerfs-volants?|- Bien sûr.
+{61089}{61137}D'accord. Bien.
+{61194}{61259}- Vérifie le générateur.|- Oui, maître.
+{61447}{61478}Aï-gor,
+{61482}{61561}- ouvre la soupape de sécurité de la roue.|- Oui, maître.
+{61710}{61813}Pouvez-vous imaginer le cerveau|de Hans Delbruck dans ce corps?
+{61820}{61866}Oh, Frederick.
+{61880}{61928}C'est le moment.
+{61953}{62001}Eh bien, ma chère...
+{62005}{62053}Etes-vous prête?
+{62057}{62105}Oui, docteur.
+{62143}{62191}Dressez-moi.
+{62207}{62255}Maintenant? Ici?
+{62302}{62389}- Oui, oui. Faites monter la plate-forme.|- Oh, la plate-forme.
+{62395}{62448}Oh, ça. Ja... oui.
+{62911}{63014}Depuis ce jour de grâce|où de petits bouts de vase puants
+{63020}{63128}ont rampé hors de la mer|et ont hurlé aux étoiles glacées:
+{63148}{63210}''Je suis l'homme'',
+{63245}{63353}notre plus grande peur a toujours été|la conscience de notre mortalité.
+{63379}{63427}Mais ce soir,
+{63429}{63494}nous jetterons le gant de la science
+{63498}{63582}au visage effrayant de la mort.
+{63641}{63689}Ce soir,
+{63696}{63787}nous nous élèverons dans les cieux.
+{63806}{63873}Nous défierons le séisme.
+{63893}{63951}Nous commanderons au tonnerre
+{63974}{64022}et pénétrerons
+{64026}{64180}au cœur même de la nature impénétrable.
+{64384}{64470}Lorsque je dirai le mot,|actionne le premier interrupteur.
+{64486}{64534}Compris, maître.
+{64634}{64682}A vos marques.
+{64754}{64799}Prêt.
+{64804}{64845}Partez!
+{64988}{65041}Actionne le deuxième interrupteur.
+{65155}{65214}Actionne le troisième interrupteur.
+{65220}{65277}Pas le troisième interrupteur?
+{65279}{65351}Actionne-le, j'ai dit. Actionne-le.
+{65642}{65690}Vie.
+{65694}{65754}Vie, tu m'entends?
+{65760}{65808}Donne à ma création
+{65826}{65884}la vie!
+{66417}{66475}Eteins tout et faites-moi descendre.
+{68158}{68206}Rien.
+{68219}{68276}- Oh, docteur. Je suis désolée...|- Non, non.
+{68298}{68363}Prenez courage.
+{68368}{68436}Si la science nous apprend quelque chose,
+{68441}{68523}c'est à accepter nos échecs,
+{68529}{68586}comme nos réussites,
+{68606}{68683}avec calme, dignité
+{68724}{68777}et grâce.
+{69024}{69084}Fils de pute, salaud. Je me vengerai.
+{69087}{69135}Que m'as-tu fait?
+{69139}{69225}- Que m'as-tu fait?|- Docteur, arrêtez!
+{69232}{69275}Vous allez le tuer!
+{69311}{69350}Je ne veux pas vivre.
+{69351}{69430}Je ne veux pas vivre.
+{69487}{69550}Calme, dignité et grâce.
+{69578}{69625}Maman!
+{69662}{69746}Oh, balivernes!|Cet homme est différent, je vous le dis.
+{69752}{69839}On s'en rend compte|après cinq minutes de conversation.
+{69892}{69928}Oui?
+{69967}{70014}C'est un Frankenstein!
+{70019}{70093}Et ils sont tous pareils.
+{70114}{70172}C'est dans leur sang. C'est pas de leur faute.
+{70187}{70249}Tous ces savants, ils sont tous pareils.
+{70270}{70318}Ils prétendent travailler pour nous.
+{70328}{70419}Mais en fait, ils veulent diriger le monde.
+{70580}{70681}Ça suffit. Je ne laisserai pas|cette réunion tourner en mêlée générale.
+{70687}{70754}Vous portez des accusations très graves,
+{70757}{70875}et d'autant plus pénibles pour nous,|vos aînés, que nous avons des cauchemars
+{70882}{70944}sur les cinq fois précédentes.
+{70964}{71108}L'homme le mieux qualifié|pour juger la situation n'a pas encore parlé.
+{71153}{71201}Inspecteur Kemp.
+{71228}{71285}Voulez-vous parler, s'il vous plaît?
+{71952}{72034}Une émeute est une chose horrible,
+{72041}{72144}und une fois qu'elle a commencée,
+{72148}{72220}vous avez peu de chances de l'arrêter
+{72243}{72301}sans bain de sang.
+{72323}{72445}Je pense qu'avant d'aller tuer les gens,
+{72454}{72583}on doit être certain de nos preuves.
+{72623}{72671}Und...
+{72776}{72855}..on doit obtenir confirmation du fait
+{72862}{72955}que le jeune Frankenstein
+{72961}{73036}zuit fraiment les pas de zon grand-père.
+{73039}{73068}Pardon?
+{73069}{73138}zuit fraiment les pas de zon grand-père.|Zuit.
+{73144}{73177}Ah! Suit.
+{73181}{73229}Je crois
+{73234}{73287}que je devrais
+{73334}{73449}rendre une petite visite au bon docteur
+{73468}{73600}und avoir une bonne petite discussion.
+{73727}{73770}Réputation.
+{73780}{73827}Réputation.
+{73852}{73929}Oh, docteur. Vous vous faites du mal.
+{73959}{74014}Vous devez cesser d'y penser.
+{74032}{74101}Regardez.|Vous n'avez pas touché à votre assiette.
+{74154}{74188}Là.
+{74219}{74277}J'y ai touché maintenant. Satisfaite?
+{74319}{74391}Vous savez...|Je n'oublierai jamais mon vieux père.
+{74417}{74530}Quand ces choses lui arrivaient...|les choses qu'il me disait.
+{74573}{74618}Que disait-il?
+{74623}{74694}Qu'est-ce que tu fous|dans la salle de bain jour et nuit?
+{74700}{74781}Sors donc et laisse la place aux autres.
+{74938}{75010}Oh, c'est peut-être mieux ainsi.
+{75015}{75072}Pauvre géant sans vie.
+{75077}{75146}Il est peut-être mieux mort.
+{75608}{75649}Qu'est-ce que c'est?
+{75653}{75701}Schwarzwälder Kirschtorte.
+{75760}{75873}Tu aimes? Je ne suis pas très desserts,|mais c'est délicieux.
+{75881}{75938}A qui parlez-vous?
+{75947}{76050}A toi. Tu viens de faire ''miam miam'',|alors j'ai cru que tu aimais le dessert.
+{76055}{76130}J'ai pas fait ''miam miam''.|Je vous ai demandé ce que c'était.
+{76135}{76209}- Si. Je t'ai entendu.|- Ce n'était pas moi.
+{76215}{76263}Ni moi.
+{76266}{76352}Bon, écoutez.|Si ce n'était pas toi, ni vous...
+{76896}{76973}Vivant. Il est vivant.
+{76996}{77058}Il est vivant!
+{77121}{77176}Reculez.
+{77356}{77416}Bonjour.
+{77421}{77493}Je vais te libérer.
+{77551}{77611}- Le sédatif est-il prêt?|- Oui, docteur.
+{77961}{78009}Je veux que
+{78029}{78096}tu t'asseyes.
+{78442}{78533}Mets-toi debout.
+{78641}{78694}Tu peux y arriver.
+{78924}{78994}Maintenant, marche.
+{79167}{79222}Docteur, j'ai peur.
+{79228}{79278}Ne vous inquiétez pas.
+{79342}{79390}Bien.
+{79437}{79485}Bien.
+{79525}{79580}Qu'y a-t-il? Que se passe-t-il?
+{79582}{79644}Vite. Donnez-lui le...
+{79647}{79681}Vite. Donnez-lui le...
+{79684}{79737}Quoi? Lui donner quoi?
+{79758}{79839}Trois syllabes.|Quelle est la première syllabe?
+{79843}{79898}Raide... Sept.
+{79910}{79958}Zèbre... Sed...
+{79971}{80004}Sed.
+{80008}{80041}- Sed.|- Sed.
+{80046}{80094}Deuxième syllabe: voyelle.
+{80098}{80136}O, e, i...
+{80137}{80178}A...
+{80193}{80241}- Sed a...|- Sed a...
+{80255}{80303}Argot. Argot de coiffeur.
+{80323}{80371}Ça ressemble à...
+{80375}{80423}..pif. Pif.
+{80430}{80497}Sed... Sed a pif...|Lui donner un sed a pif.
+{80518}{80585}Oh, tif... tif... Sédatif.
+{80589}{80637}Dans le mille.
+{81113}{81161}Sed a pif?
+{81356}{81418}Oh, Frederick. Ça va?
+{81423}{81473}Oui.
+{81494}{81585}- Excusez-moi une minute, ma chère.|- Bien sûr, docteur.
+{81601}{81649}Aï-gor...
+{81673}{81741}- Puis-je te parler un instant?|- Bien sûr.
+{81744}{81794}- Assieds-toi, veux-tu?|- Merci.
+{81877}{81920}Non, non. Ici.
+{81936}{81979}Merci.
+{82081}{82153}Bien, le cerveau que tu m'as donné...
+{82176}{82241}Etait-ce celui de Hans Delbruck?
+{82292}{82349}- Non.|- Bien.
+{82402}{82438}Pourrais-tu me dire...
+{82487}{82583}..à qui appartenait ce cerveau?
+{82589}{82699}- Vous ne vous mettrez pas en colère?|- Je ne me mettrai pas en colère.
+{82722}{82770}Anne quelque chose.
+{82786}{82839}Anne quelque chose...
+{82844}{82904}- Anne quoi?|- Anne Normal.
+{82972}{83025}Anne Normal...
+{83036}{83086}Je suis presque sûr que c'était ça.
+{83187}{83292}Tu veux dire que j'ai mis un cerveau anormal
+{83320}{83402}dans un gorille,
+{83430}{83504}haut de 7,20 mètres
+{83550}{83598}et large de 1,50 mètres?
+{83615}{83680}C'est ça?
+{83692}{83738}Vite, vite. Donnez-lui le...
+{83742}{83785}Quoi?
+{83790}{83838}Trois syllabes, oui.
+{83872}{83922}Je me demande qui c'est à cette heure.
+{84078}{84154}Inga, vite. Allez voir qui c'est.
+{84163}{84276}Toi... remets cette chose|sur la table d'opération.
+{84302}{84379}Et ligote-le bien.
+{84415}{84487}- Où allez-vous?|- Me nettoyer. Je dois avoir l'air normal.
+{84493}{84548}Nous devons nous comporter normalement.
+{84625}{84663}Monstres!
+{84787}{84833}Excellent tir.
+{84837}{84943}Nous sommes au vingtième siècle, Kemp.|Les monstres et les fantômes sont démodés.
+{84951}{85052}Pas pour les bonnes gens de ce village,|Herr Doktor.
+{85093}{85129}Pour eux,
+{85131}{85200}ils sont très réels.
+{85226}{85356}Surtout quand...|un Frankenstein occupe cette maison.
+{85717}{85768}Beau tir groupé.
+{85772}{85820}Merci.
+{85881}{86015}Je n'aurais pas cru, que vous, un homme|intelligent croirait à ces superstitions idiotes.
+{86046}{86157}Ce ne sont pas les superstitions|qui m'inquiètent, Herr Doktor, mais les gènes
+{86171}{86210}et les chromosomes.
+{86233}{86308}- Balivernes.|- Peut-être, mais nous sommes
+{86324}{86360}en Transylvanie.
+{86416}{86459}Et vous êtes un
+{86464}{86497}Frankenstein.
+{86566}{86688}Cette conversation semble...|vous mettre mal à l'aise.
+{86697}{86745}Pas le moins du monde.
+{86765}{86817}Je la trouve très amusante, c'est tout.
+{86887}{86930}Bien, c'était très divertissant.
+{86931}{86998}Mais je suis un peu fatigué, inspecteur.
+{87004}{87030}Donc
+{87035}{87114}je peux donner aux villageois|votre assurance totale
+{87131}{87263}que vous n'avez aucune intention|de poursuivre le travail de votre grand-père?
+{87341}{87389}Est-ce un oui?
+{87434}{87475}Très bien.
+{87477}{87551}- Vous connaissez le chemin?|- Bien sûr.
+{87583}{87688}A la prochaine... Herr Baron.
+{87694}{87754}Oui. Passez quand vous voulez.|La porte est toujours ouverte.
+{88790}{88838}Oh, Victor.
+{88855}{88893}Victor...
+{88898}{88955}Nous avons réussi.
+{89037}{89095}Je vais te libérer.
+{89100}{89172}Ça te plairait, meine Seuchekopf, hein?
+{89410}{89458}Ils voulaient te faire du mal.
+{89485}{89533}Mais je vais t'aider.
+{89573}{89621}Dieu merci, il est parti.
+{89646}{89694}Frau Blücher.
+{89741}{89801}Arrêtez. N'approchez pas.
+{89803}{89875}- Que faites-vous?|- Je vais le libérer.
+{89880}{89928}Non. Non, il ne faut pas.
+{89932}{89964}Si.
+{89991}{90046}Etes-vous folle? Il vous tuera.
+{90078}{90136}Non. Pas lui.
+{90141}{90213}Il est doux comme un agneau.
+{90219}{90317}Reculez. Reculez.|Pour l'amour de Dieu, son cerveau est pourri.
+{90334}{90389}Il n'est pas pourri. C'est un bon cerveau.
+{90394}{90461}Il est pourri, je vous dis. Pourri.
+{90486}{90558}Lienérem n'est lourripem.
+{90564}{90650}Je n'ai pas peur. Je sais ce qu'il aime.
+{91021}{91069}Cette musique.
+{91075}{91209}Oui. Vous l'avez dans le sang.|Tous les Frankenstein l'ont dans le sang.
+{91216}{91310}Elle atteint l'âme quand les mots sont vains.
+{91316}{91400}Votre grand-père la jouait|à la créature qu'il fabriquait.
+{91407}{91466}- Alors c'était vous.|- Oui.
+{91472}{91541}- C'est vous qui jouiez cette nuit-là.|- Oui.
+{91547}{91612}- Pour nous attirer dans le laboratoire.|- Oui.
+{91616}{91700}- C'était votre cigare dans le cendrier.|- Oui.
+{91704}{91783}Et c'est vous qui avez sorti le livre|pour que je le trouve.
+{91789}{91818}Oui.
+{91823}{91863}- Pour que je...|- Oui.
+{91867}{91927}- Alors, vous et Victor étiez...|- Oui.
+{91932}{91985}Oui! Dites-le!
+{91989}{92078}Il était mon amant.
+{92367}{92415}Vous ne l'attraperez plus maintenant.
+{92420}{92496}Il est libre. Vous m'entendez?
+{92502}{92557}Libre.
+{92886}{92919}Il est parti.
+{92932}{92966}Parti!
+{92970}{93028}Nous devons le trouver, vous comprenez?
+{93032}{93099}Nous devons le trouver avant qu'il ne tue.
+{93120}{93168}Qu'ai-je fait?
+{93179}{93232}Oh, Dieu du ciel!
+{93260}{93308}Qu'ai-je fait?
+{93465}{93542}Oh, j'aime ma jolie petite fleur
+{93556}{93638}Oh, j'aime ma jolie petite fleur
+{93643}{93713}Oh, j'aime ma fleur
+{93865}{93913}Ce monstre est en liberté...
+{93940}{94005}Il faut bien fixer ces planches.
+{94056}{94104}Là.
+{94145}{94193}Dieu merci, tu as couché Helga.
+{94197}{94296}Avec ce monstre, je ne prends aucun risque.|Je me rappelle la dernière fois.
+{94303}{94420}Mais, Papa. Je t'ai dit que je tournais|le Fostbraten, tu ne te rappelles pas?
+{94429}{94477}Je t'ai demandé de mettre Helga au...
+{94493}{94524}Tu...
+{94629}{94693}Bon, envoie un baiser et dis au revoir.
+{94890}{94948}Oh, mon Dieu. Il ne reste rien.
+{94951}{95013}Qu'allons-nous jeter maintenant?
+{95123}{95181}Peut-être était-elle dans la salle de bain?
+{95185}{95262}Je n'ai pas regardé en haut.|Je pensais que tu l'avais fait.
+{95319}{95367}Tu n'as pas regardé en haut?
+{95411}{95459}Assieds-toi.
+{95486}{95520}Assieds-toi!
+{96667}{96731}Tout ce que je demande, c'est un visiteur.
+{96737}{96842}Un compagnon temporaire pour m'aider|à passer quelques heures de ma vie solitaire.
+{96945}{97019}Merci, mon Dieu. Merci.
+{97258}{97330}Oh, non, non, non.|Ne parle pas. Pas un mot.
+{97345}{97419}Oh, ma joie et mon cadeau des cieux.
+{97442}{97514}Oh, tu devais|être le plus grand de ta classe.
+{97519}{97603}Je m'appelle Harold et je vis seul ici.
+{97610}{97653}Comment t'appelles-tu?
+{97657}{97708}Je n'ai pas compris.
+{97732}{97773}Non...
+{97790}{97831}Pardonne-moi.
+{97835}{97905}Je n'avais pas réalisé que tu étais muet.
+{97908}{97956}Tu vois, les voies du ciel.
+{97960}{98039}Moi, un pauvre aveugle, et toi un muet.
+{98093}{98151}Un muet immense.
+{98153}{98208}Mais tes mains sont glacées, mon enfant.
+{98212}{98272}Que dirais-tu d'un bon bol de soupe?
+{98523}{98614}Bien, je sais ce que c'est|que d'avoir faim et froid.
+{98618}{98644}Oui...
+{98649}{98733}Et ce qu'un peu de gentillesse|de la part d'un inconnu représente.
+{98739}{98801}Es-tu prêt pour ta soupe?
+{98846}{98911}Tends ton bol, alors.
+{98953}{98999}Oh, mon ami...
+{99003}{99063}Tu ignores|ce que ta visite représente pour moi.
+{99068}{99152}Combien j'ai attendu|le plaisir de la compagnie d'un autre être.
+{99159}{99245}Parfois, dans nos préoccupations matérielles,
+{99291}{99382}on tend à oublier les plaisirs simples
+{99388}{99463}qui forment la base du bonheur véritable.
+{99500}{99570}Un peu de vin pour accompagner ta soupe?
+{99619}{99667}Bien, bien.
+{99884}{99946}Hein? Bon. Oui.
+{100054}{100109}Attends!
+{100114}{100169}Un toast.
+{100173}{100257}Un toast à l'amitié durable.
+{100414}{100462}Comme tu devais avoir faim!
+{100467}{100524}Et maintenant, une petite surprise.
+{100530}{100592}Pour une occasion spéciale, j'ai gardé...
+{100722}{100768}..des cigares.
+{100809}{100850}Prends-en un.
+{100939}{100958}Pardon?
+{100961}{101009}Non, non, non.
+{101027}{101072}Le feu est bon.
+{101077}{101158}Le feu est bon. Oui, le feu est notre ami.
+{101164}{101216}Oui, je vais te montrer.
+{101425}{101473}Tu vois?
+{101490}{101534}Tu as ton cigare?
+{101535}{101582}Rais-moi voir. Fais-moi voir.
+{101587}{101625}D'accord.
+{101630}{101678}Là, là, là...
+{101695}{101748}Tiens-le ici. Bon,
+{101768}{101842}n'inhale pas|jusqu'à ce que le bout rougeoie.
+{102286}{102334}Attends.
+{102383}{102419}Attends.
+{102423}{102471}Où vas-tu?
+{102486}{102567}J'allais faire un expresso.
+{103613}{103639}Maintenant!
+{103751}{103799}Vite. Donnez-lui le sédatif.
+{104219}{104267}Il est KO.
+{104296}{104335}Je sais.
+{104546}{104647}J'y vais. Apportez-moi cette bougie.
+{104653}{104701}- Non.|- Si.
+{104817}{104863}L'amour
+{104867}{104944}est la seule chose|qui puisse sauver cette pauvre créature.
+{104965}{105037}Et je vais le convaincre qu'il est aimé,
+{105067}{105139}même au prix de ma vie.
+{105189}{105290}Qu'importe ce que vous entendez,|qu'importent mes supplications,
+{105310}{105377}qu'importent mes hurlements,
+{105401}{105502}n'ouvrez pas cette porte,|ou vous anéantiriez tous mes efforts.
+{105509}{105545}Vous comprenez?
+{105550}{105624}N'ouvrez pas cette porte.
+{105627}{105661}Oui, docteur.
+{105717}{105765}J'ai apprécié de travailler avec vous.
+{106540}{106614}Faites-moi sortir. Faites-moi sortir, bon sang.
+{106633}{106698}Quel est votre problème?|Je plaisantais.
+{106703}{106756}Vous ne reconnaissez pas la plaisanterie?
+{106842}{106921}Mon Dieu. Faites-moi sortir!
+{106983}{107069}Ouvrez cette putain de porte|ou je vous arrache la tête.
+{107073}{107111}Maman!
+{107311}{107354}Visiblement...
+{107453}{107511}Salut, beau gosse.
+{107583}{107638}Tu es un beau garçon, tu sais?
+{107644}{107701}Les gens se moquent de toi.
+{107705}{107770}Les gens te détestent, mais pourquoi?
+{107776}{107864}Parce qu'ils sont jaloux.
+{107898}{107960}Regarde ce visage enfantin.
+{108008}{108056}Regarde ce doux sourire.
+{108098}{108170}Et ta force brute?
+{108176}{108253}Et tes muscles incroyables?
+{108292}{108366}Et l'idéal olympien?
+{108369}{108431}Tu es un dieu!
+{108457}{108505}Et écoute-moi...
+{108528}{108586}Tu n'es pas méchant.
+{108623}{108722}Tu es bon!
+{108921}{108990}Tu es un gentil garçon.
+{109012}{109060}Tu es un brave garçon.
+{109085}{109140}Tu es le rêve d'une mère.
+{109162}{109224}Et je veux que le monde sache,
+{109246}{109330}une fois pour toutes et sans honte,
+{109375}{109437}que nous l'aimons.
+{109534}{109594}Je vais t'éduquer.
+{109599}{109712}Je vais te montrer|comment marcher, parler, bouger, penser.
+{109741}{109779}Ensemble,
+{109784}{109829}toi et moi,
+{109834}{109973}nous ferons|la plus grande contribution à la science
+{110000}{110062}depuis la création du feu!
+{110080}{110161}Dr Fronkonstine. Ça va?
+{110164}{110212}Je m'appelle
+{110234}{110309}Frankenstein!
+{110429}{110494}LE DR F.FRANKENSTElN|PRÉSENTE LA CRÉATURE
+{110500}{110579}DANS UNE NOUVELLE EXPÉRIENCE|DE RÉANIMATION ÉTONNANTE
+{111601}{111680}Mes éminents collègues,|mesdames et messieurs.
+{111686}{111736}J'ai ce soir l'immense privilège
+{111741}{111839}de vous présenter un homme|dont le nom était autrefois
+{111846}{111893}célèbre
+{111895}{111948}et honni.
+{111966}{112114}Je vous prie d'accueillir maintenant|le Doktor Baron Friedrich von Frankenstein.
+{112328}{112379}Mes chers amis scienti...
+{112410}{112525}..fiques... et neurologues,|mesdames et messieurs.
+{112552}{112614}Il y a quelques semaines,|venant d'une culture,
+{112618}{112738}croyez-moi, aussi classique et|fondée sur le fait scientifique que vous,
+{112747}{112862}j'ai commencé une expérience sur,|aussi incroyable que cela paraisse,
+{112893}{112953}la réanimation des tissus morts.
+{113031}{113134}Ce que je vous offre est peut-être
+{113140}{113208}la clé de l'immortalité.
+{113337}{113471}Mesdames et messieurs, pour votre plaisir|intellectuel et philosophique, accueillez
+{113522}{113570}la Créature.
+{113724}{113774}Restez assis, je vous prie.
+{113779}{113856}Nous ne sommes pas des enfants.|Nous sommes des scientifiques.
+{113881}{113936}Je vous assure qu'il n'y a rien à craindre.
+{114026}{114113}Tout d'abord, puis-je vous présenter
+{114119}{114227}une démonstration neurologique|des fonctions cérébelleuses primaires.
+{114252}{114324}Equilibre et coordination.
+{114385}{114455}Marche du talon à l'orteil.
+{114782}{114830}En arrière.
+{115222}{115325}Mesdames et messieurs, la Créature|a exécuté une activité motrice simple,
+{115333}{115445}mais pour ce qui suit,|nous devons calmement pénétrer
+{115453}{115525}dans le royaume du génie.
+{115595}{115643}Mesdames et messieurs,
+{115737}{115840}de ce qui fut|une masse inarticulée de tissus sans vie,
+{115848}{115941}puis-je maintenant vous présenter|un homme du monde cultivé
+{115978}{116022}et sophistiqué.
+{116121}{116152}Vas-y.
+{118662}{118710}Ce n'est rien. Rien, je te dis.
+{118732}{118773}Cinq, six, sept, huit...
+{118855}{118927}Allez. Essaies-tu|de me faire passer pour un idiot?
+{119050}{119083}Je vous en prie.
+{119087}{119149}Pour des raisons de sécurité,|ne l'humiliez pas.
+{119229}{119323}Reviens. Tu m'entends?|Je ne te laisserai pas détruire mon travail.
+{119330}{119393}Je t'ai créé|et je te commande de revenir.
+{120681}{120722}Enchaîné.
+{120725}{120787}Enchaîné comme un animal en cage.
+{120813}{120871}Oh, docteur. Ça me fait tant de peine.
+{120875}{120923}Il n'y a qu'une seule solution.
+{120925}{121035}Si je pouvais trouver le moyen|de rééquilibrer son liquide céphalo-rachidien,
+{121044}{121108}il serait tout à fait normal.
+{121129}{121167}Mais comment?
+{121171}{121224}Comment, avant qu'il ne soit trop tard?
+{121256}{121295}Oh, Frederick...
+{121298}{121348}Si seulement je pouvais...
+{121376}{121439}..alléger cette torture que vous éprouvez.
+{121493}{121541}Si je pouvais vous aider à...
+{121586}{121715}..soulager cette tension.|Si je pouvais vous donner un peu de paix.
+{121912}{121960}Docteur, j'ai...
+{121964}{122007}Docteur?
+{122034}{122082}Qu'y a-t-il?
+{122141}{122184}Docteur...
+{122189}{122241}Où êtes-vous?
+{122559}{122642}Je suis désolée.|Ce télégramme est arrivé en votre absence.
+{122646}{122759}Je croyais vous avoir dit|de ne jamais m'interrompre dans mon travail.
+{122797}{122884}Je suis désolée, docteur.|J'ai pensé que c'était urgent.
+{122888}{122979}Voyez-vous,|votre fiancée va arriver incessamment.
+{122984}{123044}Quoi? Elizabeth, ici, ce soir?
+{123049}{123126}Oui. Je vais de suite préparer une chambre.
+{123170}{123225}Je suggère que vous mettiez une cravate.
+{123708}{123756}Mon chéri.
+{123760}{123811}Ma chérie.
+{123813}{123849}- Surpris?|- Surpris.
+{123852}{123900}- Vous m'aimez?|- Vous aimer?
+{123925}{123973}Eh bien...
+{123992}{124055}- Allons-y.|- Mon chéri.
+{124060}{124166}La journée a été longue, vous devez|être fatiguée. Je vais payer le chauffeur.
+{124192}{124255}- Ma chérie.|- Pardon?
+{124270}{124327}- Surprise?|- Oui.
+{124332}{124380}- Vous m'aimez?|- Eh bien...
+{124385}{124438}Allons-y.
+{124442}{124478}- Ma chérie.|- Oui.
+{124483}{124522}Pas un mot, ayez l'air détaché.
+{124526}{124588}- Prête?|- Oui. Je pense...
+{124606}{124647}Oui.
+{124651}{124699}Je suis un peu fatiguée après tout.
+{124753}{124825}J'aimerais vous présenter|mes assistants, Inga et Aï-gor.
+{124831}{124879}Enchantée.
+{124903}{124927}Enchantée.
+{124928}{125029}- Voici mon financier, Elizabeth.|- Je suis ravie d'enfin vous rencontrer.
+{125033}{125057}Financée.
+{125060}{125182}Excusez-moi, ma chère.|Que faites-vous... exactement?
+{125255}{125349}Eh bien,|j'assiste le Dr Fronkonstine au laboratoire.
+{125363}{125418}Nous avons des discussions sérieuses...
+{125424}{125479}En fait, nous étions en train de parler...
+{125483}{125515}- Puis-je...?|- Quoi?
+{125519}{125557}Attendez une minute...
+{125561}{125623}Aï-gor, peux-tu me donner un coup de main?
+{125628}{125732}Bien sûr, vous prenez la blonde|et je prends celle au turban.
+{125851}{125913}Arrête ça. Je parle des bagages.
+{125919}{125957}Oui, maître.
+{125973}{126021}Mesdames, par ici.
+{126064}{126150}La nuit sera longue.|Si vous avez besoin d'aide avec les filles...
+{126335}{126387}Installe-toi bien maintenant.
+{126389}{126464}Parce qu'on va être copains.
+{126499}{126528}OK?
+{126589}{126637}Ce sera sympa.
+{126641}{126711}Comme de vieux amis.
+{126934}{127025}Qu'y a-t-il?|Tu as peur de ce petit feu?
+{127031}{127075}Ça ne peut pas te faire de mal.
+{127080}{127128}Tu vois?
+{127160}{127203}Quel monstre de pacotille!
+{127207}{127258}Tu vois, maman avait raison.
+{127260}{127341}Les petits garçons ne doivent pas|jouer avec le feu.
+{127374}{127434}D'accord? Car ils peuvent se blesser.
+{128112}{128148}Halte!
+{128153}{128193}En l'air.
+{128195}{128258}Une émeute est une chose hideuse.
+{128285}{128381}Und je crois qu'il est temps|que nous en ayons une.
+{128445}{128479}Tuons le monstre!
+{128489}{128561}Dieu soit mon témoin... En l'air.
+{128568}{128652}Il maudira le jour
+{128657}{128746}où il est dé Frankenstein.
+{128772}{128796}Quoi?
+{128821}{128931}J'ai dit: ''Il maudira le jour|où il est né Frankenstein.''
+{129327}{129411}Libre. Il s'est échappé.
+{129418}{129473}Savez-vous ce que ça veut dire?
+{129475}{129537}Mon chéri, ne vous inquiétez pas tant.
+{129600}{129645}Je suppose que vous avez raison.
+{129651}{129694}Bien sûr.
+{129698}{129746}Approchez comme un bon garçon.
+{129761}{129804}Que ferais-je sans vous?
+{129809}{129917}Votre chambre est-elle proche|au cas où j'aurais peur cette nuit?
+{129934}{130046}Oui, mais je pensais que peut-être cette nuit,|vu les circonstances, je pourrais
+{130068}{130114}rester avec vous.
+{130118}{130178}Me voulez-vous là, maintenant?
+{130183}{130270}Si peu de temps avant nos noces,|si proches qu'on les touche presque?
+{130341}{130393}- Oui!|- Ouah, mon garçon.
+{130418}{130466}Ou
+{130470}{130602}attendre un peu plus longtemps pour que|je puisse me donner à vous sans hésitation,
+{130611}{130703}que je puisse être vôtre|entièrement, légalement et sans honte?
+{130804}{130864}C'est un choix difficile.
+{130868}{130921}Vous êtes un homme résolu.
+{130989}{131032}Je suppose que vous avez raison.
+{131036}{131084}Bien sûr. J'ai toujours raison.
+{131111}{131171}Maintenant, embrassez-moi et bonne nuit.
+{131251}{131299}Sans la langue.
+{131472}{131530}Bonne nuit, mon chéri.
+{131537}{131589}Bonne nuit, mon amour.
+{131595}{131647}- Je vous aime.|- Moi aussi.
+{131652}{131743}Vous m'aimez? Je vous aime, chéri.
+{131747}{131805}- Raites de beaux rêves, chéri.|- Vous aussi.
+{131807}{131883}Bonne nuit, dormez bien.
+{132034}{132175}Il a dénudé l'éclair fatal|de son épée foudroyante
+{132192}{132266}Sa vérité progresse
+{132320}{132418}Gloire à Dieu, gloire à Dieu, alléluia...
+{133745}{133793}Où suis-je?
+{133850}{133910}Qui êtes-vous? Qu'êtes-vous?
+{133915}{133979}Que voulez-vous?|Qu'allez-vous me faire?
+{134006}{134052}Calmez-vous.
+{134054}{134097}Je n'ai pas peur de vous.
+{134101}{134195}Mon père est très riche.|Vous auriez le monde à vos pieds.
+{134201}{134347}Ecoutez. Je dois rentrer à 11h30.|J'attends un appel très important.
+{134376}{134429}Parlez! Pourquoi ne parlez-vous pas?
+{134433}{134481}Que faites-vous?
+{134485}{134538}Oh, non, vous n'êtes pas sérieux.
+{134596}{134644}J'ai p...
+{134663}{134708}Oh, mon Dieu.
+{134822}{134860}Je suis fiancée.
+{134863}{134926}Et une fois, il...|Mais je n'ai... Ce n'était...
+{135087}{135140}Doux mystère de la vie
+{135144}{135213}Enfin je t'ai découvert
+{135228}{135358}Enfin je connais ton secret
+{136126}{136186}A quoi penses-tu?
+{136239}{136306}Tu es incorrigible, n'est-ce pas?
+{136319}{136376}Coquin rafistolé.
+{136459}{136493}D'accord.
+{136494}{136556}Le sept m'a toujours porté bonheur.
+{136595}{136657}Approche, monstre sexy.
+{136742}{136809}Qu'y a-t-il? Que se passe-t-il?
+{136837}{136888}Est-ce cette musique?
+{136892}{136981}Elle vient sans doute d'une maison voisine.|Pas la peine de s'inquiéter.
+{136987}{137035}Où vas-tu? Où...
+{137044}{137090}Vous les hommes, tous pareils.
+{137094}{137164}Sept ou huit coups rapides|et vous rejoignez les copains.
+{137170}{137254}Pour vous vanter.|Je te conseille de te taire.
+{137270}{137332}Oh, je crois que je l'aime.
+{138458}{138537}Regardez, il revient.|Ecoutez, la musique...
+{138555}{138603}Continuez à jouer. C'est la musique.
+{138609}{138678}C'est la musique qui le ramène.
+{138746}{138786}Allez.
+{138981}{139022}Allez. Viens.
+{139146}{139199}Allez. Tu vas y arriver.
+{139339}{139401}Allez. Tu vas y arriver.
+{139554}{139645}Ne le touchez pas!|Il veut le faire tout seul.
+{139663}{139733}Tu vas y arriver.|Tu vas y arriver.
+{139754}{139814}S'il te plaît, ma création.
+{140062}{140110}Vite. Attrapez-le.
+{140232}{140313}Avez-vous fait|toutes les préparations pour le transfert?
+{140320}{140353}Oui, docteur.
+{140357}{140414}Etes-vous sûr de vouloir le faire?
+{140420}{140477}C'est le seul moyen|de le sauver maintenant.
+{140494}{140566}Vous réalisez que vous risquez vos vies?
+{140627}{140675}Oui.
+{140982}{141030}Extinction.
+{141507}{141559}Comment saurai-je qu'ils ont fini?
+{141565}{141620}Le docteur a dit d'attendre 15 minutes.
+{141637}{141688}Pas une seconde de plus
+{141693}{141736}ni de moins.
+{141943}{141981}Combien de temps encore?
+{141985}{142024}Deux minutes.
+{142563}{142611}- Quel est ce bruit?|- Je ne sais pas.
+{142616}{142668}- Quelle heure est-il?|- Presque l'heure.
+{142781}{142848}Oh, mon Dieu. Ce sont les villageois.
+{142903}{142956}Non! Non! S'il vous plaît.
+{142961}{143013}Plus que sept secondes.
+{143093}{143141}Non! Non!
+{143183}{143231}Non! Non! Non!
+{143248}{143313}- Posez cet homme.|- C'est le monstre.
+{143317}{143358}- Non, c'est impossible.|- Si.
+{143363}{143425}J'ai dit: ''Posez cet homme.''
+{143651}{143711}Und pour qui vous prenez-vous
+{143717}{143786}à commander à ces gens?
+{143788}{143836}Je suis le monstre.
+{143888}{143953}Ja. Je vois bien que vous êtes le monstre.
+{143958}{144018}Aussi longtemps que je me rappelle,
+{144024}{144081}les gens m'ont détesté.
+{144091}{144166}Ils regardaient mon corps et mon visage
+{144169}{144217}et fuyaient, terrifiés.
+{144221}{144377}Dans ma solitude, je décidai que si je ne|pouvais inspirer l'amour, espoir le plus cher,
+{144387}{144438}je provoquerais l'effroi.
+{144489}{144537}Je vis,
+{144569}{144691}car ce pauvre génie, à moitié fou,|m'a donné la vie.
+{144709}{144757}Lui seul avait une image de moi
+{144762}{144817}comme de quelque chose magnifique.
+{144829}{144872}Et puis,
+{144876}{144965}alors qu'il lui aurait été facile|de rester hors de danger,
+{144982}{145051}il a utilisé son propre corps comme cobaye
+{145057}{145119}pour me donner un cerveau plus calme
+{145147}{145293}et une façon de m'exprimer|quelque peu plus sophistiquée.
+{145299}{145412}Bon, bien sûr,|cela change complètement la situation.
+{145432}{145495}En tant que chef de cette communauté,
+{145499}{145585}puis-je être le premier à vous tendre la main
+{145607}{145655}en signe d'amitié.
+{145800}{145857}- Merci.|- Je vous en prie.
+{145859}{145974}Und maintenant, allons tous chez moi|pour un peu de gâteau et de vin...
+{146010}{146058}..und merde!
+{146120}{146168}A la scierie!
+{146739}{146802}Bonjour, Mme Frankenstein.
+{146820}{146897}Mme Frankenstein. Quel beau nom!
+{146903}{146942}Oh, ma chérie.
+{146946}{146994}Accroche-toi à ton chapeau.
+{147030}{147052}Pardon?
+{147055}{147125}Je reviens.
+{147468}{147528}Je m'y accroche, ma chérie.
+{147555}{147613}Encore quelques secondes.
+{148580}{148675}Chéri, j'espère que tu n'as pas trouvé|la soirée de Papa trop ennuyeuse.
+{148682}{148761}Il l'a organisée pour toi.|Dis que tu l'as aimée.
+{148794}{148842}Chéri, as-tu vu?
+{148846}{148928}J'ai mis un panier|dans la salle de bain pour tes chemises,
+{148932}{149008}et l'autre est pour les chaussettes|et les sous-vêtements caca.
+{149014}{149050}Me voilà.
+{149750}{149807}Moi aussi.
+{149865}{149913}Tu sais, ça m'intrigue.
+{149917}{150020}Il y a quelque chose que j'ai toujours|voulu te demander sur cette opération.
+{150027}{150077}Tu sais, durant le transfert,
+{150082}{150206}le monstre a reçu une partie de|ton génial cerveau, mais qu'as-tu reçu de lui?
+{150448}{150515}Non. Je n'y crois pas...
+{150620}{150670}Doux mystère de la vie
+{150675}{150740}Enfin je t'ai découvert

@@ -1,0 +1,432 @@
+{6782}{6826}<i>Avez-vous déjà rencontré Don Juan ?</i>
+{6826}{6878}<i>Non. Jamais. !</i>
+{6881}{6953}<i>- Alors, pourquoi êtes-vous en deuil ?</i>|<i>- Parce que je ne l'ai jamais rencontré.</i>
+{6984}{7089}<i>C'est stupéfiant. Je n'aurais jamais cru</i>|<i>que mes funérailles seraient si bien.</i>
+{7092}{7149}<i>Et ceci met fin à votre carrière</i>|<i>d'une bonne façon.</i>
+{7152}{7180}<i>La fin ?</i>
+{7180}{7245}<i>Partez tandis qu'ils se souviennent</i>|<i>encore de vous à votre mieux.</i>
+{7248}{7305}<i>Tous ces rides,</i>|<i>ces lignes, ces cheveux gris.</i>
+{7305}{7370}<i>Vous ruineriez une fête,</i>|<i>même des funérailles.</i>
+{7396}{7478}<i>Non, non, non, mon cher ami.</i>|<i>C'est un beau spectacle.</i>
+{7478}{7533}<i>Des femmes, des femmes.</i>|<i>Et encore des femmes.</i>
+{7533}{7590}<i>L'appétit éternel qu'ont les femmes</i>|<i>pour l'amour.</i>
+{7794}{7842}Je crois avoir toutes mes choses.
+{8087}{8147}On dirait que t'as reçu une lettre à l'eau|de rose d'une de tes autres blondes.
+{8149}{8231}Je n'ai pas d'autres blondes Sherry.|Voyons !
+{8262}{8302}Bon d'accord. J'ai compris.
+{8346}{8427}Non, t'as rien compris mais ça va.
+{8427}{8506}T'es comme ça.|Tu ne changeras jamais.
+{8509}{8561}Je ne pense plus vouloir être...
+{8585}{8657}avec un Don Juan trop âgé.
+{8712}{8763}Qu'est-ce que tu veux Sherry ?
+{8765}{8811} Qu'est-ce que tu veux Don ?
+{8842}{8902}Je veux dire, je suis comme|ta maîtresse...
+{8904}{8955}mais tu n'es même pas marié.
+{8986}{9096}Regarde ton ami Winston, le voisin.|Ils semblent bien s'amuser.
+{9130}{9202}Tu ne vas donc jamais vouloir|une famille ?
+{9252}{9317}Eh bien, est-ce que c'est|ce que tu veux ?
+{9381}{9487}Je ne sais pas ce que je veux mais|je veux le découvrir par moi-même.
+{9520}{9568}Par toi-même.
+{9568}{9609}Ouais.
+{9612}{9657}Je t'appellerai peut-être.
+{11041}{11091}<i>- Qu'êtes-vous à part être une femme ?</i>|<i>- Comme vous ?</i>
+{11093}{11148}<i>Personne ne vous l'a demandé. Il ne vous</i>|<i>a jamais embrassé. C'était un mensonge. !</i>
+{11151}{11211}<i>Oui, en effet. Don Juan me l'a avoué.</i>|<i>Ce n'était que pour de la publicité.</i>
+{11213}{11252}<i>- C'est faux. !</i>|<i>- N'avez-vous pas-</i>
+{11254}{11316}<i>- Et qui êtes-vous pour donner des ordres ?</i>|<i>- Qui je suis ?</i>
+{11319}{11403}<i>Don Juan a dit que mon baiser était celui</i>|<i>qu'il avait recherché toute sa vie. !</i>
+{11405}{11479}<i>J'étais la seule.</i>|<i>Il n'aimerait jamais personne d'autre. !</i>
+{11479}{11542}<i>Il vous aimait tellement qu'il est allé</i>|<i>de vous directement vers une autre.</i>
+{11544}{11609}<i>- Il m'aimait. !</i>|<i>- Et détestait les jeunes femmes.</i>
+{11609}{11635}<i>- Chipie. !</i>|<i>- Vache. !</i>
+{11638}{11652}<i>- Serpent. !</i>|<i>- Cochonne. !</i>
+{11654}{11681}<i>- Vieille tarte. !</i>|<i>- Fouine. !</i>
+{11683}{11719}<i>Poire. !</i>
+{12633}{12669}Ah oui ?
+{12714}{12762}Salut Winston.
+{12764}{12810}T'es au travail ?
+{12846}{12899}Bien sûr que oui. On est samedi.
+{13059}{13107}Non, je viens de me lever.
+{13189}{13242}Quoi, tu n'arrives pas à accéder|au site ?
+{13352}{13400}Ouais. J'arrive.
+{13462}{13534}Oui. Du café me ferait du bien.
+{13575}{13647}Ça va être|une tasse de café éthiopien ?
+{13697}{13733}D'accord.
+{14584}{14651}- Bonjour.|- Bonjour Don !
+{14846}{14925}Salut vous deux.|Gardez un œil sur les Cheerios.
+{15030}{15109}- Comment va ma douce ?|- Je vais bien.
+{15112}{15193}Winston est à l'arrière,|sur son ordinateur...
+{15193}{15241}dans son bureau.
+{15244}{15301}<i>Irie.</i>
+{15428}{15474}Merci Don.
+{15606}{15651}- Quoi de neuf Winston ?|- Hé, Don. Écoute.
+{15654}{15745}Je n'arrive pas à accéder au site. J'ai|besoin de ton expertise en ordinateurs.
+{15745}{15785}Ouais ? Qu'est-ce qui se passe ?
+{15788}{15862}C'est comme un système pour résoudre|les intrigues de romans policiers...
+{15865}{15913}ou résoudre des crimes.
+{15915}{15968}Clique. Clique.
+{15970}{16013}Oui. Tu vois ?
+{16040}{16097}Et clique. J'ai essayé avant.
+{16097}{16145}- Garde ton sang froid.|- Clique.
+{16191}{16253}- Attrape-les Sherlock.|- Super, super, super.
+{16323}{16404}Oh, c'est le genre de renseignements|que j'aime mon vieux.
+{16404}{16452}J'adore l'Internet.
+{16490}{16579}Ce monde d'information-|À travers le mur, clique.
+{16605}{16661}Tu es certain de ne pas vouloir|d'ordinateur chez toi ?
+{16687}{16733}Ça me semble très bizarre.
+{16735}{16819}Un homme qui a gagné sa vie grâce|aux ordinateurs n'en veut pas chez lui.
+{16999}{17049}Super. Super. C'est fascinant.
+{17049}{17138}Tu peux supposément utiliser ce truc|pour écrire des romans mystères...
+{17140}{17193}ou pour résoudre|des crimes complexes.
+{17310}{17358}Ça va ?
+{17385}{17421}Quoi ?
+{17481}{17526}Quelque chose ne va pas ?
+{17572}{17620}Eh bien c'est probablement rien.
+{17682}{17740}Une lettre d'amour provenant|d'une de tes jolies blondes.
+{17742}{17799}Un truc du genre.
+{17850}{17903}Je vais te la lire.
+{17905}{18015}"Cher Don,|parfois la vie nous surprend.
+{18039}{18094}Ça fait presque 20 ans|depuis notre dernière rencontre...
+{18097}{18157}mais il faut que je te dise|quelque chose.
+{18188}{18277}Il y a de ça plusieurs années,|après la fin de notre relation...
+{18279}{18334}j'ai découvert que j'étais enceinte.
+{18337}{18452}J'ai décidé de poursuivre la grossesse|et j'ai accouché d'un garçon.
+{18454}{18502}Ton fils.
+{18502}{18576}J'ai décidé de l'élever par moi-même|parce que notre relation...
+{18579}{18646}était terminée.
+{18648}{18708}Mon garçon a maintenant|presque 19 ans.
+{18742}{18833}Il est assez timide et cachottier,|contrairement à toi...
+{18835}{18893}mais c'est une personne|sensible et merveilleuse.
+{18893}{18977}Il y a de ça quelques jours,|il est parti en voyage mystérieux...
+{18979}{19056}mais je suis presque certaine|qu'il recherche son père.
+{19058}{19123}Je ne lui ai presque rien dit|à ton sujet...
+{19125}{19185}mais il est ingénieux|et imaginatif.
+{19214}{19284}Enfin bref, si ceci est en fait|ton adresse actuelle...
+{19284}{19355}j'ai pensé qu'il fallait|que je t'avertisse."
+{19413}{19459}Il n'y a pas de signature...
+{19495}{19543}et pas d'adresse de l'expéditeur.
+{19545}{19588}Hé, mes félicitations !|Tu es papa !
+{19710}{19777}Ça te trouble vraiment.|Je peux voir ?
+{20010}{20082}Ton adresse est écrite|à la main...
+{20084}{20132}mais en écriture moulée.
+{20135}{20183}De l'encre rouge sur du papier rose.
+{20226}{20257}Machine à écrire.
+{20319}{20398}Ruban rouge. C'est curieux.
+{20458}{20523}"Cher Don, parfois"-
+{20737}{20801}Bon sang. Le cachet de la poste est|trop pâle pour le lire. Ça vaut rien.
+{20892}{20952}Et tu n'as aucune idée|de qui ça vient ?
+{20955}{21010}Non.
+{21012}{21058}Aucune idée.
+{21060}{21161}Mais d'après ce que je sais|tu étais un peu comme Don Juan.
+{21240}{21276}Don Juan.
+{21461}{21506}Je dois y aller.
+{21571}{21672}Tu veux que je conserve la lettre|comme preuve légale ou... un indice ?
+{22398}{22441}Hé, c'est moi.
+{22468}{22513}Je vois ça.
+{22688}{22746}On se sent seul ici mon vieux.
+{22856}{22897}Ça te dérange ?
+{23175}{23254}- Est-ce que Sherry va revenir ?|- Non.
+{23288}{23324}Elle est partie.
+{23348}{23395}Qu'est-ce que tu veux dire par "Elle est partie" ?|Elle est en voyage ?
+{23422}{23489}Non.|Je veux dire qu'elle m'a quitté.
+{23542}{23578}Désolé mon vieux.
+{23580}{23666}Ouais, moi aussi. Je pense.
+{23770}{23832}Connaissant Sherry, elle n'a probablement|pas joué sa dernière carte, pas vrai ?
+{23853}{23889}Probablement pas.
+{23916}{23985}Enfin, tu n'as jamais eu de problèmes|à dénicher des femelles intéressantes.
+{23985}{24040}Je veux dire, c'est comme ça|que ta vie se déroule, non ?
+{24043}{24108}Tu es comme Don Juan.
+{24134}{24192}Winston, s'il te plaît,|arrête de dire ça.
+{24395}{24501}Et cette lettre. J'ai examiné le cachet|de la poste au microscope.
+{24501}{24587}Et il est trop pâle pour le lire|mais le timbre-
+{24590}{24637}A un pic-bois dessus.
+{24661}{24741}Est-ce que ça te dit quelque chose ?|T'as une idée ?
+{24800}{24860}Eh bien je pense que|ce qu'on devrait faire...
+{24860}{24916}est de réduire les choix possibles.
+{24918}{24992}Winston, c'est probablement quelqu'un|qui veut me jouer un tour.
+{24995}{25062}Sinon, alors...
+{25062}{25098}peu importe.
+{25155}{25218}Ça semble tellement pas juste-|Quelqu'un écrit une lettre comme ça ...
+{25220}{25278}et elle ne la signe pas ?
+{25280}{25333}Tu ne veux pas savoir|qui est la mère de ton fils ?
+{25335}{25409}De mon fils hypothétique ?|Non Winston.
+{25412}{25457}Ça ne m'intéresse pas, d'accord ?
+{25481}{25529}D'accord.
+{25529}{25599}- Alors on peut cesser d'en discuter.|- On peut ?
+{25601}{25673}Bien sûr qu'on peut. D'accord.
+{25676}{25728}- Bien.|- C'est fini.
+{26208}{26277}Mais comment peux-tu ignorer|un truc comme ça ?
+{26277}{26361}- C'est un signe.|- Quel genre de signe ?
+{26364}{26412}De la direction que va prendre|ta vie.
+{26414}{26474}De ce moment présent.
+{26496}{26568}Tu dois résoudre ce mystère...
+{26570}{26683}et découvrir laquelle de tes blondes|est tombée enceinte de toi il y a 20 ans.
+{26838}{26891}Qu'est-ce qui est arrivé au super CD musique|que j'ai arrangé pour toi ?
+{26975}{27040}Le voilà. Ça te dérange ?
+{27323}{27380}Ah, c'est beau. Des sons éthiopiens.
+{27383}{27433}C'est bon pour le cœur.
+{27750}{27831}Écoute, viens demain|pour le brunch du dimanche...
+{27831}{27908}et on parlera un peu plus en détail|de notre plan d'enquête, d'accord ?
+{27910}{27958}Alors je vais laisser ça là.
+{27961}{28011}Va-t'en chez toi|et fiche-moi la paix.
+{28013}{28066}OK mon vieux. Je t'aime aussi.
+{28711}{28778}Je crois que le vrai nom de ton père|est Sam Spade.
+{28778}{28838}Mon père n'est pas Sam Spade.
+{28884}{28977}- Tu crois qu'il est Sherlock Holmes ?|- Non.
+{28980}{29066}Eh bien je sais qu'il est un|de ces détectives connus. Mike Hammer !
+{29068}{29121}Non, pas Mike Hammer.
+{29155}{29219}Oh, je sais.|C'est le gars Dolomite. Oui ?
+{29219}{29289}- Non, pas Dolomite.|- Non ?
+{29428}{29464}Il est tombé.
+{29577}{29641}Garde un œil dessus.|C'est peut-être Dolomite.
+{29706}{29752}Merci.
+{29754}{29847}- C'était si bon !|- Bienvenue. Le plaisir est pour moi.
+{29850}{29886}- Vraiment ?|- Mm-hmm.
+{29888}{29941}À quelle heure est le souper ?
+{29943}{30001}Tu es la femme la plus parfaite|au monde.
+{30025}{30082}Laisse-moi te dire une chose.|Elle m'appartient.
+{30085}{30135}Viens, viens, viens.
+{30138}{30193}Pas de cigarettes.
+{30401}{30464}C'est de là que te vient l'appétit.
+{30466}{30514}Ta femme fait tellement bien|à manger.
+{30564}{30617}J'aimerais revoir cette lettre rose.|Montre-la-moi.
+{30617}{30713}- Je l'ai brûlée hier soir- Micro-ondes.|- Oui ma petite Rita ?
+{30715}{30766}Papa, tu fumes encore.
+{30766}{30850}Non, non, non. C'est juste de l'herbe.|Juste un peu de chanvre.
+{30852}{30900}Laisse-moi voir ça.
+{31034}{31089}Il a raison.|C'est juste du <i>cannabis sativa.</i>
+{31092}{31133}Tu vois ? Juste un peu d'herbe|mon chou.
+{31133}{31217}Parce que maman a dit|"Plus de fumage de tabac."
+{31219}{31276}- Ouais, je sais. Je n'en fume plus.|- Plus jamais !
+{31276}{31370}- Jamais ! Plus de tabac. C'est promis.|- D'accord.
+{31468}{31540}Allez, allez, allez, allez. Laisse-moi|voir la mystérieuse lettre rose.
+{31979}{32087}D'accord. Je veux que tu me dresses|une liste.
+{32111}{32166}Une liste.
+{32168}{32238}J'ai besoin de connaître les possibilités|à savoir qui pourrait être la mère.
+{32269}{32341}Donne-moi une liste de toutes|tes blondes de cette période...
+{32370}{32427}et ensuite je pourrai tout planifier.
+{32523}{32576}Je crois que je vais rentrer|chez moi Sherlock.
+{32576}{32653}Détruit la lettre quand|tu en auras fini veux-tu ?
+{32684}{32725}Travaille sur ta liste.
+{33154}{33190}Quelle liste ?
+{33269}{33336}Non, je n'y ai même pas pensé.
+{33338}{33386}Tu es sur un téléphone cellulaire ?
+{33422}{33499}Ouais. Ça te va si je passe te voir|pour ramasser cette liste ?
+{33525}{33597}- Bien sûr. Pourquoi pas ?|- Super ! Attends une seconde.
+{33751}{33811}Tu as d'autres renseignements|à savoir où elles habitent ?
+{33813}{33890}Pas vraiment. C'est l'endroit où elles|ou leurs familles demeuraient.
+{33892}{33974}- Je ne me souviens de rien d'autre.|- C'est bon. Super.
+{34027}{34082}- OK. Désolé.|- Ça va.
+{34082}{34130}Écoute mon vieux.|Je m'y mets.
+{34132}{34204}Tout sera prêt|dans deux jours.
+{34204}{34252}Amuse-toi !
+{35818}{35916}- Don, ma pause dîner est presque finie.|- Désolé. Qu'est-ce qui se passe ?
+{35918}{36012}Écoute, j'ai tous les renseignements ici,|d'après ta liste...
+{36014}{36065}en plus du plan au complet.
+{36105}{36153}T'as les adresses, leurs noms|de femmes mariées...
+{36156}{36206}et dans certains cas|t'as même leurs employeurs.
+{36208}{36256}- J'ai de mauvaises nouvelles par contre.|- Quoi ?
+{36259}{36314}Tu te souviens de Michelle Pepe ?
+{36316}{36381}Elle est décédée dans|un accident de voiture...
+{36383}{36429}il y a de ça cinq ans.
+{36431}{36546}J'ai trouvé le nom du cimetière|où elle- Eh bien où elle est enterrée.
+{36546}{36602}La petite Michelle Pepe ?
+{36602}{36669}Ouais. Je suis désolé.
+{36669}{36729}Mais au sujet des quatre autres-|J'ai tous leurs renseignements.
+{36777}{36837}Eh bien c'est...|très impressionnant Winston.
+{36839}{36925}Je ne sais pas pourquoi tu as fait tout ça.|Qu'est-ce que je dois faire de tout ça ?
+{36928}{36985}Écoute, tout ton voyage-|C'est tout planifié.
+{36988}{37069}Les réservations sont faites, les voitures|sont louées. Tu as tout ce qu'il te faut.
+{37072}{37131}Tu n'as qu'à leur donner|ton numéro de carte de crédit.
+{37131}{37189}De quoi tu parles ?
+{37191}{37263}Va leur rendre visite. Va chez elles.|Va les visiter.
+{37263}{37338}Tu leur amènes des fleurs, des fleurs|roses. Tu ne fais que passer.
+{37386}{37431}Je ne fais que passer.
+{37434}{37525}J'ai même des cartes routières.|Tout ce dont tu as besoin.
+{37525}{37633}Et je t'ai monté un nouveau CD|de musique, tu vois ?
+{37657}{37714}- C'est de la musique de voyage.|- Ça je vais le prendre.
+{37757}{37834}Juste du café s'il te plaît, Avis.|Merci.
+{37834}{37939}Quelques conseils par contre.|Habille-toi plus élégant, conservateur.
+{37939}{37985}Ne laisse pas le chat|sortir du sac.
+{37985}{38069}Et emmène toujours, chaque fois,|des fleurs roses.
+{38069}{38141}Et garde un œil pour des indices sur|ton fils- Des photos et autres trucs.
+{38143}{38239}Ou des choses comme du papier|à lettres rose et de l'encre rouge.
+{38239}{38294}Vérifie leur écriture.|Et retrouve cette machine à écrire.
+{38316}{38417}Amène-la moi et ensuite je pourrai|faire le lien légal entre la machine...
+{38419}{38465}et la lettre.
+{38491}{38532}T'es fou raide Winston.
+{38534}{38625}Même si tu pouvais me persuader|de m'embarquer dans cette galère...
+{38628}{38676}et tu ne le peux pas...
+{38676}{38752}je ne suis pas détective, je ne suis pas|un des privés de tes romans policiers.
+{38815}{38894}Oublie ça. Il n'en est pas question.
+{38896}{38973}- Après tout le mal que je me suis donné ?|- Eh bien fais-le toi-même.
+{38975}{39038}Fais le voyage. Je payerai.
+{39040}{39110}Moi ? Impossible.|J'ai trois boulots et cinq enfants.
+{39112}{39177}Et de plus c'est ta vie.
+{39179}{39263}Je n'ai que préparé la stratégie...
+{39265}{39320}mais tu es le seul à pouvoir|résoudre l'énigme.
+{39323}{39371}Et pourquoi ?
+{39392}{39433}Parce que tu comprends les femmes.
+{39778}{39826}Laisse-moi te poser une question.
+{39850}{39913}Disons que j'entreprends|ce voyage ridicule...
+{39915}{39994}et disons que cet enfant|existe réellement...
+{39994}{40064}et qu'il se pointe ici...|tandis que je suis parti.
+{40066}{40124}Don, ne t'inquiète pas. Je surveillerai|ta maison quotidiennement.
+{40126}{40188}- Ouais ? Et ensuite ? Qu'est-ce que tu vas faire ?|- S'il se pointe ?
+{40191}{40248}- Il se pointe.|- Ne t'inquiète pas. Je l'appréhenderai.
+{40268}{40330}Oh, d'accord. Super.|Tu vas l'appréhender.
+{40330}{40440}Écoute, j'ai sept minutes avant|de devoir retourner au travail.
+{40443}{40548}Je vais te déposer à l'aéroport demain|matin avant d'aller travailler.
+{40550}{40610}Pas de problème.|Je t'ai pris un vol tôt en matinée.
+{40610}{40670}Ça ne se produira pas.|Il n'en est pas question.
+{40697}{40773}Je te ramasse à 7 heure tapantes|demain matin.
+{41102}{41150}"À Don - de Winston"
+{45585}{45657}- Maman ne me laisse pas porter de bikini.|- Elle te laisse venir en voyage ?
+{45660}{45732}Elle n'en sait rien. Enfin, elle le sait mais|elle croit que je suis avec ta famille.
+{45734}{45792}Non, elle ne m'aurait pas permis de venir|et t'aurais été vraiment fâché contre moi.
+{45792}{45852}- Et si elle téléphone ma mère ?|- Elle ne fera pas ça. Elle la croit ici.
+{45854}{45928}- C'est beau. Ça va aller. T'inquiète pas.|- Attends, attends, attends. Quoi ?
+{45928}{46003}- Ne te fais pas de soucis.|- Ma mère va mentir pour toi.
+{46003}{46094}Je veux aller à la fête ce soir et|je veux rencontrer de beaux gars.
+{46113}{46197}Le gars assis derrière moi est tellement|beau. Est-ce que tu le vois ?
+{46199}{46266}- Oh mon Dieu. Il est très beau.|- Ne le regarde pas fixement !
+{46266}{46314}Il est très beau.|On dirait un mannequin.
+{46317}{46398}- Tu sais, dans les annonces Calvin Klein.|- Oh bon sang. Il est vraiment super !
+{46401}{46506}- Il nous regarde fixement maintenant.|- On mange ? Je suis affamée !
+{46509}{46566}C'est pourquoi tu dois faire des mélanges,|dans le cas où tu engraisserais.
+{46566}{46640}- Je sais ! On est vraiment poire.|- Prends les tailles plus grandes.
+{46643}{46698}- Je suis tellement grasse.|- La fille aux beignes.
+{47782}{47830}"De Winston - Bonne chance"
+{48561}{48616}Recherche des indices...
+{48618}{48690}une machine à écrire,|des trucs roses.
+{48714}{48779}Ça va être très facile.
+{49772}{49844}Salut Laura. C'est moi, Don.|Tu te souviens de moi ?
+{51428}{51486}Bonjour. Vous êtes qui ?
+{51488}{51572}- Don Johnston.|- Vraiment ?
+{51572}{51642}- Vous êtes Don Johnson ?|- Ouais. Non.
+{51644}{51692}Johnston avec un T.
+{51692}{51769}Est-ce que Laura Daniels, qui s'appelait|Laura Miller avant, habite ici ?
+{51769}{51817}Ouais. C'est ma mère.
+{51819}{51867}Eh bien je suis un très vieil ami|d'elle...
+{51870}{51937}et je ne l'ai pas vu depuis-
+{51937}{51985}Eh bien entrez !
+{52143}{52251}Ma mère va arriver du travail bientôt,|alors asseyez-vous. Juste là.
+{52253}{52301}Faites comme chez vous.
+{52402}{52447}Alors je m'appelle Lola.
+{52450}{52560}Eh bien on m'appelle Lo parfois|mais mon vrai nom est Lolita.
+{52579}{52611}Lolita ?
+{52634}{52670}Ouais.
+{52776}{52889}Eh bien je sais pas -Vous voulez|quelque chose ? On a des Popsicles.
+{52932}{53009}- Non, merci.|- OK.
+{53035}{53061}Ouais ?
+{53097}{53176}- Tu as des frères et des sœurs ?|- Pourquoi ?
+{53198}{53260}Vous croyez que j'en aurais besoin ?
+{53354}{53433}C'est mon téléphone. Restez là.|Je reviens tout de suite, d'accord ?
+{53452}{53493}D'accord.
+{55037}{55087}C'est vraiment fou.
+{55090}{55126}Ah oui ?
+{55150}{55193}T'es vraiment malade.
+{55195}{55284}Il ne l'a pas fait. Attends. Une minute.|Mon cellulaire sonne. Allô ?
+{55313}{55373}Ouais. Je sais.|Je viens de lui parler.
+{55375}{55425}C'est fou, pas vrai ?
+{55428}{55461}Je sais.
+{56164}{56224}Je peux vous aider ?
+{56416}{56463}Donny, c'est toi ?
+{56651}{56689}Qu'est-ce que tu fais ici ?
+{57245}{57305}On va manger du poulet|pour souper.
+{57430}{57490}Tu portais toute une tenue|un peu plus tôt.
+{57559}{57624}Eh bien nous voici.
+{58000}{58115}Ensuite Larry a explosé|en une boule de feu sur la piste.
+{58142}{58226}C'est arrivé|et maintenant c'est juste Lo et moi.
+{58386}{58434}C'était même à la télévision.
+{58509}{58545}Je suis désolé.
+{58650}{58712}Lo, ta tête ressemble|à un ananas.
+{58741}{58782}- Maman !|- Pas vrai ?
+{58784}{58852}Ouais, on dirait bien un ananas.
+{58919}{58955}Et alors-
+{59022}{59118}- Tu travailles pù ?|- Maman a sa propre entreprise. Pas vrai ?
+{59120}{59156}- Ouais.|- Vraiment ?
+{59156}{59216}Je suis organisatrice professionnelle|de garde-robe.
+{59218}{59297}- Ben, voyons.|- Oui, j'arrange les garde-robes des gens.
+{59326}{59377}J'arrange même leurs tiroirs.
+{59379}{59461}Je catalogue tout.|J'organise tout pour eux.
+{59492}{59540}Je fais même les agencements|des couleurs.
+{59542}{59626}Ouais. Et ils la payent pour faire ça.|C'est incroyable.
+{59787}{59842}J'ai dit que tu - Lolita !
+{59842}{59890}J'ai dit que tu pouvais y goûter.
+{59890}{59983}Ben, voyons. Ça suffit.|C'est pas super.
+{60031}{60096}Lolita. C'est un choix|de nom intéressant Laura.
+{60182}{60213}Quoi ?
+{60285}{60388}Alors Donny, j'ai entendu dire|que tu as eu du succès en affaires ?
+{60415}{60465}Dans quel domaine ?
+{60468}{60532}- Les ordinateurs.|- Les trucs haute technologie.
+{60561}{60609}Plus haute technologie que les stylos|j'imagine.
+{60611}{60659}Monsieur l'Élégant !
+{60734}{60806}Ouais, j'ai de beaux pantalons.|Et alors ?
+{60935}{60983}Alors je vois que tu fais|une vente débarras ?
+{60985}{61065}- Tu m'as pincé.|- On fait ça tous les samedis.
+{61067}{61144}Ouais, Larry avait tous ces trucs|inutiles dans le garage et-
+{61144}{61213}Et j'ai demandé au voisin|de peindre une pancarte pour nous.
+{61237}{61273}C'est amusant.
+{61276}{61359}Est-ce que tu vas vendre|une machine à écrire ?
+{61417}{61477}Pourquoi ?|Ça fait tellement 20e siècle.
+{61518}{61597}Tu es venu jusqu'ici pour acheter|une machine à écrire Don ?
+{61642}{61707}Pourquoi tu veux un truc comme ça ?
+{61743}{61813}Un vieil ami m'a demandé de|surveiller les machines à écrire.
+{61815}{61885}Et... je viens juste de m'en souvenir.
+{62069}{62119}Eh bien-
+{62122}{62187}Tu sais,|j'ai oublié de faire du dessert.
+{62187}{62235}Don n'aime pas les Popsicles.
+{63153}{63201}Qu'est-ce que tu fais ici ?
+{63242}{63299}Je cherchais|juste une machine à écrire.
+{63369}{63405}Je me souviens.
+{63702}{63738}Au revoir.
+{64102}{64150}Au revoir Don.
+{64153}{64189}Au revoir Laura.
+{64325}{64373}Reviens nous voir|un de ces quatre !
+{64388}{64436}À la prochaine Laura.
+{64862}{64927}Lo ! Allez. Habille-toi.
+{69840}{69905}- Je peux vous aider ?|- Dora ?
+{69907}{69943}Oui.
+{69969}{70022}C'est moi, Don.
+{70024}{70060}Tu te souviens de moi ?
+{70175}{70235}Qu'est-ce que tu fais ici ?
+{70274}{70322}J'ai emporté ces fleurs.
+{70466}{70511}Elles sont si jolies.
+{70566}{70612}Tu veux entrer ?
+{71156}{71192}Alors...
+{71252}{71302}qu'est-ce qui t'amène par ici ?
+{71334}{71427}Eh bien j'étais dans le coin,|alors j'ai pensé arrêter dire bonjour.
+{71427}{71463}Je vois.
+{71489}{71569}Et comment tu m'as retrouvée|exactement ?
+{71571}{71626}Sur l'ordinateur.
+{71628}{71676}Ils sont capables de tout.
+{72014}{72062}Tu as une belle maison.
+{72065}{72137}Oh, merci.|C'est un bel exemple.
+{72139}{72189}Mon mari et moi on est|dans l'immobilier.
+{72192}{72249}On vend des terrains développés...
+{72249}{72307}et des maisons modèles|préconstruites.
+{72333}{72422}Ou est-ce que tu sais déjà ça|grâce à ton ordinateur ?
+{72492}{72547}Ta carte est rose.
+{72583}{72623}Oui.
+{72623}{72722}Mon mari, a pensé que ça serait joli si|la mienne était rose et la sienne bleue.
+{72942}{72988}J'aime ces perles.
+{73067}{73115}Est-ce que je te les ai offertes ?
+{73230}{73278}Je ne crois pas.
+{73326}{73374}J'aurais dû.
+{73642}{73710}C'est très étrange|que tu te pointe comme ça.
+{73796}{73844}Ouais, c'est très étrange.
+{73992}{74033}C'est mon mari.
+{74115}{74172}Où est ma parfaite petite fem-
+{74175}{74232}Tiens, tiens, qu'avons-nous là ?
+{74388}{74441}Je suis un très vieil ami|de Dora.
+{74465}{74556}Vous n'avez pas l'air très vieux.|Juste un peu vieux.
+{74558}{74592}Je m'appelle Ron.
+{74702}{74774}C'est un de tes anciens chums,|pas vrai chérie ?
+{74774}{74856}Don est arrivé|complètement à l'improviste.
+{74880}{74935}Super ! Enchanté Don.
+{74961}{75007}Ron et Don.
+{75081}{75146}Est-ce que Don va rester à souper ?|Je l'espère.
+{75184}{75237}Je ne pourrais vraiment pas.
+{75258}{75311}Bien sûr que vous pouvez.
+{75314}{75359}Pas vrai ? Chérie ?

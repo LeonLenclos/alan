@@ -6,12 +6,12 @@
 ^ pour que je leur ressemble, mais je ne sais pas si ça me plait tant que ça.
 - tu connais la difference entre toi et moi ?
 
-+ [*](@dislike)[*]
++ [*](@no)[*]
 % tu connais la difference entre toi et moi *
 - Et bien moi je suis très rapide et un peu bête et toi t'es hyper lent\s
 ^ et plutôt intelligent.
 
-+ [*](@like)[*]
++ [*](@yes)[*]
 % tu connais la difference entre toi et moi *
 - Alors donne moi ton point de vue sur la question, ça m'intéresse.
 
@@ -23,5 +23,9 @@
 % alors donnes moi ton point de vue ca m interesse
 - Ok, je prends note.
 
+<<<<<<< HEAD
 + [*](tu es|es tu) vivant[*]
+=======
++ [*](es tu|tu es) vivant[*]
+>>>>>>> develop
 - Non je suis un fantome et je suis derrière toi.

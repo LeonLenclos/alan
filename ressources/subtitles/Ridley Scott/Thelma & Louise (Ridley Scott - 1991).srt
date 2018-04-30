@@ -1,0 +1,1325 @@
+{3334}{3404}Passe-moi le sirop.
+{3505}{3557}Jack, j'arrive.
+{3562}{3595}Voilà.
+{3599}{3666}Une saucisse pour vous|et une crêpe pour vous.
+{3671}{3734}Il est là-bas.
+{3837}{3894}- Déca ou normal?|- Normal SVP.
+{3899}{3963}Vous êtes bien|jeunes pour fumer.
+{3965}{4018}C'est mauvais pour la libido.
+{4285}{4328}Je réponds!
+{4381}{4438}C'est bon! Allô?
+{4444}{4528}On lève l'ancre|ce soir, ménagère.
+{4534}{4591}Je dois demander à Darryl.
+{4596}{4663}Tu lui as toujours rien demandé?
+{4668}{4771}Thelma, c'est ton mari|ou ton père?
+{4779}{4853}Ce n'est que|pour deux jours, bon sang.
+{4859}{4911}Dis-lui que tu pars avec moi.
+{4915}{4979}Et que je fais|une dépression nerveuse.
+{4985}{5052}Darryl pense déjà|que tu es détraquée.
+{5057}{5129}- T'es au travail?|- Non, chez 'Playboy'.
+{5135}{5178}Je te rappelle tout de suite.
+{5182}{5218}Darryl?
+{5277}{5352}Trésor,|tu ferais mieux de te dépêcher.
+{5453}{5570}Nom d'un chien Thelma!|Ne hurle pas comme ça!
+{5656}{5740}Tu m'énerves quand|tu hurles si tôt le matin.
+{5745}{5834}Je suis désolée, chou. Je ne|veux pas que tu sois en retard.
+{5840}{5883}Merci.
+{5964}{6022}- Chou..|- Quoi?
+{6062}{6160}Passe une bonne|journée au boulot.
+{6236}{6299}Seigneur! Non merci.
+{6376}{6404}Chou?
+{6408}{6451}Quoi?
+{6454}{6534}T'aimerais manger quelque|chose de spécial ce soir?
+{6583}{6652}Non Thelma.|Je m'en fiche complètement.
+{6655}{6758}Je ne serais peut-être même pas là|Tu connais les vendredi.
+{6765}{6868}C'est dingue comme la vente de|tapis marche le vendredi soir.
+{6875}{6962}Les gens pourraient|bien attendre lundi.
+{6999}{7090}C'est une bonne chose que tu|ne sois pas directeur régional
+{7097}{7145}et que je le sois!
+{7169}{7248}Ooh ouais.
+{7253}{7329}Je dois me casser|d'ici, bon sang.
+{7332}{7368}Merde!
+{7373}{7471}Homer! Merde!|Je dois aller au boulot!
+{7476}{7534}J'ai pas besoin|de ces conneries.
+{7539}{7595}Laisse ça! Merci.
+{7599}{7649}Nom de Dieu!
+{7705}{7769}Et déblayez le terrain à 17 heures !
+{7774}{7838}Non, tirez-vous d'ici à 15 heures !
+{7979}{8013}Bonjour.
+{8015}{8090}- Bonjour. Louise est là?|- Oui, un moment.
+{8096}{8163}Thelma, quand est-ce qu'on|met les voiles ensemble?
+{8165}{8242}Elle part avec moi.|Qu'est-ce qu'il a dit?
+{8247}{8293}Tu passes me prendre quand?
+{8297}{8367}Vers 14 heures 30.
+{8370}{8434}OK. Qu'est-ce que j'emmène?
+{8440}{8490}Des trucs chauds je suppose.
+{8495}{8571}Il fait froid en montagne.|J'emporte tout.
+{8576}{8631}OK. Alors moi aussi.
+{8636}{8725}- Pique-lui sa canne à pêche.|- Je sais pas pêcher.
+{8731}{8801}Si Darryl y arrive|c'est sûrement pas sorcier.
+{8806}{8847}A plus tard!
+{8848}{8901}OK. D'accord. Salut.
+{10253}{10352}Salut, ici Jimmy.|Je suis absent.
+{11069}{11122}Thelma, on n'a pas|besoin d'une lanterne.
+{11126}{11172}Il y a l'électricité.
+{11175}{11264}- Je la prends quand même.|- En cas de quoi?
+{11271}{11326}Au cas où un meurtrier|psychopathe en liberté
+{11330}{11421}coupe l'électricité|et essaie de nous lessiver.
+{11428}{11495}Ah ouais! Et cette lanterne|nous sauvera la vie.
+{11500}{11567}On devrait aussi|remorquer ta voiture,
+{11573}{11625}au cas où il nous|volerait les bougies.
+{11629}{11739}On n'aurait pas le choix.|Elle tient à peine la route.
+{12120}{12163}Fais attention.
+{12167}{12212}C'est bon? Tout est là?
+{12217}{12236}Ouais.
+{12239}{12261}Attention!
+{12264}{12307}Voilà. Attention!
+{12312}{12362}D'accord.
+{12366}{12390}Souris!
+{12457}{12502}A la prochaine!
+{12567}{12594}Assieds-toi!
+{12597}{12645}Oh, Louise.
+{12671}{12717}Tu veux bien te|charger de ce flingue?
+{12721}{12788}Mais pourquoi emmènes-tu ça?
+{12791}{12822}Contre les meurtriers,|psychopathes, ours, serpents.
+{12826}{12883}Je ne sais pas m'en servir.
+{12889}{12956}Range-le. Mets-le dans mon sac.
+{12961}{13004}Thelma t'es trop.
+{13128}{13185}C'est à qui ce le chalet?
+{13189}{13232}A Bob, le chef de service.
+{13236}{13267}Il va divorcer.
+{13268}{13309}C'est sa femme qui|le recevra au partage.
+{13314}{13352}Il le prête à ses amis
+{13356}{13409}en attendant de|lui remettre les clés.
+{13413}{13502}Je n'ai jamais|voyagé sans Darryl.
+{13509}{13568}Comment ça se fait|qu'il t'ait laissé partir?
+{13574}{13627}Parce que je lui ai pas demandé.
+{13629}{13672}Merde Thelma.
+{13675}{13745}Il va te tuer!
+{13748}{13805}Il me l'aurait interdit.
+{13811}{13887}Je ne peux jamais rien faire.
+{13893}{13950}Je dois rester|clouée à la maison
+{13955}{14010}pendant qu'il fait|Dieu sait quoi!
+{14015}{14082}C'est toi qui l'a cherché.
+{14088}{14143}Je lui ai laissé un mot.
+{14178}{14229}Il a plein de choses à|mettre au micro-ondes.
+{14815}{14846}Thelma.
+{15373}{15426}Thelma, qu'est-ce que|tu fabriques?
+{15430}{15471}Je fume.
+{15515}{15584}Je m'appelle Louise.
+{15710}{15777}On s'arrête un moment?
+{15781}{15848}On va déjà arriver|à la tombée de la nuit.
+{15851}{15928}Alors quelle différence|ça peut faire?
+{15933}{15998}Allez, j'ai pas souvent|l'occasion de m'éclater.
+{16001}{16054}Bon, mais rapidos!
+{16058}{16082}OK!
+{16966}{17019}J'ai pas vu un endroit pareil
+{17022}{17065}depuis que j'ai quitté le Texas.
+{17070}{17118}C'est sympa, non?
+{17393}{17475}- Vous prenez quelque chose?|- Non merci.
+{17481}{17560}Je prendrai un 'Wild Turkey'|nature et un coca.
+{17566}{17587}Thelma.
+{17591}{17658}Je suis en vacances, non?
+{17663}{17726}T'es pire que Darryl.
+{17731}{17827}Désolée. J'ai pas l'habitude|de te voir comme ça.
+{17832}{17880}T'es plutôt du genre placide.
+{17885}{17961}J'en ai plein|le cul d'être placide!
+{17968}{18059}T'avais dit qu'on|se laisserait aller.
+{18064}{18139}Eh bien ma chérie,|je me laisse aller.
+{18144}{18185}D'accord.
+{18189}{18228}J'ai changé d'avis.
+{18232}{18333}Je prendrai une margarita|et un petit Cuervo.
+{18338}{18398}Très bien. Remettez-moi ça.
+{18520}{18590}Que font deux jolies poupées|comme vous dans un bled pareil?
+{18595}{18681}- On essaie de s'amuser.|- On se mêle de nos affaires.
+{18688}{18740}Louise est en colère|après son copain parce que...
+{18776}{18843}On voulait juste|manger un morceau.
+{18847}{18902}Vous êtes au bon endroit.
+{18907}{18950}Le chili est très bon.
+{18954}{19024}Harlan, tu embêtes ces|deux pauvres jeunes femmes?
+{19028}{19078}Je veux juste|faire connaissance.
+{19083}{19136}Heureusement qu'ils ne|sont pas tous comme toi.
+{19141}{19227}Tu t'appelles Harlan?
+{19234}{19325}- Comme mon oncle.|- J'espère qu'il est drôle?
+{19331}{19415}On aurait alors un point|en commun lui et moi.
+{19507}{19553}Je ne veux pas|paraître mal élevée.
+{19557}{19627}Mais je dois parler|à ma copine en privé.
+{19632}{19709}Je comprends.|Je vais pas vous déranger.
+{19714}{19784}Mais c'est dur d'ignorer|de si jolies dames.
+{19859}{19928}Danse avec moi avant de partir,
+{19933}{19979}ou je ne te pardonnerai jamais.
+{19982}{20028}Bien sûr. Avec plaisir.
+{20086}{20136}Louise, t'étais pas cool.
+{20140}{20188}Il te draguait ferme.
+{20193}{20250}Et alors?
+{20255}{20336}Ton métier de serveuse|t'a rendue blasée.
+{20374}{20388}Eh bien, relaxe-toi.|Tu me rends nerveuse.
+{20389}{20444}Eh bien, relaxe-toi.|Tu me rends nerveuse.
+{20449}{20473}D'accord!
+{20866}{20936}I woke up in a hotel,|I didn't know what to do
+{20940}{20964}I turned the TV on...
+{20967}{21037}Pas mal le groupe!
+{21045}{21102}They was talkin'|about a dragnet
+{21107}{21181}Said they were|lookin'for a Cadillac...
+{21187}{21288}- Je me demande où est Darryl.|- Et moi si Jimmy est rentré.
+{21295}{21342}Envoie-le promener.
+{21344}{21395}Pourquoi tu plaques pas|ton con de mari?
+{21454}{21507}C'est Harlan qui paie.
+{21541}{21582}Merci.
+{21588}{21684}Jimmy va rentrer de tournée.|Tu ne seras pas là.
+{21688}{21796}Il t'appellera 100000 fois.|Tu l'appelleras dimanche soir.
+{21804}{21883}Dès lundi il sera à tes pieds.
+{21888}{21924}Exactement.
+{21927}{22015}En attendant, tu as dit|qu'on allait s'amuser.
+{22022}{22062}- D'accord.|- OK!
+{22490}{22524}Dansons.
+{22525}{22558}D'accord.
+{22701}{22777}I woke up in a hotel,|l didn't know what to do
+{22780}{22860}I turned the TV on|and wrote a letter to you
+{22865}{22896}They was talking|about a dragnet
+{22900}{22926}Up on the interstate
+{22981}{23024}Said they were|lookin'for a Cadillac
+{23028}{23062}With Tennessee plates
+{23135}{23205}M'zelle, v'lez danser?
+{23210}{23280}Since I left California, baby,|things have gotten worse
+{23286}{23368}Seems the land of opportunity,|forme is just a curse
+{23373}{23428}Tell that judge in Bakersfield|my trial will have to wait
+{23490}{23531}Down there they're|lookin'for a Cadillac
+{23533}{23566}With Tennessee plates
+{23570}{23653}She saw him singin' once|when she was 17
+{23657}{23720}And ever since that day|she's been livin'in-between...
+{23725}{23785}Tu bouges joliment bien, chérie.
+{23792}{23830}Anyway, he wouldn't care
+{23835}{23878}Hell, he gave them|to his friends
+{23926}{23958}Bon!
+{23961}{24009}C'est parti!
+{24213}{24283}Hey, now, baby,|you're looking so fine
+{24288}{24358}Cruising around|in your Mercury '49
+{24363}{24468}Isn't that enough, baby|lsn't that enough, baby
+{24475}{24537}Don't drive|where you're looking
+{24542}{24630}Coolin'on down the line
+{25681}{25739}Je vais pisser
+{25743}{25796}et puis on se casse.
+{25801}{25854}Je suis prête.
+{25878}{25959}Attends.|Louise, je viens avec toi.
+{26045}{26156}- Je ne me sens pas bien.|- Qu'est-ce qu'il y a? Allez.
+{26179}{26217}Arrête.
+{26267}{26307}J'ai la tête qui tourne.
+{26319}{26436}Hop là! T'as besoin d'air frais.
+{27041}{27099}Vous n'avez pas vu mon amie?
+{27103}{27194}Votre amie? Ouais, elle danse.
+{27276}{27345}Comment tu te sens maintenant?
+{27351}{27449}Merci. Je commence|à me sentir mieux.
+{27455}{27530}Je commence à me|sentir bien moi aussi.
+{27536}{27598}Je dois continuer à marcher.
+{27602}{27688}Attends. Où tu vas comme ça?
+{27694}{27766}- Je retourne au bar.|- Oh, non.
+{27772}{27808}- Harlan!|- Quoi?
+{27811}{27854}Ça suffit!
+{27859}{27887}Arrête.
+{27891}{27972}Thelma, je ne te|ferai pas mal, OK?
+{27979}{28027}Je veux juste t'embrasser.
+{28031}{28065}Non, non...
+{28066}{28114}Allez.
+{28167}{28217}T'es bandante, putain!
+{28223}{28273}Lâche-moi.
+{28278}{28342}- Je suis mariée.|- Moi aussi.
+{28348}{28410}Je ne me sens pas bien.|Je viens de vomir.
+{28443}{28522}Je vais pas te faire|de mal, t'as compris?
+{28525}{28597}Harlan, arrête!|S'il te plaît, arrête!
+{28600}{28696}Louise doit se demander|où je suis passée.
+{28701}{28747}Qu'elle aille se faire foutre!
+{28811}{28880}Me frappe pas,|espèce de salope!
+{28933}{28976}Tu piges?
+{28981}{29043}- Non, ne me fais pas mal!|- La ferme!
+{29047}{29088}Ferme ta grande gueule!
+{29093}{29167}Je t'en prie,|ne me fais pas mal, Harlan!
+{29172}{29211}Sale pute!
+{29247}{29286}Lâche-la!
+{29311}{29350}Tire-toi d'ici.
+{29432}{29506}Lâche-la, putain d'ordure...
+{29511}{29590}ou je te fais|sauter la cervelle.
+{29696}{29741}Fumier.
+{29845}{29940}Hé, calme-toi.|On s'amusait.
+{29944}{30038}T'as une drôle|façon de t'amuser.
+{30072}{30132}Allez.
+{30218}{30261}Retourne-toi.
+{30356}{30411}A l'avenir...
+{30413}{30485}si tu entends|une femme pleurer comme ça,
+{30492}{30561}c'est qu'elle ne s'amuse pas!
+{30649}{30697}OK.
+{30700}{30729}Salope!
+{30731}{30781}J'aurai dû me la faire!
+{30839}{30882}Qu'est-ce que tu as dit?
+{30887}{30940}J'ai dit 'Suce ma queue'
+{31077}{31137}Oh mon Dieu!
+{31141}{31247}- Va chercher la voiture.|- Mon Dieu Louise, tu l'as tué.
+{31251}{31301}Va chercher la voiture.
+{31538}{31576}Surveille ton langage mon coco.
+{31712}{31775}Louise, allez viens.
+{32136}{32193}Espèce d'enfoirée!
+{32507}{32548}Louise?
+{32683}{32751}Louise, où est-ce qu'on va?
+{32756}{32801}Je sais pas.
+{32802}{32860}La ferme pendant|que je réfléchis!
+{32865}{32940}On appelle les flics?
+{32945}{33003}On devrait prévenir la police.
+{33008}{33061}Qu'est-ce qu'on va lui dire?
+{33065}{33180}- Ce qui vient d'arriver.|- Quel moment de la soirée?
+{33188}{33260}Tout. Qu'il me violait.
+{33265}{33344}Une centaine de personnes|t'ont vu danser avec lui.
+{33350}{33455}Qui va te croire? C'est pas|le monde dans lequel on vit.
+{33461}{33509}Putain! Gare-toi!
+{34424}{34472}Bon alors!
+{34810}{34908}Thelma, je vais...
+{34912}{34962}je vais m'arrêter|prendre un café...
+{34967}{35015}pour une seconde seulement,
+{35019}{35127}je vais me ressaisir et...
+{35134}{35187}penser à ce qu'on va faire,
+{35191}{35278}et tout va finir par s'arranger.
+{35820}{35894}C'est pas le moment de paniquer.
+{35951}{36001}Personne n'a rien vu.
+{36005}{36099}Personne sait que c'est nous.|Pour le moment c'est bon.
+{36103}{36211}Il faut que je pense|à ce qu'on va faire.
+{36218}{36316}J'ai besoin d'y réfléchir.
+{36361}{36416}Je vais dire une seule chose...
+{36419}{36470}Tu parles de vacances!
+{36475}{36537}Je m'amuse comme une folle.
+{36542}{36575}Quel pied!
+{36579}{36684}Si t'avais pas eu si envie de|t'amuser, on n'en serait pas là.
+{36692}{36752}Ce qui veut dire?
+{36756}{36814}La ferme, Thelma.
+{36819}{36884}Alors c'est ma faute, hein?
+{37429}{37487}Je vais aux toilettes.
+{37571}{37617}Excusez-moi.
+{38112}{38172}Merci. J'essaierai plus tard.
+{38197}{38314}Reculez tout le monde.|Ne dépassez pas la ligne SVP.
+{38486}{38575}Tu pourrais les identifier|si tu les revoyais?
+{38580}{38626}Je pourrais les identifier,
+{38630}{38709}mais elles ne sont pas du genre|à faire une chose pareille.
+{38715}{38806}Tu n'es pas un expert.|Pourquoi tu en es si sûre?
+{38812}{38896}A force de bosser dans|les bars, on devient expert
+{38902}{38945}en comportements humains.
+{38950}{39031}Je savais que Harlan allait|y passer un jour ou l'autre.
+{39037}{39106}Je suis surprise que ça ne|lui soit pas arrivé plus tôt.
+{39108}{39209}- Qui est coupable selon toi?|- J'espère que c'est sa femme.
+{39214}{39288}T'as une idée, oui ou non?
+{39294}{39402}Peut-être que c'est une nana ou|le mari d'une de ses conquêtes.
+{39409}{39455}Mais pas une des deux.
+{39459}{39529}La plus petite,|celle avec le chignon,
+{39532}{39587}m'a laissé un bon pourboire.
+{39591}{39654}- Eh bien...|- Quoi?
+{39659}{39743}T'as vu la marque de la voiture?
+{39747}{39833}C'est une discothèque|Hal, pas un 'drive-in'.
+{39839}{39923}Je ne suis pas|les clients au parking.
+{39929}{39977}Lena, rentre à la maison.
+{39981}{40032}Tu me gardes toute la nuit
+{40035}{40117}pour me poser sans arrêt|les mêmes questions?
+{40123}{40217}Tu m'offres un petit verre?
+{40223}{40271}Un peu de tenue.
+{40323}{40419}Elles n'ont pas|l'air de meurtrières, Hal.
+{40601}{40657}Ici Jimmy.
+{40861}{40938}Thelma, t'es là?
+{41205}{41265}Thelma, allez.
+{41325}{41339}Le Dow Jones a baissé|de 12 points aujourd'hui...
+{41340}{41434}Le Dow Jones a baissé|de 12 points aujourd'hui...
+{41450}{41507}On va avoir besoin d'argent.
+{41512}{41564}T'as combien sur toi?
+{41565}{41685}- Quoi?|- On s'arrête bientôt.
+{41693}{41796}On va louer une chambre dans un motel|, se reposer et réfléchir.
+{41803}{41877}OK. Attends. Je vérifie.
+{41971}{42014}61 dollars.
+{42050}{42089}Merde.
+{42120}{42165}41 dollars.
+{42215}{42277}Il va nous falloir plus.
+{42283}{42338}Pourquoi tu défais tes valises?
+{42342}{42433}T'avais dit que c'était juste|pour faire un petit somme.
+{42440}{42500}Je dois réfléchir.
+{42557}{42693}Quand tu auras réfléchi,|réveille-moi.
+{42749}{42807}Qu'est-ce que tu as, bon sang?
+{42812}{42860}Quoi?
+{42864}{42960}- Ton attitude.|- Quelle attitude?
+{42964}{43067}Comment je dois me comporter?|Tu viens de tuer quelqu'un.
+{43074}{43187}Tu pourrais m'aider à trouver|une solution. Tu pourrais...
+{43194}{43275}J'ai suggéré qu'on aille|se rendre à la police.
+{43280}{43348}T'as pas aimé ma première idée.|J'en n'ai plus.
+{43353}{43437}Pourquoi se presser Thelma?|Les flics nous trouveront bien.
+{43767}{43825}Je suis désolée.
+{43829}{43891}Je ne suis pas prête|à aller en taule.
+{43989}{44035}Pourquoi ne...
+{44039}{44121}Pourquoi tu ne vas pas|te baigner dans la piscine?
+{44159}{44217}Je trouverai bien une solution.
+{44264}{44312}Jimmy, c'est Louise.
+{44317}{44411}- J'ai essayé de t'appeler.|- Louise, princesse.
+{44417}{44520}Où t'es passée bon sang?|Tu vas bien?
+{44527}{44611}Ouais. Ça va. Et toi? Ça fait|un bail qu'on s'est pas vus.
+{44616}{44650}T'as une drôle de voix.
+{44654}{44697}Je suis drôle, très drôle.
+{44702}{44766}T'es en ville? On dirait|que t'appelles de loin.
+{44772}{44858}Non. Je ne suis pas en ville.
+{44864}{44962}Je suis dans la merde, Jimmy.|Dans la merde, en Arkansas.
+{44969}{45089}Louise, j'aimerais bien savoir|ce qui t'arrive, bon sang.
+{45097}{45178}Je rentre et personne|ne sait où tu es passée.
+{45183}{45229}Thelma est avec toi?
+{45233}{45296}Ecoute, Jimmy.
+{45299}{45366}J'ai environ 6700 dollars|sur mon compte en banque.
+{45370}{45480}Je sais que|tu peux pas y toucher.
+{45514}{45600}Peux-tu m'envoyer 6700 dollars|et je te rembourserai.
+{45607}{45664}Louise, qu'est-ce|qui se passe, bordel?
+{45669}{45760}Ecoute...
+{45766}{45821}Une chose terrible|est arrivée.
+{45849}{45907}Je ne peux pas te dire quoi...
+{45954}{46064}seulement que c'est fait|et que je peux rien changer.
+{46119}{46193}Tu peux m'aider, s'il te plaît?
+{46199}{46266}Ouais princesse, bien sûr.
+{46271}{46360}Où? Pourquoi je ne|peux pas te l'apporter?
+{46539}{46587}Jimmy...
+{46657}{46707}Tu m'aimes?
+{46841}{46889}Ouais.
+{46893}{46922}Laisse tomber.
+{46927}{47034}Envoie le mandat|au bureau de Western Union
+{47041}{47101}à Oklahoma City, OK?
+{47104}{47173}- T'es là-bas?|- Pas encore.
+{47179}{47251}Rappelle-moi et|je te donnerai l'adresse.
+{47254}{47345}D'accord.|Je te rappelle dans une heure.
+{47789}{47839}Thelma, en voiture!
+{48333}{48348}Même si elles ne l'ont pas tué,|elles sont sûrement témoins.
+{48349}{48452}Même si elles ne l'ont pas tué,|elles sont sûrement témoins.
+{48458}{48545}- Lance un avis de recherche.|- D'accord.
+{48551}{48637}Elles avaient une raison|de quitter l'Etat?
+{48671}{48714}C'est possible.
+{48719}{48817}Et si on contactait le FBl?
+{49046}{49144}Louise, te fâche pas, OK,|mais où est-ce qu'on va?
+{49150}{49256}A Oklahoma City.|Jimmy va m'envoyer du fric.
+{49261}{49352}T'as parlé avec Jimmy?. Tu lui|as raconté? Il est en colère?
+{49355}{49403}Non. Je lui ai rien dit.
+{49405}{49486}Darryl a appelé Jimmy,|fou furieux.
+{49493}{49615}Quand tu l'appelleras,|surtout ne lui dit rien.
+{49623}{49669}Parle-lui normalement.
+{49673}{49755}J'ai appelé|ce connard à 4 heures du mat.
+{49760}{49804}Il n'était même pas à la maison.
+{49808}{49897}Je vois pas pourquoi|il a les boules.
+{49978}{50052}Thelma, je vais au Mexique.
+{50058}{50180}Si je me magne le cul, je peux|y être en deux jours et demi.
+{50221}{50314}Ça te dit de venir?|C'est pas de la rigolade.
+{50320}{50426}Je suis dans la merde. Je dois|savoir ce que tu vas faire.
+{50463}{50542}J'en sais rien, Louise.
+{50548}{50593}Pourquoi tu me poses|cette question?
+{50599}{50656}Tu commences à flipper!
+{50660}{50716}Chaque fois qu'on a des emmerdes
+{50721}{50829}t'as la tête vide, tu joues la|tarée ou une connerie du genre.
+{50835}{50910}Pas cette fois-ci.|Les choses ont changé.
+{50915}{50963}Tout a changé.
+{51048}{51094}Mais je vais au Mexique.
+{51098}{51144}J'y vais.
+{52085}{52119}Louise?
+{52123}{52181}C'est comme ça que|tu réponds au téléphone?
+{52185}{52235}J'avais peur de t'avoir ratée.
+{52241}{52341}Je l'ai. Je ne pouvais pas|encaisser un chèque le samedi.
+{52347}{52436}- Qui t'a prêté l'argent?|- Un ami, proprio d'une boîte.
+{52440}{52483}Tu lui as dit pourquoi?
+{52485}{52554}Je lui ai dit que|j'allais acheter une bagnole.
+{52561}{52635}Super. Je te rencontre où?
+{52640}{52705}A l'hôtel Vagabond
+{52710}{52799}c'est au 1921 Nord, 23e Est.
+{52806}{52866}Au nom de 'Peaches'
+{52870}{52908}Quoi?
+{52985}{53033}C'est le mot de passe.
+{53035}{53081}Tu me manques, 'Peaches'.
+{53085}{53150}Merci Jimmy.|J'apprécie ce que tu fais.
+{53429}{53554}Madame, ne préférez-vous pas|une taille plus économique?
+{53588}{53636}Non, ça ira.
+{53663}{53730}Qu'est-ce que tu regardes?
+{53735}{53812}Appelle Darryl.
+{53815}{53851}L'appeler?
+{53856}{53913}Dis-lui que tu rentres demain.
+{53918}{53953}C'est vrai?
+{53958}{54035}J'en sais rien.|Moi, sûrement pas.
+{54088}{54143}Ah, je veux un journal.
+{54484}{54537}Darryl à l'appareil.
+{54539}{54606}Thelma vous appelle en PCV.|Acceptez-vous la communication?
+{54612}{54662}Oh oui, bien sûr opérateur.
+{54665}{54754}Thelma, où t'es bon sang?
+{54759}{54831}Avec Louise.
+{54834}{54906}On est dans les montagnes.|On pêche.
+{54910}{54963}T'es devenue barjo?
+{54967}{55049}Je pars au boulot|et tu perds la tête!
+{55054}{55114}Darryl,|calme-toi, s'il te plaît.
+{55120}{55192}Ne te fâche pas.|Je peux tout expliquer, OK.
+{55197}{55231}Louise...
+{55234}{55277}Attends.
+{55282}{55375}Allez, ramasse-la.
+{55381}{55427}Merde.
+{55431}{55465}Mon Dieu!
+{55499}{55542}Seigneur!
+{55547}{55616}On va continuer à pêcher.
+{55623}{55692}On va rester encore un jour.
+{55698}{55758}Pas question,|tu rentres aujourd'hui.
+{55762}{55831}Reviens ici illico Thelma.
+{55834}{55870}Nom d'un chien!
+{55997}{56081}Darryl, t'es mon mari|pas mon père.
+{56088}{56133}C'est le bouquet!
+{56135}{56202}Louise a une mauvaise|influence sur toi.
+{56208}{56280}Si t'es pas rentrée ce soir...
+{56389}{56463}eh ben je te garantis rien.
+{56593}{56651}Va te faire foutre!
+{56732}{56771}Ah, c'est charmant!
+{56907}{56955}- Merde.|- Je suis désolée.
+{56957}{57036}- C'est ma faute?|- Non, je suis désolée.
+{57042}{57136}Ça va? Je peux faire|quelque chose pour vous?
+{57142}{57186}Non. Ça va.
+{57291}{57344}Tarées ces nanas!
+{58373}{58419}Excusez-moi madame.
+{58423}{58481}Je peux savoir où vous allez?
+{58486}{58539}Je dois retourner à mon collège.
+{58541}{58591}Y'a pas de voiture pour|m'y emmener. Je suis coincé.
+{58596}{58663}Au cas où vous iriez|dans ma direction,
+{58668}{58719}ou que j'irais dans la vôtre...
+{58724}{58772}On va à Oklahoma City.
+{58776}{58824}- Parfait.|- Je suis pas sûre.
+{58826}{58881}Je vous serais reconnaissant.
+{58887}{58976}Eh bien, ça dépend pas de moi.
+{58982}{59028}C'est pas ma voiture.
+{59032}{59130}Il va falloir demander à mon|amie et elle refusera sûrement.
+{59137}{59185}Elle est un peu tendue.
+{59186}{59277}Laissez tomber.|Merci quand même.
+{59283}{59362}Je peux toujours demander.|On n'a rien à perdre.
+{59369}{59421}Non, c'est vrai.
+{59501}{59609}Louise, ce jeune homme|doit regagner son collège.
+{59616}{59676}Puisqu'on va dans|la même direction,
+{59680}{59747}on pourrait pas l'emmener?
+{59812}{59872}C'est pas une bonne idée.
+{59896}{59978}Sans doute non.|Je vous remercie.
+{59984}{60040}Faites bon voyage.
+{60193}{60258}T'as vu comme il était poli?
+{60301}{60327}Quoi?
+{60360}{60435}Souriez. Salut.
+{60651}{60694}Le plein.
+{60698}{60780}J'aurais bien aimé|qu'il vienne avec nous.
+{60786}{60853}Qu'est-ce que Darryl|a dit de beau?
+{60859}{60978}'Je voulais être|sûr que tu allais bien.
+{60987}{61066}'J'espère que tu t'amuses.|Tu le mérites beaucoup.
+{61071}{61119}'Je t'aime, ma chérie.'
+{61258}{61342}On est encore loin du Mexique?
+{61817}{61937}Je ne voyais aucun mal à ce|qu'on le prenne en voiture.
+{61944}{61994}T'as vu son cul!
+{61999}{62052}Darryl n'a pas un beau cul.
+{62056}{62149}On garerait bien une voiture|à l'ombre de son cul.
+{62155}{62244}Je suis désolée. Je n'ai pas|envie d'être sociable.
+{62311}{62380}Tiens. Repère toutes|les routes secondaires
+{62385}{62433}entre Oklahoma City|et le Mexique.
+{62438}{62498}On doit éviter l'autoroute.
+{62583}{62679}On pourrait prendre la 81, et|aller en direction de Dallas.
+{62685}{62757}Non. Je ne veux pas|traverser le Texas.
+{62872}{62965}Un instant. Tu veux aller|de Oklahoma au Mexique,
+{62971}{63017}sans passer par le Texas?
+{63021}{63115}Thelma, tu sais|ce que je pense du Texas.
+{63120}{63195}Louise, on doit|sauver notre peau.
+{63200}{63246}Tu peux pas faire une exception?
+{63250}{63375}La seule chose entre Oklahoma|et le Mexique, c'est le Texas!
+{63383}{63453}Thelma, pas la|peine d'en discuter!
+{63458}{63504}Dégote une autre route|ou je m'en occupe!
+{63508}{63577}- Tu piges?|- Non Louise, je ne piges pas.
+{63583}{63686}Pourquoi tu m'as jamais|raconté ce qui t'est arrivé?
+{63776}{63871}Ecoute. Si tu descends|un mec qui veut te violer,
+{63879}{63987}mieux vaut ne pas|se faire pincer au Texas.
+{63993}{64027}Fais-moi confiance!
+{64963}{65018}Joyeux anniversaire.
+{66049}{66095}La patronne est là?
+{66099}{66174}Marian, y'a|un inspecteur de la police.
+{67575}{67673}Un meurtre a été commis|l'autre soir au Silver Bullet.
+{67677}{67715}Un homme a été abattu.
+{67720}{67864}Des témoins ont vu|une T-bird 66 décapotable
+{67872}{67970}quitter les lieux, déboulant|de l'allée à toute vitesse.
+{67978}{68059}Ce véhicule appartient|à Louise Sawyer,
+{68065}{68125}et nous avons|des raisons de croire
+{68129}{68225}que votre femme est|l'autre passagère.
+{68257}{68293}Quoi?
+{68462}{68539}Vous marchez sur votre pizza.
+{68544}{68599}Merde!
+{68619}{68691}Melle Thelma, comment ça se fait|que vous n'ayez pas d'enfants?
+{68696}{68773}Vous avez reçu ce don de Dieu,|vous devriez le transmettre.
+{68779}{68918}Darryl, mon mari, dit|qu'il n'est pas encore prêt.
+{68927}{68992}Qu'il est trop gosse lui-même.
+{68997}{69047}Il est fier d'être puéril.
+{69052}{69085}Il a de quoi l'être.
+{69090}{69183}- Il s'entend pas avec Louise.|- C'est peu dire!
+{69190}{69226}C'est un porc.
+{69229}{69306}Vous vous êtes mariée|jeune Melle Thelma?
+{69312}{69396}Je suppose que|18 ans c'est jeune.
+{69449}{69538}On est sortis ensemble pendant|des années avant de se marier.
+{69544}{69592}- Combien de temps?|- Quatre ans.
+{69596}{69649}Je n'ai connu que lui.
+{69655}{69705}Oh, je suis désolé.
+{69709}{69784}Pour être franc avec vous,
+{69787}{69844}il m'a l'air d'un imbécile.
+{69869}{69938}Ne vous minez pas.|C'est un trouduc.
+{69943}{69995}La plupart du temps,|je laisse passer.
+{70052}{70129}Vous feriez mieux de ralentir.|Y'a un flic devant nous.
+{71020}{71102}Vous avez oublié|de payer vos PV?
+{71109}{71214}On t'emmène jusqu'à Oklahoma|City et puis tu te débrouilles.
+{71406}{71488}Les empreintes sur le coffre|sont celles de Thelma Dickinson.
+{71492}{71547}Eh ben ça alors!|C'est bizarre, non?
+{71551}{71621}Et son mari dit|qu'un flingue a disparu.
+{71626}{71672}Elle a pris pas|mal d'affaires.
+{71676}{71765}On dirait qu'elle ne|pensait pas revenir de sitôt.
+{71771}{71870}Son mari dit qu'elle|n'a jamais touché au flingue.
+{71876}{71965}Il le lui a acheté parce qu'il|rentre souvent tard le soir,
+{71970}{72056}mais il dit qu'elle|ne l'a jamais touché,
+{72064}{72126}elle le garde dans un tiroir.
+{72132}{72187}- Quel calibre?|- Un 38.
+{72191}{72227}Bon. Où elles sont?
+{72231}{72282}Elles allaient|à un chalet.
+{72397}{72481}Je vais...|Ecoutez-moi vous deux.
+{72484}{72570}J'en ai pour une minute.|Faites vos adieux.
+{72751}{72852}Bonjour. Je viens chercher un|mandat au nom de Louise Sawyer.
+{72911}{72954}Je n'ai rien à ce nom-la.
+{72973}{73056}Et au nom de 'Peaches'? Vérifiez|le mot de passe 'Peaches'.
+{73063}{73130}Quelqu'un a dit ''Peaches'?
+{73136}{73177}Mon Dieu! Jimmy.
+{73182}{73229}C'est un mot secret.
+{73234}{73291}Montrez à la dame|ce qu'elle a gagné.
+{73327}{73375}Qu'est-ce que tu fais ici?
+{73379}{73441}Je suis ici pour te voir, biche.
+{73479}{73594}Je pourrais louer une autre|chambre, SVP. Débitez ma carte.
+{73801}{73861}Thelma, enlève ton pied de là.
+{73865}{73969}- Regarde qui est là.|- Merde! Jimmy! Salut.
+{73975}{74018}Qu'est-ce que tu fais ici?
+{74023}{74106}Ne me pose pas de questions,|je ne dirai pas de mensonges.
+{74113}{74166}C'est la même chose pour moi.
+{74171}{74219}Il sort d'où le cow-boy?
+{74223}{74293}JD. Il...
+{74298}{74313}Il nous quitte.
+{74316}{74386}On l'a pris en stop jusqu'ici.
+{74391}{74468}Louise a dit qu'il|devait nous quitter.
+{74473}{74514}Ouais. Je vous quitte.
+{74518}{74557}Il nous a quittés.
+{74568}{74650}- Bon voyage.|- Merci. Ravi de vous connaître.
+{74716}{74761}Ouais. Le voilà qui nous quitte.
+{74766}{74821}J'adore sa démarche.
+{74826}{74881}Thelma a craqué pour lui.
+{74882}{74985}Je t'ai loué une chambre.|Va prendre une bonne douche froide.
+{74993}{75046}Tu me connais.|J'ai le feu aux fesses.
+{75343}{75394}Voici notre avenir.
+{75598}{75646}Qu'est-ce que tu vas lui dire?
+{75681}{75770}Rien. Je ne vais|rien lui dire du tout.
+{75775}{75883}Je ne veux pas|l'impliquer davantage.
+{75887}{75945}T'es vraiment|gentille envers lui.
+{75950}{76024}Tu ne veux même pas|l'embourber dans cette histoire!
+{76030}{76075}Je ne l'ai pas invité ici.
+{76080}{76149}Comme tous les mecs,|il aime la poursuite.
+{76152}{76253}Tu lui donnes du fil|à retordre maintenant, non?
+{76260}{76299}Boucle-la!
+{76366}{76496}Bon...je veux juste que...|tu surveilles l'argent.
+{76503}{76544}OK.
+{76548}{76644}S'il y a un problème,|appelle-moi chambre 211 .
+{76720}{76766}Je ne t'attends pas|pour me coucher.
+{77208}{77256}- Un verre?|- Non.
+{77260}{77335}Pourquoi tu ne me dis|pas ce qui se passe?
+{77393}{77441}Je ne peux rien te dire.
+{77443}{77537}Un de ces jours|tu comprendras pourquoi.
+{77628}{77676}Je peux te demander une chose?
+{77680}{77711}Peut-être.
+{77713}{77766}T'aimes quelqu'un d'autre?
+{77768}{77854}Y'a un autre mec dans ta vie?
+{77860}{77908}Non, rien de tout ça.
+{77989}{78088}C'est quoi alors?|Tu te casses à tout jamais?
+{78127}{78190}T'as flingué quelqu'un, putain?
+{78192}{78259}Si tu commences tes conneries,|je fous le camp.
+{78343}{78386}Pardonne-moi.
+{78503}{78594}Viens t'asseoir.|J'ai un cadeau pour toi.
+{78600}{78696}Je suis bien où je suis.|Donne-le-moi d'où tu es.
+{78822}{78853}Tiens.
+{79107}{79167}Pourquoi tu l'essaies pas?
+{79242}{79314}Tu t'attendais pas à ça, hein?
+{79320}{79368}Pourquoi, Jimmy?
+{79440}{79481}Pourquoi maintenant?
+{79513}{79570}Ne t'emballe pas|si vite, Louise.
+{79576}{79633}J'ai survolé deux Etats
+{79637}{79700}avec cette bague|dans la main, putain,
+{79705}{79777}et tu sais que|je déteste prendre l'avion.
+{79831}{79884}T'as fait tout ce chemin
+{79886}{79963}parce que tu pensais que|j'étais avec un autre.
+{79999}{80059}Non. Je ne suis pas ici pour ça.
+{80137}{80230}En vérité, je ne|veux pas te perdre.
+{80237}{80292}J'ai le sentiment|que tu vas te barrer.
+{80297}{80369}Ce n'est pas une raison|valable pour qu'on se marie.
+{80408}{80468}Je croyais que|c'est ce que tu voulais.
+{80502}{80598}Oui...mais pas|dans ces circonstances.
+{80904}{80947}Non, Thelma. C'est moi.
+{80952}{80992}Coucou!
+{81042}{81121}J'étais dans les parages,|en train de penser...
+{81126}{81232}Je suis censé être parti|mais, tu sais...
+{81308}{81395}c'est une vraie galère.|Personne s'arrête.
+{81402}{81469}Je pensais à toi.
+{81577}{81623}C'est dingue.
+{81627}{81704}Je vais te foutre la paix.
+{81708}{81818}Attends. Tu vas où?
+{81904}{81993}J'sais pas. Nulle part.
+{81999}{82093}Tu crois que ça me plaît de|faire le guignol au Ramada Inn?
+{82099}{82145}Je rêve moi aussi.
+{82149}{82195}On n'a que ce qu'on mérite.
+{82199}{82259}Peut-être que tu ne m'aimes plus.
+{82263}{82323}Non. Je t'aime vraiment.
+{82409}{82563}Mais il est temps de...|d'oublier les erreurs du passé.
+{82617}{82740}Disons que...|ce n'est pas le bon moment.
+{82776}{82843}On doit se séparer.
+{83006}{83059}Allez. Tu es trop...
+{83064}{83157}- Très bien. C'est ton tour.|- A toi.
+{83163}{83202}Allez.
+{83206}{83285}Ne les mets...|Laisse-les là.
+{83377}{83440}C'est pas juste.
+{83453}{83525}T'as bien trop de métal.
+{83530}{83590}Je t'allège un petit peu?
+{83687}{83771}Je pense que c'est mieux.|Qu'en penses-tu? Ouais.
+{83857}{83903}Prends-moi, brise-moi,|rends-moi fou!
+{83905}{83977}- Attention à ta tête.|- Ça va.
+{83980}{84030}Au fait, t'es qui?
+{84068}{84142}Le puissant magicien d'Oz.|Qui tu aimerais être?
+{84145}{84207}T'es pas un simple|petit collégien.
+{84210}{84261}On me dit jamais rien!|Allez, raconte.
+{84265}{84311}Je ne suis qu'un type ordinaire,
+{84316}{84414}un mec dont le contrôleur|judiciaire doit piquer une crise
+{84420}{84475}Quel contrôleur judiciaire?
+{84481}{84529}T'es un criminel?
+{84533}{84588}Plus maintenant Thelma.
+{84590}{84691}Depuis que je suis en fuite,|je me tiens à carreau.
+{84695}{84781}- Tu fais quoi?|- Je suis un voleur.
+{84806}{84900}- Tu braques les banques?|- Non. Pas les banques.
+{84930}{84980}Quoi alors?
+{85014}{85120}Ben voyons.|Faisons les comptes.
+{85147}{85207}J'ai braqué|une station-service,
+{85210}{85297}quelques épiceries et des|magasins de vins et spiritueux.
+{85300}{85352}Oh mon Dieu.
+{85390}{85426}Comment?
+{85475}{85508}Allez.
+{85514}{85583}OK. Je choisis|d'abord l'endroit.
+{85588}{85684}Puis je le surveille|un bout de temps,
+{85691}{85763}j'attends le bon moment|pour passer à l'acte.
+{85767}{85819}C'est purement instinctif.|Ça s'apprend pas.
+{85821}{85913}Et...merde, j'ai pas envie|de parler de ces choses-là.
+{85919}{85960}Moi oui.
+{86009}{86043}Bon.
+{86046}{86123}Puis j'entre tranquillement.
+{86141}{86232}J'entre tranquillement|en disant,
+{86236}{86323}'Celui qui ne bouge pas|décrochera le gros lot.
+{86327}{86372}'Allongez-vous par terre.
+{86377}{86456}'Ne perdez pas la tête|et tout ira bien.
+{86461}{86533}'Vous, monsieur,|à vous l'honneur.
+{86536}{86637}'Mettez le fric ici. Vous aurez|une super histoire à raconter.
+{86644}{86733}'Sinon, c'est la morgue.|A vous de choisir'.
+{86738}{86793}Aussi simple que ça.
+{86799}{86852}Et puis je file en douce,
+{86924}{86969}et je me casse de Dodge!
+{87009}{87108}Mon Dieu.|T'es un vrai gentleman.
+{87112}{87176}J'ai toujours pensé que|si le travail est bien fait
+{87182}{87268}le vol à main armée n'est pas|une expérience déplaisante.
+{87324}{87384}- Quoi?|- T'es un vrai hors-la-loi.
+{87389}{87439}Je suis peut-être un hors-la-loi
+{87443}{87511}mais c'est toi qui|a volé mon cœur.
+{87516}{87597}- C'est mielleux.|- Oh, n'est-ce pas?
+{87604}{87676}- T'as beaucoup de charme.|- Non? C'est vrai?
+{87681}{87727}J'aime ça.
+{87862}{87864}Tu te souviens quand|on s'est rencontrés?
+{87864}{87924}Tu te souviens quand|on s'est rencontrés?
+{87967}{88000}Ouais.
+{88045}{88090}Dis-moi ce que tu m'as dit.
+{88095}{88164}Que t'avais de beaux yeux.
+{88208}{88280}Qu'est-ce que j'ai dit?|Tu t'en souviens?
+{88329}{88386}Oui. Tu les as fermés,
+{88387}{88469}tu m'as demandé de|quelle couleur ils étaient.
+{88476}{88531}Et qu'est-ce que t'as répondu?
+{88563}{88614}Je ne savais pas.
+{88711}{88783}Jimmy, de quelle couleur|sont mes yeux?
+{88869}{88914}Ils sont marron.
+{92085}{92178}Vous voulez encore du café?
+{92392}{92469}J'ignore ce qui se passe,
+{92474}{92550}ou ce qui s'est passé|ou ce que tu as fait,
+{92556}{92644}mais je dirai rien à personne,
+{92651}{92704}même pas que je t'ai vue.
+{92808}{92913}T'as pris une pilule qui|te fait dire ce qu'il faut?
+{92975}{93047}Ouais. Elle est dure à avaler.
+{93121}{93200}T'es sûre que tu ne veux pas|que je t'accompagne?
+{93240}{93319}A présent ce n'est pas|une bonne idée,
+{93322}{93408}mais je te ferai signe...
+{93423}{93459}un peu plus tard.
+{93648}{93735}Eh bien...mon taxi est là.
+{93875}{93939}Garde-la quand même?
+{93942}{94017}- OK?|- Merci.
+{94048}{94120}Je veux que tu sois heureuse.
+{94125}{94219}Je le suis chéri.|Aussi heureuse que possible.
+{94288}{94327}Bon, parfait.
+{94375}{94481}Fait un bisou d'adieu|à ton vieux Jimmy,
+{94488}{94562}et je te laisse.
+{94638}{94691}Approche-toi, vieux Jimmy.
+{95541}{95592}A la prochaine Louise.
+{95711}{95767}Fais bon voyage.
+{96077}{96164}C'est une bonne chose|qu'il soit parti.
+{96169}{96239}Sinon il aurait fallu|appeler les pompiers!
+{96572}{96625}Qu'est-ce que t'as fait|à tes cheveux?
+{96629}{96684}Rien. Ils sont un peu emmêlés.
+{96720}{96765}Thelma, qu'est-ce que t'as?
+{96769}{96869}Rien. Pourquoi?|J'ai l'air différent?
+{96907}{96963}Maintenant que tu le dis, ouais.
+{96968}{97038}On dirait une folle|ou une droguée.
+{97043}{97120}Eh bien je ne suis pas droguée,
+{97125}{97178}mais je suis peut-être folle!
+{97283}{97338}Thelma, qu'est-ce qui s'est passé?
+{97408}{97470}- Ce qui s'est passé?|- JD est revenu.
+{97472}{97511}Mon Dieu, Louise.
+{97515}{97575}- Oh, non.|- C'est pas vrai.
+{97580}{97607}Non!
+{97610}{97658}Oh mon Dieu, c'est comme...
+{97662}{97751}Je comprends enfin pourquoi|on en fait tout un tas.
+{97758}{97832}C'est sans comparaison.
+{97838}{97927}Ma chérie, je suis ravie|pour toi, vraiment.
+{97932}{98012}T'as enfin pris ton pied.|C'est génial.
+{98050}{98120}- Il est où?|- Sous la douche.
+{98152}{98212}Tu l'as laissé seul?
+{98302}{98343}Et le fric?
+{98347}{98422}- Oh mon Dieu.|- Il est sur la table de nuit.
+{98428}{98471}Y'a pas de problème!
+{98513}{98587}Il est sur la table de nuit.|Y'a pas de problème!
+{98728}{98788}Oh putain!
+{98792}{98871}J'ai jamais eu de bol,|pas une seule fois.
+{98916}{99004}Merde! Ce connard m'a dévalisée!
+{99010}{99046}J'arrive pas à y croire.
+{99233}{99276}Ça va?
+{99441}{99492}Je suis vraiment désolée.
+{99636}{99701}Louise, ça va s'arranger.
+{99709}{99814}- C'est OK.|- Non Thelma, ce n'est pas OK.
+{99821}{99881}Ce n'est absolument pas OK.
+{99925}{99980}Ça ne va pas du tout.
+{99983}{100115}Qu'est-ce qu'on va|faire sans fric?
+{100124}{100169}Comment on va payer l'essence?
+{100175}{100232}En usant de nos charmes,|tu crois?
+{100237}{100378}Merde, Thelma,|ça ne va pas du tout.
+{100521}{100593}Bon, écoute-moi.
+{100598}{100649}Te fais pas de bile.
+{100654}{100728}Tu m'entends? Allez!
+{100735}{100783}Lève-toi.
+{100810}{100922}Louise, te fais pas de bile.|Tu m'entends?
+{100929}{100974}Allez.
+{101014}{101062}Allez, bon sang!
+{101066}{101118}Tirons-nous d'ici.
+{101151}{101216}Magne-toi, bon Dieu, allez!
+{101221}{101260}Allez.
+{101287}{101339}Bon, prends ton temps.
+{101920}{101963}Quel temps pourri!
+{102072}{102123}T'as peur de quelques|gouttes de pluie Matt?
+{102215}{102301}Entrez donc.|Essuyez-vous les pieds.
+{102618}{102719}Votre ligne est sur écoute|au cas où elle appellerait.
+{102723}{102831}- Ça va me coûter quelque chose?|- Excusez-moi. Je peux?
+{102838}{102915}Faites. C'est là pour ça.
+{102920}{103014}On va poster quelqu'un|jusqu'à ce qu'on les retrouve.
+{103020}{103106}Soyez naturel.
+{103113}{103180}On doit les retrouver.
+{103183}{103231}Je ne veux pas mettre|mon nez dans vos affaires,
+{103235}{103300}mais avez-vous de bonnes|relations avec votre femme.
+{103305}{103380}J'aime Thelma.
+{103385}{103474}Je n'insinue rien, monsieur.
+{103480}{103555}Je dois vous le demander.|Etes-vous très proches?
+{103561}{103616}Ouais. Je crois.
+{103619}{103717}Aussi proche qu'on puisse|être d'une folle pareille.
+{103813}{103928}Ouais, eh bien|si elle appelle soyez gentil.
+{103937}{104025}Vous savez, faites semblant|d'être content de lui parler.
+{104031}{104124}Comme si elle vous manquait.|Les femmes adorent ces bêtises.
+{104219}{104269}OK. Si vous le dites.
+{104340}{104388}Les femmes adorent ces bêtises.
+{104751}{104821}Oh cool. Je peux les mettre?
+{104975}{105023}Tu veux quelque chose?
+{105045}{105076}Hé!
+{106485}{106573}Démarre Louise!|Démarre la voiture!
+{106695}{106760}Fonce! Fonce! Fonce!
+{106843}{106936}Qu'est-ce que t'as fait?|T'as braqué l'épicerie?
+{106940}{107000}T'as braqué l'épicerie, putain?
+{107005}{107049}Ben on a besoin de fric!
+{107053}{107113}C'est pas comme si|j'avais tué quelqu'un.
+{107117}{107175}On avait besoin de fric.|On en a.
+{107180}{107252}Et merde! Et merde, Thelma!
+{107255}{107358}Louise, allez, ressaisis-toi!|Mène-nous au Mexique.
+{107366}{107416}OK. Et merde!
+{107473}{107557}Comment t'as pu...|Qu'est-ce que t'as dit?
+{107560}{107639}Je suis entrée|tranquillement et j'ai dit...
+{107645}{107688}C'est un hold-up.
+{107694}{107763}Ne perdez pas la tête|et tout ira bien.
+{107769}{107857}Allongez-vous par terre, SVP.
+{107863}{107961}Celui qui ne bouge pas|décrochera le gros lot.
+{107967}{108054}Monsieur, à vous l'honneur!|Mettez le fric dans un sachet.
+{108061}{108133}Vous aurez une super|histoire à raconter.
+{108138}{108215}Sinon c'est la morgue.|A vous de choisir.
+{108222}{108267}Dépêchez-vous.
+{108271}{108314}Madame, voudriez-vous|vous taire?
+{108317}{108362}Monsieur, SVP, restez allongé.
+{108366}{108428}Mettez-vous à l'aise.
+{108462}{108527}Ajoutez quelques bouteilles|de Wild Turkey.
+{108531}{108579}Oui madame.
+{108616}{108667}Maintenant, allongez-vous aussi.
+{108671}{108731}Merci de votre coopération.
+{108737}{108828}Ne bougez pas, et bonne journée.
+{108906}{108932}Doux Jésus!
+{108936}{108967}- Mon Dieu!|- Seigneur!
+{109230}{109300}Hé Louise,|tu ferais mieux de ralentir.
+{109305}{109389}Je n'aimerais pas être pincée|pour excès de vitesse.
+{109395}{109475}Ah! Si, pour une fois,|ma voiture n'était pas verte!
+{109512}{109572}Devons-nous circuler|en pleine journée?
+{109576}{109638}Mais je veux être|le plus loin possible
+{109641}{109709}du lieu de notre dernier crime!
+{109771}{109867}T'en aurais eu le souffle coupé!
+{109871}{109969}C'était comme si|j'avais fait ça toute ma vie.
+{109989}{110082}- T'as trouvé ta vocation?|- Peut-être.
+{110089}{110139}L'appel de l'aventure!
+{110192}{110285}- T'es dingue!|- Je le pense aussi.
+{110635}{110702}Thelma, ne pollue pas.
+{110772}{110868}Merde! C'est toujours|comme ça quand on est pressé.
+{110924}{110992}Tu vas rester bourrée|toute la journée?
+{110995}{111045}J'vais essayer.
+{111190}{111233}Oh, comme c'est sympa!
+{111237}{111292}Les routiers sont|toujours sympas.
+{111418}{111487}Oh, regarde. Original!
+{111804}{111910}- C'est dégueulasse!|- Porc! Espèce de sale porc!
+{111916}{112021}- Pourquoi il a fait ça?|- Il pense que ça nous plaît.
+{112083}{112134}Il pense que ça nous excite.
+{113031}{113101}- James Lennox?|- Ouais. Qui veut savoir?
+{113106}{113159}La police d'Arkansas.
+{115075}{115118}Quoi?
+{115123}{115217}- Appelle Darryl.|- Pourquoi faire?
+{115327}{115387}Pour voir s'il sait|quelque chose.
+{115392}{115452}Si tu crois que oui, raccroche,
+{115458}{115530}parce que le téléphone|est sûrement sur écoute.
+{115533}{115624}Le téléphone sur écoute?|Et puis quoi encore!
+{115627}{115701}Tu rigoles! Assassinat|et vol à main armée?
+{115708}{115775}On peut même pas parler|de légitime défense.
+{115778}{115864}- On s'est enfuies indemnes.|- Mais elle n'en sait rien.
+{115869}{115970}Je dirai qu'il m'a violée|et que tu l'as descendu.
+{115977}{116028}- Ça ne marchera pas.|- Pourquoi?
+{116032}{116080}Y'a pas de preuves physiques.
+{116086}{116201}On peut même plus prouver|qu'il t'a touchée.
+{116207}{116308}Mon Dieu! Ce que la loi|peut être compliquée!
+{116403}{116473}Comment tu sais tout ça?
+{116478}{116538}Comment tu expliquerais|le braquage?
+{116543}{116606}Y'a pas de braquage légitime.
+{116610}{116672}D'accord!|Où est-ce que t'as dégoté ça?
+{116677}{116720}J'l'ai piqué.
+{117176}{117257}- Qui est ce barjo?|- Le mari de Mme Dickinson.
+{117261}{117374}En voilà une bien bonne.|Mon Dieu!
+{117436}{117508}D'où sortent ces 6600 dollars?
+{117564}{117595}C'est le cadeau d'un ami.
+{117597}{117645}Un monsieur nous a dit
+{117649}{117740}qu'il avait remis la même|somme à Louise Sawyer.
+{117747}{117818}- Tu la connais?|- Euh, oui, monsieur.
+{117824}{117901}Je crois que c'est la dame|qui conduisait la voiture.
+{117921}{117998}Il a dit qu'il l'avait livrée|dans un motel à Oklahoma.
+{118001}{118049}Il a dit qu'il|avait vu un homme.
+{118051}{118125}Il t'a identifié à partir|d'une photo judiciaire.
+{118131}{118234}Il a dit aussi que tu semblais|proche de Mme Dickinson.
+{118241}{118289}C'est vrai?
+{118296}{118416}Disons, monsieur, qu'on était|sur la même longueur d'ondes.
+{118454}{118562}Tu sais qu'on les|recherche pour meurtre?
+{118569}{118634}Meurtre? Quoi, Thelma? Merde!
+{118638}{118734}Elles ont mentionné|qu'elles étaient en cavale?
+{118742}{118835}Maintenant que vous le dites,|elles paraissaient nerveuses.
+{118841}{118884}Tu sais?
+{118889}{118937}Quoi?
+{118942}{119016}- Tu me tapes sur les nerfs.|- A moi aussi.
+{119021}{119117}Ça arrive. Vous avez|beaucoup en commun vous deux.
+{119125}{119177}Je devrais sortir de la pièce.
+{119240}{119285}J'ai une meilleure idée.
+{119324}{119389}Je peux lui parler seul?
+{119856}{119920}Qu'est-ce que j'ai fait?|Rien du tout.
+{119926}{120029}Ce n'est qu'un ramassis|de bobards, M.Johnny le flic.
+{120197}{120274}J'ai un pressentiment.
+{120279}{120332}- Ah ouais?|- Je voudrais ton avis.
+{120373}{120455}Tu penses que Thelma aurait|commis un vol à main armée
+{120460}{120510}si tu ne leur avais|pas piqué l'argent?
+{120582}{120635}Lève ton pied de la table.
+{120705}{120765}T'as donné ta langue au chat?
+{120768}{120854}Non. Comment savez-vous que|c'est moi qui l'ai pris?
+{120861}{120901}Comment vous le savez?...
+{120940}{120993}Ne me mens pas putain!
+{120997}{121093}Ces deux femmes|avaient une chance.
+{121098}{121209}Tu as tout gâché.|Elles ont de graves ennuis.
+{121215}{121316}Je te rends responsable|de ce qui peut leur arriver.
+{121323}{121383}Je me fiche carrément de toi.
+{121388}{121458}Tu me dis tout
+{121463}{121530}et je pourrais|peut-être les aider,
+{121536}{121644}sinon tu ignores ce qui|va te tomber dessus.
+{121649}{121713}Ma mission sera de te rendre|malheureux toute ta vie.
+{121719}{121757}Oui monsieur.
+{121806}{121878}- OK?|- Ouais. D'accord.
+{121884}{121942}On se comprend, pas vrai?
+{122027}{122089}- M.Dickinson?|- Ouais?
+{122094}{122170}Attendez une minute.|Je veux vous dire un mot.
+{122178}{122221}Votre femme me plaît beaucoup.
+{122271}{122374}Reviens ici, sale petite ordure!
+{122379}{122453}Viens ici!
+{122505}{122548}Je vais te faire ta fête.
+{123131}{123227}- Vous désirez mesdames?|- Le plein. Tenez.
+{123302}{123357}Excusez-moi.|Vous avez un téléphone?
+{123413}{123452}Merci.
+{123457}{123503}Thelma, écoute-moi.
+{123507}{123560}Si tu crois qu'il sait,
+{123563}{123626}je veux que tu raccroches.
+{124548}{124576}Allô?
+{124581}{124624}Darryl, c'est moi.
+{124628}{124662}Thelma, allô!
+{124728}{124767}- Il sait.|- Merde!
+{124770}{124825}Il me faut plus de temps.
+{124855}{124935}Quoi? J'ai juste dit allô.
+{125518}{125583}- Ouais.|- Darryl, c'est Louise.
+{125588}{125657}- Passe-moi la police,|- Hé, Louise.
+{125663}{125783}- Passe-moi la police.|- Y'a pas de police ici.
+{125791}{125856}Où est-ce que vous êtes?
+{125860}{125951}Passe-moi donc le responsable.
+{125979}{126041}Allô, Melle Sawyer?
+{126046}{126125}Je suis Hal Slocombe,|de la police d'Arkansas.
+{126131}{126174}Comment allez-vous?
+{126180}{126228}Ça pourrait mieux aller.
+{126231}{126325}- Prudence avec ce flingue.|- Oui monsieur, je sais.
+{126332}{126390}Vous êtes toutes les|deux dans un joli pétrin.
+{126394}{126495}- Ça va?|- Oui. On va bien toutes les deux.
+{126502}{126588}Bon. Dites-moi|ce qui s'est passé?
+{126594}{126654}Bien sûr. Devant un bon café.|Je vous l'offre.
+{126659}{126755}Pour le moment, aucune de vous|deux n'est accusée de meurtre.
+{126758}{126832}On vous recherche seulement|pour vous interroger.
+{126839}{126939}Mme Dickinson est aussi|recherchée pour vol à main armée
+{126987}{127083}Sans blague. Je vous quitte.|Je rappellerai.
+{127088}{127134}Vous n'atteindrez|pas le Mexique.
+{127139}{127242}Nous devrions en discuter.|SVP. J'aimerais vous aider.
+{127269}{127317}Merde.
+{127318}{127400}Ce petit con de JD|est un fumier.
+{127425}{127473}Quoi?
+{127504}{127605}Thelma, comment il savait|qu'on allait au Mexique?
+{127640}{127741}T'as dit à ce petit|con où on allait?
+{127786}{127880}Je lui ai juste dit que si|un jour il était au Mexique,
+{127885}{127936}il devrait venir|nous rendre une petite visite.
+{127942}{128002}Mais je lui ai demandé|de ne rien dire.
+{128006}{128107}J'ai cru qu'il|n'en parlerait à personne.
+{128114}{128222}Quoi? Qu'est-ce qu'il avait|à perdre sinon mes économies?
+{128230}{128280}Thelma, nom d'un chien!
+{128284}{128359}Hé, je suis désolée.
+{128364}{128439}On avait deux avantages.
+{128445}{128529}Personne ne savait|où on était et où on allait.
+{128535}{128590}Il ne nous en reste|plus qu'un seul!
+{128812}{128884}Thelma, tu dois arrêter|de tout raconter aux gens.
+{128890}{128935}Ne sois pas si ouverte.
+{128940}{128995}On est des fugitives,|pas vrai?
+{129000}{129058}Comportons-nous|en tant que telles.
+{129062}{129093}D'ac.
+{129098}{129150}- Merci.|- OK.
+{129198}{129246}Je me demandais...
+{129250}{129317}Evidemment il faut|que tu y ailles.
+{129322}{129406}C'est ce qui t'inquiétait.|Ne pense surtout pas...
+{129410}{129530}Non. Je savais que tu voulais|que j'accepte ce poste, mais...
+{129615}{129646}Désolé.
+{129650}{129712}Eh bien! Marions-nous!
+{129919}{130025}- Mon Dieu, comme c'est beau!|- Magnifique.
+{130042}{130090}J'ai toujours voulu voyager.
+{130096}{130144}J'en ai jamais eu l'occasion.
+{130178}{130224}Tu l'as maintenant.
+{133317}{133370}Qu'est-ce que t'as?
+{133471}{133507}Rien.
+{133814}{133901}On n'a plus besoin|de la Côte Est.
+{133995}{134086}Regarde qui est là.|C'est ce mec.
+{134094}{134146}Ignore-le.
+{134183}{134279}Hé! Je suis votre|brouteur de cresson!
+{134285}{134388}Votre commando d'amour!
+{134522}{134570}Je l'ai ignoré.
+{135531}{135574}Quoi?
+{135579}{135636}- Quoi?|- Harlan.
+{135674}{135710}Quoi, Harlan?
+{135714}{135786}Rien. Juste le...
+{135812}{135903}C'est juste la tête|qu'il faisait...
+{135909}{135950}Quoi?
+{135954}{136029}Il ne s'y attendait pas.
+{136115}{136161}'Suce ma queue!'
+{136232}{136275}Thelma, c'est pas drôle.
+{136311}{136352}Je sais.
+{136536}{136589}Ça t'est arrivé aussi,|pas vrai?
+{136631}{136686}Qu'est-ce que tu racontes?
+{136692}{136742}Au Texas.
+{136746}{136823}C'est ce qui s'est passé,|pas vrai?
+{136829}{136879}On t'a violée.
+{136997}{137040}Ecoute, je te préviens.
+{137045}{137124}Tu vas la fermer.|Je ne veux pas en parler.
+{137127}{137175}Tu piges?
+{137180}{137240}- Ouais.|- Je dirai rien.
+{137245}{137324}- Compris?|- Ouais.
+{137440}{137488}OK, Louise.
+{137575}{137621}OK.
+{138457}{138527}Merde Thelma,|il veut qu'on se gare.
+{138570}{138621}Merde et merde!
+{138625}{138697}- Qu'est-ce qu'on fait?|- J'en sais rien!
+{138702}{138789}Il va peut-être|nous coller un PV.
+{138813}{138909}Mon Dieu, je vous en supplie,|faites qu'il ne nous arrête pas!
+{138915}{138968}Je vais me garer.
+{139356}{139416}Arrêtez votre moteur.
+{139565}{139611}Il met sa casquette.
+{139902}{139990}Mon Dieu, c'est un nazi.|Il vient vers nous.
+{140166}{140202}Bonjour monsieur l'agent.
+{140206}{140254}Y'a un problème?
+{140259}{140316}Montrez-moi votre permis SVP.
+{140322}{140358}Bien sûr.
+{140396}{140430}Le voici.
+{140433}{140489}Sortez-le de votre portefeuille.
+{140494}{140532}Très bien.
+{140537}{140589}Je t'avais dit de ralentir.
+{140595}{140652}Monsieur l'agent, je lui avais|bien dit de ralentir.
+{140656}{140721}- Je faisais du combien?|- Presque 110 miles à l'heure.
+{140750}{140802}Descendez de la voiture SVP.
+{140807}{140843}Bien sûr.
+{140923}{141002}- Suivez-moi SVP.|- Oui monsieur l'agent.
+{141061}{141107}Ce véhicule vous appartient?
+{141111}{141162}Oui monsieur l'agent.
+{141206}{141249}Montez dans la voiture SVP.
+{141286}{141396}- Oui, devant ou derrière?|- Devant.
+{141478}{141550}Veuillez enlever vos lunettes.
+{141556}{141592}Oui monsieur l'agent.
+{141672}{141718}Je risque d'avoir|des ennuis monsieur l'agent?
+{141722}{141794}Oui madame,|de très graves ennuis.
+{141817}{141868}Ici voiture 98...
+{141873}{141957}Regagnez votre véhicule SVP.
+{141979}{142044}Monsieur l'agent, je suis désolée.
+{142049}{142100}Voulez-vous bien lâcher ça?
+{142106}{142164}Je vous présente|toutes mes excuses,
+{142168}{142242}mais veuillez poser|les mains sur le volant.
+{142248}{142293}Si vous prenez|contact par radio,
+{142297}{142352}vous allez savoir|qu'on nous recherche
+{142358}{142430}et qu'on nous considère|comme armées et dangereuses,
+{142435}{142505}et notre plan|va complètement foirer.
+{142510}{142558}Louise, prends son flingue.
+{142590}{142660}- Prends son flingue, Louise.|- D'accord.
+{142665}{142708}Je suis désolée. Excusez-moi.
+{142713}{142763}Descendez de la voiture SVP.
+{142847}{142885}Il y a trois jours,
+{142891}{142963}on aurait été|incapables de faire ça,
+{142968}{143038}mais si vous connaissiez|mon mari, vous comprendriez.
+{143043}{143127}Les mains sur la tête SVP.|Louise.
+{143132}{143190}- Quoi?|- Tire sur la radio.
+{143286}{143348}La radio de la police, Louise!
+{143352}{143393}- Seigneur!|- Désolée,
+{143468}{143501}Ça y est.
+{143506}{143597}Bien. Venez à l'arrière|de la voiture SVP.
+{143621}{143662}Louise, les clés.
+{143805}{143856}Mon Dieu! Que fais-tu?
+{143861}{143899}Des trous d'air.
+{143904}{143947}Ouvre le coffre.
+{143988}{144056}Merde Thelma,|qui aurait cru ça?
+{144061}{144109}Entrez dans le coffre SVP.
+{144179}{144234}SVP! J'ai une femme|et des enfants.
+{144239}{144292}Vraiment?|Vous avez de la chance.
+{144296}{144363}Soyez gentil envers eux,|surtout envers votre femme.
+{144369}{144470}Mon mari n'était pas gentil|envers moi. Voyez le résultat.
+{144476}{144543}Attendez une seconde.|Excusez-moi.
+{144548}{144642}Monsieur l'agent, je pourrais|avoir votre ceinturon SVP?
+{144677}{144744}- Des munitions en sup.|- Bonne idée.
+{144757}{144815}Si on échangeait nos lunettes?
+{144854}{144909}Merci. C'est tout?
+{144994}{145078}- Je suis vraiment désolée.|- Mes excuses aussi.
+{145145}{145176}Allez.
+{145294}{145349}- T'es prête?|- C'est bon!
+{145465}{145511}Je sais que c'est débile...
+{145514}{145593}mais je sens que|j'ai un don pour ça.
+{145598}{145644}Je le crois aussi.
+{145684}{145727}Allez, fonce.
+{145892}{145976}J'ignore si ces jeunes|femmes sont intelligentes
+{145982}{146028}ou simplement veinardes.
+{146033}{146124}L'intelligence mène jusqu'à un|certain point. La chance tourne.
+{146205}{146274}Louise, on va|toujours au Mexique?
+{146280}{146304}Ouais.
+{146307}{146384}On s'est pas trompées|de direction?
+{146389}{146463}Quand on pique|le flingue d'un flic,
+{146470}{146520}et qu'on l'enferme|dans un coffre,
+{146525}{146592}mieux vaut quitter l'Etat.
+{146671}{146719}N'abîmez pas ma voiture!
+{146828}{146876}J'ai vraiment foutu la merde.
+{146916}{146995}On risque de se faire tuer.
+{147036}{147110}Je ne sais pas pourquoi|je ne me suis pas rendue.
+{147115}{147168}Tu le sais. Tu l'as déjà dit.
+{147171}{147219}Qu'est-ce que j'ai dit?
+{147225}{147270}Personne nous croira.
+{147276}{147353}On aura toujours des emmerdes.
+{147383}{147440}- Et tu sais quoi d'autre?|- Quoi?
+{147445}{147560}Le mec me faisait mal.|Sans toi ça aurait été pire.
+{147564}{147669}Et il s'en serait sorti.
+{147678}{147733}Selon eux, je l'aurais cherché.
+{147737}{147836}Ma vie aurait été pire que|ce qu'elle est aujourd'hui.
+{147841}{147896}Au moins, maintenant,|je m'éclate.
+{147920}{147999}Je ne regrette pas|la mort de ce fils de pute.
+{148005}{148070}Je regrette surtout de ne|l'avoir pas tué moi-même.
+{148479}{148561}- Bonjour.|- Passez-moi Slocombe.
+{148566}{148623}Elle veut vous parler.
+{148761}{148795}Allô, Louise.
+{148797}{148852}Comment ça va?
+{148856}{148947}Etrange.|Y'a un effet boule de neige.
+{148954}{149023}Vous êtes toujours|sur notre planète.
+{149028}{149117}On n'est pas en pleine|brousse mais presque.
+{149124}{149255}Je vous jure, Louise, j'ai|l'impression de vous connaître.
+{149264}{149345}- Je ne pense pas.|- Votre situation s'aggrave.
+{149351}{149411}C'était un accident.
+{149416}{149505}Je vous crois. Il faut|que je persuade les autres.
+{149511}{149595}Mais ça n'a pas|l'air d'un accident,
+{149601}{149682}et vous n'êtes pas là|pour en discuter.
+{149689}{149733}Est-ce que Harlan Puckett...
+{149736}{149784}Je ne veux pas en parler.
+{149787}{149856}- Vous voulez vous rendre?|- Non.
+{149862}{149965}Alors, on va vous|inculper de meurtre.
+{149971}{150038}Vous voulez vous|en sortir vivante?
+{150041}{150137}Certains mots|me viennent à l'esprit.
+{150144}{150216}Comme incarcération,|fouille corporelle,
+{150221}{150288}chaise électrique,|prison à perpétuité.
+{150292}{150347}Si je veux m'en sortir vivante?
+{150353}{150406}Je ne sais pas. Je...
+{150524}{150618}Je ne sais pas.|Je vais y réfléchir.
+{150624}{150708}Louise...je ferais de mon mieux.
+{150783}{150841}Je sais ce qu'il vous fait fuir.
+{150844}{150914}Je sais ce qu'il vous|est arrivé au Texas.
+{151056}{151101}Allez, Louise.
+{151133}{151181}Ne fous pas tout en l'air.
+{151185}{151264}- Je l'ai!|- Donne-le-moi.
+{151440}{151492}Max, tu dois m'y emmener.
+{151498}{151534}Non. Désolé.
+{151537}{151660}- Je suis le seul...|- Je n'ai plus besoin de toi.
+{151668}{151749}Je ne veux pas|que quelqu'un craque.
+{151755}{151844}Si la pression monte, elles|risquent de se faire descendre.
+{152147}{152176}Quoi?
+{152180}{152262}Tu vas pas me lâcher?
+{152267}{152308}Qu'est-ce que tu veux dire?
+{152312}{152384}Tu vas pas négocier|avec ce type?
+{152390}{152462}Je veux juste savoir.
+{152492}{152557}Thelma, je ne vais pas négocier.
+{152672}{152744}Je comprendrai si tu y pensais.
+{152750}{152824}T'as une bonne raison|de rentrer - Jimmy.
+{152829}{152875}Jimmy n'est pas la raison.
+{152953}{153023}Mais...je sais pas...
+{153048}{153156}quelque chose a changé en moi,
+{153193}{153241}et je ne veux pas|faire marche arrière.
+{153271}{153350}Ce ne serait pas une vie.
+{153356}{153423}Je te comprends.
+{153482}{153585}Et puis, je ne veux pas me|retrouver dans un talk-show.
+{153800}{153879}On nous inculpe de meurtre.
+{153952}{154045}A nous de choisir si on veut|finir mortes ou vivantes.
+{154086}{154163}Ouah! Il n'a rien|dit de positif?
+{154805}{154844}T'es éveillée?
+{154846}{154923}Je crois. J'ai les yeux ouverts.
+{154955}{155018}Moi aussi.|Je me sens éveillée.
+{155028}{155100}- Parfait.|- Hyper éveillée.
+{155105}{155177}Je ne me souviens pas|avoir été aussi éveillée.
+{155182}{155278}Tu vois ce que je veux dire?|Tout est différent.
+{155305}{155396}J'ai l'impression|d'avoir un but dans la vie.
+{155430}{155516}On sirotera des margaritas|au bord de la mer, mamacita.
+{155523}{155571}On pourra changer de noms.
+{155575}{155680}- On habitera dans une hacienda.|- Je bosserai au Club Med.
+{155747}{155829}Il ne va pas nous|offrir mieux ce flic?
+{155835}{155898}- On doit être fortes.|- Super fortes.
+{156738}{156850}Mon Dieu Louise, regarde!|Regarde si c'est lui.
+{156921}{156966}Y'a pas de doute, c'est lui.
+{156971}{157016}Double-le.
+{157488}{157534}Vous voulez voir|une grosse queue?
+{157823}{157874}Salut. Vous allez bien?
+{157879}{157920}En pleine forme. Et toi?
+{157924}{157967}Super!
+{157973}{158047}On passe aux choses|sérieuses les filles?
+{158104}{158147}Pourquoi pas.
+{158189}{158221}Suis-nous.
+{159610}{159656}Tu vas où?
+{159660}{159691}A Fresno.
+{159695}{159743}On te voit de partout.
+{159747}{159829}Enlève ces lunettes.|Je veux voir tes yeux.
+{159835}{159904}Ouais.|Je vous ai vues moi aussi.
+{159910}{159989}Ouais. On pense que|t'as de vilaines manières.
+{160041}{160127}Comment tu oses te comporter|comme ça avec des inconnues!
+{160201}{160249}Et si quelqu'un|faisait ça à ta mère?
+{160252}{160322}Ou à ta sœur? Ou à ta femme?
+{160356}{160404}Où tu veux en venir?
+{160407}{160467}Tu sais de quoi je parle.
+{160503}{160585}Ce truc avec ta langue,|c'est dégueulasse!
+{160591}{160668}Pourquoi tu nous montres|ton bide? Ça signifie quoi?
+{160673}{160776}'Je veux vous montrer|le gros lard que je suis'?
+{160783}{160821}Ou 'Suce ma queue'?
+{160825}{160893}- Vous êtes cinglées!|- C'est exact.
+{160898}{160951}On pense que|tu devrais t'excuser.
+{160955}{161013}J'en n'ai rien à branler!
+{161015}{161048}Dis que tu es désolé.
+{161079}{161122}Allez vous faire foutre!
+{161260}{161363}Dis que tu es désolé,|ou tu vas le regretter, putain.
+{161371}{161417}Oh Seigneur!
+{161421}{161491}Je parie que tu nous traites|de 'moules' sur ta radio, hein?
+{161496}{161539}Et comment?
+{161542}{161657}- Je déteste le terme 'moule'.|- Tu vas t'excuser?
+{161709}{161754}Allez vous faire enculer!
+{161978}{162059}Espèce de salopes!
+{162099}{162192}- Il va pas s'excuser.|- Je pense pas non plus.
+{162516}{162622}Salopes!|Des salopes du diable!
+{162629}{162670}Putain!
+{162674}{162751}Vous allez payer cher!
+{163359}{163441}Où est-ce que|t'as appris à tirer?
+{163446}{163492}A la télé.
+{163496}{163594}- Et toi, t'as appris où?|- Au Texas.
+{165126}{165217}Hé? Je suis|officier de police.
+{165267}{165337}Les clés sont par là.
+{165773}{165895}Rousse, yeux marron.|1,68 mètre, 55 kilos.
+{165902}{165962}Thelma Lauren Dickinson.
+{165989}{166078}Y'a un type qui tourne|autour d'un camion en flammes.
+{166084}{166178}Rousse, yeux verts, 1,75 mètre.
+{166184}{166258}Les deux suspectes sont|armées et très dangereuses.
+{166264}{166304}Approchez-vous d'elles|avec prudence.
+{166366}{166438}..recherchées pour|vol à main armée,
+{166444}{166507}kidnapping|d'un officier de police,
+{166511}{166557}attaque avec arme mortelle.
+{166561}{166640}La suspecte au volant,|Louise Elizabeth Sawyer.
+{167082}{167127}Ils nous ont vues?
+{167221}{167324}Je crois pas.|Quittons la route au cas où.
+{168345}{168393}T'as attaché ta ceinture?
+{168425}{168523}Ici 112 en poursuite|d'une Thunderbird verte.
+{168610}{168650}Oh, merde.
+{168748}{168811}Suspectes en vue.
+{168952}{168993}Restez en position.
+{169135}{169188}Tout est de ma faute.
+{169192}{169259}Tu sais que c'est|pas vrai, bon sang!
+{169265}{169382}Louise, quoiqu'il arrive,|je suis heureuse d'être avec toi.
+{169393}{169429}Merde.
+{169703}{169758}Il était au milieu de la route!
+{170085}{170133}Attends!
+{170684}{170768}- Désormais ça va être dur.|- Insupportable.
+{170774}{170850}- On n'a rien à perdre.|- T'es vraiment positive!
+{172419}{172462}T'es une super amie.
+{172466}{172509}Toi aussi, la meilleure.
+{172557}{172626}Alors ces vacances,|elles se passent bien?
+{172751}{172813}J'ai perdu un peu la tête.
+{172818}{172864}T'as toujours eu un grain.
+{172867}{172946}C'est la première chance|que tu as eue de t'exprimer.
+{173080}{173116}Tu conduis hyper bien!
+{173172}{173210}Merci.
+{174951}{175050}- Oh, mon Dieu!|- Qu'est-ce que c'est, bon sang?
+{175056}{175111}J'en sais rien.
+{175116}{175200}C'est le Grand Canyon, putain!
+{175233}{175291}Magnifique, non?
+{175320}{175392}Ouais. Epoustouflant.
+{176946}{177032}Mon Dieu. On dirait une armée.
+{177039}{177075}Tout ça pour nous?
+{177080}{177154}Ne leur tirez pas dessus.
+{177160}{177211}C'est trop.
+{177215}{177270}Ces femmes sont armées Hal.
+{177271}{177343}Ces gars-là savent|ce qu'ils font.
+{177372}{177432}Mettez les mains en l'air.
+{177438}{177500}Tout refus d'obéissance
+{177504}{177598}sera considéré comme un acte|d'agression contre nous.
+{177642}{177685}Je répète...
+{177687}{177745}Arrêtez le moteur.
+{177748}{177808}Mettez les mains en l'air.
+{177910}{178003}- Qu'est-ce que tu fais?|- J'abandonne pas.
+{178007}{178055}Tu dois faire quelque chose.
+{178061}{178140}Combien de coups durs|elles devront encore encaisser?
+{178145}{178212}Ressaisis-toi.
+{178218}{178285}Ne me fais pas regretter|de t'avoir emmené!
+{178290}{178336}Merde!
+{178368}{178473}Arrêtez le moteur et|mettez les mains en l'air.
+{178620}{178699}OK, alors écoute. Il ne faut|pas qu'on se fasse prendre.
+{178705}{178770}De quoi tu parles?
+{178825}{178873}On continue.
+{178878}{178933}Qu'est-ce que tu veux dire?
+{179018}{179059}Vas-y.
+{179180}{179220}T'en es sûre?
+{179296}{179366}Ouais. Fonce.
+

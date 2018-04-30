@@ -1,0 +1,455 @@
+{85}{157}La dépravation nous habite tous.
+{167}{245}LE CHAT NOIR
+{256}{346}La perversité est une impulsion|primitive du coeur humain.
+{358}{451}Qui n'a jamais mal agi|uniquement pour braver l'interdit ?
+{464}{544}Faire le mal pour l'amour du mal.
+{589}{637}Chef, je demande mon transfert.
+{643}{710}Je veux retourner|faire la circulation.
+{719}{787}Non, je ne dînerai pas O'Neill.
+{801}{841}Juste un café peut-être.
+{851}{909}Je parlais de mon transfert.
+{916}{941}Dehors !
+{947}{990}Tu crois m'épater. Dehors !
+{995}{1072}- C'est un passe, vous savez lire ?|- Oui.
+{1077}{1132}- Interdit d'entrer.|- La police !
+{1138}{1213}- Je veux la police.|- Un problème Rod ?
+{1218}{1258}- Laisse-le.|- Je préfère.
+{1264}{1284}Je t'en prie.
+{1412}{1484}Pourquoi vous couvrez|toutes ces affaires ?
+{1494}{1544}J'adore les natures mortes.
+{1596}{1626}Vous l'avez coincé ?
+{1639}{1666}Ce matin.
+{1679}{1734}Ce salaud dormait à côté d'elle.
+{1784}{1836}Qui était le premier sur les lieux ?
+{2400}{2455}Usher, touchez pas ce levier !
+{2501}{2569}Vous voulez tuer quelqu'un ?|Arrêtez ça !
+{2575}{2607}Désolé.
+{2725}{2782}Et il me prend en photo !
+{2823}{2856}Y a pas le feu.
+{2862}{2912}Elle va pas s'envoler.
+{3738}{3773}D'où tu sors toi ?
+{3861}{3899}Comment tu es entré ?
+{3948}{3973}Pas sur le papier !
+{3978}{4010}Allez !
+{4074}{4112}Comment t'es entré ?
+{4220}{4270}- Qu'est-ce que tu lui as fait ?|- Moi ?
+{4274}{4316}Regarde ce qu'il m'a fait !
+{4340}{4375}C'est à qui ce chat ?
+{4405}{4440}Tu l'as griffé ?
+{4450}{4503}Il ne faut pas, il est fragile.
+{4507}{4537}D'où vient ce chat ?
+{4542}{4577}Elle est à nous.
+{4597}{4642}Je l'ai trouvée dehors.
+{4647}{4730}T'étais affamée, hein ?|Je m'occuperai de toi.
+{4752}{4787}Elle est belle, non ?
+{4792}{4847}Elle a une tache blanche au cou.
+{4898}{4923}On peut la garder ?
+{5013}{5043}Bien sûr chérie.
+{5057}{5084}Parfait.
+{5800}{5870}Tu pourrais t'occuper|de mon dîner plutôt.
+{5886}{5923}Je suis là moi. Pas le chat.
+{6091}{6119}Salut Ann.
+{6154}{6229}Non, pas de nouvelles.|Je suis à cran.
+{6270}{6293}Pas vraiment.
+{6334}{6384}Je n'y manquerai pas, merci.
+{6416}{6463}C'est pas un peu exagéré ?
+{6517}{6560}Tes amis t'appellent
+{6583}{6671}comme s'il y avait|une crise familiale bordel !
+{6700}{6715}Bon Dieu !
+{6720}{6775}Comme si ton enfant|s'était fait enlever !
+{6798}{6823}J'ai pas d'enfants.
+{6918}{6950}Va te soûler ailleurs.
+{6993}{7048}C'est ma cuisine bordel !
+{7053}{7096}Et je reste ici !
+{7100}{7142}Et bordel je me soûlerai
+{7149}{7189}si je veux me soûler !
+{7300}{7348}J'ai rien fait bordel !
+{7468}{7498}Bonjour Christian.
+{7534}{7592}Non, ça va. Tu as répété ?
+{7618}{7648}C'est bien.
+{7652}{7677}Non, pas encore.
+{7695}{7772}Tu tombes plutôt mal.|Je te rappelle.
+{7913}{7945}Je sais que tu l'as tuée.
+{7988}{8098}Qu'est-ce que tu racontes ?|T'es folle, tu sais ?
+{8134}{8187}Putain mais c'est un chat !
+{8227}{8250}Un chat !
+{8279}{8296}Tu l'as tuée !
+{8301}{8331}Je ne l'ai pas tuée !
+{8336}{8366}- Si !|- Non !
+{8371}{8401}Tu l'as tuée !
+{8496}{8561}Ne lève jamais la main sur moi !
+{10125}{10158}Rod !
+{10232}{10259}Viens !
+{13336}{13461}J'ai trouvé ceci dans les bois|J'ai trouvé ceci pour toi
+{13709}{13757}Parle ma belle.
+{13789}{13842}Qui est ton meurtrier ?
+{14236}{14261}Rod !
+{14475}{14500}Rod !
+{14936}{14999}Ton châtiment est écrit|dans cette tache.
+{15016}{15049}C'est ton destin.
+{15054}{15099}Où ça mon châtiment ?
+{15134}{15161}Y a rien d'écrit.
+{15181}{15219}Tu la vois ?
+{15266}{15316}Tu vois la marque ?
+{15431}{15451}A mort !
+{18006}{18061}Allez, lève-toi connard.
+{18087}{18155}T'as raté ta vocation de dentiste ?
+{18166}{18209}C'était sa cousine.
+{18220}{18257}Tu sais ce qu'il voulait ?
+{18271}{18316}Lui arracher les dents.
+{18331}{18376}Toutes ses dents.
+{18436}{18504}Comment un homme peut faire ça ?
+{18509}{18561}Je ne comprendrai jamais.
+{18735}{18775}Allez, monte !
+{18946}{18989}Ça va vous intéresser.
+{19084}{19109}Qu'est-ce qu'il y a ?
+{19133}{19165}Ça ne va pas ?
+{19211}{19246}Je suis désolé.
+{19259}{19334}C'est juste|que j'ai la gueule de bois.
+{19339}{19384}- Ouvrez.|- Vous êtes sûr ?
+{20137}{20180}Annabel, qu'est-ce qu'il y a ?
+{20209}{20296}C'est ta chatte ?|Elle va revenir, je le sais.
+{20414}{20464}Comme tu es belle !
+{20691}{20729}Embrasse-moi.
+{21847}{21887}Horreurs métropolitaines
+{22116}{22141}Joseph, je...
+{22162}{22212}Je ne sais pas comment dire...
+{22217}{22270}Je suis en plein cauchemar.
+{22275}{22320}Je ne le reconnais plus.
+{22349}{22421}Les photos du livre...|Je peux pas y croire.
+{22426}{22476}Trouve-moi un logement à New York.
+{22504}{22551}Libre tout de suite.
+{22569}{22604}Je dois partir d'ici.
+{22630}{22667}Tu peux m'aider ?
+{22773}{22810}Tu m'appelleras ?
+{22877}{22932}Mon Dieu, j'ai peur !
+{23023}{23060}J'ai peur !
+{23912}{23982}Y a quoi au ''Sud du Paradis'' ?
+{23987}{24017}Qu'est-ce qu'il y a ?
+{24027}{24057}Vous n'avez jamais lu
+{24061}{24116}''La Divine Comédie'' de Dante ?
+{24156}{24221}''Le Jugement dernier'' ?
+{24261}{24366}Les textes|de la réincarnation de Sheik ?
+{24381}{24454}Vous refusez de me le dire ?
+{24527}{24577}Essayez de deviner.
+{25091}{25136}Vous n'aimez pas les chats ?
+{25146}{25194}- C'est le vôtre ?|- Non.
+{25217}{25297}Elle a débarqué récemment.|Je la nourris.
+{25303}{25333}J'adore les bêtes.
+{25369}{25401}Je vous ressers ?
+{25552}{25620}Ma copine avait la même.
+{25633}{25673}C'est peut-être la sienne.
+{25690}{25750}Elle vient de débarquer.
+{25775}{25817}La sienne est morte.
+{25865}{25922}Elle vous regarde bizarrement.
+{25952}{25987}Caressez-la un peu.
+{26002}{26095}C'est sûrement|celle de votre copine !
+{26112}{26212}Elle avait aussi une tache blanche|comme celle-là ?
+{26223}{26256}Ça fait un dessin.
+{26270}{26300}Comment ça un dessin ?
+{26320}{26362}Tu la vois ?
+{26406}{26456}Tu vois la marque ?
+{26546}{26604}Elle se voit à peine mais...
+{26636}{26679}Si vous voulez on peut...
+{26699}{26731}la regarder ensemble.
+{26762}{26810}Je m'appelle Eléonora.
+{26936}{26966}Comme vous voudrez.
+{27108}{27228}Je t'ai trouvé un logement|et j'ai des pistes pour enseigner.
+{27232}{27265}C'est super !
+{27270}{27337}C'est petit mais c'est provisoire.
+{27342}{27430}C'est pas grave|du moment que je pars d'ici.
+{27435}{27480}J'essaye d'avoir un vol ce soir.
+{27484}{27536}Appelle-moi de l'aéroport.
+{27542}{27570}D'accord.
+{28405}{28447}Où est la chatte ?
+{28554}{28601}Je peux vous la racheter ?
+{28627}{28672}Pourquoi ? Où elle est ?
+{28902}{28937}Je l'ai mise là.
+{29074}{29126}Je savais que vous reviendriez.
+{29152}{29210}Elle vous attendait.
+{29242}{29297}- Moi ?|- Oui.
+{29370}{29422}C'est merveilleux.
+{29450}{29500}C'est votre destin.
+{29505}{29545}Elle attend des petits.
+{33290}{33342}C'est fini.
+{33471}{33504}Tu es vivante !
+{34020}{34062}Ne la laisse pas partir !
+{34298}{34321}Donne-la-moi.
+{34352}{34395}Ce n'est pas ta chatte.
+{34436}{34474}Elle est morte !
+{34487}{34515}J'ai dû la tuer !
+{34525}{34570}Pour arrêter le sortilège.
+{37638}{37708}Vous réveillez tout le voisinage !
+{37713}{37763}Faites moins bruit !
+{37767}{37790}Je m'excuse.
+{37796}{37898}Annabel... On s'est disputés,|elle s'est enfermée en haut
+{37902}{37935}dans sa chambre.
+{37939}{37969}Peu m'importe !
+{37976}{38026}On veut dormir, c'est tout !
+{38029}{38086}Bien sûr. Je vais lui dire.
+{38155}{38177}C'était quoi ?
+{38186}{38221}Annabel sans doute.
+{38238}{38278}Vous disiez
+{38283}{38323}qu'elle s'était enfermée ?
+{38375}{38412}Qu'est-ce que c'est ?
+{38476}{38501}On dirait du sang.
+{38652}{38710}Je me suis coupé le pied
+{38716}{38783}en descendant l'escalier.
+{38830}{38882}Je vais désinfecter, bonsoir.
+{38901}{38973}Et n'oubliez pas pour la musique.
+{39134}{39191}''La vie ici est devenue atroce.
+{39197}{39237}''Je te quitte.
+{39252}{39345}''J'en sais assez|pour ne plus vouloir te voir.
+{39353}{39381}''Ne me cherche pas.''
+{39739}{39781}Tu voulais me quitter.
+{39789}{39837}On sera ensemble pour toujours.
+{40387}{40432}Je viens pour mon cours.
+{40438}{40483}Pas aujourd'hui.|On part.
+{40505}{40572}Mais Annabel m'avait dit...
+{40578}{40648}Elle a dû se tromper.|On part en vacances.
+{40655}{40685}554, M.Usher ?
+{40690}{40712}Entrez.
+{40717}{40775}- Je peux la voir ?|- Elle dort.
+{40789}{40816}Posez ça là.
+{40823}{40871}Ne faites pas de bruit.
+{40907}{40952}Y a quelqu'un qui dort.
+{42045}{42082}Pardon pour hier soir.
+{42097}{42125}Annabel et moi.
+{42144}{42172}C'est pour moi ?
+{42192}{42240}Comme c'est gentil !
+{42255}{42277}Vous comprenez,
+{42283}{42323}on s'est disputés.
+{42347}{42387}Rien de grave j'espère.
+{42432}{42492}On part une semaine en amoureux.
+{42507}{42542}Ça vous fera du bien.
+{42548}{42598}Annabel a l'air déprimé depuis
+{42603}{42628}que son chat...
+{42632}{42670}A la semaine prochaine.
+{42675}{42705}Saluez M.Pym pour moi.
+{42723}{42778}Vous le verrez avant qu'on sorte.
+{42803}{42823}Vous sortez ?
+{42837}{42900}Mon mari m'emmène au cinéma.
+{42908}{42953}On adore le cinéma !
+{44657}{44700}M.Pym, Mme Pym !
+{44705}{44725}Au revoir !
+{44843}{44866}Le salaud !
+{44870}{44922}C'était aimable de sa part.
+{44927}{44982}Des vacances avec un temps pareil !
+{45051}{45128}Ils nous ont vus partir.|Deux témoins.
+{45138}{45193}On ne te cherchera pas dans la maison.
+{45746}{45776}Monsieur ?
+{45813}{45838}Votre boisson.
+{45911}{45948}Comment va votre femme ?
+{45953}{45993}Bien mieux, merci.
+{46003}{46036}Elle va rentrer.
+{46041}{46068}La pauvre !
+{46072}{46140}Malade en vacances !|Vous dînez ici ?
+{46162}{46205}Je la dépose d'abord à la gare.
+{49606}{49653}Ce n'est que moi. Christian.
+{49656}{49691}Qu'est-ce que tu fais là ?
+{49698}{49818}J'avais oublié mon violon,|j'en ai besoin pour répéter.
+{49822}{49855}Tu l'as, tire-toi !
+{49892}{49924}Où est Annabel ?
+{49931}{49961}Elle est partie.
+{49987}{50077}Deux ou trois semaines|en tournée avec un orchestre.
+{50084}{50119}Vous avez son adresse ?
+{50203}{50263}Elle va beaucoup bouger.
+{50338}{50383}Je peux parler à Annabel ?
+{50388}{50431}Elle m'a donné ce numéro.
+{50435}{50460}Elle est là ?
+{50482}{50542}- Elle est partie.|- Je ne comprends pas.
+{50546}{50626}Vous êtes qui ?|Vous avez déjà appelé ?
+{50632}{50692}- Qu'est-ce que vous voulez ?|- ''Partie'' ?
+{50698}{50758}Je l'attends à New York|depuis huit jours.
+{50763}{50843}- Sans vouloir...|- Comment ça tu l'attends ?
+{50857}{50907}T'es son amant ou quoi ?
+{50933}{50991}Ecoute-moi bien connard.
+{50998}{51061}Ne rappelle plus jamais ici.
+{51065}{51092}Jamais !
+{51098}{51133}T'entends ?
+{51193}{51231}- Bizarre.|- Quoi ?
+{51235}{51327}Elle aurait pris son violon|pour partir en tournée.
+{51383}{51428}Elle en a deux.
+{51446}{51498}J'ai entendu la conversation...
+{51532}{51560}Qu'est-ce que tu veux ?
+{51567}{51632}Occupe-toi de tes affaires !
+{51706}{51741}Mets plus les pieds ici !
+{51818}{51858}Vous êtes revenus !
+{51871}{51898}Seulement moi.
+{51904}{51939}Annabel est en tournée.
+{51943}{52006}Sans violon|et elle est jamais arrivée.
+{52067}{52104}Une longue tournée ?
+{52108}{52136}Deux ou trois mois.
+{52146}{52181}Peut-être plus.
+{52188}{52248}L'écoutez pas. Il ment !
+{52255}{52290}Elle va me manquer.
+{52303}{52346}J'aimais parler avec votre femme.
+{52357}{52417}- Avec Annabel ?|- Oui.
+{52436}{52458}C'est pas ma femme.
+{52513}{52538}Je croyais...
+{52542}{52587}On vit ensemble sans être mariés.
+{52668}{52723}Viens Gloria.|Excusez-nous.
+{52727}{52765}Vous en faites pas.
+{52838}{52876}Et toi te mêle pas de ça !
+{52892}{52932}Vous mentez !
+{53052}{53092}Vous mentez !
+{53124}{53159}Il ment.
+{53191}{53238}Il sait où elle est.
+{54748}{54816}Je t'ai dit de ne pas rappeler.
+{55969}{55989}Elle a dû entrer
+{55993}{56033}quand je bâtissais le mur.
+{57092}{57142}Je suis le Père Hammer, un voisin.
+{57207}{57227}Ça coule.
+{57244}{57284}Oui, c'est du sang.
+{57297}{57329}C'est un rat.
+{57349}{57372}Un gros rat.
+{57382}{57412}D'où il sort ?
+{57436}{57496}Il était chez moi, j'ai dû le tuer.
+{57508}{57581}Je lui ai mis des coups de couteau
+{57587}{57657}mais il résistait. J'ai dû insister.
+{57672}{57695}Regardez !
+{57728}{57781}Non merci, je déteste les rats.
+{57804}{57842}Je comprends.
+{58914}{58949}''Assassinée.''
+{59046}{59083}Si ça les amuse...
+{59472}{59502}Surpris ?
+{59507}{59570}- Pas vraiment.|- Pas vraiment ?
+{59631}{59708}''Les fausses accusations|sont comme le vent.''
+{59741}{59786}C'est vous, j'ai de la chance.
+{59806}{59846}On va voir ça.
+{59852}{59909}Ils parlaient de vous au poste.
+{59913}{60001}J'ai dit|''Je le connais, c'est un artiste.''
+{60034}{60087}Ne restez pas là, asseyez-vous.
+{60090}{60122}On aime être debout.
+{60129}{60169}Mais on préfère arpenter.
+{60174}{60199}Va voir.
+{60338}{60383}Je n'ai pas déjeuné
+{60388}{60413}et j'ai à faire.
+{60432}{60462}On sera pas longs.
+{60599}{60637}Le téléphone est débranché.
+{60681}{60758}J'ai trop d'appels|depuis la sortie du livre.
+{60765}{60813}Des photographes amateurs.
+{60820}{60847}A vos souhaits.
+{60852}{60882}Il y a un chat ici ?
+{60937}{60972}Avant oui. Y en a plus.
+{61002}{61039}Qu'est-ce qui s'est passé ?
+{61053}{61116}Vous enquêtez sur un chat perdu ?
+{61172}{61209}J'ai posé une question.
+{61218}{61258}Il est resté quelques jours
+{61262}{61309}et ensuite il a disparu.
+{61312}{61407}Disparu, hein ?|A propos de disparition Rod,
+{61414}{61449}où est votre femme ?
+{61504}{61527}Ce n'est pas ma femme.
+{61561}{61593}D'accord, d'accord.
+{61606}{61661}Comment elle s'appelait ?|Annabel ?
+{61679}{61709}Pourquoi s'appelait ?
+{61714}{61759}Elle s'appelle toujours Annabel.
+{61792}{61814}L'imparfait...
+{61823}{61863}Déformation professionnelle.
+{61869}{61912}A chaque fois qu'on se voit
+{61916}{61956}il y a un cadavre.
+{62401}{62438}Dites-nous où elle est.
+{62443}{62488}Si je le savais, je le dirais.
+{62642}{62684}Elle m'a quitté.
+{62729}{62779}On est partis quelques jours
+{62784}{62842}mais ça n'allait pas entre nous.
+{62863}{62913}Elle a une sœur qui...
+{62919}{62954}Sa sœur ne l'a pas vue.
+{62992}{63044}Elles ne s'entendent pas bien.
+{63271}{63298}Pardon.
+{63309}{63394}Ce chat a dû laisser|plein de poils partout.
+{63461}{63518}C'est ce chat-là, n'est-ce pas ?
+{63577}{63614}On raconte que...
+{63631}{63701}vous l'avez torturé|pour prendre ces clichés.
+{63714}{63754}Vous ne feriez pas ça ?
+{63774}{63812}Dites que ce n'est pas vrai.
+{63833}{63858}Ce n'est pas vrai.
+{63879}{63902}Bon.
+{63923}{63968}Mon fils a des chatons.
+{63973}{64043}Il adore jouer avec eux.
+{64049}{64072}Super Legrand.
+{64077}{64117}Rod a qu'à s'en occuper.
+{64295}{64378}C'est Joseph.|J'ai appelé hier de New York.
+{64408}{64468}Vous cherchez M.Usher ?
+{64473}{64506}Il n'est pas là.
+{64547}{64592}Il fait chier ce type.
+{64597}{64659}Faut que je me mette|sur liste rouge.
+{64693}{64778}Donc Annabel et le chat sont partis|sans dire où ?
+{64784}{64814}Ça ne parle pas un chat.
+{64819}{64862}Annabel a laissé un mot.
+{64867}{64914}Il est quelque part ici.
+{65203}{65258}Un vrai billet doux.
+{65262}{65340}Vous avez parlé d'une tournée|aux voisins.
+{65347}{65432}Je n'ai pas à raconter ma vie|à ces commères.
+{65443}{65521}C'est vrai...|Vous avez des lettres d'elle ?
+{65531}{65573}C'est une photo d'elle ?
+{65586}{65623}On peut la prendre ?
+{65793}{65863}Et vous me feriez cadeau du livre ?
+{65897}{65927}Pas de problème.
+{65949}{65969}Merci l'ami.
+{65974}{66029}Vous en êtes un peu le co-auteur.
+{66068}{66103}Encore une question.
+{66108}{66178}Vous êtes partis où avec Annabel ?
+{66183}{66248}Au lac Okla.|J'ai une maison là-bas.
+{66309}{66334}Allons-y.
+{66554}{66609}Enchanté|d'avoir apaisé vos soupçons.
+{66614}{66672}Longue et heureuse vie à vous.
+{66698}{66750}Qu'est-ce que vous espériez découvrir
+{66753}{66813}entre ces murs solidement maçonnés ?
+{67064}{67117}Ouvrez ! C'est encore moi.
+{67251}{67293}Il est pas dédicacé.
+{67653}{67708}Il marchait tout à l'heure.
+{67824}{67884}Vous devez bien avoir un stylo ?
+{68159}{68264}Ça m'a plu que vous me considériez|comme le co-auteur.
+{68269}{68314}Vous voulez bien marquer ça ?
+{68584}{68632}Ça venait d'où ?
+{69545}{69595}Qu'est-ce que vous foutez ?
+{69618}{69651}Alors ?
+{69808}{69838}Chef.
+{70221}{70256}Le plâtre est frais.
+{70263}{70295}Vous disiez Rod ?
+{70300}{70383}''Qu'est-ce que vous espériez découvrir|entre ces murs ?''
+{70386}{70431}On joue aux devinettes ?
+{70448}{70478}On fait quoi ?
+{70482}{70512}On l'abat ?
+{70518}{70541}Vas-y.
+{70563}{70595}J'ai ce qu'il faut.
+{70949}{70994}On a trouvé ce qu'on cherchait.
+{71396}{71451}Mon Dieu, quelle puanteur !
+{71472}{71487}Continue.
+{71605}{71643}Elle attendait des petits.
+{71647}{71684}Elle les a eus là-dedans.
+{71773}{71803}Arrache-moi tout ça !
+{71945}{71970}Vous les avez murés !
+{72162}{72187}Ils la...
+{72197}{72222}mangent !
+{73379}{73422}Qu'est-ce qui se passe ?
+{76142}{76214}Les animaux utilisés dans ce film
+{76219}{76274}n'ont subi aucune violence,
+{76282}{76362}que ce soit physique|ou psychologique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

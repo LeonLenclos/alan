@@ -1,0 +1,620 @@
+{6}{45}Crie quand vous y êtes.
+{219}{249}Se lever pour ça !
+{258}{327}10 livres pour deux heures|de boulot c'est pas mal !
+{342}{393}De retour pour le petit déj !
+{402}{501}On peut pas le poser aussi ?|Ça ferait un peu plus de fric.
+{516}{573}Il a une autre équipe pour ça.
+{582}{636}- Il a beaucoup d'équipes ?|- Tout plein.
+{645}{699}Une équipe qui découpe,|une qui pose.
+{708}{807}Il a des gars dans tout le pays.|Il bosse beaucoup Dixie.
+{816}{882}Il pourrait se payer|un autre camion !
+{890}{992}Pour y mettre de la terre,|des brouettes et des bêches ?
+{1103}{1184}Putain, ça a repoussé|mes hémorroïdes de 15 jours !
+{2173}{2221}On se dépêche avec les bêches !
+{2230}{2275}- On est où ?|- Au club Con.
+{2284}{2323}Le club Conservateur ?
+{2332}{2380}On va pas voler leur gazon ?
+{2389}{2425}T'es conservateur ?
+{2455}{2482}T'es sûr Dixie ?
+{2491}{2578}Le gardien vit à perpète,|pas de problème. Allez...
+{2587}{2620}Tête en bas,|cul en l'air,
+{2629}{2689}rapidos, on se fait|un peu de pognon.
+{3138}{3198}A partir d'ici en ligne droite,
+{3207}{3270}environ un pied, tu roules ça|comme un tapis.
+{3279}{3330}Par ici dugland.
+{3357}{3408}Par sections,|le plus vite possible,
+{3417}{3465}Deux ou trois brouettes et on file.
+{3714}{3777}Allez, grouille un peu.
+{3986}{4043}C'est débile !
+{4052}{4121}Il est trop tôt pour ça !|Mon pauvre dos !
+{4157}{4226}Ça va trop vite pour vous ?
+{4235}{4271}Va te faire voir.
+{4403}{4460}Roule-les bien, tu veux ?
+{5572}{5626}Enfoirés de communistes !
+{5659}{5716}On dégotte un rouleau|à la casse...
+{5725}{5800}Après il faut juste|de la ficelle, des piquets,
+{5809}{5892}des bêches, une brouette,|un râteau et c'est parti !
+{5901}{5964}- Tout ça ?|- Pour faire du bon boulot.
+{5973}{6021}Faut que je me trouve un camion.
+{6030}{6072}Mets une annonce.
+{6081}{6111}Il me faut le téléphone.
+{6120}{6174}Oui. Dès qu'un client appelle,
+{6183}{6264}je prends les mesures,|on pique le gazon,
+{6273}{6318}on le pose, on est payés !
+{6414}{6453}Faut que ce soit plat.
+{6462}{6519}- Et le gazon ?|- Parcs, cimetières...
+{6528}{6576}Chez les conservateurs !
+{6591}{6675}C'est ce qu'il y a de mieux.|Ça sera plus cher.
+{6684}{6774}Il me faut un camion.|Où on va trouver ça ?
+{7694}{7766}Si tu as un problème|appelle-moi.
+{7796}{7825}Salut Bob.
+{7834}{7876}Mon beau-fils, Bob.
+{7885}{7945}Ken Rider, conseiller municipal.
+{7963}{8044}- T'as encore perdu ?|- Pour la cause ouvrière ?
+{8053}{8089}Bon, j'y vais.
+{8230}{8314}Jimmy, je cherche un camion.|T'as un tuyau ?
+{8323}{8350}Un camion ?
+{8359}{8395}Rien de spécial.
+{8404}{8425}Tu as du fric ?
+{8434}{8515}Ça dépend du prix. Mais|sans camion je ne peux pas bosser.
+{8539}{8611}Attends. On a apporté|une annonce hier.
+{8758}{8794}Voilà.
+{8859}{8916}Elle date d'hier seulement.
+{8955}{9021}Regarde. 260 livres !
+{9033}{9114}Il ne t'arnaquera pas.|Tu connais Cliff, non ?
+{9126}{9198}Petit, porte un bleu|tout graisseux ?
+{9207}{9234}Il habite à Hollins.
+{9243}{9300}Je vais aller voir, merci.
+{9321}{9372}T'as une sale tête tu sais.
+{9381}{9408}Y a pas que la tête.
+{9429}{9480}Combien elle a coûté|cette robe ?
+{9489}{9519}Anne t'a parlé ?
+{9528}{9567}Anne n'a rien dit.
+{9576}{9684}Coleen est venue me raconter,|j'en ai tiré mes conclusions.
+{9693}{9747}Ça a dû coûter une fortune.
+{9768}{9797}Ouais, pas mal.
+{9815}{9848}Je me débrouille.
+{9857}{9893}Je vois ça. Ecoute...
+{9902}{10025}Non ! Je te respecte beaucoup|mais c'est pas tes affaires.
+{10034}{10064}La famille sert à ça.
+{10073}{10133}Je me sortirai du pétrin|tout seul.
+{10148}{10187}Pas avec l'église.
+{10196}{10232}Quoi l'église ?
+{10241}{10292}Tu n'y trouveras pas|de réponses :
+{10301}{10370}elle fait partie du problème.
+{10388}{10505}T'as tes opinions,|moi les miennes. Okay ?
+{10517}{10559}Non. Ce que tu as, c'est peur.
+{10568}{10643}Et cinq "Notre Père"|n'y changeront rien.
+{10652}{10745}Tout ce charabia religieux|ça fatigue l'esprit,
+{10754}{10798}ça empêche de réfléchir.
+{10807}{10888}J'ai pas besoin d'un discours|maintenant.
+{10897}{10984}Ni d'un sermon. T'as besoin|d'un boulot et y en a pas.
+{10993}{11041}Ça c'est nouveau !
+{11053}{11167}Quand t'es un ouvrier il pleut|des pierres sept jours sur sept.
+{11176}{11227}Et elles tombent toutes|sur moi !
+{11236}{11344}Pas seulement ! Tu te traînes|ce truc individualiste
+{11353}{11407}et ça te détruit.
+{11425}{11494}Pourtant je sais|que t'es un bûcheur.
+{11503}{11545}Pour ce que ça m'a servi !
+{11554}{11647}On n'a pas inventé le système|mais c'est à nous de le changer.
+{11656}{11674}C'est quoi ?
+{11683}{11722}Une engueulade !
+{11877}{11916}Putain !
+{11928}{11961}Des junkies.
+{11970}{12015}Elle a pas plus de 15 ans.
+{12024}{12048}Et encore !
+{12060}{12120}- T'as ma bague !|- Non, Ellen.
+{12129}{12180}- Le fric !|- Je dois me shooter !
+{12189}{12243}Tu mens, t'es un menteur !
+{12252}{12330}Faut que je me shoote ce soir.|Tu le sais !
+{12339}{12372}Quel avenir ils ont ?
+{12390}{12447}Un ou deux s'en sortiront
+{12456}{12555}mais pour le reste|c'est tout vu, tout tracé.
+{12564}{12639}Pas de boulot, pas d'espoir.|Le désespoir...
+{12648}{12735}Ils ont que la délinquance,|l'alcool,
+{12744}{12800}la drogue...|les familles se séparent.
+{12827}{12890}Ça pourrait être chouette ici.
+{12899}{12980}On est comme des boxeurs sonnés|qui se tabassent,
+{12989}{13124}au lieu de nous unir et d'être|forts pour changer tout ça.
+{13133}{13226}En bref c'est ça. Le reste|c'est de la propagande.
+{13328}{13370}Deux gallons aux 100.
+{13379}{13400}Je regarde...
+{13409}{13442}Minute Tommy.
+{13451}{13502}Reste là, je vais voir par là.
+{13526}{13607}Cliff, t'exagères,|regarde la carrosserie !
+{13616}{13634}Quoi ?
+{13643}{13724}Elle est plus ravalée|que Barbara Cartland !
+{13783}{13831}Les pneus sont lisses.
+{13840}{13879}Ils sont rechapés.
+{13888}{13954}Alors on ne voit pas les rainures.
+{13963}{14038}Y a plus de caoutchouc|sur une capote anglaise !
+{14047}{14134}T'en as une grande !|Y a des pneus neufs à l'avant.
+{14143}{14197}Cliff... Je le prends.
+{14221}{14251}On fait comment ?
+{14260}{14299}Tu peux baisser le prix ?
+{14308}{14344}Ça y est !
+{14353}{14422}- Combien de propriétaires ?|- Un seul !
+{14431}{14494}- C'était Ben Hur ?|- Qui c'est ?
+{14503}{14542}Il habite ici ?
+{14602}{14635}C'est moi qui l'achète.
+{14644}{14695}On peut baisser à 200 ?
+{14707}{14740}Allez Cliff.
+{14748}{14772}Comment tu peux...
+{14781}{14817}Il a perdu sa mère.
+{14826}{14934}Moi je vais perdre ma femme|si je le vends à moins !
+{14943}{14961}200 livres.
+{14970}{15042}Non. 260 livres,|un point c'est tout.
+{15051}{15147}Je les ai pas là.|On peut s'arranger ?
+{15201}{15267}Je peux te payer|chaque semaine ?
+{15276}{15378}Tu me donnes la moitié|maintenant ?
+{15390}{15429}Oui, d'accord.
+{15438}{15474}Et 10 livres par semaine.
+{15489}{15552}Tu peux ?|Je ne veux pas d'emmerdes,
+{15561}{15603}si tu dis 10 livres,|je les veux.
+{16397}{16478}Maman,|papa a un nouveau camion.
+{16502}{16571}Je descends le voir.
+{17119}{17155}Regarde ça.
+{17170}{17209}Il est à nous ?
+{17221}{17248}Super, hein ?
+{17257}{17311}Viens voir l'intérieur.
+{17347}{17371}Salut chérie.
+{17380}{17416}Qu'est-ce que t'en dis ?
+{17440}{17473}C'est à nous ?
+{17488}{17533}Oui, pas mal hein ?
+{17545}{17584}Et tu m'as rien dit ?
+{17593}{17677}C'est une affaire, 260 livres.|Fallait la saisir.
+{17724}{17781}Le vendeur c'est un pote.
+{17790}{17898}Je peux payer petit à petit|dès que j'aurai du fric.
+{17907}{17982}Allez, on va enfin|remonter la pente.
+{17991}{18105}Je peux gagner du fric avec ça.|J'ai déjà trouvé un truc.
+{18114}{18201}Un déménagement.|C'est un début.
+{18210}{18312}On va y arriver, on va|s'en tirer avec ça. Alors ?
+{18351}{18393}Faudrait le nettoyer.
+{18402}{18462}Un peu d'huile de coude|et ça ira.
+{18471}{18525}On peut faire un tour ?
+{18534}{18570}Tout à l'heure chérie.
+{18579}{18651}Assieds-toi|et joue avec le volant.
+{18660}{18687}Allez, vas-y.
+{18696}{18743}Mets-toi au volant.
+{18782}{18824}On va gagner des sous.
+{18833}{18860}Génial !
+{19256}{19313}- Salut Gilbert.|- Salut Bob. Ça va ?
+{19322}{19376}- Ça va.|- Mieux maintenant.
+{19385}{19421}Je te comprends.
+{19430}{19442}A plus.
+{19451}{19499}La famille, ça va ?
+{19711}{19735}Petit merdeux !
+{19744}{19783}J'allais vous payer.
+{19804}{19870}J'ai le fric,|j'allais vous payer.
+{19936}{19969}J'ai le fric !
+{19978}{19993}Aboule !
+{20002}{20041}Je l'ai ! Je l'ai !
+{20179}{20221}Attendez !
+{20230}{20305}Quand on emprunte,|on rembourse !
+{20326}{20362}Arrête le tiercé.
+{20392}{20449}On veut ça chaque semaine.
+{20470}{20596}Tu nous dois un max.|Plus de tiercé, je te préviens.
+{20680}{20802}"Femme de ménage à mi-temps.|Le soir. Centre ville."
+{20811}{20874}Ça a l'air bien. C'est où ?
+{20892}{20931}Stretford.
+{20940}{20982}Pas la peine.
+{20991}{21087}Tu perdras tout dans|les transports. Autre chose ?
+{21126}{21177}"Reprenez le travail"...
+{21204}{21246}Je peux m'acheter des frites ?
+{21255}{21309}Ce Sean|il veut toujours des sous.
+{21318}{21342}Merci.
+{21453}{21522}Et rapporte la monnaie !
+{21531}{21612}J'en ai pas pour longtemps,|j'arrive...
+{21767}{21860}"Gagnez votre vie|avec votre machine à coudre.
+{21869}{21938}"Cousez nos capotes|et tabliers de landau."
+{21947}{21968}Ça paie ça ?
+{21983}{22094}C'est souvent en liquide. Moi|je touchais 12 pence par tablier
+{22103}{22208}et avec un peu de discipline,|en une journée de boulot
+{22217}{22265}je gagnais|entre 10 et 12 livres.
+{22277}{22319}C'est ce qu'il me faut.
+{22328}{22370}Il faut travailler vite.
+{22379}{22415}Je couds plus.
+{22424}{22475}Ça revient vite.
+{22505}{22601}Il y a le SAMU|chez Mme Whittaker.
+{22610}{22661}Paraît que c'est une overdose.
+{22726}{22768}Viens, on va voir.
+{23083}{23125}Ça ne m'étonne pas.
+{23134}{23200}Elle a trafiqué le compteur|et elle s'est fait prendre.
+{23209}{23260}Il y a trois semaines.
+{23287}{23326}Oui, c'est dur parfois.
+{23335}{23458}Jeter l'éponge ça ne sert à rien.|Merde, elle a trois gosses.
+{23485}{23581}C'est marrant,|au début on a de grandes idées
+{23590}{23703}puis on réalise que ça ne changera|pas, que ça ne s'améliorera pas.
+{23748}{23826}C'est comme Bob. Quand|est-ce qu'il aura un boulot ?
+{23835}{23928}Tommy cherche depuis si|longtemps qu'il a laissé tomber.
+{24012}{24096}Je vais vivre et mourir ici.|Et qui le saura ?
+{24105}{24171}Au moins t'es pas seule, hein ?
+{24225}{24357}On devrait sortir un soir|nous chercher deux vieux riches.
+{24366}{24393}Tu crois ?
+{24564}{24600}Superbe, non ?
+{24609}{24645}Magnifique.
+{24653}{24692}Une vraie princesse.
+{24707}{24752}Génial.
+{24800}{24839}Allez, tourne-toi.
+{24929}{24974}Marche un peu...
+{25025}{25091}Joins tes mains|comme à la messe.
+{25148}{25184}Elle est superbe.
+{25199}{25244}20, 30, 40...
+{25427}{25496}104 livres.|Je vous donne votre monnaie.
+{25637}{25690}Plus près du bord.
+{25960}{26044}Vous êtes trop loin du bord.
+{26053}{26113}Vous gaspillez trop de tissu.
+{26122}{26197}Restez plus près du bord.
+{26341}{26362}Du calme !
+{26374}{26437}Il faut rester tout près du....
+{26446}{26548}Je ne veux pas de gaspillage.|Vous avez travaillé sur quoi ?
+{26560}{26679}- Des manteaux d'enfant.|- J'imagine le gaspillage.
+{26754}{26856}Rapprochez les bords,|plus serrés.
+{26865}{26916}Levez le pied...
+{26964}{26991}Vous me gênez.
+{27000}{27057}Et moi je suis gêné pour vous.
+{27066}{27174}Regardez ce gaspillage.|On pourrait faire une ceinture.
+{27189}{27225}Ça ira une fois que...
+{27234}{27267}Vous avez une machine ?
+{27276}{27312}Pas encore.
+{27321}{27411}Vous comptez travailler comment,|sans machine ?
+{27420}{27450}J'en louerai une.
+{27459}{27522}Ça me va pas ça...
+{27650}{27719}Bon Dieu, levez le machin.
+{27761}{27803}Non, je suis désolé.
+{27812}{27896}Je suis désolé|mais vous n'y connaissez rien.
+{27905}{27926}J'essaie encore.
+{27935}{28001}Allez, je ne peux pas|vous former.
+{28010}{28046}Donnez-moi une chance.
+{28055}{28163}Allez vous entraîner|avec le tissu d'un autre. Allez.
+{28172}{28205}Chez moi ça ira.
+{28214}{28259}Laissez tomber, allez.
+{28268}{28361}Revenez quand vous aurez|plus d'expérience.
+{28490}{28621}Putain, quelle perte de temps.|Elles n'y connaissent rien.
+{28729}{28852}Bon, j'ai tout ce qu'il faut|pour les mince pies, okay ?
+{28882}{28912}Du pain.
+{28921}{28966}- Combien ?|- Deux pains.
+{28975}{29008}Ça suffira ?
+{29035}{29071}J'en ai déjà.
+{29113}{29140}Du jambon.
+{29161}{29215}Prends du beurre de saumon.
+{29353}{29404}Un grand paquet de chips...
+{29449}{29464}Du coca.
+{29473}{29521}- Et à boire ?|- Quoi ?
+{29530}{29560}Il faut du whisky.
+{29569}{29610}Il ne faut rien.
+{29619}{29673}Si, ton putain de beauf vient.
+{29682}{29772}Ce con de conservateur ne dira|pas qu'on ne boit pas chez moi !
+{29784}{29838}Tu sais comment il est.
+{30258}{30291}Qu'est-ce qu'il y a ?
+{30309}{30342}Rien chérie.
+{30357}{30369}Rien.
+{30378}{30405}Dépêche-toi alors.
+{30414}{30450}A tout à l'heure.
+{30920}{30986}Vous avez un beau gâteau ?
+{31037}{31073}C'est assez gros ?
+{31082}{31130}Oui, c'est parfait.
+{31277}{31340}C'est tout ou t'as fini ?
+{31349}{31397}De la chair à saucisse...
+{31406}{31448}Un petit pari, ça te dit ?
+{31481}{31577}Keith m'a donné deux tuyaux|hier. On mise à deux ?
+{31585}{31630}- Keith ?|- Au pub.
+{31639}{31705}Laisse tomber Keith|et ses paris.
+{31741}{31777}Je suis dans la merde.
+{31786}{31810}Pourquoi ?
+{31840}{31876}Regarde ça.
+{31987}{32059}Oh, bordel de merde mec...
+{32068}{32098}Combien ?
+{32557}{32589}Ça va ?
+{32757}{32802}Tu peux y aller ?
+{32913}{32940}Ton papa est là ?
+{32949}{32967}Non, maman si.
+{32997}{33024}Mme Williams ?
+{33033}{33084}- Qu'est-ce que vous faites ?|- Enchanté.
+{33093}{33138}On rentre pas comme ça...
+{33147}{33192}Ta gueule, bordel !
+{33201}{33270}Ton enculé de mari|me doit du fric !
+{33288}{33324}Vous ne pouvez pas...
+{33333}{33369}Beaucoup de fric.
+{33378}{33417}Vous parlez de Bob ?
+{33438}{33474}Monte voir en haut.
+{33483}{33566}Restez là, je n'ai rien là-haut.|Ne montez pas !
+{33578}{33614}Sortez !
+{33644}{33668}Il est où ?
+{33692}{33713}Il est où ?
+{33722}{33767}Je ne sais pas !|Dites-lui...
+{33776}{33803}Il me doit du fric.
+{33836}{33899}Crois-moi,|vous êtes pas dans la merde.
+{33920}{34013}Il a emprunté 150 livres.|Regarde, c'est marqué.
+{34037}{34082}Il est sorti, d'accord ?
+{34091}{34139}Il a emprunté 150 livres.
+{34160}{34190}Ta gueule !
+{34199}{34247}Apparemment
+{34256}{34346}c'était pour une robe|de communion de petite fille.
+{34355}{34397}La petite sans doute ?
+{34430}{34472}Quatre paiements puis rien.
+{34481}{34493}Sortez.
+{34502}{34538}Il a disparu.
+{34547}{34651}Mais moi je ne marche pas !|J'ai racheté sa dette.
+{34660}{34675}Il est sorti.
+{34684}{34750}Le fric il me le doit à moi.
+{34759}{34810}Et moi on me paie.
+{34828}{34900}Moi je ne suis pour rien|dans ce truc.
+{34909}{34993}Ça fait 285 livres en tout.
+{35002}{35044}Dites-lui de...
+{35053}{35122}285 livres s'il te plaît.
+{35131}{35197}Mais... je n'ai pas 285 livres.
+{35206}{35224}T'as combien ?
+{35233}{35248}Rien.
+{35257}{35278}Allez...
+{35287}{35314}J'ai rien.
+{35323}{35359}Tu dois avoir du fric ici.
+{35368}{35404}Mais arrêtez-le.
+{35419}{35452}Arrêtez là-dedans.
+{35461}{35494}Rien en haut Ted ?
+{35503}{35547}Il démolit ma cuisine.
+{35556}{35586}Rien là-haut ?
+{35595}{35631}Que dalle.
+{35646}{35691}Fais voir tes doigts.
+{35721}{35763}Fais voir tes doigts !
+{35784}{35799}Pourquoi ?
+{35808}{35841}Tes mains, putain !
+{35850}{35901}Montre-moi tes mains !
+{35952}{35985}Enlève tes bagues.
+{36003}{36051}Enlève tes bagues.
+{36072}{36111}C'est mon alliance.
+{36120}{36153}Jolie la petite...
+{36162}{36207}Laissez-la et sortez !
+{36216}{36273}Tu veux qu'elle reste jolie ?
+{36282}{36375}Elle le restera si tu poses|tes bagues sur la table.
+{36384}{36408}C'est pas juste.
+{36432}{36474}Enlève-les !
+{36483}{36542}Sinon il te les enlève !
+{36551}{36614}Enlève-les et pose-les là !
+{36698}{36734}C'est pas vrai.
+{36746}{36779}Où est ton fric ?
+{36788}{36848}- On n'a rien.|- Tu dois en avoir, merde.
+{36857}{36920}On n'a rien, on est fauchés.
+{36929}{36950}Magnétoscope ?
+{37013}{37052}Où est ton sac ?
+{37064}{37088}Je ne sais pas.
+{37097}{37145}Où est ton sac ?
+{37154}{37178}Ici Tansey.
+{37187}{37277}Arrêtez...|Sortez s'il vous plaît.
+{37286}{37328}Sortez de ma maison...
+{37352}{37385}Ouvre-moi ça.
+{37394}{37433}Ouvre et donne-moi le fric.
+{37463}{37496}Sors le fric.
+{37511}{37540}Sors le fric !
+{37549}{37597}Je n'ai rien dans mon sac.
+{37606}{37681}Putain, c'est moi|qui vous fais vivre !
+{37690}{37798}C'est mon fric qui paie tout ça.|Donne-moi du fric.
+{37807}{37837}J'en ai pas.
+{37846}{37921}Ouvre-moi ce putain de sac.|Fais voir.
+{37951}{37975}C'est quoi ?
+{37984}{38005}C'est quoi ça ?
+{38020}{38059}Sors-moi ça !
+{38068}{38098}Sors ça !
+{38107}{38119}Pourquoi ?
+{38128}{38164}Donne-le-moi.
+{38188}{38206}Donne !
+{38215}{38251}Mon livret d'allocs !
+{38266}{38338}Je reviendrai avec|tous les lundis !
+{38350}{38440}Et tu peux dire|à ton enfoiré de mari
+{38449}{38553}que s'il ne paie pas on le trouve|et on lui arrache les couilles !
+{38562}{38583}Je fais quoi ?
+{38592}{38649}Puis je te défoncerai le cul.
+{38658}{38688}Tu piges, bordel ?
+{38697}{38724}Non, pitié !
+{38733}{38778}On ne se fout pas de nous !
+{38907}{39006}Merde, dis-lui|qu'on reviendra, bordel !
+{40813}{40837}Anne !
+{41029}{41083}Pourquoi tu ne m'as rien dit ?
+{41092}{41122}A propos de quoi ?
+{41146}{41206}T'as emprunté l'argent, hein ?
+{41215}{41290}Tu ne l'as pas gagné au tiercé,|tu l'as emprunté.
+{41314}{41362}Je suis désolé chérie.
+{41434}{41467}Je suis désolé.
+{41493}{41511}Me touche pas !
+{41520}{41541}Raconte...
+{41613}{41715}Ils nous ont vraiment menacés,|t'aurais dû les voir.
+{41724}{41769}Ils ont dit quoi ?
+{41931}{42009}Ils ont dit|que Coleen était jolie,
+{42042}{42120}est-ce qu'on voulait|qu'elle le reste ?
+{42129}{42168}Mon Dieu, je suis désolé.
+{42219}{42276}C'est de ta faute.
+{42291}{42414}Ils ont dit qu'ils allaient|revenir me défoncer le cul.
+{42459}{42482}Ecoute...
+{42491}{42578}T'avais pas le droit Bob,|t'avais pas le droit !
+{42632}{42680}Ecoute, je me débats|comme je peux
+{42689}{42764}pour m'en sortir.|Je suis désolé.
+{42773}{42815}Tu nous fous dans la merde.
+{42842}{42905}C'est de ma faute...
+{43061}{43106}Appelle les flics...
+{43115}{43226}Les flics nous prennent déjà|pour des minables.
+{43235}{43298}Merde, n'y va pas.
+{43337}{43361}Qu'est-ce que tu fais ?
+{43370}{43406}Reste là.
+{43594}{43603}Maman !
+{43612}{43639}C'est Coleen.
+{43717}{43771}Putain, qu'est-ce qui se passe ?
+{43780}{43885}Bon Dieu, quel bordel.|Qu'est-ce qui vous arrive ?
+{43903}{43972}Ça va ma grande ? Ça va ?
+{44083}{44134}Ils ne t'ont pas fait mal ?
+{44239}{44275}... l'alliance de maman.
+{44284}{44362}Hein maman ?|Ils ont pris ton alliance.
+{44401}{44437}Quoi d'autre ?
+{44449}{44502}Ils m'ont poussée
+{44511}{44592}et ils ont pris le livret|d'allocations de maman.
+{44601}{44709}On range la cuisine|et on refait des gâteaux
+{44718}{44760}pour la fête ? Tu veux ?
+{44829}{44862}- Où tu vas ?|- Je sors.
+{44871}{44916}Fais pas le con.
+{44967}{44988}Fais pas le con.
+{44997}{45030}Dégage, bordel !
+{45039}{45060}Arrête !
+{45069}{45093}Ils sont trop forts.
+{45102}{45156}Je vais régler ça|à ma manière !
+{45165}{45228}Fais pas le con. Pense à elles.
+{45237}{45285}Je vais régler ça à ma façon !
+{45357}{45399}Laisse tomber mec !
+{46447}{46531}City a encore perdu,|ils sont nuls.
+{51267}{51330}Laisse-moi venir.
+{51410}{51437}On prend un taxi.
+{51680}{51752}Tansey, allez ! Viens avec nous.
+{51764}{51803}Je m'en vais.
+{51812}{51890}Je pars. Allez-vous-en !
+{51899}{52004}M'emmerdez pas.|Amusez-vous bien, je m'en vais.
+{52013}{52073}A plus, occupez-vous d'elle.
+{52082}{52103}A plus.
+{52112}{52148}Bonne nuit !
+{53985}{54015}Tansey !
+{54045}{54081}Qui c'est ?
+{54090}{54120}Qu'est-ce que tu fous là ?
+{54129}{54159}Tu es passé.
+{54216}{54261}Tu as terrorisé ma famille.
+{54270}{54300}De quoi tu parles ?
+{54309}{54342}Tu le sais.
+{54350}{54380}Tu me dois du fric.
+{54389}{54440}Je suis venu pour ça.|Approche.
+{54479}{54494}C'est comme ça ?
+{54503}{54572}Avec des salauds|de ton espèce, oui.
+{54596}{54617}Allez, viens.
+{54626}{54680}Tu vas avoir besoin|de quelqu'un.
+{54689}{54755}Pour t'aider à te sortir|de cette merde.
+{54764}{54782}Approche.
+{54791}{54833}Qui t'aide financièrement.
+{54842}{54896}Je m'occuperai de toi.
+{54911}{54971}Tu fais chier. Reviens...
+{55238}{55292}Je veux le carnet|où il y a mon nom !
+{55301}{55334}Tu es un homme mort !
+{55342}{55363}Je le suis déjà.
+{55372}{55459}Ce que je n'ai pas tu ne peux pas|me le prendre. Le carnet !
+{55468}{55510}Enfoiré de mes deux !
+{55519}{55570}Le carnet avec mon nom !
+{55588}{55621}Je le veux !
+{55741}{55813}Demain pauvre enculé,
+{55822}{55933}je vais te faire la peau|et tringler ta femme !
+{56038}{56074}Salaud !
+{56323}{56364}Salaud !
+{57162}{57195}Le carnet...
+{59520}{59556}Je suis dans le pétrin.
+{59565}{59595}Comment ça ?
+{59622}{59646}Entre.
+{60045}{60093}Qu'est-ce qu'il y a Bob ?
+{60117}{60156}Qu'est-ce qui s'est passé ?
+{60216}{60267}Assieds-toi.
+{60482}{60512}Qu'est-ce qu'il y a ?
+{60524}{60584}Je suis dans un pétrin terrible.
+{60599}{60635}Quel genre ?
+{60644}{60710}Je suis responsable|de la mort d'un homme.
+{60782}{60803}Tu l'as tué ?
+{60812}{60875}Non, c'était un accident.
+{60884}{60926}Je ne voulais pas.
+{60944}{60998}Il s'appelle Tansey.
+{61016}{61058}Ce requin d'usurier !
+{61151}{61199}Vous vous êtes battus ?
+{61271}{61312}A propos de quoi ?
+{61360}{61393}D'argent.
+{61426}{61468}Tu lui en avais emprunté ?
+{61492}{61573}Non, j'avais emprunté|à une société de prêts
+{61582}{61699}mais je n'arrivais pas à rembourser|et Tansey a racheté mes dettes.
+{61708}{61795}C'est ce qu'il fait.|Les dettes et la drogue.
+{61804}{61846}On me l'avait dit.
+{61855}{61885}Combien ?
+{61900}{61936}150 livres.
+{61960}{62020}Pour la robe de Coleen ?
+{62056}{62107}C'était la seule façon.
+{62119}{62203}Je te croyais plus raisonnable.
+{62260}{62319}Attends une minute.
+{63374}{63431}J'ai pris ça dans sa poche.
+{63470}{63512}Qu'est-ce que c'est ?
+{63524}{63575}Son carnet avec tous les noms.
+{63584}{63641}L'argent que les gens|lui doivent.
+{63650}{63737}S'ils ne payent pas|il leur brise les jambes.
+{63746}{63803}On l'appelle l'Encaisseur.
+{63833}{63905}Je bous à l'intérieur parfois,|je me fâche,
+{63914}{63989}- mais je suis un bosseur.|- Je le sais.
+{63998}{64115}Tous les matins|je vais chercher du boulot.
+{64151}{64288}Je suis un bon catholique,|je vais à la messe, je prie,
+{64297}{64372}mais ça ne met pas à manger|sur la table.
+{64432}{64474}C'est arrivé quand ?
+{64483}{64507}Il y a une heure.
+{64519}{64564}Il est toujours dans la voiture ?
+{64573}{64603}Autant que je sache.
+{64612}{64660}Quelqu'un d'autre|est au courant ?
+{64675}{64705}Juste nous ?
+{64792}{64852}Qu'est-ce que tu vas faire Bob ?
+{64861}{64948}Aller à la police,|quoi d'autre ?
+{64957}{65056}Mais je ne veux pas qu'ils|le disent à Anne et Coleen.
+{65065}{65125}Je veux que ce soit vous|mon père.
+{65134}{65200}Moi je ne peux pas.
+{65277}{65319}Pourquoi le faire ?
+{65367}{65409}Le dire à Anne.
+{65424}{65448}Tansey est mort.
+{65457}{65499}Rien à branler de Tansey !
+{65520}{65610}Que Dieu ait pitié de son âme.|Tu ne l'as pas tué.
+{65619}{65649}Non. C'était un accident.
+{65658}{65700}Oui, un accident.
+{65718}{65829}Pourquoi sacrifier ta liberté|et le bonheur de ta famille ?
+{65850}{65973}Pleins de braves gens de la cité|dormiront mieux
+{65982}{66015}parce qu'il est mort.
+{66030}{66099}Ils avaient peur de lui|mon père.
+{66174}{66254}Tu es venu me demander|aide et conseil.
+{66275}{66338}Ne va pas voir la police.
+{66347}{66431}Rentre et prie|pour l'âme indigne de Tansey.
+{66440}{66521}Ne dis rien à Anne|ni à personne.
+{66563}{66617}Et on se débarrasse de ça.
+{67160}{67220}Tu n'es pas|un méchant homme Bob.
+{67234}{67318}Les gens comme toi|ont faim de justice.
+{67327}{67453}Au nom du Christ notre Sauveur,|vous la méritez.
+{67501}{67555}Je vais écouter ta confession.
+{67921}{68023}Au nom du Père et du Fils|et du Saint-Esprit. Amen.
+{68092}{68179}Pardonnez-moi mon père|parce que j'ai péché...
+{68194}{68238}Par là, dans le coin...
+{68322}{68400}Rassemblez-vous par ici|s'il vous plaît.
+{68610}{68655}Allez, tous ensemble.
+{68664}{68712}Un peu plus par là.
+{68745}{68817}Approchez-vous. Montrez le bébé.
+{68835}{68868}Arrête.
+{68877}{68976}Je sais que tu n'as pas envie|d'être là mais dis rien.
+{69162}{69206}Il y a un problème ?
+{69266}{69299}Tu sais, pour Tansey ?
+{69308}{69365}Il s'est planté en voiture ?
+{69374}{69425}Planté ? Il est raide mort, oui.
+{69434}{69521}- C'est arrivé comment ?|- Il a foncé dans un mur.
+{69530}{69593}- Beurré ?|- Complètement défoncé !
+{69602}{69644}Dommage, il était sympa.
+{69653}{69665}M.Williams,
+{69674}{69719}regardez l'appareil.
+{69728}{69773}Souriez !|On dirait le retour
+{69782}{69830}des morts vivants !
+{69914}{69950}M.Williams !
+{70016}{70055}Bob, arrête.
+{70082}{70124}Regardez l'appareil.
+{70133}{70169}A trois un grand sourire.
+{70873}{70930}La veille de sa passion
+{70939}{70999}Il prit du pain
+{71008}{71095}et levant les yeux vers vous,|son Père tout-puissant,
+{71104}{71155}Il vous rendit grâce.
+{71167}{71199}Puis Il rompit le pain
+{71208}{71286}et le donna à ses disciples|en disant :
+{71301}{71373}"Prenez et mangez-en tous
+{71388}{71499}"car ceci est mon corps|qui sera livré pour vous."
+{71766}{71835}A la fin du repas|Il prit la coupe,
+{71844}{71901}vous rendit grâce,
+{71910}{71952}la donna à ses disciples
+{71961}{71991}en disant :
+{72006}{72084}"Prenez et buvez-en tous,
+{72093}{72147}"car ceci est la coupe|de mon sang,
+{72156}{72227}"le sang de l'alliance nouvelle|et éternelle
+{72236}{72308}"qui sera versé pour vous|et pour l'humanité
+{72317}{72368}"en rémission des péchés."
+{72713}{72785}M.Robert Williams habite ici ?
+{72794}{72812}Il n'est pas là.
+{72833}{72878}Il revient quand ?
+{72887}{72938}Je ne sais pas. Pourquoi ?
+{72953}{73055}Il a un camion vert immatriculé|BRJ 536Y ?
+{73064}{73106}Oui, mais on l'a volé.
+{73115}{73201}On l'a retrouvé.|Il est à la fourrière.
+{73210}{73273}Vous pouvez lui dire|de venir le chercher ?

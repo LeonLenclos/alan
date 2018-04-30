@@ -12,6 +12,9 @@ class Justification(AlanLogicAdapter):
         questions
         A list of strings. the question that must be answered with this adapter.
 
+        can_process_string
+        The string that must be in the question to process
+
         default_response
         A list of strings. possible response when no response has been found.
         """
@@ -25,6 +28,14 @@ class Justification(AlanLogicAdapter):
         if type(self.questions) != list:
             raise TypeError("questions must be a list")
 
+        # Getting questions
+        try:
+            self.can_process_string = kwargs['can_process_string'].lower()
+        except KeyError:
+            raise KeyError('can_process_string is a required argument')
+        if type(self.can_process_string) != str:
+            raise TypeError("can_process_string must be a str")
+
         # Getting default responses
         try:
             self.default_responses = kwargs['default_responses']
@@ -35,7 +46,8 @@ class Justification(AlanLogicAdapter):
 
     def can_process(self, statement):
         # Process only if there is a latest statement in the conversation
-        return self.chatbot.storage.count()>0
+        return (self.chatbot.storage.count() > 0
+                and self.can_process_string in statement.text.lower())
 
     def process(self, statement):
 

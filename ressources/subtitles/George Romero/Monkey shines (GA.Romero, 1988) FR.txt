@@ -1,0 +1,805 @@
+{458}{542}L'UNIVERSITÉ DE BOSTON DRESSE|DES SINGES À AIDER DES HANDICAPÉS.
+{547}{640}LES SINGES DU FILM ONT ÉTÉ DRESSÉS|SELON LA MÊME TECHNIQUE.
+{649}{707}MALGRÉ LA VIOLENCE|DE CERTAINES SCÈNES,
+{715}{755}AUCUN MAL NE LEUR A ÉTÉ FAIT.
+{2770}{2811}Linda ?
+{2818}{2864}Je vais courir.
+{4300}{4343}Bonjour.
+{4450}{4490}Salut !
+{5765}{5803}Il pionce ?
+{5808}{5851}Super, on peut se moquer de lui !
+{5855}{5929}Martha, son cul|est encore plus poilu que le tien.
+{5937}{5997}- Très drôle.|- Personne ne rit ?
+{6005}{6091}Cette équipe n'a aucun sens de l'humour.
+{6097}{6176}Il s'est mangé un pick-up.
+{6182}{6261}Sa cinquième cervicale est touchée|avec dislocation partielle.
+{6268}{6316}Lésion de la moelle épinière.
+{7472}{7621}Le Dr Fletcher est attendu|aux soins intensifs.
+{8054}{8080}John !
+{8088}{8206}C'est adorable|d'avoir trouvé le temps de venir.
+{8213}{8299}Les amis, écoutez tous !
+{8308}{8435}Pour ceux qui ne le connaissent pas|voici le Dr John Wiseman,
+{8443}{8522}le génie qui a sauvé la vie d'Allan.
+{8578}{8624}À la vôtre !
+{8648}{8723}- Dr Wiseman...|- Voici le Dr Fry.
+{8728}{8769}Je m'appelle Esther Fry.
+{8775}{8857}C'est l'un des professeurs de droit d'Allan.
+{8862}{8963}- Nous nous demandions...|- Si Allan peut poursuivre ses études.
+{8973}{9038}Oui. Mais en aura-t-il envie ?
+{9043}{9146}On verra ça plus tard.|Aujourd'hui est un jour de fête.
+{9155}{9256}Tu parles d'une fête !|Charlie Cunningham.
+{9262}{9375}- Enchanté.|- Je suis... J'étais son entraîneur.
+{9432}{9478}Excusez-moi une seconde.
+{9653}{9759}- Vous tenez le coup ?|- Ça va.
+{9768}{9802}Tant mieux.
+{9843}{9949}Je vais me refaire une beauté,|Allan va arriver.
+{10300}{10391}Le voilà ! Taisez-vous.
+{10400}{10534}Il est là.|On va lui faire la surprise. Silence !
+{10583}{10629}- Bon courage.|- Merci.
+{10633}{10743}Allan, te voilà !
+{10890}{10923}Un, deux, trois...
+{10930}{10969}Surprise !
+{11167}{11249}À Allan et au début de sa nouvelle vie !
+{11483}{11529}Salut ma belle.
+{11635}{11702}- Ça fait un bail.|- Je sais.
+{11755}{11844}J'aurais dû passer plus souvent|à l'hôpital.
+{11851}{11906}Désolée.
+{11975}{12079}Si vous lui serviez un verre ?|Un double scotch.
+{12088}{12189}- J'ai le droit ?|- Je vous le prescris.
+{12423}{12502}Pas un verre normal,|il faut ce verre-ci.
+{12563}{12695}Jamais de glaçons.|Et on coupe l'alcool avec de l'eau.
+{12858}{12894}Maryanne Hodges.
+{12900}{12991}Votre mère m'a engagée|pour m'occuper de vous.
+{13106}{13142}Merci.
+{13370}{13476}Ici Geoffrey. Je ne suis pas là|mais laissez-moi un message
+{13486}{13529}et je vous rappellerai.
+{13558}{13628}Geoffrey, où tu es passé ?
+{14005}{14051}TISSU HUMAIN
+{14255}{14305}Salut les enfants !
+{14313}{14364}Papa a une surprise pour vous.
+{14615}{14721}Mesdames et messieurs,|un cerveau humain !
+{14968}{15079}Échantillon prélevé|sur le cortex temporal.
+{15086}{15163}Donneuse anonyme,|pas d'anomalie apparente.
+{15238}{15313}Salut n°6 ! Viens par là.
+{15338}{15374}Voilà.
+{15406}{15447}Enfin libre !
+{15545}{15598}Laisses-en à papa, d'accord ?
+{15868}{15966}Petite seringue, donne-moi encore|une nuit sans sommeil.
+{16001}{16101}Le sommeil est une perte de temps,|pas vrai n°6 ?
+{16255}{16317}Abracadabri, abracadabra.
+{16353}{16449}Je fais chauffer et puis voilà !
+{16561}{16633}Là tu es censée devenir un génie.
+{16699}{16782}Ça y est. Je sais que ça pique.
+{16789}{16880}Mais c'est toujours mieux|que la jungle, pas vrai ?
+{16966}{17057}Va écouter les messages.|Ne fais pas ta mauvaise tête !
+{17066}{17138}Bouge-toi ou tu es privée de dessert.
+{17293}{17339}Bravo. C'est bien.
+{17346}{17470}- Geoffrey, c'est le doyen Burbage.|- Ça roule taré ?
+{17478}{17552}On est le 6.|Vous avez oublié notre rendez-vous.
+{17558}{17683}- Apparemment.|- Venez me voir demain.
+{17690}{17791}Tu peux crever !|On est le 6 ?
+{17797}{17879}Geoffrey, où tu es passé ?
+{17922}{17978}Bon sang Allan !
+{18636}{18667}Entre !
+{19463}{19511}Ça roule champion ?
+{19516}{19592}Ça a changé chez toi.|Je reconnais à peine.
+{19598}{19708}- C'est mon attirail de handicapé.|- À toi les super places de parking !
+{19715}{19785}Avec un joli dessin|de chaise roulante dessus.
+{19793}{19910}- Maman a dû payer ça une fortune.|- Tu rembourseras quand tu seras avocat.
+{19920}{19982}T'as une sale tronche.|Tu te shootes encore ?
+{19991}{20070}C'est tout l'intérêt|de bosser dans un labo.
+{20076}{20208}J'ai fait mes calculs: Avec trois nuits|sans sommeil je gagne 24 heures.
+{20216}{20274}Ça fait 122 jours par an.
+{20281}{20370}Même en mourant à 50 ans|j'aurai vécu 65 ans.
+{20479}{20611}Pardon pour la fête.|Linda m'a appelé, elle avait l'air furax.
+{20686}{20736}Elle va me plaquer.
+{20783}{20867}Elle ne me l'a pas dit mais ça se voit.
+{20963}{21102}Il faut juste qu'elle s'y fasse. Ça viendra.
+{21151}{21220}Si elle part,|elle peut aller se faire foutre.
+{21228}{21276}Pas par moi.
+{21618}{21712}Regarde, tu es avec les petits Palmer.
+{21721}{21791}Patterson.|Ils s'appelaient Patterson.
+{21796}{21875}C'est vrai.|Je n'ai pas la mémoire des noms.
+{21896}{21949}Regarde, c'était leur maison.
+{21956}{22023}Tu te souviens quand ils ont déménagé ?
+{22028}{22083}C'est moi qui ai vendu leur maison.
+{22091}{22216}Tu m'en as voulu. Tu as cru|qu'ils partaient à cause de moi !
+{22316}{22407}Maryanne ! Ça ne me plaît pas|cet oiseau qui se balade.
+{22414}{22490}- Bogie, vilain !|- Bogie ?
+{22525}{22607}Quand il parle|on dirait Humphrey Bogart.
+{22613}{22685}- Poupée.|- Vous voyez ?
+{22693}{22854}Regarde Halloween !|Tu refusais de mettre ce costume.
+{22865}{22976}Tu voulais un costume de robot|comme... Qui ça déjà ?
+{22983}{23065}Je voulais être Robby le robot.
+{23133}{23186}Mon vœu a fini par être exaucé.
+{23549}{23587}Putain !
+{23774}{23819}Bordel de merde !
+{23824}{23939}À quoi vous jouez ?|Tirez-vous bande de crétins !
+{23949}{23982}Et merde.
+{24024}{24084}- Où est le vigile ?|- À bas l'expérimentation animale !
+{24091}{24163}- Assassin !|- Tortionnaire !
+{24169}{24255}Bien visé... pauvres cons.
+{24359}{24414}- Ça va ?|- Encore en retard.
+{24421}{24478}Désolé. Pas vu le temps passer.
+{24484}{24536}Où en êtes-vous ?
+{24581}{24680}Samuels m'a donné le cerveau|d'une fille morte sur le billard.
+{24688}{24777}J'en ai tiré une préparation|que j'ai injectée à une guenon.
+{24786}{24923}Et ça marche ? La guenon|est devenue plus intelligente ?
+{24933}{25048}Difficile à dire.|Elle était déjà douée.
+{25056}{25116}C'est stupéfiant.
+{25125}{25259}Aussi absurde que les tests|sur les vers de terre mais plus cher.
+{25269}{25376}- Mes travaux ne coûtent rien.|- Le temps c'est de l'argent.
+{25384}{25475}Votre programme|doit produire des résultats.
+{25481}{25544}Nos bailleurs de fonds s'inquiètent.
+{25597}{25654}Je vous ai vu dans trois émissions de télé
+{25659}{25738}défendre la cause de la vivisection.
+{25747}{25838}Vos travaux nous mettent à dos|les amis des bêtes.
+{25846}{25928}C'est ça qui perturbe|les bailleurs de fonds, pas moi.
+{25933}{25986}On n'a pas la même vision des choses.
+{25991}{26085}Hélas pour vous,|c'est moi qui dirige ce département.
+{26094}{26221}- Alors virez-moi.|- Je ne veux pas vous virer.
+{26228}{26319}- Je veux des résultats.|- Vous ne pouvez pas me virer.
+{26326}{26448}Le seul chercheur prometteur de cette fac
+{26455}{26503}c'est moi.
+{26589}{26639}Désolé. Ça va passer.
+{26693}{26796}J'ai le cul sur un siège éjectable|et toi aussi.
+{26803}{26851}Alors sois brillante.
+{26932}{26980}Ça devrait marcher.
+{26984}{27047}En théorie y a pas de lézard.
+{27074}{27172}Tu devrais jouer aux échecs|avec la dose que je te file.
+{27182}{27251}T'es à moitié humaine, bordel !
+{27291}{27394}Pourquoi ça ne se voit pas ?|Monte.
+{27481}{27541}Ces crétins doivent te tirer vers le bas.
+{27546}{27627}Je devrais peut-être te faire sortir d'ici.
+{27974}{28005}Trois.
+{28151}{28194}Quatre.
+{28348}{28382}Cinq.
+{28619}{28655}Sept.
+{28690}{28735}Et merde, huit !
+{29109}{29143}Six.
+{29916}{30016}Je te pique une bière.|T'en veux une ?
+{30541}{30599}Tofranil, même dosage ?
+{30604}{30731}Non. Quatre par jour pendant deux jours|puis deux par jour.
+{30772}{30827}Qu'est-ce que vous comptez faire ?
+{30844}{30887}Je ne sais pas.
+{30894}{30993}Je prévoyais|de rentrer dans l'Illinois mais...
+{31039}{31087}Je ne peux plus partir.
+{31124}{31174}- Si jamais...|- S'il récidive ?
+{31179}{31270}Votre présence n'empêchera rien,|on l'a vu aujourd'hui.
+{31303}{31368}C'est peut-être difficile à comprendre,
+{31374}{31457}mais votre présence|aggrave peut-être les choses.
+{31464}{31565}- Les aggrave ?|- Retournez dans l'Illinois.
+{31573}{31619}Reprenez le travail.
+{31623}{31729}Ce sera mieux pour vous et pour Allan.
+{31739}{31827}Il s'en sortira.|Il fait une dépression.
+{31834}{31946}Le Tryptizol n'a pas suffi,|je passe au Tofranil.
+{31985}{32030}Allan Mann.
+{32035}{32164}C'est courant.|Six tétraplégiques sur dix font une tentative.
+{32174}{32227}Et vous vous le shootez au Tofranil !
+{32234}{32299}Vous avez vu Wiseman ?
+{32304}{32345}Il est juste ici.
+{32457}{32524}C'est Allan.|Il a essayé de se tuer.
+{32529}{32575}Tu n'étais pas au courant ?
+{32579}{32673}- Alors pourquoi tu es là ?|- On avait rendez-vous.
+{32714}{32814}Ça m'en bouche un coin.|C'est quoi votre profil clinique ?
+{32824}{32915}Salopard chronique ?|Traître compulsif ?
+{32924}{33003}- Je t'en prie.|- Espèce de traînée pathologique !
+{33281}{33362}Scooter, on y va.|À boire. À boire !
+{33386}{33450}Couche le bébé. À boire.
+{33456}{33518}Pas pour le bébé, pour moi.
+{33551}{33608}Bravo. Ouvre.
+{33614}{33679}Change. Bravo.
+{33684}{33751}Bravo. Change. Ouvre.
+{33757}{33833}Ouvre. Bravo. Paille.
+{33840}{33902}Bravo.
+{33910}{33960}On a de la visite.
+{33967}{34024}Allez, dans la cage. Bravo.
+{34032}{34121}Monte dans ta cage.|Allez ma puce.
+{34187}{34254}Oui, bravo !
+{34577}{34680}- Bonjour, je suis Melanie.|- Geoffrey Fisher. Enchanté.
+{34686}{34792}- C'est magnifique chez vous.|- Merci. J'ai de la chance.
+{34799}{34890}- On entre ou on reste dehors ?|- Restons dehors.
+{34897}{35017}Mais je risque de m'évanouir:|Je ne suis plus habitué à l'oxygène.
+{35024}{35125}Vous dressez vos singes|seulement pour des tétraplégiques ?
+{35131}{35218}Pas le temps de faire autre chose,|j'ai beaucoup de demandes.
+{35224}{35363}Comme je vous l'ai dit au téléphone,|j'ai un ami qui a le profil.
+{35374}{35498}Il y a beaucoup de candidats|et mes singes sont déjà attribués.
+{35507}{35636}Et si j'apportais le singe ?|Un singe de mon labo.
+{35645}{35712}Il faut une guenon.|Les mâles sont trop sales.
+{35720}{35794}Ils urinent pour marquer leur territoire.
+{35802}{35955}Oui, je le sais par expérience !|Là c'est une guenon.
+{35965}{36101}Si vous fournissez l'animal|je dois juste trouver le temps.
+{36110}{36215}- J'ai de l'argent. Peu mais...|- J'ai une bourse.
+{36224}{36274}C'est juste un problème de temps.
+{36279}{36382}Dresser un singe prend du temps.
+{36389}{36490}Cette guenon a été bien préparée.|Elle est très douée.
+{36496}{36604}Elle sait déjà faire beaucoup de choses.
+{36662}{36717}Ça semble trop beau pour être vrai.
+{36766}{36855}Elle est normale ?|Elle n'a rien subi de bizarre au labo ?
+{36861}{36960}Non. Elle a un suivi médical|au jour le jour. Tout va bien.
+{37252}{37339}Champion, j'ai une fille à te présenter.
+{37347}{37446}J'espère|que tu ne la trouveras pas trop poilue.
+{37532}{37601}Mon Dieu ! Va-t'en sale petit...
+{37845}{37945}Melanie Parker. Vous êtes Allan ?|J'aurais pu deviner remarquez.
+{37954}{38002}C'est quoi cette histoire ?
+{38006}{38064}Elle est tout à toi. Cadeau.
+{38069}{38139}Sérieusement, tu m'offres un singe ?
+{38144}{38238}- Comment je m'en occuperai ?|- C'est elle qui s'occupera de toi.
+{38244}{38331}Elle sait faire plein de trucs.|Melanie l'a dressée.
+{38339}{38394}C'est parti... Regarde.
+{38424}{38474}- Bravo.|- Merci.
+{38559}{38605}Elle cherche sa récompense.
+{38609}{38684}Je fixerai un distributeur sur votre fauteuil.
+{38689}{38735}- C'est quoi son nom ?|- N°6.
+{38739}{38785}C'est nul comme nom.
+{38789}{38890}C'est un capucin femelle.|Je l'appelle Ella.
+{38899}{38955}C'est déjà mieux.
+{38999}{39105}- Melanie. Vous êtes l'infirmière ?|- C'est ma croix.
+{39112}{39189}Vous m'aidez ?|J'ai un camion à décharger.
+{39289}{39376}Je l'ai fait sortir en douce du labo.
+{39382}{39497}Officiellement elle est morte.|Personne ne le sait, même pas Melanie.
+{39505}{39579}Si tu pouvais garder le secret|ça m'arrangerait.
+{39759}{39867}J'aimerais bien jouer avec toi|mais je ne peux pas.
+{39939}{40018}- Qu'est-ce que vous en pensez ?|- Ça va marcher du tonnerre.
+{40464}{40529}- Elle a mis la musique !|- Elle a bon goût.
+{40536}{40593}Elle a mis la cassette toute seule.
+{40600}{40660}Regardez Maryanne: C'est trop drôle !
+{40665}{40737}- Elle est propre ?|- À peu près.
+{40745}{40819}Elle fera dans sa cage ou aux WC.|Elle tire la chasse.
+{40827}{40899}Mais vous marcherez des fois|dans quelque chose.
+{40907}{40979}Au moins ça ne risque pas de m'arriver !
+{40985}{41064}S'il plaisante là-dessus|c'est qu'il va mieux !
+{41322}{41374}Ne vous levez pas pour moi.
+{41380}{41512}Joli modèle.|Avec ça vous allez tomber les filles.
+{41522}{41581}Ça va être facile à installer.
+{41605}{41655}Va-t'en de là.
+{41825}{41870}Je vous embête ?
+{41877}{41949}- Vous préférez sortir du fauteuil ?|- Non.
+{41954}{42029}On a beaucoup de travail devant nous.
+{42064}{42131}- Au secours !|- Elle y va un peu fort ?
+{42136}{42247}- Un peu.|- On va voir ça. Donne.
+{42254}{42336}- On y va tout doucement.|- Là, c'est bien.
+{42342}{42404}Là, c'est moi !
+{42437}{42511}- Le point rouge lui sert de signal.|- Pour faire quoi ?
+{42518}{42628}Ce que vous voulez,|elle est votre esclave. Allons-y.
+{42689}{42754}Dirigez le point rouge sur la baguette.
+{42829}{42877}Voilà, c'est bien.
+{42884}{42925}- Apporte.|- Dans ma bouche.
+{42929}{42997}Dans la bouche. Bravo.
+{43004}{43074}- Récompensez-la. Soufflez.|- Je sais !
+{43124}{43192}Bravo. Ouvre la boîte.
+{43231}{43284}Change Ella.
+{43344}{43392}Bravo.
+{43410}{43474}Un clic sur la gauche puis soufflez.
+{43535}{43597}Et la lumière fut !
+{44200}{44270}Merci Ella. À table !
+{44435}{44488}J'aimerais manger un vrai plat.
+{44514}{44613}Des nachos, un chinois, un Big Mac...
+{44619}{44705}Ça me changerait de la tambouille|de ma garde-chiourme.
+{44784}{44852}Quel est votre plat préféré ?
+{44859}{44926}Mon plat préféré ? Des pâtes.
+{44934}{45021}Des linguine aux palourdes.|Avec une tonne d'ail.
+{45029}{45101}- Je vous en ferai peut-être.|- Promis ?
+{45107}{45200}Non, pas promis.|Si l'occasion se présente.
+{45207}{45264}Vous n'aimez pas promettre.
+{45320}{45372}Quoi ?
+{45730}{45775}Va chercher.
+{45935}{46010}Bravo. Je sais, c'est lourd.|Tu vas y arriver.
+{46033}{46112}Vas-y, accroche-toi.
+{46120}{46194}Rassure-toi:|C'est pas rigolo pour moi non plus.
+{46202}{46255}Je préfère encore les gosses.
+{46305}{46413}Bravo, double récompense !|Triple parce que c'était dur.
+{46457}{46549}Maryanne, vous deviez|remettre des biscuits !
+{46787}{46907}Et moi je l'aurai quand ma récompense ?
+{46937}{46985}À votre mort vous irez au paradis.
+{47057}{47134}Je devrais lui mettre|de la mort-aux-rats.
+{47139}{47197}Où sont ses fichus biscuits ?
+{47349}{47395}Ça alors !
+{47750}{47839}Qu'est-ce que tu fiches ?|Je bosse là !
+{47845}{47905}Arrête !
+{47972}{48011}Qu'est-ce que tu fiches ?
+{48030}{48082}Arrête !
+{48222}{48280}Rallume et donne-moi ma baguette.
+{48390}{48435}Je ne vois rien.
+{48467}{48568}Pousse-toi de là.|Qu'est-ce que tu veux ?
+{48687}{48785}Je vais y arriver ma belle.|Je retournerai à la fac.
+{48824}{48937}Si je m'y mets à fond|je devrais y arriver.
+{48944}{49014}Tu ne veux pas qu'on aille à la fac ?
+{49178}{49231}Je sais.
+{49301}{49372}Tu n'aimes pas ma barbe ?
+{49378}{49469}Moi non plus.|On va la raser.
+{49490}{49569}Plus de barbe.|C'est d'accord ?
+{49632}{49695}Je sais. Je t'aime aussi.
+{49882}{49954}Ça tu ne sais pas le faire.
+{49962}{50029}- Elle s'amuse.|- Vous la gâtez.
+{50037}{50164}Ça me fait plaisir.|Elle a vraiment tout changé dans...
+{50175}{50235}Je sais.
+{50240}{50295}Non, vous ne savez pas.
+{50327}{50399}- Vous ne pouvez pas savoir.|- Ne bougez pas.
+{50435}{50543}Elle fait tant de choses pour moi !|On dirait qu'elle y tient.
+{50592}{50630}Regardez.
+{50682}{50735}Vous n'êtes plus le même homme.
+{50918}{50997}Vous n'allez pas arrêter de venir|j'espère ?
+{51006}{51090}Maintenant que le dressage d'Ella|est terminé
+{51095}{51141}ne disparaissez pas.
+{51168}{51242}Je ne disparaîtrai pas.|Je passerai.
+{51276}{51343}Désolée. J'ai dû vous couper.
+{51347}{51457}- Ce n'est rien.|- Va-t'en !
+{51523}{51564}Ne vous en faites pas.
+{51820}{51880}- Ça va ?|- Très bien.
+{51914}{52046}- Tu nous présentes ?|- C'est Ella, ma petite amie.
+{52275}{52435}Le 12 juin 1984, la Cour suprême|a cassé l'arrêt rendu en appel
+{52445}{52543}dans une affaire|concernant la ville de Memphis.
+{52573}{52614}La Cour suprême a dit quoi ?
+{52816}{52876}Regardez !
+{52983}{53072}M.Mann, c'est votre amie qui répond
+{53077}{53125}ou c'est vous ?
+{53131}{53270}La Cour a dit que l'ancienneté|des employés devait prévaloir
+{53281}{53350}sur les droits|liés à la discrimination positive.
+{53675}{53719}Ça mord ? Remontez-le !
+{53810}{53927}- C'est ma faute.|- C'est le destin.
+{53962}{54034}Au moins on a eu une touche.
+{54060}{54156}Ce n'est pas la bonne saison.|On reviendra une autre fois.
+{54162}{54224}- Promis ?|- Promis.
+{54259}{54327}- Je vous ai arraché une promesse.|- C'est vrai !
+{54458}{54515}- Vous avez froid ?|- Un peu.
+{54523}{54576}Levons le camp.
+{54841}{54920}- La classe !|- Chaque carte compose un numéro.
+{54928}{55047}Ella les insère.|Elle reconnaît déjà les cartes.
+{55055}{55120}- Tu déconnes ?|- Celles que j'utilise souvent.
+{55127}{55223}Téléphone Ella.|Allez, téléphone.
+{55230}{55273}Appelle Geoffrey.
+{55350}{55391}Geoffrey Ella.
+{55655}{55770}- Ne me dis pas que...|- Si !
+{55778}{55854}Tu es là donc pourquoi t'appeler ?
+{55905}{55984}- Impossible.|- Sors une minute.
+{55990}{56081}- Tu rigoles !|- Tu en auras le cœur net.
+{56224}{56351}Il est parti.|Appelle Geoffrey, allez !
+{56515}{56597}Rentre ! Elle l'a fait.
+{56605}{56711}Elle est incroyable.|On dirait une humaine.
+{56721}{56809}Ici Geoffrey. Je ne suis pas là|mais laissez-moi un message.
+{56815}{56889}Tout ça pour tomber sur un répondeur !
+{56895}{56931}Allô ?
+{56978}{57042}Qui est-ce ?|C'est vous Burbage ?
+{57091}{57148}Pourquoi vous êtes dans mon labo ?
+{57363}{57461}- Qu'est-ce qui se passe ?|- Rien.
+{57470}{57527}Tu as des soucis ?
+{57535}{57634}Toujours pareil.|Mon chef met son nez partout.
+{57663}{57751}- Ça t'ennuie si je te pique une bière ?|- Non, vas-y.
+{57809}{57905}Ella, tu viens picoler avec moi ?|Allez, viens.
+{57961}{58028}Burbage est un crétin.
+{58125}{58185}Tu deviens un petit génie.
+{58225}{58378}Tu t'épanouis ici.|Ma potion magique fonctionne enfin.
+{58435}{58529}- Qu'est-ce qu'il y a ?|- Rien, elle s'est coincé la main.
+{58560}{58635}Ella, arrête !
+{58667}{58708}Qu'est-ce qui se passe ?
+{58950}{59005}Qu'est-ce que tu lui fais ?
+{59836}{59918}- Vous êtes allé dans mon labo !|- "Votre" labo ?
+{59923}{59981}Pourquoi vous avez trois serrures ?
+{59988}{60087}Je sais que tous les chercheurs|sont paranos mais...
+{60116}{60200}- Bon sang !|- Il y a deux méthodes.
+{60205}{60274}La carotte et le bâton.
+{60281}{60401}Je préfère le bâton.|Ça ressemble plus à la vraie vie.
+{60433}{60505}La peur de la noyade par exemple
+{60510}{60611}aide les rongeurs à se concentrer.
+{60620}{60730}- Vous êtes sadique.|- Réaliste. Pas de cigarette ici.
+{60755}{60835}Assez bavassé.|Je suis passé pour vous dire...
+{60842}{61017}En faisant l'inventaire|j'ai vu qu'un de vos singes était mort.
+{61030}{61081}Celui qui recevait des piqûres ?
+{61085}{61188}Non, un autre. D'ailleurs|j'attends encore qu'on me le remplace.
+{61195}{61325}Je veux d'abord un descriptif écrit|de vos expériences.
+{61333}{61369}Vous me tuez.
+{61376}{61438}Mes travaux vous font ricaner,
+{61444}{61528}mais vous mourez d'envie de savoir|ce que je fabrique.
+{61533}{61610}J'aurais dû voir passer|le singe qui est mort.
+{61615}{61692}Pour l'autopsie ? Je sais.|Je vous l'ai envoyé.
+{61701}{61756}Jamais reçu.|Vous l'avez envoyé comment ?
+{61788}{61860}Par un étudiant.|Vous me faites perdre mon temps.
+{61866}{61931}Retournez faire joujou avec votre scalpel.
+{61935}{62072}Vous pouvez jeter vos clés de mon labo,|j'ai changé les serrures.
+{62083}{62121}Les trois.
+{62458}{62530}Bon sang, allez-y doucement !
+{62536}{62588}Faites votre boulot correctement.
+{62595}{62696}J'en ai marre de vos insultes.|Vous n'êtes plus le même.
+{62706}{62801}- Je bosse comme une folle.|- Cet endroit est une porcherie !
+{62808}{62885}Vous ne changez pas la cage d'Ella|et ne la nourrissez pas.
+{62891}{62975}On est ici chez nous.|Vous êtes payée pour y bosser.
+{62981}{63048}Quand vous glandez|c'est normal qu'on s'énerve.
+{63054}{63116}C'est qui "on" ?
+{63121}{63190}- Ella et moi.|- C'est ce que je craignais.
+{63196}{63282}C'est pas normal|vos rapports avec ce singe.
+{63291}{63399}C'est qu'une sale bête sournoise.
+{63431}{63539}Si cette maison est une porcherie|c'est à cause d'elle.
+{63549}{63623}Maryanne, revenez !
+{64823}{64869}Bonté divine !
+{65111}{65171}Débarrassez-vous de cet oiseau.
+{65196}{65239}Sinon je...
+{65246}{65291}Vous ferez quoi ?
+{69203}{69268}La science est affaire de mesures.
+{69316}{69361}De mesures précises.
+{69396}{69523}Pour pouvoir reproduire les expériences.
+{69593}{69713}Voyons si ça vous rend|aussi malins que votre sœur.
+{71040}{71062}Onze.
+{71176}{71272}Mon chéri !|Personne ne m'ouvrait, je m'inquiétais.
+{71338}{71424}Maman, je ne m'attendais pas...
+{71430}{71512}Je sais, j'aurais dû te prévenir.
+{71522}{71644}Mais tu m'aurais dit de ne pas venir.
+{71651}{71740}Quelle importance ?|Je suis là, on est réunis !
+{71926}{72015}- Je peux le faire.|- Pas question ! J'adore ça.
+{72021}{72088}Je te ferai de bons petits plats, tu veux ?
+{72096}{72209}- Laissez tomber, c'est un ingrat.|- Retrouvez Ella, je m'inquiète.
+{72216}{72346}J'ai laissé la porte ouverte.|J'espère qu'elle n'est pas sortie.
+{72356}{72488}- Elle doit encore se cacher au grenier.|- Elle s'y réfugie pour vous échapper !
+{72496}{72580}Vous avez tué mon Bogie !
+{72621}{72666}Vous divaguez !
+{72670}{72757}Pas avec ses mains.|Son petit démon l'a fait pour lui.
+{72766}{72905}- Ella était dans sa cage.|- N'empêche que vous l'avez fait.
+{72913}{73026}Tous les deux.|Maintenant Bogie est mort !
+{73051}{73164}Mort de vieillesse ou tué par un rat.
+{73191}{73306}Ou écrasé par votre pied|dans la pantoufle. On s'en fout.
+{73331}{73384}Il méritait de mourir.
+{73389}{73463}Il ne l'a pas volé.
+{73983}{74046}Ça me gêne.|Je préfère que Maryanne le fasse.
+{74053}{74159}Je ne t'ai jamais vu nu peut-être ?
+{74189}{74369}De toute façon pas le choix.|Maryanne s'en va.
+{74378}{74462}- Pendant ton séjour tu veux dire ?|- Non: Elle démissionne.
+{74471}{74564}Elle m'a appelée la semaine dernière|pour me le dire.
+{74571}{74619}La semaine dernière ?
+{74766}{74838}- Salope !|- Ce n'est rien.
+{74845}{74908}Ça tombe au bon moment.
+{74914}{74996}Sa décision m'a aidée|à prendre la mienne.
+{75002}{75064}Je n'avais que trop tardé.
+{75071}{75110}Quelle décision ?
+{75114}{75172}J'espère que tu l'approuveras.
+{75177}{75302}Je vends ma boîte|et la maison de Lake Forest.
+{75311}{75364}Tu comptes t'installer ici ?
+{75391}{75516}C'est la seule solution.|Mais je ne t'embêterai pas.
+{75524}{75601}Je sais que tu tiens à ton intimité.
+{75631}{75782}Mais je serai là pour t'aider|chaque fois qu'il le faudra.
+{75866}{75938}Maman, ma main a bougé !
+{75969}{76015}- Tu as vu ?|- Je t'en prie...
+{76019}{76081}Tu as vu ma main bouger oui ou merde ?
+{76086}{76218}Non. Il n'y a rien à voir.|Ta main ne peut pas bouger.
+{76248}{76330}Ton attitude ne me plaît pas du tout.
+{77107}{77186}Qu'est-ce qu'il y a ? Tu veux quelque chose ?
+{77219}{77310}Non maman. Ça va.
+{77316}{77446}- Envie d'aller aux toilettes ?|- Ça va, laisse-moi.
+{77514}{77576}Laisse-moi.
+{77859}{77969}Tu sais sortir de ta cage, pas vrai ?|Tu sais sortir de la maison !
+{79159}{79205}Petite coquine !
+{79278}{79370}Rien. Elle n'a aucun moyen de sortir.
+{79378}{79436}Elle revient mouillée et boueuse.
+{79444}{79516}Moi aussi, regarde:|Le grenier est sale.
+{79523}{79586}Le toit fuit depuis des années.
+{79594}{79694}Ella sort de la maison|par le grenier ou autrement.
+{79702}{79764}Et je la suis.
+{79768}{79900}J'ai de drôles de rêves.|Des expériences plutôt.
+{79911}{79971}Comme si j'habitais son corps.
+{79976}{80065}Courant avec sa force,|voyant avec ses yeux.
+{80096}{80209}- Comme si on s'interpénétrait.|- Impossible, tu le sais bien.
+{80219}{80315}Non, je ne le sais pas.|C'est possible puisque ça se produit.
+{80322}{80380}Ce serait de la télépathie.
+{80387}{80454}Une fusion de vos esprits ? Arrête !
+{80461}{80593}Vous avez des liens étroits|mais pas paranormaux !
+{80602}{80662}C'est impossible. Ça n'existe pas.
+{80666}{80769}Allan, vous allez bien ?|Est-ce que je dois m'inquiéter ?
+{80779}{80889}Ça va.|Mon imagination me joue des tours.
+{81126}{81222}Ma main a bougé|mais Wiseman dit que c'est impossible.
+{81229}{81322}Un deuxième avis médical s'impose|dans un cas aussi grave.
+{81328}{81393}Même avec le brillant Dr Wiseman.
+{81399}{81485}- Vous ne semblez pas l'adorer.|- Il est arrogant.
+{81491}{81602}- Ça le pousse à l'erreur.|- Il s'est trompé pour Allan ?
+{81609}{81714}Je ne sais pas. Mais vous semblez|avoir un problème congénital.
+{81723}{81783}Cette lésion est due à l'accident.
+{81790}{81881}Wiseman l'a réparée|et il semble l'avoir bien fait.
+{81890}{82000}Mais votre paralysie a une autre cause.|Vous voyez ça ?
+{82010}{82096}Cette anomalie ne semble pas liée|à un traumatisme.
+{82105}{82169}Si c'est elle qui est en cause,
+{82177}{82314}la paralysie pouvait se déclarer|à n'importe quel moment.
+{82425}{82513}Sans l'accident les médecins|auraient trouvé la vraie cause.
+{82519}{82619}Là ils vous ont vu|comme un accidenté classique.
+{82629}{82771}S'il s'était creusé la tête|et s'il avait vu l'anomalie...
+{82809}{82881}- Il aurait pu me soigner ?|- Vous vous le pouvez ?
+{82886}{82949}Ce n'est pas une science exacte.
+{82956}{83031}Je devrai vous faire des tests|avant de pouvoir répondre.
+{83172}{83248}Wiseman, espèce de salopard !
+{83288}{83382}Petit connard arrogant !
+{83389}{83430}S'il m'a fait ça...
+{83449}{83590}S'il m'a fait subir tout ça|par incompétence...
+{83599}{83681}- La colère ne règle rien.|- Fils de pute !
+{83715}{83768}Espèce de taré ! Si je pouvais...
+{83774}{83870}Je ne comprends pas:|Vous oubliez la bonne nouvelle.
+{83879}{83961}Il y a un espoir et pas un espoir vain.
+{83969}{84046}Les choses peuvent s'arranger.
+{84137}{84199}Je trouve que vous changez.
+{85109}{85164}- Secrétariat du Dr Wiseman.|- Il est là ?
+{85172}{85265}Il reviendra lundi.|Il a pris des congés.
+{85273}{85320}Il faut que je lui parle.
+{85325}{85445}- Si c'est une urgence...|- C'en est une.
+{85455}{85524}Il a laissé un numéro où le joindre.
+{85532}{85587}C'est JL-5...
+{85595}{85660}...9-7-2-9.
+{85665}{85790}- Vous avez déjà ce numéro ?|- Oui, je l'ai déjà.
+{86782}{86827}Personne au bout du fil.
+{86882}{86932}J'ai horreur de ça.
+{86987}{87033}Ça me fait toujours peur.
+{89422}{89505}Mon Dieu, tous les deux ?
+{89537}{89635}Ils étaient ensemble ? Mon Dieu !
+{89642}{89711}Qu'est-ce que je vais dire à Allan ?
+{89719}{89858}Allan est là.|Merci d'avoir appelé.
+{89866}{89917}Il y a eu un drame.
+{89922}{89970}- Il y a eu...|- Un incendie.
+{90284}{90384}- Emmène-la.|- Ça ne peut pas être Ella.
+{90395}{90510}Elle l'a fait. Pour moi.|C'était ce que je voulais.
+{90518}{90609}Tu as voulu qu'ils meurent|dans un accès de colère, c'est normal.
+{90618}{90663}Ils s'étaient foutus de toi.
+{90668}{90775}Il se trouve qu'ils meurent|et tu te sens responsable.
+{90784}{90887}Ce n'était pas un accès de colère,|j'ai pensé à des moyens de les tuer.
+{90895}{91053}Y compris l'incendie.|Je savais que le chalet brûlerait vite.
+{91207}{91308}- Là, c'était vous ou elle ?|- Elle. Elle prend des initiatives.
+{91332}{91440}J'ai peur de ce qu'elle peut faire|si elle lit...
+{91447}{91504}Si elle lit quoi ?
+{91532}{91587}Je suis dévoré par la colère.
+{91639}{91702}J'ai de drôles de pensées.
+{91732}{91821}Comme si tout mon ressentiment|remontait à la surface.
+{91827}{91913}Une envie de faire mal, de pécher...
+{91950}{92009}C'est exactement ça: De pécher.
+{92036}{92096}Je brûle d'envie de pécher.
+{92148}{92256}- Si Ella le sent...|- Aucun d'entre vous n'a mis le feu.
+{92262}{92380}D'instinct tous les animaux|craignent les flammes.
+{92605}{92703}Elle est guidée par l'instinct|ou par sa connaissance du feu ?
+{92712}{92762}Bon, d'accord !
+{92807}{92941}Je l'emmène au labo|pour lui faire des tests.
+{92950}{93043}Mais je doute de trouver|des traces de péché dans son urine.
+{93297}{93357}- Désolé.|- Pas grave.
+{93476}{93575}- Ne la ramène pas.|- Je te recontacte lundi.
+{94195}{94317}Vous pourriez rester ici ce soir.|Tout le week-end même.
+{94350}{94401}Ça vous ferait changer d'air.
+{94407}{94515}Comment vous feriez ?|Rien que pour me sortir du lit...
+{94523}{94623}Dans la grange j'ai tout l'équipement.
+{94632}{94728}Vous aurez assez chaud,|j'ai plein de couvertures.
+{94750}{94867}On tâchera de tout oublier|pendant deux jours.
+{94877}{94947}- D'accord ?|- J'essaierai.
+{94982}{95047}J'essaierai vraiment. Mais...
+{96004}{96064}Je me sens redevenir normal.
+{96095}{96160}À chaque minute qui passe|la rage s'éloigne.
+{96167}{96297}Chaque minute passée avec moi|ou loin d'Ella ?
+{96308}{96344}Les deux.
+{96449}{96502}Au lit ?
+{96907}{96950}Pardon.
+{100007}{100069}Tu as un QI de chercheur.
+{100113}{100180}Alors que tes copains|se pissent encore dessus.
+{100197}{100324}Vous recevez tous le même dosage.|La différence c'est Allan.
+{101168}{101223}Bon sang ! Tu en veux ?
+{101732}{101785}Tu ne te plains pas ?
+{101845}{101905}J'ai fait de toi une junkie.
+{102018}{102133}Qu'est-ce que j'ai fait d'autre ?|Ce produit te permet d'entrer en Allan ?
+{102378}{102433}Encore sept flacons de potion magique.
+{102508}{102656}C'est pas vrai n'est-ce pas,|toutes ces choses dont Allan t'accuse ?
+{102666}{102747}Je sais que tu sors de la maison
+{102778}{102845}mais tu ne peux pas les avoir tués.
+{102993}{103058}J'hésite. J'ai des doutes.
+{103065}{103178}Le mouvement de votre main|n'était pas volontaire.
+{103213}{103278}Opérer la colonne vertébrale|est dangereux.
+{103285}{103415}Sans autre signe positif|je déconseille de courir le risque.
+{103422}{103494}- Quel signe positif ?|- Un mouvement volontaire.
+{103500}{103624}Un mouvement délibéré,|même juste d'un doigt ou d'un orteil.
+{103633}{103719}Un signe de ce genre et je vous opère.
+{104067}{104110}- Bonjour.|- Où tu étais passé ?
+{104118}{104187}- À la fac.|- Je te parle de ce week-end.
+{104196}{104256}Je t'ai appelé une dizaine de fois.
+{104263}{104323}On n'avait pas envie de décrocher.
+{104328}{104407}N'entre pas. J'ai pas envie d'une scène.
+{104413}{104475}- À demain.|- Arrête !
+{104480}{104538}Moi je ne veux pas de bobards.
+{104590}{104652}Bonjour ! Ça va comme vous voulez ?
+{105310}{105344}Burbage !
+{105467}{105513}Bon sang, il l'a pris !
+{105545}{105593}Il a piqué le sérum.
+{105760}{105808}Salopard !
+{106016}{106076}Burbage n'apprendra rien.
+{106083}{106148}Vous êtes trop bêtes,
+{106153}{106206}il va faire chou blanc.
+{106263}{106366}Mais toi tu as des choses à m'apprendre.
+{106426}{106474}Encore un flacon de potion magique.
+{106510}{106635}Le dernier.|Mais cette fois c'est pour moi.
+{106642}{106719}Si ce truc te fait entrer|dans la tête d'Allan
+{106725}{106788}il me fera entrer dans la tienne.
+{107062}{107110}Bon...
+{107150}{107270}On y va, on établit le contact.
+{107298}{107348}De toi à moi.
+{107352}{107506}Montre-moi ce que tu penses.|Montre-moi ce que tu sais faire.
+{107680}{107760}- Des nouvelles de Geoffrey ?|- Pourquoi j'en aurais ?
+{107766}{107898}- Ella est avec lui.|- Qu'il se la garde !
+{107905}{108006}Je lui ai dit de la garder.|Elle ne reviendra pas.
+{108016}{108076}Elle a embêté cette fille, c'est ça ?
+{108083}{108198}Elle a embêté Melanie|et elle t'a dit de t'en débarrasser ?
+{108208}{108290}Tu es à ses pieds.
+{108298}{108382}Arrêtons cette guéguerre.
+{108390}{108510}Je n'ai pas été très agréable|ces derniers temps.
+{108547}{108636}Je vais me corriger.|Tu pourrais faire pareil ?
+{108642}{108719}Pourquoi je me corrigerais ?|Je n'ai rien fait.
+{108728}{108790}À part m'inquiéter pour toi,|comme toujours.
+{110293}{110362}Au sujet de Melanie...
+{110411}{110487}Tu dois me soutenir, pas me décourager.
+{110543}{110639}Quel que soit mon état de santé|et même si je reste handicapé,
+{110647}{110712}je veux que ça marche entre nous.
+{110742}{110817}- Je respecte tes choix.|- Tu parles !
+{110822}{110906}T'es trop névrosée pour...
+{111018}{111064}Elle est là.
+{111071}{111131}Ella est dans la maison.
+{111136}{111249}Tu as vraiment un problème.|Tu perds la tête.
+{111256}{111354}Elle est là, je le sens.|Elle me remplit de...
+{111361}{111430}- Pour l'amour du ciel...|- Il y a du danger.
+{111465}{111559}Ma façon d'agir, mes colères...|Ça vient d'elle.
+{111569}{111619}Elle les fait remonter à la surface.
+{111626}{111722}Qu'est-ce que tu racontes ?|À quoi tu joues ?
+{111728}{111805}Si tu veux que je m'en aille|tu n'as qu'à le dire.
+{111813}{111906}- Épargne-nous ces bobards.|- S'il te plaît, arrête !
+{111916}{112031}Ne me mets pas en colère,|je ne me maîtrise plus !
+{112150}{112227}Si c'est Melanie|dis-lui qu'Ella est ici.
+{112236}{112310}Dis-lui de venir tout de suite.
+{112378}{112461}- Allô ?|- Mme Mann, ici Melanie Parker.
+{112468}{112535}- Je pourrais parler à Allan ?|- Il prend son bain.
+{112543}{112607}Il pourrait me rappeler|quand il aura fini ?
+{112615}{112697}Il va se coucher.|Rappelez-le dans la journée.
+{112946}{113051}Pardon de t'avoir crié dessus.|J'ai peur.
+{113059}{113128}J'ai peur pour toi maman.
+{113134}{113227}S'il y a une chose|que tu dois comprendre, c'est ça.
+{113234}{113298}J'ai compris.
+{113306}{113424}Tu as été très clair.|Je me voilais la face, c'est tout.
+{113433}{113536}Sais-tu seulement|combien tu m'as fait pleurer ?
+{113543}{113660}Sais-tu combien|tu m'as coupée du monde ?
+{113731}{113841}- Je t'ai tout sacrifié.|- Je t'ai rien demandé.
+{113851}{113935}Tu te fous de moi et des autres.
+{113940}{113998}Tu es trop absorbée par ton nombril.
+{114003}{114123}Ta vie n'est qu'un trou noir béant
+{114130}{114231}dans lequel tu as toujours essayé|de m'entraîner.
+{114237}{114307}Je ne le supporte plus.
+{114312}{114372}Je ne supporte plus tes conneries.
+{114379}{114472}Tu n'es qu'une sale manipulatrice,|une sangsue.
+{114806}{114858}Tu mérites ce qui va t'arriver.
+{114901}{114994}Je te déteste.
+{115093}{115153}Tu as entendu ?
+{117093}{117182}Maman, tu m'entends ?
+{117248}{117313}Ferme ta porte. À clé.
+{118214}{118266}Tu m'entends ?
+{119073}{119124}Geoffrey, Ella est ici !
+{119608}{119673}- Pourquoi il fait noir ?|- Les plombs ont dû sauter.
+{119681}{119719}Je m'inquiète pour ma mère.
+{119862}{119910}Qu'est-ce que ?
+{120179}{120258}- Qu'est-ce qu'il y a ?|- Je ne sais pas.
+{120266}{120352}- Sans doute un court-circuit. Ça va ?|- Monte voir ma mère.
+{120359}{120407}Je reviens.
+{120463}{120519}Ella n'est pas dans ta chambre ?
+{120591}{120636}Je ne crois pas.
+{122298}{122409}C'est moi. Je les ai tués.
+{122476}{122571}- Tous.|- Tu en es incapable.
+{122579}{122735}Je suis le fruit|de 5000 ans de civilisation.
+{122783}{122839}Mais si je cessais d'être civilisé ?
+{122870}{122990}Si j'étais un animal,|libre de suivre mon instinct ?
+{123039}{123128}C'est ça le Diable. C'est l'instinct.
+{123164}{123209}L'instinct animal.
+{123264}{123309}Il est en nous.
+{123356}{123419}Avec ses propres règles.
+{123474}{123541}La loi de la jungle.
+{123549}{123628}Tu n'y es pour rien.|C'est ma faute.
+{123654}{123754}J'ai modifié ses gènes|avec un produit expérimental.
+{123763}{123919}- Ne me dis pas ça.|- Je n'ai pensé qu'à mon travail.
+{123929}{123976}Ne me dis pas ça.
+{123981}{124115}Tu disais qu'elle était normale|même quand je m'inquiétais.
+{124124}{124234}Je suis le cobaye d'une expérience|depuis le début ?
+{124244}{124313}Au début je voulais juste t'aider.
+{124319}{124436}C'était quoi ton expérience ?|Tu lui as fait quoi ?
+{124446}{124508}Et à moi ?
+{126717}{126784}- Tu l'as vue ?|- Elle n'est pas revenue.
+{126792}{126878}- Le grenier !|- On devrait appeler du secours.
+{126885}{126944}- J'y arriverai.|- Appelons du secours !
+{127963}{128016}Ella, décroche le téléphone.
+{128021}{128084}Décroche Ella !
+{128091}{128139}Non, décroche !
+{128166}{128200}Arrête !
+{128207}{128274}Ne fais pas ça !
+{128295}{128340}Sale petite...
+{128464}{128529}Elle est ici. Elle est en bas !
+{130150}{130212}Non, enfuis-toi et appelle de l'aide !
+{131902}{131935}Merde !
+{133295}{133355}Elle m'a eu.
+{133400}{133445}J'ai toujours eu la main lourde.
+{133484}{133566}J'en avais mis assez pour tuer King Kong.
+{133627}{133677}Le téléphone, prends le téléphone !
+{133684}{133763}Attrape le téléphone,|on appellera du secours.
+{133770}{133856}Je suis désolé, vraiment.
+{133879}{133965}Le téléphone ! On appellera l'hôpital.
+{133972}{134082}Je dois aller à l'hôpital,|pas le temps de traîner.
+{134092}{134171}Tu ne peux pas conduire.|Prends le téléphone bon sang !
+{134179}{134296}- Faut que j'y aille.|- Le téléphone bordel !
+{134464}{134560}Attention aux flacons de potion magique...
+{135375}{135404}Sept.
+{135430}{135504}Onze !
+{136112}{136170}Non sale bête !
+{136214}{136248}Onze !
+{136399}{136502}Tu as fait sauter les plombs ?|Espèce de...
+{136678}{136772}Arrête !
+{136858}{136927}Tu ne peux pas m'avoir|avec tes manœuvres.
+{136967}{137063}Tu ne peux pas me faire de mal:|Je fais partie de toi.
+{138077}{138122}Tu veux commander ?
+{138169}{138249}Tu veux être la tête en plus des jambes ?
+{138286}{138348}C'est moi la tête.
+{138379}{138432}Tu ne me battras pas à ce jeu.
+{138440}{138498}Pourquoi ? Parce que je suis un humain.
+{138525}{138652}Je sais tricher, mentir, être sournois.
+{138685}{138743}Je suis prêt à tout sale bête.
+{138750}{138819}Prêt à tout pour ne pas y passer.
+{138922}{138982}J'ai une idée.
+{138987}{139062}Mets-nous de la musique, ça sera sympa.
+{139182}{139252}Bravo. Musique.
+{139417}{139522}Le courant.|Il faut du courant pour la musique.
+{139530}{139618}Le compteur est dans la cuisine. Vas-y.
+{139719}{139848}Trop futée pour tomber dans le panneau ?|Pas grave.
+{139866}{139991}On verra plus tard.|Et si on mangeait ?
+{140052}{140119}J'ai faim. Manger.
+{140124}{140172}Bravo. Vas-y.
+{140709}{140753}Par ici !
+{140779}{140827}Par ici !
+{140847}{140914}À l'aide !
+{140940}{140985}S'il vous plaît !
+{141062}{141115}D'accord.
+{141135}{141231}D'accord, plus de coups tordus.
+{141539}{141599}Tu n'as donc pas peur des flammes.
+{142440}{142497}Merci. Ça suffit.
+{142909}{142945}Si on sortait ?
+{143000}{143045}Sortons, courons.
+{143079}{143113}Jouons.
+{143120}{143184}Comme avant. Allez, ma belle !
+{143220}{143277}Sors. Va-t'en.
+{143312}{143413}Emmène-moi, allez !
+{144440}{144504}Mel, non ! Va-t'en !
+{145102}{145157}Va-t'en, non !
+{145840}{145936}- Ça va ? Qu'est-ce qui s'est passé ?|- Va-t'en.
+{145943}{146041}- Où est Geoffrey ?|- Il n'est pas là.
+{146047}{146126}- J'ai vu sa voiture.|- Pars, je vais te faire du mal.
+{146135}{146214}Je ne supporterais pas|de te faire du mal. Pars !
+{146428}{146500}- Pars, vite !|- Qu'est-ce que...
+{146624}{146660}Arrête !
+{147128}{147176}- Qui a fait ça: Elle ou toi ?|- Elle.
+{147183}{147284}C'est ça. Pas toi.|Tu es innocent comme l'agneau.
+{147740}{147829}Allez, réveille-toi !
+{147990}{148048}Arrête. Dégage de là !
+{148072}{148116}Dégage saloperie !
+{148122}{148197}Arrête. Laisse-la !
+{148202}{148252}Va-t'en. Arrête !
+{148460}{148525}Allez, réveille-toi !
+{148610}{148663}S'il te plaît Mel.
+{148800}{148836}Bas les pattes !
+{149056}{149094}Arrête.
+{149185}{149228}Ne me touche pas.
+{149450}{149496}Saloperie.
+{149553}{149598}Espèce d'ordure.
+{149653}{149703}Je vais te massacrer.
+{149740}{149804}Je vais t'arracher les yeux.
+{149848}{149929}Je vais t'ouvrir en deux|et te bouffer le cœur.
+{150429}{150472}Allez, réveille-toi !
+{150480}{150555}Il faut te réveiller.
+{150616}{150673}Ella, donne-moi cette seringue.
+{150703}{150770}Apporte. Allez !
+{150775}{150921}Je croyais qu'on allait être copains.|Qu'on allait sortir jouer.
+{151147}{151188}Allez.
+{152363}{152411}Viens par là ma belle.
+{152466}{152519}Quelle belle musique !
+{152523}{152617}Monte sur mes genoux. S'il te plaît.
+{152750}{152801}Viens.
+{152805}{152884}Approche.|Viens contre moi.
+{153015}{153071}Tu ne m'aimes pas ? Moi je t'aime.
+{153100}{153234}Bravo. Serre-toi contre moi.
+{153245}{153288}Tout contre moi.
+{153363}{153396}Allez.
+{155000}{155055}Il est prêt.|Tension normale.
+{155628}{155748}Ce n'est rien.|Tu as fait un cauchemar.
+{155756}{155819}Je suis là, avec toi.
+{155836}{155910}L'opération est finie.|Tout va bien.
+{156036}{156117}C'est fini pour de bon ?
+{156126}{156203}Ils m'ont opéré de la colonne ?
+{156233}{156312}Alors ? Je récupère mon corps ?
+{156840}{156897}Monte champion.|On va à la pêche.
+{156955}{157001}Merci.

@@ -1,0 +1,925 @@
+{2841}{2913}Lucky Arrow a pris la tête.|Purple Shadow le suit de près.
+{2927}{3020}A 15 heures 45|ce dernier samedi de septembre,
+{3029}{3113}Marvin Unger était le seul|parmi 100000 spectateurs
+{3119}{3179}à être indifférent à la cinquième course.
+{3185}{3286}Il ne s'intéressait|ni aux chevaux ni aux jeux d'argent.
+{3296}{3389}Pourtant il avait misé|cinq dollars sur chaque partant.
+{3398}{3506}Il savait que cette méthode insolite|lui ferait sûrement perdre de l'argent
+{3516}{3617}mais il se moquait bien|de gaspiller 20 ou 30 dollars.
+{3625}{3709}Une somme bien plus imposante|était en jeu.
+{3716}{3804}- Une limonade s'il vous plaît.|- Ça marche.
+{3887}{3964}Le favori est mal parti,|ça peut tout changer.
+{3973}{4018}Oui, c'est possible.
+{4027}{4097}Il est au guichet des paris à cinq dollars.
+{4125}{4166}504 W.OLIVE STREET, APPT.4B, 20 heures.
+{4195}{4253}- Y a pas foule.|- Ça c'est sûr.
+{4260}{4344}Lucky Arrow et Purple Shadow|courent les derniers 400 yards.
+{4353}{4420}Stopwatch est troisième,|il a pris l'extérieur.
+{4453}{4527}Purple Shadow mène d'une longueur.
+{4533}{4595}Lucky Arrow est juste derrière
+{4601}{4675}suivi par Stopwatch,|toujours à l'extérieur.
+{4680}{4793}Puis Southern Star, Vain Effort, StanleyGabe,|Third Row et Lover's Dilemma.
+{4799}{4888}Lucky Arrow|prend une tête à Purple Shadow
+{4898}{4953}et Stopwatch déboule de l'extérieur.
+{4960}{5092}Les trois chevaux finissent|dans un mouchoir de poche.
+{5256}{5340}Second: Purple Shadow.|Troisième: Lucky Arrow.
+{5347}{5410}Quatrième: Southern Star.
+{5610}{5658}504 W.OLIVE STREET,
+{5663}{5711}APPT.4B,
+{5716}{5752}20 heures.
+{5942}{6009}En attendant les résultats|Marvin se rendait compte
+{6015}{6082}que son rôle dans l'opération
+{6087}{6202}ressemblait à celui d'une pièce de puzzle.
+{6211}{6263}Il ne verrait l'ensemble du tableau
+{6268}{6368}qu'une fois les autres pièces en place.
+{6415}{6504}Le résultat de la cinquième course|est déclaré officiel.
+{6960}{7008}25 dollars.
+{7060}{7172}Une heure plus tôt,|dans un autre quartier,
+{7180}{7290}l'agent Randy Kennan|avait une affaire à régler.
+{7298}{7350}Salut le Gnome. Ça va ?
+{7358}{7411}Comme tu vois, c'est la fête.
+{7415}{7468}Bon, à plus tard.
+{7578}{7636}Bonsoir Randy. Quelles nouvelles ?
+{7643}{7739}Si je vous racontais|vous ne me croiriez pas.
+{7745}{7838}En tout cas tes affaires vont bien:|nouvelle voiture,
+{7845}{7948}- nouvel appartement...|- J'aime être à l'aise, c'est un crime ?
+{7955}{8003}Pas du tout,
+{8007}{8123}tant que tu n'oublies pas tes obligations.
+{8130}{8252}Tu n'es pas en position de m'offenser,|j'espère que tu t'en rends compte ?
+{8260}{8315}Je n'ai pas l'argent Léo.
+{8320}{8409}Je voudrais bien vous payer|mais je ne peux pas.
+{8418}{8497}Ça arrive à tout le monde|d'être à court d'argent.
+{8518}{8604}Donne-moi 1000 dollars.|Tu paieras le reste plus tard.
+{8610}{8728}- Comme ça on repart à zéro.|- Je vous dis que je suis fauché.
+{8737}{8820}J'ai besoin de deux semaines de plus.
+{8829}{8913}Ça peut s'arranger|mais il faut que je sache...
+{8922}{9004}D'où viendra le fric ?|Je ne peux pas vous le dire.
+{9010}{9108}Mais c'est du solide|et je paierai tout en une fois.
+{9117}{9189}- Deux semaines, pas plus ?|- Peut-être moins.
+{9198}{9308}Je n'oserais jamais vous arnaquer,|ce serait trop dangereux.
+{9315}{9354}Tu as bien raison.
+{9360}{9460}J'allais te le rappeler|mais puisque tu t'en charges...
+{9470}{9554}Donc je vous paie les 2600 dollars|d'ici deux semaines ?
+{9560}{9661}En ajoutant 400 dollars d'intérêts|ça fera 3000 tout rond.
+{9669}{9719}J'espère que ça te convient.
+{9735}{9800}- Il faudra bien.|- Merci Randy.
+{9805}{9858}J'étais sûr que tu comprendrais.
+{9866}{9921}Fais bien attention à toi.
+{9928}{10019}Ne vous inquiétez pas,|c'est ce que je fais de mieux.
+{10053}{10115}A 19 heures ce jour-là, Johnny Clay,
+{10120}{10233}peut-être la pièce centrale du puzzle,|était déjà au travail.
+{10241}{10332}Ce ne sont pas de vrais criminels.|Ils ont tous un travail,
+{10340}{10444}une vie bien tranquille,|mais ils ont aussi des problèmes.
+{10451}{10506}Et dans le fond ce sont des escrocs.
+{10511}{10595}Mon ami Unger|me laisse loger ici, chez lui.
+{10600}{10691}C'est lui qui a avancé l'argent|pour préparer le casse.
+{10706}{10801}Ça fait dix ans|qu'il est comptable dans la même boîte.
+{10808}{10894}Tu sais Fay, dans le temps|je manquais d'ambition.
+{10903}{10968}En cinq ans j'ai au moins appris ceci:
+{10975}{11040}ne prendre un risque|que si ça vaut le coup.
+{11048}{11134}Qu'on vole dix dollars ou un million|on fait de la taule.
+{11141}{11244}Tu n'as pas besoin|de me convaincre, je te crois.
+{11251}{11326}C'était déjà comme ça|quand on était enfants.
+{11331}{11434}Je te fais confiance depuis le début.
+{11440}{11555}Ces cinq ans ont dû être terribles.
+{11563}{11668}Etre enfermé comme ça c'est affreux.
+{11720}{11787}Tu vas trouver ça étrange
+{11792}{11953}mais à t'attendre toute seule|pendant cinq ans j'avais l'impression...
+{11963}{12056}que c'était moi qui étais enfermée dehors.
+{12085}{12178}On est enfin ensemble|et moi je fais des discours !
+{12188}{12272}Tout va s'arranger maintenant,|je te le promets.
+{12281}{12372}J'espère que tu as raison.|Je ne suis bien qu'avec toi.
+{12381}{12491}Je ne suis ni jolie ni brillante|mais j'ai besoin de toi.
+{12501}{12568}Cette fois tout se passera bien.
+{12609}{12727}Je ferais mieux de te laisser,|tu as beaucoup à faire.
+{12770}{12827}- On se revoit quand ?|- Samedi soir.
+{12833}{12895}On prendra l'avion ensemble.
+{12903}{12970}D'ici là tu dois rester à l'écart.
+{12978}{13079}- Si je peux t'aider...|- Réserve les billets, c'est tout.
+{13085}{13179}Tu diras à tes collègues|que tu pars en voyage de noces.
+{13188}{13241}Tu me manques déjà.
+{13311}{13409}- On parlait de toi...|- Bonjour Johnny. Bonjour Fay.
+{13418}{13468}- C'était en bien j'espère.|- Oui.
+{13476}{13541}Johnny chantait vos louanges.
+{13545}{13617}- Fay s'en allait.|- Pas à cause de moi ?
+{13625}{13685}- Non, elle a rendez-vous.|- C'est vrai.
+{13690}{13798}- Tu m'appelleras ?|- Oui, je ferai comme j'ai dit.
+{13867}{13956}C'était bon de vous revoir M.Unger.|Prenez soin de lui.
+{13965}{14051}- Je prends toujours soin de Johnny.|- Au revoir.
+{14083}{14143}30 minutes plus tôt, à environ 18 heures 30,
+{14150}{14230}Mike O'Reilly, barman|au champ de courses, rentre chez lui.
+{14236}{14286}Ruth, c'est moi.
+{15017}{15097}504 W.OLIVE STREET, APPT.4B, 20 heures.
+{15155}{15196}Le même soir, à 19 heures 15,
+{15200}{15294}George Peatty, guichetier|au champ de courses, rentre chez lui.
+{15300}{15348}Bonsoir.
+{15460}{15505}Bonsoir.
+{15537}{15592}- Ça va ?|- Oui.
+{15600}{15667}Moi non, j'ai l'estomac qui me lance.
+{15673}{15735}Peut-être qu'il est troué.
+{15739}{15845}- C'est possible ?|- Tu as bien la cervelle fêlée.
+{15855}{15939}Sers-moi à boire,|je commence à avoir mal moi aussi.
+{15945}{16036}Sherry, je ne peux donc rien dire|sans que tu te moques ?
+{16042}{16143}Ça vient ce verre ?|J'ai de plus en plus mal.
+{16165}{16294}J'ai vu quelque chose de mignon|dans le train en revenant du travail.
+{16304}{16402}- C'était quoi, un chaton ?|- Non, tu n'y es pas.
+{16478}{16523}C'était un couple.
+{16550}{16612}Ils n'étaient pas vraiment jeunes.
+{16618}{16699}La femme devait avoir ton âge.
+{16706}{16806}Dis tout de suite|que j'ai un pied dans la tombe.
+{16813}{16861}Je te raconte oui ou non ?
+{16869}{16933}Vas-y, je suis suspendue à tes lèvres.
+{16939}{17063}Comme ils étaient juste en face|j'entendais ce qu'ils disaient.
+{17071}{17150}- Ils n'étaient plus tout jeunes...|- Tu te répètes.
+{17159}{17245}Ils mourront de vieillesse|avant que tu aies fini.
+{17251}{17321}Elle l'appelait ''papa''|et lui ''maman''.
+{17326}{17434}Et quelle est donc la chute|de cette palpitante histoire George ?
+{17441}{17539}Oublie ça.|J'aurais mieux fait de me taire.
+{17548}{17617}Je te parie que j'ai deviné la chute.
+{17623}{17671}Arrête, d'accord ?
+{17676}{17758}- Je suis fatigué.|- Tu veux que je t'appelle ''papa''.
+{17765}{17856}- Et tu veux m'appeler ''maman''.|- Tu crois tout savoir.
+{17863}{17949}Je ne te conseille pas|de m'appeler comme ça.
+{17956}{18025}Je vais sortir.|Il n'y a rien à manger ?
+{18033}{18098}Bien sûr que si.|Tu n'as que l'embarras du choix:
+{18106}{18186}- steaks, asperges, pommes de terre...|- Je ne sens rien.
+{18193}{18270}- C'est parce que tu es trop loin.|- Comment ça ?
+{18276}{18392}Tu croyais que j'avais cuisiné ?|Tout est au centre commercial.
+{18400}{18491}Il faut que tu me dises quelque chose.
+{18513}{18566}Pourquoi tu m'as épousé ?
+{18570}{18683}Ne te pose pas ce genre de question.
+{18693}{18755}Peut-être que c'est très bien comme ça.
+{18763}{18849}Sans migraineux|les fabricants d'aspirine seraient ruinés.
+{18858}{18911}Avant tu disais que tu m'aimais.
+{18915}{19014}Toi aussi tu disais des choses.|Tu parlais de faire fortune,
+{19023}{19124}d'habiter les beaux quartiers|et de changer de voiture tous les jours.
+{19130}{19248}Mais j'aurais tort de me plaindre,|j'ai un mari intelligent et athlétique.
+{19259}{19335}Donc si j'étais riche ça changerait tout.
+{19342}{19443}Ça dépend de ce que tu appelles riche.
+{19450}{19520}Je te parle de centaines|de milliers de dollars.
+{19525}{19602}Ce n'est pas ton estomac|qui est détraqué.
+{19611}{19664}Je suis très sérieux.
+{19668}{19740}- Ce sera peut-être 500000 dollars.|- Mais bien entendu !
+{19745}{19832}Quand même, il est encore tôt|pour écrire au père Noël.
+{19838}{19982}C'est ça, moque toi. D'ici quelques jours|tu n'auras plus envie de rire.
+{19990}{20065}Tu crois sérieusement|que tu vas faire fortune ?
+{20073}{20160}- Je ne le crois pas, je le sais.|- Tu n'es pas un menteur.
+{20166}{20219}Tu n'es pas assez subtil pour ça.
+{20226}{20307}Mais où tu trouverais tant d'argent ?
+{20313}{20365}Je ne peux rien dire.
+{20370}{20446}- Même pas à moi ?|- J'en ai déjà trop dit.
+{20453}{20532}J'ai confiance en toi, mais les autres...
+{20540}{20626}- Qui ça les autres ?|- Je ne peux rien dire.
+{20650}{20720}C'est pour les rejoindre que tu sors ?
+{20728}{20809}Non, je vais juste faire un tour en ville.
+{20815}{20943}Eh bien vas-y,|fais ce que tu veux et n'en parlons plus.
+{20951}{21016}Chérie, voyons, ne m'en veux pas !
+{21021}{21112}Cinq ans de mariage|et voilà toute ta confiance.
+{21121}{21171}Tu les respectes plus que moi.
+{21178}{21272}Comment tu peux dire ça ?|Tu sais bien que je t'adore.
+{21279}{21380}C'est par amour pour toi|que je fais tout ça.
+{21388}{21457}Je ne veux rien savoir, laisse-moi.
+{21465}{21510}Va donc voir tes nouveaux amis.
+{21540}{21638}Je serai peut-être partie|quand tu reviendras.
+{21648}{21720}Tu plaisantes j'espère ?
+{21728}{21788}Tu ne feras pas de bêtise ?
+{21793}{21903}Tu n'as plus confiance en moi,|alors quelle importance ?
+{21911}{21971}Si jamais tu vois un autre homme...
+{21976}{22060}Qu'est-ce que ça peut te faire ?|Tu dis que tu m'aimes
+{22065}{22154}mais quand il faut le prouver|il n'y a plus personne.
+{22201}{22313}Ça va, je vais t'en dire un peu plus.
+{22322}{22406}- Mais il faudra rester discrète.|- Bien sûr mon chéri.
+{22453}{22498}J'arrive.
+{22560}{22613}- Tiens !|- Bonsoir.
+{22635}{22704}- Et George ?|- Il a dû sortir.
+{22710}{22767}Epatant ! Tu as bien fait de venir.
+{22837}{22921}- Ça ne va pas ?|- Si, tout va bien.
+{22937}{23013}- Je te sers un verre ?|- Non, ça va aller.
+{23034}{23101}Qu'est-ce qui t'arrive ?
+{23107}{23169}- Val, j'ai appelé hier soir.|- Ah bon ?
+{23177}{23230}- Tu n'as pas répondu.|- J'étais sorti.
+{23235}{23312}- J'ai appelé quatre fois.|- J'étais pas là, c'est tout.
+{23321}{23366}Tu étais où ?
+{23371}{23445}Peut-être au cinéma, je ne sais plus.
+{23453}{23542}- Pourquoi tu me fais ça ?|- De quoi tu parles ?
+{23548}{23637}- Tu le sais très bien.|- Ecoute ''Mme Peatty'':
+{23643}{23734}ce que je fais ça me regarde.|Chacun ses affaires.
+{23741}{23808}Je ne te pose jamais de questions moi.
+{23813}{23866}Avant tu étais plus gentil.
+{23874}{23965}Je veux rester libre, c'est tout.
+{23971}{24070}- Les questions ça m'étouffe.|- Je t'ai dans la peau !
+{24079}{24194}Mais moi aussi chérie.|Je te le montre assez souvent non ?
+{24201}{24299}- Oui, mais tu n'es jamais là.|- Je sors, j'ai le droit.
+{24308}{24387}Ton mari te donne l'argent que tu veux,
+{24393}{24494}il ne dit rien si tu rentres|à 21 heures d'un film de matinée
+{24501}{24563}- alors ne sois pas trop avide.|- Je t'aime.
+{24571}{24640}Si aimer quelqu'un c'est être avide|alors je le suis.
+{24646}{24713}En tout cas|tu as l'air prête à me dévorer.
+{24721}{24766}Ça peut se faire.
+{24851}{24933}Qu'est-ce qui compte le plus dans ta vie ?
+{24942}{24992}- Quoi ?|- L'argent et les femmes ?
+{24999}{25073}- Me voilà catalogué.|- J'ai raison, non ?
+{25078}{25191}Passons, mais j'aurais plutôt dit|''l'argent et une femme''.
+{25198}{25291}De l'argent on va en avoir plein.|Des millions peut-être.
+{25301}{25366}- Comment ?|- Grâce à George.
+{25373}{25438}- Il est sur un gros coup.|- Ce crétin ?
+{25443}{25525}Eh oui. Tu sais qu'il travaille aux courses.
+{25530}{25607}Il s'y est acoquiné avec des escrocs.
+{25614}{25685}Ils veulent piquer la recette des courses.
+{25693}{25775}Ils vont braquer l'hippodrome, sans rire ?
+{25784}{25860}Oui. George est idiot|mais il ne ment pas.
+{25868}{25942}- C'est de la folie.|- C'est ce que je lui dis.
+{25951}{26016}Il répond que tout a été prévu.
+{26024}{26122}Sans rien faire|je vais me retrouver riche.
+{26150}{26227}Mettons que ce soit vrai.|Je fais quoi moi ?
+{26265}{26344}Je vais quitter George pour toi.
+{26353}{26432}Ça fait longtemps que tu dis ça.
+{26460}{26523}J'allais le faire ce soir
+{26530}{26588}mais s'il devient riche ça change tout.
+{26593}{26682}- Il devient l'homme parfait ?|- Bien sûr que non.
+{26688}{26823}Admettons qu'ils réussissent|et que George touche sa part.
+{26834}{26925}- Je pourrais lui prendre.|- Je crois, oui.
+{26971}{27022}Et les autres c'est qui ?
+{27026}{27110}J'ai trouvé ça|en faisant les poches de George.
+{27115}{27185}C'est sûrement là qu'il est allé ce soir.
+{27236}{27296}C'est très intéressant.
+{27306}{27378}Bien plus que tu le crois.
+{27385}{27441}La part de George te fait envie ?
+{27448}{27513}Ce n'est rien comparé au montant total.
+{27519}{27614}Tu crois qu'il voudra|t'en dire plus sur leur plan ?
+{27623}{27714}Non, il est déjà terrifié|de m'en avoir parlé.
+{27726}{27800}Ces deux types me chiffonnent.
+{27854}{27950}Ils seront avec nous|mais on ne saura pas qui ils sont ?
+{27956}{28069}Et ils ne sauront pas qui vous êtes.|C'est mieux, non ?
+{28075}{28152}- Oui mais...|- Je suis d'accord moi.
+{28160}{28244}- On a besoin d'eux ?|- L'un d'eux sera le tireur.
+{28252}{28351}Lui seul peut réussir ce coup.|L'autre déclenchera une bagarre.
+{28358}{28452}Quelle sera leur part ?|Je vous fais confiance mais...
+{28460}{28587}Ils ignorent tout du plan.|Ils ne connaissent que leur mission.
+{28596}{28694}Ils ne touchent pas au butin.|Ils reçoivent une prime fixe.
+{28701}{28784}Alors qu'est-ce qui les motive ?
+{28791}{28880}Ce sont des pros.|Le tireur touche 5000 dollars,
+{28886}{28958}- et l'autre 2500.|- D'où sort l'argent ?
+{28966}{29074}De la poche de Marvin. Il avance|les 7500 dollars, c'est son rôle.
+{29080}{29188}J'aurais aimé faire plus|et mieux mériter ma part du butin.
+{29195}{29265}- Je n'aide pas beaucoup.|- Tu finances, ça suffit.
+{29273}{29364}- Tu les entends se plaindre ?|- Vous avez fait votre part.
+{29371}{29481}S'ils sont payés d'avance,|ils vont peut-être se défiler.
+{29489}{29580}Ce sont des pros,|je me porte garant d'eux.
+{29586}{29704}S'ils se défilent, ils sont morts.|Rassurés ? D'autres questions ?
+{29727}{29782}Alors examinons ceci.
+{29786}{29875}C'est un croquis du champ de course.
+{29894}{29973}Randy, trouve-moi|un plan détaillé de la ville.
+{29979}{30075}George, Mike, vous l'étudierez avec moi.
+{30083}{30155}Si quoi que ce soit|a changé de place, notez-le,
+{30163}{30245}même si c'est la carriole|du vendeur de hot-dogs.
+{30251}{30309}A quelques milliers près
+{30316}{30388}on devrait se faire deux millions.
+{30426}{30474}Ce sera à la caisse centrale.
+{30482}{30561}Il y aura les bénéfices sur les enjeux,
+{30566}{30693}les taxes sur les paris|et l'argent des tickets d'entrée.
+{30702}{30786}Normalement l'argent|ne doit s'accumuler nulle part.
+{30792}{30905}Dès qu'il y en a trop|on transfère tout à cette caisse.
+{30912}{31032}Par contre, seule une petite partie|est mise au coffre.
+{31038}{31115}Le reste est à portée de main|jusqu'à l'arrivée du fourgon.
+{31120}{31228}Il arrive à environ 17 heures|et il se gare devant les vestiaires.
+{31238}{31322}Il y a un type au volant,|un autre à la tourelle
+{31331}{31398}et deux types armés|qui vont chercher le fric.
+{31403}{31483}Les détectives qui les accompagnent|sont aussi armés.
+{31491}{31630}Le casse doit être terminé|avant l'arrivée de ce fourgon.
+{32245}{32341}Qu'est-ce qu'une femme peut faire ici ?
+{32351}{32454}A ton avis ?|Messieurs, vous la connaissez ?
+{32464}{32565}- C'est Sherry, ma femme.|- Tu lui as tout dit !
+{32571}{32631}Mais non, je ne suis pas fou.
+{32636}{32723}Pauvre clown, t'es vraiment un minable.
+{32729}{32801}Si tu ne dis rien on la fera parler.
+{32806}{32869}Vous ne lui feriez pas de mal ?
+{32873}{32972}- Si tu ne parles pas...|- Je ne lui ai rien dit.
+{32980}{33050}- Ç'aurait été stupide.|- Tu veux nous faire croire
+{33058}{33158}qu'elle est inspectrice des bâtiments ?
+{33166}{33247}Tu ferais mieux d'avouer.|Si tu ne lui as rien dit,
+{33254}{33318}pourquoi elle nous espionne ?
+{33324}{33401}Elle a dû trouver l'adresse|dans ma poche
+{33408}{33495}et croire que je venais|retrouver une fille.
+{33501}{33578}Elle a voulu vérifier ce que je faisais.
+{33676}{33731}Je n'ai rien dit, je vous jure.
+{33739}{33830}vous allez la laisser partir ?|S'il vous plaît John !
+{33835}{33924}Bouclez-le chez lui|jusqu'à ce que je téléphone.
+{33930}{34002}- Je reste avec elle.|- C'est ça, dans tes rêves.
+{34008}{34108}- File doux sinon je t'esquinte.|- Allez, on y va.
+{34200}{34263}Est-ce que tu vas la tuer ?
+{34293}{34401}Non, pas besoin. Je vais juste|amocher son joli minois.
+{34431}{34484}Va faire un tour, tu veux ?
+{34490}{34560}Je reviens dans une heure ou deux.
+{35586}{35667}Maintenant écoute. Ta jolie petite tête,
+{35674}{35741}tu la préfères sur tes épaules|ou par terre ?
+{35746}{35835}Et si je la posais sur votre épaule ?
+{35841}{35935}- Qu'est-ce que tu fais ici ?|- Je me renseigne.
+{35941}{36025}- Enfin j'essaie.|- Tu nous espionnais quoi.
+{36031}{36106}Oui. Je devrais avoir honte, je sais.
+{36111}{36214}L'adresse était dans la poche de George.|J'ai cru qu'il me trompait alors...
+{36222}{36344}Ça t'embêterait ?|Oui, ça te fendrait le cœur.
+{36369}{36453}vous ne savez rien de moi.
+{36459}{36539}Je sais que tu n'es qu'une traînée.
+{36544}{36621}Tu vendrais père et mère|mais tu n'es pas bête.
+{36627}{36706}Tu sais t'écraser quand il le faut.
+{36715}{36773}- C'est vrai.|- Mais tu adores l'argent.
+{36776}{36850}Tu as un portefeuille à la place du cœur.
+{36859}{36960}Alors sois patiente,|George te donnera sa part.
+{36966}{37076}- Il s'achètera un cigare et c'est tout.|- Ça m'étonnerait.
+{37086}{37182}Je ne le laisserai pas|gaspiller son argent en cigares.
+{37189}{37287}- Quelles sont vos instructions ?|- Je vais te le dire.
+{37294}{37393}Si tu es assez maligne pour t'écraser|tu seras riche.
+{37399}{37509}Mais si tu parles à qui que ce soit|on annule tout et tu n'auras rien.
+{37517}{37612}J'ai trop envie de ce fric|pour tout faire rater.
+{37621}{37696}On s'est compris. Maintenant dégage !
+{37738}{37800}Dire que je les prenais pour des amis !
+{37808}{37866}Je ne suis que leur souffre-douleur.
+{37871}{37936}Randy a failli me fendre le crâne.
+{37944}{38008}Pauvre George. Tu as encore mal ?
+{38016}{38114}A cause de toi on aurait pu se faire tuer.
+{38121}{38226}Bien sûr que non. Tu es indispensable.
+{38234}{38298}Et du coup je suis à l'abri.
+{38304}{38359}Ils n'ont pas intérêt à te toucher !
+{38364}{38465}- Ne sois pas si grincheux.|- Je leur en veux !
+{38471}{38577}Je trouve qu'ils ont été raisonnables.
+{38587}{38630}Passons.
+{38634}{38697}Johnny t'a fait quelque chose ?
+{38715}{38795}Il m'a posé des questions et il m'a expliqué
+{38803}{38861}qu'il fallait que je me taise.
+{38866}{38984}- Il n'a rien essayé d'autre ?|- Tu as l'esprit mal placé.
+{38994}{39058}- C'est toi qui le dis.|- Changeons de sujet.
+{39066}{39138}Qu'est-ce que tu faisais là ?
+{39146}{39208}Comme tu leur as dit, je te surveillais.
+{39214}{39300}C'était pour te défendre.|Ils allaient te tuer.
+{39306}{39407}Mais toi tu sais|que je ne te tromperais pas.
+{39414}{39520}Arrête un peu.|Tu m'embrouilles avec tes questions.
+{39526}{39591}Je t'ai dit la vérité.
+{39596}{39697}Et maintenant|tout est arrangé entre eux et toi.
+{39704}{39785}- Tu vas être riche et...|- J'ai bien réfléchi.
+{39790}{39865}Je suis pressée d'y être. C'est bientôt ?
+{39874}{39969}J'arrête tout.
+{39978}{40029}Tu plaisantes j'espère.
+{40036}{40135}J'ai la frousse.|Cet incident m'a ouvert les yeux.
+{40141}{40232}Je comprends enfin à qui j'ai affaire.
+{40239}{40337}- Avant je ne pensais qu'à l'argent.|- Et tu avais raison.
+{40343}{40430}Je serais très déçue si tu laissais tomber.
+{40436}{40553}Pour moi ça voudrait dire|que tu ne m'aimes pas vraiment.
+{40562}{40667}Quel rapport entre le hold-up|et mon amour pour toi ?
+{40673}{40745}Je veux savoir ce que tu comptes faire.
+{40751}{40869}Ça fait cinq ans que tu ne fais que parler.
+{40876}{40989}Cette fois tu as l'occasion d'agir|et de tenir tes promesses.
+{40996}{41061}Alors tu vas le faire, oui ou non ?
+{41069}{41141}Je ferais tout pour toi, tu le sais.
+{41146}{41213}Alors reste dans le coup.
+{41323}{41374}- Bon, d'accord.|- Formidable !
+{41379}{41436}Vivement qu'on y soit.
+{41444}{41540}C'est pour bientôt dis ? Cette semaine ?
+{41547}{41616}- Ce sera quand ?|- Tu es drôlement têtue.
+{41623}{41719}Mais si tu veux que je continue|laisse-moi tranquille.
+{41728}{41843}Pardon chéri, tu as raison.|Si tu veux on n'en parle plus.
+{41851}{41935}- Tu m'aimes vraiment ?|- Evidemment.
+{41943}{42029}- Tu m'aimeras toujours ?|- Jusqu'à la fin des temps.
+{42206}{42237}CLUB D'ECHECS ET DE DAMES
+{42241}{42299}Trois jours plus tard, un mardi à 10 heures 15,
+{42306}{42383}Johnny Clay réglait les derniers détails.
+{42462}{42572}- vous cherchez un partenaire ?|- Non, un ami.
+{42592}{42695}Idiot, tu aurais pu prendre son cavalier,
+{42701}{42761}sa tour, et le mettre en échec !
+{42769}{42872}Va embêter quelqu'un d'autre,|tu n'y connais rien.
+{42879}{42932}Joue au lieu de parler.
+{42937}{43011}- Il a raison, j'aurais pu...|- Joue !
+{43016}{43107}Si vous continuez à jacasser|je vous dénonce à Fisher.
+{43117}{43163}Ça va Maurice ?
+{43167}{43268}- Mon ami, comment vas-tu ?|- Content de te voir.
+{43277}{43332}- Tu es sorti quand ?|- L'autre jour.
+{43337}{43412}- C'était dur ?|- Oui.
+{43437}{43521}- Très dur.|- Je sais ce que c'est.
+{43526}{43606}Tu dois apprendre|à te fondre dans la masse.
+{43611}{43683}Si tu as l'air médiocre|tu passeras inaperçu.
+{43688}{43784}L'originalité est un monstre|qu'il faut anéantir.
+{43792}{43847}Ça évite les conflits.
+{43851}{43935}Je me dis souvent|que les truands et les artistes
+{43944}{43999}ont le même statut aux yeux du public.
+{44004}{44096}Malgré toute l'admiration qu'on leur porte,
+{44102}{44191}au fond, on souhaite|qu'ils se cassent la gueule.
+{44199}{44269}Comme disait l'autre
+{44292}{44352}''Chacun voit midi à sa porte.''
+{44356}{44440}Je vois que tu es toujours aussi bête
+{44449}{44507}mais je t'aime quand même.
+{44511}{44564}Comment vont tes affaires ?
+{44591}{44708}Pas trop mal. Quand je manque d'argent|je fais un peu de lutte.
+{44717}{44791}Le reste du temps|je suis ici à perdre mon temps
+{44799}{44900}mais sans les échecs je m'ennuierais.
+{44932}{44999}Ça te dirait de gagner 2500 dollars ?
+{45004}{45120}Si tu me prends par les sentiments...|Quel serait le travail ?
+{45129}{45216}Déclencher une bagarre à l'hippodrome.
+{45224}{45296}Tu provoques les types de la sécurité,
+{45304}{45414}tu leur résistes un peu|et ensuite tu les laisses te virer.
+{45422}{45515}Je peux te demander pourquoi|tu es prêt à me payer autant
+{45521}{45569}pour me voir à l'œuvre ?
+{45573}{45676}Je suppose|que ce n'est pas pour le plaisir.
+{45686}{45772}Les 2500 dollars|servent aussi à calmer ta curiosité.
+{45781}{45872}C'est de bonne guerre.|Tout de même je risque la prison
+{45881}{45941}et je ne m'y plais pas trop.
+{45949}{46040}On y mange mal, on s'y ennuie,|les lits sont trop petits...
+{46046}{46130}Tu prendras deux mois à tout casser.
+{46137}{46225}Ton argent facilitera le séjour.
+{46232}{46277}Il y a autre chose.
+{46282}{46380}N'importe quel voyou|ferait ce boulot pour 100 dollars.
+{46390}{46483}Je sais, mais il ne serait pas|aussi fiable que toi.
+{46489}{46565}Il me faut un type gonflé et discret.
+{46571}{46657}On pourrait peut-être|s'arranger autrement.
+{46666}{46721}2500 dollars c'est bien
+{46734}{46791}mais admettons que j'en cède une partie.
+{46797}{46897}Je pourrais récolter|une partie des bénéfices ?
+{46904}{46961}Non, les autres ne voudraient pas.
+{46967}{47053}Bon, très bien.|Il me faudra quand même plus de détails.
+{47059}{47122}D'accord. Viens, je t'offre un café.
+{47275}{47349}- Joli, non ?|- Exactement ce qu'il me faut.
+{47354}{47450}Avec lui je liquide une douzaine|de mecs d'un seul coup.
+{47456}{47563}- En tout cas je les allonge.|- Je veux bien le croire.
+{47571}{47643}- Depuis quand t'es fermier ?|- Bientôt un an.
+{47651}{47713}C'est coquet mais pas très lucratif, hein ?
+{47721}{47831}Non, mais au moins j'ai la paix.|Qu'est-ce qui t'amène ?
+{47841}{47913}J'ai besoin d'un bon tireur.
+{47921}{47981}- Tu paies combien ?|- 5000.
+{47996}{48056}- Qui est la cible ?|- Un cheval.
+{48062}{48103}- Pardon ?|- Un canasson quoi.
+{48109}{48179}- Et rien d'autre ?|- Disons que...
+{48184}{48285}- Ah, je me disais bien aussi...|- La deuxième partie est simple:
+{48291}{48370}si ça tourne mal tu te tais.
+{48378}{48474}- Pourquoi un cheval ?|- Celui-là il est spécial.
+{48483}{48545}Pour ta sécurité, entre autres raisons,
+{48551}{48615}je ne peux pas te donner les détails.
+{48621}{48714}Un handicap à 100000 dollars|sera couru samedi prochain.
+{48723}{48817}Ton cheval, un ''trois ans'' exceptionnel,|court dans la septième.
+{48826}{48915}Il sera favori|donc tout le monde va parier sur lui.
+{48923}{49014}Du parking situé|au coin nord-ouest de la piste
+{49020}{49102}tu seras bien placé pour voir les chevaux
+{49109}{49169}entrer dans le dernier virage.
+{49175}{49271}Avec un fusil à lunette|suffisamment puissant
+{49277}{49335}tu le descendras d'une seule balle.
+{49339}{49404}Toi tu peux même le faire à l'œil nu.
+{49411}{49493}Ce cheval vaut 250000 dollars.|Le public sera furieux.
+{49502}{49622}On s'en fout, tu profiteras|de la panique pour te tirer.
+{49629}{49703}Red Lightning sera en tête.|Quand il tombera
+{49712}{49815}d'autres trébucheront sur lui|et ce sera la pagaille.
+{49824}{49913}Et même si tu te fais alpaguer,|quelle importance ?
+{49922}{49998}Tirer sur un cheval|c'est pas un vrai crime.
+{50005}{50084}On pourrait juste t'inculper|d'incitation à l'émeute
+{50093}{50205}- ou de chasse au cheval hors saison !|- A t'entendre c'est enfantin.
+{50215}{50289}5000 unités pour dégommer un cheval.
+{50307}{50396}- Tu paies quand ?|- Une moitié maintenant, l'autre après.
+{50402}{50476}Bon. Mais toi qu'est-ce que tu y gagnes ?
+{50484}{50575}Ils vont annuler la course et tous les paris.
+{50584}{50646}Ce que j'y gagne ça me regarde.
+{50652}{50762}Si je paie si bien|c'est aussi pour éviter les questions.
+{50772}{50860}Avec moi tu ne risques rien. Je marche.
+{51220}{51270}- Joe Piano ?|- Qui le demande ?
+{51274}{51307}- Un ami de Patsy.|- Qui ?
+{51312}{51360}- Patsy Gennelli.|- Il vous connaît ?
+{51366}{51412}Oui, d'Alcatraz. Je m'appelle...
+{51416}{51476}Peu importe. Qu'est-ce que je peux faire ?
+{51484}{51568}Il me faut une chambre pour une semaine.
+{51577}{51661}- Personne ne doit y entrer.|- J'ai ça.
+{51670}{51739}- Comment va Patsy ?|- Bien. Il a pris le pli.
+{51747}{51792}- Il joue au base-ball.|- Je sais.
+{51797}{51888}- Il dit que tout va bien.|- Oui, pour me rassurer.
+{51894}{51990}- C'est un dur, il s'en sortira.|- Peut-être, espérons.
+{52032}{52111}Il n'y a qu'un double|et c'est moi qui l'ai.
+{52117}{52191}Tant que je suis là vous êtes tranquille.
+{52197}{52269}- Des bagages ?|- Ça, et un autre plus tard.
+{52274}{52341}- Ils seront à l'abri.|- Ça fera combien ?
+{52346}{52435}- Pour un ami de Patsy c'est gratuit.|- Justement,
+{52444}{52523}c'est pour un ami et puis j'ai les moyens.
+{52532}{52606}- Dans ce cas ça fera 10 dollars.|- Parfait.
+{52611}{52734}Je les mets de côté pour Patsy.|Merci et bon séjour !
+{53619}{53722}Quatre jours après, à 7 heures 30,|Sherry Peatty ne dort pas.
+{54037}{54104}- Je t'ai réveillée, pardon.|- C'est rien.
+{54112}{54198}- Pas moyen de dormir.|- Je te ressers du café ?
+{54206}{54283}Non merci, c'est gentil.
+{54288}{54389}Je suis un peu nerveux mais ça va aller.|Recouche-toi.
+{54396}{54478}Je ne prépare jamais ton petit déjeuner
+{54483}{54548}mais je peux au moins|te tenir compagnie.
+{54556}{54611}Tu te sens bien ?
+{54616}{54676}Pardon, je ne voulais pas être méchant.
+{54682}{54732}Je l'ai mérité.
+{54736}{54832}J'ai été très désagréable|ces derniers temps.
+{54839}{54949}C'est cet appartement qui me porte|sur les nerfs et la vie qui va avec.
+{54956}{55026}- Ce n'est pas si mal que ça.|- Si.
+{55034}{55139}Mais ça va changer.|On achètera de belles choses
+{55146}{55258}et je deviendrai moins égoïste.|Je partagerai tes soucis.
+{55266}{55369}Maintenant par exemple,|tu t'inquiètes pour le hold-up ?
+{55379}{55479}Oui, un peu.|J'ai tort, ça va très bien se passer.
+{55487}{55566}C'est normal d'être anxieux|à un moment comme ça.
+{55604}{55652}C'est pour aujourd'hui ?
+{55660}{55746}Pourquoi tu dis ça ?|Oui, je dors mal, et alors ?
+{55753}{55839}Je te connais, va. Alors j'ai vu juste ?
+{55847}{55936}- C'est aujourd'hui ?|- Non, tu te trompes.
+{55945}{56056}Si tu continues à me harceler|tu ne verras jamais cet argent.
+{56066}{56145}- Comment ça ?|- Tu commences à m'énerver.
+{56151}{56255}Pourtant Johnny t'a prévenue:|si tu t'en mêles il annule tout.
+{56262}{56336}Il m'a dit autre chose:
+{56342}{56426}si je ''m'en mêle'',|comme vous dites, il me tuera.
+{56434}{56552}Il a dit ça pour que tu comprennes|que c'est du sérieux.
+{56559}{56622}On peut dire que tu as changé de ton
+{56627}{56692}depuis qu'ils t'ont brutalisé.
+{56697}{56752}J'ai eu tort de leur en vouloir.
+{56758}{56834}Comme tu disais, ils ont été raisonnables.
+{56840}{56909}C'est ça. Si tu supportes qu'on te frappe
+{56917}{57018}- et qu'on s'en prenne à ta femme...|- C'était ton idée.
+{57025}{57090}J'allais tout plaquer et tu n'as pas voulu.
+{57094}{57195}Et puis Randy est le seul qui m'ait frappé.
+{57204}{57264}J'allais t'apprendre|quelque chose sur Johnny
+{57269}{57360}mais puisque tu prends|son parti contre moi...
+{57374}{57446}Qu'est-ce que tu allais me dire ?
+{57471}{57584}- Changeons de sujet.|- Qu'est-ce que tu allais dire ?
+{57592}{57684}Tu le crois lui et moi zéro.
+{57690}{57767}Tu n'as aucune confiance en moi.
+{57772}{57844}Bon, cette fois plus de secrets. Raconte.
+{57872}{57970}J'ai voulu en parler l'autre soir|mais tu étais en colère.
+{57980}{58047}Je n'ai pas pu en placer une.
+{58054}{58121}Sherry, sois plus claire.
+{58144}{58226}Je l'ai supplié,|j'ai lutté de toutes mes forces.
+{58306}{58428}Ce n'est pas grave.|Ce qui compte vraiment c'est toi et moi.
+{58471}{58539}C'est aujourd'hui le grand jour ?
+{58620}{58723}A 5 heures ce matin-là Red Lightning reçoit
+{58729}{58854}une demi-ration de nourriture pour être|mieux préparé à la septième course.
+{58930}{59050}A 7 heures Johnny Clay entame|ce qui sera peut-être sa dernière journée.
+{59059}{59107}Quoi, qu'est-ce que c'est ?
+{59191}{59241}- Quelle heure est-il ?|- 7 heures.
+{59249}{59355}Je viens te dire au revoir.|Après il faudra te rendormir.
+{59362}{59484}Tout est prêt et normalement|on se verra ce soir mais si ça foire
+{59492}{59621}tu n'auras qu'à te taire.|De toute façon tu ne risques rien.
+{59632}{59713}Je ne suis pas du tout inquiet.
+{59722}{59775}J'aurais aimé être plus utile.
+{59782}{59861}Tu as joué ton rôle.|A nous de jouer le nôtre.
+{59867}{59973}Quand on aura partagé le fric|on se séparera tous
+{59982}{60056}mais je me souviendrai|d'un mec réglo: toi.
+{60091}{60161}Je ne sais pas trop comment te dire ça
+{60166}{60231}ni si j'en ai vraiment le droit
+{60236}{60308}mais je me sens un peu comme ton père.
+{60315}{60410}- Ça me plaît assez.|- Tu as eu des coups durs,
+{60417}{60527}et tu as fait des bêtises|mais avec un peu de chance
+{60537}{60606}tu vas pouvoir refaire ta vie.
+{60621}{60677}Ce sera un nouveau départ.
+{60682}{60775}Tu as encore de beaux jours devant toi.
+{60784}{60887}- Tu peux rencontrer des gens bien.|- Où tu veux en venir ?
+{60895}{60959}J'aimerais qu'on parte tous les deux,
+{60966}{61043}qu'on prenne le temps de souffler
+{61048}{61120}et de profiter de la vie.
+{61141}{61261}Le mariage ça peut être quelque chose|de terrible, un vrai gâchis
+{61272}{61337}si on se trompe de personne.
+{61342}{61395}Tu ferais mieux de te rendormir.
+{61401}{61495}La septième se court à 16 heures 30,|écoute-la à la radio.
+{61501}{61564}Je reviendrai ici vers 19 heures.
+{61637}{61740}Ne viens pas au champ.|Va au cinéma, occupe-toi.
+{61859}{61938}A 7 heures il arrive à l'aéroport.
+{61997}{62057}Il y aura d'autres bagages M.Preston ?
+{62062}{62142}Ce soir oui, juste un.|Je pourrai le garder avec moi ?
+{62147}{62272}Bien sûr si vous l'enregistrez à temps.|Le vol 465 part à 21 heures.
+{62282}{62352}- Entendu.|- Merci de voler avec nous monsieur.
+{62437}{62574}A 8 heures 15 il arrive à l'hôtel.|Il est passé chez un fleuriste.
+{62598}{62660}- Bonjour l'ami.|- Bonjour Joe.
+{62668}{62747}Un flic va venir déposer|un paquet cet après-midi.
+{62753}{62816}- Un flic ?|- Oui, en voiture de patrouille.
+{62822}{62897}- Drôle de fréquentation.|- Il est un peu spécial.
+{62902}{62986}Il passera vers 18 heures 30.|Je récupérerai le paquet
+{62992}{63057}- puis je partirai.|- Je vous offre un verre ?
+{63061}{63126}J'aimerais bien mais j'ai trop à faire.
+{63135}{63233}A ce soir donc. Faites attention à vous.
+{64305}{64382}A 8 heures 45 il arrive à la gare routière.
+{65057}{65174}A 9 heures 20 il passe par chez Mike.|Tout se passe bien.
+{65402}{65440}A 11 heures 15 Mike est prêt.
+{65447}{65543}C'est comme ça|que tu prends des forces ?
+{65553}{65632}C'est très bon mais je n'ai pas faim.
+{65637}{65733}- Je ne peux plus rien avaler.|- Tu n'as même pas commencé.
+{65740}{65858}J'aurai plus d'appétit|quand j'aurai pris mon médicament.
+{65864}{65943}- C'est promis ?|- Oui, c'est promis.
+{65951}{66040}- Allez, file, tu vas te mettre en retard.|- Tu as raison.
+{66072}{66142}On va changer de vie, tu vas voir.
+{66150}{66209}Oui mon chéri.
+{66214}{66329}Cette fois ce n'est pas|une promesse en l'air.
+{66340}{66450}On sera bientôt riches. Tu auras|une belle maison et de bons docteurs.
+{66457}{66537}Bien sûr mais en attendant|tu es en retard.
+{66544}{66590}J'y vais.
+{66664}{66698}- Mike ?|- Oui ?
+{66702}{66762}Tu me rapporteras des magazines ?
+{66767}{66872}D'accord mais je vais rentrer tard.
+{66881}{66970}Je rentrerai vers 22 heures.|Je dois voir quelques copains.
+{66976}{67065}D'accord mais ne bois pas trop de bière.
+{67071}{67155}- Tu sais que ça te rend malade.|- Ne t'inquiète pas,
+{67162}{67212}je ne boirai pas du tout.
+{67274}{67351}Tout à l'heure|Maman viendra te faire à manger.
+{67359}{67412}Merci mon chéri.
+{67427}{67501}- A ce soir.|- N'oublie pas de manger.
+{68064}{68143}Mike arrive à la gare routière à 11 heures 29.
+{68588}{68643}LIGNE GARE-HIPPODROME
+{68877}{68971}Il arrive à l'hippodrome à 12 heures 10|comme toujours.
+{69072}{69130}VESTIAIRE DU PERSONNEL
+{69292}{69367}- On la connaît ?|- Tu dilapides ton salaire.
+{69373}{69464}A ton âge|on te croyait plus raisonnable que ça.
+{69473}{69547}Idiots, ces fleurs sont pour ma femme.
+{69555}{69637}Et qu'est-ce qu'il a mon âge ?
+{69663}{69757}Elles vont faner,|tu aurais dû les acheter ce soir.
+{69762}{69858}Les boutiques de fleuristes|auraient été fermées.
+{69864}{69903}Mets-les dans un vase au moins.
+{69907}{69986}Le concierge peut te les mettre au frigo.
+{69995}{70101}Je n'ai plus le temps d'aller le voir.
+{70107}{70174}- Je suis prêt, si tu veux j'y vais.|- Non !
+{70181}{70233}Je voulais juste te rendre service.
+{70238}{70324}Je les mets dans mon casier.|Comme ça je sais où elles sont.
+{70333}{70429}- A ta guise.|- Pardon Bill. Merci d'avoir proposé.
+{70437}{70560}Tu sais ce que c'est.|Le soir on est pressés de partir et...
+{71558}{71651}..est troisième, suivi de Comfort King.|My Baby est en tête.
+{71659}{71774}Concentrator est troisième,|Second Ending remonte.
+{71782}{71842}Il est troisième suivi de Comfort King.
+{71847}{71931}En tête: My Baby|puis Concentrator et Second Ending.
+{71937}{72009}Second Ending prend la tête.|Concentrator, Comfort King...
+{72017}{72139}Second Ending gagne d'une longueur.
+{72147}{72255}Second: Concentrator.|Troisième: Comfort King puis My Baby.
+{72293}{72386}Ce résultat est indiqué|sur le panneau d'affichage.
+{72392}{72517}Gardez vos tickets jusqu'à ce que|les résultats soient officiels.
+{72542}{72617}Après la course Mike est débordé.
+{72872}{72941}Un double bourbon s'il vous plaît.
+{72962}{73020}Je crois que vous avez déjà assez bu.
+{73114}{73249}Les partants pour la deuxième course|sont aux ordres.
+{73268}{73320}A 15 heures 32 précises
+{73327}{73416}l'agent Randy Kennan|se prépare à jouer son rôle.
+{73483}{73581}Randy à l'appareil.|Appelle-moi le central.
+{73589}{73678}Je crois que ma radio est nase,|ils peuvent vérifier ?
+{73686}{73732}D'accord.
+{73827}{73882}Quoi, ils disent que ça marche ?
+{73904}{73959}Moi je n'ai que de la friture.
+{73965}{74039}Bon, je vais continuer|à trifouiller dedans.
+{74044}{74145}Bonjour à la future maman.|Au fait, c'est pour bientôt ?
+{74155}{74248}Ne t'en fais pas.|Le sixième c'est toujours le pire.
+{74508}{74553}Monsieur l'agent !
+{74649}{74774}Venez vite, ils vont s'entre-tuer.
+{74865}{74929}Il a chronométré le trajet jusqu'au champ.
+{74937}{75012}Il sait où et quand se mettre en place.
+{75020}{75087}Tout repose sur sa ponctualité.
+{75093}{75150}Il doit arriver à l'heure dite.
+{75158}{75268}Dix secondes trop tard|et c'est l'échec assuré.
+{75285}{75338}Votre attention s'il vous plaît.
+{75346}{75428}Les partants de la septième|sont aux ordres.
+{75433}{75538}Cette course de un mile|est dotée de 100000 dollars.
+{76168}{76283}Ils sont partis !|Red Lightning prend la tête dès le départ.
+{76290}{76389}Le suivent Early Streak,|I'm Hoping et White Fire.
+{76403}{76485}A 14 heures 30 Maurice est au club d'échecs.
+{76493}{76624}Il faut qu'il soit au champ à 16 heures,|juste avant le départ de la septième.
+{76690}{76781}Fisher, si je ne suis pas rentré à 18 heures 30
+{76787}{76843}tu pourras me rendre un service ?
+{76848}{76889}Volontiers, lequel ?
+{76896}{77027}Appelle M.Stillman à ce numéro.|Dis-lui que Maurice a besoin de lui.
+{77035}{77102}Tu m'intrigues. De quoi s'agit-il ?
+{77111}{77202}Mieux vaut laisser|certains mystères intacts...
+{77208}{77319}Jadis un berger sibérien|voulut percer le secret du soleil.
+{77326}{77412}Il le fixa du regard et en perdit la vue.
+{77420}{77518}L'amour, la mort ainsi que mes affaires|sont des secrets dangereux.
+{77525}{77597}Surtout n'oublie pas, 18 heures 30.
+{77638}{77683}Votre attention s'il vous plaît.
+{77690}{77767}La septième course va commencer.
+{77772}{77870}Cette course de un mile|est dotée de 100000 dollars.
+{78650}{78705}- Une bière.|- Oui monsieur.
+{78783}{78891}Les chevaux se dirigent|vers les stalles de départ.
+{79078}{79133}Ils se mettent en place.
+{79236}{79291}ENTREE INTERDITE
+{79525}{79602}Alors ça vient ? Crétin d'Irlandais !
+{79609}{79669}Dites donc vous...
+{81003}{81048}PARIS A CINQ DOLLARS
+{81719}{81788}Laissez passer !
+{81860}{81937}A 16 heures 23 Maurice est expulsé.
+{81955}{82030}A 11 heures 30 ce matin-là|Micky quitte sa ferme.
+{82353}{82410}Il arrive à l'hippodrome à 12 heures 30.
+{82588}{82665}- Salut !|- Ce parking est fermé, allez dans l'autre.
+{82670}{82730}- Désolé d'insister...|- Désolé de refuser.
+{82738}{82803}On ne se gare pas ici, point final.
+{82808}{82940}Je suis paraplégique.|Je veux voir la course depuis ma voiture.
+{82948}{83073}C'est votre problème. Ma jambe|me fait mal et tout le monde s'en fout.
+{83096}{83160}Je connais ça.
+{83166}{83238}- Blessure de guerre ?|- Bataille de Bulge.
+{83242}{83338}Tenez, pour le dérangement.
+{83348}{83429}- Laissez tomber.|- Ça me fait plaisir.
+{83437}{83495}Allez, gardez-le.
+{83515}{83554}C'est bien naturel.
+{83558}{83633}- Merci monsieur. Pardon pour...|- C'est oublié.
+{83638}{83743}Vous voulez bien déplacer la barrière ?|La course va commencer.
+{83751}{83801}- D'accord ?|- Oui monsieur.
+{84462}{84582}Votre attention s'il vous plaît.|Les partants de la seconde sont en place.
+{84675}{84749}Tenez, ça peut vous servir.
+{84756}{84825}- Merci, c'est sympa.|- Je vous en prie.
+{84833}{84912}- Au besoin faites-moi signe !|- Ça ira.
+{84921}{84990}Je me débrouillerai très bien, merci.
+{84998}{85053}Qui est votre favori ?
+{85058}{85099}Red Lightning,
+{85103}{85184}- dans la septième.|- Vous pariez sur lui ?
+{85190}{85245}On peut dire ça comme ça.
+{85249}{85312}Bon, je retourne à mon poste.
+{85320}{85394}- Merci pour le programme|- Y a pas de quoi.
+{85403}{85479}- Si je peux faire autre chose...|- Non, rien. Merci.
+{85487}{85557}Si j'ai besoin je vous appellerai.
+{86105}{86158}votre attention s'il vous plaît.
+{86163}{86246}Les partants de la septième sont en place.
+{86252}{86348}Cette course de un mile|est dotée de 100000 dollars.
+{86465}{86565}Les partants se dirigent|vers les stalles de départ.
+{86900}{86977}- Beau temps, non ?|- Si.
+{86985}{87081}Je n'y croyais plus|mais ça s'est découvert.
+{87090}{87217}C'est normal, il fait toujours beau|à cette époque de l'année.
+{87247}{87317}Merci pour votre gentillesse monsieur.
+{87322}{87394}Et je ne parle pas seulement de l'argent.
+{87399}{87498}- C'est rien.|- Au contraire, ça compte.
+{87532}{87609}Tenez, ça vous portera chance.
+{87615}{87682}Garde ta camelote et taille-toi !
+{87687}{87730}Qu'est-ce qui vous arrive ?
+{87735}{87785}Tu commences à me courir négro.
+{87790}{87865}Sois gentil, fous-moi la paix.
+{87872}{87956}Oui Bwana.|Pardon de vous avoir dérangé.
+{87978}{88026}J'aurais dû me douter.
+{88298}{88413}Ils sont partis !|Red Lightning prend la tête dès le départ.
+{88423}{88521}Le suivent Early Streak,|I'm Hoping et White Fire.
+{88529}{88615}Puis c'est Little Arnie,|Seymour Darling et Best Seller.
+{88624}{88708}Red Lightning méne|d'une longueur et demie.
+{88715}{88783}I'm Hoping le suit|de presque une longueur.
+{88788}{88886}Little Arnie est troisième|et Seymour's Darling quatrième.
+{88903}{88987}A mi-distance Red Lightning|est toujours en tête.
+{88996}{89058}I'm Hoping est juste derrière.
+{89063}{89156}Seymour's Darling est troisième.|Little Arnie prend l'extérieur.
+{89176}{89281}Deuxième virage:|Red Lightning mène toujours.
+{89288}{89369}Little Arnie: second.|I'm Hoping: troisième.
+{89375}{89445}Chute d'un partant ! C'est Red Lightning.
+{89468}{89583}Dernière ligne droite:|I'm Hoping prend le commandement.
+{89674}{89731}Halte ou je tire !
+{89958}{90016}Nicky meurt à 16 heures 24.
+{90027}{90106}A 14 heures 15|Johnny Clay est encore en ville.
+{90113}{90170}Il sait combien de temps il va mettre
+{90178}{90226}pour aller au parking puis aux tribunes.
+{90233}{90322}Il veut y être|juste avant le départ de la septième.
+{90387}{90433}votre attention s'il vous plaît.
+{90438}{90551}Les partants de la septième|sont aux ordres.
+{90561}{90669}Cette course de un mile|est dotée de 100000 dollars.
+{92322}{92418}Les chevaux se dirigent|vers les stalles de départ.
+{92573}{92650}Alors ça vient ? Crétin d'Irlandais !
+{92791}{92834}Caisse centrale, Carter à l'appareil.
+{92841}{92881}Tout de suite monsieur.
+{92888}{92948}Il y a une émeute en bas, on y va !
+{93666}{93714}Ils sont partis !
+{93718}{93807}Red Lightning prend la tête,|Early Streak le suit.
+{93816}{93885}I'm Hoping vient derrière|puis c'est White Fire.
+{93892}{93976}Ensuite c'est Little Arnie,|Seymour's Darling et Best Seller.
+{93989}{94069}Ligne droite: Red Lightning est en tête.
+{94075}{94142}I'm Hoping le suit de près.
+{94148}{94246}Arrivent ensuite Little Arnie|et Seymour's Darling.
+{94255}{94346}A mi-course|Red Lightning mène toujours.
+{94356}{94418}I'm Hoping le talonne.
+{94425}{94523}Seymour's Darling est troisième.|Little Arnie essaie de faire l'extérieur.
+{94533}{94641}Au virage Red Lightning est en tête|d'une longueur et quart.
+{94649}{94731}Puis arrive Little Arnie|et I'm Hoping juste derrière.
+{94739}{94811}Chute d'un partant ! C'est Red Lightning.
+{94831}{94937}I'm Hoping prend la tête|en début de ligne droite.
+{94943}{95027}Little Arnie est passé par l'extérieur,|il est second.
+{95033}{95103}Seymour's Darling est derrière|suivi de Early Streak.
+{95108}{95204}Seymour's Darling talonne Little Arnie.
+{95211}{95292}On arrive au poteau,|Little Arnie tient bon...
+{95301}{95363}Little Arnie est premier|de trois quarts de longueur.
+{95411}{95534}Second: I'm Hoping.|Troisième: Seymour's Darling.
+{95541}{95599}Quatrième: White Fire.
+{95681}{95782}votre attention s'il vous plaît.|Veuillez garder vos tickets,
+{95789}{95878}les commissaires de course|sont en train d'enquêter.
+{95882}{95938}Ils vont examiner le film de la course.
+{96344}{96456}Haut les mains !|Au moindre geste je balance la purée.
+{96471}{96555}Toi tu remplis le sac, et vite !
+{96623}{96731}Toi désarme-le, tout doucement.
+{96903}{96977}Pose-le et pousse-le vers moi.
+{97041}{97103}On regarde le mur !
+{97335}{97393}L'argent du coffre.
+{97483}{97596}votre attention s'il vous plaît.|On ne connaît pas la cause exacte
+{97604}{97678}de la chute de Red Lightning|dans la septième
+{97686}{97782}mais le jockey Danny Freed|semble indemne.
+{97873}{97919}Remplis-le !
+{98740}{98862}Ça suffit comme ça.|Pose le sac au milieu.
+{98892}{98943}Retourne là-bas.
+{98948}{99061}Maintenant vous allez passer au vestiaire.
+{99070}{99183}Refermez derrière vous.|Dans 15 secondes je tire sur la porte.
+{99220}{99268}Allez-y.
+{99463}{99508}Refermez.
+{100594}{100658}Une minute, on ne bouge pas !
+{101126}{101193}Voici un flash spécial:
+{101199}{101321}un individu masqué vient de commettre|le plus audacieux des hold-up à ce jour.
+{101328}{101405}Son butin est estimé à deux millions
+{101412}{101464}dérobés à l'hippodrome de Landsdowne.
+{101469}{101519}Le vol a eu lieu pendant la septième,
+{101525}{101599}et coïncide avec le meurtre|du favori, Red Lightning,
+{101604}{101707}qui menait le peloton|dans le dernier virage.
+{101714}{101814}Son jockey est légèrement blessé.|Le tireur présumé, Nicky Arano,
+{101821}{101912}a été abattu par les agents de la sécurité
+{101921}{101983}alors qu'il tentait de s'enfuir.
+{101988}{102063}L'énigme reste entière quant à la manière
+{102068}{102202}dont le malfaiteur a pu quitter les lieux|avec son sac rempli de billets de banque.
+{102211}{102331}L'hippodrome est minutieusement fouillé|au cas où le butin s'y trouverait encore.
+{102342}{102430}Nous reprenons à présent|nos programmes habituels.
+{102437}{102511}Personne n'a vu le sac|passer par la fenêtre.
+{102606}{102692}Il est tombé à mes pieds,|comme un cadeau.
+{102731}{102814}J'avais déjà signalé|que ma radio était en panne.
+{102821}{102893}Le commissaire croit que j'étais saoul
+{102901}{103013}et que je tirais au flan.|Rien ne le fera changer d'avis.
+{103023}{103129}Des flics à l'hippodrome|il y en a tout le temps.
+{103138}{103249}Pas de danger qu'on fasse le lien|entre moi et le braquage.
+{103279}{103348}Et même si on le fait je risque rien.
+{103356}{103447}Le chef croit dur comme fer|que j'étais saoul.
+{103453}{103566}Je n'aurai qu'à l'admettre|et j'écoperai d'un blâme.
+{103573}{103676}Ou d'une mise à pied de 30 jours.|Tu ne t'en remettras pas.
+{103708}{103754}Il est déjà 19 heures 15.
+{103758}{103878}Il va venir. Il faut d'abord qu'il récupére|le fric à l'hôtel où je l'ai déposé.
+{103889}{103982}Le taulier s'appelle Joe Piano,|il est marrant.
+{103989}{104082}- J'espère qu'il est fiable aussi.|- J'ai le gosier sec.
+{104154}{104276}Il en met du temps ! Tout est réglé|à la minute sauf l'heure de la paie.
+{104283}{104343}Là, fini les horaires précis !
+{104364}{104429}Il devait arriver à 19 heures.
+{104516}{104593}- Tiens, l'ascenseur.|- Ça doit être Johnny.
+{104740}{104779}- Les mains en l'air !|- C'est qui lui ?
+{104785}{104891}Obéissez ou je fais un massacre.|Où est Johnny ?
+{104923}{104995}Ça fait quatre heures|que je suis collé à mon autoradio
+{105003}{105113}et j'en ai entendu de belles.|Quand est-ce que Johnny arrive ?
+{105121}{105171}On t'a mal renseigné mon garçon.
+{105179}{105253}Non, c'est vous qui avez été grugés.
+{105261}{105357}Par une dame en plus.|Où est ce crétin de George ?
+{105367}{105407}Le crétin te salue !
+{106148}{106234}40 minutes plus tôt, à 18 heures 25,|Johnny arrive à l'hôtel.
+{106241}{106356}A cause des embouteillages|il a pris 15 minutes de retard.
+{106431}{106477}Qui c'est ?
+{106500}{106572}Pardon, je me suis trompé.
+{107166}{107279}Il arrive au rendez-vous à 19 heures 29,|toujours en retard de 15 minutes.
+{107485}{107590}Il était prévu qu'en cas de coup dur|celui qui avait l'argent
+{107599}{107668}devait le garder pour les autres.
+{107676}{107796}Il devait sauver le butin avant tout.|Le partage aurait lieu plus tard.
+{107803}{107897}Au vu de l'état de George,|et ignorant le sort des autres,
+{107907}{107991}Johnny était forcé|de se sauver avec l'argent.
+{108174}{108270}Dix minutes plus tard|il achète une grande valise.
+{110014}{110069}Val, je suis là.
+{110129}{110179}Ça s'est bien passé ?
+{110247}{110314}- Hé là, attention !|- Qu'est-ce qui t'est arrivé ?
+{110319}{110418}Pourquoi tu m'as fait ça ?
+{110425}{110550}Je n'ai rien fait du tout,|je prépare du linge pour le teinturier.
+{110645}{110784}Il a fallu que tu fasses le malin|même avec un pistolet pointé sur toi.
+{110796}{110887}File pendant que tu tiens encore debout.
+{110896}{110982}Ton ami... Il s'appelle Val ?
+{110994}{111090}Oui et il vaut mieux|qu'il ne te trouve pas ici.
+{111098}{111144}Je me sens mal,
+{111179}{111225}appelle une ambulance.
+{111311}{111371}Va-t'en, prends un taxi !
+{111393}{111448}Je t'aime Sherry.
+{111463}{111523}Va te faire soigner, tu en as besoin.
+{111645}{111693}Ce n'est pas juste.
+{111716}{111776}Tout ce que j'ai eu c'est toi.
+{111806}{111861}Même pas un vrai mari.
+{111883}{111938}Même pas un homme,
+{111962}{112053}rien qu'un bouffon,|une blague sans chute valable.
+{112661}{112838}Le DC-7 du vol American Airlines 808|en provenance de Chicago vient d'atterrir.
+{113363}{113504}Quelle aventure, papa est enfin de retour !
+{113513}{113600}Le gentil monsieur va nous laisser sortir|regarder les beaux avions ?
+{113609}{113719}Bien sûr, allez donc attendre celui|de votre mari au bord de la piste.
+{113725}{113869}Quel gentil garçon !|Vite, allons regarder papa atterrir !
+{113916}{113959}- Bonsoir.|- Bonsoir monsieur.
+{113963}{114057}Monsieur et madame Raymond Preston,|vol de 21 heures pour Boston.
+{114115}{114208}L'horaire d'embarquement|sera bientôt annoncé.
+{114215}{114280}- Pas d'autres bagages ?|- Si, contrôlés ce matin.
+{114284}{114358}Je voudrais garder ce sac avec moi.
+{114364}{114457}Je regrette, il est trop grand.|Il doit voyager dans la soute.
+{114466}{114581}Allons, soyons raisonnables.|Ne me dites pas que deux adultes
+{114589}{114647}ne peuvent pas emporter une seule valise.
+{114651}{114719}Vous pouvez la remplacer|par deux petits sacs.
+{114724}{114817}- Tous nos sacs sont déjà dans la soute.|- Je vois.
+{114824}{114901}Nous avons encore le temps|de les chercher
+{114909}{115010}- et de faire le transfert.|- Non, trop compliqué.
+{115016}{115069}Je peux parler à un responsable ?
+{115075}{115156}Je l'appelle tout de suite.|Monsieur Grimes !
+{115163}{115244}Vous pouvez venir une minute ?
+{115278}{115365}- Je peux vous aider ?|- Nous allons à Boston.
+{115371}{115443}Je voudrais prendre ma valise avec moi.
+{115452}{115504}Elle est trop volumineuse.
+{115509}{115588}C'est exact, elle est un peu trop grande.
+{115594}{115678}Le règlement assure aux passagers|confort et sécurité.
+{115687}{115745}- Je ne pars pas sans elle.|- Vraiment ?
+{115749}{115833}- Je suis catégorique.|- Dans ce cas nous pouvons...
+{115839}{115962}Oui, pourquoi pas ?|Nous pouvons annuler vos billets.
+{115971}{116084}- Ils vous seront remboursés.|- Je ne veux pas être remboursé.
+{116095}{116200}Je suis à court de suggestions|et d'autres passagers attendent.
+{116206}{116287}Nous pourrions assurer le contenu.
+{116296}{116380}Vous n'avez qu'à me le décrire|et estimer sa valeur.
+{116386}{116499}Ce sont juste des affaires,|rien d'important.
+{116506}{116581}C'est bon, prenez-la.
+{116589}{116675}Merci monsieur.|Vous serez satisfait de nos services.
+{117464}{117564}Sébastien, ne fais pas peur aux avions !
+{117574}{117651}Un jour toi aussi tu en prendras un.
+{118099}{118161}Sébastien, reviens !
+{119183}{119253}M.Preston,|l'embarquement est imminent.
+{119308}{119366}Grimes à l'appareil... Comment ?
+{119389}{119480}Vous plaisantez ! Sur la piste ?
+{119516}{119567}Oui monsieur, je m'en charge.
+{119714}{119833}On demande M.Preston|au guichet d'American Airlines.
+{120012}{120055}Taxi !
+{120353}{120404}Johnny, regarde.
+{120584}{120634}Il faut t'enfuir.
+{120639}{120718}A quoi bon ?

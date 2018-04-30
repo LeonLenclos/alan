@@ -1,0 +1,547 @@
+{359}{484}Cayahuari Yacu, c'est ainsi que les indiens|de la forêt appellent ce pays, 
+{490}{603}"le pays dans lequel Dieu n'a pas achevé sa création. "
+{665}{761} Ce sera seulement après la disparition des hommes,|à ce qu'ils croient,
+{767}{899} qu'Il reviendra achever son Oeuvre.
+{3013}{3045}Pour l'amour de Dieu. . .
+{3047}{3071}si on fait ça. . .
+{3074}{3124}si on fait ça. . .
+{3126}{3165}. . .on doit le faire avec classe,|de toute façon on est en retard.
+{3169}{3263}On va rater Caruso|si on ne se dépêche pas|.. vas-y, saute !
+{3364}{3455}Attends, ta figure est complètement barbouillée d'huile.
+{3468}{3509}Viens, je vais te l'enlever
+{3539}{3577}C'est pas mieux comme ça?
+{3579}{3632}Oh Molly, s'il te plaît, viens maintenant.
+{3714}{3757}Dépêche-toi pour l'amour de Dieu! 
+{3940}{3997}Du champagne pour les chevaux! Et du bon!
+{8309}{8397}Madame, monsieur.|C'est une soirée de gala.
+{8404}{8519}On arrive d'Iquitos à 1200 miles|en aval sur l'Amazone
+{8533}{8579}J'ai du ramer parce que le moteur est tombé en panne.
+{8584}{8613}Regardez ses mains.
+{8619}{8715}Pendant deux jours et deux nuits j'ai ramé|pour écouter Caruso au moins une fois dans ma vie.
+{8721}{8757}Mais vous n'avez pas de billets.
+{8759}{8867}Cet homme doit y aller.|Il n'a pas de billet mais ça lui est dû, je vous en prie...
+{8899}{8947}Je regrette sincèrement, mais vous ne pouvez pas entrer.
+{8959}{9021}Je vais construire un opéra à Iquitos|et c'est Caruso qui viendra l'inaugurer.
+{9027}{9125}Ce sera le plus grand opéra que la jungle aura jamais vu.|S'il vous plaît, laissez-nous entrer.
+{9131}{9225}C'est vous qui allez nous aider.|S'il vous plaît...
+{9349}{9426}Moi aussi j'aimerais bien y être, croyez-moi. . .
+{9459}{9486}Suivez-moi!
+{9791}{9882}Ne faites pas de bruit|et restez contre le mur.
+{10835}{10878}Je crois que c'est toi qu'il montre du doigt.
+{10974}{11080}Oui... Tu l'as vu. . .|c'est moi qu'il regarde.
+{14913}{15011}Fitzcarraldo? Comment ça s'épelle?
+{15040}{15093}Un nom inhabituel!
+{15133}{15202}Mon père était irlandais.|Mon vrai nom c'est Fitzgerald.
+{15208}{15248}Brian Sweeney Fitzgerald.
+{15253}{15298}Les péruviens ne savaient pas le prononcer.
+{15305}{15439}Fitzgerald? Iquitos?|Ça serait pas vous l'homme des chemins de fer?
+{15457}{15491}Oui, c'est moi.
+{15555}{15713}Bien. . .le Tans-Andin, mais. . .
+{15755}{15805}. . .le projet a coulé.
+{15809}{15886}Mais c'était un projet hardi|et l'idée est toujours d'actualité.
+{15895}{15986}En ce moment j'essaye de gagner ma vie|en montant une fabrique de glace.
+{16009}{16057}Ici, ce que les gens apprécient. . .
+{16065}{16163}. . .c'est ce qui vient d'Europe.
+{16212}{16330}Sarah Bernhardt, une actrice|qui ne sait même pas chanter.
+{16340}{16416}Mais on ne parle que de sa jambe de bois ici.
+{16437}{16550}La glace, ah, je veux dire. . .
+{16582}{16640}Je fais tout ça parce que j'ai un rêve. . .
+{16660}{16691}. . .l'opéra.
+{16720}{16778}Le grand opéra dans la forêt!
+{16788}{16889}Fitzcarraldo le construira|et Caruso chantera à l'inauguration.
+{16895}{16974}Vous le savez, seuls les rêveurs|peuvent soulever les montagnes.
+{17076}{17203}Depuis cinq ans, nous, je veux dire la ville de Manaos,|on est la ville la plus riche du monde.
+{17210}{17258}C'est comme la ruée vers l'or.
+{17275}{17321}Je peux vous faire visiter la maison?
+{17412}{17494}A l'origine, quand l'opéra a été construit,|il n'y avait que quelques cabanes ici.
+{17500}{17553}On était dans la jungle.
+{17561}{17640}Ici les prix sont déjà quatre fois plus élevés qu'à New-York.
+{17645}{17801}Les palais que vous voyez à l'extérieur|ont été construits avec du carrelage de Delft et du marbre de Florence.
+{17811}{17926}Ce sera bientôt comme ça à Iquitos.|C'est encore une ville frontière minable. . .
+{17931}{17995}. . .mais l'industrie du caoutchouc croît|et bientôt on va rattraper Manaos.
+{18001}{18097}Les citoyens les plus aisés de Manaos,|si je peux m'exprimer ainsi. . .
+{18101}{18165}. . .envoient leur linge sale à Lisbonne. . .
+{18178}{18286}. . .parce l'eau de l'Amazone n'est pas assez propres|à leurs yeux.
+{21746}{21785}Tu ne veux pas rester?
+{21804}{21830}Je ne sais pas.
+{21836}{21898}Ça ne me gêne pas que tu aies quelque chose|comme un bordel ici.
+{21906}{21968}Mais ça attire trop de monde.
+{21974}{22089}Allons. Je donne une excellente éducation|à ces jeunes filles.
+{22096}{22158}C'est beaucoup mieux que de les laisser|traîner dans la rue.
+{22165}{22200}Et mes filles trouvent un emploi|dans les meilleures maisons.
+{22207}{22259}Je n'ai rien contre les filles Molly.
+{22264}{22360}Ce que je ne supporte pas, ce sont ces types|qui s'imaginent pouvoir tout acheter avec de l'argent
+{22366}{22457}Et l'opéra. . . Je devrais m'investir d'avantage|dans cette fabrique de glace.
+{22481}{22577}Tu devrais devenir un peu plus respectable,|ce serait mieux pour toi.
+{22584}{22651}Je me suis déjà ruiné|à cause de la respectabilité.
+{22708}{22785}Mon chez moi, c'est près du fleuve, là-bas.
+{22792}{22868}Tu comprendras aussi|que je ne peux pas laisser tomber mon public. . .
+{22874}{22895}Les gosses?
+{22901}{22973}Oui, c'est ça mon public.|Et un cochon.
+{23011}{23114}Un de ces cochons de cochons m'adore.
+{23123}{23167}Alors j'abandonne tout espoir.
+{26554}{26604}Toi, tu auras dans mon opéra une place d'honneur. . .
+{26610}{26703}. . .Je veillerai à ce que tu aies une loge privée|tendue de velours rouge.
+{27894}{27964}La réaction chimique marche avec deux sels différents.
+{27971}{28058}Imagine-toi les possibiltés de la glace,|mais les gens ne le savent pas.
+{28062}{28098}Mais regarde, les enfants ils adorent ça.
+{28101}{28144}Oui, ils en mangent.
+{28207}{28240}Molly, imagine-toi. . .
+{28246}{28313}. . .de la glace dans chaque magasin,|sur chaque bateau.
+{29212}{29248}Oui, allez-y, misez.
+{29284}{29315}Qu'est-ce que  vous en pensez?
+{29320}{29444}Je vais vous dire ce que j'en pense.|On trouve tout sur la glace dans n'importe quel manuel scolaire.
+{29452}{29529}Il est hors de question de breveter cette idée-là.
+{29549}{29631}Oui, mais moi j'ai de l'expérience,|et l'expérience ça compte.
+{29635}{29740}A quoi bon faire de la glace ici?|Pour refroidir le caoutchouc?
+{29753}{29839}Vous croyez qu'il faudrait faire apparaître|des glaciers dans la forêt par magie ?
+{29889}{29978}Et alors on va installer votre|fameux Trans-Andin sur des patins. . .
+{29985}{30045}. . .on va lâcher les freins, donner une petite poussée. . .
+{30050}{30131}. . .et adios! Et hop,|tout droit dans la vallée?
+{30209}{30248}Allons, allons.
+{30257}{30334}Ne prenez pas ça trop à cœur.
+{30340}{30417}Tenez, ça c'est pour vous...
+{30430}{30485}... faites une partie avec nous.
+{30520}{30601}Le sentiment merveilleux de perdre de l'argent!
+{30607}{30698}Y'a rien qui ressemble à ça!|L'extase!
+{32094}{32216}Cette église restera fermée|tant que la ville n'aura pas son opéra.
+{32325}{32363}Je veux cet opéra!
+{32392}{32436}Je veux mon opéra!
+{32477}{32530}Je veux un opéra!
+{32574}{32687}Cette église restera fermée|tant que la ville n'aura pas son opéra.
+{32722}{32787}Je construirai mon opéra!
+{33130}{33187}Je veux mon opéra.
+{34849}{35010}J'aurais du vous laisser mijoter là-dedans|pour un petit moment.
+{35050}{35124}Merci. Deux jours me suffisent.
+{35220}{35273}Je suis sûr qu'il y a du Molly là-dessous.
+{35277}{35364}Dans ce cas vous faites erreur.|Suivez-moi.
+{35370}{35452}Je vais vous montrer pourquoi|je vous libère dès aujourd'hui.
+{35665}{35790}Ils ne bougeront pas d'ici. Ça m'a ému.|Même un cheval serait ému
+{35940}{36000}Ça ne sera pas trop difficile à arranger.
+{36028}{36083}Tu veux dire tous ensemble?
+{36128}{36175}Don Aquilino, les frères Borja|et tous les autres ?
+{36180}{36285}J'ai ma façon de faire. Te fais pas de bile.|Je me contenterai d'amener toutes mes filles avec moi.
+{36293}{36369}On aura tous les rois du caoutchouc réunis|comme des mouches sur de la confiture.
+{36375}{36442}Et je te promets qu'il seront|de la meilleure humeur du monde.
+{36456}{36504}Génial ! Et moi j'amènerai un phonographe.
+{36515}{36580}Tu as besoin d'urgence d'un nettoyage approfondi.
+{36585}{36640}En aucun cas tu ne quitteras la maison dans cet état.
+{36645}{36729}Un bain chaud pour M.Fitzcarraldo!|La totale.
+{36735}{36797}Et après livrez le colis dans mon lit.
+{36830}{36960}C'est pas sérieux quand même. . . au secours. . .|Hé Molly, dis-leur. . . à l'aide!
+{37150}{37270}Tout le monde me réclame du fric.|L'hôpital, les pompiers. . .
+{37276}{37341}. . .et maintenant vous me cassez|les oreilles avec votre opéra.
+{37345}{37407}Mais c'est l'expression de nos|sentiments les plus profonds.
+{37426}{37488}De quoi il cause?
+{37494}{37549}Nos sentiments les plus profonds!
+{37591}{37634}Regardez-moi ça.
+{37655}{37699}Approchez.
+{37716}{37766}Regardez bien.
+{37871}{37916}Petite démonstration.
+{37996}{38077}Le billet de 1000 a l'air de leur plaire|tout particulièrement.
+{38190}{38269}Vous voyez comme l'argent disparaît vite?
+{38275}{38323}Vous devriez connaître cette sensation.
+{38327}{38399}Un chemin de fer avale certainement|des sommes démesurées.
+{38435}{38511}Ça doit être fascinant de faire banqueroute.
+{38520}{38582}On devrait rejoindre nos amis...
+{38588}{38674}Oui, l'occasion de rencontrer tous ses amis|et tous ses concurrents en même temps. . .
+{38680}{38743}. . .ne se produit pas si souvent.
+{39413}{39442}Rosita, par là!
+{39445}{39500}Et le champagne par là!
+{39640}{39731}Votre attention s'il vous plaît ?
+{39738}{39790}Plus près s'il vous plaît.
+{41009}{41069}Garçon! Attrapez-le!
+{41088}{41134}C'est insupportable.
+{41154}{41254}S'il vous plaît!|Il n'y a pas de quoi s'affoler
+{41271}{41353}Mesdames et messieurs, du calme.
+{41361}{41509}Ce monsieur se calme déjà,|il vient de vivre une expérience douloureuse.
+{41549}{41625}Monsieur, mes domestiques|vont vous accompagner à la cuisine.
+{41632}{41699}Le cuisinier de mes chiens|va vous préparer à dîner.
+{41716}{41819}Soyez remercié monsieur, vous étiez parfait.
+{41890}{41938}A la santé de votre cuisinier pour chiens...
+{42030}{42064}De Verdi.
+{42128}{42157}De Rossini.
+{42221}{42252}De Caruso.
+{42255}{42327}A Fitzcarraldo,|le conquérant de l'inutile!
+{42336}{42362}Santé!
+{42473}{42609}Aussi vrai que je suis devant vous,|j'amènerai de grands opéras à Iquitos.
+{42636}{42703}Je suis plus nombreux que vous.
+{42746}{42789}Je suis les milliards.
+{42794}{42846}Je suis le spectacle dans la forêt.
+{42851}{42901}Je suis l'inventeur du caoutchouc.
+{42905}{42953}C'est par moi que le caoutchouc deviendra mot.
+{42958}{43109}Monsieur, la réalité de votre monde|est une pitoyable caricature. . .
+{43123}{43190}. . .de ce qu'on voit dans un opéra.
+{43196}{43268}Fitz, calme-toi, partons.
+{43276}{43353}Cet homme n'est qu'un cadavre.|Ce n'est vraiment pas un adversaire pour toi.
+{43358}{43452}Madame, je suis toujours bien vivant|et droit dans mes bottes.
+{43458}{43513}Vous êtes sûrement un chasseur|de gros gibier, n'est-ce pas?
+{43521}{43567}Quel rapport?
+{43571}{43655}Je vais vous le dire,|quand on tire un éléphant. . .
+{43662}{43753}. . .il reste parfois dix jours|debout avant de s'effondrer. Bonne nuit!
+{43789}{43858}Venez les filles, on s'en va.|Pas par le jardin, par ici!
+{44241}{44346}Tu devrais faire comme eux.|Ici on ne fait du fric qu'avec du caoutchouc. Oublie la glace.
+{44376}{44499}Je sais, mais j'aurais besoin|d'un grand bateau pour le transport,
+{44506}{44549}de terrains et de centaines d'ouvriers.
+{44551}{44673}Les barons du caoutchouc se sont partagé|le pays mais moi je connais un endroit...
+{44682}{44715}Comment tu sais ?
+{44716}{44793}Par Don Aquilino.|Pourquoi tu n'irais pas le voir?
+{44802}{44835}Laisse tomber...
+{44866}{44909}Mais par lui tu en saurais plus.
+{45199}{45293}Mon royaume commence juste à ces rapides|qu'on appelle Pongo das Mortes
+{45335}{45433}. . .et continue jusqu'à environ 80 kilomètres en aval.
+{45449}{45485}Et au-dessus du Pongo?
+{45492}{45549}J'aimerais bien que ce soit à moi.
+{45557}{45638}J'ai même pensé une fois construire|une route à travers ces montagnes. . .
+{45643}{45756}. . .mais ce serait une entreprise|tout à fait irréalisable. . .
+{45761}{45868}En bateau. . . et personne|n'a essayé de franchir ces rapides?
+{45956}{46059}Vous voulez voir?|On peut grimper sur les rochers.
+{46223}{46259}Qu'est-ce qu'il dit?
+{46271}{46314}Il veut qu'on se taise.
+{46321}{46352}Il dit que celui qui parle . . .
+{46356}{46435}. . .se fera avaler par les méchants esprits des rapides.
+{47286}{47425}Les indiens appellent ces rapides|Chirimagua, "les esprits furieux."
+{47444}{47521}Celui qui tombe là-dedans est foutu.
+{47531}{47677}Les culs-nus disent aussi|"L'eau n'a pas de cheveux pour s'agripper."
+{48349}{48390}C'est un arbre à caoutchouc ?
+{48451}{48531}Parfaitement. Hevea brasiliensis.
+{48834}{48899}Les culs-nus appellent cet arbre caoutchou. . .
+{48913}{48963}. . ."l'arbre qui pleure".
+{48965}{49037}Les culs-nus apprécient le langage fleuri.
+{49042}{49100}L'or, ils l'appellent "la sueur du soleil ".
+{49102}{49171}Les abeilles, "pères du miel".
+{49224}{49332}Vous savez, c'est pas si facile|de civiliser les culs-nus.
+{49689}{49766}Combien croyez-vous|que pèse cette balle puante?
+{49812}{49939}Environ 60 kilos! Et je suppose|que vous connaissez les prix du marché.
+{49952}{50000}Il leur faut combien de temps|pour faire une balle comme ça ?
+{50004}{50055}Une semaine pour trois hommes.
+{50269}{50346}En ce moment j'emploie 8500 hommes.
+{50437}{50533}Je devrais peut-être monter à 10000.
+{50624}{50734}Vous êtes un drôle d'oiseau|mais au fond je vous aime bien.
+{51737}{51820}Vous voyez, du Pongo jusqu'à|l'embouchure de l'Ucayali, c'est à moi.  
+{51827}{51942}Et là au-dessus c'est à la Peruvian Amazon Company,|une société par actions . . .
+{51950}{52000}. . .et ici les frères Borja.
+{52007}{52045}Que veut dire cette inscription?
+{52050}{52172}Ça c'est la région de caoutchouc des|Ucayali, environ 14 millions d'arbres...
+{52192}{52243}... qui n'a toujours pas trouvé de propriétaire.
+{52247}{52336}à cause des rapides|du Pongo das Mortes. . .
+{52342}{52404}. . .il faudrait avoir des ailes...|non, la région est inaccessible.
+{52410}{52472}Pourquoi il n'y a rien de marqué au Pachitea?
+{52480}{52624}Inintéressant, pas d'arbres à caoutchouc,|ou alors trop peu pour être rentable.
+{52632}{52704}La seule chose qu'il y a à foison,|ce sont des indiens sauvages.
+{52711}{52802}Pas d'or, pas de caoutchouc, rien.
+{52810}{52856}Seulement des chasseurs de têtes. . .
+{52945}{52995}Les deux rivières se touchent presque.
+{52997}{53021}Quoi?
+{53078}{53200}Dites-moi, cette carte est très exacte|ou il existe quelque chose de plus précis ?
+{53209}{53267}Oh, je la crois assez précise.
+{53297}{53417}En 1896 des géomètres et quelques soldats|ont osé aller au Haut Pachitea. . .
+{53424}{53467}. . .mais la plupart ont été tués.
+{53472}{53599}Quelques missionnaires sont allés jusqu'au|Saramiriza, leur mision la plus avancée.
+{53607}{53722}A partir de là, vous ne trouverez que des|Jivaros et des Campas sauvages.
+{53780}{53861}Deux padres ont trouvé une fin bien peu chrétienne|comme têtes réduites.
+{53867}{53900}Vous avez déjà vu une tête réduite?
+{53912}{53981}Oui. . . je veux dire. . .
+{54014}{54076}Non. . en fait non.. . .
+{54578}{54609}Vous avez choisi?
+{54612}{54677}Je n'arrive pas à me décider|- Je crois que je les prendrai toutes les deux.
+{54692}{54769}- Molly, écoute!|- Qu'est-ce qu'il y a?
+{54777}{54840}Tu ne me croiras pas, j'ai besoin de ton argent.
+{54845}{54893}- Oh, encore Fitz. . .|- J'ai une idée.
+{54930}{54973}Une idée géniale!
+{55008}{55056}Ici, regarde.
+{55083}{55181}J'ai acheté des cartes,|je peux tout t'expliquer.
+{55541}{55639}D'abord il faut aller voir un notaire,|ensuite se procurer un bateau.
+{55645}{55712}Je n'ai pas assez pour acheter|un vrai grand bateau Fitz.
+{56053}{56108}Tu me serres trop fort!
+{56346}{56382}Je n'arrive plus à respirer .
+{56575}{56640}Le document s'il vous plaît.|Merci.
+{56753}{56811}L'acte d'achat se fera étape par étape.
+{56815}{56885}Vous et votre associée vous signez,|ensuite vous payez. . .
+{56893}{56955}. . .puis moi je compléterai le document|avec ma signature.
+{56977}{57073}Mais avant que vous signiiez,|je dois attirer votre attention sur la clause optionnelle
+{57082}{57123}Quelle clause?
+{57155}{57267}A travers ses organes exécutifs,|le gouvernement péruvien exige,
+{57275}{57402}. . .et sans aucune exception, que pour entrer|en possession d'une propriété aussi étendue. . .
+{57410}{57472}. . .vous puissiez prouver que vous en avez réellement|pris possession avant neuf mois.
+{57478}{57567}Vous devrez prouver que vous aurez|réalisé les premières étapes {57589}{57649}. . . de la mise en valeur de la région. . .
+{57637}{57724}Autrement, votre concession sera|résiliée-sans indemnisation.
+{57730}{57821}La raison pratique de cette disposition|est que l'état veut que des régions si vastes 
+{57827}{57909}. . . soient exploitées par des gens compétents. . .
+{57915}{57937}. . .de façon à ce que--
+{57943}{57996}Dépêchons, on perd du temps.
+{58013}{58085}Permettez-moi une question d'ordre personnel.
+{58122}{58190}Vous savez vraiment ce que vous allez faire?
+{58228}{58271}Nous ferons ce que personne|n'a osé faire jusqu'ici.
+{58272}{58349}On va devenir fabuleusement riches, vous verrez.
+{58430}{58452}Alors?
+{58533}{58614}Alors signez ici, en bas à droite.
+{59056}{59096}Le voilà.
+{59158}{59182}Le voilà.
+{59201}{59244}Il est pas beau, hein?
+{59258}{59313}On devrait pouvoir l'arranger.
+{59484}{59524}C'est merveilleux.
+{59581}{59627}Tu n'as pas tout vu.
+{59631}{59670}Il me plaît déjà.
+{59716}{59754}Prends garde.
+{59766}{59802}C'est tout vermoulu.
+{59851}{59892}La salle des machines.
+{60081}{60112}Ici les escaliers.
+{60226}{60259}Un instant.
+{60386}{60420}Attends, laisse-moi d'abord.
+{60733}{60828}A notre contrat !|Par ici messieurs.
+{61075}{61219}Maintenant que la vente de mon bateau est réalisée|permettez-moi d'être franc.
+{61233}{61257}Je vous en prie.
+{61260}{61375}C'est vrai que je vous ai imposé Cholo comme mécano,|sinon je ne vous aurais pas laissé le bateau.
+{61440}{61476}J'avais compris.
+{61485}{61548}Très bien, bien.
+{61551}{61649}Vous pouvez être sûr que c'est|un mécano de premier ordre
+{61748}{61784}Il y a quoi d'autre?
+{61791}{61870}Vous voulez dire ce qu'il y a derrière tout ça ?|Je vais vous le dire sans fioriture. . .
+{61875}{61978}. . .Je veux être informé en permanence|sur les activités de mes concurrents.
+{61986}{62089}Je veux empêcher qu'un jour on me dépossède.
+{62111}{62144}Ne craignez rien.
+{62171}{62231}Tout propriétaire de bateau est un ennemi potentiel. . .
+{62235}{62327}. . .le seul qui est inoffensif,|c'est celui qui n'a qu'une pirogue.
+{62383}{62443}Vous savez, nous deux on a fait un pari. . .
+{62446}{62508}. . .dans combien de temps|vous aurez encore fait faillite.
+{62514}{62578}Oh, il n'y a rien de personnel là-dedans.
+{62584}{62646}On est tous des sportifs, n'est-ce pas?
+{62686}{62729}Non, un d'entre nous seulement.
+{62779}{62824}Je veux déplacer une montagne.
+{63824}{63870}Quand sera-t-elle terminée?
+{63954}{64018}Demain. Depuis des jours il me dit toujours demain.
+{64024}{64072}J'espère qu'elle sera achevée pour l'inauguration.
+{64189}{64273}Je voudrais bien savoir ce que ce type|a l'intention de faire.
+{65344}{65368}Vous vous appelez comment?
+{65371}{65438}Paul Resenbrink. Je suis hollandais.
+{65464}{65509}Mais on m'appelle Orinoco Paul. . .
+{65528}{65598}. . .parce que je connais tous les trous d'eau|de ce foutu fleuve.
+{65671}{65719}Ça fait un moment que vous n'avez pas navigué.
+{65741}{65808}C'est vrai.|Mon dernier bateau c'était l'Adolfo.
+{65816}{65897}Je ne vois plus très bien|mais par contre on ne peut pas me tromper.
+{65931}{65962}Qu'est-ce que vous voulez dire?
+{65967}{66029}La jungle abuse les sens.
+{66036}{66115}Elle est pleine de rêves, de mensonges, de démons.
+{66131}{66251}Moi j'ai appris à distinguer|la réalité des hallucinations.
+{66309}{66403}Je vois que vous avez participé|à l'expédition de 1896 au Pachitea.
+{66407}{66447}Oui, comme pilote.
+{66457}{66512}Au retour j'étais le capitaine.
+{66527}{66623}Le capitaine était mort.|On n'était que cinq survivants.
+{66709}{66783}Capitaine Resenbrink, vous avez les pleins pouvoirs.
+{66790}{66838}Aidez-moi à choisir l'équipage .
+{66872}{66932}On a besoin d'hommes forts et courageux.
+{66944}{67014}Je crains que par ici on ne trouve|pas beaucoup de gens comme ça.
+{67022}{67069}Pour commencer, il faut un pilote.
+{67142}{67209}Est-ce qu'il y en a un parmi vous|qui a déjà travaillé comme pilote?
+{67364}{67462}Pousse-toi larve!|je suis Huerequeque.
+{67622}{67718}Camarades! Je suis Huerequeque!
+{67731}{67794}Je suis le meilleur cuistot de toute l'Amazone.
+{67799}{67878}J'ai été sur tous les bateaux.
+{67892}{68026}Et à part ça amigo, je suis pas un con.|Je sais ce que vous voulez faire.
+{68042}{68121}Huerequeque fréquente un peu la bouteille des fois. . .
+{68142}{68254}. . .mais là-dedans. . .c'est électrique, electrico!
+{68336}{68465}Et je suis aussi le meilleur tireur de l'Amazone.
+{68476}{68553}- Qu'est-ce que vous pensez de lui?|- En amont et en aval.
+{68564}{68629}- C'est vraiment un bon tireur?|- Je ne peux que confirmer.
+{68657}{68695}C'est quoi votre nom déjà? Huere. . .
+{68698}{68732}Huerequeque.
+{68827}{68891}Huerequeque, vous être notre cuistot.
+{68902}{68945}Santé alors.
+{69106}{69130}Essaye de comprendre.
+{69134}{69215}Qui a payé le bateau?|Qui paye l'équipage?
+{69221}{69260}J'ai le droit de venir avec vous.
+{69264}{69367}Molly, tu ne peux pas abandonner tes filles.|Qu'est-ce qu'elle feraient sans toi?
+{69376}{69424}Et moi qu'est-ce que je dois faire sans toi ?
+{69432}{69470}Mais je reviendrai.
+{69521}{69593}Fitz. . .tu m'aimes toujours?
+{69632}{69682}On est associés toi et moi.
+{71037}{71133}Oh Fitz, t'es givré comme mec!
+{72342}{72433}Oh Fitz, c'est merveilleux!
+{72439}{72485}C'est ton jour Molly!
+{72704}{72750}Tu as donné mon nom au bateau!
+{72759}{72833}C'est plus que ce que mon pauvre petit cœur|peut supporter.
+{72840}{72883}Et maintenant la partie officielle.
+{72895}{72976}Voici. Jette-la -- fort!
+{73537}{73585}Ces deux femmes,|j'en veux pas sur mon bateau.
+{73590}{73681}Ce sont mes assistantes.|Sans elles je peux pas faire la cuisine.
+{73688}{73736}Allez les enfants, venez.
+{74887}{74940}Pourquoi il ne descend pas vers l'Ucayali?
+{74968}{75014}Il prend la mauvaise direction?
+{75018}{75076}Je croyais qu'il voulait|aller au Pongo das Mortes.
+{75080}{75111}Vous avez bien vu .
+{75116}{75190}Brian Sweeney Fitzgerald|va en amont de l'Amazone.
+{76427}{76499}On va en amont!|Qu'est-ce que ça veut dire?
+{76515}{76587}On va en amont.|Voilà ce que ça veut dire.
+{76602}{76698}Et à partir de maintenant vous ne quitterez|la salle des machines qu'avec mon autorisation.
+{78758}{78856}Vous vous croyez où?|Tourner autour de mes filles!
+{78864}{78897}Foutez le camp!
+{80773}{80843}Don Fitzcarraldo! Don Fitzcarraldo!
+{80848}{80978}Enfin de retour.|Je désespérais ! Enfin !
+{80991}{81080}Regardez,|le terminus Amazone est prêt.
+{81085}{81131}Je vois que vous êtes devenu papa.
+{81146}{81210}Je savais que vous reviendriez.
+{81216}{81317}Je croyais qu'on m'avait oublié|quand on a arrêté la construction du chemin de fer.
+{81331}{81415}Tous les ans|je repeins le guichet des premières.
+{81423}{81461}Malheureusement|le panneau est un peu défraîchi. . .
+{81466}{81545}. . .mais attendez que les trains traversent|les montagnes de l'Amazone. . .
+{81549}{81599}. . .au Pacifique,|alors tout changera.
+{81603}{81707}Ça fait six ans que je travaille sans être payé.
+{81713}{81737}C'est pourquoi. . .
+{81751}{81801}..la machine est en état de marche.
+{81816}{81862}Tous les leviers fonctionnent, mais. . .
+{81866}{81924}je dois avouer. . .
+{81928}{82050}. . .que j'ai été forcé de vendre|quelques pièces métalliques aux indiens.
+{82059}{82169}Ils en ont besoin pour leurs machettes|et d'autres trucs.
+{82177}{82251}Autrefois ils venaient toujours|la nuit pour voler, bien entendu. 
+{82256}{82299}Alors j'ai pensé. . .
+{82324}{82441}. . .que c'était mieux de leur vendre|que d'être pillé toutes les nuits.
+{82481}{82577}C'est fini maintenant, mais j'étais obligé|de le faire. On m'a complètement oublié à mon poste
+{82583}{82650}Je pensais que vous aviez été renvoyé chez vous|comme tous les autres
+{82699}{82751}Je vous montre les rails dehors.
+{82753}{82830}Les rails vont jusqu'à 200 mètres|dans la jungle.
+{82927}{83011}Venez avec moi.|J'ai inventé un truc pour chasser les indiens
+{83019}{83098}Ils sont devenus plus prudents.|Et je fais la même chose pour les serpents.
+{83104}{83154}Je relie le générateur aux rails avec un fil.
+{83186}{83318}Les indiens s'y sont brûlés les doigts.|Ils n'y toucheront plus.
+{83347}{83459}Et avec les serpents je comme ça,|avec un bâton.
+{83466}{83574}Je les repousse vers les rails,|et en un instant ils sont réduits en cendres.
+{83618}{83678}Chaque année je débroussaille la locomotive. . .
+{83699}{83751}Quand est-ce qu'on va continuer à construire la voie?
+{83799}{83899}En fait. . . on est ici pour une tout autre affaire.
+{83935}{84027}Si ça marche, notre situation financière|changera du jour au lendemain.
+{84076}{84126}La vraie raison pour laquelle on est ici est. . .
+{84176}{84233}. . .c'est qu'on a besoin des rails pour autre chose.
+{84496}{84620}Pour l'amour du Ciel, pas ceux sous la loco,|pas ceux-là. . .
+{84808}{84851}Don Fitzcarraldo.
+{84939}{85042}Les hommes retirent les rails sous la loco.
+{85048}{85130}Je vous en supplie,|il faut qu'elle puisse bouger un peu.
+{85159}{85231}Hé, laissez ceux sous la loco ! Y'en a assez dans la forêt.
+{85272}{85344}Merci, merci.|C'est bon, c'est bon.
+{86039}{86106}On devrait avoir dépassé|le Pachitea depuis longtemps.
+{86122}{86165}Non, pas encore .
+{86189}{86229}Mais d'après la carte. . .
+{86242}{86292}Je me méfie des cartes.
+{86329}{86377}Comment pouvez-vous être aussi sûr?
+{86702}{86796}Aucune rivière n'a le goût du Pachitea.|Il est juste devant nous.
+{86822}{86863}Ça alors. . .
+{87271}{87333}Bourré à craquer! Un cadeau ...
+{87461}{87507}Oh, ces femmes!
+{87638}{87674}C'est de ça que j'ai besoin.
+{88771}{88805}Qu'est-ce qui se passe?
+{88819}{88877}On remonte le Pachitea.
+{88946}{88982}Vrai?
+{89802}{89850}Où on va?
+{89859}{89934}Amigos, bienvenue au Pachitea!
+{89939}{90013}Bien connu pour l'hospitalité des indigènes. . .
+{90685}{90735}En bas, on s'agite.
+{90740}{90812}Ils ont l'air de ne pas être d'accord|avec notre route.
+{90852}{90881}Quoi?
+{91474}{91587}A Iquitos, je vous ai dit que j'ai besoin d'hommes,|pas de femmelettes qui chient dans leur froc.
+{91694}{91723}Alors. . .
+{91767}{91822}si quelqu'un veut foutre le camp,|il n'a qu'à le dire.
+{92857}{92919}Bienvenue à Saramiriza!
+{93007}{93057}Brian Sweeney Fitzgerald.
+{93095}{93164}On croyait que c'était|un agent du gouvernement.
+{93179}{93220}Bienvenue chez nous.
+{93240}{93271}Bienvenue.
+{93308}{93336}Content de vous avoir parmi nous.
+{93340}{93400}- Je suis Huerequeque.|- Bienvenue.
+{93838}{93884}Merci, merci.
+{93955}{94031}Comment on peut apprendre le patriotisme|dans un manuel scolaire?
+{94038}{94079}C'est le gouvernement qui l'exige.
+{94088}{94172}Les indigènes s'y sont habitués comme aux vaccinations.
+{94185}{94248}Les enfants se sentent déjà de vrais péruviens.
+{94255}{94299}Un jour je leur ai demandé. . .
+{94308}{94337}. . ."Etes-vous des indiens?"
+{94342}{94441}Ils ont dit "Non, pas nous, mais les autres en amont,|eux c'est des indiens."
+{94448}{94508}Alors j'ai demandé "C'est quoi des indiens?"
+{94521}{94569}Alors ils ont répondu "Les indiens sont des gens. . .
+{94573}{94654}. . .qui ne savent pas lire|et qui ne savent pas laver leurs vêtements."
+{94661}{94709}Et les vieux disent quoi?
+{94719}{94741}Bien.
+{94752}{94843}Il semble que nous ne puissions pas les guérir de l'idée. . .
+{94847}{94923}. . .que notre vie quotidienne n'est qu'une illusion. . .
+{94930}{95014}. . .derrière laquelle se cache la réalité des rêves.
+{95072}{95128}Ça m'intéresse beaucoup.
+{95137}{95187}Vous savez, je suis un homme d'opéra.
+{95242}{95324}Qu'est-ce que vous savez|des Jivaros du haut Pachitea?
+{95329}{95409}J'y étais lors de la catastrophe de 96.
+{95415}{95465}Il y a eu des contacts depuis?
+{95483}{95569}Il y a quelques années, deux padres|ont voulu aller avec des guides chez les Jivaros.
+{95574}{95630}Un des guides est revenu quelques jours plus tard. . .
+{95635}{95719}. . .et il a dit que les Jivaros se sont retirés|dans les profondeurs de la forêt.
+{95725}{95785}L'expédition a disparu sans laisser la moindre trace.
+{95792}{95878}Jusqu'à ce que la rivière|rende un jour le cadavre d'un padre.
+{95885}{95966}Son ventre était rempli de pierres|et il n'avait plus de tête.
+{96018}{96078}Dites-moi,|qu'est-ce que vous cherchez là-haut ?
+{96147}{96198}J'ai des plans d'ordre géographique.
+{96265}{96287}Paul.
+{96380}{96419}L'équipage...
+{96523}{96617}Du calme, bande de poivrots!|Arrêtez!
+{97170}{97273}Il faut étouffer ça dans l'œuf|sinon vous pourrez chercher un nouveau capitaine.
+{97326}{97357}Qui fout la merde?
+{97380}{97481}Evaristo Chavez et Fabiano,|le brésilien. Et les deux femmes .
+{97498}{97584}Ceux-là il faut les débarquer tout de suite,|ce sont les meneurs.
+{97603}{97687}Et Huerequeque, c'est un malin|mais j'ai pas confiance   .
+{97879}{97996}Je n'ai plus besoin de vos services.|Je vous donne deux minutes pour foutre le camp.
+{98003}{98075}Tant mieux pour nous, vous verrez.
+{98158}{98194}Les femmes aussi.
+{98221}{98257}Allez, dehors!
+{98333}{98369}Occupez-vous du reste!
+{98389}{98487}Et vous, au boulot ! 
+{103746}{103815}Réduisez la vitesse! Machine demi!
+{103976}{104020}Les hommes se tiennent tranquilles?
+{104258}{104304}Ils se sont armés. 
+{104337}{104394}Il ne faut tirer en aucun cas.
+{104434}{104499}Ça a été notre erreur|lors de la première expédition.
+{104534}{104628}Dites-leur, sinon ça finira mal.
+{105271}{105336}Qu'est-ce que tu fous,|t'as perdu la tête?
+{105349}{105437}J'essaye seulement de lier conversation|avec nos petits copains invisibles.
+{105444}{105521}Crétin, ça peut nous coûter la vie,|toi le premier.
+{106956}{107033}Il y a silence et silence.
+{107049}{107121}Et celui-ci, je le sens pas du tout.
+{107321}{107377}Il y a quelque chose sur l'eau.
+{107446}{107475}Où ça ?
+{107494}{107563}Là, ça vient droit sur nous,|quelque chose de noir.
+{108711}{108762}Qu'est-ce que ce parapluie vient faire ici?
+{108770}{108870}Les Jivaros l'ont sûrement pris|à un des missionnaires qu'ils ont tués.
+{108985}{109018}Etrange.
+{109117}{109220}On dirait le dernier avertissement.|Les culs-nus aiment les gestes fleuris .
+{109227}{109292}J'aimerais bien qu'ils se montrent.
+{109722}{109770}Maintenant à toi de jouer Caruso.
+{112062}{112120}Vous voyez les indiens dans la pirogue?
+{112140}{112183}Ça pourrait être un piège?
+{112194}{112307}Ça n'en a pas l'air.|Non, je ne crois pas.
+{112335}{112445}Quand ils attaquent,|c'est la nuit et en groupe nombreux.
+{112540}{112603}On s'arrête pour prendre contact?
+{112605}{112708}Non, continuons. De toute façon,|ils ne nous parleraient pas.
+{113332}{113373}Il y a quelque chose qui bouge par là.
+{113445}{113558}Les culs-nus n'ont jamais entendu une musique pareille.|Je leur apprendrai le respect.
+{114437}{114502}Tout va dépendre de notre comportement.
+{114634}{114692}Raconte-moi tout ce que tu sais d'eux.
+{114738}{114855}Les Jivaros ont quitté l'intérieur du Brésil|il y a probablement quelques 300 ans.
+{114870}{114942}Leur périple à travers la forêt a duré dix générations. . .
+{114947}{115036}. . .à la recherche du dieu blanc|dans une nef céleste.
+{115042}{115165}Ils croient qu'après ce long périple|il les conduira . . .
+{115173}{115257}. . .dans un pays sans douleur et sans mort.
+{115285}{115345}On va se servir de ce mythe.
+{115652}{115703}En quoi ça nous concerne, merde ?
+{115710}{115821}Si un seul de ces culs-nus vient trop près,|je lui colle une balle entre les deux yeux.
+{115833}{115888}Mais ce dieu ne vient pas avec des canons.
+{115935}{115990}Il vient avec la voix de Caruso.
+{117318}{117385}Votre fidèle équipage vient de nous quitter.
+{117397}{117447}Voilà sans doute la fin du voyage.
+{117785}{117828}Pourquoi vous n'avez pas foutu le camp vous aussi?
+{117833}{117917}Parce que je veux|que ce foutu bateau fasse demi-tour.
+{117958}{118054}Ne vous mettez pas sur mon chemin.|A partir de maintenant, je ferai ce que je veux.
+{118158}{118206}Occupez-vous de votre machine.
+{118578}{118610}Les salauds!
+{118682}{118768}Tout d'un coup ils étaient tous là avec leurs fusils.
+{118856}{118967}Je vous ai toujours dit qu'ils ne valaient rien.|Mais ils ne s'en sortiront sûrement pas vivants.
+{118974}{119037}On n'est plus que trois.|Vous, moi et Cholo.
+{119042}{119073}Quoi, lui?
+{119125}{119207}Là, on a vraiment besoin d'un peu d'opéra italien.
+{119213}{119256}Vous croyez pas?
+{125111}{125222}Trad BL et LX
+

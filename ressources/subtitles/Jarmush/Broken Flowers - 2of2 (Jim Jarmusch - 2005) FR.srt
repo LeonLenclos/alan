@@ -1,0 +1,381 @@
+{172}{244}Les ordinateurs, hein ? Super.
+{272}{361}- Ça doit rapporter pas mal.|- Ouais, je me suis bien débrouillé.
+{395}{469}Eh bien le secteur de l'immobilier|nous a bien souri.
+{469}{517}Pas vrai chérie ?
+{517}{586}Au début je voulais me lancer|dans l'eau embouteillée.
+{589}{692}Je crois que très bientôt l'eau|va valoir plus que le pétrole ou l'or.
+{692}{716}Ouais.
+{738}{817}On meurt de soif, on ne peut pas|prendre un verre de pétrole.
+{819}{845}Pas vrai ?
+{848}{908}Ou même d'or d'ailleurs.
+{939}{992}Eh bien vous avez certainement|raison à ce sujet.
+{1030}{1085}Mais pour l'instant...
+{1088}{1171}on a décidé que l'immobilier et|les maisons préfabriquées de qualité...
+{1174}{1229}serait une bonne idée.
+{1231}{1279}Et ça nous rapporte pas mal.
+{1464}{1531}Chérie, ce sont de superbes fleurs.
+{1752}{1804}Don, je veux te montrer quelque chose.|Excusez-moi.
+{2042}{2114}N'est-ce pas une photo inédite ?
+{2114}{2174}Super. Ouais.
+{2176}{2224}Ouais ? C'est fou, pas vrai ?
+{2260}{2301}Ma pure petite Dora.
+{2334}{2394}Mon adorable petite Dora.
+{2430}{2478}Une jeune hippie.
+{2478}{2567}C'est bien Ron.|Tu peux la ranger s'il te plaît ?
+{2567}{2608}Désolé ma puce.
+{2644}{2716}Ça rappelle sûrement|des souvenirs, hein Don ?
+{2826}{2876}J'ai pris cette photo, non ?
+{3039}{3114}Eh bien tu sais,|c'est étrange...
+{3116}{3193}la façon dont la vie des gens|change, n'est-ce pas ?
+{3452}{3490}Alors vous avez des enfants ?
+{3617}{3708}Eh bien c'est-|Un sujet un peu délicat.
+{3708}{3797}Tu vois... J'ai toujours voulu avoir|des enfants avec Dora.
+{3799}{3842}Je veux dire, nos propres enfants.
+{3857}{3950}Mais elle ne voulait pas vraiment|alors je respecte son désir.
+{3974}{4085}Je ne sais pas si j'aurais eu le temps|et la patience d'être une bonne mère...
+{4087}{4125}pour les enfants de Ron.
+{4190}{4255}Je suis juste heureux d'avoir|ma Dora.
+{4523}{4569}Et toi Don ?
+{4571}{4607}Tu es marié ?
+{4665}{4710}Non, je suis encore célibataire.
+{4744}{4777}Célibataire ?
+{4809}{4852}Whoa !
+{4852}{4950}- Mais t'as des enfants ?|- Il a dit qu'il est célibataire.
+{4953}{5010}Eh bien chérie, tu sais-
+{5010}{5094}On ne sait jamais. Quelques-uns|auraient pu s'échapper.
+{5130}{5180}Non. Pas que je sache.
+{7409}{7449}Allô Winston.
+{7485}{7533}J'ai deviné.
+{7584}{7646}Écoute, je ne sais pas|ce que je fais ici.
+{7648}{7684}Je n'arrive à rien.
+{7735}{7768}Ouais, je l'ai vu.
+{7804}{7864}Ouais, je l'ai rencontré également.
+{7867}{7903}Hier.
+{7941}{7996}Non. Pas d'indices.
+{7999}{8046}Pas de machines à écrire.
+{8116}{8241}T'aurais pas pu me louer une Porsche|ou une voiture qui a de l'allure ?
+{8243}{8303}Je suis un harceleur criminel|dans une Taurus.
+{8382}{8468}J'ai tout fait ce que tu m'as demandé|tu sais.
+{8471}{8524}J'en ai vraiment ras le bol.
+{8524}{8584}Je crois que je devrais m'en retourner|aujourd'hui.
+{8631}{8708}Ouais, mais je- Je ne veux pas-|Je ne veux pas vraiment vouloir la voir.
+{8914}{8982}Winston, laisse-moi- Laisse-moi|te rappeler plus tard, d'accord ?
+{8982}{9037}Est-ce que je peux au moins- Ouais.
+{9039}{9097}Laisse-moi te rappeler plus tard.|S'il te plaît ?
+{9099}{9152}OK ? Merci.
+{11166}{11199}Je te rappellerai bientôt.
+{11600}{11650}<i>Mesdames et messieurs</i>|<i>nous sommes en approche finale.</i>
+{11650}{11727}<i>Veuillez retourner à vos sièges et</i>|<i>bien attacher vos ceintures.</i>
+{11729}{11765}<i>Merci.</i>
+{13576}{13687}"Dr Carmen Markowski|Communicatrice avec les animaux"
+{14085}{14133}Je t'ai entendu.
+{14135}{14185}Et j'ai entendu|ce que Dr Markowski a dit.
+{14209}{14257}Tu dois croire en toi.
+{14260}{14308}J'ai beaucoup de respect pour toi.
+{14310}{14368}Je sais comment tu te sens.
+{14368}{14447}Je comprends et je vais m'efforcer|de faire mieux la prochaine fois.
+{14449}{14480}Bonjour.
+{14483}{14591}Ça prend beaucoup de courage pour dire|ce que tu as dit. Je suis très fier de toi.
+{14591}{14686}Et je veux que tu saches que|tu fais très, très bien...
+{14686}{14737}et que je crois en toi.
+{14739}{14802}Ouais, elle parle vraiment|aux iguanes.
+{14838}{14883}OK. C'est ça.
+{14885}{14967}Rappelez lundi et nous serons heureux|de prendre rendez-vous pour Iggy et vous.
+{14969}{15029}Oui. D'accord. Merci.
+{15080}{15152}Désolé M.Johnston, mais le Dr Markowski|ne voit que les patients avec rendez-vous...
+{15152}{15216}et elle est en séance présentement.
+{15233}{15276}Votre animal est avec vous ?
+{15279}{15343}Non, je n'ai pas d'animal.
+{15346}{15425}Je suis un vieil ami de Carm-|Du Dr Markowski.
+{15463}{15514}Carmen a un horaire très chargé.
+{15516}{15569}Elle aura peut-être une minute pour|vous, si vous voulez vous asseoir.
+{15571}{15622}Ouais, d'accord.
+{16305}{16389}<i>"Les animaux en langage courant</i>|par le Dr Carmen Markowski"
+{16530}{16605}<i>"Les animaux et problèmes d'identités"</i>|<i>"Éclaircissements sur les animaux"</i>
+{17149}{17233}Non, non, non.|Je ne t'oublierai pas Cléo.
+{17264}{17300}Oui, je le promets.
+{17300}{17360}Merci Dr Markowski.
+{17362}{17422}- Au revoir.|- Au revoir Cléo.
+{17425}{17470}À la semaine prochaine|madame Dorston.
+{17715}{17753}Alors, qui est le suivant ?
+{18201}{18254}Alors tu es un médium|pour les animaux ?
+{18257}{18326}Non. Je suis communicatrice.
+{18355}{18410}Et tu es médecin maintenant ?
+{18448}{18535}Quand nous étions ensemble, tu étais|si passionnée pour devenir avocate.
+{18559}{18583}Je veux dire, tu étais...
+{18619}{18655}si passionnée.
+{18657}{18729}Ouais, eh bien la passion|est une drôle de chose parfois.
+{18806}{18866}J'ai un doctorat|en comportement animal.
+{18887}{18954}Mais c'était un genre|d'arrière-pensée.
+{18993}{19038}C'est une histoire bizarre.
+{19072}{19129}Je me mêle aux histoires bizarres.
+{19153}{19218}Eh bien j'étais une avocate|qui a très bien réussi.
+{19254}{19304}Par contre je n'avais pas de vie|à par mon travail...
+{19304}{19379}sauf en ce qui concerne|mon chien, Winston.
+{19434}{19494}Ton chien s'appelle Winston ?
+{19522}{19563}Ouais.
+{19566}{19616}Mais il est mort...
+{19618}{19654}soudainement.
+{19702}{19774}- Je suis désolé.|- Oh non. C'était-
+{19774}{19810}Il y a longtemps de ça.
+{19837}{19901}Mais ma nouvelle aptitude|était un cadeau.
+{19940}{19985}Un cadeau de Winston.
+{20418}{20483}D'accord, tu peux entrer à nouveau.
+{20629}{20658}Enfin bref...
+{20660}{20727}après la mort de Winston,|j'ai eu ce cadeau.
+{20789}{20869}- De lire les pensées des animaux ?|- Non. Je te l'ai dit-
+{20890}{20926}Je suis communicatrice.
+{20984}{21044}Tu vois, peu longtemps après|la mort de Winston...
+{21075}{21166}j'ai réalisé que je pouvais|entendre les animaux me parler.
+{21168}{21271}Je veux dire que je n'en avais jamais|été consciente avant.
+{21274}{21324}Et je ne lis pas les pensées|des animaux.
+{21346}{21425}Mais lorsqu'ils veulent communiquer|je peux les entendre.
+{21458}{21518}Tu sais, de la même façon|dont on communique toi et moi.
+{21518}{21597}Mais on ne lit pas les pensées|de l'autre personne.
+{21710}{21768}Est-ce qu'il dit quelque chose ?
+{21974}{22034}Il dit que|tu as des intentions cachées.
+{22079}{22122}Il a dit ça ?
+{22197}{22257}Je crois que tu devrais|retourner dehors Ramon.
+{22463}{22509}Les animaux peuvent nous dire|ce qu'ils désirent...
+{22511}{22607}mais ça ne veut pas dire|que c'est dans leur intérêt.
+{22708}{22736}Oui ?
+{22777}{22871}Excusez-moi Carmen, mais M. enaldo|et Skippy sont ici pour leur séance.
+{22873}{22909}Oh. D'accord.
+{22938}{22995}Donne-moi encore une minute.
+{23259}{23345}Désolé Don, mais je ne peux|vraiment pas faire attendre Skippy.
+{23348}{23477}Pourrais-tu dire à Skippy que tu vas|juste me reconduire à ma voiture ?
+{23559}{23619}Et plus tard ?|On peut prendre un verre ?
+{23621}{23683}Non. Je ne bois pas.
+{23686}{23719}Une bouchée alors ?
+{23722}{23796}Je ne mange pas.
+{23842}{23878}Ah non ?
+{23914}{23961}Prendre une marche ?
+{23961}{24033}- Je sais que tu marches.|- Je n'en ai pas envie.
+{24122}{24172}Tu as une machine à écrire ?
+{24175}{24218}Une machine à écrire ?
+{24304}{24340}Tu es mariée ?
+{24374}{24443}Tu sais, je crois que tu devrais|t'en aller maintenant.
+{24446}{24494}Oh, voyons Carmen.
+{24530}{24582}- Tu ne peux pas me répondre ?|- Non.
+{24628}{24659}"Non," tu ne peux pas|me répondre ?
+{24686}{24745}Non, je ne suis pas mariée.
+{24793}{24841}Je l'étais par contre.
+{24887}{24940}T'as des enfants ?
+{25012}{25050}Oui.
+{25091}{25163}J'ai une fille, Lianna.|Elle a 16 ans.
+{25227}{25259}Elle habite la Suède.
+{25278}{25314}La Suède.
+{25314}{25369}Et dois-je te poser des questions|à ton sujet ?
+{25371}{25434}On dirait que je t'ai raconté|toute l'histoire de ma vie.
+{25436}{25501}- Alors-|- Moi ? Non.
+{25503}{25546}Je ne suis pas marié.
+{25546}{25589}Bien sûr que non.
+{25635}{25709}Et je n'ai pas d'enfant.
+{25709}{25750}N'est-ce pas ?
+{25829}{25872}Comment je pourraise|savoir ça ?
+{25906}{25992}Désolé Carmen, mais M. Renaldo et|Skippy attendent dans la salle de session.
+{25992}{26050}Je sais. Excusez-moi.|J'arrive.
+{26263}{26340}Eh bien|mon temps est vraiment écoulé.
+{26342}{26376}Alors...
+{26405}{26431}au revoir.
+{26433}{26469}Au revoir Carmen.
+{27024}{27072}Monsieur Johnston ?|Vous avez oublié vos fleurs.
+{27470}{27552}"Motel - Entrée"
+{31668}{31714}Excusez-moi !|Excusez-moi.
+{31764}{31858}Excusez-moi. Vous savez où|se trouve la route Atwood ?
+{31891}{31927}Je suis perdu.
+{33818}{33854}Oh !
+{33957}{33983}Ça va.
+{34026}{34060}Ça va.
+{34117}{34151}Je peux vous aider ?
+{34153}{34201}Est-ce que Penny habite ici ?
+{34204}{34244}Qui veut savoir ?
+{34278}{34388}Je suis un vieil ami de Penny.|Don. Don Johnston.
+{34441}{34527}Elle est dans la maison. Faite le tour|et allez à la porte-moustiquaire.
+{34549}{34580}Merci.
+{35839}{35868}Allô ?
+{35901}{35964}- Penny ?|- Ouais ?
+{36163}{36199}Donny.
+{36378}{36455}Sapristi, qu'est-ce que tu veux Donny ?
+{36484}{36558}Oh, je voulais juste dire bonjour.
+{36561}{36606}Je passais dans le coin.
+{36680}{36757}Eh bien je ne me souviens pas|d'une fin joyeuse entre nous Don.
+{36760}{36855}Pas de... réconciliation, rien.
+{36858}{36920}Tu m'as laissé Penny.|Tu te souviens ?
+{36923}{36956}Ouais.
+{36983}{37019}Très clairement.
+{37098}{37170}Alors qu'est-ce que tu veux ?
+{37172}{37222}Ça va Pen ?
+{37265}{37299}J'en suis pas encore sûr !
+{37337}{37371}Hostie !
+{37433}{37472}Alors, tu veux quoi ?
+{37556}{37592}Penny, est-ce que tu as-
+{37635}{37683}As-tu un fils ?
+{37870}{37898}Va te faire foutre Donny !
+{38117}{38155}Danny, attrape-moi cet imbécile.
+{38361}{38402}Ta gueule.
+{38402}{38450}J'ai rien dit.
+{38958}{39018}- C'est quoi ton problème ?|- J'allais justement partir.
+{39021}{39066}Pourquoi que t'achales Penny|comme ça ?
+{39068}{39155}- Je voulais juste lui poser une question.|- Ouais, je sais que tu lui as posé.
+{39157}{39277}Alors écoute, je ne pense pas que|c'est très gentil de ta part...
+{39279}{39347}de venir ici pour faire|de la peine à Penny...
+{39349}{39438}tu sais, pour te venger|ou un truc du genre.
+{39505}{39550}C'est tellement impoli.
+{43059}{43100}Vous avez dit tout rose, pas vrai ?
+{43100}{43172}C'est mieux si elles sont toutes roses,|ouais.
+{43323}{43368}Oh, vous êtes douée.
+{43371}{43445}- C'est très joli.|- Merci.
+{43448}{43493}Ça va ?
+{43522}{43589}C'était juste|un petit malentendu.
+{43608}{43661}Je peux voir ?
+{43769}{43817}Oh. C'est pas beau à voir.
+{43836}{43874}Vous l'avez lavé ?
+{43877}{43915}En quelque sorte.
+{43965}{44013}Laissez-moi m'en occuper.
+{44330}{44368}Quel est votre nom ?
+{44368}{44445}Sun. Sun Green.
+{44447}{44483}Sun Green ?
+{44512}{44548}Parfait.
+{44550}{44615}- Et le vôtre ?|- Don.
+{44618}{44651}Don Johnston.
+{44675}{44733}Vraiment ? Don Johnson ?
+{44735}{44764}Johnston.
+{44766}{44802}Avec un "T."
+{44867}{44903}Alors...
+{45018}{45088}si je suis cette route...
+{45090}{45152}je vais trouver|le cimetière Riverview ?
+{45155}{45255}Ouais. Vous n'avez qu'a descendre|la pente. L'entrée est à droite.
+{45411}{45469}Merci Sun Green.
+{45471}{45507}De rien.
+{46183}{46231}Bonjour ma belle.
+{47851}{47887}Encre rouge sur papier rose.
+{48651}{48704}<i>Je ne sais pas ce que je veux.</i>
+{48707}{48757}<i>Il dit que</i>|<i>tu as des intentions cachées.</i>
+{48759}{48795}Va te faire foutre Donny.
+{50248}{50306}Rue Circle s'il vous plaît.|Ça ne presse pas.
+{51389}{51473}<i>La roue de fortune tourne.</i>|<i>Elle tourne et tourne encore.</i>
+{51476}{51526}<i>Personne ne sait où</i>|<i>elle va s'arrêter.</i>
+{51529}{51564}"Garçon"
+{51665}{51692}<i>Garçon.</i>
+{52981}{53051}C'est mon rapport Sherlock.
+{53051}{53123}C'est en gros|ce que tu m'as fait vivre.
+{53161}{53207}C'est tout ?
+{53209}{53315}Et après tout ça tu n'as même pas d'idée|à savoir qui est la mère de ton fils ?
+{53335}{53369}Exactement.
+{53392}{53452}Mais il y avait|une machine à écrire.
+{53455}{53515}Et la moto rose.
+{53517}{53587}Et il y avait la carte d'affaires|rose de Dora.
+{53589}{53642}Et la robe de chambre rose|de Laura.
+{53644}{53726}Je crois que c'est juste|une grosse farce, un fiasco.
+{53767}{53814}Pour autant que je sache...
+{53814}{53862}tu aurais pu m'écrire cette lettre.
+{53942}{54023}Écoute, je suis vraiment désolé|que tu te sois fait tabasser comme ça.
+{54025}{54129}Je me sens comme responsable.
+{54129}{54176}Tu l'es.
+{54239}{54294}C'est un peu étrange aussi,|comment...
+{54296}{54366}le chien magique de Carmen|portait le nom de Winston.
+{54431}{54467}Ouais.
+{54495}{54565}Écoute mon vieux, j'ai passé|beaucoup de temps là-dessus.
+{54567}{54673}Je croyais qu'il était important que|tu saches si tu as un fils ou non.
+{54675}{54742}C'est ta vie.|Il faut que tu la vives, non ?
+{54745}{54812}Je la vivais Winston.
+{54862}{54898}Je la vis encore.
+{54937}{55004}Qu'est-ce que c'est ? C'est rose.
+{55006}{55071}C'est une note que j'ai trouvée|dans mon hall d'entrée à mon retour.
+{55088}{55148}Encre rouge sur papier rose.
+{55160}{55193}Elle est de Sherry.
+{55195}{55241}Quoi ? De Sherry ?
+{55243}{55325}Pourquoi tu ne me l'as pas dit ?|Je peux voir ?
+{55325}{55450}L'enveloppe et le papier ne sont pas|exactement de la même taille.
+{55502}{55558}Tu sais, l'écriture...
+{55558}{55653}ressemble beaucoup à celle de l'adresse|sur l'enveloppe mais je suis pas certain.
+{55723}{55757}Sherry t'aime encore.
+{55819}{55896}Tu crois que Sherry|aurait pu envoyer la première lettre...
+{55898}{55975}et inventer toute cette histoire|pour te faire chier ?
+{55999}{56030}Qui sait ?
+{56071}{56107}Je dois y aller.
+{56107}{56205}Je pense avoir juste le temps de rentrer|pour comparer les écritures...
+{56207}{56279}et retourner au travail|en temps.
+{56282}{56351}- Tu viens ?|- Non.
+{56380}{56452}J'ai besoin de prendre|un peu de recul.
+{56476}{56526}Écoute, ne t'inquiète pas.
+{56529}{56593}On va résoudre ce mystère.
+{57833}{57900}Je ne t'ai pas vu à l'aéroport|hier soir ?
+{57900}{57950}Je ne sais pas. Vous m'avez vu ?
+{57953}{57998}Ouais.
+{58001}{58053}Tu fais une tournée ?
+{58056}{58104}Ouais. Un truc dans le genre.
+{58193}{58262}Tu as l'air affamé. Je peux t'acheter|un sandwich ou un truc du genre ?
+{58264}{58310}Non, ça va.
+{58312}{58394}Tu peux te détendre.|Je ne suis pas homo, ni policier.
+{58394}{58468}Juste un gars qui voit un gars|qui devrait manger un sandwich.
+{58528}{58574}OK. Merci.
+{58600}{58672}On pourrait l'emporter ?|J'aimerais rester dehors.
+{58674}{58715}Bien sûr.
+{58718}{58775}T'aimerais un bon sandwich ?
+{58775}{58818}Je suis végétarien.
+{58845}{58895}Tu manges du fromage ?
+{58897}{58965}Ouais, des fois.|J'aime le fromage.
+{58996}{59056}OK, c'est compris.|Je reviens tout de suite.
+{59446}{59492}- Merci.|- De rien.
+{60306}{60371}Tu nous as trouvé une place.
+{60373}{60423}D'accord.
+{60505}{60560}Voyons voir.
+{60562}{60627}Gros sandwich au fromage|et légumes...
+{60629}{60677}avec champignons.
+{60725}{60793}Des frites- Extra large.
+{60903}{60951}Deux eaux.
+{61039}{61068}Deux cafés.
+{61284}{61339}Ma mère a mis ça là...
+{61356}{61392}pour la chance.
+{61500}{61548}Merci pour la nourriture.
+{61577}{61615}Pas de problème chef.
+{61718}{61766}Vous m'appelez chef ?
+{61824}{61871}Ouais. Pourquoi ?
+{62018}{62058}Qu'est-ce qui est arrivé à votre œil ?
+{62193}{62250}J'ai rentré dans quelqu'un.
+{62253}{62289}Dans le poing de quelqu'un.
+{62356}{62389}Vous êtes un gangster ?
+{62428}{62473}Non. J'aimerais bien.
+{62497}{62564}Non, j'étais-|J'étais dans le domaine des ordinateurs.
+{62603}{62651}Les ordinateurs et les femmes.
+{62701}{62747}Et toi chef ?
+{62771}{62821}Je m'intéresse à la philosophie.
+{62876}{62924}À la philosophie et aux femmes.
+{63022}{63068}C'est pas mal.
+{63118}{63159}Vous croyez ?
+{63320}{63365}Alors...
+{63404}{63499}étant un gars qui a donné|un sandwich a un autre gars...
+{63564}{63672}vous avez des conseils, comment|dirais-je, philosophiques ou du genre...
+{63715}{63790}pour un gars en genre de tournée ?
+{63828}{63876}Tu me le demandes ?
+{63919}{63960}Ouais.
+{63986}{64022}Eh bien...
+{64118}{64183}le passé est de l'histoire ancienne.
+{64185}{64233}Je sais.
+{64264}{64300}Le futur...
+{64331}{64382}n'est pas encore là...
+{64384}{64432}peu importe ce qu'il sera.
+{64468}{64514}Alors...
+{64516}{64614}il n'y a que ça.
+{64646}{64693}Le présent.
+{64837}{64873}C'est tout.
+{64940}{64988}Êtes-vous bouddhiste ?
+{65039}{65087}Non. Tu l'es ?
+{65123}{65171}Je n'en suis pas encore sûr.
+{65204}{65310}Désolé, mais c'est le mieux que|je peux offrir présentement.
+{65312}{65360}Non, j'en suis reconnaissant.
+{65389}{65446}J'aime ce que vous avez dit.
+{65475}{65559}C'est mieux que d'autres,|comme...
+{65561}{65612}des niaiseries de pépère.
+{65693}{65739}Est-ce que...
+{65741}{65792}ton père est comme ça ?
+{65976}{66036}Ce n'est pas un bon sujet|de conversation.
+{66036}{66113}- Hé, je dois y aller mon vieux.|- Je suis désolé.
+{66113}{66170}Merci encore pour le sandwich|et tout.
+{66187}{66223}Attends une seconde.|Attends.
+{66281}{66367}Je sais que tu penses|que je suis ton père, pas vrai ?
+{66417}{66511}- Quoi ?|- Dis-le-moi. Tu peux me parler chef.
+{66513}{66556}Vous êtes cinglé mon vieux.
+{66560}{66622}Attends une seconde.|Attends une seconde. Attends !

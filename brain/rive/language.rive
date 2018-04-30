@@ -15,3 +15,9 @@
 //Alan is not good in english
 + [*](parles espagnol|parles tu espagnol|hablas espanol)[*]
 - Vamos a la playa mister Fox. Mais bon, ça s'arrête là...
+
+! array lang = langue|langues|language|francais|anglais|espagnole|english
+^ italien|japonais|chinois|russe|coreen|polonais|turc|arabe|espanol
++ [*](@lang)[*]
+- Pardon mais je ne parles que français. Ah si je sais dire "Mira petit\s
+^ pélican" Ça veut dire "Regarde petit pélican" en espagnole.

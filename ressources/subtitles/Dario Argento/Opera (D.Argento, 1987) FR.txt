@@ -1,0 +1,820 @@
+{780}{833}Non, je ne peux pas|me concentrer !
+{827}{904}Maestro, je suis désolée|mais je ne peux pas continuer comme ça.
+{900}{963}Reprenons au numéro 37.
+{1689}{1734}Oh mon Dieu !|Non ! Non !
+{1739}{1812}Maestro, reprenons à|''Qui e altrove''.
+{2261}{2301}Arrêtez ! Arrêtez !
+{2322}{2364}Je ne peux plus le supporter !
+{2398}{2493}- C'est ridicule.|- Pauvre petit, tu es blessé ?
+{2501}{2576}C'est totalement ridicule !|C'est ''Macbeth'' par Giuseppe Verdi.
+{2576}{2638}Je n'ai jamais vu|une mise en scène aussi minable !
+{2640}{2690}- Il y a un problème ?|- Oui, vous !
+{2693}{2811}Ce n'est pas un de vos foutus films !|Des oiseaux sur scène, des rétroprojections !
+{2808}{2868}On est dans un opéra|ou dans une fête foraine ?
+{2870}{2970}Comment vous voulez que je chante|avec sur scène un corbeau qui me déteste ?
+{2971}{3051}- Je ne vois pas pourquoi il vous détesterait.|- Pas plus que moi.
+{3051}{3128}Mais il ne me quitte jamais des yeux.
+{3127}{3199}Il crie, il siffle, il bat des ailes.
+{3201}{3289}- Il anéantit ma performance.|- C'est juste un oiseau.
+{3288}{3368}Il devrait être avec les autres oiseaux et|pas dans un opéra où on chante ''Macbeth'' !
+{3367}{3427}Où est le directeur Baddini ?
+{3431}{3489}- Je suis ici Mara.|- Je rentre à mon hôtel.
+{3489}{3544}Allons Mara !|Ne faites pas ça.
+{3547}{3617}Je reviendrai chanter à 20 heures.
+{3617}{3707}Pour chanter sans corbeau|ou autre absurdité. Un vrai opéra !
+{3712}{3802}- Qu'est-ce qu'on fait maintenant ?|- On continue la répétition !
+{3818}{3925}Si ça devait se reproduire|je prends mes corbeaux et je m'en vais.
+{3925}{4018}Maestro, on reprend|où on s'est arrêtés.
+{4247}{4342}Grâce à vous et à votre fameuse|réalisation brillante et originale !
+{4347}{4475}La grande Mara Cecova|vient d'être renversée par une voiture !
+{4496}{4551}Vite !|Appelez une ambulance !
+{4558}{4611}Où est Betty ?
+{4611}{4669}Quel désastre !
+{5565}{5633}- Allô ?|- C'est vous Betty ?
+{5637}{5707}Ce soir vous ferez vos débuts|dans le rôle de Lady Macbeth.
+{5707}{5759}- Quoi ?|- Ça vous fait plaisir ?
+{5767}{5802}Qui est à l'appareil ?
+{5851}{5903}C'est une plaisanterie ?
+{5942}{5967}Allô ?
+{7268}{7318}Viens Betty !|Prépare-toi.
+{7321}{7396}Dans exactement une heure|tu dois être sur scène.
+{7397}{7455}Mara Cecova a eu un accident.
+{7474}{7547}Quelqu'un m'a déjà appelée.|Je pensais que c'était une plaisanterie !
+{7546}{7621}De quoi tu as peur ?|De faire tes débuts sur scène ?
+{7647}{7747}Non, mais Lady Macbeth ! Je suis trop jeune,|ma voix ne convient pas.
+{7745}{7817}Tu vas faire un malheur !|Une jeune lady !
+{7817}{7874}J'ai peur de ne pas être capable|d'atteindre certaines notes.
+{7877}{7945}Je ne suis pas seulement ton agent,|je suis aussi ton amie.
+{7944}{8037}Je sais ce que tu traverses,|c'est le stress de la première.
+{8035}{8123}Ne le montre pas.|Ils vont tous venir te voir.
+{8124}{8186}Ne leur montre pas|que tu as peur.
+{8191}{8218}Arrêtez !
+{8241}{8299}Alors ma chère Betty,|vous êtes prête ?
+{8307}{8379}Le malheureux accident de Mara...
+{8378}{8460}va accélérer la marche du destin.|Ce soir vous serez Lady Macbeth.
+{8489}{8564}Est-ce que je vois des larmes ?|Des larmes de joie j'espère.
+{8570}{8637}Ne me dites pas que vous avez peur.|Peur d'échouer ?
+{8642}{8692}Je suis trop jeune pour ce rôle.
+{8695}{8777}La première Lady Macbeth de Verdi|n'avait que 17 ans !
+{8781}{8843}Vous connaissez|cet opéra par cœur.
+{8853}{8955}Je vous ai vue aux répétitions,|vous travailliez dur.
+{8954}{9026}Vous vous prépariez comme si|vous étiez la vedette, pas la doublure.
+{9083}{9188}Ne vous inquiétez pas pour l'orchestre.|Ils n'ont besoin que d'une demi-heure de répétition.
+{9196}{9264}Arrête ça,|c'est une chance unique.
+{9268}{9346}- Je sais.|- Pense à ta mère.
+{9344}{9449}Elle aurait été fière de te voir poursuivre sa carrière|sur la scène d'un grand opéra.
+{9448}{9535}Si le public t'apprécie,|la prochaine fois ce sera New York et Salzburg.
+{9577}{9622}Qu'est-ce qui est arrivé à Mara ?
+{9627}{9695}Elle a été renversée par une voiture|d'après ce que j'ai entendu.
+{9702}{9797}Vous écoutiez un enregistrement|de ''Macbeth" par Pokrovskij !
+{9798}{9893}Vous saviez que c'était l'une|de nos productions ? 1975 !
+{9908}{9980}C'est cet opéra...|''Macbeth'' porte malheur !
+{9980}{10055}- Mais de quoi tu parles ?|- Tout le monde le dit.
+{10054}{10107}''Macbeth'' porte malheur !
+{10107}{10210}C'est un grand opéra. Mais je préférerais|faire mes débuts dans autre chose.
+{10207}{10255}- Il ne faut pas que Baddini t'entende dire ça !|- C'est vrai !
+{10258}{10283}Tais-toi !
+{10287}{10327}Vous pensez que|cet opéra porte malheur.
+{10330}{10422}- C'est ce que tout le monde dit.|- Moi je ne le dis pas.
+{10433}{10448}Ecoutez.
+{10460}{10525}Vous avez une voix merveilleuse,|vous êtes magnifique...
+{10532}{10609}et vous allez faire vos débuts|sur une grande scène.
+{10623}{10688}Vous ne pouvez pas rater|une occasion comme celle-la.
+{10706}{10761}Ça n'arrive généralement|que dans les films.
+{10815}{10875}Ne la laissez pas passer.
+{13360}{13437}Cinq, quatre, trois, deux, un.
+{13448}{13461}Maintenant !
+{13592}{13615}Laissez passer !
+{13789}{13817}Il y a un peu trop de fumée.
+{13864}{13889}Il y a trop de fumée.
+{13902}{13962}Dino, coupe la fumée !
+{13964}{14021}La cicatrice doit être|de l'autre côté !
+{14029}{14112}- Betty entre en scène dans deux minutes.|- OK, deux minutes pour Betty.
+{14177}{14230}- Soyez prudente, elle pourrait se blesser.|- Deux minutes !
+{14254}{14352}- Qu'est-ce que tu fais ?|- Laisse ça !
+{14665}{14712}- Elle était allumée ?|- Oui.
+{14748}{14783}Le chœur.
+{14890}{14920}Le projecteur !
+{14962}{15034}J'en voulais trois.
+{15189}{15242}Faites attention au costume !
+{18680}{18745}Finalement tu es revenue !
+{20050}{20112}Qu'est-ce que vous faites ici ?|Vous n'avez pas le droit d'entrer ici.
+{20127}{20167}Cette loge est réservée|au personnel.
+{20184}{20211}Allons,|venez avec moi !
+{20535}{20552}Qu'est-ce que vous...
+{21002}{21015}Betty !
+{21035}{21053}Poursuivez !
+{21085}{21105}C'était un incident !
+{21129}{21152}Rien de plus !|D'accord ?
+{21320}{21338}OK Maestro.
+{24458}{24518}Bravo Betty !|Tu as été merveilleuse !
+{24687}{24742}Ça suffit Mara !|Ne sois pas puérile.
+{24776}{24858}- Tu es une vedette !|- Tu le penses vraiment ?
+{24858}{24935}- Tu n'as pas entendu les applaudissements ?|- Vous étiez magnifique !
+{24960}{25050}Mes compliments les plus sincères !|Vous étiez sensationnelle !
+{25049}{25064}Merci.
+{25126}{25186}On organise une réception|un peu plus tard.
+{25205}{25288}- Merci.|- Vous étiez magnifique.
+{25291}{25349}- Merci Maestro.|- Vous viendrez à la réception ?
+{25397}{25457}- La presse va adorer.|- Mark, les journalistes sont là.
+{25464}{25562}Et à propos de l'accident du projecteur ?|Les éclats de voix, le cri ?
+{25560}{25633}- Quels cris ?|- Tu n'as rien entendu ?
+{25636}{25676}Ça venait de l'une des loges !
+{25704}{25724}Mark !
+{25759}{25791}Mark, elle n'a pas été grandiose ?
+{25891}{25989}Je sais que nous avons eu quelques problèmes|mais ça n'a rien à voir avec ''Macbeth''.
+{26004}{26064}Le seul malheur avec ''Macbeth''|c'est l'usage qu'on a fait de sa célébrité.
+{26080}{26092}Je sais...
+{26119}{26146}ma mère était cantatrice.
+{26176}{26246}Dépêchez-vous.|Le public vous attend.
+{26409}{26449}Fantastique !
+{26649}{26754}Je suis sérieuse ! Vous étiez|tout bonnement fantastique ! Grandiose !
+{26753}{26825}J'adore la musique de Verdi !|Vraiment !
+{26825}{26892}Oh mon Dieu !|Vous étiez simplement magnifique !
+{26902}{27012}Ce satané réalisateur !|Je n'en peux plus !
+{27258}{27311}Vous travaillez ici ?
+{27434}{27471}Vous êtes un de mes admirateurs !
+{27504}{27557}- Le premier !|- Le premier quoi ?
+{27556}{27609}- Félicitations.|- De mes admirateurs !
+{27608}{27671}Merci.|Vous voulez un autographe ?
+{27688}{27713}Oh ! Oui !
+{27733}{27748}Avec plaisir.
+{27765}{27780}Merci.
+{27894}{27926}Quel nom je dois...
+{27949}{27962}Alan !
+{28141}{28174}- Merci.|- Vous êtes étranger ?
+{28203}{28271}Tout est prêt inspecteur.|On n'attend plus que vous.
+{28302}{28394}- Alors vous êtes policier, pas un admirateur.|- Un policier ne peut-il pas aimer l'opéra ?
+{28419}{28432}C'est juste que...
+{28450}{28502}Je ne suis pas|un spécialiste mais...
+{28539}{28564}Votre voix... !
+{28639}{28672}Merci pour l'autographe.
+{28860}{28923}- Il voulait quoi le policier ?|- Un autographe.
+{28935}{28970}Pourquoi il est ici ?
+{29004}{29057}Sans doute à cause de l'accident|avec le projecteur.
+{29083}{29123}- Un des machinistes est mort.|- Quoi ?
+{29129}{29154}Oui. Assez étrange !
+{29172}{29255}Laissez votre costume ici.|Mark dit qu'il a besoin de quelques modifications.
+{29285}{29367}Je n'ai pas envie d'aller seule à la soirée.|Ça vous dirait de m'accompagner ?
+{29368}{29408}- S'il vous plaît !|- Bien sûr, j'adorerais.
+{29426}{29471}J'oubliais :|vous avez été géniale ce soir.
+{29488}{29546}On dirait que je suis le dernier|à vous féliciter.
+{29565}{29623}Je peux vous embrasser ?
+{29625}{29667}Même si je ne suis|qu'un simple régisseur ?
+{29683}{29698}Qu'est-ce que vous en dites ?
+{29860}{29907}Vous avez vraiment aimé ?
+{29915}{29955}Aimé ? J'ai adoré !
+{29990}{30042}De la part de la grande Mara Cecova.
+{30102}{30162}- Avec ses meilleurs vœux.|- Merci.
+{30299}{30414}La grande Mara Cecova peut dire qu'elle a été frappée|par la malédiction de ''Macbeth'' !
+{30505}{30555}''Bonne chance petit serpent.''
+{30572}{30625}On peut sûrement|sentir sa piqûre là-dedans.
+{30655}{30682}Ça a l'air coûteux.
+{30979}{31044}- A votre avis, qu'est-ce que c'est ?|- Qui sait ?
+{31068}{31143}Du jus de crapaud ?|De l'acide ?
+{31149}{31174}Du poison ?
+{31444}{31494}Qu'est-ce qu'il y a ?
+{31602}{31650}Idiot !
+{31710}{31807}Cecova pourrait baigner dans ce truc !
+{40131}{40181}Oiseaux de malheur !
+{40950}{41025}Je suis désolée, je ne peux pas.|Ce n'est pas de ta faute.
+{41037}{41117}Je suis une catastrophe au lit.|Je ne sais pas pourquoi. Je suis désolée.
+{41140}{41217}La légende dit que les cantatrices|sont incroyablement portées là-dessus.
+{41238}{41251}Vraiment !
+{41275}{41332}On dit qu'elles font l'amour|avant de monter sur scène.
+{41332}{41354}Une façon de...
+{41382}{41445}détendre leur voix.|Tu ne savais pas ?
+{41471}{41551}Soit je suis une chanteuse|d'opéra minable, soit...
+{41578}{41605}Je t'ai blessée ?
+{41616}{41628}Non.
+{41660}{41677}C'est juste que...
+{41710}{41793}Maintenant que tu es célèbre|les choses seront un peu différentes entre nous.
+{41842}{41899}Ne dis pas ça, c'est pas vrai.
+{42003}{42078}Quel endroit !|On dirait un musée.
+{42106}{42123}C'est un peu ça.
+{42151}{42176}J'ai un oncle très riche.
+{42188}{42290}Ça lui appartient. Il me le laisse|chaque fois que j'en ai besoin.
+{42357}{42409}- Tu veux du thé ?|- Oui, s'il te plaît.
+{42455}{42503}J'en ai à la rose,
+{42508}{42556}au jasmin ou à la menthe.
+{42566}{42621}- Au jasmin.|- OK.
+{42928}{42958}Non ! A la menthe !
+{44705}{44795}Tu vas bien regarder !|Si tu essaies de fermer les yeux...
+{44801}{44843}tu te déchireras les paupières.
+{44850}{44928}Donc tu vas être obligée|de tout regarder.
+{45038}{45066}Pourquoi tu l'as fermée ?
+{45108}{45135}Tout va bien ?
+{45494}{45534}Bon Dieu,|qu'est-ce qui se passe ici ?
+{47113}{47168}Ce n'est pas vrai|que tu es frigide.
+{47185}{47238}Tu es une vraie garce en chaleur.
+{48911}{48926}Allô ?
+{48957}{48987}On vient de commettre|un meurtre...
+{49006}{49056}au 6666 Viale Pegaso.
+{49082}{49099}Qui êtes-vous ?
+{49123}{49141}Qui est à l'appareil ?
+{49904}{49984}Mon Dieu ! C'est fou ce que|le succès peut vous changer !
+{49993}{50068}Venez ! Je vais acheter les journaux.|Je veux lire les critiques.
+{50139}{50157}Alors ?
+{50250}{50273}Vous avez mal aux yeux ?
+{50322}{50337}Les projecteurs ?
+{50354}{50379}Oui, les projecteurs.
+{50399}{50482}- Quels projecteurs ?|- OK, ce n'étaient pas les projecteurs.
+{50490}{50528}Comment vous allumez|le chauffage ?
+{50596}{50609}Merci.
+{50800}{50865}- C'était si moche que ça ?|- Je ne peux rien vous dire.
+{50920}{50945}C'était si...
+{50965}{50990}Je ne peux pas !
+{51022}{51047}Des problèmes de cœur ?
+{51067}{51082}De cœur ?
+{51105}{51198}Pourquoi de "cœur" ?|Chaque fois qu'une femme a un problème,
+{51199}{51259}les hommes pensent toujours|que ça vient du cœur !
+{51259}{51327}Vous les sopranos,|vous êtes célèbres pour...
+{51334}{51396}- ... coucher avec tout le monde ?|- Ce n'est pas ce que j'ai voulu dire.
+{51435}{51510}Ecoutez, on m'a déjà raconté|cette histoire ce soir.
+{51536}{51653}Les gens croient que nous faisons l'amour|avant de monter sur scène pour améliorer notre voix.
+{51681}{51693}C'est faux.
+{51711}{51761}En ce qui me concerne,
+{51772}{51789}c'est totalement faux.
+{51793}{51818}Vous ne faites jamais l'amour ?
+{51853}{51880}Bien sûr que si voyons.
+{51942}{51957}Cela dit...
+{52007}{52039}ça n'a jamais marché.
+{52085}{52098}Bon,
+{52138}{52173}vous travaillez pour le cinéma.
+{52189}{52259}Et dans votre domaine|vous avez une légende semblable...
+{52274}{52294}C'est vrai.
+{52325}{52385}Je me branle toujours|avant de tourner une scène.
+{52474}{52552}Allons, vous devrez|en parler tôt ou tard.
+{53012}{53087}Après je me suis enfuie|et je suis tombée sur vous.
+{53166}{53241}Le plus bizarre|dans ce qui m'est arrivé ce soir,
+{53277}{53330}c'est que toutes ces horreurs|que j'ai été obligée de voir...
+{53361}{53436}proviennent d'un cauchemar|que je faisais enfant.
+{53510}{53602}Je rêvais souvent d'un homme|portant une cagoule noire.
+{53636}{53726}- Ce soir j'ai vu cette même cagoule.|- Vous avez dit avoir appelé la police.
+{53741}{53753}Oui...
+{53760}{53785}Vous leur avez donné votre nom ?
+{53810}{53823}Non.
+{53885}{53910}Vous m'avez tout dit ?
+{53935}{53988}A propos de cette nuit ?|Oui.
+{54002}{54035}Pourquoi, il y a autre chose ?
+{54377}{54412}Je vais vérifier les autres pièces.
+{54703}{54736}Vous avez un petit ami ?
+{54792}{54804}Non.
+{54818}{54851}Quelqu'un qui|pourrait être jaloux ?
+{54859}{54899}Quoi ? Pas que je sache.|Pourquoi ?
+{54909}{54984}Il y a quelqu'un qui observe|vos fenêtres aux jumelles.
+{54990}{55002}Où ça ?
+{55019}{55031}Venez voir.
+{55162}{55247}Il est parti.|Il se tenait sous le réverbère.
+{55818}{55853}Je peux rester si vous voulez.
+{55878}{55925}Personne ne vous attend ?
+{55955}{55967}Si.
+{56005}{56078}Elle est probablement inquiète|que vous ne soyez pas rentré.
+{56124}{56184}Je vais m'enfermer.|Ne vous en faites pas.
+{56209}{56244}Pour plus de sûreté|fermez toutes les fenêtres.
+{56262}{56337}Je vais jeter un œil dans la rue.|Si je vois quelque chose de suspect...
+{56339}{56356}je vous appelle.
+{56375}{56390}Sinon...
+{56424}{56444}on se voit demain.
+{56503}{56518}Qu'est-ce qu'il y a ?
+{56618}{56653}Il y a quelqu'un dehors !
+{56683}{56711}Une femme et...
+{56759}{56774}Qui est là ?
+{56829}{56849}Qui êtes-vous ?
+{56873}{56925}A votre avis ?|Je vis ici.
+{56927}{56980}- Je suis une de vos voisines.|- Qui était cet homme ?
+{56989}{57011}Est-ce qu'il me cherchait ?
+{57015}{57075}Non. Ce n'est rien.
+{57087}{57140}Je vous l'ai dit : rien !
+{57202}{57305}- A votre avis c'était qui ?|- Une voisine, comme elle l'a dit.
+{57759}{57792}Mettez bien la chaîne.
+{57795}{57827}Je ne veux pas perdre|une autre vedette.
+{59987}{60027}Qui est-ce ?
+{60040}{60075}Qui est là ?
+{60191}{60228}Qui est là ?
+{60324}{60349}Allô ?
+{60391}{60444}C'est vous Mark ?
+{60490}{60547}Mark, est-ce que c'est vous ?
+{60758}{60848}Oh mon Dieu !|Pourquoi j'ai chanté ce rôle ?
+{60849}{60901}Je n'aurais pas dû !
+{60996}{61049}C'est ma faute.
+{61145}{61200}Pourquoi j'ai fait ça ?
+{61533}{61601}Ne pleure pas Betty.|Ne pleure pas !
+{61605}{61668}Accueil mouvementé de ''Macbeth''.
+{61683}{61736}''Brillants débuts d'une jeune chanteuse...
+{61736}{61809}remplaçant au dernier moment|Mara Cecova.''
+{61810}{61920}''Révolutionnaire mais mise en scène folle.|Des doutes concernant la direction d'acteurs.''
+{61918}{62001}''Un conseil au metteur en scène :|retournez aux films d'horreur.''
+{61999}{62037}''Oubliez l'opéra !''
+{62057}{62110}Ils te mettent en pièces.
+{62114}{62207}- Ce n'est jamais que du papier.|- Et elle une parfaite inconnue...
+{62208}{62288}- ... n'obtient que des éloges.|- Elle était très bonne.
+{62290}{62392}L'autre fois, quand ils ont loué Cecilia Gasdia|et anéanti ta mise en scène de ''Rigoletto''...
+{62394}{62467}tu étais furieux|mais pas cette fois-ci.
+{62480}{62515}Pourquoi ?
+{62547}{62625}Tu veux mettre cette fille|dans ton lit, pas vrai ?
+{62660}{62757}Pour être ici avec toi ce soir|j'ai pris deux avions...
+{62757}{62822}et j'ai refusé|une présentation de collection.
+{62993}{63098}Des fragments des mêmes plumes|mélangés à des traces de sang...
+{63096}{63189}ont été trouvés sur une moquette|dans l'appartement de Stefano Brini.
+{63206}{63234}C'était qui ? Votre...
+{63257}{63284}Régisseur.
+{63302}{63317}Ah oui !
+{63336}{63369}Votre régisseur.
+{63412}{63440}Tué ou plutôt...
+{63463}{63490}massacré la nuit dernière...
+{63494}{63552}entre une et deux heures du matin.
+{63602}{63627}Qui l'a vu en dernier ?
+{63712}{63767}On avait organisé une réception|hier soir.
+{63812}{63892}- Est-ce qu'il en est parti seul ?|- Je ne sais pas. Je n'y étais pas.
+{63901}{63958}Je vois.|Qui a assisté à cette soirée ?
+{63971}{63986}Vous ?
+{64007}{64027}Oui, j'y étais.
+{64028}{64051}Il est parti à quelle heure ?
+{64088}{64153}Je crois qu'il est parti avec Betty,|notre chanteuse.
+{64172}{64192}Betty est ici ?
+{64205}{64238}Non, mais elle ne devrait|plus tarder.
+{64239}{64312}- Nous devons répéter. Si vous...|- Je n'ai pas encore fini.
+{64344}{64421}Vous êtes Maurizio, c'est ça ?|Vous êtes chargé des corbeaux.
+{64451}{64499}- Combien ont été tués ?|- Trois.
+{64502}{64567}Inspecteur,|je sais qui les as tués.
+{64574}{64639}- Qui ?|- Mara Cecova, elle les détestait.
+{64664}{64704}Maurizio, de quoi vous parlez ?
+{64712}{64737}Ne soyez pas ridicule.
+{64750}{64815}Les corbeaux sont très vindicatifs.|Ils n'oublient pas.
+{64813}{64928}Ils n'oublient rien et des années après,|au moment où on ne s'y attend pas...
+{64932}{65019}Cette production de ''Macbeth'' a été frappée|par trop de malchance...
+{65020}{65050}et trop de coïncidences.
+{65073}{65160}- Ça développe l'imagination.|- Je ne veux pas que vous y pensiez...
+{65164}{65256}Je suis superstitieux|mais c'est ''Macbeth'' qui porte malheur.
+{65257}{65300}Tout le monde le sait.
+{65303}{65370}Je pourrais vous raconter des douzaines|d'incidents étranges.
+{65377}{65477}Beaucoup de gens croient|cet opéra maudit.
+{65516}{65551}J'ai vu beaucoup de vos films.
+{65573}{65618}Vous êtes un expert en ce domaine.
+{65638}{65680}Je serais très intéressé|de connaître votre opinion.
+{65694}{65782}Il est imprudent de se baser sur des films|pour expliquer la réalité, n'est-ce pas inspecteur ?
+{65788}{65833}Tout dépend de ce que|vous appelez réalité.
+{65836}{65926}Excusez-moi. Je dois arranger cette robe|avant la prochaine représentation...
+{65924}{65977}et je n'ai que deux mains !
+{65977}{66057}Même avec dix mains ces costumes|ne seraient qu'une pile de lambeaux !
+{66071}{66098}Quoi ?
+{66138}{66190}Très bien|Monsieur le Réalisateur de Génie !
+{66196}{66306}Il est évident que je fais porter la responsabilité|de ce qui est arrivé aux costumes...
+{66303}{66368}à cet imbécile qui pense que Verdi était un idiot|et Shakespeare un crétin !
+{66384}{66481}Je réparerai cette robe, pas pour vous|mais pour Giuseppe Verdi !
+{66491}{66536}Viens, sortons d'ici.
+{66678}{66746}- Tout cela t'excite, pas vrai ?|- Pourquoi tu dis ça ?
+{66751}{66806}- Tu es un vrai sadique !|- Vraiment ?
+{66807}{66879}Tout ceux qui te connaissent|disent la même chose.
+{66879}{66936}Ça ne doit pas|être drôle pour eux.
+{67543}{67556}Julia ?
+{67591}{67631}Juste la personne|que je voulais voir !
+{67637}{67667}Qu'est-ce qui est arrivé|à mon costume ?
+{67674}{67694}Regardez ce gâchis.
+{67715}{67765}- Quelqu'un l'a déchiré.|- Mais qui ?
+{67769}{67847}Quelqu'un qui n'aime pas l'opéra|ou la version de cet abruti de Mark.
+{67848}{67913}En ce moment notre réalisateur|n'en peut plus du bizarre.
+{67930}{68052}Ce n'est pas comme au cinéma|où on vous félicite pour votre originalité.
+{68080}{68100}Oh mon Dieu !
+{68150}{68182}Quel gâchis !
+{68189}{68294}Il faut le raccommoder et sans couturier|c'est à moi que ça revient.
+{68304}{68374}Vous devrez à nouveau l'essayer|une fois que j'aurai fini.
+{68484}{68557}Nous avons tout de même de la chance,|la plupart des bijoux sont intacts.
+{68556}{68616}Je reviens dans une minute.
+{69156}{69228}- Mira, je dois te voir. Je deviens folle.|- Moi aussi.
+{69230}{69298}Mon téléphone n'arrête pas de sonner.|Tout le monde te veux.
+{69297}{69315}Tout le monde !
+{69321}{69359}Rome, Vienne, Paris !
+{69362}{69392}Oui, c'est génial.
+{69393}{69448}Mais il faut que|je te parle d'autre chose.
+{69460}{69490}Quelque chose de grave.
+{69501}{69586}Un maniaque en a après moi.|Il faut que tu me dises ce que je dois faire.
+{69584}{69619}Je vais te le dire|tout de suite.
+{69626}{69676}- Va voir la police.|- Je ne peux pas.
+{69681}{69759}J'ai de gros problèmes|et je ne sais pas quoi faire.
+{69767}{69819}Mira, il faut que je te voie.
+{69821}{69869}D'accord, je passerai|te voir ce soir.
+{69893}{69926}Betty, qu'est-ce que tu as fait ?
+{70823}{70855}Betty, c'est vous ?
+{71184}{71209}Qui est là ?
+{72141}{72174}Ah, c'est vous !|Venez.
+{72177}{72199}Regardez ! Approchez !
+{72225}{72305}- Regardez ce que j'ai trouvé.|- Qu'est-ce que ça a de particulier ?
+{72309}{72369}C'est de l'or ! Je n'ai jamais|rien cousu en or là-dessus.
+{72381}{72399}C'est à vous.
+{72405}{72458}Non, c'est la première fois|que je le vois.
+{72501}{72574}- Comment ça a pu arriver sur mon costume ?|- Aucune idée.
+{72578}{72653}C'est peut-être celui qui l'a déchirée|qui l'a laissé tomber.
+{72686}{72713}Donnez-moi ça !
+{72730}{72802}On dirait|qu'il y a une date et...
+{72816}{72843}et une inscription.
+{72845}{72902}- Un nom ? Faites-moi voir.|- C'est écrit tout petit.
+{72899}{72934}Les lettres sont presque|complètement effacées.
+{72957}{73012}Je dois avoir une loupe quelque part.
+{73015}{73065}Je suis sûre d'en avoir une.
+{73068}{73121}Elle doit être...
+{73131}{73159}Zut !
+{73258}{73313}Elle doit être là.
+{73325}{73355}Bon sang !
+{73464}{73509}- Vous l'avez ?|- Non !
+{73575}{73597}Où est-ce que je l'ai vue ?
+{73567}{73635}Je suis certaine de l'avoir vue !
+{73672}{73685}Attendez !
+{73705}{73735}Elle est là-dedans.
+{73820}{73857}Où est-elle ?
+{73946}{74039}- Qu'est-ce qui se passe ? Betty ?|- Je vais bien. Ne vous inquiétez pas.
+{74061}{74141}Elle doit être ici.|Je l'ai vue dans un tiroir.
+{74308}{74325}Bon, écoutez...
+{74345}{74395}Continuez à chercher ici.|Je vais voir dans la lingerie.
+{75018}{75071}Je l'ai trouvée !
+{75194}{75286}Je l'ai.|Tu as aimé hier soir, traînée !
+{75299}{75349}Toutes les cantatrices|sont des putains !
+{75698}{75748}Il y a une date !
+{75924}{75976}Une date d'anniversaire|je suppose.
+{76120}{76167}Où êtes-vous ?
+{76242}{76270}Oh mon Dieu !
+{76880}{76942}C'est ça que vous voulez ?
+{76995}{77047}C'est ça que vous voulez ?
+{77048}{77068}Ici !
+{77094}{77122}Prenez-le !
+{77504}{77529}Salaud !
+{78350}{78375}C'est... c'est...
+{81718}{81763}Je te prendrai quand il me plaira...
+{81800}{81850}et où il me plaira.
+{84390}{84415}Bonjour !
+{84675}{84697}Lâchez-moi !
+{84730}{84748}Laissez-moi tranquille !
+{84772}{84782}Ces marques.
+{84803}{84825}Qui vous les a faites ?
+{84871}{84941}Une autre manifestation|de la malédiction de ''Macbeth'' ?
+{84957}{84992}Ou est-ce que ça|vous est arrivé cette nuit ?
+{85019}{85054}Alors il s'est passé|quelque chose cette nuit.
+{85102}{85120}Oui !
+{85124}{85156}Pourquoi vous ne m'avez rien dit ?
+{85200}{85218}Parce que...
+{85250}{85320}c'est encore pire|que je l'avais imaginé.
+{85349}{85427}Je voulais l'effacer de ma mémoire.
+{85477}{85509}Ne plus rien voir...
+{85536}{85566}Ne plus rien ressentir...
+{85627}{85652}Ne plus penser à rien...
+{85670}{85703}Juste m'enfuir !
+{85772}{85819}Je comprends ce que|vous voulez dire.
+{85833}{85870}Ecoutez. Je suis là pour vous aider...
+{85881}{85908}pas pour vous persécuter.
+{85929}{85996}Et je vous promets que nous ferons|de notre mieux pour arrêter cet homme.
+{86013}{86058}Mais j'ai besoin que vous collaboriez.
+{86184}{86237}Je ne sais pas|à quoi il ressemble.
+{86323}{86358}Il me ligote.
+{86395}{86418}Il me caresse.
+{86489}{86512}Il m'oblige à regarder.
+{86550}{86590}Mais il ne me laisse|jamais voir son visage.
+{86742}{86774}Cet après-midi...
+{86796}{86824}à l'opéra...
+{86836}{86881}il a tué Julia, la costumière.
+{86886}{86899}Mon Dieu !
+{86910}{86953}- Je ferai mieux d'y aller !|- Non, s'il vous plaît !
+{86977}{87000}Ne vous inquiétez pas.
+{87033}{87078}On va comprendre ce qui se passe.|Je vais revenir
+{87095}{87125}Ne me laissez pas seule.
+{87147}{87172}J'ai peur !
+{87209}{87226}D'accord.
+{87240}{87253}Calmez-vous.
+{87267}{87337}Vous montez et|vous vous enfermez chez vous.
+{87350}{87375}Attendez mon assistant,
+{87394}{87419}Daniele Soave.
+{87437}{87465}D'accord.
+{87558}{87573}Rappelez-vous...
+{87580}{87607}Daniele Soave.
+{88143}{88195}- Qui est-ce ?|- Daniele Soave.
+{88196}{88248}L'inspecteur vous a dit|que j'arrivais ?
+{88249}{88274}Oui, il me l'a dit.
+{88851}{88898}Bonjour.|Je peux entrer ?
+{88938}{88971}Oui, bien sûr.
+{88991}{89076}Ne vous inquiétez pas pour moi.|J'ai mal aux yeux, j'ai mis des gouttes.
+{89085}{89117}Je peux jeter un œil ?
+{89140}{89165}Oui, allez-y.
+{89247}{89297}Laissez-moi une minute|et je vous rejoins.
+{89350}{89370}Vous êtes tendue ?
+{89383}{89398}Un peu.
+{89417}{89440}Non, beaucoup !
+{89446}{89529}- Je suis là, alors détendez-vous.|- Je sais, merci.
+{89523}{89570}J'ai une bonne méthode|pour me relaxer.
+{89910}{89970}''Vous vous sentez très calme.''
+{89998}{90068}''Calme et détendue.''
+{90099}{90201}''Concentrez-vous|uniquement sur la musique."
+{90251}{90326}''Inspirez profondément.''
+{90371}{90396}''Un !''
+{90421}{90446}''Deux !''
+{90472}{90497}''Trois !''
+{90521}{90546}''Quatre !''
+{90560}{90605}- Vous m'avez appelé mademoiselle ?|- Non.
+{90630}{90665}J'écoute une cassette.
+{90669}{90704}Si vous avez besoin de moi...
+{91392}{91414}J'y vais.
+{91499}{91534}Vous attendez quelqu'un ?
+{91557}{91585}Oui, une amie.
+{91594}{91687}- Vérifier qui c'est avant d'ouvrir.|- Je sais que c'est elle.
+{91786}{91836}C'est toi Mira ?
+{91901}{91931}C'est elle !
+{92068}{92128}J'ai lu les journaux.|C'est terrible !
+{92133}{92205}- C'est pire encore.|- Tu n'es pas seule ?
+{92207}{92255}Oui, Vienne et Paris !
+{92282}{92377}Mira, le tueur a encore frappé.|Julia, la costumière !
+{92385}{92405}J'y étais !
+{92440}{92508}Maintenant je comprends|pourquoi la police te protège.
+{92510}{92527}Qui t'a dit ça ?
+{92539}{92549}Quoi ?
+{92563}{92598}Que la police me protège...
+{92602}{92657}Le policier dans le hall,|au rez-de-chaussée.
+{92658}{92700}Il m'a demandé|qui j'étais et où j'allais.
+{92711}{92751}Son nom est... Soave.
+{92807}{92827}Oui, c'est ça.
+{92939}{92967}Mais il est dans le living.
+{92985}{93013}Qui est dans le living ?
+{93019}{93047}Ça n'a pas de sens !
+{93071}{93084}Viens !
+{93533}{93590}- Qui c'est Betty ?|- Je ne sais pas.
+{93616}{93641}Ça pourrait être le maniaque.
+{93662}{93679}Il est parti.
+{93702}{93725}Il était ici.
+{93729}{93766}Appelle la police !
+{93793}{93863}Le téléphone est là-bas !|Mais j'ai trop peur d'y entrer.
+{93889}{93907}Il peut s'être caché...
+{93932}{93947}et attendre.
+{94052}{94075}Sortons d'ici.
+{94183}{94193}Attends !
+{94220}{94293}Et si celui-ci était le vrai|et celui d'en bas le maniaque ?
+{94299}{94326}On va tomber sur lui !
+{94324}{94369}Et si c'était le contraire ?
+{94389}{94441}Je n'ai aucune envie de le savoir.
+{94471}{94553}Tu as raison. Je n'ai même pas|eu le temps de bien le voir.
+{94605}{94622}La cuisine !
+{94655}{94680}La porte est solide !
+{94820}{94892}Des couteaux,|on peut se défendre.
+{95085}{95138}J'aimerais bien|le voir entrer maintenant.
+{95184}{95279}On peut toujours hurler.|Tu es cantatrice. Tu peux monter très haut.
+{95285}{95343}Cet immeuble est ancien.|Les murs font un mètre d'épaisseur.
+{95346}{95374}Personne ne nous entendrait.
+{96091}{96103}Oui.
+{96224}{96236}Très bien.
+{96274}{96294}D'accord, tout de suite.
+{97268}{97353}- Ouvrez la porte. C'est moi, Daniele Soave.|- Il est là dehors.
+{97380}{97430}Le maniaque est|dans votre appartement.
+{97437}{97455}Vite !
+{97484}{97539}Je ne vous fais pas confiance.|Ça pourrait très bien être vous.
+{97541}{97604}Je suis policier.|Je vais vous montrer ma plaque.
+{97613}{97658}Regardez, vous voyez ?
+{97689}{97712}Non ! Je ne vois rien.
+{97716}{97733}Une seconde.
+{97716}{97796}- Vous voyez comme ça ?|- N'importe qui peut en avoir une.
+{97797}{97814}Elle est fausse !
+{97814}{97894}Mais non allons.|Laissez-moi entrer.
+{97908}{97940}Non, je ne vous crois pas.
+{97953}{97981}Allez-vous-en !
+{97990}{98050}Regardez mon revolver.|C'est une arme de la police.
+{98052}{98087}Je vous ai déjà vu.
+{98117}{98135}Je vous connais !
+{98182}{98204}Non, pas le revolver !
+{98204}{98241}Je veux revoir votre visage !
+{99156}{99178}Allons Betty...
+{99203}{99238}Vous feriez mieux|d'ouvrir cette porte maintenant !
+{99264}{99304}J'entrerai|d'une façon ou d'une autre.
+{99371}{99404}Salaud !
+{99436}{99456}Fils de pute !
+{99495}{99555}Vous ne m'aurez pas !|Vous êtes cinglé !
+{99607}{99637}Je vous tuerai !
+{100159}{100219}''Vous vous sentez très calme.''
+{100254}{100316}''Calme et détendue.''
+{100341}{100424}''Concentrez-vous|uniquement sur la musique."
+{100450}{100500}''Inspirez profondément.''
+{100536}{100556}''Un !''
+{100579}{100592}''Deux !''
+{100612}{100622}''Trois !''
+{100648}{100663}''Quatre !''
+{104476}{104511}Daniele Soave.
+{104610}{104652}Alors c'était lui le policier.
+{105926}{105939}Betty !
+{105977}{105987}Viens !
+{106043}{106073}Vite ! Grimpe ici.
+{106117}{106134}Dépêche-toi ! Viens !
+{106355}{106425}- Où est-ce que ça mène ?|- Chez moi.
+{106515}{106582}- Qu'est-ce que tu fais là-dedans ?|- Je l'ai découvert.
+{106586}{106636}C'est l'ancien système|d'aération.
+{106652}{106709}Je peux atteindre|n'importe quel appartement.
+{106720}{106738}Tu as faim ?
+{106752}{106784}Non, oh non.
+{106840}{106868}Cet appartement est vide.
+{106893}{106928}Je t'observe tout le temps.
+{106941}{106966}- Vraiment ?|- Oui.
+{106979}{107009}J'aime quand tu chantes.
+{107021}{107079}- Tu as une très belle voix.|- Merci.
+{107323}{107398}J'ai vu cet homme qui essayait|de te tuer ce soir.
+{107412}{107442}Pourquoi est-ce que|tu grimpes là-dedans ?
+{107453}{107501}Je pars quand|mes parents se bagarrent.
+{107508}{107533}Alors ils se battent.
+{107747}{107762}On y est.
+{109900}{109980}Il est parti !|Tu as été très astucieuse !
+{110036}{110106}C'est toi qui a été très astucieuse !|Tu m'as sauvé la vie.
+{110274}{110286}Alma !
+{110356}{110378}C'est ma mère.
+{110528}{110588}Qui êtes-vous ?|Qu'est-ce que vous faites ici ?
+{110590}{110632}- C'est vous !|- Maman, c'est Betty.
+{110662}{110692}Vous vous souvenez de moi ?
+{110696}{110728}Non, je ne me souviens|pas du tout de vous.
+{110741}{110796}La nuit dernière|vous étiez devant ma porte.
+{110812}{110852}C'est vrai,|vous ne m'avez pas vue.
+{110863}{110908}Ecoutez, il est arrivé|quelque chose de terrible.
+{110909}{110936}Ouais, vous êtes entrée ici.
+{110949}{110974}C'est toi qui|l'as laissée entrer Alma ?
+{110982}{110997}Oui, c'est elle.
+{111012}{111035}C'est mon amie.
+{111039}{111064}Il faut que j'appelle la police !
+{111073}{111098}Sortez de chez moi !
+{111134}{111179}- Mais c'est mon amie !|- Toi tu te tais !
+{111177}{111207}- Où est le téléphone ?|- Sortez d'ici !
+{111210}{111225}Vous avez entendu ?
+{111272}{111290}Sortez !
+{111308}{111345}D'accord, d'accord,|je m'en vais...
+{111358}{111386}mais vous appelez la police.
+{111405}{111465}Tu es toute sale !|Dégoûtante !
+{111468}{111528}Toi tu es dégoûtante !|A toujours être nue !
+{111531}{111591}Ça suffit !|Va dans ta chambre !
+{114616}{114651}Qu'est-ce que vous faites ici ?
+{114667}{114679}Mark !
+{114710}{114735}Vous êtes au courant de|ce qui s'est passé ?
+{114734}{114801}Oui. J'ai appelé chez vous|et j'ai parlé à un flic.
+{114817}{114855}Je ne pensais pas|que vous viendriez ici.
+{114868}{114900}Je n'ai pensé qu'à m'enfuir.
+{114925}{114950}A me cacher !
+{114964}{114999}J'ai peur partout...
+{115030}{115055}sauf ici !
+{115087}{115117}Je me sens en sécurité ici.
+{115165}{115210}Je vais aller dormir|dans ma loge.
+{115221}{115234}Betty ?
+{115282}{115377}Il va y avoir beaucoup de bruit.|Les machinistes vont modifier le décor.
+{115396}{115453}- J'ai opéré un changement dans le spectacle.|- Quel changement ?
+{115458}{115493}Je ne veux pas|vous inquiéter avec ça...
+{115503}{115556}mais je crois avoir trouvé|le moyen d'identifier l'assassin.
+{115569}{115611}Je ne sais pas|pourquoi je n'y ai pas pensé plus tôt.
+{115630}{115660}Nous avons des témoins.
+{115697}{115762}Et si ce malade se trouve|parmi le public, demain soir,
+{115799}{115842}je l'aurai !
+{115908}{115936}Et s'il ne vient pas ?
+{115962}{115989}Il viendra.
+{116092}{116177}Je suis tellement fatiguée,|j'ai envie de dormir.
+{116183}{116208}Dormir ?
+{116264}{116319}Et poursuivre un rêve, hein ?
+{116332}{116430}Ouais, c'est ça le problème,|mais dans le sommeil de la mort...
+{116428}{116511}quel rêve peut encore surgir|alors que le voilà mortel,
+{116510}{116575}il faut que je me repose.
+{119128}{119166}C'est toi maman ?
+{119512}{119607}Je viens de faire le même cauchemar|que je faisais souvent quand j'étais enfant.
+{119624}{119679}Mais je n'arrive pas|à déterminer si c'est juste un rêve...
+{119694}{119766}ou le souvenir d'un événement|qui s'est réellement passé.
+{121275}{121313}Qu'est-ce que tu en penses ?
+{121425}{121465}Du calme ! Tout va bien.
+{121467}{121502}Ne t'inquiète pas,|on va l'avoir !
+{121506}{121553}- Mais quand ?|- Bientôt.
+{121649}{121684}Très bientôt.
+{121913}{121938}Allez-y !
+{123181}{123208}Maintenant !
+{126875}{126902}Betty !
+{126908}{126975}- Je vous avais dit qu'on l'aurait ce soir !|- Vous êtes un génie !
+{128507}{128540}C'était le flic !
+{128586}{128621}Incroyable !
+{128646}{128696}Mais pourquoi il a pu faire ça ?
+{128769}{128819}Pas un bruit !
+{128850}{128865}Viens !
+{129196}{129246}Comme ta mère.
+{129288}{129336}Ta voix est identique à la sienne.
+{129352}{129374}Ton corps !
+{129380}{129487}Même ta peau.|Oh mon Dieu, comme je l'ai aimée...
+{129557}{129589}Je ne veux pas te tuer.
+{129640}{129698}C'est elle qui m'a appris|ce jeu cruel,
+{129712}{129790}tuer, torturer|et après elle se donnait à moi.
+{129836}{129866}J'étais son esclave !
+{130255}{130278}Arrête !
+{130728}{130740}Assieds-toi.
+{130969}{130996}Du calme ! Du calme !
+{131025}{131058}Quand je t'ai vue la nuit dernière...
+{131097}{131150}j'ai cru que c'était un miracle.
+{131304}{131329}Tiens-toi tranquille !
+{131558}{131598}Il y a quelque chose en toi.
+{131736}{131776}Mais tu n'étais pas|une vedette comme elle.
+{131787}{131827}Alors je me suis occupé de Mara.
+{131955}{132035}Betty, tout ce que je veux|c'est te faire l'amour.
+{132054}{132066}Mais...
+{132071}{132114}mais les gens n'ont rien compris.
+{132177}{132215}Maintenant c'est trop tard.
+{132446}{132496}Comment pourrais-tu|aimer un monstre ?
+{132632}{132672}Je ne veux plus|que tu me regardes.
+{133036}{133071}Mieux vaut que je meure.
+{133100}{133112}Oui...
+{133364}{133436}Je veux brûler.|Personne ne pourra me trouver.
+{133540}{133555}Disparaître...
+{133623}{133668}Personne ne pourra plus me trouver.
+{133961}{133976}Tu sens ?
+{134024}{134039}De l'essence !
+{134403}{134423}Tu as peur ?
+{134463}{134476}Moi oui.
+{134504}{134536}J'ai peur d'avoir mal.
+{134640}{134657}Tu vas m'aider ?
+{134717}{134744}Là, prends ça.
+{134831}{134851}Tiens-le comme ça.
+{134950}{134963}Bien !
+{134999}{135012}Bien !
+{135037}{135050}Relève-le !
+{135073}{135085}Plus haut !
+{135150}{135165}Plus haut !
+{135197}{135212}Tourne-le vers la gauche.
+{135259}{135272}A gauche !
+{135318}{135336}C'est trop.
+{135366}{135379}Parfait.
+{135388}{135400}Maintenant...
+{135419}{135432}tire !
+{135470}{135483}Tire !
+{135513}{135538}Qu'est-ce que tu attends ?
+{135590}{135620}Je ne t'en ai pas fait assez ?
+{135639}{135664}Tu en veux plus ?
+{135697}{135767}J'ai étranglé ta mère.|Elle en voulait trop...
+{135778}{135853}elle voulait toujours plus de sang, de cruauté.|Elle ne voulait pas que je la touche !
+{135907}{135932}Et tu sais quoi ?
+{135947}{135960}Elle aimait ça !
+{136762}{136787}Au secours !
+{136817}{136847}Je ne peux pas sortir !
+{136936}{136971}Oh mon Dieu !
+{138923}{138953}Je ne peux pas sortir !
+{139028}{139068}Je ne peux pas sortir !
+{139102}{139119}Mark !
+{139328}{139343}Il est mort !
+{139364}{139382}Il est mort !
+{139870}{139912}C'est important d'aller à Paris.
+{139932}{139990}On présentera|une "Traviata" inoubliable !
+{140011}{140041}Comment tu veux l'interpréter ?
+{140060}{140075}Tendre ?
+{140106}{140121}Timide ?
+{140150}{140170}Sensuelle ?
+{140208}{140246}- Bonjour.|- Bonjour.
+{140268}{140283}Alors ?
+{140304}{140369}Je ne crois pas que|le problème se pose encore.
+{140628}{140651}J'en était sûre !
+{142182}{142302}On vient d'apprendre un nouveau rebondissement|dans l'affaire du crime de l'opéra.
+{142318}{142448}Vous vous rappelez le rapport des spécialistes|disant que le tueur fou, l'inspecteur Alan Santini,
+{142448}{142533}avait trouvé la mort dans l'incendie|qui avait détruit une aile du théâtre.
+{142535}{142662}La police nous informe aujourd'hui|que les cendres du corps présumé de Santini...
+{142666}{142716}n'étaient pas celles d'un corps humain...
+{142719}{142781}- C'est pas vrai !|- ... mais celles d'un mannequin.
+{142840}{142875}Les autorités comprennent à présent...
+{142875}{142967}que Santini avait mis au point|ce coup de théâtre spectaculaire...
+{142973}{143056}afin de lui donner le temps|de s'échapper.
+{143072}{143142}Une chasse à l'homme|a été déclenchée contre Santini
+{143148}{143198}considéré comme très dangereux.
+{143203}{143315}Les forces de police et Interpol|ont décidé d'apporter une collaboration totale.
+{143337}{143352}Betty !
+{143372}{143437}Il n'est pas mort !|Il est vivant !
+{143436}{143521}Il est ici ! Cours !|Pour l'amour de Dieu, cours !
+{143533}{143548}Cours !
+{145263}{145290}Je suis comme ma mère.
+{145315}{145342}Je m'en rends compte à présent.
+{145485}{145562}Je voulais que tu sois le plus fort,|que tu le tues.
+{145670}{145715}Je suis exactement comme elle !
+{145819}{145851}Viens, il faut qu'on parte.
+{145880}{145892}Viens !
+{146034}{146074}Avant que quelqu'un|découvre le corps !
+{146340}{146367}Viens, on doit s'en aller !
+{147042}{147164}- Il est là !|- Attrapez-le !
+{147595}{147667}Ce n'est pas vrai !|Je ne suis pas comme ma mère !
+{147672}{147717}Je n'ai rien d'elle !|Rien du tout !
+{147717}{147742}Rien du tout !
+{147760}{147805}Je n'ai commis aucun crime !
+{147813}{147866}J'ai juste voulu libérer leur âme.
+{147969}{147991}Laissez-moi le tuer !
+{148306}{148329}Il voulait vous tuer ?
+{148370}{148430}- Vous saviez qu'on arrivait ?|- Oui, je savais.
+{148441}{148494}J'avais vu vos chiens|qui couraient dans la forêt.
+{148563}{148613}Nous avions repéré|sa trace depuis deux jours.
+{148623}{148660}J'ai vu que vous lui parliez...
+{148670}{148725}Qu'est-ce que vous lui avez dit|pour l'empêcher de vous tuer ?
+{148731}{148746}Rien.
+{148757}{148792}Une suite de non-sens.
+{148802}{148817}Des histoires.
+{148839}{148857}C'est un malade...
+{148887}{148912}il est totalement fou.
+{149136}{149193}Je ne voulais plus|voir personne.
+{149226}{149274}Je voulais|m'échapper entièrement...
+{149287}{149317}parce que je suis différente.
+{149354}{149436}Je ne ressemble pas même vaguement|aux autres, à aucun d'eux.
+{149463}{149493}J'aime le vent.
+{149518}{149538}Les papillons !
+{149569}{149587}Les fleurs !
+{149610}{149630}Les feuilles !
+{149656}{149681}Les insectes !
+{149703}{149720}La pluie !
+{149745}{149780}Les nuages !
+{150222}{150257}Là mon beau.
+{150413}{150440}Va, libre !
+
+
+
+

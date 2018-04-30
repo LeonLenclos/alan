@@ -1,0 +1,548 @@
+{1019}{1089}Je te demande une chose...
+{1114}{1152}Ici, à la maison...
+{1173}{1241}Tu sais que je ne supporte pas|la fumée.
+{1264}{1307}Si tu veux fumer...
+{1318}{1383}fais-le sur la véranda,|je t'en prie.
+{1393}{1430}Fais-le pour moi.
+{1746}{1793}Où est la véranda ?
+{1885}{1917}Je t'en prie.
+{2964}{3003}Je pourrais peut-être...
+{3081}{3104}Oui ?
+{3132}{3163}Enfin...
+{3198}{3241}Je pourrais peut-être...
+{3290}{3360}Mes meubles personnels,|je pourrais peut-être...
+{3417}{3460}Mais Martha...
+{3492}{3586}Ne serait-ce que par leur style|ils ne sont pas à leur place ici.
+{3623}{3681}Crois-moi, tu t'habitueras.
+{4274}{4333}Il ne faut pas être triste Martha.
+{4602}{4635}Tu sais...
+{4646}{4704}Une semaine entière sans toi...
+{4760}{4815}Je rentre déjà vendredi.
+{4862}{4938}Je penserai si fort à toi|toute la semaine...
+{4957}{5023}que peut-être|tes oreilles siffleront.
+{7872}{7890}Bonjour !
+{8118}{8165}Bonjour madame Salomon.
+{8186}{8246}J'ai déjà dit bonjour|il y a un moment.
+{8258}{8322}Alors encore une fois : Bonjour !
+{8332}{8400}Merci.|Mais qu'est-ce que vous venez faire ici ?
+{8483}{8521}Ce que je viens...
+{8558}{8589}Mais...
+{8608}{8636}Je ne comprends pas.
+{8653}{8735}Madame Salomon, votre mari a résilié|votre contrat depuis longtemps.
+{8742}{8763}Mon contrat ?
+{8770}{8784}Oui.
+{8822}{8855}Mais c'est...
+{8898}{8935}C'est vrai.
+{8977}{9014}Mon Dieu, je...
+{9072}{9136}Je voulais simplement|emprunter un livre.
+{9172}{9191}C'est ça.
+{9229}{9303}Mais volontiers.|Faites comme chez vous !
+{9315}{9348}Au plaisir !
+{11913}{11971}J'aurais voulu parler à Mme Salomon.
+{11977}{12021}Madame Ilse Salomon.
+{12086}{12139}Les Salomon sont encore en vacances.
+{12177}{12235}Ils doivent rentrer quand ?
+{12297}{12345}Pas avant quinze jours !
+{12368}{12414}On ne peut rien y faire.
+{12432}{12473}Merci tout de même !
+{12686}{12733}Mercredi, jeudi, vendredi...
+{13934}{14020}Tu ne te trouves pas trop vieille|pour une telle coiffure ?
+{14564}{14609}Ne pleure pas, je t'en prie.
+{14635}{14686}J'étais si content de te revoir.
+{14713}{14743}Vois-tu...
+{14765}{14823}Tu l'as fait pour moi, non ?
+{14897}{14961}Même si cette coiffure me fait rire
+{15007}{15098}je sais très bien|que l'intention était bonne.
+{15146}{15188}Allez ! Souris de nouveau !
+{15503}{15601}Qu'est-ce que tu as fait|toute la semaine mon cœur ?
+{15784}{15825}Rien de particulier.
+{15856}{15968}J'ai essayé de lire mais l'histoire|ne me rentrait pas dans la tête.
+{16038}{16065}Eh oui...
+{16143}{16171}Helmuth...
+{16276}{16340}Pourquoi tu ne m'en as pas parlé ?
+{16367}{16393}De quoi ?
+{16463}{16520}De la résiliation de mon contrat.
+{16544}{16577}De quoi ?
+{16628}{16685}La résiliation de ton contrat ?
+{16697}{16726}Mais c'était décidé|depuis longtemps.
+{16848}{16947}Je t'ai dit clairement que je ne|voulais pas que ma femme travaille.
+{17201}{17259}Tu ne l'avais pas oublié, non ?
+{17558}{17584}Viens !
+{17594}{17622}Où ?
+{17674}{17713}Tu le sais très bien.
+{17736}{17763}Maintenant ?
+{17827}{17872}Le repas est prêt...
+{17933}{17990}Il ne fait pas encore nuit...
+{18666}{18749}Pardonne-moi Martha !|J'ai dû te faire très mal.
+{18787}{18870}Mais comprends-moi !|C'est parce que je t'aime tant...
+{18909}{18988}et que tu m'as beaucoup manqué|toute cette semaine.
+{19023}{19089}Alors quand je te tiens|dans mes bras
+{19098}{19158}je ne sais plus ce que je fais.
+{19200}{19275}Il faut bien que je te dise|combien je t'aime.
+{19506}{19549}Tu m'en veux encore ?
+{19652}{19689}Non Helmuth. Non.
+{19720}{19764}Je ne t'en veux pas.
+{19821}{19867}Je sais maintenant.
+{20035}{20066}Seulement...
+{20091}{20138}Dans un premier moment...
+{20161}{20219}J'ai eu atrocement peur.
+{20247}{20292}Pardonne-moi.
+{20370}{20424}Oui Martha. Je te pardonne.
+{20624}{20669}Viens maintenant !|J'ai besoin de toi.
+{21073}{21113}Au fait Martha...
+{21225}{21278}Je t'ai ramené un cadeau.
+{21296}{21325}Un disque.
+{21350}{21398}C'est gentil. Merci.
+{21699}{21767}C'est toi qui écoutes|cette musique épouvantable ?
+{21822}{21848}Laquelle ?
+{22025}{22072}Oui, je l'aime beaucoup.
+{22114}{22169}Mais Martha|ce n'est pas de la musique.
+{22215}{22282}C'est un excrément. Rien d'autre !
+{22374}{22397}Oui ?
+{22452}{22544}Je ne sais pas. Je ne connais pas|grand-chose à la musique.
+{22553}{22606}J'aime seulement l'écouter.
+{22745}{22788}Ça c'est de la musique !
+{22878}{22936}C'est ça que tu devrais écouter|Martha.
+{23061}{23098}Oui, sans doute.
+{23110}{23140}Certainement.
+{23209}{23235}Mais...
+{23304}{23392}Je dois retourner à la cuisine|et m'occuper du repas.
+{23655}{23743}C'est ça qu'il faut écouter Martha.|Continuellement.
+{23779}{23830}Jusqu'à ce que tu comprennes|ce que tu entends.
+{23836}{23900}Oui Helmuth. J'essaierai.
+{23956}{23996}Qu'est-ce que c'est que ça ?
+{24002}{24028}Ça ?
+{24050}{24114}Des rognons de porc Helmuth.
+{24130}{24183}A la sauce bourguignonne.
+{24195}{24249}Je me suis donné beaucoup de mal.
+{24273}{24321}Excuse-moi Martha, mais...
+{24337}{24431}tu as oublié|que j'étais allergique aux abats ?
+{24437}{24489}Depuis des années.
+{24517}{24549}Mais non Helmuth.
+{24555}{24597}C'est ton plat préféré :
+{24603}{24671}rognons de porc|à la sauce bourguignonne.
+{24819}{24898}Ce n'est vraiment pas|une raison de pleurer.
+{24963}{25036}Je vois bien|que l'intention était bonne.
+{25115}{25163}Tu le vois bien, n'est-ce pas ?
+{25205}{25253}Bien sûr ma chérie.
+{25285}{25334}Bien sûr que je le vois.
+{25395}{25490}Tu es seulement un peu troublée|et tu confonds certaines choses.
+{25517}{25569}Mais ça passera, tu verras.
+{25634}{25717}Est-ce que parhasard ton père|aimait les rognons de porc ?
+{25756}{25785}Réfléchis !
+{25865}{25888}Papa ?
+{25953}{25986}Mais oui !
+{26006}{26062}C'était le plat préféré de papa.
+{26068}{26143}Tu vois ! Tout s'explique.
+{26211}{26295}Allons à la cuisine me préparer
+{26301}{26404}quelque chose à manger.|Un plat quelconque, d'accord ?
+{26881}{26949}Voici un livre|sur la statique des barrages.
+{26960}{27008}Je l'ai acheté pour toi.
+{27037}{27097}Tu as toute la semaine|pour t'y intéresser.
+{27109}{27173}J'aimerais|que tu comprennes mon métier,
+{27179}{27222}qu'on puisse en discuter.
+{27767}{27840}''La compression...
+{27861}{27981}''nécessaire a la fabrication|du béton de qualité supérieure...
+{28014}{28097}''exige un coefficient|de ciment hydraulique
+{28121}{28181}''inférieur ou égal...
+{28203}{28271}à 0,45.''
+{28721}{28773}Allô Marianne !|Martha à l'appareil.
+{28785}{28888}J'arrive enfin à t'avoir. J'ai|essayé toute la semaine dernière.
+{28920}{28965}Oh oui ! Ça me ferait plaisir.
+{28975}{29005}A trois heures ?
+{29017}{29065}D'accord. A plus tard.
+{29200}{29223}Alors ?
+{29241}{29295}Ça te plaît le mariage ?
+{29408}{29474}Tout est encore|tellement nouveau pour moi.
+{29486}{29569}Et pas si emballant|que tu le croyais, n'est-ce pas ?
+{29610}{29638}Tu vois...
+{29664}{29756}Je t'ai toujours dit|qu'il ne fallait jamais trop espérer.
+{29762}{29799}Voilà le problème.
+{29817}{29847}Mais...
+{29889}{29922}Tu sais...
+{29941}{30027}Ça ne se passe pas non plus|comme tu me l'avais dit.
+{30033}{30059}Comment alors ?
+{30138}{30171}Eh bien...
+{30243}{30289}C'est difficile à dire.
+{30321}{30389}Tout est si différent, si...
+{30422}{30496}Ton mari n'est pas pour rien un des|plus séduisants que je connaisse.
+{30502}{30526}Oui ?
+{30544}{30573}Tu trouves ?
+{30603}{30642}C'est vrai...
+{30654}{30691}qu'il est...
+{30743}{30766}Mais...
+{30783}{30853}un peu bizarre peut-être.
+{30902}{30987}Comment ça bizarre ?|Il t'aime, non ?
+{31003}{31034}Mais oui !
+{31062}{31101}Il m'aime beaucoup.
+{31117}{31156}A la folie !
+{31198}{31232}Et cependant...
+{31251}{31293}il me paraît très bizarre.
+{31307}{31471}Patiente. Un jour, tout à coup,|tu le trouveras très commun.
+{31514}{31549}Tu crois ?
+{31598}{31621}Oui.
+{31639}{31672}Si seulement...
+{31696}{31725}Ce serait...
+{31742}{31775}magnifique !
+{31865}{31938}Qu'est-ce qu'il a de si bizarre ?
+{31966}{31993}Eh bien...
+{32008}{32059}A y réfléchir comme ça,
+{32065}{32124}il ne me vient|rien de particulier à l'esprit.
+{32148}{32179}Cependant...
+{32220}{32297}je n'irais pas jusqu'à dire|qu'il me fait peur mais ...
+{32319}{32416}parfois j'ai tout de même|un peu peur de lui.
+{32454}{32509}Tu as peur ? Pourquoi donc ?
+{32587}{32613}Tu sais...
+{32643}{32703}c'est aussi difficile à dire.
+{32727}{32800}C'est plutôt un sentiment que j'ai.
+{32817}{32850}Une sensation.
+{32886}{32935}Qu'est-ce qu'il fait ? Il te bat ?
+{32941}{32977}Marianne, tu as de ces idées !
+{32983}{33031}Bien sûr qu'il ne me bat pas.
+{33038}{33093}Il est...
+{33116}{33153}en fait...
+{33167}{33213}tout à fait normal.
+{33238}{33273}Seulement...
+{33343}{33393}Je ne sais pas très bien...
+{33409}{33452}Les mots...
+{33462}{33527}Je ne sais jamais|comment m'exprimer.
+{33539}{33603}Peut-être parce que|tout est nouveau pour moi.
+{33608}{33678}- Tu es malheureuse alors ?|- Non Marianne.
+{33684}{33785}Je ne suis pas malheureuse du tout.|Au contraire, je suis heureuse.
+{33791}{33842}Parfaitement heureuse. Bien sûr.
+{33859}{33890}Seulement...
+{33938}{33988}En amour par exemple...
+{34003}{34030}Là...
+{34051}{34097}Il est très dur.
+{34103}{34131}Dur ?
+{34137}{34201}Pas dur|dans le sens de sévère Marianne.
+{34229}{34272}Il est très brutal.
+{34278}{34350}- Brutal ?|- Non, pas brutal.
+{34378}{34400}Il...
+{34426}{34472}Il m'embrasse d'une façon très rude.
+{34482}{34509}Où ?
+{34654}{34711}Il est sans retenue en amour.|C'est ça ?
+{34735}{34763}Oui.
+{34775}{34806}Ça doit être ça.
+{34842}{34882}Sans retenue.
+{35434}{35469}Bonjour madame Salomon.
+{35523}{35556}Je vous avais aperçue.
+{35580}{35624}J'habite dans le coin.
+{35681}{35750}Bon. Je dois m'en aller.
+{35768}{35786}Adieu !
+{35797}{35865}Je pourrais peut-être|vous accompagner ?
+{35881}{35911}Non ?
+{35936}{35988}J'ai toujours eu l'intention|de vous parler
+{35994}{36041}pour vous poser une question.
+{36057}{36094}Dites-moi...
+{36118}{36221}Pourquoi votre mari a agi comme ça|au sujet de votre place ?
+{36250}{36281}Mon mari a fait quoi ?
+{36315}{36411}Il a résilié votre contrat|sans vous prévenir.
+{36583}{36633}C'est comme ça que ça s'est passé.
+{36639}{36675}Non M.Kaiser !
+{36691}{36750}Ça ne s'est pas du tout|passé comme ça.
+{36765}{36865}Et d'autre part c'est mon affaire.|Mon affaire toute personnelle.
+{36875}{36904}Au revoir.
+{36993}{37021}Au revoir.
+{37236}{37281}De nouveau Donizetti ?
+{37341}{37422}La musique que je t'avais offerte|ne t'a pas plu ?
+{37435}{37470}Si Helmuth.
+{37494}{37524}Seulement...
+{37541}{37620}Je ne peux pas écouter|la même musique toute la semaine.
+{37849}{37894}Tu l'as au moins écoutée une fois ?
+{37943}{37981}Non Helmuth...
+{38028}{38065}je n'aime pas ce genre de musique.
+{38291}{38370}Tu as lu le livre|sur la technique des barrages ?
+{38467}{38490}Ah ?
+{38819}{38876}Je te dirai sincèrement Helmuth ...
+{38965}{39020}Je n'ai même pas essayé de le lire.
+{39045}{39107}Ça ne m'intéressait pas, c'est tout.
+{41043}{41163}''La compression nécessaire|à la fabrication du béton supérieur
+{41169}{41286}exige un coefficient de ciment|hydraulique inférieur ou égal à 0,45.''
+{42099}{42133}Martha à l'appareil.
+{42153}{42213}Excuse-moi de te déranger !
+{42233}{42270}Helmuth est chez vous ?
+{42300}{42395}Oui, mais il est sorti|depuis plusieurs heures et...
+{42423}{42480}J'ai lu le livre entre-temps.
+{42510}{42555}Il n'est pas chez vous ?
+{42575}{42680}Je vais pouvoir discuter avec lui.|J'ai aussi écouté cette musique.
+{42690}{42754}Je la trouve très belle, vraiment.
+{42774}{42827}Tu es certaine qu'il n'est pas là ?
+{42879}{42902}Non.
+{42957}{43029}Je suis seulement|très nerveuse et...
+{43072}{43136}je n'ai plus de tranquillisants.
+{43149}{43249}Je les ai jetés dans les WC.|Dans les toilettes, tu vois ?
+{43255}{43302}Il y a un bout de temps déjà.
+{43334}{43411}Je m'étais dit|qu'il était allé chez son frère.
+{43423}{43462}Mais s'il n'est pas là...
+{43481}{43509}Oui, oui.
+{43520}{43549}Bonne nuit.
+{44507}{44558}Martha Salomon,
+{44579}{44622}née Heyer,
+{44661}{44700}un lundi
+{44730}{44784}23 septembre.
+{45347}{45415}Martha Salomon à l'appareil.|Monsieur Kaiser ?
+{45489}{45595}Je vous présente mes excuses.|J'ai été très impolie récemment.
+{45627}{45685}C'est parce que...
+{45695}{45763}je suis très nerveuse|ces derniers temps, et...
+{45839}{45899}je me sens très seule.
+{45919}{46002}Je n'ai pas de nouvelles de mon mari|depuis plusieurs jours.
+{46025}{46103}Il faut que je parle avec quelqu'un|sinon je deviens folle.
+{46118}{46176}Vous auriez envie qu'on se voie ?
+{46188}{46241}Oui, à deux heures.
+{46265}{46292}Merci.
+{46749}{46826}Pardon.|Je suis bien chez Salomon ?
+{46856}{46914}Je vous ai pris|pour quelqu'un d'autre.
+{46920}{46984}Oui, vous êtes bien chez Salomon.
+{46998}{47050}Qu'est-ce que je peux faire pour vous ?
+{47056}{47179}Je suis de la Poste madame. J'ai|l'ordre de débrancher le téléphone.
+{47185}{47214}Le téléphone ?
+{47220}{47306}C'est impossible.|Vous êtes chez Salomon ici.
+{47312}{47398}Nous n'avons nullement l'intention|de faire débrancher notre téléphone.
+{47410}{47472}Voilà la demande|signée par votre mari.
+{47478}{47535}Il a même souligné|que c'était urgent.
+{47580}{47617}Mais oui...
+{47631}{47679}Bien sûr !
+{47710}{47791}Je ne pensais pas|que ça se ferait si vite.
+{47819}{47879}Il est là, dans le coin.
+{48151}{48192}Qu'est-ce qui s'est passé ?
+{48213}{48252}Vous vous êtes disputés ?
+{48258}{48288}Non.
+{48311}{48342}Seulement...
+{48359}{48416}je n'avais pas lu ce livre.
+{48426}{48484}Entre-temps je l'ai lu.
+{48497}{48592}J'ai même appris les passages|en caractères gras par cœur.
+{48604}{48699}- Quel livre vous n'aviez pas lu ?|- Ah, ça n'a pas d'importance.
+{48711}{48799}Il est très à cheval|sur les principes. Bien sûr...
+{48833}{48915}d'un autre coté,c'est aussi|une bonne chose, n'est-ce pas ?
+{48927}{48973}Parce que sans principes...
+{48987}{49060}Que serait l'être humain|sans principes ?
+{49102}{49199}Vous avez eu une dispute comme ça...|à cause d'un livre ?
+{49204}{49292}Une dispute ?|Il n'y a pas eu de dispute du tout.
+{49319}{49367}Tout d'un coup,
+{49385}{49423}tout s'est assombri.
+{49483}{49518}Vous vous souvenez ?
+{49541}{49601}A quoi pense la souris le jeudi ?
+{49697}{49733}Je m'en souviens.
+{49768}{49841}A la même chose|que tous les autres jours.
+{49857}{49929}Il ne faut pas|être malheureuse Martha.
+{49935}{49974}Vous ne le méritez pas.
+{49980}{50006}Helmuth.
+{50354}{50377}Vous ?
+{50406}{50478}- Qu'est-ce que vous faites ici ?|- Qu'est-ce que vous voulez dire madame ?
+{50484}{50519}Je ne vous connais pas.
+{50525}{50553}Mais vous...
+{50571}{50617}C'est vous qui ce matin...
+{50636}{50658}avez débranché...
+{50665}{50737}Je regrette|mais vous me prenez pour un autre.
+{50941}{50979}C'était votre mari ?
+{51053}{51092}Je ne sais pas.
+{51299}{51336}Bonjour Martha.
+{51348}{51375}Helmuth !
+{51385}{51412}Bonjour.
+{51727}{51778}Comment vas-tu Martha ?
+{51790}{51850}Maintenant ça va bien.
+{52033}{52091}Tu désires une tasse de thé ?
+{52123}{52160}Volontiers Martha.
+{52464}{52537}Bon. Je vais te chercher|une tasse de thé.
+{52562}{52621}Orlando di Lasso ?
+{53427}{53470}Merci Martha.
+{53605}{53650}Le livre t'a plu ?
+{53656}{53691}Oui Helmuth.
+{53701}{53760}C'est un livre très intéressant.
+{53881}{53994}La compression nécessaire|à la fabrication du béton supérieur
+{54003}{54117}exige un coefficient de ciment|hydraulique inférieur ou égal à 0,45.
+{54128}{54248}Nous recommandons les coefficients|de ciment entre 0,38 et 0,42.
+{54261}{54405}Ces coefficients de ciment|ou ceux inférieurs sont obtenus
+{54417}{54529}par l'utilisation d'additifs|tels que le plastificateur G.
+{54541}{54647}Cet additif permet|l'abaissement du niveau de l'eau.
+{54666}{54727}On accroît ainsi|la capacité d'humectage de l'eau
+{54733}{54788}et la plasticité du béton.
+{54819}{54883}Quant au choix des fondants
+{54888}{54962}et à la détermination|de leur composition,
+{54971}{55039}il suffit que la dureté du fondant
+{55045}{55105}soit le double|de celle du béton souhaité.
+{55111}{55249}La production de béton de qualité|nécessite l'emploi de fondants purs.
+{55291}{55339}Tu vois Martha...
+{55356}{55472}On peut prendre plaisir|à s'intéresser à ces questions.
+{56415}{56462}Je t'aime Martha.
+{56474}{56523}Je t'aime infiniment.
+{56595}{56659}Martha, ma biche, ma chérie.
+{56702}{56752}Mais non, je t'en prie.
+{56778}{56821}Je suis là.
+{56883}{56916}Regarde-moi !
+{57268}{57324}Tu sais, une idée m'est venue.
+{57347}{57418}Il existe une chose|que tu pourrais faire,
+{57430}{57500}que je trouverais|absolument merveilleuse.
+{57519}{57598}Ce serait une grande preuve|de ton amour pour moi.
+{57657}{57680}Oui.
+{57733}{57803}Dis-le-moi Helmuth.
+{57873}{57956}J'aimerais que tu ne quittes|plus notre appartement.
+{58183}{58264}Je souhaite tant|que tu n'existes que pour moi.
+{58270}{58313}Pour moi tout seul.
+{58331}{58414}Tu sais, pendant mon travail|toute la semaine...
+{58441}{58486}Quand j'imagine...
+{58523}{58552}L'idée...
+{58575}{58633}que tu puisses m'être infidèle,
+{58650}{58711}m'est insupportable, tu vois.
+{58805}{58893}J'en mourrais. Crois-moi|Martha, ce serait ma mort.
+{58903}{58932}Mais...
+{58959}{59032}Comment peux-tu penser|une chose pareille ?
+{59053}{59095}Que tu es bête !
+{59139}{59187}Comment peux-tu imaginer...
+{59199}{59248}que je puisse te tromper.
+{59258}{59331}Jamais je ne le ferais. Jamais.
+{59382}{59461}Tu vois Martha,|c'est exactement ce que je pensais.
+{59473}{59543}C'est pourquoi l'idée m'est venue...
+{59573}{59668}que le mieux serait de ne pas|te soumettre à la tentation.
+{59701}{59730}C'est oui ?
+{59746}{59787}Tu es d'accord ?
+{59885}{59917}Bien.
+{59960}{60004}Très bien,
+{60040}{60063}Martha.
+{60351}{60375}Oui ?
+{60421}{60472}On pourrait peut-être...
+{60494}{60521}avoir un enfant ?
+{60537}{60589}Non Martha, malheureusement.
+{60600}{60684}Pense à ta mère malade, très malade.
+{60706}{60781}Où tu aimerais mettre au monde|un enfant hydrocéphale ?
+{60913}{60937}Viens !
+{62767}{62810}Qu'est-ce que c'est que ça ?
+{62846}{62870}Ça ?
+{62913}{62961}Un chat Helmuth.
+{62989}{63074}Je l'ai baptisé ''Rouble''|parce qu'il était tout noir.
+{63085}{63192}J'ai pensé que ça ne te dérangerait|pas parce que ce n'est qu'un animal.
+{63198}{63221}Et...
+{63260}{63292}Oui ?
+{63344}{63412}J'ai eu tellement|besoin d'un être vivant
+{63417}{63464}à force d'être seule
+{63475}{63521}toute la semaine.
+{63532}{63572}Alors je me suis...
+{63603}{63669}Tu ne peux pas|me l'interdire Helmuth.
+{63689}{63721}N'est-ce pas ?
+{63758}{63819}Tu me permets de garder Rouble ?
+{63839}{63894}Mais bien sûr ma chérie.
+{63905}{63950}Si tu y tiens tant.
+{64015}{64048}Je le savais.
+{64072}{64096}Merci.
+{64125}{64149}Merci.
+{64171}{64211}Merci beaucoup.
+{64237}{64282}J'ai faim Martha.
+{64302}{64337}Oui, bien sûr.
+{64348}{64407}C'est prêt dans quelques instants.
+{64941}{64984}Mon petit Rouble !
+{65059}{65106}Il est mort !
+{65204}{65247}Qu'est-ce qui se passe ?
+{65268}{65327}Mon chat est mort.
+{65349}{65384}Il est mort.
+{66364}{66424}Et hier j'ai trouvé mon chat mort.
+{66433}{66495}Ça ne meurt pas comme ça un chat.
+{66501}{66550}Il était encore tout jeune.
+{66561}{66601}Ça peut arriver.
+{66612}{66717}Chez les animaux il peut se passer|les choses les plus étranges.
+{66757}{66775}Et ça ?
+{66810}{66864}Arrêtez ! Les gens commencent|à nous observer.
+{66936}{66977}Ça vient de lui ?
+{66988}{67012}Oui.
+{67043}{67092}Il me fait toujours très mal
+{67116}{67161}quand nous nous aimons.
+{67172}{67254}Et d'une fois à l'autre il se contrôle|de moins en moins. J'ai peur.
+{67274}{67355}Vous devez faire attention Martha.|Votre mari...
+{67409}{67437}est un sadique.
+{67461}{67521}Ce n'est pas vrai. Vous mentez.
+{67551}{67591}Vous êtes ignoble.
+{67616}{67718}Vous avez l'imagination malsaine|et vous voulez briser mon mariage.
+{67850}{67938}Si vous avez besoin de moi|vous savez où me trouver.
+{68785}{68839}Tu étais sortie Martha.
+{68863}{68953}Tu m'avais pourtant promis|de ne pas quitter la maison.
+{69038}{69062}Mais...
+{69086}{69110}ça...
+{69138}{69170}ça n'a rien ...
+{69258}{69319}Il n'y a pas de quoi bégayer Martha.
+{69344}{69384}Ce n'est pas grave,
+{69400}{69420}non ?
+{69438}{69462}Non.
+{69485}{69524}Bien sûr que non.
+{69560}{69600}Bien sûr que ce n'est pas grave.
+{69622}{69659}Tu vois bien.
+{69690}{69744}Je vais prendre un bain Martha.
+{69755}{69839}Ma voiture|est tombée en panne et puis...
+{69872}{69926}j'ai très envie de toi.
+{70083}{70147}Au fait je t'ai ramené un cadeau.
+{70162}{70235}J'aimerais qu'aujourd'hui tu sois|particulièrement gentille avec moi.
+{70240}{70293}Tu le trouveras sur le lit.
+{70398}{70432}Il m'a...
+{70451}{70510}Il m'a ramené un cadeau.
+{70540}{70574}Il m'a...
+{70608}{70710}Mon Dieu! Il m'a demandé|d'être particulièrement gentille...
+{70721}{70766}Il veut me tuer.
+{71592}{71636}Qu'est-ce que tu as ?
+{72429}{72477}Vous devez m'aider.
+{72493}{72542}Il veut me tuer.
+{72591}{72694}Il m'a ramené un cadeau.
+{72710}{72759}Il veut me tuer.
+{72773}{72824}Venez, je vous en prie.
+{72841}{72865}Bon...
+{72893}{72933}Nous allons faire un tour.
+{72938}{72987}Je vais chercher|les clés de la voiture.
+{73433}{73483}Calmez-vous maintenant !
+{73899}{73978}Mon Dieu,|il est derrière nous. Il nous suit.
+{73983}{74049}Il a prétendu|que sa voiture était en panne.
+{74289}{74326}Accélérez, je vous en prie.
+{74497}{74543}Attention ! Il s'approche.
+{74548}{74572}Accélérez !
+{74578}{74603}Il arrive.
+{74616}{74641}Le voilà.
+{74652}{74694}Ne ralentissez pas surtout !
+{74707}{74740}Il ne doit pas nous rattraper.
+{76148}{76184}Où suis-je ?
+{76241}{76310}Tu es à l'hôpital Martha.
+{76408}{76447}A l'hôpital.
+{76583}{76620}Et pourquoi ?
+{76669}{76728}Tu as eu un accident Martha.
+{76748}{76819}Tu te trouvais dans la voiture|d'un certain M.Kaiser.
+{76988}{77022}Il est...
+{77091}{77134}blessé ?
+{77151}{77205}Monsieur Kaiser a été tué.
+{77400}{77434}Mon Dieu !
+{77464}{77512}C'est de ma faute.
+{77576}{77625}Et moi qu'est-ce que j'ai ?
+{77889}{77954}N'aie pas peur|de me dire la vérité !
+{77959}{78020}Je supporte pas mal de choses.
+{78075}{78133}Tu resteras paralysée toute ta vie.
+{78358}{78392}Mon Dieu !
+{78541}{78590}Mais je m'en sortirai.
+{78620}{78659}Je travaillerai...
+{78683}{78717}avec mes mains.
+{78764}{78798}Je m'en sortirai.
+{78856}{78915}Martha, tu as Helmuth.
+{78946}{79033}Helmuth ne laisserait jamais tomber|qui que ce soit.
+{79053}{79127}Il est resté|tout le temps auprès de ton lit.
+{79132}{79179}Il t'aime, Martha.
+{79206}{79255}Non, non...
+{79383}{79422}Maman, maman !
+{79427}{79498}Pourquoi|vous me laissez tous tomber ?
+{80319}{80356}Entrez !
+{80430}{80472}Vous avez de la visite.
+{80640}{80664}Oui.
+{81029}{81106}- Martha, Helmuth est là.|- Laisse-là !
+{81132}{81211}Elle doit encore se faire|à sa nouvelle vie.
+{81241}{81300}Laisse-lui un peu de temps !
+{81665}{81699}Ma chérie...
+{81722}{81768}Elle pourra bientôt|rentrer à la maison.
+{81773}{81832}Vu les circonstances|elle va très bien.
+{81837}{81938}Je m'en réjouis. Je me sentais|déjà bien seul à la maison.
+{82280}{82400}Vous n'êtes pas heureuse du tout de|rentrer chez vous madame Salomon ?
+{82405}{82479}Si Magdalena. Je me réjouis.
+{82620}{82659}Alors Martha...
+{82671}{82718}J'espère que tu seras sage
+{82723}{82789}et que tu seras très vite|complètement rétablie.
+{82806}{82839}Complètement ?
+{82858}{82900}Tu sais Martha.
+{82905}{82998}Face aux décisions de Dieu|l'homme est impuissant.
+{83060}{83092}Au revoir.
+{83149}{83194}Courage mon vieux.
+{83257}{83305}Au revoir monsieur Salomon.
+{83321}{83377}Attendez, c'est pour vous.
+{83398}{83431}Merci beaucoup.
+{84371}{84462}D'après un roman|de Cornell Woolrich
