@@ -13,7 +13,8 @@ import json
 import re
 import os
 import sys
-import datetime
+import logging
+import datetime, time
 import wave
 import chatterbot
 import pygame
@@ -46,6 +47,15 @@ class Alan(chatterbot.ChatBot):
         self.settings = {}
         for settings_file in settings_files:
             self.load_settings(settings_file)
+
+        # config logging
+        logging.basicConfig(
+            level=logging.INFO,
+            filename=self.settings.get('logging_file', 'log.txt'),
+            filemode="a",
+            format='%(message)s'
+            )
+
 
 
         # Alan age
@@ -95,6 +105,16 @@ class Alan(chatterbot.ChatBot):
         output_adapters = self.settings.get('output_adapters', [output_adapter])
         for adapter in output_adapters:
             self.output.add_adapter(adapter, **self.settings)
+
+        #log
+        self.logger.info('')
+        self.logger.info('-'*10)
+        self.logger.info('ALAN: initialization')
+        self.logger.info(
+            'time          = {}'.format(time.strftime("%d/%m/%Y %H:%M:%S")))
+        self.logger.info(
+            'settings file = {}'.format(settings_file))
+
 
     def load_settings(self, settings_file):
         """
@@ -231,7 +251,6 @@ class Alan(chatterbot.ChatBot):
 def main():
     # Arguments parsing
     ap = argparse.ArgumentParser()
-    ap.add_argument('-v', action='store_true', help="Mode verbose (depreciated)")
     ap.add_argument('-t', action='store_true', help="Mode Test")
     ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["default"])
 
@@ -239,9 +258,7 @@ def main():
     settings_files = args.s
 
     # Mode verbose
-    if args.v:
-        import logging
-        logging.basicConfig(level=logging.INFO)
+
 
     # init Alan
     alan = Alan(settings_files=settings_files)

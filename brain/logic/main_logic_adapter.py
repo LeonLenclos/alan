@@ -23,16 +23,27 @@ class MainLogicAdapter(MultiLogicAdapter):
 
         :param statement: The input statement to be processed.
         """
+        self.logger.info('')
+        self.logger.info('-'*10)
+        self.logger.info('LOGIC: processing all adapters')
+        self.logger.info(
+            'input = "{}"'.format(statement.text))
+
         results = []
         result = None
         max_confidence = -1
         result_adapter = None
-
+        processing_all_start = time.time()
         for adapter in self.get_adapters():
+
+            #log
+            self.logger.info('')
+            self.logger.info(adapter.identifier)
+
             output = None
             result_info = dict(logic_identifier=adapter.identifier,
                                logic_type=type(adapter).__name__)
-            start = time.time()
+            processing_adapter_start = time.time()
 
             if adapter.can_process(statement):
 
@@ -65,21 +76,41 @@ class MainLogicAdapter(MultiLogicAdapter):
             results.append(result_info)
 
             # timer
-            end = time.time()
+            processing_time = int((time.time()-processing_adapter_start)*1000)
 
             # log
+            if processing_time > 0:
+                self.logger.info(
+                    'processing time = {}ms'.format(processing_time))
             if output:
                 self.logger.info(
-                    '{} = time:{:.6} confidence:{}\ntext:"{}"'.format(
-                        adapter.identifier, end-start, output.text, output.confidence
-                    )
-                )
-            else:
+                    'response        = "{}"'.format(output.text))
                 self.logger.info(
-                    '{} = time:{:.6} NOT PROCESSING'.format(
-                        adapter.identifier, end-start
-                    )
-                )
+                    'confidence      = {}'.format(output.confidence))
+                if result_info["not_allowed_to_repeat"]:
+                    self.logger.info('not allowed to repeat')
+
+            else:
+                self.logger.info('not processing')
+
+
+        # timer
+        processing_time = int((time.time()-processing_all_start)*1000)
+
+        # log
+        self.logger.info('')
+        self.logger.info('-'*10)
+        self.logger.info(
+            'LOGIC: result'.format(result_adapter.identifier))
+        self.logger.info(
+            'response              = "{}"'.format(result.text))
+        self.logger.info(
+            'logic adapter         = "{}"'.format(result_adapter.identifier))
+        self.logger.info(
+            'confidence            = {}'.format(result.confidence))
+        self.logger.info(
+            'total processing time = {}ms'.format(processing_time))
+
 
         try:
             for adapter in self.get_adapters():

@@ -5,8 +5,9 @@ __pycache__/
 # Database
 *.sqlite3
 
-# Todos
+# Todos and log
 todo*
+log.txt
 
 # Pour les mac
 .DS_Store
