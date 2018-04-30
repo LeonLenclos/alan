@@ -49,8 +49,6 @@ class RiveScriptAdapter(AlanLogicAdapter):
         if type(history) is dict:
             latest_reply = self.chatbot.storage.get_latest_statement()
             if latest_reply:
-                print("latest_reply " + latest_reply.text)
-                print("history reply 0 " + history["reply"][0])
                 history["reply"][0] = latest_reply.text
         self.interpreter.set_uservar(user, "__history__", history)
 
