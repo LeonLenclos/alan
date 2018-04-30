@@ -1,0 +1,1003 @@
+{3185}{3225}Tu n'en peux plus.
+{4090}{4137}Bois avec moi Seki.
+{4332}{4370}C'est assez chaud ?
+{4377}{4452}Ça suffit, je sors.
+{4465}{4505}Toyoji est passé ?
+{4530}{4567}Il vient te voir ?
+{4575}{4645}Oui, depuis son retour|de l'armée.
+{4682}{4775}Il a du temps à perdre|ce grand fainéant !
+{4840}{4920}Il ne serait pas|amoureux de toi ?
+{4972}{5032}Il pourrait être mon fils !
+{5075}{5127}Tu fais très jeune.
+{5135}{5175}Ils t'appellent "petite Seki",
+{5182}{5230}ils te donnent 30 ans.
+{6517}{6535}Ils sont bons ?
+{6542}{6565}Je pense bien !
+{6572}{6632}Ils sont de ce matin.
+{6670}{6710}Donne m'en trois|pour quatre sous.
+{6717}{6775}J'y perds.
+{6782}{6862}Comme tu viens|tous les jours...
+{7295}{7347}Quel beau temps !
+{7372}{7400}Vous en voulez un ?
+{7435}{7512}Que c'est gentil.|Tu me gâtes toujours...
+{7520}{7570}Ce n'est rien.
+{7577}{7625}Tu les as acheté où Toyoji ?
+{7632}{7680}Chez l'épicier.
+{7687}{7717}Ils étaient si frais.
+{7725}{7787}Je parie qu'ils sont bons.
+{7815}{7835}Ah oui !
+{7852}{7885}Bien, j'en prends un.
+{7892}{7937}Je me laisse toujours gâter.
+{7945}{7995}Je vais faire du thé.
+{8005}{8045}Goûtez d'abord.
+{8282}{8360}Il ne serait pas|amoureux de toi ?
+{8742}{8785}Qu'as-tu...
+{8802}{8847}à me regarder ?
+{8862}{8922}Servez-vous Belle Dame !
+{9395}{9420}Au fait Toyoji,
+{9427}{9512}quand tu es venu la première fois,|c'était pour quoi ?
+{9577}{9605}Encore un.
+{9622}{9650}Non, c'est pour toi.
+{9657}{9682}Non, pour vous.
+{9690}{9727}Pour toi Toyoji.
+{9735}{9760}Eh bien...
+{9782}{9820}moitié-moitié.
+{10187}{10275}En ce jour béni...
+{10372}{10460}Béni du ciel...
+{10727}{10767}Félicitations Madame.
+{10782}{10857}Faut pas nous oublier Seki.
+{10865}{10922}Elle aime mieux|s'occuper de son mari.
+{10942}{11047}Toujours aussi charmante et jeune|notre Seki.
+{11065}{11135}Elle plaît toujours autant.
+{11142}{11222}Ça doit inquiéter|son Gisaburo.
+{11272}{11327}Oh Madame !
+{11345}{11395}Mes félicitations !|Quel beau jour !
+{11402}{11485}Le saké te rend bien gai|et tu es gai tous les jours !
+{11492}{11592}Même gai|on n'oublie pas sa femme !
+{11935}{12032}Entre donc et viens boire.
+{12080}{12135}Il serait temps de te marier.
+{12142}{12175}Ça te fait quel âge ?
+{12182}{12227}Le même âge que le marié.
+{12337}{12397}Ce que vous deviez|être belle
+{12405}{12447}le jour de vos noces !
+{12455}{12490}Merci.
+{13692}{13720}Belle Dame...
+{13942}{13967}Elle dort ?
+{14280}{14310}Hé, l'enfant !
+{14347}{14412}Ne prends pas tout !
+{14472}{14520}Laisse-m'en un peu.
+{14577}{14747}L'enfant est|un fardeau léger
+{14787}{14810}et bien lourd.
+{14817}{14840}Belle Dame...
+{14970}{15027}Ah, Toyoji !
+{15055}{15110}Il pourrait faire froid.
+{15217}{15310}Je ne sens plus mes épaules|ces temps-ci.
+{15317}{15355}Des courbatures ?
+{15362}{15392}Laissez-moi...
+{15565}{15645}L'enfant crie et pleure,
+{15687}{15777}la nourrice gronde l'enfant,
+{15805}{15935}la grand-mère|gronde la nourrice...
+{16040}{16102}Arrête ! Je ne veux pas !
+{16110}{16132}Non Toyoji !
+{16172}{16200}Voyons...
+{16207}{16275}Vous ne voulez pas ?|Détendez-vous...
+{16407}{16450}Tu me fais mal !
+{16457}{16510}Tu bouges trop.
+{16517}{16570}Voilà... Tranquille...
+{16822}{16852}C'est bon ?
+{18062}{18145}Tu ne voulais pas...|et regarde, tu es émue.
+{18152}{18247}Tu es si brutal.
+{18677}{18715}Quel froid !
+{18797}{18867}Il ne va pas rentrer tôt|ce soir.
+{18932}{18965}Dis Seki.
+{18990}{19052}Je n'y tiens plus. Regarde.
+{19060}{19090}Quoi ?
+{19145}{19205}Eh bien regarde.
+{19222}{19277}Écoute Toyoji...
+{19285}{19335}Rentre-le.
+{19342}{19380}Justement pas.
+{19402}{19457}Regarde.
+{19485}{19550}Je ne peux pas|faire ça à Gisaburo.
+{19557}{19622}Arrêtons.
+{19682}{19782}Tu l'as fait une fois,|tu le referas.
+{19790}{19860}Et tu n'es pas contre.
+{20162}{20210}Je pensais à cette histoire...
+{20217}{20312}L'employé de la mairie|me l'avait racontée.
+{20320}{20365}Quelle histoire ?
+{20387}{20480}Une femme violée|par un bandit...
+{20487}{20577}Le souvenir lui est resté|toute sa vie.
+{20662}{20695}Seki,
+{20705}{20775}tu as changé|depuis la première fois.
+{20812}{20845}J'oublie...
+{20852}{20930}que tu as vingt-six ans|de moins que moi.
+{20937}{20987}Et moi...
+{21010}{21132}que tu en as|vingt-six de plus.
+{21212}{21245}Mais...
+{21265}{21295}Mais ?
+{21427}{21452}Tu comprends...
+{21475}{21575}je deviens fou quand je vous imagine,|toi et ton mari !
+{22572}{22610}Papa !
+{22685}{22725}Tu dors ?
+{22745}{22832}Ça me fait du bien.
+{22882}{22962}Sers-toi à ta guise.
+{22970}{23035}Non ! Je préfère te masser.
+{23042}{23092}Tu es bien nourrie là-bas ?
+{23100}{23155}Oui mais j'ai toujours faim.
+{23262}{23300}C'est dur ?
+{23307}{23362}J'aimerais mieux l'école.
+{23397}{23495}Ta mère aussi|a gardé des enfants.
+{23510}{23555}À l'école
+{23562}{23610}on n'apprend rien.
+{23685}{23772}C'est de l'argent perdu.
+{23820}{23877}Je veux avoir une belle vie.
+{23942}{24042}Ta mère disait ça.
+{24050}{24135}"Je veux une belle vie...|Une belle vie."
+{24197}{24265}Elle n'y est pas arrivée.
+{24407}{24462}Qu'est-ce qu'ils font tes parents ?
+{24492}{24552}Pas l'amour quand même !
+{24565}{24605}Pas en plein jour !
+{24642}{24682}Dis petit !
+{24702}{24770}Elle fait quoi ta maman ? Dis !
+{24795}{24825}Qui est là ?
+{25247}{25315}Hé ! Le sourd !
+{25347}{25400}Quel temps !
+{25417}{25477}Toyoji dehors, par cette pluie !
+{25485}{25510}On est aux aguets ?
+{25522}{25590}On ne guette pas, on voit.
+{25627}{25685}Avec ce temps|même le pousse-pousse
+{25705}{25747}ne sort pas ?
+{25762}{25847}Ni lui ni Seki, à cette heure, eh...
+{25945}{25985}Vous ne les avez pas vus ?
+{25992}{26095}Pas une âme|depuis trois jours.
+{26102}{26152}Quel jour de l'An pourri !
+{26160}{26210}Tu prendras bien du thé ?
+{26217}{26245}Entre donc.
+{26252}{26277}Non, ça va.
+{26292}{26320}Merci, vraiment.
+{26630}{26657}Toyoji !
+{26665}{26685}Seki !
+{26810}{26860}C'est dangereux.
+{26867}{26922}On ne nous voit pas.
+{27020}{27052}Où tu étais ?
+{27060}{27125}Chez ma tante malade.
+{27170}{27185}Je croyais...
+{27192}{27260}D'où tu viens toi ?
+{27287}{27365}Si longtemps sans se voir !
+{27402}{27440}- Viens !|- Où ?
+{27447}{27465}Chez moi.
+{27472}{27512}Et ton jeune frère ?
+{27520}{27557}Denzo ? Qu'importe !
+{27565}{27675}Il est tard.|On m'attend chez moi.
+{27692}{27720}Qui donc ?
+{28392}{28422}Rase-le !
+{28577}{28610}Rase-le !
+{28787}{28815}Rase-toi !
+{31107}{31140}Il faut qu'on le tue.
+{31227}{31267}On va le tuer.
+{31390}{31437}Tu es rasée à présent.
+{31517}{31562}Il va s'en apercevoir.
+{31635}{31682}Je m'arrangerai.
+{31792}{31845}Tu crois ? Pas si simple.
+{31922}{31960}Je ne peux pas.
+{31967}{32022}Le tuer, je ne peux pas.
+{32077}{32135}Tu ne peux pas|mais tu le feras.
+{32285}{32310}C'est le seul moyen ?
+{32317}{32347}Le seul.
+{32567}{32592}Seki,
+{32610}{32662}je ne peux plus|vivre sans toi.
+{32670}{32740}Ou bien il meurt,|ou bien on me tue.
+{32860}{32920}Qu'est-ce que je dois faire Toyoji ?
+{32992}{33025}Qu'est-ce que je dois faire ?
+{33077}{33107}Dis Toyoji.
+{33195}{33227}On le tue.
+{33235}{33267}On le jette dans un puits.
+{33287}{33335}Personne ne le saura.
+{33360}{33400}Personne ? Tu es sûr ?
+{33407}{33440}Certain !
+{33477}{33517}Il finira par pourrir
+{33525}{33557}et puis plus rien.
+{33595}{33632}Tu crois ?
+{33650}{33677}Oui, je crois.
+{33727}{33765}Tu es sûr ?
+{33787}{33825}Vraiment sûr ?
+{33867}{33930}C'est pour toi|qu'il faut le faire.
+{34227}{34262}Il faudra du saké.
+{34270}{34347}Nous le tuerons|quand il sera ivre mort.
+{34445}{34485}Il en faudra combien ?
+{34517}{34570}Une grande bouteille suffira.
+{34597}{34640}Lui c'est l'eau-de-vie pure.
+{34647}{34700}L'eau-de-vie ?
+{34712}{34750}Il ne boit que ça.
+{34757}{34805}Le reste n'est pas assez fort.
+{34897}{34932}Il est solide.
+{35347}{35420}Quel froid Seki !
+{35447}{35502}Ça ne présage rien de bon.
+{35727}{35755}Seki !
+{35972}{36010}Ça tombe
+{36052}{36092}à gros flocons.
+{36250}{36277}Petit enfant !
+{36285}{36332}Après dîner, au lit !
+{36375}{36420}Le froid m'a saisi.
+{36437}{36497}Un peu plus|j'étais pris dans la neige.
+{36620}{36672}Je suis rentré à temps.
+{36687}{36720}L'eau-de-vie,
+{36727}{36770}très chaude ?
+{38022}{38072}Tu vas rouiller les ciseaux.
+{38082}{38130}C'est moi qui les aiguise.
+{38412}{38497}J'adore ça|le thon séché et salé...
+{38522}{38575}Rien de meilleur !
+{38585}{38627}Surtout long comme ça
+{38635}{38680}et on coupe aux ciseaux !
+{39392}{39445}Brave Seki.
+{39462}{39540}Tu dorlotes ton mari.
+{39562}{39600}C'est bien pour lui.
+{39620}{39660}C'est beau la tendresse.
+{39697}{39737}Rien à voir...
+{39745}{39790}avec ma patronne.
+{39797}{39845}Le saké ne manque|pourtant pas.
+{39852}{39900}Et si j'en bois
+{39907}{39955}elle fait des histoires !
+{39970}{40070}Elle devrait prendre|exemple sur toi.
+{41265}{41300}Tu as des invités ?
+{43027}{43105}Il faut quelque chose de solide.
+{43145}{43197}Non ! Ce n'est pas|pour un bébé.
+{43205}{43235}Une vraie corde.
+{43245}{43280}Du chanvre.
+{43887}{43917}Ecoute...
+{43942}{43987}Tu tires de toutes tes forces.
+{44000}{44045}Tu ne t'affoles pas
+{44060}{44095}quoi qu'il arrive.
+{44102}{44130}Compris ?
+{45127}{45152}Lâche pas !
+{45522}{45562}Il est mort.
+{45762}{45795}Ecoute bien.
+{45832}{45885}Quoi qu'il arrive... ne dis rien.
+{46017}{46052}Ne pleure pas.
+{46060}{46097}Ne pleure pas !
+{46310}{46357}C'est fait. Il est mort.
+{46370}{46427}Taisons-nous
+{46435}{46472}et on ne saura rien.
+{46497}{46522}Sinon
+{46535}{46570}ils nous pendront.
+{46592}{46665}Si on m'interroge,|qu'est-ce que je réponds ?
+{46672}{46702}Si on t'interroge
+{46710}{46750}tu dis qu'il travaille
+{46757}{46785}à Tokyo.
+{47052}{47085}Et ça...
+{47107}{47137}qu'est-ce qu'on en fait ?
+{47150}{47200}Il faut aller vite.
+{47227}{47252}Comment ?
+{47260}{47305}Qu'est-ce qu'on va en faire ?
+{47312}{47337}On va le jeter
+{47345}{47375}dans un puits.
+{47382}{47410}C'est tout.
+{47420}{47465}Mais comment|le porter là-bas ?
+{47472}{47495}A nous deux,
+{47502}{47542}on va le porter.
+{47555}{47605}Et si on nous voit ?
+{47627}{47682}À cette heure ?|Par cette neige ?
+{47690}{47717}T'inquiète pas.
+{47757}{47795}Alors vite.
+{47820}{47872}Le jour va se lever.
+{47882}{47935}Je n'en peux plus.
+{48282}{48305}Courage !
+{48312}{48352}Reprends-le.
+{51277}{51332}Le vent d'automne...
+{51360}{51420}Les feuilles jaunies tombent.
+{51442}{51540}Elles couvrent le sol.
+{51567}{51595}Et les paysans
+{51602}{51635}les ratissent.
+{51657}{51717}Ce sera leur combustible.
+{51737}{51805}C'est la sagesse des pauvres.
+{51832}{51887}Mais la montagne a un maître.
+{51917}{51977}Le ratissage est un crime
+{51992}{52055}sur lequel on ferme les yeux.
+{52107}{52172}Les gens qui n'ont|ni montagne ni rien
+{52180}{52227}ramassent et ratissent.
+{52360}{52417}Or depuis ce jour-là,
+{52437}{52512}Toyoji s'est pris|d'une habitude étrange,
+{52520}{52590}il ne revient plus|chez lui avec sa hotte.
+{52610}{52665}Jour après jour...
+{52677}{52790}il déverse sa hotte|dans le vieux puits.
+{52810}{52860}Sans savoir pourquoi...
+{52867}{52930}Quelque chose le pousse
+{52952}{53012}et il ne peut s'en empêcher.
+{53210}{53272}Nul ne l'a jamais aperçu.
+{53302}{53367}Mais un jour...
+{53377}{53402}Toyoji,
+{53445}{53490}qu'est-ce que tu fais|avec ces feuilles ?
+{53497}{53545}Tu les ramasses|et tu les jettes ?
+{53587}{53632}Je les ai ramassées mais...
+{53657}{53700}elles ne sont pas bonnes.
+{53730}{53782}Et voilà, je les rejette.
+{53797}{53872}Ils sont très profonds|ces puits.
+{53882}{53950}Si tu y tombes|tu n'en sortiras pas seul.
+{53967}{53992}Mais
+{54000}{54095}le jeune maître|passa son chemin.
+{54147}{54245}Et Toyoji oublia l'incident.
+{54405}{54437}Tu es allé ramasser ?
+{54557}{54620}Trois ans passèrent.
+{54640}{54660}Et quand
+{54675}{54755}arriva le jour des Morts,|au milieu de l'été,
+{54762}{54850}les villageois|commencèrent à parler
+{54857}{54970}du pousse-pousse de Gisaburo|qu'on ne voyait plus.
+{55290}{55342}Oshin ! On est en congé ?
+{55372}{55412}Tu as bien grandi.
+{55420}{55462}Ta mère sera contente.
+{55517}{55565}Merci pour ta peine.
+{55572}{55607}Merci pour tout.
+{55615}{55690}Il reste de la vaisselle|mais mon fils m'attend.
+{55720}{55777}C'est bien ton fils|qui t'attend ?
+{55787}{55882}Ton mari doit avoir|un bon travail à Tokyo.
+{55890}{55947}Il t'envoie|pas mal d'argent, non ?
+{55955}{55990}Je suis sans nouvelles,
+{55997}{56030}ni de lui ni de son argent.
+{56037}{56082}Il va bien au moins ?
+{56095}{56137}Sans doute|sinon je le saurais.
+{56145}{56207}Il va sûrement bien.
+{56217}{56240}Petite Seki,
+{56255}{56330}il paraît que Kurazo|a rêvé de Gisaburo.
+{56337}{56382}Pas vrai Kurazo ?
+{56425}{56492}Ça remonte à dix jours.
+{56517}{56592}Je ne t'ai rien dit|pour ne pas t'inquiéter.
+{56607}{56672}Et en plus,|ce n'est qu'un rêve.
+{56702}{56742}Gisaburo me disait
+{56762}{56815}qu'il était mal à l'aise
+{56822}{56867}dans ses vêtements de travail.
+{56875}{56957}Il voulait du linge de rechange.
+{56972}{57055}Mais il n'a pas dit|où lui porter.
+{57062}{57132}Alors Kurazo|se fait du mauvais sang.
+{57147}{57170}Kurazo.
+{57195}{57227}C'est le travail, la fatigue.
+{57235}{57290}La fatigue est la mère des rêves.
+{57307}{57355}Le jeune maître a raison.
+{57362}{57467}Et Gisaburo n'avait qu'à|demander du linge à sa femme.
+{57475}{57542}Mais notre Seki ne rêve point.
+{57550}{57605}Pas assez fatiguée sans doute !
+{57762}{57785}Mon petit !
+{57802}{57837}Qui a allumé le feu ?
+{57845}{57875}C'est moi.
+{57942}{57985}Tu m'as fait peur.
+{57997}{58037}Tu es rentrée ?
+{58077}{58135}Je lui défends|de toucher au feu
+{58155}{58215}et il met le feu à tout.
+{58232}{58300}Je rêve que papa est mort.
+{58332}{58435}Tu disais "Au jour de l'An,|il reviendra avec plein d'argent".
+{58442}{58492}"Patience. Ne t'inquiète pas".
+{58500}{58552}Personne au jour de l'An
+{58560}{58607}ni au jour des Morts.
+{58615}{58670}L'année suivante|personne non plus.
+{58702}{58775}C'est vrai.|Je me demande ce qu'il fait.
+{58782}{58832}Sans nouvelles, comme ça...
+{58842}{58895}Il ne serait pas mort ?
+{58902}{58965}Tu sais, dans mon rêve|il était mort.
+{59622}{59675}Ma Seki.
+{61555}{61585}Gisaburo...
+{61597}{61630}Sauve-moi.
+{61672}{61740}Je t'en supplie.|Repose en paix.
+{62137}{62192}J'y vais. Attends-moi.
+{62540}{62575}C'est toi Seki ?
+{62582}{62615}Si tard ?
+{62727}{62780}Gisaburo est revenu ?
+{65150}{65182}Seki !
+{65237}{65280}Qu'est-ce que tu fais ?
+{65300}{65355}Je me croyais chez moi.
+{65442}{65472}Si on te trouve là...
+{65480}{65510}Tu comprends ?
+{65517}{65550}Allons-nous-en.
+{65827}{65870}Viens dormir chez moi.
+{65887}{65970}J'ai peur la nuit !
+{65997}{66030}Impossible.
+{66075}{66145}Ta fille est de retour.
+{66157}{66212}Ça m'est égal à présent.
+{66285}{66347}Si on apprend|que je dors chez toi,
+{66357}{66407}on dira que|nous avons tué Gisaburo
+{66415}{66470}parce qu'il nous gênait.
+{66487}{66532}Il faut se cacher.
+{66567}{66600}Dis Toyoji...
+{66607}{66725}Tu en aurais assez de moi ?
+{66747}{66770}Tu es folle ?
+{66777}{66825}Il faut nous cacher
+{66832}{66882}parce que je t'aime.
+{66890}{66917}Jusqu'à quand ?
+{67007}{67057}Et pourquoi
+{67065}{67097}après trois ans
+{67105}{67215}se ils mettent à parler|des fantômes et à les voir ?
+{67247}{67307}Ça ne durera pas.
+{67315}{67347}Patiente un peu.
+{67355}{67400}Je n'en peux plus.
+{68307}{68360}Demande à ta maîtresse
+{68377}{68445}de venir dormir chez toi
+{68457}{68510}si tu as tellement peur.
+{69620}{69687}Elle se sent seule,|elle me prie de venir,
+{69695}{69725}et la voilà qui dort !
+{69732}{69777}De quoi éloigner les esprits !
+{69790}{69860}Regardez-moi ce sommeil.
+{69872}{69915}Je plains l'amant.
+{69922}{69972}Il en aurait vite assez.
+{70035}{70085}Pour moi, pas de fantôme qui tienne
+{70107}{70167}et surtout pas en ce lieu.
+{70467}{70542}D'ailleurs,|je n'ai rien fait à Gisaburo.
+{70557}{70632}Et les fantômes sont des visions.
+{70647}{70675}Le fantôme !
+{70950}{70977}Patronne.
+{71022}{71052}C'est moi...
+{71077}{71160}Gisaburo, le pousse-pousse.
+{71217}{71275}Faites-moi la grâce...
+{71302}{71335}Gisaburo !
+{71530}{71560}Le fantôme !
+{71565}{71622}Moi aussi j'ai rêvé de Père.
+{71795}{71825}Maman !
+{71832}{71885}Mon rêve était confus mais...
+{71892}{71977}Papa avait été tué.|Il était au fond d'un puits.
+{71985}{72027}Il appelait à l'aide.
+{72035}{72060}Oshin !
+{72330}{72355}Toyoji...
+{72477}{72520}Tu ne viens pas chez moi
+{72527}{72580}alors je viens chez toi.
+{72610}{72657}Mais mon jeune frère est là.
+{72672}{72720}Laisse-moi rester avec toi.
+{72727}{72785}Le fantôme me terrifie.
+{72847}{72902}Et s'il apparaît ici ?
+{72910}{72940}Je ne sais pas pourquoi
+{72947}{73040}mais je ne crois pas|qu'il vienne te voir.
+{73355}{73382}Tu entends ?
+{73405}{73430}Quoi ?
+{73777}{73807}Denzo !
+{74547}{74580}Bonjour !
+{74702}{74737}Je suis l'inspecteur.
+{74745}{74770}Vous entendez ?
+{74952}{74972}J'ai eu peur !
+{75017}{75052}Vous êtes sourd ?
+{75080}{75107}Vous dites ?
+{75140}{75210}Je ne vous suis pas.
+{75232}{75255}Écoutez.
+{75260}{75360}Je suis venu|au sujet du pousse-pousse.
+{75367}{75425}Vous savez où il est ?
+{75447}{75505}Voyons...
+{75515}{75590}Ce que j'attends c'est...
+{75637}{75675}une petite pluie.
+{75720}{75777}Le pousse-pousse je vous dis.
+{75830}{75857}Je vous écoute.
+{75872}{75897}Alors.
+{75907}{75935}Dites.
+{76085}{76170}On parle du fantôme.
+{76242}{76275}F-A-N-T-Ô-M-E !
+{76675}{76740}Alors ça va ?
+{76827}{76872}Ça va tout le monde ?
+{76887}{76935}Ça va bien.
+{77040}{77070}Votre mari s'appelle ?
+{77077}{77102}Gisaburo.
+{77127}{77167}Il est là en ce moment ?
+{77175}{77242}Il est parti travailler.
+{77277}{77320}Où ?
+{77340}{77367}Tokyo.
+{77375}{77407}Où ça à Tokyo ?
+{77417}{77502}- Je ne sais pas bien .|- Il faut lui demander.
+{77580}{77620}Et il travaille comme quoi ?
+{77627}{77660}Pousse-pousse.
+{77727}{77760}Et il revient quand ?
+{77832}{77892}Il vous écrit ?
+{77907}{78005}Vous pouvez|me montrer une lettre ?
+{78012}{78112}Il n'écrit pas.|Il ne sait pas écrire.
+{78357}{78420}Comment vous savez|qu'il est à Tokyo ?
+{78427}{78470}Par un ami...
+{78495}{78565}Un ami ? Qui ?
+{78785}{78817}C'est votre fille ?
+{78837}{78877}Elle est venue en congé.
+{78885}{78970}Il faut qu'elle repartemaintenant.
+{78977}{79002}Elle s'appelle ?
+{79010}{79045}Oshin.
+{79080}{79105}Oshin !
+{79122}{79185}Tu ne sais rien de ton père ?
+{79587}{79645}Tout le monde parle du fantôme.
+{79687}{79732}Nouvelles ou pas,
+{79787}{79835}à la moindre alerte|appelez-moi.
+{79860}{79882}Compris ?
+{79920}{79972}Aucune nouvelle|depuis trois ans
+{79995}{80045}et ça ne vous inquiète pas !
+{80237}{80272}J'ai peur Toyoji.
+{80280}{80350}Je ne peux plus rester chez moi.
+{80407}{80485}La police te fait plus peur|qu'un fantôme.
+{80492}{80520}Écoute bien.
+{80530}{80592}Un fantôme ne t'enlève pas la vie
+{80612}{80700}mais si l'autre nous découvre,|c'est la mort.
+{80707}{80767}Tu ne vois pas le fantôme toi,|tu es tranquille.
+{80775}{80880}Mais moi c'est comme|s'il me buvait l'âme peu à peu.
+{81052}{81120}Je me demande pourquoi|il ne m'apparaît pas.
+{81150}{81180}Je ne comprends pas.
+{81195}{81272}S'il dit à quelqu'un|qu'il est dans le vieux puits
+{81280}{81322}nous sommes perdus.
+{81492}{81517}Courage !
+{81547}{81635}Si on faiblit maintenant
+{81670}{81705}tout est fini.
+{81732}{81785}Tant que le policier est là
+{81792}{81840}évitons de nous voir.
+{81847}{81900}Soyons prudents.
+{81920}{81947}Prudents...
+{81955}{82012}Te voilà prudent maintenant.
+{82020}{82067}Tu ne l'étais pas avant.
+{82112}{82137}Avant
+{82145}{82235}tu me disais de me raser.
+{82260}{82307}Ne pleure pas.
+{82352}{82390}Ne pleure pas.
+{82427}{82455}Toyoji !
+{82462}{82525}Je t'en supplie, ne me laisse pas.
+{82542}{82587}Ne m'abandonne pas.
+{82740}{82790}Pourquoi t'abandonner...
+{82802}{82850}Il faut tout supporter
+{82865}{82912}pour qu'on puisse rester ensemble.
+{82922}{82982}Je ne peux plus.
+{82997}{83070}Supporte tout toi, si tu peux.
+{83442}{83470}Denzo !
+{83477}{83520}En avant !
+{83577}{83620}Qui t'a donné ce clairon ?
+{83642}{83672}Le policier ?
+{83772}{83797}Seki !
+{83815}{83857}Rentre, il ne faut plus se voir ici.
+{83877}{83910}Ni chez toi.
+{83932}{83975}N'aie pas peur du fantôme.
+{84010}{84080}S'il vient,|donne-lui de l'eau-de-vie !
+{84195}{84237}Tu sais Seki,
+{84245}{84295}on raconte partout
+{84302}{84352}que tu as quelqu'un.
+{84387}{84422}C'est pour lui ça ?
+{84485}{84565}C'est quand même drôle,|cette histoire de fantôme.
+{84582}{84625}Il ne serait pas jaloux ?
+{84647}{84700}S'il vient me voir,
+{84710}{84760}je lui donnerai le conseil
+{84770}{84827}qu'il repose en paix
+{84835}{84880}s'il veut ton bien.
+{84992}{85040}Quelle mine tu as !
+{85077}{85115}Excuse-moi.
+{85202}{85230}Merci.
+{85252}{85305}Les histoires de fantôme|je n'aime pas.
+{85400}{85470}Tu rentres à la maison Seki.
+{85545}{85612}Monte. C'est sur mon chemin.
+{85665}{85710}J'aime mieux revenir à pied.
+{86612}{86717}Monte ma Seki.
+{86750}{86805}Ma pauvre Seki.
+{87012}{87055}Bon, je monte.
+{87742}{87800}C'est le bon chemin ?
+{87870}{87907}Tu te trompes.
+{88077}{88150}J'ai oublié le chemin du retour.
+{88162}{88192}Seki,
+{88202}{88245}guide-moi.
+{88285}{88335}Il faut revenir en arrière.
+{88725}{88775}Non ! Ce n'est pas le chemin.
+{88797}{88820}Arrête !
+{88832}{88865}Je n'y suis plus.
+{88872}{88910}Je suis perdue.
+{88937}{89005}Je ne connais pas cet endroit.
+{89022}{89062}Où on est ?
+{89100}{89125}Attends !
+{89132}{89190}À quoi bon avancer sans savoir ?
+{89225}{89250}Gisaburo !
+{89257}{89297}Vraiment, tu as oublié la route ?
+{89305}{89332}Gisaburo !
+{89407}{89455}Sauve-moi !
+{89462}{89495}Sauve-moi !
+{89512}{89555}J'ai peur !
+{89662}{89732}C'est bien toi Gisaburo ?
+{89930}{89967}Montre-toi !
+{90707}{90730}Maman !
+{90750}{90780}Qu'est-ce que tu as ?
+{90802}{90827}Oshin.
+{91207}{91252}Maman, je m'en vais.
+{91270}{91297}Ne pars pas.
+{91305}{91347}C'est toi qui voulais...
+{91355}{91412}Si tu cessais|de parler de ton père...
+{91420}{91475}Ici on ne peut|que penser à lui.
+{91510}{91535}Et toi
+{91555}{91602}tu sais où il est.
+{91655}{91705}Je ne raconterai|mon rêve à personne
+{91712}{91755}et je ne reviendrai jamais.
+{91762}{91807}Qu'est-ce que tu dis ?
+{91817}{91867}Prends soin de toi.
+{91880}{91920}Ne sors pas la nuit.
+{91927}{91965}Pense au petit.
+{91982}{92005}Adieu.
+{92442}{92500}Petite Seki,|c'est la moisson ?
+{92602}{92655}Toyoji a du temps à perdre.
+{92662}{92725}Il pourrait bien t'aider un peu.
+{92732}{92775}C'est du propre,
+{92820}{92895}on trompe le mari|et on le tue !
+{92902}{92942}Tu parles sans savoir.
+{92950}{93017}Et si tout ça n'était pas vrai ?
+{93025}{93087}C'est quand même louche.
+{93115}{93167}N'exagérons pas.
+{93175}{93222}Je sais ce que je dis.
+{93230}{93312}C'est pas bizarre|le manège de ce gars ?
+{93320}{93352}Pour ça oui.
+{93367}{93397}Ces temps-ci
+{93405}{93505}il n'arrête pas|d'aller dans la montagne.
+{93515}{93580}On m'en a parlé.
+{93587}{93667}Il paraît|qu'il ramasse les feuilles
+{93682}{93752}et qu'il les jette dans un puits.
+{93760}{93812}Qu'est-ce qu'il cherche ?
+{93820}{93845}Vous l'avez vu ?
+{93870}{93925}Vous avez vu Toyoji|dans la montagne ?
+{93935}{93987}Vous l'avez vu chez moi ?
+{94000}{94040}Je ne sais rien du tout de ces choses.
+{94047}{94087}Cessez vos racontars !
+{94162}{94227}Merci pour ta peine.
+{94597}{94622}Bonjour.
+{94760}{94832}Je ne pensais pas qu'il irait là.
+{94852}{94940}Le fils de la maison m'a vu|quand j'étais au puits.
+{94947}{94987}Que faire ?
+{95007}{95030}Rentre chez toi.
+{95037}{95065}On verra plus tard.
+{95072}{95132}S'ils nous prennent...|j'ai peur.
+{95140}{95202}Va vite.|Si on nous voit, c'est fini !
+{97145}{97175}Petite Seki !
+{97192}{97232}Tu es déjà couchée ?
+{97275}{97332}Je t'apporte des patates douces.
+{97340}{97407}Merci de ta gentillesse.|Un moment.
+{97415}{97492}N'ouvre pas, je les pose là.
+{97620}{97695}Je ne veux pas|gêner tes amours.
+{98230}{98257}Ma Seki.
+{98417}{98450}Gisaburo.
+{98475}{98507}Excuse-moi.
+{98522}{98592}Je suis trop fatiguée pour aller
+{98600}{98642}acheter ton eau-de-vie.
+{98700}{98750}Tu en veux une ?
+{99180}{99215}Dis-moi Gisaburo,
+{99280}{99315}pourquoi...
+{99335}{99397}tu ne me dénonces pas aux autres ?
+{99492}{99535}Avant de mourir
+{99555}{99627}tu as bien vu qui te tuait.
+{99670}{99722}Tu m'as bien vue.
+{99785}{99840}Pourquoi tu ne le dis pas ?
+{100125}{100165}Gisaburo !
+{100390}{100422}Où vas-tu ?
+{100497}{100532}Emmène-moi.
+{100560}{100602}Emmène-moi avec toi.
+{101457}{101482}Seki.
+{101490}{101520}C'est moi.
+{101597}{101622}Seki !
+{101765}{101800}C'est Toyoji ?
+{101825}{101855}Qu'est-ce que tu fais ?
+{101867}{101897}Ouvre la porte.
+{101925}{101987}Rentre chez toi Toyoji.
+{102035}{102112}Je ne peux plus te voir.
+{102132}{102162}Qu'est-ce que tu dis?
+{102170}{102217}Le policier reste toujours là.
+{102225}{102277}Si on lui parle du vieux puits...
+{102287}{102360}Tout m'est égal.
+{102387}{102427}Ils peuvent m'arrêter,
+{102450}{102497}me condamner tout de suite.
+{102537}{102585}Ça vaudra mieux.
+{102610}{102645}La pauvreté...
+{102652}{102687}le travail...
+{102695}{102737}l'angoisse et la peur...
+{102762}{102815}et toi qui ne viens plus.
+{102822}{102860}Je suis à bout !
+{102872}{102915}Ouvre la porte !
+{102927}{102972}Toyoji, si tu ne veux pas
+{102980}{103045}que j'avoue aux policiers
+{103050}{103105}que j'ai tué Gisaburo...
+{103115}{103137}Ouvre-moi, ouvre !
+{103142}{103175}Qu'est-ce que tu fais ?
+{103290}{103357}Qu'est-ce qui te prend Seki ?|Tu es folle ?
+{103365}{103415}Pars Toyoji.
+{103422}{103480}Tout s'arrangera avec ma mort.
+{103517}{103612}La police ne pourra rien|contre une morte.
+{103627}{103680}Tu resteras innocent.
+{103705}{103732}Va-t'en,
+{103740}{103775}cherche du travail à Tokyo,
+{103782}{103810}n'importe où.
+{103817}{103887}Sois heureux Toyoji.
+{103985}{104020}Ouvre-moi !
+{104027}{104057}Non Toyoji.
+{104082}{104155}À quoi bon mourir à deux ?
+{104180}{104245}Vivons à deux Seki !
+{104250}{104305}Il faut vivre !
+{104317}{104390}On ne peut pas vivre.|Il faut mourir.
+{104397}{104460}Pars Toyoji...
+{104475}{104535}On va te voir.
+{104542}{104602}Non, je ne peux pas.
+{104632}{104680}Va Toyoji.
+{104695}{104750}Pars si tu m'aimes.
+{104760}{104797}Je t'en supplie, pars !
+{104817}{104862}Non, je ne peux pas !
+{104882}{104942}Je ne pars pas, non !
+{106420}{106460}Je n'ai pas peur.
+{106542}{106582}Va-t'en... Va-t'en !
+{106980}{107010}Gisaburo...
+{107080}{107130}Seki !
+{108135}{108160}Seki !
+{108347}{108385}Pardonne-moi Seki.
+{108402}{108437}Pardonne-moi.
+{108445}{108492}Il ne faut pas mourir.
+{108957}{108990}Trois jours...
+{109027}{109075}Rien que trois jours...
+{109095}{109162}Je voulais vivre comme un couple.
+{109510}{109550}Attention aux flammes !
+{110615}{110647}Jeune maître !
+{110667}{110697}Qu'est-ce que vous faites ?
+{110705}{110747}Le puits vous intéresse ?
+{110767}{110800}Je me promène...
+{110820}{110850}C'est notre bois.
+{110857}{110877}Et toi Toyoji ?
+{110892}{110965}Quelqu'un a dit|que j'y jetais des feuilles.
+{110972}{111007}C'est vous.
+{111017}{111047}Moi ? Jamais...
+{111085}{111140}Vous êtes le seul à m'avoir vu.
+{111160}{111212}Mais la forêt est vaste
+{111232}{111270}et il n'y a qu'un puits.
+{111280}{111355}On peut se tromper de puits...
+{111455}{111485}L'inspecteur sait ?
+{111517}{111542}Eh oui.
+{111590}{111617}Ne mens pas.
+{111645}{111697}Si tu étais sûr de l'endroit,
+{111705}{111777}tu ne serais pas à tournailler.
+{111830}{111867}La mort t'attend.
+{112000}{112070}Mais toi d'abord jeune maître.
+{114197}{114222}Bonsoir.
+{114395}{114490}Tu te fais attendre Toyoji.
+{114527}{114575}Déjà cinq nuits.
+{114590}{114635}Il serait temps !
+{114690}{114737}Merci de ta gentillesse.
+{114745}{114797}Je t'en prie, ce n'est rien.
+{115275}{115325}Bonsoir Belle Dame.
+{115472}{115507}Le petit dort ?
+{115540}{115582}Il vient de s'endormir.
+{115600}{115622}Belle Dame,
+{115655}{115692}prenez-en un.
+{115715}{115755}Qu'est-ce que tu as 
+{115760}{115800}à me parler comme ça Toyoji ?
+{115915}{115930}Seki.
+{115945}{116015}Même trois jours, tu voulais vivre
+{116027}{116065}une vie de couple.
+{116077}{116117}J'ai réfléchi.
+{116147}{116175}Avant,
+{116192}{116232}quand je venais te voir,
+{116240}{116312}je t'appelais Belle Dame|et c'était le bonheur.
+{116332}{116382}On ne se cachait de personne.
+{116407}{116437}Allons vivre
+{116465}{116502}ces trois jours.
+{116545}{116605}Le policier n'y pourra rien.
+{116672}{116695}Belle Dame,
+{116705}{116732}prenez-en un.
+{116875}{116915}Que c'est gentil...
+{116930}{116975}tu me gâtes toujours.
+{117025}{117050}Pas de quoi,
+{117060}{117095}ce n'est rien.
+{117130}{117180}Tu les as achetés où Toyoji ?
+{117187}{117225}Chez l'épicier.
+{117232}{117265}Ils étaient si frais,
+{117272}{117322}je parie qu'ils sont bons.
+{117337}{117370}Ah oui !
+{117395}{117442}Bien, j'en prends un.
+{117450}{117515}Je me laisse toujours gâter.
+{117520}{117575}Je vais faire du thé Toyoji ?
+{117592}{117615}Belle Dame,
+{117622}{117655}goûtez d'abord.
+{117750}{117822}Il ne serait pas amoureux de toi ?
+{118150}{118175}Ne pleure pas.
+{118235}{118265}Un seul faux pas,
+{118272}{118322}et c'en est fait.
+{118395}{118430}Un faux pas...
+{118435}{118507}C'est juste ce que j'attends.
+{118780}{118820}Qu'est-ce que tu as
+{118827}{118865}à me regarder Toyoji ?
+{119180}{119220}Tu ris...
+{119245}{119282}Je me souviens...
+{119447}{119470}Toyoji.
+{119500}{119532}C'est pour toi.
+{119565}{119612}Non, pour vous.
+{119620}{119655}Pour toi Toyoji .
+{119660}{119695}Non, pour vous.
+{119710}{119742}Toyoji...
+{119812}{119835}Non Seki !
+{119970}{119987}Qui est là ?
+{120042}{120087}- Qui est là ?|- Qu'est-ce qu'il y a ?
+{120110}{120145}J'ai entendu un bruit.
+{120155}{120195}Je n'ai rien entendu.
+{120200}{120240}Tu l'as entendu ?
+{120247}{120297}J'ai l'oreille fine.
+{120305}{120335}À cette heure-ci ?
+{120345}{120375}Un chien peut-être...
+{120382}{120420}Tu sais, c'est leur saison.
+{120450}{120525}Ce n'est pas seulement|la saison des chiens.
+{122120}{122180}Curieux, curieux.
+{122187}{122225}En voilà une histoire.
+{122232}{122287}Le jeune maître,|meurtrier de Gisaburo,
+{122300}{122362}qui se suicide.
+{122392}{122427}Mais si Gisaburo
+{122440}{122485}était vivant ?
+{122550}{122572}Qui sait ?
+{122580}{122642}Et il paraît qu'il demande
+{122657}{122717}à sortir d'un puits.
+{122725}{122802}Cette histoire|n'est pas claire non plus.
+{122810}{122880}Mort ou vivant, si seulement|on pouvait savoir...
+{122900}{123012}Pourquoi le jeune maître|a-t-il choisi la mort ?
+{123062}{123095}Inspecteur !
+{123120}{123202}On ne sait toujours pas|qui a tué Gisaburo ?
+{123232}{123265}On soupçonne mon fils
+{123272}{123340}de l'avoir tué et de s'être suicidé.
+{123350}{123405}On n'arrête pas sans preuve.
+{123412}{123445}Tout le monde parle
+{123457}{123475}d'un puits...
+{123482}{123525}où l'on jette des feuilles.
+{123552}{123597}Quel puits ? Le sait-on ?
+{123610}{123677}L'arrestation d'abord,|les aveux ensuite !
+{123775}{123800}Madame,
+{123805}{123830}mes condoléances.
+{123837}{123872}Vous savez,
+{123880}{123932}dans le Japon d'aujourd'hui
+{123960}{124002}si j'arrête un innocent,
+{124010}{124045}c'est moi le coupable.
+{124175}{124192}Quoi ?
+{124350}{124407}Vous avez été piqué|par les moustiques.
+{124457}{124505}La nuit vous courez les jupons ?
+{125590}{125620}Toyoji,
+{125640}{125687}c'est pour toi.
+{125775}{125812}Tes gâteaux funéraires.
+{125880}{125910}Le policier
+{125917}{125960}va encore venir ce soir ?
+{126035}{126060}Écoute.
+{126082}{126122}Je ne tiens plus à rien.
+{126145}{126240}J'ai tué Gisaburo tout seul.|Toi tu n'y es pour rien.
+{126247}{126280}J'avouerai
+{126295}{126342}dès qu'on m'arrêtera.
+{126360}{126425}Si on t'arrête...|tu ne savais rien.
+{126487}{126515}Qu'est-ce que tu dis ?
+{126555}{126587}Tu vois...
+{126617}{126667}je n'ai plus peur de rien.
+{126795}{126820}Toyoji,
+{126840}{126872}veux-tu me répondre ?
+{126945}{126990}N'est-ce pas toi
+{127012}{127062}qui as tué le jeune maître ?
+{127502}{127530}Mais...
+{127545}{127632}si tu l'as tué pour nous protéger,
+{127655}{127677}alors
+{127685}{127727}ne dis pas
+{127735}{127785}que tu ne tiens plus à rien.
+{127795}{127840}Je l'ai tué pour nous sauver.
+{127852}{127877}Mais depuis
+{127885}{127940}je ne tiens plus à rien.
+{127947}{127997}Moi si. Je veux vivre.
+{128050}{128082}Oui, toi
+{128092}{128152}je veux que tu vives.
+{128172}{128220}Si on nous arrête,
+{128230}{128270}on nous fera mal ?
+{128377}{128440}Cent coups de bâton.
+{128447}{128492}Je l'ai vu une fois.
+{128500}{128562}On nous met nus sur une natte
+{128570}{128662}et on nous donne|cent coups de bâton.
+{128745}{128777}Tout nus ?
+{128830}{128865}Des coups terribles !
+{128872}{128912}La peau s'ouvre,
+{128920}{128962}la douleur est insupportable.
+{128970}{129037}A la fin|on ne peut plus résister.
+{129207}{129242}Oublie.
+{129250}{129280}Oublie tout.
+{129287}{129345}Tu n'as pas tué Gisaburo.
+{129352}{129400}Tu n'as rien fait.
+{129415}{129480}Il ne s'est rien passé.|Rien.
+{129485}{129512}Mais...
+{129517}{129550}au fond du puits,
+{129557}{129595}Gisaburo est toujours là.
+{129602}{129637}Son cadavre est là.
+{129645}{129692}Gisaburo n'existe plus.
+{129700}{129740}Rien ne reste de lui.
+{129745}{129790}Tu ne sais rien.
+{129805}{129837}Si. Il est là.
+{129845}{129880}Son cadavre est là.
+{129900}{129960}Comment il est maintenant ?
+{129982}{130035}Il est déjà pourri ?
+{130715}{130780}Sortons-le du puits
+{130852}{130910}et enterrons-le ailleurs.
+{130970}{131017}C'est encore possible ?
+{131065}{131100}Oui, essayons.
+{131190}{131225}Si tu veux.
+{131242}{131307}Même fantôme
+{131325}{131377}Gisaburo t'aime toujours.
+{131410}{131475}Il préférera qu'on ne t'arrête pas.
+{135912}{135947}Mes yeux...
+{136077}{136125}Je ne vois pas.
+{136160}{136197}Je ne vois rien.
+{136237}{136267}Qu'est-ce que tu as Seki ?
+{136335}{136365}Je ne vois plus rien.
+{136570}{136597}Tu vois ?
+{136637}{136665}Tu ne vois pas mon visage ?
+{136670}{136727}Non. Je suis perdue.
+{136735}{136762}Toyoji,
+{136785}{136825}embrasse-moi.
+{137367}{137397}Ma Seki.
+{138572}{138605}Seki,
+{138682}{138740}tu ne vois vraiment pas ?
+{138827}{138850}Tu sais...
+{138880}{138925}je suis une vieille femme.
+{138947}{139022}Ne parlons pas de nos âges.
+{139092}{139137}Avant que la police arrive,
+{139175}{139207}va-t'en.
+{139230}{139255}Qu'est-ce que tu dis ?
+{139272}{139320}Plus rien ne me fait peur.
+{139330}{139370}Je n'ai plus peur de rien.
+{139377}{139415}C'est moi qui a tué Gisaburo,
+{139422}{139455}moi seule.
+{139460}{139492}Tu n'y es pour rien.
+{139500}{139550}Fuis Toyoji.
+{139600}{139655}Fuyons s'il reste une chance.
+{139660}{139682}Je ne peux pas.
+{139690}{139720}Tu ne peux pas ?
+{139727}{139745}Pourquoi ?
+{139752}{139820}Je serais un poids pour toi.
+{139865}{139950}Je l'ai toujours été, je sais.
+{140092}{140132}Tu n'es pas triste
+{140140}{140180}de te séparer de moi ?
+{140190}{140222}Si, bien sûr
+{140230}{140290}je suis triste.
+{140410}{140480}Jusqu'à ma mort je serai avec toi.
+{140500}{140552}Je le savais depuis toujours.
+{140565}{140627}Ce n'est pas la peine|de mourir ensemble.
+{140645}{140700}Toi tu dois vivre.
+{140707}{140727}Je ne veux pas.
+{140740}{140767}Alors
+{140792}{140822}tue-moi
+{140850}{140890}d'un seul coup.
+{140970}{141000}Je ne peux pas.
+{141030}{141115}Tu disais|que tu n'avais plus peur de rien.
+{141197}{141242}Écoute Toyoji.
+{141337}{141380}Je vais dormir.
+{141407}{141450}Pendant que je dors,
+{141475}{141512}tu me tueras.
+{141945}{141982}Regarde-moi.
+{142020}{142042}Peut-être
+{142057}{142110}que je ne suis pas plus belle
+{142127}{142167}mais regarde-moi
+{142185}{142227}et souviens-toi de moi.
+{142885}{142925}Tu m'as regardée ?
+{142960}{142987}Seki,
+{143012}{143050}même si tu ne vois pas
+{143057}{143092}ouvre les yeux.
+{143250}{143297}Tu es belle.
+{143465}{143542}Toyoji, touche-moi.
+{144590}{144637}Tue-moi, je t'en supplie.
+{144690}{144732}Dès que je serai endormie,
+{144757}{144802}tue-moi.
+{145785}{145840}Vous ne l'avez pas tué ?
+{145847}{145925}Non, je ne l'ai pas tué.
+{145952}{146020}Le Mont Shibano
+{146027}{146115}était le lieu des tortures.
+{146145}{146190}Là
+{146197}{146257}Seki et Toyoji furent traînés
+{146265}{146330}et suspendus au grand chêne.
+{146352}{146427}Pour qu'ils avouent,|l'inspecteur les fit supplicier.
+{146435}{146517}Pour lui aussi c'était une épreuve.
+{146545}{146612}Le bambou cinglait
+{146620}{146715}les deux corps ligotés.
+{146790}{146867}Plusieurs fois|Seki perdit connaissance.
+{146890}{147005}Plusieurs fois on la ranima.
+{147027}{147130}Sa chevelure défaite|lui collait au visage.
+{147142}{147227}Elle n'avait plus de traits.
+{147730}{147797}Seki et Toyoji
+{147805}{147887}finirent par avouer le crime.
+{147897}{147930}C'est moi !
+{147937}{147975}Je l'ai tué seul.
+{147982}{148037}C'est moi qui l'ai tué.
+{148210}{148282}Sur les arbres du Mont Hatcho
+{148295}{148367}un vent froid sifflait,
+{148375}{148447}comme à la fin de l'automne.
+{148497}{148597}Et devant les villageois
+{148612}{148727}apparut lentement,|très lentement
+{148745}{148880}Gisaburo lui-même,|les traits méconnaissables.
+{148912}{148957}Il était là, sous leurs yeux...
+{148965}{149012}trois ans après...
+{149035}{149125}Gisaburo le pousse-pousse.
+{149155}{149220}Autour du cou
+{149227}{149337}il y avait encore|un bout de chanvre.
+{149375}{149397}À ce moment
+{149402}{149467}Toyoji baissa la tête
+{149485}{149515}et Seki
+{149522}{149615}hurla de tout son être.
+{149650}{149742}Les yeux de Seki|avaient-ils vu Gisaburo ?
+{149945}{150062}D'autres années ont passé.
+{150075}{150125}Quand les feuilles du Mont Hatcho
+{150132}{150192}sont tombées en tournoyant,
+{150215}{150307}l'hiver est revenu au village.
+{150330}{150410}Alors se répandit|une nouvelle rumeur.
+{150420}{150497}Ceux que le village|avait presque oubliés
+{150505}{150642}auraient été condamnés à mort.
