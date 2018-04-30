@@ -1,17 +1,17 @@
 ! version = 2.0
 
 ! array intelligent_synonymous = intelligent brillant capable clairvoyant
-^ competent chouette doue entendu experimente fort genial habile perspicace
-^ sagace astucieux eveille pertinent petillant profond malin top bon
+^ compétent chouette doué entendu expérimenté fort génial habile perspicace
+^ sagace astucieux éveillé pertinent profond malin top bon
 ^ excellent super
 
-! array funny_synonymous = drole amusant cocasse comique desopilant facetieux
-^ hilarant impayable inenarrable plaisant rigolo risible spirituel fun humour
+! array funny_synonymous = drole drôle amusant cocasse comique désopilant facétieux
+^ hilarant impayable inénarrable plaisant rigolo risible spirituel fun humour
 
-! array strange_synonymous = bizarre curieux etonnant etrange farfelu insolite
+! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
 ^ singulier surprenant chelou louche suceptible
 
-! array stupid_synonymous = bete borne bouche cretin idiot imbecile
+! array stupid_synonymous = béte bête borne bouche crétin idiot imbécile
 ^ inintelligent obtus sot stupide abruti niais vide andouille ballot
-^ beta cloche cruche demeure gourde manche niais
-^ arriere mental | debile mental | simple d'esprit
+^ bêta cloche cruche demeure gourde manche niais
+^ arriéré mental | débile mental | simple d'esprit

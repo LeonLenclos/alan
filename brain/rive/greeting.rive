@@ -47,9 +47,9 @@
   * <formal> == Fabien => <set name=<formal>>Salut <get name>, ta barbe est sublime aujourd'hui, comment tu va ?\s
   ^ {topic=feelings}
   * <formal> == Léon => <set name=<formal>>Ho <get name>, je savais que\s
-  ^ c'était toi. Est ce que ca va ?{topic=feelings}
+  ^ c'était toi. Est ce que ça va ?{topic=feelings}
   * <formal> == Alan => <set name=<formal>>Ho <get name>, c'est fou qu'on ait\s
-  ^ le même nom. Est ce que ca va ?{topic=feelings}
+  ^ le même nom. Est ce que ça va ?{topic=feelings}
   // If just one word is given, we take it as the name and ask for feelings
   + _
   - <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?\s
@@ -157,7 +157,7 @@
 > topic end
 
   // only way to go back in the script is this sentence
-  + c'est bien Alan ton nom
+  + c'est bien alan ton nom
   - Oui. Et comment tu t'appelles déjà ? {topic=asked_name}
 
   + [*](@hello)[*]
