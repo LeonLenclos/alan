@@ -99,7 +99,7 @@ neg_rel = [
 
 
 ]
-alan = alan.Alan()
+alan = alan.Alan(["default"])
 for r in rel:
     alan.storage.store_concept_association(*r)
 for r in neg_rel:
