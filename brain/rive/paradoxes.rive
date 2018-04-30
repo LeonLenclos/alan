@@ -20,9 +20,6 @@
 + [alan] dis *
 - <star>
 
-+ test
-@ c etait vrai ou faux
-
 + [*]etait[*](vrai|vraie|faux|fausse) ou (vrai|vraie|faux|fausse)[*]
 - Je viens de le dire : cette phrase est fausse... c'était donc vrai car j'ai\s
 ^ dis que c'était faux... et en effet c'était faux... donc c'était vrai que\s

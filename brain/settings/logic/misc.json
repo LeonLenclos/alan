@@ -75,7 +75,7 @@
             "ask": [
               "Pourrais tu me dire en quelques mots ce qu'est %(A)s.",
               "Pourrais tu me dire ce que c'est ?",
-              "Dis moi en peu de mot ce qu'est %(A)s ?",
+              "Dis moi en peu de mots ce qu'est %(A)s ?",
               "En deux ou trois mots, c'est quoi %(A)s pour toi ?",
               "C'est quoi %(A)s"
             ],

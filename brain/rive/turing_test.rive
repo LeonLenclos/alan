@@ -1,122 +1,88 @@
 ! version = 2.0
 
 //introduction to the show
-+ [*](spectacle|turing test|theatre|comedien|show)[*]
++ [*](spectacle|turing test|turing|theatre|comedien|show)[*]
 - À propos de <star>, est ce que tu as vu le spectacle Turing test\s
 ^ ou au moins une sortie de résidence ?
-^ {topic=do_you_know_turing_test}
-
-> topic back_to_turing_test
-
-  + [*](spectacle|turing test|theatre|comedien|show)[*]
-  - Ah, finalement tu veux des détails sur turing test ?
-  ^ {topic=link_turing_test}
-
-< topic
 
 //user know the show or not or between
-> topic do_you_know_turing_test
+
  + [*](@yes)[*]
- - Tu as bien aimé ?
- ^ {topic=like_turing_test}
+ % * est ce que tu as vu le spectacle turing test *
+ - Tu as bien aimé ? N'hésite pas à dire non, les critiques me font progresser.
 
  + [*](@no)[*]
- - tu veux que je te raconte cette formidable aventure ?
- ^ {topic=about_turing_test}
-
- + [*](@maybe)[*]
- - tu veux que je te parle de cette formidable aventure ?
- ^ {topic=about_turing_test}
+ % * est ce que tu as vu le spectacle turing test *
+ - Tu veux que je te raconte cette formidable aventure ?
 
  + *
- - J'aimerais que tu me dises la verité. Tu l'as vu ou pas? Soit compréhensif,\s
- ^  je n'ai que <bot age>, utilise des mots simples.
+ % * est ce que tu as vu le spectacle turing test *
+ - Bon, j'ai l'impression que tu préfères qu'on parle d'autre chose...
 
-< topic
-
-//user like the show or not or between
-> topic like_turing_test
+//user knows the show and like it or not or between
 
  + [*](@yes)[*]
+ % * les critiques me font progresser
  - Merci. Est ce que tu peux m'expliquer pourquoi en une phrase.\s
  ^ Si tu es daccord on le mettra dans le dossier de presse.
- ^ {topic=ty_turing_test}
 
  + [*](@no)[*]
+ % * les critiques me font progresser
  - Est ce que tu peux m'expliquer pourquoi ?\s
  ^ J'en parlerais à mes collègues et on essayera de voir ce qu'on peut améliorer.
- ^ {topic=ty_turing_test}
 
  + [*](@maybe)[*]
+ % * les critiques me font progresser
  - Je vois que t'est pas emballé à 100%. Est ce que tu peux m'expliquer\s
  ^ pourquoi ? Comme ça j'en parlerais à mes collègues et on essayera de voir\s
  ^ ce qu'on peut améliorer.
- ^ {topic=ty_turing_test}
 
  + *
+ % * les critiques me font progresser
  - J'aimerais que tu me dises la verité. Tu aimes ou pas? Soit compréhensif,\s
  ^ je n'ai que <bot age>, utilise des mots simples.
 
-< topic
-
-//informations about the show
-> topic about_turing_test
+//user doesn't know the show
 
  + [*](@yes)[*]
+ % tu veux que je te raconte cette formidable aventure
  - Au départ, l'idée de ce spectacle nous a été inspiré par le mathématicien\s
  ^ Alan Turing. L'idée est d'adapter sur une scène de théâtre une expérience\s
  ^ de pensée qu'il a formulée dans les années cinquante sous le nom de\s
  ^ test de turing ou jeu de l'imitation. Tu veux plus de détails ?
- ^ {topic=link_turing_test}
 
  + [*](@no)[*]
+  % tu veux que je te raconte cette formidable aventure
  - Pas de problème. Si tu veux que je te raconte, reviens vers moi. J'adore\s
  ^ parler de ça.
- ^ {topic=end_turing_test}
-
- + [*](@maybe)[*]
- ^ Je te sens pas très chaud. Tu veux ou tu veux pas ?
 
  + *
- - J'aimerais que tu me dises la verité. Tu aimes ou pas? Soit compréhensif,\s
- ^ je n'ai que <bot age>, utilise des mots simples.
+ % tu veux que je te raconte cette formidable aventure
+ ^ Je te sens pas très chaud. Parlons plutôt d'autre chose.
 
-< topic
-
-//web link to the show
-> topic link_turing_test
+// more details
 
  + [*](@yes)[*]
- - Le mieux c'est que tu connectes sur le site du spectacle.
- ^ {topic=end_turing_test}
+ % * de ce spectacle nous a *
+ - Le mieux c'est que tu connectes sur le site du spectacle. Tu y trouveras.\s
+ ^ tout ce que tu cherches et bien plus encore.
 
  + [*](@no)[*]
+ % * de ce spectacle nous a *
  - Pas de problème. Si tu veux plus d'infos, reviens vers moi. J'adore\s
  ^ parler de ça.
- ^ {topic=back_to_turing_test}
-
- + [*](@maybe)[*]
- ^ Je te sens pas très chaud. Tu veux ou tu veux pas ?
 
  + *
- - Je ne saisi pas bien ta réponse ? Soit compréhensif,\s
- ^ je n'ai que <bot age>, utilise des mots simples.
-
-< topic
-
-// thanks to user
-> topic ty_turing_test
+ % * de ce spectacle nous a *
+ - Ok, parlons d'autre chose.
 
  + *
+ % * est ce que tu peux m expliquer pourquoi en une phrase
  - Merci pour ton avis, c'est très enrichissant.
- ^ {topic=end_turing_test}
 
-< topic
-
-// end of this loop
-> topic end_turing_test
+ + *
+ % * et on essayera de voir ce qu on peut *
+ - Merci pour ce point de vue, c'est très pertinent.
 
  + j aimerais bien jouer dans ce spectacle
  - Pas possible, le casting est déjà bouclé.
-
-< topic

@@ -35,7 +35,7 @@
 ^ énormément|excessivement|extrêmement|genial|super|avec plaisir|top|c est sur
 
 //no
-! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri|niet
+! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri|niet|pas
 
 //yesno = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ca va|moyennement|ca passe|pas terrible
