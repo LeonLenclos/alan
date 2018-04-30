@@ -1,0 +1,11 @@
+So I have a script that can bu summarized as follow :
+
+while True:
+
+    if user_hit_enter:
+        process(get_input())
+
+    update_animation()
+
+The problem is that my process_input function take a long time to process.
+And I would like to keep updating the animation during the process time.
