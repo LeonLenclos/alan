@@ -86,7 +86,6 @@ class KesakoAdapter(AlanLogicAdapter):
 
         # Get the distance between input statement and questions list
         confidence = utils.compare(question, self.questions)
-        print(question)
 
 
 

@@ -7,13 +7,13 @@
 ^ appelle moi|on m'appelle|c est
 
 // hello
-! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour|ciao|hola
+! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour|hola
 
 // goodbye
 ! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientot
 
 // colors
-! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
+! array colors = bleu noir rosuge blanc marron vert gris rose jaune orange violet
 
 // male
 ! array male = mec gus male homme zig ceum keum garcon
