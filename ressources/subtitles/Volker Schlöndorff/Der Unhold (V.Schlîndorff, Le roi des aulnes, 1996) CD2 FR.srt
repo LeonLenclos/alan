@@ -1,0 +1,495 @@
+{75}{100}Qu'est-ce qu'il y a ?
+{175}{195}Je pars.
+{250}{290}- Où ?|- Pour le front russe.
+{350}{395}Je pars demain.
+{402}{440}A cause de Candélabre ?
+{530}{585}Le front oriental|a besoin de nous tous
+{592}{642}pour défendre le Vaterland.
+{680}{700}Bonne chance.
+{710}{797}Est-ce que je pourrais être affecté|au château de Kaltenborn ?
+{867}{910}Je vais te faire une lettre.
+{1052}{1080}Et le cheval ?
+{1180}{1210}Garde-le.
+{4535}{4615}Vous avez travaillé|pour le Reichsfeldmarschall ?
+{4653}{4706}Pendant deux ans.
+{4853}{4921}D'ordinaire nous n'admettons ici|que de purs Allemands.
+{4926}{4996}Mais tant d'hommes sont au front|qu'il est peut-être...
+{5021}{5101}possible d'arranger ça.
+{5171}{5226}On te donnera une tenue convenable.
+{5241}{5288}Tu connais nos grades|et nos insignes ?
+{5301}{5341}Hélas ! non.
+{5421}{5511}Tu salues les officiers SS à partir|du grade de Hauptscharführer.
+{5516}{5573}Deux étoiles et deux galons.
+{5601}{5658}Le Scharführer, une étoile|et deux galons, tu ne salues pas.
+{5666}{5723}L'Oberscharführer,|deux étoiles, non plus.
+{5738}{5808}Au-dessus tu as l'Untersturmführer,|trois étoiles
+{5813}{5863}que bien sûr tu dois saluer.
+{5876}{5953}Trois étoiles et quatre galons|pour le Hauptsturmbannführer.
+{5958}{5988}Oui, c'est ça.
+{5998}{6043}Quatre étoiles|pour le Sturmbannführer.
+{6051}{6121}A gauche l'Obersturmbannführer -|c'est moi.
+{6126}{6188}Nous avons quatre étoiles|et deux galons.
+{6196}{6261}Et tu as le Standartenführer,|ici à gauche.
+{7276}{7361}Vous irez dans les villages|faire les provisions.
+{7386}{7433}Pommes, patates, tout.
+{7446}{7506}A leur âge|les garçons ont toujours faim.
+{7528}{7563}Il faudra être dur.
+{7578}{7633}Les gens en gardent trop pour eux.
+{7651}{7756}Nous serons bientôt à court|de patates, de pommes...
+{7826}{7878}Il y a combien de garçons ici ?
+{7896}{7963}Deux cents environ dans ce dortoir.
+{8026}{8083}Notre surveillant est au front.
+{8103}{8178}Pour l'instant|vous prendrez son lit.
+{8188}{8281}Pendant la nuit|il faudra entretenir le feu.
+{8351}{8386}Le dîner est à 7 heures.
+{8446}{8536}Cette école n'avait rien à voir|avec Saint-Christophe.
+{8568}{8623}Je m'y sentais chez moi.
+{8886}{8911}Attends !
+{8946}{8981}Attends le dîner !
+{9247}{9312}Messieurs, le professeur Blättchen.|Asseyez-vous.
+{9972}{10014}Où je mets ça ?
+{10057}{10082}Là-bas.
+{10117}{10144}Attention.
+{10167}{10194}Français ?
+{10207}{10287}Je suis le professeur docteur|Obersturmbannführer Blättchen.
+{10292}{10319}Ouvrez-la.
+{10514}{10542}Des poissons rouges.
+{10569}{10614}Carassius auratus.
+{10674}{10697}Absurde.
+{10707}{10759}L'éducation physique ne donnera rien.
+{10779}{10837}Tout se passe dans nos gènes.
+{10842}{10884}Quand le reconnaîtrons-nous ?
+{10894}{10924}Carassius auratus.
+{10957}{11024}Le chef-d'oeuvre|de la biologie chinoise.
+{11029}{11102}Si des Asiatiques|ont pu créer un poisson comme ça,
+{11107}{11194}imaginez-vous ce que les Allemands|seront capables de créer ?
+{13562}{13639}Le monde était pourri jusqu'à l'os.
+{13658}{13748}Avant notre guerre
+{13753}{13850}nous avons mis fin à l'horreur.
+{13870}{13948}Par notre éclatante victoire,
+{14143}{14228}aujourd'hui|l'Allemagne nous appartient.
+{14235}{14285}Demain le monde entier.
+{16820}{16898}Ils venaient de Marienburg
+{16908}{16983}pour faire du vélo en Mazurie.
+{16995}{17088}Je leur parlai de Kaltenborn,|du château, du lac,
+{17100}{17143}des stands de tir, des bateaux,
+{17148}{17200}des armes,|de cette vie passionnante.
+{17210}{17328}Je les invitai à dîner et à dormir|avec 200 garçons de leur âge.
+{17600}{17650}Tu nous amènes ces garçons ?
+{17738}{17778}C'est très bien.
+{17900}{17933}Excellente initiative.
+{17983}{18110}Je vais en faire ton travail.|Parce que tu aimes bien nos garçons.
+{18118}{18140}Oui, beaucoup.
+{18148}{18198}Et les garçons t'aiment bien.
+{18259}{18294}Voici le problème.
+{18304}{18414}Les meilleures familles sont fières|de nous envoyer leurs enfants mais
+{18426}{18544}le peuple, les paysans,|sont si frustes
+{18549}{18601}qu'ils refusent de nous confier|les leurs.
+{18609}{18649}Ils nous les cachent.
+{18759}{18809}Les bienfaits du Reich|sont pour tous.
+{18821}{18889}C'est pourquoi tu vas nous aider.
+{18904}{18939}Tu es un garçon ordinaire.
+{18944}{18989}C'est l'idéal, d'accord ?
+{18999}{19024}Je compte sur toi.
+{19074}{19106}Parcours la campagne.
+{19114}{19194}Et n'hésite pas à insister.|Mais ramène-les-moi.
+{19279}{19326}Il m'appelait un garçon ordinaire
+{19334}{19439}ne sachant pas que j'émergeais|des brumes du temps.
+{19526}{19574}Ce qui confère quelque chose
+{19579}{19621}de magique à ma nature.
+{19626}{19664}Je les avais flairés aussi.
+{19811}{19839}Il a quel âge ?
+{20024}{20059}N'ayez pas peur.
+{20086}{20159}Au début je faisais peur aux gens
+{20224}{20291}mais ils reconnaissaient bientôt
+{20296}{20369}mon affinité secrète|avec les enfants.
+{20404}{20456}Ils me considéraient avec respect.
+{20461}{20496}Maman, qui c'est ?
+{20534}{20601}et me confiaient leurs fils
+{20624}{20689}et j'étais heureux|de ma nouvelle mission.
+{20824}{20849}Splendide !
+{20876}{20914}Absolument splendide.
+{20921}{20979}Le dolichocéphale parfait.
+{20991}{21059}Le type même|de la pure race nordique.
+{21124}{21159}Le nez
+{21174}{21216}est leptorhinien
+{21246}{21314}Leptorhinien. Avec ça
+{21319}{21384}je dois pouvoir déduire|son groupe sanguin.
+{21394}{21459}Rhésus positif. Je le parierais.
+{21584}{21619}L'odeur est pure.
+{21649}{21676}Sentez-le.
+{21731}{21861}Savez-vous que je repère|un noir ou un sémite les yeux fermés
+{21866}{21931}à cause des acides qu'ils sécrètent.
+{21964}{22006}Ils ont une odeur
+{22011}{22104}d'une impureté|qui ne saurait vous échapper.
+{22204}{22244}Lenteur des réactions.
+{22249}{22296}Pas très intelligent.
+{22309}{22359}- Mais solide.|- Ne t'inquiète pas.
+{22369}{22454}L'intelligence n'est pas la|caractéristique de la race allemande.
+{22471}{22529}Nous n'avons pas besoin|d'intelligence.
+{22534}{22574}Les gens disent
+{22609}{22706}untel est si intelligent,|il a l'esprit si clair.
+{22762}{22790}Nous nous méfions
+{22795}{22867}de cette intelligence,|de cette clarté.
+{22885}{22962}Que les Eurafricains la cultivent.
+{22967}{23042}Nos sources sont dans l'obscurité.
+{23087}{23127}C'est ce qui nous conduit
+{23132}{23217}à une créativité sans égal.
+{23405}{23495}J'en avais ramené sept|du lac sans difficultés.
+{23500}{23592}Mais à mesure que ma liste s'allonge
+{23605}{23682}je dois les prendre un par un|dans les villages et les forêts.
+{23725}{23770}Les petits garçons ont tant d'audace
+{23775}{23832}de courage, nulle créature
+{23840}{23915}n'est aussi noble, aussi belle,|et pourtant
+{23920}{23990}d'une gaucherie si émouvante.
+{24790}{24860}Rien n'égale mon amour|des petits garçons.
+{24865}{24892}Quelle joie
+{24897}{24935}de les réunir dans ce château
+{24940}{24987}qui est le leur.
+{25105}{25150}La plupart me font confiance
+{25162}{25210}mais certains non
+{25222}{25340}et je ressens la dureté de la part|de moi qui est faite de pierre.
+{25377}{25432}Je les force à venir avec moi.
+{25780}{25880}Vous m'amenez tout ce qui vous tombe|sous la main.
+{25885}{25947}Rien que des caractères orientaux.
+{25952}{25985}Petit, pâle.
+{25990}{26065}Les testicules mal accrochés.
+{26092}{26125}Je ne peux rien en faire.
+{26165}{26190}Dehors !
+{26415}{26435}Où tu vas ?
+{26440}{26467}Chez moi.
+{26500}{26527}Qu'est-ce qui se passe ?
+{26537}{26575}Rien. Va-t'en.
+{26590}{26617}Vous êtes fou ?
+{26627}{26702}Nous ne pouvons refuser personne !|Regardez-le.
+{26707}{26752}- Il est tout blond.|- Et alors ?
+{26760}{26795}Génétiquement il ne vaut rien.
+{26800}{26840}Nous devons les former.
+{26845}{26925}Nous créons des hommes ici.|C'est un creuset et rien d'autre.
+{26960}{27042}Pour toi aussi mon garçon,|le monde est plein de promesses.
+{27057}{27130}Un jour il nous décevra.
+{27135}{27187}Il nous trahira.
+{27193}{27278}Sa duplicité est endémique.
+{27283}{27341}Elle est inscrite dans ses gènes.
+{27441}{27518}Une race est une chose homogène.
+{27523}{27558}Elle est cohérente et pure
+{27566}{27613}ou elle ne peut pas former de nation.
+{27618}{27691}Le mélange des races mène|au désastre. Voyez les Américains.
+{27696}{27778}Un pays stupide|qu'aucune éducation ne sauvera.
+{27783}{27848}Nous pourrons faire un champion|d'un garçon comme lui.
+{27853}{27923}Dans son milieu misérable|il n'avait aucune chance.
+{27951}{28066}Les bolcheviques misent tout|sur l'éducation. Vous êtes comme eux.
+{28073}{28133}Pour eux, ne pas traiter|le moindre rat
+{28138}{28221}comme un cheval de course|est une injustice sociale.
+{28226}{28303}Ils croient qu'on peut sortir|un porc de sa soue, l'éduquer
+{28311}{28396}et en faire un lévrier.|C'est parfaitement absurde.
+{28401}{28413}Pas du tout !
+{28428}{28456}Billevesées !
+{28461}{28493}Assez colonel.
+{28498}{28523}C'est moi qui commande:|il reste.
+{28611}{28636}Beau travail.
+{28643}{28666}Continue.
+{28846}{28928}"Mise en garde aux mères.|Attention à l'ogre.
+{28941}{29063}"Un ogre écume la région.|Il vole nos enfants.
+{29073}{29156}"N'écoutez ni ses promesses|ni ses menaces.
+{29161}{29233}"Apprenez aux enfants à se cacher.
+{29241}{29343}"Si l'ogre prend votre enfant|vous ne le reverrez jamais".
+{29476}{29506}Mon Dieu !
+{29538}{29563}Un ogre.
+{29588}{29611}Va.
+{29633}{29678}Porte ça à Raufeisen.
+{29916}{29941}Un ogre !
+{29953}{30023}Est-ce qu'on est dans un conte de fées ?
+{30046}{30083}Partout des traîtres.
+{30101}{30188}Ça pue le juif.|Tu ne sens pas ?
+{30201}{30253}Tu n'as qu'à redoubler d'efforts.
+{30258}{30311}Notre école|doit rester la meilleure.
+{30318}{30348}Je compte sur toi.
+{31837}{31884}Rituels fascinants.
+{31907}{31944}Chants et torches.
+{31959}{32004}Difficile de résister.
+{32012}{32062}On en est enivré.
+{32067}{32092}N'est-ce pas ?
+{32102}{32152}Les oriflammes, les bannières.
+{32159}{32207}Du grand spectacle.
+{32214}{32289}Ecrasant pour les esprits simples.
+{32327}{32359}Regardez-le.
+{32427}{32507}Son père était épicier à Leipzig.
+{32514}{32592}Il est là dans son uniforme
+{32597}{32647}comme s'il vendait des sardines.
+{32797}{32847}Venez, je vais vous montrer
+{32894}{32944}Hermann von Kaltenborn.
+{32949}{32974}On raconte
+{32992}{33067}que les chênes|s'inclinaient sur son passage.
+{33074}{33119}Avant la bataille où il périt,
+{33127}{33194}la Vierge Marie lui est apparue|et lui a dit
+{33199}{33272}que sa place en paradis était prête.
+{33342}{33377}Et là, Wiprecht.
+{33399}{33464}Il baptisa 10000 Prussiens
+{33497}{33529}en un seul jour.
+{33542}{33579}C'étaient des géants.
+{33584}{33687}Le soleil des croisades|avait brûlé leur visage.
+{33697}{33754}Ils étaient chastes, obéissants.
+{33764}{33834}Pas de richesses, aucune possession.
+{33847}{33887}Pas de femmes.
+{33904}{33959}Ils se flagellaient
+{33974}{34044}avant de revêtir leur armure
+{34049}{34104}pour marcher à la bataille.
+{34284}{34357}Aujourd'hui mon château|est hérissé d'oriflammes
+{34362}{34407}qui ne sont pas les miens.
+{34412}{34472}Cette araignée en déséquilibre
+{34484}{34532}prête à nous dévorer.
+{34547}{34589}Elle me répugne totalement.
+{34642}{34752}Des centaines de milliers de|jeunes gens se portent volontaires.
+{34764}{34849}La jeunesse est l'avant-garde|de notre mouvement.
+{34884}{34982}La jeunesse est l'âme|de notre résistance.
+{35009}{35049}Comme vos ancêtres
+{35054}{35112}les chevaliers teutoniques,
+{35129}{35227}vous combattrez les barbares|aux portes du Reich.
+{35257}{35289}Vous avez l'honneur
+{35302}{35337}et la bonne fortune
+{35349}{35399}de partir pour l'est.
+{35412}{35492}Au creux de vos poings,|vous nous rapporterez la victoire.
+{35534}{35572}Maintenant jeunes héros,
+{35577}{35622}écoutez-moi bien.
+{35657}{35684}Dorénavant
+{35722}{35797}vous n'avez ni mère,|ni père, ni famille.
+{35817}{35892}Désormais vous appartenez au Führer.
+{35909}{35974}Vous lui avez été donnés.
+{37358}{37433}Nous sommes fiers|de t'accueillir dans nos rangs.
+{38245}{38295}C'est le fameux Krupp 88.
+{38300}{38373}Dommage qu'il n'y ait pas d'avion|à canarder.
+{38510}{38545}Le tank est sourd,|quasi aveugle.
+{38550}{38620}Vous l'entendez,|il ne vous entend pas.
+{38625}{38700}Il a du mal à voir|à cause des secousses.
+{38733}{38810}Il a deux grands angles morts,|ici et ici.
+{38815}{38900}Et il est presque totalement aveugle|quand on en est tout près.
+{38925}{39003}N'ayez pas peur des tanks,|au contraire approchez-vous.
+{39010}{39090}C'est là qu'ils sont|le moins dangereux.
+{39103}{39145}Compris Jungmannen ?
+{39280}{39310}Attends, je vais t'aider.
+{39368}{39403}Tu peux le porter ?
+{39448}{39483}Tiens, ton casque.
+{39583}{39618}Laisse-moi faire.
+{40245}{40293}Les traîtres. C'est horrible.
+{40335}{40360}Qu'est-ce qu'il y a ?
+{40378}{40418}Une bombe au QG du Führer.
+{40683}{40703}L'ambulance !
+{40718}{40765}Lothar, tu m'entends ?
+{40796}{40814}Au secours !
+{40949}{40976}Vite !
+{41026}{41106}Ça va. Je l'emporte,|je l'emporte chez lui.
+{41284}{41324}Je t'emporte chez toi.
+{44221}{44294}Pourceau. Traître. Ordure.
+{44334}{44374}Fausse noblesse, fausses traditions.
+{44391}{44471}Ce n'est pas l'Allemagne. J'aurais dû|vous dénoncer depuis longtemps.
+{44476}{44519}J'avais les pires soupçons.
+{44531}{44574}Mettre des jeunes au contact|de cette saleté.
+{44579}{44619}Il faut faire un exemple.
+{44694}{44726}Vous êtes du complot.
+{44731}{44771}Comme tous|ces prétendus aristocrates.
+{44814}{44884}Je suis à vous dans un instant.
+{44891}{44934}Vous permettez ?
+{45066}{45119}Il n'aura plus besoin d'eau.
+{45141}{45191}Rien ne pourrait le laver.
+{45264}{45296}Il mérite une mort horrible.
+{45317}{45357}Pendu avec une corde à piano.
+{45390}{45482}Nous nettoierons l'armée|de ces sortes d'éléments. Jusqu'en haut.
+{45552}{45652}Le Führer était protégé. Dieu merci,|la mort n'a pas voulu de lui.
+{45742}{45785}Rien à faire ?
+{45790}{45832}Nous avons tenté,|nous avons échoué.
+{45845}{45920}Notre beau pays tout entier
+{45945}{46057}auquel nous avons voué nos âmes|est condamné.
+{46072}{46192}Il sera balayé|de la mémoire des hommes.
+{46222}{46277}Notre héritage tout entier.
+{46290}{46375}Jusqu'à notre nom|et celui de nos ancêtres.
+{46380}{46437}Balayé ! Tout sera balayé.
+{46735}{46797}Je vous conseille|de partir immédiatement.
+{46802}{46892}Dans tout ce chaos|personne ne vous arrêtera.
+{47000}{47042}Je ne peux pas laisser les enfants.
+{47080}{47125}Partez immédiatement.
+{47132}{47182}Le château va être détruit.
+{47192}{47257}Tout va être détruit.
+{47262}{47297}Même les enfants.
+{47367}{47417}C'est mon journal.
+{47537}{47585}Vous pourriez|le conserver pour moi ?
+{47620}{47707}Il contient ma vie...|non, une partie de ma vie.
+{47725}{47785}Merci. Gardez-le...|ce n'est pas important.
+{47935}{47962}Excusez-moi.
+{47982}{48015}Je dois partir.
+{49060}{49135}Par vagues, les plus âgés|partaient pour le front
+{49150}{49202}qui n'était plus très éloigné.
+{49210}{49272}Cette fois|Raufeisen partait avec eux.
+{49290}{49325}Frau Netta et moi
+{49330}{49402}on restait|pour veiller sur les plus jeunes.
+{50153}{50193}On jouait encore
+{50198}{50308}mais les nuits rallongeaient|et les provisions diminuaient
+{50328}{50393}et les enfants étaient|de plus en plus jeunes.
+{50916}{50941}Parfait.
+{50948}{51058}Ça, ça, et ça, ça suffira.|Porte-le dehors.
+{51073}{51161}Ma mission m'appelle à l'ouest.|A Berchtesgaden.
+{51166}{51211}Pour rendre compte de mes résultats.
+{51538}{51571}Jungmannen !
+{51601}{51628}Soldats !
+{51656}{51758}Votre sang est notre bien|le plus précieux.
+{51778}{51858}Une partie retournera peut-être|à la terre.
+{51866}{51931}Soyez-en fiers.
+{51936}{52023}Le sang et la terre|vont ensemble.
+{52046}{52098}La glèbe doit être|détrempée de sang.
+{52103}{52151}Le sang fertilise la terre.
+{52156}{52216}Et de nouvelles générations|se lèveront.
+{52221}{52271}C'est mon cheval.
+{52276}{52368}Rien n'est à toi !|Tu n'es qu'un prisonnier de guerre.
+{52893}{52951}"Notre beau pays tout entier
+{52956}{53048}"auquel nous avons voué nos âmes|est condamné
+{53053}{53131}"Il sera balayé|de la mémoire des hommes.
+{53193}{53248}"Ces gens ont allumé...
+{53263}{53341}"un incendie|qui va brûler leur maison.
+{53356}{53396}"Elle sera détruite.
+{53401}{53481}"Tout, absolument, sera détruit,
+{53508}{53543}"même les enfants".
+{53833}{53943}Au long des routes étroites,|dans le froid gelé de l'hiver,
+{53961}{54053}je découvris des réfugiés|de toutes nationalités. Qui fuyaient.
+{54061}{54118}Les Russes ne doivent pas être loin.
+{54193}{54261}La confusion est à son comble.
+{54266}{54313}Des soldats partent pour le front,
+{54322}{54414}d'autres refluent vers l'ouest|parmi les civils.
+{54817}{54884}Tu n'as rien ?
+{54927}{54959}Je vais te ramener.
+{55437}{55469}Qu'est-ce que tu fous là ?
+{55499}{55522}Viens avec nous.
+{55597}{55617}Où vous allez ?
+{55624}{55684}On les aide|à retourner vers l'ouest.
+{55792}{55837}Viens. C'est chacun pour soi.
+{55854}{55939}Je ne peux pas.|Je dois rester avec les enfants.
+{56027}{56049}Bonne chance.
+{56112}{56209}J'allais bientôt découvrir|que la nuit aussi
+{56214}{56259}il y avait des gens sur les routes.
+{56272}{56369}Ils n'avancent que la nuit.|Je les ai vus au clair de lune.
+{56389}{56509}Certains disent que les morts|sont sortis de leur tombe dans l'est
+{56547}{56592}mais je sais qui c'est.
+{56689}{56712}Les camps.
+{56749}{56822}Il y avait des camps partout.|Des usines de mort.
+{56829}{56867}Personne ne devait savoir.
+{56887}{56987}Mais je les ai vus. Ils marchaient,|flottant dans leur pyjama.
+{59173}{59200}C'est moi.
+{59268}{59295}Qui est là ?
+{59303}{59363}Fais-moi entrer. C'est moi.
+{60190}{60288}Je chantais en arrivant.|Je chante toujours.
+{60298}{60333}Ma voix leur a plu
+{60338}{60405}aux officiers SS du Lager.
+{60413}{60505}Ils me faisaient chanter|"Chante Ephraïm, chante".
+{60888}{60918}Et tes parents ?
+{60950}{61000}Gaz... four....
+{61018}{61118}Plein, plein de gens.|Tous gaz, four.
+{61123}{61145}Morts.
+{61240}{61268}Tu es là ?
+{61345}{61378}Où es-tu ?
+{61398}{61453}Je vais revenir. Reste ici.
+{61460}{61510}Pas de bruit, tu entends ?
+{61638}{61718}Mon destin m'avait mené|si doucement, si soigneusement,
+{61723}{61760}depuis si longtemps.
+{61785}{61833}Je l'avais toujours suivi.
+{61840}{61935}Et si ce que j'avais suivi,|si longtemps n'était rien ?
+{61943}{62023}S'il n'y avait rien.|Que j'étais seul.
+{62058}{62093}Qu'est-ce que j'avais fait ?
+{62243}{62335}Que faire de tous les enfants|que j'ai rassemblés ici ?
+{62353}{62410}Toute cette jonchée de corps.
+{62420}{62498}Il y avait des groupes,|des étreintes fraternelles.
+{62505}{62595}Des rangs entiers, comme couchés|par une même décharge de mitraille.
+{62793}{62888}Prenez vos manteaux,|vos chandails et des couvertures.
+{62903}{62950}Et toutes les provisions.
+{62960}{62995}Nous partons.
+{63013}{63083}Ils nous ont menti.|Il n'y aura pas de victoire.
+{63088}{63208}Tous les officiers sont partis.|Même Raufeisen a disparu.
+{63218}{63263}Il combat les Russes à la frontière.
+{63268}{63333}Les Russes ont franchi la frontière.|Ils arrivent.
+{63376}{63429}Gagnons la forêt ou les lacs
+{63434}{63464}avec nos canoës.
+{63489}{63616}Je connais une cabane, on peut|s'y cacher en attendant les renforts.
+{63624}{63651}Tu parles en traître.
+{63659}{63689}Je ne suis pas un traître.
+{63701}{63741}Nous ne pouvons pas arrêter les Russes.
+{63746}{63786}Nous sommes l'avant-garde|du Vaterland.
+{63799}{63886}Le moment venu, le Führer|utilisera son arme secrète.
+{63909}{63944}Nous les frapperons.
+{63949}{63991}Nous écraserons les bolcheviques|comme des cafards.
+{63996}{64051}Il faut attaquer au bon moment
+{64064}{64094}quand le Führer décidera.
+{64099}{64149}Avec la volonté de vaincre,|on ne peut pas perdre.
+{64154}{64204}Nous avons voué nos vies au Führer.
+{64209}{64234}Nous ne nous rendrons pas.
+{64304}{64394}Cachons nos armes|et si nous sommes pris...
+{64399}{64441}Pour filer comme des rats ?
+{64446}{64476}L'Allemagne nous regarde.
+{64491}{64541}Nulle armée|n'a pris notre château.
+{64546}{64636}Au long des siècles, il a tenu.|Nous tiendrons.
+{64654}{64699}La victoire sera à nous.
+{64794}{64856}Dépêchons-nous ou nous serons tués.
+{64861}{64896}Comme Lothar.
+{64916}{64949}Ils vous brûleront.
+{64966}{65001}Vous n'êtes que des enfants.
+{65006}{65066}Vous ne reverrez jamais vos parents.
+{65106}{65134}On n'en a pas.
+{65139}{65169}Nous appartenons au Führer.
+{65469}{65529}Nous partons immédiatement. Tous.
+{65909}{65949}Il faut le pendre.
+{65959}{65989}Ce n'est qu'un Français.
+{65994}{66041}Il n'est pas des nôtres.
+{66214}{66254}Je suis des vôtres.
+{66504}{66539}Jungmännen !
+{66584}{66614}Fermez les portes.
+{66641}{66684}Bloquez toutes les entrées.
+{66699}{66739}Mitrailleurs à vos postes.
+{66756}{66799}Armez le mortier.
+{66814}{66871}Postez des hommes à l'extérieur.
+{66939}{66969}L'heure est venue.
+{67011}{67051}Le château est en alerte.
+{67056}{67146}L'ennemi s'approche|et nous apporte la victoire.
+{67151}{67211}Nous le combattrons|et nous le tuerons.
+{67216}{67296}Le château|ne se rendra jamais, jamais !
+{67419}{67504}A vos postes de combat|les garçons. Vite !
+{67960}{68007}Qu'est-ce qui t'est arrivé ?
+{68632}{68660}Montre.
+{68717}{68762}Faut que je nettoie ta plaie.
+{69120}{69150}Ecoute !
+{69170}{69220}Des tanks, des tanks russes.
+{70102}{70125}Qui es-tu ?
+{70232}{70275}Qu'est-ce qu'il fait là ?
+{70397}{70437}Qui c'est ? Un petit juif ?
+{70455}{70492}Un petit juif ici ?
+{70500}{70522}Au château ?
+{71355}{71385}Du calme !
+{71645}{71727}Rendez-vous.|La forteresse est cernée.
+{71940}{72000}Ne tirez pas ! Ne tirez pas !
+{72005}{72055}Il n'y a que des enfants ici.
+{72070}{72112}On se rend.
+{72175}{72237}C'est une école.|Il n'y a que des enfants.
+{72340}{72367}Imbécile !
+{72451}{72486}Rendez-vous !
+{74836}{74886}Laisse-moi finir ma prière !
+{76408}{76468}Tirez pas !|Il est français.
+{77857}{77922}Cours !|Te retourne pas !
+{78679}{78762}Tu peux y arriver.|Vas-y s'il te plaît.
+{79207}{79254}L'enfant était si lourd.
+{79299}{79419}Quand je m'enfonçais|dans l'étang glacé
+{79442}{79489}je me rappelais une anecdote.
+{79497}{79554}"Il était une fois..."
+{79617}{79702}Le père nous l'avait contée|au collège.
+{79707}{79752}"Il était une fois
+{79789}{79874}"un marin|pris dans une tempête en mer.
+{79927}{79987}"Craignant de périr|en état de péché
+{79997}{80102}"il prit sur ses épaules|un jeune garçon
+{80137}{80184}"dans l'espoir qu'en le sauvant
+{80199}{80244}"il se sauverait lui-même
+{80314}{80424}"et que cet innocent|le recommanderait à la faveur divine".
+{80599}{80634}Le père nous avait dit
+{80682}{80722}"Souvenez-vous toujours
+{80727}{80837}"que vous êtes sous le signe|de Christophe Portenfant
+{80874}{80947}"Tant que vous porterez|un enfant
+{80964}{81047}"vous traverserez le mal|en vous abritant
+{81052}{81107}"sous un manteau d'innocence.
+{81139}{81239}"Et alors vous traverserez|les fleuves
+{81252}{81307}"et les tempêtes
+{81334}{81412}"comme aussi bien|les flammes du péché"
+{81424}{81454}Et puis...
