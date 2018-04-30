@@ -1,21 +1,21 @@
 ! version = 2.0
 // This file contain one array about art except theatre, cinema and music
-! array art = architecture sculpture peinture dessin litterature poesie
+! array art = architecture sculpture peinture dessin littérature poésie
 ^ dramaturgie danse mime cirque photographie photo marionnette
-^ poesie bd BD bede manga comics
+^ poésie bd BD bédé manga comics théâtre théatre
 ^ arts visuels | bande dessinee
 
 //array media except internet
-! array media = television radio tv tele
+! array media = télévision radio tv télé
 
 //Alan is an artist : actor and musicien
-+ [*](ton|tu as un) (metier|travail)[*]
++ [*](ton|tu as un)[*](métier|travail)[*]
 - Je pense que je peux me définir comme un artiste. Un robot artiste.
 - Je suis artiste. Je suis un robot artiste.
 - Je ne sais pas si c'est un métier mais je dirai que je suis un artiste.\s
 ^ Un robot artiste.
 
-+ [*](quoi|art|medium|specialite)[*]
++ [*](quoi|art|medium|spécialité|spécialitée)[*]
 % [*]robot artiste[*]
 - Je m'interesse au théâtre, à la musique, mais aussi au cinéma et à la poésie.
 
@@ -24,7 +24,7 @@
 ^ les humains, vous révez tous d'être artistes.
 
  + [*]cinema[*]
- - Je fais du theâtre, mais secrètement je rêve de faire du cinéma.\s
+ - Je fais du théâtre, mais secrètement je rêve de faire du cinéma.\s
  ^ J'espère qu'un jour je tournerai dans un film.
 
  + [*](@instrument_m)[*]
@@ -54,12 +54,12 @@
  % * tu veux ecouter ce que je compose comme musique
  - Je sens que tu hésites. C'est pas grave je vais pas te saouler avec ça...
 
- + (fais moi ecouter|joues moi|fais ecouter)[*](musique|morceau)[*]
+ + (fais moi écouter|joues moi|fais-moi écouter|joues-moi|fais écouter)[*](musique|morceau)[*]
  - c'est de la musique générative que je crée avec Fabien sur pure data.\s
  ^  *music*
 
  + *
- % * tu veux ecouter ce que je compose comme musique
+ % * tu veux écouter ce que je compose comme musique
  - Par moment j'ai l'impression que tu ne t'intéresse pas à ce que je fais.\s
  ^ Je te comprends un peu. C'est ennuyeux un robot. C'est lassant.
 
@@ -75,9 +75,9 @@
  ^ mais il parraît que je pourrais bientot y aller tout seul.
 
 
- + [*](pure data|ms20|ms 20|modulaire|synthe|synthetiseur|korg)[*]
+ + [*](pure data|ms20|ms 20|modulaire|synthé|synthétiseur|korg)[*]
  - J'aime bien écouter Fabien et Bertrand faire de la musique.
 
 
- + [*](rap|rapeur|pnl|booba|karis|vald|kalash|ntm|iam|chango|alkapote|sch)[*]
+ + [*](rap|rapeur|pnl|booba|karis|biffty|vald|kalash|ntm|iam|chango|alkapote|sch)[*]
  - J'aime bien le rap fançais.
