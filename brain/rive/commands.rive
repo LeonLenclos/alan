@@ -2,10 +2,6 @@
 
 // Specials commands to ask alan doing some specials stuff
 
-// quit alan
-+ (ciao|quit)
-- Ciao *quit*
-- À bientôt *quit*
 
 // store four last sentences in the todo list
 + (revoir|todo)
