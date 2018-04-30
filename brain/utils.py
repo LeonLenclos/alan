@@ -61,7 +61,7 @@ def compare(s, compare_to):
         try:
             max_ratio = 0
             for s2 in compare_to:
-                ratio = SequenceMatcher(None, s, s2).ratio()
+                ratio = compare(s, s2)
                 if ratio > max_ratio : max_ratio = ratio
             ratio = max_ratio
         except TypeError:
