@@ -1,0 +1,3217 @@
+1
+00:00:00,742 --> 00:00:03,142
+<i>Ferme les yeux et
+dis-moi ce que tu vois.</i>
+
+2
+00:00:09,891 --> 00:00:11,105
+La Bibliothèque.
+
+3
+00:00:17,617 --> 00:00:19,231
+<i>Rouvre les yeux.</i>
+
+4
+00:00:21,657 --> 00:00:22,815
+<i>Où es-tu maintenant ?</i>
+
+5
+00:00:23,062 --> 00:00:24,609
+Dans mon salon, Dr Moon.
+
+6
+00:00:25,340 --> 00:00:27,018
+<i>Quand tu fermes les yeux...</i>
+
+7
+00:00:27,387 --> 00:00:28,876
+Je vais à la Bibliothèque.
+
+8
+00:00:31,009 --> 00:00:32,492
+Vas-y maintenant.
+
+9
+00:00:34,741 --> 00:00:36,837
+<i>- Tu y es ?
+- Oui.</i>
+
+10
+00:00:37,888 --> 00:00:39,002
+<i>Au même endroit ?</i>
+
+11
+00:00:39,849 --> 00:00:41,549
+<i>Non, ça change à chaque fois.</i>
+
+12
+00:00:41,980 --> 00:00:43,846
+<i>La Bibliothèque s'étend à l'infini.</i>
+
+13
+00:00:45,060 --> 00:00:46,618
+<i>Comment te déplaces-tu ?</i>
+
+14
+00:00:47,875 --> 00:00:49,045
+En le souhaitant.
+
+15
+00:00:53,162 --> 00:00:54,856
+- Qu'y a-t-il ?
+- Il y a quelque chose !
+
+16
+00:00:55,165 --> 00:00:57,296
+Quelqu'un est rentré !
+Personne n'est censé rentrer.
+
+17
+00:00:57,396 --> 00:00:59,797
+Elle n'a parlé de personne.
+Elle a toujours été seule.
+
+18
+00:00:59,897 --> 00:01:01,636
+<i>Il y a quelqu'un dans ma bibliothèque.</i>
+
+19
+00:01:03,756 --> 00:01:06,241
+Non ! Non, je vous en prie !
+Vous n'avez pas le droit !
+
+20
+00:01:06,341 --> 00:01:07,523
+Écoute-moi.
+
+21
+00:01:08,849 --> 00:01:10,576
+La bibliothèque est dans ta tête.
+
+22
+00:01:10,676 --> 00:01:13,256
+Je le sais.
+Mais quelque chose est rentré !
+
+23
+00:01:25,108 --> 00:01:26,772
+Oh ! Bonjour !
+
+24
+00:01:27,442 --> 00:01:29,106
+Désolés d'arriver comme ça.
+
+25
+00:01:29,519 --> 00:01:30,845
+On peut rester là un moment ?
+
+26
+00:01:56,168 --> 00:01:59,256
+Doctor Who - 4x08
+"Silence In The Library"
+
+27
+00:01:59,434 --> 00:02:01,830
+Transcript by evarin
+www.transcripts.subtitle.me.uk
+
+28
+00:02:01,930 --> 00:02:04,614
+Traduction par
+Plumedephenix, Kowaio & LauCass
+
+29
+00:02:04,714 --> 00:02:07,309
+Relecture par Frankie78
+Resynchro par LauCass
+
+30
+00:02:07,409 --> 00:02:09,655
+~ Bad Wolf Team ~
+~ www.seriessub.com ~
+
+31
+00:02:09,915 --> 00:02:14,106
+Les livres ! Les gens ne s'en
+sont jamais vraiment lassés.
+
+32
+00:02:16,296 --> 00:02:17,571
+51ème siècle.
+
+33
+00:02:18,246 --> 00:02:21,523
+Vous avez des holovidéos, des
+téléchargements directs dans le cerveau,
+
+34
+00:02:21,623 --> 00:02:25,139
+mais il vous faut l'odeur. L'odeur
+des livres, Donna. Respire-moi ça.
+
+35
+00:02:29,911 --> 00:02:30,944
+La Bibliothèque.
+
+36
+00:02:33,330 --> 00:02:35,004
+Si grande qu'elle
+n'a pas besoin de nom.
+
+37
+00:02:35,104 --> 00:02:36,508
+Juste un beau grand "la".
+
+38
+00:02:36,937 --> 00:02:38,069
+On dirait une ville.
+
+39
+00:02:38,169 --> 00:02:40,349
+C'est un monde, littéralement.
+
+40
+00:02:40,449 --> 00:02:42,439
+Le cœur de la planète
+est le centre de données.
+
+41
+00:02:42,539 --> 00:02:43,889
+Le plus gros disque dur existant.
+
+42
+00:02:43,989 --> 00:02:46,390
+Et ici se trouvent tous
+les livres jamais écrits.
+
+43
+00:02:46,490 --> 00:02:47,772
+Des continents entiers de
+
+44
+00:02:48,304 --> 00:02:52,258
+Jeffrey Archer, Bridget Jones,
+Le grand livre des Monty Pythons.
+
+45
+00:02:53,184 --> 00:02:55,579
+De toutes nouvelles éditions,
+spécialement imprimées.
+
+46
+00:02:57,340 --> 00:02:59,216
+<i>On est prêts de l'équateur, donc...</i>
+
+47
+00:03:01,538 --> 00:03:03,290
+Ça doit être la section biographie !
+
+48
+00:03:03,991 --> 00:03:05,269
+J'adore les biographies.
+
+49
+00:03:05,369 --> 00:03:07,469
+C'est bien vous,
+toujours une mort à la fin.
+
+50
+00:03:07,569 --> 00:03:10,514
+Les morts sont utiles. Sans elles,
+il n'y aurait que des comédies.
+
+51
+00:03:10,614 --> 00:03:13,189
+Mourir nous donne de l'importance !
+
+52
+00:03:13,567 --> 00:03:15,509
+- Attention aux spoilers !
+- Quoi ?
+
+53
+00:03:15,731 --> 00:03:17,188
+Ces livres viennent de ton futur.
+
+54
+00:03:17,288 --> 00:03:19,256
+Ne les lis pas, ça va
+te gâcher la surprise.
+
+55
+00:03:19,356 --> 00:03:20,536
+Comme lire la dernière page.
+
+56
+00:03:20,636 --> 00:03:23,228
+Mais voyager avec vous est
+un énorme spoiler, non ?
+
+57
+00:03:23,891 --> 00:03:27,617
+J'essaye de t'éviter les
+grandes lignes de l'histoire.
+
+58
+00:03:28,505 --> 00:03:30,902
+Mais honnêtement,
+je crois que je n'y arrive pas
+
+59
+00:03:31,002 --> 00:03:32,672
+car... Tu sais quoi ?
+
+60
+00:03:32,772 --> 00:03:34,729
+C'est la plus grande
+bibliothèque de l'univers.
+
+61
+00:03:36,344 --> 00:03:37,651
+Alors où est tout le monde ?
+
+62
+00:03:42,588 --> 00:03:43,576
+Elle est silencieuse.
+
+63
+00:03:44,627 --> 00:03:45,536
+La Bibliothèque ?
+
+64
+00:03:49,182 --> 00:03:50,208
+La planète.
+
+65
+00:03:52,917 --> 00:03:54,056
+<i>La planète entière.</i>
+
+66
+00:03:56,333 --> 00:03:57,578
+On est peut-être dimanche.
+
+67
+00:03:57,885 --> 00:03:59,737
+Non, je n'atterris jamais le dimanche.
+
+68
+00:04:00,506 --> 00:04:02,989
+C'est trop ennuyeux.
+
+69
+00:04:03,159 --> 00:04:06,544
+Tout le monde est peut-être
+très, très silencieux.
+
+70
+00:04:06,907 --> 00:04:08,380
+Oui, peut-être.
+
+71
+00:04:09,062 --> 00:04:11,245
+Mais ils apparaîtraient
+quand même sur le système.
+
+72
+00:04:11,721 --> 00:04:14,229
+Docteur, pourquoi est-on ici ?
+Vraiment ?
+
+73
+00:04:14,329 --> 00:04:16,589
+Oh, tu sais, on passait par là.
+
+74
+00:04:16,689 --> 00:04:18,469
+Non, sérieusement.
+
+75
+00:04:18,569 --> 00:04:22,001
+On voulait aller à la plage et on
+se retrouve dans une bibliothèque.
+
+76
+00:04:22,101 --> 00:04:23,949
+- Pourquoi ?
+- Ça, c'est intriguant.
+
+77
+00:04:24,378 --> 00:04:26,111
+- Quoi ?
+- Je cherche des formes de vie.
+
+78
+00:04:26,211 --> 00:04:29,071
+<i>En recherchant des
+humanoïdes basiques, tu sais...</i>
+
+79
+00:04:29,171 --> 00:04:32,331
+<i>Des lecteurs, quelques membres et un
+visage, à part nous, il ne trouve rien.</i>
+
+80
+00:04:33,038 --> 00:04:34,829
+Zippo, nada, tu vois ?
+
+81
+00:04:35,222 --> 00:04:40,022
+Il n'y a personne. Mais en
+élargissant à toute sorte de vie...
+
+82
+00:04:44,952 --> 00:04:46,469
+<i>Un million de millions.</i>
+
+83
+00:04:46,921 --> 00:04:48,129
+Il abandonne après ça.
+
+84
+00:04:50,331 --> 00:04:52,136
+Un million de millions.
+
+85
+00:04:53,526 --> 00:04:54,796
+<i>Mais il n'y a rien.</i>
+
+86
+00:04:55,228 --> 00:04:56,210
+<i>Personne.</i>
+
+87
+00:04:57,674 --> 00:04:59,144
+<i>Et pas un bruit.</i>
+
+88
+00:05:01,159 --> 00:05:03,499
+Un million de millions de formes de vie,
+
+89
+00:05:04,807 --> 00:05:06,369
+et la Bibliothèque est silencieuse.
+
+90
+00:05:08,367 --> 00:05:09,918
+Mais il n'y a personne.
+
+91
+00:05:10,800 --> 00:05:13,629
+Seulement des livres.
+C'est pas les livres, si ?
+
+92
+00:05:13,920 --> 00:05:15,549
+Ça ne peut pas être les livres, si ?
+
+93
+00:05:15,960 --> 00:05:18,129
+Des livres ne peuvent pas être vivants ?
+
+94
+00:05:29,487 --> 00:05:30,649
+<i>Bienvenue !</i>
+
+95
+00:05:33,465 --> 00:05:35,336
+- Ça venait de là-bas.
+- Oui.
+
+96
+00:05:49,788 --> 00:05:53,636
+Je suis l'Hôte de Courtoisie 710/aqua.
+
+97
+00:05:53,992 --> 00:05:57,461
+Veuillez profiter de la Bibliothèque et
+respecter les codes d'accès personnels
+
+98
+00:05:57,561 --> 00:06:02,335
+de tous les lecteurs, sans
+distinction de race ni d'hygiène.
+
+99
+00:06:03,036 --> 00:06:04,431
+Ce visage, il paraît vrai.
+
+100
+00:06:04,531 --> 00:06:06,119
+Oui, n'y fais pas attention.
+
+101
+00:06:06,751 --> 00:06:08,736
+Mais c'est une statue
+avec un vrai visage !
+
+102
+00:06:09,360 --> 00:06:12,238
+- C'est un hologramme ?
+- Non, mais c'est bon, vraiment.
+
+103
+00:06:12,338 --> 00:06:15,929
+De plus, ci-suit un court
+message du bibliothécaire
+
+104
+00:06:16,029 --> 00:06:17,540
+à votre urgente attention.
+
+105
+00:06:17,640 --> 00:06:20,055
+Son ton et contenu ont été édités
+
+106
+00:06:20,155 --> 00:06:23,784
+par un Filtre de Décence
+automatique Felman Lux.
+
+107
+00:06:24,229 --> 00:06:25,693
+Début du message.
+
+108
+00:06:25,855 --> 00:06:26,608
+"Courez.
+
+109
+00:06:26,946 --> 00:06:28,216
+Par pitié, courez.
+
+110
+00:06:29,430 --> 00:06:31,125
+<i>Vous n'êtes pas en sécurité.</i>
+
+111
+00:06:31,225 --> 00:06:35,917
+La Bibliothèque s'est mise en
+quarantaine, on ne... Oh, ils sont là.
+
+112
+00:06:36,669 --> 00:06:40,349
+Argh. Slarg. Snik."
+Fin du message.
+
+113
+00:06:40,830 --> 00:06:45,509
+<i>Veuillez éteindre vos unités de
+communication par respect des lecteurs.</i>
+
+114
+00:06:45,891 --> 00:06:47,667
+C'est donc pour ça qu'on est là.
+
+115
+00:06:48,587 --> 00:06:50,583
+D'autres messages à la même date ?
+
+116
+00:06:50,746 --> 00:06:52,428
+<i>Un message additionnel.</i>
+
+117
+00:06:52,889 --> 00:06:56,658
+Ce message contient un avertissement
+de cohérence Felman Lux de...
+
+118
+00:06:56,758 --> 00:06:59,079
+- Oui, oui, c'est bon. Allez-y.
+- 5, 0, 11...
+
+119
+00:06:59,323 --> 00:07:00,736
+<i>Début du message.</i>
+
+120
+00:07:01,685 --> 00:07:03,149
+"Comptez les ombres.
+
+121
+00:07:03,368 --> 00:07:04,869
+Par pitié, pensez-y...
+
+122
+00:07:04,969 --> 00:07:07,269
+Si vous tenez à votre
+vie, comptez les ombres."
+
+123
+00:07:07,823 --> 00:07:09,105
+<i>Fin du message.</i>
+
+124
+00:07:15,086 --> 00:07:15,736
+Donna...
+
+125
+00:07:16,737 --> 00:07:17,482
+Oui ?
+
+126
+00:07:19,515 --> 00:07:20,929
+Reste à l'écart des ombres.
+
+127
+00:07:22,955 --> 00:07:24,501
+Pourquoi ? Qu'est-ce qu'elles ont ?
+
+128
+00:07:43,098 --> 00:07:43,774
+Donc...
+
+129
+00:07:44,794 --> 00:07:46,626
+On ne faisait pas que passer par là.
+
+130
+00:07:46,834 --> 00:07:49,391
+Oui, j'ai un peu menti.
+
+131
+00:07:50,267 --> 00:07:52,056
+J'ai reçu un message
+par papier psychique.
+
+132
+00:07:54,432 --> 00:07:56,259
+T'en penses quoi ?
+Un cri de détresse ?
+
+133
+00:07:57,235 --> 00:08:00,176
+Un cri de détresse, avec un bisou ?
+
+134
+00:08:01,339 --> 00:08:02,565
+Oh, on a tous fait ça.
+
+135
+00:08:02,665 --> 00:08:05,029
+- C'est de qui ?
+- Aucune idée.
+
+136
+00:08:05,129 --> 00:08:07,480
+- Alors pourquoi on est venus ici ?
+- Donna.
+
+137
+00:08:11,151 --> 00:08:12,915
+- Que se passe-t-il ?
+- Cours !
+
+138
+00:08:15,205 --> 00:08:17,889
+- Elle est verrouillée ?
+- Bloquée, le bois est voilé !
+
+139
+00:08:19,372 --> 00:08:21,480
+Utilisez votre truc sonique !
+
+140
+00:08:21,580 --> 00:08:25,032
+- Je peux pas, c'est du bois !
+- Ça marche pas sur du bois ?
+
+141
+00:08:25,132 --> 00:08:27,665
+Si je peux faire vibrer les
+molécules et brûler les joints,
+
+142
+00:08:27,765 --> 00:08:30,510
+- Je pourrai briser l'interface.
+- Oh, poussez-vous de là !
+
+143
+00:08:37,783 --> 00:08:39,706
+Oh ! Bonjour !
+
+144
+00:08:40,104 --> 00:08:43,446
+Désolés d'arriver comme ça.
+On peut rester là un moment ?
+
+145
+00:08:46,404 --> 00:08:47,361
+Qu'est-ce que c'est ?
+
+146
+00:08:49,676 --> 00:08:50,973
+Une caméra de surveillance.
+
+147
+00:08:53,438 --> 00:08:54,846
+Elle s'est éteinte.
+
+148
+00:08:58,273 --> 00:09:01,402
+Ils étaient dans ma bibliothèque.
+Comment ça se fait ?
+
+149
+00:09:01,646 --> 00:09:02,586
+Qui était-ce ?
+
+150
+00:09:03,798 --> 00:09:05,611
+C'est quoi ce bruit ?
+
+151
+00:09:05,711 --> 00:09:06,656
+Quel bruit ?
+
+152
+00:09:09,815 --> 00:09:11,391
+Tu es douée avec les portes, Donna.
+
+153
+00:09:11,961 --> 00:09:15,140
+Vous savez, avec les petits amis,
+l'élément de surprise peut servir.
+
+154
+00:09:15,672 --> 00:09:16,604
+<i>C'était quoi ?</i>
+
+155
+00:09:17,255 --> 00:09:18,575
+Qu'est-ce qui était après nous ?
+
+156
+00:09:18,731 --> 00:09:21,096
+On vient de fuir une
+coupure de courant ?
+
+157
+00:09:21,303 --> 00:09:22,257
+C'est possible.
+
+158
+00:09:24,766 --> 00:09:26,198
+On est en sécurité ici ?
+
+159
+00:09:27,513 --> 00:09:29,233
+Bien sûr. Il y a une boutique !
+
+160
+00:09:35,233 --> 00:09:36,113
+Ah, ça y est !
+
+161
+00:09:38,229 --> 00:09:39,411
+Non, arrêtez ça !
+
+162
+00:09:40,438 --> 00:09:42,173
+Non, non !
+
+163
+00:09:44,966 --> 00:09:46,221
+Oh, je suis désolé.
+
+164
+00:09:46,321 --> 00:09:50,413
+Vraiment, je suis désolé,
+vraiment désolé. Elle est vivante.
+
+165
+00:09:50,894 --> 00:09:53,084
+Vous disiez que c'était
+une caméra de surveillance.
+
+166
+00:09:53,604 --> 00:09:54,479
+En effet.
+
+167
+00:09:55,687 --> 00:09:56,957
+C'en est une vivante.
+
+168
+00:09:57,320 --> 00:09:58,377
+Tu m'entends ?
+
+169
+00:09:59,522 --> 00:10:00,733
+Est-ce que ça va ?
+
+170
+00:10:04,006 --> 00:10:06,253
+- D'autres sont en chemin.
+- Qui ça ?
+
+171
+00:10:06,690 --> 00:10:07,697
+Quels autres ?
+
+172
+00:10:08,123 --> 00:10:09,666
+La Bibliothèque a été pénétrée.
+
+173
+00:10:09,766 --> 00:10:12,293
+- D'autres sont en chemin.
+- Quels autres ?
+
+174
+00:10:12,771 --> 00:10:13,597
+<i>D'autres ?</i>
+
+175
+00:10:14,516 --> 00:10:15,944
+<i>Comment ça, d'autres ?</i>
+
+176
+00:10:19,780 --> 00:10:22,026
+Excusez-moi. Que veut-elle
+dire par "d'autres" ?
+
+177
+00:10:22,126 --> 00:10:25,346
+C'est à peine plus qu'une
+balance parlante, elle ne t'aidera pas.
+
+178
+00:10:25,446 --> 00:10:26,957
+Alors pourquoi a-t-elle un visage ?
+
+179
+00:10:27,486 --> 00:10:30,076
+Cet aspect de chair a été
+offert par Mark Chambers
+
+180
+00:10:30,176 --> 00:10:32,184
+à l'occasion de sa mort.
+
+181
+00:10:33,198 --> 00:10:34,746
+C'est un vrai visage ?
+
+182
+00:10:34,846 --> 00:10:37,402
+Il a été actualisé
+spécialement pour vous
+
+183
+00:10:37,502 --> 00:10:41,533
+<i>parmi les nombreux aspects
+faciaux de notre banque de chair.</i>
+
+184
+00:10:42,144 --> 00:10:43,853
+Je vous en prie.
+
+185
+00:10:44,288 --> 00:10:46,897
+Elle m'a choisi un visage mort
+susceptible de me plaire ?
+
+186
+00:10:46,997 --> 00:10:49,087
+Cette statue a le visage
+d'un mort sur elle !
+
+187
+00:10:49,187 --> 00:10:50,266
+<i>C'est le 51ème siècle.</i>
+
+188
+00:10:50,366 --> 00:10:53,146
+Ça revient en gros à donner un banc.
+
+189
+00:10:53,361 --> 00:10:54,863
+C'est donner un visage !
+
+190
+00:10:55,507 --> 00:10:56,846
+Non, attends !
+
+191
+00:10:57,072 --> 00:10:59,605
+- Bas les pattes !
+- Regarde cette ombre.
+
+192
+00:11:01,538 --> 00:11:02,570
+Qu'est-ce qu'elle a ?
+
+193
+00:11:03,221 --> 00:11:04,516
+Comptez les ombres.
+
+194
+00:11:05,661 --> 00:11:09,266
+Une. Ça y est, je l'ai
+comptée, une ombre.
+
+195
+00:11:09,366 --> 00:11:10,173
+Oui...
+
+196
+00:11:11,978 --> 00:11:13,566
+Mais d'où vient-elle ?
+
+197
+00:11:23,206 --> 00:11:26,541
+Oh ! Je suis bête ! Vieux et bête !
+
+198
+00:11:26,641 --> 00:11:29,070
+Ma tête est trop remplie, il
+m'en faut une plus grosse !
+
+199
+00:11:33,540 --> 00:11:34,946
+<i>Le courant s'affaiblit.</i>
+
+200
+00:11:35,268 --> 00:11:37,873
+Non, c'est alimenté
+par l'énergie solaire.
+
+201
+00:11:38,530 --> 00:11:41,095
+- Alors pourquoi fait-il sombre ?
+- Il ne fait pas sombre.
+
+202
+00:11:45,325 --> 00:11:46,452
+L'ombre.
+
+203
+00:11:47,366 --> 00:11:48,210
+Elle est partie.
+
+204
+00:11:49,161 --> 00:11:50,644
+On doit retourner au TARDIS.
+
+205
+00:11:50,832 --> 00:11:51,413
+Pourquoi ?
+
+206
+00:11:51,513 --> 00:11:54,146
+Car elle n'est pas
+partie, elle a juste bougé.
+
+207
+00:11:55,099 --> 00:11:55,836
+Rappel.
+
+208
+00:11:55,936 --> 00:11:58,386
+La Bibliothèque a été pénétrée,
+d'autres sont en chemin.
+
+209
+00:11:58,921 --> 00:11:59,490
+Rappel.
+
+210
+00:11:59,590 --> 00:12:02,466
+<i>La Bibliothèque a été pénétrée,
+d'autres sont en chemin.</i>
+
+211
+00:12:03,253 --> 00:12:03,998
+<i>Rappel.</i>
+
+212
+00:12:04,098 --> 00:12:05,489
+<i>La Bibliothèque a été pénétrée...</i>
+
+213
+00:12:26,955 --> 00:12:28,253
+Salut mon coeur.
+
+214
+00:12:28,607 --> 00:12:30,321
+- Allez-vous-en.
+- Docteur.
+
+215
+00:12:30,421 --> 00:12:32,946
+Vous tous, faites demi-tour,
+repartez dans votre fusée.
+
+216
+00:12:33,046 --> 00:12:35,174
+Dites à vos petits-fils que
+vous avez survécu ici,
+
+217
+00:12:35,274 --> 00:12:36,301
+ils ne vous croiront pas.
+
+218
+00:12:36,401 --> 00:12:38,960
+Enlevez vos casques, tout le monde.
+Ils respirent.
+
+219
+00:12:39,498 --> 00:12:41,725
+Ce sont peut-être des androïdes ?
+
+220
+00:12:41,825 --> 00:12:43,209
+Je suis sortie avec des androïdes.
+
+221
+00:12:43,309 --> 00:12:45,360
+- Ils sont nuls.
+- Qui est-ce ?
+
+222
+00:12:45,460 --> 00:12:48,506
+Vous disiez que nous serions la seule
+expédition, j'ai payé l'exclusivité !
+
+223
+00:12:48,606 --> 00:12:49,872
+J'ai menti, je mens toujours.
+
+224
+00:12:49,972 --> 00:12:51,468
+Obligé qu'il y en ait d'autres.
+
+225
+00:12:51,568 --> 00:12:53,570
+Mlle Evangelista,
+amenez-moi les contrats.
+
+226
+00:12:53,870 --> 00:12:56,079
+Tu as pris l'entrée nord ?
+Beaucoup de dégâts ?
+
+227
+00:12:56,179 --> 00:12:59,295
+Je vous en prie, partez. Je vous le
+demande très poliment...
+
+228
+00:12:59,395 --> 00:13:00,826
+Vous avez dit expédition ?
+
+229
+00:13:00,926 --> 00:13:03,431
+Mon expédition, je l'ai financée.
+
+230
+00:13:03,681 --> 00:13:07,106
+Oh, c'est pas vrai. Dites-moi que
+vous n'êtes pas des archéologues.
+
+231
+00:13:07,604 --> 00:13:09,127
+Un problème avec les archéologues ?
+
+232
+00:13:09,227 --> 00:13:12,030
+Je voyage dans le temps. Je
+les montre du doigt en rigolant.
+
+233
+00:13:13,188 --> 00:13:15,746
+Professeur River Song, archéologue.
+
+234
+00:13:15,972 --> 00:13:16,966
+River Song, joli nom !
+
+235
+00:13:17,066 --> 00:13:19,731
+En partant, vous devez lancer
+une balise de quarantaine.
+
+236
+00:13:19,831 --> 00:13:20,714
+Bannissez la planète,
+
+237
+00:13:20,814 --> 00:13:24,469
+la planète entière. Plus personne
+ne doit venir ici, plus jamais.
+
+238
+00:13:24,569 --> 00:13:27,304
+Plus personne, plus jamais. Stop !
+Comment vous appelez-vous ?
+
+239
+00:13:27,404 --> 00:13:28,066
+Anita.
+
+240
+00:13:28,166 --> 00:13:29,666
+Anita, restez en dehors des ombres.
+
+241
+00:13:29,766 --> 00:13:33,146
+Pas un pied, pas un doigt dans
+l'ombre jusqu'à votre vaisseau.
+
+242
+00:13:33,246 --> 00:13:37,346
+Restez tous dans la lumière. Trouvez
+un beau coin éclairé et ne bougez plus.
+
+243
+00:13:37,700 --> 00:13:40,373
+Si vous me comprenez, ayez
+l'air très, très effrayé.
+
+244
+00:13:45,948 --> 00:13:48,373
+Non, un peu plus que ça.
+
+245
+00:13:51,061 --> 00:13:53,235
+Ça ira pour l'instant.
+Vous, votre nom ?
+
+246
+00:13:53,335 --> 00:13:54,499
+- Dave.
+- D'accord, Dave...
+
+247
+00:13:54,599 --> 00:13:57,631
+Enfin, l'Autre Dave,
+lui c'est le Vrai Dave,
+
+248
+00:13:57,731 --> 00:14:00,434
+le pilote, c'était le premier, alors...
+
+249
+00:14:00,534 --> 00:14:03,281
+L'Autre Dave, par là où vous
+êtes venus, cela a-t-il changé ?
+
+250
+00:14:03,381 --> 00:14:05,171
+Oui. Oh, c'est un peu plus sombre.
+
+251
+00:14:05,271 --> 00:14:06,097
+À quel point ?
+
+252
+00:14:06,197 --> 00:14:09,007
+Je voyais le passage, il y a
+un moment. Plus maintenant.
+
+253
+00:14:09,107 --> 00:14:10,997
+Condamnez la porte.
+Trouvez une autre sortie.
+
+254
+00:14:11,097 --> 00:14:14,463
+On ne cherche pas à sortir.
+Mlle Evangelista ?
+
+255
+00:14:14,563 --> 00:14:18,004
+Je suis l'assistante personnelle
+... à tout faire de M. Lux.
+
+256
+00:14:18,298 --> 00:14:20,994
+Vous devez signer ces contrats
+disant que vos expériences
+
+257
+00:14:21,094 --> 00:14:22,521
+dans la Bibliothèque sont...
+
+258
+00:14:22,621 --> 00:14:25,960
+la propriété intellectuelle
+de la Corporation Felman Lux.
+
+259
+00:14:26,060 --> 00:14:28,547
+- Bien, donnez-moi ça.
+- Oui, très bien. Merci.
+
+260
+00:14:31,807 --> 00:14:34,288
+Ma famille a construit cette
+bibliothèque. J'ai des droits.
+
+261
+00:14:34,388 --> 00:14:37,636
+Vous n'arrêtez jamais de parler.
+Tu nous penses en danger ?
+
+262
+00:14:37,736 --> 00:14:40,282
+Quelque chose est venu ici et
+a tué tout ce qui s'y trouvait.
+
+263
+00:14:40,382 --> 00:14:41,786
+Un monde entier.
+
+264
+00:14:41,886 --> 00:14:43,986
+- En danger ? Peut-être.
+- C'était il y a 100 ans.
+
+265
+00:14:44,086 --> 00:14:47,656
+La Bibliothèque est silencieuse
+depuis. Toute menace doit être écartée.
+
+266
+00:14:47,993 --> 00:14:48,926
+Vous pariez votre vie ?
+
+267
+00:14:50,140 --> 00:14:50,973
+Toujours.
+
+268
+00:14:52,255 --> 00:14:53,522
+<i>Qu'est-ce que tu fais ?</i>
+
+269
+00:14:54,704 --> 00:14:57,533
+- Il a dit de condamner cette porte.
+- Torche ! Tu lui obéis ?
+
+270
+00:14:57,633 --> 00:14:58,792
+Ça fait peur, non ?
+
+271
+00:15:08,017 --> 00:15:09,973
+Presque toutes les espèces de l'univers
+
+272
+00:15:10,405 --> 00:15:12,466
+<i>ont une peur irrationnelle du noir.</i>
+
+273
+00:15:12,566 --> 00:15:15,589
+<i>Mais ils ont tort.
+Ça n'est pas irrationnel.</i>
+
+274
+00:15:17,996 --> 00:15:19,767
+Ce sont les Vashta Nerada.
+
+275
+00:15:20,480 --> 00:15:22,146
+<i>Qu'est-ce que c'est ?</i>
+
+276
+00:15:22,476 --> 00:15:24,021
+Ce qui est dans le noir.
+
+277
+00:15:25,404 --> 00:15:27,074
+Ce qui est toujours dans le noir.
+
+278
+00:15:29,006 --> 00:15:31,681
+- De la lumière ! Vous avez des lampes ?
+- Pourquoi ?
+
+279
+00:15:31,781 --> 00:15:35,460
+Formez un cercle de sécurité, en
+pointant vos torches vers l'extérieur.
+
+280
+00:15:35,560 --> 00:15:38,163
+- Écoutez-le.
+- Vous n'écoutez pas cet homme ?
+
+281
+00:15:38,263 --> 00:15:40,384
+Apparemment, si.
+Anita, sortez les torches.
+
+282
+00:15:40,484 --> 00:15:43,066
+L'Autre Dave, sécurisez la porte
+et aidez Anita.
+
+283
+00:15:43,166 --> 00:15:45,739
+M. Lux, remettez votre casque,
+et bloquez la visière.
+
+284
+00:15:46,059 --> 00:15:48,733
+Vrai Dave, infiltrez la base de
+données de la Bibliothèque.
+
+285
+00:15:48,833 --> 00:15:51,371
+Voyez ce qu'il y a sur les
+événements d'il y a 100 ans.
+
+286
+00:15:51,471 --> 00:15:53,746
+Mon mignon, viens avec moi.
+
+287
+00:15:54,355 --> 00:15:55,546
+Entrez dans mon bureau.
+
+288
+00:15:55,646 --> 00:15:58,722
+Professeur Song, pourquoi suis-je
+le seul à porter un casque ?
+
+289
+00:15:59,373 --> 00:16:00,699
+Vous ne me plaisez pas.
+
+290
+00:16:02,157 --> 00:16:03,677
+Je peux sûrement vous aider.
+
+291
+00:16:04,409 --> 00:16:06,286
+Mon mignon, j'ai dit avec moi.
+
+292
+00:16:10,062 --> 00:16:12,052
+- Oh, je suis le mignon ?
+- Oui.
+
+293
+00:16:12,321 --> 00:16:13,853
+Oh, j'ai dit ça un peu vite !
+
+294
+00:16:14,410 --> 00:16:15,418
+Mignon ?
+
+295
+00:16:18,265 --> 00:16:21,227
+Ne laissez pas vos ombres se croiser !
+Qu'elles ne se touchent même pas !
+
+296
+00:16:21,327 --> 00:16:24,475
+- Elles pourraient être infectées.
+- Comment ça, infectées ?
+
+297
+00:16:24,575 --> 00:16:25,964
+Excusez-moi, je peux aider ?
+
+298
+00:16:26,571 --> 00:16:28,463
+- Non, ça va.
+- Je pourrais...
+
+299
+00:16:28,563 --> 00:16:29,844
+Porter des choses, par exemple.
+
+300
+00:16:29,944 --> 00:16:31,413
+Non, vraiment, c'est bon.
+
+301
+00:16:32,129 --> 00:16:32,755
+D'accord.
+
+302
+00:16:39,645 --> 00:16:40,834
+Elle ne pourrait pas aider ?
+
+303
+00:16:40,934 --> 00:16:43,959
+Croyez-moi, je viens de passer 4 jours
+avec elle, elle est...
+
+304
+00:16:44,059 --> 00:16:46,878
+Elle a confondu la salle de bain
+avec la navette de secours.
+
+305
+00:16:46,978 --> 00:16:48,426
+<i>On a dû faire demi-tour pour elle.</i>
+
+306
+00:16:49,495 --> 00:16:50,202
+Deux fois.
+
+307
+00:17:02,808 --> 00:17:04,610
+- Merci.
+- Pour quoi ?
+
+308
+00:17:04,710 --> 00:17:06,636
+Comme d'habitude,
+venir quand je t'appelle.
+
+309
+00:17:06,843 --> 00:17:07,951
+C'était vous ?
+
+310
+00:17:08,051 --> 00:17:10,103
+On dirait vraiment que
+tu ne me connais pas.
+
+311
+00:17:10,203 --> 00:17:11,652
+Je suppose qu'il y a une raison.
+
+312
+00:17:11,811 --> 00:17:15,099
+- Une très bonne, en fait.
+- OK. Bon, on regarde notre agenda?
+
+313
+00:17:15,199 --> 00:17:16,638
+Où en sommes-nous cette fois ?
+
+314
+00:17:17,206 --> 00:17:20,436
+D'après ton visage, c'est
+encore le tout début pour toi.
+
+315
+00:17:20,536 --> 00:17:21,693
+Alors...
+
+316
+00:17:22,451 --> 00:17:24,599
+Le crash du Byzantium...
+On a déjà fait ça ?
+
+317
+00:17:26,731 --> 00:17:29,566
+Apparemment, ça ne te dit rien.
+
+318
+00:17:30,610 --> 00:17:34,471
+Bien, le pique-nique à Asgard.
+
+319
+00:17:35,109 --> 00:17:36,703
+On a déjà fait Asgard ?
+
+320
+00:17:39,118 --> 00:17:40,626
+Apparemment pas.
+
+321
+00:17:41,358 --> 00:17:43,173
+Bon sang, vraiment le tout début !
+
+322
+00:17:43,273 --> 00:17:46,855
+Vivre avec un voyageur dans le temps,
+je pensais pas que ça serait si dur.
+
+323
+00:17:52,240 --> 00:17:53,285
+Regarde-toi !
+
+324
+00:17:55,925 --> 00:17:58,533
+- tu êtes jeune.
+- Vraiment pas, non.
+
+325
+00:17:58,947 --> 00:18:00,373
+Mais si.
+
+326
+00:18:02,050 --> 00:18:02,939
+Tes yeux.
+
+327
+00:18:04,804 --> 00:18:06,837
+<i>Tu es plus jeune que jamais.</i>
+
+328
+00:18:08,977 --> 00:18:10,848
+Vous m'avez donc déjà vu ?
+
+329
+00:18:13,976 --> 00:18:14,996
+Docteur...
+
+330
+00:18:16,579 --> 00:18:18,769
+Je t'en prie, dis-moi
+que tu me connais.
+
+331
+00:18:20,677 --> 00:18:21,609
+Qui êtes-vous ?
+
+332
+00:18:31,130 --> 00:18:34,271
+<i>Désolé, c'est moi. J'ai voulu
+passer les protocoles de sécurité.</i>
+
+333
+00:18:34,371 --> 00:18:35,736
+<I>J'ai dû déclencher quelque chose.
+
+334
+00:18:35,836 --> 00:18:39,213
+- C'est quoi ? Une alarme ?
+- Docteur.
+
+335
+00:18:39,704 --> 00:18:41,518
+- Docteur, on dirait un...
+- C'en est un.
+
+336
+00:18:41,887 --> 00:18:42,819
+Un téléphone !
+
+337
+00:19:00,542 --> 00:19:01,402
+Papa !
+
+338
+00:19:01,502 --> 00:19:02,672
+<i>Une minute.</i>
+
+339
+00:19:09,834 --> 00:19:13,143
+J'essaye d'accéder à la base de
+données, mais je n'obtiens que ce bruit.
+
+340
+00:19:13,243 --> 00:19:15,799
+- Mais c'est un téléphone !
+- Je vais essayer quelque chose.
+
+341
+00:19:19,994 --> 00:19:22,991
+Papa !
+Tu ne réponds pas au téléphone ?
+
+342
+00:19:24,067 --> 00:19:25,337
+Il ne sonne pas, ma chérie.
+
+343
+00:19:38,445 --> 00:19:40,872
+D'accord, ça ne marche pas,
+essayons autre chose.
+
+344
+00:19:52,723 --> 00:19:54,133
+D'accord, voilà.
+
+345
+00:19:58,054 --> 00:19:58,792
+Bonjour.
+
+346
+00:19:59,055 --> 00:20:01,674
+Bonjour.
+Vous êtes dans ma télévision ?
+
+347
+00:20:02,606 --> 00:20:05,328
+Eh bien, non, je...
+
+348
+00:20:05,985 --> 00:20:08,550
+Je suis dans l'espace.
+J'essayais de joindre
+
+349
+00:20:08,650 --> 00:20:11,417
+le centre de données d'un processeur
+de sécurité à trois niveaux.
+
+350
+00:20:11,899 --> 00:20:13,563
+Vous voulez parler à mon père ?
+
+351
+00:20:14,983 --> 00:20:16,779
+Ton père ou ta mère,
+ça serait très bien.
+
+352
+00:20:19,112 --> 00:20:22,053
+Je vous connais ! Vous étiez
+dans ma bibliothèque !
+
+353
+00:20:22,309 --> 00:20:23,194
+Ta bibliothèque ?
+
+354
+00:20:23,757 --> 00:20:25,906
+Elle n'est jamais encore
+apparue dans la télévision.
+
+355
+00:20:26,006 --> 00:20:27,339
+Qu'avez-vous fait ?
+
+356
+00:20:28,234 --> 00:20:32,375
+J'ai juste... redirigé l'interface.
+
+357
+00:20:34,484 --> 00:20:36,511
+Que s'est-il passé, qui était-ce ?
+
+358
+00:20:48,607 --> 00:20:50,697
+Occupez-vous des lampes,
+on en a besoin !
+
+359
+00:20:50,797 --> 00:20:52,705
+Vous avez entendu,
+que la lumière soit !
+
+360
+00:21:08,734 --> 00:21:12,163
+Désolée. Tu ne peux pas lire
+le livre, c'est contraire aux règles.
+
+361
+00:21:12,357 --> 00:21:13,640
+Quelles règles ?
+
+362
+00:21:14,453 --> 00:21:15,482
+Tes règles.
+
+363
+00:21:43,820 --> 00:21:44,909
+Qu'est-ce que c'est ?
+
+364
+00:21:47,339 --> 00:21:49,636
+- Ça n'est pas moi ! C'est vous ?
+- C'est pas moi.
+
+365
+00:21:53,353 --> 00:21:54,613
+C'est quoi, CAL?
+
+366
+00:22:14,490 --> 00:22:15,522
+Ça va ?
+
+367
+00:22:15,847 --> 00:22:18,174
+Qu'est-ce que c'est ?
+Que se passe-t-il ?
+
+368
+00:22:18,412 --> 00:22:19,413
+<i>Je ne sais pas.</i>
+
+369
+00:22:20,277 --> 00:22:23,999
+Merci d'avoir proposé de l'aide
+pour les lampes.
+
+370
+00:22:25,288 --> 00:22:26,865
+Ils ne veulent pas de moi.
+
+371
+00:22:27,259 --> 00:22:29,434
+Ils pensent que je suis bête
+car je suis jolie.
+
+372
+00:22:29,534 --> 00:22:32,378
+Mais non, personne ne pense ça.
+
+373
+00:22:32,478 --> 00:22:33,807
+Non, ils ont raison.
+
+374
+00:22:34,032 --> 00:22:35,573
+Je suis une imbécile.
+
+375
+00:22:35,990 --> 00:22:38,080
+Mon père m'a dit que j'avais
+le QI d'une huître.
+
+376
+00:22:38,180 --> 00:22:39,514
+Et ça m'a fait plaisir.
+
+377
+00:22:40,340 --> 00:22:42,092
+Vous voyez, c'était drôle !
+
+378
+00:22:44,363 --> 00:22:46,440
+Non, j'étais vraiment contente.
+
+379
+00:22:47,954 --> 00:22:50,024
+- C'est drôle ?
+- Non, non.
+
+380
+00:22:53,590 --> 00:22:54,893
+D'où ça vient ?
+
+381
+00:22:55,153 --> 00:22:56,558
+C'est la petite fille ?
+
+382
+00:22:56,658 --> 00:22:58,283
+<i>Mais qui est la petite fille ?</i>
+
+383
+00:22:58,383 --> 00:23:00,091
+Qu'a-t-elle à voir avec cet endroit ?
+
+384
+00:23:04,927 --> 00:23:08,085
+Comment marche le centre de données ?
+Qu'est-ce que c'est, CAL ?
+
+385
+00:23:08,185 --> 00:23:09,349
+Demande à M. Lux.
+
+386
+00:23:10,452 --> 00:23:11,572
+CAL, qu'est-ce que c'est ?
+
+387
+00:23:11,801 --> 00:23:15,373
+Désolé, vous n'avez pas signé
+vos contrats.
+
+388
+00:23:16,492 --> 00:23:19,063
+M. Lux, en ce moment,
+
+389
+00:23:19,163 --> 00:23:22,148
+vous êtes plus en danger que
+vous ne l'avez jamais été.
+
+390
+00:23:22,317 --> 00:23:23,893
+Et vous protégez un brevet ?
+
+391
+00:23:23,993 --> 00:23:26,679
+Je protège l'honneur de ma famille.
+
+392
+00:23:26,942 --> 00:23:31,653
+Bizarrement, M. Lux, je ne tiens
+pas à voir tout le monde mourir
+
+393
+00:23:31,814 --> 00:23:35,061
+car un idiot pense que son
+honneur est plus important.
+
+394
+00:23:37,288 --> 00:23:39,243
+Alors pourquoi ne pas
+signer son contrat ?
+
+395
+00:23:42,668 --> 00:23:45,028
+Je ne l'ai pas fait non plus.
+Je deviens pire que toi.
+
+396
+00:23:47,024 --> 00:23:48,194
+D'accord.
+
+397
+00:23:48,294 --> 00:23:50,553
+Récapitulons.
+Que s'est-il passé ici ?
+
+398
+00:23:51,018 --> 00:23:53,898
+Ce jour là, il y a 100 ans,
+que s'est-il passé concrètement ?
+
+399
+00:23:57,702 --> 00:24:00,457
+<i>On a reçu un message de la
+Bibliothèque. Un seul.</i>
+
+400
+00:24:01,339 --> 00:24:02,722
+"Les lampes s'éteignent."
+
+401
+00:24:02,822 --> 00:24:07,013
+Puis l'ordinateur a scellé la planète
+et rien n'est arrivé pendant 100 ans.
+
+402
+00:24:07,428 --> 00:24:11,853
+Il a fallu 3 générations à ma famille
+pour décoder la quarantaine.
+
+403
+00:24:12,293 --> 00:24:13,138
+Excusez-moi...
+
+404
+00:24:13,238 --> 00:24:14,495
+<i>Pas maintenant.</i>
+
+405
+00:24:16,304 --> 00:24:19,025
+Ils disaient autre chose
+dans le dernier message.
+
+406
+00:24:19,125 --> 00:24:20,397
+C'est confidentiel.
+
+407
+00:24:20,497 --> 00:24:21,567
+J'ai confiance en lui.
+
+408
+00:24:21,667 --> 00:24:23,701
+Je lui confierais ma vie, tout.
+
+409
+00:24:23,801 --> 00:24:27,060
+- Vous venez juste de le rencontrer !
+- Non, il vient juste de me rencontrer.
+
+410
+00:24:29,598 --> 00:24:31,782
+Ça pourrait être important !
+
+411
+00:24:31,988 --> 00:24:33,371
+Une minute !
+
+412
+00:24:35,805 --> 00:24:38,208
+Voilà un extrait de données
+envoyé avec le message.
+
+413
+00:24:38,988 --> 00:24:41,972
+4022 sauvés.
+Aucun survivant.
+
+414
+00:24:44,271 --> 00:24:47,039
+4022, le nombre exact de personnes
+qui étaient dans la Bibliothèque
+
+415
+00:24:47,139 --> 00:24:48,660
+lors de la quarantaine.
+
+416
+00:24:49,488 --> 00:24:52,687
+Comment 4022 personnes ont pu
+être sauvées sans aucun survivant ?
+
+417
+00:24:53,538 --> 00:24:55,246
+C'est ce qu'on est venu découvrir.
+
+418
+00:24:55,346 --> 00:24:58,875
+Et jusque là, on a trouvé aucun corps.
+
+419
+00:26:17,850 --> 00:26:19,733
+Soyez tous prudents.
+Restez à la lumière.
+
+420
+00:26:19,833 --> 00:26:21,348
+Vous persistez,
+je ne comprends pas.
+
+421
+00:26:21,448 --> 00:26:23,068
+- Qui a crié ?
+- Mlle Evangelista.
+
+422
+00:26:23,168 --> 00:26:24,350
+Où est-elle ?
+
+423
+00:26:25,820 --> 00:26:28,282
+Mlle Evangelista,
+veuillez indiquer votre...
+
+424
+00:26:33,719 --> 00:26:35,270
+Veuillez indiquer votre...
+
+425
+00:26:37,646 --> 00:26:38,840
+position.
+
+426
+00:26:49,796 --> 00:26:50,666
+C'est elle.
+
+427
+00:26:55,127 --> 00:26:56,628
+C'est Mlle Evangelista.
+
+428
+00:26:56,728 --> 00:26:58,828
+<i>Elle a crié il y a quelques secondes.</i>
+
+429
+00:26:58,928 --> 00:27:01,036
+Qu'est-ce qui peut faire ça
+en quelques secondes ?
+
+430
+00:27:01,205 --> 00:27:03,478
+- Ça leur a pris moins que ça.
+- Mais quoi ?
+
+431
+00:27:03,578 --> 00:27:04,395
+<i>Bonjour ?</i>
+
+432
+00:27:04,783 --> 00:27:09,574
+Désolé tout le monde,
+ça ne va pas être facile.
+
+433
+00:27:10,818 --> 00:27:11,949
+Elle devient fantôme.
+
+434
+00:27:12,258 --> 00:27:13,313
+Quoi ?
+
+435
+00:27:14,058 --> 00:27:16,363
+<i>Bonjour ? Excusez-moi.</i>
+
+436
+00:27:17,338 --> 00:27:19,816
+<i>Désolée, bonjour ? Excusez-moi.</i>
+
+437
+00:27:20,536 --> 00:27:23,608
+C'est... C'est elle.
+C'est Mlle Evangelista !
+
+438
+00:27:23,828 --> 00:27:26,648
+Sans vouloir paraître impoli,
+on ne pourrait pas... Vous savez ?
+
+439
+00:27:26,748 --> 00:27:28,948
+Ce sont ses derniers instants...
+Non, on ne peut pas.
+
+440
+00:27:29,048 --> 00:27:30,708
+Un peu de respect, merci.
+
+441
+00:27:30,956 --> 00:27:33,978
+<i>Pardon, où suis-je ? Excusez-moi ?</i>
+
+442
+00:27:34,078 --> 00:27:36,078
+Mais c'est Mlle Evangelista !
+
+443
+00:27:36,178 --> 00:27:39,373
+C'est un Fantôme de Données,
+elle sera partie dans un instant.
+
+444
+00:27:40,568 --> 00:27:43,996
+Mlle Evangelista,
+tout va bien, calmez-vous.
+
+445
+00:27:44,268 --> 00:27:45,738
+Nous serons bientôt avec vous.
+
+446
+00:27:46,307 --> 00:27:47,993
+Qu'est-ce qu'un Fantôme de Données ?
+
+447
+00:27:48,269 --> 00:27:50,155
+Il y a un relais nerveux
+dans leurs appareils.
+
+448
+00:27:50,255 --> 00:27:51,958
+Ça permet de communiquer par la pensée.
+
+449
+00:27:52,058 --> 00:27:54,203
+<i>C'est ça, les lumières vertes.</i>
+
+450
+00:27:55,366 --> 00:27:58,235
+<i>Ça peut parfois donner
+l'impression d'une conscience</i>
+
+451
+00:27:58,335 --> 00:28:00,066
+<i>un court moment après la mort.</i>
+
+452
+00:28:00,992 --> 00:28:02,175
+Comme un résidu visuel.
+
+453
+00:28:03,733 --> 00:28:05,607
+Mon grand-père a duré toute une journée.
+
+454
+00:28:06,907 --> 00:28:08,959
+Il n'arrêtait pas de parler
+de ses lacets.
+
+455
+00:28:11,348 --> 00:28:12,581
+Elle est là-dedans !
+
+456
+00:28:12,857 --> 00:28:16,146
+<i>Je ne vois rien... Où suis-je ?</i>
+
+457
+00:28:16,246 --> 00:28:19,380
+Elle n'est plus que des ondes
+psychiques. Ça ne durera pas longtemps.
+
+458
+00:28:21,228 --> 00:28:24,009
+Elle est consciente ! Elle pense.
+
+459
+00:28:24,109 --> 00:28:25,678
+<i>Je ne vois rien...</i>
+
+460
+00:28:26,485 --> 00:28:27,840
+<i>Je ne sais pas à quoi je pense.</i>
+
+461
+00:28:27,940 --> 00:28:30,065
+Elle est comme une empreinte
+dans le sable.
+
+462
+00:28:30,608 --> 00:28:32,017
+Et la marée arrive.
+
+463
+00:28:32,430 --> 00:28:33,821
+<i>Où est cette femme ?</i>
+
+464
+00:28:34,568 --> 00:28:36,336
+<i>Celle qui était gentille, elle est là ?</i>
+
+465
+00:28:37,888 --> 00:28:38,870
+Quelle femme ?
+
+466
+00:28:40,478 --> 00:28:45,248
+Je crois... qu'elle parle de moi.
+
+467
+00:28:45,348 --> 00:28:47,772
+<i>Elle est là ?
+Celle qui était gentille ?</i>
+
+468
+00:28:49,006 --> 00:28:51,560
+Oui, elle est là.
+
+469
+00:28:53,875 --> 00:28:55,464
+Allez-y. Elle vous entend.
+
+470
+00:28:55,564 --> 00:28:56,849
+<i>Bonjour ? Vous êtes là ?</i>
+
+471
+00:28:58,408 --> 00:28:59,189
+Aide-la.
+
+472
+00:29:00,228 --> 00:29:02,739
+- Elle est morte.
+- Oui, aide-la.
+
+473
+00:29:03,928 --> 00:29:07,206
+<i>Bonjour ? Vous êtes
+la gentille femme ?</i>
+
+474
+00:29:07,748 --> 00:29:11,684
+Oui, bonjour. Je... Je suis là.
+
+475
+00:29:12,518 --> 00:29:13,452
+Vous allez bien ?
+
+476
+00:29:14,575 --> 00:29:17,693
+<i>Ce que j'ai dit tout à l'heure...
+sur ma bêtise.</i>
+
+477
+00:29:18,218 --> 00:29:20,418
+<i>Ne le dites pas aux autres,
+ils se moqueraient de moi.</i>
+
+478
+00:29:20,518 --> 00:29:23,118
+Bien sûr, je ne leur dirai rien.
+
+479
+00:29:23,218 --> 00:29:25,493
+<i>Ne le dites pas aux autres,
+ils se moqueraient de moi.</i>
+
+480
+00:29:26,326 --> 00:29:29,522
+Je ne leur dirai pas.
+Je viens de vous le dire.
+
+481
+00:29:29,908 --> 00:29:32,187
+<i>Ne le dites pas aux autres,
+ils se moqueraient de moi.</i>
+
+482
+00:29:33,907 --> 00:29:35,421
+Je ne leur dirai pas.
+
+483
+00:29:35,521 --> 00:29:36,554
+<i>Ne le dites pas...</i>
+
+484
+00:29:36,654 --> 00:29:38,844
+Elle part en boucle.
+La structure se dégrade.
+
+485
+00:29:38,944 --> 00:29:42,893
+<i>Je ne peux plus penser,
+Je... ne sais pas, G...</i>
+
+486
+00:29:44,193 --> 00:29:44,866
+<i>G...</i>
+
+487
+00:29:45,807 --> 00:29:46,480
+<i>G...</i>
+
+488
+00:29:47,490 --> 00:29:48,293
+<i>Glace.</i>
+
+489
+00:29:49,338 --> 00:29:50,313
+<i>Glace.</i>
+
+490
+00:29:51,108 --> 00:29:52,103
+<i>Glace.</i>
+
+491
+00:29:52,847 --> 00:29:53,842
+<i>Glace.</i>
+
+492
+00:29:54,499 --> 00:29:55,298
+<i>Glace.</i>
+
+493
+00:29:55,398 --> 00:29:57,380
+- Ça dérange quelqu'un si je...
+-  Glace.
+
+494
+00:29:58,156 --> 00:29:59,207
+<i> Glace.</i>
+
+495
+00:29:59,883 --> 00:30:00,771
+<i> Glace.</i>
+
+496
+00:30:01,703 --> 00:30:02,813
+<i> Glace.</i>
+
+497
+00:30:06,430 --> 00:30:07,168
+<i>C'était...</i>
+
+498
+00:30:08,438 --> 00:30:09,614
+<i>C'était affreux.</i>
+
+499
+00:30:09,714 --> 00:30:12,092
+C'était la chose la plus affreuse
+que je n'ai jamais vue.
+
+500
+00:30:13,575 --> 00:30:14,333
+Non.
+
+501
+00:30:15,579 --> 00:30:17,388
+C'est juste un phénomène technologique.
+
+502
+00:30:19,228 --> 00:30:23,360
+Mais peu importe qui a fait ça,
+peu importe ce qui l'a tuée...
+
+503
+00:30:24,168 --> 00:30:25,718
+J'ai deux mots à lui dire.
+
+504
+00:30:25,818 --> 00:30:26,977
+Je vous présenterai.
+
+505
+00:30:36,839 --> 00:30:39,122
+- J'ai besoin d'une ration repas.
+- Attends.
+
+506
+00:30:41,850 --> 00:30:44,246
+- Qu'y a-t-il dans ce livre?
+- Des spoilers.
+
+507
+00:30:44,847 --> 00:30:45,700
+Qui êtes-vous ?
+
+508
+00:30:46,820 --> 00:30:49,088
+- Prof. River Song, Université de...
+- Pour moi.
+
+509
+00:30:49,273 --> 00:30:52,801
+- Qui êtes-vous pour moi ?
+- Encore... des spoilers.
+
+510
+00:30:54,108 --> 00:30:57,049
+Poulet et un peu de salade.
+Fais-toi plaisir.
+
+511
+00:31:00,390 --> 00:31:04,319
+Très bien, vous tous.
+Rencontrons les Vashta Nerada !
+
+512
+00:31:09,612 --> 00:31:11,228
+Chérie, le docteur Moon va partir.
+
+513
+00:31:11,328 --> 00:31:13,878
+Mais il voudrait te parler seule,
+tu veux bien ?
+
+514
+00:31:13,978 --> 00:31:16,765
+- Oui, bien sûr, docteur Moon.
+- Merci.
+
+515
+00:31:20,928 --> 00:31:21,669
+Alors,
+
+516
+00:31:22,777 --> 00:31:23,615
+écoute.
+
+517
+00:31:25,930 --> 00:31:27,094
+C'est important.
+
+518
+00:31:28,051 --> 00:31:32,225
+Il y a le monde réel,
+et le monde des cauchemars.
+
+519
+00:31:32,325 --> 00:31:34,148
+C'est ça, n'est-ce pas ?
+Tu comprends ?
+
+520
+00:31:34,248 --> 00:31:35,873
+Oui, je sais, docteur Moon.
+
+521
+00:31:37,358 --> 00:31:39,573
+Je veux que tu te souviennes de ça...
+
+522
+00:31:39,673 --> 00:31:40,892
+<i>et je sais que c'est dur.</i>
+
+523
+00:31:42,121 --> 00:31:47,333
+Le monde réel est un mensonge,
+et tes cauchemars sont réels.
+
+524
+00:31:47,996 --> 00:31:49,488
+La Bibliothèque est réelle.
+
+525
+00:31:49,588 --> 00:31:53,638
+Il y a des gens piégés à l'intérieur,
+ils doivent être sauvés.
+
+526
+00:31:54,721 --> 00:31:56,447
+Les ombres se déplacent à nouveau.
+
+527
+00:31:57,198 --> 00:32:00,133
+<i>Ces gens dépendent de toi.</i>
+
+528
+00:32:00,760 --> 00:32:02,373
+Tu es la seule à pouvoir les sauver.
+
+529
+00:32:03,688 --> 00:32:04,614
+<i>Toi seule.</i>
+
+530
+00:32:13,055 --> 00:32:14,893
+Vous voyagez avec lui ?
+
+531
+00:32:15,946 --> 00:32:17,812
+Le Docteur, vous voyagez avec lui.
+
+532
+00:32:18,469 --> 00:32:19,407
+Et alors ?
+
+533
+00:32:20,083 --> 00:32:21,647
+<i>Vrai Dave,
+Déplacez-vous un peu.</i>
+
+534
+00:32:21,747 --> 00:32:22,354
+Pourquoi ?
+
+535
+00:32:22,454 --> 00:32:24,494
+Allez par là-bas, merci.
+
+536
+00:32:28,006 --> 00:32:29,352
+Vous le connaissez, hein ?
+
+537
+00:32:29,452 --> 00:32:31,382
+Oh, un peu que je connais cet homme.
+
+538
+00:32:32,705 --> 00:32:34,726
+<i>Ça remonte à loin,
+cet homme et moi.</i>
+
+539
+00:32:35,536 --> 00:32:37,006
+<i>Mais pas aussi loin.</i>
+
+540
+00:32:37,219 --> 00:32:38,373
+<i>Pardon, quoi ?</i>
+
+541
+00:32:39,368 --> 00:32:40,795
+Il ne m'a pas encore rencontrée.
+
+542
+00:32:43,329 --> 00:32:46,551
+Je lui ai envoyé un message,
+mais il est arrivé trop tôt.
+
+543
+00:32:47,484 --> 00:32:49,855
+C'est le Docteur avant
+qu'il ne me connaisse.
+
+544
+00:32:52,658 --> 00:32:56,458
+Et il me regarde,
+il regarde à travers moi.
+
+545
+00:32:56,558 --> 00:32:58,750
+Et ça ne devrait pas m'affecter,
+mais c'est le cas.
+
+546
+00:32:59,182 --> 00:33:02,016
+De quoi parlez-vous ?
+Vous dites n'importe quoi ?
+
+547
+00:33:02,116 --> 00:33:03,878
+Vous le connaissez, oui ou non ?
+
+548
+00:33:03,978 --> 00:33:07,230
+- Donna, silence, je travaille !
+- Désolée !
+
+549
+00:33:07,468 --> 00:33:10,051
+Donna ? Vous êtes Donna ?
+Donna Noble ?
+
+550
+00:33:10,151 --> 00:33:12,066
+Oui, pourquoi ?
+
+551
+00:33:13,661 --> 00:33:15,473
+Je connais le Docteur.
+
+552
+00:33:16,228 --> 00:33:17,519
+Mais dans le futur.
+
+553
+00:33:18,108 --> 00:33:19,765
+Son propre futur.
+
+554
+00:33:20,560 --> 00:33:22,496
+Alors pourquoi vous
+ne me connaissez pas ?
+
+555
+00:33:22,978 --> 00:33:24,270
+Où suis-je dans le futur ?
+
+556
+00:33:26,982 --> 00:33:29,022
+<i>On en a une vivante !</i>
+
+557
+00:33:30,874 --> 00:33:34,571
+Ce n'est pas l'obscurité dans ces
+tunnels et ceci n'est pas une ombre.
+
+558
+00:33:35,353 --> 00:33:36,533
+C'est un essaim.
+
+559
+00:33:37,296 --> 00:33:38,748
+Un essaim mangeur d'hommes.
+
+560
+00:33:42,514 --> 00:33:45,714
+Les piranhas des airs,
+les Vashta Nerada.
+
+561
+00:33:46,427 --> 00:33:48,830
+Littéralement, "les ombres
+qui dissolvent la chair".
+
+562
+00:33:49,499 --> 00:33:52,493
+La plupart des planètes en ont,
+mais en principe en petits groupes.
+
+563
+00:33:52,677 --> 00:33:55,938
+Je n'ai jamais vu d'infestation de
+cette ampleur ou aussi agressive.
+
+564
+00:33:56,038 --> 00:33:57,923
+Comment ça, la plupart ?
+Pas la Terre ?
+
+565
+00:33:58,023 --> 00:34:01,001
+Hum, la Terre,
+et 1 million d'autres mondes.
+
+566
+00:34:01,176 --> 00:34:03,235
+Où il y a de la viande,
+il y a des Vashta Nerada.
+
+567
+00:34:03,335 --> 00:34:05,263
+<i>On peut les voir parfois,
+en observant bien.</i>
+
+568
+00:34:06,081 --> 00:34:07,989
+Comme la poussière
+dans les rayons de soleil.
+
+569
+00:34:09,341 --> 00:34:11,725
+S'ils étaient sur Terre, on le saurait.
+
+570
+00:34:11,825 --> 00:34:14,123
+Nan, normalement ils se
+nourrissent de cadavres.
+
+571
+00:34:14,836 --> 00:34:16,656
+<i>Mais parfois des
+personnes disparaissent.</i>
+
+572
+00:34:17,978 --> 00:34:20,260
+Tout le monde ne revient
+pas de l'obscurité.
+
+573
+00:34:20,611 --> 00:34:21,668
+Toutes les ombres ?
+
+574
+00:34:21,849 --> 00:34:24,712
+Non. Mais n'importe quelle ombre.
+
+575
+00:34:25,225 --> 00:34:26,489
+Alors, que fait-on ?
+
+576
+00:34:26,921 --> 00:34:28,616
+Pour les Daleks : viser l'œil.
+
+577
+00:34:28,716 --> 00:34:30,612
+Les Sontariens : la nuque.
+
+578
+00:34:31,038 --> 00:34:35,888
+Les Vashta Nerada : Courir !
+Juste courir.
+
+579
+00:34:36,058 --> 00:34:37,152
+Courir où ?
+
+580
+00:34:37,528 --> 00:34:39,848
+Ceci est un index.
+Il doit y avoir un téléporteur.
+
+581
+00:34:39,948 --> 00:34:42,208
+Ne me regardez pas,
+je n'ai pas mémorisé les plans.
+
+582
+00:34:42,308 --> 00:34:43,239
+Docteur !
+
+583
+00:34:43,339 --> 00:34:45,971
+La boutique ! C'est un passage obligé
+à la sortie
+
+584
+00:34:46,071 --> 00:34:47,951
+pour vous faire acheter
+quelque chose.
+
+585
+00:34:48,712 --> 00:34:51,127
+Tu as raison ! Génial !
+Pour ça que j'aime les boutiques !
+
+586
+00:34:51,227 --> 00:34:52,065
+D'accord, on bouge.
+
+587
+00:34:52,165 --> 00:34:55,088
+<i>En fait, Vrai Dave,
+pouvez-vous rester où vous êtes ?</i>
+
+588
+00:34:55,262 --> 00:34:55,988
+Pourquoi ?
+
+589
+00:34:57,690 --> 00:35:00,709
+Je suis désolé. Vraiment désolé.
+
+590
+00:35:03,524 --> 00:35:05,084
+Mais vous avez deux ombres.
+
+591
+00:35:11,653 --> 00:35:16,186
+<i>Elles chassent, s'accrochant à la
+nourriture pour la garder fraîche. </i>
+
+592
+00:35:18,108 --> 00:35:20,034
+- Que dois-je faire ?
+- Restez immobile.
+
+593
+00:35:20,134 --> 00:35:22,573
+Comme s'il y avait une guêpe,
+1 million de guêpes.
+
+594
+00:35:22,673 --> 00:35:24,614
+- On ne va pas te laisser, Dave.
+- Bien sûr.
+
+595
+00:35:24,714 --> 00:35:26,782
+Où est votre casque ?
+Ne montrez pas, dites-moi.
+
+596
+00:35:27,308 --> 00:35:29,046
+Sur le sol, à côté de mon sac.
+
+597
+00:35:29,553 --> 00:35:31,163
+Ne croisez pas son ombre !
+
+598
+00:35:37,973 --> 00:35:38,542
+Merci.
+
+599
+00:35:39,080 --> 00:35:42,918
+Les autres, vos casques
+sur la tête et fermez-les.
+
+600
+00:35:43,018 --> 00:35:45,650
+- On aura besoin de tout ce qu'on a.
+- On n'a pas de casques.
+
+601
+00:35:45,750 --> 00:35:48,079
+- On est quand même en sécurité.
+- Comment ça ?
+
+602
+00:35:48,179 --> 00:35:49,793
+Un petit mensonge pour que tu te taises.
+
+603
+00:35:49,893 --> 00:35:51,852
+Professeur, que fait-on
+avec les combinaisons ?
+
+604
+00:35:51,952 --> 00:35:55,493
+À quoi bon ? Miss Evangelista
+en avait une et il ne reste rien.
+
+605
+00:35:55,593 --> 00:35:59,061
+On peut augmenter la masse de 400 %.
+Ça fera un repas coriace.
+
+606
+00:35:59,161 --> 00:35:59,780
+<i>D'accord.</i>
+
+607
+00:36:02,133 --> 00:36:04,416
+- 800 % ! Je vous le passe.
+- J'en ai un !
+
+608
+00:36:04,679 --> 00:36:06,612
+- Qu'est-ce que c'est ?
+- C'est un tournevis.
+
+609
+00:36:08,040 --> 00:36:10,574
+- Il est sonique.
+- Oui, je sais. Bataille !
+
+610
+00:36:17,778 --> 00:36:19,056
+Avec moi, viens !
+
+611
+00:36:23,628 --> 00:36:25,608
+On va faire du shopping ?
+C'est bien le moment ?
+
+612
+00:36:25,708 --> 00:36:28,009
+Ne discute pas, bouge !
+Reste au centre !
+
+613
+00:36:28,109 --> 00:36:29,498
+C'est un téléporteur, au centre.
+
+614
+00:36:29,598 --> 00:36:31,394
+le TARDIS ne reconnaîtrait
+pas les autres.
+
+615
+00:36:31,494 --> 00:36:33,653
+- Que faites-vous ?
+- Tu n'as pas de combinaison !
+
+616
+00:36:33,753 --> 00:36:36,449
+Vous non plus, vous êtes autant
+en danger que moi...
+
+617
+00:36:36,549 --> 00:36:38,039
+Donna ! Laisse-moi t'expliquer.
+
+618
+00:36:38,401 --> 00:36:41,253
+- Oh, une bonne chose de faite !
+- Docteur !
+
+619
+00:36:54,298 --> 00:36:55,280
+Où est-elle passée ?
+
+620
+00:36:55,912 --> 00:36:59,047
+Elle a disparu. j'ai regardé autour,
+une seule ombre. Regardez.
+
+621
+00:36:59,147 --> 00:37:00,938
+Ça veut dire qu'on peut partir ?
+
+622
+00:37:01,038 --> 00:37:03,888
+Je ne sais pourquoi on est encore ici.
+On peut le laisser, hein ?
+
+623
+00:37:03,988 --> 00:37:06,738
+- Sans vouloir vous vexer.
+- Fermez-la, M. Lux.
+
+624
+00:37:06,838 --> 00:37:09,598
+Vous sentez quelque chose ?
+Comme un transfert d'énergie ?
+
+625
+00:37:09,698 --> 00:37:12,002
+Non, non, mais regardez, c'est parti.
+
+626
+00:37:12,102 --> 00:37:14,098
+Arrêtez, ne bougez plus.
+
+627
+00:37:14,442 --> 00:37:17,019
+Elles ne s'en vont pas comme ça.
+Et elles n’abandonnent jamais.
+
+628
+00:37:20,069 --> 00:37:22,052
+Celle-ci est sans danger.
+
+629
+00:37:22,653 --> 00:37:24,395
+<i>Qui a éteint la lumière ?</i>
+
+630
+00:37:25,008 --> 00:37:25,948
+Personne, ça va.
+
+631
+00:37:26,048 --> 00:37:27,980
+<i>Non, sérieusement, rallumez !</i>
+
+632
+00:37:28,556 --> 00:37:29,562
+C'est allumé.
+
+633
+00:37:30,398 --> 00:37:32,001
+<i>Je ne vois rien du tout.</i>
+
+634
+00:37:32,376 --> 00:37:34,441
+Dave, tournez-vous.
+
+635
+00:37:34,541 --> 00:37:36,773
+Que se passe-t-il ?
+Pourquoi je ne vois rien ?
+
+636
+00:37:37,238 --> 00:37:39,434
+Le courant est-il coupé,
+est-on en sécurité ?
+
+637
+00:37:39,534 --> 00:37:42,098
+Dave, restez immobile,
+parfaitement immobile.
+
+638
+00:37:42,861 --> 00:37:45,420
+Dave, Dave ? Dave,
+vous m'entendez, ça va ?
+
+639
+00:37:45,520 --> 00:37:46,978
+<i>Parlez-moi, Dave.</i>
+
+640
+00:37:48,335 --> 00:37:51,138
+Je vais bien, ça va, je vais... bien.
+
+641
+00:37:51,238 --> 00:37:53,738
+Restez immobile,
+parfaitement immobile.
+
+642
+00:37:53,838 --> 00:37:56,978
+Je vais bien, ça va, je vais... bien.
+
+643
+00:37:58,878 --> 00:38:01,996
+<i>Je ne peux pas.
+Pourquoi ne puis-je pas ?</i>
+
+644
+00:38:04,004 --> 00:38:07,100
+<i>Je ne peux pas.
+Pourquoi ne puis-je pas ?</i>
+
+645
+00:38:08,539 --> 00:38:11,661
+<i>Je ne peux pas.
+Pourquoi ne puis-je pas ?</i>
+
+646
+00:38:13,069 --> 00:38:13,494
+<i>Je...</i>
+
+647
+00:38:13,768 --> 00:38:15,388
+Il est parti. Il devient fantôme.
+
+648
+00:38:15,488 --> 00:38:17,548
+Alors pourquoi est-il encore debout ?
+
+649
+00:38:18,587 --> 00:38:20,144
+Qui a éteint la lumière ?
+
+650
+00:38:21,827 --> 00:38:23,428
+<i>Qui a éteint la lumière ?</i>
+
+651
+00:38:23,586 --> 00:38:24,655
+Docteur, non !
+
+652
+00:38:25,008 --> 00:38:26,388
+Dave, vous m'entendez ?
+
+653
+00:38:26,995 --> 00:38:28,566
+Qui a éteint la lumière ?
+
+654
+00:38:32,295 --> 00:38:33,803
+<i>Qui a éteint la lumière ?</i>
+
+655
+00:38:34,760 --> 00:38:36,619
+- Qui a éteint la lumière ?
+- Désolée !
+
+656
+00:38:38,535 --> 00:38:40,531
+Écartez-vous, reculez, en arrière !
+
+657
+00:38:46,325 --> 00:38:49,346
+- Ça ne bouge pas très vite.
+- C'est un essaim dans une combinaison.
+
+658
+00:38:49,446 --> 00:38:50,775
+Mais ça apprend.
+
+659
+00:38:56,334 --> 00:38:57,628
+Que fait-on ?
+Où allons-nous ?
+
+660
+00:38:57,728 --> 00:38:59,373
+Vous voyez ce mur derrière vous ?
+
+661
+00:39:00,618 --> 00:39:01,349
+Baissez-vous !
+
+662
+00:39:02,673 --> 00:39:03,946
+Un pistolet carré !
+
+663
+00:39:05,091 --> 00:39:07,088
+Tout le monde dehors.
+Allez, allez, allez !
+
+664
+00:39:07,188 --> 00:39:08,838
+<i>Bougez, bougez, bougez !</i>
+
+665
+00:39:09,714 --> 00:39:11,328
+<i>Bougez, bougez, bougez !</i>
+
+666
+00:39:12,426 --> 00:39:15,179
+- Vous avez dit pas toutes les ombres.
+- Mais n'importe laquelle !
+
+667
+00:39:17,924 --> 00:39:19,388
+Qui a éteint la lumière ?
+
+668
+00:39:19,488 --> 00:39:20,213
+Courez !
+
+669
+00:39:34,748 --> 00:39:36,314
+Chérie, le dîner est prêt.
+
+670
+00:39:37,947 --> 00:39:39,778
+Donna Noble a été sauvée.
+
+671
+00:39:41,867 --> 00:39:42,718
+Chérie ?
+
+672
+00:40:05,845 --> 00:40:07,347
+<i>J'essaye de booster l'éclairage.</i>
+
+673
+00:40:07,584 --> 00:40:09,678
+La lumière ne les arrête pas,
+mais ça les ralentit.
+
+674
+00:40:09,778 --> 00:40:13,356
+Quel est le plan ?
+On a un plan ?
+
+675
+00:40:14,163 --> 00:40:15,552
+Votre tournevis...
+
+676
+00:40:18,468 --> 00:40:21,728
+- Il ressemble au mien.
+- Oui. Tu me l'as donné.
+
+677
+00:40:21,892 --> 00:40:23,757
+Je ne donne mon tournevis à personne.
+
+678
+00:40:23,857 --> 00:40:25,002
+Je ne suis pas n'importe qui.
+
+679
+00:40:25,827 --> 00:40:28,374
+- Qui êtes-vous ?
+- Quel est le plan ?
+
+680
+00:40:29,750 --> 00:40:31,373
+J'ai téléporté Donna dans le TARDIS.
+
+681
+00:40:31,716 --> 00:40:34,550
+Si on n'est pas de retour dans 5 h,
+le programme de secours s'active.
+
+682
+00:40:34,650 --> 00:40:35,746
+La ramenant chez elle, oui.
+
+683
+00:40:35,846 --> 00:40:37,960
+- On doit y aller.
+- Elle n'est pas là.
+
+684
+00:40:38,913 --> 00:40:40,264
+Je devrais recevoir un signal.
+
+685
+00:40:40,507 --> 00:40:42,513
+La console me signale
+s'il y a une téléportation.
+
+686
+00:40:42,613 --> 00:40:45,311
+Peut-être un problème de coordonnées.
+L'équipement ici est vieux.
+
+687
+00:40:46,218 --> 00:40:47,253
+Donna Noble.
+
+688
+00:40:47,353 --> 00:40:51,268
+Il y a une Donna Noble dans cette
+bibliothèque, pouvez-vous la localiser ?
+
+689
+00:40:51,808 --> 00:40:53,961
+Donna Noble a quitté la Bibliothèque.
+
+690
+00:40:54,549 --> 00:40:57,948
+- Donna Noble a été sauvée.
+- Donna !
+
+691
+00:40:58,804 --> 00:41:00,968
+<i>Donna Noble a quitté la Bibliothèque.</i>
+
+692
+00:41:01,544 --> 00:41:02,977
+<i>Donna Noble a été sauvée.</i>
+
+693
+00:41:03,077 --> 00:41:05,923
+Comment peut-elle être Donna ?
+Comment est-ce possible ?
+
+694
+00:41:06,023 --> 00:41:08,332
+Donna Noble a quitté la Bibliothèque.
+
+695
+00:41:09,070 --> 00:41:12,099
+- Donna Noble a été sauvée.
+- Oh, Donna !
+
+696
+00:41:12,199 --> 00:41:13,162
+<i>Donna Noble...</i>
+
+697
+00:41:13,262 --> 00:41:15,546
+- Qui a éteint la lumière ?
+- Docteur !
+
+698
+00:41:15,646 --> 00:41:16,991
+<i>Donna Noble a été sauvée.</i>
+
+699
+00:41:17,091 --> 00:41:18,349
+<i>Qui a éteint la lumière ?</i>
+
+700
+00:41:18,449 --> 00:41:20,761
+<i>Donna Noble a quitté la Bibliothèque.</i>
+
+701
+00:41:21,267 --> 00:41:23,451
+Docteur, on doit y aller, maintenant !
+
+702
+00:41:23,896 --> 00:41:25,358
+<i>Qui a éteint la lumière ?</i>
+
+703
+00:41:25,458 --> 00:41:27,680
+Donna Noble a quitté la Bibliothèque.
+
+704
+00:41:28,558 --> 00:41:31,518
+- Donna Noble a été sauvée.
+- Qui a éteint la lumière ?
+
+705
+00:41:31,618 --> 00:41:34,265
+Donna Noble a quitté la Bibliothèque.
+
+706
+00:41:34,728 --> 00:41:37,438
+- Donna Noble a été sauvée.
+- Qui a éteint la lumière ?
+
+707
+00:41:37,538 --> 00:41:40,068
+<i>Donna Noble a quitté la Bibliothèque.</i>
+
+708
+00:41:40,168 --> 00:41:42,550
+- Donna Noble a été sauvée.
+- Qui a éteint la lumière ?
+
+709
+00:41:42,650 --> 00:41:45,038
+Donna Noble a quitté la Bibliothèque.
+
+710
+00:41:45,138 --> 00:41:47,772
+- Docteur, que fait-on ?
+- Qui a éteint la lumière ?
+
+711
+00:41:47,872 --> 00:41:50,251
+<i>Donna Noble a quitté la Bibliothèque.</i>
+
+712
+00:41:50,458 --> 00:41:52,828
+Donna Noble a été sauvée.
+
+713
+00:42:24,325 --> 00:42:27,178
+Je me fierais à cet homme jusqu'à la fin
+de l'univers. Et on y a été.
+
+714
+00:42:27,278 --> 00:42:28,238
+Qui êtes-vous ?
+
+715
+00:42:28,338 --> 00:42:30,273
+Et ensuite, tu as oublié.
+
+716
+00:42:30,995 --> 00:42:34,080
+Vous venez de tuez quelqu'un que j'aime
+et il vaut mieux ne pas rester là.
+
+717
+00:42:36,158 --> 00:42:37,625
+La planète va craquer comme un œuf.
+
+718
+00:42:37,725 --> 00:42:39,489
+Papa, non, Papa !
+
+719
+00:42:40,221 --> 00:42:42,593
+- Je te déteste parfois !
+- Je sais !
+
+720
+00:42:45,240 --> 00:42:46,538
+Ne jouez pas à ça avec moi.
+
+721
+00:42:46,638 --> 00:42:48,458
+On doit arrêter ça,
+on doit sauver CAL.
+
+722
+00:42:48,558 --> 00:42:49,668
+C'est quoi ce CAL ?
+
+723
+00:42:49,768 --> 00:42:51,388
+- Des spoilers.
+- Des spoilers.
+
+724
+00:42:51,488 --> 00:42:53,430
+Non, ne dites rien,
+vous ne devez pas le dire !
+
+725
+00:42:54,406 --> 00:42:57,409
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

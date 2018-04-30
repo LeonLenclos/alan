@@ -40,7 +40,8 @@
                 "Ne dis-t-on pas : %(quote)s ?",
                 "Comme dit le proverbe : %(quote)s",
                 "%(quote)s"
-            ]
+            ],
+            "process_done_method":"sawtooth"
         },
         {
             "identifier": "justification",
