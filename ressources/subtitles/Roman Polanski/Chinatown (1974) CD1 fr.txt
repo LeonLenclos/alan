@@ -1,0 +1,468 @@
+{1155}{1284}Ça suffit. Ne bouffe pas le store, | on ne l'a posé que mercredi.
+{1696}{1727}Cul sec!
+{2031}{2098}- C'est une salope. | - Que veux-tu que je te dise?
+{2106}{2171}Quand on a raison, | on a raison et tu as raison.
+{2219}{2267}Je paierai le reste dans huit jours.
+{2339}{2425}Le skipjack se vend moins cher | que le thon ou l'albacore...
+{2436}{2491}C'est pas grave, ça peut attendre.
+{2499}{2580}Je ne vais pas te faire les poches! | Pour qui tu me prends?
+{2644}{2694}Fais gaffe en conduisant.
+{2722}{2791}Mme Mulwray vous attend. | Elle est avec M.Walsh et M.Duffy.
+{2847}{2902}Mme Mulwray... M.Gittes
+{2923}{2959}Mme Mulwray... Enchanté.
+{3049}{3090}Quel est votre problème?
+{3109}{3214}Mon mari. Je crois | qu'il fréquente une autre femme
+{3262}{3334}- Vous croyez? | - J'en ai bien peur.
+{3341}{3372}Je suis désolé.
+{3414}{3462}Je peux vous parler seul à seul?
+{3521}{3660}Ça me semble difficile. Ce sont | mes adjoints et ils m'assisteront.
+{3679}{3754}- Je ne peux pas tout faire seul. | - Bien sûr.
+{3899}{4024}Qu'est-ce qui vous fait croire | que votre mari a une liaison?
+{4037}{4085}Une femme sent cela.
+{4156}{4235}- Vous aimez votre mari? | - Bien sûr!
+{4246}{4297}Alors rentrez chez vous | et laissez tomber.
+{4308}{4399}Je suis sûr qu'il vous aime aussi. | Connaissez-vous ce proverbe:
+{4412}{4457}"Ne remuez pas l'eau qui dort"?
+{4509}{4569}- Mieux vaut ne pas savoir. | - Je dois savoir.
+{4696}{4806}Très bien... | Quel est le prénom de votre mari?
+{4827}{4877}Hollis. Hollis Mulwray.
+{4919}{4996}- Du Service des Eaux? | - C'est l'ingénieur en chef.
+{5029}{5067}Ingénieur en chef?
+{5296}{5392}C'est une enquête | qui risque d'être coûteuse...
+{5402}{5505}- Ça prend du temps... | - L'argent n'est pas un problème.
+{5674}{5706}Nous verrons | ce que nous pourrons faire.
+{5772}{5827}Vous pouvez sortir d'ici, | prendre le tramway.
+{5835}{5909}L'océan Pacifique | est à vingt-cinq minutes.
+{5936}{6020}Vous pouvez y nager, y pêcher, | mais vous ne pouvez ni en boire,
+{6029}{6096}ni l'utiliser pour irriguer | vos orangeraies.
+{6137}{6235}Nous vivons au bord de l'océan, | mais aussi au bord d'un désert.
+{6244}{6299}Los Angeles est un désert.
+{6313}{6390}La ville est bâtie sur le sable.
+{6404}{6495}Si on manque d'eau, | ce sable nous ensevelira tous.
+{6512}{6581}L'Alto Valejo peut | nous éviter ça.
+{6589}{6716}J'ose penser que 8 millions de dollars | ce n'est pas cher payé
+{6726}{6805}pour empêcher le désert | de reconquérir nos rues.
+{7047}{7140}Ecoutons le Service des Eaux. | M.Mulwray...
+{7434}{7511}Au cas où vous auriez oublié, | il y a eu 500 morts
+{7520}{7565}quand le barrage | Van der Lip a lâché.
+{7628}{7777}Les échantillons montrent qu'ici | le sous-sol est identique.
+{7804}{7867}Ce sous-sol n'a pas résisté | à la pression.
+{7879}{8009}Vous proposez le même barrage, | avec une pente de 2,5/1
+{8018}{8098}pour un bassin de 4800 hectares?
+{8131}{8225}Ça ne tiendrait pas. | Je ne le construirai pas.
+{8247}{8326}Je ne commettrai pas | deux fois la même erreur.
+{8657}{8717}Virez-moi ça d'ici! | Appelez quelqu'un.
+{8727}{8823}Où voulez-vous qu'on les mette? | Vous ne pouvez pas répondre à ça!
+{8854}{8897}Vous volez l'eau dans la vallée!
+{8911}{9005}Vous desséchez nos pâturages! | Vous faites crever nos bêtes!
+{9022}{9103}À qui vous êtes vendu Mulwray?
+{14852}{14912}LOS ANGELES MEURT DE SOIF! | VOTEZ "OUI"
+{15988}{16036}Il y a passé toute la nuit!
+{16087}{16161}J'y suis retourné trois fois | pour ramasser les montres.
+{16308}{16408}Hier, il a encore visité | trois bassins.
+{16448}{16503}L'eau! Il ne pense qu'à ça!
+{16793}{16833}Voyons voir.
+{17370}{17453}- C'est tout? | - Ils s'engueulaient dur.
+{17548}{17627}- À propos de quoi? | - Je n'ai rien entendu avec le bruit.
+{17640}{17712}Sauf..."Albacord".
+{17733}{17767}"Albacord"?
+{17868}{17935}Tu as passé ta journée | à faire ça Walsh?
+{17943}{18007}Tu m'as dit de prendre des photos, | j'ai pris des photos.
+{18026}{18081}Laisse-moi t'expliquer | quelque chose...
+{18126}{18205}Dans ce métier, | il faut un peu de subtilité.
+{18280}{18364}- Qu'est-ce que c'est? | - Duffy vous demande au téléphone.
+{18468}{18511}- Où es-tu? | - Je le tiens.
+{18518}{18573}Il s'est dégoté une jolie poulette...
+{18581}{18619}Du calme! Où es-tu?
+{18629}{18708}Ils canotent à Echo Park.
+{18830}{18895}Echo Park! Encore de l'eau!
+{19217}{19294}Fais un beau sourire Duffy!
+{19479}{19510}Tu vas adorer.
+{20999}{21044}DE L'EAU DANS LE GAZ | AU SERVICE DES EAUX
+{21065}{21137}Quand on ne parle que de toi, | tu deviens blasé.
+{21146}{21213}T'es quasiment une star!
+{21348}{21422}- Regarde ça! | - Tu parles d'une chaleur!
+{21459}{21516}"Les noms des idiots et leurs visages..."
+{21609}{21642}Comment dites-vous?
+{21680}{21735}Vous avez une drôle de façon | de gagner votre vie.
+{21748}{21803}Vous faites quoi vous?
+{21811}{21878}Je suis à la banque, | aux prêts sur hypothèque.
+{21893}{21977}Combien de familles vous avez | fait saisir cette semaine?
+{21986}{22036}Nous n'en informons pas | la presse nous.
+{22044}{22075}Moi non plus.
+{22083}{22124}Votre agent de publicité | s'en charge!
+{22151}{22206}D'où il sort ce guignol? | Il vient souvent?
+{22221}{22262}Je gagne ma vie honnêtement!
+{22268}{22326}J'aide les gens dans le pétrin.
+{22333}{22436}Je ne les fous pas à la rue | comme les prêteurs sur gages!
+{22446}{22525}Venez en discuter dehors!
+{22593}{22687}Je ne sais pas où il est allé | chercher cette histoire!
+{22718}{22764}Je gagne honnêtement | ma vie!
+{22783}{22865}Tu connais l'histoire du gars | qui en a marre de baiser sa femme?
+{22883}{22960}Alors son copain lui dit: | "Fais-le à la chinoise"
+{22968}{23040}"Les Chinois tirent | un petit coup et puis..."
+{23128}{23169}Sophie, laissez-nous...
+{23226}{23329}Mais M.Gittes?! | Bien M.Gittes...
+{23358}{23406}Laisse-moi te raconter | une histoire.
+{23413}{23516}Il y a un gars qui en a | marre de baiser sa femme...
+{23525}{23578}Attends Duffy! | Tu es toujours pressé!
+{23593}{23672}Alors le copain lui dit: | "Fais-le à la chinoise"
+{23681}{23720}"C'est comment"?
+{23738}{23793}"Ils tirent un petit coup" | dit le copain...
+{23800}{23872}"puis ils lisent un coup | de Confucius..."
+{23881}{23953}"Puis ils retournent | tirer un petit coup..."
+{23988}{24077}Ecoute quand je te parle! | Tu vas adorer.
+{24108}{24154}Ils tirent encore un petit coup...
+{24164}{24267}puis ils sortent et regardent la lune | Ça rend la chose plus excitante...
+{24281}{24367}Alors le gars rentre chez lui, | pour baisouiller sa femme.
+{24386}{24492}Il tire un petit coup, | puis il s'arrête et il prend un canard...
+{24506}{24550}Il retourne tirer un petit coup...
+{24559}{24631}Il se lève, s'excuse | et va fumer une cigarette.
+{24637}{24685}Sa femme commence | à s'impatienter.
+{24693}{24794}Puis il remet ça! | Il se lève et au moment où il sort...
+{24804}{24885}elle explose "Nom de Dieu, | tu baises comme un Chinois!"
+{25153}{25235}- M.Gittes? | - Oui...
+{25271}{25312}Me connaissez-vous?
+{25398}{25451}Je me souviendrais...
+{25459}{25500}On s'est déjà rencontrés?
+{25566}{25626}- Non. | - Jamais?
+{25634}{25665}Jamais.
+{25679}{25710}C'est bien ce que je pensais
+{25718}{25793}Je suis Evelyn Mulwray. | La femme de M.Mulwray
+{25891}{25927}Ce Mulwray?
+{25936}{25984}Oui, ce "Mulwray"
+{26038}{26168}Si nous ne nous connaissons pas, | je ne vous ai donc jamais engagé.
+{26178}{26241}Surtout pas | pour espionner mon mari.
+{26251}{26378}Vous aimez la publicité? | Vous en aurez!
+{26416}{26538}Ecoutez... il y a eu malentendu. | Vous me prenez à la gorge...
+{26548}{26661}Moi? Jamais. | Mon avocat s'en charge.
+{26704}{26754}J'ai quelque chose pour vous.
+{26843}{26905}Nous aurons de vos nouvelles | par votre avocat.
+{27228}{27260}SERVICE DES EAUX
+{27316}{27364}- Il est sorti. Vous êtes... | - M.Gittes.
+{27373}{27409}C'est à quel sujet?
+{27419}{27469}C'est personnel. | Il est parti quand?
+{27477}{27508}Pour déjeuner.
+{27522}{27606}- Je suis en retard! | - Vous aviez rendez-vous?
+{27614}{27664}Il y a 15 minutes. | Je vais l'attendre chez lui
+{29824}{29882}MARDI - RÉSERVOIR DE OAK PARK | SEPT CANAUX UTILISÉS
+{29984}{30058}Vous désirez? Je suis | Russ Yelburton, directeur adjoint.
+{30080}{30164}Je suis J J Gittes. | C'est personnel.
+{30188}{30255}- Voulez-vous l'attendre chez moi? | - Certainement.
+{30319}{30408}L'article du journal | nous a tous assez perturbés.
+{30623}{30693}Quand on collabore longtemps | avec quelqu'un,
+{30704}{30781}on finit par le connaître, | ses habitudes, ses idées.
+{30799}{30874}S'il court les filles, on le sait.
+{30881}{30956}- Et Mulwray? | - Il ne plaisante même pas là-dessus.
+{30974}{31039}Peut-être qu'il prend ses amours | au sérieux...
+{31169}{31248}- Vous savez où il déjeune? | - Non, désolé.
+{31307}{31352}Dites-lui que je repasserai.
+{31420}{31504}Je peux prendre votre carte? Si j'avais | à reprendre contact avec vous...
+{31674}{31722}Mulvihill! | Qu'est-ce que tu fous là?
+{31729}{31823}- Ils m'ont coupé l'eau. | - Comment tu as su?
+{31835}{31900}Tu n'en bois pas, | tu ne te laves pas...
+{31927}{32015}Ils te l'ont écrit? | Tu sais lire?
+{32076}{32124}Content de te revoir vieux.
+{32135}{32168}Vous le connaissez?
+{32174}{32258}- Il travaille chez nous. | - Il fait quoi?
+{32268}{32375}- On a eu des menaces de sabotage. | - Vous savez pourquoi?
+{32384}{32473}La sécheresse... | On rationne les agriculteurs...
+{32482}{32537}Nous devons assurer | l'eau potable à la ville.
+{32545}{32588}Bravo M.Yelburton!
+{32609}{32741}Quand Mulvihill était shérif, | les bootleggers n'ont jamais
+{32761}{32807}perdu une goutte de gnôle.
+{32822}{32887}L'eau sera bien gardée avec lui
+{34339}{34390}JJ Gittes pour M.Mulwray.
+{35380}{35411}Attendez.
+{36890}{36931}Y a mauvais pour le verdure.
+{36997}{37040}Le verre dur...
+{37954}{38017}En fait c'est votre mari | que je venais voir.
+{38103}{38141}Je vous offre à boire?
+{38148}{38196}- Qu'est-ce que vous me proposez? | - Du thé glacé.
+{38205}{38239}Parfait. Merci.
+{38245}{38281}Deux thés, Han...
+{38352}{38400}Mon mari est à son bureau.
+{38435}{38550}Il n'y est pas. | Et il a quitté sa garçonnière...
+{38563}{38613}Ce n'est pas "sa garçonnière".
+{38729}{38806}Je ne cherche pas à me faire aimer | mais à faire mon métier.
+{38815}{38892}Celui qui a tendu un piège à votre mari | m'y a fait tomber aussi.
+{38899}{38981}Los Angeles est un village | où tout le monde se connaît.
+{38990}{39040}Je ne veux pas en être la risée.
+{39050}{39115}Bien. J'abandonne les poursuites
+{39147}{39219}J'abandonne les poursuites. | Oublions cette histoire.
+{39237}{39283}- Sucre ou citron ou les deux? | - Les deux.
+{39323}{39375}Je ne veux pas laisser tomber.
+{39410}{39458}Je dois en parler à votre mari.
+{39493}{39589}Pour quoi faire? | Hollis vous croit innocent.
+{39630}{39716}On m'a accusé de tout | sauf d'être "innocent".
+{39725}{39818}On m'a tendu un piège cousu main, | je veux savoir qui.
+{39828}{39888}Je ne suis pas censé me faire piéger.
+{39910}{39999}- Sauf problème, je dois voir votre mari. | - Quel problème?
+{40022}{40101}- Je peux parler franc? | - Si vous en êtes capable.
+{40150}{40232}La petite est jolie... | bien que vulgaire.
+{40266}{40335}Elle a disparu. | Avec lui peut-être.
+{40343}{40405}Admettons. | En quoi ça vous regarde?
+{40424}{40460}Il n'y a rien de personnel...
+{40475}{40530}Si! | C'est même très personnel.
+{40584}{40620}C'est une idée fixe.
+{40645}{40686}Essayez de comprendre...
+{40695}{40764}Cette pouffiasse, | excusez mon langage,
+{40778}{40838}se fait passer pour vous | et m'engage.
+{40845}{40958}Ce n'est pas moi qu'on veut piéger, | c'est votre mari. Je peux l'aider.
+{41062}{41115}Vous l'avez vu ce matin?
+{41141}{41215}Non. J'étais partie tôt, | à cheval.
+{41245}{41334}- Vous avez fait du chemin... | - Je montais à cru.
+{41425}{41468}Essayez Oak Pass ou Stone Canyon.
+{41475}{41561}Il y passe souvent vers midi. | Sinon il sera ici vers 6 heures 30.
+{41570}{41611}Je repasserai.
+{41620}{41658}Téléphonez d'abord.
+{42055}{42098}Désolé, c'est interdit au public.
+{42210}{42270}Je suis Yelburton, directeur adjoint.
+{42325}{42356}Allez-y.
+{42990}{43036}- Gittes, nom de Dieu! | - Loach.
+{43045}{43105}- Fous le camp, avant qu'il te voie! | - Quoi?
+{43193}{43289}- Salut, Jake. | - Lou, comment tu vas?
+{43325}{43419}À part un rhume, ça va.
+{43470}{43516}Les rhumes d'été sont les pires...
+{43538}{43624}- C'est interdit de fumer. | - Ça ira, on fermera les yeux.
+{43645}{43710}Je veille sur lui, | il ne se brûlera pas.
+{43773}{43903}- Comment tu as réussi à entrer? | - À dire vrai, j'ai un peu menti.
+{43938}{44000}Sapé comme un prince, | les affaires marchent...
+{44010}{44135}- Je me débrouille. | - Il suffit de trouver sa voie. T'as réussi.
+{44166}{44216}Dans le linge sale d'autrui.
+{44265}{44368}Tu colles toujours des chinois en taule | pour avoir craché sur le linge?
+{44400}{44482}Tu es en retard d'une époque. | Ils ont des fers à vapeur!
+{44513}{44604}- Et je ne suis plus à Chinatown. | - Depuis quand?
+{44621}{44672}Depuis que j'ai été | promu lieutenant.
+{44698}{44736}Félicitations.
+{44760}{44804}Qu'est-ce que tu fous ici?
+{44815}{44856}- Je cherche quelqu'un. | - Qui?
+{44890}{44965}- Hollis Mulwray. Tu l'as vu? | - Ouais.
+{45001}{45049}Je voudrais lui parler.
+{45068}{45112}Lui parler?
+{45153}{45261}Essaie toujours... | Il est là.
+{45702}{45779}Il a dû être emporté | le long de la tranchée.
+{45815}{45873}- Il savait nager? | - Bien sûr.
+{45906}{45968}Il a dû s'assommer en tombant.
+{46101}{46223}Cette supposée liaison qu'avait | votre mari... Cette publicité...
+{46234}{46325}N'en était-il pas... | déprimé ou malheureux?
+{46363}{46409}Ça ne l'a pas rendu heureux.
+{46415}{46501}- Vous ne croyez pas au suicide? | - Non.
+{46626}{46688}Connaissez-vous | le nom de la jeune femme?
+{46731}{46760}Non.
+{46766}{46810}Vous savez | où on peut la trouver?
+{46818}{46880}Vous en avez parlé | avec votre mari?
+{47028}{47076}Il ne voulait pas | me dire son nom.
+{47093}{47189}On s'est disputés. | Je ne m'étais doutée de rien.
+{47202}{47242}"Doutée de rien"?
+{47251}{47315}Vous avez pourtant | engagé un détective privé.
+{47350}{47432}- Un détective privé? | - M.Gittes.
+{47617}{47672}J'espérais mettre un terme
+{47686}{47748}à des rumeurs | ridicules et mensongères.
+{47818}{47899}Quand M.Gittes | vous les a-t-il confirmées?
+{47921}{47986}Juste avant la parution de l'article.
+{48021}{48095}- Tu sais où elle est? | - Non.
+{48115}{48165}- Tu sais son nom? | - Non.
+{48193}{48275}- Bien sûr. | - Vous avez encore besoin de moi?
+{48286}{48396}Pas pour l'instant. Si on a besoin | de vous, on vous contactera.
+{48431}{48477}Mes condoléances...
+{48530}{48583}Je la raccompagne...
+{48663}{48730}- Jake, les détails de l'affaire? | - Laissez-nous passer les gars.
+{49071}{49179}Merci de m'avoir raccompagnée. | Je n'avais pas envie de leur expliquer.
+{49205}{49273}- Je vous enverrai un chèque. | - Un chèque?
+{49281}{49356}Pour prouver que je vous ai engagé.
+{49800}{49850}Jake, qu'est-ce que tu fous là?
+{49858}{49954}Au lieu de déjeuner, | je suis passé voir tes viandes froides.
+{49991}{50114}En pleine sécheresse, l'ingénieur | des Eaux se noie! Y a qu'à LA!
+{50157}{50233}- Il est abîmé. | - Une belle chute.
+{50361}{50407}Et à part ça?
+{50434}{50530}Ça va... sauf cette toux. | Tu me connais.
+{50758}{50797}Qui c'est?
+{50808}{50940}Shuhardt, le pochard. | Il traînait du côté de Ferguson Alley.
+{50991}{51109}Un sacré personnage! | Il créchait dans un déversoir de la ville.
+{51173}{51231}Avec lit, armoire et tout.
+{51452}{51495}Il s'est noyé aussi.
+{51575}{51638}Il était bourré, | il est tombé dans la rivière.
+{51646}{51749}- La rivière de LA? | - Sous le pont Hollenbeck, et alors?
+{51776}{51829}Il n'y a pas d'eau!
+{51837}{51885}Tu vois bien que si.
+{51901}{51995}Même bourré, | on ne peut pas s'y noyer.
+{52013}{52071}Il était plein de flotte. Noyé.
+{53759}{53804}C'est toi qui étais ici | l'autre jour.
+{53849}{53940}- Tu parles anglais? Habla inglés? | - Si.
+{53992}{54080}Tu as parlé à un homme | qui portait des lunettes.
+{54158}{54237}- Vous parliez de quoi? | - De l'eau.
+{54246}{54316}- Mais encore? | - Il en coule.
+{54364}{54397}Qu'est-ce que tu lui as dit?
+{54404}{54522}Qu'elle ne coulait jamais | au même endroit. Chaque nuit.
+{57901}{57940}Bordel de merde!
+{57959}{57997}Des pompes sur mesure!
+{58200}{58255}Bouge pas!
+{58416}{58476}Salut Claude! | D'où il sort ce nabot?
+{58617}{58706}Les gars qui fourrent leur nez partout... | tu sais ce qui leur arrive?
+{58732}{58773}Tu ne devines pas?
+{58849}{58890}Ils perdent leur nez.
+{59005}{59117}La prochaine fois, je le coupe... | et je le donne à mes poissons rouges.
+{59158}{59261}- Compris? T'as compris? | - J'ai compris.
+{59586}{59685}D'accord, il y a un coup fourré. | Et après?
+{59694}{59730}Tu veux la peau de Mulvihill?
+{59747}{59783}Tu étais en infraction.
+{59790}{59893}Je ne veux pas la peau de Mulvihill. | Je veux la peau de ceux qui le paient.
+{59902}{59989}- Qu'est-ce tu veux faire? | - Les traîner en justice.
+{60067}{60148}- Oui Sophie? | - Mlle Sessions vous demande.
+{60157}{60224}- Qui? | - Ida Sessions.
+{60255}{60291}Connais pas.
+{60322}{60423}Des gens comme ça | doivent être copains avec les juges.
+{60474}{60569}Excusez-moi mais elle insiste. | Elle dit que vous la connaissez.
+{60780}{60818}Je n'ai pas l'honneur de...
+{60828}{60888}Si. Vous êtes seul?
+{60902}{60993}Nous le sommes tous. | En quoi je peux vous être utile?
+{61042}{61133}Je suis employée. Je n'étais | pas venue pour mon compte.
+{61148}{61260}- Venue quand? | - Je suis la fausse Mme Mulwray.
+{61275}{61318}- La ferme! | - Pardon?
+{61349}{61406}- Je m'en souviens. | - Je vous dérange?
+{61432}{61554}Non. Je parlais à mes associés. | Je vous écoute.
+{61567}{61658}Je n'imaginais pas que ça finirait | comme ça pour M.Mulwray.
+{61675}{61776}Il faut que vous sachiez | que je ne savais pas ce qu'il allait se passer.
+{61784}{61904}Je comprends. Qui vous emploie? | Ça pourrait nous être utile.
+{61915}{61963}Non... Non.
+{62023}{62097}Vous habitez où? | On peut en discuter.
+{62113}{62180}Regardez dans les Annonces de Décès | du LA Post Record...
+{62187}{62283}- Les Annonces de Décès? | - Un des noms y est.
+{63350}{63386}Merci d'être venue.
+{63600}{63700}- Un verre? | - Un Tom Collins, avec du citron vert.
+{63835}{63885}J'ai reçu votre chèque.
+{63927}{63967}Encore merci.
+{63999}{64054}Mais ça ne suffit pas.
+{64168}{64204}Combien voulez-vous?
+{64213}{64266}Il ne s'agit pas d'argent.
+{64350}{64451}- Vous me cachez trop de choses. | - Ah oui?
+{64488}{64560}Il n'y avait pas que la mort | de votre mari qui vous préoccupait.
+{64567}{64618}Vous n'étiez pas si émue que ça.
+{64628}{64695}Laissez-moi juge | de mon émotion.
+{64784}{64827}Désolé.
+{64855}{64915}Vous me menacez d'un procès, | votre mari meurt.
+{64922}{65013}Du coup pas plus de procès | que de beurre au cul...
+{65053}{65084}Excusez-moi.
+{65116}{65163}Et vous me demandez | de mentir à la police.
+{65169}{65200}Si peu...
+{65219}{65277}Pas s'il y a eu crime.
+{65285}{65361}Ceci pourrait passer | pour le prix de mon silence.
+{65370}{65428}Il n'a pas été assassiné.
+{65475}{65549}Vous me cachez quelque chose.
+{65747}{65850}Peut-être... | J'étais au courant de cette liaison.
+{65893}{65965}- Comment l'avez-vous su? | - Par mon mari.
+{65973}{66071}Il vous l'avait dit? | Et ça vous était égal?
+{66085}{66116}J'ai été soulagée.
+{66178}{66225}Ça demande explication...
+{66277}{66333}Les adultères c'est mon métier.
+{66340}{66455}Quand une femme est heureuse | d'être trompée, ce n'est pas normal.
+{66484}{66518}Sauf si...
+{66582}{66620}Sauf si elle le trompe.
+{66701}{66741}Vous le trompiez?
+{66852}{66900}Je n'aime pas ce mot.
+{66935}{67033}Vous aviez des amants? | Il était au courant?
+{67080}{67162}Je ne courais pas | l'aviser à chaque fois.
+{67208}{67256}Ça vous suffit?
+{67269}{67336}Où étiez-vous quand il est mort?
+{67345}{67420}- Je ne peux pas vous le dire. | - Vous ne savez pas?
+{67427}{67497}- Je ne peux pas. | - Avec un homme?
+{67550}{67586}Une liaison?
+{67593}{67715}Je n'ai jamais de liaisons. | Ça m'est difficile.
+{67838}{67902}Vous en savez assez sur moi.
+{67933}{68024}Je tiens à la discrétion, | maintenant comme alors.
+{68050}{68079}C'est tout?
+{68223}{68268}Que veut dire ce "C"?
+{68327}{68363}Cross...
+{68415}{68502}- Votre nom de jeune fille? | - Oui. Pourquoi?
+{68528}{68559}Pour rien.
+{68565}{68599}Vous devez avoir une raison.
+{68625}{68661}Je suis une fouine.
+{68813}{68863}J'ai ma voiture.
+{68941}{69044}- Vous devriez venir avec moi. | - Pourquoi? Tout a été dit.
+{69170}{69271}Soit. Si ça vous intéresse, | votre mari a été assassiné.
+{69293}{69430}On rejette des tonnes d'eau potable | des réservoirs, en pleine sécheresse.
+{69445}{69503}Il l'a découvert | et on l'a tué.
+{69511}{69582}J'ai vu à la morgue | un pochard noyé.
+{69590}{69693}On peut prouver l'homicide involontaire | mais on préfère étouffer la chose.
+{69703}{69754}À priori je m'en fous.
+{69776}{69862}Mais j'ai failli y laisser mon nez...
+{69870}{69947}...que j'aime bien | et qui me sert à respirer.
+{69955}{70025}Je pense que vous me cachez | encore des choses.
+{70513}{70585}JJ Gittes. Je viens voir M.Yelburton.
+{71311}{71361}M.Yelburton est occupé.
+{71393}{71453}C'est mon heure de déjeuner. | J'attendrai.
+{71481}{71531}Ça peut être long.
+{71565}{71704}Je déjeune lentement. | Ça me prend parfois toute la journée.
+{73146}{73256}- Noah Cross était employé ici? | - Oui... Non.
+{73268}{73340}- Oui ou non? | - C'était le propriétaire.
+{73378}{73423}Le propriétaire du Service des Eaux?
+{73506}{73592}L'approvisionnement de la ville en eau | lui appartenait?
+{73745}{73791}Il l'a perdu comment?
+{73815}{73875}M.Mulwray voulait | en faire un service public.
+{73898}{73992}Mulwray? Vous avez dit | que Cross était propriétaire.
+{74009}{74107}- Ils l'étaient tous les deux. | - Ils étaient associés?
+{74143}{74189}Oui, ils étaient associés.
+{75083}{75133}M.Yelburton vous attend.
+{75313}{75390}Excusez-moi. | Ces réunions n'en finissent jamais.
+{75434}{75513}La succession ne doit pas | être facile à assurer.
+{75536}{75593}Hollis était un homme remarquable.
+{75638}{75734}- Qu'est-ce qui est arrivé à votre nez? | - Je me suis blessé en me rasant.
+{75766}{75819}Vous devriez faire plus attention, | ça fait mal.
+{75831}{75872}Seulement quand je respire.
+{76044}{76113}Vous enquêtez toujours | pour Mme Mulwray?
+{76121}{76183}- Ça n'a jamais été le cas. | - Je ne comprends pas.
+{76204}{76278}Moi non plus. | C'est vous qui m'aviez embauché...
+{76313}{76436}- Par bonne femme interposée. | - Ça ne tient pas debout.
+{76484}{76575}Disons que Mulwray | refuse d'édifier le barrage...
+{76594}{76683}L'homme est intègre, | vous décidez de le déshonorer.
+{76698}{76782}Il découvre | que vous vidangez l'eau la nuit.
+{76794}{76854}Et alors on... on le noie.
+{76894}{76997}C'est une accusation abominable. | Je ne sais pas de quoi vous parlez.
+{77047}{77109}Merholz, du Times, comprendra.
+{77119}{77198}Des tonnes d'eau déversées | à la mer, en pleine sécheresse...
+{77205}{77249}Ça c'est du scoop.
+{77426}{77496}Nous préférons le taire. | Nous avons fait dériver de l'eau
+{77503}{77565}pour irriguer les orangeraies | dans le nord-ouest.
+{77573}{77700}Ces paysans n'ont pas droit à l'eau, | on en dépanne quelques-uns.
+{77733}{77858}- Bien sûr il y a quelques pertes. | - Quelques pertes...
+{77894}{77978}- Où sont ces orangeraies? | - Dans le nord-ouest.
+{77985}{78029}C'est vague.
+{78058}{78154}Je ne peux pas vous donner | leur emplacement exact.
+{78182}{78241}- Vous êtes marié n'est-ce pas? | - Oui.
+{78249}{78331}Vous travaillez dur. | Vous avez une femme, des enfants?
+{78371}{78423}Je ne veux pas votre peau.
+{78536}{78584}Je veux les meneurs.
+{78606}{78688}Réfléchissez quelques jours. | Je peux vous aider.
+{78726}{78817}On pourra peut-être faire | porter le chapeau aux gros.
+{78840}{78922}Vous resteriez chef de service | pour les vingt ans à venir.
+{79924}{79974}- Un verre? | - Non, merci.
+{80110}{80156}Quel est votre tarif habituel?
+{80186}{80330}35 dollars par jour, plus 20 dollars | pour mes associés, plus les frais.
+{80356}{80416}Plus une prime si je réussis.
+{80496}{80572}Pourquoi ceux qui ont tué mon mari | se donnent tout ce mal?
+{80588}{80620}L'argent.
+{80636}{80722}Comment vider les réservoirs | leur en rapporte, ça je n'en sais rien.
+{80754}{80830}Je paye votre tarif | plus 5000 dollars
+{80846}{80933}si vous découvrez la vérité sur Hollis | et qui sont les coupables.
+{81049}{81132}Préparez un contrat standard | pour Mme Mulwray.
+{81335}{81436}Vous vous êtes mariée avant ou après | que Mulwray et votre père vendent?
+{81472}{81522}Noah Cross est bien votre père?
+{81599}{81630}Oui, bien sûr.
+{81654}{81697}Je me suis mariée après.
+{81722}{81779}J'étais au lycée | quand ils ont vendu.
+{81842}{81882}Vous avez épousé | l'associé de votre père.
+{81984}{82035}Vous en avez déjà une d'allumée.
+{82100}{82207}- Parler de votre père vous gêne? | - Non!
+{82257}{82331}En fait, oui un peu. | Hollis et mon...
+{82386}{82480}et mon père ont fini | par se brouiller.
+{82512}{82630}- À propos de vous ou d'affaires? | - Pourquoi à propos de moi?
+{82638}{82703}- À cause du Service des Eaux? | - Oui.
+{82736}{82806}Hollis voulait | que le Service appartienne à la Ville.
+{82814}{82874}Mon père n'était pas d'accord.
+{82927}{83006}Ils se sont brouillés quand | le barrage Van der Lip a lâché.
+{83034}{83121}- Hollis ne le lui a jamais pardonné. | - Jamais pardonné "quoi"?
+{83132}{83247}De l'avoir fait construire le barrage. | Ils ne se sont plus parlé après ça.
+{83349}{83438}- Vous en êtes sûre? | - Évidemment!
+{83572}{83670}Signez là. | La copie est pour vous.
+{85175}{85230}- M.Gitts? | - Gittes.

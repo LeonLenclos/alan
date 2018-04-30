@@ -1,0 +1,1433 @@
+{1358}{1411}Pourquoi pleures-tu, petit ?
+{1416}{1477}Parce que mon ombre se détache.
+{1482}{1537}D'ailleurs, je ne pleure pas.
+{1543}{1609}Je te la recoudrai, mon petit.
+{1614}{1708}Je te la recoudrai, mon petit.|Ca risque de faire un peu mal.
+{1714}{1748}Comment t'appelles-tu ?
+{1753}{1800}Wendy Moira Angela Darling.
+{1806}{1852}- Et toi ?|- Peter Pan.
+{1866}{1912}Ta fille est extraordinaire.
+{1917}{1962}La vedette de la piece !
+{1982}{2041}Tu es vraiment gentil.
+{2046}{2066}Plus fort !
+{2071}{2153}Tu es vraiment gentil.
+{2159}{2247}Je peux te donner un baiser,|si tu veux.
+{2274}{2322}Tu ne sais pas ce que c'est ?
+{2327}{2387}Donne-m'en un et je le saurai.
+{2536}{2577}Je vais te donner un baiser.
+{2781}{2856}Je ne veux jamais|devenir adulte.
+{2897}{2962}Je veux rester petit garcon|et m'amuser.
+{3029}{3152}Nous voulons etre comme Peter Pan|Et ne jamais grandir
+{3232}{3262}Brad.
+{3307}{3352}J'assiste a la piece de ma fille.
+{3474}{3579}Impossible. Je pars demain soir|pour Londres avec ma famille.
+{3584}{3673}Un hopital pour enfants dédie|une aile a Mamie Wendy.
+{3682}{3702}Brad...
+{3707}{3753}Peter, tu rates tout.
+{3758}{3837}Bon, alors prends rendez-vous|pour demain matin.
+{3842}{3912}Papa, mon match !|Tu as promis.
+{3918}{3963}Mon fils a un match important.
+{3969}{4062}Le dernier match de la saison.|Je dois y etre. J'ai promis.
+{4087}{4116}On fera ca vite.
+{4128}{4183}J'y serai.|Je n'ai qu'une parole.
+{4189}{4255}Nous ne voulons jamais|Jamais, jamais, jamais
+{4261}{4343}Jamais, jamais grandir
+{4524}{4576}Allez, les Bluejays !
+{4581}{4657}Jack ! Allez, les Bluejays !
+{4732}{4767}Et que ca chauffe !
+{4859}{4922}Ou est ton pere ? Il loupe ca.
+{4928}{5007}Papa sera la. Il a promis.
+{5016}{5039}Jerry ? Jack ?
+{5044}{5068}- Jim.|- C'est ca.
+{5074}{5145}Allez au match.|Filmez ce que je vais rater.
+{5150}{5212}Le discours pour l'hommage|a votre grand-mere.
+{5217}{5238}Sur fiches ?
+{5243}{5291}- Qui l'a rédigé ?|- Miller.
+{5296}{5337}J'ai adoré son rapport annuel.
+{5342}{5454}" Ces 70 dernieres années, Mamie|Wendy, a qui nous rendons hommage...
+{5459}{5537}a donné espoir et vie|a des centaines d'orphelins."
+{5542}{5567}Parfait.
+{5575}{5620}Maman, ou est papa ?
+{5881}{5922}Mon porte-documents.
+{6227}{6250}Je décolle.
+{6256}{6310}La voiture, c'est plus dangereux.
+{6316}{6401}Moins de risques en vol|qu'en traversant la rue.
+{6406}{6461}Si votre heure a sonné,|rien a faire.
+{6471}{6556}Et n'oubliez pas,|ne crispez pas trop les bras !
+{6568}{6622}Et si l'heure du pilote a sonné ?
+{6645}{6698}Allez, Banning !|Fais-nous gagner !
+{6703}{6724}Allez, vas-y !
+{6757}{6823}Je viens du bureau.|Lequel est votre fils ?
+{6829}{6887}- C'est le frappeur !|- Merci !
+{7004}{7050}Vas-y, mon gars !
+{7055}{7075}Allez, Jack !
+{7089}{7124}Oublie-moi ! Concentre-toi !
+{7138}{7202}Reste concentré ! Vas-y.|Un coup, Jack.
+{7239}{7297}Allez, Jack ! Vas-y !
+{7334}{7382}Pas de balle courbe !
+{7391}{7484}On va leur faire la peau.|Donne-moi une chance de marquer !
+{7619}{7643}Fin du match !
+{9060}{9129}Mesdames, messieurs,|ici le commandant de bord.
+{9134}{9222}Nous traversons une légere|zone de turbulence.
+{9462}{9562}Restez assis, détendez-vous.|Passez une agréable fin de vol.
+{9618}{9662}Regarde ce que Jack a dessiné !
+{9667}{9705}Tres joli, ma chérie.
+{9710}{9737}C'est quoi, ca ?
+{9750}{9770}Des flammes.
+{9775}{9820}Des flammes, hein ?
+{9826}{9854}C'est notre avion ?
+{9899}{9926}Qui sont ces gens ?
+{9931}{10017}Il y a Jack, ca c'est moi, maman...
+{10023}{10062}et toi, la.
+{10085}{10114}Et mon parachute ?
+{10175}{10264}- Pas avant mon anniversaire.|- Pas sans ton téléphone.
+{10269}{10313}Il est dans mon porte-documents.
+{10319}{10350}Va lui parler.
+{10522}{10567}Pourquoi j'ai pas de parachute ?
+{10577}{10608}Devine !
+{10614}{10672}- Jackie !|- Jack.
+{10680}{10726}Arrete !|Tu vas casser un hublot.
+{10731}{10781}Y a plusieurs épaisseurs.|Impossible.
+{10789}{10827}Donne-moi ca.
+{10905}{10950}T'as peur d'etre aspiré.
+{10955}{10986}Je n'ai pas peur.
+{10991}{11050}Si, t'as la trouille d'etre aspiré.
+{11056}{11092}Arrete.
+{11184}{11253}L'an prochain, je viendrai|a six matches. Promis.
+{11268}{11337}Achete des cassettes|pour ton caméscope.
+{11458}{11497}Je n'ai qu'une parole.
+{11506}{11546}Plutot un moulin a paroles !
+{11613}{11687}Tu vas arreter de te comporter|comme un gamin ?
+{11718}{11743}Je suis un gamin.
+{11748}{11777}Alors, grandis !
+{11833}{11868}Ca faisait un bail.
+{11874}{11913}Essaie de te détendre, Peter.
+{11920}{11967}Londres est un endroit magique.
+{11972}{12014}- En tout cas pour nous.|- Et cher.
+{12019}{12087}Ne fais pas ca.|Tu vas crever l'oeil de quelqu'un.
+{12141}{12186}Peter, c'est au 1 4.
+{12219}{12262}Que dit-on a Mamie Wendy ?
+{12268}{12319}- " Enchantée."|- Jack, descends !
+{12324}{12349}Fais attention.
+{12362}{12437}C'est la Wendy de ma piece,|pour de vrai ?
+{12443}{12467}Non, pas vraiment.
+{12472}{12507}En quelque sorte.
+{12539}{12596}Ne traine pas.|Jette ce chewing-gum.
+{12602}{12690}On doit etre impeccables.|Il faut faire bonne impression.
+{12696}{12742}Lacets noués. Chemise rentrée.
+{12747}{12777}Tu le sais bien.
+{12813}{12872}L'Angleterre est le pays|des bonnes manieres.
+{12878}{12898}Oncle Tootles.
+{12903}{12947}Il neige !
+{13212}{13276}Quels ravissants enfants !
+{13281}{13338}Ravi de te voir,|Libby... Linda... Lisa...
+{13344}{13392}- Liza.|- C'est ca.
+{13411}{13482}Moira, comment vas-tu ?|Tu es splendide !
+{13528}{13549}Regardez la taille...
+{13554}{13606}Et toi ! Que tu es mignonne !
+{13611}{13691}- Mamie va descendre.|- Elle est en haut ? Parfait.
+{13712}{13795}- Mon grand ! Tu joues au rugby ?|- Non. Au base-ball.
+{13828}{13894}- Pour nous ?|- On a cuisiné toute la semaine.
+{13899}{13982}Cuisiné ? Cuisiné quoi ?|Du pudding ?
+{13989}{14039}Peter, regarde-moi ca.
+{14044}{14088}- C'est qui ?|- C'est toi.
+{14093}{14141}J'ai été aussi jeune ?
+{14146}{14232}- Qu'est-ce qui t'arrive ?|- Cette maison me fait un effet !
+{14238}{14318}Une partie de mon enfance|ne m'a jamais quitté.
+{14324}{14388}Dieu soit loué !|Nous étions enfants ici.
+{14394}{14461}Perdue, perdue, perdue.
+{14466}{14497}Quoi ?
+{14517}{14567}J'ai perdu la boule.
+{14619}{14649}Lisa ?
+{14669}{14692}Liza.
+{14697}{14767}- Et la maison de retraite ?|- Wendy a refusé.
+{14772}{14825}Son premier orphelin...|C'est a qui ?
+{14830}{14903}La grande valise a moi,|les petites aux enfants.
+{14909}{14949}Bonsoir, mon garcon.
+{15169}{15211}Bonsoir, Wendy.
+{15424}{15507}Je te l'avais dit, que je le ferais|venir coute que coute.
+{15627}{15677}Désolé de venir si rarement.
+{15683}{15770}Tous les dix ans.|Mais ca ne fait rien.
+{15776}{15833}Viens me faire un calin.
+{16119}{16155}Qui est cette jolie demoiselle ?
+{16161}{16193}Pas Maggie.
+{16199}{16292}Si, et tu sais quoi ?|J'ai joué ton personnage a l'école.
+{16297}{16343}Tu es parfaite pour le role.
+{16349}{16444}Et ce géant, c'est Jack ?|Comme tu as grandi en un an !
+{16449}{16493}Je suis censé te dire :
+{16498}{16597}félicitations pour l'ouverture|de l'hopital pour orphelins...
+{16602}{16682}c'est un sacré honneur.
+{16707}{16775}- Je te remercie.|- De rien.
+{16781}{16892}Il y a une regle que vous allez devoir|respecter sous mon toit :
+{16908}{16967}vous allez arreter de grandir.
+{16987}{17053}Arretez immédiatement.
+{17059}{17133}Et toi aussi,|M. Ie P.D.G. Banning.
+{17139}{17167}Trop tard, Mamie.
+{17172}{17275}Qu'ont-elles de si important,|tes affaires si importantes ?
+{17281}{17343}Quand une grosse boite|est en difficulté...
+{17349}{17417}papa débarque,|et si on lui résiste...
+{17423}{17493}Il exagere. Je m'occupe de fusions|et d'acquisitions.
+{17499}{17559}Et un peu d'aménagement|du territoire.
+{17564}{17638}S'ils lui résistent,|il les pulvérise.
+{17723}{17760}Je vois !
+{17778}{17852}Peter, tu es devenu pirate !
+{19428}{19497}Brad au téléphone.|C'est urgent !
+{19655}{19684}Ma robe te plait ?
+{19689}{19728}Superbe, Mamie.
+{19826}{19887}Salut, Brad.|De bonnes nouvelles ?
+{19911}{19941}Quoi ?
+{19960}{20032}Le Sierra Club ?|Je croyais qu'on les tenait.
+{20069}{20157}Ce vampire veut me sucer le sang !|Il me bave dans le cou.
+{20162}{20187}Qu'ont-ils découvert ?
+{20192}{20267}- C'est un téléphone portable...|- Un hibou bleu ?
+{20303}{20354}Bon, écoute.
+{20384}{20470}Demande-leur si les tyrannosaures|leur manquent.
+{20476}{20577}Mais bien sur !|Tu plaisantes !
+{20584}{20606}Attends.
+{20611}{20707}Ne me dis pas qu'un hibou a besoin|de 80 km pour se reproduire.
+{20712}{20781}Ils ne peuvent pas|aller forniquer ailleurs ?
+{20786}{20902}Un contrat de cinq milliards|va tomber a l'eau a cause de ca ?
+{20923}{20964}J'ai plus qu'a me flinguer !
+{20984}{21013}Pan ! Pan !
+{21019}{21053}Vous allez la fermer ?
+{21064}{21084}Pardon.
+{21094}{21132}Fichez-moi la paix !
+{21137}{21207}Sors-les d'ici !|Ce coup de fil est vital !
+{21240}{21287}Allez, Jack. Dehors.
+{21321}{21357}Venez avec moi.
+{21364}{21482}Venez voir d'ou on soufflait|les étoiles, avec votre papa.
+{21543}{21598}J'aurais jamais du venir.
+{21604}{21663}Ca fait 1 0 ans|que Mamie te demande.
+{21669}{21692}J'étais débordé.
+{21698}{21809}Tu as promis de passer du temps|avec les enfants. Tu les ignores.
+{21814}{21887}- Mais non.|- Tu ne tiens jamais parole.
+{22036}{22097}C'est Brad.|Je dois prendre son appel.
+{22119}{22150}Faut que je regle ca.
+{22163}{22224}Regle d'abord tes problemes|de famille.
+{22423}{22461}Peter, allo ? Tu es l ?
+{22676}{22742}- Désolée, pour ton contrat.|- Tu étais contre.
+{22747}{22842}C'est vrai. Mais je suis désolée|que tu le prennes si mal.
+{22864}{22912}Tes enfants t'aiment.
+{22923}{22967}Ils veulent jouer avec toi.
+{22983}{23037}Tu crois que ca va durer longtemps ?
+{23058}{23137}Bientot Jack ne t'invitera plus|a ses matches.
+{23169}{23247}Ces quelques années avec nos enfants|sont précieuses...
+{23252}{23317}ils ont besoin de nous|en ce moment.
+{23329}{23407}Plus tard, tu leur courras apres|pour un peu d'attention.
+{23434}{23482}Ca passe si vite, Peter.
+{23503}{23582}Quelques années, et c'est terminé.
+{23659}{23722}Et tu n'y prends pas garde.
+{23769}{23827}Et tu rates tout.
+{23993}{24032}Peter, ou es-tu ?
+{24224}{24332}"Tous les enfants, sauf un,|grandissent."
+{24351}{24432}Tu sais d'ou viennent les fées,|hein, Maggie ?
+{24449}{24543}"Quand le premier bébé a ri|pour la premiere fois...
+{24549}{24618}il a eu des milliers|d'éclats de rire...
+{24624}{24675}qui se sont envolés un peu partout.
+{24681}{24738}C'est ainsi que les fées|sont apparues."
+{24744}{24767}Et regarde.
+{24829}{24872}Wendy, c'est moi.
+{24904}{24962}Ou c'était moi, il y a longtemps.
+{24984}{25073}Mais Jack dit que tu n'es pas|la "vraie" Wendy, pour de vrai.
+{25078}{25127}Tu vois ou est Jack ?
+{25168}{25254}Eh bien, a cette fenetre,|dans cette chambre, on inventait...
+{25260}{25358}des contes sur Peter, le Pays|lmaginaire, le capitaine Crochet.
+{25364}{25458}Et tu sais, M. Barrie, enfin,|Sir James, notre voisin...
+{25464}{25562}aimait tant nos histoires|qu'il en a fait un livre.
+{25568}{25639}Ciel, il y a 80 ans de ca.
+{25653}{25700}Tu es vraiment vieille !
+{25706}{25752}C'est vrai.
+{25775}{25846}Désolé de vous interrompre.|Je dois emmener Mamie...
+{25851}{25932}ou elle va rater le moment|le plus important de sa vie.
+{26061}{26143}Papa. Je t'ai fabriqué quelque chose.|Tu vas adorer.
+{26149}{26233}C'est un calin. Tu n'auras plus peur|pour ton prochain vol.
+{26239}{26292}Elle t'a fait un parachute.
+{26301}{26352}Tres ingénieux, ma chérie.
+{26387}{26411}Eloigne-toi de la !
+{26416}{26539}Je t'ai déja dit de ne pas jouer|pres d'une fenetre ouverte. Ferme-la.
+{26545}{26582}On en a aussi a la maison.
+{26588}{26642}Non. Elles ont toutes des barreaux.
+{26653}{26687}Allez, au lit.
+{26782}{26814}Qui a pris ma balle ?
+{26823}{26903}L'homme affreux de la fenetre|te l'a volée.
+{26909}{26937}Il n'existe pas.
+{26943}{27015}Il se fait passer|pour un laveur de carreaux.
+{27058}{27078}C'est quoi ?
+{27084}{27151}Un gant de base-ball.|On peut attraper des trucs...
+{27156}{27236}sortir des plats du four,|frapper sa soeur.
+{27276}{27362}Tootles l'a faite pour moi.|Elle sent bon.
+{27367}{27402}Elle est en papier, trésor.
+{27549}{27587}Hé, Jack.
+{27609}{27642}Tu fais semblant.
+{27681}{27730}Tu es l'homme de la maison.
+{27735}{27827}Voici ma montre la plus précieuse.|Pour avoir l'heure.
+{27834}{27902}Ne sors pas, maman.|S'il te plait.
+{28014}{28047}Bonne nuit.
+{28243}{28336}Petites lumieres du soir,|protégez mes enfants endormis.
+{28341}{28432}Brillez fort toute la nuit.
+{28514}{28637}On prend maintenant des avocats|au lieu de rats, pour les expériences.
+{28659}{28693}Et ceci pour deux raisons :
+{28699}{28802}Primo, les savants s'attachent moins|aux avocats.
+{28824}{28917}Secondo, meme les rats ont|leurs limites.
+{29057}{29142}Je remercie le conseil|d'administration de l'hopital...
+{29148}{29197}de m'avoir invité ce soir...
+{29211}{29317}et vous prie de m'excuser, je parle|d'habitude a des actionnaires.
+{29363}{29477}Nous ne nous connaissons pas, et|n'avons pas grand-chose en commun...
+{29488}{29582}si ce n'est cette dame exceptionnelle,|Wendy Angela Darling.
+{29649}{29699}Mamie Wendy m'a donné asile.
+{29704}{29757}Elle m'a appris a lire et écrire.
+{29762}{29836}Elle a meme trouvé des gens|pour m'adopter.
+{29882}{29927}Elle a aimé tant d'enfants...
+{29932}{30039}si fali... Iafi... si facilement.
+{30053}{30092}Voila son exploit.
+{30104}{30171}La plupart d'entre vous étaient|des enfants perdus...
+{30176}{30263}mais Wendy a trouvé des parents|et des foyers pour chacun...
+{30269}{30330}et vous a sauvés.|Elle fait des miracles.
+{30359}{30468}Je suis sur qu'a ma place,|vous sauriez mieux que moi exprimer...
+{30474}{30567}vos sentiments de... gratitude...
+{30634}{30672}vos éloges...
+{30722}{30767}et vos sentiments chaleureux...
+{30787}{30832}pour cette femme extraordinaire.
+{31209}{31272}En fait, nous avons quelque chose|en commun.
+{31328}{31367}Nous sommes orphelins.
+{31839}{31887}Crochet !
+{31932}{31967}Crochet.
+{33819}{33852}Ca va ?
+{34292}{34327}Merci, Nigel. Norman ?
+{34333}{34360}Neville, monsieur.
+{34366}{34402}C'est anglais, ca ?
+{34409}{34452}Joyeux Noël.
+{34507}{34542}J'étais fiere de toi.
+{34547}{34600}Ton discours était excellent.
+{34606}{34647}En effet.
+{35309}{35372}Mon Dieu ! Les enfants !
+{35538}{35582}Jack ! Réponds-moi !
+{35652}{35738}Le vent s'est levé.|La porte s'est refermée sur moi...
+{35744}{35798}et les enfants criaient !
+{35804}{35883}Les enfants criaient !
+{36129}{36159}La fenetre.
+{36479}{36502}" Cher Peter.
+{36507}{36587}On réclame ta présence|a la demande de tes enfants.
+{36641}{36697}Salutations amicales...
+{36702}{36742}J.A.S. Crochet...
+{36756}{36787}Ie capitaine."
+{36909}{36987}Faut voler. Se battre.
+{36996}{37092}Pousser un cocorico. Sauver Maggie.|Sauver Jack.
+{37124}{37169}Crochet est de retour.
+{37199}{37224}Qui ?
+{37257}{37287}Mamie !
+{37422}{37487}Les gars du labo|vont analyser tout ca.
+{37503}{37622}Les téléphones sont sur table d'écoute|et j'ai posté deux hommes dehors.
+{37633}{37722}Il est possible que ce soit|une sorte de farce stupide.
+{37728}{37772}Mes enfants ont disparu.
+{37784}{37877}Oui, mais le passé littéraire|de cette famille suggere...
+{37884}{37907}Espérons...
+{37912}{37962}Je ne sais plus voler.
+{37982}{38037}Ca peut arriver.
+{38169}{38237}Plus de pensées agréables.
+{38266}{38296}Perdus !
+{38327}{38359}Perdus !
+{38651}{38757}- La police fait son possible.|- La police ne peut rien faire.
+{38766}{38843}Je devrais peut-etre appeler|la police américaine.
+{38848}{38911}En pleine crise, en Angleterre,|on fait du thé.
+{38916}{38943}Veux-tu, Moira ?
+{38949}{38972}Bien sur.
+{38977}{39032}N'oublie pas de chauffer|la théiere.
+{39062}{39097}J'y vais.
+{39122}{39157}Reste ici.
+{39174}{39246}Ne t'inquiete pas,|je n'allais pas partir.
+{39274}{39337}Donne-moi ce livre, veux-tu ?
+{39479}{39532}Je dois enfin tout te dire.
+{39573}{39607}Me dire quoi ?
+{39634}{39727}Tes souvenirs remontent|a quand, Peter ?
+{39756}{39827}Je me rappelle de l'hopital|de Great Ormond Street.
+{39844}{39883}Tu t'occupais d'orphelins.
+{39889}{39972}Tu t'es occupée de mon adoption|par des Américains.
+{39986}{40040}Tu avais douze, treize ans.
+{40046}{40092}Je veux dire, avant.
+{40103}{40143}Avant ca, rien.
+{40182}{40237}Essaye, Peter. Fais un effort.
+{40284}{40317}Rien du tout.
+{40419}{40492}Tu sais, quand j'étais jeune...
+{40548}{40627}tu n'avais d'yeux que pour moi.
+{40681}{40804}Je m'attendais a ce que tu atterrisses|a l'église pour empecher mon mariage.
+{40832}{40902}Je portais ma ceinture de satin rose.
+{40968}{41012}Mais tu n'es pas venu.
+{41049}{41082}Mamie ?
+{41108}{41205}J'étais vieille quand je t'ai|emmitouflé dans une couverture.
+{41211}{41253}Une grand-mere.
+{41259}{41325}Ma petite-fille de 1 3 ans|dormait dans son lit.
+{41331}{41361}Moira.
+{41381}{41427}Et quand tu l'as vue...
+{41453}{41539}c'est la que tu as décidé|de ne pas rentrer au Pays lmaginaire.
+{41599}{41627}Ou ca ?
+{41641}{41692}Au Pays lmaginaire.
+{41749}{41803}- Je vais chercher Moira.|- J'ai essayé...
+{41808}{41873}- Le thé.|- Je savais que tu avais oublié !
+{41878}{41925}Je ne veux rien entendre|maintenant.
+{41930}{42025}Les histoires sont vraies.|Je te le jure.
+{42043}{42096}Je le jure sur tout ce que j'adore.
+{42101}{42173}Et maintenant, il est de retour|pour se venger.
+{42179}{42240}La bataille continue|pour le capitaine Crochet.
+{42245}{42268}Il te veut.
+{42273}{42358}Il sait que tu chercheras Maggie|et Jack au bout du monde.
+{42364}{42442}Pour l'amour de Dieu,|tu dois trouver un moyen.
+{42469}{42552}Toi seul peut sauver tes enfants.
+{42584}{42652}Débrouille-toi pour y retourner.
+{42679}{42757}Force-toi a te rappeler.
+{42799}{42842}A me rappeler quoi ?
+{42897}{42982}Peter, ne sais-tu pas qui tu es ?
+{43493}{43527}Oui, mon petit.
+{43957}{43987}Pardon.
+{44213}{44243}Le parachute...
+{45382}{45440}Luciole du diable !
+{45492}{45529}Sale bestiole !
+{45840}{45901}C'est bien toi ! En grand !
+{45906}{45966}Ca me gene pas.|T'as toujours été grand.
+{45971}{46026}Tu seras deux fois plus drole.
+{46076}{46160}On va de nouveau s'amuser !|Passer de bons moments ! Jouer !
+{46247}{46285}Tu es une petite...
+{46332}{46365}fée.
+{46471}{46491}Un lutin.
+{46496}{46560}Tu as besoin de plus petit|que toi, Peter Pan.
+{46566}{46586}- Peter Banning.|- Pan.
+{46591}{46616}- Banning.|- Pan.
+{46621}{46670}Peu importe, c'est bien toi.
+{46676}{46737}Une seule personne a cette odeur.
+{46745}{46773}Laquelle ?
+{46778}{46836}L'odeur de celui qui se laisse|porter par le vent.
+{46841}{46951}De celui qui dort dans les arbres.|Des lndiens et des pirates.
+{46956}{46986}Tu te souviens ?
+{46992}{47075}Le monde nous appartenait.|C'était a notre guise...
+{47080}{47114}toujours toi et moi.
+{47192}{47261}Ca y est. Je fais|une dépression nerveuse.
+{47266}{47321}Suis-moi et tout ira bien.
+{47326}{47409}Je meurs. Je vais vers la lumiere.|Je quitte mon corps.
+{47414}{47474}Ma maison est en bas.|Je vois mes pieds.
+{47482}{47545}- Ou allons-nous ?|- Sauver tes enfants !
+{47552}{47606}- Tu es au courant ?|- Tout le monde le sait !
+{47611}{47690}Crochet les a emmenés,|tu dois te battre ! On s'envole !
+{47849}{47920}C'est donc vrai.|Tu as vraiment grandi.
+{47981}{48056}J'ai bu du poison pour toi.|Tu m'appelais " Clochette."
+{48061}{48133}- Tu as tout oublié ?|- Tu es la, bestiole ?
+{48140}{48195}Je ne suis pas une bestiole,|mais une fée.
+{48312}{48358}Je ne crois pas aux fées.
+{48367}{48487}Chaque fois qu'on dit : "Je ne crois|pas aux fées", une fée meurt.
+{48492}{48534}Je ne crois pas aux fées !
+{48820}{48865}Mon Dieu, je l'ai tuée.
+{48899}{48963}Tu es vivante, petite bestiole ?|Attention !
+{48977}{49044}Frappe dans tes mains, Peter.
+{49049}{49085}Pour me sauver la vie.
+{49097}{49130}Applaudis...
+{49164}{49195}Plus fort.
+{49221}{49255}Plus fort, Peter !
+{49329}{49365}J'applaudis !
+{49387}{49427}Mon Dieu, tu es vivante !
+{49437}{49487}Bon. Ou suis-je ?
+{49677}{49758}Tu dois etre une hallucination|freudienne liée a ma mere.
+{49763}{49841}Mais pourquoi des ailes ?|De superbes jambes...
+{49846}{49890}Que dis-je ?|Je suis orphelin.
+{49896}{49968}J'ai jamais pris de drogues,|j'étais comptable en 68.
+{50000}{50021}Cherche bien !
+{50086}{50126}Je vois des étoiles !
+{50131}{50162}C'est ca, Peter.
+{50167}{50240}La deuxieme a droite,|et tout droit jusqu'au matin.
+{50267}{50305}Le Pays lmaginaire !
+{51779}{51830}Quel cauchemar !
+{52237}{52301}Sortez ! Sortez !
+{52574}{52656}Il est beau, mon poisson !|Poisson frais !
+{52661}{52755}On laisse les yeux,|vous en aurez pour la semaine !
+{52869}{52940}Excusez-moi.|Il y a un téléphone dans le coin ?
+{52954}{52976}Ca parait si réel.
+{52981}{53007}Peter, reviens !
+{53012}{53047}Baisse-toi ! Au sol !
+{53055}{53080}Cache-toi !
+{53157}{53203}Tiens, la Mere inférieure.
+{53208}{53251}Messieurs, je cherche quelqu'un.
+{53260}{53335}Ces chaussures vernies|me plaisent bien.
+{53340}{53390}Vous les trouverez chez Armani.
+{53417}{53480}Clochette ! Au secours !
+{53552}{53593}Pas de sang sur les bottines !
+{53601}{53636}Elles sont a moi !
+{53641}{53681}Aide-moi ! Fée Clochette !
+{53716}{53745}Maudit lutin !
+{53842}{53900}Attention !|J'ai des problemes de dos !
+{53946}{53995}Lutin du diable !
+{54184}{54221}De la famille|de Supersouris ?
+{54352}{54411}Si tu veux vraiment voir Crochet...
+{54416}{54449}fais ce que je te dis.
+{54454}{54532}Ton bras gauche est inerte,|laisse-le pendre.
+{54546}{54620}Appuie-toi sur la béquille !|Le pied gauche en dedans.
+{54626}{54695}La tete sur le coté,|l'oeil menacant !
+{54702}{54785}Un rictus sur les levres, bave.|Maintenant, grogne !
+{54791}{54811}Grogne !
+{54816}{54860}- Ca va ?|- Pas mal, et toi ?
+{54866}{54900}Pas mal !
+{55400}{55485}Faites-vous belles, les filles.|Smee arrive !
+{55586}{55621}Suis ce crochet !
+{55629}{55685}Laissez passer le crochet !
+{55727}{55782}Ma mere adore Crochet !
+{55985}{56025}On veut Crochet !
+{56080}{56115}On veut Crochet !
+{56812}{56886}Bonjour, Pays lmaginaire !
+{56891}{56965}Bonjour, M. Smee !
+{56977}{57040}Amarrez le grand mat, matelots.
+{57056}{57111}Le voila !|Le requin rusé !
+{57127}{57157}Le brave barracuda !
+{57186}{57275}Un homme aussi profond|que son sommeil.
+{57317}{57435}Plus rapide que les bruits|qui courent !
+{57476}{57521}Applaudissez-le bien fort...
+{57526}{57580}meme si lui, ne peut pas le faire.
+{57621}{57706}Je vous présente le loup de mer|au croc d'acier...
+{57711}{57779}Ie capitaine Crochet !
+{57785}{57830}Crochet ! Crochet !
+{58050}{58096}Vos hommes vous admirent !
+{58101}{58190}Ces oeufs de raie bruyants.|Comme je les méprise !
+{58195}{58240}A vous, capitaine !
+{58415}{58538}Eh bien, sales sacs d'entrailles|de parasites stupides...
+{58604}{58648}je vais prendre ma revanche.
+{58689}{58723}Vive le capitaine Crochet !
+{58728}{58801}Je l'ai appaté,|et je suis fier d'annoncer...
+{58806}{58851}que nous tenons ses enfants.
+{58864}{58939}Mon Dieu ! Jack et Maggie.
+{58989}{59046}Je vais enfin tuer Peter Pan...
+{59051}{59160}ce gamin culotté qui a coupé ma main|et l'a jetée au crocodile !
+{59174}{59261}Et qui a tué ce crocodile perfide ?|Qui l'a empaillé ?
+{59266}{59306}Qui en a fait une horloge ?
+{59311}{59384}Et est allé dans l'autre monde|enlever les enfants ?
+{59400}{59455}Et qui croyait que j'échouerais ?
+{59472}{59510}Qui doutait de moi ?
+{59536}{59590}Qui est l'intrus parmi nous ?
+{59607}{59635}Il y a un intrus.
+{59640}{59720}Etranger au milieu des fideles,|je t'éliminerai.
+{59797}{59824}Toi !
+{59925}{59960}Toi !
+{60061}{60104}Ou est le tapis, Smee ?
+{60109}{60145}Désolé, capitaine.
+{60211}{60240}Toi !
+{60251}{60292}Toi ! C'est ca, toi !
+{60297}{60352}Non, pas toi ! Pas toi.
+{60379}{60410}Toi.
+{60431}{60455}Toi !
+{60525}{60610}Tu as parié que je ne ramenerais pas|Pan ici, hein ?
+{60662}{60715}Dis la vérité a ton capitaine.
+{60812}{60859}Dis-le. Dis-le.
+{60882}{60910}C'est vrai.
+{60916}{60963}- Tu as fais une belle betise.|- Oui.
+{60990}{61070}- La boite a betises.|- Pitié, non !
+{61619}{61651}Je veux descendre !
+{61656}{61755}Je veux ma maman !|Je veux mon papa !
+{61767}{61811}Bonjour, les enfants.
+{61816}{61874}Vous etes a l'aise ?|C'est douillet ?
+{61880}{61944}Ce sont mes enfants !
+{61949}{61995}Mes enfants !
+{62088}{62121}Tout se passera bien.
+{62188}{62217}Papa est la.
+{62237}{62333}Sortez les enfants de ce filet|ou cherchez-vous un avocat.
+{62338}{62364}Qui es-tu ?
+{62369}{62426}Peter Banning.|Je veux mes enfants.
+{62431}{62460}Ce sont tes...
+{62466}{62501}Ce sont tes enfants ?
+{62509}{62534}Et toi, tu es...
+{62539}{62561}Tu es Peter ?
+{62566}{62615}Peter, toi...? Non !
+{62633}{62704}- Tu es Peter ?|- Il y a un écho ici ? Oui !
+{62709}{62770}Mon grand et digne adversaire ?
+{62822}{62851}Qui est cet imposteur ?
+{62856}{62923}Purée, il plane, ce Peter Pan !
+{62956}{63030}Je ne suis pas Peter Pan.|Juste un homme ordinaire...
+{63036}{63089}J'ai une déclaration signée|de Clochette.
+{63096}{63172}Son dossier médical|et meme dentaire.
+{63202}{63261}Tu veux me faire perdre mon boulot ?
+{63266}{63321}Je vous montre un truc ?|Lachez-moi.
+{63326}{63354}Lachez-le.
+{63359}{63420}- Je veux vous montrer ca.|- Fais-le taire.
+{63514}{63591}- Capitaine, mettez-les.|- Je veux voir la cicatrice.
+{63596}{63628}L'hypertrophie.
+{63647}{63729}Vous l'avez blessé la,|lors de l'incident avec Lis Tigré.
+{63734}{63761}J'ai eu l'appendicite !
+{63766}{63791}C'est quoi ?
+{63796}{63919}Des empreintes de fée. C'est bien Pan,|j'en mettrais ma main a couper.
+{63996}{64040}C'est bien toi ?
+{64054}{64130}Mon pire et digne adversaire ?
+{64149}{64200}Impossible.
+{64221}{64286}Pas ce misérable mollasson,|blanchatre, bouffi...
+{64292}{64365}a tete de morue,|que j'ai sous les yeux.
+{64377}{64450}Tu ne vaux meme pas l'ombre|de Peter Pan.
+{64530}{64606}Vous allez devoir éclaircir|ce probleme.
+{64611}{64631}Ce désastre.
+{64636}{64681}- Qui doit etre réglé.|- A tout prix.
+{64686}{64741}Je veux mes enfants.|L'enjeu est gros.
+{64746}{64850}Mais pour moi, il a rapetissé.|Je veux ma guerre !
+{64855}{64895}Elimine-le !
+{64907}{64958}Papa s'en occupe. Ca va.
+{64994}{65025}Choisis ton arme.
+{65146}{65178}Combien ?
+{65394}{65450}Hissez les gamins plus haut !
+{65632}{65720}J'ai une chose a te proposer,|M. Ie P.D.G. Vole la-haut...
+{65725}{65822}touche les doigts de tes enfants,|et je les libérerai.
+{65830}{65856}Je ne peux pas voler.
+{65861}{65945}Reprends-toi ! Bas les masques !|Libere tes enfants !
+{66051}{66090}Qu'entends-je ?
+{66142}{66175}Tu fais le bouffon.
+{66218}{66310}Peter Pan a un probleme,|il a le vertige.
+{66327}{66380}Je ne suis pas Peter Pan.
+{66388}{66476}Ce n'est rien. Tiens bon, fiston.|J'arrive, trésor.
+{66481}{66555}- Je peux avoir un coup de main ?|- J'ai déja donné.
+{66789}{66822}Sauve-nous, papa !
+{66827}{66885}"Sauve-moi, papa !"
+{66910}{67001}On sait qui tu es !|A quoi tu joues, Peter ? Vole !
+{67006}{67054}Arrete de faire semblant !
+{67129}{67175}Vole ! Je sais que c'est toi !
+{67310}{67380}Tu es Peter Pan. Vole !
+{67387}{67431}Vole !|Aie des pensées agréables.
+{67442}{67536}Touche nos doigts,|et nous pourrons rentrer a la maison.
+{67547}{67636}Touche-les, Peter,|et ce cauchemar se terminera !
+{67641}{67700}Tends le bras et touche-les !
+{67762}{67811}Remue les bras et vole !
+{67872}{67906}Tends le bras !
+{67912}{67966}Allez, papa.|Maman y arriverait.
+{68084}{68173}Je ne comprends pas. Pourquoi|ne vole-t-il pas, ce bellatre ?
+{68178}{68244}C'est Peter Pan,|aucun doute, capitaine.
+{68249}{68354}Il a quitté le Pays lmaginaire depuis|si longtemps, son cerveau a ramolli.
+{68359}{68409}Il a tout oublié.
+{68549}{68605}N'abandonne pas.
+{68916}{68955}Je veux rentrer a la maison.
+{69042}{69150}Messieurs, je passe la main...|Pas de guerre !
+{69177}{69250}Il ne peut pas voler,|mais il peut nager !
+{69262}{69291}Tuez-les.
+{69312}{69340}Tuez-les tous.
+{69374}{69410}Sortez la planche !
+{69487}{69585}Je ne veux plus jamais entendre|le nom de Peter Pan !
+{69644}{69729}Et vous voulez qu'on se rappelle|de vous comme d'une brute ?
+{69734}{69802}Ou comme du grand guerrier|qui a vaincu Pan ?
+{69855}{69967}En une semaine, je le remets sur pied|et vous aurez votre sale guerre.
+{69986}{70095}C'est un piege ! Je vais envoyer|au diable cette mégere bourdonnante !
+{70177}{70231}Vous avez promis aux gens|la guerre du siecle.
+{70236}{70321}C'est le moment de votre vie.|Un combat a la mort. La gloire !
+{70327}{70356}Crochet contre Pan !
+{70361}{70420}Ce n'est pas Pan.
+{70749}{70772}Deux jours.
+{70785}{70844}Quatre. C'est le minimum|pour un Pan convenable.
+{70862}{70889}Trois. Derniere chance.
+{70917}{70945}Marché conclu.
+{70984}{71031}Tu as intéret a réussir,|Clochette...
+{71036}{71148}ou les applaudissements ne suffiront|pas pour te ressusciter.
+{71206}{71229}Ecoutez.
+{71234}{71305}J'ai décidé que le soi-disant Pan...
+{71311}{71394}reviendra dans trois jours pour|trancher notre différend a l'épée.
+{71399}{71426}Smee, traduis.
+{71431}{71476}Dans trois jours, la guerre.
+{71481}{71538}Une lutte a mort|entre le bien et le mal.
+{71719}{71760}Aide-moi !
+{74219}{74248}De la neige !
+{74394}{74424}Quoi ?
+{74728}{74758}Au secours !
+{74883}{74908}Je veux descendre !
+{75023}{75061}Tu es vivant !
+{75072}{75103}Fais-moi descendre !
+{75111}{75136}J'y crois, maintenant !
+{75141}{75193}Debout, les Enfants Perdus !
+{75367}{75397}Pan est de retour !
+{75403}{75462}Les Enfants Perdus !|Réveillez-vous !
+{75492}{75537}Mon oreiller !
+{75568}{75604}Je suis debout.
+{75659}{75712}Réveillez-vous, les marmottes !
+{75724}{75801}Pan est de retour !
+{76189}{76247}C'est qui, le buisson ?
+{76286}{76316}Bangerang !
+{76524}{76563}C'est pas Peter Pan, ca.
+{76569}{76590}Il est vieux.
+{76596}{76622}Il est gros !
+{76628}{76669}Pas si gros que ca.
+{76682}{76752}C'est un vieux gros pépé.
+{76889}{76918}Rufio !
+{77122}{77167}Ca a l'air dangereux.
+{77269}{77327}Ca suffit !
+{77351}{77384}Bon, jeune homme. Assez.
+{77389}{77449}Le spectacle est terminé.|Range-moi ca !
+{77454}{77515}Pose-la avant de crever l'oeil|de quelqu'un.
+{77520}{77602}T'as pas l'age de te raser,|et tu joues avec une épée ?
+{77607}{77709}T'es le cauchemar des assurances,|le Belzébuth de la maternelle !
+{77724}{77766}Ou sont vos parents ?
+{77771}{77815}Qui est votre chef ?
+{77883}{77978}M. Tete-de-putois-avec-trop-de-gel,|tu n'es qu'un morveux.
+{77984}{78033}Je veux parler a un adulte !
+{78039}{78084}Tous les adultes sont des pirates !
+{78089}{78109}Pardon ?
+{78124}{78167}Nous tuons les pirates.
+{78198}{78237}Je ne suis pas un pirate.
+{78246}{78308}En fait, je suis avocat.
+{78333}{78382}Tuez l'avocat !
+{78404}{78452}Non, pas ce genre d'avocat.
+{79007}{79052}On m'a tiré dessus !
+{79162}{79187}Au secours !
+{79192}{79242}A l'aide, je vous en prie !
+{79362}{79421}Ecoutez ! Il a épousé|la petite-fille de Wendy !
+{79426}{79483}Crochet a ses enfants.|Il est un peu rouillé.
+{79489}{79545}Faut le remettre sur pied !
+{79639}{79676}Pourquoi tu me fais ca ?
+{79687}{79767}Rufio, tu es notre plus fine lame.|Apprends-lui.
+{79772}{79827}Faut lui rafraichir la mémoire.
+{80146}{80166}Je vous en prie.
+{80512}{80543}A l'aide !
+{80549}{80592}Pas vous !
+{81206}{81238}Mince ! Un mur.
+{81514}{81569}Arretez, les Enfants Perdus !
+{81736}{81756}Joue !
+{81799}{81826}Joue.
+{82401}{82477}T'es mort, drole d'homme.
+{82492}{82582}Il ne peut pas. Il ne connait meme pas|les jeux les plus simples.
+{82588}{82677}Crochet tient ses enfants,|et j'ai trois jours...
+{82682}{82742}pour le préparer.|J'ai besoin de votre aide.
+{82748}{82828}Peter Pan a des enfants ?
+{83009}{83108}Il ne peut ni voler, ni se battre,|ni pousser de cocoricos.
+{83156}{83252}Si l'un de vous pense|que ce nul n'est pas Peter Pan...
+{83257}{83287}qu'il traverse cette ligne.
+{83464}{83519}Quoi ? Je reviens tout de suite.
+{83549}{83578}Qu'y a-t-il ?
+{83583}{83637}Tu me fais honte !
+{85404}{85463}Oh, te voila, Peter !
+{85921}{85953}Mais, Peter...
+{85959}{86052}tu as grandi. Tu avais promis|de ne jamais grandir.
+{86166}{86213}Son nez a beaucoup grossi.
+{86219}{86307}Bienvenue au Pays lmaginaire,|le grand Pan.
+{86317}{86392}N'écoutez pas cette fée|et ce fongus écervelé !
+{86398}{86462}J'ai son épée !|C'est moi Pan, maintenant !
+{86468}{86564}Et ce type va me l'enlever ?|A moi, Rufio ?
+{86604}{86692}Attendez ! Si Clochette le croit,|c'est peut-etre vrai !
+{86826}{86942}Vous allez suivre ce baveux|contre Capitan Crochet ?
+{86958}{87073}Que fait-il ici, si c'est pas|Peter Pan ? Il n'a pas l'air heureux.
+{87079}{87152}Et ces enfants avec Crochet ?|Donne-lui une chance !
+{87158}{87262}Ce sont mes enfants, et Crochet|les tuera si nous ne faisons rien.
+{87294}{87370}Aidez-moi. S'il vous plait.
+{87386}{87447}Ouais, allez !|Donne-lui une chance !
+{87594}{87652}Je devrais me harponner|avec mon propre crochet.
+{87657}{87742}Je n'ai pas tué Pan|quand je le pouvais.
+{87755}{87832}Qu'ai-je fait ?|Qu'ai-je fait, Smee ?
+{87844}{87928}J'ai accepté un plan irrationnel,|une guerre absurde.
+{87934}{88018}Je suis donc tenu d'attendre,|comme l'indique l'étiquette.
+{88024}{88092}- Je vous prépare une assiette.|- Attendre quoi ?
+{88098}{88221}Dans 3 jours ou 30 ans,|il sera toujours le vieux gros Pan.
+{88236}{88348}Je déteste les déceptions, Smee.|Et je hais mon corps défiguré !
+{88353}{88411}Et je hais le Pays lmaginaire !
+{88416}{88467}Et je hais, je hais...
+{88473}{88577}je hais Peter Pan !
+{88633}{88715}Smee ? Smee ?
+{88767}{88831}Je viens d'avoir|une extraordinaire vision.
+{88941}{88995}Tous les morceaux dépareillés|de ma vie...
+{89001}{89112}s'emboitent|comme un puzzle mystique.
+{89167}{89203}Une épiphanie.
+{89224}{89254}Une "épi" quoi ?
+{89281}{89328}Ma vie est fichue.
+{89333}{89364}L'appétit coupé ?
+{89374}{89408}Oui.
+{89414}{89444}Adieu.
+{89477}{89536}Ou allez-vous ?|Vous nous jouez une scene ?
+{89541}{89567}Adieu, Smee.
+{89573}{89643}Capitaine, on joue avec votre ile ?
+{89656}{89748}Avec les petits lndiens, les soldats|et les Enfants Perdus ?
+{89849}{89923}Rien ne m'arretera,|cette fois-ci, Smee.
+{89929}{89956}C'est la fin.
+{89961}{90039}Ne bouge pas, Smee.|Pas un pas.
+{90049}{90140}J'ai le doigt sur la gachette.|N'essaie pas de m'arreter.
+{90146}{90175}Et c'est reparti !
+{90180}{90200}C'est la fin.
+{90208}{90329}N'essaie pas de m'arreter,|cette fois-ci. N'essaie meme pas.
+{90334}{90436}Tu n'as pas intéret a essayer.|Vas-y, essaie donc.
+{90471}{90537}Bouge tes fesses.|Viens ici !
+{90543}{90578}- J'arrive !|- Empeche-moi !
+{90583}{90665}Ce n'est pas une plaisanterie !|Je me suicide !
+{90766}{90818}Ne me fais plus jamais peur|comme ca.
+{90823}{90867}- Pardon.|- Tu es sadique ou quoi ?
+{90872}{90917}Désolé. Ca va mieux ?
+{90932}{90991}- Je veux mourir.|- Allez, du calme.
+{90996}{91063}- Il n'y a pas d'aventure ici.|- Quoi, " pas d'aventure" ?
+{91068}{91122}La mort est la seule aventure|qui me reste.
+{91128}{91166}Venez vous coucher.
+{91171}{91197}C'est la fin.
+{91202}{91280}- Je suis si fatigué.|- Ne vous mettez pas dans cet état.
+{91286}{91348}Ma carriere est fichue.
+{91354}{91423}Cette guerre devait etre|la plus mémorable.
+{91429}{91500}- Elle le sera, capitaine.|- La guerre finale !
+{91558}{91648}Je dois trouver un moyen|pour l'atteindre et me venger...
+{91654}{91719}Je dois trouver son point faible.
+{91724}{91822}Que je n'ai pas considéré.|Qu'est-ce qui le rend vulnérable ?
+{91842}{91918}Ne parlez plus jamais de suicide.
+{91924}{92007}Que serait ce monde|sans le capitaine Crochet ?
+{92021}{92072}En effet. C'est de bon ton, Smee.
+{92083}{92188}- Que serait le monde sans moi ?|- Exactement.
+{92194}{92238}Je suis pret pour mon petit verre.
+{92244}{92309}Abso-fichtre-lument.
+{92314}{92376}Un peu de malhonneteté|vous ferait du bien.
+{92381}{92448}Ca vous changerait les idées.
+{92453}{92549}Demain matin, on ira tuer|quelques lndiens a Long Tom.
+{92554}{92643}Je suis las de tuer des lndiens et|des Enfants Perdus. Toujours pareil.
+{92649}{92715}Je veux tuer Peter Pan.|Le tuer !
+{92720}{92782}Tu entends ? Je veux le tuer.
+{92787}{92827}Fichtre.
+{93046}{93085}Je viens d'avoir une épithete.
+{93090}{93139}Tu veux dire une "épiphanie" .
+{93149}{93220}J'ai eu un éclair de génie...|dans la tete.
+{93226}{93267}Ca a du faire mal.
+{93272}{93342}- Les enfants de Pan...|- Et alors ?
+{93454}{93491}Vous pourriez devenir leur ami.
+{93513}{93538}Plait-il ?
+{93543}{93592}Non, attendez.
+{93706}{93793}On pourrait forcer ces petits|saligauds a vous aimer.
+{93814}{93884}Aucun enfant ne m'aime.
+{93889}{93967}- Justement, capitaine.|- Que veux-tu dire ?
+{93972}{94046}La meilleure des vengeances.
+{94051}{94118}- Quoi ?|- Les enfants de Pan, amis avec vous.
+{94123}{94157}De quoi parles-tu ?
+{94163}{94213}- La revanche finale.|- Laquelle ?
+{94218}{94247}Imaginez Pan...
+{94253}{94333}vous faisant face, et ses gamins...
+{94338}{94372}a vos cotés...
+{94378}{94495}prets a lutter pour le plus louche|loup de mer, le capitaine Crochet.
+{94501}{94587}- Capitaine, c'est parfait.|- En effet, je vois.
+{94603}{94632}Tu sais, Smee...
+{94638}{94729}j'adore, j'adore, j'adore !
+{94734}{94803}Smee, je viens d'avoir|une idée splendide !
+{94809}{94893}Demain, j'entrerai dans les bonnes|graces des gamins de Pan.
+{94899}{94973}Peter volera a nouveau.|Il se rappellera comment.
+{94979}{95067}Sinon, ces pouilleux d'Enfants Perdus|lui rafraichiront la mémoire.
+{95072}{95177}Tu verras, il poussera son cocorico,|il se battra, volera...
+{95182}{95252}puis il mourra.
+{95482}{95512}Leve les genoux
+{95518}{95552}Pose le pied
+{95559}{95594}Leve-les bien haut
+{95599}{95640}Sans pencher le dos
+{95645}{95719}Pas encore d'allégresse
+{95725}{95798}Tu dois d'abord perdre ta graisse
+{95805}{95878}Tous ces kilos, faut que ca cesse
+{95883}{95993}Bouge-toi, remue tes fesses|Jusqu'aux orteils, tu te baisses
+{95999}{96079}Tu as trop vécu dans la paresse
+{96085}{96116}Remue-toi
+{96121}{96157}Perds du poids
+{96162}{96194}Bien musclé
+{96199}{96219}Tu vas gagner
+{96224}{96337}Saute en l'air, ca fait du bien|T'es tout rouge, ca fait rien
+{96343}{96416}Bouge les bras de tous cotés
+{96421}{96493}Meme si tu sens ton coeur lacher|Faut t'entrainer
+{96499}{96536}Sous la pluie
+{96542}{96572}Au soleil
+{96578}{96616}Dans la neige
+{96621}{96674}Tu te geles|Il faut suer
+{96679}{96720}Il faut bouger|Il faut remuer
+{96768}{96817}Ménage-moi. Je débute.
+{96822}{96851}En bas ! En haut !
+{96943}{97012}A nous deux, grand-pere.|Fais de ton mieux.
+{97018}{97075}Rufio veut t'aider.|Ecoute et apprends.
+{97084}{97137}Pret ?|Je ne veux pas te faire mal.
+{97237}{97274}Gare a ta peau !
+{97282}{97310}Sois bangerang, vieux.
+{97628}{97706}Que faites-vous ? Ca va m'aider|a récupérer mes enfants ?
+{97711}{97745}Je fais quoi, maintenant ?
+{97751}{97859}Tu vas prendre ton vol.
+{97977}{98001}Pensées hagréables
+{98006}{98093}DADAS, BESTIOLES|ANE HIVERSAIRE, CHEWING-GUM
+{98098}{98193}Il suffit d'une pensée agréable,|et tu t'envoleras.
+{98217}{98252}J'en ai une !
+{98269}{98355}Sortir de cette fronde,|cette pensée me réjouit !
+{98401}{98435}Il décolle !
+{98441}{98497}Il atterrit !
+{98576}{98667}Bon, chers éleves, écoutez bien.|On a beaucoup de travail.
+{98672}{98788}" Lecon n°1 : Pourquoi les parents|détestent leurs enfants."
+{98849}{98878}Un volontaire ?
+{98898}{98955}Maman nous lit une histoire|tous les soirs.
+{98961}{99062}Toi, la mignonne petite pipelette|au premier rang...
+{99078}{99166}Pourrais-tu t'adresser|a toute la classe ?
+{99171}{99191}Oui.
+{99196}{99262}Maman nous lit une histoire|tous les soirs...
+{99267}{99327}parce qu'elle nous aime beaucoup.
+{99332}{99372}Vous aime ? Mais c'est...
+{99401}{99452}Le mot maudit, capitaine.
+{99472}{99493}Non, mon enfant.
+{99498}{99612}Ta mere lit tous les soirs|pour vous abrutir de sommeil...
+{99619}{99715}pour pouvoir respirer, avec ton papa,|trois minutes sans vous...
+{99721}{99843}et vos exigences idiotes,|inépuisables, imparables et sans fin.
+{99849}{99887}" Il a pris mon jouet."
+{99893}{99923}" Elle a caché mon ours."
+{99929}{100022}"Je veux mon pot, un gateau.|Je veux encore jouer."
+{100028}{100090}"Je veux, je veux, je veux !"|" Moi, moi, moi !"
+{100095}{100142}"A moi, a moi, a moi !"
+{100147}{100219}"Tout de suite ! Vite, vite ! "
+{100224}{100292}Tu comprends maintenant,|mon enfant ?
+{100303}{100402}- Des histoires pour vous faire taire.|- Et vous endormir.
+{100408}{100495}C'est meme pas vrai, Jack.|Vous mentez !
+{100500}{100557}Mentir ? Moi ?
+{100604}{100642}Jamais !
+{100664}{100738}Dire la vérité est trop drole.
+{100803}{100926}Avant votre naissance, vos parents|restaient éveillés toute la nuit...
+{100934}{100972}pour voir le soleil se lever.
+{100978}{101004}N'aie pas peur.
+{101009}{101132}Maggie, avant votre naissance,|ils étaient plus heureux.
+{101148}{101190}Ils étaient libres.
+{101214}{101279}Vous etes vraiment méchant.
+{101284}{101327}Smee, recale cette limace.
+{101334}{101370}Abso-fichtre-lument.
+{101376}{101417}Recalée ?
+{101482}{101519}Je suis recalée !
+{101592}{101669}Ton pere est allé voir|la piece de ta soeur, non ?
+{101687}{101767}Mais a-t-il assisté|a ton match de base-ball ?
+{101831}{101867}Comment le savez-vous ?
+{101873}{101982}Il a raté le match le plus important,|le jour le plus important...
+{101988}{102042}de ton enfance.
+{102085}{102136}- Je vais lui arracher son crochet !|- Du calme.
+{102141}{102200}Je vous déteste, M. Crochet !
+{102219}{102293}Je te l'avais dit, Smee.|Aucun enfant ne m'aime.
+{102299}{102328}Bien sur que si.
+{102334}{102390}Assez.|Tu déprimes le capitaine.
+{102395}{102499}Jack, écoute-moi ! N'oublie jamais !|N'oublie jamais...
+{102504}{102537}maman et papa !
+{102542}{102624}Il faut t'échapper !|Regagne notre camp, chez nous !
+{102629}{102658}Chez nous ?
+{102759}{102802}Tu es ici chez toi.
+{102871}{102899}D'accord ?
+{103948}{104007}Non... On ne s'en sert pas.
+{104012}{104097}- Pourquoi en avoir, alors ?|- Pour ne pas avoir a s'en servir.
+{104116}{104167}Ne me collez pas !
+{104176}{104210}Allons, Gras Double !
+{104501}{104528}Rendons grace.
+{104533}{104553}Bénissez, Seigneur...
+{104558}{104597}Merci Seigneur !
+{104819}{104868}Tous mes plats imaginaires favoris !
+{104874}{104970}Ignames, pommes, courge-banane !
+{104978}{105077}Avec un bon jus de papaye|dans nos calebasses !
+{105177}{105217}Tu peux souffler ?
+{105856}{105901}Délicieux !
+{106209}{106246}Tu vas le finir ?
+{106301}{106342}Non, je t'en prie.
+{106366}{106390}Mange !
+{106399}{106449}Alors ?|Ou est la vraie nourriture ?
+{106454}{106556}Si tu ne t'imagines pas en Peter Pan,|tu ne le seras jamais, mange !
+{106561}{106631}Manger quoi ? Y a rien.|Gandhi mangeait plus que ca.
+{106636}{106688}C'était ton jeu préféré.
+{106693}{106763}Les jeux, ca suffit, je veux manger !|Un steak, des oeufs...
+{106768}{106882}Impossible. Goinfre-toi,|gros lard ridé !
+{106888}{106955}- Tu es tres impoli...|- Cafard dévoreur de limaces.
+{106960}{106993}Tu peux faire mieux !
+{107002}{107029}Tu l'encourages ?
+{107034}{107148}Montre tes tripes, tete d'oeuf !|Sac de vomi aux fesses pendantes !
+{107154}{107203}Bangerang, Rufio !
+{107208}{107278}Tu ne donnes guere l'exemple|a ces enfants, tu sais ?
+{107357}{107406}Meme pas fini la maternelle.
+{107411}{107483}- Lécheur d'hémorroides.|- Disons, le primaire.
+{107559}{107642}Pet de boeuf baveux|en crotte de nez.
+{107693}{107749}Ca vole bas,|tes insultes pipi-caca.
+{107754}{107793}Usine a prouts !
+{107799}{107883}Face de rat mort|et vomi visqueux de chat !
+{107889}{107918}Croute moisie...
+{107923}{107979}bouton d'acné purulent !
+{107984}{108107}Hamburger aux larves,|avec sauce au jus de chaussettes !
+{108161}{108199}Prof de chimie !
+{108204}{108257}Allez, Rufio, défends-toi.
+{108275}{108295}Langue moisie !
+{108327}{108377}- Prof de maths.|- Enflure.
+{108398}{108431}- Coiffeur.|- Fils a maman.
+{108436}{108463}Gynéco myope.
+{108468}{108530}- Bosse de chameau !|- Bouse de vache !
+{108535}{108584}Cochon, espion,|morpion, cornichon !
+{108589}{108636}Andouille, nouille,|cretouille !
+{108641}{108681}Bangerang, Peter !
+{108753}{108815}Espece d'homme ! Adulte stupide !
+{108820}{108889}Je suis un hamburger aux larves ?|Alors, goute-moi !
+{108903}{108995}Fesse de zebre, nain faiblard,|cervelle d'amibe...
+{109001}{109091}machant tes miasmes,|mort-jaloux de Peter Pan !
+{109096}{109130}C'est quoi, une "amibe" ?
+{109135}{109206}Je vais te le dire !|C'est ca, une amibe !
+{109211}{109290}Une vermine sans cervelle|incapable de voler !
+{109296}{109362}Ne me cherche pas !|Je suis avocat !
+{109736}{109838}Rufio, va lécher la truffe|d'un chien crevé.
+{110034}{110072}Tu y arrives.
+{110082}{110177}- A quoi ?|- Tu te sers de ton imagination.
+{110804}{110927}Tu joues avec nous.|Ca te revient, Peter.
+{111434}{111487}Bois ton jus de papaye, Peter.
+{111519}{111557}C'est bon ?
+{111584}{111617}Bangerang.
+{111669}{111707}Attrape !
+{111893}{111927}Pockets...
+{111933}{111962}attrape !
+{111979}{112032}Hé, t'en veux ?
+{112600}{112653}Pan... attrape !
+{112658}{112685}Prends garde !
+{112690}{112711}Peter, attention !
+{113963}{114008}Je peux te parler ?
+{114014}{114052}Bien sur, Gras Double.
+{114088}{114142}- Je me souviens de Tootles.|- Ah oui ?
+{114147}{114184}Il était perdu, lui aussi.
+{114204}{114241}Comment as-tu pu le connaitre ?
+{114251}{114301}C'était un Enfant Perdu.
+{114309}{114362}Voila ses billes.
+{114404}{114467}Et ses pensées agréables.
+{114643}{114742}- Il les avait vraiment perdues.|- Pour sur.
+{114799}{114842}Peter, tu sais quoi ?
+{114849}{114917}Ma pensée agréable t'aidera.
+{114941}{114979}Qu'est-ce que c'est ?
+{115003}{115057}Je pense a ma mere.
+{115074}{115141}Tu te souviens de ta mere, Peter ?
+{115152}{115187}J'aimerais bien.
+{115241}{115283}Ecoute.
+{115676}{115708}Ma maman chantait ca.
+{115714}{115793}Petit Jack, parle-moi de base-ball.
+{115799}{115914}J'ai oublié. Les gars sont debout|ou a cheval ?
+{115963}{116080}Les étoiles sont mes amies
+{116086}{116179}Jusqu' la fin de la nuit
+{116184}{116277}Et je ne me sens plus seule
+{116291}{116384}Quandje suis ici toute seule
+{116408}{116501}N'est-ce pas merveilleux
+{116519}{116598}Quand on est seul
+{116621}{116708}De ne pas se sentir seul
+{116714}{116837}Pas vraiment seul
+{117901}{117972}Bonne nuit, Pays lmaginaire !
+{118889}{118953}Qu'est-ce que c'est ?|J'entends le bruit.
+{118991}{119055}Smee, le crocodile est ressuscité !
+{119191}{119236}C'est la montre ?
+{119296}{119375}Vous avez bien tué ce croco.|On a cassé les pendules.
+{119380}{119433}Le petit ne savait pas.
+{119498}{119539}Au musée, illico.
+{119873}{119987}Faites bien briller ! Du vernis frais|pour vos jambes de bois !
+{120308}{120354}Des pendules cassées...
+{120360}{120473}Leur tic-tac a pris fin,|et maintenant tout va bien.
+{120495}{120528}Ecoute.
+{120533}{120573}Je n'entends rien.
+{120583}{120660}Je sais ! C'est de bon ton !|Exactement !
+{120665}{120735}Jack, regarde. Viens ici.
+{120740}{120768}Tu peux l'emporter.
+{120773}{120880}C'est le réveil-matin de Barbecue,|l'abominable pirate.
+{120885}{120975}J'ai cassé son réveil|juste apres l'avoir étripé.
+{120980}{121027}Son navire a bien brulé !
+{121033}{121103}Vraiment tres, tres, joli...
+{121247}{121324}Quel est ce bruit ?
+{121362}{121398}Un tic-tac ?
+{121460}{121507}Smee, arrete ce bruit !
+{121525}{121593}Arrete ! Plus de "tic-tic" !
+{121607}{121678}Aucun tic-tac ici.|Plus rien ne marche.
+{121782}{121892}Tiens, juste au cas ou.
+{121920}{121963}Enleve-lui cette montre !
+{122034}{122068}Vas-y.
+{122074}{122116}Tu en meurs d'envie.
+{122122}{122163}Essaie.
+{122189}{122218}Vas-y.
+{122224}{122263}Ca, c'est pour...
+{122279}{122345}m'interdire les bulles|dans mon chocolat !
+{122392}{122481}- De bon ton ! Bravo !|- Merveilleux, hein ?
+{122486}{122566}Ca, pour ne jamais me laisser|sauter sur mon lit !
+{122590}{122661}Arrete le temps, fiston.
+{122666}{122754}Pour toutes les promesses|que tu n'as pas tenues !
+{122759}{122813}Pour ne jamais rien faire avec moi.
+{122851}{122918}Pour un pere toujours|absent, Jack ?
+{123012}{123083}Un pere qui ne t'a pas sauvé|sur le navire.
+{123099}{123149}Qui ne nous a pas sauvés...
+{123154}{123206}Qui ne pouvait pas te sauver.
+{123217}{123288}Non. Il n'a meme pas essayé.
+{123294}{123388}Il était la, nous étions la,|et il n'a meme pas essayé.
+{123480}{123529}Il va essayer.
+{123570}{123624}Reste a savoir :
+{123630}{123715}Ie moment venu,|as-tu envie qu'il te sauve ?
+{123749}{123799}Ne réponds pas tout de suite.
+{123813}{123903}Maintenant, il est temps d'etre|qui tu veux.
+{123930}{123989}Oublie ton foyer...
+{123995}{124062}Ia ou les promesses|ne riment a rien.
+{124087}{124112}Mon quoi ?
+{124145}{124219}Est-ce que je t'ai fait|une promesse...
+{124225}{124303}sans la tenir ?
+{124367}{124408}Hein, fiston ?
+{124796}{124835}A LA GRELUCHE SAOULE
+{125085}{125129}Allez. On y va !
+{125353}{125381}J'aime pas ce jeu.
+{125386}{125458}"Vole le crochet de Crochet,|rapide comme l'éclair."
+{125464}{125507}"Tu en seras fier."
+{125519}{125586}"Tu pousseras ton cocorico."
+{125591}{125693}Mille sabords, Druscilla,|mon gant. Ca commence.
+{125857}{125933}Mon champagne.|Passe-le moi.
+{126050}{126112}Vole le crochet de Crochet,|et cocorico !
+{126596}{126634}Jackie, vas-y mon gars !
+{126655}{126733}Pour tous les matches|que ton papa a loupés.
+{126738}{126805}Crochet ne raterait jamais|un de tes matches.
+{126810}{126846}Tu y es presque. Prends-le.
+{126852}{126934}- Qu'est-ce qu'il a vu ?|- Allez, tu y es presque !
+{126940}{126974}Qu'est-ce qui ne va pas ?
+{126979}{127033}- Prends-le, allez.|- Vole-le, Peter !
+{127065}{127098}Vas-y, Jack.
+{127124}{127158}Et d'un !
+{127456}{127502}Attends les bons lancers.
+{127507}{127551}Attends les bons lancers !
+{127710}{127806}Jack ! C'est le meilleur.|Pas un zéro, notre héros !
+{127846}{127878}Il file en 2eme base !
+{127993}{128033}Non, arretez !
+{128039}{128131}On joue selon les regles de Jack !|C'était de mauvais ton !
+{128137}{128197}Asseyez-vous ! Le jeu continue !
+{128202}{128252}C'est un sport violent,|le base-ball !
+{128374}{128408}Vas-y, Jack !
+{128423}{128489}Cours, Jack ! Regagne ton camp !
+{128669}{128709}" Regagne ton camp, Jack."
+{128714}{128809}Non, Smee !|lls sont dans le désordre !
+{128814}{128854}Qu'ils changent de place !
+{128908}{128943}Echangez !
+{129062}{129151}Ton camp va gagner, Jack !|Ton camp va gagner !
+{129168}{129229}Vas-y, Jack.|Tu vas gagner, Jack !
+{129427}{129473}Pas de balle courbe.
+{130085}{130132}Mon petit Jack !
+{130185}{130212}Mon petit Jack.
+{130435}{130508}Tu as réussi ! Soulevez-le !
+{130610}{130693}Je suis fier de toi.|Tu as réussi, mon fiston !
+{131599}{131624}Faut que je m'envole !
+{131645}{131676}Une pensée agréable.
+{131790}{131848}Une pensée tres agréable !
+{131858}{131893}Un peu moins haut.
+{131952}{131983}Je vais y arriver !
+{134877}{134973}Fais attention. Tu es bien|plus grand qu'autrefois.
+{135002}{135043}Dis quelque chose.
+{135100}{135143}Ma robe te plait ?
+{135259}{135301}Tu es magnifique.
+{135432}{135478}En quel honneur ?
+{135490}{135518}Le tien.
+{135543}{135588}Pour ton retour parmi nous.
+{135730}{135763}Qu'est-il arrivé ici ?
+{135768}{135799}Crochet.
+{135804}{135849}Il a tout brulé apres ton départ.
+{136350}{136383}Un baiser.
+{136628}{136668}C'est la maison de Wendy.
+{136674}{136723}Construite par Tootles et La Plume.
+{136795}{136834}Je m'en rappelle.
+{136884}{136925}Wendy s'asseyait dans ce fauteuil.
+{136960}{137018}Mais il était ailleurs... Ici.
+{137045}{137132}On s'asseyait la et elle, reprisait|et racontait des histoires.
+{137162}{137203}Elle dormait ici.
+{137220}{137267}Clochette, ton logis était juste ici.
+{137317}{137413}Le petit Michael dormait|dans un panier, ici.
+{137660}{137736}L'ourson. Mon ourson.
+{137857}{137933}Maman le mettait dans ma poussette.
+{138068}{138116}Je me souviens de ma mere.
+{138145}{138188}Je me souviens d'elle.
+{138243}{138322}Les meilleures écoles,|sans aucun doute.
+{138337}{138428}Il ira d'abord a Whitehall,|puis a Oxford.
+{138434}{138456}Et bien sur...
+{138461}{138581}apres, il étudiera pour devenir juge|dans le plus prestigieux tribunal...
+{138587}{138696}sans négliger de se marier, de fonder|une famille, et ce qui s'ensuit.
+{138701}{138733}Tout comme son pere.
+{138739}{138800}Le reve de tout adulte|pour ses enfants.
+{138806}{138855}J'avais peur.|Je refusais de grandir.
+{138860}{138933}Tous ceux qui grandissent|meurent un jour.
+{138940}{138983}Alors, je me suis enfui.
+{139239}{139269}Clochette...
+{139300}{139353}tu es venue me sauver.
+{139369}{139463}Tu m'as emmené au Pays lmaginaire.|Tu m'as appris  voler.
+{139530}{139633}Mais j'étais encore petit,|ma mere me manquait.
+{139643}{139723}J'ai décidé de rentrer,|de voler vers ma fenetre.
+{139746}{139767}Elle était fermée.
+{139802}{139835}Ils m'avaient oublié.
+{139945}{140063}J'ai trouvé d'autres fenetres...|qui, elles, étaient ouvertes.
+{140077}{140162}Et l, j'ai rencontré Wendy.|Je courais apres mon ombre.
+{140167}{140273}Je pensais m'unir  mon ombre,|comme le feraient deux gouttes d'eau.
+{140525}{140555}Petit !
+{140628}{140671}Pourquoi pleures-tu ?
+{140727}{140766}Comment t'appelles-tu ?
+{140794}{140883}Wendy Moira Angela Darling.|Et toi ?
+{140892}{140993}Je suis revenu souvent voir Wendy.|Toujours au printemps.
+{141060}{141113}Et Wendy vieillissait...
+{141129}{141154}de plus en plus.
+{141160}{141253}Et je suis venu une derniere fois.
+{141260}{141383}Peter, je ne peux pas partir avec toi.|Je ne sais plus voler.
+{141410}{141463}Je suis vieille, Peter.
+{141485}{141543}J'ai bien plus que 20 ans.
+{141564}{141608}J'ai grandi depuis longtemps.
+{141631}{141684}- Tu avais promis !|- J'ai des enfants.
+{141690}{141750}Ils ont eux-memes des enfants.
+{141755}{141864}Ma petite-fille, Moira,|est endormie dans ce lit.
+{141870}{141920}Quandje l'ai regardée dormir...
+{141925}{141998}quelque chose a changé en moi|pour toujours.
+{142003}{142053}Je vais lui donner un baiser.
+{142085}{142163}Non, Peter !|Pas de boutons, ni de dés.
+{142169}{142273}Elle sera triste quand elle saura|qu'elle ne peut pas te garder.
+{142399}{142470}Je veux dire un vrai baiser.
+{143044}{143118}Normal que tu aies du mal|a avoir une pensée agréable.
+{143153}{143218}Tu as tant de tristes souvenirs.
+{143257}{143298}Au revoir, l'ourson.
+{143347}{143426}Pas un ourson... un fiston !
+{143445}{143473}Papa !
+{143568}{143613}Peter, tu es papa.
+{143708}{143728}Salut, Jack.
+{143733}{143813}Je sais pourquoi je suis revenu.|Pourquoi j'ai grandi.
+{143832}{143903}Je voulais etre pere.
+{143914}{143953}Je suis papa.
+{144010}{144051}Voila ma pensée agréable.
+{144073}{144103}J'ai trouvé !
+{144108}{144168}J'ai trouvé ! J'en ai une !
+{144226}{144246}Je l'ai perdue !
+{144288}{144353}Ne laisse pas filer|cette agréable pensée !
+{145007}{145047}Peter Pan !
+{145700}{145746}Il est de retour !
+{145751}{145788}Le revoila !
+{147093}{147119}Joue !
+{147125}{147163}Joue !
+{147834}{147873}Tu es bien Pan.
+{148370}{148468}Tu peux voler, te battre,|et tu peux...
+{149603}{149637}Clochette, tu es la ?
+{149727}{149755}Tu es triste ?
+{149761}{149810}Ni l'un ni l'autre.|Va-t'en !
+{149815}{149847}Tu es malade.
+{149860}{149904}Il te faut... un thermometre.
+{149909}{149971}C'est comme ca que La Plume|a guéri Wendy.
+{149976}{150037}Non, Peter ! Ce n'est pas ca !
+{150042}{150063}Si !
+{150068}{150132}La Plume a mis le thermometre|dans sa bouche.
+{150158}{150192}Et plus de bobo.
+{150252}{150296}On a des aventures super, non ?
+{150341}{150422}Ta prochaine aventure,|c'est de sauver tes enfants.
+{150441}{150477}Mes enfants ?
+{150513}{150555}Peter Pan a des enfants ?
+{150586}{150619}Pourquoi es-tu ici ?
+{150624}{150674}Pour rester enfant et m'amuser.
+{150679}{150747}J'adore ce jeu. Une autre question.
+{151094}{151135}Mon Dieu ! J'ai réussi !
+{151141}{151232}Clochette, regarde !|Tu as cassé ta maison.
+{151302}{151340}Tu es géante.
+{151393}{151462}Mon seul souhait personnel.
+{151497}{151563}Le plus grand sentiment|que j'aie ressenti.
+{151569}{151687}Et la premiere fois que je suis|assez grande pour y penser.
+{151708}{151792}Peter, je veux te donner un baiser.
+{151879}{151932}Non, un vrai baiser.
+{152069}{152117}Je t'aime, Peter Pan.
+{152133}{152179}Je...
+{152184}{152204}I'aime.
+{152209}{152247}Qui ?
+{152269}{152307}Moi...
+{152313}{152336}Moira !
+{152346}{152392}J'aime Moira...
+{152416}{152475}et Jack et Maggie.
+{152734}{152783}J'ai un plan. Clochette ?
+{152814}{152842}Faut que tu viennes.
+{152882}{152957}A la fin, tu partiras|et ne reviendras plus jamais.
+{153092}{153138}Pourquoi me regardes-tu comme ca ?
+{153168}{153202}Sauve-les.
+{153217}{153252}Va les libérer.
+{153329}{153359}Dépeche-toi, idiot !
+{154349}{154452}C'est un grand moment lorsqu'un pirate|recoit sa premiere boucle d'oreille.
+{154457}{154580}Un peu comme la premiere fois que|tu transperces quelqu'un de ton épée.
+{154644}{154664}Bon, Jack...
+{154669}{154755}penche un peu la tete.
+{154761}{154817}Un peu plus. Voila.
+{154823}{154915}Et courage, mon gars.|Parce que...
+{154921}{154979}ca va faire vraiment mal.
+{155194}{155247}Smee, que se passe-t-il ?
+{155511}{155557}Qui est-ce, capitaine ?
+{155652}{155696}Peter Pan.
+{155704}{155763}Ca fait trois jours, déja ?
+{155777}{155812}C'est vrai, Peter...
+{155818}{155877}Ie temps s'envole.
+{155919}{155981}Toi aussi, je vois.
+{155991}{156107}Et ces jolis collants|te vont encore ?
+{156196}{156263}Rends-moi mon fils,|et je te laisse partir.
+{156271}{156394}Demande-lui directement.|Jack, quelqu'un veut te voir, fiston.
+{156484}{156552}Donne-moi la main.|On rentre chez nous.
+{156559}{156596}Je suis chez moi.
+{156624}{156656}De bon ton !
+{156668}{156763}Tu vois, Peter, c'est mon fils.|Il m'aime tendrement.
+{156769}{156844}Et je suis pret|a me battre pour lui.
+{156849}{156932}J'ai attendu longtemps|pour croiser le fer avec toi.
+{156964}{157002}Prépare-toi a passer|de vie a trépas.
+{157026}{157077}Je vais pas y aller|de main morte.
+{157829}{157940}N'est-ce pas formidable ? Une goutte|de sang et je ne m'arrete plus !
+{157946}{158002}Ah, la vie de pirates !
+{158061}{158141}- Je le connais ?|- Non, tu ne l'as jamais vu !
+{158184}{158256}Difficile a croire,|mais j'ai trouvé une pensée agréable.
+{158261}{158335}J'ai mis trois jours,|et devinez quoi ?
+{158340}{158379}Je me suis envolé !
+{158384}{158437}Tu sais ce que c'était ?
+{158543}{158582}C'était toi.
+{158819}{158905}C'est mon papa...|mais il a le vertige !
+{159912}{159979}Appelez la milice !|Nous avons besoin de tous nos hommes !
+{160187}{160305}Si quelqu'un ne se bat pas encore,|venez vite !
+{160519}{160567}En rang !
+{160574}{160647}En rang !
+{160668}{160731}Montrons-leur de quel bois|on se chauffe !
+{160736}{160811}N'oubliez pas, les flammes de l'enfer|vous ont forgés !
+{160816}{160864}A l'attaque !
+{160909}{160947}Tout de suite !
+{161053}{161132}On va voir qui est la poule mouillée !|Regarde !
+{161689}{161752}Smee ! Fais quelque chose|d'intelligent !
+{161809}{161877}"Smee, Smee" ! Et Smee, alors ?
+{161939}{161977}Et Smee ?
+{162001}{162027}Et moi, alors ?
+{162219}{162254}Je déboule !
+{162544}{162574}Feu !
+{162842}{162884}Hé, attendez !
+{162923}{162950}Attention, en bas !
+{163117}{163194}A l'aide !
+{163443}{163497}Et voila. Prends ca, vite !
+{163514}{163567}Les Enfants Perdus, baissez-vous !
+{163723}{163764}Mes yeux !
+{163772}{163852}A la bonne heure, Smee.
+{164085}{164160}Ou allez-vous ?|Eloignez-vous de la fenetre !
+{164417}{164445}Crochet !
+{164684}{164727}Je me charge du vieil homme.
+{164737}{164822}Jack ! Sauve-moi !
+{164827}{164864}Maggie !
+{165120}{165141}Descends de la !
+{165222}{165260}Papa !
+{165309}{165343}Mais, tu es...
+{165349}{165382}Peter Pan.
+{165774}{165872}Peter Pan est mon papa ?
+{166337}{166387}Je ne te perdrai plus jamais.
+{166456}{166527}Les Enfants Perdus, on les tient !
+{167378}{167421}Pan arrive !
+{167528}{167567}Je vais t'embrocher,|vieux Crochet.
+{167634}{167676}Crochet ! Non !
+{167866}{167907}Tu sais ce que je regrette ?
+{167913}{167938}Quoi ?
+{167994}{168048}De ne pas avoir de pere...
+{168065}{168102}comme toi.
+{168209}{168262}Papa, je suis désolé.
+{168529}{168592}Pret a m'affronter, Peter ?
+{168609}{168682}Allez, fais-moi plaisir.
+{168891}{168919}Je veux rentrer.
+{168924}{168986}De quoi parles-tu ?|C'est chez toi, ici.
+{169303}{169335}Ou vas-tu ?
+{169679}{169708}Les Enfants Perdus !
+{169816}{169891}Ou vas-tu ?|Reviens ici te battre !
+{169896}{169945}Je te trouverai, ou que tu sois !
+{169951}{170001}C'est de mauvais ton, Peter !|Reviens.
+{170006}{170092}Vous avez vraiment besoin|d'une maman !
+{170162}{170212}Smee ! Suis-moi !
+{170219}{170294}- Les escaliers !|- Je rangeais vos...
+{170344}{170403}Ou que tu ailles, ou que tu sois...
+{170409}{170513}il y aura toujours des poignards|avec des mots signés : " Crochet" .
+{170519}{170628}Je les lancerai aux portes des enfants|des enfants de tes enfants.
+{170634}{170677}Tu m'entends ?
+{170919}{170957}Que veux-tu, vieil homme ?
+{171064}{171091}Toi, c'est tout.
+{171096}{171147}Tu me veux, tu m'auras.
+{171239}{171297}Pan " Le Vengeur" est de retour.
+{171302}{171396}Et Crochet l'attend, Peter Pan.
+{171644}{171679}Crochet contre moi, seul.
+{171685}{171751}- Tu vas mourir.|- Mourir serait une grande aventure.
+{171756}{171822}La mort est la seule aventure|qui te reste.
+{172092}{172137}Je t'imaginais plus grand.
+{172142}{172184}Pour un enfant, oui.
+{172549}{172590}Prends ton courage a une main !
+{172947}{172992}De bon ton, mon vieux.
+{173089}{173178}Tu sais, tu n'es pas Peter Pan.|Tout ceci n'est qu'un reve.
+{173184}{173288}A ton réveil, tu seras Peter Banning,|un homme égoiste qui boit trop...
+{173294}{173407}qui est obsédé par la réussite,|et néglige sa femme et ses enfants.
+{173454}{173498}Je crois en toi.
+{173503}{173569}- Je crois en toi.|- Je crois en toi, Peter.
+{173604}{173653}Je crois en toi.
+{173699}{173735}Tu es le grand Pan.
+{173741}{173785}Tu es Peter Pan.
+{173840}{173864}Je crois en toi...
+{173892}{173927}Peter Pan.
+{174407}{174442}- C'est de mauvais ton !|- Arrete !
+{174473}{174504}Finissons-en.
+{174741}{174806}Fripouille !
+{175124}{175157}Il a peur d'une pendule !
+{175162}{175267}Je crois plutot que Crochet|a peur du temps qui passe !
+{175769}{175862}De bon ton, Peter. Je suis perdu.
+{175941}{176057}Laisse-moi ma dignité. Tu as eu|ma main. Tu me dois quelque chose.
+{176359}{176469}Tu as tué Rufio et kidnappé|mes enfants. Tu mérites de mourir.
+{176474}{176577}Frappe, Peter Pan. Droit au but.
+{176592}{176704}Papa, viens, on rentre.|S'il te plait ?
+{176709}{176779}C'est un vieux méchant|sans maman.
+{176799}{176892}Oui, papa, on y va.|Il ne peut plus nous faire de mal.
+{176911}{176982}Béni sois-tu, mon enfant.|De bon ton, Jack.
+{176987}{177087}Apres tout, que serait le monde...
+{177116}{177157}sans le capitaine Crochet ?
+{177189}{177272}Remonte a bord de ton navire,|et va-t'en.
+{177280}{177350}Je ne veux plus jamais te revoir|au Pays lmaginaire.
+{177532}{177610}- Attention !|- Ce Pays n'est rien sans moi !
+{177654}{177722}Les enfants pourront lire :
+{177727}{177807}" Et ainsi périt Peter Pan."
+{178069}{178118}Que se passe-t-il ?
+{178704}{178785}Je veux ma maman !
+{179284}{179332}Crochet a disparu.
+{179342}{179407}Crochet a disparu !
+{179617}{179637}Plus de Crochet !
+{179643}{179720}Plus de Crochet !
+{179803}{179857}Bravo, le grand Pan !
+{180042}{180092}Qu'y a-t-il, Peter ?
+{180101}{180221}Je ne peux pas rester.|J'ai fait mon devoir, je dois rentrer.
+{180312}{180387}Clochette, fais briller mes enfants.
+{180607}{180720}Jack, Maggie, il suffit d'avoir|une pensée agréable...
+{180726}{180767}et vous volerez comme moi.
+{180866}{180895}Maman !
+{180927}{180962}Mon papa...
+{180989}{181027}Peter Pan.
+{181127}{181177}Clochette, tu connais le chemin.
+{181184}{181227}J'arrive tout de suite.
+{181759}{181847}Ne nous quitte pas, Peter,|et ne dis pas adieu.
+{181854}{181888}C'est quoi "adieu" ?
+{181894}{181957}C'est quand quelqu'un s'en va.
+{181963}{182009}Il oubliera tout, a nouveau.
+{182014}{182082}Vous etes mes Enfants Perdus.|Je ne vous oublierai jamais.
+{182099}{182129}Jamais.
+{182209}{182257}Qui va etre le chef ?
+{183119}{183202}Je veux que tu proteges|tout ce qui est plus petit que toi.
+{183229}{183281}Et moi, je protege qui ?
+{183304}{183342}Les lnsectes lmaginaires.
+{183373}{183412}Les tout petits.
+{183949}{184028}Ce jeu était génial.
+{184044}{184092}Merci d'y avoir cru.
+{184946}{184981}Je la reconnais.
+{185006}{185069}On dirait un ange.
+{185074}{185132}Laissons-la dormir.
+{186298}{186387}Mon enfant,|tu ne t'es pas couchée ?
+{186414}{186497}Je les imagine si souvent|dans leur lit, en reve.
+{186511}{186564}Quand je me réveille, ils sont la.
+{187599}{187682}Clochette ? Clochette ?
+{187903}{187923}Bonjour.
+{187999}{188098}Des ennuis avec votre bonne femme ?|Ca va chauffer pour vous.
+{188249}{188269}Clochette !
+{188317}{188402}Dis-le, Peter.|Dis-le pour de vrai.
+{188439}{188482}Je crois aux fées.
+{188494}{188562}Tu connais cet endroit,|entre le sommeil et le réveil...
+{188574}{188621}quand tu te souviens de tes reves ?
+{188679}{188732}C'est la que je t'aimerai|toujours...
+{188756}{188796}Peter Pan.
+{188864}{188907}C'est la que je t'attendrai.
+{189388}{189424}Nana !
+{189429}{189507}Un baiser !|Viens ici, grosse bete baveuse !
+{189693}{189727}Clochette ?
+{190154}{190235}Brad ! Salut ! Tu es resté en ligne|tout ce temps-la ?
+{190259}{190338}Je suis en pleine forme !|Le Pays lmaginaire !
+{190369}{190475}Les Enfants Perdus. Capitaine Crochet.|Le duel. Je te raconterai.
+{190481}{190523}J'aimerais bien papoter...
+{190529}{190582}mais je dois escalader|une gouttiere.
+{190597}{190717}Parce que j'ai plus de poudre de fée,|sinon je volerais. Quelle question !
+{190869}{190943}- Il y avait des pirates !|- Et des monstres !
+{190961}{190994}Tu avais raison !
+{190999}{191032}Mamie Wendy !
+{191059}{191082}Ouvrez-moi !
+{191099}{191132}S'il vous plait.
+{191194}{191251}Vous avez rendez-vous ?
+{191314}{191387}La fenetre !|Je te l'ai dit cent fois !
+{191394}{191427}Laisse-la ouverte !
+{191471}{191542}Ne la ferme jamais...
+{192011}{192047}Faut que je réponde.
+{192052}{192155}Tu as déja ressenti|le plaisir de voler ?
+{192161}{192202}C'est le moment.
+{192226}{192262}Ou étais-tu ?
+{192267}{192297}Fais-moi voler, papa !
+{192302}{192387}Quand tu veux, Maggie.|Vers l'infini.
+{192401}{192442}Bonjour, Peter.
+{192458}{192537}J'ai encore raté l'aventure, hein ?
+{192577}{192627}Ceci t'appartient.
+{192926}{192946}Regardez !
+{192956}{193033}Regardez ! Je n'avais pas perdu|mes billes, finalement !
+{193039}{193074}Wendy, regarde ! Tu vois ?
+{193079}{193142}Je n'avais pas perdu la boule !
+{193186}{193229}Bonjour, mon garcon.
+{193254}{193297}Bonjour, dame Wendy.
+{193314}{193342}Fais-moi un calin.
+{193609}{193653}Pourquoi pleures-tu, petit ?
+{193666}{193742}Je ne sais pas. Une larme|pour chaque pensée agréable.
+{193749}{193769}Une pour moi ?
+{193791}{193832}- Une pour moi ?|- Pour moi ?
+{193838}{193890}Et une pour moi !
+{194243}{194290}Profite de l'instant présent !
+{194373}{194448}Tes aventures ont pris fin.
+{194454}{194488}Oh, non.
+{194494}{194530}Vivre...
+{194536}{194602}Vivre, c'est la plus belle aventure.
+

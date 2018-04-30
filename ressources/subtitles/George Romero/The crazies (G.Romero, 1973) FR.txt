@@ -1,0 +1,1232 @@
+{910}{972}Billy, tu me fais peur.
+{992}{1052}Arrête ou je vais le dire à Maman.
+{1076}{1098}Arrête Billy !
+{1126}{1167}Retourne te coucher.
+{1472}{1508}Arrête, j'ai peur !
+{1572}{1618}Arrête de me faire peur !
+{1674}{1720}- Qu'est-ce qui se passe ?|- Derrière toi !
+{1910}{1943}Tais-toi.
+{2155}{2195}C'est tout mouillé.
+{2269}{2312}Ça sent l'essence.
+{2407}{2438}Maman ! Papa !
+{2491}{2527}Maman, lève-toi.
+{2695}{2709}Papa ?
+{2752}{2771}Maman, lève-toi !
+{3246}{3333}LA NUIT DES FOUS VIVANTS
+{3962}{4008}Et merde, la sirène !
+{4019}{4060}Quelle sirène ?
+{4082}{4125}Celle-là tiens !
+{4192}{4237}J'ai rien entendu.
+{4339}{4414}Toi tu es une menace
+{4422}{4530}pour la brigade de pompiers volontaires|d'Evans City.
+{4709}{4769}Le médecin t'a dit d'y aller doucement.
+{4790}{4823}Qu'est-ce qu'il en sait ?
+{4840}{4868}Il sait
+{4874}{4970}combien vous aimez|vous adonner à la luxure ma chère.
+{4987}{5028}Il pense avant tout au bébé.
+{5069}{5122}Alors on fera attention.
+{5162}{5291}S'il arrive quelque chose au bébé|tu ne m'épouseras pas.
+{5302}{5343}Je ne veux pas|courir le risque.
+{5350}{5393}Comment tu peux dire ça ?
+{5400}{5457}C'est toi que j'épouse,|pas le bébé.
+{5520}{5577}Je ne veux pas que tu y ailles.
+{5747}{5778}Où tu vas ?
+{5784}{5837}David,|je dois répondre au téléphone.
+{5854}{5883}Quel téléphone ?
+{5902}{5966}Bon, je te propose un accord.
+{5994}{6050}Je ne réponds pas si tu restes ici.
+{6065}{6091}Ça marche.
+{6362}{6391}C'est affreux.
+{6430}{6478}Bien sûr, j'arrive.
+{6487}{6520}Oui docteur.
+{6662}{6683}Qu'est-ce qu'il y a ?
+{6690}{6745}- Un incendie à la laiterie.|- Chez Mitchell ?
+{6759}{6843}Les enfants sont grièvement blessés.
+{6877}{6989}Ils vont rester chez le Dr Brookmyre|en attendant une ambulance.
+{7192}{7211}C'est où ?
+{7217}{7277}À la laiterie.|Ça doit être vilain.
+{7285}{7342}Je voyais les flammes|d'où j'étais.
+{7350}{7405}T'as vu les soldats Clank ?
+{7412}{7455}- Quels soldats ?|- Des camions entiers !
+{7484}{7501}Ces guignols...
+{7507}{7550}Va savoir ce qu'ils foutent là.
+{7595}{7648}- David est arrivé ?|- Je l'ai pas vu.
+{7654}{7686}C'est quoi ces tronches ?
+{7692}{7709}File une sèche.
+{7725}{7761}T'as pas l'air pressé.
+{7797}{7819}J'ai un truc à faire.
+{8400}{8419}Salut Judy.
+{8447}{8524}La brigade des pompiers s'excuse|de vous avoir sortis du lit.
+{8545}{8612}- Tu dis n'importe quoi.|- Et toi tu es en retard !
+{8620}{8668}- J'étais le premier.|- Tu seras prudent ?
+{8675}{8699}C'est promis.
+{8715}{8746}T'inquiète pas.
+{8752}{8783}Je le surveille.
+{8795}{8836}T'as pas choisi le bon.
+{8842}{8905}Tu trouveras jamais de fille.
+{8912}{8932}Tu vas voir toi.
+{8980}{9007}C'est-y pas mignon ?
+{9020}{9058}Ferme-la et démarre.
+{9335}{9356}Où est le Dr Brookmyre ?
+{9362}{9420}- Vous êtes l'infirmière ?|- Où est le docteur ?
+{9427}{9449}Avec le major Ryder.
+{9477}{9525}- Le major Ryder ?|- Il vous reste des seringues ?
+{9532}{9585}- Qu'est-ce qui se passe ?|- Le major vous le dira.
+{9593}{9662}Je n'ai pas le temps.|Apportez-moi des seringues.
+{9680}{9744}La petite est morte|mais je peux sauver le garçon.
+{9757}{9776}Dépêchez-vous !
+{10040}{10073}Vous le saviez !
+{10080}{10121}Jamais on aurai cru|ça possible.
+{10124}{10158}Mais votre note disait...
+{10165}{10249}Cette note était une simple précaution.|C'était impensable.
+{10257}{10336}On doit demander à l'hôpital|d'envoyer une ambulance.
+{10345}{10446}Impossible, nous n'utilisons|que du matériel militaire.
+{10455}{10481}Je m'y oppose !
+{10493}{10584}Écoutez,|toute la ville est en quarantaine.
+{10607}{10645}Des nouvelles de Peckem ?
+{10763}{10813}Donnez un masque au docteur.
+{10942}{10997}Ils ont déjà trois cas déclarés.
+{11005}{11065}On attend le résultat|des examens sanguins.
+{11074}{11120}Il nous faut quelqu'un|de chez Trixie.
+{11157}{11184}Je pars pour l'aéroport.
+{11190}{11254}Je serai à Evans City|dans deux heures.
+{11275}{11328}Prenez soin|de ne pas alerter la presse.
+{11364}{11451}Je vous rappelle|une fois arrivé là-bas.
+{11460}{11481}À plus tard.
+{11548}{11588}Passez-moi le major Ryder.
+{11677}{11744}Vous avez prévu|un cordon de sécurité ?
+{11752}{11805}Trois compagnies vont suivre.
+{11813}{11909}Elles seront là avant moi.|Faites de votre mieux entre-temps.
+{11917}{11977}Personne n'entre ni ne sort,|je suis clair ?
+{11988}{12021}Je ne veux aucune fuite.
+{12037}{12129}Vérifiez l'empreinte vocale|avant toute communication.
+{12137}{12216}Ne parlez à personne|sans avoir reçu de confirmation.
+{12225}{12261}C'est un ordre.
+{13058}{13084}Qu'est-ce qui se passe ?
+{13090}{13140}Un incendie, ça se voit non ?
+{13150}{13172}Je parlais des soldats.
+{13187}{13252}Laissez cramer la baraque !
+{13260}{13281}On laisse tomber ?
+{13292}{13362}Discute pas|et va filer un coup de main !
+{13370}{13447}Dégage-moi les arbres|près du garage.
+{13457}{13500}Tu sais où est la tronçonneuse.
+{13543}{13574}N'importe quoi...
+{13607}{13653}Il est devenu fou.
+{13665}{13711}C'est lui qui a mis le feu.
+{13718}{13754}Il a tué sa femme.
+{13793}{13862}Quand on l'a trouvé|il rigolait comme un perdu.
+{13897}{13969}Et d'un coup,|comme s'il se rendait enfin compte,
+{13978}{14019}il s'est mis à chialer.
+{14026}{14083}Ma voiture ! Elle va sauter !
+{14090}{14119}Dépêchez-vous !
+{14125}{14154}Mon petit garçon !
+{14175}{14223}Par la fenêtre !
+{14242}{14269}Mes arbres !
+{14275}{14297}Mes arbres !
+{14303}{14343}Ils vont tous y passer !
+{14435}{14540}Les ultraviolets vous dispensent|du port du masque
+{14550}{14641}sauf pour le personnel médical|et les volontaires civils.
+{14673}{14711}Les masques sont nécessaires
+{14718}{14797}en dehors de la zone de sécurité.
+{14805}{14862}- Il reste du sérum ?|- Très peu.
+{14870}{14923}Vous faites les choses en grand.
+{14931}{14959}Ça arrive docteur !
+{14965}{15080}Je ne suis pas magicien.|Tout sera là d'ici quelques heures.
+{15101}{15177}Cet antibiotique augmentera|votre résistance.
+{15185}{15257}La compagnie A est arrivée.|Qu'est-ce qu'on fait du matériel radio ?
+{15265}{15322}Installez-le ici pour l'instant.
+{15432}{15449}Je vais le faire.
+{15545}{15603}- Qu'est-ce qui se passe ?|- Écoute-moi.
+{15611}{15659}La ville est en quarantaine.
+{15665}{15740}Tu ne dois faire courir|aucun risque au bébé.
+{15748}{15812}- Quel risque ?|- Ne dis rien.
+{15820}{15930}C'est un virus très contagieux.|Je ne veux pas de toi ici.
+{15947}{16002}- Je vous serai utile.|- Sûrement pas.
+{16010}{16051}L'armée est en route.
+{16060}{16099}- L'armée ?|- Écoute-moi.
+{16126}{16193}Tu vas devoir filer en douce.
+{16223}{16297}Prends des antibiotiques pour David.
+{16305}{16399}Rejoins-le et évitez tout contact|avec la population.
+{16475}{16566}Docteur, on devrait envisager|des locaux plus grands.
+{16575}{16637}Si ça s'aggrave|il nous faudra une infirmerie.
+{16645}{16700}Mademoiselle,|allez aider notre médecin
+{16708}{16768}à faire des injections|à toute la troupe.
+{16775}{16830}Il n'y a pas assez de seringues !
+{16845}{16886}Fais ce que je dis.
+{17176}{17197}Ça brûle ?
+{17203}{17222}Oui m'dame.
+{17240}{17276}- C'est bon.|- Merci.
+{17630}{17685}Déballez-moi tout ça !
+{17693}{17712}Major Ryder.
+{17730}{17797}Vous disiez vouloir|des locaux plus grands.
+{17818}{17875}Le lycée vous conviendrait ?
+{18043}{18081}Il faut informer la population !
+{18088}{18164}On attend justement|un stock de haut-parleurs.
+{18173}{18219}Allez savoir quand ça arrivera !
+{18630}{18671}Il est moins vingt-cinq,
+{18678}{18730}on est ensemble jusqu'à minuit,
+{18738}{18781}tout de suite le flash info.
+{18795}{18870}Temps frais et nuageux|sur la Pennsylvanie
+{18878}{18922}avec risques d'averses.
+{19090}{19152}Magnez-vous le train.
+{19160}{19232}Allez les gars,|plus vite que ça !
+{19385}{19407}Te voilà toi !
+{19425}{19497}Shérif, les militaires ont installé|des barrages routiers.
+{19505}{19546}Il y en a sur la I-80.
+{19553}{19577}C'est quoi ce binz ?
+{19582}{19645}Il y aura une annonce|ce soir à l'église.
+{19653}{19717}En ville|personne ne sait ce qui se passe.
+{19725}{19773}- Il y a des soldats partout.|- Comment ça ?
+{19783}{19822}- Ce major, il est où ?|- Chez le toubib.
+{19831}{19888}C'est là qu'ils installent leur QG.
+{19895}{19917}Chez Brookmyre ?
+{19923}{19999}Seuls les militaires|se font vacciner.
+{20008}{20039}C'est quoi, ce cirque ?
+{20043}{20112}Un camion de bidasses a débarqué.
+{20121}{20174}Un camion ?|Ils sont des centaines !
+{20181}{20207}Des centaines ?
+{20213}{20249}Occupez-vous d'abord|de cet incendie.
+{20263}{20332}- On veut savoir shérif.|- J'en sais pas plus que toi.
+{20591}{20634}- T'en penses quoi ?|- Judy est chez Brookmyre.
+{20648}{20705}J'ai la bagnole|si tu veux y faire un saut.
+{20728}{20754}En route.
+{20981}{21019}C'est l'office du samedi soir.
+{21026}{21074}Nous serons aussi discrets|que possible.
+{21098}{21149}Je pourrais faire rester les gens|après la messe.
+{21156}{21184}Non mon père.
+{21206}{21277}Il faut informer les gens|le plus tôt possible.
+{21285}{21352}Nous sommes habilités|à agir de la sorte.
+{21360}{21389}Avec ou sans votre accord.
+{21414}{21469}Un avion s'est écrasé ici|la semaine dernière.
+{21475}{21523}Il transportait|un vaccin expérimental.
+{21546}{21658}L'accident peut avoir provoqué|la propagation d'un virus.
+{21691}{21770}Nous devons attendre|avant d'alerter la presse.
+{21779}{21879}Il faut prévenir les habitants,|ça devrait déjà être fait.
+{21888}{21938}Tout ira bien|d'ici quelques heures.
+{21945}{22012}Il sera peut-être trop tard !
+{22020}{22130}Instaurer la loi martiale|revient à agiter un drapeau rouge !
+{22140}{22222}Face à une telle force d'invasion|les gens vont résister.
+{22231}{22281}Le sort d'Evans City nous préoccupe
+{22288}{22386}mais nous pensons avant tout|à la sûreté nationale.
+{22410}{22501}Il faut rassembler les habitants|dans un même endroit.
+{22511}{22576}On résout le problème de communication
+{22584}{22627}et on empêche la contagion.
+{22636}{22694}Les lignes extérieures|ont été coupées
+{22700}{22770}et un brouillage radio|est en place.
+{22795}{22846}Il faut joindre le président
+{22854}{22909}et faire décoller|un bombardier nucléaire.
+{22916}{22944}C'est un peu exagéré.
+{22951}{23016}On ne peut écarter aucune éventualité.
+{23040}{23074}Trixie risque de gagner
+{23081}{23126}tout le continent.
+{23133}{23157}Très bien.
+{23181}{23197}Appelez le président.
+{23253}{23294}Nous lui suggèrerons
+{23303}{23353}d'ordonner le décollage|d'un appareil
+{23360}{23387}pour une mission d'entraînement
+{23401}{23427}au-dessus d'Evans City.
+{23483}{23555}Avec à son bord|un engin d'une taille suffisante
+{23563}{23621}pour atomiser toute la zone.
+{23879}{23895}Trixie a appelé ?
+{23901}{23942}L'équipe n'est pas au complet
+{23949}{24054}mais ceux qui ont été contactés|sont en route pour Fort Dietrich.
+{24063}{24101}Et Evans City ?
+{24108}{24151}Ils cherchent qui envoyer.
+{24158}{24208}N'importe qui fera l'affaire !
+{24228}{24267}C'est une erreur.
+{24273}{24297}Qu'il parte immédiatement !
+{24303}{24339}Une erreur monumentale !
+{24346}{24365}N'importe qui !
+{24383}{24409}Au diable la procédure !
+{24416}{24483}Nos ordres sont de vous mettre|dans cet avion.
+{24503}{24587}J'occupe un poste-clé|au sein de l'équipe Trixie.
+{24596}{24646}J'ai mis au point ce produit.
+{24653}{24722}J'ai besoin d'un labo|et de mon ordinateur.
+{24738}{24777}Nous avons des ordres.
+{24784}{24834}C'est aberrant !
+{24841}{24896}C'est un technicien|qu'il vous faut !
+{24911}{25000}M'envoyer là-bas|c'est m'empêcher d'agir !
+{25008}{25051}Sans matériel|je ne peux rien faire !
+{25058}{25099}Vous verrez ça|avec mes supérieurs.
+{25106}{25149}Vous n'imaginez pas|les conséquences !
+{25156}{25187}Navré, j'ai des ordres.
+{25194}{25251}Je m'en fous,|arrêtez cette voiture !
+{25258}{25308}Je ne vais pas me laisser faire.
+{25316}{25352}Nous verrons bien.
+{26004}{26080}Ces empreintes vocales|sont une perte de temps.
+{26106}{26209}Si ça continue|je prends les décisions moi-même.
+{26249}{26335}Jusqu'à l'arrivée de Peckem|c'est moi qui commande.
+{26344}{26420}Vous parlez à un officier du NBC,|pas à un simple troufion !
+{26428}{26505}Vous ne savez pas ce que c'est|d'être sur le terrain.
+{26514}{26605}Je ne peux pas boucler une ville|et faire la guerre !
+{26614}{26642}Il me faut plus d'hommes !
+{26656}{26738}Les bouseux du coin|sont tous armés.
+{26746}{26794}Que tout soit nickel|de notre côté ?
+{26798}{26848}Du vôtre c'est comment ?
+{26886}{26922}Voyons ce qu'on peut faire.
+{26929}{26967}La population résiste
+{26974}{27027}et il y a d'autres cas d'infection.
+{27036}{27074}Le major Ryder|demande des renforts.
+{27081}{27127}J'attends l'avis|du colonel Peckem.
+{27169}{27229}Peckem sera bientôt sur place.|Ils peuvent tenir.
+{27236}{27291}Ce n'est pas ce qu'ils disent.
+{27299}{27323}Allons Frank !
+{27333}{27400}C'est une brigade anti-émeutes !
+{27408}{27470}Ils seraient incapables
+{27478}{27517}d'occuper une petite ville
+{27526}{27559}jusqu'à demain matin ?
+{27781}{27815}Votre attention !
+{27834}{27901}La ville est en quarantaine.
+{27909}{28000}Suivez-nous jusqu'au lycée|où on vous en dira davantage.
+{29289}{29339}Dites-moi ce qui se passe.
+{29366}{29424}Qu'est-ce que vous faites ?
+{30528}{30564}Pas de ça avec moi.
+{30571}{30585}C'est bon.
+{30594}{30632}9 heures. Paré.
+{30639}{30720}Écoutez-moi Ryder.|On m'a tout raconté.
+{30729}{30803}Je n'apprécie pas des manières de ce genre.
+{30811}{30900}Je sais mais personne n'avait prévu|une telle éventualité.
+{30909}{30978}Nous avons dû réagir immédiatement.
+{30986}{31027}Ça ne devait pas arriver.
+{31034}{31108}Nous avons tout fait|pour étouffer l'affaire
+{31117}{31155}et éviter la panique.
+{31161}{31206}Nous n'imaginions pas ça !
+{31214}{31272}Nous non plus.
+{31287}{31363}Nous tentons de réunir|les habitants au lycée
+{31371}{31400}pour y installer l'infirmerie.
+{31406}{31437}La loi martiale est décrétée ?
+{31474}{31514}Sachez qu'on ne piétine pas
+{31521}{31574}mes administrés aussi facilement.
+{31582}{31649}En tant que maire de cette ville|je proteste !
+{31657}{31714}Où est votre supérieur ?
+{31721}{31762}Ici. Colonel Peckem.
+{31768}{31800}Major Ryder ?
+{31827}{31879}Les masques sont inutiles ici ?
+{31886}{31915}C'est exact.
+{31947}{31992}Je suis à vous dans un instant,
+{31999}{32064}le temps d'écouter|le rapport du major Ryder.
+{32072}{32117}- Major ?|- Par ici.
+{32126}{32167}Quel empaffé !
+{32233}{32274}Tu fumes pas toi ?
+{32283}{32315}Où je vais trouver des clopes ?
+{32358}{32406}- Clank, c'est Judy !|- T'es sûr ?
+{32414}{32455}Elle se dirige vers l'incendie.
+{32462}{32510}- T'es sûr ?|- Mais oui !
+{32516}{32560}Calmos,|on va la rattraper.
+{32909}{32930}Elle accélère.
+{32936}{32963}Elle ne nous a pas reconnus.
+{33419}{33452}Montez là-dedans.
+{33562}{33586}Qu'est-ce qui se passe ?
+{33591}{33630}Suivez-nous.
+{33637}{33687}- Et ma voiture ?|- On s'en occupe.
+{33779}{33813}Tu nous avais pas reconnus ?
+{33836}{33870}On peut savoir ce qui se passe ?
+{33884}{33915}- C'est quoi ça ?|- Je suis infirmière.
+{33939}{33987}Je travaille chez le Dr Brookmyre.
+{33994}{34052}Je dois faire une injection.
+{34351}{34399}- J'ai rien fait.|- Montez !
+{34407}{34441}Eh, j'ai rien fait !
+{34467}{34517}Je vous ai rien fait !
+{34529}{34556}Pour l'instant.
+{34562}{34586}Enfoirés !
+{34657}{34702}- Qui êtes-vous ?|- Artie Bolman et voici ma fille.
+{34709}{34762}Vous êtes l'infirmière|du Dr Brookmyre ?
+{34784}{34849}Vous m'avez vue à Noël|pour une appendicite.
+{34872}{34889}Kathy ?
+{34936}{34958}Ça va ?
+{34999}{35042}- Qui c'est ?|- Frank Winston.
+{35056}{35085}Il a pas l'air bien.
+{35102}{35133}Vous savez ce qui se passe ?
+{35139}{35207}Ils nous ont forcés|à quitter la maison.
+{35214}{35296}La ville est en quarantaine
+{35304}{35330}à cause d'un virus.
+{35342}{35390}- Et les soldats ?|- Aucune idée.
+{35396}{35432}Ils ont parlé|d'une équipe médicale.
+{35439}{35458}Il y a eu des coups de feu.
+{35464}{35495}Quel genre de virus ?
+{35501}{35575}Selon le docteur|c'est très contagieux.
+{35584}{35639}C'est peut-être ce qu'a Winston.
+{35721}{35755}Les routes sont barrées.
+{35771}{35855}Pour que l'armée intervienne|ça doit être sérieux.
+{35864}{35905}J'ai peur.
+{35911}{35962}Tout ira très bien.
+{35969}{36015}C'est pas la merde, tiens !
+{36289}{36337}Je veux un deuxième cordon.
+{36344}{36445}Nos hommes iront vers le centre|en récupérant tout ce qu'ils trouvent.
+{36462}{36541}Le deuxième cordon sera à deux miles|en deçà du premier.
+{36559}{36622}Cette bande de deux miles|sera zone interdite.
+{36629}{36685}Personne n'y entre ni n'en sort.
+{36696}{36730}Ça fait beaucoup d'hommes.
+{36737}{36765}C'est ce qu'il faut.
+{36775}{36815}- On est combien ?|- Cinq compagnies.
+{36822}{36880}Les effectifs|auraient dû être prêts !
+{36886}{36954}Le vaccin était|considéré sans danger.
+{37034}{37087}Aucune précaution n'a été prise ?
+{37094}{37164}Le minimum|le jour de l'accident.
+{37177}{37227}Un avion s'est écrasé|non loin d'ici.
+{37235}{37304}La cargaison|a fini dans le fleuve.
+{37312}{37382}L'eau est stockée|dans un réservoir souterrain.
+{37389}{37478}Tout Evans City est alimenté|par un puits artésien.
+{37499}{37525}Je suis resté en ville,
+{37532}{37590}j'ai demandé à la police|et au médecin
+{37596}{37671}de signaler tout cas de fièvre|et de délire.
+{37702}{37767}Le vaccin devait avoir été neutralisé.
+{37789}{37835}Trixie n'était pas un vaccin
+{37861}{37933}mais une arme bactériologique.
+{37942}{38002}Central appelle colonel Peckem.
+{38067}{38149}Après reconnaissance vocale|vous pouvez parler.
+{38169}{38282}Alors toute cette censure,|c'était pour une arme biologique.
+{38351}{38397}J'ai tout gobé sans discuter.
+{38404}{38425}C'était notre but.
+{38432}{38499}Colonel Peckem...|Quel est son prénom ?
+{38519}{38553}Christopher... Chris ?
+{38569}{38617}Brubaker à l'appareil.
+{38625}{38718}Le major Ryder est un officier compétent|mais je crains
+{38727}{38785}qu'il panique trop rapidement.
+{38825}{38906}Nous voulons une évaluation complète|de la situation.
+{38914}{38967}Nous n'avons pas le temps !
+{38974}{39030}Pour réussir|il me faut du matériel
+{39036}{39096}et je le veux|avant demain matin !
+{39122}{39206}On aura plus de place au lycée qu'ici.
+{39212}{39303}La nouvelle infirmerie|sera bientôt prête.
+{39312}{39346}Vous l'avez déjà dit !
+{39357}{39417}Le matériel et le personnel|sont en route.
+{39424}{39498}Il faut demander de l'aide à Unity !
+{39507}{39591}Impossible, la ville est bouclée
+{39605}{39657}et la quarantaine risque de durer.
+{39664}{39715}Il en va de la vie de mes administrés.
+{39722}{39792}Il en va aussi|de celle de nos soldats.
+{39800}{39857}C'est votre problème, pas le mien !
+{39884}{39913}Un pli pour le major Ryder.
+{39920}{39956}Il est occupé. Donnez.
+{39961}{40072}Un camion a sauté avec tout le matériel.|Il y a de nombreux blessés.
+{40084}{40122}- Et les civils ?|- Trois morts.
+{40129}{40172}Écoutez-moi.
+{40194}{40250}J'ai beau être|le maire de cette ville
+{40256}{40300}je suis avocat
+{40307}{40341}et je connais le droit civil.
+{40347}{40462}Confisquez toutes les armes|qu'il y a dans cette ville.
+{40472}{40536}J'exige l'application|de l'habeas corpus.
+{40544}{40573}Votre arme shérif.
+{40609}{40655}Une minute !
+{40671}{40715}Vous n'avez pas à lui obéir.
+{40742}{40794}Arrêtez ce petit jeu !
+{40802}{40831}Refusez d'obéir !
+{40932}{40992}Qu'est-ce qui se passe ?
+{41036}{41094}Ne nous obligez pas|à utiliser la force.
+{41117}{41136}Notre mission...
+{41142}{41176}Allez, on décampe.
+{41179}{41198}Attention !
+{41392}{41481}Confisquez|toutes les armes des civils.
+{41489}{41513}Immédiatement.
+{42260}{42339}C'est exactement|ce que nous cherchons à éviter.
+{42347}{42392}J'irai nulle part !
+{43195}{43255}Assurez-vous|qu'il n'est pas embusqué.
+{43290}{43321}M'approchez pas !
+{43377}{43425}Ou je vous descends.
+{43442}{43473}Pauvre gars...
+{43552}{43586}T'as vu ça ?
+{43602}{43634}Mademoiselle ?
+{43673}{43706}Un récital ?
+{43727}{43794}Ils sont tous déjantés.
+{43909}{43943}Vérifiez à l'étage.
+{44553}{44593}Votre mari est en bas.
+{45190}{45221}Je pisse le sang !
+{45410}{45436}On est peut-être en guerre.
+{45442}{45464}La ferme !
+{45752}{45779}Des coups de feu...
+{45839}{45873}Ces types-là rigolent pas.
+{46285}{46304}Arrêtez ou je tire !
+{46397}{46447}Restez tranquille !
+{46458}{46489}On repart.
+{46494}{46542}Remontez en voiture.
+{46925}{46992}Dites-nous ce qui se passe !
+{47000}{47050}Répondez-moi !
+{47057}{47083}Répondez !
+{47120}{47134}David !
+{47185}{47214}Dites-moi ce qui se passe.
+{47242}{47298}Pourquoi vous êtes ici ?
+{47387}{47419}Ils sont tous fous.
+{47453}{47477}Ça vous fait rire ?
+{47492}{47514}J'étais dans l'armée.
+{47530}{47578}Allez, en route !
+{47728}{47739}On décampe !
+{47789}{47823}David, les seringues !
+{48013}{48044}Ils ont pris la fourgonnette.
+{48052}{48091}Bienvenue à Evans City.
+{48097}{48155}Chopez-moi ce guignol !
+{49263}{49311}- On les a semés.|- Où tu vas ?
+{49317}{49368}- Je sais pas.|- Fonce au country club.
+{49376}{49407}On pourra tenir là-bas.
+{49413}{49434}Bien chef !
+{50320}{50349}Il ne s'attaque qu'aux primates.
+{50355}{50408}On n'a pas à craindre une diffusion
+{50415}{50470}par les chiens ou les chats.
+{50487}{50538}Maigre consolation.
+{50546}{50642}En l'absence de singes|les seules victimes sont humaines.
+{50675}{50733}Il y a une possibilité de guérison ?
+{50748}{50856}Nous avons cherché|un antidote pendant trois ans.
+{50875}{50901}Aucune chance.
+{51020}{51071}Je n'ai pas pu joindre|le commandement.
+{51077}{51178}Même dans l'avion je n'ai pas pu|franchir votre brouillage.
+{51188}{51241}Nous voulons éviter les fuites.
+{51250}{51310}N'ébruitez rien surtout.
+{51317}{51370}Vous avez fait|une gaffe énorme !
+{51378}{51464}Vous repartirez après avoir subi|les examens médicaux.
+{51476}{51528}- Allons-y.|- Nous attendons le matériel.
+{51585}{51602}Formidable.
+{51617}{51636}Il arrivera quand ?
+{51642}{51688}- Dès que possible.|- C'est vague.
+{51696}{51796}C'est vous les génies responsables|de cette horreur.
+{51805}{51841}Magnifique !
+{51863}{51930}Je suis votre seule chance.
+{51940}{52032}Je ne peux rien faire|parce que vous êtes sous-équipés
+{52040}{52093}et que nous sommes retranchés ici !
+{52100}{52134}Toute cette opération|est une blague !
+{52140}{52176}Parlons de blague !
+{52183}{52219}D'après votre rapport,
+{52225}{52258}le virus était soi-disant inactif.
+{52265}{52335}"Soi-disant",|c'est là toute la différence.
+{52343}{52419}C'est-à-dire à 99%.
+{52428}{52483}Cette norme n'est pas de notre fait
+{52501}{52532}mais de l'armée.
+{52538}{52573}Les reproches sont inutiles.
+{52580}{52626}Laissez-moi aller au labo.
+{52633}{52714}Je ne peux pas courir ce risque|si vous êtes porteur.
+{52723}{52802}Trixie est dans les canalisations|depuis six jours !
+{52816}{52873}Un routier a pu le contracter
+{52880}{52909}bien avant votre arrivée.
+{52916}{53021}Nous espérons le contenir|jusqu'à ce qu'il suive son cours.
+{53030}{53054}Comment ça ?
+{53061}{53092}Les UV le neutralisent ?
+{53098}{53150}Il est présent dans l'eau !
+{53161}{53192}Voire chez les habitants.
+{53198}{53303}Les gens peuvent être porteurs|sans même le savoir.
+{53313}{53354}La durée de l'incubation|peut varier
+{53360}{53473}mais Trixie finira|par se propager à toute la ville !
+{53483}{53514}Elle est bouclée.
+{53580}{53623}Avant la suppression des crédits
+{53630}{53714}deux de mes hommes|ont été contaminés par un singe.
+{53723}{53807}Le premier a déliré pendant deux jours
+{53816}{53842}avant de mourir.
+{53868}{53976}L'autre a eu quelques phases de lucidité|avant de sombrer dans la folie.
+{53986}{54041}Voilà les deux effets de ce virus.
+{54048}{54098}Il ne va pas "suivre son cours".
+{54106}{54151}Comment expliquerez-vous
+{54158}{54230}une ville entière|plongée dans la folie ?
+{54290}{54365}Encore une chose|qu'on a oublié de vous dire ?
+{54372}{54442}Il ne s'agit pas d'une mauvaise grippe
+{54453}{54592}mais d'une mutation parfois mortelle|et résolument débilitante !
+{54651}{54737}Les victimes de ce virus meurent|ou deviennent folles à lier.
+{54768}{54787}C'est clair ?
+{55066}{55097}Vous alliez où là ?
+{55131}{55164}Idiote !
+{55170}{55216}On aurait pu vous repérer.
+{55775}{55816}Je ne voulais pas|vous faire mal.
+{55823}{55845}Je sais.
+{55850}{55910}Ce n'est pas|ce que vous avez fait.
+{55928}{55985}Je vous aime beaucoup.
+{55993}{56053}Je regrette d'agir comme une enfant.
+{56061}{56092}C'est pas grave.
+{56106}{56159}Je sais qu'il y a|des gens qui meurent.
+{56181}{56219}Je sais tout ça.
+{56258}{56287}Mon père...
+{56326}{56348}Vous comprenez...
+{56353}{56389}C'est comme...
+{56395}{56450}Comme tous ces gens
+{56460}{56492}qui meurent.
+{56510}{56587}Et mon père ne peut pas comprendre ça.
+{56638}{56671}Vous vous pouvez.
+{56683}{56728}J'en suis persuadée.
+{56971}{57002}Ça y est.
+{57011}{57037}Je suis malade.
+{57268}{57299}Allez voir votre fille.
+{57306}{57332}Elle va pas bien.
+{57768}{57800}Debout là-dedans !
+{57805}{57834}- Prêts ?|- On arrive.
+{57841}{57886}J'ai trouvé des cigarettes.
+{57900}{57939}J'ai dû péter la machine.
+{57946}{57986}Y a plein de trucs ici.
+{57993}{58036}- À manger ?|- Oui, et à boire.
+{58083}{58110}Évite de picoler.
+{58116}{58140}T'inquiète, je m'échauffe.
+{58186}{58215}On devrait foutre le camp ?
+{58220}{58251}Je sais pas.
+{58258}{58311}Ils vont nous ralentir,|la gamine est malade.
+{58361}{58397}Je dois réfléchir.
+{58424}{58486}- J'ai trouvé une radio.|- Et alors ?
+{58494}{58532}Ils passent que de la musique.
+{58538}{58569}C'est bizarre.
+{58596}{58613}On te rejoint.
+{58638}{58693}On peut être malade|nous aussi ?
+{58701}{58741}Tout dépend ce que c'est.
+{58748}{58789}Une saleté,|on peut la choper aussi.
+{58796}{58827}J'ai dit on te rejoint.
+{58918}{58978}Ce n'est peut-être pas grave...
+{58986}{59039}Tu peux nous laisser, oui ?
+{59878}{59900}Tu sais...
+{59905}{59984}Quand j'étais au Viêtnam|je t'imaginais avec Clank.
+{60009}{60052}C'était dur à encaisser.
+{60068}{60102}Je le connaissais à peine.
+{60109}{60152}Je t'avais déjà vue avec lui.
+{60158}{60180}Quand ?
+{60186}{60227}Lors d'un match.
+{60236}{60308}David, allons... C'est Clank !
+{60316}{60342}Quelle idée !
+{60349}{60394}Je sais pas.|Pourquoi pas ?
+{60401}{60466}Un champion de foot.
+{60474}{60519}Toi je te connaissais peu.
+{60531}{60579}Je ne savais pas comment tu étais.
+{60588}{60631}Ce n'est pas ma faute.
+{60653}{60699}De l'action, de l'aventure...
+{60706}{60773}Le seul Béret Vert d'Evans City !
+{60780}{60824}Assez.
+{60911}{60962}J'y crois pas...
+{61061}{61109}Tout ira bien.
+{61181}{61229}Nous travaillons|sur les immunités naturelles.
+{61283}{61360}Un antidote ne sera jamais|prêt à temps !
+{61368}{61478}Bougez-vous le cul,|je veux des résultats, pas des excuses.
+{61488}{61550}Le matériel doit arriver !
+{61558}{61601}Selon le dernier recensement
+{61606}{61730}le nombre d'habitants|dans le périmètre serait de 3613.
+{61756}{61794}Redites-moi ça Chris.
+{61801}{61863}3613.
+{61884}{61958}Nous n'avons que les deux tiers|de la population.
+{61981}{62046}Ils se rebellent,|ça risque de dégénérer.
+{62054}{62123}Il faut les amener|dans ce lycée.
+{62148}{62237}C'est votre objectif.|Ne les laissez pas franchir le cordon.
+{62245}{62277}Le cordon tiendra
+{62283}{62358}mais on a 50 miles carrés de forêt à ratisser.
+{62371}{62422}Vos estimations Chris ?
+{62429}{62464}Aucune idée.
+{62471}{62553}Des heures, des jours ?|Donnez-moi une fourchette.
+{62561}{62577}J'en suis incapable.
+{62596}{62644}Bon... maintenez le blocus
+{62651}{62694}et tenez-nous informés.
+{62723}{62771}Nouvelles consignes Chuck.|Transmettez.
+{62798}{62904}Tout individu récalcitrant|doit être considéré comme un ennemi.
+{62916}{62978}Notre objectif|est de les interner tous.
+{63046}{63067}Brûlez les cadavres.
+{63109}{63147}Faute de meilleure suggestion,
+{63154}{63183}on les brûle.
+{63254}{63316}La compagnie A fait état|de deux cas d'infection.
+{63356}{63382}Les hommes paniquent.
+{63388}{63446}Certains ne savent pas ce qu'ils font ici.
+{63463}{63492}Le contraire serait une menace.
+{63528}{63596}Tout ceci doit rester secret,|c'est vrai.
+{63603}{63663}Mais nous voulons surtout|contenir le virus.
+{63671}{63731}Si nos hommes savent|ils se débineront.
+{63739}{63756}Qu'est-ce que vous en savez ?
+{63831}{63912}Vous ne voyez pas|que toute cette histoire sent mauvais.
+{63921}{63964}On ne distingue même|pas les malades.
+{63971}{64050}Les hélicos arriveront|d'ici une vingtaine d'heures.
+{64059}{64109}On a trouvé trois appareils privés.
+{64118}{64149}Réquisitionnez-les.
+{64156}{64180}Il me faut une autorisation.
+{64186}{64234}Votre arme suffira !
+{64249}{64278}Je veux qu'ils décollent !
+{64284}{64360}Signalez tout ce que vous voyez|aux unités au sol.
+{64369}{64439}Survolez la zone interdite|jour et nuit.
+{64461}{64497}Une sommation et vous tirez.
+{64519}{64541}C'est clair ?
+{64551}{64582}Une seule sommation.
+{64716}{64743}Des nouvelles de Trixie ?
+{64749}{64844}Reprogrammer les données|peut prendre plusieurs jours.
+{64857}{64912}Nous ne pourrons pas|recréer le virus.
+{64919}{64981}Vu la période d'incubation
+{64996}{65051}nous n'aurons rien|avant une bonne semaine.
+{65064}{65126}Nous devons commencer|les prises de sang
+{65134}{65234}et envoyer à Dietrich|un échantillon de virus actif.
+{65243}{65301}- C'est impossible.|- Sur tous les habitants
+{65309}{65364}on peut trouver un sujet immunisé.
+{65372}{65446}Mais pour ça|il faut commencer les prélèvements.
+{65454}{65502}- C'est impossible.|- Mais enfin...
+{65508}{65554}On envoie ça dans des bouteilles|en plastique ?
+{65624}{65679}Il nous faut|des caissons étanches.
+{65699}{65775}Ils arriveront|avec le matériel de décontamination.
+{65909}{65957}Je n'ai rien contre vous colonel.
+{65986}{66092}Mais je suis surpris|par la bêtise de cette opération.
+{66102}{66157}Moi plus rien ne me surprend.
+{66177}{66236}Surtout venant de l'armée.
+{66281}{66332}Je suis un soldat.|Je ne devrais pas être ici.
+{66354}{66399}Seulement j'étais disponible.
+{66438}{66462}Et facile à remplacer.
+{66531}{66591}J'enverrai vos échantillons à Dietrich.
+{66601}{66659}Alors dépêchez-vous|de vous mettre au boulot.
+{66809}{66852}Ce lycée possède un labo de chimie ?
+{66859}{66907}- J'ai besoin de matériel.|- On s'en occupe.
+{66914}{66935}Il me faut une radio.
+{66946}{67004}- Major, une radio.|- Ben voyons !
+{67048}{67087}Moi il me faut...
+{67121}{67147}Va pour la radio.
+{68073}{68093}Laissez-moi !
+{68193}{68215}Allez-vous-en !
+{68388}{68417}On a pu se tromper.
+{68436}{68494}On devrait retourner en ville.
+{68501}{68533}L'armée est là pour nous aider.
+{68539}{68580}Il croit ça lui !
+{68583}{68627}On a peut-être eu tort.
+{68633}{68674}Va dire ça au shérif.
+{68681}{68734}Les soldats doivent faire face|à des émeutes.
+{68759}{68872}Avec eux, la moindre manif|peut tourner au bain de sang.
+{68884}{68973}Les bouseux du coin|vont leur donner du fil à retordre.
+{68991}{69034}Mieux vaut rester à distance.
+{69041}{69070}Faites ce que vous voulez.
+{69077}{69115}Et le virus alors ?
+{69124}{69158}Kathy est bizarre.
+{69164}{69238}On a pu être touché,|il nous faut des soins.
+{69247}{69276}J'ai réfléchi.
+{69281}{69349}On est peut-être victimes|d'une arme biologique.
+{69356}{69387}On est peut-être en guerre.
+{69394}{69464}- On a fait le bon choix ?|- Ça on n'en sait rien !
+{69592}{69671}Brookmyre a dit de se barrer.|Moi ça me suffit.
+{69687}{69730}Faites demi-tour|si ça vous chante.
+{69804}{69842}L'armée faut s'en méfier.
+{69849}{69885}On le sait, on y était.
+{69909}{70003}Je sais pas ce que vous en dites|mais moi je reste avec David.
+{70027}{70082}Il s'en sortira, il est malin.
+{70099}{70179}Comment osez-vous ?|Vous êtes dans un lieu saint !
+{70184}{70227}Laissez ces gens tranquilles !
+{70684}{70764}Dieu est avec nous.
+{73109}{73128}Putain...
+{73214}{73245}Maman !
+{73642}{73668}Où est le toubib ?
+{73964}{73981}Elle va bien.
+{73996}{74030}Elle est un peu perturbée.
+{74046}{74075}Comme nous tous.
+{74082}{74113}Elle ira mieux|quand on partira.
+{74232}{74265}La ferme des Saunders est loin ?
+{74272}{74303}Deux ou trois bornes.
+{74309}{74391}L'armée peut pas quadriller les forêts.
+{74415}{74479}Il y a un ravin là-bas,|c'est notre seule chance.
+{74487}{74523}On devrait larguer les deux autres.
+{74531}{74577}La gamine|elle est pas nette.
+{74587}{74606}Tais-toi et écoute !
+{74862}{74903}Planquez-vous !
+{75354}{75385}Il nous a vus.
+{75474}{75503}Fuyons dans la forêt.
+{75547}{75585}Rendez-vous|à la ferme des Saunders.
+{75592}{75626}On peut pas semer l'hélico.
+{75631}{75658}Ni rester ici.
+{76640}{76673}Restez où vous êtes.
+{76690}{76721}N'allez pas plus loin
+{76735}{76780}ou nous ouvrons le feu.
+{76814}{76870}Nous transmettons aux jeeps
+{76882}{76923}et aux unités au sol.
+{76930}{76975}Vous ne pouvez pas vous échapper.
+{77570}{77627}Je vais le canarder,|ça va l'occuper.
+{79095}{79124}Reste là.
+{80172}{80201}Bon débarras !
+{80247}{80315}Tu oublies les troupes au sol.|En route !
+{80417}{80516}Trouvez ceux qui sont déjà infectés|et mettez-les à l'écart.
+{80525}{80592}Nous les placerons dans le gymnase.
+{81572}{81608}Il m'a craché dessus !
+{81697}{81735}Un arrêt cardiaque !
+{81742}{81821}J'ai besoin d'une autre infirmière.
+{81840}{81890}C'est minable ces machins-là.
+{81898}{81955}Vous n'avez rien de plus puissant ?
+{81978}{82042}On n'avance pas sur la formule.
+{82050}{82081}C'est dans les archives !
+{82087}{82135}Impossible de lire les microfilms.
+{82143}{82200}On a besoin de l'ordinateur.
+{82207}{82281}Quand vous l'aurez|ce sera fait en quelques secondes.
+{82290}{82345}Il faut encore attendre trois jours.
+{82352}{82455}On va tester plusieurs combinaisons|mais il nous faut un échantillon.
+{82465}{82508}Répète, je te capte mal.
+{82515}{82553}Je ferai de mon mieux.
+{82560}{82591}Passez-moi Peckem.
+{82597}{82657}Nous devons vérifier|votre empreinte vocale.
+{82665}{82730}Mais il est juste à côté !
+{82740}{82826}La vérification est obligatoire|avant toute communication.
+{82855}{82884}Allez dire à Peckem
+{82910}{82991}que Dietrich ne peut rien faire|sans ces échantillons.
+{83000}{83070}S'il refuse|il les préviendra lui-même.
+{83077}{83137}Surtout qu'on me foute la paix !
+{83145}{83174}Je m'en occupe.
+{83180}{83223}Empreinte vocale en cours.
+{83230}{83256}Veuillez vous identifier.
+{83263}{83325}Allez vous faire foutre
+{83332}{83385}toi et ton empreinte à la con !
+{83687}{83798}Vous travaillez trop près du virus|pour ôter votre masque.
+{83808}{83841}Vous avez pu constater
+{83848}{83951}qu'un masque n'aide pas|à regarder dans un microscope.
+{84050}{84122}À votre avis,|quelles sont nos chances ?
+{84152}{84169}De la famille ?
+{84200}{84241}Vous avez de la famille ?
+{84334}{84361}Moi non plus.
+{84385}{84414}Navrée de l'apprendre.
+{84450}{84471}Voulez-vous m'épouser ?
+{84705}{84741}Vu votre réponse
+{84747}{84814}j'en déduis|que nos chances sont bonnes.
+{84975}{84994}Tout de suite !
+{85000}{85036}C'est du matériel militaire !
+{85043}{85065}Elle est où ?
+{85070}{85092}L'infirmière.
+{85100}{85146}Elle a filé avec ceci !
+{85170}{85245}Le docteur l'a laissée filer|avec des antibiotiques.
+{85252}{85303}- Quand ?|- Hier, en début de soirée.
+{85320}{85373}Nous avons pu leur reprendre|le matériel.
+{85380}{85404}Ils étaient plusieurs.
+{85418}{85521}Ils ont pris la fuite à bord d'un camion|qu'on a retrouvé vide.
+{85531}{85552}C'est du matériel militaire !
+{85558}{85615}Dites au Dr Watts de l'examiner.
+{85622}{85685}C'est du matériel militaire !
+{85740}{85800}Votre infirmière|a-t-elle été exposée ?
+{85810}{85858}Elle a soigné les deux enfants.
+{85865}{85901}Qu'est-ce qui vous a pris ?
+{85985}{86006}Elle est enceinte.
+{86040}{86076}J'ai pensé à l'enfant.
+{86098}{86170}Je lui ai donné|de quoi protéger le père.
+{86215}{86239}Ils vont se marier.
+{86295}{86410}Nous faisons notre devoir|pour assurer la survie de tous.
+{86460}{86508}Message pour le colonel Peckem.
+{86515}{86544}Baissez-vous !
+{86550}{86569}À terre !
+{86647}{86700}Dépêchez-vous de riposter !
+{86710}{86763}Restez planqués et dégommez-le.
+{86828}{86861}Vite, près de la fenêtre !
+{86962}{86986}La compagnie C !
+{86993}{87048}- La compagnie C !|- Votre empreinte vocale.
+{87055}{87072}La survie ?
+{87830}{87876}Qu'est-ce que t'en dis ?|Ils sont quatre.
+{87883}{87964}Pas sûr.|Il doit y en avoir d'autres dedans.
+{88035}{88093}On peut toujours les contourner.
+{88128}{88168}Attendons la nuit.
+{88175}{88206}Il faut en savoir plus.
+{88232}{88259}On ne va pas leur parler ?
+{88266}{88285}Baissez-vous !
+{88293}{88322}Moi j'ai envie.
+{89568}{89604}Tu as vu ça ?
+{90060}{90096}Ils savent pas tirer !
+{90103}{90136}Oui, ils t'ont raté.
+{90143}{90167}Enfoiré.
+{90241}{90286}Petite conne !
+{90303}{90339}Y a des baffes qui se perdent.
+{90386}{90441}- Qu'est-ce qui lui a pris ?|- Je suis désolé.
+{90495}{90536}Merci de l'avoir retenue.
+{90543}{90588}J'ai d'abord pensé à moi.
+{90615}{90675}La prochaine fois|je vous largue tous les deux.
+{90840}{90895}Elle est givrée.|Elle a attrapé cette saleté.
+{91520}{91554}Tu fais quoi ce soir ?
+{91561}{91616}Je vais récurer les chiottes.
+{91645}{91698}C'est tout ce qu'on peut prévoir.
+{91733}{91762}J'avais pas prévu ça.
+{91768}{91801}Prévu quoi ?
+{91818}{91844}Ça.
+{91883}{91928}Cette... opération.
+{91938}{91988}C'est quoi exactement ?
+{91996}{92029}J'en sais rien.
+{92073}{92147}Tu sais jamais ce que tu fais|ni pourquoi tu le fais.
+{92166}{92185}Tu le fais
+{92198}{92234}parce qu'on t'a dit de le faire.
+{92241}{92286}Quand est-ce qu'on se tire d'ici ?
+{92303}{92336}T'es pressé ?
+{92348}{92372}Moi ?
+{92416}{92447}Relax.
+{92450}{92515}Ça doit figurer dans le manuel
+{92520}{92619}à la rubrique|"Comment faire trimer les autres ?"
+{92640}{92662}Tu l'as dit.
+{92765}{92808}On y va tout doucement.
+{92823}{92843}À quoi bon ?
+{92848}{92868}C'est moi qui commande.
+{92876}{92929}On les neutralise gentiment.
+{92935}{93007}Une fois à l'intérieur|pas de carton.
+{93016}{93054}Je suis avec toi.
+{93068}{93097}Je vais voir par là.
+{93835}{93869}T'as rien entendu ?
+{93894}{93949}Non, tu te fais des idées.
+{94093}{94120}Un cri et tu es mort !
+{94200}{94244}- Combien à l'intérieur ?|- Trois.
+{94250}{94279}C'est vrai ça ?
+{94758}{94792}Qu'est-ce qu'ils font ?
+{94833}{94850}J'entends rien.
+{94956}{95006}- Ça commence à faire long.|- Silence.
+{95143}{95184}Personne ne bouge !
+{95214}{95257}Qu'est-ce que vous faites ici ?
+{95263}{95287}Qu'est-ce que vous nous voulez ?
+{95313}{95349}Parle, plus vite que ça !
+{95356}{95383}- Qu'est-ce que vous savez ?|- Rien.
+{95388}{95444}- Si vous me laissez...|- Parle !
+{95495}{95553}La ville est en quarantaine|à cause d'un virus.
+{95561}{95638}- Et l'armée là-dedans ?|- Qu'est-ce que j'en sais ?
+{95645}{95686}J'en sais rien, je le jure.
+{95711}{95735}Quels sont vos ordres ?
+{95740}{95788}Rassembler la population|dans le lycée.
+{95796}{95844}Les gens se laissent faire.
+{95851}{95899}Ils reçoivent|un traitement là-bas.
+{95921}{95967}Ceux qui sont infectés
+{95973}{96007}deviennent comme fous.
+{96014}{96062}- C'est quoi ce virus ?|- J'en sais rien.
+{96081}{96138}On en sait pas plus que vous.
+{96166}{96207}C'est contenu dans l'eau.
+{96264}{96343}On applique les ordres.|Je sais ce que vous pensez.
+{96361}{96390}Toute cette histoire...
+{96613}{96623}Salauds !
+{96803}{96871}Pour un Béret Vert|tu t'es ramolli.
+{96966}{97007}Il a pas bronché...
+{97116}{97171}J'ai dû tous me les faire.
+{97226}{97259}Tous les trois...
+{97326}{97364}Tous les cinq.
+{97416}{97478}La ramène pas|avec tes Bérets Verts !
+{97486}{97527}J'en fais autant.
+{97566}{97602}Ils sont morts.
+{97641}{97674}Ils sont tous morts.
+{97951}{97994}La vache !
+{98101}{98115}Vlan !
+{98126}{98164}Contre le mur !
+{98181}{98245}T'as déconné vieux.
+{98351}{98406}Ça se dit|dans les forces spéciales !
+{98416}{98514}On pourrait croire|que c'est un gros dur.
+{98620}{98647}Ils m'ont pas accepté.
+{98661}{98706}Même pas donné une chance.
+{98713}{98754}J'ai fait mon service,|point barre.
+{98774}{98807}Et c'est moi le gros dur.
+{98831}{98857}À moi tout seul
+{98863}{98901}j'en ai dessoudé cinq !
+{98983}{99019}Tu pourrais me recommander
+{99026}{99074}pour la Médaille d'honneur.
+{99256}{99278}Tu vas où ?
+{99321}{99359}- Je monte voir Judy.|- Quoi ?
+{99366}{99431}Je vais voir Judy,|c'est tout.
+{99534}{99572}Je pige.
+{99579}{99627}On sera dans la chambre.
+{99842}{99873}Je me sens bizarre.
+{99933}{99955}J'ai merdé.
+{99961}{100016}- T'avais pas le choix.|- T'es sûr ?
+{100024}{100067}Tout va bien Clank.
+{100074}{100114}Tu as fait ce qu'il fallait.
+{100189}{100234}Je prends le premier tour de garde.
+{100326}{100359}À plus tard.
+{100799}{100840}Je n'ai plus qu'elle.
+{100867}{100893}Ma femme est morte.
+{100899}{100925}Mae...
+{100951}{100982}C'était son prénom.
+{101014}{101052}Il y a quelques années.
+{101074}{101129}Kathy a été contaminée,|Artie est bizarre
+{101136}{101204}et Clank commence à dérailler.
+{101211}{101271}Mais pas nous.|Alors que nous avons été exposés.
+{101276}{101319}On m'a fait une piqûre.
+{101356}{101424}Ce n'était pas un antidote|mais un antibiotique puissant.
+{101431}{101453}Ça a pu suffire.
+{101484}{101515}Toi tu n'as rien eu.
+{101521}{101554}Je me sens bien.
+{101661}{101745}Tu as peut-être|une immunité naturelle.
+{101804}{101849}On n'est pas forcé de partir.
+{101894}{101923}On y arrivera.
+{101933}{101967}J'en suis sûr.
+{102039}{102068}Je ne la laisse pas sortir.
+{102091}{102144}Elle n'a pas l'âge.
+{102162}{102202}Quand on voit|les gosses d'aujourd'hui...
+{102209}{102250}C'est dégoûtant !
+{102296}{102342}Ce sont de vrais porcs !
+{102459}{102478}Mais pas ma fille.
+{102622}{102658}Jamais elle ne connaîtra
+{102684}{102715}de telles horreurs.
+{102767}{102791}Je le dois à ma femme.
+{102836}{102886}Jamais ma fille ne connaîtra ça.
+{102939}{102992}Tous ces gamins sont des porcs.
+{103304}{103371}Il va bien falloir alerter|l'opinion publique.
+{103384}{103442}J'opte pour l'accident nucléaire.
+{103452}{103536}L'avantage avec ça,|c'est qu'on est couvert pour la suite.
+{103543}{103608}- C'est gênant tout de même.|- Évidemment !
+{103616}{103673}Mais moins qu'une arme bactériologique.
+{103684}{103763}Les armes nucléaires,|les gens sont au courant.
+{103772}{103829}On dira qu'on a eu un dérapage|et voilà.
+{103836}{103901}On ne peut pas décider ça maintenant|sans savoir.
+{103908}{103995}On dira que l'avion qui s'est écrasé|contenait une arme nucléaire.
+{104037}{104104}Si le cordon lâche|on devra s'y résoudre.
+{104132}{104209}L'arme n'a pas été détruite|au cours du crash.
+{104219}{104262}Des démineurs s'en occupent.
+{104302}{104350}S'il faut tout faire péter,
+{104373}{104409}on dira que la bombe a explosé.
+{104416}{104469}Il s'agit d'une ville entière
+{104477}{104517}et de 1500 soldats américains !
+{104524}{104582}La ville est déjà condamnée.
+{104597}{104695}Si le virus n'est pas contenu|il risque de gagner tout le pays.
+{104726}{104782}Si le cordon est enfreint|on lâche la bombe.
+{104797}{104818}Séance tenante.
+{104869}{104941}Si jamais on doit en arriver là
+{104949}{105002}on a intérêt à pouvoir le justifier.
+{105059}{105098}Je suis réaliste.
+{105124}{105169}L'accident nucléaire nous couvre.
+{105196}{105247}Central à Brubaker.
+{105251}{105273}Ici Brubaker.
+{105279}{105327}Empreinte vocale certifiée.
+{105334}{105394}Vous allez pouvoir parler|au président.
+{105411}{105481}- Ici le président.|- Bonsoir monsieur.
+{105491}{105556}Quelle est votre version des faits ?
+{105566}{105612}Nous ne sommes pas unanimes
+{105624}{105703}mais la majorité opte|pour un accident nucléaire.
+{105714}{105771}- C'est ce qu'il y a de mieux.|- Oui monsieur.
+{105804}{105828}Le bombardier ?
+{105834}{105865}Toujours en vol.
+{105874}{105917}À 60000 pieds|au-dessus d'Evans City.
+{105926}{105974}Merci M.Brubaker.
+{106001}{106090}Nous souhaiterions|laisser cette ligne ouverte.
+{106107}{106205}Si le cordon est rompu,|nous devrons agir sans délai.
+{106221}{106344}Nous aurons besoin de votre accord|avant de donner l'ordre.
+{106399}{106433}Laisser la ligne ouverte
+{106439}{106482}fera gagner du temps.
+{106616}{106688}C'est accordé M.Brubaker.
+{106985}{107018}Mae ?
+{107064}{107098}Tu m'en veux encore ?
+{107171}{107207}Je n'étais pas si en retard.
+{107472}{107508}J'ai pensé à toi toute la journée.
+{107552}{107600}J'étais au quinzième trou.
+{107607}{107674}Un drive de 200 yards|en plein milieu du fairway.
+{107681}{107768}Et j'ai dit|"Celle-là elle est pour Mae."
+{108057}{108098}J'ai pris le putter au 18.
+{108184}{108240}Un putt de près d'un yard.
+{108366}{108412}Je voulais te le dire.
+{109636}{109677}Espèce de malade !
+{109711}{109738}Debout !
+{109797}{109864}Tu pouvais parler des porcs !
+{109917}{109970}Ils touchent pas à leur fille !
+{110085}{110104}Lâche-moi !
+{110160}{110195}Arrête Clank.
+{110207}{110255}T'as pas à me toucher comme ça.
+{110262}{110305}D'accord.|Calme-toi, alors.
+{110504}{110545}J'ai froid.
+{110587}{110603}Tirons-nous.
+{110652}{110714}Je te croyais malin.
+{110734}{110777}On aurait dû les larguer.
+{110819}{110846}On les laisse là ?
+{110979}{111003}Là je te retrouve.
+{111062}{111120}Je te retrouve.|Tirons-nous.
+{111749}{111829}Essayez de les maîtriser.
+{111842}{111878}Vous êtes sûr ?
+{111885}{111938}Sans gaspiller vos forces.
+{111967}{111996}On n'a plus de fusées éclairantes.
+{112002}{112073}On a perdu le contact|avec une autre patrouille.
+{112082}{112173}Je veux un homme tous les 25 yards|sur le cordon externe.
+{112192}{112257}Un homme tous les 25 yards|sur le cordon externe.
+{112269}{112319}Empreinte vocale,|ligne un.
+{112337}{112356}Je sais.
+{112362}{112417}Nous vous enverrons des renforts.
+{112442}{112468}C'est un ordre.
+{112582}{112711}Docteur, vous devez d'abord subir|une décontamination complète.
+{112752}{112821}Vous partirez demain|après réception du matériel.
+{112829}{112892}Cette information est capitale.
+{112899}{112938}Informez Dietrich par radio.
+{112944}{113062}Chaque interruption m'oblige à me taper|ces stupides empreintes vocales !
+{113072}{113156}Je vous dis qu'on tient|une piste sérieuse.
+{113167}{113232}Oubliez vos ordres|et laissez-moi partir !
+{113239}{113278}Vous partirez demain soir.
+{113285}{113342}Si je vous laisse partir maintenant
+{113350}{113381}vous serez retardé.
+{113402}{113491}Poursuivez vos recherches.|Je ne peux pas faire mieux.
+{113559}{113605}Artie et sa gamine ont disparu !
+{114030}{114102}Je t'en prie, décroche-le.
+{114487}{114508}C'est pas moi.
+{114742}{114766}C'est pas moi.
+{115022}{115060}Viens voir.
+{115362}{115398}On dégage !
+{115425}{115463}Allez, magne-toi !
+{115707}{115774}Suivez-nous jusqu'au lycée.
+{116149}{116171}Qui vous êtes ?
+{116385}{116425}Moi c'est Kathy.
+{116495}{116519}Vous voulez jouer ?
+{116537}{116566}Reculez les gars.
+{116572}{116630}J'avais tellement envie de sortir.
+{116645}{116674}Je n'avais pas le droit.
+{116680}{116715}Va falloir l'abattre.
+{116729}{116758}L'approchez pas !
+{116779}{116832}Elle est folle, descends-la.
+{116912}{116994}Mon père ne veut pas que je sorte.
+{117568}{117611}Ils arrivent.
+{117640}{117669}Ils nous suivent.
+{117677}{117725}Il faut partir, Clank.
+{117804}{117843}J'ai la tête qui éclate.
+{117858}{117918}- Je suis malade, hein ?|- Dépêche-toi !
+{117925}{117951}Je le savais...
+{117997}{118023}Bouge-toi.
+{118103}{118136}J'ai peur.
+{118140}{118190}J'arrive plus à me retenir.
+{118197}{118238}Allez, lève-toi.
+{118250}{118284}T'es un dur toi.
+{118298}{118317}Un vrai Béret Vert.
+{118328}{118352}On se retrouve où ?
+{118370}{118397}On se retrouve où ?
+{118423}{118456}Dis-moi où !
+{118555}{118629}Je te retrouverai au Zebra club.
+{118638}{118662}Non, écoute-moi.
+{118668}{118711}Le Zebra club,|je te retrouve là-bas.
+{118718}{118778}Non, à l'ancienne cimenterie.
+{118808}{118882}Je m'occupe de ces guignols|et je te retrouve au Zebra club.
+{119337}{119364}David.
+{119370}{119418}C'est toi le chef,|on fait quoi ?
+{119523}{119563}J'ai chopé cette saloperie.
+{119620}{119651}Saloperie !
+{120013}{120084}Je vais tous vous buter|avec vos déguisements à la con !
+{122856}{122913}Ton chargeur est vide ?
+{122925}{122958}Dommage ducon !
+{123038}{123057}Bouge pas.
+{123516}{123556}Je boirais bien un coup.
+{124190}{124209}Une minute...
+{124251}{124375}J'ai la berlue|ou cette préparation a diminué.
+{124543}{124603}- Alors ?|- Tout dépend ce que vous cherchez.
+{124815}{124861}Quelle est la combinaison ?
+{124953}{125023}- 44 et 23.|- Colorez une autre lamelle.
+{125088}{125138}Une chance sur un million
+{125148}{125199}et on a trouvé.
+{125217}{125282}Pas de doute, on a trouvé !
+{125321}{125383}- Passez-moi Dietrich.|- Nous devons d'abord...
+{125391}{125439}Je sais, l'empreinte vocale !
+{125446}{125491}- Vous enregistrez ?|- Un instant.
+{125868}{125899}- Allez-y.|- Dr Watts.
+{125906}{125999}Unité spéciale 37 4327.|Nom de code Trixie.
+{126008}{126063}Section Recherche et Développement.
+{126073}{126143}- Nous transmettons.|- Faites vite.
+{126233}{126281}Celle-ci est plus grosse.
+{126310}{126356}Par rapport|aux autres échantillons.
+{126362}{126425}Ça alors, on a trouvé !
+{126435}{126469}Il faut envoyer ça à Dietrich.
+{126475}{126497}Je ne comprends pas...
+{126503}{126548}Peu importe.|Contentez-vous d'espérer.
+{126555}{126634}Si vous m'expliquiez|je serais plus utile.
+{126643}{126669}Passez-moi Peckem.
+{126691}{126777}Vous êtes déjà en ligne.
+{126786}{126829}J'avais demandé|une deuxième ligne.
+{126838}{126876}Vous voulez annuler ?
+{126883}{126907}Écoutez-moi.
+{126913}{126973}Vous pouvez me passer Dietrich|dans le QG du colonel ?
+{126995}{127026}Oui, c'est possible.
+{127033}{127119}Je pars à l'instant,|j'y suis dans deux minutes.
+{127128}{127188}- C'est urgent.|- Compris !
+{127301}{127346}Prévenez-moi|en cas de changement.
+{127358}{127415}Dites-moi ce que je cherche !
+{127538}{127574}Écoutez-moi.
+{127580}{127614}Je suis le Dr Watts.
+{127630}{127678}Je suis scientifique.
+{127713}{127795}Mais écoutez-moi !|Je travaille sur le virus !
+{127804}{127859}Vous faites erreur !
+{127936}{127976}Vérifiez mon empreinte vocale !
+{128026}{128057}Vous faites erreur !
+{129196}{129237}On a atteint le cordon.
+{129276}{129348}Tu devras faire|exactement ce que je te dis.
+{129355}{129389}C'est promis.
+{129428}{129471}- Tu te sens bien ?|- Oui.
+{129478}{129504}Je suis prête.
+{129553}{129606}Qu'est-ce qu'il y a ?
+{129630}{129654}Je suis fatiguée.
+{129698}{129717}Écoute-moi bien.
+{129731}{129813}Ils vont venir par ici|et passer juste à côté de nous.
+{129820}{129871}Ensuite, nous serons libres.
+{129879}{129905}Nous serons sauvés.
+{129976}{130007}Je vais rester toute seule ?
+{130013}{130061}- Pas longtemps.|- Ça me fait peur.
+{130101}{130137}Je peux t'accompagner ?
+{130144}{130182}Je dois poser ces parpaings.
+{130271}{130345}- Tu seras où ?|- Caché dans la tour.
+{130414}{130505}Tu vas les entendre passer|et fouiller les lieux.
+{130514}{130564}Reste bien tranquille.
+{130618}{130671}- Je vais revenir.|- Ils me trouveront pas.
+{130743}{130762}Ils nous trouveront jamais.
+{130816}{130844}Nous ?
+{130851}{130875}Ils te trouveront toi.
+{130881}{130939}Je serai bien caché.
+{130945}{130972}Et si ça arrive ?
+{130979}{131002}Ça n'arrivera pas.
+{131093}{131122}Ça n'arrivera pas.
+{131174}{131267}Quand tu les entendras,|surtout ne fais pas de bruit.
+{131288}{131333}Quand ils seront partis,
+{131348}{131382}je viendrai te chercher.
+{131389}{131437}Si jamais je ne viens pas,
+{131480}{131560}tu devras te débrouiller toute seule.
+{131586}{131634}Je ne pourrai jamais sans toi.
+{131641}{131689}Ne t'inquiète pas,|je te rejoindrai.
+{131698}{131736}- Où ?|- Je te retrouverai...
+{131743}{131772}Au Zebra club.
+{131779}{131805}Je me rappelle maintenant.
+{131833}{131901}Non, pas le Zebra club.
+{131908}{131944}Je te retrouverai chez ta mère.
+{131951}{132016}- Chez ta mère à Danville.|- Bonne idée.
+{132024}{132069}Si je ne reviens pas,
+{132093}{132150}tu devras|t'y rendre toute seule.
+{132188}{132219}Tu feras bien attention.
+{132231}{132281}Surtout|ne dis rien et ne bouge pas.
+{132303}{132344}Je ferai la même chose.
+{132389}{132410}Je t'aime Judy.
+{132423}{132443}Je t'aime.
+{132471}{132497}Je ne t'entends plus.
+{132543}{132601}David, je ne t'entends plus.
+{132643}{132677}Je t'aime.
+{132901}{132973}Comment on va appeler le bébé ?
+{133119}{133172}C'est un garçon je crois.
+{133358}{133408}Mon bébé...
+{134319}{134345}Vous voyez nos lumières ?
+{134351}{134401}Envoyez-nous des torches.
+{134866}{134921}Fouillez le bâtiment.
+{134929}{134960}Par groupes de deux.
+{135569}{135624}- On dégage.|- Je vais voir là-haut.
+{135639}{135679}Fais gaffe aux timbrés.
+{135686}{135734}Ils le sont tous ici.
+{135793}{135817}Tu vois quelque chose ?
+{135931}{135967}Allez, on s'en va.
+{136192}{136242}- Qu'est-ce que tu fous ?|- J'arrive.
+{136366}{136388}Ça va ?
+{136489}{136527}Qu'est-ce qui se passe ?
+{136539}{136568}Rien, je descends.
+{136584}{136649}Tu m'as fais peur...|Réponds quand je te parle.
+{136657}{136716}J'arrive,|je suis en train de pisser.
+{136723}{136759}J'y crois pas putain...
+{136766}{136792}Il pisse !
+{137038}{137084}On est loin de la ville ?
+{137104}{137137}Je sais pas.
+{137301}{137351}Magne-toi.|J'ai les jetons moi.
+{137434}{137487}Allez,|ou les autres vont nous semer.
+{137494}{137530}J'arrive.
+{137686}{137722}Tais-toi !
+{137754}{137809}On dirait une voix de gosse.
+{137834}{137865}C'est une gonzesse !
+{137941}{137974}Tout va bien, c'est moi.
+{138246}{138282}Judy, c'est moi !
+{138589}{138630}Arrêtez, on est avec vous.
+{138686}{138725}Ne tirez pas !
+{138739}{138791}On n'est pas des militaires !
+{139269}{139303}Je ne savais pas que c'était toi.
+{139794}{139827}C'est qui ?
+{139861}{139926}David, j'ai mal.
+{140024}{140072}Je sais...
+{140251}{140302}Il donne des coups de pied.
+{140376}{140407}Des coups de pied.
+{140564}{140617}Je ne devrais pas déjà avoir mal.
+{140686}{140718}J'ai mal.
+{140723}{140781}Et pour le prénom...
+{140911}{140950}On devrait...
+{141011}{141088}On devrait l'appeler David.
+{141331}{141422}Tout à fait exact|au niveau du recensement.
+{141437}{141509}3613 habitants au total.
+{141599}{141654}2100 survivants.
+{141700}{141752}Si on peut appeler ça|des survivants.
+{141759}{141819}Bien reçu Chris.|Beau travail.
+{141827}{141863}Ça m'embête de vous dire ça
+{141869}{141938}mais vous êtes relevé|de vos fonctions.
+{141947}{141995}Vous partez pour Louisville.
+{142002}{142093}Sans vouloir vous inquiéter|nous avons eu vent de symptômes.
+{142102}{142217}Trixie a très bien pu se propager|avant votre intervention.
+{142272}{142322}Rien n'est moins sûr
+{142335}{142411}mais il serait préférable|que vous alliez vérifier.
+{142439}{142526}En cas d'épidémie|vous serez mieux préparé.
+{142554}{142626}Vu ce que vous avez déjà|sur les bras.
+{142652}{142698}Vous serez seul là-bas.
+{142704}{142788}Les routes sont bloquées|et les aéroports fermés.
+{142809}{142855}Vous faites un excellent travail.
+{142861}{142893}Tenez bon.
+{142899}{142950}Votre transport est prévu.
+{142966}{143033}Passez par l'infirmerie|avant de partir.
+{143056}{143112}Ce serait bête|que vous soyez porteur.
+{143344}{143394}Les mains à plat sur la tête.
+{143404}{143437}Respirez par la bouche.
+{143836}{143880}Vous pouvez sortir|colonel.
+{143907}{143933}Des nouvelles de Dietrich ?
+{143939}{144016}Un nouvel expert de Trixie|arrive demain.
+{144031}{144082}Si seulement on savait|sur quoi travaillait Watts.
+{144090}{144193}On a observé ses préparations|mais on n'y comprend rien.
+{144202}{144226}Il était sur une piste.
+{144242}{144299}On s'en sortira, tôt ou tard.
+{144357}{144448}Ils ont trouvé un singe immunisé|à Dietrich.
+{144459}{144503}Un humain suivra tôt ou tard.
+{144580}{144613}Tôt ou tard...
+{144696}{144739}On vérifie son immunité ?
+{144747}{144781}Vous plaisantez j'espère.

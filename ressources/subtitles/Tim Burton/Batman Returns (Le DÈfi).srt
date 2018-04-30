@@ -1,0 +1,1048 @@
+{2430}{2476}- Joyeux Noël.|- Joyeux Noël.
+{4502}{4538}BATMAN|LE DEFI
+{7909}{7964}GOTHAM CITY - 33 ANS PLUS TARD
+{8200}{8259}Nouvelle apparition du Pingouin !|Homme ou mythe ?
+{8261}{8338}Qui est-il ? Dernière édition.|Une autre apparition du Pingouin.
+{8340}{8406}Nouvelle apparition du Pingouin !|Informez-vous !
+{8408}{8518}L'Homme-Pingouin vit dans les égouts !|Tout sur sa dernière apparition !
+{8636}{8697}Puis-je avoir votre attention,|habitants de Gotham ?
+{8700}{8774}Il est temps d'illuminer|notre arbre de Noël.
+{8889}{8925}Qu'en pensez-vous ?
+{9317}{9382}Mi-homme, mi-pingouin ! Une horreur !
+{9404}{9461}Vous saurez tout pour 50 cents !
+{9480}{9555}Tout sur la terreur qui rampe|sous vos pieds !
+{9584}{9620}Vous saurez tout !
+{9641}{9689}LE PINGOUIN, MYTHE OU REALITE ?
+{9692}{9735}Chaînon manquant entre homme et oiseau.
+{9737}{9771}Mon cher petit...
+{9773}{9846}il est parfois distrayant de lire|de telles sottises.
+{9848}{9901}Mais en général, c'est perdre son temps.
+{9904}{9994}Peu importe. La dernière ! Le Pingouin !|Homme ou mythe ?
+{10009}{10066}Demandez "Le Globe" ! 35 cents !
+{10659}{10697}Bien, espérons.
+{10703}{10795}Avec de la chance, Gotham aura|son 1er Noël heureux depuis longtemps.
+{10797}{10863}C'est presque déplacé en cette période...
+{10867}{10922}de parler de la nouvelle centrale électrique.
+{10925}{11017}Mais si nous devons l'ouvrir à temps,|il va me falloir des permis...
+{11023}{11109}des dérogations, des avantages fiscaux.|Toute la panoplie.
+{11143}{11181}Une centrale électrique ?
+{11183}{11277}Selon les études, nous aurons assez|d'énergie jusqu'en 3500.
+{11295}{11405}Vos analystes prévoient une croissance|de 1% par an. Un simple frémissement.
+{11445}{11473}Imaginez...
+{11479}{11507}la Gotham...
+{11533}{11609}du futur, illuminée|comme un tapis d'étoiles...
+{11627}{11684}mais qui s'allume et s'éteint...
+{11691}{11744}à cause des baisses de tension.
+{11751}{11783}Franchement,
+{11801}{11847}j'en frémis, M. le Maire.
+{11875}{11934}Désolé, tous les plans doivent...
+{11945}{11987}suivre la filière normale.
+{11995}{12039}J'ai une suggestion.
+{12229}{12255}Bien...
+{12277}{12338}en fait, c'est plutôt une question.
+{12399}{12489}J'ai peur que nous n'ayons pas|suffisamment dressé Mlle Kyle.
+{12503}{12547}A son crédit toutefois,
+{12553}{12599}elle fait un excellent café.
+{12804}{12826}Papa ?
+{12849}{12937}M. le Maire ? L'heure est venue|d'aller réjouir les masses.
+{13193}{13235}"En fait, plutôt une question."
+{13237}{13288}Espèce de grosse saucisse.
+{13311}{13352}Pauvre saucisse !
+{14004}{14100}Rien qu'avec mes employés,|j'ai assez de voix pour vous révoquer.
+{14104}{14165}Ce n'est pas une menace,|c'est simplement mathématique.
+{14167}{14253}Peut-être. Mais vous n'avez|ni programme, ni candidat.
+{14296}{14347}Merci, mesdames et messieurs.
+{14369}{14438}L'Hôtel de Ville vous souhaite à tous...
+{14449}{14484}de Joyeuses Fêtes.
+{14504}{14602}Avec nous un homme qu'on ne présente|plus tant il nous a donné.
+{14632}{14718}Merci d'accueillir le Père Noël de Gotham :|Max Shreck.
+{15233}{15301}Prendre les contrats au service|du personnel,
+{15305}{15372}les affaires au pressing et de l'essuie-tout.
+{15441}{15463}Zut !
+{15605}{15643}J'ai oublié mon discours.
+{15645}{15735}Fais-moi penser à me défouler sur,|comment s'appelle-t-elle déjà ?
+{15813}{15847}Père Noël ?
+{15853}{15885}Hélas non.
+{15913}{15985}Je ne suis qu'un pauvre type|qui a eu de la chance.
+{16011}{16055}Vous pouvez me poursuivre...
+{16057}{16108}parce que j'en redistribue un peu.
+{16177}{16249}J'aimerais seulement pouvoir|vous donner plus que...
+{16251}{16291}des babioles de luxe.
+{16321}{16387}J'aimerais vous offrir la paix mondiale...
+{16405}{16458}et l'amour inconditionnel...
+{16495}{16546}dans un gros paquet-cadeau.
+{16583}{16627}Oh, mais tu pourras.
+{16637}{16682}Oh, mais tu le feras.
+{16843}{16878}Joyeux Noël.
+{17203}{17239}Excellente idée.
+{17253}{17292}Elle n'est pas de moi.
+{18541}{18576}Donnez le signal !
+{19349}{19423}On veut le patron !|Celui qui mène la danse !
+{19491}{19519}Que voulez-vous ?
+{19521}{19553}Pas toi !
+{19573}{19597}Shreck !
+{19607}{19655}Il faudra me passer dessus.
+{19701}{19747}Papa ! Va-t'en ! Sauve-toi !
+{19753}{19783}Papa, va-t'en !
+{22516}{22549}La ferme !
+{22743}{22804}Un pas de plus, M. Manbat, et je...
+{22948}{22970}Loupé.
+{23292}{23325}M. Batman.
+{23344}{23401}Ou est-ce simplement "Batman" ?
+{23496}{23547}Comme vous voudrez, bien entendu.
+{23592}{23628}Bien, ce fut...
+{23636}{23668}très bref.
+{23680}{23731}Comme avec tous les autres hommes.
+{23752}{23786}Quels hommes ?
+{23802}{23828}Bien...
+{23852}{23932}il y a vous.|Mais vous avez besoin d'une thérapie.
+{24452}{24546}Merci d'avoir sauvé la journée, Batman.|Le Gang du Cirque est de retour.
+{24548}{24578}C'est ce qu'on va voir.
+{24580}{24661}Ils ont presque enlevé notre grand ponte,|Max Shreck.
+{24676}{24726}Où est cet infâme salaud ?
+{25873}{25905}POLE NORD
+{26584}{26659}Je crois que le mot|que tu cherches est : ah !
+{26921}{26986}En fait, ce n'est qu'un mauvais rêve.
+{27016}{27060}Tu es couché chez toi...
+{27064}{27139}confortablement installé,|bourré de tranquillisants...
+{27148}{27251}agonisant à cause des substances|cancérigènes que tu as "vomies"...
+{27263}{27313}dans ta vie de profiteur.
+{27331}{27365}Ironie tragique...
+{27369}{27413}ou justice immanente ?
+{27417}{27461}A toi de me le dire.
+{27481}{27525}Mon Dieu, c'est vrai.
+{27533}{27586}L'Homme-Pingouin des égouts.
+{27685}{27749}Aussi étrange que cela paraisse, Max...
+{27759}{27824}toi et moi avons une chose en commun.
+{27877}{27938}Nous sommes perçus|comme des monstres.
+{28041}{28083}Mais étrangement...
+{28111}{28164}tu es un monstre respecté...
+{28183}{28228}et jusqu'à ce jour...
+{28255}{28287}moi pas !
+{28291}{28371}C'est de la calomnie.|Je suis un homme d'affaires.
+{28383}{28417}Dur, c'est vrai.
+{28421}{28507}Rusé, certes. Mais cela ne fait pas|de moi un monstre.
+{28521}{28569}Ne sois pas gêné, Max !
+{28583}{28628}Je sais tout sur toi.
+{28635}{28694}Ce que tu caches, je le découvre.
+{28713}{28764}Ce que tu jettes dans tes toilettes...
+{28767}{28833}je l'expose sur ma cheminée. Tu vois ?
+{28853}{28904}C'est censé m'hypnotiser ?
+{28913}{28979}Non, juste te donner une migraine atroce.
+{28995}{29029}Ça ne marche pas.
+{29057}{29099}Oh, pauvre petit !
+{29111}{29143}Je tire à blanc.
+{29149}{29227}Est-ce que je ferais autant d'histoires|juste pour te tuer ?
+{29229}{29261}Non, Max.
+{29269}{29320}J'ai un tout autre dessein.
+{29357}{29395}Je suis prêt, Max.
+{29407}{29468}Je suis là-dessous depuis trop longtemps.
+{29471}{29532}Il est temps pour moi de m'élever,
+{29543}{29581}de ressurgir...
+{29625}{29659}avec ton aide...
+{29665}{29703}ton savoir-faire...
+{29707}{29741}ta jugeote.
+{29765}{29829}Je ne suis pas né dans les égouts, tu sais.
+{29855}{29892}Je viens de...
+{29909}{29941}comme toi.
+{29947}{30012}Et comme toi, je veux être respecté !
+{30027}{30088}Une reconnaissance de mon humanité.
+{30109}{30142}Mais avant tout,
+{30167}{30222}je veux savoir qui je suis...
+{30229}{30277}en retrouvant mes parents...
+{30281}{30336}et connaître mon nom d'homme.
+{30353}{30451}Des trucs simples que les gens de Gotham|tiennent pour acquis !
+{30483}{30511}Et...
+{30515}{30578}pourquoi vous aiderais-je au juste ?
+{30625}{30653}Bien...
+{30765}{30806}Commençons par le début.
+{30995}{31050}Voyons ce que nous avons ici.
+{31153}{31212}Une flopée de déchets toxiques...
+{31231}{31294}de ton usine textile non-polluante !
+{31313}{31391}Il y a un plein lac de ces saloperies|en amont !
+{31395}{31446}Ça pourrait venir de n'importe où.
+{31457}{31560}Et les documents prouvant|que tu as la moitié du Gotham insalubre ?
+{31571}{31622}Si de tels documents existaient,
+{31627}{31665}je dis bien si,
+{31672}{31721}ils seraient passés au broyeur.
+{31743}{31777}Bonne idée.
+{31808}{31904}Mais beaucoup de scotch|et un peu de patience, ça change tout.
+{31971}{32004}Au fait...
+{32019}{32080}comment va Fred Takins, ton vieil associé ?
+{32083}{32111}Fred ?
+{32136}{32170}Fred est...
+{32191}{32263}je crois qu'il est en congé prolongé.|Il va bien.
+{32351}{32379}Bien.
+{32427}{32521}Salut, Max. Tu te souviens de moi ?|Je suis la main de Fred !
+{32527}{32591}Tu veux saluer d'autres parties du corps ?
+{32596}{32637}Souviens-toi Max,
+{32643}{32694}j'affiche ce que tu jettes.
+{32736}{32795}Vous savez quoi, M. Le Pingouin ?
+{32923}{32962}Je pense que peut-être...
+{32964}{33046}je vais pouvoir vous organiser|une arrivée triomphale là-haut.
+{33048}{33144}Une fois là-haut, nous pourrons peut-être|nous aider mutuellement.
+{33160}{33211}Vous ne le regretterez pas.
+{33411}{33460}Chéri, je suis rentrée !
+{33503}{33564}Oh, j'oubliais, je ne suis pas mariée.
+{33812}{33846}Mlle Ketty.
+{33883}{33962}De retour d'une autre escapade|sexuelle secrète ?
+{34023}{34070}Non pas que cela m'intéresse.
+{34112}{34147}Bois ton dîner.
+{34304}{34332}Quoi ?
+{34368}{34425}Comment peut-on être aussi minable ?
+{34460}{34534}Oui, à tes yeux, je suis minable.|Mais je travaille.
+{34538}{34635}Faut bien payer le loyer. Si tu contribuais|au lieu de sortir t'amuser ?
+{34674}{34758}Selina, c'est ta mère.|J'appelle juste pour te dire bonjour.
+{34762}{34794}Oui, mais...
+{34798}{34876}Mais je suis déçue que|tu ne rentres pas pour Noël.
+{34880}{34964}Je veux savoir pourquoi tu insistes|pour te languir à Gotham...
+{34966}{35014}comme une modeste secrétaire.
+{35018}{35066}Une modeste assistante.
+{35104}{35188}Selina, pour ces petites vacances de Noël|qu'on avait prévues,
+{35206}{35310}je pars seul. Le Dr Shaw dit que|je dois être moi, pas un appendice.
+{35428}{35465}Un appendice !
+{35598}{35684}C'est toujours la fête sur le répondeur|de Selina Kyle.
+{35738}{35812}J'aurais dû lui laisser gagner|cette partie de squash.
+{35820}{35846}Bonjour...
+{35848}{35883}Selina Kyle.
+{35888}{35968}Nous vous appelons au sujet|du nouveau parfum Gotham Lady.
+{35972}{36086}Avec lui, les femmes se sentent femmes|et les hommes ne s'en plaignent pas.
+{36138}{36228}C'est pour te rappeler que tu dois|retourner au bureau...
+{36281}{36373}- ... chercher le dossier Bruce Wayne.|- Espèce de grosse saucisse !
+{36839}{36874}Des heures sup ?
+{36932}{37036}Je potasse un peu pour votre rendez-vous|avec Bruce Wayne demain matin.
+{37046}{37138}J'ai sorti tous les dossiers|sur les projets de centrale...
+{37190}{37292}et l'apport de M. Wayne.|J'ai même ouvert les dossiers protégés...
+{37322}{37356}Quel zèle !
+{37396}{37464}Comment avez-vous ouvert|les dossiers protégés ?
+{37476}{37509}Puis-je savoir ?
+{37638}{37751}J'ai pensé à "Geraldo", votre Chihuahua,|comme mot de passe et c'était ça.
+{37926}{38008}C'est très intéressant,|bien qu'un peu technique...
+{38084}{38170}sur le fait que la centrale n'est|une centrale que de nom,
+{38178}{38241}puisqu'en fait, ce sera un énorme...
+{38272}{38329}un gigantesque... accumulateur.
+{38386}{38474}Et au lieu de générer de l'énergie,|ça va en extraire...
+{38504}{38538}de Gotham...
+{38566}{38599}la stocker...
+{38618}{38658}et l'emmagasiner...
+{38667}{38753}ce qui, je dois dire,|constitue une approche nouvelle.
+{38807}{38858}A qui d'autre en avez-vous parlé ?
+{38934}{38962}A personne.
+{39110}{39161}Aussi curieuse qu'un chat ?
+{39223}{39271}Je ne suis pas un chat.
+{39279}{39326}Je ne suis qu'une assistante.
+{39334}{39364}Une secrétaire.
+{39375}{39422}Une très bonne secrétaire.
+{39439}{39469}Trop bonne ?
+{39499}{39523}Ecoutez,
+{39527}{39578}ce sera notre secret. Promis.
+{39586}{39656}Comment pouvez-vous être aussi méchant|envers quelqu'un d'aussi insignifiant ?
+{39658}{39694}Cette centrale...
+{39706}{39771}sera mon legs. C'est ce que je laisserai.
+{39775}{39805}A Chip.
+{39814}{39865}Rien ne doit entraver ce projet.
+{39950}{40051}Allez-y. Essayez de m'intimider.|Brutalisez-moi si ça peut vous aider.
+{40055}{40112}Vous n'allez tout de même pas me tuer !
+{40114}{40165}En fait, je vais y penser.
+{40599}{40666}L'espace d'une seconde,|vous m'avez fait peur.
+{40922}{40950}Vraiment ?!
+{42764}{42805}Chéri, je suis rentrée !
+{42874}{42931}Oh, j'oubliais, je ne suis pas mariée.
+{43786}{43849}Selina, c'est ta mère. Rappelle-moi.
+{43882}{43972}Selina, c'est ta mère.|Pourquoi ne m'as-tu pas rappelée ?
+{43992}{44037}Bonjour, Selina Kyle.
+{44054}{44138}Nous appelons juste pour savoir|si vous avez testé le parfum Gotham Lady.
+{44140}{44234}Un "coup de vapes" et votre patron|vous demandera de rester...
+{44246}{44311}pour une réunion de travail aux chandelles.
+{44315}{44389}Le parfum Gotham Lady.|Seulement chez Shreck.
+{48169}{48203}ICI L'ENFER
+{48351}{48437}Je ne sais pas pour toi,|Mlle Kitty, mais je me sens...
+{48449}{48493}tellement plus "miam-miam".
+{48939}{48980}Mesdames et messieurs :
+{49021}{49135}Me voici devant vous pour dénoncer|le chaos urbain dans lequel nous vivons.
+{49169}{49205}Il faut que ça cesse.
+{49207}{49247}Cela va cesser !
+{49253}{49355}Notre communauté se divise|à une période propice au rapprochement.
+{49367}{49453}Je me fiche de ce que les cyniques diront.|C'est la trêve des confiseurs...
+{49455}{49495}et ce doit être une période d'apaisement.
+{49497}{49563}Je ne dis pas ça seulement|en tant qu'officiel,
+{49579}{49627}mais en tant qu'époux et père.
+{49641}{49714}Il n'y aura plus de violence|comme la nuit dernière.
+{49781}{49877}Les discours ne sont pas mon fort,|alors je dirai simplement : "merci".
+{50065}{50122}C'est l'affreux Homme-Pingouin.
+{50133}{50202}Ne faites pas de mal à mon bébé,|s'il vous plaît.
+{51465}{51562}C'est ce qui s'est passé il y a|quelques minutes sur la Place de Gotham.
+{51566}{51650}Le mystérieux Pingouin sauvant la vie|du bébé du Maire...
+{51654}{51752}- ... avant d'annoncer sa présence.|- Tout ce que je demande en retour...
+{51766}{51805}c'est de pouvoir...
+{51813}{51859}retrouver mes parents.
+{51906}{51952}Savoir qui ils sont...
+{51998}{52032}et ainsi...
+{52041}{52076}qui je suis.
+{52094}{52122}Puis,
+{52133}{52174}avec mes parents,
+{52185}{52246}essayer de comprendre... pourquoi.
+{52274}{52376}Pourquoi ils ont fait ce que, je pense,|ils se sentaient obligés de faire...
+{52410}{52447}à un enfant...
+{52466}{52502}qui est né...
+{52578}{52623}légèrement différent.
+{52669}{52697}Un enfant...
+{52709}{52766}qui a passé son premier Noël...
+{52793}{52841}et de nombreux autres depuis...
+{52874}{52906}dans les égouts.
+{52910}{52973}M. Wayne ? Quelque chose ne va pas ?
+{53050}{53078}Ses parents.
+{53082}{53133}En direct de la Place de Gotham.
+{53173}{53221}J'espère qu'il les retrouvera.
+{53238}{53332}Le voici, debout au côté du grand ponte|de Gotham, Max Shreck.
+{53337}{53406}Une déclaration ? Les gens veulent savoir.
+{53457}{53499}SALLE DES ARCHIVES
+{53666}{53743}- Laissez le Pingouin tranquille !|- C'est un lieu public !
+{53745}{53806}- Allez, avancez maintenant.|- Et la liberté de la presse !
+{53808}{53850}Attendez une minute.
+{53872}{53960}Que faites-vous de la liberté|de retrouver ses racines...
+{53964}{54012}avec dignité et en privé ?
+{54016}{54071}Le Pingouin est-il un ami personnel ?
+{54076}{54164}C'est un ami personnel de toute la ville,|alors ayez pitié.
+{54170}{54237}Laissez la Constitution tranquille.|C'est Noël.
+{55137}{55180}Le Cirque est en ville
+{55184}{55286}"Le Cirque du Triangle Rouge offre|un numéro sensass avec des lions féroces.
+{55377}{55438}"Le Cirque est de retour pour 3 semaines...
+{55440}{55483}"Les enfants vont adorer."
+{55488}{55514}Merci.
+{55617}{55641}C'est froid !
+{55644}{55683}C'est une vichyssoise.
+{55706}{55746}C'est censé être froid.
+{55809}{55888}"Le Cirque revient avec ses monstres.|Enfants s'abstenir.
+{55890}{55939}"En vedettes : la Femme-Caniche,
+{55946}{55995}"l'Homme le plus gros du monde,
+{55999}{56054}"et l'Enfant-Oiseau aquatique."
+{56078}{56139}Pourquoi êtes-vous décidé à prouver...
+{56145}{56214}que ce Pingouin n'est pas|ce qu'il prétend être ?
+{56223}{56301}Est-ce que vous devez être|le seul "homme-animal" de cette ville ?
+{56303}{56353}"Le Cirque a replié son chapiteau hier...
+{56355}{56436}"après l'annonce de disparitions d'enfants|dans plusieurs villes.
+{56438}{56509}"La police a interdit l'accès|au champ de foire du Triangle Rouge.
+{56511}{56585}"Toutefois, un des monstres s'est éclipsé...
+{56611}{56662}"avant d'avoir été interrogé."
+{56706}{56759}Vous vous sentez mieux maintenant ?
+{56822}{56846}Non.
+{56877}{56930}En fait, je me sens plus mal.
+{57369}{57405}Pourquoi êtes-vous encore dehors ?
+{57407}{57493}Vous êtes inquiet pour|cet étrange Pingouin héroïque ?
+{57542}{57603}Je pense qu'il sait qui sont ses parents.
+{57643}{57686}Il y a autre chose.
+{59143}{59191}TUCKER COBBLEPOT|A MON CHER EPOUX
+{59193}{59254}ESTHER COBBLEPOT|A MA TENDRE EPOUSE
+{60473}{60503}M. Pingouin...
+{60505}{60574}Un pingouin est un oiseau|qui ne sait pas voler !
+{60608}{60649}Je suis un homme !
+{60671}{60707}J'ai un nom !
+{60803}{60845}Oswald Cobblepot !
+{60889}{60967}Vous n'allez jamais pouvoir vous venger|de vos parents.
+{61040}{61068}C'est exact.
+{61095}{61145}J'étais leur fils aîné...
+{61157}{61227}et ils m'ont traité comme|le dernier des derniers.
+{61241}{61313}Mais c'est dans la nature humaine|de craindre...
+{61335}{61369}l'inhabituel.
+{61393}{61428}Peut-être...
+{61436}{61475}qu'en me voyant tenir...
+{61477}{61525}mon hochet de chez Tiffany...
+{61549}{61599}avec mes nageoires luisantes...
+{61609}{61666}au lieu de cinq doigts potelés,
+{61707}{61747}ils ont paniqué.
+{61837}{61883}Mais je leur pardonne.
+{61921}{61993}"Le Pingouin pardonne à ses parents !|Je suis en paix avec tout le monde !
+{61995}{62056}"Pas besoin de mains tant qu'on a un cœur.
+{62060}{62135}"Mon cœur est plein d'amour.|Je me sens planer."
+{62139}{62236}- On dirait un crapaud devenu prince.|- Non, on dirait plus un pingouin.
+{62369}{62413}Allons, ma mignonne.
+{62435}{62468}Doucement.
+{62575}{62689}J'aime les hommes qui n'hésitent pas|à jouer les durs avec de faibles femmes.
+{62747}{62804}Sois gentil, c'est la première fois.
+{62977}{63014}Tic, tac, toc.
+{63142}{63205}Tu leur facilites les choses, n'est-ce pas ?
+{63209}{63293}Toujours à attendre qu'un certain Batman|vienne à ton secours.
+{63344}{63387}Je suis Catwoman...
+{63410}{63445}et je rugis.
+{63794}{63894}Je vous aurais bien offert du café,|mais mon assistante a pris ses vacances.
+{63896}{64003}Tout le monde sauf les bandits|fait relâche jusqu'au début de l'année.
+{64025}{64076}Je ne suis pas sûr d'aimer l'allusion.
+{64078}{64118}Quelle allusion ?
+{64238}{64338}Je pousse pour la centrale|car plus on attend, plus ce sera cher.
+{64350}{64409}Un million épargné est un million gagné.
+{64424}{64489}J'ai commandé ce rapport. Etudiez-le.
+{64549}{64646}Gotham a un surplus de puissance.|Je suis sûr que vous le savez.
+{64650}{64696}Ma question est donc :
+{64710}{64738}que cherchez-vous ?
+{64741}{64820}Un surplus de puissance ?|Bruce, j'en rougis pour vous !
+{64825}{64904}Il n'y a rien de tel.|On n'a jamais trop de puissance.
+{64910}{64980}Si ma vie a un sens, c'est bien celui-là.
+{65030}{65129}Je vous contrecarrerai sur ce projet.|Le Maire et moi sommes d'accord.
+{65132}{65171}Les maires, ça va, ça vient.
+{65173}{65221}Les aristos se fatiguent vite.
+{65225}{65288}Pourriez-vous mettre K.-O.|Mohammed Shreck ?
+{65290}{65343}Je crois que l'avenir nous le dira.
+{65345}{65418}Bien sûr, je n'ai pas de seigneur mafioso|comme Cobblepot avec moi.
+{65420}{65477}Mafioso ?! Vous semblez mal informé...
+{65480}{65548}M. le Fils à Papa né|avec une cuiller d'argent dans la bouche.
+{65550}{65609}Oswald est le nouvel enfant|chéri de Gotham.
+{65611}{65699}Si ses parents ne l'avaient pas "jeté",|vous seriez copains de promo.
+{65701}{65800}Il dirige le Gang du Triangle Rouge.|Je ne peux pas encore le prouver, mais...
+{65802}{65863}Je ne vais pas me laisser insulter.
+{65870}{65950}Si mon assistante était là,|elle vous aurait déjà raccompagné.
+{65952}{65994}Raccompagné n'importe où.
+{65996}{66078}De préférence dans une boîte de nuit,|une grotte...
+{66090}{66114}ou...
+{66124}{66168}une cachette isolée.
+{66216}{66250}Joli costume.
+{66400}{66502}C'est mon nom, ne l'usez pas ou vous allez|devoir m'en acheter un nouveau.
+{66604}{66641}Voici Bruce...
+{66654}{66680}Wayne.
+{66699}{66736}Nous nous sommes rencontrés.
+{66738}{66762}Ah oui ?
+{66766}{66854}Non, pardon. Je me suis confondu|avec quelqu'un d'autre.
+{66878}{66933}Vous voulez dire :|"vous m'avez confondue".
+{66936}{66991}Ce n'est pas ce que j'ai dit ?
+{67000}{67040}Je ne crois pas.
+{67073}{67110}Que s'est-il passé ?
+{67132}{67207}Vous vous êtes blessée|sur ces pistes de ski ?
+{67240}{67328}C'est pourquoi vous avez écourté|vos vacances et êtes de retour ?
+{67399}{67438}Tout est embrouillé.
+{67470}{67587}Pas une amnésie totale. Je revois Sœur|Mary Margaret dégueulant dans l'église.
+{67602}{67661}Et Betsy affirmant que|c'étaient des nausées matinales.
+{67663}{67740}Et la fois où j'ai oublié de mettre|une culotte à l'école...
+{67742}{67832}et le nom du garçon qui s'en est aperçu :|Ricky Friedburg.
+{67858}{67899}Il est mort maintenant.
+{67903}{67939}Mais pour hier soir,
+{67944}{67987}c'est le trou noir.
+{68028}{68074}N'est-ce pas honteux ?
+{68174}{68206}S'il vous plaît,
+{68234}{68273}raccompagnez M. Wayne.
+{68280}{68314}Avec plaisir.
+{68374}{68423}Votre manteau, M. Wayne.
+{68752}{68826}Vous ne semblez pas|du genre à traiter avec Shreck.
+{68832}{68891}Et vous pas du genre à lui obéir.
+{68899}{68934}Bien, c'est une...
+{68940}{68978}longue histoire.
+{68995}{69043}Je pourrais me libérer.
+{69090}{69141}- Je suis dans l'annuaire.|- Je suis tenté.
+{69144}{69180}Je suis au travail.
+{69204}{69240}Je suis déjà parti.
+{69246}{69296}Tu as cru à cette histoire d'amnésie ?
+{69298}{69326}Les femmes.
+{69334}{69382}Rien ne me surprend plus.
+{69391}{69432}Sauf feu ta mère.
+{69450}{69520}Qui aurait pu croire que Selina|avait un cerveau à déranger ?
+{69522}{69561}Au pire, que fait-on ?
+{69566}{69662}Si elle essaie de me faire chanter,|je la défenestre de plus haut.
+{69666}{69694}En attendant,
+{69696}{69753}j'ai de pires chats à fouetter.
+{70029}{70059}Oswald,
+{70076}{70108}c'est Max.
+{70428}{70461}Vous êtes là ?
+{70640}{70677}Comment allez-vous ?
+{70712}{70757}C'est toute votre famille.
+{70768}{70810}C'est bon d'en avoir une.
+{70849}{70900}Je préférerais ne pas être dérangé.
+{70909}{70974}Descendez, Oswald. J'ai une surprise.
+{70984}{71032}Je n'aime pas les surprises.
+{71440}{71464}Venez.
+{71776}{71809}Ne regardez pas.
+{71857}{71892}Ça gâcherait tout.
+{72452}{72553}L'adulation est une croix à porter.|Dieu sait que j'en sais quelque chose.
+{72556}{72644}Mais quelqu'un doit remplacer|ceux qui barrent le chemin du progrès.
+{72647}{72731}Et ne le niez pas, M. Cobblepot,|vous avez ce qu'il faut.
+{72736}{72820}A vous seul, vous avez plus de charisme|que nous deux réunis.
+{72872}{72900}Maire.
+{72927}{72955}Maire.
+{73005}{73083}Les élections sont en novembre.|Nous sommes fin décembre.
+{73085}{73119}Ne vous en faites pas.
+{73121}{73215}Je veux vous présenter Jen et Josh,|mes conseillers en image.
+{73245}{73273}Voilà.
+{73277}{73321}Reprenez vos droits.
+{73389}{73424}Je suis Jen.
+{73505}{73612}D'accord, voyons. J'aimerais que|vous commenciez par mettre ces gants.
+{73621}{73695}Les études montrent que les électeurs|aiment voir des doigts.
+{73697}{73767}Alors, si nous pouvions dissimuler ceci...
+{73797}{73843}Nous le ferons plus tard.
+{73885}{73969}Peu de surfaces réfléchissantes|dans les égouts, hein ?
+{74241}{74300}Toutefois, ça pourrait être pire.
+{74305}{74362}Mon nez pourrait pisser le sang.
+{74451}{74508}Qu'est-ce que vous voulez dire ?
+{74621}{74672}Au travail, tout le monde !
+{74689}{74725}Fabriquons...
+{74741}{74774}un maire !
+{74909}{74981}Vous avez raison,|nous avons manqué les élections,
+{74985}{75040}mais les élus, ça se révoque.
+{75053}{75112}Ça se sacque. Voyez Nixon, Agnew.
+{75121}{75159}Puis imaginez-vous, vous...
+{75161}{75222}Oswald Cobblepot, comblant le vide.
+{75245}{75302}C'est son vide que j'aimerais combler.
+{75349}{75461}Il va nous falloir des signatures|pour la révocation. Je peux les obtenir.
+{75465}{75565}- Montrons lui mon Kamasutra-nageoires.|- Il nous manque une chose.
+{75615}{75653}Une plate-forme ?
+{75685}{75793}Halte au réchauffement planétaire.|Vive le refroidissement de la terre.
+{75801}{75909}Oui, c'est ça. Mais pour révoquer le maire,|il nous faut un catalyseur.
+{75917}{75976}"Vous avez l'air en forme, M. le Maire."
+{75987}{76052}"Votre table est prête, M. le Maire."
+{76071}{76155}"J'ai besoin de vous, Oswald.|J'ai besoin de vous maintenant."
+{76183}{76267}"C'est la plus grande ombrelle|que j'aie jamais vue."
+{76291}{76393}Un incident comme le Golfe du Tonkin|ou l'incendie du Reichstag...
+{76573}{76632}Vous voulez que mes vieux amis montent...
+{76637}{76686}faire enrager le Maire ?
+{76705}{76764}- C'est ça, oui.|- Ça peut être drôle.
+{76769}{76795}Mais,
+{76815}{76885}on ne doit pas me faire dévier|de mon but, Maxie.
+{76889}{76946}Il faut que je m'occupe|de mes propres affaires.
+{76949}{77028}Dévier ? C'est votre chance|d'accomplir le destin
+{77037}{77101}dont vos parents vous ont|négligemment privé.
+{77192}{77245}Réaffirmer mes droits, tu veux dire ?
+{77247}{77322}Imaginez, en tant que maire,|vous aurez l'attention des médias,
+{77324}{77389}l'intérêt des capitaines d'industrie,
+{77407}{77453}et des nanas à foison.
+{77539}{77590}T'es un vrai requin, Maxie.
+{77628}{77672}D'accord, je serai maire.
+{77768}{77808}Ça va chauffer !
+{81700}{81753}- C'est qui, ça ?|- C'est quoi, ça ?
+{81760}{81826}Faut-il faire feu ou tomber amoureux ?
+{81848}{81884}Pauvres types.
+{81888}{81970}Toujours en train de confondre|vos pistolets et vos parties.
+{82022}{82088}Ne nous faites pas de mal.|On gagne juste le SMlC.
+{82090}{82141}C'est encore trop. Disparaissez !
+{82580}{82622}Vas-y, frappe-moi.
+{83544}{83582}On admire son oeuvre ?
+{83638}{83689}Je visite le théâtre des émeutes.
+{83722}{83779}Je mesure l'étendue des dégâts.
+{83836}{83881}Comme tout bon maire.
+{83984}{84023}Vous n'êtes pas maire.
+{84068}{84112}Les choses évoluent.
+{84152}{84196}Qu'est-ce que vous voulez ?
+{84208}{84244}Droit au but.
+{84260}{84323}C'est ce que j'aime|chez un homme masqué.
+{84442}{84507}Vous ne pensez pas vraiment gagner, non ?
+{84575}{84618}Les choses évoluent.
+{85215}{85274}Je l'ai vue le premier. Envolons-nous.
+{86458}{86522}Comment avez-vous pu ?|Je suis une femme !
+{86530}{86560}Je suis désolé.
+{86895}{86998}Comme je disais, je suis une femme|et j'ai droit à quelques égards.
+{87030}{87091}La vie est une garce, et moi aussi.
+{87491}{87521}Qui êtes-vous ?
+{87535}{87594}Qui se cache derrière la chauve-souris ?
+{87631}{87690}Peut-être pourriez-vous m'aider à trouver...
+{87693}{87727}la femme...
+{87743}{87781}derrière le chat ?
+{87847}{87895}Non, ce n'est pas vous.
+{87977}{88009}Ça, c'est vous.
+{88393}{88448}Sauvée par de la litière pour chat.
+{88535}{88565}Salaud !
+{88981}{89007}Alfred,
+{89025}{89080}apportez-moi du désinfectant.
+{89091}{89142}J'arrive. Vous souffrez, monsieur ?
+{89211}{89243}Pas vraiment.
+{89779}{89838}Oui, j'ai sauvé le bébé du Maire,
+{89881}{89940}mais je refuse de sauver un Maire...
+{89945}{90002}aussi impuissant qu'un enfant...
+{90021}{90093}alors que Gotham est ravagée|par un fléau...
+{90119}{90201}qui a transformé nos grands scouts|en clowns fous...
+{90233}{90309}et nos braves mères de famille|en femmes-chats.
+{90327}{90351}Merci.
+{90431}{90539}Oswald Cobblepot, l'étrange bête humaine|entre en lice pour diriger Gotham.
+{90607}{90699}M. Cobblepot, vous êtes l'exemple|à suivre pour les jeunes.
+{90729}{90788}Et vous êtes la personne la plus sexy...
+{90793}{90846}qu'un exemple puisse suivre.
+{90905}{90931}Tenez.
+{90955}{90995}Mettez ce badge.
+{91027}{91078}Laissez-moi l'accrocher là.
+{91189}{91217}Merci.
+{91337}{91445}J'aime jouer au maire, pas pour le pouvoir,|mais pour aller vers les gens.
+{91449}{91497}Les toucher. Les peloter.
+{91501}{91547}- Pingouin...|- Je ne m'appelle pas Pingouin !
+{91549}{91604}Je m'appelle Oswald Cobblepot.
+{91610}{91684}Oswald, il y a quelqu'un qui veut vous voir.
+{91878}{91937}Juste la chatte que je cherchais.
+{92057}{92099}Il fait froid ici.
+{92129}{92168}Je vais te réchauffer.
+{92170}{92208}Couché, Oswald.
+{92262}{92299}Il faut qu'on parle.
+{92301}{92331}Tu vois,
+{92338}{92403}toi et moi, on a une chose en commun.
+{92410}{92453}J'ai déjà entendu cela.
+{92462}{92513}Notre appétit de destruction ?
+{92517}{92576}Le mépris des diktats de la mode ?
+{92581}{92626}Attends, laisse-moi deviner.
+{92630}{92680}Le charisme du sexe pur ?
+{92713}{92743}Batman.
+{92770}{92833}L'épine dans notre flanc à tous les deux.
+{92841}{92886}Notre poil à gratter.
+{92905}{92937}Ça te démange ?
+{92949}{93010}J'ai de la crème, parfumée ou non.
+{93018}{93055}Je reviendrai.
+{93073}{93165}Seriez-vous inscrite sur les listes|électorales ? Je vise la mairie.
+{93170}{93231}Je n'ai plus qu'une cause, animale.
+{93250}{93293}A bas la Chauve-souris.
+{93297}{93387}Oh, encore lui. Pas de problème !|C'est du passé. Regarde.
+{93413}{93505}On va démonter sa Batmobile|et en faire une Bombe H mobile.
+{93602}{93663}Il aura encore plus de poids comme martyr.
+{93669}{93776}Pour détruire Batman, il faut le transformer|en ce qu'il hait le plus.
+{93790}{93828}A savoir, nous.
+{93870}{93902}Le piéger ?
+{93906}{93980}Pas encore en poste et déjà une liste noire.
+{94026}{94093}Ces noms ne sont pas pour les fouineuses.
+{94134}{94215}Pourquoi ferais-je confiance à une minette|de toute façon ?
+{94230}{94324}T'es peut-être une poulette snob|qui se venge de son papa...
+{94334}{94413}parce qu'il lui a refusé un poney|pour ses 16 ans.
+{94832}{94868}Joli moineau.
+{95236}{95270}Joli minou.
+{95282}{95316}Joli minou.
+{95480}{95531}Batman m'a napalmé le bras.
+{95542}{95638}Il m'a poussé d'un toit au moment|où je commençais à me sentir bien.
+{95644}{95720}Je veux être partie prenante|dans sa dégradation.
+{95820}{95864}Je concocte un plan.
+{96054}{96092}Je veux en être.
+{96142}{96220}A la pensée de stopper Batman,|je me sens toute...
+{96270}{96296}sale.
+{96394}{96474}Peut-être que je vais faire|un brin de toilette juste ici.
+{96729}{96775}Je mets au défi le Maire...
+{96779}{96871}de rallumer l'arbre de Noël|sur la Place de Gotham demain soir.
+{96899}{96960}Pourrions-nous changer|pour un programme...
+{96963}{97022}ayant de la classe et de la dignité ?
+{97027}{97082}"Tournez manéges" peut-être ?
+{97139}{97190}Je ne fais pas confiance au Maire.
+{97193}{97243}Mais j'espère et je prie pour...
+{97246}{97281}que Batman...
+{97285}{97342}soit là pour préserver la paix.
+{97385}{97413}Subtil.
+{97498}{97545}Pourquoi faites-vous cela ?
+{97598}{97626}Selina ?
+{97678}{97735}Pardon, je ne voulais pas vous faire peur.
+{97738}{97804}Me faire peur ?|Je me faisais peur toute seule.
+{97822}{97870}Je ne vois pas comment, mais...
+{97877}{97950}C'est bon de vous voir au quotidien,|loin de Shreck.
+{97993}{98033}C'est bien, ici.
+{98114}{98138}Ça va ?
+{98197}{98266}On dirait que Noël vous donne le cafard.
+{98341}{98410}Mon Dieu, quelles nouvelles en ce moment.
+{98414}{98440}Bizarre !
+{98442}{98478}BATMAN LOUPE SON COUP
+{98480}{98559}J'ai entendu à la télé que Catwoman|pesait 70 kg.
+{98606}{98659}Comment font ces journaleux|pour dormir la nuit ?
+{98662}{98729}Ce n'est mime pas vrai.|"Batman loupe son coup."
+{98737}{98805}Il a probablement évité|des millions de dégâts.
+{98841}{98915}Vous n'allez pas à l'illumination du sapin ?
+{98934}{98971}Plutôt mourir.
+{99018}{99099}Ça va être une soirée chaude|pour une ville froide ce soir.
+{99146}{99203}Vous avez un côté obscur, non ?
+{99229}{99276}Pas plus obscur que le vôtre.
+{99366}{99450}Pourquoi ne pas venir chez moi|et on la regardera à la télé ?
+{99454}{99511}La cérémonie d'illumination du sapin ?
+{99513}{99588}Je ne peux pas.|Je dois être ailleurs ce soir.
+{99602}{99659}Et si vous veniez dîner à 5 h ?
+{99665}{99697}Disons 6 h ?
+{99725}{99743}Cinq.
+{99746}{99781}A 5 h. Vous et moi.
+{99965}{100037}L'arbre s'allume et j'appuie sur le bouton.
+{100048}{100078}Non, attends.
+{100080}{100152}J'appuie sur le bouton et l'arbre s'allume.
+{100206}{100244}Qui êtes-vous ?
+{100254}{100300}Un découvreur de talents.
+{100306}{100336}Entrez.
+{100350}{100432}Je ne fais pas qu'allumer des sapins.|Je suis aussi actrice.
+{100482}{100552}C'est quoi cette chose ?|Un appareil photo ?
+{100568}{100600}Dites "cheese" !
+{100642}{100668}"Cheese."
+{100946}{100974}Merci.
+{101022}{101075}C'est sûrement un bon compagnon,
+{101080}{101168}mais le rôle du riche célibataire,|c'est fatigant, non ?
+{101200}{101271}Tout comme celui de la secrétaire|esseulée.
+{101294}{101340}Assistante de direction.
+{101344}{101368}Pardon.
+{101448}{101480}Secrétaire.
+{101588}{101628}Aucune petite amie ?
+{101752}{101807}Du sérieux, vous voulez dire ?
+{101832}{101880}Une, mais ça n'a pas marché.
+{101886}{101937}Que s'est-il passé ? Attendez !
+{101942}{101976}Je crois savoir !
+{101988}{102028}Vous lui cachiez des choses.
+{102030}{102066}Je lui disais tout.
+{102098}{102138}La vérité lui faisait peur ?
+{102140}{102184}Il y a deux vérités,
+{102232}{102264}vous savez ?
+{102272}{102376}Elle avait du mal à concilier les deux|parce que moi aussi, j'avais du mal...
+{102386}{102424}à les concilier.
+{102520}{102550}Vicki pensait...
+{102552}{102576}Vicki ?
+{102604}{102653}Patineuse ou hôtesse de l'air ?
+{102700}{102751}Elle était photo-reporter.
+{102786}{102834}Vicki avait-elle raison pour...
+{102838}{102882}votre problème de dualité ?
+{102978}{103008}Vous voyez,
+{103030}{103078}si je dis oui, alors...
+{103120}{103171}vous allez me prendre pour...
+{103176}{103233}Norman Bates ou le Dr Jekyll...
+{103444}{103490}et vous refuserez mon baiser.
+{103560}{103638}Ce sont les types dits normaux|qui vous lâchent.
+{103644}{103726}Les fêlés ne me font pas peur.|Au moins, ils s'investissent.
+{104681}{104713}Je ne peux pas !
+{104717}{104747}Moi non plus.
+{104796}{104862}La Princesse des Glaces a été enlevée.|Voici notre bulletin spécial.
+{104864}{104962}Pouvez-vous confirmer la participation|de Batman dans ce rapt ?
+{104989}{105050}Nous n'avons que des présomptions.
+{105065}{105159}On a retrouvé ça, taché de sang|dans la loge de la Princesse.
+{105213}{105277}- Je dois partir.|- Non, vous êtes chez vous.
+{105281}{105338}Attendez, restez là. Je reviens.
+{105624}{105675}Je dois aller sur la Place.
+{105681}{105750}- Il veut que je me montre.|- Ignorez-le.
+{105764}{105838}Non, il s'agit d'un rapt.|Voilà ce que je vais faire.
+{105852}{105876}Merde !
+{105968}{106046}Prévenez Selina...|Mlle Kyle que j'ai dû sortir.
+{106073}{106138}Pour affaires ou... Vous savez quoi ?
+{106172}{106258}Dites-le-lui pour moi. Sans être cucul|du genre : "Tu veux être ma copine ?"
+{106260}{106300}Je transmettrai.
+{106424}{106475}M. Wayne vous fait dire...
+{106496}{106530}Bruce, oui.
+{106561}{106596}Dites-lui...
+{106612}{106687}que j'ai beaucoup changé|ces derniers temps...
+{106740}{106774}Simplement,
+{106780}{106828}que mon départ précipité...
+{106840}{106882}n'est pas synonyme de rejet.
+{106884}{106939}En fait, avec lui je me sens être...
+{106956}{107004}ce que je crois être vraiment.
+{107041}{107129}Pourriez-vous en faire un sonnet|ou un quatrain coquin ?
+{107144}{107189}J'en ai un tout prêt.
+{107227}{107265}Par ici, madame.
+{108733}{108771}Mesdames et messieurs.
+{108777}{108834}Puis-je avoir votre attention ?
+{108895}{108946}Je sais que pour beaucoup,
+{108957}{109028}Gotham est une ville assiégée|ces temps-ci.
+{109047}{109098}Mais sachez que vos élus...
+{109111}{109149}et la police...
+{109163}{109218}ont la situation bien en main.
+{110675}{110701}Faut se dépêcher.
+{110703}{110729}Merci.
+{110733}{110771}On a voulu me piéger.
+{110773}{110859}Je dirai que j'ai été enlevée par|un homme-oiseau qui sent le poisson.
+{110862}{110902}On a parlé de poisson ?
+{110908}{110965}Je n'ai rien mangé de toute la journée.
+{110980}{111016}Mange le plancher.
+{111050}{111089}C'est plein de fibres.
+{111106}{111138}Eh, tombeur...
+{111142}{111226}- ... ça paraissait marcher entre nous.|- C'est vrai.
+{111612}{111669}Faut qu'on parle, entre filles.
+{112330}{112395}Elle m'a relâchée. Je l'ai raisonnée.
+{112461}{112511}Attention. Ne bougez pas.
+{112566}{112605}Fléchettes sur gazon !
+{112697}{112750}Petits rats ailés, à vous de jouer.
+{112906}{112954}Batman a poussé la Princesse !
+{113324}{113354}Ne tirez pas !
+{113715}{113778}T'es une friandise pour une fille|comme moi.
+{113804}{113846}Mignon, étourdi...
+{113880}{113915}et à mourir.
+{114111}{114170}Le gui peut être mortel si on en mange.
+{114190}{114230}Mais un baiser...
+{114234}{114310}peut être encore plus mortel|si on y met tout son cœur.
+{114522}{114591}Tu es le deuxième à me tuer|cette semaine.
+{114596}{114644}Mais il me reste sept vies.
+{114648}{114690}J'ai essayé de te sauver.
+{114692}{114778}On dirait que toutes celles que tu veux|sauver se retrouvent mortes.
+{114780}{114823}Ou à jamais amères.
+{114838}{114899}Tu devrais peut-être prendre ta retraite.
+{115440}{115470}Merde !
+{116305}{116339}Incroyable.
+{116357}{116410}Tu es la Belle et la Bête...
+{116425}{116486}dans un seul superbe paquet-cadeau.
+{116521}{116578}Vous disiez vouloir faire peur|à la Princesse.
+{116581}{116632}Elle a l'air d'avoir eu assez peur.
+{116689}{116731}Un peu de bulles ?
+{116828}{116871}Qu'attendons-nous ?
+{116883}{116944}Consommons notre union diabolique.
+{116965}{116993}Quoi ?
+{117005}{117039}Oh, allons.
+{117053}{117092}Tu ne vois pas ?
+{117096}{117153}C'est la nuit dans la maison du Maire.
+{117157}{117237}Je suis claqué, alors tu entres|dans la chambre...
+{117264}{117312}en agitant ta petite queue...
+{117317}{117397}mes pantoufles dans une main,|un dry martini dans l'autre.
+{117404}{117434}C'est ça, oui.
+{117441}{117492}Même pour te gratter,|je n'oserais pas te toucher.
+{117495}{117605}Pouilleuse va ! Je vais te faire opérer !|Je croyais pourtant t'attirer.
+{117613}{117655}Je ne t'aime plus.
+{117865}{117916}Au revoir, ma non-destinée.
+{117927}{117957}Va au ciel.
+{119389}{119415}Le voilà !
+{119481}{119525}Ne touchez pas à votre installation.
+{119527}{119559}Bienvenue...
+{119565}{119622}à l'auto-école Oswald Cobblepot.
+{119671}{119730}Messieurs, préparez-vous à crier.
+{120547}{120641}Je ne devrais pas vous le dire,|mais mon permis est périmé !
+{121058}{121086}Détendez-vous.
+{121089}{121193}Je m'occupe de ces misérables andouilles|de marionnettes de Gotham !
+{122341}{122448}Admets que je joue de cette ville puante|comme d'une harpe infernale !
+{122546}{122590}REPERAGE D'OBJETS ETRANGERS
+{122908}{122969}Vieille dame sans défense à douze heures !
+{123868}{123896}C'est drôle.
+{124099}{124156}Là, je commence à être un peu inquiet.
+{124785}{124833}Il a survécu et alors ?|Pourquoi s'inquiéter ?
+{124835}{124938}Il n'a même pas perdu un bras,|un oeil ou le contrôle de sa vessie !
+{124945}{125027}Ecoutez-les. Ils ne croient plus|aux vieux symboles.
+{125043}{125111}Ils vont vous suivre, vous, l'icône du futur.
+{125117}{125167}Si ça marche, faut pas y toucher.
+{125169}{125228}Nous allons fêter ça ce soir|lors de mon grand bal.
+{125230}{125274}Shreck et Cobblepot,
+{125293}{125346}l'alliance des visionnaires.
+{125817}{125865}Quand est venu le temps...
+{125869}{125941}d'assurer la sécurité de notre belle ville,
+{125977}{126028}le Maire avait-il un plan ?
+{126053}{126081}Non !
+{126114}{126169}Il comptait sur un seul homme.
+{126205}{126235}Batman.
+{126261}{126336}Une bombe à retardement|déguisée en monstre...
+{126365}{126441}C'est cette chose grotesque|qui nous préoccupe.
+{126453}{126525}Mais n'oublions pas de réparer|la Batmobile.
+{126534}{126578}N'oublions pas la sécurité.
+{126589}{126668}On ne peut pas la confier|à un simple carrossier.
+{126686}{126716}La sécurité ?
+{126718}{126771}Qui a laissé entrer Vicki Vale|dans la Batcave ?
+{126774}{126878}Je travaille, je me retourne et elle est là.|"Salut, Vick. Entre donc."
+{127105}{127169}- Prêt.|- Je vais prendre les escaliers.
+{127679}{127777}Vous vous demandez si c'est|la gloire personnelle que je veux ?
+{127810}{127836}Non.
+{127954}{127998}TROUVER LA FREQUENCE
+{128082}{128128}BROUILLER LA FREQUENCE
+{128146}{128207}La gloire que je veux retrouver...
+{128242}{128292}est la gloire de Gotham !
+{128676}{128719}FREQUENCE BROUILLEE
+{128728}{128772}Comment y parvenir ?
+{128841}{128873}Je sais...
+{128878}{128933}que vous êtes tous concernés.
+{128986}{129022}Détendez-vous.
+{129030}{129133}Je m'occupe de ces misérables andouilles|de marionnettes de Gotham.
+{129316}{129355}Je n'ai jamais dit ça.
+{129410}{129482}Admets que je joue de cette ville puante...
+{129510}{129565}comme d'une harpe infernale !
+{129602}{129634}Admets...
+{129640}{129738}que je joue de cette ville puante|comme d'une harpe infernale !
+{131004}{131090}Pourquoi les gens apportent-ils|toujours des tomates ?
+{132466}{132499}Mes bébés.
+{132530}{132573}Vous ai-je manqué ?
+{132905}{132948}Vous ai-je manqué ?
+{132985}{133032}Super discours, Oswald.
+{133060}{133113}Je ne m'appelle pas Oswald !
+{133121}{133160}Je suis le Pingouin !
+{133164}{133214}Je ne suis pas un homme !
+{133221}{133280}Je suis un animal. A sang froid !
+{133312}{133354}La climatisation à fond !
+{133356}{133429}Où sont mes listes ?!|Apportez-moi les noms !
+{133448}{133485}Le temps est venu.
+{133489}{133558}Voici les noms des fils aînés de Gotham.
+{133596}{133640}C'est ce que j'étais.
+{133645}{133721}Et comme pour moi,|un destin atroce les attend.
+{133761}{133836}Ce soir, pendant que leurs parents|s'amuseront,
+{133841}{133886}et qu'eux rêveront...
+{133908}{133957}dans leurs jolis berceaux...
+{133964}{134012}leurs lits douillets...
+{134017}{134061}nous les enlèverons,
+{134073}{134123}les emmènerons dans les égouts...
+{134125}{134204}et les jetterons dans un profond|tombeau liquide.
+{134253}{134281}Pingouin ?
+{134300}{134353}Tuer des enfants qui dorment,
+{134361}{134400}n'est-ce pas un peu...
+{134649}{134689}Non, c'est beaucoup.
+{134926}{134958}Un petit rappel.
+{134962}{135044}Ce soir a lieu l'ignoble fête|de l'odieux M. Shreck.
+{135066}{135125}Répondrons-nous par la négative ?
+{135152}{135188}C'est sans intérêt.
+{135234}{135264}Quoique,
+{135320}{135370}Selina Kyle pourrait y être.
+{135928}{135976}Ingénieux, le costume !
+{135980}{136016}Laissez-moi deviner.
+{136020}{136062}Financier B.C.B.G.
+{136100}{136134}Satisfait ?
+{136158}{136233}Vous avez failli faire un maire|de ce monstre.
+{136250}{136305}Je suis le phare de cette ville...
+{136314}{136365}et j'en suis l'âme damnée.
+{136384}{136426}On se fiche de savoir qui est maire.
+{136428}{136458}Pas moi.
+{136466}{136498}J'en bâille.
+{137412}{137471}Désolé pour hier, mais une belle affaire...
+{137474}{137546}s'est présentée. Enfin, est tombée à l'eau.
+{137560}{137630}C'est rien. J'ai dû rentrer nourrir|ma chatte.
+{137844}{137881}Sans rancune ?
+{137944}{137977}En fait...
+{138030}{138078}sans grosse rancune, je dirais.
+{138224}{138312}Il y a un très grand lit bien moelleux|au rayon literie.
+{138346}{138380}Pourquoi...
+{138412}{138458}Ne pas ôter nos costumes ?
+{138542}{138597}J'en ai marre d'être masquée.
+{138613}{138643}Moi aussi.
+{138677}{138709}Dites-moi.
+{138749}{138796}Pourquoi être venue ce soir ?
+{138805}{138856}- Vous d'abord.|- Pour vous voir.
+{138912}{138938}Charmant.
+{138976}{139066}J'aimerais pouvoir dire la même chose,|mais je suis venue pour Max.
+{139125}{139169}Vous voulez dire que Max...
+{139172}{139200}et vous...
+{139240}{139275}Max et moi ?
+{139432}{139473}Non, ceci et Max.
+{139552}{139648}Ne me dites pas que tuer Max|ne résoudra rien, car c'est faux.
+{139677}{139757}N'en avez-vous pas marre|que ce requin moralisateur...
+{139761}{139831}soit toujours au sommet|au lieu d'être six pieds sous terre ?
+{139833}{139933}Vous avez des ennuis avec votre patron,|mais qui croyez-vous être ?
+{140005}{140053}Je ne sais plus, Bruce.
+{140408}{140454}Un baiser sous le gui.
+{140537}{140590}Le gui peut être mortel si on en mange.
+{140592}{140655}Mais un baiser peut être|encore plus mortel,
+{140705}{140748}si on y met tout son cœur.
+{140989}{141025}Oh, mon Dieu.
+{141045}{141093}Doit-on reprendre la bagarre ?
+{141132}{141162}Sortons.
+{142029}{142070}- Ça va ?|- Ça va.
+{142275}{142321}Vous ne m'avez pas invité,
+{142327}{142372}alors je m'incruste !
+{142452}{142478}Que voulez-vous ?
+{142480}{142526}En ce moment, mes troupes...
+{142531}{142584}se déploient dans la ville...
+{142591}{142635}pour enlever vos enfants !
+{142641}{142665}Oui !
+{142669}{142709}Vos fils aînés !
+{142737}{142810}Ceux que vous avez laissés|chez vous sans défense...
+{142813}{142866}pour vous déguiser comme des cons...
+{142871}{142915}picoler et danser...
+{142941}{142981}comme des pieds !
+{143083}{143136}Je suis personnellement venu...
+{143145}{143202}chercher le fils chéri de Gotham,
+{143207}{143245}M. Chip Shreck.
+{143279}{143336}Viens avec moi, grande nouille !
+{143367}{143416}Mourir dans les égouts !
+{143439}{143533}Pas Chip. Si vous avez un peu de cœur,|prenez-moi à la place.
+{143585}{143633}Je n'en ai pas. C'est non !
+{143637}{143667}C'est moi que vous voulez.
+{143670}{143752}N'est-ce pas Max Shreck|qui vous a manipulé, trahi ?
+{143767}{143813}C'est Max, pas Chip...
+{143831}{143915}que vous voulez complètement|immerger dans la fange ?
+{144035}{144077}Là, vous marquez un point.
+{144085}{144153}Laissons le petit prince en vie,|pour le moment.
+{144157}{144190}Dans le canard !
+{144845}{144886}Ça va être bon...
+{144915}{145022}de faucher tout un champ des enfants|les plus prometteurs de Gotham...
+{145031}{145071}en pleine jeunesse.
+{145127}{145201}Vous voulez savoir comment|je les ai attirés ?
+{145289}{145352}Un petit air de flûte du "Pingouin".
+{145407}{145464}Et vous allez les voir couler...
+{145487}{145531}dans la marre profonde...
+{145535}{145586}de vos déchets industriels.
+{145616}{145642}Avant de...
+{145649}{145686}les rejoindre.
+{146499}{146564}Dépêchez-vous et embarquez les mômes.
+{146791}{146836}Par ici, les bambins.
+{146852}{146886}Suivez-moi.
+{147283}{147334}Où sont tous les enfants ?
+{147435}{147467}"Cher Pingouin :
+{147472}{147547}"les enfants sont désolés|de ne pouvoir venir.
+{147560}{147592}"Batman ! "
+{147916}{147960}Mes chers pingouins,
+{147992}{148055}nous voici à un tournant important !
+{148087}{148138}C'est normal d'avoir peur !
+{148151}{148204}Beaucoup ne reviendront pas.
+{148220}{148262}A cause de Batman,
+{148279}{148323}le temps est venu...
+{148328}{148379}de punir tous les enfants !
+{148423}{148497}Les aînés, les cadets, les petits derniers !
+{148511}{148551}Pourquoi être partial ?
+{148555}{148598}Filles et garçons !
+{148612}{148660}Les sexes sont égaux...
+{148688}{148741}avec leurs zones érogènes...
+{148746}{148794}qui explosent partout !
+{148858}{148886}En avant...
+{148918}{148946}marche !
+{148956}{149007}La libération de Gotham...
+{149036}{149071}a commencé !
+{150154}{150211}Les pingouins se déploient en surface.
+{150818}{150856}L'armée des pingouins...
+{150858}{150936}approche de sa destination :|la Place de Gotham.
+{150970}{151027}Une minute avant la mise à feu.
+{151034}{151089}Ils me refusent un piédestal,
+{151093}{151154}alors je leur envoie un gros pavé !
+{151181}{151249}Les pingouins convergent|sur la Place de Gotham.
+{151804}{151859}30 secondes avant l'allumage.
+{151902}{151969}Estimation des pertes après lancement :
+{151990}{152032}100 000 personnes.
+{152110}{152167}Les pingouins gagnent la Place.
+{152642}{152697}15 secondes avant l'allumage.
+{152752}{152782}Prêt, monsieur.
+{152860}{152898}J'ai les coordonnées.
+{153090}{153120}Inversons-les.
+{153336}{153377}Quelque chose ne va pas.
+{153414}{153462}Le signal est brouillé.
+{153710}{153765}Ils semblent faire demi-tour.
+{154512}{154581}Il y a quelque chose qui vient sur nous.
+{154604}{154650}Enorme et très rapide.
+{155042}{155074}Qui est-ce ?!
+{155248}{155299}J'approche de la source du signal.
+{157127}{157203}Tu es jaloux parce que je suis|un vrai monstre...
+{157209}{157262}et que tu dois porter un masque !
+{157269}{157301}Possible.
+{157371}{157457}Mais l'essentiel est de savoir|qui tient le parapluie ?
+{158100}{158134}Mes bébés !
+{160452}{160558}J'ignore ce que tu veux, mais je peux|te le donner sans faire d'histoires.
+{160608}{160636}De l'argent.
+{160644}{160672}Des bijoux.
+{160675}{160723}Plein de pelotes de laine.
+{160830}{160867}Ton sang, Max.
+{160875}{160907}J'ai déjà donné.
+{160922}{160971}35 cl. Je parle de litres.
+{160984}{161020}Faisons un marché !
+{161022}{161073}A part mon sang, quoi d'autre ?
+{161076}{161131}Désolé, Max. Deuil pour deuil.
+{161400}{161457}Tu sauves une vie, mais aussi...
+{161460}{161502}La ferme. Toi, en prison.
+{161525}{161633}Ne sois pas naïf. La loi ne s'applique pas|à des gens comme lui ou nous.
+{161641}{161669}Faux.
+{161922}{161958}Pourquoi faire ça ?
+{162046}{162094}Emmenons-le à la police.
+{162136}{162183}Puis nous pourrons rentrer...
+{162206}{162234}ensemble.
+{162379}{162403}Selina,
+{162482}{162522}tu ne vois pas ?
+{162549}{162586}Nous sommes pareils.
+{162638}{162675}Nous sommes pareils.
+{162706}{162738}Coupés...
+{162744}{162774}en deux.
+{163302}{163334}S'il te plaît.
+{163362}{163390}Bruce,
+{163410}{163485}j'adorerais vivre avec toi|dans ton château...
+{163546}{163612}pour toujours,|comme dans un conte de fées.
+{163750}{163844}Je ne me supporterais plus.|Ne me dis pas que c'est une fin heureuse.
+{163906}{163936}Selina Kyle.
+{163972}{164006}Vous êtes virée.
+{164016}{164054}Et Bruce Wayne,
+{164066}{164110}pourquoi porter le costume de Batman ?
+{164112}{164169}Parce que c'est Batman, abruti !
+{164203}{164229}C'était.
+{164291}{164311}Non.
+{164318}{164400}Tu m'as tuée, le Pingouin m'a tuée,|Batman m'a tuée.
+{164418}{164490}Trois vies en moins.|Tu en as assez pour m'achever ?!
+{164492}{164530}On va le savoir.
+{164615}{164639}Quatre.
+{164646}{164674}Cinq.
+{164757}{164792}Toujours vivante !
+{165018}{165044}Six.
+{165047}{165073}Sept.
+{165079}{165125}Au paradis, fillettes.
+{165287}{165333}Il me reste deux vies.
+{165380}{165439}Je vais en garder une pour Noël prochain.
+{165498}{165542}Mais en attendant...
+{165587}{165646}que diriez-vous d'un baiser, Père Noël ?
+{167825}{167855}Merde !
+{167861}{167909}J'en ai pris un fantaisie.
+{167989}{168037}La chaleur m'indispose.
+{168061}{168116}Je vais te tuer momentanément.
+{168171}{168207}Mais d'abord,
+{168224}{168270}il me faut un verre...
+{168291}{168327}d'eau glacée.
+{170777}{170813}Arrêtez la voiture.
+{172750}{172794}Quoi qu'il advienne,
+{172801}{172847}Joyeux Noël, M. Wayne.
+{172873}{172914}Joyeux Noël, Alfred.
+{172957}{173008}Paix aux hommes de bonne volonté.
+{173061}{173089}Et aux femmes.

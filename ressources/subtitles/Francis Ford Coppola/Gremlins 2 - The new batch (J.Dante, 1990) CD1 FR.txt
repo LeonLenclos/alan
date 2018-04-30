@@ -1,0 +1,597 @@
+{347}{386}Arrêtez la musique !
+{414}{453}Quoi de neuf Duck ?
+{460}{515}Quoi de neuf ? Je vais te dire:
+{520}{597}Je prends le pouvoir, ça te va ?
+{635}{726}Ça fait 50 ans|que tu monopolises l'écran...
+{757}{824}Dorénavant|je trônerai sur l'écusson.
+{829}{939}Parce que celui qui a du talent ici,|c'est moi !
+{944}{1009}On reprend depuis le début.
+{1030}{1069}Ça va. Pas plus loin.
+{1071}{1141}Allez... Caméra,|musique, prise de son...
+{1297}{1337}Très drôle !
+{1361}{1433}Vous aurez des nouvelles|de mes avocats !
+{1750}{1862}Ils ne veulent pas de moi comme star,|autant envoyer le film !
+{1867}{1891}Ça tourne !
+{1934}{2040}GREMLINS 2:|LA NOUVELLE GÉNÉRATION
+{4577}{4608}M.Wing ?
+{4764}{4838}Daniel Clamp voudrait vous parler.
+{5087}{5130}Bonjour M.Wing.
+{5157}{5198}J'irai au fait.
+{5219}{5291}Je suis disposé à étoffer mon offre.
+{5296}{5375}Vous êtes attaché|à votre commerce ? Bravo !
+{5380}{5490}Comme moi. Je construis|les plus beaux buildings de New York.
+{5492}{5540}Vous vendez...
+{5562}{5615}des petits riens...|Mais regardez:
+{5665}{5775}Voici "Chinatown Clamp",|le centre affaires et d'Orient-Tation.
+{5792}{5888}Vous êtes le dernier obstacle.|Voici ce que je vous offre:
+{5893}{5970}Un kiosque à journaux|et une boutique souvenirs.
+{5972}{6018}Cet immeuble sera sans égal:
+{6022}{6111}Ascenseurs à commande vocale,|cendriers auto nettoyants...
+{6116}{6212}Quel défi ! Il serait triste|que vous ratiez ça.
+{6260}{6327}Faites-moi savoir votre décision.
+{6339}{6370}Je suis sûr...
+{6375}{6492}que mous trouverons le moyen|de nous mettre d'accord.
+{6588}{6691}On peut toujours se mettre d'accord|avec les autres...
+{6698}{6806}il est plus difficile|d'être en accord avec soi même.
+{6830}{6864}Charmant !
+{6869}{6938}Confucius.. ou Bruce Lee ?
+{7072}{7101}Désolé.
+{7104}{7209}Dites à M.Clamp|que ma réponse est toujours non.
+{7293}{7324}Je vous en prie...
+{7346}{7382}gardez la télé.
+{7466}{7494}Télé !
+{7710}{7744}Rambo !
+{7904}{7988}Pour survivre à la guerre,|deviens la guerre !
+{8091}{8132}Encore la télé ?
+{8154}{8211}Une invention d'idiots !
+{8408}{8497}Navré de cet échec...|L'offre était pourtant généreuse !
+{8501}{8581}Vous l'avez entendu tousser ?|C'est une ruine.
+{8600}{8629}Il suffit d'attendre.
+{8650}{8681}SIX SEMAINES PLUS TARD
+{8684}{8768}On ne saurait visiter New York|sans faire un tour...
+{8772}{8835}dans l'immeuble|le plus automatisé du monde:
+{8840}{8931}le "Clamp Première Régence",|centre commercial et d'affaires...
+{8935}{9022}QG du groupe Clamp|et siège de CCN...
+{9024}{9067}sa chaîne de télévision par câble.
+{9182}{9240}Après la mort de M.Wing|plus rien...
+{9245}{9336}ne s'oppose au projet "Chinatowm"|de Daniel Clamp.
+{9338}{9437}Cette échoppe, qui abritait|des objets rares venus d'Orient...
+{9441}{9511}cède la place au futur|façon Clamp !
+{11024}{11077}Lewis, je l'ai toujours dit:
+{11081}{11184}Les trucs étonnants|c'est ici qu'on les trouve !
+{11364}{11407}Les Futterman arrivent demain.
+{11412}{11503}Il doit aller mieux|s'il peut supporter le voyage.
+{11513}{11590}Sa femme dit que oui.|Mais il a été secoué.
+{11594}{11709}Des petits monstres ont traversé|son salon avec un chasse neige !
+{11714}{11755}Il a failli claquer.
+{11810}{11858}Que les gens sont brutaux !
+{11863}{11894}Quelle heure est-il ?
+{11899}{11949}On est en retard. Voilà un taxi.
+{12199}{12230}Pour l'aéroport ?
+{12378}{12446}Dire que je suis toujours|au même poste !
+{12450}{12479}Il faut le temps.
+{12484}{12568}En restant à la banque|j'aurais eu de l'avancement.
+{12570}{12613}Et aussi une dépression.
+{12616}{12719}On aurait pu se payer|un appart correct et se marier.
+{12788}{12846}Entrez dans l'Entrée matic Clamp...
+{12851}{12949}la porte tambour révolutionnaire,|précise, efficace...
+{13167}{13292}Avancez avec prudence...|Et que votre journée soit puissante !
+{13388}{13469}C'était l'histoire|du "Clamp Première Régence".
+{13472}{13556}Ou comment le rêve d'un homme|est devenu réalité !
+{13558}{13594}J'espère que ça vous a plu.
+{13599}{13726}N'oubliez pas d'acheter|'J'ai acheté Manhattan' de M.Clamp...
+{13731}{13827}en vente à ce comptoir|pour 19,95 dollars seulement.
+{13831}{13877}Et à notre boutique cadeaux...
+{13882}{13915}Ne te laisse pas abattre !
+{13930}{14028}Tu bosses si bien|qu'ils vont le remarquer...
+{14033}{14081}et on pourra se marier.
+{14198}{14285}Le premier projet...|Il y a une date de rendu !
+{14289}{14390}On me persécute ?|Je vous persécute ! Quel désastre...
+{14395}{14476}Ils ont changé le cahier|des charges, les délais...
+{14486}{14589}C'est votre problème !|Vous avez une toute petite lorgnette !
+{14594}{14692}Je dois avoir une vision diachronique,|multi dimensionnelle !
+{14697}{14788}- J'ai presque fini.|- J'aurais encore...
+{14793}{14872}Trop froid.|Ça serait mieux avec des arbres.
+{14877}{14953}- On plantera des arbres ?|- Non, mais dessinez les.
+{14958}{14989}- Mais...|- Des ormes.
+{14994}{15100}- Mais le bosquet...|- Votre attitude est inacceptable.
+{15109}{15143}Bonjour !
+{15148}{15229}Quelqu'un a mal lu|son "Manuel du Parfait Employé" !
+{15260}{15284}N'est-ce pas...
+{15304}{15327}M.Peltzer... ?
+{15344}{15378}Une plante ? Interdit.
+{15390}{15464}Je lui répète ça depuis des semaines.
+{15469}{15507}Je sais. J'allais...
+{15512}{15562}Danger d'invasion de pucerons !
+{15579}{15603}Qu'est ceci ?
+{15618}{15680}Kingston Falls. Ma ville natale.
+{15725}{15814}Vous savez ce que dépense|le groupe Clamp...
+{15819}{15941}pour faire bénéficier ses employés|d'œuvres d'artistes reconnus...
+{15958}{16004}plaisantes à l'œil, harmonieuses...
+{16037}{16064}et autorisées ?
+{16076}{16157}- C'était...|- Une touche personnelle ? Je connais.
+{16169}{16246}Tout le monde|a sa petite idée là-dessus:
+{16248}{16330}Une tasse à café|"Qui café ça ?"...
+{16332}{16399}un cendrier|"Ne mégotons pas !"...
+{16416}{16457}Ça serait bien, non ?
+{16466}{16569}De venir travailler chaque jour|dans un marché aux puces...
+{16577}{16613}de 200 millions de dollars !
+{16677}{16756}Billy, je n'avais vraiment|pas besoin de ça.
+{16802}{16845}Il y a inspection dans trois semaines.
+{16876}{16932}C'est une catastrophe nucléaire !
+{16948}{16989}Je fais mon possible.
+{16999}{17066}Soyez gentil...
+{17087}{17114}faites mieux !
+{17159}{17212}Un léger point de corrosion...
+{17217}{17301}Envoyez une onde de choc|de force 10.
+{17337}{17401}Un contrevenant en puissance...
+{17713}{17763}Vous prenez une pause|non autorisée.
+{17775}{17809}Vous êtes renvoyé.
+{17881}{17948}Vous me captez mal ?|Vous êtes viré !
+{17965}{17996}Liquidé !
+{18001}{18056}Adieu la sécu. Exact.
+{18061}{18104}Libérez votre bureau dans une heure.
+{18121}{18147}Merci encore !
+{18214}{18250}Excellent Frances.
+{18289}{18389}Alerte au personnel...|Poste à saisir au niveau 7.
+{18399}{18492}Le "Centre Clamp" est l'immeuble|le plus moderne d'Amérique...
+{18497}{18615}en matière de sécurité,|communications et climatisation.
+{18617}{18718}Il fait partie du groupe|multinational Clamp, présent aussi...
+{18723}{18802}dans la construction,|le sport, la finance...
+{18806}{18866}et célèbre pour ses confitures.
+{18871}{18929}S'il y a des câblés parmi vous...
+{18931}{19015}sachez que CCN|est installé ici même.
+{19185}{19262}L'attaque des Hommes pieuvres...
+{19276}{19370}Ce soir sur votre écran !|Attendez-vous à avoir peur...
+{19389}{19444}À en perdre votre strabisme !
+{19449}{19540}Heureusement|Grand père Fred vous protège.
+{19586}{19610}La plainte !
+{19650}{19765}Une plainte devait sortir du cercueil|et je devais dire:
+{19770}{19828}"Renfield,|tu as fini toutes tes mouches ?"
+{19833}{19914}Je devais m'approcher, et...
+{19924}{19960}Désolé Fred.
+{20039}{20137}- On t'a changé d'heure d'antenne...|- Quelle erreur !
+{20140}{20207}Une erreur ? Un désastre, oui !
+{20211}{20269}Ceux qui regardent la télé|à 3 heures 30 du matin...
+{20274}{20382}ne craignent pas le loup garou|mais le travail !
+{20384}{20408}Regarde...
+{20413}{20454}Fais attention à ce truc.
+{20458}{20492}C'est extra !
+{20499}{20545}Tu pourrais t'en servir.
+{20547}{20619}Remets-le où il était.
+{20660}{20696}Franchement...
+{20749}{20801}j'espérais mieux.
+{20876}{20957}Je voulais faire|du journalisme télé...
+{20960}{21000}des grands sujets...
+{21012}{21058}des choses qui ont un sens.
+{21089}{21182}Je n'ai même pas un truc marrant|ou des effets spéciaux.
+{21199}{21331}Tout juste Igor,|une marionnette qui louche.
+{21396}{21437}C'est ouvert.
+{21439}{21547}Passe des classiques|comme Frankenstein ou Dracula.
+{21549}{21609}Ils sont tous en noir et blanc.
+{21614}{21715}M.Clamp n'aime que la couleur.|Il est déconcertant.
+{21720}{21777}- Tu l'as déjà vu ?|- Pas en personne.
+{21782}{21856}Seulement sur leurs vidéos|à la manque.
+{21859}{21971}Si tu savais|ce qu'abrite cet immeuble !
+{21978}{22062}En haut|il y a un labo de génie génétique.
+{22067}{22115}Ils trafiquent les animaux.
+{22120}{22228}Il y a huit jours ils ont breveté|une nouvelle race de gerboise.
+{22252}{22288}Et c'est moi le monstre !
+{22436}{22496}ADN QUE POURRA|Aux Cent gênes
+{22801}{22832}Que puis-je pour vous ?
+{22842}{22926}J'ai un paquet pour le Dr Cathéter.
+{22930}{22976}Je vais signer.
+{23021}{23093}Qu'est-ce qu'ils fabriquent|là-dedans ?
+{23096}{23146}Je n'ai pas le droit d'en parler.
+{23266}{23314}Docteur, ceci vient d'arriver.
+{23319}{23386}Superbe. Ça doit être ma malaria.
+{23439}{23523}La rage ? Mais j'ai déjà la rage !
+{23530}{23573}Je voulais avoir la grippe !
+{23575}{23635}Nous avons déjà passé|la commande.
+{23666}{23712}Donnez-moi ça.
+{23786}{23832}En commande !
+{23849}{23921}Je veux des germes frais !
+{24009}{24074}Casper, faites analyser ce mouchoir.
+{24232}{24333}Je suis calme, concentrée...|J'aime donner du lait.
+{24391}{24422}Ça va les clones ?
+{24443}{24479}Très bien.
+{24496}{24561}Nous avons quelque chose|à vous montrer.
+{24566}{24664}Je l'ai trouvé en ville,|en mission d'exploration.
+{24666}{24784}C'est une sorte de rongeur|qui semble craindre la lumière.
+{25091}{25136}Sympathique.
+{25155}{25179}Génétique.
+{25184}{25256}- On n'en est pas sûr.|- Je dirai même plus...
+{25261}{25304}Regardez ça.
+{25963}{26011}Il aime cette musique ?
+{26018}{26066}C'est son air favori.
+{26196}{26239}Pas si vite mon petit !
+{26273}{26325}Vous alliez le laisser filer !
+{26440}{26484}Vous comptez procéder comment ?
+{26488}{26546}- Prélèvement de cellules...|- De tissus...
+{26548}{26613}Puis examen|de la structure générale.
+{26675}{26726}Mais pour ça mon petit...
+{26757}{26826}il va falloir te disséquer !
+{26884}{26980}Quand je pense qu'elle veut|des arbres sur ce plan !
+{27018}{27047}Je suis dans le noir.
+{27052}{27141}Le central croit que tu es parti.|Saute sur ta chaise.
+{27153}{27186}D'accord, attends.
+{27270}{27294}Tu avais raison.
+{27431}{27483}Kate, tu es là ?
+{27534}{27584}Rien ne marche ici.
+{27788}{27848}Où avez-vous entendu cet air ?
+{27891}{27925}D'où ça venait ?
+{28047}{28080}Ce n'est pas de Sting ?
+{28085}{28126}Non. Réfléchissez.
+{28131}{28253}Je sais !|Au labo du 51ème étage.
+{28258}{28311}Quelqu'un le fredonnait.
+{28548}{28603}La photocopieuse est en panne.
+{28608}{28629}Ah oui ?
+{28649}{28685}Elle est derrière.
+{28879}{28915}Nous sommes prêts.
+{29056}{29147}La plus belle expérience|bio-électrique de ma carrière...
+{29152}{29255}Pensez un peu: Des millions|de rats à New York, détestés...
+{29262}{29354}Mais s'ils pouvaient alimenter|les radios portables !
+{29375}{29416}Gizmo, je suis là.
+{29562}{29603}Regardez Docteur.
+{29663}{29716}Un progrès décisif messieurs !
+{29922}{29955}Pas de bruit !
+{30058}{30130}Il faudrait pouvoir|les toucher sans risque...
+{30166}{30241}On s'en servirait aussi|comme lampes de poche...
+{30245}{30269}Absolument !
+{30274}{30356}Quand il fait trop noir.|Ils aiment le noir.
+{30444}{30473}Comment tu es sorti ?
+{30478}{30514}Laisse cet ADN !
+{30715}{30807}Bienvenue dans les toilettes|pour hommes.
+{30871}{30967}J'espère que vous vous êtes|lavé les mains !
+{31550}{31605}Alors comment ça va ?
+{31636}{31670}Je t'ai manqué ?
+{31720}{31742}Toi aussi.
+{31945}{32010}Qu'est-ce qu'ils allaient te faire ?
+{32077}{32111}À ce point ?
+{32171}{32192}Tu veux sortir ?
+{32204}{32291}D'accord, viens.|Je te tiens.
+{32295}{32377}Je suis là, tout ira bien.
+{32384}{32432}C'est quoi ce brassard noir ?
+{32437}{32461}Brassard !
+{32478}{32547}Tu es en deuil pour ton maître ?
+{32801}{32861}Gizmo, tu vas te tenir tranquille.
+{32866}{32926}Tu veux retourner au laboratoire ?
+{32967}{33096}Reste là-dedans et tais-toi.|Je reviendrai dès que possible.
+{33118}{33178}C'est bien, tu es gentil.
+{33238}{33276}C'est lui ! Il est là !
+{33314}{33403}Désolé... Ça va ta main ?
+{33437}{33492}Il est là. Baisse-toi !
+{33564}{33681}Je suis Marla Bloodstone,|responsable du service...
+{33684}{33775}Que tout le monde se détende...
+{33784}{33840}Reprenez ce que vous faisiez.
+{33878}{33993}Je n'étais jamais venu ici|mais ça va changer. Dorénavant...
+{33995}{34053}je m'impliquerai plus avec vous.
+{34103}{34166}Mais ceci est excellent !
+{34170}{34204}C'est pas sublime ?
+{34209}{34290}Vous avez saisi|l'essence même du projet !
+{34293}{34357}Ces cerfs-volants,|quelle chaleur humaine !
+{34362}{34420}J'aime la chaleur humaine.|Votre nom ?
+{34434}{34484}Billy. Enfin, William Peltzer.
+{34508}{34600}C'est ce qu'il nous faut:|Des gens productifs !
+{34604}{34703}Mais virez ces ormes.|Qui dit orme dit maladie.
+{34707}{34731}Absolument.
+{34777}{34815}Un problème de tiroir ?
+{34839}{34930}Il est automatique.|Il s'ouvre à la demande.
+{35060}{35108}Je ne savais pas.
+{35199}{35245}Vous avez entendu ça ?
+{35257}{35307}"Les gens productifs" !
+{35319}{35352}Il vous a appelé "Bill" !
+{35357}{35463}C'est énorme comme créneau|au niveau du plan de carrière !
+{35475}{35503}Pour nous deux.
+{35508}{35539}Vous croyez ?
+{35551}{35575}C'est clair.
+{35590}{35631}On en parlera en dînant.
+{35635}{35681}- Oui. Un soir.|- Ce soir.
+{35686}{35743}- Je ne peux pas.|- Moi non plus.
+{35755}{35856}Je rends une brochure|pour CCN. Une charrette d'enfer.
+{35894}{35921}Mais...
+{35925}{35995}Ça ne fait rien,|je vous libère ma soirée.
+{36007}{36077}Je ne peux pas partir comme ça...
+{36079}{36199}Il y a quoi dans ce tiroir ?|Un petit animal ?
+{36230}{36295}C'est bien que M.Clamp|vous apprécie parce que...
+{36299}{36381}- Faites voir !|- Ce soir c'est le mieux. D'accord.
+{36386}{36508}Je connais un restau canadien...|On nettoie le poisson devant vous.
+{36513}{36561}Ça doit être génial.
+{36563}{36604}Je prends mon sac.
+{36645}{36666}Écoute...
+{36671}{36745}Je dois partir.|Quelqu'un viendra te prendre.
+{36755}{36791}Mais ne bouge pas !
+{36988}{37014}Prêt ?
+{37098}{37134}On y va.
+{37177}{37256}On verra peut être Woody Allen,|c'est sa cantine.
+{37661}{37748}J'ai presque fini,|je dois juste pointer.
+{37774}{37863}Je ne peux pas sortir avec toi,|désolé.
+{37868}{37903}J'ai une réunion d'affaires.
+{37908}{37959}Une réunion d'affaires ?|Bravo !
+{37963}{38026}J'ai un grand service à te demander.
+{38057}{38079}Gizmo est là.
+{38119}{38158}La bête à poils ?
+{38162}{38203}Il est dans mon tiroir.
+{38227}{38302}Ne rouspète pas, je déteste ça.
+{38306}{38373}C'est extra,|tu l'emmènes chez nous.
+{38378}{38429}Chez nous ?
+{38575}{38647}Et si ces bêtes se répandent|dans New York ?
+{38649}{38750}Ça n'arrivera pas.|Il suffit de respecter les règles.
+{38752}{38788}Tu t'en souviens ?
+{38791}{38884}Ne pas les exposer|à la lumière vive parce que ça les tue.
+{38889}{38963}- Et...|- Ne pas les mouiller.
+{38968}{38992}Exact.
+{38997}{39071}Enfin ne pas les laisser manger|après minuit.
+{39076}{39136}- Excellent.|- Attends !
+{39380}{39438}Ce soir sur CCN...
+{39457}{39572}me ratez pas Casablanca|enfin colorisé et avec une fin gaie.
+{39582}{39639}Avec son salaire, quand M.Clamp...
+{39644}{39757}va aux toilettes 30 secondes,|il gagne quand même 375 dollars.
+{39762}{39855}Il ne sait même pas réparer|un ascenseur !
+{39858}{39884}Moi si je bois...
+{39886}{39937}un verre d'eau je gagne...
+{39941}{40004}0,0003 cents !
+{40066}{40093}Ma vieille...
+{40114}{40169}tu as besoin d'un coup de clé.
+{40263}{40325}J'avais dit que c'était|de la camelote.
+{40330}{40402}Mais ils n'écoutent|que ceux qui font 375 dollars
+{40404}{40445}aux toilettes en 30 secondes !
+{40459}{40505}Je me rappelle|de la Sip Master 4...
+{40510}{40622}Quelle fontaine !|On pouvait s'en servir six mois...
+{40666}{40714}elle ne déviait jamais.
+{40781}{40824}C'était le bon temps.
+{41265}{41296}Saloperie !
+{43257}{43329}Je ne suis pas parano,|il veut ma tête.
+{43365}{43418}De nos jours tout est politique.
+{43435}{43502}C'est la loi de la jungle.
+{43504}{43612}Les jeunes ne pensent qu'au pouvoir.
+{43617}{43658}De vraies brutes.
+{44974}{45082}Le propriétaire de la voiture|immatriculée 1AG401...
+{45087}{45147}est prié de la retirer du garage.
+{45152}{45207}Elle est vieille et sale !
+{45211}{45247}Annoncez l'étage désiré.
+{45252}{45286}46ème s'il vous plaît.
+{45396}{45480}C'est ouvert.|Vous pouvez sortir.
+{45892}{45916}Gizmo...
+{46027}{46065}Comment tu es monté là-dessus ?
+{46137}{46197}Billy m'a dit de te ramener.
+{46211}{46254}Je vais te cacher dans mon sac...
+{46259}{46302}jusqu'à ce qu'on soit sortis.
+{46446}{46480}Gizmo, tu es...
+{46485}{46513}hyper excité !
+{46523}{46590}C'est sûrement l'ambiance|new yorkaise.
+{47149}{47189}Belles jambes !
+{47499}{47585}Vous avez toujours|voulu être un artiste ?
+{47604}{47643}J'ai toujours aimé dessiner.
+{47647}{47751}Quand j'étais petit je faisais|des BD. J'avais des pastels...
+{47755}{47784}Moi aussi !
+{47789}{47894}Je m'en servais pour écrire des notes|de service aux autres gosses.
+{47897}{47923}Incroyable.
+{47945}{48026}Je suis ravie|qu'on se soit enfin trouvés.
+{48031}{48086}C'est impossible au bureau.
+{48091}{48117}On est stressés.
+{48122}{48244}Exactement. Parlons de votre|relation privilégiée avec M.Clamp.
+{48249}{48350}Je vois des bureaux d'angle,|du papier à lettres personnalisé.
+{48357}{48419}Nous raflerons tout le service pub.
+{48431}{48455}Vraiment ?
+{48503}{48527}Mon Dieu...
+{48535}{48587}je me sens si vulnérable|à côté de vous.
+{48592}{48645}Je n'avais jamais dit ça.
+{48676}{48770}Si l'art et le commerce unissent|leurs forces tout peut arriver.
+{48803}{48858}Je pense que nous devrions unir...
+{48901}{48928}nos forces.
+{48992}{49062}Notre dessert favori|"La mousse au Choc Elan".
+{49067}{49105}Vous prenez de l'élan ?
+{49175}{49225}Une autre bière ?
+{49249}{49292}Non merci, ça ira.
+{49307}{49369}Je dois partir, j'ai rendez-vous.
+{49374}{49462}Je dois foncer.|Pardon pour votre bas.
+{49486}{49518}À demain.
+{49613}{49637}Un coup de corne ?
+{49717}{49786}Billy m'a dit de te nourrir|avant minuit...
+{49791}{49848}mais il ne m'a pas dit avec quoi.
+{49853}{49908}J'espère que ça ira: Poulet...
+{49913}{49937}et purée.
+{50175}{50246}Essaie de faire un peu attention.
+{50251}{50318}Si tu crois qu'on est riches !
+{50390}{50419}Allez, mange.
+{51237}{51297}Qui est-ce ?|Ouvre, c'est moi.
+{51426}{51460}Désolé d'être en retard.
+{51462}{51488}Ça ne fait rien.
+{51503}{51541}Qu'est-ce qui t'est arrivé ?
+{51570}{51678}- C'était bien ta réunion ?|- Oui. Où est Gizmo ?
+{51690}{51714}À la cuisine.
+{51719}{51767}Tu lui as donné à manger ?
+{51771}{51795}Façon de parler.
+{51800}{51826}Gizmo, c'est...
+{52100}{52157}- Tu l'as trouvé où ?|- Dans ton bureau.
+{52162}{52198}Ce n'est pas Gizmo.
+{52340}{52373}Il faut y retourner.
+{52378}{52412}Tu disais qu'ils ne...
+{52416}{52491}Sauf s'ils mangent après minuit.
+{52498}{52524}Mais regarde-le:
+{52546}{52584}Il est jeté !
+{52673}{52721}Il faut l'emmener avec nous.
+{52822}{52850}Donne-moi mon sac.
+{53035}{53124}- Ça y est.|- Qui ça peut être ? J'ouvre ?
+{53126}{53162}C'est préférable.
+{53205}{53255}Si tu veux sortir de là|sois sage !
+{53277}{53301}C'est mieux.
+{53332}{53359}Surprise !
+{53373}{53478}Monsieur et madame Futterman...|Vous deviez arriver demain !
+{53481}{53574}Les anciens du régiment ont avancé|notre date de réunion.
+{53589}{53637}On a pris le bus|sans pouvoir appeler.
+{53639}{53713}32 heures de route.|Pardon pour le dérangement.
+{53718}{53809}Ce n'est pas grave.|Une tasse de café ou de thé ?
+{53812}{53848}Petits cochons !
+{53850}{53900}Le soufflé a explosé.
+{53905}{54001}Quelle ville de dingues !|On a essayé d'arrêter un taxi...
+{54008}{54063}Ils sont tous russes !
+{54099}{54205}Et si on trimbalait des secrets|atomiques ? On y pense à ça ?
+{54217}{54342}Rappelle-toi ce que le Dr Kaplan|a dit: Reste calme !
+{54358}{54447}Murray a été perturbé à cause|de ces...
+{54452}{54485}Je vais très bien.
+{54507}{54598}J'ai eu les nerfs mais c'est fini.|C'était quoi ?
+{54634}{54704}Tout va bien,|je l'ai entendu aussi.
+{54708}{54747}Évidemment !
+{54749}{54804}À dire vrai|vous ne pouvez pas rester.
+{54809}{54857}J'aimerais beaucoup, mais...
+{54862}{54939}l'immeuble est en cours de...
+{54943}{54994}rénovation... désinfection...
+{54999}{55046}- Les souris.|- Les rats.
+{55051}{55133}Reçu cinq sur cinq.|On ira à l'hôtel.
+{55135}{55200}On doit évacuer l'immeuble.
+{55205}{55317}On n'est jamais trop prudents|avec ces bêtes étrangères.
+{55322}{55370}Une tarte aux pommes|de ta maman...
+{55454}{55528}Quelqu'un s'est assis dessus|mais elle est bonne.
+{55533}{55646}Ton père a une nouvelle invention:|Le papier toilette réversible.
+{55651}{55725}On s'appelle demain pour dîner.
+{55735}{55773}Très bien ! Merveilleux !
+{55783}{55811}À demain.
+{55859}{55900}Bienvenue à New York !
+{56087}{56190}Un Kona praline avec banane-kiwi|et beurre de cacahuète ?
+{56195}{56264}Le beurre de cacahuète|a le label vert ?
+{56269}{56351}Je ne suis pas sûr.|Il a le label vert ?
+{56356}{56406}Il est sans pesticide.
+{56411}{56478}Oui, mais il y a tout le reste !
+{56483}{56540}Ça part quand on grille|les cacahuètes.
+{56545}{56639}Au contraire ! Dans les pays|où on ne les grille pas...
+{56643}{56689}il y a 70% de morts en moins.
+{56694}{56742}Vous confondez avec la saumure.
+{56763}{56828}Vous ne lisez donc pas les études ?
+{56850}{56873}Un rat !
+{56902}{56931}Mon Dieu !
+{56936}{56998}Quoi ? Elle a dit un rat ?
+{57003}{57034}Non, "hourra !"
+{57037}{57065}Taratata !
+{57147}{57214}Les Entrées-matic sont modifiées...
+{57219}{57274}pour votre plus grand confort.
+{57281}{57343}Veuillez emprunter|les portes manuelles...
+{57348}{57394}pour vos entrées et vos sorties.
+{57396}{57456}Une grosse tête,|de grandes oreilles...
+{57461}{57530}Il y avait un truc horrible|dans la garniture.
+{57533}{57562}Quel genre de truc ?
+{57566}{57638}Une bête à poils.|Vous parlez d'une bouffe écolo !
+{57643}{57710}J'exige des réparations,|pas un yaourt gratis !
+{57715}{57782}Ils ont mangé et il est minuit passé.
+{57847}{57902}Désolée de ne pas avoir|ramené le bon.
+{57907}{57993}C'est ma faute, je n'aurais pas|dû laisser Gizmo seul.
+{58005}{58058}C'est quelque part par là.
+{58087}{58147}Voici la conduite qui alimente|tout l'immeuble.
+{58338}{58425}EFFRACTION
+{58528}{58559}Donnez-moi l'image.
+{58681}{58705}La sécurité ?
+{58794}{58844}Au moins ils ne se mouilleront pas.
+{58909}{59024}Lâchez ça|et sortez de là ! Plus vite !
+{59089}{59161}Terroriste ?|Qu'est-ce qu'il y a dans ce sac ?
+{59185}{59250}- Rien.|- Voyons ce "rien".
+{59293}{59324}À votre place...
+{59329}{59386}Vous n'êtes pas à ma place.
+{59727}{59782}Il faut le trouver avant qu'il mange.
+{59787}{59815}Il a déjà mangé.
+{59818}{59897}Ils se sont multipliés.|Nous devons boucler l'immeuble.
+{59918}{59945}"Nous" ?
+{59964}{60007}"Nous" ?
+{60022}{60122}La seule chose que nous ayons|à faire c'est de vous boucler !
+{60127}{60175}Ces bêtes sont dangereuses.
+{60180}{60240}Je les connais, elles bousillent tout.
+{60245}{60288}Elles bousillent tout ?
+{60295}{60372}Vous vous rappelez la ville|de Kingston Falls ?
+{60376}{60422}Je me souviens du Kingston Trio.
+{60710}{60791}- Tu as pu payer la caution ?|- Avec le loyer du mois prochain.
+{60794}{60856}- Quelle heure est-il ?|- 6 heures 30.
+{60861}{60928}Ils ont déjà dû faire des cocons.
+{60933}{60983}On a du temps|avant qu'ils s'ouvrent ?
+{60988}{61026}Si peu ! Vite !
+{62980}{63076}Le "Centre Clamp" connaît|quelques difficultés techniques...
+{63081}{63186}avec son système d'éclairage.|Ne faites pas attention.
+{63189}{63263}L'immeuble déconne de partout.
+{63270}{63299}Je sais.
+{63340}{63371}Ces jeunes...
+{63395}{63436}Ils savent tout !
+{63544}{63616}Une lumière vive...|On en aura besoin.
+{63620}{63666}DANGER HAUTE TENSION
+{63678}{63716}Électricité...
+{63978}{64028}Je dois aller à la salle de contrôle.
+{64033}{64066}Kate, c'est à vous.
+{64071}{64105}Bonjour Billy.
+{64131}{64220}C'était merveilleux hier soir.|Il faudra recommencer.
+{64222}{64280}Marla, voici Kate.
+{64285}{64356}Dieu du ciel, je dois filer !
+{64390}{64426}Joli chapeau.
+{64450}{64534}C'est ma patronne,|la femme avec qui je travaille.
+{64548}{64637}Si on en sort vivant|tu vas m'entendre !
+{64663}{64697}Ne va pas croire que...
+{64735}{64757}Extra.
+{64925}{64968}- Vous ici ?|- Je dois vous parler.
+{64973}{65042}On vous a fait arrêter|et vous revenez nous voir ?
+{65047}{65119}- Il faut évacuer l'immeuble.|- Pourquoi ?
+{65121}{65217}Il y a des bêtes. Au début|petites et couvertes de fourrure...
+{65222}{65316}Mais après minuit|elles forment des cocons et...
+{65320}{65407}Peltzer,|vous avez une bouffée délirante.
+{65419}{65500}D'abord de la fourrure,|ensuite des cocons ?
+{65505}{65550}Après avoir mangé.
+{65553}{65644}C'est connu|"Qui cocoone, dîne !"
+{65675}{65754}Voici le centre nerveux de CCN.
+{65795}{65869}M.Katsuji, rentrez dans le rang.
+{65972}{66078}Soyez bien sages, nous allons|assister à un enregistrement.
+{66083}{66116}Par ici.
+{66279}{66385}Cette semaine nous apprendrons|à dire "Vive la charcuterie !"
+{66390}{66421}Vous avez été nombreux...
+{66426}{66526}à me demander des idées|pour égayer vos amuse-gueule.
+{66531}{66591}La recette que voici est un rêve.
+{66596}{66658}Pour relever le goût, du xérès !
+{66663}{66721}Certains n'en mettent qu'une goutte...
+{66797}{66833}moi je m'en verse un verre !
+{66845}{66951}À présent plongeons-nous|dans nos hors-d'œuvre.
+{66982}{67056}Ces rouleaux de mortadelle|fourrés aux haricots...
+{67061}{67116}sont si faciles à préparer...
+{67121}{67178}quand des amis débarquent au débotté.
+{67183}{67298}Mais s'ils mangent à 23 heures|et qu'un bout d'aliment...
+{67303}{67349}reste coincé entre leurs dents ?
+{67353}{67413}Un grain de cumin ou de sésame...
+{67418}{67514}S'il se décoince après minuit,|ça fait quoi ?
+{67524}{67586}Ce sont les règles !|Les règles ?
+{67588}{67682}Et s'ils mangent dans un avion|qui traverse un fuseau horaire ?
+{67687}{67723}Il est toujours minuit|quelque part !
+{68363}{68411}Peltzer, c'était ça ?
+{68754}{68814}Prenez ça au cas où il reviendrait.
+{68953}{69044}Avant les micro-ondes|ça prenait une éternité.
+{69053}{69137}Maintenant on peut préparer|cette même soupe...
+{69142}{69243}la "Surprise au thon,|aux nouilles parfum fromage"...
+{69248}{69305}en quelques minutes.
+{69310}{69379}Continuons avec...
+{69418}{69439}Qu'est-ce que c'est ?
+{69521}{69559}C'est une baisse de tension.
+{69564}{69629}On coupera au montage.|Reprenez ici.
+{69634}{69703}Le spectacle continue !
+{69708}{69801}Servons un peu de cette soupe|aux nouilles...
+{70533}{70564}Monstre !
+{70763}{70825}Micro-ondes...
+{70957}{71019}Vous voyez ce qu'ils font ?
+{71029}{71113}Ils lancent des ustensiles|en métal dans le four !
+{71607}{71638}Vous voulez mourir ?
+{72506}{72564}Attendez ! Qu'est-ce qui se passe ?
+{72655}{72686}Il me faut un Polaroïd.
+{72691}{72739}Ça n'était pas prévu !
+{72923}{72990}Il y a des choses bizarres|au studio D.
+{72995}{73031}Passez-le sur les écrans.
+{73477}{73539}J'ai le noir dans cinq endroits de plus.
+{73544}{73630}Climatisation déréglée|aux niveaux 15 et 16.
+{73638}{73664}Qu'est-ce qui se passe ?
+{73669}{73729}Seuil critique|d'invasion de parasites.
+{73734}{73758}ALERTE
+{73784}{73863}Détails au sol|Studio de télévision QLR.
+{73873}{73904}Qu'est-ce que c'est ?
+{73909}{73940}Peut être des rats ?
+{73945}{73992}Je crains que non.
+{74002}{74081}En tout cas|ils doivent respecter la hiérarchie.
+{74436}{74491}Lumière vive !
+{74793}{74841}Annoncez l'étage désiré.
+{74846}{74870}38ème.
+{74880}{74925}38ème...
+{75007}{75050}Pour monter...
+{75254}{75294}Ascenseur, stop !
+{75374}{75409}Signal d'alarme.
+{76140}{76200}Betty, vous avez fini|de déchiqueter mon courrier ?
+{76214}{76240}Presque M.Clamp.

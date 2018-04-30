@@ -1,0 +1,573 @@
+{15}{96}et c'est une célébration. . .
+{109}{145}de la vie.
+{149}{221}Ceci est un engagement. . .
+{239}{338}pour un avenir|véritablement humain !
+{484}{518}Comment tu t'appelles ?
+{872}{944}Les motards, c'est parti.|Pas sur la console George !
+{977}{1032}Amanda, va dehors.|Il y a trop de fumée ici.
+{1044}{1090}Il y a un petit garçon|dans la cage.
+{1199}{1259}Un vrai garçon, enfermé.
+{1272}{1296}Dans la cage ?
+{1310}{1346}Dans la prison.
+{1389}{1454}Tu as une caméra|près de la roboterie ?
+{1462}{1548}- Passe sur la une que je voie.|- Tu cherches quoi ?
+{1557}{1615}Amanda dit qu'elle a vu|un garçon là-dedans.
+{1739}{1811}- D'où tu sais ça ?|- C'est l'ours qui me l'a dit.
+{1819}{1843}Je lui ai dit.
+{2074}{2161}Vous pourriez couper|mes algorécepteurs ?
+{2351}{2387}Pourquoi tout ça ?
+{2392}{2459}L'Histoire se répète.
+{2467}{2551}C'est le rite|du sang et de l'électricité.
+{2559}{2651}Quand ils ont l'occasion,|ils s'en prennent à nous. . .
+{2657}{2750}et ils nous déciment pour rester|supérieurs en nombre !
+{2854}{2914}Mon heure est déjà arrivée ?
+{2927}{2951}Adieu tout le monde.
+{3052}{3100}Protège-moi !
+{3144}{3173}La sécurité ?
+{3181}{3265}On vous a signalé|un enfant perdu ?
+{3387}{3411}Petit !
+{3467}{3500}Comment tu t'appelles ?
+{3531}{3565}Je ne vais pas te mordre.
+{3604}{3649}Approche que je te voie.
+{3784}{3815}Je te ferai pas de mal.
+{3824}{3860}Je dois voir.
+{4459}{4485}Tu es une machine.
+{4499}{4525}Je suis un garçon.
+{4539}{4571}C'est un jouet ?
+{4592}{4630}Je m'appelle David.
+{4674}{4705}Impossible.
+{4739}{4770}Je fonctionne encore.
+{4776}{4853}Je fonctionne dans le noir|mais l'ampoule est cassée.
+{4862}{4972}Ma lampe ne marche pas.|Je l'ai cognée contre une poutre.
+{5415}{5460}Adieu David.
+{5606}{5654}On ne fabrique pas d'enfants.
+{5662}{5715}Ça ne s'est jamais fait.|Quel intérêt ?
+{5721}{5817}C'est peut-être un customisé.|Un faux gamin pour un riche dégonflé.
+{5824}{5867}Je suis un customisé.
+{5874}{5967}Il y a 75 ans j'ai été nommé|Méca de l'année par Time.
+{5987}{6049}C'est du beau boulot.
+{6057}{6100}On y a mis beaucoup d'amour.
+{6177}{6220}Tu es unique en ton genre. . .
+{6227}{6251}tu sais ?
+{6291}{6325}Qui t'a fabriqué ?
+{6336}{6367}Ma maman.
+{6379}{6465}Sa matrice a été ton usine ?|Modèle conçu pour se rêver humain.
+{6474}{6503}C'est qui ton fabricant ?
+{6509}{6557}USIne, Servirlom, Roboville. . .
+{6564}{6629}Simulnation, Cybertronics,|Factothomme ?
+{6637}{6680}Monica est ma maman.
+{6697}{6730}Je peux te parler ?
+{7489}{7532}Tu ne le mets pas en piste ?
+{7547}{7614}Un original comme ça|on le jette pas avec le reste.
+{7629}{7696}L'originalité sans but|est superfétatoire.
+{7701}{7764}S'il s'agit d'argent|rembourse-toi et bonsoir.
+{7914}{7941}Qu'est-ce que vous allez en faire ?
+{7946}{7985}Le remettre à sa place.
+{7991}{8027}Dans le showbiz.
+{8044}{8080}Quelle chance j'ai eue. . .
+{8087}{8113}de tomber sur toi !
+{8171}{8195}Lâche-le.
+{8227}{8289}- J'essaie.|- Me lâche pas ! Protège-moi !
+{8296}{8334}Comme vous voudrez.
+{9461}{9512}Mesdames et messieurs. . .
+{9516}{9607}garçons et filles,|enfants de tous les âges. . .
+{9616}{9666}que va-t-on encore inventer ?
+{9688}{9722}Voyez donc !
+{9726}{9784}Un ti'robot, un gaminode. . .
+{9792}{9842}une poupée vivante.
+{9862}{9915}On sait bien pourquoi ils l'ont fait.
+{9921}{10013}Pour voler vos cœurs,|remplacer vos enfants.
+{10019}{10098}Insultes réitérées|à la dignité humaine. . .
+{10112}{10188}et complot pour éliminer|peu à peu les enfants du bon Dieu.
+{10224}{10279}Voici l'enfant dernière génération. . .
+{10286}{10361}conçu précisément|à cet usage.
+{10502}{10528}Ne soyez pas dupes. . .
+{10574}{10632}de la qualité artistique|de ce modèle.
+{10666}{10745}Certes, il a fallu du talent|pour façonner ce simulateur.
+{10763}{10807}Mais à la première frappe. . .
+{10824}{10872}vous verrez la grande imposture. . .
+{10879}{10958}se défaire sous vos yeux !
+{10967}{11027}Ne me brûlez pas !
+{11033}{11091}Je ne suis pas Pinocchio !|Ne me tuez pas !
+{11096}{11142}Je suis David !
+{11189}{11242}Un Méca ne demande pas grâce !|Qui c'est ?
+{11259}{11298}Il a l'air d'un petit garçon !
+{11304}{11369}Construit comme ça|pour nous désarmer !
+{11373}{11445}Ils essaient d'imiter nos émotions !
+{11459}{11517}Malgré la prestation de ce sim. . .
+{11521}{11617}nous ne faisons|que démolir l'artificiel !
+{11731}{11810}Que celui qui n'a jamais eu de sim. . .
+{11836}{11891}l'envoie au simetière !
+{12278}{12302}C'est un garçon !
+{12656}{12721}Sortez-le avant qu'ils cassent tout !
+{13596}{13653}En souvenir affectueux de David
+{14328}{14360}On l'a trouvé.
+{14384}{14435}Une foire à la chair|près de Haddonfield.
+{14439}{14468}Vivant ?
+{14507}{14545}Il est entier.
+{15024}{15062}Je vois la Lune.
+{15194}{15232}Elle est réelle ?
+{15239}{15273}Je n'en sais rien David.
+{15306}{15335}Elle se rapproche ?
+{15387}{15437}Je ne sais pas encore.
+{15489}{15537}N'allons pas par là.
+{15748}{15779}Où on va ?
+{15786}{15813}Par ici.
+{15824}{15889}Tu es dans de sales draps ?|Tu as fait une fugue ?
+{15897}{15961}- Maman m'a dit de m'enfuir.|- Pourquoi ?
+{15968}{15995}Sans doute. . .
+{15999}{16045}parce que Henry ne m'aimait pas.
+{16061}{16111}- Pourquoi ?|- Martin est rentré.
+{16117}{16153}Et lui, qui c'est ?
+{16156}{16223}Le vrai fils de maman et Henry.
+{16229}{16279}Quand j'aurai trouvé la Fée Bleue. . .
+{16283}{16324}je pourrai rentrer.
+{16333}{16381}Maman aimera|un vrai petit garçon.
+{16389}{16456}La Fée Bleue fera de moi|un vrai petit garçon.
+{16464}{16526}La Fée Bleue est Méca, Orga,|homme ou femme ?
+{16534}{16561}Femme.
+{16689}{16730}Je connais les femmes !
+{16804}{16842}Elles me demandent par mon nom.
+{16879}{16949}Je sais tout sur les femmes.
+{16954}{16990}Autant qu'on peut en savoir.
+{17006}{17047}Il n'y en a pas deux pareilles.
+{17054}{17109}Et après moi, il n'y en a pas deux. . .
+{17131}{17225}qui soient les mêmes. Et je sais|où on les trouve presque toutes.
+{17267}{17315}Rouge City.
+{17329}{17360}Au bord du Delaware.
+{17364}{17400}Trop loin pour marcher.
+{17408}{17459}Il nous faudra de l'aide.
+{17524}{17555}Et. . .
+{17559}{17610}c'est pas sans danger.
+{17628}{17674}Nous devrons voyager. . .
+{17798}{17842}vers la lune.
+{17906}{17957}Il y a beaucoup de femmes|à Rouge City ?
+{17989}{18053}Autant que d'étoiles la nuit.
+{18061}{18087}Où trouver la nôtre ?
+{18111}{18166}On demandera au Dr Sais-tout.
+{18216}{18273}Il n'y a rien qu'il ne sache pas.
+{18449}{18511}Comment tu appelles cette femme ?
+{18516}{18545}C'est. . .
+{18551}{18582}la Fée Bleue.
+{18644}{18682}Dans le monde des Orgas. . .
+{18689}{18727}le bleu veut dire la mélancolie.
+{18732}{18835}Pourtant mes services|feraient rougir n'importe qui.
+{18844}{18889}Je changerai la couleur de ta Fée.
+{18894}{18946}Elle hurlera à la lune.
+{19081}{19151}Elle fera de toi un garçon|et j'en ferai une femme. . .
+{19159}{19204}et le monde sera en paix. . .
+{19209}{19259}parce que tu m'as tenu la main.
+{19263}{19323}Tu as sauvé mon cerveau|et à nouveau. . .
+{19331}{19384}mes clientes me demanderont|par mon nom 
+{19388}{19436}"Gigolo Joe, ça va le boulot ?"
+{19486}{19517}Pourquoi tu fais ça ?
+{19541}{19577}Comme ça.
+{19614}{19664}Suis-moi et sans traîner.
+{19669}{19710}Tous les chemins mènent à Rouge !
+{19716}{19788}C'est pas ce qu'on dit ?|Mais bien sûr !
+{20096}{20149}Il y a des Mécafilles|de votre âge.
+{20154}{20233}Nous sommes les menus plaisirs|de l'humain solitaire.
+{20241}{20315}Avec nous, ni grossesse|ni dîner chez papa-maman.
+{20324}{20403}On travaille sous vous,|sur vous, pour vous.
+{20408}{20456}L'homme nous a faits|plus performants. . .
+{20463}{20518}qu'il n'est humainement possible.
+{20526}{20581}Si vous nous emmenez à Rouge. . .
+{20624}{20648}tout ça. . .
+{20771}{20802}et beaucoup. . .
+{20811}{20852}beaucoup plus. . .
+{20864}{20902}peut être à vous.
+{20936}{20960}Montez.
+{21338}{21370}Dites "aaaah" .
+{21946}{21996}Par là c'est Minou-Minou.
+{22003}{22087}L'agence m'y a fait faire mes essais|quand j'étais tout neuf.
+{22139}{22215}Ici le Queue-de-Pie.|Top classieux.
+{22229}{22270}On ne m'y a pas encore demandé.
+{22274}{22375}Leveurs du matin et tombeuses du soir,|tous robots classe Sierra. . .
+{22381}{22458}ignorant la vie et même l'anglais.|Fabriqués en Suède.
+{22463}{22511}Ils confondent pèze et baise.
+{22699}{22727}Voilà le Mildred !
+{22733}{22788}Il faut que je te montre l'intérieur.
+{23221}{23262}Tu es la Fée ?
+{23298}{23372}C'est Notre Dame du Cœur immaculé.
+{23454}{23514}Nos créateurs|cherchent leurs créateurs.
+{23522}{23586}Mains jointes, yeux baissés,|ils chantent. . .
+{23594}{23656}et à la sortie|c'est moi qu'ils trouvent.
+{23676}{23736}J'ai beaucoup levé dans ce coin.
+{23844}{23892}Mais Joe, où est la Fée Bleue ?
+{23931}{24000}C'est ce qu'on va savoir|grâce au Dr Sais-tout.
+{24059}{24131}Là où vont tous ceux|qui n'ont pas réponse à tout.
+{24176}{24236}Je te présente le bon docteur.
+{24266}{24316}DR SAIS-TOUT
+{25246}{25282}Esprits affamês !
+{25286}{25337}Bienvenue chez le Dr Sais-tout...
+{25341}{25406}restauration rapide du savoir,|24 heures sur 24...
+{25414}{25476}40000 points de vente nationaux.
+{25484}{25558}Demandez au Dr Sais-tout.|Il n'y a rien que je ne sache.
+{25563}{25630}Où je peux trouver la Fée Bleue ?
+{25638}{25741}Pour questionner payez le prix.|Deux pour cinq, plus une, gratuit.
+{25756}{25866}Deux questions pour cinq novdollars|et une troisième en prime.
+{25886}{25919}De nos jours. . .
+{25924}{25991}rien n'est plus coûteux|que l'information.
+{26064}{26133}- C'est tout.|- 10 novdollars et une pièce de 10. . .
+{26139}{26194}ça fait sept questions|pour le Dr Sais-tout.
+{26198}{26237}Ça devrait suffire.
+{26251}{26315}C'est un vieux renard.|Il va nous pousser à la faute.
+{26321}{26378}Mais on doit tenter le coup.
+{26591}{26648}Au menu :|texte factuel ou fictionnel.
+{26656}{26718}Niveau de langue :|du primal au postdoctoral.
+{26726}{26772}Style : du conte de fées au sacré.
+{26776}{26810}Qui est qui, où est où...
+{26826}{26872}ou fait plat.
+{26894}{26918}Fait plat ?
+{26924}{26952}Merci, question numéro une.
+{26958}{27004}"Fait plat" est un terme...
+{27019}{27091}Ça devrait pas compter !|C'était pas ma question.
+{27114}{27210}Evite de laisser|tes fins de phrase en l'air.
+{27248}{27296}"Fait plat. "
+{27303}{27346}Encore six questions.
+{27353}{27391}Où est...
+{27398}{27449}la Fée Bleue ?
+{27456}{27521}Dans le jardin.|Vascostylis ou Fée Bleue.
+{27529}{27606}Deux floraisons annuelles, fleurs|bleu vif, inflorescence en grappe.
+{27613}{27666}Un hybride Ascola-Arnold.
+{27681}{27710}Encore cinq questions.
+{27713}{27771}Qui est la Fée Bleue ?
+{27779}{27853}Triste ? Solitaire ?|Besoin de compagnie ?
+{27861}{27930}Escort Service Fée Bleue,|vos rencontres à la carte.
+{27938}{27964}Encore quatre.
+{28053}{28097}Essaie conte de fées.
+{28141}{28170}Nouvelle catégorie.
+{28264}{28309}Conte d'éphèbe.
+{28314}{28369}Non ! Conte de fées.
+{28541}{28577}Qu'est-ce que Fée Bleue ?
+{28584}{28660}Pinocchio de Carlo Collodi.
+{28668}{28752}"A ce signal, on entendit|comme un grand bruit d'ailes...
+{28761}{28835}et un énorme faucon|se posa sur l'appui de la fenêtre. "
+{28841}{28896}"Que demandez-vous gracieuse Fée ?"
+{28904}{28947}C'est elle !
+{28951}{29016}"Or, la jeune fille|aux cheveux bleus...
+{29024}{29069}n'était autre qu'une très bonne fée...
+{29076}{29146}qui vivait dans la forêt|depuis plus de mille ans. "
+{29201}{29225}C'est elle !
+{29228}{29303}C'était une illustration.|Je crois qu'on se rapproche.
+{29316}{29364}Mais si un conte de fées est réel. . .
+{29371}{29419}est-ce que ce n'est pas un fait ?
+{29423}{29452}Un fait plat ?
+{29493}{29532}N'en dis pas plus.
+{29614}{29647}Nouvelle catégorie.
+{29698}{29732}Combiner. . .
+{29788}{29820}fait. . .
+{29826}{29865}avec. . .
+{29938}{29979}conte de fées.
+{30090}{30119}Maintenant. . .
+{30144}{30182}demande-lui à nouveau.
+{30386}{30415}Comment. . .
+{30439}{30491}la Fée Bleue peut-elle. . .
+{30528}{30562}changer. . .
+{30598}{30641}un robot. . .
+{30661}{30735}en vrai petit garçon vivant ?
+{30868}{30909}Va, ô enfant humain
+{30913}{30959}Vers les eaux, le pays sauvage
+{30963}{31004}En tenant une fée par la main
+{31008}{31095}Car ce monde a plus de larmes|Qu'on ne le sait à ton âge.
+{31111}{31197}Ta quête sera périlleuse,|mais la récompense n'a pas de prix.
+{31211}{31285}Dans son livre| "Comment un robot devient humain ? "
+{31291}{31404}le Pr Allen Hobby décrit la force|qui transformera un Méca en Orga.
+{31426}{31469}Dites-moi comment la trouver ?
+{31476}{31536}La découverte est fort possible.
+{31543}{31649}Notre Fée Bleue existe en un lieu,|et un seul lieu.
+{31659}{31726}Au bout du monde,|là où les lions pleurent.
+{31738}{31801}C'est le lieu|où naissent les rêves.
+{31838}{31896}Bien des Mécas|sont allés au bout du monde. . .
+{31904}{31947}et n'en sont jamais revenus.
+{31974}{32022}C'est pourquoi on nomme ce lieu. . .
+{32029}{32077}Man-hattan.
+{32088}{32148}Et c'est pour ça qu'on doit y aller.
+{32256}{32285}Attends !
+{32324}{32381}Et si la Fée n'était pas réelle ?
+{32453}{32532}Si elle était magique ?|Le surnaturel tisse l'univers.
+{32541}{32606}Seuls les Orgas croient|ce qu'on ne voit pas.
+{32614}{32654}C'est ce qui nous distingue.
+{32664}{32721}Si la Fée était|un parasite électronique. . .
+{32728}{32788}qui hante|l'intelligence artificielle ?
+{32868}{32902}Ils nous haïssent.
+{32909}{32947}Les humains. Ils sont prêts à tout.
+{33016}{33066}Ma maman ne me hait pas.
+{33079}{33122}Parce que je suis spécial et. . .
+{33129}{33162}unique !
+{33168}{33228}Il n'y a jamais eu|quelqu'un comme moi.
+{33240}{33296}Elle aime Martin|et quand je serai réel. . .
+{33303}{33354}elle me fera la lecture|et elle me bordera. . .
+{33361}{33444}elle chantera, m'écoutera,|me fera des câlins. . .
+{33453}{33532}et elle me dira cent fois par jour|qu'elle m'aime !
+{33598}{33651}Elle aime ce que tu lui fais. . .
+{33684}{33756}comme mes clientes aiment|ce que je leur fais.
+{33861}{33909}Mais elle ne t'aime pas.
+{33946}{33982}Elle ne peut pas t'aimer.
+{33993}{34041}Tu n'es ni chair ni sang.
+{34048}{34110}Tu n'es ni chien, ni chat, ni canari.
+{34120}{34161}Tu as été conçu. . .
+{34168}{34235}et construit dans un but,|comme nous tous.
+{34243}{34322}Tu es seul|parce qu'ils en ont eu assez de toi. . .
+{34331}{34376}ils ont acheté un nouveau modèle. . .
+{34381}{34465}ou ils se sont fâchés pour une remarque,|pour un objet cassé.
+{34519}{34612}Ils nous ont faits trop malins,|trop vite, trop nombreux.
+{34639}{34715}Nous souffrons pour leurs erreurs|parce qu'à la fin. . .
+{34723}{34795}il ne restera que nous.
+{34805}{34849}C'est pourquoi ils nous haïssent. . .
+{34853}{34918}et c'est pourquoi tu dois rester ici.
+{34938}{34977}Avec moi.
+{35041}{35082}Au revoir Joe.
+{35610}{35644}Reculez.
+{35669}{35714}Dégagez le passage.
+{35758}{35791}T'es dans de sales draps.
+{36134}{36167}Circulez.
+{36556}{36611}Attention David.|Ce n'est pas un jouet.
+{37449}{37516}- Destination ?|- Man-hattan.
+{38586}{38646}Zone interdite aux Mécas.
+{39061}{39097}Destination atteinte.
+{39100}{39180}La cité engloutie au bout du monde.
+{39241}{39293}Là où pleurent les lions.
+{39876}{39917}Fais demi-tour Joe.
+{39946}{40003}On n'abandonne pas encore.
+{40016}{40071}Fais demi-tour. Complètement.
+{41793}{41829}Professeur Hobby !
+{42309}{42385}"Va, ô enfant humain|Vers les eaux, le pays sauvage
+{42391}{42499}En tenant une fée par la main|Car ce monde a plus de larmes
+{42518}{42578}Qu'on ne le sait à ton âge. "
+{43203}{43244}Professeur Hobby ?
+{43675}{43735}C'est ici qu'on vous rend réel ?
+{43793}{43846}C'est ici qu'on t'apprend à lire.
+{43976}{44014}Tu es réel ?
+{44069}{44107}Je crois.
+{44303}{44337}Tu es moi ?
+{44360}{44408}- Je suis David.|- C'est pas vrai !
+{44425}{44485}Si c'est vrai. Je suis David.
+{44536}{44579}Moi aussi.
+{44778}{44810}Tu sais lire ?
+{44845}{44905}Assieds-toi, on va lire ensemble.
+{44973}{45000}Soyons amis.
+{45043}{45076}Tu ne l'auras pas !
+{45113}{45144}Je ne t'entends pas.
+{45203}{45237}Elle est à moi.
+{45258}{45301}Et je suis le seul !
+{45378}{45416}Je suis David !
+{45616}{45666}Je suis spécial ! Unique !
+{45700}{45741}Tu ne l'auras pas !
+{46001}{46044}Oui, tu es David.
+{46173}{46231}Oui David, je t'attendais.
+{46358}{46411}Le Dr Sais-tout m'a dit|que vous étiez ici.
+{46418}{46459}La Fée Bleue est aussi ici ?
+{46491}{46548}C'est Monica|qui m'a parlé de ta Fée.
+{46603}{46644}Qu'est-ce que tu attendais d'elle ?
+{46650}{46691}Qu'elle me change en garçon réel.
+{46698}{46746}Mais tu es un garçon réel.
+{46808}{46907}Le plus réel que j'aie jamais créé,|ce qui fait de moi ta Fée Bleue.
+{46931}{46962}Vous n'êtes pas elle.
+{46968}{47052}Le Dr Sais-tout a dit qu'elle serait|ici, dans la cité engloutie.
+{47058}{47159}C'est ce qu'il devait savoir|pour te faire revenir chez nous.
+{47201}{47268}Ça a été notre seule intervention.
+{47288}{47362}La seule aide|que nous lui avons donnée. . .
+{47398}{47441}pour qu'il t'aide. . .
+{47566}{47616}à retrouver ton chemin.
+{47678}{47728}Avant toi|les robots ne rêvaient pas. . .
+{47733}{47813}ne désiraient pas,|sauf ce que nous leur disions.
+{47858}{47942}Tu mesures la réussite|que tu as atteinte ?
+{47973}{48016}Tu as trouvé un conte de fées. . .
+{48023}{48116}et, inspiré par l'amour,|tu as entrepris d'en faire une réalité.
+{48124}{48176}Et, plus remarquable que tout. . .
+{48183}{48248}on ne t'a pas appris !|Nous t'avons même perdu.
+{48253}{48311}En te retrouvant,|nous ne sommes pas apparus.
+{48318}{48425}C'était simple : où te mènerait|ton raisonnement autonome ?
+{48435}{48493}A la conclusion logique. . .
+{48498}{48575}que la Fée est née du défaut humain|de désirer ce qui n'est pas. . .
+{48583}{48638}ou du plus grand don humain. . .
+{48658}{48730}la capacité de poursuivre nos rêves ?
+{48738}{48834}Et cela, aucune machine|ne l'a jamais fait avant toi.
+{48906}{48966}Je croyais que j'étais unique.
+{49045}{49096}Mon fils était unique en son genre.
+{49181}{49236}Tu es le premier dans ton genre.
+{49571}{49628}Mon cerveau explose.
+{49698}{49765}Veux-tu connaître|tes vrais mères et pères ?
+{49823}{49888}L'équipe a hâte de te parler.
+{49923}{49964}Tu vas attendre ici.
+{49968}{50016}Je vais les réunir.
+{50083}{50158}On veut tout savoir|de tes aventures.
+{50188}{50226}On veut te remercier. . .
+{50278}{50341}et te dire ce qui t'attend.
+{54016}{54073}Enfin, un amour bien à vous
+{58633}{58669}Je l'ai vu Joe !
+{58718}{58797}L'endroit où elle vit.|Elle est là, en bas.
+{58813}{58858}Elle m'attend. Allons-y !
+{59090}{59186}Quand tu seras un vrai garçon,|et en âge, salue les dames pour moi.
+{59246}{59269}Adieu Joe.
+{59423}{59449}Je suis.
+{59520}{59554}J'étais !
+{60577}{60633}David, sois prudent.
+{61080}{61128}Il était une fois. . .
+{63995}{64024}La Fée Bleue n'a rien.
+{64031}{64059}Qu'est-ce qui s'est passé ?
+{64093}{64124}Je ne sais pas.
+{64130}{64169}Nous sommes dans une cage.
+{64480}{64516}Fée Bleue.
+{64585}{64618}S'il te plaît.
+{64662}{64763}S'il te plaît,|fais de moi un vrai garçon vivant.
+{65177}{65225}Rends-moi réel.
+{65420}{65487}S'il te plaît, rends-moi réel.
+{65623}{65673}Fais de moi un vrai garçon.
+{65977}{66056}David continua de prier|la Fée Bleue...
+{66063}{66149}qui souriait doucement|pour l'éternité.
+{66156}{66227}Qui ouvrait les bras|pour l'éternité.
+{66235}{66358}A la longue les phares moururent|mais David la voyait dans le jour pâle.
+{66367}{66427}Et il lui parlait encore, espérant.
+{66447}{66541}Il pria jusqu'à ce que|les anémones de mer meurent toutes.
+{66562}{66699}Il pria tandis que l'océan gelait,|enchâssant l'amphibicoptère et la Fée...
+{66710}{66779}les enfermant tous deux|là où il pouvait encore la deviner...
+{66787}{66835}fantôme bleu dans la glace.
+{66848}{66886}Toujours là...
+{66902}{66938}toujours souriante...
+{66963}{67004}l'attendant toujours.
+{67025}{67085}A la fin il ne bougea plus du tout...
+{67090}{67169}mais ses yeux restèrent|toujours ouverts...
+{67177}{67273}fixés droit devant lui,|perçant l'obscurité de chaque nuit.
+{67297}{67345}Et le jour d'après.
+{67378}{67424}Et le jour d'après.
+{67460}{67563}Deux mille ans passèrent comme ça.
+{73189}{73278}Cet appareil a été bloqué|sous l'épave avant le gel.
+{73300}{73401}Ces robots sont donc des originaux.|Ils ont connu des êtres vivants.
+{77103}{77151}Teddy, on est à la maison.
+{77892}{77931}On est à la maison !
+{78247}{78290}Où es-tu ?
+{79124}{79204}Tu m'as cherchée,|n'est-ce pas David ?
+{79353}{79396}Toute ma vie.
+{79448}{79546}Après tout ce temps,|qu'est-ce que tu es venu me demander ?
+{79560}{79608}J'ai un vœu à faire.
+{79623}{79661}Quel est ton vœu ?
+{79712}{79774}Fais de moi un vrai garçon. . .
+{79782}{79863}pour que ma maman m'aime|et me garde auprès d'elle.
+{79932}{80004}Je ferai tout ce qui est possible. . .
+{80010}{80077}mais je ne peux pas|faire de toi un vrai garçon.
+{80124}{80158}Où suis-je ?
+{80222}{80287}Ça ressemble à ma maison|mais c'est différent.
+{80312}{80367}Oui, c'est différent.
+{80378}{80430}Mais c'est aussi ta maison.
+{80447}{80521}Nous lisons dans ton esprit|et tout y est.
+{80539}{80645}Tu as gardé jusqu'au plus petit détail|pour que nous le retrouvions.
+{80692}{80759}Nous voulons tant|que tu sois heureux.
+{80772}{80840}Tu es si important pour nous.
+{80845}{80917}Tu es unique au monde.
+{81047}{81105}Maman rentre bientôt ?
+{81165}{81227}Elle fait des courses avec Martin ?
+{81322}{81372}Elle ne pourra jamais rentrer.
+{81417}{81482}Deux mille ans ont passé. . .
+{81490}{81549}et elle n'est plus en vie.
+{81610}{81653}David chéri. . .
+{81682}{81723}quand tu te sens seul. . .
+{81727}{81823}nous pouvons ramener|d'autres personnes de ton époque.
+{81872}{81930}Si tu peux en ramener d'autres. . .
+{81952}{82000}pourquoi pas elle ?
+{82042}{82160}Nous ne pouvons ramener que les gens|dont le corps était dans les glaces.
+{82182}{82270}Il nous faut un échantillon physique|de la personne. . .
+{82279}{82349}par exemple un os ou un ongle.
+{82492}{82578}Tu te rappelles quand tu as coupé|des cheveux de maman ?
+{82605}{82648}Henry m'a secoué.
+{82664}{82732}Tu as laissé tomber la mèche.
+{82792}{82823}Je sais.
+{83457}{83527}A présent tu peux la ramener.
+{83692}{83745}Donnez-lui ce qu'il veut.
+{83917}{84017}David chéri,|tes désirs sont des ordres.
+{84585}{84630}Joe, ça va le boulot ?
+{85705}{85772}J'ai souvent été envieux|des humains. . .
+{85777}{85840}de cette chose|qu'ils appelaient l'esprit.
+{85855}{85934}Ils ont donné un million|d'explications du sens de la vie. . .
+{85942}{86021}dans l'art, la poésie,|les formules mathématiques.
+{86030}{86126}Les humains devaient être la clé|du sens de l'existence.
+{86134}{86206}Mais les humains n'existaient plus.
+{86242}{86276}Nous avons lancé un projet. . .
+{86282}{86373}pour recréer le corps vivant|d'un être mort depuis longtemps. . .
+{86382}{86478}à partir de l'ADN d'un fragment d'os|ou de peau momifiée.
+{86487}{86526}Nous nous demandions. . .
+{86533}{86590}si on pourrait|récupérer la mémoire. . .
+{86594}{86645}correspondant à un corps recréé.
+{86657}{86703}Sais-tu ce qu'on a trouvé ?
+{86719}{86822}Le tissu même de l'espace-temps|s'est révélé contenir. . .
+{86832}{86895}l'information|sur tous les événements. . .
+{86902}{86960}qui s'étaient produits|dans le passé.
+{86998}{87041}Mais l'expérience. . .
+{87050}{87086}a été un échec. . .
+{87107}{87205}parce que les ressuscités ne vivaient|qu'un jour de leur nouvelle vie.
+{87242}{87341}Quand ils s'endormaient au soir|de leur première nouvelle journée. . .
+{87347}{87390}ils mouraient.
+{87404}{87486}Dès la perte de conscience,|toute leur existence. . .
+{87502}{87550}disparaissait dans les ténèbres.
+{87615}{87739}Les équations montraient que quand|un chemin spatiotemporel avait servi. . .
+{87747}{87807}il ne pouvait pas resservir.
+{87837}{87904}Si on fait revenir ta mère. . .
+{87922}{87977}ce ne sera que pour une journée. . .
+{87989}{88054}et après,|tu ne pourras plus jamais la revoir.
+{88237}{88292}Peut-être qu'elle sera spéciale.
+{88329}{88380}Peut-être qu'elle restera.
+{88400}{88469}Je me disais que tu aurais|du mal à comprendre.
+{88482}{88534}Tu as été créé pour être si jeune.
+{88587}{88635}Peut-être que ce jour unique sera. . .
+{88642}{88697}comme celui|dans l'amphibicoptère.
+{88722}{88777}Qu'il durera toujours.
+{88835}{88928}Tu es la mémoire persistante|de la race humaine.
+{88977}{89054}La preuve la plus durable|de son génie.
+{89062}{89146}Nous ne voulons que ton bonheur.
+{89222}{89273}Tu en as eu si peu.
+{89307}{89362}Si vous voulez mon bonheur. . .
+{89407}{89467}vous savez ce que vous avez à faire.
+{89607}{89635}Ecoute.
+{89679}{89715}Tu entends ?
+{89847}{89902}Le nouveau matin s'est levé.
+{90107}{90148}Va la retrouver.
+{90227}{90290}Elle se réveille à l'instant.
+{92672}{92713}Je t'ai trouvée.
+{92977}{93029}J'ai dû m'assoupir.
+{93099}{93154}- Il y a longtemps. . .|- Tu veux du café ?
+{93182}{93228}Comme tu l'aimes ?
+{93260}{93310}Oui, j'aimerais bien un café.
+{93357}{93400}Ça me réveillera.
+{94004}{94064}Tu n'oublies jamais|comment le faire.
+{94189}{94223}Je n'oublie jamais.
+{94364}{94419}Je suis un peu perdue.
+{94452}{94491}On est quel jour ?
+{94564}{94595}On est. . .
+{94600}{94631}aujourd'hui.
+{94687}{94718}Le jour s'écoulait...
+{94722}{94806}et David pensait que c'était|le jour le plus heureux de sa vie.
+{94811}{94850}Tous les problèmes...
+{94854}{94921}semblaient avoir disparu|des pensées de sa mère.
+{94942}{95019}Il n'y avait plus de Henry,|plus de Martin...
+{95029}{95072}plus de chagrin.
+{95081}{95125}Il n'y avait que David.
+{95387}{95449}On lui avait dit|de ne rien expliquer à Monica.
+{95455}{95534}Sinon elle prendrait peur|et tout serait gâchê.
+{95542}{95606}Mais le voyage de David|n'appartenait qu'à lui...
+{95614}{95715}et il ne vit aucun mal à décrire|ce dont elle n'avait pas de souvenir.
+{96392}{96480}Il n'avait jamais eu d'anniversaire|parce qu'il n'était pas né.
+{96489}{96559}Ils firent un gâteau,|ils allumèrent des bougies.
+{96567}{96603}Fais un vœu.
+{96609}{96657}Il s'est déjà réalisé.
+{96807}{96874}La lumière du jour|commençait à décliner.
+{96879}{96920}David baissa les stores...
+{96927}{96989}sans même qu'on lui demande.
+{97204}{97262}C'est moi qui devrais te border.
+{97299}{97340}C'est étrange.
+{97451}{97495}C'est fascinant.
+{97612}{97669}J'ai du mal|à garder les yeux ouverts.
+{97705}{97755}Je ne sais pas ce qui m'arrive.
+{97907}{97962}Quelle belle journée.
+{98039}{98087}Je t'aime David.
+{98237}{98285}Je t'aime vraiment.
+{98329}{98403}Je t'ai toujours aimé.
+{98501}{98578}C'était le moment éternel|qu'il avait attendu.
+{98642}{98694}Et le moment était passé...
+{98702}{98757}parce que Monica était|profondément endormie...
+{98796}{98849}plus que simplement endormie.
+{98887}{98947}S'il la secouait,|elle ne s'éveillerait pas.
+{99059}{99112}Alors David s'endormit lui aussi.
+{99152}{99245}Et pour la première fois de sa vie...
+{99281}{99332}il alla dans ce lieu...
+{99359}{99428}où naissent les rêves.

@@ -1,0 +1,682 @@
+{2986}{3033}Je n'y crois toujours pas.
+{3042}{3072}Moi non plus.
+{3092}{3145}C'est un rêve.
+{3375}{3420}J'en ai pour une seconde.
+{4716}{4749}Fiona !
+{4919}{4954}Qu'est-ce qui se passe ?
+{4969}{4999}Viens m'aider.
+{5593}{5648}Respirez bien à fond.
+{5693}{5738}L'air frais vous fera .du bien.
+{5833}{5868}Vous êtes très jolie
+{6095}{6135}Vous allez à Istanbul ?
+{6160}{6200}Et de là à Bombay.
+{6225}{6260}Vous allez loin ?
+{6320}{6348}Très loin.
+{6420}{6453}Beaucoup plus loin.
+{6518}{6568}Mais pourquoi l'Inde ?
+{6587}{6654}Pour prendre un peu de répit.
+{6659}{6717}Et l'Inde a tant à nous apprendre.
+{6729}{6764}Quoi par exemple ?
+{6817}{6864}La sérénité intérieure|et tout ça.
+{6872}{6939}Le syndrome karma nirvana.|Fichaises !
+{6949}{7074}L'Inde c'est mouches et mendiants.|Le pays le plus bruyant du monde !
+{7132}{7154}Si vous le dites.
+{7159}{7222}M.Singh dénigre son pays
+{7227}{7289}par modestie.|Moi je brûle d'y être.
+{7294}{7374}Ce voyage est un cadeau|pour nos sept ans de mariage.
+{7379}{7429}Une forme de thérapie conjugale !
+{7442}{7512}Inutile, avec une épouse|aussi belle que vous
+{7517}{7589}on est prémuni|contre le démon de sept ans !
+{7707}{7732}Fatiguée ?
+{7737}{7819}Vannée, ça doit être l'air du large.
+{7891}{7916}On prend un verre ?
+{7921}{7943}On se couche ?
+{7948}{7978}Allez, rien qu'un.
+{7983}{8026}Non, mais vas-y toi.
+{8033}{8101}Raccompagne-moi,|je ne tiens plus debout.
+{8111}{8131}Tu es sûre ?
+{8136}{8163}Certaine.
+{8171}{8276}C'est mauvais pour les vieux couples|de rester collés ensemble.
+{10007}{10030}Vous allez mieux ?
+{10042}{10072}Mieux que quoi ?
+{10115}{10190}Rappelez-vous, cet après-midi.
+{10199}{10221}Dans les toilettes.
+{10231}{10256}Les toilettes ?
+{10261}{10316}C'est comme ça|que vous draguez ?
+{10506}{10539}Je me rappelle.
+{10551}{10596}J'ai une mémoire parfaite.
+{10624}{10666}Quand j'en ai envie.
+{10756}{10794}C'est un jeu ?
+{10851}{10881}Vous dansez ?
+{10931}{10964}Pas très bien.
+{11021}{11054}Ça m'étonne pas.
+{11209}{11241}Vous vous appelez ?
+{11246}{11276}Nigel Dobson
+{11403}{11435}Distrayez-moi.
+{11443}{11478}Dites-moi un truc drôle.
+{11640}{11673}Vous êtes française, non ?
+{11680}{11735}Votre anglais est très très bon.
+{11740}{11808}mais les grenouilles|on les reconnaît.
+{11828}{11915}C'est bête, ça m'a échappé,|une blague de potache.
+{11920}{11973}Je travaille à la bourse.
+{11978}{12028}Entre collègues|on parle comme ça.
+{12065}{12115}Oui, je vous ennuie.
+{12128}{12195}Vous nous appelez bien|les "rosbifs"
+{12205}{12245}Je prononce bien ?
+{12295}{12338}Tu es trop drôle pour moi.
+{12348}{12388}Je m'étrangle de rire.
+{12468}{12495}Salut.
+{12505}{12600}Je te laisse|à ta captivante personnalité.
+{12809}{12847}Romantique, n'est-ce pas ?
+{12889}{12919}Oui. Superbe.
+{13072}{13102}Vous êtes Nigel ?
+{13174}{13212}Je vous connais ?
+{13287}{13312}Méfiez-vous d'elle.
+{13464}{13512}C'est une mangeuse d'hommes.
+{13522}{13569}- De quoi vous parlez ?|- Vous le savez.
+{13612}{13647}Je suis son mari.
+{13692}{13729}Voilà ce qu'elle m'a fait.
+{13798}{13821}Navré.
+{13846}{13896}Une question Nigel.
+{13906}{13978}Je peux vous appeler Nigel ?
+{13983}{14023}Qu'est-ce que vous pensez d'elle ?
+{14061}{14138}S'il s'agit de la même...|elle est très jolie.
+{14153}{14208}Certes ! Et plus encore.
+{14221}{14253}Elle te fait bander.
+{14258}{14286}Plaît-il ?
+{14298}{14336}Ne sois pas si british
+{14341}{14416}Tu as envie de la sauter,|c'est pas un crime.
+{14421}{14448}Je ne vois pas où...
+{14453}{14476}Déconne pas !
+{14506}{14566}Tu crèves d'en savoir plus|sur elle, non ?
+{14606}{14651}Alors ? Non ?
+{14658}{14673}Tenez.
+{14698}{14741}Soyez gentil.
+{14758}{14813}Aidez-moi à franchir la marche.
+{14818}{14878}C'est pas conçu|pour les gens comme moi.
+{14967}{15000}Entrez d'abord.
+{15045}{15077}Par les roues.
+{15305}{15350}Saloperie de bateaux !
+{15532}{15605}C'est gentil de prendre pitié|d'un infirme.
+{15627}{15675}On ne se connaît pas.
+{15680}{15722}Mais quelque chose me dit
+{15727}{15812}que vous êtes le confident|que j'attendais.
+{15820}{15885}Pourvu que mon récit|vous intéresse.
+{15912}{16020}Evidemment, vous n'êtes pas|directement concerné.
+{16047}{16095}A moins que vous le soyez déjà.
+{16306}{16356}Nous ne serons pas dérangés.
+{16401}{16431}Mimi a sa cabine.
+{16859}{16954}Pour moi l'éternité a commencé|un automne à Paris
+{16959}{16996}dans le 96,
+{17001}{17106}sur la ligne|Montparnasse-Porte des Lilas.
+{19856}{19908}J'avais entrevu le paradis.
+{19916}{19978}J'échouai sur un trottoir|de la rue d'Assas.
+{20018}{20063}Je me demande|où vous voulez en venir.
+{20068}{20121}J'ai toujours voulu être écrivain.
+{20151}{20183}Mon grand-père,
+{20191}{20248}fabricant de matériel chirurgical,
+{20253}{20296}m'a constitué un capital.
+{20321}{20398}A sa mort|je me suis découvert assez riche
+{20403}{20463}pour aller vivre à Paris.
+{20638}{20681}La ville de mes rêves...
+{20691}{20768}Hemingway, Miller,|Scott Fitzgerald...
+{20781}{20858}J'étais décidé|à suivre leurs traces.
+{20866}{20921}Trop décidé peut-être.
+{20937}{21027}Parce que j'y ai sans doute|perdu mon originalité.
+{21045}{21135}Huit ans plus tard|mon labeur littéraire n'avait produit
+{21140}{21260}que trois romans non publiés|et un gros tas de lettres de refus.
+{21270}{21302}Mais que m'importait ?
+{21312}{21430}La terrasse des cafés, le jupon des|passantes, les amours de passage...
+{21442}{21485}Paris était le paradis.
+{21490}{21550}Jusqu'au jour de l'autobus.
+{22374}{22391}Rien à faire.
+{22429}{22494}Incapable d'écrire, de dormir...
+{22516}{22564}Je ne pensais plus qu'à elle.
+{22586}{22701}Elle était là quelque part,|mon ensorceleuse en tennis blancs
+{22721}{22749}Mais où ?
+{22921}{22991}Je hantais la ligne 96.
+{22996}{23034}J'en étais obsédé.
+{23044}{23106}Les conducteurs|ont fini par me connaître.
+{26381}{26406}Vous êtes américain ?
+{26411}{26436}Vous vous souvenez ?
+{26446}{26501}Bien sûr. C'était très gentil.
+{26506}{26553}Alors à vous d'être gentille.
+{26558}{26616}Dînons ensemble demain.
+{26621}{26651}Vous avez un jour de congé ?.
+{26658}{26693}- Quand ?|- Demain.
+{26980}{27072}Elle m'avait donné rendez-vous|au Centre du Marais.
+{27102}{27190}J'y arrivai|avec une demi-heure d'avance.
+{27200}{27280}Mes nerfs sonnaient le tocsin.
+{28371}{28436}A la santé du 96.
+{28856}{28891}On le laisse choisir ?.
+{29249}{29299}Espérons que j'ai bien fait
+{29303}{29393}de le laisser décider,|parce qu'avec mon thaï
+{29398}{29465}on risquait de manger|des queues de chien.
+{29560}{29580}Ça ne vous dérange pas ?
+{31182}{31232}Sa fraîcheur, son innocence,
+{31272}{31344}ce mélange de maturité sexuelle
+{31349}{31397}et de naïveté enfantine
+{31404}{31512}émouvaient mon cœur blasé|et effaçaient toute différence d'âge.
+{31529}{31559}Ma copine est américaine.
+{31564}{31597}Cindy, tu l'as vue
+{31612}{31632}au cours.
+{31637}{31707}- Je l'ai connue à New York|- Tu y es restée longtemps ?
+{31711}{31746}Tant que j'ai eu du blé.
+{31778}{31796}C'est-à-dire ?
+{31801}{31856}Six mois. J'adore New York.
+{31861}{31923}Y a pas mieux pour une danseuse.|Pas pour un écrivain ?
+{31928}{31986}Pas pour moi. J'adore Paris.
+{31991}{32041}Tu écris sur Paris ?
+{32071}{32101}Et les gens.
+{32118}{32161}Tu m'en feras lire ?
+{32166}{32198}Tu danseras pour moi ?
+{32226}{32248}Si tu veux.
+{32256}{32276}Promis ?
+{33390}{33435}Je t'ai cherchée partout
+{33467}{33507}Tu croyais me revoir ?
+{33547}{33565}Vraiment ?
+{33575}{33595}Vraiment.
+{33827}{33850}Tu l'as gardé.
+{34151}{34189}J'ai froid aux pieds.
+{35325}{35398}Une cheminée ! Elle marche ?
+{35403}{35425}Bien sûr.
+{35440}{35513}Installe-toi,|je vais faire du café.
+{35530}{35565}Tu préfères un chocolat ?
+{35608}{35640}On fait du feu ?
+{35678}{35730}Fais le feu, moi le café.
+{35765}{35798}Et le chocolat.
+{39057}{39142}Rien, jamais, n'a surpassé|le ravissement de ce premier réveil.
+{39167}{39260}J'étais Adam, la saveur de la pomme|encore dans la bouche.
+{39277}{39410}Contemplant toute la beauté du monde|incarnée dans un corps féminin.
+{39422}{39485}Et je sus|avec une certitude aveuglante
+{39490}{39535}que je touchais au but.
+{40184}{40266}On est restés enfermés|trois jours entiers.
+{40271}{40369}Inséparables le jour|et insatiables la nuit,
+{40381}{40451}vivant d'amour|et de croissants rassis.
+{40474}{40511}Elle a plaqué le boulot.
+{40516}{40569}Je ne pouvais pas me passer d'elle.
+{40579}{40621}J'avais entrevu le paradis
+{40631}{40681}et j'échouai sur un trottoir|de la rue d'Assas.
+{40699}{40746}Les portes de l'Eden
+{40754}{40796}se refermaient à mon nez.
+{40804}{40844}Elles se sont rouvertes ?
+{40849}{40929}Et comment ! Toutes grandes.
+{40934}{40961}Continue.
+{40966}{40996}J'en suis là.
+{41001}{41076}Dommage,|je t'écouterais toute la vie.
+{42752}{42774}Je t'aime.
+{42817}{42847}T'as entendu.
+{42859}{42887}Tu m'aimes ?
+{47253}{47290}C'est pas dangereux ?
+{47303}{47343}Faut savoir s'y prendre.
+{47378}{47420}T'en as pas un électrique ?
+{47440}{47503}Les Américains adorent ça.
+{47518}{47548}Pas moi.
+{47610}{47660}C'est pour être macho.
+{47693}{47730}T'es un vrai tigre.
+{47768}{47808}Tu te prends pour Hemingway.
+{47813}{47855}Il était barbu.
+{47875}{47893}Je peux ?
+{47898}{47968}Non, je tiens à ma peau.
+{48020}{48078}Rien qu'un petit peu.
+{48115}{48155}On peut rien te refuser.
+{48360}{48400}Pas trop incliné.
+{49407}{49494}Sa chatte était|une petite fente discrète.
+{49514}{49642}Mais sitôt éveillé par mes caresses|ce petit animal s'étirait,
+{49651}{49728}écartait le rideau de soie|qui masquait son repaire
+{49741}{49791}et se muait en fleur carnivore.
+{49806}{49891}Bouche de bébé glouton|qui tétait mon doigt
+{49911}{49991}J'adorais taquiner son clitoris|du bout de ma langue
+{49998}{50028}et l'abandonner
+{50033}{50078}humide et luisant.
+{50088}{50168}Caneton barbotant|dans la chair rose.
+{50258}{50306}Faites pas cette tête !
+{50341}{50373}Du calme mon vieux.
+{50383}{50408}Je vous donne
+{50413}{50498}ces détails pour montrer|que j'étais enchaîné
+{50503}{50528}corps et âme
+{50533}{50626}par la créature dont les charmes|vous impressionnent tant.
+{50651}{50693}Pourquoi insister comme ça ?
+{50698}{50726}Je me trompe ?
+{50731}{50816}Fort bien. N'en parlons plus.
+{50842}{50865}Laissez-moi à mes souvenirs
+{50917}{50987}C'est-à-dire...|si ça peut vous soulager...
+{50992}{51042}Comme c'est charitable.
+{51055}{51100}D'ailleurs il faut que je me sauve.
+{51112}{51162}Ma femme va me croire noyé.
+{51167}{51235}Vous feriez un bon psychanalyste.
+{51250}{51327}Peu d'hommes m'auraient écouté|si longtemps.
+{51387}{51427}En tout cas merci pour le verre.
+{52699}{52794}Pourquoi croit-il que ces détails|sordides t'intéressent ?
+{52801}{52824}J'en sais rien.
+{52844}{52916}Il a besoin de se défouler|le malheureux.
+{52921}{52946}Malheureux ?
+{52951}{53044}Un exhibitionniste.|C'est sa femme que je plains.
+{53076}{53124}Je t'ai dit|que je l'avais vue au bar ?
+{53174}{53204}Elle allait mieux ?
+{53208}{53300}Beaucoup mieux,|elle n'est pas laide d'ailleurs.
+{53400}{53423}Les voilà.
+{53463}{53508}Ton Américain et sa femme.
+{53595}{53653}Tant qu'il nous tombe pas dessus.
+{53658}{53715}Après ce qu'il t'a dit, jamais !
+{53720}{53785}Mon ami Nigel, ravi de vous voir.
+{53805}{53848}Et votre charmante épouse.
+{53853}{53875}Je suis Oscar.
+{53888}{53928}Vous connaissez Mimi.
+{53970}{54003}Vous aussi, non ?
+{54053}{54113}Je peux me joindre à vous ?
+{54125}{54215}Le commandant nous a invités|mais je suis allergique aux barbes.
+{54228}{54258}Vous l'êtes aux infirmes ?
+{54310}{54363}Comment refuser ?
+{54368}{54408}C'est réglé.
+{54414}{54437}Vas-y.
+{54462}{54497}Amuse-toi bien.
+{54509}{54557}Elle ne partage pas mon aversion.
+{54594}{54642}Elle n'est pas difficile.
+{54647}{54697}puisqu'elle m'a épousé.
+{54769}{54797}Quelle nana !
+{54819}{54854}Ils en sont tous baba.
+{54879}{54912}Du vin blanc.
+{54917}{54964}Tout sauf du retsina.
+{55017}{55067}Mimi est ravissante, mais vous...
+{55072}{55112}Je ne connais pas encore votre nom.
+{55142}{55189}Pardonnez mon audace.
+{55197}{55262}Je trouve votre beauté plus subtile.
+{55274}{55314}Typiquement britannique.
+{55319}{55417}Avec cette retenue qui suggère|des richesses inexploitées.
+{55442}{55527}Nigel exploite mes richesses|depuis des années.
+{55603}{55668}Votre charmante épouse|laisse entendre
+{55673}{55751}qu'elle a perdu pour vous|tout son mystère. Vrai ou faux ?
+{55768}{55846}Nous avons tous|des recoins inexplorés.
+{55916}{55968}Tiède, mais c'est mieux que rien.
+{56001}{56033}Contentez-vous de ça.
+{56038}{56116}C'est vrai,|nous avons tous un jardin secret.
+{56133}{56251}Toute relation recèle les germes|de la farce et de la tragédie.
+{56428}{56498}J'espère|que nous n'aurons pas gros temps.
+{56501}{56558}Pitié, pas la météo !
+{56606}{56666}J'espère qu'on va couler|et se retrouver
+{56671}{56733}sur une île déserte.|Je survivrai seul.
+{56738}{56791}Charmant !|Pourquoi vous dites ça ?
+{56796}{56871}Ma carcasse|découragerait les cannibales.
+{57335}{57380}Il vous a pas ennuyés ?
+{57385}{57407}Du tout.
+{57425}{57457}Il a beaucoup d'humour.
+{57477}{57502}De l'humour noir
+{57507}{57547}mais il nous a amusés.
+{57552}{57575}Tu vois ?
+{57595}{57635}Nos amis me trouvent amusant.
+{57640}{57685}Par petites doses.
+{57695}{57750}Mais laissons-les tranquilles.
+{57815}{57855}Merci de vous en être occupé.
+{57960}{58030}Oserais-je vous demander|encore un service ?
+{58039}{58111}Nous avons bavardé hier soir|Nigel et moi
+{58124}{58184}Sa compagnie est si stimulante !
+{58191}{58241}Puis-je l'emprunter
+{58246}{58281}encore une heure ou deux ?
+{58289}{58346}Il a passé l'âge|de demander à maman.
+{58661}{58704}Les saisons passaient.
+{58709}{58791}Le visage de Mimi|renfermait encore mille mystères.
+{58799}{58844}Son corps mille promesses.
+{58886}{58961}Mais la crainte s'insinuait en moi
+{58966}{59039}d'avoir atteint|le faîte de notre relation.
+{59044}{59104}Qui n'irait plus qu'en déclinant.
+{59129}{59179}Puis il s'est produit quelque chose
+{59220}{59298}qui nous a placé sur un plan différent.
+{59358}{59445}On était allé skier à Kitzbuhel
+{59455}{59495}où j'avais loué un chalet.
+{59505}{59555}C'était une de ces soirées
+{59560}{59613}douillettes à l'intérieur.
+{59618}{59748}De gros flocons flottaient|derrière les carreaux givrés.
+{59768}{59820}Seule la télé était allumée.
+{59850}{59915}Mimi, vêtue seulement d'un T-shirt,
+{59920}{60008}regardait un vieux feuilleton|doublé en allemand.
+{60028}{60083}Moi je la regardais, elle,
+{60098}{60160}engourdie, vautrée sur le canapé.
+{60165}{60205}Soudain elle s'est levée,
+{60245}{60293}elle a marché jusqu'à la télé,
+{60320}{60373}elle a ouvert les jambes
+{60389}{60432}et elle a pissé sur l'écran
+{60437}{60484}comme pour l'effacer.
+{60509}{60554}Le temps est resté suspendu.
+{60564}{60602}Tombant du divan,
+{60607}{60652}j'ai rampé comme un fou,
+{60657}{60742}je me suis glissé entre ses jambes|et je me suis mis sur le dos.
+{60772}{60899}J'ai été englouti|sous une chaude cascade dorée
+{60929}{60982}qui éclaboussait mes joues,
+{60987}{61052}emplissait mes narines,|piquait mes yeux.
+{61057}{61129}Quelque chose a explosé|dans mon cerveau
+{61134}{61204}comme une bombe|de plusieurs mégatonnes.
+{61214}{61304}Un éclair aveuglant|a déchiré mes orbites.
+{61329}{61397}Je connus l'orgasme|le plus sublime de ma vie
+{61479}{61532}Une lame de feu me transperça.
+{61537}{61622}C'était mon Nil, mon Gange,|ma fontaine de jouvence,
+{61626}{61658}mon second baptême.
+{61663}{61731}J'ai les idées|aussi larges qu'un autre
+{61736}{61806}mais franchement il y a des limites.
+{61811}{61843}Cessez de pépier.
+{61851}{61908}Je vous fais partager|une révélation.
+{61933}{61986}J'élargis votre horizon sexuel
+{61991}{62038}Ah bon, il en a besoin ?
+{62061}{62143}Vos galipettes avec Fiona|sont sûrement adéquates,
+{62148}{62201}très hygiéniques à leur façon.
+{62206}{62241}Laissez-nous hors de ça !
+{62263}{62331}Au moins nous avons notre pudeur.
+{62336}{62423}Partager comme ça les détails
+{62428}{62513}de vos perversions avec un inconnu,|c'est parfaitement obscène.
+{62518}{62621}Obscène ? Vous avez déjà connu|une passion dévorante ?
+{62631}{62683}Idolâtré une femme ?
+{62701}{62761}Rien n'est obscène dans un tel amour.
+{62766}{62806}Chaque geste des amants
+{62810}{62855}devient un sacrement.
+{62925}{63002}Asseyez-vous et reprenez du thé.
+{63010}{63052}Ça vous calmera.
+{63130}{63180}Quoi qu'il en soit
+{63205}{63255}ça a été notre Rubicon.
+{63275}{63362}Il nous a ouvert toutes sortes|de perspectives nouvelles.
+{64351}{64446}J'avais toujours soupçonné|qu'il devait être exquis
+{64451}{64521}de se faire humilier|par une belle femme.
+{64561}{64621}Mais alors seulement j'ai découvert
+{64636}{64686}ce que ça augurait
+{67721}{67816}On s'est cloîtrés|des semaines avec nos jouets
+{67823}{67916}sans sortir,|sans voir nul autre que nous-mêmes.
+{67928}{67996}Aucun couple n'y eût résisté.
+{68091}{68136}Tu les as toutes eues ?
+{68168}{68193}Qui ?
+{68201}{68236}Les femmes de ton livre.
+{68306}{68368}Et alors ?|Ce n'est qu'un livre.
+{68373}{68418}Je sais.|Je suis curieuse.
+{68426}{68476}Il te plaît ?|C'est ça qui compte.
+{68503}{68538}C'est vachement sexy.
+{68553}{68608}Oublie le sexe une seconde.
+{68633}{68671}C'est bien écrit ?.
+{68676}{68746}Je parle pas assez bien l'anglais.
+{68810}{68842}Pourquoi tu le lis ?
+{68845}{68875}Parce que je t'aime.
+{68887}{68940}Toi et tout ce qui te concerne.
+{68945}{68977}Si t'étais éditeur,
+{68982}{69040}je serais déjà un best-seller.
+{69095}{69135}Il sortira quand ?
+{69142}{69165}Va savoir !
+{69200}{69230}Je m'en occupe.
+{69250}{69310}Ça devenait étouffant.
+{69340}{69405}On a besoin de s'aérer,|lui dis-je.
+{69410}{69465}Sortons avec des amis.
+{72208}{72320}L'infidélité m'avait toujours paru|suprêmement émoustillante.
+{72342}{72389}Cette scène aurait dû m'exciter.
+{72429}{72459}Alors... ?
+{72494}{72539}Pourquoi avais-je si mal ?
+{73297}{73327}Pourquoi t'as fait ça ?
+{73454}{73492}Pourquoi tu dis rien ?
+{73522}{73547}Quoi ?
+{73551}{73593}Pourquoi t'es parti ?
+{73638}{73661}Tu ne sais pas ?
+{73666}{73701}T'as commencé.
+{73706}{73761}Tu flirtais avec ma copine.
+{73778}{73801}Tu la pelotais.
+{73806}{73848}On rigolait, c'est tout.
+{73853}{73891}On dansait, c'est tout.
+{73896}{73963}Pour un peu|vous baisiez sur la piste.
+{74026}{74068}J'étais jalouse.
+{74073}{74166}S'il te plaît, pardonne-moi.|Tu es mon tigre.
+{74171}{74256}Je n'ai envie que de toi, toujours.
+{74288}{74318}Je t'aime.
+{74373}{74408}Je l'aimais aussi.
+{74413}{74463}Mais notre crédit s'épuisait.
+{74478}{74541}On courait à la faillite.
+{74865}{74922}Ça sent le cochon.
+{75022}{75067}- Ris pas !|- Parle pas !
+{75095}{75130}Petit cochon.
+{75152}{75182}Où es-tu ?
+{75307}{75350}Y es-tu ?
+{75657}{75702}Bas les pattes !
+{75742}{75837}C'est qu'elle veut me baiser|la sale bête !
+{75850}{75870}Tiens !
+{76039}{76076}- Plus fort !|- Ta gueule !
+{76169}{76204}T'as tout gâché.
+{76239}{76331}Un porc ça parle pas.|Comment veux-tu que j'y croie ?
+{76471}{76504}Tu sais...
+{76554}{76596}Je n'y crois pas non plus.
+{76649}{76686}Je n'y crois plus
+{76891}{76981}C'était fini.|Le charme était rompu.
+{77014}{77049}Dieu merci !
+{77069}{77099}Qu'auriez-vous inventé !
+{77104}{77171}Rassurez-vous,|j'ai encore beaucoup à dire
+{77190}{77238}Vous croyez que ça m'intéresse ?
+{77245}{77300}Croyez-vous que j'aime servir
+{77305}{77373}de dépotoir|à vos souvenirs répugnants ?
+{77433}{77473}Vous n'aimez pas ça ?
+{77578}{77603}Encore là ?
+{77608}{77708}Oui, mais j'allais partir.
+{77763}{77823}Il est très patient avec moi.
+{77835}{77890}Sans être d'accord sur tout,
+{77930}{77993}nous avons un intérêt en commun
+{78015}{78038}Toi.
+{78063}{78128}C'est pour ça qu'il en redemande.
+{78160}{78238}Comme je le disais,|j'allais m'en aller...
+{78250}{78288}Merci pour le thé.
+{78824}{78849}C'était long.
+{78854}{78884}Je suis navré.
+{78907}{78939}J'allais dîner sans toi.
+{78942}{79012}Il est si collant, tu l'as vu.
+{79027}{79054}Elle était là ?
+{79059}{79074}Qui ?
+{79104}{79177}Mauvaise réponse Nigel, "qui" !
+{79182}{79224}Tu sais de qui je parle
+{79267}{79339}Elle s'est amenée quand je partais.
+{79342}{79362}Drôle de fille.
+{79367}{79429}Mais "pas laide", oui.
+{79437}{79499}Les hommes la trouveraient superbe.|Les femmes aussi.
+{79504}{79579}Je ne suis pas "les hommes".
+{79598}{79638}Je suis ton mari.
+{79791}{79818}C'est votre fille ?.
+{79823}{79873}Oui. Amrita, dis bonjour.
+{79878}{79958}Quel joli nom.|Presque aussi joli que toi.
+{79996}{80026}Vous la cachiez ?
+{80033}{80066}Elle a une nurse.
+{80071}{80093}Et votre femme ?
+{80108}{80141}Je suis veuf.
+{80148}{80173}Navrée.
+{80186}{80243}Quelle joie, un enfant à bord.
+{80248}{80286}Ça change des retraités.
+{80313}{80376}Et vous, votre postérité|est assurée ?
+{80393}{80416}Plaît-il ?
+{80421}{80518}Votre femme adore les enfants,|vous en avez ?
+{80581}{80676}Il estime que le monde|est déjà assez surpeuplé.
+{80698}{80743}Noble sentiment en Inde,
+{80747}{80857}mais la verte Albion nourrirait bien|quelques bouches de plus
+{80862}{80900}Regardez !
+{80967}{80997}Tu as froid ?
+{81025}{81062}J'aurais dû me couvrir.
+{81212}{81285}Je vais te chercher quelque chose.
+{81352}{81392}Croyez-moi,
+{81397}{81442}les enfants sont la meilleure
+{81447}{81492}thérapie conjugale.
+{81815}{81855}Il ne faut pas le croire.
+{81870}{81950}C'est un malade.|Il imagine des choses.
+{82059}{82119}Ne me jugez pas mal.
+{82181}{82251}A quel jeu vous jouez|cette fois-ci ?
+{82261}{82309}Je tiens à votre opinion.
+{82354}{82376}Ah oui ?
+{82446}{82486}Il faut que je vous parle.
+{82509}{82539}Que je m'explique.
+{82589}{82639}Je vous écoute.
+{82644}{82681}Pas ici.
+{82694}{82719}Dans ma cabine.
+{82734}{82776}On ne sera pas dérangé.
+{82839}{82919}Je ne peux pas, pas maintenant.
+{82924}{82961}Non, plus tard.
+{82981}{83101}A cinq heures. Cabine DS1.
+{83818}{83893}Je te raconterai encore|une histoire.
+{84729}{84794}Il faut que je retourne le voir.
+{84847}{84884}Je croyais que c'était fini.
+{84892}{84924}Je sais mais...
+{84929}{84964}Impossible de refuser.
+{84989}{85077}Pardon, mais je dois vous quitter.
+{85082}{85134}Vous me remplaceriez ?
+{85154}{85187}Avec joie.
+{85199}{85234}Le bridge est le roi des jeux.
+{85247}{85314}Une fois j'ai joué 48 heures d'affilée.
+{85329}{85367}Je ferai un bon partenaire.
+{85372}{85442}Parfait. Veuillez m'excuser.
+{86403}{86446}Je peux entrer ?
+{86621}{86661}Fermez la porte.
+{87227}{87260}Poisson d'avril !
+{87397}{87442}Pauvre malade !
+{87522}{87597}Tu la veux oui ou non ?
+{87612}{87667}Je n'ai plus rien à faire avec vous.
+{87715}{87817}- Lâchez-moi, ou...|- Ou je le dis à maman !
+{87830}{87912}Allez, fiche le camp !
+{87924}{87981}Retourne au tombeau conjugal.
+{88159}{88236}Vous me faites pitié|si c'est comme ça
+{88241}{88281}que vous prenez votre pied.
+{88286}{88341}Je n'y prends aucun plaisir.
+{88361}{88401}A quoi bon cette farce alors ?
+{88416}{88459}Pour vous amener ici.
+{88559}{88634}Pourquoi c'est si important ?
+{88639}{88689}Mimi veut que vous entendiez la fin.
+{88706}{88751}Pour accroître ses chances avec vous.
+{88796}{88841}Vous êtes son mac ?
+{88866}{88951}Elle peut chercher ailleurs|ce que je ne lui donne plus.
+{88969}{89089}Je supervise ses aventures|plutôt que les subir.
+{89130}{89253}Elle est à vous avec ma bénédiction,|à une condition.
+{89290}{89313}Vous m'écoutez.
+{89450}{89483}Vous me dégoûtez.
+{89488}{89533}Et vous restez ?
+{89580}{89615}Allez, quoi...
+{89653}{89723}C'était une blague.|Un peu d'humour bon Dieu.
+{89728}{89823}Installez-vous.|Prenez mon fauteuil.
+{90045}{90093}Le frein !
+{90225}{90265}Un peu de cœur.
+{90369}{90477}Pitié pour un homme démoli|par la force de son amour.
+{90684}{90742}Nous aurions dû en rester là.
+{90782}{90854}On devrait se quitter|au plus fort de la passion
+{90889}{90962}sans attendre le déclin inévitable.
+{91134}{91222}Mon désir pour elle|commençait à faiblir.
+{91282}{91379}Elle était là,|splendide, voluptueuse,
+{91397}{91452}et ça me laissait froid.
+{91472}{91584}J'ai fini par lui en vouloir|de ne plus m'exciter comme avant.
+{91756}{91846}Nous devenions|des maniaques de la télé,
+{91863}{91978}cette drogue conjugale|qui dispense les couples de parler.
+{92266}{92353}Une éditrice de New York|faisait étape à Paris.
+{92358}{92443}Je voulais lui faire passer|une excellente soirée
+{92448}{92483}histoire de faire ma pub.
+{92488}{92548}J'appréhendais d'emmener Mimi
+{92553}{92628}qui éclipsait souvent|les autres femmes.
+{92641}{92673}Tu mets ça ?
+{92697}{92722}Cette robe ?
+{92802}{92830}T'as rien d'autre ?
+{92905}{92945}Qu'est-ce qu'elle a ?
+{92950}{92980}Rien.
+{92985}{93020}Comment ça rien ?
+{93072}{93112}Elle me grossit ?
+{93135}{93170}Elle me fait un gros cul ?
+{93172}{93205}J'ai dit ça ?
+{93215}{93255}Tu trouves que j'ai un gros cul
+{93267}{93305}C'est pas moi qui le dis.
+{93335}{93380}Lâche-moi, tu veux !
+{93397}{93485}Tu n'aurais pas dit ça autrefois.|T'aimais mon cul.
+{93490}{93565}Je l'aime ton cul,|j'en suis fou !
+{93602}{93627}Tu ne m'aimes plus.
+{93632}{93690}Merde ! Mets ce que tu veux.
+{93695}{93752}Un peignoir, j'en ai rien à foutre.
+{93951}{94024}L'édition a changé.
+{94029}{94136}On parle tirages,|ventes prévisionnelles.
+{94141}{94194}On n'investit plus|dans un inconnu.
+{94204}{94266}On publie un inconnu|s'il est connu ?.
+{94271}{94321}C'est un cercle vicieux.
+{94326}{94406}Si tu veux.|Et Paris n'arrange rien.
+{94411}{94476}Pourquoi ne pas rentrer|aux Etats-Unis ?
+{94481}{94579}Oscar fait partie du paysage,|comme la Tour Eiffel.
+{94584}{94659}C'est vrai, je me sens chez moi ici.
+{94699}{94804}Paris est fini,|c'est un mausolée littéraire.
+{94816}{94874}Henry Miller|l'a usé jusqu'à la corde.
+{94884}{94954}C'est fichu|depuis la fin de l'absinthe.
+{95198}{95245}Tu devrais être mon agent.
+{95290}{95333}Ça résoudrait tout !
+{95338}{95383}"Paris est fini..."
+{95413}{95510}Merci de ton aide.|Comme si je n'avais pas assez de mal.
+{95515}{95560}Tu lui léchais le cul !
+{95565}{95628}Je lèche les culs que je veux.
+{95633}{95663}Y a pas que le tien.
+{95680}{95710}Tu le penses ?
+{95715}{95755}Exactement.
+{95760}{95800}Alors je me tire.
+{95820}{95848}Vas-y.
+{96682}{96712}Je m'en vais.
+{96794}{96822}T'es triste ?
+{96897}{96924}T'es pas triste ?
+{96969}{97037}Si, mais c'est mieux comme ça.
+{97551}{97578}Mes clés.
+{97706}{97756}Je t'aime tant.
+{97763}{97831}Me laisse pas partir.
+{97976}{98003}Arrête de pleurer.
+{98061}{98111}Va faire du café.
+{98877}{98937}Je redoutais l'heure du coucher.
+{99002}{99130}J'éprouvais une irrésistible|envie de dormir.
+{99192}{99220}Je suis vanné.
+{99475}{99515}Je la plaignais.
+{99552}{99627}Allongée là avec son ventre|qui criait famine,
+{99632}{99687}ses organes en panique.
+{99692}{99722}Embrasse-moi.
+{99921}{99971}Prends-moi dans tes bras.
+{99986}{100119}J'écrasais ma bouche contre la sienne|comme un mégot dans un cendrier
+{100124}{100224}C'était le prélude|à l'acte le plus banal,
+{100236}{100311}le processus nommé copulation.
+{100501}{100564}Je me sentais fait comme un rat.
+{100589}{100699}Dehors les gens s'amusaient,|dansaient, faisaient l'amour.
+{100714}{100791}Paris palpitait|de ses rythmes frénétiques.
+{100796}{100871}Ils résonnaient en moi|à m'en rendre fou.
+{100906}{101016}J'avais soif de changement,|faim de bruit et d'agitation.
+{102512}{102552}Tu ne pourrais pas
+{102562}{102599}te servir d'un verre ?
+{102612}{102664}Pourquoi ?|Ça a le même goût.
+{102669}{102714}Ça n'a pas le même air.
+{102742}{102777}T'es bien délicat.
+{102792}{102822}Délicat ?
+{102847}{102912}Ce n'est pas le mot juste|en anglais.
+{102919}{102964}Dis-le en français.
+{102969}{103037}Ton français n'est pas assez bon.
+{103042}{103084}Meilleur que ton anglais.
+{103099}{103182}Après tant d'années à Paris|tu m'étonnes !
+{103197}{103232}Ton anglais doit être nul
+{103254}{103322}puisqu'on ne te publie pas.
+{103344}{103384}T'es critique littéraire,
+{103389}{103427}toi, une serveuse ?
+{103431}{103493}Je suis danseuse.
+{103498}{103591}Tu serais encore au pourboire|si je t'avais pas ramassée.
+{104026}{104088}Finie la comédie
+{104503}{104541}Me fais pas ça !
+{104598}{104643}Dis quelque chose !
+{106191}{106219}A la tête.
+{106244}{106271}Très mal ?
+{106304}{106339}Tu as très mal ?
+{106354}{106381}Tigre.
+{106429}{106461}J'appelle un toubib ?
+{106481}{106519}Prends-moi dans tes bras.
+{106659}{106709}Pardonne-moi.
+{106734}{106769}Je t'aime.
+{107053}{107100}C'est génial !
+{107150}{107193}Je suis si heureuse !
+{107603}{107698}Quelle bonne soirée,|je voudrais qu'elle dure toujours.
+{107718}{107765}Toujours c'est long.
+{107795}{107868}Je n'ai jamais pu penser comme ça.
+{107898}{107968}Tu ne veux pas que les bonnes choses|durent toujours ?
+{107983}{108055}Si, mais tout a une fin.
+{108070}{108103}Même nous deux ?.
+{108158}{108198}On est si bien que ça ?
+{108215}{108245}Tu ne trouves pas ?
+{108287}{108354}Puisque tu en parles : non.
+{108372}{108399}Plus maintenant.
+{108527}{108614}Cessons de nous raconter|des histoires.
+{108634}{108664}Je ne comprends pas.
+{108682}{108702}C'était bien
+{108704}{108737}tant que ça a duré.
+{108764}{108869}Si bien !|Mais ça devient moche, non ?
+{108994}{109052}Je t'ai laissé l'initiative.
+{109059}{109144}Mais tu sembles vouloir|laisser traîner les choses.
+{109149}{109182}Pas moi.
+{109187}{109292}Je me dégrade en te dégradant.
+{109354}{109404}Ne gâchons pas un beau souvenir.
+{109413}{109496}Quittons-nous tant qu'il nous reste|un peu de dignité.
+{109548}{109631}Mais je n'aime que toi.
+{109636}{109671}Je veux t'épouser.

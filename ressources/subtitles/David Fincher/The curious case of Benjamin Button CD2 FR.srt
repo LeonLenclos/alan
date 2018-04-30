@@ -1,0 +1,775 @@
+{1}{126}Vous êtes libre de...|rentrer chez vous Mr Mayes.
+{229}{277}S'il s'en va, qui va cuisiner ?
+{282}{373}L'intoxication alimentaire est une|des premières causes de décès en mer.
+{378}{430}Juste après le manque|d'équipement de sécurité.
+{435}{505}Je sais cuisiner capitaine.|J'ai fait ça toute ma vie.
+{509}{601}Ouais, je le savais. Tu es un peu trop novice|pour aller en guerre Benjamin.
+{608}{687}Ah, peu importe.|Je prendrai n'importe qui
+{692}{778}qui a envie de botter le cul|des japs et des huns.
+{792}{915}C'est parti ! On se remet en route.|Nous partons à la guerre messieurs !
+{1054}{1114}Elle avait laissé un mot.
+{1123}{1210}Elle disait "Ça a été un plaisir|de vous rencontrer."
+{1214}{1277}Et c'était tout.
+{1327}{1406}Ce n'était pas la guerre|à laquelle on s'attendait.
+{1411}{1502}On remorquait juste des bateaux estropiés.|De vraies épaves, vraiment.
+{1507}{1600}S'il y avait une guerre|on ne l'a pas vue.
+{1617}{1720}Il y avait un homme qui nous était affecté.|Le chef Gunner adorait la Navy.
+{1725}{1775}Mais par dessus tout|il aimait l'Amérique.
+{1780}{1843}C'est le meilleur pays du monde !
+{1847}{1905}"Quand on parle d'Amérique..."|Il s'appelait Dennis Smith et
+{1910}{1989}c'était un descendant des Cherokee.|"...on parle de liberté."
+{1994}{2066}Sa famille était américaine|depuis plus de 500 ans.
+{2070}{2157}Les Pacifistes. Ils disent qu'ils ne se |battront pas consciemment.
+{2161}{2212}Où on serait... si tout le monde
+{2217}{2293}décidait d'agir|en accord avec sa conscience ?
+{2298}{2372}Fermez-la un peu, vous voulez bien chef ?
+{2739}{2778}Hé...
+{2802}{2907}Je t'ai observé.|Tu as l'air digne de confiance.
+{2936}{3008}Si jamais il m'arrive quelque chose
+{3080}{3156}tu peux veiller à ce que |ma femme reçoive bien ça ?
+{3161}{3264}Il m'avait donné la totalité de sa paie.|Il n'avait jamais dépensé un cent.
+{3300}{3406}Je veux que ma famille sache|que je pensais à eux.
+{3499}{3559}Tous les hommes sur le pont !
+{3595}{3679}Ramenez vos fesses|tas de fainéants !
+{4178}{4252}La guerre nous avait finalement trouvé.
+{4288}{4341}Arrêtez tout !
+{4389}{4458}Pleasant, prends cette lumière.
+{4636}{4751}Un navire avec 1300 hommes à bord|avait été torpillé.
+{4785}{4855}Nous étions les premiers|à arriver sur place.
+{4855}{4932}Stoppez les machines !|Arrêtez tout !
+{5056}{5131}Nous étions le seul bruit.
+{5433}{5478}Les gars !
+{5851}{5947}Faut pas compter les distancer|ces enfoirés.
+{5959}{6019}A vos postes de combat !
+{6326}{6369}Quoi ?
+{6664}{6736}C'est le dernier ?
+{8663}{8707}Capitaine !
+{9073}{9160}Ils ont tiré|sur mes peintures !
+{9169}{9232}Donne-moi ta main.
+{9341}{9403}Vous en faites pas capitaine.
+{9408}{9504}Le ciel est un bel endroit,|vous verrez. Un bel endroit.
+{9508}{9614}Tu as beau être enragé comme un chien|après le cours des choses,
+{9656}{9747}tu as beau jurer, maudire le sort...
+{9792}{9867}quand la fin approche...
+{9895}{9967}il faut lâcher prise.
+{10109}{10152}Capitaine.
+{10639}{10718}1328 hommes sont morts ce jour là.
+{10773}{10866}J'ai fait mes adieux au|Cherokee, Dennis Smith.
+{10871}{10977}John Grimm, qui avait raison,|il allait mourir ici.
+{10984}{11068}J'ai envoyé son argent|à la femme de Pleasant Curtis.
+{11073}{11152}J'ai dit au revoir|aux jumeaux, Vic et Brody,
+{11157}{11276}et à Mike Clark, capitaine|du remorqueur "Chelsea."
+{11317}{11420}J'ai dit au revoir à tous les autres gars|qui avaient leurs propres rêves.
+{11426}{11510}Ceux qui voulaient être|agent d'assurance ou médecin
+{11515}{11577}ou avocat ou chef indien.
+{11587}{11649}Ce n'est pas réparable.
+{11685}{11781}Ici la mort|ne paraissait pas naturelle.
+{12165}{12265}Je n'avais jamais vu d'oiseau-mouche|si loin en mer.
+{12275}{12344}Ni avant, ni après.
+{12455}{12563}Et en mai 1945|quand j'avais 26 ans...
+{12639}{12687}J'arrive !
+{12793}{12855}Queenie ? |- Oui.
+{12939}{13032}Oh doux Jésus !|Tu es rentré !
+{13064}{13143}Seigneur, tu es revenu !|Laisse-moi te regarder !
+{13148}{13217}C'est qui maman ? |- Mon enfant, c'est ton frère, Benjamin.
+{13222}{13263}Je savais pas que c'était mon frère.
+{13267}{13323}Il y a un tas de chose|que tu ne sais pas.
+{13327}{13395}Finis de balayer , lave-toi les mains|et aide-moi à mettre la table. Allez !
+{13399}{13478}Tourne-toi. Oh, on dirait...|que tu viens de naître à nouveau !
+{13483}{13538}Plus frais que le printemps.
+{13543}{13625}Je crois qu'en posant ses mains sur toi|ce prêcheur t'a donné une seconde vie.
+{13629}{13713}Je l'ai su dès que je t'ai vu : |tu es spécial.
+{13718}{13807}Je vais te dire, j'ai mal|aux genoux tellement, tous les soirs,
+{13812}{13912}j'ai prié le Seigneur, j'ai dit |"Mon Dieu... ramenez-le sain et sauf."
+{13920}{13977}Tu te souviens de ce que je t'ai dit ?
+{13982}{14092}"On ne sait jamais ce que la vie|nous réserve" ? |- C'est ça. Assieds-toi.
+{14155}{14243}Alors... tu as appris|quelque chose d'intéressant ?
+{14253}{14366}- J'ai vu des choses, oui.|- Oh, tu as connu la douleur.
+{14388}{14510}Le bonheur aussi ? |- Oui, oui bien sûr.|- Hé, c'est ce que j'ai envie d'entendre.
+{14534}{14606}Regarde-toi...|- Où est Tizzy ?
+{14611}{14659}Oh chéri !
+{14697}{14796}Mr Weathers est mort dans|son sommeil en avril dernier.
+{14801}{14906}Maman, je suis vraiment désolé.|- Ne t'inquiète pas pour ça mon chéri.
+{14920}{14995}Eh oui, il n'en reste plus|qu'un ou deux maintenant.
+{15000}{15047}Il n'y a que des nouveaux.
+{15052}{15127}J'imagine qu'il attendent leur tour|comme tout le monde.
+{15131}{15191}Je suis tellement contente|que tu sois revenu avec moi.
+{15196}{15268}Maintenant on va te trouver une femme|et un nouveau travail. Exactement !
+{15273}{15345}Viens m'aider à mettre la table.
+{15393}{15472}Benjamin ! Tu perds|ton temps mon chéri.
+{15479}{15529}Elle est complètement sourde.
+{15534}{15620}Oh ! Et tu prendras l'ancienne|chambre de Mme DeSeroux.
+{15625}{15716}Tu es un peu trop grand pour |partager une chambre.
+{15779}{15855}C'est marrant de revenir chez soi.
+{15863}{15961}La maison n'a pas changé. Il y a|les mêmes odeurs. Les mêmes sensations.
+{16014}{16136}Est-ce que je vous ai déjà dit que|j'avais été frappé par la foudre sept fois ?
+{16143}{16261}Un fois quand j'étais dans mon|camion je... conduisais tranquillement.
+{16366}{16472}On réalise que ce qui a changé|c'est soi.
+{16510}{16627}Un jour en fin de matinée,|peu de temps après mon retour...
+{17312}{17386}Excusez-moi, est-ce que Queenie est là ?
+{17398}{17441}Daisy ?
+{17504}{17600}C'est moi, Benjamin.|- Benjamin ?
+{17681}{17734}Oh mon Dieu !
+{17753}{17835}Bien sûr que c'est toi !|Benjamin !
+{17892}{17935}Comment tu vas ?|Il y a tellement longtemps !
+{17940}{18010}Tant de choses qu'il faut que tu me racontes !
+{18014}{18084}Tu es revenu quand ?|- Il y a quelques semaines.
+{18089}{18149}Queenie m'a dit que tu étais |à la guerre quelque part en mer, 
+{18153}{18242}on était si inquiets pour toi. |- Je vais bien.
+{18264}{18352}Eh bien, voyez-vous ça.|Tu es ravissante.
+{18399}{18461}Tu as arrêté d'écrire.
+{18492}{18620}Quand je suis parti c'était une enfant.|Et une femme avait pris sa place.
+{18624}{18699}C'était la plus belle femme|que j'ai jamais vue.
+{18703}{18751}Belle.
+{18783}{18843}La plus belle.
+{18874}{18950}Tu te souviens de grand-mère Fuller ?|- Oui bien sûr. - Elle est morte.
+{18955}{19008}On m'a dit ça, je suis désolé.
+{19013}{19082}Je n'arrive pas à croire|qu'on soit là tous les deux.
+{19087}{19183}Ça doit être le destin... non, non,|comment il appelait ça ? Kismet.
+{19189}{19273}Tu savais pour Edgar Cayce,|le voyant ? |- Je ne crois...
+{19277}{19364}Il dit que tout est|prédéterminé mais...
+{19369}{19448}j'aime à penser que c'est le destin.
+{19493}{19575}Je ne sais pas comment ça se passe|mais... je suis content que ce soit arrivé.
+{19580}{19666}Tu es déjà allé à Manhattan ?|Je n'ai que la rivière à traverser.
+{19671}{19757}Je peux voir l'Empire State Building|si je... monte sur mon lit.
+{19762}{19834}Et toi ? Tu es allé où ?|Dis-moi tout..
+{19839}{19913}La dernière fois que tu as écrit |tu disais que tu étais allé en Russie.
+{19918}{20004}J'ai toujours voulu aller en Russie.|Il y fait aussi froid qu'on le dit ?
+{20009}{20081}- Deux fois plus.|- Mon Dieu !
+{20088}{20213}On a toujours dit que tu étais différent.|Je crois que tu l'es réellement.
+{20246}{20340}Tu as écrit que tu avais rencontré|quelqu'un. Ça a marché ?
+{20344}{20407}Ça a fait son chemin.
+{20416}{20488}Hé, tu te souviens de ça ?
+{20728}{20858}C'est l'image du vieil homme|Kangourou à 5 heures de l'après-midi.
+{20889}{20965}Ça te dirait d'aller dîner ?
+{21126}{21208}Est-ce que je t'ai dit que|j'avais dansé pour Ballanchine ?
+{21212}{21332}C'est un célèbre chorégraphe.|Il disait que j'avais une ligne parfaite.
+{21361}{21459}Une fois, au cours d'une répétition,|une danseuse est tombée.
+{21464}{21531}Et IL a décidé d'inclure ça directement|dans le spectacle.
+{21538}{21620}Est-ce que tu imagines ça|dans un ballet classique ?
+{21625}{21701}Une danseuse qui... tombe|intentionnellement ?
+{21706}{21797}Il y a un nouveau monde pour la danse |maintenant, ça s'appelle l'Abstrait.
+{21802}{21893}Il n'est pas le seul cependant.|Il y a Lincoln Kirstein,
+{21898}{21980}et Lucia Chase et Agnes DeMille...
+{21984}{22066}elle vient de retourner|toutes ces conventions,
+{22071}{22150}tu sais, tous ces trucs "en haut",|"en bas"...
+{22169}{22234}Et elle me parla de ce nouveau|et vaste monde.
+{22239}{22296}De noms qui ne voulaient|rien dire pour moi.
+{22301}{22370}Je n'entendais d'ailleurs pas|très bien ce qu'elle disait.
+{22375}{22428}C'est nouveau et moderne|et c'est américain.
+{22433}{22488}Il comprennent notre vigueur|et notre énergie physique.
+{22493}{22550}Oh mon Dieu, je n'arrête pas|de parler.
+{22555}{22608}Non, non, ça m'a plu d'écouter.
+{22613}{22704}Je ne savais pas que tu fumais.|- Je suis assez grande.
+{22767}{22853}Je suis assez grande|pour un tas de choses.
+{22904}{22978}A New York|on reste réveillé toute la nuit,
+{22985}{23067}on regarde le soleil se lever|au dessus des entrepôts.
+{23110}{23184}Il y a toujours quelque chose à faire.
+{23594}{23664}Je dois repartir demain.
+{23669}{23748}- Déjà ?|- J'aimerais pouvoir rester.
+{23832}{23918}Les danseurs n'ont plus besoin|de costumes ni de décors.
+{23924}{24010}Je peux m'imaginer danser|complètement nue.
+{24029}{24132}Est-ce que tu as lu DH Lawrence ?|Ses livres ont été interdits.
+{24139}{24226}Les mots sont comme... l'acte d'amour.
+{25300}{25417}Dans notre compagnie|on doit se faire confiance.
+{25535}{25624}Le sexe en fait partie.
+{25727}{25808}Je sais que beaucoup de danseuses|sont lesbiennes.
+{25847}{25940}Il y en avait une|qui voulait coucher avec moi.
+{26096}{26185}Est-ce que ça t'a gênée ?|- De quoi ?
+{26192}{26288}Que quelqu'un ai voulu coucher avec moi ?|- Tu es une femme désirable,
+{26293}{26381}j'imagine que la plupart d'entre elles|aurai voulu coucher avec toi.
+{26386}{26458}Rentrons à la maison.
+{26477}{26551}Ou on pourrait prendre|une chambre quelque part.
+{26590}{26674}Tu pourrais enlever ta veste.|- Je ne sais pas Daisy...
+{26679}{26798}C'est pas que j'en ai pas envie.|J'ai peur de te décevoir.
+{26820}{26906}Benjamin, j'ai connu|des hommes plus vieux.
+{26911}{26973}Tu retournes à New York|dans la matinée,
+{26978}{27036}tu devrais être avec tes amis.
+{27041}{27103}On n'est jeune qu'une fois.|- Oh, je suis assez vieille.
+{27108}{27189}Daisy, juste... pas ce soir, c'est tout.
+{27494}{27575}On peut aller écouter de la musique.
+{27600}{27682}Nos vies sont définies|par les opportunités.
+{27687}{27746}Même celles qu'on rate.
+{27751}{27833}Tu sembles si bien, si classe.
+{27838}{27907}Ils disent que l'ouragan va|nous épargner. Il passe juste à côté.
+{27912}{27989}- Oh, c'est une bonne nouvelle.|- Je vais rester sous les couvertures avec...
+{27996}{28068}maman.|Elle n'a rien dit...
+{28077}{28123}Benjamin ?
+{28149}{28214}Les choses changeaient pour moi.
+{28219}{28298}J'avais de plus en plus de cheveux|et de moins en moins blanc.
+{28303}{28389}L'odorat plus développé,|l'ouïe plus fine.
+{28394}{28466}Je pouvais marcher plus longtemps|et plus vite.
+{28472}{28596}Pendant que tout le monde vieillissait,|je rajeunissais. Tout seul.
+{28669}{28717}Entrez.
+{28732}{28775}Benjamin !
+{28789}{28873}Vous vous souvenez de moi ?|- Bien sûr Mr Button.
+{28880}{28976}Qu'est-ce qui vous est arrivé ?|- Ce foutu pied s'est infecté, alors...
+{29005}{29074}Bienvenue à la maison mon ami.
+{29096}{29170}Je vois que vous buvez|toujours votre Sazerac avec du whisky.
+{29175}{29218}J'ai mes habitudes.
+{29223}{29271}Vous allez toujours dans cet atelier|sur Bourbon Street ?
+{29276}{29329}Plus depuis longtemps.
+{29340}{29396}C'était intéressant cependant.
+{29400}{29504}Nous étions passés de 40000|à presque un million de boutons par jour.
+{29508}{29566}On employait|dix fois plus de monde.
+{29571}{29628}On travaillait jour et nuit.
+{29724}{29774}Quelle honte.
+{29784}{29870}La guerre a été clémente|avec l'industrie du bouton.
+{29921}{29969}Vous savez...
+{30005}{30093}Je suis malade. Je ne sais pas|combien de temps il me reste.
+{30098}{30184}Je suis navré de l'apprendre|Mr Button. |- Non...
+{30189}{30288}Je n'ai personne.|Je vis tout seul.
+{30321}{30379}J'espère que ça ne vous|dérange pas mais...
+{30383}{30446}quand c'est possible|j'aimerais passer du temps avec vous.
+{30451}{30518}Je vais faire de mon mieux.
+{30592}{30688}Benjamin, vous vous y|connaissez en boutons ?
+{30748}{30858}Les boutons Button est une affaire|familiale depuis 124 ans.
+{30870}{30978}Mon grand père était tailleur. Il avait |une petite boutique à Richmond.
+{30983}{31060}Après la guerre civile|il est venu à la Nouvelle Orléans
+{31064}{31165}où mon père avait la sagesse|de faire nos propres boutons.
+{31170}{31290}Alors avec son aide,|voilà ce qu'est devenu l'atelier.
+{31304}{31386}Et aujourd'hui je ne peux plus coudre.
+{31470}{31539}C'est... très très intéressant.
+{31609}{31693}On peut dire que vous avez réussi.
+{31702}{31803}Alors... qu'est-ce que je peux |faire pour vous Mr Button ?
+{31846}{31935}Benjamin... tu es mon fils.
+{32105}{32196}Je suis tellement désolé...|de ne pas te l'avoir dit plus tôt.
+{32218}{32311}Tu es né la nuit|où la Grande Guerre s'est terminée.
+{32345}{32433}Ta mère est morte|en te mettant au monde.
+{32465}{32537}Je pensais que tu étais un monstre.
+{32604}{32721}J'ai promis à ta mère|que tu serais en sécurité.
+{32841}{32920}Je n'aurais jamais dû|t'abandonner.
+{32992}{33040}Ma mère ?
+{33059}{33134}C'est notre résidence secondaire|au lac Pontchartrain.
+{33138}{33222}Quand j'étais enfant j'adorais|me lever avant tout le monde,
+{33227}{33318}courir jusqu'au lac|et regarder le lever du jour.
+{33330}{33416}C'était comme si j'étais|le seul en vie.
+{33437}{33511}Je suis tombé amoureux d'elle|dès que je l'ai vue.
+{33516}{33595}Ta mère s'appelait Caroline Murphy.
+{33600}{33691}Elle travaillait dans|la cuisine de ton grand-père.
+{33741}{33794}Elle était de Dublin.
+{33799}{33887}En 1903 Caroline et tous|ses frères et sœurs
+{33892}{33971}sont venus vivre ici|à la Nouvelle Orléans.
+{33995}{34082}Je trouvais des excuses|pour descendre dans cette cuisine
+{34086}{34158}juste pour la regarder.
+{34291}{34392}Le 25 avril 1918, le|plus beau jour de ma vie.
+{34397}{34469}Le jour où j'ai épousé ta mère.
+{34488}{34557}Pourquoi vous ne m'avez rien dit ?
+{34567}{34663}J'ai prévu de te laisser tout ce que j'ai.
+{34668}{34716}Je dois y aller.
+{34723}{34795}- Où ?|- Chez moi.
+{34807}{34862}Qu'est-ce qu'il s'imagine ?|Il croit qu'il peut débarquer
+{34867}{34922}comme ça,|comme si de rien n'était.
+{34927}{34977}Comme si on était tous amis.
+{34982}{35049}Il nous mijote quelque chose,|ça c'est sûr.
+{35054}{35123}Dieu m'est témoin,|il nous mijote quelque chose !
+{35130}{35207}Il nous a laissé 18 dollars|la nuit où on t'a trouvé.
+{35212}{35289}18 malheureux dollars|et une couche sale !
+{35293}{35380}- Bonne nuit maman.|- Bonne nuit mon chéri.
+{35684}{35799}Est-ce que je t'ai déjà dit que|j'avais été frappe par la foudre sept fois ?
+{35828}{35910}Une fois quand je sortais le chien.
+{36001}{36094}Je suis aveugle d'un œil,|je n'entends presque rien.
+{36118}{36188}J'ai des crispations et des tremblements je sais pas d'où.
+{36195}{36264}Je perds toujours le fil de ma pensée.
+{36269}{36327}Mais tu sais quoi ?
+{36332}{36423}Dieu ne cesse de me rappeler|que j'ai de la chance d'être en vie.
+{36533}{36591}Une tempête approche.
+{37699}{37750}Réveille-toi.
+{37798}{37867}Il faut que tu t'habilles.
+{40094}{40188}On a beau être enragé comme un chien|après le cours des choses.
+{40192}{40279}On a beau jurer, maudire le sort...
+{40286}{40360}Quand la fin approche...
+{40367}{40430}il faut lâcher prise.
+{40943}{41020}C'est vraiment un bel office.
+{41043}{41132}Il sera enterré tout prêt de ta mère.
+{41147}{41219}C'est toi ma mère.
+{41276}{41329}Mon petit.
+{41425}{41497}Je n'ai jamais vu New York.
+{43588}{43682}Excusez-moi, je suis un ami de Daisy. |- C'est par là.
+{43754}{43802}Daisy !
+{43811}{43866}Oui ! Je suis dans le vestiaire !
+{43871}{43936}Quelqu'un me cherche ?
+{43970}{44030}Benjamin ! |- Salut.
+{44054}{44145}- Qu'est-ce que tu fais ici ?|- J'ai pensé te rendre visite.
+{44149}{44229}Passer du temps avec toi si tu peux.
+{44269}{44375}J'aurais préféré que tu appelles.|Tu me prends un peu de court.
+{44406}{44511}- Est-ce que tu m'en veux encore ?|- Non. Merci, elles sont magnifiques.
+{44519}{44591}Je ne pouvais pas m'empêcher|de te regarder.
+{44595}{44667}Je t'ai trouvé époustouflante.
+{44682}{44768}Merci. C'est très gentil de ta part.
+{44873}{44926}Il faut que je me change. On va|à une soirée avec des amis.
+{44931}{44977}Tu veux venir ?
+{44981}{45041}On m'a parlé d'un restaurant|qui te plaira sûrement.
+{45046}{45104}J'ai fait une réservation.|Juste au cas où.
+{45108}{45185}C'est juste que tous les danseurs|sortent après le spectacle.
+{45190}{45286}Tu peux venir avec nous.|Je vais me changer, d'accord ?
+{45769}{45858}C'est David.|Il danse avec la troupe.
+{45862}{45939}C'est Benjamin.|Je t'ai parlé de lui.
+{45945}{46000}Ah oui... Comment ça va ?
+{46005}{46077}Je vais te chercher un verre.
+{46259}{46340}Alors comme ça tu es|un ami de sa grand-mère ?
+{46345}{46408}Ou un truc dans le genre ?
+{46417}{46494}- Un truc dans le genre.|- Excuse-moi.
+{47580}{47618}Hé !
+{47623}{47695}Je ne pouvais pas me douter|que tu viendrais !
+{47707}{47765}Bon sang Benjamin...
+{47809}{47862}Tu t'attendais à quoi ?
+{47866}{47960}Quoi, que je laisse tout tomber ?|C'est ma vie.
+{47965}{48029}Hé, tu vas en ville ?
+{48130}{48176}Viens.
+{48180}{48272}Prends du bon temps. Il y aura|des musiciens, des gens intéressants...
+{48276}{48358}Tu n'es pas obligée de faire ça.|C'est ma faute.
+{48363}{48430}J'aurais dû appeler.|Je me suis dit...
+{48435}{48542}je vais y aller et... |c'est dans la poche ou un truc comme ça.
+{48574}{48672}- Daisy, viens !|- J'arrive tout de suite.
+{48725}{48818}Il a l'air gentil.|Tu es amoureuse ?
+{48900}{48952}Je crois.
+{48979}{49044}Je suis content pour toi.
+{49072}{49144}On se verra peut-être à la maison.
+{49183}{49226}OK.
+{49259}{49324}J'ai aimé le spectacle !
+{49485}{49595}Il était venu me dire|que son père était mort.
+{49624}{49681}Tu ne pouvais pas savoir.
+{49686}{49780}J'avais 23 ans. Je m'en foutais.
+{49840}{49955}Tu as fait quoi après ?|- Des photos je crois.
+{49962}{50034}Dans la pochette de devant.
+{50091}{50192}J'étais plus douée qu'une danseuse |comme moi pourrait jamais être.
+{50228}{50298}Pendant cinq ans...
+{50343}{50408}j'ai dansé partout.
+{50422}{50509}Londres, Vienne, Prague...
+{50518}{50588}Je ne les ai jamais vues.
+{50648}{50753}Maman, tu n'as jamais parlé|de ta danse.
+{50770}{50861}J'étais la seule américaine|à être invitée
+{50866}{50938}à danser avec le Bolchoï.
+{50981}{51048}C'était glorieux.
+{51142}{51248}Mais je pensais toujours|un peu à Benjamin.
+{51306}{51385}Et je me retrouvais à dire :
+{51397}{51464}Bonne nuit Benjamin.
+{51483}{51581}- "Bonne nuit Daisy."|- Il a dit ça ?
+{51624}{51692}La vie n'était pas si compliquée.
+{51696}{51802}Si vous voulez, on peut dire que|je cherchais quelque chose.
+{51965}{52054}Benjamin, Mme La Tourneau|vient de mourir.
+{52214}{52303}Mr Benjamin Button ?|- C'est moi.
+{52956}{53009}Bonjour.|- Oui monsieur ?
+{53014}{53076}Melle Daisy Fuller.|- Un instant.
+{53081}{53153}Je vous en prie, asseyez-vous.|- Bien sûr.
+{53306}{53421}Parfois on court à la catastrophe|sans même le savoir.
+{53426}{53498}Que ce soit par accident|ou par choix
+{53503}{53575}on ne peut absolument|rien y faire.
+{53601}{53692}Une femme à Paris|partait faire du shopping.
+{53704}{53798}Mais elle avait oublié son manteau|et elle est revenue pour le prendre.
+{53802}{53872}Quand elle a pris son manteau|le téléphone a sonné.
+{53877}{53963}Alors elle s'est arrêtée pour répondre|et a parlé une ou deux minutes.
+{53968}{54016}Pendant que la femme était|au téléphone
+{54021}{54105}Daisy répétait pour sa représentation|à l'Opéra de Paris.
+{54109}{54181}Et pendant qu'elle répétait,|la femme, ayant raccroché,
+{54186}{54253}était sortie pour prendre un taxi.
+{54344}{54411}Maintenant un chauffeur de taxi, qui avait|déposé un client un peu plus tôt,
+{54416}{54488}s'était arrêté pour prendre un café.
+{54493}{54577}Et pendant ce temps là|Daisy répétait.
+{54634}{54692}Ce même chauffeur, qui avait|déposé un client un peu plus tôt
+{54697}{54747}et s'était arrêté pour|prendre un café,
+{54752}{54805}avait pris la femme|qui allait faire du shopping
+{54809}{54874}et qui avait loupé un premier taxi.
+{54879}{54939}Le taxi avait dû s'arrêter pour un homme|traversant la rue
+{54944}{55011}qui était parti travailler|cinq minutes plus tard que d'habitude
+{55016}{55083}parce qu'il avait oublié|de mettre son réveil.
+{55089}{55168}Pendant que cet homme, en retard au travail,|traversait la rue
+{55172}{55259}Daisy avait fini sa répétition|et prenait une douche.
+{55266}{55333}Pendant que Daisy se douchait, le chauffeur|attendait, devant une boutique,
+{55338}{55417}la femme qui devait récupérer un paquet|qui n'avait pas encore été emballé
+{55422}{55484}parce que la fille qui était censée|le faire avait rompu avec son
+{55489}{55568}petit ami la veille au soir,|et avait oublié.
+{55573}{55640}Quand le paquet a été emballé,|la femme, de retour dans le taxi,
+{55645}{55695}a été bloquée par un camion de livraison.
+{55700}{55767}Pendant tout ce temps|Daisy s'habillait.
+{55786}{55865}Le camion s'en est allé|et le taxi a pu partir.
+{55870}{55928}Alors que Daisy,|prête la dernière,
+{55933}{56016}attendait une amie|qui avait cassé un de ses lacets.
+{56021}{56093}Pendant que le taxi était arrêté|attendant à un feu,
+{56098}{56187}Daisy et son amie sont sorties|à l'arrière du théâtre.
+{56191}{56266}Et si seulement une chose|s'était passée différemment,
+{56271}{56321}si ce lacet n'avait pas cassé,
+{56326}{56381}ou si ce camion de livraison|était parti plus tôt,
+{56386}{56438}ou si ce paquet avait été|emballé et prêt
+{56443}{56503}parce que la fille n'avait pas|quitté son petit ami,
+{56508}{56580}ou si cet homme avait mis son réveil|et s'était levé cinq minutes plus tôt,
+{56592}{56664}ou si ce chauffeur ne s'était pas|arrêté pour prendre un café,
+{56669}{56719}ou si cette femme|n'avait pas oublié son manteau
+{56724}{56772}et était montée dans|le premier taxi,
+{56779}{56851}Daisy et son amie auraient|traversé la rue.
+{56857}{56924}Et le taxi serait passé.
+{57168}{57221}Mais la vie étant ce qu'elle est,
+{57226}{57298}une série de vies se croisant,|et d'incidents
+{57304}{57352}en dehors de tout contrôle,
+{57356}{57414}ce taxi n'est pas passé
+{57421}{57507}et ce chauffeur a été|momentanément distrait.
+{57546}{57634}Et ce taxi a renversé Daisy.|- Daisy ! Au secours !
+{57692}{57764}Et elle avait les jambes cassées.
+{57915}{57961}Daisy...
+{58049}{58133}- Qui t'a dit ?|- Ton ami m'a appelé.
+{58138}{58258}C'est très gentil de ta part d'avoir fait|tout ce chemin pour voir que j'allais bien.
+{58270}{58337}Tu aurais fait la même chose pour moi.
+{58361}{58409}Mon Dieu !
+{58445}{58536}Regarde-toi.|Tu es parfait.
+{58596}{58658}J'aurais préféré|que tu ne viennes pas.
+{58675}{58757}Je ne veux pas que|tu me voies comme ça.
+{58857}{58924}Ses jambes avaient été|fracturées en cinq endroits.
+{58929}{59020}Et avec beaucoup de soin, et du temps,|elle remarcherait peut-être.
+{59025}{59095}Mais elle ne danserait plus.
+{59111}{59193}Tu vas venir à la maison|avec moi. Je veux m'occuper de toi.
+{59198}{59250}Je ne retourne pas|à la Nouvelle Orléans.
+{59255}{59310}Alors je resterai ici, à Paris.
+{59315}{59399}Tu ne comprends pas ?|Je ne veux pas de ton aide.
+{59404}{59459}Je sais que je m'apitoie|sur mon sort
+{59464}{59517}mais je ne veux pas être avec toi.
+{59521}{59622}J'ai essayé de te le dire à|New York mais tu n'écoutes pas.
+{59634}{59687}Tu pourrais changer d'avis.
+{59694}{59780}Nous ne sommes plus|des enfants Benjamin.
+{59847}{59915}Reste en dehors de ma vie.
+{60437}{60509}J'étais terriblement cruelle.
+{60536}{60607}Il ne comprenait pas que...
+{60612}{60694}Je ne pouvais pas le laisser|me voir comme ça.
+{60735}{60806}Je ne suis pas parti tout de suite.
+{60823}{60926}Je suis resté à Paris quelques temps|pour veiller sur elle.
+{60994}{61063}Je ne l'ai jamais su.
+{61125}{61221}Ma chérie, tu peux|appeler l'infirmière ?
+{61348}{61449}J'ai appris seule à remarcher.
+{61499}{61581}J'ai pris le train pour Lourdes.
+{61600}{61691}Voyons ça. C'est normal.
+{61696}{61778}Le pouls ralentit. Elle va avoir|du mal à respirer.
+{61782}{61847}Est-ce que ça va aller ?|- Oui.
+{62148}{62220}Donc il dit |"Je suis rentré à la maison..."
+{62224}{62301}Et puis il y a|plein de pages déchirées.
+{62306}{62402}"J'écoutais le son de|la maison." Je l'ai déjà lu ça.
+{62459}{62553}Il a... il a renversé quelque chose dessus|alors ce n'est pas facile à lire maman.
+{62559}{62635}Quelque chose à propos d'un "bateau".|C'est plausible ?
+{62640}{62775}J'ai appris à naviguer sur un vieux bateau|de mon père à la maison au lac.
+{62954}{63069}Je ne peux pas le nier, j'appréciais|en effet la compagnie d'une femme ou deux.
+{63266}{63333}Ou bien trois.
+{64180}{64295}Te fatigue pas Sam. Elles seront|à nouveau là demain.
+{64382}{64428}Maman.
+{64531}{64603}Et au printemps 1962
+{64684}{64744}elle était revenue.
+{65183}{65276}Tu veux savoir où j'étais ? |- Non.
+{65317}{65384}Et pourquoi vous n'avez pas|écrit ni rien ?
+{65389}{65437}Juste disparaître comme ça.
+{65442}{65509}C'est quelque chose |que j'avais besoin de faire pour moi.
+{65514}{65590}Je n'ai jamais pensé que vous étiez|du genre égoïste.
+{65595}{65667}J'espère que je n'ai pas tort.
+{65681}{65741}Je me trompe rarement sur les gens.
+{65746}{65813}- Bonne nuit maman.|- Bonne nuit chéri.
+{65818}{65871}Amusez-vous bien.
+{65921}{66036}Tu n'as pas dit un mot.|- Je ne veux rien gâcher.
+{66751}{66828}Fais-moi l'amour. |- Avec plaisir.
+{67713}{67792}Je lui ai demandé de partir avec moi.
+{67821}{67929}On a navigué dans le golfe,|le long des Keys de Floride.
+{68891}{68995}Je suis contente qu'on ne se soit pas|trouvés quand j'avais 26 ans.
+{68999}{69093}- Pourquoi tu dis ça ?|- J'étais si jeune.
+{69100}{69158}Et tu étais si vieux.
+{69162}{69232}C'est arrivé quand c'était|supposé arriver.
+{69237}{69333}J'apprécierai le moindre|moment passé avec toi.
+{69438}{69556}Je parie que je peux rester ici plus|longtemps que toi. |- Je parie que non.
+{69608}{69676}Tu as à peine une ride, un pli.
+{69680}{69767}Tous les jours j'en ai|des nouvelles. C'est pas juste.
+{69791}{69886}Je les aime tes rides.|Tu disais ?
+{70014}{70100}C'est comment de rajeunir ?
+{70124}{70244}Je ne peux pas vraiment dire. J'ai |toujours vu les choses comme ça.
+{70361}{70452}Tu m'aimeras encore quand|ma peau sera vieille et fripée ?
+{70457}{70536}Tu m'aimeras encore quand|j'aurai de l'acné ?
+{70541}{70594}Quand je ferai pipi au lit ?
+{70596}{70694}Quand j'aurai peur de|ce qu'il y a sous l'escalier ?
+{70838}{70877}Quoi ?
+{71009}{71109}A quoi tu penses ?|- Je me disais comme rien ne dure.
+{71160}{71236}Et c'est bien dommage.
+{71282}{71342}Certaines choses durent.
+{71380}{71488}- Bonne nuit Daisy.|- Bonne nuit Benjamin.
+{71870}{71911}Maman ?
+{71949}{72062}Quand est-ce que tu as rencontré papa ?|- Peu de temps après ça.
+{72124}{72189}Tu lui as parlé de ce Benjamin ?
+{72194}{72261}Il en savait assez ma chérie.
+{72717}{72757}Maman !
+{72916}{72954}Queenie !
+{73021}{73062}Il y a quelqu'un ?
+{73072}{73160}Bonjour Mme Carter. C'est Benjamin.|Où ils sont tous ?
+{73165}{73239}Oh Benjamin. Queenie est morte.
+{73251}{73309}Je suis vraiment désolée.
+{73970}{74066}Toutes mes condoléances.|C'était une vraiment femme bien.
+{74220}{74320}On l'a enterrée près de|son Mr Weathers bien-aimé.
+{74459}{74536}Et pour avoir nos souvenirs
+{74541}{74603}on a vendu la maison|de mon père sur Esplanade.
+{74608}{74670}C'est une merveilleuse|vieille maison, très cher.
+{74675}{74749}Je pense qu'on va|être tellement heureux ici.
+{74754}{74817}Oh, quelle grande famille|vous avez là.
+{74821}{74889}Ils vont avec la maison.
+{74951}{75023}Nous devons voir la suite principale.
+{75035}{75104}Nous nous sommes acheté un duplex.
+{75135}{75200}J'adorais cette maison.
+{75241}{75311}Cette odeur de feu de bois.
+{75315}{75394}Ne t'arrête pas ma chérie.
+{75409}{75478}C'était une de plus heureuses|périodes de ma vie.
+{75483}{75550}On n'avait pas le moindre meuble.
+{75557}{75644}On pique-niquait dans le salon.
+{75704}{75761}On mangeait quand on en avait envie.
+{75766}{75826}Veillait toute la nuit si on le voulait.
+{75831}{75891}On s'est juré de ne jamais|tomber dans la routine,
+{75896}{75955}d'aller au lit ou de se réveiller|à la même heure.
+{75960}{76030}On vivait sur notre matelas.
+{76865}{76963}Notre voisine, Mme Van Dam,|était kiné.
+{76983}{77081}On habitait à quatre rues|d'une piscine publique.
+{77975}{78057}Peut-être que ça aurait|duré encore quelques années.
+{78062}{78162}Tu as choisi de faire quelque chose|de si spécial, d'unique.
+{78174}{78297}C'est... c'est le genre de chose|qui ne dure jamais bien longtemps.
+{78309}{78373}Alors même si rien n'était arrivé
+{78378}{78450}tu en serais exactement|au même point.
+{78455}{78524}Je ne supporte pas de vieillir.
+{78539}{78627}Ils mettent trop de chlore ici.
+{79587}{79707}Je te promets que je ne m'apitoierai|plus sur mon sort.
+{79784}{79902}Et je crois, à ce moment là,|qu'elle a réalisé...
+{79914}{79985}qu'aucun de nous|n'est parfait pour toujours.
+{80050}{80120}Elle a finalement été en paix|avec elle-même.
+{80137}{80240}Elle a ouvert une école et elle a appris|la danse à des jeunes filles.
+{80256}{80336}Revenez dans l'autre sens.
+{80386}{80431}Excellent !
+{80472}{80523}Bonne nuit !
+{81115}{81194}C'est vraiment un plaisir|de te regarder.
+{81224}{81298}Dans la danse |tout est question de ligne.
+{81334}{81396}La ligne du corps.
+{81415}{81535}Tôt ou tard on perd cette ligne|et on ne le récupère jamais.
+{81660}{81703}Je réalise...
+{81708}{81799}Tu es née en 1918, il y 49 ans.
+{81809}{81861}J'en ai 43.
+{81890}{81962}On a presque le même âge.
+{82022}{82089}On se rencontre au milieu.
+{82094}{82176}On s'est finalement retrouvés.
+{82180}{82295}Attends. Je veux me souvenir de nous|comme on est maintenant.
+{82545}{82612}Je suis enceinte.
+{83006}{83126}Tu sais, je suis sûre que l'infirmière|s'est trompée en disant que c'était un garçon.
+{83454}{83522}Mais je pense que c'est une fille.
+{83627}{83685}Je sais que ça te fait peur.
+{83689}{83759}Je ne le cache pas.|- OK.
+{83910}{83987}- Qu'est-ce qui te fait le plus peur ?|- Qu'il soit comme moi.
+{83992}{84061}Tu sais que je l'aimerais d'autant plus.
+{84085}{84123}OK.
+{84128}{84224}Comment je pourrais être père|alors que je vais dans l'autre sens ?
+{84229}{84320}Ce n'est pas juste pour l'enfant. Je ne veux pas|être le fardeau de qui que ce soit.
+{84325}{84397}Chéri, on finit tous par porter des couches.
+{84409}{84478}Je ferai en sorte que ça se passe bien.
+{84519}{84593}J'en ai envie et j'en ai envie avec toi.
+{84598}{84677}J'ai envie que tu aies|tout ce que tu veux, sans exception.
+{84680}{84754}Je ne sais juste pas trop|comment concilier tout ça...
+{84759}{84838}Tu dirais à un aveugle|qu'il ne doit pas avoir d'enfant ?
+{84843}{84924}Tu seras père|aussi longtemps que tu peux.
+{84929}{85001}Je sais ce que ça implique.|Je l'ai accepté.
+{85006}{85097}T'aimer est tout ce qui m'est arrivé |de mieux.
+{85174}{85236}Il faut que j'aille faire pipi.
+{85553}{85611}<i>La plus vieille femme ayant jamais|traversé la Manche</i>
+{85613}{85654}<i>est arrivée aujourd'hui à Calais</i>
+{85656}{85695}Gardez la monnaie !
+{85697}{85781}<i>après avoir nagé 34 heures,|22 minutes et 14 secondes.</i>
+{85784}{85872}<i>Elisabeth Abbott, 68 ans,|est arrivée à 5 heures 38,</i>
+{85877}{85930}<i>épuisée mais heureuse.</i>
+{85936}{86017}<i>Mme Abbott, comment vous résumeriez|cet exploit en quelques mots ?</i>
+{86022}{86135}<i>J'imagine que...|tout est possible.</i>
+{86259}{86312}Tu es prêt ?
+{86326}{86367}Ouais.
+{86559}{86660}Au printemps,|une journée comme les autres...
+{86669}{86736}Je serai de retour dans une heure !
+{86832}{86878}Chérie !
+{86914}{86974}Il faut appeler une ambulance !
+{87034}{87089}L'enfant arrive.
+{87094}{87161}Envoyez-moi une ambulance !
+{88158}{88266}Tout le monde va bien. C'est une|petite fille en parfaite santé.
+{88403}{88448}Chérie...
+{88484}{88587}Elle donna naissance à une fille de cinq livres.
+{88961}{89026}Tu as compté les orteils ?
+{89105}{89158}Elle est parfaite.
+{89163}{89259}"Et on lui donna le nom|de ma mère, Caroline."
+{89321}{89393}Ce Benjamin était mon père ?
+{89407}{89479}Et c'est comme ça que tu me le dis ?
+{89592}{89645}Excuse-moi.
+{89884}{89961}<i>...toutes les conditions sont réunies|pour une tempête de taille,</i>
+{89966}{90036}<i>peut-être même|de niveau 5.</i>
+{90167}{90275}Hé... je sais que c'est dur.|Vous ne pouvez pas fumer ici.
+{90333}{90431}<i>Personne ne peut dire avec précision|où elle va frapper...</i>
+{90691}{90823}Tu as grandi comme le médecin|l'avait promis, normale et en bonne santé.
+{91021}{91114}Il va falloir que tu|lui trouves un vrai père.
+{91162}{91210}De quoi tu parles ?
+{91215}{91294}Elle va avoir besoin de quelqu'un|avec qui grandir.
+{91299}{91371}Elle apprendra à l'accepter,|quoi qu'il arrive. Elle t'aime.
+{91375}{91455}Chérie, elle a besoin d'un père,|pas un camarade de jeu.
+{91522}{91572}C'est à cause de moi ?|- Bien sûr que non.
+{91577}{91665}C'est mon âge qui commence à te poser un problème ?|C'est ce que tu es en train de me dire ?
+{91670}{91742}Tu ne peux pas nous élever|elle et moi.
+{91921}{91988}C'était ton premier anniversaire.
+{91993}{92096}On t'avait organisé une fête.|La maison était pleine d'enfants.
+{92100}{92148}- Comment ça va ?|- Salut mec.
+{92153}{92264}Avant que tu t'en rendes compte|ils seront au lycée à flirter.
+{93012}{93105}J'ai vendu la maison d'été|au lac Pontchartrain.
+{93110}{93170}J'ai vendu Button's Button.
+{93175}{93237}J'ai vendu le voilier de mon père.
+{93242}{93318}J'ai tout mis sur|un compte épargne.
+{93342}{93448}Et de manière à ce que toi et ta|mère ayez une vie
+{93453}{93553}je suis parti avant que tu puisses|te souvenir de moi.
+{94735}{94815}"Je suis parti avec juste|ce que j'avais sur le dos".
+{94819}{94884}Je ne veux pas lire ça maintenant.
+{94889}{94963}Tu peux juste me dire|où il est allé ?
+{94968}{95038}Je ne sais pas vraiment.
+{95292}{95383}C'est pour moi. 1970. J'avais deux ans.
+{95390}{95457}"Joyeux anniversaire."
+{95475}{95561}"J'aurais aimé pouvoir|te dire bonne nuit."
+{95664}{95753}Elles sont toutes pour moi.|Cinq ans :
+{95777}{95878}"J'aurais aimé pouvoir t'accompagner|pour ton premier jour d'école."
+{95962}{96007}Six ans :
+{96026}{96132}"J'aurais aimé être là pour|t'apprendre à jouer du piano."
+{96187}{96254}1981, j'avais treize ans :
+{96261}{96360}"J'aurais aimé pouvoir te dire|de ne pas draguer les garçons."
+{96369}{96475}"J'aurais aimé pouvoir te réconforter|quand tu avais un chagrin d'amour."
+{96489}{96573}"J'aurais aimé pouvoir|être ton père."
+{96578}{96667}"Rien de ce que j'ai fait|ne remplacera ça."
+{96814}{96871}J'imagine qu'il est allé en Inde.
+{96876}{96955}Pour ce que ça vaut,|il n'est jamais trop tard,
+{96960}{97066}ou dans mon cas trop tôt,|pour être qui tu as envie.
+{97154}{97260}Il n'y a pas de limite de temps,|commence quand tu veux.
+{97289}{97408}Tu peux changer ou rester la même.|Il n'y a pas de règle pour ça.
+{97459}{97540}On peut en tirer|le pire ou le meilleur.
+{97545}{97615}J'espère que c'est le meilleur pour toi.
+{97675}{97775}Et j'espère que tu vois|des choses qui t'émerveillent.
+{97792}{97900}J'espère que tu ressens des choses|que tu n'avais jamais éprouvées avant.
+{97936}{98037}J'espère que tu rencontres des gens|avec un avis différent.
+{98046}{98135}J'espère que tu as une vie|dont tu es fière .
+{98180}{98250}Et si tu découvres |que ce n'est pas le cas
+{98257}{98377}j'espère que tu auras la force|de ... tout recommencer.
+{98435}{98514}Il était parti pendant longtemps.
+{98550}{98622}On se voit jeudi prochain.
+{98672}{98761}- Bonne nuit madame Daisy.|- Oh, bonne nuit mon cœur.
+{99180}{99255}Je suis désolée, nous fermons.
+{99298}{99360}Je peux vous aider ?
+{99374}{99456}Est-ce que vous êtes... venu|chercher quelqu'un ?
+{99681}{99751}Pourquoi tu es revenu ?
+{99760}{99799}Maman ?
+{99818}{99856}Maman !
+{99873}{99928}Tu es prête ?
+{99981}{100022}Maman, qu'est-ce qui ne va pas ?
+{100024}{100106}Je viens d'avoir de très mauvaises|nouvelles d'un ami commun
+{100108}{100182}que je n'avais pas revu|depuis très longtemps.
+{100187}{100259}Caroline, voici Benjamin.
+{100265}{100361}Tu l'as connu quand|tu n'étais encore qu'une enfant.
+{100375}{100428}Salut. |- Salut.
+{100466}{100505}Hé !
+{100557}{100620}Je suis désolé, je pensais que|tu avais fini.
+{100625}{100718}Oh, c'est un ami de la|famille, Benjamin Button.
+{100723}{100824}Voici mon mari, Robert.|- Comment allez-vous ?
+{100836}{100884}Enchanté.
+{101052}{101148}Eh bien ça a été... un plaisir de vous rencontrer .|On t'attend dans la voiture chérie.
+{101153}{101203}D'accord.|- Salut.
+{101220}{101280}Je verrouille et j'arrive.
+{101460}{101546}Elle est magnifique.|Comme sa mère.
+{101561}{101625}Est-ce qu'elle danse ?|- Pas très bien.
+{101628}{101693}J'imagine qu'elle tient ça de moi.
+{101697}{101755}Elle est adorable.
+{101760}{101858}Elle a l'air un peu... perdue.|Mais qui ne l'est pas à douze ans ?
+{101865}{101963}Elle me fait beaucoup penser à... toi.
+{101980}{102074}Mon mari est... veuf,|enfin... était veuf.
+{102088}{102189}Il est incroyablement gentil.|C'est un homme brillant et aventureux.
+{102256}{102342}Il a été un père formidable.|- Tant mieux.
+{102434}{102538}Tu es tellement plus jeune.|- Seulement en apparence.
+{102578}{102636}Tu avais raison.
+{102660}{102741}Je n'aurais pas pu|vous élever tous les deux.
+{102746}{102806}Je ne suis pas si forte.
+{102885}{102955}Alors tu es dans quel hôtel ?
+{102986}{103034}Qu'est-ce que tu vas faire ?
+{103036}{103125}Je suis au Pontchartrain|sur l'avenue.
+{103130}{103202}Je ne sais pas ce que|je vais faire. Mais...
+{103389}{103451}Ils attendent.
+{104439}{104525}Je me souviens de ça.|C'était lui.
+{104571}{104628}L'ouragan a changé de direction.|Il va arriver dans les terres
+{105169}{105217}très bientôt.|- Je suis..
+{104681}{104731}On prend les dispositions pour|déplacer les gens mais ça dépend de vous.
+{104734}{104782}Non, non, on reste.
+{104786}{104858}Je vous dirai |si il y a du changement.
+{104894}{104969}Cette nuit là, alors que|j'étais assis à me demander
+{104974}{105069}pourquoi j'étais revenu,|on a frappé à la porte.
+{105142}{105193}Entre.
+{105519}{105586}Ça va ?
+{105634}{105735}Je suis désolée, je ne sais pas|ce que je fais là.
+{105946}{106005}Rien ne dure.
+{106073}{106145}Je n'ai jamais cessé de t'aimer.
+{106272}{106346}Oh Benjamin, je suis une|vieille femme maintenant.
+{106586}{106665}Certaines choses ne s'oublient pas.
+{107804}{107859}Bonne nuit Benjamin.
+{107880}{107933}Bonne nuit Daisy.
+{108001}{108066}Et comme je m'y attendais...
+{108071}{108131}je l'ai regardée partir.
+{108167}{108241}C'est la dernière chose qu'il a écrite.
+{108255}{108373}Peu après que ton... père soit mort...
+{108390}{108459}il y a eu un appel.
+{108505}{108586}Allô ? |Oui, c'est moi.
+{108677}{108752}Je suis désolée, je ne comprends pas.
+{108965}{109032}Oh, c'est la maison au coin.
+{109548}{109601}Entrez !
+{109713}{109764}Je suis Daisy Fuller.|- Je suis David Hernandez
+{109769}{109856}du département des Services de Santé de|l'Enfance de l'Eglise de la Nelle Orléans.
+{109860}{109940}Il vivait dans un immeuble salubre.
+{109961}{110040}La police a trouvé ça|sur lui, cette adresse,
+{110045}{110112}il y a votre nom partout là-dedans.
+{110119}{110187}Il n'est pas en très bonne santé.|Il a été emmené à l'hôpital.
+{110192}{110286}Il ne semble pas savoir qui ni|où il est. Il est très confus.
+{110291}{110377}Je disais à Mr Hernandez|que Benjamin est un des nôtres.
+{110382}{110480}S'il a besoin d'un toit|c'est d'accord. Il peut rester ici.
+{111168}{111211}Benjamin.
+{111290}{111355}Tu joues remarquablement.
+{111420}{111470}Il n'a pas l'air d'aimer|qu'on le touche.
+{111473}{111521}Il ne reconnaît pas|toujours les gens.
+{111523}{111576}Les médecins ont dit|qu'ils n'en savaient pas plus...
+{111578}{111640}c'est le début de la démence.
+{111652}{111720}Est-ce que tu te souviens de moi ?
+{111772}{111825}C'est Daisy.
+{111863}{111919}Et moi Benjamin.
+{112038}{112115}C'est un plaisir de te rencontrer Benjamin.
+{112151}{112276}Est-ce que je peux m'asseoir avec toi ?|J'adorerais t'écouter jouer.
+{112367}{112429}Est-ce que je vous connais ?
+{112532}{112667}Et tous les jours je passais|m'assurer qu'il allait bien.
+{112719}{112784}Et ne croyez pas que je ne sais pas|ce que vous faites !
+{112789}{112844}Vous êtes tous des putain de menteurs !
+{112854}{112945}Il ne croit pas qu'il vient|de prendre son petit déjeuner.
+{112998}{113127}Pourquoi on ne verrait pas |si on peut te trouver autre chose à faire.
+{113132}{113213}J'ai l'impression qu'il y a plein de choses|dont je ne me rappelle pas.
+{113218}{113278}Comme quoi chéri ?
+{113295}{113393}Comme...|il y a cette vie entière que j'ai eue
+{113412}{113489}et je ne me rappelle pas comment c'était.
+{113542}{113652}Ne t'inquiète pas.|Ce n'est pas grave d'oublier des choses.
+{113665}{113790}Bien des fois il oubliait simplement|qui et où il était.
+{113840}{113902}Ce n'était pas facile.|- Benjamin !
+{113907}{113967}Je peux tout voir !|Je peux voir la grande rivière !
+{113972}{114030}Oui. Tu peux tout voir mon cœur.
+{114034}{114113}Je peux voir le cimetière où|maman est enterrée avec d'autres gens.
+{114118}{114207}Je veux que tu descendes !|- Et si je pouvais voler ?
+{114212}{114284}J'ai connu un homme qui pouvait voler.
+{114288}{114370}Descends et je te parlerai de lui.
+{114437}{114504}Que quelqu'un aille là-haut.
+{114632}{114707}Il avait cinq ans quand j'ai emménagé.
+{114711}{114817}Pratiquement le même âge que moi|quand je l'ai rencontré.
+{114966}{115105}C'est la photo du vieil homme|Kangourou à 5 heures de l'après-midi
+{115121}{115213}quand il a eu|ces belles pattes arrières.
+{115232}{115368}Les jours passaient et je le chérissais|alors qu'il ne pouvait plus ...marcher et... plus... 
+{115493}{115560}- Comment je m'appelle ?|...parler.
+{115567}{115618}Je m'appelle Daisy.
+{115623}{115682}Tu sais dire Daysi ?
+{115706}{115836}En 2002 ils ont mis une nouvelle|horloge dans cette gare.
+{115997}{116092}Et au printemps 2003
+{116186}{116253}il m'a regardée
+{116289}{116407}et j'ai su qu'il savait qui j'étais.
+{116498}{116637}Et puis il a fermé les yeux|comme s'il... s'endormait.
+{117414}{117476}J'aurais aimé le connaître.
+{117483}{117536}Maintenant tu le connais.
+{117620}{117723}Maman, je crois que je devrais|aller voir ce qui se passe.
+{117884}{117953}Bonne nuit Benjamin.
+{118653}{118742}Certains sont nés pour être|assis près d'une rivière.
+{118756}{118826}D'autres pour être frappés|par la foudre.
+{118847}{118917}Certains ont l'oreille musicale.
+{118936}{118994}D'autres sont artistes.
+{119010}{119058}Certains nagent.
+{119073}{119135}D'autres s'y connaissent en boutons.
+{119159}{119265}Certains connaissent Shakespeare.|D'autres sont mères.
+{119312}{119396}Et certaines... dansent.

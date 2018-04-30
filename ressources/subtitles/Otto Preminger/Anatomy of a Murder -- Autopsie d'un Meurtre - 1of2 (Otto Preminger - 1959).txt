@@ -1,0 +1,1055 @@
+{427}{472}AUTOPSIE D'UN MEURTRE
+{3264}{3346}Votre ami vient d'arriver en ville|M.McCarthy.
+{3376}{3424}J'en prends un autre Toybo.
+{3456}{3526}Je crains de ne pouvoir régler que demain.
+{3527}{3617}- Il n'y a pas de problème.|- Merci.
+{3753}{3833}Bonsoir Toybo.
+{6866}{6918}Mademoiselle, je voudrais
+{6920}{7015}le 489 à Thunder Bay.|Je voudrais parler à Mme Manion.
+{7035}{7080}M-A-N-I-O-N.
+{7097}{7177}De la part de Paul Biegler. Iron City 700.
+{7479}{7529}- Est-ce qu'on sait quand elle rentrera?
+{7531}{7553}- On ne sait pas.
+{7555}{7652}Eh bien alors laissez-lui un message.|Qu'elle appelle mon numéro. Merci.
+{7759}{7842}- Comment va cette santé cher maître?|- Très bien, très bien.
+{7900}{8002}- Qu'est-ce qu'il y a dans ce petit sac en papier?|- Ça doit être une pastèque.
+{8040}{8082}Oui, mais ce n'en est pas une.
+{8083}{8138}Vous êtes bien soupçonneux.
+{8188}{8220}Oui, c'est vrai.
+{8243}{8293}Eternellement soupçonneux de...
+{8295}{8360}ou intrigué par
+{8376}{8438}ce que contiennent|les petits sacs en papier.
+{8452}{8562}- Risquerai-je un petit coup d'œil?|- Risquez, risquez, mon cher maître.
+{8588}{8623}Ne vous gênez pas.
+{8646}{8759}Quand vous aurez risqué votre coup d'œil,|vous pourrez déboucher votre découverte.
+{8917}{8942}Je peux verser?
+{8946}{9008}- C'est votre prérogative.|- Et mon plaisir.
+{9260}{9380}Vous l'aviez déjà maltraitée.|Vous buvez en suisse Paul.
+{9398}{9441}C'est pas beau.
+{9445}{9530}Ne me jetez pas la pierre. Vous,|vous vivez dans une maison de verre.
+{9538}{9646}Il y a beau temps que tous mes carreaux|sont cassés. Je n'ai donc rien à cacher.
+{9703}{9788}- Une patte d'éléphant?|- Non, merci.
+{9805}{9895}Cette herbe infecte est encore un signe|de votre déchéance.
+{9982}{10019}Paul, il faut bien le dire.
+{10020}{10105}Depuis que Mitch Lodwick vous a|dégommé de votre poste d'avocat général,
+{10108}{10233}vous ne valez plus un fifrelin. Ce n'est pas|que je ne comprenne pas votre sentiment.
+{10272}{10372}Quand on n'est pas réélu|à une charge publique, ça vous frappe.
+{10380}{10492}Comme si vos concitoyens vous lâchent. Le|doigt de la dérision est pointé vers vous.
+{10494}{10566}Nul si ce n'est le cœur solitaire|ne connaît mon angoisse.
+{10572}{10642}Paul, vous êtes un bon avocat.|Vous devriez agir comme tel.
+{10644}{10694}Recevoir les clients au lieu d'aller pêcher
+{10696}{10756}et de jouer votre zim-zim tralala jazz.
+{10758}{10805}Je me défends quand même.
+{10813}{10933}Je plaide quelques référés, je fais divorcer|Jane Truc et Jean Fric de temps en temps.
+{10936}{11033}Je menace des mauvais payeurs.|Et le soir je m'assieds tranquillement
+{11037}{11152}devant une bouteille de whisky et je fais|du droit avec Parnell Emmitt McCarthy.
+{11163}{11218}Un homme de la plus grande valeur.
+{11223}{11348}C'est un mot trop gentil Paul.|Vous savez, j'aurais pu l'être.
+{11384}{11489}Et j'ai horreur de voir votre talent éclipsé|par des hommes qui ne vous valent pas.
+{11487}{11579}Quand je vous regarde, je me revois jeune,|avec la même passion pour l'odeur
+{11583}{11673}des vieux bouquins brûlés,|un bureau poussiéreux.
+{11723}{11798}Voici une rose, un lys,
+{11811}{11864}un pois de senteur.
+{11866}{11946}Le Recueil de jurisprudence|de la cour suprême.
+{12012}{12075}Qu'est-ce que nous lisons ce soir|cher maître?
+{12079}{12149}Si nous prenions un peu de présidence?
+{12237}{12347}Faisons attendre le président un instant.|C'est un client. J'attends un appel.
+{12350}{12370}- Allô!
+{12375}{12400}- M.Biegler?
+{12401}{12489}Oui, c'est Paul Biegler à l'appareil.|Allô Mme Manion?
+{12492}{12537}Quoi?
+{12538}{12595}Je vous ai manquée.|Vous avez eu mon message?
+{12597}{12630}Quel nom vous avez dit?
+{12633}{12723}Une seconde s'il vous plaît.|Je crois que nous sommes mal branchés.
+{12729}{12806}C'est une femme qui s'appelle Manion.|Maida a pris un message.
+{12808}{12896}A Thunder Bay? Si elle vous demande|de défendre son mari, dites oui.
+{12899}{12992}- Je ne sais pas de quoi il s'agit.|- Faites semblant de savoir et dites oui.
+{12993}{13023}Allô?
+{13026}{13096}Oui, c'est mieux maintenant.|Je vous entends très bien.
+{13105}{13165}Tout l'après-midi|j'ai attendu votre coup de fil.
+{13168}{13238}Oui, je suis rentré|il y a seulement un instant.
+{13238}{13295}Vous êtes au courant pour mon mari?|Muffy voyons.
+{13338}{13420}Vous avez lu les journaux?
+{13474}{13527}Mais oui. Je suis un peu au courant.
+{13530}{13567}Voulez-vous le défendre?
+{13571}{13631}Eh bien,|il faudrait que nous puissions parler.
+{13633}{13663}Vous voulez voir mon mari?
+{13666}{13736}Il est à la prison du comté.|Vous y allez demain matin?
+{13738}{13826}Il est très désireux de vous rencontrer.|Vous lui avez été recommandé.
+{13844}{13874}Ah oui?
+{13876}{13953}Oui, quelqu'un lui a parlé de vous.|Vous irez le voir?
+{13957}{14017}Je crois que je pourrai.|J'irai le voir demain.
+{14050}{14123}- Voulez-vous que j'y aille aussi?|- Excellente idée.
+{14131}{14194}Voulez-vous 10 heures?
+{14213}{14288}- Merci. Alors à demain.|- Oui, il n'y a pas de quoi.
+{14304}{14349}Bon, alors racontez-moi.
+{14347}{14420}Un nommé Barney Quill|a violé Mme Manion.
+{14424}{14474}Son mari est lieutenant|à une base temporaire
+{14476}{14549}de l'armée à Thunder Bay,|artillerie ou je ne sais quoi.
+{14551}{14666}Ce lieutenant se rend chez M.Quill|et transperce ledit Quill de cinq balles,
+{14669}{14734}ce qui cause le décès du susnommé|dans des coliques.
+{14736}{14781}- Quand?|- Il y a deux ou trois jours.
+{14783}{14888}Si vous n'étiez pas allé tremper votre ligne|dans un lac perdu vous le sauriez.
+{16690}{16720}Bonjour Maida.
+{16723}{16763}- Il est là?|- Qui ça?
+{16763}{16836}Le journal.|Je pensais qu'ils ne l'avaient pas apporté.
+{16839}{16914}La facture n'est pas payée.|Vous avez vu mon mot?
+{16920}{16977}On aura peut-être l'affaire.|Je lis un peu
+{16980}{17028}avant d'aller voir le lieutenant Manion.
+{17030}{17072}Il rentre chez lui quelquefois?
+{17073}{17145}C'est de Parnell que vous parlez?|On a veillé tard.
+{17147}{17182}Je l'aurais deviné.
+{17189}{17274}Vous feriez bien d'annuler|tous mes rendez-vous pour aujourd'hui.
+{17277}{17382}Quels rendez-vous? Tout le monde croit|que vous avez émigré dans la montagne.
+{17404}{17459}S'il entre d'autres poissons dans ce frigo,
+{17459}{17534}il va remonter la rivière tout seul|au moment du frais.
+{17584}{17674}Vous pourriez m'accorder votre attention|une toute petite minute?
+{17680}{17703}Oui.
+{17708}{17813}J'ai vérifié les comptes sur votre carnet.|Je n'ai pas de quoi me payer mon salaire.
+{17817}{17877}A quoi ont servi les honoraires|du divorce Walker?
+{17879}{17949}A remettre du sel|dans une mine d'uranium ou quoi?
+{17958}{18008}A acheter des objets|de première nécessité.
+{18011}{18121}Tel qu'un nouveau moteur hors-bord. Si|je pouvais être classée première nécessité.
+{18128}{18193}- Vous ne prenez pas vos toasts?|- Non.
+{18214}{18294}Je vous téléphonerai.|Je vous dirai comment ça marche.
+{18299}{18359}Surtout n'acceptez pas|d'être payé en décorations.
+{18361}{18424}Ces militaires de carrière|n'ont jamais un radis.
+{18423}{18481}Je sais ce que je dis,|j'en ai eu un comme mari.
+{18994}{19039}Pardon. Vous êtes Mme Manion?
+{19040}{19092}- Bonjour.|- Je suis Paul Biegler.
+{19099}{19149}- Et moi Laura.|- Très heureux.
+{19174}{19219}- C'est Muff.|- Bonjour Muff.
+{19231}{19281}C'est là, la prison.
+{19348}{19388}Vous êtes grand!
+{19459}{19524}- Bonjour Paul.|- Bonjour Sulo.
+{19531}{19581}Attends-moi là Muffy.
+{19701}{19743}- Content de vous voir.|- Ça va?
+{19745}{19815}Merci. Vous venez sûrement|pour le militaire?
+{19817}{19884}Pas d'inconvénient|à ce qu'on parle dans le bureau?
+{19884}{19954}Pas du tout. Je vais le faire descendre.
+{20207}{20282}Ça ne vous ferait rien|d'enlever vos lunettes?
+{20344}{20411}Sapristi! C'est Barney Quill|qui vous a fait ça?
+{20412}{20487}Plus que ça. Si vous voyiez le reste.
+{20541}{20626}Vous pouvez les remettre|si vous êtes plus à votre aise avec.
+{20829}{20891}M.Paul Biegler. Voilà le militaire.
+{20893}{20928}- Lieutenant Manion?|- Bonjour.
+{20929}{20999}- Bonjour mon chéri.|- Bonjour Laura.
+{21068}{21173}Est-ce que vous pourriez passer me voir|à mon cabinet cet après-midi vers 14 heures?
+{21173}{21213}C'est 305 West Barnham.
+{21224}{21259}- Sûrement.|- Bon.
+{21274}{21364}- Tu as besoin de quelque chose chéri?|- Non merci.
+{21424}{21462}Par ici.
+{21591}{21631}BUREAU DU SHÉRIF
+{21784}{21812}Les dix plus grands recherchés.
+{21859}{21984}Les dix filles les plus élégantes,|les dix meilleures équipes, les dix chansons,
+{22000}{22043}et les dix plus grands recherchés.
+{22046}{22101}Ne critiquez pas. C'est le rêve américain.
+{22104}{22149}Ces gars sortent du lot.
+{22153}{22263}Dites-moi,|vous avez été l'avocat général du comté?
+{22266}{22311}Oui. Dix ans.
+{22326}{22391}Et quelle expérience avez-vous|comme avocat?
+{22393}{22421}Je n'en ai pas beaucoup.
+{22425}{22490}Comment je saurais|si vous pouvez me défendre?
+{22492}{22592}Eh bien ça vous ne le saurez qu'après.|Vous voulez qu'on en parle?
+{22626}{22661}Pourquoi pas.
+{22691}{22739}N'ayez pas l'air si dégoûté.
+{22742}{22832}Il pourrait très bien se faire|qu'aucun avocat ne trouve de solution
+{22834}{22884}si vous espérez|en sortir blanc comme neige.
+{22887}{22965}Vous avez l'air d'oublier|que Barney Quill a violé ma femme.
+{22966}{23016}J'ai la loi non écrite de mon côté.
+{23019}{23074}La loi non écrite est un mythe.
+{23082}{23149}Les seules lois valables|sont écrites dans le code.
+{23151}{23224}Un homme qui commet un meurtre|en croyant en d'autres lois
+{23226}{23303}se réserve une place de pensionnaire|au pénitencier d'état.
+{23304}{23349}Et peut-être à perpétuité.
+{23383}{23508}Ceci bien établi, on pourrait peut-être|passer à quelques questions et réponses...
+{23554}{23599}Je pourrais avoir du feu?
+{23668}{23721}Nous pourrions passer|à quelques questions
+{23724}{23804}qui pourraient être profitables|à votre défense.
+{23849}{23904}Mais ne le seront probablement pas.
+{23942}{23992}Vous avez un joli briquet.
+{24112}{24162}- Vous avez quel âge?|- Vingt-huit ans.
+{24163}{24238}- Depuis longtemps dans l'armée?|- 1950.
+{24254}{24312}- Vous avez combattu?|- En Corée.
+{24314}{24384}- Vous avez une décoration?|- Une pleine caisse.
+{24383}{24458}- C'est votre premier mariage?|- Non.
+{24464}{24504}Vous n'êtes pas à la barre.
+{24503}{24611}Dites autre chose que oui ou non. Essayez|de me donner votre panorama matrimonial.
+{24613}{24653}Est-ce très nécessaire?
+{24664}{24709}C'est moi qui en jugerai.
+{24743}{24823}La première a demandé le divorce.|Pour cruauté mentale.
+{24866}{24951}Soi-disant que je mangeais|des biscuits dans le lit et cetera.
+{24957}{25057}La vérité c'est qu'elle a trouvé|un autre type quand j'étais en Corée.
+{25112}{25252}J'ai connu Laura il y a quatre ans.|On s'est mariés juste après son divorce.
+{25261}{25311}Vous connaissiez son mari?
+{25323}{25361}Il faisait partie de mon unité.
+{25364}{25414}C'était votre copain?
+{25424}{25504}Je retire la question.|Elle est un peu vieux jeu.
+{25505}{25603}Pas d'enfant provenant directement|ou indirectement d'un de ces mariages?
+{25606}{25674}- Non.|- Rien en perspective?
+{25673}{25738}A moins que Barney Quill|en ait mis un en train.
+{25738}{25793}Vous avez utilisé quelle arme|contre Quill?
+{25796}{25863}Souvenir de guerre. Un Luger.|C'est la police qui l'a.
+{25867}{25939}Vous avez lu ce qui a paru|dans les journaux sur l'affaire?
+{25941}{25969}En partie.
+{25971}{26036}- C'est exact dans l'ensemble?|- Oui.
+{26041}{26126}Alors vous n'avez pas vu Quill|violer et maltraiter votre femme?
+{26127}{26257}Non. Quand elle est revenue après, à la|caravane, elle m'a dit ce qui s'était passé.
+{26267}{26340}Au bout de combien de temps|vous êtes allé chez Quill?
+{26345}{26390}Je sais pas. Peut-être une heure.
+{26393}{26431}Si longtemps que ça?
+{26450}{26535}Les journaux disent que votre femme|s'est soumise à un test de vérité.
+{26536}{26571}Vous savez quelque chose?
+{26574}{26617}Ce que j'ai lu et ce qu'elle m'a dit.
+{26617}{26677}Vous savez ce qui a résulté de ce test?
+{26682}{26739}- Elle me l'a pas dit.|- Qu'est-ce qu'il y a?
+{26743}{26851}Le déjeuner va être servi pour les gardiens.|Vous ne voulez pas manger avec nous?
+{26855}{26952}- C'est toujours votre sœur qui cuisine?|- Et comment qu'elle la fait.
+{26985}{27102}Vous lui présenterez mes hommages.|Mais je dois déjeuner en ville aujourd'hui.
+{27105}{27175}- Comme vous...|- Je reviendrai après le déjeuner.
+{27186}{27256}Je regrette si je vous ai offensé|tout à l'heure.
+{27270}{27310}Je n'en crois rien.
+{27339}{27369}Amenez-vous.
+{27470}{27520}Passez-moi le sel.
+{27577}{27607}Merci.
+{27644}{27717}Vous avez fait au lieutenant|la petite leçon habituelle?
+{27718}{27818}Si vous entendez par là que je lui ai|suggéré une version mensongère, non.
+{27822}{27947}Vous êtes peut-être trop pur.|Trop pur pour l'impureté inhérente aux lois.
+{27987}{28084}C'est votre rôle de laisser au lieutenant|le soin de chercher un moyen de défense.
+{28087}{28202}C'est aussi votre rôle de lui montrer|la voie. A lui de savoir s'il veut s'y engager.
+{28205}{28270}- Vous voulez le sel?|- Non, je n'ai pas fini.
+{28270}{28390}En tout cas je ne suis pas l'avocat qu'il faut|à ce personnage. Il est insolent, hostile.
+{28416}{28494}On ne vous demande pas de l'aimer|mais de le défendre.
+{28497}{28567}Vous n'avez donc pas besoin d'argent?
+{28584}{28664}Vous savez ce que je pense?|Je pense que vous avez un peu peur.
+{28668}{28758}- Peur de quoi?|- De subir un échec.
+{28835}{28922}Si vous croyez m'avoir|en cherchant à piquer mon amour-propre,
+{28927}{29012}cher confrère, vous faites fausse route.|Passez-moi le sel.
+{29090}{29147}Posez-le, je suis superstitieux.
+{29301}{29386}- Salut.|- Je réponds en général au nom de Biegler.
+{29404}{29452}On va recommencer les plaisanteries?
+{29454}{29526}Non, sauf si vous insistez|pour jouer les comiques.
+{29538}{29613}- Je vous ai apporté des cigarettes.|- Merci.
+{29617}{29652}- La paix est signée?|- Bien sûr.
+{29653}{29698}Bien. Ecoutez,
+{29714}{29789}il y a quatre moyens connus|de défendre un meurtrier.
+{29800}{29882}Un: Ce n'est pas un meurtre.|C'est un suicide ou un accident.
+{29883}{29966}Deux: Ce n'est pas lui.|Trois: Une justification légale,
+{29969}{30019}protection de domicile ou légitime défense.
+{30022}{30082}Et quatre: L'acte est excusable.
+{30109}{30174}Où est-ce que je figure|dans ce souriant paysage?
+{30176}{30279}Je vais vous dire où vous ne figurez pas.|Dans aucun des trois premiers cas.
+{30279}{30374}Pourquoi je ne suis pas justifié|en tuant l'homme qui a violé ma femme?
+{30377}{30417}A cause de l'élément temps.
+{30420}{30515}Si vous l'aviez pris sur le fait,|le meurtre aurait pu être justifié. Mais non.
+{30516}{30589}Vous pouviez appeler la police.|Vous ne l'avez pas fait.
+{30588}{30666}Vous êtes coupable de meurtre|avec préméditation, par vengeance.
+{30669}{30722}Meurtre du premier degré pour toute cour.
+{30725}{30807}- Je dois plaider coupable?|- Je vous dirai si mettre les pouces.
+{30809}{30874}- Quoi?|- Plaider coupable et demander l'indulgence.
+{30876}{30954}Si je ne mets pas les pouces,|vous me conseillez d'agir comment?
+{30957}{31002}Je ne vous conseille rien du tout.
+{31005}{31090}Je veux seulement que vous saisissiez bien|la lettre de la loi.
+{31149}{31204}- Continuez.|- Continuer quoi?
+{31267}{31327}Ce que vous avez l'intention de dire.
+{31446}{31499}Je vous trouve extrêmement intelligent.
+{31502}{31592}Il s'agit de savoir|jusqu'où peut aller votre intelligence.
+{31667}{31737}Je fais de mon mieux.
+{31786}{31894}Du fait que votre femme a été violée vous|aurez l'atmosphère favorable dans la salle.
+{31895}{31962}La sympathie sera pour vous|si les faits sont vrais.
+{31964}{32004}Il vous faut une patère légale,
+{32007}{32075}que le jury puisse y accrocher|sa sympathie pour vous.
+{32077}{32132}- Vous me suivez?|- Oui.
+{32163}{32223}Quelle est votre excuse légale?
+{32252}{32337}Quelle est votre excuse légale|pour avoir tué Barney Quill?
+{32391}{32434}Pas une justification?
+{32451}{32491}Pas une justification.
+{32610}{32645}Une excuse.
+{32731}{32779}Rien d'autre qu'une excuse?
+{33115}{33168}Qu'est-ce que je pourrais avoir|comme excuse?
+{33170}{33255}Je n'en sais rien.|C'est vous le meurtrier de Quill.
+{33266}{33303}J'étais fou furieux.
+{33315}{33400}- Vous dites?|- J'ai dit "J'étais fou furieux."
+{33508}{33568}La mauvaise humeur n'est pas une excuse.
+{33616}{33688}Je veux dire, je devais être fou réellement.
+{33810}{33865}Je commence à brûler?
+{33980}{34025}Terminé.
+{34050}{34090}Je commence à brûler?
+{34101}{34168}Je vous dirai ça|quand j'aurai parlé à votre femme.
+{34170}{34275}Pour le moment, voyez si vous pouvez|vous rappeler à quel degré vous étiez fou.
+{34429}{34479}Mme Manion est déjà là?
+{34485}{34535}Il y a un moment qu'elle vous attend.
+{34537}{34617}Elle a passé tous vos disques|depuis Dixieland jusqu'à Brubeck.
+{34618}{34655}Qu'est-ce que vous pensez d'elle?
+{34659}{34772}Accueillante, sociable. Le genre de femmes|dont les hommes aiment user et abuser.
+{34794}{34827}Vous avez touché une avance?
+{34830}{34870}Fric?
+{34899}{35022}Je n'ai pas encore accepté l'affaire. Vous|me surprenez beaucoup par moments.
+{35042}{35097}Pourquoi? J'ai les pieds sur terre.
+{35112}{35142}C'est bizarre.
+{35541}{35629}Si ça ne vous ennuie pas trop.|Ça sera plus facile pour causer.
+{35647}{35752}Vous êtes un drôle d'avocat. C'est votre|collection de disques qui me fait dire ça.
+{35755}{35820}Les avocats n'ont pas le droit|d'aimer la musique?
+{35822}{35872}En général pas cette musique-là.
+{35879}{35959}Alors il n'y a aucun doute.|Je suis un drôle d'avocat.
+{35961}{36031}Vous êtes de quel pays?|A quelle école vous êtes allé?
+{36035}{36073}Vous avez grandi où?
+{36073}{36183}Nulle part en particulier. On allait un peu|partout. Mon père conduisait un bulldozer.
+{36183}{36293}L'entreprise où il travaillait construisait|des barrages. Appelez-moi Laura.
+{36333}{36403}- Vos parents sont encore vivants?|- Non.
+{36414}{36472}Il me semblait que j'avais des cigarettes.
+{36474}{36531}- Vous en voulez une?|- Je voulais en offrir une.
+{36533}{36603}- Vous pourriez me donner du feu.|- Oui, bien sûr.
+{36640}{36665}Tenez.
+{36695}{36770}C'est le même que celui de votre mari.
+{36817}{36897}Il m'a donné celui-ci|parce que j'aimais le sien. Il est comme ça.
+{36901}{36936}Il fait tout le temps des cadeaux.
+{36936}{36984}Vous êtes heureuse en ménage?
+{37007}{37032}Oui.
+{37055}{37115}Ce qui n'a pas marché|dans votre premier mariage?
+{37117}{37197}Ce qui n'a pas marché|c'est que je suis partie avec Manny.
+{37200}{37273}- Ça c'est assez franc.|- Mais il y avait pas seulement ça.
+{37275}{37382}Quand j'étais jeune, j'avais pris l'habitude|de voyager. Jack, mon premier mari,
+{37386}{37418}avait horreur de bouger.
+{37419}{37474}Il voulait même pas être muté|quand il pouvait.
+{37476}{37586}Je m'ennuyais à mourir.|Mais Manny, lui, c'est autre chose.
+{37588}{37651}On ne rate pas une occasion.|On est allés partout.
+{37653}{37688}Je meurs de soif.
+{37698}{37736}De l'eau ou de la bière?
+{37740}{37785}Je veux bien de la bière.
+{37807}{37872}Voulez-vous apporter|une bouteille de bière?
+{37910}{37968}- Vous êtes marié?|- Non.
+{37989}{38024}Quelle chance.
+{38048}{38121}Qu'est-ce que vous faites seul ici|si vous êtes pas marié?
+{38124}{38184}C'est la maison familiale|et je suis le dernier.
+{38188}{38231}- Voilà.|- Merci.
+{38269}{38349}- Vous n'en prenez pas?|- Non, pas maintenant.
+{38370}{38400}Tenez.
+{38413}{38493}Muff peut en avoir?|Dans le cendrier? Il adore la bière.
+{38498}{38568}De la bière pour le chien?
+{38586}{38626}Eh bien voilà.
+{38739}{38784}Il va dormir maintenant.
+{38864}{38909}- Il est drôle, hein?|- Oui.
+{38925}{38990}Alors, on y va? Vous êtes prête?
+{39020}{39090}Etes-vous prête|à me raconter votre histoire?
+{39097}{39142}Oui, je comprends.
+{39173}{39253}Si vous me racontiez ce que|vous avez dit à la police de l'état.
+{39256}{39341}Plus tout ce que vous n'avez pas raconté|à ladite police.
+{39351}{39388}Par quoi je commence?
+{39391}{39459}A quelle heure vous êtes-vous rendue|au bar de Quill?
+{39461}{39531}Juste après le dîner. Il devait être 20 heures 30.
+{39535}{39630}Manny était rentré tard,|il revenait du chantier. Alors on a dîné.
+{39631}{39671}Il s'est endormi aussitôt après.
+{39675}{39778}Je n'étais pas sortie de toute la journée|alors j'ai pris mon chien et une lampe
+{39780}{39815}et je suis allée au bar.
+{39816}{39873}J'ai pris quelque chose|et j'ai joué au billard.
+{39875}{39933}Il y avait beaucoup de monde au bar?
+{39941}{40056}Pas beaucoup. Barney m'a proposé de faire|une partie pour jouer les consommations.
+{40061}{40106}Vous le connaissiez bien?
+{40106}{40199}C'est lui qui tenait le bar-hôtel.|On allait y boire quelquefois.
+{40202}{40295}- Il ne vous avait jamais fait la cour?|- Non, absolument pas.
+{40306}{40363}Est-ce qu'il a bu exagérément ce soir-là?
+{40384}{40464}Il ne m'a pas semblé.|Tout au moins pendant la partie de billard.
+{40468}{40533}Vous êtes restée avec lui tout le temps?
+{40535}{40582}Non, d'autres personnes jouaient.
+{40585}{40643}Vous avez quitté le bar à quelle heure?
+{40658}{40701}Vers 23 heures peut-être.
+{40730}{40803}Je suis passée par le côté.|Muffy portait la lampe électrique.
+{40804}{40841}Il la prend dans sa gueule.
+{40844}{40902}Il est mignon|quand il trottine avec la lampe.
+{40905}{40932}Il n'était pas ivre?
+{40935}{41023}Mais non, Muffy n'était pas ivre.|Vous dites ça pour rire, hein?
+{41027}{41092}Oui, je le dis pour rire. Continuez.
+{41111}{41201}Barney a surgi à côté de moi.|Il était sorti par une autre porte.
+{41207}{41282}Il a dit qu'il allait de mon côté,|qu'il pouvait me ramener.
+{41285}{41378}Il a dit avoir vu rôder des ours|et que je ne devais pas rentrer à pied.
+{41379}{41434}Ils sortent du bois|pour manger les détritus.
+{41437}{41484}Mais ils sont plutôt inoffensifs?
+{41485}{41562}Je n'aurais probablement pas eu peur|dans la journée mais
+{41564}{41602}la nuit c'est pas pareil.
+{41605}{41670}Je comprends.|Alors vous êtes montée dans sa voiture...
+{41672}{41729}Et il m'a conduite au parc à caravanes.
+{41734}{41781}Il vous a fait des propositions?
+{41785}{41810}Non, rien du tout.
+{41813}{41886}Quand on est arrivés,|on a trouvé la grande porte fermée.
+{41888}{41973}M.Lemon la ferme le soir|vers 23 heures ou 23 heures 30.
+{41974}{42039}J'ai remercié Barney|et j'étais sur le point de descendre
+{42043}{42111}mais il m'a dit|qu'il était inutile que je marche.
+{42110}{42180}Qu'on pouvait rentrer en voiture|par une autre route.
+{42182}{42262}Je n'avais jamais entendu parler|de cette route. Mais il a démarré
+{42264}{42309}avant que j'aie pu dire oui ou non.
+{42312}{42417}- Vous n'avez pas été inquiète?|- Non, je n'ai pas peur des hommes.
+{42420}{42520}D'ailleurs pendant le trajet|il ne m'avait pas touchée ni même rien dit.
+{42523}{42636}Une femme ne sent pas instinctivement|quand un homme a des intentions?
+{42645}{42750}Si. C'est une chose courante pour moi.|Enfin presque tous les hommes.
+{42751}{42848}Depuis que je suis gosse.|Vous, tenez. Je vous intéresse.
+{42858}{42956}Mais c'est pas une raison pour que j'aie|peur de vous. Avec Barney c'était pareil.
+{42957}{43017}Mme Manion, croyez-moi,|je n'ai pas la moindre...
+{43019}{43059}Appelez-moi Laura.
+{43103}{43218}Ce qui m'intéresse est uniquement|d'aider votre mari. Rien de plus.
+{43231}{43281}Je ne dis pas que vous feriez un geste.
+{43283}{43363}C'est seulement de la manière|que vous me regardez.
+{43410}{43470}Il me semblerait difficile|de ne pas vous regarder.
+{43472}{43537}C'est ma façon de m'habiller?|Ça vous déplaît?
+{43539}{43604}Non, c'est très bien. C'est très bien.
+{43634}{43729}Il vaudrait peut-être mieux essayer|de faire progresser notre affaire.
+{43758}{43810}Vous étiez habillée comment ce soir-là?
+{43812}{43870}J'avais un pull-over et une jupe.
+{43875}{43933}Et pour le reste? Qu'est-ce que vous portiez?
+{43937}{44027}Comme dessous? Un soutien-gorge,|un slip et une combinaison.
+{44046}{44076}Pas de gaine?
+{44076}{44161}Je n'ai pas besoin de gaine.|Vous croyez que j'en ai besoin?
+{44165}{44240}Je n'en sais rien. Moi je...
+{44266}{44376}Je m'attache à connaître uniquement|les quelques faits qui peuvent me servir
+{44374}{44429}pour présenter la défense de votre mari.
+{44429}{44494}- Je n'en porte pas.|- D'accord, pas de gaine.
+{44520}{44560}Allez-y. Continuez.
+{44563}{44668}Il a quitté la grande route pour prendre|un chemin de forêt. Il a stoppé
+{44670}{44715}et il a éteint les lumières.
+{44717}{44829}Il m'a sauté dessus et il a dit|"Je vais te violer." Comme ça, tel quel.
+{44829}{44854}Il a employé ces mots?
+{44858}{44968}Exactement ces mots-là. Muffy s'est mis|à aboyer, il l'a jeté par la fenêtre.
+{44971}{45058}J'ai entendu mon Muffy geindre dehors|tout le temps que ça a duré.
+{45059}{45177}Barney a essayé de m'avoir.|Je me suis débattue comme j'ai pu.
+{45179}{45217}Il était terriblement fort.
+{45220}{45272}Vous avez crié? Vous avez appelé?
+{45278}{45340}Ça n'aurait pas beaucoup servi|au fond de la forêt.
+{45342}{45457}Et il m'a traitée de tous les noms possible.|Je ne voudrais pas les répéter.
+{45462}{45525}Il m'a lâchée|et il m'a envoyé un coup de poing.
+{45527}{45597}Et puis un autre et je ne sais plus très bien.
+{45599}{45666}Il est probable|que j'étais à demi-inconsciente,
+{45690}{45795}mais ce que je sais, c'est qu'il m'a arraché|mon slip et qu'il a fait ce qu'il voulait.
+{45798}{45853}Les journaux disent|qu'un médecin vous a vue
+{45855}{45905}et qu'à son avis le viol n'est pas prouvé.
+{45906}{45996}Le médecin n'est qu'un imbécile. Une|femme ne se trompe pas sur ces choses.
+{45997}{46059}Evidemment. Continuez.
+{46145}{46227}Je ne sais pas ce qui est arrivé après.|J'ai dû m'évanouir.
+{46229}{46279}Je me rappelle que la voiture roulait.
+{46282}{46392}Barney conduisait comme un fou,|à toute vitesse. Il avait les yeux hagards.
+{46409}{46464}Il soufflait comme un vrai porc.
+{46493}{46553}On était sur la route|du parc aux caravanes.
+{46556}{46621}Il a viré devant l'entrée et il a stoppé.
+{46623}{46661}J'ai ouvert la portière.
+{46664}{46729}Muffy a sauté le premier|avec la lampe dans la gueule.
+{46731}{46758}Un instant.
+{46759}{46844}Je croyais qu'il avait jeté Muffy|par la portière dans la forêt.
+{46845}{46947}Oui, c'est vrai. Il avait dû le laisser|remonter. Je ne me rappelle pas.
+{46958}{47041}C'est bien. Alors vous avez ouvert|et Muffy a sauté le premier.
+{47042}{47122}Avant que j'aie eu le temps de descendre|Barney m'a rattrapée
+{47126}{47184}et a recommencé|à déchirer mes vêtements.
+{47186}{47216}J'ai réussi à m'échapper.
+{47215}{47267}Muffy avait trouvé|une ouverture dans la haie.
+{47270}{47345}Je le voyais aller et venir|avec la lampe allumée.
+{47350}{47445}Barney m'a rattrapée par-derrière.|Il m'a jetée par terre.
+{47447}{47517}Il est tombé sur moi.|Il a recommencé à me marteler.
+{47519}{47562}J'ai bien cru qu'il allait me tuer.
+{47565}{47667}Je criais tant que je pouvais. Je suis|arrivée à me relever, je me suis sauvée.
+{47671}{47743}Je suis passée par la même ouverture|où était passé Muffy.
+{47745}{47800}Il courait toujours,|la lampe dans sa gueule.
+{47802}{47872}J'ai suivi la lumière|jusqu'à ce que je sois à la caravane.
+{47874}{47924}Et vous n'avez pas revu Barney?
+{47924}{47999}Je ne l'ai plus jamais revu,|ni vivant ni mort.
+{48031}{48103}Je crois que c'est assez pour l'instant.
+{48131}{48201}J'ai du temps de libre.|Autant que vous voudrez.
+{48224}{48259}Où je pourrai vous joindre?
+{48262}{48370}Je suis toujours à Thunder Bay. Mais je|peux redescendre en voiture demain matin.
+{48433}{48503}- Vous aviez autre chose?|- Non.
+{48802}{48899}- Merci pour les disques.|- De rien.
+{48999}{49079}- Qui est-ce?|- La dame de l'affaire.
+{49159}{49204}Vous n'allez pas accepter l'affaire?
+{49207}{49295}Je ne sais pas. Ça va dépendre|de ce que Manion me dira demain.
+{49298}{49348}Il cherche une solution.
+{49370}{49415}J'aime mieux ça.
+{49435}{49505}Si j'accepte l'affaire, vous devrez m'aider.
+{49509}{49569}Moi? Pour une affaire de meurtre?
+{49615}{49723}La vue d'un vieillard imbibé de whisky|à votre table vous fera perdre l'affaire.
+{49725}{49760}J'ai besoin de vous.
+{49785}{49822}Vraiment?
+{49830}{49880}Sinon pourquoi il le dirait?
+{49905}{50010}Je serais heureux de vous épauler|hors du tribunal mais pas dans le tribunal.
+{50015}{50055}Faites comme vous l'entendez.
+{50060}{50150}Quoi qu'il en soit|je dois pouvoir compter sur vous.
+{50173}{50228}Vous allez laisser tomber la bouteille?
+{50406}{50456}Je ne sais pas.
+{50458}{50501}Vous ne le savez pas?
+{50561}{50631}Vous croyez que je pourrais|laisser tomber la bouteille?
+{50649}{50696}Vous n'avez jamais essayé?
+{50754}{50784}Essayez.
+{50890}{51000}Je n'ai jamais été sur une affaire|de meurtre. Pas une seule fois.
+{51037}{51077}Eh bien à vous de voir.
+{51252}{51294}Vous serez là ce soir?
+{51360}{51415}Oui, je serai là.
+{51609}{51699}Je pourrais y arriver.
+{51751}{51813}Je pourrais arriver|à redevenir un bon avocat,
+{51847}{51894}au moins pour un peu de temps.
+{51978}{52076}J'ai essayé de me rappeler.|Il me manque encore certains éléments.
+{52127}{52175}Je me rappelle
+{52209}{52274}être allé au bar de Quill avec un revolver.
+{52298}{52373}Et je me rappelle son visage derrière le bar.
+{52400}{52483}Mais je me rappelle rien d'autre.|Même pas d'être rentré.
+{52485}{52535}Vous ne vous souvenez pas avoir tiré?
+{52535}{52588}Cinq coups de feu.|Ça fait beaucoup à oublier.
+{52590}{52685}Je me rappelle les avoir entendus|mais ça avait pas l'air d'être lié à moi.
+{52688}{52798}Ils semblaient venir de loin.|Comme si c'était un autre qui avait tiré.
+{52918}{52998}J'accepte de vous défendre.
+{53024}{53092}Merci.
+{53093}{53148}Voilà la petite question des honoraires.
+{53152}{53222}Ce sera 3000 dollars.|C'est raisonnable il me semble.
+{53223}{53255}Plus que raisonnable.
+{53257}{53297}Je vous paierai plus tard.
+{53295}{53360}- Vous dites?|- Je suis fauché comme les blés.
+{53359}{53414}J'ai pas trois dollars, encore moins 3000.
+{53417}{53450}Vous pourriez les réunir?
+{53453}{53510}Oui, dès que je serai sorti de prison.
+{53550}{53665}Dans une semaine je touche ma solde.|Je pourrai vous donner 100 ou 150 dollars.
+{53666}{53741}Si vous me tirez d'affaire,|je vous ferai des billets à ordre.
+{53743}{53843}Supposez que je ne marche pas|tant que vous n'aurez pas payé la moitié?
+{53858}{53961}Alors il faudra qu'on me donne un avocat|d'office. Maintenant j'ai mon truc.
+{53964}{54009}Aliénation mentale.
+{54016}{54084}Je vais être obligé|de me débrouiller pour vous en sortir.
+{54086}{54176}- Par quoi on commence?|- Il nous faudra un psychiatre.
+{54191}{54233}Vous n'avez pas plus d'argent que moi.
+{54234}{54299}Croyez-vous que l'armée|pourrait nous en fournir un?
+{54302}{54354}Je connais un colonel au Pentagone.
+{54357}{54395}C'est ça, bonne idée.
+{54539}{54574}Vous allez où maintenant?
+{54575}{54637}Je vais voir votre femme|si ça ne vous ennuie pas.
+{54640}{54693}Quoi? Vous ne l'avez pas vue hier?
+{54695}{54785}Si, bien entendu.|C'est une bien jolie femme, votre femme.
+{54810}{54860}Avec l'habitude on ne fait plus attention.
+{54863}{54933}C'est évident. A bientôt.
+{55362}{55407}Entrez.
+{55420}{55490}Vous n'étiez pas venu|depuis votre démission.
+{55491}{55561}Vous avez du mal à reconnaître?|Mary a décoré pour moi.
+{55565}{55645}Elle vient de finir un cours de décoration.|Une fille intelligente.
+{55644}{55734}- Regardez, une vraie estampe de Picasso.|- Très joli.
+{55743}{55816}Essayez cette chaise.|Elle vous donne des sensations.
+{55817}{55867}Mettez-vous en arrière.
+{55894}{55949}Génial non? Soi-disant bon pour les nerfs.
+{55951}{55998}Comment on l'arrête?
+{56001}{56061}Voilà. Vous vous sentez mieux?
+{56063}{56106}Je me sens tout secoué.
+{56165}{56253}Je suis juste passé vous dire|que j'ai accepté l'affaire Manion.
+{56256}{56306}- Vous allez plaider coupable?|- Non.
+{56311}{56361}C'est une erreur. C'est évident.
+{56366}{56399}Peut-être. On verra.
+{56399}{56437}Le juge Maitland est à l'hôpital.
+{56440}{56507}Voulez-vous une continuation|jusqu'à son retour?
+{56510}{56553}Il faudrait régler l'affaire
+{56556}{56613}avant l'arrivée|de quelque juge choisi au hasard.
+{56615}{56678}- Je préférerais Maitland.|- Oui, moi aussi.
+{56680}{56772}Mais mon client devrait alors|croupir en prison encore deux
+{56776}{56828}ou trois mois avant le procès.
+{56844}{56896}Si vous abandonnez la charge d'homicide,
+{56901}{56968}afin qu'il soit libéré,|on acceptera la continuation.
+{56970}{57030}Vous ne feriez pas ça|si vous étiez avocat général.
+{57030}{57075}Je ne sais pas, c'est possible.
+{57088}{57178}Peut-être que si parce que le test du détecteur|de mensonge sur sa femme a prouvé
+{57180}{57243}le récit du viol. Le jury sera avec moi.
+{57246}{57296}Comment vous savez que le test...
+{57311}{57351}- Vous m'avez bluffé?|- Oui.
+{57352}{57414}Ce test n'est pas une preuve licite.
+{57416}{57444}C'est inutilisable.
+{57444}{57587}Oui mais il a un poids moral.|Je ne resterais pas trop sur cette chaise.
+{57592}{57682}Ça pourrait perturber un cerveau fragile.|On se voit plus tard.
+{57907}{57954}Il se rappelle de vous. Il vous aime bien.
+{57958}{58063}Il aime la bière de ma glacière. Quelle est|l'occasion, une chasse au bison?
+{58066}{58143}Non, je les ai achetés en Arizona|quand on était là-bas.
+{58145}{58185}Ce n'est pas élégant?
+{58188}{58233}On peut s'asseoir dans ma voiture.
+{58409}{58439}Et voilà!
+{58523}{58578}J'ai pensé à plusieurs choses.
+{58631}{58713}Les sous-vêtements|que Barney Quill a arrachés:
+{58716}{58774}Qui les a maintenant? La police?
+{58776}{58821}Vous voulez dire mon slip?
+{58829}{58874}C'est ça, votre slip.
+{58876}{58913}Je ne l'ai plus revu.
+{58915}{58982}J'ai donné la jupe déchirée|et le pull à la police.
+{58986}{59063}Je suis allée chercher avec eux|le slip dans les bois
+{59066}{59124}mais on n'a trouvé que mes lunettes.
+{59126}{59156}Vos lunettes!
+{59161}{59229}Vous portiez des lunettes|durant tout ce temps?
+{59233}{59276}Je les tenais à la main dans un étui.
+{59279}{59346}Je les mets pour lire, jouer au billard.
+{59348}{59436}J'ai dû essayer de sortir de la voiture|et les faire tomber.
+{59457}{59557}Ça vous intéresse peut-être de savoir|que le test du détecteur de mensonge est
+{59557}{59599}en votre faveur.
+{59600}{59662}Naturellement.|J'aurais pu vous le dire moi-même.
+{59665}{59705}Vous n'étiez pas inquiète?
+{59708}{59758}J'aurais dû?
+{59799}{59877}Vous voulez entendre|quelque chose qui vous inquiète?
+{59876}{59906}Idiot.
+{59907}{59992}Par exemple que votre mari nous regarde|depuis la fenêtre de sa cellule.
+{60104}{60149}D'accord, dites-moi la vérité.
+{60171}{60208}Est-ce qu'il vous a dit quelque chose?
+{60212}{60282}Suffisamment. Avez-vous peur de lui?
+{60312}{60342}Oui.
+{60355}{60430}Est-ce que c'est pour ça que vous avez fait le test?|Pour lui?
+{60432}{60457}Oui.
+{60478}{60543}Est-ce qu'il a des raisons d'être jaloux?
+{60562}{60612}Il était jaloux|avant même qu'on soit mariés.
+{60617}{60674}J'aurais dû savoir comment ce serait.
+{60681}{60746}Mais c'est drôle.|Il aime que je fasse impression.
+{60748}{60826}Il aime ma façon de m'habiller|mais il devient furieux
+{60828}{60948}si quelqu'un me remarque. J'ai essayé|de le quitter mais je ne peux pas.
+{60950}{60995}Il supplie, je cède.
+{61027}{61117}Si vous pensez que j'ai oublié ma question,|eh bien non.
+{61135}{61170}Moi si.
+{61187}{61307}Alors je vais la redemander.|Votre mari a des raisons d'être jaloux?
+{61356}{61416}Non. Pas une seule.
+{61427}{61462}Jamais.
+{62158}{62198}Auberge de Thunder Bay - cocktails
+{64795}{64828}Ça vous intéresse?
+{64832}{64919}Juste un coup d'œil sur les photos.|C'était Barney Quill n'est-ce pas?
+{64921}{64996}- Oui, c'était lui.|- Je suis Paul Biegler.
+{65000}{65080}Je sais qui vous êtes.|Je vous ai vu un jour au tribunal.
+{65086}{65128}Vous n'avez pas dit votre nom.
+{65131}{65189}Paquette. Le bar n'ouvre pas avant 17 heures.
+{65191}{65281}Ça ne fait rien. Je peux attendre.|Je ne tire pas encore la langue.
+{65299}{65362}Vous étiez de service le fameux soir,|n'est-ce pas?
+{65364}{65409}Le soir où Barney Quill a été tué.
+{65412}{65467}C'était même écrit dans le journal.
+{65470}{65555}C'est bien vous qui avez rattrapé Manion|quand il est sorti.
+{65556}{65583}Oui c'est moi.
+{65586}{65676}Il a braqué son pistolet sur moi en disant|"T'en veux aussi, patate?"
+{65678}{65758}Et vous avez dit "Non,|parce que je ne m'appelle pas Patate."
+{65762}{65802}Il n'y avait rien de comique.
+{65802}{65872}Non, il n'y avait rien de comique.|Excusez-moi.
+{65882}{65954}Où vous étiez|quand Barney Quill a été tué?
+{66031}{66098}Je vois que vous ne tenez pas|à parler de cette soirée.
+{66100}{66153}C'est vrai. J'ai pas envie d'en parler.
+{66155}{66237}Vous serez forcé d'en parler à l'audience,|pourquoi pas maintenant?
+{66241}{66308}Parce que j'y suis pas forcé.|C'est suffisant?
+{66310}{66333}D'accord.
+{66407}{66477}Ce vieux Barney,|c'était pas un enfant de chœur.
+{66479}{66569}Ancien boxeur, bâti en Hercule,|très fort tireur.
+{66584}{66674}C'était un bon patron.|La maison était bien tenue. Il était régulier.
+{66675}{66713}Vous êtes le gérant maintenant?
+{66716}{66791}Non, je ne suis qu'un employé.|C'est Mary qui gère tout.
+{66800}{66853}Mary? La femme de Barney?
+{66856}{66931}Non, il n'était pas marié.|Mary était son bras droit.
+{66967}{67025}Je me demande qui héritera de la maison.
+{67028}{67105}- Mary sans doute.|- Toujours Mary.
+{67112}{67150}Qu'est-ce qu'il y a à dire?
+{67150}{67243}Comment à dire de Mary? Mais je ne sais|pas ce qu'il y a à dire de Mary.
+{67246}{67276}Mary comment?
+{67289}{67327}Pilant. Mary Pilant.
+{67330}{67372}Elle est dans la cabine du fond.
+{67370}{67485}Notre règle est de ne jamais parler|des clientes. Si je le faisais...
+{67532}{67592}C'est elle. C'est Mary Pilant.
+{67809}{67856}Vous connaissez la femme du lieutenant Manion?
+{67860}{67945}Oui. Et le lieutenant aussi.|C'est un bon officier.
+{67955}{68030}Sa femme est gentille. Directe, bonne fille.
+{68044}{68134}- Pourquoi tu rigoles?|- Y a pas de mal à ça. C'est une belle gosse
+{68135}{68165}et je suis d'accord.
+{68169}{68294}Tu veux que l'avocat se fasse des idées|fausses? Le lieutenant a des chances?
+{68306}{68401}Des chances sérieuses. Avec des témoins|de haute moralité comme vous.
+{68430}{68505}Ça m'aurait fait plaisir de témoigner|mais on va être déplacés.
+{68509}{68559}Toute l'unité déménage. Berlin.
+{68601}{68681}Dites-moi, qui est cette jolie "pépé"|qui dirige l'hôtel?
+{68689}{68797}Elle s'appelle Mary Pilant. Il paraît|que c'était la propriété privée de Quill.
+{69106}{69189}- Vous désirez une table monsieur?|- Oui s'il vous plaît.
+{69318}{69346}Vous êtes seul?
+{69346}{69401}Non, j'attends deux personnes.
+{69407}{69487}- Je peux prendre votre chapeau?|- Je vous remercie.
+{69672}{69700}Cette manucure?
+{69701}{69781}Posez-moi des questions sur n'importe qui.|J'ai tous les tuyaux.
+{69785}{69862}Pouvez-vous me parler d'une femme|nommée Mary Pilant?
+{69864}{69954}Mary Pilant a pu être, ou ne pas être,
+{69957}{70009}la maîtresse de feu Barney Quill.
+{70010}{70075}La manucure est en faveur|de l'hypothèse maîtresse
+{70078}{70123}mais le coiffeur est contre.
+{70123}{70241}Néanmoins ils s'accordent à dire|qu'il devait y avoir une intimité entre eux.
+{70242}{70272}La suite dans un instant.
+{70276}{70326}- Voilà la carte.|- Merci beaucoup.
+{70376}{70456}- Pas laide, hein?|- Non, pas laide du tout. Continuez.
+{70478}{70593}Il y a une version selon laquelle la folle nuit|de Barney avec Mme Manion aurait pu
+{70595}{70665}être provoquée par Mary Pilant.
+{70669}{70759}Elle se serait affichée avec un militaire|et Barney ne l'a pas encaissé.
+{70760}{70800}Il a fait le plein d'alcool, explosé.
+{70804}{70877}- Mary Pilant est d'ici?|- Non, elle est canadienne.
+{70879}{70931}Barney l'aurait fait venir|comme décoration
+{70931}{71026}et elle a conquis le poste de commande.|Elle s'est débrouillée assez bien.
+{71029}{71097}Mieux qu'assez bien.|Elle va avoir l'héritage.
+{71122}{71202}Elle n'a pas l'air d'une mauvaise fille|à première vue.
+{71210}{71235}Qui l'a vue?
+{71235}{71318}Comment "Qui l'a vue?"|C'est la pin-up qui a apporté le menu.
+{71321}{71366}La fille qui est là?
+{71487}{71557}Mlle Pilant,|permettez-moi de me présenter.
+{71562}{71620}Je suis Paul Biegler, l'avocat du lieutenant Manion.
+{71622}{71694}Mlle Rutledge, M.McCarthy,|mes collaborateurs.
+{71695}{71740}Vous pouvez vous asseoir une minute?
+{71743}{71803}- Oui, je peux rester une minute.|- Merci.
+{71844}{71932}J'aurais deux ou trois petites questions|à vous poser, si vous le permettez.
+{71934}{71994}A quel sujet?
+{71998}{72071}J'aimerais savoir quel genre d'homme|était votre patron.
+{72074}{72107}Un homme très bien.
+{72108}{72206}Si c'est la vérité, comment expliquer ce qui|s'est passé avec la femme de Manion?
+{72208}{72273}Je ne sais pas ce qui s'est passé|avec la femme du lieutenant Manion,
+{72276}{72336}il me serait difficile|d'expliquer quoi que ce soit.
+{72338}{72416}Votre loyauté à l'égard de feu M.Quill|est très touchante.
+{72418}{72485}Barney était très aimé de tout le monde.
+{72486}{72599}Et c'est gentil de la part de tout le monde|d'excuser des peccadilles tel qu'un viol.
+{72624}{72666}Excusez-moi, je vous en prie.
+{72669}{72734}Je vais vous envoyer la serveuse.
+{72736}{72841}Très heureuse de vous connaître.
+{72899}{72959}Vous avez perdu.
+{73163}{73271}- Il y a quelque chose?|- Oui, ça. De Washington.
+{73280}{73360}Ils laisseront témoigner un médecin|mais à une condition.
+{73365}{73455}Je dois aller à un hôpital militaire|à Détroit pour un examen.
+{73455}{73538}L'armée ne comprend-elle pas|que vous ne pouvez pas être libéré?
+{73541}{73596}C'est comme ça|en ce qui concerne l'armée.
+{73599}{73684}Je ne vois pas comment arranger ça.|J'essaierai de trouver une solution.
+{73685}{73730}Je n'ai pas vu ma femme|depuis deux jours.
+{73734}{73789}- Vous l'avez vue?|- Non. Pas récemment.
+{73791}{73874}- Elle est où?|- Vous avez d'autres choses à penser.
+{73877}{73945}Je vais la contacter|et lui dire qu'elle vous manque.
+{73947}{74002}Oui, dites-lui ça.
+{74021}{74081}- Merci Sulo.|- De rien.
+{74175}{74235}Je sais comment vous vous sentez.
+{74237}{74342}Je me tracasserais moi aussi|si j'avais quelque chose comme ça dehors.
+{74359}{74414}Quelque chose comme quoi?
+{74417}{74542}Vous le savez très bien.|Quelque chose comme ça errant en liberté.
+{74678}{74738}C'est quoi ce boucan?
+{74757}{74857}C'est moi. Je me suis cogné le coude|contre cette sacrée barre en acier.
+{74870}{74933}Tu veux un peu d'alcool à 90?
+{74935}{74997}Non mais un bourbon pourrait être utile.
+{75036}{75098}Ça suffit!
+{75107}{75162}Finissons la partie.
+{75886}{75984}C'est qu'on a un bien drôle d'avocat!|Bonsoir Paulo.
+{75987}{76122}Les copains vous appellent comme ça?|Un drôle de nom pour un drôle d'avocat.
+{76328}{76423}- Merci pour l'hospitalité vieux frère.|- Vous n'allez pas me faire cette blague.
+{76423}{76498}- Vous n'allez pas m'abandonner.|- Non, je reviens.
+{76958}{77030}Bonsoir Paulo.|Je vous présente l'avocat de Manny.
+{77050}{77105}- Asseyez-vous donc.|- Je n'ai pas le temps.
+{77107}{77187}Je voudrais vous parler.|Voulez-vous sortir un instant?
+{77186}{77271}Je croyais qu'on avait laissé|tomber le cérémonial entre nous.
+{77275}{77342}Il vaut peut-être mieux le ramasser.|C'est important.
+{77344}{77404}- Bon, je vous suis.|- Alors venez vite.
+{77407}{77517}- Vous revenez, hein?|- Qu'est-ce que vous croyez?
+{77737}{77812}- Excuse-moi vieux frère.|- Bonne chance.
+{78005}{78045}Vous avez reçu mon message?
+{78049}{78087}Oui mais j'avais pas le temps.
+{78090}{78135}Vous n'êtes pas allée voir votre mari.
+{78138}{78185}Pourquoi le voir tous les jours?
+{78186}{78241}Il me semble que ce serait préférable.
+{78244}{78296}J'irai le voir tous les jours.
+{78301}{78328}- Content?|- Non.
+{78332}{78377}- La voiture?|- Je suis venue avec eux.
+{78379}{78457}- La mienne est là-bas.|- J'ai des amis qui m'attendent.
+{78456}{78501}Amis ou pas vous rentrez.
+{78503}{78530}Qui vous pensez être?
+{78532}{78602}L'avocat qui veut sauver votre mari.|Vous savez?
+{78603}{78675}- Quel rapport...|- Tenez-vous tranquille et écoutez-moi.
+{78677}{78752}Tant que l'affaire n'est pas jugée,|vous êtes une brave ménagère,
+{78753}{78793}portant des lunettes.
+{78797}{78922}Et vous vous tenez à l'écart|des hommes, des bars et des juke-box.
+{78925}{78987}Vous portez des jupes amples|et des chaussures plates.
+{78989}{79052}Et aussi une gaine.|Je tiens beaucoup à la gaine.
+{79054}{79144}Vous pouvez me croire. Je ne suis pas|ennemi des formes un peu rebondies
+{79147}{79225}mais réservez vos séductions|à l'usage de votre mari,
+{79227}{79319}si jamais j'arrive à le sortir de prison.|Allez, venez. Rentrons.
+{79342}{79382}Je regrette. C'est vrai.
+{79385}{79442}Je ne veux pas compromettre|les chances de Manny.
+{79444}{79474}Allez, venez.
+{80402}{80462}C'est là que Barney vous a jetée par terre?
+{80464}{80504}Oui. Juste ici.
+{80509}{80572}C'est l'ouverture dans la haie.|C'est là que Muffy
+{80571}{80641}est entré avec la lampe allumée.
+{80696}{80741}Où est votre caravane?
+{80754}{80797}Là-bas, sur la hauteur.
+{80943}{80988}C'est mon coin préféré.
+{81108}{81198}Souvent le soir, quand Manny dormait,|je venais m'asseoir dehors.
+{81202}{81239}Je ne peux pas rester enfermée.
+{81242}{81312}Je ne peux pas souffrir d'être enfermée.
+{81389}{81459}Je me sens seule. Affreusement seule.
+{81482}{81572}Jamais je ne serais allée dans ce bar|si ce n'était pour cette raison.
+{81571}{81663}Cependant il vaudrait mieux|vous y habituer à rester un peu seule.
+{81672}{81724}Ils pourraient ne pas le libérer?
+{81726}{81801}Ça va dépendre des jurés.|On ne sait jamais avec eux.
+{81804}{81864}Eh bien ce serait une façon d'en finir.
+{81880}{81920}Non, je ne le pense pas.
+{81938}{82023}J'y pense quelquefois|mais en réalité je ne le veux pas.
+{82348}{82453}Bonsoir mon trésor. Tu t'ennuyais|de moi? Oui, tu t'ennuyais de moi.
+{82531}{82626}Vous voulez entrer?|Vous pouvez si vous voulez, vous savez.
+{82674}{82719}Non, merci Laura.
+{82732}{82812}Je suis navré de vous avoir empêchée|de vous amuser.
+{82861}{82926}- Bonne nuit.|- Bonne nuit.
+{83606}{83659}Oyez, oyez, oyez.
+{83662}{83767}La session de la cour d'accusation|du comté de Iron Cliffs est ouverte.
+{83787}{83829}Vous pouvez vous asseoir.
+{83961}{84044}Pour ceux qui ne me connaissent pas|je m'appelle Weaver.
+{84060}{84122}Je préside à titre intérimaire
+{84124}{84224}en attendant que votre bon juge Maitland|soit remis d'une grave maladie.
+{84232}{84309}Il est inutile, je pense,|d'insister longuement sur mes méthodes.
+{84311}{84374}Un juge est semblable à un autre juge.
+{84377}{84467}La seule différence réside peut-être|dans leurs capacités digestives
+{84470}{84550}et dans leur propension|plus ou moins marquée à s'endormir.
+{84551}{84619}Pour ma part|je possède un estomac d'autruche
+{84632}{84707}et s'il m'arrive de m'abandonner|à la somnolence vous verrez
+{84709}{84754}qu'on me réveille sans peine,
+{84757}{84842}en particulier si je suis secoué|par l'éloquence
+{84844}{84894}d'un bon avocat.
+{84923}{84988}Nous allons prendre le rôle criminel.
+{84990}{85077}Affaire numéro un: Le ministère public|contre Clarence Madigan.
+{85090}{85155}Violation de domicile de nuit|avec effraction.
+{85163}{85233}Que l'inculpé veuille bien|se lever et s'avancer.
+{85235}{85282}C'est moi Votre Honneur.
+{85482}{85582}"Etat de Michigan, cour de Iron Cliffs.|Moi, Mitch Lodwick, avocat général,
+{85585}{85662}"viens devant la cour de Iron Cliffs|et donne à entendre
+{85661}{85786}"que Clarence Madigan, alias 'Madigan la|Barrique' et 'Madigan les Grandes Pinces',
+{85790}{85845}"a pénétré avec effraction|chez Casper Katz
+{85849}{85939}"où il a commis le crime de vol qualifié."
+{85951}{86009}Est-ce que M.Madigan a un avocat?
+{86011}{86106}Non. Il faut être un nabab|pour s'en offrir un au jour d'aujourd'hui.
+{86109}{86199}Si vous êtes économiquement faible,|mon devoir est d'en désigner un d'office
+{86204}{86236}pour vous défendre.
+{86237}{86359}Ça vaut pas la peine. J'ai fauché le whisky.|C'est moi, y a pas à tortiller.
+{86366}{86426}Il a emporté une pleine caisse de whisky.
+{86430}{86468}Avez-vous vendu ce whisky?
+{86469}{86504}C'est moi qui l'ai sifflé.
+{86507}{86550}Entièrement. Sans effort.
+{86553}{86640}Je vais devoir vous infliger|une punition pour ce crime.
+{86645}{86680}Ça en valait le coup.
+{86683}{86783}Je prends acte que vous plaidez coupable.|Le jugement sera prononcé plus tard.
+{86785}{86868}- Vous pouvez regagner votre place.|- Merci Votre Honneur.
+{86912}{86952}Affaire numéro deux:
+{86973}{87073}Le ministère public contre Frederick|Manion. Inculpation: Meurtre.
+{87083}{87193}Avocat de la défense. Les formalités|de comparution sont déjà dans le dossier.
+{87197}{87262}Lequel de ces hommes est votre client|Me Biegler?
+{87264}{87297}Aucun de ces hommes.
+{87298}{87371}Monsieur le shérif,|voulez-vous introduire le prisonnier?
+{87383}{87448}Je ne peux malheureusement pas|Votre Honneur.
+{87476}{87551}Pourrait-on m'expliquer?|Je ne suis pas voyant extralucide.
+{87555}{87652}L'inculpé a été conduit à Détroit|pour être examiné par un aliéniste.
+{87656}{87703}Est-ce qu'on aurait pas dû en référer à la cour
+{87704}{87779}avant de laisser l'inculpé|s'absenter de la juridiction?
+{87783}{87848}Nous avons affaire à l'armée|dans ce procès.
+{87850}{87928}C'était la seule date pour la visite|d'un de ses psychiatres.
+{87926}{87981}La cour n'était pas en session,|il était urgent
+{87982}{88042}de soumettre l'inculpé à cet examen.
+{88045}{88102}Qu'est-ce que le ministère public en dit?
+{88104}{88154}Ça a été fait avec mon accord|Votre Honneur.
+{88157}{88227}Je savais que dans le Michigan|les mœurs juridiques
+{88227}{88267}étaient particulières.
+{88270}{88360}Si c'est la coutume de laisser un inculpé|d'un meurtre du premier degré
+{88363}{88456}villégiaturer à sa guise,|il est peut-être malséant à un intrus
+{88457}{88572}de faire remarquer que la loi n'a prévu|nulle part des dispositions aussi libérales.
+{88579}{88692}L'inculpé est sous la garde d'un shérif|adjoint qui le ramènera ici cet après-midi.
+{88692}{88782}Nous procéderons à la mise en accusation|quand il sera de retour.
+{88788}{88870}Pour le bon ordre, pouvez-vous|m'indiquer ce qu'il compte plaider?
+{88871}{88951}Mon client renoncera|à la lecture du rapport et restera muet.
+{88953}{89008}Donc procédure de non culpabilité.
+{89010}{89105}L'affaire Frederick Manion sera|la première à venir au rôle de l'audience.
+{89379}{89407}Tâchez de faire vite.
+{89411}{89496}Si quelqu'un va dire au juge|que le prisonnier se balade dans la gare
+{89497}{89532}je me ferai passer un savon.
+{89536}{89618}Vous en faites pas, j'en ai pour une minute.|Venez par ici.
+{89691}{89744}Alors, qu'est-ce que ça a donné?
+{89763}{89798}J'étais temporairement dément.
+{89799}{89841}- Il vous a dit ça?|- Oui.
+{89852}{89967}Il m'a dit qu'il vous écrirait une lettre mais|j'ai noté des choses pour mon compte.
+{89969}{90022}- Ce médecin s'appelle Smith.|- Smith?
+{90025}{90127}Anatole Ludwig Smith|ou Ludwig von Smith, peut-être.
+{90130}{90207}- Un nom comme ça impressionnerait.|- Tout bêtement Matthew Smith.
+{90209}{90257}Il a dit que quand j'ai tué Quill,
+{90260}{90330}je me trouvais en proie|à des "réactions dissociées".
+{90332}{90414}Des réactions dissociées.|C'est bon ça, hein Parnell?
+{90423}{90460}Comment vous traduisez ça?
+{90463}{90568}Ça veut dire que j'ai eu|"l'impulsion irrésistible" de tuer Quill.
+{90639}{90676}Ça doit aller, non?
+{90677}{90724}Mais qu'est-ce qu'il a dit de votre aptitude
+{90727}{90787}à distinguer le bien du mal|quand vous avez tiré?
+{90789}{90869}Je crois qu'il n'en a pas parlé.|C'est important?
+{90888}{90970}Il vaut mieux ne pas faire attendre|le shérif. Allez-vous-en.
+{91408}{91513}On a déjà vu une cour accepter l'impulsion|irrésistible en tant qu'excuse légale?
+{91516}{91593}Non. Il vaut peut-être mieux plaider|la légitime défense.
+{91597}{91677}C'est là que Mitch Lodwick pourra|nous tourner en ridicule.
+{91679}{91714}Quelle saloperie ces sodas.
+{91718}{91775}- Tenez, une cacahouète.|- Non, merci.
+{91792}{91837}Demain c'est samedi.
+{91847}{91907}Il nous reste juste le week-end|avant l'audience.
+{91909}{91949}On commence quand commençons à travailler?
+{91952}{92007}Demain matin. Aux aurores.
+{93340}{93395}- Paulo!|- Non, écoutez ça Parnell.
+{93400}{93450}Non, laissez ça. Cherchez-moi:
+{93479}{93604}"Ministère public contre Durfee,|Michigan, 486, année 1886."
+{93607}{93682}C'est ça.|J'étais tombé dessus, 1886. Ecoutez.
+{93690}{93760}"Le critère du bien et du mal,|quoique peu scientifique,
+{93762}{93842}"est reconnu par de nombreux états,|mais..." Retenez le "mais".
+{93846}{93918}"Mais le fait qu'une personne,|accusée d'un crime,
+{93919}{93984}"était capable de comprendre la nature
+{93983}{94033}"et les conséquences de son acte
+{94036}{94119}"et de juger qu'il était mauvais,|peut néanmoins..."
+{94120}{94185}"Néanmoins."|Cher et précieux "néanmoins".
+{94189}{94304}"Néanmoins, si elle s'est trouvée|contrainte d'exécuter cet acte en proie
+{94322}{94394}"à une impulsion|qu'elle était impuissante à contrôler,
+{94395}{94458}"être dispensée|de la peine légalement encourue."
+{94457}{94545}La cour suprême du Michigan|admet l'impulsion irrésistible.
+{94548}{94588}Nous avons un précédent.
+{94589}{94641}Je crois que nous tenons le bon bout.
+{94644}{94749}Ce vieux Durfee, 1886. C'est pas vrai?|Passez-moi un bloc.
+{94784}{94874}Je serais prêt à admettre que cette|limonade a presque un goût de whisky.
+{94874}{94957}Ne vous soûlez pas.|On a un jury à convaincre
+{94963}{95035}que notre client a été poussé|par une impulsion irrésistible.
+{95038}{95071}C'est pas gagné.
+{95098}{95153}Mesdames et messieurs les jurés,
+{95162}{95250}avant d'aller plus loin il est nécessaire|que je m'assure que vous avez
+{95253}{95333}les qualités requises pour être jurés.
+{95349}{95407}Rappelez-vous|que vous avez prêté serment.
+{95410}{95460}Etes-vous tous citoyens américains?
+{95467}{95544}Je vous prierais de lever la main|si vous ne l'êtes pas.
+{95841}{95958}Y a-t-il parmi vous des juges de paix ou|des magistrats chargés d'appliquer la loi?
+{95968}{95993}Non.
+{96020}{96135}L'un de vous est-il lié par le sang ou par le|mariage à un agent de la force publique?
+{96146}{96176}Non.
+{96182}{96277}C'est tout pour la capacité générale.|Pour cette cause en particulier.
+{96279}{96392}L'un de vous a-t-il quelque affaire pendante|avec l'avocat général, Mitch Lodwick?
+{96394}{96424}Non.
+{96433}{96553}L'un de vous a-t-il quelque affaire pendante|avec Paul Biegler, avocat de la défense?
+{96561}{96591}Non.
+{96601}{96649}Quelqu'un est-il en relation avec l'inculpé
+{96652}{96714}qui est assis à la gauche de M.Biegler?
+{96719}{96816}Ce type est du bureau du procureur|général. Je l'ai vu à l'œuvre. Méfiez-vous.
+{96816}{96866}Mme Manion, épouse de l'inculpé,|levez-vous.
+{96868}{96943}- L'un de vous connaît-il Mme Manion?|- Non.
+{96946}{97014}Merci Mme Manion.|Vous pouvez vous rasseoir.
+{97040}{97097}La défense peut récuser le jury|pour la cause.
+{97097}{97217}Avant de passer aux récusations, puis-je|me permettre de présenter M.Dancer?
+{97229}{97304}M.Dancer est adjoint|au procureur général de Lansing.
+{97309}{97371}En raison de la nature particulière|de l'affaire,
+{97373}{97471}j'ai demandé au procureur général|d'envoyer M.Dancer afin de m'assister.
+{97476}{97531}Votre réputation vous précède M.Dancer.
+{97533}{97643}- Je me félicite de vous avoir à ma cour.|- J'en tirerai de précieux enseignements.
+{97664}{97781}L'un des membres du jury a-t-il une affaire|pendante devant le parquet du procureur?
+{97785}{97823}Non.
+{97845}{97915}Je tiens à m'excuser|des remarques péjoratives
+{97917}{97979}que j'ai faites|sur la péninsule et ses coutumes.
+{97982}{98102}J'ai rarement vu un jury se constituer et prêter|serment en moins d'une demi-journée.
+{98114}{98186}Vous avez conquis mon cœur|de la manière la plus complète.
+{98188}{98268}M.Dancer, vous avez demandé le renvoi.|Pour quel motif?
+{98272}{98337}Ce n'est qu'une suggestion|que je voudrais faire.
+{98340}{98372}Je vous en prie.
+{98373}{98488}Puisque la défense invoque la démence, le|ministère public fait appel à un psychiatre.
+{98493}{98603}Selon le code, nous avons le droit|de faire procéder à une contre-expertise.
+{98603}{98660}Etes-vous familiarisé avec cette loi?
+{98684}{98711}Modérément.
+{98716}{98784}Vous retarderez les choses|avec une demande officielle,
+{98786}{98863}alors pourquoi|on ne s'entendrait pas
+{98864}{98932}pour demander à Son Honneur|une remise d'un ou deux jours,
+{98934}{99029}le temps que l'accusé soit examiné.|Les deux parties gagneraient du temps.
+{99029}{99074}- N'est-ce pas?|- Oui.
+{99078}{99183}Mais si malgré tout il vous plaisait|d'introduire cette demande officielle,
+{99198}{99290}un peu tardive, c'est certain,|et qu'il plaise à Son Honneur de la recevoir,
+{99293}{99410}alors que le jury sache que l'accusation|fait cas de notre thèse de la démence.
+{99415}{99478}Il n'y a pas nécessité|à ce que l'accusé soit examiné.
+{99481}{99563}- Je ne suivais que la procédure habituelle.|- Je suis pour.
+{99577}{99629}Voulez-vous introduire la demande?
+{99634}{99679}- Oui...|- Ce n'est pas nécessaire.
+{99677}{99719}Ce n'est pas nécessaire.
+{99722}{99825}L'escarmouche est terminée. Si nous|nous engagions sur le champ de bataille?
+{99900}{99990}Le cadavre de Quill présente|cinq blessures par arme à feu.
+{100005}{100075}Une des balles a traversé le cœur.
+{100077}{100157}A mon avis|la mort a été presque instantanée,
+{100162}{100214}et causée directement par cette blessure.
+{100216}{100289}Dr Raschid,|je peux avoir votre rapport détaillé?
+{100288}{100318}Certainement.
+{100320}{100410}Je demande que ce rapport soit marqué|"Pièce à conviction numéro 1."
+{100413}{100458}Il est accepté pour tel.
+{100468}{100543}La partie adverse a reçu|une copie du rapport.
+{100547}{100595}La défense peut interroger le témoin.
+{100598}{100713}Votre but primitif était de déterminer|la cause de la mort, est-ce juste?
+{100715}{100743}Oui.
+{100746}{100793}Et pourtant je lis dans ce rapport
+{100791}{100884}que vous avez essayé d'établir|si la spermatogenèse se produisait
+{100887}{100940}dans les organes du décédé à la mort.
+{100943}{100975}Opposition Votre Honneur!
+{100979}{101054}Le parquet a cité le témoin|pour donner la cause de la mort.
+{101055}{101123}C'est l'ensemble du rapport|qui figure au dossier
+{101125}{101195}et ce rapport donne des informations|sur la spermatogenèse.
+{101197}{101277}Objection rejetée.|Le témoin peut répondre à la question.
+{101291}{101359}Oui, j'ai fait cet examen sur le cadavre.
+{101362}{101437}Voulez-vous dire à la cour|ce qu'il a laissé apparaître?
+{101439}{101514}La spermatogenèse se produisait|à l'époque de la mort.
+{101515}{101600}En d'autres termes, le défunt,|juste avant sa mort, n'était pas stérile
+{101601}{101649}- et pouvait procréer?|- C'est exact.
+{101653}{101755}Si une femme dit qu'elle a eu des relations|avec un homme déterminé,
+{101777}{101872}dont la fertilité soit prouvée et bien qu'on|n'en voit chez la femme aucune trace,
+{101875}{101933}un avocat,|en l'occurrence un avocat général,
+{101935}{102015}est-il fondé à en tirer la conclusion|que la femme a menti?
+{102018}{102045}Votre Honneur,
+{102051}{102126}je m'oppose au genre de questions|qui est posé ici.
+{102129}{102242}Il ne nous intéresse aucunement de savoir|si des relations intimes ont pu s'établir.
+{102242}{102322}Etant donné qu'un examen|de la spermatogenèse a été pratiqué,
+{102326}{102374}nous avons le droit de savoir pourquoi.
+{102377}{102422}Objection rejetée. Vous pouvez répondre.
+{102422}{102487}Oui, l'accusation pourrait le prétendre.
+{102492}{102572}Bien que ce ne soit pas une preuve|qu'elle ait menti.
+{102578}{102603}Pourquoi?
+{102607}{102692}Plusieurs raisons peuvent faire|que le test pratiqué ait été négatif.
+{102693}{102758}D'abord l'usage d'un anti-conceptionnel,
+{102766}{102856}ou il peut ne pas y avoir eu|accomplissement de la part de l'homme.
+{102863}{102923}A l'autopsie,|vous a-t-on demandé de déterminer
+{102925}{102988}si le défunt avait eu ou non|un orgasme sexuel
+{102990}{103045}- peu avant sa mort?|- Non monsieur.
+{103048}{103113}- Auriez-vous pu le faire?|- Certainement.
+{103132}{103202}Ainsi on vous a uniquement demandé|de faire les examens
+{103204}{103279}qui pouvaient appuyer l'accusation|et pas la défense?
+{103280}{103315}Je fais opposition.
+{103328}{103368}C'est une question polémique.
+{103371}{103479}L'avocat semble suspecter des intentions|des représentants du ministère public.
+{103477}{103555}Vous devez admettre|que votre question est irrecevable.
+{103558}{103623}Je retire ma question|et je vous fais mes excuses.
+{103625}{103680}La question et sa réponse sont nulles,
+{103683}{103768}et le jury voudra bien ne faire état|ni de l'une ni de l'autre.
+{103793}{103826}Je n'ai aucune autre question.
+{103826}{103921}L'accusation non plus.|J'appelle le témoin Lionel Burke.
+{103942}{104000}Le témoin, avancez s'il vous plaît.
+{104088}{104170}Comment on force le jury|à oublier ce qu'il a entendu?
+{104189}{104239}On ne le force pas.
+{104259}{104289}Justement.
+{104314}{104374}...toute la vérité, rien que la vérité?|Dites je le jure.
+{104376}{104403}Je le jure.
+{104445}{104500}Voulez-vous indiquer votre profession?
+{104503}{104543}Je suis photographe.
+{104548}{104605}Avez-vous été appelé par la police
+{104609}{104699}pour prendre des photographies|du corps du défunt, Bernard Quill,
+{104700}{104773}avant et après qu'il ait été enlevé|du lieu où il est mort?
+{104776}{104804}Parfaitement.
+{104803}{104878}Est-ce que ces photographies|ont été prises par vous?
+{104986}{105018}Oui.
+{105024}{105071}Je demande|de marquer ces photographies:
+{105074}{105144}"Pièces à conviction 2A à 2D",|pour mémoire.
+{105150}{105233}Les photographies sont|à la disposition de la défense,
+{105234}{105306}et je demande|qu'elles soient admises comme indice.
+{105309}{105347}Pas de questions, pas d'objections.
+{105347}{105442}- Il a pris des photos de moi aussi.|- Une minute M.Burke.
+{105519}{105592}Ces photographies admises au dossier:
+{105594}{105681}Sont-elles les seules qu'on vous ait|demandé de prendre ce soir-là?
+{105683}{105713}Non.
+{105719}{105784}Je suppose que les autres|n'étaient pas réussies?
+{105786}{105833}Mes photos sont toujours réussies.
+{105836}{105911}Je vous demande pardon.
+{105915}{105972}Avez-vous donné|ces autres photos à la police?
+{105975}{106010}Oui, j'ai tout donné.
+{106013}{106041}Qu'est-ce qu'elles représentaient?
+{106043}{106131}Est-ce qu'elles étaient en dehors du sujet,|des vues de la lune peut-être?
+{106133}{106198}Ou bien un ours brun|fouillant le dépôt d'ordures?
+{106200}{106298}Je fais opposition. Je ne vois pas en quoi|ces photographies seraient recevables.
+{106299}{106354}Les photographies ont été déposées|pour montrer
+{106353}{106413}que le défunt est mort de mort violente.
+{106419}{106506}Il me semble que toute photographie|ayant trait à l'affaire est recevable.
+{106507}{106567}Le point est juste. Continuez.
+{106572}{106639}Que représentaient|les autres photographies?
+{106663}{106703}La femme du lieutenant Manion.
+{106706}{106798}Les photographies montraient l'état|de Mme Manion après la mort de Quill?
+{106800}{106870}- Oui.|- Son état n'intéresse pas la cour.
+{106877}{106962}Rien ne permet de relier|son apparence à l'inculpation de meurtre.
+{106963}{107023}- Accepté.|- Excusez-moi Votre Honneur.
+{107025}{107103}Je voulais m'assurer que l'accusation|ne retenait pas des pièces.
+{107106}{107139}En voilà assez!
+{107141}{107216}Je m'insurge contre|les attaques persistantes de la défense
+{107220}{107275}à propos des intentions de l'accusation.
+{107275}{107385}Le jury ne tiendra pas compte des|remarques que vient de faire la défense.
+{107394}{107499}Il n'y a aucune raison de supposer que|le ministère public n'a pas agi de bonne foi.
+{107500}{107573}Je fais toutes mes excuses|au ministère public et à la cour.

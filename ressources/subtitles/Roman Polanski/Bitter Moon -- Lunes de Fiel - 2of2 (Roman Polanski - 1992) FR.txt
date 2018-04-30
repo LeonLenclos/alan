@@ -1,0 +1,510 @@
+{1}{26}Je veux t'épouser.
+{31}{76}Te donner des enfants.
+{79}{124}Te donner le reste de ma vie.
+{129}{189}La mienne me suffit.
+{194}{224}Mets-toi ça dans la tête.
+{276}{321}Qu'est-ce que j'ai fait de mal ?
+{340}{390}Qu'est-ce que je t'ai fait ?
+{424}{466}Dis-le-moi !
+{496}{609}Même un criminel a le droit|de savoir ce qu'on lui reproche.
+{723}{818}Tu n'as rien fait.|Tu existes. C'est tout.
+{1126}{1151}J'ai compris.
+{1610}{1638}Me manquait-elle ?
+{1658}{1693}Bien sûr.
+{1698}{1798}Mais j'éprouvais|un incroyable sentiment de liberté.
+{1803}{1860}L'avenir éclatait de promesses,
+{1866}{1936}peuplé de mille images séduisantes,
+{1968}{2020}pour la plupart féminines.
+{2373}{2403}C'est moi.
+{2470}{2493}Je suis là.
+{2512}{2547}J'ai peur.
+{2573}{2618}Je ne vivrai pas sans toi.
+{2623}{2653}Il le faut bien.
+{2658}{2688}Je ne veux pas.
+{2745}{2818}On a déjà fait le tour de la question.
+{2844}{2909}Sors, amuse-toi.
+{2925}{2978}On est allé trop loin, c'est tout.
+{2990}{3075}Bientôt tu me remercieras|d'avoir pris l'initiative.
+{3295}{3330}Jouait-elle la comédie ?
+{3348}{3368}Va savoir !
+{3393}{3455}J'appelai Cindy, sans résultat.
+{3489}{3579}Je passai la journée à m'inquiéter|et la nuit à boire.
+{4107}{4139}Je t'attendais.
+{4144}{4199}Je vois, mais pourquoi ?
+{4204}{4224}Tu le sais.
+{4229}{4277}Je suis crevé, je me couche.
+{4282}{4304}Attends !
+{4328}{4343}Lâche-moi
+{4348}{4393}J'ai quelque chose à te dire.
+{4397}{4432}On s'est tout dit.
+{4442}{4502}Tu rends les choses plus difficiles.
+{4507}{4562}Il faut que tu m'écoutes.
+{4569}{4614}Ecoute-moi, je t'en prie.
+{4857}{4889}Bon, rentrons.
+{5618}{5646}Je t'écoute.
+{5673}{5748}C'est vrai :|je ne peux pas vivre sans toi.
+{5759}{5802}Si c'est ça...
+{5807}{5842}Ne me jette pas dehors.
+{5847}{5889}Donne-moi une dernière chance.
+{5897}{5984}Je suis prête à tout accepter.
+{5991}{6071}Je supporterai tout pour te voir.
+{6147}{6212}Crie, bats-moi.
+{6217}{6259}Couche avec d'autres.
+{6263}{6336}Ce que tu veux, mais s'il te plaît...
+{6376}{6416}Ne me jette pas.
+{6457}{6514}Même si tu ne m'aimes plus.
+{6527}{6584}Garde-moi par pitié.
+{6618}{6693}Je suis prête à tout|pour rester avec toi.
+{6819}{6849}Je t'en supplie.
+{7001}{7058}Le sadisme est en chacun de nous.
+{7071}{7168}Rien ne l'éveille mieux|que d'avoir quelqu'un à sa merci.
+{7198}{7331}Puisqu'elle voulait l'enfer,|je le rendrais si infernal
+{7336}{7381}qu'elle renoncerait d'elle-même.
+{7487}{7525}C'est si bon...
+{7561}{7608}Oh oui Cindy
+{7693}{7761}Non Minnie - heu - Mimi
+{8800}{8830}J'en suis !
+{8847}{8880}Pourquoi pas ?
+{8907}{8965}Trouve deux nanas.
+{8998}{9023}Qui ?
+{9045}{9130}Tu parles ! C'est le meilleur coup|de la rive gauche.
+{9235}{9300}D'accord, rendez-vous là-bas.
+{9375}{9400}Le dîner.
+{9417}{9445}Je sors.
+{9457}{9477}Ce soir ?
+{9482}{9517}C'est quoi ce soir ?
+{9522}{9552}Ta fête.
+{9595}{9672}Thanksgiving.|C'était une surprise.
+{9707}{9762}Bon, voyons ça.
+{10015}{10047}Qu'est-ce que c'est ?
+{10062}{10152}Une dinde.|Je l'ai faite pour toi.
+{10215}{10255}Carbonisée, oui.
+{10316}{10359}J'y vais.
+{10387}{10427}Tu n'y goûtes même pas ?
+{10445}{10472}Tu plaisantes.
+{10487}{10527}Je respecte mon dentiste.
+{10545}{10632}Oublie la cuisine, chacun son truc.
+{10649}{10704}Au fait, et la danse ?
+{10736}{10786}La danse vient du cœur.
+{10839}{10876}Mon cœur est cassé.
+{11053}{11093}Je l'atteignais enfin.
+{11124}{11219}J'avais accompli l'impossible :|elle enlaidissait,
+{11223}{11290}dépérissait,|se couvrait de rougeurs,
+{11308}{11345}de boutons.
+{11503}{11560}On admirait ta nouvelle coiffure.
+{11613}{11678}Suzan trouve que ça te va.
+{11695}{11763}Ça me rappelle quelque chose.
+{11794}{11826}J'y suis : Rita.
+{11933}{11985}Rita, la chienne du voisin.
+{12073}{12163}Attends. On dirait un bouton.
+{12168}{12193}C'en est un.
+{12208}{12250}Et ton nez brille.
+{12268}{12353}Même moi je me maquillerais mieux.
+{13102}{13152}Tiens, c'est carnaval !
+{13280}{13330}Elle était si vulnérable.
+{13340}{13405}Ça en devenait trop facile.
+{13667}{13717}Pas maintenant, bon sang !
+{13734}{13774}J'essaye de travailler.
+{13852}{13929}Je t'ai demandé|de faire le ménage ?
+{13948}{14008}Alors arrête|de jouer les martyres.
+{14029}{14119}Et enlève ce truc,|ça te rend encore plus moche.
+{14149}{14249}Tu te laisses aller,|j'ai honte de sortir avec toi.
+{14459}{14489}Quoi encore ?
+{14593}{14641}J'attends...
+{14832}{14859}Tu attends ?
+{14877}{14904}Un enfant.
+{15179}{15217}Je vais avoir un enfant.
+{15442}{15469}Depuis quand tu le sais ?
+{15474}{15524}Depuis hier.
+{15528}{15578}Le médecin dit que ça fait deux mois.
+{15784}{15814}Qu'est-ce que tu comptes faire ?
+{15928}{15958}Faire ?
+{16018}{16043}Regarde-moi
+{16082}{16119}J'ai l'air d'un papa ?
+{16166}{16233}Tu nous vois élever un enfant ici ?
+{16288}{16371}Je frise la quarantaine|et je n'ai rien publié.
+{16398}{16453}Le monde m'ignore.
+{16526}{16633}Tous les jours|je pense à me foutre en l'air.
+{17008}{17088}Tu collerais un père comme ça|à un enfant ?
+{17136}{17166}Franchement.
+{17868}{17946}Il y a eu des complications|mais je ne m'attendais pas
+{17951}{18033}à retrouver un gisant de marbre.
+{18055}{18157}Un instant je faillis faiblir.
+{18197}{18227}Tu es venu.
+{18238}{18273}Bien sûr.
+{18340}{18377}J'ai apporté des fleurs.
+{18591}{18651}Tu es là.|Rien d'autre compte.
+{18916}{18988}Quand tu seras rétablie|on partira en voyage.
+{18997}{19030}Rien que nous deux.
+{19100}{19147}Très, très loin.
+{19355}{19387}Merde, c'est plein.
+{19440}{19467}Tu es pâle.
+{19485}{19517}Tu te sens bien ?
+{19954}{20004}Regarde, c'est là !
+{20032}{20085}Voilà ce dont tu as besoin.
+{20097}{20167}Je te vois te prélasser|sous un palmier
+{20171}{20229}un grand verre à la main.
+{20279}{20349}Je ne tiendrai jamais tout le voyage !
+{20355}{20407}Je vais essayer de le caser.
+{20819}{20876}Vos bagages ne peuvent|voyager sans vous
+{20881}{20964}Non, je n'ai que ça.
+{21046}{21091}Votre billet s'il vous plaît.
+{21379}{21424}Je demande au commandant.
+{22588}{22675}Je l'imaginais regardant|cette lune superbe.
+{22689}{22722}Je la regardais aussi
+{22749}{22799}mais bien différemment.
+{22822}{22894}Car les choses nous frappent|selon notre humeur.
+{22918}{22990}Elle devait lui sembler empoisonnée.
+{23007}{23087}Pour moi elle avait|la suavité d'une pêche.
+{23127}{23169}Je me demande...
+{23182}{23217}Je crois que vous inventez.
+{23223}{23268}J'aimerais bien.
+{23272}{23339}Mon imagination n'est pas si fertile.
+{23359}{23412}On m'aurait déjà publié.
+{23467}{23547}Si la moitié seulement était vraie,|la honte vous ferait taire.
+{23632}{23662}Décidément...
+{23697}{23759}Vous ne me connaissez pas encore.
+{24102}{24137}Toujours fâché ?
+{24284}{24332}Je ne sais pas... je m'y perds.
+{24414}{24464}Je voulais que vous écoutiez.
+{24561}{24613}J'aurais préféré l'entendre de vous.
+{24637}{24727}Je lui laisse les mots,|c'est tout ce qui lui reste.
+{25443}{25533}Quand pouvons-nous être seuls ?
+{25553}{25598}Vraiment seuls ensemble ?
+{25621}{25688}Ecoutez d'abord la fin du récit.
+{25727}{25774}Après on verra.
+{27010}{27037}Ah, tu étais là.
+{27042}{27075}Tu as raté le dîner.
+{27090}{27155}J'avais oublié l'heure, pardon.
+{27161}{27211}Dado m'a tenu compagnie.
+{27238}{27268}Alors ce bridge ?
+{27273}{27308}Un désastre
+{27335}{27462}Je n'avais jamais eu|d'aussi mauvaises cartes.
+{27468}{27528}Malheureux au jeu,|heureux en amour.
+{27553}{27588}Vous prenez un verre ?
+{27606}{27656}Merci, une autre fois.
+{27672}{27700}Tu viens chérie ?
+{27925}{28015}Gluant ce type.|Il veut te sauter.
+{28027}{28060}Tu peux parler.
+{28085}{28112}Comment ça ?
+{28122}{28225}Je ne suis pas idiote.|Ton affreux Américain...
+{28230}{28285}Tu n'y vas pas pour ses beaux yeux.
+{28290}{28322}Je ne te suis pas
+{28332}{28405}C'est sa femme que tu suis -|elle t'excite.
+{28412}{28480}Quoi ? Je la plains, c'est tout.
+{28510}{28570}Oui, tu as la langue|qui traîne par terre.
+{28610}{28645}Méfie-toi.
+{28670}{28727}Tout ce que tu feras,|je le ferai en mieux.
+{29292}{29350}Pourquoi tu ne prends pas|de Dramamine ?
+{29355}{29420}Je te l'ai dit, ça m'assomme.
+{29440}{29500}Mieux vaut dormir que souffrir.
+{29526}{29621}... nous vous attendons|au bal masqué de ce soir
+{29627}{29692}pour un réveillon dansant
+{29697}{29762}avec Danny Garcy et ses rythmes.
+{29767}{29852}Les stewards|vous fourniront des cotillons.
+{29856}{29896}Des cotillons, pitié.
+{30070}{30100}Prends-en deux.
+{30256}{30311}T'aimes bien me donner des pilules.
+{30337}{30410}D'un genre ou d'un autre.|A quoi bon ?
+{30429}{30466}De quoi tu parles-tu ?
+{30471}{30524}La pilule, la pilule !
+{30551}{30624}Pour ce qu'on le fait aujourd'hui.
+{30629}{30666}Oh, je t'en prie.
+{30671}{30721}Que cherche-t-on ici.
+{30726}{30761}qu'on n'a pas chez nous ?
+{30794}{30841}Sept ans et où on en est ?
+{30854}{30974}Au lieu d'aller en Inde|on aurait dû passer six mois au lit !
+{30986}{31029}Je ne te suis pas.
+{31034}{31126}Je sais : tu es ailleurs|et je sais où. C'est une drogue !
+{31134}{31179}Tu commences à m'ennuyer.
+{31201}{31304}Puisque cet infirme vicelard|et son épouse t'obsèdent,
+{31309}{31364}rejoins-les et fiche-moi la paix !
+{31368}{31433}Si c'est ce que tu veux, j'y vais !
+{31789}{31864}Mimi n'était plus|qu'un souvenir lointain.
+{31871}{31911}Un chapitre clos.
+{31926}{32001}J'étais de nouveau libre|et d'autant plus avide.
+{32060}{32128}Je ne l'avais pas quittée|pour une femme.
+{32138}{32195}Je l'avais échangée contre toutes.
+{32238}{32303}Je résolus de rattraper|le temps perdu.
+{32493}{32555}Fini les attachements.
+{32560}{32680}Je me vautrais dans les femmes|comme un cochon dans la luzerne.
+{32684}{32814}Je sautais sur tout ce qui s'offrait|puis je passais mon chemin.
+{32887}{33007}Chaque jour promettait quelque brève|et nouvelle expérience sexuelle.
+{33009}{33039}Brève surtout !
+{33059}{33184}Dans les yeux de chaque femme|je voyais le reflet de la suivante.
+{33657}{33792}Après deux ans de débauche|je cessai de faire semblant d'écrire.
+{33813}{33941}Tel Dracula j'agissais la nuit|et je regagnais mon repaire à l'aube.
+{34476}{34511}La nuit est jeune.
+{34997}{35077}Quelque chose déconne.
+{35198}{35238}J'avais eu de la chance.
+{35261}{35321}Une commotion|et une fracture du fémur
+{35327}{35417}qui m'a transformé en momie|des semaines durant.
+{35433}{35516}Aucune de mes conquêtes|ne prit de mes nouvelles.
+{35853}{35903}Ça alors !
+{35997}{36032}Tu ne t'es pas tuée.
+{36038}{36116}A quoi bon ?|J'étais déjà morte.
+{36121}{36158}Tu as l'air en forme.
+{36163}{36203}Je suis en forme.
+{36243}{36273}Je t'ai apporté ça.
+{36376}{36421}Puisque t'es là, assieds-toi.
+{36526}{36568}Où tu étais passée ?
+{36573}{36631}Tu avais acheté les billets.
+{36682}{36717}Tu y es restée ?
+{36763}{36798}Qu'est-ce que tu t faisais ?
+{36803}{36861}- Je bossais dans un hôtel.|- Serveuse ?
+{36910}{36995}Jusqu'à ce que le directeur|m'engage comme danseuse.
+{37000}{37022}C'est gentil.
+{37027}{37087}Oui, il était très gentil.
+{37101}{37166}Il m'a presque rendu foi|en l'humanité.
+{37171}{37198}Presque ?
+{37203}{37293}Mais je me suis souvenue de toi.
+{37402}{37440}Et ici, qu'est-ce que tu fais ?
+{37446}{37558}Je suis en visite. Je viens voir|si tu as besoin de quelque chose.
+{37582}{37635}Tu sais ce dont j'ai besoin ?
+{37652}{37702}Que tu restes en dehors de ma vie.
+{37722}{37792}Tu n'as rien perdu de ton charme.
+{38212}{38247}Tu te rappelles le manège ?
+{38252}{38305}Si je me rappelle !
+{38310}{38365}Comme d'une séance chez le dentiste.
+{38390}{38425}Doucement !
+{38587}{38657}Connard !|Tu croyais que j'avais oublié ?
+{39022}{39095}Elle est revenue|quand je suis sorti de réanimation
+{39099}{39151}"Il y a une bonne|et une mauvaise nouvelle.
+{39156}{39241}"Tu resteras paralysé|depuis la ceinture".
+{39247}{39285}Bien, dis-je.
+{39290}{39332}Et la bonne nouvelle ?
+{39345}{39402}"C'était la bonne nouvelle.
+{39411}{39524}"La mauvaise, c'est que désormais|je vais m'occuper de toi".
+{39690}{39727}Nous formions un couple.
+{39729}{39774}Elle s'est réinstallée chez moi
+{39779}{39859}et elle s'est occupée de moi|avec un étrange dévouement.
+{39869}{39949}C'était ma cuisinière,|ma gouvernante, ma geôlière
+{39995}{40027}et mon infirmière.
+{40211}{40251}Tu ne pourrais pas...
+{40261}{40356}Ma jambe tremble si tu piques|toujours au même endroit.
+{40399}{40464}Tu vois, ça la fait trembler.
+{40474}{40519}Essaye ailleurs.
+{40524}{40549}Si tu veux.
+{40554}{40604}Non ! La prochaine fois !
+{40609}{40659}Regarde ce que tu me fais faire.
+{40871}{40906}Tu vas t'en resservir ?
+{40935}{40990}Je n'en ai plus d'autre.
+{41116}{41199}L'idée m'effleura|qu'elle m'aimait encore.
+{41209}{41251}Malgré tout.
+{41268}{41373}Pourquoi faire souffrir|quelqu'un qui ne nous est rien ?
+{41401}{41459}Tigre, viens manger.
+{41675}{41703}Et toi ?
+{41708}{41738}Je sors.
+{41824}{41841}Tu n'y as rien mis ?
+{41846}{41874}Comme quoi ?
+{41890}{41960}Je ne sais pas,|des tomates, des champignons.
+{41965}{42015}Tu veux des champignons ?
+{42040}{42078}Ce serait bon.
+{42094}{42144}Va donc les cueillir.
+{42358}{42453}On ne peut pas lui parler.|De la part de qui ?
+{42568}{42630}Non, je suis son infirmière.
+{42645}{42683}On ne peut pas me parler ?
+{42735}{42773}Vous avez appris ?
+{42804}{42844}Oui, très triste.
+{42969}{43074}C'est impossible,|il est totalement diminué.
+{43152}{43184}Je lui dirai.
+{43189}{43232}Je vous en prie. Au revoir.
+{43237}{43259}Qui c'était ?
+{43493}{43561}- Qu'est-ce qu'elle voulait ?|- Je n'en sais rien.
+{43584}{43629}T'aurais pu me la passer.
+{43766}{43798}J'ai entendu.
+{43823}{43941}Je ne vois plus personne,|je ne parle à personne.
+{43947}{43994}Comme si j'étais au cachot.
+{44002}{44029}Ah oui ?
+{44166}{44211}Je sais que je l'ai mérité.
+{44242}{44292}J'ai agi comme un monstre.
+{44302}{44339}Je suis un monstre.
+{44368}{44461}Tu n'as pas le droit de te critiquer,|ça m'est réservé.
+{44483}{44518}Je l'ai bien gagné.
+{44526}{44593}Je promets de ne jamais|te faire de mal.
+{44733}{44811}Toi, me faire du mal ?|Très drôle.
+{44921}{44983}Et ne joue pas avec ton zizi.
+{45001}{45038}Ça servirait à rien.
+{46545}{46580}Dieu merci te voilà.
+{46597}{46625}Je t'ai manqué ?
+{46652}{46705}Autant qu'après|que tu m'aies jetée ?
+{46751}{46798}Je t'en prie, pas de scène.
+{46801}{46826}Pourquoi ?
+{46835}{46902}J'adore les scènes.|J'y ai pris goût.
+{46907}{46957}Je peux plus m'en passer.
+{46987}{47022}C'est quoi ça ?
+{47035}{47077}D'après toi ?
+{47103}{47176}Si tu me laisses toute la nuit
+{47225}{47262}je fais sous moi.
+{47277}{47365}Pauvre Tigre,|on va changer tes couches.
+{47370}{47407}Ce que tu pues !
+{47415}{47470}Pourquoi tu ne m'achèves pas ?
+{47480}{47590}Fais-moi une piqûre,|jette-moi dans l'escalier.
+{47637}{47667}J'allais oublier !
+{47785}{47822}C'est ton anniversaire, non ?
+{47945}{47977}Je ne me rappelais pas.
+{49562}{49625}Elle me privait de contact humain.
+{49629}{49676}Mais elle aimait me sortir.
+{49686}{49766}Elle savait le mal que me causait
+{49771}{49854}la vue des petits plaisirs|àjamais interdits.
+{50094}{50146}Tu aurais peut-être fait un bon père.
+{50164}{50189}Qui sait ?
+{50201}{50254}Tu ne le sauras jamais, c'est sûr.
+{50304}{50381}Ce n'est pas que je ne voulais pas|cet enfant.
+{50389}{50439}Je m'en sentais pas digne.
+{50451}{50494}Toi tu peux en avoir.
+{50504}{50581}Pas de danger.|Je baise tranquille.
+{50598}{50628}Comment ça ?
+{50681}{50739}L'avortement que tu m'as offert
+{50744}{50791}m'a donné une infection.
+{50811}{50899}J'ai été malade à la Martinique.|J'ai failli mourir.
+{50935}{50968}Tu ne me l'as pas dit.
+{50986}{51021}Je te le dis.
+{51051}{51134}Quelle ordure j'étais.|Je me méprise.
+{51149}{51234}Je me hais -|plus que tu me haïras jamais.
+{51240}{51283}Rêve pas !
+{51288}{51348}Jamais personne|te haïra plus que moi.
+{51483}{51515}Pourquoi tu restes ?
+{51538}{51570}Tu le sais pas ?
+{51580}{51628}Parce que tu m'es précieux.
+{51635}{51690}Plus que jamais.
+{51739}{51774}C'était donc ça.
+{51783}{51848}On avait besoin l'un de l'autre.
+{51908}{51938}C'est froid.
+{52013}{52065}L'eau refroidit.
+{52133}{52168}Encore en panne !
+{52183}{52238}J'en parlerai à la concierge.
+{52283}{52313}Te sauve pas.
+{54161}{54181}C'était bon !
+{54186}{54271}Tu croyais que je n'étais bonne|qu'à lever la jambe ?
+{54276}{54331}- Tu le fais très bien|- Mieux que la cuisine ?
+{54336}{54386}Bien sûr... enfin...
+{54426}{54513}Tu danserais mieux|que tu cuisines si tu bossais.
+{54518}{54573}Je ne danserais jamais|aussi bien que toi
+{54578}{54601}Bien sûr que si.
+{54606}{54661}Arrête, tu sais bien|que t'as quelque chose.
+{54666}{54706}Hein Tigre ?
+{54746}{54778}Absolument.
+{54791}{54868}Il adore te voir danser.
+{54880}{54905}Pas vrai ?
+{54943}{54998}Qu'est-ce que t'en dis ?
+{55003}{55043}Mate un peu ça !
+{55068}{55118}T'es dingue
+{55237}{55300}Et il n'est pas pédé - c'est rare.
+{55306}{55341}Ton développé !
+{55530}{55567}Alors Tigre ?
+{55582}{55630}Tu devrais essayer.
+{55658}{55716}Danse un peu pour Oscar.
+{55733}{55773}J'ai trop mangé.
+{55793}{55866}Pauvre chou, il s'amuse si peu.
+{55910}{55950}Aucune distraction.
+{59341}{59424}Je m'étais habitué|à n'être qu'une moitié d'homme.
+{59456}{59564}Mais cette nuit-là|j'ai touché le fond.
+{59579}{59639}Ça a été une manière de catharsis.
+{59659}{59731}Jamais plus nous n'irions aussi loin
+{59736}{59824}dans la passion ni la cruauté|avec quiconque.
+{60233}{60298}Nous étions comme|les survivants d'une catastrophe
+{60304}{60379}si terrible|qu'elle formait entre nous un lien
+{60386}{60456}que nul au monde ne partageait.
+{60955}{61060}La boucle était bouclée.|Notre relation n'évoluerait plus
+{61098}{61208}Le temps a passé|mais je vis dans la terreur
+{61213}{61315}de la perdre au profit|d'un quelconque veinard.
+{61415}{61518}C'est drôle de l'avouer à un homme|qui espère être celui-là.
+{61533}{61568}Ne le niez pas.
+{61578}{61648}La cabine est trop petite|pour deux hypocrites.
+{61740}{61818}Si vous ne voulez plus|boire avec moi, partez.
+{61845}{61878}Tout est dit.
+{62210}{62258}Je crois que|je vous comprends mieux.
+{62273}{62303}Et elle ?
+{62928}{62975}Soyons adultes.
+{63032}{63069}C'est le mot.
+{63110}{63175}Ce que je ferai,|tu le feras en mieux.
+{63180}{63298}Te gêne pas. Tu peux avoir|une aventure avec l'Italien.
+{65986}{66016}Alors, on se lance ?
+{66996}{67046}Je vais chercher un verre.
+{67115}{67170}Vous en voulez un ?
+{67467}{67520}Sacrée prestation !
+{67525}{67602}Pas mal pour un empoté.
+{67611}{67656}J'ai aucune prétention.
+{67661}{67736}Je blaguais,|je ne suis pas un crack non plus !
+{67800}{67850}Visez-moi ce gigolo latin.
+{67994}{68049}Il risque de vous la piquer.
+{68251}{68291}C'est presque l'heure.
+{68304}{68386}Où est votre rose anglaise ?|Elle va tout rater.
+{68391}{68459}Le mal de mer|la cloue sur sa couchette.
+{68477}{68532}Là je suis déçu !
+{68554}{68594}Elle s'est assommée|à la Dramamine.
+{68599}{68714}Dommage, nous espérions boire|le champagne avec vous.
+{68721}{68836}Une petite réunion d'adieu|entre intimes.
+{68871}{68949}S'il vous reste|une chose à faire cette année,
+{68954}{69001}plus que dix secondes.
+{69843}{69878}Aux jours heureux.
+{69884}{69911}C'est ça.
+{69941}{69971}Aux jours heureux.
+{70220}{70280}A votre santé.
+{70291}{70349}Je ne dis pas bonne année.
+{70354}{70406}Pour ceux qui contemplent l'éternité,
+{70410}{70468}une année est semblable à l'autre.
+{70493}{70550}Sans blague. Alors, santé.
+{72887}{72912}Pourquoi ?
+{72974}{73007}Vous pensiez quoi ?
+{73037}{73069}Vous disiez...
+{73105}{73150}Je connais la fin de votre histoire.
+{73154}{73212}Non. Pas encore.
+{73344}{73377}Je suis amoureux de vous.
+{73382}{73449}Voyons, je ne suis qu'un fantasme.
+{73455}{73508}Une diversion|dans l'ennui du voyage.
+{73562}{73599}C'est encore un jeu ?
+{73612}{73659}Ai-je dit le contraire ?
+{73744}{73814}Je suis vraiment amoureux.
+{73824}{73867}Alors tu ne m'auras jamais.
+{73992}{74032}Vous me faites très mal.
+{74049}{74097}Autant que toi à ta femme ?
+{74111}{74158}Elle ne sait rien.
+{74177}{74232}Elle nous regarde.
+{74428}{74456}Tu t'amuses ?
+{74461}{74508}Chérie, c'est merveilleux !
+{74514}{74534}N'est-ce pas ?
+{74539}{74564}Ça va ?
+{74569}{74622}Très bien, grâce à toi.
+{74664}{74737}Prenez vos résolutions de nouvel an.
+{74741}{74793}Tu bois, c'est prudent ?
+{74833}{74866}Je m'en moque.
+{74923}{74963}J'ai envie d'être dangereuse.
+{74968}{75026}C'est ce qu'il faut.
+{75030}{75130}Je savais que votre présence|ajouterait du piment à la soirée.
+{75140}{75177}Charmante attention.
+{75182}{75265}Je n'ai jamais vu mon mari|en action avec une autre.
+{75296}{75316}Oscar m'a fait
+{75321}{75358}réveiller au champagne.
+{75362}{75442}En action...?|Il n'arrivait à rien.
+{75547}{75567}Dommage.
+{77949}{78004}J'aurais mieux fait de miser
+{78024}{78064}sur votre femme.
+{78374}{78444}Soyez content|qu'elles s'entendent si bien.
+{78489}{78541}Mettez un chapeau,
+{78546}{78624}ça ira mieux.|Lancez des serpentins.
+{78796}{78819}Au poil !
+{78824}{78879}C'est le Titanic !
+{79758}{79855}Je sais ce que ça fait.|Je suis un nul moi-même.
+{79874}{79906}Bienvenue au club.
+{79941}{79996}Si vous n'étiez pas infirme...
+{80000}{80073}Vas-y, ça te soulagera.|Je mérite ta haine.
+{80078}{80133}Je suis lamentable.
+{80264}{80384}Pas par là ! Vite !|Il ne te restera plus rien !
+{82214}{82247}Elle est là ?
+{82634}{82739}A-t-on jamais vu une telle|allégorie de grâce et de beauté ?
+{82758}{82840}Deux nymphes après leurs ébats.
+{82914}{82959}Vous avez raté quelque chose.
+{82979}{83112}Fiona a été une révélation,|un tempérament de feu.
+{83159}{83259}Je doute que vous en ayez tiré|tout le parti possible.
+{83369}{83419}Lâche-moi !
+{83634}{83679}Pauvre con.
+{83777}{83844}Tu n'es pas digne de connaître la fin.
+{83909}{83984}Donnez-moi ça.
+{83998}{84061}Vous allez blesser quelqu'un.
+{84066}{84101}Blesser quelqu'un ?
+{84202}{84229}Plus jamais.
+{84408}{84478}On était trop avide.
+{84532}{84562}C'est tout.
+{85547}{85624}Mon papa vous souhaite|une bonne année.
