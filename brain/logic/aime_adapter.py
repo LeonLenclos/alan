@@ -36,14 +36,14 @@ class AimeAdapter(AlanLogicAdapter):
 
 
     def can_process(self, statement):
-        # Process only if the latest statement in the conversation
+        # Process read_only if the latest statement in the conversation
         # contain the relation
         if self.relation in statement.text :
-            if "je" not in re.split("[Aa]ime",statement.text)[0] :
-                if "j'" not in re.split("[Aa]ime",statement.text)[0] :
-                    if "J'" not in re.split("[Aa]ime",statement.text)[0] :
-                        if "Je" not in re.split("[Aa]ime",statement.text)[0] :
-                            return True
+                if "je" not in re.split("[Aa]ime",statement.text)[0] :
+                    if "j'" not in re.split("[Aa]ime",statement.text)[0] :
+                        if "J'" not in re.split("[Aa]ime",statement.text)[0] :
+                            if "Je" not in re.split("[Aa]ime",statement.text)[0] :
+                                return True
         else :
             return False
 
