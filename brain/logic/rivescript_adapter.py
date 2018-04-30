@@ -19,7 +19,7 @@ class RiveScriptAdapter(AlanLogicAdapter):
             raise KeyError('rive_files is a required argument')
 
         # setting interpreter
-        self.interpreter = rivescript.RiveScript()
+        self.interpreter = rivescript.RiveScript(utf8=True)
 
         # loading files
         for f in rive_files:
@@ -42,14 +42,16 @@ class RiveScriptAdapter(AlanLogicAdapter):
     def get(self, statement):
         """take a statment and ask a reply to the interpreter"""
         user = "human"
-        text = remove_punctuation(statement.text)
+        text = statement.text
 
         # set last reply as the real reply
         history = self.interpreter.get_uservar(user, "__history__")
         if type(history) is dict:
             latest_reply = self.chatbot.storage.get_latest_statement()
             if latest_reply:
-                history["reply"][0] = remove_punctuation(latest_reply.text)
+                print("latest_reply " + latest_reply.text)
+                print("history reply 0 " + history["reply"][0])
+                history["reply"][0] = latest_reply.text
         self.interpreter.set_uservar(user, "__history__", history)
 
         # if self.reply is empty, get a reply if not return the last reply
