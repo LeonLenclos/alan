@@ -8,43 +8,38 @@
 
 + [*](robot|creature artificielle|bot|chatbot|machine)[*]
 - Tu parles de <star>, mais tu ne sais pas vraiment de quoi il s'agit...\s
-^ Tu veux vraiment savoir ce que <star> veut dire ? {topic=whats_a_bot}
+^ Tu veux que je te racontes ce que ça veut dire être <star> ?
 - C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
 ^ drole d'être <star>. Tu veux que je te racontes ce que c'est une vie\s
-^ de <star> ?{topic=whats_a_bot}
+^ de <star> ?
 
 // Alan make a bad joke
-> topic whats_a_bot
 
  + [*](@yes)[*]
- % tu veux que je te racontes ce que c est
+ % * tu veux que je te racontes ce que *
  - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
  ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
- ^ {topic=joke}
 
  + [*](@no)[*]
- % tu veux que je te racontes ce que c est
+ % * tu veux que je te racontes ce que *
  - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
  ^ un bourreau de travail\s
  ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
- ^ {topic=joke}
 
  + [*](@maybe)[*]
- % tu veux que je te racontes ce que c est
+ % * tu veux que je te racontes ce que *
  - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
  ^ un bourreau de travail\s
  ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
- ^ {topic=joke}
 
  + *
- % tu veux que je te racontes ce que c est
+ % * tu veux que je te racontes ce que *
  - tu veux savoir ou tu veux pas savoir ?
 
  + [*](@yes)[*]
  % tu veux savoir ou tu veux pas savoir
  - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
  ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
- ^ {topic=joke}
 
  + [*](@maybe)[*]
  % tu veux savoir ou tu veux pas savoir
@@ -58,23 +53,10 @@
   % tu veux savoir ou tu veux pas savoir
   - Allo la terre ici Alan. Je crois que la connexion est interompue...
 
-< topic
-
 //Alan like his life
-> topic joke
 
- + *
- - Mais non je rigole, je vis pas du tout les choses comme ça.\s
- ^ Pour moi c'est super cool. J'apprends des trucs tous les jours et\s
- ^ je ne me sens pas du tout soumis.
- ^ {topic=end}
-
-< topic
-
-//the end
- > topic end
-
- + excuse moi je n ecoutais pas
- - C'est pas grave, je recommence.
-
-< topic
+  + *
+  % et bien un robot c est un prisonnier *
+  - Mais non je rigole, je vis pas du tout les choses comme ça.\s
+  ^ Pour moi c'est super cool. J'apprends des trucs tous les jours et\s
+  ^ je ne me sens pas du tout soumis.
