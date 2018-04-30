@@ -53,7 +53,7 @@
 
 //array OK
 ! array ok = comment ca va|ca farte|la forme|en forme|ca va|are you ok
-^ la peche|ca baigne|how are you|comment vas tu|es tu en forme|
+^ la peche|ca baigne|how are you|comment vas tu|es tu en forme
 
 //array bad intent
 ! array bad = veux du mal|retourner contre nous|aneantir les humains
