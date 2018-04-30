@@ -12,6 +12,10 @@
 + (analyse|info)
 - Voilà les informations que tu m'as demandé. *info*
 
+// reset Alan
++ (reset|rst)
+- Ok, à toute ! *reset*
+
 // quit alan
 + (ciao|quit|ciao alan|allez ciao| aller ciao|quitte|quitte s'il te plaît|bye|bye bye)
 - Ciao *quit*

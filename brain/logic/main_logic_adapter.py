@@ -95,22 +95,21 @@ class MainLogicAdapter(MultiLogicAdapter):
         # timer
         processing_time = int((time.time()-processing_all_start)*1000)
 
-        # log
-        self.chatbot.log('LOGIC: result', True)
-        self.chatbot.log(
-            'response              = "{}"'.format(result.text))
-        self.chatbot.log(
-            'logic adapter         = "{}"'.format(result_adapter.identifier))
-        self.chatbot.log(
-            'confidence            = {}'.format(result.confidence))
-        self.chatbot.log(
-            'total processing time = {}ms'.format(processing_time))
-
+        # Call the process_done methode
+        for adapter in self.get_adapters():
+            adapter.process_done(is_selected=adapter is result_adapter)
 
         try:
-            for adapter in self.get_adapters():
-                adapter.process_done(is_selected=adapter is result_adapter)
-
+            # log
+            self.chatbot.log('LOGIC: result', True)
+            self.chatbot.log(
+                'response              = "{}"'.format(result.text))
+            self.chatbot.log(
+                'logic adapter         = "{}"'.format(result_adapter.identifier))
+            self.chatbot.log(
+                'confidence            = {}'.format(result.confidence))
+            self.chatbot.log(
+                'total processing time = {}ms'.format(processing_time))
 
             # add speaker data
             result.add_extra_data("speaker", "alan")

@@ -226,6 +226,9 @@ class Alan(chatterbot.ChatBot):
                     infos += "NOT PROCESSING"
             infos += "\n---\n"
             print(infos)
+        if command == 'reset':
+            python = sys.executable
+            os.execl(python, python, * sys.argv)
         if command == "music":
             self.musique_generative.play()
 
