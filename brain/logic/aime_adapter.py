@@ -38,7 +38,7 @@ class AimeAdapter(AlanLogicAdapter):
     def can_process(self, statement):
         # Process only if the latest statement in the conversation
         # contain the relation
-        if (re.match("([Aa]ime[s -])", statement.text)) :
+        if (re.search("[Aa]ime[s -]", statement.text)) != None :
             if "vraimen" not in statement.text :
                 if "Vraimen" not in statement.text :
                     if "je" not in re.split("[Aa]ime",statement.text)[0] :
@@ -97,11 +97,11 @@ class AimeAdapter(AlanLogicAdapter):
             if a<0.5:
                 self.chatbot.storage.store_concept_association(concept_A,
                                                             "aime", concept_B)
-                response="Oh oui j'%(rel)s %(B)s. Et toi?"
+                response="Oh oui j'%(rel)s %(B)s, et toi?"
             else:
                 self.chatbot.storage.store_concept_association(concept_A,
                                     self.relation, concept_B, negative=True)
-                response="Pour être franc %(A)s n'%(rel)s pas %(B)s. Et toi?"
+                response="Pour être franc %(A)s n'%(rel)s pas %(B)s, t toi?"
         else:
             confidence=0
             response="Pas de réponse, voivi les infos: concept A : %(A)s Relation: %(rel)s Concept B %(B)s."
