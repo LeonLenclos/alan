@@ -1,5 +1,5 @@
 {
-    "logic_adapters": [
+    "logic/adapters": [
        {
           "identifier": "are_you_ok",
           "skill_description": ["parce que tu m'a demandé de te renseigner sur mon état de forme"],

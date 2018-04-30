@@ -24,6 +24,14 @@ from output import MainOutputAdapter
 
 from test.simple_talk import test
 
+# config logging
+logging.basicConfig(
+    level=logging.INFO,
+    filename='log.txt',
+    filemode="a",
+    format='%(message)s'
+)
+
 class Alan(chatterbot.ChatBot):
     """
     Alan is a chatbot. It inherit the chatterbot ChatBot class.
@@ -44,19 +52,10 @@ class Alan(chatterbot.ChatBot):
         """
 
         # load settings
+        self.log('SETTINGS:', True)
         self.settings = {}
         for settings_file in settings_files:
             self.load_settings(settings_file)
-
-        # config logging
-        logging.basicConfig(
-            level=logging.INFO,
-            filename=self.settings.get('logging_file', 'log.txt'),
-            filemode="a",
-            format='%(message)s'
-            )
-
-
 
         # Alan age
         self.age = ""
@@ -107,21 +106,24 @@ class Alan(chatterbot.ChatBot):
             self.output.add_adapter(adapter, **self.settings)
 
         #log
-        self.logger.info('')
-        self.logger.info('-'*10)
-        self.logger.info('ALAN: initialization')
-        self.logger.info(
-            'time          = {}'.format(time.strftime("%d/%m/%Y %H:%M:%S")))
-        self.logger.info(
-            'settings file = {}'.format(settings_file))
+        self.log('ALAN: initialization', True)
+        self.log('time          = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
+        self.log('settings file = {}'.format(settings_file))
 
+    def log(self, message, header=False):
+        with open('log.txt', 'a') as fi:
+            if header:
+                fi.write('\n' * 2 + '-' * 10)
+            fi.write('\n' + message)
 
     def load_settings(self, settings_file):
         """
         Load settings from a file to the settings attribute
         settings_file is a string, the name of the json file without extension
         """
-        with open("settings/%s.json" % settings_file, "r") as file:
+        file_name = "settings/%s.json" % settings_file
+        self.log('load settings file : {}'.format(file_name))
+        with open(file_name, "r") as file:
             # load json
             file_settings = json.load(file)
 
@@ -200,7 +202,7 @@ class Alan(chatterbot.ChatBot):
         """
         Execute a special alan's command.
         """
-        self.logger.info('command "{}" passed by Alan'.format(command))
+        self.log('command "{}" passed by Alan'.format(command))
         if command == 'quit': sys.exit()
         if command == 'todo':
             with open("../todo", "a") as f:
@@ -236,7 +238,7 @@ class Alan(chatterbot.ChatBot):
             statement.add_response(
                 Response(previous_statement.text)
             )
-            self.logger.info('Adding "{}" as a response to "{}"'.format(
+            self.log('Adding "{}" as a response to "{}"'.format(
                 statement.text,
                 previous_statement.text
             ))

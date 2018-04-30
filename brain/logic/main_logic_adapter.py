@@ -23,10 +23,8 @@ class MainLogicAdapter(MultiLogicAdapter):
 
         :param statement: The input statement to be processed.
         """
-        self.logger.info('')
-        self.logger.info('-'*10)
-        self.logger.info('LOGIC: processing all adapters')
-        self.logger.info(
+        self.chatbot.log('LOGIC: processing all adapters', True)
+        self.chatbot.log(
             'input = "{}"'.format(statement.text))
 
         results = []
@@ -37,8 +35,8 @@ class MainLogicAdapter(MultiLogicAdapter):
         for adapter in self.get_adapters():
 
             #log
-            self.logger.info('')
-            self.logger.info(adapter.identifier)
+            self.chatbot.log('')
+            self.chatbot.log(adapter.identifier)
 
             output = None
             result_info = dict(logic_identifier=adapter.identifier,
@@ -80,35 +78,32 @@ class MainLogicAdapter(MultiLogicAdapter):
 
             # log
             if processing_time > 0:
-                self.logger.info(
+                self.chatbot.log(
                     'processing time = {}ms'.format(processing_time))
             if output:
-                self.logger.info(
+                self.chatbot.log(
                     'response        = "{}"'.format(output.text))
-                self.logger.info(
+                self.chatbot.log(
                     'confidence      = {}'.format(output.confidence))
                 if result_info["not_allowed_to_repeat"]:
-                    self.logger.info('not allowed to repeat')
+                    self.chatbot.log('not allowed to repeat')
 
             else:
-                self.logger.info('not processing')
+                self.chatbot.log('not processing')
 
 
         # timer
         processing_time = int((time.time()-processing_all_start)*1000)
 
         # log
-        self.logger.info('')
-        self.logger.info('-'*10)
-        self.logger.info(
-            'LOGIC: result'.format(result_adapter.identifier))
-        self.logger.info(
+        self.chatbot.log('LOGIC: result', True)
+        self.chatbot.log(
             'response              = "{}"'.format(result.text))
-        self.logger.info(
+        self.chatbot.log(
             'logic adapter         = "{}"'.format(result_adapter.identifier))
-        self.logger.info(
+        self.chatbot.log(
             'confidence            = {}'.format(result.confidence))
-        self.logger.info(
+        self.chatbot.log(
             'total processing time = {}ms'.format(processing_time))
 
 
