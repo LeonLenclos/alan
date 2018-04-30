@@ -1,4 +1,4 @@
 {
-    "input_adapter": "chatterbot.input.TerminalAdapter",
+    "input_adapter": "input.TerminalInput",
     "output_adapter": "output.SlowTerminal"
 }

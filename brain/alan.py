@@ -122,7 +122,7 @@ class Alan(chatterbot.ChatBot):
         """Return all you need to know about this instance of Alan"""
         return "%s v%s\nBy %s" % (self.name, self.version, self.author)
 
-    def get_response(self, input_item, conversation_id=None):
+    def get_response(self, input_item, conversation_id=None, listener=None):
         """
         Return the bot's response based on the input.
         :param input_item: An input value.
@@ -138,10 +138,13 @@ class Alan(chatterbot.ChatBot):
             conversation_id = self.default_conversation_id
 
         # Get input
+        if listener : listener.send(state='listening')
         if input_item:
             input_statement = chatterbot.conversation.Statement(input_item)
         else:
             input_statement = self.input.process_input()
+
+        if listener : listener.send(state='thinking')
 
         # Preprocess the input statement
         for preprocessor in self.preprocessors:
@@ -149,6 +152,7 @@ class Alan(chatterbot.ChatBot):
 
         # get response
         response = self.logic.process(input_statement)
+
 
         # search command
         command_regex = r"\*(.+)\*"
@@ -161,8 +165,11 @@ class Alan(chatterbot.ChatBot):
                                             input_statement,
                                             response)
 
+        if listener : listener.send(state='speaking')
         # Process the response output with the output adapter
         output = self.output.process_response(response, conversation_id)
+
+        if listener : listener.send(state='waiting')
 
         # execute command
         if command: self.execute_command(command.group(1))
@@ -170,6 +177,9 @@ class Alan(chatterbot.ChatBot):
         return output
 
     def execute_command(self, command):
+        """
+        Execute a special alan's command.
+        """
         self.logger.info('command "{}" passed by Alan'.format(command))
         if command == 'quit': sys.exit()
         if command == 'todo':
@@ -201,7 +211,7 @@ class Alan(chatterbot.ChatBot):
         """
         Learn that the statement provided is a valid response.
         """
-
+        # TODO: Is this realy useful ??
         if previous_statement:
             statement.add_response(
                 Response(previous_statement.text)
@@ -211,10 +221,14 @@ class Alan(chatterbot.ChatBot):
                 previous_statement.text
             ))
 
+    def main_loop(self):
+        while True:
+            try:
+                self.get_response(None)
+            except(KeyboardInterrupt, EOFError, SystemExit):
+                break
 
-if __name__ == '__main__':
-
-
+def main():
     # Arguments parsing
     ap = argparse.ArgumentParser()
     ap.add_argument('-v', action='store_true', help="Mode verbose (depreciated)")
@@ -238,16 +252,9 @@ if __name__ == '__main__':
         # locals()[TEST_MODULE].test(alan)
     else :
         # discussion loop
-        print("---------------")
-        print(alan.status())
-        print("---------------")
+        print('-'*10, alan.status(), '-'*10, sep="\n")
+        alan.main_loop()
+        print('\n' + '-'*10)
 
-        while True:
-            try:
-                print("> ", end="")
-                alan.get_response(None)
-
-            except(KeyboardInterrupt, EOFError, SystemExit):
-                break
-
-        print("---------------")
+if __name__ == '__main__':
+    main()
