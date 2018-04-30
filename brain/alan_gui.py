@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# !!! In development : unstable !!!
+
 import pygame
 from gui import pygame_textinput, asciisprite
 from alan import Alan
