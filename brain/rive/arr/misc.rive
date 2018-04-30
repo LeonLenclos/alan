@@ -52,8 +52,10 @@
 ^ t es en boucle|t es raye|t es a la rue|tu bug|tu deconne|ca deconne
 
 //array OK
-! array ok = comment ca va|ca farte|la forme|en forme|ca va|are you ok
-^ la peche|ca baigne|how are you|comment vas tu|es tu en forme
+
+! array ok = comment ca va|ca farte|la forme|tu es en forme|ca va|are you ok
+^ la peche|ca baigne|how are you|comment vas tu|es tu en forme|t es en forme
+
 
 //array bad intent
 ! array bad = veux du mal|retourner contre nous|aneantir les humains
