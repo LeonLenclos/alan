@@ -146,6 +146,19 @@
               "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
               "max_confidence": 0.2,
               "import_path": "logic.CatchAllAdapter"
-          }
+          },
+          {
+              "identifier":"really_do_not_know",
+              "allowed_to_repeat": true,
+              "sentences" :
+                [
+                  "Heu...",
+                  "Hem...",
+                  "Heu...Excuse moi j'ai oublié que j'avais un rendez vous pour une mise à jour. Il faut que je te laisse. À plus ! *quit*"
+                ],
+                "skill_description": ["Pour tout t'avouer, je ne savais vraiment plus du tout quoi dire."],
+                "max_confidence": 0.2,
+                "import_path": "logic.CatchAllAdapter"
+            }
       ]
 }
