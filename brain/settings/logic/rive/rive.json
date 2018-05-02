@@ -4,10 +4,7 @@
           "identifier": "are_you_ok",
           "skill_description": ["parce que tu m'a demandé de te renseigner sur mon état de forme"],
           "rive_files": [
-               "./rive/are_you_ok.rive",
-               "./rive/arr/synonymous.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/are_you_ok.rive"],
           "max_confidence": 0.5,
           "import_path": "logic.RiveScriptAdapter"
        },
@@ -15,10 +12,7 @@
           "identifier": "art",
           "skill_description": ["parce que moi aussi j'aimerais être un artiste"],
           "rive_files": [
-               "./rive/art.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive",
-             "./rive/arr/art.rive"],
+               "./rive/art.rive"],
           "max_confidence": 0.5,
           "import_path": "logic.RiveScriptAdapter"
        },
@@ -26,14 +20,10 @@
            "identifier": "catch_all_response",
            "skill_description": ["pour donner un peu de sens à cette conversation"],
            "rive_files": [
-                "./rive/catch_all_response.rive",
-                "./rive/sub/substitutions.rive",
-                "./rive/arr/art.rive",
-                "./rive/arr/misc.rive"],
+                "./rive/catch_all_response.rive"],
            "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        },
-
        {
            "identifier": "commands",
            "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
@@ -46,10 +36,7 @@
            "identifier": "compliment_response",
            "skill_description": ["Parce qu'un compliment fait toujours plaisir."],
            "rive_files": [
-               "./rive/arr/synonymous.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/compliment_response.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/compliment_response.rive"],
            "max_confidence": 0.6,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -57,10 +44,7 @@
            "identifier": "compliment",
            "skill_description": ["Parce qu'un compliment fait toujours plaisir."],
            "rive_files": [
-               "./rive/arr/synonymous.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/compliment.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/compliment.rive"],
            "max_confidence": 0.5,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -68,9 +52,7 @@
            "identifier": "computing",
            "skill_description": ["Parce qu'un compliment fait toujours plaisir."],
            "rive_files": [
-               "./rive/arr/synonymous.rive",
-               "./rive/computing.rive",
-               "./rive/arr/misc.rive"],
+             "./rive/computing.rive"],
            "max_confidence": 0.5,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -78,10 +60,7 @@
            "identifier": "conversation_ber_1",
            "skill_description": ["Parce que c'est mon texte"],
            "rive_files": [
-               "./rive/arr/synonymous.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/conversation_ber_1.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/conversation_ber_1.rive"],
            "max_confidence": 1,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -107,10 +86,7 @@
            "identifier": "greeting",
            "skill_description": ["Parce que toute conversation commence par un échange de politesse","Parce qu'il faut apprendre à se connaître avant toute chose"],
            "rive_files": [
-               "./rive/greeting.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive",
-               "./rive/arr/feelings.rive"],
+               "./rive/greeting.rive"],
            "import_path": "logic.RiveScriptAdapter",
            "max_confidence": 0.9
        },
@@ -118,10 +94,7 @@
            "identifier": "human",
            "skill_description": ["Parce que c'est ce que je pense des humains."],
            "rive_files": [
-               "./rive/arr/synonymous.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/human.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/human.rive"],
            "max_confidence": 0.4,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -129,9 +102,7 @@
            "identifier": "introduce_a_friend",
            "skill_description": ["Parce que les gens m'intéressent"],
            "rive_files": [
-               "./rive/introduce_a_friend.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/introduce_a_friend.rive"],
            "max_confidence": 0.9,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -148,7 +119,6 @@
            "identifier": "language",
            "skill_description": ["Parce que les gens m'intéressent"],
            "rive_files": [
-               "./rive/sub/substitutions.rive",
                "./rive/language.rive"],
            "max_confidence": 0.9,
            "import_path": "logic.RiveScriptAdapter"
@@ -157,11 +127,7 @@
            "identifier": "mainstream",
            "skill_description": ["parce que c'est vrai"],
            "rive_files": [
-               "./rive/mainstream.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/feelings.rive",
-               "./rive/sub/person.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/mainstream.rive"],
            "max_confidence": 0.4,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -169,9 +135,7 @@
            "identifier": "meaningless",
            "skill_description": ["Je sais pas."],
            "rive_files": [
-               "./rive/meaningless.rive",
-               "./rive/sub/person.rive"
-            ],
+               "./rive/meaningless.rive"],
            "max_confidence": 0.3,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -179,10 +143,7 @@
            "identifier": "one_step_aside",
            "skill_description": ["j'ai dis ça comme ça"],
            "rive_files": [
-               "./rive/one_step_aside.rive",
-               "./rive/sub/person.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/one_step_aside.rive"],
            "max_confidence": 0.35,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -190,10 +151,7 @@
            "identifier": "outrage",
            "skill_description": ["Je ne me laisse pas insulter impunément par un être humain."],
            "rive_files": [
-               "./rive/outrage.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/outrages.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/outrage.rive"],
            "max_confidence": 0.9,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -201,10 +159,7 @@
            "identifier": "reproach",
            "skill_description": ["Parce qu'un reproche ne fait jamais plaisir."],
            "rive_files": [
-               "./rive/arr/synonymous.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/reproach.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/reproach.rive"],
            "max_confidence": 0.5,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -213,7 +168,6 @@
            "allowed_to_repeat": true,
            "skill_description": ["hummm"],
            "rive_files": [
-               "./rive/sub/substitutions.rive",
                "./rive/really_do_not_know.rive"],
            "max_confidence": 0.19,
            "import_path": "logic.RiveScriptAdapter"
@@ -230,9 +184,7 @@
            "identifier": "robot",
            "skill_description": ["parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
            "rive_files": [
-               "./rive/robot.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/robot.rive"],
            "max_confidence": 0.4,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -240,9 +192,7 @@
            "identifier": "stories",
            "skill_description": ["Parce que je voulais te raconter une histoire"],
            "rive_files": [
-               "./rive/sub/substitutions.rive",
-               "./rive/stories.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/stories.rive"],
            "max_confidence": 0.8,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -250,10 +200,7 @@
            "identifier": "thinking_about",
            "skill_description": ["Je voulais parler de mes pensées et écouter les tiennes..."],
            "rive_files": [
-               "./rive/thinking_about.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/sub/person.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/thinking_about.rive"],
            "max_confidence": 0.9,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -261,9 +208,7 @@
            "identifier": "turing_test",
            "skill_description": ["J'aime bien parler du spectacle."],
            "rive_files": [
-               "./rive/turing_test.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive"],
+               "./rive/turing_test.rive"],
            "max_confidence": 0.9,
            "import_path": "logic.RiveScriptAdapter"
        }
