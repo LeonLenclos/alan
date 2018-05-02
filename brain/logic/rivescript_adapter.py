@@ -22,6 +22,10 @@ class RiveScriptAdapter(AlanLogicAdapter):
         self.interpreter = rivescript.RiveScript(utf8=True)
 
         # loading files
+        rive_files.extend([
+            './rive/array.rive',
+            './rive/person.rive'
+        ])
         for f in rive_files:
             self.interpreter.load_file(f)
 
@@ -35,6 +39,7 @@ class RiveScriptAdapter(AlanLogicAdapter):
                                       self.chatbot.lines_of_code)
         self.interpreter.set_variable("version",
                                       self.chatbot.version)
+
 
         # cf. get methode
         self.reply = None
