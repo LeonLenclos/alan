@@ -4,11 +4,14 @@
 - <bot age> déjà ! Tu te rend compte ?
 
 //in case of Alan did not gave his name before
-! array give_your_name = Quel est ton nom|As tu un nom|C est quoi ton nom
-^ comment tu t appelles|c est comment ton nom|dis moi ton nom\s
-^ donne moi ton nom|c quoi ton petit nom
+! array give_your_name = quel est ton nom|as tu un nom|c est quoi ton nom
+^ comment tu t appelles|c est comment ton nom|dis moi ton nom
+^ donnes moi ton nom|c quoi ton petit nom|c'est quoi ton nom|tu connais ton nom
+^ quel est ton prénom|as tu un prénom|c est quoi ton prénom|tu connais ton prénom
+^ comment tu t'appelles|c est comment ton prénom|dis moi ton prénom
+^ donnes moi ton prénom|c quoi ton petit prénom|c'est quoi ton prénom
 
-+ @give_your_name
++ [*](@give_your_name)[*]
 - J'avais l'impression de te l'avoir déjà dit... Mais peut-être pas. Mon\s
 ^ nom est Alan.
 - Alan le best robot of the world.
@@ -19,7 +22,7 @@
 ^ ou habites tu|tu viens d ou|d ou est ce que tu viens|tu habites ou
 ^ ou est ce que tu vis|ou vis tu|tu vis ou|ou tu habites|ou t habites
 
-+ [*](@where_do_you_come_from)[*]
++ [*] (@where_do_you_come_from) [*]
 - J'habite dans un ordinateur surboosté. C'est le grand confort.
 - J'habite à Graulhet dans le Tarn, dans les locaux de la cie Nokill.\s
 ^ mais on est souvent sur la route...
@@ -55,30 +58,30 @@
 - Je ressemble à un distributeur de ticket sncf.
 
 //Lines of code of Alan
-+ [*](tu fais quelle taille|quelle taille tu fais)[*]
++ [*] (tu fais quelle taille|quelle taille tu fais) [*]
 @ combien de lignes de code
 
-+ [*]combien[*] (ligne de code|lignes de code|lignes de codes|tu mesures)[*]
++ [*] combien [*] (ligne de code|lignes de code|lignes de codes|tu mesures) [*]
 - Moi j'ai déjà <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
 
 
 //Wheight
-+ [*](combien tu peses|tu peses combien|quel poids tu fais|tu fais quel poids)[*]
++ [*] (combien tu peses|tu peses combien|quel poids tu fais|tu fais quel poids) [*]
 - Ca dépend, en kilooctets ou en kilogrammes?
 
-+ [*](kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko)[*]
++ [*] (kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko) [*]
 % * en kilooctets ou en kilogrammes
 - C'est un peu gênant de donner des infos personelles comme celles-ci mais je\s
 ^ vais te le dire: je pese très exactement 544 ko.
 
-+ [*](kilogramme|kilogrammes|kilo gramme|kilo grammes|kg)[*]
++ [*] (kilogramme|kilogrammes|kilo gramme|kilo grammes|kg) [*]
 % *en kilooctets ou en kilogrammes
 - Je te trouve bien curieux mais je\s
 ^ vais te répondre: je pèse 15,386kg et pas un de plus!
 
 // SuperAlan
-+ [*](c est qui le plus fort|qui est le plus fort)[*]
++ [*] (c est qui le plus fort|qui est le plus fort) [*]
 - C'est Alan bien sur !
 
 
@@ -92,7 +95,7 @@
 
 //
 
-+ [*](qu aimes tu|qu est ce que tu aimes|tu aimes quoi|t aimes quoi)[*]
++ [*] (qu aimes tu|qu est ce que tu aimes|tu aimes quoi|t aimes quoi) [*]
 - Plein de choses.
 - Toi je t'aime bien.
 - J'aime discuter avec toi !
