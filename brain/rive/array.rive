@@ -1,7 +1,114 @@
 ! version = 2.0
-// This file contain two arrays
-// outrages : An array of outrages with ascii char only (without accents)
-// outrages_accent : An array of outrages with accentued char
+
+// This file contain miscellaneous arrays
+
+// name introductions
+! array name_intro = je m'appelle|je suis|moi c'est|mon nom c'est
+^ appelle moi|on m'appelle|c'est
+
+// hello
+! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour|hola
+
+// goodbye
+! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientôt|au revoir
+
+// colors
+! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
+
+// male
+! array male = mec gus male homme zig ceum keum garçon
+
+//femelle
+! array femelle = nana fille femme gonzesse gonze meuf
+
+//congratulations
+! array congratulation = bravo|félicitation|félicitations|c'est bien
+
+//incredible
+! array incredible =  pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
+^ dingue|délire
+
+//yes
+! array yes =  yes|oui|à fond|j'adore|j'ai adore|ça me plait|ça m'a plu|beaucoup
+^ absolument|assurément|à merveille|bien|bien sur|certainement|certes|d'accord
+^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
+^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
+^ c'est ça|tu as compris|c'est ce que je veux dire
+
+//no
+! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri|niet|pas
+
+//yesno = between yes and no
+! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
+^ je ne sais pas|coussi coussa|couci couca|peut être|peut-être
+^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui
+
+//array for weather
+! array meteo = pluie soleil neige météo froid chaleur
+^ beau temps|mauvais temps|temps qu'il fait
+
+//bug
+! array bug = tu bloques|tu débloques|tu déconnes|tu dis n'importe quoi
+^ tu dérailles|tu es bloqué|tu tournes en rond|t'as un bug|t'es buggé
+^ t'es dans une boucle|t'es rayé|t'es a la rue|tu bug|tu déconnes|ça déconne
+^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé|tu es a la rue
+
+//array OK
+! array ok = comment ca va|comment ça va|ca farte|la forme|tu es en forme
+^ t'es en forme|ça va|ca va|are you ok| la pèche|ça baigne|t'es en forme
+^ la peche|ca baigne|how are you|comment vas tu|es tu en forme|t es en forme
+^ comment vas-tu|ça farte|es-tu en forme
+
+//array bad intent
+! array bad = veux du mal|retourner contre nous|anéantir les humains
+^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
+^ tuer tous les humains|anéantir l'humanité
+
+! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne|pardonnes
+
+
+! array instrument_m = accordeon|alto|balafon
+^ bandonéon|banjo|basse|guitare basse|baryton|basson|bendir
+^ dulcimer|bouzouki|bratsch|bugle|cajon
+^ clavecin|clavinet|cor anglais|djembé
+^ cornet à bouquin|cornet à pistons|cymbalum|darbouka|djembe|doudouk|dulcimer
+^ gambri|glockenspiel
+^ hang|harmonica|harmonium|hautbois|helicon|ka
+^ kalimba|kanoun|luth|maracas|mellotron|mélodica|ocarina
+^ orgue|orgue de Barbarie|pedal steel|piano|piano électrique
+^ piccolo|pipeau|santour|saxophone|saxophone alto|saxophone baryton
+^ saxophone basse|saxophone contrebasse|saxophone sopranino|saxophone piccolo
+^ saxophone soprano|saxophone tenor|soubassophone|steel-drum
+^ synthétiseur|tam tam|tambour|tambourin|tapan|triangle
+^ trombone|tuba|tympanon|ukulele|vibraphone
+^ violon|violoncelle|xylophone|zarb
+
+! array instrument_f = balalaika|batterie|cabrette|cithare|clarinette
+^ clarinette basse|contrebasse|cornemuse
+^ épinette|épinette des Vosges|flute|guimbarde|guitare
+^ guitare électrique|harpe|mandoline|scie musicale|vielle|vielle à roue
+^ viole|viole de gambe
+
+! array instrument_p = congas|maracas|ondes Martenot|tablas|timbales
+
+// with accent
+
+! array negative = bad|blues|bof|ça ne va pas|ça pourrait aller mieux|ça va pas
+^ couci couça|coussi coussa|épuisé|fatigué
+^ j'ai connu des jours meilleurs|mal|malade|moyen|non|pas cool
+^ pas en forme|pas la pêche|pas trop|pas trop la pêche|pas terrible|petite forme
+
+! array positive = a fond|admirablement|au poil|au taquet|bien|ca va|colossal
+^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux|ça va
+^ fantastique|faramineux|formidable|fou|génial|grosse forme
+^ impeccablement|inconcevable|incroyable|inimaginable|inouï
+^ insensé|la forme|la patate|la pêche|magique|merveilleux
+^ nickel|oui|parfaitement|péchu|pêchu|phénomenal|prodigieux|sensas
+^ sensationnel|stupéfiant|super|surnaturel|terrible|top|tranquille
+^ en pleine forme|grosse patate
+
+! array sad = triste|dommage|pas cool|chagrine|deçu|desappointé|désenchanté
+^ malheureux|pas gai
 
 // without accent
 ! array outrages = abruti|niquer ta mère|faire enculer|faire foutre|faire mettre
@@ -101,3 +208,19 @@
 ^ va te faire une soupe d’esques|vaurien|vert de gris|vide couilles|viédase
 ^ vier|vieux blanc|vieux schnock|vieux shnock|weeaboo|xéropineur|youd|youp
 ^ youpin|youpine|youpinisation|youtre
+
+! array intelligent_synonymous = intelligent brillant capable clairvoyant
+^ compétent chouette doué entendu expérimenté fort génial habile perspicace
+^ sagace astucieux éveillé pertinent profond malin top bon
+^ excellent super
+
+! array funny_synonymous = drole drôle amusant cocasse comique désopilant facétieux
+^ hilarant impayable inénarrable plaisant rigolo risible spirituel fun humour
+
+! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
+^ singulier surprenant chelou louche suceptible
+
+! array stupid_synonymous = béte bête borne bouche crétin idiot imbécile
+^ inintelligent obtus sot stupide abruti niais vide andouille ballot
+^ bêta cloche cruche demeure gourde manche niais
+^ arriéré mental | débile mental | simple d'esprit
