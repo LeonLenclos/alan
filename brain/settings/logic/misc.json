@@ -112,6 +112,20 @@
 
         },
         {
+             "identifier": "command",
+             "allowed_to_repeat": true,
+             "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
+             "commands": {
+               "quit":"Ok, bye bye.",
+               "rst":"Ok, à toute !",
+               "todo":"Ok, c'est noté.",
+               "info":"Ok, voilà les infos que tu m'as demandé."
+             },
+             "max_confidence": 1,
+             "import_path": "logic.CommandsAdapter"
+
+        },
+        {
             "identifier":"catch_all",
             "sentences" :
               [
