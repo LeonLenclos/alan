@@ -1,0 +1,39 @@
+{
+    "logic_adapters": [
+        {
+            "identifier":"catch_all",
+            "sentences" :
+              [
+                "Je crois que je n'ai pas entièrement compris ce que tu viens de me dire. Est ce que tu peux répéter avec des mots simples.",
+                "Hem... Ok... À ton avis je suis un robot ou un humain ?",
+                "Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie. Et toi tu passes un bon moment avec moi ?",
+                "Là vraiment, je ne sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?",
+                "Je suis un peu mal à l'aise avec ça, parlons d'autre chose si tu veux bien. Dirais-tu que ta vie est heureuse ou malheureuse en ce moment ?",
+                "Je trouve que cette conversation tourne un peu en rond.",
+                "Je préfère en rester là sur ce sujet. Parle moi de toi plutôt. Joues tu d'un instrument de musique ?",
+                "Excuse moi, je n'ai pas entendu ce que tu disais, je pensais à autre chose...",
+                "Pardon j'ai décroché. J'étais perdu dans mes pensées.",
+                "Est ce que tu peux reformuler ça autrement s'il te plaît ?",
+                "J'ai l'impression que tu veux m'enmener sur un terrain glissant. Je me trompe ? Tu cherches à m'embrouiller oui ou non ?",
+                "J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement ?",
+                "Je me demande si je suis à la hauteur de cette conversation..."
+              ],
+              "skill_description": ["Pour tout t'avouer, je ne savais plus quoi dire."],
+              "max_confidence": 0.20,
+              "import_path": "logic.CatchAllAdapter"
+          },
+          {
+              "identifier":"really_do_not_know",
+              "allowed_to_repeat": true,
+              "sentences" :
+                [
+                  "Heu...",
+                  "Hem...",
+                  "Heu...Excuse moi j'ai oublié que j'avais un rendez vous pour une mise à jour. Il faut que je te laisse. À plus ! *quit*"
+                ],
+                "skill_description": ["Pour tout t'avouer, je ne savais vraiment plus du tout quoi dire."],
+                "max_confidence": 0.19,
+                "import_path": "logic.CatchAllAdapter"
+            }
+      ]
+}

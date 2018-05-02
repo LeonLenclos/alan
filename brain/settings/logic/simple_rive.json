@@ -2,9 +2,7 @@
     "logic_adapters": [
         {
             "identifier": "rive",
-            "rive_files": [
-              "./rive/computing.rive",
-              "./rive/arr/misc.rive"],
+            "rive_files": ["./rive/arr/misc.rive"],
             "import_path" : "logic.RiveScriptAdapter"
         }
     ]
