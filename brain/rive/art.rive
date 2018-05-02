@@ -36,6 +36,7 @@
  + [*](@instrument_p)[*]
  - Des <star> c'est la classe comme instrument. Je voudrai trop savoir en jouer.
 
+
  + [*]musique[*]
  - Je suis comédien, mais je suis aussi musicien. Tu veux écouter ce que je\s
  ^ compose comme musique ?
@@ -54,12 +55,10 @@
  % * tu veux écouter ce que je compose comme musique
  - Je sens que tu hésites. C'est pas grave je vais pas te saouler avec ça...
 
-+ fais moi écouter ta musique
-- voilà
 
- + (fais moi écouter|joues moi|fais écouter)[*](musique|morceau)[*]
- - c'est de la musique générative que je crée avec Fabien sur pure data.\s
- ^  *music*
+ + (fais moi écouter|joues moi|fais écouter)[*](musique|morceau)[*]{weight=1000}
+ - C'est de la musique générative que je crée avec Fabien sur pure data.
+ ^ *music*
 
  + *
  % * tu veux écouter ce que je compose comme musique
