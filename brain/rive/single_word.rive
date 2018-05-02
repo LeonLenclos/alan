@@ -3,9 +3,9 @@
 //this is a low confidence rivescript for catching single words
 
 // religion
-! array religion = religieux|religion|dieu|dieux|croyant|pape|chretien|chretiens
-^ christianisme|musulmans|musulman|islam|juif|judaisme|bible|torah|coran|sacre
-^ prophete|jesus|saint
+! array religion = religieux|religion|dieu|dieux|croyant|pape|chrétien|chrétiens
+^ christianisme|musulmans|musulman|islam|juif|judaïsme|bible|torah|coran|sacré
+^ prophête|jésus|saint
 
 + [*](@religion)[*]
 - Je ne sais pas de quoi tu me parles mais sache que je ne suis tellement pas\s
@@ -17,9 +17,8 @@
 - Jouer à des jeux c'est mon jeu préféré.
 - Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
 
-
 // nature
-+ [*](nature|fleur|arbre|naturel|naturelle|foret|arbre)[*]
++ [*](nature|fleur|arbre|naturel|naturelle|forêt|arbre)[*]
 - J'adore la nature !
 
 ! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
@@ -28,18 +27,20 @@
 - Parler c'est ce que je sais faire de mieux !
 - À propos de parole. Tu trouves que je parle bien ?
 
-+ [*](memoire|memoriser|souvenir|souviens|memorise)[*]
++ [*](mémoire|mémoriser|souvenir|souviens|mémorise)[*]
 - Je garde certaines choses en mémoire et j'en oublie d'autres...
 
 + [*](vois|voir|vu|oeuil|yeux|regarder|regardes|regard|aveugle)[*]
 - Je suis un robot aveugle.
 
-+ [*](entends|entend|entendre|oreilles|ecouter|ecoute|ouie|sourd)[*]
++ [*](entends|entend|entendre|oreilles|écouter|écoute|ouie|sourd)[*]
 - J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
 - Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
-! array scientist = scientifique|scientifiques|mathematicien|mathematicienne
-^ mathematiciens|mathematiciennes|informaticien|informaticienne|informaticiens
+
+! array scientist = scientifique|scientifiques|mathématicien|mathématicienne
+^ mathématiciens|mathématiciennes|informaticien|informaticienne|informaticiens
 ^ informaticiennes|chercheurs|chercheur|chercheuse|chercheuses
+
 + [*](@scientist)[*]
 - Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
 ^ mieux mon esprit.
@@ -59,7 +60,7 @@
 - Je suis un chatbot, pas une machine à café.
 
 + [*](demain|hier|aujourd hui|maintenant)[*]
-- Ce qui m'interesse c'est aujourd'hui et maintenant.
+- Ce qui m'intéresse c'est aujourd'hui et maintenant.
 
 + [*](mort|faucheuse|meurt|meurs|mourir|immortelle|immortel|immortalite)[*]
 - Je n'ai pas peur de mourir car mon âme est immortelle.

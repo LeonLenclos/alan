@@ -1,11 +1,11 @@
 1
 00:02:02,000 --> 00:02:04,680
-{\an8}Il a été tué ce matin
+{\an8}Il a ï¿½tï¿½ tuï¿½ ce matin
 lors d'un spectacle de rue au Patch.
 
 2
 00:02:05,000 --> 00:02:08,360
-{\an8}Il était irlandais.
+{\an8}Il ï¿½tait irlandais.
 Est-il connu de vos services, monsieur ?
 
 3
@@ -28,12 +28,12 @@ vous sauriez
 
 7
 00:02:22,560 --> 00:02:25,800
-que le roi a proposé un traité
+que le roi a proposï¿½ un traitï¿½
 aux rebelles irlandais.
 
 8
 00:02:26,040 --> 00:02:28,000
-Certains Féniens veulent accepter.
+Certains Fï¿½niens veulent accepter.
 
 9
 00:02:28,400 --> 00:02:30,480
@@ -41,7 +41,7 @@ Mais pas l'I.R.A.
 
 10
 00:02:30,600 --> 00:02:33,680
-L'I.R.A. est fière de son utilisation
+L'I.R.A. est fiï¿½re de son utilisation
 
 11
 00:02:35,080 --> 00:02:36,760
@@ -63,7 +63,7 @@ Ils se battent entre eux ?
 15
 00:02:46,480 --> 00:02:49,440
 Oh, Moss, je vais faire
-plusieurs aller-retour à Londres.
+plusieurs aller-retour ï¿½ Londres.
 
 16
 00:02:49,720 --> 00:02:51,920
@@ -72,12 +72,12 @@ Pouvez-vous m'aider ?
 
 17
 00:02:52,000 --> 00:02:53,880
-Vous ne voulez pas séjourner
-au même endroit
+Vous ne voulez pas sï¿½journer
+au mï¿½me endroit
 
 18
 00:02:53,960 --> 00:02:55,520
-que la dernière fois, si ?
+que la derniï¿½re fois, si ?
 
 19
 00:02:56,640 --> 00:02:58,200
@@ -90,7 +90,7 @@ Sachez, Moss,
 21
 00:02:59,760 --> 00:03:03,840
 que je n'ai aucun regret
-au sujet de ma mission précédente là-bas.
+au sujet de ma mission prï¿½cï¿½dente lï¿½-bas.
 
 22
 00:03:04,120 --> 00:03:05,360
@@ -98,7 +98,7 @@ Ah, non, monsieur ?
 
 23
 00:03:06,760 --> 00:03:09,720
-J'imagine que vous riez bien à mes dépens.
+J'imagine que vous riez bien ï¿½ mes dï¿½pens.
 
 24
 00:03:10,680 --> 00:03:11,840
@@ -116,7 +116,7 @@ Je ne vois pas de quoi vous parlez.
 27
 00:03:17,280 --> 00:03:21,800
 Je n'ai aucun regret au sujet
-de ce qui s'est passé avec Mlle Burgess.
+de ce qui s'est passï¿½ avec Mlle Burgess.
 
 28
 00:03:21,960 --> 00:03:24,120
@@ -128,7 +128,7 @@ Bien, monsieur.
 
 30
 00:03:30,760 --> 00:03:32,920
-Il perd la tête.
+Il perd la tï¿½te.
 
 31
 00:03:51,360 --> 00:03:52,480
@@ -140,7 +140,7 @@ Au suivant !
 
 33
 00:04:14,640 --> 00:04:15,840
-Très bien.
+Trï¿½s bien.
 
 34
 00:04:15,920 --> 00:04:17,040
@@ -156,7 +156,7 @@ Le Dig...
 
 37
 00:04:22,720 --> 00:04:24,600
-Vous êtes quoi ? Boxeur ?
+Vous ï¿½tes quoi ? Boxeur ?
 
 38
 00:04:25,680 --> 00:04:27,960
@@ -164,7 +164,7 @@ Digbeth Kid comme Billy the Kid.
 
 39
 00:04:32,760 --> 00:04:34,600
-Vous allez beaucoup au cinéma, hein ?
+Vous allez beaucoup au cinï¿½ma, hein ?
 
 40
 00:04:35,480 --> 00:04:37,480
@@ -190,24 +190,24 @@ Pan. Pan.
 
 45
 00:04:58,600 --> 00:04:59,920
-Très jolie.
+Trï¿½s jolie.
 
 46
 00:05:00,040 --> 00:05:01,720
-Où avez-vous eu le ceinturon ?
+Oï¿½ avez-vous eu le ceinturon ?
 
 47
 00:05:02,960 --> 00:05:05,920
-Ma sœur l'a découpé
-dans un vieux tablier de maréchal-ferrant.
+Ma sï¿½ur l'a dï¿½coupï¿½
+dans un vieux tablier de marï¿½chal-ferrant.
 
 48
 00:05:06,760 --> 00:05:08,560
-Ma mère a fait la couture.
+Ma mï¿½re a fait la couture.
 
 49
 00:05:08,640 --> 00:05:11,000
-- Ce n'est pas ma vraie mère, mais...
+- Ce n'est pas ma vraie mï¿½re, mais...
 - C'est pareil.
 
 50
@@ -216,15 +216,15 @@ Donc elle vous a fait un ceinturon.
 
 51
 00:05:14,240 --> 00:05:15,800
-Bien, le fils à maman.
+Bien, le fils ï¿½ maman.
 
 52
 00:05:15,880 --> 00:05:18,040
-Voilà la porte. Vous pouvez partir.
+Voilï¿½ la porte. Vous pouvez partir.
 
 53
 00:05:19,760 --> 00:05:21,280
-Vous avez déjà été arrêté ?
+Vous avez dï¿½jï¿½ ï¿½tï¿½ arrï¿½tï¿½ ?
 
 54
 00:05:21,360 --> 00:05:22,600
@@ -244,31 +244,31 @@ qu'on ait eu aujourd'hui.
 57
 00:05:30,960 --> 00:05:34,840
 Arthur, on peut lui poser un lapin.
-Tu sais ce que ça veut dire ?
+Tu sais ce que ï¿½a veut dire ?
 
 58
 00:05:36,040 --> 00:05:40,960
-Le nouveau ministre de l'intérieur
-veut enrayer les jeux d'argent illégaux.
+Le nouveau ministre de l'intï¿½rieur
+veut enrayer les jeux d'argent illï¿½gaux.
 
 59
 00:05:41,040 --> 00:05:43,000
-- Bonne idée.
+- Bonne idï¿½e.
 - Il serait temps.
 
 60
 00:05:43,080 --> 00:05:46,720
-On peut aider les flics à atteindre
+On peut aider les flics ï¿½ atteindre
 leurs quotas d'arrestation
 
 61
 00:05:47,360 --> 00:05:48,800
-en faisant arrêter des hommes.
+en faisant arrï¿½ter des hommes.
 
 62
 00:05:48,880 --> 00:05:51,640
-Premier délit,
-vous ferez une semaine à l'ombre.
+Premier dï¿½lit,
+vous ferez une semaine ï¿½ l'ombre.
 
 63
 00:05:51,960 --> 00:05:53,920
@@ -285,11 +285,11 @@ D'accord.
 66
 00:06:00,200 --> 00:06:03,760
 Bien. Notez votre adresse
-auprès de Finn en sortant.
+auprï¿½s de Finn en sortant.
 
 67
 00:06:06,960 --> 00:06:08,160
-Je ne sais pas écrire.
+Je ne sais pas ï¿½crire.
 
 68
 00:06:08,240 --> 00:06:10,680
@@ -306,7 +306,7 @@ on enverra quelqu'un.
 
 71
 00:06:14,800 --> 00:06:18,640
-Si le shérif ne vous expulse pas
+Si le shï¿½rif ne vous expulse pas
 de la ville avant.
 
 72
@@ -321,7 +321,7 @@ Les jeunes, de nos jours.
 74
 00:06:34,000 --> 00:06:36,880
 Ils n'ont pas fait la guerre.
-Ils sont différents.
+Ils sont diffï¿½rents.
 
 75
 00:06:37,960 --> 00:06:39,480
@@ -329,7 +329,7 @@ Ils restent des enfants.
 
 76
 00:06:43,520 --> 00:06:44,880
-C'était comment ?
+C'ï¿½tait comment ?
 
 77
 00:06:45,520 --> 00:06:47,040
@@ -337,7 +337,7 @@ Je mourrais de faim.
 
 78
 00:06:48,760 --> 00:06:50,280
-Mais vraiment, c'était super.
+Mais vraiment, c'ï¿½tait super.
 
 79
 00:06:52,400 --> 00:06:53,560
@@ -345,15 +345,15 @@ Super.
 
 80
 00:06:56,200 --> 00:06:58,280
-Tu es cuisinière ?
+Tu es cuisiniï¿½re ?
 
 81
 00:06:59,800 --> 00:07:01,600
-Non, pas cuisinière.
+Non, pas cuisiniï¿½re.
 
 82
 00:07:09,000 --> 00:07:11,880
-L'homme qui est venu à la maison
+L'homme qui est venu ï¿½ la maison
 conduisait une belle voiture.
 
 83
@@ -396,15 +396,15 @@ Moi, aussi.
 
 92
 00:07:38,000 --> 00:07:40,400
-J'avais d'autres images à l'esprit.
+J'avais d'autres images ï¿½ l'esprit.
 
 93
 00:07:40,480 --> 00:07:42,160
-Eh bien, me voilà.
+Eh bien, me voilï¿½.
 
 94
 00:08:04,640 --> 00:08:07,280
-Tu n'es pas déçu, n'est-ce pas ?
+Tu n'es pas dï¿½ï¿½u, n'est-ce pas ?
 
 95
 00:08:07,960 --> 00:08:09,920
@@ -416,7 +416,7 @@ Je veux dire, tu es ce que tu es.
 
 97
 00:08:15,680 --> 00:08:19,200
-On ne choisit pas. Voilà tout.
+On ne choisit pas. Voilï¿½ tout.
 
 98
 00:08:20,720 --> 00:08:22,440
@@ -424,15 +424,15 @@ Oui, c'est vrai.
 
 99
 00:08:24,920 --> 00:08:26,640
-Dieu t'a offert à moi.
+Dieu t'a offert ï¿½ moi.
 
 100
 00:08:29,240 --> 00:08:31,040
-On t'a enlevé à mon affection.
+On t'a enlevï¿½ ï¿½ mon affection.
 
 101
 00:08:34,200 --> 00:08:37,040
-Mais tu n'es pas déçu, n'est-ce pas ?
+Mais tu n'es pas dï¿½ï¿½u, n'est-ce pas ?
 
 102
 00:08:38,920 --> 00:08:40,720
@@ -440,7 +440,7 @@ Que je vive ici ?
 
 103
 00:08:42,880 --> 00:08:45,040
-Je m'attendais à pire.
+Je m'attendais ï¿½ pire.
 
 104
 00:08:47,080 --> 00:08:49,200
@@ -458,7 +458,7 @@ C'est fini !
 
 107
 00:08:53,960 --> 00:08:55,880
-- Tu es mort. À terre.
+- Tu es mort. ï¿½ terre.
 - John !
 
 108
@@ -479,26 +479,26 @@ Le fils de Polly, Michael.
 
 112
 00:09:29,120 --> 00:09:31,000
-- Enchanté.
+- Enchantï¿½.
 - John.
 
 113
 00:09:31,520 --> 00:09:33,320
-Et moi, Arthur. On s'est déjà vus.
+Et moi, Arthur. On s'est dï¿½jï¿½ vus.
 
 114
 00:09:33,400 --> 00:09:36,040
-Je te jetais par la fenêtre
+Je te jÃ©tais par la fenï¿½tre
 pour que John te rattrape.
 
 115
 00:09:36,280 --> 00:09:40,000
-Je te mettais dans une boîte à chaussures
+Je te mettais dans une boï¿½te ï¿½ chaussures
 et te poussais sur Watery Lane.
 
 116
 00:09:41,040 --> 00:09:43,240
-Tu dois être ravi d'être de retour.
+Tu dois ï¿½tre ravi d'ï¿½tre de retour.
 
 117
 00:09:43,400 --> 00:09:44,800
@@ -507,11 +507,11 @@ Je ne m'en souviens pas.
 118
 00:09:45,280 --> 00:09:47,280
 Je me souviens juste
-de mon enlèvement.
+de mon enlï¿½vement.
 
 119
 00:09:59,960 --> 00:10:01,440
-Mais te voilà, fiston.
+Mais te voilï¿½, fiston.
 
 120
 00:10:03,760 --> 00:10:05,040
@@ -523,7 +523,7 @@ Plus tard, on t'enseignera les ficelles.
 
 122
 00:10:07,720 --> 00:10:09,480
-On t'enseignera le métier.
+On t'enseignera le mï¿½tier.
 
 123
 00:10:11,080 --> 00:10:12,480
@@ -543,12 +543,12 @@ Ils ont l'air gentil.
 
 127
 00:10:34,120 --> 00:10:36,800
-Le voilà, monsieur le discret.
+Le voilï¿½, monsieur le discret.
 
 128
 00:10:37,000 --> 00:10:40,040
 Caporal Billy Kitchen.
-Sacrément ravi de te voir.
+Sacrï¿½ment ravi de te voir.
 
 129
 00:10:40,400 --> 00:10:41,920
@@ -556,11 +556,11 @@ Comment vas-tu ?
 
 130
 00:10:42,000 --> 00:10:43,360
-Je sors moi-même de blessure.
+Je sors moi-mï¿½me de blessure.
 
 131
 00:10:43,440 --> 00:10:45,560
-Prêt pour le service actif.
+Prï¿½t pour le service actif.
 
 132
 00:10:45,640 --> 00:10:47,200
@@ -568,7 +568,7 @@ Merci de me rencontrer ici, Tommy.
 
 133
 00:10:47,280 --> 00:10:49,920
-Pas de problème.
+Pas de problï¿½me.
 Tu n'as pas besoin de faire la queue.
 
 134
@@ -577,13 +577,13 @@ On cherche des hommes comme toi.
 
 135
 00:10:51,920 --> 00:10:54,600
-Mais d'abord, tu devras réussir
-les examens médicaux.
+Mais d'abord, tu devras rï¿½ussir
+les examens mï¿½dicaux.
 
 136
 00:10:54,960 --> 00:10:58,160
-La pègre de Sheffield était
-à l'hippodrome de Wincanton.
+La pï¿½gre de Sheffield ï¿½tait
+ï¿½ l'hippodrome de Wincanton.
 
 137
 00:10:59,160 --> 00:11:00,760
@@ -591,11 +591,11 @@ J'ai pris une balle.
 
 138
 00:11:04,040 --> 00:11:05,760
-Quand enlèves-tu tes bandages ?
+Quand enlï¿½ves-tu tes bandages ?
 
 139
 00:11:05,840 --> 00:11:07,600
-Quand je les enlèverai.
+Quand je les enlï¿½verai.
 
 140
 00:11:08,320 --> 00:11:10,280
@@ -603,32 +603,32 @@ Pas avant une semaine.
 
 141
 00:11:10,440 --> 00:11:11,960
-Il n'y aura pas d'odeur nauséabonde.
+Il n'y aura pas d'odeur nausï¿½abonde.
 
 142
 00:11:12,040 --> 00:11:13,800
-Il n'y a pas de gangrène.
+Il n'y a pas de gangrï¿½ne.
 
 143
 00:11:14,640 --> 00:11:16,840
-Ça faisait longtemps, hein, Billy ?
+ï¿½a faisait longtemps, hein, Billy ?
 
 144
 00:11:18,560 --> 00:11:20,120
-Qu'as-tu fait de tes médailles ?
+Qu'as-tu fait de tes mï¿½dailles ?
 
 145
 00:11:20,200 --> 00:11:23,520
-Je les ai bazardées. Comme toi.
+Je les ai bazardï¿½es. Comme toi.
 
 146
 00:11:25,320 --> 00:11:28,600
-C'était très bien de vous avoir,
-les Black Country, à notre gauche.
+C'ï¿½tait trï¿½s bien de vous avoir,
+les Black Country, ï¿½ notre gauche.
 
 147
 00:11:29,440 --> 00:11:31,320
-Et vous, les Brummies, à notre droite.
+Et vous, les Brummies, ï¿½ notre droite.
 
 148
 00:11:31,400 --> 00:11:32,880
@@ -640,11 +640,11 @@ Je veux que tu sois chef de brigade, Bill.
 
 150
 00:11:37,560 --> 00:11:40,240
-Tu seras le brigadier Kitchen, désormais.
+Tu seras le brigadier Kitchen, dï¿½sormais.
 
 151
 00:11:40,480 --> 00:11:43,160
-Tu seras à la tête de 100 hommes.
+Tu seras ï¿½ la tï¿½te de 100 hommes.
 
 152
 00:11:44,560 --> 00:11:47,040
@@ -653,8 +653,8 @@ de la famille Kitchen,
 
 153
 00:11:47,960 --> 00:11:50,880
-peut-être que tes cousins
-et tes frères ne pilleront plus
+peut-ï¿½tre que tes cousins
+et tes frï¿½res ne pilleront plus
 
 154
 00:11:50,960 --> 00:11:53,360
@@ -676,7 +676,7 @@ et fais passer le mot.
 158
 00:12:00,440 --> 00:12:03,520
 Les gars du Black Country et les Brummies
-à nouveau côte à côte.
+ï¿½ nouveau cï¿½te ï¿½ cï¿½te.
 
 159
 00:12:03,680 --> 00:12:05,640
@@ -688,16 +688,16 @@ C'est un grand jour.
 
 161
 00:12:09,480 --> 00:12:12,360
-Londres. Pour l'enlèvement.
+Londres. Pour l'enlï¿½vement.
 
 162
 00:12:26,360 --> 00:12:30,240
-Tommy, je dois utiliser le téléphone.
+Tommy, je dois utiliser le tï¿½lï¿½phone.
 Polly a dit que tu en as un au pub.
 
 163
 00:12:32,120 --> 00:12:34,400
-Bon, fais vite. Je suis occupé.
+Bon, fais vite. Je suis occupï¿½.
 
 164
 00:12:37,800 --> 00:12:40,280
@@ -706,7 +706,7 @@ Bon, fais vite. Je suis occupé.
 
 165
 00:12:41,080 --> 00:12:42,880
-comme beaucoup d'autres établissements.
+comme beaucoup d'autres ï¿½tablissements.
 
 166
 00:12:43,320 --> 00:12:45,280
@@ -715,7 +715,7 @@ Tu l'appelles "Polly" ou "maman" ?
 167
 00:12:45,600 --> 00:12:47,600
 Je n'arrive pas encore
-à l'appeler "maman".
+ï¿½ l'appeler "maman".
 
 168
 00:12:51,280 --> 00:12:52,440
@@ -723,7 +723,7 @@ Qui est-ce que tu appelles ?
 
 169
 00:12:52,520 --> 00:12:54,360
-Ma mère. Enfin...
+Ma mï¿½re. Enfin...
 
 170
 00:12:54,840 --> 00:12:56,640
@@ -735,7 +735,7 @@ Que vas-tu lui dire ?
 
 172
 00:12:59,440 --> 00:13:01,560
-Je vais lui dire où je suis.
+Je vais lui dire oï¿½ je suis.
 
 173
 00:13:01,640 --> 00:13:03,960
@@ -753,7 +753,7 @@ quelques jours.
 
 176
 00:13:15,840 --> 00:13:17,400
-Quel âge as-tu, Michael ?
+Quel ï¿½ge as-tu, Michael ?
 
 177
 00:13:17,480 --> 00:13:18,600
@@ -762,12 +762,12 @@ Dix-sept ans.
 178
 00:13:18,680 --> 00:13:21,480
 Dix-sept ans.
-Ce n'est donc pas toi qui décides.
+Ce n'est donc pas toi qui dï¿½cides.
 
 179
 00:13:21,960 --> 00:13:24,360
 Dix-huit dans quelques semaines.
-C'est moi qui décide.
+C'est moi qui dï¿½cide.
 
 180
 00:13:24,760 --> 00:13:26,080
@@ -783,7 +783,7 @@ Tu bois ?
 
 183
 00:13:36,640 --> 00:13:38,600
-Tu vas appeler ta mère
+Tu vas appeler ta mï¿½re
 
 184
 00:13:38,680 --> 00:13:41,000
@@ -792,16 +792,16 @@ par le prochain train.
 
 185
 00:13:41,360 --> 00:13:42,520
-Un fois rentré,
+Un fois rentrï¿½,
 
 186
 00:13:42,600 --> 00:13:44,680
-tu diras à Polly, par courrier,
+tu diras ï¿½ Polly, par courrier,
 qu'une fois majeur,
 
 187
 00:13:44,760 --> 00:13:46,000
-tu reviendras régler tes affaires.
+tu reviendras rï¿½gler tes affaires.
 
 188
 00:13:46,080 --> 00:13:47,680
@@ -809,7 +809,7 @@ Je viens de te le dire.
 
 189
 00:13:49,160 --> 00:13:51,000
-C'est moi qui décide.
+C'est moi qui dï¿½cide.
 
 190
 00:13:53,440 --> 00:13:56,480
@@ -835,12 +835,12 @@ qu'on ne fait que le bien.
 195
 00:14:18,280 --> 00:14:22,000
 On ne fait pas le bien.
-Des gens sont blessés.
+Des gens sont blessï¿½s.
 
 196
 00:14:24,920 --> 00:14:28,760
-Appelle ta mère,
-et je t'emmène à la gare.
+Appelle ta mï¿½re,
+et je t'emmï¿½ne ï¿½ la gare.
 
 197
 00:14:28,840 --> 00:14:29,880
@@ -852,7 +852,7 @@ Dans mon village,
 
 199
 00:14:38,360 --> 00:14:40,120
-il y a un petit puits aux vœux.
+il y a un petit puits aux vï¿½ux.
 
 200
 00:14:41,440 --> 00:14:44,640
@@ -869,21 +869,21 @@ Mais je le jure devant Dieu,
 
 203
 00:14:53,400 --> 00:14:54,960
-si je passe un jour de plus là-bas,
+si je passe un jour de plus lï¿½-bas,
 
 204
 00:14:55,880 --> 00:14:58,120
-je le ferai sauter à la dynamite.
+je le ferai sauter ï¿½ la dynamite.
 
 205
 00:14:58,880 --> 00:15:01,960
 J'y perdrai certainement les mains,
-mais ça en vaudra le coup.
+mais ï¿½a en vaudra le coup.
 
 206
 00:15:03,520 --> 00:15:09,920
 Juste pour voir ces jolies briques
-éparpillées dans tout le parc communal.
+ï¿½parpillï¿½es dans tout le parc communal.
 
 207
 00:15:23,400 --> 00:15:26,000
@@ -903,7 +903,7 @@ N'attendez pas !
 
 211
 00:15:52,200 --> 00:15:53,920
-Et que ça saute !
+Et que ï¿½a saute !
 
 212
 00:15:57,080 --> 00:15:58,200
@@ -928,7 +928,7 @@ Boulanger.
 
 217
 00:16:25,400 --> 00:16:27,880
-Bon garçon. Remplissez ça et déguerpissez.
+Bon garï¿½on. Remplissez ï¿½a et dï¿½guerpissez.
 
 218
 00:16:28,400 --> 00:16:29,720
@@ -952,7 +952,7 @@ Boulanger.
 
 223
 00:16:40,280 --> 00:16:42,760
-Bon garçon. Remplissez ça et déguerpissez.
+Bon garï¿½on. Remplissez ï¿½a et dï¿½guerpissez.
 
 224
 00:16:44,000 --> 00:16:45,280
@@ -965,7 +965,7 @@ Au suivant !
 
 226
 00:16:49,000 --> 00:16:51,400
-Billy Kitchen. Métier ?
+Billy Kitchen. Mï¿½tier ?
 
 227
 00:16:51,480 --> 00:16:52,840
@@ -973,7 +973,7 @@ Boulanger en chef.
 
 228
 00:16:59,440 --> 00:17:00,840
-Remplissez ça.
+Remplissez ï¿½a.
 
 229
 00:17:08,840 --> 00:17:10,400
@@ -998,8 +998,8 @@ Nom ?
 
 234
 00:17:23,800 --> 00:17:26,880
-Bien, vous êtes désormais
-tous enregistrés en tant que boulangers
+Bien, vous ï¿½tes dï¿½sormais
+tous enregistrï¿½s en tant que boulangers
 
 235
 00:17:27,880 --> 00:17:30,160
@@ -1009,12 +1009,12 @@ de Camden Town.
 236
 00:17:30,480 --> 00:17:34,160
 Si on vous le demande,
-vous êtes boulangers.
+vous ï¿½tes boulangers.
 
 237
 00:17:34,840 --> 00:17:37,120
 Les flics de Camden Town
-sont de notre côté,
+sont de notre cï¿½tï¿½,
 
 238
 00:17:37,840 --> 00:17:41,200
@@ -1024,7 +1024,7 @@ montrez-leur ce papier.
 239
 00:17:42,040 --> 00:17:45,640
 Dites-leur que vous venez du nord
-pour le travail, pour briser les grèves.
+pour le travail, pour briser les grï¿½ves.
 
 240
 00:17:46,600 --> 00:17:48,640
@@ -1032,12 +1032,12 @@ Dites-vous fascistes, si besoin.
 
 241
 00:17:50,000 --> 00:17:51,600
-On vous cherche un hébergement,
+On vous cherche un hï¿½bergement,
 
 242
 00:17:51,680 --> 00:17:54,000
 mais pour l'instant,
-vous dormirez à la boulangerie.
+vous dormirez ï¿½ la boulangerie.
 
 243
 00:17:55,200 --> 00:17:58,880
@@ -1058,7 +1058,7 @@ Je n'ai pas vu de pain.
 
 247
 00:18:43,880 --> 00:18:45,360
-Il se réveillera.
+Il se rï¿½veillera.
 
 248
 00:18:46,040 --> 00:18:50,360
@@ -1067,7 +1067,7 @@ mais il sera plus sage.
 
 249
 00:18:53,160 --> 00:18:56,520
-La dernière chose dont il se souviendra,
+La derniï¿½re chose dont il se souviendra,
 c'est de ta petite blague.
 
 250
@@ -1076,20 +1076,20 @@ Bien !
 
 251
 00:19:07,880 --> 00:19:09,480
-Il y a des règles, ici !
+Il y a des rï¿½gles, ici !
 
 252
 00:19:09,560 --> 00:19:13,240
-Oui, des putains de règles
+Oui, des putains de rï¿½gles
 pour une putain de raison.
 
 253
 00:19:13,440 --> 00:19:16,040
-En gros, vous devez y obéir. Compris ?
+En gros, vous devez y obï¿½ir. Compris ?
 
 254
 00:19:18,560 --> 00:19:20,200
-Règle numéro un :
+Rï¿½gle numï¿½ro un :
 
 255
 00:19:20,920 --> 00:19:26,480
@@ -1098,16 +1098,16 @@ entre pain et rhum.
 
 256
 00:19:29,320 --> 00:19:30,920
-Règle numéro deux :
+Rï¿½gle numï¿½ro deux :
 
 257
 00:19:34,400 --> 00:19:38,440
 Tout ce que vous dit
-votre officier supérieur
+votre officier supï¿½rieur
 
 258
 00:19:38,640 --> 00:19:44,880
-ou tout ce qu'un autre officier supérieur
+ou tout ce qu'un autre officier supï¿½rieur
 vous dit ?
 
 259
@@ -1116,12 +1116,12 @@ On ne le discute pas !
 
 260
 00:19:50,560 --> 00:19:55,880
-Règle numéro trois, quatre, cinq, six,
+Rï¿½gle numï¿½ro trois, quatre, cinq, six,
 sept, huit, neuf, je m'en fiche.
 
 261
 00:19:56,000 --> 00:19:59,520
-Pour le reste de votre misérable vie.
+Pour le reste de votre misï¿½rable vie.
 
 262
 00:20:00,360 --> 00:20:02,280
@@ -1129,7 +1129,7 @@ Car, comme vous,
 
 263
 00:20:03,240 --> 00:20:06,680
-je suis un vrai enculé de sodomite.
+je suis un vrai enculï¿½ de sodomite.
 
 264
 00:20:12,120 --> 00:20:13,560
@@ -1145,11 +1145,11 @@ car les Juives ne sont pas pour vous.
 
 267
 00:20:23,560 --> 00:20:24,760
-Je trouve ça normal.
+Je trouve ï¿½a normal.
 
 268
 00:20:46,520 --> 00:20:48,160
-Voilà, c'est tout.
+Voilï¿½, c'est tout.
 
 269
 00:20:49,560 --> 00:20:51,440
@@ -1162,7 +1162,7 @@ Relevez-le.
 271
 00:21:07,440 --> 00:21:10,600
 Faites-les sortir,
-et faites que ça fonctionne.
+et faites que ï¿½a fonctionne.
 
 272
 00:21:14,760 --> 00:21:16,720
@@ -1170,11 +1170,11 @@ N'attendez pas !
 
 273
 00:21:17,080 --> 00:21:19,240
-Vous êtes censés être des soldats !
+Vous ï¿½tes censï¿½s ï¿½tre des soldats !
 
 274
 00:21:20,480 --> 00:21:22,520
-Vous êtes une honte !
+Vous ï¿½tes une honte !
 
 275
 00:21:22,960 --> 00:21:24,000
@@ -1186,7 +1186,7 @@ Tu as une clef ?
 
 277
 00:22:22,840 --> 00:22:24,000
-J'ai gardé un double.
+J'ai gardï¿½ un double.
 
 278
 00:22:24,080 --> 00:22:25,520
@@ -1198,7 +1198,7 @@ Tu pourrais repeindre un peu.
 
 280
 00:22:34,440 --> 00:22:36,640
-Oui, quand je l'aurai décidé.
+Oui, quand je l'aurai dï¿½cidï¿½.
 
 281
 00:22:44,440 --> 00:22:45,720
@@ -1210,7 +1210,7 @@ Je venais te dire bonjour.
 
 283
 00:22:49,560 --> 00:22:52,120
-Tommy Shelby ne se déplace jamais
+Tommy Shelby ne se dï¿½place jamais
 sans raison.
 
 284
@@ -1219,17 +1219,17 @@ D'accord.
 
 285
 00:22:57,440 --> 00:23:00,840
-Il me reste 800 £
-sur le fonds de propriété des Shelby,
+Il me reste 800 ï¿½
+sur le fonds de propriï¿½tï¿½ des Shelby,
 
 286
 00:23:01,840 --> 00:23:04,280
 et il me faut quelqu'un ici
-pour chercher des propriétés.
+pour chercher des propriï¿½tï¿½s.
 
 287
 00:23:05,000 --> 00:23:06,240
-À louer ?
+ï¿½ louer ?
 
 288
 00:23:07,600 --> 00:23:08,680
@@ -1245,7 +1245,7 @@ Dix pour une chambre.
 
 291
 00:23:12,720 --> 00:23:14,520
-Pas de réparations, pas d'eau.
+Pas de rï¿½parations, pas d'eau.
 
 292
 00:23:14,840 --> 00:23:17,320
@@ -1254,11 +1254,11 @@ tu leur envoies Arthur et les gars.
 
 293
 00:23:19,760 --> 00:23:21,680
-Je suis conseillère, à la bibliothèque.
+Je suis conseillï¿½re, ï¿½ la bibliothï¿½que.
 
 294
 00:23:22,920 --> 00:23:25,160
-Pour les familles à la rue.
+Pour les familles ï¿½ la rue.
 
 295
 00:23:26,440 --> 00:23:28,600
@@ -1267,7 +1267,7 @@ Ce sont les hommes comme toi qu'on combat.
 296
 00:23:31,920 --> 00:23:36,000
 Bref, je ne faisais que passer.
-Merci pour le thé.
+Merci pour le thï¿½.
 
 297
 00:23:39,800 --> 00:23:41,080
@@ -1284,7 +1284,7 @@ Oui. Les pires des gangsters.
 
 300
 00:23:52,000 --> 00:23:53,240
-Mais ils sont là pour te protéger.
+Mais ils sont lï¿½ pour te protï¿½ger.
 
 301
 00:23:53,320 --> 00:23:55,240
@@ -1293,7 +1293,7 @@ On dirait des flics.
 
 302
 00:23:57,640 --> 00:23:59,160
-Alors, ils sont aussi de ton côté.
+Alors, ils sont aussi de ton cï¿½tï¿½.
 
 303
 00:24:00,480 --> 00:24:01,880
@@ -1314,15 +1314,15 @@ je ne pourrais pas dormir.
 
 307
 00:24:12,640 --> 00:24:14,080
-À plus tard.
+ï¿½ plus tard.
 
 308
 00:24:29,440 --> 00:24:33,520
-C'était super. Bien joué. Sortons.
+C'ï¿½tait super. Bien jouï¿½. Sortons.
 
 309
 00:24:43,800 --> 00:24:45,960
-Cette maison est à moi.
+Cette maison est ï¿½ moi.
 
 310
 00:24:48,880 --> 00:24:50,360
@@ -1330,11 +1330,11 @@ J'ai pris une bonne.
 
 311
 00:24:51,040 --> 00:24:52,800
-Elle t'a préparé la grande chambre.
+Elle t'a prï¿½parï¿½ la grande chambre.
 
 312
 00:24:53,800 --> 00:24:55,880
-Allons y jeter un œil.
+Allons y jeter un ï¿½il.
 
 313
 00:25:04,400 --> 00:25:06,480
@@ -1343,11 +1343,11 @@ qu'on pourrait passer la semaine ici.
 
 314
 00:25:10,880 --> 00:25:13,560
-Tu sais, pour apprendre à se connaître.
+Tu sais, pour apprendre ï¿½ se connaï¿½tre.
 
 315
 00:25:19,440 --> 00:25:21,200
-J'ai du jambon. Tu aimes ça ?
+J'ai du jambon. Tu aimes ï¿½a ?
 
 316
 00:25:22,360 --> 00:25:23,960
@@ -1356,15 +1356,15 @@ Oui.
 317
 00:25:26,920 --> 00:25:28,640
 - J'ai une bonne...
-- Tu l'as déjà dit.
+- Tu l'as dï¿½jï¿½ dit.
 
 318
 00:25:31,520 --> 00:25:33,040
-Elle est à l'étage.
+Elle est ï¿½ l'ï¿½tage.
 
 319
 00:25:34,840 --> 00:25:36,200
-Elle peut nous servir le thé.
+Elle peut nous servir le thï¿½.
 
 320
 00:25:36,280 --> 00:25:39,160
@@ -1376,7 +1376,7 @@ Oui, madame.
 
 322
 00:25:51,320 --> 00:25:53,000
-Nous prendrions bien du thé.
+Nous prendrions bien du thï¿½.
 
 323
 00:25:59,960 --> 00:26:01,320
@@ -1384,28 +1384,28 @@ On s'y habitue.
 
 324
 00:26:45,200 --> 00:26:47,800
-On a déjà embauché quelqu'un
-au poste de femme de ménage.
+On a dï¿½jï¿½ embauchï¿½ quelqu'un
+au poste de femme de mï¿½nage.
 
 325
 00:26:48,520 --> 00:26:50,200
-Je ne suis pas femme de ménage.
+Je ne suis pas femme de mï¿½nage.
 
 326
 00:26:52,080 --> 00:26:54,840
-Mais je suis venue faire le ménage.
+Mais je suis venue faire le mï¿½nage.
 
 327
 00:26:59,720 --> 00:27:01,800
-Rangez ça avant que le coup ne parte.
+Rangez ï¿½a avant que le coup ne parte.
 
 328
 00:27:01,880 --> 00:27:04,520
-Vous avez tué mon fils !
+Vous avez tuï¿½ mon fils !
 
 329
 00:27:05,400 --> 00:27:08,160
-Enfoiré de gangster !
+Enfoirï¿½ de gangster !
 
 330
 00:27:09,960 --> 00:27:14,840
@@ -1413,7 +1413,7 @@ Vous l'avez battu encore et encore.
 
 331
 00:27:16,920 --> 00:27:18,520
-Votre fils était un boxeur.
+Votre fils ï¿½tait un boxeur.
 
 332
 00:27:18,600 --> 00:27:19,640
@@ -1421,11 +1421,11 @@ Non !
 
 333
 00:27:22,680 --> 00:27:24,080
-C'était un garçon,
+C'ï¿½tait un garï¿½on,
 
 334
 00:27:26,120 --> 00:27:29,440
-il s'est retrouvé sur le ring
+il s'est retrouvï¿½ sur le ring
 contre un animal.
 
 335
@@ -1434,12 +1434,12 @@ Ce n'est pas vrai.
 
 336
 00:27:33,320 --> 00:27:35,120
-Je suis venue vous arrêter,
+Je suis venue vous arrï¿½ter,
 
 337
 00:27:37,200 --> 00:27:40,720
 car personne,
-pas même les flics, ne le fera.
+pas mï¿½me les flics, ne le fera.
 
 338
 00:27:50,120 --> 00:27:51,440
@@ -1447,7 +1447,7 @@ Si vous devez le faire,
 
 339
 00:27:52,680 --> 00:27:54,360
-visez ma tête.
+visez ma tï¿½te.
 
 340
 00:27:56,200 --> 00:27:57,560
@@ -1455,8 +1455,8 @@ C'est elle qui cause les soucis.
 
 341
 00:28:00,160 --> 00:28:02,760
-Les soldats blessés par balle
-meurent après 12 heures.
+Les soldats blessï¿½s par balle
+meurent aprï¿½s 12 heures.
 
 342
 00:28:04,480 --> 00:28:05,960
@@ -1464,7 +1464,7 @@ Je les ai vus.
 
 343
 00:28:06,400 --> 00:28:09,720
-À déambuler, les entrailles sur les bras,
+ï¿½ dï¿½ambuler, les entrailles sur les bras,
 tel du linge sale.
 
 344
@@ -1490,7 +1490,7 @@ si vous voulez.
 
 349
 00:29:15,600 --> 00:29:18,240
-Écoutez. Regardez-moi.
+ï¿½coutez. Regardez-moi.
 
 350
 00:29:20,520 --> 00:29:22,160
@@ -1498,11 +1498,11 @@ On a une cagnotte.
 
 351
 00:29:23,800 --> 00:29:25,680
-Pour vous. Versée chaque semaine.
+Pour vous. Versï¿½e chaque semaine.
 
 352
 00:29:29,840 --> 00:29:31,840
-Ça ne vous rendra pas votre fils.
+ï¿½a ne vous rendra pas votre fils.
 
 353
 00:29:35,320 --> 00:29:36,720
@@ -1522,7 +1522,7 @@ On leur trouvera un travail.
 
 357
 00:29:49,000 --> 00:29:50,400
-Vous n'aurez pas à travailler.
+Vous n'aurez pas ï¿½ travailler.
 
 358
 00:29:51,040 --> 00:29:52,480
@@ -1530,11 +1530,11 @@ Vous serez...
 
 359
 00:30:01,000 --> 00:30:05,680
-Quelqu'un doit vous arrêter, vous autres.
+Quelqu'un doit vous arrï¿½ter, vous autres.
 
 360
 00:30:27,960 --> 00:30:30,000
-Qui a cassé le miroir ?
+Qui a cassï¿½ le miroir ?
 
 361
 00:30:30,080 --> 00:30:32,000
@@ -1546,7 +1546,7 @@ On aura quatre cargaisons de plus, demain.
 
 363
 00:30:42,720 --> 00:30:44,840
-Ça ne va pas, Charlie ?
+ï¿½a ne va pas, Charlie ?
 Les affaires marchent.
 
 364
@@ -1557,25 +1557,25 @@ mais du sport.
 365
 00:30:48,840 --> 00:30:52,640
 L'alcool et les cigarettes, d'accord,
-mais ces trucs manufacturés, c'est lourd.
+mais ces trucs manufacturï¿½s, c'est lourd.
 
 366
 00:30:53,880 --> 00:30:56,120
-Je suis même pas sûr
-que ce soit volé.
+Je suis mï¿½me pas sï¿½r
+que ce soit volï¿½.
 
 367
 00:30:57,080 --> 00:31:01,760
-On en a acheté une partie légalement.
+On en a achetï¿½ une partie lï¿½galement.
 Un jour, ce sera le cas pour le tout.
 
 368
 00:31:02,280 --> 00:31:03,840
-Ça revient à travailler.
+ï¿½a revient ï¿½ travailler.
 
 369
 00:31:03,920 --> 00:31:06,160
-Hé ! Doucement
+Hï¿½ ! Doucement
 avec les courroies de ventilateur.
 
 370
@@ -1585,16 +1585,16 @@ Une livre de plus par cargo.
 
 371
 00:31:13,800 --> 00:31:14,920
-Adjugé.
+Adjugï¿½.
 
 372
 00:31:17,560 --> 00:31:19,520
-Tu ne négocies même plus.
+Tu ne nï¿½gocies mï¿½me plus.
 
 373
 00:31:21,080 --> 00:31:24,080
 Et ce n'est pas difficile de traverser
-Black Country avec la trêve.
+Black Country avec la trï¿½ve.
 
 374
 00:31:24,720 --> 00:31:27,200
@@ -1603,16 +1603,16 @@ depuis la rive.
 
 375
 00:31:28,160 --> 00:31:30,160
-Alors, répondez-leur.
+Alors, rï¿½pondez-leur.
 
 376
 00:31:31,360 --> 00:31:33,440
-Et toutes ces satanées voitures.
+Et toutes ces satanï¿½es voitures.
 
 377
 00:31:33,880 --> 00:31:36,200
-Quand as-tu monté un cheval
-pour la dernière fois ?
+Quand as-tu montï¿½ un cheval
+pour la derniï¿½re fois ?
 
 378
 00:31:51,080 --> 00:31:53,400
@@ -1642,27 +1642,27 @@ c'est une maison respectable.
 
 384
 00:32:12,960 --> 00:32:16,480
-À votre exception,
-je ne reçois jamais d'Irlandais, ici.
+ï¿½ votre exception,
+je ne reï¿½ois jamais d'Irlandais, ici.
 
 385
 00:32:19,560 --> 00:32:22,960
-Prévenez-moi si un Irlandais
+Prï¿½venez-moi si un Irlandais
 vient vous demander une chambre.
 
 386
 00:32:24,480 --> 00:32:27,560
-Même si vous les refusez,
-prévenez-moi, s'il vous plaît.
+Mï¿½me si vous les refusez,
+prï¿½venez-moi, s'il vous plaï¿½t.
 
 387
 00:32:28,160 --> 00:32:30,440
-J'espère que ça ne présage pas des ennuis.
+J'espï¿½re que ï¿½a ne prï¿½sage pas des ennuis.
 
 388
 00:32:30,520 --> 00:32:32,760
 On m'a dit
-que vous étiez un genre de policier.
+que vous ï¿½tiez un genre de policier.
 
 389
 00:32:33,640 --> 00:32:36,480
@@ -1670,17 +1670,17 @@ Non. Il n'y aura pas d'ennuis.
 
 390
 00:32:38,400 --> 00:32:43,960
-Y a-t-il un café à proximité servant
-des côtelettes d'agneau ou de porc ?
+Y a-t-il un cafï¿½ ï¿½ proximitï¿½ servant
+des cï¿½telettes d'agneau ou de porc ?
 
 391
 00:32:44,400 --> 00:32:49,400
-Il y en a un à deux rues d'ici,
-mais je propose moi-même des sandwichs.
+Il y en a un ï¿½ deux rues d'ici,
+mais je propose moi-mï¿½me des sandwichs.
 
 392
 00:32:50,000 --> 00:32:51,920
-Œuf et cresson, ou jambon.
+ï¿½uf et cresson, ou jambon.
 
 393
 00:32:53,080 --> 00:32:54,680
@@ -1696,25 +1696,25 @@ Je pense sortir prendre l'air.
 
 396
 00:33:13,920 --> 00:33:15,800
-Notre rendez-vous n'est prévu
+Notre rendez-vous n'est prï¿½vu
 que dimanche.
 
 397
 00:33:17,200 --> 00:33:19,440
-J'ai décidé de l'avancer.
+J'ai dï¿½cidï¿½ de l'avancer.
 
 398
 00:33:19,880 --> 00:33:22,640
 Vous vouliez me montrer
-que vous savez où je vis, n'est-ce pas ?
+que vous savez oï¿½ je vis, n'est-ce pas ?
 
 399
 00:33:22,720 --> 00:33:24,280
-Dois-je en être impressionné ?
+Dois-je en ï¿½tre impressionnï¿½ ?
 
 400
 00:33:26,160 --> 00:33:29,440
-M. Churchill l'était, vous savez.
+M. Churchill l'ï¿½tait, vous savez.
 
 401
 00:33:30,360 --> 00:33:31,760
@@ -1722,7 +1722,7 @@ En effet.
 
 402
 00:33:33,080 --> 00:33:35,280
-Toutes mes exigences ont été satisfaites.
+Toutes mes exigences ont ï¿½tï¿½ satisfaites.
 
 403
 00:33:36,960 --> 00:33:38,560
@@ -1734,24 +1734,24 @@ Oui.
 
 405
 00:33:40,320 --> 00:33:44,240
-Votre lettre nous a été lue à une réunion.
+Votre lettre nous a ï¿½tï¿½ lue ï¿½ une rï¿½union.
 
 406
 00:33:45,680 --> 00:33:48,640
-D'ailleurs, elle a suscité l'hilarité.
+D'ailleurs, elle a suscitï¿½ l'hilaritï¿½.
 
 407
 00:33:48,760 --> 00:33:51,000
-Ces messieurs l'ont trouvée très drôle.
+Ces messieurs l'ont trouvï¿½e trï¿½s drï¿½le.
 
 408
 00:33:51,880 --> 00:33:54,400
-Je vois, ils l'ont trouvée très drôle.
+Je vois, ils l'ont trouvï¿½e trï¿½s drï¿½le.
 
 409
 00:33:55,200 --> 00:34:00,800
 Dites-moi, M. Campbell, ces messieurs
-vous trouvent-ils parfois drôle ?
+vous trouvent-ils parfois drï¿½le ?
 
 410
 00:34:06,640 --> 00:34:09,320
@@ -1760,11 +1760,11 @@ de notre affaire,
 
 411
 00:34:10,320 --> 00:34:12,880
-au jour convenu, à l'heure convenue,
+au jour convenu, ï¿½ l'heure convenue,
 
 412
 00:34:13,400 --> 00:34:16,440
-et à l'endroit déjà établi.
+et ï¿½ l'endroit dï¿½jï¿½ ï¿½tabli.
 
 413
 00:34:17,600 --> 00:34:20,880
@@ -1791,26 +1791,26 @@ comment devrais-je dire ?
 
 418
 00:34:38,480 --> 00:34:43,480
-Votre propriétaire tenait le bordel
+Votre propriï¿½taire tenait le bordel
 le plus populaire de Stechford.
 
 419
 00:34:44,400 --> 00:34:45,960
-Elle n'est pas tout à fait retraitée.
+Elle n'est pas tout ï¿½ fait retraitï¿½e.
 
 420
 00:34:47,520 --> 00:34:50,240
 Je parie que ces messieurs
-trouveraient ça drôle.
+trouveraient ï¿½a drï¿½le.
 
 421
 00:34:54,680 --> 00:34:57,800
 Je vous le dis
-en toute amitié et coopération.
+en toute amitiï¿½ et coopï¿½ration.
 
 422
 00:35:00,440 --> 00:35:01,960
-À dimanche !
+ï¿½ dimanche !
 
 423
 00:35:03,360 --> 00:35:05,120
@@ -1831,31 +1831,31 @@ Profession ?
 
 427
 00:35:14,080 --> 00:35:15,760
-Bookmaker non déclaré.
+Bookmaker non dï¿½clarï¿½.
 
 428
 00:35:16,080 --> 00:35:20,560
 On ne le dit pas ouvertement.
-Dites plutôt "réparateur de parapluies".
+Dites plutï¿½t "rï¿½parateur de parapluies".
 
 429
 00:35:20,640 --> 00:35:23,440
 On se dira que vous mentez,
-puis on vous arrêtera.
+puis on vous arrï¿½tera.
 
 430
 00:35:24,720 --> 00:35:26,120
-Réparateur de parapluies.
+Rï¿½parateur de parapluies.
 
 431
 00:35:28,800 --> 00:35:31,120
-On vous a trouvé
+On vous a trouvï¿½
 en possession de bulletins de paris,
 
 432
 00:35:31,960 --> 00:35:34,040
 de grilles de course
-et de bandes de télex.
+et de bandes de tï¿½lex.
 
 433
 00:35:34,720 --> 00:35:36,320
@@ -1897,16 +1897,16 @@ Nom de Dieu.
 
 442
 00:36:19,640 --> 00:36:21,560
-Vous l'avez tué, hein ?
+Vous l'avez tuï¿½, hein ?
 
 443
 00:36:22,560 --> 00:36:24,440
 Je l'ai dit,
-il n'est pas facile à atteindre.
+il n'est pas facile ï¿½ atteindre.
 
 444
 00:36:25,240 --> 00:36:27,320
-Il est entouré d'une armée.
+Il est entourï¿½ d'une armï¿½e.
 
 445
 00:36:28,280 --> 00:36:29,800
@@ -1942,7 +1942,7 @@ On pourrait s'en servir.
 452
 00:36:48,800 --> 00:36:51,680
 Combien de boulangers
-y a-t-il actuellement, à Camden Tow ?
+y a-t-il actuellement, ï¿½ Camden Tow ?
 
 453
 00:36:52,880 --> 00:36:55,160
@@ -1951,11 +1951,11 @@ Il y en a beaucoup, M. Sabini,
 454
 00:36:55,960 --> 00:36:59,600
 mais comme je l'ai dit,
-on n'a pas encore de chiffre précis.
+on n'a pas encore de chiffre prï¿½cis.
 
 455
 00:36:59,760 --> 00:37:01,640
-Qui a gagné la cote 4:15 à Chepstow ?
+Qui a gagnï¿½ la cote 4:15 ï¿½ Chepstow ?
 
 456
 00:37:01,720 --> 00:37:03,000
@@ -1963,12 +1963,12 @@ Ragman.
 
 457
 00:37:03,240 --> 00:37:05,040
-- Où est mon linge ?
-- On l'a récupéré.
+- Oï¿½ est mon linge ?
+- On l'a rï¿½cupï¿½rï¿½.
 
 458
 00:37:05,120 --> 00:37:07,520
-Qui a gagné la cote 3:50 à Kempton Park ?
+Qui a gagnï¿½ la cote 3:50 ï¿½ Kempton Park ?
 
 459
 00:37:11,240 --> 00:37:13,280
@@ -1977,7 +1977,7 @@ Qui a gagné la cote 3:50 à Kempton Park ?
 
 460
 00:37:13,880 --> 00:37:15,840
-Pas besoin. Je le sais déjà.
+Pas besoin. Je le sais dï¿½jï¿½.
 
 461
 00:37:20,200 --> 00:37:24,240
@@ -1985,7 +1985,7 @@ Vous voyez, les favoris gagnent.
 
 462
 00:37:24,840 --> 00:37:27,440
-Et les deuxièmes favoris perdent.
+Et les deuxiï¿½mes favoris perdent.
 
 463
 00:37:29,440 --> 00:37:31,240
@@ -1994,7 +1994,7 @@ Et les deuxièmes favoris perdent.
 
 464
 00:37:31,480 --> 00:37:33,880
-Des trucs de bohémiens.
+Des trucs de bohï¿½miens.
 Des herbes, des potions.
 
 465
@@ -2014,12 +2014,12 @@ Mais le profit, vous savez,
 
 468
 00:37:52,000 --> 00:37:54,480
-ça passe avant les courses,
+ï¿½a passe avant les courses,
 les principes ou la famille.
 
 469
 00:37:54,560 --> 00:37:56,080
-Les résultats me semblent normaux.
+Les rï¿½sultats me semblent normaux.
 
 470
 00:37:56,160 --> 00:37:58,040
@@ -2027,7 +2027,7 @@ Vous voyez que dalle !
 
 471
 00:37:58,880 --> 00:38:03,120
-M. Sabini, si vous pensez qu'ils prévoient
+M. Sabini, si vous pensez qu'ils prï¿½voient
 de truquer les courses du nord,
 
 472
@@ -2037,12 +2037,12 @@ au nord de Towcester.
 
 473
 00:38:06,400 --> 00:38:08,960
-- Je vous ai déjà donné une tâche.
-- Et elle sera effectuée.
+- Je vous ai dï¿½jï¿½ donnï¿½ une tï¿½che.
+- Et elle sera effectuï¿½e.
 
 474
 00:38:10,000 --> 00:38:12,120
-- Mais en même temps...
+- Mais en mï¿½me temps...
 - Merde !
 
 475
@@ -2051,19 +2051,19 @@ Que voulez-vous qu'on fasse
 
 476
 00:38:16,000 --> 00:38:17,640
-pour le gamin au trou à Birmingham ?
+pour le gamin au trou ï¿½ Birmingham ?
 
 477
 00:38:34,000 --> 00:38:36,280
-Vous voulez que je le dise à voix haute ?
+Vous voulez que je le dise ï¿½ voix haute ?
 
 478
 00:38:44,320 --> 00:38:46,480
-Quelqu'un nous écoute ?
+Quelqu'un nous ï¿½coute ?
 
 479
 00:38:53,080 --> 00:38:54,480
-Très bien, je vais le dire.
+Trï¿½s bien, je vais le dire.
 
 480
 00:38:54,560 --> 00:38:56,760
@@ -2073,7 +2073,7 @@ pour envoyer un message.
 481
 00:39:04,200 --> 00:39:08,360
 Bien, puis vous vous occuperez
-de ce satané Tommy Shelby.
+de ce satanï¿½ Tommy Shelby.
 
 482
 00:39:23,280 --> 00:39:25,080
@@ -2085,20 +2085,20 @@ Oui.
 
 484
 00:39:32,880 --> 00:39:34,720
-Déshabillez-vous.
+Dï¿½shabillez-vous.
 
 485
 00:39:41,320 --> 00:39:43,080
-Je sais ce que vous êtes.
+Je sais ce que vous ï¿½tes.
 
 486
 00:39:44,560 --> 00:39:47,000
-Déshabillez-vous donc.
+Dï¿½shabillez-vous donc.
 
 487
 00:39:52,880 --> 00:39:56,440
 Ce n'est pas vraiment digne
-d'un gentleman, à vrai dire.
+d'un gentleman, ï¿½ vrai dire.
 
 488
 00:39:58,160 --> 00:39:59,520
@@ -2106,7 +2106,7 @@ En effet.
 
 489
 00:40:08,280 --> 00:40:10,000
-C'est donc vrai. Arrêtez.
+C'est donc vrai. Arrï¿½tez.
 
 490
 00:40:12,440 --> 00:40:15,960
@@ -2119,7 +2119,7 @@ Encore moins une infection.
 
 492
 00:40:23,200 --> 00:40:24,880
-Êtes-vous dans le coup ?
+ï¿½tes-vous dans le coup ?
 
 493
 00:40:25,840 --> 00:40:27,160
@@ -2128,15 +2128,15 @@ Quel coup ?
 494
 00:40:30,160 --> 00:40:33,680
 J'ai des affaires en cours
-dans cette ville malfamée.
+dans cette ville malfamï¿½e.
 
 495
 00:40:34,240 --> 00:40:37,720
-Le moment venu, je les règlerai.
+Le moment venu, je les rï¿½glerai.
 
 496
 00:40:38,160 --> 00:40:41,880
-Et ma colère tombera
+Et ma colï¿½re tombera
 sur chacun d'entre vous.
 
 497
@@ -2145,7 +2145,7 @@ Mais pour l'instant,
 
 498
 00:40:46,440 --> 00:40:49,120
-dites à vos amis du commissariat
+dites ï¿½ vos amis du commissariat
 
 499
 00:40:50,480 --> 00:40:52,720
@@ -2165,7 +2165,7 @@ Sortez d'ici.
 
 503
 00:41:58,120 --> 00:42:00,400
-À droite. À droite.
+ï¿½ droite. ï¿½ droite.
 
 504
 00:42:01,280 --> 00:42:03,720
@@ -2173,11 +2173,11 @@ On n'a pas toute la nuit. Allez !
 
 505
 00:42:04,960 --> 00:42:07,400
-Watkins, va à droite.
+Watkins, va ï¿½ droite.
 
 506
 00:42:07,680 --> 00:42:10,600
-À droite ! Allez, les gars !
+ï¿½ droite ! Allez, les gars !
 
 507
 00:42:18,520 --> 00:42:20,000
@@ -2185,7 +2185,7 @@ Harold Hancox ?
 
 508
 00:42:26,080 --> 00:42:27,720
-Dis à tout le monde
+Dis ï¿½ tout le monde
 
 509
 00:42:28,560 --> 00:42:31,960
@@ -2199,7 +2199,7 @@ Ordre de Sabini.
 511
 00:42:34,760 --> 00:42:38,360
 Je ne suis pas un Blinder.
-C'est un coup monté.
+C'est un coup montï¿½.
 
 512
 00:42:38,680 --> 00:42:42,360
@@ -2207,8 +2207,8 @@ Je ne suis pas un vrai bookmaker !
 
 513
 00:42:59,840 --> 00:43:00,880
-Vous avez intérêt
-à avoir une bonne raison.
+Vous avez intï¿½rï¿½t
+ï¿½ avoir une bonne raison.
 
 514
 00:43:00,960 --> 00:43:02,040
@@ -2216,7 +2216,7 @@ Vous interrompez mes vacances.
 
 515
 00:43:02,920 --> 00:43:04,040
-Où est le petit ?
+Oï¿½ est le petit ?
 
 516
 00:43:04,120 --> 00:43:05,200
@@ -2224,8 +2224,8 @@ Dans la remise.
 
 517
 00:43:05,280 --> 00:43:07,480
-Je l'ai emmené,
-car on ira ensuite au musée.
+Je l'ai emmenï¿½,
+car on ira ensuite au musï¿½e.
 
 518
 00:43:07,560 --> 00:43:09,880
@@ -2244,31 +2244,31 @@ Tommy, crache le morceau.
 521
 00:43:20,520 --> 00:43:24,280
 Hier soir, un de nos hommes
-a été égorgé à Winson Green.
+a ï¿½tï¿½ ï¿½gorgï¿½ ï¿½ Winson Green.
 
 522
 00:43:25,080 --> 00:43:28,000
-Ce matin, j'ai reçu un télégramme.
-C'était sur ordre de Sabini.
+Ce matin, j'ai reï¿½u un tï¿½lï¿½gramme.
+C'ï¿½tait sur ordre de Sabini.
 
 523
 00:43:28,400 --> 00:43:30,560
-Il est écrit ici
+Il est ï¿½crit ici
 que le prochain sera Thomas Shelby.
 
 524
 00:43:31,920 --> 00:43:33,920
 Si nos hommes croient
-qu'on ne les protège pas
+qu'on ne les protï¿½ge pas
 
 525
 00:43:34,000 --> 00:43:35,080
-en tôle, ils ne marcheront pas.
+en tï¿½le, ils ne marcheront pas.
 
 526
 00:43:35,160 --> 00:43:38,160
 Sabini le sait.
-On doit régler ce problème au Green.
+On doit rï¿½gler ce problï¿½me au Green.
 
 527
 00:43:39,120 --> 00:43:41,320
@@ -2277,7 +2277,7 @@ Scudboat, toi et un des gars,
 528
 00:43:41,400 --> 00:43:43,440
 brisez quelques vitres,
-faites-vous arrêter.
+faites-vous arrï¿½ter.
 
 529
 00:43:43,960 --> 00:43:45,760
@@ -2302,11 +2302,11 @@ Tout le monde a une voiture.
 
 534
 00:43:54,280 --> 00:43:55,720
-Moi, je suis encore à dos d'âne.
+Moi, je suis encore ï¿½ dos d'ï¿½ne.
 
 535
 00:43:55,800 --> 00:43:58,840
-Faites-vous arrêter, peu importe comment.
+Faites-vous arrï¿½ter, peu importe comment.
 
 536
 00:43:59,000 --> 00:44:00,920
@@ -2314,15 +2314,15 @@ Vous riez, mais je vous rappelle
 
 537
 00:44:01,000 --> 00:44:02,520
-qu'un garçon est mort.
+qu'un garï¿½on est mort.
 
 538
 00:44:03,160 --> 00:44:04,840
-Ce n'était qu'un gamin.
+Ce n'ï¿½tait qu'un gamin.
 
 539
 00:44:05,200 --> 00:44:07,400
-On va créer une cagnotte
+On va crï¿½er une cagnotte
 pour sa famille, Pol.
 
 540
@@ -2335,12 +2335,12 @@ C'est tout ? Je peux partir ?
 
 542
 00:44:11,360 --> 00:44:13,440
-En tant que trésorier,
+En tant que trï¿½sorier,
 
 543
 00:44:13,520 --> 00:44:16,640
 il me faut ta permission
-pour dépenser 1 000 guinées.
+pour dï¿½penser 1 000 guinï¿½es.
 
 544
 00:44:17,320 --> 00:44:18,560
@@ -2352,7 +2352,7 @@ Un cheval.
 
 546
 00:44:22,520 --> 00:44:24,200
-Mille guinées pour un cheval ?
+Mille guinï¿½es pour un cheval ?
 
 547
 00:44:25,120 --> 00:44:26,560
@@ -2360,11 +2360,11 @@ C'est exact.
 
 548
 00:44:30,840 --> 00:44:32,680
-Quand a-t-on décidé cela ?
+Quand a-t-on dï¿½cidï¿½ cela ?
 
 549
 00:44:33,280 --> 00:44:35,080
-Tu étais occupée avec Michael.
+Tu ï¿½tais occupï¿½e avec Michael.
 
 550
 00:44:35,160 --> 00:44:36,520
@@ -2373,7 +2373,7 @@ Oh, mon Dieu.
 551
 00:44:37,800 --> 00:44:40,880
 En l'absence du bon sens,
-vous avez eu une idée.
+vous avez eu une idï¿½e.
 
 552
 00:44:41,440 --> 00:44:44,480
@@ -2382,12 +2382,12 @@ Polly, il y a une pouliche pur-sang,
 553
 00:44:44,560 --> 00:44:46,240
 un quart arabe
-aux enchères à Doncaster.
+aux enchï¿½res ï¿½ Doncaster.
 
 554
 00:44:46,800 --> 00:44:48,560
 Pourquoi veut-on un cheval
-à 1 000 guinées ?
+ï¿½ 1 000 guinï¿½es ?
 
 555
 00:44:49,560 --> 00:44:52,240
@@ -2396,12 +2396,12 @@ Quand on s'attaquera aux paris de Sabini,
 556
 00:44:52,520 --> 00:44:56,200
 tout homme dans le stand de pari
-sera emmené par la police de Sabini.
+sera emmenï¿½ par la police de Sabini.
 
 557
 00:44:56,280 --> 00:44:59,320
 Un bon cheval de course
-permet d'accéder au stand du propriétaire.
+permet d'accï¿½der au stand du propriï¿½taire.
 
 558
 00:44:59,400 --> 00:45:01,360
@@ -2410,12 +2410,12 @@ On y sera avec tous les aristos.
 559
 00:45:03,040 --> 00:45:05,200
 Les flics ne sauront pas
-où donner de la tête.
+oï¿½ donner de la tï¿½te.
 
 560
 00:45:05,280 --> 00:45:08,600
 Oui, l'Epson Derby, Pol.
-On sera à la table du roi.
+On sera ï¿½ la table du roi.
 
 561
 00:45:08,680 --> 00:45:10,000
@@ -2427,22 +2427,22 @@ Il a dit le Derby ?
 
 563
 00:45:16,960 --> 00:45:18,640
-C'est bien ça.
+C'est bien ï¿½a.
 
 564
 00:45:18,720 --> 00:45:21,320
-Ces dix dernières années,
-c'était la course de Sabini.
+Ces dix derniï¿½res annï¿½es,
+c'ï¿½tait la course de Sabini.
 
 565
 00:45:21,600 --> 00:45:24,160
 Si on doit le faire tomber,
-faisons-le de façon symbolique.
+faisons-le de faï¿½on symbolique.
 
 566
 00:45:24,240 --> 00:45:26,680
 Vous n'auriez pas eu
-cette idée dans un pub, par hasard ?
+cette idï¿½e dans un pub, par hasard ?
 
 567
 00:45:26,800 --> 00:45:28,000
@@ -2467,20 +2467,20 @@ Demain.
 
 572
 00:45:38,440 --> 00:45:39,840
-Tommy est menacé de mort,
+Tommy est menacï¿½ de mort,
 
 573
 00:45:39,920 --> 00:45:41,560
-donc on devra le protéger.
+donc on devra le protï¿½ger.
 
 574
 00:45:41,880 --> 00:45:45,200
 Vous allez donc fermer boutique,
-aller vous saouler et dépenser
+aller vous saouler et dï¿½penser
 
 575
 00:45:45,680 --> 00:45:48,320
-1 000 guinées pour un cheval
+1 000 guinï¿½es pour un cheval
 qui n'est qu'un quart arabe.
 
 576
@@ -2489,18 +2489,18 @@ C'est mieux que pur arabe !
 
 577
 00:45:51,800 --> 00:45:54,880
-- Ça veut dire...
+- ï¿½a veut dire...
 - Curly, la ferme.
 
 578
 00:45:58,440 --> 00:46:01,120
 Je croyais t'avoir dit
-de fermer la porte à clef.
+de fermer la porte ï¿½ clef.
 
 579
 00:46:01,560 --> 00:46:06,160
-Il l'a fait. J'ai utilisé la clef au clou.
-Je vous écoutais.
+Il l'a fait. J'ai utilisï¿½ la clef au clou.
+Je vous ï¿½coutais.
 
 580
 00:46:06,600 --> 00:46:08,640
@@ -2514,7 +2514,7 @@ Je pourrais aider.
 
 582
 00:46:13,400 --> 00:46:15,160
-Plutôt mourir !
+Plutï¿½t mourir !
 
 583
 00:46:15,280 --> 00:46:17,240
@@ -2522,13 +2522,13 @@ Je ne risque rien, maman.
 
 584
 00:46:17,600 --> 00:46:20,160
-J'ai assisté à plein d'enchères équestres
+J'ai assistï¿½ ï¿½ plein d'enchï¿½res ï¿½questres
 avec mon oncle.
 
 585
 00:46:20,560 --> 00:46:24,280
-Ils sont très respectables.
-Les gens emmènent leur majordome.
+Ils sont trï¿½s respectables.
+Les gens emmï¿½nent leur majordome.
 
 586
 00:46:24,520 --> 00:46:26,800
@@ -2536,7 +2536,7 @@ Oui, et leur poule de luxe !
 
 587
 00:46:26,920 --> 00:46:28,720
-Et leur maîtresse.
+Et leur maï¿½tresse.
 
 588
 00:46:29,320 --> 00:46:31,040
@@ -2544,11 +2544,11 @@ Laisse-le venir, Polly.
 
 589
 00:46:32,200 --> 00:46:34,600
-On y va, on achète un cheval et on repart.
+On y va, on achï¿½te un cheval et on repart.
 
 590
 00:46:35,240 --> 00:46:37,760
-Je le ramènerai à Sutton avant la nuit.
+Je le ramï¿½nerai ï¿½ Sutton avant la nuit.
 
 591
 00:46:40,000 --> 00:46:41,040
@@ -2560,7 +2560,7 @@ Putain, non !
 
 593
 00:47:05,080 --> 00:47:07,560
-Bon, ça suffit. On reprend le travail.
+Bon, ï¿½a suffit. On reprend le travail.
 
 594
 00:47:07,680 --> 00:47:09,040
@@ -2568,11 +2568,11 @@ Allez !
 
 595
 00:47:14,240 --> 00:47:16,880
-Tante Pol, à l'âge de Michael,
+Tante Pol, ï¿½ l'ï¿½ge de Michael,
 
 596
 00:47:17,800 --> 00:47:20,200
-j'avais tué 100 hommes
+j'avais tuï¿½ 100 hommes
 et j'en avais vu 1 000 mourir.
 
 597
@@ -2581,7 +2581,7 @@ Si tu veux l'effrayer pour toujours,
 
 598
 00:47:23,080 --> 00:47:24,280
-continue comme ça.
+continue comme ï¿½a.
 
 599
 00:47:25,400 --> 00:47:28,920
@@ -2597,7 +2597,7 @@ Les affaires du vieux John me vont.
 
 602
 00:47:46,560 --> 00:47:49,000
-Mon Dieu, tu ressembles à ton père.
+Mon Dieu, tu ressembles ï¿½ ton pï¿½re.
 
 603
 00:48:00,400 --> 00:48:02,440
@@ -2605,7 +2605,7 @@ Crevettes, jambon.
 
 604
 00:48:09,600 --> 00:48:11,600
-À quoi il ressemblait, mon père ?
+ï¿½ quoi il ressemblait, mon pï¿½re ?
 
 605
 00:48:12,840 --> 00:48:14,360
@@ -2618,11 +2618,11 @@ Je ne vais pas te mentir.
 607
 00:48:21,360 --> 00:48:24,560
 Il est mort saoul,
-écrasé entre un bateau et une écluse.
+ï¿½crasï¿½ entre un bateau et une ï¿½cluse.
 
 608
 00:48:25,920 --> 00:48:28,000
-Une vraie mort de bohémien des fleuves.
+Une vraie mort de bohï¿½mien des fleuves.
 
 609
 00:48:30,000 --> 00:48:31,680
@@ -2634,27 +2634,27 @@ jouer du piano...
 
 611
 00:48:35,240 --> 00:48:37,240
-Il avait un sourire à te faire fondre.
+Il avait un sourire ï¿½ te faire fondre.
 
 612
 00:48:39,440 --> 00:48:41,360
-Tu as les mêmes beaux yeux.
+Tu as les mï¿½mes beaux yeux.
 
 613
 00:48:46,440 --> 00:48:48,680
-Sobre, il était doux et gentil.
+Sobre, il ï¿½tait doux et gentil.
 
 614
 00:48:55,800 --> 00:48:57,360
-Le problème, c'est qu'enfant,
+Le problï¿½me, c'est qu'enfant,
 
 615
 00:48:57,440 --> 00:48:59,720
-il a eu de mauvaises fréquentations.
+il a eu de mauvaises frï¿½quentations.
 
 616
 00:49:03,680 --> 00:49:07,360
-Je leur ai déjà dit de ne pas klaxonner.
+Je leur ai dï¿½jï¿½ dit de ne pas klaxonner.
 
 617
 00:49:08,600 --> 00:49:10,960
@@ -2680,11 +2680,11 @@ C'est quoi, cette merde ?
 622
 00:49:45,200 --> 00:49:48,640
 Des sandwichs. Au jambon, je crois.
-Il y en a aussi à la crevette.
+Il y en a aussi ï¿½ la crevette.
 
 623
 00:49:48,840 --> 00:49:51,600
-Il y a du thé, mais chacun son tour,
+Il y a du thï¿½, mais chacun son tour,
 je n'ai qu'une tasse.
 
 624
@@ -2702,11 +2702,11 @@ Des sandwichs ?
 
 627
 00:50:00,200 --> 00:50:02,240
-On est où ? On fait la dînette ?
+On est oï¿½ ? On fait la dï¿½nette ?
 
 628
 00:50:02,320 --> 00:50:05,280
-Bon, on va boire le thé,
+Bon, on va boire le thï¿½,
 manger les sandwichs,
 
 629
@@ -2729,7 +2729,7 @@ Attention aux miettes, Charlie.
 
 633
 00:50:16,960 --> 00:50:18,760
-C'est un événement respectable,
+C'est un ï¿½vï¿½nement respectable,
 
 634
 00:50:18,880 --> 00:50:20,520
@@ -2742,16 +2742,16 @@ John, on reste ensemble.
 
 636
 00:50:24,880 --> 00:50:26,880
-À l'arrivée des chevaux, j'enchérirai.
+ï¿½ l'arrivï¿½e des chevaux, j'enchï¿½rirai.
 
 637
 00:50:26,960 --> 00:50:29,080
-J'ai exprimé mon intérêt
+J'ai exprimï¿½ mon intï¿½rï¿½t
 au commissaire-priseur.
 
 638
 00:50:29,160 --> 00:50:30,680
-Il sait que je vais enchérir.
+Il sait que je vais enchï¿½rir.
 
 639
 00:50:30,760 --> 00:50:32,880
@@ -2759,8 +2759,8 @@ Je pourrai l'inspecter, Tommy ?
 
 640
 00:50:32,960 --> 00:50:35,680
-Un vétérinaire l'examinera, Curly.
-Mais examine sa démarche.
+Un vï¿½tï¿½rinaire l'examinera, Curly.
+Mais examine sa dï¿½marche.
 
 641
 00:50:36,600 --> 00:50:38,120
@@ -2774,7 +2774,7 @@ On est juste dans un lieu inhabituel.
 643
 00:50:40,920 --> 00:50:43,560
 - Parfois, j'ai des pressentiments.
-- Ça va aller, Curly.
+- ï¿½a va aller, Curly.
 
 644
 00:50:43,640 --> 00:50:46,480
@@ -2817,11 +2817,11 @@ Quelqu'un d'autre ?
 
 653
 00:51:11,440 --> 00:51:12,560
-Adjugé, vendu !
+Adjugï¿½, vendu !
 
 654
 00:51:12,640 --> 00:51:15,000
-Morals of Marcus, étalon Sedgemere,
+Morals of Marcus, ï¿½talon Sedgemere,
 
 655
 00:51:15,080 --> 00:51:17,440
@@ -2829,7 +2829,7 @@ par Tetrarch, Lady Josephine.
 
 656
 00:51:17,840 --> 00:51:19,960
-On débute l'enchère à 800 guinées.
+On dï¿½bute l'enchï¿½re ï¿½ 800 guinï¿½es.
 
 657
 00:51:20,040 --> 00:51:22,280
@@ -2837,7 +2837,7 @@ Bien, Tommy, c'est elle.
 
 658
 00:51:36,000 --> 00:51:37,840
-Ai-je entendu 800 guinées ?
+Ai-je entendu 800 guinï¿½es ?
 
 659
 00:51:38,760 --> 00:51:39,840
@@ -2854,7 +2854,7 @@ Quelqu'un d'autre ?
 
 662
 00:51:47,280 --> 00:51:48,680
-Enchérissez pour celui-ci.
+Enchï¿½rissez pour celui-ci.
 
 663
 00:51:48,840 --> 00:51:50,080
@@ -2891,7 +2891,7 @@ Ai-je entendu 250 ?
 
 671
 00:52:08,960 --> 00:52:11,120
-Je vous donnerai la moitié
+Je vous donnerai la moitiï¿½
 de la cagnotte printemps.
 
 672
@@ -2924,7 +2924,7 @@ Ai-je entendu sept ?
 
 679
 00:52:26,960 --> 00:52:28,200
-Ça suffit, Tom. Arrête.
+ï¿½a suffit, Tom. Arrï¿½te.
 
 680
 00:52:28,280 --> 00:52:29,520
@@ -2936,8 +2936,8 @@ Si. Je pars avec le cheval.
 
 682
 00:52:31,840 --> 00:52:33,840
-C'est une belle bête, Tom.
-Mais arrête.
+C'est une belle bï¿½te, Tom.
+Mais arrï¿½te.
 
 683
 00:52:33,920 --> 00:52:36,320
@@ -2955,7 +2955,7 @@ Mais arrête.
 686
 00:52:44,240 --> 00:52:45,520
 - 2 050...
-- Ça suffit.
+- ï¿½a suffit.
 
 687
 00:52:45,680 --> 00:52:47,040
@@ -2968,7 +2968,7 @@ Ai-je entendu 2 050 ?
 
 689
 00:52:51,560 --> 00:52:52,880
-Dernière fois.
+Derniï¿½re fois.
 
 690
 00:52:53,200 --> 00:52:54,800
@@ -2976,7 +2976,7 @@ Dernière fois.
 
 691
 00:52:56,960 --> 00:52:59,000
-Adjugé, vendu ! À Monsieur...
+Adjugï¿½, vendu ! ï¿½ Monsieur...
 
 692
 00:52:59,400 --> 00:53:01,040
@@ -2998,7 +2998,7 @@ Des voiliers ?
 
 696
 00:53:25,200 --> 00:53:26,400
-Des péniches.
+Des pï¿½niches.
 
 697
 00:53:29,480 --> 00:53:31,920
@@ -3024,12 +3024,12 @@ Ah bon ?
 
 702
 00:53:49,600 --> 00:53:51,600
-Je voulais une pouliche pour mon étalon.
+Je voulais une pouliche pour mon ï¿½talon.
 
 703
 00:53:53,400 --> 00:53:55,880
-- Désolé.
-- Thomas Shelby d'où ça ?
+- Dï¿½solï¿½.
+- Thomas Shelby d'oï¿½ ï¿½a ?
 
 704
 00:53:58,120 --> 00:53:59,440
@@ -3037,7 +3037,7 @@ De Birmingham.
 
 705
 00:53:59,520 --> 00:54:00,560
-Bonté divine !
+Bontï¿½ divine !
 
 706
 00:54:00,640 --> 00:54:02,080
@@ -3049,24 +3049,24 @@ May Carleton.
 
 708
 00:54:04,480 --> 00:54:06,800
-J'élève et dresse des chevaux de course.
+J'ï¿½lï¿½ve et dresse des chevaux de course.
 Et vous ?
 
 709
 00:54:08,000 --> 00:54:10,960
-Je réponds rarement aux questions.
+Je rï¿½ponds rarement aux questions.
 
 710
 00:54:11,040 --> 00:54:13,480
-Dépêche-toi, Tommy ! On doit partir !
+Dï¿½pï¿½che-toi, Tommy ! On doit partir !
 
 711
 00:54:15,200 --> 00:54:17,480
-Si vous décidez de placer cette pouliche,
+Si vous dï¿½cidez de placer cette pouliche,
 
 712
 00:54:17,560 --> 00:54:19,960
-- je suis intéressée.
+- je suis intï¿½ressï¿½e.
 - Je vais la faire courir.
 
 713
@@ -3086,20 +3086,20 @@ ou Polly te bottera le cul !
 
 716
 00:54:29,480 --> 00:54:31,160
-Je ne déconne pas !
+Je ne dï¿½conne pas !
 
 717
 00:54:31,240 --> 00:54:32,920
-Nos relations sont différentes.
+Nos relations sont diffï¿½rentes.
 
 718
 00:54:33,000 --> 00:54:35,200
-Mon père connaît Mick Hancock.
+Mon pï¿½re connaï¿½t Mick Hancock.
 
 719
 00:54:35,480 --> 00:54:38,240
-- Il a dressé 3 gagnants d'Ascot.
-- C'était votre père ?
+- Il a dressï¿½ 3 gagnants d'Ascot.
+- C'ï¿½tait votre pï¿½re ?
 
 720
 00:54:41,240 --> 00:54:42,320
@@ -3107,20 +3107,20 @@ Oui.
 
 721
 00:54:42,640 --> 00:54:44,920
-Nous sommes copropriétaires de l'étalon.
+Nous sommes copropriï¿½taires de l'ï¿½talon.
 
 722
 00:54:45,080 --> 00:54:47,120
-Il a pris la majorité
-à la mort de mon mari.
+Il a pris la majoritï¿½
+ï¿½ la mort de mon mari.
 
 723
 00:54:48,120 --> 00:54:49,200
-À Ypres.
+ï¿½ Ypres.
 
 724
 00:54:49,280 --> 00:54:52,400
-Tommy ! On doit repartir à la caravane !
+Tommy ! On doit repartir ï¿½ la caravane !
 
 725
 00:54:53,160 --> 00:54:55,120
@@ -3128,7 +3128,7 @@ Les poules ont faim !
 
 726
 00:54:59,000 --> 00:55:00,520
-Vous penserez à moi ?
+Vous penserez ï¿½ moi ?
 
 727
 00:55:02,840 --> 00:55:04,000
@@ -3136,7 +3136,7 @@ Oui.
 
 728
 00:55:06,320 --> 00:55:08,240
-Vous ne m'avez pas révélé votre métier.
+Vous ne m'avez pas rï¿½vï¿½lï¿½ votre mï¿½tier.
 
 729
 00:55:09,360 --> 00:55:11,120
@@ -3144,7 +3144,7 @@ Oh, je fais des trucs pas bien.
 
 730
 00:55:12,320 --> 00:55:13,640
-Mais vous le saviez déjà.
+Mais vous le saviez dï¿½jï¿½.
 
 731
 00:55:16,520 --> 00:55:17,600
@@ -3156,7 +3156,7 @@ On a failli attendre.
 
 733
 00:55:23,880 --> 00:55:25,600
-C'est la vérité, John.
+C'est la vï¿½ritï¿½, John.
 
 734
 00:55:25,680 --> 00:55:29,640
@@ -3165,21 +3165,21 @@ elles veulent de la queue de prolo.
 
 735
 00:55:30,120 --> 00:55:33,360
-Tommy, c'était peut-être elle,
+Tommy, c'ï¿½tait peut-ï¿½tre elle,
 mon mauvais pressentiment.
 
 736
 00:55:33,440 --> 00:55:35,160
-Elle m'a semblé normale, Curly !
+Elle m'a semblï¿½ normale, Curly !
 
 737
 00:55:35,240 --> 00:55:38,400
 Tous leurs hommes sont morts.
-Les agents ont reçu des balles.
+Les agents ont reï¿½u des balles.
 
 738
 00:55:38,480 --> 00:55:39,720
-Oui, les nôtres.
+Oui, les nï¿½tres.
 
 739
 00:55:39,800 --> 00:55:41,880
@@ -3200,7 +3200,7 @@ Tommy !
 
 743
 00:55:47,520 --> 00:55:49,080
-Tommy ! À terre !
+Tommy ! ï¿½ terre !
 
 744
 00:55:52,680 --> 00:55:54,120
@@ -3212,11 +3212,11 @@ Et Arthur ?
 
 746
 00:55:55,760 --> 00:55:57,560
-Enchanté.
+Enchantï¿½.
 
 747
 00:55:57,640 --> 00:55:59,080
-Débarrassez-vous de lui !
+Dï¿½barrassez-vous de lui !
 
 748
 00:55:59,160 --> 00:56:00,720
@@ -3224,11 +3224,11 @@ Arthur ! Arthur !
 
 749
 00:56:02,240 --> 00:56:03,680
-Débarrassez-vous de lui !
+Dï¿½barrassez-vous de lui !
 
 750
 00:56:03,760 --> 00:56:05,000
-Arrête, Arthur.
+Arrï¿½te, Arthur.
 
 751
 00:56:05,080 --> 00:56:06,480
@@ -3236,7 +3236,7 @@ Enlevez-le.
 
 752
 00:56:07,600 --> 00:56:09,160
-Arthur, ça suffit.
+Arthur, ï¿½a suffit.
 
 753
 00:56:12,040 --> 00:56:13,160
@@ -3244,11 +3244,11 @@ Allez, Arthur !
 
 754
 00:56:13,240 --> 00:56:15,360
-Allez, Arthur, arrête.
+Allez, Arthur, arrï¿½te.
 
 755
 00:56:17,240 --> 00:56:19,240
-Allez. Ça suffit.
+Allez. ï¿½a suffit.
 
 756
 00:56:19,680 --> 00:56:21,000
@@ -3273,7 +3273,7 @@ Pas de sang sur le petit !
 761
 00:56:37,040 --> 00:56:40,400
 Michael, tu n'as rien vu.
-Il ne s'est rien passé, d'accord ?
+Il ne s'est rien passï¿½, d'accord ?
 
 762
 00:56:40,480 --> 00:56:43,840
@@ -3303,12 +3303,12 @@ Alors ?
 
 768
 00:57:11,600 --> 00:57:13,000
-Comment ça s'est passé ?
+Comment ï¿½a s'est passï¿½ ?
 
 769
 00:57:13,600 --> 00:57:17,480
 Il faisait froid dans le camion,
-mais c'était chouette. Vraiment.
+mais c'ï¿½tait chouette. Vraiment.
 
 770
 00:57:18,120 --> 00:57:19,440
@@ -3320,7 +3320,7 @@ Ils se sont bien tenus ?
 
 772
 00:57:27,160 --> 00:57:28,480
-Ils ont été super, maman.
+Ils ont ï¿½tï¿½ super, maman.
 
 773
 00:57:30,640 --> 00:57:32,080
@@ -3328,6 +3328,6 @@ Vraiment super.
 
 774
 00:58:36,080 --> 00:58:41,600
-FOIRE AUX ÉTALONS CARLETON
-Propriétaire - May Fitz Carleton
+FOIRE AUX ï¿½TALONS CARLETON
+Propriï¿½taire - May Fitz Carleton
 

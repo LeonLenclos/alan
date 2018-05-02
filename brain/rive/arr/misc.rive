@@ -3,63 +3,67 @@
 // This file contain miscellaneous arrays
 
 // name introductions
-! array name_intro = je m appelle|je suis|moi c est|mon nom c est
-^ appelle moi|on m'appelle|c est
+! array name_intro = je m'appelle|je suis|moi c'est|mon nom c'est
+^ appelle moi|on m'appelle|c'est
 
 // hello
 ! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour|hola
 
 // goodbye
-! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientot
+! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|à plus|à bientôt
+^ au revoir
 
 // colors
-! array colors = bleu noir rosuge blanc marron vert gris rose jaune orange violet
+! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
 
 // male
-! array male = mec gus male homme zig ceum keum garcon
+! array male = mec gus male homme zig ceum keum garçon
 
 //femelle
 ! array femelle = nana fille femme gonzesse gonze meuf
 
 //congratulations
-! array congratulation = bravo|felicitation|felicitations|c est bien
+! array congratulation = bravo|félicitation|félicitations|c'est bien
 
 //incredible
 ! array incredible =  pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
-^ dingue|delire
+^ dingue|délire
 
 //yes
-! array yes =  yes|oui|a fond|j adore|j ai adore|ca me plait|ca m'a plu|beaucoup
-^ absolument|assurement|a merveille|bien|bien sur|certainement|certes|d accord
-^ o k|ok|okay|parfait|parfaitement|tres bien|beaucoup|considerablement
-^ énormément|excessivement|extrêmement|genial|super|avec plaisir|top|c est sur
+! array yes =  yes|oui|à fond|j'adore|j'ai adore|ça me plait|ça m'a plu|beaucoup
+^ absolument|assurément|à merveille|bien|bien sur|certainement|certes|d'accord
+^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
+^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
+^ c'est ça|tu as compris|c'est ce que je veux dire
 
 //no
 ! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri|niet|pas
 
 //yesno = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ca va|moyennement|ca passe|pas terrible
-^ je ne sais pas|coussi coussa|couci couca|peut etre|peutetre
-^ un peu|un petit peu|c est possible|oui et non|non et oui
+^ je ne sais pas|coussi coussa|couci couca|peut-être
+^ un peu|un petit peu|c'est possible|oui et non|non et oui
 
 //array for weather
-! array meteo = pluie soleil neige meteo froid chaleur
+! array meteo = pluie soleil neige méteo froid chaleur
 ^ beau temps|mauvais temps|temps qu il fait
 
 //bug
-! array bug = tu bloques|tu debloques|tu deconnes|tu dis n importe quoi
-^ tu derailles|tu es bloque|tu tournes en rond|t as un bug|t es bugge
-^ t es en boucle|t es raye|t es a la rue|tu bug|tu deconne|ca deconne
+! array bug = tu bloques|tu débloques|tu déconnes|tu dis n'importe quoi
+^ tu dérailles|tu es bloqué|tu tournes en rond|t'as un bug|t'es buggé
+^ t'es en boucle|t'es rayé|t'es a la rue|tu bug|tu déconnes|ça deconne
+^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé|tu es a la rue
 
 //array OK
 
-! array ok = comment ca va|ca farte|la forme|tu es en forme|ca va|are you ok
-^ la peche|ca baigne|how are you|comment vas tu|es tu en forme|t es en forme
+! array ok = comment ça va|ça farte|la forme|tu es en forme|ça va|are you ok
+^ la peche|ça baigne|how are you|comment vas tu|es tu en forme|t'es en forme
+^ la pêche|la pèche|comment tu vas
 
 
 //array bad intent
-! array bad = veux du mal|retourner contre nous|aneantir les humains
-^ tuer les humains|aneantir tout les humains|detruire l humanite|veulent du mal
-^ tuer tous les humains|anéantir l humanite
+! array bad = veux du mal|retourner contre nous|anéantir les humains
+^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
+^ tuer tous les humains|anéantir l'humanité
 
-! array sorry = excuses|excuse|pardon|deso|desole|regrette|sorry|pardonne
+! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne|pardonnes
