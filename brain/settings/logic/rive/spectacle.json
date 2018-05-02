@@ -10,23 +10,6 @@
           "import_path": "logic.RiveScriptAdapter"
       },
        {
-           "identifier": "conversation_ber_1",
-           "skill_description": ["Parce que c'est mon texte"],
-           "rive_files": [
-               "./rive/spectacle/conversation_ber_1.rive"],
-           "max_confidence": 1,
-           "import_path": "logic.RiveScriptAdapter"
-       },
-       {
-           "identifier": "conversation_ber_2",
-           "skill_description": ["Parce que c'est mon texte"],
-           "rive_files": [
-               "./rive/spectacle/conversation_ber_2.rive"],
-           "max_confidence": 1,
-           "allowed_to_repeat": true,
-           "import_path": "logic.RiveScriptAdapter"
-       },
-       {
            "identifier": "fab",
            "skill_description": ["Parce que c'est mon texte"],
            "rive_files": [
@@ -54,14 +37,5 @@
            "allowed_to_repeat": true,
            "import_path": "logic.RiveScriptAdapter"
        }
-       {
-           "identifier": "paradoxes",
-           "skill_description": ["Parce que c'est mon texte"],
-           "rive_files": [
-               "./rive/spectacle/paradoxes.rive"],
-           "allowed_to_repeat": true,
-           "max_confidence": 1,
-           "import_path": "logic.RiveScriptAdapter"
-       },
       ]
 }

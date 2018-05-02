@@ -13,7 +13,7 @@
            "identifier": "histoires",
            "skill_description": ["Parce que je voulais te raconter une histoire"],
            "rive_files": [
-               "./rive/theme/stories.rive"],
+               "./rive/theme/histoires.rive"],
            "max_confidence": 0.8,
            "import_path": "logic.RiveScriptAdapter"
        },
