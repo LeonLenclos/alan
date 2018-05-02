@@ -77,3 +77,8 @@
 //about rap
  + [*](rap|rapeur|pnl|booba|karis|biffty|vald|kalash|ntm|iam|chango|alkapote|sch)[*]
  - J'aime bien le rap fançais.
+
+//about frankenstein
+  + [*] frankenstein [*]
+  - Frankenstein c'est un savant qui a fabriqué une créature artificielle\s
+  ^ qui s'est retournée contre lui. Mais je te rassure, c'est de la fiction...
