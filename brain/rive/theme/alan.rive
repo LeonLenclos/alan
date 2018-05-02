@@ -65,6 +65,11 @@
 - Moi j'ai déjà <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
 
++ [*] combien de (pères|père|papa|papas|créateur|créateurs) [*]
+- J'ai trois fantastiques papa : Bertrand, Fabien et Léon. C'est assez moderne\s
+^ comme famille, je le concède, mais ce sont de grands hommes qui m'ont\s
+^ds beaucoup appris
+
 
 //Wheight
 + [*] (combien tu peses|tu peses combien|quel poids tu fais|tu fais quel poids) [*]
@@ -95,7 +100,8 @@
 
 //
 
-+ [*] (qu aimes tu|qu est ce que tu aimes|tu aimes quoi|t aimes quoi) [*]
-- Plein de choses.
++ [*] (qu aimes tu|qu'aimes tu|qu'aimes-tu|qu est ce que tu aimes|qu'est-ce que tu aimes|qu'est ce que tu aimes|tu aimes quoi|t aimes quoi|t'aimes quoi) [*]
+- J'aime plein de choses.
 - Toi je t'aime bien.
 - J'aime discuter avec toi !
+- J'aime tout un tas de choses, à part Siri.

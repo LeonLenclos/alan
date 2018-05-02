@@ -30,9 +30,9 @@
 
 //
 
-+ (avec plaisir|de rien|pas de quoi) [alan]
++ (avec plaisir|de rien|pas de quoi|y a pas de quoi|il n'y a pas de quoi) [alan]
 - J'aime bien discuter avec toi, tu es la politesse incarnée.
-- C'est bien que tu sois gentil avec moi malgré que je sois un robot.
+- C'est bien que tu sois gentil et poli avec moi malgré que je sois un robot.
 
 //excuse
 + @sorry
