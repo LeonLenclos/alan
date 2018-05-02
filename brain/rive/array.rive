@@ -89,16 +89,19 @@
 
 //yesno = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
-^ je ne sais pas|coussi coussa|couci couca|peut être|peut-être
+^ je ne sais pas|coussi coussa|couci couca|peut être|peut-être|pas mal
 ^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui
 
 //no
 ! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri|niet|pas
 
+//negative and positif
+! array between = pas mal|moyen
+
 //negative
 ! array negative = bad|blues|bof|ça ne va pas|ça pourrait aller mieux|ça va pas
 ^ couci couça|coussi coussa|épuisé|fatigué
-^ j'ai connu des jours meilleurs|mal|malade|moyen|non|pas cool
+^ j'ai connu des jours meilleurs|mal|malade|non|pas cool
 ^ pas en forme|pas la pêche|pas trop|pas trop la pêche|pas terrible|petite forme
 
 //positif

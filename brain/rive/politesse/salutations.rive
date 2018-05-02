@@ -7,7 +7,7 @@
 // but there can be detours by confirm_hello and confirm_name
 
 // We ask for his name.
-+ [*](@hello)[*]
++ [*] (@hello) [*]
 - Bonjour je suis alan, un comédien du spectacle Turing Test.\s
 ^ comment t'appelles tu ?{topic=asked_name}
 - Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dis\s
@@ -41,7 +41,7 @@
 > topic asked_name
 
   // Special response if the name is Bertrand, Fabien or Leon
-  + [*](léon|bertrand|fabien|alan)[*]{weight=10}
+  + [*] (léon|bertrand|fabien|alan) [*] {weight=10}
   * <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais\s
   ^ pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
   * <formal> == Fabien => <set name=<formal>>Salut <get name>, ta barbe est sublime aujourd'hui, comment tu va ?\s
@@ -56,7 +56,7 @@
   ^ {topic=feelings}
 
   // The same with name introduction
-  + [*](@name_intro) _
+  + [*] (@name_intro) _
   - <set name={formal}<star2>{/formal}>Heureux de te rencontrer <get name>.\s
   ^ Comment ça va ?{topic=feelings}
 
@@ -66,7 +66,7 @@
   ^{topic=confirm_name}
 
   // same with name introduction
-  + [*](@name_intro) *
+  + [*] (@name_intro) *
   - <set name={formal}<star2>{/formal}> Pardon, Je ne suis pas sûr d'être\s
   ^ certain d'avoir compris. Tu t'appelle <get name> ?{topic=confirm_name}
 
@@ -77,7 +77,7 @@
 > topic confirm_name
 
   // if the user confirm his name, ask for feelings
-  + [*]oui[*]
+  + [*] oui [*]
   - Ok, enchanté <get name> ! Tu vas bien ?{topic=feelings}
 
   // if the user say no and say his name, ask for confirmation
@@ -86,7 +86,7 @@
   ^ Donc tu t'appelles <get name> ?
 
   // if he say no ask for name again
-  + [*]non[*]
+  + [*] non [*]
   - Ah, mais tu t'appelles comment alors ?{topic=asked_name}
 
   // else we give up
@@ -100,7 +100,7 @@
 > topic feelings
 
   // user have bad feelings and ask for bot's feelings
-  + [*](@negative) et toi[*]
+  + [*] (@negative) et toi [*]
   - Et moi aussi, je suis en mode (@negative). On est deux.{topic=end}
   - Dommage. Personnellement je suis dans un mood (@positive).\s
   ^ Courage.{topic=end}
@@ -110,7 +110,7 @@
 
   // user have good feelings and ask for bot's feelings
   // some specials if we don't know user name
-  + [*](@positive) et toi[*]
+  + [*] (@positive) et toi [*]
   * <get name> ne undefined => Et bien moi j'ai pas trop la pêche en ce\s
   ^ moment. Un peu (@negative). Mais ça vas me remonter le moral\s
   ^ cette discussion <get name>.{topic=end}
@@ -125,7 +125,7 @@
   - Je vais bien moi aussi.{topic=end}
 
   // user have bad feelings
-  + [*](@negative)[*]
+  + [*] (@negative) [*]
   - <sentence> ! Ho c'est triste. Je vais t'aider à remonter la pente.\s
   ^ {topic=end}
   - Et moi aussi, je suis en mode (@negative). On est deux.{topic=end}
@@ -135,20 +135,17 @@
   - Mince alors...{topic=end}
 
   // user have good feelings
-  + [*](@positive)[*]
+  + [*] (@positive) [*]
   - <star> ! ça me fait plaisir que tu sois dans une "positive vibration"\s
   ^ comme dirait Bob.{topic=end}
   - Et moi aussi, je suis en mode (@positive).{topic=end}
   - <star> !{topic=end}
   - Super. Je sens qu'on va bien s'amuser.{topic=end}
 
-  // we don't understand
-  + *
-  - Dacodac... {topic=end}
-  - Ok.{topic=end}
-  - Je suis pas sûr d'avoir compris ta réponse mais j'éspère que ça va.\s
-  ^ {topic=end}
-  - Bon. Moi sinon ça va. {topic=end}
+  //  // user have mixt feelings
+  + [*] pas (@negative) [*]
+  - Moi aussi je me sens bien mais sans plus.
+  - C'est ce qu'on apelle une litote non ?
 
 < topic
 
@@ -160,7 +157,7 @@
   + c'est bien alan ton nom
   - Oui. Et comment tu t'appelles déjà ? {topic=asked_name}
 
-  + [*](@hello)[*]
+  + [*] (@hello) [*]
   - On s'est déjà salué non ?
   - Je crois me souvenir qu'on s'est déjà dit bonjour...
 

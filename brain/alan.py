@@ -129,7 +129,11 @@ class Alan(chatterbot.ChatBot):
         self.log('load settings file : {}{}'.format('- '*recursion, file_name))
         with open(file_name, "r") as file:
             # load json
-            file_settings = json.load(file)
+            try:
+                file_settings = json.load(file)
+            except json.decoder.JSONDecodeError as e:
+                raise json.decoder.JSONDecodeError(
+                    '{} in {}'.format(e.msg, file_name), e.doc, e.pos)
             # loop keys
             for k in file_settings:
                 # if import, do load_settings (recursive)
