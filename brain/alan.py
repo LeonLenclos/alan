@@ -144,7 +144,7 @@ class Alan(chatterbot.ChatBot):
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
-        return "%s v%s (self.name, self.version)
+        return "%s v%s" % (self.name, self.version)
 
     def get_response(self, input_item, conversation_id=None, listener=None):
         """
