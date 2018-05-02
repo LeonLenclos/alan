@@ -227,7 +227,7 @@ class Alan(chatterbot.ChatBot):
         if command == 'quit' : self.quit()
         elif command == 'todo' : self.todo()
         elif command == 'info' : self.info()
-        elif command == 'reset': self.reset()
+        elif command == 'rst': self.reset() # reset
         elif command == "music":
             pygame.mixer.Sound("./ressources/musique_generative.wav").play()
         else : raise(KeyError, "The {} command does not exist".format(command))
