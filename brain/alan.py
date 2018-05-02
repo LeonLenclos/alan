@@ -24,13 +24,8 @@ from output import MainOutputAdapter
 
 from test.simple_talk import test
 
-# config logging
-logging.basicConfig(
-    level=logging.INFO,
-    filename='log.txt',
-    filemode="a",
-    format='%(message)s'
-)
+# Init pygame.mixer in order to play wav sounds
+pygame.mixer.init()
 
 class Alan(chatterbot.ChatBot):
     """
@@ -57,36 +52,11 @@ class Alan(chatterbot.ChatBot):
         for settings_file in settings_files:
             self.load_settings(settings_file)
 
-        # Alan age
-        self.age = ""
-        age_time = datetime.datetime.now() - self.birth
-        years = age_time.days // 365
-        months = age_time.days // 30
-        if years > 0:
-            self.age += "%s an" % years
-            if years > 1:
-                self.age += "s"
-            if months > 0:
-                self.age += " et"
-        if months > 0:
-            self.age += "%s mois" % months
-
-        # Alan lines count
-        self.lines_of_code = 0
-        for root, dirs, files in os.walk("."):
-           for name in files:
-              if name.endswith(('.py', '.json', '.rive')):
-                  path = '/'.join((root,name))
-                  self.lines_of_code += sum(1 for line in open(path))
-
-        # Alan system attributes
+        # Alan vars
+        self.age = self.get_age()
+        self.lines_of_code = self.get_lines_of_code()
         self.last_results=[]
         self.user_name = None
-
-        # init pygame.mixer in order to play wav sounds
-        pygame.mixer.init()
-        # create sound objects that Alan can play
-        self.musique_generative = pygame.mixer.Sound("./ressources/musique_generative.wav")
 
 
         # init chatterbot
@@ -110,7 +80,32 @@ class Alan(chatterbot.ChatBot):
         self.log('time          = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
         self.log('settings file = {}'.format(settings_file))
 
+    def get_age(self):
+        """Return the age of Alan in french"""
+        age = ''
+        age_time = datetime.datetime.now() - self.birth
+        years, months = age_time.days // 365, age_time.days // 30
+        if years > 0:
+            age += "%s an" % years
+            if years > 1: age += "s"
+            if months > 0: age += " et"
+        if months > 0: age += "%s mois" % months
+        return age
+
+    def get_lines_of_code(self):
+        """Return the number of lines in the code of Alan"""
+        lines_of_code = 0
+        for root, dirs, files in os.walk("."):
+           for name in files:
+              if name.endswith(('.py', '.json', '.rive')):
+                  path = '/'.join((root,name))
+                  lines_of_code += sum(1 for line in open(path))
+        return lines_of_code
+
     def log(self, message, header=False):
+        """
+        Print something in the log file.
+        """
         with open('log.txt', 'a') as fi:
             if header:
                 fi.write('\n' * 2 + '-' * 10)
@@ -126,7 +121,6 @@ class Alan(chatterbot.ChatBot):
         with open(file_name, "r") as file:
             # load json
             file_settings = json.load(file)
-
             # loop keys
             for k in file_settings:
                 # if import, do load_settings (recursive)
@@ -138,7 +132,6 @@ class Alan(chatterbot.ChatBot):
                     self.settings[k] += file_settings[k]
                 else:
                     self.settings[k] = file_settings[k]
-
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
@@ -159,39 +152,37 @@ class Alan(chatterbot.ChatBot):
                 self.default_conversation_id = self.storage.create_conversation()
             conversation_id = self.default_conversation_id
 
+        if listener: listener.send(state='listening')
+
         # Get input
-        if listener : listener.send(state='listening')
         if input_item:
             input_statement = chatterbot.conversation.Statement(input_item)
-        else:
-            input_statement = self.input.process_input()
+        else: input_statement = self.input.process_input()
 
-        if listener : listener.send(state='thinking')
+        if listener: listener.send(state='thinking')
 
         # Preprocess the input statement
         for preprocessor in self.preprocessors:
             input_statement = preprocessor(self, input_statement)
 
-        # get response
+        # Get response
         response = self.logic.process(input_statement)
 
-
-        # search command
+        # Search command
         command_regex = r"\*(.+)\*"
         command = re.search(command_regex, response.text)
         response.text = re.sub(command_regex, "", response.text)
 
         # store response
-        if not self.read_only:
-            self.storage.add_to_conversation(conversation_id,
-                                            input_statement,
-                                            response)
+        self.storage.add_to_conversation(
+            conversation_id, input_statement, response)
 
-        if listener : listener.send(state='speaking')
+        if listener: listener.send(state='speaking')
+
         # Process the response output with the output adapter
         output = self.output.process_response(response, conversation_id)
 
-        if listener : listener.send(state='waiting')
+        if listener: listener.send(state='waiting')
 
         # execute command
         if command: self.execute_command(command.group(1))
@@ -199,54 +190,46 @@ class Alan(chatterbot.ChatBot):
         return output
 
     def execute_command(self, command):
-        """
-        Execute a special alan's command.
-        """
-        self.log('command "{}" passed by Alan'.format(command))
-        if command == 'quit': sys.exit()
-        if command == 'todo':
-            with open("../todo", "a") as f:
-                f.write("\n\n```\n> %s\n%s\n> %s\n%s\n```\n"
-                    % tuple([self.storage.get_latest_statement(offset=i+2)
-                    for i in reversed(range(4))]))
-        if command == 'info':
-            infos = "\nANALYSIS"
-            infos += "\n--------\n"
-            user_input = self.storage.get_latest_statement(speaker="human",
-                                                           offset=1)
-            infos += "\nInput : '%s'\n" % user_input
-            for result in self.last_results[-2]:
-                infos += "\n---\n"
-                infos += "%(logic_identifier)s (%(logic_type)s)\n" % result
-                if "text" in result:
-                    if result["not_allowed_to_repeat"]:
-                        infos += "NOT ALLOWED TO REPEAT "
-                    infos += "(%(confidence).2f) '%(text)s'" % result
-                else:
-                    infos += "NOT PROCESSING"
-            infos += "\n---\n"
-            print(infos)
-        if command == 'reset':
-            python = sys.executable
-            os.execl(python, python, * sys.argv)
-        if command == "music":
-            self.musique_generative.play()
+        """Execute a special alan's command."""
+        self.log('execute command: {}'.format(command))
+        if command == 'quit' : self.quit()
+        elif command == 'todo' : self.todo()
+        elif command == 'info' : self.info()
+        elif command == 'reset': self.reset()
+        elif command == "music":
+            pygame.mixer.Sound("./ressources/musique_generative.wav").play()
+        else : raise(KeyError, "The {} command does not exist".format(command))
 
-    def learn_response(self, statement, previous_statement):
-        """
-        Learn that the statement provided is a valid response.
-        """
-        # TODO: Is this realy useful ??
-        if previous_statement:
-            statement.add_response(
-                Response(previous_statement.text)
-            )
-            self.log('Adding "{}" as a response to "{}"'.format(
-                statement.text,
-                previous_statement.text
-            ))
+    def quit(self):
+        """Quit Alan."""
+        sys.exit()
+
+    def reset(self):
+        """Reset Alan."""
+        python = sys.executable
+        os.execl(python, python, * sys.argv)
+
+    def todo(self):
+        """Write 4 last statements in the todo file."""
+        with open("../todo", "a") as f:
+            f.write("\n\n> %s\n%s\n> %s\n%s"
+                % tuple([self.storage.get_latest_statement(offset=i+2)
+                for i in reversed(range(4))]))
+
+    def info(self):
+        """Print informations about last response."""
+        infos = ''
+        for result in self.last_results[-2]:
+            infos += "\n---\n%(logic_identifier)s (%(logic_type)s)\n" % result
+            if "text" in result:
+                if result["not_allowed_to_repeat"]:
+                    infos += "NOT ALLOWED TO REPEAT"
+                infos += "(%(confidence).2f) '%(text)s'" % result
+            else: infos += "NOT PROCESSING"
+        print(infos)
 
     def main_loop(self):
+        """Run the main loop"""
         while True:
             try:
                 self.get_response(None)
