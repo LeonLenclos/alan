@@ -9,7 +9,7 @@ from alan import Alan
 
 pygame.init()
 
-alan = Alan(settings_files=['logic_all', 'base', 'interface_gui'])
+alan = Alan(settings_files=['logic', 'base', 'interface/gui'])
 
 # Foreground and background colors
 fg_color = (255,255,255)
@@ -55,7 +55,12 @@ while True:
 
     # Blit
     screen.blit(textinput.get_surface(), (10, 10))
-    screen.blit(face.get_surface(5), (10,50))
+    face_surface = face.get_surface(20)
+    face_position = (
+        width/2 - face_surface.get_width()/2,
+        height/2 - face_surface.get_height()/2
+    )
+    screen.blit(face_surface, face_position)
 
     pygame.display.update()
     clock.tick(30)

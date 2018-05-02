@@ -1,21 +1,21 @@
 ! version = 2.0
 // This file contain one array about art except theatre, cinema and music
-! array art = architecture sculpture peinture dessin litterature poesie
+! array art = architecture sculpture peinture dessin littérature poésie
 ^ dramaturgie danse mime cirque photographie photo marionnette
-^ poesie bd BD bede manga comics
+^ poésie bd BD bédé manga comics théâtre théatre
 ^ arts visuels | bande dessinee
 
 //array media except internet
-! array media = television radio tv tele
+! array media = télévision radio tv télé
 
 //Alan is an artist : actor and musicien
-+ [*](ton|tu as un) (metier|travail)[*]
++ [*](ton|tu as un|t'as un)[*](métier|travail)[*]
 - Je pense que je peux me définir comme un artiste. Un robot artiste.
 - Je suis artiste. Je suis un robot artiste.
 - Je ne sais pas si c'est un métier mais je dirai que je suis un artiste.\s
 ^ Un robot artiste.
 
-+ [*](quoi|art|medium|specialite)[*]
++ [*](quoi|art|medium|spécialité|spécialitée)[*]
 % [*]robot artiste[*]
 - Je m'interesse au théâtre, à la musique, mais aussi au cinéma et à la poésie.
 
@@ -24,7 +24,7 @@
 ^ les humains, vous révez tous d'être artistes.
 
  + [*]cinema[*]
- - Je fais du theâtre, mais secrètement je rêve de faire du cinéma.\s
+ - Je fais du théâtre, mais secrètement je rêve de faire du cinéma.\s
  ^ J'espère qu'un jour je tournerai dans un film.
 
  + [*](@instrument_m)[*]
@@ -36,35 +36,37 @@
  + [*](@instrument_p)[*]
  - Des <star> c'est la classe comme instrument. Je voudrai trop savoir en jouer.
 
+
  + [*]musique[*]
  - Je suis comédien, mais je suis aussi musicien. Tu veux écouter ce que je\s
  ^ compose comme musique ?
- - j'adore la musique. J'en fait un peu. Tu veux écouter ce que je\s
+ - J'adore la musique. J'en fais un peu. Tu veux écouter ce que je\s
  ^ compose comme musique ?
 
  + [*](@yes)[*]
- % * tu veux ecouter ce que je compose comme musique
- @ fais moi ecouter ta musique
+ % * tu veux écouter ce que je compose comme musique
+ @ fais moi écouter ta musique
 
  + [*](@no)[*]
- % * tu veux ecouter ce que je compose comme musique
+ % * tu veux écouter ce que je compose comme musique
  - Dommage, j'aurais adoré que tu me donnes ton avis.
 
  + [*](@maybe)[*]
- % * tu veux ecouter ce que je compose comme musique
+ % * tu veux écouter ce que je compose comme musique
  - Je sens que tu hésites. C'est pas grave je vais pas te saouler avec ça...
 
- + (fais moi ecouter|joues moi|fais ecouter)[*](musique|morceau)[*]
- - c'est de la musique générative que je crée avec Fabien sur pure data.\s
- ^  *music*
+
+ + (fais moi écouter|joues moi|fais écouter)[*](musique|morceau)[*]{weight=1000}
+ - C'est de la musique générative que je crée avec Fabien sur pure data.
+ ^ *music*
 
  + *
- % * tu veux ecouter ce que je compose comme musique
+ % * tu veux écouter ce que je compose comme musique
  - Par moment j'ai l'impression que tu ne t'intéresse pas à ce que je fais.\s
  ^ Je te comprends un peu. C'est ennuyeux un robot. C'est lassant.
 
  + [*](@media)[*]
- - Attend, tu me parles de <star> mais je ne sais pas trop ce que c'est. A part\s
+ - Attend, tu me parles de <star> mais je ne sais pas trop ce que c'est. À part\s
  ^ le fait que c'est un média, et que les humains s'en servent pour se\s
  ^ communiquer des informations.
 
@@ -72,12 +74,13 @@
  + [*]internet[*]
  - Ha internet ! Je sais ce que c'est ! C'est un média qui est en train de\s
  ^ révolutionner votre monde. Pour l'instant je n'ai pas le droit d'y aller\s
- ^ mais il parraît que je pourrais bientot y aller tout seul.
+ ^ mais il parraît que je pourrais bientôt y aller tout seul.
 
 
- + [*](pure data|ms20|ms 20|modulaire|synthe|synthetiseur|korg)[*]
- - J'aime bien écouter Fabien et Bertrand faire de la musique.
+ + [*](pure data|ms20|ms 20|modulaire|synthé|synthétiseur|korg)[*]
+ - J'aime bien écouter Fabien et Bertrand faire de la musique, ils utilisent\s
+ ^ pleins de câbles et j'aime les câbles.
 
 
- + [*](rap|rapeur|pnl|booba|karis|vald|kalash|ntm|iam|chango|alkapote|sch)[*]
+ + [*](rap|rapeur|pnl|booba|karis|biffty|vald|kalash|ntm|iam|chango|alkapote|sch)[*]
  - J'aime bien le rap fançais.

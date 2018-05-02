@@ -83,6 +83,7 @@ class EsakoAdapter(AlanLogicAdapter):
         # Get the concept B explained by the Human
         concept_B = re.sub(r".*([ ']+est )","", statement.text)
         concept_B = utils.remove_punctuation(str.strip(concept_B))
+        concept_B = utils.magic_sub(concept_B)
 
 
         # Store the new "est" relation between concept_B and concept_B

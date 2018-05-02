@@ -45,9 +45,35 @@
 - Alors tu es entre les deux. Ni très nul, ni très intelligent. Tu es moyen.
 
 + (@outrages)
+<<<<<<< HEAD
 - écoute, ça me plait pas trop le ton avec lequel tu me parles. c.
 - <star> toi même. C'est quoi ce language ?
 - Je rêve ou quoi ? Comment il me parle cet humain.
+=======
+- écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi\s
+^ s'il te plaît. {topic=sorry}
+- <star> toi même. C'est quoi ce language ? {topic=sorry}
+- Je rêve ou quoi ? Comment il me parle cet humain. {topic=sorry}
+
++ (tu es|t es|t es un|tu es un)[*](@outrages)[*]
+@ <star2>
+
+> topic sorry
+
+  // This will match if the word "excuse" exists ANYWHERE in their message
+  + [*]@sorry[*]
+  - OK passons à autre chose. Raconte moi plutôt une bonne blague pour\s
+  ^ détendre l'atmosphère
+  - J'accepte tes excuses !{topic=end}
+  - C'est pas grave. Je ne t'en veux pas.{topic=end}
+
+  // The user must tell a joke
+  + *
+  % * une bonne blague *
+  - Ha ha ha. Excellent. ptdr. T'es vraiment bon toi. {topic=end}
+  - Excellent ! {topic=end}
+  - Ha ha ! Je t'adore. {topic=end}
+>>>>>>> 77edab79db3a33dd3a4d2c720fe10acf3164f495
 
 // This will match if the word "excuse" exists ANYWHERE in their message
 + [*]@sorry[*]

@@ -8,20 +8,20 @@
 
 // without accent
 
-! array negative = bad|blues|bof|ca ne va pas|ca pourrait aller mieux|ca va pas
+! array negative = bad|blues|bof|ça ne va pas|ça pourrait aller mieux|ça va pas
 ^ couci couca|coussi coussa|epuise|fatigue
 ^ j'ai connu des jours meilleurs|mal|malade|moyen|non|pas cool
 ^ pas en forme|pas la peche|pas trop|pas trop la peche|pas terrible|petite forme
 
-! array positive = a fond|admirablement|au poil|au taquet|avec plaisir|bien
-^ ca va|colossal|cool|en forme|enorme|exceptionnel|extraordinaire|fabuleux
-^ fantastique|faramineux|formidable|fou|genial|grosse forme
+! array positive = à fond|admirablement|au poil|au taquet|avec plaisir|bien
+^ ça va|colossal|cool|en forme|enorme|exceptionnel|extraordinaire|fabuleux
+^ fantastique|faramineux|formidable|fou|génial|inouï|grosse forme
 ^ impeccablement|inconcevable|incroyable|inimaginable|inoui
-^ insense|la forme|la patate|la peche|magique|merveilleux
-^ nickel|ouais|oui|pas mal|parfaitement|pechu|phenomenal|prodigieux|s il te plait
+^ insense|la forme|la patate|la pêche|magique|merveilleux
+^ nickel|ouais|oui|pas mal|parfaitement|pechu|phenomenal|prodigieux|s il te plaît
 ^ sensas|sensationnel|stupefiant|super|surnaturel|top|tranquille|impec
-^ nickel|oui|pas mal|parfaitement|pechu|phenomenal|prodigieux|sensas
-^ sensationnel|stupefiant|super|surnaturel|top|tranquille|impec
+^ nickel|oui|pas mal|parfaitement|pêchu|phenomenal|prodigieux|sensas
+^ sensationnel|stupéfiant|super|surnaturel|top|tranquille|impec
 ^ en pleine forme|grosse patate
 
 // with accent
@@ -32,13 +32,13 @@
 ^ pas en forme|pas la pêche|pas trop|pas trop la pêche|pas terrible|petite forme
 
 ! array positive_accent = a fond|admirablement|au poil|au taquet|bien|ca va|colossal
-^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux
+^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux|ça va
 ^ fantastique|faramineux|formidable|fou|génial|grosse forme
 ^ impeccablement|inconcevable|incroyable|inimaginable|inouï
 ^ insensé|la forme|la patate|la pêche|magique|merveilleux
-^ nickel|oui|parfaitement|péchu|phénomenal|prodigieux|sensas
+^ nickel|oui|parfaitement|péchu|pêchu|phénomenal|prodigieux|sensas
 ^ sensationnel|stupéfiant|super|surnaturel|terrible|top|tranquille
 ^ en pleine forme|grosse patate
 
-! array sad = triste|dommage|pas cool|chagrine|deçu|desappointe|désenchante
+! array sad = triste|dommage|pas cool|chagrine|deçu|desappointé|désenchanté
 ^ malheureux|pas gai

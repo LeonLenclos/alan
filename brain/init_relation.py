@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import alan
 
 rel = [
@@ -82,6 +85,8 @@ rel = [
     ("Alan", "aime", "alan turing"),
     ("Alan", "aime", "Turing Test"),
     ("Alan", "aime", "turing test"),
+    ("Alan", "aime", "tles cables"),
+    ("Alan", "aime", "les câbles"),
 
 
 ]
