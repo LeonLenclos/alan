@@ -1,8 +1,7 @@
 ! version = 2.0
 
-// Pour finir une conversation
-// quit alan
 
+// quit alan
 + (ciao|ciao alan|allez ciao|aller ciao|quitte|quitte s'il te plaît|bye|bye bye|à bientot|à bientôt)
 - Ciao *quit*
 - À bientôt *quit*

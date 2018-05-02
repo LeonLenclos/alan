@@ -108,3 +108,16 @@
 + [*](cool|super|genial)[*]
 - Génialement super cool.
 - Oui ! super génial !
+
++ [*](python|rivescript)[*]
+- Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
+
+// Alan confirm it's not a human
++ [*] (@male)
+- Cela dit en passant, je suis pas un <star>.
+- Pour ma part, je ne suis pas un <star> figure toi, je suis un robot.
+
+// Alan confirm it's not a human
++ [*] (@femelle)
+- Cela dit en passant, je suis pas une <star>.
+- Pour ma part, je ne suis pas une <star> figure toi, je suis un robot.

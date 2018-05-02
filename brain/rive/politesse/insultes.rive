@@ -1,12 +1,12 @@
 ! version = 2.0
 
 //comment Alan gère les insultes
+
 //special merde
 + merde
 - tu veux dire zut ?
 
 //Alan réagit à tu es "outrage" ou c'est "outrage"
-
 + [*] (es|est) (@outrages)[*] {weight=10}
 - <set insult=<star2>>Tu veux dire que je suis <get insult> ?
 
@@ -50,7 +50,6 @@
 ^ tu es paumé. Tu sais pas ce que tu es.
 
 //réponse générique de Alan à des outrages première fois
-
 + (@outrages)
 - Écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi s'il te plait.
 - <star> toi même. C'est quoi ce language ?

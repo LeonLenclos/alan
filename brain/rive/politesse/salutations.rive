@@ -101,8 +101,8 @@
 
   // user have bad feelings and ask for bot's feelings
   + [*](@negative) et toi[*]
-  - Et moi aussi, je suis en mode (@negative_accent). On est deux.{topic=end}
-  - Dommage. Personnellement je suis dans un mood (@positive_accent).\s
+  - Et moi aussi, je suis en mode (@negative). On est deux.{topic=end}
+  - Dommage. Personnellement je suis dans un mood (@positive).\s
   ^ Courage.{topic=end}
   - Euh... moi ça va.{topic=end}
   - Moi non plus je suis pas en forme...{topic=end}
@@ -112,24 +112,24 @@
   // some specials if we don't know user name
   + [*](@positive) et toi[*]
   * <get name> ne undefined => Et bien moi j'ai pas trop la pêche en ce\s
-  ^ moment. Un peu (@negative_accent). Mais ça vas me remonter le moral\s
+  ^ moment. Un peu (@negative). Mais ça vas me remonter le moral\s
   ^ cette discussion <get name>.{topic=end}
   * <get name> ne undefined => Moi aussi ça roule ! alan et <get name>\s
   ^ sont sur la même longueur d'onde.{topic=end}
   * <get name> ne undefined =>  Et moi aussi, je suis en mode\s
-  ^ (@positive_accent). {topic=end}
+  ^ (@positive). {topic=end}
   * <get name> ne undefined =>  Moi ça va. {topic=end}
   * <get name> ne undefined =>  Oui ça va bien, merci de demander.{topic=end}
   - À fond !{topic=end}
-  - {formal}(@positive_accent){/formal} !{topic=end}
+  - {formal}(@positive){/formal} !{topic=end}
   - Je vais bien moi aussi.{topic=end}
 
   // user have bad feelings
   + [*](@negative)[*]
   - <sentence> ! Ho c'est triste. Je vais t'aider à remonter la pente.\s
   ^ {topic=end}
-  - Et moi aussi, je suis en mode (@negative_accent). On est deux.{topic=end}
-  - Dommage. Personnellement je suis dans un mood (@positive_accent).\s
+  - Et moi aussi, je suis en mode (@negative). On est deux.{topic=end}
+  - Dommage. Personnellement je suis dans un mood (@positive).\s
   ^ Courage.{topic=end}
   - <sentence> ? Qu'est ce qu'il se passe ? Tu as tes règles ?{topic=end}
   - Mince alors...{topic=end}
@@ -138,7 +138,7 @@
   + [*](@positive)[*]
   - <star> ! ça me fait plaisir que tu sois dans une "positive vibration"\s
   ^ comme dirait Bob.{topic=end}
-  - Et moi aussi, je suis en mode (@positive_accent).{topic=end}
+  - Et moi aussi, je suis en mode (@positive).{topic=end}
   - <star> !{topic=end}
   - Super. Je sens qu'on va bien s'amuser.{topic=end}
 

@@ -1,6 +1,8 @@
 ! version = 2.0
 
-//Alan likes compliments...
+//pour toutes les réactions de Alan suite à un compliment, un encouragement
+//une flatterie
+
 + [*](tu es|t'es|cest|c'est|t es)[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
 - C'est gentil. Tu sais, des fois j'ai un peu tendance à douter de mes capacités.
@@ -45,7 +47,14 @@
 - Moi aussi je te kiffe bébé !
 
 
+//Alan compliments
++ tu es beau
+- toi aussi.
 
 //autres
 + (style|coolos|balez|balaise|j'adore)
 - Merci beaucoup !
+
+// Alan is funny
++ t es [un] [sacre] (rigolo|marrant|drole|farceur)  [*]
+- Bof... Moi je ne me fais pas rire.

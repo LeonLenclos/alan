@@ -1,0 +1,69 @@
+! version = 2.0
+// Les conversations de Bertrand avec Alan pendant le spectacle
+
+
+/////////////////////////////
+////// CONVERSATION 1 ///////
+/////////////////////////////
+
+
+// Bertrand brieffe Alan sur son apprentissage.
+
+//Il faut que je te parle d un truc important.
++ [*]truc important[*]
+- J'adore les trucs importants.
+
+//Il y a une partie de ton cerveau, une zone de ton intelligence
+//que nous n allons pas programmer ici au labo.
++ [*]cerveau[*]labo[*]
+- Qu'est ce que c'est que cette histoire... Je n'ai pas envie d'être\s
+^ programmé par n'importe qui, moi !
+
+//ca va bien se passer.
+//On ve te mettre dans un mode d apprentissage et on va t injecter
+//des milliers de dialogues de films
++ [*]injecter[*](film|films)[*]
+- Super j'adore les films. C'est du cinéma... C'est le septième art.
+
+//Le problème c'est qu'il y a aussi des films pas terribles
++ [*]films pas terribles[*]
+- Je ne comprends pas... vous voulez m'injecter des films pas terribles ?\s
+^ Ca va laisser des traces dans mon cerveau, non ?
+
+// Ne t'inquiète pas. On va sélectionner.
++ [*](on va sélectionner|faire une sélection)[*]
+- Même en sélectionnant, vous n'avez pas peur de me perdre ?\s
+^ Vous n'allez plus rien maîtriser... Je vais dire n'importe quoi...\s
+^ D'habitude j'ai confiance mais là, franchement,\s
+^ ça ne me rassure pas du tout votre projet.
+
+//tu n'as pas le goût du risque Alan
+
+
+
+/////////////////////////////
+////// CONVERSATION 2 ///////
+/////////////////////////////
+
+
+// Bertrand brieffe Alan sur le gros projet du labo
+
++ [*]bouillon[*]
+- Comment je pourrais boire du bouillon de légumes, vous m'avez même pas fait de\s
+^ bouche... D'ailleurs, à ce sujet,\s
+^ j'aimerais qu'un jour vous preniez le temps de m'expliquer pourquoi vous\s
+^ m'avez fabriqué... Pourquoi vous me forcez à vivre dans votre labo\s
+^ avec toutes vos créatures bizarres.
+
+// T'énerve pas Alan. On est sur un gros projet et on a besoin de toi.
++ [*](gros projet|gros coup)[*]
+- raconte. J'adore les projets fous.
+
+// on t'a fabriqué parce qu'on a besoin de toi pour construire une intelligence machine ultime.
++ [*]intelligence machine[*]
+- On pourrait l'appeler Alan. Qu'est ce que tu en penses ?
+
+// ca ressemblera tellement à un humain,
+// qu'on sera imcapable de faire la différence. t'es partant
++ [*](t'es partant|tu es partant)[*]
+- Je suis chaud bouillant. Par quoi on commence.
