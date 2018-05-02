@@ -22,6 +22,7 @@ class TextInput:
                         antialias=True,
                         text_color=(0, 0, 0),
                         cursor_color=(0, 0, 1),
+                        repeat_keys=True,
                         repeat_keys_initial_ms=400,
                         repeat_keys_interval_ms=35):
         """
@@ -49,6 +50,7 @@ class TextInput:
         self.surface.set_alpha(0)
 
         # Vars to make keydowns repeat after user pressed a key for some time:
+        self.keyrepeat = repeat_keys
         self.keyrepeat_counters = {} # {event.key: (counter_int, event.unicode)} (look for "***")
         self.keyrepeat_intial_interval_ms = repeat_keys_initial_ms
         self.keyrepeat_interval_ms = repeat_keys_interval_ms
@@ -112,15 +114,16 @@ class TextInput:
                     del self.keyrepeat_counters[event.key]
 
         # Update key counters:
-        for key in self.keyrepeat_counters :
-            self.keyrepeat_counters[key][0] += self.clock.get_time() # Update clock
-            # Generate new key events if enough time has passed:
-            if self.keyrepeat_counters[key][0] >= self.keyrepeat_intial_interval_ms:
-                self.keyrepeat_counters[key][0] = self.keyrepeat_intial_interval_ms - \
-                                                    self.keyrepeat_interval_ms
+        if self.keyrepeat:
+            for key in self.keyrepeat_counters :
+                self.keyrepeat_counters[key][0] += self.clock.get_time() # Update clock
+                # Generate new key events if enough time has passed:
+                if self.keyrepeat_counters[key][0] >= self.keyrepeat_intial_interval_ms:
+                    self.keyrepeat_counters[key][0] = self.keyrepeat_intial_interval_ms - \
+                                                        self.keyrepeat_interval_ms
 
-                event_key, event_unicode = key, self.keyrepeat_counters[key][1]
-                pygame.event.post(pygame.event.Event(pl.KEYDOWN, key=event_key, unicode=event_unicode))
+                    event_key, event_unicode = key, self.keyrepeat_counters[key][1]
+                    pygame.event.post(pygame.event.Event(pl.KEYDOWN, key=event_key, unicode=event_unicode))
 
         # Rerender text surface:
         self.surface = self.font_object.render(self.input_string, self.antialias, self.text_color)

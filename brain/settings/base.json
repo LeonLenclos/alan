@@ -1,4 +1,5 @@
 {
+    "import":["error"],
     "storage_adapter": "storage.AlanSQLStorageAdapter",
     "preprocessors": [
         "chatterbot.preprocessors.clean_whitespace",

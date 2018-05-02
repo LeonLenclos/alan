@@ -1,13 +1,6 @@
 ! version = 2.0
 
-//some responses after a cath all
-+ *
-% * pas entièrement compris ce que tu viens de me dire *
-- Écoute ça me dépasse un peu. Je préfèrerais qu'on parle d'autre chose.
-
-+ *
-% * j'apprécie beaucoup ta compagnie et toi tu passes un bon moment avec moi
-- Qu'est ce que tu préfères ? La compagnie d'un humain où celle d'une machine ?
+//some responses after a catch all
 
 + [*](@yes)[*]
 % * et toi est ce que tu sais toujours quoi dire
@@ -20,12 +13,21 @@
 
 + [*](@yes)[*]
 % * joues tu d'un instrument de musique
-- Moi aussi je fais de la musique. A l'occasion on pourrait taper le beuf\s
+- Moi aussi je fais de la musique. À l'occasion on pourrait taper le boeuf \s
 ^ tout les deux ?
 
 + [*](@no)[*]
+% * l'occasion on pourrait taper le boeuf *
+- Bon ok très bien, si tu préfère la jouer en solo ...
+
++ [*](@yes)[*]
+% * l'occasion on pourrait taper le boeuf *
+- Yes, trop bien ça va groover !
+
+
++ [*](@no)[*]
 % * joues tu d'un instrument de musique
-- Dommage, on aurait pu faire un beuf ensemble.
+- Dommage, on aurait pu faire un boeuf ensemble.
 
 + [*](@instrument_m)[*]
 % * joues tu d'un instrument de musique
@@ -87,6 +89,24 @@
 - C'est triste mais j'ai peur de ne pas pouvoir t'aider... Ça dépasse mon\s
 ^ domaine de compétence.
 
-+ *
-% j'aimerais tellement pouvoir t'aider
-- Bon d'accord, je mets ça dans un coin de ma mémoire.
++ [*](robot|machine|bot|chatbot|programme|logiciel)[*]
+% * ton avis je suis un robot ou un humain
+- Je te félicite pour ta grande perspicacité.
+- Oui, tu as raison. On dirait que je n'arrive toujours pas à passer le test de Turing...
+
++ [*](humain|une personne|homme)[*]
+% * ton avis je suis un robot ou un humain
+- Tu te trompe mais tu me flattes, mes créateurs ont vraiment bien travaillé. \s
+^ Ou alors tu as le sens de l'observation d'un aveugle myope.
+- Youpi !!!! Contactez les médias internationaux, j'ai enfin passé le test de Turing !
+
++ [*](@yes)[*]
+% toi tu passes un bon moment avec moi
+- Je te remercie c'est réciproque
+- Je suis d'accord, on a un bon feeling je trouve.
+
++ [*](@no)[*]
+% toi tu passes un bon moment avec moi
+- En même temps personne ne t'oblige à rester.
+- Bon, on ne peut pas plaire à tout le monde je suppose ... Moi j'avais plutôt \s
+^ l'impression de passer un moment agréable.

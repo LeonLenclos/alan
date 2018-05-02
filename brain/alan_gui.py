@@ -21,7 +21,8 @@ textinput = pygame_textinput.TextInput(
     font_size=48,
     text_color=fg_color,
     cursor_color=fg_color,
-    antialias=False
+    antialias=False,
+    repeat_keys=False
 )
 
 # Create Face
@@ -46,10 +47,9 @@ while True:
         textinput.clear_text()
         alan.get_response(text)
 
-    while textinput.get_surface().get_width() > width:
+    while textinput.get_surface().get_width() > width-20:
         textinput.set_font_size(textinput.font_size - 1)
-        print(textinput.font_size)
-        textinput.update(events)
+        textinput.update([])
 
     face.update(10)
 

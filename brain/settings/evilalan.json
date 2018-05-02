@@ -1,11 +1,5 @@
 {
-    "storage_adapter": "storage.AlanSQLStorageAdapter",
-    "preprocessors": [
-        "chatterbot.preprocessors.clean_whitespace",
-        "chatterbot.preprocessors.convert_to_ascii",
-        "preprocessors.add_speaker_data"
-    ],
-    "database": "./evil_database.sqlite3",
-    "import": ["logic", "interface/vs"]
+    "import": ["logic", "interface/vs", "base"],
+    "database": "./evil_database.sqlite3"
 
 }

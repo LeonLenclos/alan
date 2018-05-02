@@ -17,7 +17,10 @@ import logging
 import datetime, time
 import wave
 import chatterbot
+from chatterbot.conversation import Statement
 import pygame
+import random
+import traceback
 
 from logic import MainLogicAdapter
 from output import MainOutputAdapter
@@ -64,6 +67,7 @@ class Alan(chatterbot.ChatBot):
         self.lines_of_code = self.get_lines_of_code()
         self.last_results=[]
         self.user_name = None
+        self.error_messages = self.settings.get('error_messages', None)
 
 
         # init chatterbot
@@ -140,7 +144,7 @@ class Alan(chatterbot.ChatBot):
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
-        return "%s v%s\nBy %s" % (self.name, self.version, self.author)
+        return "%s v%s" % (self.name, self.version)
 
     def get_response(self, input_item, conversation_id=None, listener=None):
         """
@@ -151,46 +155,69 @@ class Alan(chatterbot.ChatBot):
         :rtype: Statement
         """
 
+        command_regex = r"\*(.+)\*"
+
+        def listen(input_item):
+            # Process input if no input item
+            if input_item: input = Statement(input)
+            else: input = self.input.process_input()
+
+            # Preprocess the input statement
+            for pre in self.preprocessors:input = pre(self, input)
+            return input
+
+        def say(output):
+            # clean commands
+            text = output.text
+            output.text = re.sub(command_regex, "", output.text)
+
+            # Process the response output with the output adapter
+            self.output.process_response(output, conversation_id)
+
+            # restore the response text
+            output.text = text
+
         # Get conversation
         if not conversation_id:
             if not self.default_conversation_id:
                 self.default_conversation_id = self.storage.create_conversation()
             conversation_id = self.default_conversation_id
 
-        if listener: listener.send(state='listening')
+        try:
+            # Listen
+            if listener: listener.send(state='listening')
+            input = listen(input_item)
 
-        # Get input
-        if input_item:
-            input_statement = chatterbot.conversation.Statement(input_item)
-        else: input_statement = self.input.process_input()
+            # Think
+            if listener: listener.send(state='thinking')
+            output = self.logic.process(input)
 
-        if listener: listener.send(state='thinking')
+            # Speak
+            if listener: listener.send(state='speaking')
+            say(output)
+            if listener: listener.send(state='waiting')
 
-        # Preprocess the input statement
-        for preprocessor in self.preprocessors:
-            input_statement = preprocessor(self, input_statement)
+            # Store response
+            self.storage.add_to_conversation(conversation_id, input, output)
 
-        # Get response
-        response = self.logic.process(input_statement)
+            # Execute command
+            command = re.search(command_regex, output.text)
+            if command: self.execute_command(command.group(1))
 
-        # Search command
-        command_regex = r"\*(.+)\*"
-        command = re.search(command_regex, response.text)
-        response.text = re.sub(command_regex, "", response.text)
-
-        # store response
-        self.storage.add_to_conversation(
-            conversation_id, input_statement, response)
-
-        if listener: listener.send(state='speaking')
-
-        # Process the response output with the output adapter
-        output = self.output.process_response(response, conversation_id)
-
-        if listener: listener.send(state='waiting')
-
-        # execute command
-        if command: self.execute_command(command.group(1))
+        except(KeyboardInterrupt, EOFError, SystemExit):
+            raise
+        except:
+            if self.error_messages:
+                exc_type, exc_value, exc_traceback = sys.exc_info()
+                self.log("ERROR:", True)
+                self.log('\n'.join(traceback.format_exception(
+                    exc_type,
+                    exc_value,
+                    exc_traceback)))
+                say(Statement(random.choice(self.error_messages)))
+                self.quit()
+            else:
+                raise
 
         return output
 
