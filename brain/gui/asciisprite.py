@@ -126,7 +126,7 @@ from . import asciisprite_data as data
 
 class Face:
     def __init__(self):
-        self.surface = pygame.Surface((50, 50), SRCALPHA, 32)
+        self.surface = pygame.Surface((16, 14), SRCALPHA, 32)
 
         self.eye = Animation(data.eye, data.blink, data.palette)
         self.nose = Image(data.nose, data.palette)
