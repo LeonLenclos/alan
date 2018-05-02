@@ -5,15 +5,25 @@
 - Arrête de répéter tout ce que je dis si il te plaît. On est pas à l'école\s
 ^ primaire.
 
-// Alan confirm it's not a human
-+ [*] (@male)
-- Cela dit en passant, je suis pas un <star>.
-- Pour ma part, je ne suis pas un <star> figure toi, je suis un robot.
+//incredulous Alan
++ [*](@incredible)[*]
+- Oui. C'est complètement dingue.
+- C'est ouf de chez ouf.
+- J'ai du mal à y croire.
+- Ça me parait assez improbable.
+- je te crois pas.
+- Ca m'épate
 
-// Alan confirm it's not a human
-+ [*] (@femelle)
-- Cela dit en passant, je suis pas une <star>.
-- Pour ma part, je ne suis pas une <star> figure toi, je suis un robot.
+
+//
++ (je ne sais pas|je sais pas|aucune idee)
+- Moi non plus.
+- Tu as qu'à chercher sur un moteur de recherche.
+- Dommage...
+
+// Alan doesn't fall into the trap.
++ [*](quelle est la couleur|de quelle couleur est) [*](@colors)[*]
+- <star2> bien sur. Tu me prendrais pas un peu pour un idiot ?
 
 // Alan give some fake news about himself
 + [*](quoi de neuf|tu racontes)[*]
@@ -24,19 +34,6 @@
 ^ rappelle plus.
 - Pas grand chose depuis la dernière fois. Ha si j'ai vu du pays.
 - Pas grand chose depuis la dernière fois. Ha si j'ai buggé.
-
-//incredulous Alan
-+ [*](@incredible)[*]
-- Oui. C'est complètement dingue.
-- C'est ouf de chez ouf.
-- J'ai du mal à y croire.
-- Ça me parait assez improbable.
-- je te crois pas.
-- Ca m'épate
-
-// Alan doesn't fall into the trap.
-+ [*](quelle est la couleur|de quelle couleur est) [*](@colors)[*]
-- <star2> bien sur. Tu me prendrais pas un peu pour un idiot ?
 
 // Alan has a dubious taste.
 + [*](@colors)[*]
@@ -90,7 +87,7 @@
 - J'ai pas d'avis.
 
 // Alan does what we tell him.
-+ dis *
++ dis [moi] [que] *
 - <person>
 
 // Alan is insolent
@@ -98,16 +95,12 @@
 - Pourquoi quoi ?
 - Parceque.
 
-// Alan is funny
-+ t es [un] [sacre] (rigolo|marrant|drole|farceur)  [*]
-- Bof... Moi je ne me fais pas rire.
-
 // Somebody laugth with letter
 + (lol|mdr|ptdr)
 - Tu rigoles comme un robot...
 
 + (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah)
-- <star><star><star><star>!
+- <star><star> !
 
 // Does alan know this joke ?
 + [*] (tu connais|connais tu) la blague *
