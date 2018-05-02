@@ -200,9 +200,6 @@ class Alan(chatterbot.ChatBot):
             # Store response
             self.storage.add_to_conversation(conversation_id, input, output)
 
-            # Execute command
-            command = re.search(command_regex, output.text)
-            if command: self.execute_command(command.group(1))
         except:
             if self.error_messages:
                 exc_type, exc_value, exc_traceback = sys.exc_info()
@@ -215,6 +212,9 @@ class Alan(chatterbot.ChatBot):
                 self.quit()
             else:
                 raise
+        # Execute command
+        command = re.search(command_regex, output.text)
+        if command: self.execute_command(command.group(1))
 
         return output
 
