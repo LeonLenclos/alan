@@ -1,13 +1,6 @@
 {
     "logic_adapters": [
-       {
-          "identifier": "divers",
-          "skill_description": ["parce que tu m'a demandé de te renseigner sur mon état de forme"],
-          "rive_files": [
-               "./rive/politesse/divers.rive"],
-          "max_confidence": 0.5,
-          "import_path": "logic.RiveScriptAdapter"
-       },
+
        {
            "identifier": "compliment_reponse",
            "skill_description": ["Parce qu'un compliment fait toujours plaisir."],
@@ -25,18 +18,18 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
-           "identifier": "salutations",
-           "skill_description": ["Parce que toute conversation commence par un échange de politesse","Parce qu'il faut apprendre à se connaître avant toute chose"],
-           "rive_files": [
-               "./rive/politesse/salutations.rive"],
-           "import_path": "logic.RiveScriptAdapter",
-           "max_confidence": 0.9
+          "identifier": "divers",
+          "skill_description": ["parce que tu m'a demandé de te renseigner sur mon état de forme"],
+          "rive_files": [
+               "./rive/politesse/divers.rive"],
+          "max_confidence": 0.5,
+          "import_path": "logic.RiveScriptAdapter"
        },
        {
-           "identifier": "presentations",
+           "identifier": "fin",
            "skill_description": ["Parce que les gens m'intéressent"],
            "rive_files": [
-               "./rive/politesse/presentations.rive"],
+               "./rive/politesse/fin.rive"],
            "max_confidence": 0.9,
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -49,12 +42,29 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "presentations",
+           "skill_description": ["Parce que les gens m'intéressent"],
+           "rive_files": [
+               "./rive/politesse/presentations.rive"],
+           "max_confidence": 0.9,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "reproches",
            "skill_description": ["Parce qu'un reproche ne fait jamais plaisir."],
            "rive_files": [
                "./rive/politesse/reproches.rive"],
            "max_confidence": 0.5,
            "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "salutations",
+           "skill_description": ["Parce que toute conversation commence par un échange de politesse","Parce qu'il faut apprendre à se connaître avant toute chose"],
+           "rive_files": [
+               "./rive/politesse/salutations.rive"],
+           "import_path": "logic.RiveScriptAdapter",
+           "max_confidence": 0.9
        }
+
       ]
 }

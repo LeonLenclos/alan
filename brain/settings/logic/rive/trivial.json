@@ -1,6 +1,14 @@
 {
     "logic_adapters": [
        {
+           "identifier": "catch_all_faible_reponse",
+           "skill_description": ["pour donner un peu de sens à cette conversation"],
+           "rive_files": [
+                "./rive/trivial/catch_all_faible_reponse.rive"],
+           "max_confidence": 0.35,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "catch_all_reponse",
            "skill_description": ["pour donner un peu de sens à cette conversation"],
            "rive_files": [
@@ -8,12 +16,13 @@
            "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        },
+
        {
-           "identifier": "mainstream",
-           "skill_description": ["parce que c'est vrai"],
+           "identifier": "decales",
+           "skill_description": ["j'ai dis ça comme ça"],
            "rive_files": [
-               "./rive/trivial/mainstream.rive"],
-           "max_confidence": 0.4,
+               "./rive/trivial/decales.rive"],
+           "max_confidence": 0.35,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -25,19 +34,11 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
-           "identifier": "decales",
-           "skill_description": ["j'ai dis ça comme ça"],
+           "identifier": "mainstream",
+           "skill_description": ["parce que c'est vrai"],
            "rive_files": [
-               "./rive/trivial/decales.rive"],
-           "max_confidence": 0.35,
-           "import_path": "logic.RiveScriptAdapter"
-       },
-       {
-           "identifier": "un_mot",
-           "skill_description": ["J'ai préféré dire ça plutôt que de me taire."],
-           "rive_files": [
-               "./rive/trivial/un_mot.rive"],
-           "max_confidence": 0.25,
+               "./rive/trivial/mainstream.rive"],
+           "max_confidence": 0.4,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -46,6 +47,14 @@
            "rive_files": [
                "./rive/trivial/pensees.rive"],
            "max_confidence": 0.9,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "un_mot",
+           "skill_description": ["J'ai préféré dire ça plutôt que de me taire."],
+           "rive_files": [
+               "./rive/trivial/un_mot.rive"],
+           "max_confidence": 0.25,
            "import_path": "logic.RiveScriptAdapter"
        }
       ]
