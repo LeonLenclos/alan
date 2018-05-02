@@ -87,7 +87,7 @@
 
   // if he say no ask for name again
   + [*]non[*]
-  - Ah. mais tu t'appelles comment alors ?{topic=asked_name}
+  - Ah, mais tu t'appelles comment alors ?{topic=asked_name}
 
   // else we give up
   + *
