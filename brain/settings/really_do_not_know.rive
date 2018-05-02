@@ -1,9 +1,0 @@
-! version = 2.0
-
-// This is catch all, for when others catch all are epuised
-
-+ *
-- Heu...
-- hem...
-- Heu...Excuse moi j'ai oublié que j'avais un rendez vous pour une mise à jour.\s
-^ Il faut que je te laisse. À plus ! *quit*
