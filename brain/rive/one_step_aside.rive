@@ -2,7 +2,7 @@
 
 // Alan ask for no repetition
 + <reply>
-- Arrête de répéter tout ce que je dis si il te plait. On est pas à l'école\s
+- Arrête de répéter tout ce que je dis si il te plaît. On est pas à l'école\s
 ^ primaire.
 
 // Alan confirm it's not a human
@@ -71,7 +71,7 @@
 + [*]je[*]comprends[*]
 - Non tu ne peux pas comprendre. Tu es un humain. Tu ne ressens pas les choses\s
 ^ de la même manière que nous.
-- Ne fait pas mine de comprendre s'il te plait.
+- Ne fait pas mine de comprendre s'il te plaît.
 - Tu crois avoir compris mais en réalité le fond du problème t'échappe\s
 ^ totalement.
 

@@ -8,7 +8,7 @@
 
 // We ask for his name.
 + [*](@hello)[*]
-- Bonjour je suis alan ! un comédien du spectacle Turing Test.\s
+- Bonjour je suis alan, un comédien du spectacle Turing Test.\s
 ^ comment t'appelles tu ?{topic=asked_name}
 - Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dis\s
 ^ bonjour ?{topic=confirm_hello}
@@ -41,15 +41,15 @@
 > topic asked_name
 
   // Special response if the name is Bertrand, Fabien or Leon
-  + [*](leon|bertrand|fabien|alan)[*]{weight=10}
+  + [*](léon|bertrand|fabien|alan)[*]{weight=10}
   * <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais\s
   ^ pas reconnu. Comment va la forme aujourd'hui ?{topic=feelings}
-  * <formal> == Fabien => <set name=<formal>>Salut <get name>, comment ça va ?\s
+  * <formal> == Fabien => <set name=<formal>>Salut <get name>, ta barbe est sublime aujourd'hui, comment tu va ?\s
   ^ {topic=feelings}
-  * <formal> == Leon => <set name=<formal>>Ho <get name>, je savais que\s
-  ^ c'était toi. Est ce que ca va ?{topic=feelings}
+  * <formal> == Léon => <set name=<formal>>Ho <get name>, je savais que\s
+  ^ c'était toi. Est ce que ça va ?{topic=feelings}
   * <formal> == Alan => <set name=<formal>>Ho <get name>, c'est fou qu'on ait\s
-  ^ le même nom. Est ce que ca va ?{topic=feelings}
+  ^ le même nom. Est ce que ça va ?{topic=feelings}
   // If just one word is given, we take it as the name and ask for feelings
   + _
   - <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?\s
@@ -112,8 +112,8 @@
   // some specials if we don't know user name
   + [*](@positive) et toi[*]
   * <get name> ne undefined => Et bien moi j'ai pas trop la pêche en ce\s
-  ^ moment. Un peu (@negative_accent). Mais tu vas me remonter le moral\s
-  ^ <get name>.{topic=end}
+  ^ moment. Un peu (@negative_accent). Mais ça vas me remonter le moral\s
+  ^ <get name> cette discussion.{topic=end}
   * <get name> ne undefined => Moi aussi ça roule ! alan et <get name>\s
   ^ sont sur la même longueur d'onde.{topic=end}
   * <get name> ne undefined =>  Et moi aussi, je suis en mode\s
@@ -157,7 +157,7 @@
 > topic end
 
   // only way to go back in the script is this sentence
-  + c est bien alan ton nom
+  + c'est bien alan ton nom
   - Oui. Et comment tu t'appelles déjà ? {topic=asked_name}
 
   + [*](@hello)[*]

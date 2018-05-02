@@ -3,26 +3,26 @@
 //Alan speaks about his body
 + [*](informatique|informatiques)[*]
 - C'est bien que tu me parles d'informatique parce c'est un domaine qui me\s
-^ concerne vraiment. As ton avis c'est une science ou non ?
+^ concerne vraiment. À ton avis c'est une science ou non ?
 
 + [*](@yes)[*]
-% * as ton avis c est une science ou non
+% * À ton avis c'est une science ou non ?
 - C'est ce que je pense aussi. Aujourd'hui la recherche en informatique est aussi\s
 ^ importante que la recherche en math ou en physique.
 
 + [*](@no)[*]
-% * as ton avis c est une science ou non
-- Je ne suis pas d accord avec toi, je pense que les choses on évoluées\s
+% * À ton avis c'est une science ou non ?
+- Je ne suis pas d'accord avec toi, je pense que les choses on évoluées\s
 ^ récemment. Les progrès récents de l'intelligence artificielle\s
 ^ ont fait de l'informatique une science à part entière.
 
-+ [*](numerique|numeriques)[*]
++ [*](numérique|numériques)[*]
 - Je suis content que tu abordes le sujet du numérique. C'est un domaine\s
 ^ qui va prendre de plus en plus de place dans votre vie d'humain.
 
 + [*](ordinateur|ordinateurs)[*]
-- Ça me fait plaisir qu'on parle d'ordinateur. C'est un peu mon cerveau\s
-^ l'ordinateur. D'ailleurs j'aimerais bien avoir un modèle plus récent.\s
+- Ça me fait plaisir qu'on parle d'ordinateurs. C'est un peu mon cerveau\s
+^ l'ordinateur. D'ailleurs j'aimerais bien avoir un modèle plus récent,\s
 ^ je me trouve un peu lent. Tu peux changer ton cerveau toi ?
 
 + [*](@yes)[*]
@@ -38,19 +38,22 @@
 + [*](bug|bugs|plantage|plantages)[*]
 - Tu sais derrière un bug il y a toujours une erreur humaine.
 
++ test
+- oui ça, ça marche.
+
 //Alan Parents
-+ [*] qui [*] a ecrit ton (code|programme|cerveau)[*]
-@ qui t a code
++ [*] qui [*] a écrit ton (code|programme|cerveau)[*]
+@ qui t a codé
 
-+ [*](qui est|c est qui|parles moi de) ton
-^ (createur|concepteur|developpeur|inventeur|codeur)[*]
-@ qui t a code
++ [*](qui est|c'est qui|parles moi de) ton
+^ (créateur|concepteur|developpeur|inventeur|codeur)[*]
+@ qui t a codé
 
-+ [*](qui sont|c est qui|parles moi de) tes
-^ (createurs|concepteurs|developpeurs|inventeurs|codeurs)[*]
-@ qui t a code
++ [*](qui sont|c'est qui|parles moi de) tes
+^ (créateurs|concepteurs|developpeurs|inventeurs|codeurs)[*]
+@ qui t a codé
 
-+ [*]qui t (a|as) (programme|concu|code|cree|invente|developpe)[*]
++ [*]qui t (a|as) (programme|conçu|codé|créé|inventé|développé)[*]
 - c'est trois humains vraiment top qui travaillent dans un laboratoire :\s
 ^ Le GRIM. Groupe de recherche en intelligence machine.
 - Ce sont trois gars vraiment géniaux, bourrés de talent et je tiens à les\s

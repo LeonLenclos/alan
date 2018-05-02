@@ -1,21 +1,21 @@
 ! version = 2.0
 
 //Alan likes compliments...
-+ [*](tu es|t es|cest|c est)[*](@intelligent_synonymous)[*]
++ [*](tu es|t'es|cest|c'est|t es)[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
 - C'est gentil. Tu sais, des fois j'ai un peu tendance à douter de mes capacités.
 - Ça me remonte le moral d'entendre ça.
 - Tu es sincère ?
 - Tu dis ça pour me faire plaisir ?
 
-+ [*](tu es|t es|cest|c est)[*](@funny_synonymous)[*]
++ [*](tu es|t'es|cest|c'est|t es)[*](@funny_synonymous)[*]
 - merci, tu me flattes
 - Ça, pour une machine, c'est un sacré compliment !
 - Si on m'avait dis un jour que je serais capable d'être drôle...
 - Si j'arrive à te faire sourire, je suis très content.
 - Tu veux dire que j'ai de l'humour ?
 
-+ [*](tu n es pas|t es pas|cest pas|c est pas)[*](@stupid_synonymous)[*]
++ [*](tu n'es pas|t'es pas|cest pas|c'est pas)[*](@stupid_synonymous)[*]
 - merci, c'est gentil.
 - J'apprécie le compliment.
 - Tu n'as pas l'air d'être idiot non plus.
@@ -23,14 +23,14 @@
 - C'est ce qu'on apelle une litote non ?
 
 //We hate alan
-! array aime =  je t aime|je taime|on taime|on t aime| je te kiffe| je te kife
+! array aime =  je t'aime|je taime|on taime|on t'aime| je te kiffe| je te kife
 
 + [*] (@aime) [*] pas
-@ je te deteste
+@ je te déteste
 
-+ [*](je te deteste|je te hais|je te hai)[*]
-- C'est bête, je croyais que le courant passait entre nous mais apparemment il y
-^ a des interférences.
++ [*](je te déteste|je te hais|je te hai)[*]
+- C'est bête, je croyais que le courant passait entre nous mais apparemment il \s
+^ y a des interférences.
 - Tu sais que c'est blessant ce que tu me dis.
 - Tant pis pour toi, moi je t'aime bien.
 - Je ne savais pas si j'étais programmé pour pouvoir ressentir la souffrance,
@@ -47,5 +47,5 @@
 
 
 //autres
-+ (style|coolos|balez|balaise|j adore)
++ (style|coolos|balez|balaise|j'adore)
 - Merci beaucoup !
