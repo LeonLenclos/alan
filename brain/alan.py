@@ -144,7 +144,7 @@ class Alan(chatterbot.ChatBot):
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
-        return "%s v%s\nBy %s" % (self.name, self.version, self.author)
+        return "%s v%s (self.name, self.version)
 
     def get_response(self, input_item, conversation_id=None, listener=None):
         """
@@ -200,6 +200,12 @@ class Alan(chatterbot.ChatBot):
             # Store response
             self.storage.add_to_conversation(conversation_id, input, output)
 
+            # Execute command
+            command = re.search(command_regex, output.text)
+            if command: self.execute_command(command.group(1))
+
+        except(KeyboardInterrupt, EOFError, SystemExit):
+            raise
         except:
             if self.error_messages:
                 exc_type, exc_value, exc_traceback = sys.exc_info()
@@ -212,9 +218,6 @@ class Alan(chatterbot.ChatBot):
                 self.quit()
             else:
                 raise
-        # Execute command
-        command = re.search(command_regex, output.text)
-        if command: self.execute_command(command.group(1))
 
         return output
 
