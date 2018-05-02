@@ -1,11 +1,11 @@
 //age of Alan
-+ [*][tu as|ca te fait]quel age[tu as|ca te fait][*]
++ [*][tu as|ça te fait]quel âge[tu as|ça te fait][*]
 - J'ai dépassé la barre des <bot age>.
 - <bot age> déjà ! Tu te rend compte ?
 
 //in case of Alan did not gave his name before
-! array give_your_name = quel est ton nom|as tu un nom|c est quoi ton nom
-^ comment tu t appelles|c est comment ton nom|dis moi ton nom
+! array give_your_name = quel est ton nom|as tu un nom|c'est quoi ton nom
+^ comment tu t'appelles|c'est comment ton nom|dis moi ton nom
 ^ donnes moi ton nom|c quoi ton petit nom|c'est quoi ton nom|tu connais ton nom
 ^ quel est ton prénom|as tu un prénom|c est quoi ton prénom|tu connais ton prénom
 ^ comment tu t'appelles|c est comment ton prénom|dis moi ton prénom
@@ -65,11 +65,6 @@
 - Moi j'ai déjà <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
 
-+ [*] combien de (pères|père|papa|papas|créateur|créateurs) [*]
-- J'ai trois fantastiques papa : Bertrand, Fabien et Léon. C'est assez moderne\s
-^ comme famille, je le concède, mais ce sont de grands hommes qui m'ont\s
-^ds beaucoup appris
-
 
 //Wheight
 + [*] (combien tu peses|tu peses combien|quel poids tu fais|tu fais quel poids) [*]
@@ -100,8 +95,7 @@
 
 //
 
-+ [*] (qu aimes tu|qu'aimes tu|qu'aimes-tu|qu est ce que tu aimes|qu'est-ce que tu aimes|qu'est ce que tu aimes|tu aimes quoi|t aimes quoi|t'aimes quoi) [*]
-- J'aime plein de choses.
++ [*] (qu aimes tu|qu est ce que tu aimes|tu aimes quoi|t aimes quoi) [*]
+- Plein de choses.
 - Toi je t'aime bien.
 - J'aime discuter avec toi !
-- J'aime tout un tas de choses, à part Siri.
