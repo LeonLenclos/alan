@@ -113,7 +113,7 @@
   + [*](@positive) et toi[*]
   * <get name> ne undefined => Et bien moi j'ai pas trop la pêche en ce\s
   ^ moment. Un peu (@negative_accent). Mais ça vas me remonter le moral\s
-  ^ <get name> cette discussion.{topic=end}
+  ^ cette discussion <get name>.{topic=end}
   * <get name> ne undefined => Moi aussi ça roule ! alan et <get name>\s
   ^ sont sur la même longueur d'onde.{topic=end}
   * <get name> ne undefined =>  Et moi aussi, je suis en mode\s

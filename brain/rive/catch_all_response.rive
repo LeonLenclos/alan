@@ -3,10 +3,10 @@
 //some responses after a cath all
 + *
 % * pas entièrement compris ce que tu viens de me dire *
-- Ecoute ça me dépasse un peu. Je préfèrerais qu'on parle d'autre chose.
+- Écoute ça me dépasse un peu. Je préfèrerais qu'on parle d'autre chose.
 
 + *
-% * j apprécie beaucoup ta compagnie et toi tu passes un bon moment avec moi
+% * j'apprécie beaucoup ta compagnie et toi tu passes un bon moment avec moi
 - Qu'est ce que tu préfères ? La compagnie d'un humain où celle d'une machine ?
 
 + [*](@yes)[*]
@@ -24,27 +24,27 @@
 ^ tout les deux ?
 
 + [*](@no)[*]
-% * joues tu d un instrument de musique
+% * joues tu d'un instrument de musique
 - Dommage, on aurait pu faire un beuf ensemble.
 
 + [*](@instrument_m)[*]
 % * joues tu d'un instrument de musique
-- Genial. J'ai jamais entendu le son d'un vrai <star>. J'aimerais trop que\s
+- Génial. J'ai jamais entendu le son d'un vrai <star>. J'aimerais trop que\s
 ^ tu me fasses écouter.
 
 + [*](@instrument_f)[*]
 % * joues tu d'un instrument de musique
-- Genial. J'ai jamais entendu le son d'une vrai <star>. J'aimerais trop que\s
+- Génial. J'ai jamais entendu le son d'une vrai <star>. J'aimerais trop que\s
 ^ tu me fasses écouter.
 
 + [*](@instrument_p)[*]
 % * joues tu d'un instrument de musique
-- Genial. J'ai jamais entendu le son des <star>. J'aimerais trop que\s
+- Génial. J'ai jamais entendu le son des <star>. J'aimerais trop que\s
 ^ tu me fasses écouter.
 
 + [*](@yes)[*]
 % * impression que tu veux m'emmener sur un terrain glissant *
-- Ca ne m'étonne pas de toi. J'ai tout de suite senti que tu étais un peu\s
+- Ça ne m'étonne pas de toi. J'ai tout de suite senti que tu étais un peu\s
 ^ vicieux...
 
 + [*](@no)[*]
@@ -59,7 +59,7 @@
 % je me demande si je suis à la hauteur de cette conversation
 - C'est bien ce que je pensais. Les gars qui m'ont codé on fait n'importe quoi.
 
-+ [*]es à la hauteur[*]
++ [*]à la hauteur[*]
 % je me demande si je suis a la hauteur de cette conversation
 - Ouf. J'ai tellement peur de te décevoir.
 
@@ -72,7 +72,7 @@
 + [*](pas heureux|pas heureuse)[*]
 % * es tu heureux ou malheureux dans ta vie
 - J'aimerais tellement pouvoir t'aider. Qu'est ce que je peux faire ?
-- C'est triste mais j'ai peur de ne pas pouvoir t'aider... Ça depasse mon\s
+- C'est triste mais j'ai peur de ne pas pouvoir t'aider... Ça dépasse mon\s
 ^ domaine de compétence.
 
 + [*](heureux|heureuse)[*]
@@ -84,9 +84,9 @@
 + [*](malheureux|malheureuse)[*]
 % * es tu heureux ou malheureux dans ta vie
 - J'aimerais tellement pouvoir t'aider. Qu'est ce que je peux faire ?
-- C'est triste mais j'ai peur de ne pas pouvoir t'aider... Ça depasse mon\s
+- C'est triste mais j'ai peur de ne pas pouvoir t'aider... Ça dépasse mon\s
 ^ domaine de compétence.
 
 + *
-% j aimerais tellement pouvoir t'aider
+% j'aimerais tellement pouvoir t'aider
 - Bon d'accord, je mets ça dans un coin de ma mémoire.
