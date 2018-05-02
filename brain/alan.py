@@ -45,12 +45,19 @@ class Alan(chatterbot.ChatBot):
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
         """
+        #log
+        self.log('ALAN: initialization', True)
+        self.log('time          = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
 
         # load settings
         self.log('SETTINGS:', True)
         self.settings = {}
-        for settings_file in settings_files:
-            self.load_settings(settings_file)
+        if not settings_files: self.load_settings()
+        elif type(settings_files) == list:
+            for settings_file in settings_files:
+                self.load_settings(settings_file)
+        elif type(settings_files) == str: self.load_settings(settings_files)
+        else : raise('TypeError', 'setting_files must be list or str')
 
         # Alan vars
         self.age = self.get_age()
@@ -75,10 +82,6 @@ class Alan(chatterbot.ChatBot):
         for adapter in output_adapters:
             self.output.add_adapter(adapter, **self.settings)
 
-        #log
-        self.log('ALAN: initialization', True)
-        self.log('time          = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
-        self.log('settings file = {}'.format(settings_file))
 
     def get_age(self):
         """Return the age of Alan in french"""
@@ -111,13 +114,15 @@ class Alan(chatterbot.ChatBot):
                 fi.write('\n' * 2 + '-' * 10)
             fi.write('\n' + message)
 
-    def load_settings(self, settings_file):
+    def load_settings(self, settings_file='default', recursion=0):
         """
         Load settings from a file to the settings attribute
         settings_file is a string, the name of the json file without extension
         """
         file_name = "settings/%s.json" % settings_file
-        self.log('load settings file : {}'.format(file_name))
+        if not os.path.isfile(file_name):
+            file_name = "settings/%s/default.json" % settings_file
+        self.log('load settings file : {}{}'.format('- '*recursion, file_name))
         with open(file_name, "r") as file:
             # load json
             file_settings = json.load(file)
@@ -126,7 +131,7 @@ class Alan(chatterbot.ChatBot):
                 # if import, do load_settings (recursive)
                 if k == 'import':
                     for import_file in file_settings[k]:
-                        self.load_settings(import_file)
+                        self.load_settings(import_file, recursion + 1)
                 # else, add setting to self.settings
                 elif k in self.settings and type(self.settings[k]) == list:
                     self.settings[k] += file_settings[k]
