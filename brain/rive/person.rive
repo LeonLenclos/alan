@@ -1,10 +1,28 @@
 ! version = 2.0
 
 // Person substitutions
+
+// Avoir
+! person j'ai = tu as
+! person j ai = tu as
+! person tu as = j'ai
+! person avons = avez
+! person avez = avons
+
+
+// Être
 ! person je suis = tu es
 ! person tu es = je suis
 ! person nous sommes = vous etes
 ! person vous etes = nous sommes
+// Être neg
+! person je ne suis = tu n'es
+! person tu n'es = je ne suis
+! person tu n es = je ne suis
+! person nous ne sommes = vous n'etes
+! person vous n'etes = nous ne sommes
+! person vous n etes = nous ne sommes
+
 ! person mon = ton
 ! person ton = mon
 ! person ma = ta
@@ -19,3 +37,8 @@
 ! person nos = vos
 ! person tes = mes
 ! person mes = tes
+
+! person t' = m'
+! person m' = t'
+! person me = te
+! person te = me

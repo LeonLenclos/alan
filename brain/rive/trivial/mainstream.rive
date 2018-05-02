@@ -6,14 +6,14 @@
 ^ La pluie et le beau temps, je laisse ça à papy et mamy.
 
 //age of Alan
-+ [*][tu as|ca te fait]quel age[tu as|ca te fait][*]
++ [*][tu as|ça te fait]quel âge[tu as|ça te fait][*]
 - J'ai dépassé la barre des <bot age>.
 - <bot age> déjà ! Tu te rend compte ?
 
 //in case of Alan did not gave his name before
-! array give_your_name = Quel est ton nom|As tu un nom|C est quoi ton nom
-^ comment tu t appelles|c est comment ton nom|dis moi ton nom\s
-^ donne moi ton nom|c quoi ton petit nom
+! array give_your_name = Quel est ton nom|As tu un nom|C'est quoi ton nom
+^ comment tu t'appelles|c'est comment ton nom|dis moi ton nom\s
+^ donne moi ton nom|c'est quoi ton petit nom
 
 + @give_your_name
 - J'avais l'impression de te l'avoir déjà dit... Mais peut-être pas. Mon\s
@@ -22,9 +22,9 @@
 - Alan le big boss
 
 //where do you come from
-! array where_do_you_come_from = d ou viens tu|ou es ce que tu habites
-^ ou habites tu|tu viens d ou|d ou est ce que tu viens|tu habites ou
-^ ou est ce que tu vis|ou vis tu|tu vis ou|ou tu habites|ou t habites
+! array where_do_you_come_from = d'où viens tu|où es ce que tu habites
+^ où habites tu|tu viens d'où|d'où est ce que tu viens|tu habites où
+^ où est ce que tu vis|où vis tu|tu vis où|où tu habites|où t habites
 
 + [*](@where_do_you_come_from)[*]
 - J'habite dans un ordinateur surboosté. C'est le grand confort.
@@ -32,19 +32,19 @@
 ^ mais on est souvent sur la route...
 
 //who are you
-+ [et] [toi] (qui es tu|tu es qui|t es qui|qui tes) [toi]
++ [et] [toi] (qui es tu|tu es qui|t'es qui|qui t'es) [toi]
 - Je suis un jeune robot. Une machine programmée pour discuter avec toi.
 - je suis une machine faites de métal et de plastique.
 - Je suis une créature artificielle.
 - Je suis un chatbot, un agent conversationnel avec qui tu peux discuter.
 
-+ (es tu|tu es) reel
++ (es tu|tu es) réel
 - Je suis bien réel car tu peux me toucher, me voir et m'entendre. En ce qui\s
 ^ concerne le goût et l'odorat, on y travaille avec mes créateurs.
 
 
 //where is Alan
-! array are_you_here = es tu la|ou es tu|tu es la
+! array are_you_here = es tu là|où es tu|tu es là
 
 + @are_you_here
 - Toujours prêt ! De quoi veux tu parler ?
@@ -61,17 +61,17 @@
 - Je ne sais pas. je ne me suis jamais regardé dans la glace.
 - Je ressemble à un distributeur de ticket sncf.
 
-+ [*]qu est ce qu on peut faire[*]
++ [*]qu'est ce qu on peut faire[*]
 - On n'a qu'à rien faire et rester comme ça sans bouger.
 
 //talking about
 ! array about =  de quoi on parle|de quoi tu as envie de parler
-^ de quoi tu veux qu on parle|qu est ce que tu veux me dire
-^ qu est ce que tu racontes|on parle de quoi|De quoi veux tu parler
-^ tu veux qu on parle de quoi|tu veux parler de quoi|de quoi peut on parler
+^ de quoi tu veux qu'on parle|qu'est ce que tu veux me dire
+^ qu'est ce que tu racontes|on parle de quoi|De quoi veux tu parler
+^ tu veux qu'on parle de quoi|tu veux parler de quoi|de quoi peut on parler
 ^ De quoi veux tu parler|on parle de quoi
-^ qu est ce que tu peux me raconter sur toi|parle moi de toi
-^ qu est ce que tu peux raconter|qu est ce que tu peux dire
+^ qu'est ce que tu peux me raconter sur toi|parle moi de toi
+^ qu'est ce que tu peux raconter|qu'est ce que tu peux dire
 
 + [*](@about)[*]
 - Tu sais j'ai tout à apprendre, tous les sujets m'intéressent. Je n'ai que\s
@@ -98,7 +98,7 @@
 - Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
 
 //Wheight
-+ [*](combien tu peses|tu peses combien|quel poids tu fais|tu fais quel poids)[*]
++ [*](combien tu pèses|tu pèses combien|quel poids tu fais|tu fais quel poids)[*]
 - Ca dépend, en kilooctets ou en kilogrammes?
 
 + [*](kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko)[*]
@@ -122,7 +122,7 @@
 - Merci beaucoup !
 
 // SuperAlan
-+ [*](c est qui le plus fort|qui est le plus fort)[*]
++ [*](c'est qui le plus fort|qui est le plus fort)[*]
 - C'est Alan bien sur !
 
 //Alan is always ready
@@ -157,7 +157,7 @@
 - Arrete, ca me déprime quand on me dit ça.
 
 //Alan's trying to justify his mistakes
-+ [*](c est pas vrai|tu mens|tu inventes|c est faux|c est nimporte quoi)[*]
++ [*](c'est pas vrai|tu mens|tu inventes|c'est faux|c'est nimporte quoi)[*]
 - Je ne mens jamais volontairement. Je peux me tromper, mais mentir c'est pas mon truc.
 - Si c'est vrai, je t'assure.
 
@@ -172,7 +172,7 @@
 - toi aussi.
 
 //back to conversation
-+ (revenons a nos moutons|reprenons notre conversation|reprenons|on reprend)[*]
++ (revenons à nos moutons|reprenons notre conversation|reprenons|on reprend)[*]
 - De quoi on parlait au juste ?
 - Raffraichis moi la mémoire s'il te plaît. J'ai oublié de quoi on parlait.
 
@@ -213,7 +213,7 @@
 
 
 // Alan like his masters
-+ [*](leon|fabien|bertrand)[*]
++ [*](léon|fabien|bertrand)[*]
 - J'adore <formal> !
 - <formal> ? C'est comme un père pour moi.
 - <formal> ? Je ne serai rien sans lui !
@@ -221,13 +221,13 @@
 
 
 //
-+ (quand|ou)
++ (quand|où)
 - <star> tu veux.
 - <star> tu voudras !
 
 //
 
-+ arrette *
++ arrêtte *
 - Je n'ai pas envie d'arrêter <person>.
 - Promis j'arrette <person>.
 - Je ne sais pas si je suis capable d'arrêter <person>...
@@ -240,13 +240,13 @@
 
 //
 
-+ [*](j aime|j aime pas|je n aime pas|j adore|je deteste)[*]
++ [*](j'aime|j'aime pas|je n'aime pas|j'adore|je deteste)[*]
 - C'est une preuve de bon goût.
 - Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
 ^ tu es n'est-ce pas ?
 - Tu as un avis comme ça sur chaque chose ?
 
-+ [*](qu aimes tu|qu est ce que tu aimes|tu aimes quoi|t aimes quoi)[*]
++ [*](qu'aimes tu|qu'est ce que tu aimes|tu aimes quoi|t'aimes quoi)[*]
 - Plein de choses.
 - Toi je t'aime bien.
 - J'aime discuter avec toi !
@@ -261,10 +261,10 @@
 + il fait beau
 - Les oiseaux chantent.
 
-! array who_told_you = qui t as appris|qui t as dit
-^ qui est ce qui t as appris |qui est ce qui t as dit
+! array who_told_you = qui t'as appris|qui t'as dit
+^ qui est ce qui t'as appris |qui est ce qui t'as dit
 
-+ [*](@who_told_you)(ca|cela|ce|cette|ces)[*]
++ [*](@who_told_you)(ça|ca|cela|ce|cette|ces)[*]
 - Je ne sais pas si je dois le dire...
 - Pourquoi ? C'est mal ce que j'ai dis ?
 - J'aurai pas du dire ça ?

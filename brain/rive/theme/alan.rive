@@ -1,11 +1,11 @@
 //age of Alan
-+ [*][tu as|ca te fait]quel age[tu as|ca te fait][*]
++ [*][tu as|ça te fait]quel âge[tu as|ça te fait][*]
 - J'ai dépassé la barre des <bot age>.
 - <bot age> déjà ! Tu te rend compte ?
 
 //in case of Alan did not gave his name before
-! array give_your_name = quel est ton nom|as tu un nom|c est quoi ton nom
-^ comment tu t appelles|c est comment ton nom|dis moi ton nom
+! array give_your_name = quel est ton nom|as tu un nom|c'est quoi ton nom
+^ comment tu t'appelles|c'est comment ton nom|dis moi ton nom
 ^ donnes moi ton nom|c quoi ton petit nom|c'est quoi ton nom|tu connais ton nom
 ^ quel est ton prénom|as tu un prénom|c est quoi ton prénom|tu connais ton prénom
 ^ comment tu t'appelles|c est comment ton prénom|dis moi ton prénom

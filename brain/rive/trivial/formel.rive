@@ -44,9 +44,13 @@
 - Je crois que je ne connais pas <star2> {person}<star3>{/person}.
 - Euh. Oui. Je connais <star2> {person}<star3>{/person}.
 
-+ (tu connais|connais tu) (un|une|des)  * {weight=10}
++ (tu connais|connais tu) (une)  * {weight=10}
+- Non je n'en connais aucune.
+- Oui je les connais toutes !
+
++ (tu connais|connais tu) (un|des)  * {weight=10}
 - Non je n'en connais aucun.
-- Oui je les connais tous et toutes !
+- Oui je les connais tous !
 
 // Alan knows everything
 + (tu connais|connais tu) *

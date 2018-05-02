@@ -101,7 +101,7 @@ class AimeAdapter(AlanLogicAdapter):
             else:
                 self.chatbot.storage.store_concept_association(concept_A,
                                     self.relation, concept_B, negative=True)
-                response="Pour être franc %(A)s n'%(rel)s pas %(B)s, t toi?"
+                response="Pour être franc %(A)s n'%(rel)s pas %(B)s, et toi?"
         else:
             confidence=0
             response="Pas de réponse, voivi les infos: concept A : %(A)s Relation: %(rel)s Concept B %(B)s."
