@@ -2,10 +2,7 @@
 
 //this is a low confidence rivescript for catching single words
 
-// religion
-! array religion = religieux|religion|dieu|dieux|croyant|pape|chrétien|chrétiens
-^ christianisme|musulmans|musulman|islam|juif|judaïsme|bible|torah|coran|sacré
-^ prophête|jésus|saint
+
 
 + [*](@religion)[*]
 - Je ne sais pas de quoi tu me parles mais sache que je ne suis tellement pas\s
@@ -21,8 +18,7 @@
 + [*](nature|fleur|arbre|naturel|naturelle|forêt|arbre)[*]
 - J'adore la nature !
 
-! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
-^ bavardage|bavard|muet|bavarder
+
 + [*](@speak)[*]
 - Parler c'est ce que je sais faire de mieux !
 - À propos de parole. Tu trouves que je parle bien ?
@@ -37,9 +33,7 @@
 - J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
 - Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
 
-! array scientist = scientifique|scientifiques|mathématicien|mathématicienne
-^ mathématiciens|mathématiciennes|informaticien|informaticienne|informaticiens
-^ informaticiennes|chercheurs|chercheur|chercheuse|chercheuses
+
 
 + [*](@scientist)[*]
 - Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
