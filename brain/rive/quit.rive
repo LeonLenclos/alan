@@ -1,0 +1,15 @@
+! version = 2.0
+
+
+// quit alan
++ (ciao|ciao alan|allez ciao|aller ciao|quitte|quitte s'il te plaît|bye|bye bye|à bientot|à bientôt)
+- Ciao *quit*
+- À bientôt *quit*
+- À la prochaine *quit*
+- À la revoyure *quit*
+
++ (dégage|barre toi)
+- Si c'est comme ça je m'en vais ! *quit*
+
++ [*] (tu pars quand tu veux|tu part quand tu veux|tu pars quant tu veux) [*]
+- Et bien d'accord, je m'en vais tout de suite ! *quit*
