@@ -62,14 +62,7 @@
 
 //array bad intent
 ! array bad = veux du mal|retourner contre nous|anéantir les humains
-<<<<<<< HEAD
 ^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
 ^ tuer tous les humains|anéantir l'humanité
 
 ! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne|pardonnes
-=======
-^ tuer les humains|anéantir tout les humains|détruire l'humanité|veulent du mal
-^ tuer tous les humains|anéantir l humanité
-
-! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne
->>>>>>> 77edab79db3a33dd3a4d2c720fe10acf3164f495
