@@ -64,9 +64,10 @@
 ^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
 ^ tuer tous les humains|anéantir l'humanité
 
+//array excuses
 ! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne|pardonnes
 
-
+//array music instrument
 ! array instrument_m = accordeon|alto|balafon
 ^ bandonéon|banjo|basse|guitare basse|baryton|basson|bendir
 ^ dulcimer|bouzouki|bratsch|bugle|cajon
@@ -184,6 +185,20 @@
 //array media except internet
 ! array media = télévision radio tv télé
 
-
+//array langues étrangères
 ! array lang = langue|langues|language|francais|anglais|espagnole|english
 ^ italien|japonais|chinois|russe|coreen|polonais|turc|arabe|espanol
+
+//array about religion
+! array religion = religieux|religion|dieu|dieux|croyant|pape|chrétien|chrétiens
+^ christianisme|musulmans|musulman|islam|juif|judaïsme|bible|torah|coran|sacré
+^ prophête|jésus|saint
+
+//array about speaking
+! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
+^ bavardage|bavard|muet|bavarder
+
+//array about science
+! array scientist = scientifique|scientifiques|mathématicien|mathématicienne
+^ mathématiciens|mathématiciennes|informaticien|informaticienne|informaticiens
+^ informaticiennes|chercheurs|chercheur|chercheuse|chercheuses
