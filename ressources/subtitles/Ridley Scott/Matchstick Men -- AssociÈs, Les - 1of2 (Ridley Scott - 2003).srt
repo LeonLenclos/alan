@@ -1,18 +1,18 @@
 1
 00:01:01,700 --> 00:01:07,800
-LES ASSOCIÉS
+LES ASSOCIï¿½S
 
 2
 00:03:25,200 --> 00:03:28,100
-Félicitations !
+Fï¿½licitations !
 
 3
 00:03:28,200 --> 00:03:31,700
-Vous avez gagné un de nos trois prix !
+Vous avez gagnï¿½ un de nos trois prix !
 
 4
 00:03:31,800 --> 00:03:34,900
-- Vous avez déjà gagné un grand prix ?
+- Vous avez dï¿½jï¿½ gagnï¿½ un grand prix ?
 - Jamais !
 
 5
@@ -26,7 +26,7 @@ Eh bien c'est fait.
 
 7
 00:03:39,400 --> 00:03:41,300
-Vrai ? J'ai gagné quoi ?
+Vrai ? J'ai gagnï¿½ quoi ?
 
 8
 00:03:41,500 --> 00:03:43,400
@@ -35,20 +35,20 @@ Au choix: Chevrolet Blazer...
 9
 00:03:43,500 --> 00:03:48,100
 - Vous filtrez l'eau chez vous ?
-- Un genre d'épurateur ? Non, je crois pas.
+- Un genre d'ï¿½purateur ? Non, je crois pas.
 
 10
 00:03:48,200 --> 00:03:51,700
-- Vous regardez la télé ?
-- Ça m'arrive.
+- Vous regardez la tï¿½lï¿½ ?
+- ï¿½a m'arrive.
 
 11
 00:03:51,900 --> 00:03:54,700
-Alors vous avez dû voir nos pubs.
+Alors vous avez dï¿½ voir nos pubs.
 
 12
 00:03:54,900 --> 00:03:57,800
-Irène, l'Etat prélève une taxe
+Irï¿½ne, l'Etat prï¿½lï¿½ve une taxe
 sur votre prix...
 
 13
@@ -59,7 +59,7 @@ le filtre Waterson 2000...
 14
 00:04:02,000 --> 00:04:06,000
 le prix passe en faux frais
-et ce n'est pas taxé.
+et ce n'est pas taxï¿½.
 
 15
 00:04:06,200 --> 00:04:07,500
@@ -67,7 +67,7 @@ Bonne affaire.
 
 16
 00:04:07,700 --> 00:04:09,800
-Et je gagne le voyage à Paris ?
+Et je gagne le voyage ï¿½ Paris ?
 
 17
 00:04:10,000 --> 00:04:13,500
@@ -76,7 +76,7 @@ Un de nos trois prix, garanti.
 18
 00:04:13,600 --> 00:04:17,900
 Un coursier va venir chez vous,
-vous lui donnerez un chèque.
+vous lui donnerez un chï¿½que.
 
 19
 00:04:18,100 --> 00:04:22,400
@@ -95,11 +95,11 @@ Vous comprenez ?
 22
 00:04:27,300 --> 00:04:30,700
 - C'est le double en magasin.
-- Je dois en parler à mon mari.
+- Je dois en parler ï¿½ mon mari.
 
 23
 00:04:31,100 --> 00:04:35,600
-Irène, mon chef vient d'arriver,
+Irï¿½ne, mon chef vient d'arriver,
 il aimerait vous parler.
 
 24
@@ -109,20 +109,20 @@ Ne quittez pas.
 25
 00:04:39,600 --> 00:04:42,100
 - Bonjour.
-- D'après qui ?
+- D'aprï¿½s qui ?
 
 26
 00:04:42,300 --> 00:04:44,700
-Irène Fisk veut parler à son mari.
+Irï¿½ne Fisk veut parler ï¿½ son mari.
 
 27
 00:04:44,900 --> 00:04:48,400
 John Goodhew,
-vice-président régional.
+vice-prï¿½sident rï¿½gional.
 
 28
 00:04:48,600 --> 00:04:51,100
-Félicitations !
+Fï¿½licitations !
 Vous choisissez quel prix ?
 
 29
@@ -132,22 +132,22 @@ Vous choisissez quel prix ?
 
 30
 00:04:53,700 --> 00:04:58,900
-- On n'y est jamais allés.
+- On n'y est jamais allï¿½s.
 - Vous avez cinq petits-enfants ?
 
 31
 00:04:59,100 --> 00:05:02,700
-Vous voulez parler à votre mari,
+Vous voulez parler ï¿½ votre mari,
 et je vous comprends.
 
 32
 00:05:02,900 --> 00:05:06,300
-Mais voilà, ma secrétaire accouche
-cet après-midi.
+Mais voilï¿½, ma secrï¿½taire accouche
+cet aprï¿½s-midi.
 
 33
 00:05:06,500 --> 00:05:09,500
-On file tous à la clinique.
+On file tous ï¿½ la clinique.
 
 34
 00:05:09,600 --> 00:05:11,000
@@ -155,24 +155,24 @@ C'est merveilleux.
 
 35
 00:05:11,200 --> 00:05:14,200
-Je vérifie votre adresse
+Je vï¿½rifie votre adresse
 et je la donne au coursier.
 
 36
 00:05:26,300 --> 00:05:28,300
-Des idées pour déjeuner ?
+Des idï¿½es pour dï¿½jeuner ?
 
 37
 00:05:28,900 --> 00:05:31,000
-Calamars épicés ?
+Calamars ï¿½picï¿½s ?
 
 38
 00:05:31,200 --> 00:05:33,200
-Cuisine thaï ?
+Cuisine thaï¿½ ?
 
 39
 00:05:59,500 --> 00:06:00,600
-Pygmées !
+Pygmï¿½es !
 
 40
 00:06:12,000 --> 00:06:13,200
@@ -181,7 +181,7 @@ Carolyn Schaffer ?
 41
 00:06:13,400 --> 00:06:17,600
 Agents Kellaway et Cole,
-Commission fédérale du commerce.
+Commission fï¿½dï¿½rale du commerce.
 
 42
 00:06:17,700 --> 00:06:21,000
@@ -190,16 +190,16 @@ Nous aimerions vous parler.
 43
 00:06:21,200 --> 00:06:23,300
 - Tout va bien ?
-- Nous l'espérons.
+- Nous l'espï¿½rons.
 
 44
 00:06:23,500 --> 00:06:28,200
-Pouvez-vous nous répéter
+Pouvez-vous nous rï¿½pï¿½ter
 ce que vous a dit cet individu ?
 
 45
 00:06:28,300 --> 00:06:31,600
-Il a dit que j'avais gagné un prix.
+Il a dit que j'avais gagnï¿½ un prix.
 
 46
 00:06:31,800 --> 00:06:34,300
@@ -209,7 +209,7 @@ je gagnais...
 47
 00:06:34,400 --> 00:06:37,100
 une Chevrolet,
-ou une rivière de diamants...
+ou une riviï¿½re de diamants...
 
 48
 00:06:37,300 --> 00:06:39,800
@@ -218,7 +218,7 @@ ou en France...
 
 49
 00:06:40,000 --> 00:06:45,400
-et si j'achetais leur filtre,
+et si j'achÃ©tais leur filtre,
 je ne payais pas de taxe.
 
 50
@@ -231,24 +231,24 @@ Je regrette, il n'y a aucun prix.
 
 52
 00:06:53,200 --> 00:06:56,700
-Vous êtes victime d'un escroc.
+Vous ï¿½tes victime d'un escroc.
 
 53
 00:06:56,900 --> 00:06:58,100
-Otis, ça suffit.
+Otis, ï¿½a suffit.
 
 54
 00:06:58,300 --> 00:07:00,800
-C'est usé mais neuf pour certains.
+C'est usï¿½ mais neuf pour certains.
 
 55
 00:07:00,900 --> 00:07:04,800
-On vous appâte
+On vous appï¿½te
 et on vous vend de la camelote.
 
 56
 00:07:04,900 --> 00:07:07,700
-Vous avez payé combien ?
+Vous avez payï¿½ combien ?
 
 57
 00:07:09,100 --> 00:07:11,700
@@ -256,8 +256,8 @@ Vous avez payé combien ?
 
 58
 00:07:11,900 --> 00:07:14,700
-- Ça vaut combien ?
-- Au détail, 50.
+- ï¿½a vaut combien ?
+- Au dï¿½tail, 50.
 
 59
 00:07:16,400 --> 00:07:19,000
@@ -269,15 +269,15 @@ Vraiment ?
 
 61
 00:07:20,500 --> 00:07:22,400
-Vous avez fait un chèque ?
+Vous avez fait un chï¿½que ?
 
 62
 00:07:22,600 --> 00:07:24,400
-Vous l'avez posté ?
+Vous l'avez postï¿½ ?
 
 63
 00:07:26,100 --> 00:07:28,100
-Un coursier est passé.
+Un coursier est passï¿½.
 
 64
 00:07:31,800 --> 00:07:36,000
@@ -298,13 +298,13 @@ Ces branleurs...
 
 68
 00:07:45,700 --> 00:07:49,700
-ont des réseaux. Si le chèque
-sort de l'Etat, délit fédéral, on agit...
+ont des rï¿½seaux. Si le chï¿½que
+sort de l'Etat, dï¿½lit fï¿½dï¿½ral, on agit...
 
 69
 00:07:49,900 --> 00:07:52,400
 si on a une procuration
-pour pister le chèque.
+pour pister le chï¿½que.
 
 70
 00:07:52,600 --> 00:07:55,800
@@ -313,7 +313,7 @@ Je signe si on peut choper ces salauds.
 71
 00:07:56,000 --> 00:07:59,000
 - Il te reste des L-47 ?
-- Peut-être dans la voiture.
+- Peut-ï¿½tre dans la voiture.
 
 72
 00:08:01,700 --> 00:08:03,300
@@ -333,7 +333,7 @@ Il nous faut le nom de la banque...
 
 76
 00:08:24,200 --> 00:08:26,100
-votre numéro de compte...
+votre numï¿½ro de compte...
 
 77
 00:08:26,700 --> 00:08:29,600
@@ -345,11 +345,11 @@ Si ce sont des amateurs...
 
 79
 00:08:35,600 --> 00:08:38,900
-Signez là et datez.
+Signez lï¿½ et datez.
 
 80
 00:08:43,500 --> 00:08:45,000
-- Ça va ?
+- ï¿½a va ?
 - Il va bien.
 
 81
@@ -363,23 +363,23 @@ T'as pas pris tes cachets ?
 
 83
 00:09:04,200 --> 00:09:09,100
-- La porte ouverte, c'était l'enfer !
+- La porte ouverte, c'ï¿½tait l'enfer !
 - C'est qu'une porte Roy.
 
 84
 00:09:10,800 --> 00:09:14,800
-C'est pas la fortune mais ça paiera le PQ.
+C'est pas la fortune mais ï¿½a paiera le PQ.
 Tout juste.
 
 85
 00:09:15,000 --> 00:09:18,200
-Un coup d'œil aux rideaux,
-j'aurais dû comprendre.
+Un coup d'ï¿½il aux rideaux,
+j'aurais dï¿½ comprendre.
 
 86
 00:09:19,300 --> 00:09:22,700
 J'ai revu le mec.
-Chuck, dont je t'ai parlé...
+Chuck, dont je t'ai parlï¿½...
 
 87
 00:09:22,900 --> 00:09:25,200
@@ -387,12 +387,12 @@ Avec le bateau ?
 
 88
 00:09:25,400 --> 00:09:27,800
-Frechette. Il pèse.
+Frechette. Il pï¿½se.
 
 89
 00:09:28,000 --> 00:09:30,500
 - Bon Dieu Roy...
-- Dis pas ça.
+- Dis pas ï¿½a.
 
 90
 00:09:30,800 --> 00:09:32,900
@@ -408,12 +408,12 @@ C'est de la vraie thune.
 
 93
 00:09:40,900 --> 00:09:43,200
-Vraie thune égale grosse arnaque.
-Je fais pas ça.
+Vraie thune ï¿½gale grosse arnaque.
+Je fais pas ï¿½a.
 
 94
 00:09:43,400 --> 00:09:45,000
-Pas récemment.
+Pas rï¿½cemment.
 
 95
 00:09:45,200 --> 00:09:46,900
@@ -422,11 +422,11 @@ Sans moi Frank.
 96
 00:09:49,500 --> 00:09:53,200
 J'aimerais pouvoir frimer
-avec une fille à l'occasion.
+avec une fille ï¿½ l'occasion.
 
 97
 00:09:53,400 --> 00:09:55,400
-T'as besoin de payer pour ça ?
+T'as besoin de payer pour ï¿½a ?
 
 98
 00:10:10,600 --> 00:10:13,100
@@ -442,7 +442,7 @@ Et 10 qui font 50.
 
 101
 00:11:49,600 --> 00:11:51,200
-Pygmées !
+Pygmï¿½es !
 
 102
 00:12:05,600 --> 00:12:08,100
@@ -450,7 +450,7 @@ Roy Waller pour le Dr Mancuso.
 
 103
 00:12:08,300 --> 00:12:11,200
-Il a déménagé.
+Il a dï¿½mï¿½nagï¿½.
 Il ne vit plus ici.
 
 104
@@ -459,8 +459,8 @@ Il s'est fait la malle.
 
 105
 00:12:13,600 --> 00:12:16,500
-- Vous me charriez ! Il est où ?
-- Retourné dans l'Est.
+- Vous me charriez ! Il est oï¿½ ?
+- Retournï¿½ dans l'Est.
 
 106
 00:12:16,600 --> 00:12:19,000
@@ -468,7 +468,7 @@ Sans payer le loyer.
 
 107
 00:12:19,200 --> 00:12:22,700
-Il y a un numéro...
+Il y a un numï¿½ro...
 
 108
 00:12:24,000 --> 00:12:27,100
@@ -480,7 +480,7 @@ C'est Frank.
 
 110
 00:12:52,400 --> 00:12:55,200
-Décroche.
+Dï¿½croche.
 Je sais, c'est dur, mais fais-le.
 
 111
@@ -494,7 +494,7 @@ Ton cuir m'a plu.
 
 113
 00:13:09,100 --> 00:13:14,000
-Allez, décroche, décroche.
+Allez, dï¿½croche, dï¿½croche.
 
 114
 00:13:18,100 --> 00:13:22,100
@@ -503,7 +503,7 @@ seul dans ce petit bureau.
 
 115
 00:13:25,600 --> 00:13:30,200
-Je veux pas te déranger
+Je veux pas te dï¿½ranger
 mais je suis en train de mourir.
 
 116
@@ -516,12 +516,12 @@ Je sens plus mes pouces.
 
 118
 00:13:44,900 --> 00:13:46,700
-Réponds mec.
+Rï¿½ponds mec.
 
 119
 00:13:46,900 --> 00:13:51,200
-J'ai regardé le câble toute la nuit,
-ça cause qu'espagnol.
+J'ai regardï¿½ le cï¿½ble toute la nuit,
+ï¿½a cause qu'espagnol.
 
 120
 00:13:51,400 --> 00:13:53,500
@@ -529,12 +529,12 @@ Qu'est-ce qui se passe ?
 
 121
 00:13:54,100 --> 00:13:58,700
-Sérieusement, je veux te parler,
+Sï¿½rieusement, je veux te parler,
 je crois que j'ai de l'urticaire.
 
 122
 00:13:58,900 --> 00:14:02,200
-Arrête ça mec. Tu me tues.
+Arrï¿½te ï¿½a mec. Tu me tues.
 
 123
 00:14:02,400 --> 00:14:04,900
@@ -543,7 +543,7 @@ Je me sens comme une nana.
 
 124
 00:14:06,300 --> 00:14:08,400
-Bon, ça suffit. J'arrive.
+Bon, ï¿½a suffit. J'arrive.
 
 125
 00:14:20,800 --> 00:14:22,200
@@ -551,7 +551,7 @@ Je t'ai vu !
 
 126
 00:14:22,400 --> 00:14:24,500
-Je sais que tu es là.
+Je sais que tu es lï¿½.
 
 127
 00:14:28,900 --> 00:14:30,200
@@ -568,26 +568,26 @@ T'as pas pris tes cachets.
 
 130
 00:14:36,000 --> 00:14:38,000
-Je les enlève !
+Je les enlï¿½ve !
 
 131
 00:14:38,100 --> 00:14:41,100
-J'enlève les chaussures.
+J'enlï¿½ve les chaussures.
 Sois sympa.
 
 132
 00:14:42,600 --> 00:14:45,400
-Qu'est-ce que ça sent ?
+Qu'est-ce que ï¿½a sent ?
 
 133
 00:14:45,600 --> 00:14:49,700
-T'as été attaqué par M.Propre ?
-Faut ouvrir une fenêtre.
+T'as ï¿½tï¿½ attaquï¿½ par M.Propre ?
+Faut ouvrir une fenï¿½tre.
 
 134
 00:14:49,800 --> 00:14:52,700
-- Pas de fenêtre.
-- Les fenêtres c'est fermé.
+- Pas de fenï¿½tre.
+- Les fenï¿½tres c'est fermï¿½.
 
 135
 00:14:54,500 --> 00:14:56,500
@@ -595,7 +595,7 @@ Tu cherches quoi ?
 
 136
 00:14:56,700 --> 00:14:58,700
-Mon associé.
+Mon associï¿½.
 
 137
 00:14:58,900 --> 00:15:01,500
@@ -609,11 +609,11 @@ La moquette !
 139
 00:15:05,000 --> 00:15:08,400
 - Tes chaussures !
-- Je les enlève !
+- Je les enlï¿½ve !
 
 140
 00:15:08,600 --> 00:15:10,800
-Ça y est !
+ï¿½a y est !
 
 141
 00:15:14,600 --> 00:15:17,900
@@ -622,12 +622,12 @@ Tes cachets ?
 
 142
 00:15:18,000 --> 00:15:21,500
-Versés dans l'évier...
+Versï¿½s dans l'ï¿½vier...
 un accident.
 
 143
 00:15:21,800 --> 00:15:24,400
-- Tu as appelé Mancuso ?
+- Tu as appelï¿½ Mancuso ?
 - Parti.
 
 144
@@ -641,7 +641,7 @@ Vas-y, respire.
 
 146
 00:15:43,800 --> 00:15:46,300
-Chaussures, voilà.
+Chaussures, voilï¿½.
 
 147
 00:15:46,400 --> 00:15:48,100
@@ -654,30 +654,30 @@ Partie. Je jette la bouffe.
 149
 00:15:54,200 --> 00:15:56,800
 Ecoute-moi.
-Tu m'écoutes ?
+Tu m'ï¿½coutes ?
 
 150
 00:15:57,000 --> 00:16:01,200
-Je vais téléphoner. Ma tante a vu un psy
-après son divorce.
+Je vais tï¿½lï¿½phoner. Ma tante a vu un psy
+aprï¿½s son divorce.
 
 151
 00:16:01,400 --> 00:16:04,100
-Il l'a aidée. C'est un bon.
+Il l'a aidï¿½e. C'est un bon.
 
 152
 00:16:04,300 --> 00:16:07,500
 Tu as besoin de voir quelqu'un.
-Je pense pas qu'à toi.
+Je pense pas qu'ï¿½ toi.
 
 153
 00:16:07,700 --> 00:16:10,600
-Tu as du blé pour partir.
+Tu as du blï¿½ pour partir.
 Moi j'ai des traites.
 
 154
 00:16:10,800 --> 00:16:13,000
-Je veux pas d'un associé qui...
+Je veux pas d'un associï¿½ qui...
 
 155
 00:16:13,400 --> 00:16:15,800
@@ -689,15 +689,15 @@ Tu essuieras quand tu auras fini.
 
 157
 00:16:18,200 --> 00:16:19,500
-Le téléphone.
+Le tï¿½lï¿½phone.
 
 158
 00:16:21,600 --> 00:16:24,800
-Comment ça ? Ça te convient ?
+Comment ï¿½a ? ï¿½a te convient ?
 
 159
 00:16:25,000 --> 00:16:26,400
-Et comme ça ?
+Et comme ï¿½a ?
 
 160
 00:16:26,600 --> 00:16:28,900
@@ -705,7 +705,7 @@ Excuse-moi.
 
 161
 00:17:05,600 --> 00:17:09,000
-Ça ne vous dérange pas ?
+ï¿½a ne vous dï¿½range pas ?
 C'est bon pour mon dos.
 
 162
@@ -714,11 +714,11 @@ Allez-y.
 
 163
 00:17:14,000 --> 00:17:16,400
-Vous êtes une page blanche Roy.
+Vous ï¿½tes une page blanche Roy.
 
 164
 00:17:16,500 --> 00:17:19,400
-Vous preniez des médicaments
+Vous preniez des mï¿½dicaments
 sans savoir quoi.
 
 165
@@ -727,17 +727,17 @@ Des petits cachets roses.
 
 166
 00:17:23,500 --> 00:17:26,800
-Il y avait marqué "CRC" dessus.
+Il y avait marquï¿½ "CRC" dessus.
 
 167
 00:17:26,900 --> 00:17:30,200
 - Obtenus sans ordonnance ?
-- Oui, sans ordonnance. Et après ?
+- Oui, sans ordonnance. Et aprï¿½s ?
 
 168
 00:17:30,400 --> 00:17:33,300
 - Pourquoi ?
-- Pour éviter les psys comme vous.
+- Pour ï¿½viter les psys comme vous.
 
 169
 00:17:33,500 --> 00:17:35,600
@@ -746,16 +746,16 @@ Il y avait marqué "CRC" dessus.
 
 170
 00:17:35,700 --> 00:17:39,000
-et à ces doses,
-vous êtes heureux de tenir assis.
+et ï¿½ ces doses,
+vous ï¿½tes heureux de tenir assis.
 
 171
 00:17:39,200 --> 00:17:41,700
-Génial. Vous pouvez m'en fournir ?
+Gï¿½nial. Vous pouvez m'en fournir ?
 
 172
 00:17:44,000 --> 00:17:45,300
-Vous êtes direct.
+Vous ï¿½tes direct.
 
 173
 00:17:45,500 --> 00:17:48,600
@@ -774,8 +774,8 @@ sans un petit entretien.
 
 176
 00:17:56,100 --> 00:17:59,600
-Si vous êtes contre,
-la séance sera brève.
+Si vous ï¿½tes contre,
+la sï¿½ance sera brï¿½ve.
 
 177
 00:18:25,300 --> 00:18:28,200
@@ -783,8 +783,8 @@ Vous me dites ce qui ne va pas ?
 
 178
 00:18:29,200 --> 00:18:33,500
-Je n'aime pas être dehors,
-on appelle ça agoraphobie, non ?
+Je n'aime pas ï¿½tre dehors,
+on appelle ï¿½a agoraphobie, non ?
 
 179
 00:18:33,600 --> 00:18:37,000
@@ -794,7 +794,7 @@ Mais oui.
 180
 00:18:37,200 --> 00:18:41,400
 - Autre chose ?
-- La saleté, surtout aux moulures.
+- La saletï¿½, surtout aux moulures.
 
 181
 00:18:41,600 --> 00:18:44,100
@@ -803,8 +803,8 @@ les chaussures sur ma moquette.
 
 182
 00:18:44,300 --> 00:18:47,800
-Bien sûr j'ai beaucoup de tics.
-C'est très pénible.
+Bien sï¿½r j'ai beaucoup de tics.
+C'est trï¿½s pï¿½nible.
 
 183
 00:18:48,200 --> 00:18:51,300
@@ -813,7 +813,7 @@ me rendent malade.
 
 184
 00:18:51,500 --> 00:18:54,800
-Ça a affecté votre travail ?
+ï¿½a a affectï¿½ votre travail ?
 
 185
 00:18:55,400 --> 00:18:57,100
@@ -825,7 +825,7 @@ Quels rapports personnels ?
 
 187
 00:19:01,700 --> 00:19:05,600
-- Vous en avez eu récemment ?
+- Vous en avez eu rï¿½cemment ?
 - Avec une femme ?
 
 188
@@ -848,7 +848,7 @@ Heather.
 
 192
 00:19:20,300 --> 00:19:22,100
-Vous étiez mariés ?
+Vous ï¿½tiez mariï¿½s ?
 
 193
 00:19:22,700 --> 00:19:23,900
@@ -856,7 +856,7 @@ Des enfants ?
 
 194
 00:19:24,700 --> 00:19:25,700
-Peut-être.
+Peut-ï¿½tre.
 
 195
 00:19:26,400 --> 00:19:28,400
@@ -864,7 +864,7 @@ Vous ne l'avez pas revue ?
 
 196
 00:19:28,900 --> 00:19:32,700
-Elle m'a quitté avec un coquard de moi
+Elle m'a quittï¿½ avec un coquard de moi
 et enceinte...
 
 197
@@ -873,8 +873,8 @@ de Dieu sait qui. Alors non.
 
 198
 00:19:37,800 --> 00:19:41,600
-J'ai passé ce mardi
-à regarder les poils de ma moquette.
+J'ai passï¿½ ce mardi
+ï¿½ regarder les poils de ma moquette.
 
 199
 00:19:41,700 --> 00:19:45,900
@@ -884,7 +884,7 @@ j'avais peur de vomir.
 200
 00:19:46,000 --> 00:19:50,100
 Je me disais "Je suis adulte.
-Je contrôle ma tête."
+Je contrï¿½le ma tï¿½te."
 
 201
 00:19:50,200 --> 00:19:51,800
@@ -892,7 +892,7 @@ Plus j'y pensais...
 
 202
 00:19:52,000 --> 00:19:55,500
-plus je voyais que j'aurais dû
+plus je voyais que j'aurais dï¿½
 me flinguer, en finir une bonne fois.
 
 203
@@ -901,12 +901,12 @@ Mais si je me flinguais...
 
 204
 00:19:58,600 --> 00:20:02,500
-je pensais aux dégâts
+je pensais aux dï¿½gï¿½ts
 sur ma moquette.
 
 205
 00:20:03,700 --> 00:20:05,200
-Ça c'était un bon jour !
+ï¿½a c'ï¿½tait un bon jour !
 
 206
 00:20:05,300 --> 00:20:10,100
@@ -915,7 +915,7 @@ et laissez-moi vivre ma vie.
 
 207
 00:20:23,500 --> 00:20:25,600
-Il te les a donnés comme ça ?
+Il te les a donnï¿½s comme ï¿½a ?
 
 208
 00:20:25,800 --> 00:20:28,900
@@ -924,7 +924,7 @@ Prefex quelque chose.
 
 209
 00:20:29,100 --> 00:20:31,100
-- Ça va mieux ?
+- ï¿½a va mieux ?
 - Un peu.
 
 210
@@ -933,7 +933,7 @@ Tu veux travailler ?
 
 211
 00:20:35,200 --> 00:20:36,900
-Tu pourrais contrôler...
+Tu pourrais contrï¿½ler...
 
 212
 00:20:37,900 --> 00:20:39,400
@@ -951,7 +951,7 @@ Rien.
 
 215
 00:21:02,000 --> 00:21:03,300
-Vous pouvez l'épeler ?
+Vous pouvez l'ï¿½peler ?
 
 216
 00:21:40,700 --> 00:21:43,700
@@ -960,7 +960,7 @@ On se bagarrait beaucoup.
 217
 00:21:43,900 --> 00:21:47,500
 - A propos de quoi ?
-- De tout. J'étais rarement sobre.
+- De tout. J'ï¿½tais rarement sobre.
 
 218
 00:21:47,900 --> 00:21:49,000
@@ -973,21 +973,21 @@ elle ne rentrait pas.
 
 220
 00:21:52,500 --> 00:21:56,800
-Elle était enceinte depuis deux mois
+Elle ï¿½tait enceinte depuis deux mois
 quand elle me l'a dit.
 
 221
 00:21:58,400 --> 00:22:00,600
-Vous pensez beaucoup à elle ?
+Vous pensez beaucoup ï¿½ elle ?
 
 222
 00:22:00,800 --> 00:22:04,100
-A ce qui aurait pu être ?
+A ce qui aurait pu ï¿½tre ?
 
 223
 00:22:05,800 --> 00:22:08,700
-- Et au bébé ?
-- S'il y a un bébé.
+- Et au bï¿½bï¿½ ?
+- S'il y a un bï¿½bï¿½.
 
 224
 00:22:09,200 --> 00:22:12,200
@@ -1001,7 +1001,7 @@ demande "L'un d'eux est-il Roy junior ?"
 
 226
 00:22:18,200 --> 00:22:22,200
-Il, si c'est "il", aurait quel âge ?
+Il, si c'est "il", aurait quel ï¿½ge ?
 
 227
 00:22:23,400 --> 00:22:26,400
@@ -1021,7 +1021,7 @@ Si c'est tout court.
 
 231
 00:22:43,100 --> 00:22:47,100
-Félicitations.
+Fï¿½licitations.
 Vous en avez assez pour huit jours.
 
 232
@@ -1038,7 +1038,7 @@ On a le droit d'appeler son ex-femme.
 
 235
 00:23:01,600 --> 00:23:04,500
-J'ai essayé hier soir,
+J'ai essayï¿½ hier soir,
 je n'ai rien pu dire.
 
 236
@@ -1065,7 +1065,7 @@ Quand vous pourrez.
 
 241
 00:23:34,100 --> 00:23:35,700
-C'est à vous de voir.
+C'est ï¿½ vous de voir.
 
 242
 00:23:56,100 --> 00:23:58,400
@@ -1073,11 +1073,11 @@ Roy, ici le Dr Klein.
 
 243
 00:24:00,700 --> 00:24:03,900
-Je viens de parler à Heather.
+Je viens de parler ï¿½ Heather.
 
 244
 00:24:04,100 --> 00:24:05,800
-Une très bonne conversation.
+Une trï¿½s bonne conversation.
 
 245
 00:24:06,000 --> 00:24:09,400
@@ -1086,7 +1086,7 @@ Une très bonne conversation.
 
 246
 00:24:09,600 --> 00:24:12,400
-Elle n'a pas pensé à votre thérapie.
+Elle n'a pas pensï¿½ ï¿½ votre thï¿½rapie.
 
 247
 00:24:12,500 --> 00:24:16,300
@@ -1108,7 +1108,7 @@ Angela, votre fille.
 251
 00:24:22,800 --> 00:24:26,500
 Elle est au courant,
-elle a très envie de vous connaître.
+elle a trï¿½s envie de vous connaï¿½tre.
 
 252
 00:26:55,900 --> 00:26:58,600
@@ -1129,20 +1129,20 @@ De prison.
 
 256
 00:27:19,600 --> 00:27:21,100
-Je n'y ai jamais été.
+Je n'y ai jamais ï¿½tï¿½.
 
 257
 00:27:22,700 --> 00:27:24,700
-C'est ta mère qui t'a dit ça ?
+C'est ta mï¿½re qui t'a dit ï¿½a ?
 
 258
 00:27:24,900 --> 00:27:26,800
-Elle a dit que tu étais mort.
+Elle a dit que tu ï¿½tais mort.
 
 259
 00:27:26,900 --> 00:27:29,200
-Puis que c'était
-comme si tu l'étais.
+Puis que c'ï¿½tait
+comme si tu l'ï¿½tais.
 
 260
 00:27:29,400 --> 00:27:31,700
@@ -1151,11 +1151,11 @@ Je suis antiquaire.
 
 261
 00:27:32,200 --> 00:27:34,600
-C'est ce que le médecin a dit.
+C'est ce que le mï¿½decin a dit.
 
 262
 00:27:34,800 --> 00:27:37,800
-Ça a fait rire maman.
+ï¿½a a fait rire maman.
 
 263
 00:27:39,000 --> 00:27:40,300
@@ -1168,11 +1168,11 @@ Tu veux bien manger ?
 265
 00:27:44,200 --> 00:27:47,200
 C'est juste que
-je serais mieux à l'intérieur.
+je serais mieux ï¿½ l'intï¿½rieur.
 
 266
 00:27:47,500 --> 00:27:50,000
-Je suis mal à l'aise dehors.
+Je suis mal ï¿½ l'aise dehors.
 
 267
 00:27:50,100 --> 00:27:51,100
@@ -1180,7 +1180,7 @@ Vraiment ?
 
 268
 00:28:03,700 --> 00:28:06,600
-- Tu me dévisages.
+- Tu me dï¿½visages.
 - Pardon.
 
 269
@@ -1194,7 +1194,7 @@ si j'avais ton nez, tes yeux...
 
 271
 00:28:15,700 --> 00:28:18,700
-D'après maman j'ai du pot,
+D'aprï¿½s maman j'ai du pot,
 j'ai juste tes coudes.
 
 272
@@ -1203,22 +1203,22 @@ Et tu n'avais pas faim !
 
 273
 00:28:20,900 --> 00:28:24,700
-Tant qu'à se mouiller,
+Tant qu'ï¿½ se mouiller,
 autant aller nager.
 
 274
 00:28:29,800 --> 00:28:33,800
-- Alors, tu vas à l'école ?
-- Pas maintenant, c'est l'été.
+- Alors, tu vas ï¿½ l'ï¿½cole ?
+- Pas maintenant, c'est l'ï¿½tï¿½.
 
 275
 00:28:36,100 --> 00:28:40,100
-Ça compte beaucoup l'école.
-Si c'était à refaire, j'étudierais mieux.
+ï¿½a compte beaucoup l'ï¿½cole.
+Si c'ï¿½tait ï¿½ refaire, j'ï¿½tudierais mieux.
 
 276
 00:28:40,300 --> 00:28:41,700
-Tu as arrêté ?
+Tu as arrï¿½tï¿½ ?
 
 277
 00:28:43,900 --> 00:28:45,500
@@ -1239,7 +1239,7 @@ Je suis antiquaire.
 
 281
 00:28:59,400 --> 00:29:02,800
-Si tu en fais carrière,
+Si tu en fais carriï¿½re,
 c'est juste un engrenage.
 
 282
@@ -1253,19 +1253,19 @@ Qu'est-ce que tu as dit ?
 
 284
 00:29:11,100 --> 00:29:12,400
-T'es pas censée dire ça.
+T'es pas censï¿½e dire ï¿½a.
 
 285
 00:29:39,200 --> 00:29:41,800
-J'ai ma façon de ranger.
+J'ai ma faï¿½on de ranger.
 
 286
 00:29:42,300 --> 00:29:44,500
-Attends ! Sa voiture est là !
+Attends ! Sa voiture est lï¿½ !
 
 287
 00:29:44,600 --> 00:29:45,800
-Arrête ici !
+Arrï¿½te ici !
 
 288
 00:29:53,600 --> 00:29:55,900
@@ -1273,12 +1273,12 @@ On pourrait aller au bowling.
 
 289
 00:29:59,000 --> 00:30:00,100
-Ma ligne privée.
+Ma ligne privï¿½e.
 
 290
 00:30:00,300 --> 00:30:05,000
 Offerte par maman parce que
-mon amie Carrie appelait après minuit.
+mon amie Carrie appelait aprï¿½s minuit.
 
 291
 00:30:19,900 --> 00:30:22,800
@@ -1297,7 +1297,7 @@ que de purifier l'eau qu'elle boit ?
 294
 00:30:42,200 --> 00:30:46,700
 Waterson 2000 vous offre
-le meilleur système de filtrage.
+le meilleur systï¿½me de filtrage.
 
 295
 00:30:46,900 --> 00:30:49,000
@@ -1305,7 +1305,7 @@ M.Schlickling, ne quittez pas.
 
 296
 00:30:54,100 --> 00:30:56,700
-Tu as changé de shampoing ?
+Tu as changï¿½ de shampoing ?
 
 297
 00:30:57,400 --> 00:30:58,700
@@ -1322,19 +1322,19 @@ De combien on peut l'arnaquer ?
 300
 00:31:07,100 --> 00:31:09,700
 - Chuck, avec son bateau.
-- Tu es sérieux ?
+- Tu es sï¿½rieux ?
 
 301
 00:31:10,400 --> 00:31:12,300
-Je te dois bien ça.
+Je te dois bien ï¿½a.
 
 302
 00:31:12,500 --> 00:31:14,300
-Génial !
+Gï¿½nial !
 
 303
 00:31:14,400 --> 00:31:18,900
-M.Schmilblick ? Désolé.
+M.Schmilblick ? Dï¿½solï¿½.
 Vous avez trop attendu. Aucun prix.
 
 304
@@ -1343,7 +1343,7 @@ C'est grandiose !
 
 305
 00:31:28,000 --> 00:31:30,100
-- Où tu l'as trouvé ?
+- Oï¿½ tu l'as trouvï¿½ ?
 - Au Spearmint Rhino.
 
 306
@@ -1371,7 +1371,7 @@ On y est.
 
 311
 00:31:44,200 --> 00:31:45,300
-Ça s'épelle ?
+ï¿½a s'ï¿½pelle ?
 
 312
 00:31:47,100 --> 00:31:49,400
@@ -1385,7 +1385,7 @@ Je ne sais pas. Il est de Downey.
 314
 00:31:51,800 --> 00:31:53,700
 Lui et l'organisation,
-ça fait deux.
+ï¿½a fait deux.
 
 315
 00:31:56,000 --> 00:31:57,900
@@ -1393,7 +1393,7 @@ Radin, pas de pourboire.
 
 316
 00:31:58,100 --> 00:32:02,300
-A bref délai,
+A bref dï¿½lai,
 il peut sortir 30000.
 
 317
@@ -1402,12 +1402,12 @@ Plus.
 
 318
 00:32:04,300 --> 00:32:08,100
-On fait le cambut jamaïcain.
-Tu fais le baron, moi l'initié.
+On fait le cambut jamaï¿½cain.
+Tu fais le baron, moi l'initiï¿½.
 
 319
 00:32:08,300 --> 00:32:11,300
-Il connaît
+Il connaï¿½t
 la finance internationale ?
 
 320
@@ -1421,15 +1421,15 @@ Tu chuchotes ?
 
 322
 00:32:26,200 --> 00:32:30,100
-Mon coffre s'il vous plaît.
+Mon coffre s'il vous plaï¿½t.
 
 323
 00:32:36,800 --> 00:32:40,600
-Je voudrais accéder à mon coffre.
+Je voudrais accï¿½der ï¿½ mon coffre.
 
 324
 00:32:40,800 --> 00:32:42,700
-Bien sûr M.Waller.
+Bien sï¿½r M.Waller.
 
 325
 00:32:42,800 --> 00:32:44,700
@@ -1438,7 +1438,7 @@ Signature et code.
 326
 00:32:49,300 --> 00:32:53,200
 - Une cabine ?
-- Pas la peine, ça ira.
+- Pas la peine, ï¿½a ira.
 
 327
 00:33:31,400 --> 00:33:34,400
@@ -1451,12 +1451,12 @@ Pour certains, l'argent...
 
 329
 00:33:42,400 --> 00:33:45,800
-est un film étranger
+est un film ï¿½tranger
 sans sous-titres.
 
 330
 00:33:51,900 --> 00:33:52,900
-Où on se retrouve ?
+Oï¿½ on se retrouve ?
 
 331
 00:33:53,100 --> 00:33:54,600
@@ -1486,7 +1486,7 @@ C'est beau chez toi.
 
 337
 00:34:31,200 --> 00:34:33,300
-Attention à la moquette !
+Attention ï¿½ la moquette !
 
 338
 00:34:41,600 --> 00:34:43,600
@@ -1502,8 +1502,8 @@ Quoi de neuf ?
 
 341
 00:34:47,300 --> 00:34:50,600
-On s'est engueulées avec maman.
-Ça arrive.
+On s'est engueulï¿½es avec maman.
+ï¿½a arrive.
 
 342
 00:34:50,800 --> 00:34:53,800
@@ -1521,11 +1521,11 @@ mais ils sont en vacances.
 345
 00:34:58,000 --> 00:35:01,500
 Comme on s'est bien entendus
-la dernière fois, je pensais...
+la derniï¿½re fois, je pensais...
 
 346
 00:35:01,700 --> 00:35:05,100
-que je pourrais dormir sur ton canapé.
+que je pourrais dormir sur ton canapï¿½.
 
 347
 00:35:05,400 --> 00:35:07,000
@@ -1533,12 +1533,12 @@ Tu veux rester ici ?
 
 348
 00:35:07,200 --> 00:35:10,300
-En échange je ferai le ménage...
+En ï¿½change je ferai le mï¿½nage...
 
 349
 00:35:12,100 --> 00:35:15,800
 Tu mets les lunettes pour lire ?
-Ça te vieillit.
+ï¿½a te vieillit.
 
 350
 00:35:16,600 --> 00:35:18,300
@@ -1547,24 +1547,24 @@ Non, c'est pour...
 351
 00:35:18,400 --> 00:35:21,400
 Je dois y aller !
-Une réunion importante.
+Une rï¿½union importante.
 
 352
 00:35:21,600 --> 00:35:24,800
 - A cette heure ?
-- Les antiquités. Ça n'attend pas.
+- Les antiquitï¿½s. ï¿½a n'attend pas.
 
 353
 00:35:27,200 --> 00:35:30,600
-Ça ira si je te laisse seule ?
+ï¿½a ira si je te laisse seule ?
 
 354
 00:35:30,800 --> 00:35:33,100
-Oui, je regarderai la télé.
+Oui, je regarderai la tï¿½lï¿½.
 
 355
 00:35:34,900 --> 00:35:36,400
-Tu n'as pas la télé ?
+Tu n'as pas la tï¿½lï¿½ ?
 
 356
 00:35:36,600 --> 00:35:38,300
@@ -1572,13 +1572,13 @@ C'est vraiment vrai ?
 
 357
 00:35:38,500 --> 00:35:40,900
-Il y a un canapé.
+Il y a un canapï¿½.
 Pour t'asseoir.
 
 358
 00:35:41,900 --> 00:35:45,600
-Ou là si tu préfères.
-Ou le canapé.
+Ou lï¿½ si tu prï¿½fï¿½res.
+Ou le canapï¿½.
 
 359
 00:35:46,200 --> 00:35:49,700
@@ -1592,7 +1592,7 @@ Une glace ?
 361
 00:35:53,700 --> 00:35:56,800
 New York Super Fudge Chunk.
-Mon parfum préféré.
+Mon parfum prï¿½fï¿½rï¿½.
 
 362
 00:36:00,400 --> 00:36:02,700
@@ -1601,7 +1601,7 @@ Ecoute.
 
 363
 00:36:02,900 --> 00:36:05,600
-N'ouvre la porte à personne.
+N'ouvre la porte ï¿½ personne.
 
 364
 00:37:23,300 --> 00:37:26,100
@@ -1614,11 +1614,11 @@ Il t'a pas vu entrer.
 
 366
 00:37:32,900 --> 00:37:36,300
-Kate ! Une bière !
+Kate ! Une biï¿½re !
 
 367
 00:37:36,600 --> 00:37:39,200
-- Ça le fait ?
+- ï¿½a le fait ?
 - On s'assoit.
 
 368
@@ -1635,7 +1635,7 @@ Bien les pompes.
 
 371
 00:38:12,300 --> 00:38:14,900
-Chuck, je t'avais pas repéré !
+Chuck, je t'avais pas repï¿½rï¿½ !
 
 372
 00:38:15,100 --> 00:38:18,100
@@ -1647,11 +1647,11 @@ Je traite. Tu permets...
 
 374
 00:38:30,600 --> 00:38:33,100
-Je veux pas gêner.
+Je veux pas gï¿½ner.
 
 375
 00:38:33,300 --> 00:38:34,500
-Enchanté.
+Enchantï¿½.
 
 376
 00:38:38,800 --> 00:38:40,800
@@ -1659,7 +1659,7 @@ Une poire sur un plateau.
 
 377
 00:38:45,700 --> 00:38:47,300
-Il a mordu. Tu es prêt ?
+Il a mordu. Tu es prï¿½t ?
 
 378
 00:38:48,100 --> 00:38:50,700
@@ -1672,7 +1672,7 @@ A demain matin Arden.
 
 380
 00:39:08,800 --> 00:39:12,500
-- Grande soirée ?
+- Grande soirï¿½e ?
 - Ce n'est pas pour moi.
 
 381
@@ -1693,20 +1693,20 @@ Pourquoi maman est partie ?
 
 385
 00:40:02,900 --> 00:40:05,500
-C'est à elle qu'il faut demander.
+C'est ï¿½ elle qu'il faut demander.
 
 386
 00:40:05,700 --> 00:40:09,000
-J'ai demandé.
-Elle a refusé d'en parler.
+J'ai demandï¿½.
+Elle a refusï¿½ d'en parler.
 
 387
 00:40:10,700 --> 00:40:12,200
-Elle t'a traité de tout.
+Elle t'a traitï¿½ de tout.
 
 388
 00:40:13,500 --> 00:40:15,600
-C'est pour ça qu'on s'est disputées.
+C'est pour ï¿½a qu'on s'est disputï¿½es.
 
 389
 00:40:17,700 --> 00:40:19,300
@@ -1715,7 +1715,7 @@ Elle dit que tu es un mauvais mec.
 390
 00:40:21,100 --> 00:40:25,200
 - Tu n'en as pas l'air.
-- C'est pour ça que je suis bon.
+- C'est pour ï¿½a que je suis bon.
 
 391
 00:40:29,900 --> 00:40:32,200
@@ -1732,20 +1732,20 @@ Manque de respect !
 
 394
 00:41:26,900 --> 00:41:29,800
-Tu aurais dû voir ça. Je l'ai eu.
+Tu aurais dï¿½ voir ï¿½a. Je l'ai eu.
 
 395
 00:41:30,000 --> 00:41:33,400
-- Tu as une fille là-dedans ?
+- Tu as une fille lï¿½-dedans ?
 - Qu'est-ce que tu fous ?
 
 396
 00:41:33,600 --> 00:41:35,400
-Y a un lézard ?
+Y a un lï¿½zard ?
 
 397
 00:41:35,500 --> 00:41:39,000
-A la seconde où tu es parti, il a bondi.
+A la seconde oï¿½ tu es parti, il a bondi.
 
 398
 00:41:39,200 --> 00:41:41,600
@@ -1753,23 +1753,23 @@ Il a mordu ! Il veut te voir ce soir.
 
 399
 00:41:42,700 --> 00:41:44,400
-Remets à demain.
+Remets ï¿½ demain.
 
 400
 00:41:44,600 --> 00:41:46,600
-L'imagination nourrit la cupidité.
+L'imagination nourrit la cupiditï¿½.
 
 401
 00:41:55,300 --> 00:41:56,600
-Je t'ai fait des œufs.
+Je t'ai fait des ï¿½ufs.
 
 402
 00:42:02,800 --> 00:42:04,700
-C'était qui ce mec ?
+C'ï¿½tait qui ce mec ?
 
 403
 00:42:05,600 --> 00:42:06,600
-Un associé.
+Un associï¿½.
 
 404
 00:42:07,500 --> 00:42:09,100
@@ -1790,12 +1790,12 @@ mais...
 
 408
 00:42:15,800 --> 00:42:19,400
-Mange tes œufs,
-c'est bon pour la santé.
+Mange tes ï¿½ufs,
+c'est bon pour la santï¿½.
 
 409
 00:42:19,600 --> 00:42:21,100
-J'aime pas les œufs.
+J'aime pas les ï¿½ufs.
 
 410
 00:42:21,300 --> 00:42:24,200
@@ -1804,12 +1804,12 @@ Des piles de thon.
 
 411
 00:42:24,600 --> 00:42:26,900
-Et un plateau-télé.
+Et un plateau-tï¿½lï¿½.
 
 412
 00:42:27,100 --> 00:42:30,500
-Ça, ça va. Tu devrais
-acheter la télé pour aller avec.
+ï¿½a, ï¿½a va. Tu devrais
+acheter la tï¿½lï¿½ pour aller avec.
 
 413
 00:42:32,200 --> 00:42:33,300
@@ -1821,8 +1821,8 @@ Salut maman.
 
 415
 00:42:44,400 --> 00:42:47,700
-Et après ?
-C'est mon père.
+Et aprï¿½s ?
+C'est mon pï¿½re.
 
 416
 00:42:48,800 --> 00:42:51,300
@@ -1842,7 +1842,7 @@ D'accord, promis.
 
 420
 00:43:03,500 --> 00:43:04,700
-Elle râle ?
+Elle rï¿½le ?
 
 421
 00:43:05,900 --> 00:43:07,500
@@ -1855,11 +1855,11 @@ Elle voulait appeler la police.
 423
 00:43:17,100 --> 00:43:20,100
 Je dois juste rentrer
-pour les cours d'été.
+pour les cours d'ï¿½tï¿½.
 
 424
 00:43:21,000 --> 00:43:22,100
-Ça commence quand ?
+ï¿½a commence quand ?
 
 425
 00:43:23,000 --> 00:43:24,200
@@ -1871,7 +1871,7 @@ On est jeudi.
 
 427
 00:43:28,700 --> 00:43:30,100
-Ça ne t'ennuie pas ?
+ï¿½a ne t'ennuie pas ?
 
 428
 00:43:40,100 --> 00:43:41,400
@@ -1892,7 +1892,7 @@ Redressez-vous.
 432
 00:43:55,500 --> 00:43:59,600
 Aussi au fait que j'ai une fille de 14 ans,
-que je connais à peine, à la maison.
+que je connais ï¿½ peine, ï¿½ la maison.
 
 433
 00:43:59,800 --> 00:44:01,900
@@ -1901,21 +1901,21 @@ Les gosses c'est pas si dur.
 434
 00:44:02,300 --> 00:44:04,900
 Assurez-vous
-qu'ils mangent leurs légumes...
+qu'ils mangent leurs lï¿½gumes...
 
 435
 00:44:05,000 --> 00:44:08,000
 qu'ils ne veillent pas trop tard,
-qu'ils ne regardent pas trop la télé.
+qu'ils ne regardent pas trop la tï¿½lï¿½.
 
 436
 00:44:08,400 --> 00:44:11,900
-A part ça, soyez
-aussi sincère et ouvert que possible.
+A part ï¿½a, soyez
+aussi sincï¿½re et ouvert que possible.
 
 437
 00:44:36,100 --> 00:44:37,900
-Là, il y a moins de queue.
+Lï¿½, il y a moins de queue.
 
 438
 00:44:38,100 --> 00:44:40,200
@@ -1927,7 +1927,7 @@ Papa, vite !
 
 440
 00:44:50,300 --> 00:44:51,300
-Pygmées !
+Pygmï¿½es !
 
 441
 00:44:52,500 --> 00:44:53,800
@@ -1935,24 +1935,24 @@ On fait des spaghetti ?
 
 442
 00:44:54,800 --> 00:44:57,600
-Ça va être la fête.
+ï¿½a va ï¿½tre la fï¿½te.
 
 443
 00:45:03,200 --> 00:45:08,000
 En Italie, on dit que le spaghetti
-est cuit s'il reste collé.
+est cuit s'il reste collï¿½.
 
 444
 00:45:10,500 --> 00:45:12,000
-Bière.
+Biï¿½re.
 
 445
 00:45:13,200 --> 00:45:14,900
-Santé.
+Santï¿½.
 
 446
 00:45:16,700 --> 00:45:18,500
-Je suis pas sûr...
+Je suis pas sï¿½r...
 
 447
 00:45:21,900 --> 00:45:25,300
@@ -1966,7 +1966,7 @@ Tu les vois ?
 
 449
 00:45:33,600 --> 00:45:35,000
-Régale-toi.
+Rï¿½gale-toi.
 
 450
 00:45:40,000 --> 00:45:42,900
@@ -1974,7 +1974,7 @@ Gardez la monnaie.
 
 451
 00:45:48,500 --> 00:45:50,200
-Maintenant ça va.
+Maintenant ï¿½a va.
 
 452
 00:46:03,700 --> 00:46:06,700
@@ -1983,7 +1983,7 @@ Maintenant ça va.
 
 453
 00:46:06,900 --> 00:46:07,900
-- Pour où ?
+- Pour oï¿½ ?
 - Phoenix.
 
 454
@@ -1993,38 +1993,38 @@ des livres en euros, je le rassure.
 
 455
 00:46:12,000 --> 00:46:13,600
-Vous réchauffez ?
+Vous rï¿½chauffez ?
 
 456
 00:46:13,800 --> 00:46:14,800
-C'est à ce point ?
+C'est ï¿½ ce point ?
 
 457
 00:46:15,000 --> 00:46:18,200
 Pour certains,
-l'argent est un film non sous-titré.
+l'argent est un film non sous-titrï¿½.
 
 458
 00:46:20,700 --> 00:46:23,300
-Bon, à l'ordre du jour.
+Bon, ï¿½ l'ordre du jour.
 
 459
 00:46:23,500 --> 00:46:25,900
-J'ai une règle: Simple égale sûr.
+J'ai une rï¿½gle: Simple ï¿½gale sï¿½r.
 
 460
 00:46:26,100 --> 00:46:28,900
 J'en dis le minimum
-sur moi et mes activités...
+sur moi et mes activitï¿½s...
 
 461
 00:46:29,100 --> 00:46:32,300
-mais assez pour te mettre à l'aise
-sur nos opérations.
+mais assez pour te mettre ï¿½ l'aise
+sur nos opï¿½rations.
 
 462
 00:46:33,400 --> 00:46:34,700
-C'est-à-dire ?
+C'est-ï¿½-dire ?
 
 463
 00:46:39,000 --> 00:46:42,700
@@ -2033,17 +2033,17 @@ L'avantage de travailler au change.
 
 464
 00:46:43,300 --> 00:46:44,800
-- C'est à qui ?
+- C'est ï¿½ qui ?
 - Personne.
 
 465
 00:46:45,000 --> 00:46:49,200
 Une somme absente du bilan, flottant
-sur les livres comme de la crème.
+sur les livres comme de la crï¿½me.
 
 466
 00:46:49,300 --> 00:46:51,000
-Et lui il écrème.
+Et lui il ï¿½crï¿½me.
 
 467
 00:46:51,200 --> 00:46:53,600
@@ -2051,8 +2051,8 @@ C'est un peu plus...
 
 468
 00:46:53,800 --> 00:46:57,300
-compliqué,
-mais simple égale sûr.
+compliquï¿½,
+mais simple ï¿½gale sï¿½r.
 
 469
 00:46:57,500 --> 00:46:59,100
@@ -2060,8 +2060,8 @@ Vous ne gardez pas l'argent ?
 
 470
 00:46:59,200 --> 00:47:03,600
-Comme employé de banque, si
-j'achète des devises, tout est enregistré.
+Comme employï¿½ de banque, si
+j'achï¿½te des devises, tout est enregistrï¿½.
 
 471
 00:47:03,800 --> 00:47:06,100
@@ -2078,7 +2078,7 @@ Qu'est-ce que vous avez pour moi ?
 474
 00:47:11,700 --> 00:47:13,800
 - 5000 dollars.
-- Félicitations.
+- Fï¿½licitations.
 
 475
 00:47:14,000 --> 00:47:16,500
@@ -2115,7 +2115,7 @@ Moi non plus. Ma fille a le don.
 
 482
 00:47:32,700 --> 00:47:35,400
-Soutiens-gorge accrochés à la douche.
+Soutiens-gorge accrochï¿½s ï¿½ la douche.
 
 483
 00:47:35,600 --> 00:47:37,500
@@ -2127,25 +2127,25 @@ La mienne met pas le nez dehors.
 
 485
 00:47:40,700 --> 00:47:42,400
-En été c'est pire.
+En ï¿½tï¿½ c'est pire.
 
 486
 00:47:42,600 --> 00:47:45,700
 - C'est dingue.
-- Bien imité.
+- Bien imitï¿½.
 
 487
 00:47:45,900 --> 00:47:49,200
-Arden, ça peut aller jusqu'à combien
-en théorie ?
+Arden, ï¿½a peut aller jusqu'ï¿½ combien
+en thï¿½orie ?
 
 488
 00:47:49,400 --> 00:47:51,700
-On plafonne à 10000.
+On plafonne ï¿½ 10000.
 
 489
 00:47:51,800 --> 00:47:54,400
-Combien tu peux réunir ?
+Combien tu peux rï¿½unir ?
 
 490
 00:47:56,300 --> 00:47:57,800
@@ -2163,7 +2163,7 @@ La paix, deux doigts.
 
 493
 00:48:08,400 --> 00:48:09,400
-Enfoiré.
+Enfoirï¿½.
 
 494
 00:48:09,600 --> 00:48:11,200
@@ -2180,20 +2180,20 @@ Salut guignol.
 
 497
 00:48:16,900 --> 00:48:20,000
-J'ai cru qu'on en était de 2000.
+J'ai cru qu'on en ï¿½tait de 2000.
 
 498
 00:48:20,200 --> 00:48:22,900
-Il faut dépenser pour gagner.
+Il faut dï¿½penser pour gagner.
 
 499
 00:48:23,100 --> 00:48:24,600
-Et il faut gagner pour dépenser.
+Et il faut gagner pour dï¿½penser.
 
 500
 00:48:24,800 --> 00:48:28,000
 "Chewing-gum" ?
-C'était quoi ça ?
+C'ï¿½tait quoi ï¿½a ?
 
 501
 00:48:31,200 --> 00:48:33,200
@@ -2201,24 +2201,24 @@ C'est plus facile si je te montre.
 
 502
 00:48:38,000 --> 00:48:39,800
-Je suis rentré !
+Je suis rentrï¿½ !
 
 503
 00:48:40,600 --> 00:48:43,000
-Frank est là !
+Frank est lï¿½ !
 
 504
 00:48:49,500 --> 00:48:52,300
-Elle a dû retourner chez sa mère.
+Elle a dï¿½ retourner chez sa mï¿½re.
 
 505
 00:48:52,500 --> 00:48:57,100
 Hillary, une ado, nous dit
-"Je suis célibataire."
+"Je suis cï¿½libataire."
 
 506
 00:48:57,400 --> 00:49:00,100
-- Où va-t-elle d'habitude ?
+- Oï¿½ va-t-elle d'habitude ?
 - Je sais pas.
 
 507
@@ -2228,44 +2228,44 @@ Ni pour toi, ni pour nous.
 
 508
 00:49:03,000 --> 00:49:04,900
-Ça n'a rien à voir...
+ï¿½a n'a rien ï¿½ voir...
 
 509
 00:49:05,100 --> 00:49:07,200
-Pygmées !
+Pygmï¿½es !
 
 510
 00:49:10,100 --> 00:49:12,600
 - Pas bon.
-- Le prends pas comme ça.
+- Le prends pas comme ï¿½a.
 
 511
 00:50:05,200 --> 00:50:07,800
-- Où tu étais ?
+- Oï¿½ tu ï¿½tais ?
 - Nulle part.
 
 512
 00:50:08,000 --> 00:50:09,800
-Tu es allée où ?
+Tu es allï¿½e oï¿½ ?
 
 513
 00:50:10,000 --> 00:50:13,600
 A la galerie marchande.
-C'est à un demi mile.
+C'est ï¿½ un demi mile.
 
 514
 00:50:14,000 --> 00:50:16,200
-On étouffe ici !
-Ça sent le détergent.
+On ï¿½touffe ici !
+ï¿½a sent le dï¿½tergent.
 
 515
 00:50:16,400 --> 00:50:18,000
-Où t'étais ?
+Oï¿½ t'ï¿½tais ?
 
 516
 00:50:18,200 --> 00:50:20,800
 Dis-le tout de suite,
-ou j'appelle ta mère !
+ou j'appelle ta mï¿½re !
 
 517
 00:50:20,900 --> 00:50:23,700
@@ -2273,12 +2273,12 @@ Je te l'ai dit. A la galerie.
 
 518
 00:50:24,200 --> 00:50:26,100
-Pourquoi t'es rentrée en douce ?
+Pourquoi t'es rentrï¿½e en douce ?
 
 519
 00:50:26,900 --> 00:50:29,700
 Comme je suis sortie.
-J'ai pas les clés de l'entrée.
+J'ai pas les clï¿½s de l'entrï¿½e.
 
 520
 00:50:29,900 --> 00:50:31,500
@@ -2299,12 +2299,12 @@ Mais j'ai une affaire...
 
 524
 00:50:40,000 --> 00:50:44,200
-un associé, ma vie réglée à ma façon,
-c'est comme ça !
+un associï¿½, ma vie rï¿½glï¿½e ï¿½ ma faï¿½on,
+c'est comme ï¿½a !
 
 525
 00:50:44,300 --> 00:50:46,100
-Ça vaudrait mieux...
+ï¿½a vaudrait mieux...
 
 526
 00:50:47,900 --> 00:50:51,400
@@ -2318,12 +2318,12 @@ je te ramenais chez toi.
 
 528
 00:50:54,900 --> 00:50:59,100
-J'ai même pas bu,
-je me suis pas droguée !
+J'ai mï¿½me pas bu,
+je me suis pas droguï¿½e !
 
 529
 00:50:59,600 --> 00:51:02,100
-J'ai pas piqué d'argent
+J'ai pas piquï¿½ d'argent
 dans ton con de chien !
 
 530
@@ -2341,7 +2341,7 @@ Tu es une vilaine fouineuse !
 
 533
 00:51:14,900 --> 00:51:18,000
-C'est pas des manières !
+C'est pas des maniï¿½res !
 
 534
 00:51:18,500 --> 00:51:20,100
@@ -2354,16 +2354,16 @@ Hou la vilaine !
 
 536
 00:51:41,800 --> 00:51:44,000
-- C'est pas le problème.
-- Ça y ressemble.
+- C'est pas le problï¿½me.
+- ï¿½a y ressemble.
 
 537
 00:51:44,200 --> 00:51:46,700
-Lâche-moi !
+Lï¿½che-moi !
 
 538
 00:51:47,700 --> 00:51:50,800
-Tu veux pas que je dise à maman
+Tu veux pas que je dise ï¿½ maman
 qu'elle avait raison !
 
 539
@@ -2372,25 +2372,25 @@ T'es comme ses mecs !
 
 540
 00:51:56,300 --> 00:51:59,600
-Faut me tolérer pour la baiser !
+Faut me tolï¿½rer pour la baiser !
 
 541
 00:51:59,700 --> 00:52:03,900
 - Tu sais que ce n'est pas vrai.
-- Même eux me parlent de leur boulot !
+- Mï¿½me eux me parlent de leur boulot !
 
 542
 00:52:04,100 --> 00:52:09,300
 Tous les antiquaires gardent un paquet
-de fric chez eux, à côté de leur flingue !
+de fric chez eux, ï¿½ cï¿½tï¿½ de leur flingue !
 
 543
 00:52:17,500 --> 00:52:21,500
-Je suis pas un très bon père.
+Je suis pas un trï¿½s bon pï¿½re.
 
 544
 00:52:21,700 --> 00:52:24,500
-J'ai déjà du mal à être moi.
+J'ai dï¿½jï¿½ du mal ï¿½ ï¿½tre moi.
 
 545
 00:52:27,300 --> 00:52:30,400
@@ -2408,15 +2408,15 @@ Pourquoi t'as un flingue ?
 
 548
 00:52:48,300 --> 00:52:49,400
-Au cas où
+Au cas oï¿½
 
 549
 00:52:49,800 --> 00:52:51,000
-Au cas où quoi ?
+Au cas oï¿½ quoi ?
 
 550
 00:52:56,300 --> 00:52:57,600
-C'est dur à expliquer.
+C'est dur ï¿½ expliquer.
 
 551
 00:53:04,000 --> 00:53:06,800
@@ -2446,7 +2446,7 @@ Et ce Frank ?
 
 557
 00:53:21,300 --> 00:53:24,700
-C'est mon associé. Mon... élève.
+C'est mon associï¿½. Mon... ï¿½lï¿½ve.
 
 558
 00:53:25,300 --> 00:53:27,100
@@ -2459,7 +2459,7 @@ Apprends-moi.
 
 560
 00:53:29,500 --> 00:53:32,600
-Sérieux ! Apprends-moi.
+Sï¿½rieux ! Apprends-moi.
 
 561
 00:53:34,700 --> 00:53:36,100
@@ -2467,11 +2467,11 @@ Rien du tout.
 
 562
 00:53:37,200 --> 00:53:39,600
-Tu es fraîche, belle et innocente...
+Tu es fraï¿½che, belle et innocente...
 
 563
 00:53:39,800 --> 00:53:42,700
-et je foutrai pas ça en l'air.
+et je foutrai pas ï¿½a en l'air.
 
 564
 00:53:43,800 --> 00:53:45,000
@@ -2492,11 +2492,11 @@ Le crime ne paie pas ?
 
 568
 00:53:57,300 --> 00:54:00,500
-Ça paie, mais pas très bien.
+ï¿½a paie, mais pas trï¿½s bien.
 
 569
 00:54:00,900 --> 00:54:02,800
-- Ça a l'air de te réussir.
+- ï¿½a a l'air de te rï¿½ussir.
 - Non.
 
 570
@@ -2507,7 +2507,7 @@ c'est pas marrant ce que je fais.
 571
 00:54:06,300 --> 00:54:09,100
 Souvent on vole des gens
-qui le méritent pas.
+qui le mï¿½ritent pas.
 
 572
 00:54:09,300 --> 00:54:12,100
@@ -2516,7 +2516,7 @@ Seuls dans la vie.
 
 573
 00:54:12,200 --> 00:54:14,400
-Souvent ça me rend malade.
+Souvent ï¿½a me rend malade.
 
 574
 00:54:17,200 --> 00:54:19,100
@@ -2530,7 +2530,7 @@ que tu le crois.
 576
 00:54:33,500 --> 00:54:37,200
 J'ai fait des choses,
-avec les garçons, si tu savais...
+avec les garï¿½ons, si tu savais...
 
 577
 00:54:37,300 --> 00:54:39,500
@@ -2544,18 +2544,18 @@ avec les garçons, si tu savais...
 
 579
 00:54:44,100 --> 00:54:47,900
-Au bal de Noël, l'an dernier,
-j'étais avec un garçon, Josh...
+Au bal de Noï¿½l, l'an dernier,
+j'ï¿½tais avec un garï¿½on, Josh...
 
 580
 00:54:48,100 --> 00:54:51,300
 - mignon, il me plaisait bien.
-- J'écoute pas.
+- J'ï¿½coute pas.
 
 581
 00:54:51,500 --> 00:54:56,100
-Après le bal, on était chez Carrie,
-à l'étage, il m'a poussée contre le lit...
+Aprï¿½s le bal, on ï¿½tait chez Carrie,
+ï¿½ l'ï¿½tage, il m'a poussï¿½e contre le lit...
 
 582
 00:54:56,300 --> 00:54:58,500
@@ -2567,17 +2567,17 @@ Bon, je t'apprends une combine.
 
 584
 00:55:06,700 --> 00:55:11,600
-Mais tu referas jamais ça,
+Mais tu referas jamais ï¿½a,
 et tu l'oublieras, d'accord ?
 
 585
 00:55:15,700 --> 00:55:18,200
-Règle 1: Ne travaille pas
-près de chez toi.
+Rï¿½gle 1: Ne travaille pas
+prï¿½s de chez toi.
 
 586
 00:55:20,500 --> 00:55:23,300
-Règle 2: Mets rien par écrit.
+Rï¿½gle 2: Mets rien par ï¿½crit.
 
 587
 00:55:31,100 --> 00:55:33,800
@@ -2589,6 +2589,6 @@ Gagnants d'hier
 
 589
 00:55:56,200 --> 00:55:59,200
-Je veux jouer ça pour le tirage du 22.
+Je veux jouer ï¿½a pour le tirage du 22.
 
 

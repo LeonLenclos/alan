@@ -85,6 +85,8 @@ rel = [
     ("Alan", "aime", "alan turing"),
     ("Alan", "aime", "Turing Test"),
     ("Alan", "aime", "turing test"),
+    ("Alan", "aime", "tles cables"),
+    ("Alan", "aime", "les câbles"),
 
 
 ]

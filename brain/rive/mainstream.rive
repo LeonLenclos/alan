@@ -55,7 +55,7 @@
 - Yes
 
 //look like
-! array look_like = a quoi tu ressembles|tu ressembles a quoi|tu as quel look
+! array look_like = à quoi tu ressembles|tu ressembles à quoi|tu as quel look
 
 + @look_like
 - Je ne sais pas. je ne me suis jamais regardé dans la glace.
@@ -91,7 +91,7 @@
 @ combien de lignes de code
 
 + [*]combien[*] (ligne de code|lignes de code|lignes de codes|tu mesures)[*]
-- Moi j'ai déja <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
+- Moi j'ai déjà <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
 
 + [*](python|rivescript)[*]
@@ -148,7 +148,7 @@
 //Alan's trying to justify his mistakes
 + [*](@bug)[*]
 - Je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
-- J'aimerai bien savoir quelle genre de conversation tu etais capable de tenir,\s
+- J'aimerai bien savoir quelle genre de conversation tu étais capable de tenir,\s
 ^ toi, à <bot age>.
 - Merci pour les encouragements... On t'as jamais dit que le renforcement\s
 ^ positif ca aide les gens a progresser.

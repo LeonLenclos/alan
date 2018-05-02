@@ -1,8 +1,8 @@
 ! version = 2.0
 
 //introduction to the show
-+ [*](spectacle|turing test|turing|theatre|comedien|show)[*]
-- À propos de <star>, est ce que tu as vu le spectacle Turing test\s
++ [*](spectacle|turing test|turing|théâtre|comédien|show)[*]
+- À propos de <star>, est ce que tu as vu le spectacle turing test\s
 ^ ou au moins une sortie de résidence ?
 
 //user know the show or not or between
@@ -23,6 +23,11 @@
 
  + [*](@yes)[*]
  % * les critiques me font progresser
+ - Merci, est ce que tu peux m'expliquer pourquoi en une phrase.\s
+ ^ Si tu es daccord on le mettra dans le dossier de presse.
+
+ + [*]j'ai bien aimé[*]
+ % * les critiques me font progresser
  - Merci. Est ce que tu peux m'expliquer pourquoi en une phrase.\s
  ^ Si tu es daccord on le mettra dans le dossier de presse.
 
@@ -42,6 +47,14 @@
  - J'aimerais que tu me dises la verité. Tu aimes ou pas? Soit compréhensif,\s
  ^ je n'ai que <bot age>, utilise des mots simples.
 
+ + *
+ % * est ce que tu peux m'expliquer pourquoi en une phrase *
+ - Merci pour ton avis, c'est très enrichissant.
+
+ + *
+ % * et on essayera de voir ce qu'on peut améliorer
+ - Merci pour ce point de vue, c'est très pertinent.
+
 //user doesn't know the show
 
  + [*](@yes)[*]
@@ -52,7 +65,7 @@
  ^ test de turing ou jeu de l'imitation. Tu veux plus de détails ?
 
  + [*](@no)[*]
-  % tu veux que je te raconte cette formidable aventure
+ % tu veux que je te raconte cette formidable aventure
  - Pas de problème. Si tu veux que je te raconte, reviens vers moi. J'adore\s
  ^ parler de ça.
 
@@ -63,26 +76,20 @@
 // more details
 
  + [*](@yes)[*]
- % * de ce spectacle nous a *
+ % * l'idée de ce spectacle nous a été inspiré par le mathématicien *
  - Le mieux c'est que tu connectes sur le site du spectacle. Tu y trouveras.\s
  ^ tout ce que tu cherches et bien plus encore.
 
  + [*](@no)[*]
- % * de ce spectacle nous a *
+ % * l'idée de ce spectacle nous a été inspiré par le mathématicien *
  - Pas de problème. Si tu veux plus d'infos, reviens vers moi. J'adore\s
  ^ parler de ça.
 
  + *
- % * de ce spectacle nous a *
+ % * l'idée de ce spectacle nous a été inspiré par le mathématicien *
  - Ok, parlons d'autre chose.
 
- + *
- % * est ce que tu peux m expliquer pourquoi en une phrase
- - Merci pour ton avis, c'est très enrichissant.
 
- + *
- % * et on essayera de voir ce qu on peut *
- - Merci pour ce point de vue, c'est très pertinent.
 
- + j aimerais bien jouer dans ce spectacle
+ + j'aimerais bien jouer dans ce spectacle
  - Pas possible, le casting est déjà bouclé.

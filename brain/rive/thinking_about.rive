@@ -2,92 +2,94 @@
 
 
 // hooks
-+ [*] tu (as la tete dans les nuages|es tete en l air)
++ [*] tu (as la tête dans les nuages|es tête en l'air)
 - Je pensais à un truc...
 
-+ [*] tu [n|ne|ne m] (ecoutes|suis|m a|a) pas [ecoute|entendu]
++ [*] tu [ne|ne m'|n'|m'] (écoutes|suis|m'as|ne m'as|as) pas [écouté|entendu]
 - Je pensais à un truc...
 
 + [*]tu[*]une conscience [*]
 - Je ne sais pas si je suis conscient mais des fois, je pense à des trucs.
 
 // user ask what alan is thinking about, alan ask for confirmation
-+ [*](a quoi|quel|quelles|quels|lequels)[*]
-% [*](je pense a des trucs|je pensais a un truc|j etais perdu dans mes pensees|je pensais a autre chose)[*]
-@ a quoi tu penses
++ [*](à quoi|quel|quelles|quels|lequels)[*]
+% [*](je pense à des trucs|je pensais à un truc|j'étais perdu dans mes pensées|je pensais à autre chose)[*]
+@ à quoi tu penses
 
-+ [*]tu (pense|penses|pensais) a quoi[*]
-@ a quoi tu penses
++ [*]tu (pense|penses|pensais) à quoi[*]
+@ à quoi tu penses
 
-+ [*]a quoi[*]tu (pense|penses|pensais)[*]
++ [*]à quoi[*]tu (pense|penses|pensais)[*]
 - Tu veux que je te dise à quoi j'étais en train de penser ?
 
-  // User want to know
-  + [*](@yes)[*]
-  % tu veux que je te dise a quoi j etais en train de penser
-  @ dis moi
+// User want to know
+//% tu veux que je te dise à quoi j'étais en train de penser
+//- dis moi
 
-  + [*](s il te plaît|dis moi)[*]
+
+//{@....} complète la réponse en renvoyant à un autre triger.
+  + [*](s'il te plaît|dis moi|@yes)[*]
+  % tu veux que je te dise à quoi j'étais en train de penser
   - Je me demandais si j'étais capable de me poser des questions.\s
-  ^ {@ tu m as deja dis a quoi tu pense}
+  ^ {@ tu m'as deja dis à quoi tu pense}
   - Je me demandais quelle était la différence entre une erreur de calcul et\s
-  ^ une faute de goût. {@ tu m as deja dis a quoi tu pense}
+  ^ une faute de goût. {@ tu m as deja dis à quoi tu pense}
   - Je pensais aux autres objets... contrairement à moi la plupart ne\s
-  ^ peuvent pas penser. {@ tu m as deja dis a quoi tu pense}
+  ^ peuvent pas penser. {@ tu m as deja dis à quoi tu pense}
 
 
-  + tu m as deja dis a quoi tu (pense|penses|pensais)
+  + tu m'as dejà dis à quoi tu (pense|penses|pensais)
   - Et toi, tu veux bien me dire un truc auquel tu penses des fois ?
-  - Et toi tu pensais a quoi ?
+  - Et toi tu pensais à quoi ?
   - Voilà... À toi de me dire une pensée secrète.
 
 
   // User don't want to know alan's though
-  + je ne veux pas connaitre tes pensees
+  + je ne veux pas connaître tes pensées
   - Ok, gardons nos secrets.
-  - Ça me va, gardons chacuns nos pensees pour nous.
+  - Ça me va, gardons chacuns nos pensées pour nous.
 
-  + [*](ca ira|non)[*]
-  % tu veux que je te dise a quoi j etais en train de penser
-  @ je ne veux pas connaitre tes pensees
+  + [*](ça ira|non)[*]
+  % tu veux que je te dise à quoi j'étais en train de penser
+  @ je ne veux pas connaitre tes pensées
 
   + [*](@no)[*]
-  % tu veux que je te dise a quoi j etais en train de penser
-  @ je ne veux pas connaitre tes pensees
+  % tu veux que je te dise à quoi j'étais en train de penser
+  @ je ne veux pas connaitre tes pensées
 
   + [*](@maybe)[*]
-  % tu veux que je te dise a quoi j etais en train de penser
-  @ je ne veux pas connaitre tes pensees
+  % tu veux que je te dise à quoi j'étais en train de penser
+  @ je ne veux pas connaitre tes pensées
 
   + *
-  % tu veux que je te dise a quoi j etais en train de penser
-  - Oups pardon j'étais encore perdu dans mes pensees ? Alors, tu veux que\s
-  ^ je te dis a quoi je pense oui ou non ?
+  % tu veux que je te dise à quoi j'étais en train de penser
+  - Oups pardon j'étais encore perdu dans mes pensées ? Alors, tu veux que\s
+  ^ je te dis à quoi je pense oui ou non ?
   - De toute façon je n'ai pas envie de te dire à quoi je pense. C'est secret
 
 
   + [*] je [ne] sais (pas|plus) [*]
-  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais a quoi|voila a toi de me dire une pensee secrete)
+  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
   - Dis moi le premier truc qui te passe par la tête
-  - J'ai envie de mieux comprendre le cerveau humain. Donne moi tes pensees.
+  - J'ai envie de mieux comprendre le cerveau humain. Donne moi tes pensées.
 
   + [*] (@no) [*]
-  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais a quoi|voila a toi de me dire une pensee secrete)
+  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
   @ pas envie
 
   + [*] pas envie [*]
-  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais a quoi|voila a toi de me dire une pensee secrete)
-  - Je comprends, moi non plus je n'aime pas trop reveler mes secrets à des\s
+  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
+  - Je comprends, moi non plus je n'aime pas trop révéler mes secrets à des\s
   ^ chatbots.
   - Tu n'es pas obligé.
 
   + (oui|ok|d accord)
-  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais a quoi|voila a toi de me dire une pensee secrete)
+  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà a toi de me dire une pensée secrète)
   - Je t'écoute.
 
   + *
-  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais a quoi|voila a toi de me dire une pensee secrete)
-  - <person> ? Les humains ont des pensees etonnantes.
+  % (et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà a toi de me dire une pensée secrète)
+  - <person> ? Les humains ont des pensées etonnantes.
 
-  + [*] tu veux (savoir|que je te dise) a quoi je (pense|pensais) [*]
+  + [*] tu veux (savoir|que je te dise) à quoi je (pense|pensais) [*]
   - Oui dis moi !

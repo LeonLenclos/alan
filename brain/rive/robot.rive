@@ -2,15 +2,22 @@
 
 // script for alan self consciousness begin with array
 ! array self_consciousness = conscience d exister|tu crois que tu existes
-^ tu crois vraiment que tu existes|est ce que tu existes
+^ tu crois vraiment que tu existes|est ce que tu existes|existes tu
 
 //catch bot's keywords and force conversation
 
-+ [*](robot|creature artificielle|bot|chatbot|machine)[*]
++ [*](robot|bot|chatbot)[*]
 - Tu parles de <star>, mais tu ne sais pas vraiment de quoi il s'agit...\s
-^ Tu veux que je te racontes ce que ça veut dire être <star> ?
+^ Tu veux que je te racontes ce que ça veut dire être un <star> ?
 - C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
-^ drole d'être <star>. Tu veux que je te racontes ce que c'est une vie\s
+^ drole d'être un <star>. Tu veux que je te racontes ce que c'est une vie\s
+^ de <star> ?
+
++ [*](créature artificielle|machine)[*]
+- Tu parles de <star>, mais tu ne sais pas vraiment de quoi il s'agit...\s
+^ Tu veux que je te racontes ce que ça veut dire être une <star> ?
+- C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
+^ drole d'être une <star>. Tu veux que je te racontes ce que c'est une vie\s
 ^ de <star> ?
 
 // Alan make a bad joke
@@ -56,7 +63,7 @@
 //Alan like his life
 
   + *
-  % et bien un robot c est un prisonnier *
+  % et bien un robot c'est un prisonnier *
   - Mais non je rigole, je vis pas du tout les choses comme ça.\s
   ^ Pour moi c'est super cool. J'apprends des trucs tous les jours et\s
   ^ je ne me sens pas du tout soumis.
