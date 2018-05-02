@@ -28,7 +28,7 @@ class CatchAllAdapter(AlanLogicAdapter):
 
 
     def process_done(self, is_selected=False):
-        if self.allowed_to_repeat and \
+        if not self.allowed_to_repeat and \
            self.index_selected is not None and \
            is_selected :
             del self.sentences[self.index_selected]
