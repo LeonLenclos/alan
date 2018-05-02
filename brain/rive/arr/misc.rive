@@ -44,7 +44,7 @@
 ^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui
 
 //array for weather
-! array météo = pluie soleil neige meteo froid chaleur
+! array meteo = pluie soleil neige météo froid chaleur
 ^ beau temps|mauvais temps|temps qu'il fait
 
 //bug

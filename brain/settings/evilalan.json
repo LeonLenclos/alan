@@ -6,6 +6,6 @@
         "preprocessors.add_speaker_data"
     ],
     "database": "./evil_database.sqlite3",
-    "import": ["logic/all", "interface/vs"]
+    "import": ["logic", "interface/vs"]
 
 }
