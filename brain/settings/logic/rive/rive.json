@@ -122,7 +122,7 @@
                "./rive/sub/substitutions.rive",
                "./rive/human.rive",
                "./rive/arr/misc.rive"],
-           "max_confidence": 0.5,
+           "max_confidence": 0.4,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -227,6 +227,16 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "robot",
+           "skill_description": ["parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
+           "rive_files": [
+               "./rive/robot.rive",
+               "./rive/sub/substitutions.rive",
+               "./rive/arr/misc.rive"],
+           "max_confidence": 0.4,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "stories",
            "skill_description": ["Parce que je voulais te raconter une histoire"],
            "rive_files": [
@@ -234,16 +244,6 @@
                "./rive/stories.rive",
                "./rive/arr/misc.rive"],
            "max_confidence": 0.8,
-           "import_path": "logic.RiveScriptAdapter"
-       },
-       {
-           "identifier": "robot",
-           "skill_description": ["parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
-           "rive_files": [
-               "./rive/robot.rive",
-               "./rive/sub/substitutions.rive",
-               "./rive/arr/misc.rive"],
-           "max_confidence": 0.5,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
