@@ -174,3 +174,16 @@
 ^ inintelligent obtus sot stupide abruti niais vide andouille ballot
 ^ bêta cloche cruche demeure gourde manche niais
 ^ arriéré mental | débile mental | simple d'esprit
+
+// array about art except theatre, cinema and music
+! array art = architecture sculpture peinture dessin littérature poésie
+^ dramaturgie danse mime cirque photographie photo marionnette
+^ poésie bd BD bédé manga comics théâtre théatre
+^ arts visuels | bande dessinee
+
+//array media except internet
+! array media = télévision radio tv télé
+
+
+! array lang = langue|langues|language|francais|anglais|espagnole|english
+^ italien|japonais|chinois|russe|coreen|polonais|turc|arabe|espanol
