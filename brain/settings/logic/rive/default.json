@@ -1,6 +1,6 @@
 {
-    "import": ["logic/rive/politesse"],
-    "import": ["logic/rive/spectacle"],
-    "import": ["logic/rive/theme"],
-    "import": ["logic/rive/trivial"]
+    "import": ["logic/rive/politesse",
+      "logic/rive/spectacle",
+      "logic/rive/theme",
+      "logic/rive/trivial"]
 }
