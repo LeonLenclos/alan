@@ -83,6 +83,8 @@ class KesakoAdapter(AlanLogicAdapter):
         concept_A=concept_A.strip()
         # Get the interrogative part of the question that is before the concept_A
         question = statement.text.split(concept_A)[0]
+        # Magic substitution to change things like "ton" into "mon"
+        concept_A = utils.magic_sub(concept_A)
 
         # Get the distance between input statement and questions list
         confidence = utils.compare(question, self.questions)
@@ -92,9 +94,14 @@ class KesakoAdapter(AlanLogicAdapter):
         concept_B = self.chatbot.storage.get_related_concept(concept_A, self.relation)
         concept_C = self.chatbot.storage.get_related_concept(concept_A,
                                                     self.relation, reverse=True)
+
+
+
+
         # If concept_A is related by the relation to another concept, put
         # this concept into concept_B
         if concept_B :
+
             # Answer the question
             options = ["%(A)s %(rel)s %(B)s.",
                        "Je penses savoir que %(A)s %(rel)s %(B)s.",
@@ -119,7 +126,7 @@ class KesakoAdapter(AlanLogicAdapter):
         else:
             # Answer and ask
             options = ["Personne ne m'a jamais appris ce qu'%(rel)s %(A)s.",
-                       "Maintenant que tu me pose la question je m'apperçoit que je ne sais pas vraiment ce qu'%(rel)s %(A)s.",
+                       "Maintenant que tu me pose la question je m'aperçois que je ne sais pas vraiment ce qu'%(rel)s %(A)s.",
                        "Je ne sais pas ce qu'est %(A)s.",
                        "%(A)s ? Je ne sais pas exactement..."]
             response = choice(options) + " " + choice(self.ask)

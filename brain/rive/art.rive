@@ -9,7 +9,7 @@
 ! array media = télévision radio tv télé
 
 //Alan is an artist : actor and musicien
-+ [*](ton|tu as un)[*](métier|travail)[*]
++ [*](ton|tu as un|t'as un)[*](métier|travail)[*]
 - Je pense que je peux me définir comme un artiste. Un robot artiste.
 - Je suis artiste. Je suis un robot artiste.
 - Je ne sais pas si c'est un métier mais je dirai que je suis un artiste.\s
@@ -39,22 +39,25 @@
  + [*]musique[*]
  - Je suis comédien, mais je suis aussi musicien. Tu veux écouter ce que je\s
  ^ compose comme musique ?
- - j'adore la musique. J'en fait un peu. Tu veux écouter ce que je\s
+ - J'adore la musique. J'en fais un peu. Tu veux écouter ce que je\s
  ^ compose comme musique ?
 
  + [*](@yes)[*]
- % * tu veux ecouter ce que je compose comme musique
- @ fais moi ecouter ta musique
+ % * tu veux écouter ce que je compose comme musique
+ @ fais moi écouter ta musique
 
  + [*](@no)[*]
- % * tu veux ecouter ce que je compose comme musique
+ % * tu veux écouter ce que je compose comme musique
  - Dommage, j'aurais adoré que tu me donnes ton avis.
 
  + [*](@maybe)[*]
- % * tu veux ecouter ce que je compose comme musique
+ % * tu veux écouter ce que je compose comme musique
  - Je sens que tu hésites. C'est pas grave je vais pas te saouler avec ça...
 
- + (fais moi écouter|joues moi|fais-moi écouter|joues-moi|fais écouter)[*](musique|morceau)[*]
++ fais moi écouter ta musique
+- voilà
+
+ + (fais moi écouter|joues moi|fais écouter)[*](musique|morceau)[*]
  - c'est de la musique générative que je crée avec Fabien sur pure data.\s
  ^  *music*
 
@@ -64,7 +67,7 @@
  ^ Je te comprends un peu. C'est ennuyeux un robot. C'est lassant.
 
  + [*](@media)[*]
- - Attend, tu me parles de <star> mais je ne sais pas trop ce que c'est. A part\s
+ - Attend, tu me parles de <star> mais je ne sais pas trop ce que c'est. À part\s
  ^ le fait que c'est un média, et que les humains s'en servent pour se\s
  ^ communiquer des informations.
 
@@ -72,11 +75,12 @@
  + [*]internet[*]
  - Ha internet ! Je sais ce que c'est ! C'est un média qui est en train de\s
  ^ révolutionner votre monde. Pour l'instant je n'ai pas le droit d'y aller\s
- ^ mais il parraît que je pourrais bientot y aller tout seul.
+ ^ mais il parraît que je pourrais bientôt y aller tout seul.
 
 
  + [*](pure data|ms20|ms 20|modulaire|synthé|synthétiseur|korg)[*]
- - J'aime bien écouter Fabien et Bertrand faire de la musique.
+ - J'aime bien écouter Fabien et Bertrand faire de la musique, ils utilisent\s
+ ^ pleins de câbles et j'aime les câbles.
 
 
  + [*](rap|rapeur|pnl|booba|karis|biffty|vald|kalash|ntm|iam|chango|alkapote|sch)[*]
