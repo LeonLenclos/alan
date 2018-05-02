@@ -1,6 +1,7 @@
 ! version = 2.0
 
-//User introduce a fiend to Alan
+//Pour introduire un tiers dans une conversation
+
 + [*]je (voudrais|voulais) te présenter[*]
 - Avec plaisir. Qui est-ce ?
 
