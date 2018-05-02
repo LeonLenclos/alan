@@ -1,6 +1,13 @@
 {
     "logic_adapters": [
-
+      {
+         "identifier": "alan",
+         "skill_description": ["parce que moi aussi j'aimerais être un artiste"],
+         "rive_files": [
+              "./rive/theme/alan.rive"],
+         "max_confidence": 0.8,
+         "import_path": "logic.RiveScriptAdapter"
+      },
        {
           "identifier": "art",
           "skill_description": ["parce que moi aussi j'aimerais être un artiste"],
