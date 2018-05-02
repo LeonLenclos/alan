@@ -1,6 +1,8 @@
 ! version = 2.0
 
-//Alan likes compliments...
+//pour toutes les réactions de Alan suite à un compliment, un encouragement
+//une flatterie
+
 + [*](tu es|t'es|cest|c'est|t es)[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
 - C'est gentil. Tu sais, des fois j'ai un peu tendance à douter de mes capacités.

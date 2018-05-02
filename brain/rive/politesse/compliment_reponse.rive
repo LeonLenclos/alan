@@ -1,8 +1,8 @@
 ! version = 2.0
 
-//works with compliment.rive
+//Fonctionne avec compliment.rive
+//suite des échanges autour des compliments faits à Alan.
 
-//Alan likes compliments...but he wants to be sure of user's sincerity
 + [*](@yes)[*]
 % tu es sincère
 - J'aime beaucoup parler avec toi.
@@ -36,7 +36,7 @@
 + [*](@no)[*]
 % c'est vrai
 - Tu veux me faire pleurer. Mais tu n'as aucune chance, je ne connais pas\s
-^ les larmes
+^ les larmes.
 - Tu ne moques de moi. C'est pas très fair play.
 - Je crois qu'il ne faut pas que je te fasse trop confiance.
 - Un coup c'est oui, un coup c'est non...
