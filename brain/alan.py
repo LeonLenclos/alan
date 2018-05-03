@@ -167,7 +167,10 @@ class Alan(chatterbot.ChatBot):
             else: input = self.input.process_input()
 
             # Preprocess the input statement
+            self.log('PREPROCESS:', True)
+            self.log('before = {}'.format(input))
             for pre in self.preprocessors:input = pre(self, input)
+            self.log('after  = {}'.format(input))
             return input
 
         def say(output):
