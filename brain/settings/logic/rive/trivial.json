@@ -26,7 +26,7 @@
            "identifier": "formel",
            "skill_description": ["Je sais pas."],
            "rive_files": ["./rive/trivial/formel.rive"],
-           "max_confidence": 0.45,
+           "max_confidence": 0.40,
            "import_path": "logic.RiveScriptAdapter"
        },
        {

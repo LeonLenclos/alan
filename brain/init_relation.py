@@ -71,6 +71,7 @@ rel = [
     ("le cyan", "est", "une couleur"),
     ("une litote", "est","dire moins pour faire entendre d'avantage."),
     ("un euphémisme","est","une figure de style qui permet d'atténuer la dureté d'une expression."),
+    ("Francis", "est", "notre régisseur"),
 
 
 

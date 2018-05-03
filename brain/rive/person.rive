@@ -22,6 +22,8 @@
 ! person nous ne sommes = vous n'etes
 ! person vous n'etes = nous ne sommes
 ! person vous n etes = nous ne sommes
+! person aimes = aime
+! person aime = aimes
 
 ! person mon = ton
 ! person ton = mon
@@ -38,7 +40,9 @@
 ! person tes = mes
 ! person mes = tes
 
-! person t' = m'
-! person m' = t'
+! person t = m
+! person m = t
 ! person me = te
 ! person te = me
+! person j = t
+! person t = j
