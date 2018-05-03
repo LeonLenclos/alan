@@ -129,7 +129,7 @@ class AlanLogicAdapter(LogicAdapter):
         selected. If Alan respond with another adapter two consecutive times,
         the confidence is set to min confidence until the adapter is selected
          again"""
-        if not self.count:
+        if not hasattr(self, 'count') :
             self.count = 1
         if is_selected:
             self.confidence_coefficient = self.max_confidence
@@ -143,7 +143,7 @@ class AlanLogicAdapter(LogicAdapter):
     def one_shot(self, is_selected=False):
         """decrease the confidence coef to min confidence coef when the adapter
          was selected and stop been selected."""
-        if not self.count:
+        if not hasattr(self, 'count') :
             self.count = 1
         if is_selected:
             if self.count == 1:
@@ -157,7 +157,7 @@ class AlanLogicAdapter(LogicAdapter):
         """increase the confidence coef to max confidence coef when adapter is
         selected. If Alan respond with another adapter two consecutive times,
         the confidence is set to min confidence and stay it"""
-        if not self.count:
+        if not hasattr(self, 'count') :
             self.count = 1
         if is_selected:
             if self.count == 1:
