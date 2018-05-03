@@ -91,12 +91,12 @@ class AlanLogicAdapter(LogicAdapter):
                                       set_confidence_coefficient)
 
     def constrain_confidence(self, confidence=1):
-        """Return a value constrained between 0 and max_confidence.
+        """Return a value constrained between min_confidence and max_confidence.
         """
         if confidence > self.max_confidence:
             return self.max_confidence
-        if confidence < 0:
-            return 0
+        if confidence < self.min_confidence:
+            return self.min_confidence
         return confidence
 
     def get_confidence(self, confidence=1):
