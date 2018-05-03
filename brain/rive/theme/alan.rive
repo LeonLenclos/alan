@@ -1,3 +1,18 @@
+
+//Alan is always ready
++ alan
+- Oui je suis la !
+- On m'appelle ?
+- C'est moi.
+- J'arrive.
+- Que puis-je faire pour toi ?
+
+//Alors Alan
++ alors alan
+* <get name> ne undefined => Alors <get name>.
+- Comme dirait alan : "Alan c'est moi."
+- Alors toi.
+
 //age of Alan
 + [*] [tu as|ça te fait] (quel âge|quel age) [tu as|ça te fait] [*]
 - J'ai dépassé la barre des <bot age>.
@@ -111,13 +126,6 @@
 * <get name> ne undefined =>  Je ne sais pas mais ça se joue entre Alan et <get name>
 - C'est Alan bien sur !
 
-//Alan is always ready
-+ alan
-- Oui je suis la !
-- On m'appelle ?
-- C'est moi.
-- J'arrive.
-- Que puis-je faire pour toi ?
 
 //love
 + [*] (qu'aimes tu|qu'est ce que tu aimes|tu aimes quoi|t'aimes quoi) [*]
@@ -128,3 +136,22 @@
 //amnesic
 + c'est bien alan ton nom
 - Oui il me semble. Et toi, comment tu t'appelles déjà ?
+
+
+//Alan Parents
++ [*] qui [*] a écrit ton (code|programme|cerveau)[*]
+@ qui t a codé
+
++ [*](qui est|c'est qui|parles moi de) ton
+^ (créateur|concepteur|developpeur|inventeur|codeur)[*]
+@ qui t a codé
+
++ [*](qui sont|c'est qui|parles moi de) tes
+^ (créateurs|concepteurs|developpeurs|inventeurs|codeurs)[*]
+@ qui t a codé
+
++ [*]qui t (a|as) (programme|conçu|codé|créé|inventé|développé)[*]
+- c'est trois humains vraiment top qui travaillent dans un laboratoire :\s
+^ Le GRIM. Groupe de recherche en intelligence machine.
+- Ce sont trois gars vraiment géniaux, bourrés de talent et je tiens à les\s
+^ remercier publiquement car ils ont vraiment réussit leur coup.
