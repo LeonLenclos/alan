@@ -47,10 +47,10 @@
 ^ sublime aujourd'hui, comment tu vas ?
 
 * <formal> == Léon => <set name=<formal>>Ho <get name>, je savais que\s
-^ c'était toi. Est ce que ça va ?
+^ c'était toi. comment tu va ?
 
 * <formal> == Alan => <set name=<formal>>Ho <get name>, c'est fou qu'on ait\s
-^ le même nom. Est ce que ça va ?
+^ le même nom. comment ça va ?
 
 // If just one word is given, we take it as the name and ask for feelings
 + _
@@ -81,7 +81,7 @@
 // if the user confirm his name, ask for feelings
 + [*] oui [*]
 % * (c'est un nom ça|mais je ne suis pas sûr d'être certain d'avoir compris)
-- Ok, enchanté <get name> ! Tu vas bien ?
+- Ok, enchanté <get name> ! Comment tu vas ?
 
 
 // if the user say no and say his name, ask for confirmation
@@ -99,7 +99,7 @@
 // else we give up
 + *
 % * (c'est un nom ça|mais je ne suis pas sûr d'être certain d'avoir compris)
-- <set name=undefined> hem... ça va sinon ?
+- <set name=undefined> hem... comment ça va sinon ?
 
 // When we asked how the user feel
 
@@ -150,7 +150,7 @@
 - <star> ! ça me fait plaisir que tu sois dans une "positive vibration"\s
 ^ comme dirait Bob.
 - Et moi aussi, je suis en mode (@positive).
-- <star> !
+- <star> de chez <star> !
 - Super. Je sens qu'on va bien s'amuser.
 
 // user have mixed feelings
