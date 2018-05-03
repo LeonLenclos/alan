@@ -150,8 +150,7 @@ class AlanLogicAdapter(LogicAdapter):
     def greetings(self, is_selected=False):
         """increase the confidence coef to max confidence coef when adapter is
         selected. If Alan respond with another adapter two consecutive times,
-        the confidence is set to min confidence until the adapter is selected
-         again"""
+        the confidence is set to min confidence and stay it"""
         if not self.count:
             self.count = 1
         if is_selected:
