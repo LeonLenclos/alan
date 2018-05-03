@@ -10,7 +10,12 @@ class AlanLogicAdapter(LogicAdapter):
 
         max_confidence
         A float (from 0 to 1). Default is 1.
-        The logici adapter should never return a greater confidence value.
+        The logic adapter should never return a greater confidence value.
+        This value should not change.
+
+        min_confidence
+        A float (from 0 to max_confidence). Default is 0.
+        The logic adapter should never return a lower confidence value.
         This value should not change.
 
         confidence_coefficient
@@ -38,6 +43,12 @@ class AlanLogicAdapter(LogicAdapter):
             self.max_confidence = float(kwargs.get('max_confidence', 1))
         except ValueError:
             raise TypeError("max_confidence must be a number")
+
+        # getting min_confidence
+        try:
+            self.min_confidence = float(kwargs.get('min_confidence', 0))
+        except ValueError:
+            raise TypeError("min_confidence must be a number,you are doing n importe quoi")
 
         # getting confidence_coefficient
         try:
