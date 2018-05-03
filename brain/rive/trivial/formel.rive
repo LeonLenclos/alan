@@ -8,7 +8,7 @@
 - Oui mais par dessus tout je suis un robot !
 
 + (sais tu|tu sais) *
-- Je crois bien que je sais <star>.
+- Je crois bien que je sais <star2>.
 - Je sais tout.
 
 + (as tu|tu as) *
@@ -114,3 +114,12 @@
 - Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
 ^ tu es n'est-ce pas ?
 - Tu as un avis comme ça sur chaque chose ?
+
++ [*] tu (préfères|préfère) [quoi] [entre] * ou *
+- <star1>
+
++ [*] tu préfères [*]
+- Je sais pas
+
++ pas _
+- Pas <person> ou pas du tout <person> ?
