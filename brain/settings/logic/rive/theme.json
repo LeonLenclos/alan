@@ -6,6 +6,7 @@
          "rive_files": ["./rive/theme/alan.rive"],
          "min_confidence": 0.55,
          "max_confidence": 0.75,
+         "confidence_coefficient": 0,
          "process_done_method": "reinforcement",
          "import_path": "logic.RiveScriptAdapter"
       },
@@ -15,6 +16,7 @@
           "rive_files": ["./rive/theme/art.rive"],
           "min_confidence": 0.55,
           "max_confidence": 0.75,
+          "confidence_coefficient": 0,
           "process_done_method": "reinforcement",
           "import_path": "logic.RiveScriptAdapter"
        },
@@ -24,6 +26,7 @@
            "rive_files": ["./rive/theme/histoires.rive"],
            "min_confidence": 0.55,
            "max_confidence": 0.75,
+           "confidence_coefficient": 0,
            "process_done_method": "reinforcement",
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -33,6 +36,7 @@
            "rive_files": ["./rive/theme/humain.rive"],
            "min_confidence": 0.55,
            "max_confidence": 0.75,
+           "confidence_coefficient": 0,
            "process_done_method": "reinforcement",
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -42,6 +46,7 @@
            "rive_files": ["./rive/theme/informatique.rive"],
            "min_confidence": 0.55,
            "max_confidence": 0.75,
+           "confidence_coefficient": 0,
            "process_done_method": "reinforcement",
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -51,6 +56,7 @@
            "rive_files": ["./rive/theme/langage.rive"],
            "min_confidence": 0.55,
            "max_confidence": 0.75,
+           "confidence_coefficient": 0,
            "process_done_method": "reinforcement",
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -60,6 +66,7 @@
            "rive_files": ["./rive/theme/robot.rive"],
            "min_confidence": 0.55,
            "max_confidence": 0.75,
+           "confidence_coefficient": 0,
            "process_done_method": "reinforcement",
            "import_path": "logic.RiveScriptAdapter"
        },
@@ -70,6 +77,7 @@
            "rive_files": ["./rive/theme/turing_test.rive"],
            "min_confidence": 0.55,
            "max_confidence": 0.75,
+           "confidence_coefficient": 0,
            "process_done_method": "reinforcement",
            "import_path": "logic.RiveScriptAdapter"
        }
