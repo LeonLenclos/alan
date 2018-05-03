@@ -3,66 +3,66 @@
       {
          "identifier": "alan",
          "skill_description": ["parce que moi aussi j'aimerais être un artiste"],
-         "rive_files": [
-              "./rive/theme/alan.rive"],
-         "max_confidence": 0.8,
+         "rive_files": ["./rive/theme/alan.rive"],
+         "min_confidence": 0.55,
+         "max_confidence": 0.75,
          "import_path": "logic.RiveScriptAdapter"
       },
        {
           "identifier": "art",
           "skill_description": ["parce que moi aussi j'aimerais être un artiste"],
-          "rive_files": [
-               "./rive/theme/art.rive"],
-          "max_confidence": 0.5,
+          "rive_files": ["./rive/theme/art.rive"],
+          "min_confidence": 0.55,
+          "max_confidence": 0.75,
           "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "histoires",
            "skill_description": ["Parce que je voulais te raconter une histoire"],
-           "rive_files": [
-               "./rive/theme/histoires.rive"],
-           "max_confidence": 0.8,
+           "rive_files": ["./rive/theme/histoires.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "humain",
            "skill_description": ["Parce que c'est ce que je pense des humains."],
-           "rive_files": [
-               "./rive/theme/humain.rive"],
-           "max_confidence": 0.45,
+           "rive_files": ["./rive/theme/humain.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "informatique",
            "skill_description": ["Parce je suis un programme informatique."],
-           "rive_files": [
-             "./rive/theme/informatique.rive"],
-           "max_confidence": 0.5,
+           "rive_files": ["./rive/theme/informatique.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "langage",
            "skill_description": ["Parce que les gens m'intéressent"],
-           "rive_files": [
-               "./rive/theme/langage.rive"],
-           "max_confidence": 0.9,
+           "rive_files": ["./rive/theme/langage.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "robot",
            "skill_description": ["parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
-           "rive_files": [
-               "./rive/theme/robot.rive"],
-           "max_confidence": 0.45,
+           "rive_files": ["./rive/theme/robot.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
            "import_path": "logic.RiveScriptAdapter"
        },
 
        {
            "identifier": "turing_test",
            "skill_description": ["J'aime bien parler du spectacle."],
-           "rive_files": [
-               "./rive/theme/turing_test.rive"],
-           "max_confidence": 0.9,
+           "rive_files": ["./rive/theme/turing_test.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
            "import_path": "logic.RiveScriptAdapter"
        }
       ]
