@@ -8,11 +8,6 @@ class AlanLogicAdapter(LogicAdapter):
     def __init__(self, **kwargs):
         """Optional kwargs :
 
-        min_confidence
-        A float (from 0 to max_confidence). Default is 0.
-        The logici adapter should never return a lower confidence value.
-        This value should not change.
-
         max_confidence
         A float (from 0 to 1). Default is 1.
         The logici adapter should never return a greater confidence value.
@@ -37,12 +32,6 @@ class AlanLogicAdapter(LogicAdapter):
         Is the logic adapter allowed to repeat himself during a conversation
         """
         super().__init__(**kwargs)
-
-        # getting min_confidence
-        try:
-            self.min_confidence = float(kwargs.get('min_confidence', 0))
-        except ValueError:
-            raise TypeError("min_confidence must be a number")
 
         # getting max_confidence
         try:
@@ -142,7 +131,7 @@ class AlanLogicAdapter(LogicAdapter):
         else :
             if self.count < 3 :
                 self.count += 1
-            else:
+            else :
                 self.confidence_coefficient = self.min_confidence
 
     def one_shot(self, is_selected=False):
@@ -151,13 +140,13 @@ class AlanLogicAdapter(LogicAdapter):
         if not self.count:
             self.count = 1
         if is_selected:
-            self.confidence_coefficient = self.max_confidence
-            self.count += 1
+            if self.count = 1:
+                self.confidence_coefficient = self.max_confidence
+                self.count = 2
         else :
-            if self.count < 3 :
-                self.count += 1
-            else:
+            if self.count = 2 :
                 self.confidence_coefficient = self.min_confidence
+
     def greetings(self, is_selected=False):
         """increase the confidence coef to max confidence coef when adapter is
         selected. If Alan respond with another adapter two consecutive times,
@@ -166,10 +155,11 @@ class AlanLogicAdapter(LogicAdapter):
         if not self.count:
             self.count = 1
         if is_selected:
-            self.confidence_coefficient = self.max_confidence
-            self.count = 1
+            if self.count = 1:
+                self.confidence_coefficient = self.max_confidence
+                self.count = 2
         else :
             if self.count < 3 :
                 self.count += 1
-            else:
+            else :
                 self.confidence_coefficient = self.min_confidence
