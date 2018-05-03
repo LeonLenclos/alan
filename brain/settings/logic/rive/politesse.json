@@ -59,6 +59,7 @@
            "rive_files": ["./rive/politesse/salutations.rive"],
            "import_path": "logic.RiveScriptAdapter",
            "process_done_method": "greetings",
+           "confidence_coefficient": 0.6,
            "max_confidence": 0.8
        }
 
