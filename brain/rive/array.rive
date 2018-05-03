@@ -100,9 +100,9 @@
 ! array between = pas mal|moyen
 
 //negative
-! array negative = bad|blues|bof|ça ne va pas|ça pourrait aller mieux|ça va pas
-^ couci couça|coussi coussa|épuisé|fatigué
-^ j'ai connu des jours meilleurs|mal|malade|non|pas cool
+! array negative = bad|le blues|bof|ça ne va pas|ça pourrait aller mieux
+^ ça va pas|couci couça|coussi coussa|épuisé|fatigué
+^ j'ai connu des jours meilleurs|mal|malade|pas cool
 ^ pas en forme|pas la pêche|pas trop|pas trop la pêche|pas terrible|petite forme
 
 //positif
@@ -111,7 +111,7 @@
 ^ fantastique|faramineux|formidable|fou|génial|grosse forme
 ^ impeccablement|inconcevable|incroyable|inimaginable|inouï
 ^ insensé|la forme|la patate|la pêche|magique|merveilleux
-^ nickel|oui|parfaitement|péchu|pêchu|phénomenal|prodigieux|sensas
+^ nickel|parfaitement|péchu|pêchu|phénomenal|prodigieux|sensas
 ^ sensationnel|stupéfiant|super|surnaturel|terrible|top|tranquille
 ^ en pleine forme|grosse patate
 
