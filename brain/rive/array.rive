@@ -9,7 +9,8 @@
 ^ appelle moi|on m'appelle|c'est
 
 // hello
-! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour|hola
+! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour
+^ salutatation|hola
 
 // goodbye
 ! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientôt|au revoir
