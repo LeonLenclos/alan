@@ -146,11 +146,11 @@ class AlanLogicAdapter(LogicAdapter):
         if not self.count:
             self.count = 1
         if is_selected:
-            if self.count = 1:
+            if self.count == 1:
                 self.confidence_coefficient = self.max_confidence
                 self.count = 2
         else :
-            if self.count = 2 :
+            if self.count == 2 :
                 self.confidence_coefficient = self.min_confidence
 
     def greetings(self, is_selected=False):
@@ -160,7 +160,7 @@ class AlanLogicAdapter(LogicAdapter):
         if not self.count:
             self.count = 1
         if is_selected:
-            if self.count = 1:
+            if self.count == 1:
                 self.confidence_coefficient = self.max_confidence
                 self.count = 2
         else :
