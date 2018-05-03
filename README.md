@@ -36,7 +36,7 @@ Lorsque l'utilisateur dis quelque-chose à Alan, certains logic adapters se mett
 Le projet est encore en cours de développement, github est un outil adapté à ce contexte : il existe plusieurs "branches" qui sont des versions plus ou moins avancées d'Alan. Le Alan contenu dans la branche `master` doit normalement pouvoir fonctionner, il en est pour l'instant à la version 1. Il existe par exemple une branche développement sur laquelle nous travaillons et qui peut donc contenir un certain nombre de problèmes pas encores résolus. En attendant de pouvoir parler avec Alan sur internet vous pouvez suivre les indications suivantes pour installer Alan sur votre ordinateur ! Tout d'abord il vous faut télécharger ce dossier git en cliquant sur clone or download, puis rentrer les commandes suivantes dans le terminal depuis le dossier alan :
 
 
- ```
+```
   $ pip install -r requirements.txt
   $ python
   >>> import nltk
@@ -45,7 +45,23 @@ Le projet est encore en cours de développement, github est un outil adapté à 
   $ cd brain
   $ ./alan.py
   ```
+#### installer pyenchant sur mac
 
+```
+ $ brew install enchant --with-python
+ $ export PYENCHANT_LIBRARY_PATH=/usr/local/opt/enchant/lib/libenchant-2.dylib
+
+```
+puis telecharger la [source](https://github.com/rfk/pyenchant)
+```
+ $ python3 setup.py install
+```
+
+#### installer le dictionnaire francais sous linux
+
+```
+ $ sudo apt-get install myspell-fr-fr
+```
 ### indiquer des fichiers de réglage spécifique
 
 Par defaut, alan se lance avec les réglages contenu dans le fichier default.json.

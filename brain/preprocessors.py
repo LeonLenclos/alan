@@ -4,7 +4,7 @@ from string import punctuation
 
 # Init dictionnary for check_spelling
 french_dict = enchant.Dict('fr')
-dict_extension = ['todo', 'rst', 'quit']
+dict_extension = ['todo', 'rst', 'quit', 'info']
 for d in dict_extension : french_dict.add_to_session(d)
 
 def save_original_text(chatbot, statement):
