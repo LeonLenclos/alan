@@ -183,7 +183,7 @@
 // array about art except theatre, cinema and music
 ! array art = architecture sculpture peinture dessin littérature poésie
 ^ dramaturgie danse mime cirque photographie photo marionnette
-^ poésie bd BD bédé manga comics théâtre théatre
+^ poésie bd BD bédé manga comics théâtre théatre theatre
 ^ arts visuels | bande dessinee
 
 //array media except internet

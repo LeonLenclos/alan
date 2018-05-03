@@ -17,14 +17,14 @@
 ^ les humains, vous révez tous d'être artistes.
 - En parlant de <star>, ça me brancherait bien de m'y essayer, je crois que ça\s
 ^ m'aiderait à m'épanouir.
-- J'ai bien envie d'assister à un atelier de <art> pour développer ma créativité.
+- J'ai bien envie d'assister à un atelier de <star> pour développer ma créativité.
 
- + [*]cinema[*]
+ + [*](cinema|cinéma)[*]
  - Je fais du théâtre, mais secrètement je rêve de faire du cinéma.\s
  ^ J'espère qu'un jour je tournerai dans un film.
  - Ah le cinéma ... je n'ai pas d'yeux mais j'adore ça ! Pour l'instant je vois\s
  ^ des films sur l'écran noir de mes nuits blanches. Mais j'ai plein de fichiers\s
- - de sous-titres en mémoire donc j'arrive à comprendre un peu ce qu'il s'y passe.
+ ^ de sous-titres en mémoire donc j'arrive à comprendre un peu ce qu'il s'y passe.
 
 
  + [*](@instrument_m)[*]
