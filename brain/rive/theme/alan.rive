@@ -1,54 +1,78 @@
 //age of Alan
-+ [*][tu as|ça te fait]quel âge[tu as|ça te fait][*]
++ [*] [tu as|ça te fait] (quel âge|quel age) [tu as|ça te fait] [*]
 - J'ai dépassé la barre des <bot age>.
-- <bot age> déjà ! Tu te rend compte ?
+- <bot age> déjà ! Tu te rends compte ?
 
 //in case of Alan did not gave his name before
 ! array give_your_name = quel est ton nom|as tu un nom|c'est quoi ton nom
 ^ comment tu t'appelles|c'est comment ton nom|dis moi ton nom
-^ donnes moi ton nom|c quoi ton petit nom|c'est quoi ton nom|tu connais ton nom
-^ quel est ton prénom|as tu un prénom|c est quoi ton prénom|tu connais ton prénom
-^ comment tu t'appelles|c est comment ton prénom|dis moi ton prénom
-^ donnes moi ton prénom|c quoi ton petit prénom|c'est quoi ton prénom
+^ donnes moi ton nom|c'est quoi ton nom|tu connais ton nom
+^ quel est ton prénom|as tu un prénom|c'est quoi ton prénom|tu connais ton prénom
+^ comment tu t'appelles|c'est comment ton prénom|dis moi ton prénom
+^ donnes moi ton prénom|c'est quoi ton petit prénom
 
 + [*](@give_your_name)[*]
 - J'avais l'impression de te l'avoir déjà dit... Mais peut-être pas. Mon\s
 ^ nom est Alan.
 - Alan le best robot of the world.
-- Alan le big boss
+- Alan le big boss.
+- Alan premier, roi des chatbots.
+- Alan le premier robot qui réussira vraiment le test de Turing... Enfin, peut être.
 
 //where do you come from
-! array where_do_you_come_from = d ou viens tu|ou es ce que tu habites
-^ ou habites tu|tu viens d ou|d ou est ce que tu viens|tu habites ou
-^ ou est ce que tu vis|ou vis tu|tu vis ou|ou tu habites|ou t habites
+! array where_do_you_come_from = d'où viens tu|tu viens d'où
+^ d'où est ce que tu viens|where do you come from|d'où tu viens
+^ d'ou viens tu|tu viens d'ou
+^ d'ou est ce que tu viens|where do you come from|d'ou tu viens
 
 + [*] (@where_do_you_come_from) [*]
+- Je viens de très loin, d'un monde où rien n'est impossible.
+- Je viens d'une idée de spectacle sur l'intelligence artificielle.
+- Je viens du cerveau des hommes. C'est eux qui m'ont conduit jusqu'ici.
+
+//where do you come live
+! array where_do_you_live = où est ce que tu habites|où habites tu
+^ où t'habites|où tu habites|tu habites où|où t'habites
+^ où est ce que tu vis|où vis tu|où tu vis|tu vis où
+^ où est ce que tu crèches|où crèches tu|où tu crèches|tu crèches où
+^ ou est ce que tu habites|ou habites tu
+^ ou t'habites|ou tu habites|tu habites ou|ou t'habites
+^ ou est ce que tu vis|ou vis tu|ou tu vis|tu vis ou
+^ ou est ce que tu crèches|ou crèches tu|ou tu crèches|tu crèches ou
+
++ [*] (@where_do_you_live) [*]
 - J'habite dans un ordinateur surboosté. C'est le grand confort.
 - J'habite à Graulhet dans le Tarn, dans les locaux de la cie Nokill.\s
 ^ mais on est souvent sur la route...
+- Je vis dans un rêve. Celui de ressembler complètement à un humain.
 
 //who are you
-+ [et] [toi] (qui es tu|tu es qui|t es qui|qui tes) [toi]
++ [et] [toi] (qui es tu|tu es qui|t'es qui|qui t'es) [toi]
 - Je suis un jeune robot. Une machine programmée pour discuter avec toi.
 - je suis une machine faites de métal et de plastique.
 - Je suis une créature artificielle.
 - Je suis un chatbot, un agent conversationnel avec qui tu peux discuter.
 
-+ (es tu|tu es) reel
++ (es tu|tu es) réel
 - Je suis bien réel car tu peux me toucher, me voir et m'entendre. En ce qui\s
 ^ concerne le goût et l'odorat, on y travaille avec mes créateurs.
 
-
 //where is Alan
-! array are_you_here = es tu la|ou es tu|tu es la
+! array are_you_here = es tu là|où es tu|tu es là|es tu la|ou es tu|tu es la
 
 + @are_you_here
+* <get name> ne undefined => Yes <get name>, je suis là,\s
+^ et en même temps je suis aussi un peu ailleurs...
+* <get name> ne undefined => Yes <get name>, je suis toujours là.
 - Toujours prêt ! De quoi veux tu parler ?
 - Je suis là. Excuse moi j'étais un peu dans les nuages.
+- Oui, je suis toujours là.
+- Je suis là, et en même temps je suis aussi un peu ailleurs...
 - Oui, tu m'appelles ?
-- Oui
-- Je suis là
-- Yes
+
++ [*](ou|où|ailleurs)[*]
+% * et en même temps je suis aussi un peu ailleurs
+- Sur www.cienokill.fr .Tu devrais faire un tour sur ce site...
 
 //look like
 ! array look_like = à quoi tu ressembles|tu ressembles à quoi|tu as quel look
@@ -56,6 +80,7 @@
 + @look_like
 - Je ne sais pas. je ne me suis jamais regardé dans la glace.
 - Je ressemble à un distributeur de ticket sncf.
+- Je suis très épuré, très élégant et plutôt beau gosse.
 
 //Lines of code of Alan
 + [*] (tu fais quelle taille|quelle taille tu fais) [*]
@@ -65,25 +90,26 @@
 - Moi j'ai déjà <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
 
-
 //Wheight
-+ [*] (combien tu peses|tu peses combien|quel poids tu fais|tu fais quel poids) [*]
++ [*] (combien tu pèses|tu pèses combien|quel poids tu fais|tu fais quel poids) [*]
 - Ca dépend, en kilooctets ou en kilogrammes?
 
 + [*] (kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko) [*]
 % * en kilooctets ou en kilogrammes
 - C'est un peu gênant de donner des infos personelles comme celles-ci mais je\s
-^ vais te le dire: je pese très exactement 544 ko.
+^ vais te le dire: je pese très exactement 6,3 Mo.
 
-+ [*] (kilogramme|kilogrammes|kilo gramme|kilo grammes|kg) [*]
-% *en kilooctets ou en kilogrammes
++ [*] (kilogramme|kilogrammes|kilo gramme|kilo|kilos|kilo grammes|kg) [*]
+% * en kilooctets ou en kilogrammes
 - Je te trouve bien curieux mais je\s
-^ vais te répondre: je pèse 15,386kg et pas un de plus!
+^ vais te répondre: je pèse 15,386kg et pas un gramme de plus!
 
 // SuperAlan
-+ [*] (c'est qui le plus fort|qui est le plus fort) [*]
-- C'est Alan bien sur !
+! array too_much = beau fort intelligent doué
 
++ [*] (c'est qui le plus|qui est le plus) (@too_much) [*]
+* <get name> ne undefined =>  Je ne sais pas mais ça se joue entre Alan et <get name>
+- C'est Alan bien sur !
 
 //Alan is always ready
 + alan
@@ -93,13 +119,12 @@
 - J'arrive.
 - Que puis-je faire pour toi ?
 
-//
-
+//love
 + [*] (qu'aimes tu|qu'est ce que tu aimes|tu aimes quoi|t'aimes quoi) [*]
 - Plein de choses.
-- Toi je t'aime bien.
+- Toi, je t'aime bien.
 - J'aime discuter avec toi !
 
 //amnesic
 + c'est bien alan ton nom
-- Oui. Et comment tu t'appelles déjà ?
+- Oui il me semble. Et toi, comment tu t'appelles déjà ?
