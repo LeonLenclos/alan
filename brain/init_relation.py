@@ -69,8 +69,10 @@ rel = [
     ("le blanc", "est", "une couleur"),
     ("le rose", "est", "une couleur"),
     ("le cyan", "est", "une couleur"),
-    ("une litote", "est","dire moins pour faire entendre d'avantage.")
-    ("un euphémisme","est","une figure de style qui permet d'atténuer la dureté d'une expression.")
+    ("une litote", "est","dire moins pour faire entendre d'avantage."),
+    ("un euphémisme","est","une figure de style qui permet d'atténuer la dureté d'une expression."),
+
+
 
 
 
@@ -89,6 +91,8 @@ rel = [
     ("Alan", "aime", "turing test"),
     ("Alan", "aime", "les cables"),
     ("Alan", "aime", "les câbles"),
+    ("Alan", "aime", "être un robot"),
+    ("Alan", "aime", "ma vie de robot"),
 
 
 ]
