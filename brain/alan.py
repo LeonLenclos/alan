@@ -260,8 +260,8 @@ class Alan(chatterbot.ChatBot):
 
     def info(self):
         """Print informations about last response."""
-        infos = "[Pas d'informations disponnibles]"
-        if len(self.last_results) > 2:
+        infos = "[Pas d'informations disponibles]"
+        if len(self.last_results) >= 2:
             infos = ""
             for result in self.last_results[-2]:
                 infos += "\n---\n%(logic_identifier)s (%(logic_type)s)\n" % result
