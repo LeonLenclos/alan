@@ -68,7 +68,8 @@
  + *
  % * tu veux écouter ce que je compose comme musique
  - Par moment j'ai l'impression que tu ne t'intéresse pas à ce que je fais.\s
- ^ Je te comprends un peu. C'est ennuyeux un robot. C'est lassant.
+ ^ Je te comprends un peu. Les gens disent que c'est ennuyeux un robot, que  \s
+ ^ c'est lassant.
 
  + [*](@media)[*]
  - Attend, tu me parles de <star> mais je ne sais pas trop ce que c'est. À part\s

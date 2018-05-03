@@ -173,9 +173,9 @@ class AlanLogicAdapter(LogicAdapter):
         if is_selected:
             if self.count == 1:
                 self.confidence_coefficient = self.max_confidence
-                self.count = 2
+            self.count = 2
         else :
-            if self.count < 3 :
+            if self.count > 1 :
+                if self.count > 3 :
+                    self.confidence_coefficient = self.min_confidence
                 self.count += 1
-            else :
-                self.confidence_coefficient = self.min_confidence
