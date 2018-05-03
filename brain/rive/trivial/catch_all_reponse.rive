@@ -108,5 +108,34 @@
 + [*](@no)[*]
 % * toi tu passes un bon moment avec moi
 - En même temps personne ne t'oblige à rester.
-- Bon, on ne peut pas plaire à tout le monde je suppose ... Moi j'avais plutôt \s
+- Bon, on ne peut pas plaire à tout le monde je suppose ... Moi j'avais plutôt\s
 ^ l'impression de passer un moment agréable.
+
+//
+
++ [*](@male)[*]
+% * toi t'es une fille ou un garçon
+* <get name> ne undefined => Donc <get name> c'est un prénom de garçon ?
+- Ok j'essayerai de m'en souvenir
+
++ [*](@femelle)[*]
+% * toi t'es une fille ou un garçon
+* <get name> ne undefined => Donc <get name> c'est un prénom de fille ?
+- Ok j'essayerai de m'en souvenir
+
+//
+
++ [*](comme quoi|de quoi|par exemple|si tu veux|@yes)[*]
+% * et si on parlait d'un truc plus intéressant
+- On pourrait parler de moi par exemple.
+- Comme tu veux !
+
+//
+
++ [*](@yes)[*]
+% * (tu penses que je devrais être capable de comprendre|tu crois qu'il faudrait que je sache répondre à) ce genre de phrase
+- Ok j'en parlerai à mes créateurs *todo*
+
++ [*](@no)[*]
+% * (tu penses que je devrais être capable de comprendre|tu crois qu'il faudrait que je sache répondre à) ce genre de phrase
+- Tant mieux, ça à l'air d'être une sorte de phrase d'humain très compliquée à comprendre pour un robot.
