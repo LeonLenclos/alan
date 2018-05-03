@@ -28,7 +28,7 @@ class NiOuiNiNon(AlanLogicAdapter):
 
     def can_process(self, statement):
         # Process only if there is a latest statement in the conversation
-        return True
+        return 'non' in statement.text.lower() and 'oui' in statement.text.lower()
 
     def process_begin(self, statement):
         confidence = compare(statement.text, self.questions)
