@@ -82,13 +82,8 @@
 
 //yes
 ! array yes =  yes|oui|à fond|j'adore|j'ai adore|ça me plait|ça m'a plu|beaucoup
-<<<<<<< HEAD
-^ absolument|assurément|à merveille|bien|bien sur|certainement|certes|d'accord
-^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement|carrément
-=======
 ^ absolument|assurément|à merveille|bien|bien sur|carrément|certainement|certes|d'accord
 ^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
->>>>>>> 0e9d14b45313872ae68e4a14f57bdcde5afdd9b8
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si
 
