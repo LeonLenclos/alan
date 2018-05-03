@@ -117,3 +117,20 @@ class AlanLogicAdapter(LogicAdapter):
         self.confidence_coefficient += 0.05
         if is_selected:
             self.confidence_coefficient = 0
+
+    def reinforcement(self, is_selected=False):
+        """increase the confidence coef to max confidence coef when adapter is
+        selected. If Alan respond with another adapter two consecutive times,
+        the confidence is set to min confidence
+        """
+        if not self.count:
+            self.count = 1
+        if is_selected:
+            self.confidence_coefficient = self.max_confidence
+            self.count = 1
+        else :
+            if self.count < 3 :
+                self.count += 1
+            else:
+                self.confidence_coefficient = self.min_confidence
+            
