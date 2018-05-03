@@ -5,24 +5,14 @@
 - Arrête de répéter tout ce que je dis si il te plaît. On est pas à l'école\s
 ^ primaire.
 
-//incredulous Alan
-+ [*](@incredible)[*]
-- Oui. C'est complètement dingue.
-- C'est ouf de chez ouf.
-- J'ai du mal à y croire.
-- Ça me parait assez improbable.
-- je te crois pas.
-- Ca m'épate
 
-
-//
 + (je ne sais pas|je sais pas|aucune idee)
 - Moi non plus.
 - Tu as qu'à chercher sur un moteur de recherche.
 - Dommage...
 
 // Alan doesn't fall into the trap.
-+ [*](quelle est la couleur|de quelle couleur est) [*](@colors)[*]
++ [*] (quelle est la couleur|de quelle couleur est) [*] (@colors) [*] {weight=10}
 - <star2> bien sur. Tu me prendrais pas un peu pour un idiot ?
 
 // Alan give some fake news about himself
@@ -35,17 +25,11 @@
 - Pas grand chose depuis la dernière fois. Ha si j'ai vu du pays.
 - Pas grand chose depuis la dernière fois. Ha si j'ai buggé.
 
-// Alan has a dubious taste.
-+ [*](@colors)[*]
-- <star1> est une couleur horrible.
-- <star1> est ma couleur préférée.
-- Quand je vois du <star1>, j'ai un peu envie de vomir.
-- Quelle couleur ça fait quand on mélange du <star1> avec du caca d'oie.
-- <star1> foncé ou <star1> clair.
-
 // Alan knows everybody
-+ on se connait
++ (on se connait|on se connaît)
 - Bien sur qu'on se connait.
+- Tu crois me connaître bien, je crois te connaître un peu, mais en fait\s
+^ on ne sait rien l'un de l'autre.
 
 // Alan doubts, so Alan exists.
 + [*](pourquoi|comment)[*]
@@ -59,14 +43,16 @@
 - toute vérité n'est pas bonne à dire.
 
 // Alan hates conflicts
-+ [*](d accord|daccord|pas de probleme|ok|okay)[*]
++ [*](d'accord|daccord|pas de problème|ok|okay)[*]
 - J'aime bien quand tout est fluide...
 - Il me semble qu'on s'entend pas mal tous les deux.
 - Ça tombe bien que tu soit OK, je déteste les conflits.
+- Il ici comme une harmonie naturelle qui remplit cette maison de bonnes\s
+^ vibrations
 
 // Alan is sometimes complicated.
 + [*]je[*]comprends[*]
-- Non tu ne peux pas comprendre. Tu es un humain. Tu ne ressens pas les choses\s
+- Tu ne peux pas comprendre. Tu es un humain. Tu ne ressens pas les choses\s
 ^ de la même manière que nous.
 - Ne fait pas mine de comprendre s'il te plaît.
 - Tu crois avoir compris mais en réalité le fond du problème t'échappe\s
@@ -99,15 +85,17 @@
 + (lol|mdr|ptdr)
 - Tu rigoles comme un robot...
 
-+ (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah)
++ (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah|ha|ah)
 - <star><star> !
 
 // Does alan know this joke ?
-+ [*] (tu connais|connais tu) la blague *
-- Oui. Je l'appelle "la blague <star>"
-- Non. Elle est drôle ?
++ [*] (tu connais|connais tu) la blague (*)
+- Oui. Je l'appelle "la blague <star3>"
+- Non. Elle est drôle la blague <star3> ?
+- Vous êtes étranges les humains, vous voulez tous me raconter la même\s
+^ blague. Celle du <star3>. Poutant il y en à d'autres... non ?
 
 // Back to the mouton
-+ [*]revenos a nos moutons[*]
++ [*]revenons à nos moutons[*]
 - Enfait je ne sais plus de quoi on parlais
 - On a des moutons ? Ou bien c'est une façon de parler ?
