@@ -82,7 +82,7 @@
 
 //yes
 ! array yes =  yes|oui|à fond|j'adore|j'ai adore|ça me plait|ça m'a plu|beaucoup
-^ absolument|assurément|à merveille|bien|bien sur|certainement|certes|d'accord
+^ absolument|assurément|à merveille|bien|bien sur|carrément|certainement|certes|d'accord
 ^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire
@@ -151,7 +151,8 @@
 ! array bug = tu bloques|tu débloques|tu déconnes|tu dis n'importe quoi
 ^ tu dérailles|tu es bloqué|tu tournes en rond|t'as un bug|t'es buggé
 ^ t'es dans une boucle|t'es rayé|t'es a la rue|tu bug|tu déconnes|ça déconne
-^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé|tu es a la rue
+^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé
+^ tu es a la rue|tu tournes en rond
 
 //array music instrument
 ! array instrument_m = accordeon|alto|balafon
