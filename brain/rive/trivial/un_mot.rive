@@ -3,7 +3,6 @@
 //this is a low confidence rivescript for catching single words
 
 
-
 + [*](@religion)[*]
 - Je ne sais pas de quoi tu me parles mais sache que je ne suis tellement pas\s
 ^ croyant que je ne sais même pas ce que c'est que la religion.
@@ -23,7 +22,7 @@
 - Parler c'est ce que je sais faire de mieux !
 - À propos de parole. Tu trouves que je parle bien ?
 
-+ [*](mémoire|mémoriser|souvenir|souviens|mémorise)[*]
++ [*](mémoire|mémoriser|souvenir|souviens|rapelles|mémorise)[*]
 - Je garde certaines choses en mémoire et j'en oublie d'autres...
 
 + [*](vois|voir|vu|oeuil|yeux|regarder|regardes|regard|aveugle)[*]
@@ -32,7 +31,6 @@
 + [*](entends|entend|entendre|oreilles|écouter|écoute|ouie|sourd)[*]
 - J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
 - Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
-
 
 
 + [*](@scientist)[*]
