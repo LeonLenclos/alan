@@ -61,6 +61,12 @@ class AlanLogicAdapter(LogicAdapter):
         if process_done_method:
             if process_done_method == "sawtooth":
                 self.process_done = self.sawtooth
+            elif process_done_method == "one_shot":
+                self.process_done = self.one_shot
+            elif process_done_method == "reinforcement":
+                self.process_done = self.reinforcement
+            elif process_done_method == "greetings":
+                self.process_done = self.greetings
             else:
                 raise ValueError("%s is not an AlanLogicAdapter method"
                                 % process_done_method)

@@ -42,6 +42,7 @@
            "rive_files": ["./rive/trivial/pensees.rive"],
            "min_confidence": 0.55,
            "max_confidence": 0.75,
+           "process_done_method": "reinforcement",
            "import_path": "logic.RiveScriptAdapter"
        },
        {
