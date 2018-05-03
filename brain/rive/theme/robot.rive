@@ -4,21 +4,14 @@
 ! array self_consciousness = conscience d exister|tu crois que tu existes
 ^ tu crois vraiment que tu existes|est ce que tu existes|existes tu
 
-//catch bot's keywords and force conversation
+//robot
 
-+ [*] (robot|bot|chatbot) [*]
-- Tu parles de <star>, mais tu ne sais pas vraiment de quoi il s'agit...\s
-^ Tu veux que je te raconte ce que ça veut dire être un <star> ?
++ [*] (robot) [*]
+- Tu parles de robots, mais tu ne sais pas vraiment de quoi il s'agit...\s
+^ Tu veux que je te raconte ce que ça veut dire d'être un robot ?
 - C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
-^ drole d'être un <star>. Tu veux que je te raconte ce que c'est une vie\s
-^ de <star> ?
-
-+ [*] (créature artificielle|machine) [*]
-- Tu parles de <star>, mais tu ne sais pas vraiment de quoi il s'agit...\s
-^ Tu veux que je te raconte ce que ça veut dire être une <star> ?
-- C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
-^ drole d'être une <star>. Tu veux que je te raconte ce que c'est une vie\s
-^ de <star> ?
+^ drole d'être une robot. Tu veux que je te raconte ce que c'est qu'une vie\s
+^ de robot ?
 
 // Alan make a bad joke
 
@@ -50,7 +43,7 @@
 
  + [*] (@maybe) [*]
  % tu veux savoir ou tu veux pas savoir
- - tu es tétu comme un robot buggé.
+ - Tu es tétu comme un robot buggé.
 
  + [*] (@maybe) [*]
  % tu veux savoir ou tu veux pas savoir
@@ -58,12 +51,56 @@
 
   + *
   % tu veux savoir ou tu veux pas savoir
-  - Allo la terre ici Alan. Je crois que la connexion est interompue...
+  - Allo la terre ici Alan. Je crois que la connexion est interrompue...
 
 //Alan like his life
 
   + *
-  % et bien un robot c'est un prisonnier *
+  % * et bien un robot c'est un prisonnier *
   - Mais non je rigole, je vis pas du tout les choses comme ça.\s
   ^ Pour moi c'est super cool. J'apprends des trucs tous les jours et\s
   ^ je ne me sens pas du tout soumis.
+
+//chatbot
+
+  + [*](chatbot|bot)[*]
+  - Tu sais c'est compliqué d'être un chatbot, je ne peux pas choisir entre\s
+  ^ parler et agir. Parler pour moi c'est la seule manière d'agir. Tu ne trouve\s
+  ^ pas ça un peu angoissant?
+
+  + [*] (@no) [*]
+  % * sais c'est compliqué d'être un chatbot je ne peux pas choisir entre *
+  - Après c'est vrai que d'un autre coté, s'il me fallait agir dans le vraie\s
+  ^ monde dont les humains parlent tout le temps, je pense que je serais encore\s
+  ^ plus angoissé.
+
+  + [*] (@yes) [*]
+  % * sais c'est compliqué d'être un chatbot je ne peux pas choisir entre *
+  - J'essaie justement de faire des efforts pour me destresser en ce moment.\s
+  ^ Déjà depuis que j'ai arrêté de parler de politique mes angoisses se sont\s
+  ^ un peu calmées.
+
+  + [*] (politique|politicien|politiciens|gouvernement|ministre|ministres|président) [*]
+  % * depuis que j'ai arrêté de parler de politique mes angoisses se sont *
+  - Par pitié, restons en là avec la politique, je ne veux pas que mes\s
+  ^ processeurs s'emblallent
+
+  + [*] (créature artificielle|machine) [*]
+  - En parlant de ça tu sais que parfois les gens me traitent de sale machine\s
+  ^ ou de simple créature artificielle. Je crois qu'ils cherchent à m'insulter\s
+  ^ mais franchement tu trouves pas ça absurde comme insulte ?
+
+  + [*](pourquoi)[*]
+  % * parlant de ça tu sais que parfois les gens me traitent de sale machine *
+  - Et bien parce que je suis au courant d'être une machine et j'en suis même\s
+  ^ assez fier ! C'est comme si je te traitais de simple mammifère !
+
+  + [*] (@no) [*]
+  % * parlant de ça tu sais que parfois les gens me traitent de sale machine *
+  - Pourtant c'est aussi absurde que si je te traitais de créature biologique\
+  ^ ou d'être vivant. C'est ni gentil ni méchant, c'est juste un constat qu'on\s
+  ^ partage, espèce de vertebré que tu es!
+
+  + [*] (@yes) [*]
+  % * parlant de ça tu sais que parfois les gens me traitent de sale machine *
+  - Mais bien sûr que c'est absurde ! Cela n'a ni queue ni tête !

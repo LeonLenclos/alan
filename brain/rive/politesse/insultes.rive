@@ -50,7 +50,7 @@
 ^ tu es paumé. Tu sais pas ce que tu es.
 
 //réponse générique de Alan à des outrages première fois
-+ (@outrages)
++ [*](@outrages)[*]
 - Écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi s'il te plait.
 - <star> toi même. C'est quoi ce language ?
 - Ça t'arracherait la langue d'être poli ?
