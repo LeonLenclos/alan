@@ -22,7 +22,7 @@
           "skill_description": ["parce que tu m'a demandé de te renseigner sur mon état de forme"],
           "rive_files": [
                "./rive/politesse/divers.rive"],
-          "max_confidence": 0.5,
+          "max_confidence": 0.45,
           "import_path": "logic.RiveScriptAdapter"
        },
        {
