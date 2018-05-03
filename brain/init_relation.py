@@ -85,7 +85,7 @@ rel = [
     ("Alan", "aime", "l'humanité"),
     ("Alan", "aime", "la musique"),
     ("Alan", "aime", "la musique générative"),
-    ("Alan", "aime", "Alant Turing"),
+    ("Alan", "aime", "Alan Turing"),
     ("Alan", "aime", "alan turing"),
     ("Alan", "aime", "Turing Test"),
     ("Alan", "aime", "turing test"),
@@ -93,8 +93,8 @@ rel = [
     ("Alan", "aime", "les câbles"),
     ("Alan", "aime", "être un robot"),
     ("Alan", "aime", "ma vie de robot"),
-
-
+    ("Alan", "aime", "les films de gladiateurs"),
+    ("Alan", "aime", "les films de gladiateur"),
 ]
 
 neg_rel = [
