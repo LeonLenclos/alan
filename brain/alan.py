@@ -250,21 +250,26 @@ class Alan(chatterbot.ChatBot):
 
     def todo(self):
         """Write 4 last statements in the todo file."""
+        count = len(self.last_results) if len(self.last_results) < 6 else 6
         with open("../todo", "a") as f:
-            f.write("\n\n> %s\n%s\n> %s\n%s"
-                % tuple([self.storage.get_latest_statement(offset=i+2)
-                for i in reversed(range(4))]))
+            f.write('\n'*3 + '\n'.join([
+                ('> ' if i%2 != count%2 else '') +
+                self.storage.get_latest_statement(offset=i+2).text
+                for i in reversed(range(count))
+            ]))
 
     def info(self):
         """Print informations about last response."""
-        infos = ''
-        for result in self.last_results[-2]:
-            infos += "\n---\n%(logic_identifier)s (%(logic_type)s)\n" % result
-            if "text" in result:
-                if result["not_allowed_to_repeat"]:
-                    infos += "NOT ALLOWED TO REPEAT"
-                infos += "(%(confidence).2f) '%(text)s'" % result
-            else: infos += "NOT PROCESSING"
+        infos = "[Pas d'informations disponnibles]"
+        if len(self.last_results) > 2:
+            infos = ""
+            for result in self.last_results[-2]:
+                infos += "\n---\n%(logic_identifier)s (%(logic_type)s)\n" % result
+                if "text" in result:
+                    if result["not_allowed_to_repeat"]:
+                        infos += "NOT ALLOWED TO REPEAT"
+                    infos += "(%(confidence).2f) '%(text)s'" % result
+                else: infos += "NOT PROCESSING"
         print(infos)
 
     def main_loop(self):
