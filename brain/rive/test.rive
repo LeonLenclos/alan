@@ -1,0 +1,9 @@
+! version = 2.0
+
+// Person substitutions
+
++ a
+- b
+
++ a
+- c
