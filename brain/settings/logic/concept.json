@@ -20,7 +20,7 @@
               "En deux ou trois mots, c'est quoi %(A)s pour toi ?",
               "C'est quoi %(A)s"
             ],
-            "max_confidence": 0.7
+            "max_confidence": 0.6
 
         },
         {
@@ -39,7 +39,7 @@
               "Merci ! Maintenant que je sais ce qu'est %(concept_A)s j'ai l'impression d'avoir une vision plus précise du monde..."
             ],
             "import_path": "logic.EsakoAdapter",
-            "max_confidence": 0.9
+            "max_confidence": 0.6
 
 
         },
@@ -49,7 +49,7 @@
              "skill_description": ["J'aime parler de ce qu'aiment les uns et les autres."],
              "import_path": "logic.AimeAdapter",
              "relation": "aime",
-             "max_confidence": 0.75
+             "max_confidence": 0.6
 
         }
       ]

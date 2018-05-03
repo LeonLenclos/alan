@@ -81,7 +81,7 @@
 ^ vais te répondre: je pèse 15,386kg et pas un de plus!
 
 // SuperAlan
-+ [*] (c est qui le plus fort|qui est le plus fort) [*]
++ [*] (c'est qui le plus fort|qui est le plus fort) [*]
 - C'est Alan bien sur !
 
 
@@ -94,7 +94,8 @@
 - Que puis-je faire pour toi ?
 
 //
-+ [*] (qu aimes tu|qu est ce que tu aimes|tu aimes quoi|t aimes quoi) [*]
+
++ [*] (qu'aimes tu|qu'est ce que tu aimes|tu aimes quoi|t'aimes quoi) [*]
 - Plein de choses.
 - Toi je t'aime bien.
 - J'aime discuter avec toi !
