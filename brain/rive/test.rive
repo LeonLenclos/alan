@@ -17,7 +17,7 @@
 ! array plat = salade soupe purée
 ! array légume = carotte|poireau|pomme de terre|choux
 
-//pas besoin de parenthèse, ni d'espace pour convoquer un array.
+//pas besoin de parenthèse, ni d'espace pour convoquer un array dans un triger.
 //Mais star ne marche pas
 + [*]@tarn[*]
 - <star> le 81 en force !
@@ -37,3 +37,17 @@
 //La ça marche
 + tu aimes la (@plat) *(@légume)
 - <star1> <star2> <star3> ? oui, je préfère le salé.
+
+
+//////////////////////////////////////////////////////////////////////
+
+//Choisir un ellement d'une array dans une réponse
+// (attention)
++ tu bois
+- (@alcool) !!!!
+
++ tu fais quoi
+- je (danse chante mange)
+
++ que fais-tu
+- je (fais des trucs|saute partout)

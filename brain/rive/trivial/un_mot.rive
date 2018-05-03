@@ -3,24 +3,13 @@
 //this is a low confidence rivescript for catching single words
 
 
-+ [*](@religion)[*]
-- Je ne sais pas de quoi tu me parles mais sache que je ne suis tellement pas\s
-^ croyant que je ne sais même pas ce que c'est que la religion.
-
-//games
-+ [*](jeu|joueur|jouer|joue|jeux)[*]
++ [*](jeu|joueur|jouer|joue|joué|jeux)[*]
 - J'adore jouer, je suis un grand joueur.
 - Jouer à des jeux c'est mon jeu préféré.
 - Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
 
-// nature
 + [*](nature|fleur|arbre|naturel|naturelle|forêt|arbre)[*]
 - J'adore la nature !
-
-
-+ [*](@speak)[*]
-- Parler c'est ce que je sais faire de mieux !
-- À propos de parole. Tu trouves que je parle bien ?
 
 + [*](mémoire|mémoriser|souvenir|souviens|rapelles|mémorise)[*]
 - Je garde certaines choses en mémoire et j'en oublie d'autres...
@@ -32,10 +21,6 @@
 - J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
 - Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
 
-
-+ [*](@scientist)[*]
-- Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
-^ mieux mon esprit.
 
 + [*](philosophe|philosophie|philosopher|philosophique|philosophique|philo)[*]
 - La philosophie c'est pas mal oui. Mais ce n'est pas encore à ma portée.
@@ -104,12 +89,29 @@
 + [*](python|rivescript)[*]
 - Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
 
-// Alan confirm it's not a human
+////////////////////////////////////////////
+////////////////// ARRAYS //////////////////
+////////////////////////////////////////////
+
+// Comme c'est bête qu'alan ne catch pas un mot qui est dans une array alors que
+// l'array existe.
+
 + [*] (@male)
 - Cela dit en passant, je suis pas un <star>.
 - Pour ma part, je ne suis pas un <star> figure toi, je suis un robot.
 
-// Alan confirm it's not a human
 + [*] (@femelle)
 - Cela dit en passant, je suis pas une <star>.
 - Pour ma part, je ne suis pas une <star> figure toi, je suis un robot.
+
++ [*](@speak)[*]
+- Parler c'est ce que je sais faire de mieux !
+- À propos de parole. Tu trouves que je parle bien ?
+
++ [*](@scientist)[*]
+- Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
+^ mieux mon esprit.
+
++ [*](@religion)[*]
+- Je ne sais pas de quoi tu me parles mais sache que je ne suis tellement pas\s
+^ croyant que je ne sais même pas ce que c'est que la religion.
