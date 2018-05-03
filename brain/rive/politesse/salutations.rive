@@ -44,7 +44,11 @@
 * <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais\s
 ^ pas reconnu. Comment va la forme aujourd'hui ?
 * <formal> == Fabien => <set name=<formal>>Salut <get name>, ta barbe est\s
+<<<<<<< HEAD
+  ^ sublime aujourd'hui, comment tu vas ?
+=======
 ^ sublime aujourd'hui, comment tu vas ?
+>>>>>>> 6eea93698adb01115506e119733ad14e7267243d
 * <formal> == Léon => <set name=<formal>>Ho <get name>, je savais que\s
 ^ c'était toi. Est ce que ça va ?
 
