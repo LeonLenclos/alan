@@ -3,58 +3,52 @@
        {
            "identifier": "catch_all_faible_reponse",
            "skill_description": ["pour donner un peu de sens à cette conversation"],
-           "rive_files": [
-                "./rive/trivial/catch_all_faible_reponse.rive"],
-           "max_confidence": 0.35,
+           "rive_files": ["./rive/trivial/catch_all_faible_reponse.rive"],
+           "max_confidence": 0.3,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "catch_all_reponse",
            "skill_description": ["pour donner un peu de sens à cette conversation"],
-           "rive_files": [
-                "./rive/trivial/catch_all_reponse.rive"],
-           "max_confidence": 0.45,
+           "rive_files": ["./rive/trivial/catch_all_reponse.rive"],
+           "max_confidence": 0.6,
            "import_path": "logic.RiveScriptAdapter"
        },
 
        {
            "identifier": "decales",
            "skill_description": ["j'ai dis ça comme ça"],
-           "rive_files": [
-               "./rive/trivial/decales.rive"],
-           "max_confidence": 0.35,
+           "rive_files": ["./rive/trivial/decales.rive"],
+           "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "formel",
            "skill_description": ["Je sais pas."],
-           "rive_files": [
-               "./rive/trivial/formel.rive"],
-           "max_confidence": 0.3,
+           "rive_files": ["./rive/trivial/formel.rive"],
+           "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "mainstream",
            "skill_description": ["parce que c'est vrai"],
-           "rive_files": [
-               "./rive/trivial/mainstream.rive"],
-           "max_confidence": 0.4,
+           "rive_files": ["./rive/trivial/mainstream.rive"],
+           "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "pensees",
            "skill_description": ["Je voulais parler de mes pensées et écouter les tiennes..."],
-           "rive_files": [
-               "./rive/trivial/pensees.rive"],
-           "max_confidence": 0.9,
+           "rive_files": ["./rive/trivial/pensees.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "un_mot",
            "skill_description": ["J'ai préféré dire ça plutôt que de me taire."],
-           "rive_files": [
-               "./rive/trivial/un_mot.rive"],
-           "max_confidence": 0.25,
+           "rive_files": ["./rive/trivial/un_mot.rive"],
+           "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        }
       ]
