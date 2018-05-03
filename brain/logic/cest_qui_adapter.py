@@ -93,12 +93,14 @@ class CestQuiAdapter(AlanLogicAdapter):
         # Get the interrogative part of the question that is before the concept_A
         if len(concept_A) != 0:
             question = statement.text.split(concept_A)[0]
+            question = question.strip()
+
         # Magic substitution to change things like "ton" into "mon"
             concept_A = utils.magic_sub(concept_A)
         else:
             confidence=0
         # Get the distance between input statement and questions list
-        confidence = utils.compare(question, self.questions)
+        confidence = utils.compare(question,self.questions)
 
         concept_B = self.chatbot.storage.get_related_concept(concept_A, self.relation)
 
@@ -123,7 +125,7 @@ class CestQuiAdapter(AlanLogicAdapter):
 
 
         response = response % {"A":concept_A, "B":concept_B, "rel":self.relation }
-        # Verify that concept_A is non-empty or to big (more than 4 words),
+        # Verify that concept_A is non-empty or to big (more than 3 words),
         #  if it is then change confidence to 0
         if len(concept_A) == 0 or len(concept_A.split(" "))>3:
             confidence=0

@@ -6,16 +6,16 @@
             "skill_description": ["J'aime savoir ce que sont les choses."],
             "import_path": "logic.CestQuiAdapter",
             "questions": [
-              "C'est qui ",
-              "C est qui ",
-              "Qui c'est ",
+              "C'est qui",
+              "C est qui",
+              "Qui c'est",
               "Qui est",
-              "Tu sais qui est ",
-              "Tu sais qui c'est ",
-              "Sais-tu qui c'est ",
-              "Sais-tu qui est ",
-              "Sais tu qui c'est ",
-              "Sais tu qui est "
+              "Tu sais qui est",
+              "Tu sais qui c'est",
+              "Sais-tu qui c'est",
+              "Sais-tu qui est",
+              "Sais tu qui c'est",
+              "Sais tu qui est"
             ],
             "relation": "est",
             "ask": [
