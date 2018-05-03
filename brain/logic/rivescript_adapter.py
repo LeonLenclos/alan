@@ -1,5 +1,6 @@
 from chatterbot.conversation import Statement
 import rivescript
+import re
 
 from logic import AlanLogicAdapter
 from utils import remove_punctuation
@@ -48,6 +49,7 @@ class RiveScriptAdapter(AlanLogicAdapter):
         """take a statment and ask a reply to the interpreter"""
         user = "human"
         text = remove_punctuation(statement.text, False)
+        text = re.sub('-', ' ', text)
 
         # set last reply as the real reply
         history = self.interpreter.get_uservar(user, "__history__")

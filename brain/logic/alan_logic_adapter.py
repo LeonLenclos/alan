@@ -131,7 +131,7 @@ class AlanLogicAdapter(LogicAdapter):
         """increase the confidence coefficient
         when adapter is selected set it to 0
         """
-        self.confidence_coefficient += 0.05
+        self.confidence_coefficient += 0.02
         if is_selected:
             self.confidence_coefficient = 0
 
