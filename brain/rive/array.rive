@@ -83,9 +83,9 @@
 //yes
 ! array yes =  yes|oui|à fond|j'adore|j'ai adore|ça me plait|ça m'a plu|beaucoup
 ^ absolument|assurément|à merveille|bien|bien sur|certainement|certes|d'accord
-^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
+^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement|carrément
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
-^ c'est ça|tu as compris|c'est ce que je veux dire
+^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si
 
 //yesno = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
