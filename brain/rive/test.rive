@@ -7,3 +7,33 @@
 
 + a
 - c
+
+//////////////////// array, espaces, crochets et parenthèses///////////////////////////
+
+! array tarn = graulhet lavaur albi gaillac
+! array pays = france belgique suisse
+! array alcool = vin bierre whisky porto
+! array fruit = pomme poire orange
+! array plat = salade soupe purée
+! array légume = carotte|poireau|pomme de terre|choux
+
+//pas besoin de parenthèse, ni d'espace pour convoquer un array.
+//Mais star ne marche pas
++ [*]@tarn[*]
+- <star> le 81 en force !
+
+//Pour que star marche, il faut les parenthèses
++ [*](@alcool)[*]
+- <star> à la tienne
+
+//Entre étoiles, crochets et parenthèses, l'espace est inutile mais fonctionne
++ *(@pays) [*]
+- vive la <star2>
+
+//Entre un mot et une parenthèse, l'espace est obligatoire
++ tu aimes la(@plat) * (@fruit)
+- <star1>de<star3> ? Non, je ne suis pas très sucre.
+
+//La ça marche
++ tu aimes la (@plat) *(@légume)
+- <star1> <star2> <star3> ? oui, je préfère le salé.
