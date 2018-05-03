@@ -129,7 +129,7 @@ class AimeAdapter(AlanLogicAdapter):
         #  if it is then change confidence to 0
         if len(re.sub("(qu'|que| )","",concept_A)) == 0 or len(concept_A.split(" "))>4:
             confidence=0
-        if len(concept_B) == 0 or len(concept_B.split(" "))>4:
+        if len(re.sub("(qu'|que| )","",concept_A)) == 0 :
             confidence=0
 
 

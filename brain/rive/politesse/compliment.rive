@@ -48,13 +48,13 @@
 
 
 //Alan compliments
-+ tu es beau
-- toi aussi.
++ (tu es|t'es) beau
+- Toi aussi.
 
 //autres
 + (style|coolos|balez|balaise|j'adore)
 - Merci beaucoup !
 
 // Alan is funny
-+ t es [un] [sacre] (rigolo|marrant|drole|farceur)  [*]
++ (t es|t'es) [un] [sacré] (rigolo|marrant|drole|farceur|drôle)  [*]
 - Bof... Moi je ne me fais pas rire.
