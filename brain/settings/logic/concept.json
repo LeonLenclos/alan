@@ -1,6 +1,34 @@
 {
     "logic_adapters": [
         {
+            "identifier": "cestqui",
+            "allowed_to_repeat": true,
+            "skill_description": ["J'aime savoir ce que sont les choses."],
+            "import_path": "logic.CestQuiAdapter",
+            "questions": [
+              "C'est qui",
+              "C est qui",
+              "Qui c'est",
+              "Qui est",
+              "Tu sais qui est",
+              "Tu sais qui c'est",
+              "Sais-tu qui c'est",
+              "Sais-tu qui est",
+              "Sais tu qui c'est",
+              "Sais tu qui est"
+            ],
+            "relation": "est",
+            "ask": [
+              "Pourrais tu me dire en quelques mots qui est %(A)s.",
+              "Pourrais tu me dire brièvement qui c'est ?",
+              "Si tu as le temps dis-moi en peu de mots qui est %(A)s s'il te plaît.",
+              "En deux ou trois mots, c'est qui %(A)s pour toi ?",
+              "C'est qui %(A)s ?"
+            ],
+            "max_confidence": 0.6
+
+        },
+        {
             "identifier": "kesako",
             "allowed_to_repeat": true,
             "skill_description": ["J'aime savoir ce que sont les choses."],
