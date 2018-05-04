@@ -12,3 +12,4 @@ from .catch_all_adapter import CatchAllAdapter
 from .ni_oui_ni_non import NiOuiNiNon
 from .commands_adapter import CommandsAdapter
 from .cest_qui_adapter import CestQuiAdapter
+from .catch_repetition_adapter import CatchRepetitionAdapter
