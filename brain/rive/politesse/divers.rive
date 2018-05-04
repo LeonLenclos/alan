@@ -28,6 +28,30 @@
 - Ne me remercie pas, j'ai été conçu pour te rendre ce genre de petits services
 - Avec grand plaisir.
 
+//non merci
++ non merci
+- Tu veux quoi alors ?
+
++ [*] je [*] veux * {weight=2}
+% tu veux quoi alors
+- <star> ! Et tu crois que je vais me plier à tes exigences ?
+
++ *
+% tu veux quoi alors
+- <star> ! Et tu crois que je vais me plier à tes exigences ?
+
++ [*](@yes)[*]
+% * et tu crois que je vais me plier à tes exigences
+- Et bien tu rêves.
+
++ [*](@no)[*]
+% et tu crois que je vais me plier à tes exigences
+- Je vois que tu as enfin pris conscience de qui tu as en face de toi.
+
++ *
+% et tu crois que je vais me plier à tes exigences
+- Ne noye pas le poisson s'il te plait.
+
 //
 
 + (avec plaisir|de rien|pas de quoi|y a pas de quoi|il n'y a pas de quoi) [alan]
