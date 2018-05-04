@@ -135,8 +135,7 @@ neg_rel = [
 alan = alan.Alan(["default"])
 for r in rel:
     alan.storage.store_concept_association(*r)
-    print (*r)
+    print(*r)
 for r in neg_rel:
     alan.storage.store_concept_association(*r, negative=True)
-    print ("négation")
-    print (*r)
+    print("négation :", *r)
