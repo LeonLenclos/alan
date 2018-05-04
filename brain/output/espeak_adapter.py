@@ -16,6 +16,7 @@ class EspeakAdapter(OutputAdapter):
         super().__init__(**kwargs)
         self.voice = kwargs.get("voice", 'fr')
         self.speed = kwargs.get("speed", 175)
+        self.gap = kwargs.get("gap", 10)
 
     def process_response(self, statement, session_id=None):
         """
@@ -26,10 +27,11 @@ class EspeakAdapter(OutputAdapter):
         # setsid is for not showing mbrola errors
         # see : https://stackoverflow.com/a/50072485/8752259
         # add it if you want. (  '_>')
-        
+
         command = [ 'espeak',
                    '-v', self.voice,
                    '-s', str(self.speed),
+                   '-g', str(self.gap),
                    statement.text]
         subprocess.run(command)
         return statement

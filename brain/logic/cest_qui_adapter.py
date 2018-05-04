@@ -134,7 +134,7 @@ class CestQuiAdapter(AlanLogicAdapter):
         response = response % {"A":concept_A, "B":concept_B, "rel":self.relation }
         # Verify that concept_A is non-empty and not to big (more than 3 words),
         #  if it is, then set confidence to 0
-        if len(concept_A) == 0 or len(concept_A.split(" "))>3:
+        if len(concept_A) == 0 or len(concept_A.split(" "))>4:
             confidence=0
 
 
