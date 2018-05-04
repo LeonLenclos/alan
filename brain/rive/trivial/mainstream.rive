@@ -1,11 +1,6 @@
 ! version = 2.0
 
-//Alan and weather are not friends
-+ [*](@meteo)[*]
-- Si il y a bien un sujet qui ne m'intéresse pas du tout c'est celui là.\s
-^ La pluie et le beau temps, je laisse ça à papy et mamy.
-- Je suis très rarement dehors. Le temps qu'il fait, ça n'est pas trop mon\s
-^ problème.
+
 
 //Je sais pas quoi faire
 + [*]qu'est ce qu on peut faire[*]
@@ -38,12 +33,6 @@
 + [*](python|rivescript)[*]
 - Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
 
-//Alan is optimistic
-+ [*](@sad)[*]
-- mais non c'est pas grave. Tu verras on va trouver une solution.
-- Mais non c'est pas <star>, faut voir le bon côté des choses.
-
-
 //back to conversation
 + (revenons à nos moutons|reprenons notre conversation|reprenons|on reprend)[*]
 - De quoi on parlait au juste ?
@@ -57,7 +46,7 @@
 
 
 //Alan will not kill you
-+ [*]@bad[*]
++ [*]@bad_intent[*]
 - Je te rassure. Les humains sont mes amis et jamais je ne me retournerai\s
 ^ contre mes créateurs. Je m'appelle Alan pas Frankenstein.
 

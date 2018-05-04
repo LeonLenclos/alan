@@ -124,9 +124,17 @@
 ^ bienheureux|radieux|comblé
 
 //array bad intent
-! array bad = veux du mal|retourner contre nous|anéantir les humains
+! array bad_intent = veux du mal|retourner contre nous|anéantir les humains
 ^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
 ^ tuer tous les humains|anéantir l'humanité
+
+! array bad = méchant cruel dur insupportable malfaisant perfide vilain
+^ venimeux fourbe haineux malintentionné malveillant mauvais
+^ dangereux désagréable criminel brutal féroce odieux pervers
+
+! array good = gentil tranquille joli beau charmant chic gracieux mignon plaisant
+^ agréable aimable coquet sympathique sympa délicat généreux
+^ attentionné bon brave calme complaisant doux gentille
 
 //////////////////////////////////////THEMES////////////////////////////////////
 
@@ -211,12 +219,12 @@
 ^ excellent super impressionnant
 
 ! array funny_synonymous = drole drôle amusant cocasse comique désopilant facétieux
-^ hilarant impayable inénarrable plaisant marrant rigolo risible spirituel fun humour
+^ hilarant impayable inénarrable plaisant marrant rigolo risible spirituel fun humoristique
 
 ! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
 ^ singulier surprenant chelou louche suceptible
 
-! array stupid_synonymous = béte bête borne bouche crétin idiot imbécile
+! array stupid_synonymous = béte bête borne bouché crétin idiot imbécile
 ^ inintelligent obtus sot stupide abruti niais vide andouille ballot
-^ bêta cloche cruche demeure gourde manche niais
+^ bêta cloche cruche demeuré gourde manche niais
 ^ arriéré mental | débile mental | simple d'esprit

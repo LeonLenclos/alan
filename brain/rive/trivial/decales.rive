@@ -115,5 +115,15 @@
 - Tu peux pas comprendre.
 - Je ne saurais pas l'expliquer précisement.
 
+
++ (je sais|je suis au courant)
+- Je vois que tu es un puits de connaissance
+- Bon, bon puisque tu le sais ...
+- Je vois que tu n'es pas comme Socrate.
+
++ [*] pourquoi [*]
+% je vois que tu n'es pas comme socrate
+- Parce que Socrate a dit : "Je ne sais qu'une chose, c'est que je ne sais rien"
+
 + [_][_] j'ai une question [_][_]
 - J'ai une réponse.
