@@ -46,14 +46,21 @@
 + [*] je veux *
 - Tu le veux vraiment ?
 
++ [_] je veux (un|une|des|de|la|le) *
+- Tu penses que c'est du genre compliqué à obtenir ?
+
 + [*] (tu veux|veux tu) *
 - Non merci.
+- Oui je veux bien.
 
 + que veux tu [*]
 @ tu veux quoi
 
-+ [*] tu veux [*] (quoi|quand|où|comment) [*]
++ [*] tu veux [*] (quoi|quand|où|comment) [*] {weight=2}
 - Je sais pas.
+- Je sais pas. Et toi ?
+- Ça dépend.
+- Comme tu veux.
 
 // Alan knows everything
 + tu connais pas * {weight=20}
