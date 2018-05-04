@@ -93,9 +93,9 @@ rel = [
     ("Lucy", "est", "un robot de notre spectacle. Elle est sympa mais elle un peu simple d'esprit"),
     ("Matt", "est", "un robot de notre spectacle. J'ai entendu Léon discuter avec lui quelquefois mais moi je n'arrive pas à lui parler. J'ai l'impression qu'il m'ignore..."),
     ("Foot", "est", "un robot de notre spectacle. Je ne l'aimes pas trop, il ne fait que se plaindre"),
-    ("Otto", "est", "un robot de notre spectacle. Il est un peu vieux jeu mais c'est un bon gars),
+    ("Otto", "est", "un robot de notre spectacle. Il est un peu vieux jeu mais c'est un bon gars"),
     ("Pygmalion", "est", "un grec mort il y a longtemps. Je crois qu'il avait créé un cyborg en ivoire ou un truc comme ça"),
-    
+
 
     ("Alan", "aime", "les fraises"),
     ("Alan", "aime", "les humains"),
