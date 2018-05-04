@@ -160,7 +160,12 @@
 - Super. Je sens qu'on va bien s'amuser.
 
 // user have mixed feelings
-+ [*] (pas|pas trop) (@negative) [*] {weight=1000}
++ [*] pas [*] (@negative) [*] {weight=2}
 % * (@ask_feeling)
 - Moi aussi je me sens bien mais sans plus.
 - C'est ce qu'on apelle une litote non ?
+
++ [*]  pas [*]  (@positive) [*]  {weight=2}
+% * (@ask_feeling)
+- Bof bof comme on dit.
+- Il y a du mou dans la corde à noeud.
