@@ -20,6 +20,9 @@ class CatchRepetitionAdapter(AlanLogicAdapter):
         said
         (the sentences to say when the human repeat something alan had already listen)
 
+        ignore
+        a list of sentences to ignore
+
         speaker
         A string. "alan" or "human"
         the speaker of the statement we're looking for
@@ -36,12 +39,12 @@ class CatchRepetitionAdapter(AlanLogicAdapter):
             raise KeyError('sentences is a required argument')
 
         self.speaker = kwargs.get("speaker", None)
+        self.ignore = kwargs.get("ignore", [])
 
     def can_process(self, statement):
-        return True
+        return len(statement.text) > 0 and statement.text not in self.ignore
 
     def process(self, statement):
-
 
         confidence = 0
         response = ''

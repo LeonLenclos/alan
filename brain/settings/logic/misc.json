@@ -48,7 +48,8 @@
                 "Une fois un humain m'a dit exactement la même chose que toi.",
                 "Ce n'est pas la première fois qu'on me dit ça."
               ]
-            }
+            },
+            "ignore":["oui", "non", "ok"]
         },
         {
             "identifier": "niouininon",
