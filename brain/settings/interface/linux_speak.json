@@ -7,7 +7,8 @@
       },
       {
         "import_path": "output.EspeakAdapter",
-        "voice": "fr",
+        "voice": "fr-be",
+        "gap": "6",
         "speed": 140
       }
     ]

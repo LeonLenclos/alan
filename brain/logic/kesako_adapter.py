@@ -61,7 +61,11 @@ class KesakoAdapter(AlanLogicAdapter):
     def can_process(self, statement):
         # Process only if the latest statement in the conversation
         # contain the relation
-        return (self.relation in statement.text)
+        if (self.relation in statement.text):
+            if (" qui " not in statement.text):
+                return True
+        else:
+            return False
 
     def process(self, statement):
 

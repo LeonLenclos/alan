@@ -14,7 +14,13 @@
            "max_confidence": 0.6,
            "import_path": "logic.RiveScriptAdapter"
        },
-
+       {
+           "identifier": "references",
+           "skill_description": ["parce que j'ai des références et que je me la péte"],
+           "rive_files": ["./rive/trivial/references.rive"],
+           "max_confidence": 0.6,
+           "import_path": "logic.RiveScriptAdapter"
+       },
        {
            "identifier": "decales",
            "skill_description": ["j'ai dis ça comme ça"],
