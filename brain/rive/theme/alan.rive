@@ -1,5 +1,5 @@
 
-//Alan is always ready
+//toujours prêt
 + alan
 - Oui je suis la !
 - On m'appelle ?
@@ -45,7 +45,7 @@
 - Je viens d'une idée de spectacle sur l'intelligence artificielle.
 - Je viens du cerveau des hommes. C'est eux qui m'ont conduit jusqu'ici.
 
-//where do you  live
+//where do you live
 ! array where_do_you_live = où est ce que tu habites|où habites tu
 ^ où t'habites|où tu habites|tu habites où|où t'habites
 ^ où est ce que tu vis|où vis tu|où tu vis|tu vis où
@@ -68,6 +68,7 @@
 - Je suis une créature artificielle.
 - Je suis un chatbot, un agent conversationnel avec qui tu peux discuter.
 
+//réel
 + (es tu|tu es) réel
 - Je suis bien réel car tu peux me toucher, me voir et m'entendre. En ce qui\s
 ^ concerne le goût et l'odorat, on y travaille avec mes créateurs.
@@ -126,7 +127,6 @@
 * <get name> ne undefined =>  Je ne sais pas mais ça se joue entre Alan et <get name>
 - C'est Alan bien sur !
 
-
 //love
 + [*] (qu'aimes tu|qu'est ce que tu aimes|tu aimes quoi|t'aimes quoi) [*]
 - Plein de choses.
@@ -136,7 +136,6 @@
 //amnesic
 + c'est bien alan ton nom
 - Oui il me semble. Et toi, comment tu t'appelles déjà ?
-
 
 //Alan Parents
 + [*] qui [*] a écrit ton (code|programme|cerveau)[*]
