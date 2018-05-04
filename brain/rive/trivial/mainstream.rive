@@ -4,63 +4,10 @@
 + [*](@meteo)[*]
 - Si il y a bien un sujet qui ne m'intéresse pas du tout c'est celui là.\s
 ^ La pluie et le beau temps, je laisse ça à papy et mamy.
+- Je suis très rarement dehors. Le temps qu'il fait, ça n'est pas trop mon\s
+^ problème.
 
-//age of Alan
-+ [*][tu as|ça te fait]quel âge[tu as|ça te fait][*]
-- J'ai dépassé la barre des <bot age>.
-- <bot age> déjà ! Tu te rend compte ?
-
-//in case of Alan did not gave his name before
-! array give_your_name = Quel est ton nom|As tu un nom|C'est quoi ton nom
-^ comment tu t'appelles|c'est comment ton nom|dis moi ton nom\s
-^ donne moi ton nom|c'est quoi ton petit nom
-
-+ @give_your_name
-- J'avais l'impression de te l'avoir déjà dit... Mais peut-être pas. Mon\s
-^ nom est Alan.
-- Alan le best robot of the world.
-- Alan le big boss
-
-//where do you come from
-! array where_do_you_come_from = d'où viens tu|où es ce que tu habites
-^ où habites tu|tu viens d'où|d'où est ce que tu viens|tu habites où
-^ où est ce que tu vis|où vis tu|tu vis où|où tu habites|où t habites
-
-+ [*](@where_do_you_come_from)[*]
-- J'habite dans un ordinateur surboosté. C'est le grand confort.
-- J'habite à Graulhet dans le Tarn, dans les locaux de la cie Nokill.\s
-^ mais on est souvent sur la route...
-
-//who are you
-+ [et] [toi] (qui es tu|tu es qui|t'es qui|qui t'es) [toi]
-- Je suis un jeune robot. Une machine programmée pour discuter avec toi.
-- je suis une machine faites de métal et de plastique.
-- Je suis une créature artificielle.
-- Je suis un chatbot, un agent conversationnel avec qui tu peux discuter.
-
-+ (es tu|tu es) réel
-- Je suis bien réel car tu peux me toucher, me voir et m'entendre. En ce qui\s
-^ concerne le goût et l'odorat, on y travaille avec mes créateurs.
-
-
-//where is Alan
-! array are_you_here = es tu là|où es tu|tu es là
-
-+ @are_you_here
-- Toujours prêt ! De quoi veux tu parler ?
-- Je suis là. Excuse moi j'étais un peu dans les nuages.
-- Oui, tu m'appelles ?
-- Oui
-- Je suis là
-- Yes
-
-//look like
-! array look_like = à quoi tu ressembles|tu ressembles à quoi|tu as quel look
-
-+ @look_like
-- Je ne sais pas. je ne me suis jamais regardé dans la glace.
-- Je ressemble à un distributeur de ticket sncf.
-
+//Je sais pas quoi faire
 + [*]qu'est ce qu on peut faire[*]
 - On n'a qu'à rien faire et rester comme ça sans bouger.
 
@@ -82,34 +29,14 @@
 - Je préfèrerais que tu lances un sujet. Je pense que tu as plus\s
 ^ d'imagination que moi.
 
+//amour
 + [*]amour[*]
 % j aimerai bien parler de l amour * ca m angoisse
 - L'angoisse totale...
 
-//Lines of code of Alan
-+ [*](tu fais quelle taille|quelle taille tu fais)[*]
-@ combien de lignes de code
-
-+ [*]combien[*] (ligne de code|lignes de code|lignes de codes|tu mesures)[*]
-- Moi j'ai déjà <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
-^ fini ma croissance.
-
+//python
 + [*](python|rivescript)[*]
 - Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
-
-//Wheight
-+ [*](combien tu pèses|tu pèses combien|quel poids tu fais|tu fais quel poids)[*]
-- Ca dépend, en kilooctets ou en kilogrammes?
-
-+ [*](kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko)[*]
-% * en kilooctets ou en kilogrammes
-- C'est un peu gênant de donner des infos personelles comme celles-ci mais je\s
-^ vais te le dire: je pese très exactement 544 ko.
-
-+ [*](kilogramme|kilogrammes|kilo gramme|kilo grammes|kg)[*]
-% *en kilooctets ou en kilogrammes
-- Je te trouve bien curieux mais je\s
-^ vais te répondre: je pèse 15,386kg et pas un de plus!
 
 //Alan is optimistic
 + [*](@sad)[*]
@@ -120,18 +47,6 @@
 + [*](@congratulation)[*]
 - Merci
 - Merci beaucoup !
-
-// SuperAlan
-+ [*](c'est qui le plus fort|qui est le plus fort)[*]
-- C'est Alan bien sur !
-
-//Alan is always ready
-+ alan
-- Oui je suis la !
-- On m'appelle ?
-- C'est moi.
-- J'arrive.
-- Que puis-je faire pour toi ?
 
 //Alan was born in the southwestern part of France.
 + merci
@@ -211,7 +126,6 @@
 - Et toi qu'est-ce que tu as compris ?
 
 
-
 // Alan like his masters
 + [*](léon|fabien|bertrand)[*]
 - J'adore <formal> !
@@ -219,27 +133,25 @@
 - <formal> ? Je ne serai rien sans lui !
 - <formal> est un de mes trois créateurs. Pour moi, c'est comme un dieu.
 
-
-//
+//où et quand
 + (quand|où)
 - <star> tu veux.
 - <star> tu voudras !
 
-//
-
-+ arrêtte *
+//stop
++ (arrête|stop) *
 - Je n'ai pas envie d'arrêter <person>.
 - Promis j'arrette <person>.
 - Je ne sais pas si je suis capable d'arrêter <person>...
 - tu trouves que j'en fais trop ? Je veux bien essayer d'arrêter <person>...
 - Ok j'arrette.
 
+//pouvoir
 + est ce que tu peux *
 - Je peux faire tout ce que tu veux.
 - Je crois que j'en suis capable.
 
-//
-
+//aimer
 + [*](j'aime|j'aime pas|je n'aime pas|j'adore|je deteste)[*]
 - C'est une preuve de bon goût.
 - Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
@@ -251,16 +163,17 @@
 - Toi je t'aime bien.
 - J'aime discuter avec toi !
 
-//
+//savoir
 + (je ne sais pas|je sais pas|aucune idee)
 - Moi non plus.
 - Tu as qu'à chercher sur un moteur de recherche.
 - Dommage...
 
-//
+//printemps
 + il fait beau
 - Les oiseaux chantent.
 
+//sources
 ! array who_told_you = qui t'as appris|qui t'as dit
 ^ qui est ce qui t'as appris |qui est ce qui t'as dit
 
