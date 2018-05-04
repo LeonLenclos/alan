@@ -24,15 +24,15 @@ class ExactMatch(AlanLogicAdapter):
         if type(self.catch) != dict:
             raise TypeError("catch must be a dict")
 
-        self.selected = None
+        self.index_selected = None
         self.last_statement = None
 
     def process_done(self, is_selected=False):
-        if not self.allowed_to_repeat and \
-           self.index_selected is not None and \
-           type(self.catch[self.last_statement.text]) == list and \
-           is_selected :
-            del self.catch[self.last_statement.text][self.index_selected]
+        if is_selected:
+            if not self.allowed_to_repeat and \
+               self.index_selected is not None and \
+               type(self.catch[self.last_statement.text]) == list:
+                del self.catch[self.last_statement.text][self.index_selected]
         self.index_selected = None
 
     def can_process(self, statement):

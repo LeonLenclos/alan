@@ -136,8 +136,9 @@
 ^ tu es n'est-ce pas ?
 - Tu as un avis comme ça sur chaque chose ?
 
-+ [*] tu (préfères|préfère) [quoi] [entre] * ou *
++ [*] tu (préfères|préfère) [quoi] [entre] * ou * {weight=2}
 - <star1>
+- <star2> et de loin !
 
 + [*] tu préfères [*]
 - Je sais pas
