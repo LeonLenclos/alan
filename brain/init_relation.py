@@ -95,6 +95,11 @@ rel = [
     ("Foot", "est", "un robot de notre spectacle, je ne l'aimes pas trop, il ne fait que se plaindre"),
     ("Otto", "est", "un robot de notre spectacle, il est un peu vieux jeu mais c'est un bon gars"),
     ("Pygmalion", "est", "un grec mort il y a longtemps, je crois qu'il avait créé un cyborg en ivoire ou un truc comme ça"),
+    ("Godel", "est", "un des plus grands penseurs du XXème siècle, Turing s'est beaucoup inspiré de ces travaux."),
+    ("Gödel", "est", "un des plus grands penseurs du XXème siècle, Turing s'est beaucoup inspiré de ces travaux."),
+    ("Kurt Godel", "est", "un des plus grands penseurs du XXème siècle, Turing s'est beaucoup inspiré de ces travaux."),
+    ("Kurt Gödel", "est", "un des plus grands penseurs du XXème siècle, Turing s'est beaucoup inspiré de ces travaux."),
+
 
 
     ("Alan", "aime", "les fraises"),
