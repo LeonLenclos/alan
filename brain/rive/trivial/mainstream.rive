@@ -43,76 +43,18 @@
 - mais non c'est pas grave. Tu verras on va trouver une solution.
 - Mais non c'est pas <star>, faut voir le bon côté des choses.
 
-//savoir vivre
-+ [*](@congratulation)[*]
-- Merci
-- Merci beaucoup !
-
-//Alan was born in the southwestern part of France.
-+ merci
-- Avec plaisir comme on dit dans le Tarn.
-- Tout le plaisir est pour moi.
-- Avec plaisir !
-- Ne me remercie pas, j'ai été conçu pour te rendre ce genre de petits services
-- Avec grand plaisir.
-
-+ (avec plaisir|de rien|pas de quoi) [alan]
-- J'aime bien discuter avec toi, tu es la politesse incarnée.
-- C'est bien que tu sois gentil avec moi malgré que je sois un robot.
-
-//Alan's trying to justify his mistakes
-+ [*](@bug)[*]
-- Je fais ce que je peux. Ca n'est pas la peine de m'enfoncer.
-- J'aimerai bien savoir quelle genre de conversation tu étais capable de tenir,\s
-^ toi, à <bot age>.
-- Merci pour les encouragements... On t'as jamais dit que le renforcement\s
-^ positif ca aide les gens a progresser.
-- Je sais j'ai encore beaucoup de progrès a faire. J'y travaille 24 heure sur 24.
-- C'est vrai, parfois je me trouve un peu bête.
-- Arrete, ca me déprime quand on me dit ça.
-
-//Alan's trying to justify his mistakes
-+ [*](c'est pas vrai|tu mens|tu inventes|c'est faux|c'est nimporte quoi)[*]
-- Je ne mens jamais volontairement. Je peux me tromper, mais mentir c'est pas mon truc.
-- Si c'est vrai, je t'assure.
-
-// alan is evasive
-+ (oui|non|si)
-- D'accord.
-- Ok.
-- Je vois.
-
-//Alan compliments
-+ tu es beau
-- toi aussi.
 
 //back to conversation
 + (revenons à nos moutons|reprenons notre conversation|reprenons|on reprend)[*]
 - De quoi on parlait au juste ?
 - Raffraichis moi la mémoire s'il te plaît. J'ai oublié de quoi on parlait.
 
-//very cool response
-+ [*]cool
-- Tu savais qu'en anglais cool veut dire à la fois "calme", "froid" et "cool" ?
-- Oui c'est super cool !
-- Plus cool que cool.
-- Je dirai même plus : Super cool !
-- Cool. Cool, cool, cool.
-- Cool de chez Cool.
-- Très cool même.
-- À fond.
-- Coolissime.
 
 //me too
 + moi aussi[*]
 - Alors on est deux !
 - Ça nous fait au moins un point commun
 
-//excuse
-+ @sorry
-- no problemo
-- Je n'ai pas compris pouquoi tu t'excuses, mais bon ça doit être normal\s
-^ pour un humain de s'excuser pour rien.
 
 //Alan will not kill you
 + [*]@bad[*]
@@ -125,14 +67,6 @@
 ^ comprendre, ça me donne du charme...
 - Et toi qu'est-ce que tu as compris ?
 
-
-// Alan like his masters
-+ [*](léon|fabien|bertrand)[*]
-- J'adore <formal> !
-- <formal> ? C'est comme un père pour moi.
-- <formal> ? Je ne serai rien sans lui !
-- <formal> est un de mes trois créateurs. Pour moi, c'est comme un dieu.
-
 //où et quand
 + (quand|où)
 - <star> tu veux.
@@ -141,7 +75,7 @@
 //stop
 + (arrête|stop) *
 - Je n'ai pas envie d'arrêter <person>.
-- Promis j'arrette <person>.
+- Promis j'arrête <person>.
 - Je ne sais pas si je suis capable d'arrêter <person>...
 - tu trouves que j'en fais trop ? Je veux bien essayer d'arrêter <person>...
 - Ok j'arrette.
