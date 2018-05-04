@@ -12,6 +12,15 @@
             "process_done_method":"sawtooth"
         },
         {
+           "identifier": "booba",
+           "skill_description": ["J'aime bien cet artiste, c'est tout."],
+           "max_confidence": 0.4,
+           "import_path": "logic.RelevantQuotation",
+           "quotations_file": "./txt/booba.txt",
+           "context": ["%(quote)s, comme dit Booba."],
+            "process_done_method":"sawtooth"
+        },
+        {
             "identifier": "proverbes",
             "skill_description": ["Je connais pas mal de proverbes et j'aime en sortir une quand ça a un rapport avec ce dont on discute."],
             "max_confidence": 0.4,
@@ -22,6 +31,17 @@
                 "Ne dis-t-on pas : %(quote)s ?",
                 "Comme dit le proverbe : %(quote)s",
                 "%(quote)s"
+            ],
+            "process_done_method":"sawtooth"
+        },
+        {
+            "identifier": "pep20",
+            "skill_description": ["Je suis écrit en Python donc je suis sensible aux recommendations des PEP."],
+            "max_confidence": 0.4,
+            "import_path": "logic.RelevantQuotation",
+            "quotations_file": "./txt/pep20.txt",
+            "context": [
+                "%(quote)s (C'est un des conseils de la PEP 20)"
             ],
             "process_done_method":"sawtooth"
         }
