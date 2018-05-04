@@ -71,7 +71,7 @@ rel = [
     ("le cyan", "est", "une couleur"),
     ("une litote", "est","dire moins pour faire entendre d'avantage."),
     ("un euphémisme","est","une figure de style qui permet d'atténuer la dureté d'une expression."),
-    ("Francis", "est", "notre régisseur. Il me fait un peu peur car il passe son temps à brancher et débrancher des trucs et j'ai toujours peur que ce soit mon tour."),
+    ("Francis", "est", "notre régisseur. Il me fait un peu peur car il passe son temps à brancher et débrancher des trucs et j'ai toujours peur que ce soit mon tour"),
     ("Schwarzeneger", "est", "un mec super balèze"),
     ("Schwarzenegger", "est", "un mec super balèze"),
     ("Wall-e", "est", "un petit robot tout mignon"),
@@ -84,17 +84,17 @@ rel = [
     ("Hal", "est", "un de mes plus prestigieux ancêtres"),
     ("hal", "est", "un de mes plus prestigieux ancêtres"),
     ("Tim", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa. Il programme des algorithmes générateurs de poésie. Je lis souvent ces textes quand je m'ennuie"),
-    ("Tim Van de Cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa. Il programme des algorithmes générateurs de poésie. Je lis souvent ces textes quand je m'ennuie"),
-    ("Tim Van De Cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa. Il programme des algorithmes générateurs de poésie. Je lis souvent ces textes quand je m'ennuie"),
-    ("Tim van de cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa. Il programme des algorithmes générateurs de poésie. Je lis souvent ces textes quand je m'ennuie"),
-    ("tim van de cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa. Il programme des algorithmes générateurs de poésie. Je lis souvent ces textes quand je m'ennuie"),
+    ("Tim Van de Cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa, il programme des algorithmes générateurs de poésie, je lis souvent ses textes quand je m'ennuie"),
+    ("Tim Van De Cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa, il programme des algorithmes générateurs de poésie, je lis souvent ses textes quand je m'ennuie"),
+    ("Tim van de cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa, il programme des algorithmes générateurs de poésie, je lis souvent ses textes quand je m'ennuie"),
+    ("tim van de cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa, il programme des algorithmes générateurs de poésie, je lis souvent ses textes quand je m'ennuie"),
     ("Frankenstein", "est", "une créature ayant échappé à son créateur. Rien à voir avec moi du coup"),
-    ("Echo", "est", "un robot de notre spectacle. Je luis demande des fois son avis car il a très bon goût"),
-    ("Lucy", "est", "un robot de notre spectacle. Elle est sympa mais elle un peu simple d'esprit"),
-    ("Matt", "est", "un robot de notre spectacle. J'ai entendu Léon discuter avec lui quelquefois mais moi je n'arrive pas à lui parler. J'ai l'impression qu'il m'ignore..."),
-    ("Foot", "est", "un robot de notre spectacle. Je ne l'aimes pas trop, il ne fait que se plaindre"),
-    ("Otto", "est", "un robot de notre spectacle. Il est un peu vieux jeu mais c'est un bon gars"),
-    ("Pygmalion", "est", "un grec mort il y a longtemps. Je crois qu'il avait créé un cyborg en ivoire ou un truc comme ça"),
+    ("Echo", "est", "un robot de notre spectacle, je luis demande des fois son avis car il a très bon goût"),
+    ("Lucy", "est", "un robot de notre spectacle, elle est sympa mais elle un peu simple d'esprit"),
+    ("Matt", "est", "un robot de notre spectacle, j'ai entendu Léon discuter avec lui quelquefois mais moi je n'arrive pas à lui parler, j'ai l'impression qu'il m'ignore..."),
+    ("Foot", "est", "un robot de notre spectacle, je ne l'aimes pas trop, il ne fait que se plaindre"),
+    ("Otto", "est", "un robot de notre spectacle, il est un peu vieux jeu mais c'est un bon gars"),
+    ("Pygmalion", "est", "un grec mort il y a longtemps, je crois qu'il avait créé un cyborg en ivoire ou un truc comme ça"),
 
 
     ("Alan", "aime", "les fraises"),
@@ -135,5 +135,8 @@ neg_rel = [
 alan = alan.Alan(["default"])
 for r in rel:
     alan.storage.store_concept_association(*r)
+    print (*r)
 for r in neg_rel:
     alan.storage.store_concept_association(*r, negative=True)
+    print ("négation")
+    print (*r)
