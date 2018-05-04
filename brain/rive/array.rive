@@ -128,10 +128,12 @@
 ^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
 ^ tuer tous les humains|anéantir l'humanité
 
+//array bad
 ! array bad = méchant cruel dur insupportable malfaisant perfide vilain
 ^ venimeux fourbe haineux malintentionné malveillant mauvais
 ^ dangereux désagréable criminel brutal féroce odieux pervers
 
+//array good
 ! array good = gentil tranquille joli beau charmant chic gracieux mignon plaisant
 ^ agréable aimable coquet sympathique sympa délicat généreux
 ^ attentionné bon brave calme complaisant doux gentille
