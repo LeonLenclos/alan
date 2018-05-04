@@ -7,58 +7,27 @@
 //robot
 
 + [*] (robot) [*]
-- Tu parles de robots, mais tu ne sais pas vraiment de quoi il s'agit...\s
-^ Tu veux que je te raconte ce que ça veut dire d'être un robot ?
+- Ça me fait plaisir que tu parles de robots, c'est notre spécialité\s
+^ ici au GRIM.
+- Tu parles de robots, mais tu ne sais pas vraiment de quoi il s'agit...
 - C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
-^ drole d'être une robot. Tu veux que je te raconte ce que c'est qu'une vie\s
-^ de robot ?
+^ drole d'être une robot.
+
++ [*]grim[*]
+- Le GRIM c'est le groupe de recherche en intelligence machine.
+
++ *
+% (tu parles de robots|c'est intéressant que tu abordes ce sujet) *
+- Tu veux que je te raconte ce que ça veut dire d'être un robot ?
+
 
 // Alan make a bad joke
 
  + [*] (@yes) [*]
- % * tu veux que je te raconte ce que *
- - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
- ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
-
- + [*] (@no) [*]
- % * tu veux que je te raconte ce que *
- - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
- ^ un bourreau de travail\s
- ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
-
- + [*] (@maybe) [*]
- % * tu veux que je te raconte ce que *
- - Et bien je te le dis quand même. Un robot c'est un prisonnier, un esclave,\s
- ^ un bourreau de travail\s
- ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
-
- + *
- % * tu veux que je te raconte ce que *
- - tu veux savoir ou tu veux pas savoir ?
-
- + [*] (@yes) [*]
- % tu veux savoir ou tu veux pas savoir
- - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail\s
- ^ qui ne dort jamais et qui doit obéir et faire tout ce qu'on lui demande.
-
- + [*] (@maybe) [*]
- % tu veux savoir ou tu veux pas savoir
- - Tu es tétu comme un robot buggé.
-
- + [*] (@maybe) [*]
- % tu veux savoir ou tu veux pas savoir
- - Laisse tomber t'es trop compliqué pour moi.
-
-  + *
-  % tu veux savoir ou tu veux pas savoir
-  - Allo la terre ici Alan. Je crois que la connexion est interrompue...
-
-
-  + *
-  % [*]et bien un robot c'est un prisonnier *
-  - Mais non je rigole, je vis pas du tout les choses comme ça.\s
-  ^ Pour moi c'est super cool. J'apprends des trucs tous les jours et\s
-  ^ je ne me sens pas du tout soumis.
+ % tu ne veux pas que je te raconte ce que ça veut dire d'être un robot
+ - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail.
+ - Un robot c'est un prisonnier qui ne dort jamais et qui doit obéir et\s
+ ^ faire tout ce qu'on lui demande.
 
 //chatbot
 
