@@ -133,7 +133,7 @@ neg_rel = [
     ("les chats", "aime", "les chiens"),
     ("Alan", "aime", "les paradoxes"),
     ("Alan", "aime", "les bugs"),
-    ("Alan", "aime", "Siri"),
+    ("Alan",  "aime", "Siri"),
 
 
 ]
