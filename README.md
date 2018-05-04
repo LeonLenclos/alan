@@ -1,4 +1,4 @@
-# Alan
+# Alan v0.1.1
 
 Alan est un agent conversationel créé pour le spectacle Turing Test.
 
@@ -46,3 +46,31 @@ Pour noter les deux dernières répliques dans la liste todo.md
 ```
  > todo
 ```
+
+### Synthèse vocale
+
+Un rapide howto pour installer espeak, mbrola et une voix française (mbrola fr-1). Commandes effectuées sur Debian, devra surement être adapté pour d'autres OS.
+
+Le Output Adapter qui appel espeak n'est pas sur la branche master mais sur la branche feature-tts.
+
+Installer le loggiciel de synthèse. ([source](http://espeak.sourceforge.net/mbrola.html))
+
+
+```
+$ sudo apt-get install espeak
+$ espeak "hello world"
+
+$ wget http://www.tcts.fpms.ac.be/synthesis/mbrola/bin/pclinux/mbr301h.zip
+$ unzip mbr301h.zip
+$ sudo mv mbrola-linux-i386 /usr/bin/mbrola
+
+$ wget http://tcts.fpms.ac.be/synthesis/mbrola/dba/fr1/fr1-990204.zip
+$ unzip fr1-990204.zip
+$ sudo mkdir /usr/share/mbrola/
+$ sudo mv fr1/fr1 /usr/share/mbrola/
+$ espeak -vmb-fr1 "Bonjour monde"
+```
+
+- [liste des langues mbrola](http://tcts.fpms.ac.be/synthesis/mbrola/mbrcopybin.html)
+
+

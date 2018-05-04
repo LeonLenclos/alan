@@ -109,7 +109,7 @@
            "rive_files": [
                "./rive/one_step_aside.rive",
                "./rive/arr/misc.rive"],
-           "max_confidence": 0.5,
+           "max_confidence": 0.35,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -123,13 +123,21 @@
        },
        {
            "identifier": "reproach",
-           "skill_description": [
-             "Parce qu'un reproche ne fait jamais plaisir."],
+           "skill_description": ["Parce qu'un reproche ne fait jamais plaisir."],
            "rive_files": [
                "./rive/arr/synonymous.rive",
                "./rive/reproach.rive",
                "./rive/arr/misc.rive"],
            "max_confidence": 0.5,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "really_do_not_know",
+           "allowed_to_repeat": true,
+           "skill_description": ["hummm"],
+           "rive_files": [
+               "./rive/really_do_not_know.rive"],
+           "max_confidence": 0.19,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -212,7 +220,9 @@
             "skill_description": ["J'aime savoir ce que sont les choses."],
             "import_path": "logic.KesakoAdapter",
             "questions": [
+              "Cest quoi",
               "C'est quoi",
+              "C est quoi",
               "Qu'est ce que c'est",
               "Tu sais ce que c'est",
               "Sais tu ce que c'est",
@@ -224,7 +234,7 @@
         {
             "identifier": "esako",
             "skill_description": ["J'aime apprendre ce que sont les choses."],
-            "ask":"Pourrais tu me dire en quelques mots ce qu",
+            "ask":"tu me dire en quelques mots ce qu",
             "relation": "est",
             "context": [
               "Merci beaucoup, maintenant je comprends mieux ce qu'est %(concept_A)s.",
@@ -234,6 +244,12 @@
             ],
             "import_path": "logic.EsakoAdapter"
 
+        },
+        {
+            "identifier": "aime",
+            "skill_description": ["J'aime parler de ce qu'aiment les uns et les autres."],
+            "import_path": "logic.AimeAdapter",
+            "relation": "aime"
         }
     ],
 
