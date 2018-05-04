@@ -132,10 +132,15 @@ neg_rel = [
 
 
 ]
-alan = alan.Alan(["default"])
-for r in rel:
-    alan.storage.store_concept_association(*r)
-    print(*r)
-for r in neg_rel:
-    alan.storage.store_concept_association(*r, negative=True)
-    print("négation :", *r)
+
+def init_relation(alan, mute=True):
+    for r in rel:
+        alan.storage.store_concept_association(*r)
+        if not mute: print(*r)
+    for r in neg_rel:
+        alan.storage.store_concept_association(*r, negative=True)
+        if not mute: print("négation :", *r)
+
+if __name__ == '__main__':
+    alan = alan.Alan(["default"])
+    init_relation(alan, mute=False)

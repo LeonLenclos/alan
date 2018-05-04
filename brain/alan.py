@@ -25,6 +25,8 @@ import traceback
 from logic import MainLogicAdapter
 from output import MainOutputAdapter
 
+from init_relation import init_relation
+
 from test.simple_talk import test
 
 # Init pygame.mixer in order to play wav sounds
@@ -85,6 +87,9 @@ class Alan(chatterbot.ChatBot):
         output_adapters = self.settings.get('output_adapters', [output_adapter])
         for adapter in output_adapters:
             self.output.add_adapter(adapter, **self.settings)
+
+        # init relations
+        init_relation(self)
 
 
     def get_age(self):
