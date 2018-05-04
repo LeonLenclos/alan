@@ -8,7 +8,7 @@
       {
         "import_path": "output.EspeakAdapter",
         "voice": "fr",
-        "speed": 175
+        "speed": 140
       }
     ]
 }
