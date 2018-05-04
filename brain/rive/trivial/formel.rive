@@ -49,6 +49,12 @@
 + [*] (tu veux|veux tu) *
 - Non merci.
 
++ que veux tu [*]
+@ tu veux quoi
+
++ [*] tu veux [*] (quoi|quand|où|comment) [*]
+- Je sais pas.
+
 // Alan knows everything
 + tu connais pas * {weight=20}
 @ tu connais <star>
