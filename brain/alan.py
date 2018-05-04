@@ -25,7 +25,7 @@ import traceback
 from logic import MainLogicAdapter
 from output import MainOutputAdapter
 
-from init_relation import init_relation
+import init_relation
 
 from test.simple_talk import test
 
@@ -91,7 +91,7 @@ class Alan(chatterbot.ChatBot):
             self.output.add_adapter(adapter, **self.settings)
 
         # init relations
-        init_relation(self)
+        init_relation.store_all(self)
 
 
     def get_age(self):

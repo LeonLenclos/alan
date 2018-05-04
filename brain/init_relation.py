@@ -138,7 +138,7 @@ neg_rel = [
 
 ]
 
-def init_relation(alan, mute=True):
+def store_all(alan, mute=True):
     for r in rel:
         alan.storage.store_concept_association(*r)
         if not mute: print(*r)
@@ -148,4 +148,4 @@ def init_relation(alan, mute=True):
 
 if __name__ == '__main__':
     alan = alan.Alan(["default"])
-    init_relation(alan, mute=False)
+    store_all(alan, mute=False)
