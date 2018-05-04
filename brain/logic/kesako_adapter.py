@@ -85,7 +85,9 @@ class KesakoAdapter(AlanLogicAdapter):
         concept_A = re.sub("^(quoi)","",concept_A)
         # Remove starting and ending spaces
         concept_A=concept_A.strip()
+
         # Get the interrogative part of the question that is before the concept_A
+        question = ""
         if len(concept_A) != 0:
             question = statement.text.split(concept_A)[0]
         # Magic substitution to change things like "ton" into "mon"

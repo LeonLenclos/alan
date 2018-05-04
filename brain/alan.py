@@ -271,12 +271,11 @@ class Alan(chatterbot.ChatBot):
         if len(self.last_results) >= 2:
             infos = ""
             for result in self.last_results[-2]:
-                infos += "\n---\n%(logic_identifier)s (%(logic_type)s)\n" % result
                 if "text" in result:
+                    infos += "\n---\n%(logic_identifier)s (%(logic_type)s)\n" % result
                     if result["not_allowed_to_repeat"]:
                         infos += "NOT ALLOWED TO REPEAT"
                     infos += "(%(confidence).2f) '%(text)s'" % result
-                else: infos += "NOT PROCESSING"
         print(infos)
 
     def main_loop(self):
