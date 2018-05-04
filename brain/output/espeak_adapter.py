@@ -15,7 +15,7 @@ class EspeakAdapter(OutputAdapter):
         """
         super().__init__(**kwargs)
         self.voice = kwargs.get("voice", 'fr')
-        self.speed = kwargs.get("speed", 100)
+        self.speed = kwargs.get("speed", 175)
 
     def process_response(self, statement, session_id=None):
         """
@@ -25,7 +25,9 @@ class EspeakAdapter(OutputAdapter):
         """
         # setsid is for not showing mbrola errors
         # see : https://stackoverflow.com/a/50072485/8752259
-        command = ['setsid', 'espeak',
+        # add it if you want. (  '_>')
+        
+        command = [ 'espeak',
                    '-v', self.voice,
                    '-s', str(self.speed),
                    statement.text]
