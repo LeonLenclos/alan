@@ -23,12 +23,13 @@
               "Pourrais tu me dire brièvement qui c'est ?",
               "Si tu as le temps dis-moi en peu de mots qui est %(A)s s'il te plaît.",
               "En deux ou trois mots, c'est qui %(A)s pour toi ?",
-              "C'est qui %(A)s ?"
+              "C'est qui ?"
             ],
             "know": [
                "%(A)s ? C'%(rel)s %(B)s, je connais bien cette personne.",
                "J'ai déja croisé %(A)s, c'%(rel)s %(B)s.",
                "Ça je sais ! %(A)s c'%(rel)s %(B)s.",
+               "%(B)s.",
                "C'%(rel)s %(B)s."
              ],
             "ignore": [
@@ -56,11 +57,12 @@
             ],
             "relation": "est",
             "ask": [
-              "Pourrais tu me dire en quelques mots ce qu'est %(A)s.",
+              "Pourrais tu me dire en quelques mots ce qu'est %(A)s ?",
               "Pourrais tu me dire ce que c'est ?",
               "Dis moi en peu de mots ce qu'est %(A)s ?",
               "En deux ou trois mots, c'est quoi %(A)s pour toi ?",
-              "C'est quoi %(A)s"
+              "C'est quoi %(A)s ?",
+              "C'est quoi ?"
             ],
             "max_confidence": 0.6
 
