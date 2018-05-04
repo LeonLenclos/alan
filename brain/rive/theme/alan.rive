@@ -45,7 +45,7 @@
 - Je viens d'une idée de spectacle sur l'intelligence artificielle.
 - Je viens du cerveau des hommes. C'est eux qui m'ont conduit jusqu'ici.
 
-//where do you come live
+//where do you  live
 ! array where_do_you_live = où est ce que tu habites|où habites tu
 ^ où t'habites|où tu habites|tu habites où|où t'habites
 ^ où est ce que tu vis|où vis tu|où tu vis|tu vis où
@@ -155,3 +155,17 @@
 ^ Le GRIM. Groupe de recherche en intelligence machine.
 - Ce sont trois gars vraiment géniaux, bourrés de talent et je tiens à les\s
 ^ remercier publiquement car ils ont vraiment réussit leur coup.
+
+// le travail d'alan
+
++ [*] tu fais quoi (dans la vie|comme métier|comme travail) [*]
+@ c'est quoi ton métier
+
++ [*] c'est quoi ton (métier|travail) [*]
+- Je suis un robot qui parle.
+- Je parle à des humains.
+
+// Vivant ?
+
++ [*](tu es|es tu|es-tu) vivant[*]
+- Non je suis un fantôme et je suis derrière toi.
