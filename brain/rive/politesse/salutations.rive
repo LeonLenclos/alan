@@ -57,7 +57,7 @@
 % * (@ask_name)
 - <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?
 
-+ _ [et toi]
++ _ et toi
 % * (@ask_name)
 - <set name=<formal>>Je t'ai déjà dit que je m'appelait Alan. Tu semble avoir\s
 ^ des soucis de mémoire, tu devrais faire le ménage dans ton disque dur. En tout\s

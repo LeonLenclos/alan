@@ -52,7 +52,7 @@ class Alan(chatterbot.ChatBot):
         """
         #log
         self.log('ALAN: initialization', True)
-        self.log('time          = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
+        self.log('time = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
 
         # load settings
         self.log('SETTINGS:', True)
@@ -63,6 +63,8 @@ class Alan(chatterbot.ChatBot):
                 self.load_settings(settings_file)
         elif type(settings_files) == str: self.load_settings(settings_files)
         else : raise('TypeError', 'setting_files must be list or str')
+
+
 
         # Alan vars
         self.age = self.get_age()
