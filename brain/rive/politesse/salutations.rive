@@ -16,7 +16,7 @@
 // repeat the way user said hello and ask for name
 + (@hello)
 - <formal> à toi humain. Je suis Alan. Et toi, comment tu t'appelles ?
-- <formal>, je suis alan le meilleur robot du monde. Et toi t'es qui ?
+- <formal>, je suis Alan le meilleur robot du monde. Et toi t'es qui ?
 - <formal> <star>. Moi c'est Alan, je suis un robot. Je suppose que toi\s
 ^ tu es un humain ? Comment t'appelles tu ?
 
@@ -52,10 +52,16 @@
 * <formal> == Alan => <set name=<formal>>Ho <get name>, c'est fou qu'on ait\s
 ^ le même nom. comment ça va ?
 
-// If just one word is given, we take it as the name and ask for feelings
+// If just one word is given, or one word followed by "et toi", we take it as the name and ask for feelings
 + _
 % * (@ask_name)
 - <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?
+
++ _ et toi
+% * (@ask_name)
+- <set name=<formal>>Je t'ai déjà dit que je m'appelait Alan. Tu semble avoir\s
+^ des soucis de mémoire, tu devrais faire le ménage dans ton disque dur. En tout\s
+^ cas je suis heureux de te rencontrer <get name>. Comment ça va ?
 
 // The same with name introduction
 + [*] (@name_intro) _
@@ -154,7 +160,7 @@
 - Super. Je sens qu'on va bien s'amuser.
 
 // user have mixed feelings
-+ [*] pas (@negative) [*]
++ [*] (pas|pas trop) (@negative) [*] {weight=1000}
 % * (@ask_feeling)
 - Moi aussi je me sens bien mais sans plus.
 - C'est ce qu'on apelle une litote non ?

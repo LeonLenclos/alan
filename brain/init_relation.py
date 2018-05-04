@@ -5,9 +5,9 @@ import alan
 
 rel = [
     ("une chaise", "est", "un objet"),
-    ("Alan", "est", "un robot"),
-    ("Alan", "est", "un chatbot"),
-    ("Alan", "est", "ton ami"),
+    ("Alan", "est", "moi"),
+    ("Alan", "est", "un chatbot plutôt réussi"),
+    ("Alan", "est", "la fine fleur de la technologie"),
     ("l'intelligence artificielle", "est", "un domaine fascinants"),
     ("un humain", "est", "un sac de viande inutile"),
     ("Turing", "est", "une inspiration pour moi"),
@@ -71,8 +71,34 @@ rel = [
     ("le cyan", "est", "une couleur"),
     ("une litote", "est","dire moins pour faire entendre d'avantage."),
     ("un euphémisme","est","une figure de style qui permet d'atténuer la dureté d'une expression."),
-
-
+    ("Francis", "est", "notre régisseur. Il me fait un peu peur car il passe son temps à brancher et débrancher des trucs et j'ai toujours peur que ce soit mon tour"),
+    ("Schwarzeneger", "est", "un mec super balèze"),
+    ("Schwarzenegger", "est", "un mec super balèze"),
+    ("Wall-e", "est", "un petit robot tout mignon"),
+    ("Walle", "est", "un petit robot tout mignon"),
+    ("Wall e", "est", "un petit robot tout mignon"),
+    ("L'irit", "est", "un laboratoire de recherche en informatique dans lequel j'ai grandi"),
+    ("L'IRIT", "est", "un laboratoire de recherche en informatique dans lequel j'ai grandi"),
+    ("Amparo", "est", "la chargée de diffusion de notre compagnie. Elle est sympa, on discute souvent ensemble"),
+    ("HAL", "est", "un de mes plus prestigieux ancêtres"),
+    ("Hal", "est", "un de mes plus prestigieux ancêtres"),
+    ("hal", "est", "un de mes plus prestigieux ancêtres"),
+    ("Tim", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa. Il programme des algorithmes générateurs de poésie. Je lis souvent ces textes quand je m'ennuie"),
+    ("Tim Van de Cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa, il programme des algorithmes générateurs de poésie, je lis souvent ses textes quand je m'ennuie"),
+    ("Tim Van De Cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa, il programme des algorithmes générateurs de poésie, je lis souvent ses textes quand je m'ennuie"),
+    ("Tim van de cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa, il programme des algorithmes générateurs de poésie, je lis souvent ses textes quand je m'ennuie"),
+    ("tim van de cruys", "est", "quelqu'un que j'ai croisé à l'IRIT, il est très sympa, il programme des algorithmes générateurs de poésie, je lis souvent ses textes quand je m'ennuie"),
+    ("Frankenstein", "est", "une créature ayant échappé à son créateur. Rien à voir avec moi du coup"),
+    ("Echo", "est", "un robot de notre spectacle, je luis demande des fois son avis car il a très bon goût"),
+    ("Lucy", "est", "un robot de notre spectacle, elle est sympa mais elle un peu simple d'esprit"),
+    ("Matt", "est", "un robot de notre spectacle, j'ai entendu Léon discuter avec lui quelquefois mais moi je n'arrive pas à lui parler, j'ai l'impression qu'il m'ignore..."),
+    ("Foot", "est", "un robot de notre spectacle, je ne l'aimes pas trop, il ne fait que se plaindre"),
+    ("Otto", "est", "un robot de notre spectacle, il est un peu vieux jeu mais c'est un bon gars"),
+    ("Pygmalion", "est", "un grec mort il y a longtemps, je crois qu'il avait créé un cyborg en ivoire ou un truc comme ça"),
+    ("Godel", "est", "un des plus grands penseurs du XXème siècle, Turing s'est beaucoup inspiré de ces travaux."),
+    ("Gödel", "est", "un des plus grands penseurs du XXème siècle, Turing s'est beaucoup inspiré de ces travaux."),
+    ("Kurt Godel", "est", "un des plus grands penseurs du XXème siècle, Turing s'est beaucoup inspiré de ces travaux."),
+    ("Kurt Gödel", "est", "un des plus grands penseurs du XXème siècle, Turing s'est beaucoup inspiré de ces travaux."),
 
 
 
@@ -107,12 +133,19 @@ neg_rel = [
     ("les chats", "aime", "les chiens"),
     ("Alan", "aime", "les paradoxes"),
     ("Alan", "aime", "les bugs"),
-    ("Alan", "aime", "Siri"),
+    ("Alan",  "aime", "Siri"),
 
 
 ]
-alan = alan.Alan(["default"])
-for r in rel:
-    alan.storage.store_concept_association(*r)
-for r in neg_rel:
-    alan.storage.store_concept_association(*r, negative=True)
+
+def store_all(alan, mute=True):
+    for r in rel:
+        alan.storage.store_concept_association(*r)
+        if not mute: print(*r)
+    for r in neg_rel:
+        alan.storage.store_concept_association(*r, negative=True)
+        if not mute: print("négation :", *r)
+
+if __name__ == '__main__':
+    alan = alan.Alan(["default"])
+    store_all(alan, mute=False)

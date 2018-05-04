@@ -28,6 +28,30 @@
             "default_responses": ["Je dis ce que je veux ! je n'ai pas à me justifier."]
         },
         {
+            "identifier": "catch-human-repetition",
+            "skill_description": ["Car ce n'est pas normal de dire toujours la même chose."],
+            "import_path": "logic.CatchRepetitionAdapter",
+            "max_confidence": 0.75,
+            "speaker":"human",
+            "sentences": {
+              "just_said": [
+                "Pourquoi tu me dis deux fois la même chose ? Tu crois que je suis sourd ?",
+                "Tu viens de me dire ça.",
+                "Tu te répète comme un chatbot mal réglé."
+              ],
+              "said_in_conversation": [
+                "Tu m'as déjà dis ça tout à l'heure.",
+                "Je crois que tu m'as déjà dis ça tout à l'heure.",
+                "C'est la deuxième fois que tu dis ça, non ?"
+              ],
+              "said": [
+                "Une fois un humain m'a dit exactement la même chose que toi.",
+                "Ce n'est pas la première fois qu'on me dit ça."
+              ]
+            },
+            "ignore":["oui", "non", "ok"]
+        },
+        {
             "identifier": "niouininon",
             "skill_description": ["Par rapport à Ni Oui Ni Non, tu sais. Le jeu ou on ne peut pas dire oui. Et pas non non plus."],
             "import_path": "logic.NiOuiNiNon",

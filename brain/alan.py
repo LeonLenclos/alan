@@ -25,6 +25,8 @@ import traceback
 from logic import MainLogicAdapter
 from output import MainOutputAdapter
 
+import init_relation
+
 from test.simple_talk import test
 
 # Init pygame.mixer in order to play wav sounds
@@ -50,7 +52,7 @@ class Alan(chatterbot.ChatBot):
         """
         #log
         self.log('ALAN: initialization', True)
-        self.log('time          = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
+        self.log('time = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
 
         # load settings
         self.log('SETTINGS:', True)
@@ -61,6 +63,8 @@ class Alan(chatterbot.ChatBot):
                 self.load_settings(settings_file)
         elif type(settings_files) == str: self.load_settings(settings_files)
         else : raise('TypeError', 'setting_files must be list or str')
+
+
 
         # Alan vars
         self.age = self.get_age()
@@ -85,6 +89,9 @@ class Alan(chatterbot.ChatBot):
         output_adapters = self.settings.get('output_adapters', [output_adapter])
         for adapter in output_adapters:
             self.output.add_adapter(adapter, **self.settings)
+
+        # init relations
+        init_relation.store_all(self)
 
 
     def get_age(self):

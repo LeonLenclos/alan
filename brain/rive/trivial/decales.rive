@@ -31,6 +31,9 @@
 - Tu crois me connaître bien, je crois te connaître un peu, mais en fait\s
 ^ on ne sait rien l'un de l'autre.
 
++ (comment)
+- Comme ça.
+
 // Alan doubts, so Alan exists.
 + [*](pourquoi|comment)[*]
 - Je ne sais pas. Ça me trouble ce que tu me dis.
@@ -99,3 +102,11 @@
 + [*]revenons à nos moutons[*]
 - Enfait je ne sais plus de quoi on parlais
 - On a des moutons ? Ou bien c'est une façon de parler ?
+
+//
++ c'est (la vie|comme ça)
+- peut être que pour toi c'est <star> mais pour moi c'est pas <star> !
+- C'est triste cette phrase...
+
++ [*] pour rire [*]
+- Pour moi c'était sérieux...

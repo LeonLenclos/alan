@@ -23,7 +23,22 @@
               "Pourrais tu me dire brièvement qui c'est ?",
               "Si tu as le temps dis-moi en peu de mots qui est %(A)s s'il te plaît.",
               "En deux ou trois mots, c'est qui %(A)s pour toi ?",
-              "C'est qui %(A)s ?"
+              "C'est qui ?"
+            ],
+            "know": [
+               "%(A)s ? C'%(rel)s %(B)s, je connais bien cette personne.",
+               "J'ai déja croisé %(A)s, c'%(rel)s %(B)s.",
+               "Ça je sais ! %(A)s c'%(rel)s %(B)s.",
+               "%(B)s.",
+               "C'%(rel)s %(B)s."
+             ],
+            "ignore": [
+                "Personne ne m'a jamais appris qui %(rel)s %(A)s.",
+                "Écoute je ne vois pas du tout qui %(rel)s %(A)s, ce n'est pas quelqu'un de connu chez les robots.",
+                "Je ne sais pas qui  %(rel)s %(A)s, mais bon on ne peut pas tout savoir.",
+                "%(A)s ? Je ne connais pas cette personne.",
+                "",
+                ""
             ],
             "max_confidence": 0.6
 
@@ -42,11 +57,12 @@
             ],
             "relation": "est",
             "ask": [
-              "Pourrais tu me dire en quelques mots ce qu'est %(A)s.",
+              "Pourrais tu me dire en quelques mots ce qu'est %(A)s ?",
               "Pourrais tu me dire ce que c'est ?",
               "Dis moi en peu de mots ce qu'est %(A)s ?",
               "En deux ou trois mots, c'est quoi %(A)s pour toi ?",
-              "C'est quoi %(A)s"
+              "C'est quoi %(A)s ?",
+              "C'est quoi ?"
             ],
             "max_confidence": 0.6
 
@@ -54,7 +70,6 @@
         {
             "identifier": "esako",
             "skill_description": ["J'aime apprendre ce que sont les choses."],
-            "ask":"Pourrais tu me dire en quelques mots ce qu",
             "relation": "est",
             "context": [
               "Merci beaucoup, maintenant je comprends mieux ce qu'est %(concept_A)s.",
@@ -67,6 +82,26 @@
               "Merci ! Maintenant que je sais ce qu'est %(concept_A)s j'ai l'impression d'avoir une vision plus précise du monde..."
             ],
             "import_path": "logic.EsakoAdapter",
+            "max_confidence": 0.6
+
+
+        },
+        {
+            "identifier": "cestlui",
+            "skill_description": ["J'aime apprendre qui sont les gens."],
+            "relation": "est",
+            "context": [
+              "Merci beaucoup, maintenant je comprends mieux qui est %(concept_A)s.",
+              "Ok, j'ignorais qui était %(concept_A)s, merci!",
+              "D'accord, c'est gentil de m'avoir appris qui est %(concept_A)s.",
+              "Aaaaaaah, c'est donc lui %(concept_A)s.",
+              "Ah d'accord, en fait je vois très bien qui est %(concept_A)s !",
+              "Je vois. Merci de m'avoir dit qui est %(concept_A)s",
+              "Merci, ton explication de qui %(concept_A)s est parfaite.",
+              "Merci ! Maintenant que je sais qui %(concept_A)s j'ai l'impression d'avoir une vision plus précise du monde..."
+            ],
+
+            "import_path": "logic.CestLuiAdapter",
             "max_confidence": 0.6
 
 

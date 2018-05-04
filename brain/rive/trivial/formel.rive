@@ -8,29 +8,52 @@
 - Oui mais par dessus tout je suis un robot !
 
 + (sais tu|tu sais) *
-- Je crois bien que je sais <star>.
+- Je crois bien que je sais <star2>.
 - Je sais tout.
 
 + (as tu|tu as) *
 - À proprement parler je n'ai rien
 
-+ [*] j ai *
++ [*] j'ai *
 - Tu as <person> ! La chance...
 
-+ [*] mes *
++ [*] mes _
 - Tu peux m'en dire plus sur tes <person>
 
-+ [*] mon *
-- Tu peux m'en dire plus sur tes <person>
++ [*] mon _
+- Tu peux m'en dire plus sur ton <person>
 
-+ [*] ton *
-- Tu peux m'en dire plus sur tes <person>
++ [*] ton _
+- Pourquoi tu t'intéresse à mon <person> tout à coups ?
 
 + [*] et toi
 - Oui moi aussi je crois.
+- Et moi quoi ?
 
-+ je suis *
++ [*] et toi
+% [*] et toi
+- Et toi ?
+- Et moi ?
+
++ [*] je suis *
 - Je n'en doute pas !
+- Certainement.
+- Pareil.
+
++ [*] (je|tu) veux bien *
+- Moi je veux bien être le roi des robots.
+
++ [*] je veux *
+- Tu le veux vraiment ?
+
++ [*] (tu veux|veux tu) *
+- Non merci.
+
++ que veux tu [*]
+@ tu veux quoi
+
++ [*] tu veux [*] (quoi|quand|où|comment) [*]
+- Je sais pas.
 
 // Alan knows everything
 + tu connais pas * {weight=20}
@@ -63,7 +86,7 @@
 - Je ne suis jamais allé au <star>.
 - Hem... Où est-ce que c'est le <star> ?
 
-+ je suis a la _
++ je suis à la _
 - Je ne suis jamais allé à la <star>
 - Ham... Où est-ce que c'est la <star>
 
@@ -71,16 +94,15 @@
 + moi aussi[*]
 - Alors on est deux !
 - Ça nous fait au moins un point commun
-
+- Surtout moi.
 
 //
-+ (quand|ou)
++ (quand|ou|où)
 - <star> tu veux.
 - <star> tu voudras !
 
 //
-
-+ arrette *
++ arrête *
 - Je n'ai pas envie d'arrêter <person>.
 - Promis j'arrette <person>.
 - Je ne sais pas si je suis capable d'arrêter <person>...
@@ -88,15 +110,22 @@
 - Ok j'arrette.
 
 //
-
 + est ce que tu peux *
 - Je peux faire tout ce que tu veux.
 - Je crois que j'en suis capable.
 
 //
-
 + [*](j aime|j aime pas|je n aime pas|j adore|je deteste)[*]
 - C'est une preuve de bon goût.
 - Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
 ^ tu es n'est-ce pas ?
 - Tu as un avis comme ça sur chaque chose ?
+
++ [*] tu (préfères|préfère) [quoi] [entre] * ou *
+- <star1>
+
++ [*] tu préfères [*]
+- Je sais pas
+
++ pas _
+- Pas <person> ou pas du tout <person> ?
