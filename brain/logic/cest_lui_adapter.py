@@ -4,7 +4,7 @@ import re
 import utils
 import random
 
-class EsakoAdapter(AlanLogicAdapter):
+class CestLuiAdapter(AlanLogicAdapter):
     """This adapter is activated only if Kesako just answered before. If Kesako
      don't know a concept related by the relation to the concept for whom he have been
      called, then he ask to the Human what this concept is.
@@ -43,21 +43,22 @@ class EsakoAdapter(AlanLogicAdapter):
             raise KeyError('relation is a required argument')
         if type(self.relation) != str:
             raise TypeError("relation must be a string")
-        
+
+
         self.concept_asked = None
 
     def can_process(self, statement):
 
 
-        # Process only if the latest statement of Alan came from kesako,and if
-        # this is not the first response of Alan and contain the chain ask and
+        # Process only if the latest statement of Alan came from CestQui,and if
+        # this is not the first response of Alan and
         #   if the response of the human contain the relation
 
 
         last_logic=self.chatbot.storage.get_latest_response_extra_data(
                                                 extra_data="logic_identifier")
         if self.concept_asked:
-            if last_logic == "kesako":
+            if last_logic == "cestqui":
                 if self.relation in statement.text:
                     return True
             else :
