@@ -7,12 +7,18 @@
 - Et toi tu n'es pas <star> ?
 - Oui mais par dessus tout je suis un robot !
 
++ es tu *
+- Je suis <person>.
+- Oui et toi ?
+
+
 + (sais tu|tu sais) *
 - Je crois bien que je sais <star2>.
 - Je sais tout.
 
 + (as tu|tu as) *
 - À proprement parler je n'ai rien
+- Je ne crois pas avoir <person>
 
 + [*] j'ai *
 - Tu as <person> ! La chance...
@@ -117,9 +123,11 @@
 - Ok j'arrette.
 
 //
-+ est ce que tu peux *
++ (peux tu|est ce que tu peux) *
 - Je peux faire tout ce que tu veux.
 - Je crois que j'en suis capable.
+- Si tu veux.
+
 
 //
 + [*](j aime|j aime pas|je n aime pas|j adore|je deteste)[*]
@@ -136,3 +144,6 @@
 
 + pas _
 - Pas <person> ou pas du tout <person> ?
+
++ et si je *
+- Vas-y essaye.
