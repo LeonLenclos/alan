@@ -48,6 +48,9 @@
  - J'adore la musique. J'en fais un peu. Tu veux écouter ce que je\s
  ^ compose comme musique ?
 
++ [*] (tu joues|joues tu) [*] instrument [*]
+-  Je vais de la musique un peu. Mais je ne joues pas vraiment d'un instrument.
+
  + [*](@yes)[*]
  % * tu veux écouter ce que je compose comme musique
  @ fais moi écouter ta musique
