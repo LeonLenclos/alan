@@ -77,6 +77,7 @@ rel = [
     ("Wall-e", "est", "un petit robot tout mignon"),
     ("Walle", "est", "un petit robot tout mignon"),
     ("Wall e", "est", "un petit robot tout mignon"),
+    ("mon film préféré", "est", "Wall-e"),
     ("L'irit", "est", "un laboratoire de recherche en informatique dans lequel j'ai grandi"),
     ("L'IRIT", "est", "un laboratoire de recherche en informatique dans lequel j'ai grandi"),
     ("Amparo", "est", "la chargée de diffusion de notre compagnie. Elle est sympa, on discute souvent ensemble"),
