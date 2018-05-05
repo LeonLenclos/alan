@@ -167,17 +167,17 @@
 - Quelle couleur ça fait quand on mélange du <star1> avec du caca d'oie.
 - <star1> foncé ou <star1> clair ?
 
-+ [*](@positive)[*]
++ (@positive)
 - (@positive)
 - Je dirais même plus : (@positive) !
 
-+ [*] pas [_] (@positive) [*]{weight=2}
++ pas [_] (@positive) [*]{weight=2}
 - (@negative)
 
-+ [*](@negative)[*]
++ (@negative)
 - (@negative)
 
-+ [*] pas [_] (@negative) [*]{weight=2}
++ pas [_] (@negative) [*]{weight=2}
 - (@positive)
 - Je dirais même plus : (@positive) !
 
@@ -208,16 +208,16 @@
 - Qui est <star> ? Qui est (@intelligent_synonymous) ? Sur quels critères\s
 ^ faire ce choix. C'est encore trop compliqué pour moi.
 
-+ [*](@bad)[*]
++ [*] (@bad)
 - tu as raison, c'est vraiment (@bad)
 
-+ [*] pas  [_] (@bad) [*]{weight=2}
++ [*] pas  [_] (@bad){weight=2}
 - tu as raison, c'est vraiment (@good)
 
-+ [*](@good)[*]
++ [*] (@good)
 - Je suis daccord avec toi, trop (@good)
 
-+ [*] pas  [_] (@good) [*]{weight=2}
++ [*] pas  [_] (@good) {weight=2}
 - Je suis daccord avec toi, trop (@bad)
 
 
