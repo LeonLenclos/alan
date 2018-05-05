@@ -169,6 +169,21 @@
 ^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé
 ^ tu es a la rue|tu tournes en rond
 
+//problème
+! array probleme = difficulté|ennui|problème
+^ embêtement|désagrément|embarras
+^ peine|anxiété|chagrin|inquiétude
+^ tourment|obsession|tracas
+^ contrariété|incertitude
+^ doute|crainte|souci
+
+! array problemes = difficultés|ennuis|problèmes
+^ embêtements|désagréments|embarras
+^ emmerdements|peines|anxiétés|chagrins
+^ inquiétudes|tourments|obsessions|tracas
+^ contrariétés|incertitudes
+^ préoccupations|doutes|craintes|soucis
+
 //array music instrument
 ! array instrument_m = accordeon|alto|balafon
 ^ bandonéon|banjo|basse|guitare basse|baryton|basson|bendir

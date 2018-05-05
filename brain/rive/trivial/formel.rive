@@ -17,8 +17,8 @@
 - Je sais tout.
 
 + (as tu|tu as) *
+- Je ne crois pas avoir {person} <star2> {/person}
 - À proprement parler je n'ai rien
-- Je ne crois pas avoir <person>
 
 + tu as fait *
 - J'ai rien fait !
@@ -112,6 +112,11 @@
 - Alors on est deux !
 - Ça nous fait au moins un point commun
 - Surtout moi.
+
++ [*] a [_] d'autres [*] {weight=2}
+% ça nous fait au moins un point commun
+- À nous de les découvrir.
+- À toi de me dire.
 
 //
 + (quand|ou|où)

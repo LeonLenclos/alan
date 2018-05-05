@@ -114,7 +114,7 @@
 // When we asked how the user feel
 
 ! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
-^ est ce que ça va|comment ça va|tu vas bien|ça va sinon
+^ est ce que ça va|comment ça va|tu vas bien|ça va sinon|es tu en forme
 
 // user have bad feelings and ask for bot's feelings
 + [*] (@negative) et toi [*]
@@ -173,3 +173,7 @@
 % * (@ask_feeling)
 - Bof bof comme on dit.
 - Il y a du mou dans la corde à noeud.
+
+//réponse générique à es tu en forme
++ [*] (@ask_feeling) [*]
+- On fait aller
