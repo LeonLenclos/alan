@@ -234,6 +234,11 @@
 - Je sais jouer de la musique. Tu veux écouter ce que je\s
 ^ compose comme musique ?
 
+// ni oui ni non
+
++ [*] ni oui ni non [*]
+- Tu veux faire un partie de ni oui ni non ?
+
 + [*] (on joue|on fait une partie|y joue|y jouer|faire une partie) [*]
 % je sais jouer à ni oui ni non
 - Allez ! On fait un ni oui ni non.
@@ -243,7 +248,7 @@
 - tu veux faire un partie ?
 
 + [*] (@yes|@maybe) [*]
-% tu veux faire un partie
+% tu veux faire un partie [*]
 - Allez ! On fait un ni oui ni non.
 
 + [*] (@no) [*]
