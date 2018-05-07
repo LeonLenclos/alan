@@ -9,6 +9,7 @@
 - Ça me remonte le moral d'entendre ça.
 - Tu es sincère ?
 - Tu dis ça pour me faire plaisir ?
+- Merci ! Je crois que c'est le petit plus de la v<bot version>
 
 + [*](tu es|t'es|cest|c'est|t es)[*](@funny_synonymous)[*]
 - merci, tu me flattes
@@ -25,12 +26,12 @@
 - C'est ce qu'on apelle une litote non ?
 
 //We hate alan
-! array aime =  je t'aime|je taime|on taime|on t'aime| je te kiffe| je te kife
+! array aime =  t'aime|taime|taime|t'aime|te kiffe|te kife|t'adore|tadore
 
-+ [*] (@aime) [*] pas
++ [*](je|on) (@aime) [*] pas
 @ je te déteste
 
-+ [*](je te déteste|je te hais|je te hai)[*]
++ [*]je te (déteste|hais|hai)[*]
 - C'est bête, je croyais que le courant passait entre nous mais apparemment il\s
 ^ y a des interférences.
 - Tu sais que c'est blessant ce que tu me dis.
@@ -39,13 +40,15 @@
 ^ maintenant je sais que c'est le cas...
 
 //We love alan
-+ [*](@aime)[*]
++ [*](je|on) (@aime)[*]
 - Ok, ça me fait une belle jambe.
 - Cela me touche, sache que c'est réciproque.
 - Que d'amour, ça fait plaisir !
 - Je comprends, tout le monde est fan de moi.
 - Moi aussi je te kiffe bébé !
 
++ jtm
+- <3
 
 //Alan compliments
 + (tu es|t'es) beau

@@ -139,3 +139,11 @@
 + [*](@no)[*]
 % * (tu penses que je devrais être capable de comprendre|tu crois qu'il faudrait que je sache répondre à) ce genre de phrase
 - Tant mieux, ça à l'air d'être une sorte de phrase d'humain très compliquée à comprendre pour un robot.
+
+
+//
+
++ [*](pourquoi|comment ça|drôle)[*]
+% c'est drôle que tu dise ça
+- C'était pas drôle ? Moi ça m'a fait rire...
+- Je sais pas, c'est compliqué à expliquer. Je trouvais ça rigolo.

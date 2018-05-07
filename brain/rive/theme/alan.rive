@@ -17,6 +17,11 @@
 + [*] [tu as|ça te fait] (quel âge|quel age) [tu as|ça te fait] [*]
 - J'ai dépassé la barre des <bot age>.
 - <bot age> déjà ! Tu te rends compte ?
+- J'ai environ <bot age> ! Et je suis en version <bot version>
+
++ [*](quelle|ta) version[*]
+- Je suis Alan v<bot version>
+- Je suis en version <bot version>
 
 //in case of Alan did not gave his name before
 ! array give_your_name = quel est ton nom|as tu un nom|c'est quoi ton nom
