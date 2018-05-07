@@ -48,28 +48,29 @@ class MainLogicAdapter(MultiLogicAdapter):
                 # get response
                 output = adapter.process(statement)
 
-                # add logic_identifier as extra_data
-                output.add_extra_data("logic_identifier", adapter.identifier)
-                # store result
-                result_info["confidence"] = output.confidence
-                result_info["text"] = output.text
-                # check if the sentence have been said
-                result_info["not_allowed_to_repeat"] = False
-                if not adapter.allowed_to_repeat:
-                    conversation_id = self.chatbot.default_conversation_id
-                    same_statement = self.chatbot.storage.get_latest_statement(
-                                        conversation_id=conversation_id,
-                                        text=output.text,
-                                        speaker="alan")
-                    if same_statement:
-                        result_info["not_allowed_to_repeat"] = True
+                if output:
+                    # add logic_identifier as extra_data
+                    output.add_extra_data("logic_identifier", adapter.identifier)
+                    # store result
+                    result_info["confidence"] = output.confidence
+                    result_info["text"] = output.text
+                    # check if the sentence have been said
+                    result_info["not_allowed_to_repeat"] = False
+                    if not adapter.allowed_to_repeat:
+                        conversation_id = self.chatbot.default_conversation_id
+                        same_statement = self.chatbot.storage.get_latest_statement(
+                                            conversation_id=conversation_id,
+                                            text=output.text,
+                                            speaker="alan")
+                        if same_statement:
+                            result_info["not_allowed_to_repeat"] = True
 
-                # check if it is the best
-                if (output.confidence > max_confidence
-                        and not result_info["not_allowed_to_repeat"]):
-                    result = output
-                    result_adapter = adapter
-                    max_confidence = output.confidence
+                    # check if it is the best
+                    if (output.confidence > max_confidence
+                            and not result_info["not_allowed_to_repeat"]):
+                        result = output
+                        result_adapter = adapter
+                        max_confidence = output.confidence
 
             results.append(result_info)
 
