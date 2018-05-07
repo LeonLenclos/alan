@@ -54,8 +54,7 @@ class NiOuiNiNon(AlanLogicAdapter):
             self.state = END
 
         else :
-            statement_out = Statement("")
-            statement_out.confidence = 0
+            return None
 
         return statement_out
 

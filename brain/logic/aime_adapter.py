@@ -103,8 +103,7 @@ class AimeAdapter(AlanLogicAdapter):
                                     self.relation, concept_B, negative=True)
                 response="Pour être franc %(A)s n'%(rel)s pas %(B)s, et toi?"
         else:
-            confidence=0
-            response="Pas de réponse, voici les infos: concept A : %(A)s Relation: %(rel)s Concept B %(B)s."
+            return None
             # If some C is related to B by the relation
         #    if self.chatbot.storage.get_related_concept(concept_B,
         #     self.relation, reverse=True) :
@@ -128,9 +127,9 @@ class AimeAdapter(AlanLogicAdapter):
         # case of the question 'qu'aimes-tu') or to big (more than 4 words),
         #  if it is then change confidence to 0
         if len(re.sub("(qu'|que| )","",concept_A)) == 0 or len(concept_A.split(" "))>4:
-            confidence=0
+            return None
         if len(re.sub("(qu'|que| )","",concept_A)) == 0 :
-            confidence=0
+            return None
 
 
         statment_out = Statement(response.capitalize())

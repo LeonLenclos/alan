@@ -115,7 +115,7 @@ class CestQuiAdapter(AlanLogicAdapter):
             # Get the distance between input statement and questions list
             confidence = utils.compare(question,self.questions)
         else:
-            confidence=0
+            return None
 
         # If concept_A is related by the relation to another concept, put
         # this concept into concept_B
@@ -136,7 +136,7 @@ class CestQuiAdapter(AlanLogicAdapter):
         # Verify that concept_A is non-empty and not to big (more than 3 words),
         #  if it is, then set confidence to 0
         if len(concept_A) == 0 or len(concept_A.split(" "))>4:
-            confidence=0
+            return None
 
 
         statment_out = Statement(response)
