@@ -80,19 +80,7 @@ Voir [brain/settings/README.md](brain/settings/README.md) pour plus d'informatio
 
 ### commandes spéciales
 
-Pour quitter
-
-```
- > ciao
-```
-
-Pour une annalyse des logic adapters en jeu dans la dernière réponse
-
-```
- > info
-```
-Pour noter les deux dernières répliques dans la liste todo.md
-
-```
- > todo
-```
+- Pour quitter `> ciao`
+- Pour une annalyse des logic adapters en jeu dans la dernière réponse `> info`
+- Pour noter les deux dernières répliques dans la liste todo.md `> todo`
+- Pour redémarrer `> rst`
