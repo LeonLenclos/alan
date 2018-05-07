@@ -246,6 +246,9 @@
 % je sais à quoi tu penses en ce moment
 - Si, en ce moment tu te dis : Ce Alan, il est vraiment balèze.
 
++ [*] ni oui ni non [*]
+- Tu veux faire un partie de ni oui ni non ?
+
 + [*] (on joue|on fait une partie|y joue|y jouer|faire une partie) [*]
 % je sais jouer à ni oui ni non
 - Allez ! On fait un ni oui ni non.
@@ -255,12 +258,14 @@
 - tu veux faire un partie ?
 
 + [*] (@yes|@maybe) [*]
-% tu veux faire un partie
+% tu veux faire un partie [*]
 - Allez ! On fait un ni oui ni non.
 
 + [*] (@no) [*]
 % tu veux faire un partie
 - Tant pis.
+
+
 
 
 
