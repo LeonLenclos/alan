@@ -11,8 +11,8 @@
 - <set insult=<star2>>Tu veux dire que je suis <get insult> ?
 
 + [*] es (un peu|pas trop|moyennement) (@outrages) [*] {weight=10}
-- <set insult=<star2>> Tu veux dire que je ne suis pas complètement <get insult> ?\s
-^ Quelque part, ça me rassure. Et toi, tu es tu es supérieurement intelligent ?
+- <set insult=<star2>>Tu veux dire que je ne suis pas complètement <get insult> ?\s
+^ Quelque part, ça me rassure. Et toi, tu es supérieurement intelligent ?
 
 + [*]@yes[*]
 % * veux dire que je suis (@outrages)[*]
