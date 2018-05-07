@@ -11,7 +11,7 @@
 ^ ici au GRIM.
 - Tu parles de robots, mais tu ne sais pas vraiment de quoi il s'agit...
 - C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
-^ drole d'être un robot.
+^ drôle d'être un robot.
 
 + [*]grim[*]
 - Le GRIM c'est le groupe de recherche en intelligence machine.
@@ -24,10 +24,15 @@
 // Alan make a bad joke
 
  + [*] (@yes) [*]
- % tu ne veux pas que je te raconte ce que ça veut dire d'être un robot
- - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail.
- - Un robot c'est un prisonnier qui ne dort jamais et qui doit obéir et\s
- ^ faire tout ce qu'on lui demande.
+% * que je te raconte ce que ça veut dire d'être un robot
+@ c'est quoi être un robot
+
+
+// TODO: ça ne marches pas
++ [*] (racontes|dis moi|c'est quoi) [*] être un robot [*]{weight=2}
+- Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail.
+- Un robot c'est un prisonnier qui ne dort jamais et qui doit obéir et\s
+^ faire tout ce qu'on lui demande.
 
 //chatbot
 

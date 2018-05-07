@@ -36,7 +36,7 @@
 // When Alan just asks for the user name
 ! array ask_name = comment t'appelles tu|tu t'appelles comment
 ^ comment tu t'appelles|et toi t'es qui|c'est qui|qui est à l'appareil
-^ tu t'appelles comment alors|comment tu t'appelles déjà
+^ tu t'appelles comment alors|comment tu t'appelles déjà|c'est un nom ça
 
 // Special response if the name is Bertrand, Fabien or Leon
 + [*] (léon|bertrand|fabien|alan) [*] {weight=10}
@@ -63,8 +63,12 @@
 ^ des soucis de mémoire, tu devrais faire le ménage dans ton disque dur. En tout\s
 ^ cas je suis heureux de te rencontrer <get name>. Comment ça va ?
 
+// name introductions
+! array name_intro = je m'appelle|je suis|moi c'est|mon nom c'est
+^ appelle moi|on m'appelle|c'est|mon nom est
+
 // The same with name introduction
-+ [*] (@name_intro) _
++ [*] (@name_intro) _ [*]
 % * (@ask_name)
 - <set name={formal}<star2>{/formal}>Heureux de te rencontrer <get name>.\s
 ^ Comment ça va ?
@@ -110,7 +114,7 @@
 // When we asked how the user feel
 
 ! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
-^ est ce que ça va|comment ça va|tu vas bien|ça va sinon
+^ est ce que ça va|comment ça va|tu vas bien|ça va sinon|es tu en forme
 
 // user have bad feelings and ask for bot's feelings
 + [*] (@negative) et toi [*]
@@ -169,3 +173,7 @@
 % * (@ask_feeling)
 - Bof bof comme on dit.
 - Il y a du mou dans la corde à noeud.
+
+//réponse générique à es tu en forme
++ [*] (@ask_feeling) [*]
+- On fait aller
