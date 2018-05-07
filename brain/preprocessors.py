@@ -1,17 +1,7 @@
 from nltk.tokenize import word_tokenize
 from string import punctuation
-
-try :
-    import enchant
-    # Init dictionnary for check_spelling
-    french_dict = enchant.Dict('fr')
-    dict_extension = [
-        # commands
-        'todo', 'rst', 'quit', 'info',
-        # other
-        'siri', ]
-    for d in dict_extension : french_dict.add_to_session(d)
-except ImportError: pass
+from utils import remove_accents
+from utils import french_dict
 
 def save_original_text(chatbot, statement):
     """Put a copy of the statement.text in extra_data['original']"""
@@ -20,17 +10,18 @@ def save_original_text(chatbot, statement):
 
 def check_spelling(chatbot, statement):
     """Do a word by word spelling correction."""
-    try: french_dict
-    except NameError:
-        raise ImportError('you should have pyenchant to use this function')
-    tokens = word_tokenize(statement.text)
-    checked = []
-    for token in tokens:
-        if token not in punctuation:
-            if not french_dict.check(token):
-                token = french_dict.suggest(token)[0]
-        checked.append(token)
-    statement.text = ' '.join(checked)
+    if french_dict:
+        tokens = word_tokenize(statement.text)
+        checked = []
+        for token in tokens:
+            if token not in punctuation and not french_dict.check(token):
+                suggestions = french_dict.suggest(token)
+                suggestion = suggestions[0] if suggestions else None
+                if suggestion:
+                    if remove_accents(token) == remove_accents(suggestion):
+                        token = suggestion
+            checked.append(token)
+        statement.text = ' '.join(checked)
     return statement
 
 def add_speaker_data(chatbot, statement):
