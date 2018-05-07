@@ -4,8 +4,6 @@
 
 [Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'alan.
 
-Les consignes d'écritures pour le développement d'Alan sont dans le fichier `brain/README.md` présent dans ce dépôt github. Cete page sert aux visiteurs et aux consignes d'installation.
-
 ## Description
 
 Alan est un agent conversationel en cours de développement créé pour le spectacle [Turing Test](https://github.com/LeonLenclos/turing-test) avec la collaboration de l'[IRIT](https://www.irit.fr/) (Institut de Recherche en Informatique de Toulouse) et plus particulièrement des équipes de recherche SAMoVA et MELODI. C'est un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
