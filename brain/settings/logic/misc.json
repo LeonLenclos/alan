@@ -94,8 +94,8 @@
              "identifier": "best_practices",
              "skill_description": ["Parceque je ne comprends rien à ce qu'on me dit si on ne me parles pas bien..."],
              "sentence": "Je ne te comprends pas. Peux tu faire des phrases courtes, ne dire qu'une seule chose à la fois et faire attention à l'orthographe. Ça va rendre nos échanges beaucoup plus fluides. Merci d'avance !",
-             "min_letters": 20,
-             "min_misspelled": 3,
+             "min_letters": 40,
+             "min_misspelled": 4,
              "max_confidence": 0.25,
              "import_path": "logic.BestPracticesAdapter"
 
