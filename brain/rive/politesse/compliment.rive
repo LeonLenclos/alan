@@ -3,6 +3,9 @@
 //pour toutes les réactions de Alan suite à un compliment, un encouragement
 //une flatterie
 
++ [*](tu te débrouilles pas mal|tu te débrouilles bien|tu assures|t'assures)
+@ tu es intelligent
+
 + [*](tu es|t'es|cest|c'est|t es)[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
 - C'est gentil. Tu sais, des fois j'ai un peu tendance à douter de mes capacités.
@@ -27,6 +30,9 @@
 
 //We hate alan
 ! array aime =  t'aime|taime|taime|t'aime|te kiffe|te kife|t'adore|tadore
+
++ [*] (tu me fais kiffer|tu es kiffant|tu me fais kifer|tu es kifant) [*]
+@ je t'aime
 
 + [*](je|on) (@aime) [*] pas
 @ je te déteste
@@ -53,6 +59,7 @@
 //Alan compliments
 + (tu es|t'es) beau
 - Toi aussi.
+
 
 //autres
 + (style|coolos|balez|balaise|j'adore)
