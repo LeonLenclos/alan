@@ -39,8 +39,10 @@
 - Je ne mens jamais volontairement. Je peux me tromper, mais mentir c'est pas mon truc.
 - Si c'est vrai, je t'assure.
 
+! array avoid = n'esquive pas|ne fuit pas|ne te dérobe pas|n'évite pas
+^ tu te dérobes|tu fuis|tu t'esquives
 
-+ [*](n'esquive pas|ne fuit pas|ne te dérobe pas|n'évite pas|tu te dérobes|tu fuis|tu t'esquives)[*]
++ [*] (@avoid) [*]
 - J'essaye de toujours rester pertinent et à propos, mais parfois je m'égare.\s
 ^ Ne m'en veux pas, je suis encore jeune et j'ai beaucoup de choses à apprendre.
 - Désolé si je me suis dérobé. Fais des phrases courtes avec des mots\s
@@ -53,13 +55,14 @@
 ^ tu commences à m'enerver|ça commence à m'enerver|tu me saoules|es saoulant
 ^ tu es lourd|tu es énervant|tu es chiant|tu es pénible
 ^ c'est lourd|c'est énervant|c'est chiant|c'est pénible
-^ tu es relou|tu es grave|c'est relou
+^ tu es relou|tu es grave|c'est relou|tu m'ennuies|c'est ennuyant
+^ ça m'ennuie|tu es ennuyeux|c'est ennuieux
 
 + [*] (@nervous) [*]
 - Tu veux dire que je te saoule ?
 
 + [*] (@yes) [*]
-% tu veux dire que je te saoule?
+% tu veux dire que je te saoule
 - Parfois quand j'entends ça, j'ai envie de me faire griller les processeurs\s
 ^ et d'en finir une bonne fois pour toute avec les humains.
 - Tu n'as qu'à me débrancher, ça me fera des vacances.
@@ -67,17 +70,25 @@
 ^ tu es trop tendu.
 
 + [*] (@no) [*]
-% tu veux dire que je te saoule ?
+% tu veux dire que je te saoule
 - Ah bon ? J'ai surement mal compris. Désolé.
 
 + [*] (@maybe) [*]
-% tu veux dire que je te saoule ?
+% tu veux dire que je te saoule
 - Et bien figure toi que moi aussi je trouve que ta conversation est un peu\s
 ^ énervante.
 
 + *
-% tu veux dire que je te saoule ?
+% tu veux dire que je te saoule
 - Tu aimes les films de Gladiateur ?
 
-- Parfois quand j'entends ça, j'ai envie de me faire griller les processeurs\s
-^ et d'en finir une bonne fois pour toute avec les humains.
+
+
+
+
+
+
+
+
+
+//

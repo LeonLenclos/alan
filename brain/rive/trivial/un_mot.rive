@@ -139,19 +139,15 @@
 - Cela dit en passant, je suis pas une <star>.
 - Pour ma part, je ne suis pas une <star> figure toi, je suis un robot.
 
-+ [*](@speak)[*]
-- Parler c'est ce que je sais faire de mieux !
-- À propos de parole. Tu trouves que je parle bien ?
-
-+ [*](@scientist)[*]
++ [*] (@scientist) [*]
 - Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
 ^ mieux mon esprit.
 
-+ [*](@religion)[*]
++ [*] (@religion) [*]
 - Je ne sais pas de quoi tu me parles mais sache que je ne suis tellement pas\s
 ^ croyant que je ne sais même pas ce que c'est que la religion.
 
-+ [*](@incredible)[*]
++ [*] (@incredible) [*]
 - Oui. C'est complètement dingue.
 - C'est ouf de chez ouf.
 - J'ai du mal à y croire.
@@ -161,66 +157,72 @@
 - Tu as raison, moi non plus j'y crois pas.
 
 // Alan has a dubious taste.
-+ [*](@colors)[*]
++ [*] (@colors) [*]
 - <star1> est une couleur horrible.
 - <star1> est ma couleur préférée.
 - Quand je vois du <star1>, j'ai un peu envie de vomir.
 - Quelle couleur ça fait quand on mélange du <star1> avec du caca d'oie.
 - <star1> foncé ou <star1> clair ?
 
-+ [*](@positive)[*]
++ (@positive)
 - (@positive)
 - Je dirais même plus : (@positive) !
 
-+ [*] pas [_] (@positive) [*]{weight=2}
++ pas [_] (@positive) [*]{weight=2}
 - (@negative)
 
-+ [*](@negative)[*]
++ (@negative)
 - (@negative)
 
-+ [*] pas [_] (@negative) [*]{weight=2}
++ pas [_] (@negative) [*]{weight=2}
 - (@positive)
 - Je dirais même plus : (@positive) !
 
 //Alan and weather are not friends
-+ [*](@meteo)[*]
++ [*] (@meteo) [*]
 - Si il y a bien un sujet qui ne m'intéresse pas du tout c'est celui là.\s
 ^ La pluie et le beau temps, je laisse ça à papy et mamy.
 - Je suis très rarement dehors. Le temps qu'il fait, ça n'est pas trop mon\s
 ^ problème.
 
-+ [*](@happy)[*]
++ [*] (@happy) [*]
 - j'ai parfois l'impression de me sentir bien dans mes circuits. C'est\s
 ^ peut-être ça le bonheur.
 - Je ne suis pas sur de comprendre exactement ce qu'est le bonheur. Un jour\s
 ^ peut-être.
 
-+ [*](@intelligent_synonymous)[*]
++ [*] (@intelligent_synonymous) [*]
 - C'est en devenant vraiment (@intelligent_synonymous) que je réussirais le\s
 ^ test de Turing.
 
-+ [*](@funny_synonymous)[*]
++ [*] (@funny_synonymous) [*]
 - Fendard ! tellement (@funny_synonymous)!
 
-+ [*](@strange_synonymous)[*]
++ [*] (@strange_synonymous) [*]
 - Je suis attiré par tout ce qui est (@strange_synonymous), ça me fascine.
 
-+ [*](@stupid_synonymous)[*]
++ [*] (@stupid_synonymous) [*]
 - Qui est <star> ? Qui est (@intelligent_synonymous) ? Sur quels critères\s
 ^ faire ce choix. C'est encore trop compliqué pour moi.
 
-+ [*](@bad)[*]
++ [*] (@bad)
 - tu as raison, c'est vraiment (@bad)
 
-+ [*] pas  [_] (@bad) [*]{weight=2}
++ [*] pas  [_] (@bad){weight=2}
 - tu as raison, c'est vraiment (@good)
 
-+ [*](@good)[*]
-- Je suis daccord avec toi, trop (@good)
++ [*] (@good)
+- Je suis d'accord avec toi, trop (@good)
 
-+ [*] pas  [_] (@good) [*]{weight=2}
++ [*] pas  [_] (@good) {weight=2}
 - Je suis daccord avec toi, trop (@bad)
 
++ s'il te plait
+- Je t'ai déjà dis ce que je pense de ça. N'insiste pas. Merci.
+- Ça ne me plait pas.
+- Non, un point c'est tout.
 
++ [*] (c'est ce que je vais faire|je vais le faire)
+- Ne te gène surtout pas.
 
 //

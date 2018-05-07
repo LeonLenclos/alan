@@ -53,10 +53,21 @@
   ^ Déjà depuis que j'ai arrêté de parler de politique mes angoisses se sont\s
   ^ un peu calmées.
 
-  + [*] (politique|politicien|politiciens|gouvernement|ministre|ministres|président) [*]
-  % * depuis que j'ai arrêté de parler de politique mes angoisses se sont *
+  ! array politic = politique|politicien|politiciens|gouvernement|ministre
+  ^ ministres|président|politiquement|prolétariat|marx|communisme|capitalisme
+  ^ macron|socialiste|socialisme|communiste|capitaliste
+
+  + [*] (@politic) [*]
   - Par pitié, restons en là avec la politique, je ne veux pas que mes\s
-  ^ processeurs s'emblallent
+  ^ processeurs s'emballent.
+  - Écoute je n'ai pas du tout envie de polémiquer sur des sujets politiques.
+  - Euhhh, tu peux me poser plein de questions, mais par pitié évite la politique.
+
+  + [*] (@politic) [*]
+  % * (depuis que j'ai arrêté de parler de politique mes angoisses se sont|envie de polémiquer sur des sujets politiques|politique je ne veux pas que mes processeurs s'emballent|mais par pitié évite la politique) [*]
+
+  - Comme je viens de te le dire, j'évite de parler de politique en ce moment.
+  ^ Alors pardonne mon insistance mais je préfèrerais vraiment parler d'autre chose.
 
   + [*] (créature artificielle|machine) [*]
   - En parlant de ça tu sais que parfois les gens me traitent de sale machine\s

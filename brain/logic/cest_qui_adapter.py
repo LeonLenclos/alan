@@ -94,7 +94,7 @@ class CestQuiAdapter(AlanLogicAdapter):
         self.unknow_concept = None
 
         # Concept_A is the string following the last relation occurence
-        concept_A=re.split("est ",statement.text)[1]
+        concept_A=re.split("est",statement.text)[1]
         # Remove the punctuation from concept_A except apostrophe "'"
         concept_A=utils.remove_punctuation(concept_A, False)
 
@@ -132,7 +132,7 @@ class CestQuiAdapter(AlanLogicAdapter):
 
 
         response = response % {"A":concept_A, "B":concept_B, "rel":self.relation }
-        response = response + "."
+        response = response.strip()
         # Verify that concept_A is non-empty and not to big (more than 3 words),
         #  if it is, then set confidence to 0
         if len(concept_A) == 0 or len(concept_A.split(" "))>4:

@@ -42,7 +42,7 @@ class CatchRepetitionAdapter(AlanLogicAdapter):
         self.ignore = kwargs.get("ignore", [])
 
     def can_process(self, statement):
-        return len(statement.text) > 0 and statement.text not in self.ignore
+        return len(statement.text) > 2 and statement.text not in self.ignore
 
     def process(self, statement):
 
