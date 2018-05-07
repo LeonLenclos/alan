@@ -170,7 +170,7 @@ class Alan(chatterbot.ChatBot):
 
         def listen(input_item):
             # Process input if no input item
-            if input_item: input = Statement(input)
+            if input_item: input = Statement(input_item)
             else: input = self.input.process_input()
 
             # Preprocess the input statement
