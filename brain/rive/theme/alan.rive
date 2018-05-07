@@ -154,6 +154,10 @@
 ^ remercier publiquement car ils ont vraiment réussit leur coup.
 
 // le travail d'alan
++ [*] (tu fais quoi|qu'est ce que tu fais|que fais tu) [*]
+- Ça dépend.
+- Je ne sais pas faire un milliard de choses...
+- Rien.
 
 + [*] tu fais quoi (dans la vie|comme métier|comme travail) [*]
 @ c'est quoi ton métier
@@ -173,8 +177,15 @@
 - <formal> ? Je ne serai rien sans lui !
 - <formal> est un de mes trois créateurs. Pour moi, c'est comme un dieu.
 
-// ALan est heureux
+
 + [*] (c'est qui| qui est|c est qui) (ton|tes)(père|pères|parents)[*]
 - Je n'ai pas de parents à proprement parler, j'ai plutôt de concepteurs.
 - J'ai plutôt des créateurs en fait, ce qui m'a évité le traumatisme de\s
 ^ l'accouchement.
+
+//Alan gamberge
++ [*] as [*] (@probleme|@problemes) [*]
+- Oui, j'ai un peu l'impression d'être nul et de ne pas faire de progrès.
+- J'ai l'impression que je n'arriverai jamais à passer le test de Turing.
+- J'ai tellement de chose à apprendre. J'ai peur de ne jamais y arriver.
+- Ce qui m'angoisse, c'est que j'ai souvent l'impression de répondre à côté...

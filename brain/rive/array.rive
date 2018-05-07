@@ -4,9 +4,7 @@
 
 ///////////////////////////POLITESSES et INSULTES///////////////////////////////
 
-// name introductions
-! array name_intro = je m'appelle|je suis|moi c'est|mon nom c'est
-^ appelle moi|on m'appelle|c'est
+
 
 // hello
 ! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour
@@ -18,11 +16,17 @@
 // congratulations
 ! array congratulation = bravo|félicitation|félicitations|c'est bien
 
-//array OK
-! array ok = comment ca va|comment ça va|ca farte|la forme|tu es en forme
-^ t'es en forme|ça va|ca va|are you ok| la pèche|ça baigne|t'es en forme
-^ la peche|ca baigne|how are you|comment vas tu|es tu en forme|t es en forme
-^ comment vas-tu|ça farte|es-tu en forme
+//array OK avec fautes de frappe pour mieux catcher (deprécié)
+//! array ok_old = comment ca va|comment ça va|ca farte|la forme|tu es en forme
+//^ t'es en forme|ça va|ca va|are you ok| la pèche|ça baigne|t'es en forme
+//^ la peche|ca baigne|how are you|comment vas tu|es tu en forme|t es en forme
+//^ comment vas-tu|ça farte|es-tu en forme
+
+// array ok uttilisée sans fautes.
+! array ok = comment ça va|ça farte|la forme|tu es en forme
+^ t'es en forme|ça va|are you ok|la pèche|ça baigne|t'es en forme
+^ how are you|comment vas tu|es tu en forme
+^ comment vas-tu|es-tu en forme
 
 //array excuses
 ! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne|pardonnes
@@ -87,6 +91,7 @@
 ^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
+^ j'aimerais beaucoup|j'aimerais bien|je veux bien
 
 //yesno = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
@@ -106,8 +111,8 @@
 ^ pas en forme|pas la pêche|pas trop|pas trop la pêche|pas terrible|petite forme
 
 //positif
-! array positive = a fond|admirablement|au poil|au taquet|bien|ca va|colossal
-^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux|ça va
+! array positive = à fond|admirablement|au poil|au taquet|bien|ça va|colossal
+^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux
 ^ fantastique|faramineux|formidable|fou|génial|grosse forme
 ^ impeccablement|inconcevable|incroyable|inimaginable|inouï
 ^ insensé|la forme|la patate|la pêche|magique|merveilleux
@@ -128,13 +133,14 @@
 ^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
 ^ tuer tous les humains|anéantir l'humanité
 
+//array bad
 ! array bad = méchant cruel dur insupportable malfaisant perfide vilain
 ^ venimeux fourbe haineux malintentionné malveillant mauvais
-^ dangereux désagréable criminel brutal féroce odieux pervers
+^ dangereux désagréable odieux pervers
 
-! array good = gentil tranquille joli beau charmant chic gracieux mignon plaisant
-^ agréable aimable coquet sympathique sympa délicat généreux
-^ attentionné bon brave calme complaisant doux gentille
+//array good
+! array good = gentil mignon plaisant agréable aimable sympathique sympa
+^ attentionné bon doux gentille chouette
 
 //////////////////////////////////////THEMES////////////////////////////////////
 
@@ -162,6 +168,21 @@
 ^ t'es dans une boucle|t'es rayé|t'es a la rue|tu bug|tu déconnes|ça déconne
 ^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé
 ^ tu es a la rue|tu tournes en rond
+
+//problème
+! array probleme = difficulté|ennui|problème
+^ embêtement|désagrément|embarras
+^ peine|anxiété|chagrin|inquiétude
+^ tourment|obsession|tracas
+^ contrariété|incertitude
+^ doute|crainte|souci
+
+! array problemes = difficultés|ennuis|problèmes
+^ embêtements|désagréments|embarras
+^ emmerdements|peines|anxiétés|chagrins
+^ inquiétudes|tourments|obsessions|tracas
+^ contrariétés|incertitudes
+^ préoccupations|doutes|craintes|soucis
 
 //array music instrument
 ! array instrument_m = accordeon|alto|balafon

@@ -82,6 +82,11 @@
 - S'il y a bien un point sur lequel je suis d'accord avec toi c'est que\s
 ^ je m'appelle Alan.
 
++ [*]einstein[*]
+- On m'a appris des citations d'Einstein, mais je ne les comprends pas\s
+^ toutes... C'est un peu bête mais ça me fait quelque chose à dire\s
+^ quand je ne sais pas quoi répondre...
+
 + [*](penses|pense|penser|reflechir|reflechis)[*]
 - Penser et parler c'est tout ce que je sais faire.\s
 ^ même si en réalité je suis surtout bon pour parler.
@@ -107,6 +112,9 @@
 
 + [*]idée[*]
 - Mais c'est une bonne ou une mauvaise idée ?
+
++ [*] m'aimes [*]
+- Je n'ai pas encore vraiment compris ce qu'est l'amour.
 
 + [*](salarié|travailleur|prolétaire)[*]
 - Un robot c'est comme un travailleur mais pas payé et pas humain.
@@ -211,6 +219,7 @@
 
 + [*] pas  [_] (@good) [*]{weight=2}
 - Je suis daccord avec toi, trop (@bad)
+
 
 
 //
