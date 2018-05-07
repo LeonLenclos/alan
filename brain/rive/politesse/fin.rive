@@ -30,3 +30,25 @@
 + [*](@no|@maybe)[*]
 % [*]tu pars déjà[*]
 - Ouf... J'avais mal compris.
+
+//Alan is dead
+
++ [*] t'es mort [*]
+- Très bien, puisque c'est comme ça je suis mort *bip*
+
++ *
+% très bien puisque c'est comme ça je suis mort [*]
+- ----------------------------------------*bip*
+
++ *
+% ---------------------------------------- [*]
+- ---------------------------------------*bip*
+
++ *
+% --------------------------------------- [*]
+- --------------------------------------*bip*
+
+
++ *
+% ---------------------------------------[*]
+- Ne t'inquiètes pas je faisais semblant, personne ne peux me tuer.
