@@ -37,7 +37,7 @@
 
 //Alan is dead
 
-+ [*] t'es mort [*]
++ [*] (t'es|t'es|tu es) mort [*]
 - Très bien, puisque c'est comme ça je suis mort *bip*
 
 + *
@@ -54,5 +54,5 @@
 
 
 + *
-% ---------------------------------------[*]
+% --------------------------------------[*]
 - Ne t'inquiètes pas je faisais semblant, personne ne peux me tuer.
