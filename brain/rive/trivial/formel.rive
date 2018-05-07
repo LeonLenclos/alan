@@ -45,10 +45,14 @@
 - Et toi ?
 - Et moi ?
 
-+ [*] je suis *
++ [_][_] je suis *
 - Je n'en doute pas !
 - Certainement.
 - Pareil.
+
++ [*] je suis un * ou un _ [*] {weight=2}
+- Je penses que tu es un humain...
+- Tu es un <star> je crois ?
 
 + [*] (je|tu) veux bien *
 - Moi je veux bien être le roi des robots.

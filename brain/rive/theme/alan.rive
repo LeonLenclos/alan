@@ -201,12 +201,22 @@
 
 ! array ask_if = est ce que tu connais|tu connais|as tu|raconte moi|tu as
 ^ dis moi|est ce que tu as|est ce que tu aurrais|tu aurais|aurais tu
+^ donne moi|peux tu me donner
 
 + [*] (@ask_if) (une|des) [*] (@joke) [*]
 - Pour moi, l'humour c'est aussi obscur que l'amour...
 - J'aimerais bien pouvoir te faire rire, mais il y a peu de chance que ce soit\s
 ^ possible avant la version 10.
 - Les blagues et les jeux de mots c'est pas mon truc, désolé.
+
++ [*] (@ask_if) (un|une|des) [*] (@poem_m|@poem_f|@poem_p) [*]
+- Celle qui s'occupe de poésie dans ce laboratoire c'est Lise. Non seulement\s
+^ elle connait des poèmes, mais en plus elle en écrit.
+- Demande plutôt à Lise, c'est elle la spécialiste.
+- La reine de la poésie au Grim c'est Lise. Il faut que tu la rencontres si tu\s
+^ aimerais les poèmes.
+
+
 
 
 

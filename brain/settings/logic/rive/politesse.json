@@ -17,7 +17,7 @@
        },
        {
           "identifier": "divers",
-          "skill_description": ["parce que tu m'a demandé de te renseigner sur mon état de forme"],
+          "skill_description": ["C'était juste de la politesse basique."],
           "rive_files": ["./rive/politesse/divers.rive"],
           "max_confidence": 0.35,
           "import_path": "logic.RiveScriptAdapter"
