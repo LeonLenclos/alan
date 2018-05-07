@@ -113,7 +113,7 @@ class Alan(chatterbot.ChatBot):
            for name in files:
               if name.endswith(('.py', '.json', '.rive')):
                   path = '/'.join((root,name))
-                  lines_of_code += sum(1 for line in open(path))
+                  lines_of_code += sum(1 for line in open(path) if line != '\n')
         return lines_of_code
 
     def log(self, message, header=False):
@@ -268,6 +268,7 @@ class Alan(chatterbot.ChatBot):
         self.log('RESET', True)
         self.finish()
         python = sys.executable
+        os.system('clear')
         os.execl(python, python, * sys.argv)
 
     def todo(self):
