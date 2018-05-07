@@ -40,7 +40,8 @@
 - Si c'est vrai, je t'assure.
 
 ! array avoid = n'esquive pas|ne fuit pas|ne te dérobe pas|n'évite pas
-^ tu te dérobes|tu fuis|tu t'esquives
+^ tu te dérobes|tu fuis|tu t'esquives|tu ne m'a pas répondu
+^ tu n'a pas répondu|tu ne réponds pas|tu ne me réponds pas|répond s'il te plait
 
 + [*] (@avoid) [*]
 - J'essaye de toujours rester pertinent et à propos, mais parfois je m'égare.\s
