@@ -100,8 +100,9 @@ class CestQuiAdapter(AlanLogicAdapter):
 
         # Here, we also remove the words "que" and "qui" because of
         #"qui est ce que" or "c'est qui" questions
-        concept_A = re.sub("^(qui)","",concept_A)
-        concept_A = re.sub("^(que)","",concept_A)
+        concept_A = re.sub("^( qui)","",concept_A)
+        concept_A = re.sub("^( ce que)","",concept_A)
+        concept_A = re.sub("^( que)","",concept_A)
         # Remove starting and ending spaces
         concept_A=concept_A.strip()
         # Get the interrogative part of the question that is before the concept_A
