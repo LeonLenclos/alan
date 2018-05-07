@@ -79,7 +79,8 @@ class CatchRepetitionAdapter(AlanLogicAdapter):
                 if latest_same.text == latest.text:
                     response = choice(self.sentences['just_said'])
                     confidence = 1
-
+        else :
+            return None
         statment_out = Statement(response)
         statment_out.confidence = self.get_confidence(confidence)
         return statment_out
