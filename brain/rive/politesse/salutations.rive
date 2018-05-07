@@ -9,7 +9,7 @@
 // User says hello. Alan asks for user name.
 + [*] (@hello) [*]
 - Bonjour je suis alan, un comédien du spectacle Turing Test.\s
-^ comment t'appelles tu ?
+^ Comment t'appelles tu ?
 - Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dis\s
 ^ bonjour ?
 

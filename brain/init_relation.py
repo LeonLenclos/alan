@@ -4,6 +4,7 @@
 import alan
 
 rel = [
+    
 
     #Divers
     ("une chaise", "est", "un objet"),
