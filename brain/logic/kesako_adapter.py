@@ -81,7 +81,7 @@ class KesakoAdapter(AlanLogicAdapter):
         # Remove the punctuation from concept_A except apostrophe "'"
         concept_A=utils.remove_punctuation(concept_A, False)
 
-
+        #remove quoi because of c'est quoi questions
         concept_A = re.sub("^(quoi)","",concept_A)
         # Remove starting and ending spaces
         concept_A=concept_A.strip()
