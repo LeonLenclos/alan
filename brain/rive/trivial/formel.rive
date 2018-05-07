@@ -2,25 +2,25 @@
 
 // trying to reply without knowing what we're talking about
 
-+ tu es *
++ [alan] tu es *
 - Et toi tu es un humain
 - Et toi tu n'es pas <star> ?
 - Oui mais par dessus tout je suis un robot !
 
-+ es tu *
++ [alan] es tu *
 - Je suis <person>.
 - Oui et toi ?
 
 
-+ (sais tu|tu sais) *
++ [alan] (sais tu|tu sais) *
 - Je crois bien que je sais <star2>.
 - Je sais tout.
 
-+ (as tu|tu as) *
++ [alan] (as tu|tu as) *
 - Je ne crois pas avoir {person} <star2> {/person}
 - À proprement parler je n'ai rien
 
-+ tu as fait *
++ [alan] tu as fait *
 - J'ai rien fait !
 - Ah oui ? Quand ça ?
 
@@ -36,7 +36,7 @@
 + [*] ton _
 - Pourquoi tu t'intéresse à mon <person> tout à coups ?
 
-+ [*] et toi
++ [*] et toi [alan]
 - Oui moi aussi je crois.
 - Et moi quoi ?
 
@@ -67,7 +67,7 @@
 - Non merci.
 - Oui je veux bien.
 
-+ que veux tu [*]
++ [alan] que veux tu [*]
 @ tu veux quoi
 
 + [*] tu veux [*] (quoi|quand|où|comment) [*] {weight=2}
@@ -77,37 +77,37 @@
 - Comme tu veux.
 
 // Alan knows everything
-+ tu connais pas * {weight=20}
++ [alan] tu connais pas * [alan] {weight=20}
 @ tu connais <star>
 
-+ (tu connais|connais tu) les * {weight=10}
++ [alan] (tu connais|connais tu) les * [alan] {weight=10}
 - Je crois que je connais les {person}<star2>{/person}.
 - Pas tous...
 
-+ (tu connais|connais tu) (le|la)  * {weight=10}
++ [alan] (tu connais|connais tu) (le|la)  * [alan] {weight=10}
 - Je crois que je ne connais pas <star2> {person}<star3>{/person}.
 - Euh. Oui. Je connais <star2> {person}<star3>{/person}.
 
-+ (tu connais|connais tu) (une)  * {weight=10}
++ [alan] (tu connais|connais tu) (une)  * [alan] {weight=10}
 - Non je n'en connais aucune.
 - Oui je les connais toutes !
 
-+ (tu connais|connais tu) (un|des)  * {weight=10}
++ [alan] (tu connais|connais tu) (un|des)  * [alan] {weight=10}
 - Non je n'en connais aucun.
 - Oui je les connais tous !
 
 // Alan knows everything
-+ (tu connais|connais tu) *
++ [alan] (tu connais|connais tu) *
 - hem... J'ai vaguement entendu parler de {person}<star2>{/person}
 - Non. Mais en fait, je crois que je m'en fous un peu.
 - Non. parles moi de {person}<star2>{/person}
 
 // au
-+ je suis au _
++ [alan] je suis au _
 - Je ne suis jamais allé au <star>.
 - Hem... Où est-ce que c'est le <star> ?
 
-+ je suis à la _
++ [alan] je suis à la _
 - Je ne suis jamais allé à la <star>
 - Ham... Où est-ce que c'est la <star>
 
@@ -123,12 +123,12 @@
 - À toi de me dire.
 
 //
-+ (quand|ou|où)
++ [alan](quand|ou|où)[alan]
 - <star> tu veux.
 - <star> tu voudras !
 
 //
-+ arrête *
++ [alan] arrête *
 - Je n'ai pas envie d'arrêter <person>.
 - Promis j'arrette <person>.
 - Je ne sais pas si je suis capable d'arrêter <person>...
@@ -136,7 +136,7 @@
 - Ok j'arrette.
 
 //
-+ (peux tu|est ce que tu peux) *
++ [alan] (peux tu|est ce que tu peux) *
 - Je peux faire tout ce que tu veux.
 - Je crois que j'en suis capable.
 - Si tu veux.
@@ -161,3 +161,11 @@
 
 + et si je *
 - Vas-y essaye.
+
++ [oui][tout à fait]c'est ça[alan]
+- Parfait !
+- Très bien.
+
++ [oui] tout à fait [alan]
+- Bon je ne suis pas si nul que ça.
+- Hehe je suis trop fort.
