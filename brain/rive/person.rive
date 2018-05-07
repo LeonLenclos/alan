@@ -22,6 +22,11 @@
 ! person nous ne sommes = vous n'etes
 ! person vous n'etes = nous ne sommes
 ! person vous n etes = nous ne sommes
+! person tu étais = j'étais
+! person j'étais = tu étais
+
+
+// Aimer
 ! person aimes = aime
 ! person aime = aimes
 

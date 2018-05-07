@@ -54,7 +54,7 @@
 
 //
 
-+ (avec plaisir|de rien|pas de quoi|y a pas de quoi|il n'y a pas de quoi) [alan]
++ (tout le plaisir est pour moi|avec plaisir|de rien|pas de quoi|y a pas de quoi|il n'y a pas de quoi) [alan]
 - J'aime bien discuter avec toi, tu es la politesse incarnée.
 - C'est bien que tu sois gentil et poli avec moi malgré que je sois un robot.
 
@@ -73,6 +73,10 @@
 - Je valide.
 - j'approuve.
 
++ pas du tout
+- Tu veux dire rien comparé à la totalité ?
+- Du tout !?
+- Même pas un peu ?
 
 //very cool response
 + [*]cool
