@@ -167,7 +167,7 @@
 ^ dingue|délire
 
 //array for weather
-! array meteo = pluie soleil neige météo froid chaleur
+! array meteo = pluie soleil neige météo froid chaleur grêle
 ^ beau temps|mauvais temps|temps qu'il fait
 
 //bug
