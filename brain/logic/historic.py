@@ -48,7 +48,8 @@ class Historic(AlanLogicAdapter):
 
     def can_process(self, statement):
         get_latest = self.chatbot.storage.get_latest_statement
-        if(get_latest(**self.get_latest_kargs)):
+        if (get_latest(**self.get_latest_kargs)
+             and compare(statement.text, self.questions) > 0.2):
             return True
         return False
 
