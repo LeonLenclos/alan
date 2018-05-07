@@ -122,7 +122,7 @@ class Alan(chatterbot.ChatBot):
         """
         with open('log.txt', 'a') as fi:
             if header:
-                fi.write('\n' * 2 + '-' * 10)
+                fi.write('\n' * 2 + '-' * 70)
             fi.write('\n' + message)
 
     def load_settings(self, settings_file='default', recursion=0):
