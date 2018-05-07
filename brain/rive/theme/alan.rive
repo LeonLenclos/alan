@@ -80,6 +80,7 @@
 
 //where is Alan
 ! array are_you_here = es tu là|où es tu|tu es là|es tu la|ou es tu|tu es la
+^ tu es ou|tu es où
 
 + @are_you_here
 * <get name> ne undefined => Yes <get name>, je suis là,\s
@@ -93,7 +94,7 @@
 
 + [*](ou|où|ailleurs)[*]
 % * et en même temps je suis aussi un peu ailleurs
-- Sur www.cienokill.fr .Tu devrais faire un tour sur ce site...
+- Sur www.cienokill.fr . Tu devrais faire un tour sur ce site...
 
 //look like
 ! array look_like = à quoi tu ressembles|tu ressembles à quoi|tu as quel look
