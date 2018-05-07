@@ -10,34 +10,31 @@ class NiOuiNiNon(AlanLogicAdapter):
     def __init__(self, **kwargs):
         """Required kwarg :
 
-        questions
+        previous
         A list of strings. the question that must be answered with this adapter.
         """
         super().__init__(**kwargs)
 
-        # Getting questions
+        # Getting previous
         try:
-            self.questions = kwargs['questions']
+            self.previous = kwargs['previous']
         except KeyError:
-            raise KeyError('questions is a required argument')
-        if type(self.questions) != list:
-            raise TypeError("questions must be a list")
-
+            raise KeyError('previous is a required argument')
+        if type(self.previous) != list:
+            raise TypeError("previous must be a list")
 
         self.state = BEGIN
 
     def can_process(self, statement):
         # Process only if there is a latest statement in the conversation
-        return 'non' in statement.text.lower() and 'oui' in statement.text.lower()
+        prev = self.chatbot.storage.get_latest_statement(speaker="alan").text
+        if self.state == BEGIN:
+            if prev in self.previous:
+                self.state = PLAYING
+                return False
+        return  self.state == PLAYING
 
-    def process_begin(self, statement):
-        confidence = compare(statement.text, self.questions)
-        statement_out = Statement("Allez ! on fait un Ni Oui Ni Non !")
-        statement_out.confidence = confidence
-        return statement_out
-
-
-    def process_playing(self, statement):
+    def process(self, statement):
         # # get previous statement's logic_identifier
         conversation = self.chatbot.default_conversation_id
         alan_latest = self.chatbot.storage.get_latest_statement(speaker="alan").text
@@ -59,25 +56,6 @@ class NiOuiNiNon(AlanLogicAdapter):
         else :
             statement_out = Statement("")
             statement_out.confidence = 0
-
-        return statement_out
-
-
-    def process_end(self, statement):
-        statement_out = Statement("")
-        statement_out.confidence = 0
-        return statement_out
-
-
-    def process(self, statement):
-
-
-        if self.state == BEGIN:
-            statement_out = self.process_begin(statement)
-        elif self.state == PLAYING:
-            statement_out = self.process_playing(statement)
-        elif self.state == END:
-            statement_out = self.process_end(statement)
 
         return statement_out
 

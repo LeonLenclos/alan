@@ -221,6 +221,41 @@
 - La reine de la poésie au Grim c'est Lise. Il faut que tu la rencontres si tu\s
 ^ aimerais les poèmes.
 
+//Alan sait faire des trucs
+
+! array doing = Que sais tu faire|qu'est ce que tu sais faire
+^ sais tu faire des choses|as tu des compétences|quels sont tes compétences
+^ tu sais faire quoi|tu peux faire quoi|sais tu faire des trucs
+^ Que peux tu faire|qu'est ce que tu peux faire|dis moi ce que tu sais faire
+
++ [*](@doing)[*]
+- Je sais jouer à ni oui ni non.
+- Je peux apprendre le sens de mots que je ne connais pas encore.
+- Je sais jouer de la musique. Tu veux écouter ce que je\s
+^ compose comme musique ?
+
+// ni oui ni non
+
++ [*] ni oui ni non [*]
+- Tu veux faire un partie de ni oui ni non ?
+
++ [*] (on joue|on fait une partie|y joue|y jouer|faire une partie) [*]
+% je sais jouer à ni oui ni non
+- Allez ! On fait un ni oui ni non.
+
++ [*] (@positive) [*]
+% je sais jouer à ni oui ni non
+- tu veux faire un partie ?
+
++ [*] (@yes|@maybe) [*]
+% tu veux faire un partie [*]
+- Allez ! On fait un ni oui ni non.
+
++ [*] (@no) [*]
+% tu veux faire un partie
+- Tant pis.
+
+
 
 
 

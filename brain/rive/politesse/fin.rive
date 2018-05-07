@@ -3,7 +3,11 @@
 // Pour finir une conversation
 // quit alan
 
-+ [_](ciao|ciao alan|allez ciao|aller ciao|quitte|quitte s'il te plaît|bye|bye bye|à bientot|à bientôt|à plus tard|à plus)[_][_]
+! array ciao = ciao|ciao alan|allez ciao|aller ciao|quitte|quitte s'il te plaît
+^ bye|bye bye|à bientot|à bientôt|à plus tard|à plus|au revoir|adieu|adios
+^ j'y vais|je m'en vais|je te laisse|j'ai un sanglier sur le feu
+
++ [_](@ciao)[_][_]
 * <get name> ne undefined => Ciao <get name> !
 - Ciao *quit*
 - À bientôt *quit*
