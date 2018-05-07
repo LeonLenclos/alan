@@ -246,12 +246,25 @@ class Alan(chatterbot.ChatBot):
             pygame.mixer.Sound("./ressources/musique_generative.wav").play()
         else : raise(KeyError, "The {} command does not exist".format(command))
 
+    def finish(self):
+        """Do exit job before quitting"""
+
+        # log the all conversation
+        self.log("CONVERSATION :", True)
+        count = self.storage.count_conv(self.default_conversation_id)
+        for i in reversed(range(count)):
+            self.log("- " + self.storage.get_latest_statement(offset=i).text)
+
     def quit(self):
         """Quit Alan."""
+        self.log('QUIT', True)
+        self.finish()
         sys.exit()
 
     def reset(self):
         """Reset Alan."""
+        self.log('RESET', True)
+        self.finish()
         python = sys.executable
         os.execl(python, python, * sys.argv)
 

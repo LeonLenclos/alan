@@ -83,12 +83,22 @@
                [
                  "Plaît-il ?",
                  "Je crois que tu n'as rien dit.",
-                 "..."
+                 "Je te laisse bouche bée ?"
                ]
              },
              "max_confidence": 0.5,
              "import_path": "logic.ExactMatch"
 
+        },
+        {
+             "identifier": "best_practices",
+             "skill_description": ["Parceque je ne comprends rien à ce qu'on me dit si on ne me parles pas bien..."],
+             "sentence": "????",
+             "min_letters": 20,
+             "min_misspelled": 3,
+             "max_confidence": 0.25,
+             "import_path": "logic.BestPracticesAdapter"
+
         }
-      ]
+    ]
 }
