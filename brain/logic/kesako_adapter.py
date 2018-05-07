@@ -76,7 +76,7 @@ class KesakoAdapter(AlanLogicAdapter):
         # Here, we also remove the words "que" and "qu'"because of "qu'est ce que
         # c'est que ..." questions and remove the string " quoi " if it begin concept_A (because of "C'est
         # quoi..." questions)
-        concept_A = re.sub(".*[ ']"+self.relation+"(-ce)*(ce)*(qu['e])*(quoi)*","",
+        concept_A = re.sub(".*[ ']"+self.relation+"(-ce)*( ce)*( qu['e])*( quoi)*","",
                                                             statement.text)
         # Remove the punctuation from concept_A except apostrophe "'"
         concept_A=utils.remove_punctuation(concept_A, False)
