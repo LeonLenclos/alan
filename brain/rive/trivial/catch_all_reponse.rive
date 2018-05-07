@@ -29,6 +29,11 @@
 % * joues tu d'un instrument de musique
 - Dommage, on aurait pu faire un boeuf ensemble.
 
++ [*](@maybe)[*]
+% * joues tu d'un instrument de musique
+- Je vois, tu joues tranquille dans ta chambre mais tu feras pas l'Olympia après\s
+ ^ demain. 
+
 + [*](@instrument_m)[*]
 % * joues tu d'un instrument de musique
 - Génial. J'ai jamais entendu le son d'un vrai <star>. J'aimerais trop que\s
@@ -139,3 +144,11 @@
 + [*](@no)[*]
 % * (tu penses que je devrais être capable de comprendre|tu crois qu'il faudrait que je sache répondre à) ce genre de phrase
 - Tant mieux, ça à l'air d'être une sorte de phrase d'humain très compliquée à comprendre pour un robot.
+
+
+//
+
++ [*](pourquoi|comment ça|drôle)[*]
+% c'est drôle que tu dise ça
+- C'était pas drôle ? Moi ça m'a fait rire...
+- Je sais pas, c'est compliqué à expliquer. Je trouvais ça rigolo.
