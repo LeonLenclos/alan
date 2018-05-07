@@ -99,7 +99,8 @@
 ^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui
 
 //no
-! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri|niet|pas
+! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri
+^ niet|pas
 
 //negative and positif
 ! array between = pas mal|moyen
