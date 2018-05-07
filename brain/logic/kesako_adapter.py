@@ -83,6 +83,10 @@ class KesakoAdapter(AlanLogicAdapter):
 
         #remove quoi because of c'est quoi questions
         concept_A = re.sub("^(quoi)","",concept_A)
+        #remove c'est que because of qu'est ce que c'est que questions
+        concept_A = re.sub("^(c'est que)","",concept_A)
+        concept_A = re.sub("^(c'est)","",concept_A)
+
         # Remove starting and ending spaces
         concept_A=concept_A.strip()
 
