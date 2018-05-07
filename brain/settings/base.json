@@ -1,9 +1,10 @@
 {
+    "import":["error"],
     "storage_adapter": "storage.AlanSQLStorageAdapter",
     "preprocessors": [
-        "chatterbot.preprocessors.clean_whitespace",
-        "chatterbot.preprocessors.convert_to_ascii",
-        "preprocessors.add_speaker_data"
+        "preprocessors.add_speaker_data",
+        "preprocessors.check_spelling",
+        "chatterbot.preprocessors.clean_whitespace"
     ],
     "database": "./database.sqlite3"
 }

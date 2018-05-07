@@ -1,0 +1,1329 @@
+{4715}{4800}Bamville Club|Jam session ce soir
+{5692}{5722}Dutch, qu'est-ce que t'en dis ?
+{5730}{5787}Pas mal, hein ?|Pas mal pour un Blanc !
+{5802}{5837}La musique, basta !
+{5842}{5892}- Moi, je veux de l'amour !|- Je vais t'en trouver.
+{5905}{5947}Je veux l'écouter.|ll joue bien.
+{6110}{6142}Vous êtes outillés ?
+{6150}{6185}On a tout, M. Flynn.
+{6190}{6257}ll est au Bamville.|Tu peux pas le rater.
+{6262}{6340}- On le ratera pas.|- Faut qu'il crève, l'enfoiré !
+{6815}{6860}C'est vrai qu'il sait jouer,|ce mec !
+{6930}{7000}Les filles,|vous venez avec nous ?
+{7010}{7107}Venez avec des gens bien.|Dites bonsoir à Dutch.
+{7717}{7757}ll y a aussi Bumpy.
+{7787}{7845}Ne me tentez pas !|J'en peux plus !
+{7850}{7947}Venez ici. Tenez $5. Chapeau,|la trompette. Digne d'un Noir.
+{7955}{8015}Même à quatre,|on ne fait pas le poids !
+{8025}{8075}Alors, vous venez ?
+{8090}{8182}Votre duel à la trompette, épatant !|A ce stade, c'est du vol.
+{8202}{8280}- Lui, il pille King Oliver.|- Une fois, j'ai paumé
+{8285}{8340}$1 000 sur un cheval :|Trompette de Gédéon.
+{8345}{8382}Votre nom, c'est Gédéon ?
+{8390}{8432}Abbadabba, ça c'est un musicien !
+{8450}{8487}Eh, les filles !
+{8507}{8537}Laisse tomber.
+{8560}{8610}Pourquoi rester seules ?|Venez.
+{8615}{8655}Je vais vous éblouir.
+{8660}{8717}- Vous couper le souffle.|- J'en étais sûre. Venez.
+{8742}{8795}Vise-moi ça. ll sait y faire,|le gars avec les nanas.
+{8800}{8842}Calez-vous là.
+{8850}{8900}Sur quoi je vais m'asseoir ?|On ne répond pas !
+{8915}{8977}Ne t'assieds pas|sur tes avantages.
+{8982}{9030}- Je vais dessiner vos noms.|- Abbadabba, Berman.
+{9050}{9087}Bon, Veronica... Alice...
+{9105}{9160}- C'est bien ça ?|- Laisse tomber.
+{9165}{9237}Ca y était presque, non ?|J'ai le don des chiffres.
+{9242}{9282}- Ton nom, c'est quoi ?|- Myrtille !
+{9297}{9340}Vous vous appelez Myrtille ?
+{9362}{9425}- Tu t'appelles comment ?|- Vera.
+{9430}{9502}Comme vérité. Et Cicero|comme en latin. Vous le parlez ?
+{9512}{9560}J'étais enfant de choeur.
+{9600}{9635}Enfant de choeur !
+{9647}{9685}Pas possible !
+{9775}{9827}- Vous avez un petit ami ?|- Je porte pas de bague, bébé.
+{9952}{9982}Les petits poulets...
+{10025}{10070}La police vous recherche,|Mlle Cicero ?
+{10125}{10177}Vous étiez tous très bien,|ce soir.
+{10200}{10220}Attention !
+{10465}{10515}Solly, rattrape-les !
+{10620}{10687}- Que se passe-t-il ?|- Y a des gens qui me ha¨i¨ssent.
+{10702}{10742}Putain ! Qui êtes-vous ?
+{10747}{10822}Je suis tonton Dutch, désormais.|Je te revaudrai ça.
+{10827}{10870}Dutch n'oublie jamais.
+{10885}{10927}Abbadabba, ça va ?
+{10965}{11002}Je suis aux anges.
+{11077}{11122}C'est tous les soirs pareil ?
+{11212}{11257}Je suis très très beurrée.
+{11580}{11630}Je suis un peu pompette,|y a pas à dire.
+{11647}{11702}Va falloir que je te couche !
+{11990}{12045}Sors ton bras, allez !
+{12090}{12145}Tu vois,|c'était pas bien difficile !
+{12310}{12382}Tu joues bien de la trompette.|On dirait l'Archange Gabriel.
+{12412}{12492}C'est un cornet.|Gabriel joue du saxo. Ca va ?
+{12530}{12610}Peu importe. Ne rentre pas.|Reste avec moi.
+{12615}{12657}Juste pour la nuit.
+{13005}{13055}J'ai les oreilles|qui bourdonnent.
+{13737}{13765}Quelle nuit !
+{13822}{13875}Et j'y étais, dis !|Avec le Dutchman.
+{13880}{13912}T'as vu venir la bombe.
+{13920}{13977}Un mec l'a balancée, j'ai plaqué|Dutch. Je lui ai sauvé la vie !
+{13982}{14017}Tu lui as sauvé la peau ?
+{14022}{14075}- C'est pour moi.|- Laisse.
+{14120}{14162}Joe, tu veux encaisser ?
+{14167}{14205}Tiens ! T'as du fric ?
+{14210}{14250}J'ai bossé.
+{14515}{14602}Avoir sauvé Dutch Schultz !|Les frères Dwyer sont lancés !
+{14607}{14632}Lancés ?
+{14640}{14690}Popke, viens avec nous.
+{14695}{14722}Vince, attends.
+{14735}{14772}Tu es devenu un héros.
+{14777}{14832}Dutch le raconte à tout le monde.
+{14837}{14882}Après moi.|J'ai des vues sur le Dutchman.
+{14887}{14940}Hein ? Que se passe-t-il ?
+{14945}{15005}Mon frère, bosser pour un trafiquant|d'alcool ? J'aime pas ça !
+{15165}{15222}On tue pas une mouche|dans l'assiette de sa mère !
+{15227}{15267}- Je l'ai eue ?|- Non. Loupée !
+{15275}{15342}Ca va pas, chez toi. C'est grave.
+{15365}{15395}Tenez-vous bien.
+{15452}{15480}Prête pour le concours ?
+{15510}{15542}Fais voir ce que tu sais faire.
+{15547}{15605}C'est affreux, je déteste.
+{15610}{15657}Mais non, tu adores ça.
+{15662}{15692}C'est pour ça|que tu vas gagner.
+{15697}{15765}Fais voir. N'importe.|Un enchaînement.
+{15777}{15800}Doucement.
+{15815}{15855}Doucement, merci.
+{15982}{16062}Tu traînes. Tu traînes.|Laisse faire le Maître.
+{16067}{16100}Le maître de quoi ?
+{16202}{16232}Regarde, maman.
+{16255}{16335}Faut le faire parfaitement|pour entrer au Cotton Club.
+{16597}{16655}Voilà comment|on entre au Cotton Club.
+{16715}{16775}Le Cot... le Cotton Club.
+{16780}{16845}Non. Pas de nouveaux pas.|Trop important, aujourd'hui.
+{16850}{16897}Faudra être très forts|pour l'audition.
+{16902}{16935}Forts ? De quoi tu parles ?
+{16940}{17030}Forts. Ces blanchettes,|au Cotton Club, ils sont pas fous.
+{17035}{17122}Si t'obéis au Blanc,|ton sang noir, il est foutu.
+{17127}{17190}On fera comme on sent.
+{17195}{17247}On ouvre en rythme et après,|le dribble ?
+{17255}{17327}Non, pas tout de suite,|le dribble. Plus tard.
+{17390}{17437}D'où tu sors ce fric ?|T'as un job ?
+{17445}{17472}Je fais des affaires.
+{17477}{17497}Des affaires ?
+{17505}{17537}Genre Jesse James.
+{17555}{17582}Tu bosses avec Jessie ?
+{17590}{17617}Qui c'est, ce con ?
+{17622}{17667}C'est Ed Popke.
+{17737}{17827}Dixie, j'ai une grande nouvelle,|je t'ai pas encore dit.
+{17835}{17857}Quoi ?
+{17862}{17897}Grande nouvelle.
+{17902}{17942}Je me suis marié.
+{17952}{18007}- Marié... Quoi ?|- Marié.
+{18047}{18130}Tu me dis que tu veux bosser pour|Dutch, mais pas que t'es casé ?
+{18155}{18207}- Où tu vas ?|- Je voulais entrer.
+{18217}{18240}Oublie.
+{18245}{18307}Je veux être seul|avec ma famille.
+{18370}{18432}La voilà.|Patsy, mon frère aîné, Dix.
+{18437}{18472}Félicitations.
+{18485}{18557}On félicite pas la mariée,|mais le marié.
+{18690}{18737}Sur la pointe des pieds.
+{18792}{18815}Fais glisser tes pieds.
+{18975}{19017}Patsy, habillez-vous !
+{19022}{19070}Je lui ai dit de ne pas|se balader comme ça.
+{19075}{19110}Je sais. ll y a un rat, ici.
+{19115}{19182}Un gros rat. Une queue comme ça.|Bon sang, mets un piège !
+{19187}{19232}Derrière le rideau.|Tu veux voir ?
+{19237}{19265}Derrière le rideau.
+{19367}{19407}Toi, je te boxerais !
+{19412}{19470}Tu n'appelles plus ta mère !
+{19475}{19562}Un bras là,|l'autre autour du cou, et la bise.
+{19570}{19610}Tes petits petons, ça va ?
+{19615}{19700}ll a sauvé la vie|de Dutch Schultz, au Bamville.
+{19705}{19727}Pourquoi ?
+{19732}{19762}Je savais pas qui c'était.
+{19770}{19822}Sais-tu bien|que c'est un sale type ?
+{19827}{19890}Patsy, habillez-vous !
+{19895}{19927}C'est fait.
+{19952}{19987}Laisse ce chat.
+{20070}{20100}Je te débarrasse ?
+{20160}{20262}A la semaine prochaine.|Sois un vrai petit danseur...
+{20337}{20372}et embrasse ta maman.
+{20500}{20557}- Alors, cette audition ?|- lls ont adoré.
+{20562}{20642}T'abandonnes les paris clandés ?
+{20650}{20677}T'es sûr du succès, hein ?
+{20682}{20725}On verra.|ll frime de nouveau.
+{20740}{20785}ll a pas besoin de frimer !
+{20790}{20867}Faut bien,|pour devenir une star, frangin.
+{20880}{20912}Bonne chance, les gars !
+{20950}{20982}Dalbert, tu vas où ?
+{21047}{21127}Excusez-moi... je...|j'ai une crise cardiaque, et je...
+{21135}{21187}Oui, vous avez l'air bien malade...
+{21192}{21242}Mademoiselle, je vais...
+{21262}{21330}Sandman, cette petite|du Cotton Club t'a jeté !
+{21335}{21385}C'est vrai. Je me rattraperai.
+{21540}{21567}M. Stark !
+{21610}{21685}On est nerveux pour l'audition,|on voudrait bien savoir...
+{21700}{21745}pour nous. On était bien ?
+{21750}{21780}Vous avez plu.
+{21805}{21855}- Je vous engage.|- Dans le show ?
+{21872}{21905}Gagné ?
+{21910}{21937}Gagné !
+{21955}{21990}Merci... Dites...
+{21995}{22037}Vous, les Blancs,|il y en a là-dedans !
+{22172}{22217}J'ai l'immense plaisir
+{22235}{22342}de vous présenter|les célèbres Cotton Club Girls !
+{22347}{22407}- Tu es mal placée.|- Pardon, Miss Webb.
+{22442}{22470}- Votre nom ?|- Dégagez !
+{22475}{22502}C'est quoi, votre nom ?
+{22510}{22537}Qu'est-ce que tu fais là ?
+{22545}{22585}Je suis de la troupe.|J'ai vu M. Stark.
+{22590}{22657}Je m'en fiche. Si tu es|de la troupe, tu m'appartiens.
+{22662}{22782}Tu ne passes pas par devant,|mais derrière. Compris ?
+{23365}{23390}T'es Dixie Dwyer ?
+{23427}{23447}Oui, exact.
+{23457}{23500}Le Dutchman|a du travail pour toi.
+{23555}{23610}ll dit que tu joues aussi du piano.
+{23630}{23650}Oui. Un peu.
+{23655}{23692}ll donne une petite fête.
+{23697}{23735}Une fête ? Combien ?
+{23740}{23767}1 50.
+{23822}{23860}1 50 ? C'est quand ?
+{23865}{23887}Tout de suite.
+{24087}{24125}Comment on vous appelle ?
+{24130}{24170}Moi, on m'appelle pas.
+{24180}{24250}- Pas même votre mère ?|- J'en ai pas, de mère.
+{24265}{24335}On m'a trouvé dans une poubelle.
+{24867}{24920}ll y a quoi,|dans l'étui à clairon ?
+{24925}{24952}Un clairon.
+{25140}{25182}C'est quoi, comme fête ?
+{25187}{25242}Une comme tu n'en as jamais vu.
+{25265}{25325}J'ai peut-être pas envie d'y aller.
+{25330}{25372}Bien sûr que si.
+{25432}{25457}Attends là.
+{25752}{25815}Pas de conneries.|L'oeil sur le boss !
+{25852}{25927}Le joueur de cornet.|Ca alors ! C'est la gloire !
+{26002}{26040}Clairon... Jesse James.
+{26045}{26082}- Tu fais quoi ici ?|- J'ai un job.
+{26087}{26147}Au Dutchman, j'y ai dit :|je suis le frère à Dixie.
+{26152}{26197}ll vous a sauvé, sauvez-moi.
+{26202}{26247}Tu lui as demandé|du boulot, comme ça ?
+{26252}{26290}Oui, j'ai dit : ''Siou plaît.''
+{26295}{26352}- Et toi ?|- Je suis avec Vinnie.
+{26445}{26472}C'est dans la poche.
+{26485}{26530}Ton petit frère émarge chez moi.
+{26535}{26557}Oui, il m'a dit.
+{26565}{26652}On emploie trop de Juifs.|Faut des lrlandais pour équilibrer.
+{26657}{26710}- Pas trop, quand même.|- lls me bottent, ces lrlandais.
+{26715}{26742}Costumes.
+{26755}{26817}Alors, le veinard ?|T'as apporté ton cornet ?
+{26822}{26862}Tu vois ça ?|C'est un début.
+{26885}{26952}Faut jouer le jeu,|jetez-moi ces pelures.
+{26957}{27027}Quand on bosse pour Dutch,|on se sape.
+{27032}{27100}Bon... on vous joue quoi ?
+{27105}{27122}Dis...
+{27127}{27212}J'ai beaucoup à faire.|Y a une fille qui doit venir.
+{27230}{27292}Elle chante.|Elle a sa partition.
+{27345}{27382}Tu lis la musique, au moins ?
+{27387}{27442}Je la lis, je compose...
+{27457}{27487}Je joue.
+{27507}{27550}Et même, je couche avec.
+{27555}{27602}Bien. Joue pour elle.|Mais couche pas avec.
+{27662}{27742}Allez, le veinard, relax.|Tu me plais.
+{28040}{28110}Je cherche M. Dutch Schultz.|Vous le connaissez ?
+{28115}{28165}Tout le monde|connaît le Dutchman.
+{28170}{28197}Vous travaillez pour lui ?
+{28205}{28235}Je travaille pour moi.
+{28240}{28282}Owney Madden. Et vous ?
+{28302}{28327}Owney Madden ?
+{28375}{28400}Vous êtes célèbre.
+{28442}{28522}Vera Cicero.|C'est à vous, le Cotton Club, non ?
+{28527}{28570}Et bien d'autres choses.
+{28585}{28607}ll est à côté.
+{28845}{28887}Par ici, M. Flynn.
+{29197}{29252}Tu dois avoir envie|de te soulager.
+{29377}{29425}Je t'ai trouvé|un accomp... accompa...
+{29430}{29470}Un pianiste.
+{29582}{29607}La petite fille !
+{29620}{29647}L'enfant de choeur !
+{29825}{29857}C'est le moment, Dutch.
+{29880}{29902}Allons-y.
+{29907}{29980}Ca se passe dans le vestibule.|Viens.
+{30670}{30707}Parle-moi de toi.
+{30742}{30785}Je chante...|je raconte des blagues.
+{30860}{30887}Raconte-m'en une.
+{30975}{31005}Bonsoir, vieille poire !
+{31167}{31222}Vos gueules !|Bouclez-la, merde !
+{31272}{31322}C'est toi|qui as fait lancer la bombe.
+{31370}{31390}Tu la fermes !
+{31395}{31440}- A quoi ça sert ?|- Conneries !
+{31447}{31495}Tu vas m'écouter !|Toi aussi !
+{31520}{31555}Ca va, on sait tout.
+{31575}{31607}On en finit.
+{31645}{31697}ll y a du fric pour tous,|à Harlem.
+{31705}{31755}Ca paie et ça paiera.
+{31792}{31832}Si vous vous faites la guerre,
+{31837}{31887}vous aurez|un nouvel ennemi : moi.
+{31920}{31942}Et moi.
+{32042}{32092}Vous êtes tous les deux|d'accord pour une trêve.
+{32097}{32132}Et c'en est une.
+{32152}{32232}Demain, c'est un jour ouvrable.|C'est clair ?
+{32370}{32400}Bien clair ?
+{32457}{32497}Serrez-vous la main.
+{32525}{32582}Serrez-vous la louche, merde !
+{32622}{32667}Dans la pièce à côté,
+{32680}{32765}vous mangerez, boirez,|baiserez le fin du fin à New York.
+{32867}{32917}Goûtez donc à tout ça.
+{32922}{32992}Et dites-vous que c'est pour ça|qu'on travaille si dur.
+{33000}{33022}Pour vivre
+{33027}{33092}comme des rois et des princes,|hein ?
+{33105}{33137}Allez, dehors !
+{33330}{33392}Alors, finies|les petites affaires, Dutch ?
+{33402}{33437}Je lui ai serré la main.
+{33445}{33495}J'aurais dû la lui couper,|à cet enfoiré.
+{33505}{33572}Du calme.|Suer, ça esquinte les costards.
+{33642}{33685}Ca va bien, vous deux ?
+{33690}{33732}On fait connaissance.
+{33757}{33847}Tu es une ''belle poupée''.|Tu connais cet air ?
+{33855}{33910}- ''Beautiful Doll'', oui.|- Joue-le.
+{34127}{34152}Vera...
+{34347}{34460}Tout ce que tu voudras.|Tu n'as qu'à demander.
+{34547}{34597}Je veux mon propre nightclub.
+{34922}{34980}Là, on sera bien tranquilles.
+{35032}{35080}Laisse entrer les deux jeunes.
+{35177}{35212}Plus personne.
+{35240}{35287}On a bien fait|de vous rabibocher.
+{35292}{35322}Pas d'accord, Frenchy.
+{35330}{35405}On a défini un territoire.|On s'est pas rabibochés.
+{35410}{35452}L'autre, là,|le cochon irlandais !
+{35457}{35487}Eh là, du calme !
+{35492}{35542}Tu veux la bagarre ?
+{35557}{35572}Arrêtez !
+{35580}{35605}Putain de fasciste !
+{35610}{35642}Ca suffit, Dutch.
+{35685}{35742}Owney est assez diplomate|pour nous avoir réunis.
+{35747}{35837}Si Owney était à Washington, on|n'aurait pas cette merde en Europe.
+{35845}{35910}Faut bien remettre|ces youpins à leur place !
+{35915}{35990}Youpins et négros à leur place|et tout ira mieux.
+{36002}{36072}Un juif, c'est un nègre|la peau à l'envers.
+{36077}{36090}Ca suffit !
+{36095}{36127}Salopard !
+{36290}{36322}Ca suffit !
+{36350}{36377}Ca suffit !
+{36462}{36520}Faudrait te mettre|la cervelle à surgeler !
+{36550}{36607}T'es un vicelard tordu.
+{36620}{36657}A peine un être humain.
+{36700}{36742}- Tu sais conduire ?|- J'ai mon permis.
+{36750}{36772}Emmène ton ami
+{36780}{36842}au calme, loin d'ici.|La dame aussi.
+{36847}{36880}Embarque-le !
+{36885}{36910}Et vite fait !
+{37085}{37180}Je veux pas que tu disparaisses.|Fais-moi savoir où tu es.
+{37205}{37265}Dis, petite... viens là.
+{37307}{37380}T'inquiète pas pour ça.|Surtout pas.
+{37385}{37415}Je sais quoi faire.
+{37420}{37470}Comme tu veux, Dutch.
+{37525}{37560}Ca va être là.
+{37852}{37897}N'allez nulle part.
+{37902}{37952}Je veux savoir où vous êtes...|tous les deux.
+{38210}{38247}ll faut que je mange.
+{38382}{38410}J'ai dit une connerie ?
+{38470}{38512}Ca ne te fait rien... M. Flynn ?
+{38527}{38640}C'était un trafiquant. C'est leur|façon de vivre. Ouvre les yeux !
+{39117}{39150}Tu n'entres pas ?
+{39220}{39237}Pas ce soir.
+{39310}{39342}Tu ne m'appartiens pas.
+{39375}{39417}Tu es à Dutch.
+{40060}{40112}Un quart d'heure !
+{40117}{40182}Dans un quart d'heure, on envoie.
+{40425}{40477}M. Stark,|on est les frères Williams.
+{40485}{40547}M. Stark, les frères Williams.
+{40552}{40592}Oui, les Williams.
+{40610}{40650}Charlie,|montre-leur leurs loges.
+{40720}{40775}Peut-on trouver|une autre chaussure ?
+{40852}{40885}On y est.
+{41282}{41330}C'est Duke Ellington. En personne.
+{41485}{41505}Dalbert Williams.
+{41510}{41542}Clay Williams.
+{42007}{42062}Les jeunes mariés sont de sortie.
+{42107}{42162}Les meilleurs musiciens du monde !
+{42250}{42292}Encore heureux|qu'on refuse les nègres...
+{42300}{42365}C'est affreux ! lls n'entrent pas|dans leur propre club ?
+{42370}{42430}C'est pas à eux. C'est à Madden.
+{42452}{42502}Vous n'avez encore rien vu.
+{43105}{43142}Vise cette paire de fesses.
+{43147}{43207}Bébé, viens gigoter par ici...
+{43325}{43365}Vinnie, ça suffit !
+{43375}{43445}Ah, dure époque|pour les vrais hommes.
+{43570}{43597}Meilleure table ?
+{43605}{43650}Ce qu'il y a de mieux, mon ami.
+{43655}{43705}Dans le coin !|On va pas être copain !
+{43710}{43760}Assieds-toi... et regarde.
+{43797}{43862}Je connais cet homme,|je m'en souviens.
+{43867}{43900}Owney Madden.
+{43910}{44017}Là-bas. ll finance beaucoup|de shows à Broadway.
+{44022}{44112}On l'appelle M. Broadway.|Se souvient-il de moi ?
+{44120}{44172}Où vas-tu ? Maman, attends !
+{44450}{44472}M. Madden.
+{44765}{44790}Ravi de te revoir.
+{44795}{44840}Je te présente mon fils Michael.
+{44845}{44897}Merveilleux joueur|de cornet jazz.
+{44902}{44950}ll faut l'engager.
+{44955}{44977}Ma mère... elle m'adore.
+{45017}{45072}T'as pas déjà du boulot ?
+{45097}{45170}Si, je joue par-ci, par-là.|Rien de fixe.
+{45175}{45222}Fais gaffe pour qui tu joues.
+{45257}{45302}C'est bon. Passe me voir.
+{45335}{45375}Peut-être bientôt.
+{45677}{45712}Ton avis sur le petit Dwyer ?
+{45757}{45777}M'impressionne pas.
+{45810}{45832}On peut s'y fier ?
+{45860}{45882}Dutch a l'air.
+{45937}{46020}Dutch compte sur la terreur.|Nous, sur la fidélité.
+{46055}{46092}Je pense à la Californie.
+{46125}{46187}ll a un physique. ll parle bien.
+{46212}{46265}Je me méfie des surnoms.
+{46332}{46390}T'as bien un surnom, toi. Frenchy.
+{46395}{46415}C'est pas pareil.
+{46420}{46447}Pourquoi ?
+{46452}{46475}Je suis loyal.
+{46525}{46552}Qu'est-ce que je ferais sans toi ?
+{47627}{47682}Je t'ai toujours à l'oeil, Williams.
+{48832}{48912}Pourquoi ne m'as-tu jamais|emmenée ici ?
+{48917}{48997}Au Cotton Club ? Frances,|je n'y viens presque jamais.
+{49002}{49047}Ravi de vous revoir, M. Schultz.
+{49052}{49112}Je n'y viens jamais sans toi.
+{49137}{49187}Tu dis parfois la vérité ?
+{49390}{49432}Le Dutchman vient d'arriver.
+{49437}{49530}Je veux pas lui parler dans la|boîte. Fais-le monter au pigeonnier.
+{50045}{50067}Tu saurais faire ça ?
+{50127}{50210}Fais-moi plaisir,|fais ce petit truc avec ta langue.
+{50272}{50330}M. Schultz... offert par la maison.
+{50335}{50372}Cet Owen, alors !
+{50377}{50412}Débouchez-le.
+{50420}{50475}$ 50, si vous touchez le plafond.
+{50595}{50635}- Un cigare ?|- Dégage !
+{50690}{50747}Dès qu'ils te voient dans le|journal, ils croient te connaître.
+{50755}{50787}Donne-moi du feu.
+{50805}{50835}T'as tout ce qu'il te faut ?
+{50840}{50907}Apporte-moi la lune,|Frenchy, tu veux ?
+{50930}{50967}Elle est sur le toit.
+{50980}{51077}Si t'as une minute, Owen voudrait|te montrer ses pigeons, là-haut.
+{51120}{51150}Owen et ses pigeons !
+{51155}{51242}Je reviens tout de suite.|Regarde la revue. Amuse-toi.
+{51247}{51275}Tu me mets quelqu'un ?
+{51415}{51502}Vous êtes là pour rigoler,|alors, détendez-vous.
+{51632}{51655}Suis-moi.
+{51707}{51780}Des pigeons domestiques ?|Je ne les aime qu'en cocotte.
+{51785}{51827}Dis pas ça à Owen.
+{51840}{51902}Je n'en dors plus,|je ne mange plus.
+{51907}{51972}C'est trop rapide.|Tu t'écroules trop vite.
+{51977}{52027}Je veux t'épouser. T'enlever à ça.
+{52032}{52067}M'enlever ?
+{52072}{52102}Je viens juste d'arriver.
+{52107}{52207}Moi aussi. Ne nous séparons jamais.|Toi et moi.
+{52220}{52262}Tu permets ? Mon numéro.
+{52905}{52947}Qu'est-ce que tu fais là ?
+{52952}{52990}ll aime bien me regarder.
+{52995}{53067}Si sa femme sort plus tôt,|il veut me voir.
+{53100}{53135}ll t'a vu. ll veut te parler.
+{53140}{53172}Me parler ?
+{53177}{53282}Je veux pas lui parler.|Je suis en famille, ici, ce soir.
+{53317}{53405}Le fous pas en rogne.|T'as vu dans quel état ça le met.
+{53410}{53427}Je refuse.
+{53435}{53497}ll peut t'obtenir ce que tu veux.
+{53705}{53785}Je pensais te laisser le choix|de la compensation.
+{53805}{53922}Mais j'ai compris|que tu es une telle salope...
+{53930}{54015}que t'aurais jamais|mon sens de la justice.
+{54020}{54052}Alors, ce que je veux,
+{54067}{54115}c'est $ 25 000 en liquide,
+{54140}{54202}tout de suite, comptant, ou alors...
+{54222}{54300}$ 1 0 000 par mois,|pendant 4 mois.
+{54310}{54360}Ma première offre|est une affaire.
+{54372}{54427}Tu adores les bonnes|affaires, hein ?
+{54490}{54530}C'est honnête.
+{54535}{54565}Tu as dit...
+{54610}{54647}25 000.
+{54677}{54742}Parfois, tu es un grand, Dutch.
+{54752}{54800}Vous savez ce qui m'a fait grandir ?
+{54842}{54887}Je mangeais un pigeon|par jour, étant gosse.
+{56227}{56262}T'as vu Dixie ?
+{56297}{56342}- C'était très bon !|- Bravo !
+{56477}{56522}Je te donnerai 300 par semaine.
+{56527}{56552}Vous aviez dit 200.
+{56560}{56630}Je dirais 50 que tu les prendrais,|puisque je le veux.
+{56635}{56725}Ecoutez, Dutch, merci, mais|les armes, couteaux, bombes...
+{56730}{56820}tout ça, c'est pas mon style.|Moi, je suis musicien.
+{56840}{56895}Tu as un job. Compris ?
+{56912}{56997}Tu n'as qu'à balader Vera.|Sors-la.
+{57002}{57052}Elle déteste Abbadabba,|mais elle t'adore.
+{57107}{57152}Si je t'aimais pas, tu serais mort.
+{57175}{57205}Tu comprends ?
+{57285}{57322}Bien sûr que je comprends.
+{57360}{57390}C'est bon d'être aimé.
+{57535}{57605}Dis... faut que je te voie|après le show.
+{57625}{57652}Demain.
+{57657}{57730}Demain, allez. ll faut. Demain.
+{57750}{57777}Bon, eh bien, voilà.
+{57785}{57870}Je serai à 1 0 h à l'Eglise|Abyssinienne. Retrouve-moi là.
+{58197}{58247}Je suis nouveau, ici.|Je fais connaissance.
+{58252}{58342}lci, t'es tricard, négro.|On tripote pas la marchandise.
+{58447}{58500}C'est Gloria Swanson.
+{58555}{58602}Vous êtes ma plus grande...
+{58627}{58675}Vous êtes très beau, vous.
+{58712}{58745}Vous êtes plus belle que moi.
+{58770}{58835}Vous devriez faire du cinéma.|On peut
+{58840}{58897}quand on est si beau gosse.
+{58932}{58962}C'est pas un rêve, alors ?
+{58967}{59047}Je ne pense pas.|Appelez-moi au studio. Lundi.
+{59072}{59092}Lundi.
+{59107}{59132}Bonsoir.
+{59225}{59262}C'était Gloria Swanson.
+{59270}{59325}lci-même, elle l'a dit.|Elle était là. Elle l'a dit.
+{59330}{59392}Tu es splendide, splendide !
+{59400}{59445}Et j'aurai un grand avenir.
+{59497}{59522}Eh, petit !
+{59672}{59727}C'était superbe. A demain.
+{59737}{59785}Je ne peux pas sortir avec toi.|Pas ce soir.
+{59790}{59827}''Non'', c'est pas une réponse.
+{59835}{59920}ll faudra t'en contenter.|J'ai une vie privée, moi.
+{60732}{60815}L'ennui, avec la loterie des négros,|c'est le risque.
+{60820}{60880}J'aime ce qu'on peut truquer :|les chevaux.
+{60885}{60925}Ou la politique.
+{60937}{60987}Je peux truquer leur loterie.
+{60992}{61067}Tu rigoles ?|Qu'est-ce que tu as bu ? Dixie !
+{61092}{61122}Joue-moi du Beiderbecke.
+{61127}{61177}Mon air préféré.|Vois si le pianiste le connaît.
+{61215}{61245}D'où sortent les numéros ?
+{61250}{61287}Tu connais|''Singin' the Blues'' ?
+{61295}{61362}Y a qu'à truquer le n° gagnant.
+{61372}{61417}Tu trimballes ça partout ?
+{61422}{61477}Oui. Le Dutchman|aime bien que j'en joue.
+{61497}{61525}La Voix de son Maître.
+{61530}{61560}Tu peux parler !
+{61580}{61625}Moi, je paie mon nightclub.
+{61640}{61705}Réfléchissez une minute.
+{61720}{61772}Ce n° sort dans ceux|de la 7ème course.
+{61780}{61835}Selon le gagnant,
+{61862}{61930}je calcule les totaux|des six premiers gagnants,
+{61935}{61987}et j'étudie les chances|des favoris...
+{62307}{62367}Et si je n'aime pas le n°|qu'ils donnent gagnant ?
+{62372}{62442}Je parie à la clôture.|Ca change les totaux.
+{62450}{62532}Du coup,|j'ai le n° que moi, je veux.
+{62547}{62587}Celui que je veux.
+{62625}{62682}Et tout ça,|ça sort de ta tête ?
+{62690}{62725}Le seul et unique !
+{62770}{62815}L'arithmétique va conquérir|le monde.
+{62907}{62940}Vous jouez aux courses, Sol ?
+{62952}{63027}Quand j'étais gosse.|Courses de rats.
+{63032}{63072}Eh bien, si tu arrives à faire ça...
+{63090}{63147}on coule les Schwartz
+{63155}{63205}et on leur reprend|les clandés à Harlem.
+{63222}{63277}Le service est nul.|Apporte-moi un gin...
+{63282}{63310}Dixie chéri.
+{63315}{63365}T'auras tout Harlem, de A à Z.
+{63370}{63447}Même sans les braquer,|le fric coulera.
+{63500}{63532}Cul-sec, Duchesse.
+{63537}{63572}Je suis désolé.
+{63695}{63770}Tu l'as fait exprès.|T'es pas maladroit.
+{63775}{63870}J'aime pas ça. Si tu recommences,|je te pète la gueule.
+{63875}{63902}Compris ?
+{63950}{64012}Ca va, ça va,|je ne renverserai plus rien.
+{64135}{64267}Passe prendre mon linge chez|le Chinetoque. Au coin du Bamville.
+{64387}{64415}Que se passe-t-il ?
+{64420}{64510}Ca, c'est trois comptées : 1 5 000|de la 1 1 3ème, 20 000 de la 72ème...
+{64515}{64555}21 000 de la 1 50ème Rue.
+{64560}{64642}T'es champion.|Ce type, c'est le futur ca¨i¨d.
+{64835}{64872}Mettez-vous là-bas.
+{64877}{64907}Encore une fois.
+{65035}{65072}Toujours fâchée ?
+{65090}{65140}J'ai jamais été fâchée.
+{65150}{65195}Mais je tiens à ma vie privée.
+{65200}{65257}Allons nous marier|au lieu de déjeuner.
+{65270}{65322}Déjeuner, on a tout le temps.
+{65330}{65385}Dalbert ! Aucun risque !
+{65400}{65490}J'ai trop de choses à faire.|Je veux réussir.
+{65500}{65572}Réussir en grand.|Je veux passer à Broadway.
+{65632}{65657}Passer chez les Blancs.
+{65680}{65717}C'est pas là que ça se passe ?
+{65867}{65947}Attends ! J'ai plein de gens, là.|Je ne peux pas filer comme ça.
+{65955}{66047}Mais attends ! Ca me plaît|que tu sois plus grande que moi.
+{66052}{66082}Ca gêne bien des hommes.
+{66087}{66152}On va monter un numéro ensemble,|et grimper au sommet.
+{66157}{66182}Gagner plein de fric !
+{66187}{66222}Dalbert, attends.
+{66377}{66407}Je veux le mariage.
+{66415}{66440}Je suis déjà marié.
+{66445}{66542}T'es le président du club.|Maître à bord. Célèbre mon mariage.
+{66547}{66605}Et fais-le vite, ça presse.
+{66610}{66637}Si vous prenez cet homme
+{66642}{66697}pour légitime époux,|vous êtes plus folle que lui.
+{66737}{66757}Et le respect ?
+{66765}{66827}Et on n'admet pas les femmes ici.
+{66872}{66932}Fais une dérogation.
+{66945}{66967}Pourquoi pas de femmes ?
+{66972}{67047}Pas de femmes ici,|parce que c'est le Hoofers Club.
+{67087}{67117}Hoofers. Sabots...
+{67122}{67180}vous allez voir.|Ca va être quelque chose !
+{67185}{67247}Un peu... un peu de musique.
+{67820}{67865}La talonologie !
+{68082}{68135}Laisse-moi ça. C'est à moi !
+{68645}{68692}Tu es trop vieux pour ça !
+{70005}{70082}Pourquoi ?|Pourquoi ? C'est à mon frère.
+{70100}{70132}Laisse-le faire.
+{70230}{70337}Voilà comment c'est :|1 , 2, 3, 4... et jusqu'au bout !
+{71687}{71747}Eh bien ?|Où est la Duesenberg ?
+{71752}{71787}Où est Dutch ?
+{71792}{71840}Dutch ne peut pas venir ce soir.
+{71860}{71892}Je suis ton cavalier.
+{71990}{72025}Moi aussi je fais tout pour le fric.
+{72125}{72180}Où on va ?|C'est pas par là, le théâtre.
+{72185}{72235}On va pas au théâtre.
+{72297}{72322}Tu m'enlèves ?
+{72340}{72392}Ca te plairait ?|J'en serais capable.
+{72455}{72515}Tu me troubles.|Je sais pas pourquoi.
+{72537}{72570}Et pas là où tu crois.
+{72595}{72627}L'appendice ?
+{72692}{72732}A la table de Dutch.
+{72745}{72795}Viens, avance. Allez !
+{72827}{72855}Avance.
+{72900}{72925}Assieds-toi.
+{73545}{73587}Je t'ai jamais comprise.
+{73640}{73685}Marrant.|Moi, je sais tout de toi.
+{73722}{73775}Je peux imiter ta démarche.
+{73795}{73837}Ta façon de jouer du cornet.
+{73870}{73890}Fais voir.
+{74010}{74055}J'en sais un peu sur toi aussi.
+{74105}{74152}Par exemple,|quand tu fais l'amour.
+{74195}{74230}Et quand t'as vu ça ?
+{74275}{74320}Le soir où je t'ai couchée.
+{74665}{74707}Voilà le Golem.
+{74747}{74817}- ll me suit partout.|- Le Golem amoureux.
+{74825}{74867}Ne sois pas ridicule.
+{74907}{74945}ll me file|pour le compte de Dutch.
+{74950}{75007}Pourquoi j'ai l'impression|de promener le chien ?
+{75012}{75030}J'ai envie de danser.
+{75035}{75122}Lève-toi. Dutch aime qu'on danse.|Dansons pour Dutch.
+{75492}{75552}J'ai dansé pour gagner ma croûte.
+{75557}{75582}Sans blague.
+{75597}{75672}Je faisais|les salons de thé à 1 8 ans.
+{75690}{75732}Raconte-moi ça.
+{75800}{75872}Les vieilles dames me payaient|pour que je les enlace.
+{75915}{75947}Des valses enivrantes !
+{75975}{76002}Deux dollars l'après-midi.
+{76030}{76050}Plus pourboires.
+{76077}{76117}Et davantage la nuit.
+{76132}{76190}En privé, si on avait le courage.
+{76195}{76212}Tu l'avais ?
+{76235}{76270}Bien sûr. Regarde, ce soir.
+{76507}{76557}Dutch aime que tu danses, hein ?
+{76810}{76832}Allez, danse !
+{76845}{76877}Tu vas danser pour moi !
+{76895}{76922}Allez, debout !
+{76980}{77005}Danse pour moi.
+{77065}{77130}Tu veux danser ? Dansons !
+{77235}{77272}Pour qui tu te prends ?
+{77302}{77340}Ca suffit. Ca suffit.
+{77395}{77440}La prochaine sera pour toi, Sol.
+{77580}{77637}Je ne suis pas soûle.|J'ai cassé mon talon.
+{77645}{77692}- Je ne voulais pas te faire de mal.|- Si !
+{77697}{77737}Non, je suis fou de toi.
+{77742}{77800}Tu dis ça à toutes celles|que tu bats ?
+{77805}{77832}J'habite ici.
+{77995}{78060}Elle est à la femme|de mon frère.
+{78065}{78105}A peu près ta taille.
+{78482}{78515}A ce qu'on voudra.
+{79115}{79165}C'est toi, Vincent ?
+{79170}{79202}Non, c'est Michael, maman.
+{79207}{79260}C'est rien, recouche-toi.|Tout va bien.
+{79265}{79285}Bonne nuit, Michael.
+{79290}{79320}Bonne nuit, maman.
+{79350}{79372}Michael ?
+{79420}{79452}Oui, Michael.
+{79500}{79552}Eh bien, Michael, où je me change ?
+{80390}{80440}Tu te crois en lune de miel ?
+{80472}{80537}Les voyages de noces|ne sont jamais aussi dangereux.
+{80555}{80625}- S'il entrait, il nous tuerait.|- N'y pense plus.
+{80860}{80927}Je vais te quitter.|Je quitte le Dutchman.
+{80987}{81087}Je vais pas lui acheter ses|cigarettes pendant qu'il te caresse.
+{81137}{81177}Ni poireauter au volant...
+{81250}{81290}pendant qu'il te fait|Dieu sait quoi.
+{81307}{81345}Dieu sait quoi.
+{81390}{81470}En tout cas, je largue ce salaud.|Je le vire de ma vie.
+{81500}{81542}T'es un dur, toi.
+{81732}{81770}ll y a des choses|qui se font pas.
+{81865}{81907}On n'assiste pas|à un meurtre
+{81922}{82015}pour rentrer,|baiser avec un mec qu'on aime,
+{82030}{82102}le quitter, rentrer chez toi,|et au réveil...
+{82107}{82155}thé et toasts avec un dingue.
+{82247}{82282}Pas toi, pas vrai ?
+{82435}{82455}Si.
+{82830}{82885}- Madden est en haut ?|- Oui.
+{83035}{83102}Ah ! Le Roi du Jazz !
+{83115}{83157}- Ca va ?|- Bien, très bien.
+{83200}{83242}Vous vouliez me voir.
+{83302}{83345}T'es entre marteau et enclume.
+{83377}{83402}Vous avez remarqué.
+{83457}{83482}Vous m'offrez quoi ?
+{83502}{83557}Dommage que tu sois pas Noir.|On t'engageait.
+{83582}{83622}C'est le grand drame de ma vie.
+{83780}{83870}J'ai entendu ce que Gloria Swanson|a dit de toi.
+{83875}{83935}Je mets mes billes|un peu partout, tu me suis ?
+{83990}{84080}Certaines à Hollywood, dans|les studios. Et dans les films.
+{84157}{84192}Tu serais notre façade.
+{84247}{84267}Façade ?
+{84285}{84387}Tu es un homme de goût.|Représente-moi en Californie.
+{84490}{84512}Et le Dutchman ?
+{84567}{84667}Je t'en débarrasse.|Déjeune avec nous. Viens.
+{84740}{84770}C'est bon, M. Madden.
+{84782}{84812}A ce soir, chérie.
+{84817}{84892}Sandman, faut que tu remplaces|un numéro.
+{84897}{84965}Tu te souviens de ton solo ?|Tu peux le faire, ce soir ?
+{84970}{85017}- Cette bonne blague !|- Juste après le Duke.
+{85022}{85050}J'y serai.
+{85095}{85167}- C'est quoi, cette histoire ?|- lls m'ont demandé un solo.
+{85195}{85247}Demandé, à toi ?|C'est pas l'inverse ?
+{85252}{85295}Je leur en ai parlé, oui.
+{85325}{85352}Clay...
+{85375}{85397}C'est le pied à l'étrier.
+{85402}{85447}C'est bon pour nous deux.
+{85475}{85507}Serre-moi la main.
+{85530}{85590}Te serrer la main ?|Plutôt cracher dessus.
+{85642}{85697}Me faire ça à moi, ton frère !
+{85717}{85770}Faire ça derrière mon dos !
+{85787}{85862}Tu veux danser en solo ?|Tu le feras.
+{85872}{85920}Sur scène et hors scène.
+{86262}{86302}Ton frère veut te voir.
+{86695}{86732}ll y a le feu ?
+{86787}{86830}Faut que je voie un médecin.
+{86835}{86870}Pourquoi ? Ca va ?
+{86875}{86932}Oui, j'ai une petite égratignure.
+{86937}{87040}Je peux pas aller à l'hosto.|lls verraient tout de suite.
+{87045}{87075}Merde !
+{87150}{87190}C'est quoi, ça ?
+{87200}{87237}Une éraflure.
+{87255}{87317}- Comment t'as fait ?|- Bagarre avec des négros.
+{87365}{87412}Les négros, ceux de Harlem.
+{87462}{87507}Mais pourquoi... avec des Noirs ?
+{87535}{87617}Regarde-moi bien. Pourquoi|je me bagarrais avec des nègres ?
+{87655}{87687}Tu mérites une trempe.
+{87695}{87747}Tu cognes des nègres ?|Pour qui ? Le Dutchman ?
+{87755}{87797}Pour qui tu roules, toi ?
+{87817}{87860}Qu'est-ce qu'il y a, Dix ?
+{87972}{88000}Alors, ce costard ?
+{88005}{88037}J'ai l'air d'un ca¨i¨d ?
+{88042}{88090}Avec 2 gorilles, tu feras très ca¨i¨d.
+{88095}{88177}Je veux pas qu'on remarque|mes gorilles, mais mon costard.
+{88185}{88245}Tache-le avec de la sauce.|lls verront que ça.
+{88310}{88392}Tu sais, Dixie a fait|un essai au cinéma.
+{88397}{88432}Un essai au cinéma ?
+{88445}{88462}Ca consiste en quoi ?
+{88470}{88542}lls m'ont filmé.|Je vais tourner un film.
+{88550}{88595}- A Hollywood ?|- C'est ça !
+{88600}{88615}Laisse tomber.
+{88620}{88672}Laisser tomber ?|Mais c'est sa chance !
+{88677}{88735}- J'ai un rôle de gangster.|- Toi, en gangster ?
+{88740}{88807}Je t'ai imité : ''Eh, pointe-toi''.
+{88812}{88867}''Exécute, ou je te plombe''.
+{88907}{88962}C'est Owney qui m'a recommandé.
+{88972}{89040}ll est associé|aux financiers du film.
+{89047}{89095}ll a dit que pour la Californie,|tu serais pas contre.
+{89352}{89410}Le voilà, J.W.|ll est en beige clair.
+{89415}{89457}Madden a toujours|flairé le talent.
+{89465}{89507}- Oui. Ce jeune est fantastique.|- Son nom ?
+{89522}{89597}Dixie Dwyer. Ne le perdez pas|de vue, il va vous épater.
+{89602}{89657}ll est fantastique. Le voilà.
+{89675}{89725}lncroyable.|Non mais, regardez-le.
+{89737}{89767}Dixie Dwyer.
+{89802}{89817}Enfin !
+{89837}{89932}Le premier acteur du parlant|qui ne parle pas en soprano !
+{89955}{89987}Ce sera un événement.
+{89992}{90022}Eh là, Sully...
+{90070}{90092}ll ne sait pas jouer.
+{90097}{90135}ll est à chier, comme acteur.
+{90147}{90192}Belle gueule, belle voix.
+{90200}{90235}ll ne fait pas pédé.
+{90240}{90275}Pas du tout.|ll est avec une fille.
+{90280}{90307}Mais il fait gangster.
+{90312}{90370}ll serait bien en gangster.|Son nom, déjà ?
+{90375}{90432}Dwyer. Dixie Dwyer.|Ca sonne bien.
+{90440}{90470}- Elégant.|- Pas cinéma.
+{90475}{90512}- Atroce.|- Première chose...
+{90517}{90565}- A changer.|- Je déciderai.
+{90577}{90627}J'aime ce nom. Gardez-le.
+{90632}{90662}ll y est habitué.
+{90667}{90712}Fais-lui un contrat.|Qu'il arrive.
+{90717}{90737}Excellente idée.
+{90742}{90792}- On tente le coup.|- Fantastique.
+{90905}{90942}Un geste, et je bute un nègre !
+{91112}{91130}Vous !
+{91135}{91150}St. Clair !
+{91155}{91215}Le Dutchman veut|que vous ouvriez une loterie.
+{91452}{91492}Madame St. Clair...
+{91530}{91557}Messieurs...
+{91582}{91680}M. Jewett affirme pouvoir nous|protéger des envahisseurs blancs.
+{91685}{91730}Exact, M. Jewett ?
+{91735}{91795}Je sais ce que pense le Dutchman.
+{91812}{91870}Je le vois faire avec|les frères Flynn.
+{91890}{91962}Face à une arme, il faut une arme.
+{92005}{92062}Et j'ai toutes les armes|qu'il faut.
+{92087}{92117}ll faut l'engager.
+{92122}{92165}Je ne veux pas m'armer.
+{92170}{92202}Sinon, je plaque les loteries.
+{92210}{92267}Tout ça, c'est politique.
+{92295}{92335}Tu bosses avec Jimmy Hines ?
+{92347}{92435}lls contrôlent la police.|C'est ça le pouvoir.
+{92455}{92467}Ecoutez...
+{92485}{92522}je viens vous rendre service.
+{92540}{92592}Ce type vous écrase.
+{92645}{92692}Vous résistez ou pas ?
+{92827}{92857}M. Jewett...
+{92882}{92947}nous allons refuser votre offre.
+{92962}{93027}Nous ne sommes pas prêts|à faire la guerre.
+{93062}{93142}Vous ne savez pas|que vous l'avez déjà perdue.
+{93450}{93497}A Harlem, loteries|clandestines investies
+{96595}{96630}Tu ne peux pas me faire ça.
+{96655}{96710}Disparaître comme ça.|Où tu vas toute la journée ?
+{96715}{96742}Tous les jours.
+{96747}{96797}J'ai ma vie privée, maintenant.
+{96830}{96892}Je peux pas te parler ici.|Trop de gens.
+{96900}{96940}Viens parler sur le toit.
+{96957}{97042}Dalbert, j'ai d'autres gens|dans ma vie. Je sais que...
+{97047}{97077}Parlons-en.
+{97082}{97127}Faut pas monter. C'est chez Madden.
+{97132}{97215}Je veux te parler.|Et tout de suite. Viens.
+{97225}{97242}Pas là-haut.
+{97247}{97295}Juste sur le toit.|Pas de problème.
+{97300}{97325}Sortons par les coulisses.
+{97330}{97395}Je sais plus où tu habites.|Tu as déménagé.
+{97400}{97442}Comment te trouver ?
+{97480}{97525}Qu'est-ce que tu fais par ici ?
+{97532}{97580}Fallait qu'on se parle.
+{97585}{97677}Je sais pourquoi vous montez.|Pour forniquer comme des chiens.
+{97695}{97747}Vous n'avez rien à faire ici.|Descendez.
+{97785}{97835}J'en ai ma claque de toi.
+{97895}{97932}Je vais t'apprendre !
+{98250}{98290}Dégage, femme !
+{98295}{98330}Ne t'en mêle pas.
+{98340}{98370}Fumier ! T'as fini tes conneries ?
+{98402}{98437}Oui ou non ?
+{98505}{98537}Fous le camp !
+{98565}{98590}Tire-toi !
+{98625}{98692}Je m'en vais !|Je plaque cette boîte !
+{98700}{98777}On ne traite pas les gens|comme ça.
+{98797}{98832}Je sais ce qu'il me reste à faire.
+{98840}{98890}Et alors, faut que|je m'écrase devant lui ?!
+{98895}{98945}- Quoi faire ?|- Le buter, merde !
+{98950}{99022}Sois pas idiot. Où tu te crois ?
+{99027}{99087}Tu veux que je m'accroche|avec un mec de Madden ?
+{99092}{99157}Que je m'attaque|au plus puissant gang blanc ?
+{99165}{99265}T'es cinglé. Avec Madden au cul,|tu peux serrer les fesses.
+{99270}{99352}Y a qu'une façon|de te venger de Best.
+{99357}{99430}Traite-le comme un chiotte :|pisse-lui dessus.
+{99435}{99487}- Ecoute ça !|- J'irai pisser sur sa tombe.
+{99492}{99555}Moi, je tue et toi,|tu danses sur sa tombe.
+{99560}{99615}- Je pisserai dessus.|- Ecoute-moi, Sandman.
+{99645}{99730}Je suis pas un danseur.|Je suis un mac, un voleur.
+{99735}{99780}Et un flambeur.|Voilà ce que je fais.
+{99785}{99862}Je sais pas danser|pour réussir dans ce monde.
+{99880}{99982}Je peux même pas entrer au Cotton|Club, où mes frères, les Noirs...
+{99987}{100032}sont vedettes.|Parce que je suis Noir.
+{100040}{100092}Je n'ai que deux choses|à faire ici-bas.
+{100100}{100182}Une : rester Noir.|L'autre : mourir.
+{100222}{100265}Le Blanc ne m'a laissé
+{100270}{100355}que les bas-fonds.|Et c'est là que je danse.
+{100360}{100415}Une question, Sandman :
+{100420}{100477}toi, où tu danses ?
+{100712}{100770}Je le tuerai à coup de claquettes.
+{101057}{101125}Haut les mains !|Et pas touche à l'artillerie.
+{101130}{101170}Demi-tour, mains en l'air !
+{101227}{101317}Chute des actions.|Des milliards de $ de pertes.
+{101585}{101667}L'Etat liquide pour $ 800 millions|de Bons du Trésor.
+{102445}{102482}Pas mal. Ca va ?
+{102535}{102567}Bonsoir, M. Madden.
+{103305}{103337}Ca fait un bail.
+{103365}{103420}- Qu'est-ce que Madden fait ici ?|- Je l'ai invité.
+{103470}{103510}Faut que je lui parle.
+{103677}{103730}Ton argent ne vaut rien ici,|ce soir.
+{103740}{103815}Ce truc dans les journaux,|''Le Ca¨i¨d'', c'est un film ?
+{103820}{103875}On dit que tu as imité|les vrais ca¨i¨ds.
+{103880}{103937}Tu m'as tout appris sur les truands.
+{103970}{104012}La leçon n'est pas finie.
+{104037}{104065}Amuse-toi bien.
+{104450}{104500}Désolé... réservé aux Blancs.
+{104555}{104620}Tu peux donner|un message à Angelina ?
+{104650}{104722}Dis-lui que Sandman Williams|l'attend dehors.
+{104930}{104957}Salut, les gars !
+{104965}{105065}Bienvenue chez Vera.|lls sont tous là, ce soir.
+{105070}{105127}Tous ceux qui ont un nom.|Les autres ne sont pas admis.
+{105135}{105170}Un point, c'est tout.
+{105227}{105277}Un gentleman est avec nous,|M. Broadway...
+{105282}{105332}M. Owney Madden.
+{105402}{105502}Et avec lui, de retour d'Hollywood|après son 1 er film : Dixie Dwyer.
+{105630}{105687}Mais qui vous a laissé entrer ?
+{105695}{105720}On veut voir le Dutchman.
+{105725}{105802}Rien que ça !|Tu veux voir le Dutchman.
+{105817}{105840}Oui, va le chercher.
+{105845}{105912}Tu attends là, compris ?
+{105955}{106015}Je vous présente|notre rossignol maison...
+{106020}{106117}Angelina, qui chantait|avec Ruth Etting et les Blue Belles.
+{106122}{106187}ll y a une ordure|qui veut te parler.
+{106265}{106305}Je vois que Dutch a|à faire dehors.
+{106880}{106925}- C'est pourquoi, crâneur ?|- Du fric, Dutch.
+{106930}{106972}On nous flingue et tu t'en fous.
+{106990}{107045}C'est le jeu. Bon, combien ?
+{107050}{107077}Le paquet, Dutch.
+{107082}{107127}On t'a livré la moitié|de Harlem,
+{107135}{107175}je veux un pourcentage|sur la loterie !
+{107180}{107230}Sur la loterie ?|T'es dingue, l'lrlandais.
+{107235}{107290}Tu sais tirer,|alors tu te prends pour un ca¨i¨d ?
+{107305}{107340}T'es dingue. Ravagé.
+{107345}{107415}J'ai des millions de types qui|flingueraient pour moi, gratis !
+{107455}{107480}Je t'augmente.
+{107485}{107502}Tu m'augmentes ?
+{107527}{107632}Cent par semaine.|Et cinquante pour Popke.
+{107640}{107657}C'est réglo ?
+{107715}{107742}Réglo ?
+{107750}{107805}Tes $ 1 00, tu te les fous au cul !
+{107825}{107897}Petit mariole ! Dégage !|Allez, tire-toi !
+{107910}{107960}Fous le camp, sinon je te plombe !
+{108330}{108375}Comment tu m'as retrouvée ?
+{108465}{108547}Tu passes peut-être pour Blanche,|mais t'es pas invisible.
+{108610}{108645}Tu finis quand ?
+{108725}{108762}- A deux heures.|- Je serai là.
+{111277}{111300}C'est pour une chambre.
+{111305}{111360}Bien sûr. Aucun problème.
+{111407}{111437}Vous désirez ?
+{111470}{111507}Ce serait pour... une chambre.
+{111512}{111587}Une petite chambre romantique.|Peut-être au 1 0ème.
+{111675}{111697}Votre... votre clé.
+{111845}{111912}On n'admet pas de couples mixtes.
+{111927}{111962}Mais on est de couleur.
+{112075}{112110}De quelle couleur êtes-vous ?
+{112120}{112197}Mon père est de couleur.|Ma mère est blanche.
+{112207}{112255}De quelle couleur suis-je ?
+{112365}{112382}La 41 7.
+{112402}{112427}Merci.
+{112432}{112462}Pas de bagages.
+{113322}{113342}Viens.
+{113757}{113822}Tu te fais passer|pour une Blanche.
+{113867}{113900}Quand je veux.
+{113915}{113987}Tu te souviens de ma ''vie privée'',|de l'avocat ?
+{114017}{114055}Pourquoi tu fais ça ?
+{114107}{114142}Parce que je le peux.
+{114150}{114182}Et après ?
+{114197}{114230}Tu n'as pas à me juger !
+{114357}{114457}L'avocat m'a payée 2 fois plus que|le Cotton Club, et Vera 5 fois plus.
+{114465}{114552}Et sans questions.|Je ne suis pas Noire, ni Blanche.
+{114557}{114600}Mais un être humain.
+{114672}{114717}Et ça, ça me va.
+{114815}{114895}Je peux même pas aller chez Vera|pour t'écouter chanter.
+{114900}{114985}Le portier me refuse l'entrée.|Je passe pas pour un Blanc.
+{115022}{115067}Allez, fais-moi l'amour.
+{115170}{115212}Ne m'échappe pas.
+{115305}{115400}Aime-moi et je t'en prie,|comprends-moi.
+{115650}{115672}Eh, Popke...
+{115700}{115712}Tope là.
+{115775}{115805}Serrons-nous la main.
+{115847}{115890}Le Dutchman veut|s'arranger avec Vince.
+{115917}{115962}- Tope là !|- Pas question.
+{116995}{117052}- Vous m'achetez une pomme ?|- Non, va-t'en !
+{117057}{117102}Je vais chez Harry.|On se voit à 5 heures.
+{117120}{117145}Dégagez !
+{117902}{117952}Récompenses offertes|pour tueurs d'enfants.
+{117957}{118002}Le monstre le plus ha¨i¨|depuis J. Wilkes Booth.
+{118007}{118040}''Chien enragé irlandais''|recherché.
+{118110}{118175}ll y a un vieux copain dehors|qui veut te voir.
+{118185}{118252}- ll n'entre pas ?|- Tu le lui interdis.
+{118670}{118707}Tu veux me voir ?
+{118792}{118835}Allez, Frenchy... descends.
+{118840}{118897}Descends, Frenchy, vite.
+{118935}{118977}Qu'est-ce qui se passe ?
+{118992}{119017}ll fait froid.
+{119022}{119085}Je te croyais tueur de gosses.
+{119122}{119150}Moi, je suis majeur.
+{119155}{119205}J'ai pas envie de te tuer.|Je t'aime bien.
+{119210}{119252}J'ai juste besoin d'argent de poche.
+{119257}{119307}Madden t'en donne, non ?
+{119312}{119352}Ca peut te coûter cher.
+{119357}{119390}Ta gueule !
+{119605}{119635}Démarre.
+{119797}{119855}Owney, qu'est-ce qu'il y a ?
+{119900}{119985}Ton frère est devenu|le roi des emmerdeurs.
+{120005}{120067}ll y a 2 h, il a enlevé Frenchy.
+{120105}{120135}Tu plaisantes ?
+{120152}{120195}Ah, le con !
+{120212}{120245}Et tu n'en savais rien ?
+{120267}{120307}Comment j'aurais su ?
+{120312}{120362}Je te pose la question.
+{120400}{120457}Je ne lace plus vos souliers.
+{120497}{120535}Tu es le plus malin.
+{120600}{120635}Ton frère, il ne durera pas.
+{120677}{120727}C'est un chien enragé.
+{120735}{120762}Un chien enragé,|on le...
+{120767}{120827}Je ne veux plus entendre|parler de mon frère !
+{120860}{120897}ll m'a appelé il y a une heure.
+{120932}{120987}ll n'a confiance qu'en toi|pour l'argent.
+{121082}{121157}ll y a $ 50 000. Compte-les.
+{121360}{121402}On va voir ton frère !
+{121472}{121507}Vous venez avec nous ?
+{122082}{122152}Mesdames et Messieurs...|une vedette...
+{122175}{122207}une vedette est parmi nous.
+{122212}{122272}Sandman Williams, mon frère.
+{122455}{122542}Clay Williams, le meilleur danseur|de claquettes de Harlem.
+{122675}{122705}Dalbert...
+{122720}{122787}et si ton frère et toi,|vous dansiez ensemble ?
+{123072}{123132}On finit|''Crazy Rhythm'' ensemble ?
+{123200}{123235}A vous, les gars.
+{125805}{125835}Excuse-moi.
+{126007}{126057}- Qui est là ?|- Arthur.
+{126167}{126202}Je suis le frère de Vincent.
+{126207}{126252}Ah, le type du film.
+{126430}{126525}Bon Dieu, tu veux conquérir|le monde ? Tu as tout un arsenal !
+{126530}{126560}T'as l'argent ?
+{126850}{126880}Surveille Frenchy.
+{126945}{127010}Enfin, comment tu as pu|aussi mal tourner ?
+{127027}{127072}Je fais pas de mal.
+{127100}{127185}J'étais pas dans la voiture|quand ils ont tué les gosses.
+{127205}{127317}Je voulais la peau du youpin,|mais tuer des gosses, jamais.
+{127325}{127390}Quelqu'un les a tués.|Trois ou quatre.
+{127395}{127450}C'est des fêlés.|Personne n'avait prévu ça.
+{127512}{127545}Où est Frenchy ?
+{127550}{127620}Dans la chambre. ll va bien.|Tu l'embarques, tu sais ?
+{127625}{127642}On m'a dit.
+{127685}{127717}Merde, Vinnie...
+{127825}{127897}Mais pourquoi ?|T'as déclenché une vraie guerre !
+{127912}{127952}T'as vu les journaux ?
+{127960}{128027}- Tu es l'Al Capone du coin !|- C'est bien, non ?
+{128032}{128082}Des flingueurs de Chicago|veulent me buter.
+{128087}{128132}Je suis plus un poids mort.
+{128137}{128190}Je suis un vrai dur.
+{128285}{128305}Et maman ?
+{128417}{128442}Tu sais ce qu'elle endure ?
+{128447}{128482}Ce qu'elle endure ?
+{128555}{128590}Tout le monde me hait ?
+{128642}{128690}On hait le tueur d'enfants.
+{128720}{128752}Tu dis que c'est pas toi.
+{128757}{128795}Mais le gosse, il est mort.
+{128807}{128840}Et tu portes le chapeau.
+{129072}{129102}Frenchy.
+{129145}{129197}Buster, sors-le de là.
+{129210}{129242}Sors-le, allez.
+{129320}{129350}Tout doux.
+{129425}{129460}Sors.
+{129567}{129602}Dixie n'a rien fait.
+{129627}{129657}C'est clair, non ?
+{129672}{129730}Je vois ce que je vois,|j'entends ce que j'entends...
+{129735}{129792}et puis, je me décide.
+{129800}{129862}Tu vois ce que ça|me rapporte d'être messager !
+{129890}{129920}On y va ?
+{130072}{130115}A la prochaine, toi.
+{130135}{130160}J'espère.
+{130255}{130302}Taille-toi en vitesse.|Tout de suite.
+{130655}{130722}Dis à Owney qu'on t'a pas touché.
+{130850}{130895}ll sera ravi de le savoir.
+{131282}{131305}Ca va ?
+{131310}{131325}Très bien.
+{131330}{131362}T'es rentré chez toi ?
+{131377}{131455}Ouais. Pour me changer. Me laver.
+{131460}{131550}- lls t'ont fait du mal ?|- Non. Traité comme un roi.
+{131590}{131635}C'est quoi, ton oreille ?
+{131640}{131725}Ca ? Partie de tennis|avec Dwyer le Chien Enragé.
+{131730}{131757}De tennis ?
+{131782}{131825}ll m'a lobé...
+{131830}{131907}j'ai reculé pour la rattraper,|et pan, le grillage :
+{131915}{131937}oreille coupée.
+{131945}{131987}T'as joué au tennis avec lui ?
+{131992}{132072}Ouais. J'ai bien bu, bien bouffé.
+{132080}{132137}Sympa chez lui, bien meublé.
+{132145}{132187}ll voulait te tuer|avec le sourire ?
+{132195}{132247}Je me faisais|du mauvais sang !
+{132252}{132292}J'y suis resté longtemps ?
+{132330}{132367}Fais voir ta montre.
+{132375}{132470}Voyons. lls m'ont cueilli|devant le club vers...
+{132480}{132580}Merde ! Pardon...|lls m'ont cueilli vers...
+{132597}{132625}Ah, merde !
+{132635}{132662}J'ai dû la casser.
+{132667}{132702}Donne-moi ça.
+{132707}{132762}Ca se répare. Attends.
+{132827}{132880}Espèce d'infect radin !
+{132885}{132942}T'as offert que $ 500 pour moi ?
+{132950}{133007}Si on t'enlevait,|j'offrirais pas plus, moi ?
+{133012}{133077}- $ 500 ?|- C'est ce qu'on m'a dit.
+{133085}{133147}$ 50 000, j'ai payé pour toi !|$ 50 000 !
+{133152}{133190}ll n'en voulait que 35 !
+{133195}{133257}Je lui ai filé $ 50 000|pour qu'il t'esquinte pas.
+{133262}{133345}$ 500 !|J'aurais donné $ 500 000, oui !
+{133350}{133395}Je me rongeais pour toi.
+{133400}{133457}Merde. Tu l'as pétée, ma montre.
+{133520}{133555}$ 50 000 ?
+{133675}{133700}C'est quoi ?
+{134047}{134092}Une montre en platine.
+{134100}{134135}Ducon !
+{134370}{134432}Pas un geste, et tout ira bien.
+{134437}{134482}- Je ne ferai rien.|- La ferme !
+{135105}{135182}On n'en voulait pas à Frenchy.|On voulait du liquide.
+{135187}{135217}Où tu vas ?
+{135790}{135827}Adieu, gars.
+{136522}{136552}Nous émettons...
+{136557}{136612}en direct du Cotton Club|de Harlem, à New York.
+{136620}{136710}Et voici le Prince du Hi-D-Ho,|Cab Calloway : ''Minnie the Moocher''.
+{137947}{138025}Dixie Dwyer !|Content de te revoir !
+{138555}{138597}J'ai des amis à voir.
+{138660}{138690}Voici Charlie Luciano.
+{138695}{138732}- Charlie, ça va ?|- Enchanté.
+{138742}{138787}Content de te voir, Dwyer.
+{138792}{138827}Bonne soirée.
+{139470}{139547}ll était temps de laisser|entrer des nègres ici.
+{139627}{139672}Bienvenue au Cotton Club.
+{140327}{140355}Sandman !
+{140715}{140785}Ca va, toi ? Fais-moi la bise.
+{141105}{141152}Très en beauté, ce soir.
+{141157}{141175}Merci.
+{141180}{141212}Bienvenue au Cotton Club,|''Charlot''.
+{141217}{141292}Bonsoir, Holmes.|Content d'être de retour.
+{141985}{142097}Bumpy... essaie d'être|un peu moins voyant.
+{142105}{142147}Votre table, c'est là-bas.
+{142765}{142800}Tu ris ? ll est fou.
+{142917}{142972}Ce con de Dutchman...
+{143017}{143107}Si on ne s'occupe pas de ce type,|le Procureur Dewey...
+{143122}{143152}nous coffrera tous.
+{143157}{143202}Dutch déconne à Harlem.
+{143225}{143277}Ses rackets me font très envie.
+{143282}{143315}M. Luciano...
+{143332}{143375}le Dutchman, faut pas|le prendre à la légère.
+{143380}{143422}ll résiste aux balles ?
+{143450}{143510}Son youpin est mort,|on va vérifier.
+{143622}{143692}On pourra se partager|ses rackets en famille.
+{143915}{143997}Bon, eh bien...|à un de ces jours, Charlie, OK ?
+{144040}{144072}Salut, Charlie.
+{145112}{145160}Bumpy, tu n'as rien à faire ici.
+{145165}{145247}Winona, t'occupe pas des autres.|Retrouve-moi au Bamville...
+{145252}{145292}à la fin du spectacle.
+{145300}{145330}Je ne peux plus.
+{145335}{145415}Mes frères me serrent la vis.|lls disent que tu es marié.
+{145420}{145470}Tout le monde le sait.
+{145515}{145580}Qu'est-ce que tu fiches ici ?|Qui es-tu ?
+{145585}{145647}J'essaie de parler|à mon amie Winona.
+{145655}{145722}Qui êtes-vous et|de quel droit m'interrompez-vous ?
+{145732}{145775}Encore un sale négro !
+{146092}{146170}Evite les truands, chérie,|si tu tiens à ton job.
+{146175}{146240}Tu es la première fille de couleur,|dans ce spectacle.
+{146245}{146302}Tu as vu toutes celles|qui font la queue ?
+{146307}{146390}Vas-y, fais ce que tu dois faire.
+{146567}{146625}Ce sale négro t'offre à boire.
+{146655}{146735}A force de harceler les gens,|ils se rebiffent.
+{147607}{147665}Ah, les Noires, dis donc !
+{147990}{148062}Laissez tourner le moteur.|Je reviens.
+{148512}{148567}Dutch veut tuer|le Procureur Dewey ?
+{148572}{148615}Oui, on dit ça.
+{148635}{148690}Lepke dit que c'est faisable.
+{148707}{148757}Mais ce serait|la fin de nos rackets.
+{148762}{148792}Ce Dewey, c'est un gros.
+{148797}{148867}Tu as raison.|Ce con a un pied dans la tombe.
+{148875}{148917}Gachette Mike Coppola.
+{148957}{149007}Ca, ça peut être un os, Owney.
+{149197}{149267}Je sais parfaitement où je vais.
+{149275}{149330}Vera, qu'est-ce que tu racontes ?
+{149367}{149400}Je savais que tu étais là.
+{149405}{149455}Et qu'elle était avec toi.
+{149460}{149507}- Frances...|- Sale menteur !
+{149512}{149550}- Assieds-toi.|- Toi, assieds-toi.
+{149555}{149597}Tu n'as rien compris.|Elle est avec Dixie.
+{149602}{149627}C'est pris ?
+{149635}{149707}Non, j'attendais qu'une belle femme|y tombe folle de moi.
+{149715}{149762}- J'ai déjà donné.|- On peut remettre ça.
+{149767}{149850}Je vais pas faire du tricot|pendant que tu l'exhibes !
+{149892}{149932}Elle est venue prendre un verre !
+{149955}{150027}Voilà de bonnes raisons|pour vite rentrer chez toi !
+{150032}{150072}- Pas peur de toi !|- Dégage !
+{150080}{150112}Te mêle pas de ça !
+{150117}{150227}Je croyais que vous n'étiez plus|son toutou. Au cinoche, rigolo !
+{150245}{150275}Tiens, règle avec ça.
+{150280}{150317}Paie toi-même.
+{150457}{150487}Elle t'a griffée ?
+{150495}{150560}Je lui arracherais les seins.|Dingue !
+{150572}{150600}J'ai pas peur d'elle.
+{150605}{150662}Les gangsters mariés,|c'est les pires.
+{150667}{150727}- C'est dur d'être l'autre femme ?|- Et d'être l'autre mec ?
+{150740}{150797}Ecoute, ça, je ne le fais plus.
+{150805}{150862}Ce qui est à moi est à moi|et à personne d'autre. Vu ?
+{150870}{150927}Quoi, vu ?|T'es plus son toutou, c'est ça ?
+{150932}{151027}Oui. T'es pas au courant ?|Je suis le Ca¨i¨d.
+{151045}{151082}Où tu m'emmènes ?
+{151087}{151130}Là où t'es jamais allée.
+{151990}{152067}Comment tu as pu t'en sortir|si vite, si facilement ?
+{152090}{152127}Vedette de cinéma. Tu as tout, toi.
+{152132}{152257}Moi ? Et toi ? T'es célèbre|maintenant, tu as ton Club.
+{152262}{152295}Et la môme n'a pas 20 ans !
+{152300}{152362}Oui, mais elle a ramé, pour ça !
+{152420}{152460}Tu aurais pu venir avec moi.
+{152470}{152527}Je ne vais pas là|où je crève de faim.
+{152532}{152607}Je me débrouille seule|depuis mes 1 3 ans.
+{152615}{152667}L'argent, c'est la seule sauvegarde.
+{152692}{152765}Alors, là, tu as tort.|Vachement tort.
+{152780}{152845}En tout cas, il n'y a que ça|qui m'a sauvée.
+{152850}{152890}Le fric et ma beauté.
+{152897}{152955}Je faisais déjà 1 8 ans|à ma naissance.
+{152980}{153022}Moi, je peux te sauver.
+{153042}{153072}Oh, que non !
+{153080}{153125}- Je t'assure.|- Tu peux pas.
+{153167}{153240}Tu sais pas ce que c'est|que d'être son esclave.
+{153245}{153267}ll est partout.
+{153280}{153332}J'ai mon club,|et je peux même pas y respirer.
+{153340}{153382}Tu passes dans 2 minutes.
+{153387}{153430}Et le Dutchman la cherche.
+{153457}{153497}Tu vois le tableau ?
+{153545}{153592}C'était super sur le moment.
+{154550}{154642}Dixie, le Dutchman est furax.|Vaut mieux qu'elle y retourne.
+{154872}{154925}Quelle soirée ! Quelle foule !
+{154960}{155030}Mesdames et Messieurs,|c'est la Soirée des Célébrités !
+{155035}{155077}Et les étoiles scintillent.
+{155082}{155132}Nous avons Charlie Chaplin.
+{155165}{155187}Fannie Brice.
+{155280}{155312}Et James Cagney.
+{155410}{155532}Et nous avons la toute dernière|idole de l'écran en Amérique.
+{155547}{155600}La star du super succès...
+{155617}{155652}''Le Ca¨i¨d''.
+{155680}{155787}Le premier musicien blanc|à avoir joué au Cotton Club.
+{155792}{155872}On applaudit chaleureusement|le chouchou de Harlem...
+{155877}{155930}Dixie Dwyer !
+{156292}{156360}Ca va ?|Arrête de boire cette merde.
+{156720}{156765}Tu veux que je ramène Vera ?
+{156880}{156922}Arrête avec ça.
+{156927}{156972}Je m'occuperai de Vera.
+{157170}{157270}Le ''Ca¨i¨d'' - Ce demi-sel,|c'est de la guimauve.
+{157395}{157440}ll a calqué mon style,|c'est tout.
+{157445}{157495}- Ton style !|- Oui, mon style.
+{157500}{157552}T'en as autant|qu'un plat de navets.
+{157560}{157600}Ecrase et bois un verre.
+{157605}{157625}J'en veux pas.
+{157692}{157742}Je t'ai dit de boire.
+{157765}{157800}Les buveurs mentent|et je veux parler vrai.
+{157815}{157857}Parler vrai... sur quoi ?
+{157862}{157892}Je sais pas.
+{158107}{158150}Tu faisais quoi|en coulisses avec lui ?
+{158155}{158197}Je l'embrassais.
+{158337}{158357}T'as couché avec lui ?
+{158362}{158397}Chaque fois que j'ai pu.
+{158442}{158470}Et je le referai si je peux.
+{158510}{158545}Tu ne pourras plus jamais.
+{158550}{158595}Qui t'a mis ça au doigt ?
+{158600}{158647}Et ça, à l'oreille ? Et ça...
+{158652}{158700}Pas touche, Dutchman.
+{158712}{158760}Pas touche. Plus jamais !
+{158765}{158835}Sale con,|je vais t'arracher les burnes.
+{158840}{158880}- Ne t'en mêle pas.|- C'est déjà fait.
+{158885}{158937}Qu'est-ce que tu veux, Dutch ?|Hein ?
+{158945}{158990}Tu ne sais que faire mal.
+{158995}{159042}Tu veux lui arracher le coeur,|comme à Joe Flynn ?
+{159047}{159102}Tu veux dominer les autres,|à jamais ?
+{159107}{159142}Tu joues les Genghis Khan ?
+{159150}{159192}Réduire l'autre à l'état de merde ?
+{159275}{159320}Combien de gens tu peux tuer ?
+{159325}{159342}Allez, dehors.
+{159350}{159387}Pas dans le club.
+{159450}{159465}Toi...
+{159515}{159535}Viens.
+{159550}{159575}Je n'irai nulle part avec toi.
+{159580}{159627}J'ai dit : ''Viens''.
+{159690}{159757}Rentre dans ton trou à rats.|Laisse-la tranquille.
+{159792}{159832}Le Ca¨i¨d !
+{160050}{160065}Eh, Ca¨i¨d...
+{160070}{160110}t'en as un comme ça ?
+{160120}{160155}Salope d'lrlandais !
+{160160}{160182}T'en as un comme ça ?
+{160325}{160352}Allez, virez-le.
+{160535}{160570}Je te crèverai...
+{160575}{160625}lrlandais pourri !
+{160675}{160735}C'est la joie,|la folle joie, ce soir !
+{160740}{160790}Quelle foule, quel spectacle !
+{160805}{160850}Ca fait partie du show !
+{160897}{160957}On ne me bouscule pas, moi !
+{160972}{161042}Je ne pars pas|sans manteau ni chapeau.
+{161062}{161127}Jamais de temps morts|au Cotton Club.
+{161155}{161212}Sandman va nous faire|son petit numéro :
+{161220}{161285}''Mes souliers partent en balade''.
+{161292}{161357}Alors, applaudissons-le bien fort.
+{161365}{161412}Une ovation pour Sandman.
+{161420}{161477}Me faire ça à moi, le Dutchman !
+{161485}{161525}L'enfoiré !
+{162750}{162820}Cet lrlandais, je vais en faire|de la chair à pâté.
+{162842}{162900}ll plaira moins à Vera.
+{162975}{163012}Sale petit mac.
+{163022}{163097}ll se croit peinard|parce que Madden le protège.
+{163110}{163172}Je vais lui apprendre|la protection, moi !
+{163252}{163317}Tous ces putains d'lrlandais !
+{163325}{163400}Tous. Faut tous les liquider.
+{163675}{163747}Et l'autre fumier de Madden,|il fera pas long feu.
+{163755}{163827}ll va retrouver la taule vite fait.|Et bon débarras !
+{163835}{163907}T'énerve pas pour une nana.|C'est Frenchy, le problème.
+{163915}{163955}Ouais, le grand Frenchy.
+{163960}{164040}Ca va chier pour lui aussi.|Je vais tous les nettoyer.
+{164067}{164107}Fais le service.
+{164205}{164287}Tu as vu avec qui il était ce soir ?|Luciano !
+{165320}{165352}Ces Ritals...
+{165370}{165402}lls deviennent gênants.
+{165447}{165487}Commande-moi comme d'habitude.
+{165522}{165617}Viens voir.|Donne-lui un steak frites.
+{165625}{165722}Sers-moi du travers de porc.|26 côtes. Et pour toi, Lou ?
+{168112}{168155}Je t'aime, Lila.
+{168407}{168465}Votre film m'a plu.|Vous êtes beau en ca¨i¨d.
+{168470}{168515}J'aime quand le ca¨i¨d est beau.
+{168520}{168605}Beau ca¨i¨d, comme Madden, hein ?|Salut, Owney.
+{168617}{168640}Viens là.
+{168665}{168750}Je ne serai plus le ca¨i¨d de rien|dans 8 jours, Charlie.
+{168767}{168802}Retraite ?
+{168807}{168887}Retour en prison. J'étais en liberté|surveillée, et... infraction.
+{168892}{168957}C'est un prétexte|pour me retirer des affaires.
+{168962}{169015}ll y a de la convoitise|dans le milieu, ces temps-ci.
+{169040}{169067}Tu me suis ?
+{169090}{169137}L'lrlandais,|c'est toujours trop vorace.
+{169145}{169192}Nous, on a appris à s'arrêter.
+{169215}{169257}Amuse-toi bien, Charlie.
+{169307}{169360}On apprend en chemin.
+{169595}{169622}Bonsoir, Dixie.
+{169627}{169687}J'ai un train à prendre|pour la Californie.
+{169695}{169717}Bon voyage.
+{169722}{169762}Tu as été très courageux.
+{169787}{169862}Tant de fois,|tu as été mon protecteur.
+{169877}{169937}J'ai une carrière toute trouvée.
+{169985}{170077}Ca ne marcherait pas.|ll ne me laissera pas partir.
+{170085}{170132}Referme cette page de ta vie.
+{170252}{170297}Et pour la dernière fois :
+{170380}{170407}tu viens avec moi ?
+{170495}{170535}Rends-moi le plus grand|des services...
+{170540}{170577}tu veux bien, coco ?
+{170582}{170697}Pose un baiser sur mes lèvres|d'amour et ne dis rien.
+{170732}{170820}Regarde par-dessus ton épaule,|et peut-être nous reverrons-nous.
+{170830}{170920}Peut-être pour prendre un verre.|Peut-être pour faire l'amour.
+{170947}{171017}Peut-être. Ah, Dixie...
+{171070}{171147}mon tendre, tendre amant, peut-être.
+{171425}{171452}Adieu.
+{171790}{171822}Ca¨i¨d !
+{172472}{172515}- Attends.|- Quoi ?
+{172525}{172580}- T'as arrosé le maton ?|- C'est fait.
+{172590}{172625}J'ai de la moquette ?
+{172630}{172667}C'est capitonné.
+{172672}{172767}Allez ! Probatoire dans 3 mois,|puis élevage de chevaux en Arkansas.
+{172772}{172797}On sait jamais.
+{172805}{172897}Je vais te dire : vu le palace|qu'on t'a installé à Sing Sing...
+{172902}{172957}la liberté te décevra.
+{173782}{173807}Monk.
+{173815}{173870}Mène-leur une vie d'enfer, Owney.
+{173875}{173900}Allez.
+{173930}{174015}Quand est-ce que tu fais venir|le Cotton Club à Sing Sing ?
+{174020}{174050}Mercredi en huit.
+{174055}{174145}Bon. Je leur ferai faire les décors.|On y va, messieurs ?
+{174212}{174247}Quelle classe !
+{175040}{175117}Va, ne rate pas ton train. Allez.
+{175240}{175265}Paie-toi un manteau neuf.
+{175270}{175312}- Salut, maman.|- Au revoir, mon fils.
+{175320}{175397}Tu gesticules trop.|Que je te montre.
+{175435}{175462}Essaie.
+{175487}{175512}Voilà, c'est ça.
+{175860}{175920}- Viens là, Poupée.|- Dixie, je suis libre.
+{175925}{175977}Faux. Le ca¨i¨d ne te lâche plus.
+{176117}{176167}En voiture !
+{176355}{176430}Trinquons au happy end,|Vera Cicero !
+{184467}{184530}Sous-titrage vidéo : C.M.C.

@@ -1,0 +1,37 @@
+{
+    "logic_adapters": [
+      {
+          "identifier": "bertrand",
+          "skill_description": ["Parce que c'est mon texte"],
+          "rive_files": ["./rive/spectacle/bertrand.rive"],
+          "max_confidence": 1,
+          "allowed_to_repeat": true,
+          "import_path": "logic.RiveScriptAdapter"
+      },
+       {
+           "identifier": "fab",
+           "skill_description": ["Parce que c'est mon texte"],
+           "rive_files": ["./rive/spectacle/fab.rive"],
+           "max_confidence": 1,
+           "allowed_to_repeat": true,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "intro",
+           "skill_description":["Parce que c'est mon texte"],
+           "rive_files": ["./rive/spectacle/intro.rive"],
+           "max_confidence": 1,
+           "allowed_to_repeat": true,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+
+       {
+           "identifier": "leon",
+           "skill_description": ["Parce que c'est mon texte"],
+           "rive_files": ["./rive/spectacle/leon.rive"],
+           "max_confidence": 1,
+           "allowed_to_repeat": true,
+           "import_path": "logic.RiveScriptAdapter"
+       }
+      ]
+}

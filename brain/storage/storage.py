@@ -32,7 +32,7 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
             record.text = statement.text
 
             # set speaker name
-            record.speaker = statement.extra_data["speaker"]
+            record.speaker = statement.extra_data.get("speaker", None)
 
             # set extra data
             record.extra_data = dict(statement.extra_data)
@@ -174,7 +174,7 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
         if statement:
             if extra_data:
-                return statement.extra_data[extra_data]
+                return statement.extra_data.get(extra_data, None)
             return statement.extra_data
 
 

@@ -1,0 +1,1537 @@
+1
+00:00:04,709 --> 00:00:06,130
+CETTE FOIS, C'EST PERSONNEL
+
+2
+00:00:06,463 --> 00:00:08,173
+{\fade(250,250)}.:: 609 ::.
+<i>A Clockwork Origin</i>
+
+3
+00:00:15,970 --> 00:00:18,225
+{\fade(250,250)}=:= Bite My Shiny Metal Ass Team =:=
+
+4
+00:00:22,062 --> 00:00:23,156
+{\pos(192,210)}Premier point :
+
+5
+00:00:23,323 --> 00:00:24,315
+{\pos(192,210)}à terre !
+
+6
+00:00:26,460 --> 00:00:28,110
+{\pos(192,210)}Cubert, petit effronté !
+
+7
+00:00:28,402 --> 00:00:29,612
+Et l'école ?
+
+8
+00:00:29,862 --> 00:00:31,947
+Bloquée par des manifestants.
+
+9
+00:00:32,197 --> 00:00:35,950
+Des enragés jovials qui tiennent
+des banderoles anti-évolution.
+
+10
+00:00:37,369 --> 00:00:39,788
+On s'attaque à l'évolution
+dans les écoles ?
+
+11
+00:00:40,130 --> 00:00:42,708
+{\pos(192,210)}- Tous au Labo Mobile.
+- Le vaisseau ?
+
+12
+00:00:43,000 --> 00:00:45,294
+{\pos(192,210)}Oui, le Labo Mobile.
+
+13
+00:00:45,625 --> 00:00:49,298
+{\pos(192,210)}C'est nouveau comme nom,
+mais on va faire avec.
+
+14
+00:00:54,970 --> 00:00:58,459
+ACADÉMIE DE NERDS DE WOZNIAK
+ALLEZ LES PEUREUX !
+
+15
+00:00:58,807 --> 00:01:00,454
+{\pos(192,210)}L'évolution m'est impénétrable,
+
+16
+00:01:00,621 --> 00:01:03,187
+{\pos(192,210)}et elle ne pénètrera pas
+mes enfants !
+
+17
+00:01:03,437 --> 00:01:05,856
+Les savants ne gagneront pas !
+
+18
+00:01:09,733 --> 00:01:12,677
+{\pos(192,210)}Vous êtes aussi bruyants
+qu'ignorants.
+
+19
+00:01:12,844 --> 00:01:15,491
+{\pos(192,210)}Rentrez chez vous
+sur vos tracteurs !
+
+20
+00:01:17,996 --> 00:01:21,288
+Ce stéréotype véridique
+est insultant !
+
+21
+00:01:21,580 --> 00:01:23,908
+En tant que scientifique,
+je vous assure
+
+22
+00:01:24,075 --> 00:01:27,320
+que nous avons bien évolué
+à partir d'un singe !
+
+23
+00:01:27,487 --> 00:01:28,921
+Parlez pour vous,
+
+24
+00:01:29,329 --> 00:01:31,424
+mes ancêtres
+n'étaient pas des singes.
+
+25
+00:01:31,591 --> 00:01:32,842
+Mais des orangs-outans.
+
+26
+00:01:33,092 --> 00:01:35,511
+Des orangs-outans travailleurs
+et patriotiques.
+
+27
+00:01:35,761 --> 00:01:38,411
+- Dr Banjo ?
+- En fourrure et en os.
+
+28
+00:01:38,578 --> 00:01:41,122
+Je vous rappelle que l'évolution
+n'est qu'une théorie,
+
+29
+00:01:41,289 --> 00:01:43,102
+comme la gravité ou la Terre ronde.
+
+30
+00:01:45,808 --> 00:01:48,609
+Professeur,
+je suis un spaghetti volant.
+
+31
+00:01:48,776 --> 00:01:53,028
+Vous croyez que je descends
+d'un manicotti volant ?
+
+32
+00:01:53,278 --> 00:01:54,947
+- Oui !
+- Allons bon.
+
+33
+00:01:55,286 --> 00:01:59,660
+Il y a une explication plus logique,
+le créaturisme.
+
+34
+00:01:59,910 --> 00:02:03,611
+La vie a été créée il y a 7 000 ans
+
+35
+00:02:03,778 --> 00:02:06,500
+par une créature extraterrestre !
+
+36
+00:02:06,750 --> 00:02:07,622
+Mensonge !
+
+37
+00:02:09,593 --> 00:02:12,587
+Si votre soi-disant évolution
+est réelle,
+
+38
+00:02:12,754 --> 00:02:14,393
+où est le chainon manquant
+
+39
+00:02:14,560 --> 00:02:16,676
+entre les humains et les singes ?
+
+40
+00:02:16,843 --> 00:02:18,004
+Il a été trouvé.
+
+41
+00:02:18,518 --> 00:02:19,889
+C'est l'<i>Homo erectus</i>.
+
+42
+00:02:20,269 --> 00:02:23,642
+Vous vous enfoncez,
+puisqu'on n'a pas trouvé le lien
+
+43
+00:02:23,892 --> 00:02:25,842
+entre le singe et l'<i>Homo erectus</i>.
+
+44
+00:02:26,009 --> 00:02:28,940
+Bien sûr que si !
+C'est l'<i>Homo habilis</i>.
+
+45
+00:02:29,966 --> 00:02:31,945
+Mais on n'a pas trouvé le lien
+
+46
+00:02:32,112 --> 00:02:34,831
+entre le singe et ce <i>Homo habilis</i>.
+
+47
+00:02:34,998 --> 00:02:36,080
+Bien sûr que si !
+
+48
+00:02:36,247 --> 00:02:39,521
+C'est l'<i>Australopithecus africanus</i> !
+
+49
+00:02:39,835 --> 00:02:41,144
+Vous êtes fait.
+
+50
+00:02:42,329 --> 00:02:43,251
+D'accord,
+
+51
+00:02:43,460 --> 00:02:45,581
+mais où est le lien
+
+52
+00:02:45,831 --> 00:02:48,204
+entre le singe
+et le <i>Darwinius masillae</i> ?
+
+53
+00:02:48,371 --> 00:02:50,002
+Alors, professeur ?
+
+54
+00:02:52,335 --> 00:02:55,266
+D'accord, il nous manque encore
+ce chainon manquant,
+
+55
+00:02:55,433 --> 00:02:58,427
+mais sa non-découverte
+n'implique pas sa non-existence !
+
+56
+00:02:59,805 --> 00:03:02,890
+La foine matérialise pas les choses.
+
+57
+00:03:03,057 --> 00:03:06,102
+Telles sont les paroles
+du Tout-Puissant !
+
+58
+00:03:06,352 --> 00:03:09,510
+BIENVENUE DANS LES GORGES D'OLDUVAI
+BERCEAU DE RYAN SEACREST
+
+59
+00:03:09,677 --> 00:03:11,327
+ET DU RESTE DE L'HUMANITÉ
+
+60
+00:03:13,980 --> 00:03:16,724
+J'aurai le dessus
+sur ce mangeur de bananes !
+
+61
+00:03:16,891 --> 00:03:19,698
+On doit trouver
+ce dernier chainon manquant.
+
+62
+00:03:19,990 --> 00:03:21,383
+J'ai trouvé un chainon.
+
+63
+00:03:21,550 --> 00:03:23,869
+Moitié humain, moitié toucan.
+
+64
+00:03:24,036 --> 00:03:26,464
+On s'en fiche. Dans la soupe !
+
+65
+00:03:29,875 --> 00:03:31,367
+J'ai trouvé un truc.
+
+66
+00:03:31,979 --> 00:03:33,721
+Encore un des chiens de Fry.
+
+67
+00:03:33,888 --> 00:03:35,296
+T'as trouvé, Hermes ?
+
+68
+00:03:40,972 --> 00:03:43,536
+Je déteste buriner
+après une manucure.
+
+69
+00:03:44,387 --> 00:03:47,017
+Mince !
+Je me suis cassé un doigt !
+
+70
+00:03:47,384 --> 00:03:49,763
+Regarde son cou.
+
+71
+00:03:49,930 --> 00:03:52,307
+Ses cravates devaient coûter cher !
+
+72
+00:03:54,233 --> 00:03:55,359
+C'est trop tôt ?
+
+73
+00:03:56,175 --> 00:03:58,516
+Je doute
+que les <i>jurassic elaphrosaurus</i>
+
+74
+00:03:58,683 --> 00:04:00,243
+en portaient.
+
+75
+00:04:01,464 --> 00:04:04,827
+J'aurai dû lui faire
+la blague du collier.
+
+76
+00:04:05,381 --> 00:04:07,781
+J'ai trouvé un fossile de robot !
+
+77
+00:04:07,948 --> 00:04:10,666
+C'est un ressort,
+espèce de ressort !
+
+78
+00:04:10,916 --> 00:04:12,668
+Les fossiles de robot
+n'existent pas.
+
+79
+00:04:12,918 --> 00:04:15,087
+Qui dit que j'ai pas évolué ?
+
+80
+00:04:15,337 --> 00:04:18,919
+Tout le monde !
+La création de robots est récente.
+
+81
+00:04:19,086 --> 00:04:20,593
+C'était dans les journaux.
+
+82
+00:04:20,843 --> 00:04:22,696
+Alors, explique ça !
+
+83
+00:04:26,377 --> 00:04:28,142
+À MORT LE LUNDI
+
+84
+00:04:30,613 --> 00:04:33,272
+C'est une vraie mine à chainons !
+
+85
+00:04:33,564 --> 00:04:36,099
+Homme de Java, homme de Piltdown,
+
+86
+00:04:36,266 --> 00:04:38,009
+Homer Simpson.
+
+87
+00:04:38,885 --> 00:04:40,035
+Euréka !
+
+88
+00:04:40,202 --> 00:04:42,845
+Voici le chainon manquant manquant.
+
+89
+00:04:43,012 --> 00:04:45,618
+Banjo ne va pas en revenir.
+
+90
+00:04:48,645 --> 00:04:50,580
+- Que...
+- C'est à moi.
+
+91
+00:04:51,749 --> 00:04:55,169
+PREMIÈRE MONDIALE DE L'OS
+
+92
+00:04:58,213 --> 00:04:59,456
+Il est trop petit.
+
+93
+00:04:59,623 --> 00:05:02,383
+J'ai sûrement grandi
+depuis la dernière fois.
+
+94
+00:05:02,550 --> 00:05:04,706
+Ou évolué, comme on dit.
+
+95
+00:05:04,873 --> 00:05:06,406
+On ne le dit pas.
+
+96
+00:05:06,573 --> 00:05:09,308
+Il ne te va pas,
+car tu l'as volé à un garçon.
+
+97
+00:05:09,600 --> 00:05:12,561
+À un homme, c'était sa Bar Mitzvah.
+
+98
+00:05:13,339 --> 00:05:14,923
+Bienvenue, membres du musée.
+
+99
+00:05:15,090 --> 00:05:18,446
+Ou comme j'aime le dire,
+futures expositions.
+
+100
+00:05:20,562 --> 00:05:21,654
+Il est bon.
+
+101
+00:05:21,904 --> 00:05:24,250
+Ce soir, nous accueillons
+un nouveau résident,
+
+102
+00:05:24,417 --> 00:05:26,588
+généreusement donné
+par celui qui l'a découvert,
+
+103
+00:05:26,755 --> 00:05:27,868
+Hubert Farnsworth.
+
+104
+00:05:28,160 --> 00:05:30,538
+Mesdames et messieurs,
+l'<i>Homo Farnsworth</i> !
+
+105
+00:05:34,195 --> 00:05:36,981
+Une fois de plus,
+la science résout tout.
+
+106
+00:05:37,235 --> 00:05:38,469
+Fin.
+
+107
+00:05:39,046 --> 00:05:42,235
+Pour débattre des implications
+scientifiques de cette découverte,
+
+108
+00:05:42,402 --> 00:05:44,389
+notre nouveau conservateur de musée,
+
+109
+00:05:44,556 --> 00:05:45,720
+Dr Banjo !
+
+110
+00:05:49,458 --> 00:05:52,599
+Merci, professeur Farnsworth,
+pour votre généreux don,
+
+111
+00:05:52,766 --> 00:05:55,630
+qui a encore une fois
+réfuté l'évolution.
+
+112
+00:05:56,706 --> 00:05:58,691
+Voici l'<i>Homo Farnsworth</i>
+
+113
+00:05:59,070 --> 00:06:01,932
+chevauchant un dinosaure
+à l'époque de la création.
+
+114
+00:06:03,830 --> 00:06:06,580
+Je ne veux plus vivre
+sur cette planète.
+
+115
+00:06:12,621 --> 00:06:13,856
+{\pos(192,230)}FIN FOND DE L'ESPACE
+
+116
+00:06:14,023 --> 00:06:15,230
+{\pos(192,230)}Plus vite !
+
+117
+00:06:15,397 --> 00:06:17,835
+Déposez-moi sur cet astéroïde.
+
+118
+00:06:21,575 --> 00:06:23,610
+Aucune trace de vie ici.
+
+119
+00:06:23,777 --> 00:06:25,551
+Mettez un monocle !
+
+120
+00:06:25,801 --> 00:06:28,054
+Installez ma cabane,
+que je vous en expulse !
+
+121
+00:06:31,307 --> 00:06:33,351
+C'est votre seule source d'eau ?
+
+122
+00:06:33,601 --> 00:06:36,520
+- On dirait du Coca Light.
+- C'est pas si terrible.
+
+123
+00:06:36,770 --> 00:06:38,914
+Elle est chargée
+de minéraux toxiques.
+
+124
+00:06:39,081 --> 00:06:40,675
+Mais plus pour longtemps.
+
+125
+00:06:41,394 --> 00:06:42,401
+C'est quoi ?
+
+126
+00:06:42,651 --> 00:06:44,559
+Des nanorobots microscopiques.
+
+127
+00:06:46,826 --> 00:06:50,618
+Ces petits robots de ma création
+mangent les agents irritants.
+
+128
+00:06:51,344 --> 00:06:54,246
+En parlant d'agent irritant,
+que devient Cubert ?
+
+129
+00:06:54,496 --> 00:06:55,368
+Qui ?
+
+130
+00:06:55,535 --> 00:06:57,717
+Mon fils ! Ne t'inquiète pas.
+
+131
+00:06:57,884 --> 00:07:00,662
+Je l'ai abandonné à son parrain.
+
+132
+00:07:02,129 --> 00:07:05,102
+Il nous fallait un moment père-fils,
+
+133
+00:07:05,269 --> 00:07:07,301
+donc j'ai trouvé
+des gants de baseball
+
+134
+00:07:07,468 --> 00:07:09,173
+pour en faire notre dîner.
+
+135
+00:07:09,430 --> 00:07:11,109
+Brûle en enfer.
+
+136
+00:07:11,674 --> 00:07:14,803
+Attends !
+On doit parler des choses de la vie.
+
+137
+00:07:15,100 --> 00:07:16,435
+C'est quoi, d'ailleurs ?
+
+138
+00:07:19,593 --> 00:07:21,757
+J'ai fini d'installer le piano.
+
+139
+00:07:21,924 --> 00:07:23,128
+À nous les pizzas.
+
+140
+00:07:23,295 --> 00:07:25,695
+Plus tard, vos pizzas,
+bande de parasites.
+
+141
+00:07:26,038 --> 00:07:29,433
+Regardons d'abord
+si mes nanorobots ont purifié l'eau.
+
+142
+00:07:34,001 --> 00:07:37,679
+L'eau est aussi pure
+que mon cocu de naïf de père.
+
+143
+00:07:38,091 --> 00:07:39,148
+C'est quoi ?
+
+144
+00:07:39,315 --> 00:07:41,794
+Les nanorobots se sont complexifiés.
+
+145
+00:07:42,044 --> 00:07:43,231
+De quoi ?
+
+146
+00:07:43,398 --> 00:07:46,382
+Ces robots ont évolué
+par eux-mêmes ?
+
+147
+00:07:46,726 --> 00:07:49,572
+Pas par eux-mêmes.
+C'est moi qui les ai mis là.
+
+148
+00:07:49,739 --> 00:07:51,925
+Je suis un génie,
+fais-toi à cette idée.
+
+149
+00:07:52,092 --> 00:07:53,681
+Regardez, ils grossissent.
+
+150
+00:07:54,420 --> 00:07:56,558
+Dieu Tout-Puissant, des trilorobots.
+
+151
+00:08:05,393 --> 00:08:07,612
+Mes lunettes de soleil
+étaient dedans !
+
+152
+00:08:18,274 --> 00:08:20,165
+Sauvons les pizzas !
+
+153
+00:08:27,381 --> 00:08:31,594
+Là, un trou en forme de grotte.
+C'est peut-être une grotte.
+
+154
+00:08:40,555 --> 00:08:42,485
+- Quelqu'un a un briquet ?
+- Attends.
+
+155
+00:08:49,371 --> 00:08:52,615
+On a un abri
+et de quoi éviter la famine.
+
+156
+00:08:53,029 --> 00:08:54,575
+C'est l'heure de la pizza.
+
+157
+00:08:57,014 --> 00:08:58,120
+De l'ananas ?
+
+158
+00:08:59,413 --> 00:09:00,709
+Tout ça pour ça.
+
+159
+00:09:04,251 --> 00:09:06,248
+Je sais que tu aimes
+les super-héros,
+
+160
+00:09:06,415 --> 00:09:08,422
+alors je t'ai fait
+une peinture murale.
+
+161
+00:09:08,925 --> 00:09:10,470
+Voici Super-papa.
+
+162
+00:09:10,637 --> 00:09:13,337
+Il combat le crime
+pour gagner le respect de Super-Fils.
+
+163
+00:09:13,646 --> 00:09:14,798
+Ça marche ?
+
+164
+00:09:14,965 --> 00:09:16,754
+C'est nul ! T'es nul !
+
+165
+00:09:16,921 --> 00:09:18,766
+C'est quoi, ces perspectives ?
+
+166
+00:09:19,112 --> 00:09:21,560
+Je peins mieux avec mon cul !
+
+167
+00:09:23,439 --> 00:09:25,681
+Super-papa s'en va.
+
+168
+00:09:33,082 --> 00:09:35,727
+Rien de mieux qu'une grotte
+pour bien dormir.
+
+169
+00:09:35,894 --> 00:09:38,559
+On a quelque chose à manger
+qui ne soit pas à l'ananas ?
+
+170
+00:09:38,726 --> 00:09:40,319
+J'ai plein de nourriture,
+
+171
+00:09:40,486 --> 00:09:43,242
+mais sous forme
+de pilules déshydratées.
+
+172
+00:09:43,749 --> 00:09:45,180
+Il nous faut de l'eau.
+
+173
+00:09:45,347 --> 00:09:47,420
+On va devoir se frayer un chemin.
+
+174
+00:09:49,538 --> 00:09:50,339
+Allez !
+
+175
+00:09:50,733 --> 00:09:52,288
+Frappez tout ce qui bouge !
+
+176
+00:10:00,201 --> 00:10:02,393
+Toute une forêt a poussé
+pendant la nuit.
+
+177
+00:10:03,929 --> 00:10:05,708
+Ce sont des arbres robotisés.
+
+178
+00:10:05,875 --> 00:10:08,253
+Ils se sont développés
+à une vitesse incroyable.
+
+179
+00:10:08,420 --> 00:10:11,020
+Pas si incroyable.
+Les robots sont plus rapides
+
+180
+00:10:11,187 --> 00:10:14,530
+pour évoluer et croire
+en la vitesse de leur développement.
+
+181
+00:10:19,980 --> 00:10:22,428
+Une chose est sûre
+concernant les pharmaceutiques,
+
+182
+00:10:22,945 --> 00:10:25,013
+ils savent cuisiner le steak.
+
+183
+00:10:25,421 --> 00:10:27,293
+Regardez-moi dans ma petite barque.
+
+184
+00:10:27,605 --> 00:10:30,205
+J'ai un yacht,
+tout le monde me chie dessus !
+
+185
+00:10:34,443 --> 00:10:35,718
+À l'aide ! Police !
+
+186
+00:10:35,968 --> 00:10:37,596
+Prenez tous une barre.
+
+187
+00:10:46,437 --> 00:10:48,940
+Gros monstre du lac,
+viens sur terre et...
+
+188
+00:10:53,569 --> 00:10:55,112
+Attention au prochain truc !
+
+189
+00:11:02,195 --> 00:11:04,872
+Nom de Zeus, un tricycle-tops.
+
+190
+00:11:10,875 --> 00:11:13,399
+Prenez ça,
+dinosaures de l'eau et de la terre !
+
+191
+00:11:16,205 --> 00:11:18,565
+Quelle cool façon de mourir !
+
+192
+00:11:23,175 --> 00:11:25,804
+Désolé de t'avoir traité
+comme un Zoidberg.
+
+193
+00:11:25,971 --> 00:11:26,894
+Non, un raté.
+
+194
+00:11:28,562 --> 00:11:29,397
+Continue.
+
+195
+00:11:29,765 --> 00:11:32,201
+Des brutes s'en prennent à moi.
+
+196
+00:11:32,368 --> 00:11:35,594
+Me moquer des gens
+doit être un mécanisme de défense.
+
+197
+00:11:36,153 --> 00:11:38,656
+C'est là que t'habites ?
+
+198
+00:11:40,324 --> 00:11:43,327
+Demande à ta mère,
+elle vient ici pour forniquer.
+
+199
+00:11:50,053 --> 00:11:52,289
+Ne t'inquiète pas,
+je sais gérer les brutes.
+
+200
+00:11:52,456 --> 00:11:54,046
+Fais le pathétique.
+
+201
+00:11:54,648 --> 00:11:56,669
+J'ai peur !
+Je me suis fait pipi dessus.
+
+202
+00:11:56,836 --> 00:11:59,297
+Je pleure comme un bébé
+et je pue le pipi,
+
+203
+00:11:59,464 --> 00:12:00,835
+comme d'habitude !
+
+204
+00:12:04,394 --> 00:12:06,443
+Les pisseurs se pissent dessus.
+
+205
+00:12:06,610 --> 00:12:09,061
+J'ai un cours de poterie, débiles.
+
+206
+00:12:10,841 --> 00:12:11,886
+Et voilà.
+
+207
+00:12:13,230 --> 00:12:16,007
+T'es une sorte
+de Jedi des poubelles.
+
+208
+00:12:17,410 --> 00:12:19,314
+Tu veux entrer ?
+
+209
+00:12:19,674 --> 00:12:22,617
+J'ai un beau gâteau
+avec une empreinte de pied.
+
+210
+00:12:27,384 --> 00:12:28,456
+Pas mes fesses !
+
+211
+00:12:31,127 --> 00:12:34,095
+Si c'est comme tuer un pigeon
+sur le balcon,
+
+212
+00:12:34,262 --> 00:12:35,922
+ça va être facile.
+
+213
+00:12:47,058 --> 00:12:49,393
+Attention, une éruption solaire !
+
+214
+00:13:01,572 --> 00:13:02,980
+C'était quoi, ça ?
+
+215
+00:13:03,147 --> 00:13:04,732
+Une extinction massive.
+
+216
+00:13:05,240 --> 00:13:06,736
+L'éruption solaire a créé
+
+217
+00:13:06,903 --> 00:13:09,093
+une énorme
+impulsion électromagnétique
+
+218
+00:13:09,260 --> 00:13:11,040
+inoffensive pour la vie organique,
+
+219
+00:13:11,207 --> 00:13:14,585
+- mais qui a tué les robots dinosaures.
+- Pratique.
+
+220
+00:13:14,835 --> 00:13:18,232
+Seuls de faibles robots
+cachés dans leur grotte
+
+221
+00:13:18,399 --> 00:13:20,635
+auraient pu survivre
+à une telle catastrophe.
+
+222
+00:13:21,842 --> 00:13:24,100
+Les mecs !
+J'ai appris à tricoter.
+
+223
+00:13:24,267 --> 00:13:25,513
+Attendez un peu.
+
+224
+00:13:26,147 --> 00:13:29,563
+En récupérant les bonnes pièces
+sur ces robots,
+
+225
+00:13:29,730 --> 00:13:32,679
+je pourrais construire
+un vaisseau rudimentaire
+
+226
+00:13:32,846 --> 00:13:34,522
+pour quitter cette planète.
+
+227
+00:13:37,325 --> 00:13:40,069
+Ça nous a presque pris deux heures,
+
+228
+00:13:40,236 --> 00:13:41,766
+mais il est terminé.
+
+229
+00:13:43,614 --> 00:13:44,955
+Maintenant, partons...
+
+230
+00:13:45,122 --> 00:13:45,928
+dormir.
+
+231
+00:13:46,095 --> 00:13:49,370
+Il marche à l'énergie solaire,
+on décollera à l'aube.
+
+232
+00:13:51,270 --> 00:13:54,176
+Trouvons un lit confortable.
+
+233
+00:14:25,044 --> 00:14:25,865
+Regardez.
+
+234
+00:14:33,068 --> 00:14:35,375
+Quel magnifique cygne robot !
+
+235
+00:14:35,625 --> 00:14:39,098
+On dirait que les plus forts
+ont bien survécu.
+
+236
+00:14:39,265 --> 00:14:40,213
+Passons.
+
+237
+00:14:40,753 --> 00:14:41,798
+Regardez.
+
+238
+00:14:44,416 --> 00:14:47,626
+Ces robots des cavernes
+ont enlevé nos femmes humaines.
+
+239
+00:14:47,793 --> 00:14:48,872
+Sauvons-les !
+
+240
+00:14:49,039 --> 00:14:51,510
+Mais notre seule arme
+est mon éventail.
+
+241
+00:14:52,892 --> 00:14:54,910
+Je peux faire un lance-pierre
+
+242
+00:14:55,077 --> 00:14:59,081
+avec ce bréchet de robot
+et l'élastique de mon pantalon.
+
+243
+00:15:07,885 --> 00:15:09,158
+Ils veulent une femme.
+
+244
+00:15:09,408 --> 00:15:10,536
+Fais la femme.
+
+245
+00:15:10,703 --> 00:15:13,579
+Si ça ne marche pas,
+on aura la moitié de leurs cailloux.
+
+246
+00:15:13,830 --> 00:15:15,491
+Je gagne mes propres cailloux.
+
+247
+00:15:15,658 --> 00:15:17,750
+Même s'ils ne m'intéressent pas.
+
+248
+00:15:19,087 --> 00:15:22,551
+Ça m'a pris 12 heures,
+mais j'ai terminé.
+
+249
+00:15:24,105 --> 00:15:25,133
+Il fait noir,
+
+250
+00:15:25,383 --> 00:15:27,595
+mais on les aura à la première heure
+
+251
+00:15:27,762 --> 00:15:29,504
+et on les ratera pas.
+
+252
+00:15:42,926 --> 00:15:44,944
+On vous a sauvées comment ?
+
+253
+00:15:45,195 --> 00:15:46,491
+C'était trop bizarre.
+
+254
+00:15:46,658 --> 00:15:48,513
+On s'est couchées et à notre réveil,
+
+255
+00:15:48,680 --> 00:15:50,329
+nos maris étaient partis.
+
+256
+00:15:50,496 --> 00:15:52,370
+Spencer va me manquer.
+
+257
+00:15:56,873 --> 00:15:58,448
+N'ayez pas peur, mes petits.
+
+258
+00:15:58,615 --> 00:16:00,154
+Je vous ferai aucun mal.
+
+259
+00:16:03,038 --> 00:16:04,505
+Beau filet.
+
+260
+00:16:04,755 --> 00:16:06,549
+Vous pouvez parler ?
+
+261
+00:16:06,799 --> 00:16:07,967
+Incroyable.
+
+262
+00:16:08,218 --> 00:16:10,185
+Un robot humanoïde civilisé.
+
+263
+00:16:10,352 --> 00:16:12,430
+Je suis le Dr Widnar, naturaliste.
+
+264
+00:16:12,681 --> 00:16:14,307
+Et moi, c'est Bender, poupée.
+
+265
+00:16:14,558 --> 00:16:17,131
+Mes esclaves humains et moi
+venons d'une planète
+
+266
+00:16:17,298 --> 00:16:21,022
+ou les espèces organique
+et robotique cohabitent.
+
+267
+00:16:21,836 --> 00:16:22,849
+La ferme.
+
+268
+00:16:23,016 --> 00:16:24,036
+Incroyable.
+
+269
+00:16:24,203 --> 00:16:27,570
+J'avais émis la théorie
+que des êtres de carbone existaient,
+
+270
+00:16:27,820 --> 00:16:30,239
+mais je n'avais pas de preuve
+jusqu'à aujourd'hui.
+
+271
+00:16:30,489 --> 00:16:32,483
+Super.
+On peut rentrer ?
+
+272
+00:16:34,285 --> 00:16:37,038
+MUSÉE DE LA ROBO-HISTOIRE NATURELLE
+
+273
+00:16:43,433 --> 00:16:45,230
+PEINTURE DE LA GROTTE
+DE NANDERTHAL
+
+274
+00:16:46,766 --> 00:16:48,549
+ÉVOLUTION DU ROBOT
+
+275
+00:16:48,799 --> 00:16:50,259
+Bienvenue, membres du musée.
+
+276
+00:16:50,509 --> 00:16:53,846
+Ou comme j'aime le dire,
+futures expositions.
+
+277
+00:16:55,348 --> 00:16:57,807
+Voici ma dernière découverte,
+
+278
+00:16:57,974 --> 00:17:00,262
+un homme non-mécanique :
+
+279
+00:17:00,429 --> 00:17:02,181
+l'<i>Homo Farnsworth</i>.
+
+280
+00:17:05,421 --> 00:17:09,070
+Je suis fier de voir
+comment vous avez dérivé
+
+281
+00:17:09,237 --> 00:17:11,817
+de vos ancêtres que j'ai créés.
+
+282
+00:17:13,032 --> 00:17:15,092
+- Quoi ?
+- Vous ne le saviez pas ?
+
+283
+00:17:15,259 --> 00:17:19,205
+Vous avez évolué à partir
+de mes nanorobots anti-irritants.
+
+284
+00:17:19,372 --> 00:17:22,529
+Je les ai lâchés dans un lac
+il y a quelques jours.
+
+285
+00:17:23,459 --> 00:17:25,211
+C'est un discours créationniste.
+
+286
+00:17:25,461 --> 00:17:26,798
+Boniments !
+
+287
+00:17:26,965 --> 00:17:29,465
+La Terre existe depuis des éons,
+pas des jours.
+
+288
+00:17:29,715 --> 00:17:32,325
+Par rapport à vous,
+ce sont des éons,
+
+289
+00:17:32,492 --> 00:17:36,180
+mais regardez cet hologramme
+enregistré avant-hier
+
+290
+00:17:36,431 --> 00:17:39,475
+d'un robot
+chevauchant un dinosaure robotique.
+
+291
+00:17:42,246 --> 00:17:44,272
+Je ne veux plus vivre
+sur cette planète.
+
+292
+00:17:47,806 --> 00:17:50,278
+On vous arrête
+pour crime contre la science.
+
+293
+00:17:52,713 --> 00:17:55,158
+Vous pouvez me trainer
+aux toilettes ?
+
+294
+00:17:56,669 --> 00:17:58,169
+LE PROCÈS DU SIECLE
+
+295
+00:18:02,624 --> 00:18:04,918
+Retourne en Roboklahoma !
+
+296
+00:18:05,168 --> 00:18:06,340
+Silence !
+
+297
+00:18:06,507 --> 00:18:09,088
+Dans le procès
+tout le monde contre Farnsworth,
+
+298
+00:18:09,339 --> 00:18:12,932
+l'accusé, créationniste,
+encourt la mort par dissolution.
+
+299
+00:18:13,099 --> 00:18:15,136
+Qui est l'avocat de la défense ?
+
+300
+00:18:15,596 --> 00:18:17,227
+- Moi.
+- Moi, votre honneur.
+
+301
+00:18:18,671 --> 00:18:20,606
+Qu'est-ce que tu fais ?
+
+302
+00:18:20,773 --> 00:18:22,766
+Chut, je facture à l'heure.
+
+303
+00:18:22,933 --> 00:18:25,438
+De plus, je suis un robot.
+Ils m'écouteront.
+
+304
+00:18:26,982 --> 00:18:29,359
+Mesdames et messieurs robots...
+
+305
+00:18:29,609 --> 00:18:31,781
+Objection !
+Sans pantalon,
+
+306
+00:18:31,948 --> 00:18:34,030
+sa plaidoirie n'a aucune valeur.
+
+307
+00:18:34,280 --> 00:18:36,616
+Je laisse passer...
+Pour l'instant.
+
+308
+00:18:36,867 --> 00:18:38,284
+Merci. Votre honneur,
+
+309
+00:18:38,535 --> 00:18:40,203
+ce bout de viande ne nie pas
+
+310
+00:18:40,370 --> 00:18:43,122
+que les robots
+sont le produit de l'évolution.
+
+311
+00:18:43,373 --> 00:18:47,377
+Il prétend juste avoir un petit rôle
+dans la création du premier.
+
+312
+00:18:47,878 --> 00:18:50,339
+Est-ce vraiment insensé ?
+
+313
+00:18:50,630 --> 00:18:52,507
+Bien sûr que oui,
+
+314
+00:18:52,757 --> 00:18:56,844
+et c'est pour ça
+que je plaide la folie !
+
+315
+00:18:58,420 --> 00:18:59,366
+Objection.
+
+316
+00:18:59,533 --> 00:19:02,016
+Je ne suis pas fou.
+Je vous ai créés.
+
+317
+00:19:02,266 --> 00:19:05,603
+Je suis venu ici dans un vaisseau
+et j'ai vécu dans une grotte.
+
+318
+00:19:05,854 --> 00:19:08,439
+Si vous ne me croyez pas,
+demandez à mon oncle.
+
+319
+00:19:10,233 --> 00:19:11,734
+Procureur, un commentaire ?
+
+320
+00:19:12,523 --> 00:19:14,946
+Je serai là pour le dîner.
+L'accusation en a fini.
+
+321
+00:19:15,197 --> 00:19:17,812
+Très bien.
+Nous reprendrons
+
+322
+00:19:17,979 --> 00:19:19,868
+quand le jury aura un verdict.
+
+323
+00:19:25,969 --> 00:19:29,002
+Mon fils, t'es dans la merde.
+
+324
+00:19:29,252 --> 00:19:30,595
+GORT SUPÉRIEURE
+
+325
+00:19:41,199 --> 00:19:43,299
+Un verdict a-t-il été décidé ?
+
+326
+00:19:43,466 --> 00:19:44,934
+Non, votre honneur,
+
+327
+00:19:45,322 --> 00:19:48,563
+puisque nous avons évolué
+vers un autre état de conscience.
+
+328
+00:19:48,813 --> 00:19:52,921
+Selon l'ordre divin,
+tout être physique est un bouseux.
+
+329
+00:19:53,318 --> 00:19:56,469
+Maintenant, virez votre cul d'ici.
+
+330
+00:19:59,672 --> 00:20:01,618
+Ça fera 10 000 $.
+
+331
+00:20:13,285 --> 00:20:15,182
+Les photos numériques
+ne mentent pas.
+
+332
+00:20:15,349 --> 00:20:19,243
+J'admets que ce que vous avez vu
+ressemble à de l'évolution.
+
+333
+00:20:19,410 --> 00:20:21,721
+Merci de l'admettre, Dr Banjo.
+
+334
+00:20:21,971 --> 00:20:25,612
+Évolution lancée
+par un créateur omniscient...
+
+335
+00:20:25,895 --> 00:20:26,695
+Vous.
+
+336
+00:20:27,469 --> 00:20:30,223
+Je ne suis pas omniscient.
+
+337
+00:20:30,390 --> 00:20:33,047
+Et j'admets que c'est possible,
+bien qu'improbable,
+
+338
+00:20:33,214 --> 00:20:36,041
+qu'un alien omniscient
+
+339
+00:20:36,208 --> 00:20:38,613
+ait lancé l'évolution sur Terre.
+
+340
+00:20:39,521 --> 00:20:41,282
+Qui pourrait être un robot.
+
+341
+00:20:42,245 --> 00:20:45,323
+Et qui aurait créé
+ce robot créateur ?
+
+342
+00:20:45,490 --> 00:20:47,835
+Un robot barbu
+qui vit dans le ciel ?
+
+343
+00:20:49,617 --> 00:20:52,168
+C'est sûrement idiot.
+Peu importe.
+
+344
+00:20:52,419 --> 00:20:53,589
+Et voilà.
+
+345
+00:20:53,756 --> 00:20:57,760
+Un monde où je serai heureux
+d'élever mon fils.
+
+346
+00:20:58,091 --> 00:21:00,299
+Bien, parce qu'il m'énerve.
+
+347
+00:21:03,308 --> 00:21:05,776
+Vraiment. C'est un mauvais garçon.
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

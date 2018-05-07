@@ -1,0 +1,391 @@
+{228}{298}"Mais Clochette est saine et sauve. Merci.
+{323}{395}"Oh, merci, merci.
+{410}{465}"Et volons au secours de Wendy."
+{476}{531}Tu peux me le relire?
+{593}{622}"Peter dit..."
+{1125}{1168}Il assemble le tout.
+{1183}{1253}- Tu vois qu'il est intelligent.|- Je me fais du souci.
+{1258}{1328}- Et s'il fait exploser la maison?|- Il sait ce qu'il fait.
+{1333}{1388}Ecoute sa respiration.
+{1403}{1456}Ça va marcher.
+{1458}{1508}Qu'est-ce qu'il sent maintenant?
+{1517}{1563}Il sent tout.
+{2128}{2190}Tu y vas en fantôme. Tu l'as promis.
+{2195}{2277}Je fais juste semblant d'y aller en cow-girl.
+{2302}{2374}D'accord. Tu connais le plan par cœur,|n'est-ce pas?
+{2380}{2420}On se voit au poste d'observation.
+{2425}{2482}Au poste d'observation. Je suis pas débile.
+{2488}{2572}Ecoute. Tu traverseras pas quatre pâtés|de maisons habillé comme ça.
+{2577}{2642}Je ne plaisante pas. Tu n'iras pas en hippie!
+{2647}{2674}Ils sont tous en hippies!
+{2677}{2723}Je ne suis pas idiote.
+{2930}{2961}Prêt?
+{2962}{2996}Prêt.
+{3407}{3469}- Attends maman. Ne regarde pas.|- D'accord.
+{3612}{3657}C'est bon. Tu peux regarder.
+{3766}{3810}C'est génial.
+{3857}{3890}Ne bougez pas.
+{4147}{4178}Aïe.
+{4194}{4237}Arrête! Ne fais pas ça!
+{4242}{4273}Aïe.
+{4292}{4342}Ce couteau c'est un faux.
+{4347}{4392}- Aïe.|- D'accord.
+{4537}{4566}Très bien.
+{4612}{4653}Vous êtes superbes!
+{4659}{4693}- Merci.|- Merci.
+{4696}{4735}Merci.
+{4945}{5009}Rentrez au crépuscule. Pas plus tard.
+{5142}{5171}Salut.
+{5242}{5285}Viens ici. Allez.
+{5840}{5881}Une farce ou un cadeau?
+{6644}{6697}Maison. Maison.
+{6701}{6766}Maison.
+{6891}{6949}Sois de retour avant la tombée de la nuit.
+{6962}{7024}Je ferai aussi vite que possible.
+{7027}{7075}Tu dois me couvrir.
+{7161}{7209}Allez. Aide-moi.
+{7214}{7293}On t'attendra. Alors reviens.
+{7942}{8007}Il y a trop de bosses. Il faut continuer à pied!
+{8013}{8058}ET !
+{8335}{8388}Pas si haut!
+{9319}{9367}Ne t'écrase pas s'il te plaît.
+{11398}{11458}J'arrive pas à croire que vous ayez fait ça.
+{11602}{11677}Votre père va en entendre parler.
+{11843}{11876}Le Mexique.
+{13037}{13077}Une farce ou un cadeau?
+{13370}{13401}Dans le mille.
+{13506}{13535}Joli tir.
+{13567}{13601}Où est Elliott?
+{13656}{13709}J'ai posé une question.
+{13751}{13847}Pourquoi est-ce qu'Elliott irait dans la forêt?
+{13864}{13929}Pourquoi il ferait une chose comme ça?
+{13964}{14003}Montez dans la voiture.
+{14021}{14067}Dans la voiture, tout de suite.
+{15155}{15198}Ça marche.
+{15241}{15277}Ça marche!
+{15283}{15312}Maison.
+{15343}{15377}Tu as réussi!
+{15403}{15436}Ça marche!
+{15448}{15482}Maison.
+{15521}{15585}Ça marche!
+{16648}{16691}Il faut y aller maintenant.
+{16715}{16755}On est déjà très en retard.
+{16932}{16990}Il faut y aller.
+{17145}{17191}Laisse-leur un peu de temps.
+{17257}{17298}Aïe.
+{17479}{17522}Tu pourrais être heureux ici.
+{17527}{17570}Je m'occuperais de toi.
+{17577}{17630}Je ne laisserais personne te faire de mal.
+{17635}{17683}On pourrait grandir ensemble.
+{17824}{17865}Maison.
+{17910}{17950}Maison.
+{18747}{18780}Maison.
+{18912}{18950}Maison.
+{19785}{19816}ET ?
+{19902}{19929}ET ?
+{20104}{20157}Il était habillé comment?
+{20179}{20222}Il était déguisé en
+{20252}{20285}bossu.
+{20299}{20331}Bossu.
+{20357}{20424}Rien ne pourrait laisser croire|qu'il s'agit d'une fugue?
+{20429}{20487}Problèmes familiaux, disputes récentes?
+{20569}{20636}Mon mari et moi nous venons de nous séparer,
+{20649}{20731}et ça n'a pas été facile pour les enfants. Mais...
+{20744}{20797}Mon père est au Mexique.
+{20954}{20999}Mais une fugue, je...
+{21014}{21060}Où il pourrait s'être enfui?
+{21064}{21093}Elliott.
+{21094}{21137}Oh, Elliott!
+{21171}{21234}Ne me fais plus jamais ça!
+{21294}{21342}Mon Dieu. Tu es brûlant.
+{21359}{21419}Va lui faire couler un bain. Vite.
+{21439}{21487}Désolée de t'avoir crié dessus.
+{21568}{21624}Merci de vous être donné tout ce mal.
+{21641}{21682}Il est ici?
+{21738}{21801}- Il faut que tu le retrouves.|- Où il est?
+{21824}{21862}Dans la forêt.
+{21879}{21922}Dans la clairière.
+{21941}{21979}Il faut que tu le retrouves.
+{23199}{23227}ET!
+{24379}{24408}Non!
+{24417}{24448}Non!
+{25180}{25235}Maman, tu peux venir un instant?
+{25249}{25282}Qu'est-ce qu'il y a?
+{25284}{25327}Viens voir.
+{25339}{25375}Quoi?
+{25387}{25456}- Tu te souviens du lutin?|- De quoi tu parles?
+{25462}{25519}Jure-le sur ce que tu as de plus cher au monde.
+{25524}{25556}Michael.
+{25714}{25750}Très réussi.
+{25909}{25942}Maman.
+{26086}{26122}On est malades.
+{26183}{26236}Je crois qu'on est en train de mourir.
+{26321}{26369}- Michael.|- Ça va.
+{26416}{26448}En bas.
+{26456}{26506}Il ne te fera pas de mal.
+{26523}{26552}Il ne te fera rien.
+{26556}{26596}Emmène-la en bas.
+{26598}{26639}C'est l'homme de la lune.
+{26644}{26689}L'homme de la lune!
+{26784}{26849}Tu ne le connais pas!
+{26968}{27019}Il faut pas le laisser tout seul.
+{27951}{28001}C'est chez moi ici!
+{29175}{29209}Maison.
+{29255}{29281}Maison.
+{30248}{30339}Unité Collagène,|rapport à Niveau Bleu immédiatement.
+{31155}{31198}- Il dort la nuit?|- Je n'en sais rien.
+{31202}{31250}Qu'est-ce qu'il a Elliott?
+{31270}{31330}- Est-ce qu'il est en sueur?|- Non.
+{31345}{31412}- Est-ce qu'il a perdu des cheveux?|- Il n'en a jamais eu.
+{31418}{31458}Les enfants vont bien?
+{31462}{31522}Est-ce qu'il a construit ou écrit quelque chose?
+{31527}{31563}Non.
+{31567}{31649}Tu dis qu'il peut manipuler ce qui l'entoure?
+{31682}{31754}Il est intelligent. Il communique à travers Elliott.
+{31765}{31820}Elliott pense ses pensées.
+{31824}{31904}Non. Elliott ressent ce qu'il ressent.
+{32012}{32077}On a identifié sa protéine vectrice primaire.
+{32081}{32117}Ce n'est pas l'albumine.
+{32119}{32189}Le test ne montre aucun déficit en FNF et HTS.
+{32194}{32288}Les analyses EEG indiquent|une synchronisation de l'activité cérébrale
+{32294}{32325}entre les sujets.
+{32499}{32585}Aucune réaction à 20 par kilo.|Passons à la solution hypertonique.
+{32596}{32635}Cinq par kilo.
+{32757}{32810}Vous n'avez pas le droit de faire ça.
+{32852}{32888}Vous lui faites peur.
+{32902}{32931}Vous lui faites peur.
+{32934}{32968}Rythme respiratoire: 12.
+{32969}{33033}Volume d'air en circulation|en baisse chez le garçon.
+{33040}{33124}Faites 25 ml par canule nasale|et retirez le gaz dans 20 minutes.
+{33130}{33183}Sa température a chuté de 20 à 17.
+{33187}{33240}Apportez une couverture d'hypothermie.
+{33245}{33284}Laissez-le tranquille.
+{33287}{33371}Laissez-le. Je peux m'occuper de lui.
+{33382}{33430}...et faites-moi une écho cardiaque 2D.
+{33435}{33480}La peau est fraîche et diaphorétique.
+{33484}{33554}Il ne refuse pas.|Il lui faut un support anatropique.
+{33559}{33595}PH à 7,03.
+{33600}{33696}Il a une acidose métabolique.|C'est peut-être une septicémie.
+{33715}{33770}On a deux prises de sang.
+{33775}{33835}Il lui faut une couverture à large spectre.
+{34020}{34051}Elliott.
+{34119}{34163}Je suis allé dans la forêt.
+{34190}{34233}Il ne faut pas qu'il parle.
+{34249}{34307}C'est nécessaire mon commandant.
+{34372}{34415}Cette machine,
+{34427}{34478}qu'est-ce qu'elle fait?
+{34514}{34562}Le communicateur?
+{34605}{34657}Il marche encore?
+{34675}{34720}Il fait quelque chose.
+{34747}{34783}Quoi?
+{34804}{34848}Je dois rien dire.
+{34875}{34920}C'est à moi qu'il est venu.
+{34934}{34980}C'est à moi qu'il est venu.
+{35007}{35071}Il est aussi venu à moi.
+{35109}{35186}J'en rêve depuis que j'ai 10 ans.
+{35209}{35257}Je ne veux pas qu'il meure.
+{35277}{35339}Qu'est-ce qu'on peut faire de plus?
+{35364}{35427}Il doit rentrer chez lui.
+{35472}{35522}Il appelle ses compagnons
+{35574}{35629}et je sais pas où ils sont.
+{35656}{35706}Il doit rentrer chez lui.
+{35734}{35821}Je ne pense pas|qu'on l'ait laissé ici intentionnellement.
+{35899}{35961}Mais c'est un miracle qu'il soit ici.
+{36004}{36045}C'est un miracle
+{36073}{36141}et tu as fait tout ce que tu pouvais.
+{36223}{36281}Je me réjouis qu'il t'ait rencontré toi.
+{36504}{36530}Il a un ADN.
+{36568}{36602}- Il a un ADN.|- Un ADN?
+{36606}{36668}Il n'a pas quatre nucléotides comme nous|mais six.
+{36674}{36746}Désynchronisation des deux activités cérébrales.
+{36806}{36830}ET!
+{36833}{36912}L'état du garçon est stable.|La tension est remontée.
+{36944}{36985}ET
+{37019}{37055}Elliott.
+{37073}{37117}- Il parle.|- Il parle.
+{37121}{37157}ET,
+{37173}{37212}reste avec moi.
+{37255}{37284}Je t'en prie.
+{37289}{37329}Reste.
+{37339}{37370}Ensemble.
+{37403}{37456}Je serai là.
+{37468}{37514}Je serai là.
+{37580}{37616}Reste,
+{37653}{37717}Elliott.
+{37762}{37798}Reste.
+{37847}{37880}Reste.
+{37969}{38003}Reste.
+{38057}{38086}Reste.
+{38092}{38169}La tension de la créature est très basse.|Ses composants sont lents.
+{38174}{38212}Comment va le garçon?
+{38230}{38290}Il retrouve un rythme respiratoire normal.
+{38334}{38404}Ils se séparent.|Le garçon et la créature se séparent.
+{38409}{38491}- Ça veut dire?|- Le garçon revient. On perd ET
+{38496}{38563}Réponds-moi s'il te plaît.
+{38600}{38636}S'il te plaît.
+{38647}{38678}Calme-toi.
+{40299}{40323}Non!
+{40326}{40362}Ne t'en va pas!
+{40372}{40443}- Pas de tension.|- Pas de pouls ni de respiration.
+{40491}{40591}- On n'a ni pouls ni tension.|- On dirait qu'il ne respire pas.
+{40671}{40755}Laissez-le tranquille! Vous le tuez!
+{40763}{40799}Laissez-le tranquille!
+{40803}{40844}Allez!
+{40853}{40899}Sortez le garçon.
+{40906}{40985}Arrêtez! Vous le tuez!
+{41039}{41106}Vous le tuez!
+{41121}{41198}Vous le tuez! Il est venu à moi!
+{41203}{41241}Un pouls?
+{41255}{41298}Il est venu à moi!
+{41434}{41469}Respiration minimale.
+{41481}{41563}Du calme.
+{41606}{41678}Essayons le bretylium. On en a?
+{41725}{41759}Vous avez un pouls?
+{41763}{41816}Air comprimé. Ça ira.
+{41958}{42028}Il a les pupilles fixes et dilatées.
+{42053}{42096}Défibrillation.
+{42210}{42265}- Reculez tous.|- Reculez.
+{42271}{42314}On est en train de le perdre.
+{42375}{42409}Silence.
+{42422}{42477}- Encore en défibrillation.|- D'accord, allons-y.
+{42481}{42517}Allons-y.
+{42676}{42705}Elliott?
+{42749}{42777}Maman.
+{43114}{43154}Poursuivez la RCP.
+{43531}{43574}Vous voulez bien reculer?
+{43698}{43739}Il se passe quelque chose.
+{43758}{43816}- Ils vont mourir.|- Ferme-la Greg.
+{43820}{43863}Il se passe vraiment quelque chose.
+{43868}{43911}Quelqu'un a une idée?
+{43915}{43987}- Aucun signe.|- D'accord, je vais déclarer le décès.
+{44038}{44091}- Je crois qu'il est mort.|- Non. Je ne sais pas.
+{44096}{44163}- Je déclare le décès. Quelle heure est-il?|- 15 heures 36.
+{44165}{44215}15 heures, 36 minutes.
+{44233}{44266}D'accord.
+{44280}{44321}Mettez-le dans de la glace.
+{44351}{44387}Allons-y.
+{45981}{46029}Il est mort?
+{46040}{46081}Je crois que oui.
+{46096}{46163}On peut faire un vœu pour qu'il se réveille?
+{46194}{46230}Oui.
+{46241}{46277}Je fais un vœu.
+{46296}{46332}Moi aussi.
+{46560}{46634}Allez. On va attendre Elliott dehors.
+{46700}{46799}Heure du décès: 15 heures et 36 minutes.
+{46818}{46873}Il a reçu de la lidocaïne en intraveineuse,
+{46875}{46940}de l'adrénaline, de la lidocaïne,
+{46956}{47016}une solution de chlorure de sodium|à 2,7 pour cent,
+{47020}{47066}des sondes de la ligne "A".
+{47110}{47165}Il faut faire traiter la ligne intraveineuse.
+{47167}{47230}On le contrôlait avec un
+{47235}{47348}EEG et un EKG, on lui a fait une défibrillation...
+{47355}{47417}Ils vont devoir l'emmener.
+{47422}{47477}Ils vont le charcuter.
+{47537}{47604}Tu veux rester un peu seul avec lui?
+{47975}{48047}On sort tous une minute.
+{49348}{49404}Regarde ce qu'ils t'ont fait.
+{49477}{49522}Je suis vraiment désolé.
+{49651}{49697}Tu dois être mort,
+{49751}{49785}parce que
+{49788}{49853}je ne sais pas comment me sentir.
+{49942}{49990}Je ne sens plus rien.
+{50071}{50126}Tu es parti ailleurs.
+{50328}{50383}Toute ma vie je croirai en toi.
+{50426}{50464}Chaque jour.
+{50580}{50609}ET,
+{50696}{50729}je t'aime.
+{51490}{51531}Mon Dieu.
+{51680}{51728}ET téléphone maison.
+{51788}{51829}Téléphone maison.
+{51834}{51870}Téléphone maison.
+{51872}{51922}Ça veut dire qu'ils viennent?
+{51926}{51960}Oui.
+{52024}{52093}ET téléphone maison.
+{52104}{52130}Reste là.
+{52137}{52175}Tais-toi.
+{52181}{52205}Téléphone.
+{52206}{52251}- Téléphone maison.|- Tais-toi!
+{52256}{52289}Téléphone.
+{52294}{52335}Veux-tu te taire?
+{52339}{52392}Téléphone maison. ET téléphone maison.
+{52396}{52458}ET téléphone maison.
+{52501}{52534}Téléphone maison.
+{52539}{52563}Téléphone maison.
+{52571}{52602}Elliott.
+{52643}{52670}Reste.
+{52673}{52707}Reste.
+{53064}{53131}- Viens avec moi.|- Non.
+{53175}{53218}Non.
+{53304}{53333}Tout va bien.
+{53362}{53402}Tu veux les fleurs?
+{53509}{53564}Il est vivant!
+{53611}{53662}Il brille juste là.
+{53919}{53965}Ils sont partis?
+{53969}{54029}- Qui ça?|- Les garçons.
+{54034}{54062}Quels garçons?
+{54079}{54148}Je dois te donner cette lettre après leur départ.
+{54199}{54240}Donne-la-moi tout de suite.
+{54421}{54460}Mon Dieu.
+{54679}{54722}Donne-moi un coup de main.
+{54921}{54969}- Où est ton masque?|- Ici.
+{54976}{55022}- Mets-le!|- J'essaie.
+{55208}{55242}Tu es qui?
+{55246}{55285}Je conduis.
+{55324}{55360}Ouvre la porte.
+{55363}{55464}- Il y a un type dehors. Je fais quoi?|- T'attends quoi? Fonce!
+{55488}{55529}Filons d'ici!
+{55535}{55603}J'ai jamais conduit en avant!
+{55814}{55895}Prenez les vélos. On se retrouve|au terrain de jeu en haut de la colline.
+{55901}{55927}Allez!
+{55955}{55989}Vas-y!
+{56413}{56487}On va tous mourir et j'aurai jamais mon permis.
+{56566}{56599}Où est le terrain de jeu?
+{56604}{56647}A côté de la garderie!
+{56654}{56709}- Et c'est où?|- Je connais pas le chemin.
+{56713}{56761}C'est toujours maman qui m'emmène.
+{56768}{56799}Merde.
+{57430}{57507}- Vous allez où?|- Au vaisseau spatial.
+{57523}{57600}Au vaisseau spatial pour la lune.
+{57605}{57641}Tais-toi!
+{57673}{57709}Mon Dieu.
+{57735}{57790}Arrêtez la camionnette!
+{57868}{57904}Ne le décroche pas!
+{58223}{58254}C'est trop!
+{59425}{59485}D'accord. C'est un homme de l'espace
+{59490}{59545}et on le conduit à son vaisseau spatial.
+{59550}{59602}Il peut pas se téléporter?
+{59607}{59655}On n'est pas au cinéma.
+{59702}{59738}- Retenez-la!|- Non!
+{59742}{59836}Arrêtez-la!
+{59842}{59905}Non!
+{59910}{59944}Où ils sont?
+{59952}{59990}Il n'y a personne ici.
+{60174}{60205}Où est-ce qu'on va?
+{60211}{60247}Dans la forêt!
+{60323}{60354}Suivez-moi!
+{61132}{61176}Ils sont au pied de la colline.
+{61566}{61597}Ici unité 302.
+{61601}{61665}On a suivi les gosses au pied de la colline.
+{62278}{62312}Séparons-nous.
+{62324}{62350}D'accord!
+{62548}{62584}Accroche-toi!
+{63083}{63118}On a réussi! Merde!
+{64053}{64098}Préviens-moi quand on atterrit!
+{65843}{65877}Maison.
+{67028}{67069}Arrête-toi!
+{67073}{67102}Ils sont là-bas!
+{67105}{67146}Ils sont là-bas!
+{67520}{67590}Je voulais juste te dire au revoir.
+{67633}{67676}Il ne connaît pas au revoir.
+{67736}{67792}Sois sage.
+{67823}{67852}Oui.
+{68521}{68557}Merci
+{68569}{68607}beaucoup.
+{68631}{68672}De rien.
+{69304}{69335}Viens.
+{69443}{69474}Reste.
+{69738}{69772}Aïe.
+{69933}{69962}Aïe.
+{71671}{71729}Je serai
+{71736}{71791}ici.
+{72028}{72057}Salut.

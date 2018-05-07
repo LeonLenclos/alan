@@ -10,7 +10,12 @@ class AlanLogicAdapter(LogicAdapter):
 
         max_confidence
         A float (from 0 to 1). Default is 1.
-        The logici adapter should never return a greater confidence value.
+        The logic adapter should never return a greater confidence value.
+        This value should not change.
+
+        min_confidence
+        A float (from 0 to max_confidence). Default is 0.
+        The logic adapter should never return a lower confidence value.
         This value should not change.
 
         confidence_coefficient
@@ -39,6 +44,12 @@ class AlanLogicAdapter(LogicAdapter):
         except ValueError:
             raise TypeError("max_confidence must be a number")
 
+        # getting min_confidence
+        try:
+            self.min_confidence = float(kwargs.get('min_confidence', 0))
+        except ValueError:
+            raise TypeError("min_confidence must be a number,you are doing n importe quoi")
+
         # getting confidence_coefficient
         try:
             coef = kwargs.get('confidence_coefficient', self.max_confidence)
@@ -61,6 +72,12 @@ class AlanLogicAdapter(LogicAdapter):
         if process_done_method:
             if process_done_method == "sawtooth":
                 self.process_done = self.sawtooth
+            elif process_done_method == "one_shot":
+                self.process_done = self.one_shot
+            elif process_done_method == "reinforcement":
+                self.process_done = self.reinforcement
+            elif process_done_method == "greetings":
+                self.process_done = self.greetings
             else:
                 raise ValueError("%s is not an AlanLogicAdapter method"
                                 % process_done_method)
@@ -85,12 +102,12 @@ class AlanLogicAdapter(LogicAdapter):
                                       set_confidence_coefficient)
 
     def constrain_confidence(self, confidence=1):
-        """Return a value constrained between 0 and max_confidence.
+        """Return a value constrained between min_confidence and max_confidence.
         """
         if confidence > self.max_confidence:
             return self.max_confidence
-        if confidence < 0:
-            return 0
+        if confidence < self.min_confidence:
+            return self.min_confidence
         return confidence
 
     def get_confidence(self, confidence=1):
@@ -114,6 +131,51 @@ class AlanLogicAdapter(LogicAdapter):
         """increase the confidence coefficient
         when adapter is selected set it to 0
         """
-        self.confidence_coefficient += 0.05
+        self.confidence_coefficient += 0.02
         if is_selected:
             self.confidence_coefficient = 0
+
+    def reinforcement(self, is_selected=False):
+        """increase the confidence coef to max confidence coef when adapter is
+        selected. If Alan respond with another adapter two consecutive times,
+        the confidence is set to min confidence until the adapter is selected
+         again"""
+        if not hasattr(self, 'count') :
+            self.count = 1
+        if is_selected:
+            self.confidence_coefficient = self.max_confidence
+            self.count = 1
+        else :
+            if self.count < 2 :
+                self.count += 1
+            else :
+                self.confidence_coefficient = self.min_confidence
+
+    def one_shot(self, is_selected=False):
+        """decrease the confidence coef to min confidence coef when the adapter
+         was selected and stop been selected."""
+        if not hasattr(self, 'count') :
+            self.count = 1
+        if is_selected:
+            if self.count == 1:
+                self.confidence_coefficient = self.max_confidence
+                self.count = 2
+        else :
+            if self.count == 2 :
+                self.confidence_coefficient = self.min_confidence
+
+    def greetings(self, is_selected=False):
+        """increase the confidence coef to max confidence coef when adapter is
+        selected. If Alan respond with another adapter two consecutive times,
+        the confidence is set to min confidence and stay it"""
+        if not hasattr(self, 'count') :
+            self.count = 1
+        if is_selected:
+            if self.count == 1:
+                self.confidence_coefficient = self.max_confidence
+            self.count = 2
+        else :
+            if self.count > 1 :
+                if self.count > 2 :
+                    self.confidence_coefficient = self.min_confidence
+                self.count += 1

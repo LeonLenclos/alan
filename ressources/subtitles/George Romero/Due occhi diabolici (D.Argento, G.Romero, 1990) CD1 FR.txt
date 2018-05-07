@@ -1,0 +1,519 @@
+{273}{378}DEUX YEUX MALEFIQUES
+{1364}{1404}A Edgar Allan Poe,
+{1409}{1482}dont les histoires|ont inspiré ce film.
+{1487}{1632}Il a rêvé des rêves qu'aucun mortel|n'avait osé rêver encore.
+{1824}{1929}LA VERITE|SUR LE CAS DE M.VALDEMAR
+{2539}{2594}C'est une accusation M.Pike ?
+{2632}{2684}Est-ce une accusation ?
+{2749}{2799}M'accuseriez-vous M.Pike ?
+{2804}{2829}Pardon ?
+{2844}{2887}Rien, rien.
+{2897}{2944}J'ai cru que vous me parliez.
+{3009}{3052}Je parlais toute seule.
+{3833}{3928}Il liquide une grande partie|de son capital.
+{4033}{4068}de ses possessions.
+{4073}{4108}Je ne sais pas.
+{4118}{4173}Ernie me parle peu de ses affaires.
+{4178}{4266}- S'il acceptait d'attendre...|- Impossible M.Pike.
+{4274}{4367}Les médecins lui donnent trois semaines,|six au plus.
+{4374}{4429}Ernie veut régler ça maintenant.
+{4434}{4489}Et tout l'argent vous revient.
+{4494}{4522}Tout à fait.
+{4527}{4612}Le moment est mal choisi,|certaines de ces actions
+{4617}{4659}sont à leur plus bas.
+{4677}{4757}Pourquoi il ne les met pas|à votre nom ?
+{4762}{4844}Je n'ai pas besoin d'actions|mais d'argent pour vivre.
+{4849}{4884}Son testament
+{4889}{4937}est très généreux envers vous.
+{4949}{5022}Il faudra longtemps|pour régler sa succession ?
+{5027}{5047}18 mois,
+{5067}{5107}Deux ans, selon...
+{5112}{5144}Et en attendant ?
+{5149}{5197}Je travaille comme serveuse ?
+{5202}{5304}Je ne viens pas du beau monde.|Je ne possède rien.
+{5324}{5422}J'étais une hôtesse de l'air|qu'Ernie a ramassée
+{5427}{5507}au grand dam de vous|et de toute cette ville.
+{5511}{5578}J'ai épousé un vieil homme riche.
+{5583}{5686}Il m'a utilisée pour son plaisir|et sa réputation.
+{5728}{5786}Maintenant il va me dédommager.
+{6214}{6264}C'est bien sa signature ?
+{6269}{6332}C'est une accusation M.Pike ?
+{6614}{6642}Bonjour Ernie.
+{6714}{6794}Je suis avec Steven Pike,|il a les papiers.
+{6814}{6864}Ça ne lui plaît pas beaucoup.
+{6954}{6999}Tu es sûr que ça ira ?
+{7034}{7084}D'accord, je te le passe.
+{7296}{7326}Bonjour Ernest.
+{7336}{7383}Bonjour Steven.
+{7388}{7411}Ça va ?
+{7416}{7513}Vous ne souffrez pas trop ?
+{7546}{7581}Je ne souffre pas.
+{7588}{7608}Ecoutez Ernest.
+{7636}{7728}J'ai les papiers|que vous m'avez envoyés.
+{7783}{7821}Vous êtes sûr de vous ?
+{7843}{7893}Vous avez bien réfléchi ?
+{7928}{7976}Je veux le faire Steven.
+{7981}{8041}Je dois ça à Jessica.
+{8093}{8116}Vous êtes qui ?
+{8124}{8169}Steven Pike,|l'avoué de M.Valdemar.
+{8174}{8199}Ici Bob Hoffman.
+{8204}{8232}Le docteur d'Ernie.
+{8239}{8289}Cet appel est-il indispensable ?
+{8294}{8409}Ernie a besoin de repos,|donc si ceci n'est pas urgent...
+{8419}{8532}Ernie me demande quelque chose|de pas très... orthodoxe.
+{8552}{8637}Quelque chose|qui ne lui ressemble pas.
+{8642}{8714}Les malades dans son état|font souvent
+{8719}{8809}des choses surprenantes|mais il a toute sa tête.
+{8814}{8872}Je vois. Merci docteur.
+{8877}{8932}J'espère ne pas l'avoir dérangé.
+{8937}{8977}Il a besoin de calme.
+{8984}{9084}- Je sais que vous comprenez.|- Bien sûr. Au revoir.
+{9283}{9336}Je vous envoie les formulaires
+{9341}{9371}pour qu'il les signe.
+{9376}{9453}Pour gagner du temps|je passerai les prendre.
+{9461}{9488}Demain matin.
+{9493}{9518}Tout sera prêt ?
+{9553}{9573}Oui.
+{9628}{9673}Bonne journée M.Pike.
+{11606}{11663}- Il est toujours... ?|- Hypnotisé.
+{11681}{11746}Complètement sous mes ordres.
+{11863}{11898}Répétez ces mots.
+{11933}{11963}Je veux le faire.
+{11986}{12031}Je dois ça à Jessica.
+{12157}{12187}Réveille-le.
+{12204}{12237}Pour qu'il souffre ?
+{12244}{12297}Pour qu'il sache qu'il agonise ?
+{12329}{12374}Il est mieux comme ça.
+{12432}{12467}De plus,
+{12486}{12543}en le laissant dormir,
+{12548}{12628}on aura le temps|de s'entretenir en privé...
+{12633}{12696}- Robert ! Et s'il...|- M'entend ?
+{12701}{12738}Mais il m'entend.|Valdemar ?
+{12756}{12786}Vous m'entendez ?
+{12826}{12861}Je vous entends.
+{12866}{12888}Fascinant.
+{12898}{12978}Au fond de lui|il sait ce que nous faisons
+{12983}{13053}mais à son réveil|il aura tout oublié.
+{13093}{13138}Comme les bribes d'un rêve.
+{13143}{13186}Ce n'est pas fascinant.
+{13218}{13251}C'est malsain.
+{13283}{13308}Effrayant.
+{13406}{13528}Je suis moins rancunière que toi.|Je n'y prends pas plaisir.
+{13541}{13643}C'est un vieillard cruel|qui croit posséder les gens.
+{13648}{13718}Toute sa vie il n'a pensé qu'à lui.
+{13723}{13758}Il t'a enlevée à moi.
+{13763}{13828}Rancunier ? Oui, je le suis.
+{13833}{13881}J'ai accepté de le suivre.
+{13886}{13951}Il ne savait pas|qu'on se connaissait.
+{13956}{14023}- Je te veux Jess.|- Je t'en prie.
+{14029}{14097}Pas maintenant, je ne pourrais pas.
+{14132}{14192}C'est un moment difficile pour moi.
+{14214}{14264}Fais preuve de sensibilité.
+{14268}{14328}Mets-toi à ma place.
+{14353}{14401}Si tu veux que je le fasse...
+{14406}{14463}On ne peut pas faire demi-tour.
+{14468}{14536}Tu diras à Pike|que c'est un malentendu ?
+{14548}{14638}Que tu ne savais pas que ton mari|était sous hypnose ?
+{14648}{14698}On mange mal en prison Jessica.
+{14766}{14798}Parlons franchement.
+{14803}{14876}C'était ton idée.|Moi je voulais attendre.
+{14886}{14926}Etre avec toi me suffisait
+{14931}{15008}mais toi|tu avais goûté à la belle vie.
+{15016}{15068}L'argent ne compte pas pour toi ?
+{15081}{15151}Si, mais ce qui compte|c'est nous, non ?
+{15156}{15191}Si !
+{15243}{15291}Bien sûr que si Robert.
+{15298}{15343}C'est difficile...
+{15348}{15423}Difficile d'aimer un voleur ?
+{15463}{15491}Je sais.
+{15518}{15563}J'ai le même problème.
+{15793}{15828}Valdemar.
+{15841}{15886}Je vais vous réveiller.
+{15906}{15948}Je vais compter jusqu'à 5
+{15954}{16037}et vous serez complètement réveillé.
+{16058}{16083}Un...
+{16103}{16158}Vous ne vous souviendrez de rien.
+{16211}{16268}Vous commencez à revenir à vous.
+{16328}{16418}Vous commencez à voir la chambre|et à me voir.
+{16551}{16581}Je souffre !
+{16631}{16676}Vous ne pouvez rien ?
+{16683}{16716}Il dormira bientôt.
+{16721}{16786}Je lui ai fait une piqûre,|c'est déjà ça.
+{16791}{16851}Je vous paie|pour rester à ses côtés.
+{16856}{16906}Il devrait être à l'hôpital.
+{16918}{16968}Dans son état...
+{16976}{17046}Comment on peut|le garder à la maison !
+{17051}{17131}Je n'ai jamais vu ça|de toute ma carrière !
+{17358}{17448}Où est ma chienne de femme ?
+{17493}{17523}Où elle est ?
+{17536}{17606}En train de dépenser mon fric !
+{17631}{17668}Où elle est ?
+{18373}{18436}Deux des comptes|sont à la banque locale.
+{18441}{18496}Ces fonds sont donc disponibles.
+{18503}{18541}Voyez M.Pratt.
+{18551}{18586}Le reste prendra du temps.
+{18626}{18678}- Longtemps ?|- La paperasse, la poste...
+{18683}{18763}L'encaissement des chèques...|deux à trois semaines.
+{18898}{18943}S'il arrive malheur à Ernest,
+{18948}{19016}l'argent sera dur à récolter.
+{19021}{19073}Tâchez de le garder en vie.
+{19086}{19113}Je ferai de mon mieux.
+{19128}{19153}J'en suis sûr.
+{19371}{19468}Une grosse somme à transporter|Mme Valdemar.
+{19472}{19552}Notre compte courant vous permet...
+{19567}{19610}Justement.
+{19615}{19697}J'attends|une importante rentrée d'argent.
+{19702}{19745}Plus de 3 millions.
+{19772}{19872}Je compte bien sûr|mettre cet argent en sûreté.
+{19881}{19963}Mais... j'ai besoin de liquide.
+{19978}{20013}Comme vous voudrez.
+{20018}{20068}Appelez-moi n'importe quand.
+{20078}{20138}Nous sommes là pour ça.
+{20666}{20706}Ça ira Martha.
+{20711}{20796}- On n'a pas fait le haut Mme V.|- Pas la peine.
+{20801}{20841}Vous le ferez plus tard.
+{20846}{20883}Comme vous voudrez.
+{20888}{20973}Allez, on remballe et on s'en va !
+{20986}{21068}M.V n'a pas l'air en forme|aujourd'hui.
+{21073}{21136}Oui, ça fait quelque temps.
+{21141}{21166}Le pauvre !
+{21171}{21228}En plus l'infirmière est partie.
+{21232}{21280}Je pensais rentrer plus tôt.
+{21285}{21337}C'est bon, le docteur est là.
+{21342}{21387}Vraiment ? Parfait.
+{22501}{22536}Signez Valdemar.
+{22541}{22598}Signez sur le trait.
+{22878}{22911}Encore Valdemar.
+{22992}{23032}Sur le trait.
+{23047}{23085}Signez encore.
+{23520}{23537}Voilà.
+{23555}{23575}Il est... ?
+{23580}{23607}Toujours hypnotisé.
+{23670}{23692}Viens.
+{23742}{23785}Tu es sûre ?
+{24023}{24068}Qu'est-ce que tu as mis dans le coffre ?
+{24083}{24118}Dans le coffre ?
+{24146}{24183}Quand tu es entrée.
+{24188}{24261}Je t'ai vue.|Qu'est-ce que c'était ?
+{24266}{24291}De l'argent.
+{24328}{24363}Tu as l'argent.
+{24368}{24398}Une partie.
+{24431}{24463}Un petit peu.
+{24471}{24503}C'est-à-dire ?
+{24526}{24601}Je ne sais pas.|Quelques milliers.
+{24661}{24708}Rien pour moi je suppose.
+{24722}{24775}Nous aurons le reste bientôt.
+{24780}{24850}Rien pour moi|avant que le boulot soit fini.
+{24895}{24930}Ce n'est pas juste.
+{24962}{25022}Je ne retire rien de cette affaire.
+{25032}{25062}Bientôt.
+{25082}{25122}Dans quelques semaines.
+{25147}{25197}Alors nous aurons tout.
+{25222}{25282}Imagine. Un million de dollars.
+{25317}{25380}Un million de dollars à partager.
+{25512}{25557}Ma part en espèces.
+{25602}{25635}Pas de chèques.
+{25665}{25702}Rien avec mon nom.
+{25707}{25740}Ne t'en fais pas.
+{25761}{25853}- Rien qui nous lie.|- Rien ne nous lie.
+{25883}{25933}Rien du tout.
+{26131}{26163}C'est Ernest !
+{26837}{26870}Mon Dieu !
+{27590}{27675}Pike a dit de le garder en vie|quelques semaines.
+{27713}{27753}Nous allons le faire.
+{27763}{27798}Cachons sa mort.
+{27866}{27891}Attendons l'argent.
+{27898}{27953}Il mourra juste après.
+{28126}{28151}Si on l'examine ?
+{28215}{28287}Je suis médecin.|Je signerai l'acte de décès.
+{28325}{28347}Et l'enterrement ?
+{28357}{28387}Un cercueil fermé.
+{28415}{28440}On l'incinèrera.
+{28445}{28522}- Pas sans aide.|- Non, c'est illégal.
+{28557}{28607}Même sans embaumement,
+{28620}{28672}le corps sera manipulé.
+{28705}{28735}Dans trois semaines...
+{28740}{28777}Il sera liquéfié.
+{28842}{28862}Sauf si...
+{28965}{28990}A la cave.
+{29047}{29080}Tu n'es pas sérieux.
+{29110}{29155}Tu veux cet argent Jess ?
+{30087}{30112}Aide-moi !
+{30130}{30172}Aide-moi Jess !
+{30197}{30232}Dégage son bras.
+{30237}{30287}Enlève son bras de la rampe !
+{30365}{30405}Je vais le lâcher !
+{30835}{30862}C'est l'infirmière.
+{30912}{30932}Va ouvrir.
+{30960}{31020}Il faut se débarrasser d'elle !
+{31337}{31380}J'aurais dû vous appeler.
+{31385}{31437}Désolée,|je n'ai pas besoin de vous.
+{31467}{31570}Je viens de loin.|Je vous facture le temps perdu.
+{31620}{31652}Je reviens demain ?
+{31740}{31810}J'ai décidé de suivre votre conseil
+{31815}{31880}et de mettre M.Valdemar|à l'hôpital.
+{31892}{31920}Ne revenez pas.
+{31925}{31962}Il était temps.
+{31967}{31990}Dans son état.
+{32022}{32095}Je suis là, je peux m'en occuper.
+{32112}{32157}Le docteur est avec lui.
+{32185}{32297}C'est dommage pour moi|mais c'est la bonne décision.
+{32310}{32360}On vous enverra la facture.
+{32422}{32452}Merci de votre aide.
+{33097}{33142}Et les papiers à signer ?
+{33192}{33222}J'ai fait ma part.
+{33227}{33280}Tu imiteras sa signature.
+{33372}{33420}Entraîne-toi au cas où.
+{33466}{33541}Et si Pike appelle pour lui parler ?
+{33556}{33621}Pas de coups de fil.|Ordre du docteur.
+{33642}{33700}- Et s'il vient ici ?|- Il ne viendra pas.
+{33705}{33762}Au fond il s'en fiche,
+{33767}{33837}tant qu'il reçoit ses honoraires.
+{33847}{33912}C'est tout ce qui intéresse les gens.
+{33947}{33972}L'argent.
+{34017}{34060}Quoi d'autre ?
+{34280}{34325}Tout est arrangé.
+{34330}{34375}400000 dollars sur le compte.
+{34380}{34417}Votre carnet de chèques.
+{34467}{34522}Et 100000 en liquide.
+{34585}{34662}Puis-je demander|ce que vous allez en faire ?
+{34667}{34732}Ce sont mes affaires M.Pratt.
+{37009}{37056}Tu m'as fait une peur bleue !
+{37061}{37096}Qu'est-ce que tu fais là ?
+{37116}{37161}J'ai cru entendre un bruit.
+{37179}{37209}On aurait dit...
+{37251}{37296}On aurait dit Ernest.
+{37336}{37386}Viens, ne reste pas là.
+{37562}{37602}Passe la nuit ici.
+{37632}{37682}- Reprends-toi.|- S'il te plaît.
+{37687}{37737}Je ne veux pas être seule ici.
+{37742}{37790}C'est insupportable.
+{37822}{37855}D'accord, je reste.
+{38205}{38237}Tu ne vas pas craquer ?
+{38265}{38337}Si tu crois que tu vas flancher,
+{38342}{38432}dis-le moi et je me casse|sans laisser d'indices.
+{38437}{38537}Dit-il avec la gentillesse|qui le caractérise.
+{38547}{38627}Désolée de ne pas être assez forte|pour toi.
+{38632}{38717}J'ai fréquenté moins de cadavres|que toi.
+{39466}{39489}Qu'est-ce que tu fais ?
+{39522}{39572}Je vais dormir. Fais pareil.
+{39592}{39627}J'ai des calmants.
+{39640}{39702}Non, pas après tout ce gin !
+{39722}{39750}Rien ne vaut
+{39755}{39807}l'auto-hypnose, je t'apprendrai.
+{39837}{39897}Tu ne pourras pas me réveiller,
+{39902}{39965}donc si tu veux faire des trucs...
+{39970}{39997}Pardon ?
+{40002}{40027}Un sujet en hypnose
+{40032}{40102}n'est réveillé que par la voix|qui l'a hypnotisé.
+{40107}{40152}Donc avec l'auto-hypnose...
+{40157}{40225}- Je te veux avec moi !|- Je suis avec toi.
+{40247}{40327}- Je ne peux pas te réveiller !|- Je dois dormir.
+{40337}{40417}Je consulte tôt demain,|je néglige mon cabinet.
+{40429}{40461}Moi aussi je suis tendu.
+{40466}{40551}Ces dernières semaines|n'ont pas été de tout repos.
+{40579}{40661}Je suis là, avec toi.|Il n'arrivera rien.
+{40709}{40734}Je dors un peu.
+{41612}{41645}Salaud !
+{42394}{42426}Va au diable !
+{44551}{44604}Robert, réveille-toi !
+{45309}{45351}Il vit encore.
+{45472}{45497}Voilà.
+{45517}{45552}Vois par toi-même.
+{45590}{45620}Descends,
+{45624}{45699}regarde-le|et dis-moi s'il vit encore.
+{45726}{45746}Je ne peux pas.
+{46194}{46214}C'est vous ?
+{46259}{46314}Oui.
+{46581}{46676}- Etes-vous toujours...|- Endormi.
+{46709}{46734}Endormi.
+{46746}{46794}Oui...
+{46806}{46844}Non...
+{46854}{46944}J'étais endormi
+{46961}{47001}et maintenant
+{47019}{47096}je suis mort.
+{47106}{47156}Dieu tout-puissant !
+{47601}{47646}Valdemar, vous m'entendez ?
+{47936}{47961}Rien.
+{47971}{48016}Rien depuis plus d'une heure.
+{48031}{48064}Il y a un truc.
+{48076}{48126}C'est un enregistrement.
+{48139}{48189}Pike est derrière tout ça !
+{48201}{48274}- Ou alors il vit encore !|- Il est mort !
+{48279}{48361}Il n'a plus de pouls,|il est congelé !
+{48386}{48464}Je ne sais pas ce qui se passe.
+{48474}{48564}Ce que je sais|c'est qu'il est mort hypnotisé
+{48569}{48659}et qu'on peut encore|communiquer avec lui.
+{48694}{48741}Ça semble impossible,
+{48754}{48826}mais c'est la seule explication|qui tienne.
+{49014}{49119}Prends-en deux et un autre à 11 heures.|Et pas d'alcool !
+{49175}{49215}- Tu ne pars pas ?|- Il le faut.
+{49220}{49255}Tu ne peux pas.
+{49260}{49313}J'ai une endoscopie à 8 heures.
+{49319}{49381}Je l'ai déjà reportée trois fois.
+{49386}{49429}Tu ne peux pas me faire ça.
+{49476}{49519}Nous sommes des criminels.
+{49524}{49579}On est coupables de vol,
+{49584}{49649}de fraude,|et de Dieu sait quoi.
+{49654}{49711}N'éveillons pas les soupçons.
+{49716}{49779}Nous devons garder une façade...
+{49794}{49839}... de normalité ?
+{49946}{50026}Je partirai tôt,|je serai là vers 14 heures 30.
+{50031}{50111}Ne reste pas enfermée,|va prendre l'air !
+{50116}{50181}Prends les cachets et calme-toi.
+{50211}{50256}Les cachets Jessica !
+{50451}{50499}Pas d'alcool Jessica !
+{50714}{50759}Prends-les devant moi.
+{50998}{51033}Je suis terrifiée.
+{51108}{51135}Je sais.
+{51163}{51200}Je suis désolé.
+{51228}{51275}Je suis trop...
+{51421}{51456}Ça va aller.
+{51461}{51534}Essaie d'être logique.
+{51544}{51611}Il y a toujours|une explication logique.
+{51684}{51756}Il y a toujours|une explication logique.
+{52600}{52630}Vous êtes bien ?
+{52750}{52828}Vous souffrez encore ?
+{52833}{52923}Non. Je ne souffre pas.
+{53401}{53441}Vous êtes où ?
+{53506}{53544}Vous voyez quelque chose ?
+{53581}{53619}Dites-moi ce que vous voyez.
+{53629}{53669}Des lumières.
+{53691}{53751}Très vives.
+{53756}{53791}Très loin.
+{53814}{53866}A une grande distance.
+{53871}{53941}Je ne peux pas les atteindre.
+{53951}{54031}Où je suis il fait sombre.
+{54066}{54104}Sombre.
+{54109}{54134}Froid.
+{54176}{54246}Très froid.
+{54279}{54374}A l'aide Jessica !
+{54510}{54550}Arrête de rôder comme ça !
+{54555}{54613}D'autres...
+{54718}{54775}Il y en a d'autres.
+{54840}{54863}D'autres ?
+{54868}{54968}Beaucoup, beaucoup d'autres.
+{54993}{55043}Qui me regardent.
+{55060}{55098}Qui m'observent.
+{55128}{55203}Ils veulent quelque chose.
+{55241}{55276}Ces autres.
+{55291}{55364}Vous les voyez ? Ils sont comment ?
+{55401}{55434}Qui ils sont ?
+{56188}{56285}Où je suis il fait sombre.
+{56303}{56340}Sombre.
+{56348}{56390}Froid.
+{56410}{56485}Très froid.
+{56535}{56625}Il y a une conscience après la mort.
+{56840}{56870}D'autres...
+{56930}{56973}Il dit qu'il y en a...
+{56995}{57028}d'autres.
+{57304}{57381}... a profité|des primes de fin d'année.
+{57386}{57506}Par contre, les ventes pour aoùt|n'ont augmenté que de 0,2%,
+{57511}{57586}soit une hausse de 5,9%|pour l'année en cours...
+{57599}{57664}JE RENTRE DU BUREAU VERS 4 HEURES.
+{57669}{57709}James Limbaugh, Washington.
+{57714}{57791}Le marché a souffert|de prises de bénéfice
+{57796}{57879}suite à la publication|de rapports sur...
+{57905}{57935}A l'aide !
+{58195}{58225}Je suis là.
+{58233}{58265}Je suis avec vous.
+{58285}{58330}Aidez-moi.
+{58370}{58415}Qu'est-ce que je peux faire ?
+{58433}{58490}Me réveiller.
+{58513}{58540}Vous réveiller ?
+{58548}{58595}Je suis mort.
+{58630}{58685}Laissez-moi partir.
+{58708}{58795}Réveillez-moi et laissez-moi partir.
+{59241}{59296}Vous réveiller, bien sûr.
+{59326}{59411}Vous êtes toujours hypnotisé.|Réveillé vous...
+{59416}{59491}Je serai libéré.
+{59496}{59539}Vite.
+{59544}{59584}Les autres.
+{59593}{59653}Les autres arrivent.
+{59673}{59753}Je suis entre deux mondes.
+{59775}{59845}Le leur et le vôtre.
+{59850}{59905}Ils veulent m'utiliser
+{59910}{60008}pour traverser. Pour traverser.
+{60013}{60060}Ils arrivent.
+{60065}{60150}Réveillez-moi,|réveillez-moi avant...
+{60310}{60340}C'est terminé.
+{60420}{60450}C'est fini.
+{60635}{60678}Comment tu as pu ?
+{60683}{60738}Comment tu as pu faire ça ?
+{60778}{60830}Que faire maintenant ?
+{60835}{60948}Comment expliquer|qu'il est mort de mort naturelle ?
+{60953}{61008}On n'explique rien, on l'enterre.
+{61059}{61126}- On l'enterre ?|- Au fond des bois.
+{61134}{61176}On dira qu'on l'a enterré
+{61181}{61259}dans sa ville natale, à Harrisburg.
+{61271}{61309}On a de l'argent.
+{61313}{61403}Comme tu l'as dit|personne ne posera de questions.
+{61408}{61488}Ils coopéreront|tant qu'il y a de l'argent.
+{61493}{61543}J'en suis la preuve vivante.
+{61548}{61635}Il faut l'enterrer.|C'est la seule solution.
+{61730}{61778}Il m'a demandé...
+{61800}{61883}de le laisser partir...|de le réveiller.
+{61888}{61930}Il n'était pas mort.
+{61935}{61978}Il ne pouvait pas être mort.
+{61988}{62025}Ce n'est pas possible.
+{62035}{62133}L'hypnose a dû le garder en vie.
+{62143}{62175}Et s'il est encore...
+{62208}{62300}- Comment l'enterrer alors que...|- On n'a pas le choix.
+{62323}{62365}On n'a pas le choix !
+{62448}{62475}Tu n'as pas le choix.
+{62520}{62570}Si on m'arrête, je dirai tout.
+{62575}{62615}Je nierai.
+{62635}{62680}Je nierai tout.
+{62710}{62748}Même avoir parlé à Pike ?
+{65155}{65173}C'est toi ?
+{65218}{65295}Ils viennent te chercher,
+{65300}{65353}Jessica.
+{65363}{65430}Ils viennent te chercher.
+{65480}{65625}Ils ne veulent pas|que j'aille sous terre.
+{66330}{66398}Ce n'est pas moi Jessica.
+{66420}{66480}C'est les autres.
+{66622}{66664}C'est les autres
+{66669}{66709}Jessica.
+{66734}{66802}Qui utilisent mon corps.
+{66894}{66969}Je t'ai appelée à l'aide.
+{66985}{67063}Tu aurais dû m'aider.
+{67088}{67190}Maintenant c'est trop tard.
+{69068}{69118}Je vais vous réveiller Valdemar.
+{69123}{69165}Je vais compter jusqu'à 5.
+{69195}{69218}Un...
+{69550}{69588}C'est trop tard.
+{69628}{69680}Les autres...
+{69735}{69773}Les autres...
+{69813}{69910}Sans moi|ils ne peuvent pas rentrer.
+{70059}{70139}Ils sont avec vous désormais.
+{70157}{70212}Ils sont avec vous.
+{72312}{72349}Elle voulait l'enterrer.
+{72354}{72419}Elle n'a pas creusé ça toute seule.
+{72474}{72542}Elle a dû l'abattre|avant de se tuer.
+{72554}{72607}Mais il y a des choses étranges.
+{72617}{72679}Il y a du sang dans le congélateur.
+{72737}{72767}Les gens riches.
+{72779}{72852}Les trucs dégueus|c'est toujours chez les riches.
+{72883}{72965}- Elle l'a mis au congélo ?|- C'est ce qu'on pense.
+{73043}{73090}Le congélo est à la cave.
+{73108}{73185}- Elle l'a mis dedans après.|- On dirait.
+{73190}{73275}- Alors pourquoi il est en haut ?|- On se le demande.
+{73293}{73320}Attends.
+{73330}{73368}Vise un peu ça.
+{73488}{73525}Nom de Dieu !
+{73564}{73617}Il est mort depuis des semaines !
+{75827}{75859}La police ?
+{75879}{75979}Des hurlements atroces,|comme quelqu'un qui souffre.
+{75997}{76084}- Ça fait longtemps ?|- Une ou deux semaines.
+{76089}{76164}Ça rend tous les locataires cinglés.
+{76169}{76244}Mais personne|aurait levé le petit doigt.
+{76249}{76297}Ça me pousse à picoler !
+{76302}{76334}Je vous ai appelé.
+{76347}{76392}Vous avez bien fait.
+{76504}{76552}Police, Hoffman. Ouvrez !
+{76708}{76733}Enfonce-la.
+{76953}{76980}Hoffman ?
+{77944}{77992}Tu vois, encore un richard...
+{78004}{78039}Appelle la brigade.
+{78738}{78815}Il n'y a personne|pour me réveiller.
+{78839}{78902}Personne pour me réveiller !

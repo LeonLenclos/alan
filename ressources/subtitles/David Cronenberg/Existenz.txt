@@ -1,0 +1,1462 @@
+{5175}{5275} |eXistenZ.  Ca s'écrit comme çà.  D'un seul mot.
+{5287}{5300}
+{5312}{5350} |Petit "E", "X" majuscule,
+{5362}{5425} |et "Z" majuscule.
+{5437}{5450}
+{5462}{5525} |"eXistenZ." C'est nouveau,
+{5537}{5600}C'est produit par "Antenna Research"|et c'est ici...
+{5612}{5625} |Maintenant.
+{5637}{5650}
+{5662}{5750}Nous tenons à fidéliser notre clientèle,|que vous nous aidiez à tester nos produits.
+{5762}{5825} |Nous formons une équipe: Antenna et vous.
+{5837}{5850}
+{5862}{5925}Ceux d'entre vous qui sont venus|à nos séminaires précédents...
+{5937}{6025}savent que c'est moi qui dirige|les groupes lors de nos nouveaux jeux.
+{6037}{6050}
+{6062}{6100} |Mais ce soir ce ne sera pas moi. Non.
+{6112}{6125}
+{6137}{6200} |Pour ce lancement d'eXistenZ par Antenna,
+{6212}{6225}
+{6237}{6300} |Nous avons choisi un guide exceptionnel.
+{6312}{6350}
+{6362}{6375} |Oui.
+{6387}{6400}
+{6412}{6475}La plus grande créatrice de jeu de la planète est ici,|en personne,
+{6487}{6500}
+{6512}{6600}Pour vous initier ensemble|dans notre premier test
+{6612}{6700}de sa dernière création:|eXistenZ, par Antenna.
+{6712}{6825}Je vous propose la prêtresse des jeux elle-même:|Allegra Geller.
+{6837}{7450}
+{7462}{7525}Le monde des jeux est plongé|dans une sorte de léthargie.
+{7537}{7550}
+{7562}{7650}Les gens sont programmés|de façon à encaisser si peu,
+{7662}{7700}
+{7712}{7800}alors que les possibilités|sont tellement grandes.
+{7812}{7850}
+{7862}{7950} |eXistenZ n'est pas seulement un... jeu.
+{7962}{8025}
+{8037}{8125} |C'est carrément un nouveau système de jeu.
+{8137}{8175}
+{8187}{8300}Et... il requiert pas mal de nouveaux outils,|que vous allez être les premiers à pouvoir tester.
+{8312}{8350}
+{8362}{8400} |Voilà.
+{8412}{8625}
+{8637}{8700}Nous n'avons que 12 prototypes|de pods MetaFlesh,
+{8712}{8725}
+{8737}{8800} |et ça signifie que pour notre premier test...
+{8812}{8875}nous avons besoin de 12 volontaires|pour se connecter en réseau...
+{8887}{8925} |avec la Reine des jeux elle-même.
+{8937}{8975}
+{8987}{9025} |Eh là! Pas si vite.
+{9037}{9050}
+{9062}{9100} |Ah oui. D'accord.
+{9112}{9150}
+{9162}{9225}Je suis en retard ?|J'ai manqué la connexion ?
+{9237}{9300}Ce n'est que la première session.|Tu pourras être dans la seconde.
+{9312}{9350} |Toi et le gars derrière, avec les cheveux gris.
+{9362}{9425}Vous, monsieur. Cette dame là.|Approchez. Merci.
+{9437}{9475}
+{9487}{9525}- Noël Dichter ?|- Oui ?
+{9537}{9550}
+{9562}{9625}- Lève les bras. Je dois te scanner.|- Vérification d'armes ?
+{9637}{9675} |Plutot contre l'espionnage.
+{9687}{9750}Des grosses sommes d'argent|sont investies dans ces jeux.
+{9762}{9775}
+{9787}{9825}Puis nos assistants vous aideront|à raccorder vos pods...
+{9837}{9875} |dans vos bio-ports à l'aide du nouveau...
+{9887}{9925}
+{9937}{10000}- Il y a quoi dans ce sac ?|- Oh, j'ai amené mon pod perso.
+{10012}{10025}
+{10037}{10100}C'est, euh, j'ai un Marway original|architecture tissu.
+{10112}{10225}C'est dépassé mais on peut amplifier l'antenne|j'ai adopté cette méthode de branchement virtuel
+{10237}{10275} |Tu n'en auras pas besoin pour ce soir.
+{10287}{10300}
+{10312}{10375} |Tout est fourni.
+{10387}{10600}
+{10612}{10675}- Alors? Ca va ?|- Qu'en penses tu ? 2 heures ?
+{10687}{10700}
+{10712}{10750} |Oh, deux, trois heures.
+{10762}{10825}- Donc disons 3 heures ?|- Ouais.
+{10837}{10875}
+{10887}{10950}Tous est en place.|Tu es prête Allegra ?
+{10962}{11000} |Oui, c'est mon moment préféré.
+{11012}{11050} |C'est parti.
+{11062}{11250}
+{11262}{11350} |Bon, je suis prête à télécharger eXistenZ en vous.
+{11362}{11425}
+{11437}{11525}Mais je vous préviens.|Ca va être vraiment chaud.
+{11537}{11550}
+{11562}{11600} |Mais ne paniquez pas...
+{11612}{11675} |quoiqu'il arrive, ok ?
+{11687}{11700}
+{11712}{11775}D'accord.|Je vous revois dans trés peu de temps.
+{11787}{12600}
+{12612}{12650} |Elle a l'air trés timide.
+{12662}{12725}J'aurais jamais pensé|qu'une vedette puisse être timide.
+{12737}{12775}
+{12787}{12850}Elle passe son temps toute seule dans une pièce|à imaginer ses jeux.
+{12862}{12875}
+{12887}{13000}Je pense qu'elle préfèrerait|ne jamais les montrer à personne.
+{13012}{13875}
+{13887}{13950}- Mort au démon, Allegra Geller !|- Non!
+{13962}{13975}
+{13987}{14050}Tout le monde dehors!|Dégagez vite !
+{14062}{14100}
+{14112}{14175} |Mort à Antenna Research !
+{14187}{14650}
+{14662}{14750}Sors la d'ici. Sauve là.|Ils doivent être plus nombreux.
+{14762}{14800}- Moi ? Moi ? Que je l'emmène ?|- Vas-y !
+{14812}{14850}Nous avons des ennemis parmi nous.|N'aie confiance en personne !
+{14862}{14875}
+{14887}{14950} |N'aie confiance en personne.
+{14962}{15325}
+{15337}{15400} |Miss Geller, vous venez avec moi.
+{15412}{15450}
+{15462}{15525}Je suis responsable de vous.|Vous devez venir avec moi.
+{15537}{16450}
+{16462}{16525} |Bon, qu'est ce qu'on va faire ?
+{16537}{16550}
+{16562}{16625}Vous connaissez les environs ?|Vous connaissez des gens du pays ?
+{16637}{16725} |Pas du pays, non. Des gens du jeu.
+{16737}{16750}
+{16762}{16825}La région est remplie de gens|qui développent des jeux:
+{16837}{16900}des coordinateurs de projet,|des petites sociétés, comme vous dites.
+{16912}{16925}
+{16937}{17000}Donc vous connaissez les environs.|Nous pourrons nous cacher.
+{17012}{17050} |Peut-être.
+{17062}{17125}On dirait que j'ai des ennemis dont|j'avais pas le moindre soupçon.
+{17137}{17150}
+{17162}{17225} |"Mort à Allegra Geller"
+{17237}{17275}Ca vous dirait d'entendre|un forcené hurler...
+{17287}{17325} |"Mort à Ted Pikul" ?
+{17337}{17400}
+{17412}{17450} |Hey! Comment vous connaissez mon nom ?
+{17462}{17500} |Vous êtes étiquetté.
+{17512}{17525}
+{17537}{17575} |Ouais.
+{17587}{17825}
+{17837}{17900} |C'est quoi ?
+{17912}{17950} |C'est mon pinkphone.
+{17962}{18075}
+{18087}{18125} |Ted Pikul.
+{18137}{18175} |Qu'est ce qu'il est arrivé....
+{18187}{18250}
+{18262}{18300} |Pourquoi avez-vous fait ça ?
+{18312}{18375}- C'était notre seul lien avec le monde civilisé|- C'était un détecteur
+{18387}{18400}
+{18412}{18475}- Tant que vous aurez ça, ils sauront où nous sommes.|- "ils ?"
+{18487}{18575}- Vous parlez des chefs au bureau ?|- Je parle de TOUT le monde.
+{18587}{18700}
+{18712}{18775}Pikul, pourquoi vous|n'avez pas de pistolet ?
+{18787}{18850}- Quoi ?|- Vous n'êtes pas armé.
+{18862}{18925}Ils m'ont dit que vous me garderiez en sécurité,|mais vous n'avez pas d'arme.
+{18937}{19025}Qui vous a dit ça ?|Je ne suis qu'un stagiaire en marketting.
+{19037}{19125}
+{19137}{19175} |Oh merde.
+{19187}{19200}
+{19212}{19300}Je suis traquée par des tueurs, et ils m'envoient|sur la route avec un commercial !
+{19312}{19350}
+{19362}{19425}Traquée par des tueurs.|Par des tueurs.
+{19437}{19450}
+{19462}{19500} |Okay.
+{19512}{19550}
+{19562}{19600} |Ne vous inqietez pas, Pikul.
+{19612}{19675} |Ca ira pour moi.
+{19687}{19725}Et, euh, il faudrait|qu'on s'arrête tout de suite.
+{19737}{19800} |Vraiment? Pourquoi ?
+{19812}{19825}
+{19837}{19925}Il faut qu'on ait|un moment d'intimité.
+{19937}{20275}
+{20287}{20350} |Allez. Si vous devez le faire, faites le.
+{20362}{20875}
+{20887}{20975}- Est ce que quelqu'un vous a mordue ?|- Quoi ?
+{20987}{21050}
+{21062}{21125} |Ce que je viens de vous extraire...
+{21137}{21175}
+{21187}{21250} |C'est une dent.
+{21262}{21275}
+{21287}{21350} |Une dent...
+{21362}{21425} |...d'humain.
+{21437}{21475}
+{21487}{21575} |Voyons voir ce flingue bizarre.
+{21587}{21875}
+{21887}{21925} |Ouais.
+{21937}{22000} |Les balles sont des dents d'être humain.
+{22012}{22025}
+{22037}{22100} |Celle là a une carrie.
+{22112}{22125}
+{22137}{22200}Cet instrument a été crée de telle sorte|à être évitée par tout genre de...
+{22212}{22250}détecteur de métal|ou de matière synthétique.
+{22262}{22300} |C'est fait de  chair et d'os.
+{22312}{22375}Je suppose qu'un petit calibre|doit utiliser des dents de bébé.
+{22387}{22425}
+{22437}{22500} |La petite souris pourrait faire du traffic d'armes.
+{22512}{24000}
+{24012}{24100}- Vous étiez où à l'instant ?|- Je me balladais dans eXistenZ.
+{24112}{24150}
+{24162}{24225} |Le nouveau système, je veux dire.
+{24237}{24250}
+{24262}{24325} |Je l'aime bien comme ça.
+{24337}{24425}Bien sûr, sans aucun autre joueur,|on est comme un touriste.
+{24437}{24450}
+{24462}{24500} |C'est frustrant.
+{24512}{24525}
+{24537}{24625} |Pourquoi ne me laissez-vous pas contacter Antenna ?
+{24637}{24675}
+{24687}{24750} |Ils vont se demander ce qu'il vous est arrivé.
+{24762}{24800}
+{24812}{24875}En fait, c'est pas comme si|on avait fait quelquechose de mal.
+{24887}{25000}On a fui parce qu'on ne savait pas|combien ils étaient, n'est ce pas ?
+{25012}{25100}
+{25112}{25200}J'estime qu'Antenna a le droit|de savoir que vous allez bien...
+{25212}{25225}
+{25237}{25325}et qu'ils puissent envoyer quelqu'un pour vous aider,|quelqu'un de compétent.
+{25337}{25375}
+{25387}{25425} |En plus, je ne peux pas...
+{25437}{25450}
+{25462}{25525} |Je ne peux pas continuer à faire ça,
+{25537}{25550}
+{25562}{25625} |éternellement...
+{25637}{25725} |sans savoir quand ca.... Hey !
+{25737}{25775}
+{25787}{25850}-Que faites vous ?|- Où est votre Bio-port ?
+{25862}{25900}
+{25912}{25950}Oh, ne me dites pas que|vous n'êtes pas équipé.
+{25962}{26025}- Je le crois pas.|- Non, je n'ai jamais eu de Bio-port, et alors ?
+{26037}{26050}
+{26062}{26150}Vous voulez entrer dans le businesss,|et vous n'avez jamais joué à un de mes jeux ?
+{26162}{26275}
+{26287}{26325} |Vous n'avez jamais joué, à aucun jeu.
+{26337}{26425}
+{26437}{26475} |Ecoutez.
+{26487}{26550}J'aurais presque payé de ma vie|pour jouer à un de vos jeux,
+{26562}{26575}
+{26587}{26625} |mais j'ai cette phobie....
+{26637}{26650}
+{26662}{26725}de craindre d'avoir mon corps|manipulé par la chirurgie.
+{26737}{26750}
+{26762}{26800} |Vous comprenez ce que je veux dire.
+{26812}{26825}
+{26837}{26875}Non. Je ne suis pas|sûre de comprendre.
+{26887}{26900}
+{26912}{26975} |D'avoir un bio-port implanté.
+{26987}{27000}
+{27012}{27075} |Je ne peux pas le faire.
+{27087}{27100}
+{27112}{27175}Ca me fait stresser.|Me donne la chair de poule.
+{27187}{27250}Ils percent simplement la colonne vertébrale|avec un pistolet hydro-pneumatique.
+{27262}{27300} |Ils mettent la prise à l'intérieur.
+{27312}{27375}Ils le font aux mômes.|C'est comme se faire percer les oreilles.
+{27387}{27475}Oui, c'est ça.|Avec seulement un infime risque de rester paralysé à vie.
+{27487}{27550}- Je me suis trés bien renseigné.|- Hey, c'est la profession que vous avez choisie.
+{27562}{27600}
+{27612}{27675} |En plus, une fois équipé.... zzzt...
+{27687}{27750}Les jeux auxquels vous pouvez jouez|peuvent ne pas avoir de fin.
+{27762}{27775}
+{27787}{27825}Sérieusement, vous ne pouvez pas|avoir envie de jouer maintenant.
+{27837}{27850}
+{27862}{27975} |Pas ici. Pas pendant qu'on est chassés par des dingues.
+{27987}{28125}
+{28137}{28200} |Mon pod a reçu un terrible choc à l'église, Pikul.
+{28212}{28225}
+{28237}{28300} |Un de ses Umbycâbles a été arraché.
+{28312}{28325}
+{28337}{28375} |Lui a été arraché.
+{28387}{28450} |Pendant le transfert de la configuration de mon jeu...
+{28462}{28525} |vers tous ces autres pods.
+{28537}{28600} |A un moment où il est trés vulnérable.
+{28612}{28650}
+{28662}{28725}Il est peut-être en train  de crier à l'aide|en ce moment même.
+{28737}{28825}
+{28837}{28875} |Le seul moyen...
+{28887}{28950} |pour savoir si le jeu n'a pas été contaminé....
+{28962}{28975}
+{28987}{29050} |Le pod  ne peut pas être handicapé à vie, par ma faute....
+{29062}{29175}
+{29187}{29250} |Il faut jouer à eXistenZ....
+{29262}{29300} |avec un ami.
+{29312}{29400}
+{29412}{29450} |Vous êtes un ami ?
+{29462}{29575} |ou pas ?
+{29587}{29625}
+{29637}{29700} |Bien sûr, d'accord.
+{29712}{29750}
+{29762}{29825}Faisons le.|Maintenant.
+{29837}{29900}
+{29912}{29975} |Attendez. Pour....
+{29987}{30050} |... se faire installer un Bio-port pirate...
+{30062}{30125} |aux alentours de minuit,
+{30137}{30150}
+{30162}{30275}on va directement à la|station-essence du coin, non ?
+{30287}{30575}
+{30587}{30625} |Je peux faire autrechose pour vous ?
+{30637}{30700} |Et bien, Gas, vous pourriez vérifier un Bio-port,
+{30712}{30775}
+{30787}{30850}- Quoi ?|- Vous avez entendu.
+{30862}{30875}
+{30887}{30925} |Mon ami là, a un probléme de Bio-port.
+{30937}{31000} |Un Bio-port ?
+{31012}{31075}Maintenant, c'est une sorte de trou|dans le dos, c'est ça ?
+{31087}{31150}
+{31162}{31225}Y a des tas de trous du cul par ici,|mais à part ça...
+{31237}{31300}
+{31312}{31375}Je ne sais pas pourquoi|vous me parlez de ça, M'dam.
+{31387}{31450}
+{31462}{31550} |Je suis sûre que oui.
+{31562}{32050}
+{32062}{32100} |Allegra Geller,
+{32112}{32175} |Vous avez changé ma vie.
+{32187}{32250}
+{32262}{32300} |A quoi ressemblait votre vie, avant ?
+{32312}{32350} |Avant quoi ?
+{32362}{32425} |Avant qu'Allegra Geller ne la change.
+{32437}{32450}
+{32462}{32525} |Je travaillais dans une station essence.
+{32537}{32550}
+{32562}{32600}Vous travaillez toujours dans|une station essence, non ?
+{32612}{32675} |Seulement à un certain degré de la réalité.
+{32687}{32700}
+{32712}{32775} |Le travail de Geller m'a libéré.
+{32787}{32850}- Libéré ?|- Vous n'avez jamais joué à son jeu ArtGod ?
+{32862}{32875}
+{32887}{32975}- En un seul mot. "A" majuscule, "G" majuscule.|- Je n'ai pas de Bio-port.
+{32987}{33025}
+{33037}{33100}"Connectez-vous, et devenez Dieu."|Trés spirituel.
+{33112}{33150}
+{33162}{33200} |Drôle aussi.
+{33212}{33225}
+{33237}{33350}Dieu, l'artiste, le mécano.|Amusant.
+{33362}{33475}
+{33487}{33550} |Nous y voilà.
+{33562}{33700}
+{33712}{33775} |Ils sont stérilisés, n'est ce pas ?
+{33787}{33800}
+{33812}{33850}Y a pas à s'inquieter.|De la façon qu'ils sont conçus...
+{33862}{33925}on pourrait implanter des Bio-ports|à l'intérieur d'une porcherie
+{33937}{33975} |sans créer aucune infection.
+{33987}{34050} |Alors pourquoi vous avez changé de bleu ?
+{34062}{34100}
+{34112}{34175}Hmm. C'est psychique.|Ca m'aide à me concentrer.
+{34187}{34200}
+{34212}{34250} |La seule chose qu'il ne faut pas,
+{34262}{34325}c'est de se manquer avec|la pointe chercheuse.
+{34337}{34400}
+{34412}{34500}- Mon Dieu|- Dieu, le mécano.
+{34512}{34550}
+{34562}{34625} |Prenez place dans mon bureau.
+{34637}{36900}
+{36912}{36975}Vous voyez ? Ca n'a pas fait mal non ?
+{36987}{37050} |Je ne m'attendais pas à  avoir mal.
+{37062}{37125} |C'est la prochaine étape que je redoute.
+{37137}{37250}
+{37262}{37300} |Ouais, c'est ca qui me fait peur.
+{37312}{37375} |J'ai encore estropillé personne.
+{37387}{37425}
+{37437}{37500}- Vous en avez fait combien ?|- Trois.
+{37512}{37600} |En fait, vous serez mon troisième.
+{37612}{38050}
+{38062}{38125} |Cool.
+{38137}{38275}
+{38287}{38350}- Qu'est ce qui se passe, Gas ?|- Nom de Dieu,
+{38362}{38425} |il croit que je vais l'attaquer.
+{38437}{38475} |D'habitude les gens me paient pour ça, vous savez.
+{38487}{38525} |Ouais ? Les 2 autres !
+{38537}{38625}Comme vous voyez, j'ai décidé|de ne pas me faire poser de Bio-port.
+{38637}{39000}
+{39012}{39100}C'est ça, tu vois ?|Ca c'est la cage que tu t'es fabriquée.
+{39112}{39175}qui te rend comme le gibier chassé,|et qui te fait piétiner...
+{39187}{39250} |dans le plus petit espace possible, à jamais.
+{39262}{39350} |Sors de ta cage, pikul.
+{39362}{39450} |Sors maintenant.
+{39462}{39725}
+{39737}{39775} |Ca ne restera pas enflé longtemps.
+{39787}{39850} |Demain, tu ne le remarqueras même pas.
+{39862}{39900} |J'adore.
+{39912}{39950}
+{39962}{40000} |Super.
+{40012}{40100}
+{40112}{40175}Qu'est ce qui m'arrive ?|J'arrive pas... à bouger mes jambes !
+{40187}{40250} |L'installation comprend une péridurale.
+{40262}{40325} |C'est un peu comme si on accouchait.
+{40337}{40425}une petite paralysie des membres infèrieurs.|C'est pourquoi vous n'avez pas souffert.
+{40437}{40525} |Ca va passer dans trés peu de temps.
+{40537}{40575}
+{40587}{40625} |Je vais aller me laver.
+{40637}{40700}Vous deux,|faites comme chez vous.
+{40712}{41025}
+{41037}{41100} |Pas besoin d'attendre que ça désenfle.
+{41112}{41275}
+{41287}{41375}Tu vas me raccorder|alors que je suis paralysé ?
+{41387}{41400}
+{41412}{41475} |Tu voulais jouer à mon jeu, non ?
+{41487}{41525} |Bien sûr que oui, mais...
+{41537}{41575} |Ici ? Maintenant ?
+{41587}{41650} |C'est un moment fort, hein ?
+{41662}{41675}
+{41687}{41775}C'est pourquoi faire ?|On dirait du... froid.
+{41787}{41800}
+{41812}{41900}|les bio-ports neufs sont parfois un peu étroits.
+{41912}{41950}
+{41962}{42025} |Je ne voudrais pas te faire mal.
+{42037}{42050}
+{42062}{42100} |Comment se fait-il...
+{42112}{42175} |Que les ports ne s'infectent pas ?
+{42187}{42200}
+{42212}{42275} |Je veux dire,
+{42287}{42375} |ils sont l'accés vers l'intérieur même du corps.
+{42387}{42400}
+{42412}{42475} |Réfléchis à ce que tu dis, Pikul.
+{42487}{42550} |Ne sois pas idiot.
+{42562}{42825}
+{42837}{42900}Tu ne crois pas que|tu pourrais m'appeler Ted ?
+{42912}{42950}
+{42962}{43050}Peut-être,|on verra plus tard.
+{43062}{43750}
+{43762}{43775} |Merde !
+{43787}{43875}Pikul !|Je le crois pas !
+{43887}{43925} |Tu as bousillé mon pod.
+{43937}{44000}- Tu as fait une surtension nerveuse !|- Que veux-tu dire ?
+{44012}{44125}Je t'ai relié à mon pod, et tu as manifestement paniqué.|Maintenant il est complètement fichu !
+{44137}{44200} |C'est un désastre.
+{44212}{44275}J'étais nerveux,|mais je n'ai pas paniqué.
+{44287}{44300}
+{44312}{44400}Je devais te faire confiance et toi,|tu as paniqué et tu as fait une surtension nerveuse....
+{44412}{44475} |et tu as bousillé mon pod.
+{44487}{44500}
+{44512}{44575} |Tu peux en prendre un nouveau.
+{44587}{44625} |Pikul,
+{44637}{44700} |dans ce pod, il y a la seule...
+{44712}{44775} |la version originale d'eXistenZ,
+{44787}{44800}
+{44812}{44875}un systeme de jeu complètement nouveau|qui a coûté 38 millions en développement,
+{44887}{44950}sans compter le coût des pré-versions|le coût du marketting,
+{44962}{45025} |et je suis bloquée à l'extèrieur de mon propre jeu.
+{45037}{45050}
+{45062}{45125} |Je ne peux pas y entrer, ou en sortir !
+{45137}{45175} |Tu es sérieuse ?
+{45187}{45250} |C'est la seule version qui existe ?
+{45262}{45375}c'est l'unique et c'est coincé de l'intérieur|par ta faute.
+{45387}{45500}
+{45512}{45625}J'ai voué 5 ans de mes plus précieues années de ma vie|pour cette étrange petite créature.
+{45637}{45700}
+{45712}{45775} |Et je ne l'ai jamais regrétté, Pikul,
+{45787}{45875}parce que je savais que c'était la seule chose|qui pouvait donner un sens à ma vie.
+{45887}{45900}
+{45912}{45975} |Allegra,
+{45987}{46050} |Pourquoi est-ce de ma faute ?
+{46062}{46125} |Je te dis que je n'ai...
+{46137}{46200} ressenti aucune surtension.|Non.
+{46212}{46250} |Aucune surtension.
+{46262}{46325} |[Ca n'est pas votre faute.]
+{46337}{46400} |C'est la mienne.
+{46412}{46450} |Oh, non, Gas. Pas vous.
+{46462}{46550} |Je n'essaierais pas de réutiliser ce Bio-port.
+{46562}{46625} |Sauf peut-être pour un grille-pain,
+{46637}{46675}
+{46687}{46750} |Qu'est ce qui se passe ?
+{46762}{46825}Vous valez beaucoup d'argent...|une fois morte.
+{46837}{46850}
+{46862}{46950}- De quoi parlez-vous ?|- Vous savez de quoi je parle.
+{46962}{47075}C'est affiché partout.|5 millions de dollars pour son corps, mort.
+{47087}{47175} |Discrétion assurée.
+{47187}{47200}
+{47212}{47275} |Mais, elle a changé votre vie.
+{47287}{47375} |Ouais, et maintenant je vais changer la sienne.
+{47387}{47400}
+{47412}{47475}Attendez !|Pourquoi m'avez-vous installé un Bio-port défectueux ?
+{47487}{47500}
+{47512}{47600}Il y a une grosse prime pour celui qui|flinguera tout dernier jeu d'Allegra...
+{47612}{47650} |quel qu'il soit.
+{47662}{47675}
+{47687}{47775} |Je pense que je viens de le faire, non ?
+{47787}{47825}
+{47837}{47925}Mais, vous pouvez me tuer, Gas ?|Vous pouvez tuer une personne ?
+{47937}{47950}
+{47962}{48000} |Vous en êtes capable ?
+{48012}{48075} |Cacher mon corps ?
+{48087}{48125} |Contacter les forcenés ?
+{48137}{48200} |Vous croyez qu'ils vont payer ?
+{48212}{48275} |Vous allez transporter mon cadavre ?
+{48287}{48300}
+{48312}{48400} |Enfin, vous vous croyez qu'ils vont lacher 5000 cash ?
+{48412}{48500}Je veux dire,|vous n'allez jamais au putain de cinéma ?
+{48512}{48550}
+{48562}{48625} |J'aime bien votre script.
+{48637}{48675}
+{48687}{48775} |Je veux en faire partie.
+{48787}{49350}
+{49362}{49450} |Oh mon Dieu! Je crois q'il est mort.
+{49462}{49525}
+{49537}{49625}- Il voulait te tuer.|- Ouais.
+{49637}{49725}
+{49737}{49800} |Ca fait deux personnes en un jour...
+{49812}{49875} |qui voulaient vraiment te tuer.
+{49887}{49950} |Je n'ai jamais été aussi populaire.
+{49962}{49975}
+{49987}{50050} |Allegra, on a besoin d'aide.
+{50062}{50150}Tu as raison.|Il faut que je fasse réparer ce pod.
+{50162}{50725}
+{50737}{50800} |Nous allons skier ?
+{50812}{51225}
+{51237}{51275} |Regarde cet insecte énorme.
+{51287}{51350} |Il a deux têtes.
+{51362}{51425}Ce n'est pas un insecte.|C'est un amphibien mutant.
+{51437}{51500} |Une sorte de grenouille-salamandre-lézard.
+{51512}{51525}
+{51537}{51625} |Un signe des temps.
+{51637}{51800}
+{51812}{51875}Et si quelqu'un venait|et voulait vraiment skier ?
+{51887}{51900}
+{51912}{52000}Allez, Pikul. Plus personne ne peut skier.|Tu le sais bien.
+{52012}{52325}
+{52337}{52425}Non, ne touchez pas à ça !|Et apportez-moi les vases stériles.
+{52437}{52525}
+{52537}{52600} |Ma chérie.
+{52612}{52750}
+{52762}{52850} |Allegra Geller.
+{52862}{52950}Je suis si heureux et...|si surpris de te voir ici.
+{52962}{53000}
+{53012}{53100}- Kirl Vinokur, mon garde du corps, Ted Pikul.|- Bonjour
+{53112}{53150}
+{53162}{53200} |Vase stérile.
+{53212}{53250}
+{53262}{53325} |Hum, j'ai entendu cette rumeur ridicule...
+{53337}{53400} |des bruits qui circulent contre toi.
+{53412}{53475}La compagnie essaie désespérément|de te retrouver.
+{53487}{53550}Tout cela est-il sérieux ?|Tu es en danger ?
+{53562}{53575}
+{53587}{53650}Et bien... il y a déjà eu 2 tentatives de meurtre sur moi.
+{53662}{53725}Mais c'est inadmissible. La compagnie doit arrêter ça.|Ils doivent te protéger.
+{53737}{53825}Mais je...|Je ne sais pas s'ils y peuvent quelquechose.
+{53837}{53900} |A croire que l'on a mis un contrat sur moi.
+{53912}{54000}Ben vous serez en sécurité ici.|Je peux vous l'assurer.
+{54012}{54025}
+{54037}{54100}Je vais immédiatement contacter Antenna|pour qu'ils envoient des gens te récupérer.
+{54112}{54175}Non, Kirl.|Personne ne doit savoir que nous sommes ici.
+{54187}{54250} |Je ne suis pas complètement sûre d'Antenna.
+{54262}{54275}
+{54287}{54350} |Je comprends, oui.
+{54362}{54400} |Tu sais,
+{54412}{54525}vous pouvez vous cacher|dans un de ces chalets d'invités...
+{54537}{54600} |autant que vous le voulez.
+{54612}{54675}Et je m'assurerai que vous aurez| toujours du linge propre.
+{54687}{54700}
+{54712}{54825}Et assurez-vous que je ne perde rien|de tout ce que j'ai ici.
+{54837}{54925} |Promis.
+{54937}{55150}
+{55162}{55200} |Prends ça.
+{55212}{55250}
+{55262}{55300} |Bien.
+{55312}{55325}
+{55337}{55375} |Retourne ça.
+{55387}{55450}
+{55462}{55575}- Dans quoi vous êtes-vous raccordé ?|- Dans le Bio-port de Pikul.
+{55587}{55650} |Vraiment ? C'est ce qui a tout endommagé.
+{55662}{55675}
+{55687}{55775}C'était...|C'était une mauvaise installation. Ma première.
+{55787}{55800}
+{55812}{55825} |Bien,
+{55837}{55875}
+{55887}{55950} |Ca a grillé plusieurs neuro-cables trés chers.
+{55962}{55975}
+{55987}{56075}- Vous voyez ?|- Ca ressemble à un animal à l'intérieur.
+{56087}{56100}
+{56112}{56175}On croirait que vous opérez|le petit chien de quelqu'un.
+{56187}{56250}Je vous l'ai dit, Landry,|nous sommes devenus...
+{56262}{56325} |de vulgaires vétérinaires.
+{56337}{56425} |Un peu là-dedans s'il vous plait.
+{56437}{56500}
+{56512}{56600}Le gamepod d'eXistenZ|est éffectivement basé sur un animal, M. Pikul.
+{56612}{56700} |Il est issu d'un oeuf d'amphibiens fécondé...
+{56712}{56775} |et bourré d'ADN synthétique.
+{56787}{56825} |Il n'y a qu'Antenna Research qui fait ça.
+{56837}{56900} |Ouah. Ou sont les batteries ?
+{56912}{56950}
+{56962}{57050} |Trés drôle.
+{57062}{57125}Il ne plaisante pas.|C'est un nul du marketting.
+{57137}{57150}
+{57162}{57200}Il se branche à toi.|C'est toi la source d'énergie:
+{57212}{57300}ton corps, ton système nerveux,|ton métabolisme, ton énergie.
+{57312}{57400}Si tu es fatigué, un coup de barre|ça ne peut pas marcher.
+{57412}{57500} |Ok. Landry finira le travail sur le pod.
+{57512}{57525}
+{57537}{57625} |Maintenant... il faut vous extraire votre Bio-port,
+{57637}{57650}
+{57662}{57750} |Et y mettre un nouveau.
+{57762}{57825}
+{57837}{57900} |Oh! Ca fait mal !
+{57912}{57925}
+{57937}{57975} |Je crois que c'est infecté.
+{57987}{58050} |Non. Ca n'est pas infecté.
+{58062}{58125} |C'est juste irrité.
+{58137}{58150}
+{58162}{58225} |Il veut de l'action.
+{58237}{58275}Mais, je ne crois vraiment pas avoir besoin d'action.|Moi, je veux dire,
+{58287}{58375} |le porteur dua Bio-port excité.
+{58387}{58450}
+{58462}{58550} |Le pauvre chéri a reçu 3 chocs terribles maintenant, Pikul:
+{58562}{58650}un dans l'église, un à la station-essence|et un sur la table d'opération.
+{58662}{58675}
+{58687}{58750}Le seul poyen pour que je sache |si tout va bien...
+{58762}{58825} |c'est de jouer à eXistenZ...
+{58837}{58900} |avec un ami.
+{58912}{58950} |Es-tu un ami,
+{58962}{59050} |ou pas ?
+{59062}{59100}
+{59112}{59175}Tu dis que cette chose va|utiliser mon  énergie ?
+{59187}{59200}
+{59212}{59275} |C'est comme ca que ca marche.
+{59287}{59300}
+{59312}{59375}Tu vois ?|Tu ronronnes déjà.
+{59387}{59425}
+{59437}{59525} |Ok. eXistenZ,
+{59537}{59600} |seulement de chez Antenna.
+{59612}{59625}
+{59637}{59675}- On y va.|- Tu...
+{59687}{59750} |Tu as comme un léger avantage, non ?
+{59762}{59850}Comment je peux raisonnablement rivaliser|avec le concepteur du jeu ?
+{59862}{59875}
+{59887}{59950} |Bien,
+{59962}{60050} |Tu pourrais battre l'inventeur du poker, non ?
+{60062}{60450}
+{60462}{60550}[ - Vous voulez celui-là ? ]|[ - Oui, celui-là. ]
+{60562}{60675}
+{60687}{60775}[ - Je demande si vous êtes sûr de vouloir celui-là ? ]|[ - Oui ]
+{60787}{60800}
+{60812}{60850}[ - Je ne vous le conseille pas. ]|[ - Pourquoi ? ]
+{60862}{60900} |[ - Les graphiques sur celui-ci sont meilleurs ]
+{60912}{60975}[ - En fait, il n'y a pas de comparaison ]|[ - Vraiment ? ]
+{60987}{61025}[ - C'est celui que vous voulez ]|[ - Celui-ci ? ]
+{61037}{61125} |C'était magnifique.
+{61137}{61300}
+{61312}{61350} |Je me sens comme moi-même.
+{61362}{61450}C'est une étape de transition normale ?|Ce genre de...
+{61462}{61475}
+{61487}{61550}insaisissable,|se mélangeant de part et d'autre ?
+{61562}{61575}
+{61587}{61625} |Ca dépend du style du jeu.
+{61637}{61675}Tu peux être déchiqueté,|découpé,
+{61687}{61750} |voir des voiles noirs,
+{61762}{61825} |faire miroiter des petits morphes.
+{61837}{61875}
+{61887}{61950} |C'est stupéfiant.
+{61962}{61975}
+{61987}{62050} |Je n'avais pas idée.
+{62062}{62100}
+{62112}{62175}Regarde ça.|Des jeux dont j'ai jamais entendu parler.
+{62187}{62200}
+{62212}{62275}Attends une minute.|Ca me rappelle.
+{62287}{62375} |Quel est le but précis du jeu auquel on joue ?
+{62387}{62425}
+{62437}{62475} |Tu dois y jouer...
+{62487}{62575} |pour comprendre pourquoi tu y joues.
+{62587}{62650} |C'est l'avenir, Pikul.
+{62662}{62675}
+{62687}{62775} |Tu verras comme c'est naturel.
+{62787}{63375}
+{63387}{63450} |Regarde çà.
+{63462}{63500}
+{63512}{63600}Ca peut être l'avenir aussi, ca ?|Tu as déja vu quelquechose comme ça ?
+{63612}{63650} |Ceux-là sont délicats.
+{63662}{63725} |Il faut y faire attention.
+{63737}{63750}
+{63762}{63800} |Oui, j'imagine.
+{63812}{63875} |Les Cortical Systematics sont le dernier cri,
+{63887}{63900}
+{63912}{63975}Pas seulement un nouveau jeu,|mais un nouveau système.
+{63987}{64050} |Il marche avec un Bio-port standard ?
+{64062}{64100}
+{64112}{64175} |Je suis D'arcy Nader.
+{64187}{64275}Bienvenue dans l'empire du jeu|de D'arcy Nader.
+{64287}{64350} |Est ce que je peux vous être utile ?
+{64362}{64375}
+{64387}{64475} |Nous regardons seulement.
+{64487}{64575}
+{64587}{64675} |J'ai ce qu'il vous faut.
+{64687}{64725}
+{64737}{64800} |Qui vous envoie ?
+{64812}{64875}
+{64887}{64925} |Ca ne vous regarde pas.
+{64937}{65025}Nous sommes ici.|C'est tout ce qui compte.
+{65037}{65075}
+{65087}{65150}Mon Dieu.|Que s'est-il passé ?
+{65162}{65175}
+{65187}{65250} |Je... Je ne voulais pas dire ça.
+{65262}{65275}
+{65287}{65325} |C'est ton personnage qui l'a dit.
+{65337}{65425}C'est une impression de scyzophrénie n'est ce pas ?|Tu t'y habitueras.
+{65437}{65525}Ce sont des choses qui doivent être dites|pour faire avancer l'histoire et établir les personnages.
+{65537}{65625}Et ces choses sont dites|même si tu ne veux pas les dire.
+{65637}{65700}Ne le combats pas.|Fais avec.
+{65712}{65800} |Mais est ce que tu dirais ça en face de lui ?
+{65812}{65850}
+{65862}{65900} |Regarde le.
+{65912}{66075}
+{66087}{66150}- Qu'est ce qu'il fait ?|- Il est parti dans une boucle du jeu.
+{66162}{66250}Il n'en sortira pas tant que tu n'auras pas prononcé|la phrase qui convient.
+{66262}{66325}
+{66337}{66400} |Euh, c'est pas évident.
+{66412}{66475}
+{66487}{66525} |Commence par répéter ta dernière phrase.
+{66537}{66650}En disant son nom, pour qu'il sache|que tu t'adresses à lui.
+{66662}{66750}
+{66762}{66850}On est là, D'arcy Nader,|et c'est tout ce qui compte.
+{66862}{66875}
+{66887}{66925} |Oui, vous avez raison.
+{66937}{67025} |C'est tout ce qui compte.
+{67037}{67100}
+{67112}{67200}Bon, vous avez dit avoir|ce que nous cherchons ?
+{67212}{67250} |On attend.
+{67262}{67275}
+{67287}{67325}Vous allez avoir besoin|de ces micro-pods...
+{67337}{67400} |pour télécharger vos nouvelles identités.
+{67412}{67425}
+{67437}{67525} |Je suppose que vous avez tous les deux ces ...
+{67537}{67625} |Bio-port standard dont vous me parliez.
+{67637}{67650}
+{67662}{67750}Oui, bien sûr.|On les a tous les deux.
+{67762}{67800}
+{67812}{67900}- On les a, n'est ce pas ?|- Je présume que oui.
+{67912}{67950}
+{67962}{68050}Dans le jeu, bien sûr,|mais il se peut que non.
+{68062}{68100}
+{68112}{68175} |On ferait mieux de vérifier.
+{68187}{68275}Ouais, il est là. Il a l'air un peu différent,|mais il est là.
+{68287}{68300}
+{68312}{68375} |Oui, je vois ce que tu veux dire.
+{68387}{68450} |Oui, on a chacun notre Bio-port.
+{68462}{68475}
+{68487}{68525} |Bien.
+{68537}{68600} |Connectez-vous.
+{68612}{68675} |et vous saurez tout ce qu'il faut savoir...
+{68687}{68725} |pour le moment.
+{68737}{68800} Je... je vais m'en aller|pendant que vous deux, euh,
+{68812}{68900} |terminez ici, parce que,
+{68912}{68925}
+{68937}{69025}euh, il ne serait pas bon pour nous|que l'on soit vus ensemble.
+{69037}{69225}
+{69237}{69275} |Je suppose que D'arcy Nader est notre...
+{69287}{69350} |point d'entrée dans le jeu.
+{69362}{69425}- Ouais. Assez décevant|- Nader ?
+{69437}{69500} |Ouais. Son personnage n'est pas trés bien défini.
+{69512}{69625}Ses dialogues étaient si.... si. |Son accent et son...hum,
+{69637}{69725} |Ouais.
+{69737}{69850}
+{69862}{69900} |Ok.
+{69912}{69950}
+{69962}{70025} |Les pods sont si petits.
+{70037}{70125}Ils se branchent directement|dans le Bio-port.
+{70137}{70250}
+{70262}{70300} |Ok.
+{70312}{70400}
+{70412}{70475}- Oh, mon Dieu !|- Qu'est ce qu'il y a ?
+{70487}{70575}Le pod tout entier a disparu|dans ton dos.
+{70587}{70600}
+{70612}{70675} |Il a disparu dans mon dos ?
+{70687}{70775}- C'est dans ma colonne vertébrale ? Il remonte sur ma colonne ?|- Ne panique pas, c'est juste un jeu.
+{70787}{70800}
+{70812}{70875} |Tu ressens déjà quelquechose ?
+{70887}{70900}
+{70912}{70950} |Non.
+{70962}{71025}Rien.|Je ne ressens rien.
+{71037}{71075}
+{71087}{71175}- Tu veux que je te le fasse ?|- Ouais.
+{71187}{72075}
+{72087}{72150} |Qu'est ce que c'était ?
+{72162}{72200}
+{72212}{72250}C'était pas moi.|C'était mon personnage du jeu.
+{72262}{72350}Je n'aurais pas fait ça.|Pas ici, du moins.
+{72362}{72775}
+{72787}{72875}Nos personnages sont censés|se monter l'un sur l'autre.
+{72887}{72900}
+{72912}{72975} |C'est certainement une...
+{72987}{73050} |tentative désespérément mécanique...
+{73062}{73075}
+{73087}{73175}pour augmenter la tension émotionelle|de la prochaine séquence du jeu.
+{73187}{73425}
+{73437}{73550}- Pas habitué à résister, hein ?|- Et pour nos... nos nouvelles identités ?
+{73562}{73575}
+{73587}{73650} |Tu sens déjà les tiennes ?
+{73662}{73750} |Elles se manifesteront d'elles-mêmes.
+{73762}{73875}
+{73887}{73950} |Je m'inquiète vraiment pour mon corps.
+{73962}{74025} |Ton quoi ?
+{74037}{74050}
+{74062}{74150} |Ou sont nos vrais corps ?
+{74162}{74250}Ils vont bien ? Et s'ils ont faim ?|Et s'ils sont en danger ?
+{74262}{74300}
+{74312}{74400} |Ils sont juste là où on les a laissés.
+{74412}{74450} |Ils sont tranquillement assis.
+{74462}{74525} |Les yeux fermés.
+{74537}{74550}
+{74562}{74650} |Comme s'ils méditaient.
+{74662}{74825}
+{74837}{74900} |Je me sens vraiment vulnérable.
+{74912}{75000}- Comme désincarné.|- Ok.
+{75012}{75075}
+{75087}{75175} |Ne t'inquiètes pas.
+{75187}{75275}
+{75287}{75375} |Tous tes sens sont toujours opérationnels.
+{75387}{75475}
+{75487}{75575}Tu seras sorti du jeu|s'il y a un problème.
+{75587}{76500}
+{76512}{76600} |En train de chercher à se souvenir qui on est ?
+{76612}{76625}
+{76637}{76700} |Hey, hey, ça marche.
+{76712}{76750}Je dois être|Yevgeny Nourish.
+{76762}{76825}Et toi,|tu es nouveau à TroutFarm ?
+{76837}{76875} |Ouais.
+{76887}{76975}Oui, je suis..|tout nouveau.
+{76987}{77000}
+{77012}{77075}- Tu as dit TroutFarm ?|- Ouais, TroutFarm.
+{77087}{77175}Un ancien élevage de truites où l'on faisait naitre|des bébés truites, qu'on relachait en rivière.
+{77187}{77200}
+{77212}{77275} |Tout ça, avant, c'était TroutFarm.
+{77287}{77375}De l'extèrieur, on n'imagine pas que maintenant|c'est une fabrique de game-pods.
+{77387}{77425}
+{77437}{77525}On dirait plutot que c'est utilisé|pour tout autre chose, hein ?
+{77537}{77725}
+{77737}{77825}T'es peut-être nouveau, mais|tu as l'air de savoir ce que tu fais.
+{77837}{77925} |Je suis aussi étonné que toi.
+{77937}{77975}
+{77987}{78075}T'es peut-être nouveau, mais|tu as l'air de savoir ce que tu fais.
+{78087}{78800}
+{78812}{78900} |J'ai été formé par le top-niveau.
+{78912}{78975}
+{78987}{79075}Comme moi, mon ami.|Comme moi.
+{79087}{79100}
+{79112}{79200} |Où est-ce que tu comptes déjeûner ?
+{79212}{79250}
+{79262}{79325} |Je suis nouveau ici, euh,
+{79337}{79375} |Je n'ai rien prévu pour le déjeûné.
+{79387}{79475}Puis-je te recommander le restaurant chinois|dans la forêt ?
+{79487}{79500}
+{79512}{79600}Tout le monde sait où c'est.|T'as qu'à demander.
+{79612}{79625}
+{79637}{79700} |Mais, tu vas y aller aussi ?
+{79712}{79800}Malheureusement, j'ai autre chose de prévu|pour le déjeuner.
+{79812}{79875} |Mais je te suggère de commander la spécialité.
+{79887}{79950} |Et surtout, s'il refuse, insiste.
+{79962}{80050}D'accord.|Je ferai comme ça.
+{80062}{80250}
+{80262}{80350}-  Larry !|- Oui ?
+{80362}{80375}
+{80387}{80475} |Ils veulent que tu apportes ça dans l'arrière boutique.
+{80487}{82475}
+{82487}{82550}Je t'ai vu établir le contact,|Larry Ashem.
+{82562}{82600}Qu'est ce qu'il t'a dit,|le gars sur la chaîne d'assemblage ?
+{82612}{82700}T'arrives à croire à la version du jeu de ton pod ?|Ca a l'air faux.
+{82712}{82750} |et si peu convaicant,
+{82762}{82850}utiliser des organes d'animaux mutants,|et leur système nerveux pour des pods...
+{82862}{82875}
+{82887}{82950} |c'est certainement faisable, mais...
+{82962}{83000} |tout ici est si sale,
+{83012}{83100} |absurde, grotesque.
+{83112}{83350}
+{83362}{83425}Je t'ai vu établir le contact,|Larry Ashem.
+{83437}{83525}Qu'est ce qu'il t'a dit,|le gars sur la chaîne d'assemblage ?
+{83537}{83575}
+{83587}{83675} |Il m'a dit où aller pour déjeuner.
+{83687}{84700}
+{84712}{84775} |Nous avons de trés belles dorades aujourd'hui.
+{84787}{84800}
+{84812}{84875} |J'en porte pour tout le monde ?
+{84887}{84975} |Nous voulons la spécialité.
+{84987}{85200}
+{85212}{85300}Vous m'avez entendu,|serveur chinois ?
+{85312}{85350} |Nous voulons la spécialité.
+{85362}{85425}La spécialité c'est pour|les grandes occasions.
+{85437}{85450}
+{85462}{85550} |Je ne peux pas vous la donner.
+{85562}{85600}
+{85612}{85675} |Mais... c'est...
+{85687}{85700}
+{85712}{85775} |une grande occasion.
+{85787}{85850} |C'est... son anniversaire.
+{85862}{85900}
+{85912}{85975} |Un anniversaire est une grande occasion.
+{85987}{86075}Donc je vais servir la spécialité|pour tout le monde.
+{86087}{86300}
+{86312}{86400}- On dirait qu'il n'y a pas beaucoup d'amateurs.|- Oui, on dirait.
+{86412}{86650}
+{86662}{86750}- Je veux mettre le jeu en pause.|- Huh ?
+{86762}{86775}
+{86787}{86850} |On peut mettre le jeu en pause, non ?
+{86862}{86900}Je veux dire, tous les jeux|peuvent être mis en pause, exact ?
+{86912}{87000}Ouais, bien sûr.|Mais pourquoi ? Qu'est ce qui cloche ?
+{87012}{87100}Tu ne meurs pas d'envie de voir ce qu'il y a|de spécial dans la spécialité ?
+{87112}{87125}
+{87137}{87225}Je me sens... un peu déconnecté|de ma vraie vie.
+{87237}{87300} |J'ai l'impression de perdre le fil.
+{87312}{87375}Tu vois ce que je veux dire ?|En ce moment, je crois...
+{87387}{87450}qu'il y a une bonne part de psychose|là-dedans.
+{87462}{87525} |Oui. C'est trés bon signe.
+{87537}{87625}Ca signifie que ton système nerveux adopte pleinement|la configuration du jeu.
+{87637}{87725}
+{87737}{87825} |eXistenZ en pause !
+{87837}{88175}
+{88187}{88250} |J'ai fait ça ?
+{88262}{88275}
+{88287}{88325} |On dirait que oui.
+{88337}{88375}
+{88387}{88475}- Alors, ca a l'air de quoi ?|- Quoi ?
+{88487}{88550}
+{88562}{88625} |Ta vraie vie.
+{88637}{88675} |Celle pour laquelle tu es revenu.
+{88687}{88750} |Ca a l'air totalement irréel.
+{88762}{88850}Tu es accro maintenant|n'est ce pas ?
+{88862}{88950}tu veux retourner au restaurant chinois|parce qu'ici il ne se passe rien.
+{88962}{88975}
+{88987}{89075}On est tranquilles.|C'est chiant.
+{89087}{89150}
+{89162}{89250} |C'est pire que ça.
+{89262}{89475}
+{89487}{89525} |Je ne suis pas sûr.
+{89537}{89625}Je..|je ne suis pas sûr qu'ici...
+{89637}{89650}
+{89662}{89700} |là où on se trouve,
+{89712}{89775} |ça soit vraiment la réalité.
+{89787}{89800}
+{89812}{89875} |J'ai l'impression d'être dans un jeu.
+{89887}{89900}
+{89912}{89950} |Et toi,
+{89962}{90050}tu commences à ressembler à|un personnage du jeu.
+{90062}{90200}
+{90212}{90300} |Absolument pas.
+{90312}{90725}
+{90737}{90825} |Retournons.
+{90837}{91550}
+{91562}{91650}La commande spéciale pour|l'anniversaire de la demoiselle.
+{91662}{91825}
+{91837}{91925} |J'espère que ça vous plaiera beaucoup.
+{91937}{92050}
+{92062}{92100} |Regarde, c'est notre ami à deux têtes.
+{92112}{92150} |Il n'a pas l'air en trés bonne santé.
+{92162}{92225} |Je crois que je n'ai plus d'appétit.
+{92237}{92300} |Oh, c'est regrettable.
+{92312}{92375} |Les reptiles et amphibiens mutants dégagent...
+{92387}{92475}des nouvelles sensations de goût|inimaginables.
+{92487}{92500}
+{92512}{92575} |Je dois débarrasser tout ça ?
+{92587}{92600}
+{92612}{92650} |Non.
+{92662}{92700}
+{92712}{92775} |Nous sommes... ravis.
+{92787}{92825}
+{92837}{92900} |Trés bien.
+{92912}{93000} |Bon appétit.
+{93012}{93650}
+{93662}{93725} |Pikul, que fais-tu ?
+{93737}{93750}
+{93762}{93825} |Je ne sais pas.
+{93837}{93925}Je trouve ça dégueulasse,|mais je ne peux rien faire.
+{93937}{93975}
+{93987}{94050}- Bien.|- Bien ? Tu crois que c'est bien ?
+{94062}{94100}
+{94112}{94175} |Ouais, c'est une vraie pulsion de jeu.
+{94187}{94200}
+{94212}{94300}C'est quelquechose que ton personnage doit faire|N'essaie pas de résister.
+{94312}{94325}
+{94337}{94400} |J'essaie de résister,
+{94412}{94500} |mais ca ne me réussit pas du tout.
+{94512}{95575}
+{95587}{95675} |Oh mon Dieu.
+{95687}{95775} |Ca me rappelle quelquechose.
+{95787}{95875}
+{95887}{95950} |T'es sûre que je ne risque rien ?
+{95962}{96050} |Oui... ca devrait aller.
+{96062}{96700}
+{96712}{96775} |Tu as ce bridge dans la vraie vie ?
+{96787}{96875}Absolument pas.|J'ai des dents parfaites.
+{96887}{97625}
+{97637}{97725}Mort au Démon,|Allegra Geller.
+{97737}{97925}
+{97937}{98000} |C'est pas drôle.
+{98012}{98050}
+{98062}{98100} |Pardon.
+{98112}{98175}
+{98187}{98250} |Mais, tu sais,
+{98262}{98275}
+{98287}{98350} |J'éprouve le besoin de tuer quelqu'un ici.
+{98362}{98450} |Qui ?
+{98462}{98575}
+{98587}{98675}- Je dois tuer le serveur.|- Oh,
+{98687}{98775}
+{98787}{98850} |Oui, ça a peut-être un sens.
+{98862}{98900}
+{98912}{98975} |Euh, garçon !
+{98987}{99075} |Garçon !
+{99087}{99125}
+{99137}{99200}Quand il s'approche, tues-le.|N'hésite pas.
+{99212}{99250} |Mais...
+{99262}{99325} |tout dans le jeu est si réaliste, je ....
+{99337}{99350}
+{99362}{99425} |ne pense pas que je pourrai.
+{99437}{99500}Tu ne pourras pas t'empêcher.|Tu pourrais même l'apprécier.
+{99512}{99525}
+{99537}{99575}Le libre arbitre est,|de toute évidence...
+{99587}{99650}pas un facteur trés important|dans ce petit monde.
+{99662}{99775}C'est comme la vraie vie.|Juste assez pour la rendre intéréssante.
+{99787}{99900}
+{99912}{100000}Il est trop gentil.|j'y arriverai pas.
+{100012}{100050}
+{100062}{100125}Que puis-je faire pour rendre votre|déjeuner plus plaisant ?
+{100137}{100150}
+{100162}{100250}J'ai trouvé ça dans ma soupe,|et ca m'a extrêmement contrarié.
+{100262}{101550}
+{101562}{101600} |Tout va bien !
+{101612}{101650} |Juste euh...
+{101662}{101725} |un petit malentendu...
+{101737}{101825} |à propos du chèque.
+{101837}{101925}
+{101937}{102025}Ne faites pas attention,|et savourez vos repas !
+{102037}{102300}
+{102312}{102400}Je ressens une forte pulsion du jeu|qui me pousse à sortir d'ici.
+{102412}{102600}
+{102612}{102675}Par les cuisines.|Par là.
+{102687}{102950}
+{102962}{103000}Vous avez aimé le plat|que je vous ai préparé ?
+{103012}{103050} |Ouais.
+{103062}{103125} |Ce fut trés... révélateur.
+{103137}{103150}
+{103162}{103225} |Oui, ca l'était surtout pour moi.
+{103237}{103300}Vous avez tous les deux franchi brillament|notre petit test.
+{103312}{103350}- Pourquoi le serveur devait-il mourrir ?|- Un serveur entend beaucoup de choses...
+{103362}{103450} |quand les gens se détendent et déjeunent.
+{103462}{103475}
+{103487}{103575} |Les serveurs ont beaucoup d'occasions de trahir.
+{103587}{103675}
+{103687}{103750}- Il vous a trahi ?|- Ils nous a trahis. Nous.
+{103762}{103775}
+{103787}{103825} |Venez... par ici.
+{103837}{103925} |Venez.
+{103937}{104075}
+{104087}{104150} |Ce sont les bassins d'élevage.
+{104162}{104175}
+{104187}{104250}- Bassins d'élevage.|- Est ce que c'est, euh...
+{104262}{104325} |C'est ici que vous avez pris la spécialité ?
+{104337}{104350}
+{104362}{104425}Au début nous élevions|ces crétures mutantes...
+{104437}{104500}pour leur système nerveux,|pour les gamepods,
+{104512}{104525}
+{104537}{104600}puis on a trouvé qu'ils pourraient|être délicieux
+{104612}{104700}Alors on a ouvert le restaurant,|qui nous sert de couverture.
+{104712}{104725}
+{104737}{104800}Mais, bien sûr, nous les élevons aussi|comme des composants...
+{104812}{104875}d'armes indétectables|et hypo-allergéniques ...
+{104887}{104925}
+{104937}{105000} |sous le nez de nos ennemis.
+{105012}{105050} |Et en parlant d'ennemis,
+{105062}{105125}il est important que vous retourniez travailler|à Cortex Systematics.
+{105137}{105150}
+{105162}{105250}Nous avons besoin de garder|le plus d'agents possible.
+{105262}{105300}
+{105312}{105350}TroutFarm appartient|à Cortex Systematics ?
+{105362}{105450}Oui, leur slogan devrait être :|"Les ennemis de la réalité".
+{105462}{105475}
+{105487}{105575}Un de ces jours, nous détruirons TroutFarm|et toutes les pods qui s'y trouvent.
+{105587}{105675}
+{105687}{105750} |Nous vous aimons.
+{105762}{105800}
+{105812}{105900}Maintenant que vous avez prouvé que vous êtes|des bons et loyaux Réalistes.
+{105912}{106025}
+{106037}{106125} |On entrera en contact.
+{106137}{106575}
+{106587}{106675} |Je cherche D'arcy Nader, est-il là ?
+{106687}{106925}
+{106937}{107025} |Hugo Carlaw, D'arcy Nader est-il là ?
+{107037}{107075}
+{107087}{107175} |Il est derrière.
+{107187}{107225}
+{107237}{107325}vous le voulez ?|Le voilà.
+{107337}{107500}
+{107512}{107575}Vous n'auriez pas dû|tuer le serveur chinois.
+{107587}{107600}
+{107612}{107650} |Pourquoi pas ?
+{107662}{107750}C'était votre contact à la ferme.|Un sacré bon gars.
+{107762}{107800}
+{107812}{107875}Son, euh, chien|m'a apporté ça.
+{107887}{107900}
+{107912}{108000}Nous avons été contactés par Yevgeny Nourish.|Il avait l'air de savoir parfaitement qui nous sommes.
+{108012}{108025}
+{108037}{108100}C'est parceque Nader lui a signalé|que vous veniez.
+{108112}{108175}Nader était une taupe|pour Cortical Systematics.
+{108187}{108250}- Vous faites parti de l'Underground Realist|- Oui.
+{108262}{108325} |On m'a placé ici pour garder un oeil sur Nader.
+{108337}{108375}
+{108387}{108450}Si Nourish n'est pas votre vrai contact,|alors qui est-il ?
+{108462}{108475}
+{108487}{108550}Nourish est un agent double pour Cortical Systematics.|Il travaillait avec Nader...
+{108562}{108575}
+{108587}{108675}pour détruire la cause Realist, et bien le faire;|aprés tout, il vous a...
+{108687}{108700}
+{108712}{108800} |fait assassiner votre propre contact.
+{108812}{108875}
+{108887}{108950} |Mais maintenat vous allez le stopper.
+{108962}{109000}
+{109012}{109050} |Je ne veux plus rester ici.
+{109062}{109100}
+{109112}{109125} |Allez, Pikul.
+{109137}{109225}Tu viens juste d'avoir une mauvaise phase d'anxiété,|celle du néophyte.
+{109237}{109250}
+{109262}{109325}J'aime pas les lieux.|Je ne sais pas ce qui se passe.
+{109337}{109425}Nous butons tous les deux|sur ce monde imparfait.
+{109437}{109450}
+{109462}{109525}dont les règles et les objectifs|sont assez inconnus,
+{109537}{109600}apparemment indéchiffrable|voire même probablement inexistants,
+{109612}{109725}toujours sur le qui-vive pour ne pas être tués|par des forces que nous ne comprenons pas.
+{109737}{109775}
+{109787}{109825} |Ca ressemble à mon jeu d'accord.
+{109837}{109900}Ca ressemble à un jeu qui ne va pas|être facile à vendre.
+{109912}{109925}
+{109937}{110025}mais tout le monde|est en train d'y jouer.
+{110037}{110325}
+{110337}{110425}Le caissier a dit qu'il serait|dans un endroit familier.
+{110437}{110450}
+{110462}{110525} |Y a t-il un tel endroit ici ?
+{110537}{110550}
+{110562}{110650} |Mon poste d'assemblage.
+{110662}{111275}
+{111287}{111375} |C'est ça là-bas ?
+{111387}{111825}
+{111837}{111925}C'est laid|même pour un pod.
+{111937}{111975}
+{111987}{112050} |J'ai terriblement envie de m'y connecter.
+{112062}{112150}- Et toi ?|- Bien sûr. Ouais.
+{112162}{112175}
+{112187}{112250}
+{112262}{112350} |Désespérément envie de me connecter.
+{112362}{112450}
+{112462}{112500}D'accord. On y va.|Tu veux me donner un coup de main ?
+{112512}{112600}Tu n'es pas sérieuse.|C'est un pod malade.
+{112612}{112625}
+{112637}{112725}- Tu t'y connectes...|- Oui, exactement.
+{112737}{112750}
+{112762}{112850} |Aide moi.
+{112862}{113025}
+{113037}{113100}Combien de temps met l'infection|à se propager ?
+{113112}{113175}
+{113187}{113250} |C'est instantané.
+{113262}{113275}
+{113287}{113350}Ensuite tu te connectes|à tous les autres pods et...
+{113362}{113450} |tu leur propages l'infection.
+{113462}{113475}
+{113487}{113525} |Oh, non.
+{113537}{113550}
+{113562}{113650}- Qu'est ce qui se passe ?|- Quelquechose ne va pas.
+{113662}{113700}
+{113712}{113775} |Je vais tout de suite te déconnecter.
+{113787}{113800}
+{113812}{113850}Ah, mon Dieu !|Non ! Non !
+{113862}{113950}- Ca fait vraiment... mal.|- Je vais couper le cordon.
+{113962}{114075}
+{114087}{114125} |Oh non ! J'ai peur !
+{114137}{114775}
+{114787}{114825} |Pikul,
+{114837}{114850}
+{114862}{114950} |Je perds tout mon sang.
+{114962}{115200}
+{115212}{115250} |Je suis désolé.
+{115262}{115275}
+{115287}{115350}Je ne sais pas...|Je ne sais pas quoi faire d'autre !
+{115362}{115375}
+{115387}{115450} |Moi je sais quoi faire.
+{115462}{115550} |Je sais exactement ce qu'il faut faire.
+{115562}{115650}
+{115662}{115675} |Mort au Réalisme !
+{115687}{115775}
+{115787}{115825} |Brûle !
+{115837}{115850}
+{115862}{115950} |Brûle , pod malade !
+{115962}{116075}
+{116087}{116150}Des spores !|Non ! Non, des spores !
+{116162}{116200}
+{116212}{116300} |Des spores mortelles !
+{116312}{116450}
+{116462}{116475} |Des spores, non.
+{116487}{116925}
+{116937}{116975} |Mort au Démon !
+{116987}{117050} |Démon !
+{117062}{117250}
+{117262}{117350} |Je crois qu'on vient de perdre la partie.
+{117362}{117475}
+{117487}{117575} |... ou peut-être pas.
+{117587}{117725}
+{117737}{117800}Allegra, on est rentrés à la maison.|On est revenus à la maison.
+{117812}{117825}
+{117837}{117875} |Pikul, Pikul.
+{117887}{117950}
+{117962}{118050}- Qu'est ce qui se passe ? Qu'est ce qui cloche ?|- Elle est ici.
+{118062}{118075}
+{118087}{118175}C'est arrivé.|Elle est revenue ici avec nous.
+{118187}{118250} |Nous l'avons ramenée d'eXistenZ.
+{118262}{118275} |Ramené quoi ?
+{118287}{118325} |Nous avons ramené la maladie avec nous.
+{118337}{118400} |Mon pod est atteint.
+{118412}{118425}
+{118437}{118500}Oh mon Dieu.|Je vais vraiment le perdre.
+{118512}{118525}
+{118537}{118600} |Je vais perdre mon jeu.
+{118612}{118675}Débranche moi.|Vite. Débranche moi.
+{118687}{118700} |D'accord.
+{118712}{118800}Ok. J'arrive.|J'arrive.
+{118812}{118875}
+{118887}{118925} |C'est... c'est impossible.
+{118937}{119000}comment un évènement d'un jeu peut-il|se mélanger à la vrai vie ?
+{119012}{119100}Il y a un étrange rapport entre le sang| et les faits qui arrivent ici.
+{119112}{119125}
+{119137}{119225}Je ne suis pas sûre de comprendre.|Allez, mon bébé.
+{119237}{119275}
+{119287}{119325} |Allez.
+{119337}{119400} |Qu'y a t-il dans la seringue ?
+{119412}{119500}C'est un sporicide.|Les pods sont sujets aux infections par les spores.
+{119512}{119600}Ca peut marcher si c'est fait à temps.|Allez. Allez.
+{119612}{119700}
+{119712}{119775}- Fais-moi voir ton bio-port.|- Quoi ?
+{119787}{119825} |Laisse-moi voir !
+{119837}{119900} |Quoi ?
+{119912}{120000}Je sais ce qui est arrivé.|C'est Kiri Vinokur, ce bâtard !
+{120012}{120025}
+{120037}{120125}- Vinokur ?|- Il t'a donné un nouveau bio-port, non ?
+{120137}{120175} |Oh, mon Dieu.
+{120187}{120275}Il t'a donné un bio-port infecté pour que le mien meure|ainsi que mon jeu avec !
+{120287}{120300}
+{120312}{120375}Je suis infecté ?|Attends un peu.
+{120387}{120450}Le pauvre essayait de nous dire|qu'il était contaminé...
+{120462}{120500}en introduisant le thème de la maladie|à l'intérieur du jeu.
+{120512}{120575}Le thème de la maladie ?|Bordel, je suis vraiment infecté !
+{120587}{120675}- Quoi, ca va me remonter le long du dos jusqu'au cerveau ?|- D'accord. D'accord.
+{120687}{120700}
+{120712}{120800}Calme toi.|J'ai quelquechose qui va t'aider.
+{120812}{120900}
+{120912}{120950} |Retourne toi.
+{120962}{121000}
+{121012}{121100}J'obture ton bio-port|avec ce résonateur sporicide.
+{121112}{121175} |Il s'alimente sur les prises de l'Umbycâble.
+{121187}{121275}Ca devrait nettoyer tous tes canaux infectés|en quelques heures.
+{121287}{121300}
+{121312}{121400}Tu ressentiras un léger signal épidermique|quand ca sera fini.
+{121412}{121475}- Bien sûr, on ne peut pas jouer pendant ce temps.|- Super.
+{121487}{121550}Maintenant, écoute.|Ecoute.
+{121562}{121575}
+{121587}{121650}C'est extrêmement grave.|Tu es vraiment certaine...
+{121662}{121675}
+{121687}{121750}- que Vinokur est un agent de...|Oh, mon Dieu.
+{121762}{121775}
+{121787}{121875}Pikul, mon pod est|en train de mourrir.
+{121887}{121900}
+{121912}{122000}Je ne peux pas l'aider.|Je ne peux rien faire.
+{122012}{122475}
+{122487}{122575}La rébellion a commencé !|Le monde est en flammes ! Allons-y !
+{122587}{122625}Vous devez sortir d'ici !|Ils vont vous rechercher !
+{122637}{122725}Le caissier. C'est un personnage du jeu.|Comment peut-il être ici ?
+{122737}{122825}Laissez ce morceau de viande pourrie ici !|Il a fait son temps !
+{122837}{122850}
+{122862}{122875}Il y a mon jeu à l'intérieur.|Je ne peux pas le laisser mourrir. Non !
+{122887}{122925} |Attendez !
+{122937}{123250}
+{123262}{123325}Allegra, écoute-moi.|Ecoute-moi !
+{123337}{123350}
+{123362}{123400}Je pense qu'on est toujours|dans le jeu.
+{123412}{123475}Je pense que ton pod est quelquepart ailleurs,|dans un endroit sûr.
+{123487}{123550}Je pense qu'il faut laisser partir celui-là|ce pod.
+{123562}{123575}
+{123587}{123675} |Ce n'est pas le vrai.
+{123687}{123750}
+{123762}{123850}Tout le monde dehors !|Maintenant !
+{123862}{123975}
+{123987}{124075}Par là ! Allez !|Suivez-moi !
+{124087}{124150}
+{124162}{124200} |Par là ! Allez !
+{124212}{124250}
+{124262}{124350} |Là-haut !
+{124362}{124425}
+{124437}{124500}- Vous pouvez tout voir d'ici !|- Qu'est ce qu'on peut voir ?
+{124512}{124600} |La victoire du Réalisme,
+{124612}{124675} |et vous y avez contribué.
+{124687}{124725}
+{124737}{124825}La mort d'eXistenZ,|et on y a contribué.
+{124837}{124875}
+{124887}{124950} |Il reste juste un petit détail.
+{124962}{124975}
+{124987}{125050} |Nous sommes dans votre camp !
+{125062}{125075}
+{125087}{125100} |Ah ouais ?
+{125112}{125200}comment Allegra Geller, la plus grande créatrice de jeu au monde,|peut être des nôtres ?
+{125212}{125225}
+{125237}{125300}Eh oui.|Nous savons qui tu es.
+{125312}{125375}Tu ne peux pas te cacher|éternellement dans un jeu.
+{125387}{125475}Les limites ont été dépassées, Allegra.|Par quelquechose de pas bon du tout.
+{125487}{125575}Tu vois ce que je veux dire ?|Tu vois le problème ?
+{125587}{126000}
+{126012}{126050}Je vous ai cherchés.|Dieu merci, je vous ai retrouvés à temps.
+{126062}{126125} |Mon chien m'a rapporté çà.
+{126137}{126150}
+{126162}{126200} |Vous n'êtes pas arrivé à temps !
+{126212}{126300}Mon jeu est mort !|Vous avez assassiné mon jeu !
+{126312}{126325}
+{126337}{126375}Non. |J'ai tué ton pod.
+{126387}{126400}
+{126412}{126500}- Ton jeu est en pleine santé et heureux.|- Non.
+{126512}{126600}J'ai dupliqué le sytème nerveux tout entier|de ton pod...
+{126612}{126675}pendant notre petite intervention|chirurgicale, au châlet.
+{126687}{126775} |Avec toutes ses données.
+{126787}{126850}Vous avez copié eXistenZ ?
+{126862}{126900}
+{126912}{126950} |Allegra,
+{126962}{127025} |rejoins la Cortical Systematics.
+{127037}{127100}Oui. Oui.|Cortical Systematics.
+{127112}{127125}
+{127137}{127200} |Je pars chez eux avec l'elite d'Antenna.
+{127212}{127275}Vous êtes un espion|pour Cortical Systematics ?
+{127287}{127375}Si tu veux retrouver ton pod,|tu dois nous rejoindre.
+{127387}{127650}
+{127662}{127750}Essayez de la convaincre !|Ce serait préférable pour tout le monde.
+{127762}{127850}C'est que, vous pouvez venir|avec nous, vous aussi.
+{127862}{128050}
+{128062}{128125} |Qu'est ce que tu fous, bordel ?
+{128137}{128150}
+{128162}{128225} |Tu l'as tué.
+{128237}{128275}
+{128287}{128350} |Tu me tueras moi aprés ?
+{128362}{128375}
+{128387}{128450} |Pikul, c'était juste un personnage.
+{128462}{128500}Il commençait à me prendre la tête|je déteste ça.
+{128512}{128575}Tu n'aimes pas ça ?|Alors tu l'as tué.
+{128587}{128600}
+{128612}{128650} |Ce n'est qu'un personnage du jeu.
+{128662}{128750} |Allegra, et si nous n'étions plus dans le jeu ?
+{128762}{128800}
+{128812}{128875}Si...|Si on n'y est pas...
+{128887}{128900}
+{128912}{129000}Si on n'y est pas, alors|tu viens de tuer quelqu'un de réel.
+{129012}{129175}
+{129187}{129275}Ca n'était pas un hasard|si on a fui ensemble tous les deux.
+{129287}{129300}
+{129312}{129400}- Pas un hasard ?|- Non.
+{129412}{129450}
+{129462}{129550}Voilà pourquoi tu n'as jamais eu de bio-port.|Tu étais un des leurs.
+{129562}{129650}Je suis toujours|un des leurs.
+{129662}{129750}- Mais tu as un bio-port maintenant.|- J'ai fait ce sacrifice pour me rapprocher de toi.
+{129762}{129775}
+{129787}{129875}- Pourquoi voudrais-tu cela ?|- Pour pouvoir comprendre ce que je dois tuer.
+{129887}{129900}
+{129912}{129950} |Alors comprends bien ceci.
+{129962}{129975}
+{129987}{130050}Je savais que tu étais|mon vrai assassin...
+{130062}{130150}Quand tu as pointé ton arme vers moi|au restaurant chinois.
+{130162}{130250}Et comprends que...|tu es mort.
+{130262}{130425}
+{130437}{130525}Mort au Démon,|Ted Pikul !
+{130537}{130675}
+{130687}{130750} |J'ai gagné ?
+{130762}{130825} |J'ai gagné la partie ?
+{130837}{130950} |J'ai gagné ?
+{130962}{131900}
+{131912}{131975} |Vous êtes tous revenus ?
+{131987}{132050}On est de retour.|De retour, Merle,
+{132062}{132075}
+{132087}{132175}mais j'ai l'impression que certains|ne le réalisent pas encore.
+{132187}{132275}
+{132287}{132375}Ouah ! Personne ne veut un bol|de soupe chaude et amère ?
+{132387}{132400}
+{132412}{132450} |C'est ma tournée.
+{132462}{132475}
+{132487}{132575}Oui, j'en prendrai un peu... si tu t'assures|qu'il y a un peu de nerfs...
+{132587}{132600}
+{132612}{132675} |d'amphibiens mutants dans le riz.
+{132687}{132750}Vous savez,|mon accent dans le jeu...
+{132762}{132825}était si prononcé.|J'avais du mal à me comprendre.
+{132837}{132875}- Combien de temps sommes nous partis ?|- Environ 20 minutes.
+{132887}{132950}Ca ressemblait à des jours.|C'est fantastique.
+{132962}{133000}Pense à ça, mec.|Si tu étais resté toute ta vie...
+{133012}{133075}dans le monde du jeu,|alors tu pourrais vivre jusqu'à environ...
+{133087}{133125}Je sais pas,|euh, 500 ans.
+{133137}{133175}
+{133187}{133275}Les zigzagues à la fin m'ont fait,|euh, tourner la tête.
+{133287}{133350}Il devait y avoir beaucoup trop|de choses à absorber.
+{133362}{133375}
+{133387}{133450}Euh, j'ai merdé,|mais vous, vous avez étés super tous les deux.
+{133462}{133525} |Vous avez joué comme des dieux.
+{133537}{133550}
+{133562}{133650}Personellement, je pense que|tous les deux méritez de gagner.
+{133662}{133775}
+{133787}{133850} |Je...  j'ai vraiment galéré au début.
+{133862}{133900} |J'ai quitté le jeu si vite.
+{133912}{133975}C'était fantastique comme tu étais méchant.|C'était vraiment fou et effrayant.
+{133987}{134075}J'ai eu beaucoup à faire dans la première scène|à l'église, mais ...
+{134087}{134125} |J'ai trouvé que le personnage était ennuyeux.
+{134137}{134225}Bien, peu importe si tu étais ennuyeux,|vous aurez tous un certificat,
+{134237}{134300} |un certificat pour votre contribution.
+{134312}{134350} |Et, euh, c'est bien ça, Merle ?
+{134362}{134425}Oui, et ça vous permettra de |pouvoir réserver une des premières versions ...
+{134437}{134500} |du jeu transCendenZ de chez PilgrImage...
+{134512}{134575}à arriver sur le marché|à un prix trés avantageux.
+{134587}{134650}Vous allez adorer.|Souvenez-vous, ca s'écrit comme ça:
+{134662}{134725}"C" majuscule, "Z" majuscule,|transCendenZ.
+{134737}{134800}C'est nouveau. De chez PilgrImage,|"P" majuscule, "I" majuscule,
+{134812}{134825}
+{134837}{134925}- et ça sort bientôt.|- Je veux juste remercier M. Nourish pour ...
+{134937}{134950}
+{134962}{135050}m'avoir permis de jouer le rôle|d'une grande créatrice de jeu.
+{135062}{135075}
+{135087}{135175}Je pense que le jeu a exploté mon désir|de vous prendre pour modèle.
+{135187}{135250}Allegra, vous étiez si bonne |dans ce rôle que ...
+{135262}{135350}Je pense que Pilgrimage de tardera pas|à vous faire signer un contrat.
+{135362}{135450}Et, euh, vous pourriez peut-être|emmener avec vous votre ami Ted, M. Pikul.
+{135462}{135475}
+{135487}{135525}Il s'en sort trés bien dans|les situations critiques,
+{135537}{135600}et quand vous créez des jeux,|il y en a tellement.
+{135612}{135625}
+{135637}{135725}Vous avez sûrement compris que Pikul et moi|nous nous connaissions avant de venir ici.
+{135737}{135750}
+{135762}{135850}- Nous aimons vraiment jouer ensemble.|- Tout à fait.
+{135862}{135875}
+{135887}{136000}Mais, je voudrais juste assurer à tout le monde,|que Allegra ne...
+{136012}{136100}sauterait jamais vraiment dans le lit d'un garde du corps...|à moins que ce soit moi.
+{136112}{136175}
+{136187}{136225}Et bien, euh, qu'avons nous à dire|à notre brillant,
+{136237}{136300} |gagnant du concours des créateurs de jeu, Yevgeny nourish ?
+{136312}{136400}A t-il un autre succés|sous la main, ou pas ?
+{136412}{136775}
+{136787}{136875}Merle,  le jeu que nos venons de faire|m'a beaucoup troublé.
+{136887}{136975}- C'est à dire ?|- J'ai ressenti un trés fort,
+{136987}{137050} |thème d'anti-jeu, et trés réel.
+{137062}{137125}Ca a commencé avec la tentative d'assassinat|d'une créatrice de jeu.
+{137137}{137225}Vraiment ? C'est ...|C'est trés créatif.
+{137237}{137275}
+{137287}{137350}A bien y réfléchir, je... vois|ce que tu veux dire. C'est plutot inqiétant.
+{137362}{137450}Tu penses que... cela provient|de l'un des joueurs ?
+{137462}{137525}Ben, en tous cas,|ça ne venait pas de moi.
+{137537}{137550}
+{137562}{137650}Il faut absolument tirer ça au clair|quand on sera au séminaire.
+{137662}{137700}
+{137712}{137800}Merci.|Merci de vous être occupée de mon chien.
+{137812}{138050}
+{138062}{138100} |Salut.
+{138112}{138150}
+{138162}{138250}Nous voulions juste poser à M. Nourish|quelques questions à l'écart des autres.
+{138262}{138325}- Ouais|- Bien sûr, allez-y.
+{138337}{138425}Tant que vous ne me demandez pas|de remplir un questionnaire.
+{138437}{138475}
+{138487}{138550}Nous venons de jouer à votre jeu,|on est donc maintenant d'accord avec les autres...
+{138562}{138650}que vous êtes en effet|le plus grand créateur de jeu au monde.
+{138662}{138725} |Nous n'étions pas sûrs... avant.
+{138737}{138800}- Ben, merci beaucoup.|- Yevgeny ?
+{138812}{138825}
+{138837}{138900}Ne pensez-vous pas que vous devriez payer|pour tout le tort que vous avez créé ?
+{138912}{138975}et que vous continuez faire|à toute l'humanité ?
+{138987}{139050}- Quoi ?|- Oui.
+{139062}{139150}Pensez-vous que le meilleur créateur|de jeux au monde doive être puni ...
+{139162}{139250}pour la contrefaçon la plus éfficace|de la réalité ?
+{139262}{139275}
+{139287}{139375}je ne pense pas que cela soit trés...|Les gars, vous pouvez venir par ici, s'il vous plait ?
+{139387}{139800}
+{139812}{139900}Mort au démon,|Yevgeny Nourish !
+{139912}{139975} |Mort à PilgrImage !
+{139987}{140075} |Mort à transCendenZ !
+{140087}{140550}
+{140562}{140650}Non. Non. Non. Non.|Vous n'avez pas à me tuer.
+{140662}{140675}
+{140687}{140800}Hé, dites moi la vérité.|On est toujours dans le jeu ?
+{140812}{140824}

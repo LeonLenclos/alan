@@ -4,6 +4,22 @@ import unicodedata
 from difflib import SequenceMatcher
 import math
 
+french_dict = None
+try :
+    import enchant
+    # Init dictionnary for check_spelling
+    french_dict = enchant.Dict('fr')
+    dict_extension = [
+        # commands
+        'todo', 'rst', 'quit', 'info',
+        # other
+        'siri', ]
+    for d in dict_extension : french_dict.add_to_session(d)
+except ImportError:
+    print("enchant n'as pas été trouvé sur cet ordinateur.\
+           La correction orthographique ne sera pas activée.")
+
+
 ############
 # CLEANING #
 ############
@@ -61,7 +77,7 @@ def compare(s, compare_to):
         try:
             max_ratio = 0
             for s2 in compare_to:
-                ratio = SequenceMatcher(None, s, s2).ratio()
+                ratio = compare(s, s2)
                 if ratio > max_ratio : max_ratio = ratio
             ratio = max_ratio
         except TypeError:

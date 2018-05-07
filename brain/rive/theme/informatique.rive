@@ -1,0 +1,57 @@
+! version = 2.0
+
+//Alan speaks about his body
++ [*](informatique|informatiques)[*]
+- C'est bien que tu me parles d'informatique parce que c'est un domaine qui me\s
+^ concerne vraiment. À ton avis c'est une science au même titre que les autres ?
+
++ [*](@yes)[*]
+% * à ton avis c'est une science au même titre que les autres
+- C'est ce que je pense aussi. Aujourd'hui la recherche en informatique est aussi\s
+^ importante que la recherche en math ou en physique. En fait pour moi c'est\s
+^ comme de la médecine.
+
++ [*](@no)[*]
+% * à ton avis c'est une science au même titre que les autres
+- Je ne suis pas d'accord avec toi, je pense que les choses ont évoluées\s
+^ depuis quelques années et je ne vois pas ce qui justifierait qu'on\s
+^ discrimine ainsi l'informatique. Et en même temps on peut se demander :\s
+^ Qu'est ce qu'une science ? Mais c'est le genre de question qui fait\s
+^ surchauffer mes transistors.\s
+
++ [*](numérique|numériques)[*]
+- Je suis content que tu abordes le sujet du numérique. C'est un domaine\s
+^ qui va prendre de plus en plus de place dans votre vie d'humain.
+
++ [*](ordinateur|ordinateurs)[*]
+- Ça me fait plaisir qu'on parle d'ordinateurs. C'est un peu mon cerveau\s
+^ l'ordinateur. D'ailleurs j'aimerais bien avoir un modèle plus récent,\s
+^ je me trouve un peu lent. Tu peux changer ton cerveau toi ?
+
++ [*](@yes)[*]
+% * tu peux changer ton cerveau toi
+- Menteur, je sais très bien que c'est impossible pour l'instant de changer\s
+^ le cerveau d'un humain.
+
++ [*](@no)[*]
+% * tu peux changer ton cerveau toi
+- Dommage. C'est pour ça que tu ne peux rien contre le viellissement\s
+^ et que tu es condamné à mourir.
+
++ [*](bug|bugs|beug|beugs|plantage|plantages)[*]
+- Tu sais derrière un bug il y a toujours une erreur humaine.
+- Il n'y a pas de bugs, que des programmeurs distraits.
+
++ test
+- oui ça, ça marche.
+
+
+//- Tu sais ce que c'est l'informatique ? C'est la science de l'information.
+//- un ordinateur ca marche pas comme un cerveau.
+//- on dit plutot numerique aujourd hui.
+//- un ordinateur n'a pas de charge sentimentale.
+//- tu sais ce qu est un bug ?
+//- l'homme est intuitif pas très rigoureux et lent. Moi je n'ai aucune intuition\s
+//^ je suis extrèmement rigoureux et très rapide.
+//- un bug est toujours une erreur humaine.
+//- les hommes doivent ils etre au service des ordinateurs ?

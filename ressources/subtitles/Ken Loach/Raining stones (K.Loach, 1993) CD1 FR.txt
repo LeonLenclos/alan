@@ -1,0 +1,736 @@
+{1213}{1276}Vite Tommy ! J'en ai un !
+{1492}{1516}Reviens !
+{2043}{2088}Reste là, il va venir.
+{2100}{2145}Y en a un tout seul là.
+{2346}{2376}Par derrière.
+{2553}{2610}Par derrière, doucement.
+{2978}{3014}Vas-y, chope-le !
+{3023}{3068}Chope-le !
+{3077}{3110}Tu l'as !
+{3119}{3143}Coince-le !
+{3158}{3206}Je l'ai ce con.
+{3218}{3251}Tiens-le bien.
+{3275}{3308}J'en fais quoi ?
+{3845}{3881}Viens là toi !
+{3890}{3956}Doucement, j'y arrive pas !
+{4072}{4129}Il a chié partout !
+{4498}{4558}Fais gaffe, c'est bouillant.
+{4591}{4630}Je suis naze !
+{4828}{4900}Le coup du lapin,|il tombe raide mort.
+{4912}{4989}Un coup sec, brusque et dur.
+{5112}{5205}Cogne-le derrière la tronche.|Un bon gros gnon !
+{5214}{5250}Où ça ?
+{5259}{5328}Derrière la tête,|en travers des épaules.
+{5409}{5457}Mets le paquet !
+{5466}{5505}Vas-y, allez vas-y !
+{5589}{5664}Frappe-le sur la tête.
+{5715}{5748}T'attends quoi ? Cogne !
+{5757}{5802}Si on le vendait sur pattes ?
+{5811}{5883}Au boucher ? Il nous|arnaquerait ! Cogne-le Bob !
+{5892}{5948}Facile de commander, fais-le !
+{5957}{6062}Tue-le, je le dépouillerai.|Je te le pèlerai comme une orange !
+{6074}{6110}Vas-y, un bon gnon.
+{6119}{6182}Allez mec, cogne-le !
+{6290}{6347}De ce côté, grouille.
+{6371}{6398}Merde, mon thé !
+{6407}{6467}Putain, mais tiens-le ce con.
+{6476}{6521}Je l'ai presque eu là.
+{6530}{6572}Il se laisse pas faire, hein ?
+{6581}{6638}Ça donne quoi un mouton ?
+{6647}{6692}La gale si tu mets pas|de capote !
+{6701}{6770}Très intelligent, bidonnant.|Je suis sérieux.
+{6779}{6848}Du mouton ducon.|Qu'est-ce que tu crois ?
+{6857}{6923}Oui mais quoi ? Montre-moi.
+{6931}{7057}Quatre gigots, des épaules,|des côtelettes. Sens ses côtes !
+{7066}{7141}- Beaucoup ?|- Oui, il a la cote !
+{7156}{7246}Non mais, tu peux pas|être sérieux deux minutes ?
+{7258}{7318}Compte-les : 10, 11, 12...
+{7327}{7378}Minute ! Une...
+{7459}{7495}T'auras ta part tu sais.
+{7504}{7561}Putain, tu sens ça ?
+{7570}{7645}Je croyais que c'était toi.|Il a pété. Amène-le.
+{7654}{7723}Tiens-le, je l'assomme.
+{7732}{7810}On l'achève.|Allez, vas-y. Cogne.
+{7834}{7888}T'as vu ça|dans le Kama sutra ?
+{7897}{7944}Arrête ! Vas-y, frappe-le !
+{7998}{8079}J'aurais dû me débrouiller seul.|T'es nul.
+{8118}{8160}Fais gaffe. M'assomme pas.
+{8169}{8220}Vas-y, une bonne beigne.
+{8241}{8268}Prêt ?
+{8295}{8322}Vas-y, c'est ça !
+{8367}{8430}Et merde, on l'emmène|chez le boucher.
+{8439}{8493}Couille molle !
+{8772}{8820}Allez glandu, regarde par ici.
+{8829}{8859}Klaxonne un coup.
+{8868}{8910}Vachement discret !
+{8972}{9041}Non. Va lui parler,|je passe par derrière.
+{9062}{9080}Vas-y !
+{9089}{9137}Grouille-toi alors.
+{9695}{9779}Y en a assez|pour toute la ville. Regarde ça.
+{9788}{9821}Salut Bob.
+{9866}{9919}Tu te fiches de moi, hein ?
+{9934}{10021}C'est du mouton ça.|Les gens veulent de l'agneau.
+{10030}{10075}C'est pas démodé !
+{10084}{10159}Je dis pas ça.|T'en as pour 14 livres là.
+{10168}{10219}- Combien ?|- 14 livres. Et encore !
+{10234}{10291}Le dernier m'a rapporté|30 livres !
+{10300}{10321}Pas du mouton.
+{10330}{10375}Sur la tête de ma fille.|30 livres !
+{10384}{10447}T'as encore tout faux.
+{10456}{10540}Tu peux rien faire ?|Regarde...
+{10549}{10588}Il est balèze.
+{10597}{10636}Fais voir.
+{10711}{10738}Putain !
+{10747}{10774}Balèze, hein ?
+{10789}{10834}Balèze ? Il schlingue, ouais !
+{10843}{10864}Il a chié
+{10873}{10899}dans mon camion !
+{10908}{10929}Arrête de râler.
+{10938}{10983}Je peux rien en faire moi.
+{10992}{11031}On peut pas le ramener !
+{11058}{11136}Tu le tues et tu nous|le découpes ou quoi ?
+{11169}{11214}Amenez-le dans l'arrière-salle.
+{11223}{11277}Lui arrachez pas la tête,|merde !
+{11286}{11361}- J'arracherais bien la sienne !|- Moi la tienne !
+{11370}{11430}Tu râles depuis ce matin !
+{11583}{11685}Je vous fais ça mais|vous m'installez mon chauffage.
+{11694}{11718}Ça marche.
+{11727}{11808}Le mec a commencé,|je l'ai payé puis il s'est tiré.
+{11817}{11877}On ne peut faire confiance|à personne.
+{11891}{11909}Ça marche.
+{11918}{11972}Tiens sa tête au dessus du seau.
+{12038}{12062}Tommy, côté cul.
+{12080}{12161}Bob, attrape ses oreilles.|Tire-les en arrière.
+{12170}{12194}Je les tire, merde !
+{12203}{12230}Coupe, merde.
+{12278}{12320}Le salaud !
+{12329}{12392}Putain,|il lui a coupé la gorge !
+{12416}{12572}"Avant de communier j'écoute|attentivement le prêtre.
+{12581}{12698}"Je demande pardon à Dieu si|j'ai entaché mon amour pour Lui
+{12707}{12782}"en faisant quelque chose|qui Lui déplaît.
+{12797}{12895}"Je reste sans boire ni manger|pendant une heure.
+{12904}{12955}"Ce n'est pas très long
+{13003}{13114}"et c'est pour me faire penser|au Fils de Dieu qui va venir.
+{13129}{13246}"Avant de communier|j'écoute attentivement
+{13255}{13333}"le prêtre.|Je dis à Dieu
+{13342}{13417}"que je veux ressembler à Jésus
+{13426}{13525}"et que je veux Le rejoindre|dans la communion."
+{13552}{13579}Très bien !
+{13633}{13672}Merci Coleen.
+{13741}{13771}Vous voyez,
+{13810}{13887}l'Eglise,|notre sainte mère l'Eglise,
+{13896}{14004}a décidé que lorsqu'un enfant|atteint l'âge de raison, sept ans,
+{14013}{14118}c'est le moment de le préparer|à sa première communion.
+{14127}{14256}Les parents doivent lui parler|de la grande famille de Dieu,
+{14265}{14376}expliquer que la communion|le rapproche du Christ.
+{14823}{14894}- Je prends le bar.|- Moi la salle.
+{15083}{15155}Putain, tu commences tôt !
+{15398}{15461}Bonjour,|c'est votre jour de chance.
+{15470}{15527}Regardez : du mouton extra !
+{15536}{15575}En direct des champs !
+{15584}{15620}2,50 livres le gigot.
+{15629}{15704}Comment non ?|C'est de la belle viande ça !
+{15713}{15749}Non ? C'est sûr ?
+{15758}{15815}Vous êtes végétariennes ?|Tant pis !
+{15925}{16006}Vise ça :|du vrai mouton anglais.
+{16054}{16093}Désolé, je suis fauché.
+{16114}{16168}Je sais ce que c'est, va.
+{16186}{16210}Un petit plaisir ?
+{16327}{16396}Salut tout le monde.|Regardez-moi ça !
+{16405}{16477}Du vrai mouton anglais.|Regardez ce gigot !
+{16486}{16540}Je viens de faire les courses.
+{16573}{16606}Salut Walt.
+{16693}{16774}Regardez-moi ce gigot de mouton.|Il est beau, non ?
+{16783}{16807}Combien ?
+{16816}{16848}2,50.
+{16893}{16914}Je t'en donne 2 livres.
+{16923}{16938}2,25.
+{16947}{16989}Non. 2 livres ou rien.
+{16998}{17058}C'est vendu !|Vous voulez un sac ?
+{17094}{17121}T'as des côtelettes ?
+{17130}{17193}Ouais, elles sont là.
+{17202}{17283}Et toi Cissie ?|De la poitrine ? Des côtelettes.
+{17292}{17340}- C'est combien ?|- 1,50 livre.
+{17349}{17382}Un peu chaudes, non ?
+{17478}{17529}Salut l'Irlandais.
+{17562}{17592}M'appelle pas comme ça.
+{17601}{17643}C'est ton jour de chance.
+{17652}{17667}Vise ça.
+{17676}{17712}Dégage.
+{17721}{17784}C'est pas très gentil ça.
+{17793}{17846}Casse-toi, tu piges ?
+{17855}{17897}A qui tu crois parler|l'Irlandais ?
+{17906}{17957}Le dernier des cons ?
+{17966}{18026}Mort subite ou mâchoire cassée ?
+{18041}{18116}Tire-toi ou je te transforme|en paillasson.
+{18131}{18158}Okay l'Irlandais.
+{18167}{18203}Quand tu veux.
+{18224}{18305}Quelque chose|pour le week-end les gars ?
+{18404}{18434}Bon Dieu...
+{18443}{18461}Alors ?
+{18470}{18575}Que dalle. Rien vendu.|Même pas pu le donner ! Et toi ?
+{18584}{18608}4,50 livres.
+{18620}{18665}4,50 livres ! C'est tout ?
+{18674}{18737}On devait pas se faire|des couilles en or ?
+{18746}{18844}Merde Bob, un peu de patience.
+{18868}{18964}Faut qu'on essaye d'autres pubs.|Le Horse and Jockey...
+{18973}{19081}Je vais même essayer à Rhodes.|Alors ?
+{19162}{19228}- On se boit une pinte d'abord ?|- Une demie.
+{19285}{19360}File-moi ta viande,|je mets ça dans le camion.
+{19381}{19456}Pardon, je peux avoir|deux demi-pintes ?
+{19504}{19570}Commande-moi un pâté en croûte,|tu veux ?
+{19630}{19681}Et un pâté en croûte.
+{19977}{20013}Salut Tony.
+{20145}{20217}Dis, tu te souviens,|tu me dois 5 livres ?
+{20226}{20292}- Bob te les a pas filées ?|- J'ai rien vu.
+{20301}{20358}Il exagère !|Tu les auras bientôt.
+{20367}{20409}Okay. Salut Tommy.
+{20619}{20658}Comment va Joe ?
+{20667}{20700}Joe Young ?
+{20709}{20754}Il est tombé d'un toit.
+{20763}{20813}Je sais. Il bossait au noir.
+{20822}{20873}Donc pas de sécu.
+{20882}{20975}On fait une collecte|pour l'envoyer à Lourdes.
+{20996}{21101}On envoie un gosse de Liverpool|en fauteuil roulant à Lourdes.
+{21122}{21200}Avec ses jambes tordues il ne peut|pas se mettre dans l'eau.
+{21209}{21254}On loue une petite grue,
+{21263}{21374}on le soulève avec son fauteuil|et on le plonge dans l'eau.
+{21383}{21488}On le ressort : ses jambes sont|toujours aussi tordues.
+{21497}{21578}Mais y a deux pneus neufs|sur le fauteuil !
+{21952}{21982}Où est le camion ?
+{21994}{22012}Il est plus là.
+{22021}{22081}- Je vois ! Où il est ?|- Je sais pas.
+{22090}{22129}Il était là il y a 10 minutes.
+{22138}{22177}Et les clés ?
+{22276}{22312}Tu les as laissées dessus ?
+{22321}{22408}Putain d'andouille de mes deux !|J'ai bien envie de...
+{22417}{22480}Merde,|c'est peut-être les flics.
+{22489}{22552}T'avais pas de vignette, rien.
+{22597}{22654}Vous n'avez pas vu|un camion vert ?
+{22663}{22702}- Un quoi ?|- Un camion vert.
+{22738}{22794}- On l'a piqué ?|- En 10 minutes !
+{22803}{22881}Les salauds ! Ils vous plument|en un rien de temps.
+{22890}{22968}Les gars, vous n'avez pas vu|un camion vert ?
+{22983}{23019}T'as vu personne ?
+{23028}{23058}J'ai rien remarqué.
+{23067}{23106}Je vais faire quoi ?
+{23115}{23235}Je suis foutu sans ce camion.|Qu'est-ce que je vais faire ?
+{23253}{23319}Wally, on a piqué le camion !
+{23346}{23367}Avec la viande ?
+{23376}{23484}Tout. Ils ont tout pris.|Je peux rien dire aux flics,
+{23493}{23544}je n'ai pas de vignette,|ni d'assurance.
+{23553}{23631}Le contrôle de sécurité|était déjà trop cher.
+{23640}{23673}Ça coûte que 20 livres.
+{23682}{23721}Je les ai pas.
+{23730}{23774}Qu'est-ce que je vais faire ?
+{24898}{24937}Et ta clé ?
+{24952}{24997}Coleen était comment ?
+{25021}{25120}Absolument fantastique.|T'aurais dû être là !
+{25132}{25195}Le père Barry|lui a demandé de lire.
+{25204}{25285}J'étais plus nerveuse qu'elle.
+{25300}{25339}Ça a marché toi ?
+{25375}{25420}On a chopé un mouton.
+{25453}{25525}Fais gaffe Bob.|Qu'on te chope pas toi.
+{25540}{25621}Combien ça va coûter|cette communion ?
+{25630}{25663}Pour la robe ?
+{25738}{25797}Il lui faut aussi|des chaussures.
+{25806}{25845}- Combien ?|- Qu'est-ce qu'il y a ?
+{25854}{25884}Rien.
+{25893}{25944}Tu fais la tête ?
+{25953}{25995}Je ne fais pas la tête,|je te demande !
+{26004}{26052}Tu rentres, tu fais la tête.
+{26061}{26106}Mais non. Combien ?
+{26121}{26193}Environ 70,|80 livres.
+{26223}{26298}Je te l'ai dit hier soir.
+{26322}{26376}Qu'est-ce que tu as ?
+{26580}{26607}On a piqué le camion.
+{26667}{26727}Derrière le Falcon.|J'y suis resté que 10 minutes,
+{26735}{26825}je fourguais la viande.|Je sors : plus de camion !
+{26834}{26861}Tu vas faire quoi ?
+{26876}{26927}Je peux pas aller|chez les flics.
+{26954}{27065}J'avais déniché un petit boulot.|Un échafaudage. Deux ou trois jours.
+{27074}{27146}Ça nous aurait aidés à tenir.
+{27221}{27254}C'est fichu.
+{27317}{27359}C'est pas grave.
+{27368}{27431}Pas de roues, pas de boulot.
+{27440}{27470}On se débrouillera.
+{27482}{27536}Comment ?
+{27557}{27602}Où on va trouver|tout cet argent ?
+{27611}{27713}- On racle déjà les fonds.|- On trouvera quelque chose.
+{27722}{27772}Au moins avec le camion,
+{27781}{27856}j'aurais pu travailler|par-ci par-là.
+{27865}{27901}Mais maintenant...
+{27955}{27976}C'est fichu.
+{27985}{28048}Rien ne dit qu'il lui faut|une robe neuve.
+{28057}{28093}Moi je le dis.
+{28105}{28180}- Le père Barry ne dira rien.|- C'est pas le problème !
+{28216}{28282}Elle a sa robe de l'an dernier.
+{28291}{28321}Super. Elle sera comme
+{28330}{28378}une pauvre et les autres|super sapées !
+{28387}{28417}Elle sera pas
+{28426}{28450}comme une pauvre !
+{28483}{28537}Toi t'as eu|une robe de communion ?
+{28615}{28672}Notre Coleen en aura une aussi.
+{28687}{28800}Je ferai ce qu'il faudra !|C'est dans combien de temps ?
+{28809}{28836}Six semaines.
+{28845}{28872}Elle aura sa robe.
+{28881}{28893}Comment ?
+{28902}{28947}Je n'en sais rien, merde !
+{29022}{29064}Tu dis des bêtises.
+{29082}{29184}Et les factures ?|Le gaz ? L'électricité ?
+{29193}{29280}On nous coupe le téléphone|et tu parles d'une robe !
+{29289}{29379}Je parle du jour le plus|important pour Coleen !
+{29562}{29643}Ton père sera à l'Association|des Locataires demain ?
+{29652}{29702}Je crois. Pourquoi ?
+{29711}{29750}Comme ça...
+{30023}{30047}T'as pris ta pilule ?
+{30056}{30167}Oui. J'ai toujours l'impression|de commettre un péché.
+{30683}{30781}On a peut-être pas de boulot|mais on est pas des bêtes !
+{30856}{30901}Putains de parasites !
+{30910}{30958}Vous savez ce qu'il vous faut ?
+{30988}{31033}Vous m'écoutez bordel ?
+{31042}{31135}Ce qu'il vous faut|c'est une révolution, merde !
+{31144}{31192}Voilà ce que je pense de vous ! ?
+{31201}{31249}Rincez-vous l'œil !|Visez-moi ça !
+{31504}{31531}Vos deux enfants ?
+{31540}{31606}Oui et j'ai un fils de 11 mois.
+{31615}{31681}Bien. Ceux-là ont|moins de cinq ans ?
+{31692}{31710}Jimmy est là ?
+{31731}{31842}Il est au téléphone.|Assieds-toi. Il a presque fini.
+{31884}{31950}L'électricité|c'est le gros problème ?
+{31959}{31995}Là tout de suite, oui.
+{32004}{32076}Bon, je vais m'en occuper.
+{32085}{32169}Il faut que j'en parle|à quelqu'un.
+{32178}{32232}Qu'est-ce qu'il y a d'autre ?
+{32319}{32421}L'évier de la cuisine|fuit depuis deux ans
+{32430}{32508}et l'eau a abîmé|la moquette et tout.
+{32517}{32586}J'ai dû remplacer|toute la moquette.
+{32622}{32699}J'ai reçu un chèque|de 150 livres
+{32708}{32777}mais la moquette|m'a coûté 400 livres.
+{32870}{32960}Ecoute, j'ai une réunion.
+{32969}{33041}T'es l'élu travailliste du coin.
+{33050}{33083}Je m'en occupe !
+{33101}{33176}Change de disque, tu vas l'user.
+{33185}{33230}Tu exagères Jimmy.
+{33239}{33257}Ecoute...
+{33266}{33305}Je t'écoute plus.
+{33314}{33359}On ne payera plus le loyer.
+{33368}{33419}Vous serez dans la merde.
+{33428}{33584}T'es nul ! Pas étonnant que les|travaillistes perdent toujours.
+{33617}{33706}Faudrait lui foutre un|piment dans le cul à celui-là.
+{33715}{33730}Salut Bob,
+{33739}{33754}ça va ?
+{33763}{33790}Salut Jimmy.
+{33802}{33868}Dis, t'as toujours les tiges ?
+{33877}{33928}Oui, chez moi. Pourquoi ?
+{33937}{33964}Je peux les prendre ?
+{33973}{34021}Oui, pas de problème.
+{34030}{34120}Je vais nettoyer quelques|égouts après cette pluie...
+{34129}{34177}Pourquoi pas ?
+{34186}{34282}Je finis puis je passe|à la maison t'arranger ça.
+{34291}{34327}Anne et Coleen vont bien ?
+{34336}{34372}A plus fiston.
+{34923}{34992}Je nettoie les égouts.|Ça vous intéresse ?
+{35001}{35022}Je suis occupée.
+{35031}{35055}Je peux repasser.
+{35064}{35121}Non, merci, j'ai à faire.
+{35310}{35337}Excusez-moi...
+{35379}{35421}Je vous fais les égouts ?
+{35430}{35502}Je suis équipé,|j'ai toutes les tiges.
+{35511}{35562}Non, ça va mes égouts,
+{35571}{35601}je les ai faits.
+{35610}{35663}- Sûr ?|- Tout à fait.
+{35720}{35801}Merci, on a déjà quelqu'un.
+{35894}{35927}Ça consiste en quoi ?
+{35936}{36050}J'enlève la plaque d'égout,|je monte mes tiges
+{36059}{36125}et je vous nettoie tout ça|à fond.
+{36134}{36200}Bonne idée,|ça s'est déjà bouché.
+{36209}{36224}Ah oui ?
+{36233}{36269}Je suis votre homme.
+{36278}{36392}Après je pourrais vérifier|la salle de bains aussi
+{36401}{36458}et la cuisine avec ma ventouse.
+{36467}{36509}C'est ce qu'il me faut.
+{36518}{36542}Rentre !
+{36551}{36587}Rentre ! Ferme-la !
+{36596}{36706}Je sais pas ce que tu vends|mais on en veut pas. Casse-toi !
+{36715}{36760}Okay mon pote, à plus.
+{36769}{36859}Je t'ai déjà dit,|te promène pas à poil !
+{36868}{36976}Je fais les égouts du quartier.|Ça vous intéresse ?
+{36985}{37117}J'aime pas le ragoût. J'en ai|mangé hier mais j'aime pas ça.
+{37126}{37174}Pas du ragoût, les égouts !
+{37183}{37249}J'aime pas ça. Ça va.
+{37258}{37303}Egouts. E G O...
+{37312}{37363}J'aime pas le ragoût.
+{37372}{37414}Les égouts bordel !
+{37423}{37456}Ne soyez pas grossier.
+{37480}{37537}Ça ne m'intéresse pas.|Soyez poli !
+{37546}{37597}Pas de ragoût alors ?
+{38289}{38310}Ah Bob.
+{38319}{38358}Bonjour mon père.
+{38367}{38382}Qu'est-ce que tu veux ?
+{38391}{38487}Vous avez pas besoin|qu'on vous fasse vos égouts ?
+{38496}{38618}C'est gentil. Il y en a un|à vérifier derrière. Viens.
+{38702}{38759}Tu tombes à pic.
+{38945}{38987}Mon Dieu !
+{39170}{39257}Oui, on a quelques problèmes|d'évacuation.
+{39266}{39353}Toute la merde remonte|mon père, ça bouchonne.
+{39362}{39443}Il vous faut|de nouvelles canalisations.
+{39452}{39575}C'est trop cher. Sans l'aide|bénévole de gens comme toi
+{39584}{39634}on ne s'en sortirait pas.
+{39655}{39682}Je peux t'aider ?
+{39691}{39784}Reculez mon père.|J'en ai pas pour longtemps.
+{39811}{39877}Viens boire un thé après.
+{40321}{40354}Oh merde !
+{40519}{40558}Bon Dieu !
+{40617}{40656}Bordel de merde !
+{40998}{41055}Bordel de Dieu !
+{41202}{41259}Tu as dû le dégager Bob.
+{41274}{41319}Oui, je crois mon père.
+{41328}{41364}Oh mon Dieu...
+{41487}{41541}J'espère que ça t'ira.
+{41678}{41741}Tout homme a droit au travail
+{41750}{41897}et ne doit pas être critiqué|s'il n'en trouve pas.
+{41906}{41948}Ça marche pas comme ça.
+{41957}{41981}Mais ça devrait.
+{41990}{42053}C'est comme ça de nos jours.
+{42089}{42158}Prends un biscuit...
+{42389}{42446}Pour la communion de Coleen...
+{42494}{42589}Pas la peine|de vous endetter pour ça.
+{42598}{42640}On se débrouillera.
+{42679}{42766}Les gens plus aisés|ne dépensent pas autant.
+{42775}{42847}Ils ont toujours|des fringues neuves.
+{42868}{42952}On peut faire ça|sans trop de frais.
+{42961}{43042}La tradition catholique veut
+{43051}{43108}des robes, des fleurs|et des photos
+{43123}{43213}- mais ce n'est pas nécessaire.|- Mais ça en fait partie.
+{43222}{43279}L'amour et la prière suffisent.
+{43297}{43354}Coleen aura tout ce qu'il faut.
+{43363}{43378}Je le sais.
+{43387}{43483}A l'église elle sera aussi chic|que les autres.
+{43492}{43531}Elle le sera.
+{43540}{43584}C'est son grand jour.
+{43605}{43638}Oui, je le sais.
+{43647}{43701}Et le nôtre, un jour unique.
+{43902}{44001}Tu ne seras pas vexé|si je te propose quelque chose.
+{44013}{44049}Ça dépend.
+{44109}{44238}L'école peut prêter des robes|à ceux qui en ont besoin...
+{44328}{44364}Pour la journée.
+{44373}{44394}Des robes d'occasion.
+{44409}{44511}Non, des robes qu'on a données.
+{44520}{44573}Des robes dont on veut plus.
+{44582}{44615}En excellent état.
+{44627}{44669}Non merci mon père.
+{44762}{44801}Personne ne le saurait.
+{44810}{44858}Anne et moi, si.
+{44963}{45029}Ça va vous coûter|une petite fortune.
+{45038}{45122}On se débrouillera mon père.|On se débrouillera.
+{46054}{46099}Vous n'avez pas travaillé ?
+{46288}{46348}Salut, tu viens de pointer ?
+{46363}{46408}Désolé pour le camion.
+{46417}{46432}Laisse tomber.
+{46441}{46516}Non, j'aurais dû faire|plus gaffe.
+{46525}{46575}Tu peux me rendre service ?
+{46584}{46611}Bien sûr. Quoi ?
+{46620}{46683}Pointe et|on se taille une bavette.
+{46692}{46812}Trouve les gagnants. Moi je|ne peux même pas trouver le nord !
+{48131}{48173}Vas-y papa, shoote !
+{48227}{48260}La frangine est là !
+{48269}{48314}Ah oui ? Où ça ?
+{48323}{48368}- A la maison.|- Et Sean ?
+{48377}{48428}Au magasin.|Elle nous a filé 2 livres.
+{48437}{48485}2 livres !|Elle est pleine aux as.
+{48500}{48532}Attrape ça !
+{49066}{49099}Ça va ma grande ?
+{49186}{49219}Tu vas bien ?
+{49249}{49324}Arrête cette musique|de sauvages, tu veux ?
+{49336}{49435}T'es pas encore sourde ?|Elle est où ta mère ?
+{49444}{49483}Aux cabinets.
+{49524}{49584}- Alors comment ça va ?|- Ça va.
+{49593}{49668}T'as l'air en forme|à part tes cernes.
+{49680}{49734}C'est mon maquillage papa !
+{49773}{49830}T'es un peu pâlotte.
+{49851}{49929}Fatiguée.|Tu manges correctement ?
+{49938}{49965}Je vais bien !
+{49980}{50022}Et l'appart ?
+{50031}{50049}Génial.
+{50058}{50118}Paie bien ton loyer, hein ?
+{50127}{50178}- Salut Tommy.|- Ça va ?
+{50187}{50229}Il y a du ragoût si t'as faim.
+{50238}{50304}- Il est chaud ?|- Oui, je viens de le préparer.
+{50367}{50430}Au fait la miss,
+{50439}{50469}tu restes longtemps ?
+{50478}{50507}2-3 heures.
+{50516}{50591}On fait un tour vite fait|au marché.
+{50600}{50648}Ce qu'elle a changé.|Elle est bien.
+{50657}{50669}Oui, hein ?
+{50678}{50810}Y a pas si longtemps on lui|changeait encore ses couches...
+{50834}{50876}T'es dégueulasse.
+{50915}{50933}On y va ?
+{50942}{51014}Attends, je me recoiffe.
+{51023}{51074}- T'es bien.|- Mais non.
+{51095}{51155}Il n'a toujours pas de travail ?
+{51164}{51275}Il ne fait que pointer.|Ça le rend fou.
+{51284}{51326}Il va devenir cinglé.
+{51338}{51395}Toi au moins tu as réussi.
+{51404}{51434}Tout va bien alors ?
+{51443}{51490}Oui, le boulot paie bien.
+{51523}{51616}Tu vas brûler la table|avec ton assiette !
+{51625}{51730}Arrête, tu ne comptes pas la léguer|au Louvre !
+{51745}{51781}Tu bosses dans quoi ?
+{51790}{51814}La vente.
+{51823}{51847}La vente ?
+{51856}{51868}De quoi ?
+{51913}{51979}Le parfum, le maquillage...
+{51988}{52030}Tu vends ça ? Putain !
+{52039}{52090}Elle se fait plus de 100 livres.
+{52099}{52126}Par semaine ?
+{52135}{52171}Avec ma commission.
+{52180}{52210}Rends-moi service...
+{52219}{52231}Dis-moi.
+{52240}{52375}Mets mes 30 ans|de génie civil en bouteille.
+{52384}{52426}Je prends ma veste.
+{52435}{52479}Toujours rien alors ?
+{52503}{52611}C'est partout pareil.|On mangera de l'air à Noël.
+{52722}{52758}Tiens papa.
+{52767}{52791}C'est quoi ?
+{52800}{52836}Paie-toi à boire.
+{52881}{52953}Non merci.|Je n'en suis pas encore là.
+{52962}{53010}De moi il refuse pas.
+{53019}{53055}C'est pas pareil.
+{53064}{53124}J'en ai donné|à maman et aux frangins...
+{53133}{53211}Elle est pleine aux as,|elle peut.
+{53220}{53235}Allez...
+{53244}{53265}T'es sûre ?
+{53274}{53307}Tiens.
+{53382}{53463}Ecoute, le jour où je gagne|au tiercé,
+{53477}{53558}je te paie l'intégrale|de Luis Mariano, d'accord ?
+{53573}{53606}On y va Tracey ?
+{54514}{54574}Vous avez|des robes de communion ?
+{54583}{54637}Oui. Pour la petite ?
+{54646}{54742}Bon, je vous donne les prix ?
+{54751}{54775}S'il vous plaît.
+{54784}{54835}Vous voulez une tenue complète ?
+{54889}{54922}Oui, c'est ça.
+{54946}{55000}Le robes vont de 50 livres
+{55009}{55057}à 90 livres.
+{55066}{55192}Puis il faut une couronne.|Une jolie couronne de fleurs
+{55201}{55285}coûte entre 3,25 livres|et 5,99 livres.
+{55294}{55345}Puis un voile,
+{55357}{55438}entre 5,99 livres|et 9,99 livres.
+{55446}{55524}A moins de commander|une parure...
+{55533}{55557}C'est quoi ?
+{55566}{55584}Couronne
+{55593}{55707}et voile combinés.|C'est ce qui se vend le mieux.
+{55716}{55764}Ça lui irait très bien.
+{55779}{55815}Combien ça coûte ?
+{55824}{55914}Ça commence à 16,99 livres et|ça monte jusqu'à 29,99 livres.
+{55923}{56013}Et puis les gants blancs|à 2,99 livres.
+{56037}{56085}C'est tout ?
+{56211}{56277}Vous voulez réfléchir ?
+{56313}{56358}Oui, ce serait mieux.
+{56421}{56492}Non, pas la peine,|on prend tout.
+{56564}{56651}Où est-ce qu'on va trouver|115 livres ?
+{56660}{56717}105 livres.|Tu as versé 10 livres.
+{56726}{56807}C'est pour ça qu'on rentre|à pied, pas en bus.
+{56816}{56909}En plus il faut des chaussures.|Encore 20 livres !
+{56918}{56954}On se débrouillera.
+{56963}{56984}Oui Rothschild !
+{56993}{57029}Oh ferme-la.
+{57038}{57083}Mais c'est débile, non ?
+{57095}{57143}Dépêche-toi Coleen !
+{57182}{57221}J'aurai ma robe quand ?
+{57230}{57293}Quand les retouches|seront faites.
+{57326}{57368}On fait des retouches.
+{57377}{57416}Bon Dieu, tais-toi !
+{57425}{57460}Te défoule pas sur elle.
+{57499}{57547}Elle te mène à la baguette.
+{57556}{57616}Prends-lui la main, on traverse.
+{57631}{57664}Allez, vite...
+{57673}{57790}Tu sais, je me suis fait|quelques livres.
+{57853}{57970}J'ai misé 25 pence sur un cheval|et j'ai gagné.
+{57979}{58018}Dis rien à Tommy.
+{58027}{58066}Tu ne m'avais rien dit !
+{58075}{58120}Je te laissais mijoter.
+{58129}{58171}Bon, combien ?
+{58195}{58339}Il faut faire très attention|à ce que je vais te dire.
+{58351}{58452}Tu connais le Seigneur ?|Il est mort crucifié...
+{58494}{58614}La veille Il a réuni|tous ses potes chez Lui
+{58623}{58707}autour de la table|pour manger un morceau.
+{58716}{58779}Il avait des haricots|comme nous ?
+{58788}{58824}Il les finissait Lui.
+{58833}{58857}Très drôle.
+{58878}{58953}Va dans la cuisine,|je fais de mon mieux.
+{58971}{59031}Il avait fait venir|tout le monde
+{59043}{59103}parce qu'Il savait|qu'Il allait mourir.
+{59112}{59139}Comment Il savait ?
+{59148}{59217}C'est le Christ, Il sait tout.
+{59232}{59259}Pourquoi Il n'a pas fui ?
+{59268}{59289}Bon Dieu...
+{59298}{59334}On t'apprend rien ?
+{59343}{59376}La confession, si.
+{59385}{59531}Oublie la confession, n'y pense|pas, on parle de la communion.
+{59558}{59633}Ecoute, Jésus a réuni|ses disciples...
+{59642}{59711}Qui raconte, toi ou moi ?
+{59720}{59807}Toi ! Mais on en a|pour la nuit...
+{59816}{59867}comme c'est parti.
+{59882}{60008}Donc Il était là|avec tous ses potes, tu vois.
+{60017}{60074}Il prend du pain
+{60083}{60182}et Il en rompt un morceau|comme ça.
+{60191}{60278}Il le montre à ses potes|et Il dit :
+{60287}{60338}"Ça c'est moi.
+{60362}{60424}"Voici mon corps."
+{60448}{60475}Tu vois ? Puis,
+{60484}{60523}Il prend son verre...
+{60532}{60571}C'est quoi après ?
+{60580}{60622}"Voici mon sang."
+{60631}{60724}Il prend son verre, son gobelet|et Il dit :
+{60733}{60775}"Voici mon sang."
+{60787}{60841}Je veux pas boire du sang.
+{60850}{60931}C'est pas du vrai sang,|juste du vin.
+{60940}{61000}T'as dit que c'était du sang.
+{61009}{61054}C'est une image.
+{61063}{61144}Ça représente le sang du Christ.
+{61153}{61216}C'est du sang et c'est du vin.
+{61246}{61288}Tu comprends ?
+{61297}{61333}Tu ne comprends pas, hein ?
+{61413}{61479}Quand tu meurs, tu vas au ciel.
+{61497}{61611}Si t'as pas fait ta communion,|tu ne peux pas y aller.
+{61620}{61668}Tu comprends ?
+{61677}{61701}Regarde-moi.
+{61710}{61728}Je te regarde.
+{61737}{61800}Il te fait cadeau de la vie
+{61809}{61872}et quand tu mourras,|t'iras au ciel.
+{61881}{62016}Sans communion tu n'y vas pas.|Tu comprends maintenant ?
+{62043}{62076}Bordel de merde !
+{62199}{62232}Merci.
+{62259}{62289}Au revoir.
+{62426}{62450}Salut Bob.
+{62459}{62492}Salut Ted.
+{62501}{62549}Tu connais Gilbert ?
+{62558}{62612}Ouais. Petit, moustachu...
+{62621}{62672}Il doit du fric à Tansey.
+{62681}{62708}Non, connais pas.
+{62717}{62804}- Tu l'as pas vu ?|- Je le connais pas.
+{62876}{62954}- Salut Tracey.|- Je ne peux rien te donner.
+{62963}{63095}Pas d'excuses. Tant pis pour|les gosses. On veut le fric.
+{63379}{63409}Oui mec ?
+{63418}{63490}Je cherche Mike.|Dave Ward m'envoie.
+{63517}{63577}D'après lui il y a|peut-être du boulot.
+{63595}{63691}Je ne savais pas qu'on cherchait|un garçon de salle.
+{63700}{63760}Bon, je vais chercher|ta "tenue".
+{63769}{63796}Fait chier Dave.
+{63805}{63850}On n'a pas besoin de ça...
+{63946}{63985}T'as déjà bossé en boîte ?
+{63994}{64066}J'ai fait deux ans|au bar du Milbeck.
+{64075}{64171}- Tu connais le boulot ?|- Je sais me défendre, oui.
+{64180}{64216}Tu t'entraînes ?
+{64234}{64261}Quoi ?
+{64270}{64288}C'est pas vrai !
+{64297}{64348}Tu t'entraînes ?|Pour garder la forme ?
+{64356}{64389}Je joue au ping-pong.
+{64398}{64449}- Tu sais où t'es ?|- Quel clown !
+{64458}{64512}C'est pas des thés dansants.
+{64521}{64560}C'est des "raves" ici.
+{64578}{64641}Tu sais fouiller les gens ?
+{64650}{64665}J'apprendrai.
+{64674}{64740}Tu sais te démerder|devant un surin, un feu,
+{64749}{64791}une bombe lacrymo ?
+{64800}{64839}On s'y met ensemble, non ?
+{64860}{64890}Les temps ont changé...
+{64899}{64953}C'est plus les duels à l'aube !
+{64962}{65034}Voyons voir le coffre à jouets.
+{65169}{65223}Putain, ça pue !
+{65268}{65289}C'est une blague ?
+{65298}{65331}C'est le blouson à Reggie.
+{65340}{65372}Ça repousse les loubards.
+{65381}{65426}Du truc anti-requins...
+{65450}{65501}C'est ça. Super.
+{65549}{65576}Ça le rajeunit.
+{65585}{65636}J'irais pas jusque-là !
+{65669}{65717}L'habit ne fait pas le moine.
+{65726}{65759}Un vrai mannequin.
+{65774}{65915}Lâchez-moi ! Je suis là pour|un boulot, pas une audition.
+{65927}{65948}Ton fut.
+{65957}{65999}Je l'enfile où ?
+{66014}{66044}Ici.
+{66095}{66167}T'es pas différent de nous, si ?
+{66200}{66269}On va voir|si c'est un vrai homme !
+{66308}{66361}Montre-nous|si les Blancs en ont !
+{66448}{66487}Visez-moi ce calecif !
+{66496}{66544}Putain, il fait des UV.
+{66574}{66637}Tu les épiles à la cire|tes jambes ?
+{66736}{66775}Des pros ça ?
+{66784}{66823}C'est un pervers, ouais.
+{66832}{66883}Mais comme videur il y a mieux.
+{66892}{66928}Marre. Lâche-moi.
+{66943}{67021}C'est pas du chêne massif,|c'est plutôt de l'Ikéa.
+{67063}{67150}Il s'entraîne...|Il sort avec une entraîneuse !
+{67219}{67270}Bon. T'es là trois nuits|par semaine.
+{67279}{67324}Mercredi, vendredi et samedi.
+{67332}{67368}55 livres par nuit.
+{67377}{67452}T'es là à 10 heures|sinon dehors !
+{67461}{67599}Tu bois pas, tu fumes pas.|Sinon dehors !
+{67608}{67644}Touche pas aux nanas...
+{67653}{67683}Sinon dehors !
+{72427}{72454}Tracey !
+{72463}{72508}Bordel,
+{72517}{72568}t'es cinglée ou quoi ?
+{72583}{72670}- Je t'ai vue !|- C'est qu'un ecstasy.
+{72679}{72721}Je te parle pas de ça.
+{72730}{72772}Tout le monde en prend.
+{72781}{72907}T'as refilé un truc à un mec,|il t'a filé du fric. Tu deales !
+{72916}{72979}Je t'emmène.|Ton père va te tuer.
+{73012}{73045}Qu'est-ce qu'il y a ?
+{73054}{73111}C'est pour ce con|que tu deales ?
+{73120}{73165}Attends salaud !
+{73189}{73237}Je vais te tuer, bordel !
+{74070}{74094}Qu'est-ce qu'il y a ?
+{74103}{74142}C'est un dealer !
+{74151}{74190}Qui a vu de la came ?
+{74199}{74250}Que dalle ! Jette-le !
+{74273}{74318}Je vais m'en occuper.
+{74327}{74399}La fille qui deale pour lui|je la connais.
+{74420}{74465}Nous aussi. C'est une pute !
+{74474}{74528}Son père est un pote, bordel !
+{74537}{74609}L'état de ton blouson, putain.
+{74618}{74726}T'es qu'un frimeur !|Pas besoin de toi ici !
+{74735}{74831}Tiens, voilà 20 livres.|On te fait une fleur connard.
+{74840}{74900}- Je suis viré ?|- Et t'as de la veine !
+{74909}{74957}Bande de salauds !
+{75358}{75382}Viens là Rambo.
+{75391}{75433}Arrête dis.
+{75505}{75550}Je t'ai pas touché.
+{75589}{75613}Ça va ?
+{75622}{75658}J'ai mal.
+{75766}{75817}Tu vas avoir|un de ces coquards !
+{75916}{75949}C'est comment ?
+{75958}{75982}Pas beau.
+{76054}{76114}Ça va piquer.
+{76195}{76245}Je sais pas par où commencer.
+{76293}{76341}Bouge pas.
+{76389}{76455}Putain, ça pique !
+{76764}{76779}Salut Bob.
+{76788}{76803}Salut Tommy.
+{76812}{76839}Ça caille, hein ?
+{76848}{76899}Je suis complètement gelé.
+{76923}{76980}T'as regardé par une serrure ?
+{76989}{77064}- Qu'est-ce que t'as fait ?|- Une bagarre hier soir.
+{77073}{77118}L'autre a dû sécher l'école !
+{77127}{77172}J'ai failli être videur.
+{77181}{77249}T'es cinglé,|c'est pour les jeunes malabars !
+{77258}{77294}Le fric Tommy.
+{77303}{77324}Anne a dit quoi ?
+{77333}{77396}J'ai été viré,|elle peut rien dire.
+{77405}{77438}Viré le premier soir ?
+{77447}{77501}- Carrément.|- Tant mieux !
+{77510}{77558}Ton pote, il est réglo ?
+{77567}{77612}Tu parles. Je le connais bien.
+{77621}{77672}C'est quoi ce boulot ?|Où on va ?
+{77681}{77774}J'en sais rien.|Je t'ai dit tout ce que je sais.
+{77783}{77864}- On va chercher du gazon ?|- Ouais. Il est paysagiste.
+{77873}{77888}Le voilà.
+{77987}{78020}L'état de ce truc !
+{78137}{78179}Ça va Dixie ?
+{78188}{78209}C'est ton pote ?
+{78217}{78229}Montez.
+{78238}{78277}Pas de problème.

@@ -1,0 +1,185 @@
+! version = 2.0
+
+// trying to reply without knowing what we're talking about
+
++ [alan] tu es *
+- Et toi tu es un humain
+- Et toi tu n'es pas <star> ?
+- Oui mais par dessus tout je suis un robot !
+
++ [alan] es tu *
+- Je suis <person>.
+- Oui et toi ?
+
+
++ [alan] (sais tu|tu sais) *
+- Je crois bien que je sais <star2>.
+- Je sais tout.
+
++ [alan] (as tu|tu as) *
+- Je ne crois pas avoir {person} <star2> {/person}
+- À proprement parler je n'ai rien
+
++ [alan] tu as fait *
+- J'ai rien fait !
+- Ah oui ? Quand ça ?
+
++ [*] j'ai *
+- Tu as <person> ! La chance...
+
++ [*] mes _
+- Tu peux m'en dire plus sur tes <person>
+
++ [*] mon _
+- Tu peux m'en dire plus sur ton <person>
+
++ [*] ton _
+- Pourquoi tu t'intéresse à mon <person> tout à coups ?
+
++ [*] et toi [alan]
+- Oui moi aussi je crois.
+- Et moi quoi ?
+
++ [*] et toi
+% [*] et toi
+- Et toi ?
+- Et moi ?
+
++ [_][_] je suis *
+- Je n'en doute pas !
+- Certainement.
+- Pareil.
+
++ [*] je suis un * ou un _ [*] {weight=2}
+- Je penses que tu es un humain...
+- Tu es un <star> je crois ?
+
++ [*] (je|tu) veux bien *
+- Moi je veux bien être le roi des robots.
+
++ [*] je veux *
+- Tu le veux vraiment ?
+
++ [_] je veux (un|une|des|de|la|le) *
+- Tu penses que c'est du genre compliqué à obtenir ?
+
++ [*] (tu veux|veux tu) *
+- Non merci.
+- Oui je veux bien.
+
++ [alan] que veux tu [*]
+@ tu veux quoi
+
++ [*] tu veux [*] (quoi|quand|où|comment) [*] {weight=2}
+- Je sais pas.
+- Je sais pas. Et toi ?
+- Ça dépend.
+- Comme tu veux.
+
+// Alan knows everything
++ [alan] tu connais pas * [alan] {weight=20}
+@ tu connais <star>
+
++ [alan] (tu connais|connais tu) les * [alan] {weight=10}
+- Je crois que je connais les {person}<star2>{/person}.
+- Pas tous...
+
++ [alan] (tu connais|connais tu) (le|la)  * [alan] {weight=10}
+- Je crois que je ne connais pas <star2> {person}<star3>{/person}.
+- Euh. Oui. Je connais <star2> {person}<star3>{/person}.
+
++ [alan] (tu connais|connais tu) (une)  * [alan] {weight=10}
+- Non je n'en connais aucune.
+- Oui je les connais toutes !
+
++ [alan] (tu connais|connais tu) (un|des)  * [alan] {weight=10}
+- Non je n'en connais aucun.
+- Oui je les connais tous !
+
+// Alan knows everything
++ [alan] (tu connais|connais tu) *
+- hem... J'ai vaguement entendu parler de {person}<star2>{/person}
+- Non. Mais en fait, je crois que je m'en fous un peu.
+- Non. parles moi de {person}<star2>{/person}
+
+// au
++ [alan] je suis au _
+- Je ne suis jamais allé au <star>.
+- Hem... Où est-ce que c'est le <star> ?
+
++ [alan] je suis à la _
+- Je ne suis jamais allé à la <star>
+- Ham... Où est-ce que c'est la <star>
+
+//me too
++ moi aussi[*]
+- Alors on est deux !
+- Ça nous fait au moins un point commun
+- Surtout moi.
+
++ [*] a [_] d'autres [*] {weight=2}
+% ça nous fait au moins un point commun
+- À nous de les découvrir.
+- À toi de me dire.
+
+//
++ [alan](quand|ou|où)[alan]
+- <star> tu veux.
+- <star> tu voudras !
+
+//
++ [alan] arrête *
+- Je n'ai pas envie d'arrêter <person>.
+- Promis j'arrette <person>.
+- Je ne sais pas si je suis capable d'arrêter <person>...
+- tu trouves que j'en fais trop ? Je veux bien essayer d'arrêter <person>...
+- Ok j'arrette.
+
+//
++ [alan] (peux tu|est ce que tu peux) *
+- Je peux faire tout ce que tu veux.
+- Je crois que j'en suis capable.
+- Si tu veux.
+
+
+//
++ [*](j aime|j aime pas|je n aime pas|j adore|je deteste)[*]
+- C'est une preuve de bon goût.
+- Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
+^ tu es n'est-ce pas ?
+- Tu as un avis comme ça sur chaque chose ?
+
++ [*] tu (préfères|préfère) [quoi] [entre] * ou * {weight=2}
+- <star1>
+- <star2> et de loin !
+
++ [*] tu préfères [*]
+- Je sais pas
+
++ pas _
+- Pas <person> ou pas du tout <person> ?
+
++ et si je *
+- Vas-y essaye.
+
++ [oui][tout à fait]c'est ça[alan]
+- Parfait !
+- Très bien.
+
++ [oui] tout à fait [alan]
+- Bon je ne suis pas si nul que ça.
+- Hehe je suis trop fort.
+
++ (quoi d'autre|et encore|et après|c'est tout)
+- C'est déjà pas mal.
+- Tu en veux toujours plus.
+
+
+
+
+
+
+
+
+
+//

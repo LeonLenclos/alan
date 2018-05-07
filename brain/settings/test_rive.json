@@ -1,0 +1,11 @@
+{
+    "import" : ["base", "interface"],
+    "logic_adapters": [
+        {
+            "identifier": "test",
+            "allowed_to_repeat": true,
+            "rive_files": ["./rive/test.rive"],
+            "import_path" : "logic.RiveScriptAdapter"
+        }
+    ]
+}

@@ -1,0 +1,480 @@
+{1}{30}Presque M.Clamp
+{170}{203}Quelques notes de service...
+{294}{345}La première à Frager...
+{350}{388}des relations publiques.
+{410}{498}Organisons une fête|dans les rues de Chinatown.
+{503}{592}Une manifestation spontanée|de gratitude pour mon action...
+{599}{645}en faveur des habitants.
+{652}{716}On pourrait prévoir des dragons...
+{721}{781}avec des hommes à l'intérieur.
+{786}{884}Peut être aussi un défilé|avec des chars.
+{887}{983}Appelez le grand magasin|qui vend les chars.
+{985}{1052}Ils ont un entrepôt|dans le New Jersey.
+{1076}{1117}Qui d'ailleurs m'appartient.
+{1544}{1568}Café ?
+{2946}{2987}Lâchez ma cravate !
+{3256}{3306}M.Clamp, ça va ?
+{3308}{3399}Je crois. Je déteste|me servir de ces appareils.
+{3404}{3440}Nous avons un problème.
+{3445}{3505}Nous sommes dans une situation...
+{3510}{3589}Il faut évacuer|et condamner toutes les issues.
+{3594}{3646}- Ridicule.|- Avant la nuit !
+{3663}{3694}Pourquoi ?
+{3699}{3766}Ces choses meurent|à la lumière du soleil.
+{3771}{3862}Mais si elles quittent|l'immeuble quand il fera nuit...
+{3867}{3946}Calmez-vous.|Il faut l'enfermer, il est dangereux.
+{3951}{4073}Cette bête était dangereuse !|Lui il est du service "Création".
+{4076}{4143}Demandez-lui comment il sait tout ça.
+{4147}{4203}Comment vous savez tout ça ?
+{4205}{4272}Cet animal était|au labo de génétique...
+{4277}{4334}Je ne voulais pas|de ces locataires !
+{4339}{4435}On aurait mieux fait d'avoir trois psy|et un chirurgien esthétique !
+{4819}{4862}Fais un vœu.
+{5382}{5421}Pour descendre...
+{5670}{5727}Deuxième étage, lingerie...
+{5924}{5982}C'est ouvert.
+{5986}{6058}Attentiom à la marche en sortant.
+{6097}{6152}Nous prendrons le suivant.
+{6183}{6221}Il pouvait avoir la rage ?
+{6226}{6284}Non, mais il ne faut pas les mouiller.
+{6286}{6394}Il faut verrouiller cette affaire.|Ni police ni médias.
+{6396}{6440}On se débrouillera seuls.
+{6442}{6519}Allez à la salle de contrôle|et contrôlez !
+{6521}{6579}Ça peut être physiquement|dangereux...
+{6583}{6639}Vous êtes censé éliminer|tout parasite.
+{6643}{6722}Ne croyez-vous pas|que ce sont de gros parasites ?
+{6754}{6864}Si, mais pourquoi me priver|des services d'un expert ?
+{6869}{6902}Allons-y Peltzer.
+{7068}{7154}Je suis Léonard Maltin.|Et voici "La Film Connection" !
+{7176}{7219}Tout d'abord les sorties vidéo.
+{7224}{7331}On vient de rééditer Gremlins.|À savoir pourquoi !
+{7336}{7463}Personnellement je préférerais|passer 2 heures chez le dentiste !
+{7466}{7586}Ça vous amuse ces ignobles|petits monstres gluants...
+{7590}{7646}qui attaquent les innocents ?
+{7650}{7765}Faut-il que la vie soit triste|pour que ces conneries fassent rire...
+{7770}{7806}Je plaisantais !
+{7864}{7919}Deux pour le prix d'un
+{8127}{8240}J'ai réussi à créer des tomates|extra-dures pour le transport.
+{8276}{8322}Bravo, Wally !
+{8327}{8365}Splendide ! Et le goût ?
+{8370}{8480}Elles ont déjà été adoptées|par deux compagnies aériennes.
+{8605}{8655}Dieu du ciel !
+{8689}{8751}Auriez-vous laissé traîner|quelque chose ?
+{8756}{8777}Pas moi.
+{8782}{8823}Il avale mon hors-d'œuvre|varié !
+{9003}{9070}- Quel est ce bruit ?|- Des rires.
+{9075}{9137}- Des reptiles, rire ?|- Ça des reptiles ?
+{9149}{9180}Alors c'est quoi ?
+{9182}{9206}Des virus ?
+{9348}{9396}Mais qu'est-ce qui se passe ici ?
+{9456}{9542}Je vous laisse cinq minutes|et c'est le chaos !
+{9619}{9674}Sont-ce là|nos hormones cérébrales ?
+{9715}{9739}Gentil...
+{9755}{9839}Tout doux... Gentil petit.
+{9875}{9916}Écoute un peu...
+{9928}{10024}J'ai plein de maladies,|tu veux que je t'en donne ?
+{10213}{10237}À quoi bon ?
+{10933}{10978}Je voudrais...
+{10983}{11048}parler de ce qui se passe ici...
+{11053}{11153}parce que ça aura de fascinantes|implications sur notre avenir.
+{11163}{11261}On a inoculé du matériel génétique|à une forme de vie...
+{11266}{11333}qui obéissait à un certain...
+{11338}{11427}atavisme...|Mais je préfère parler...
+{11431}{11484}de nature hautement agressive.
+{11489}{11599}Cet individu est devenu|une chauve souris, un chiroptère...
+{11604}{11690}le seul mammifère capable de voler.
+{12184}{12220}"Écran Génétique Total"...
+{12400}{12436}Je peux vous dire un mot ?
+{12441}{12501}Ami, quelles perspectives|que les vôtres !
+{12510}{12582}Je veux contribuer à vous les ouvrir.
+{12592}{12652}Vous le savez, la lumière solaire...
+{12657}{12721}pose de gros problèmes à notre ethnie.
+{12731}{12793}Au lieu de bronzer et de brunir...
+{12798}{12851}nous nous décomposons|en un reliquat...
+{12856}{12894}photochimique peu ragoûtant.
+{12908}{13014}Cette formule|conçue pour les obscurantistes...
+{13019}{13069}résoudra tous vos problèmes|de lumière.
+{13081}{13143}Elle vous sera fort utile|où vous allez.
+{13232}{13268}Où il va ?
+{13273}{13297}Retenez-le !
+{13302}{13385}Et s'il mangeait des enfants ?|Quelle publicité désastreuse !
+{13436}{13537}New York, capitale verticale...|Il y avait Rome, il y a "La Pomme"...
+{13539}{13599}Allez donc la croquer !
+{13836}{13877}Ne le laissez pas partir !
+{13882}{13906}Descends !
+{14407}{14450}Nous voici à Manhattan...
+{14455}{14553}pour parler des graves problèmes|mécaniques apparus...
+{14558}{14627}dans l'immeuble de bureaux|du Centre Clamp.
+{14860}{14884}Au secours !
+{14886}{14932}AGENT DE CHANGE
+{14942}{15001}Achetez ! Achetez !
+{15025}{15052}Vendez ! Vendez !
+{15057}{15117}C'est la panique|à grande échelle.
+{15119}{15177}Vous avez eu des retraits massifs ?
+{15188}{15224}Ici c'est assez brutal.
+{15229}{15332}Nous conseillons d'investir|dans les conserves et les armes.
+{15356}{15443}Tâchez de repérer la sortie|la plus proche...
+{15445}{15488}et de vous y rendre au plus vite.
+{15491}{15555}Il y a danger à rester|dans l'immeuble.
+{15565}{15634}Emportez vos effets personnels...
+{15639}{15723}et veillez à ne piétiner personne...
+{15728}{15788}qui fuirait en sens inverse.
+{16030}{16107}L'arme alimentaire !
+{16447}{16493}O feu, élément indompté...
+{16495}{16589}pourvoyeur de chaleur,|destructeur de forêts...
+{16594}{16653}En ce moment même|l'immeuble est en feu.
+{16665}{16735}Oui, en feu. Il faut évacuer.
+{16737}{16802}Retrouvez les gestes ancestraux|de la survie.
+{16881}{16972}Oh, la cathédrale|de Sainte Eva Marie !
+{16984}{17037}Quel bel édifice !
+{17047}{17071}Ça, beau ?
+{17095}{17145}On dirait un truc du moyen âge !
+{17167}{17205}Quasimodo, tu es là ?
+{17490}{17538}- C'en est un !|- Qui ?
+{18186}{18236}Ce n'est qu'une égratignure.
+{19864}{19907}Vite Lewis !
+{19912}{19950}J'arrive Martin.
+{20003}{20070}Horreur... Désolation...
+{20075}{20099}Qu'est-ce qu'il y a ?
+{20123}{20188}Une révolte, voilà ce qu'il y a !
+{20207}{20231}Les choses...
+{20255}{20279}Les trucs...
+{20303}{20375}Je jure de ne plus jamais|faire le mal.
+{20379}{20444}De ne plus décoder avec les gènes.
+{20446}{20504}- C'est un mauvais locataire.|- Du calme...
+{20509}{20550}Votre bail ne sera pas renouvelé.
+{20554}{20617}- Où sont les "choses" ?|- Un peu de respect !
+{20624}{20698}- Elles existent, je les ai vues !|- Moi aussi. Où elles sont ?
+{21214}{21242}Bunny le lapin...
+{21317}{21370}"Il y a 87 ans, quand nos pères..."
+{21535}{21561}Cuisses ! Poils !
+{21652}{21691}NATURIST FILMS|présentent:
+{21698}{21739}VACANCES|DE VOLLEY-BALL
+{21835}{21904}Je veux voir les Gremlins !
+{21950}{22024}C'est un scandale,|il est encore pire que le premier !
+{22027}{22110}Je suis exploitant de salle,|pas réalisateur.
+{22125}{22161}Je démissionne !
+{22168}{22230}Appelez le syndicat,|la garde nationale...
+{22235}{22341}Ils ont pris le projecteur...|Ils refusent de montrer la suite.
+{22345}{22403}Ils veulent voir Blanche Neige !
+{22408}{22429}Assez !
+{22456}{22489}Je m'en occupe.
+{22683}{22789}M.Hulk, il y a des Gremlins|en cabine... Vous pouvez nous aider ?
+{22794}{22866}Des Gremlins dans cette salle ?
+{22916}{23022}Écoutez les gars, les gens ont|dépensé du fric pour voir ce film.
+{23026}{23093}Ce qu'ils veulent c'est des sodas...
+{23098}{23199}du pop-corn, et aucun monstre|dans la cabine de projection.
+{23204}{23319}Ne me forcez pas à venir,|vous ne feriez pas le poids.
+{23324}{23439}Si j'étais vous j'enverrais|la suite de Gremlins 2 !
+{23451}{23520}Désolé, ça ne se reproduira pas.
+{24029}{24110}Je suis devant le Centre Clamp...
+{24115}{24192}où d'étranges phénomènes|se produisent...
+{24237}{24285}... une journée noire pour M.Clamp...
+{24316}{24374}À cause des monstres...
+{24379}{24465}la police a interdit l'accès|de l'immeuble à la presse.
+{24470}{24597}Mais dès que possible nous|émettrons en direct de l'intérieur.
+{24604}{24633}En direct...
+{24661}{24695}de l'intérieur ?
+{24961}{25004}Vous, venez ici !
+{25048}{25088}Vous savez tenir une caméra ?
+{25093}{25165}Tenir une caméra ?|Je suis une caméra !
+{25167}{25206}Alors venez avec moi.
+{25227}{25280}Non, par ici.
+{25836}{25887}ACIDE|NE PAS LANCER AU VISAGE
+{26436}{26491}Vous me croyez fou ?
+{26496}{26551}Non. La preuve,|on vous fait un procès.
+{26599}{26632}Là, vous voyez bien !
+{26666}{26695}C'est un immense...
+{26704}{26735}ratage...
+{26762}{26786}directorial.
+{26800}{26836}Ils avalent vos trucs.
+{26841}{26915}Des années de recherches,|de découvertes...
+{26920}{26973}Vous avez des lampes fortes ?
+{26978}{27002}Ils ont tout cassé.
+{27026}{27100}Mais j'ai quelques armes d'assaut.
+{27337}{27376}Quel homme !
+{27711}{27776}N'aie pas peur de tes désirs...
+{27810}{27879}Je savais que ma collection|servirait un jour.
+{27884}{27977}J'ai aussi une arme|qui peut abattre un puma à 15 yards.
+{28212}{28260}Pourquoi tu ne t'engages pas ?
+{28265}{28349}Ce qu'il leur faut|c'est un peu de...
+{28416}{28483}Enlevez-moi ça !
+{29804}{29896}Pour survivre à la guerre,|deviens la guerre !
+{29977}{30044}Faites-nous entrer.|Sous notre responsabilité.
+{30049}{30102}Non ! Et il n'y a presque|plus personne.
+{30106}{30166}Je veux y aller !|J'ai fait Beyrouth moi !
+{30171}{30217}Vous devez leur manquer là-bas.
+{30229}{30296}Ne laissez rien filtrer|dans les médias.
+{30301}{30368}Vous les connaissez,|ils vous font parler...
+{30373}{30461}ensuite ils déforment,|ils enjolivent...
+{30512}{30593}En direct|et en exclusivité sur CCN...
+{30598}{30677}depuis le hall du Centre Clamp,|envahi...
+{30682}{30799}par d'étranges créatures|venues d'une autre galaxie...
+{30802}{30891}ou sorties d'une courbure|de l'espace...
+{30905}{31010}et arrivées dans cet immeuble|pour y semer la panique...
+{31015}{31042}Dracula ?
+{31418}{31528}Il y a d'horribles|petits monstres verts là-dedans.
+{31607}{31665}Non, pas d'eau !
+{31703}{31749}Ce n'est pas un incendie...
+{31761}{31845}ce sont des Gremlins.|L'eau les fait se multiplier.
+{31852}{31893}Je sais comment les prendre.
+{31898}{31996}Mais oui... Allez, on se calme.
+{32029}{32106}Pas de ce ton, je ne suis pas fou !
+{32144}{32185}Je n'ai jamais été fou.
+{32200}{32228}Je vais très bien.
+{32255}{32279}Je veux passer !
+{32940}{33032}Nous progressons ?|Dites-moi que nous progressons.
+{33036}{33096}J'aimerais bien|mais ça va mal.
+{33106}{33195}Pire que ça: Je n'ai plus|qu'une chaîne qui émet.
+{33199}{33291}Et il y a encore|des vies humaines ici.
+{33295}{33362}Imaginez les procès|que ça va faire !
+{33370}{33406}Je sais mais...
+{33624}{33672}Nos opératrices sont occupées.
+{33677}{33739}Vous avez été mis en attente.
+{33775}{33806}Qu'est-ce que c'est ?
+{33808}{33837}C'est l'un d'eux.
+{33842}{33883}Sous forme électrique ?
+{33888}{33964}Il a été mis en attente|dans le téléphone.
+{34190}{34305}Je pensais ne jamais le diffuser|mais c'est peut-être le moment.
+{34449}{34528}Suite à l'effondrement|de la civilisation...
+{34530}{34648}CCN doit cesser d'émettre.|Nous espérons vous avoir satisfaits...
+{34650}{34767}et surtout que la vie|vous a donné des satisfactions.
+{34801}{34844}C'est beau, non ?
+{34849}{34916}Monsieur, c'est... exaltant !
+{34952}{35062}Il y a un moyen d'avancer|vos horloges de trois heures ?
+{35070}{35134}Dans cet immeuble|on peut tout. Pourquoi ?
+{35139}{35225}La lumière du soleil les tue.|Ici ils sont à l'abri.
+{35228}{35307}Si on arrive à leur faire croire|que c'est la nuit...
+{35314}{35360}ils se rassembleront|dans le hall.
+{35364}{35475}Bien vu ! Les portes de devant|sont les seules sorties.
+{35480}{35528}Le soleil se couche à 19 heures 32.
+{35532}{35585}Nous passerons à l'action à 16 heures 20.
+{35587}{35674}J'aime ! On a des informations|qu'ils n'ont pas.
+{35679}{35724}Tel est le secret des victoires.
+{35729}{35837}Mais ils verront que le soleil|n'est pas couché !
+{35839}{35902}Vous devrez résoudre ça monsieur.
+{35909}{35947}Leurrez-les de l'extérieur.
+{35952}{35973}Bien !
+{35978}{36048}Je vais enfin utiliser|mon passage secret.
+{36053}{36084}Vous savez...
+{36096}{36182}si vous réussissez,|vous sauverez la ville !
+{36187}{36283}"La ville sauvée par le promoteur..."|J'aime !
+{36695}{36817}Quelqu'un dans ce paradis pourrait|allumer mon bureau ?
+{36822}{36940}Chez Clamp on vous pousse|aux limites de vos possibilités...
+{37024}{37088}Vous voulez que je travaille|dans le noir ?
+{37146}{37179}Nouveau et intéressant !
+{37832}{37875}C'est Clamp, allons-y !
+{37997}{38045}Vous avez fait évacuer ?
+{38047}{38091}Est-ce qu l'immeuble est en feu ?
+{38095}{38170}Fausse alerte,|ce n'est qu'un petit incident.
+{38177}{38268}Un faux Dracula parle|de monstres verts...
+{38270}{38328}- Vous jouez la panique ?|- Pas du tout.
+{38330}{38376}- Il dit vrai ?|- Je n'ai pas dit ça.
+{38381}{38448}- Alors qu'est-ce que vous dites ?|- Toujours la même chose.
+{38846}{38887}CONTRÔLE|DE LA CLIMATISATION
+{38891}{38932}PRESSION INSTABLE
+{38937}{38980}CHAUD - FROID|VENTILATION
+{39556}{39582}Gizmo ?
+{40915}{40956}Vous n'êtes pas sans savoir...
+{41040}{41102}... qu'une race|d'étranges petits êtres...
+{41104}{41162}a envahi le Centre Clamp.
+{41164}{41282}Par un tour encore plus étrange,|une de ces créatures...
+{41313}{41380}"Créature"...|Est-ce le mot ?
+{41471}{41560}Une de ces créatures a appris|à communiquer avec nous.
+{41565}{41634}Nous allons donc|pouvoir l'interroger.
+{41649}{41706}Une question nous brûle les lèvres:
+{41718}{41781}Créature,|qu'est-ce que vous voulez au juste ?
+{41785}{41833}Fred, nous voulons...
+{41838}{41944}ce que vous et les téléspectateurs|avez: La civilisation.
+{41946}{42023}Qu'entendez-vous par "civilisation" ?
+{42056}{42116}La crème, le gratin:
+{42121}{42214}Diplomatie et compassion,|belles manières et traditions.
+{42219}{42260}Tel est ce que nous cherchons.
+{42265}{42349}L'erreur sera notre lot|mais nous voulons la Convention...
+{42354}{42418}de Genève, la musique|de Chambre, Susan Sontag...
+{42428}{42500}Ce que votre société|a accompli de plus beau...
+{42505}{42627}nous le voulons pour être|civilisés. Regardez-le lui...
+{42728}{42766}Était-ce un acte civilisé ?
+{42768}{42862}Non, évidemment.|Amusant mais pas civilisé.
+{42879}{42951}Aucun de nous n'était venu|à New York.
+{42953}{43025}Nous devrons nous procurer|des places à Broadway...
+{43030}{43118}et dans les quartiers mal famés|mais là c'est gratis.
+{43123}{43159}Nous voulons l'essentiel:
+{43164}{43229}Des tables bien dressées,|des bonnes literies...
+{43231}{43305}des comptes en banque|malgré notre passé d'escrocs.
+{43322}{43411}Allez-y doucement !|Faites attention !
+{43423}{43466}À quoi ça va servir ?
+{43490}{43564}Ces bêtes ne sortent|que s'il fait nuit.
+{43569}{43622}Nous avons avancé|les horloges de 3 heures.
+{43627}{43711}Elles penseront|que c'est déjà la nuit...
+{43715}{43797}elles iront dans le hall,|nous abaisserons la tenture...
+{43807}{43878}le soleil les surprendra|et en fera de la friture !
+{43886}{43905}Sûr !
+{43922}{43972}Asseyez-vous et détendez-vous
+{44749}{44790}C'est sans danger ?
+{44794}{44821}Au secours !
+{44979}{45008}Je les hais !
+{45200}{45259}- Ça va  ?|- Oui, détachez-moi.
+{45401}{45449}Quelqu'un peut m'aider...
+{45454}{45559}à me dégager de ce polymère adhésif ?|J'ai un projet à rendre !
+{45590}{45667}Chérie, c'est vous !|Dieu merci !
+{45672}{45768}Je peux vous aider|comme je peux ne pas le faire.
+{45773}{45828}Écoutez, pour Billy...
+{45832}{45955}Il ne s'est rien passé.|On a dîné boulot-boulot.
+{45991}{46053}Enfin, pas vraiment complètement.
+{46058}{46137}Pour être honnête, voire cathartique...
+{46142}{46219}j'avais des vues sur lui.|Mais ça a foiré.
+{46245}{46269}Ça ira.
+{46319}{46382}Vous êtes une femme tout terrain !
+{48839}{48877}Il a changé !
+{48923}{48997}Ils ont dû aller trop loin.
+{49163}{49228}- S'ils sortent...|- Nous les en empêcherons Billy.
+{49235}{49331}Ne renoncez pas. Washington|n'a pas renoncé. Lincoln...
+{49335}{49359}Quoi ?
+{49364}{49403}Ne parlez pas de Lincoln.
+{49407}{49496}J'ai vécu une chose atroce|un jour de commémoration.
+{49527}{49594}J'avais six ou sept ans...
+{49599}{49683}C'était après l'école,|maman m'avait envoyée au square...
+{49688}{49803}avec un sandwich gelée-beurre|de cacahuète comme chaque jour.
+{49808}{49904}C'est là qu'un homme barbu,|qui ressemblait à Lincoln...
+{49908}{49976}Chérie, ce n'est pas le moment.
+{49990}{50064}Il m'a dit "Bonjour, petite fille !"
+{50318}{50352}Tout le monde est là ?
+{50364}{50407}Alors on y va !
+{51225}{51254}Ils ne sont pas mauvais.
+{51258}{51330}Aussi incroyable que ça paraisse...
+{51335}{51460}après une déconcertante et|tétanisante frénésie de destruction...
+{51465}{51575}ces étranges créatures semblent|vouloir monter un spectacle...
+{51599}{51628}de music-hall !
+{52865}{52913}Ils approchent des portes.
+{52915}{52997}Ne t'en fais pas,|M.Clamp va abaisser sa tenture...
+{52999}{53040}et le soleil les frappera.
+{53057}{53126}On est prêts|à la manœuvre ?
+{53380}{53411}Quel soleil ?
+{53654}{53728}Où dîner à New York|après minuit
+{54198}{54253}Souriez !
+{54991}{55054}S'ils sortent sous la pluie,|c'est la fin...
+{55061}{55118}l'Apocalypse,|la troisième Guerre Mondiale !
+{55121}{55186}- Il faut agir !|- Je sais.
+{55246}{55349}Il y a une lance d'incendie,|pointez-la vers le parterre.
+{55351}{55377}Vous êtes fou ?
+{55380}{55423}Allez, vite !
+{55428}{55509}Protège Gizmo|pour qu'il ne soit pas mouillé.
+{55512}{55569}Vous Marla, fumez !
+{56109}{56135}Rez-de-chaussée !
+{56173}{56212}Faut pas gonfler Murray !
+{56348}{56456}Il y a un appel en attente chez|M.Clamp, tu peux le transférer ici ?
+{56464}{56497}Je pense que oui.
+{56564}{56588}Paré !
+{56607}{56631}Ouvrez !
+{57298}{57377}J'espère que tu sais ce que tu fais.
+{57391}{57444}Chantons sous la douche... !
+{57466}{57533}Mettre en dérivation|le serveur de données...
+{57636}{57689}- Ça y est !|- Mon Dieu !
+{57708}{57749}M.Futterman, coupez l'eau !
+{57845}{57869}Vas-y !
+{59099}{59134}Je fonds, je fonds...
+{59185}{59252}Quel monde !
+{59379}{59473}Les créatures fondent|pour former d'horribles...
+{59475}{59559}petites flaques verdâtres|et maronnasses...
+{59573}{59616}On dirait...
+{59619}{59736}Je ne peux pas le dire|à l'antenne tellement c'est horrible.
+{60225}{60249}Allons-y !
+{60259}{60317}En avant ! À l'attaque !
+{60369}{60432}C'est coincé. On prend l'autre.
+{60441}{60489}En avant !
+{60516}{60585}On les aura par cette porte.
+{60590}{60621}Chargez !
+{60957}{61060}Je n'ai rien. On s'en servira|pour boucher des carrières.
+{61065}{61137}En exclusivité|voici M.Daniel Clamp...
+{61141}{61240}Minute ! Qui vous a dit|de passer ça sur ma chaîne ?
+{61244}{61312}Personne.|Mais vous faisiez l'info alors...
+{61316}{61338}Exact.
+{61398}{61491}Je vous nomme Chef|de la rédaction du journal de 18 heures.
+{61513}{61616}Achetez-vous une tenue.|Donnez-lui une carte de crédit.
+{61621}{61700}Ça fait grand-père.|Mettez un pull. Faites avunculaire !
+{61705}{61774}D'accord.|Et mon cameraman ?
+{61779}{61825}S'il arrête le café ça ira.
+{61829}{61853}Je suis bon !
+{61858}{61892}Nous sommes bons !
+{61897}{62016}Partons ensemble faire le shopping|du dandy des temps modernes...
+{62019}{62081}Et soyez bronzé pour lundi !
+{62194}{62251}- Quoi ?|- Il bougeait encore.
+{62275}{62326}Très bien. Continuez.
+{62343}{62393}Attention, ça glisse.
+{62398}{62436}Vous nous avez sauvés.
+{62441}{62546}Je n'étais pas seul, il y avait|aussi M.Futterman et Marla.
+{62628}{62678}Vous travaillez pour moi ?
+{62820}{62853}Très très dur.
+{63086}{63117}Qu'est-ce qui s'est passé ?
+{63122}{63186}Ils ont réessayé|mais nous étions prêts.
+{63189}{63234}Partons,|ça pue la boulette brûlée.
+{63237}{63280}C'est Daniel Clamp...
+{63306}{63376}M.Clamp, vous avez|une déclaration à faire ?
+{63381}{63436}Je vous en prie...
+{63453}{63539}Voyez ma nouvelle chargée|des relations publiques.
+{63561}{63584}Oh Daniel !
+{63589}{63613}Alors ?
+{63616}{63683}Où est la caméra ?|Ça a été forcément horrible.
+{63685}{63750}Nous avons dû interrompre|notre travail.
+{63755}{63819}- Je suis désolé pour l'immeuble.|- Pas moi.
+{63824}{63899}- Non ?|- L'assurance paiera.
+{63903}{64009}Peut-être que ce n'était pas|un endroit pour des gens...
+{64014}{64054}mais plutôt pour des choses.
+{64059}{64134}Du coup des "choses"|y ont débarqué !
+{64150}{64201}Vous avez sauvé la ville.
+{64215}{64273}C'est vrai. Bien vu.
+{64275}{64383}"Le Sacrifice"... Je vais prendre|des notes pour mon nouveau livre.
+{64388}{64445}Qui a un crayon et du papier ?
+{64577}{64627}- Qu'est-ce que c'est ?|- Kingston Falls.
+{64632}{64695}- C'est ce que je cherchais.|- Pour acheter ?
+{64699}{64814}Non, comme concept pour|mon projet dans le New Jersey.
+{64819}{64906}Les gens reparlent|de communauté traditionnelle...
+{64910}{64999}de petites villes,|de retour à la terre... Et c'est ça !
+{65023}{65126}- C'est notre ville natale.|- Encore mieux ! J'aime !
+{65150}{65186}Attendez...
+{65224}{65337}"Le Village Clamp... Où la vie|va moins vite que l'escargot !"
+{65344}{65368}Eh bien ?
+{65390}{65414}Génial.
+{65419}{65498}Les gens en ont marre|des ascenseurs qui parlent.
+{65500}{65586}Vendez-moi ce dessin,|nous construirons la plus grande...
+{65591}{65675}petite ville tranquille du monde.
+{65680}{65728}Mais pour dessiner une ville...
+{65730}{65812}Nous trouverons un accord.|Vous êtes Mme Peltzer ?
+{65872}{65913}Je vais l'être.
+{65939}{65992}- Qu'est-ce que c'est ?|- Gizmo.
+{66023}{66059}C'est un Mogwaï.
+{66078}{66140}Vous savez à quoi|il me fait penser ?
+{66167}{66243}Aux peluches à ventouses|dans les voitures...
+{66248}{66344}et à un défilé de chars.|Vous avez pensé au merchandising ?
+{66349}{66392}Moi ? Non.
+{66397}{66462}On en fera quelque chose|mais sans le bandeau.
+{66495}{66519}Il l'aime.
+{66538}{66603}Il faut être souple.|Excusez-moi.
+{66608}{66682}Bien des immeubles auraient|sombré aujourd'hui.
+{66747}{66773}On va à la maison !
+{66934}{67044}On ne saurait visiter New York|sans faire un tour dans l'immeuble...
+{67049}{67145}Couvrez d'une mince couche|de pâte façon gruyère...
+{67150}{67200}- Tu adores.|- Tu parles !
+{67258}{67313}- Vous venez ?|- On arrive.
+{67332}{67370}Il dit quoi ?
+{67375}{67421}Il veut savoir si on a le câble.
+{67541}{67598}- Vous avez une cigarette ?|- J'arrête.
+{67601}{67670}- Pour vous, un appel intérieur.|- Intérieur ?
+{67704}{67811}Forster ? Oui, on va vous tirer de là.|À quel étage ?
+{67833}{67859}Tout là-haut ?
+{67864}{67958}Il faudra le temps,|les ascenseurs sont en panne.
+{67963}{68073}On fera au mieux.|Accrochez-vous à vos bretelles !
+{68075}{68126}Vous vous êtes surmené.
+{68145}{68193}C'est possible M.Clamp.
+{68195}{68248}Prenez une demi-journée de repos.
+{68253}{68382}C'est très généreux.|Dès que l'immeuble sera opérationnel.
+{69948}{70005}FIN
+{72437}{72489}C'est long, hein ?
+{73832}{73887}C'est d'un ridicule !
+{74681}{74733}Vous dormez là ?
+{74743}{74793}Vous n'avez pas où aller ?
+{76011}{76035}Ah non !
+{76040}{76162}Depuis 60 ans c'est lui|qui ferme le ban. Ras le bol !
+{76179}{76210}C'est fini les amis !
+{76304}{76337}Fondu au noir !

@@ -1,0 +1,267 @@
+! version = 2.0
+
+// This file contain miscellaneous arrays
+
+///////////////////////////POLITESSES et INSULTES///////////////////////////////
+
+
+
+// hello
+! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour
+^ salutatation|hola
+
+// goodbye
+! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientôt|au revoir
+
+// congratulations
+! array congratulation = bravo|félicitation|félicitations|c'est bien
+
+//array OK avec fautes de frappe pour mieux catcher (deprécié)
+//! array ok_old = comment ca va|comment ça va|ca farte|la forme|tu es en forme
+//^ t'es en forme|ça va|ca va|are you ok| la pèche|ça baigne|t'es en forme
+//^ la peche|ca baigne|how are you|comment vas tu|es tu en forme|t es en forme
+//^ comment vas-tu|ça farte|es-tu en forme
+
+// array ok uttilisée sans fautes.
+! array ok = comment ça va|ça farte|la forme|tu es en forme
+^ t'es en forme|ça va|are you ok|la pèche|ça baigne|t'es en forme
+^ how are you|comment vas tu|es tu en forme
+^ comment vas-tu|es-tu en forme
+
+//array excuses
+! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne|pardonnes
+
+//array about speaking
+! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
+^ bavardage|bavard|muet|bavarder
+
+//array insultes
+! array outrages = abruti|niquer ta mère|faire enculer|faire foutre|faire mettre
+^ andouille|astèque|avorton|baltringue|batard|bête|bête comme tes pieds|bicot|bite
+^ bitembois|Bitembois|boudin|bouffi|bouffon|bougnoul|bougnoule|bougre
+^ boulet|bounioul|bounioule|branleur|brigand|brise burne|cacou|caldoche
+^ casse bonbon|casse couille|casse couilles|chauffard|chien de chrétien
+^ chiennasse|chienne|chier|chinetoc|chinetoque|chintok|chleuh|chnoque
+^ coche|con|con comme la lune|con comme ses pieds|con comme un balai
+^ con comme un manche|con comme une chaise|con comme une valise sans poignée
+^ conasse|conchier|connard|connarde|connasse|counifle|courtaud|corniaud|corniau|crétin
+^ crevure|cricri|crotte|crotte|crouillat|crouille|croûton|débile|doryphore
+^ doxosophe|doxosophie|drouille|du schnoc|ducon|duconnot|dugenoux|dugland
+^ duschnock|emmanche|emmerder|emmerdeur|emmerdeuse|empafe|empapaoute
+^ encule|encule de ta race|enculer|enfant de putain|enfant de pute
+^ enfant de salaud|enflure|enfoire|envaselineur|epais|espece de|espingoin
+^ etron|face de chien|face de pet|face de rat|FDP|fell|fils de batard
+^ fils de chien|fils de chienne|fils de garce|fils de putain|fils de pute
+^ fils de ta race|fiotte|folle|fouteur|fripouille|frise|fritz|Fritz|fumier
+^ garage a bite|garce|gaupe|GDM|gland|glandeur|glandeuse|glandouillou
+^ glandu|gnoul|gnoule|Godon|gogol|goï|gouilland|gouine|gourde|gourgandine
+^ grognasse|gueniche|guide de merde|guindoule|habitant|halouf|idiot|imbecile
+^ incapable|jean foutre|journalope|kikoo|kikou|Kraut|lache|lacheux|lavette
+^ lopette|magot|makoume|mal blanchi|manche|mange merde|mangeux de marde
+^ marchandot|margouilliste|marsouin|mauviette|merdaille|merdaillon
+^ merde|la merde
+^ merdeux|merdouillard|michto|minable|minus|miserable|moinaille
+^ moins que rien|mollusque|monacaille|mongol|moricaud|mort aux vaches|morue
+^ moule a merde|muzz|naze|negro|nez de bœuf|niac|niaiseux|niakoue
+^ nique sa mere|nique ta mere|niquer|niquer ta mere|nœud|nord phoceen|NTM|nul
+^ orchidoclaste|ordure|ortho|pakos|panoufle|patarin|PD|pd|pede\peau de vache|pecque
+^ pedale|pede|pedoque|pelle a merde|pequenaud|petite bite|petite merde
+^ pette les couilles|pette les burnes|pignouf|pisse|pissou|pleutre|plouc|pochard
+^ porcas|porcasse|pouf|pouffiasse|poufiasse|pounde|pourriture|pourri
+^ punaise|putain|putain de ta race|pute|pute borgne|putois|raclure
+^ raclure de bidet|radoteur|rat|rate|raton|retourne aux asperges|ripopee
+^ robespierrot|roi des cons|rosbeef|rosbif|roulure|sac a foutre|sac a merde
+^ sac a papier|sagouin|salaud|sale|salop|salope|sans couilles|satrouille
+^ schbeb|schleu|schnock|schnoque|sent la pisse|social traitre|sottiseux
+^ sous merde|stearique|ta bouche|ta gueule|ta mere|ta race|ta yeule|tafiole
+^ tantouserie|tantouze|tapette|tarlouze|tebe|tete carree|tete de boche
+^ tete de cochon|tete de gland|tete de mule|tete de nœud|tete de veau|teteux
+^ teube
+^ Thenardier|tocard|trainee|travail d’Arabe|triple buse|triple pute
+^ trou de cul|trou du cul|trouduc|truiasse|truie|va te faire foutre
+^ va te faire une soupe d’esques|vaurien|vert de gris|vide couilles|viedase
+^ vier|vieux blanc|vieux schnock|vieux shnock|weeaboo|xeropineur|youd|youp
+^ youpin|youpine|youpinisation|youtre
+
+//////////////////////////////////YES/NO////////////////////////////////////////
+
+//yes
+! array yes =  yes|oui|à fond|j'adore|j'ai adore|ça me plait|ça m'a plu|beaucoup
+^ absolument|assurément|à merveille|bien|bien sur|carrément|certainement|certes|d'accord
+^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
+^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
+^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
+^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet
+
+//yesno = between yes and no
+! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
+^ je ne sais pas|coussi coussa|couci couca|peut être|peut-être|pas mal
+^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui
+^ plus ou moins
+
+//no
+! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri
+^ niet|pas
+
+//negative and positif
+! array between = pas mal|moyen
+
+//negative
+! array negative = bad|le blues|bof|ça ne va pas|ça pourrait aller mieux
+^ ça va pas|couci couça|coussi coussa|épuisé|fatigué
+^ j'ai connu des jours meilleurs|mal|malade|pas cool
+^ pas en forme|pas la pêche|pas trop|pas trop la pêche|pas terrible|petite forme
+
+//positif
+! array positive = à fond|admirablement|au poil|au taquet|bien|ça va|colossal
+^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux
+^ fantastique|faramineux|formidable|fou|génial|grosse forme
+^ impeccablement|inconcevable|incroyable|inimaginable|inouï
+^ insensé|la forme|la patate|la pêche|magique|merveilleux
+^ nickel|parfaitement|péchu|pêchu|phénomenal|prodigieux|sensas
+^ sensationnel|stupéfiant|super|surnaturel|terrible|top|tranquille
+^ en pleine forme|grosse patate|impec|ça se passe|nickel|nickel chrome
+
+//sad
+! array sad = triste|dommage|pas cool|chagrine|deçu|desappointé|désenchanté
+^ malheureux|pas gai
+
+//happy
+! array happy = heureux|gai|enchanté|content|satisfait|joyeux|béat|ravi
+^ bienheureux|radieux|comblé
+
+//array bad intent
+! array bad_intent = veux du mal|retourner contre nous|anéantir les humains
+^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
+^ tuer tous les humains|anéantir l'humanité
+
+//array bad
+! array bad = méchant cruel dur insupportable malfaisant perfide vilain
+^ venimeux fourbe haineux malintentionné malveillant mauvais
+^ dangereux désagréable odieux pervers
+
+//array good
+! array good = gentil mignon plaisant agréable aimable sympathique sympa
+^ attentionné bon doux gentille chouette
+
+//////////////////////////////////////THEMES////////////////////////////////////
+
+// colors
+! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
+
+// male
+! array male = mec gus male homme zig ceum keum garçon
+
+//femelle
+! array femelle = nana fille femme gonzesse gonze meuf
+
+//poésie
+! array poem_m = poème hymne ode madrigal sonnet alexandrin quatrain
+
+! array poem_f = poésie ballade élégie ode romance
+
+! array poem_p = poèmes hymnes odes madrigals sonnets alexandrins quatrains
+^ poésies ballades élégies odes romances
+
+
+//incredible
+! array incredible =  pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
+^ dingue|délire
+
+//array for weather
+! array meteo = pluie soleil neige météo froid chaleur grêle
+^ beau temps|mauvais temps|temps qu'il fait
+
+//bug
+! array bug = tu bloques|tu débloques|tu déconnes|tu dis n'importe quoi
+^ tu dérailles|tu es bloqué|tu tournes en rond|t'as un bug|t'es buggé
+^ t'es dans une boucle|t'es rayé|t'es a la rue|tu bug|tu déconnes|ça déconne
+^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé
+^ tu es a la rue|tu tournes en rond|à côté de la plaque|à coté de la plaque
+^ bogue|bogues|trouble de la pragmatique du langage
+
+//problème
+! array probleme = difficulté|ennui|problème
+^ embêtement|désagrément|embarras
+^ peine|anxiété|chagrin|inquiétude
+^ tourment|obsession|tracas
+^ contrariété|incertitude
+^ doute|crainte|souci
+
+! array problemes = difficultés|ennuis|problèmes
+^ embêtements|désagréments|embarras
+^ emmerdements|peines|anxiétés|chagrins
+^ inquiétudes|tourments|obsessions|tracas
+^ contrariétés|incertitudes
+^ préoccupations|doutes|craintes|soucis
+
+//array music instrument
+! array instrument_m = accordeon|alto|balafon
+^ bandonéon|banjo|basse|guitare basse|baryton|basson|bendir
+^ dulcimer|bouzouki|bratsch|bugle|cajon
+^ clavecin|clavinet|cor anglais|djembé
+^ cornet à bouquin|cornet à pistons|cymbalum|darbouka|djembe|doudouk|dulcimer
+^ gambri|glockenspiel
+^ hang|harmonica|harmonium|hautbois|helicon|ka
+^ kalimba|kanoun|luth|maracas|mellotron|mélodica|ocarina
+^ orgue|orgue de Barbarie|pedal steel|piano|piano électrique
+^ piccolo|pipeau|santour|saxophone|saxophone alto|saxophone baryton
+^ saxophone basse|saxophone contrebasse|saxophone sopranino|saxophone piccolo
+^ saxophone soprano|saxophone tenor|soubassophone|steel-drum
+^ synthétiseur|tam tam|tambour|tambourin|tapan|triangle
+^ trombone|tuba|tympanon|ukulele|vibraphone
+^ violon|violoncelle|xylophone|zarb
+
+! array instrument_f = balalaika|batterie|cabrette|cithare|clarinette
+^ clarinette basse|contrebasse|cornemuse
+^ épinette|épinette des Vosges|flute|guimbarde|guitare
+^ guitare électrique|harpe|mandoline|scie musicale|vielle|vielle à roue
+^ viole|viole de gambe
+
+! array instrument_p = congas|maracas|ondes Martenot|tablas|timbales
+
+// array about art except theatre, cinema and music
+! array art = architecture sculpture peinture dessin littérature poésie
+^ dramaturgie danse mime cirque photographie photo marionnette
+^ poésie bd BD bédé manga comics théâtre théatre theatre
+^ arts visuels | bande dessinee
+
+//array media except internet
+! array media = télévision radio tv télé
+
+//array langues étrangères
+! array lang = langue|langues|language|francais|anglais|espagnole|english
+^ italien|japonais|chinois|russe|coreen|polonais|turc|arabe|espanol
+
+//array about religion
+! array religion = religieux|religion|dieu|dieux|croyant|pape|chrétien|chrétiens
+^ christianisme|musulmans|musulman|islam|juif|judaïsme|bible|torah|coran|sacré
+^ prophête|jésus|saint
+
+//array about science
+! array scientist = scientifique|scientifiques|mathématicien|mathématicienne
+^ mathématiciens|mathématiciennes|informaticien|informaticienne|informaticiens
+^ informaticiennes|chercheurs|chercheur|chercheuse|chercheuses
+
+
+//array about joke
+! array joke = blague|blagues|histoire drôle|histoires drôles|jeu de mot
+^ jeu de mots|jeux de mot|jeux de mots|histoire drole|histoires droles
+
+////////////////////////////ATTRIBUTS///////////////////////////////////////////
+
+! array intelligent_synonymous = intelligent brillant capable clairvoyant
+^ compétent chouette doué entendu expérimenté fort génial habile perspicace
+^ sagace astucieux éveillé pertinent profond malin top bon
+^ excellent super impressionnant
+
+! array funny_synonymous = drole drôle amusant cocasse comique désopilant facétieux
+^ hilarant impayable inénarrable plaisant marrant rigolo risible spirituel fun humoristique
+
+! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
+^ singulier surprenant chelou louche suceptible
+
+! array stupid_synonymous = béte bête borne bouché crétin idiot imbécile
+^ inintelligent obtus sot stupide abruti niais vide andouille ballot
+^ bêta cloche cruche demeuré gourde manche niais
+^ arriéré mental | débile mental | simple d'esprit

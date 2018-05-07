@@ -61,7 +61,11 @@ class KesakoAdapter(AlanLogicAdapter):
     def can_process(self, statement):
         # Process only if the latest statement in the conversation
         # contain the relation
-        return (self.relation in statement.text)
+        if (self.relation in statement.text):
+            if (" qui " not in statement.text):
+                return True
+        else:
+            return False
 
     def process(self, statement):
 
@@ -72,17 +76,28 @@ class KesakoAdapter(AlanLogicAdapter):
         # Here, we also remove the words "que" and "qu'"because of "qu'est ce que
         # c'est que ..." questions and remove the string " quoi " if it begin concept_A (because of "C'est
         # quoi..." questions)
-        concept_A = re.sub(".*[ ']"+self.relation+" (qu['e] )*(quoi)*","",
+        concept_A = re.sub(".*[ ']"+self.relation+"(-ce)*( ce)*( qu['e])*( quoi)*","",
                                                             statement.text)
         # Remove the punctuation from concept_A except apostrophe "'"
         concept_A=utils.remove_punctuation(concept_A, False)
 
-
+        #remove quoi because of c'est quoi questions
         concept_A = re.sub("^(quoi)","",concept_A)
+        #remove c'est que because of qu'est ce que c'est que questions
+        concept_A = re.sub("^(c'est que)","",concept_A)
+        concept_A = re.sub("^(c'est)","",concept_A)
+
         # Remove starting and ending spaces
         concept_A=concept_A.strip()
+
         # Get the interrogative part of the question that is before the concept_A
-        question = statement.text.split(concept_A)[0]
+        question = ""
+        if len(concept_A) != 0:
+            question = statement.text.split(concept_A)[0]
+        # Magic substitution to change things like "ton" into "mon"
+            concept_A = utils.magic_sub(concept_A)
+        else:
+            return None
 
         # Get the distance between input statement and questions list
         confidence = utils.compare(question, self.questions)
@@ -92,9 +107,14 @@ class KesakoAdapter(AlanLogicAdapter):
         concept_B = self.chatbot.storage.get_related_concept(concept_A, self.relation)
         concept_C = self.chatbot.storage.get_related_concept(concept_A,
                                                     self.relation, reverse=True)
+
+
+
+
         # If concept_A is related by the relation to another concept, put
         # this concept into concept_B
         if concept_B :
+
             # Answer the question
             options = ["%(A)s %(rel)s %(B)s.",
                        "Je penses savoir que %(A)s %(rel)s %(B)s.",
@@ -119,7 +139,7 @@ class KesakoAdapter(AlanLogicAdapter):
         else:
             # Answer and ask
             options = ["Personne ne m'a jamais appris ce qu'%(rel)s %(A)s.",
-                       "Maintenant que tu me pose la question je m'apperçoit que je ne sais pas vraiment ce qu'%(rel)s %(A)s.",
+                       "Maintenant que tu me pose la question je m'aperçois que je ne sais pas vraiment ce qu'%(rel)s %(A)s.",
                        "Je ne sais pas ce qu'est %(A)s.",
                        "%(A)s ? Je ne sais pas exactement..."]
             response = choice(options) + " " + choice(self.ask)
@@ -130,7 +150,7 @@ class KesakoAdapter(AlanLogicAdapter):
         # Verify that concept_A is non-empty or to big (more than 4 words),
         #  if it is then change confidence to 0
         if len(concept_A) == 0 or len(concept_A.split(" "))>4:
-            confidence=0
+            return None
 
 
         statment_out = Statement(utils.sentencize(response))

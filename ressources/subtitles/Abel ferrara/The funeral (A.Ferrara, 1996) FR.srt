@@ -1,0 +1,932 @@
+{290}{376}N'oubliez pas que nous|on risque la pendaison.
+{380}{478}À la moindre fausse manœuvre|je vous descends tous.
+{502}{540}Tenez-vous à carreau.
+{561}{617}Je pourrais avoir ce sac à dos ?
+{621}{651}Pour quoi faire ?
+{655}{723}Pour prendre|ma police d'assurance-vie.
+{734}{812}Pourquoi, tu t'attends à mourir ?
+{818}{862}Bien deviné M.Maple.
+{1397}{1511}NOS FUNERAILLES
+{6907}{6937}Un sandwich ?
+{6941}{7011}Non merci Ray.|Faut qu'on y aille.
+{7015}{7081}On fera la levée du corps|demain matin.
+{7085}{7135}En cas de besoin appelle-nous.
+{7139}{7159}Merci.
+{7193}{7223}Il est bien.
+{7249}{7269}Merci.
+{8143}{8195}Passe-moi Juli, c'est Ray.
+{8266}{8314}C'est moi, ramène-toi en vitesse.
+{8625}{8684}Ray.|Mon frère est rentré ?
+{8717}{8776}Amène-le ici dès qu'il rentre.
+{8798}{8832}Oui, il est là.
+{8864}{8915}Qu'il rapplique en vitesse.
+{9082}{9130}Minute !|C'est quoi ça ?
+{9191}{9223}C'est quoi, hein ?
+{9254}{9333}Faut passer par moi|avant de livrer des fleurs
+{9337}{9385}de l'extérieur, compris ?
+{9443}{9507}Plus de fleurs|sans mon accord, vu ?
+{9511}{9543}Un problème ?|Dehors !
+{9547}{9585}On a une adresse, on livre.
+{9589}{9625}Je ne vous connais même pas.
+{9716}{9759}Ils ne sont pas sourds.|Enfoirés !
+{9763}{9805}Savent même pas d'où ça vient.
+{9809}{9847}Ça va, ils ont compris.
+{9968}{10052}Qu'ils aillent se faire foutre|et leurs fleurs avec.
+{10056}{10122}Comment tu veux qu'ils sachent ?
+{10230}{10262}Souvenez-vous-en !
+{10330}{10387}Qu'est-ce que je vous ai dit ?
+{10391}{10439}Ça suffit maintenant !
+{10476}{10533}Je vous ai dit|de ne pas faire de bruit.
+{10537}{10567}Ça suffit !
+{10578}{10635}Je ne plaisante pas, calmez-vous.
+{10644}{10703}Vous devez|rester tranquilles, OK ?
+{10713}{10787}Je ne vous le demande pas,|je l'exige.
+{10807}{10857}Bon, allez dans la cuisine.
+{10861}{10934}Donnez-moi vos foutus pistolets.
+{10945}{10995}Qui leur a offert ça, hein ?
+{11033}{11071}Jean, fais-les taire.
+{11075}{11121}Apporte-moi les lits de camp.
+{11734}{11806}Ecoute Ray,|on en a pour trois jours
+{11810}{11882}alors calme le jeu, tu me suis ?
+{11898}{11980}Ce sont des gosses,|ils ne peuvent pas comprendre.
+{11984}{12028}Ce soir tu devrais
+{12032}{12098}les laisser partir avec ma sœur.
+{12102}{12158}Ils resteront avec leur famille.
+{12294}{12337}Gaspare a envoyé des fleurs.
+{12341}{12408}Et tu les as renvoyées.|Ça veut dire quoi ?
+{12412}{12469}Je n'en sais rien, tout ça me dépasse.
+{12473}{12501}En tout cas
+{12520}{12558}il sait ce que j'en pense.
+{12580}{12645}Il a toujours su|ce que t'en pensais.
+{13505}{13562}Elle est là|comme une âme en peine.
+{13567}{13657}Personne lui donne à manger ?|Elle va s'évanouir.
+{13662}{13735}C'est une grande fille,|qu'elle se débrouille.
+{13739}{13765}Laissez-la.
+{13770}{13823}Ray, Cesarino est là.
+{15211}{15243}Approche fiston.
+{15330}{15374}Dis adieu à tonton Johnny.
+{15393}{15435}Adieu tonton Johnny.
+{15529}{15557}C'est bien fiston.
+{15655}{15685}Viens dans la cuisine.
+{15720}{15772}C'était qu'un gosse.
+{15809}{15868}Il avait 22 ans et ils l'ont tué.
+{16551}{16585}Petit frère.
+{17044}{17100}Allez dans la cuisine !
+{17537}{17616}Ray envoie|Bacco et James dans l'ambulance
+{17620}{17698}pour écouter ce que dit le gosse|et découvrir
+{17702}{17758}quel est|le fils de pute qui a tiré.
+{17762}{17835}Comme si on ne savait pas.|Ils reviennent en disant
+{17839}{17924}que le gosse chialait parce|qu'il avait fait dans son froc.
+{17928}{17997}Il croyait|avoir fait dans son froc.
+{18001}{18043}"J'ai fait dans mon froc !"
+{18072}{18162}Le toubib lui a dit|qu'il y avait bien plus grave
+{18167}{18232}et l'autre continue de chialer.
+{18236}{18332}Pas moyen de l'arrêter:|"J'ai fait dans mon froc !"
+{18336}{18395}Tu crois qu'il aurait donné|le nom du tueur ?
+{18427}{18453}Quel con !
+{18496}{18530}Ray va faire quoi ?
+{18534}{18580}C'est ce que le cinglé de Chez
+{18584}{18638}va faire qui me fout les jetons.
+{18986}{19034}Comment ça va Victor ?
+{19045}{19073}Sali.|Bonsoir.
+{19077}{19111}Ça va ?|Je vais bien.
+{19115}{19180}Je suis bouleversé.|Comment vont les choses ici ?
+{19184}{19278}À mon avis on aurait|plutôt besoin d'un exorciste.
+{19372}{19406}Vous êtes allés à l'hosto, non ?
+{19410}{19481}Quand on est arrivés|il était dans le coma.
+{19485}{19559}Il est mort sur la table d'op,|comme ça.
+{19567}{19613}Tu sais ce qu'a dit Ray ?
+{19617}{19703}"Papa est plus là...|Faut qu'on soit à la hauteur."
+{19749}{19826}Bonsoir Jean.|Mes condoléances.
+{19947}{19990}Désolé pour ton frère.
+{20468}{20550}Nous sommes réunis ici ce soir
+{20567}{20657}pour nous souvenir de Johnny|et prier pour lui.
+{20661}{20737}Au nom du Père,|du Fils et du Saint-Esprit.
+{20741}{20789}Amen. Prions.
+{20793}{20889}Seigneur, nous te remercions|pour la vie de Johnny
+{20893}{20950}et te demandons de l'accueillir
+{20955}{21005}dans tes bras miséricordieux.
+{21183}{21297}Ray, à 13 ans l'israélite|fait une cérémonie,
+{21301}{21360}la Bar-Mitzvah,|qui signe sa majorité religieuse.
+{21365}{21482}Il n'en est pas pour autant prêt|à affronter le monde.
+{21487}{21531}C'est encore un enfant.
+{21535}{21675}Il porte encore en lui les peurs|qu'il devra maîtriser.
+{21683}{21746}Plus vite il les maîtrisera,
+{21750}{21802}plus vite il deviendra homme.
+{21806}{21906}Plus il apprendra,|plus il fera de choses
+{21910}{22002}et plus il sera à même|de vivre dans ce monde.
+{22035}{22059}Cet homme...
+{22096}{22131}t'a trahi
+{22146}{22203}et vous a volés.
+{22218}{22250}Il doit mourir.
+{22254}{22354}On ne peut pas vivre avec ses ennemis.
+{22358}{22446}S'il part d'ici vivant
+{22467}{22528}il risque de revenir pour nous tuer.
+{22572}{22618}Tant que nous vivrons
+{22622}{22689}sa vie sera en danger.
+{22693}{22775}Il vivra avec la crainte|de nous voir changer d'idée.
+{22987}{23044}Je n'ai mis qu'une balle.
+{23078}{23122}Tue-le.
+{23241}{23313}Je ne le ferai pas. Tue-le
+{23323}{23415}ou alors libère-le|et attends son retour.
+{23652}{23687}Tue-le.
+{25249}{25304}Porte toujours ça sur toi,
+{25316}{25370}il n'y a pas plus précieux.
+{26179}{26223}Pourquoi tu n'entres pas ?
+{26227}{26303}Je le ferai|dès que l'autre con sera parti.
+{26368}{26438}Dis pas ça,|tu devrais être à l'intérieur.
+{26455}{26545}C'est pas le moment|de remettre ça sur le tapis.
+{26617}{26678}J'ai demandé à Helen de rester.
+{26780}{26820}Ça vaut mieux comme ça.
+{26899}{26939}Il n'y aura pas de problème.
+{27033}{27077}Retourne à l'intérieur.
+{27164}{27237}Oublie-le,|qu'il se batte avec qui il veut.
+{27367}{27407}Comme tu voudras.
+{27425}{27451}Promis ?
+{27527}{27553}Promis.
+{27634}{27666}Ils te tueront...
+{27696}{27762}tout comme lui et bientôt Chez.
+{27847}{27883}Où tu vas ?
+{27936}{27972}Et les enfants ?
+{27976}{28031}Et s'ils s'en prennent|aux enfants ?
+{28278}{28306}Ferme la portière.
+{28346}{28378}Je t'aime.
+{28504}{28530}Quoi ?
+{28994}{29078}Il faut un four spécial|pour cuire ces gâteaux.
+{29082}{29154}Vous voyez,|c'est fait avec des pignons de pin.
+{29166}{29238}En Amérique|il faut payer pour en avoir.
+{29242}{29321}C'est très cher,|comme une denrée rare.
+{29325}{29388}Chez vous|on les trouve facilement ?
+{29392}{29434}On les trouve par terre.
+{29438}{29497}Suffit d'écraser les pignes|avec une pierre.
+{29502}{29550}Ecraser quoi avec une pierre ?
+{29554}{29611}Les pignes. On les écrase
+{29616}{29692}et on récupère les pignons.|Ici ça s'achète.
+{29751}{29804}Merci pour le café.
+{29815}{29891}À demain soir Clara.|Merci beaucoup.
+{29895}{29923}Je vous raccompagne.
+{30228}{30296}Si je peux faire quelque chose...
+{30360}{30408}Oui, priez pour nous.
+{30463}{30507}Pour être franc avec toi
+{30523}{30587}les choses ne changeront pour vous
+{30591}{30675}que si ta famille|évolue radicalement.
+{30680}{30760}Il ne s'agit pas uniquement|d'aller à la messe,
+{30764}{30858}vous vivez tous les jours|comme des athées.
+{30949}{31006}Ma famille croit en Dieu.
+{31043}{31131}Vous n'en avez pas encore|assez bavé pour croire en Dieu.
+{31176}{31230}On a peut-être besoin d'un miracle.
+{31388}{31434}Priez pour nous Tommy.
+{31469}{31507}Priez pour vous-mêmes.
+{31529}{31582}Alors il pourra arriver.
+{31687}{31767}Je prierai pour vous aussi,|ne t'inquiète pas.
+{32381}{32421}Ça ira fiston.
+{32484}{32510}Ça va ?
+{32525}{32557}Sûr ?
+{32575}{32609}Je t'aime.
+{32749}{32795}Je vais prendre l'air.
+{33696}{33749}Notre orateur est enfin là.
+{33753}{33818}Le représentant du peuple|à Detroit:
+{33822}{33850}Michael Stein.
+{33910}{33938}Camarades !
+{33947}{33971}Merci !
+{33995}{34021}Camarades !
+{34031}{34055}Merci !
+{34059}{34140}J'aimerais répondre|aux dernières accusations
+{34144}{34222}portées contre nous|par la presse capitaliste.
+{34248}{34344}On aurait abandonné|les conventions de la démocratie
+{34348}{34420}pour un matérialisme dictatorial.
+{34424}{34485}Ils soutiennent que l'ordre moral
+{34490}{34549}ne peut pas exister sous le socialisme
+{34558}{34606}parce que le fait d'être athées
+{34610}{34694}nous empêche de participer|à ce qui est bon,
+{34698}{34762}libre et juste.
+{34780}{34887}L'élection du camarade White,|criminel politique reconnu,
+{34896}{34973}prouverait notre attachement|à l'anarchie
+{34977}{35036}et à une idéologie amorale.
+{35041}{35091}Ce que je veux vous expliquer
+{35104}{35200}c'est que seuls les criminels,|tels qu'ils l'entendent,
+{35231}{35296}peuvent sortir ce pays|de la corruption,
+{35300}{35374}de la futilité|et de l'avidité de la mentalité
+{35378}{35424}capitaliste à l'agonie.
+{35454}{35554}Ce qu'ils ne veulent pas|que vous compreniez
+{35566}{35648}c'est que toute nouvelle idée|ou pas en avant
+{35652}{35768}pour l'humanité a été un jour|criminel et hors-la-loi.
+{35784}{35832}Ils tentent de l'occulter
+{35836}{35936}parce que vous ne seriez plus esclaves|de la machine capitaliste
+{35940}{36020}ni une pièce interchangeable|de leur machine.
+{36024}{36107}Vous maîtriseriez vos vies,|votre travail,
+{36111}{36177}et vous maîtriseriez vos idées.
+{36189}{36257}Voilà pourquoi|il faut avancer ensemble.
+{36267}{36361}Que tous les travailleurs|de cette terre s'unissent
+{36365}{36444}pour la liberté et luttons.
+{36448}{36501}Luttons ! Luttons !
+{36789}{36855}Les usines sont encerclées|par les flics.
+{36859}{36920}Elles sont devenues des forteresses.
+{36924}{36975}Les industriels ont les flics,
+{36979}{37043}tant mieux pour eux.|Les travailleurs nous ont.
+{37047}{37099}Celui qui nous paie nous a.
+{37103}{37187}Evite de te servir de ta tête,|elle est vide.
+{37192}{37216}Tu as raison.
+{37220}{37294}Eduquons les masses|grâce au camarade Stein.
+{37298}{37338}En voiture.|Tu as quoi ?
+{37342}{37422}Envie de pisser, de gerber ?|Espèce d'enflure.
+{37527}{37615}J'ai la queue qui me brûle.|À se demander si...
+{37620}{37660}Vous m'avez tout dit ?
+{37664}{37702}Démarre bordel.
+{38122}{38140}Sors de là !
+{38224}{38288}Amène-toi, allez !
+{38332}{38408}Pas d'entourloupe.|Mains en l'air.
+{38466}{38502}Drôles de sommations !
+{38514}{38559}Ta gueule Sali.
+{38563}{38627}Tirons-nous d'ici !|Regardez ça:
+{38640}{38682}des radios !
+{38735}{38777}Dites à l'autre con
+{38787}{38869}que tout est figé|tant que vous ne serez pas syndiqués.
+{38927}{38965}Un petit feu d'artifice ?
+{39128}{39178}Et toi ta gueule.
+{40113}{40157}Content de te voir Ray.
+{40190}{40243}Enrico Borghese, Ray Tampione.
+{40247}{40287}Salut Ray.|Content de te voir.
+{40292}{40318}Mon frère...
+{40322}{40372}Cesarino.|Ça va Enrico ?
+{40376}{40459}Johnny, mon autre frère.|Qu'est-ce que vous buvez ?
+{40477}{40521}Garçon ! Un cognac.
+{40539}{40593}Très drôle !|Tu prends un cognac ?
+{40606}{40661}Rien, merci.|Prends quelque chose.
+{40666}{40703}Un sandwich ?|Non, sérieux.
+{40707}{40749}Je bois pas d'alcool.
+{40759}{40807}Ce que tu veux.|Un soda ?
+{40822}{40844}Parfait.
+{40945}{40987}Henry possède Capitol Radio.
+{41024}{41083}Il emploie plein de gens d'ici
+{41095}{41154}mais la crise économique
+{41165}{41217}lui fait perdre du fric.
+{41274}{41331}Il a dû virer des gens
+{41337}{41429}et ses syndicats lui en font baver|à cause de ça.
+{41494}{41551}Ils mettent le feu aux camions,
+{41559}{41623}aux marchandises|et ils attaquent mes ouvriers.
+{41632}{41710}La police garde|la fabrique 24 heures sur 24.
+{41717}{41752}C'est la guerre
+{41756}{41838}et elle coûte cher|aux uns comme aux autres.
+{41883}{41934}Il veut continuer le business
+{41938}{41995}et donner du boulot|tant que possible,
+{41999}{42058}mais après six ans de crise
+{42062}{42129}il n'en peut plus Ray.|Il n'en peut plus.
+{42133}{42209}Il a besoin de faire|des coupes sombres
+{42221}{42271}et que les autres le suivent.
+{42279}{42361}Il sait qu'on est au mieux|avec l'UCW et il se demande
+{42366}{42417}si on ne pourrait pas intercéder.
+{42427}{42498}Je propose un dédommagement|aux licenciés et 60%
+{42502}{42549}du salaire à ceux qui restent.
+{42580}{42626}Et nous on y gagne quoi ?
+{42668}{42702}Mille dollars par mois.
+{42789}{42857}Ça représente beaucoup de salaires.
+{42862}{42925}Je fais du business|pour faire des bénéfices,
+{42951}{42999}je ne suis pas un mécène.
+{43027}{43099}Je sais ce qui est bien|pour mon usine et mes ouvriers.
+{43121}{43186}Si on veut travailler|c'est à mes conditions,
+{43190}{43257}sinon la porte.|D'autres accepteront.
+{43270}{43308}Des briseurs de grève, c'est ça ?
+{43348}{43436}La moitié du pays|qui cherche du travail en serait ?
+{43449}{43469}Oui,
+{43486}{43518}des briseurs de grève.
+{43543}{43585}Je veux être franc avec vous,
+{43589}{43644}je ne tiens pas à faire du chantage
+{43653}{43709}pour mener mes affaires en paix.
+{43722}{43788}Dites-leur que je m'occuperai|de vous, d'eux
+{43792}{43837}et de tous leurs protégés.
+{43841}{43900}Les autres|n'ont qu'à se débrouiller
+{43904}{43968}comme le font|la plupart des gens de ce pays.
+{43975}{44019}On dirait que vous cherchez
+{44054}{44096}à casser le syndicat.
+{44103}{44129}Johnny, ta gueule.
+{44133}{44209}Il ne nous demande pas d'agir|mais plutôt
+{44213}{44258}de ne pas bouger.
+{44286}{44345}On connaît|les problèmes de ce pays,
+{44350}{44447}économiques et autres.|On y réfléchit et on te contacte.
+{44464}{44525}Si le sort des ouvriers|vous intéresse,
+{44530}{44583}dites-leur|d'accepter cette offre.
+{44587}{44628}Ça vaut mieux|que le chômage.
+{44656}{44688}Oui, c'est vrai.
+{44712}{44769}Entendu, on va en discuter
+{44773}{44816}pendant un jour ou deux.
+{44820}{44886}Content de t'avoir connu Enrico.
+{44894}{44932}Portez-vous bien.
+{44956}{44997}Qu'est-ce qui t'a pris ?
+{45028}{45106}Qu'est-ce qui t'a pris ?|T'es con ou quoi ?
+{45159}{45191}Si t'es pas dans le coup
+{45195}{45243}annonce la couleur maintenant,
+{45247}{45286}pas plus tard.
+{45326}{45360}Tu sais ce que je pense.
+{45364}{45398}Tu penses quoi ?|Tu le sais.
+{45402}{45428}T'en es ou pas ?
+{45432}{45464}T'es dans ce coup ou pas ?
+{45494}{45542}Tu veux l'oseille, hein ?
+{45628}{45670}On prend le fric
+{45674}{45716}et on se serre les coudes.
+{45732}{45791}Tu sais quoi ?|Tu cherches les emmerdes.
+{45856}{45898}Tu les cherches.
+{46166}{46198}On n'a pas toute la nuit.
+{46202}{46248}Faites démarrer la voiture,
+{46272}{46302}j'arrive.
+{46348}{46418}Ça doit être chouette|d'être taré, non ?
+{46422}{46460}Tu sais qui tu me rappelles ?
+{46485}{46550}Ces types|qui revenaient de la guerre
+{46554}{46652}et qui se saoulaient|avant de rôder dans les rues
+{46662}{46728}à la recherche de radasses.|Ils ne pouvaient pas manger
+{46732}{46782}et baiser normalement.|Fallait
+{46786}{46845}que ce soit crade et déjanté.
+{46897}{47005}Tu aimes te battre,|picoler et mettre, pas vrai ?
+{47123}{47221}Tu es un porc Ghouly.|Un porc immonde et malsain.
+{47244}{47294}Tu es le genre de mec
+{47298}{47359}qu'il faudrait mettre|en quarantaine.
+{47370}{47420}Tu n'as pas de conscience.
+{47425}{47482}Si, j'ai une conscience.
+{47491}{47548}Je regretterai ça plus tard.
+{47552}{47598}Bien plus tard.
+{47757}{47814}Tu sais quel est ton problème ?
+{47849}{47903}Tu lis trop de bouquins.
+{47907}{47973}Beaucoup trop.|Ça te bousille le cerveau.
+{47977}{48028}C'est la tragédie de l'Amérique.
+{48032}{48072}On a besoin de se distraire.
+{48086}{48139}Et pour ça on a que les bouquins.
+{48215}{48303}La radio et les films|nous gardent aussi en vie.
+{48345}{48421}La vie serait sans intérêt|sans les films, non ?
+{48463}{48541}Tu finiras en enfer|à force de parler comme ça.
+{48707}{48751}T'es une mauvaise fille.
+{48782}{48824}Tu as fait ça pour moi ?
+{48992}{49051}Tu veux me rouler|une pelle après ça ?
+{49164}{49237}Amène-toi le tombeur, on se tire.
+{50216}{50252}Ghouly !|Quoi ?
+{50256}{50321}Fais-nous ta nouvelle danse,|tu veux ?
+{50325}{50379}Vous voulez que je danse ?|OK.
+{50383}{50442}Pour ta soirée d'inauguration
+{50476}{50550}je vais vous faire ma danse|mondialement connue:
+{50562}{50613}"Tartine de merde au petit déj."
+{51177}{51247}Tu risques pas de bosser|au Cotton Club !
+{51289}{51326}Entre donc Gaspare !
+{51340}{51366}Gaspare !
+{51401}{51429}Billy, Gaspare,
+{51433}{51492}préparez-vous au pire,|je paie à boire.
+{51497}{51543}Accrochez-vous au zinc.
+{51588}{51618}Vous prenez quoi ?
+{51623}{51653}Cognac.
+{51671}{51713}Pareil pour toi Billy ?
+{51755}{51795}Chouette endroit.|Merci.
+{51799}{51866}Très "vénérien".|Oui.
+{52084}{52143}Bonne chance Cesarino.
+{52148}{52209}Je trinque avec vous.
+{52402}{52442}Comment ça va Gaspare ?
+{52510}{52593}Qu'est-ce que tu as|à te secouer la cervelle comme ça ?
+{52597}{52649}Tu veux apprendre ?
+{52653}{52693}Tu as le prénom idéal.
+{52716}{52740}"Ghouly".
+{52751}{52808}En anglais ça veut dire monstre,|ce que tu es,
+{52812}{52908}en italien ça veut dire connard|et tu en es un.
+{52933}{52988}Il est marrant !|Content qu'il te plaise.
+{52992}{53040}Viens, je t'apprends la danse.
+{53047}{53113}Tu es tellement beau|dans ton costard.
+{53162}{53225}Ta politique te paralyse ou quoi ?
+{53310}{53373}Ramène-le chez lui|avant qu'il insiste
+{53382}{53426}sur la politique.
+{53469}{53516}Il ne m'emmène nulle part.
+{53526}{53633}Tu es prêt à retourner ta veste|pour faire plus républicain.
+{53670}{53706}Ferme-la Petey.
+{53736}{53782}Ferme-la.|Je rigole.
+{53786}{53820}Ferme-la Petey !
+{53824}{53846}Tu vas trop loin !
+{53855}{53875}Tu cherches
+{53879}{53926}les emmerdes.|Boucle-la !
+{53936}{53970}Laisse-le s'amuser.
+{53979}{54053}À ta place|je ne jouerais pas les gros bras.
+{54057}{54091}Tu sais Gaspy...
+{54151}{54193}tu ne me fais pas peur.
+{54215}{54271}Tire-toi Ghouly.|Ça suffit !
+{54275}{54338}T'es allé trop loin,|tu es dans la merde.
+{54342}{54415}Tire-toi.|Johnny, emmène-le loin d'ici !
+{54448}{54476}Maintenant !
+{54613}{54676}Je voulais juste...|Tire-toi !
+{54680}{54720}C'est sa soirée.|Je voulais...
+{54724}{54792}Non, c'est lui|qui décide des festivités.
+{54872}{54944}La crise est finie.|Fais quelque chose, chante !
+{54965}{54995}Fais-nous rigoler !
+{55013}{55052}Venez, je vais chanter.
+{55082}{55167}Il a une grande gueule.|C'est son truc.
+{55171}{55205}Tu devrais le calmer.
+{55209}{55306}Comment ?|Tu vas avoir des problèmes.
+{55328}{55383}Tu as raison.|Viens boire un coup.
+{55388}{55421}Salue Marco.
+{55425}{55459}Il est là.
+{57482}{57570}Tu as un problème avec|tes fonctions naturelles, hein ?
+{57931}{58015}Tout ce liquide|que tu as dans les veines te fait...
+{58077}{58131}ressentir quelque chose ?
+{58522}{58586}Ghouly, t'es un vrai connard.
+{59034}{59068}Ouvre !
+{59239}{59263}Ta gueule.
+{59348}{59391}Il était temps.
+{59429}{59464}Où tu étais bordel ?
+{59468}{59532}Clara et les gosses dorment|Johnny.
+{59549}{59576}Excuse-moi.
+{59594}{59626}Tu connais Bridget...
+{59640}{59713}Mon frère Cesarino.|On l'appelle Chez.
+{59717}{59754}Bridget Spoglia.
+{59893}{59927}Tu veux un verre ?
+{59951}{60025}Tout est là.|C'est tout ce qu'on a.
+{60130}{60150}Tiens.
+{60179}{60255}Tu ne m'en veux pas, dis ?|Fallait que je quitte la soirée.
+{60259}{60294}C'était vraiment chiant.
+{60320}{60354}Tu es la femme de Gaspare.
+{60403}{60437}Ce que tu es con.
+{60477}{60577}Tu es vraiment con.|Tu avais besoin de dire ça ?
+{60581}{60650}Vraiment besoin ?|Oui, c'est sa femme.
+{60654}{60730}Et alors ?|Sa vie est un calvaire.
+{60768}{60820}Ce n'est pas ton problème Chez.
+{60835}{60865}Tu as entendu ?
+{60883}{60923}Monte t'habiller,
+{60935}{61006}On va en ville.|On ne va nulle part.
+{61029}{61059}On va nulle part.
+{61064}{61096}Pourquoi tu as les jetons ?
+{61125}{61207}On est tous en business|avec Gaspare, non ?
+{61211}{61277}Qu'est-ce qu'il en a à foutre ?
+{61281}{61332}Allez, sois sympa.
+{61347}{61385}Ramène Bridget chez elle.
+{61398}{61428}Pardon ?|Ramène-la.
+{61432}{61489}La ramener chez elle ?|C'est ça.
+{61494}{61553}Pas question,|pas avant d'avoir baisé.
+{61567}{61609}Tu tournes pas rond.
+{61834}{61891}Tu crois pouvoir|tout te permettre ?
+{61896}{61934}Tu es chez moi !
+{61938}{61968}Chez moi !
+{61972}{61998}Arrête !
+{62007}{62075}On est chez toi ?|C'est que dalle Chez.
+{62079}{62109}Que dalle.
+{62129}{62215}Arrête Johnny,|laisse-le tranquille.
+{62220}{62281}Quand il saura|qu'on a saccagé ses magasins,
+{62286}{62345}tu crois qu'il va faire quoi ?
+{62350}{62385}Ça c'est que dalle.
+{62389}{62428}Vraiment que dalle.
+{62432}{62487}Tu joues à quoi ?|À quoi ?
+{62491}{62577}Tu as vendu ta putain d'âme !|Ça suffit !
+{62581}{62631}Toi fous le camp !
+{62635}{62698}T'avise pas de l'ouvrir !
+{62702}{62788}Tu veux quoi ? Vas-y, dis-moi ?|Quoi ?
+{62792}{62858}Te mêle pas de ça, tu as compris ?
+{62862}{62942}Te mêle pas de ça|ou je te casse la tête !
+{62946}{62988}Je t'écoute.|Chez, arrête !
+{62992}{63040}Ta gueule !|C'est la meilleure.
+{63044}{63108}Tu as vendu ton âme|et tu me fais la leçon ?
+{63112}{63180}Tu as décidé de faire|que des conneries ?
+{63190}{63249}Tu fais dans le pourri, t'es rien,
+{63253}{63291}tu ne vaux pas un clou.
+{63296}{63355}Libre à toi d'enrichir ce fumier
+{63360}{63434}mais laisse-moi|en dehors du coup, compris ?
+{63438}{63524}Je te pisse à la raie.|Tu n'es rien pour moi.
+{63533}{63575}Je vous pisse à la raie.
+{63579}{63658}Je vais te dire,|tu veux coucher avec lui ?
+{63662}{63712}Tu veux coucher avec lui ?|Quoi ?
+{63716}{63777}Surveille tes arrières|et ta baraque.
+{63782}{63829}Ça veut dire quoi ?|Tu as compris.
+{63833}{63859}Tu m'as compris.
+{64924}{64952}Chez est pas là ?
+{64957}{65010}Il est parti|chercher des cigarettes.
+{65014}{65036}Quand ?
+{65040}{65086}Il y a une demi-heure.
+{65134}{65179}On en a achetées en venant ici.
+{65183}{65233}C'est ce qu'il m'a dit.
+{65249}{65289}Il ne va pas tarder.
+{65357}{65387}Besoin de rien ?
+{65668}{65700}C'est qui ?
+{65825}{65861}Sainte Agnès.
+{65974}{66012}On lui a tranché la gorge
+{66024}{66128}pour avoir refusé les avances|d'un type. Elle avait douze ans.
+{66151}{66221}Sa statue décapitée|est dans une église en Italie.
+{66254}{66306}La sainte patronne de la pureté.
+{66381}{66419}Tu lui dis des prières ?
+{66565}{66643}Elle me rappelle|ce qui arrive quand on dit non.
+{67334}{67380}Je n'arriverai pas à dormir.
+{67423}{67463}Tu n'as qu'à rester allongée.
+{67538}{67568}Comme Johnny.
+{68484}{68512}Tu es amarré...
+{68569}{68645}Comme le navire qui arrive au port.
+{68691}{68719}Amarré...
+{68748}{68809}Je te le faisais|quand tu avais sept ans.
+{68861}{68889}Amarré...
+{69216}{69252}Ça suffit...
+{69329}{69363}Marre du morbide.
+{69391}{69437}J'ai horreur de ça.
+{69543}{69625}J'étais chez un ami un jour|et son frère m'a dit
+{69629}{69671}"Ça ne lui ressemble même pas.
+{69675}{69709}"Ça te ressemble."
+{69734}{69766}C'est comment ?
+{69856}{69886}Réponds.
+{69917}{69947}C'est comment ?
+{69984}{70022}Pas si mal ?
+{70053}{70081}Tu sais,
+{70112}{70193}j'ai toujours refusé|de marcher dans cette combine.
+{70197}{70265}Quand je regardais l'oncle Less,
+{70281}{70387}je ne marchais pas. Je le regardais|et je n'y croyais pas.
+{70414}{70466}Je ne crois pas qu'on meurt.
+{70568}{70594}Tu vois,
+{70620}{70672}je crois que|ça recommence à chaque fois.
+{70693}{70743}Quand on est un veinard comme toi,
+{70747}{70825}quand on naît|avec tant de qualités,
+{70837}{70935}si beau, intelligent et sympa,
+{70939}{71013}tout le monde t'aime.|Qu'est-ce qui t'a pris ?
+{71047}{71102}Quelle connerie, quel gâchis.
+{71148}{71240}Tout le monde|voulait te ressembler.
+{71275}{71296}En tout cas
+{71300}{71342}tu as eu de sacrés moments.
+{71370}{71417}Et même l'autre jour.
+{71421}{71495}Tu n'as jamais eu l'air aussi bien,|tu sais.
+{71528}{71584}Tu n'es sûrement pas d'accord
+{71588}{71630}mais ce qui t'est arrivé
+{71634}{71674}est une bonne chose.
+{73345}{73381}Qu'est-ce qu'il fout ?
+{73388}{73414}Hé Ray !
+{73420}{73436}Quoi ?
+{73457}{73512}Tu n'as jamais eu l'occasion|de voir ça
+{73526}{73578}dans le cadre syndical, hein ?
+{73583}{73663}Ce sont les agréments|de la technologie capitaliste.
+{73685}{73705}Eh bien...
+{73724}{73806}c'est toi qui as acheté ça,|fumier de coco.
+{73906}{73990}Hé les gars ! Voilà ce que|je pense du syndicalisme !
+{74108}{74150}Très romantique.
+{74209}{74248}Prends-en une goutte.
+{74330}{74362}Bon, on y va.
+{74584}{74643}Je commence à être en rut.
+{74999}{75038}Je sais pas...|Tout va bien.
+{75042}{75094}Non, ce n'est pas bien.
+{75105}{75143}Pas bien.|Pourquoi ?
+{75149}{75215}Tu n'es qu'une gamine.|Pas du tout.
+{75219}{75263}Tu n'es qu'une gamine.|Pas du tout.
+{75267}{75339}Regarde-toi, tu n'es qu'une enfant.
+{75375}{75411}T'es jolie mais...
+{75440}{75492}Qu'est-ce qui ne va pas ?
+{75496}{75553}Tout ça c'est pas pour toi.
+{75591}{75637}Ce que tu dois faire
+{75680}{75723}c'est rentrer chez toi.
+{75727}{75815}Je vais te donner 5 dollars|et tu vas rentrer.
+{75820}{75884}Tu n'as pas besoin de ça, vis ta vie.
+{75940}{76018}D'accord ? Je te file 5 dollars|et tu rentres.
+{76031}{76107}Donne-m'en plutôt dix et on baise.
+{76228}{76264}C'est l'argent, hein ?
+{76344}{76390}Et si je t'en file 20 ?
+{76407}{76451}Je vais t'en filer 20.
+{76492}{76522}Tu sais pourquoi ?
+{76527}{76567}Tu sais pourquoi, dis ?
+{76571}{76613}Pourquoi ?|Parce que...
+{76634}{76664}tu viens...
+{76693}{76731}de vendre ton âme.
+{76755}{76797}Tu as vendu ton âme.
+{76855}{76945}Tu en as 20 mais tu as vendu ton âme,|petite traînée !
+{76963}{76987}Traînée !
+{76991}{77027}Tu veux baiser ?
+{77043}{77118}Ferme ta gueule !|Pauvre conne !
+{77122}{77146}Tu ne seras jamais qu'une pute
+{77156}{77222}pour le restant de tes jours !
+{77352}{77430}Tu as vendu ton âme,|tu as pris les 20 dollars.
+{77463}{77514}Déconne pas avec le diable.
+{77518}{77564}Déconne pas avec le diable !
+{77571}{77651}Je t'ai donné le choix !|Tu as eu le choix !
+{77665}{77729}Ferme ta putain de gueule !
+{77763}{77787}Ta gueule !
+{77801}{77833}Comme ça.
+{78788}{78820}Tu rentres tôt.
+{78906}{78950}J'ai laissé les gars.
+{78972}{79018}Ils discutaient du club.
+{79051}{79083}J'étais fatigué.
+{79302}{79350}C'est sainte Daphné de Geel.
+{79423}{79469}Une sainte belge.
+{79487}{79531}La ville est célèbre.
+{79562}{79608}Jamais entendu parler.
+{79644}{79690}C'est un centre de soins.
+{79697}{79765}La ville est comme|un grand hôpital.
+{79771}{79850}Après le traitement|le patient vit dans une famille,
+{79854}{79920}il travaille,|il rejoint la communauté.
+{79938}{79997}C'est un système unique au monde.
+{80066}{80107}Pour les malades mentaux.
+{80166}{80252}Leur taux de guérison est élevé.|Elle est leur sainte.
+{80270}{80314}Pourquoi tu l'as choisie ?
+{80382}{80412}Cesarino,
+{80469}{80522}si on va là-bas|personne ne le saura.
+{80640}{80670}Moi je le saurai.
+{80769}{80837}Je pensais à un check-up,|c'est tout.
+{80842}{80874}Mauvaise idée.
+{80888}{80916}Ne t'énerve pas.
+{80920}{80964}Je m'énerve pas.
+{81004}{81044}Je m'énerve pas.
+{81119}{81147}Seulement...
+{81177}{81215}je n'aime pas
+{81231}{81265}ces idées
+{81299}{81349}que tu as sur moi.
+{81488}{81534}Je veux te savoir en paix.
+{81672}{81722}Si Dieu le voulait
+{81760}{81806}il y pourvoirait lui-même.
+{82238}{82282}Tu sais qui est en paix ?
+{82353}{82383}Mon père
+{82417}{82453}repose en paix.
+{82612}{82656}Tu voudrais ça pour moi ?
+{82927}{82960}Alors tu la fermes !
+{83522}{83575}J'ai entendu le coup de feu.
+{83626}{83681}Je suis entré dans le garage,
+{83685}{83808}il était dans la voiture,|le fusil en travers de la poitrine.
+{83988}{84058}Ils ont empêché sa femme de le voir.
+{84111}{84214}Ils ne l'ont même pas|enterré religieusement.
+{84244}{84301}Une femme et trois garçons...
+{84306}{84390}C'est comme ça|qu'on s'occupe de sa famille ?
+{84414}{84510}Que vont devenir|ces pauvre gens maintenant ?
+{84528}{84572}Quel malheur.
+{84709}{84768}Je suis venu dès que j'ai pu.|Désolé.
+{85511}{85535}Alors ?
+{85560}{85600}Les Spoglia ont fait le coup.
+{85623}{85647}Tu es sûr ?
+{85672}{85752}Absolument.|Tu crois qu'ils vont s'arrêter là ?
+{85794}{85836}Avant de s'occuper d'eux
+{85840}{85880}faudrait en discuter.
+{85884}{85904}Quoi ?
+{85932}{86007}Tu sais quoi ? Johnny se tapait|la femme de Gaspare.
+{86011}{86051}Il n'avait pas à faire ça.
+{86094}{86137}Il y a des circonstances
+{86141}{86211}atténuantes|qu'il faut prendre en compte.
+{86247}{86279}Atténuantes ?
+{86293}{86345}Sauf mon respect, tu es son frère.
+{86349}{86402}Si tu lui avais appris à vivre...
+{86451}{86500}Je devrais les remercier ?
+{86527}{86581}Tu trouves peut-être|que c'est bien.
+{86586}{86618}Ils ont tué mon frère.
+{86622}{86681}Ça ne pouvait que finir comme ça.
+{86696}{86740}Réfléchis aux conséquences.
+{86790}{86847}Tu es content qu'ils l'aient tué ?
+{86851}{86875}J'en ai l'air ?
+{86880}{86917}Tu es content ?|J'en ai l'air ?
+{86921}{86947}Tu es content ?
+{86977}{87027}Ça suffit !|Je ne suis pas venu pour ça.
+{87089}{87175}Je ne demande|que le tueur de mon frère,
+{87179}{87254}ses motivations|ne m'intéressent pas.
+{87362}{87406}Récupère Spoglia
+{87421}{87453}et emmène-le au club.
+{87457}{87509}Tu peux aller avec eux
+{87519}{87551}si tu en as envie.
+{88919}{88967}C'était qui ?|Juli.
+{88986}{89022}Il est venu voir Johnny.
+{89095}{89131}Dis-lui de partir.
+{89176}{89216}Que ce soit clair:
+{89250}{89305}celui qui l'a tué|ne s'en tirera pas.
+{89318}{89394}Tu n'as pas à te mêler|de qui a tué Johnny.
+{89503}{89560}Tu penses|à ce que risque ta famille ?
+{89575}{89665}Ce qui est arrivé à ma famille|est dans une boîte.
+{89678}{89748}D'en tuer un autre|ne lui rendra pas la vie.
+{89752}{89786}Garde ça à l'esprit:
+{89790}{89825}il n'est pas de ton sang.
+{89829}{89885}J'aurais trouvé mieux|que de lui donner
+{89889}{89943}un flingue.|T'es vraiment trop con.
+{89958}{90011}Qui est-ce qui se venge là ?
+{90016}{90084}Si je voulais me venger|je te laisserais faire
+{90088}{90128}et j'attendrais que tu en crèves.
+{90144}{90188}Tu veux qu'on aille au bout ?
+{90192}{90253}Tous ces grands catholiques disent
+{90278}{90349}que la vie|est soumise au libre arbitre
+{90353}{90426}mais aussi qu'on a besoin|d'avoir la grâce de Dieu
+{90430}{90500}pour faire le bien.|Alors je te dis
+{90504}{90590}que si je fais le ma,|c'est que je n'ai pas reçu la grâce
+{90594}{90640}pour faire le bien.
+{90656}{90726}Rien ne se passe|sans sa permission, donc...
+{90779}{90799}si...
+{90841}{90885}ce monde est pourri
+{90889}{90931}c'est de sa faute.
+{90965}{91045}Moi je fais|avec ce qu'on m'a donné.
+{91077}{91165}Les balles dans le crâne|c'est de la faute de Dieu ?
+{91191}{91255}Tu n'as pas honte ?|Je n'ai honte de rien.
+{91259}{91299}Je n'ai pas créé ce monde.
+{91354}{91395}Tu ne fais rien pour l'améliorer.
+{91399}{91465}Bien sûr, et je brûlerai en enfer.
+{91488}{91518}Il se peut que demain
+{91522}{91558}après les funérailles...
+{91578}{91642}je parte.|Je prends les gosses.
+{91892}{91926}J'ai besoin d'un verre.
+{92795}{92827}Tu veux un whisky ?
+{93097}{93121}Bois...
+{93156}{93186}On en a besoin.
+{93289}{93323}À John Temple.
+{93470}{93546}On devrait donner|une soirée pour toi.
+{93679}{93769}Pour fêter le fait que tu ne seras|pas une de leurs épouses.
+{93878}{93906}Les Temple
+{93936}{93976}se font passer
+{93980}{94074}pour de frustes individualistes|et on tombe dans le panneau.
+{94079}{94119}Mais ce sont des criminels.
+{94191}{94257}Des criminels|pour ne s'être pas élevés
+{94261}{94339}au-dessus de leur éducation|d'illettrés sans pitié.
+{94346}{94436}Et il n'y a pas le moindre|romantisme dans tout ça.
+{94546}{94603}Regarde comment|ils gèrent la mort de John,
+{94639}{94725}ils n'ont pas montré|le moindre signe d'amour pour lui.
+{94783}{94833}Chez est différent.
+{94846}{94876}Tu crois ça ?
+{94897}{94937}Oui, Chez souffre,
+{94949}{94993}mais de folie.
+{95026}{95099}Il tient ça de son père|et il finira
+{95103}{95181}le crâne éclaté contre un mur,|comme lui.
+{95345}{95435}J'ai fait deux ans de fac|avant de me marier.
+{95557}{95605}J'ai appris à lire les livres.
+{95696}{95742}J'ai des souvenirs.
+{95813}{95855}J'ai des idées.
+{96050}{96082}Et voilà.
+{96281}{96375}J'étais jeune.|Je suis tout aussi fautive que lui.
+{96532}{96580}Pourquoi je te dis tout ça ?
+{96795}{96841}Eteins quand tu auras fini.
+{98236}{98260}Ray ?|Assis.
+{98449}{98503}Je suis désolé pour Johnny.
+{98530}{98580}Regarde-moi quand je te parle.
+{98584}{98662}Tourne ta chaise|et regarde-moi en face.
+{98981}{99019}Il baisait ta femme,
+{99064}{99094}tu le sais.
+{99125}{99199}C'est lui...|deux ou trois fois par semaine.
+{99220}{99298}C'est encore lui|qui a démoli tes magasins.
+{99464}{99500}Tu le sais, non ?
+{99677}{99734}Je n'ai aucune raison|de mettre ça en doute.
+{99739}{99807}Mais le vrai problème, en fait,
+{99811}{99850}c'est que tu l'aies su.
+{99930}{99970}Il y a un chiffon huileux là-bas,
+{100001}{100045}étale-le sous lui.
+{100067}{100157}Je ne le dirai qu'une fois:|je n'ai pas tué ton frère.
+{100519}{100585}Parle-moi Gaspare.|Vas-y, parle.
+{100618}{100706}On est qu'une bande de voyous,|personne ne nous regarde.
+{100711}{100765}On a nos méthodes à nous.
+{100794}{100826}On est libres
+{100830}{100874}de faire ce qu'on veut.
+{100942}{101005}Si je dis la vérité
+{101009}{101072}pense à ce que ça donnera.
+{101104}{101168}Alors j'aurai tué un innocent.
+{101179}{101209}Un innocent.
+{101233}{101297}Je dois faire quoi ?|Je te descends ?
+{101312}{101355}Devant ta femme et tes enfants ?
+{101359}{101414}Vas-y, fais-le, tue-moi.
+{101418}{101446}Tue-moi.
+{101511}{101570}J'avais espéré|que tu te comporterais
+{101575}{101625}en homme.|Avoue que c'est toi.
+{101637}{101694}Tu veux quoi ? Que je mente ?
+{101717}{101753}Ce ne serait pas nouveau.
+{101757}{101827}C'est la connerie,|l'avidité ou la fierté
+{101831}{101892}qui fait qu'on s'entre-tue ?
+{101901}{101962}On devrait racheter|la Ford Motor C
+{101967}{102016}au lieu de se tirer dessus.
+{102020}{102094}Mais le problème|c'est les types comme toi.
+{102098}{102177}On ne peut pas te faire confiance.
+{102181}{102240}C'est la faille dans le système.
+{102293}{102359}Si ce n'est pas toi, qui l'a tué ?
+{102388}{102424}Je ne sais pas.
+{102505}{102599}En fin de compte|j'aurais aimé l'avoir fait,
+{102603}{102709}au moins j'aurais|une bonne raison d'endurer tout ça.
+{102730}{102812}À part le fait que je suis désolé|pour ta femme et tes magasins,
+{102848}{102888}tu as une bonne raison.
+{102924}{102994}Comme tu ne me pardonneras jamais|cette séance
+{103004}{103045}je n'ai qu'une solution,
+{103088}{103156}te couper les jambes|et te trancher la gorge.
+{103255}{103324}Je peux dire un grand merci|à ton frère.
+{103328}{103394}N'oublie pas Ghouly.|J'emmerde Ghouly.
+{103401}{103457}Ainsi que ta femme,|tes gosses, ta maison
+{103461}{103513}et tes trois chiens de garde.
+{103517}{103599}Tu n'avais pas le droit|de me traquer de cette façon.
+{103612}{103662}Tout ça parce que tu crois
+{103669}{103711}que c'est moi
+{103742}{103814}qui ai tué ton gauchiste de frère,
+{103818}{103860}ce minable anarchiste.
+{103950}{103972}Johnny
+{103993}{104039}était communiste.
+{104112}{104148}Emmenez-le.
+{105178}{105208}Approche.
+{105223}{105261}Rends-lui hommage.
+{105271}{105345}N'aie pas peur,|ce n'est qu'un cadavre.
+{105870}{105914}C'est pas moi Ray.
+{105928}{105989}Juli, ramène Gaspare chez lui.
+{105999}{106083}T'es dingue ?|Non, ramène-le chez lui.
+{106087}{106125}Il ne l'a pas tué.
+{106129}{106181}Comment tu peux dire ça ?
+{106190}{106297}La tradition veut que les blessures|de la victime saignent
+{106322}{106386}quand son assassin|s'approche de lui.
+{106429}{106515}C'est pour ça que les gangsters|ne vont jamais
+{106551}{106595}aux funérailles des autres.
+{106608}{106658}Tu le regretteras Ray.
+{106750}{106801}Tu as fait le bon choix Ray.
+{106888}{106956}Je vais rentrer chez moi et dormir.
+{107105}{107155}Si je dois tuer quelqu'un
+{107199}{107230}c'est ma femme.
+{107300}{107382}Comme tu voudras, c'est la tienne.|Mais sois sympa.
+{107734}{107818}On le tient,|c'est un mécanicien qui l'a tué.
+{107970}{108006}Descends Gaspare,
+{108066}{108104}devant chez lui,
+{108124}{108181}devant ses enfants...
+{108205}{108229}et sa femme.
+{108552}{108642}On a découvert|que c'était un connard de mécano
+{108648}{108696}qui a pris une Ford du garage.
+{108732}{108787}On a retrouvé le proprio qui a dit
+{108791}{108836}qu'elle y était depuis une semaine.
+{108840}{108890}C'est comme ça qu'on l'a retrouvé.
+{108918}{108950}Il est dans le frigo.
+{109137}{109159}Allez,
+{109167}{109197}sors de là.
+{109289}{109329}Sors de là bon sang !
+{109714}{109734}Amène-toi.
+{109964}{109990}Assieds-toi.
+{110139}{110183}C'est vrai ce qu'on dit ?
+{110247}{110319}Réponds en anglais, bordel !
+{110376}{110406}Petit con !
+{110410}{110440}C'est vrai ?
+{110493}{110528}Pourquoi tu as fait ça ?
+{110632}{110696}Réponds quand on te cause !
+{110924}{110964}Pourquoi tu l'as tué ?
+{111106}{111152}Il a violé ma copine.
+{111250}{111280}Comment ça ?
+{111318}{111392}Il l'a tabassée et il l'a violée.
+{111496}{111544}Je me fous de ce qu'on va me faire.
+{111552}{111609}S'il était là je referais pareil.
+{111621}{111657}Et tu ferais pareil
+{111667}{111715}si on t'avait fait ça.
+{111871}{111901}C'était qui ?
+{111937}{111987}Amelia DiPatrone.
+{112114}{112164}C'est arrivé quand ?
+{112182}{112238}Avant-hier soir.
+{112316}{112358}Qui t'a dit que c'était lui ?
+{112396}{112438}Pas d'erreur possible,
+{112461}{112507}tout le monde connaît ton frère.
+{112662}{112709}Attache-lui les poignets.
+{112896}{112926}Il se fait tard,
+{112930}{112998}va te détendre chez toi,|on s'occupe de lui.
+{113025}{113061}Mets-le dans la voiture.
+{113065}{113105}T'excite pas, d'accord ?
+{113109}{113172}C'est comme ça|qu'on salope le boulot.
+{113176}{113210}Je ne m'excite pas.
+{114466}{114499}Où tu étais ?
+{114578}{114628}Je m'inquiétais.
+{115354}{115387}Tu veux parler ?
+{115391}{115433}Je n'ai pas envie de parler.
+{115913}{115977}Vire ta robe de chambre.|Cesarino...
+{116045}{116079}Parle-moi.
+{116130}{116164}Je n'ai pas envie de parler.
+{116233}{116269}Enlève ta robe de chambre.
+{116296}{116344}La maison est pleine de monde.
+{116518}{116554}Enlève-la.
+{116663}{116689}Enlève-la !
+{116894}{116918}Allons,
+{116971}{117022}ne t'énerve pas.
+{120389}{120446}Tu aurais épousé cette fille
+{120451}{120491}si on ne t'avait pas trouvé ?
+{120503}{120535}Je ne sais pas.
+{120577}{120642}Qu'est-ce que tu ferais d'elle|si je te laissais partir ?
+{120706}{120738}Je ne sais pas.
+{120783}{120842}Je me mettrais au vert, pour sûr.
+{120861}{120903}Je resterais peinard.
+{120946}{121012}Et si je retrouvais le goût de vivre,|je l'épouserais,
+{121025}{121097}j'aurais des enfants, une famille.
+{121215}{121253}Je suis désolé monsieur.
+{121301}{121373}Je suis désolé|mais j'avais une bonne raison,
+{121470}{121527}certainement meilleure|que celle de Johnny.
+{122078}{122112}Dis-moi la vérité.
+{122149}{122191}Je vous ai dit la vérité.
+{122230}{122278}Dis-moi celle de Dieu.
+{122543}{122589}Entendu.
+{122677}{122765}Votre frère m'a tabassé|devant mes potes et ma copine
+{122791}{122848}et j'ai voulu lui donner une leçon.
+{122892}{122948}J'ai inventé le coup du viol.
+{122952}{122988}Je me disais
+{123012}{123086}que si j'avais une raison valable|ça passerait.
+{123096}{123136}Et... merde.
+{123171}{123217}Je n'ai plus rien à perdre.
+{123239}{123279}J'ai perdu les pédales.
+{123303}{123325}Parfait.
+{123358}{123396}Ecarte-toi de ma voiture.
+{123540}{123576}Qu'est-ce que vous allez faire ?
+{123580}{123660}Ecarte-toi de ma voiture.|Viens par ici.
+{123758}{123804}Tu crois que tu mérites de vivre ?
+{123823}{123869}Tu as tué un homme.
+{123873}{123928}Et deux autres hommes sont morts.
+{123936}{124001}Tu peux vivre|avec ça sur la conscience ?
+{124005}{124075}Laissez-moi,|je ferai ce que vous voulez.
+{124079}{124146}Quand on a tiré|on ne revient plus en arrière.
+{124186}{124270}Ma femme, qui ne te connaît pas,|a plaidé ta cause.
+{124274}{124356}Elle m'a demandé|de laisser faire la justice
+{124364}{124416}et de garder les mains propres.
+{124420}{124514}S'il avait violé ta nana|je t'aurais laissé la vie,
+{124519}{124561}pour son bien à elle.
+{124607}{124675}Tu as agi sous la colère,|tu es dangereux.
+{124703}{124767}Tu ne respectes pas la vie.|Les types comme toi
+{124796}{124851}n'ont pas|leur place dans la société.
+{124855}{124929}Et la prison|ce n'est pas assez pour toi.
+{124937}{124988}Je n'ai pas le choix.|Vous l'avez.
+{125007}{125077}Suffit de pas appuyer|sur la détente.
+{125172}{125225}Qu'est-ce que tu fais|de mon sens de la justice ?
+{125229}{125269}Qu'est-ce que tu fais de moi ?
+{125273}{125355}Vous avez l'occasion|de faire le bien au lieu du mal,
+{125377}{125419}c'est mieux que la justice.
+{125627}{125669}Tu as tué mon frère.
+{125701}{125758}Un jour on me retrouvera peut-être
+{125762}{125829}mon sang coulant dans les égouts
+{125833}{125892}et après ma mort|j'irai brûler en enfer.
+{125896}{125932}Je suis sûr de ça.
+{125939}{125959}Mais...
+{126012}{126119}le tout c'est de se faire|à cette idée tant qu'on est là.
+{126606}{126642}Vite, un médecin !
+{128679}{128720}Je sais qui l'a tué.
+{135325}{135355}Donne ton arme !
+{135673}{135705}Donne-la-moi.
+{135715}{135763}Et vivre sans mes frères ?
+{135942}{135976}Il a fait quoi ?

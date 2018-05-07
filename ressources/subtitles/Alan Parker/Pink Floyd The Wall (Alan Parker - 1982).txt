@@ -1,0 +1,608 @@
+{1612}{1700}Chaque année|on célèbre Noël une fois
+{1712}{1825}Tous les garçons et les filles
+{1837}{1925}Rient et montrent leur joie
+{1937}{2025}En découvrant|un nouveau jouet
+{2037}{2150}Je vais vous parler|d'un petit garçon
+{2162}{2250}Qui habite juste de l'autre côté
+{2262}{2375}Le Noël de ce petit gars-là
+{2387}{2475}N'est rien de plus|qu'une autre journée
+{4762}{4825}C'était juste avant l'aube.
+{4837}{4950}Un triste matin|de cette sombre année 44.
+{5012}{5150}Le commandant de première ligne|fut prié de ne pas bouger.
+{5162}{5225}Alors qu'il demandait|l'évacuation de ses hommes.
+{5312}{5375}Les généraux rendirent grâce...
+{5387}{5425}Au reste des combattants...
+{5437}{5525}qui retenait autant que|possible les tanks ennemis.
+{5537}{5625}Et c'est au pris de quelques|vies très ordinaires...
+{5637}{5775}Que l'on conserva|la tête de pont d'Anzio.
+{6437}{6500}C'est un petit garçon
+{6512}{6625}Que le père Noël a oublié
+{6662}{6725}Et pourtant, Dieu sait
+{6737}{6850}Qu'il n'était pas très gâté
+{6912}{7000}Il avait écrit au père Noël
+{7012}{7125}Pour lui demander des soldats|et un tambour
+{7137}{7200}Ca a brisé son petit coeur
+{7212}{7350}Quand il a réalisé|que le père Noël n'était pas passé
+{7362}{7400}Dans les rues, il envie
+{7412}{7500}Tous ces garçons qui ont la chance|d'être gâtés
+{10362}{10400}''Guichet de l'arène''
+{11012}{11050}''Police routière''
+{11237}{11300}Comme ça, 
+{11312}{11350}tu t'es dis que tu aimerais bien 
+{11362}{11400}aller au spectacle
+{11487}{11575}Pour frissonner de confusion
+{11587}{11650}Eprouver l'ivresse du jeune dans le coup 
+{11712}{11825}Dis-moi, quelque chose t'a échappé,|mon petit ?
+{11837}{11925}Ce n'est pas ce à quoi tu t'attendais ?
+{11937}{12050}Si tu veux découvrir ce qu'il y a|derrière ce regard froid
+{12062}{12175}Tu devras déchirer|de tes ongles ce déguisement.
+{15887}{15925}Maman aime son bébé, 
+{16012}{16075}et papa l'aime aussi
+{16137}{16225}Et la mer peut|te sembler chaude 
+{16287}{16350}Et le ciel peut paraître bleu 
+{17237}{17325}Si tu vas patiner
+{17337}{17400}Sur la fine couche de glace|de la vie moderne
+{17487}{17550}Traînant derrière toi
+{17562}{17600}le reproche muet 
+{17612}{17700}D'un million d'yeux|remplis de larmes
+{17762}{17800}Ne t'étonne pas 
+{17812}{17875}quand une fente dans la glace
+{17887}{17975}Apparaîtra sous tes pieds
+{18012}{18150}Tu perds la tête et l'équilibre 
+{18162}{18250}Et ta peur s'écoule sous toi
+{18262}{18300}Tandis que tu t'agrippes|à la fine couche de glace.
+{19787}{19900}Papa s'est envolé de l'autre côté de l'océan
+{20037}{20150}Ne laissant derrière lui qu'un souvenir
+{20287}{20375}Un instantané dans l'album de famille
+{20537}{20650}Papa, qu'as-tu laissé d'autre pour moi ?
+{20837}{20900}Papa, que m'as-tu laissé derrière toi ?
+{21037}{21050}Tout compte fait, ce n'était 
+{21062}{21075}''Pour ceux qui périrent à Anzio|pendant la 2ème guerre mondiale''
+{21087}{21125}rien qu'une brique dans le mur
+{21287}{21400}Tout compte fait, ce n'était|rien que des briques dans le mur.
+{21962}{22000}Doucement. Fais attention.
+{22287}{22350}- Quoi ?|- Tu veux me mettre là-dessus ?
+{22362}{22425}- Où est ta mère ?|- Elle fait des courses.
+{22437}{22475}Oui, d'accord.
+{22537}{22575}Comment tu trouves ça?|Ca te plaît?
+{22762}{22775}Parfait, parfait !
+{23037}{23125}Va-t'en, maintenant.|Allez.
+{23187}{23225}Qu'est-ce que je t'ai dit ?
+{23237}{23325}Va-t'en, va jouer tout seul.|Allez, va jouer!
+{26362}{26400}Et le bon vieux Roi George 
+{26437}{26475}envoya un avis à ma mère
+{26487}{26550}Quand il apprit que Père avait été tué
+{26637}{26700}C'était, je me souviens, 
+{26712}{26775}sous forme de parchemin
+{26787}{26825}Avec feuille d'or et tout
+{26912}{26975}Je l'ai trouvé un jour
+{26987}{27050}Enfoui dans un tiroir 
+{27062}{27100}plein de vieilles photos
+{27162}{27250}Et mes yeux se remplissent|encore de larmes en songeant
+{27262}{27325}Que Sa Majesté y a apposé 
+{27337}{27400}son propre sceau
+{27487}{27525}Il faisait noir tout autour, 
+{27562}{27600}la terre était gelée 
+{27612}{27675}Quand les Tigres furent lâchés
+{27762}{27825}Et il n'y eut pas un seul survivant
+{27837}{27950}Du Royal Fusiliers compagnie C
+{28037}{28125}Ils furent tous abandonnés
+{28137}{28175}La plupart morts, 
+{28187}{28275}les autres en train de mourir
+{28337}{28400}C'est ainsi que le Haut Commandement
+{28437}{28500}M'a privé de mon papa.
+{30037}{30125}As-tu vu ces hommes effrayés ?
+{30162}{30250}As-tu entendu tomber les bombes ?
+{30262}{30350}T'es-tu jamais demandé pourquoi|Il fallait courir s'abriter
+{30387}{30500}Alors que la promesse d'un monde nouveau|Pointait dans un beau ciel bleu ?
+{30912}{31025}As-tu vu ces hommes effrayés ?
+{31037}{31125}As-tu entendu tomber les bombes ?
+{31137}{31250}Les flammes sont toutes éteintes|depuis longtemps,mais la douleur demeure
+{31362}{31400}Adieu
+{31412}{31450}ciel bleu
+{31487}{31550}Adieu, ciel bleu
+{31562}{31600}Adieu
+{31662}{31700}Adieu
+{31887}{31950}Attends-moi, Pinky,|espèce de sale morveux.
+{31962}{32025}- Ce sont mes balles, non?|- Je ne sais pas.
+{32037}{32125}Viens, Tubs.|C'est super, dans le tunnel.
+{32137}{32175}Tu ne trouves pas ça|dangereux, Pinky?
+{32187}{32275}Non. Sois pas bête.
+{32512}{32575}- Ca va, Tubs ?|- Oui. Je me suis écorché le genou.
+{32787}{32825}- Viens.|- Non. C'est trop dangereux.
+{32837}{32900}- On va attendre le train.|- Donne-moi la lampe électrique.
+{33162}{33200}Pinky ! Voilà le train !
+{33212}{33275}Sors de la voie, espèce d'idiot!|Il arrive!
+{33362}{33375}Pinky, sors de la voie!
+{33962}{34000}Eh, toi !
+{34037}{34125}Oui, toi !
+{34137}{34175}Bouge plus, mon petit gars !
+{34762}{34825}Quand nous avons grandi et sommes allés à l'école
+{34837}{34950}Il y avait certains professeurs qui|brimaient les enfants par tous les moyens possibles
+{35062}{35150}En tournant en dérision|tout ce que nous pouvions faire
+{35187}{35225}Soulignant chaque faiblesse
+{35237}{35325}Que les gamins s'efforçaient|pourtant de cacher
+{35337}{35375}Qu'est-ce que c'est|que ça, mon petit gars ?
+{35387}{35450}Des gribouillis mystérieux ?|Un code secret ?
+{35512}{35550}Non. Des poèmes, rien que ça !
+{35562}{35600}Ce sont des poèmes !
+{35612}{35650}Notre ami se prend|pour un poète !
+{35712}{35775}''Revient, l'argent.|Je suis bien, Jack.
+{35787}{35850}Enlève tes mains|de mon butin.
+{35862}{35925}Une voiture neuve, du caviar,|les plus beaux rêves du soir.
+{35937}{36000}Je crois que je vais m'offrir|une équipe de foot, ce soir.''
+{36012}{36075}C'est vraiment lamentable,|mon garçon !
+{36087}{36150}Reprenez votre travail.
+{36187}{36200}Répétez après moi...
+{36212}{36275}un âcre est l'espace|d'un rectangle...
+{36312}{36350}dont la longueur|est de 201 m 17...
+{36362}{36425}et dont la largeur|est de 20 m 10.
+{36437}{36475}Mais en ville, il était notoire
+{36487}{36575}Qu'en rentrant chez eux le soir|leurs épouses grasses et psychopathes 
+{36612}{36675}les malmenaient|En ne leur laissant qu'un souffle de vie.
+{37137}{37250}Nous n'avons pas besoin d'instruction
+{37387}{37475}Pas besoin de contrôle de nos pensées
+{37612}{37725}Assez de sarcasmes en classe
+{37837}{37925}Professeurs, fichez la paix aux mômes
+{38112}{38200}Eh, Prof, fiche la paix aux mômes 
+{38312}{38425}De toutes façons ce n'est|qu'une brique de plus dans le mur
+{38487}{38525}C'est faux! Recommence!
+{38537}{38675}De toutes façons vous n'êtes|qu'une brique de plus dans le mur
+{38787}{38875}Nous n'avons pas besoin d'instruction
+{38887}{38950}Si vous ne mangez pas votre viande,|vous n'aurez pas de pudding !
+{39037}{39100}Pourquoi auriez-vous du pudding|si vous ne mangez pas votre viande ?
+{39187}{39250}Eh, toi ! Oui, toi,|mon gars !
+{39262}{39325}Ce sont des poèmes !|Notre ami se prend pour un poète !
+{39337}{39450}Professeurs, fichez la paix aux mômes
+{39612}{39675}Eh, Prof, fiche nous la paix !
+{39837}{39950}De toutes façons vous n'êtes|qu'une brique de plus dans le mur
+{40062}{40150}De toutes façons vous n'êtes qu'une brique de plus dans le mur.
+{41312}{41425}Nous n'avons pas besoin d'instruction
+{41787}{41900}Assez de sarcasmes en classe
+{42012}{42125}Encore une fois. Un âcre est|la superficie d'un rectangle...
+{42137}{42175}dont la longueur|est de 201 m 17...
+{42187}{42250}et dont la largeur|est de 20 m 10.
+{43587}{43650}Mère, crois-tu|qu'ils vont lâcher la bombe ? 
+{43987}{44050}Mère, crois-tu|qu'ils aimeront ma chanson ?
+{44412}{44500}Mère, crois-tu|qu'ils vont essayer de me briser les couilles ?
+{44737}{44775}''Proviseur''
+{44787}{44825}Mère, dois-je me construire un mur ?
+{45537}{45600}Mère, dois-je être|candidat à la présidence?
+{45937}{46000}Mère, dois-je faire|confiance au gouvernement ?
+{46362}{46475}Mère, m'enverront-ils|en première ligne ?
+{46737}{46800}Suis-je vraiment|en train de mourir ?
+{46812}{46950}
+{46962}{47050}Chut mon bébé, bébé,|ne pleure pas
+{47187}{47300}Maman va se charger de|concrétiser tous tes cauchemars
+{47312}{47425}Maman va te communiquer|toutes ses craintes
+{47462}{47575}Maman va te garder ici,|sous son aile
+{47587}{47700}Elle ne te laissera pas t'envoler,|mais peut-être chanter
+{47712}{47850}Maman gardera son bébé bien au chaud
+{48237}{48375}ooh bébé, bien sûr maman|t'aidera à construire le mur
+{49237}{49400}Ohé, ohé !|Il y a quelqu'un ?
+{49512}{49525}Tu te rappelles de moi ?
+{49537}{49600}Je suis du bureau|d'inscription.
+{49887}{49950}Mère, crois-tu qu'elle est assez bien...
+{50112}{50150}...pour moi ?
+{50287}{50375}Mère, crois-tu qu'elle est dangereuse...
+{50512}{50575}...pour moi ?
+{50687}{50800}Mère, va-t-elle détruire ton petit garçon ?
+{50887}{50950}''Désarmement''
+{51087}{51125}Mère, va-t-elle me briser le coeur ?
+{51312}{51375}Chut mon bébé, bébé, ne pleure pas
+{51512}{51625}Maman contrôlera toutes|tes petites amies pour toi
+{51637}{51650}''Pour le désarmement nucléaire''
+{51662}{51775}Maman n'en laissera passer|aucune de pervertie
+{51787}{51900}Maman veillera jusqu'à ton retour
+{51912}{52050}Maman saura toujours|d'où tu reviens
+{52062}{52175}Maman conserva son bébé|propre et en bonne santé
+{52587}{52700}ooh bébé, tu seras|toujours mon bébé à moi.
+{53037}{53125}Mère, avait-il besoin d'être si haut ?
+{53737}{53775}- Allô ?|- Oui, un appel en PCV...
+{53787}{53825}de Mme Floyd pour M. Floyd.
+{53837}{53900}Acceptez-vous de prendre en charge|un appel des Etats-Unis ?
+{54037}{54100}Je me demande pourquoi on a|raccroché. Il y a quelqu'un d'autre...
+{54112}{54150}qui répond au téléphone|à part votre femme ?
+{54262}{54300}- Allô ?|- Vous avez un appel des Etats-Unis.
+{54312}{54350}Est-ce bien le--
+{54437}{54500}C'est un homme qui répond|et il raccroche constamment.
+{57112}{57200} Qu'emploierons-nous  
+{57212}{57275}pour remplir 
+{57287}{57400}les espaces vides
+{57412}{57450}Où rugissent 
+{57462}{57525}les vagues 
+{57537}{57600}de la faim ?
+{57612}{57700}Avancerons-nous parmi 
+{57712}{57750}cet océan 
+{57762}{57850}de visages
+{57862}{57950}En quête de plus 
+{57962}{58075}en plus d'applaudissements ?
+{58537}{58650}Achèterons-nous une nouvelle guitare ?
+{58662}{58750}Conduirons-nous une voiture plus puissante ?
+{58762}{58875}Travaillerons-nous toute la nuit ?
+{58887}{58925}Allons-nous engager des batailles ?
+{58937}{59000}Laisser les lumières allumées?|Lâcher des bombes?
+{59012}{59100}Faire des tournées en Asie?|Tomber malades?
+{59112}{59175}Enfouir des ossements?|Briser des foyers?
+{59187}{59225}Envoyer des fleurs par téléphone ?
+{59237}{59275}Nous mettre à boire?|Voir un psy?
+{59312}{59350}Devenir végétariens?|Peu dormir?
+{59362}{59400}Garder des gens comme|animaux de compagnie?
+{59412}{59450}Dresser des chiens?|Faire courir des rats?
+{59462}{59525}Remplir le grenier de monnaie?
+{59537}{59575}Enterrer un trésor?|Faire provision de loisir?
+{59587}{59675}Mais ne jamais se détendre.
+{59737}{59800}Le dos au mur.
+{60687}{60750}Je suis nouveau par ici 
+{60787}{60850}Etranger à cette ville
+{60912}{61000}Où est-ce qu'on s'amuse?
+{61062}{61100}Qui va guider cet étranger?|"Coulisses. Entrée formellement interdite"
+{61412}{61425}"Ne trépassez pas"
+{61537}{61575}il me faut une salope
+{61787}{61825}il me faut une vicelarde
+{61937}{62000}Est-ce qu'une femme dans ce désert
+{62062}{62150}Fera de moi un vrai mâle ?
+{62162}{62225}Prends ce réfugié du Rock & Roll
+{62312}{62375}Chérie libère moi
+{62787}{62850}il me faut une salope
+{63037}{63075}il me faut une vicelarde.
+{64437}{64475}il me faut une salope
+{64687}{64750}il me faut une vicelarde.
+{65537}{65575}Oh, mon Dieu.
+{65612}{65650}Quelle pièce fabuleuse.
+{65762}{65800}'Quand va-t-on trouver quelque chose pour décoller?'|- C'est vos guitares, tout ça?
+{65812}{65850}Ils envolent le premier|groupe de lanciers, demain.
+{65862}{65975}Ce sont les premiers essais|à Chesil Beach, près de Weymouth.
+{65987}{66025}Voilà le Wellington.
+{66062}{66100}Mutt Summers est le pilote,|et moi, je suis au levier d'envol.
+{66187}{66225}- Mon Dieu .|- Dans un moment,vous allez voir les bombes.
+{66237}{66275}Cette pièce est plus grande|que notre appartement.
+{66312}{66350}Ce sont les dix bombes qu'ils|nous promettaient pour commencer.
+{66362}{66425}Elles seront testées demain.
+{66437}{66475}On peut commencer cet après-midi|à diviser les équipes de vol.
+{66537}{66575}Leur première mission sera de|survoler tous les grands lacs...
+{66587}{66625}d'Angleterre et du pays de Galles|et de les photographier.
+{66637}{66675}'- Les lacs ?'|- Tu aimes la télé, hein ? '- Les lacs.'
+{66687}{66750}Les équipes sont déjà en train|de recevoir leurs instructions.
+{66762}{66825}Je peux avoir un verre d'eau ?
+{66837}{66900}- Allô.|- Allô, Mutt.
+{66912}{67000}'- Ici le commandant Guy Gibson.'|- Tu veux un verre d'eau ?
+{67037}{67100}Je suis content|que vous soyez venu. Je m'appelle Barnes Wallls.
+{67112}{67125}Je vous laisse à vos fonctions.|A plus tard.
+{67162}{67200}- D'accord.|- Merci, Mutt.
+{67212}{67300}- Voulez-vous poser tout ça? Donnez-moi, ça.|- Merci.
+{67362}{67400}Je ne fume pas. Mais des fois,|Il y a une cigarette qui traîne, ici.
+{67412}{67475}'- Oui, nous y voilà.'|- Oh, bon sang, quelle baignoire !
+{67487}{67550}Tu veux prendre un bain ?
+{67612}{67700}Nous voici donc réunis|pour la première fois.
+{67712}{67800}Vous vous demandez de quoi il s'agit|et je ne peux pas vous le dire car je l'ignore.
+{67812}{67900}'- Mais je sais qu'il s'agit d'un événement très important.'|- Qu'est-ce que tu regardes?
+{67912}{67975}Dont les implications contribueront|largement à écourter la guerre.
+{67987}{68050}La discipline va être|vraiment essentielle.
+{68062}{68125}'- La sécurité aussi.'|- Ohé ?
+{68137}{68200}Il est rare qu'on forme un nouvel|escadron avec un groupe comme le vôtre.
+{68212}{68300}On va parler de vous.|Il y a déjà pas mal de rumeurs.
+{68312}{68350}'- Mais vous devrez vous la fermer!'|- Tu te sens bien ?
+{68362}{68450}Jour après jour,  
+{68462}{68525}l'amour vire au gris
+{68537}{68600}Comme la peau d'un moribond
+{68712}{68775}Et nuit après nuit, 
+{68787}{68850}nous prétendons que tout va bien
+{68862}{68950}Mais j'ai mûri, 
+{68962}{69025}et tu t'es refroidie, 
+{69037}{69175}et désormais, plus rien n'est très amusant
+{69212}{69325}Et je sens 
+{69362}{69450}venir une de mes crises
+{69537}{69600}Je 
+{69612}{69700}me sens 
+{69712}{69775}froid comme une lame de rasoir
+{69787}{69850}Serré comme un garrot
+{69862}{69950}Sec comme le son d'un tambour funéraire
+{70087}{70125}Cours dans la chambre 
+{70137}{70250}Dans la valise sur la gauche|Tu trouveras ma hache favorite
+{70362}{70450}Ne prends pas cet air effrayé|C'est juste une phase éphémère
+{70462}{70525}Un de mes mauvais jours
+{70612}{70675}Veux-tu regarder la télé ?
+{70687}{70825}Ou te glisser entre les draps?|Ou contempler l'autoroute déserte?
+{70837}{70875}Veux-tu quelque chose à manger?
+{70912}{70950}Veux-tu apprendre à voler ? 
+{71012}{71075}Tu voudrais ?|Voudrais-tu me voir essayer ?
+{71887}{71975}Négro! Viens, mon vieux!|Viens, Négro !
+{71987}{72050}As-tu envie d'appeler les flics ?
+{72062}{72075}Crois-tu qu'il est temps que je m'arrête ?
+{72087}{72100}La prochaine fois, saligauds!
+{72137}{72275}Pourquoi est-ce que tu t'enfuis ?
+{73912}{73975}ne me quitte pas maintenant
+{74212}{74250}Comment peux-tu partir ?
+{74537}{74600}Sachant combien j'ai besoin de toi
+{74837}{74950}Pour te réduire|en bouillie le samedi soir
+{75087}{75150}ne me quitte pas maintenant
+{75312}{75350}Quelle quantité d'eau faut-il aux|Allemands pour faire une tonne d'acier?
+{75362}{75425}- Vraiment pas plus.|- Cent tonnes.
+{75487}{75575}Comment peux-tu me traiter ainsi
+{75662}{75700}te débiner ?
+{76037}{76125}pourquoi est-ce que tu t'en vas ?
+{77437}{77525}Je n'ai pas besoin de bras autour de moi
+{77662}{77750}Et pas besoin de drogues pour me calmer
+{77887}{78000}J'ai vu l'inscription sur le mur
+{78087}{78200}Ne croyez pas que j'aie besoin|de quoi que ce soit
+{78312}{78350}Non! 
+{78362}{78425}Ne croyez pas que j'aurai|besoin de quoi que ce soit
+{78637}{78725}Tout compte fait, ce n'était|que des briques dans le mur
+{78837}{78950}Tout compte fait, vous n'étiez tous|que des briques dans le mur.
+{79737}{79825}Adieu monde cruel
+{79837}{79900}Je te quitte aujourd'hui
+{79962}{80050}Adieu, adieu
+{80062}{80100}adieu
+{80312}{80425}Adieu, vous tous
+{80437}{80525}Rien de ce que vous pourrez dire
+{80537}{80650}Ne me fera changer d'avis, adieu.
+{80662}{80700}Adieu. 
+{81387}{81450}Y a-t-il quelqu'un de l'autre côté ?
+{81712}{81750}Y a-t-il quelqu'un de l'autre côté ?
+{81987}{82050}Y a-t-il quelqu'un de l'autre côté ?
+{82362}{82425}Y a-t-il quelqu'un de l'autre côté ?
+{86137}{86200}Oh, bonjour, Gibson.|Je me demandais ce que tu faisais là.
+{86212}{86250}Je regardais ça d'en bas.
+{86262}{86325}Pourquoi tu n'es pas venu|regarder avec moi ici?
+{86337}{86375}Je me doutais de ce que tu ressentais.|tu préfères regarder tout seul.
+{86387}{86425}- C'est atroce! pas vrai?|- Oui, vraiment.
+{86462}{86525}C'est très décevant. Il va falloir|faire quelques modifications.
+{86537}{86600}Euh, je voudrais vous demander|quelque chose
+{86612}{86625}Bien sur. J'espère|que je pourrai vous aider.
+{86637}{86725}Le problème, c'est pas seulement|la structure de la bombe.
+{86737}{86775}c'est son impact|quand elle explose.
+{86812}{86850}On doit réduire|la force de l'impact.
+{86862}{86900}Je vous avais demandé si vous|pouviez survoler la mer....
+{86912}{86975}et lâcher une bombe|à 100 mètres de haut.
+{86987}{87075}J'ai un petit carnet noir|avec mes poèmes à l'intérieur 
+{87087}{87200}J'ai un sac contenant une brosse|à dent et un peigne
+{87212}{87350}Quand je suis un bon chien|on me jette parfois un os
+{87412}{87525}J'ai élastiques pour tenir mes chaussures
+{87537}{87625}J'ai le blues des mains enflées
+{87662}{87800}J'ai le choix entre treize|chaînes merdiques à la télé
+{87862}{87925}J'ai la lumière électrique
+{88037}{88100}Et j'ai le don de double vue
+{88112}{88250}J'ai un extraordinaire|pouvoir d'observation
+{88387}{88425}Et c'est comme ça que je sais
+{88462}{88550}Quand j'essaie de t'avoir 
+{88587}{88625}Au téléphone pour moi,
+{88637}{88700}L'une des choses|les plus passionnantes du monde--
+{88737}{88775}Qu'il n'y aura personne à la maison.|'C'est le ballet turc!'
+{88937}{89000}Plus bas. Plus bas.
+{89012}{89125}- J'ai l'obligatoire permanente à la Hendrix|'- Plus bas. Restez calmes.'
+{89137}{89250}Et les inévitables trous de boulettes
+{89262}{89375}Sur tout le devant de ma chemise|en satin préférée
+{89387}{89450}Hé, Négro, mon vieux.|Qu'est-ce que tu fais ?
+{89462}{89575}J'ai des taches de nicotine sur les doigts
+{89587}{89700}J'ai une cuillère à coke|en argent au bout d'une chaîne
+{89712}{89825}J'ai un piano à queue pour y|adosser ma dépouille mortelle
+{89837}{89900}Hé, Négro.|Oh, non, mon vieux. Vas-y.
+{89912}{89925}J'ai un regard fixe de fou
+{90062}{90125}Et j'ai une furieuse envie de voler
+{90212}{90300}Mais je n'ai nulle part où aller 
+{90637}{90700}quand je décroche le téléphone
+{90787}{90850}Il n'y a toujours personne à la maison
+{91062}{91150}J'ai une super paire de bottes
+{91162}{91250}Mais mes racines s'estompent.
+{94262}{94325}- Vous m'avez demandé, Crosby ?|- Désolé, monsieur. C'est Négro.
+{94337}{94425}Il s'est fait écraser. Il est mort.|La voiture ne s'est même pas arrêtée.
+{94437}{94475}- Où ça s'est passé ?|- Devant la grille principale.
+{94487}{94550}Il s'est précipité sur la route|et la voiture l'a heurté.
+{94562}{94625}- Où est-il ?|- Dans la salle de garde.
+{94962}{95100}Quelqu'un ici se|souvient-il de Vera Lynn ? 
+{95212}{95275}Souvenez vous, comme elle disait 
+{95287}{95375}Qu'on se retrouverait
+{95387}{95450}Par une journée ensoleillée
+{96087}{96125}Vera ! 
+{96137}{96200}Vera ! 
+{96262}{96325}Qu'es-tu devenue ?
+{96462}{96550}Est-ce que quelqu'un d'autre ici
+{96562}{96600}Ressent la même chose que moi ?
+{97137}{97225} Ramenez les gars à la maison 
+{97362}{97475} Ramenez les gars à la maison 
+{97587}{97650}Ne laissez pas les enfants 
+{97662}{97775}seuls, non, non
+{97887}{98000}Ramenez les gars à la maison.
+{98112}{98200}Ramenez les gars à la maison.
+{98337}{98400}Ne laissez pas les enfants 
+{98412}{98500}seuls, non, non
+{98637}{98700}Ramenez les gars à la maison.
+{98812}{98875}C'est faux! Recommence!
+{98912}{98950}Je peux vous assurer que|ça va vraiment faire mal.
+{98962}{99000}Ils disent que c'est un escadron|spécial pour kidnapper Hitler.
+{99012}{99050}Qui est ce grand brun,|près de la table ?
+{99062}{99075}Qui est ce grand brun,|près de la table ?
+{99087}{99150}- Oh, c'est Young, le second de Gibson.|- Ca va ?
+{99162}{99175}On l'appelle Young Le pneumatique.
+{99187}{99275}Parce qu'il est toujours en train de|ramer dans son canot pneumatique.
+{99287}{99350}Voilà Gibson.|Il est déjà sorti 100 fois
+{99487}{99525}- Reste là, Négro. Reste là, vieux.|- Merde !
+{99562}{99600}Il a complètement|perdu la boule.
+{99612}{99675}Espèce de sale vicieux,|tu m'as jamais aimé, hein?
+{99737}{99775}Allô, 
+{99787}{99825}est-ce qu'il y a quelqu'un là-dedans ?
+{99887}{99975}Fais un signe si tu m'entends
+{99987}{100000}
+{100012}{100050}Il y a quelqu'un à la maison ?
+{100112}{100175}Allons, voyons, 
+{100187}{100275}il parait que tu es à plat
+{100287}{100350}Je peux te soulager
+{100362}{100425}- Et te remettre sur pieds|
+{100437}{100475}- Il est asthmatique.|- Asthmatique ?
+{100487}{100525}- Détends toi, 
+{100562}{100625}il me faut d'abord quelques renseignements|
+{100637}{100650}C'est u n artiste!
+{100662}{100750}Juste les symptômes essentiels
+{100762}{100850}Peux-tu me montrer où tu as mal ?
+{100862}{100975}Tu ne souffres pas tu déclines
+{101062}{101175}La fumée lointaine d'un navire,|à l'horizon
+{101262}{101350}Tes paroles n'arrivent que par vagues
+{101437}{101475}Tes lèvres remuent, 
+{101487}{101550}mais je n'entends pas ce que tu dis
+{101612}{101675}Quand j'étais enfant 
+{101687}{101750}j'ai eu une fièvre
+{101812}{101950}Mes mains étaient gonflées|comme deux ballons
+{102012}{102100}J'ai de nouveau cette impression
+{102112}{102225}Je ne peux pas l'expliquer,|vous ne comprendriez pas
+{102237}{102300}Ce n'est pas mon état normal
+{102387}{102500}Je
+{102512}{102575}suis devenu agréablement engourdi
+{103437}{103550}Je
+{103562}{103600}suis devenu agréablement engourdi
+{103712}{103775}Ok, 
+{103787}{103825}juste une petit piqûre
+{103887}{103950}Il n'y aura plus|de aaaaaaaaah !
+{103987}{104025}Mais peut-être seras-tu|un peu incommodé
+{104087}{104150}Peux-tu te mettre debout ?
+{104162}{104200}Je crois vraiment que ça agit, 
+{104212}{104225}- très bien|
+{104237}{104250}Il revient à lui! Regardez!
+{104262}{104300}- Ca te permettra de tenir jusqu'à la fin du spectacle|
+{104387}{104400}- Viens, il est temps d'y aller|
+{104412}{104425}Comment tu te sens?
+{104462}{104575}Tu ne souffres pas|tu déclines
+{104662}{104775}La fumée lointaine d'un navire,|à l'horizon
+{104862}{104950}Tes paroles n'arrivent que par vagues
+{105037}{105075}Tes lèvres remuent, 
+{105087}{105150}mais je n'entends pas ce que tu dis
+{105212}{105275}Quand j'étais enfant 
+{105287}{105350}j'ai eu une vision fugitive
+{105437}{105525}Du coin de l'oeil
+{105612}{105700}Je me suis retourné,|mais elle avait disparu
+{105712}{105825}Je n'arrive pas à remettre la main dessus
+{105837}{105925}L'enfant a grandi,|le rêve est parti
+{105987}{106100}Je 
+{106112}{106200}suis devenu agréablement engourdi.
+{111662}{111725}Ainsi, tu t'es dis
+{111737}{111800}que tu aimerais bien|aller au spectacle
+{111887}{111975}Pour frissonner de confusion,
+{111987}{112050}éprouver l'ivresse|du jeune dans le coup
+{112137}{112225}J'ai de mauvaises nouvelles|pour toi, mon mignon
+{112237}{112325}Pink ne va pas fort,|il est resté à l'hôtel
+{112362}{112425}Et on nous a envoyés à sa place 
+{112437}{112525}Et nous allons bien voir où vous en êtes,|vous les fans
+{112612}{112675}Y a-t-il des pédés|dans la salle ce soir ?
+{112737}{112825}- Alignez-les contre le mur!|- contre le mur!
+{112837}{112925}En voilà un dans le projecteur,|il ne m'a pas l'air clair
+{113087}{113200}Celui-ci m'a l'air Juif !|Et celui-là est un nègre !
+{113212}{113275}Qui a laissé entrer cette racaille ?
+{113312}{113350}Il y a un qui fume un joint
+{113362}{113450}Et un autre qui a des boutons !
+{113462}{113550}Si ça ne tenais qu'à moi|Je vous ferais tous descendre !
+{115837}{115925}Cours, Cours, Cours, Cours
+{115937}{116025}Cours, Cours, Cours, Cours
+{116037}{116150}Cours, Cours, Cours, Cours
+{116162}{116225}Cours, Cours, Cours, Cours
+{116237}{116325}Tu ferais mieux de te maquiller|pour te faire ta tête préférée
+{116337}{116450}Lèvres cousues et paupières|descendues comme des stores
+{116462}{116550}Avec ton sourire vide|et ton coeur affamé
+{116562}{116650}Sens monter la bile|de ton passé coupable
+{116662}{116750}Avec tes nerfs en lambeaux|Quand la coquille se brise
+{116762}{116850}Et les marteaux défoncent ta porte
+{116862}{116975}Tu ferais mieux de déguerpir|Cours, Cours, Cours
+{116987}{117075}Cours, Cours, Cours, Cours
+{117087}{117175}Cours, Cours, Cours, Cours
+{117187}{117250}Cours, Cours, Cours, Cours
+{117262}{117350}Tu ferais mieux de courir toute|la journée et toute la nuit
+{117387}{117475}Et d'enfouir ta sale nature|au plus profond de toi
+{117487}{117575}Et si tu sors ta copine ce soir
+{117587}{117675}Tu devrais garer la voiture|bien à l'abri des regards
+{117687}{117775}Parce que si on te surprend sur le siège arrière|en train d'essayer de la sauter 
+{117787}{117875}On te renverra à ta mère|dans une boîte en carton
+{117887}{117925}T'as intérêt à déguerpir.
+{118737}{118775}vous ne pouvez plus m'atteindre
+{118887}{118975}malgré tous vos efforts
+{119037}{119100}Adieu, monde cruel,
+{119112}{119150}c'est fini
+{119162}{119200}Passez votre chemin
+{119312}{119350}J'attends 
+{119387}{119450}- de couper le bois mort|- J'attends 
+{119462}{119525}- d'éliminer les débiles|- J'attends 
+{119537}{119625}de briser leurs fenêtres|et d'enfoncer leurs portes
+{119637}{119725}- J'attends|- la solution finale pour durcir le mouvement
+{119737}{119825}- J'attends|de suivre les vers
+{119912}{119975}- Voudrais-tu voir |- Voudrais-tu voir 
+{120012}{120075}Britannia régner à nouveau, 
+{120137}{120175}mon ami ?
+{120237}{120350}Il te suffit de suivre les vers
+{121462}{121525}Marteau ! Marteau !
+{121537}{121600}Marteau ! Marteau !
+{122012}{122125}Marteau ! Marteau ! Marteau !
+{122137}{122200}Stop!
+{124962}{124975}Arrêtez.
+{124987}{125000}Stop.
+{125187}{125200}Je veux rentrer chez moi
+{125312}{125425}Enlever cet uniforme|et quitter le spectacle
+{125512}{125600}Mais j'attends dans cette cellule
+{125612}{125675}Parce qu'il faut que je sache
+{125737}{125800}Ai-je été 
+{125812}{125950}Ai-je été coupable|pendant tout ce temps ?
+{127237}{127300}Bonjour, votre honneur le Ver
+{127312}{127350}Le ministère public va clairement démontrer 
+{127362}{127450}Que le prévenu qui se tient devant vous
+{127462}{127575}A été pris en flagrant délit|de manifestation de sentiments
+{127587}{127700}De manifestation de sentiments|de nature presque humaine
+{127712}{127800}C'est intolérable
+{127812}{127875}Appelez l'instituteur !
+{127887}{127950}J'ai toujours dit|qu'il tournerait mal
+{127962}{128000}en fin de compte, Votre honneur.
+{128012}{128075}Si on m'avait laissé faire
+{128087}{128175}j'aurais pu le corriger|jusqu'à ce qu'il s'amende
+{128187}{128250}Mais j'avais mains liées
+{128262}{128300}Les coeurs brisés et les artistes
+{128312}{128400}L'ont laissé s'en tirer à bon compte
+{128412}{128475}Aujourd'hui, laissez-moi le marteler
+{128537}{128625}Cinglé, 
+{128637}{128775}une araignée dans le plafond,|je suis cinglé 
+{128787}{128850}Complètement barje
+{128962}{129100}Ils ont dû me couper les couilles
+{129112}{129175}Cinglé, 
+{129187}{129350}une araignée dans le plafond,|il est cinglé
+{129462}{129525}Petit merdeux, t'es au placard maintenant,
+{129537}{129625}J'espère qu'ils jetteront la clé
+{129637}{129725}Tu aurais dû me parler plus souvent
+{129737}{129825}Mais non|tu n'en faisais qu'à ta tête, 
+{129837}{129900}as-tu brisé d'autres foyers depuis ?
+{129912}{129975}Rien que cinq minutes,|votre honneur le Ver
+{130012}{130050}Laissez-moi seule avec lui
+{130262}{130300}Viens vers ta maman bébé, 
+{130337}{130400}laisse moi te tenir dans mes bras
+{130412}{130550}Milord, je n'ai jamais souhaité|le voir dans le pétrin
+{130562}{130625}Pourquoi a-t-il fallu qu'il me quitte ?
+{130637}{130725}Votre honneur le Ver,|laissez moi le ramener à la maison
+{130787}{130850}Cinglé, 
+{130862}{131025}complètement détraqué, je suis cinglé
+{131037}{131100}Des barreaux à la fenêtre
+{131187}{131300}Il devait bien y avoir une porte là,|dans le mur
+{131312}{131425}- Quand je suis entré|- Cinglé, 
+{131437}{131575}Cinglé, complètement détraqué, il est cinglé
+{131687}{131825}Les témoignages devant|la cour sont irrécusables
+{131837}{131925}Il n'est pas nécessaire|que le jury se retire
+{132012}{132050}Tout au long de ma carrière,
+{132062}{132150}je n'avais jamais entendu parler
+{132162}{132200}De quelqu'un qui mérite 
+{132212}{132300}davantage les sanctions de la loi
+{132312}{132375}La façon dont vous avez fait souffrir
+{132387}{132475}Votre exquise femme et votre mère
+{132487}{132550}Me donne envie de déféquer !
+{132637}{132750}Mais, mon ami, vous avez révélé|votre crainte la plus vive
+{132787}{132850}Je vous condamne à être exposé 
+{132862}{132925}à vos semblables
+{132962}{133400}Abattez le mur !
+{133437}{134175}Abattez le mur !
+{137687}{137725}Seuls, 
+{137737}{137775}ou par deux
+{137837}{137925}Ceux qui t'aiment vraiment
+{138037}{138100}Font les cent pas 
+{138112}{138150}de l'autre côté du mur
+{138312}{138400}Certains main dans la main
+{138437}{138550}D'autres groupés en bandes
+{138612}{138750}Les coeurs brisés et les artistes 
+{138762}{138800}Font face
+{138887}{139025}Et une fois qu'ils t'ont tout donné
+{139037}{139100}Certains chancellent et tombent, 
+{139112}{139175}après tout il n'est pas facile
+{139237}{139300}De faire battre son coeur 
+{139312}{139425}contre le mur d'un pauvre taré.
+

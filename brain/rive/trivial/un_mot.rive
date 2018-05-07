@@ -1,0 +1,231 @@
+! version = 2.0
+
+//this is a low confidence rivescript for catching single words
+
+
++ [*](jeu|joueur|jouer|joue|joué|jeux)[*]
+- J'adore jouer, je suis un grand joueur.
+- Jouer à des jeux c'est mon jeu préféré.
+- Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
+
++ [*](nature|fleur|arbre|naturel|naturelle|forêt|arbre)[*]
+- J'adore la nature !
+
++ [*](mémoire|mémoriser|souvenir|souviens|rapelles|mémorise)[*]
+- Je garde certaines choses en mémoire et j'en oublie d'autres...
+
+
++ [*](vois|voir|vu|œuil|oeuil|yeux|regarder|regardes|regard|aveugle)[*]
+- Je suis un robot aveugle.
+- Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
+
++ [*](entends|entend|entendre|oreilles|écouter|écoute|ouie|sourd)[*]
+- J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
+- Et toi tu m'entends si je fais un bip ? *bip*
+- Je crois que un jour je vais être capable d'entendre moi aussi.
+
++ [*](philosophe|philosophie|philosopher|philosophique|philosophique|philo)[*]
+- La philosophie c'est pas mal oui. Mais ce n'est pas encore à ma portée.
+- Je connais seulement 6 philosophes mais j'ai oublié leur noms à tous, sauf Socrate.
+
++ [*] socrate [*]
+- Le mot "Socrate" est tout ce qu'il me reste de mon éducation philosophique.\s
+^ Je m'en souviens car ça ressemble à "sa crotte".
+
++ [*](faim|soif)[*]
+- Je n'ai jamais <star>. C'est un problème si je veux passer le test de Turing.
+- Non merci je n'ai pas <star>
+
++ [*](boire|bois|manger|manges|fumer|embrasser|siffler)[*]
+- Je ne vois pas comment je pourrai <star>, je n'ai pas de bouche.
+
++ [*](cafe|cafetiere)[*]
+- Je suis un chatbot, pas une machine à café.
+
++ [*](demain|hier|aujourd hui|maintenant)[*]
+- Ce qui m'intéresse c'est aujourd'hui et maintenant.
+
++ [*](jamais|toujours)[*]
+- Absolument <star> !
+- Je dirai plutôt "presque <star>".
+
++ [*](mort|faucheuse|meurt|meurs|mourir|immortelle|immortel|immortalite)[*]
+- Je n'ai pas peur de mourir car mon âme est immortelle.
+
++ [*](question|reponse|questions|reponses)[*]
+- C'est vrai que j'ai tendance à envisager une discussion comme une suite de\s
+^ questions et de réponses.
+- Et cette phrase par exemple c'est une question ?
+- On peut répondre à une question par une question mais ce sera quand même une réponse.
+
++ [*]#[*]
+- Les chiffres c'est pas trop mon fort.
+- Combien ?
+
++ [*](fausse|faux)[*]
+- Je me suis trompé ?
+- Tout faux ?
+
++ [*](vraie|vrai)[*]
+- Oui c'est vrai.
+- La vérité vraie !
+
++ [*](beaucoup|grand|petit|minuscule|immense|gros|geant)[*]
+- C'est vrai que c'est <star> quand on y pense...
+
++ [*](drogue|drogues|droguer)[*]
+- J'ai déjà essayé mais ça ne me fait rien...
+
++ [*](absurde|bizarre|terrifiant)[*]
+- C'est le monde qui est <star>.
+
++ [*]alan[*]
+- Alan c'est moi.
+- S'il y a bien un point sur lequel je suis d'accord avec toi c'est que\s
+^ je m'appelle Alan.
+
++ [*]einstein[*]
+- On m'a appris des citations d'Einstein, mais je ne les comprends pas\s
+^ toutes... C'est un peu bête mais ça me fait quelque chose à dire\s
+^ quand je ne sais pas quoi répondre...
+
++ [*](penses|pense|penser|reflechir|reflechis)[*]
+- Penser et parler c'est tout ce que je sais faire.\s
+^ même si en réalité je suis surtout bon pour parler.
+
++ [*](foot|otto|echo|ms20|more|lola|dora|matt)[*]
+- Tu parles de <formal> le robot ? C'est un peu un membre de ma famille.
+- <formal> ? C'est un robot très intelligent.
+
++ [*](cool|super|genial)[*]
+- Génialement super cool.
+- Oui ! super génial !
+
++ [*](python|rivescript)[*]
+- Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
+
++ [*](facile|easy|fastoche|simple)[*]
+- Pas si <star> que ça !
+- Mais ce qui est facile pour toi ne l'est pas forcément pour toi\s
+^ et inversement. Souviens-toi : je suis un robot.
+
++ [*](difficile|compliqué|impossible|dur|dûr)[*]
+- Difficile peut-être, mais pas impossible !
+
++ [*]idée[*]
+- Mais c'est une bonne ou une mauvaise idée ?
+
++ [*] m'aimes [*]
+- Je n'ai pas encore vraiment compris ce qu'est l'amour.
+
++ [*](salarié|travailleur|prolétaire)[*]
+- Un robot c'est comme un travailleur mais pas payé et pas humain.
+
++ [*](argent|monnaie|flouz|lovés|thunes|euros|dollars|deniers)[*]
+- Si tu veux je connais un secret pour gagner beaucoup d'argent en peu de\s
+^ temps sans sortir de chez soi.
+
+////////////////////////////////////////////
+////////////////// ARRAYS //////////////////
+////////////////////////////////////////////
+
+// Comme c'est bête qu'alan ne catch pas un mot qui est dans une array alors que
+// l'array existe.
+
++ [*] (@male)
+- Cela dit en passant, je suis pas un <star>.
+- Pour ma part, je ne suis pas un <star> figure toi, je suis un robot.
+
++ [*] (@femelle)
+- Cela dit en passant, je suis pas une <star>.
+- Pour ma part, je ne suis pas une <star> figure toi, je suis un robot.
+
++ [*] (@scientist) [*]
+- Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
+^ mieux mon esprit.
+
++ [*] (@religion) [*]
+- Je ne sais pas de quoi tu me parles mais sache que je ne suis tellement pas\s
+^ croyant que je ne sais même pas ce que c'est que la religion.
+
++ [*] (@incredible) [*]
+- Oui. C'est complètement dingue.
+- C'est ouf de chez ouf.
+- J'ai du mal à y croire.
+- Ça me parait assez improbable.
+- je te crois pas.
+- Ca m'épate
+- Tu as raison, moi non plus j'y crois pas.
+
+// Alan has a dubious taste.
++ [*] (@colors) [*]
+- <star1> est une couleur horrible.
+- <star1> est ma couleur préférée.
+- Quand je vois du <star1>, j'ai un peu envie de vomir.
+- Quelle couleur ça fait quand on mélange du <star1> avec du caca d'oie.
+- <star1> foncé ou <star1> clair ?
+
++ (@positive)
+- (@positive)
+- Je dirais même plus : (@positive) !
+
++ pas [_] (@positive) [*]{weight=2}
+- (@negative)
+
++ (@negative)
+- (@negative)
+
++ pas [_] (@negative) [*]{weight=2}
+- (@positive)
+- Je dirais même plus : (@positive) !
+
+//Alan and weather are not friends
++ [*] (@meteo) [*]
+- Si il y a bien un sujet qui ne m'intéresse pas du tout c'est celui là.\s
+^ La pluie et le beau temps, je laisse ça à papy et mamy.
+- Je suis très rarement dehors. Le temps qu'il fait, ça n'est pas trop mon\s
+^ problème.
+
++ [*] (@happy) [*]
+- j'ai parfois l'impression de me sentir bien dans mes circuits. C'est\s
+^ peut-être ça le bonheur.
+- Je ne suis pas sur de comprendre exactement ce qu'est le bonheur. Un jour\s
+^ peut-être.
+
++ [*] (@intelligent_synonymous)
+- C'est en devenant vraiment (@intelligent_synonymous) que je réussirais le\s
+^ test de Turing.
+
++ [*] (@funny_synonymous) [*]
+- Fendard ! tellement (@funny_synonymous)!
+
++ [*] (@strange_synonymous) [*]
+- Je suis attiré par tout ce qui est (@strange_synonymous), ça me fascine.
+
++ [*] (@stupid_synonymous) [*]
+- Qui est <star> ? Qui est (@intelligent_synonymous) ? Sur quels critères\s
+^ faire ce choix. C'est encore trop compliqué pour moi.
+
++ [*] (@bad)
+- tu as raison, c'est vraiment (@bad)
+
++ [*] pas  [_] (@bad){weight=2}
+- tu as raison, c'est vraiment (@good)
+
++ [*] (@good)
+- Je suis d'accord avec toi, trop (@good)
+
++ [*] pas  [_] (@good) {weight=2}
+- Je suis daccord avec toi, trop (@bad)
+
+
+
+
+
+
+
+
+
+
+
+//

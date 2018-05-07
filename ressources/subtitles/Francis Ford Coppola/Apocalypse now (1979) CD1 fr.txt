@@ -1,0 +1,1039 @@
+{1805}{1937}Voici la fin, Ô mon ami
+{2027}{2188}Voici la fin, mon seul ami
+{2212}{2334}De tous nos beaux projets, la fin
+{2352}{2470}De tout ce qui est debout, la fin...
+{4903}{5097}Et tous les enfants | sont devenus fous...
+{6257}{6284}Saïgon
+{6330}{6366}Merde
+{6409}{6462}Encore Saïgon. Seulement Saïgon
+{6660}{6746}A chaque réveil, | je crois que ce sera la jungle
+{6887}{6964}Chez moi, en perm, | la première fois, c'était pire
+{7177}{7228}Je me réveillais, et rien...
+{7427}{7530}Quand j'ai enfin parlé à ma femme, | c'était pour accepter le divorce
+{7600}{7657}Ici, je rêvais d'être là-bas
+{7685}{7704}Là-bas...
+{7725}{7796}je ne pensais | qu'à retourner dans la jungle
+{7883}{7926}Une semaine que je suis ici
+{8015}{8060}à attendre une mission,
+{8087}{8126}à me ramollir
+{8255}{8327}Chaque minute passée ici m'affaiblit.
+{8337}{8428}Chaque minute dans la jungle | endurcit les Viets
+{8552}{8646}Je vois sans arrêt les murs | se resserrer sur moi
+{11040}{11097}On finit toujours | par avoir ce qu'on veut
+{11128}{11161}Je voulais une mission
+{11192}{11245}pour mes péchés, je l'ai eue,
+{11282}{11338}livrée à domicile.
+{11362}{11398}Capitaine Willard ?
+{11438}{11472}J'arrive
+{11488}{11543}C'était soigné, comme mission
+{11563}{11599}Celle-là accomplie
+{11622}{11675}j'en voudrais plus jamais d'autre
+{11860}{11884}Quoi ?
+{11892}{11919}Ça va, mon capitaine ?
+{11928}{11957}D'après vous ?
+{12190}{12247}Capitaine Willard | du 505èm bataillon ?
+{12257}{12310}173èm aéroportée. | Forces spéciales ?
+{12318}{12366}Tu la fermes, la porte ?
+{12432}{12483}On vous escorte à l'aérodrome
+{12568}{12594}De quoi on m'accuse ?
+{12600}{12631}- Pardon ? | - Qu'est-ce que j'ai fait ?
+{12655}{12688}Rien, mon capitaine
+{12697}{12781}Vous devez vous présenter | au PC du Deuxième Bureau à Nha Trang
+{12860}{12887}Nha Trang, hein...
+{12895}{12919}Exact
+{12953}{13011}Vous avez le temps de vous préparer
+{13020}{13056}Je suis pas très en forme
+{13133}{13193}Dave, tu m'aides, il est HS
+{13200}{13251}Allez, on prend une douche
+{13280}{13345}- Faites pas les cons | - Tiens-le bien
+{13355}{13410}- On y va | - Sous le jet, mon capitaine
+{13713}{13802}J'ignorais que le pire endroit | du monde m'attendait
+{13843}{13898}à des semaines, | en amont d'une rivière
+{13908}{13980}serpentant à travers la guerre | comme un câble électrique
+{13988}{14045}branché directement sur Kurtz...
+{14117}{14172}Je ne devins pas par hasard | dépositaire
+{14183}{14238}de la mémoire du colonel Kurtz
+{14248}{14325}Pas plus que je n'étais revenu | à Saïgon par hasard
+{14368}{14447}Raconter son histoire, | c'est raconter la mienne
+{14468}{14535}Sison histoire est une confession
+{14550}{14574}c'est aussi la mienne
+{14623}{14649}Entrez
+{14665}{14694}Repos
+{14713}{14742}Mon général
+{14785}{14814}Cigarette ?
+{14853}{14884}Non merci, mon colonel
+{14926}{14983}Avez-vous déjà vu ce monsieur ?
+{14998}{15017}Non, mon colonel
+{15026}{15071}Rencontré le général ou moi ?
+{15096}{15125}Pas en personne
+{15158}{15206}Vous avez souvent agit seul ?
+{15215}{15239}Oui, mon colonel
+{15246}{15308}Dans le renseignement | pour le premier Corps
+{15341}{15389}Je ne peux pas en parler
+{15627}{15668}Et pour la CIA ?
+{15763}{15794}Avez-vous assassiné
+{15800}{15889}un percepteur de Quang Tre | le 18 juin 68 ?
+{16030}{16146}Mon colonel, j'ignore tout | de ce genre d'activités
+{16183}{16334}et je ne pourrais... en parler | si cette opération avait eu lieu
+{16638}{16751}Nous discuterons en déjeunant, | j'espère que vous avez bon appétit
+{16788}{16831}Votre main...
+{16878}{16914}Vous êtes blessé ?
+{16922}{16958}Un accident de pêche, en perm
+{17055}{17106}Mais, vous êtes d'attaque ?
+{17113}{17156}Parfaitement, mon général
+{17178}{17200}Voyons un peu
+{17205}{17299}ce qu'on a là, du rosbif, | d'habitude il est pas mal
+{17348}{17408}Jerry, servez-vous | et faites-le tourner
+{17423}{17497}Perdons pas de temps
+{17578}{17666}Que dites-vous de ces crevettes ?
+{17693}{17717}Si vous en mangez
+{17723}{17775}votre bravoure sera établie
+{17813}{17887}Bon, je me sers une tranche
+{17938}{17995}Vous avez entendu parler | du colonel Kurtz ?
+{18060}{18099}J'ai entendu ce nom
+{18146}{18208}Officier d'opération | des Forces spéciales
+{18218}{18288}Faites-lui écouter la bande
+{18303}{18336}Ecoutez attentivement
+{18423}{18488}9 octobre, 4 heures 30, | secteur Papa Victor Kilo
+{18496}{18546}Ça vient du Cambodge
+{18580}{18633}C'est bien la voix de Kurtz
+{18641}{18665}J'ai observé
+{18683}{18714}un escargot
+{18745}{18788}ramper sur le fil
+{18813}{18839}d'un rasoir
+{18895}{18926}C'est mon rêve
+{18981}{19021}C'est mon cauchemar
+{19088}{19140}Ramper, glisser
+{19160}{19196}le long
+{19235}{19271}de la lame
+{19303}{19332}d'un rasoir
+{19371}{19407}et survivre
+{19478}{19535}Transmission 11, reçue 30/12/68
+{19543}{19627}5 heures 00, secteur Kilo Zoulou Kilo
+{19678}{19721}Mais nous devons les tuer
+{19731}{19779}nous devons les incinérer
+{19793}{19838}Porc après porc
+{19858}{19894}Vache après vache
+{19949}{19989}Village après village
+{19998}{20044}Armée après armée
+{20063}{20116}Et on me traite d'assassin
+{20123}{20162}Comment dit-on
+{20171}{20240}quand les assassins | accusent l'assassin ?
+{20263}{20291}Ils mentent
+{20308}{20411}Ils mentent, et on ne doit pas | accabler les menteurs
+{20480}{20516}Ces nababs
+{20561}{20590}Je les hais
+{20623}{20661}Vraiment, je les hais
+{20800}{20867}Kurtz était | l'un des meilleurs officiers
+{20876}{20919}que notre pays ait produit
+{20936}{20993}Il était brillant, remarquable
+{21033}{21086}et c'était un type bien
+{21103}{21144}Très humain
+{21176}{21224}Un homme d'esprit et d'humour
+{21246}{21296}Il est entré | dans les Forces spéciales
+{21343}{21389}et ensuite, ses...
+{21439}{21477}idées...
+{21491}{21522}ses méthodes...
+{21566}{21590}sont devenues...
+{21658}{21690}malsaines
+{21983}{22043}Il est passé au Cambodge, avec...
+{22058}{22147}son armée de Montagnards | qui le vénèrent
+{22158}{22194}comme un dieu
+{22201}{22230}et obéit à ses ordres
+{22244}{22287}aussi ridicules soient-ils
+{22323}{22412}Et j'ai encore plus grave | à vous apprendre
+{22439}{22489}Kurtz était sur le point
+{22513}{22549}d'être arrêté pour meurtre
+{22575}{22647}Je comprends pas, | le meurtre de qui ?
+{22659}{22714}Il a fait exécuter des Vietnamiens
+{22720}{22814}qu'il soupçonnait | d'être des agents doubles
+{22851}{22911}Il a fait justice lui-même
+{22963}{23004}Vous voyez, Willard...
+{23040}{23086}dans cette guerre...
+{23121}{23164}tout se mélange
+{23194}{23266}Le pouvoir, les idéaux, la morale
+{23278}{23324}et les besoins militaires
+{23391}{23444}Mais là-bas, avec ces indigènes
+{23476}{23559}ça doit être tentant
+{23588}{23627}d'être Dieu
+{23711}{23783}Un combat se livre | dans le cœur de chaque homme
+{23813}{23866}entre le rationnel et l'irrationnel
+{23901}{23942}le bien et le mal
+{23983}{24046}et le bien ne triomphe pas toujours
+{24103}{24132}Parfois
+{24178}{24209}les ténèbres
+{24228}{24324}l'emportent sur ce que Lincoln | appelait notre "bon Ange"
+{24381}{24433}Tout homme a un point de rupture
+{24458}{24499}Vous comme moi
+{24546}{24594}Walt Kurtz a atteint le sien
+{24641}{24703}et manifestement, il est devenu fou
+{25028}{25108}Absolument, mon général, | manifestement fou
+{25224}{25331}Vous remonterez la rivière Nung | sur un aviso de la marine
+{25364}{25426}Trouvez la trace de Kurtz | à No Mung Ba
+{25443}{25496}Suivez-la | en récoltant des informations
+{25514}{25598}Quand vous le trouverez, | infiltrez son équipe
+{25609}{25649}par tous les moyens
+{25666}{25707}et liquidez son commandement
+{25863}{25899}Liquider...
+{25908}{25920}le colonel ?
+{25949}{26042}Il opère sans la moindre retenue
+{26054}{26135}Il a dépassé le seuil acceptable
+{26153}{26187}du comportement humain
+{26201}{26271}et il commande toujours des troupes
+{26303}{26332}Liquidez-le
+{26348}{26396}de manière drastique
+{26431}{26500}Evidemment, | cette mission n'existe pas
+{26559}{26604}et n'existera jamais
+{27926}{27984}Combien en avais-je déjà tué ?
+{28016}{28083}Il y avait les six dont j'étais sûr
+{28111}{28192}dont j'avais senti | le dernier souffle sur mon visage
+{28241}{28323}Cette fois, c'était un américain
+{28333}{28376}Un officier
+{28639}{28737}Ça n'aurait rien dû changer | mais ça changeait quelque chose
+{28809}{28883}Accuser un homme de meurtre | dans ce pays
+{28893}{28970}autant coller des excès de vitesse | aux pilotes de F1
+{29029}{29065}J'ai accepté la mission
+{29071}{29124}Comme si j'avais le choix
+{29174}{29250}Mais j'ignorais ce que je ferai | quand je le trouverai
+{29564}{29645}On longeait la côte | à bord d'un aviso de la marine
+{29654}{29755}Un rafiot en plastique | comme on en voyait beaucoup
+{29766}{29864}C'était un bon moyen d'observation, | plutôt discret
+{29886}{29977}Ça faisait mon affaire, | j'aurais le temps de respirer
+{30013}{30054}Mais pas moyen d'être seul
+{30063}{30094}Bonjour, mon capitaine
+{30169}{30224}L'équipage, | c'était surtout des mômes
+{30244}{30311}Des rockers, | déjà un pied dans la tombe
+{30341}{30373}T'as quel âge ?
+{30381}{30412}Dix-sept ans
+{30437}{30506}Le mécano, qu'on appelait Chef, | était de la Nouvelle-Orléans
+{30514}{30571}Trop nerveux pour le Viêt-nam
+{30589}{30644}et probablement | pour la Nouvelle-Orléans
+{30657}{30760}Lance était un surfeur célèbre | du sud de Los Angeles
+{30768}{30848}L'air de jamais avoir tiré | un coup de feu
+{30909}{30957}Clean, Mr.Clean
+{30963}{31052}sortait d'un taudis du Bronx. | L'espace et la lumière
+{31063}{31116}lui avaient défoncé la tête
+{31188}{31239}Et puis Phillips, le sous-off
+{31249}{31290}C'était peut-être ma mission
+{31296}{31337}mais c'était son bateau
+{31344}{31442}On n'aa que deux points d'accès | avec assez de fond
+{31453}{31516}Les deux sont tenus par les Viets
+{31559}{31593}Vous en faites pas
+{31616}{31645}Je fume pas
+{31696}{31753}J'ai fait quelques ops par ici
+{31777}{31813}Il y a six mois
+{31839}{31913}j'ai amené un type | au-delà du pont de Do Lung
+{31947}{31997}Un biffin, lui aussi
+{32054}{32109}Paraît qu'il s'est flingué
+{32329}{32408}S'étaient-ils trompés de dossier ?
+{32424}{32481}Voulaient-ils | la mort d'un tel homme ?
+{32528}{32639}Sorti premier de West Point. | La Corée. Parachutiste
+{32648}{32699}Mille fois décoré...
+{32814}{32900}Sa voix sur la bande | m'avait accroché pour de bon
+{32934}{32984}Mais cette voix raccordait pas
+{33002}{33035}avec cet homme
+{33192}{33266}Une carrière impressionnante, | comme on dit
+{33281}{33327}Trop, peut-être
+{33354}{33394}Autrement dit, parfaite
+{33414}{33498}Promis | aux plus hautes responsabilités,
+{33509}{33591}général, chef d'état-major, | tout ce qu'on veut
+{33629}{33723}En 64, à son retour | d'une tournée au Viêt-nam
+{33732}{33777}le dérapage a commencé
+{33789}{33892}Son rapport à l'état-major | et à Johnson resta secret
+{33943}{33999}Apparemment, il n'avait pas plu
+{34029}{34103}Il fit trois demandes de mutation
+{34113}{34171}à Fort Benning, dans les paras
+{34184}{34232}avant d'y être muté
+{34294}{34330}Les paras ?
+{34396}{34444}Il avait trente-huit ans
+{34487}{34539}Qu'est-ce qu'il avait à foutre là-bas ?
+{34596}{34635}1966
+{34649}{34742}entre dans les Forces spéciales | et retourne au Viêt-nam
+{34779}{34801}C'est quoi ?
+{34807}{34833}L'arc électrique
+{34866}{34907}Un raid de B-52
+{35009}{35047}Quand j'entends ça, | ça chie toujours
+{35056}{35097}Les Viets les voient jamais
+{35106}{35125}Les voilà
+{35131}{35184}La déflagration | te vide les poumons
+{35214}{35236}Ça va chier !
+{35244}{35318}Ça fume ! Ça a foutu le feu
+{35339}{35373}Là, plein d'hélicos
+{35381}{35412}Voyons ça
+{35492}{35549}C'était la cavalerie aéroportée
+{35559}{35574}C'est eux !
+{35584}{35642}Notre escorte jusqu'à la Nung
+{35649}{35737}Censée nous attendre | trente bornes plus loin
+{35766}{35850}Des troupes mobiles. | Ils tenaient pas en place
+{36501}{36597}Ils avaient troqué leurs chevaux | pour des hélicos
+{36607}{36681}et fonçaient | partout où ça bardait
+{36704}{36781}Les Viets en avaient bavé | plus d'une fois
+{36814}{36903}Ils terminaient une ops | lancée une heure plus tôt
+{36944}{37037}Regardez pas la caméra. | Vous arrêtez pas
+{37054}{37167}C'est pour la télé. | Faites comme si vous vous battiez
+{37919}{37952}Où est le commandant ?
+{37979}{38013}Là, il va se poser
+{38276}{38317}Il est dans l'hélico
+{38875}{38946}Pilonnez-moi les arbres, là, | à cent mètres
+{38954}{39017}- Qu'on respire un peu | - Oui, mon colonel
+{39159}{39202}- Mes cartes | - Mon colonel ?
+{39209}{39250}Apportez-moi mes cartes !
+{39349}{39411}Je commande la quatrième. | J'ai cinq chars HS
+{39419}{39482}Lâchez-moi avec les chars, capitaine
+{39504}{39612}Capitaine Willard. J'ai un ordre | prioritaire du Deuxième Bureau
+{39621}{39708}Nha Trang a dû vous briefer | sur ma mission
+{39717}{39769}J'ai rien reçu de Nha Trang
+{39777}{39839}Votre unité | est censée nous escorter
+{39850}{39948}On verra après, | restez pas dans mes pattes
+{40111}{40178}Voyons voir, deux de pique
+{40186}{40253}Trois de pique, quatre de carreau
+{40269}{40308}Six de trèfle
+{40315}{40351}Huit de pique
+{40356}{40404}Pas un valet dans le tas
+{40487}{40535}C'est quoi, mon capitaine ?
+{40544}{40575}Les cartes de la mort
+{40626}{40703}Pour que les Viets sachent | qui a fait ça
+{40812}{40833}Courage, fils
+{40841}{40863}Ne craignez rien
+{40872}{40923}Le bunker va péter !
+{40995}{41079}Cette zone est aux mains | du Viêt-công
+{41089}{41137}et des Nord- Vietnamiens
+{41256}{41302}Nous venons vous aider
+{41379}{41480}Nous venons tendre la main | à ceux d'entre vous
+{41489}{41595}qui se rangeront du côté | du gouvernement sud-vietnamien
+{41734}{41751}Roulez !
+{41759}{41793}Cette zone
+{41802}{41888}est aux mains du Viêt-công...
+{41914}{41948}C'est quoi, ça ?
+{42032}{42077}Un blessé grave
+{42084}{42175}Il a les tripes à l'air | sous ce couvercle
+{42186}{42215}Qu'est-ce qu'il dit ?
+{42234}{42284}C'est un sale Viêt-công
+{42292}{42318}S'il a soif
+{42327}{42375}qu'il boive l'eau de la rizière !
+{42404}{42423}Casse-toi !
+{42437}{42456}La gourde !
+{42532}{42590}Casse-toi ou je te démolis
+{42599}{42633}Il a beaucoup tué !
+{42642}{42747}Un brave qui se bat tripes à l'air | peut boire à ma gourde
+{42759}{42839}Un des matafs, | c'est Lance Johnson, le surfeur
+{42862}{42881}Où ? Là ?
+{42889}{42915}Là-bas
+{42957}{42978}J'y vais
+{43002}{43045}Décompte des pertes...
+{43149}{43181}Ton nom, matelot ?
+{43192}{43235}Canonnier de deuxième classe L.Johnson
+{43257}{43304}Lance Johnson, le surfeur ?
+{43324}{43346}Oui, mon colonel
+{43360}{43449}Très honoré. J'admire ton style | depuis des années
+{43460}{43524}Personne glisse sur l'épaule | comme toi
+{43532}{43554}Merci, mon colonel
+{43562}{43665}Laisse tomber le colonel. | Bill Kilgore. Je glisse en gaucher
+{43744}{43780}Mike, de San Diego
+{43796}{43830}Johnny, de Malibu
+{43842}{43914}On est bons. | Mais on a pas ta classe
+{43925}{43951}Impossible
+{43962}{44019}On fait beaucoup de surf. | On termine l'ops
+{44052}{44114}et on va à Vung Dao | pour la mer lisse du soir
+{44122}{44184}Où tu surfes | depuis que t'es ici, Lance ?
+{44412}{44477}Gloire à Toi, | Seigneur Tout-puissant
+{44505}{44586}Prions Notre Père selon | l'enseignement de Notre Sauveur
+{44612}{44708}Notre Père qui êtes aux cieux | que Ton nom soit sanctifié
+{44717}{44748}Que Ton règne arrive...
+{45322}{45389}Bonne journée pour Kilgore
+{45397}{45512}Les hélicos apportèrent | les steaks et la bière pour la fête
+{45540}{45600}Plus ils recréaient notre pays
+{45607}{45662}plus ils nous rendaient nostalgiques
+{45672}{45756}Bleue, ma viande, | bleue mais pas froide
+{45892}{45966}C'était pas un mauvais officier
+{45984}{46051}Il adorait ses hommes, | il était rassurant
+{46067}{46096}Il était de ceux
+{46104}{46150}qui ont une aura
+{46167}{46225}On savait | qu'il aurait pas une égratignure
+{46232}{46320}Et cette mission, capitaine ? | Nha Trang vous a oublié ?
+{46530}{46556}En torche !
+{46635}{46690}On a deux accès à la rivière
+{46705}{46748}Là, et là
+{46757}{46836}C'est les deux seuls | dont je suis sûr
+{46877}{46935}Ce village-là, c'est coton
+{46950}{47005}- Comment ça ? | - Coton !
+{47012}{47112}Ils ont de l'artillerie lourde. | J'y ai perdu des hélicos
+{47125}{47233}C'est quoi, ce village, | Vin Drin Dop, ou Lop ?
+{47254}{47305}Tous pareils, ces noms niac
+{47349}{47409}Qu'est-ce que vous savez | de Vin Drin Dop ?
+{47433}{47461}Des super rouleaux
+{47510}{47546}Dans les deux mètres
+{47555}{47641}Et qui déferlent | à gauche et à droite, en tube
+{47653}{47703}Le paradis de la glisse
+{47807}{47918}Fallait le dire. Les bons rouleaux | existent pas dans ce pays de merde
+{47930}{47970}Rien que du fond de sable
+{47977}{48042}C'est pas la joie. | C'est là qu'on a perdu McDonald
+{48075}{48111}C'est tenu par les Viets
+{48152}{48205}On peut y aller demain à l'aube
+{48215}{48270}Il y a toujours une bonne brise
+{48279}{48308}Le bateau passera pas
+{48317}{48368}si le fond est trop haut
+{48412}{48468}On te le soulève et on le pose | comme une fleur
+{48477}{48539}C'est nous, | la cavalerie aéroportée
+{48549}{48576}On bouge, nous !
+{48594}{48635}Je tiendrai le temps qu'il faut
+{48644}{48721}et je vous pose où vous voulez, | jeune homme
+{48730}{48775}Des crêtes de deux mètres !
+{48830}{48871}Prenez un hélico | jusqu'à la division
+{48880}{48964}Que Lance choisisse une planche | et rapportez-moi la mienne
+{48975}{49023}- Mon colonel... | - Quoi, soldat ?
+{49032}{49087}C'est tenu par les Viets
+{49095}{49143}Les Viets surfent pas !
+{49728}{49788}Clean, tu le croiras jamais, | regarde !
+{49830}{49887}Ils vont soulever le bateau !
+{49970}{49997}Ça va, Jimmy ?
+{50005}{50055}Ça va faire mal, mon colonel
+{50109}{50145}Vas-y, fiston, sonne
+{50172}{50196}En route
+{52193}{52279}La planche légère, | je m'habituerai jamais
+{52290}{52350}- J'ai l'habitude des lourdes | - Oui, c'est chiant
+{52360}{52408}Lesquelles tu préfères ?
+{52417}{52458}- Les lourdes | - Sans blague
+{52472}{52520}Les jeunes | aiment pas les légères ?
+{52528}{52609}- Impossible pour le nose riding | - Duke 6
+{52617}{52689}- d'Eagle Thrust 7, on est en vue | - Eagle Thrust de Big Duke 6
+{52700}{52772}Direction 2, 7, 0, | en formation d'attaque
+{52780}{52869}Bien reçu, Big Duke. | On attaque, c'est parti
+{52878}{52933}On s'amène dans le soleil levant
+{52943}{52991}d'ici un kilomètre on met la musique
+{53025}{53104}Wagner. | Ça fout les jetons aux niacs
+{53115}{53154}Mes rombiers adorent ça
+{53175}{53213}Ils mettent de la musique
+{53380}{53435}Pourquoi vous êtes assis | sur vos casques ?
+{53472}{53525}On tient à nos couilles
+{53815}{53846}Eagle Thrust de Big Duke
+{53855}{53915}En avant, la guerre psychologique ! | A fond !
+{53930}{54002}Roméo Fox-trot, ouvrez le bal ! | On danse ?
+{57980}{58002}Cavalez !
+{58608}{58658}On a repéré une arme lourde
+{58665}{58696}On descend vérifier
+{59016}{59042}Joli coup !
+{59060}{59122}Vous aurez droit | à une caisse de bière
+{59653}{59706}Big Duke 6. | On est au-dessus du village
+{59715}{59751}Je vois un véhicule
+{59758}{59777}Je vérifie
+{59785}{59826}Bien joué !
+{59842}{59910}Vous me nettoyez | la lisière des arbres
+{59921}{59952}Mitraillez tout ça
+{59973}{60081}Véhicule sur le pont, calibre 50 | à bord, il traverse pour recharger
+{60100}{60124}De Big Duke
+{60138}{60172}Dégagez, je descends
+{60180}{60204}Ils renoncent jamais ?
+{60320}{60349}Joli coup, Bill
+{60560}{60632}Virez-moi cette merde de là | et balancez-la
+{60643}{60705}C'est rien, c'est une fusée
+{60715}{60751}Ça va, les gars ? Lance ?
+{60765}{60782}Ça va !
+{61665}{61696}J'y vais pas !
+{62136}{62165}Y en a sur la place !
+{62171}{62233}Tenez vos positions
+{62241}{62310}Big Duke 6, on a des blessés ici
+{62551}{62585}Un brancard
+{62815}{62846}Fais-lui de la morphine
+{62921}{62957}Où est l'hélico ?
+{62966}{63069}Je veux que mes blessés soient | à l'hosto dans quinze minutes
+{63078}{63121}Protégez Big Duke
+{63130}{63248}De 10-10. On va les évacuer
+{63743}{63764}Grenade !
+{63776}{63802}Elle a une grenade !
+{63941}{63967}Les sauvages
+{64064}{64119}Je vais me la faire, cette niac
+{64128}{64190}Vas-y, Johnny. | Fous-lui le patin dans le cul
+{64271}{64297}Les arbres !
+{64303}{64353}Ça grouille d'ennemis
+{64363}{64406}Je suis en feu. Je suis touché
+{64416}{64464}Ma position : 03 heures 00
+{64488}{64560}Je me pose. J'ai plus de rotor | de queue mais je contrôle
+{64788}{64807}Alors ?
+{64815}{64842}C'est génial
+{64856}{64887}Mais non, les vagues !
+{64935}{64995}Regarde, | elles déferlent des deux côtés
+{65028}{65088}Des crêtes de deux mètres
+{65781}{65805}Obus !
+{65916}{65979}Ce serait plus prudent | de surfer ailleurs
+{65985}{66072}Qu'est-ce que vous y connaissez ? | Vous êtes du New Jersey
+{66143}{66177}Ramenez-vous
+{66243}{66267}Changez-vous
+{66273}{66302}Là, mon colonel ?
+{66309}{66345}Je veux tester ça
+{66350}{66377}Changez-vous
+{66384}{66415}Ça barde encore
+{66423}{66456}Vous voulez surfer ?
+{66479}{66512}Tant mieux. Parce que c'est ça
+{66526}{66569}ou le combat. Compris ?
+{66599}{66671}Je les couvre. Apportez | une planche pour Lance
+{66708}{66756}Faut attendre le bateau
+{66808}{66847}Je parie que t'es impatient | de t'y mettre
+{66856}{66892}Ça déferle des deux côtés
+{66898}{66987}On glisse, un à droite, | un à gauche. C'est pas beau ?
+{66996}{67037}Faut attendre qu'elle monte
+{67046}{67075}Viens, regarde
+{67080}{67112}Obus !
+{67180}{67243}La marée remontera dans six heures
+{67291}{67344}Tu veux attendre six heures ici ?
+{67438}{67477}Chef !
+{67670}{67747}Arrêtez de vous planquer, les gars !
+{67756}{67785}Allez, branleurs !
+{67794}{67875}Bon Dieu, mon colonel, | c'est pas un peu risqué ?
+{67886}{67941}Si je dis qu'y a pas de risque | à surfer,
+{67951}{67992}y a pas de risque à surfer !
+{67998}{68099}J'ai pas peur de surfer ici. | Je vais surfer, bordel
+{68161}{68209}Passez-moi le radio-téléphone
+{68246}{68294}De Big Duke 6, Dove 4 !
+{68325}{68366}Bombardez le rideau d'arbres
+{68375}{68435}Bien reçu. Dove 1-3 en stand-by
+{68446}{68482}Renvoyez-les à l'âge de pierre
+{68579}{68646}Je m'en occupe. Virez-moi ça !
+{68656}{68680}Je m'excuse
+{68776}{68793}Jimmy !
+{68799}{68839}Dove 1-3, il leur faut
+{68846}{68921}du napalm sur les arbres. | Vous pouvez ?
+{68928}{68991}On leur en met plein la gueule
+{69001}{69073}Y'a des mortiers derrière les arbres
+{69081}{69105}On arrive
+{69114}{69195}Allez-y à fond et évitez la casse
+{69211}{69278}Que mon hélico l'emmène à l'hôpital
+{69316}{69347}Allez avec lui
+{69398}{69460}Qu'il décolle ! | Et je veux ma planche !
+{69468}{69593}Big Duke 6, de Dove 1-3. Les jets | seront sur site dans 30 secondes
+{69604}{69647}Planquez-vous, ça va faire mal
+{69724}{69844}T'en fais pas. On va te nettoyer ça | en moins de deux, fils
+{69861}{69897}Passez-moi le short
+{69953}{70028}C'est un cadeau de moi | et de mes gars
+{70044}{70116}Mets-le pour me faire | une démonstration
+{70686}{70715}Vous sentez ?
+{70736}{70765}Vous sentez ça ?
+{70801}{70847}C'est du napalm
+{70858}{70913}Une odeur unique au monde
+{71026}{71083}J'adore l'odeur du napalm, le matin
+{71091}{71151}On a bombardé une colline | 12 h durant.
+{71159}{71217}Après, je suis allé voir
+{71244}{71315}On a pas retrouvé | un seul cadavre niac
+{71371}{71433}Et l'odeur, cette odeur d'essence
+{71443}{71477}Toute la colline
+{71516}{71542}sentait...
+{71618}{71642}la victoire
+{71776}{71824}Un jour, cette guerre finira
+{72206}{72232}Le vent !
+{72273}{72336}Il a tourné ! | Ça va tout bousiller !
+{72371}{72440}- Tout gâcher ! | - C'est moche !
+{72448}{72489}C'est ce fichu napalm
+{72506}{72581}Je regrette, mon colonel, | mais c'est réglé
+{72588}{72670}Avec sa réputation, | il peut pas surfer là-dessus
+{72679}{72703}Je vous comprends
+{72709}{72768}Je suis un artiste. | Je surfe pas sur cette soupe !
+{72788}{72853}Toutes mes excuses. | C'est pas ma faute
+{72861}{72916}Le napalm a effacé les vagues
+{72926}{72972}Les bombes créent un appel d'air
+{72978}{73065}- J'accepte vos excuses | - Attendez encore vingt minutes
+{73074}{73136}- Une autre fois | - Vingt minutes seulement
+{73159}{73207}- Je suis un artiste ! | - Avance !
+{73257}{73333}Essayons, les gars. | Un à gauche, un à droite
+{73341}{73372}Ecoute, Lance...
+{73379}{73446}Fini de surfer ? | On dit au revoir au colonel ?
+{73464}{73490}T'es sûr ?
+{73502}{73526}Alors, on s'arrache !
+{73531}{73575}C'est ce putain de napalm l
+{73586}{73632}Attends vingt minutes !
+{73672}{73698}Merde !
+{73824}{73860}- Attendez-moi | - Où vous allez ?
+{73971}{74002}Attention, obus !
+{74053}{74130}- C'est la planche du colon ! | - Lâche-moi ! C'est la mienne !
+{75191}{75242}Chef, allume-le, qu'on plane
+{75249}{75292}- T'en veux ? | - Allume-le, quoi !
+{75301}{75354}Un jour, cette guerre finira
+{75386}{75444}Mes compagnons | n'attendaient que ça
+{75454}{75512}Un moyen de rentrer au pays
+{75549}{75621}Sauf que moi qui y étais retourné
+{75636}{75696}je savais qu'il n'existait plus
+{75791}{75820}L'heure du Bouddha
+{75847}{75938}Et comment ! | C'est de l'herbe, de la bonne !
+{76058}{76113}Vu les méthodes de Kilgore
+{76124}{76193}que reprochait-on vraiment | à Kurtz ?
+{76216}{76276}Pas seulement la folie | et le meurtre
+{76287}{76349}Ils étaient monnaie courante
+{76543}{76611}Lady Clito, la maîtresse du roi
+{76622}{76658}le comblait question cul
+{76666}{76697}Je suis pas là
+{76729}{76806}Je cueille des mangues | dans la jungle
+{76826}{76872}Je rencontre Raquel Welch
+{76929}{77001}et je fais | une bonne crème de mangue
+{77067}{77124}On s'en étale partout
+{77144}{77199}Elle aussi, les mangues, elle adore
+{77228}{77279}Elle est sur une branche | au-dessus de moi
+{77299}{77344}On est dans la jungle, on est nus
+{77371}{77441}C'est encore le colon qui se ramène
+{77652}{77700}Je ne vous ferai aucun mal
+{77719}{77818}Rends-moi ma planche, Lance. | C'est une bonne planche, j'y tiens
+{77861}{77931}Tu sais le mal qu'on a | à trouver une planche à son goût
+{77947}{78033}Putain, | il est têtu l'enfoiré, hein ?
+{78427}{78475}Il est trop, ce mec
+{78482}{78520}Il nous aurait flingués ?
+{78544}{78632}Pas sur la plage, mais quand | il m'a vu piquer sa planche
+{78714}{78747}Virons-la de ma tourelle
+{78784}{78798}Le pigeon !
+{78809}{78854}Comment je ferais pour tirer ?
+{78861}{78926}Faites de la place derrière | pour la planche
+{79192}{79230}C'est le même hélico ?
+{79237}{79309}Il les envoie tous | avec le même enregistrement
+{79316}{79357}On va attendre l'obscurité ici
+{79366}{79417}Il nous suivra pas longtemps
+{79424}{79457}Pourquoi vous dites ça ?
+{79464}{79538}Tout le monde saurait | qu'on lui a piqué sa planche
+{79546}{79582}Moi, je l'ai pas piquée
+{79654}{79676}Mon capitaine ?
+{79694}{79754}Jusqu'où on va remonter la rivière ?
+{79772}{79829}C'est secret, | je peux pas vous le dire
+{79892}{79933}Assez loin
+{79989}{80016}Ça risque de chauffer ?
+{80062}{80098}Je sais pas, petit
+{80119}{80153}Oui, sans doute
+{80164}{80248}C'est ce qui vous plaît, | mon capitaine ? Quand ça chauffe ?
+{80541}{80577}C'est là qu'on apprend | à se connaître,
+{80584}{80620}plus qu'en bossant à l'usine
+{80709}{80769}Je peux aller cueillir des mangues ?
+{80777}{80820}Prends quelqu'un avec toi
+{80827}{80860}Je vais avec lui
+{81072}{81108}C'est quoi ce nom ?
+{81122}{81155}Quel nom ?
+{81164}{81212}Chef. A cause des mangues ?
+{81221}{81265}Non, je suis un vrai chef
+{81294}{81337}Je suis saucier
+{81434}{81475}A la Nouvelle-Orléans
+{81482}{81578}on me destinait | à devenir un grand saucier
+{81597}{81628}C'est quoi, saucier ?
+{81636}{81692}Un spécialiste des sauces
+{81767}{81832}Y a bien un manguier par ici
+{82012}{82098}Je devais aller à Paris | à l'Ecole Escoffier
+{82126}{82205}quand j'ai reçu | mes papiers militaires
+{82514}{82593}J'ai choisi la marine, | la bouffe est meilleure
+{82622}{82672}A l'école de cuisine, j'ai pigé
+{82682}{82713}Ah bon, comment ça ?
+{82732}{82782}Vous le croirez jamais
+{82840}{82931}On nous aligne | devant cent mètres de belle viande
+{82944}{83009}tous, en rang, à la regarder
+{83017}{83103}Une viande superbe, vraiment, | bien persillée
+{83185}{83268}Ils balancent le tout | dans des grosses marmites
+{83276}{83334}Ils font tout bouillir
+{83355}{83419}Elle a viré au gris
+{83452}{83507}Putain, j'y croyais pas
+{83516}{83567}J'ai demandé les cours radio
+{83577}{83608}je me suis retrouvé mécano
+{84607}{84628}C'est quoi ?
+{84691}{84713}Des Viets ?
+{85104}{85147}Un tigre !
+{85187}{85213}Postes de combat !
+{85222}{85243}Ton M-60, Clean !
+{85255}{85276}Putain !
+{85337}{85363}Putain de tigre !
+{85371}{85436}- Mon capitaine ! | - Qu'est-ce qui se passe ?
+{85446}{85463}On dégage !
+{85502}{85557}Jamais quitter le bateau
+{85564}{85586}Le M-60 !
+{85632}{85670}Jamais quitter le bateau
+{85677}{85708}Faut pas que j'oublie
+{85820}{85846}C'était quoi ?
+{85852}{85888}Un putain de tigre !
+{85979}{86082}Putain de bordel de merde !
+{86092}{86169}Parle à mon cul, | ma tête est malade
+{86177}{86236}Je suis pas venu ici pour ça
+{86247}{86309}J'en ai rien à foutre
+{86317}{86408}J'ai pas choisi ce merdier
+{86427}{86475}Je voulais être cuistot !
+{86484}{86547}Cuistot, putain, c'est tout
+{86677}{86701}Ça va s'arranger
+{86732}{86823}S'arranger ? | Mon cul que ça s'arrange !
+{86882}{86908}Jamais quitter le bateau
+{86917}{86970}Bonjour le tigre, au revoir le tigre
+{87040}{87088}Jamais quitter le bateau
+{87097}{87159}C'est juste, c'est exactement ça
+{87194}{87247}A moins d'aller jusqu'au bout
+{87380}{87423}Kurtz avait quitté le bateau
+{87464}{87524}Tout envoyé promener
+{87600}{87641}Comment c'était arrivé ?
+{87662}{87724}Qu'avait-il vu ici | pendant sa 1ère tournée ?
+{87886}{87946}Trente-huit ans, putain
+{87972}{88070}Dans les bérets verts | le plus haut grade était colonel
+{88099}{88147}Kurtz savait à quoi il renonçait
+{88194}{88252}Plus je commençais | à le comprendre
+{88265}{88310}plus je l'admirais
+{88332}{88387}Sa famille n'avait pas compris
+{88394}{88428}ni pu le faire renoncer
+{88487}{88561}Il avait fait trois demandes | et tout supporté
+{88572}{88616}Sa menace de démission
+{88622}{88663}les avait fait céder
+{88745}{88834}Il était deux fois plus âgé | que les autres
+{88859}{88936}Bizarre, ce vieux | qui s'acharnait à suivre
+{88985}{89064}Moi, à 19 ans, | la même formation a failli me tuer
+{89129}{89179}Coriace, l'enfoiré
+{89217}{89260}Il l'avait terminée
+{89317}{89372}Il aurait pu être général
+{89405}{89462}mais il avait choisi | d'être lui-même
+{89527}{89628}Chère Eva, aujourd'hui, | c'était vraiment nouveau
+{89645}{89724}J'ai failli me faire bouffer | par un tigre
+{89759}{89810}Putain, vraiment incroyable
+{89820}{89892}On conduit un pitaine vers l'amont
+{89900}{89957}mais il nous a pas dit où
+{90029}{90092}T'as dû avoir | des nouvelles d'Elwood...
+{90102}{90145}Octobre 1967
+{90152}{90224}Affecté dans la province | de Kung Tung
+{90232}{90321}Kurtz avait lancé | l'opération Archange
+{90330}{90385}Tenue pour un grand succès
+{90462}{90520}Sans autorisation officielle
+{90527}{90583}Il avait tout fait tout seul
+{90622}{90666}Il en fallait, des couilles
+{90705}{90772}Ils s'apprêtaient à l'aligner
+{90780}{90815}mais la presse s'en était emparée
+{90822}{90885}et on l'avait promu colonel
+{90990}{91043}Fallait être un aigle pour voler
+{91049}{91109}au-dessus | de cette montagne de connerie
+{91790}{91869}Alors ça, c'est bizarre | au milieu de ce merdier
+{91913}{91961}On nous attend, cette fois ?
+{92002}{92021}Aucune idée
+{92693}{92748}T'es déjà venu ici, Chef ?
+{92755}{92783}Ça doit dealer, ici
+{92793}{92867}Vise un peu les bécanes !
+{92897}{92933}Suzuki
+{92947}{93007}- Super ! | - Ouais. Sukiyaki !
+{93167}{93222}- Ça doit être lui | - C'est là
+{93465}{93513}Trois bidons de gasoil
+{93537}{93587}Vite, on a qu'une heure
+{93595}{93610}Oui, quoi ?
+{93614}{93643}T'as de la Panama Red ?
+{93655}{93691}Je peux t'en avoir
+{93714}{93726}Sergent
+{93752}{93774}Destination ?
+{93784}{93808}J'en ai pas
+{93822}{93849}T'en as pas ?
+{93872}{93896}Sergent
+{93907}{93976}Sans destination, je peux rien faire
+{93988}{94067}Ils sont avec moi. | Notre destination est secrète
+{94077}{94125}J'ai une priorité du Deuxième Bureau
+{94133}{94214}Bien, mon capitaine. Vous savez, | c'est une sacrée soirée
+{94362}{94403}Donne-leur du gasoil
+{94412}{94434}Tout de suite
+{94442}{94473}Il va filer doux
+{94482}{94545}Ecoutez, mon capitaine, | je m'excuse
+{94555}{94591}C'est dur ce soir
+{94620}{94685}Avec ça, aux fournitures, | vous l'aurez
+{94695}{94767}J'ai des bonnes places | pour le show
+{94775}{94799}Vous les voulez ?
+{94805}{94881}Le show, ils amènent des Bunnies
+{94963}{94994}Ecoutez, mon capitaine
+{95015}{95080}C'est ma tournée. Sans rancune
+{95977}{96018}Ça va ?
+{96040}{96090}J'ai dit "Ça va ?"
+{96100}{96196}Je vous apporte notre salut à tous
+{96208}{96277}Vous faites un boulot formidable
+{96290}{96352}Salut à tous les paras !
+{96365}{96437}Et aux marines, et aux matelots !
+{96453}{96493}On est fiers de vous !
+{96500}{96553}Parce qu'on sait que c'est dur
+{96595}{96675}Alors on va tout faire | pour vous faire plaisir
+{96691}{96719}Miss Août
+{96725}{96771}Sandra Beatty !
+{96807}{96879}Miss Mai, Terry Teray !
+{96918}{96949}Et la Playmate de l'année
+{96963}{97032}Carrie Foster !
+{98340}{98383}Lady Clito doit être là !
+{98542}{98581}Astique mon flingue !
+{99233}{99274}T'es mignon
+{99297}{99328}Je suis là !
+{99521}{99554}Salope
+{99571}{99585}A poil !
+{99673}{99716}Tu veux qu'on vienne, chérie ?
+{99743}{99765}Et comment !
+{99780}{99814}Un autographe !
+{99880}{99916}Un autographe !
+{100621}{100657}Amenez les filles, on se tire
+{102172}{102225}Les Viets avaient pas droit à ça
+{102272}{102349}Trop occupés | à se terrer ou à cavaler
+{102446}{102503}Leurs fêtes, c'était un bol de riz
+{102513}{102553}et un bout de viande de rat
+{102603}{102641}Ils n'avaient que deux issues
+{102673}{102699}la mort
+{102721}{102754}ou la victoire
+{103018}{103085}Pas étonnant | que Kurtz fasse chier l'état-major
+{103127}{103245}La bande de clowns à quatre étoiles | finiraient par brader tout le cirque
+{103322}{103378}Putain, c'est incroyable !
+{103388}{103464}Je collectionne ses photos | depuis qu'elle a été Miss Décembre
+{103473}{103538}Vise un peu, Clean ! Elle était là !
+{103546}{103618}J'ai écrit à cette connasse, | elle a pas répondu
+{103626}{103717}Y en a qui sont accro à ces pépées. | Comme ce mec, du delta
+{103733}{103759}Quel mec ?
+{103766}{103847}Celui qu'on a accusé de meurtre. | Un sous-off de la biffe
+{103855}{103927}Ce mec, il adorait Playboy
+{103938}{104003}Le jour où le magazine arrivait
+{104011}{104054}il allait l'attendre
+{104070}{104135}Vise-moi ces nibards, putain !
+{104161}{104213}Il patrouillait | avec l'armée vietnamienne
+{104220}{104294}avec un salopard de lieut' niac
+{104303}{104375}Un jour, | le niac lui confisque son magazine
+{104383}{104443}Il lui dit : "Rends-moi ça" | et l'autre
+{104460}{104532}"Taisez-vous | ou c'est le conseil de guerre !"
+{104542}{104588}Ça, c'est bien eux, bordel
+{104598}{104634}Le niac a exagéré
+{104676}{104690}Prends la barre
+{104696}{104784}Il a fait des trous d'épingle | dans la pépée
+{104798}{104822}Prends la barre
+{104828}{104897}Des trous d'épingle | dans la double page,
+{104907}{104934}des conneries comme ça
+{104941}{105003}Le sous-off lui a dit : | "Fais pas ça !
+{105013}{105056}"Pas touche avec tes sales pattes !
+{105073}{105104}"Fais pas ça !"
+{105113}{105233}Le niac lui a dit | "je t'emmerde" en vietnamien
+{105243}{105303}Le sous-off a pas supporté
+{105311}{105354}Il a pris son flingue
+{105363}{105408}Il l'a armé
+{105463}{105537}Il a balancé une rafale au bridé
+{105546}{105603}Il l'a effacé en beauté
+{105613}{105668}Tchao, le lieutenant
+{105676}{105721}Pour lui, c'était réglé
+{105750}{105782}Il a été condamné ?
+{105788}{105882}Ils l'ont foutu au trou à Lon Binh
+{105893}{105953}On aurait dû le décorer
+{106050}{106084}Putain d'armée vietnamienne
+{106093}{106131}Fallait le fusiller
+{106168}{106225}ou lui filer une médaille
+{106268}{106316}Sale temps pour le niac, remarque
+{106463}{106532}Bonjour, le Viêt-nam. | Ici Zack Johnson
+{106553}{106608}Il fait 28 degrés, ici, à Saïgon
+{106618}{106664}et très humide. Et voici un message
+{106671}{106767}du maire de Saïgon | à tous les GI logés en ville
+{106778}{106843}La lessive, à l'intérieur, | pas aux fenêtres
+{106850}{106915}Respectons la beauté de Saïgon
+{106941}{107013}Et maintenant, pour le grand Sam
+{107020}{107085}du 1er bataillon | de la 35e d'infanterie
+{107093}{107191}de la part des baroudeurs d'Ahn Ke | et de leur chef si sympa
+{107204}{107254}Les Rolling Stones, "Satisfaction"
+{107308}{107347}Vas-y, Clean !
+{107374}{107410}Remue-toi
+{107643}{107663}Accroche-toi !
+{108261}{108318}C'est pas beau, ça ?
+{108361}{108416}Tu gardes bien le cap !
+{108839}{108884}"Motivation | dans la contre-guérilla",
+{108891}{108932}par le colonel W.Kurtz
+{108966}{109057}"Tant que la présence au front | sera limitée à un an,
+{109066}{109150}"officiers et soldats resteront | des dilettantes et des touristes
+{109211}{109268}"Tant que bière glacée, | repas chauds
+{109279}{109341}"et autres luxes resteront la norme
+{109349}{109423}"notre impuissance | dans cette guerre ira croissant
+{109433}{109493}"Avec moins d'hommes, | entraînés et motivés
+{109501}{109590}"le quart de nos forces actuelles | suffirait à vaincre"
+{109603}{109649}Y vont jouer aux cons !
+{109666}{109719}T'as raison... les enfoirés !
+{109771}{109819}- Qui c'est ? | - Qu'est-ce qui se passe ?
+{109884}{109920}C'est toi, Lazzaro ?
+{110304}{110349}La bâche brûle !
+{110358}{110397}Je l'ai. Laissez passer
+{110789}{110834}Qu'est-ce que tu fous ?
+{111418}{111502}Fin de l'été et automne 1968
+{111519}{111610}Les embuscades contre Kurtz | se multiplient
+{111619}{111643}La situation se dégrade
+{111831}{111864}Novembre
+{111873}{111976}Il fait assassiner quatre vietnamiens, | trois hommes et une femme
+{111998}{112075}Dont deux colonels | de l'armée sud-vietnamienne
+{112143}{112208}L'ennemi cesse de l'attaquer
+{112299}{112359}Il ne s'était pas trompé de cible
+{112421}{112476}Il est entré | dans les Forces spéciales
+{112488}{112538}et ensuite, ses...
+{112558}{112628}L'armée fit | une dernière tentative
+{112638}{112657}...méthodes
+{112664}{112733}S'il se rangeait, | tout serait oublié
+{112744}{112775}...malsaines
+{112786}{112815}Mais il a continué
+{112826}{112859}Il est au Cambodge
+{112866}{112904}Continué à gagner
+{112911}{112942}avec ses Montagnards
+{112948}{112975}D'où ma mission
+{112984}{113022}...comme un dieu
+{113031}{113113}et obéissent à ses ordres, | aussi ridicules soient-ils
+{113171}{113214}Ils ont perdu sa trace
+{113243}{113284}Il avait disparu
+{113313}{113371}De temps à autre, | un renseignement
+{113379}{113429}livré par un prisonnier viet
+{113476}{113560}Les Viets avaient appris | à le redouter
+{113581}{113665}Il les harcelait jusqu'au Cambodge
+{113699}{113763}T'es là depuis trop longtemps
+{113773}{113802}Arrête la dope
+{113811}{113871}Je vais à la Maison-Blanche
+{113878}{113964}dîner avec le président | des Etats-Unis
+{113973}{114021}C'est là que je vais
+{114031}{114082}Hé, Chef ! | Tu la mets en sourdine
+{114249}{114302}Il est à bord depuis longtemps ?
+{114313}{114342}Sept mois
+{114366}{114438}Sa spécialité, | c'est de me casser les couilles
+{114449}{114518}Il pense la même chose de vous, | mon capitaine
+{114561}{114599}Et vous, vous pensez quoi ?
+{114608}{114649}Moi, je pense pas
+{114661}{114740}Mes ordres c'est d'ignorer | où va ce bateau
+{114758}{114799}A vous voir, ça bardera
+{114806}{114844}où que ce soit, je le sais
+{115098}{115182}On va à 75 bornes | après le pont de Do Lung
+{115293}{115329}C'est au Cambodge
+{115338}{115360}C'est secret
+{115388}{115470}On est pas censés y aller | mais j'y vais
+{115519}{115591}Vous me déposez pas loin | et je vous libère
+{115686}{115722}D'accord, mon capitaine
+{116243}{116279}"Mon cher fils
+{116296}{116420}"Ta mère et toi devez être | inquiets d'être sans nouvelles
+{116434}{116505}"mais ma situation | est devenue difficile
+{116533}{116615}"L 'armée m'accuse officiellement | de meurtre
+{116778}{116848}"Les "victimes" | sont 4 agents doubles
+{116859}{116943}"Nous avons mis des mois | à les démasquer
+{116998}{117049}"Une fois sûrs, nous avons agi
+{117057}{117109}"Agi en soldats
+{117129}{117182}"L 'accusation ne tient pas
+{117189}{117273}"Dans les circonstances | de cette guerre
+{117281}{117334}"elle est démentielle
+{117588}{117682}"A la guerre, il faut se montrer, | tantôt compatissant
+{117701}{117763}"tantôt impitoyable
+{117771}{117826}"ce qu'on appelle impitoyable
+{117834}{117909}"mais qui signifie souvent lucide
+{117919}{117988}"Voir lucidement | ce qu'il faut faire et le faire
+{118011}{118083}"délibérément, vite, consciemment
+{118109}{118145}"les yeux ouverts"
+{118152}{118192}trois ou quatre morts au combat
+{118198}{118225}"Dis à ta mère
+{118231}{118277}"ce que tu jugeras bon
+{118284}{118315}"Ces accusations
+{118339}{118386}"me laissent froid
+{118397}{118457}"Je suis au-delà | de leur morale mensongère
+{118466}{118526}"et donc, je m'en moque
+{118547}{118597}"J'ai confiance en toi
+{118604}{118649}"Ton père qui t'aime"
+{119152}{119212}Pas étonnant | que j'aie pas pu les contacter
+{119218}{119252}Quel dépotoir !
+{119364}{119400}- Salut ! | - Ça va ?
+{119409}{119495}Joli petit rafiot. | On en a jamais vu ici
+{119513}{119578}On a demandé une évacuation | médicale. Vous l'avez reçue ?
+{119586}{119627}Une évacuation ? Non
+{119633}{119684}Un hélico abattu, avec des morts
+{119717}{119757}- En venant ici ? | - Oui
+{119771}{119815}Vous remontez la rivière ?
+{119821}{119843}Très loin
+{119849}{119904}Très loin ? Oublie
+{119914}{119952}Pourquoi ?
+{119969}{120022}On a des gens à redescendre
+{120029}{120053}Laisse tomber
+{120059}{120119}- C'était quoi ? | - On va repasser
+{120127}{120170}C'est ça, oui
+{120384}{120456}Occupez-vous du moteur. | Je vais jeter un œil
+{120474}{120510}Partez pas sans moi
+{121064}{121109}Où est votre commandant ?
+{121116}{121157}J'en sais rien, moi
+{121674}{121727}C'est à moi, sale con !
+{121964}{122024}Où est l'officier commandant ?
+{122039}{122106}Il a sauté sur une mine y a 2 mois
+{122114}{122150}Il en reste rien
+{122159}{122212}Qui commande, ici ?
+{122224}{122323}J'en sais rien. Moi, je suis | de nuit, je fais ce qu'on me dit
+{122332}{122403}- En bonne tapineuse | - Et toi ?
+{122427}{122525}Je te dis qu'il va s'enrayer. | Tu peux me croire
+{122534}{122589}Fous-moi la paix !
+{122722}{122810}Venez voir. | C'est votre bateau ? Venez
+{122854}{122878}Pourquoi ?
+{122887}{122947}Venez, j'ai à vous parler
+{123034}{123068}Restez pas sous la pluie
+{123134}{123168}Arrêtez vos conneries
+{123216}{123293}Ça va, mon capitaine ? | Je vais vous présenter
+{124219}{124286}J'ai fait un marché | avec les gens de Hau Phat
+{124294}{124387}Deux bidons de gasoil | contre deux heures avec les Bunnies
+{124647}{124671}Vous déconnez ?
+{124676}{124777}Pas du tout. Emportez deux bidons | à la grande tente
+{124844}{124863}Mon capitaine
+{124907}{124969}Vous donnez notre gasoil | à une playmate du mois ?
+{125007}{125057}A une playmate de l'année
+{125159}{125224}Si ça chauffe et qu'on se retrouve | en panne de gasoil
+{125234}{125285}vous me direz | si elle valait le coup
+{125299}{125381}C'est bon pour nous cinq. | Vous y allez ?
+{125484}{125520}Y a des doudous ?
+{125527}{125553}Des quoi ?
+{125617}{125687}Ça va, mon capitaine. | Je garderai le bateau
+{125729}{125770}Mon capitaine, un coup de main
+{126252}{126329}Tu sais, j'ai toutes tes photos
+{126337}{126387}La double page
+{126397}{126488}La série des playmates, | la playmate de l'année
+{126497}{126538}J'ai même le calendrier
+{126622}{126665}T'as un oiseau ?
+{126672}{126725}Je faisais un numéro | à Busch Gardens
+{126740}{126814}- Busch Gardens ? | - Je dressais des oiseaux
+{126901}{126957}- T'es bien Miss Décembre ? | - Miss Mai
+{126967}{127003}Ça vient ?
+{127177}{127215}Miss Décembre était brune
+{127225}{127256}Y en a une là
+{127269}{127322}Celui-là, c'est un nouveau
+{127357}{127443}Tiens mon bébé, prends ton biscuit
+{127459}{127517}Etre playmate de l'année
+{127532}{127615}c'est une solitude inimaginable
+{127644}{127676}C'est genre...
+{127702}{127783}T'essayes de communiquer | tes sentiments aux gens
+{127804}{127845}de montrer ton cœur...
+{127851}{127938}J'aimerais beaucoup | que tu me parles de ton numéro
+{127964}{127993}mais tu veux bien
+{128094}{128152}mettre cette perruque noire | s'il te plaît ?
+{128162}{128219}On est séparés | par une paroi de verre
+{128227}{128285}Une paroi invisible
+{128291}{128349}Les gens te voient remuer les lèvres
+{128359}{128438}J'ai dressé des oiseaux | pendant deux ans à Busch Gardens
+{128447}{128541}Ça te retombait sur l'épaule. | Ça, c'était ouvert
+{128559}{128624}... mais ils entendent pas | ce que tu dis
+{128640}{128731}Ils faisaient le poirier, volaient | sur le dos et faisaient du vélo
+{128740}{128778}Ta main était là
+{128837}{128878}Dégage, vieux !
+{128910}{128972}Attends ! | Donne-moi un quart d'heure !
+{128980}{129069}Ils entendent jamais | ce qu'on essaie de leur dire
+{129080}{129178}T'étais penchée, le cul un peu...
+{129187}{129211}Fous le camp !
+{129219}{129253}Un quart d'heure !
+{129275}{129330}C'est pour ça que j'ai tout fait
+{129384}{129439}pour montrer que j'avais du talent
+{129447}{129541}Des bébés cacatoès. | T'en as déjà vu ?
+{129559}{129614}- Ils sont magnifiques | - Casse-toi !
+{129645}{129693}J'y ai droit !
+{129704}{129783}On te fait faire des trucs | que tu veux pas faire, comme...
+{129835}{129873}cette photo, là
+{129947}{130019}Après ça, je me dégoûtais
+{130030}{130111}T'étais penchée en avant, | le cul en arrière
+{130119}{130172}- J'adore dresser des oiseaux | - C'est ça !
+{130180}{130235}- J'adore ça | - C'est ça !
+{130295}{130355}Magnifique. Je voudrais...
+{130366}{130434}Tu sais, j'arrive pas à le croire
+{130445}{130478}Moi, J.Hicks
+{130484}{130535}J'arrive pas à croire... | tu comprends ?
+{130557}{130629}Peut-être que | je suis pas digne d'avoir
+{130637}{130693}des relations avec un beau garçon
+{130729}{130765}un garçon pur
+{130779}{130803}Tu te rends compte ?
+{130819}{130913}Sans la guerre du Viêt-nam, | jamais je rencontrais Miss Décembre
+{130922}{130948}Miss Mai
+{130980}{131006}Je voudrais ...
+{131019}{131055}si je pouvais rencontrer
+{131074}{131120}une personne, une seule
+{131192}{131244}qui partage mon point de vue
+{131420}{131465}T'embrasses comme un oiseau !
+{131484}{131511}Embrasse-moi !
+{131682}{131706}J'adore les oiseaux !
+{131835}{131871}T'as pas encore fini ?
+{131899}{131938}Putain de merde !
+{131969}{132029}Prends-moi comme un oiseau !
+{132037}{132099}Envole-toi ! Qu'est-ce que tu fais ?
+{132112}{132165}Je vole comme un aigle !
+{132177}{132244}- Comme un aigle ! | - Tu me rends folle !
+{132520}{132597}Tu sais, il avait une mère
+{132670}{132775}Il y a des trucs | qu'ils m'ont fait faire
+{132785}{132819}que je voulais pas faire
+{132824}{132908}Ils disaient : | "Tire le ruban entre tes cuisses"
+{132919}{132970}Et moi je voulais pas
+{132982}{133064}Mais ils disaient que c'était ça | qu'on me demandait
+{133072}{133127}Ce que les gens voulaient voir
+{133660}{133701}T'es qui, toi ?
+{133710}{133744}Le suivant, Madame
+{133779}{133849}Merde, je savais pas | que t'étais puceau !
+{133858}{133882}Ferme ta gueule !
+{133890}{133950}Sinon, je t'aurais emmené | à la Nouvelle-Orléans

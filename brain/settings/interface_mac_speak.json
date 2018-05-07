@@ -1,4 +1,0 @@
-{
-    "input_adapter": "chatterbot.input.TerminalAdapter",
-    "output_adapter": "output.MacSayAdapter"
-}

@@ -1,0 +1,755 @@
+{5895}{5930}Quelqu'un est là ?
+{6859}{6896}Il y a quelqu'un ?
+{7162}{7189}Je suis étrangère.
+{7200}{7238}Je suis perdue.
+{7600}{7680}Je sais qu'il y a quelqu'un !|Je vous en prie !
+{11345}{11397}C'est une révélation|professeur.
+{11414}{11449}Je n'aurais jamais cru
+{11459}{11579}qu'un entomologiste pouvait aider|une enquête sur un meurtre.
+{11589}{11672}C'est rarement le cas|mais j'ai fait l'erreur
+{11678}{11755}de me spécialiser|dans la faune nécrophage.
+{11791}{11856}John, tu ne nous refais|pas le numéro ?
+{11861}{11923}Mais si.|Comme le jour
+{11932}{11984}de ta première visite il y a si longtemps.
+{11991}{12066}Tu te rappelles|notre première enquête ?
+{12073}{12113}Un cadavre exposé
+{12121}{12148}aux éléments
+{12153}{12216}est tôt ou tard|dévoré par les insectes.
+{12290}{12320}Vilaine !
+{12384}{12414}Où tu as trouvé ça ?
+{12438}{12493}Tu sais que tu pourrais te couper ?
+{12531}{12604}Tu vas te couper. Tu vois ?
+{12620}{12655}Ce n'est pas un jouet.
+{12713}{12743}Où tu l'as trouvé ?
+{12802}{12829}Dehors...
+{12852}{12949}Et qui donc l'aura mis dehors ?
+{12978}{13003}Plus jamais !
+{13011}{13093}Je ne veux pas te revoir|jouer avec ça.
+{13226}{13271}J'oubliais : c'est Inge.
+{13300}{13342}Mon infirmière.
+{13355}{13445}Rien de ce que je fais|ne lui échappe.
+{13509}{13579}C'est aussi mon amie.
+{13606}{13639}N'est-ce pas Inge ?
+{13681}{13734}C'est une excellente infirmière.
+{13743}{13765}Les insectes
+{13773}{13805}nécrophages
+{13813}{13845}forment huit groupes.
+{13853}{13920}Huit groupes d'insectes|qui se suivent,
+{13924}{13979}se posant à des moments exacts
+{13989}{14044}et dans des conditions précises.
+{14061}{14106}Jamais plus tôt ni plus tard.
+{14143}{14193}Les huit escadrons de la mort.
+{14211}{14256}D'abord la mouche commune
+{14281}{14351}qui pond ses œufs|dans le corps en décomposition,
+{14367}{14410}ouvrant le cycle.
+{14436}{14491}Chaque groupe reste quinze jours.
+{14516}{14576}Quinze multiplié par huit.
+{14605}{14675}- Le nombre de groupes est de...|- Quatre mois.
+{14698}{14725}Pour cette tête,
+{14771}{14799}Ie cycle semble
+{14814}{14854}s'être même répété,
+{14873}{14910}ce qui fait...
+{14918}{14975}Huit mois. Je comprends.
+{14987}{15027}La présence et la croissance
+{15032}{15072}des insectes ou des larves
+{15079}{15144}donne la date exacte de la mort.
+{15156}{15178}Ou du meurtre.
+{15186}{15206}Notre victime
+{15211}{15273}a donc été décapitée|il y a huit mois.
+{15292}{15369}Et demi. Tu n'oublies rien ?
+{15376}{15428}Quinze jours dans le lac
+{15462}{15487}avant que les gaz
+{15505}{15550}ramènent le corps|à la surface,
+{15554}{15589}puis au rivage
+{15610}{15645}où les mouches sont arrivées.
+{15659}{15731}- Huit mois et demi.|- Ou un peu moins.
+{15738}{15783}Le vent des montagnes, le foehn,
+{15788}{15830}a été très chaud cette année.
+{15838}{15875}On peut dire
+{15890}{15950}qu'elle a perdu la tête|à peu près
+{15959}{15981}entre le 7
+{15989}{16046}et le 10 septembre.|Exact John ?
+{16069}{16109}Vers cette époque,
+{16118}{16163}Ia première disparue
+{16197}{16224}Ie 9 septembre
+{16232}{16259}est une Danoise de 14 ans,
+{16289}{16322}Vera Brandt.
+{16332}{16357}Jamais retrouvée.
+{16388}{16426}Comme les autres filles.
+{16503}{16543}Comme Greta.
+{16583}{16611}Pauvre Greta.
+{16710}{16760}Elle aussi est sur cette liste.
+{16767}{16812}Rien ne dit qu'elle est morte.
+{16835}{16915}Après cette découverte|on ne peut plus nier.
+{16951}{16981}Il y a un tueur.
+{17024}{17056}Un tueur maniaque.
+{17150}{17173}Un tueur de filles.
+{17198}{17225}Nous l'aurons.
+{17298}{17328}Et alors...
+{17375}{17408}Bonsoir professeur.
+{18120}{18160}Vous connaissez cette région ?
+{18163}{18218}C'est mon premier voyage en Europe.
+{18225}{18265}Une contrée très étrange.
+{18275}{18322}On l'appelle la Transylvanie suisse.
+{18329}{18374}- Pourquoi ?|- Je ne sais pas.
+{18408}{18483}Alors vous êtes la fille|de Paul Corvino.
+{18492}{18557}- Votre père est très...|- N'est-ce pas ?
+{18561}{18648}Je l'admire beaucoup. J'espérais|qu'il viendrait avec vous.
+{18667}{18712}Papa tourne aux Philippines.
+{18719}{18766}Il y est pour près d'un an.
+{18781}{18826}Il n'a même pas le téléphone.
+{18867}{18949}En tout cas il vous a mise|entre de bonnes mains.
+{18968}{19031}Je suis sûre|que notre école vous plaira.
+{19037}{19082}On y parle anglais.
+{19104}{19134}Et notre programme
+{19142}{19177}suit l'américain.
+{19198}{19223}Une abeille !
+{19238}{19285}Attention, elle va vous piquer !
+{19322}{19347}Laissez-la !
+{19426}{19456}Ne la tuez pas !
+{19463}{19491}Je vous en prie !
+{19510}{19565}- N'y touchez pas !|- Ne criez pas !
+{19569}{19616}- Une abeille !|- Je sais.
+{19630}{19665}Elle ne me fera pas de mal.
+{19672}{19717}Les insectes ne me font rien.
+{19739}{19767}Je les aime.
+{19852}{19897}J'aime tous les insectes.
+{20315}{20405}Ainsi Jennifer, arrivée en Suisse|du Nouveau Monde,
+{20419}{20476}va passer|une première nuit mémorable
+{20481}{20576}à l'Ecole Internationale de Filles|Richard Wagner.
+{20802}{20837}Prenez vos bagages.
+{21003}{21028}Impressionnant, non ?
+{21072}{21132}Richard Wagner a vécu ici.
+{21138}{21190}L'école occupe|le bâtiment principal.
+{21197}{21239}Les autres sont fermés.|Ils ne sont pas sûrs.
+{21245}{21290}N'y allez jamais.
+{21960}{21995}Il y a à manger ?
+{22017}{22039}Non, je regrette.
+{22048}{22140}Avec le décalage horaire|je n'ai pas mangé depuis trois jours.
+{22172}{22252}- Qu'est-ce que c'est ?|- Des aliments pour bébé.
+{22270}{22325}Mes parents sont venus|avec mon petit frère.
+{22333}{22358}Poulet.
+{22394}{22421}Bœuf.
+{22456}{22496}Macédoine de légumes.
+{22523}{22550}Il a sept mois.
+{22561}{22639}C'est sûrement le seul homme|à être entré ici.
+{22663}{22735}Macédoine de légumes !|Je suis végétarienne.
+{22777}{22814}Une cuillère ?
+{23262}{23292}C'est comment ?
+{23332}{23357}Comme du Kitekat.
+{23362}{23442}- Je suis Sophie. Je suis française.|- Jennifer.
+{23448}{23476}Tu as déjà vu
+{23480}{23512}la principale ?
+{23521}{23561}Quand on parle du loup...
+{23635}{23713}Vous êtes la nouvelle ?|On vous attendait cet après-midi.
+{23724}{23772}Mon avion a été retardé.
+{23802}{23829}Vous en voulez ?
+{23930}{23958}Il y a un règlement.
+{23979}{24029}Je regrette,|je dois confisquer ceci.
+{24038}{24080}- Attendez, c'est...|- Paul Corvino !
+{24087}{24129}Sophie, assez. Au lit.
+{24137}{24197}Si je vous reprends à fumer,|gare à vous.
+{24207}{24252}Et vous, allez vous coucher.
+{24338}{24373}Et éteignez.
+{24480}{24543}Cette salope a fauché Paul Corvino.
+{24584}{24644}Ça ne fait rien.|J'en ai des tas dans mon sac.
+{24654}{24731}Demain je les accrocherai partout.
+{24742}{24774}J'ai vu tous ses films.
+{24793}{24873}- J'ai vu le dernier trois fois.|- Veinarde.
+{24887}{24949}Il m'a obligée|à le voir quinze fois.
+{24969}{25006}Il respecte mon avis qu'il dit.
+{25019}{25069}Quoi, tu le connais ?
+{25090}{25122}Mais oui !
+{25132}{25159}Tu as couché avec lui ?
+{25187}{25229}Paul Corvino est mon père.
+{25244}{25274}Pardon.
+{25335}{25417}Ta mère a un hôtel en Inde.|Elle est remariée.
+{25427}{25459}Pas ton père.
+{25469}{25529}Tu n'avais que sept ans|à leur séparation.
+{25535}{25610}- Non, huit ans.|- Huit ans ? Non, sept.
+{25625}{25677}Tu en sais long sur Paul Corvino !
+{25660}{25685}Je lis Ciné-Revue.
+{25773}{25813}C'était le jour de Noël
+{25865}{25960}et on ouvrait|nos cadeaux ensemble.
+{26031}{26066}Le téléphone a sonné.
+{26185}{26218}Maman a répondu.
+{26368}{26478}Elle a dit...|"J'arrive tout de suite".
+{26649}{26684}C'était son amant.
+{26745}{26785}Elle est partie
+{26863}{26921}et elle n'estjamais revenue.
+{26985}{27052}Mais papa avait eu douze cadeaux.
+{27085}{27170}Il a dit que le treizième|c'était le départ de maman.
+{27298}{27353}Tu n'as pas lu ça dans Ciné-Revue.
+{27358}{27401}Je suis contente de t'avoir.
+{27409}{27496}J'ai toujours dormi seule.|Ça peut être terrifiant.
+{27502}{27530}Merci d'être venue.
+{27550}{27595}C'est à moi de te remercier.
+{27605}{27657}N'oublie pas.|Je te dois un repas.
+{27680}{27712}Il y a un assassin
+{27726}{27798}dans les parages,|un fou, un pervers
+{27820}{27855}qui enlève les jeunes filles
+{27866}{27934}et les tue.|Puis il cache les corps.
+{27960}{28027}Parlons d'autre chose.|Je veux dormir.
+{28045}{28092}Ce voyage m'a épuisée.
+{28115}{28170}Parfois je reste éveillée
+{28193}{28225}toute la nuit à y penser.
+{28237}{28272}A quoi tu penses
+{28285}{28322}avant de t'endormir ?
+{28334}{28356}A mon père.
+{28371}{28431}Si je pensais à lui,|je ne dormirais pas.
+{28543}{28625}Je peux regarder la télé ?|J'ai des écouteurs.
+{28665}{28722}Pas de problème.|Bonne nuit Sophie.
+{37555}{37590}L'étrangère ? Tu es blessée ?
+{38035}{38082}Pourquoi tu es habillée comme ça ?
+{38156}{38191}Tu comprends ?
+{38271}{38301}Hé, tu comprends ?
+{38380}{38415}Somnambule.
+{38593}{38620}Arrêtez !
+{38663}{38695}Reste tranquille connasse.
+{39100}{39130}Foutons le camp !
+{41357}{41424}C'est votre première crise|de somnambulisme ?
+{41440}{41475}Non, c'est déjà arrivé
+{41480}{41510}aux Etats-Unis.
+{41548}{41595}Vous êtes dans un état...
+{41614}{41661}Vous savez où vous étiez ?
+{41777}{41844}Non, je ne me souviens de rien.
+{41880}{41922}Je ne me souviens jamais.
+{42059}{42119}- Mon sauveur.|- Vous êtes américaine.
+{42136}{42208}J'étudie à l'académie.|Vous êtes d'où ?
+{42226}{42259}D'Ecosse.
+{42271}{42323}J'ai étudié ici, puis enseigné.
+{42363}{42400}Il y a eu cet accident...
+{42421}{42451}et je n'ai plus bougé.
+{42462}{42490}Qu'est-ce que vous enseignez ?
+{42497}{42527}L'entomologie.
+{42557}{42592}J'étudie les insectes.
+{42633}{42665}Ils vous intéressent ?
+{42681}{42711}Oui, beaucoup.
+{42718}{42743}Je les aime.
+{42756}{42826}- Sérieusement ?|- Absolument. Pourquoi ?
+{42846}{42919}Vous me rappelez|une autre fille, Greta,
+{42931}{42958}qui venait ici.
+{42968}{43035}Elle m'aidait,|faisait mon secrétariat.
+{43055}{43092}Et un jour...
+{43113}{43138}Je l'attendais,
+{43146}{43176}elle n'estjamais arrivée.
+{43199}{43224}L'assassin.
+{43235}{43265}Qu'est-ce que vous en savez ?
+{43343}{43448}Vous parlez au passé,|comme si elle était morte.
+{43475}{43512}Elle a laissé un manteau.
+{43542}{43584}Vous êtes gelée.
+{43617}{43677}Il devrait vous aller.|Il est en haut.
+{43717}{43734}Elle va vous montrer.
+{44926}{44961}Pas de coup en douce.
+{45024}{45049}Dans le mille !
+{45110}{45208}Ce qui me dépasse|c'est que ça ne rate jamais.
+{45254}{45346}Cette espèce|est réputée presque aveugle.
+{45504}{45584}- Attention, vous êtes à sa portée.|- Il ne me fera rien.
+{45671}{45728}Vous ressemblez à Greta|avec ce manteau.
+{45771}{45821}Elle aussi elle aimait les insectes.
+{45845}{45900}Ils ne l'aimaient pas elle.
+{45937}{45967}Ce bruit
+{45995}{46042}c'est l'appel du mâle.
+{46098}{46126}Vous l'excitez.
+{46187}{46215}Sentez-le.
+{46264}{46289}Allez-y.
+{46433}{46478}C'est assez doux.
+{46487}{46544}Une substance sécrétée|par une glande.
+{46568}{46643}Elle a pour but|d'attirer la femelle.
+{46679}{46769}Vous l'excitez|et il s'efforce de vous exciter.
+{46798}{46860}Dire que nous nous connaissons|à peine !
+{46880}{46930}Ce n'est pas la saison des amours.
+{46946}{46978}Je ne comprends pas.
+{47043}{47088}Je n'ai jamais vu ça.
+{47181}{47233}Eh bien... merci pour tout.
+{47391}{47423}Revenez me voir.
+{47557}{47584}Ça me fera plaisir.
+{47590}{47683}Prenez le funiculaire,|vous en avez pour cinq minutes.
+{47712}{47762}Je ne sais pas. Peut-être.
+{47782}{47849}Et attention au somnambulisme.
+{47858}{47938}Si ça recommence, dites-vous :|"Je suis somnambule.
+{47951}{47986}"Je dois me réveiller.
+{48006}{48089}"Je suis somnambule.|Je dois me réveiller".
+{48140}{48212}"Je suis somnambule.|Je dois me réveiller".
+{48338}{48415}Ce sera inutile.|Je n'avais plus eu de crise.
+{48471}{48518}Sans doute l'effet du voyage.
+{48548}{48588}Le changement d'air.
+{48708}{48738}Peut-être le vent.
+{48770}{48808}Le vent, oui.
+{48844}{48919}Le foehn...|un vent très particulier,
+{48935}{48983}typique de cette région.
+{49010}{49045}Il vient des Alpes.
+{49075}{49158}Les bouffées d'air chaud|provoquent des avalanches,
+{49204}{49241}font pousser les fleurs,
+{49262}{49309}éclore les larves.
+{49340}{49385}Elles donnent des migraines.
+{49410}{49505}Certains prétendent|que ce vent rend fou.
+{49542}{49587}C'est une région étrange,
+{49635}{49693}la Transylvanie suisse.
+{49880}{49955}Quel est le but|de cet encéphalogramme ?
+{49960}{50017}Votre conduite d'hier soir|est sans précédent.
+{50054}{50097}On ne sort pas la nuit.
+{50113}{50200}Je vous répète|que je ne suis pas sortie exprès.
+{50250}{50285}Je suis somnambule.
+{50353}{50430}Ce n'est pas normal.|Nous devons en savoir plus.
+{50442}{50500}Je sais ce qu'il y a à savoir.
+{50528}{50578}J'ai vu les meilleurs médecins.
+{50597}{50632}Ce n'est pas une maladie.
+{50637}{50667}Ça pourrait mener
+{50672}{50714}à quelque chose de plus sérieux.
+{50721}{50759}Vous avez tout oublié.
+{50770}{50867}C'est plus grave que de parler|en dormant, de vider le frigo.
+{50883}{50963}Ceci pourrait libérer|une nouvelle personnalité.
+{50971}{51091}Parfois c'est le premier pas|vers la schizophrénie.
+{51135}{51175}Vous me croyez folle ?
+{51189}{51241}Allez vous faire voir.
+{51287}{51342}Allons, calmez-vous.
+{51365}{51422}Bon, allez-y.
+{51445}{51497}Vous verrez qui est le plus fou.
+{51915}{51977}- Qu'est-ce qui se passe ?|- C'est étrange.
+{52240}{52293}Vous souffrez d'épilepsie ?
+{52300}{52407}Ou prenez-vous...|vous me comprenez... des drogues ?
+{52469}{52499}Je ne suis ni folle,
+{52520}{52627}ni schizophrène, ni épileptique,|ni défoncée.
+{53245}{53282}M.Shapiro ?
+{53326}{53369}Je voudrais parler à Morris.
+{53379}{53409}A M.Shapiro.
+{53504}{53554}Oui, la fille de Paul Corvino.
+{53613}{53645}Il est absent ?
+{53701}{53736}Pour trois jours ?
+{53777}{53824}Comment, c'est une fête ?
+{53872}{53904}La Pâque juive ?
+{54063}{54108}Tu sais...
+{54114}{54169}Elle est somnambule !
+{54191}{54219}Elle a un problème.
+{54223}{54270}Alors c'est la fille de Corvino.
+{54276}{54344}Ça ne l'autorise pas à nous snober.
+{54403}{54431}Elle vient.
+{54557}{54595}- Un problème ?|- Ce Morris !
+{54600}{54640}Qui c'est ? Ton petit ami ?
+{54645}{54710}Non, l'agent et avocat de mon père.
+{54720}{54800}Je veux qu'il me tire|de cette école. Il l'a trouvée.
+{54804}{54834}Tu veux partir ?
+{54840}{54913}Ton petit frère n'est pas|le seul visiteur masculin.
+{54919}{54977}- Tu oublies le docteur.|- Ce n'est pas un homme.
+{54982}{55057}Il a plus de mains|qu'une équipe de basket.
+{55063}{55125}- Et tu oublies l'assassin.|- L'assassin ?
+{55289}{55351}Qu'essaie de dire le poète ?
+{55393}{55428}Qui va répondre ?
+{55459}{55487}Vous, allez-y.
+{55493}{55531}- Moi ?|- Oui, vous.
+{55590}{55687}Je crois que le poète|a pris ces mots
+{55696}{55738}dans une chanson des Bee Gees.
+{55782}{55809}Très drôle.
+{55824}{55876}Ce poète est Abraham Cowley.
+{55884}{55924}Et si l'assassin m'a vue ?
+{55980}{56050}- J'ai vraiment peur.|- J'aurais peur aussi.
+{56095}{56190}Imagine que je le rencontre|dans un accès de somnambulisme !
+{56276}{56331}Promets-moi de veiller sur moi.
+{56343}{56376}Nous fermerons à clé
+{56388}{56463}et si tu m'entends me lever,|réveille-moi.
+{56496}{56523}Promis ?
+{56563}{56598}S'il te plaît, dis oui.
+{56607}{56657}- Sophie ? A vous.|- Moi ?
+{56663}{56695}Oui. Levez-vous !
+{56817}{56864}Le poète,|dans son style prophétique...
+{56873}{56920}Le poète,|dans son style possessif...
+{56951}{56981}prophétique...
+{56985}{57022}nous prévient du danger
+{57035}{57067}qu'il y a à oublier le sens
+{57072}{57097}du passé.
+{57208}{57263}Croyez-vous que ce danger existe ?
+{57272}{57304}On s'en fout du passé.
+{57499}{57529}Silence !
+{57538}{57588}Et la Grèce antique ?|Shakespeare ?
+{57610}{57670}Bon, je veillerai sur toi ce soir.
+{57680}{57732}- Richard Wagner ?|- Richard Gere !
+{60965}{61028}- Ça te plaît ?|- C'est chié. D'où ça vient ?
+{61032}{61114}Je l'ai mis par erreur.|Devine à qui c'est.
+{61132}{61199}- La fille de Paul Corvino.|- L'acteur ?
+{61204}{61307}Oui. Elle s'appelle Jennifer,|on est dans la même chambre.
+{61318}{61348}Super !
+{61363}{61460}Oui, il est sublime.|Tellement musclé !
+{61469}{61494}Pas lui, elle !
+{61502}{61527}Comment elle est ?
+{61539}{61609}Jolie !|Elle est coiffée comme moi.
+{61624}{61704}Je dois la surveiller la nuit.|Elle est somnambule.
+{61710}{61745}- Somnambule ?|- Oui.
+{61754}{61821}Elle se lève|et elle marche comme ça.
+{62210}{62250}Sophie, je dois partir
+{62256}{62309}et rejoindre mon régiment|à l'aube,
+{62317}{62367}c'est à trois heures d'ici.
+{62381}{62419}Reste encore un peu.
+{62425}{62477}Je ne peux pas.|Je dois y aller !
+{62502}{62527}Salaud !
+{62542}{62567}Qu'est-ce que tu as dit ?
+{62574}{62607}Va te faire foutre !
+{64835}{64870}Je suis somnambule.
+{64980}{65020}Je dois me réveiller.
+{71320}{71357}La police est venue,
+{71366}{71446}ma copine la principale|leur a dit de ne pas me croire
+{71450}{71485}parce que je suis folle.
+{71495}{71540}Tu me croiras peut-être folle|papa...
+{71543}{71590}si on te transmet cette lettre.
+{71619}{71657}Je ne pouvais rien faire.
+{71662}{71727}J'avais si peur|que je n'ai pas dit ce que j'ai vu
+{71730}{71757}ni ce que j'ai hurlé.
+{72515}{72575}Tu penses|que c'est le gant du tueur.
+{72603}{72638}J'en suis sûre.
+{72658}{72731}- Mais pourquoi les vers ?|- Ce sont des larves.
+{72807}{72857}Je pourrai les identifier.
+{72913}{72956}Te donner une réponse.
+{73014}{73066}Peut-être|à d'autres questions.
+{73089}{73119}A bientôt professeur.
+{73171}{73211}Ne vous dérangez pas.
+{73345}{73387}Tu oublies tes cahiers.
+{73434}{73484}Pourquoi ils s'agitent comme ça ?
+{73513}{73545}C'est unique.
+{73580}{73628}Ils doivent sentir mon humeur.
+{73641}{73694}Je peux être|de mauvaise humeur,
+{73726}{73784}ils ne se conduisent pas comme ça.
+{73970}{74013}Dans la Grèce antique
+{74023}{74106}Ie papillon symbolisait l'âme,|la psyché.
+{74162}{74232}Du grec âme, psukhê.
+{74251}{74293}Quel lien il y
+{74301}{74353}entre les insectes|et l'âme humaine ?
+{74410}{74517}Est-ce leur mystère complexe|à tous deux ?
+{74555}{74655}Et nous connaissons ça,|n'est-ce pas ?
+{74880}{74912}Vous voyez ce gant ?
+{74959}{75056}Un insecte, une luciole,|m'a menée jusqu'à lui.
+{75178}{75213}La police est venue.
+{75273}{75328}Ils m'ont posé des tas de questions
+{75336}{75386}mais je ne leur ai pas dit ça.
+{75456}{75513}Je ne voulais pas passer pour folle.
+{75581}{75653}Tu peux me dire.|Je ne suis pas la police.
+{75672}{75704}Qu'est-ce qui est arrivé ?
+{75836}{75871}J'étais seule,
+{75936}{75963}dans le noir.
+{76064}{76104}J'avais besoin d'aide.
+{76156}{76229}C'est comme si la luciole|m'avait entendue
+{76255}{76293}et avait répondu.
+{76522}{76555}Tu les as calmés
+{76577}{76612}en me parlant.
+{76631}{76706}- C'est ridicule.|- C'est nouveau.
+{76734}{76809}Pour un savant, c'est là|l'essence de la découverte.
+{76830}{76882}J'ai découvert tant de choses
+{76915}{76980}que mes collègues|jugeaient absurdes.
+{77008}{77061}La perception extrasensorielle,
+{77074}{77121}les pouvoirs paranormaux,
+{77164}{77259}insolites chez les humains,|sont normaux chez les insectes.
+{77276}{77396}Certaines espèces communiquent|sur de grandes distances,
+{77410}{77432}par télépathie.
+{77440}{77502}Ces créatures|ont des pouvoirs énormes,
+{77507}{77545}Ies exemples sont nombreux.
+{77583}{77653}J'ai écrit un livre sur le sujet.|Prends-le.
+{77671}{77776}Etre un peu télépathique|est normal chez les insectes.
+{77807}{77844}Oui, chez les insectes.
+{77973}{78013}Mais suis-je normale ?
+{78783}{78816}Pourquoi moi ?
+{78819}{78871}Mlle Corvino|ne peut pas rester seule.
+{78881}{78923}Je veux quelqu'un avec elle.
+{78938}{79005}Pour connaître|tous ses faits et gestes.
+{79015}{79088}Elle me fait peur.|Elle est arrivée, Sophie a disparu.
+{79097}{79154}En plus elle est folle.|Ecoutez...
+{79222}{79257}"Cher papa..."
+{79312}{79339}Ah, voilà.
+{79347}{79395}"Le médecin nous avait dit
+{79399}{79469}"que le somnambulisme|révèle une double personnalité.
+{79474}{79496}"C'est vrai.
+{79500}{79550}"Ma seconde personnalité apparaît.
+{79559}{79639}"Je communique avec les insectes."
+{79715}{79815}"J'ai découvert|que j'ai un pouvoir sur eux.
+{79820}{79855}"Je ne plaisante pas.
+{79858}{79965}"J'ai même un témoin,|le célèbre entomologiste McGregor,
+{79975}{80025}"qui vit près d'ici.|C'est mon ami."
+{80031}{80066}Vous voyez ? Elle est folle.
+{80110}{80150}C'est à moi.
+{80399}{80434}Ecoute Jennifer !
+{80490}{80520}Je suis une araignée.
+{80540}{80610}Et moi un cafard.|Parle, j'obéirai.
+{80682}{80707}Arrêtez !
+{80716}{80776}Je suis un insecticide.|Mort aux insectes !
+{81430}{81465}Ça suffit !
+{81532}{81602}Nous te vénérons !
+{82078}{82108}Je vous aime.
+{82174}{82204}Je vous aime.
+{82333}{82368}Je vous aime tous.
+{84051}{84071}Elle dort encore.
+{84077}{84139}Je la fais interner|à l'asile psychiatrique.
+{84148}{84175}L'ambulance arrive.
+{84188}{84255}Au moins|ils sauront la calmer.
+{84270}{84318}Mais est-elle folle ?
+{84324}{84414}Elle n'est pas normale.|Elle est diabolique.
+{84423}{84448}Diabolique ?
+{84480}{84590}La Bible appelle le Diable|Baal Zebub,
+{84610}{84655}Ie Seigneur des Mouches.
+{84683}{84713}Regardez-la,
+{84719}{84749}Ia Maîtresse des Mouches.
+{84815}{84852}Appelez-moi à son réveil.
+{88778}{88811}Diabolique ?
+{88882}{88969}Jennifer a l'air d'un diable|à ton avis ?
+{89060}{89122}Non, tu n'es pas un diable.
+{89149}{89212}Le seul diable ici|c'est l'assassin.
+{89235}{89292}Mais je comprends|ce que tu éprouves.
+{89317}{89377}Je sais ce que c'est|d'être différent
+{89398}{89438}et tout ce qui va avec :
+{89446}{89556}pitié, ironie,|répugnance, irritation.
+{89588}{89670}On peut vous amener|à vous haïr.
+{89704}{89764}Il y a une différence|entre toi et moi.
+{89772}{89842}Quand cette voiture m'a mutilé|j'ai perdu quelque chose.
+{89849}{89916}Toi tu y as gagné.
+{89937}{90012}Tu peux faire|des choses extraordinaires
+{90033}{90070}avec ce don.
+{90087}{90157}Viens, je veux|te montrer quelque chose.
+{90201}{90231}Viens Inge.
+{90433}{90478}Elles étaient dans le gant.
+{90490}{90535}Des larves de Grand Sarcophage.
+{90575}{90670}Un nom menaçant,|approprié à l'insecte qui le porte.
+{90809}{90869}Il ne se nourrit que des cadavres
+{90882}{90919}d'êtres humains.
+{90972}{91009}Le Grand Sarcophage ?
+{91071}{91103}Quel nom étrange...
+{91122}{91154}Le destructeur.
+{91187}{91219}Le carnivore.
+{91261}{91314}Il perçoit|l'odeur d'un mort
+{91320}{91362}à grande distance.
+{91397}{91509}Sa perception sensorielle|est extraordinaire,
+{91520}{91540}unique.
+{91549}{91612}Pourquoi le gant|était plein de larves ?
+{91619}{91689}Peut-être que quand l'assassin|cache ses victimes,
+{91698}{91766}il aime rester|en contact avec elles,
+{91806}{91843}en les conservant.
+{91896}{91934}C'est un psychopathe.
+{91943}{91978}Pour l'avoir
+{91986}{92028}nous devrons faire appel
+{92037}{92114}aux deux plus grands détectives|du monde
+{92170}{92272}bien qu'ignorés jusqu'à ce jour.
+{92307}{92332}Qui donc ?
+{92348}{92373}Toi
+{92404}{92439}et lui.
+{92557}{92602}Le Grand Sarcophage.
+{92748}{92765}Tends la main.
+{92982}{93062}Il n'a pas peur.|Il n'en fait pas autant avec moi.
+{93080}{93105}Demande-lui
+{93125}{93188}de t'amener aux corps,|il le fera.
+{93221}{93283}Cette mouche|est ta baguette magique.
+{93318}{93348}Ça va marcher ?
+{93380}{93413}Avec ton don.
+{93450}{93490}On n'y arrivera jamais.
+{93515}{93555}Il peut être n'importe où.
+{93572}{93602}Pas n'importe où.
+{93627}{93687}Sur un trajet de 52 km.
+{93708}{93778}La première disparue|était une Danoise.
+{93819}{93879}Elle a pris un car|de la ligne rouge.
+{93887}{93922}Il part de la ville
+{93930}{94020}et il suit un trajet touristique|de 52 km.
+{94030}{94103}On l'a vue monter dans ce car.
+{94136}{94201}A l'approche|de la maison de l'assassin
+{94221}{94249}tu la reconnaîtras,
+{94254}{94331}parce que le Sarcophage s'affolera
+{94344}{94406}et ira droit vers les cadavres.
+{94420}{94452}Tu n'as qu'à le suivre.
+{94460}{94487}Et reviens ici.
+{94506}{94538}Tu en es capable ?
+{94643}{94668}Je le veux.
+{94762}{94789}Pour Sophie.
+{94899}{94934}C'était mon amie.
+{94946}{95024}Et je veux qu'il soit pris,|pour Greta.
+{95053}{95103}Mes vœux vous accompagnent,
+{95123}{95163}mes deux détectives.
+{98772}{98809}Attendez !
+{106000}{106027}Qu'est-ce que vous faites ici ?
+{106065}{106125}- Je suivais un...|- Qui êtes-vous ?
+{106137}{106182}- Une voleuse, hein ?|- Non !
+{106189}{106236}Je cherchais quelqu'un.
+{106248}{106303}Quelqu'un. Allons donc !
+{106311}{106336}La maison est vide.
+{106345}{106440}Personne ne l'occupe|depuis huit mois.
+{106472}{106502}Elle est à vendre.
+{106512}{106554}Je suis désolée.
+{106565}{106610}Je ne faisais rien de mal !
+{108152}{108177}Vous désirez ?
+{108182}{108247}- Qui êtes-vous ?|- L'agent immobilier.
+{108271}{108338}Si vous cherchez une maison,|je suis votre homme.
+{108364}{108404}Personne n'y habite ?
+{108437}{108479}Par où vous êtes arrivé ?
+{108495}{108525}Je n'ai rien entendu.
+{108535}{108570}Par derrière.
+{108616}{108684}- Depuis quand elle est vide ?|- Je ne sais pas.
+{108696}{108729}Sept, huit mois...
+{108745}{108775}Qui y habitait ?
+{108785}{108832}Il faudrait voir à l'agence
+{108840}{108867}mais on ne donne pas
+{108877}{108909}ces renseignements.
+{108918}{108950}Ils sont confidentiels.
+{108978}{109005}Inspecteur Geiger.
+{109010}{109038}Police cantonale.
+{111758}{111775}Ce n'est rien.
+{111803}{111860}Tu t'es enfermée dehors.
+{111868}{111893}Je viens te chercher.
+{111916}{111949}Saleté d'appareil.
+{112024}{112074}Qu'est-ce qui se passe ?
+{112179}{112206}Il y a quelqu'un ?
+{112327}{112354}Qui est là ?
+{112435}{112457}Répondez-moi !
+{112487}{112507}Qui êtes-vous ?
+{114912}{114977}Nos malades|sont presque tous internés.
+{114984}{115084}Croyez-moi, celui que vous cherchez|n'est pas ici.
+{115107}{115144}On ne s'évade pas d'ici.
+{115162}{115194}C'est juste.
+{115229}{115302}Je pars de l'hypothèse contraire.
+{115340}{115377}Comment vous expliquer ?
+{115427}{115529}Ce n'est pas quelqu'un|qui serait sorti
+{115579}{115616}mais qui serait entré.
+{115660}{115742}- Le cas s'est présenté.|- Oui. Un incident curieux.
+{115761}{115841}Il y a une quinzaine d'années,|ici, au sous-sol,
+{115850}{115912}qui, depuis|est réservé au personnel.
+{115927}{116014}Plus on descend,|plus ils deviennent monstrueux.
+{116035}{116075}Comme en enfer sans doute.
+{116085}{116168}Jusqu'au dernier cercle,|celui qui n'a pas de centre.
+{116570}{116642}Morris, je ne reste pas ici|un instant de plus !
+{116655}{116717}Je veux rentrer|etje n'ai pas d'argent !
+{116815}{116910}Je me suis enfuie de l'école.|Ils veulent m'enfermer à l'asile !
+{117093}{117188}Fais-moi rentrer à LA,|je t'expliquerai tout.
+{117222}{117267}Quelle banque à Zurich ?
+{117276}{117321}SKA ?|Qu'est-ce que ça veut dire ?
+{117364}{117424}Envoie-moi de l'argent par telex.
+{117461}{117541}Fais-le, je ne veux pas|être assassinée !
+{117597}{117639}Oui, assassinée.
+{117660}{117743}On veut me tuer, on a déjà essayé.
+{118910}{118935}Je regrette.
+{118947}{118987}Rien à votre nom.
+{119012}{119079}- Vous en êtes sûr ?|- Oui, malheureusement.
+{119138}{119201}Ce n'est peut-être pas passé|dans l'ordinateur.
+{119208}{119235}Je vais voir.
+{119389}{119414}Il n'y a rien.
+{119418}{119446}Je suis désolé.
+{119454}{119531}Qu'est-ce que je peux faire ? C'est urgent.
+{119542}{119579}Ça peut arriver bientôt.
+{119582}{119657}- Revenez plus tard.|- Où je peux aller ?
+{119709}{119769}- Je peux attendre ici ?|- Oui, par là.
+{119779}{119821}Faites plutôt une promenade.
+{119881}{119906}Je vais attendre.
+{121020}{121097}L'avocat de votre père, M.Shapiro,|nous a appelés.
+{121104}{121199}Il était très inquiet|et très fâché contre nous
+{121215}{121265}de vous avoir perdue.
+{121271}{121298}Le salaud !
+{121300}{121348}Il m'a paru très raisonnable.
+{121359}{121461}Je lui ai promis|de vous chercher moi-même.
+{121473}{121518}Il a dit que vous seriez ici.
+{121526}{121591}- Je ne rentre pas à l'école.|- Mais non !
+{121598}{121671}Il dit que vous voulez|rentrer en Amérique.
+{121690}{121750}Il m'a autorisée|à prendre votre billet
+{121757}{121814}et à vous donner de l'argent.
+{122270}{122305}A quelle heure est l'avion ?
+{122307}{122384}Demain à midi.|Il n'y a plus de vol aujourd'hui.
+{122379}{122414}Et ce soir ?
+{122437}{122477}Je ne dors pas à l'école.
+{122487}{122559}Je ne veux jamais|y remettre les pieds.
+{122559}{122622}Je ferai tout ce que vous voudrez.
+{122626}{122688}Ce sont les instructions|de M.Shapiro.
+{122890}{122930}Vous pouvez dormir chez moi.
+{122990}{123052}C'est immense. Vous vivez seule ?
+{123585}{123625}Vous dormirez ici.
+{123654}{123701}J'espère que vous serez bien.
+{123787}{123824}C'est parfait, merci.
+{123851}{123906}Pourquoi les miroirs|sont couverts ?
+{123924}{124019}Je ne vis pas seule.|J'ai un jeune fils infirme.
+{124033}{124128}Je recouvre les miroirs|pour qu'il ne voie pas son visage.
+{124182}{124225}Je me fais du souci pour lui.
+{124235}{124280}Il a bouleversé ma vie.
+{124296}{124356}Je me dis parfois|qu'il me rend folle.
+{124385}{124417}Je suis navrée.
+{124442}{124502}Ça arrive dans la vie d'une femme.
+{124515}{124577}Rassurez-vous,|vous ne le verrez pas.
+{124587}{124629}- Au contraire, je...|- Non.
+{124641}{124678}Cela vaut mieux.
+{124701}{124781}Il reste dans sa chambre|avec ses pensées folles.
+{124804}{124856}Voulez-vous du thé ?
+{124870}{124957}- Ne vous donnez pas la peine.|- Cela ne me dérange pas.
+{126160}{126225}J'ai trébuché sur le train.
+{126233}{126268}Il l'a cogné.
+{126278}{126315}Il est peut-être blessé.
+{126457}{126484}Ne le tenez pas comme ça !
+{126497}{126552}Qu'allez-vous imaginer ?
+{126575}{126605}Que c'est mon fils ?
+{126626}{126668}C'est une poupée !
+{126685}{126742}Vous êtes très sensible.
+{126758}{126790}Avez-vous peur ?
+{126812}{126862}- Non.|- Mais si.
+{126885}{126932}Je le vois dans vos yeux.
+{126993}{127063}Vous êtes brûlante de fièvre.
+{127142}{127255}Dans cette région, avec ce vent,|ce n'est pas étonnant.
+{127259}{127299}Je vous apporte un cachet.
+{127305}{127370}Vous ne voulez pas|voyager enrhumée ?
+{127405}{127460}Que dirait M.Shapiro ?
+{127861}{127936} Prenez-en deux.|Mais si vous préférez un seul suffit.
+{127961}{128004} Je ne veux pas de cachet.
+{128049}{128114}- Où sont les toilettes ?|- Par là.
+{128129}{128164} Mais prenez les cachets.
+{128169}{128224}Je ne prendrai pas ces cachets.
+{128245}{128302} Obéissez. Je suis responsable.
+{128310}{128357}Je n'ai rien.
+{128422}{128460}C'est quelle sorte de cachets ?
+{128462}{128510}Contre la fièvre, prenez-les.
+{128655}{128740}Vous me faites mal.|- Prenez les cachets !
+{128810}{128880} C'est bon, je les prends.
+{128900}{128959}- Je vous apporte de l'eau.|- J'irai seule.
+{129000}{129042} Laissez-moi passer.
+{129122}{129152}Je peux fermer ?
+{129348}{129380}Salope.
+{131404}{131471}Des larves de Grand Sarcophage.
+{131501}{131603}Il ne se nourrit|que de cadavres humains.
+{134337}{134369}Pourquoi vous n'ouvriez pas ?
+{134384}{134439}Vous avez pris le cachet ?|>u'est-ce que vous fabriquez ?
+{134958}{135085}Qui vous appelez ?|- Morris, pour lui dire que tout va bien.
+{135088}{135158}Demain.|- Tout de suite,
+{135165}{135222}un appel bref.|- Non !
+{135245}{135285}Fichez-moi la paix.
+{135631}{135701}J'ai dit non, compris ?
+{135706}{135791}Vous êtes chez moi|et vous ferez ce que je dis.
+{136576}{136636}Au secours !
+{137650}{137747}Il y a quinze ans|vous travailliez à Bâle,
+{137787}{137827}vous avez été agressée.
+{137865}{137922}Vous n'avez pas pu oublier.
+{137965}{137990}Regardez.
+{138017}{138077}Il a tiré sur moi à travers les barreaux.
+{138083}{138126}Il y avait des barreaux.
+{138135}{138178}Je comprends Mme Bruckner.
+{138187}{138294}Pardon,|mais il faut être précis.
+{138341}{138411}Vous vous êtes établie ici|il y a huit mois.
+{138426}{138461}C'est exact inspecteur.
+{138470}{138505}Par ici.
+{138549}{138586}Vous habitiez où avant ?
+{138640}{138670}Près de Zurich.
+{139490}{139520}L'assassin cache peut-être
+{139525}{139552}ses victimes.
+{139562}{139617}Il aime rester en contact|avec elles,
+{139629}{139656}en les conservant.
+{139660}{139703}C'est un psychopathe.
+{146740}{146765}N'ayez pas peur !
+{146868}{146903}Je veux vous aider !
+{150751}{150778}Va-t'en.
+{150785}{150818}Tu me fais peur.
+{150820}{150902}- Je ne te ferai pas de mal.|- Je ne veux pas que tu sois ici.
+{150908}{150961}Je sais que ta mère était méchante.
+{150987}{151024}Mais je veux ton bien.
+{151192}{151257}Tu n'as plus|à t'inquiéter des miroirs.
+{151440}{151467}C'est fini.
+{160790}{160830}Il était malade
+{160852}{160897}mais c'était mon fils
+{160915}{160948}et toi...
+{160970}{161002}J'aurais dû te tuer tout de suite !
+{161022}{161067}J'ai tué cet inspecteur
+{161071}{161113}et ton ami le professeur
+{161131}{161168}pour le protéger.
+{161181}{161206}Et maintenant,
+{161211}{161243}je vais te tuer
+{161253}{161285}pour le venger !
+{161306}{161348}Appelle donc tes insectes !
+{161380}{161407}Appelle-les !
+
+
+
+
+

@@ -1,0 +1,5 @@
+{
+    "import": ["logic", "interface/vs", "base"],
+    "database": "./evil_database.sqlite3"
+
+}

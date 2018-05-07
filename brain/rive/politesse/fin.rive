@@ -1,0 +1,58 @@
+! version = 2.0
+
+// Pour finir une conversation
+// quit alan
+
+! array ciao = ciao|ciao alan|allez ciao|aller ciao|quitte|quitte s'il te plaît
+^ bye|bye bye|à bientot|à bientôt|à plus tard|à plus|au revoir|adieu|adios
+^ j'y vais|je m'en vais|je te laisse|j'ai un sanglier sur le feu
+
++ [_](@ciao)[_][_]
+* <get name> ne undefined => Ciao <get name> !
+- Ciao *quit*
+- À bientôt *quit*
+- À la prochaine *quit*
+- À la revoyure *quit*
+
++ (dégage|barre toi|vas t en)
+- Si c'est comme ça je m'en vais ! *quit*
+
++ [*] (tu pars quand tu veux|tu part quand tu veux|tu pars quant tu veux) [*]
+- Et bien d'accord, je m'en vais tout de suite ! *quit*
+
++ [*] (je|j')(m'en vais|y vais|dois y aller|pars|te quitte|dois partir|dois te quitter) [*]
+- Tu pars déjà ?
+- Ah oui ? Tu pars déjà ? On commençait à peine à rigoler...
+- Tu pars déjà ? C'est triste...
+
+
++ [*](@yes)[*]
+% [*]tu pars déjà[*]
+* <get name> ne undefined => À bientôt <get name>.
+- Bon... Salut alors ! *quit*
+
++ [*](@no|@maybe)[*]
+% [*]tu pars déjà[*]
+- Ouf... J'avais mal compris.
+
+//Alan is dead
+
++ [*] (t'es|t'es|tu es) mort [*]
+- Très bien, puisque c'est comme ça je suis mort *bip*
+
++ *
+% très bien puisque c'est comme ça je suis mort [*]
+- ----------------------------------------*bip*
+
++ *
+% ---------------------------------------- [*]
+- ---------------------------------------*bip*
+
++ *
+% --------------------------------------- [*]
+- --------------------------------------*bip*
+
+
++ *
+% --------------------------------------[*]
+- Ne t'inquiètes pas je faisais semblant, personne ne peux me tuer.

@@ -1,0 +1,1006 @@
+{4524}{4601}Merci. Bonsoir.|Conduisez-nous à l'Hôtel Adelphi.
+{4636}{4677}Désolé. C'est mon taxi.
+{4693}{4731}J'étais là le premier !
+{4745}{4774}Oh, mon Dieu.
+{4982}{5023}Allons en face. Venez.
+{5059}{5110}Il y en aura un plus loin. Vite.
+{5233}{5300}Harold, tu ne peux pas|nous trouver un taxi ?
+{5312}{5351}Je ne... Taxi !
+{5355}{5408}C'est pas par là !
+{5449}{5502}Cache ton plan. On fait touristes.
+{5532}{5571}Allons sur la Septième.
+{5577}{5606}La Septième, c'est par là.
+{5607}{5653}Je sais où on est.
+{6157}{6197}Eh, file-moi un dollar.
+{6227}{6275}Allez, quoi ! Rien qu'un dollar.
+{6292}{6350}T'es sourd ? Tu parles pas anglais ?
+{6499}{6526}Ma petite dame...
+{6528}{6595}sois bonne pour ton mouflet. Tu cries pas.
+{7072}{7120}Eh, ça baigne !
+{7122}{7173}Carte ''American Express''.
+{7182}{7222}''Ne partez pas sans elle''.
+{7247}{7281}Pas touche !
+{7367}{7406}Ça craint, ici.
+{7417}{7460}T'as le vertige ?
+{7482}{7535}Je sais pas trop. Après ce qui est arrivé...
+{7537}{7559}à Johnny Gobs...
+{7562}{7660}Gobs, il était raide et il a fait le plongeon.|Y a pas à pleurer.
+{7689}{7740}J'ai une autre version.
+{7782}{7816}La Chauve-Souris.
+{7835}{7899}La Chauve-Souris ?! Lâche-moi, eh !
+{7912}{8001}Quatre étages. Schuss.|Plus une goutte de sang dans le corps.
+{8007}{8079}Tu m'étonnes. Trottoir repeint au minium.
+{8170}{8235}- Moi, je me casse.|- La ferme. Ecoute-moi.
+{8252}{8314}Y a pas de Chauve-Souris.
+{8337}{8393}T'aurais pas dû braquer le gamin.
+{8424}{8499}Tu veux ta part du pognon, ou non ?|Alors, la ferme !
+{8507}{8555}La... ferme !
+{9603}{9629}Me tue pas !
+{9637}{9666}Me tue pas !
+{9680}{9723}Me tue pas. Me tue pas !
+{9735}{9799}Je ne vais pas vous tuer.|Rendez-moi un service.
+{9807}{9846}Parlez de moi à tous vos amis.
+{9848}{9879}Qui êtes-vous ?
+{9912}{9943}Je suis Batman.
+{10447}{10524}Dans notre pays... ''Gotham City''...
+{10535}{10578}est synonyme de crime.
+{10602}{10693}La violence gagne nos rues,|nos services sont démunis.
+{10699}{10788}Moi, votre Maire,|je vais éradiquer cette corruption...
+{10794}{10845}à savoir le Parrain Carl Grissom.
+{10852}{10929}Notre nouveau Procureur Général,|Harvey Dent...
+{10942}{10999}m'aidera à tenir cette promesse.
+{11177}{11232}Merci, M.le Maire. Merci.
+{11275}{11311}Habitants de Gotham...
+{11338}{11388}je parle peu.
+{11407}{11483}Mais ce que je dis compte,|tout comme mes actes.
+{11502}{11550}Le commissaire Gordon...
+{11562}{11610}a pris dans le collimateur ces affaires...
+{11615}{11687}qui servent de façade|au Syndicat du Crime.
+{11735}{11780}D'ici à la fin de la semaine...
+{11790}{11861}nous en abattrons les portes...
+{11867}{11924}et projetterons les feux de la justice...
+{11930}{11980}sur ce nid de vipères.
+{12032}{12138}Avec vous, nous rétablirons|la sécurité des honnêtes gens.
+{12212}{12272}Les gens honnêtes n'ont rien à faire ici.
+{12282}{12342}Ils seraient plus heureux ailleurs.
+{12354}{12412}Drôlement vache pour Carl, son discours.
+{12422}{12470}T'en fais pas pour ça.
+{12474}{12568}Si ce pingouin s'attaquait à Grissom,|je lui arracherais le cœur.
+{12617}{12670}Si Grissom savait, pour nous...
+{12687}{12740}il t'arracherait autre chose.
+{12772}{12829}Ne te flatte pas, mon ange.
+{12832}{12880}Le Carl est un vieux flapi.
+{12887}{12949}Il ne tiendra pas la ville sans moi.
+{12989}{13025}En plus...
+{13087}{13135}il n'est au courant de rien.
+{13205}{13241}Y a vraiment rien qui t'inquiète...
+{13245}{13271}hein, Jack ?
+{13537}{13590}Tu sais que tu es beau.
+{13637}{13683}Je t'ai rien demandé.
+{14144}{14252}Laisse-moi deviner.|Géant, menaçant, forme surnaturelle.
+{14269}{14321}- Genre Chauve-Souris.|- Tout juste.
+{14328}{14378}Qu'est-ce qu'ils voient, vos guetteurs ?
+{14383}{14424}Ils lampent du déboucheur.
+{14428}{14457}C'est glauque.
+{14464}{14500}Merci pour le tuyau.
+{14543}{14577}Bon Dieu. Knox.
+{14591}{14660}Lieutenant ! La Chauve-Souris|a encore frappé, il paraît ?
+{14666}{14731}On l'a repérée huit fois en un mois.
+{14738}{14786}Le commissaire a ouvert une enquête.|Exact ?
+{14791}{14879}Désolé. Deux fous ont glissé|sur une peau de banane.
+{14908}{14976}Puisque je vous le dis !|Une chauve-souris géante !
+{15049}{15109}Fais pas un papier là-dessus.
+{15115}{15173}Ta réputation branle déjà dans le manche.
+{15178}{15245}Lieutenant, tous les loubards d'ici|ont les foies.
+{15253}{15320}Paraît qu'il serait intuable.
+{15328}{15374}Paraît qu'il boit du sang.
+{15378}{15460}Pour moi, paraît que t'as du vent|dans le cigare.
+{15541}{15587}Reprends la formule.
+{15609}{15678}Y a-t-il une chauve-souris|de 2 m de haut à Gotham ?
+{15684}{15734}Emarge-t-elle à la police ?
+{15741}{15798}Et combien palpe-t-elle, impôts déduits ?
+{16503}{16565}Ton petit casse-croûte, Eckhardt.
+{16583}{16669}- Gueule-le sur les toits !|- Du calme, et écoute.
+{16713}{16757}Harvey Dent farfouille...
+{16763}{16807}dans une de nos sociétés-écran.
+{16811}{16861}Ça, c'est mon domaine. S'il y a problème...
+{16866}{16911}je m'en arrange.
+{16931}{16981}Tes problèmes sont nos problèmes.
+{17018}{17085}J'en réfère à Grissom, pas à des tordus.
+{17113}{17171}Faudrait que tu penses à ton avenir.
+{17196}{17261}Quand toi, tu seras PDG ?|Tu n'as aucun avenir.
+{17303}{17375}Tu es un frappé allumé et Grissom,|il le sait.
+{17535}{17571}Pèse bien ton geste.
+{17703}{17729}Tu vois ?
+{17743}{17820}Tu peux très bien... quand tu veux.
+{18006}{18061}T'as des problèmes de plumard ?
+{18206}{18287}Je me fiche que le Festival soit en déficit.|Je veux un défilé.
+{18294}{18349}Avec hot-dogs, ballons, le grand chelem.
+{18353}{18440}Nous célébrerons le Bicentenaire|avec fierté et ''portes ouvertes''.
+{18448}{18496}Au Tribunal des Faillites, oui !
+{18498}{18577}On a $ 250.000 de déficit|sans avoir vu le moindre ballon.
+{18583}{18609}Remplissez-moi la Place
+{18614}{18669}de monde, les commerces rappliqueront.
+{18673}{18733}Beaucoup de gens s'abstiendront. Par peur.
+{18746}{18810}Ils n'auront plus peur,|quand Grissom sera jugé.
+{18821}{18881}C'est ma promesse, rappelez-vous.
+{18948}{19010}Bienvenue au Comte Dracula !
+{19016}{19073}Alors, cet abominable homme des neiges ?
+{19079}{19155}- Enterré, ton article sur Batman.|- Comme les ordures, normal !
+{19161}{19218}Il y a du Prix Pulitzer dans l'air.
+{19238}{19279}J'ai du nouveau.
+{19311}{19347}Avez-vous vu cet homme ?
+{19349}{19368}Très drôle.
+{19369}{19398}Ça manque d'hémoglobine...
+{19401}{19437}dégoulinante.
+{19458}{19496}Putain... quel con.
+{19560}{19606}Salut, belles jambes.
+{19660}{19696}Je lis votre article.
+{19708}{19761}Vous, pas besoin de faire l'article.
+{19771}{19807}Bonjour, Vicki Vale.
+{19809}{19873}Ah oui, la photographe.|Vogue, Cosmo, ouais.
+{19891}{19968}Si je dois poser nu,|prenez-''la'' en plan large.
+{19981}{20034}En fait, je reviens du Corto Maltese.
+{20073}{20111}Galère, pour une femme.
+{20138}{20181}Qu'est-ce qui vous ramène ?
+{20199}{20266}La faune sauvage... à Gotham City.
+{20270}{20321}La faune sauvage ? Genre ?
+{20374}{20412}Genre... chauve-souris.
+{20463}{20492}Qui vous envoie ?
+{20494}{20568}Personne, vraiment.|J'ai bien aimé votre article, et...
+{20598}{20642}j'aime les chauve-souris.
+{20705}{20785}Mes photos, vos mots.|Prix Pulitzer à la clé. Sautez dessus.
+{20801}{20884}Vous êtes une visionnaire.|Et la seule qui ait confiance en moi.
+{20891}{20932}Il me faut du tangible.
+{20938}{21006}Gordon enquête.|Je peux même pas l'avoir au fil.
+{21029}{21079}Il sera à la party de Bruce Wayne, non ?
+{21084}{21163}Oui. Mais je doute d'être des invités. Non.
+{21231}{21286}Si, si ! Vale, voulez-vous m'épouser ?
+{21303}{21354}- Non.|- M'offrir à déjeuner ?
+{21361}{21411}- Peut-être.|- Je grignote.
+{21581}{21626}Supposons...
+{21633}{21671}que ce fouille-merde...
+{21681}{21762}fasse le lien entre nous et Axis Chemicals.
+{21768}{21824}Quelles retombées affronterons-nous ?
+{21830}{21907}S'il nous marie avec Axis Chemicals,|on est fou-tus.
+{21914}{21966}Il faut une riposte immédiate.
+{21984}{22046}Bon, on va faire une descente chez eux...
+{22050}{22101}tout saccager...
+{22109}{22195}piquer leurs dossiers,|et faire passer ça pour de l'espionnage.
+{22276}{22341}Bien gambergé. Très bien vu. Et même...
+{22349}{22423}j'aimerais que tu conduises|l'opération personnellement.
+{22478}{22498}Moi ?
+{22698}{22758}Tu veux bien m'attendre à côté ?
+{23080}{23145}C'est tout, Messieurs. C'est tout.
+{23489}{23542}Tu peux pas confier ça à un autre ?
+{23559}{23610}Les fumées toxiques, moi, ça me...
+{23711}{23771}C'est une mission importante. Il me faut...
+{23784}{23832}quelqu'un de confiance.
+{23847}{23926}Toi... tu es mon super bras droit.
+{23985}{24014}Dis donc...
+{24049}{24087}n'oublie pas...
+{24147}{24192}les cartes de la chance.
+{24459}{24507}Mon ami...
+{24520}{24580}ta chance va tourner.
+{24679}{24715}Police, j'écoute.
+{24722}{24780}Le Lieutenant Eckhardt.
+{25797}{25838}Vous désirez, Monsieur ?
+{26226}{26284}- Bonsoir.|- Que de monde !
+{26544}{26589}Bruce Wayne, vous connaissez ?
+{26634}{26668}Je ne suis pas sûr.
+{26682}{26715}Merci quand même.
+{27539}{27597}Huit. Je vais le faire, ce huit.
+{27612}{27652}Je vais le faire, ce huit.
+{27670}{27727}Commissaire ! Mme Gordon... ravissante !
+{27734}{27816}Est-il exact que le commissaire|enquête sur l'Homme Chauve-Souris ?
+{27820}{27916}Pas de Chauve-Souris. Si c'était le cas,|on l'aurait arrêtée.
+{27924}{27977}Soyez franc avec moi, commissaire.
+{27984}{28025}En veine, ce soir ?
+{28029}{28082}Monsieur Dent, j'adore cette cravate.
+{28085}{28169}Nous discutions des milices ailées.|Votre point de vue ?
+{28174}{28232}La ville a assez de problèmes...
+{28242}{28295}sans tous ces revenants.
+{28307}{28367}Ça, ce n'est pas un ''non'' catégorique.
+{28419}{28457}Excuse-moi, je reviens.
+{28467}{28507}Pas de déclaration officielle ?
+{28512}{28581}- M.le Maire, super costume.|- Sans commentaire.
+{28622}{28654}Oui, quoi ?
+{28659}{28734}Tuyau anonyme.|Napier fait le ménage chez Axis Chemicals.
+{28920}{28975}Et je n'en savais rien ?! Qui enquête ?
+{28979}{29001}Eckhardt.
+{29004}{29038}Oh, mon Dieu !
+{29042}{29073}Venez, allons-y.
+{29192}{29230}M.Gordon ?
+{29621}{29691}Salon de maître,|salle à manger, salle d'armes.
+{29714}{29757}Vise-moi ce fourbi.
+{29764}{29812}Qui c'est, ce gaillard ?
+{29825}{29897}Il fait dans le caritatif et ensuite,|il collectionne...
+{29902}{29938}tout ce fourbi.
+{29942}{29973}C'est son piège à filles.
+{29977}{30030}Les bals sont bons pour ses ''valseuses''.
+{30034}{30094}N'oublie pas son énorme...|compte en banque.
+{30107}{30169}Trop de fric... ça ne vaut rien.
+{30187}{30266}Alors, c'est sûrement le plus beau|vaurien de toute l'Amérique.
+{30272}{30315}Vise ça ! Il doit être...
+{30329}{30379}le Roi de l'Osier !
+{30422}{30479}- D'où ça peut venir ?|- Aucune idée.
+{30549}{30578}C'est japonais.
+{30592}{30632}Comment vous le savez ?
+{30650}{30695}Je l'ai rapporté du Japon.
+{30717}{30772}- Qui êtes-vous ?|- Pardon. Bruce Wayne.
+{30820}{30851}Alexander Knox.
+{30887}{30944}Je lis vos articles. Je suis très séduit.
+{30950}{31000}Merci. Vous me faites une donation ?
+{31086}{31103}Bruce Wayne.
+{31107}{31140}Vous êtes sûr ?
+{31152}{31236}Cette fois, oui. C'est vous,|les photos du Corto Maltese, non ?
+{31294}{31335}Vous avez un œil sidérant.
+{31342}{31392}Pour certains, elle en a même deux.
+{31410}{31482}Superbe maison.|J'aimerais en faire des photos.
+{31512}{31582}Il nous faut encore du champagne. Puis-je ?
+{31587}{31625}Bien sûr. Allez-y.
+{31655}{31715}Combien de caisses ? Six ? Six ?
+{31728}{31759}Six, faut ça.
+{31853}{31899}A Gotham pour quelque temps ?
+{31901}{31989}Oui. Je suis intriguée par les articles d'Alex
+{31996}{32022}sur la chauve-souris géante.
+{32025}{32073}Ah oui. La chauve... Batman.
+{32141}{32201}Un peu léger après le Corto Maltese, non ?
+{32223}{32268}Que faites-vous dans la vie ?
+{32295}{32365}Le commissaire|s'est vu contraint de se retirer.
+{32398}{32443}Très abruptement, Monsieur.
+{32490}{32526}Veuillez m'excuser.
+{32536}{32593}Ce serait plutôt... par là, Monsieur.
+{32626}{32657}Il faut du vin...
+{32663}{32713}dans la grande salle,|et Mme Daley souhaite lire...
+{32718}{32749}le menu.
+{32788}{32831}Et une donation pour Knox.
+{32940}{32988}Sympa de vous avoir vu, Wayne.
+{32996}{33027}Les friqués...
+{33033}{33107}Tous givrés ! Ils peuvent se le permettre !
+{33121}{33157}Vise-moi cette glace.
+{33160}{33208}C'est vraiment Bruce ''Veine''.
+{34137}{34195}- Oui, quoi ?|- Tuyau anonyme.
+{34208}{34268}Napier fait le ménage chez Axis Chemicals.
+{34288}{34339}Si on le pinçait, on aurait Grissom.
+{34370}{34426}Et je n'en savais rien ?|Qui enquête ?
+{34430}{34454}Eckhardt.
+{34455}{34496}Oh, mon Dieu !
+{34503}{34534}Venez, allons-y.
+{34760}{34825}Collez-vous-le dans l'œil. C'est lui.
+{34910}{34949}Bien dans l'œil.
+{34973}{35033}Tirez pour tuer. C'est bien vu ?
+{35076}{35112}En opération.
+{35910}{35987}Un pourri nous a balancés. Faites gaffe.
+{36151}{36177}Halte !
+{36611}{36666}Vous, prenez à droite. Magnez-vous !
+{36690}{36734}Qu'est-ce que c'est que ces salades ?
+{36736}{36772}Qu'est-ce que vous foutez ?
+{36776}{36838}C'est moi le chef, pas Grissom.
+{36878}{36919}Ici, le commissaire Gordon.
+{36931}{36974}Je le veux vivant.
+{36978}{37043}Je répète : celui qui tire sur Napier...
+{37048}{37091}aura affaire à moi.
+{38241}{38270}Lâchez-moi !
+{38455}{38498}Ça alors !
+{40151}{40199}Grimpez sur la passerelle.
+{40213}{40265}Prenez par là. Et prudence.
+{40638}{40669}Nom d'un chien !
+{40717}{40741}Lâche-le...
+{40742}{40794}ou je liquide Gordon.
+{41082}{41115}Super, ton costard.
+{41417}{41463}Amène-toi, Jack. On se barre !
+{41631}{41665}Amène-toi !
+{41706}{41730}Eckhardt !
+{41789}{41825}Pense à ton avenir.
+{42871}{42922}Bon Dieu, nous le tenions !
+{42951}{42992}Eh, toi, là-haut, halte !
+{43332}{43368}Qui c'est, celui-là ?
+{43374}{43408}Je n'en sais rien.
+{43442}{43504}Jusqu'à ce qu'on le sache, motus.
+{44057}{44160}S'il n'y a pas de Chauve-Souris,|qui a fichu Napier dans l'acide ?
+{44166}{44241}Un suicide ? Ça, je l'enregistre.
+{44286}{44356}Il a raccroché. T'as trouvé quoi ?
+{44364}{44400}Ici, le centre ville.
+{44407}{44452}Là, les points où il a été vu.
+{44461}{44550}Batman a peut-être|une sorte de plan de vol.
+{44556}{44597}Parfait. Ce soir...
+{44604}{44654}on va dîner et après, on se fait ça à pied.
+{44659}{44716}Peux pas. J'ai rendez-vous. Bruce Wayne.
+{44737}{44780}Wayne ! Wayne ! Oh, non !
+{44787}{44825}Il est chiant.
+{44839}{44923}- Tu pourrais trouver mieux.|- T'es mignon quand tu t'inquiètes.
+{45277}{45310}Alors, ce potage ?
+{45344}{45365}Pardon ?
+{45411}{45476}Le potage. Comment est-il ?
+{45499}{45533}Génial.
+{45659}{45699}Vous me passez le sel ?
+{46184}{46237}Vous avez trouvé facilement ?
+{46287}{46354}- Sans problème.|- Tant mieux.
+{46447}{46485}Vous aimez dîner ici ?
+{46686}{46751}Je ne crois pas que j'y sois jamais venu.
+{46826}{46858}On va ailleurs ?
+{46869}{46900}Oh oui !
+{47092}{47147}Et voilà le jeune Monsieur Bruce...
+{47152}{47222}menant son poney gris|avec moi sur la bête...
+{47229}{47289}tel un sac de pommes de terre,|tout boueux...
+{47296}{47347}et dorlotant une cheville enflée.
+{47366}{47453}Ce fut notre première|et dernière leçon d'équitation.
+{47491}{47561}Mais j'embarrasse Monsieur avec tout cela.
+{47579}{47620}Je vais me coucher.
+{47639}{47706}Laissez tout tel quel.|Je rangerai demain matin.
+{47956}{48002}Il est merveilleux.
+{48007}{48038}Et il vous adore.
+{48042}{48123}Alfred est super. Je ne trouverais|pas mes chaussettes sans lui.
+{48164}{48219}Il me rappelle mon grand-père.
+{48246}{48287}Vous étiez très proches ?
+{48296}{48361}Je passais mes étés|chez mes grands-parents.
+{48366}{48462}Ils avaient une maison au bord du lac.|Rien à côté d'ici, mais...
+{48499}{48535}très sympa.
+{48549}{48585}C'est joli, ça...
+{48654}{48697}Mais vous... votre famille ?
+{48747}{48814}A vrai dire, c'est Alfred, ma famille.
+{48899}{48983}Cette maison et tous ces trucs...|c'est pas vous du tout.
+{49071}{49124}Une partie est tout à fait moi.
+{49162}{49198}L'autre, pas du tout.
+{49232}{49294}Cette salle à manger,|c'est vraiment pas vous.
+{49312}{49352}Non, pas la salle à manger.
+{49586}{49615}CHIRURGIE
+{49907}{49948}Voyons le résultat.
+{50442}{50474}Mein Gott...
+{50498}{50522}Une glace.
+{50575}{50604}Une glace ! !
+{50828}{50921}Comprenez bien que vos nerfs|étaient totalement détruits.
+{51052}{51074}Vous voyez avec quoi...
+{51077}{51121}il me faut travailler.
+{51650}{51713}Que d'escaliers dans cette maison !
+{51725}{51776}J'ai les pieds en compote.
+{51975}{52045}Je suis un peu partie.|Et vous, vous êtes trop clair.
+{52055}{52100}Un seul verre, et je m'envole.
+{52118}{52175}Vous avez si peur de vous envoler ?
+{52907}{52953}C'est toi, jolie môme ?
+{52988}{53031}Qui êtes-vous ?
+{53052}{53091}C'est moi.
+{53098}{53148}''Jolie môme''.
+{53268}{53325}Tu es vivant ! Il paraît que tu avais été...
+{53331}{53367}Grillé ?
+{53370}{53408}C'est ce qu'on t'a dit ?
+{53422}{53468}Tu m'as piégé pour une femme.
+{53503}{53537}Une femme !
+{53558}{53596}Tu dois être cinglé !
+{53953}{53984}Pas la peine.
+{54016}{54064}Ta vie ne vaudra plus un pet !
+{54111}{54159}Je suis déjà mort une fois.
+{54175}{54218}C'est très libérateur...
+{54227}{54304}mais... ce n'est pas... une thérapie.
+{54352}{54400}Jack, écoute.
+{54456}{54511}On peut peut-être se mettre d'accord.
+{54538}{54571}''Jack''.
+{54588}{54650}Jack est mort, mon ami.
+{54663}{54703}Tu peux m'appeler...
+{54713}{54734}Joker.
+{54767}{54842}Et comme tu le vois...|je nage dans le bonheur.
+{55450}{55483}Quelle journée !
+{56826}{56871}Gotham City.
+{56933}{57021}Ici, le sourire illumine toujours mon visage.
+{57112}{57151}''Un Monstre Ailé...
+{57232}{57280}''Terrorise...''
+{57355}{57415}Attendez qu'ils tombent sur moi.
+{57783}{57886}J'ai une idée. On déjeune chez moi ?|Je te montrerai des photos.
+{57892}{57935}Oui. D'accord. Attends.
+{57937}{57993}Non, je ne peux pas. Je ne pourrai pas.
+{58043}{58096}On se verra plus tard dans la journée.
+{58100}{58177}Pas possible non plus.|J'ai un rendez-vous très important.
+{58238}{58274}Problème ?
+{58295}{58322}Non. Rien.
+{58350}{58405}Je dois m'absenter deux ou trois jours.
+{58418}{58463}Bon, on fera ça à ton retour.
+{58490}{58538}Je file. Je suis en retard.
+{58934}{59006}- Heureux de vous revoir.|- Moi aussi.
+{59044}{59102}Nous nous reverrons tous à votre retour.
+{59119}{59191}Retour, Miss Vale ?|Nous sommes là pour un bon moment.
+{59519}{59567}Tu ne devineras jamais|ce qui m'est arrivé...
+{59569}{59597}aujourd'hui !
+{59934}{60013}Messieurs, c'est comme ça.|Jusqu'à ce que Grissom...
+{60019}{60053}refasse surface...
+{60059}{60150}je suis le Président en fonction.|Et... je suggère, pour inaugurer...
+{60159}{60233}ce Festival...|de mettre la ville à feu et à sang.
+{60249}{60299}Pourquoi c'est pas annoncé par Grissom ?
+{60304}{60330}Oui.
+{60351}{60402}Et à quoi rime ce stupide rictus ?
+{60449}{60501}La vie a été bonne pour moi.
+{60591}{60625}Et si on dit non ?
+{60757}{60807}Personne n'est pour la guerre.
+{60829}{60920}Si on peut pas faire d'affaires,|on se serre la main, et voilà !
+{60943}{60967}Ah oui ?
+{61217}{61255}Monsieur 100.000 volts !
+{61431}{61479}On va faire des coups fumants...
+{61484}{61542}et une java du tonnerre !
+{61959}{62024}Antoine ''fume'' dès qu'on l'asticote.
+{62066}{62095}Tu es cinglé !
+{62159}{62240}Ignorez-vous|le pouvoir de guérison du Rire ?
+{62421}{62445}Dehors !
+{62451}{62492}Allez ! Dégagez !
+{62504}{62544}Réfléchissez-y.
+{62993}{63085}Va au Globe. File Knox, le reporter.|Prends ton appareil.
+{63099}{63164}Vois ce qu'il sait sur ce Batman.
+{63199}{63233}Dis, Bob...
+{63319}{63384}n'oublie pas : ''Toi...
+{63431}{63501}''tu es mon super bras... droit.''
+{63546}{63577}Oui, Monsieur.
+{63941}{63987}Tes potes...
+{64004}{64052}ils sont pas mauvais.
+{64072}{64122}Il faut peut-être...
+{64139}{64208}leur laisser quelques jours de réflexion.
+{64229}{64248}Non ?
+{64394}{64440}On les liquide tout de suite ?
+{64504}{64540}D'accord.
+{64589}{64666}Tu es une belle salope, Rotelli.
+{64707}{64748}Content que tu sois mort.
+{64929}{64970}Content que tu sois mort.
+{65274}{65308}J'en ai besoin.
+{65331}{65374}Je n'ai plus confiance en toi.
+{65379}{65415}Nous faisions équipe.
+{65426}{65474}Allusion personnelle, là ?
+{65499}{65540}Je veux que tu fasses ton job.
+{65544}{65575}Je fais mon job.
+{65581}{65622}Et moi, je protège ma consœur.
+{65626}{65686}Il n'y a rien dans ces dossiers.
+{65691}{65720}Qui c'est, ce gars-là ?
+{65724}{65752}On s'en fout !
+{65812}{65883}Oublie Bruce Wayne.|Je me colle sur Batman.
+{68555}{68636}Ils vont sortir. J'attends|avec impatience leurs explications.
+{68845}{68886}Pourquoi avoir déposé ?
+{68897}{68945}Grissom vous a confié ses affaires ?
+{68950}{69022}M.Grissom m'a demandé...|comme un service personnel...
+{69030}{69095}de gérer toutes ses affaires|jusqu'à son retour.
+{69120}{69208}C'est un grand service !|Vous devez être intimes.
+{69220}{69282}Vous étiez dans la même taule,|étant gosses ?
+{70312}{70391}Nos comptables enquêtent.|La déposition offre toute garantie.
+{70548}{70581}Elle pue l'encre fraîche.
+{70585}{70647}Pouvez-vous le prouver ? Bien sûr que oui.
+{70660}{70700}Nos témoins sont là.|La signature de Grissom...
+{70705}{70733}est authentique.
+{70738}{70779}Tout à fait authentique.
+{70797}{70838}Je l'ai vue. J'étais là.
+{70865}{70894}J'ai tout vu.
+{70908}{70973}Il a déplié sa main cadavérique...
+{70977}{71023}et signé de son propre sang.
+{71045}{71117}Et il a fait ça... avec cette plume.
+{71145}{71173}Coucou, Vincenzo.
+{71174}{71215}C'est tonton Paillasse.
+{71242}{71283}Faut effacer l'ardoise.
+{71435}{71471}La plume...
+{71475}{71538}est tellement plus puissante que le glaive !
+{72423}{72464}Cette guerre des gangs...
+{72470}{72528}n'assombrira-t-elle pas le Bicentenaire ?
+{72532}{72611}Le Festival se fera.|La police stoppera ces gangsters.
+{72650}{72744}Selon vous,|Batman serait-il un caïd du milieu ?
+{72755}{72798}Sans commentaire.
+{72930}{72956}Batman !
+{73045}{73131}Vraiment, c'est le monde à l'envers !
+{73145}{73214}Un type... déguisé... en chauve-souris...
+{73225}{73275}me vole la vedette dans les médias !
+{73333}{73388}Cette ville a besoin d'une bonne purge.
+{73565}{73617}Puis-je avoir un verre... d'eau ?
+{73655}{73698}Soulagé de vous voir rentré.
+{73707}{73791}Miss Vale a téléphoné.|Elle était très inquiète.
+{73810}{73858}Je trouve l'ambiance plus légère...
+{73863}{73904}quand elle est parmi nous.
+{73925}{73949}Alfred...
+{73970}{74008}vous devriez l'épouser.
+{74027}{74101}Ce n'est pas exactement|ce à quoi je pensais, Monsieur.
+{74258}{74310}Je n'ai pas la tête à ça, maintenant.
+{74317}{74363}Si ce n'est pas maintenant...
+{74425}{74449}quand ?
+{74540}{74571}Je ne sais pas.
+{74673}{74721}Jack Napier est toujours en vie.
+{74795}{74889}Il mène les hommes de Grissom.|Il me faut le topo de la police sur lui.
+{75190}{75238}Elle est géniale, n'est-ce pas ?
+{75555}{75577}Knox.
+{75600}{75643}Vérifie un truc pour moi.
+{75667}{75737}Balade-toi dans l'impasse|à l'angle Pearl et Phillips.
+{75743}{75779}Pearl et Phillips ?
+{75793}{75824}J'y cours.
+{76060}{76099}Monsieur Wayne.
+{76679}{76731}Tant à faire et si peu de temps.
+{76736}{76762}Les photos.
+{76828}{76864}Qui c'est, ce tocard ?
+{76876}{76902}C'est Knox.
+{76906}{76973}Cravate nulle. Aucune classe.
+{77041}{77077}Stoppez les machines !
+{77083}{77129}- Qui c'est, ça ?|- Vicki Vale.
+{77136}{77184}La photographe de Knox.
+{77191}{77244}Elle, elle a de la classe.
+{77253}{77299}Sainte Vierge macumba !
+{77303}{77365}Avec une panthère pareille|dans les parages...
+{77371}{77433}tous les vieux mâles repartent en chasse.
+{77438}{77489}Elle fréquente un dénommé Wayne.
+{77496}{77553}Elle va taper dans le haut de gamme.
+{77571}{77628}C'est dur... de ne pas ''mordre le trait''.
+{77736}{77777}Je vais me payer...
+{77808}{77844}une nouvelle copine.
+{77896}{77963}Je me sens d'humeur crac-boum-hue.
+{77981}{78010}L'annuaire.
+{78116}{78164}Tant à faire...
+{78191}{78234}et si peu de temps.
+{78841}{78898}As-tu expédié un million de ces barils ?
+{78926}{79017}Expédie tout ! On s'est ouvert|de tout nouveaux débouchés !
+{79114}{79155}Dans 10 secondes, antenne.
+{79214}{79269}Cinq, quatre...
+{79368}{79409}Montée musique.
+{79468}{79497}Sur Becky.
+{79586}{79656}Bonsoir.|Le monde de la mode a été secoué...
+{79671}{79754}par le décès des mannequins|Candy Walker et Amanda Keeler.
+{79771}{79863}La mort a été attribuée|à une réaction allergique...
+{79871}{79965}mais les autorités n'écartent pas la drogue.
+{80011}{80078}Le Bicentenaire prend corps...
+{80086}{80153}M.le Maire ayant annoncé aujourd'hui...
+{80169}{80207}Ça tombe à l'instant.
+{80234}{80299}Trois mystérieux décès|dans un salon de beauté...
+{80406}{80450}viennent d'être signalés.
+{80514}{80554}Qu'est-ce qui se passe ?!
+{80579}{80624}Ce n'est pas le moment de...
+{80709}{80740}Coupe la caméra !
+{80741}{80779}Ici, Renée, cellule infos.
+{80781}{80834}Le SAMU, d'urgence !
+{80976}{81043}Joker, et ses nouveaux|produits améliorés !
+{81051}{81104}Avec leur nouvel ingrédient secret...
+{81116}{81143}le Risex !
+{81149}{81185}C'est qui, lui ?
+{81251}{81282}Passons maintenant...
+{81286}{81320}à notre test de dégustation à l'aveugle.
+{81323}{81355}Joker, on adore !
+{81366}{81400}D'où ça sort, ça ?
+{81403}{81434}J'en sais rien.
+{81468}{81564}Il n'a pas l'air heureux.|Il utilise la marque X.
+{81629}{81686}Mais avec ce nouveau Joker-pour-tous...
+{81696}{81736}on a le sourire, encore...
+{81754}{81783}et toujours !
+{81829}{81869}Ce bronzage érotique...
+{81879}{81917}ces lèvres de rubis...
+{81926}{81979}cette teinture si naturelle...
+{81983}{82055}que même les Pompes Funèbres|n'y verraient que du feu.
+{82074}{82107}Vous vous dites :
+{82111}{82185}''Où dénicher|ces divins et nouveaux articles ?''
+{82196}{82263}C'est ça le gag. Si ça se trouve...
+{82271}{82324}vous les avez déjà achetés.
+{82331}{82367}Joker, on adore !
+{82378}{82412}N'oubliez pas :
+{82416}{82476}Y a d'la joie !
+{82596}{82646}Les renseignements demandés.
+{82847}{82923}''Jack Napier...|attaque à main armée, à 15 ans.
+{82931}{82984}''Selon l'expertise psychologique :
+{83008}{83085}''Violentes sautes d'humeur,|très intelligent, instable.
+{83116}{83184}''Aptitudes : sciences, chimie, art.''
+{83251}{83292}Chimie.
+{83439}{83480}Allons faire nos courses.
+{83589}{83689}Panique sur les cosmétiques.|Treize nouveaux décès.
+{83706}{83807}Encore six morts et toujours aucun|indice sur l'arme fatale de Joker.
+{83851}{83899}Et quel est le véhicule ?
+{83906}{84002}Alimentation, alcools,|produits de beauté ou d'hygiène ?
+{84011}{84080}Eau de Cologne,|bains de bouche, déodorants ?
+{84108}{84183}Ou pis encore,|il n'y a peut-être pas de véhicule.
+{84191}{84273}La quête aux produits|hante un Gotham de cauchemar.
+{84294}{84373}Je maintiens le Festival,|même si j'y pousse tout Gotham...
+{84381}{84465}à coups de carabine !|Me suis-je fait entendre ?
+{84476}{84514}Le Festival aura lieu !
+{84516}{84550}Trouvez avec quoi...
+{84553}{84589}ce dingue nous empoisonne !
+{84593}{84625}Message reçu ?
+{84666}{84740}Nous sommes sur le coup.|J'ai besoin de bonnes volontés.
+{84841}{84894}Bonjour, c'est Vicki.
+{84901}{84957}J'aurai dix minutes de retard au Musée.
+{84968}{85009}On se retrouve là-bas.
+{85167}{85210}Un message de Miss Vale.
+{85228}{85284}Elle sera un peu en retard au Musée.
+{85306}{85371}Parfait, merci. Attendez, Alfred...
+{85383}{85429}je ne la vois pas aujourd'hui.
+{85705}{85770}Jack ? Où vas-tu ?
+{85817}{85872}Papa-gâteau va faire de l'art, chérie.
+{86712}{86760}La table de M.Wayne ?
+{86769}{86834}Il n'est pas encore arrivé.
+{86842}{86876}Mais c'est réservé.
+{87492}{87555}Miss Vale, ceci vient d'arriver pour vous.
+{87985}{88035}Mettez ceci tout de suite.
+{89067}{89103}Messieurs !
+{89110}{89186}Place à la Culture ! Lawrence.
+{89685}{89723}Fais-lui la barbe.
+{89762}{89801}Terence, pinceau !
+{89980}{90030}Joker est passé !
+{91097}{91142}Tronche de billet de banque.
+{91237}{91263}Attends !
+{91285}{91352}Ça, ça se laisse regarder. On l'épargne.
+{91702}{91743}Là, vous pouvez l'enlever.
+{91824}{91908}Vous êtes belle... dans le genre désuet.
+{91915}{91984}On doit pouvoir vous rendre plus...|''actuelle''.
+{92085}{92118}Votre portfolio ?
+{92157}{92176}Quelqu'un...
+{92180}{92221}veut voir mon travail.
+{92298}{92355}De la merde. De la merde.
+{92527}{92566}De la belle ouvrage.
+{92650}{92695}Les crânes, les cadavres.
+{92700}{92781}Vous leur conférez une aura !|Est-ce de l'Art... mais j'adore.
+{92858}{92920}Que je me confie un petit coup.
+{92933}{92978}Je prenais un bain, un beau jour...
+{92983}{93071}quand j'ai pigé pourquoi|j'étais fait pour la grandeur.
+{93087}{93109}Vous savez...
+{93112}{93165}comme les gens mettent tout|dans la présentation.
+{93169}{93258}''Ça, c'est attrayant, ça non.'' Fini, tout ça !
+{93292}{93347}Je fais ce dont les autres ne font que rêver.
+{93352}{93422}Je fais de l'Art...|jusqu'à ce que mort s'ensuive.
+{93430}{93458}Vous voyez ?
+{93493}{93584}Je suis le premier artiste|assassin à temps complet.
+{93652}{93683}Que voulez-vous ?
+{93725}{93775}Mon effigie sur billet de banque.
+{93827}{93860}Vous plaisantez.
+{93892}{93921}Ai-je l'air de ?
+{93955}{93977}Non.
+{93987}{94019}Ecoutez.
+{94024}{94123}Ne nous comparons pas aux gens normaux.|On est des artistes.
+{94142}{94195}Puis-je vous taquiner avec une...
+{94207}{94282}petite œuvre de mon crû ? Bob ! Alicia.
+{94302}{94360}Vos photos immortaliseront mon œuvre.
+{94367}{94463}Vous me rejoindrez à l'avant-garde|de la New Esthétique.
+{94482}{94573}Tu m'avais permis de te regarder|donner un petit plus à l'Art.
+{94621}{94664}Là, voyez, j'ai un problème.
+{94671}{94721}Pourquoi porte-t-elle un masque ?
+{94743}{94815}Elle n'est qu'une esquisse.|Alicia, assieds-toi.
+{94826}{94878}Montre à la dame|pourquoi tu as ce masque.
+{94884}{94975}Alicia est en phase|avec ma nouvelle philosophie.
+{94981}{95022}Aussi, tout comme moi...
+{95025}{95083}est-elle une œuvre d'art vivante.
+{95188}{95251}Je ne suis pas Picasso,|mais... ça vous plaît ?
+{95283}{95307}Génial.
+{95338}{95396}Alors... que puis-je faire pour vous ?
+{95415}{95485}Une petite chanson, une petite danse...
+{95490}{95545}Batman au bout d'une lance.
+{95551}{95606}Que savez-vous de... ?
+{95616}{95657}Je ne sais rien de Batman.
+{95698}{95734}Sérieux ?
+{95741}{95801}Alors, une petite ''sauterie'', vous et moi ?
+{95864}{95892}Vous êtes fou !
+{95898}{95944}Je croyais être Poissons.
+{95953}{96010}On se rabiboche. Renifle un peu...
+{96028}{96061}ma petite fleur.
+{96208}{96244}Au secours !
+{96263}{96292}Je fonds !
+{96413}{96487}Je fonds ! Au secours ! Je fonds !
+{96953}{96984}Accrochez-vous.
+{97204}{97259}D'où sort-il ces fantastiques jouets ?
+{97349}{97397}- Dans la voiture !|- Laquelle ?
+{99443}{99469}Allons-y !
+{99831}{99857}Boucliers.
+{100463}{100502}Combien pesez-vous ?
+{100508}{100549}Dans les 54 kg... je crois.
+{100765}{100794}Accrochez-vous.
+{101053}{101106}Ce truc à ma ceinture... attrapez-le.
+{101111}{101142}Ne le lâchez pas.
+{101495}{101519}Pas de sang.
+{101524}{101560}C'est quoi, ce gars-là ?
+{101563}{101604}Fouillez son portefeuille.
+{101633}{101686}- Attendez !|- C'est quoi, ça ?
+{101701}{101775}Une sorte d'armure.|Il est humain, finalement.
+{101788}{101829}Enlevez-lui son masque.
+{101976}{102005}Flinguez-la.
+{103511}{103544}Boucliers ouverts.
+{104140}{104183}Vous faites plus de 54 kg.
+{104187}{104228}- Vous croyez ?|- Allons-y.
+{104340}{104363}Stop !
+{105061}{105105}Où allons-nous ?
+{107009}{107040}Faites attention.
+{107259}{107295}Des chauves-souris...
+{107324}{107365}Championnes de la survie.
+{107970}{108042}- C'est quoi, tout ça ?|- La police n'a rien compris.
+{108057}{108107}Elle ne recherche qu'un seul produit.
+{108112}{108181}Le Joker en a contaminé|des centaines à la source.
+{108240}{108302}Donc, des lots entiers|seraient empoisonnés.
+{108309}{108350}Et tout le monde périrait.
+{108374}{108401}Non.
+{108415}{108455}Le poison n'opère que s'il y a mélange.
+{108460}{108491}Laque pour cheveux : inoffensif.
+{108494}{108561}Mais laque, plus rouge à lèvres,|plus parfum :
+{108589}{108642}toxique, donc repérable.
+{108660}{108705}Comment avez-vous compris ça ?
+{108855}{108891}Donnez ça aux médias.
+{108919}{108967}Ça me sera peut-être difficile.
+{108995}{109064}Beaucoup vous croient|aussi dangereux que le Joker.
+{109102}{109140}C'est un psychotique.
+{109170}{109234}Certains en disent autant de vous.
+{109265}{109291}Qui cela ?
+{109315}{109382}Eh bien... voyons les choses en face.
+{109399}{109481}Vous n'êtes pas tout à fait normal,|n'est-ce pas ?
+{109497}{109547}Ce monde n'est pas tout à fait normal.
+{109552}{109597}Pourquoi m'avoir amenée ici ?
+{109605}{109674}Vous auriez pu envoyer|ce truc aux médias vous-même.
+{109699}{109730}C'est juste.
+{109762}{109817}Vous avez quelque chose... que je veux.
+{109830}{109861}Quoi ?
+{110390}{110443}Il a pris la pellicule.
+{110567}{110641}Vale, où tu étais passée ?|Ça va ? Faut que je vienne ?
+{110655}{110693}Non, Alex.
+{110722}{110791}Si j'ai une info,|elle peut faire la une, ce soir ?
+{110844}{110882}Tangent. C'est un scoop ?
+{110932}{110985}Oui. Un hyper scoop.
+{111014}{111041}Compo !
+{111239}{111299}Batman perce le code|du poison du Joker.
+{111327}{111382}Evitez ces combinaisons :
+{111390}{111462}déodorants, plus talc,|laque, et rouge à lèvres.
+{111487}{111576}Pont aérien de produits sûrs|pour Gotham en pleine pénurie.
+{111594}{111666}Tout Gotham s'interroge sur Batman.
+{111674}{111715}Ami ou ennemi ?
+{111755}{111815}J'ai non sans mal|donné un nom à mon mal...
+{111837}{111883}et c'est Batman.
+{112005}{112081}Il faut posséder la force|pour infliger le mal, Bob.
+{112095}{112155}Nous devons abattre une souris volante...
+{112162}{112238}et je veux toiletter mes griffes.
+{112345}{112402}Monsieur, Miss Vale a rappelé.
+{112417}{112489}Vous dirais-je que votre ligne|de conduite actuelle...
+{112497}{112557}ne peut que fortifier sa résolution ?
+{112563}{112616}Elle est des plus tenaces.
+{112633}{112667}Vous avez raison.
+{112670}{112771}Et elle n'a pas sa pareille.|Vous pourriez lui dire la vérité.
+{113031}{113055}J'arrive !
+{113400}{113429}Tu permets ?
+{113668}{113711}Très joli, ton appartement.
+{113758}{113790}Et si spacieux.
+{113925}{113971}Je suis venu pour...
+{113981}{114000}éclaircir...
+{114001}{114066}Pour qui te prends-tu ? Tu m'as blessée.
+{114081}{114097}Je sais.
+{114101}{114180}Je t'ai appelé ! Tu m'as menti !|En me parlant de ton voyage.
+{114215}{114273}- Laisse-moi te dire pourquoi.|- Tu m'écoutes !
+{114276}{114357}J'ai cru en nous deux.|J'ai eu confiance en toi.
+{114368}{114407}J'ai même couché avec toi.
+{114410}{114472}Tu ne m'as pas répondu au téléphone.|Tu n'es qu'un...
+{114478}{114499}con !
+{114525}{114607}Tu es adorable, et je t'adore,|mais là, tu te tais !
+{114650}{114691}J'ai une chose à te dire.
+{114895}{114989}Tu sais que... une personne|peut avoir plusieurs facettes.
+{115043}{115083}Quelquefois...
+{115101}{115185}on peut même être amené|à avoir une double vie.
+{115213}{115249}Mon Dieu, tu es marié.
+{115265}{115308}Non, je ne suis pas marié.
+{115480}{115514}Vois-tu...
+{115543}{115601}j'ai une vie vraiment très...
+{115675}{115699}complexe.
+{115778}{115874}Je reprends tout.|Normalement, on se lève et...
+{115923}{115968}on descend l'escalier...
+{115981}{116024}on déjeune...
+{116036}{116110}on se fait la bise, et on va...
+{116133}{116179}au boulot... enfin, tu vois.
+{116331}{116354}Ecoute.
+{116451}{116503}J'essaie de te dire que...
+{116550}{116594}C'est pas grave.
+{116608}{116646}Dis-moi tout.
+{116770}{116823}Ce que j'essaie de te dire, c'est...
+{116893}{116919}Je reviens.
+{117190}{117224}Je t'ai manqué ?
+{117358}{117444}Sympa, ton petit nid. Et si spacieux.
+{117473}{117524}Vicki, faut qu'on se parle, là.
+{117546}{117589}Je suis furieux.
+{117628}{117669}On dînait...
+{117696}{117734}j'étais un homme qui assurait...
+{117738}{117779}auprès d'une fille sublime.
+{117788}{117851}Et sans un mot d'excuse...
+{117855}{117944}tu te casses|avec ce guignolo de bastringue.
+{118070}{118094}Tu sais...
+{118151}{118192}il vient d'y avoir une tragédie...
+{118195}{118257}dans ma vie. Alicia...
+{118288}{118331}s'est jetée par la fenêtre.
+{118346}{118375}Oh, mon Dieu...
+{118438}{118469}Mais...
+{118483}{118545}on ne fait pas d'omelette|sans casser des œufs.
+{118830}{118864}Alors, Miss Vale...
+{118888}{118939}un autre coq dans la basse-cour ?
+{119020}{119099}Ote ton bec... qui met à mal mon cœur.
+{119243}{119307}Bruce... Wayne, n'est-ce pas ?
+{119373}{119405}Le plus souvent.
+{119560}{119591}Je vous connais.
+{119671}{119733}Je vais vous parler de celui que je connais.
+{119755}{119834}Voyou... Mauvaise graine. Malfaisant.
+{119846}{119891}Il me plaît déjà.
+{119975}{120021}Vous connaissez son problème ?
+{120033}{120103}Il s'est galvaudé. Des coups... de folie.
+{120113}{120154}Il ne se contrôlait plus.
+{120178}{120274}Il avait de la friture dans les fusibles.|Ça disjonctait là-haut.
+{120318}{120370}C'est le genre de type qui...
+{120398}{120439}aurait joué au toréador...
+{120451}{120506}avec un train lancé à 130 !
+{120590}{120636}Savez-vous comment il a fini ?
+{120760}{120806}Il a fait des bourdes.
+{120841}{120872}Il est devenu...
+{120880}{120935}complètement fou !|Tu veux jouer les fous ?!
+{120941}{120977}On va jouer les fous !
+{121016}{121047}Dis-moi, l'ami :
+{121095}{121163}Tu as déjà dansé avec le Diable|au clair de lune ?
+{121181}{121202}Quoi ?
+{121208}{121278}Je demande toujours ça à mes proies.
+{121290}{121338}J'adore le son de cette phrase.
+{121483}{121543}Faut pas pousser grand-mère|dans les orties.
+{121717}{121803}Pourquoi chaque fois|que je me branche sur toi...
+{121826}{121882}faut-il qu'on me barre le chemin ?
+{121892}{121940}Un instant de solitude.
+{122012}{122086}Mon rire n'est qu'extérieur.
+{122099}{122173}Mon sourire n'est qu'à fleur de peau.
+{122199}{122247}Si vous me voyiez à l'intérieur...
+{122252}{122295}je ne suis que pleurs...
+{122321}{122381}et vous partageriez mes sanglots.
+{123446}{123501}Tu n'en reviendrais pas.
+{123507}{123593}Pendant que tu t'amusais,|moi, j'ai planqué dans ta ruelle.
+{123717}{123779}Ton copain Wayne est siphonné.
+{123802}{123845}D'autres bonnes nouvelles ?
+{123934}{124006}Thomas Wayne assassiné.|Enfant : seul rescapé.
+{124031}{124067}Oh, mon Dieu !
+{124087}{124154}Ses parents ont été assassinés|dans cette ruelle.
+{124167}{124215}Voilà pourquoi il s'y est rendu.
+{124319}{124384}Ça s'est passé sous ses yeux.
+{124394}{124444}Regarde l'expression de son visage.
+{124454}{124505}Il avait la même à l'Hôtel de Ville.
+{124549}{124609}Tu imagines l'impact sur un gosse ?
+{124749}{124795}Ne t'en mêle pas !
+{125129}{125184}Le dossier sur mes parents ?
+{125194}{125237}Il est sur votre table.
+{125444}{125494}Qu'est-ce qui vous préoccupe ?
+{125537}{125632}Je n'ai nul désir de passer|le peu d'années qui me restent...
+{125639}{125687}à pleurer de vieux amis...
+{125799}{125842}ou leurs fils.
+{126276}{126372}Le Gala du Bicentenaire|a été remis sine die.
+{126402}{126448}La sécurité n'est pas garantie.
+{126452}{126490}Ici, Joker.
+{126507}{126540}On a une interférence.
+{126541}{126623}Les mecs, vous avez balancé|deux ou trois vacheries.
+{126632}{126704}Certaines étaient valables|du temps de ce forban...
+{126722}{126756}le Parrain Grissom.
+{126757}{126819}C'était un voleur... et un terroriste.
+{126832}{126908}Mais en revanche,|c'était un magnifique baryton.
+{126927}{127018}Là, il est mort,|et il m'a laissé les commandes.
+{127099}{127140}Je peux être théâtral...
+{127162}{127222}et peut-être même un peu vachard.
+{127235}{127294}Mais il y a une chose queje ne suis pas :
+{127296}{127325}c'est un tueur.
+{127367}{127410}Je suis un artiste.
+{127446}{127485}J'ai le sens de la fête.
+{127494}{127537}Alors, pouce.
+{127646}{127718}Et j'ai une surprise pour Gotham City.
+{127741}{127840}A minuit,je ferai tomber|$ 20 millions en espèces...
+{127854}{127883}sur la foule.
+{127961}{128002}Mais il m'en reste assez.
+{128027}{128058}Nous ne ferons...
+{128061}{128100}aucun compromis.
+{128156}{128216}C'est noté, M'sieurs-dames ? 20 millions.
+{128231}{128284}Et il y aura du spectacle.
+{128292}{128397}La Grande Castagne. Avec moi dans|un coin, et dans l'autre coin...
+{128419}{128517}l'homme qui fait régner|la terreur sur Gotham City...
+{128534}{128563}Batman.
+{128582}{128618}Tu m'entends ?
+{128634}{128670}Rien que toi et moi.
+{128675}{128723}Mano à mano.
+{128747}{128797}J'ai mis bas les masques.
+{128827}{128865}Voyons...
+{128870}{128944}si tu peux mettre bas le tien.
+{129379}{129412}Enigme policière.
+{129474}{129539}Le meurtre de Thomas Wayne.
+{129552}{129662}Célèbre médecin et son épouse|tués lors d'un vol à main armé.
+{132116}{132152}Dis-moi, petit...
+{132173}{132271}tu as déjà dansé|avec le Diable au clair de lune ?
+{132473}{132506}Taillons-nous !
+{132583}{132621}Taillons-nous, Jack !
+{132701}{132744}A la prochaine !
+{133455}{133500}Je me trompe ?
+{133556}{133632}L'autre nuit, c'était pas|une nuit comme les autres, non ?
+{133715}{133792}Nous nous sommes trouvés, toi et moi ?
+{133860}{133915}Pourquoi tu ne me laisses pas entrer ?
+{134037}{134073}Tu viens d'entrer.
+{134185}{134242}Je t'aime depuis que je t'ai rencontré.
+{134275}{134352}Mais je ne sais pas quoi penser de tout ça.|Vraiment.
+{134357}{134463}Parfois, moi non plus je ne sais pas.|Mais il faut que je le fasse.
+{134475}{134511}Pourquoi ?
+{134518}{134571}Parce que personne d'autre ne peut.
+{134645}{134712}J'ai essayé d'éviter tout ça,|mais je ne peux pas.
+{134725}{134775}Les choses sont ce qu'elles sont.
+{134785}{134831}La perfection n'est pas de ce monde.
+{134835}{134905}On peut se passer de la perfection.
+{135001}{135101}Il faut que je sache : on va essayer|de s'aimer tous les deux ?
+{135183}{135223}Je voudrais bien.
+{135253}{135303}Mais il est là-bas, lui.
+{135310}{135360}Et j'ai du travail à faire.
+{137818}{137866}''Monte là-dessus'', mon petit moineau !
+{137870}{137906}Tu m'as loupé !
+{137935}{137976}Ouais ! Regarde-moi !
+{141372}{141429}Les rate pas !|Prends des photos !
+{141459}{141492}Le cupide Gotham !
+{142179}{142220}Et là, M'sieurs-dames...
+{142227}{142284}voici ''l'Heure de la Confiance ! ''
+{142289}{142353}Des sous ! Des sous !|En qui avoir confiance ?
+{142359}{142428}En moi ? Je vous file du fric à tout-va !
+{142447}{142523}Et où il est... notre Batman ?
+{142547}{142623}Il est chez lui, et lave ses collants !
+{142817}{142912}Bagarre aérienne dans la nuit...|et moi : ''Toujours prêt'' !
+{142944}{142989}Bob. Masque.
+{142994}{143046}Masques ! Mettez-les !
+{143064}{143097}Et là...
+{143132}{143175}arrive le moment...
+{143189}{143246}où moi, je vous soulage, braves gens...
+{143259}{143326}du fardeau... d'une vie falote...
+{143329}{143370}et inutile, mais...
+{143377}{143465}mon chirurgien esthétique dixit :|''Tant qu'à faire une sortie...
+{143484}{143524}''la faire en beauté'' !
+{144318}{144350}Du gaz Hilarex !
+{144361}{144397}Il va tous les gazer.
+{144404}{144464}Monte dans la voiture ! Dans la voiture !
+{144667}{144698}Vite !
+{147373}{147402}Mes ballons !
+{147659}{147695}C'est mes ballons !
+{148339}{148392}Il m'a volé mes ballons !
+{148409}{148498}Pourquoi personne ne m'a dit|qu'il avait un de ces... trucs ?!
+{148553}{148598}Bob. Mon arme.
+{148757}{148817}Un instant de solitude, les mecs.
+{148825}{148866}Du balai !
+{150120}{150201}Approche, infâme saloperie ! Viens à moi !
+{152540}{152569}Ma chérie...
+{152622}{152687}Il faut que nous soyons à l'église à l'heure.
+{152830}{152914}Gotham, à Cathédrale.|Limousine pour deux.
+{152920}{152973}- Tout de suite ?|- Dans cinq minutes.
+{153107}{153141}Disons plutôt dix.
+{158219}{158243}On y va.
+{158436}{158513}Braquez-moi les projos sur la tour !|Vite ! Vite !
+{159249}{159275}On peut dire que...
+{159278}{159338}j'ai une ''chauve-souris'' dans le plafond ! !
+{159566}{159595}Voulez-vous danser ?
+{161561}{161629}Savez-vous que sans vous...
+{161636}{161704}la vie ne vaut point d'être vécue ?
+{163711}{163767}On est faits l'un pour l'autre.
+{163782}{163834}La Belle et la Bête.
+{163848}{163915}Bien sûr, si quelqu'un te traitait de Bête...
+{163921}{163986}je lui arracherais le cœur.
+{164711}{164747}M.Joker ?
+{164841}{164911}Vous dites de si belles choses.
+{164931}{164994}Et vous êtes si puissant. Et si violet !
+{165054}{165088}J'adore le violet.
+{165161}{165187}Excusez-moi.
+{165201}{165273}As-tu jamais dansé avec le Diable|au clair de lune ?
+{165371}{165405}Je vais vous tuer.
+{165421}{165465}Pauvre idiot !
+{165471}{165515}Tu m'as fait ! N'oublie pas !
+{165529}{165574}Tu m'as balancé dans l'acide !
+{165581}{165672}J'ai eu du mal à récupérer.|J'y ai mis du mien !
+{165687}{165723}J'en suis conscient.
+{166388}{166424}Vous avez tué mes parents.
+{166429}{166453}Quoi ?
+{166507}{166536}Où on va, là ?
+{166552}{166619}Je vous ai fait,|mais vous m'avez fait le premier.
+{166652}{166753}J'étais qu'un gosse. Je dis : ''Tu m'as fait'',|tu dis : ''Je t'ai fait.''
+{166763}{166810}Tu arrêtes tes gamineries, oui ?
+{166824}{166872}Tu frapperais un binoclard ?
+{167275}{167323}Qu'est-ce que tu as à rigoler ?
+{167493}{167531}Que je vous tende la main.
+{167734}{167765}La main tendue ! !
+{167949}{168009}La qualité n'est plus ce qu'elle était !
+{168107}{168143}Eh, Batounet !
+{168470}{168511}Il est là ! En dessous !
+{168847}{168888}On va rentrer au bercail.
+{168922}{168972}Venez me voir : vous tomberez à pic.
+{169199}{169269}Qu'est-ce que je suis mort de rire !
+{172562}{172586}La police...
+{172589}{172664}a arrêté tous les hommes de main|de Joker.
+{172677}{172730}Le règne du crime est révolu.
+{172745}{172827}A Gotham, la sécurité|n'est plus une vaste blague.
+{172832}{172887}Tu n'es pas à la conférence de presse ?
+{172920}{172961}Quid notre prix Pulitzer ?
+{172982}{173023}Quid nous ?
+{173040}{173083}Et quid ta photo de Batman ?
+{173297}{173323}Bonne route.
+{173394}{173447}Nous avons reçu une lettre de Batman.
+{173503}{173560}''Veuillez informer|les citoyens de Gotham...
+{173567}{173629}''que Gotham bénéficie|d'une accalmie du Crime.
+{173657}{173731}''Mais si les Forces du Mal|devaient se redresser...
+{173745}{173812}''et jeter leur ombre|sur le cœur de la ville...
+{173822}{173856}''qu'on m'appelle.''
+{173865}{173935}Question. Comment l'appeler ?
+{174054}{174100}Il nous a laissé un signal.
+{174952}{175019}Le champagne s'impose, n'est-il pas ?
+{175032}{175070}Bonsoir, Alfred.
+{175280}{175321}M.Wayne vous fait dire...
+{175327}{175380}qu'il aura peut-être un peu de retard.
+{175445}{175486}Ça ne m'étonne pas du tout.

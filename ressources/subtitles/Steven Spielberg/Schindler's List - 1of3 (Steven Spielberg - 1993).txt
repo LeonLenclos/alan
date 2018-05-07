@@ -1,0 +1,398 @@
+{858}{947}"Avril 1944"
+{968}{1016}"Le service D ordonne à Goeth...
+{1019}{1103}d'exhumer et d'incinérer les corps|de plus de 10000 Juifs...
+{1105}{1172}tués à Plaszow et dans|le massacre du ghetto de Cracovie."
+{2666}{2712}Vous pouvez le croire?
+{2714}{2793}Avec tout ce que j'ai à faire,|on m'impose ça en plus!
+{2795}{2875}Je dois retrouver la moindre guenille|enterrée ici et la brûler.
+{2930}{3002}La fête est finie. On ferme|et on les envoie tous à Auschwitz.
+{3004}{3033}- Quand?|- Je ne sais pas.
+{3035}{3093}Dès que j'aurai organisé|les transports.
+{3093}{3162}30 ou 40 jours.|Une partie de plaisir.
+{3659}{3697}J'ai parlé à Goeth.
+{3699}{3793}Je connais la destination.|Ce sont les ordres d'évacuation.
+{3795}{3867}J'aide à organiser les convois|et je me mets dans le dernier train.
+{3867}{3915}Ce n'est pas|ce que j'allais dire.
+{3942}{4035}Goeth m'a promis|de dire un mot pour vous.
+{4037}{4119}Il ne vous arrivera rien.|Vous aurez un traitement spécial.
+{4119}{4177}Les directives de Berlin|font état...
+{4179}{4265}d'un "traitement spécial".|Vous ne parlez pas de celui-là?
+{4268}{4313}Un traitement préférentiel.
+{4313}{4366}Doit-on inventer|un nouveau langage?
+{4368}{4414}Je le crois.
+{4495}{4543}Et vous, vous restez?
+{4634}{4680}A Cracovie? Pourquoi?
+{4682}{4733}Pour faire marcher votre affaire.
+{4783}{4836}Avec de nouveaux employés.|Polonais sans doute.
+{4838}{4884}Ils coûtent un peu plus mais...
+{4961}{5008}Qu'est-ce que vous allez faire?
+{5100}{5155}C'est vous qui faisiez marcher|mon affaire.
+{5239}{5287}Non. Je rentre chez moi.
+{5289}{5383}J'ai atteint mon but. J'ai plus d'argent|que je pourrai jamais dépenser.
+{5677}{5725}Un jour...
+{5742}{5807}tout ça va se terminer.
+{5900}{5972}J'allais vous dire,|nous boirons un verre ce jour-là.
+{6066}{6128}Je préfère le boire maintenant.
+{8439}{8502}Je ne comprends pas.
+{8504}{8535}Vous voulez ces gens-là?
+{8538}{8598}Ces gens-là. Mes gens.|Je veux mes gens.
+{8600}{8643}Vous êtes qui? Moïse?
+{8646}{8710}Voyons! Où est l'argent dans ça?|Où est la combine?
+{8710}{8739}C'est une bonne affaire.
+{8742}{8790}Une bonne affaire|à "votre avis"!
+{8790}{8842}Écoutez...|il va falloir les transporter...
+{8845}{8912}et le matériel...|tout en Tchécoslovaquie.
+{8914}{8991}Payer pour tout ça et bâtir|un autre camp! Ça n'a pas de sens.
+{8993}{9063}- Vous me cachez quelque chose.|- C'est bon pour moi.
+{9065}{9101}Je connais ces gens.|Je n'ai pas besoin de les former.
+{9104}{9173}C'est bon pour vous.|Je vous dédommage.
+{9176}{9247}- C'est bon pour l'armée.|- Bien sûr.
+{9250}{9305}Vous savez|ce que je vais fabriquer?
+{9307}{9355}- Des obus d'artillerie.|- Comme tout le monde.
+{9360}{9399}Pour des chars d'assaut.|Ils en ont besoin.
+{9401}{9473}- Tout le monde est content.|- Sauf moi.
+{9475}{9526}Je sens que vous me faites|une embrouille.
+{9552}{9624}Si je gagne 100|vous devez gagner 300.
+{9626}{9693}Si vous en avouez 300|c'est 400 en réalité.
+{9696}{9729}- Mais comment?|- Je vous l'ai dit.
+{9732}{9785}Vous n'avez rien dit.
+{9849}{9902}Ne me dites rien.
+{9904}{9969}Je marche avec vous.
+{9969}{10032}Ça m'énerve|de ne pas comprendre.
+{10034}{10123}Il suffit de me dire|ce que ça vaut pour vous.
+{10125}{10159}Ce que vaut une personne.
+{10161}{10262}Non, non.|Ce qu'elle vaut pour vous!
+{10813}{10871}Les investisseurs.
+{10871}{10926}Je les veux tous.
+{11055}{11137}Un moment. Excusez-moi.
+{11139}{11178}Allons Stern!
+{11261}{11331}Les enfants.|Tous les enfants.
+{11501}{11540}Combien?
+{11542}{11600}400... 450.
+{11662}{11703}Encore. Encore.
+{12729}{12767}Combien?
+{12820}{12858}600.
+{12875}{12904}Encore.
+{12940}{13019}Vous pouvez faire comme moi.|Peut-être même y gagner de l'argent.
+{13019}{13055}Je ne sais pas.
+{13057}{13098}Je sais|que les suppléments en nature...
+{13100}{13153}que vous leur donnez|sont payés de votre poche.
+{13156}{13242}A nous deux, on peut en sortir|4000. Les miens et les vôtres.
+{13244}{13314}Les installer dans un endroit plus sûr.|En Moravie.
+{13357}{13388}Je ne sais pas.
+{13451}{13508}Combien de cigarettes|Vous avez fumées?
+{13510}{13534}Trop.
+{13537}{13623}J'en ai fumé la moitié.
+{13661}{13769}- J'ai fait mon possible pour les Juifs.|- Je n'accepterai pas ça.
+{14074}{14098}Combien? Combien?
+{14100}{14141}A peu près 850.
+{14143}{14235}Comment ça, à peu près?|Comptez-les. Combien?
+{14489}{14561}Ça suffit.|Finissez cette page.
+{14688}{14774}Qu'est-ce que Goeth...|dit de tout ça?
+{14786}{14899}Vous lui avez juste dit|combien vous vouliez de gens?
+{14951}{14997}Vous ne les achetez pas?
+{15064}{15138}Vous les achetez?|Vous payez chacun de ces noms?
+{15141}{15210}J'aurais aimé|que vous m'en dissuadiez.
+{15213}{15258}Ça me coûte une fortune.
+{15316}{15405}Finissez cette page|et laissez un espace en bas.
+{16121}{16184}Cette liste,|c'est le bien à l'état pur.
+{16225}{16299}Cette liste... c'est la vie.
+{16330}{16428}Autour de ses bords,|il y a le gouffre.
+{16455}{16488}<i>Oskar, il y a...</i>
+{16491}{16555}une erreur de frappe|au bas de la dernière page.
+{16558}{16618}C'est pour ajouter un nom.
+{16620}{16685}<i>Je ne trouverai pas une aussi</i>|<i>bonne domestique à Brinnlitz.</i>
+{16687}{16733}<i>Il n'y a que des filles de ferme.</i>
+{17064}{17112}Une partie de 21 ?
+{17114}{17186}Si vous gagnez|je vous paierai 7400 reichmarks.
+{17186}{17248}Si vous tirez un 21|je vous en donnerai 14800.
+{17280}{17335}Si je gagne,|la fille est sur ma liste.
+{17366}{17407}Je ne joue pas Helen|aux cartes.
+{17409}{17438}Pourquoi pas?
+{17440}{17462}Ça ne serait pas bien.
+{17464}{17524}Elle finira à Auschwitz.|Qu'est-ce que ça change?
+{17526}{17594}Elle n'ira pas à Auschwitz.|Je ne lui ferai pas ça.
+{17618}{17670}Je veux l'emmener à Vienne.
+{17670}{17747}Je veux qu'elle travaille|pour moi là-bas.
+{17749}{17793}Je veux vieillir avec elle.
+{17795}{17838}Vous êtes fou?
+{17862}{17941}Vous ne pouvez pas|l'emmener à Vienne.
+{17944}{17992}Non, bien sûr.
+{18011}{18076}C'est juste|ce que j'aimerais faire.
+{18078}{18176}Ce que je pourrais faire|si j'étais vraiment un homme...
+{18179}{18227}est la seule chose clémente...
+{18229}{18327}l'emmener dans les bois|et lui tirer une balle dans la tête.
+{18565}{18620}Qu'est-ce que vous avez dit pour...
+{18622}{18675}Un 21, n'est-ce pas?
+{18677}{18735}14800?
+{18785}{18792}Donnez vos noms.
+{18816}{18867}Nous sommes la famille Dresner.
+{18967}{19032}Nous sommes les Rosner.
+{19061}{19099}- Et notre fils.|- Je m'appelle Olek.
+{20648}{20730}Le pire est passé.|Nous partons.
+{20732}{20809}Les hommes dans ce convoi.|Les femmes dans l'autre convoi.
+{20828}{20866}Attention!
+{20869}{20948}Les hommes dans ce convoi!|Les femmes dans l'autre convoi!
+{21972}{22017}Formidable Olek.
+{22036}{22116}C'est formidable.|Maintenant tu sais...
+{22118}{22180}faire de l'eau avec un glaçon.
+{22216}{22259}Olek, va en chercher un autre.
+{22545}{22679}"Zwittau-Brinnlitz, Tchécoslovaquie|Ville natale d'Oskar Schindler"
+{23269}{23357}Vous apprécierez l'efficacité|que j'obtiens des ouvriers.
+{23415}{23470}Budzyn,|sous mon commandement...
+{23473}{23542}faisait l'envie|des autres commandants de camp.
+{23544}{23578}Les prisonniers, eux...
+{23580}{23631}auraient préféré être ailleurs.
+{23995}{24082}Le train des femmes|a déjà quitté Plaszow...
+{24084}{24142}et ne devrait pas tarder.
+{24163}{24230}Je sais que vous avez fait|un long voyage...
+{24233}{24307}mais il n'y a plus qu'une courte|marche jusqu'à l'usine...
+{24309}{24408}où de la soupe chaude|et du pain vous attendent.
+{24446}{24496}Bienvenue à Brinnlitz.
+{24731}{24772}Des haricots dans le tsunt?
+{24774}{24806}C'est le meilleur les haricots.
+{24808}{24863}Je n'aime pas les haricots.
+{24866}{24957}Haricots, viande,|pommes de terre et pain.
+{24957}{25012}Ce n'est pas comme ça|qu'on fait le tsunt.
+{25117}{25182}- Des œufs dans le tsunt?|- Oui.
+{25252}{25283}Je n'aime pas le tsunt.
+{25285}{25343}Non? Qu'est-ce que tu aimes?
+{25350}{25391}J'aime le caviar.
+{25441}{25482}Une journée à feu doux.
+{25484}{25506}Une journée.
+{28515}{28551}Où sont ceux qui font les listes?
+{28556}{28594}Où sont les tables?
+{28675}{28716}Avancez en rang!
+{29136}{29181}Maman, où est-ce qu'on est?
+{29277}{29349}Elles sont à Auschwitz.|Le train n'a pas été aiguillé ici.
+{29352}{29385}Une erreur de bureaucrate.
+{35067}{35111}Main sur l'épaule!
+{35135}{35168}Quel âge vous avez grand-mère?
+{35171}{35207}68 ans.
+{35209}{35231}Toussez grand-mère.
+{35233}{35338}On dit que tomber contre la barrière|est une douce fin.
+{35341}{35413}N'allez pas vous tuer|contre la barrière Clara.
+{35413}{35485}Si vous le faites, vous ne saurez|jamais comment ça s'est terminé.
+{35554}{35581}Quel âge vous avez?
+{35583}{35614}66 ans.
+{35650}{35672}Bonjour.
+{35674}{35744}Il y a une erreur.|Nous ne devons pas être ici.
+{35746}{35794}Nous travaillons|pour Oskar Schindler.
+{35796}{35832}Nous sommes les Juifs de Schindler.
+{35835}{35878}Qui est Oskar Schindler?
+{35880}{35955}Il a une usine à Cracovie.|Une fabrique d'émail.
+{35971}{36017}Un fabricant de pots?
+{36039}{36084}Quel âge vous avez grand-mère?
+{36192}{36285}Vous n'êtes pas le seul industriel|qui ait besoin de main-d'œuvre.
+{36393}{36506}Au début de l'année IG Farben|a commandé un train de Hongrois...
+{36528}{36576}pour son usine chimique.
+{36607}{36683}Le train a passé le grand portail...
+{36703}{36837}et l'officier chargé de la sélection|s'est tout de suite mis au travail...
+{36839}{36892}et en a envoyé 2000...
+{36892}{36954}directement au Traitement spécial.
+{37005}{37115}Je ne dois pas intervenir dans le|déroulement des opérations de ce camp.
+{37168}{37221}Pourquoi voudriez-vous|que je vous aide...
+{37223}{37290}si je n'ai pas pu aider IG Farben?
+{37292}{37338}Laissez-moi vous donner la raison.
+{37575}{37633}Je ne porte aucun jugement sur vous.
+{37657}{37722}Je sais seulement|que dans les mois à venir...
+{37722}{37789}on aura tous besoin|de biens portables.
+{37875}{37937}Je pourrais vous faire arrêter.
+{37940}{38005}J'ai de puissantes protections.
+{38007}{38050}Vous devez le savoir.
+{38129}{38194}Je ne dis pas que je les accepte.
+{38225}{38311}Mais je serai plus à l'aise|s'ils ne sont plus sur la table.
+{38673}{38753}J'ai un convoi qui arrive demain.
+{38755}{38844}J'en détacherai 300 unités pour vous.|Des nouvelles.
+{38863}{38908}De toutes fraîches.
+{38997}{39100}Le train arrive. Il fait demi-tour.
+{39103}{39136}- Il est à vous.|- Je comprends.
+{39136}{39184}Je veux celles-là.
+{39268}{39326}Ne vous accrochez pas|à une liste de noms.
+{39515}{39556}C'est vrai.
+{39558}{39609}Ça crée un tas de paperasses.
+{41922}{41975}Qu'est-ce que vous faites?|Elles sont à moi.
+{41977}{42066}Ce sont mes ouvrières.|On doit les mettre dans mon train.
+{42066}{42131}Elles sont qualifiées|dans la fabrication des munitions.
+{42133}{42188}Des ouvrières essentielles!
+{42260}{42368}Leurs doigts polissent l'intérieur|des douilles.
+{42368}{42450}Qui d'autre peut polir l'intérieur|d'une douille d'obus de 45 millimètres?
+{42452}{42514}Dites-le-moi! Dites-le-moi!
+{42577}{42625}Dans le train!
+{42637}{42663}Dans le train!
+{45418}{45516}Selon les dispositions du bureau W...
+{45519}{45629}il est illégal de tuer un ouvrier|sans raison.
+{45629}{45701}Selon le Fond de compensation|du commerce...
+{45703}{45804}je peux réclamer des dommages|et intérêts pour ces morts.
+{45806}{45878}Si vous tuez sans réfléchir...
+{45881}{45984}vous allez en prison et je suis payé.
+{45984}{46037}C'est comme ça que ça marche.
+{46039}{46142}Alors il n'y aura pas|d'exécution sommaire ici.
+{46188}{46276}Il n'y aura pas d'intrusion|intempestive dans la production.
+{46300}{46343}Et pour m'en assurer...
+{46346}{46423}les gardes ne pourront plus|entrer dans l'usine...
+{46425}{46483}sans mon autorisation.
+{46629}{46708}Je vous suis reconnaissant|de votre coopération.
+{46758}{46804}Allez. Venez.
+{46871}{46917}Venez messieurs!
+{47561}{47607}Aucun portier...
+{47609}{47691}ni maître d'hôtel|ne pourra plus jamais te confondre.
+{47705}{47753}Je te le promets.
+{47921}{47969}Itzhak Stern, mon comptable.
+{47969}{48007}- Je voudrais...|- Vous devez être madame Schindler.
+{48010}{48036}Enchantée.
+{48039}{48075}Émilie va aider à la clinique.
+{48077}{48111}Très généreux de votre part.
+{48113}{48192}Il faut qu'on parle|quand vous aurez un moment.
+{48192}{48247}Je n'ai pas de secret|pour mon épouse.
+{48250}{48341}Oskar, je t'en prie.|Vaque à tes occupations.
+{48343}{48369}Qu'est-ce qu'il y a?
+{48372}{48441}On a reçu une plainte|de l'Inspection de l'Armement.
+{48444}{48509}Les obus d'artillerie,|les douilles de fusée...
+{48511}{48554}tous ont échoué aux tests|de contrôle de qualité.
+{48556}{48612}Il fallait s'y attendre.|Il faut se roder.
+{48612}{48686}C'est un travail plus précis.|Je vais leur écrire.
+{48688}{48715}Ils suspendent les paiements.
+{48717}{48758}C'est ce que nous ferions aussi.
+{48760}{48813}Ce ne m'inquiète pas.|Les choses s'arrangeront.
+{48815}{48902}La rumeur dit que vous avez|mal calibré vos machines.
+{48931}{49000}Ils peuvent nous faire fermer|et nous envoyer à Auschwitz.
+{49065}{49137}Je vais en acheter|et les faire passer pour les nôtres.
+{49139}{49197}Quelle différence?|Qu'ils soient faits ici ou ailleurs.
+{49199}{49233}Il y a une différence.
+{49235}{49309}- Vous perdrez de l'argent.|- Il y aura moins d'obus.
+{49312}{49405}Si cette usine produit un seul obus|qui puisse être tiré...
+{49408}{49453}je serai malheureux.
+{49880}{49926}Comment ça va Rabbin?
+{50041}{50089}Bien Herr Direktor.
+{50132}{50177}Le Soleil se couche.
+{50242}{50288}Oui, c'est vrai.
+{50324}{50381}Quel jour est-on? Vendredi?
+{50383}{50417}On est vendredi!
+{50419}{50446}Ah oui?
+{50551}{50590}A quoi vous pensez?
+{50592}{50654}Vous devriez préparer le Sabbat.
+{50887}{50942}J'ai du vin...
+{50945}{50990}dans mon bureau. Venez.
+{52338}{52400}"Durant ses sept mois d'exploitation,|la fabrique de munitions...
+{52400}{52486}de Schindler à Brinnlitz a été|un modèle de non-production."
+{52489}{52551}"Durant cette même période, il a|dépensé des millions de reichsmark...
+{52553}{52604}pour soutenir ses travailleurs et|soudoyer les officiels du Reich."
+{52798}{52836}Quoi?
+{52872}{52918}Vous avez de l'argent?
+{52959}{53033}Caché quelque part|sans que je le sache.
+{53138}{53165}Non.
+{53306}{53354}Pourquoi? Je suis ruiné?
+{53551}{53687}<i>Hier matin,</i>|<i>à 2 heures 41...</i>
+{53702}{53793}<i>au quartier général</i>|<i>du général Eisenhower...</i>
+{53795}{53870}<i>le général Jodl a signé...</i>
+{53872}{53951}<i>l'Acte de reddition inconditionnelle...</i>
+{53968}{54037}<i>de toutes les forces terrestres,</i>|<i>navales...</i>
+{54040}{54114}<i>et aériennes allemandes en Europe...</i>
+{54117}{54203}<i>aux forces expéditionnaires alliées...</i>
+{54205}{54301}<i>et simultanément</i>|<i>au haut commandement soviétique.</i>
+{54337}{54419}<i>La guerre avec l'Allemagne</i>|<i>est terminée.</i>
+{54469}{54558}Il est temps de faire entrer|la garnison dans l'usine.
+{54649}{54714}La reddition inconditionnelle|de l'Allemagne...
+{54716}{54764}vient d'être proclamée.
+{54786}{54886}A minuit ce soir|la guerre est finie.
+{54944}{55071}Demain vous commencerez la recherche|des survivants de vos familles.
+{55148}{55195}Dans beaucoup de cas...
+{55234}{55279}vous ne les retrouverez pas.
+{55311}{55378}Après six années|de folie meurtrière...
+{55378}{55450}on pleure des morts|partout dans le monde.
+{55510}{55555}Nous avons survécu.
+{55589}{55653}Plusieurs d'entre vous|viennent me remercier.
+{55737}{55790}Remerciez-vous vous-mêmes.
+{55824}{55876}Remerciez votre courageux Stern...
+{55900}{55960}et ceux parmi vous|qui pour vous sauver...
+{55965}{56042}ont risqué la mort.
+{56121}{56188}Je suis un membre|du parti nazi.
+{56191}{56262}Je suis fabricant de munitions.
+{56265}{56327}Je suis un profiteur|des travaux forcés.
+{56330}{56394}Je suis un criminel.
+{56421}{56495}A minuit vous serez libres,|je serai traqué.
+{56557}{56641}Je resterai avec vous|jusqu'à minuit cinq.
+{56644}{56720}Après quoi...j'espère|que vous me pardonnerez...
+{56723}{56773}je devrai fuir.
+{56833}{56859}Je sais que...
+{56862}{56927}vous avez reçu l'ordre|de notre commandant...
+{56927}{57027}qu'il a reçu de ses supérieurs...|de liquider la population de ce camp.
+{57063}{57116}L'heure est venue de le faire.
+{57118}{57164}Les voilà. Ils sont tous ici.
+{57198}{57250}C'est l'occasion pour vous.
+{57356}{57411}Ou... vous pouvez partir...
+{57447}{57536}et rentrer chez vous comme|des hommes... et non des assassins.
+{58555}{58662}En mémoire des innombrables victimes|parmi votre peuple...
+{58665}{58744}je vous demande d'observer|trois minutes de silence.
+{60079}{60118}Merci monsieur Jereth.
+{60209}{60259}Ouvrez grand.
+{60796}{60835}Merci monsieur Jereth.
+{61437}{61506}Dès que la paix sera revenue,|je veux...
+{61556}{61633}que ces étoffes soient distribuées|aux ouvriers.
+{61636}{61700}Deux mètres et demi chacun.
+{61700}{61779}Chaque personne recevra aussi|une bouteille de vodka.
+{61782}{61851}Ils ne la boiront pas.|Ils en connaissent la valeur.
+{61854}{61938}De même pour ces cigarettes Egipshi.
+{61940}{62005}Ce sera fait.|Tout ce que vous demandez.
+{62501}{62597}Nous avons écrit une lettre|essayant d'expliquer les choses...
+{62597}{62635}au cas où vous seriez pris.
+{62710}{62760}Tous les ouvriers l'ont signée.
+{63029}{63064}Merci.
+{63721}{63769}C'est de l'hébreu,|extrait du Talmud.
+{63772}{63877}"Celui qui sauve une vie|sauve l'humanité entière."
+{64851}{64901}J'aurais pu en sauver plus.
+{64963}{65023}J'aurais pu en sauver plus.
+{65107}{65126}J'aurais pu en sauver plus.
+{65129}{65220}Il y a 1100 personnes qui vivent|grâce à vous.
+{65222}{65249}Regardez-les.
+{65280}{65328}Si j'avais fait plus d'argent.
+{65433}{65515}J'ai tellement gaspillé d'argent.
+{65599}{65637}Vous n'avez pas idée.
+{65664}{65692}Si j'avais...
+{65695}{65786}Il y aura des générations|grâce à ce que vous avez fait.
+{65824}{65872}Je n'ai pas fait assez.
+{65886}{65932}Vous avez tant fait.
+{66035}{66076}Cette voiture.
+{66097}{66150}Goeth aurait acheté cette voiture.
+{66153}{66196}Pourquoi j'ai gardé cette voiture?
+{66198}{66244}Dix personnes avec ça.
+{66328}{66373}Dix personnes.
+{66414}{66457}Dix personnes de plus.
+{66517}{66599}Cet insigne, 2 personnes.
+{66671}{66757}C'est de l'or. Deux personnes de plus.
+{66759}{66834}Il m'en aurait donné deux.|Au moins une.
+{66836}{66889}Il m'en aurait donné une de plus.
+{66975}{67021}Une personne de plus.
+{67081}{67126}Une personne.
+{67167}{67210}Pour ça.
+{67303}{67351}J'aurais pu sauver...
+{67354}{67397}une personne de plus...
+{67414}{67459}et je ne l'ai pas fait.
+{67479}{67526}Je ne l'ai pas fait.
+{69687}{69751}Vous avez été libérés...
+{69754}{69809}par l'armée soviétique.
+{70008}{70051}Vous êtes allé en Pologne?
+{70054}{70082}J'arrive de Pologne.
+{70164}{70212}Il y a encore des Juifs vivants?
+{70353}{70404}Où on doit aller?
+{70404}{70502}N'allez pas à l'Est, ça c'est sûr.|Ils vous haïssent là-bas.
+{70550}{70615}Et je n'irais pas non plus à l'Ouest|si j'étais vous.
+{70667}{70718}Il nous faut de la nourriture.
+{70780}{70842}Ce n'est pas une ville là-bas?
+{72890}{72940}"Amon Goeth a été arrêté...
+{72943}{73024}au sanatorium de Bad Tolz.
+{73024}{73123}Il a été pendu à Cracovie|pour crimes contre l'humanité."
+{73214}{73341}"Oskar Schindler a échoué en ménage|et en affaires après la guerre."
+{73365}{73449}"En 1958, le conseil de Yad Vashem|à Jérusalem...
+{73451}{73537}l'a déclaré homme juste...
+{73537}{73645}et l'a invité à planter un arbre|dans l'Avenue des Justes."
+{73686}{73794}"Il y pousse toujours."
+{73952}{74058}"Les Juifs de Schindler aujourd'hui"
+{75249}{75343}"Fillette embrassée à la fête|d'anniversaire de Schindler"
+{76424}{76534}"Leopold Rosner et sa femme Helen"
+{77170}{77290}"Mme Itzhak Stern"
+{78203}{78364}"Moins de 4000 Juifs survivent|encore en Pologne aujourd'hui."
+{78443}{78591}"On compte plus de 6000|descendants des Juifs de Schindler."
+{79102}{79265}"En mémoire des plus de|six millions de Juifs assassinés"
+{87566}{87671}"A Steve Ross"

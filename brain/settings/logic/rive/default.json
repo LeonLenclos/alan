@@ -1,0 +1,6 @@
+{
+    "import": ["logic/rive/politesse",
+      "logic/rive/spectacle",
+      "logic/rive/theme",
+      "logic/rive/trivial"]
+}

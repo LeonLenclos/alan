@@ -43,15 +43,7 @@ class EsakoAdapter(AlanLogicAdapter):
             raise KeyError('relation is a required argument')
         if type(self.relation) != str:
             raise TypeError("relation must be a string")
-        # Getting ask
-        try:
-            self.ask = kwargs['ask']
-        except KeyError:
-            raise KeyError('ask is a required argument')
-        if type(self.relation) != str:
-            raise TypeError("ask must be a string")
-
-
+        
         self.concept_asked = None
 
     def can_process(self, statement):
@@ -61,19 +53,18 @@ class EsakoAdapter(AlanLogicAdapter):
         # this is not the first response of Alan and contain the chain ask and
         #   if the response of the human contain the relation
 
-        last_response = self.chatbot.storage.get_latest_statement(
-            speaker="alan",
-            conversation_id=self.chatbot.default_conversation_id)
+
         last_logic=self.chatbot.storage.get_latest_response_extra_data(
                                                 extra_data="logic_identifier")
         if self.concept_asked:
             if last_logic == "kesako":
                 if self.relation in statement.text:
                     return True
-            self.concept_asked = None
-
-        return False
-
+            else :
+                self.concept_asked = None
+                return False
+        else :
+            return False
 
     def process(self, statement):
 
@@ -84,14 +75,14 @@ class EsakoAdapter(AlanLogicAdapter):
         # Get the concept B explained by the Human
         concept_B = re.sub(r".*([ ']+est )","", statement.text)
         concept_B = utils.remove_punctuation(str.strip(concept_B))
+        concept_B = utils.magic_sub(concept_B)
 
 
-        # Store the new "est" relation between concept_B and concept_B
-        self.chatbot.storage.store_concept_association(concept_A, "est", concept_B)
+        # Store the new "est" relation between concept_A and concept_B
+        self.chatbot.storage.store_concept_association(concept_A, self.relation, concept_B)
         # choose randomly a context sentence
         context = random.choice(self.context_sentences)
         reply = context % {"concept_A":concept_A}
-
         statment_out = Statement(utils.sentencize(reply))
         statment_out.confidence = self.get_confidence()
 

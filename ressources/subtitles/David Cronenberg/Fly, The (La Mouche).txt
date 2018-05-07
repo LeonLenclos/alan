@@ -1,0 +1,851 @@
+{2977}{3010}Sur quoi je travaille ?
+{3024}{3084}Quelque chose|qui va changer le monde. . .
+{3092}{3132}et la vie des hommes.
+{3144}{3225}Un peu ? Beaucoup ?|Soyez plus précis.
+{3241}{3301}Vous voulez|que je sois plus précis. . .
+{3309}{3388}alors que la communauté|scientifique est aux aguets ?
+{3406}{3432}Comment faire autrement ?
+{3477}{3542}Vous pourriez venir à mon labo.
+{3569}{3605}Je vous ferai un cappuccino.
+{3611}{3659}J'ai ma propre Faema.
+{3667}{3732}Pas un modèle en plastique|pour amateurs.
+{3739}{3837}C'est une machine à expresso|de pro, avec un aigle dessus.
+{3867}{3927}On dirait que vous ne sortez|pas beaucoup.
+{3937}{4011}- Ça se sent ?|- Oui.
+{4254}{4326}Vous vous trompez.|Vous avez très envie de me parler.
+{4337}{4404}Excusez-moi.|J'ai encore trois interviews.
+{4414}{4474}Mais leur travail ne va pas|changer le monde.
+{4486}{4513}Ils disent que si.
+{4547}{4583}Ils mentent.
+{4597}{4623}Pas moi.
+{4775}{4802}Vous êtes malade ?
+{4820}{4883}Non. Bien sûr que si.
+{4897}{4947}Vous tenez mal l'alcool.
+{4975}{5026}Je suis toujours comme ça.
+{5050}{5163}C'est le mal des transports.|Je vomissais en faisant du tricycle.
+{5203}{5238}Je déteste les véhicules.
+{5245}{5281}Je ralentis ?
+{5290}{5348}Non. A gauche.|On y est presque.
+{5773}{5797}C'est là ?
+{5806}{5885}C'est plus propre à l'intérieur.
+{6121}{6153}Je vous en prie.
+{6890}{6957}Ce n'est peut-être pas|une bonne idée.
+{6989}{7025}Trop tard.
+{7042}{7126}Vous les avez vus.|Vous ne sortirez pas vivante.
+{7201}{7230}Je n'ai rien vu.
+{7269}{7295}Là.
+{7437}{7487}Des cabines téléphoniques design.
+{7494}{7539}C'est charmant.
+{7566}{7641}Et vous devez aussi|avoir un super juke-box.
+{7653}{7682}Par-là, peut-être ?
+{7699}{7728}Non.
+{7784}{7837}Non. Voici. . .
+{7861}{7957}le prototype,|le premier que j'ai fait faire.
+{7976}{8068}Il marche mais il n'est pas|tout à fait au point.
+{8375}{8415}Ce sont des téléporteurs.
+{8442}{8481}Cet appareil les commande.
+{8500}{8543}Dieu merci.
+{8582}{8651}Elles font quoi,|ces cabines téléphoniques ?
+{8659}{8683}Téléporteurs.
+{8797}{8874}Bon, il me faut un objet.
+{8931}{8989}Avez-vous un objet. . .
+{9007}{9079}personnel ?|Qui n'appartienne qu'à vous ?
+{9100}{9138}Un vêtement ? Un bijou ?
+{9164}{9191}Vous plaisantez ?
+{9200}{9229}Pas du tout.
+{9318}{9380}D'accord, allons-y.
+{9840}{9883}Je ne porte pas de bijoux.
+{10057}{10098}C'est joli.
+{10414}{10467}Brundle, Seth.
+{10527}{10594}MOT DE PASSE :|VÉRIFICATION VOCALE :
+{10697}{10740}ACCEPTÉ|VOIX RECONNUE
+{10935}{10968}Regardez le bas.
+{11287}{11325}ANALYSE :
+{11683}{11704}Alors ?
+{11741}{11770}Génial.
+{11780}{11871}Un micro-ondes géant. J'ai bien fait|de ne pas donner ma Rolex.
+{11879}{11908}Si j'en avais une.
+{11914}{11964}Vous n'avez pas saisi.|Regardez.
+{12061}{12128}TÉLÉPORTATION RÉUSSIE
+{12160}{12191}Téléportation ?
+{12236}{12270}Je vous en prie.
+{12651}{12689}Un instant.
+{12728}{12757}C'est un hologramme ?
+{12771}{12848}- Où est mon bas ?|- Là, c'est bien le vôtre.
+{12883}{12904}Ramassez-le.
+{13214}{13259}Je ne comprends pas.
+{13281}{13308}Que s'est-il passé ?
+{13313}{13371}Vous le savez,|mais vous ne pouvez l'accepter.
+{13410}{13496}Votre bas vient d'être téléporté. . .
+{13508}{13585}d'une cabine à l'autre.
+{13594}{13659}Désintégré ici, et réintégré là.
+{13678}{13705}En quelque sorte.
+{13733}{13793}Et ça va changer le monde, non ?
+{14020}{14056}C'est inouï.
+{14061}{14102}C'est impossible, non ?
+{14116}{14157}Comment avez-vous|gardé le silence ?
+{14179}{14210}Asseyez-vous.
+{14222}{14270}Comment avez-vous réussi seul ?
+{14289}{14328}Je ne travaille pas seul.
+{14335}{14392}Il y a des choses qui m'échappent.
+{14399}{14440}Je sous-traite. . .
+{14447}{14518}à des gens plus brillants|que moi. Je dis :
+{14526}{14639}"Je veux un analyseur de molécules"|et ils le fabriquent.
+{14649}{14711}Ils ne savent pas|sur quoi je travaille.
+{14796}{14878}Et l'argent ? C'est Bartok|Science Industries qui finance ?
+{14896}{14961}Mais j'ai la paix,|car je ne leur coûte pas cher.
+{14974}{15042}Ils savent qu'ils sont|propriétaires du résultat.
+{15049}{15085}Vous leur avez dit ?
+{15097}{15118}Quand je serai prêt.
+{15154}{15190}Attendez un peu.
+{15241}{15263}C'est quoi ?
+{15297}{15330}Pour bien vous citer.
+{15342}{15395}Des citations ? Non.
+{15401}{15454}C'est entre nous.|N'en parlez pas.
+{15489}{15544}Comment ça ?|Je suis journaliste.
+{15554}{15618}- Non, pas question.|- Vous le saviez.
+{15649}{15742}J'ai fait une erreur en vous|montrant tout ça. Je suis désolé.
+{15752}{15865}Le magazine Particule|m'a commandé un article.
+{15875}{15927}Je n'ai jamais rien vu|de si passionnant.
+{15933}{15993}Pas question.|Il me faut cette cassette.
+{16001}{16034}- S'il vous plaît.|- Impossible.
+{16045}{16073}Pas d'article !
+{16079}{16122}Je n'aurais jamais raconté ça|à des journalistes.
+{16129}{16213}- Vous me l'avez bien raconté !|- C'est vrai, mais. . .
+{16227}{16265}- C'est la vérité.|- Attendez un peu.
+{16294}{16347}Revenez. Et votre bas ?
+{16360}{16403}Gardez-le comme porte-bonheur.
+{16669}{16753}Je veux un analyseur de molécules|et ils le fabriquent.
+{16761}{16785}J'assemble les pièces.
+{16796}{16844}Ils ne savent pas|sur quoi je travaille.
+{16920}{16980}C'est Bartok Science Industries|qui finance ?
+{16990}{17057}Mais j'ai la paix,|Car je ne leur coûte pas cher.
+{17081}{17138}Ils seront propriétaires|du résultat.
+{17174}{17227}Voilà.
+{17267}{17293}Qu'en penses-tu ?
+{17311}{17338}C'est une blague.
+{17344}{17364}Comment ?
+{17368}{17404}Il se fout de toi.
+{17414}{17469}C'est un numéro de cabaret.|Les deux cabines.
+{17482}{17554}- Tu as gobé.|- Attends un peu.
+{17562}{17603}- Ce n'était pas. . .|- On déjeune ?
+{17617}{17693}C'était pas un numéro de cabaret.|J'ai tout vu.
+{17843}{17871}Bien sûr.
+{17884}{17920}Faites-le entrer.
+{17952}{18007}Tu as dû le marquer.
+{18016}{18040}Comment ça ?
+{18058}{18118}Ton magicien t'a suivie.
+{18186}{18256}Stathis Borans, rédacteur en chef|de Particule.
+{18264}{18333}- Seth Brundle.|- Je sais qui vous êtes.
+{18370}{18450}Prenez donc mon bureau.|Je dois filer.
+{18462}{18534}Si vous faites disparaître des choses,|tenez-moi au courant.
+{18544}{18623}Mon assistant est devenu inefficace.
+{18746}{18775}Vous avez fait vite.
+{18800}{18845}Je ne rajeunis pas.
+{18908}{18958}La cassette l'a laissé froid ?
+{19000}{19036}Il dit que vous êtes un escroc.
+{19115}{19136}Excellent.
+{19162}{19213}Voyons ce qu'ils en pensent|chez Omni.
+{19220}{19272}Non. Ecoutez, Veronica. . .
+{19322}{19379}Je suis venu vous dire|le mot magique.
+{19415}{19434}Vraiment ?
+{19457}{19484}Cheeseburger.
+{19614}{19665}Je travaille seul|depuis trop longtemps.
+{19707}{19786}J'ai très envie de parler|de ce que je fais.
+{19812}{19877}Mais s'il y a des fuites|maintenant. . .
+{19884}{19930}ce sera ma mort.
+{19949}{20011}Les gens de Bartok|et mes collègues vont me tuer.
+{20037}{20068}Ce n'est pas au point.
+{20075}{20108}Ça a l'air de marcher.
+{20117}{20168}Il manque une chose importante.
+{20179}{20203}Ah, bon ?
+{20235}{20261}Oui.
+{20310}{20334}C'est-à-dire ?
+{20394}{20462}Je ne téléporte|que des objets inanimés.
+{20532}{20585}Et la matière vivante ?
+{20629}{20653}Pas en mangeant.
+{20675}{20721}Ça ne peut pas être pire.
+{20805}{20867}Je ne suis pas très convaincue.
+{20875}{20959}Je crois qu'il est temps|que ça se sache.
+{20977}{21015}Il faut que vous en parliez. . .
+{21066}{21124}mais pas encore.|Que savez-vous déjà ?
+{21147}{21181}Assez pour vous|rendre nerveux.
+{21187}{21268}Pourquoi ne pas approfondir ?|Je pense à un livre.
+{21278}{21323}Pas à un article|pour un magazine.
+{21330}{21405}Suivez les détails|de mon travail au quotidien.
+{21424}{21515}Je n'ai pas de vie privée,|donc vous ne me dérangerez pas.
+{21525}{21612}Faites des recherches.|Suivez le processus.
+{21645}{21720}"L'historique de l'invention|la plus renversante.
+{21730}{21809}Celle qui a mis fin aux concepts|de transport. . .
+{21816}{21883}de frontière, de temps et d'espace. "
+{21949}{22014}A la fin du livre. . .
+{22020}{22099}c'est moi qui me téléporterai|d'une cabine à l'autre.
+{22109}{22138}C'est ce qui manque.
+{22216}{22250}Vous êtes prête à m'attendre ?
+{23394}{23442}Que fais-tu chez moi ?
+{23453}{23518}J'étais dans le coin.|Je me sentais un peu sale.
+{23573}{23606}Dure journée.
+{23867}{23898}Comment es-tu entré ?
+{23937}{23982}J'ai toujours la clé.
+{23994}{24020}Tu me l'avais donnée.
+{24031}{24067}J'aurais dû changer la serrure.
+{24104}{24125}Tu ne l'as pas fait.
+{24221}{24305}Parce qu'inconsciemment. . .
+{24352}{24426}tu as envie que je revienne|m'installer ici.
+{24436}{24463}Non.
+{24481}{24584}En toute conscience,|je suis fainéante et désorganisée.
+{24720}{24761}Intéressant,|ton camarade de jeux.
+{24766}{24797}Quel camarade ?
+{24809}{24847}Le numéro de cabaret.
+{24894}{24923}Brundle.
+{24954}{25004}- Vraiment ?|- Oui.
+{25046}{25128}J'avais tort.|Il est vraiment brillant.
+{25171}{25258}Il dirigeait l'équipe F32.|Tu te souviens ?
+{25292}{25364}Il a presque eu|le Nobel de physique.
+{25379}{25432}Il n'avait que 20 ans, à l'époque.
+{25449}{25538}Je vais peut-être laisser tomber|et bosser sur le truc de psycho.
+{25558}{25584}Ça ne te ressemble pas.
+{25629}{25679}C'est toi qui pars ou moi ?
+{25724}{25806}J'y vais. Tu veux|que je revienne te border ?
+{25824}{25870}Non. La clé.
+{25919}{25958}Je vais la garder. . .
+{25981}{26012}en souvenir.
+{26069}{26119}Pauvre minable.
+{26294}{26332}ANALYSE : VIE ORGANIQUE|A BASE DE CARBONE
+{26339}{26401}ÉLÉMENTS : POTASSIUM|IODE AZOTE
+{26408}{26485}CARBONE HYDROGÈNE OXYGÈNE|FER PLASMA VOLUME 2032 MLL. . .
+{26629}{26684}Lancer dans cinq secondes.
+{26772}{26813}LANCER TÉLÉPORTATION
+{26819}{26846}SÉQUENCE ACTIVÉE
+{26887}{26954}SÉQUENCE DE TÉLÉPORTATION
+{27254}{27304}ENCODAGE SÉQUENCE
+{28611}{28664}Je dois le faire, Seth.
+{28674}{28718}Prends l'habitude des cassettes.
+{28727}{28768}On voudra savoir|ce que tu penses.
+{28775}{28821}"Merde" !|Voilà ce que je pense.
+{28835}{28864}Parfait.
+{28869}{28927}Les gens auront envie|de le savoir.
+{28964}{29011}Quoi d'autre ?|Pourquoi ça n'a pas marché ?
+{29036}{29110}Je crois que le babouin|a été éventré.
+{29188}{29215}Pourquoi ?
+{29249}{29347}Ça ne fonctionne pas|avec la chair vivante.
+{29423}{29459}Ça doit venir de moi.
+{29482}{29503}Pourquoi ?
+{29566}{29631}Les ordinateurs ne savent|que ce qu'on leur dit.
+{29675}{29755}Je ne m'y connais pas assez|en matière de chair.
+{29869}{29920}Je n'ai pas envie de parler.
+{30387}{30435}Ça t'arrive de changer|de vêtements ?
+{30472}{30506}Comment ?
+{30526}{30595}Tu portes toujours la même chose.
+{30677}{30778}Non, ils sont propres.|Je me change tous les jours.
+{31005}{31063}Tu as cinq tenues identiques ?
+{31080}{31104}Comme Einstein.
+{31139}{31175}Comme ça. . .
+{31182}{31283}je n'ai pas besoin de réfléchir|à ma tenue. Je prends ce qui vient.
+{31445}{31534}J'ai acheté des steaks.|Je t'en fais un ?
+{31564}{31590}On pourrait sortir.
+{31621}{31648}Cheeseburger ?
+{31732}{31808}On n'est pas obligés d'aller là.
+{32019}{32091}Tu es très mignon, tu sais.
+{32117}{32141}Tu trouves ?
+{33104}{33142}- Que s'est-il passé ?|- Sur mon dos.
+{33194}{33252}Tu as quelque chose de collé.
+{33259}{33302}Enlève-le.
+{33502}{33538}Désolée.
+{33581}{33626}Voilà où c'était passé.
+{33633}{33717}- Tu as du désinfectant ?|- Ça va aller.
+{33727}{33768}Je vais t'embrasser.
+{33979}{34065}Désolée.|J'ai envie de te manger.
+{34106}{34183}C'est pour ça que les mamies|pincent les joues des bébés.
+{34191}{34270}C'est la chair qui rend fou.
+{34323}{34354}Ronnie. Ronnie.
+{34476}{34529}Tu veux tenter une expérience ?
+{34562}{34586}D'accord.
+{35115}{35172}LANCER TÉLÉPORTATION|SÉQUENCE ACTIVÉE
+{35362}{35398}COMMENCER DÉCODAGE
+{35826}{35900}Goûte-moi ça.|Il me faut un avis objectif.
+{36124}{36223}Ce n'est pas très raffiné,|mais ça a le goût du steak.
+{36367}{36436}Goûte la moitié|qui a été téléportée.
+{36444}{36545}- Un singe a explosé là-dedans.|- Un babouin. Mange.
+{36669}{36698}Ça a un drôle de goût.
+{36707}{36767}- Quel genre ?|- Un goût. . .
+{36797}{36819}chimique.
+{36919}{36950}Qu'avons-nous prouvé ?
+{36971}{37089}L'ordinateur nous donne|son interprétation. . .
+{37107}{37195}du steak.|Il le traduit, il le repense. . .
+{37204}{37257}plus qu'il ne le reproduit.
+{37265}{37334}Et quelque chose se perd|pendant ce processus.
+{37361}{37407}C'est moi qui suis perdue.
+{37419}{37462}La chair.
+{37469}{37582}L'ordinateur devrait devenir fou.|Comme les mamies avec les bébés.
+{37609}{37638}Mais ça n'arrive pas.
+{37645}{37751}Je ne lui ai pas appris à devenir|fou au contact de la chair.
+{37759}{37798}La poésie du steak.
+{37817}{37867}Je m'y mets tout de suite.
+{39524}{39550}J'aurais dû m'en douter.
+{39557}{39591}Que fais-tu là ?
+{39612}{39653}Je t'ai suivie.
+{39659}{39764}La psycho, mon cul.|Tu as passé la nuit avec Brundle.
+{39795}{39831}Pourquoi n'y ai-je pas cru ?
+{39901}{39966}Ça lui irait bien, ça.|Vous ne trouvez pas ?
+{40067}{40151}Pour la couverture de Time,|faudra vous faire beaux.
+{40168}{40235}Tu ne comprends pas ?|Je suis enfin sur un gros truc.
+{40241}{40311}- Enorme.|- Oui, quoi ? Sa bite ?
+{40340}{40392}Vulgaire, Stathis.|Très vulgaire.
+{40400}{40434}Tu es trop parfaite.
+{40485}{40521}Tu es une déesse.
+{40527}{40582}Merci de réaliser|mes fantasmes paranos.
+{40589}{40642}Je n'ai pas de comptes|à te rendre.
+{40659}{40719}Ronnie !|Il faut que tu me parles.
+{40726}{40767}Non. On n'est plus ensemble.
+{40773}{40835}Je passe la nuit où je veux.
+{40843}{40896}Désolée. Je prends aussi ça.
+{40907}{40986}SÉQUENCE|DE TÉLÉPORTATION
+{41730}{41778}Je crois qu'on peut ouvrir|le champagne.
+{41962}{41993}Mon Dieu, Seth.
+{41999}{42047}C'est vraiment arrivé.|Tu as réussi.
+{42054}{42150}- Fini le mal des transports.|- En avion, en bateau.
+{42158}{42211}Ou en tricycle.
+{42296}{42325}Et la suite ?
+{42365}{42432}Il faut faire des examens|au babouin.
+{42440}{42464}Ça prendra du temps ?
+{42489}{42513}Peut-être des semaines.
+{42534}{42563}Vraiment ?
+{42577}{42608}Oui, pourquoi ?
+{42655}{42739}Je me disais qu'on pourrait|partir en vacances.
+{42764}{42788}Ah bon ?
+{42797}{42847}Oui. Comme un vieux couple.
+{42854}{42921}Monsieur a deux semaines|de congés, alors. . .
+{42930}{42982}on part en Floride, au soleil.
+{43006}{43030}Toi et moi ?
+{43049}{43113}Tu veux emmener quelqu'un d'autre ?
+{43121}{43174}Non, simplement. . .
+{43205}{43255}On vit une histoire d'amour ?
+{43301}{43356}C'est peut-être une histoire d'amour.
+{43386}{43413}Approche.
+{43552}{43595}J'ai une idée géniale.
+{43726}{43758}Tu aimes manger chinois ?
+{43780}{43809}Oui.
+{43857}{43908}On va faire|un dîner romantique ici.
+{43992}{44047}DE LA PART DE STATHIS BORANS
+{44063}{44087}C'est quoi ?
+{44112}{44169}Ton chef.|C'était sous la porte.
+{44191}{44239}Victor, c'est Seth Brundle.
+{44252}{44286}TÉLÉPORTATION : RÉALITÉ ?
+{44295}{44319}Oui, j'attends.
+{44323}{44394}- Jeune père d'une ère nouvelle.|- Oh, non !
+{44414}{44443}C'est quoi, ça ?
+{44540}{44628}Rien.|Des trucs persos.
+{44654}{44752}Je croyais que les vieux couples|partageaient leurs trucs persos.
+{44785}{44866}Seth, ne précipite pas les choses.
+{44896}{44953}Je dois sortir quelques heures.
+{44977}{45049}Des aubergines au piment,|du champagne.
+{45056}{45087}Quelques heures.
+{45094}{45140}J'ai les restes d'une autre vie.
+{45145}{45236}Il faut que je m'en débarrasse|une fois pour toutes.
+{45837}{45880}Ça veut dire quoi, ça ?
+{45889}{45961}J'ai mis l'article en forme|à partir de tes recherches.
+{45972}{46055}Tu disais que Brundle|était un escroc.
+{46076}{46143}J'ai suivi ton instinct|de journaliste.
+{46152}{46219}Merci, mais ce n'est pas|ton article.
+{46227}{46263}C'est le mien.
+{46269}{46298}D'après qui ?
+{46303}{46380}Je t'ai envoyée enquêter|à la soirée Bartok.
+{46389}{46437}Tes résultats m'appartiennent.
+{46458}{46532}J'ai beaucoup d'infos sur Brundle.
+{46541}{46587}Il travaille là-dessus|depuis six ans.
+{46594}{46656}Il y a de quoi faire,|si on fouille un peu.
+{46668}{46719}- J'ai fouillé.|- Stathis. . .
+{46728}{46807}La téléportation va bientôt|être dépassée.
+{46815}{46865}Je suis en plein dedans.
+{46872}{46951}- Je suis ça de l'intérieur.|- D'accord.
+{47121}{47215}Tiens-moi au courant, tu veux ?
+{47234}{47263}En amie ?
+{47290}{47338}En confidente professionnelle ?
+{47389}{47418}C'est tout ?
+{47495}{47557}Je ne veux pas|que tu sortes de ma vie.
+{47714}{47742}D'accord.
+{47827}{47851}Et le sexe ?
+{47886}{47965}Pas l'amour ou l'affection.|Le sexe pour se déstresser.
+{47973}{48004}Toi et moi.
+{48042}{48083}Tu es écœurant.
+{48089}{48123}Comme toujours.
+{48219}{48253}Je ne voulais pas te décevoir.
+{48295}{48352}Les restes, c'est son ex, non ?
+{48407}{48462}Stathis Borans est son ex.
+{48495}{48552}"De la part de Stathis Borans. "
+{48574}{48632}Plutôt un "message très personnel" .
+{48658}{48746}Elle travaille pour son ex,|elle sort le soir pour le voir.
+{48754}{48790}C'est un jeu ?
+{48897}{48952}Je commence à comprendre.
+{49014}{49103}Je ne voulais pas tuer ton frère,|mais il n'est pas mort en vain. . .
+{49112}{49153}si ça peut te consoler.
+{49189}{49271}Tout ce que vous avez fait,|je le ferai aussi.
+{49363}{49389}Tu vas bien.
+{49413}{49458}Je sens que tout va bien.
+{49556}{49611}N'attendons plus.|Allons-y.
+{49725}{49783}LANCER TÉLÉPORTATION|SÉQUENCE ACTIVÉE
+{51972}{52008}Comment ça va ?
+{52027}{52067}Dis-moi, toi.
+{52083}{52126}Je suis différent ?
+{52146}{52196}C'est du direct|ou un enregistrement ?
+{52257}{52308}Dommage que Ronnie|ait raté ça.
+{52379}{52503}TÉLÉPORTATION RÉUSSIE
+{53769}{53812}Tu m'as manqué hier soir.
+{53827}{53892}La nuit n'est pas finie.|Je suis rentrée.
+{53919}{53995}Tu as dû fêter ça sans moi.|Désolée.
+{54018}{54062}Je l'ai fait, hier soir.
+{54102}{54142}Tu t'es téléporté ?
+{54156}{54207}Avant les examens du babouin ?
+{54249}{54335}J'étais ivre et un peu triste.
+{54361}{54404}Tu aurais pu te tuer.
+{54629}{54667}Tu couches avec Stathis ?
+{54694}{54727}De quoi tu parles ?
+{54741}{54816}Je sais pas.|C'est une impression.
+{54920}{54956}Tu étais triste pour ça ?
+{55023}{55062}J'étais jaloux.
+{55078}{55188}Mon Dieu, Seth, tu n'as|aucune raison d'être jaloux.
+{55217}{55263}C'est un ex.
+{55269}{55322}C'était un de mes profs à la fac.
+{55356}{55407}Il m'a fait débuter|dans le journalisme.
+{55434}{55458}Il t'aime encore ?
+{55496}{55537}Comment ne pas m'aimer ?
+{55680}{55737}Tu t'es téléporté en mon absence.
+{55774}{55807}J'ai enregistré.
+{55847}{55874}C'est vrai ?
+{63207}{63288}J'ai demandé à l'ordinateur|si j'étais mieux. Il n'a pas compris.
+{63297}{63395}Ça m'a fait réfléchir|à ce que je ressens. Je me dis. . .
+{63404}{63510}que d'avoir été décomposé atome|par atome et réassemblé. . .
+{63519}{63625}C'est comme quand on filtre le café.|Ça nettoie. Ça m'a purifié.
+{63636}{63710}Ça va m'aider à réaliser. . .
+{63734}{63825}le potentiel personnel que j'ai|négligé toutes ces années. . .
+{63836}{63912}où je ne pensais qu'à atteindre|à tout prix mes objectifs.
+{63931}{63991}Tu veux du café, avec ton sucre ?
+{64044}{64121}Je n'ai jamais eu l'occasion|d'être moi-même.
+{64138}{64195}Et au moment où j'accomplis. . .
+{64202}{64262}ce qui sera le travail d'une vie. . .
+{64269}{64321}je deviens enfin moi-même.
+{64328}{64371}Alors, écoute. . .
+{64379}{64420}sans jouer les prophètes. . .
+{64427}{64539}la concomitance des deux choses|brouille l'effet individuel.
+{64549}{64628}Cependant, c'est sûrement vrai.
+{64640}{64726}C'est subjectif, mais je dis|que la téléportation humaine. . .
+{64734}{64815}la recomposition moléculaire purifie.
+{64826}{64872}D'homme, on devient roi.
+{64879}{64917}J'ai une pêche d'enfer.
+{64928}{64998}Finalement, je vais prendre|un cannoli. Garcon !
+{65004}{65076}Quelle réussite !|Mais j'ai fait quoi, en réalité ?
+{65087}{65130}J'ai dit au monde entier :
+{65137}{65211}"C'est parti. Essayez de suivre. "|Garçon !
+{65223}{65264}Nom de Dieu !
+{65655}{65689}Bon sang.
+{65747}{65778}Quoi ?
+{65798}{65848}Comment peux-tu continuer ?
+{65889}{65964}Ton corps doit être vidé|de tout fluide.
+{65973}{66016}On fait ça depuis des heures.
+{66022}{66068}J'ai pas encore envie d'arrêter.
+{66131}{66157}Allez.
+{66292}{66336}C'est quoi, ça ?
+{66350}{66390}Tu veux me distraire.
+{66412}{66463}Mais qu'est-ce que c'est ?|On dirait. . .
+{66494}{66570}- des poils.|- Je ne sais pas, c'est. . .
+{66582}{66641}Ça arrive en vieillissant,|les poils bizarres.
+{66648}{66691}Ils sont vraiment durs.
+{66732}{66833}Je n'ai jamais eu assez de poils.|Je n'étais pas assez viril.
+{66842}{66887}J'ai hâte d'avoir des poils.
+{66903}{66980}Ça compense la vieillesse.|Tu vas où ?
+{67761}{67816}Mes nouveaux poils.|Tu fais quoi ?
+{67825}{67849}Pas de panique.
+{67882}{67942}Ces poils-là, tu n'aimerais|pas en être couvert.
+{67962}{68027}Ils sont vraiment coriaces !
+{68096}{68123}Ecoute.
+{68152}{68229}Je veux te téléporter tout de suite.
+{68238}{68314}J'ai à peine besoin de dormir,|je suis en pleine forme.
+{68321}{68367}C'est une drogue inoffensive.
+{68376}{68426}Je sens une puissance|monter en moi. . .
+{68435}{68505}Nous formerons le couple idéal,|un duo dynamique.
+{68512}{68546}- Tout de suite.|- Attends.
+{68553}{68632}Arrête, avec ta téléportation|miraculeuse. J'ai trop peur.
+{68640}{68700}Comment je dois te le dire ?|Je ne le fais pas.
+{68735}{68780}T'es vraiment chiante.
+{68860}{68954}Il s'est passé un truc anormal|pendant ta téléportation.
+{69113}{69156}C'est non ? Pas toi ?
+{69163}{69247}Trop trouillarde pour faire partie|du duo dynamique ?
+{69258}{69323}Je trouverai quelqu'un d'autre.
+{69332}{69368}Ecoute-moi.
+{69375}{69432}T'as peur de la cuve à plasma.
+{69438}{69498}T'as peur d'être décomposée|puis recréée.
+{69506}{69554}Tu crois avoir éveillé ma chair ?
+{69562}{69636}Mais tu t'en tiens|à ce qu'approuve la société.
+{69647}{69755}Tu ne vas pas au-delà|de cette peur panique de la chair.
+{69768}{69873}Bois franchement, sinon fuis|la fontaine de plasma. Tu vois ?
+{69884}{69956}Il ne s'agit pas juste|de pénétration sexuelle. . .
+{69964}{70011}mais d'aller au-delà de la chair.
+{70018}{70102}Un plongeon pénétrant|dans la cuve de plasma.
+{71134}{71172}Un scotch.
+{71241}{71272}Qui gagne ?
+{71324}{71353}Je sais pas.
+{71383}{71417}J'espère que c'est Marky.
+{71476}{71526}- Pourquoi ?|- Parce que.
+{71544}{71575}J'aime bien Marky, ce soir.
+{71606}{71630}Et moi, je t'aime bien.
+{71666}{71712}Faudrait que je participe.
+{71796}{71858}Tu nous déranges.
+{71865}{71913}Je parie 1 00 $ que je vous bats.
+{72006}{72042}Casse-toi, connard.
+{72136}{72172}Voilà mes 1 00 $.
+{72204}{72252}Si je gagne, j'emmène la dame.
+{72262}{72298}T'as vu ça où ?
+{72312}{72341}J'ai l'air d'une pute ?
+{72361}{72435}Tawny, ce sera du fric vite gagné.|Qu'on en finisse.
+{72537}{72621}- Prudence. Il mange du chocolat.|- J'ai vu ça.
+{73798}{73842}Tu fais du bodybuilding ?
+{73848}{73947}Oui, je sculpte des corps. Je les|décompose pour les réassembler.
+{73957}{74007}T'as bien décomposé Marky.
+{74015}{74084}- Allons chez moi.|- Chez toi ?
+{74091}{74165}D'accord.|Moi, j'habite avec ma mère.
+{74174}{74258}On peut continuer|la tournée des bars ?
+{74267}{74334}- Il est un peu tôt pour rentrer.|- Bien sûr.
+{74951}{74996}C'est super, ici.
+{75206}{75242}Y a pas d'ascenseur.
+{75267}{75322}- J'en peux plus.|- Si, y a un ascenseur.
+{75405}{75448}Là, tu sens l'ascension ?
+{76682}{76715}Tu es magicien ?
+{76837}{76868}Oui.
+{77531}{77601}On prend un petit-déjeuner,|oui ou non ?
+{77667}{77703}C'est ton tour.
+{77722}{77768}- De faire quoi ?|- D'y passer.
+{77775}{77825}J'ai pas envie d'essayer.
+{77835}{77874}Tu te sentiras sexy.
+{77882}{77932}Je me sens déjà sexy.
+{77970}{78008}Et si je te faisais. . .
+{78027}{78068}un bon. . .
+{78083}{78157}- massage à l'alcool ?|- Arrête. Ça fait mal.
+{78206}{78252}Pardon, chéri.
+{78268}{78331}J'ignorais que tu avais|la peau d'une princesse.
+{78356}{78392}- Tu es sensible.|- Bon.
+{78399}{78449}C'est bon.|Ça va te plaire.
+{78456}{78516}- Je ne veux pas. J'ai peur.|- N'aie pas peur.
+{78525}{78549}Non.
+{78569}{78636}Il y a de quoi avoir très peur.
+{78658}{78692}C'est qui ?
+{78716}{78764}Moi aussi, je vis avec ma mère.
+{78780}{78811}Maman, voici Tawny.
+{78859}{78893}Faut que je file.
+{79038}{79081}Merci, c'était génial.
+{79297}{79369}Pourquoi tu l'as fait fuir ?|T'es jalouse ?
+{79429}{79458}Tu es en train de changer.
+{79479}{79532}De changer complètement.
+{79542}{79583}Tu as mauvaise mine.
+{79598}{79622}Tu sens mauvais.
+{79648}{79684}Me laver, c'est pas mon truc.
+{79746}{79859}Ces poils bizarres,|je les ai confiés à un labo.
+{79868}{79911}Je les ai fait analyser.
+{79995}{80033}Les poils ?
+{80065}{80108}Les poils ?
+{80119}{80191}Ah, oui.|Quelle idée étrange.
+{80198}{80251}Moins étrange que les résultats.
+{80267}{80327}Ils ont eu du mal à les identifier.
+{80347}{80433}En conclusion, ce ne sont pas|des poils humains.
+{80496}{80556}- Très bien.|- Pas humain, Seth.
+{80567}{80660}En fait, on dirait|des poils d'insecte.
+{80680}{80716}C'est ridicule.
+{80721}{80750}Ecoute.
+{80767}{80817}Y en a d'autres.|Regarde ton visage.
+{80843}{80884}Il y a eu quelque chose.
+{80892}{80951}Tu as besoin d'aide.|Tu dois être malade.
+{80958}{80997}Tu es jalouse.
+{81071}{81133}Tu ne supportes pas|que je sois libre.
+{81145}{81193}Tu veux me casser le moral.
+{81238}{81300}Tu trouves que j'ai l'air malade ?
+{81353}{81387}Non, arrête !
+{81396}{81432}Un malade peut faire ça ?
+{81455}{81517}Y a plus de contrat.|Je n'ai plus besoin de toi.
+{81559}{81607}Seth, je t'en prie.|Attends.
+{81613}{81640}Ne reviens pas.
+{81668}{81707}Mon Dieu.
+{84901}{84932}Non.
+{84982}{85037}Que se passe-t-il ?|Je vais mourir ?
+{85096}{85147}C'est comme ça ?|Je vais mourir ?
+{85235}{85274}Brundle, Seth.
+{85304}{85343}Il me faut un disque.
+{85366}{85426}Première téléportation :|S.Brundle.
+{85542}{85643}ANALYSE : CARBONE,|HYDROGÈNE, PHOSPHORE
+{85703}{85775}TÉLÉPORTATION SECONDAIRE|ANALYSE :
+{85785}{85833}CALCIUM PHOSPHORE|SOUFRE
+{86043}{86120}PREMIER ÉLÉMENT BRUNDLE.|SECOND ÉLÉMENT ?
+{86130}{86206}AUTRE QUE BRUNDLE
+{86294}{86327}Lancer la séquence.
+{87616}{87717}SI DEUXIÈME ÉLÉMENT MOUCHE,|OÙ EST MOUCHE ?
+{87943}{88044}ASSIMILATION ?|BRUNDLE A ABSORBÉ MOUCHE ?
+{88054}{88104}NÉGATIF
+{88114}{88244}FUSION GÉNÉTICO-MOLÉCULAIRE|BRUNDLE-MOUCHE
+{89050}{89079}Allô ?
+{89170}{89199}Seth.
+{89257}{89346}Seth, je n'arrivais pas à te joindre.|Où es-tu ?
+{89355}{89400}J'avais peur de te voir.
+{89407}{89513}Maintenant,|j'ai peur de ne plus te voir.
+{89522}{89554}Tu es chez toi ?
+{89560}{89608}Tu avais bien raison.
+{89614}{89653}Je vais...
+{89668}{89727}beaucoup plus mal.
+{89735}{89788}Je t'en prie, viens me voir.
+{89797}{89838}Viens tout de suite.
+{90432}{90463}Seth ?
+{90482}{90506}Je suis là.
+{90513}{90539}Arrête-toi !
+{90702}{90743}Tu avais raison.
+{90752}{90798}Je suis malade. . .
+{90822}{90877}et c'est peut-être contagieux.
+{90915}{90963}Je ne veux pas te contaminer.
+{91023}{91073}Et ça s'accélère.
+{91090}{91171}C'est implacable.|Ça se dégrade tous les jours.
+{91180}{91262}Chaque fois que je me regarde,|je suis plus répugnant.
+{91273}{91294}Que s'est-il passé ?
+{91300}{91391}Une petite mémé, une mouche a gobé|Et elle risque d'en crever.
+{91414}{91477}Seth, je t'en prie.
+{91507}{91601}Pour le téléporteur, il faut être pur.|Je n'étais pas pur.
+{91653}{91694}Je ne comprends pas.
+{91763}{91803}Une mouche. . .
+{91820}{91937}s'est glissée dans la cabine,|la fois où j'étais tout seul.
+{92028}{92088}Ça a perturbé l'ordinateur.
+{92096}{92172}Il n'était pas censé y avoir|deux génotypes.
+{92180}{92259}L'ordinateur nous a fusionnés.
+{92278}{92321}Il nous a accouplés,|moi et la mouche.
+{92328}{92373}Sans avoir été présentés.
+{92470}{92561}Mon téléporteur est devenu|un mélangeur de gènes.
+{92585}{92661}Très efficace.|Je ne suis plus Seth Brundle.
+{92701}{92778}Je suis le croisement|de Brundle et de la mouche.
+{92826}{92900}Mon Dieu, Seth.
+{92908}{92949}Tu es si jolie.
+{92965}{93003}Que va-t-il se passer ?
+{93017}{93092}On dirait une forme bizarre|de cancer.
+{93110}{93220}Révolution générale des cellules.|Je vais me désintégrer.
+{93234}{93279}D'une manière inédite,|je pense.
+{93303}{93329}Puis je vais mourir.
+{93345}{93434}- Et ce sera fini.|- Je ne l'accepterai pas.
+{93443}{93529}On doit pouvoir faire quelque chose,|faire des tests.
+{93538}{93641}Je refuse d'embêter le monde|avec mes tumeurs. . .
+{93652}{93746}avec mes cheveux qui tombent,|et mes ganglions.
+{93776}{93831}Que dois-je faire ?|Pourquoi m'as-tu appelée ?
+{94248}{94279}C'est dégoûtant.
+{94528}{94555}Mon. . .
+{94576}{94619}oreille. Non !
+{94649}{94689}J'ai peur.
+{94772}{94801}Aide-moi.
+{94835}{94907}Je t'en supplie, aide-moi.
+{94998}{95089}ÉDITIONS MONOLITH
+{95110}{95192}- Ne retourne pas le voir.|- C'est tout ?
+{95200}{95224}C'est ça, ton conseil ?
+{95230}{95302}Il a raison.|C'est peut-être contagieux.
+{95311}{95352}Il faut que je retourne|auprès de lui.
+{95366}{95447}- Je n'y crois pas.|- Si tu le voyais, Stathis. . .
+{95458}{95540}Si tu savais comme il a peur.|Il est en colère et désespéré.
+{95548}{95615}Mary la Typhoïdique|était sûrement très sympa.
+{95624}{95672}- Je ne veux pas. . .|- Je m'en fiche.
+{95678}{95724}Bon, d'accord.
+{96059}{96114}Pourrais-je réclamer ta dépouille ?
+{96141}{96184}Seigneur.
+{96253}{96294}Que dis-tu de ceci ?
+{96363}{96433}Tu dis qu'il me suffirait de le voir.
+{96449}{96482}Montre-le-moi.
+{96504}{96535}Filme-le. Montre-moi.
+{96557}{96595}Laisse-moi y réfléchir.
+{96643}{96684}Je trouverai une solution.
+{97341}{97370}Seth ?
+{97533}{97557}Seth ?
+{97564}{97610}Non. Ici, en haut.
+{97695}{97741}Je me débrouille bien.
+{97761}{97809}C'est presque une seconde nature.
+{97841}{97889}J'ai arrêté de me ronger les ongles.
+{98014}{98062}Regarde.|C'est quoi ?
+{98091}{98120}Je ne sais pas.
+{98214}{98293}Je suis frappé d'une maladie|pour une raison précise, non ?
+{98410}{98489}C'est peut-être pas|si terrible que ça.
+{98506}{98532}Je ne peux pas rester.
+{98546}{98570}Non, attends.
+{98614}{98650}Pourquoi pas ?
+{98664}{98703}C'est trop dur à supporter.
+{98709}{98769}Pourquoi ?|La maladie a révélé son but.
+{98777}{98878}Plus de problème de contagion.|Je sais ce qu'elle veut.
+{98894}{98925}Elle veut quoi ?
+{98941}{99032}Elle veut me transformer|en autre chose.
+{99052}{99119}La plupart des gens|donneraient tout pour ça.
+{99129}{99160}Te transformer en quoi ?
+{99166}{99262}En mouche, tu crois ? Je suis en train|de devenir une mouche de 90 kilos ?
+{99289}{99348}Non. Quelque chose|qui n'a jamais existé.
+{99356}{99414}Je deviens "Brundlemouche" .
+{99447}{99490}Ça vaut un prix Nobel, non ?
+{99534}{99565}Tiens.
+{99579}{99653}Je veux faire une démonstration. . .
+{99662}{99782}que tu voudras garder|pour la postérité.
+{99802}{99852}Tu devrais faire la chronique. . .
+{99859}{99929}de la vie de Brundlemouche.|Tu ne crois pas ?
+{99946}{100042}Ça ferait au moins|un bon livre pour enfants.
+{100061}{100088}Tu as l'air fatiguée.
+{100140}{100166}Tu me suis ?
+{100309}{100354}Comment mange Brundlemouche ?
+{100361}{100428}Il a compris qu'il mange|comme une mouche.
+{100437}{100478}Ses dents sont inutiles.
+{100485}{100564}Il peut mâcher des solides|mais pas les digérer.
+{100575}{100652}Ça fait mal.|Alors, comme une mouche. . .
+{100658}{100762}Brundlemouche décompose les solides|avec une enzyme corrosive...
+{100774}{100824}qu'on appelle, pour rire, "vomi".
+{100832}{100899}Il régurgite sa nourriture.|Elle se liquéfie.
+{100912}{100964}Et il aspire à nouveau le tout.
+{100985}{101031}Une démonstration, les enfants ?
+{101048}{101084}C'est parti.
+{101119}{101169}Seigneur Dieu.
+{101209}{101245}Mon Dieu !
+{101427}{101460}Ronnie.
+{101544}{101575}Ronnie !
+{101784}{101816}Qu'y a-t-il ?
+{101984}{102015}Je suis enceinte.
+{102045}{102085}Oh, non.
+{102164}{102195}Non.
+{102257}{102309}Je suis enceinte de Seth.
+{102522}{102555}Tu veux faire quoi ?
+{102632}{102661}Je ne sais pas.
+{102734}{102770}Je veux juste. . .
+{102777}{102811}Je ne sais pas.
+{103478}{103564}- Stathis, j'ai peur.|- Ça va aller, Ronnie.
+{103582}{103621}Tout va bien se passer.
+{103626}{103677}Je crois que je ne veux|pas le perdre.
+{103685}{103783}- Pourquoi je ne le garde pas ?|- C'est mieux, tu verras.
+{103815}{103866}C'est la meilleure solution.
+{103888}{103996}Elle l'expulse. Il est en train|de sortir tout seul.
+{104004}{104074}Ça va être facile.|Ne vous inquiétez pas.
+{104095}{104169}Je vous en prie. Non.
+{104187}{104226}C'est presque fini.|Allons-y.
+{104340}{104404}Aspiration.|Une petite aspiration.
+{104469}{104529}Attendez un peu.|Il en reste.
+{104543}{104627}- Il en reste ?|- Oui, et beaucoup.
+{104652}{104700}Il va falloir nous aider.|Poussez.
+{104707}{104765}Poussez.|Allez-y, poussez.
+{104775}{104844}- C'est ça. Poussez.|- Non, attendez.
+{104859}{104919}Poussez.|Vous pouvez l'expulser. Allez.
+{104927}{104980}Non, attendez.
+{104988}{105017}Vous allez y arriver.
+{105030}{105059}Attendez.
+{105102}{105136}Non !
+{106063}{106135}PROJET BRUNDLEMOUCHE
+{106143}{106259}PROBLÈME : AMÉLIORER|PROGRAMME DE FUSION
+{106333}{106393}BUT : FAIRE BAISSER|LE POURCENTAGE. . .
+{106403}{106501}DE MOUCHE|CHEZ BRUNDLEMOUCHE
+{106592}{106650}SOLUTION :|FUSION GÉNÉTIQUE. . .
+{106657}{106748}DE BRUNDLEMOUCHE|AVEC HUMAIN PUR
+{106856}{106918}Il me faut un disque.|Intégration préliminaire.
+{106925}{106975}Il me faut un disque.|Intégration préliminaire.
+{106982}{107011}ERREUR REFUSÉ
+{107018}{107080}VOIX INCONNUE
+{107275}{107346}PASSAGE|EN FONCTIONNEMENT MANUEL
+{108055}{108146}Vous êtes des reliques,|c'est indéniable.
+{108156}{108268}Des vestiges archéologiques inutiles.
+{108351}{108406}Des témoins d'une ère révolue. . .
+{108415}{108470}dont l'intérêt n'est qu'historique.
+{108999}{109051}Tu as raté de bons moments.
+{109081}{109136}T'es venue faire le point ?
+{109263}{109291}Je voulais. . .
+{109443}{109494}Mes dents ont commencé à tomber.
+{109543}{109632}L'armoire à pharmacie|est un musée d'histoire naturelle.
+{109641}{109667}Tu veux voir ?
+{109691}{109722}Non.
+{109783}{109807}Alors. . .
+{109856}{109887}tu veux quoi ?
+{109963}{110025}Je suis venue te dire. . .
+{110161}{110207}C'est juste. . .
+{110245}{110312}Je voulais te voir. . .
+{110321}{110357}avant. . .
+{110572}{110612}Il faut que tu partes. . .
+{110655}{110694}et que tu ne reviennes jamais.
+{110811}{110900}La vie politique chez les insectes,|tu connais ?
+{110953}{110987}Moi non plus.
+{111078}{111169}Les insectes n'ont pas|de système politique.
+{111209}{111267}Ils sont brutaux.
+{111299}{111338}Sans compassion.
+{111343}{111391}Il n'y a pas de compromis.
+{111421}{111476}Impossible de faire confiance|à un insecte.
+{111546}{111586}J'aimerais être. . .
+{111609}{111685}le premier insecte politique.
+{111721}{111761}J'aimerais. . .
+{111829}{111865}mais j'ai peur. . .
+{111896}{111952}Je ne comprends pas|ce que tu veux dire.
+{111987}{112018}Je dis. . .
+{112216}{112271}Je dis que je suis un insecte. . .
+{112307}{112393}qui a rêvé qu'il était un homme|et que c'était bien.
+{112404}{112452}Mais le rêve est terminé. . .
+{112464}{112502}l'insecte s'est réveillé.
+{112541}{112577}Non, Seth.
+{112622}{112662}Je dis. . .
+{112729}{112782}que je vais te faire du mal|si tu restes.
+{113729}{113774}On le fait maintenant.
+{113781}{113851}Maintenant ? Attends.|Qu'a-t-il dit ?
+{113869}{113931}Je n'ai pas pu lui dire.|Allons-y.
+{113938}{114001}Nous devrions attendre|quelques jours.
+{114008}{114044}Tu n'es pas dans ton état normal.
+{114062}{114129}Je n'en veux plus dans mon corps.|Si tu l'avais vu. . .
+{114137}{114194}Il peut y avoir n'importe quoi|dans mon corps.
+{114202}{114271}Je ne sais pas si c'est possible,|à cette heure-ci.
+{114279}{114308}Pourquoi devons-nous. . .
+{114314}{114434}Je n'en veux pas dans mon corps,|tu comprends ?
+{115252}{115317}Alors, racontez-moi.
+{115387}{115438}Elle est enceinte.|Elle veut avorter.
+{115454}{115488}En pleine nuit ?
+{115539}{115591}Nous avons des raisons|de penser que. . .
+{115599}{115681}l'enfant sera anormal.
+{115694}{115761}- Mais. . . En pleine nuit ?|- Ecoutez, Brent.
+{115813}{115840}S'il vous plaît.
+{115897}{115923}C'est votre enfant ?
+{115947}{115968}Non.
+{116052}{116151}C'est l'enfant d'un homme anormal.
+{116196}{116230}Sans vouloir m'en mêler. . .
+{116237}{116325}je sens une certaine hésitation.
+{116337}{116401}On peut faire des tests|pour savoir si. . .
+{116412}{116506}Je ne veux pas de tests.|Ça ne prouve rien.
+{116519}{116590}Le bébé pourrait être normal|au début, puis. . .
+{116669}{116703}Je veux avorter.
+{116778}{116828}Je le ferai moi-même, s'il le faut.
+{116857}{116946}Mettez ça.|Ce sera vite fait.
+{117596}{117620}Non.
+{117706}{117752}Attends, Seth, non.
+{118370}{118423}Pourquoi voulais-tu tuer Brundle ?
+{118454}{118569}Le bébé est peut-être|tout ce qui reste de moi.
+{118642}{118676}Ne me tue pas.
+{118717}{118791}Je ne peux pas le garder.|J'ai peur.
+{118802}{118888}Je t'en prie, garde le bébé.
+{118910}{118934}Je ne peux pas.
+{118948}{118988}Je ne peux pas.
+{119038}{119074}C'est dommage.
+{119193}{119229}C'est dommage.
+{121585}{121624}MÉTHODE DE FUSION
+{121630}{121700}MATÉRIEL :
+{121708}{121794}CABINE 1 :|TRANSMET SUJET A
+{121805}{121884}CABINE 2 :|TRANSMET SUJET B
+{121893}{121982}CABINE 3 : RECOIT|RESULTAT DE LA FUSION. . .
+{121991}{122065}SUJETS A ET B|COMBINÉS
+{122630}{122664}Seigneur !
+{124315}{124392}Je t'en prie.|Ne fais pas ça.
+{124406}{124434}Je t'en prie.
+{124987}{125016}Aide-moi.
+{125036}{125060}Aide-moi à être humain.
+{125106}{125135}Comment ?
+{125324}{125355}Eh bien. . .
+{125438}{125474}Je vais là. . .
+{125539}{125572}et toi, tu vas là.
+{125681}{125744}On est décomposés. . .
+{125755}{125861}puis on fusionne.
+{125929}{125994}Toi, moi et le bébé.
+{126026}{126050}Ensemble.
+{126136}{126189}LANCER FUSION
+{126195}{126239}SÉQUENCE ACTIVÉE
+{126246}{126323}FUSION EN COURS
+{126468}{126492}Non. . .
+{126519}{126569}On formera la famille idéale.
+{126583}{126684}Une famille de trois personnes|dans le même corps.
+{126722}{126770}Plus humaine|que je ne le serais, seul.
+{126806}{126859}Non, non !
+{127391}{127444}Seigneur, je t'en prie.
+{127746}{127808}Seigneur, non.
+{131037}{131155}FUSION DE BRUNDLEMOUCHE|ET CABINE RÉUSSIE
+{133007}{133055}Non, je n'y arrive pas.
+{133105}{133141}Je ne peux pas faire ça.

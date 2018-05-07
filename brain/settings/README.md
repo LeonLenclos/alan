@@ -31,28 +31,28 @@ base.json contient les réglages de base qui doivent être renseignés quelque s
 
 ## logic
 
-les fichiers commençant par `logic_` configurent des logics adapters
+les fichiers commençant par `logic/` configurent des logics adapters
 
-#### logic_all
+#### logic/all
 
-logic_all.json s'occupe de tous les logic adapters
+logic/all.json s'occupe de tous les logic adapters
 
-#### logic_rive
+#### logic/rive
 
-logic_rive.json s'occupe de tous les logic adapters rivescript
+logic/rive.json s'occupe de tous les logic adapters rivescript
 
-#### logic_misc
+#### logic/misc
 
-logic_misc.json s'occupe de tous les logic adapters qui ne sont pas rivescript
+logic/misc.json s'occupe de tous les logic adapters qui ne sont pas rivescript
 
 ## interface
 
-les fichiers commençant par `interface_` configurent des input adapters et des output adapters
+les fichiers commençant par `interface/` configurent des input adapters et des output adapters
 
-#### interface_text
+#### interface/text
 
-interface_text.json configure une interface textuelle
+interface/text.json configure une interface textuelle
 
-#### interface_mac_speak
+#### interface/mac_speak
 
-interface_mac_speak.json configure une interface vocale pour mac
+interface/mac_speak.json configure une interface vocale pour mac

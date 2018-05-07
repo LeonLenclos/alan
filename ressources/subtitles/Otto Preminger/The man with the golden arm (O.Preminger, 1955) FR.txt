@@ -1,0 +1,1269 @@
+{398}{500}L'HOMME AU BRAS D'OR
+{2990}{3025}Salut Frankie.
+{3318}{3351}Monte.
+{3891}{3986}Rien ne vaut le premier verre|de la journée, hein ?
+{4006}{4086}Vas-y, savoure-le.|- Qu'est-ce qu'il fait ?
+{4105}{4150}On te dit bon danseur.
+{4160}{4212}Si tu dansais un peu pour voir.
+{4880}{4977}Rends-les !|Fais pas le zouave !
+{5072}{5134}Quand tu es rentré ?|Comment va ?
+{5156}{5221}Tu vas bien ?|Tu me comprends.
+{5231}{5274}La guenon est partie.
+{5281}{5341}Laisse-moi te regarder.
+{5371}{5429}Pas la moindre carte postale.
+{5439}{5527}Tu sais pas lire.|- T'aurais pu dessiner.
+{5536}{5611}Bille de clown va !|Et les chiens perdus ?
+{5624}{5709}Dès qu'ils me voient|les gens planquent leur clebs.
+{5720}{5825}Personne fait plus confiance|à son prochain.
+{5871}{5904}Antek !
+{5916}{5966}Regarde qui est là.
+{5989}{6024}Ça va ? T'es guéri ?
+{6038}{6103}C'est bien.|- Assez, paye-moi un pot !
+{6114}{6184}Vise-moi ce qui arrive.|Salut La Distribe !
+{6205}{6275}T'as eu le temps|de devenir gardien-chef !
+{6283}{6336}T'as bonne mine.|- J'ai pris six livres.
+{6344}{6426}Six livres !|- J'le croyais gardien-chef.
+{6438}{6503}C'était comment ?|- Sensass.
+{6511}{6561}Lexington ?|- Comme je te le dis.
+{6568}{6653}Base-ball, excellents repas.|J'ai appris la batterie.
+{6664}{6762}A t'entendre on voudrait faire de|la taule. C'est une prison non ?
+{6773}{6831}Plutôt un hôpital.|J'ai un truc à montrer.
+{6841}{6914}On dit que les prisons fédérales|sont mieux.
+{6922}{7007}Je sais.|- J'le croyais gardien-chef.
+{7065}{7105}C'est beau, non ?
+{7120}{7175}Touche pas.|- Tu les as piqués ?
+{7185}{7260}Un cadeau de l'orchestre.|- T'avais un orchestre ?
+{7271}{7356}J'en faisais partie|et ils m'ont offert ça.
+{7383}{7491}Ça fait longtemps La Distribe.|C'était dur, hein ?
+{7570}{7603}Ça allait.
+{7612}{7687}Six mois !|T'en peux plus d'attendre.
+{7758}{7806}Viens chez moi.
+{7846}{7876}Non, merci.
+{7883}{7966}Fauché ? Que t'es bête !|C'est gratis.
+{7976}{8046}Pas besoin. J'ai décroché.
+{8074}{8141}Ah... décroché !
+{8180}{8215}Un de ceux-là...
+{8243}{8298}Je suis sérieux.|- Sûr.
+{8361}{8411}Je serai dans le coin.
+{8529}{8617}Frankie, remets pas ça|avec ce fourgueur.
+{8628}{8746}Moi ? Je me couperais le bras|plutôt que de le laisser y toucher.
+{8756}{8841}Le Dr Lennox, ce chic type|qui me soignait là-bas,
+{8852}{8900}il m'a dit au moins dix fois:
+{8910}{9008}"Frankie, un seul fixe|et vous êtes de nouveau accro."
+{9055}{9108}Te fais pas de bile.
+{9160}{9208}Sortons d'ici. Merci Antek.
+{9217}{9335}Prends soin de mon actif.|Un client doit venir le prendre.
+{9517}{9569}Te fais pas avoir au baratin.
+{9576}{9669}Je vais pas rester assez longtemps|pour qu'il m'embête.
+{9678}{9730}Je vais jouer dans un orchestre.
+{9742}{9772}Tu plaisantes ?
+{9783}{9848}Je travaille mon poignet.
+{9858}{9941}Le type qui m'a appris à jouer|il dit que j'ai un don.
+{9950}{9990}Mon bras est en or.
+{9999}{10087}Tu cogneras ces tambours ?|- J'ai tout prévu.
+{10103}{10173}Je vais m'appeler Jack Duval.
+{10187}{10257}Je vais pas beaucoup te voir alors.
+{10265}{10373}Je t'arrangerai un coup.|Comme de porter les instruments.
+{10385}{10473}Voyager partout, les night-clubs|élégants, ça te tente ?
+{10483}{10528}C'est pour quand ?|- Tout de suite.
+{10539}{10641}Je suis un rapide moi.|Mais il me faut de bons vêtements.
+{10653}{10715}Monte ! Je vais t'en trouver.
+{10733}{10831}Taille 39. Avec des rayures.|Quelque chose de bien.
+{11067}{11195}Cessez bruit vous et mari|ou je mettre vous à la porte !
+{11207}{11295}Je fais le bruit que je veux.|- Qui être proprio ? Moi !
+{11304}{11341}Faire ce que je dire !
+{11348}{11413}Et ta mère elle fait du vélo ?
+{11458}{11521}Frankie Machine !
+{11545}{11592}T'as l'air en forme.
+{11599}{11662}Comment ça va ? Je veux dire...
+{11670}{11730}Bien Vi, très bien.|Ça va proprio ?
+{11740}{11840}Elle et mari, battre tout le temps.|Hurler, jeter choses.
+{11849}{11877}Ça change pas.
+{11885}{11963}Cette maison respectable !|Moi homme respectable !
+{11974}{12069}Respectable mon œil !|Allez, dégagez !
+{12990}{13043}Je t'aime tellement.
+{13147}{13242}Tu m'as tellement manqué.
+{13379}{13504}J'étais si seule Frankie,|sans toi. Si seule...
+{13517}{13597}Pleure pas, Zosh.|Laisse-moi te regarder.
+{13655}{13742}J'ai les yeux rouges.|- Non, t'as l'air bien.
+{13754}{13829}Vrai ? La crevasse est partie ?
+{13855}{13908}T'as très bonne mine.
+{14074}{14117}J'avais une crevasse.
+{14126}{14234}J'avais peur qu'elle soit|pas guérie pour ton retour.
+{14244}{14314}Alors j'ai mis un truc|pour la sécher.
+{14369}{14454}Allons Zosh,|tout va bien maintenant.
+{14501}{14549}Regarde !
+{14558}{14641}Vi a acheté le gâteau|et moi j'ai fait la pancarte.
+{14652}{14710}En signe de bienvenue.
+{14794}{14844}C'est une vraie fête.
+{14903}{14946}Vraiment chouette !
+{14969}{15004}Comment tu vas ?
+{15012}{15045}Je suis guéri.
+{15054}{15087}Vraiment ?
+{15101}{15164}Décroché pour de bon.
+{15174}{15209}Tu as eu mal ?
+{15236}{15279}Comment c'était ?
+{15294}{15402}On m'a bien traité là-bas.|Le Dr Lennox a été bon pour moi.
+{15544}{15582}Je t'ai manqué ?
+{15596}{15686}Bien sûr que tu m'as manqué !|Quelle question !
+{15721}{15759}Tu m'as manqué.
+{15783}{15826}Vrai. Je suis sérieux.
+{15854}{15914}Qu'est-ce que tu as là ?|- Tu verras.
+{15945}{15993}Tiens, c'est pour toi.
+{16083}{16128}C'est une chose exquise.
+{16137}{16210}Tu aimes ?|C'est moi qui l'ai faite.
+{16221}{16304}C'est tout à fait exquis.|C'est toi qui l'as faite ?
+{16312}{16357}Comme passe-temps.
+{16367}{16485}S'occuper de trucs qu'on aime|fait partie de la cure.
+{16496}{16566}Je voulais apprendre la batterie.
+{16584}{16636}Le Dr Lennox m'y a aidé.
+{16670}{16748}J'étais occupé la journée|mais la nuit,
+{16756}{16863}si je m'agitais pour pas penser|au manque je faisais ça.
+{16907}{16979}J'avais un truc à te dire.|- Quoi ?
+{16998}{17048}Mais je l'ai oublié.
+{17107}{17142}Un sifflet ?
+{17164}{17209}J'avais peur toute seule.
+{17216}{17286}Vi me l'a donné|pour que je l'appelle.
+{17308}{17350}Continue à raconter.
+{17365}{17462}Quand t'arrives là-bas, tu causes|des heures avec le docteur.
+{17472}{17540}Je sais ce que j'avais à te dire.
+{17550}{17653}A qui ressemblait l'acteur dans|un film que Vi m'a emmenée voir ?
+{17662}{17699}A qui ?|- A toi !
+{17732}{17820}Ce film était bien|et les attractions aussi.
+{17831}{17944}On doit de l'argent à Vi pour|le film. Et pour le gâteau aussi.
+{17970}{18012}Tu étais fauchée ?
+{18029}{18092}Schwiefka ne versait pas son écot ?
+{18103}{18146}Il devait le faire.
+{18163}{18250}Je donnais pour lui|quand les flics sont venus.
+{18259}{18319}Et j'ai fermé ma gueule.
+{18392}{18452}Il devait te verser|50 dollars tous les mois.
+{18460}{18562}Il ne me les a pas versés|tous les mois. Vi a dû m'en prêter.
+{18653}{18733}Elle s'est bien occupée de toi ?|Tu t'es amusée ?
+{18783}{18838}Pas comme avec toi.
+{18846}{18901}C'est terrible d'être seule.
+{18908}{19028}Et quand mes jambes me font mal|elle ne les masse pas comme toi.
+{19061}{19104}Et à la clinique ?
+{19145}{19218}Je ne vais plus|à cette clinique tordue.
+{19226}{19328}Ils connaissent leur métier.|Faut y retourner. Faut te rétablir.
+{19351}{19423}Vi a rêvé que le médecin|du coin m'avait guérie.
+{19434}{19509}Mais lui n'est pas gratuit|comme la clinique.
+{19519}{19607}Tu vas gagner de l'argent|chez Schwiefka et j'irai.
+{19618}{19701}J'en ai fini de donner|pour Schwiefka.
+{19717}{19757}Mais tu es donneur !
+{19765}{19828}T'es le meilleur donneur de cartes !
+{19838}{19903}Fini.|Je suis batteur maintenant.
+{19956}{20038}Plaisante pas.|Je ne sais jamais quand tu plaisantes.
+{20047}{20110}Qui plaisante Zosh ? Ecoute...
+{20244}{20279}Chouette non ?
+{20315}{20395}Ce Dr Lennox,|je lui ai raconté ma vie
+{20414}{20449}depuis le début.
+{20461}{20493}Et puis toi et moi...
+{20524}{20624}Il m'a dit que si je recommençais|à vivre comme avant
+{20635}{20693}je raccrocherais encore.
+{20727}{20799}Alors je veux jouer.
+{20815}{20840}Ecoute !
+{20979}{21002}Alors ?
+{21010}{21038}Chouette.
+{21083}{21141}Qu'est-ce que tu as dit de moi au docteur ?
+{21164}{21251}Qu'il me fallait de l'argent|pour te guérir.
+{21276}{21346}Selon lui jouer est un moyen.
+{21367}{21434}Il m'a indiqué un homme|pour un boulot.
+{21446}{21468}C'est bien.
+{21478}{21593}Si l'homme du job connaît le docteur.|Ces trucs s'arrangent souvent mal.
+{21646}{21681}J'ai ça !
+{21688}{21758}C'est quoi ?|- Une lettre du docteur.
+{21782}{21875}Je vais l'appeler maintenant.|- Parlons-en demain.
+{21886}{21929}Je reviens Zosh.
+{21938}{21986}Goûte le gâteau !
+{21993}{22073}Je remonte dans une minute.|- Maintenant.
+{22176}{22268}Goûte d'abord|un morceau de ce beau...
+{22297}{22330}...gâteau.
+{22490}{22573}Tu viens mon chou ?|- J'arrive.
+{22740}{22775}Molly...
+{22946}{23001}M.Lane, je vous en prie.
+{23014}{23081}Alors ?|- Ici Frankie Machine.
+{23092}{23162}J'ai une lettre du Dr Lennox.
+{23220}{23268}Bonjour Frankie.
+{23364}{23409}Ça va Molly ?|- Ça va.
+{23416}{23486}Partons mon chou.|- J'arrive.
+{23522}{23587}Un type. En ton absence.
+{23604}{23679}M.Lane ?|J'ai une lettre pour vous.
+{23689}{23747}Alors quoi ?|- Cet après-midi ?
+{23765}{23857}C'est très gentil à vous M.Lane.|Je vous remercie beaucoup.
+{23869}{23914}D'accord. Au revoir.
+{23965}{24045}Frankie, y a un nouveau truc|au magasin Brack.
+{24059}{24134}Y a plus de vendeuses.|On se sert.
+{24142}{24205}Ils appellent ça un self-service.
+{24215}{24260}Qu'est-ce qu'il y a ?
+{24267}{24365}Tâte ce tissu.|Et pendant que j'y étais...
+{24403}{24448}Chouette, hein ?
+{24470}{24505}Tu te sens bien ?
+{24515}{24550}Frankie ?
+{24564}{24619}J'ai un engagement.|- Déjà ?
+{24635}{24690}Je suis rapide comme l'éclair.
+{24823}{24875}Ça a l'air bien ?
+{24924}{24997}Tu me le demandes à moi ?
+{25016}{25078}J'ai l'air bien Zosh ?
+{25086}{25149}M'appelle pas Zosh mais Sophia.
+{25219}{25256}Qu'est-ce qu'il y a ?
+{25263}{25368}Rien. Si t'avais mal à la colonne|vertébrale tu ferais quoi ?
+{25398}{25438}Fallait le dire !
+{25476}{25574}C'est le jour de ton retour.|Je ne voulais pas te donner du souci.
+{25586}{25644}Sois pas comme ça. T'as mal ?
+{25662}{25732}Le nouveau médecin peut m'aider.
+{25740}{25787}On ira le voir à mon retour.
+{25794}{25842}Allons-y maintenant.
+{25851}{25939}J'ai ce rendez-vous.|C'est important pour moi.
+{25950}{25988}On ira après.
+{26032}{26159}Je me dépêche.|- Fais-moi un petit massage d'abord.
+{26169}{26284}Je fais ça pour toi Zosh. On aura|de l'argent pour un bon médecin.
+{26297}{26327}Je t'en prie.
+{26336}{26401}Je t'aurai un chien.|Trouve-lui un chien.
+{26412}{26504}J'y veillerai.|Faites confiance à la direction.
+{26550}{26598}Souhaite-moi du pot.
+{26826}{26879}Attends Frankie !
+{27715}{27762}Je ne peux pas être partout.
+{27769}{27854}Elle ne se rend pas compte.|- Tais-toi tocard !
+{27866}{27941}Tu aimerais toi,|être cloué sur une chaise ?
+{28123}{28176}Comment ça va ?
+{28218}{28288}Alors, ça t'a pas fait de mal|Frankie ?
+{28299}{28336}T'as bonne mine.
+{28346}{28416}Eh oui Schwiefka, c'était le luxe.
+{28466}{28521}Ils t'ont donné ça ?|- Pas du tout.
+{28530}{28578}Je l'ai emprunté chez Brack.
+{28586}{28688}Quand j'ai su que t'étais sorti|j'ai voulu t'éviter des soucis.
+{28697}{28777}Te bile pas.|Schwiefka t'oublie pas.
+{28789}{28851}Ton boulot t'attend.|- T'as besoin d'un donneur ?
+{28862}{28997}Besoin ? Non. Je donne moi-même.|J'ai une grande clientèle.
+{29010}{29050}Ça joue plus gros que jamais.
+{29060}{29125}On m'a dit le contraire.|- Qui ?
+{29135}{29225}Grande c'est pas beaucoup.|Y en a peu mais friqués.
+{29237}{29264}Alors je ne sers à rien.
+{29273}{29333}Je te le dis:|Je m'occupe de mes amis.
+{29343}{29401}Tu veux que je brique ton auréole ?
+{29411}{29454}Ecrase face de rat !
+{29463}{29511}Ecoute ! Ça va bien pour moi.
+{29520}{29588}Je dis pas que les clients|me préfèrent à toi.
+{29598}{29673}Et c'est le donneur|qui fait la maison.
+{29682}{29730}Qu'est-ce que tu en dis ?|- Non.
+{29739}{29779}Tu donnes pour un autre !
+{29786}{29884}Je ne donne pour personne.|J'ai fini de donner.
+{29896}{29984}Belle façon de me remercier.|J'ai envoyé de l'argent à Zosh.
+{29995}{30093}J'ai dit que tu reprenais chez moi|à tous mes amis. Que faire ?
+{30104}{30184}Pour moi tu peux retourner|jouer aux billes.
+{30365}{30403}Qui c'est ?
+{30420}{30445}Le soûlard ?
+{30451}{30536}C'est Johnny Machin Chose.|Il bosse au billard.
+{30566}{30598}Ils sont ensemble ?
+{30604}{30677}Ils se voient.|Tu veux le rencontrer ?
+{30688}{30726}A plus tard.
+{30854}{30894}Hé toi !
+{30985}{31065}Monte La Distribe !|- Qui ça, moi ? Pourquoi ?
+{31073}{31098}Toi aussi.
+{31104}{31172}Mais j'ai rien fait.|Ecoutez-moi Kvorka.
+{31180}{31235}Je pars chercher un boulot.
+{31245}{31353}Vous me ramasserez plus tard.|Donnez-moi une heure. Soyez sympa !
+{31595}{31705}Qu'est-ce que vous dites là Kvorka ?|C'est de la diffamation !
+{31715}{31753}Je pourrais vous poursuivre.
+{31762}{31847}T'as bonne mine La Distribe.|On t'a laissé sortir quand ?
+{31858}{31893}Lundi.
+{31902}{31935}C'est quel motif ?
+{31944}{32022}Vol à l'étalage chez Brack.|- Qui vous a dit ça ?
+{32032}{32065}Un petit oiseau.
+{32074}{32147}Un petit oiseau avec un cigare ?|- Schwiefka !
+{32157}{32262}T'as pu éviter les ennuis|que pendant deux jours ?
+{32275}{32355}J'ai l'occasion de décrocher|un boulot de musicien.
+{32366}{32421}Téléphonez au mec|si vous ne me croyez pas.
+{32431}{32513}Laissez-moi juste une demi-heure.|- Tu veux mon insigne aussi ?
+{32522}{32630}Bouclez-moi ça.|- Donnez-moi une chance !
+{32642}{32690}Je ne fais pas les lois.
+{32861}{32939}Vous ne pouvez pas me garder.|Je suis en incapacité.
+{32949}{33014}Je ne suis pas assez malin|pour rester dehors
+{33022}{33137}et trop gourde pour être enfermé.|Attention au cou !
+{33147}{33197}Je veux porter plainte.
+{33226}{33281}Vous là ! Je vous parle.
+{33302}{33394}Ah, le coup du silence ?|Donnez-moi votre numéro.
+{33406}{33506}Vous allez voir !|Vos carottes sont cuites flicard !
+{33865}{33927}T'as une cigarette Frankie ?
+{34047}{34152}Tu me fais un tour ?|Histoire de rompre la monotonie.
+{34604}{34644}La Distribe !
+{34920}{35015}Salut La Distribe.|Je suis accouru dès que j'ai su.
+{35024}{35074}Tu veux que je te tire de là ?
+{35081}{35119}Fumier va !
+{35128}{35233}Le magasin retirera sa plainte.|Mais 37 dollars c'est une somme.
+{35243}{35328}Comment tu me les rendras ?|- Fumier va !
+{35336}{35409}Sauf si tu donnais pour moi.
+{35428}{35490}Si tu veux donner pour moi|je te fais sortir.
+{35498}{35593}T'es un sale mouchard !|- Je ne sais pas ce que tu veux dire.
+{35616}{35696}J'essaye de te faire une faveur.
+{35722}{35790}Oui ou non ?
+{36058}{36160}Il est parti comme un chien battu.|Il a peur de toi.
+{36217}{36270}Personne a jamais eu peur de moi.
+{36279}{36382}Les Boches avaient peur de toi.|T'étais un grand homme à l'armée.
+{36394}{36422}Un grand homme...
+{36435}{36528}J'ôtais les chiures de mouches|du poivre.
+{36549}{36666}Laissez-moi sortir !|J'en peux plus !
+{36900}{36980}Je veux un fixe ! Un fixe !
+{36999}{37087}Vous pouvez me faire un fixe ?
+{37421}{37466}Les as disent un dollar.
+{37476}{37528}Le roi voit. Et on y va,|faits comme des rats.
+{37535}{37565}Ça sera pour la prochaine fois.
+{37572}{37675}L'homme au marteau pisse un dollar.|Les valets y vont.
+{37712}{37767}Un seau de peinture rouge.
+{37775}{37838}Ça veut dire quoi|si t'as pas le roi.
+{37848}{37911}Un gagnant par donne.|Qui mise gros touche gros.
+{37921}{37974}Ne me laissez pas moisir sur place.
+{38002}{38099}Tu prends les pourliches ?|La musique rapporte pas ?
+{38137}{38209}Et ce bon boulot|que tu devais avoir ?
+{38222}{38264}Donne un paquet neuf.
+{38271}{38334}A cette table|c'est moi qui décide de ça.
+{38344}{38407}Tu me prêtes un sale dollar ?
+{38414}{38456}Retourne à la porte, cloche !
+{38463}{38563}Je n'obéis qu'aux ordres de Frankie.|- Arnaqueur à la manque !
+{38576}{38643}Je suis régulier|comparé à certains.
+{38654}{38726}Y a pas de camés de 14 ans|qui m'attendent.
+{38769}{38809}Tu veux mourir ?
+{38875}{38938}On y va, faits comme des rats.
+{39180}{39225}Je cacherai la prochaine.
+{39305}{39332}Désolé.
+{39341}{39426}C'est signe de quoi|quand le donneur a la tremblote ?
+{39489}{39537}Remplace-moi un peu.
+{39620}{39675}Bon, une nouvelle donne.
+{39701}{39791}Et on y va faits comme des rats.
+{40240}{40348}Tu sais ce qui te ronge ?|Tu cries partout que t'as décroché.
+{40358}{40470}Alors t'as honte de penser|à ce que tu penses. Pas vrai ?
+{40504}{40584}Tu sais que je parle pas|de mes clients.
+{40608}{40675}Pourquoi lutter La Distribe ?
+{40697}{40774}Viens chez moi.|Qu'est-ce t'en dis ?
+{40928}{40968}Je reste dans le coin.
+{42299}{42392}Je passais et on m'a dit|que tu travaillais ici.
+{42411}{42463}Ça fait un bout de temps.
+{42470}{42495}Ça marche ?
+{42517}{42600}Pas mal. Je prends mon pourcentage|sur le jeu et la boisson.
+{42609}{42649}Vous vous décidez ?
+{42658}{42718}Un rye. Prends quelque chose.
+{42739}{42784}Un rye.|- Deux doubles.
+{42802}{42852}T'avais pas besoin Frankie.
+{42861}{42939}Tu vas pas perdre de l'argent|en causant avec moi.
+{42950}{43043}C'est pas de la perte.|J'attendais que tu viennes me voir.
+{43088}{43135}Tu sais ce que c'est.
+{43142}{43205}Sûr. T'es occupé et tout.
+{43404}{43444}Santé Molly-O !
+{43495}{43590}Molly-O, j'ai pas entendu ça|depuis que t'es parti.
+{43709}{43774}T'as bonne mine.|- Ça va mieux.
+{43800}{43840}Tu deviens batteur ?
+{43855}{43935}J'ai rendez-vous|avec un type demain.
+{43945}{43988}C'est chouette.
+{43995}{44060}Je crains de ne pas avoir le boulot.|- Mais si !
+{44070}{44143}Je ne joue pas assez bien.|- Je suis sûre que si.
+{44154}{44242}T'as toujours tambouriné|sur les tables en sifflant. Et bien.
+{44284}{44362}Je le pense.|T'as le rythme dans la peau.
+{44402}{44502}J'ai pensé à prendre|un nom de scène: Jack Duval.
+{44521}{44576}Jack Duval !|C'est très classe.
+{44586}{44611}N'est-ce pas ?
+{44617}{44685}C'est un chouette nom.|Et il te va.
+{44693}{44773}Mon type|il s'occupe de grands orchestres.
+{44784}{44864}Si ça marche c'est le smoking.|- Ça t'ira bien.
+{44872}{44922}J'ai déjà le tambour.
+{44931}{45011}J'ai besoin d'un dollar.|Aboule mon petit !
+{45342}{45382}J'étais seule.
+{45415}{45475}J'avais besoin de quelqu'un.
+{45493}{45556}Lui aussi avait besoin|de quelqu'un.
+{45590}{45650}On a tous ce besoin.
+{45668}{45710}Tu peux avoir mieux.
+{45728}{45766}Tu crois Frankie ?
+{46012}{46132}J'ai beaucoup réfléchi.|A toi et moi. Et à Zosh.
+{46170}{46308}Ça n'aurait pas marché entre nous|avec elle là-haut dans sa chaise.
+{46347}{46450}Ah, si elle m'aimait pas,|si elle était pas si fragile.
+{46496}{46608}Mais on peut pas se payer la tête|de quelqu'un comme ça.
+{46645}{46713}Alors je ne suis pas venu plus tôt.
+{46726}{46783}Et je ne reviendrai plus.
+{46801}{46849}Tu comprends ?
+{46880}{46953}Bien sûr. Je comprends.
+{47065}{47172}T'es une chic fille Molly.|- Oui, vraiment chic.
+{47416}{47491}Bonne chance pour demain !
+{47734}{47809}Vous n'êtes pas le premier|avec un mot du Dr Lennox.
+{47817}{47885}J'en ai déjà placé beaucoup.|- Il m'a dit...
+{47895}{47998}J'aime le faire. Comprenez|que ce n'est pas de la charité.
+{48008}{48063}Vous avez déjà joué|en professionnel ?
+{48072}{48147}A Lexington.|- Vous passerez des auditions.
+{48159}{48251}Un chef d'orchestre voudra s'assurer|que vous savez jouer.
+{48263}{48333}Bien entendu.|- Très bien alors.
+{48344}{48409}Mais il y a encore une chose|Frankie.
+{48417}{48485}Il y a beaucoup de gens comme vous.
+{48493}{48605}Ils veulent bien faire mais|ils sont faibles. Ils me déçoivent.
+{48615}{48705}Je me décarcasse.|Je me porte garant d'eux.
+{48714}{48809}Et ils retournent à leur dada.|Ça me fait du tort.
+{48818}{48906}Pas moi. Vraiment, je...|- Je vous le dis parce que...
+{48922}{49002}...si un homme me déçoit|c'est terminé.
+{49014}{49121}Même s'il revient à genoux.|Et c'est arrivé, croyez-moi.
+{49134}{49186}Je ne vous décevrai pas.|- Bien.
+{49196}{49293}Je vous téléphonerai, voyons,|vendredi en huit. Vers midi.
+{49302}{49337}D'accord ?
+{49363}{49398}Merci beaucoup.
+{49631}{49729}Tu préfères mes cheveux comme ça|ou ramenés sur le haut ?
+{49806}{49901}Réponds ! C'est pas ma faute|s'il ne téléphone pas.
+{49912}{50007}Je t'avais dit|de ne pas trop compter sur ce type.
+{50041}{50146}Il a dit midi et il est 18 heures.|Tu crois encore qu'il va appeler ?
+{50158}{50208}Tu m'étonnes vraiment !
+{50340}{50428}Je ne veux pas que tu te ronges|les sangs, c'est tout.
+{50439}{50509}Oublie-le comme lui a dû le faire.
+{50517}{50595}Il a mieux à faire|que se soucier de toi.
+{50603}{50718}Tu crois qu'il ne dort pas|à cause de Frankie Machine ?
+{51270}{51302}Une minute.
+{51312}{51354}C'est pour vous.
+{51546}{51638}Docteur Dominowski ?|- Je suis venu dès que j'ai pu.
+{51846}{51896}Comment va ma petite dame ?
+{51903}{51966}Le docteur demande|comment je vais.
+{51974}{52074}On va vous faire vous sentir|bien en cinq secondes.
+{52091}{52119}Qu'est-ce que c'est ?
+{52125}{52225}Un manipulateur électrique|d'épine dorsale.
+{52237}{52277}Et ça inverse le sang.
+{52287}{52309}Y a un truc ?
+{52318}{52428}Truc ? Sachez mon frère|que je suis membre de l'association
+{52440}{52553}d'Hydrologie Médicale,|de Psychologie et de Cure Divine.
+{52627}{52662}Mains froides.
+{52682}{52744}Mauvaise circulation.|Faut manger épicé.
+{52755}{52822}Poivre, sauces relevées.|- Cornichons ?
+{52830}{52875}Pas plus de trois par jour.
+{52966}{53069}Penchez-vous,|on va vous vibrer les vertèbres.
+{53127}{53200}J'ai été blessée à la colonne.
+{53211}{53296}Je le vois. Les ligatites|des vertèbres sont comprimées.
+{53305}{53398}J'ai eu un accident de voiture|il y a trois ans, le 11 mai.
+{53413}{53463}C'était dans les journaux.
+{53592}{53685}C'est la voiture accidentée.|C'est moi qui suis couchée là.
+{53696}{53771}Mon mari conduisait. Il était soûl.
+{53782}{53894}J'ai été si amochée que je ne peux|plus marcher ni danser ni rien.
+{53904}{53977}Il m'a épousée là,|dans la chapelle de l'hôpital.
+{54264}{54319}Vous vous sentez mieux ?
+{54355}{54392}Bien mieux.
+{54863}{54928}J'ai le chien pour Zosh.
+{54959}{55044}Il boit de la bière.|C'est vraiment un champion.
+{55056}{55081}De quoi ?
+{55088}{55203}De consigne. Il ramène les vides.|Tu vas voir: Allez beauté !
+{55213}{55243}Va chercher.
+{55315}{55395}Ça c'est un chien.|Tu peux te faire du fric avec.
+{55405}{55470}Il est bon|pour attraper les écureuils.
+{55481}{55548}Il leur fait cracher|leurs cacahuètes.
+{55556}{55624}Mais il n'en chasse qu'une espèce.
+{55634}{55732}Elle se fait rare à Chicago|vu que le climat a changé.
+{55742}{55839}Alors il traîne en attendant|que le climat se remette.
+{55851}{55953}Il a du cœur. La tête lui tourne|mais il essaye encore.
+{56155}{56190}Monte-le à Zosh.
+{56197}{56255}Je peux venir avec toi ?
+{56603}{56646}Minute La Distribe !
+{58300}{58332}Cinq dollars.
+{58415}{58470}La dernière fois c'était deux.
+{58480}{58558}Ça fait plus de six mois|que t'es parti.
+{58579}{58642}Ils montent toujours les prix.
+{58848}{58953}S'ils font ça je vais devoir|me trouver autre chose.
+{59022}{59125}La guenon ne meurt pas La Distribe.|Elle ne meurt jamais.
+{59183}{59233}T'as beau la chasser.
+{59266}{59329}Elle revient toujours.
+{59928}{60051}La guenon finira par mourir.|Son petit jeu est cuit.
+{60085}{60138}Pour de bon.
+{60200}{60238}Bien sûr.
+{60265}{60292}Bien sûr.
+{60547}{60657}Regarde-le boire Frankie.|C'est pas mignon ?
+{60718}{60780}Il a une de ces soifs.
+{60939}{61054}T'attends encore qu'il appelle ?|Tu ferais mieux de l'oublier.
+{61080}{61163}Le médecin m'a dit|qu'on pouvait compter sur M.Lane.
+{61174}{61292}Un médecin m'a bien dit que|je serais debout en un rien de temps.
+{61349}{61439}T'as pas vu mes baguettes|de tambour quelque part ?
+{61450}{61573}Tu sais ce que je veux|pour le chien ? Un petit manteau.
+{61588}{61665}Ecossais peut-être.|Ou alors tout jaune.
+{61685}{61748}Où sont mes baguettes Zosh ?
+{61787}{61827}Qu'est-ce qu'elles font là ?
+{61834}{61869}T'as aimé hein ?
+{61876}{61976}Je ne les mets jamais là-haut.|- T'as tout bu hein ?
+{62169}{62207}C'est moi qui les ai mises là.
+{62216}{62291}Je me suis levée, j'ai marché|et je les y ai mises !
+{62308}{62413}C'est peut-être Vi en rangeant.|Arrête de me chercher !
+{62628}{62753}Frankie, tu ne vas pas continuer|à te faire du mouron.
+{62779}{62877}Y a un million de batteurs|qui ne trouvent pas de boulot.
+{62888}{62961}Penses-y, ça te remontera.
+{62972}{63012}J'y manquerai pas.
+{63123}{63171}Quel bruit !
+{63507}{63577}C'est pour quoi ça Zosh ?|- Quoi ?
+{63598}{63741}C'est Vi qui nous l'avance.|On lui en doit plein.
+{63775}{63823}T'en as ?
+{63887}{63949}Je ne sais pas|ce qu'on fait de l'argent.
+{64098}{64166}T'as pas assez de cartes|chez Schwiefka ?
+{64174}{64239}C'est pour tuer le temps.|C'est tout.
+{64249}{64309}Et mon temps à moi alors ?
+{64342}{64457}T'as dit que c'était pour quoi ?|- Je reste là. Tu me parles pas.
+{64499}{64569}Y a de la bière ?|J'en voudrais.
+{64603}{64716}La bière rend bouffi|si on se bouge pas. Tire une carte.
+{64733}{64841}Rien n'est bon pour moi.|A 25 ans j'ai l'air d'une vieille.
+{64853}{64921}C'est ma faute si je bouge pas ?
+{64931}{64969}Tu veux tirer une carte ou non ?
+{64978}{65096}Je ne veux pas tirer de carte.|Je veux... juste un peu...
+{65138}{65168}Un peu de quoi ?
+{65175}{65212}Un peu...
+{65268}{65345}Un peu de bière, d'amusement,|de n'importe quoi !
+{65354}{65439}Je ne peux plus danser,|ni nager, ni boire de la bière.
+{65451}{65511}Je ne sais même plus|les marques qu'il y a.
+{65536}{65599}Y a quelles marques maintenant ?
+{65651}{65714}Bon, fais comme si je n'étais pas là.
+{65721}{65788}Tu aurais bien voulu|que je sois morte cette nuit-là.
+{65800}{65852}Je ne voudrais rien de pareil.
+{65888}{65983}Je ne parle pas, tu râles !|Je parle, tu me rembarres !
+{65999}{66052}Je sais plus où j'en suis Zosh.
+{66140}{66195}Ça me donne la migraine.
+{66211}{66316}Faut que je m'exerce|pour être prêt le jour d'un boulot.
+{66328}{66366}Foutu boulot !
+{66372}{66447}Va t'exercer chez ta copine !
+{66643}{66680}Comment ?
+{66690}{66777}Descends lui filer à elle|la migraine !
+{66865}{66940}Qu'est-ce que tu dis Zosh ?|Tu sais ce que tu dis ?
+{66962}{67039}Prends pas ton air innocent.
+{67050}{67120}Je ne lui ai pas dit deux mots|depuis mon retour.
+{67129}{67179}Je ne sais pas ce qui se passe|tu crois ?
+{67188}{67213}Pas deux mots !
+{67243}{67293}J'en connais plein.
+{67417}{67482}Arrête ! Ça suffit.
+{67500}{67618}Va faire ton boucan chez|cette traînée. Pourquoi t'y vas pas ?
+{67675}{67722}Eh bien d'accord.
+{67957}{68027}Je ne le pensais pas !
+{68243}{68305}J'ai 20 cents pour une bière.|M'en faudrait 15.
+{68313}{68366}En voilà... 6 de plus.
+{68406}{68533}Je ne supporte plus les migraines|que mon jules me donne.
+{68543}{68653}Ce qu'il préfère c'est arracher|les dates du calendrier.
+{68663}{68758}Le regarder doit être ma grosse|distraction du samedi soir.
+{68770}{68850}S'il perd le contrôle,|il arrache toute une semaine.
+{68861}{68909}En gémissant comme un chevreau.
+{68918}{69013}Ce qui remplirait ta vie|c'est un chien.
+{69033}{69156}Demande à un client satisfait.|Ton chien il te change la vie...
+{69166}{69193}Ah oui alors !
+{69260}{69305}Faut que je te voie.
+{69343}{69415}Faut que je te voie.|- Après ce point.
+{69426}{69471}Je te parie 6 contre 5.
+{69900}{69955}Ça va Frankie ?
+{69968}{70023}Ça a marché pour le boulot ?
+{70041}{70106}Le boulot de batteur ? Bien, bien.
+{70117}{70210}Pas tellement.|Il m'a laissé tomber.
+{70237}{70300}Il avait promis de m'appeler mais...
+{70310}{70338}Dommage.
+{70354}{70414}Y a un million d'autres batteurs.
+{70448}{70505}Et s'il avait perdu ton numéro ?
+{70513}{70546}Ça arrive.
+{70554}{70654}Il attend peut-être|que tu le joignes toi.
+{70674}{70722}Il va me trouver crampon.
+{70742}{70835}Pourquoi ? Un bon batteur|ça court pas les rues.
+{70867}{70925}Vas-y Frankie, appelle-le !
+{70987}{71027}Appelle-le.
+{71398}{71443}Tu viens voir le match Molly ?
+{71492}{71575}J'ai pas envie.|Vas-y toi. Je t'attendrai.
+{71748}{71851}Oui, studio B, lundi matin.|Merci M.Lane ! Au revoir.
+{71918}{71980}Lundi !|J'ai une audition lundi !
+{71988}{72053}Je dois m'inscrire au syndicat.|- Tant mieux.
+{72064}{72134}Il avait vraiment perdu mon numéro.
+{72144}{72234}Et j'allais tout laisser tomber !|Sans toi je l'appelais pas.
+{72246}{72271}Mais si.
+{72279}{72352}J'ai une audition avec|un vrai orchestre. Moi à la télé !
+{72363}{72456}Exerce-toi bien.|- Je vais en crever mes caisses.
+{72465}{72590}Mais faut que je trouve où.|Zosh ne supporte pas le bruit.
+{72665}{72735}Je ne pourrais pas mettre|ma batterie chez toi ?
+{72746}{72816}Et passer de temps en temps ?
+{72845}{72920}Pourquoi pas ?|Molly, pourquoi pas ?
+{72996}{73051}Johnny ne comprendrait pas.
+{73061}{73111}Et qu'est-ce qu'il ferait ?
+{73121}{73173}C'est pas la question Frankie.
+{73206}{73279}Il ne peut rien faire des tas de fois.
+{73290}{73348}Mais c'est ce que|ça peut lui faire à lui.
+{73357}{73427}Je suis tout ce qu'il a.|Je ne veux pas le blesser.
+{73437}{73492}Molly, je vais pleurer.
+{73499}{73589}Tu ne sais pas Frankie.|Un type comme lui...
+{73624}{73677}Des fois, quand on est seuls...
+{73687}{73757}Il pleure ? C'est un poivrot !
+{73768}{73828}A 100% un maniaque de l'ivresse.
+{73838}{73916}Chacun a sa manie.|Lui c'est l'alcool, c'est tout.
+{73926}{73979}Je t'en prie Molly. Molly-O.
+{73989}{74042}Et puis c'est pas tout.
+{74091}{74163}Je ne veux pas|qu'on recommence nous deux.
+{74176}{74266}C'était vrai|quand tu disais que c'était mal.
+{74315}{74397}Avant que tu partes|je voulais déjà...
+{74450}{74535}Ça va pas. Ça n'a jamais marché,|ça ne marchera jamais.
+{74546}{74611}Essayons. Ça marchera un jour.
+{74645}{74715}Toute ma vie a été "Un jour..."
+{74757}{74797}Et encore, et encore.
+{74804}{74911}J'ai une batterie. Je vais avoir|un boulot. C'est pas "encore".
+{74924}{75014}J'aurai du fric pour guérir Zosh.|Où est le "encore" là ?
+{75044}{75094}Me ferme pas la porte. J'essaye.
+{75102}{75167}Tu veux me voir ?|- Non.
+{75191}{75246}Comment ça non ?
+{75438}{75531}Tiens, ce qu'on te doit !|- Vi a pas confiance en moi.
+{75542}{75627}Dis-lui que je suis|un arnaqueur honnête.
+{75691}{75766}Je pense que tu pourrais venir.
+{75854}{75902}Merci Molly-O.
+{78074}{78137}Ça te paraît bien ?|- Très bien.
+{78235}{78300}T'aurais dû m'entendre|sur "Perdido".
+{78311}{78396}C'était bien ?|J'espère que les voisins ont aimé.
+{78428}{78478}Je suis bien avec eux.
+{78489}{78596}Ils n'arrêtent pas de cogner|pour dire qu'ils apprécient.
+{78620}{78665}Mais ça ne me monte pas à la tête.
+{78672}{78782}Continue à jouer à 5 heures du matin,|tu vas voir ta tête.
+{78911}{78981}Pour un sourire|je te refile mon autographe.
+{78989}{79069}Tu ne lutteras pas|avec les minettes pour m'avoir.
+{79078}{79160}Des minettes ?|Elles te courront après !
+{79299}{79327}Fatigué ?
+{79351}{79399}Agréablement fatigué.
+{79408}{79471}J'étais bien cette nuit.
+{79516}{79608}J'irai au syndicat.|- Schwiefka te prête le fric ?
+{79617}{79645}Lui ?
+{79669}{79737}Alors qui ?|- Personne ne m'en prête.
+{79745}{79815}J'engage la batterie.|- Frankie, non !
+{79825}{79925}J'ai tout prévu. Au boulot|on m'avancera de quoi la dégager.
+{79937}{79992}Et d'ici là une planche.
+{80000}{80050}Schwiefka te prêterait.
+{80057}{80102}Je l'ai même pas vu.
+{80109}{80196}T'as pas travaillé ?|- Je suis resté ici.
+{80222}{80275}Fini le poker Molly.
+{80295}{80355}T'aurais pu attendre quelques jours.
+{80386}{80426}Je voulais arrêter.
+{80446}{80499}Et arrêter autre chose.
+{80647}{80699}C'est dur ?
+{80777}{80812}Pas trop.
+{80938}{80990}Fallait pas replonger.
+{81001}{81066}Pourquoi j'ai commencé ?
+{81112}{81185}On se lance pour le pied.
+{81256}{81341}Louie m'a fait|mon premier fixe gratis.
+{81360}{81460}J'ai cru que j'arrêterais facilement.|Alors j'en ai pris.
+{81470}{81527}Encore et encore.
+{81574}{81679}Un jour Louie n'était pas là.|Je l'ai cherché comme un fou.
+{81730}{81770}J'étais malade.
+{81822}{81865}Tellement malade.
+{81910}{81975}Malade à en mourir.
+{81997}{82052}J'ai su que j'étais accro.
+{82082}{82165}J'avais une guenon de 40 livres|sur le dos.
+{82223}{82321}Pour supporter un poids pareil|on recourt au fixe.
+{82528}{82570}Pleure pas.
+{82705}{82775}Moi encore, j'ai du pot.
+{82801}{82881}J'ai décroché.|Je vais pouvoir redécrocher.
+{82900}{82975}J'ai eu mon dernier fixe. Vrai !
+{83043}{83083}Dis-moi un peu...
+{83092}{83162}J'aurai plein de minettes ?
+{83238}{83286}Tu seras si cabot !
+{83363}{83448}Je trouverai un boulot à mon pote|dans l'orchestre.
+{83489}{83624}Quand j'aurai du fric|je mettrai Zosh à l'hosto.
+{83638}{83723}Pour qu'elle puisse de nouveau|marcher et danser.
+{83750}{83783}Et alors...
+{86233}{86303}Qui c'est ?|- Schwiefka, ouvre !
+{86332}{86374}Une minute.
+{86532}{86582}Très bien, où est-il ?
+{86608}{86668}Où est Frankie ?|- Qu'est-ce qu'il a fait ?
+{86676}{86731}Tu le sais ! Il m'a lâché !
+{86738}{86810}Sans prévenir !|L'autre cloche est venu le dire.
+{86818}{86891}Il a fallu que je donne !|Où est-il ?
+{86929}{86962}Il était pas au poker ?
+{86970}{87035}Je le chercherais s'il était venu ?
+{87043}{87111}Il bouffe mon pain depuis six ans.
+{87121}{87211}Lui en taule j'te file du fric.|Sorti il récupère son boulot.
+{87220}{87265}Pourquoi je la fermerais ?
+{87276}{87381}J'ai eu du mal à convaincre|Williams et Markette de venir.
+{87392}{87502}S'ils viennent c'est pour Frankie.|Ils sont friqués et ils en veulent.
+{87512}{87565}On peut ramasser le paquet.
+{87580}{87633}Et tu perds La Distribe !
+{87651}{87771}Quand ils viendront La Distribe|sera là. Ou un joueur aussi bon.
+{87783}{87881}Y en a pas. Fallait lui offrir|plus d'argent, un pourcentage.
+{87890}{87945}Sur la part à qui ?|- Quelle différence ?
+{87955}{88013}On va pas chipoter.
+{88080}{88118}Sur ta part !
+{88307}{88377}Regarde !|Je suis musicien.
+{88400}{88465}Et ça te fait quoi ?|- Eh bien...
+{88499}{88571}Retiens-moi|ou je m'envole comme un ballon.
+{88584}{88629}Je suis musicien !
+{88664}{88692}Où on va ?
+{88700}{88750}T'acheter un truc.
+{88758}{88783}Mais non.
+{88789}{88869}Il me faut claquer du fric.|Tu veux ça en vert ?
+{88922}{88982}Ou une télé couleur ?
+{89047}{89094}Vise-moi ça.
+{89112}{89187}Rien que pour la cuisine.|Qui voudrait de ça ?
+{89240}{89285}C'est cloche non ?
+{89294}{89332}Pas mal hein ?
+{89349}{89416}C'est quoi son métier à lui ?|- Lui ?
+{89456}{89494}Il gagne bien.
+{89503}{89573}Regarde comment il l'a habillée.|Cette cuisine !
+{89581}{89621}Il l'aide pas.
+{89628}{89708}Il ne l'a même pas épousée.|Elle n'a pas de bague.
+{89719}{89779}Elle l'enlève pour cuisiner.
+{89787}{89847}Lui est fatigué du boulot.
+{89857}{89935}Qu'il reste assis|mais il pourrait lui parler un peu
+{89943}{90028}au lieu de lire sa revue.|Moi je lui parlerais.
+{90042}{90082}Tu lui dirais quoi ?
+{90101}{90179}Ça a marché aujourd'hui ?|Qu'est-ce qu'on mange ?
+{90191}{90271}On mange du steak|et tout a bien marché.
+{90283}{90313}Du steak ? Bien.
+{90321}{90399}Tu veux sortir après dîner ?
+{90408}{90490}Si on restait ici|pour écouter de la musique ?
+{90501}{90576}Oui, je préfère.
+{90613}{90671}Restons écouter de la musique.
+{90705}{90752}Vivement lundi.
+{90878}{90966}Où t'étais ? Schwiefka est passé.|Il dit que tu l'as plaqué.
+{90983}{91011}Tu l'as plaqué ?
+{91019}{91092}J'ai une audition lundi.|Si mon jeu convient j'ai le boulot.
+{91102}{91180}Dis à Schwiefka que tu blaguais,|que tu donneras.
+{91191}{91294}Si on n'aimait pas ton jeu ?|- Vise ma carte syndicale.
+{91335}{91392}Pourquoi tu veux tout changer ?
+{91402}{91452}Pourquoi pas continuer ?
+{91465}{91520}Pourquoi plaquer le poker ?
+{91527}{91614}Comment vivre sans argent ?|- Y en aura dès lundi.
+{91626}{91721}Et s'ils annulent l'audition ?|C'est pas un truc sûr.
+{91731}{91848}Retourne chez Schwiefka|et oublie ton fameux boulot !
+{91867}{91964}C'est fini le poker Zosh,|je ne veux pas prendre de risques.
+{91976}{92058}Si les flics m'alpaguent|M.Lane me laissera tomber.
+{92070}{92115}Et je ne pourrai plus jouer.
+{92124}{92209}Tu joueras si Schwiefka|te casse les bras ?
+{92221}{92276}Continue.|- Il en a parlé ici même.
+{92284}{92344}Il a voulu me gifler aussi.
+{92372}{92442}Faut laisser les choses|comme avant !
+{93338}{93403}Espèce de misérable !
+{93416}{93449}Je plaque si je veux.
+{93458}{93521}Markette et Williams|viennent demain !
+{93530}{93560}Laisse-moi !
+{93573}{93678}Je vais te laisser. Dans une ruelle,|avec les chats autour !
+{93688}{93776}Assez Schwiefka ! S'il veut pas|donner, il veut pas donner.
+{93785}{93867}De quoi tu parles ?|- Pas ce ton-là avec moi !
+{93901}{93969}Tu ne le forceras pas,|c'est pas un esclave.
+{93985}{94053}T'en as profité toutes ces années.
+{94089}{94142}Ça ne l'intéresse plus. Pas vrai ?
+{94151}{94244}Très bien !|Markette ? Williams ? Connais pas !
+{94255}{94368}L'argent ? On crache dessus !|Je m'en lave les mains.
+{94443}{94486}C'est un gros porc, non ?
+{94529}{94574}On peut pas lui en vouloir.
+{94584}{94697}Perdre des gros poissons|parce qu'un donneur vous plaque
+{94709}{94757}c'est dur à avaler.
+{94769}{94864}Parce que t'es le meilleur !|- Tu vas me forcer Louie ?
+{94915}{95010}On a déjà tenté, non ?|- Non, je suis un bleu ici.
+{95042}{95130}C'est tellement demandé ?|Juste une nuit...
+{95139}{95236}Aide-nous à faire notre pelote.|Le soleil brillera pour tous.
+{95249}{95301}200 dollars, ça te servirait ?
+{95312}{95377}Peut-être même 250.
+{95444}{95519}250 dollars, ça en paye|des notes de médecin.
+{95582}{95604}Demain ?
+{95619}{95679}Laisse-le se décider.
+{95730}{95800}D'accord !|Mais juste pour une nuit.
+{95812}{95867}Gain ou perte, j'arrête au matin.
+{95874}{95971}C'est toi qui donnes.|Je suis soulagé. Je peux dormir.
+{95986}{96044}Prends soin de ton bras !
+{96088}{96133}Quel numéro !
+{96166}{96266}Tu faisais monter les prix|ou t'as vraiment un boulot ?
+{96361}{96419}S'ils veulent de moi.
+{96459}{96514}Tu te ronges ?
+{96538}{96571}T'es nerveux ?
+{96647}{96682}On attend quoi ?
+{96689}{96787}Dis rien, c'est déjà assez dur.|- Je sais.
+{96803}{96861}Moi aussi|j'ai dû me défaire d'une manie.
+{96871}{96954}Non, non...|Les bonbons, les douceurs.
+{96966}{97004}Je m'en gavais.
+{97013}{97096}A l'armée on m'a trouvé|du sucre dans le sang.
+{97106}{97181}J'arrêtais les bonbons|ou je crevais.
+{97224}{97269}Alors j'ai arrêté.
+{97283}{97361}Mon cœur saigne pour toi.|C'est horrible.
+{97375}{97412}Ça l'était.
+{97424}{97492}Cette sensation de manque.
+{97526}{97571}Tu connais ça toi.
+{97580}{97663}Je veux dire|t'as un seul truc en tête.
+{97672}{97714}T'y penses sans arrêt.
+{97721}{97766}T'en sais des choses !
+{97773}{97896}Tu sais ce que je me suis dit ?|Les bonbons, fini pour toujours.
+{97911}{97971}Toujours commence demain.
+{97979}{98084}Une fois dans ma vie je vais|m'empiffrer jusqu'à plus soif.
+{98094}{98196}J'ai emporté pour 18,23 dollars|de bonbons dans ma chambre.
+{98210}{98278}J'en ai mangé toute la nuit.
+{98339}{98466}J'étais malade, je suais,|mais je m'empiffrais toujours.
+{98513}{98636}Et quand je pense aux bonbons|je me dis "Te plains pas vieux.
+{98649}{98719}Y a un jour où t'as fait le plein."
+{98779}{98832}Tu me comprends ?
+{99935}{99968}Ça va Molly-O ?
+{99987}{100040}Très bien. Mais où tu étais ?
+{100071}{100111}Deux ryes.
+{100133}{100191}T'es pas venu travailler ta batterie.
+{100201}{100261}Tu parles ! Je vais les épater.
+{100273}{100333}Tout dans le poignet tu vois.
+{100340}{100425}Ferme comme un roc.|Il fait ce que je veux.
+{100514}{100582}Tiens !|Garde la monnaie mon gars.
+{100627}{100674}T'as une cigarette ?
+{101087}{101182}T'y as repiqué Frankie.|Pourquoi ? Pourquoi ?
+{101202}{101240}Non, écoute...
+{101273}{101308}Pourquoi ?
+{101346}{101391}Pas maintenant.|- Tire-toi !
+{101403}{101468}Fiche le camp ! Ecoute-moi...
+{101478}{101536}Je veux te parler.|- Tire-toi !
+{101551}{101624}Arrête ! Dis-lui toi !
+{101752}{101812}On te vire|si tu sais pas t'y prendre.
+{101822}{101952}Laissez-moi tous les deux !|Assez ! J'en peux plus !
+{102591}{102618}Ecoute-moi !
+{102716}{102768}Ouvre la porte !
+{102779}{102829}Vas-tu ouvrir ?
+{102942}{102975}Je veux te parler.
+{103172}{103200}Ouvre !
+{103578}{103613}Où tu vas ?
+{103645}{103685}Où tu vas ?
+{103743}{103785}Laisse-moi t'expliquer...
+{103792}{103877}Ecoute-moi Molly.|Je vais t'expliquer.
+{103889}{103911}Où vas-tu ?
+{103931}{103993}Dis-moi où tu vas. Molly !
+{105108}{105135}Nettoie le crachoir !
+{105144}{105219}C'est fait et dis-moi s'il te plaît.
+{105230}{105285}Ou j'en achète un|et je me mets à mon compte.
+{105297}{105369}Qu'est-ce que t'en penses|Frankie ? Rien ?
+{105432}{105534}Je te rappelle qu'il y a 250 dollars|pour moi. Peut-être plus.
+{105546}{105598}T'as ma parole.
+{105812}{105852}Ça va La Distribe ?
+{106319}{106344}C'est ici ?
+{106351}{106441}Erreur, vieux. C'est la compagnie|des Courroies Sans Fin.
+{106453}{106505}Vous voulez une courroie ?
+{106512}{106560}Entrez, on commence. Ça va ?
+{106567}{106602}Bien. Et toi ?
+{106642}{106752}Portier à la manque !|- Ça te va bien de dire ça.
+{106770}{106825}Vous vous connaissez.
+{106864}{106909}C'est toi Machine ?
+{106918}{106958}L'homme au bras d'or !
+{106969}{107054}Voyons si tu vas pouvoir|me prendre ça.
+{107350}{107407}On y va faits comme des rats.
+{107959}{108016}Pas de dames ici tu sais bien.
+{108029}{108084}Frankie est là ?|- Qu'est-ce qu'il y a ?
+{108094}{108186}Zosh s'est engueulée avec Frankie.|Elle dort pas.
+{108195}{108270}Elle est comme folle. Il est là ?|- Il est occupé.
+{108282}{108384}Je voulais juste savoir,|je l'ai cherché partout.
+{108393}{108448}Il est bien là.|Faut que j'y retourne.
+{108459}{108544}Si tu peux|dis-lui qu'elle s'inquiète.
+{108637}{108732}Trois as, deux paires,|quinte flush possible.
+{108741}{108776}Deux cents dollars.
+{108785}{108840}Et 200 de mieux.
+{108887}{108984}Je suis les 400 dollars|et je relance de 300.
+{108998}{109028}A toi les as !
+{109059}{109146}Je ne sais pas. Vraiment pas.|- On voit déjà tes trois as.
+{109158}{109263}Il a peut-être une flush à la reine.|- Je te dis qu'il bluffe !
+{109272}{109324}Il m'a déjà bluffé ce soir.
+{109332}{109387}T'essayerais pas encore dis ?
+{109418}{109448}Paye pour voir !
+{109462}{109527}Paye. C'est un artiste du bluff.
+{109548}{109580}Je vois.
+{109600}{109660}Je vois et je relance de 500 !
+{109689}{109734}Je sais ce que je fais.
+{109762}{109799}Je vois et...
+{109840}{109915}...la maison ajoute 500 de plus.
+{109925}{110015}Je t'avais dit qu'il l'avait !|- La ferme ! Je réfléchis.
+{110028}{110065}C'est à toi !
+{110074}{110106}Y a pas le feu.
+{110144}{110184}A toi, deux paires !
+{110220}{110305}On n'est pas aux pièces.|On a le droit d'étudier son jeu.
+{110325}{110375}Paye ou couche-toi !
+{110395}{110465}Tu penses !|Il l'a ! Paume pas ton fric.
+{110476}{110523}Je sais ce que je fais.
+{110779}{110821}T'avais quoi ?
+{110838}{110893}T'as pas payé pour voir.
+{110909}{110966}Rien ! Deux saloperies de 9 !
+{110979}{111062}Avec ton full|tu t'es fait bluffer par deux 9.
+{111077}{111137}Si tu refais ça ici|tu joues plus.
+{111148}{111248}Excuse-le ce coup-ci.|Ça lui a coûté un max.
+{111325}{111387}T'es bon La Distribe.|Peut-être trop bon.
+{111398}{111443}Tu veux dire quoi ?
+{111463}{111516}Assez parlé, donne !
+{111523}{111568}Fais sortir la fumée !
+{111609}{111654}"Trop" veut dire quoi ?
+{111664}{111709}Question de pointure.
+{111817}{111872}On arrête ! Il fait jour.
+{111883}{111918}Dis-lui de donner !
+{111924}{111991}On finit toujours à cette heure-ci.|- Une dernière.
+{112003}{112070}Mon fric.|- Siffle ton donneur !
+{112097}{112129}Alors ?
+{112139}{112186}Non ! Je veux mon dû.|- Juste une heure.
+{112196}{112263}Je vais donner.|- On veut Machine.
+{112274}{112346}Je peux vous montrer|un truc ou deux. Allons-y !
+{112358}{112418}Mon fric ?|- T'auras ton blé à la fin.
+{112427}{112487}Quand on aura compté.|Rentre ! Tu l'auras.
+{112498}{112570}C'est parti. Crache.|- Ce sera 100.
+{112602}{112702}Cent dollars... On y va.
+{113702}{113739}Bonjour Frankie.
+{115813}{115863}Louie est là ?|- Il fait une apoplexie.
+{115872}{115947}Qu'est-ce qu'ils passent|à Schwiefka !
+{115955}{116005}Ils nous tuent. Donne !
+{116016}{116081}Je ne viens pas pour donner.|Faut que tu t'occupes de moi.
+{116089}{116144}Pas de donne, pas de fixe.|- Et mon argent ?
+{116151}{116226}Il nous faut tout le fric.|- Tu me le dois.
+{116237}{116307}Porte plainte.|- Louie, donne-moi une dose.
+{116318}{116420}Travaille juste quelques heures.|- Faut que je sois en forme demain.
+{116429}{116519}Donne quelques heures|et je te garantis la santé.
+{116531}{116598}S'il te plaît, maintenant.|- Va te faire voir !
+{116610}{116637}Une seconde.
+{116828}{116900}Rends son argent à Louie.|Il attend.
+{116938}{117030}C'est pénible pour tout le monde.
+{117040}{117133}Dis à Louie ce qu'il nous répète|"On n'a rien pour rien."
+{117144}{117184}Pas même un sou ?
+{117201}{117244}Et là-haut ?|- Quelle partie !
+{117253}{117343}Schwiefka fond comme une bougie.|- La Distribe perd ?
+{117355}{117390}Avec son bras d'or ?
+{117399}{117492}Te fais pas de bile pour lui.|Ça fait qu'un jour et demi.
+{117503}{117558}Il a des doigts si habiles !
+{117569}{117636}Un coup tu le vois,|un coup tu le vois pas.
+{117644}{117724}Ferme ton clapet.|Frankie joue à la régulière.
+{117732}{117797}Rien au monde le fera changer.
+{117982}{118077}Bon, bon !|Alors tu peux m'en prêter mille ?
+{118116}{118151}Et 500 ?
+{118185}{118240}Je sais qu'on est dimanche soir.
+{118251}{118311}Je te demande pas le jour qu'on est.
+{118350}{118395}Arrête une minute !
+{118532}{118579}Donne-m'en un peu !
+{118678}{118760}Je me tire, je suis mort.|Ça fait deux jours que j'ai pas dormi.
+{118773}{118828}Encore un petit peu.
+{118838}{118908}Je sers à rien.|La maison perd toujours.
+{118919}{118986}Continue.|Ta classe finira par parler.
+{118997}{119089}Ma tête fonctionne plus.|- Louie, je sais plus qui appeler.
+{119111}{119193}Je trouve pas Lippy.|- J'y vais. Il est plein aux as.
+{119202}{119247}Reste encore un peu.
+{119254}{119334}Je téléphone|puis je t'emmène chez moi.
+{120132}{120187}Du café ?|- Du bon café noir !
+{120609}{120699}Pas un rond. Ça va comment ?|- Ils nous écrasent avec leur fric.
+{120708}{120786}Ils montent les pots|pour qu'on se couche.
+{120797}{120877}Qui on pourrait taper|de quelques milliers ?
+{120891}{120951}Est-ce qu'on est déjà lundi ?
+{120963}{121003}Ecoute-moi.
+{121013}{121060}Tu m'écoutes ?
+{121076}{121113}Ecoute-moi !
+{121120}{121203}Au prochain pot qu'ils montent gros|faut que tu les suives.
+{121211}{121301}Schwiefka me laisse pas.|- Il est pas sûr que tu gagnes !
+{121312}{121347}On l'est jamais.
+{121354}{121434}On pourrait l'être.|Tu fais ce que tu veux des cartes.
+{121443}{121538}Pour rigoler. J'oserais pas en vrai.|- Tu veux partir, non ?
+{121547}{121617}Tu veux être en forme|pour ton audition ?
+{121628}{121658}En bonne forme.
+{121667}{121727}Fais ce qu'il faut. Tu me suis ?
+{121739}{121824}Continuons la partie !|Je me sens en veine.
+{122631}{122666}J'y vais.
+{122749}{122819}3... Roi... Valet.
+{122848}{122880}Le roi mise.
+{122910}{122935}Je vois.
+{122941}{123068}Une paire de 3. Roi, 10.|Valet, 7. Une paire de 3 !
+{123089}{123127}200 dollars.
+{123136}{123159}Suivi !
+{123191}{123241}Voyons...
+{123264}{123334}Paire de 3. Paire de rois.|Paire de valets.
+{123358}{123400}Je mise 500 dollars.
+{123506}{123566}Je vois.|- Moi aussi.
+{123610}{123648}Ça arrive.
+{123665}{123780}Trois 3. Les rois.|Les valets. Trois 3.
+{123791}{123853}Les 3 petits 3|disent 500 dollars.
+{124002}{124027}Tricheur !
+{124340}{124400}Retire tes lunettes je te dis.
+{124479}{124526}Je savais pas ! Je savais pas.
+{124536}{124571}T'auras ton tour !
+{124580}{124665}Croyez-moi,|c'est jamais arrivé en onze ans.
+{124677}{124729}Demandez à n'importe qui !
+{124793}{124868}Tu donneras plus jamais pour moi.
+{124892}{124927}Tu le veux ?
+{124937}{124999}Je veux pas me salir les mains.
+{125015}{125097}Comment j'aurais su ?|Vous savez que je suis réglo !
+{125109}{125141}Dites-leur !
+{125399}{125447}Ça va aller Frankie.
+{125594}{125671}Une rouste c'est rien.
+{125693}{125728}Pas vrai ?
+{125777}{125869}Tu vas voir, dans une heure|on sera chez Antek,
+{125881}{125931}et on va en rigoler.
+{125969}{126016}T'aurais dû voir la tête|de Schwiefka
+{126024}{126109}quand Williams lui a dit|qu'il aurait son tour.
+{126121}{126206}Il est devenu tout blanc.|C'était si drôle !
+{126237}{126282}Arrête, t'entends ?
+{126315}{126395}T'es le plus chic type|que j'aie jamais connu.
+{126404}{126432}Tu m'entends ?
+{126516}{126568}Ecarte-toi de moi tocard !
+{127226}{127288}Vite !|- Je veux me coucher.
+{127319}{127454}T'as l'air de redescendre vite non ?|Va falloir augmenter la dose.
+{127467}{127517}N'importe quoi ! Vite !
+{127592}{127650}Et ton fric ?|- Plus tard !
+{127668}{127735}Maintenant.|- Fais-moi confiance.
+{127746}{127776}Tu sais que non.
+{127783}{127858}Je te payerai deux fois plus|plus tard.
+{127882}{127937}Je fourguerai même pour toi.
+{127944}{128026}Tous les camés en manque|disent ça.
+{128056}{128116}Retire tes sales pattes.
+{128722}{128815}Réveille-toi ! Debout !|Où tu l'as mis ?
+{128838}{128898}Lâche-le Frankie !
+{128927}{129015}Je le trouve pas !|- Je vais te ramener.
+{129039}{129126}Laisse-moi te ramener chez toi.
+{129151}{129216}Faut que je sois à l'heure.
+{129973}{130066}Qu'est-ce qui se passe ?|Faut que ça déménage !
+{130081}{130171}Monsieur Machine.|- Vous savez lire la musique ?
+{130187}{130265}Shelly, laisse M.Machine|jouer celui-là.
+{130352}{130414}C'est le 37.|Il est devant vous.
+{130469}{130519}Vous connaissez ?
+{130545}{130617}Alors essayons !
+{130655}{130757}Les quatre premières mesures|c'est vous. Essayons encore.
+{130910}{130935}Excusez-moi.
+{130943}{130976}Vous êtes prêt ?
+{131011}{131044}Encore une fois.
+{132011}{132074}Allons-y Shelly !
+{132848}{132908}Zosh, on a de l'argent ?|Il m'en faut.
+{132916}{132951}Non, pourquoi ?
+{132989}{133051}Y en avait hier.|J'ai besoin d'argent !
+{133059}{133137}Y en a pas.|Qu'est-ce qui se passe ?
+{134310}{134375}Tu peux marcher ?|Depuis quand ?
+{134516}{134573}Qu'est-ce que ça veut dire ?
+{134594}{134671}Frankie et toi|vous avez une combine ?
+{134716}{134794}Allons ! Dis-la-moi.|Entre arnaqueurs.
+{134813}{134913}Allons ! Tu m'affranchis|ou je la casse. T'entends ?
+{134924}{134992}Je dirai partout|que tu peux marcher.
+{135000}{135092}Je dirai partout|que c'était du chiqué !
+{135255}{135320}Non !|Ne dis rien, je t'en prie Louie.
+{135341}{135404}Ote tes mains !
+{135600}{135652}Touchez rien.|Appelez la police !
+{137481}{137518}Ça s'est passé comme ça !
+{137528}{137628}Ils se sont bagarrés|et Louie est tombé soudain.
+{137640}{137690}Sois réglo Zosh.
+{137700}{137772}Essaye pas de m'avoir,|tu t'embrouillerais.
+{137791}{137836}Je sais rien d'une bagarre.
+{137846}{137913}J'ai dormi toute la matinée|dans cette chaise.
+{137924}{138039}Alors pendant que tu dormais|Frankie l'a poussé par-dessus ?
+{138049}{138131}Mais non !|- Comment tu le sais si tu dormais ?
+{138169}{138246}Je ne dormais pas.|J'étais plutôt assoupie.
+{138257}{138322}J'aurais entendu une bagarre.
+{138336}{138388}Frankie était même pas là.
+{138405}{138470}Il était pas là quand ?|- Quand c'est arrivé.
+{138478}{138558}Tu ne peux pas en être sûre|si t'étais assoupie.
+{138570}{138657}J'en suis sûre|parce que je l'ai vu partir.
+{138669}{138721}Il était donc ici ce matin ?
+{138747}{138839}Juste une seconde.|Vrai. Il s'est pas bagarré.
+{138852}{138939}Il est pas resté|parce qu'il fuyait quelqu'un ?
+{138948}{139031}Il ne fuyait personne.|Il voulait de l'argent, c'est tout.
+{139040}{139092}Pour quoi faire ?|- Je sais pas.
+{139102}{139187}Un fixe.|Il en voulait pour un fixe de Louie.
+{139201}{139258}Ç'avait rien à voir avec Louie.
+{139269}{139304}Comment tu le sais ?
+{139310}{139422}Y avait pas d'argent. Pourquoi|il irait voir Louie sans argent ?
+{139435}{139495}Pour mendier un fixe.
+{139537}{139585}Je peux attendre.
+{139592}{139689}Tôt ou tard|faudra qu'il sorte pour un fixe.
+{139883}{139923}Attends, je te prie !
+{139930}{139982}C'est fini comme je te l'ai dit.
+{139990}{140040}Faut que je te parle !
+{140055}{140130}Non ! Une fois pour toutes !
+{140175}{140217}Faut que je te parle.
+{140238}{140298}T'as de l'argent ?|Il me faut quelques dollars.
+{140307}{140397}20 dollars ça ira. Je te les rends|dans quelques jours.
+{140409}{140501}Même 5 dollars ça ira.|Je t'en prie.
+{140530}{140650}Je suis si malade !|J'ai mal partout.
+{140692}{140752}Dis pas non, je t'en prie.
+{140761}{140801}Pourquoi non ?
+{140819}{140927}Saute du toit si tu veux te tuer.|Me demande pas de t'aider.
+{140942}{141014}Je ferai tout ce que tu voudras|mais...
+{141035}{141092}Aide-moi maintenant.
+{141124}{141174}J'ai besoin d'un fixe.
+{141197}{141289}5 dollars suffiraient,|ou même 2...
+{141301}{141336}Mais vite ! Je t'en prie.
+{141345}{141435}Prends plus cette saloperie.|- Je sais, t'as raison.
+{141447}{141554}Je te promets. Mais là tout de suite|il me faut juste un fixe.
+{141567}{141657}Pour arrêter la douleur.|Et je te promets de décrocher.
+{141668}{141731}Juste quelques dollars.
+{141869}{141999}Bonjour Molly. Je venais te dire|bonjour. Tu me laisses pas entrer ?
+{142009}{142084}Je t'ai prié de ne plus m'embêter.
+{142095}{142135}Tu me manques.
+{142147}{142242}Je suis très fatiguée.|- Je resterai juste un peu.
+{142318}{142358}Qui est avec toi ?
+{142385}{142427}Pars. Et ne reviens pas.
+{142437}{142507}C'est pas La Distribe ?|Tu vas pas le cacher dis ?
+{142518}{142608}Tu ne vas pas être sa complice ?|- Comment ça sa complice ?
+{142620}{142702}Il a tué Louie.|Les flics le recherchent.
+{142713}{142750}Frankie Machine ?
+{142773}{142803}Il est là ?
+{142861}{142926}J'entre.|- Pas si tu veux me revoir.
+{142950}{142998}On se voit demain ?
+{143047}{143119}Je serai chez Antek.|Peut-être pas demain mais bientôt.
+{143130}{143177}Tu me manques.
+{143413}{143478}Je t'assure que j'y suis pour rien.
+{143542}{143592}Qu'est-ce que je vais faire ?
+{143614}{143679}Dis à Bednar que c'est pas toi.
+{143695}{143823}Je pourrais pas affronter les flics|dans l'état où je suis.
+{143865}{143950}Regarde-moi ! Je dirai|ce qu'ils voudront pour un fixe.
+{143985}{144040}Alors décroche d'abord !
+{144063}{144130}Qu'est-ce que tu racontes ?
+{144138}{144181}Tu l'as déjà fait.
+{144194}{144279}Avec l'aide de médicaments,|de médecins.
+{144295}{144375}J'entrerai pas à Lexington|avec un meurtre sur le dos.
+{144407}{144442}Et sans y aller ?
+{144516}{144626}Tu veux dire: Juste arrêter ?|Le sevrage pur et dur ?
+{144652}{144734}Tu comprends pas.|Les douleurs...
+{144756}{144793}Que faire d'autre ?
+{144821}{144891}J'ai besoin d'un fixe.
+{144946}{144971}Très bien !
+{145133}{145171}Vas-y ! Prends !
+{145183}{145225}Prends tout !
+{145266}{145366}Parce qu'après ce fixe|t'en auras besoin d'un autre
+{145378}{145441}et puis d'un autre|et puis d'un autre.
+{145451}{145474}Prends.
+{145506}{145536}Prends !
+{145577}{145657}Pourquoi tu souffrirais|comme d'autres ?
+{145695}{145770}T'as toujours eu|une chienne de vie.
+{145796}{145859}Mais tu ne fais pas face|comme la plupart.
+{145877}{145989}Tu fais de toutes tes peines|une grosse douleur.
+{146002}{146052}Et tu la soulages avec un fixe.
+{146098}{146176}Tu penses trouver quoi|derrière cette porte ?
+{146247}{146374}Tu ne crois pas que Bednar sait|qui t'es et ce dont t'as besoin ?
+{146389}{146449}Juste pour passer une heure.
+{146504}{146602}Tu ne sais pas qu'il attend|que tu viennes le chercher ?
+{146686}{146756}Allez, laisse-le te tuer.
+{146809}{146896}Ce sera plus rapide|et mieux que comme tu le fais.
+{147253}{147313}Je vais pas me laisser tuer.
+{147463}{147521}Je suis pas encore dans la tombe.
+{147614}{147669}Mais décrocher...
+{147755}{147858}Un mec ne peut pas y arriver tout seul.
+{147951}{147998}Je t'aiderai.
+{148086}{148146}Tu sais où tu vas ?
+{148175}{148272}C'est pas beau|et il pourrait y avoir du danger.
+{148307}{148382}S'ils te trouvent ici|ils te trouvent.
+{148390}{148455}Le danger c'est pas Bednar.
+{148472}{148524}Il pourrait venir de moi.
+{148602}{148679}Il arrive qu'un camé tue.
+{148706}{148758}Pour fuir le traitement.
+{148768}{148805}Tu comprends ?
+{148857}{148977}Si t'as des couteaux,|des ciseaux, faut les planquer.
+{149014}{149066}Me laisse pas sortir.
+{149077}{149187}Quoi que je dise ou promette.|Même si je supplie.
+{149202}{149297}Si je sortais ce serait seulement|pour trouver un fixe.
+{149318}{149423}C'est comme ça, tu comprends ?|Alors enferme-moi à clé !
+{149436}{149528}Faut m'empêcher de sortir|par tous les moyens.
+{149540}{149595}Et quelles que soient|mes souffrances,
+{149605}{149705}ne me donne ni pilules, ni drogues,|ni trucs comme ça.
+{149790}{149835}Tu crois pouvoir ?
+{150323}{150361}Et on y va...
+{150394}{150444}...faits comme des rats.
+{150530}{150617}Vous pouvez pas me garder.
+{150673}{150718}Assieds-toi.
+{150734}{150799}Vous pouvez pas me garder.
+{150807}{150879}J'ai une araignée au plafond.|Vous le savez capitaine ?
+{150890}{150975}Je sais ce que je fais.|Et arrête de faire le zouave !
+{150984}{151014}J'ai rien fait.
+{151022}{151107}Frankie a fait quelque chose.|Je veux que tu m'en parles.
+{151119}{151196}Faudrait une fanfare|pour qui a tué le fourgueur.
+{151208}{151300}Je serai peut-être en tête|mais je veux que tu m'en parles.
+{151312}{151397}Ecoute-moi. Quand on le prendra|il aura un procès.
+{151406}{151463}Que tu parles ou non.
+{151507}{151615}La seule question|c'est si je te colle complice.
+{151632}{151752}Me clouez pas à la croix.|C'est le seul ami que j'aie eu.
+{151765}{151802}Il est plus l'ami de personne.
+{151809}{151914}Il t'écraserait si tu te mettais|entre lui et un fixe.
+{151953}{152035}Allons, parle Sparrow.
+{152114}{152161}D'accord, tire-toi !
+{155181}{155224}Je veux sortir !
+{156301}{156354}Alors qu'est-ce que tu deviens ?
+{156364}{156432}Abandonnée,|voilà ce que je deviens.
+{156450}{156535}C'est pour manger.|Des saucisses.
+{156546}{156609}Abandonnée|et malade d'inquiétude.
+{156619}{156669}Tu sais où il est ?
+{156682}{156727}Il est venu te voir ?
+{156773}{156823}Tu veux quoi d'ailleurs ?
+{156848}{156883}Ce que t'as dit à Bednar,
+{156890}{156980}t'as vu les journaux,|ça la fout mal pour Frankie.
+{156997}{157099}J'ai rien dit à Bednar.|Les journaux ils déforment tout.
+{157112}{157177}Ils pourraient pas|si on les laissait pas.
+{157185}{157277}J'y peux rien.|T'attends quoi de moi assise ici ?
+{157300}{157387}Dis à Bednar qu'il était pas là,|que c'est pas lui.
+{157399}{157454}J'ai pas dit que c'était lui.
+{157462}{157549}On peut le croire|s'il était le seul à se trouver ici.
+{157561}{157633}Tu sais|que c'était quelqu'un d'autre.
+{157641}{157691}Comment ça ? Qui ?
+{157703}{157813}Bednar trouverait s'il ne pensait pas|que c'est Frankie.
+{157823}{157866}C'est pas tes oignons.
+{157873}{157930}Je veux juste aider, c'est tout.
+{157938}{158041}Tu te fous de moi ? Tu crois|que je ne sais pas ce que tu veux ?
+{158061}{158123}Et ce que vous fricotiez|dans mon dos ?
+{158134}{158234}Pendant que je devais|rester assise ici.
+{158245}{158278}Zosh, tu te goures !
+{158285}{158357}Non, c'est toi !|Et tu l'auras jamais !
+{158368}{158455}Il m'a mise là-dedans et tant que|j'y serai il me quittera pas.
+{158467}{158502}Il m'appartient.
+{158511}{158596}Je suis venue pour aider.|- Je mourrais s'il me quittait.
+{158604}{158682}Et je préférerais le voir mort|que de te le donner.
+{158693}{158791}Fous le camp d'ici sale traînée !
+{158800}{158880}Fous le camp ! Fous le camp !
+{160437}{160469}Frankie, non !
+{160512}{160572}Quoi ? Je peux plus le supporter.
+{160588}{160663}Aide-moi, je t'en prie.|Réchauffe-moi.
+{160672}{160712}Je tiens plus !
+{160804}{160874}Faut que je sorte trouver un fixe.
+{160898}{161008}Ouvre la porte ! Fais ce que|je te dis sinon je te tue !
+{161018}{161098}Frankie, si vraiment...|- J'en peux plus !
+{161109}{161214}J'en ai planqué un peu.|- Donne-le vite ! Donne vite !
+{161257}{161307}Où ? Je vais le prendre.
+{161516}{161583}Ouvre la porte|et laisse-moi sortir !
+{162111}{162149}Réponds-moi !
+{162352}{162422}Frankie, réponds.|Est-ce que ça va ?
+{162446}{162529}Tu m'auras pas,|je vais pas t'ouvrir !
+{162555}{162635}Ça va Frankie ?|Je t'en prie, réponds-moi !
+{162897}{163004}Molly, si tu m'aimes,|je t'en prie, tue-moi.
+{163022}{163104}J'ai si froid. Tellement froid.
+{163222}{163282}Réchauffe-moi, je t'en prie.
+{163305}{163348}Réchauffe-moi.
+{163555}{163600}Réchauffe-moi.
+{163725}{163792}Molly... j'ai si froid.
+{163857}{163907}Réchauffe-moi.
+{164103}{164143}Dieu, aide-nous.
+{164160}{164225}S'il te plaît, réchauffe-moi.
+{164270}{164335}J'ai si froid.
+{165356}{165448}Je t'ai attendue hier soir.|- J'ai pas promis pour hier.
+{165457}{165507}J'ai eu peur que tu sois malade.
+{165514}{165589}Je voulais te dire|de ne plus me chercher chez Antek.
+{165601}{165703}Il m'a vidé. Un petit différend.|Voyons-nous au Safari.
+{165909}{165956}C'est assez bien, non ?
+{166026}{166051}Doucement.
+{166057}{166132}Ça va.|Je suis juste un peu flageolant.
+{166531}{166599}C'est le plus beau jour|que j'aie vu.
+{166620}{166683}Le premier jour que j'aie vu.
+{166716}{166801}J'ai envie d'une douceur.|T'en as ?
+{166815}{166842}Du sucre ?
+{167039}{167091}Encore. Verse.
+{167187}{167232}Comment tu peux ?
+{167281}{167346}Je me suis jamais senti si bien.
+{167371}{167464}C'est comme si à l'intérieur|tout avait repris sa place.
+{167501}{167531}Merci Molly.
+{167551}{167586}Molly-O.
+{167613}{167700}Attention, tu vas t'écorcher.|- Ça m'est égal.
+{167746}{167801}T'as pas un rasoir pour moi ?
+{167811}{167881}Je peux te le confier ?|- Je le jure.
+{168475}{168500}C'est ici ?
+{168509}{168556}Bon, viens !|- Non !
+{168566}{168631}Vous avez pas besoin de moi|là-haut.
+{169114}{169151}Il est où Molly ?
+{169158}{169198}C'est pas lui. Vrai.
+{169208}{169300}Je suis pas juge. On me paye|pour l'arrêter, c'est tout.
+{169312}{169402}Dis-moi où il est. Il aura|toutes les chances d'un camé.
+{169413}{169463}Il n'est plus camé non plus.|C'est fini.
+{169474}{169501}Tu parles !
+{169510}{169592}Vous verrez vous-même.|Il ne vous fuit pas.
+{169614}{169656}Alors où est-il ?
+{169677}{169714}Avec Zosh.
+{169729}{169791}Très bien Molly, allons voir.
+{170109}{170206}Qu'est-ce que tu fais ici ? Tu ne sais pas|que Bednar te cherche ?
+{170218}{170320}J'ai pas peur.|Tu sais que c'est pas moi.
+{170349}{170426}Qui ? C'est qui alors ? Qui ?
+{170448}{170545}Je suis venu te dire quelque chose.|Je m'en vais d'ici.
+{170557}{170634}Bednar va t'arrêter.|Il a dit aux journaux...
+{170678}{170705}Quoi ?
+{170737}{170777}Je m'en vais.
+{170800}{170913}Te soucie pas pour l'argent.|J'en enverrai régulièrement.
+{170933}{170975}Et Vi prendra bien soin de toi.
+{170990}{171025}Tu me quittes moi ?
+{171055}{171115}Je te quitte pas toi. Je pars.
+{171164}{171284}A mon retour il est arrivé|ce que le Dr Lennox avait dit.
+{171305}{171408}Je suis retombé dans ma routine|avant de m'en apercevoir.
+{171417}{171534}Tu peux pas me laisser !|Tu dois rester et t'occuper de moi !
+{171555}{171640}Je sais que je suis responsable|de ton état.
+{171648}{171738}Mais je ne peux pas continuer|à me punir à mort pour ça.
+{171751}{171826}Je l'ai sur le cœur|depuis que c'est arrivé.
+{171839}{171901}Ça me fait mal|rien que d'y penser.
+{172001}{172088}C'est pas que je veux partir|mais il le faut.
+{172110}{172217}Tu dois pas partir !|Tu dois pas partir !
+{172305}{172358}Dis-moi au revoir Zosh.
+{172379}{172497}Tu crois m'avoir ?|Je sais ce qui t'entraîne ! Molly !
+{172519}{172599}Tu pars pour être|avec cette petite traînée !
+{172676}{172784}Au revoir Zosh.|- Non Frankie. Me laisse pas !
+{172809}{172856}Me laisse pas !
+{173434}{173491}Habille-toi Zosh.
+{174536}{174566}Arrête Zosh !
+{175268}{175330}Zosh ! Bouge pas.
+{175362}{175424}Essaye pas de parler. Ça ira.
+{175499}{175544}C'est juste que...
+{175586}{175668}...je t'aime tant.
+{175703}{175738}C'est tout.

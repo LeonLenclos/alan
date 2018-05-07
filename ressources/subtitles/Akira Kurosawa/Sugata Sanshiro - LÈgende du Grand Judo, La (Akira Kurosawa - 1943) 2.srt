@@ -1,0 +1,479 @@
+{357}{457}{y:i}Cette œuvre est le premier film|{y:i}mis en scène par KUROSAWA Akira.
+{461}{560}{y:i}Réalisé en 1943, il sortit en salle|{y:i}en mars de cette année-là.
+{564}{663}{y:i}Lors de sa réédition en mars 1944,|{y:i}il fut victime de la censure de l'époque.
+{763}{862}{y:i}A l'insu de son réalisateur|{y:i}et des producteurs,
+{867}{967}{y:i}il a subi plusieurs coupes|{y:i}et fut amputé de 600 mètres de pellicule.
+{971}{1071}{y:i}C'était pendant la guerre et les scènes|{y:i}coupées n'ont pas été retrouvées.
+{1135}{1223}{y:i}Tout en regrettant de ne pouvoir|{y:i}reconstituer l'original,
+{1228}{1318}{y:i}la production n'a pas voulu priver|{y:i}le public de cette œuvre de valeur.
+{1456}{1544}LA LÉGENDE DU GRAND JUDO
+{1549}{1604}{y:i}SUGATA Sanshiro 1943
+{1683}{1784}Projet : MATSUZAKI Keiji|D'après : TOMITA Tsuneo
+{1788}{1852}Scénario : KUROSAWA Akira
+{2071}{2147}Musique: SUZUKI Seichi
+{2240}{2305}Avec :
+{2316}{2398}Yano, le maître de judo :|OKOCHI Denjiro
+{2403}{2489}Sugata Sanshiro, le disciple :|FUJITA Susumu
+{2513}{2597}Sayo, la fille de Murai :|TODOROKI Yukiko
+{2602}{2692}Higaki, le jeune maître de jiu-jitsu :|TSUKIGATA Ryunosuke
+{2703}{2795}Murai, le vieux maître de jiu-jitsu :|SHIMURA Takashi
+{2800}{2892}Monma, le maître de jiu-jitsu vaincu :|KOSUGI Yoshio
+{2928}{3006}Osumi, la fille de Monma :|HANAI Ranko
+{3011}{3083}Le bonze : KODO Kokuten
+{3109}{3206}Mise en scène : KUROSAWA Akira
+{3327}{3413}1882|{y:i}An 15 de l'ère Meiji
+{3993}{4083}{y:i}Dis-moi donc|{y:i}quel est ce passage étroit ?
+{4095}{4189}{y:i}C'est celui de Messire Tenijin
+{4195}{4287}{y:i}Veux-tu bien me laisser passer ?
+{4291}{4375}{y:i}Nul ne passe s'il n'a affaire.
+{4381}{4407}J'ai affaire...
+{4415}{4441}laissez-moi passer.
+{4464}{4550}{y:i}Pour une requête à Messire Tenijin ?
+{4555}{4639}Non, je cherche la maison|du maître de jiu-jitsu.
+{4669}{4730}{y:i}Tu peux passer mais gare au retour !
+{4742}{4801}Si c'est l'École Shinmei, c'est là.
+{4833}{4898}Mais le maître ne doit pas être là.
+{4906}{4945}Il est en démonstration.
+{4949}{5004}Il fait un numéro avec des sabreurs.
+{5149}{5252}{y:i}Monma Saburo|{y:i}École Shinmei de Jiu-jitsu
+{5410}{5473}Buvons un coup|pour fêter ton admission !
+{5620}{5692}Tu es un veinard toi.
+{5698}{5778}Ce soir tu vas pouvoir|assister à un spectacle formidable.
+{5827}{5950}En fait, nous allons|nous payer Yano Shogoro.
+{5969}{6002}Qui est-ce ?
+{6006}{6104}Tu ne le connais pas ?|Le Yano qui fait du judo au Shudokan.
+{6153}{6196}Du judo !? C'est quoi ?
+{6273}{6299}Bonne question !
+{6340}{6381}Ce Yano est un petit malin...
+{6385}{6477}il veut s'enrichir en changeant notre|{y:i}Art de l'agilité en Voie de l'agilité
+{6495}{6614}La préfecture de police recherche|un instructeur en arts martiaux.
+{6624}{6681}Il ne faudrait pas|que le poste nous échappe...
+{6685}{6788}pour être donné à un instructeur intello|suivant la mode moderniste.
+{6812}{6857}Il faut le liquider !
+{7176}{7200}Un guet-apens ?
+{7252}{7290}Non, un combat privé.
+{7423}{7457}- Maître !|- Qu'est-ce qu'il y a ?
+{7461}{7518}- Il vient de sortir. Venez vite !|- Où ça ?
+{7522}{7600}Il a pris un pousse-pousse|et il n'y a qu'une seule route.
+{7615}{7658}On pourrait l'attendre au pont.
+{7703}{7764}Pas d'armes !|Notre École serait déshonorée !
+{7791}{7834}Viens aussi.|Ça pourra te servir.
+{8077}{8116}Papa, où tu vas ?
+{8147}{8173}Je reviens vite.
+{8185}{8240}Tu ne vas pas te fourrer|dans un mauvais coup ?
+{8275}{8293}Dinde !
+{8334}{8354}Pourtant...
+{9072}{9139}Je suis Yano du Shudokan.
+{9263}{9297}N'est-ce pas une erreur ?
+{9305}{9335}Ou bien un guet-apens ?
+{10020}{10053}Qui êtes-vous ?
+{10367}{10430}École Shinmei de jiu-jitsu.
+{14643}{14673}Nomme-toi !
+{14705}{14746}Tue-moi !
+{14750}{14822}Pas question ! Dis-moi ton nom !
+{14826}{14846}Tue-moi !
+{14914}{14955}Tu es le chef.|Pourquoi cette haine ?
+{15004}{15059}On veut te donner une correction !
+{15086}{15124}A moi !?
+{15159}{15253}Tu scelles la défaite des tenants|de ton art avec de pareilles bêtises.
+{15341}{15431}Je ne supporte pas d'être humilié|par un blanc-bec comme toi.
+{15436}{15514}Impossible de vivre désormais...|tue-moi !
+{15548}{15638}Tu devrais appliquer ce sentiment|dans ta pratique du jiu-jitsu !
+{15684}{15714}Quel gâchis !
+{16251}{16287}Tireur du pousse ! Reviens !
+{16460}{16503}Tout va bien maintenant !
+{16697}{16797}Maître, laissez-moi vous conduire.|Veuillez prendre place.
+{16840}{16866}Tu sauras y faire ?
+{17006}{17080}- Je vous en prie maître.|- Eh bien merci.
+{19110}{19149}- Une bagarre !|- Viens te battre !
+{19153}{19206}Je ne t'ai rien fait !
+{19239}{19317}De quoi ? Répète un peu pour voir !
+{19339}{19384}Bon à rien !
+{19462}{19540}T'es bien insolent l'étudiant !
+{19549}{19575}De quoi !?
+{19622}{19652}Etripe-le !
+{19685}{19763}- Viens voir si j'y suis !|- Etripe-le étudiant !
+{19934}{19979}Ecrabouille-le étudiant !
+{22186}{22210}Maître !
+{22415}{22489}Maître, Sugata est revenu...
+{22507}{22535}Amène-le.
+{22669}{22702}Ne le grondez pas trop !
+{22832}{22870}Dis-lui de venir ici.
+{25009}{25035}Alors...
+{25095}{25152}balancer à satiété...|ça a dû être bon ?
+{25476}{25515}Je suis désolé.
+{25576}{25668}Moi aussi...|j'aurais aimé te voir à l'œuvre.
+{25744}{25815}Très fort...|tu es devenu vraiment très fort.
+{25922}{26016}Ta force doit même...|surpasser peut-être la mienne.
+{26112}{26159}Cependant Sugata...
+{26178}{26275}ton judo et le mien sont aussi éloignés...
+{26299}{26356}que le ciel et la terre.
+{26409}{26454}Tu en es conscient ?
+{26525}{26596}Tu ne connais pas la Voie de l'Homme.
+{26657}{26725}Enseigner le judo|à quiconque ignore la Voie de l'Homme,
+{26740}{26820}c'est comme si on donnait|un couteau à un fou.
+{26865}{26916}Maître, je connais la Voie de l'Homme.
+{26928}{26952}Menteur !
+{27064}{27134}Tournoyer sans raison et sans but,
+{27184}{27250}c'est ça la Voie de l'Homme ?
+{27299}{27354}La Voie de l'homme,
+{27385}{27448}c'est la quête de la Vérité|qui régit la nature et le monde.
+{27511}{27597}Seule cette vérité|peut nous procurer une mort paisible.
+{27689}{27787}C'est le point ultime|de toutes les voies.
+{27868}{27919}Il en va de même pour le judo.
+{28015}{28082}Tu as oublié ce qu'était|la Voie de agilité ?
+{28086}{28185}Non maître. Si vous me l'ordonnez,|je suis prêt à mourir aussitôt.
+{28206}{28222}Tais-toi !
+{28228}{28261}Si, je suis prêt !
+{28270}{28348}Tais-toi ! Tu n'es qu'un vaurien !
+{28359}{28431}Je ne crois pas un mot|de tes paroles mielleuses.
+{28599}{28632}Je suis prêt à mourir.
+{29231}{29267}Meurs !
+{30619}{30678}Sugata est toujours dans l'étang.
+{30695}{30783}Il fait nuit. Il ne tiendra pas...|pardonnez-lui !
+{30880}{30985}C'est vrai qu'il est emporté et têtu|mais il fait pitié dans cet état.
+{31195}{31267}S'il en a l'envie, il peut sortir|de l'étang quand il veut.
+{31285}{31351}Il ne sortira pas sans votre pardon.
+{31370}{31440}Il sortira le moment venu.|C'est ce qu'il faut.
+{31668}{31756}Maître, il n'y a vraiment rien à faire ?
+{31775}{31808}Imbécile !
+{31850}{31938}Il n'en mourra pas. Il réfléchit.
+{32103}{32167}Alors, le jeune prétentieux !
+{32205}{32237}C'est dur ?
+{32311}{32399}Si j'en juge par ton silence,|tu n'as pas encore trouvé la voie.
+{32460}{32526}Tu ne veux pas céder Sanshiro ?
+{32536}{32574}Non.
+{32608}{32702}Avec une telle santé|tu n'es pas prêt de mourir.
+{32721}{32768}Au fait Sanshiro...
+{32788}{32901}tu sais à quoi tu t'agrippes ?
+{32990}{33043}Un jeune prétentieux comme toi|ne peut pas le savoir.
+{33081}{33101}Un pieu.
+{33110}{33177}C'est ça ! Le pieu de la vie.
+{33223}{33313}Sans lui tu t'enfoncerais dans la vase.
+{33369}{33461}C'est mortifiant de remonter sur terre...|et sans le pieu, la mort...
+{33465}{33506}Silence le bonze !
+{33591}{33669}Allez ! Cède et reviens sur terre !
+{33704}{33730}Pas question !
+{33774}{33844}Tête de mule ! A ta guise !
+{33944}{34059}La nuit vient...|tu pourras admirer la Lune.
+{38113}{38162}Yano-san est là ?
+{38204}{38242}Le maître est absent.
+{38814}{38878}Je peux voir un disciple ?
+{38894}{38943}J'en suis.
+{39145}{39184}A part toi ?
+{39200}{39241}Il y en a un autre.
+{39477}{39545}Est-ce que je pourrais pratiquer avec lui ?
+{39556}{39613}Je peux connaître votre nom ?
+{39687}{39757}Higaki Gennosuke|de l'École Ryoi-Shinto.
+{39958}{39980}Je vous en prie...
+{40939}{40990}Révérend ! De l'eau !
+{41217}{41262}Au suivant !
+{41523}{41564}Higaki-san...
+{41648}{41693}je suis votre homme.
+{41766}{41864}Je désire pratiquer avec des disciples|de Yano, maître de judo.
+{41904}{41967}Dans ce cas revenez un autre jour.
+{42085}{42118}Et ce disciple-là ?
+{42434}{42458}Je suis prêt.
+{42463}{42528}Non, tu es privé de pratique.
+{42590}{42695}Higaki-san, je suis désolé|mais il lui est interdit de pratiquer.
+{42715}{42758}Veuillez vous retirer.
+{42880}{42943}Quel dommage !
+{42952}{43011}Maître Iinuma, dans un cas pareil...
+{43016}{43084}Maître Yano m'autoriserait sûrement.
+{43105}{43177}Il faudrait qu'il soit là.|Pas question !
+{43182}{43223}- Mais maître...|- Pas question !
+{43264}{43311}- Je suis prêt|- Pas question !
+{43612}{43683}Dis-moi... comment tu t'appelles ?
+{43750}{43783}Sugata Sanshiro.
+{43824}{43854}Sugata... ?
+{44134}{44173}On se retrouvera.
+{44178}{44239}Dès demain, si le maître le permet.
+{44380}{44433}Pas la peine de se presser.
+{44450}{44557}Le jour viendra où jiu-jitsu et judo|devront s'affronter à mort.
+{44562}{44615}Attendrons-nous ce jour ?
+{44663}{44722}- D'accord. N'oublie pas !|- Jamais !
+{45082}{45108}Il a l'air d'un serpent.
+{45144}{45251}{y:i}On passe ensuite à l'histoire de Sayo.
+{45256}{45365}{y:i}Sayo est la fille de Murai Hansuke,|{y:i}le maître d'Higaki.
+{45371}{45476}{y:i}Sayo est elle aussi effrayée|{y:i}par Higaki et son air de serpent.
+{45512}{45548}Ecoutez bien tous.
+{45575}{45622}Notre Ecole a beaucoup d'ennemis...
+{45648}{45711}Higaki Gennosuke n'est pas le seul.
+{45753}{45790}J'ai vu aujourd'hui...
+{45815}{45897}le Préfet de police en personne.
+{45939}{46035}Il m'a proposé de faire participer|notre école de judo
+{46069}{46130}au Tournoi d'arts martiaux de la police,
+{46181}{46211}en un combat inter-écoles.
+{46275}{46382}J'ai accepté avec empressement.
+{46449}{46521}Bien entendu, l'école victorieuse...
+{46555}{46620}sera chargée de la section|des arts martiaux de la police
+{46628}{46712}et j'espère bien y placer|un de mes disciples.
+{46759}{46808}Mais comprenez ce que ça veut dire.
+{46865}{46910}Notre judo...
+{46920}{46959}va être attaqué de toutes parts.
+{47006}{47080}J'ai déjà reçu ceci aujourd'hui.
+{47120}{47208}C'est une invitation|de l'École Tenjin Shin'yo.
+{47229}{47336}Yatani Magoroku nous invite|à l'inauguration de son dojo.
+{47362}{47423}Sa lettre se termine ainsi :
+{47493}{47561}"Nous aimerions avoir ce jour-là|un combat exemplaire...
+{47565}{47626}"qui opposerait|une certaine école de jiu-jitsu...
+{47668}{47737}"à l'un de vos disciples le plus éminent.
+{47741}{47809}"Veuillez donc bien désigner ce disciple|et nous le faire savoir."
+{47946}{48028}Vous savez quelle est cette|"certaine école de jiu-jitsu" ?
+{48041}{48148}Vous aurez remarqué|qu'on ne m'invite pas personnellement.
+{48201}{48239}Sugata...
+{48275}{48334}il s'agit d'un homme que tu connais.
+{48460}{48525}J'ai compris ! Je vois !
+{48540}{48622}Si on ne souhaite pas votre présence,|c'est qu'il s'agit de école de Monma.
+{48648}{48730}Ils veulent se venger d'avoir été|jetés à l'eau les uns après les autres.
+{48858}{48942}Ecoute Sugata...|ça t'ennuierait d'y aller ?
+{48965}{48985}Maître !
+{49011}{49099}Tu commences l'entraînement demain.
+{49158}{49207}Cependant prends garde !
+{49212}{49300}Depuis l'autre jour|Monma n'a pas dû perdre son temps !
+{49776}{49860}{y:i}Autres écoles
+{50175}{50222}Admirons votre pratique.
+{50314}{50338}Je suis prêt.
+{50579}{50597}Viens !
+{50612}{50655}Eh bien, je vous en prie.
+{53684}{53799}{y:i}Voyez-moi qui approche,|{y:i}c'est Sanshiro
+{53814}{53925}{y:i}Vaut mieux pas s'y frotter,|{y:i}c'est Sanshiro
+{53944}{54051}{y:i}N'approchez surtout pas, fuyez plutôt
+{54074}{54181}{y:i}Quand on s'y frotte|{y:i}il est terrible ce Sanshiro
+{54195}{54265}{y:i}Voyez-moi qui approche...
+{54319}{54428}{y:i}Vaut mieux pas s'y frotter,|{y:i}c'est Sanshiro
+{54678}{54750}{y:i}Quand on s'y frotte|{y:i}il est terrible ce Sanshiro...
+{54885}{54961}Au prochain Tournoi de la Police,
+{54973}{55028}votre père va affronter ce Sanshiro la.
+{55202}{55228}Je le sais.
+{55346}{55409}Ce ne sera pas un combat facile.
+{55520}{55573}L'enjeu en sera la vie ou la mort.
+{55626}{55749}Sugata a occis Monma Saburo en combat.
+{55783}{55875}Les enfants en ont même fait|une chanson...
+{55880}{55923}Papa peut gagner.
+{55975}{56057}Permettez-moi d'en douter.
+{56063}{56149}Après avoir vu ce fameux combat,|papa a totalement renoncé à l'alcool.
+{56178}{56221}Mais il a un certain âge.
+{56226}{56308}Ces derniers temps,|il a retrouvé un teint de jeune homme.
+{56412}{56434}Et alors ?
+{56439}{56509}Et alors...
+{56554}{56605}et alors je prie aussi les dieux.
+{56692}{56780}Sayo-kun, parmi toutes les écoles|de jiu-jitsu, je suis le seul...
+{56789}{56828}à pouvoir vaincre Sugata.
+{56875}{56899}Papa gagnera.
+{56909}{56946}Impossible.
+{56970}{57056}Le seul qui peut le faire pour lui,|c'est moi.
+{57065}{57097}Croyez-moi Sayo.
+{57224}{57271}Non, Papa gagnera.
+{57690}{57735}Bonsoir père.
+{58414}{58459}Tu sais Higaki...
+{58463}{58555}il est loin le temps où l'alcool|me détruisait corps et âme.
+{58571}{58647}Je suis prêt à me battre.|Je serai digne de mon adversaire.
+{58651}{58688}Il est fort, très fort.
+{58774}{58862}Je suis sûr qu'hanté par mon image
+{58880}{58958}il doit s'entraîner de toutes ses forces,
+{58994}{59047}ce Sugata Sanshiro...
+{59832}{59856}{y:i}A LOUER
+{60675}{60709}Mademoiselle !
+{60793}{60852}Qui venez-vous voir ?
+{60892}{60964}J'irai le prévenir de votre venue.
+{61051}{61102}Comment ? Sugata ?
+{61287}{61377}C'est la fille de Monma.|Je soupçonnais quelque chose. Et voilà !
+{61495}{61593}{y:i}Le jeune Sanshiro est atterré|{y:i}par la venue de la fille de Monma.
+{61597}{61691}{y:i}Yano l'entraîne impitoyablement|{y:i}à la lueur de la Lune.
+{61695}{61785}{y:i}Sanshiro n'est plus qu'une loque|{y:i}sans réaction.
+{61812}{61898}{y:i}Mais à force d'être battu, il retrouve|{y:i}peu à peu son énergie vitale.
+{61903}{61997}{y:i}Sans dire un mot le maître lui a|{y:i}redonné le goût de vivre et l'aube se lève.
+{62608}{62678}Regarde ! C'est beau, non ?
+{62902}{62936}Sugata...
+{62953}{63054}tu sais d'où vient cette beauté ?
+{63181}{63273}Dans la prière,|elle a perdu toute conscience de soi.
+{63381}{63473}Elle s'oublie elle-même|pour se fondre dans la divinité.
+{63570}{63660}Rien n'est plus fort que cette beauté
+{63757}{63818}Je propose de ne pas la déranger.
+{63977}{64067}Nous avons été témoins de quelque chose|de très beau Sugata. Ça fait du bien.
+{65077}{65144}- Laissez-moi vous aider.|- Merci mais ça va aller.
+{65161}{65210}Vous ne pouvez rentrer à cloche-pied.
+{65255}{65321}Avec ça je peux me débrouiller.
+{65325}{65384}Je peux le faire plus vite et mieux.
+{65683}{65761}Posez votre pied là-dessus.
+{65994}{66037}Merci.
+{67005}{67054}Peut-être un peu trop serré ?
+{67116}{67154}Je vous remercie.
+{67317}{67350}Votre en-cas !
+{67586}{67627}Et votre cache-col !
+{67840}{67881}Votre cache-col...
+{67916}{67940}Ça ne fait rien.
+{67950}{68007}Je vous le rapporterai.
+{68027}{68047}Pas la peine.
+{68052}{68122}- Vous habitez où ?|- Ne vous inquiétez pas.
+{68311}{68389}- Je ne pensais pas vous revoir ici, et...|- Ça ne fait rien.
+{68682}{68741}Vous l'avez lavé... !
+{68746}{68795}Vous m'avez rendu un grand service.
+{69124}{69177}Vous priez pour quoi chaque jour ?
+{69197}{69267}Pour que mon père gagne un combat.
+{69389}{69457}Que fait donc monsieur votre père ?
+{69469}{69512}Du jiu-jitsu.
+{69607}{69652}Je peux connaître son nom ?
+{69656}{69701}Murai Hansuke.
+{69706}{69807}Dans ce combat, il va affronter|un judoka du Shudokan.
+{70027}{70138}Et vous... vous connaissez le nom|de l'adversaire de votre père ?
+{70154}{70238}Mais oui. Il s'appelle Sugata Sanshiro.
+{70251}{70329}Papa dit qu'il est très fort|malgré sa jeunesse.
+{70398}{70486}Je dois partir. Au revoir.
+{71139}{71172}A vrai dire...
+{71215}{71258}Sugata Sanshiro, c'est moi.
+{71552}{71615}Je souhaite que le sort|soit favorable à votre père !
+{72121}{72207}{y:i}Tournoi d'arts martiaux|{y:i}de la Préfecture de police
+{72211}{72277}{y:i}Affrontement du Tigre et du Dragon
+{72281}{72347}{y:i}Encouragement des Arts Martiaux
+{72353}{72429}{y:i}Préfecture de police
+{72577}{72611}Que fait donc Sugata ?
+{72637}{72706}Quand on est partis|il a dit qu'il avait le temps.
+{72711}{72764}Il lisait|le Livre de l'esprit sain.
+{72774}{72817}Il nous fait faire de la bile.
+{72824}{72927}{y:i}L'esprit du ciel et de la terre|{y:i}se concentre dans la nature.
+{72931}{73023}{y:i}C'est lui qui forme le Mont Fuji|{y:i}du haut de ses milliers d'automnes.
+{73032}{73137}{y:i}C'est lui qui se déverse en rivières|{y:i}qui baignent notre archipel sacré.
+{73147}{73221}{y:i}Il se déploie|{y:i}dans les ramures des cerisiers...
+{74042}{74112}Idiot ! Qu'est-ce que tu fais là|à gober les mouches
+{74125}{74166}alors qu'on t'attend au tournoi !?
+{74356}{74401}Ça ne va pas Révérend !
+{74608}{74651}Je ne peux pas gagner.
+{74656}{74738}Quoi !? Murai Hansuke te fait peur ?
+{74749}{74860}Non. Mais il y a un obstacle|entre lui et moi.
+{74970}{75025}- C'est quoi ?|- Sa fille.
+{75072}{75133}- Tu en es amoureux ?|- Non...
+{75285}{75322}je ne crois pas.
+{75347}{75421}En fait... je l'ai vue transfigurée...
+{75431}{75538}quand elle s'abandonnait à la prière|pour la victoire de son père.
+{75578}{75598}Ça me tourmente.
+{75716}{75794}Comment je pourrais gagner|contre cette beauté ?
+{75798}{75830}Imbécile !
+{76001}{76087}Tu n'as qu'à t'abandonner comme elle.
+{76120}{76144}Je ne peux pas !
+{76148}{76217}Tu le peux !|Ça t'est déjà arrivé !
+{76228}{76277}Quand donc Révérend ?
+{76492}{76564}Le Sugata du Shudokan|est né dans cet étang
+{76636}{76689}Tu as oublié cette nouvelle vie ?
+{76764}{76819}La vie pour toi, c'est quoi Sanshiro ?
+{77252}{77324}- Et alors Sugata ? Et le combat ?|- Prépare-toi vite !
+{77857}{77918}Tu es un homme heureux !
+{77941}{77971}Pourquoi ?
+{77976}{78050}Le vieux gâteux n'a pas voulu|me céder sa place au combat.
+{78111}{78187}Pas la peine de se presser !|On se retrouvera.
+{78199}{78252}- N'oublie pas !|- Jamais !
+{78327}{78380}Allez Sugata ! Viens !
+{78731}{78802}{y:i}Affrontement du Tigre et du Dragon
+{79141}{79229}Reprends-toi ! Regarde le maître.|Fais comme lui !
+{79680}{79743}Rencontre entre Écoles différentes !
+{79780}{79844}École Ryoi-Shinto,|Maître Murai Hansuke.
+{80509}{80597}Ecole de judo Shudokan,|Sieur Sugata Sanshiro.
+{80625}{80686}Sieur pourquoi ?|Appelle-le Maître lui aussi !
+{80705}{80746}- Allons-y !|- Sortez-le !
+{80774}{80823}- Egalité !|- Loyauté !
+{80842}{80874}- Dehors !|- Brutes!
+{80910}{80963}- Brutes vous-mêmes !|- Vos gueules !
+{82298}{82384}Durée du combat une demi heure.|Sans arbitrage.
+{83266}{83286}Allons-y.
+{84855}{84871}Excellent !
+{87162}{87217}{y:i}Papa gagnera.
+{87421}{87472}{y:i}Papa gagnera.
+{87737}{87784}{y:i}Papa gagnera sûrement.
+{89460}{89488}Je renonce.
+{89504}{89522}J'abandonne.
+{89602}{89632}Fin du combat !
+{90161}{90200}Murai-san !
+{90348}{90381}Merci...
+{90560}{90598}Sugata-san...
+{90628}{90663}vous êtes très fort.
+{90732}{90777}Ça a été formidable.
+{90801}{90837}Je n'étais pas un adversaire...
+{90874}{90912}J'ai eu de la chance.
+{91172}{91211}Soignez-vous bien.
+{92275}{92388}{y:i}Voyez-moi qui approche, c'est Sanshiro
+{92403}{92514}{y:i}Vaut mieux pas s'y frotter,|{y:i}c'est Sanshiro
+{92525}{92638}{y:i}N'approchez surtout pas, fuyez plutôt
+{92654}{92757}{y:i}Prenez garde, c'est Sanshiro
+{93577}{93613}Cher Sugata,
+{93647}{93684}vous savez...
+{93711}{93768}pour ce fameux combat...
+{93782}{93854}j'ai utilisé toute ma force|pour la première fois de ma vie.
+{93876}{93946}J'ai atteint là mon sommet.
+{93983}{94038}Quand le combat a été fini,
+{94045}{94127}j'ai senti mon corps|s'affaiblir d'un seul coup.
+{94193}{94246}C'est tout simple.
+{94301}{94377}En tout cas c'est gentil être venu.
+{94400}{94492}Je tiens à vous remercier à nouveau.|Merci.
+{94554}{94638}Je ne vous ai pas trop embarrassé|en vous envoyant ma fille ?
+{94654}{94689}Du tout.
+{94727}{94763}Pas le moins du monde.
+{95273}{95336}Ce combat a été formidable.
+{95368}{95407}Même jeté au sol !
+{95495}{95517}Je n'ai nul dépit.
+{95765}{95822}Le dîner est prêt.
+{95838}{95938}Papa, tu veux rester au lit ?|Je t'ai préparé du brouet de riz.
+{95951}{96012}Non, je me lève. Je me sens bien.
+{96642}{96689}C'est délicieux.
+{96700}{96768}Sayo est une excellente cuisinière.
+{98601}{98662}{y:i}Mise en demeure
+{98666}{98769}"Selon nos accords, je vous précise ici|les conditions de notre duel :
+{98785}{98873}"le 26 décembre à 20 heures,|Plaine de Ukyo.
+{98878}{98956}"Le témoin en sera Maître Iinuma.
+{98961}{99057}"Ce combat utilisera la technique|du jiu-jitsu en tenue d'exercice.
+{99062}{99167}"Ce combat restera privé|car ce sera un duel à mort.
+{99183}{99288}"De la part de Higaki Gennosuke|à Sugata Sanshiro-sama."
+{99421}{99482}{y:i}Dans sa main droite, le glaive sanglant
+{99570}{99642}{y:i}Dans sa main gauche,|{y:i}les rênes de son cheval
+{99667}{99755}{y:i}Il a fière allure à cheval,|{y:i}le beau jeune homme
+{99799}{99891}{y:i}Ne pleure pas,
+{99933}{100079}{y:i}mon fier coursier...
+{100205}{100363}{y:i}L'enjeu de ce soir, ce n'est pas l'amour
+{100417}{100565}{y:i}Il pleut à verse|{y:i}et ma cape de combat est trempée
+{100661}{100805}{y:i}On ne revient de la Côte de Tahara|{y:i}que mort ou vainqueur
+{101966}{102035}Attendez, je pose à tous deux|une dernière question :
+{102039}{102069}ce duel|est-il inévitable ?
+{102086}{102114}Bien sûr !
+{102134}{102212}Bien sûr, vous deviez|vous affronter un jour.
+{102216}{102282}Mais aujourd'hui|il ne s'agit pas d'un jeu.
+{102286}{102325}Un duel à mort,|quel gâchis !
+{102371}{102494}Si mon maître|m'avait donné ma chance l'an passé,
+{102499}{102529}on n'en serait pas là.
+{102579}{102648}Je ne veux perdre aucun de vous deux.
+{102656}{102693}Maître Iinuma...
+{102726}{102800}vous pouvez vous moquer|de notre jeunesse stupide
+{102882}{102949}mais c'est notre destin.
+{103085}{103120}Dans ce cas...
+{103248}{103283}allez-y !
+{105526}{105548}Quel gâchis !
+{106105}{106123}Non !
+{107629}{107645}Terminé !
+{107727}{107763}Pas encore !
+{107817}{107866}Pas encore !
+{109024}{109092}Au fait, c'est bizarre...
+{109129}{109172}Sanshiro ne vient pas aujourd'hui ?
+{109177}{109269}Il a décidé tout d'un coup de partir en voyage.
+{109274}{109356}En voyage... ? Pourquoi ?
+{109432}{109545}Il semble qu'il ait à réfléchir|à quelque chose...
+{109629}{109705}Il aime vraiment se compliquer la vie.
+{109710}{109802}C'est son son histoire avec Higaki|qui le tracasse ?
+{109894}{110011}En fait, Higaki lui-même a changé|depuis ce combat hors les murs.
+{110034}{110095}Il n'en tient nullement rancune à Sugata.
+{110099}{110175}Alors, quelle est donc la cause|du tourment de Sanshiro ?
+{110493}{110594}En tout cas Yano-san...
+{110622}{110696}le jour où vous ne pourrez rien en tirer,
+{110721}{110824}dites-lui de venir contempler|le pieu de l'étang aux lotus.
+{110896}{110965}Je ne crois pas que ça|lui soit utile cette fois...
+{110991}{111104}Sugata n'est-il pas|devenu adulte pour de bon ?
+{111110}{111145}Pas encore, loin de là !
+{111168}{111250}Sugata restera encore longtemps|un nourrisson.
+{111432}{111512}Quand j'ai proposé de vous accompagner|jusqu'à Yokohama,
+{111525}{111580}je vous ai peut-être embarrassé ?
+{111590}{111626}Mais non.
+{111691}{111783}C'est papa qui a insisté...
+{111812}{111863}Je vous dis que ça va.
+{111997}{112034}Qu'est-ce qu'il y a ?
+{112038}{112083}Quelque chose dans l'œil.
+{112344}{112385}Ça fait si mal que ça ?
+{112560}{112619}Je reviendrai vite.
+{112657}{112718}Prenez bien soin de votre père.

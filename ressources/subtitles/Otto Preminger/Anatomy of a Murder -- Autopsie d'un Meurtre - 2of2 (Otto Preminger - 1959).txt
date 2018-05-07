@@ -1,0 +1,1492 @@
+{7}{45}Mais, Votre Honneur,
+{48}{153}étant donné que nous en sommes aux|protestations, j'aimerais en élever une.
+{158}{280}Je suis tout disposé à affronter ces deux|géants de la loi où et quand il leur plaira.
+{289}{349}En toute équité,|il ne devrait y en avoir qu'un.
+{352}{447}Il n'est pas juste que ces deux champions|me tirent dessus tous les deux ensemble.
+{448}{521}Vous me semblez être de taille à riposter
+{524}{584}mais je prends votre demande|en considération.
+{587}{650}Le représentant du ministère|qui prendra la parole
+{652}{759}continuera seul à interroger le témoin|jusqu'à la fin de sa déposition.
+{762}{819}Merci Votre Honneur.|Je n'ai plus de questions.
+{822}{857}Pas de questions.
+{1119}{1157}On s'en sort bien, non?
+{1160}{1237}- Où est Parnell?|- Pourquoi? Il n'est pas ici?
+{1239}{1317}Non, ni dans sa cabane.|Il n'est pas rentré de la nuit.
+{1319}{1359}Vous l'avez vu. Où il est?
+{1362}{1414}J'ai promis de ne rien dire,|ne demandez pas.
+{1416}{1469}Il a recommencé à boire?
+{1472}{1499}Non. Il était sobre.
+{1501}{1533}Il est allé quelque part?
+{1536}{1591}Il a emprunté ma voiture|pour quelque chose.
+{1592}{1637}Votre voiture? C'est malin.
+{1637}{1725}Ça fait vingt ans qu'il n'a pas conduit.|Il va se tuer. Où il est allé?
+{1726}{1768}Motus et bouche cousue.
+{2241}{2336}RALENTIR - POSTE D'INSPECTION|DES DOUANES CANADIENNES
+{2393}{2440}Bonjour mesdames et messieurs.
+{2445}{2485}L'audience est ouverte.
+{2486}{2524}Votre Honneur,
+{2537}{2627}la défense remarque une troisième|personne à la table du ministère public.
+{2630}{2705}Nous nous demandons|si la cour est curieuse sur son identité?
+{2706}{2751}J'allais la présenter justement.
+{2752}{2842}Ce monsieur est le Dr W.Gregory Harcourt.
+{2863}{2940}Le Dr Harcourt est le psychiatre|choisi par l'accusation.
+{2951}{3056}Nous demandons qu'il soit admis à siéger|à notre table comme observateur.
+{3061}{3179}Lui faire observer quoi? La constellation|du Taureau ou les mœurs du cafard?
+{3186}{3246}Le comportement de l'accusé évidemment.
+{3263}{3296}Très bien.
+{3296}{3336}La défense n'a aucune objection.
+{3339}{3404}Je tiens à exprimer mon soulagement
+{3406}{3509}de constater qu'aucune nouvelle recrue|juridique n'a été amenée en renfort.
+{3515}{3570}J'appelle le témoin Al Paquette.
+{3721}{3761}Levez la main droite.
+{3764}{3829}Jurez solennellement|de témoigner avec sincérité
+{3831}{3923}et de dire la vérité, toute la vérité,|rien que la vérité. Dites "je le jure".
+{3927}{3972}- Je le jure.|- Asseyez-vous.
+{4035}{4078}Voulez-vous déclarer votre nom?
+{4078}{4116}Al Paquette.
+{4119}{4214}- Vous travaillez à l'hôtel de Thunder Bay?|- Je suis barman.
+{4220}{4302}Vous travailliez le soir où Barney Quill|a été tué par Manion?
+{4301}{4358}- Oui.|- Vous avez assisté à l'attentat?
+{4361}{4386}Oui.
+{4390}{4478}Voulez-vous nous raconter,|à votre manière, ce qui s'est passé?
+{4485}{4568}J'étais à une table près de la porte|quand le lieutenant Manion est arrivé.
+{4572}{4625}Vous aviez déjà vu|le lieutenant Manion avant?
+{4627}{4672}- Oui monsieur.|- Continuez.
+{4690}{4780}Il a ouvert la porte,|il s'est approché du bar et il a tiré.
+{4805}{4862}Il a tiré une première fois près du bar.
+{4867}{4959}Quand Barney s'est écroulé,|il a continué à lui tirer dessus.
+{4963}{5000}Et il est sorti de la salle.
+{5001}{5056}Quand le lieutenant Manion est entré dans le bar,
+{5055}{5109}comment vous avez ressenti son attitude?
+{5112}{5157}Il avait l'air détendu.
+{5171}{5224}Un air délibéré.
+{5227}{5272}Il a parlé à Barney Quill?
+{5275}{5302}Pas un mot.
+{5315}{5393}Il s'est seulement approché,|il a tiré son arme et "pan".
+{5399}{5461}- Et aussitôt après il est sorti?|- Oui.
+{5473}{5551}Lorsqu'il est sorti,| comment vous avez ressenti son attitude?
+{5555}{5613}Il était aussi détendu qu'à l'arrivée.
+{5615}{5675}Comme un facteur|qui vient d'apporter le courrier.
+{5678}{5750}Quand le lieutenant Manion est sorti de la salle,|qu'est-ce que vous avez fait?
+{5751}{5829}Ça a été si vite|que je suis resté un instant abasourdi.
+{5836}{5903}- Je lui ai couru après.|- Vous l'avez trouvé dehors?
+{5908}{5973}- Il s'en allait, tranquillement.|- Vous lui avez parlé?
+{5975}{6075}Oui, je lui ai dit "Lieutenant,|vous pouvez pas vous sauver après ça."
+{6078}{6123}Et il vous a répondu?
+{6138}{6208}Il a dit "Tu en veux aussi patate?"
+{6221}{6269}Il a braqué son arme vers vous?
+{6272}{6369}Il tenait le revolver dans ma direction|mais le canon était vers le bas.
+{6373}{6465}Lorsqu'il a dit|"Est-ce que tu en veux aussi patate?",
+{6469}{6504}sur quel ton s'est-il exprimé?
+{6507}{6629}Il hurlait? Il avait l'air hors de lui?|Un accent rauque? Une voix tremblante?
+{6651}{6748}Non monsieur. Il avait un ton froid|et il me regardait en face.
+{6757}{6829}Vous a-t-il paru,|autant que vous pouviez en juger,
+{6830}{6900}se trouver en pleine possession|de ses facultés?
+{6912}{6967}Oui, autant que j'aie pu en juger.
+{6982}{7052}- Le témoin est à vous.|- Avez-vous vu Laura Manion,
+{7054}{7109}l'épouse du lieutenant Manion, au bar ce soir-là?
+{7111}{7186}Voilà qu'il recommence.|C'est sans rapport réel avec l'affaire.
+{7188}{7288}Je ne vois pourquoi l'accusation s'emballe|avant même que j'aie pu faire un pas.
+{7289}{7374}Voyons où il veut se diriger|avant de faire opposition M.Lodwick.
+{7377}{7425}Vous pouvez continuer.
+{7430}{7495}Vous avez vu Mme Manion|au bar ce soir-là?
+{7500}{7585}- Je l'ai vue.|- Barney Quill a-t-il quitté le bar?
+{7602}{7655}- Oui.|- Vous vous rappelez son retour?
+{7658}{7703}Il était à peu près minuit.
+{7706}{7748}Il est rentré par quelle porte?
+{7751}{7851}Il est passé par la porte du vestibule|ou il est passé par la porte de l'extérieur?
+{7855}{7895}Par le vestibule.
+{7907}{7989}- Quelle était son apparence à cet instant?|- Comment ça?
+{7991}{8036}Vous avez très bien compris l'accusation
+{8039}{8114}quand on vous a posé une question|sur l'apparence du lieutenant Manion.
+{8116}{8184}Il était le bon vieux Barney|de tous les jours.
+{8192}{8292}Vous voulez dire le doux,|le sobre, l'agneau pascal,
+{8296}{8391}le saint, le sel de la terre,|l'ami de l'homme dans le malheur?
+{8394}{8492}- Quelle sorte de question est-ce?|- Je retire cette dernière question.
+{8526}{8568}M.Paquette,
+{8576}{8666}Est-ce que Barney avait changé de vêtements|depuis son départ du bar?
+{8672}{8697}Je ne me rappelle pas.
+{8699}{8766}Sa tenue aurait pu être différente|quand il est rentré?
+{8766}{8831}Il est possible qu'il ait changé de tenue?
+{8845}{8883}Je n'ai rien remarqué.
+{8891}{8948}Est-ce que Barney avait bu ce soir-là?
+{8977}{9044}Faut bien boire un petit coup|avec la clientèle
+{9046}{9126}- et les amis.|- Oui, il avait tant d'amis.
+{9130}{9220}Combien de coups pensez-vous|que ce cher homme buvait en général?
+{9223}{9248}Je ne sais pas au juste.
+{9252}{9325}En fait, n'était-il pas en état d'ébriété|ce soir-là?
+{9327}{9359}Opposition.
+{9362}{9452}Même si le défunt avait été ivre mort|ce ne serait pas une justification.
+{9454}{9532}Accepté. Je conseille à la défense|d'abandonner ce point.
+{9543}{9573}M.Paquette.
+{9576}{9678}Comment appelez-vous un homme qui|a un insatiable penchant pour les femmes?
+{9684}{9712}Comment?
+{9722}{9802}Un penchant:|Un désir, un goût, une passion.
+{9835}{9875}Un homme à femmes.
+{9876}{9929}Enfin, je dirais plutôt un dingue.
+{9967}{10037}Contentez-vous de répondre aux questions.
+{10043}{10108}Les avocats sont là|pour pourvoir aux facéties.
+{10144}{10202}Quel autre nom donneriez-vous|à un tel homme?
+{10205}{10255}Nous ne voyons pas|à quoi ceci peut mener.
+{10257}{10309}C'est-à-dire que vous le voyez trop bien.
+{10312}{10347}Vous pouvez répondre.
+{10345}{10395}Connaissez-vous un autre nom?
+{10417}{10467}- Un cavaleur.|- Cherchez encore.
+{10487}{10552}- Un coureur?|- Voyons M.Paquette.
+{10555}{10650}Les coureurs sont morts|avec les bas noirs et les corsets à baleine.
+{10652}{10730}- Vous ne connaissez pas "obsédé sexuel"?|- Si.
+{10732}{10812}- C'est pas tellement courant.|- Pas tellement courant. Evidemment.
+{10814}{10876}Vous employez des termes|comme coureur.
+{10881}{10968}Est-ce que vous avez connu quelqu'un|qu'on puisse qualifier d'obsédé sexuel?
+{10969}{11037}- Je suis pas sûr.|- Barney Quill l'était?
+{11039}{11069}- Je ne saurais dire.|- Voulez.
+{11072}{11119}- Objection.|- Acceptée.
+{11122}{11192}Le témoin a déjà répondu|qu'il ne saurait le dire.
+{11212}{11279}M.Paquette, quand Barney est revenu
+{11281}{11334}de l'endroit quel qu'il soit où il était allé,
+{11336}{11388}- il vous a relayé au bar?|- Oui.
+{11394}{11469}- Qu'est-ce qu'il vous a dit?|- Il a dit "Je te remplace."
+{11472}{11552}Quand vous avez quitté votre place au bar,|vous êtes allé où?
+{11554}{11627}Je suis allé à la table des Paterson|qui étaient là.
+{11631}{11716}Vous avez déclaré être à côté de la porte|lorsque Manion est entré.
+{11717}{11792}Vous étiez à cet endroit|parce que la table des Paterson y était?
+{11794}{11824}Oui.
+{11827}{11905}C'était combien de temps|avant l'arrivée du lieutenant Manion?
+{11921}{11998}Je sais plus au juste.|A peu près une demi-heure.
+{12003}{12060}Et vous êtes resté à la table des Paterson?
+{12062}{12100}Oui. C'est des amis à moi.
+{12101}{12169}Est-ce qu'il y a aussi une fenêtre|à côté de cette table?
+{12173}{12218}- Je crois que oui.|- Vous croyez.
+{12216}{12299}Il y a combien de temps|que vous travaillez dans l'établissement?
+{12302}{12332}Ça fait six ou sept ans.
+{12334}{12436}Est-ce que cette fenêtre près de la table|se volatilise miraculeusement,
+{12441}{12534}réapparaît et continue ce petit ballet|comme un feu follet?
+{12537}{12567}Elle est là tout le temps.
+{12569}{12676}Pendant que vous causiez avec vos amis,|vous n'avez pas regardé par la fenêtre?
+{12679}{12726}- C'est possible.|- En regardant,
+{12727}{12817}- vous ne cherchiez pas quelque chose?|- Non, je regardais pour regarder.
+{12820}{12928}Est-ce que Barney Quill vous a chargé|d'aller à cette table pour guetter Manion?
+{13007}{13072}Est-ce qu'il vous a chargé de guetter le lieutenant Manion?
+{13084}{13119}Il n'a rien dit.
+{13168}{13258}Barney Quill n'était-il pas|un remarquable tireur au revolver?
+{13261}{13319}Est-ce qu'il n'avait pas gagné des prix|dans des concours?
+{13322}{13402}- Oui.|- Est-ce qu'il gardait un revolver derrière le bar?
+{13549}{13584}C'est possible.
+{13587}{13690}N'est-ce pas un fait qu'il y a trois cases|à revolver dissimulées derrière le bar?
+{13693}{13778}La défense a dit plaider la démence|et non la légitime défense.
+{13779}{13867}Je suis sûr que M.Biegler|n'a pas oublié ce fait.
+{13875}{13905}Vous pouvez répondre.
+{13907}{13982}Est-ce qu'il y a des cases à revolver|dissimulées derrière le bar?
+{13985}{14063}- Oui.|- Beaucoup de personnes le savent?
+{14074}{14099}Je n'en sais rien.
+{14103}{14190}N'est-ce pas un fait que Barney sortait|de temps en temps les revolvers,
+{14191}{14309}les faisait tourner autour de son doigt|et faisait étalage de son habileté?
+{14331}{14389}- Je ne me rappelle pas.|- Essayez de vous rappeler.
+{14393}{14456}Vous ne l'avez jamais vu faire ce numéro?
+{14465}{14493}Une ou deux fois.
+{14494}{14539}Ce sera tout M.Paquette.
+{14542}{14577}Pas d'autres questions.
+{14580}{14615}Le témoin peut aller s'asseoir.
+{14616}{14668}J'appelle George Lemon.
+{14805}{14873}Biegler a l'air de frapper|dans toutes les directions.
+{14872}{14922}A votre avis, qu'est-ce qu'il cherche?
+{14987}{15065}J'ai l'impression qu'il cherche|la même chose que nous.
+{15083}{15146}Il embrouille les pistes|pour une raison qui m'échappe.
+{15173}{15205}- Je le jure.|- Asseyez-vous.
+{15261}{15336}- Déclarez votre nom s'il vous plaît.|- George Lemon.
+{15345}{15395}Quel genre de travail faites-vous?
+{15398}{15465}Je suis surveillant|du parc de tourisme de Thunder Bay.
+{15467}{15515}Je veille à la propreté et à l'ordre.
+{15518}{15593}J'enregistre le nombre des entrées|et le soir je ferme.
+{15592}{15660}De qui tenez-vous vos pouvoirs|pour ce service?
+{15662}{15749}Je suis payé par la ville de Mastodon|et je suis en même temps shérif adjoint.
+{15753}{15803}C'est une gentillesse qu'ils me font.
+{15803}{15876}Vous avez vu le lieutenant Manion|dans la nuit du 15 au 16,
+{15878}{15943}- la nuit où Barney Quill a été tué?|- Oui.
+{15966}{16014}Voulez-vous dire à la cour
+{16017}{16132}comment, quand et où vous avez vu|ce soir-là le lieutenant Manion?
+{16141}{16208}Vers une heure|je me suis réveillé parce qu'on frappait.
+{16213}{16275}J'ai ouvert|et j'ai vu le lieutenant Manion qui était là.
+{16277}{16385}Il a dit "Il faut m'arrêter M.Lemon|parce que je viens de tuer Barney Quill."
+{16395}{16477}Je lui ai dit d'aller m'attendre|et que j'allais avertir la police.
+{16479}{16572}Dans quel état se trouvait le lieutenant Manion|en vous disant "Arrêtez-moi"?
+{16575}{16658}Il a dit ce qu'il avait à dire,|il a fait ce que je lui ai dit.
+{16659}{16736}Vous a-t-il paru,|autant que vous ayez pu en juger,
+{16745}{16805}être en pleine possession de ses facultés?
+{16808}{16860}Autant que j'ai pu en juger, oui.
+{16891}{16934}Je vous laisse le témoin.
+{16939}{17024}M.Lemon, êtes-vous allé|à la caravane des Manion?
+{17026}{17051}Oui.
+{17054}{17122}- Mme Manion était à la caravane?|- Oui monsieur.
+{17121}{17169}Quelle était son apparence?
+{17187}{17232}Elle ressemblait à un boxeur.
+{17251}{17314}Je fais opposition.|Aucun moyen n'a été apporté
+{17316}{17376}que l'apparence de Mme Manion|relevait de l'affaire.
+{17380}{17468}Ni pour montrer que l'apparence|de Barney Quill relevait de l'affaire
+{17470}{17512}mais vous n'avez pas fait opposition.
+{17515}{17605}Vous saviez que Barney Quill|avait pris un bain et s'était changé
+{17606}{17666}après avoir violé et assommé|cette pauvre femme?
+{17668}{17771}Dans cette affaire tout le monde se trouve|incriminé excepté Manion. Je me vois...
+{17772}{17872}Faire un examen contradictoire pour un|meurtre n'est pas un exercice académique.
+{17872}{17959}Que cherchez-vous,|boucler l'accusé coûte que coûte?
+{17961}{18026}Vous avez|une longue expérience du barreau,
+{18033}{18098}vous savez qu'on ne se livre pas|à de tels éclats.
+{18098}{18173}Je n'ai pas l'intention|de permettre ces intempérances.
+{18175}{18247}Et si vous mettez encore|la patience de la cour à l'épreuve,
+{18248}{18298}je vous infligerai un blâme.
+{18340}{18370}Je regrette.
+{18390}{18420}Votre Honneur,
+{18440}{18493}je présente mes excuses à la cour.
+{18496}{18528}Ça ne se reproduira plus.
+{18529}{18636}La réponse du témoin sera rayée|et le jury ne devra pas en tenir compte.
+{18654}{18709}Vous pouvez continuer.
+{18712}{18742}Merci.
+{18764}{18799}M.Lemon.
+{18812}{18899}Dans la nuit où le lieutenant Manion|vous a réveillé pour se livrer à vous,
+{18901}{18936}vous aviez déjà été réveillé?
+{18939}{19009}- Autre chose a troublé votre sommeil?|- Non.
+{19011}{19054}Pas de soldats qui chantaient?
+{19057}{19122}Non. Jamais dans mon camp|après 10 heures du soir.
+{19121}{19174}Aucune femme n'avait poussé|de hurlement?
+{19177}{19222}Y a eu des cris. En bas, à la porte.
+{19225}{19257}Opposition!
+{19263}{19325}Je ne vois pas encore motif à opposition.
+{19340}{19400}Voulez-vous nous parler de ces cris?
+{19417}{19457}Je n'ai rien entendu moi-même.
+{19460}{19557}Des touristes de l'Indiana ont entendu crier|et me l'ont dit le lendemain.
+{19558}{19583}M.Lodwick?
+{19584}{19656}Ce témoignage est indirect, non fondé,
+{19656}{19728}non probant, illégal, irrecevable...
+{19733}{19778}C'est beaucoup trop pour moi.
+{19791}{19833}Le témoin est à vous.
+{19887}{19924}Pas de questions.
+{19934}{19981}Le témoin peut regagner sa place.
+{19984}{20027}Appelez le témoin suivant.
+{20078}{20130}Inspecteur de police James Durgo.
+{20174}{20216}- Salut Paulo.|- Bonjour.
+{20275}{20350}Dès qu'il y a une suspension|appelez le psychiatre de l'armée.
+{20352}{20417}- Dites-lui d'être là après-demain.|- D'accord.
+{20424}{20501}Pouvez-vous me dire|tout de suite où Parnell est allé?
+{20545}{20580}Vous êtes renvoyée!
+{20608}{20676}Avant de me renvoyer|faudrait d'abord me payer.
+{20728}{20798}Avez-vous été appelé|par le shérif adjoint M.Lemon,
+{20800}{20873}- la nuit où Barney Quill a été tué?|- Oui.
+{20898}{20950}Avec mon agent|on a été les premiers appelés.
+{20951}{21038}Quand vous êtes arrivé|à la caravane de Manion, il y avait qui là?
+{21042}{21094}Le lieutenant Manion et sa femme y étaient.
+{21100}{21157}Qu'est-ce que le lieutenant Manion vous a dit?
+{21178}{21256}Il a dit que sa femme avait eu|certains démêlés avec Barney Quill,
+{21260}{21328}qu'il était allé au bar et qu'il avait tiré sur Quill.
+{21327}{21407}Il nous a demandé s'il était mort|et on a répondu "oui".
+{21409}{21472}Et comment il a pris cette information?
+{21485}{21523}Il n'a pas eu l'air surpris.
+{21524}{21569}Qu'est-ce que vous avez fait ensuite?
+{21575}{21620}Je lui ai demandé son revolver.
+{21622}{21722}Avez-vous conduit le lieutenant Manion à la prison|du comté ici, à Iron City, le soir même?
+{21725}{21790}Oui. On l'a emmené en voiture|avec sa femme.
+{21792}{21890}Au cours du trajet le lieutenant|a-t-il continué à parler de son acte?
+{21917}{22012}A un moment il nous a dit que si tout ça|était à recommencer, il le referait.
+{22016}{22098}Et pendant tout ce temps, à la caravane,|pendant le trajet en voiture,
+{22099}{22154}quelle apparence avait le lieutenant Manion?
+{22171}{22224}Il avait l'air très calme|à ce qui m'a semblé.
+{22227}{22257}Très détendu.
+{22260}{22357}Autant que vous puissiez en juger, était-il|en pleine possession de ses facultés?
+{22361}{22401}Oui, c'est ce qui m'a semblé.
+{22401}{22434}Le témoin est à vous.
+{22438}{22540}Vous avez déclaré que le lieutenant Manion|avait dit qu'il avait tué Barney Quill
+{22543}{22638}après avoir appris que sa femme avait eu|certains démêlés avec Quill.
+{22653}{22740}Ce sont bien les mots dont le lieutenant Manion|s'est servi "certains démêlés"?
+{22742}{22795}Non. Ce sont mes mots à moi,|pas les siens.
+{22797}{22859}Entrait-il dans vos intentions|d'employer vos mots?
+{22862}{22905}Non.
+{22912}{22962}Est-ce que la suggestion d'appeler ça|"certains démêlés"
+{22965}{23037}vous a été faite|par quelqu'un ici présent?
+{23080}{23110}Oui, en effet.
+{23140}{23255}Voulez-vous dire à la cour|de quels mots le lieutenant Manion s'est servi,
+{23258}{23305}pour qualifier ces démêlés?
+{23310}{23375}Opposition. Le processus recommence.
+{23378}{23453}Cette information n'a aucun rapport|avec les points soumis.
+{23451}{23579}La déclaration sur ces "démêlés" a été faite|quand vous avez interrogé l'inspecteur.
+{23593}{23715}Vous avez très adroitement écarté toutes|les dépositions concernant Laura Manion.
+{23723}{23808}Vous avez levé le lièvre,|je n'ai plus à me gêner pour le chasser.
+{23809}{23886}C'est un point très épineux|que vous soulevez là.
+{23893}{23943}Je donne la parole au ministère public.
+{23945}{23985}La tâche qui incombe à la défense
+{23987}{24057}est de prouver la démence de l'accusé|au moment du meurtre.
+{24059}{24154}La démonstration de cette prétendue|démence a une importance capitale.
+{24154}{24214}Il faut demander l'avis|d'un témoin compétent.
+{24217}{24282}Un expert spécialiste|des maladies mentales.
+{24308}{24370}Or la défense ne cherche rien d'autre
+{24372}{24440}qu'à susciter|des incidents d'audience sensationnels
+{24442}{24509}pour camoufler|le véritable objet de l'instance.
+{24538}{24653}Comment le jury sera-t-il en mesure|d'apprécier la déposition de ce témoin
+{24653}{24735}sans connaître à fond|ce qui constitue la base de tout le procès:
+{24737}{24807}La raison qui a poussé Manion|à tuer Barney Quill?
+{24809}{24909}Le ministère public voudrait séparer|l'accomplissement du mobile de l'acte.
+{24924}{25024}C'est comme si on essayait d'extraire le|cœur d'une pomme sans entamer la peau.
+{25027}{25144}Le cœur de notre défense, c'est que|la démence temporaire de l'accusé
+{25152}{25227}a été provoquée par ces démêlés,|comme on veut les appeler.
+{25231}{25281}C'est pourquoi je prie la cour,
+{25312}{25390}je prie, j'implore la cour|de me laisser couper la pomme.
+{25442}{25497}Notre opposition tient toujours.
+{25849}{25892}L'opposition est rejetée.
+{26106}{26183}Dites à la cour comment le lieutenant Manion|a défini les démêlés
+{26188}{26238}de sa femme avec Barney Quill.
+{26240}{26310}Il nous a dit que Quill avait violé sa femme.
+{26317}{26422}Pouvez-vous répéter au plus près ce que|le lieutenant Manion a dit à propos de ce viol?
+{26429}{26459}Oui.
+{26463}{26538}Il a dit qu'il s'était endormi|tout de suite après le dîner.
+{26540}{26635}A un moment il a été réveillé par du bruit,|des cris, il lui a semblé.
+{26639}{26736}Alors il s'est levé, il a ouvert la porte|de la caravane et il est sorti.
+{26736}{26819}Sa femme est arrivée en courant|et elle lui est tombée dans les bras.
+{26823}{26891}Vous avez vu sa femme à la caravane.|Comment elle était?
+{26893}{26968}Elle était assez agitée.|Elle avait été pas mal brutalisée.
+{26967}{27042}Elle avait des bleus partout,|sur la figure et sur les bras.
+{27041}{27108}Mme Manion vous a-t-elle parlé de ce viol?
+{27113}{27138}Oui.
+{27142}{27189}Vous a-t-elle fait voir l'endroit?
+{27192}{27222}Le lendemain matin.
+{27224}{27256}Est-ce que vous avez trouvé
+{27257}{27362}des indices quelconques se rapportant|au récit que Mme Manion vous avait fait?
+{27365}{27478}Oui. Sur la route forestière il y avait des|empreintes de pneus et de pattes de chien.
+{27483}{27575}Et on a trouvé un étui|avec une paire de lunettes d'écaille.
+{27595}{27730}On a cherché aussi un sous-vêtement|de Mme Manion mais on ne l'a pas trouvé.
+{27737}{27829}Que les avocats des deux parties|veuillent bien s'approcher de moi.
+{27900}{27995}Vous avez réussi à introduire|votre viol dans le débat
+{28000}{28092}et je crois que tous les détails|devront être clairement exposés au jury.
+{28093}{28131}Vous êtes d'accord?
+{28146}{28174}Tout à fait.
+{28187}{28269}Quel était exactement|le sous-vêtement en question?
+{28271}{28311}Un slip Votre Honneur.
+{28312}{28367}Vous croyez qu'on aura à en reparler?
+{28367}{28402}Ça oui.
+{28405}{28505}Ce mot de slip a un côté suggestif|qui me paraît dangereux.
+{28511}{28559}On ne pourrait pas en trouver un autre?
+{28559}{28634}Je n'ai jamais entendu ma femme|appeler ça autrement.
+{28657}{28702}Je suis célibataire.
+{28705}{28772}Ça nous avance bien.
+{28772}{28884}Je ne suis pas expert en la matière|mais qu'on l'appelle slip ou culotte,
+{28889}{28949}l'un et l'autre me paraissent|aussi suggestifs.
+{28952}{28995}C'est bien mon opinion.
+{29000}{29060}Tant pis, reprenez vos places.
+{29091}{29199}Pour l'information du jury, mais plus|spécialement pour le bénéfice de l'auditoire
+{29201}{29296}le sous-vêtement auquel le témoin|vient de faire allusion était
+{29305}{29345}le slip de Mme Manion.
+{29441}{29531}Je vous laisse donner libre cours|à votre hilarité une fois pour toutes.
+{29535}{29635}On parlera du slip en question|au cours des débats qui vont suivre.
+{29642}{29752}Et quand ça arrivera, je n'admettrai|ni un souffle, ni un sourire, ni un rire
+{29756}{29826}et encore moins des ricanements|dans la salle d'audience.
+{29827}{29917}Discuter au sujet d'un slip|n'a vraiment rien de comique
+{29921}{30004}lorsqu'il s'agit de la mort violente|d'un être humain.
+{30005}{30085}Et peut-être aussi|de l'incarcération d'un autre.
+{30106}{30141}Continuez.
+{30141}{30199}Mme Manion a-t-elle subi|un test du mensonge?
+{30202}{30282}Opposition. Ce test n'est pas admis|comme preuve en justice.
+{30285}{30368}Je demande si elle a subi un test.|Je n'en demande pas le résultat.
+{30369}{30411}Le témoin peut répondre.
+{30417}{30489}Elle a subi le test de détection|du mensonge sur sa demande.
+{30491}{30576}Et après toutes ces investigations,|avez-vous cru Mme Manion?
+{30580}{30605}Je l'ai crue.
+{30606}{30684}- Même après le test?|- Je fais opposition à cette question.
+{30688}{30783}Elle constitue un subterfuge de la part|de la défense pour tourner l'opposition.
+{30784}{30827}Opposition acceptée.
+{30841}{30931}Le jury doit être informé|que le test pour détecter le mensonge
+{30932}{31025}n'est pas admis comme preuve parce|qu'on n'a jamais pu établir à coup sûr
+{31026}{31121}qu'un menteur habile ne puisse mentir|au détecteur sans être démasqué.
+{31124}{31154}Continuez.
+{31165}{31265}Quoiqu'il en soit, vous-même, au fond|de votre cœur et de votre conscience,
+{31268}{31326}êtes-vous convaincu|que Mme Manion a dit la vérité?
+{31328}{31375}- Oui.|- C'est tout, merci.
+{31421}{31461}Un moment.
+{31592}{31672}Est-ce que vous avez cherché le slip|ailleurs que dans le chemin forestier?
+{31671}{31751}Oui. Dans la voiture de Barney Quill|et dans sa chambre à l'hôtel.
+{31755}{31787}Mais on ne l'a pas trouvé.
+{31791}{31874}Est-ce que vous savez pourquoi Mme Manion|a demandé à subir le test de vérité?
+{31872}{31922}- Je sais ce qu'elle m'a dit.|- Quoi?
+{31923}{32018}Elle a dit "Je veux qu'on pense que j'ai dit|vrai parce que ça peut servir mon mari."
+{32019}{32064}C'est la seule raison qu'elle a donnée?
+{32067}{32162}Elle a dit qu'elle l'avait juré à son mari|et qu'elle voulait que tous le croient.
+{32165}{32218}Vous permettez Votre Honneur?
+{32299}{32357}Demandez de quelle manière elle a juré.
+{32366}{32446}Mme Manion a-t-elle dit|comment elle avait juré à son mari?
+{32448}{32518}Oui. Elle a dit|qu'elle avait juré sur un rosaire.
+{32553}{32653}Ce chemin forestier: à quoi il sert?|Où il mène?
+{32662}{32739}C'est un chemin pour les bûcherons.|Il ne mène nulle part.
+{32743}{32783}A quoi il sert en fait?
+{32791}{32843}Les gens y arrêtent quelquefois|leur voiture.
+{32846}{32909}- Un chemin pour les amoureux?|- Oui, si on veut.
+{32911}{32973}- Le témoin est à vous.|- Pas d'autre question.
+{32975}{33010}Le témoin peut aller s'asseoir.
+{33012}{33119}En raison du débat sur la question du viol|que Votre Honneur a déclaré admissible,
+{33122}{33189}le ministère public demande|une suspension de 30 minutes
+{33191}{33256}pour produire un témoin|qu'il ne comptait pas citer.
+{33261}{33316}L'audience est suspendue pour 30 minutes.
+{33319}{33361}L'audience est suspendue.
+{33517}{33587}Pourquoi vous ne m'avez pas parlé|de ce rosaire?
+{33611}{33648}On a oublié.
+{33659}{33766}On n'a pas oublié. Manny pensait|qu'il valait mieux laisser ça de côté.
+{33776}{33879}Ça pouvait avoir une autre signification.|Comme si je refusais de la croire.
+{33896}{33944}Qu'est-ce qu'on m'a caché d'autre encore?
+{33947}{34024}On ne vous a rien caché.|On vous a dit tout le reste.
+{34028}{34068}C'est vrai?
+{34071}{34116}Oui, absolument tout.
+{34121}{34176}Ecoutez-moi, aussi bien l'un que l'autre.
+{34177}{34269}Quand vous serez appelés à la barre,|je veux que vous disiez la vérité.
+{34273}{34333}Je ne veux entendre|rien d'autre que la vérité.
+{34332}{34447}N'essayez pas de ruser ni de rien cacher.|Sinon vous êtes cuits d'avance.
+{34457}{34515}Ce M.Dancer va entrer dans la danse.
+{35023}{35106}Avez-vous eu l'occasion|de vous rendre à la prison du comté
+{35107}{35154}la nuit du 15 août dernier?
+{35157}{35182}Oui.
+{35184}{35256}- Qui vous a appelé à la prison?|- La police de l'état.
+{35261}{35308}Qu'est-ce qu'on vous a demandé?
+{35313}{35385}On m'a demandé de rechercher|la présence de sperme
+{35387}{35437}sur la personne de Mme Frederick Manion.
+{35440}{35468}J'ai fait les analyses.
+{35467}{35534}Et après ces analyses|quelle a été votre conclusion?
+{35536}{35581}Négative. Je n'en ai pas décelé.
+{35582}{35632}A vous.
+{35644}{35721}Vous n'avez pas noté|des meurtrissures ou des marques
+{35726}{35766}sur la personne de Mme Manion?
+{35766}{35791}Si.
+{35795}{35855}On vous a demandé|d'en déterminer la cause?
+{35857}{35890}Absolument pas.
+{35894}{35964}A quel laboratoire|vous avez confié vos travaux?
+{35966}{36013}A l'hôpital de Santa Margarita.
+{36023}{36118}- Qui vous a préparé les plaques?|- Un jeune interne de cet hôpital.
+{36133}{36230}N'eut-il pas été préférable que les plaques|fussent préparées par un pathologiste
+{36231}{36274}ou un expert en cette matière?
+{36277}{36337}Si, mais la police était pressée.
+{36340}{36405}Je savais que ce jeune homme|prenait son service à 7 heures.
+{36407}{36472}N'eut-il pas quand même mieux valu|attendre l'expert,
+{36474}{36539}si la plausibilité du viol|dépendait du résultat?
+{36543}{36573}Si, certainement.
+{36575}{36647}Dans un journal paru le soir du 16 août
+{36647}{36727}on disait que vous n'aviez pas trouvé|d'indice de viol. Exact?
+{36728}{36785}Je n'ai pas fait de déclaration semblable.
+{36788}{36886}Mais est-ce que vous vous étiez fait une opinion|sur la vraisemblance ou non du viol?
+{36888}{36938}- Non.|- Pourquoi n'aviez-vous pas d'opinion?
+{36939}{37041}Parce qu'il est impossible de dire si une|femme pubère et mariée a subi un viol.
+{37045}{37075}Merci.
+{37078}{37195}Vous aviez une opinion sur le fait qu'elle ait|eu des relations récentes avec un homme?
+{37198}{37265}En l'absence de trace de sperme|sur sa personne,
+{37267}{37350}rien n'indiquait de relation récente|avec un homme.
+{37352}{37389}Encore une question:
+{37392}{37457}Le fait qu'aucun indice n'ait été relevé|sur sa personne
+{37457}{37514}n'implique pas qu'elle n'a pas été violée?
+{37516}{37539}Non.
+{37543}{37608}Savez-vous ce qui constitue le viol|selon la loi?
+{37608}{37693}Oui. La tentative est suffisante|pour qu'il y ait viol.
+{37711}{37776}- Sans accomplissement.|- Plus de question.
+{37778}{37813}Le témoin peut aller à sa place.
+{37812}{37887}Le ministère public rappelle|M.Paquette à la barre.
+{37893}{37985}Etant donné que l'avocat de la défense|a imposé la question du viol,
+{37986}{38064}il devient nécessaire|d'entendre à nouveau M.Paquette.
+{38097}{38147}Vous êtes toujours sous serment.
+{38212}{38290}Voulez-vous regarder Mme Manion|qui est là-bas à la table?
+{38293}{38358}Est-ce qu'elle était habillée de cette façon|la nuit du drame?
+{38360}{38398}- Non.|- Elle était comment?
+{38399}{38517}Elle avait une jupe très serrée,|une espèce de pull-over plutôt collant.
+{38531}{38586}Elle portait|des souliers rouges à haut talon.
+{38589}{38639}Elle avait des bas ce soir-là?
+{38639}{38672}Elle avait les jambes nues.
+{38675}{38725}- Elle portait un chapeau?|- Non.
+{38766}{38838}Comment sont les cheveux|de Mme Manion sous son chapeau?
+{38838}{38913}Nous nous ferons un plaisir|de montrer ses cheveux.
+{38915}{38992}Voulez-vous retirer votre chapeau?
+{39128}{39171}Merci.
+{39176}{39254}Est-ce que Mme Manion portait|des lunettes ce soir-là?
+{39262}{39312}Elle ne les mettait|que pour jouer au billard.
+{39315}{39415}Le pull-over collant,|la jupe serrée, les jambes nues.
+{39430}{39500}Quelle était l'apparence de Mme Manion?
+{39502}{39607}Pourrait-on dire que l'apparence de Mme|Manion était délibérément provocante?
+{39612}{39667}Ça montrait assez bien tout ce qu'elle a.
+{39668}{39755}La défense accorde volontiers|que Mme Manion, même sobrement vêtue,
+{39759}{39821}est une personne|d'une beauté exceptionnelle.
+{39823}{39873}Levez-vous s'il vous plaît.
+{39881}{40009}On peut facilement comprendre,|en la considérant, pourquoi son mari
+{40008}{40125}a été mis hors de lui quand il a vu une telle|beauté profanée et souillée par une brute.
+{40149}{40177}Je proteste.
+{40181}{40233}M.Biegler est probablement l'avocat
+{40234}{40319}le moins discipliné et le plus extravagant|que j'aie jamais vu.
+{40322}{40392}Le jury ne tiendra pas compte|de cette harangue.
+{40480}{40550}Est-ce que Mme Manion a bu ce soir-là?
+{40555}{40645}Je lui ai servi six verres.|Et Barney lui en a versé d'autres, après.
+{40648}{40681}Je ne me rappelle pas combien.
+{40681}{40724}Peut-on dire qu'elle était éméchée?
+{40728}{40753}Elle était gaie.
+{40756}{40811}Qu'est-ce qui vous fait penser|qu'elle l'était?
+{40814}{40874}Elle a ôté ses souliers|et elle a marché pieds nus.
+{40876}{40918}En jouant au billard électrique,
+{40919}{40981}elle tournait autour|en tortillant de la croupe.
+{40984}{41079}Vous voulez dire qu'elle se déplaçait|en agitant le bas de son corps?
+{41082}{41122}Et ensuite?
+{41132}{41252}Un coup, elle a fait un gros score.|Elle trépignait de joie, elle hurlait.
+{41257}{41332}C'est avec Barney Quill|qu'elle jouait au billard ce soir-là?
+{41334}{41394}Quelle était son attitude|envers Barney Quill?
+{41399}{41429}Amicale si on veut.
+{41430}{41470}Plus qu'amicale diriez-vous?
+{41473}{41536}- Oui, plutôt plus.|- Précisez votre pensée.
+{41545}{41615}Elle s'appuyait sur lui
+{41617}{41700}et une ou deux fois|elle l'a poussé d'un coup de hanche.
+{41720}{41812}Considérez-vous qu'elle déployait|son charme pour séduire Barney Quill?
+{41816}{41913}Opposition. Cela suppose|une interprétation de la part du témoin.
+{41919}{42017}Peut-on dire que Mme Manion se|permettait certaines licences avec Quill?
+{42018}{42043}Certainement.
+{42046}{42071}A vous.
+{42111}{42206}L'avocat général vous a demandé tout|à l'heure si Mme Manion était "éméchée".
+{42206}{42269}Et vous avez répondu qu'elle était "gaie".
+{42286}{42361}En votre qualité de barman,|quelle distinction faites-vous?
+{42363}{42413}Je comprends pas la question.
+{42437}{42525}Quand on dit d'une personne|qu'elle est éméchée on entend par là
+{42528}{42578}qu'elle n'a plus toute sa lucidité?
+{42580}{42618}Je pense que c'est ça.
+{42622}{42692}Quand on dit qu'elle est gaie|c'est qu'elle est contente?
+{42694}{42719}Oui.
+{42722}{42779}Autrement dit|Mme Manion s'amusait bien.
+{42782}{42862}Est-ce répréhensible de s'amuser|à l'auberge de Thunder Bay?
+{42866}{43001}Thunder Bay est une station estivale?|Avec bain, pêche et autres distractions?
+{43015}{43115}Est-il exceptionnel de voir une femme|se promener nu-pieds à Thunder Bay?
+{43120}{43192}Quand Mme Manion a ôté|ses chaussures à Thunder Bay,
+{43194}{43272}elle n'avait donc pas nécessairement|un comportement scandaleux?
+{43276}{43311}- Je ne pense pas.|- Oui ou non?
+{43312}{43334}Non.
+{43408}{43530}Vous avez dit que Mme Manion avait|poussé des cris, qu'elle avait trépigné de joie
+{43583}{43706}et qu'elle avait "tortillé de la croupe"|tout autour du billard électrique.
+{43712}{43800}Provoquait-elle de la perturbation?|Y avait-il un attroupement?
+{43803}{43888}Tous les hommes s'étaient-ils assemblés|autour d'elle?
+{43890}{43943}Vous observiez attentivement|Mme Manion.
+{43945}{44017}Assez attentivement|pour nous retracer ses faits et gestes.
+{44017}{44124}Il est certain que Quill l'observait lui aussi|puisqu'il était son partenaire de billard.
+{44128}{44158}Je crois que j'ai raison?
+{44161}{44276}Donc il semble qu'il n'y ait eu que vous|et Barney Quill pour prêter attention
+{44278}{44326}à son comportement et à son apparence.
+{44329}{44406}Peut-être que Barney en demandant|de renouveler les verres,
+{44408}{44506}a fait un clin d'œil indiquant|"Je l'emmène au bois et je vais la violer."
+{44508}{44536}Il n'a pas dit ça.
+{44537}{44605}Et vous avez répondu|"Je prendrais bien votre place."
+{44607}{44659}Opposition! Ce ne sont pas des questions.
+{44662}{44710}Je n'ai pas d'autre question.
+{44727}{44817}La cour a supporté ce combat de coqs|assez longtemps pour aujourd'hui.
+{44820}{44900}Et je suppose que le jury|est également fatigué et affamé.
+{44906}{44951}Demain la défense citera ses témoins.
+{44954}{45027}Avec un peu de diligence,|de bonne volonté et de discipline
+{45026}{45126}de la part du défenseur, nous pourrions|peut-être avoir terminé samedi soir.
+{45130}{45177}Voulez-vous lever l'audience?
+{45237}{45320}L'audience est suspendue|jusqu'à 9 heures demain matin.
+{46311}{46379}Il a quelques contusions|mais rien de grave.
+{46383}{46443}On aimerait le garder un jour ou plus.
+{46446}{46494}Il a fait beaucoup de dégâts?
+{46496}{46621}Il a détruit un portail et la porte|d'une grange. Et il n'a pas le permis.
+{46661}{46781}Il va devoir passer en justice|dès que possible, l'imbécile.
+{46796}{46846}Ne parlez pas mal des morts.
+{46853}{46926}- Je peux avoir une minute avec le cadavre?|- Bien sûr.
+{47055}{47168}Est-ce que ça valait la peine|d'essayer de vous tuer?
+{47182}{47222}Comment se déroule le procès?
+{47225}{47322}Je suis très bruyant.|Dancer est très convaincant.
+{47323}{47366}Vous êtes allé où?
+{47390}{47473}Quill avait engagé Mary Pilant|au nord de Sault Sainte Marie.
+{47491}{47589}Ça me semblait bizarre qu'il soit allé|jusque là-bas pour l'engager.
+{47587}{47645}Je suis allé enquêter.
+{47647}{47697}Et vous avez trouvé quelque chose?
+{47700}{47770}Rien jusqu'à la lecture|du certificat de naissance.
+{47777}{47894}Naissance: Blind River, 1934,|enfant illégitime.
+{47911}{47993}La mère était une serveuse. Simone Platt.
+{48012}{48114}Le père était un bûcheron|nommé Barney Quill.
+{48301}{48359}Je voudrais voir Mlle Mary Pilant.
+{48362}{48389}C'est qu'il est tard.
+{48393}{48441}Oui, je sais. Mais c'est important.
+{48443}{48508}- Si important que ça?|- Si important que ça.
+{48618}{48688}Excusez-moi.|Mais il y a quelqu'un qui vous demande.
+{48690}{48723}Il dit que c'est important.
+{48726}{48776}- Comment c'est votre...|- Biegler.
+{48779}{48821}Je ne veux pas le voir.
+{48870}{48932}Elle dit que c'est pas assez important.
+{48937}{49019}Voulez-vous la rappeler et lui dire|qu'il s'agit de Blind River, Ontario.
+{49024}{49069}Je l'attends dans le bar.
+{49500}{49560}Vous venez pour consommer|ou pour fouiner?
+{49566}{49603}Ce sera les deux à la fois.
+{49604}{49671}Si on commençait toujours par une bière?
+{49772}{49802}Je vous l'offre.
+{49805}{49902}Et c'est tout ce que vous aurez: une bière.|Ni questions, ni réponses.
+{49903}{49958}Je ne suis qu'un avocat qui fait son travail.
+{49961}{50009}Vous avez vu un fantôme?
+{50088}{50135}Asseyez-vous, je vous en prie.
+{50277}{50335}Je vous dois des excuses.
+{50338}{50410}J'ai été un peu mufle,|la dernière fois que je suis venu.
+{50411}{50461}Je ne savais pas que Quill était votre père.
+{50464}{50529}Vous n'êtes pas venu|uniquement pour vous excuser.
+{50531}{50579}Non, mais c'était en partie pour ça.
+{50582}{50687}A vrai dire j'avais l'espoir|que ça vous dégèlerait peut-être un peu.
+{50697}{50797}Tout ce que je vous demanderai|c'est de m'écouter juste quelques minutes.
+{50812}{50914}J'ai besoin d'arguments pour appuyer|ce que Mme Manion a dit à propos du viol.
+{50918}{51000}L'avocat général va nous attaquer|avec véhémence là-dessus.
+{51019}{51131}Et si le jury croit qu'elle a menti ça peut|faire tourner sa décision contre Manion.
+{51138}{51253}Mais elle a menti. Barney ne peut pas|avoir fait ce dont elle l'a accusé.
+{51270}{51315}Qu'est-ce que vous saviez de votre père?
+{51318}{51441}Ce que j'avais besoin de savoir.|Il a pris soin de moi et de ma mère.
+{51460}{51532}Je l'ai toujours trouvé|quand j'ai eu besoin de lui.
+{51534}{51652}Voilà ce que j'ai à dire. C'est assez|pour appuyer les dires de Mme Manion?
+{51653}{51728}Je ne veux pas vous attaquer.|Je ne veux pas vous nuire.
+{51728}{51793}J'apprécie votre affection pour votre père.
+{51817}{51927}Mais en tant qu'avocat j'ai remarqué qu'on|ne peut pas être tout bon ou tout mauvais.
+{51927}{51980}En approfondissant, on est l'un et l'autre.
+{51982}{52059}J'ai l'impression que chez Quill|il y avait du bon et du mauvais.
+{52064}{52106}Je ne veux pas en entendre parler.
+{52107}{52192}Ecoutez-moi. Je suis persuadé|que Barney a raconté à Paquette
+{52195}{52238}ce qui s'est passé ce soir-là.
+{52241}{52318}Et qu'il lui a dit de se poster à la fenêtre|pour guetter Manion.
+{52318}{52393}Barney s'est placé derrière le bar,|à côté d'un revolver.
+{52395}{52425}Il l'épiait.
+{52433}{52520}Seulement Manion a fait feu à la minute|même où il franchissait la porte,
+{52521}{52579}et la première balle|a touché Barney au cœur.
+{52582}{52639}Alors voici ce que je vous demande.
+{52641}{52749}Je voudrais que vous persuadiez Al|de venir comme témoin de la défense
+{52752}{52825}et de répéter très exactement|ce que lui a dit Barney:
+{52828}{52898}Qu'il avait battu et violé Mme Manion.
+{52908}{53010}Il n'y a pas de raison qu'Al nous ait|caché ça. Pourquoi l'aurait-il fait?
+{53013}{53060}Je n'en sais rien.
+{53063}{53176}Mais ce que je sais, c'est que tout|le monde aime une chose ou une personne.
+{53186}{53281}Tenez moi, j'aime la pêche|et un vieux bonhomme, Parnell.
+{53282}{53367}Manion aime sa liberté|et il n'a qu'une idée, c'est de la retrouver.
+{53368}{53448}Barney vous aimait|et peut-être qu'Al vous aime aussi.
+{53474}{53519}Je ne le lui reprocherais pas.
+{53517}{53609}S'il ne veut pas vous peiner,|il ne veut pas que vous sachiez la vérité:
+{53613}{53715}Que Barney pouvait être grossier et brutal.|Alors si vous l'interrogiez,
+{53718}{53788}si vous lui demandiez simplement|de tout vous dire.
+{54011}{54133}M.Biegler sait que Barney était mon père.
+{54133}{54223}Il croit que vous savez quelque chose|sur la nuit où mon père a été tué.
+{54224}{54277}Quelque chose|que vous ne voulez pas dire.
+{54279}{54371}Je vous l'ai dit tout à l'heure et je vous|le répète: ni questions, ni réponses.
+{54375}{54407}Attendez.
+{54468}{54543}Est-ce que mon père a violé Mme Manion?
+{54550}{54605}Il n'aurait pas fait ça.
+{54641}{54744}Est-ce que vous auriez une raison|qui vous empêcherait de me dire la vérité?
+{54749}{54784}Quelle raison?
+{54946}{54973}Est-ce tout?
+{55008}{55078}Je laisserai un laissez-passer|pour vous et Al à l'entrée.
+{55080}{55167}Ça vous fera sans doute plaisir|de voir condamner le lieutenant Manion.
+{55171}{55221}Vous direz qu'elle est la fille de Barney?
+{55224}{55316}Non, je ne le raconterai pas partout.|Merci pour la bière.
+{55320}{55357}Bonsoir.
+{55474}{55521}Voyons maintenant la question du rosaire.
+{55528}{55603}Un témoin a dit que votre femme|vous avait juré sur un rosaire
+{55605}{55663}qu'elle avait été violée par Barney Quill.
+{55665}{55747}Est-ce que vous avez demandé à votre femme|de le jurer sur ce rosaire?
+{55754}{55837}Ma femme était hors d'elle,|ce qu'elle disait n'était pas très clair.
+{55838}{55943}J'ai pensé que si je lui demandais de faire|serment sur le rosaire, elle se calmerait.
+{55945}{55980}Elle aurait les idées claires.
+{55982}{56027}Le rosaire a eu cet effet?
+{56030}{56092}Elle a pu me raconter en détail|ce qui s'était passé.
+{56094}{56172}Continuez. A partir de là,|qu'est-ce que vous avez fait?
+{56233}{56358}Je l'ai étendue sur le lit. J'ai trempé|une serviette et je l'ai posée sur sa tête.
+{56418}{56473}Je lui ai fait boire un peu d'alcool.
+{56524}{56624}Au bout d'un moment elle a commencé|à se calmer et elle a paru s'endormir.
+{56634}{56749}Alors j'ai cherché dans ma cantine.|J'ai pris mon revolver et je l'ai chargé.
+{56751}{56854}- Vous aviez la pensée de tuer Quill?|- Non.
+{56855}{56942}Alors pourquoi vous avez pris|votre revolver et pourquoi vous l'avez chargé?
+{56946}{57011}Je devais parler à Quill,|j'ai pensé qu'il serait utile.
+{57013}{57038}Pourquoi?
+{57058}{57168}Je savais que Quill avait des revolvers.|J'avais peur qu'il tire sur moi.
+{57171}{57263}Pourquoi il aurait tiré sur vous?|Qu'est-ce que vous vouliez lui faire?
+{57283}{57323}Je ne sais pas au juste.
+{57344}{57441}Je me rappelle avoir eu l'idée de l'attraper
+{57470}{57540}et de le tenir au collet|pendant que j'appellerais la police.
+{57542}{57587}Il y avait M.Comment s'appelle-t-il,
+{57588}{57663}Lemon, il est gardien du parc,|il est shérif adjoint.
+{57665}{57717}Pourquoi vous n'avez pas fait appel à lui?
+{57720}{57830}Peut-être parce que je ne le considérais|en fait que comme le gardien du parc.
+{57859}{57989}Peut-être parce que je n'avais pas|des idées très nettes, sauf de trouver Quill.
+{57998}{58081}Pourquoi ne pas avoir appelé la police|plutôt que de vous rendre au bar?
+{58082}{58114}Je ne sais pas.
+{58140}{58182}J'étais comme ivre.
+{58218}{58293}C'était horrible de songer|à ce qu'on avait fait à ma femme.
+{58295}{58348}Vous dites que vous étiez comme ivre.
+{58351}{58453}Quand vous êtes arrivé au bar, vous avez|vu s'il y avait beaucoup de monde?
+{58495}{58577}Je n'ai rien vu dans le bar|sauf Barney Quill.
+{58634}{58674}La seule personne que j'aie vue.
+{58672}{58714}Qu'est-ce qu'il faisait?
+{58741}{58831}Rien d'autre, je crois,|que de se tenir là debout derrière le bar.
+{58850}{58925}Est-ce qu'il a fait un geste menaçant|pour saisir un revolver?
+{58928}{58963}Je ne sais pas.
+{58989}{59031}C'est possible mais je ne sais pas.
+{59034}{59139}Vous avez dit que vous aviez été chez lui|pour l'attraper en attendant la police.
+{59139}{59184}Pourquoi avez-vous tiré?
+{59228}{59283}Je ne me rappelle pas avoir tiré.
+{59310}{59400}Quand vous êtes sorti du bar, vous|vous rappelez que Paquette vous a rattrapé
+{59403}{59468}en disant "Vous ne pouvez pas|vous sauver après ça",
+{59470}{59553}et que vous avez répliqué|"Tu en veux aussi, patate?"
+{59564}{59604}Vous vous en souvenez?
+{59628}{59728}Il me semble me souvenir|que quelqu'un m'a parlé à un moment,
+{59753}{59841}mais je ne me souviens ni|de ce qu'il m'a dit, ni de ce que je lui ai dit.
+{59842}{59929}Quand vous êtes-vous rendu compte|que vous aviez tiré sur Quill?
+{59986}{60096}Je buvais un verre d'eau. Et ma gorge|me brûlait tellement elle était sèche.
+{60144}{60256}Et quand j'ai reposé le verre vide,|j'ai vu le revolver sur l'évier de la cuisine.
+{60290}{60345}J'ai remarqué qu'il était vide.
+{60362}{60470}Je voudrais que vous montriez|à la cour et au jury
+{60482}{60547}comment vous saviez|que le revolver était vide.
+{60559}{60674}Cette pièce-là, quand elle est relevée,|on sait que la dernière balle est tirée.
+{60707}{60817}Lorsque le drame a eu lieu,|vous aimiez votre femme?
+{60830}{60860}Oui monsieur.
+{60873}{60918}Et l'aimez-vous encore?
+{61000}{61033}Profondément.
+{61055}{61100}Le témoin est à vous.
+{61180}{61235}Combien d'hommes avez-vous tués?
+{61238}{61278}Une petite seconde!
+{61295}{61372}Les faits de guerre, et chez mon client|ils sont brillants,
+{61374}{61422}ne peuvent pas être utilisés contre lui.
+{61422}{61502}Je suis patriote autant que la défense
+{61506}{61608}mais il est patent que la guerre tend|à donner aux hommes l'habitude de tuer.
+{61614}{61662}Je veux déterminer dans quelle mesure
+{61662}{61767}le lieutenant a pris l'habitude de se servir|d'une arme contre d'autres créatures.
+{61767}{61817}Je n'aime pas beaucoup la question
+{61820}{61903}mais je ne vois guère comment l'interdire.|Qu'il réponde.
+{61914}{61989}Je sais que j'ai tué au minimum|quatre hommes en Corée.
+{62000}{62097}Trois avec une grenade à main|et l'autre avec mon pistolet d'ordonnance.
+{62103}{62208}Il se peut qu'il y en ait d'autres.|Mais à la guerre on ne sait pas toujours.
+{62211}{62291}Dans l'acte de tuer,|vous n'avez jamais eu un trou de mémoire
+{62293}{62363}- comme celui en tuant Quill?|- Non, jamais.
+{62362}{62435}- Et pendant une bataille?|- Non monsieur.
+{62438}{62496}Avez-vous été soumis à un danger intense
+{62499}{62569}pendant plusieurs heures,|à des attaques incessantes?
+{62568}{62596}Plus d'une fois.
+{62597}{62650}Avez-vous été soigné|pour commotion, névrose?
+{62652}{62677}Non.
+{62681}{62788}Avez-vous jamais observé des réactions|mentales insolites au cour d'une action?
+{62789}{62852}- Une réaction incoercible.|- De quoi faire?
+{62854}{62911}De foutre le camp et rentrer chez moi.
+{62937}{63042}Vous feriez bien de considérer le sérieux|de la situation où vous vous trouvez.
+{63046}{63076}Excusez-moi.
+{63079}{63121}Je sympathise avec le lieutenant.
+{63122}{63207}Je suppose qu'il a aujourd'hui|la même hâte de rentrer chez lui.
+{63213}{63338}Mais est-ce que vous avez été, à un moment de votre|service, soigné pour troubles mentaux?
+{63340}{63435}- Vous avez toujours été sain?|- Oui, parfaitement.
+{63448}{63483}Plus de question.
+{63487}{63519}Moi non plus.
+{63520}{63580}Regagnez votre place.|Appelez le témoin suivant.
+{63583}{63643}J'appelle Laura Manion à la barre.
+{63938}{64003}- En haut des marches, à votre droite.|- Merci.
+{64172}{64269}Combien de temps après avoir parlé|à votre mari a-t-il quitté la caravane?
+{64278}{64368}Je ne sais pas exactement.|Tout était tellement brouillé.
+{64379}{64479}J'étais à demi-évanouie.|Il était assis à côté de moi.
+{64489}{64564}J'ai vaguement le souvenir|qu'il s'est levé pour sortir.
+{64566}{64673}Je me demandais s'il était allé chercher|un médecin et puis il est revenu.
+{64683}{64756}Ça m'a paru être quelques secondes|mais ça a été plus long.
+{64758}{64803}J'avais dû m'endormir.
+{64810}{64917}Quand il est rentré, il s'est assis sur le lit|et il avait un revolver à la main.
+{64940}{65005}Je lui ai dit "Qu'est-ce que tu vas faire?"
+{65009}{65134}Il a dit "Je crois que c'est déjà fait.|Je crois que j'ai tué Barney Quill."
+{65136}{65218}Vous êtes sûre qu'il n'a pas dit|"J'ai tué Barney Quill"?
+{65223}{65328}Non. Je me rappelle bien ce qu'il a dit|"Je crois que j'ai tué Barney Quill."
+{65333}{65380}Qu'est-ce que vous avez fait ensuite?
+{65383}{65473}J'ai mis mes bras autour de lui|et j'ai pleuré.
+{65486}{65558}Alors j'ai dit|"Tu devrais le dire à M.Lemon."
+{65558}{65608}Mon mari a dit "J'avais oublié ça."
+{65611}{65683}Qu'est-ce qu'il entendait par|"J'avais oublié ça"?
+{65685}{65760}Qu'il avait oublié|que M.Lemon était shérif adjoint.
+{65769}{65856}Alors il a dit|"Oui. Je vais aller me livrer à M.Lemon."
+{65877}{65947}Je n'ai pas d'autre question à poser|pour l'instant.
+{65949}{66027}Comme il serait très difficile|de se représenter la part
+{66028}{66085}qu'un chien a pris à l'action ce soir-là,
+{66088}{66183}je voudrais pouvoir montrer à la cour|ce remarquable petit animal.
+{66184}{66229}Est-ce que le ministère public s'y oppose?
+{66230}{66275}Si nous nous y opposions,
+{66278}{66370}M.Biegler s'empresserait de nous accuser|de haïr les animaux à fourrure.
+{66374}{66456}Une créature qui ne sait pas parler|ne peut qu'apporter un répit.
+{66457}{66502}Appelez-le.
+{66513}{66543}S'il vous plaît.
+{66546}{66616}Ayez l'obligeance d'amener le chien.
+{66939}{66996}Vous pouvez le mettre là.
+{67026}{67056}Allez, viens!
+{67114}{67154}Là mon chien.
+{67184}{67281}Maintenant je vais demander à Mme|Manion d'apporter sa lampe électrique.
+{67536}{67634}Je prierai la cour de remarquer|que c'est le chien qui a allumé la lampe.
+{67860}{67937}Il est facile de voir|qu'il ne sait pas qui sont ses ennemis.
+{67939}{68022}Faites sortir le chien.|Que le témoin revienne à la barre.
+{68023}{68058}Allez, viens.
+{68138}{68240}Mme Manion, permettez-moi de vous|féliciter du dressage de votre petit chien.
+{68244}{68291}Permettez-moi de me réjouir de voir
+{68294}{68379}qu'aujourd'hui un chapeau ne cache pas|vos ravissants cheveux.
+{68383}{68460}L'avocat général est-il venu|de Lansing pour faire le joli cœur
+{68464}{68514}ou pour interroger le témoin?
+{68517}{68547}Continuons.
+{68551}{68611}Quelles étaient vos occupations|avant le mariage?
+{68613}{68645}Je tenais mon ménage.
+{68649}{68682}Vous avez déjà été mariée?
+{68682}{68712}Oui, une fois.
+{68716}{68779}Je suppose|que votre premier mari est mort?
+{68795}{68820}Non.
+{68824}{68896}Avez-vous divorcé de votre premier mari|pour épouser Manion?
+{68898}{68998}Si l'accusation veut savoir le motif|du divorce, qu'elle pose la question.
+{68999}{69069}- C'était ?|- Cruauté mentale.
+{69075}{69183}Naturellement. Combien de temps après|le divorce vous avez épousé le lieutenant?
+{69189}{69221}Je ne sais plus au juste.
+{69224}{69289}Je peux rafraîchir la mémoire du témoin?
+{69289}{69319}Certainement.
+{69328}{69440}Elle m'a dit l'avoir épousé|trois jours après le divorce.
+{69449}{69504}- C'est exact?|- Oui.
+{69519}{69581}A moins que ce n'ait été|un coup de foudre ultrarapide,
+{69584}{69659}vous deviez connaître le lieutenant Manion|avant votre divorce.
+{69660}{69685}Oui.
+{69706}{69783}A quelle religion appartenez-vous?
+{69798}{69838}Je suis catholique.
+{69847}{69885}Catholique pratiquante?
+{69889}{69924}Le divorce, vous savez.
+{69927}{69997}Vous avez été excommuniée|à cause de votre divorce?
+{69999}{70024}Oui.
+{70037}{70092}Il est difficile de croire qu'une catholique,
+{70095}{70192}qui peut s'affranchir aussi allègrement|d'une loi essentielle de sa religion,
+{70196}{70276}ne puisse s'affranchir|d'un serment fait sur un objet sacré?
+{70279}{70327}Tel qu'un rosaire par exemple.
+{70378}{70425}Je crois que ça n'a aucun rapport.
+{70428}{70521}Mais vous accorderez que ça|laisse planer un doute sur la sincérité?
+{70526}{70631}Je ne sais pas. Tout ce que je sais|c'est que le rosaire est sacré pour moi.
+{70646}{70671}Oui.
+{70680}{70737}Passons à autre chose.
+{70747}{70857}Vous avez déclaré que le soir du drame,|votre mari était rentré tard de son service.
+{70857}{70914}Vous n'en étiez pas un peu fâchée?
+{70924}{70964}Je crois que j'étais contrariée.
+{70963}{71038}- Vous vous êtes disputés?|- Pas beaucoup. Un petit peu.
+{71041}{71136}Quand vous êtes partie de la caravane,|votre mari savait où vous alliez?
+{71137}{71167}Non, il dormait.
+{71171}{71289}Est-ce pour cette raison que vous êtes|sortie sans le lui dire, vous étiez vexée?
+{71305}{71388}J'avais repassé toute la journée...
+{71396}{71436}Oui, ça doit être ça.
+{71438}{71508}L'avocat général me cache|délibérément la vue du témoin.
+{71511}{71609}Je suis navré. Je ne voudrais pas|vous empêcher de lui faire des signes.
+{71610}{71667}Je fais opposition à cette allégation.
+{71668}{71738}C'est le procédé le plus déloyal|que j'aie jamais vu.
+{71740}{71780}Vous êtes jeune.
+{71783}{71838}Que la cour se prononce|sur mon opposition.
+{71840}{71950}Voulez-vous prendre soin de ne pas vous|interposer entre M.Biegler et son témoin?
+{71960}{71995}Certainement.
+{72003}{72045}C'est tout ce que vous désirez?
+{72049}{72174}Si vous continuez je vous emmène à la|pêche et je vous flanque par-dessus bord.
+{72207}{72275}Mettons fin à ce désordre.
+{72288}{72386}Celui qui prendra la parole quand|ce n'est pas son tour aura affaire à moi.
+{72389}{72447}Continuez l'interrogatoire contradictoire.
+{72449}{72524}Est-ce que vous seriez allée à l'auberge,|votre mari non endormi?
+{72526}{72568}Il serait probablement venu avec moi.
+{72569}{72609}Vous y seriez allée seule?
+{72610}{72705}- Pas s'il n'avait pas voulu.|- Ne l'aurait-il pas voulu?
+{72710}{72770}C'est possible. Je ne sais pas|comment répondre à ça.
+{72773}{72838}Vous étiez déjà allée|à l'auberge à Thunder Bay,
+{72840}{72910}ou autre part à Thunder Bay, seule le soir?
+{72917}{72957}Oui. Quelques fois.
+{72963}{73005}Votre mari le savait?
+{73008}{73131}Ça dépend. Il se couche souvent|de bonne heure et j'ai besoin de remuer.
+{73135}{73190}Vous alliez où à ces occasions?
+{73193}{73303}Je me promenais à pied le long du lac|ou j'allais au cinéma. Parfois chez Quill.
+{73317}{73382}Sortiez-vous quelquefois|pour retrouver un homme?
+{73386}{73444}Non. Je n'ai jamais fait ça.
+{73449}{73537}Prétendez-vous qu'une jolie femme|comme vous, que les hommes remarquent,
+{73538}{73588}inoccupée et seule, n'a pas eu au moins...
+{73591}{73666}Opposition, le témoin a répondu|à la question des hommes.
+{73667}{73732}L'accusation fait au jury|des suggestions voilées.
+{73735}{73800}Je retire ma dernière question.
+{73813}{73941}Au cours de ces excursions nocturnes,|vous retourniez toujours seule chez vous?
+{73952}{73987}Bien sûr.
+{73995}{74080}Vous avez affirmé que vous étiez|montée dans la voiture de Quill
+{74082}{74135}parce que vous aviez peur toute seule.
+{74137}{74207}Pourquoi aviez-vous|particulièrement peur?
+{74209}{74301}Je l'ai dit. C'est parce qu'il m'avait fait|peur avec ses histoires d'ours.
+{74302}{74387}Vous ne saviez avant que des ours|rôdaient autour des tas d'ordures
+{74392}{74472}à Thunder Bay?|Vous aviez déjà vu de ces ours?
+{74473}{74495}Oui.
+{74499}{74562}Et c'était la première fois|que vous en aviez peur?
+{74564}{74611}Ils m'avaient toujours fait un peu peur.
+{74614}{74697}C'était la première fois que vous aviez|assez peur pour accepter qu'un homme
+{74698}{74748}vous raccompagne|après vos vagabondages?
+{74751}{74838}Opposition. Le mot "vagabondage"|est employé pour égarer le jury.
+{74839}{74889}- Accepté.|- Toutes mes excuses.
+{74919}{74981}Je ne voulais pas dire par là|que vous vagabondiez.
+{74983}{75041}Etait-ce la première fois|que vous aviez assez peur
+{75044}{75136}pour laisser un homme vous reconduire|après votre petite promenade?
+{75175}{75223}C'est pas tout à fait ça que...
+{75226}{75283}Vous devriez pouvoir répondre|sans hésitation.
+{75285}{75328}La question est facile.
+{75331}{75428}Comment le témoin peut-il répondre sans|hésiter s'il n'arrête pas de l'interrompre?
+{75429}{75504}Le témoin m'a semblé|assez long à répondre.
+{75509}{75594}Néanmoins laissez-la achever sa pensée|avant de l'interrompre.
+{75595}{75687}En tout cas l'objection de M.Biegler a|donné à Mme Manion un temps suffisant
+{75691}{75766}pour chercher réponse à ma question.|Vous l'avez trouvée?
+{75768}{75818}Ce que je voulais dire, c'est seulement que
+{75821}{75928}je ne voulais pas offenser M.Quill|en lui laissant croire qu'il me déplaisait.
+{75928}{76016}Il avait été très aimable avec mon mari|et moi quand on allait au bar.
+{76019}{76064}Bien trouvé. Bravo.
+{76067}{76102}Votre honneur, s'il vous plaît.
+{76105}{76205}L'avocat général voudra bien réserver|ses commentaires pour le réquisitoire.
+{76209}{76271}Je vais poser la question plus clairement:
+{76288}{76398}Était-ce la première fois que vous étiez|dans la voiture de Barney Quill le soir?
+{76478}{76535}Vous avez entendu la question?
+{76559}{76591}Oui, j'ai entendu.
+{76614}{76662}Oui, c'était la première fois.
+{76686}{76744}Voulez-vous élever un peu la voix?
+{76756}{76813}J'ai dit "C'était la première fois."
+{76882}{76947}J'attache une grosse importance|au slip qui a été perdu.
+{76949}{77049}Voulez-vous le décrire à la cour,|s'il vous plaît?
+{77058}{77128}Il était en nylon|avec de la dentelle au bord.
+{77132}{77237}Il y avait la marque de l'endroit|où je l'avais acheté. A Phoenix, Arizona.
+{77237}{77275}De quelle couleur?
+{77280}{77318}- Je crois blanc.|- Vous croyez?
+{77322}{77384}J'en ai des roses et des blancs.|Peut-être rose.
+{77386}{77496}Vous n'êtes pas sûre. Vous avez vérifié|votre linge pour voir quel slip manquait?
+{77499}{77584}Quand votre mari est rentré tard|et que vous vous êtes disputés,
+{77585}{77632}vous étiez déjà habillée pour sortir?
+{77635}{77673}- Non.|- Vous vous êtes habillée quand?
+{77674}{77712}Après le dîner. Il dormait.
+{77712}{77767}On a témoigné|que vous aviez les jambes nues.
+{77769}{77809}- C'est exact?|- Oui.
+{77813}{77883}Dans votre colère et votre hâte|de sortir de la caravane,
+{77883}{77925}vous n'avez pas mis de slip?
+{77928}{77996}Opposition. Le témoin a déclaré|quel vêtement il portait.
+{77998}{78023}Accepté.
+{78027}{78069}Vous portez toujours un slip?
+{78072}{78132}Je fais opposition à ce genre de questions.
+{78134}{78199}Nous n'avons pas à savoir|ce que Mme Manion fait.
+{78201}{78259}La nuit où elle a été attaquée,|elle avait un slip.
+{78262}{78309}Et c'est tout ce qui nous intéresse.
+{78311}{78419}Il semble que Mme Manion n'ait pas|une idée précise du slip qu'elle portait.
+{78422}{78462}Comme ce slip n'a pas été retrouvé,
+{78463}{78548}j'émets l'hypothèse|qu'elle n'en portait pas et qu'elle l'a oublié.
+{78551}{78584}C'est ce que j'ai voulu dire.
+{78585}{78640}Vous pouvez répondre.
+{78661}{78709}Portez-vous toujours un slip?
+{78736}{78766}Non.
+{78777}{78870}En quelles circonstances vous n'en portez|pas? Quand vous sortez seule?
+{78871}{78948}Opposition. Il veut savoir une chose|et il en demande une autre.
+{78952}{79002}J'accepte l'opposition.
+{79002}{79085}Rayez les deux dernières questions|et les réponses de Mme Manion.
+{79088}{79186}Ecoutez, abandonnez ce slip.|Vous avez déjà fait assez de ravage.
+{79199}{79239}Bien Votre Honneur.
+{79249}{79336}Est-ce que votre mari|est un homme jaloux?
+{79342}{79370}Il m'aime.
+{79374}{79449}J'en suis convaincu.|Mais est-il exagérément jaloux?
+{79448}{79548}Comment veut-on que le témoin réponde?|Quelle est la norme de la jalousie?
+{79549}{79619}Vous pouvez poser la question différemment?
+{79621}{79689}Votre mari vous a-t-il jamais frappée|par fureur?
+{79691}{79781}M.Dancer va à la pêche pour l'instant.|Quel rapport avec l'affaire?
+{79784}{79832}C'est là que le bât blesse M.Biegler.
+{79834}{79929}Ce n'est pas un exercice académique|mais une affaire de meurtre.
+{79930}{79985}Poursuivez.
+{80012}{80049}Mme Manion.
+{80084}{80154}Avez-vous quelquefois été invitée|à Thunder Bay?
+{80162}{80202}Oui. Deux ou trois fois.
+{80206}{80256}Quand l'unité de votre mari est venue,
+{80258}{80366}est-ce qu'il n'y a pas eu un cocktail fait par|Barney Quill pour les officiers et leur femme?
+{80369}{80472}Votre mari n'a-t-il pas frappé|un sous-lieutenant à ce cocktail?
+{80479}{80537}Ils se sont un peu chamaillés.|Ce n'était rien.
+{80539}{80611}- A quel propos?|- Je ne me souviens plus très bien.
+{80621}{80711}- Vous étiez trop ivre pour vous souvenir?|- Non, absolument pas.
+{80757}{80847}Je crois que c'était parce que|le sous-lieutenant tenait à m'inviter
+{80851}{80891}et que ça ne plaisait pas à mon mari.
+{80894}{80941}Un instant après, sur la véranda,
+{80944}{81052}votre mari ne vous a-t-il pas giflée assez|fort pour vous envoyer contre le mur?
+{81083}{81108}Il avait un peu bu.
+{81110}{81187}- Est-ce que ce n'était pas de la fureur jalouse?|- Je ne sais pas.
+{81192}{81247}- Vous vous rappelez qu'il vous a giflée?|- Oui.
+{81249}{81356}N'était-il pas furieux parce qu'il pensait|que vous encouragiez le sous-lieutenant?
+{81359}{81389}Il a pu y penser.
+{81388}{81430}Il y a des témoins de l'affaire.
+{81433}{81491}Je vous demande|si c'était de la fureur jalouse?
+{81494}{81554}Je crois qu'on peut dire que ça en était.
+{81580}{81622}Une autre question:
+{81668}{81766}Dans la nuit du drame,|qu'est-ce que vous avez juré?
+{81774}{81844}Quel serment avez-vous fait sur le rosaire?
+{81858}{81918}J'ai fait le serment|que Barney Quill m'avait violée.
+{81920}{82002}Pourquoi avez-vous juré sur le rosaire|qu'il vous avait violée?
+{82007}{82067}Comme mon mari a dit,|j'étais très énervée.
+{82069}{82114}C'est la raison qu'il a donnée.
+{82117}{82162}- Mais vous?|- Pour qu'il me croie.
+{82162}{82187}Pourquoi ne pas croire?
+{82191}{82266}Opposition. La raison de l'emploi du rosaire|a déjà été établie.
+{82268}{82308}La question est sans fondement.
+{82311}{82391}Non, je crois que j'autorise la question.
+{82392}{82472}Je répète la question.|Pourquoi il ne vous aurait pas crue?
+{82529}{82576}Il ne comprenait pas ce que je disais.
+{82579}{82629}Il aurait pu croire que vous mentiez?
+{82630}{82710}Opposition. Le lieutenant Manion a déjà témoigné|sur ce qu'il pensait.
+{82714}{82742}Accepté.
+{82745}{82847}Votre mari vous a-t-il battue?|Vous a-t-il frappée?
+{82973}{83056}Il est possible qu'il m'ait giflée,|j'avais une crise de nerfs.
+{83059}{83119}C'était un faux serment|pour ne pas être battue?
+{83121}{83151}J'ai dit ce qui est vrai.
+{83153}{83220}Ne vous avait-il pas battue|en vous voyant revenir du
+{83225}{83262}chemin des amoureux?
+{83263}{83350}Opposition. Le témoin a déjà dit|qu'il avait été battu par Barney Quill.
+{83354}{83431}- Silence.|- Je n'ai plus de question.
+{83471}{83531}Je crois que le témoin en a assez subi.
+{83534}{83574}Le témoin peut quitter la barre.
+{83572}{83632}Suspension pour déjeuner.
+{83658}{83711}L'audience est suspendue jusqu'à 13 heures.
+{84625}{84662}Dr Smith?
+{84678}{84713}Je suis venu vous chercher.
+{84716}{84743}Je m'appelle Parnell...
+{84747}{84780}Vous vous trompez.
+{84779}{84859}C'est peut-être moi que vous cherchez.|Vous êtes M.Biegler?
+{84860}{84922}Non, je l'assiste dans cette affaire.
+{84924}{84959}Vous êtes le Dr Smith?
+{84961}{84996}Oui. C'est moi.
+{84999}{85046}Vous êtes le psychiatre militaire?
+{85049}{85107}Vous vous attendiez peut-être|à me voir en uniforme?
+{85109}{85134}Non.
+{85159}{85224}Je ne m'attendais pas|à trouver quelqu'un de si jeune.
+{85226}{85261}J'ai quarante ans.
+{85294}{85379}J'espérais que vous auriez|une grande barbe et un monocle.
+{85455}{85515}- C'est mieux?|- Y a un progrès.
+{85517}{85577}Vous êtes cité à la barre cet après-midi.
+{85634}{85699}Vous avez une opinion|sur l'état mental et affectif
+{85701}{85769}de Frederick Manion|quand il a tué Barney Quill?
+{85771}{85813}- Oui.|- Quelle est cette opinion?
+{85814}{85889}Il était temporairement dément|au moment où il a tiré.
+{85888}{85993}A ce moment, croyez-vous qu'il ait été|capable de distinguer le bien du mal?
+{85998}{86083}Il pouvait l'être ou ne pas l'être.|Ça ne fait pas grande différence.
+{86085}{86143}Eh bien maintenant,|voudriez-vous expliquer
+{86145}{86232}aussi clairement que possible,|la démence temporaire de Manion?
+{86233}{86298}C'est un cas de "réaction dissociée".
+{86313}{86425}Un choc psychique qui crée une tension|presque insupportable
+{86428}{86498}dont celui qui a subi le choc|a besoin de se libérer.
+{86500}{86562}Dans le cas de Manion, qui est un soldat,
+{86567}{86634}il était naturel|que cela se traduise en action.
+{86634}{86724}Une action directe et simple|contre Barney Quill
+{86725}{86782}pouvait seule soulager cette tension.
+{86785}{86815}C'est un phénomène fréquent.
+{86819}{86899}Par exemple au combat,|la plupart des faits héroïques
+{86900}{86943}sont accomplis dans cet état mental.
+{86946}{87041}Est-ce qu'il y a un autre nom pour ces réactions,|un nom qu'on puisse reconnaître?
+{87044}{87119}Oui, on a appelé ça aussi|"impulsion irrésistible".
+{87138}{87233}Quand un homme est sous l'empire d'une|impulsion, est-il vraisemblable qu'il aille
+{87236}{87334}demander conseil à un voisin ou qu'il|appelle la police pour demander de l'aide?
+{87334}{87369}Complètement incompatible.
+{87370}{87478}Oui, mais notre homme a pensé|à se munir d'un revolver et à le charger
+{87478}{87523}avant de sortir pour trouver Quill.
+{87523}{87568}Sa pensée inconsciente le poussait.
+{87571}{87634}Même s'il n'avait pas trouvé d'arme,|il y serait allé.
+{87637}{87727}Quelle est l'apparence d'un homme|en proie à des réactions dissociées?
+{87728}{87825}Il peut très bien sembler d'un très grand|calme, froidement déterminé.
+{87845}{87955}Décririez-vous son comportement|comme ressemblant à celui du facteur?
+{87958}{88073}C'est pas mal le facteur.|Il a une tâche à remplir et il la remplit.
+{88099}{88134}A vous la parole.
+{88161}{88221}Est-ce que vous avez décelé une psychose|chez Manion?
+{88224}{88269}- Non.|- Une névrose?
+{88272}{88325}Je n'ai trouvé|aucun antécédent de névrose.
+{88327}{88412}- Aucun antécédent de déficience mentale?|- Aucun.
+{88413}{88488}- Pas de perte de mémoire?|- Pas avant le cas présent.
+{88514}{88559}Je ne vois pas Mary Pilant.
+{88578}{88688}Elle n'a pas reparu après le déjeuner.|Vous feriez mieux d'abandonner cette idée.
+{88694}{88767}Vous avez déclaré que l'accusé|avait pu être capable ou pas,
+{88768}{88830}de faire la discrimination|entre le bien et le mal
+{88833}{88886}mais que ça ne faisait pas|grande différence.
+{88888}{88930}- C'est ça?|- Approximativement.
+{88933}{89028}Au moment où il a tiré, il était possible|qu'il puisse distinguer le bien du mal?
+{89029}{89074}Ce n'était pas impossible.
+{89075}{89110}Dr Smith,
+{89116}{89236}s'il est possible que l'accusé ait su ce qu'il|faisait alors et qu'il ait su que c'était mal,
+{89238}{89305}comment affirmer|qu'il était dément selon la loi?
+{89307}{89365}Je n'ai pas dit|qu'il était dément selon la loi.
+{89368}{89450}J'ai dit que dans l'état mental où il était,|il importe peu de savoir
+{89454}{89549}s'il différenciait le bien du mal.|Il aurait tué Quill de toute façon.
+{89547}{89595}Dr Smith,
+{89598}{89693}êtes-vous disposé à baser votre déposition|dans cette affaire sur cette opinion?
+{89696}{89731}Oui, certainement.
+{89771}{89838}Je demande une suspension d'un moment.
+{89840}{89920}L'accusation voudrait conférer|avec M.Biegler et la cour en privé.
+{89924}{89989}- M.Biegler?|- Trop heureux de faire plaisir.
+{90001}{90073}Un instant de suspension.|Le jury restera à son banc.
+{90346}{90483}Un jour je finirai par envoyer promener les|traditions. Et je lâcherai un nuage de fumée
+{90482}{90537}dans cette sacro-sainte salle d'audience.
+{90540}{90598}Qu'est-ce que vous avez à nous dire?
+{90600}{90697}Après la déposition du Dr Smith, notre|adversaire pourrait changer de défense?
+{90701}{90771}- La changer en quoi?|- En plaidant coupable.
+{90773}{90825}Non, je m'en tiendrai à la démence.
+{90828}{90931}Un individu n'est pas légalement fou|tant qu'il distingue le bien du mal.
+{90933}{91041}- Vous feriez mieux de laisser tomber.|- Voulez-vous regarder à la page 486?
+{91048}{91083}Qu'est-ce que c'est que ça?
+{91091}{91146}Ça me paraît être un traité de droit.
+{91192}{91242}Excusez-moi.
+{91243}{91298}Je les fabrique moi-même,|ça m'aide à réfléchir.
+{91300}{91365}- Pour le saumon?|- Non, la grenouille.
+{91369}{91419}A quelle cause il veut se référer?
+{91417}{91477}On les harponne les grenouilles|dans ma région.
+{91480}{91505}Ici aussi.
+{91508}{91581}Je suis pêcheur de truite,|c'est un nouveau truc que j'essaye.
+{91583}{91628}Ils s'en servent dans le sud.
+{91628}{91718}L'idée est que le matériel|ait une bonne gaule un peu forte.
+{91722}{91807}Vous pêchez d'un bateau que vous laissez|dériver le long de la berge.
+{91809}{91921}Quand vous voyez une grenouille-taureau|dans une fissure, vous lui présentez l'appât
+{91924}{92009}et "pop", quand elle ouvre la gueule,|vous ferrez.
+{92007}{92047}Vous avez des cuisses de grenouille.
+{92050}{92083}C'est fantastique.
+{92084}{92124}Gardez-le. Vous essaierez.
+{92122}{92172}Merci. J'essaierai certainement.
+{92178}{92223}486.
+{92255}{92355}- Qu'est-ce que c'est?|- Le ministère public contre Durfee, 1886.
+{92375}{92425}Ça a l'air d'être un précédent.
+{92429}{92479}Vous voulez le voir?
+{92501}{92599}Non merci.|Je crois que je me souviens de l'arrêt.
+{92614}{92716}Nous sommes harponnés,|comme la grenouille.
+{92798}{92868}Dr Harcourt, où avez-vous suivi|votre formation universitaire?
+{92870}{92915}Avec John Hopkins à Baltimore, Maryland.
+{92918}{92968}Et vous exercez où?
+{92969}{93064}Je suis le directeur médical|de l'hôpital psychiatrique Bonder State.
+{93067}{93185}Il a été établi que la réaction dissociée|ou impulsion irrésistible
+{93187}{93255}est fréquente chez les soldats|durant le combat.
+{93257}{93324}- Vous êtes d'accord avec ça?|- Oui.
+{93324}{93371}Mais pas comme l'a décrit le Dr Smith.
+{93374}{93414}En quoi vous divergez?
+{93417}{93512}La réaction dissociée n'est pas|une chose qui arrive comme ça
+{93513}{93561}et disparaît aussi vite.
+{93564}{93664}Elle ne peut survenir,|même chez les soldats au combat,
+{93666}{93756}que si l'individu a une condition|psycho-neurotique antérieure.
+{93762}{93837}Il a été dit ici qu'un examen psychiatrique
+{93842}{93914}de l'accusé n'a pas démontré de névrose,
+{93914}{93971}ni un précédent de réaction dissociée.
+{93973}{94051}Il a également été dit|que le comportement de l'accusé
+{94053}{94130}la nuit du crime était froid et direct.
+{94136}{94219}- Comme un spectateur, non?|- Oui.
+{94227}{94297}Vous avez une idée|concernant l'état d'esprit de l'accusé
+{94302}{94339}la nuit du crime?
+{94341}{94376}Oui. Je crois
+{94379}{94451}qu'il était suffisamment|en possession de ses facultés
+{94453}{94516}et qu'il n'a donc pas agi inconsciemment.
+{94518}{94605}En d'autres termes il n'était pas dominé|par une impulsion irrésistible.
+{94611}{94646}A mon avis non.
+{94649}{94677}Le témoin est à vous.
+{94681}{94806}La psychiatrie sert à sonder|l'univers sombre et caché de l'esprit.
+{94811}{94893}Et cet univers peut être rond|mais tout aussi bien carré.
+{94899}{94992}Vous pouvez faire erreur, le Dr Smith|pourrait avoir raison, n'est-ce pas?
+{94993}{95050}Je serais un bien piètre médecin|si je le niais.
+{95052}{95120}Mais je pense avoir raison.
+{95139}{95197}Vous pourriez changer d'avis,
+{95199}{95256}si vous examiniez l'accusé|comme le Dr Smith?
+{95282}{95310}Je ne pense pas.
+{95319}{95389}Mais l'avis de Smith est fondé|sur de meilleurs éléments.
+{95396}{95461}Si vous entendez par là|l'examen de l'accusé, oui.
+{95468}{95510}Oui. Merci.
+{95511}{95586}Ce sera tout. D'autres éléments?
+{95594}{95642}On est mal en point.
+{95652}{95697}Il faut se servir de lui.
+{95717}{95769}J'appelle Duane Miller à la barre.
+{95779}{95836}Le shérif est prié d'amener le témoin.
+{95983}{96026}Qu'est-ce qu'il peut dire?
+{96043}{96075}Rien du tout.
+{96102}{96145}Il peut rien dire.
+{96414}{96444}Levez la main droite.
+{96446}{96493}Jurez de témoigner avec sincérité,
+{96496}{96571}et de dire la vérité,|toute la vérité et rien que la vérité.
+{96572}{96600}Je le jure.
+{96664}{96699}Voulez-vous déclarer votre nom?
+{96702}{96765}Duane Miller.|Mais tout le monde m'appelle Duke.
+{96767}{96814}Vous résidez où actuellement?
+{96820}{96867}Dans la maison d'en face, en prison.
+{96868}{96920}Vous connaissez l'accusé,|Frederick Manion?
+{96923}{96993}Depuis quelques semaines.|Sa cellule est à côté.
+{96997}{97064}Quelle a été|votre dernière conversation avec lui?
+{97064}{97144}A part un "bonjour" ce matin,|la dernière fois ça a été hier soir.
+{97146}{97201}Vous avez parlé de son procès hier soir?
+{97204}{97231}Oui, un peu.
+{97234}{97309}Voulez-vous dire à la cour|ce que le lieutenant Manion vous a dit?
+{97311}{97389}Je lui ai dit|"Alors, ça s'annonce bien lieutenant?"
+{97402}{97470}Alors il a dit|"Mon petit gars, c'est dans la poche."
+{97472}{97574}Il a dit "J'ai blousé mon avocat,|j'ai blousé cette andouille d'aliéniste,
+{97578}{97640}"maintenant je vais blouser|cette bande du jury."
+{97642}{97670}Tu n'es qu'un menteur!
+{97671}{97729}Tu n'es qu'un menteur et un salaud!
+{97829}{97887}Je m'excuse pour mon client.
+{97899}{97984}Mais sa colère est compréhensible|puisque le ministère public a cru bon
+{97987}{98085}d'appeler un voyou à la barre pour|témoigner contre un officier de l'armée.
+{98086}{98183}Je ne sais pas lequel est le plus insultant,|de Manion ou de son avocat.
+{98187}{98234}Nous approchons de la fin.
+{98239}{98361}Gardons un peu de calme et de courtoisie|pendant les heures qui nous restent.
+{98376}{98476}Vous allez continuer votre interrogatoire|sans faire de commentaires.
+{98495}{98573}Vous cesserez de vociférer à tout propos.
+{98580}{98647}L'accusé restera à sa place|et n'ouvrira pas la bouche.
+{98649}{98704}- Maintenant continuez.|- M.Miller.
+{98711}{98774}Vous êtes certain que le lieutenant Manion a dit
+{98778}{98853}- "Mon petit gars, c'est dans la poche"?|- Il l'a dit.
+{98855}{98920}- Le lieutenant Manion n'a rien dit d'autre?|- Si.
+{98935}{98997}Il a dit "En sortant|la première chose ça sera
+{98999}{99069}"de balancer cette traînée|à grands coups de botte."
+{99093}{99158}- Il voulait parler de qui ?|- Sa femme.
+{99189}{99224}A vous la parole.
+{99248}{99303}- Vous êtes en prison pourquoi?|- Incendie.
+{99306}{99354}J'ai avoué. J'attends d'être jugé.
+{99357}{99409}Combien d'autres infractions?
+{99411}{99499}J'ai été en maison de redressement|quand j'étais gosse, c'est tout.
+{99501}{99563}Je désirerais voir son casier judiciaire.
+{99568}{99615}Vous en avez un extrait?
+{99618}{99641}Oui.
+{99670}{99700}Le voici.
+{99783}{99895}Votre casier indique que vous avez fait|de la prison à six reprises dans trois états.
+{99913}{100035}Trois fois comme incendiaire, deux fois|attaque à main armée, une fois pour vol.
+{100097}{100172}Vous avez fait des séjours|dans quatre prisons municipales
+{100174}{100264}à la suite d'attentat à la pudeur,|scandale sur la voie publique,
+{100263}{100325}faux témoignage et outrage à agent.
+{100359}{100411}Ce sont là vos antécédents exacts?
+{100428}{100468}Ces trucs c'est jamais exact.
+{100471}{100529}Comment avez-vous été|en rapport avec l'accusation
+{100532}{100614}pour lui rapporter la conversation|que vous aviez eue avec Manion?
+{100615}{100683}- L'avocat général nous a fait venir à son bureau.|- Venir qui?
+{100687}{100722}Moi et les autres détenus.
+{100723}{100765}Ensemble ou un seul à la fois?
+{100768}{100803}Un seul à la fois.
+{100807}{100880}Avec l'autre,|il nous ont fait venir à leur bureau
+{100882}{100939}et ils nous ont interrogés sur le lieutenant Manion.
+{100939}{101026}Est-ce qu'on vous a promis une condamnation|moins sévère si vous témoigniez?
+{101027}{101087}- Le ministère public...|- Rejeté. Répondez.
+{101093}{101130}On n'a rien promis du tout.
+{101131}{101176}Vous avez pensé qu'en inventant,
+{101179}{101236}ça pourrait vous servir|auprès de l'avocat général.
+{101238}{101271}J'ai rien inventé.
+{101275}{101330}- Vous êtes certain de ce qu'il a dit?|- Oui.
+{101330}{101400}Aussi sûr que vous l'étiez|de votre casier judiciaire?
+{101400}{101457}Là je crois que j'ai un peu exagéré.
+{101507}{101630}Je ne pense pas utile de faire à cet individu|l'honneur de lui poser d'autres questions.
+{101639}{101674}Voulez-vous emmener le témoin?
+{101699}{101744}Désirez-vous vous entretenir|avec votre client?
+{101747}{101820}Je vois que ce dernier témoignage|a été une surprise.
+{101826}{101881}Nous n'avons pas besoin|de nous concerter.
+{101884}{101959}Je vais rappeler le lieutenant Manion|tout de suite à la barre.
+{102145}{102218}Vous avez entendu la déposition|de ce M.Miller?
+{102245}{102283}Est-ce qu'elle contenait une part de vérité?
+{102287}{102317}Pas la moindre.
+{102337}{102440}Vous avez une idée de la raison pour|laquelle il est venu affirmer ces fables?
+{102442}{102477}Non, aucune idée.
+{102522}{102577}Avez-vous jamais causé avec Miller?
+{102579}{102604}Oui.
+{102629}{102669}De quoi vous avez parlé?
+{102714}{102756}De rien d'important.
+{102768}{102871}En tout cas de rien qui concerne ma vie|privée ni mes sentiments personnels.
+{102874}{102917}C'est tout ce que je voulais savoir.
+{102920}{102960}lieutenant Manion.
+{102977}{103094}Vous n'avez jamais eu de difficultés|avec Miller?
+{103133}{103201}Comment ça?|Une dispute, quelque chose comme ça?
+{103205}{103295}Vous n'avez jamais attaqué Miller?|Attaqué physiquement?
+{103324}{103387}Votre avocat ne peut pas répondre|pour vous.
+{103390}{103435}Avez-vous attaqué Miller physiquement?
+{103435}{103493}C'était pas exactement une attaque.
+{103500}{103550}Je lui ai poussé la tête contre les barreaux.
+{103553}{103625}- Pourquoi?|- Il avait dit des choses sur ma femme.
+{103634}{103719}Vous vous rappelez avoir poussé|ou frappé sa tête contre les barreaux?
+{103718}{103766}Oui. Je viens de vous le dire.
+{103770}{103823}Ce n'était pas là une réaction dissociée?
+{103826}{103893}- L'accusé n'est pas qualifié pour répondre.|- Accepté.
+{103895}{103935}Lieutenant Manion.
+{103948}{104043}Votre agression contre Quill n'était-elle pas|semblable à celle contre Miller
+{104047}{104124}et contre le jeune sous-lieutenant|que vous aviez frappé avant?
+{104123}{104233}Tout ça dans le feu de la colère et avec la|volonté consciente de blesser ou de tuer?
+{104236}{104306}Je ne me rappelle pas|mon agression contre Quill.
+{104320}{104427}Il y avait longtemps que vous saviez|que votre femme fréquentait Barney Quill?
+{104440}{104492}Je n'ai jamais rien su de semblable.
+{104517}{104559}J'ai confiance en ma femme.
+{104574}{104641}Je suppose|que vous la battiez de temps en temps?
+{104643}{104721}Rien n'a été établi dans les débats|qui permette cette question.
+{104725}{104778}Il continue ses insinuations|sans faits précis.
+{104777}{104860}Qu'il demande au lieutenant|s'il a effectivement battu sa femme.
+{104864}{104904}J'admets l'objection.
+{104910}{104975}Voulez-vous formuler autrement|votre question?
+{105008}{105043}Non, merci.
+{105065}{105103}J'ai fini.
+{105108}{105151}Alors je vais la poser.
+{105154}{105239}Est-il exact que vous ayez battu|votre femme la nuit du drame
+{105238}{105278}- ou à un autre moment?|- Non.
+{105281}{105374}Avez-vous un doute sur le fait|que Barney Quill ait violé Mme Manion?
+{105375}{105412}- Aucun.|- C'est tout.
+{105413}{105453}Vous pouvez descendre.
+{105602}{105662}- C'est mauvais?|- Oui, très mauvais.
+{105669}{105694}Paulo.
+{105808}{105898}Je n'ignore pas que le temps presse|et je ne veux pas demander de suspension.
+{105902}{105949}Je voudrais quitter l'audience un moment.
+{105948}{106016}Si c'est très important,|nous nous détendrons une minute.
+{106019}{106059}Je vous remercie.
+{106080}{106135}C'est tout à fait contraire aux usages.
+{106137}{106222}Je ne vois pas de raison|de soumettre le cas à la cour fédérale.
+{106480}{106513}Merci beaucoup.
+{106513}{106566}Nous avons un nouveau témoin|à introduire.
+{106569}{106614}La défense appelle Mary Pilant.
+{106617}{106672}Nous devons protester|contre ces procédés.
+{106675}{106747}Notre adversaire se rue dehors|pour avoir une entrevue secrète
+{106748}{106818}et ce témoin est amené|théâtralement dans la salle.
+{106820}{106898}Tout cela est évidemment machiné|pour impressionner le jury.
+{106900}{106955}C'est encore un tour de passe-passe.
+{106955}{107035}Je n'en veux pas à M.Dancer|de se sentir mystifié.
+{107036}{107106}Je suis un humble avocat|de province qui fait de son mieux
+{107108}{107193}contre un très brillant représentant|du parquet de la grande cité.
+{107197}{107239}Faites prêter serment.
+{107262}{107295}Levez la main droite.
+{107293}{107343}Jurez de témoigner avec sincérité
+{107346}{107438}et de dire la vérité,|toute la vérité et rien que la vérité.
+{107442}{107489}- Je le jure.|- Asseyez-vous.
+{107566}{107638}- Où habitez-vous?|- Auberge de Thunder Bay, à Thunder Bay.
+{107640}{107710}- Depuis quand y habitez-vous?|- Depuis deux ans.
+{107725}{107800}- Quelle est votre profession?|- Je dirige l'auberge.
+{107799}{107834}Mlle Pilant.
+{107837}{107905}Comment enlève-t-on|le linge sale à l'auberge?
+{107904}{107954}Il y a une glissoire pour la buanderie.
+{107955}{108020}Au deuxième étage,|où est l'entrée de la glissoire?
+{108022}{108072}Entre les chambres 42 et 43.
+{108075}{108110}Qui occupe ces deux chambres?
+{108108}{108190}J'occupe le 42. M.Quill occupait le 43.
+{108199}{108261}Est-ce que M.Quill,|en montant de la salle du bar,
+{108264}{108359}était obligé de passer devant l'entrée|de la glissoire pour gagner sa chambre?
+{108363}{108405}- Oui.|- Est-ce qu'il aurait pu facilement jeter
+{108406}{108466}un objet dans l'ouverture|en passant devant?
+{108468}{108493}Oui.
+{108497}{108579}Avez-vous l'occasion|de descendre dans la buanderie?
+{108580}{108665}Oui. Ça fait partie de mon travail|de trier les pièces de linge
+{108669}{108729}quand elles sortent des machines à laver.
+{108729}{108802}Voulez-vous dire à la cour|ce que vous avez trouvé
+{108804}{108859}le jour qui a suivi la mort de M.Quill?
+{108861}{108913}J'ai trouvé un slip de femme.
+{108919}{108989}- Qu'est-ce que vous en avez fait?|- Je l'ai jeté aux vieux chiffons.
+{108991}{109076}Quand avez-vous appris|l'importance de ce slip pour ce procès?
+{109079}{109142}Ici. Ce matin à l'audience.
+{109146}{109206}- Vous êtes rentrée chez vous le chercher?|- Oui.
+{109208}{109263}- Vous l'avez apporté?|- Oui.
+{109333}{109471}Je dépose cette pièce comme "Pièce|à conviction numéro 1" de la défense.
+{109475}{109507}Il est blanc.
+{109513}{109565}Il y a de la dentelle au bord
+{109585}{109630}et il est presque en loques.
+{109633}{109713}Comme s'il avait été arraché|par des mains puissantes.
+{109729}{109776}L'étiquette porte:
+{109808}{109868}"Tout pour la femme, Phoenix, Arizona."
+{109880}{109960}S'il n'y a pas d'objection,|cette pièce à conviction sera déposée.
+{109961}{109986}C'est tout.
+{109988}{110065}Vous avez parlé à Lodwick|de la mort de Barney Quill?
+{110070}{110152}Oui. Il est venu à l'hôtel plusieurs fois|après la mort de M.Quill.
+{110153}{110233}Est-ce que vous avez dit que vous ne croyiez|pas qu'il ait violé Mme Manion?
+{110235}{110260}Je le lui ai dit.
+{110262}{110352}- Vous avez parlé à M.Biegler?|- Oui.
+{110355}{110415}- Etait-ce au sujet de la mort de Quill?|- Oui.
+{110417}{110482}Avez-vous dit|que vous ne croyiez pas au viol?
+{110484}{110537}- Combien de fois vous avez parlé?|- Deux fois.
+{110540}{110590}- Quand la dernière fois?|- Hier soir.
+{110592}{110632}Est-ce que vous avez changé d'opinion?
+{110633}{110696}Croyez-vous|que Barney Quill ait commis le viol?
+{110700}{110755}Je ne sais pas. Je crois que c'est possible.
+{110753}{110808}Quand avez-vous changé d'opinion,|hier soir?
+{110810}{110853}Non, ici, ce matin.
+{110856}{110913}Quand est-ce qu'on vous a donné le slip?|Hier soir aussi?
+{110916}{110999}- Une minute!|- Faites votre opposition dans les formes.
+{111010}{111105}Je ne la ferai pas. Je serais heureux|que le jury entende la réponse.
+{111107}{111140}Le témoin peut répondre.
+{111141}{111239}Non. On ne m'a pas donné de slip,|ni hier soir ni à un autre moment.
+{111240}{111282}Je l'ai trouvé comme je l'ai dit.
+{111285}{111355}Vous êtes sûre|que Quill a jeté le slip dans la glissoire
+{111355}{111402}- ou vous avez supposé?|- J'ai supposé.
+{111405}{111463}Avez-vous pensé|qu'un autre ait pu jeter le slip?
+{111465}{111517}Quelqu'un qui voulait qu'on le trouve?
+{111520}{111560}Je n'ai pas pensé à ça.
+{111563}{111656}Sous l'empire de ce que M.Biegler|appellerait une "impulsion irrésistible",
+{111659}{111702}vous accourez ici avec le slip
+{111705}{111807}- pour noircir la mémoire de Quill?|- Non, j'ai pensé que c'était mon devoir.
+{111808}{111876}- Votre fierté était blessée?|- Je ne comprends pas.
+{111880}{111980}Il essaie de troubler le témoin. Que|l'accusation lui pose des questions claires.
+{111980}{112073}Oui, j'aimerais savoir aussi|à quoi vous voulez en venir.
+{112079}{112151}Quand vous avez trouvé|le slip en question,
+{112162}{112245}votre idée a-t-elle été que Barney Quill|avait pu violer Mme Manion,
+{112247}{112329}ou avez-vous eu la révélation|de votre infortune?
+{112340}{112385}Qu'est-ce qu'il veut dire?
+{112386}{112436}Je vous demande une fois encore
+{112439}{112501}de poser au témoin des questions directes.
+{112506}{112568}Voici une question directe.
+{112592}{112649}Est-ce que vous étiez la maîtresse de Barney Quill?
+{112652}{112695}Non, je ne l'étais pas!
+{112698}{112745}Il était connu que vous cohabitiez.
+{112747}{112797}Ce n'est pas vrai. Barney Quill était...
+{112798}{112835}Quoi?
+{112858}{112913}Barney Quill était quoi?
+{112958}{113011}Barney Quill était mon père.
+{113299}{113332}Plus de question.
+{113350}{113385}C'est tout pour moi.
+{113419}{113472}Le témoin peut regagner sa place.
+{113474}{113584}Nous suspendrons l'audience pour 15 minutes|après quoi nous entendrons le réquisitoire.
+{113599}{113706}Si c'est possible, je voudrais que le jury|entre en délibération avant la nuit.
+{114074}{114141}Vous croyez qu'ils vont y passer|toute la nuit?
+{114491}{114543}Dites n'importe quoi mais parlez!
+{114599}{114659}Qu'est-ce que vous voulez|que je vous dise?
+{114661}{114719}Dites-moi que nous gagnerons le procès.
+{114740}{114827}J'ai un besoin urgent|d'avoir les billets à ordre du lieutenant Manion.
+{114834}{114932}On pourra peut-être emprunter dessus.|J'ai besoin d'une nouvelle machine.
+{114942}{115037}La plupart du temps les P et les M|ne marquent pas sur la mienne.
+{115043}{115150}"Faire appel à minima", quand je tape|ça me donne "faire ael à inia."
+{115169}{115232}Ça ne veut rien dire. C'est très gênant.
+{115236}{115281}"Faire ael à inia"?
+{115294}{115337}C'est assez joli.
+{115351}{115396}Ça sonne bien à l'oreille.
+{115465}{115540}Douze personnes enfermées ensemble.
+{115570}{115612}Douze esprits différents.
+{115620}{115663}Douze cœurs différents.
+{115671}{115736}Venant de douze chemins différents|de la vie.
+{115754}{115839}Douze paires d'yeux, d'oreilles,|douze paires de mains.
+{115865}{115988}Et à ces douze personnes|on demande de juger un autre être humain
+{115997}{116082}aussi différent d'elles|qu'elles sont différentes entre elles.
+{116090}{116195}Et dans leur jugement elles ne peuvent|avoir qu'une opinion, unanime.
+{116241}{116346}C'est un des miracles de l'esprit détraqué|de l'homme qu'elles y parviennent.
+{116361}{116433}Et dans la plupart des cas|qu'elles le fassent bien.
+{116464}{116524}Loué soit le jury.
+{116560}{116648}Je ne sais pas ce que je ferais|si je faisais partie de ce jury.
+{116713}{116758}Réellement, je ne sais pas.
+{116798}{116823}Et vous?
+{116934}{116979}C'était épatant.
+{116985}{117067}C'était inouï le couplet|sur "l'humble avocat de province".
+{117085}{117137}Vous avez fait danser M.Dancer.
+{117172}{117272}Ce n'est pas lui qui a dansé le dernier.|Il a fait le meilleur réquisitoire.
+{117274}{117339}Moi j'ai encore mieux aimé|votre plaidoirie.
+{117455}{117495}Pourquoi jouez-vous ces horreurs?
+{117495}{117578}Jouez le Beau Danube Bleu ou|la Forêt viennoise.
+{117910}{117947}Le cabinet Biegler.
+{117965}{118013}Bien monsieur. Tout de suite.
+{118016}{118046}Ils sont prêts.
+{118294}{118339}Paulo!
+{118375}{118417}Avancez. Ne m'attendez pas.
+{118497}{118567}Vous direz à mon époux|que je l'attends dans la voiture.
+{118569}{118639}- Vous êtes sûre qu'il sera libéré?|- Oui.
+{118639}{118674}C'est un veinard.
+{118678}{118735}Il y en a comme ça qui ont de la veine.
+{118735}{118840}Qu'il se dépêche parce que je l'attends|pour qu'il me balance un coup de botte.
+{118841}{118876}Au fait Paulo.
+{118889}{118961}J'ai un petit souvenir pour vous.
+{118984}{119034}Vous feriez aussi bien de la conserver.
+{119034}{119099}Vous pourriez en avoir encore besoin.|On ne sait jamais.
+{119101}{119144}Non, on ne sait jamais.
+{119152}{119199}Cher Paulo.
+{119375}{119460}Je demande à tous ici présents de ne pas|interrompre le prononcé du verdict.
+{119461}{119529}Je ferai évacuer la salle s'il se produit
+{119531}{119593}la moindre manifestation dans l'auditoire.
+{119797}{119845}Posez la question s'il vous plaît.
+{119848}{119910}Membres du jury,|êtes-vous d'accord sur un verdict?
+{119912}{119997}- Qui le prononcera?|- L'accord est fait. C'est moi qui parlerai.
+{119998}{120048}Accusé levez-vous.
+{120109}{120134}Quel est votre verdict?
+{120137}{120225}Le jury déclare l'accusé non coupable|pour raison de démence.
+{120358}{120416}Maida vous a donné les billets à ordre?
+{120418}{120503}Je les ai là, prêts à être signés|par notre bienheureux client.
+{120516}{120604}Autrefois je ne trouvais la vie belle|qu'à travers un verre de whisky.
+{120605}{120642}C'était une erreur.
+{120660}{120700}Je crois que je vais persévérer.
+{120701}{120738}Ça a son charme.
+{120756}{120821}J'ai gagné une bonne chose|dans cette affaire:
+{120845}{120877}Un nouvel associé.
+{120879}{120929}Si du moins il y consent.
+{120938}{121043}Ce sera pour lui un grand honneur d'avoir|son nom sur la même plaque que vous.
+{121744}{121814}Je pense que vous cherchez le lieutenant Manion?
+{121823}{121868}Il m'a remis ce mot pour vous.
+{121907}{121952}Mme Manion faisait peine à voir.
+{121955}{121993}Elle pleurait.
+{122006}{122048}Ils m'ont laissé des saloperies.
+{122049}{122096}Moi j'ai du travail.
+{122099}{122139}"Cher M.Biegler,
+{122142}{122190}"Je suis navré d'avoir dû partir.
+{122193}{122260}"J'ai été saisi|par une impulsion irrésistible.
+{122265}{122305}"Frederick Manion."
+{122332}{122409}Le plus dur dans l'histoire|ce sera d'affronter Maida.
+{122432}{122457}Du gin.
+{122473}{122533}Je savais bien que ce type était louche.
+{122535}{122598}On ne peut jamais se fier|à un buveur de gin.
+{122624}{122701}Mon cher associé,|si on allait voir notre premier client?
+{122703}{122731}Un client, qui ça?
+{122735}{122812}Mary Pilant. Nous allons administrer|les biens de Barney Quill.
+{122813}{122898}Ça doit être ce qu'un vain peuple|appelle la justice immanente.
+{122941}{122963}Oui.
+{123192}{123235}FIN

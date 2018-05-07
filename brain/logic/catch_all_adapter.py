@@ -28,13 +28,15 @@ class CatchAllAdapter(AlanLogicAdapter):
 
 
     def process_done(self, is_selected=False):
-        if is_selected and self.index_selected is not None:
+        if not self.allowed_to_repeat and \
+           self.index_selected is not None and \
+           is_selected :
             del self.sentences[self.index_selected]
         self.index_selected = None
 
     def can_process(self, statement):
         return len(self.sentences) > 0
-        
+
     def process(self, statement):
         self.index_selected = randint(0, len(self.sentences)-1)
         statment_out = Statement(self.sentences[self.index_selected])

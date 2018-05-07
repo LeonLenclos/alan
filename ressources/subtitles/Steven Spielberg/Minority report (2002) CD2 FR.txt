@@ -1,0 +1,702 @@
+{18}{64}Je sais ce que tu penses, John.
+{68}{102}Comment je peux faire ça ?
+{106}{218}J'ai pas mal traîné|à la bibliothèque de la prison.
+{222}{350}Un bon moyen d'éviter les aspects|les moins plaisants de la vie carcérale.
+{361}{428}La détention a été une éducation.|Ça m'a...
+{489}{531}ouvert les yeux.
+{637}{735}Disons que pour être vraiment éclairé,|rien ne vaut...
+{741}{864}une douche avec un gros dur, si dur|qu'un coup de marteau le ramollit pas...
+{868}{925}et qui te chuchote "chochotte"|à l'oreille.
+{943}{1037}C'était vraiment fou.|Merci de m'avoir mis là.
+{1048}{1134}Merci de m'avoir permis|de mieux me connaître.
+{1138}{1183}Je renvoie l'ascenseur...
+{1469}{1502}C'est votre œuvre ?
+{1560}{1593}Ça me plaît.
+{1606}{1649}Merci. Comment votre café ?
+{1653}{1710}- Avec crème et sucre.|- Pas de crème, désolée.
+{1714}{1738}Sucre alors.
+{1742}{1794}- Vous veniez ici avec John ?|- Tous les étés.
+{1798}{1836}Il n'est pas là ?
+{1903}{1942}Je devais demander.
+{2009}{2073}En fait, je n'ai pas de sucre|non plus.
+{2079}{2127}Il ne vous a pas contactée ?
+{2161}{2222}Il a déjà mentionné le nom Leo Crow ?
+{2227}{2293}Non, mais je ne parle plus|beaucoup à John.
+{2297}{2346}Vous n'avez pas été à son appartement ?
+{2350}{2374}C'était le nôtre.
+{2378}{2446}Vous y êtes allée récemment ?|Il y a de ça partout.
+{2450}{2480}Il se drogue ?
+{2513}{2554}Depuis qu'on a perdu notre fils.
+{2566}{2622}Qu'il a perdu votre fils.
+{2650}{2703}Personne n'était en faute.
+{2777}{2841}John était avec lui à la piscine.
+{2851}{2910}Vous dites que John a tenté de se tuer.
+{2914}{2943}Ce n'était pas ça.
+{2949}{2999}- Je regrette de l'avoir dit !|- C'était quoi ?
+{3003}{3080}Le FBI a trouvé une sandale|de mon fils.
+{3103}{3146}John était agité.
+{3153}{3251}Il a pris son arme, regardé ses films.|Vous l'avez dit.
+{3255}{3316}Il a tiré une balle dans le plafond.|Et alors ?
+{3320}{3375}Perdez un fils,|on verra si vous tenez.
+{3430}{3525}Selon Burgess, vous avez quitté John|à cause de Précrime.
+{3562}{3589}Je l'ai quitté...
+{3593}{3667}parce qu'en le regardant,|je voyais mon fils.
+{3696}{3735}En m'approchant de lui...
+{3739}{3790}je sentais mon petit garçon.
+{3805}{3857}Voilà pourquoi je l'ai quitté.
+{3893}{3940}A présent, vous pouvez partir.
+{3993}{4052}Garde les pansements douze heures.
+{4184}{4249}Sinon, tu perds la vue.
+{4257}{4285}Compris ?
+{4320}{4407}Il y a du lait au frigo.|Greta t'a fait un sandwich.
+{4411}{4462}Surtout, bois beaucoup d'eau.
+{4489}{4531}Où je trouve les toilettes ?
+{4546}{4609}C'est sur ta droite.
+{4696}{4730}Et la cuisine à ta gauche.
+{4804}{4867}Gratte pas.|Jamais gratter !
+{4897}{4998}Comme on est de vieux potes,|je te file un bonus qui peut servir.
+{5002}{5089}Une enzyme paralysante temporaire.|Une giclée sous le menton.
+{5093}{5123}Qu'est-ce que c'est ?
+{5127}{5191}Ça va réduire ta petite gueule|en bouillie.
+{5196}{5249}On te reconnaîtra même pas.
+{5257}{5368}Après 30 minutes, les tissus|se resserrent, mais tu vas déguster.
+{5372}{5412}Je vais mettre ca...
+{5417}{5456}dans le sac à provisions...
+{5470}{5514}avec tes autres restes.
+{5556}{5593}Je règle un minuteur.
+{5597}{5640}Demain, quand ça sonnera...
+{5647}{5729}enlève les pansements et file,|mais pas avant, sinon...
+{5733}{5783}Je perds la vue, je sais.
+{5795}{5828}Ne gratte pas.
+{5864}{5962}Un petit quelque chose|de la part d'un ami commun.
+{6860}{6914}Garde les pansements douze heures.
+{6959}{7036}Sinon tu perds la vue. Compris ?
+{7554}{7630}25 secondes 16 dixièmes.|C'est un nouveau record.
+{7635}{7667}Un record du monde ?
+{7672}{7709}Du monde ?
+{7725}{7755}Un record personnel.
+{7760}{7796}Je te chronomètre.
+{7806}{7907}Tu veux rire. Je battrai jamais|25 secondes 16 dixièmes.
+{7914}{7979}Combien une baleine|peut tenir sous l'eau ?
+{7986}{8035}Sans respirer, 20 minutes.
+{8040}{8075}Battons la baleine.
+{8165}{8205}Battons la baleine.
+{8271}{8343}20 minutes. Tu veux pas|aller chercher une glace ?
+{8357}{8412}Tu sais que je vais|battre la baleine !
+{8451}{8480}Donne-moi le départ.
+{9448}{9525}Je cherche mon fils.|Un garçon en maillot rouge.
+{12272}{12380}Prêts à thermoscanner|tout le secteur North Powell.
+{12411}{12470}Tu dois m'avoir à la bonne, Fletcher.
+{12474}{12542}Tu as demandé à être avec moi|pour cette sortie.
+{12546}{12581}On s'éclate avec toi, Knolt.
+{12585}{12653}Ou tu veux pas|me laisser seul avec le chef ?
+{12657}{12717}Des fois que j'aie envie|de me le payer ?
+{12721}{12813}Non, je veux le voir|ravaler un autre mur avec toi.
+{12858}{12894}J'ai...
+{12901}{12945}27 corps chauds.
+{12958}{12998}Je confirme : 27.
+{13016}{13061}Quatre Spyders ? Un par étage ?
+{13065}{13117}Disons huit. Je veux aller bouffer.
+{13503}{13573}Habitants du 931, Powell...
+{13577}{13634}ici l'agent Fletcher, de Précrime.
+{13640}{13686}Sous l'autorité de la section 6409...
+{13690}{13758}nous déployons des Spyders|dans votre immeuble.
+{13850}{13893}Maman, j'ai peur !
+{13918}{14014}Elles vont te scanner.|Ne bouge pas, ouvre les yeux.
+{14710}{14761}T'as fini de me tromper !
+{14765}{14810}Je t'ai dit où j'étais ! Lâche-moi !
+{14814}{14873}Sale menteur !|T'étais avec cette pute !
+{16910}{16942}On en a perdu un.
+{17003}{17046}C'était peut-être un chat.
+{17061}{17098}Balaise, le chat.
+{17105}{17132}Fletcher !
+{17159}{17194}Je vais voir.
+{18130}{18207}Ils pleurent ! Vous les terrifiez !
+{18215}{18266}Si ça vous plaît pas,|éloignez-les !
+{18642}{18683}Minute, revoilà le gros chat.
+{18694}{18738}Un pochetron mal réveillé ?
+{18750}{18801}Un mec qui veut pas du scan.
+{18805}{18870}Fermez vos portes, rentrez chez vous.
+{19138}{19185}Du calme, fermez la porte !
+{19362}{19409}Identifié. C'est pas lui.
+{19457}{19482}Fin de mission.
+{19498}{19525}A la bouffe !
+{19849}{19890}Fletcher, venez voir.
+{19958}{20031}Ils sont quatre dans la pièce,|pas trois.
+{20065}{20122}Anderton, Crow et Lunettes noires.
+{20126}{20178}Lunettes noires, à la fenêtre.
+{20266}{20322}Il y a aussi... quelqu'un ici.
+{20338}{20367}Dans la glace.
+{20390}{20426}Et c'est une femme.
+{20453}{20478}Précrime...
+{20482}{20570}a commencé en 2046|grâce à une subvention fédérale.
+{20574}{20607}Neuf ans plus tard...
+{20612}{20682}Washington est la ville|la plus sûre d'Amérique.
+{20686}{20749}La raison ? Précrime marche.
+{20753}{20834}Il n'y a plus besoin|de policiers conventionnels.
+{20837}{20894}Aujourd'hui, il s'agit surtout...
+{20900}{20948}de protéger la future victime.
+{20952}{20984}On peut voir les précogs ?
+{20988}{21026}Leur don est si puissant...
+{21055}{21153}qu'on doit les garder à l'abri|des distractions du monde extérieur.
+{21157}{21241}Cette maquette vous donne|une idée de leur vie quotidienne.
+{21245}{21282}Je veux voir les vrais !
+{21286}{21381}Les précogs reçoivent|plus de huit millions de lettres par an.
+{21385}{21425}Plus que le père Noël !
+{21429}{21512}Chaque précog a sa chambre,|sa télé, sa salle de gym.
+{21516}{21573}C'est merveilleux d'être un précog.
+{22181}{22245}Le copain de ma mère|est venu hier soir.
+{22249}{22297}Il est pas très intelligent.
+{22301}{22377}Maman a pas voulu|que je dîne dans ma chambre.
+{22381}{22445}J'ai dû rester là|à l'écouter causer sans fin...
+{23129}{23192}Identoptic : John Anderton.|Accès autorisé.
+{23253}{23293}Un nouveau chien.
+{23297}{23385}Je pourrais m'en occuper.|Je sais m'occuper de vous.
+{23389}{23433}Elle me croit irresponsable.
+{23437}{23469}C'est ridicule...
+{23568}{23649}On n'entre pas ici !|Qu'est-ce que vous faites ?
+{23786}{23857}Qui vous a autorisé ?|Faut pas rester.
+{23909}{24001}Je t'aime bien, Wally, je veux pas|être obligé de te frapper...
+{24005}{24053}mais promets de m'aider.
+{24096}{24125}Salut, John.
+{24341}{24381}Qui est-ce, d'après vous ?
+{24434}{24469}J'en sais rien.
+{24568}{24602}Agatha.
+{24621}{24657}Il vient la chercher !
+{24724}{24753}Toutes ses prévisions ?
+{24770}{24812}Je la rembobine.
+{24872}{24922}Je veux juste|le meurtre de Leo Crow.
+{24926}{25005}Ça vient dans le désordre.|Je prends à mesure.
+{25108}{25148}Tu peux voir ?
+{25480}{25537}- Il est entré.|- Il a un genre de masque.
+{25541}{25589}Il a verrouillé de l'intérieur.
+{25596}{25670}Ne tirez pas dans le temple.|Vomitriques.
+{25675}{25749}- Il y a une autre issue ?|- On a tout bouclé. Il sort pas.
+{25753}{25810}John, écartez-vous du bassin !
+{26312}{26351}Pourquoi veut-il un précog ?
+{26355}{26429}Pour pouvoir tuer|sans qu'on le sache !
+{26441}{26479}Il en reste deux !
+{26509}{26558}Les deux autres fonctionnent ?
+{26565}{26685}Vous comprenez pas ! Ils ont l'esprit|de la ruche, ça marche qu'à trois !
+{26772}{26812}Ils ne voient plus les meurtres ?
+{26817}{26882}S'il avait pris un mâle,|mais Agatha est la clé.
+{26887}{26949}C'est elle qu'on écoute,|elle la plus douée.
+{26961}{27012}Elle prend soin des deux autres.
+{27061}{27091}Ramenez-la !
+{27096}{27161}Où mène ce conduit ?|Les équipes, au sous-sol !
+{27165}{27232}- Peu importe, il gagne.|- On l'aura au réservoir.
+{27236}{27297}Elle est avec lui quand il tue Crow.
+{27302}{27353}Elle est déjà dans son futur.
+{27357}{27437}Trouvons cette pièce|et on empêche un meurtre.
+{27441}{27470}On a combien de temps ?
+{27529}{27577}51minutes 30 secondes.
+{27631}{27656}Tu as froid ?
+{27685}{27741}Tu comprends ? Tu as froid ?
+{27757}{27811}C'est les drogues qu'on t'a données.
+{27824}{27861}Ça va passer.
+{27885}{27953}Il faut m'aider.|Tu as en toi une information...
+{27958}{28004}j'ai besoin d'y accéder.
+{28039}{28100}Peux-tu me dire qui est Leo Crow ?
+{28113}{28153}On est maintenant ?
+{28157}{28181}On est maintenant ?
+{28253}{28305}Oui, tout se passe maintenant.
+{28353}{28464}Je dois t'emmener dans un lieu public,|il faut que je t'habille.
+{28468}{28508}Je suis lasse.
+{28512}{28557}Lasse du futur.
+{28718}{28786}M.Yakamoto !|Contente de vous revoir chez Gap.
+{28792}{28848}Vous avez aimé les débardeurs ?
+{29501}{29552}Où est la demande de rançon ?
+{29560}{29601}Il ne s'agit pas de rançon.
+{29608}{29686}Il s'agit de l'information|contenue chez Agatha.
+{29728}{29765}Il veut prouver son innocence.
+{29769}{29829}Il ne peut pas télécharger sans aide.
+{29833}{29896}Le matos ne se trouve pas|en magasin...
+{29900}{29997}c'est bricolé à partir de pièces|faites sur commande.
+{30049}{30125}Si Anderton l'a commandé,|qui l'a assemblé ?
+{30360}{30421}Qui est Rufus T.Riley ?
+{30488}{30553}Vous aimez quoi ?|On a tout : fantasmes sportifs...
+{30557}{30612}le plan "regarde, maman, je vole" ...
+{30616}{30714}qui va du saut à l'élastique|à l'aigle survolant le Grand Canyon.
+{30718}{30766}Des mecs qui veulent jouir en femme...
+{30770}{30841}des femmes qui veulent|sauter leur star télé ou...
+{30869}{30924}la bonne éclate toute simple.
+{31006}{31078}Le pied, et on en sort|sans crise cardiaque.
+{31082}{31137}Je veux tuer mon patron.
+{31229}{31269}Vous avez des images à me donner ?
+{31337}{31446}Diriger l'orchestre de Philadelphie,|c'est un de nos gros succès.
+{31450}{31493}Non, je veux tuer mon patron.
+{31497}{31605}Taré ! C'est des gens comme vous|qui nous pourrissent la vie !
+{31609}{31700}C'est sympa, de venir avec|tous les flics du monde après vous.
+{31704}{31736}J'ai besoin de ton aide.
+{31740}{31813}Pour vous, je consulte à domicile,|vous le savez.
+{31817}{31857}C'est pour elle.
+{31867}{31906}Bonjour, mon poussin.
+{31910}{31937}Je suis bluffé.
+{31942}{32053}En cavale, vous arrivez|à vous arranger un petit coup en douce.
+{32061}{32092}C'est une précog.
+{32122}{32162}C'est ça, d'accord.
+{32237}{32301}Vous avez amené une précog ici.
+{32716}{32746}Tu lis mes pensées ?
+{32758}{32782}Debout.
+{32789}{32840}Pardon pour ce que je ferai...
+{32845}{32893}et ce que j'ai fait,|c'était pas moi.
+{32986}{33066}Elle a une info en elle.|Je veux que tu la récupères.
+{33070}{33133}Je saurais pas par où commencer.
+{33152}{33237}Au sujet de ma cousine Elena,|c'était que des pensées.
+{33245}{33297}Tu es tombé deux fois|pour piratage.
+{33301}{33352}Je veux que tu la pirates.
+{33441}{33470}Je vais vous dire.
+{33476}{33569}Si je fais ça, je garde les images|que je tirerai de sa tête.
+{33573}{33610}Elles ne sont à personne.
+{33614}{33645}Emmenez-la à Radio Shack.
+{33703}{33730}Rufus, tu dois m'aider.
+{33888}{33925}Agatha, j'ai besoin de voir.
+{33929}{33992}J'ai besoin de voir|ce qui va m'arriver.
+{34024}{34052}Après, on s'en ira.
+{34428}{34454}Elle marche !
+{34459}{34485}Ralentis.
+{34517}{34584}Comment ? Je lui cogne sur la tête ?
+{34747}{34780}Tu enregistres ?
+{34833}{34867}Oui, j'enregistre.
+{35513}{35568}Je connais déjà ça. Avance.
+{35653}{35690}Adieu, Crow.
+{35945}{36000}- Que s'est-il passé ?|- J'en sais rien.
+{36048}{36097}- Où est la suite ?|- Je crois que c'est tout.
+{36161}{36225}Où est mon rapport minoritaire ?
+{36292}{36333}J'en ai un, au moins ?
+{36464}{36500}J'en ai un ?
+{36945}{36970}Tu peux voir ?
+{36974}{37009}Voir quoi ?
+{37400}{37433}Anne Lively.
+{37639}{37705}Tu veux que je voie|qui a tué Anne Lively.
+{37714}{37744}Tu enregistres ?
+{37749}{37793}Elle le déroule à l'envers.
+{37949}{38008}J'aime ma vie. J'ai tout bon.
+{38276}{38316}Ils sont entrés.
+{38395}{38437}Tous vos ex-collègues.
+{38890}{38933}Tu vois le parapluie ?
+{38956}{38983}Prends-le !
+{39141}{39181}Un homme en bleu.
+{39193}{39232}Il lâche sa serviette.
+{39432}{39478}Une femme en robe marron ?
+{39487}{39516}Elle te reconnaît.
+{39553}{39581}Tourne ici.
+{39921}{39945}Attends.
+{39952}{40020}- On ne peut pas.|- Le vendeur de ballons ?
+{40081}{40105}Attends.
+{40244}{40272}On attend quoi ?
+{40851}{40890}On identifie quelqu'un ?
+{40928}{41016}Scott, Ramos, prenez l'aile est.|Les autres, suivez-moi !
+{41316}{41368}Il sait. Rentre pas chez toi.
+{41588}{41616}On les a à vue.
+{41728}{41760}Une petite pièce ?
+{41764}{41800}Lance de la monnaie.
+{41863}{41923}Dans ma main, non ?
+{43284}{43319}C'est lui.
+{43338}{43369}L'homme à la fenêtre.
+{43758}{43782}95 $ la nuit.
+{43794}{43866}- Je peux voir le registre ?|- Sûrement pas.
+{43909}{43981}- Et maintenant ?|- Allez-y.
+{44317}{44351}Il est ici.
+{44367}{44408}Anderton, pars.
+{44594}{44661}Tu as le choix.|Va-t'en. Maintenant.
+{44665}{44735}Je dois savoir|ce qui est arrivé à ma vie.
+{44739}{44772}Je t'en prie.
+{44783}{44879}Je ne vais pas le tuer.|Je ne le connais même pas.
+{44883}{44937}- La chambre de Crow ?|- 1006.
+{46933}{46960}C'est pas celle-là.
+{47665}{47695}Va-t'en.
+{47717}{47747}Va-t'en !
+{49254}{49285}C'est Sean.
+{49301}{49333}Mon fils.
+{49443}{49475}Chaque jour...
+{49479}{49563}depuis six ans,|je ne pense qu'à deux choses.
+{49615}{49700}D'abord, comment serait mon fils|s'il était en vie.
+{49744}{49819}Le reconnaîtrais-je|si je le voyais dans la rue ?
+{49918}{49996}Et que ferais-je|à l'homme qui l'a enlevé ?
+{50123}{50156}Tu as raison.
+{50199}{50236}Ce n'est pas un piège.
+{50310}{50349}Tu dois me ramener.
+{50505}{50553}Tu l'as dit toi-même...
+{50560}{50656}il n'y a pas de rapport minoritaire.|Je n'ai pas d'autre futur.
+{50701}{50754}Je vais tuer cet homme.
+{50826}{50868}Tu as encore le choix.
+{50879}{50976}Les autres n'ont jamais vu leur avenir.|Tu as le choix !
+{51026}{51077}- Leo Crow ?|- Qui êtes-vous ?
+{51227}{51321}Il y a six ans, à Baltimore,|tu as kidnappé un gosse à la piscine.
+{51367}{51410}Moi ? Je ne sais pas.
+{51414}{51463}Je ne me rappelle pas l'endroit.
+{51596}{51645}Tu sais qui je suis ?
+{51649}{51688}Le père d'un gosse.
+{51693}{51733}Il s'appelle Sean !
+{51844}{51878}J'ai dit que j'étais flic.
+{51886}{51936}Qu'il devait m'aider. Facile.
+{51940}{51998}Je lui ai chanté une chanson.
+{52003}{52035}Acheté un bretzel !
+{52044}{52089}Il était heureux !
+{52106}{52139}Il est vivant ?
+{52145}{52217}Il est vivant ! Où l'as-tu mis ?|Il n'a rien ?
+{52221}{52259}Où est-il, fumier ?
+{52264}{52300}Je l'ai mis dans un tonneau.
+{52304}{52351}Je l'ai coulé dans la baie.
+{52364}{52410}Il est remonté à la surface.
+{52417}{52472}Je l'ai sorti.|J'ai été doux.
+{52547}{52577}J'ai été doux.
+{52707}{52740}Je regrette.
+{52847}{52899}Je regrette tellement.
+{52972}{53012}Tu as pu faire ça à mon fils ?
+{53788}{53827}Tu peux choisir.
+{53930}{53967}Tu peux choisir.
+{54425}{54489}Vous avez le droit|de refuser de parler.
+{54498}{54589}Tout ce que vous direz|pourra être retenu contre vous.
+{54620}{54655}Vous avez droit à un avocat...
+{54679}{54775}dès cet instant|et lors de toutes vos auditions.
+{54797}{54852}Si vous n'en avez pas les moyens...
+{54917}{54960}un avocat sera commis.
+{55009}{55058}Comprenez-vous vos droits ?
+{55100}{55140}Vous n'allez pas me tuer ?
+{55225}{55301}- Vous comprenez vos droits ?|- Vous ne me tuez pas ?
+{55388}{55464}Si vous me tuez pas,|ma famille touchera rien !
+{55483}{55524}Vous devez me tuer !
+{55545}{55583}Il me l'a promis.
+{55651}{55677}Qui ?
+{55685}{55711}Je ne sais pas.
+{55722}{55762}Il est venu dans ma cellule.
+{55772}{55859}Il a promis de me libérer,|de s'occuper de ma famille.
+{55864}{55898}Si tu faisais quoi ?
+{55982}{56037}Si je disais avoir tué votre fils.
+{56108}{56140}Si tu tuais mon fils ?
+{56162}{56242}Si vous me tuez pas,|ma famille touchera rien.
+{56267}{56300}Et les photos ?
+{56338}{56370}Des faux.
+{56376}{56410}Il me les a données.
+{56444}{56475}Ecoute-moi.
+{56507}{56581}Tu vas me dire|qui a monté le coup.
+{56611}{56637}Je ne sais pas.
+{56679}{56742}Je répète.|Qui t'a mis sur le coup ?
+{56746}{56791}Je n'ai pas vu son visage.
+{56795}{56840}Si je parle,|ma famille n'a rien.
+{56844}{56900}- Qui t'a fait faire ca ?|- Tuez-moi.
+{56958}{56983}Donne-moi l'arme.
+{56987}{57024}Lâche ce flingue.
+{57044}{57080}Lâche ce flingue.
+{57155}{57201}Lâche le flingue. C'est ça.
+{57283}{57312}Vous n'allez pas me tuer ?
+{58021}{58053}C'est absurde.
+{58057}{58152}Si vous étiez un tueur d'enfant,|vous laisseriez ces photos là ?
+{58156}{58206}Anderton a pu trouver leur cachette.
+{58210}{58276}- Vous étiez flic où, avant ?|- Agent du Trésor, huit ans.
+{58280}{58325}Votre première scène de crime ?
+{58329}{58375}J'étais à la Crim' avant.
+{58381}{58433}On appelle ça une orgie de preuves.
+{58437}{58501}Vous savez combien j'en ai vu,|comme flic ?
+{58543}{58575}Pas une.
+{58698}{58742}C'est une mise en scène.
+{58752}{58864}Nous avons assisté au premier meurtre|en six ans de Précrime.
+{58868}{58934}Hélas, il s'agit d'une erreur humaine.
+{58938}{59022}L'équipe est arrivée trop tard|pour empêcher le meurtre.
+{59026}{59104}Mais il a eu lieu|exactement comme les précogs...
+{59109}{59144}l'avaient prédit.
+{59149}{59238}Cet incident donne un visage humain|au système Précrime.
+{59242}{59280}Danny Witwer.
+{59301}{59346}Il dit que c'est important.
+{59632}{59707}Une erreur terrible.|On s'est trompés de coupable.
+{59712}{59752}Pas au téléphone.
+{59769}{59813}Venez chez Anderton.
+{59819}{59877}On l'a trouvé dans la chambre de Crow.
+{60026}{60110}Je me rappelle le lui avoir donné.|A Baltimore.
+{60255}{60288}Dites-moi ce que vous avez.
+{60409}{60471}Le meurtre d'une femme, Anne Lively.
+{60538}{60582}John m'en a parlé.
+{60593}{60645}Vous l'avez eu au Confinement ?
+{60649}{60696}Des jumeaux, Arthur et Dashiell.
+{60700}{60747}Les données d'Agatha manquent.
+{60797}{60851}Ceci vient du cybersalon.
+{60855}{60910}Anderton l'a téléchargé d'Agatha.
+{60917}{60957}Rufus Riley l'a enregistré.
+{61046}{61087}C'est la même prévision.
+{61100}{61128}Pas tout à fait.
+{61178}{61260}Regardez le vent sur l'eau,|les ondulations.
+{61294}{61353}Elles s'éloignent du rivage.
+{61394}{61508}Deuxième image, venue du Confinement.|Ce qu'ont vu Art et Dash.
+{61517}{61552}Regardez l'eau.
+{61592}{61628}Le vent a changé.
+{61649}{61701}L'eau ondule dans l'autre sens.
+{61746}{61803}Le meurtre a lieu à deux moments.
+{61826}{61914}Anderton a vu ça au Confinement,|juste avant qu'on le repère.
+{61919}{62030}Il craignait que vous trouviez|les données manquantes.
+{62047}{62092}Et je les ai trouvées.
+{62096}{62133}C'était dans Agatha.
+{62137}{62231}Mais pourquoi quelqu'un veut-il|effacer ce dossier ?
+{62309}{62362}Dites-moi ce que vous pensez.
+{62376}{62437}Je pense qu'un assassin court toujours.
+{62452}{62478}Comment ?
+{62499}{62587}Les précogs voient|le même meurtre plus d'une fois.
+{62598}{62632}Ça s'appelle un écho.
+{62646}{62701}Jad parle de déjà-vu précog.
+{62716}{62786}Les techniciens l'identifient|et l'ignorent.
+{62847}{62936}Si un technicien|croyait seulement voir un écho ?
+{62940}{63008}Si c'était un autre meurtre|qu'il voyait ?
+{63057}{63088}Je ne comprends pas.
+{63103}{63158}On paie un type|pour tuer Anne Lively...
+{63162}{63242}un vagabond, un neuroïnomane|qui n'a rien à perdre.
+{63246}{63304}Précrime empêche le meurtre.
+{63313}{63360}Arrête le tueur, le cercle.
+{63364}{63414}Mais après, juste après...
+{63418}{63530}quelqu'un qui a réexaminé la prévision,|qui porte les mêmes vêtements...
+{63534}{63621}commet le meurtre|exactement de la même manière.
+{63640}{63715}Le technicien jette un œil,|croit voir un écho.
+{63720}{63756}Il l'efface.
+{63878}{63974}Bien sûr, ce quelqu'un|devrait avoir accès aux prévisions.
+{63989}{64032}Quelqu'un de haut placé.
+{64099}{64143}Qu'est-ce que j'entends ?
+{64188}{64221}Rien.
+{64237}{64278}Aucun pas dans l'escalier.
+{64282}{64360}Ni hovercraft à la fenêtre,|ni petits Spyders.
+{64364}{64414}Pourquoi je n'entends rien ?
+{64418}{64500}Parce qu'en cet instant,|les précogs ne voient rien.
+{65099}{65156}Tu peux voir ? C'est beau.
+{65190}{65221}Où allons-nous ?
+{65225}{65264}En lieu sûr.
+{65472}{65506}Lamar, ici Lara.
+{65521}{65613}- Vous devez l'aider.|- Il est là ?
+{65676}{65711}La précog est avec lui ?
+{65809}{65869}Retenez-les. J'arrive.
+{65880}{65958}Ne dites rien à Witwer.|Je n'ai pas confiance en lui.
+{65994}{66036}Je ne dirai rien.
+{66067}{66137}Mais ne laissez pas John partir.
+{66199}{66238}Ce n'est pas un tueur.
+{66256}{66288}Je sais.
+{66566}{66601}Il fait froid.
+{66721}{66776}Lara, voici Agatha.
+{66916}{66950}Tu te rappelles...
+{66954}{67037}quand je vous lisais Tom Sawyer,|à toi et à Sean ?
+{67112}{67227}Il a eu si peur, quand Tom et Becky|étaient perdus dans la grotte.
+{67303}{67349}Je dois m'asseoir.
+{67375}{67425}Il faut que je réfléchisse.
+{68442}{68487}Ils se sont servis de Sean.
+{68526}{68591}Je devais croire|que Crow l'avait tué.
+{68623}{68663}Mais il ne l'a pas tué.
+{68777}{68831}Pourquoi te tendre ce piège ?
+{69018}{69089}A cause de ce que j'ai compris|sur elle.
+{69159}{69214}Comment ai-je pu ne pas le voir ?
+{69280}{69308}Anne Lively.
+{69539}{69614}Le Dr Hineman a dit :|"Les morts ne meurent pas.
+{69618}{69665}Ils regardent et ils aident. "
+{69685}{69732}Souviens-toi, John.
+{69934}{69987}Il est sur la plage.
+{70007}{70059}Un orteil dans l'eau.
+{70087}{70157}Il veut que tu viennes dans l'eau|avec lui.
+{70176}{70252}Il fait la course avec sa mère|sur le sable.
+{70297}{70364}Il y a tant d'amour dans cette maison.
+{70485}{70531}Il a dix ans.
+{70590}{70644}Il est entouré d'animaux.
+{70682}{70724}Il veut devenir vétérinaire.
+{70782}{70827}Vous lui donnez un lapin.
+{70831}{70882}Un oiseau. Un renard.
+{70932}{70976}Il est au lycée.
+{70987}{71056}Il aime courir, comme son père.
+{71067}{71138}Il court le 3000 mètres|et fait du relais.
+{71181}{71231}Il a vingt-trois ans.
+{71259}{71301}Il est à l'université.
+{71321}{71391}Il flirte avec une fille|nommée Claire.
+{71397}{71447}Il lui demande sa main.
+{71477}{71514}Il l'annonce à Lara...
+{71519}{71560}qui pleure.
+{71600}{71640}Il court toujours.
+{71659}{71744}Sur le campus, dans le stade|où John le regarde.
+{71752}{71810}Mon Dieu, comme il court vite...
+{71814}{71860}comme son père.
+{71882}{71974}Il voit son père.|Il veut courir vers lui.
+{72018}{72070}Mais il n'a que six ans.
+{72089}{72127}Il ne peut pas.
+{72140}{72196}Et l'autre homme est si rapide...
+{72293}{72353}Il y avait tant d'amour|dans cette maison.
+{72386}{72449}Je voudrais tellement le retrouver.
+{72502}{72551}Elle aussi.
+{72562}{72604}Tu ne vois pas ?
+{72695}{72757}Elle voulait retrouver|sa petite fille.
+{72823}{72869}Mais c'était trop tard.
+{72917}{72976}Sa petite fille était déjà partie.
+{72996}{73032}Elle est encore en vie.
+{73073}{73117}Elle n'est pas morte...
+{73125}{73172}mais elle n'est pas en vie.
+{73316}{73348}Dis-moi seulement...
+{73363}{73482}qui a tué ta mère ?|Qui a tué Anne Lively ?
+{73518}{73562}Je regrette, John...
+{73583}{73634}tu vas de nouveau devoir fuir.
+{74180}{74208}Va avec lui.
+{74212}{74237}Tu es en sûreté.
+{74339}{74365}On ne parle pas.
+{74789}{74813}John Anderton...
+{74931}{75021}je vous arrête pour les meurtres|de Leo Crow et Danny Witwer.
+{75183}{75217}Ma petite fille.
+{75266}{75316}J'étais si inquiet pour toi.
+{75420}{75461}Il t'a fait du mal ?
+{75538}{75576}Tu m'as tellement manqué.
+{75588}{75632}Tout va bien. Wally est là.
+{75811}{75881}Tu fais partie de mon troupeau,|à présent.
+{75898}{75932}Bienvenue.
+{75958}{76014}C'est une sorte de rush.
+{76024}{76065}Il paraît qu'on a des visions...
+{76069}{76143}que ta vie défile sous tes yeux.
+{76147}{76219}Que tous tes rêves se réalisent.
+{76633}{76676}Tout est de ma faute.
+{76712}{76758}Personne n'y pouvait rien.
+{76883}{76931}Vous voudrez sans doute ceci.
+{77085}{77118}Je ne le porte jamais.
+{77131}{77199}J'espère qu'il me va encore.
+{77203}{77239}Vous êtes superbe.
+{77247}{77316}Je savais qu'il était en difficulté...
+{77320}{77346}je n'ai rien fait.
+{77350}{77409}L'envoyé de USA Today.
+{77413}{77438}Pas maintenant.
+{77581}{77625}Vous partiez à la retraite.
+{77629}{77665}C'est vrai.
+{77677}{77790}Cet incident avec John m'a fait|comprendre la fragilité de tout ça.
+{77828}{77905}C'est l'héritage de John|autant que le mien.
+{77926}{77955}J'ai...
+{77962}{78008}L'obligation de le préserver.
+{78071}{78140}Je sais combien|c'est dur pour vous, mais...
+{78148}{78217}une chose vous consolera peut-être.
+{78223}{78293}John a trouvé l'assassin de votre fils.
+{78376}{78401}Qui est Anne Lively ?
+{78546}{78604}John en parlait|avant qu'on l'emmène.
+{78635}{78676}Je ne sais pas qui c'est.
+{78724}{78816}Il disait avoir été piégé|parce qu'il savait qui c'était.
+{78849}{78894}On sait pourquoi on l'a arrêté.
+{78908}{78964}Et que Crow était un imposteur.
+{78970}{79003}Et Witwer ?
+{79010}{79075}Tué avec l'arme de John,|chez lui.
+{79080}{79163}Vous savez pourquoi John|est venu travailler pour vous ?
+{79184}{79209}Sean ?
+{79236}{79289}Il est venu travailler pour vous...
+{79293}{79368}parce qu'il pensait que s'il pouvait...
+{79372}{79433}empêcher ce genre de chose...
+{79451}{79517}- Je comprends.|- Non, je ne crois pas.
+{79531}{79606}La conférence de presse|commence dans deux minutes.
+{79688}{79746}John est le meilleur flic|que j'aie connu...
+{79750}{79820}et, sur certains plans,|le meilleur homme.
+{79833}{79901}Mais les cicatrices qu'il portait...
+{79931}{80027}Il voudrait que nous honorions|ce qu'il y avait de bon en lui.
+{80043}{80097}Et je sais pourquoi il vous a épousée.
+{80101}{80154}Vous êtes aussi têtue que lui.
+{80222}{80276}Vous savez nouer ca ?
+{80280}{80314}Vous pouvez m'aider ?
+{80318}{80365}Je ne suis pas doué.
+{80604}{80639}Voici ce que je vais faire.
+{80644}{80732}Lundi matin, je regarde|les preuves pour Witwer...
+{80795}{80908}et en Confinement, je fais chercher|si quelqu'un a noyé une nommée...
+{80920}{80971}quel nom avez-vous dit ?
+{81038}{81075}Anne Lively.
+{81093}{81150}Je n'ai pas dit qu'on l'a noyée.
+{81632}{81694}La conférence de presse commence.
+{81698}{81730}J'arrive.
+{81856}{81907}Nous en parlerons plus tard.
+{81935}{82033}Peut-être que demain|je passerai à la villa.
+{82925}{82975}Je veux parler à mon mari.
+{83004}{83058}Vous n'êtes pas autorisée.
+{83081}{83110}Comment êtes-vous entrée ?
+{83389}{83498}Lamar Burgess, directeur|du nouveau Précrime national !
+{83586}{83665}Au nom du personnel,|nous voudrions vous offrir ceci.
+{83796}{83824}Comment l'avez-vous eu ?
+{83828}{83880}En gonflant vos notes de frais.
+{83969}{84018}Des revolvers comme celui-ci...
+{84022}{84063}ont été offerts aux généraux...
+{84067}{84133}à la fin de la guerre de Sécession,|par leurs troupes.
+{84148}{84241}Les barillets étaient chargés|de cinq balles plaquées or...
+{84259}{84374}symboles de la fin de la destruction|qui avait déchiré le pays.
+{84423}{84474}Précrime devenant national...
+{84481}{84539}nous pouvons espérer un temps...
+{84543}{84660}où personne n'aura plus jamais besoin|de décharger une arme à feu.
+{84705}{84753}Et maintenant, amusez-vous !
+{84759}{84792}C'est un ordre !
+{84876}{84941}Nous retournerons|à la maison du lac ?
+{84945}{84978}J'espère.
+{85266}{85327}Un appel urgent|sur votre ligne privée.
+{85453}{85528}Je voulais vous féliciter.|Vous avez réussi.
+{85539}{85599}Vous avez créé un monde sans meurtre.
+{85603}{85674}Tout le monde veut votre signature.
+{85681}{85738}Il vous a suffi de tuer quelqu'un.
+{85904}{85982}Jad, ici Lara.|John a besoin d'un service.
+{85987}{86043}Je ne sais pas de quoi vous parlez.
+{86048}{86103}La mère d'Agatha.|Anne Lively.
+{86107}{86166}Une camée|qui a abandonné sa fille.
+{86171}{86232}Mais, surprise, elle a décroché...
+{86238}{86317}et elle veut récupérer sa fille.|Elle veut Agatha.
+{86394}{86421}Jad, tu reçois ça ?
+{86425}{86496}Un flot unique, de la fille.|Ni date ni détails.
+{86500}{86558}Ce n'est pas le futur,|c'est déjà arrivé.
+{86563}{86647}Problème : sans Agatha,|il n'y avait plus de Précrime.
+{86651}{86765}Elle était la plus forte du trio.|Sans Agatha, vous n'aviez rien.
+{86769}{86887}Sans elle, vous ne seriez pas là,|en train de signer des autographes.
+{87098}{87137}Jad, qu'est-ce que tu fais ?
+{87157}{87201}Que fais-tu avec ca ?
+{87219}{87261}Réfléchis avant de l'envoyer.
+{87794}{87902}Il fallait supprimer Anne Lively.|La faire taire. Ça posait un problème.
+{87906}{87991}Comment la tuer|sans que les précogs le voient ?
+{87995}{88102}Simple : utiliser le système|que vous contrôlez contre elle.
+{88106}{88177}Vous engagez quelqu'un|pour la tuer, sachant...
+{88182}{88230}que les précogs|verront le meurtre.
+{88234}{88305}Vous attirez Anne au lac...
+{88321}{88379}en promettant une réunion|avec sa fille.
+{89485}{89525}Où est ma fille ?
+{89794}{89824}Fuis !
+{89898}{89925}Fuis !
+{90206}{90247}Une fois seul avec elle...
+{90251}{90285}vous la tuez vous-même...
+{90289}{90380}de la façon dont les précogs|ont prédit que X la tuerait.
+{90384}{90448}Vous donnez au vrai meurtre|l'allure d'un écho...
+{90453}{90525}sachant que le technicien|suivra la procédure :
+{90529}{90565}il classera.
+{90715}{90759}Anne Lively n'est plus...
+{90770}{90812}qu'une personne disparue.
+{90838}{90905}Qu'allez-vous faire, Lamar ?
+{91248}{91274}Boule rouge !
+{91430}{91491}Pensez aux vies qu'elle a sauvées.
+{91504}{91557}Pensez aux vies qu'elle a sauvées...
+{91561}{91607}aux vies qu'elle sauvera encore.
+{91611}{91679}Cette petite fille|aurait pu sauver Sean.
+{91687}{91744}Ne prononcez pas son nom !
+{91804}{91875}Vous m'avez piégé|avec le souvenir de mon fils.
+{91881}{91950}Vous m'avez piégé|avec le souvenir de mon fils !
+{91957}{92026}L'unique chose|qui me pousserait au meurtre.
+{92036}{92080}Qu'allez-vous faire, Lamar ?
+{92115}{92164}Comment me ferez-vous taire ?
+{92171}{92206}Pardonnez-moi, John.
+{92426}{92460}Pardonnez-moi, John.
+{92748}{92777}Lamar...
+{92789}{92820}c'est fini.
+{92840}{92895}La question, pour vous, c'est :
+{92901}{92962}qu'allez-vous faire, à présent ?
+{93285}{93339}Les précogs ont sûrement|déjà vu ceci.
+{93354}{93390}Sûrement.
+{93426}{93477}Vous voyez le dilemme ?
+{93500}{93599}Si vous ne me tuez pas, les précogs|auront tort, Précrime est fini.
+{93626}{93666}Si vous me tuez...
+{93673}{93710}on vous boucle.
+{93718}{93779}Mais ça prouve que le système marche.
+{93783}{93828}Les précogs avaient raison.
+{93976}{94042}Alors, qu'allez-vous faire ?
+{94090}{94126}Quel est le prix ?
+{94156}{94202}Un meurtre de plus.
+{94284}{94390}Vous pourrirez en enfer, cerclé,|mais on croira encore en Précrime.
+{94397}{94443}Il suffit de me tuer...
+{94447}{94477}comme annoncé.
+{94581}{94618}Sauf que...
+{94641}{94699}vous connaissez votre avenir.
+{94706}{94791}Vous pouvez donc le changer|si vous voulez.
+{94817}{94878}Vous avez encore le choix...
+{94901}{94935}comme moi.
+{95058}{95113}Oui, j'ai le choix.
+{95157}{95194}Et j'ai choisi.
+{95227}{95266}Pardon, John.
+{95483}{95520}Pardon, mon garçon.
+{96282}{96392}En 2054, au bout de six ans,|le programme Précrime fut abandonné.
+{96582}{96654}Tous les prisonniers|furent libérés sans condition...
+{96658}{96710}mais la police en suivit pas mal...
+{96715}{96762}pendant quelques années.
+{97911}{97962}Agatha et les jumeaux...
+{97970}{98041}furent transférés|dans un lieu tenu secret.
+{98079}{98158}Un endroit où ils purent|mettre leurs dons au repos.
+{98165}{98249}Un endroit où ils purent|vivre leurs vies en paix.

@@ -1,0 +1,901 @@
+{251}{334}Salut Melinda, quand t'es à |l'intérieur utilise un cendrier.
+{348}{401}Franck, ta fondue est |vraiment géniale, j'adore.
+{404}{436}Tiens moi ça.
+{723}{773}Touche pas à la Hi-fi !
+{767}{819}C'est des bandes, |ça s'utilise pas comme ça.
+{908}{1009}Merde, Terry!|C'est un tricot italien ! Fais gaffe !
+{1087}{1198}La bas ils sont en train de |danser sur le beurre...
+{1319}{1362}Excusez-moi je cherche|Lans Aplebaum.
+{1491}{1540}Vous vous rendez compte à |quel point c'est dangereux ?
+{1546}{1618}Arrêtez de pleurnicher, regardez moi |et dîtes moi que ca n'arrivera plus.
+{1629}{1681}Séchez vos larmes |et retournez travailler, idiote !
+{1832}{1876}He, ça va ?
+{1897}{1928}Il m'a dit de faire une prise de sang,
+{1930}{1999}je l'ai fait mais il m'a pas |dit d'étiqueter le flacon.
+{2032}{2071}C'est finit. |Arrêtez de pleurer.
+{2092}{2133}Comment vous vous appelez ?
+{2147}{2193}- Brenda.|- Brenda
+{2238}{2280}Brenda il ne faut pas vous en faire,
+{2295}{2368}Les médecins non plus, |ne savent pas tout.
+{2372}{2417}C'est ma première semaine et
+{2435}{2474}ils vont sûrement me renvoyer.
+{2476}{2543}Non, non vous ne serez |pas renvoyée Brenda.
+{2549}{2588}Je suis sûr que vous |faîtes du bon travail.
+{2614}{2639}Croyez pas ça.
+{2690}{2742}Je suis persuadé que si |je vous demandais des nouvelles,
+{2748}{2792}de mon ami Lens Applebaum,
+{2797}{2844}Vous me renseigneriez |en moins de deux.
+{3056}{3116}Mr Applebaum a une |fracture du tibia,
+{3122}{3212}Dr. Ashland le soigne |en salle d'examen n°7.
+{3213}{3271}Vous voyez ?|En moins de deux.
+{3328}{3370}Ca c'est la fiche des urgences.
+{3389}{3427}Vous voyez la petite étoile bleue ?
+{3430}{3496}Ca veut dire que le patient |a été examiné et,
+{3495}{3526}une fois qu'il a été soigné,
+{3533}{3596}on fait un cercle rouge,| vous voyez ?
+{3621}{3655}Ca va votre appareil ?
+{3711}{3749}Je m'y suis habitué.
+{3775}{3819}On m'a enlevé |le mien, l'an dernier.
+{3864}{3913}Moi je détestais le porter.
+{3924}{3971}J'en porte toujours un la nuit.
+{3987}{4033}Vous avez de très jolies dents.
+{4074}{4099}Oh, merci.
+{4119}{4169}Et vous, un très joli sourire.
+{4268}{4332}Non sans blagues!|Ca vous va très bien cet appareil.
+{4362}{4418}- Merci.|- Je vous en prie.
+{4586}{4633}Vous savez s'ils embauchent |dans cet hôpital ?
+{4681}{4713}Je sais pas trop.
+{4724}{4753}Qu'est-ce que |vous recherchez ?
+{4805}{4830}Je suis médecin.
+{4930}{4950}Cher papa,
+{4971}{5024}J'ai décidé d'arrêter de |voler pour quelque temps.
+{5038}{5077}J'ai trouvé un travail de |nuit dans un hopital,
+{5083}{5123}et j'ai rencontré des gens |vraiment très sympas.
+{5130}{5177}Ca fait du bien de |retrouver la terre ferme,
+{5183}{5226}de se réveiller tous les jours |dans le même lit.
+{5258}{5340}Et peut-être que je trouverais |quelqu'un qui partagera ma vie ?
+{5417}{5493}Fac de médecine |de Harvard, reçu 1er.
+{5520}{5575}Hôpital pour enfant |de Californie.
+{5606}{5676}C'est un curriculum |impressionnant Dr. Connors.
+{5682}{5771}Malheureusement, pour l'instant |je n'ai besoin que d'un,
+{5784}{5851}responsable de l'équipe de |garde aux urgences,
+{5857}{5908}entre 0h00 et 8h00 du matin.
+{5922}{5971}Quelqu'un pour materner 6 internes,
+{5977}{6006}et 20 infirmières.
+{6021}{6117}Mais... je doute fort que,
+{6136}{6187}ce poste vous interresse.
+{6206}{6272}Et bien, on m'a toujours laissé
+{6278}{6314}choisir mes infirmières.
+{6521}{6602}Dr. Conners vous ferez |l'appel tous les soirs ?
+{6622}{6658}Mais bien sûr Dr. Ashland.
+{6671}{6701}Et si vous êtes en retard,
+{6715}{6757}j'exige un mot de vos parents.
+{7675}{7723}- Bonjour Brenda.|- Bonjour Dr. Connors.
+{7755}{7810}- Vous devez signer ça.|- Merci.
+{7991}{8025}Vous ne voyez rien qui a changé ?
+{8033}{8078}On vous a enlevé votre appareil.
+{8086}{8149}- Allez venez me montrer.|- J'ai essayé de vous le montrer toute la nuit.
+{8209}{8237}Excellent travail.
+{8253}{8303}Qu'est-ce que ca vous fait?|Moi ça m'a fait tout drôle.
+{8309}{8374}Je me passe sans arrêt la langue |sur les dents, j'arrête pas.
+{8387}{8416}Elles sont tellement lisses.
+{8427}{8504}- C'est agréable, hein ?|- Oui, c'est incroyable.
+{8751}{8833}- Eh bien.|- Je suis... désolé.
+{9170}{9205}Dr. Connors, aux urgences.
+{9211}{9227}Vous devez y aller ?
+{9299}{9387}Y'a un médecin aux services des |urgences, on sera pas dérangé.
+{9529}{9625}- Il est en chirurgie.|- Vous croyez que je dois y aller ?
+{9649}{9680}Oh Dr. Connors, venez.
+{10092}{10176}Messieurs, quel problème |avons-nous ?
+{10200}{10228}Accident de vélo.
+{10242}{10306}Fracture du tibia à environ|12 cm de la rotule.
+{10480}{10498}Vous confirmez ?
+{10530}{10568}Confirmez quoi monsieur ?
+{10597}{10646}Ce que le Dr. Ashland |vient de me dire.
+{10735}{10791}Oui, c'est un accident de vélo, |c'est ce que l'enfant nous a dit.
+{10818}{10841}Alors vous confirmez ?
+{10893}{10955}Je crois qu'il faut faire une radio, |suturer la plaie,
+{10961}{10990}et poser un plâtre de marche.
+{11069}{11111}Excellent Dr. Ashland, excellent.
+{11124}{11182}Bien je vois que vous pouvez |vous passer de moi.
+{11200}{11220}Continuez.
+{11287}{11318}J'ai fait une bourde.
+{11347}{11375}Pourquoi j'ai pas confirmé ?
+{11920}{11962}Faîtes comme chez vous.
+{11986}{12016}Franck Abagnale Sr.
+{12030}{12055}Vous n'êtes pas un flic.
+{12111}{12156}Agent spécial Henratty, FBI.
+{12174}{12239}Vous n'êtes pas un flic, |mon concierge me l'a dit.
+{12259}{12295}Mais si vous êtes venus |pour m'arrêter,
+{12310}{12362}- j'aimerais passer un autre costume,|Si c'est possible
+{12368}{12393}je ne suis pas venu vous arrêter.
+{12399}{12424}Je recherche votre fils.
+{12430}{12454}Il a des ennuis.
+{12463}{12487}Vous savez où il est ?
+{12553}{12621}Si je vous le dis vous me promettez |de rien dire à sa mère ?
+{12646}{12665}Bien sûr.
+{12701}{12751}Franck s'est fait une |fausse pièce d'identité,
+{12754}{12807}il s'est engagé |dans les marines.
+{12801}{12847}Il est au Vietnâm |à l'heure qu'il est.
+{12852}{12901}Ce gamin est à l'autre |bout de la planète,
+{12906}{12950}en train de crapahuter |dans la jungle,
+{12956}{13001}de se battre contre|les communistes.
+{13030}{13083}Alors s'il vous plaît ne |venez pas chez moi,
+{13091}{13124}traiter mon fils |de criminel,
+{13130}{13197}- parce que ce gamin...|- J'ai pas dit que c'était un criminel, Mr Abagnale,
+{13196}{13230}J'ai dit qu'il avait |des ennuis.
+{13263}{13311}Si vous avez envie de |m'appeler pour me parler,
+{13309}{13332}Voici mon numéro.
+{13639}{13679}Vous n'avez pas d'enfants, hein ?
+{13728}{13762}Je vous demande pardon ?
+{13765}{13812}Si vous aviez des enfants, |vous sauriez
+{13823}{13875}que je ne donnerais|jamais mon fils.
+{13921}{13958}Je ne donnerais|jamais mon fils.
+{14005}{14052}Oui monsieur,|je comprends.
+{14078}{14124}John ?|John, notez ça.
+{14130}{14159}Residence Riverbend,
+{14165}{14247}415 Landover, |Atlanta, Géorgie.
+{14306}{14332}Je suis en route |pour l'aéroport,
+{14331}{14356}Je retrouve l'équipe dans...
+{14369}{14405}4 heures, au revoir.
+{14487}{14534}Allez c'est pas grave.
+{14545}{14568}Arrête de pleurer.
+{14594}{14615}Excuse moi.
+{14639}{14686}Je peux pas....
+{14704}{14806}Brenda, écoute,|c'est pas un problème que tu sois vierge.
+{14814}{14836}Je peux attendre.
+{14873}{14903}Je ne suis pas vierge.
+{15016}{15083}Il a fallut que je me fasse|avorter il y a 2 ans.
+{15162}{15227}C'est un ami de mes |parents qui l'a fait.
+{15229}{15311}Un homme avec qui |mon père joue au golf.
+{15355}{15421}Et quand j'ai été mieux |ils m'ont chassé de la maison
+{15458}{15490}Je me suis fait avortée,|et depuis
+{15499}{15534}je suis plus leur fille.
+{15554}{15575}Je suis désolé,
+{15581}{15632}Serre moi contre toi...
+{15758}{15774}Ecoute,
+{15803}{15843}si j'allais parler à tes parents,
+{15869}{15906}je peux peut-être |arranger les choses ?
+{15918}{15943}Je leur demande tout le temps,
+{15949}{15995}mais ils veulent pas que |je retourne à la maison.
+{16028}{16096}Et mon père, il est avocat.
+{16387}{16436}Et si tu étais |fiancée à un médecin ?
+{16471}{16500}Ca changerait|quelque chose ?
+{16519}{16534}Quoi ?
+{16633}{16685}Si on allait voir |tous les deux, tes parents ?
+{16737}{16769}Si je parlais à ton père ?
+{16859}{16903}Et que je lui demandais ta main.
+{17264}{17277}Y'a personne.
+{17286}{17303}Il s'est envolé.
+{17894}{17943}Dr. Conners, |êtes-vous Lutherien ?
+{17984}{18023}Oui je suis Luthérien.
+{18030}{18087}Mais je vous en prie, |appelez moi Franck.
+{18115}{18162}Franck, |voulez-vous dire les grâces ?
+{18306}{18342}Sauf si ça vous |gène bien sûr.
+{18376}{18397}Avec plaisir.
+{18660}{18683}2 petites souris,
+{18687}{18734}tombent dans un seau de crème.
+{18775}{18798}La première souris
+{18801}{18829}abandonne très vite|et se noie.
+{18830}{18851}Mais la deuxième,
+{18852}{18878}se débat tant et tant,
+{18884}{18939}qu'elle transforme |la crème en beurre.
+{18964}{18993}Elle sort du seau.
+{19026}{19052}Amen.
+{19080}{19123}- Amen.|- Amen.
+{19125}{19153}Oh, |c'était magnifique.
+{19179}{19222}La souris a transformé |la crème en beurre.
+{19308}{19315}Exactement.
+{19321}{19387}- C'était très bien.|- Merci.
+{19399}{19433}Franck avez-vous choisit |l'hopital dans lequel
+{19439}{19473}vous travaillerez à la |Nouvelle Orléans ?
+{19493}{19582}Et bien, pour ne rien vous |cacher je pensais,
+{19573}{19615}je pensais redevenir avocat.
+{19628}{19697}Vraiment ?|Vous êtes médecin ou avocat ?
+{19716}{19789}Avant de faire médecine j'ai passé |l'examen du barreau en Californie.
+{19794}{19853}Et je suis resté un an avocat,| et là je me suis dit :
+{19874}{19942}Pourquoi je ne deviendrais |pas pédiatre ?
+{19961}{20007}Toi alors, |t'es un drôle de cachotier.
+{20070}{20125}Mon dieu, |médecin et avocat.
+{20140}{20181}Brenda a déniché |l'oiseau rare.
+{20190}{20221}Où avez vous fait |votre droit ?
+{20245}{20263}Berkeley.
+{20305}{20366}Berkeley, mon dieu, |c'est pas là où t'es allé, papa ?
+{20376}{20423}Mais Franck pourrait peut-être |travailler avec toi ?
+{20429}{20504}Tu dis toujours que tu as du mal |à trouver de bons collaborateurs.
+{20499}{20523}T'es d'accord ?
+{20532}{20583}S'il te plais,|pourrais-tu l'engager, papa ?
+{20576}{20621}Est-ce que ce |chameau d'Hollinsworth
+{20627}{20683}enseignait toujours lorsque |vous étiez à Berkeley ?
+{20731}{20814}Hollinsworth ? Hollinsworth, |ce vieux grincheux c'est ça ?
+{20815}{20845}Plus méchant que jamais.
+{20870}{20897}Il avait toujours |un chien.
+{20984}{21063}Dîtes moi Franck, comment |il s'appelait son petit chien ?
+{21294}{21313}Oh excusez moi,
+{21375}{21404}son chien était mort.
+{21493}{21520}C'est bien malheureux.
+{22314}{22376}Médecin, avocat, Luthérien.
+{22449}{22475}Qu'est-ce que vous |êtes au juste ?
+{22517}{22590}Vous vous appretez à |demander ma fille en mariage ?
+{22593}{22622}J'ai le droit de savoir.
+{22651}{22676}De savoir quoi monsieur ?
+{22703}{22723}La vérité.
+{22792}{22834}Dîtes moi la vérité, |Franck.
+{22870}{22902}Qu'est-ce que vous |faîtes ici ?
+{22962}{23018}Qu'est-ce qu'un homme |comme vous fait avec Brenda ?
+{23071}{23138}Si vous voulez ma bénédiction,|si vous voulez ma fille,
+{23163}{23204}vous devez me |dire la vérité.
+{23281}{23316}La vérité monsieur, c'est...
+{23416}{23450}La vérité c'est que...
+{23509}{23578}Je suis pas médecin, |je suis pas avocat,
+{23651}{23686}je suis pas co-pilote.
+{23742}{23805}Je suis rien du tout.
+{23967}{24010}Je ne suis qu'un garçon |amoureux de votre fille.
+{24349}{24378}Vous savez ce que |vous êtes ?
+{24408}{24437}Un romantique.
+{24445}{24474}Des hommes comme vous |ne sont rien
+{24480}{24518}sans la femme qu'ils aiment.
+{24524}{24548}Je dois bien vous |l'avouer.
+{24554}{24604}Moi aussi j'étais prêt |à toutes les folies.
+{24610}{24634}J'ai demandé Carol en mariage
+{24640}{24687}au bout de 5 rendez-vous,|avec 3 sous en poche
+{24693}{24725}et des trous à mes chaussures.
+{24731}{24784}Parce que je savais|qu'elle m'était destinée.
+{24805}{24831}Alors allez-y Franck.
+{24935}{24955}N'ayez pas peur.
+{24986}{25044}Posez moi la question que|vous êtes venu me poser.
+{25117}{25145}Et bien monsieur.
+{25179}{25221}Qu'est-ce que je dois |faire pour passer
+{25227}{25270}l'examen du barreau |en Louisiane ?
+{25381}{25430}Non, l'autre question.
+{25553}{25578}Juste derrière cette porte !
+{25659}{25694}Bonne chance,|Mr Conners.
+{25711}{25730} Merci.
+{25933}{26003}Eh Franck, tu sais ce que |j'arrive pas à comprendre ?
+{26033}{26102}Comment t'as triché à |l'examen du bareau ?
+{26111}{26141}Qu'est-ce que ça peut |faire maintenant ?
+{26150}{26192}T'as envoyé quelqu'un |à ta place, c'est ça ?
+{26186}{26239}Carl, je vais passer un bon bout |de temps en prison.
+{26257}{26292}Alors sérieusement,|qu'est-ce que ça change ?
+{26329}{26361}C'était une simple question.
+{26399}{26427}Vous pensez manger |votre cake ?
+{26500}{26519}Oui.
+{26541}{26567}Je le garde pour |tout à l'heure.
+{26591}{26619}Vous voulez pas le |partager avec moi ?
+{26641}{26653}Non.
+{26754}{26793}Si vous m'en donnez la moitié,| je vous dirais.
+{27072}{27118}Je finirais bien |par le savoir.
+{27290}{27340}Vous travaillerez sous les |ordres de Philip Brisby,
+{27341}{27370}en droit des sociétés.
+{27388}{27413}Je vous laisse vous installer,
+{27421}{27449}ranger vos affaires.
+{27527}{27599}Nous avons un déjeuner à 12h30 |avec le procureur général,
+{27600}{27674}Et le gouverneur, |en personne.
+{27692}{27708}Le gouverneur.
+{27805}{27830}Toutes mes félicitations.
+{27840}{27878}- Merci, monsieur.|- Bienvenue à bord.
+{28329}{28406} Ceci est la signature de |l'accusé sur un chèque annulé.
+{28420}{28471}Et voici un agrandissement |de cette même signature.
+{28479}{28500}qui correspond...
+{28521}{28582}A la signature des lettres |qu'il a envoyé à Mme Simon.
+{28592}{28684}Dans lesquelles il évoque la possibilité |d'escroquer l'Etat de Louisiane.
+{28695}{28754}Votre honneur, |Mesdames et messieurs les jurés.
+{28765}{28820}Ceci est la preuve |irréfutable que l'accusé,
+{28821}{28869}a bien menti.
+{29011}{29034}Mr Connors.
+{29049}{29104}Ceci est une |audience préliminaire.
+{29129}{29193}Et il n'y a pas... |d'accusé.
+{29237}{29304}Et il n'y a pas... |de jury.
+{29348}{29375}Et il n'y a que moi.
+{29409}{29508}Mon garçon, qu'est-ce qui ne |tourne pas rond chez vous ?
+{29563}{29656}Roger, c'est Mitch, viens.
+{29643}{29688}Mince, je n'ai pas vu |le temps passer.
+{32118}{32128}Papa ?
+{32252}{32275}Qu'est-ce que tu fais là ?
+{32331}{32374}Je suis venu te voir.
+{32476}{32514}Qu'est-ce que tu fais |habillé comme ça ?
+{32522}{32567}J'ai un emploi, |je travaille pour l'Etat.
+{32573}{32601}Tu comprends ce que |je fais,
+{32611}{32641}Tu connais un bon avocat ?
+{32685}{32718}Je suis plus ou moins |avocat maintenant.
+{32724}{32785}Regarde ça, |le FISC en veut toujours plus.
+{32804}{32830}On avait passer un accord.
+{32836}{32884}2 pénalités, |ils ont mangé le gateau,
+{32890}{32927}et maintenant ils veulent |les miettes.
+{32953}{32974}Je vais les poursuivre.
+{33023}{33053}Maintenant ils veulent |les miettes.
+{33103}{33171}Assieds-toi.|Ils cherchent à me faire peur,
+{33165}{33187}à m'intimider.
+{33209}{33223}Tu sais quoi ?
+{33294}{33329}Ils vont devoir |me courir après.
+{33359}{33400}Jusqu'à la fin de |leurs jours.
+{33586}{33611}Je suis content de te voir,| tu sais ?
+{33668}{33691}Tiens assied-toi,
+{33714}{33739}j'ai quelque chose |à te donner.
+{33793}{33825}C'est pour ça que |je suis venu.
+{33848}{33908}C'est une invitation |pour des fiançailles.
+{33986}{34015}Je vais me marier papa.
+{34062}{34105}Je vais me marier, |tu te rends compte ?
+{34114}{34165}Tu n'a plus de soucis à |te faire maintenant papa.
+{34175}{34229}Ecoute je vais acheter |une cadillac.
+{34238}{34275}Une maison de 60 000$
+{34287}{34319}Je vais tout racheter.
+{34328}{34366}Tout, tout, tout.|Toutes les fourrures,
+{34372}{34407}tous les bijoux, |tout ce qu'ils nous ont pris
+{34403}{34423}je vais le racheter.
+{34519}{34563}Est-ce que maman t'as vu |dans cette tenue ?
+{34598}{34657}Oui elle est passée |récupérer des cartons.
+{34667}{34697}C'est pas grave, |c'est pas grave.
+{34698}{34714}Tu sais pourquoi ?
+{34725}{34762}Parce qu'elle va venir |avec toi au mariage.
+{34771}{34810}Je vais t'acheter |un beau costume papa.
+{34823}{34868}Je vais t'acheter un costume |de chez Manhattan Eagle,
+{34869}{34918}et 3 boutons en perles noires,|tu seras magnifique.
+{34931}{34984}Ils sont jolis, oui.|Elle veut pas me voir.
+{35060}{35096}Oh, tu as essayé |de l'appeler ?
+{35146}{35190}Pourquoi tu l'appelles |pas maintenant ?
+{35225}{35259}Tu vas l'appeler maintenant, |d'accord ?
+{35288}{35341}Tiens, tu l'appelles,|tu l'appelles de ma part.
+{35341}{35395}Tu lui dit que j'ai 2 billets |en 1ère classe pour elle,
+{35401}{35427}au mariage de son fils.
+{35433}{35488}- Ta mère s'est remariée|avec mon ami Jack Barnes.
+{35489}{35530}Ils ont une maison |à Long Island.
+{35543}{35574}Quoi ?
+{35587}{35644}Un agent du FBI |est venu me voir.
+{35678}{35742}Tu leur en fait baver fiston, |ce type avait la frousse.
+{35769}{35817}La fine fleur de la police |de ce pays,
+{35830}{35867}ne fait pas le poids |face à toi.
+{35873}{35925}Décroche la lune.
+{36197}{36258}Papa... c'est finit.
+{36309}{36333}J'arrête tout ça.
+{36350}{36380}Mais tu...
+{36416}{36454}Ils ne t'attraperont |jamais Franck.
+{36463}{36488}Elle a pas pu te faire ça ?
+{36521}{36545}Comment elle a pu te faire ça ?
+{36546}{36585}Allez Franck, prends |un verre avec moi.
+{36590}{36611}Je suis ton père.
+{36655}{36687}Alors dis moi d'arrêter.
+{36714}{36755}Alors dis moi d'arrêter.
+{36835}{36865}Tu ne peux pas.
+{36935}{36952}Où tu vas ?
+{36983}{37019}Réponds Franck, |où tu vas ?
+{37045}{37087}Où tu vas ?|Où tu vas ce soir?
+{37122}{37151}Dans un endroit exotique ?
+{37152}{37206}Où tu vas ce soir ?|A Tahiti ? A Hawaï ?
+{37626}{37651}Henratty, j'écoute.
+{37702}{37726}Oh Carl.
+{37750}{37778}Joyeux Noël.
+{37800}{37832}Comment ça va Dr. Conners ?
+{37861}{37927}Carl ça fait des mois que |je ne suis plus Dr. Conners.
+{38055}{38101}Je suis là dans mon bureau |le soir de Noël,
+{38134}{38153}Qu'est-ce que tu veux ?
+{38307}{38319}Très bien.
+{38447}{38477}Je veux que |ça finisse.
+{38601}{38652}Je veux que ça finisse,|je vais me marier.
+{38685}{38711}Je vais mener |une vie rangée.
+{38720}{38764}Tu as volé près de |4 millions de dollars.
+{38783}{38816}Tu crois qu'on va t'en |faire cadeau ?
+{38826}{38889}Pour ton mariage ?|Non, tu ne t'en sortiras pas comme ça Franck.
+{38890}{38945}- Je demande une trêve.|- Pas de trêve.
+{38958}{38992}Tu seras arrêter, |tu iras en prison,
+{38993}{39026}Comment tu croyais |que ça finirait ?
+{39056}{39089}S'il vous plaît, |laissez-moi tranquille.
+{39127}{39144}S'il vous plaît.
+{39170}{39195}L'étau se resserre, hein ?
+{39223}{39250}Tu as peur parce que |l'étau se resserre,
+{39251}{39335}Je sais que, |tu as loué une voiture à Shrivport
+{39336}{39380}Que tu es descendu |à l'hotel au lac Charles.
+{39412}{39449}Tu veux fuir ?|Vas-y Franck.
+{39458}{39503}Tes chèques mentent |moins bien que toi.
+{39524}{39562}Arrêtez de me poursuivre !
+{39640}{39667}Je peux pas arrêter.
+{39705}{39740}C'est mon boulot.
+{39765}{39806}C'est pas grave, Carl.
+{39864}{39903}Fallait bien que je |tente le coup.
+{39964}{40050}Au fait, |Joyeux Noël Carl.
+{40143}{40180}J'adore mon boulot.
+{40212}{40284}Très bien il faut éplucher |tous les journaux,
+{40290}{40334}tous les journaux parut en |Louisiane ces 2 dernier mois.
+{40340}{40360}Qu'est-ce qu'on cherche ?
+{40371}{40424}Une annonce de fiançailles |au nom de Conners.
+{40425}{40506}Conners ? Mais enfin Carl, |le gamin à du changer de nom.
+{40548}{40569}Il peut pas en changer.
+{40597}{40625}Elle croît qu'il |s'appelle Conners.
+{40638}{40675}S'il perd le nom,|il perd la fille.
+{41765}{41823}Bonsoir, je suis |l'agent Henratty du FBI.
+{41836}{41883}Nous aimerions parler |en privé à Mr Wong.
+{41894}{41924}Je vais le chercher.
+{42087}{42124}Bonsoir messieurs |je suis Regis Wong.
+{42130}{42170}Carl Henratty, FBI.
+{42171}{42220}Les agents Andersky et Hobbes.
+{42242}{42279}Désolé de vous |importuner monsieur,
+{42275}{42297}Mais pas du tout.
+{42303}{42319}Que puis-je faire pour vous ?
+{42325}{42399}J'aimerais voir le fiancé |de votre fille.
+{42410}{42445}Il y a un problème ?
+{42519}{42568}Franck ?|Tu peux ranger ça ?
+{42569}{42624}- Suis moi.|- C'est des chèques des amis de mon père.
+{42630}{42687}Pour nous aider à démarrer |notre nouvelle vie.
+{42718}{42745}Qu'est-ce qui |se passe ?
+{42751}{42774}Il faut qu'on s'en aille.
+{42780}{42801}Comment ?
+{42849}{42893}Brenda, tu m'aimes, |hein ?
+{42899}{42935}Tu m'aimes et tu m'aimerais |quoi qu'il arrive ?
+{42941}{42951}Oui.
+{42957}{43002}Tu m'aimerais si j'étais |malade ou pauvre ?
+{43008}{43052}Ou si j'avais un autre nom ?
+{43058}{43087}D'où tu sors tout |cet argent, Franck ?
+{43093}{43114}Brenda, écoute,
+{43120}{43169}Un nom c'est pas important ?
+{43175}{43228}Je m'appelle Franck Conners, |avec toi je suis Franck Conners.
+{43234}{43268}Mais on a tous nos |petits secrets.
+{43274}{43294}Tu sais parfois quand |je voyage,
+{43300}{43327}je me fais appeler |Franck Taylor.
+{43333}{43374}- C'est mon secret.|- Franck Taylor ?
+{43373}{43394}Oui Franck Taylor.
+{43400}{43449}Franck Black, |tu vois c'est...
+{43479}{43515}Pourquoi tu racontes |tout ça ?
+{43516}{43540}Brenda...
+{43558}{43587}j'en ai assez de te mentir.
+{43593}{43609}Tu comprends,
+{43615}{43633}je suis pas pédiatre,
+{43639}{43665}j'ai jamais fait |d'études de médecine.
+{43671}{43717}Je suis pas non plus avocat, |ou diplomé d'Harvard.
+{43723}{43748}Ou Luthérien.
+{43757}{43782}Brenda je me suis enfuit |de chez moi,
+{43788}{43838}il y a 1 an et demi, |quand j'avais 16 ans.
+{43976}{44012}Tu n'es pas Luthérien ?
+{44021}{44075}Brenda tu vois |tous ces billets ?
+{44080}{44122}Tu vois tous ces billets ?|J'en ai d'autre.
+{44135}{44158}J'en ai plein.
+{44191}{44230}J'ai tout l'argent |qu'il nous faut.
+{44236}{44259}Pour toute notre vie.
+{44264}{44287}Regarde.
+{44320}{44349}Arrete de me faire |marcher.
+{44355}{44385}Tu es Franck Conners...
+{44403}{44435}Tu as 28 ans et...
+{44459}{44483}Oh Brenda.
+{44495}{44532}Pourquoi tu m'as menti ?
+{44574}{44608}- Je veux savoir ton nom.|- Ecoute.
+{44614}{44647}Comment tu t'appelles ?
+{44641}{44678}On pourra s'installer |où on voudra.
+{44684}{44718}Il faut que tu me |fasses confiance.
+{44725}{44757}Tu me fais confiance ?
+{44744}{44786}- Oui.|- Tu m'aimes Brenda ?
+{44792}{44838}- Tu m'aimes ?|- Oui, je t'aime.
+{44848}{44869}Excuse moi chérie,
+{44903}{44934}je te présente Mr Henratty,
+{44940}{44966}ma femme Carol.
+{44966}{45008}- Monsieur?|- Henratty, madame
+{45018}{45059}Tu n'a pas vu Franck |ou Brenda ?
+{45071}{45105}Euh, je crois qu'ils |sont montés.
+{45341}{45367}Brenda, viens ici.
+{45372}{45401}Ecoute, |dans 2 jours,
+{45404}{45442}Tu viendras me retrouver |à l'aéroport
+{45448}{45478}International de Miami.|D'accord ?
+{45484}{45531}Tu attendras que tes parents |soient endormis et tu partiras.
+{45537}{45571}Tu iras prendre un taxi,
+{45577}{45606}et tu donneras cet argent |au chauffeur,
+{45612}{45651}et tu lui demanderas de |rouler toute la nuit.
+{45657}{45695}Il faut que |tu y sois à 10h.
+{45701}{45742}A 10h du matin.|D'accord?
+{46211}{46230}Quelle pièce monsieur ?
+{46241}{46262}A l'angle.
+{46275}{46299}Tu as bien compris Brenda?
+{46305}{46349}L'aéroport international de Miami.
+{46355}{46381}D'accord, dis le.
+{46387}{46409}Quoi qu'il arrive,
+{46415}{46455}- Tu prendras un taxi.|- Je prendrais un taxi.
+{46461}{46500}- Tu seras là-bas à 10h.|- Je serais là bas à 10h,
+{46506}{46522}quoi qu'il arrive.
+{46523}{46573}Dans 2 jours, |2 jours Brenda.
+{46579}{46631}- 2 jours.|- Dans 2 jours, quoi qu'il arrive,
+{46637}{46672}j'y serais à 10 h.
+{46822}{46897}Tu m'attendras, |promets de ne rien dire.
+{46911}{46944}Je t'en supplies, |avant que tu partes.
+{46950}{46969}Dis moi comment tu t'appelles,
+{46975}{47027}je t'en supplie,|dis le moi.
+{47056}{47150}Franck William Abagnale Junior.
+{50674}{50721}Le type ne s'est pas montré,|il a du s'enfuir
+{50727}{50766}S'il est pas là aujourd'hui, |il sera là demain.
+{50772}{50805}On le cueillera avant |qu'il quitte le pays.
+{50811}{50842}Il a pas de passeport.
+{50848}{50898}En l'espace de 6 mois |il a fait Harvard et Berkeley,
+{50904}{50942}je parie qu'il est capable |d'avoir un passeport.
+{50948}{51002}Tous nos hommes l'attendent ici,|à l'aéroport de Miami.
+{51008}{51036}Il est venu souvent, |il connaît bien ici.
+{51042}{51074}J'ai eu la police de Miami,|ils nous envoient
+{51080}{51128}50 flics en plus,|en 2 equipes de 25.
+{51134}{51186}Ca fait près de 100 hommes |dans l'aéroport,
+{51192}{51221}On devrait peut-être se déployer?
+{51227}{51270}Non, non, c'est ici|sa porte de sortie.
+{51276}{51316}Et qu'est-ce qui vous dit |qu'il a pas loué une voiture,
+{51322}{51381}pour aller à l'aéroport |de New York, d'Atlanta
+{51362}{51404}Parce que je ne suis pas |à New York.
+{51412}{51443}Je ne suis pas à Atlanta.
+{51448}{51497}Oui, je m'appelle |Franck Roberts.
+{51508}{51593}Je fais le tour des universités |pour la Pan Am,
+{51594}{51656}On a démarré un nouveau |programme de recrutement.
+{51676}{51744}Je me trouverais sur votre |campus demain matin.
+{51749}{51792}Merci à tous d'être venu.
+{51815}{51894}A la fin de la journée je |sélectionnerais 8 jeunes femmes,
+{51895}{51912}qui feront parti du...
+{51945}{52041}qui feront parti du programme |de formation de la Pan Am.
+{52047}{52102}Les 8 jeunes femmes |m'accompagneront pendant 2 mois,
+{52103}{52160}pour une tournée de relations |publiques en Europe.
+{52192}{52252}Et elles apprendront |tout ce que doit savoir,
+{52253}{52298}une hotesse de l'air |de la Pan Am.
+{52383}{52411}Mettez au moins 2 hommes...
+{52412}{52462}non 1 homme |ça suffira ici.
+{52532}{52564}- Andersky ?|- Oui ?
+{52595}{52639}Vérifiez que vos hommes |en tenue couvrent bien
+{52645}{52691}toutes les entrées |et sorties de ce côté.
+{52746}{52806}Je veux qu'on me vérifie |régulièrement les toilettes.
+{52857}{52925}Pourquoi je pense que |je ferais une bonne hôtesse ?
+{52932}{52971}Et bien,|je crois que je suis
+{52977}{53050}quelqu'un de chaleureux et |que je serais être prévoyante.
+{53056}{53121}Pour que les passagers |se sentent bien à bord...
+{53122}{53169}Notre vitesse sera de |10 000 km/h,
+{53175}{53218}et notre altitude de |vol de 300 pieds.
+{53224}{53283}"Je suis prête à partir"...
+{53304}{53347}"jusqu'au bout du monde"
+{55455}{55489}Tu as vu la |blonde devant ?
+{55495}{55520}J'aimerais être pilote.
+{55507}{55531}T'as raison.
+{55624}{55642}Carl Henratty.
+{55640}{55687}Ton talkie-Walkie marche pas ?
+{55683}{55727}Il y a un type dans un |coupé Deville blanc,
+{55733}{55796}habillé en pilote,|devant le terminal J.
+{55802}{55843}C'est le terminal des charters.
+{55849}{55873}Vous pouvez voir |son visage ?
+{55879}{55903}Il a sa casquette de pilote.
+{55907}{55939}Mais je crois que c'est lui.
+{56245}{56283}Sors de la voiture.
+{56298}{56360}Franck ? |Sors de la voiture.
+{56385}{56427}Gardez les mains en l'air !
+{56433}{56476}Ne tirez pas,|je suis qu'un chauffeur.
+{56482}{56522}Un homme m'a donné 100$ |pour prendre cet uniforme
+{56528}{56556}et attendre quelqu'un à l'aéroport.
+{56562}{56610}Qui tu dois prendre.
+{57208}{57262}Amérique du Sud, Australie, |Singapour.
+{57280}{57341}Egypte, le gamin est devenu |complétement hors de controle.
+{57353}{57377}Pourquoi ne m'as |t'on pas prévenu ?
+{57380}{57404}Personne ne l'a été |monsieur,
+{57410}{57453}les banques ne l'ont |compris qu'il y a 8 jours.
+{57459}{57472}C'est impossible.
+{57478}{57519}Elles n'ont pas réagi, |parce qu'ils ne sont pas falsifiés.
+{57518}{57546}C'est autre chose.
+{57545}{57564}Oh?|Que fait-il ?
+{57570}{57604}Il fabrique de vrais |chèques monsieur.
+{57602}{57646}Ils sont tellements parfaits |que la companie n'a rien vu.
+{57652}{57678}Le dernier a été encaissé |à Madrid,
+{57684}{57698}la semaine dernière.
+{57704}{57725}Je pense qu'il y ait |toujours,
+{57731}{57765}Il faut qu'on parte |aujourd'hui monsieur.
+{57768}{57801}Où ça ?|En Espagne ?
+{57810}{57829}Vous voulez aller |en Espagne ?
+{57830}{57882}On va devoir retourné où |les chèques ont été imprimés.
+{57888}{57935}Voilà pourquoi il est revenu en Europe.|Regardez la carte.
+{57939}{57971}Il fait une boucle, il va être |à court de chèques.
+{57977}{58017}Je sais que c'est un |peu risqué mais...
+{58023}{58078}mais si on retrouvait sa |trace depuis Madrid,
+{58081}{58110}On pourrait encore |l'attrapper.
+{58106}{58175}Vous n'avez pu l'attraper ici,|vous ne l'aurez pas la-bas.
+{58181}{58231}Mais monsieur... on va pas|le laisser s'échaper.
+{58257}{58302}Non, Carl vous l'avez |laissé s'échaper.
+{59328}{59383}Une marge absolument parfaite.
+{59381}{59428}Mêmes de tous les côtés.
+{59489}{59543}La finition des couleurs |est nickel.
+{59607}{59639}Ca ne saigne pas.
+{59650}{59705}Personne ne travaille |comme ça aux Etats-Unis.
+{59720}{59745}A part nous bien sûr.
+{59751}{59776}Il a été ìmprimé où ?
+{59797}{59839}Il a été imprimé sur |un monstre,
+{59846}{59898}- Un monstre|- Une Eidelberg...
+{59902}{59914}Une Eidelberg.
+{59920}{59959}Un dinosaure, 4 couleurs.
+{59965}{60050}Et son poids... 2 tonnes |sans compter l'encre.
+{60075}{60115}Et où est-ce qu'on |imprime comme ça ?
+{60135}{60165}En allemagne, en Angletterre...
+{60171}{60221}- En France.|- En France...
+{60254}{60300}France... |La mère de Franck a parlé
+{60306}{60362}d'un village où ils n'avaient |pas de Sara Lee.
+{60355}{60398}Le village où elle a connut |le père à Franck.
+{60424}{60455}Ca commence par un M ou...
+{60464}{60488}Mont quelque chose...
+{60484}{60527}Mont.... Mr Fauks ?
+{60528}{60549}Oui, oui...|Question.
+{60555}{60595}Vous vous êtes connus|pendant la guerre ?
+{60601}{60662}Oui. Je vivais dans un village français|où ils n'avaient pas de Sara Lee.
+{60668}{60723}Dites moi que vous avez |gardé le nom du village.
+{60784}{60814}Mont Richard.
+{62271}{62304}Joyeux Noël, Carl !
+{62310}{62377}Comment ça se fait qu'on se parle |toujours le soir de Noël ?
+{62383}{62435}Tous les ans à Noël, |je parle avec vous !
+{62441}{62470}Mets ta chemise Franck.
+{62476}{62504}Tu es en état d'arrestation.
+{62511}{62527}Vous avez faim ?
+{62533}{62562}Vous voulez des haricots,| Carl ?
+{62568}{62603}On trouve les meilleurs |de France.
+{62609}{62680}Y'a 2 douzaines d'officiers |de police dehors.
+{62694}{62764}Pour t'arrêter.|Il leur fallait l'aide d'un américain.
+{62792}{62837}Je leur ai dit que je les |conduirais jusqu'à toi,
+{62843}{62886}à condition que je te passe |moi même les menottes.
+{62880}{62921}Vous avez une arme ?|Hein, vous avez une arme ?
+{62938}{62978}- Pas d'armes ? Non ?|- Non.
+{63022}{63075}Et vous prétendez |qu'il y a ...
+{63081}{63126}qu'il y a 2 douzaines d'officiers |de police français,
+{63144}{63184}dehors, maintenant,|le soir de Noël.
+{63182}{63243}- C'est ce que vous me dîtes ?|- Oui.
+{63255}{63298}Y'a pas de fenêtres ici.
+{63322}{63360}Juste un coup d'oeil |à la porte.
+{63366}{63373}Non, non !
+{63379}{63443}J'ai dit que je sortirais avec toi.|Et que je ferais signe.
+{63449}{63504}Passe les toi toi-même|Non, je peux pas !
+{63524}{63560}Vous savez quoi ?
+{63574}{63600}je crois que c'est |du baratin.
+{63611}{63666}Je suis... je suis sûr |qu'il y a personne dehors.
+{63683}{63727}Je suis suir, |qu'il y a que vous et moi.
+{63735}{63764}Hein, ouais,| y'a que vous et moi.
+{63770}{63798}Vous savez quoi ?
+{63818}{63853}Il va falloir m'attraper|vous même
+{63859}{63891}On a pas le temps |de jouer à ça.
+{63911}{63948}Oh, c'est futé, |très futé.
+{63954}{63987}Dîtes moi ce que |je suis supposé voir.
+{64027}{64044}Je ne te mentirais pas.
+{64050}{64082}Mais vous avez |une alliance.
+{64088}{64115}Vous avez une alliance !
+{64121}{64147}Carl vous m'avez |menti là dessus.
+{64153}{64178}Vous m'avez mentit !
+{64184}{64217}Tu m'as demandé |si j'étais marié.
+{64224}{64275}Je l'ai été, |mais je ne le suis plus.
+{64510}{64546}Non, non y'a pas |de problème,
+{64552}{64583}nous allons sortir.
+{64638}{64666}Ah, excellent.
+{64673}{64735}Vous avez payé un concierge d'hotel|pour qu'il vous appelle ?
+{64741}{64756}C'est ça que vous avez fait ?
+{64762}{64828}C'est le commissaire Luc,|et j'ai une minute pour te faire sortir.
+{64834}{64877}Commissaire Luc...
+{64901}{64951}Je reconnais que ça |sonne bien, ca fait officiel,
+{64965}{64989}Comme je l'ai dit...
+{64986}{65021}il n'y a que vous et moi ici.
+{65027}{65071}Y'a que vous et moi, |alors il va falloir m'attraper.
+{65110}{65180}Il faut que tu me fasses |confiance là.
+{65154}{65201}Ces gens là ont été |humiliés, Franck.
+{65197}{65214}Ils sont furieux,
+{65231}{65270}tu voles leur argent, |tu fraudes leurs banques,
+{65266}{65287}tu vis dans leur pays.
+{65288}{65333}Je t'avais dit que ça |finirait comme ça.
+{65351}{65386}Qu'il n'y avait pas |d'autre issue.
+{65416}{65440}Ne fais pas cette bêtise.
+{65473}{65513}Oui c'est ça, |c'est ça, continuez.
+{65538}{65567}Continuez à mentir.
+{65573}{65623}Continuez jusqu'à ce que |ça soit vrai.
+{65629}{65658}Ils vont te tuer !
+{65692}{65738}Si tu franchis cette porte |ils te tueront.
+{65879}{65907}C'est la vérité ?
+{66186}{66215}Vous avez des enfants, |Carl ?
+{66259}{66294}J'ai une fille de 4 ans.
+{66333}{66363}Vous le jurez |sur sa tête ?
+{66440}{66461}Vous le jurez ?
+{66598}{66628}Vous le jurez ?
+{67401}{67441}C'était vraiment bien joué,| Carl.
+{67715}{67764}C'est bon, je l'ai.
+{67951}{67985}Je veux monter avec lui.
+{68004}{68055}Franck Abagnale,|C'est rendu de lui-même
+{68061}{68079}Vous avez compris ?
+{68085}{68109}Vous avez compris ?
+{68115}{68163}Où est-ce que vous l'emmenez ?|Je dois le savoir
+{68198}{68222}Où est-ce que vous l'emmenez ?
+{68234}{68278}Je veux monter,|je veux monter !
+{68432}{68507}Ne t'en fais pas Franck, |je vais te faire extrader.
+{69143}{69216}Vous n'oublierez pas de me laisser |appeler mon père à notre arrivée.
+{69233}{69277}Je veux lui parler avant |qu'il ne me voie,
+{69283}{69335}à la télévision ou |dans les journaux.
+{69596}{69673}Regardez, |c'est la Guardia à droite.
+{69688}{69722}La piste 44.
+{69724}{69766}Franck, |ton père est mort.
+{69801}{69820}Je suis désolé.
+{69856}{69911}Je ne voulais pas te le dire avant |qu'on soit presque arrivé.
+{69962}{70011}Il est tombé dans un escalier |à la gare,
+{70021}{70063}en essayant d'attraper |un train.
+{70086}{70126}Non, je voulais pas de |l'annoncer moi-même.
+{70155}{70201}Vous mentez bien, hein ?
+{70251}{70298}Vous avez dit que je |pourrais l'appeler.
+{70307}{70323}Comment vous avez pu ?
+{70329}{70370}Comment vous avez pu |me dire ça ?
+{70400}{70431}Vous avez dit que je pourrais |lui parler.
+{70437}{70470}Il est tombé et |il s'est brisé la nuque.
+{70476}{70505}Je suis désolé.
+{70534}{70573}Vraiment désolé.
+{70931}{70967}J'ai envie de vomir.
+{71050}{71110}D'accord, viens ! Viens !|je t'accompagne aux toilettes.
+{71872}{71904}Regagnez votre siège,| monsieur.
+{71910}{71950}Je vous l'ai déjà dit.|Nous allons attérir.
+{71956}{71982}Vous tous.
+{71974}{72010}Franck, |tu sors maintenant.
+{72035}{72104}Nous nous posons dans 6 minutes,|je vous prie regagner votre siège...
+{72110}{72149}Franck, |ouvre cette porte !
+{73146}{73180}Veuillez restez assis, svp.
+{73184}{73228}Restez assis !|FBI.. Restez assis !
+{73549}{73575}C'est pas possible.
+{74784}{74811}Comment tu t'appelles ?
+{74921}{74954}Elle où ta maman ?
+{75959}{75984}Mains derrière la tête.
+{76012}{76065}Carl, fais moi monter |dans la voiture.
+{76089}{76133}Fais monter dans |la voiture.
+{76600}{76660}En prenant en compte |la gravité de vos crimes,
+{76681}{76746}en raison de votre passé et |de votre comportement,
+{76770}{76831}et votre irrespect pour |les lois en vigueur,
+{76832}{76860}aux Etats-Unis.
+{76877}{76944}Je n'ai d'autre choix,|que d'ignorer votre demande
+{76945}{76978}d'être traité comme |un mineur.
+{76995}{77039}et vous envoyer |pour 12 ans,
+{77040}{77106}dans la prison de sécurité |maximum d'Atlanta,
+{77123}{77202}et je recommande que |vous soyez mis en isolation,
+{77203}{77264}pendant toute votre |peine.
+{78282}{78318}Joyeux Noël, Franck.
+{78397}{78432}Je t'ai apporté des BD.
+{78612}{78632}Comment va votre fille ?
+{78649}{78668}C'est quoi son nom ?
+{78675}{78699}Grace.
+{78752}{78788}Elle vit avec sa mère |à Chicago,
+{78789}{78820}je ne la vois pas |souvent.
+{78876}{78907}Qu'est-ce qu'il y a dans |votre attaché-case ?
+{78950}{78978}Je vais à l'aéroport.
+{79007}{79033}C'est un fraudeur...
+{79027}{79091}Il s'est fait la malle|au Minnesota
+{79106}{79175}Oh mon Dieu,|il nous rend dingues.
+{79172}{79218}Vous avez les chèques ?
+{79221}{79242}Oui je les ai.
+{79335}{79384}Tu vois, il n'utilise que |une Underwood.
+{79416}{79459}Ah, c'est un caissier |de la banque.
+{79472}{79490}Redis moi ça ?
+{79489}{79531}C'est forcément un |des caissiers.
+{79549}{79568}Dans les banques,
+{79574}{79617}Ils utilisent toujours|un tampon pour mettre la date.
+{79623}{79660}A force d'être utilisé |toute la journée,
+{79666}{79694}Ils finissent par s'user.
+{79700}{79736}Les chiffres se fourmillent |toujours,
+{79737}{79778}les 6 et les 9...
+{79788}{79830}...ils s'usent les premiers.
+{79892}{79911}Merci.
+{80070}{80101}J'aimerais que tu examines |quelque chose.
+{80234}{80258}Donne moi ton avis.
+{80369}{80396}C'est un faux.
+{80409}{80439}Comment tu le sais, |tu l'as pas regardé ?
+{80438}{80489}Y'a pas de perfos,|sur aucun côté.
+{80515}{80564}Ce chèque a été fait |à la main hier soir,
+{80626}{80657}Le papier est renforcé,
+{80658}{80705}beaucoup trop lourd |pour un chèque.
+{80750}{80774}L'encre magnétique
+{80780}{80806}fait un relief,|sous les doigts,
+{80812}{80852}et là, c'est lisse.
+{80886}{80909}Et ça n'en a pas non |plus l'odeur.
+{80915}{80939}Ca doit être euh,
+{80941}{80985}Ca doit être une encre |qu'on utilise pour le dessin.
+{80991}{81043}Le genre qu'on trouve |dans les papetteries.
+{81232}{81267}Est-ce que ça t'intéreserait |de travailler
+{81257}{81312}dans notre service|de répression des fraudes ?
+{81354}{81384}J'ai déjà un boulot |vous savez,
+{81390}{81433}je distribue le courrier.
+{81488}{81557}Réfléchis, on a le pouvoir |de te faire sortir de prison.
+{81603}{81638}Tu serais placé sous |le contrôle du FBI.
+{81644}{81690}Et tu purgerais le reste |de ta peine comme
+{81689}{81726}employé de |l'administration fédérale.
+{81807}{81838}Sous le controle de qui ?
+{82090}{82122}Je m'appelle |Franck Abagnale,
+{82128}{82162}je suis censé travailler |ici aujourd'hui.
+{82175}{82234}C'est une agence de voyage |qui se trouve aux îles vierges.
+{82272}{82298}Monsieur Abagnale |vient d'arriver.
+{82299}{82323}Je vais vous rappeller.
+{83097}{83126}Bienvenue au FBI.
+{83144}{83172}Je vais te montrer|ton bureau.
+{83421}{83459}Combien de temps |je vais travailler ici ?
+{83483}{83535}De 8h15 à 17h00.
+{83550}{83577}45 min pour déjeûner.
+{83637}{83664}Non, mais jusqu'à quand ?
+{83719}{83785}Tous les jours, |tous les jours Franck.
+{83781}{83824}Jusqu'à ce qu'on |te relache.
+{85212}{85228}Qu'est-ce que vous faîtes ?
+{85234}{85270}C'est pas le moment Franck,
+{85269}{85308}je range mon bureau |avant le week-end.
+{85400}{85442}Ca vous embêtes si je viens |travailler avec vous demain ?
+{85467}{85498}Demain, |c'est samedi,
+{85515}{85548}je prends l'avion |pour Chicago,
+{85549}{85568}je vais voir ma fille.
+{85569}{85597}Je serais au |bureau lundi.
+{85598}{85623}Vous allez voir Grace, |hein ?
+{85639}{85667}C'est ce qui est prévu.
+{85765}{85806}Bon, qu'est-ce que je vais |faire jusqu'à lundi ?
+{85820}{85862}Désolé Franck,|je ne peux rien pour toi.
+{86046}{86073}Henratty à l'appareil.
+{86112}{86140}Oui passez le moi.
+{86339}{86365}Monsieur Soraya
+{86400}{86424}Comment allez vous ?
+{86430}{86465}J'ai encore une demi-douzaine |de chèques,
+{86471}{86527}de l'agence de voyages |des îles vierges.
+{87499}{87524}Comment tu as fait, |Franck ?
+{87586}{87628}Pour être reçu à |l'examen du barreau.
+{87653}{87681}Qu'est-ce que |vous faîtes là ?
+{87717}{87741}Ecoutez...
+{87771}{87801}Je suis désolé de vous |avoir donné tout ce mal.
+{87807}{87865}Si tu fuis en Europe, tu mourras |dans la prison de Perpignan.
+{87875}{87901}Si tu fuis ici, |aux Etats-Unis,
+{87907}{87955}on te renverra à Atlanta |pour 50 ans.
+{87989}{88005}Je sais.
+{88067}{88113}Ca m'a pris 4 ans |pour te faire libérer.
+{88129}{88170}J'ai du convaincre |mon patron au FBI,
+{88171}{88223}et le ministre de la justice |que tu ne fuirais pas.
+{88252}{88275}Pourquoi vous l'avez fait ?
+{88309}{88342}T'es encore un gamin.
+{88343}{88373}Oui mais pas le vôtre.
+{88392}{88430}Je croyais que vous |alliez à Chicago.
+{88451}{88489}Je peux pas voir ma fille |ce week-end.
+{88490}{88519}Elle va faire du ski.
+{88557}{88597}Vous aviez dit qu'elle |avait 4 ans.
+{88611}{88646}Elle avait 4 ans quand |je suis parti.
+{88647}{88678}Elle en a 15 aujourd'hui.
+{88695}{88743}Mon ex-femme est remarié |depuis 11 ans.
+{88766}{88804}Je l'appelle |de temps à autre.
+{88835}{88863}Je ne comprends pas.
+{88872}{88901}Mais si, |tu comprends.
+{88916}{88959}Parce que c'est plus facile |de vivre dans le mensonge.
+{89064}{89098}Je vais te laisser |t'envoler ce soir.
+{89139}{89169}Je ne ferai rien pour |t'en empêcher.
+{89177}{89215}Parce que je sais que |tu seras de retour lundi.
+{89279}{89311}Qu'est-ce qui vous dit |que je reviendrais ?
+{89431}{89514}Franck, |personne ne te courre après.
+{90019}{90068}Alice, |il a toujours pas appelé ?
+{90078}{90116}Non,| toujours pas non.
+{90401}{90481}Bonjour, |je vous ai réunis pour parler,
+{90482}{90511}d'un nouveau type |de falsification.
+{90517}{90584}L'individu en question, |blanchie et maquille des chèques,
+{90590}{90639}avant de les fourguer |dans tout l'Arizona.
+{90740}{90783}On a faire à une |grosse pointure.
+{90789}{90844}Il passe des chèques avec |des montants à 5 chiffres.
+{90915}{90943}Désolé d'être en retard.
+{91112}{91155}L'agent Reiter, |a un chèque maquillé
+{91161}{91188}sur son bureau.
+{91198}{91235}Alors je vous propose,|d'aller le voir.
+{91362}{91407}Il y a des impression |en creux sur chaque ligne.
+{91464}{91533}On dirait que la somme |d'origine était de 60$.
+{91628}{91655}Vous permettez ?
+{91743}{91790}Encaissé à Flagstaff, |il y a 8 jours.
+{91865}{91914}Ca a coûté 16 000$ |à la banque.
+{91954}{91982}C'est un vrai chèque.
+{92021}{92044}Entièrement blanchit.
+{92050}{92095}Seule la signature|est d'origine.
+{92106}{92140}Il est parfait.
+{92157}{92220}Il s'est pas servi d'acide chlorydrique,|ou d'un décolorant ?
+{92228}{92286}Non, il a innové.
+{92298}{92336}C'est peut-être du dissolvant |pour vernis à ongles ?
+{92342}{92398}Vu que l'acétone enlève |l'encre de stylo.
+{92496}{92525}Comment tu as fais,| Franck ?
+{92570}{92630}Comment tu as triché à l'examen |du barrau de Louisiane ?
+{92764}{92795}Je n'ai pas triché.
+{92850}{92903}J'ai étudié pendant 2 semaines, |et j'ai été reçu.
+{92962}{92991}C'est la vérité Franck ?
+{93033}{93053}C'est la vérité ?
+{93049}{93111}Ce type maquille des chèques |qui viennent des boites aux lettres.
+{93132}{93193}Il efface les noms et ils les |remplacent par le sien.
+{93245}{93273}Ce serait quelqu'un |du coin ?
+{93301}{93365}Si c'était moi, |j'appelerai d'abord la banque,
+{93358}{93393}je demanderais |le solde du compte.
+{93399}{93442}Tu t'assurerais qu'il y| assez d'argent.
+{93448}{93470}Exactement.
+{93476}{93520}Tu sais quoi ?|Cette homme est plutot intelligent.
+{93562}{93607}La seule chose à faire|est de le capturer
+{93666}{93699}Dès demain matin !
+{93721}{93792}Frank Abagnale Junior, a été marié|pendant 26 ans.
+{93807}{93878}Il eu 3 fils et vit paisiblement|dans le middle-Ouest
+{93860}{93915}Depuis sa libération de prison|en 1974,
+{93921}{93982}Franck à aidé le FBI a captuer,|les faussaires les plus évasifs.
+{93977}{94047}Il fût considéré comme|le meilleur expert au monde
+{94053}{94124}en matière de fraude et|contre-façons banquaires
+{94167}{94243}Frank a aussi créé|plusieurs chèques sécurisés
+{94249}{94326}que banques et groupes financiers|utilisent tous les jours.
+{94380}{94451}Pour ses services,|ces companies lui paient,
+{94457}{94521}des millions de dollars|par an
+{94527}{94608}Frank et Carl sont jusqu'à présent|restés proches.
+{94657}{94704}Sous-Titres : Lôlô [Le Paradis Perdu] © 2003

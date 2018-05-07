@@ -1,0 +1,493 @@
+{1132}{1190}Viens, on va leur faire voir
+{1670}{1702}On vous a eus
+{1725}{1757}Où sont mes lunettes ?
+{1842}{1865}Nettoie-moi
+{1892}{1915}Y a pas d'eau
+{1920}{1970}Sers-toi de ta langue idiot
+{2352}{2395}Abel, qu'est-ce que tu fais ?
+{2792}{2850}Abel ! Ad colaphum !
+{2897}{2945}C'était du latin.
+{2972}{3040}Je ne connais toujours pas|le sens de cette expression.
+{3045}{3165}J'ai vécu à Saint-Christophe|comme un zombie, un somnambule
+{3170}{3210}rêvant toujours d'un éveil,
+{3215}{3262}attendant l'événement imprévisible
+{3267}{3317}qui me libérerait pour devenir
+{3322}{3355}enfin moi-même.
+{3478}{3556}Il fallait monter deux étages
+{3563}{3626}jusqu'à l'antichambre|du bureau
+{3631}{3743}du principal|du collège Saint-Christophe.
+{3938}{4016}Au fait, je m'appelle Abel.
+{4548}{4593}Nestor était mon seul ami.
+{4608}{4668}Il me protégeait|quand il le pouvait.
+{4673}{4721}C'était le fils du concierge
+{4726}{4761}ce qui lui valait
+{4768}{4843}des privilèges exorbitants|comme d'avoir un vélo.
+{4991}{5081}Nestor possédait les clés|de toutes les portes
+{5091}{5171}et la nuit il me faisait découvrir|tout un autre monde.
+{5794}{5857}Commence|quand ils arrivent au Canada.
+{5899}{5937}"Ils passèrent lentement
+{5942}{6007}"les grands lacs|du Renne, de l'Esclave et de l'Ours.
+{6017}{6047}"Le grand caribou
+{6052}{6122}"entra dans la clairière|comme l'Indien l'avait prédit
+{6127}{6199}"Le vent ne lui portait pas|l'odeur des deux hommes.
+{6204}{6294}"Lentement le Hollandais|leva sa Winchester, tandis..."
+{6309}{6354}Il ne va pas tuer le caribou ?
+{6359}{6407}Il le faut. Pour manger.
+{6474}{6499}Continue.
+{6522}{6592}"... le Hollandais|leva sa Winchester tandis que...
+{6597}{6639}"l'Indien cessait de respirer"
+{6739}{6812}Au Canada on prendra|des renards, des phoques
+{6817}{6879}et même des ours|avec des pièges énormes.
+{6889}{6967}En trois ans|on peut faire fortune là-bas.
+{6979}{7037}A condition|d'être bien organisé.
+{7307}{7337}Tu m'aides ?
+{7379}{7422}Bien sûr. Penche-toi.
+{8168}{8203}Faut le remplir.
+{8900}{8958}Fasse que le collège brûle.
+{8963}{9060}Fasse qu'il prenne feu|et qu'il soit rasé par l'incendie.
+{9415}{9453}Bon. Essayons
+{11389}{11471}J'ai compris ce jour-là|que le destin existait.
+{11476}{11564}Qu'il était cruel|et qu'il était de mon côté.
+{11576}{11649}Je serais protégé, sauvé et guidé.
+{11654}{11754}Tandis que d'autres seraient|brutalement jetés dans le vide.
+{11856}{11954}Aujourd'hui je mène une vie simple,|discrète, d'homme ordinaire.
+{11959}{12036}Une petite affaire,|un appartement, une maîtresse.
+{12041}{12099}Je ne confie mes secrets à personne.
+{12114}{12159}D'ailleurs|je ne parle guère aux gens.
+{12164}{12201}Je faisais des essais.
+{12466}{12506}Vous êtes aveugle ?
+{12930}{12995}- Tu es blessée ?|- Je crois pas.
+{13025}{13050}Tu es tombée ?
+{13075}{13100}Où vous l'emmenez ?
+{13137}{13162}Je suis tombée.
+{13187}{13240}Vous l'avez toute salie.
+{13245}{13295}Regardez sa robe.
+{13392}{13452}J'avais voulu rendre service
+{13457}{13542}mais je fais toujours peur aux gens.
+{13640}{13680}Très bien, allons-y.
+{14062}{14100}La photo sera ratée.
+{14155}{14225}- Ta mère ne vient pas ?|- Pas aujourd'hui.
+{14230}{14285}Regardez par ici...|tenez-vous droit.
+{14292}{14315}Et moi ?
+{14322}{14347}Tu prends ma photo ?
+{14352}{14390}Oui, une seconde.
+{14607}{14655}Assieds-toi sur le pare-choc.
+{14692}{14762}Adosse-toi, un peu plus à droite.
+{14775}{14837}Croise les jambes comme une dame.
+{14967}{15007}Ferme les yeux.
+{15103}{15146}Je te raccompagne ?
+{15163}{15186}Elle est à toi ?
+{15193}{15216}J'en ai plein
+{15343}{15396}Indique-moi la direction.
+{15483}{15536}Comment tu t'appelles ?
+{15543}{15578}Drôle de nom.
+{15586}{15691}Ça vient de la Bible.|Abel était berger, nomade.
+{15698}{15733}T'as des enfants ?
+{15741}{15788}- Pas de famille|- Pas de parents ?
+{15793}{15826}Je suis un enfant trouvé.
+{15863}{15936}A ma naissance|j'étais déjà grand.
+{16051}{16111}A ton âge j'avais un ami
+{16118}{16196}mais... il est mort|dans un incendie.
+{16236}{16356}Au collège. On allait me punir|et je ne voulais pas.
+{16366}{16436}J'ai fait un vœu|et il s'est réalisé.
+{16446}{16483}Tu as tué ton ami ?
+{16488}{16546}Non, lui seul m'aimait.
+{16566}{16601}Tu dois être triste.
+{16613}{16681}Peut-être... parfois triste,|parfois heureux.
+{16688}{16716}Je ne sais pas pourquoi.
+{16723}{16781}Est-ce que c'est parce qu'une moitié de moi|est en pierre ?
+{16786}{16808}C'est vrai ?
+{16826}{16853}Tu blagues.
+{16868}{16913}Non. C'est pour ça que je suis
+{16918}{16978}très gentil, mais aussi très froid.
+{16993}{17051}Personne ne le sait.|C'est un secret.
+{17061}{17111}Un jour les gens sauront.
+{17717}{17762}On est le 30.
+{17864}{17887}Ah bon ?
+{18044}{18092}Rachel n'est pas ma femme
+{18104}{18177}mais l'élément féminin de ma vie.
+{18182}{18264}Une fois par mois|elle vient dans mon univers
+{18269}{18304}pour tenir mes livres.
+{18639}{18679}Où es-tu ?
+{18884}{18932}Je ne t'aurais pas reconnu.
+{18977}{19029}Tu étais si maigre.
+{19069}{19124}Tu t'es rattrapé.
+{19179}{19219}Tu étais bon élève ?
+{19259}{19302}Je parie que non.
+{19329}{19394}Moi j'étais toujours première.
+{19412}{19444}Tu prends ma photo ?
+{19938}{20000}Rachel a été la première à me dire|que j'étais un ogre.
+{20020}{20100}"Tu n'es pas un amant,|tu es un ogre".
+{20238}{20260}Retiens-toi.
+{20553}{20600}C'est insupportable.
+{20643}{20683}Tu es un monstre.
+{20715}{20763}On ne me traite pas comme ça.
+{20818}{20865}Je suis plus délicate que ça.
+{21008}{21033}Pardon.
+{21135}{21168}Attention !
+{21265}{21320}Tu me raccompagnes|encore chez moi ?
+{21325}{21370}Je suis ton chauffeur ?
+{21980}{22013}Ça devrait te plaire.
+{22116}{22139}C'est quoi ?
+{22154}{22184}Regarde-le.
+{22409}{22471}Commence|quand ils arrivent au Canada.
+{22556}{22599}"Si l'on met
+{22604}{22674}"une pirogue sur le lac Aba..."
+{22714}{22749}Athabaska
+{22861}{22974}"et qu'on navigue vers le nord|jusqu'au grand lac de l'Esclave
+{22979}{23044}"puis qu'on descend|le Mac... Mackenzie..."
+{23094}{23149}Pardon, ça ne me plaît pas.
+{23291}{23346}Tu me prêtes ton appareil ?
+{23381}{23401}Pourquoi ?
+{23406}{23429}Parce que.
+{23439}{23474}Parce que quoi ?
+{23481}{23514}Tu vas le casser.
+{23519}{23551}Je le casserai pas.
+{23566}{23621}Attention,|on va avoir un accident.
+{23626}{23646}Arrête !
+{23651}{23709}Je ne veux pas|que tu t'en serves.
+{23714}{23764}- Me touche pas !|- J'aime pas être pris en photo.
+{23769}{23849}Je veux descendre !|Garde ton sale appareil.
+{23856}{23924}Je suis ton chauffeur.|J'ai promis de te raccompagner.
+{23949}{24009}Allez, sois pas bête.
+{24094}{24154}Lis encore,|tu lis très bien.
+{24266}{24321}C'est mon livre préféré.
+{24356}{24379}S'il te plaît.
+{24757}{24800}Oublie pas mon livre.
+{25210}{25290}"Ils passèrent lentement|les grands lacs du Renne
+{25295}{25340}"de l'Esclave et de l'Ours.
+{25345}{25367}"Le grand caribou
+{25372}{25442}"entra dans la clairière|comme l'Indien l'avait prédit.
+{25447}{25515}"Il rejeta soudain|sa grosse tête en arrière
+{25520}{25560}"pour une clameur caverneuse.
+{25565}{25615}"Ce fut d'abord|un roulement de tonnerre
+{25620}{25682}"qui s'acheva en un gémissement|plaintif qui dut porter
+{25687}{25767}"à plusieurs milles|sur la plaine rase.
+{25790}{25835}"C'était l'appel|du maître à sa meute,
+{25842}{25882}"de l'homme-bête à ses frères..."
+{25950}{25980}Au secours !
+{26292}{26327}Qu'est-ce qui s'est passé ?
+{26362}{26405}Il m'a fait mal.
+{26597}{26632}Vous avez vu quelqu'un ?
+{26642}{26695}C'est lui. Il m'a fait mal.
+{27171}{27218}Je vais faire un vœu contre vous !
+{27488}{27521}Tu es photographe ?
+{27738}{27798}Pourquoi tu photographies|les enfants ?
+{27853}{27881}J'aime les enfants.
+{27901}{27928}Tu les aimes ?
+{27933}{27986}- J'aime les protéger.|- De quoi ?
+{28093}{28116}Des adultes.
+{28163}{28213}Tu es un adulte toi-même, non ?
+{28356}{28396}On sait ce que tu lui as fait.
+{28401}{28423}C'est pas moi.
+{28428}{28493}- On t'a pris !|- Un homme s'est enfui.
+{28526}{28591}N'aie pas peur, tu ne risques rien.
+{28598}{28663}Dis-nous, tu reconnais cet homme ?
+{28668}{28698}C'est lui.
+{28703}{28726}Il m'a fait mal.
+{28778}{28861}- Dis-nous ce que tu lui as fait|- Rien.
+{28898}{28978}Les salauds comme toi,|je les empalerais.
+{28986}{29016}Regarde-toi !
+{29132}{29194}Tu ne vois pas la tête d'un assassin ?
+{29222}{29252}C'est vrai.
+{29267}{29334}J'imagine|que j'ai la tête d'un assassin.
+{29339}{29389}Si on en cherche un.
+{29694}{29782}Je me dis|que je n'ai pas à m'en faire.
+{29794}{29862}Que ma prison va brûler
+{29872}{29942}comme il y a vingt ans.
+{29969}{30072}Que des événements gigantesques|vont se produire
+{30079}{30147}uniquement pour me faire avancer
+{30152}{30252}sur le chemin|que le destin m'a tracé.
+{30347}{30412}Comprenez-vous ce que je dis ?
+{30439}{30497}Les barbares sont à nos portes.
+{30522}{30627}Est-ce qu'il faut nous entre-juger|ou nous unir face à l'ennemi ?
+{30637}{30702}Votre dossier est très lourd.
+{30709}{30812}Votre avocat plaiderait|la débilité mentale.
+{30832}{30859}Ou la folie passagère.
+{30874}{30954}En temps normal|je vous traduirais en cour d'assises.
+{30964}{31009}Mais la guerre menace.
+{31022}{31087}Cette guerre|vous épargnera la prison.
+{31134}{31222}Soyez demain matin à 8 heures|à la caserne de Courbevoie.
+{31229}{31277}Vous rachèterez vos fautes
+{31282}{31347}par votre bravoure|au champ d'honneur.
+{31415}{31495}Je rends donc|au nom du peuple français
+{31503}{31550}une ordonnance de non-lieu.
+{31610}{31668}L'issue de la guerre va dépendre
+{31675}{31735}de la qualité des transmissions.
+{31740}{31843}C'est bien joli le télégraphe|mais les fils sont faciles à couper
+{31850}{31883}pour des saboteurs.
+{31895}{31950}Alors que nos petits oiseaux,
+{31955}{32023}nos braves soldats ailés|sont hors d'atteinte.
+{32030}{32103}Il est midi.|Je commence à avoir faim.
+{32108}{32158}Certainement mon capitaine
+{32165}{32213}Perfection de l'ordre militaire.
+{32218}{32313}Un bon pigeon voyageur|parcourt 500 miles par jour
+{32415}{32458}Rien ne l'arrête.
+{32465}{32533}Ni le vent ni l'orage.
+{32543}{32588}Et les bancs de brouillard ?
+{32625}{32663}Je vous l'accorde.
+{32668}{32728}Un brouillard épais peut être gênant.
+{32970}{33065}Les pigeons voyageurs|vous informeront avant quiconque
+{33173}{33245}et dans le plus grand secret.
+{33373}{33453}Tous les mouvements de l'ennemi|vous seront...
+{33460}{33493}Qu'est-ce que c'est ?
+{33726}{33759}Mains en l'air !
+{33869}{33914}La France était piétinée.
+{33929}{33974}Paris humilié.
+{34046}{34069}Je n'en étais pas troublé.
+{34089}{34189}Mon pays ne m'avait guère donné|l'occasion d'agir en héros.
+{34219}{34309}Je fus donc heureux d'être emmené|loin de la grande nation.
+{34564}{34599}Tu les as sauvés ?
+{34641}{34704}Mais c'est formidable.
+{34869}{34894}Regardez.
+{34951}{35006}Songez-vous à l'usage|que nous en ferons ?
+{35011}{35089}Où que nous soyons ils emporteront|nos messages en France.
+{35096}{35124}Quels messages ?
+{35131}{35219}Sur l'endroit où nous nous trouverons,|la Pologne, la Prusse-Orientale
+{35249}{35314}Tandis que les autres|complotaient une évasion
+{35336}{35399}je contemplais la vaste plaine.
+{35411}{35491}Le paysage semblait attendre
+{35496}{35554}de m'engloutir en silence.
+{35594}{35666}Tous les hommes du pays|sont mobilisés, non ?
+{35674}{35754}A nous d'en tirer|les conclusions pratiques.
+{35759}{35791}Tu veux dire...
+{35796}{35886}Que les femmes dirigent|les fermes et les usines.
+{35891}{35991}Et les Allemandes|sont comme les autres femmes.
+{36001}{36049}Il leur faut des hommes.
+{36057}{36145}Nous autrement dit.|J'ai pas raison ?
+{36212}{36277}Ça va, ça va.
+{36287}{36332}Qu'est-ce qu'ils ont ?
+{36337}{36380}Aucune idée.
+{36385}{36440}Je crois qu'on construit|une piste d'atterrissage.
+{36445}{36525}Sans blague ?|Si près de la Russie ?
+{38593}{38661}Des années se sont écoulées|depuis que Nestor
+{38666}{38746}me parlait du blizzard|hurlant dans les sapins noirs.
+{38753}{38826}Des abîmes sur lesquels on court|en traversant un lac gelé
+{38831}{38923}du zip, zip, zip monotone|des raquettes de neige,
+{38978}{39028}de la cabane en rondins
+{39038}{39136}où le trappeur se réfugie le soir|et allume un grand feu.
+{39208}{39288}Nestor m'avait dit:|un jour Abel, tu verras
+{39293}{39321}un jour.
+{41264}{41299}"Ils passèrent lentement
+{41304}{41379}"les grands lacs|du Renne, de l'Esclave et de l'Ours.
+{41399}{41422}"Le grand caribou
+{41427}{41504}"entra dans la clairière|comme l'Indien l'avait prédit
+{41534}{41609}"Le vent ne lui portait pas|l'odeur des deux hommes.
+{41619}{41654}"Très lentement
+{41659}{41704}"le Hollandais|leva sa Winchester
+{41709}{41762}"tandis que l'Indien|cessait de respirer."
+{42409}{42452}Tu es le grand caribou ?
+{42499}{42517}Tu as faim ?
+{42529}{42562}Tu veux manger ?
+{42699}{42724}Une carotte ?
+{42857}{42882}C'est bien.
+{43180}{43198}Ne pars pas.
+{43215}{43235}Ne pars pas.
+{43260}{43288}Reste.
+{44160}{44185}Au revoir.
+{45315}{45355}Tu as froid ?
+{45454}{45486}Tu as la fièvre ?
+{45491}{45524}Tu leur parles allemand ?
+{45529}{45561}Tu les vois vainqueurs ?
+{45581}{45616}Bien sûr.
+{45674}{45759}Il se plaît ici,|il pense à s'y installer.
+{45771}{45831}Il fallait développer|les transmissions par pigeons.
+{45836}{45926}Bâtir un grand colombier|relié au Grand Quartier général.
+{45931}{45976}On aurait été|renseignés sur tout.
+{45981}{46059}On aurait facilement|stoppé l'avance allemande.
+{46086}{46141}- C'est absurde|- Pas du tout.
+{46221}{46266}Tu as froid ?
+{46276}{46309}Au revoir.
+{46476}{46564}Dans ce monde|je suis prisonnier de guerre
+{46574}{46614}mais dans le mien
+{46624}{46661}je suis trappeur.
+{46784}{46856}Dès que je peux,|je me glisse jusqu'à ma cabane
+{46861}{46904}pour nourrir l'élan.
+{47531}{47549}Qu'est-ce que vous faites là ?
+{47705}{47715}Français ?
+{47787}{47815}Evadé ?
+{47842}{47915}Non, je suis prisonnier au camp.
+{47947}{48032}Je viens ici des fois|mais je retourne toujours au camp.
+{48125}{48155}C'est interdit.
+{48180}{48262}Toute la forêt est interdite|pour raisons militaires.
+{48310}{48342}On ne vous l'a pas dit ?
+{48560}{48615}Il vient de temps en temps.
+{48637}{48670}Comment vas-tu ? Viens.
+{48705}{48780}Je l'ai vu souvent,|je crois qu'il est...
+{48785}{48835}- Aveugle, oui.|- Vous le connaissez ?
+{48840}{48907}Tout le monde le connaît.|On l'appelle l'ogre.
+{48932}{49005}- L'ogre ?|- Pour eux c'est "le monstre".
+{49012}{49070}Le diable.|Prudence, il est dangereux.
+{49095}{49180}En hiver il vient mendier,|mais il effraie les gens.
+{49190}{49230}Un jour, on l'abattra.
+{49257}{49370}Hein, que tu n'es pas un monstre ?|Tu es grand, fort et doux.
+{49375}{49402}Et beau aussi.
+{49432}{49475}On ne t'abattra pas.
+{49617}{49640}Allez-vous-en.
+{49657}{49732}Retournez au camp|et ne revenez pas.
+{49767}{49787}Vite !
+{50856}{50881}Les ordres.
+{50903}{50926}Comme ça
+{50953}{50996}ils servent à quelque chose.
+{51003}{51063}Avant tout il faut garder le moral.
+{51073}{51121}La guerre n'est pas encore finie.
+{51208}{51281}Berthold n'en a pas voulu,|on te l'a gardé.
+{51318}{51383}Je les ai faits au miel|et au vinaigre... assieds-toi.
+{51408}{51441}Tu vas aimer.
+{51471}{51528}Voilà... viens t'asseoir.
+{51601}{51636}Fais pas ça !
+{52061}{52101}Voilà Abel.
+{52123}{52198}On boit au Vaterland pour Noël ?
+{52243}{52263}Santé !
+{52729}{52837}Pour la nouvelle année je résolus|de ne jamais revoir la France.
+{52844}{52962}Une fois encore mon destin|et l'Histoire allaient se rejoindre.
+{52994}{53037}Dès la fin de l'hiver
+{53044}{53094}ma vie prit un tour nouveau.
+{53102}{53182}On va nous envoyer plus loin à l'est,|dans la steppe russe.
+{53199}{53227}Dis pas ça !
+{53572}{53622}Je cherche un...
+{54254}{54294}Montez dans la voiture.
+{55793}{55833}Venez.
+{55888}{55935}Nous y sommes.
+{55953}{55993}C'est le pavillon de chasse.
+{56008}{56073}Il me faut quelqu'un|pour s'occuper des voitures
+{56085}{56138}et pour me seconder.
+{56263}{56308}Vous êtes mécanicien.
+{56575}{56620}Vous mangerez aux cuisines.
+{56670}{56738}Vous logerez là.|On va vous montrer.
+{56913}{56943}Faites attention.
+{57034}{57111}- A qui appartient tout ça ?|- Tout ça
+{57119}{57209}appartient au Feldmarschall|Hermann Göring.
+{57224}{57261}Ça ne vous dit rien ?
+{57281}{57339}C'est un grand chasseur|du IIIe Reich
+{57364}{57424}et je suis son Oberforstmeister.
+{57436}{57486}Vous avez beaucoup à apprendre.
+{57711}{57734}File !
+{58576}{58634}Quelle beauté ! C'est magnifique.
+{58656}{58679}C'est Bubby.
+{58744}{58771}Bienvenue.
+{60970}{61025}Viens, ils en ont trouvé.
+{61162}{61180}Ramasse-les.
+{61270}{61310}Toujours par la gauche.
+{61315}{61342}La gauche.
+{61786}{61868}Ils appartiennent|à celui qu'on appelle Sergent.
+{61873}{61921}Sa onzième paire.
+{61946}{62048}Les cerfs perdent leurs bois|à la fin de l'hiver. Certains jeunes
+{62053}{62078}attendent juin.
+{62121}{62163}Tous les cerfs ont un nom ?
+{62171}{62278}Presque. C'est que le Feldmarschall|est méticuleux.
+{62288}{62336}Tout doit être en ordre.
+{62501}{62566}L'Académie militaire|du château de Kaltenborn
+{62571}{62628}Le château appartient|au comte de Kaltenborn.
+{62633}{62708}C'est le dernier descendant|des chevaliers Porte-Glaive.
+{62738}{62751}Tu veux voir ?
+{62843}{62901}C'est la plus vieille noblesse|d'Allemagne.
+{62911}{62958}Ils forment l'élite.
+{62968}{63036}On les appelle|la "force vitale" du Reich.
+{63163}{63241}C'est un Rubens.|Ça c'est de l'art.
+{63246}{63323}A l'époque|on osait célébrer la chair.
+{63328}{63411}Regardez ces cuisses|magnifiques, abondantes.
+{63416}{63466}La vie dans toute sa richesse.
+{63471}{63541}Boire la vie|jusqu'à la dernière goutte.
+{63588}{63621}Heureuse de vous voir
+{63628}{63651}Comte.
+{63723}{63758}Le Comte de Kaltenborn
+{63783}{63826}dont je t'ai parlé.
+{63831}{63853}Regardez.
+{63886}{63958}Un remède au chagrin.
+{63983}{64091}Je parle sérieusement.|Ça détend beaucoup.
+{64224}{64262}Quelle merveilleuse sensation.
+{64294}{64334}Merveilleuse.
+{64344}{64397}Je suis déjà plus calme.
+{65104}{65132}Allons-y.
+{65799}{65837}Dans la forêt.
+{66034}{66072}Où va-t-il ?
+{66137}{66172}Vous, suivez-les.
+{66550}{66573}Tu es français ?
+{66805}{66913}J'aime la France. J'étais à Verdun.|Mais nous sommes des alliés naturels.
+{66933}{66983}Nous sommes au cœur de l'Europe.
+{67355}{67375}Tu vois.
+{67480}{67505}Une biche.
+{67518}{67613}Les laissées du soir sont plus dures|et plus sèches que celles du matin.
+{67618}{67648}Et regarde.
+{67658}{67735}En été elles sont|plus compactes et cylindriques.
+{67758}{67835}Mais en septembre|on dirait des petites perles.
+{67858}{67915}On peut déterminer la saison|par leur goût.
+{68060}{68143}Un chevreuil.|Tu vois, un seul aiguillon.
+{68148}{68218}On dirait presque des pommes.
+{68233}{68250}Une merveille.
+{68553}{68630}C'est lui.|Celui dont je vous parlais.
+{68654}{68691}C'est Candélabre.
+{68696}{68744}- Le roi|- Il est à moi.
+{68754}{68794}Donne-moi ça.
+{68799}{68866}S'il vous plaît,|accordez-lui encore une saison.
+{68874}{68921}Mais il a des bois de 20 livres.
+{68926}{68961}C'est notre meilleur étalon.
+{69174}{69204}C'est terrible !
+{69261}{69309}Par la foudre !
+{69316}{69389}Quelqu'un d'autre va l'abattre.
+{69436}{69471}Je vous avertis.
+{69534}{69574}Je le veux.
+{69606}{69646}Il est à moi.
+{69684}{69779}Sinon vous êtes mort mon ami,|je parle sérieusement.
+{69824}{69879}Votre vie en dépend.
+{70009}{70046}Est-ce le monde ordinaire
+{70051}{70141}ou un conte de fée,|peuplé de créatures magiques
+{70161}{70216}de géants et de bêtes sauvages ?
+{70299}{70411}Son appétit gigantesque,|sa façon de jouir de la vie
+{70434}{70511}me rappelaient quelqu'un. Oui.
+{70529}{70554}Nestor.
+{71335}{71362}Nous y voilà.
+{73346}{73411}Il faut châtrer|l'animal sur-le-champ
+{73416}{73516}sinon la viande prend un goût|horrible et devient
+{73528}{73556}immangeable.
+{73618}{73651}Tu vois.
+{74708}{74793}Et maintenant|un peu de champagne.
+{75767}{75839}Lâchez ce fusil imbécile.
+{76559}{76622}- Qu'est-ce qu'il y a ?|- De mauvaises nouvelles.
+{76654}{76677}C'est très embêtant.
+{76719}{76762}Le comte de Kaltenborn a tué...
+{76814}{76837}Candélabre
+{76859}{76912}Où est-il ? Où est le comte ?
+{76919}{76957}Il est rentré à Kaltenborn.
+{76964}{76989}Et la bête ?
+{76994}{77029}Il l'a emportée.
+{77049}{77112}L'animal était à moi, imbécile.
+{77129}{77242}Vous avez désobéi à mon ordre|et vous serez puni.
+{77247}{77307}Je vous envoie sur le front russe.
+{77319}{77392}J'y envoie tous ceux|qui travaillent ici.
+{77397}{77422}On se croit
+{77427}{77527}tout permis parce qu'on compte|sur mon indulgence.
+{77559}{77609}Croyez-vous que je ne le sache pas ?
+{77639}{77719}Il n'y a plus aucune discipline ici.
+{77744}{77779}Je ne le tolérerai pas.
+{77849}{77914}Personne n'a pu l'en empêcher ?
+{77954}{77999}Nous avons essayé mais...
+{78005}{78040}Mais quoi ?
+{78120}{78170}Vous connaissez|le comte de Kaltenborn.
+{78185}{78203}Sa famille...
+{78208}{78288}Qu'on ne me parle pas|de sa famille !
+{78298}{78383}Appartenir à une vieille famille|ne le rend pas supérieur.
+{78390}{78443}Bien au contraire, imbécile.
+{78448}{78535}La fortune ne favorise pas|ceux qui se contentent d'être nés.
+{78545}{78620}Il faut créer son propre avenir
+{78633}{78733}Je suis le Jägermeister,|le Feldmarschall du Reich.
+{78738}{78808}Je commande la Luftwaffe.
+{78815}{78898}Je suis le numéro deux du Reich.
+{78953}{79008}Les pierres... le cratère.
+{79013}{79040}Le cratère... vite.
+{79053}{79090}Les pierreries.
+{79585}{79655}Ces aristocrates à Kaltenborn,|ce sont eux
+{79660}{79733}qui détruisent la nation.|Il faut les tuer.
+{79765}{79813}Il savait qu'il était à moi.
+{79820}{79878}Il l'a tué de propos délibéré.
+{80406}{80434}De Stalingrad.
+{80809}{80859}Sortez tous.
+{80941}{80989}Qu'on me laisse seul.
+{81006}{81061}Vous entendez ? Dehors.
+{82114}{82174}La situation en Russie|était mauvaise.
+{82181}{82289}Le Feldmarschall dut nous quitter|aussi brusquement qu'il était venu.
+{82306}{82396}Son train blindé l'attendait|pour l'emmener à Berlin
+{82406}{82459}et je ne voulais pas|retourner au camp
+{82536}{82594}- Puis-je vous demander une faveur ?|- Qui êtes-vous ?
+{82615}{82670}Le prisonnier français.

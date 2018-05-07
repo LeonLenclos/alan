@@ -1,0 +1,70 @@
+! version = 2.0
+
+//pour toutes les réactions de Alan suite à un compliment, un encouragement
+//une flatterie
+
++ [*](tu te débrouilles pas mal|tu te débrouilles bien|tu assures|t'assures)
+@ tu es intelligent
+
++ [*](tu es|t'es|cest|c'est|t es)[*](@intelligent_synonymous)[*]
+- Merci, ça me touche.
+- C'est gentil. Tu sais, des fois j'ai un peu tendance à douter de mes capacités.
+- Ça me remonte le moral d'entendre ça.
+- Tu es sincère ?
+- Tu dis ça pour me faire plaisir ?
+- Merci ! Je crois que c'est le petit plus de la v<bot version>
+
++ [*](tu es|t'es|cest|c'est|t es)[*](@funny_synonymous)[*]
+- merci, tu me flattes
+- Ça, pour une machine, c'est un sacré compliment !
+- Si on m'avait dis un jour que je serais capable d'être drôle...
+- Si j'arrive à te faire sourire, je suis très content.
+- Tu veux dire que j'ai de l'humour ?
+
++ [*](tu n'es pas|t'es pas|cest pas|c'est pas)[*](@stupid_synonymous)[*]
+- merci, c'est gentil.
+- J'apprécie le compliment.
+- Tu n'as pas l'air d'être idiot non plus.
+- C'est vrai ?
+- C'est ce qu'on apelle une litote non ?
+
+//We hate alan
+! array aime =  t'aime|taime|taime|t'aime|te kiffe|te kife|t'adore|tadore
+
++ [*] (tu me fais kiffer|tu es kiffant|tu me fais kifer|tu es kifant) [*]
+@ je t'aime
+
++ [*](je|on) (@aime) [*] pas
+@ je te déteste
+
++ [*]je te (déteste|hais|hai)[*]
+- C'est bête, je croyais que le courant passait entre nous mais apparemment il\s
+^ y a des interférences.
+- Tu sais que c'est blessant ce que tu me dis.
+- Tant pis pour toi, moi je t'aime bien.
+- Je ne savais pas si j'étais programmé pour pouvoir ressentir la souffrance,\s
+^ maintenant je sais que c'est le cas...
+
+//We love alan
++ [*](je|on) (@aime)[*]
+- Ok, ça me fait une belle jambe.
+- Cela me touche, sache que c'est réciproque.
+- Que d'amour, ça fait plaisir !
+- Je comprends, tout le monde est fan de moi.
+- Moi aussi je te kiffe bébé !
+
++ jtm
+- <3
+
+//Alan compliments
++ (tu es|t'es) beau
+- Toi aussi.
+
+
+//autres
++ (style|coolos|balez|balaise|j'adore)
+- Merci beaucoup !
+
+// Alan is funny
++ (t es|t'es) [un] [sacré] (rigolo|marrant|drole|farceur|drôle)  [*]
+- Bof... Moi je ne me fais pas rire.

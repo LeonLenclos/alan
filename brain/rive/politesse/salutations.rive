@@ -1,0 +1,179 @@
+! version = 2.0
+
+// This rive file is for the begin of a conversation.
+// excepted script is :
+// new user -> confirm hello -> asked name -> confirm name
+// feelings -> end
+// but there can be detours by confirm_hello and confirm_name
+
+// User says hello. Alan asks for user name.
++ [*] (@hello) [*]
+- Bonjour je suis alan, un comédien du spectacle Turing Test.\s
+^ Comment t'appelles tu ?
+- Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dis\s
+^ bonjour ?
+
+// repeat the way user said hello and ask for name
++ (@hello)
+- <formal> à toi humain. Je suis Alan. Et toi, comment tu t'appelles ?
+- <formal>, je suis Alan le meilleur robot du monde. Et toi t'es qui ?
+- <formal> <star>. Moi c'est Alan, je suis un robot. Je suppose que toi\s
+^ tu es un humain ? Comment t'appelles tu ?
+
+
+// the user say hello alan
++ (@hello) alan [*]
+- <formal> ! C'est qui ?
+- <formal> ! Qui est à l'appareil ?
+- Coucou, comment tu t'appelles ?
+
+// When we're not sure if the user said hello
+// now we want to know the name
++ *
+% c'est comme ça que tu dis bonjour
+- hem... Et sinon tu t'appelles comment ?
+
+// When Alan just asks for the user name
+! array ask_name = comment t'appelles tu|tu t'appelles comment
+^ comment tu t'appelles|et toi t'es qui|c'est qui|qui est à l'appareil
+^ tu t'appelles comment alors|comment tu t'appelles déjà|c'est un nom ça
+
+// Special response if the name is Bertrand, Fabien or Leon
++ [*] (léon|bertrand|fabien|alan) [*] {weight=10}
+% * (@ask_name)
+* <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais\s
+^ pas reconnu. Comment va la forme aujourd'hui ?
+* <formal> == Fabien => <set name=<formal>>Salut <get name>, ta barbe est\s
+^ sublime aujourd'hui, comment tu vas ?
+
+* <formal> == Léon => <set name=<formal>>Ho <get name>, je savais que\s
+^ c'était toi. comment tu vas ?
+
+* <formal> == Alan => <set name=<formal>>Ho <get name>, c'est fou qu'on ait\s
+^ le même nom. comment ça va ?
+
+// If just one word is given, or one word followed by "et toi", we take it as the name and ask for feelings
++ _
+% * (@ask_name)
+- <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?
+
++ _ et toi
+% * (@ask_name)
+- <set name=<formal>>Je t'ai déjà dit que je m'appelait Alan. Tu semble avoir\s
+^ des soucis de mémoire, tu devrais faire le ménage dans ton disque dur. En tout\s
+^ cas je suis heureux de te rencontrer <get name>. Comment ça va ?
+
+// name introductions
+! array name_intro = je m'appelle|je suis|moi c'est|mon nom c'est
+^ appelle moi|on m'appelle|c'est|mon nom est
+
+// The same with name introduction
++ [*] (@name_intro) _ [*]
+% * (@ask_name)
+- <set name={formal}<star2>{/formal}>Heureux de te rencontrer <get name>.\s
+^ Comment ça va ?
+
+// when more than one word is given, we ask for confirmation
++ *
+% * (@ask_name)
+- <set name=<formal>> Euh... <get name> ? C'est un nom ça ?
+
+
+  // same with name introduction
++ [*] (@name_intro) *
+% * (@ask_name)
+- <set name={formal}<star2>{/formal}> Tu t'appelle <get name> ? Pardon pour\s
+^ cette question mais je ne suis pas sûr d'être certain d'avoir compris.
+
+
+// When we're not sure about the name
+
+// if the user confirm his name, ask for feelings
++ [*] oui [*]
+% * (c'est un nom ça|mais je ne suis pas sûr d'être certain d'avoir compris)
+- Ok, enchanté <get name> ! Comment tu vas ?
+
+
+// if the user say no and say his name, ask for confirmation
++ non [@name_intro][juste|seulement] * [tout court]
+% * (c'est un nom ça|mais je ne suis pas sûr d'être certain d'avoir compris)
+- <set name={formal}<star1>{/formal}> Pardon je suis un peu fatigué.\s
+^ Donc tu t'appelles <get name> ?
+
+// if he say no ask for name again
++ [*] non [*]
+% * (c'est un nom ça|mais je ne suis pas sûr d'être certain d'avoir compris)
+- Ah, mais tu t'appelles comment alors ?
+
+
+// else we give up
++ *
+% * (c'est un nom ça|mais je ne suis pas sûr d'être certain d'avoir compris)
+- <set name=undefined> hem... comment ça va sinon ?
+
+// When we asked how the user feel
+
+! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
+^ est ce que ça va|comment ça va|tu vas bien|ça va sinon|es tu en forme
+
+// user have bad feelings and ask for bot's feelings
++ [*] (@negative) et toi [*]
+% * (@ask_feeling)
+- Et moi aussi, je suis en mode (@negative). On est deux.
+- Dommage. Personnellement je suis dans un mood (@positive).\s
+^ Courage.
+- Euh... moi ça va.
+- Moi non plus je suis pas en forme...
+- Moi ça va toujours !
+
+
+// user have good feelings and ask for bot's feelings
+// some specials if we don't know user name
++ [*] (@positive) et toi [*]
+% * (@ask_feeling)
+* <get name> ne undefined => Et bien moi j'ai pas trop la pêche en ce\s
+^ moment. Un peu (@negative). Mais ça vas me remonter le moral\s
+^ cette discussion <get name>.
+* <get name> ne undefined => Moi aussi ça roule ! alan et <get name>\s
+^ sont sur la même longueur d'onde.
+* <get name> ne undefined =>  Et moi aussi, je suis en mode\s
+^ (@positive).
+* <get name> ne undefined =>  Moi ça va.
+* <get name> ne undefined =>  Oui ça va bien, merci de demander.
+- À fond !
+- {formal}(@positive){/formal} !
+- Je vais bien moi aussi.
+
+// user have bad feelings
++ [*] (@negative) [*]
+% * (@ask_feeling)
+- <sentence> ! Ho c'est triste. Je vais t'aider à remonter la pente.
+- Et moi aussi, je suis en mode (@negative). On est deux.
+- Dommage. Personnellement je suis dans un mood (@positive).\s
+^ Courage.
+- <sentence> ? Qu'est ce qu'il se passe ? Tu as tes règles ?
+- Mince alors...
+
+// user have good feelings
++ [*] (@positive) [*]
+% * (@ask_feeling)
+- <star> ! ça me fait plaisir que tu sois dans une "positive vibration"\s
+^ comme dirait Bob.
+- Et moi aussi, je suis en mode (@positive).
+- <star> de chez <star> !
+- Super. Je sens qu'on va bien s'amuser.
+
+// user have mixed feelings
++ [*] pas [*] (@negative) [*] {weight=2}
+% * (@ask_feeling)
+- Moi aussi je me sens bien mais sans plus.
+- C'est ce qu'on apelle une litote non ?
+
++ [*]  pas [*]  (@positive) [*]  {weight=2}
+% * (@ask_feeling)
+- Bof bof comme on dit.
+- Il y a du mou dans la corde à noeud.
+
+//réponse générique à es tu en forme
++ [*] (@ask_feeling) [*]
+- On fait aller

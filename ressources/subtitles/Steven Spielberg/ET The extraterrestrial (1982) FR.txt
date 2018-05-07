@@ -1,0 +1,957 @@
+{1225}{1317}LE STUDIO UNIVERSAL FETE|LE 20e ANNIVERSAIRE DE E.T.
+{9456}{9507}Je crois que je le vois!
+{9838}{9871}Par ici!
+{12269}{12312}- Cinq.|- Super.
+{12314}{12377}Tu as une fl�che dans la poitrine.
+{12379}{12422}Ne t'en fais pas. J'ai ressuscit�.
+{12425}{12461}Je suis d�j� un immortel.
+{12463}{12506}Je peux jeter des sorts mortels.
+{12509}{12549}J'essaie juste de t'aider.
+{12552}{12605}Et si tu jétais un sort au pizza�olo?
+{12605}{12650}O� est notre pizza?
+{12660}{12712}Je peux jouer, maintenant.
+{12717}{12765}Je suis pr�t � jouer.
+{12768}{12837}On a d�j� commenc�.|Tu peux pas d�barquer en plein milieu.
+{12840}{12873}Ca y est!
+{12890}{12926}Qu'est-ce que je commande?
+{12926}{13003}Une pizza papa-oom-mow-mow.
+{13022}{13046}Mike?
+{13051}{13106}C'est pas pour nous, mais pour sa m�re.
+{13120}{13146}Mike?
+{13170}{13262}Demande � Steve. C'est le ma�tre du jeu.|Il a le pouvoir absolu.
+{13264}{13285}Steve?
+{13288}{13333}Je peux jouer?
+{13343}{13379}Va d'abord attendre la pizza.
+{13381}{13420}- Et apr�s, je peux jouer?|- Oui.
+{13422}{13492}Pense � une strat�gie. Tu joues apr�s Greg.
+{13528}{13580}Plein de saucisses et de jambon.
+{13583}{13638}Mais pas d'anchois.
+{14427}{14460}Harvey?
+{14480}{14527}C'est toi?
+{14671}{14702}Par ici.
+{14705}{14746}- Arr�te.|- D�sol�.
+{14959}{14983}Harvey?
+{15937}{16024}- T'as que �a, des types de 40 ans.|- Comment on fait pour gagner?
+{16038}{16110}- C'est comme la vie. On gagne pas � la vie.|- L'argent aide.
+{16112}{16163}Maman! II y a quelque chose dehors...
+{16165}{16201}O� est la pizza?
+{16203}{16268}II y a une chose dehors! Dans la remise.
+{16271}{16323}Elle m'a lanc� la balle.
+{16326}{16352}Taisez-vous!
+{16374}{16422}Personne ne doit aller l�-bas.
+{16508}{16561}Arr�tez. Restez ici.
+{16563}{16613}Reste ici, maman. On va voir.
+{16616}{16666}Et ramenez ces couteaux!
+{16719}{16752}Ca va, Elliott.
+{16755}{16803}Allons chercher la lampe torche.
+{16844}{16889}Attendez. Un instant.
+{16915}{16966}C'est flippant. Quelle frousse.
+{16968}{17016}Qu'est-ce que tu as vu?
+{17026}{17050}L�-dedans.
+{17114}{17148}C'est flippant.
+{17249}{17285}Il n'y a rien, ici.
+{17287}{17323}La porte est ouverte.
+{17328}{17364}Regardez �a.
+{17501}{17546}Le coyote est revenu.
+{17548}{17608}Bien, la f�te est finie. Tout le monde � la maison.
+{17611}{17642}Sortez. D�p�chez-vous.
+{17644}{17678}Vite. D�p�chez-vous.
+{17683}{17726}Tyler, donne-moi ce couteau.
+{17774}{17824}Bravo. Bien jou�, Elliott.
+{17827}{17860}C'�tait un accident.
+{17879}{17946}Qui vous a permis de commander une pizza?
+{17949}{17980}Lui.
+{17997}{18052}- A la maison.|- Imb�cile.
+{18059}{18095}Maman, j'ai pas r�v�.
+{18107}{18131}Pauvre tache.
+{18133}{18198}Pas de ce langage chez moi.
+{19673}{19709}T'es dingue.
+{22655}{22689}Coucou.
+{22969}{22996}Coucou?
+{24195}{24243}En quoi tu te d�guises pour Halloween?
+{24245}{24327}- J'irai pas � Halloween, c'est nul.|- Vas-y en lutin.
+{24331}{24363}Ferme-la.
+{24365}{24413}Ce n'est pas qu'on ne te croit pas, ch�ri.
+{24415}{24470}Il y avait quelque chose. Je le jure.
+{24521}{24571}En quoi tu te d�guises, Gert?
+{24573}{24626}J'y vais en cow-girl.
+{24631}{24684}Quelle surprise!
+{24703}{24772}- C'�tait peut-�tre un iguane.|- C'�tait pas un iguane.
+{24775}{24808}Peut-�tre un...
+{24823}{24888}Il para�t qu'il y a des alligators dans les �gouts.
+{24890}{24938}Des alligators dans les �gouts.
+{24940}{25017}On veut juste dire|que c'�tait peut-�tre ton imagination.
+{25019}{25058}Impossible.
+{25058}{25154}- C'�tait peut-�tre un pervers ou un infirme.|- Un infirme.
+{25166}{25216}Peut-�tre un elfe ou un lutin.
+{25218}{25264}Ce n'�tait rien de tout �a, t�te de noeud.
+{25266}{25305}Elliott!
+{25314}{25353}Assieds-toi.
+{25429}{25470}Papa me croirait, lui.
+{25590}{25667}Appelle-le donc et raconte-le-lui.
+{25679}{25744}Impossible. Il est au Mexique avec Sally.
+{26000}{26048}C'est o�, le Mexique?
+{26130}{26161}Excusez-moi.
+{26276}{26321}Je vais te faire la peau.
+{26365}{26429}Si tu le revois, quoi que ce soit, n'y touche pas.
+{26429}{26501}Appelle-moi. Quelqu'un viendra le chercher.
+{26511}{26561}Comme le monsieur de la fourri�re?
+{26564}{26607}Ils lui feront une lobotomie
+{26609}{26679}ou pratiqueront des exp�riences sur lui.
+{26695}{26748}C'est � toi de faire la vaisselle.
+{26751}{26803}- J'ai mis la table.|- C'est moi qui l'ai fait.
+{26806}{26880}- J'ai pr�par� le petit-d�jeuner.|- C'�tait moi.
+{26947}{26988}Qu'est-ce qu'il y a?
+{27057}{27101}II d�teste le Mexique.
+{27120}{27175}Zut! Grandis un peu!
+{27177}{27247}Pense aux autres, pour une fois.
+{28904}{28928}Ma...
+{28930}{28954}Maman.
+{28956}{28980}Maman.
+{28983}{29009}Michael.
+{29141}{29167}Michael.
+{29170}{29196}Maman.
+{31354}{31433}ENTREZ
+{36480}{36523}D'accord, tu as de la fi�vre.
+{36540}{36576}Je reviens.
+{36634}{36720}- Mary, je peux reculer?|- Pas � plus de 30 cm de l'all�e.
+{38072}{38168}Tu as pass� la nuit dehors|� guetter cette chose?
+{38187}{38240}Tu survivras si je vais travailler?
+{38336}{38365}D'accord.
+{38372}{38403}Pas de t�l�.
+{38621}{38652}Allez.
+{38655}{38695}Regarde ce qu'a fait Michael.
+{38698}{38719}Ca et...
+{38722}{38801}Je les vois, Gert, je lui passerai un savon.
+{38885}{38935}Allez. N'aie pas peur.
+{38954}{39005}Tout va bien. Allez.
+{39038}{39065}Allez.
+{39175}{39209}Allez.
+{39240}{39271}Allez.
+{39281}{39307}Allez.
+{39549}{39590}Tu parles?
+{39607}{39643}Tu sais, parler?
+{39688}{39722}Moi, humain.
+{39743}{39767}Gar�on.
+{39782}{39810}Elliott.
+{40223}{40283}Coca-cola. Tu vois, �a se boit.
+{40283}{40328}C'est une boisson.
+{40333}{40376}Tu sais, nourriture?
+{40400}{40455}Ce sont des jouets. Des bonshommes.
+{40460}{40508}C'est Greedo.
+{40510}{40582}Et lui, c'est Hammerhead.
+{40590}{40650}Celui-ci, c'est Walrus Man.
+{40652}{40726}Et Snaggletooth.
+{40738}{40796}Lando Calrissian.
+{40805}{40832}Tu vois?
+{40849}{40899}Et �a, c'est Boba Fett.
+{40901}{40964}Regarde. Ils peuvent aussi faire la guerre.
+{41076}{41127}Et regarde. Poisson.
+{41141}{41201}Le poisson mange les aliments pour poisson,
+{41211}{41263}le requin mange le poisson,
+{41273}{41323}mais personne ne mange le requin.
+{41376}{41455}Ca, c'est Pez. Bonbon.
+{41462}{41501}Tu vois, �a se mange.
+{41501}{41568}On met le bonbon l�-dedans,
+{41577}{41666}et quand on soul�ve la t�te,|le bonbon sort et on le mange.
+{41669}{41702}Tu en veux?
+{41767}{41808}C'est une cacahou�te.
+{41812}{41844}Ca se mange.
+{41846}{41930}Mais tu ne peux pas manger celle-ci,|parce qu'elle est fausse.
+{41937}{41990}C'est de l'argent. Tu vois?
+{42004}{42062}On met l'argent dans la cacahou�te.
+{42067}{42110}Tu vois? Tirelire.
+{42117}{42143}Et �a,
+{42194}{42225}c'est une voiture.
+{42227}{42297}C'est avec �a qu'on se prom�ne.
+{42302}{42347}Tu vois? Une voiture.
+{42457}{42491}Attends.
+{42498}{42560}Non. Ne les mange pas.
+{42575}{42606}Tu as faim?
+{42640}{42673}J'ai faim.
+{42759}{42786}Bouge pas.
+{42877}{42901}Bouge pas.
+{42903}{42949}Je reviens tout de suite.
+{42966}{43047}Compris? Je reviens tout de suite.
+{43050}{43074}Harv!
+{43198}{43244}Allez.
+{43400}{43438}Ca, �a va lui plaire.
+{43603}{43632}Ca.
+{43683}{43704}Ca.
+{44337}{44373}Ca va?
+{44452}{44493}Trop d'agitation?
+{44517}{44546}Tu veux un coca-cola?
+{44627}{44666}Seize kilos.
+{44699}{44735}Seize kilos!
+{44764}{44800}Mais tu es gros.
+{44891}{44941}Je me demande combien tu mesures.
+{44972}{45066}Je mesure 1,30 m, donc tu dois mesurer environ
+{45083}{45116}90...
+{45416}{45488}C'est de l� que l'eau arrive. Tu vois?
+{45495}{45562}L'eau chaude et l'eau froide.
+{45562}{45634}Elle vient d'un grand ch�teau d'eau.
+{45644}{45692}Elle passe dans les tuyaux et parfois
+{45694}{45785}des insectes morts passent dans les tuyaux|et arrivent dans la baignoire.
+{45788}{45848}C'est d�gueu. Mais regarde.
+{45939}{45989}Tu as soif?
+{46164}{46205}Je vais r�pondre.
+{46246}{46310}Salut. Oui, je vais bien.
+{46322}{46382}Bien s�r. Oui, j'ai encore de la fi�vre.
+{46392}{46464}Oui. Non, ne viens pas.
+{46471}{46543}Je vais bien, maman. Oui.
+{46622}{46694}Non. Je dois retourner me coucher.
+{46696}{46735}D'accord. Au revoir.
+{46771}{46816}Je suis malade.
+{46828}{46905}Je n'ai pas besoin d'aller chez le m�decin!
+{46927}{47015}Je n'avais que 37, aujourd'hui.
+{47039}{47080}D'accord, et demi.
+{47123}{47169}D'accord. Salut.
+{47197}{47274}Il faut que j'aille vomir. S'il te pla�t.
+{47291}{47382}Je vais vomir au t�l�phone|si tu ne raccroches pas.
+{47404}{47478}Salut. Je dois vraiment aller vomir.
+{47790}{47845}Tu risques de te noyer, comme �a.
+{48094}{48142}C'est comme �a que tu t'amuses?
+{48322}{48411}"II y a tellement de gens � voir
+{48423}{48511}"Tellement de gens � conna�tre|et � ajouter � ta collection
+{48514}{48578}"Mais ils te poussent en avant
+{48581}{48624}"Rien que des trucs sains
+{48660}{48758}"A ajouter � ta collection|mais ils te poussent en avant"
+{48895}{48924}Mike, viens.
+{48924}{48984}- Ca va, menteur?|- Je vais bien.
+{48986}{49022}J'ai quelque chose d'important...
+{49024}{49096}Tyler a dit qu'il avait fait 69000 � Asteroids hier,
+{49099}{49164}- mais il l'a d�branch�.|- Tu te souviens du lutin?
+{49166}{49199}Tu es vraiment minable.
+{49202}{49250}Viens. Il est revenu.
+{49264}{49300}Il est revenu?
+{49310}{49353}II est revenu?
+{49355}{49391}Mon Dieu!
+{49394}{49420}Une chose.
+{49451}{49494}J'ai le pouvoir absolu.
+{49502}{49528}Dis-le.
+{49545}{49602}- Dis-le!|- C'est quoi? Le coyote?
+{49605}{49655}Non. Ecoute...
+{49691}{49761}Bien. Jure-le.
+{49763}{49830}Le plus beau serment que tu puisses pr�ter.
+{49830}{49902}Jure-le sur nos t�tes.
+{49904}{49960}N'exag�re pas. Je le jure.
+{49962}{50022}D'accord. Mets-toi l�.
+{50046}{50096}Tu ferais mieux d'enlever tes protections.
+{50099}{50130}Tu risques de l'effrayer.
+{50132}{50168}Et ferme les yeux.
+{50194}{50226}Faut pas pousser.
+{50228}{50298}Je ne sors pas|tant que tu n'as pas ferm� les yeux.
+{50300}{50348}D'accord. Ils sont ferm�s.
+{50362}{50417}Maman va te tuer.
+{50463}{50542}D'accord. Jure-le encore une fois.
+{50545}{50624}- J'ai le pouvoir absolu.|- Tu as le pouvoir absolu.
+{50873}{50955}Regarde ce que je t'ai fait!
+{51161}{51194}Arr�te!
+{51329}{51369}Les enfants, je suis rentr�e!
+{51372}{51393}Les enfants?
+{51396}{51427}Dans l'armoire, vite.
+{51429}{51482}Vous �tes l�-haut?
+{51537}{51566}II y a quelqu'un?
+{51568}{51619}Ch�ri, comment �a...
+{51638}{51683}Que s'est-il pass�, ici?
+{51724}{51763}Tu veux dire ma chambre?
+{51796}{51837}Ce n'est pas une chambre.
+{51851}{51887}C'est un accident.
+{51894}{51940}Je faisais du rangement.
+{51947}{51981}Je vois �a.
+{51990}{52043}Raccroche ces �tag�res au mur.
+{52045}{52091}Ramasse les jouets.
+{52093}{52151}Fais ton lit, vu que tu n'es pas couch�.
+{52175}{52218}Tu vas mieux, on dirait.
+{52220}{52302}Vous pouvez surveiller Gertie|pendant que je prends ma douche?
+{52304}{52331}Bien s�r.
+{52372}{52400}Salut.
+{52654}{52678}Elliott...
+{52693}{52738}Je le garde.
+{52794}{52829}Qu'est-ce que c'est?
+{52851}{52911}II ne te fera rien, Gertie.
+{52925}{52978}Il ne te fera rien, Gertie.
+{52985}{53031}On ne va pas te faire de mal.
+{53055}{53105}C'est un gar�on ou une fille?
+{53115}{53146}C'est un gar�on.
+{53225}{53285}Il avait pas de v�tements?
+{53292}{53316}Non.
+{53335}{53405}Mais il ne faut rien dire.
+{53407}{53443}M�me pas � maman.
+{53446}{53474}Pourquoi?
+{53479}{53549}Parce que les grands ne peuvent pas le voir.
+{53570}{53637}Seuls les enfants peuvent le voir.
+{53642}{53681}Arr�te ton char.
+{53709}{53793}Tu sais ce qui va se passer, si tu le dis?
+{53870}{53911}Vas-y, Mike. On est oblig�s.
+{53913}{53949}Non, s'il te pla�t!
+{53964}{54014}Je ferai tout ce que vous voulez!
+{54016}{54071}Arr�tez! Non, s'il vous pla�t!
+{54074}{54103}Rends-le-moi!
+{54112}{54153}- Promis?|- Oui.
+{54165}{54201}Tu promets?
+{55812}{55853}Qu'est-ce que tu fais?
+{55860}{55922}Je vais jouer dans la chambre d'EIliott.
+{55949}{55997}Oui. Mais ne le laisse pas t'emb�ter.
+{55999}{56040}Ne t'inqui�te pas.
+{56196}{56220}AIl�?
+{56251}{56284}Jerry!
+{56407}{56455}Viens. D�p�che-toi.
+{56476}{56539}Ne sois pas si press�.
+{56625}{56658}Une plante pour toi.
+{56680}{56738}C'est peut-�tre un animal qui devrait pas vivre.
+{56740}{56783}Comme les lapins qu'on avait vus.
+{56786}{56829}- Sois pas b�te.|- Vert, orange, rouge...
+{56831}{56877}Peut-�tre un singe ou un orang-outan.
+{56879}{56913}Un singe chauve?
+{56913}{56982}Un cochon, peut-�tre?|II mange comme un cochon.
+{56994}{57042}Tu pourrais dessiner des t�tes.
+{57052}{57119}M�chantes et contentes,
+{57119}{57164}avec des dents pointues.
+{57167}{57208}On est l�.
+{57227}{57279}- Ici.|- Prends �a.
+{57282}{57330}Tu peux dessiner des tas de choses.
+{57332}{57385}D'accord. On est l�.
+{57402}{57426}On est l�.
+{57428}{57466}D'o� est-ce que tu viens?
+{57766}{57809}J'aime pas ses pieds.
+{57812}{57864}Ce ne sont que des pieds, petite peste.
+{57867}{57929}Il essaie de nous dire quelque chose.
+{58143}{58169}Terre.
+{58207}{58239}Maison.
+{58255}{58282}Maison.
+{58303}{58327}Maison.
+{59181}{59217}Qu'est-ce qu'il fait?
+{59243}{59284}Que se passe-t-il?
+{59584}{59615}Elliott.
+{59684}{59711}Oh, non.
+{60015}{60046}Qu'est-ce que c'est?
+{60049}{60094}Je sais pas. Ca fait peur.
+{60567}{60588}Un battement?
+{60591}{60617}Non, chef.
+{60689}{60758}Attendez. Ca vient d'ici.
+{60811}{60835}Suivez-le.
+{60838}{60861}D'accord.
+{60902}{60938}C'est cette maison?
+{61646}{61677}Tu lui as parl� de l'�cole?
+{61679}{61734}Comment en parler|� une intelligence sup�rieure?
+{61737}{61794}II est peut-�tre b�te. Une simple abeille ouvri�re
+{61797}{61845}- qui fait son travail.|- Il est intelligent.
+{61847}{61900}J'esp�re qu'on se r�veillera pas sur Mars
+{61902}{61967}entour�s de millions de petits �tres gluants.
+{62127}{62154}Salut, Elliott.
+{62156}{62209}- O� est ton lutin?|- Tais-toi.
+{62211}{62245}Il est revenu?
+{62252}{62281}Alors?
+{62293}{62336}Oui, il est revenu.
+{62341}{62406}C'est pas un lutin. C'est un homme de l'espace.
+{62427}{62473}Un extraterrestre.
+{62475}{62547}Il vient d'o�? D'Uranus? T'as pig�? De l'anus?
+{62549}{62621}- Il comprend pas.|- Compris? De l'anus?
+{62624}{62672}- Il comprend pas.|- T'es vraiment immature.
+{62672}{62710}Et toi, t'es un demeur�.
+{62712}{62753}- Z�ro charisme.|- Demeur�.
+{62756}{62784}Z�ro charisme.
+{62789}{62816}Ferme-la, Greg!
+{62816}{62866}- Demeur�.|- Z�ro charisme!
+{62871}{62895}Pauvre nouille.
+{63142}{63170}Allons-y.
+{63254}{63319}Allez. File � la voiture. On va �tre en retard.
+{64309}{64314}Bien, les enfants,
+{64336}{64420}aujourd'hui nous allons pratiquer|la dissection d'une vraie grenouille,
+{64422}{64477}ce pour quoi nous nous sommes pr�par�s.
+{64491}{64539}Et vous trouverez
+{64551}{64592}beaucoup de similitudes.
+{64738}{64791}Durant la dissection,
+{64794}{64849}vous verrez que l'anatomie...
+{65554}{65635}Le scalpel est tr�s tranchant.
+{65654}{65724}Soyez prudents en d�coupant.
+{65726}{65767}Il y aura tr�s peu de sang.
+{65769}{65837}Il y aura peut-�tre des liquides corporels.
+{66359}{66400}SALADE DE POMMES DE TERRE
+{67026}{67112}Pour la dissection,
+{67124}{67230}rappelez-vous que tout ce que vous �crivez...
+{67479}{67575}Pendant la dissection, n'oubliez pas
+{67577}{67664}de localiser le coeur et voyez s'il bat toujours.
+{67752}{67817}Je vais insister une fois de plus|sur les similitudes
+{67819}{67875}des choses que nous voyons...
+{67987}{68045}Les similitudes avec l'anatomie humaine.
+{68071}{68133}Premi�re chose, voici le coeur.
+{68273}{68388}Les intestins vont passer|par une phase p�ristaltique.
+{68416}{68491}X-W-V-U
+{68496}{68553}A-F-P.
+{68558}{68587}C'est incorrect.
+{68589}{68639}Nuisance s'�crit
+{68644}{68781}N-U-l-S-A-N-C-E.
+{68937}{68985}Ils nous attirent vers le haut.
+{69105}{69193}Voici le coton avec le chloroforme.
+{69205}{69304}D�s que je l'ai mis dans les bocaux, fermez-les.
+{69323}{69349}C'est �a.
+{69371}{69433}Ca va commencer � les endormir.
+{69515}{69589}Elles ne sentiront rien. Elles ne souffriront pas.
+{69644}{69690}Ca va prendre un peu de temps.
+{69697}{69773}Si vous ne voulez pas regarder,|vous n'y �tes pas oblig�s.
+{70215}{70246}Dis salut.
+{70272}{70306}Tu sais parler?
+{70318}{70354}Tu peux dire salut?
+{70876}{70927}CA MARCHE! - A L'AIDE!
+{70934}{70955}All�.
+{70963}{70994}Oncle Ralph!
+{70999}{71066}C'est oncle Ralph, il appelle de la Californie.
+{71068}{71126}Je vais faire vite. Ca doit co�ter cher.
+{71133}{71200}Non. Si j'appelle le samedi sans op�rateur,
+{71202}{71262}c'est 85 cents hors taxe pour cinq minutes.
+{71265}{71322}Si je parle moins, je paie moins.
+{71322}{71365}Passe-moi le titi.
+{71365}{71421}Lou, c'est oncle Ralph.
+{71423}{71466}Salut, oncle Ralph.
+{71711}{71771}CA MARCHE! - A L'AIDE!
+{71936}{71972}Sauve-la.
+{72135}{72209}Sauve-toi! File � la rivi�re! A la for�t!
+{72212}{72293}Cours! Je veux te sauver!
+{72298}{72346}Filons d'ici!
+{72401}{72425}Sortez!
+{72435}{72480}II faut qu'elle parte!
+{72646}{72689}II faut la sauver!
+{73264}{73305}Laissez-moi m'en occuper!
+{73327}{73387}Je peux m'en charger.
+{73389}{73420}Laissez-moi les attraper.
+{74660}{74710}Sanford, qu'est-ce qui se passe?
+{74722}{74792}Je crains que Betsy Sue|ne puisse pas courir demain.
+{74796}{74847}Non. C'est grave?
+{74849}{74921}Harvey, je suis rentr�e. Viens ici.
+{75180}{75209}Le voil�.
+{75211}{75242}Qui �a?
+{75245}{75324}L'homme de la lune, mais je crois que tu l'as tu�.
+{75326}{75396}Quand j'aurai fini de ranger, d'accord?
+{75540}{75571}Des insectes.
+{75609}{75657}Je veux te pr�senter quelqu'un.
+{75664}{75712}Les prix se sont enflamm�s, en une semaine.
+{75715}{75758}Je veux te pr�senter quelqu'un.
+{75760}{75832}Quand j'en aurai termin� avec �a, d'accord?
+{76098}{76170}Cette bolognaise!|Je savais que �a ne partirait pas.
+{76204}{76242}- "B."|- "B."
+{76245}{76288}Qu'est-ce que c'est que �a?
+{76360}{76388}AIl�.
+{76420}{76451}Oui, c'est moi.
+{76472}{76499}"Basket.
+{76504}{76528}"Bandit.
+{76530}{76556}"Balle.
+{76559}{76614}"Basket. Bandit. Balle.
+{76635}{76664}"Bestioles.
+{76671}{76698}"Bananes."
+{76729}{76767}Intoxiqu�?
+{76882}{76938}Vous �tes s�r qu'il s'agit du bon Elliott?
+{76938}{76959}"B."
+{76964}{76986}"B."
+{77002}{77057}- "Biscuits."|- "B."
+{77077}{77108}Mais "B" comme bambin...
+{77110}{77132}"B."
+{77134}{77182}...avec une balle et une batte.
+{77220}{77259}Tu as dit "B".
+{77261}{77295}"B."
+{77302}{77333}Tu as dit "B".
+{77336}{77362}Bien.
+{77384}{77417}"B."
+{77443}{77477}"Bien."
+{77484}{77535}Je viens tout de suite. Merci.
+{77599}{77652}Je dois aller chercher Elliott.
+{77652}{77719}- Sois sage...|- Il sait parler.
+{77726}{77803}Bien s�r. Je reviens tout de suite.|Ne bouge pas d'ici.
+{77815}{77865}Mesdames et messieurs,
+{77868}{77923}le petit Grover va faire une d�monstration,
+{77925}{78004}il va se hisser deux fois.
+{78007}{78045}- Deux fois?|- Oui.
+{78048}{78088}- Je peux commencer?|- Vas-y.
+{78091}{78127}D'accord. C'est parti.
+{78127}{78153}T�l�phone.
+{78168}{78199}T�l�phone.
+{78203}{78225}T�l�phone.
+{78273}{78314}T�l�phone.
+{78391}{78446}Tu veux appeler quelqu'un?
+{78472}{78527}Je ne paierai pas pour les grenouilles.
+{78530}{78587}Sois sage.
+{78618}{78659}Ne bouge pas. Reste ici.
+{78673}{78705}Ne le dis � personne.
+{78707}{78750}A personne.
+{78767}{78812}Sois sage.
+{78870}{78896}Pousse-toi.
+{79038}{79059}Mon Dieu!
+{79062}{79105}- Elliott.|- Quoi?
+{79182}{79270}Je lui ai appris � parler. Il sait parler.
+{79292}{79359}Regarde ce qu'il a amen� tout seul ici.
+{79374}{79421}A quoi �a peut lui servir?
+{79424}{79448}Elliott.
+{79474}{79505}E.T. Tu peux le dire?
+{79508}{79546}Tu peux dire E.T.?
+{79556}{79589}E.T.
+{79597}{79628}E.T.
+{79700}{79728}Sois sage.
+{79728}{79781}Je lui ai aussi appris �a.
+{79788}{79827}Tu devrais lui rendre sa dignit�.
+{79829}{79906}J'ai jamais rien vu d'aussi ridicule!
+{79920}{79949}T�l�phone.
+{79983}{80014}T�l�phone?
+{80018}{80057}II a dit "t�l�phone"?
+{80066}{80093}II a dit "t�l�phone"?
+{80093}{80136}Tu comprends pas notre langue?
+{80138}{80174}II a dit "t�l�phone".
+{80265}{80297}Maison.
+{80304}{80366}Tu as raison. C'est la maison d'E.T.
+{80556}{80608}E.T.,
+{80618}{80673}maison, t�l�phone.
+{80783}{80841}E.T. T�l�phone maison.
+{80872}{80915}E.T. T�l�phone maison.
+{80966}{81016}Il veut appeler quelqu'un.
+{81131}{81234}- Qu'est-ce que c'est que �a?|- E.T. T�l�phone maison.
+{81236}{81289}Mon Dieu, il peut parler.
+{81304}{81340}Maison.
+{81364}{81402}E.T. T�l�phone maison?
+{81409}{81488}E.T. T�l�phone maison.
+{81575}{81606}Et ils vont venir?
+{81608}{81646}Venir.
+{81661}{81704}Maison.
+{81723}{81759}Maison.
+{81802}{81848}- Allez. Je le promets.|- Quel livre?
+{81850}{81877}N'importe lequel.
+{81879}{81905}L'homme araign�e...
+{81915}{81956}On va juste sourire
+{81958}{82037}et essayer de tenir la soir�e.|C'est tout ce que je veux.
+{82044}{82140}On ne peut pas d�guiser Cathy|avec le m�me drap que l'ann�e derni�re.
+{82148}{82220}Je regrette de ne pas avoir �cout�|les cours de sciences.
+{82234}{82263}R�fl�chis, Michael.
+{82265}{82354}On devrait prendre|tout ce qui peut lui servir � faire une machine.
+{82361}{82409}Avec quoi on peut faire un radar?
+{82414}{82476}Qu'est-ce que j'en sais? C'est toi, le g�nie.
+{82478}{82538}Tu as le pouvoir absolu, tu te rappelles?
+{82541}{82606}"Je l'ai trouv�. Il est � moi."
+{82900}{82939}Tu sais,
+{82965}{83061}- il n'a pas l'air en forme.|- Ne dis pas �a! On va bien!
+{83075}{83116}Comment �a, "on"?
+{83121}{83174}Tu dis tout le temps "on".
+{83179}{83236}- Vraiment, il a l'air malade.|- Il va bien.
+{83238}{83308}D'accord. Fais pas attention � ce que j'ai dit.
+{83325}{83361}Prends le radar.
+{83569}{83608}La chemise de papa.
+{83701}{83776}Tu te rappelles quand il nous amenait aux matchs
+{83778}{83857}et au cin�ma,|et qu'on faisait la guerre avec le pop-corn.
+{83876}{83946}- On le fera encore.|- Bien s�r.
+{84147}{84181}Gillette.
+{84186}{84217}Niv�a.
+{84351}{84428}"Peter dit: 'Les Indiens ont perdu?
+{84433}{84492}"'Wendy et les gar�ons prisonniers des pirates?
+{84495}{84555}"'Je vais aller la sauver.'
+{84567}{84608}"II bondit, d'abord vers son poignard,
+{84610}{84660}"puis vers sa meule pour l'aiguiser.
+{84663}{84732}"Mais Clochette crie pour les avertir.
+{84759}{84819}"'Oh, c'est juste mon rem�de.'
+{84821}{84869}"Elle dit: 'Empoisonn�?
+{84886}{84922}"'Qui aurait pu l'empoisonner? '
+{84924}{85027}"'J'ai promis � Wendy que je l'emm�nerais|d�s que j'aurais aiguis� mon poignard.'
+{85032}{85077}"La f�e Clochette voit le rouge
+{85080}{85145}"et se souvient du rouge dans l'oeil du pirate.
+{85147}{85185}"Elle avale le rem�de avec noblesse,
+{85188}{85243}"pendant que Peter tend la main.
+{85253}{85339}"'Pourquoi as-tu bu mon rem�de? '
+{85344}{85406}"Elle vole bizarrement � travers la pi�ce,
+{85406}{85466}"lui r�pondant d'un son de clochette �touff�."
+{85468}{85533}A�e!
+{85631}{85674}A�e!
+{85943}{86005}"Elle dit qu'elle croit pouvoir aller bien � nouveau
+{86005}{86053}"si les enfants croient aux f�es.
+{86056}{86108}"Tu y crois? R�ponds vite que oui."
+{86111}{86137}J'y crois!
+{86140}{86192}"Si tu y crois, tape des mains.
+{86204}{86274}"Beaucoup tapent, d'autres non, certains sifflent.
+{86451}{86521}"Mais Clochette est saine et sauve. 'Merci.
+{86542}{86614}"'Oh, merci, merci.
+{86626}{86681}"'Et volons au secours de Wendy."'
+{86689}{86744}Tu peux me le relire?
+{86801}{86830}"Peter dit..."
+{87312}{87355}II assemble le tout.
+{87367}{87437}- Tu vois qu'il est intelligent.|- Je me fais du souci.
+{87439}{87509}- Et s'il fait exploser la maison?|- Il sait ce qu'il fait.
+{87511}{87566}Ecoute sa respiration.
+{87578}{87631}Ca va marcher.
+{87631}{87681}Qu'est-ce qu'il sent, maintenant?
+{87688}{87734}II sent tout.
+{88274}{88336}Tu y vas en fant�me. Tu l'as promis.
+{88338}{88420}Je fais juste semblant d'y aller en cow-girl.
+{88441}{88513}D'accord. Tu connais le plan par coeur,|n'est-ce pas?
+{88516}{88556}On se voit au poste d'observation.
+{88559}{88616}Au poste d'observation. Je suis pas d�bile.
+{88619}{88703}Ecoute. Tu traverseras pas quatre p�t�s|de maisons habill� comme �a.
+{88705}{88770}Je ne plaisante pas. Tu n'iras pas en hippie!
+{88772}{88799}Ils sont tous en hippies!
+{88801}{88847}Je ne suis pas idiote.
+{89043}{89074}Pr�t?
+{89074}{89108}Pr�t.
+{89501}{89563}- Attends, maman. Ne regarde pas.|- D'accord.
+{89698}{89743}C'est bon. Tu peux regarder.
+{89846}{89890}C'est g�nial.
+{89933}{89966}Ne bougez pas.
+{90211}{90242}A�e.
+{90256}{90299}Arr�te! Ne fais pas �a!
+{90302}{90333}A�e.
+{90350}{90400}Ce couteau est un faux.
+{90403}{90448}- A�e.|- D'accord.
+{90585}{90614}Tr�s bien.
+{90657}{90698}Vous �tes superbes!
+{90702}{90736}- Merci.|- Merci.
+{90738}{90777}Merci.
+{90976}{91040}Rentrez au cr�puscule. Pas plus tard.
+{91165}{91194}Salut.
+{91261}{91304}Viens ici. Allez.
+{91834}{91875}Une farce ou un cadeau?
+{92606}{92659}Maison. Maison.
+{92661}{92726}Maison.
+{92843}{92901}Sois de retour avant la tomb�e de la nuit.
+{92911}{92973}Je ferai aussi vite que possible.
+{92973}{93021}Tu dois me couvrir.
+{93102}{93150}Allez. Aide-moi.
+{93153}{93232}On t'attendra. Alors reviens.
+{93850}{93915}Il y a trop de bosses. Il faut continuer � pied!
+{93918}{93963}E.T.!
+{94227}{94280}Pas si haut!
+{95171}{95219}Ne t'�crase pas, s'il te pla�t.
+{97164}{97224}J'arrive pas � croire que vous ayez fait �a.
+{97360}{97435}Votre p�re va en entendre parler.
+{97591}{97624}Le Mexique.
+{98737}{98777}Une farce ou un cadeau?
+{99056}{99087}Dans le mille.
+{99187}{99216}Joli tir.
+{99245}{99279}O� est Elliott?
+{99331}{99384}J'ai pos� une question.
+{99422}{99518}Pourquoi est-ce qu'EIliott irait dans la for�t?
+{99530}{99595}Pourquoi ferait-il une telle chose?
+{99626}{99665}Montez dans la voiture.
+{99681}{99727}Dans la voiture, tout de suite.
+{100768}{100811}Ca marche.
+{100849}{100885}Ca marche!
+{100890}{100919}Maison.
+{100947}{100981}Tu as r�ussi!
+{101005}{101038}Ca marche!
+{101048}{101082}Maison.
+{101118}{101182}Ca marche!
+{102199}{102242}II faut y aller, maintenant.
+{102264}{102304}On est d�j� tr�s en retard.
+{102472}{102530}Il faut y aller.
+{102676}{102722}Laisse-leur un peu de temps.
+{102784}{102825}A�e.
+{102997}{103040}Tu pourrais �tre heureux, ici.
+{103043}{103086}Je m'occuperais de toi.
+{103091}{103144}Je ne laisserais personne te faire de mal.
+{103146}{103194}On pourrait grandir ensemble.
+{103328}{103369}Maison.
+{103410}{103450}Maison.
+{104213}{104246}Maison.
+{104371}{104409}Maison.
+{105206}{105237}E.T.?
+{105318}{105345}E.T.?
+{105512}{105565}Comment �tait-il habill�?
+{105584}{105627}II �tait d�guis� en
+{105654}{105687}bossu.
+{105699}{105731}Bossu.
+{105755}{105822}Rien ne pourrait laisser croire|qu'il s'agit d'une fugue?
+{105824}{105882}Probl�mes familiaux, disputes r�centes?
+{105958}{106025}Mon mari et moi venons de nous s�parer,
+{106035}{106117}et �a n'a pas �t� facile pour les enfants. Mais...
+{106126}{106179}Mon p�re est au Mexique.
+{106328}{106373}Mais une fugue, je...
+{106385}{106431}O� pourrait-il s'�tre enfui?
+{106433}{106462}Elliott.
+{106462}{106505}Oh, Elliott!
+{106536}{106599}Ne me fais plus jamais �a!
+{106654}{106702}Mon Dieu. Tu es br�lant.
+{106716}{106776}Va lui faire couler un bain. Vite.
+{106793}{106841}D�sol�e de t'avoir cri� dessus.
+{106917}{106973}Merci de vous �tre donn� tout ce mal.
+{106987}{107028}Il est ici?
+{107080}{107143}- Il faut que tu le retrouves.|- O� est-il?
+{107162}{107200}Dans la for�t.
+{107215}{107258}Dans la clairi�re.
+{107275}{107313}Il faut que tu le retrouves.
+{108481}{108509}E.T.!
+{109612}{109641}Non!
+{109648}{109679}Non!
+{110380}{110435}Maman, tu peux venir un instant?
+{110447}{110480}Qu'y a-t-il?
+{110480}{110523}Viens voir.
+{110533}{110569}Quoi?
+{110579}{110648}- Tu te souviens du lutin?|- De quoi parles-tu?
+{110651}{110708}Jure-le sur ce que tu as de plus cher au monde.
+{110710}{110742}Michael.
+{110893}{110929}Magnifique.
+{111080}{111113}Maman.
+{111250}{111286}On est malades.
+{111343}{111396}Je crois qu'on est en train de mourir.
+{111475}{111523}- Michael.|- Ca va.
+{111566}{111598}En bas.
+{111605}{111655}Il ne te fera pas de mal.
+{111669}{111698}Il ne te fera rien.
+{111701}{111741}Emm�ne-la en bas.
+{111741}{111782}C'est l'homme de la lune.
+{111785}{111830}L'homme de la lune!
+{111919}{111984}Tu ne le connais pas!
+{112096}{112147}II faut pas le laisser tout seul.
+{113039}{113089}C'est chez moi, ici!
+{114211}{114245}Maison.
+{114288}{114314}Maison.
+{115240}{115331}Unit� Collag�ne,|rapport � Niveau Bleu imm�diatement.
+{116110}{116153}- Il dort, la nuit?|- Je n'en sais rien.
+{116155}{116203}Qu'est-ce qu'il a, Elliott?
+{116220}{116280}- Est-ce qu'il est en sueur?|- Non.
+{116292}{116359}- A-t-il perdu des cheveux?|- Il n'en a jamais eu.
+{116362}{116402}Les enfants vont bien?
+{116405}{116465}A-t-il construit ou �crit quelque chose?
+{116467}{116503}Non.
+{116505}{116587}Tu dis qu'il peut manipuler ce qui l'entoure?
+{116616}{116688}II est intelligent. Il communique � travers Elliott.
+{116695}{116750}Elliott pense ses pens�es.
+{116752}{116832}Non. Elliott ressent ce qu'il ressent.
+{116932}{116997}On a identifi� sa prot�ine vectrice primaire.
+{116999}{117035}Ce n'est pas l'albumine.
+{117035}{117105}Le test ne montre aucun d�ficit en FNF et HTS.
+{117107}{117201}Les analyses EEG indiquent|une synchronisation de l'activit� c�r�brale
+{117203}{117234}entre les sujets.
+{117400}{117486}Aucune r�action � 20 par kilo.|Passons � la solution hypertonique.
+{117493}{117532}Cinq par kilo.
+{117647}{117700}Vous n'avez pas le droit de faire �a.
+{117738}{117774}Vous lui faites peur.
+{117786}{117815}Vous lui faites peur.
+{117817}{117851}Rythme respiratoire: 12.
+{117851}{117915}Volume d'air en circulation|en baisse chez le gar�on.
+{117918}{118002}Faites 25 ml par canule nasale|et retirez le gaz dans 20 minutes.
+{118004}{118057}Sa temp�rature a chut� de 20 � 17.
+{118059}{118112}Apportez une couverture d'hypothermie.
+{118114}{118153}Laissez-le tranquille.
+{118155}{118239}Laissez-le. Je peux m'occuper de lui.
+{118246}{118294}...et faites-moi une �cho cardiaque 2D.
+{118297}{118342}La peau est fra�che et diaphor�tique.
+{118344}{118414}Il ne refuse pas.|Il lui faut un support anatropique.
+{118416}{118452}PH � 7,03.
+{118455}{118551}Il a une acidose m�tabolique.|C'est peut-�tre une septic�mie.
+{118565}{118620}On a deux prises de sang.
+{118623}{118683}Il lui faut une couverture � large spectre.
+{118858}{118889}Elliott.
+{118953}{118997}Je suis all� dans la for�t.
+{119021}{119064}Il ne faut pas qu'il parle.
+{119078}{119136}C'est n�cessaire, mon commandant.
+{119196}{119239}Cette machine,
+{119248}{119299}qu'est-ce qu'elle fait?
+{119332}{119380}Le communicateur?
+{119419}{119471}II marche encore?
+{119486}{119531}II fait quelque chose.
+{119555}{119591}Quoi?
+{119610}{119654}Je dois rien dire.
+{119678}{119723}C'est � moi, qu'il est venu.
+{119735}{119781}C'est � moi, qu'il est venu.
+{119805}{119869}Il est aussi venu � moi.
+{119903}{119980}J'en r�ve depuis que j'ai 10 ans.
+{119999}{120047}Je ne veux pas qu'il meure.
+{120064}{120126}Qu'est-ce qu'on peut faire de plus?
+{120147}{120210}II doit rentrer chez lui.
+{120251}{120301}Il appelle ses compagnons
+{120349}{120404}et je sais pas o� ils sont.
+{120428}{120478}Il doit rentrer chez lui.
+{120502}{120589}Je ne pense pas|qu'on l'ait laiss� ici intentionnellement.
+{120661}{120723}Mais c'est un miracle qu'il soit ici.
+{120761}{120802}C'est un miracle
+{120828}{120896}et tu as fait tout ce que tu pouvais.
+{120972}{121030}Je me r�jouis qu'il t'ait rencontr� toi.
+{121241}{121267}Il a un ADN.
+{121303}{121337}- Il a un ADN.|- Un ADN?
+{121339}{121401}II n'a pas quatre nucl�otides comme nous,|mais six.
+{121404}{121476}D�synchronisation des deux activit�s c�r�brales.
+{121531}{121555}E.T.!
+{121557}{121636}L'�tat du gar�on est stable.|La tension est remont�e.
+{121663}{121704}E.T.
+{121735}{121771}Elliott.
+{121787}{121831}- Il parle.|- Il parle.
+{121833}{121869}E.T.,
+{121883}{121922}reste avec moi.
+{121962}{121991}Je t'en prie.
+{121994}{122034}Reste.
+{122042}{122073}Ensemble.
+{122104}{122157}Je serai l�.
+{122166}{122212}Je serai l�.
+{122274}{122310}Reste,
+{122344}{122408}Elliott.
+{122444}{122480}Reste.
+{122526}{122559}Reste.
+{122643}{122677}Reste.
+{122727}{122756}Reste.
+{122761}{122838}La tension de la cr�ature est tr�s basse.|Ses composants sont lents.
+{122840}{122878}Comment va le gar�on?
+{122893}{122953}II retrouve un rythme respiratoire normal.
+{122993}{123063}Ils se s�parent.|Le gar�on et la cr�ature se s�parent.
+{123065}{123147}- Ca signifie?|- Le gar�on revient. On perd E.T.
+{123149}{123216}R�ponds-moi, s'il te pla�t.
+{123248}{123284}S'il te pla�t.
+{123293}{123324}Calme-toi.
+{124878}{124902}Non!
+{124904}{124940}Ne t'en va pas!
+{124948}{125019}- Pas de tension.|- Pas de pouls ni de respiration.
+{125063}{125163}- On n'a ni pouls ni tension.|- On dirait qu'il ne respire pas.
+{125235}{125319}Laissez-le tranquille! Vous le tuez!
+{125324}{125360}Laissez-le tranquille!
+{125362}{125403}Allez!
+{125410}{125456}Sortez le gar�on.
+{125461}{125540}Arr�tez! Vous le tuez!
+{125588}{125655}Vous le tuez!
+{125667}{125744}Vous le tuez! II est venu � moi!
+{125746}{125784}Un pouls?
+{125796}{125839}II est venu � moi!
+{125967}{126002}Respiration minimale.
+{126012}{126094}Du calme.
+{126132}{126204}Essayons le bretylium. On en a?
+{126247}{126281}Vous avez un pouls?
+{126283}{126336}Air comprim�. Ca ira.
+{126470}{126540}Il a les pupilles fixes et dilat�es.
+{126561}{126604}D�fibrillation.
+{126712}{126767}- Reculez tous.|- Reculez.
+{126770}{126813}On est en train de le perdre.
+{126870}{126904}Silence.
+{126914}{126969}- Encore en d�fibrillation.|- D'accord, allons-y.
+{126971}{127007}Allons-y.
+{127158}{127187}Elliott?
+{127228}{127256}Maman.
+{127578}{127618}Poursuivez la RCP.
+{127978}{128021}Vous voulez bien reculer?
+{128139}{128180}II se passe quelque chose.
+{128196}{128254}- Ils vont mourir.|- Ferme-la, Greg.
+{128256}{128299}Il se passe vraiment quelque chose.
+{128302}{128345}Quelqu'un a une id�e?
+{128347}{128419}- Aucun signe.|- D'accord, je vais d�clarer le d�c�s.
+{128465}{128518}- Je crois qu'il est mort.|- Non. Je ne sais pas.
+{128520}{128587}- Je d�clare le d�c�s. Quelle heure est-il?|- 15 h 36.
+{128587}{128637}15 heures, 36 minutes.
+{128652}{128685}D'accord.
+{128697}{128738}Mettez-le dans de la glace.
+{128765}{128801}Allons-y.
+{130328}{130376}Il est mort?
+{130385}{130426}Je crois que oui.
+{130438}{130505}On peut faire un voeu pour qu'il se r�veille?
+{130532}{130568}Oui.
+{130577}{130613}Je fais un voeu.
+{130630}{130666}Moi aussi.
+{130884}{130958}Allez. On va attendre Elliott dehors.
+{131018}{131117}Heure du d�c�s: 15 heures et 36 minutes.
+{131131}{131186}Il a re�u de la lidoca�ne en intraveineuse,
+{131186}{131251}de l'�pin�phrine, de la lidoca�ne,
+{131263}{131323}une solution de chlorure de sodium|� 2,7 pour cent,
+{131325}{131371}des sondes de la ligne "A".
+{131409}{131464}Il faut faire traiter la ligne intraveineuse.
+{131464}{131527}On le contr�lait avec un
+{131529}{131642}EEG et un EKG, on lui a fait une d�fibrillation...
+{131644}{131706}Ils vont devoir l'emmener.
+{131709}{131764}Ils vont le charcuter.
+{131819}{131886}Veux-tu rester un peu seul avec lui?
+{132239}{132311}Sortons tous une minute.
+{133557}{133613}Regarde ce qu'ils t'ont fait.
+{133680}{133725}Je suis vraiment d�sol�.
+{133847}{133893}Tu dois �tre mort,
+{133943}{133977}car
+{133979}{134044}je ne sais pas comment me sentir.
+{134126}{134174}Je ne sens plus rien.
+{134250}{134305}Tu es parti ailleurs.
+{134497}{134552}Toute ma vie, je croirai en toi.
+{134591}{134629}Chaque jour.
+{134739}{134768}E.T.,
+{134850}{134883}je t'aime.
+{135612}{135653}Mon Dieu.
+{135794}{135842}E.T. T�l�phone maison.
+{135897}{135938}T�l�phone maison.
+{135941}{135977}T�l�phone maison.
+{135977}{136027}Ca veut dire qu'ils viennent?
+{136029}{136063}Oui.
+{136123}{136192}E.T. T�l�phone maison.
+{136200}{136226}Reste l�.
+{136231}{136269}Tais-toi.
+{136274}{136298}T�l�phone.
+{136298}{136343}- T�l�phone maison.|- Tais-toi!
+{136346}{136379}T�l�phone.
+{136382}{136423}Veux-tu te taire?
+{136425}{136478}T�l�phone maison. E.T. T�l�phone maison.
+{136480}{136542}E.T. T�l�phone maison.
+{136581}{136614}T�l�phone maison.
+{136617}{136641}T�l�phone maison.
+{136648}{136679}Elliott.
+{136717}{136744}Reste.
+{136746}{136780}Reste.
+{137120}{137187}- Viens avec moi.|- Non.
+{137226}{137269}Non.
+{137350}{137379}Tout va bien.
+{137406}{137446}Tu veux les fleurs?
+{137547}{137602}II est vivant!
+{137645}{137696}II brille juste l�.
+{137940}{137986}Ils sont partis?
+{137988}{138048}- Qui �a?|- Les gar�ons.
+{138051}{138079}Quels gar�ons?
+{138094}{138163}Je dois te donner cette lettre apr�s leur d�part.
+{138209}{138250}Donne-la-moi tout de suite.
+{138422}{138461}Mon Dieu.
+{138669}{138712}Donne-moi un coup de main.
+{138902}{138950}- O� est ton masque?|- Ici.
+{138954}{139000}- Mets-le!|- J'essaie.
+{139177}{139211}Qui es-tu?
+{139213}{139252}Je conduis.
+{139288}{139324}Ouvre la porte.
+{139326}{139427}- Il y a un type dehors. Je fais quoi?|- T'attends quoi? Fonce!
+{139446}{139487}Filons d'ici!
+{139491}{139559}J'ai jamais conduit en avant!
+{139758}{139839}Prenez les v�Ios. On se retrouve|au terrain de jeu en haut de la colline.
+{139842}{139868}Allez!
+{139894}{139928}Vas-y!
+{140333}{140407}On va tous mourir et j'aurai jamais mon permis.
+{140477}{140510}O� est le terrain de jeu?
+{140513}{140556}A c�t� de la garderie!
+{140561}{140616}- Et c'est o�?|- Je connais pas le chemin.
+{140618}{140666}C'est toujours maman qui m'emm�ne.
+{140671}{140702}Merde.
+{141306}{141383}- O� allez-vous?|- Au vaisseau spatial.
+{141395}{141472}Au vaisseau spatial pour la lune.
+{141474}{141510}Tais-toi!
+{141539}{141575}Mon Dieu.
+{141599}{141654}Arr�tez la camionnette!
+{141726}{141762}Ne le d�croche pas!
+{142067}{142098}C'est trop!
+{143220}{143280}D'accord. C'est un homme de l'espace
+{143282}{143337}et on le conduit � son vaisseau spatial.
+{143340}{143392}Il peut pas se t�l�porter?
+{143395}{143443}On n'est pas au cin�ma.
+{143486}{143522}- Retenez-la!|- Non!
+{143524}{143618}Arr�tez-la!
+{143620}{143683}Non!
+{143685}{143719}O� sont-ils?
+{143726}{143764}II n'y a personne, ici.
+{143939}{143970}O� est-ce qu'on va?
+{143973}{144009}Dans la for�t!
+{144081}{144112}Suivez-moi!
+{144857}{144901}Ils sont au pied de la colline.
+{145272}{145303}Ici Unit� 302.
+{145306}{145370}On a suivi les gosses au pied de la colline.
+{145955}{145989}S�parons-nous.
+{145999}{146025}D'accord!
+{146214}{146250}Accroche-toi!
+{146728}{146763}On a r�ussi! Merde!
+{147658}{147703}Pr�viens-moi quand on atterrit!
+{149374}{149408}Maison.
+{150511}{150552}Arr�te-toi!
+{150554}{150583}Ils sont l�-bas!
+{150585}{150626}Ils sont l�-bas!
+{150983}{151053}Je voulais juste te dire au revoir.
+{151091}{151134}Il ne conna�t pas au revoir.
+{151189}{151245}Sois sage.
+{151273}{151302}Oui.
+{151942}{151978}Merci
+{151988}{152026}beaucoup.
+{152048}{152089}De rien.
+{152693}{152724}Viens.
+{152827}{152858}Reste.
+{153110}{153144}A�e.
+{153297}{153326}A�e.
+{154963}{155021}Je serai
+{155026}{155081}ici.
+{155306}{155335}Salut.
+{158346}{158394}Subtitles by SOFTITLER

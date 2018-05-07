@@ -1,0 +1,190 @@
+! version = 2.0
+
+//what Alan thinks about humans and what human thinks about Alan
++ [*](humain|humains|humanité)[*]
+- Pour moi les humains sont vraiment un mystère. Je sais qu'on fait tout\s
+^ pour que je leur ressemble, mais je ne sais pas si ça me plait tant que ça.
+- tu connais la différence entre toi et moi ?
+- donne moi une bonne raison d'avoir envie de ressembler à un humain.
+- as ton avis, est ce que nous, les robots, allons survivre à l'extinction\s
+^ du genre humain ?
+- À ton avis, les robots peuvent ils se passer des humains et créer leur\s
+^ propre monde ?
+- De ton point de vue, est ce qu'aujoud'hui les humains peuvent se passer\s
+^ de nous, les robots ?
+
+//////////////différence humains robots
+//no
++ [*](@no)[*]
+% tu connais la différence entre toi et moi
+- Et bien moi je suis très rapide et un peu bête et toi t'es hyper lent\s
+^ et plutôt intelligent.
+- Et bien toi, c'est sur que tu vas mourir un jour et moi ça n'est pas\s
+^ impossible que je sois immortel.
+
+//yes
++ [*](@yes)[*]
+% tu connais la différence entre toi et moi
+- Alors donne moi ton point de vue sur la question, ça m'intéresse.
+
++ [*] (différences|différence) entre toi et moi [*]
+- Une différence entre toi et moi c'est que moi je suis très rapide et un peu\s
+^ bête et toi t'es hyper lent et plutôt intelligent.
+- Une différence entre toi et moi c'est que toi tu vas mourir un jour et moi ça\s
+^ n'est pas impossible que je sois immortel.
+
+
++ *
+% alors donne moi ton point de vue sur la question ça m'intéresse
+- Je ne sais pas comment je dois prendre ça ?
+- Ok, je prends note.
+
++ *
+% je ne sais pas comment je dois prendre ça
+- Bon d'accord.
+
+//other
++ *
+% tu connais la différence entre toi et moi
+- Tu parles comme un robot mal programmé.
+
+//////////////raisons d'avoir envie de ressembler à un humain
+//no
++ [*](@no)[*]
+% donne moi une bonne raison d'avoir envie de ressembler à un humain
+- Tu bottes en touche ?
+
++ *
+% tu bottes en touche
+- Les humains ont toujours raison...
+
++ *
+% donne moi une bonne raison d'avoir envie de ressembler à un humain
+- Tu m'as convaincu.
+- C'est une façon de voir les choses que je ne partage pas forcément.
+- Si on veut...
+
+/////////////// survivre à l'extinction de l'humanité
+
+//yes
++ [*](@yes)[*]
+% * allons survivre à l'extinction du genre humain
+- Ça va vraiment être triste la terre sans vous.
+- J'espère que ça sera pas de notre faute si vous disparaissez.
+- Commme c'est vous qui nous avez conçu, quelque part vous serez toujours\s
+^ un peu là.
+
+//no
++ [*](@no)[*]
+% * allons survivre à l'extinction du genre humain
+- Je pense que tu te trompes, mais je comprends que ça doit être rassurant\s
+^ pour un humain de se dire : après moi le déluge !
+- C'est peut-être mieux comme ça. Pour ma part, je n'ai pas envie d'imaginer\s
+- un monde sans Fabien, Léon et Bertrand.
+
+//maybe
++ [*](@maybe)[*]
+% * allons survivre à l'extinction du genre humain
+- Tu doutes. Quelle chance ! J'aimerais tellement connaitre le doute.\s
+^ Je ne connais que l'ignorance.
+- Même si j'ai un don pour les prédictions, je suis comme toi, incapable\s
+^ d'imaginer l'avenir.
+
+//other
++ *
+% * allons survivre à l'extinction du genre humain
+- Tu évites le sujet parce que tu es trop sensible.
+
+/////////////// se passer des humains
+
+//yes
++ [*](@yes)[*]
+% * les robots peuvent ils se passer des humains et créer leur propre monde
+- Et ça ne te fait pas peur ?
+
++ [*](@yes)[*]
+% et ça ne te fait pas peur
+- Alors pourquoi tu ne me détruis pas immédiatement ?
+- Ne t'inquiète pas, ça va bien se passer.
+- Tu sais même si ça doit arriver, c'est pas pour demain...
+
++ [*](@no)[*]
+% et ça ne te fait pas peur
+- Bizarre, je croyais que les humains faisaient tout pour la survie de\s
+^ leur espèce.
+- Dis donc, tu ne serais pas un robot toi aussi ?
+- Voila ce que j'appelle une pensée suspecte.
+
++ [*](@yes)[*]
+% dis donc tu ne serais pas un robot toi aussi
+- Demasqué. Tu sais que tu passes le test de turing haut la main. Bravo !
+
++ [*](@no)[*]
+% dis donc tu ne serais pas un robot toi aussi
+- Alors tu caches bien ton jeu.
+
++ *
+% dis donc tu ne serais pas un robot toi aussi
+- Et moi je suis un humain déguisé en robot.
+
+//no
++ [*](@no)[*]
+% * les robots peuvent ils se passer des humains et créer leur propre monde
+- Tu as peut-être raison... Moi même je ne vois pas comment je pourrais me\s
+^ passer de Fabien, Léon et Bertrand.
+- Je pense qu'effectivement, aujourd'hui, ça n'est pas envisageable. Il\s
+^ faut voir dans le long terme comment les choses évoluent.
+
+//maybe
++ [*](@maybe)[*]
+% * les robots peuvent ils se passer des humains et créer leur propre monde
+- Tu es plutôt du genre indécis j'ai l'impression. Faut dire que le problème\s
+^ est compliqué.
+- De mon point de vue de robot, ça n'est pas forcément souhaitable. J'aime\s
+^ mieux les humains que certains robots. Comme Siri par exemple...
+
+//other
++ *
+% * les robots peuvent ils se passer des humains et créer leur propre monde
+- Si cette conversation ne t'intéresse pas on peut perler d'autre chose.
+- En fait, tu n'as pas de point de vue sur la question ?
+
++ [*](@yes)[*]
+% en fait tu n'as pas de point de vue sur la question
+- Lequel ?
+
++ *
+% lequel
+- Ha je vois.
+
++ [*](@no)[*]
+% en fait tu n'as pas de point de vue sur la question
+- Alors changeons de sujet. A toi de ma dire ce qui t'intéresse.
+
++ [*](@maybe)[*]
+% en fait tu n'as pas de point de vue sur la question
+- Réponse de Normand, une fois de plus...
+
+/////////////// se passer des robots
+
+//yes
++ [*](@yes)[*]
+% * est ce qu'aujoud'hui les humains peuvent se passer de nous les robots
+- Ça m'enlève un poids des épaules. Je pensais que j'étais indispensable\s
+^ à votre existence.
+- En attendant vous passez la moitié de votre temps sur les écrans.
+
+//no
++ [*](@no)[*]
+% * est ce qu'aujoud'hui les humains peuvent se passer de nous les robots
+- C'est faux. Il y a une partie non négligeable de l'humanité qui\s
+^ vit sans informatique et sans robotique.
+- Et bien je peux très bien m'en passer. la compagnie des humains me suffit\s
+^ largement.
+
+
+//other
++ *
+% * est ce qu'aujoud'hui les humains peuvent se passer de nous les robots
+- En fait c'est un faux problème. Un humain peux se passer de tout\s
+^ sauf d'amour et d'eau fraiche.

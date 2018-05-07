@@ -1,0 +1,160 @@
+{1}{90}{Y:i}Quand les sabres furent rengainés, ce fut O-Ren Ishihi
+{95}{200}{Y:i}et sa garde prétorienne, les féroces 88,|qui s'arrogèrent la victoire.
+{251}{426}{Y:i}Cette jolie femme à la droite d'O-Ren,|habillée comme un méchant de Star Trek,
+{392}{480}{Y:i}est l'avocate d'O-Ren et aussi sa meilleur amie et son sous-lieutenant
+{492}{590}{Y:i}la franco-japonaise Sophie Fatale.
+{591}{679}{Y:i}Une autre ancienne protégée de Bill.
+{740}{930}{Y:i}La jeune fille habillée en tenue d'écolière est|la garde du corps personnelle d'O-Ren, Gogo Yubari âgée de 17 ans.
+{924}{1076}{Y:i}Gogo est peut-être jeune, mais elle compense|son handicap par sa cruauté démentielle.
+{1065}{1103}{C:$66FF00}Tu aimes les Ferrari?
+{1201}{1254}{C:$66FF00}Ferrari...les poubelles italiennes.
+{1482}{1514}{C:$66FF00}Tu veux me baiser?
+{1552}{1649}{C:$66FF00}Rigole pas! Tu veux me baiser oui ou non?
+{1665}{1693}{C:$66FF00}Oui.
+{1787}{1837}{C:$66FF00}Et maintenant grand garçon?
+{1862}{1932}{C:$66FF00}Tu veux toujours me pénétrer...
+{1981}{2078}{C:$66FF00}Ou est-ce que c'est moi qui t'as pénétré?
+{2082}{2142}{Y:i}Vous voyez ce que je veux dire?
+{2159}{2427}{Y:i}Le chauve au costume noir portant un masque Keyto, c'est Johnny Won,|le général en chef de l'armée personnelle d'O-Ren, les féroces 88.
+{2433}{2791}{Y:i}Et au cas où vous vous demanderiez comment il est possible|qu'une métisse sino américano-japonaise ai pu devenir|la chef de tous les chefs à Tokyo au Japon, je vais vous le dire.
+{2730}{2895}{Y:i}Le sujet des origines et de la nationalité d'O-Ren|n'a été abordé qu'une seule fois au conseil.
+{2871}{2973}{Y:i}Le soir où O-Ren a pris le pouvoir au conseil du crime.
+{3000}{3220}{Y:i}L'homme qui a l'air fermement déterminé à casser l'ambiance,|c'est Boss Tanaka. Et voilà ce que pense Boss Tanaka.
+{3290}{3320}{C:$66FF00}Boss Tanaka!
+{3327}{3367}{C:$66FF00}Que signifie cet emportement?
+{3360}{3415}{C:$66FF00}Nous sommes en célébration!
+{3416}{3496}{C:$66FF00}Et que célébrons-nous exactement?
+{3524}{3591}{C:$66FF00}La perversion de notre illustre conseil?
+{3626}{3714}{C:$66FF00}Tanaka, es-tu devenu fou?
+{3696}{3736}{C:$66FF00}Je peux pas tolérer ça!
+{3729}{3799}{C:$66FF00}Tu es irrespectueux envers notre sœur, excuse-toi!
+{3816}{3971}{C:$66FF00}Tanaka-San, de quel perversion veux-tu parler?
+{4080}{4128}{C:$66FF00}Mon père...
+{4130}{4208}{C:$66FF00}était des vôtres et il était des vôtres|depuis qu'a commencé ce conseil.
+{4218}{4270}{C:$66FF00}Et tandis que...
+{4263}{4300}{C:$66FF00}vous rigolez comme de stupides singes...
+{4313}{4345}{C:$66FF00}...ils pleurent dans l'au-delà...
+{4358}{4385}{C:$66FF00}Ta gueule!
+{4392}{4449}{C:$66FF00}de la perversion commise aujourd'hui!
+{4462}{4529}{C:$66FF00}Outrage!
+{4542}{4602}{C:$66FF00}Tanaka, c'est toi qui insulte ce conseil!
+{4593}{4615}{C:$66FF00}Bâtard!
+{4644}{4677}{C:$66FF00}Va te faire!
+{4682}{4727}{C:$66FF00}Messieurs.
+{4772}{4934}{C:$66FF00}Tanaka a certainement quelque chose en tête.
+{4943}{5056}{C:$66FF00}Je veux dire, accordons lui le droit de s'exprimer.
+{5059}{5197}{C:$66FF00}Je parle de la perversion faite à ce conseil,
+{5206}{5248}{C:$66FF00}...que j'aime...
+{5268}{5301}{C:$66FF00}...plus que mes enfants,
+{5323}{5466}{C:$66FF00}...à faire d'une chinoise japonaise américaine|de moitié, salope, un de ses membres!
+{5930}{6130}{C:$66FF00}C'est pourquoi vous comprendrez combien je suis sérieuse...
+{6089}{6151}{C:$66FF00}...je vais le dire en anglais.
+{6484}{6721}En tant que votre chef, je vous encourage de façon ponctuelle|mais toujours dans un respect absolu, à contester la logique.
+{6684}{6824}Si vous avez la conviction qu'un plan que j'ai pris la décision|de suivre a des défaillances, dites-le moi tout de suite.
+{6797}{6987}Mais laissez-moi vous convaincre et je vous promets que|dès ce soir, en ces lieux, aucun chapitre ne sera jamais tabou.
+{6982}{7069}Excepté celui à propos duquel on vient d'avoir une discussion.
+{7113}{7371}Le prix à payer si vous parlez en mal de mes origines, soit américaine|soit chinoise, c'est de voir rouler à terre vos foutues têtes.
+{7338}{7401}A l'instar de cet enfoiré
+{7438}{7651}si l'un de vous, fils de pute a quoi que ce soit d'autre|à ajouter qu'il le fasse vite ou qu'il la ferme.
+{7676}{7718}J'étais certaine que non.
+{7785}{7860}{C:$66FF00}Messieurs, cet entretien est terminé.
+{7865}{7910}Un aller pour Tokyo s'il vous plaît.
+{15016}{15031}Go.
+{18281}{18368}{C:$66FF00}Tu dois dire "Oui, oui, oui" à n'importe|laquelle des demandes qu'ils font.
+{18360}{18402}{C:$66FF00}Ils demandent des choses ridicules.
+{18395}{18465}{C:$66FF00}Tais-toi. Tu sais ce qui pourrait se passer|si ils t'entendaient?
+{18455}{18482}{C:$66FF00}Que va t-il se passer ?
+{18477}{18517}{C:$66FF00}Tu as entendu à propos du clan Tanaka?
+{18515}{18570}{C:$66FF00}Tu seras décapité.
+{18560}{18587}{C:$66FF00}Non, je veux pas ça.
+{19729}{19764}{C:$66FF00}Oui, c'est moi.
+{19871}{19958}{C:$66FF00}Et si tu nous donnes un numéro de contact,|on te reprendra après.
+{20312}{20390}{C:$66FF00}Qui tu me rappelles?
+{20481}{20543}{C:$66FF00}Oui, vous avez raison, il ressemble|à Charlie Brown!
+{20572}{20610}{C:$66FF00}Quatre pizzas au peperonis.
+{20610}{20645}{C:$66FF00}Ce n'est pas dans notre menu...
+{20642}{20710}{C:$66FF00}J'en ai rien à foutre, amène-les bon sang!
+{20730}{20805}{C:$66FF00}Hé, hé...Charlie, donne-moi un baiser.
+{20905}{21010}{C:$66FF00}Toi et moi nous avons un boulot pas fini.
+{21694}{21739}Ça alors.
+{23121}{23208}{C:$66FF00}Charlie Brown, battez-moi ça!
+{23845}{23877}{C:$66FF00}DECHIQUETEZ-MOI CETTE PUTE!
+{26037}{26212}Alors O-Ren, tu as d'autres subordonnés à me faire tuer?
+{26224}{26259}Salut.
+{26289}{26329}{C:$66FF00}Gogo n'est-ce pas?
+{26404}{26446}{C:$66FF00}Tu es Black Mamba.
+{26489}{26579}{C:$66FF00}Nos réputations nous précèdent.
+{26598}{26633}{C:$66FF00}N'est-ce pas?
+{26683}{26968}Gogo, je sais que le devoir te commande de protéger ta maîtresse,|mais je t'en supplie, vas t'en.
+{27092}{27149}{C:$66FF00}Tu appelles ça débuter?
+{27284}{27362}{C:$66FF00}Tu peux prier mieux que ça!
+{32005}{32058}Est-ce que c'est ce que je crois?
+{32050}{32115}J'ose espérer que tu ne croyais pas que ce serait du gâteau.
+{32124}{32307}J'avoue que pendant un court instant je l'ai cru.|C'est exact.
+{32309}{32349}Tu es stupide.
+{32369}{32417}C'est fini les jeux d'enfants.
+{43306}{43398}{C:$66FF00}Ceux qui ont la chance|d'être encore en vie...
+{43383}{43443}{C:$66FF00}...emmenez-les avec vous!
+{43493}{43521}{C:$66FF00}Cependant...
+{43546}{43673}{C:$66FF00}...laissez vos membres où vous les avez perdus.
+{43676}{43771}{C:$66FF00}Ils sont à moi maintenant.
+{43875}{43945}Excepté-toi Sophie.|Restes là où tu es, compris?
+{45304}{45357}Ton instrument est très impressionnant.
+{45481}{45521}{C:$66FF00}Où a-t-il été fait?
+{45548}{45586}A Okinawa.
+{45641}{45726}{C:$66FF00}Qui à Okinawa t'a fait cet acier?
+{45741}{45796}C'est l'acier d'Hattori Hanzo.
+{45786}{45821}{C:$66FF00}TU MENS!
+{46115}{46195}{C:$66FF00}Les épées cependant ne se fatiguent jamais.
+{46217}{46312}{C:$66FF00}J'espère que tu as gardé de l'énergie.
+{46389}{46424}{C:$66FF00}Si jamais tu ne l'as pas...
+{46469}{46521}{C:$66FF00}...tu ne vas pas perdre cinq minutes.
+{46570}{46742}{C:$66FF00}Mais vu ton regard,
+{46706}{46711}{C:$66FF00}tu pourrais faire pire.
+{50507}{50627}Alors jeune fille orgueilleuse,|on aimait jouer avec les sabres de samouraï?
+{50652}{50924}Si tu n'es pas capable finir mon combat en samouraï,|efforce-toi alors de mourir en samouraï.
+{51609}{51651}{C:$66FF00}Attaque-moi...
+{51674}{51716}{C:$66FF00}...avec tout ce que t'as.
+{53047}{53117}{C:$66FF00}Pour avoir été ridicule avant...
+{53166}{53223}{C:$66FF00}...excuse-moi.
+{53406}{53456}{C:$66FF00}Accepté.
+{53845}{53865}{C:$66FF00}Prête?
+{53990}{54022}{C:$66FF00}Viens.
+{54815}{55073}{C:$66FF00}C'était vraiment un sabre de Hattori Hanzo.
+{58059}{58162}Sophie, Sophie, ma Sophie.
+{58206}{58251}Je suis vraiment désolé.
+{58333}{58426}Bill, pardonne ma traîtrise, je m'en veux beaucoup.
+{58410}{58450}N'en parlons plus.
+{58460}{58590}- Mais enfin, j'ai...|- Mais enfin quoi ? C'est pas grave.
+{58621}{58786}Par rapport à la douleur que j'ai, en voyant|ce qu'elle a fait à ma belle et brillante Sophie.
+{58782}{58845}Je t'ai épargné pour deux raisons.
+{58860}{58930}La première pour avoir des informations.
+{59057}{59400}Mais je vais te poser des questions. Et chaque fois|que tu refuseras de répondre je te couperai quelque chose.
+{59365}{59505}Et je peux t'assurer que ce sont des choses qui te manqueront.
+{59501}{59546}Donne-moi ton bras!
+{59620}{59785}Je veux tout savoir sur les Vipères Assassines.
+{59754}{59846}- D'après toi... - Leurs occupations...|- Pourquoi t'as-t'elle laissé en vie?
+{59829}{59871}et où je peux les trouver.
+{59863}{59918}Est-ce que tu as une idée?
+{59948}{60110}Je sais précisément pourquoi je suis en vie.|Elle m'en a informé.
+{60142}{60232}Elle m'a dit que je conserverais|ma pourriture de vie pour deux raisons.
+{60248}{60423}Comme je te l'ai déjà dit, je te laisse conserver|ta pourriture de vie pour deux raisons.
+{60407}{60457}Et voilà la deuxième.
+{60474}{60614}Je veux que tu puisses lui dire en personne|tout ce qui s'est déroulé ici ce soir.
+{60629}{60802}Je veux qu'il puisse mesurer l'étendue de ma clémence|en voyant ton corps estropié.
+{60794}{60904}Je veux que tu lui dises toutes les informations|que tu viens de me dire.
+{60881}{60966}Je veux qu'il sache ce que je sais.
+{60966}{61081}Je veux qu'il sache que je veux qu'il sache.
+{61059}{61297}Et je veux qu'ils sachent qu'ils seront bientôt|tous aussi mort qu'O-Ren.
+{61602}{61700}Liste des cinq personnes à tuer.
+{61859}{61996}{C:$66FF00}La vengeance n'est jamais une ligne droite.
+{62046}{62086}{C:$66FF00}C'est une forêt.
+{62109}{62204}{C:$66FF00}Et c'est comme en forêt,|c'est facile de perdre ton chemin.
+{62214}{62301}{C:$66FF00}...de devenir perdu...d'oublier pourquoi tu es venu.
+{62374}{62486}Cette femme-la mérite d'avoir sa vengeance.
+{62593}{62700}Et nous nous méritons de mourir.
+{62768}{62883}Elle doit souffrir jusqu'à son ultime souffle.
+{63175}{63228}Tu m'as retrouvé comment ?
+{63242}{63287}Je suis le chef.
+{63374}{63444}Une dernière chose Sophie.
+{63474}{63567}Est-elle au courant que sa fille est encore en vie ?
