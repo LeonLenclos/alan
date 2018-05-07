@@ -244,7 +244,9 @@ class Alan(chatterbot.ChatBot):
         elif command == 'rst': self.reset() # reset
         elif command == "music":
             pygame.mixer.Sound("./ressources/musique_generative.wav").play()
-        else : raise KeyError("The {} command does not exist".format(command))
+        elif command == "bip":
+            pygame.mixer.Sound("./ressources/bip.wav").play()
+        else : raise(KeyError, "The {} command does not exist".format(command))
 
     def finish(self):
         """Do exit job before quitting"""
