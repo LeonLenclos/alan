@@ -91,7 +91,7 @@
 ^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
-^ j'aimerais beaucoup|j'aimerais bien|je veux bien
+^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet
 
 //yesno = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
@@ -231,6 +231,11 @@
 ! array scientist = scientifique|scientifiques|mathématicien|mathématicienne
 ^ mathématiciens|mathématiciennes|informaticien|informaticienne|informaticiens
 ^ informaticiennes|chercheurs|chercheur|chercheuse|chercheuses
+
+
+//array about joke
+! array joke = blague|blagues|histoire drôle|histoires drôles|jeu de mot
+^ jeu de mots|jeux de mot|jeux de mots|histoire drole|histoires droles
 
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
