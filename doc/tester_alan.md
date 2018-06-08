@@ -18,7 +18,7 @@ En général :
 - On apprécie les répliques courtes même si ça ne dois pas être une règle absolue.
 - On évite le Vouvoyment
 
-## Test sur des questions
+## Test sur des questions
 
 
 Un des types d'entrées les plus fréquents c'est les questions. Question à propos d'Alan, questions de culture g, questions "philosophiques", etc. C'est donc une première catégorie d'entrée à tester. Bien sûr nous n'attendons pas une réponse correcte ni même cohérente à ces questions. On apprécierait cependant qu'il ai l'air de comprendre que c'est une question.
