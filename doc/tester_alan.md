@@ -66,7 +66,7 @@ Exemples d'entrées à tester :
 - Surtout pas.
 
 
-## Test sur des phrases affirmatives
+## Test sur des phrases affirmatives
 
 
 L'uttilisateur a l'impression qu'il peut apprendre des choses à Alan, que ce soit à propos de l'uttilisateur, à propos d'alan, à propos du contextes ou culture g. Alan dois conforter l'uttilisateur dans cette impression.
