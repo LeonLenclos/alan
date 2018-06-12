@@ -4,6 +4,7 @@ Le mieux restera toujours d'avoir des conversations, des échanges de répliques
 
 Pour le tester sur des listes d'entrées on vous propose ce document comme base.
 
+
 ## Qu'attend-t-on comme réponse
 
 Une réponse satisfaisante peut être :
@@ -19,6 +20,14 @@ En général :
 
 - On apprécie les répliques courtes même si ça ne dois pas être une règle absolue.
 - On évite le vouvoiement
+
+Il faut garder à l'esprit que Alan doit pouvoir fonctionner selon deux modes distincts d'utilisation :
+
+- Utilisation publique dans un contexte d'installation, de performance ou sur internet.
+- En mode spectacle pendant Turing Test.
+
+L'objectif est de confier ces deux tâches à une seule version d'Alan, la création se nourrissant de cette contrainte.
+
 
 ## Test sur des questions
 
