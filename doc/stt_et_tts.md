@@ -21,7 +21,7 @@ $ wget http://tcts.fpms.ac.be/synthesis/mbrola/dba/fr1/fr1-990204.zip
 $ unzip fr1-990204.zip
 $ sudo mkdir /usr/share/mbrola/
 $ sudo mv fr1/fr1 /usr/share/mbrola/
-$ espeak -vmb-fr1 "Bonjour monde"
+$ espeak -v mb-fr1 "Bonjour monde"
 ```
 
 - [liste des langues mbrola](http://tcts.fpms.ac.be/synthesis/mbrola/mbrcopybin.html)
