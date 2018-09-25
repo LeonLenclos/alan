@@ -19,6 +19,7 @@ import wave
 import chatterbot
 from chatterbot.conversation import Statement
 import pygame
+import nltk
 import random
 import traceback
 
@@ -31,6 +32,12 @@ from test.simple_talk import test
 
 # Init pygame.mixer in order to play wav sounds
 pygame.mixer.init()
+
+# Download needed nltk ressources
+try : nltk.data.find('tokenizers/punkt')
+except LookupError:
+    print('Resource punkt not found (NLTK). So I download it...')
+    nltk.download('punkt')
 
 class Alan(chatterbot.ChatBot):
     """
@@ -64,15 +71,12 @@ class Alan(chatterbot.ChatBot):
         elif type(settings_files) == str: self.load_settings(settings_files)
         else : raise('TypeError', 'setting_files must be list or str')
 
-
-
         # Alan vars
         self.age = self.get_age()
         self.lines_of_code = self.get_lines_of_code()
         self.last_results=[]
         self.user_name = None
         self.error_messages = self.settings.get('error_messages', None)
-
 
         # init chatterbot
         super().__init__(self.name, **self.settings)
@@ -246,6 +250,8 @@ class Alan(chatterbot.ChatBot):
             pygame.mixer.Sound("./ressources/musique_generative.wav").play()
         elif command == "bip":
             pygame.mixer.Sound("./ressources/bip.wav").play()
+        elif command.startswith("setmaxconf"):
+            self.setmaxconf(*command.split(' ')[1:])
         else : raise(KeyError, "The {} command does not exist".format(command))
 
     def finish(self):
@@ -293,6 +299,13 @@ class Alan(chatterbot.ChatBot):
                         infos += "NOT ALLOWED TO REPEAT"
                     infos += "(%(confidence).2f) '%(text)s'" % result
         print(infos)
+
+    def setmaxconf(self, identifier, value):
+        """Set the max confidence of the adapter with the given identifier
+        to the given value"""
+        logic_adapter = self.logic.get_adapter(identifier)
+        logic_adapter.max_confidence = float(value)
+        print("DEBUG : setting mc of {} to {}".format(logic_adapter, float(value)))
 
     def main_loop(self):
         """Run the main loop"""

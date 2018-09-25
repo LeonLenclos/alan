@@ -15,3 +15,6 @@ log.txt
 # source pip file
 src/*
 src/
+
+# models files
+brain/models/*

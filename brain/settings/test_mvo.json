@@ -1,0 +1,11 @@
+{
+    "import" : ["base", "interface"],
+    "logic_adapters": [
+        {
+            "identifier": "test mvo",
+            "allowed_to_repeat": true,
+            "config_file": ["./models/config_qa.ini"],
+            "import_path" : "logic.MVOChatbotAdapter"
+        }
+    ]
+}
