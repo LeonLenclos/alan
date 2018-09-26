@@ -5,7 +5,14 @@ from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from sqlalchemy.ext.declarative import declared_attr, declarative_base
 
-from chatterbot.conversation.statement import StatementMixin
+import sys
+
+# A AMELIORER
+if sys.version_info[1] > 5:
+    from chatterbot.conversation.statement import StatementMixin
+else :
+
+    from chatterbot.conversation import StatementMixin
 
 TAG_NAME_MAX_LENGTH = 50
 SPEAKER_NAME_MAX_LENGTH = 50
