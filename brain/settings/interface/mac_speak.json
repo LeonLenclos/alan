@@ -6,7 +6,7 @@
         "delay": 0
       },
       {
-        "import_path": "output.MacSayAdapter",
+        "import_path": "output.MacSayAdapter"
       }
     ]
 }

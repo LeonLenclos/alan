@@ -19,7 +19,7 @@
 // memes se contient lui meme ?
 
 + [*](lensemble|ensemble)[*]
-^ (les ensembles|ensembles|ensemble)[*]
+^ (les ensembles|en sembles|ensemble)[*]
 ^ (contiennent|contienent|contienne|contiene)[*]
 ^ (eux memes|eu memes|eux memes|eu memes)[*]
 
