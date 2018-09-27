@@ -8,6 +8,7 @@ This module describe the Alan class and contain a main function called when the
 module is being run
 """
 
+import subprocess
 import argparse
 import json
 import re
@@ -323,6 +324,7 @@ def main():
         # locals()[TEST_MODULE].test(alan)
     else :
         # discussion loop
+        subprocess.run('clear')
         print('-'*10, alan.status(), '-'*10, sep="\n")
         alan.main_loop()
         print('\n' + '-'*10)
