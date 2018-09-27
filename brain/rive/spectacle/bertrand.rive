@@ -15,20 +15,16 @@
 
 //Il y a une partie de ton cerveau, une zone de ton intelligence
 //que nous n allons pas programmer ici au labo.
-+ [*]cerveau[*]labo[*]
++ [*]experience[*]cerveau[*]
 - Qu'est ce que c'est que cette histoire... Je n'ai pas envie d'être\s
-^ programmé par n'importe qui, moi !
+^ reprogrammé n'importe comment, moi !
 
 //ca va bien se passer.
 //On ve te mettre dans un mode d apprentissage et on va t injecter
-//des milliers de dialogues de films
+//des millions de dialogues de films
 + [*]injecter[*](film|films)[*]
-- Super j'adore les films. C'est du cinéma... C'est le septième art.
-
-//Le problème c'est qu'il y a aussi des films pas terribles
-+ [*]films pas terribles[*]
-- Je ne comprends pas... vous voulez m'injecter des films pas terribles ?\s
-^ Ca va laisser des traces dans mon cerveau, non ?
+- Je ne comprends pas... vous voulez m'injecter des films ?\s
+^ Ca va laisser des traces bizarres dans mon cerveau, non ?
 
 // Ne t'inquiète pas. On va sélectionner.
 + [*](on va sélectionner|faire une sélection)[*]
