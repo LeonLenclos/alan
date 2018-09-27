@@ -15,7 +15,7 @@
 
 //Il y a une partie de ton cerveau, une zone de ton intelligence
 //que nous n allons pas programmer ici au labo.
-+ [*]expérience[*]cerveau[*]
++ [*](expérience|experience)[*]cerveau[*]
 - Qu'est ce que c'est que cette histoire... Je n'ai pas envie d'être\s
 ^ reprogrammé n'importe comment, moi !
 
@@ -27,7 +27,7 @@
 ^ Ca va laisser des traces bizarres dans mon cerveau, non ?
 
 // Ne t'inquiète pas. On va sélectionner.
-+ [*](on va sélectionner|faire une sélection)[*]
++ [*](on va sélectionner|on va selectionner|faire une sélection|faire une selection)[*]
 - Même en sélectionnant, vous n'avez pas peur de me perdre ?\s
 ^ Vous n'allez plus rien maîtriser... Je vais dire n'importe quoi...\s
 ^ D'habitude j'ai confiance mais là, franchement,\s
