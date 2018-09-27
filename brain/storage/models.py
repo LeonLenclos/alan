@@ -8,10 +8,9 @@ from sqlalchemy.ext.declarative import declared_attr, declarative_base
 import sys
 
 # A AMELIORER
-if sys.version_info[1] > 5:
+if sys.version_info[1] == 5:
     from chatterbot.conversation.statement import StatementMixin
 else :
-
     from chatterbot.conversation import StatementMixin
 
 TAG_NAME_MAX_LENGTH = 50
