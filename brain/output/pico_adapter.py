@@ -30,10 +30,13 @@ class EspeakAdapter(OutputAdapter):
                    '-l', 
                    'fr-FR',
                    '-w',
-                   'tmp.wav','\"', statement.text, '\"']
+                   'tmp.wav', statement.text]
         subprocess.run(command_tts)
-        command_pitch = [ 'sox', 'tmp.wav', 'tmp_pitched.wav', 'pitch', self.pitch]
+        command_pitch = [ 'sox', 'tmp.wav', 'tmp.wav', 'pitch', self.pitch]
         subprocess.run(command_pitch)
-        command_play = [ 'play', 'tmp_pitched.wav']
+        command_play = [ 'play', 'tmp.wav']
         subprocess.run(command_play)
+        command_remove = [ 'rm', 'tmp.wav']
+        subprocess.run(command_remove)
+        
         return statement
