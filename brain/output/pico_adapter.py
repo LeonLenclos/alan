@@ -5,7 +5,7 @@ from chatterbot.output import OutputAdapter
 class EspeakAdapter(OutputAdapter):
     """
     This is an output_adapter to give a voice to the chatbot.
-    With the `espeak` command of linux.
+    With the `Pico` text-to-speach software.
     """
     def __init__(self, **kwargs):
         """
@@ -14,9 +14,7 @@ class EspeakAdapter(OutputAdapter):
         speed : the speed (see espeak man)
         """
         super().__init__(**kwargs)
-        self.voice = kwargs.get("voice", 'fr')
-        self.speed = kwargs.get("speed", 175)
-        self.gap = kwargs.get("gap", 10)
+        self.pitch = kwargs.get("pitch", -300)
 
     def process_response(self, statement, session_id=None):
         """
@@ -28,10 +26,14 @@ class EspeakAdapter(OutputAdapter):
         # see : https://stackoverflow.com/a/50072485/8752259
         # add it if you want. (  '_>')
 
-        command = [ 'espeak',
-                   '-v', self.voice,
-                   '-s', str(self.speed),
-                   '-g', str(self.gap),
-                   statement.text]
-        subprocess.run(command)
+        command_tts = [ 'pico2wave',
+                   '-l', 
+                   'fr-FR',
+                   '-w',
+                   'tmp.wav','\"', statement.text, '\"']
+        subprocess.run(command_tts)
+        command_pitch = [ 'sox', 'tmp.wav', 'tmp_pitched.wav', 'pitch', self.pitch]
+        subprocess.run(command_pitch)
+        command_play = [ 'play', 'tmp_pitched.wav']
+        subprocess.run(command_play)
         return statement
