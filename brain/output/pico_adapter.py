@@ -2,7 +2,7 @@ from time import sleep, clock
 import subprocess
 from chatterbot.output import OutputAdapter
 
-class EspeakAdapter(OutputAdapter):
+class PicoAdapter(OutputAdapter):
     """
     This is an output_adapter to give a voice to the chatbot.
     With the `Pico` text-to-speach software.
@@ -32,8 +32,8 @@ class EspeakAdapter(OutputAdapter):
                    '-w',
                    'tmp.wav', statement.text]
         subprocess.run(command_tts)
-        command_pitch = [ 'sox', 'tmp.wav', 'tmp.wav', 'pitch', self.pitch]
-        subprocess.run(command_pitch)
+        # command_pitch = [ 'sox', 'tmp.wav', 'tmp.wav', 'pitch', self.pitch]
+        # subprocess.run(command_pitch)
         command_play = [ 'play', 'tmp.wav']
         subprocess.run(command_play)
         command_remove = [ 'rm', 'tmp.wav']
