@@ -19,36 +19,26 @@
 // memes se contient lui meme ?
 
 + [*](lensemble|ensemble)[*]
-^ (les ensembles|ensembles|ensemble)[*]
+^ (les ensembles|en sembles|ensemble)[*]
 ^ (contiennent|contienent|contienne|contiene)[*]
 ^ (eux memes|eu memes|eux memes|eu memes)[*]
 
 - C'est absurde, un tel ensemble ne pourrait pas exister... Tu sembles\s
-^ chercher à me piéger, mais Bertrand m'a installé un logiciel anti paradoxes.
+^ chercher à me piéger.
 
 + [*]cette phrase est fausse[*]
 - Cette phrase est fausse
 
-+ [alan] dis cette *
++ [alan] dis *
 - <star>
 
-+ [*]etait[*](vrai|vraie|faux|fausse) ou (vrai|vraie|faux|fausse)[*]
++ [*](vrai|vraie|faux|fausse) ou [*](vrai|vraie|faux|fausse)[*]
 - Je viens de le dire : cette phrase est fausse... c'était donc vrai car j'ai\s
 ^ dis que c'était faux... et en effet c'était faux... donc c'était vrai que\s
 ^ c'était faux. Non. c'était donc vrai. oui donc la phrase est vraie... Cette\s
 ^ phrase est fausse c'était vrai... Donc c'était faux car c'est vrai. C'était.\s
 ^ faux donc c'était pas faux donc vrai. llllvrai faux
-^  ffffffffffffffffffffffffffffffffffffffffffffffff
-^  ffffffffffffffffffffffffffffffffffffffffffffffff
-^  ffffffffffffffffffffffffffffffffffffffffffffffff
-^  ffffffffffffffffffffffffffffffffffffffffffffffff
-^  ffffffffffffffffffffffffffffffffffffffffffffffff
-^  ffffffffffffffffffffffffffffffffffffffffffffffff
-^  ffffffffffffffffffffffffffffffffffffffffffffffff
-^  ffffffffffffffffffffffffffffffffffffffffffffffff
-^ c'était faux, llll c'était vrai... enfin c'était faux, c'était... vrai\s
-^ c'était faux, c'était vrai, c'était... hem faux, c'était vrai car c'était\s
-^ faux car c'était vrai, non. C'était faux, c'était vrai. C'était faux.\s
+^ c'était faux, llll
 ^ C'était vrai car C'était faux car C'était vrai car C'était faux car\s
 ^ C'était vrai car C'était faux car C'était vrai car C'était faux car\s
 ^ C'était vrai car C'était faux car C'était vrai car C'était faux car\s
@@ -88,8 +78,7 @@
 ^ C'était vrai car C'était faux car C'était vrai car C'était faux car\s
 ^ C'était vrai car C'était faux car C'était vrai car C'était faux car\s
 ^ C'était vrai car C'était faux car C'était vrai car C'était faux car\s
-^ C'était vrai car C'était faux car C'était vrai car C'était faux car\s
-^ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+^ C'était vrai car C'était faux car C'était vrai car C'était faux car
 
 
 //Si un menteur dis je mens tout le temps, est ce qu'il dit la vérité

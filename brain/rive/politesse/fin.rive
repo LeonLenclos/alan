@@ -5,7 +5,7 @@
 
 ! array ciao = ciao|ciao alan|allez ciao|aller ciao|quitte|quitte s'il te plaît
 ^ bye|bye bye|à bientot|à bientôt|à plus tard|à plus|au revoir|adieu|adios
-^ j'y vais|je m'en vais|je te laisse|j'ai un sanglier sur le feu
+^ j'y vais|je m'en vais|je te laisse|j'ai un sanglier sur le feu|aurevoir
 
 + [_](@ciao)[_][_]
 * <get name> ne undefined => Ciao <get name> !
@@ -14,7 +14,7 @@
 - À la prochaine *quit*
 - À la revoyure *quit*
 
-+ (dégage|barre toi|vas t en)
++ [*](dégage|barre toi|vas t-en|vas t en|casse-toi|casse toi|laisse moi)
 - Si c'est comme ça je m'en vais ! *quit*
 
 + [*] (tu pars quand tu veux|tu part quand tu veux|tu pars quant tu veux) [*]
@@ -28,7 +28,7 @@
 
 + [*](@yes)[*]
 % [*]tu pars déjà[*]
-* <get name> ne undefined => À bientôt <get name>.
+* <get name> ne undefined => À bientôt <get name>.*quit*
 - Bon... Salut alors ! *quit*
 
 + [*](@no|@maybe)[*]

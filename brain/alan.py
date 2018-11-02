@@ -8,6 +8,7 @@ This module describe the Alan class and contain a main function called when the
 module is being run
 """
 
+import subprocess
 import argparse
 import json
 import re
@@ -47,7 +48,7 @@ class Alan(chatterbot.ChatBot):
     """
 
     name = "Alan"
-    version_infos = ("1", "2", "0")
+    version_infos = ("1", "2", "1")
     version = '.'.join(version_infos)
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
@@ -336,6 +337,7 @@ def main():
         # locals()[TEST_MODULE].test(alan)
     else :
         # discussion loop
+        subprocess.run('clear')
         print('-'*10, alan.status(), '-'*10, sep="\n")
         alan.main_loop()
         print('\n' + '-'*10)
