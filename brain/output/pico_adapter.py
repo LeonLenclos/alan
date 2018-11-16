@@ -36,7 +36,7 @@ class PicoAdapter(OutputAdapter):
         # command_pitch = [ 'sox', 'tmp.wav', 'tmp.wav', 'pitch', self.pitch]
         # subprocess.run(command_pitch)
         command_speed = [ 'sox', 'tmp.wav', 'tmp.wav', 'speed', self.speed]
-         subprocess.run(command_speed)
+        subprocess.run(command_speed)
         command_play = [ 'play', 'tmp.wav']
         subprocess.run(command_play)
         command_remove = [ 'rm', 'tmp.wav']
