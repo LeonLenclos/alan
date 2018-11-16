@@ -19,7 +19,6 @@ import datetime, time
 import wave
 import chatterbot
 from chatterbot.conversation import Statement
-import pygame
 import nltk
 import random
 import traceback
@@ -31,9 +30,7 @@ import init_relation
 
 from test.simple_talk import test
 
-# Init pygame.mixer in order to play wav sounds
-# commenté par léon pour régler problème de son synthèse vocale..
-# pygame.mixer.init(44100, 16, 1)
+
 
 # Download needed nltk ressources
 try : nltk.data.find('tokenizers/punkt')
