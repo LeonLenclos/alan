@@ -32,7 +32,8 @@ import init_relation
 from test.simple_talk import test
 
 # Init pygame.mixer in order to play wav sounds
-pygame.mixer.init()
+# commenté par léon pour régler problème de son synthèse vocale..
+# pygame.mixer.init(44100, 16, 1)
 
 # Download needed nltk ressources
 try : nltk.data.find('tokenizers/punkt')
