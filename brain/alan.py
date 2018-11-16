@@ -250,7 +250,7 @@ class Alan(chatterbot.ChatBot):
         elif command == "music":
             pygame.mixer.Sound("./ressources/musique_generative.wav").play()
         elif command == "bip":
-            pygame.mixer.Sound("./ressources/bip.wav").play()
+            subprocess.run(beep)
         elif command.startswith("setmaxconf"):
             self.setmaxconf(*command.split(' ')[1:])
         else : raise(KeyError, "The {} command does not exist".format(command))
