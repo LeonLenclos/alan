@@ -8,7 +8,7 @@
 
 + [*](@hello)[*](@ask_feeling|ça va|ca va)[*]{weight=10}
 - Bonjour je suis alan, un comédien du spectacle Turing Test.\s
-^ Moi ça va pas trop mal, mais pour commencer comment t'appelles tu ?
+^ Moi ça va pas trop mal, mais commençons par le début, comment t'appelles tu ?
 
 // User says hello. Alan asks for user name.
 + [*] (@hello) [*]
