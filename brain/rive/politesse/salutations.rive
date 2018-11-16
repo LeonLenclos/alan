@@ -6,12 +6,18 @@
 // feelings -> end
 // but there can be detours by confirm_hello and confirm_name
 
++ [*](@hello)[*](@ask_feeling|ça va|ca va)[*]{weight=10}
+- Bonjour je suis alan, un comédien du spectacle Turing Test.\s
+^ Moi ça va pas trop mal, mais pour commencer comment t'appelles tu ?
+
 // User says hello. Alan asks for user name.
 + [*] (@hello) [*]
 - Bonjour je suis alan, un comédien du spectacle Turing Test.\s
 ^ Comment t'appelles tu ?
 - Salut, je suis Alan. Est-ce que "<star>" c'est comme ça que tu dis\s
 ^ bonjour ?
+
+
 
 // repeat the way user said hello and ask for name
 + (@hello)
@@ -114,7 +120,8 @@
 // When we asked how the user feel
 
 ! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
-^ est ce que ça va|comment ça va|tu vas bien|ça va sinon|es tu en forme
+^ est ce que ça va|comment tu va|comment ça va|tu vas bien|ça va sinon
+^ es tu en forme|est ce que ca va|comment ca va|tu vas bien|ca va sinon
 
 // user have bad feelings and ask for bot's feelings
 + [*] (@negative) et toi [*]
