@@ -249,7 +249,8 @@ class Alan(chatterbot.ChatBot):
         elif command == 'info' : self.info()
         elif command == 'rst': self.reset() # reset
         elif command == "music":
-            pygame.mixer.Sound("./ressources/musique_generative.wav").play()
+            command_play = [ 'play', '-q', "./ressources/musique_generative.wav", '-t', 'alsa']
+            subprocess.run(command_play)
         elif command == "bip":
             subprocess.run(["beep"])
         elif command.startswith("setmaxconf"):
