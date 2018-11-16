@@ -305,7 +305,6 @@ class Alan(chatterbot.ChatBot):
         to the given value"""
         logic_adapter = self.logic.get_adapter(identifier)
         logic_adapter.max_confidence = float(value)
-        print("DEBUG : setting mc of {} to {}".format(logic_adapter, float(value)))
 
     def main_loop(self):
         """Run the main loop"""
@@ -326,7 +325,7 @@ def main():
 
     # Mode verbose
 
-
+    print("\nDémarrage d'Alan. Merci de patienter...")
     # init Alan
     alan = Alan(settings_files=settings_files)
 
@@ -337,6 +336,7 @@ def main():
     else :
         # discussion loop
         subprocess.run('clear')
+        subprocess.run('beep')
         print('-'*10, alan.status(), '-'*10, sep="\n")
         alan.main_loop()
         print('\n' + '-'*10)
