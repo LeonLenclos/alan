@@ -178,7 +178,8 @@
 ^ t'es dans une boucle|t'es rayé|t'es a la rue|tu bug|tu déconnes|ça déconne
 ^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé
 ^ tu es a la rue|tu tournes en rond|à côté de la plaque|à coté de la plaque
-^ bogue|bogues|trouble de la pragmatique du langage
+^ bogue|bogues|trouble de la pragmatique du langage|t'as un beug|t'es beugué
+^ tu beugue| beug
 
 //problème
 ! array probleme = difficulté|ennui|problème
