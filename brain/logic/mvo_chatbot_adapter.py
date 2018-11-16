@@ -35,7 +35,7 @@ class MVOChatbotAdapter(AlanLogicAdapter):
 
     def can_process(self, statement):
         """Return False if a NoMatchError is raised"""
-        print("MAX_LENGTH_EVAL : {}".format(self.MAX_LENGTH_EVAL))
+        #print("MAX_LENGTH_EVAL : {}".format(self.MAX_LENGTH_EVAL))
         return True
 
     def process(self, statement):
@@ -43,7 +43,7 @@ class MVOChatbotAdapter(AlanLogicAdapter):
         input_string = statement.text
         response, confidence = main.alan_answer(input_string, self.encoder, self.decoder, self.input_lang, self.output_lang, self.USE_CUDA, self.max_length, self.temperature_fun, self.USE_QACORPUS, self.n_words)
 
-        print("mvo confidence : {}".format(confidence))
+        #print("mvo confidence : {}".format(confidence))
         statment_out = Statement(response)
         statment_out.confidence = self.get_confidence()
 

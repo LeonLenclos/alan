@@ -1,11 +1,13 @@
 {
     "logic_adapters": [
         {
-            "identifier": "test mvo",
+            "identifier": "mvochatbot",
+             "skill_description": ["C'était de l'impro"],
             "allowed_to_repeat": true,
             "config_file": ["./models/config_qa.ini"],
             "import_path" : "logic.MVOChatbotAdapter",
-            "max_confidence": 0.9
+            "max_confidence": 0,
+            "confidence_coefficient": 1
         }
     ]
 }

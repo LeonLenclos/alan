@@ -1,0 +1,5 @@
+{
+
+    "import": ["base", "interface/linux_picospeak", "logic", "logic/mvochatbot"]
+
+}
