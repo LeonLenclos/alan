@@ -32,9 +32,8 @@ class PicoAdapter(OutputAdapter):
                    'fr-FR',
                    '-w',
                    'tmp.wav', statement.text]
-
         subprocess.run(command_tts)
-        subprocess.run(['sh', 'play_audio.sh', self.speed])        
+        subprocess.run(['sh', 'play_audio.sh', self.speed])
         subprocess.run([ 'rm', 'tmp.wav'])
 
 
