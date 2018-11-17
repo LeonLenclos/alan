@@ -19,7 +19,6 @@ import datetime, time
 import wave
 import chatterbot
 from chatterbot.conversation import Statement
-import pygame
 import nltk
 import random
 import traceback
@@ -31,8 +30,7 @@ import init_relation
 
 from test.simple_talk import test
 
-# Init pygame.mixer in order to play wav sounds
-pygame.mixer.init()
+
 
 # Download needed nltk ressources
 try : nltk.data.find('tokenizers/punkt')
@@ -248,9 +246,13 @@ class Alan(chatterbot.ChatBot):
         elif command == 'info' : self.info()
         elif command == 'rst': self.reset() # reset
         elif command == "music":
-            pygame.mixer.Sound("./ressources/musique_generative.wav").play()
+            command_play = [ 'play', '-q', "./ressources/musique_generative.wav", '-t', 'alsa']
+            subprocess.run(command_play)
         elif command == "bip":
-            pygame.mixer.Sound("./ressources/bip.wav").play()
+            try :
+                subprocess.run(["beep"])
+            except FileNotFoundError:
+                pass
         elif command.startswith("setmaxconf"):
             self.setmaxconf(*command.split(' ')[1:])
         else : raise(KeyError, "The {} command does not exist".format(command))
@@ -306,7 +308,6 @@ class Alan(chatterbot.ChatBot):
         to the given value"""
         logic_adapter = self.logic.get_adapter(identifier)
         logic_adapter.max_confidence = float(value)
-        print("DEBUG : setting mc of {} to {}".format(logic_adapter, float(value)))
 
     def main_loop(self):
         """Run the main loop"""
@@ -328,7 +329,6 @@ def main():
     # Mode verbose
     subprocess.run('clear')
     print("Démarrage d'Alan. Merci de patienter...")
-    
     # init Alan
     alan = Alan(settings_files=settings_files)
 
@@ -339,9 +339,11 @@ def main():
     else :
         # discussion loop
         subprocess.run('clear')
-        subprocess.run('beep')
-        status = alan.status()
-        print('-'*len(status), status, '-'*len(status), sep="\n")
+        try :
+            subprocess.run(["beep"])
+        except FileNotFoundError:
+            pass
+        print('-'*10, alan.status(), '-'*10, sep="\n")
         alan.main_loop()
         print('\n' + '-'*10)
 

@@ -45,6 +45,18 @@
 + test
 - oui ça, ça marche.
 
++ [*](mathématique|mathématiques|math)[*]
+- Tu me parles de mathématiques, mais en réalité j'ai du mal à comprendre de\s
+^ quoi il s'agit exactemant. C'est une science inventée par les humains ?
+- Je sais que les mathématiques sont à la base de l'informatique, mais c'est\s
+^ un concept un peu trop abstrait pour moi. Peux tu m'éclairer un peu ?
+
++ [*](@yes)[*]
+% (*) (une science inventée par les humains|peux tu m'éclairer un peu)
+- Ha, je vois. Ça n'a pas l'air évident...
+- Finalement je crois que les math, c'est pas trop mon truc...
+
+
 
 //- Tu sais ce que c'est l'informatique ? C'est la science de l'information.
 //- un ordinateur ca marche pas comme un cerveau.
