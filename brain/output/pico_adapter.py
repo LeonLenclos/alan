@@ -43,6 +43,6 @@ class PicoAdapter(OutputAdapter):
         command_remove = [ 'rm', 'tmp.wav']
         subprocess.run(command_remove)
         command_remove2 = [ 'rm', 'tmp2.wav']
-        subprocess.run(command_remove)
+        subprocess.run(command_remove2)
 
         return statement

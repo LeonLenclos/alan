@@ -16,8 +16,9 @@ try :
         'siri', ]
     for d in dict_extension : french_dict.add_to_session(d)
 except ImportError:
-    print("enchant n'as pas été trouvé sur cet ordinateur.\
-           La correction orthographique ne sera pas activée.")
+    pass
+    # print("enchant n'as pas été trouvé sur cet ordinateur.\
+    #        La correction orthographique ne sera pas activée.")
 
 
 ############
