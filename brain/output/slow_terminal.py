@@ -1,4 +1,5 @@
 from time import sleep, clock
+from random import random
 import subprocess
 from chatterbot.output import OutputAdapter
 
@@ -6,7 +7,7 @@ class SlowTerminal(OutputAdapter):
     """This is an output_adapter to give a voice to the chatbot."""
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.delay = kwargs.get("delay", 0.00005)
+        self.delay = kwargs.get("delay", 0.005)
 
 
     def process_response(self, statement, session_id=None):
@@ -16,15 +17,16 @@ class SlowTerminal(OutputAdapter):
         :returns: The response statement.
         """
 
-        start_time = clock()
 
         animation = ' .  ', ' .. ', ' ...', ' .. '
         idx = 0
-        waiting_time =  len(statement.text) * self.delay
+        waiting_time = self.delay * random()
+        start_time = clock()
         while clock() - start_time < waiting_time:
             frame = animation[idx % len(animation)]
             print(frame + "\r" * 4, end="")
             idx += 1
-            sleep(0.2)
-        print(statement.text)
+            sleep(0.15)
+
+        print("> {}".format(statement.text))
         return statement

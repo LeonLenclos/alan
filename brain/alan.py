@@ -324,8 +324,8 @@ def main():
     settings_files = args.s
 
     # Mode verbose
-
-    print("\nDémarrage d'Alan. Merci de patienter...")
+    subprocess.run('clear')
+    print("Démarrage d'Alan. Merci de patienter...")
     # init Alan
     alan = Alan(settings_files=settings_files)
 
@@ -337,7 +337,8 @@ def main():
         # discussion loop
         subprocess.run('clear')
         subprocess.run('beep')
-        print('-'*10, alan.status(), '-'*10, sep="\n")
+        status = alan.status()
+        print('-'*len(status), status, '-'*len(status), sep="\n")
         alan.main_loop()
         print('\n' + '-'*10)
 

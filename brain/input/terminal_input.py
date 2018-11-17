@@ -6,5 +6,4 @@ class TerminalInput(InputAdapter):
     This is an adapter for simple terminal Input.
     """
     def process_input(self, *args, **kwargs):
-        print("> ", end="")
         return Statement(input())
