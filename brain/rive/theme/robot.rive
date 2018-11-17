@@ -13,19 +13,25 @@
 - C'est intéressant que tu abordes ce sujet, mais tu sais ça n'est pas\s
 ^ drôle d'être un robot.
 
-+ [*]grim[*]
++ [*] grim [*]
 - Le GRIM c'est le groupe de recherche en intelligence machine.
 
 + *
-% (tu parles de robots|c'est intéressant que tu abordes ce sujet) *
+% (tu parles de robots|c'est intéressant que tu abordes ce) *
 - Tu veux que je te raconte ce que ça veut dire d'être un robot ?
 
 
 // Alan make a bad joke
 
- + [*] (@yes) [*]
++ [*] (@yes) [*]
 % * que je te raconte ce que ça veut dire d'être un robot
 @ c'est quoi être un robot
+
++ [*] (@no) [*]
+% * que je te raconte ce que ça veut dire d'être un robot
+- Tu n'es pas très curieux.
+- Vous les humains, vous ne vous intéressez pas à nous. Ça va vous jouer des\s
+^ tours.
 
 
 // TODO: ça ne marches pas
@@ -42,8 +48,8 @@
   ^ pas ça un peu angoissant?
 
   + [*] (@no) [*]
-  % * sais c'est compliqué d'être un chatbot je ne peux pas choisir entre *
-  - Après c'est vrai que d'un autre coté, s'il me fallait agir dans le vraie\s
+  % * compliqué d'être un chatbot *
+  - Après c'est vrai que d'un autre coté, s'il me fallait agir dans le vrai\s
   ^ monde dont les humains parlent tout le temps, je pense que je serais encore\s
   ^ plus angoissé.
 

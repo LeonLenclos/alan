@@ -39,18 +39,73 @@
 ^ tu t'appelles comment alors|comment tu t'appelles déjà|c'est un nom ça
 
 // Special response if the name is Bertrand, Fabien or Leon
-+ [*] (léon|bertrand|fabien|alan) [*] {weight=10}
+
+! array collab = léon|bertrand|fabien|alan|pascale|amparo|francis|virginie
+^ michel|tim|philippe|isabelle|thomas|véronique|michael
+
++ [*] (@collab) [*] {weight=10}
 % * (@ask_name)
 * <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais\s
 ^ pas reconnu. Comment va la forme aujourd'hui ?
-* <formal> == Fabien => <set name=<formal>>Salut <get name>, ta barbe est\s
-^ sublime aujourd'hui, comment tu vas ?
-
+* <formal> == Fabien => <set name=<formal>>Salut <get name>, tu ne t'es pas \s
+^ encore fait d'iroquoise ? A part ça comment tu vas ?
 * <formal> == Léon => <set name=<formal>>Ho <get name>, je savais que\s
 ^ c'était toi. comment tu vas ?
-
 * <formal> == Alan => <set name=<formal>>Ho <get name>, c'est fou qu'on ait\s
 ^ le même nom. comment ça va ?
+* <formal> == Pascale => <set name=<formal>> Tu es Pascale Maison\s
+^ l'administratrice de la compagnie Nokill ?
+* <formal> == Amparo => <set name=<formal>>Ho <get name>, trop content que\s
+^ tu sois là. Tu es mon humaine préférée ? Comment ça va ?
+* <formal> == Francis => <set name=<formal>>tu es le fameux\s
+^ Francis Lopez, régisseur de la compagnie Nokill ?
+* <formal> == Virginie => <set name=<formal>>Est ce que tu es Virginie Talou\s
+^ la big boss de la compagnie Nokill ?
+* <formal> == Michel => <set name=<formal>>Je connais un Michel, c'est Michel\s
+^ Daydé le patron de l'IRIT, le labo où une partie de mon cerveau a été\s
+^ programmé. C'est toi ?
+* <formal> == Tim => <set name=<formal>>Es tu Tim van de Cruys\s
+^ le chercheur de l'IRIT qui a créé un robot poête ?
+*  <formal> == Philippe => <set name=<formal>>Es tu Philippe\s
+^ Muller du labo Mélodi de l'IRIT, là où une partie de mon cerveau a été\s
+^ programmé ?
+* <formal> == Isabelle => <set name=<formal>>Es tu Isabelle\s
+^ Ferrané du labo Samova de l'IRIT, là où une partie de mon cerveau a été\s
+^ programmé ?
+* <formal> == Thomas => <set name=<formal>>Es tu Thomas\s
+^ Pellegrini du labo Samova de l'IRIT,là où une partie de mon cerveau a été\s
+^ programmé ?
+* <formal> == Véronique => <set name=<formal>>Es tu Véronique\s
+^ Debats, de la cellule communication de l'IRIT, là où une partie de mon\
+^ cerveau a été programmé ?
+* <formal> == Michael => <set name=<formal>>Es tu Michael\s
+^ Vo, l'informatitien qui m'a injecté des millions de dialogues de films.
+- hm...
+
++ (@yes)
+% tu es pascale maison l'administratrice de la compagnie
+- Trop content, tu ne viens pas me parler assez souvent. Commment ça va ?
+
++ (@yes)
+% je connais un michel (*)
+- Ho Michel, j'ai tellement entendu parler de toi par Fabien. Commment ça va ?
+
++ (@yes)
+% tu es le fameux francis lopez (*)
+- Génial. J'adore quand tu viens me voir. Comment ça va ?
+
++ (@yes)
+% [*] est ce que tu es virginie talou (*)
+- Ho Virginie, quel honneur de parler avec toi. Comment ça va ?
+
++ (@yes)
+% (es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo) (*)
+- ho <get name>, très content d'échanger avec toi. Vous avez fait du bon boulot\s
+^ à l'IRIT sur mon cerveau, comment ça va ?
+
++ (@no)
+% (tu es pascale maison|tu es le fameux francis lopez|est ce que tu es virginie talou|es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo) (*)
+- Désolé <get name> je t'ai confondu avec une connaissance. Comment tu vas ?
 
 // If just one word is given, or one word followed by "et toi", we take it as the name and ask for feelings
 + _
