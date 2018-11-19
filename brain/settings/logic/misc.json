@@ -58,7 +58,7 @@
             "identifier": "niouininon",
             "skill_description": ["Par rapport à Ni Oui Ni Non, tu sais. Le jeu ou on ne peut pas dire oui. Et pas non non plus."],
             "import_path": "logic.NiOuiNiNon",
-            "previous" : ["Allez ! On commence la partie."],
+            "previous" : ["Allez ! On fait un ni oui ni non."],
             "max_confidence": 0.76
         },
         {
