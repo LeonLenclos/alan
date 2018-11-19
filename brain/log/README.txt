@@ -1,0 +1,1 @@
+Ce fichier contient les logs nommées avec l'identifiant de conversation correspondant.

@@ -19,10 +19,10 @@ def test(alan):
         "c'est pas mon name wesh",
         "oui"
         ]
-    talk = ["tu aimes %s ?" % i for i in range(50)]
 
 
 
     for input_item in talk:
         print("> %s" % input_item)
-        alan.get_response(input_item)
+        print(alan.get_response(input_item))
+

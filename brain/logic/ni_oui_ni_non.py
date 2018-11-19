@@ -38,7 +38,7 @@ class NiOuiNiNon(AlanLogicAdapter):
 
     def process(self, statement):
         # # get previous statement's logic_identifier
-        conversation = self.chatbot.default_conversation_id
+        conversation = self.chatbot.conversation_id
         alan_latest = self.chatbot.storage.get_latest_statement(speaker="alan").text
         human_latest = statement.text
         if "oui" in alan_latest or "non" in alan_latest:

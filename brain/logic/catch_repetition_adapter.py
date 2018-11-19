@@ -53,14 +53,14 @@ class CatchRepetitionAdapter(AlanLogicAdapter):
 
         latest = get_latest(
             speaker = self.speaker,
-            conversation_id=self.chatbot.default_conversation_id)
+            conversation_id=self.chatbot.conversation_id)
         latest_same = get_latest(
             speaker=self.speaker,
             text=statement.text)
         latest_same_in_conv = get_latest(
             speaker=self.speaker,
             text=statement.text,
-            conversation_id=self.chatbot.default_conversation_id)
+            conversation_id=self.chatbot.conversation_id)
 
         # statement have once been said by speaker
         if latest_same :

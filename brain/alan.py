@@ -56,12 +56,8 @@ class Alan(chatterbot.ChatBot):
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
         """
-        #log
-        self.log('ALAN: initialization', True)
-        self.log('time = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
 
         # load settings
-        self.log('SETTINGS:', True)
         self.settings = {}
         if not settings_files: self.load_settings()
         elif type(settings_files) == list:
@@ -96,6 +92,20 @@ class Alan(chatterbot.ChatBot):
         # init relations
         init_relation.store_all(self)
 
+        #create conversation
+        self.conversation_id = self.get_conversation_id()
+
+        #log
+        self.log('ALAN')
+        self.log('TIME : {}'.format(time.strftime("%d/%m/%Y %H:%M")))
+        self.log('STATUS : {}'.format(self.status()))
+        self.log('SETTINGS : {}'.format(settings_files))
+        self.log('LOGIC ADAPTERS :')
+        for logic_adapter in self.logic.adapters:
+            self.log('\t- {} (class={})'.format(
+                logic_adapter.identifier, type(logic_adapter).__name__))
+        self.log('', True)
+
 
     def get_age(self):
         """Return the age of Alan in french"""
@@ -123,7 +133,7 @@ class Alan(chatterbot.ChatBot):
         """
         Print something in the log file.
         """
-        with open('log.txt', 'a') as fi:
+        with open('log/conv-{}.txt'.format(self.conversation_id), 'a') as fi:
             if header:
                 fi.write('\n' * 2 + '-' * 70)
             fi.write('\n' + message)
@@ -136,7 +146,6 @@ class Alan(chatterbot.ChatBot):
         file_name = "settings/%s.json" % settings_file
         if not os.path.isfile(file_name):
             file_name = "settings/%s/default.json" % settings_file
-        self.log('load settings file : {}{}'.format('- '*recursion, file_name))
         with open(file_name, "r") as file:
             # load json
             try:
@@ -158,89 +167,83 @@ class Alan(chatterbot.ChatBot):
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
-        return "%s v%s" % (self.name, self.version)
+        return "{} v{} ({})".format(self.name, self.version, self.conversation_id)
+    
+    def get_conversation_id(self):
+        """Return a new conversation id"""
+        conversation_id = self.storage.create_conversation()
+        return conversation_id
 
-    def get_response(self, input_item, conversation_id=None, listener=None):
-        """
-        Return the bot's response based on the input.
-        :param input_item: An input value.
-        :param conversation_id: The id of a conversation.
-        :returns: A response to the input.
-        :rtype: Statement
-        """
+    def get_response(self, input):
+        """return a response to the input_item"""
 
+        if type(input) != Statement:
+            input = Statement(input)
+
+        # Preprocess the input statement
+        for pre in self.preprocessors:
+            input = pre(self, input)
+        self.log("PREPROCESSED INPUT : {}".format(input))
+
+        # Get response
+        response = self.logic.process(input)
+
+        # Store response
+        self.storage.add_to_conversation(self.conversation_id, input, response)
+
+        return response
+
+    def talk(self, listener=None):
+        """
+        Use input adapters to get an input, get a response and output the
+        response with output adapters.
+        """
         command_regex = r"\*(.+)\*"
 
-        def listen(input_item):
-            # Process input if no input item
-            if input_item: input = Statement(input_item)
-            else: input = self.input.process_input()
-
-            # Preprocess the input statement
-            self.log('PREPROCESS:', True)
-            self.log('before = {}'.format(input))
-            for pre in self.preprocessors:input = pre(self, input)
-            self.log('after  = {}'.format(input))
-            return input
-
-        def say(output):
-            # clean commands
-            text = output.text
-            output.text = re.sub(command_regex, "", output.text)
-
-            # Process the response output with the output adapter
-            self.output.process_response(output, conversation_id)
-
-            # restore the response text
-            output.text = text
-
-        # Get conversation
-        if not conversation_id:
-            if not self.default_conversation_id:
-                self.default_conversation_id = self.storage.create_conversation()
-            conversation_id = self.default_conversation_id
-
         try:
+
             # Listen
             if listener: listener.send(state='listening')
-            input = listen(input_item)
+            input = self.input.process_input()
+            self.log("INPUT : {}".format(input))
 
             # Think
             if listener: listener.send(state='thinking')
-            output = self.logic.process(input)
+            output = self.get_response(input)
+            self.log("OUTPUT : {}".format(output))
+            self.log('', True)
 
             # Speak
             if listener: listener.send(state='speaking')
-            say(output)
-            if listener: listener.send(state='waiting')
-
-            # Store response
-            self.storage.add_to_conversation(conversation_id, input, output)
+            command = re.search(command_regex, output.text)
+            output.text = re.sub(command_regex, "", output.text)
+            self.output.process_response(output, self.conversation_id)
 
             # Execute command
-            command = re.search(command_regex, output.text)
-            if command: self.execute_command(command.group(1))
+            if command:
+                self.execute_command(command.group(1))
 
-        except(KeyboardInterrupt, EOFError, SystemExit):
-            raise
+            # Waiting
+            if listener: listener.send(state='waiting')
+
+
+        # Catch errors and say something funny
+        except(KeyboardInterrupt, EOFError, SystemExit): raise
         except:
             if self.error_messages:
                 exc_type, exc_value, exc_traceback = sys.exc_info()
-                self.log("ERROR:", True)
+                self.log("ERROR :")
                 self.log('\n'.join(traceback.format_exception(
                     exc_type,
                     exc_value,
                     exc_traceback)))
-                say(Statement(random.choice(self.error_messages)))
+                self.output.process_response(Statement(random.choice(self.error_messages)), self.conversation_id)
                 self.quit()
             else:
                 raise
 
-        return output
-
     def execute_command(self, command):
         """Execute a special alan's command."""
-        self.log('execute command: {}'.format(command))
         if command == 'quit' : self.quit()
         elif command == 'todo' : self.todo()
         elif command == 'info' : self.info()
@@ -261,20 +264,18 @@ class Alan(chatterbot.ChatBot):
         """Do exit job before quitting"""
 
         # log the all conversation
-        self.log("CONVERSATION :", True)
-        count = self.storage.count_conv(self.default_conversation_id)
+        self.log("CONVERSATION :")
+        count = self.storage.count_conv(self.conversation_id)
         for i in reversed(range(count)):
             self.log("- " + self.storage.get_latest_statement(offset=i).text)
 
     def quit(self):
         """Quit Alan."""
-        self.log('QUIT', True)
         self.finish()
         sys.exit()
 
     def reset(self):
         """Reset Alan."""
-        self.log('RESET', True)
         self.finish()
         python = sys.executable
         os.system('clear')
@@ -313,7 +314,7 @@ class Alan(chatterbot.ChatBot):
         """Run the main loop"""
         while True:
             try:
-                self.get_response(None)
+                self.talk()
             except(KeyboardInterrupt, EOFError, SystemExit):
                 break
 
@@ -343,9 +344,10 @@ def main():
             subprocess.run(["beep"])
         except FileNotFoundError:
             pass
-        print('-'*10, alan.status(), '-'*10, sep="\n")
+        status = alan.status()
+        print('-'*len(status), status, '-'*len(status), sep="\n")
         alan.main_loop()
-        print('\n' + '-'*10)
+        print('\n' + '-'*len(status))
 
 if __name__ == '__main__':
     main()

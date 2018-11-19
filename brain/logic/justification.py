@@ -58,7 +58,7 @@ class Justification(AlanLogicAdapter):
         response = choice(self.default_responses)
 
         # get previous statement's logic_identifier
-        conversation = self.chatbot.default_conversation_id
+        conversation = self.chatbot.conversation_id
         latest = self.chatbot.storage.get_latest_statement(speaker="alan")
         logic_identifier = latest.extra_data["logic_identifier"]
 
