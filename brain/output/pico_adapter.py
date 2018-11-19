@@ -25,6 +25,7 @@ class PicoAdapter(OutputAdapter):
         """
 
         subprocess.run(['sh', 'voice_audio.sh', statement.text, self.speed])
+        return statement
 
     def music(self, session_id=None):
         """
@@ -33,7 +34,3 @@ class PicoAdapter(OutputAdapter):
         :returns: The music.
         """
         subprocess.run(['sh', 'music.sh', self.speed])
-
-
-
-        return statement
