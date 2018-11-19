@@ -168,7 +168,7 @@ class Alan(chatterbot.ChatBot):
     def status(self):
         """Return all you need to know about this instance of Alan"""
         return "{} v{} ({})".format(self.name, self.version, self.conversation_id)
-    
+
     def get_conversation_id(self):
         """Return a new conversation id"""
         conversation_id = self.storage.create_conversation()
@@ -250,6 +250,8 @@ class Alan(chatterbot.ChatBot):
         elif command == 'rst': self.reset() # reset
         elif command == "music":
             self.output.music()
+        elif command == "sing":
+            subprocess.run(["sh", "sing.sh"])
         elif command == "bip":
             try :
                 subprocess.run(["beep"])
