@@ -19,7 +19,6 @@ import datetime, time
 import wave
 import chatterbot
 from chatterbot.conversation import Statement
-import pygame
 import nltk
 import random
 import traceback
@@ -31,9 +30,7 @@ import init_relation
 
 from test.simple_talk import test
 
-# Init pygame.mixer in order to play wav sounds
-# commenté par léon pour régler problème de son synthèse vocale..
-# pygame.mixer.init(44100, 16, 1)
+
 
 # Download needed nltk ressources
 try : nltk.data.find('tokenizers/punkt')
@@ -122,11 +119,11 @@ class Alan(chatterbot.ChatBot):
                   lines_of_code += sum(1 for line in open(path) if line != '\n')
         return lines_of_code
 
-    def log(self, message, header=False):
+    def log(self, message, conversation, header=False):
         """
         Print something in the log file.
         """
-        with open('log.txt', 'a') as fi:
+        with open('log/conv-{}.txt'.format(self.default_conversation_id), 'a') as fi:
             if header:
                 fi.write('\n' * 2 + '-' * 70)
             fi.write('\n' + message)
@@ -162,101 +159,96 @@ class Alan(chatterbot.ChatBot):
     def status(self):
         """Return all you need to know about this instance of Alan"""
         return "%s v%s" % (self.name, self.version)
+    
+    def get_conversation_id(self):
+        """Return a new conversation id"""
+        conversation_id = self.storage.create_conversation()
+        self.log("Create new conversation id : {}".format(convid), conversation_id)
+        return conversation_id
 
-    def get_response(self, input_item, conversation_id=None, listener=None):
-        """
-        Return the bot's response based on the input.
-        :param input_item: An input value.
-        :param conversation_id: The id of a conversation.
-        :returns: A response to the input.
-        :rtype: Statement
-        """
+    def get_response(self, input, conversation_id):
+        """return a response to the input_item"""
 
+
+        # Preprocess the input statement
+        for pre in self.preprocessors:
+            input = pre(self, input)
+        self.log("Preprocess input : {}".format(input), conversation_id)
+
+        # Get response
+        response = self.logic.process(input)
+
+        # Store response
+        self.storage.add_to_conversation(conversation_id, input, response)
+
+        return response
+
+    def talk(self, conversation_id):
+        """
+        Use input adapters to get an input, get a response and output the
+        response with output adapters.
+        """
         command_regex = r"\*(.+)\*"
-
-        def listen(input_item):
-            # Process input if no input item
-            if input_item: input = Statement(input_item)
-            else: input = self.input.process_input()
-
-            # Preprocess the input statement
-            self.log('PREPROCESS:', True)
-            self.log('before = {}'.format(input))
-            for pre in self.preprocessors:input = pre(self, input)
-            self.log('after  = {}'.format(input))
-            return input
-
-        def say(output):
-            # clean commands
-            text = output.text
-            output.text = re.sub(command_regex, "", output.text)
-
-            # Process the response output with the output adapter
-            self.output.process_response(output, conversation_id)
-
-            # restore the response text
-            output.text = text
-
-        # Get conversation
-        if not conversation_id:
-            if not self.default_conversation_id:
-                self.default_conversation_id = self.storage.create_conversation()
-            conversation_id = self.default_conversation_id
 
         try:
             # Listen
             if listener: listener.send(state='listening')
-            input = listen(input_item)
+            input = self.input.process_input()
+            self.log("Get input : {}".format(input), conversation_id)
+
 
             # Think
             if listener: listener.send(state='thinking')
-            output = self.logic.process(input)
+            output = self.get_response(input, conversation_id)
+            self.log("Get response : {}".format(output), conversation_id)
 
             # Speak
             if listener: listener.send(state='speaking')
-            say(output)
-            if listener: listener.send(state='waiting')
-
-            # Store response
-            self.storage.add_to_conversation(conversation_id, input, output)
+            clean_output = re.sub(command_regex, "", output.text)
+            self.output.process_response(clean_output, conversation_id)
 
             # Execute command
             command = re.search(command_regex, output.text)
             if command: self.execute_command(command.group(1))
 
-        except(KeyboardInterrupt, EOFError, SystemExit):
-            raise
+            # Waiting
+            if listener: listener.send(state='waiting')
+
+
+        # Catch errors and say something funny
+        except(KeyboardInterrupt, EOFError, SystemExit): raise
         except:
             if self.error_messages:
                 exc_type, exc_value, exc_traceback = sys.exc_info()
-                self.log("ERROR:", True)
+                self.log("Error", conversation_id)
                 self.log('\n'.join(traceback.format_exception(
                     exc_type,
                     exc_value,
-                    exc_traceback)))
-                say(Statement(random.choice(self.error_messages)))
+                    exc_traceback)), conversation_id)
+                self.output.process_response(Statement(random.choice(self.error_messages)), conversation_id)
                 self.quit()
             else:
                 raise
 
-        return output
-
     def execute_command(self, command):
         """Execute a special alan's command."""
-        self.log('execute command: {}'.format(command))
         if command == 'quit' : self.quit()
         elif command == 'todo' : self.todo()
         elif command == 'info' : self.info()
         elif command == 'rst': self.reset() # reset
         elif command == "music":
-            pygame.mixer.Sound("./ressources/musique_generative.wav").play()
+            command_play = [ 'play', '-q', "./ressources/musique_generative.wav", '-t', 'alsa']
+            subprocess.run(command_play)
         elif command == "bip":
-            subprocess.run(beep)
+            try :
+                subprocess.run(["beep"])
+            except FileNotFoundError:
+                pass
         elif command.startswith("setmaxconf"):
             self.setmaxconf(*command.split(' ')[1:])
         else : raise(KeyError, "The {} command does not exist".format(command))
 
-    def finish(self):
+    def finish(self, conversation_id):
         """Do exit job before quitting"""
 
         # log the all conversation
@@ -307,13 +299,13 @@ class Alan(chatterbot.ChatBot):
         to the given value"""
         logic_adapter = self.logic.get_adapter(identifier)
         logic_adapter.max_confidence = float(value)
-        print("DEBUG : setting mc of {} to {}".format(logic_adapter, float(value)))
 
     def main_loop(self):
         """Run the main loop"""
+        conversation_id = self.get_conversation_id()
         while True:
             try:
-                self.get_response(None)
+                self.talk(conversation_id)
             except(KeyboardInterrupt, EOFError, SystemExit):
                 break
 
@@ -327,8 +319,8 @@ def main():
     settings_files = args.s
 
     # Mode verbose
-
-
+    subprocess.run('clear')
+    print("Démarrage d'Alan. Merci de patienter...")
     # init Alan
     alan = Alan(settings_files=settings_files)
 
@@ -339,6 +331,10 @@ def main():
     else :
         # discussion loop
         subprocess.run('clear')
+        try :
+            subprocess.run(["beep"])
+        except FileNotFoundError:
+            pass
         print('-'*10, alan.status(), '-'*10, sep="\n")
         alan.main_loop()
         print('\n' + '-'*10)
