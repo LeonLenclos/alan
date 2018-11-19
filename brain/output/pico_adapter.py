@@ -15,7 +15,7 @@ class PicoAdapter(OutputAdapter):
         """
         super().__init__(**kwargs)
         self.pitch = kwargs.get("pitch", -300)
-        self.speed = kwargs.get("speed", 0.83)
+        self.speed = kwargs.get("speed", 0.85)
 
     def process_response(self, statement, session_id=None):
         """
@@ -23,18 +23,9 @@ class PicoAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The response statement.
         """
-        # setsid is for not showing mbrola errors
-        # see : https://stackoverflow.com/a/50072485/8752259
-        # add it if you want. (  '_>')
 
-        command_tts = [ 'pico2wave',
-                   '-l',
-                   'fr-FR',
-                   '-w',
-                   'tmp.wav', statement.text]
-        subprocess.run(command_tts)
-        subprocess.run(['sh', 'play_audio.sh', self.speed])
-        subprocess.run([ 'rm', 'tmp.wav'])
+        subprocess.run(['sh', 'voice_audio.sh', statement.text, self.speed])
+
 
 
         return statement
