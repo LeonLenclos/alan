@@ -15,11 +15,10 @@ def test(alan):
 
     talk = [
         "Salut",
-        "machin truc",
-        "c'est pas mon name wesh",
-        "oui"
+        "bob",
+        "mon nom est beb",
+        "je m'en fous"
         ]
-    talk = ["tu aimes %s ?" % i for i in range(50)]
 
 
 

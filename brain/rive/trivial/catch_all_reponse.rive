@@ -128,6 +128,15 @@
 * <get name> ne undefined => Donc <get name> c'est un prénom de fille ?
 - Ok j'essayerai de m'en souvenir
 
++ *
+% * toi t'es une fille ou un garçon
+- Ces histoires de genre me troublent un peu. Est ce qu'un robot doit\s
+^ forcément avoir un genre ? Tu en penses quoi ?
+
++ *
+% ces histoires de genre me troublent un peu *
+- Bon pour l'instant peut-être que je suis transgenre...
+
 //
 
 + [*](comme quoi|de quoi|par exemple|si tu veux|@yes)[*]
