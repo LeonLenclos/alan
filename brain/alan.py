@@ -246,8 +246,8 @@ class Alan(chatterbot.ChatBot):
         elif command == 'info' : self.info()
         elif command == 'rst': self.reset() # reset
         elif command == "music":
-            command_play = [ 'play', '-q', "./ressources/musique_generative.wav", '-t', 'alsa']
-            subprocess.run(command_play)
+            if self.output.music:
+                self.output.music()
         elif command == "bip":
             try :
                 subprocess.run(["beep"])

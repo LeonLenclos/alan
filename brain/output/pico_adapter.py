@@ -26,6 +26,14 @@ class PicoAdapter(OutputAdapter):
 
         subprocess.run(['sh', 'voice_audio.sh', statement.text, self.speed])
 
+    def music(self, session_id=None):
+        """
+        :param statement: The statement that the chat bot has produced in response to some input.
+        :param session_id: The unique id of the current chat session.
+        :returns: The music.
+        """
+        subprocess.run(['sh', 'music.sh', self.speed])
+
 
 
         return statement
