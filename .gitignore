@@ -20,5 +20,5 @@ src/
 # models files
 brain/models/*
 
-# fichiers tmp.wav
-tmp.wav
+# fichiers .wav
+*.wav
