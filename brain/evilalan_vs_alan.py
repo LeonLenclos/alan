@@ -16,6 +16,7 @@ print(evil_alan.status())
 print("---------------")
 
 alan_rep = 'Alors, Alan'
+print("- {}".format(alan_rep))
 evilalan_rep = ''
 while True:
 	evilalan_rep = evil_alan.get_response(alan_rep)
