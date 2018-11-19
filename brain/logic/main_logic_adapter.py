@@ -23,9 +23,7 @@ class MainLogicAdapter(MultiLogicAdapter):
 
         :param statement: The input statement to be processed.
         """
-        self.chatbot.log('LOGIC: processing all adapters', True)
-        self.chatbot.log(
-            'input = "{}"'.format(statement.text))
+        self.chatbot.log('LOGIC ADAPTERS :')
 
         results = []
         result = None
@@ -34,9 +32,6 @@ class MainLogicAdapter(MultiLogicAdapter):
         processing_all_start = time.time()
         for adapter in self.get_adapters():
 
-            #log
-            self.chatbot.log('')
-            self.chatbot.log(adapter.identifier)
 
             output = None
             result_info = dict(logic_identifier=adapter.identifier,
@@ -78,43 +73,29 @@ class MainLogicAdapter(MultiLogicAdapter):
             processing_time = int((time.time()-processing_adapter_start)*1000)
 
             # log
-            if processing_time > 0:
-                self.chatbot.log(
-                    'processing time = {}ms'.format(processing_time))
             if output:
-                self.chatbot.log(
-                    'response        = "{}"'.format(output.text))
-                self.chatbot.log(
-                    'confidence      = {}'.format(output.confidence))
-                if result_info["not_allowed_to_repeat"]:
-                    self.chatbot.log('not allowed to repeat')
+                log= '\t- {} (processing_time={}ms, confidence={}, reponse="{}"){}'.format(
+                    adapter.identifier,
+                    processing_time,
+                    output.confidence,
+                    output.text,
+                    ', not allowed to repeat' if result_info["not_allowed_to_repeat"] else ''
+                    )
+                self.chatbot.log(log)
 
-            else:
-                self.chatbot.log('not processing')
 
 
         # timer
         processing_time = int((time.time()-processing_all_start)*1000)
+        self.chatbot.log('TOTAL PROCESS TIME = {}ms'.format(processing_time))
 
         # Call the process_done methode
         for adapter in self.get_adapters():
             adapter.process_done(is_selected=adapter is result_adapter)
 
         try:
-            # log
-            self.chatbot.log('LOGIC: result', True)
-            self.chatbot.log(
-                'response              = "{}"'.format(result.text))
-            self.chatbot.log(
-                'logic adapter         = "{}"'.format(result_adapter.identifier))
-            self.chatbot.log(
-                'confidence            = {}'.format(result.confidence))
-            self.chatbot.log(
-                'total processing time = {}ms'.format(processing_time))
-
             # add speaker data
             result.add_extra_data("speaker", "alan")
-
             # store last results for analysis
             self.chatbot.last_results.append(results)
             return result

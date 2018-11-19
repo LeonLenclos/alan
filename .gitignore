@@ -8,6 +8,7 @@ __pycache__/
 # Todos and log
 todo*
 log.txt
+brain/log/conv-*
 
 # Pour les mac
 .DS_Store

@@ -96,9 +96,15 @@ class Alan(chatterbot.ChatBot):
         self.conversation_id = self.get_conversation_id()
 
         #log
-        self.log('ALAN: initialization', True)
-        self.log('time = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
-
+        self.log('ALAN')
+        self.log('TIME : {}'.format(time.strftime("%d/%m/%Y %H:%M")))
+        self.log('STATUS : {}'.format(self.status()))
+        self.log('SETTINGS : {}'.format(settings_files))
+        self.log('LOGIC ADAPTERS :')
+        for logic_adapter in self.logic.adapters:
+            self.log('\t- {} (class={})'.format(
+                logic_adapter.identifier, type(logic_adapter).__name__))
+        self.log('', True)
 
 
     def get_age(self):
@@ -177,7 +183,7 @@ class Alan(chatterbot.ChatBot):
         # Preprocess the input statement
         for pre in self.preprocessors:
             input = pre(self, input)
-        self.log("Preprocess input : {}".format(input))
+        self.log("PREPROCESSED INPUT : {}".format(input))
 
         # Get response
         response = self.logic.process(input)
@@ -199,12 +205,13 @@ class Alan(chatterbot.ChatBot):
             # Listen
             if listener: listener.send(state='listening')
             input = self.input.process_input()
-            self.log("Get input : {}".format(input))
+            self.log("INPUT : {}".format(input))
 
             # Think
             if listener: listener.send(state='thinking')
             output = self.get_response(input)
-            self.log("Get response : {}".format(output))
+            self.log("OUTPUT : {}".format(output))
+            self.log('', True)
 
             # Speak
             if listener: listener.send(state='speaking')
@@ -225,7 +232,7 @@ class Alan(chatterbot.ChatBot):
         except:
             if self.error_messages:
                 exc_type, exc_value, exc_traceback = sys.exc_info()
-                self.log("Error")
+                self.log("ERROR :")
                 self.log('\n'.join(traceback.format_exception(
                     exc_type,
                     exc_value,
@@ -257,20 +264,18 @@ class Alan(chatterbot.ChatBot):
         """Do exit job before quitting"""
 
         # log the all conversation
-        self.log("CONVERSATION :", True)
+        self.log("CONVERSATION :")
         count = self.storage.count_conv(self.conversation_id)
         for i in reversed(range(count)):
             self.log("- " + self.storage.get_latest_statement(offset=i).text)
 
     def quit(self):
         """Quit Alan."""
-        self.log('QUIT', True)
         self.finish()
         sys.exit()
 
     def reset(self):
         """Reset Alan."""
-        self.log('RESET', True)
         self.finish()
         python = sys.executable
         os.system('clear')
