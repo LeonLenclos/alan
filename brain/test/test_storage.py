@@ -48,4 +48,4 @@ def test(alan):
         % alan.storage.get_latest_response_extra_data(extra_data="speaker"))
 
     print("conversation count : %s"
-        % alan.storage.count_conv(alan.default_conversation_id))
+        % alan.storage.count_conv(alan.conversation_id))

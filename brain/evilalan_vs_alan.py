@@ -15,8 +15,13 @@ print("----- VS ------")
 print(evil_alan.status())
 print("---------------")
 
-last_response = 'Alors, Alan'
+alan_rep = 'Alors, Alan'
+print("- {}".format(alan_rep))
+evilalan_rep = ''
 while True:
-    last_response = evil_alan.get_response(alan.get_response(last_response))
+	evilalan_rep = evil_alan.get_response(alan_rep)
+	print("- {}".format(evilalan_rep))
+	alan_rep = alan.get_response(evilalan_rep)
+	print("- {}".format(alan_rep))
 
 print("---------------")

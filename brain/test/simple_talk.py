@@ -24,4 +24,5 @@ def test(alan):
 
     for input_item in talk:
         print("> %s" % input_item)
-        alan.get_response(input_item)
+        print(alan.get_response(input_item))
+

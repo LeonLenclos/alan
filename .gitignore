@@ -8,6 +8,7 @@ __pycache__/
 # Todos and log
 todo*
 log.txt
+brain/log/conv-*
 
 # Pour les mac
 .DS_Store
@@ -19,5 +20,5 @@ src/
 # models files
 brain/models/*
 
-# fichiers tmp.wav
-tmp.wav
+# fichiers .wav
+*.wav
