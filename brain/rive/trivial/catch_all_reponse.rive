@@ -120,13 +120,14 @@
 
 + [*](@male)[*]
 % * toi t'es une fille ou un garçon
-* <get name> ne undefined => Donc <get name> c'est un prénom de garçon ?
-- Ok j'essayerai de m'en souvenir
+* <get name> ne undefined => Donc <get name> c'est un prénom de garçon ?  <set genre=masc>
+- <set genre=masc> Ok j'essayerai de m'en souvenir.
+
 
 + [*](@femelle)[*]
 % * toi t'es une fille ou un garçon
-* <get name> ne undefined => Donc <get name> c'est un prénom de fille ?
-- Ok j'essayerai de m'en souvenir
+* <get name> ne undefined => Donc <get name> c'est un prénom de fille ? <set genre=fem>
+- <set genre=fem>  Ok j'essayerai de m'en souvenir.
 
 + *
 % * toi t'es une fille ou un garçon
