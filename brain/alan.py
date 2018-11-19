@@ -56,12 +56,8 @@ class Alan(chatterbot.ChatBot):
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
         """
-        #log
-        self.log('ALAN: initialization', True)
-        self.log('time = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
 
         # load settings
-        self.log('SETTINGS:', True)
         self.settings = {}
         if not settings_files: self.load_settings()
         elif type(settings_files) == list:
@@ -96,6 +92,14 @@ class Alan(chatterbot.ChatBot):
         # init relations
         init_relation.store_all(self)
 
+        #create conversation
+        self.conversation_id = self.get_conversation_id()
+
+        #log
+        self.log('ALAN: initialization', True)
+        self.log('time = {}'.format(time.strftime("%d/%m/%Y %H:%M")))
+
+
 
     def get_age(self):
         """Return the age of Alan in french"""
@@ -119,11 +123,11 @@ class Alan(chatterbot.ChatBot):
                   lines_of_code += sum(1 for line in open(path) if line != '\n')
         return lines_of_code
 
-    def log(self, message, conversation, header=False):
+    def log(self, message, header=False):
         """
         Print something in the log file.
         """
-        with open('log/conv-{}.txt'.format(self.default_conversation_id), 'a') as fi:
+        with open('log/conv-{}.txt'.format(self.conversation_id), 'a') as fi:
             if header:
                 fi.write('\n' * 2 + '-' * 70)
             fi.write('\n' + message)
@@ -136,7 +140,6 @@ class Alan(chatterbot.ChatBot):
         file_name = "settings/%s.json" % settings_file
         if not os.path.isfile(file_name):
             file_name = "settings/%s/default.json" % settings_file
-        self.log('load settings file : {}{}'.format('- '*recursion, file_name))
         with open(file_name, "r") as file:
             # load json
             try:
@@ -158,32 +161,33 @@ class Alan(chatterbot.ChatBot):
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
-        return "%s v%s" % (self.name, self.version)
+        return "{} v{} ({})".format(self.name, self.version, self.conversation_id)
     
     def get_conversation_id(self):
         """Return a new conversation id"""
         conversation_id = self.storage.create_conversation()
-        self.log("Create new conversation id : {}".format(convid), conversation_id)
         return conversation_id
 
-    def get_response(self, input, conversation_id):
+    def get_response(self, input):
         """return a response to the input_item"""
 
+        if type(input) != Statement:
+            input = Statement(input)
 
         # Preprocess the input statement
         for pre in self.preprocessors:
             input = pre(self, input)
-        self.log("Preprocess input : {}".format(input), conversation_id)
+        self.log("Preprocess input : {}".format(input))
 
         # Get response
         response = self.logic.process(input)
 
         # Store response
-        self.storage.add_to_conversation(conversation_id, input, response)
+        self.storage.add_to_conversation(self.conversation_id, input, response)
 
         return response
 
-    def talk(self, conversation_id):
+    def talk(self, listener=None):
         """
         Use input adapters to get an input, get a response and output the
         response with output adapters.
@@ -191,25 +195,26 @@ class Alan(chatterbot.ChatBot):
         command_regex = r"\*(.+)\*"
 
         try:
+
             # Listen
             if listener: listener.send(state='listening')
             input = self.input.process_input()
-            self.log("Get input : {}".format(input), conversation_id)
-
+            self.log("Get input : {}".format(input))
 
             # Think
             if listener: listener.send(state='thinking')
-            output = self.get_response(input, conversation_id)
-            self.log("Get response : {}".format(output), conversation_id)
+            output = self.get_response(input)
+            self.log("Get response : {}".format(output))
 
             # Speak
             if listener: listener.send(state='speaking')
-            clean_output = re.sub(command_regex, "", output.text)
-            self.output.process_response(clean_output, conversation_id)
+            command = re.search(command_regex, output.text)
+            output.text = re.sub(command_regex, "", output.text)
+            self.output.process_response(output, self.conversation_id)
 
             # Execute command
-            command = re.search(command_regex, output.text)
-            if command: self.execute_command(command.group(1))
+            if command:
+                self.execute_command(command.group(1))
 
             # Waiting
             if listener: listener.send(state='waiting')
@@ -220,12 +225,12 @@ class Alan(chatterbot.ChatBot):
         except:
             if self.error_messages:
                 exc_type, exc_value, exc_traceback = sys.exc_info()
-                self.log("Error", conversation_id)
+                self.log("Error")
                 self.log('\n'.join(traceback.format_exception(
                     exc_type,
                     exc_value,
-                    exc_traceback)), conversation_id)
-                self.output.process_response(Statement(random.choice(self.error_messages)), conversation_id)
+                    exc_traceback)))
+                self.output.process_response(Statement(random.choice(self.error_messages)), self.conversation_id)
                 self.quit()
             else:
                 raise
@@ -248,12 +253,12 @@ class Alan(chatterbot.ChatBot):
             self.setmaxconf(*command.split(' ')[1:])
         else : raise(KeyError, "The {} command does not exist".format(command))
 
-    def finish(self, conversation_id):
+    def finish(self):
         """Do exit job before quitting"""
 
         # log the all conversation
         self.log("CONVERSATION :", True)
-        count = self.storage.count_conv(self.default_conversation_id)
+        count = self.storage.count_conv(self.conversation_id)
         for i in reversed(range(count)):
             self.log("- " + self.storage.get_latest_statement(offset=i).text)
 
@@ -302,10 +307,9 @@ class Alan(chatterbot.ChatBot):
 
     def main_loop(self):
         """Run the main loop"""
-        conversation_id = self.get_conversation_id()
         while True:
             try:
-                self.talk(conversation_id)
+                self.talk()
             except(KeyboardInterrupt, EOFError, SystemExit):
                 break
 

@@ -57,7 +57,7 @@ class MainLogicAdapter(MultiLogicAdapter):
                     # check if the sentence have been said
                     result_info["not_allowed_to_repeat"] = False
                     if not adapter.allowed_to_repeat:
-                        conversation_id = self.chatbot.default_conversation_id
+                        conversation_id = self.chatbot.conversation_id
                         same_statement = self.chatbot.storage.get_latest_statement(
                                             conversation_id=conversation_id,
                                             text=output.text,
