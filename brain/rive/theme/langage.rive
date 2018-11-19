@@ -18,7 +18,7 @@
 
 + (je|j') [*] (aime|supporte) pas (discuter|parler|tchatcher|converser) avec toi [*]
 - Tu sais si tu n'aimes pas parler avec moi tu peux partir, je ne te\s
-- poursuivrais pas, je n'ai pas de jambes. 
+- poursuivrais pas, je n'ai pas de jambes.
 
 + [*](@lang)[*]
 - Pardon mais je ne parles que français. Ah si je sais dire "Mira petit\s
@@ -35,7 +35,7 @@
 + [*] (@maybe) [*]
 % [*] tu trouves que je parle bien[*]
 - En tout cas je fais de mon mieux, il faut dire que votre langage est\s
-- particulièrement tordu.
+^ particulièrement tordu.
 
 + [*] (@no) [*]
 % [*] tu trouves que je parle bien [*]

@@ -127,11 +127,11 @@
 ^ cas je suis heureux de te rencontrer <get name>. Comment ça va ?
 
 // name introductions
-! array name_intro = je m'appelle|je suis|moi c'est|mon nom c'est
-^ appelle moi|on m'appelle|c'est|mon nom est
+! array name_intro = je m'appelle|moi c'est|mon nom c'est
+^ appelle moi|on m'appelle|mon nom est
 
 // The same with name introduction
-+ [*] (@name_intro) _ [*]
++ [*] (@name_intro|c'est|je suis) _ [*]
 % * (@ask_name)
 - <set name={formal}<star2>{/formal}>Heureux de te rencontrer <get name>.\s
 ^ Comment ça va ?
@@ -142,7 +142,7 @@
 - <set name=<formal>> Euh... <get name> ? C'est ton nom ça ?
 
   // same with name introduction
-+ [*] (@name_intro) *
++ [*] (@name_intro|c'est|je suis) *
 % * (@ask_name)
 - <set name={formal}<star2>{/formal}> Tu t'appelle <get name> ? Pardon pour\s
 ^ cette question mais je ne suis pas sûr d'être certain d'avoir compris ton nom.
