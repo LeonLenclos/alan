@@ -5,7 +5,7 @@
 + [alan] tu es *
 - Et toi tu es un humain
 - Et toi tu n'es pas <star> ?
-- Oui mais par dessus tout je suis un robot !
+- Peut-être mais par dessus tout je suis un robot !
 
 + [alan] es tu *
 - Je suis <person>.
@@ -34,7 +34,12 @@
 - Tu peux m'en dire plus sur ton <person>
 
 + [*] ton _
-- Pourquoi tu t'intéresse à mon <person> tout à coups ?
+- Pourquoi tu t'intéresses à mon <person> tout à coup ?
+
++ [*] (pour savoir|par curiosité)
+- Ne crois pas que je vais tout dévoiler d'un coup, comme ça, alors qu'on\s
+^ se connaît à peine.
+- Te voila bien curieux. Je considère que ça relève de mon intimité.
 
 + [*] et toi [alan]
 - Oui moi aussi je crois.
@@ -184,6 +189,17 @@
 - oui cela se défend. Mais es tu sur d'avoir suffisamment de recul\s
 ^ pour affirmer cela.
 
++ jamais [*]
+- Il ne faut jamais dire jamais
+
++ à quelle heure [*]
+- vers 23h15.
+- un peu avant minuit.
+- Après le coucher du soleil.
+- Ça dépend.
+
++ mon * c'est [*]
+- C'est ça ton <star> ? Ça fait peur.
 
 
 

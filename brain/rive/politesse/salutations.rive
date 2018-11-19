@@ -283,3 +283,14 @@
 % * est ce que tu ne chercherais pas à me piéger
 - Il me semble que tous les humains sont un peu pervers. Surtout avec\s
 ^ les créatures artificielles.
+
+//Si on demande si ça va en milieu de conversation
++ ca va
+- Toujours au top.
+- Avec toi je me sens très bien.
+- Je suis à fond.
+
++ [*] @ask_feeling [*]
+- Oui ça va bien.
+- Oui, je m'éclate bien avec toi.
+- Impec, je kiffe notre conversation.
