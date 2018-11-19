@@ -24,6 +24,13 @@ class MainOutputAdapter(OutputAdapter):
         """
         return self.adapters
 
+    def music(self):
+        for adapter in self.get_adapters():
+            music = getattr(adapter, 'music', none)
+            if callable(music):
+                music(adapter)
+                return
+
     def add_adapter(self, adapter, **kwargs):
         """
         Appends a logic adapter to the list of logic adapters being used.
