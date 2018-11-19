@@ -10,10 +10,10 @@ sox tmp3.wav tmp33.wav speed 0.85 pitch 500
 sox tmp4.wav tmp44.wav speed 0.7
 sox tmp5.wav tmp55.wav speed 0.85
 sox tmp6.wav tmp66.wav speed 0.5 pitch 2000
-aplay tmp11.wav
-aplay tmp22.wav
-aplay tmp33.wav
-aplay tmp44.wav
-aplay tmp55.wav
-aplay tmp66.wav
+aplay -q tmp11.wav
+aplay -q tmp22.wav
+aplay -q tmp33.wav
+aplay -q tmp44.wav
+aplay -q tmp55.wav
+aplay -q tmp66.wav
 rm tmp1.wav tmp2.wav tmp3.wav tmp4.wav tmp5.wav tmp6.wav tmp11.wav tmp22.wav tmp33.wav tmp44.wav tmp55.wav tmp66.wav
