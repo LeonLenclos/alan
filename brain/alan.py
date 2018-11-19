@@ -344,9 +344,10 @@ def main():
             subprocess.run(["beep"])
         except FileNotFoundError:
             pass
-        print('-'*10, alan.status(), '-'*10, sep="\n")
+        status = alan.status()
+        print('-'*len(status), status, '-'*len(status), sep="\n")
         alan.main_loop()
-        print('\n' + '-'*10)
+        print('\n' + '-'*len(status))
 
 if __name__ == '__main__':
     main()
