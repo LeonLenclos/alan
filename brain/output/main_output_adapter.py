@@ -26,7 +26,7 @@ class MainOutputAdapter(OutputAdapter):
 
     def music(self):
         for adapter in self.get_adapters():
-            music = getattr(adapter, 'music', none)
+            music = getattr(adapter, 'music', None)
             if callable(music):
                 music(adapter)
                 return
