@@ -36,7 +36,7 @@ Le projet est encore en cours de développement, github est un outil adapté à 
   >>> quit()
   $ cd brain
   $ ./alan.py
-  ```
+```
 #### installer pyenchant sur mac
 
 ```
@@ -65,10 +65,18 @@ D'autres fichier de réglages (settings) peuvent être choisis grace à l'argume
  # lance Alan avec les réglages contenus dans le fichier speak.json
  $ ./alan.py -s base interface_text logic_rive
  # lance Alan avec les réglages contenus dans les fichier base.json interface_text.json et logic_rive.json
- ```
+```
 
 Voir [brain/settings/README.md](brain/settings/README.md) pour plus d'information sur le fonctionnement des fichiers settings
 
+### activation de l'environnement:
+```
+$ source activate alan
+```
+sur l'hardware d'alan, taper "alan" active son environnement. On peut tout de même activer l'environnement en tapant 
+```
+$ source activate alan-env
+```
 
 ### commandes spéciales
 

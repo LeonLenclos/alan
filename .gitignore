@@ -19,3 +19,6 @@ src/
 
 # models files
 brain/models/*
+
+# fichiers tmp.wav
+tmp.wav

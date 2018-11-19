@@ -5,19 +5,20 @@ from difflib import SequenceMatcher
 import math
 
 french_dict = None
-try :
-    import enchant
-    # Init dictionnary for check_spelling
-    french_dict = enchant.Dict('fr')
-    dict_extension = [
-        # commands
-        'todo', 'rst', 'quit', 'info',
-        # other
-        'siri', ]
-    for d in dict_extension : french_dict.add_to_session(d)
-except ImportError:
-    print("enchant n'as pas été trouvé sur cet ordinateur.\
-           La correction orthographique ne sera pas activée.")
+# try :
+#     import enchant
+#     # Init dictionnary for check_spelling
+#     french_dict = enchant.Dict('fr')
+#     dict_extension = [
+#         # commands
+#         'todo', 'rst', 'quit', 'info',
+#         # other
+#         'siri', ]
+#     for d in dict_extension : french_dict.add_to_session(d)
+# except ImportError:
+#     pass
+#     # print("enchant n'as pas été trouvé sur cet ordinateur.\
+#     #        La correction orthographique ne sera pas activée.")
 
 
 ############

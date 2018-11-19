@@ -8,7 +8,7 @@
 ^ j'y vais|je m'en vais|je te laisse|j'ai un sanglier sur le feu|aurevoir
 
 + [_](@ciao)[_][_]
-* <get name> ne undefined => Ciao <get name> !
+* <get name> ne undefined => Ciao <get name> ! *quit*
 - Ciao *quit*
 - À bientôt *quit*
 - À la prochaine *quit*
@@ -42,17 +42,9 @@
 
 + *
 % très bien puisque c'est comme ça je suis mort [*]
-- ----------------------------------------*bip*
-
-+ *
-% ---------------------------------------- [*]
-- ---------------------------------------*bip*
-
-+ *
-% --------------------------------------- [*]
-- --------------------------------------*bip*
+- Alan est indisponible pour cause de décés... *bip*
 
 
 + *
-% --------------------------------------[*]
+% [*] est indisponible pour cause de décés [*]
 - Ne t'inquiètes pas je faisais semblant, personne ne peux me tuer.

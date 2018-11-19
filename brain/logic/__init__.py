@@ -15,4 +15,5 @@ from .cest_qui_adapter import CestQuiAdapter
 from .catch_repetition_adapter import CatchRepetitionAdapter
 from .cest_lui_adapter import CestLuiAdapter
 from .best_practices import BestPracticesAdapter
+# Uncomment for using mvo_chatbot / comment for running on the mac with py3.5
 from .mvo_chatbot_adapter import MVOChatbotAdapter

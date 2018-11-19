@@ -81,3 +81,11 @@
 
   + [*] tu veux (savoir|que je te dise) à quoi je (pense|pensais) [*]
   - Oui dis moi !
+
+
+  + [*](reve|rêve|reves|rêves)[*]
+  - Je suis un grand rêveur, on me dit souvent que je suis dans la lune.
+
+  + [*] (quoi|reve|reves|rêves|rêves)[*](quoi|reve|reves|rêves|rêves)[*]
+  % [*] souvent que je suis dans la lune[*]
+  - Je rêve souvent que je suis un 1 et que je croise deux 0, et tout à coup ils se collent et ils forment un méchant 8 qui m'attaque, c'est l'angoisse.

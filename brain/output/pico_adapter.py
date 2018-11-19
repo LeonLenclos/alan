@@ -15,7 +15,7 @@ class PicoAdapter(OutputAdapter):
         """
         super().__init__(**kwargs)
         self.pitch = kwargs.get("pitch", -300)
-        self.speed = kwargs.get("speed", 0.83)
+        self.speed = kwargs.get("speed", 0.85)
 
     def process_response(self, statement, session_id=None):
         """
@@ -23,24 +23,17 @@ class PicoAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The response statement.
         """
-        # setsid is for not showing mbrola errors
-        # see : https://stackoverflow.com/a/50072485/8752259
-        # add it if you want. (  '_>')
 
-        command_tts = [ 'pico2wave',
-                   '-l',
-                   'fr-FR',
-                   '-w',
-                   'tmp.wav', statement.text]
-        subprocess.run(command_tts)
-        # command_pitch = [ 'sox', 'tmp.wav', 'tmp.wav', 'pitch', self.pitch]
-        # subprocess.run(command_pitch)
+        subprocess.run(['sh', 'voice_audio.sh', statement.text, self.speed])
 
-        # command_speed = [ 'sox', 'tmp.wav', 'tmp.wav', 'speed', self.speed]
-        #  subprocess.run(command_speed)
-        command_play = [ 'play', '-q', 'tmp.wav', '-t', 'alsa']
-        subprocess.run(command_play)
-        command_remove = [ 'rm', 'tmp.wav']
-        subprocess.run(command_remove)
+    def music(self, session_id=None):
+        """
+        :param statement: The statement that the chat bot has produced in response to some input.
+        :param session_id: The unique id of the current chat session.
+        :returns: The music.
+        """
+        subprocess.run(['sh', 'music.sh', self.speed])
+
+
 
         return statement

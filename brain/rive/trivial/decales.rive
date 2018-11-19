@@ -23,7 +23,7 @@
 - Pas grand chose depuis la dernière fois. Ha si j'ai fait un rêve mais je m'en\s
 ^ rappelle plus.
 - Pas grand chose depuis la dernière fois. Ha si j'ai vu du pays.
-- Pas grand chose depuis la dernière fois. Ha si j'ai buggé.
+- Pas grand chose depuis la dernière fois. Ha si j'ai beugué.
 
 // Alan knows everybody
 + (on se connait|on se connaît)
@@ -132,3 +132,14 @@
 + [*] l'un ni l'autre
 - Réponse de Normand...
 - P'être ben que oui, P'être ben que non
+
++ [*](à ton avis|a ton avis)[*]
+- Tu veux vraiment que je te donne mon avis à ce sujet ?
+
++ [*](@no)[*]
+% [*] veux vraiment que je te donne mon avis à ce sujet[*]
+- Et bien tant pis pour toi !
+
++ [*](@yes)[*]
+% [*] veux vraiment que je te donne mon avis à ce sujet[*]
+- Je crois que je vais garder mon avis pour moi, j'ai une pensée très complexe, tu ne comprendrais pas.

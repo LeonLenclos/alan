@@ -39,19 +39,31 @@
 ^ et que tu es condamné à mourir.
 
 + [*](bug|bugs|beug|beugs|plantage|plantages)[*]
-- Tu sais derrière un bug il y a toujours une erreur humaine.
-- Il n'y a pas de bugs, que des programmeurs distraits.
+- Tu sais derrière un beug il y a toujours une erreur humaine.
+- Il n'y a pas de beugs, que des programmeurs distraits.
 
 + test
 - oui ça, ça marche.
+
++ [*](mathématique|mathématiques|math)[*]
+- Tu me parles de mathématiques, mais en réalité j'ai du mal à comprendre de\s
+^ quoi il s'agit exactemant. C'est une science inventée par les humains ?
+- Je sais que les mathématiques sont à la base de l'informatique, mais c'est\s
+^ un concept un peu trop abstrait pour moi. Peux tu m'éclairer un peu ?
+
++ [*](@yes)[*]
+% (*) (une science inventée par les humains|peux tu m'éclairer un peu)
+- Ha, je vois. Ça n'a pas l'air évident...
+- Finalement je crois que les math, c'est pas trop mon truc...
+
 
 
 //- Tu sais ce que c'est l'informatique ? C'est la science de l'information.
 //- un ordinateur ca marche pas comme un cerveau.
 //- on dit plutot numerique aujourd hui.
 //- un ordinateur n'a pas de charge sentimentale.
-//- tu sais ce qu est un bug ?
+//- tu sais ce qu est un beug ?
 //- l'homme est intuitif pas très rigoureux et lent. Moi je n'ai aucune intuition\s
 //^ je suis extrèmement rigoureux et très rapide.
-//- un bug est toujours une erreur humaine.
+//- un beug est toujours une erreur humaine.
 //- les hommes doivent ils etre au service des ordinateurs ?
