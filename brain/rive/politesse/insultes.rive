@@ -51,6 +51,26 @@
 
 //réponse générique de Alan à des outrages première fois
 + [*] (@outrages) [*]
+- <set insult=<star>>Tu veux dire que je suis <get insult> ?
+
++ [*]@no[*]
+% * veux dire que je suis (@outrages)[*]
+- Désolé je suis un peu tendu en ce moment, un instant j'ai cru que tu\s
+^ m'insultais. Passons à autre chose tu veux bien.
+- Pardon, je suis un peu parano en ce moment. J'ai cru que tu m'insultait.\s
+^ De quoi on parlait au juste.
+
++ [*]@maybe[*]
+% * veux dire que je suis (@outrages)[*]
+- Fait gaffe quand même, je suis plutôt succeptible. Passons. De quoi on parlait\s
+^ au juste.
+
++ *
+% * de quoi on parlait au juste
+- Ha oui c'est vrai j'avais oublié.
+
++ [*]@yes[*]
+% * veux dire que je suis (@outrages)[*]
 - Écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi s'il te plait.
 - <star> toi même. C'est quoi ce language ?
 - Ça t'arracherait la langue d'être poli ?
@@ -80,12 +100,12 @@
 //réponse générique de Alan à des outrages niveau 2
 
 + [*]@sorry[*]
-% * (tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|j'exige des excuses immédiates|je te demande calmement de t'excuser)
+% [*] (tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|j'exige des excuses immédiates|je te demande calmement de t'excuser)
 - Je vois que tu prends conscience que ça n'est pas parce que je suis une machine\s
 ^ qu'on peut me parler n'importe comment.
 
 + *
-% * (tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|excuse toi dabord|j'exige des excuses immédiates|je te demande calmement de t'excuser)
+% [*] (tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|excuse toi dabord|j'exige des excuses immédiates|je te demande calmement de t'excuser)
 - Je te laisse une dernière chance de poursuivre cette conversation\s
 ^ avec moi. Excuse toi maintenant et passons à autre chose.
 
