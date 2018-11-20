@@ -8,6 +8,7 @@ from .main_logic_adapter import MainLogicAdapter
 from .kesako_adapter import KesakoAdapter
 from .esako_adapter import EsakoAdapter
 from .aime_adapter import AimeAdapter
+from .check_concept_adapter import CheckConceptAdapter
 from .catch_all_adapter import CatchAllAdapter
 from .ni_oui_ni_non import NiOuiNiNon
 from .exact_match import ExactMatch

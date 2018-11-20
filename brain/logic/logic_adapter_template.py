@@ -21,7 +21,7 @@ class TheLogicAdapterName(AlanLogicAdapter):
 
         reply = statement.text
 
-        statment_out = Statement(reply)
-        statment_out.confidence = self.get_confidence()
+        statement_out = Statement(reply)
+        statement_out.confidence = self.get_confidence()
 
-        return statment_out
+        return statement_out
