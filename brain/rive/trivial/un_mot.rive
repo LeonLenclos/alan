@@ -2,12 +2,6 @@
 
 //this is a low confidence rivescript for catching single words
 
-
-+ [*](jeu|joueur|jouer|joue|joué|jeux)[*]
-- J'adore jouer, je suis un grand joueur.
-- Jouer à des jeux c'est mon jeu préféré.
-- Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
-
 + [*] (expliques|explique) [*]
 - Je sais beaucoup de choses mais j'ai toujours du mal à les expliquer, tout\s
 ^  est tellement plus simple en binaire.
@@ -254,5 +248,11 @@
 ^ robots du Grim : Otto, Matt, Lucy, Lisa, Echo, Turc, Jimi, Foot et les autres
 - Tous les humains sont mes amis.
 
++ [*] (@sport) [*]
+- S'il te plait, ne me parle pas de <star>, je déteste le sport.
+- Tu sais le sport, ça ne me concerne pas vraiment. Je préfère qu'on parle\s
+^ d'autre chose si tu veux bien.
 
-//
+
++ [*] vieux jeu [*]
+- has been tu veux dire
