@@ -1,0 +1,4 @@
+{
+    "input_adapter": "input.NoInput",
+    "output_adapter": "output.NoOutput"
+}

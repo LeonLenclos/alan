@@ -3,7 +3,7 @@ import json
 import argparse
 from alan import Alan
 
-# curl -d '' localhost:8080/new
+# curl -d '' localhost:80/new
 # curl -d '{"msg":"Bonjour Alan","conversation_id":138}' localhost:8080/talk
 
 ADRESS = ('localhost', 8080)
@@ -34,16 +34,27 @@ class Serv(BaseHTTPRequestHandler):
 
         conversation_id = alan.conversation_id
         self.alans[conversation_id] = alan
-        return str(conversation_id)
+        return {
+            'conversation_id' : str(conversation_id),
+            'alan_status' : alan.status()
+            }
+
 
     def talk(self, msg, conversation_id):
         """Take a msg and a conversation_id and return the response"""
         try:
             alan = self.alans[conversation_id]
         except KeyError:
-            return "La conversation {} n'existe pas où elle a été fermée.".format(conversation_id)
+            return {'err': "La conversation {} n'existe pas où elle a été fermée.".format(conversation_id)}
+        response = alan.talk(msg)
 
-        return alan.get_response(msg).text
+        command = None
+        if "command" in response.extra_data:
+            command = response.extra_data["command"]
+        return {
+            'text':response.text,
+            'command': command
+            }
 
     def do_GET(self):
         if self.path == '/':
@@ -82,10 +93,10 @@ class Serv(BaseHTTPRequestHandler):
             self.send_response(200)
         else:
             self.send_response(400)
-            reply = "Bad request"
+            reply = {'err': "Bad request..."}
 
         self.end_headers()
-        self.wfile.write(bytes(reply, 'utf-8'))
+        self.wfile.write(bytes(json.dumps(reply), 'utf-8'))
 
     def end_headers (self):
         self.send_header('Access-Control-Allow-Origin', '*')
@@ -94,7 +105,7 @@ class Serv(BaseHTTPRequestHandler):
 
 if __name__ == '__main__':
     ap = argparse.ArgumentParser()
-    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["default"])
+    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["server"])
     args = ap.parse_args()
     settings_files = args.s
 

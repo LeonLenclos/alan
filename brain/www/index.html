@@ -51,7 +51,13 @@ button {
 	width: 90px;
 	mmargin: 5px;
 }
-
+button:hover {
+	font-weight: bold;
+}
+input:disabled, button:disabled {
+	background: #333;
+	font-weight: normal;
+}
   </style>
 </head>
 <body>
@@ -77,10 +83,11 @@ button {
 		var conv = null;
 		var jsonMsg = "";
 		$.post(url, jsonMsg, newConvCallback,'text');
-		function newConvCallback(conversation_id) {
-			console.log(conversation_id)
-			conv = conversation_id
-			$('#conversation_id').html("Conversation ouverte. ("+conversation_id+")")
+		function newConvCallback(response) {
+			var response = $.parseJSON(response)
+			conv = response.conversation_id
+			$('#conversation_id').html("Conversation ouverte. ("+response.alan_status+")")
+			enable_input()
 		}
 
 		// Event for pressing ENTER key
@@ -96,8 +103,29 @@ button {
 		// Event for pressing #talk button
 		$("#talk").click(talk);
 
+
+		function disable_input (){
+			console.log(123);
+			$("#talk").prop( "disabled", true );
+			$("#msg").prop( "disabled", true );
+		}
+
+		function enable_input (){
+			console.log(123456);
+			$("#talk").prop( "disabled", false );
+			$("#msg").prop( "disabled", false );
+		}
+
+		var conversation_open = true;
 		// Function for talking
 		function talk() {
+			// prevent for talking to a closed conversation
+			if(!conversation_open){
+				alert('La conversation est terminée.')
+				return
+			}
+
+			disable_input()
 		    var url = 'http://localhost:8080/talk';
 		    
 		    // Add user entry to #discussion
@@ -128,18 +156,29 @@ button {
 	        // success callback
 			function talkCallback(response) {
 				// Add response to #discussion
-				addToDiscussion(response, "alan")
+				response = $.parseJSON(response)
+				addToDiscussion(response.text, "alan")
+				if(response.command != "quit"){
+					enable_input();
+				} else {
+					conversation_open = false;
+					$('#conversation_id').html("Conversation fermée.")
+				}
 
 			}
 
 			function addToDiscussion(txt, speaker) {
-				new_entry = '<li class="'+speaker+'">'+txt+'</li>'
-				discussion = $("#discussion").html()
+				var new_entry = '<li class="'+speaker+'">'+txt+'</li>'
+				var discussion = $("#discussion").html()
 				$("#discussion").html(discussion + new_entry)
 				// scroll
 				$("#discussion-container").animate(
 					{ scrollTop: $('#discussion-container').prop("scrollHeight")}, 1000);
 			}
+
+
+					
+
 		}
 	});
 
