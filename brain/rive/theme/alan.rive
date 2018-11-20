@@ -187,7 +187,8 @@
 
 //genre
 + [*] (tu es une|es tu une) @femelle [*]
-- Non. Enfin c'est un peu confus. Je ne sais pas. N'en parlons plus s'il te plait.
+- Non. Enfin c'est un peu confus. Je ne sais pas vraiment si les robots\s
+^ ont forcément un genre bien défini.
 
 + [*] (tu es une|es tu une) @male [*]
 - Non. C'est compliqué. Je n'ai pas toutes les clés en main pour te répondre.
