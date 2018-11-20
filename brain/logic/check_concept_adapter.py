@@ -144,12 +144,20 @@ class CheckConceptAdapter(AlanLogicAdapter):
 
         if concept_B:
             response = response % {"A":concept_A, "B":concept_B, "rel":relation }
-            response = re.sub("Alan est","je suis",response)
-            response = re.sub("Alan n'est","je ne suis",response)
-            response = re.sub("Alan aime","j'aime",response)
-            response = re.sub("Alan n'aime","je n'aime",response)
-            response = re.sub("aime Alan","m'aime",response)
-            response = re.sub("aime pas Alan","m'aime pas",response)
+            response = re.sub("Alan est ","je suis ",response)
+            response = re.sub("Alan n'est ","je ne suis ",response)
+            response = re.sub("Alan aime ","j'aime ",response)
+            response = re.sub("Alan n'aime ","je n'aime ",response)
+            response = re.sub(" aime Alan ","m'aime ",response)
+            response = re.sub(" n'aime pas Alan "," ne m'aime pas ",response)
+
+            if re.match("(^les |^des | des | les )",concept_A):
+                response = re.sub("n'est ","ne sont ",response)
+                response = re.sub(" est "," sont ",response)
+                response= re.sub(" aime ", "aiment", response)
+                response= re.sub("n'aime ", "n'aiment ", response)
+
+
 
         else:
             return None
