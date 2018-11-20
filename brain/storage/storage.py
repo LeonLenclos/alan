@@ -81,7 +81,7 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         Add the concept and return the concept id
         if the concept already exist, just return the id
         """
-        concept = concept.lower()
+    
 
         session = self.Session()
 

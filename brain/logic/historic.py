@@ -55,7 +55,7 @@ class Historic(AlanLogicAdapter):
 
     def process(self, statement):
 
-        statment_out = Statement("")
+        statement_out = Statement("")
         confidence = compare(statement.text, self.questions)**2
 
 
@@ -63,6 +63,6 @@ class Historic(AlanLogicAdapter):
         latest = get_latest(**self.get_latest_kargs)
         latest = '"%s"' % latest
 
-        statment_out.text = choice(self.context_sentences) % {"quote":latest}
-        statment_out.confidence = self.get_confidence(confidence)
-        return statment_out
+        statement_out.text = choice(self.context_sentences) % {"quote":latest}
+        statement_out.confidence = self.get_confidence(confidence)
+        return statement_out

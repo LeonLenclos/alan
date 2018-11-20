@@ -45,8 +45,8 @@ class MVOChatbotAdapter(AlanLogicAdapter):
         response, confidence = main.alan_answer(input_string, self.encoder, self.decoder, self.input_lang, self.output_lang, self.USE_CUDA, self.max_length, self.temperature_fun, self.USE_QACORPUS, self.n_words)
 
         #print("mvo confidence : {}".format(confidence))
-        statment_out = Statement(response)
-        statment_out.confidence = self.get_confidence()
+        statement_out = Statement(response)
+        statement_out.confidence = self.get_confidence()
 
 
-        return statment_out
+        return statement_out
