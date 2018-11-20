@@ -48,7 +48,8 @@ class Historic(AlanLogicAdapter):
 
     def can_process(self, statement):
         get_latest = self.chatbot.storage.get_latest_statement
-        if (get_latest(**self.get_latest_kargs)
+        if (get_latest(**self.get_latest_kargs,
+        conversation_id=self.chatbot.conversation_id)
              and compare(statement.text, self.questions) > 0.2):
             return True
         return False
@@ -60,7 +61,8 @@ class Historic(AlanLogicAdapter):
 
 
         get_latest = self.chatbot.storage.get_latest_statement
-        latest = get_latest(**self.get_latest_kargs)
+        latest = get_latest(**self.get_latest_kargs,
+        conversation_id=self.chatbot.conversation_id)
         latest = '"%s"' % latest
 
         statement_out.text = choice(self.context_sentences) % {"quote":latest}

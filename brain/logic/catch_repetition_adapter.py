@@ -56,7 +56,8 @@ class CatchRepetitionAdapter(AlanLogicAdapter):
             conversation_id=self.chatbot.conversation_id)
         latest_same = get_latest(
             speaker=self.speaker,
-            text=statement.text)
+            text=statement.text,
+            conversation_id=self.chatbot.conversation_id)
         latest_same_in_conv = get_latest(
             speaker=self.speaker,
             text=statement.text,

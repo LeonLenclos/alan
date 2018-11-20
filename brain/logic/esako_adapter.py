@@ -43,7 +43,7 @@ class EsakoAdapter(AlanLogicAdapter):
             raise KeyError('relation is a required argument')
         if type(self.relation) != str:
             raise TypeError("relation must be a string")
-        
+
         self.concept_asked = None
 
     def can_process(self, statement):
@@ -55,7 +55,8 @@ class EsakoAdapter(AlanLogicAdapter):
 
 
         last_logic=self.chatbot.storage.get_latest_response_extra_data(
-                                                extra_data="logic_identifier")
+                                                extra_data="logic_identifier"
+                                            ,conversation_id=self.chatbot.conversation_id)
         if self.concept_asked:
             if last_logic == "kesako":
                 if self.relation in statement.text:
