@@ -291,7 +291,7 @@ class Alan(chatterbot.ChatBot):
         self.log("CONVERSATION :")
         count = self.storage.count_conv(self.conversation_id)
         for i in reversed(range(count)):
-            self.log("- " + self.storage.get_latest_statement(offset=i).text)
+            self.log("- " + self.storage.get_latest_statement(offset=i, conversation_id=self.conversation_id).text)
 
     def quit(self):
         """Quit Alan."""
@@ -309,9 +309,10 @@ class Alan(chatterbot.ChatBot):
         """Write 4 last statements in the todo file."""
         count = len(self.last_results) if len(self.last_results) < 6 else 6
         with open("../todo", "a") as f:
+            f.write('({})'.format(self.conversation_id))
             f.write('\n'*3 + '\n'.join([
                 ('> ' if i%2 != count%2 else '') +
-                self.storage.get_latest_statement(offset=i+2).text
+                self.storage.get_latest_statement(offset=i+2, conversation_id=self.conversation_id).text
                 for i in reversed(range(count))
             ]))
 
