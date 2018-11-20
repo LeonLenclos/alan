@@ -81,6 +81,7 @@ class Alan(chatterbot.ChatBot):
         self.last_results=[]
         self.user_name = None
         self.error_messages = self.settings.get('error_messages', None)
+        self.close = False
 
         # init chatterbot
         super().__init__(self.name, **self.settings)
@@ -208,6 +209,10 @@ class Alan(chatterbot.ChatBot):
         Use input adapters to get an input, get a response and output the
         response with output adapters.
         """
+
+        if self.close :
+            raise EndOfConversation()
+            
         command_regex = r"\*(.+)\*"
 
         try:
@@ -233,6 +238,8 @@ class Alan(chatterbot.ChatBot):
             # Execute command
             if command:
                 self.execute_command(command.group(1))
+                output.add_extra_data("command", command.group(1))
+
 
             # Waiting
             if listener: listener.send(state='waiting')
@@ -286,7 +293,7 @@ class Alan(chatterbot.ChatBot):
     def quit(self):
         """Quit Alan."""
         self.finish()
-        sys.exit()
+        self.close = True;
 
     def reset(self):
         """Reset Alan."""
@@ -326,11 +333,15 @@ class Alan(chatterbot.ChatBot):
 
     def main_loop(self):
         """Run the main loop"""
-        while True:
+        while not self.close:
             try:
                 self.talk()
             except(KeyboardInterrupt, EOFError, SystemExit):
                 break
+
+
+class EndOfConversation(Exception):
+    pass
 
 def main():
     # Arguments parsing
