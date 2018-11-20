@@ -73,7 +73,7 @@ Voir [brain/settings/README.md](brain/settings/README.md) pour plus d'informatio
 ```
 $ source activate alan
 ```
-sur l'hardware d'alan, taper "alan" active son environnement. On peut tout de même activer l'environnement en tapant 
+sur l'hardware d'alan, taper "alan" active son environnement. On peut tout de même activer l'environnement en tapant
 ```
 $ source activate alan-env
 ```

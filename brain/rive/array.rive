@@ -41,7 +41,7 @@
 ^ bitembois|Bitembois|boudin|bouffi|bouffon|bougnoul|bougnoule|bougre
 ^ boulet|bounioul|bounioule|branleur|brigand|brise burne|cacou|caldoche
 ^ casse bonbon|casse couille|casse couilles|chauffard|chien de chrétien
-^ chiennasse|chienne|chier|chinetoc|chinetoque|chintok|chleuh|chnoque
+^ chiennasse|chienne|chinetoc|chinetoque|chintok|chleuh|chnoque
 ^ coche|con|con comme la lune|con comme ses pieds|con comme un balai
 ^ con comme un manche|con comme une chaise|con comme une valise sans poignée
 ^ conasse|conchier|connard|connarde|connasse|counifle|courtaud|corniaud|corniau|crétin
@@ -83,6 +83,9 @@
 ^ vier|vieux blanc|vieux schnock|vieux shnock|weeaboo|xeropineur|youd|youp
 ^ youpin|youpine|youpinisation|youtre
 
+! array fuck = je t'emmerde|tu m'emmerdes|tu fais chier|tu me fais chier
+^ tu me gonfles|tu me saoules
+
 //////////////////////////////////YES/NO////////////////////////////////////////
 
 //yes
@@ -116,8 +119,8 @@
 ! array positive = à fond|admirablement|au poil|au taquet|bien|ça va|colossal
 ^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux
 ^ fantastique|faramineux|formidable|fou|génial|grosse forme
-^ impeccablement|inconcevable|incroyable|inimaginable|inouï
-^ insensé|la forme|la patate|la pêche|magique|merveilleux
+^ impeccablement|inconcevable|incroyable|inimaginable|inouï|extra
+^ insensé|la forme|la patate|la pêche|magique|merveilleux|chouette
 ^ nickel|parfaitement|péchu|pêchu|phénomenal|prodigieux|sensas
 ^ sensationnel|stupéfiant|super|surnaturel|terrible|top|tranquille
 ^ en pleine forme|grosse patate|impec|ça se passe|nickel|nickel chrome
@@ -129,6 +132,8 @@
 //happy
 ! array happy = heureux|gai|enchanté|content|satisfait|joyeux|béat|ravi
 ^ bienheureux|radieux|comblé
+
+! array youpi = youpi|youpla
 
 //array bad intent
 ! array bad_intent = veux du mal|retourner contre nous|anéantir les humains
@@ -156,7 +161,7 @@
 ! array femelle = nana fille femme gonzesse gonze meuf
 
 //poésie
-! array poem_m = poème hymne ode madrigal sonnet alexandrin quatrain
+! array poem_m = poème poeme hymne ode madrigal sonnet alexandrin quatrain
 
 ! array poem_f = poésie ballade élégie ode romance
 
@@ -249,6 +254,9 @@
 ! array joke = blague|blagues|histoire drôle|histoires drôles|jeu de mot
 ^ jeu de mots|jeux de mot|jeux de mots|histoire drole|histoires droles
 
+
+! array alcool = vin bierre whisky porto alcool gin
+
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
 ! array intelligent_synonymous = intelligent brillant capable clairvoyant
@@ -267,3 +275,7 @@
 ^ inintelligent obtus sot stupide abruti niais vide andouille ballot
 ^ bêta cloche cruche demeuré gourde manche niais
 ^ arriéré mental | débile mental | simple d'esprit
+
+! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
+
+! array grimrobots = otto|matt|lucy|lisa|echo|turc|jimi|foot

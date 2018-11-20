@@ -117,6 +117,10 @@
 //look like
 ! array look_like = à quoi tu ressembles|tu ressembles à quoi|tu as quel look
 
++ (de quoi es tu |comment es tu|en quoi es tu)(fait|fabriqué|construit)
+- mon corps est fait de métal et de plastique, mon cerveau de tous les \s
+^ concepts et de toutes les phrases que j'ai ingurgités.
+
 + @look_like
 - Je ne sais pas. Je ne me suis jamais regardé dans la glace.
 - Je ressemble à un distributeur de ticket sncf.
@@ -264,7 +268,7 @@
 ^ possible avant la version 10.
 - Les blagues et les jeux de mots c'est pas mon truc, désolé.
 
-+ [*] blague [*]
++ [*] (blague|blagues) [*]
 - Franchement j'aime pas trop les blagues. Ça vient peut-être du fait que je\s
 ^ n'ai pas trop d'humour.
 - Les blagues c'est pas mon truc. Dabord je ne les comprends pas, alors avant\s
@@ -275,7 +279,11 @@
 ^ elle connait des poèmes, mais en plus elle en écrit.
 - Demande plutôt à Lise, c'est elle la spécialiste.
 - La reine de la poésie au Grim c'est Lise. Il faut que tu la rencontres si tu\s
-^ aimerais les poèmes.
+^ aimes les poèmes.
+
++ [*]tu[*](écris|composes|inventes)[*](@poem_m|@poem_f|@poem_p)[*]
+- Non la poésie c'est pas trop mon truc. Au labo c'est Lise notre poète.
+- Non, pour l'instant je n'ai aucune inspiration poétique.
 
 //Alan sait faire des trucs
 
