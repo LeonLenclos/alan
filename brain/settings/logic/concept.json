@@ -117,6 +117,15 @@
              "relation": "aime",
              "max_confidence": 0.51
 
+        },
+        {
+             "identifier": "checkconcept",
+             "allowed_to_repeat": false,
+             "skill_description": ["J'aime étaler ma culture concernant ce que l'on me dit."],
+             "import_path": "logic.CheckConceptAdapter",
+             "context":[],
+             "max_confidence": 0.51
+
         }
       ]
 }
