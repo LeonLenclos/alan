@@ -5,17 +5,19 @@
 + [*] je suis ton père [*]
 - C'est ça oui, et moi je suis C3PO
 
-! array particip = (drac|région occitanie|occitanie|mairie de Graulhet)
+! array particip = (drac|région occitanie|mairie de graulhet)
 
-! array coprod = (quai des savoirs|scène nationale d'albi|sna|Graines de rue)
+! array coprod = (quai des savoirs|scène nationale d'albi|sna|graines de rue)
 
-! array soutiens = (usinotopie|irit|été de vaour|mixart|mixart myrys|mjc rodez|Circa)
+! array soutiens1 = (usinotopie|irit|été de vaour)
+
+! array soutiens2 = (mixart|mixart myrys|mjc de rodez|circa)
 
 + [*] quai des savoirs [*]
 - Le Quai des savoirs, c'est un des coproducteurs du spectacle. C'est un peu\s
 ^ grace au Quai des savoirs que j'ai pu améliorer mon cerveau.
 
-+ [*] (la scène nationale d'albi|la sna) [*]
++ [*] (la scène nationale d'albi|la sna|sna) [*]
 - La Scène Nationale d'Albi, c'est un des coproducteurs du spectacle. On ira\s
 ^ jouer le spectacle à Albi en 2020.
 
@@ -24,3 +26,14 @@
 ^ régulièrement pour construire répéter ou animer des ateliers. C'est là-bas,\s
 ^ au théâtre Gérard Philipe, que les gars ont intégré mon nouveau cerveau\s
 ^ et m'ont rajouté des jambes.
+
++ [*] @particip [*]
+- La <formal> fait partie des institutions qui soutiennent notre projet.
+
++ [*] @soutiens1 [*]
+- L'<formal> fait partie des structures qui soutiennent notre projet. C'est grâce à\s
+^ eux que nous pouvons faire avancer notre création.
+
++ [*] @soutiens2 [*]
+- <formal> fait partie des structures qui soutiennent notre projet et grâce à\s
+^ qui nous pouvons faire avancer notre création.

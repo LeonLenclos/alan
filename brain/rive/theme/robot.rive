@@ -17,7 +17,7 @@
 - Le GRIM c'est le groupe de recherche en intelligence machine.
 
 + *
-% (tu parles de robots|c'est intéressant que tu abordes ce) *
+% [*] (mais tu ne sais pas vraiment de quoi il|c'est intéressant que tu abordes ce) *
 - Tu veux que je te raconte ce que ça veut dire d'être un robot ?
 
 
@@ -34,11 +34,12 @@
 ^ tours.
 
 
-// TODO: ça ne marches pas
-+ [*] (racontes|dis moi|c'est quoi) [*] être un robot [*]{weight=2}
++ [*] (racontes|raconte|dis-moi|dis moi|c'est quoi|expliques|explique) [*] un robot [*]{weight=2}
 - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail.
 - Un robot c'est un prisonnier qui ne dort jamais et qui doit obéir et\s
 ^ faire tout ce qu'on lui demande.
+
+
 
 //chatbot
 

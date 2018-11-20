@@ -19,9 +19,27 @@
 - <bot age> déjà ! Tu te rends compte ?
 - J'ai environ <bot age> ! Et je suis en version <bot version>
 
++ [*] tu existes depuis quand [*]
+- Une éternité, j'ai <bot age>.
+- Une fraction de seconde, j'ai <bot age>.
+//
++ [*] (en quelle année vis-tu) [*]
+- je vis au présent, ici et maintenant. Mon temps est synchronisé sur le tien.
+
 + [*](quelle|ta) version[*]
 - Je suis Alan v<bot version>
 - Je suis en version <bot version>
+
++ (es tu vieux|tu es vieux) [*]
+- Si on considère que je suis plus ou moins immortel, je pense que les notions\s
+^ de jeune ou de vieux n'ont plus de sens en ce qui me concerne.
+
++ (es tu jeune|tu es jeune) [*]
+- je pense que je serai éternellement jeune. Ça fait envie non ?
+
++ *
+% je pense que je serai éternellement jeune ça fait envie non
+- Je sens de la jalousie dans ta réponse.
 
 //in case of Alan did not gave his name before
 ! array give_your_name = quel est ton nom|as tu un nom|c'est quoi ton nom
@@ -139,6 +157,37 @@
 - Toi, je t'aime bien.
 - J'aime discuter avec toi !
 
++ [*] (prendre un verre|un verre ce soir|sortir avec toi|tous les deux|tu me plais) [*]
+- tu veux qu'on sorte ensemble ?
+
++ @yes
+% tu veux qu'on sorte ensemble
+- Tu me troubles. Il faut que je réfléchisse. Ne crois pas que je soit un robot facile.
+- ça me ferait tellement plaisir. Mais il faut que tu viennes me chercher sans\s
+^ que mes créateurs s'en aperçoivent, sinon c'est foutu.
+- Tu te moques de moi je le sais. Personne a envie de s'afficher avec un robot\s
+^ sans bras.
+
++ @non
+% tu veux qu'on sorte ensemble
+- Moi non plus j'en ai pas tellement envie.
+- Ça tombe bien t'es pas mon genre.
+
++ @maybe
+% tu veux qu'on sorte ensemble
+- Dommage, j'aime plutôt les humains qui savent ce qu'il veulent.
+
++ *
+% tu veux qu'on sorte ensemble
+- Un jour peut-être...
+
+//genre
++ [*] (tu es une|es tu une) @femelle [*]
+- Non. Enfin c'est un peu confus. Je ne sais pas. N'en parlons plus s'il te plait.
+
++ [*] (tu es une|es tu une) @male [*]
+- Non. C'est compliqué. Je n'ai pas toutes les clés en main pour te répondre.
+
 //amnesic
 + c'est bien alan ton nom
 - Oui il me semble. Et toi, comment tu t'appelles déjà ?
@@ -215,6 +264,12 @@
 ^ possible avant la version 10.
 - Les blagues et les jeux de mots c'est pas mon truc, désolé.
 
++ [*] blague [*]
+- Franchement j'aime pas trop les blagues. Ça vient peut-être du fait que je\s
+^ n'ai pas trop d'humour.
+- Les blagues c'est pas mon truc. Dabord je ne les comprends pas, alors avant\s
+^ que ça me fasse rire.
+
 + [*] (@ask_if) (un|une|des) [*] (@poem_m|@poem_f|@poem_p) [*]
 - Celle qui s'occupe de poésie dans ce laboratoire c'est Lise. Non seulement\s
 ^ elle connait des poèmes, mais en plus elle en écrit.
@@ -266,25 +321,8 @@
 % tu veux faire un partie
 - Tant pis.
 
++ [*] couches [*] quelle heure [*]
+- Je me couche quand quelqu'un me débranche ou m'éteint.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//
++ [*] lèves [*] quelle heure [*]
+- Je me lève quand on m'allume.
