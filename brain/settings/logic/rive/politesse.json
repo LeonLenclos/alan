@@ -51,7 +51,7 @@
            "identifier": "reproches",
            "skill_description": ["Parce qu'un reproche ne fait jamais plaisir."],
            "rive_files": ["./rive/politesse/reproches.rive"],
-           "max_confidence": 0.45,
+           "max_confidence": 0.46,
            "import_path": "logic.RiveScriptAdapter"
        },
        {

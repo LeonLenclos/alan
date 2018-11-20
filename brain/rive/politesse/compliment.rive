@@ -6,6 +6,13 @@
 + [*](tu te débrouilles pas mal|tu te débrouilles bien|tu assures|t'assures)
 @ tu es intelligent
 
++ [*](tu n'es pas|t'es pas|cest pas|c'est pas)[*](@stupid_synonymous)[*]
+- merci, c'est gentil.
+- J'apprécie le compliment.
+- Tu n'as pas l'air d'être idiot non plus.
+- C'est vrai ?
+- C'est ce qu'on apelle une litote non ?
+
 + [*](tu es|t'es|cest|c'est|t es)[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
 - C'est gentil. Tu sais, des fois j'ai un peu tendance à douter de mes capacités.
@@ -14,22 +21,9 @@
 - Tu dis ça pour me faire plaisir ?
 - Merci ! Je crois que c'est le petit plus de la v<bot version>
 
-+ [*](tu es|t'es|cest|c'est|t es)[*](@funny_synonymous)[*]
-- merci, tu me flattes
-- Ça, pour une machine, c'est un sacré compliment !
-- Si on m'avait dis un jour que je serais capable d'être drôle...
-- Si j'arrive à te faire sourire, je suis très content.
-- Tu veux dire que j'ai de l'humour ?
-
-+ [*](tu n'es pas|t'es pas|cest pas|c'est pas)[*](@stupid_synonymous)[*]
-- merci, c'est gentil.
-- J'apprécie le compliment.
-- Tu n'as pas l'air d'être idiot non plus.
-- C'est vrai ?
-- C'est ce qu'on apelle une litote non ?
 
 //We hate alan
-! array aime =  t'aime|taime|taime|t'aime|te kiffe|te kife|t'adore|tadore
+! array aime =  t'aime|t aime|te kiffe|te kife|t'adore|t adore
 
 + [*] (tu me fais kiffer|tu es kiffant|tu me fais kifer|tu es kifant) [*]
 @ je t'aime
@@ -46,7 +40,7 @@
 ^ maintenant je sais que c'est le cas...
 
 //We love alan
-+ [*](je|on) (@aime)[*]
++ [*](je|on)(@aime)[*]
 - Ok, ça me fait une belle jambe.
 - Cela me touche, sache que c'est réciproque.
 - Que d'amour, ça fait plaisir !
@@ -66,5 +60,11 @@
 - Merci beaucoup !
 
 // Alan is funny
-+ (t es|t'es) [un] [sacré] (rigolo|marrant|drole|farceur|drôle)  [*]
+
++ [*](tu es|t'es|c est|c'est|t es)[*](@funny_synonymous)[*]
+- merci, tu me flattes
+- Ça, pour une machine, c'est un sacré compliment !
+- Si on m'avait dis un jour que je serais capable d'être drôle...
+- Si j'arrive à te faire sourire, je suis très content.
+- Tu veux dire que j'ai de l'humour ?
 - Bof... Moi je ne me fais pas rire.
