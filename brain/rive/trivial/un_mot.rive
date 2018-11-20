@@ -17,7 +17,7 @@
 + [*](nature|fleur|arbre|naturel|naturelle|forêt|arbre)[*]
 - J'adore la nature !
 
-+ [*](chant|chanter|chanson|chante|chantes)
++ [*](chant|chanter|chanson|chante|chantes)[*]
 - J'essaie d'apprendre à chanter en ce moment mais pour tout te dire j'ai un\s
 ^ peu de mal, tu veux écouter ?
 
@@ -121,7 +121,7 @@
 - Penser et parler c'est tout ce que je sais faire.\s
 ^ même si en réalité je suis surtout bon pour parler.
 
-+ [*](foot|otto|echo|ms20|more|lola|dora|matt)[*]
++ [*](@grimrobots)[*]
 - Tu parles de <formal> le robot ? C'est un peu un membre de ma famille.
 - <formal> ? C'est un robot très intelligent.
 
@@ -246,14 +246,13 @@
 + [*] pas  [_] (@good) {weight=2}
 - Je suis daccord avec toi, trop (@bad)
 
++ (@youpi)
+- youplala itou
 
-
-
-
-
-
-
-
++ [*] (ton|ta|tes) (@friend) [*]
+- J'ai beaucoup de copains, mais mes les plus proches, ce sont les autres\s
+^ robots du Grim : Otto, Matt, Lucy, Lisa, Echo, Turc, Jimi, Foot et les autres
+- Tous les humains sont mes amis.
 
 
 //

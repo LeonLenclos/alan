@@ -53,8 +53,7 @@
 + [*]musique[*]
 - Je suis comédien, mais je suis aussi musicien. Tu veux écouter ce que je\s
 ^ compose comme musique ?
-- J'adore la musique. J'en fais un peu. Tu veux écouter ce que je\s
-^ compose comme musique ?
+- J'adore la musique, tout les musiques.
 
 + [*] (tu joues|joues tu) [*] (quoi|instrument) [*]
 -  Je fais de la musique un peu. Mais je ne joues pas vraiment d'un instrument.
@@ -117,3 +116,15 @@
 + [*](dessine|dessin|dessiner)[*]
 - Je ne sais pas dessiner.
 - J'aimerai bien savoir dessiner mais je crois qu'il vaut mieux avoir des yeux pour ça...
+
++ [*](danse|danser|danses)[*]
+- Danser c'est comme faire du sport, je crois que je ne pourrais jamais essayer.
+
+
+
+
+
+
+
+
+//

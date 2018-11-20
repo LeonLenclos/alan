@@ -11,6 +11,8 @@
 - Je suis <person>.
 - Oui et toi ?
 
++ je suis *
+- Tu es <person> ! intéressant.
 
 + [alan] (sais tu|tu sais) *
 - Je crois bien que je sais <star2>.
@@ -201,7 +203,9 @@
 + mon * c'est [*]
 - C'est ça ton <star> ? Ça fait peur.
 
-
++ (t'en veux|tu en veux|t'en veux un peu|tu en veux un peu)
+- Non merci. C'est fortement déconseillé pour mes circuits.
+- J'aimerais bien mais je n'ai pas le droit.
 
 
 

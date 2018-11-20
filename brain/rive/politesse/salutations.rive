@@ -90,35 +90,35 @@
 ^ Vo, l'informatitien qui m'a injecté des millions de dialogues de films.
 - hm...
 
-+ *(@yes)*
++ [*](@yes)[*]
 % tu es pascale maison l'administratrice de la compagnie
 - Trop content, tu ne viens pas me parler assez souvent. Commment ça va ?
 
-+ *(@yes)*
++ [*](@yes)[*]
 % je connais un michel (*)
 - Ho Michel, j'ai tellement entendu parler de toi par Fabien. Commment ça va ?
 
-+ *(@yes)*
++ [*](@yes)[*]
 % tu es le fameux francis lopez (*)
 - Génial. J'adore quand tu viens me voir. Comment ça va ?
 
-+ *(@yes)*
++ [*](@yes)[*]
 % [*] est ce que tu es virginie talou (*)
 - Ho Virginie, quel honneur de parler avec toi. Comment ça va ?
 
-+ *(@yes)*
++ [*](@yes)[*]
 % (es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo) (*)
 - ho <get name>, très content d'échanger avec toi. Vous avez fait du bon boulot\s
 ^ à l'IRIT sur mon cerveau, comment ça va ?
 
-+ *(@no)*
++ [*](@no)[*]
 % (tu es pascale maison|tu es le fameux francis lopez|est ce que tu es virginie talou|es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo) (*)
 - Désolé <get name> je t'ai confondu avec une connaissance. Comment tu vas ?
 
 // If just one word is given, or one word followed by "et toi", we take it as the name and ask for feelings
 + _
 % * (@ask_name)
-- <set name=<formal>>Heureux de te rencontrer <get name>. Comment ça va ?
+- <set name={formal}<star1>{/formal}>Heureux de te rencontrer <get name>. Comment ça va ?
 
 + _ et toi
 % * (@ask_name)
@@ -144,14 +144,15 @@
   // same with name introduction
 + [*] (@name_intro|c'est|je suis) *
 % * (@ask_name)
-- <set name={formal}<star2>{/formal}> Tu t'appelle <get name> ? Pardon pour\s
-^ cette question mais je ne suis pas sûr d'être certain d'avoir compris ton nom.
+- <set name={formal}<star2>{/formal}>Pardon pour\s
+^ cette question mais je ne suis pas sûr d'être certain d'avoir compris ton nom.|s
+^ Tu t'appelles <get name> ?
 
 
 // When we're not sure about the name
 // if the user confirm his name, ask for feelings
 + [*] (@yes) [*]
-% * (c'est ton nom ça|mais je ne suis pas sûr d'être certain d'avoir compris ton nom)
+% * (c'est ton nom|mais je ne suis pas sûr d'être certain d'avoir compris ton nom) *
 - Ok, enchanté <get name> ! Comment tu vas ?
 
 // if the user say no and say his name, ask for confirmation
@@ -165,11 +166,18 @@
 % * (c'est ton nom ça|mais je ne suis pas sûr d'être certain d'avoir compris ton nom)
 - Ah, mais tu t'appelles comment alors ?
 
++ -
+% ah mais tu t'appelles comment alors
+- <set name={formal}<star1>{/formal}>Enchanté <get name>!
+
++ (@name_intro|c'est|je suis) - *
+% ah mais tu t'appelles comment alors
+- <set name={formal}<star1>{/formal}>Enchanté <get name>!
 
 // else we give up
 + *
 % * (c'est ton nom ça|mais je ne suis pas sûr d'être certain d'avoir compris ton nom)
-- <set name=undefined> hem... comment ça va sinon ?
+- <set name=humain> hem... comment ça va sinon ?
 
 // When we asked how the user feel
 ! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
@@ -257,7 +265,7 @@
 
 + *
 % * tu préfères que je t'appelle <get name> ou <get name2>
-- <set name={formal}monsieur x{/formal}>Je vois, dans le doute je vais\s
+- <set name={formal}humain{/formal}>Je vois, dans le doute je vais\s
 ^ t'appeler <get name>. Tu n'y vois pas d'inconvénients ?
 
 + [*] @no [*]
