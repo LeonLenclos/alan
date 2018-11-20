@@ -263,13 +263,6 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         session.close()
         return None
 
-    def get_latest_response(self, conversation_id):
-        """
-        Returns the latest response in a conversation if it exists.
-        Returns None if a matching conversation cannot be found.
-        """
-
-        return self.get_statement()
 
     def count_conv(self, conversation_id):
         """
