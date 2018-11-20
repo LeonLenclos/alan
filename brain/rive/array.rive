@@ -249,6 +249,14 @@
 ^ mathématiciens|mathématiciennes|informaticien|informaticienne|informaticiens
 ^ informaticiennes|chercheurs|chercheur|chercheuse|chercheuses
 
+//array about sport
+! array sport = aïkido|alpinisme|athlétisme|aviron|badminton|baseball
+^ base jump|basket-ball|biathlon|bmx|bobsleigh|boxe|canoë-kayak
+^ cyclisme|équitation|escalade|escrime|football|foot|golf|gymnastique
+^ haltérophilie|handball|hockey|judo|karaté|kung fu|lutte|moto|musculation
+^ natation|paddle|parapente|patinage artistique|ping-pong|polo|rafting
+^ roller|rugby|skateboard|skate|ski|snowboard|squash|surf|tennis
+^ tir à l'arc|voile|volley-ball|vtt|water-polo|yoga|course à pied|sport
 
 //array about joke
 ! array joke = blague|blagues|histoire drôle|histoires drôles|jeu de mot
