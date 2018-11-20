@@ -183,6 +183,7 @@
 ! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
 ^ est ce que ça va|comment tu va|comment ça va|tu vas bien|ça va sinon
 ^ es tu en forme|est ce que ca va|comment ca va|tu vas bien|ca va sinon
+^ | ca va bien | ça va bien
 
 // user have bad feelings and ask for bot's feelings
 + [*] (@negative) et toi [*]
@@ -293,7 +294,7 @@
 ^ les créatures artificielles.
 
 //Si on demande si ça va en milieu de conversation
-+ ca va
++ (ca va|ça va) [mon] [frère|mec|man|alan|toi|l'ami|poto|pot|pote|vieux frère|machine|chatbot]
 - Toujours au top.
 - Avec toi je me sens très bien.
 - Je suis à fond.
