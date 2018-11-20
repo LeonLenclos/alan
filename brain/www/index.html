@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Parler à Alan</title>
+  <meta charset="UTF-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <style type="text/css">
+
+  	body{
+  		font-family: monospace;
+  		text-align: center;
+			background: black;
+			color: white;
+  	}
+  	#discussion-container {
+  		height: 300px;
+  		width : 500px;
+  		overflow-y: scroll;
+  		margin:auto;
+			margin-bottom: 10px;
+			margin-top: 10px;
+			
+  	}
+
+  	#discussion {
+		margin: 10px;
+		padding: 0;
+	  	list-style-type: none;
+  		text-align: left;
+
+	}
+	#discussion > li {
+	}
+	#discussion > li:before {
+	  	content: "> ";
+	}
+
+	.alan {
+		font-weight: bold;
+	}
+input, button, #discussion-container{
+	color : white;
+	background: black;
+	border: solid 1px white;
+	
+}
+input {
+	width: 400px;
+}
+button {
+	width: 90px;
+	mmargin: 5px;
+}
+
+  </style>
+</head>
+<body>
+
+	<h2>Parler avec Alan</h2>
+
+	<div id=conversation_id>En attente d'une conversation.</div>
+	<div id="discussion-container">
+		<ul id="discussion"></ul>
+	</div>
+	<input type="text" id="msg"> <button type='button' id="talk">Parler</button>
+
+
+</body>
+<script type="text/javascript">
+	
+
+
+	$(document).ready(function(){
+
+		// Get a conversation_id
+		var url = 'http://localhost:8080/new';
+		var conv = null;
+		var jsonMsg = "";
+		$.post(url, jsonMsg, newConvCallback,'text');
+		function newConvCallback(conversation_id) {
+			console.log(conversation_id)
+			conv = conversation_id
+			$('#conversation_id').html("Conversation ouverte. ("+conversation_id+")")
+		}
+
+		// Event for pressing ENTER key
+		$(window).keydown(function(event){
+    		if(event.keyCode == 13) {
+    			talk()
+      			event.preventDefault();
+      			return false;
+    		}
+  		});
+		
+
+		// Event for pressing #talk button
+		$("#talk").click(talk);
+
+		// Function for talking
+		function talk() {
+		    var url = 'http://localhost:8080/talk';
+		    
+		    // Add user entry to #discussion
+		    addToDiscussion($("#msg").val(), "human")
+			
+			// Create Json Msg (with user entry)
+			var jsonMsg = {
+				msg:$("#msg").val(),
+				conversation_id:conv
+			};
+			
+			// Clear input
+			$("#msg").val("");
+
+			// Send POST request
+	        $.ajax({
+	            type: "POST",
+	            url: url,
+	            data: JSON.stringify(jsonMsg),
+	            contentType: "application/json; charset=utf-8",
+	            dataType: "text",
+	            success: talkCallback,
+	            failure: function(errMsg) {
+	                alert("Impossible d'envoyer le message à alan :'(");
+	            }
+	        });
+
+	        // success callback
+			function talkCallback(response) {
+				// Add response to #discussion
+				addToDiscussion(response, "alan")
+
+			}
+
+			function addToDiscussion(txt, speaker) {
+				new_entry = '<li class="'+speaker+'">'+txt+'</li>'
+				discussion = $("#discussion").html()
+				$("#discussion").html(discussion + new_entry)
+				// scroll
+				$("#discussion-container").animate(
+					{ scrollTop: $('#discussion-container').prop("scrollHeight")}, 1000);
+			}
+		}
+	});
+
+</script>
+</html>

@@ -51,7 +51,7 @@ class Alan(chatterbot.ChatBot):
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
 
-    def __init__(self, settings_files="default"):
+    def __init__(self, settings_files="default", preconfigured_logic_adapters=[]):
         """
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
@@ -66,6 +66,15 @@ class Alan(chatterbot.ChatBot):
         elif type(settings_files) == str: self.load_settings(settings_files)
         else : raise('TypeError', 'setting_files must be list or str')
 
+        # remove preconfigured logic adapters from settings
+        unconfigured_logic_settings = []
+        preconf_identifiers = [
+            l.identifier for l in preconfigured_logic_adapters]
+        for adapter_setting in self.settings["logic_adapters"]:
+            if adapter_setting["identifier"] not in preconf_identifiers:
+                unconfigured_logic_settings.append(adapter_setting)
+        self.settings["logic_adapters"] = unconfigured_logic_settings
+
         # Alan vars
         self.age = self.get_age()
         self.lines_of_code = self.get_lines_of_code()
@@ -76,9 +85,10 @@ class Alan(chatterbot.ChatBot):
         # init chatterbot
         super().__init__(self.name, **self.settings)
 
-        # change from MultiLogicAdapter to MainLogicAdapter
+        # change from MultiLogicAdapter to MainLogicAdapter and add preconfigured adapters
         logic_adapters = self.logic.get_adapters()[:-1]
         self.logic = MainLogicAdapter(**self.settings, chatbot=self)
+        logic_adapters.extend(preconfigured_logic_adapters)
         self.logic.adapters = logic_adapters
 
         # For having several output adapters
@@ -193,7 +203,7 @@ class Alan(chatterbot.ChatBot):
 
         return response
 
-    def talk(self, listener=None):
+    def talk(self, input=None, listener=None):
         """
         Use input adapters to get an input, get a response and output the
         response with output adapters.
@@ -204,7 +214,8 @@ class Alan(chatterbot.ChatBot):
 
             # Listen
             if listener: listener.send(state='listening')
-            input = self.input.process_input()
+            if not input:
+                input = self.input.process_input()
             self.log("INPUT : {}".format(input))
 
             # Think
@@ -241,6 +252,8 @@ class Alan(chatterbot.ChatBot):
                 self.quit()
             else:
                 raise
+
+        return output
 
     def execute_command(self, command):
         """Execute a special alan's command."""
