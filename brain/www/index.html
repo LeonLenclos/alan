@@ -68,7 +68,7 @@ input:disabled, button:disabled {
 	<div id="discussion-container">
 		<ul id="discussion"></ul>
 	</div>
-	<input type="text" id="msg"> <button type='button' id="talk">Parler</button>
+	<input type="text" id="msg" disabled> <button type='button' id="talk" disabled>Parler</button>
 
 
 </body>
@@ -79,7 +79,7 @@ input:disabled, button:disabled {
 	$(document).ready(function(){
 
 		// Get a conversation_id
-		var url = 'http://localhost:8080/new';
+		var url = '/new';
 		var conv = null;
 		var jsonMsg = "";
 		$.post(url, jsonMsg, newConvCallback,'text');
@@ -126,7 +126,7 @@ input:disabled, button:disabled {
 			}
 
 			disable_input()
-		    var url = 'http://localhost:8080/talk';
+		    var url = 'http://10.104.3.66:80/talk';
 		    
 		    // Add user entry to #discussion
 		    addToDiscussion($("#msg").val(), "human")

@@ -1,3 +1,4 @@
+# coding: utf8
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import json
 import argparse
@@ -6,7 +7,7 @@ from alan import Alan
 # curl -d '' localhost:80/new
 # curl -d '{"msg":"Bonjour Alan","conversation_id":138}' localhost:8080/talk
 
-ADRESS = ('localhost', 8080)
+ADRESS = ('10.104.3.66', 80)
 settings_files = []
 
 class Serv(BaseHTTPRequestHandler):
