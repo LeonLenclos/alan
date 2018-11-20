@@ -135,7 +135,7 @@ class Alan(chatterbot.ChatBot):
         lines_of_code = 0
         for root, dirs, files in os.walk("."):
            for name in files:
-              if name.endswith(('.py', '.json', '.rive')):
+              if name.endswith(('.py', '.json', '.rive', '.sh', '.html')):
                   path = '/'.join((root,name))
                   lines_of_code += sum(1 for line in open(path) if line != '\n')
         return lines_of_code
@@ -212,7 +212,7 @@ class Alan(chatterbot.ChatBot):
 
         if self.close :
             raise EndOfConversation()
-            
+
         command_regex = r"\*(.+)\*"
 
         try:
@@ -255,7 +255,9 @@ class Alan(chatterbot.ChatBot):
                     exc_type,
                     exc_value,
                     exc_traceback)))
-                self.output.process_response(Statement(random.choice(self.error_messages)), self.conversation_id)
+                output = Statement(random.choice(self.error_messages))
+                output.add_extra_data("command", "quit")
+                self.output.process_response(output, self.conversation_id)
                 self.quit()
             else:
                 raise
@@ -265,6 +267,7 @@ class Alan(chatterbot.ChatBot):
     def execute_command(self, command):
         """Execute a special alan's command."""
         if command == 'quit' : self.quit()
+        elif command == 'bug' : raise ArithmeticError()
         elif command == 'todo' : self.todo()
         elif command == 'info' : self.info()
         elif command == 'rst': self.reset() # reset
@@ -279,7 +282,7 @@ class Alan(chatterbot.ChatBot):
                 pass
         elif command.startswith("setmaxconf"):
             self.setmaxconf(*command.split(' ')[1:])
-        else : raise(KeyError, "The {} command does not exist".format(command))
+        else : raise KeyError("The {} command does not exist".format(command))
 
     def finish(self):
         """Do exit job before quitting"""
@@ -288,7 +291,7 @@ class Alan(chatterbot.ChatBot):
         self.log("CONVERSATION :")
         count = self.storage.count_conv(self.conversation_id)
         for i in reversed(range(count)):
-            self.log("- " + self.storage.get_latest_statement(offset=i).text)
+            self.log("- " + self.storage.get_latest_statement(offset=i, conversation_id=self.conversation_id).text)
 
     def quit(self):
         """Quit Alan."""
@@ -306,9 +309,10 @@ class Alan(chatterbot.ChatBot):
         """Write 4 last statements in the todo file."""
         count = len(self.last_results) if len(self.last_results) < 6 else 6
         with open("../todo", "a") as f:
+            f.write('({})'.format(self.conversation_id))
             f.write('\n'*3 + '\n'.join([
                 ('> ' if i%2 != count%2 else '') +
-                self.storage.get_latest_statement(offset=i+2).text
+                self.storage.get_latest_statement(offset=i+2, conversation_id=self.conversation_id).text
                 for i in reversed(range(count))
             ]))
 
@@ -329,7 +333,8 @@ class Alan(chatterbot.ChatBot):
         """Set the max confidence of the adapter with the given identifier
         to the given value"""
         logic_adapter = self.logic.get_adapter(identifier)
-        logic_adapter.max_confidence = float(value)
+        if logic_adapter:
+            logic_adapter.max_confidence = float(value)
 
     def main_loop(self):
         """Run the main loop"""
