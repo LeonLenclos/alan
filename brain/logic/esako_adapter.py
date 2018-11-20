@@ -83,7 +83,7 @@ class EsakoAdapter(AlanLogicAdapter):
         # choose randomly a context sentence
         context = random.choice(self.context_sentences)
         reply = context % {"concept_A":concept_A}
-        statment_out = Statement(utils.sentencize(reply))
-        statment_out.confidence = self.get_confidence()
+        statement_out = Statement(utils.sentencize(reply))
+        statement_out.confidence = self.get_confidence()
 
-        return statment_out
+        return statement_out

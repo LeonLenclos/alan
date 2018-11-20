@@ -47,6 +47,6 @@ class ExactMatch(AlanLogicAdapter):
         if type(self.catch[statement.text]) == list:
             self.index_selected = randint(0, len(self.catch[statement.text])-1)
             response = self.catch[statement.text][self.index_selected]
-        statment_out = Statement(response)
-        statment_out.confidence = self.get_confidence()
-        return statment_out
+        statement_out = Statement(response)
+        statement_out.confidence = self.get_confidence()
+        return statement_out

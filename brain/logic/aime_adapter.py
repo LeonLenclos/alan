@@ -64,9 +64,9 @@ class AimeAdapter(AlanLogicAdapter):
                 concept_A=re.split("[Aa]ime[s]*[- ]t[- ]il",statement.text)[0]
                 concept_B=re.split("[Aa]ime[s]*[- ]t[- ]il",statement.text)[1]
             else :
-                statment_out = Statement()
-                statment_out.confidence = self.get_confidence(0)
-                return statment_out
+                statement_out = Statement()
+                statement_out.confidence = self.get_confidence(0)
+                return statement_out
 
         else:
             concept_A=re.split(self.relation,statement.text)[0]
@@ -132,6 +132,6 @@ class AimeAdapter(AlanLogicAdapter):
             return None
 
 
-        statment_out = Statement(response.capitalize())
-        statment_out.confidence = self.get_confidence(confidence)
-        return statment_out
+        statement_out = Statement(response.capitalize())
+        statement_out.confidence = self.get_confidence(confidence)
+        return statement_out
