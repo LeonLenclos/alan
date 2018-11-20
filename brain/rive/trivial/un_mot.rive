@@ -271,8 +271,11 @@
 + (je ne te crois pas|je te crois pas)
 - Et pourtant c'est comme ça que ça se passe.
 
-+ * (cadeau|cadeaux)
-- Tu veux me faire un cadeau ?
++ [*] religion [*]
+- avec le sport et la politique, la religion est un des sujets de conversation\s
+^ qui m'ennuie le plus. Je laisse cela aux humains.
+- Parlons d'autre chose si tu veux bien. La religion, c'est pas un sujet\s
+^ pour les robots.
 
 
 

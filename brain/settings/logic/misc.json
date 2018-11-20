@@ -89,7 +89,7 @@
                  "Je te laisse bouche bée ?"
                ]
              },
-             "max_confidence": 0.5,
+             "max_confidence": 0.9,
              "import_path": "logic.ExactMatch"
 
         },
