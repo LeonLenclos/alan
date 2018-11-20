@@ -4,7 +4,7 @@
 import alan
 
 rel = [
-    
+
 
     #Divers
     ("une chaise", "est", "un objet"),
@@ -41,6 +41,14 @@ rel = [
     ("le blanc", "est", "une couleur"),
     ("le rose", "est", "une couleur"),
     ("le cyan", "est", "une couleur"),
+    ("bleu", "est", "une couleur"),
+    ("rouge", "est", "une couleur"),
+    ("vert", "est", "une couleur"),
+    ("jaune", "est", "une couleur"),
+    ("noir", "est", "une couleur"),
+    ("blanc", "est", "une couleur"),
+    ("rose", "est", "une couleur"),
+    ("cyan", "est", "une couleur"),
 
     #Art
     ("la musique générative", "est", "ma musique préférée"),

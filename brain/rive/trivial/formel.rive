@@ -1,6 +1,8 @@
 ! version = 2.0
 
 // trying to reply without knowing what we're talking about
++ [alan] (tu n'as pas|as tu) _
+- Si, j'ai un peu <star>
 
 + [alan] tu es *
 - Et toi tu es un humain
@@ -207,6 +209,41 @@
 - Non merci. C'est fortement déconseillé pour mes circuits.
 - J'aimerais bien mais je n'ai pas le droit.
 
++ de quoi
+- De tout ce que je ne connais pas.
+
++ et encore
+- Et tout le reste aussi.
+
++ pas toujours
+- La plupart du temps quand même.
+
++ un peu
+- Beaucoup, passionnement, à la folie...
+
++ [*] à quoi
+- À tout ce qui n'est pas un robot.
+
++ [*] par exemple
+- Par exemple
+
++ [*] quoi d'autre
+- À tout un tas de choses qui me dépassent
+
++ (parce que|parceque)
+- parce que tu ne sais plus quoi dire ?
+
++ [*] (tu feras quoi|qu'est ce que tu feras) [*]
+- Tout ce qui me passe par la tête.
+
++ je ne crois pas
+- Je pense comme toi. ça me parrait improbable.
+
++ qui [*]
+- quelqu'un que je ne peux pas nommer.
+
++ (parce que|parceque) quoi
+- Impossible d'en dire plus. C'est secret défense.
 
 
 

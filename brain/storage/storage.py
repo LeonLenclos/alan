@@ -81,7 +81,7 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
         Add the concept and return the concept id
         if the concept already exist, just return the id
         """
-        concept = concept.lower()
+    
 
         session = self.Session()
 
@@ -97,6 +97,28 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
 
         self._session_finish(session)
         return record_id
+
+    def list_concept(self):
+        """
+        Return a list that contains the concept_name of all the concepts stored
+        into the database
+        """
+
+        session = self.Session()
+
+        query = session.query(Concept).filter_by()
+        record=query.all()
+        liste=[]
+        for concept in record:
+            liste.append(concept.name)
+
+
+
+        session.flush()
+
+
+        self._session_finish(session)
+        return liste
 
     def store_concept_association(self, concept_A, relation, concept_B, negative=False):
         """

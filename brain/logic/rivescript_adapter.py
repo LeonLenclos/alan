@@ -87,10 +87,10 @@ class RiveScriptAdapter(AlanLogicAdapter):
     def process(self, statement):
         """Return a reply and a constant confidence"""
 
-        statment_out = self.get(statement)
-        statment_out.confidence = self.get_confidence()
+        statement_out = self.get(statement)
+        statement_out.confidence = self.get_confidence()
 
         # empty the reply attribute to get a new reply next time
         self.reply = None
 
-        return statment_out
+        return statement_out

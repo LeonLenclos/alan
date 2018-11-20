@@ -81,6 +81,6 @@ class CatchRepetitionAdapter(AlanLogicAdapter):
                     confidence = 1
         else :
             return None
-        statment_out = Statement(response)
-        statment_out.confidence = self.get_confidence(confidence)
-        return statment_out
+        statement_out = Statement(response)
+        statement_out.confidence = self.get_confidence(confidence)
+        return statement_out

@@ -43,6 +43,6 @@ class BestPracticesAdapter(AlanLogicAdapter):
         return misspelled > self.min_misspelled or letters > self.min_letters
 
     def process(self, statement):
-        statment_out = Statement(self.sentence)
-        statment_out.confidence = self.get_confidence()
-        return statment_out
+        statement_out = Statement(self.sentence)
+        statement_out.confidence = self.get_confidence()
+        return statement_out

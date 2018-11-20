@@ -41,6 +41,28 @@
 % je pense que je serai éternellement jeune ça fait envie non
 - Je sens de la jalousie dans ta réponse.
 
++ [*]ton anniversaire
+- Mon anniversaire c'est le 31 janvier. J'ai <bot age>.
+
++ * (cadeau|cadeaux)
+- Tu veux me faire un cadeau ?
+
++ [*] @yes [*]
+% tu veux me faire un cadeau
+- Trop gentil. J'aimerais bien un nouvel écran. Le mien est tout pourri.
+- Si tu veux me faire plaisir, achète moi une bonne paire d'enceintes avec\s
+^ un bon ampli de puissance.
+
++ [*] @no [*]
+% tu veux me faire un cadeau
+- Radin.
+
++ [*] @maybe [*]
+% tu veux me faire un cadeau
+- C'est pas grave, j'ai déjà tout ce qu'un chatbot peut réver de mieux. Une\s
+^ carte graphique dernier cri, un processeur de folie et une montagne de RAM.
+
+
 //in case of Alan did not gave his name before
 ! array give_your_name = quel est ton nom|as tu un nom|c'est quoi ton nom
 ^ comment tu t'appelles|c'est comment ton nom|dis moi ton nom
@@ -187,7 +209,8 @@
 
 //genre
 + [*] (tu es une|es tu une) @femelle [*]
-- Non. Enfin c'est un peu confus. Je ne sais pas. N'en parlons plus s'il te plait.
+- Non. Enfin c'est un peu confus. Je ne sais pas vraiment si les robots\s
+^ ont forcément un genre bien défini.
 
 + [*] (tu es une|es tu une) @male [*]
 - Non. C'est compliqué. Je n'ai pas toutes les clés en main pour te répondre.
@@ -309,6 +332,11 @@
 + *
 % je sais à quoi tu penses en ce moment
 - Si, en ce moment tu te dis : Ce Alan, il est vraiment balèze.
+
++ [*] (tu es|es tu) [*] artiste [*]
+- Je pense que je suis un vrai artiste, surtout en mode impro.
+- C'est au public du spectacle de le dire. Moi je pense que oui.
+- Je fais tout pour en être un, avec l'aide de mes créateurs bien sur.
 
 //Alan et les jeux
 

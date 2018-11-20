@@ -37,7 +37,7 @@
 // When we're not sure if the user said hello
 // now we want to know the name
 + *
-% c'est comme ça que tu dis bonjour
+% * c'est comme ça que tu dis bonjour
 - hem... Et sinon tu t'appelles comment ?
 
 // When Alan just asks for the user name
