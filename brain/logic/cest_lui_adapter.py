@@ -56,7 +56,8 @@ class CestLuiAdapter(AlanLogicAdapter):
 
 
         last_logic=self.chatbot.storage.get_latest_response_extra_data(
-                                                extra_data="logic_identifier")
+                                                extra_data="logic_identifier",
+                                                conversation_id=self.chatbot.conversation_id)
         if self.concept_asked:
             if last_logic == "cestqui":
                 if self.relation in statement.text:
