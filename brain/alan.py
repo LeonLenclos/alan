@@ -46,7 +46,7 @@ class Alan(chatterbot.ChatBot):
     """
 
     name = "Alan"
-    version_infos = ("1", "2", "2")
+    version_infos = ("1", "3")
     version = '.'.join(version_infos)
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
