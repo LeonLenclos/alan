@@ -132,7 +132,7 @@
              "Sans vouloir t'innonder de mon savoir, il me semble que %(A)s %(rel)s %(B)s.",
              "A propos, savais tu que %(A)s %(rel)s %(B)s.",
               "%(A)s %(rel)s %(B)s."],
-             "max_confidence": 0.35
+             "max_confidence": 0.41
 
         }
       ]

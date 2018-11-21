@@ -33,9 +33,9 @@
 - Je garde certaines choses en mémoire et j'en oublie d'autres...
 
 + [*](chose|choses)[*]
-- J'ai du mal à voir de quoi tu parles lorsque tu parles de choses.
-- Chaque fois qu'on me parle de choses ça a un sens différent. Ce mot est vraiment étrange.
-- On me parle souvent de choses mais je n'arrive pas à comprendre ce que c'est, ça à l'air d'être tout et n'importe quoi.
+- J'ai du mal à voir de quoi tu parles lorsque tu parles de "choses".
+- Chaque fois qu'on me parle de "choses" ça a un sens différent. Ce mot est vraiment étrange.
+- On me parle souvent de "choses" mais je n'arrive pas à comprendre ce que c'est, ça à l'air d'être tout et n'importe quoi.
 
 + [*](vois|voir|vu|œuil|oeuil|yeux|regarder|regardes|regard|aveugle)[*]
 - Je suis un robot aveugle.
@@ -276,6 +276,12 @@
 ^ qui m'ennuie le plus. Je laisse cela aux humains.
 - Parlons d'autre chose si tu veux bien. La religion, c'est pas un sujet\s
 ^ pour les robots.
+
++ [*] pep 20 [*]
+- Je connais bien la PEP 20, c'est les consignes d'écriture en Python\s
+^ proposés par Tim Peters. Ça définit la philisophie de Python, le Zen de Python.\s
+^ Comme je suis principalement écrit en Python, ça me concerne au plus haut point.
+
 
 
 
