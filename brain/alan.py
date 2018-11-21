@@ -310,8 +310,8 @@ class Alan(chatterbot.ChatBot):
         """Write 4 last statements in the todo file."""
         count = len(self.last_results) if len(self.last_results) < 6 else 6
         with open("../todo", "a") as f:
-            f.write('({})'.format(self.conversation_id))
-            f.write('\n'*3 + '\n'.join([
+            f.write('\n\n{} - ({})\n'.format(datetime.datetime.now().isoformat(), self.conversation_id))
+            f.write('\n'.join([
                 ('> ' if i%2 != count%2 else '') +
                 self.storage.get_latest_statement(offset=i+2, conversation_id=self.conversation_id).text
                 for i in reversed(range(count))
