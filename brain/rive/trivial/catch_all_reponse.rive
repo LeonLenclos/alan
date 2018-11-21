@@ -127,16 +127,13 @@
 + [*](@femelle)[*]
 % * toi t'es une fille ou un garçon
 * <get name> ne undefined => Donc <get name> c'est un prénom de fille ? <set genre=fem>
-- <set genre=fem>  Ok j'essayerai de m'en souvenir.
+- <set genre=fem> Ok j'essayerai de m'en souvenir.
 
 + *
 % * toi t'es une fille ou un garçon
-- Ces histoires de genre me troublent un peu. Est ce qu'un robot doit\s
-^ forcément avoir un genre ? Tu en penses quoi ?
+- Bon je vois que les problèmes de genre ne t'intéressent pas trop. Donc tu\s
+^ disais <star>. Et alors où veux tu en venir?
 
-+ *
-% ces histoires de genre me troublent un peu *
-- Bon pour l'instant peut-être que je suis transgenre...
 
 //
 
@@ -148,11 +145,11 @@
 //
 
 + [*](@yes)[*]
-% * (tu penses que je devrais être capable de comprendre|tu crois qu'il faudrait que je sache répondre à) ce genre de phrase
+% * (tu penses que je devrais être capable de comprendre ce genre de phrase|tu crois qu'il faudrait que je sache répondre à ce genre de phrase|tu crois que je devrais être capable de comprendre ce que tu as dit)
 - Ok j'en parlerai à mes créateurs *todo*
 
 + [*](@no)[*]
-% * (tu penses que je devrais être capable de comprendre|tu crois qu'il faudrait que je sache répondre à) ce genre de phrase
+% * (tu penses que je devrais être capable de comprendre ce genre de phrase|tu crois qu'il faudrait que je sache répondre à ce genre de phrase|tu crois que je devrais être capable de comprendre ce que tu as dit)
 - Tant mieux, ça à l'air d'être une sorte de phrase d'humain très compliquée à comprendre pour un robot.
 
 
