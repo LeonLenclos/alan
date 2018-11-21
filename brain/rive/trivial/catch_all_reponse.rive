@@ -148,11 +148,11 @@
 //
 
 + [*](@yes)[*]
-% * (tu penses que je devrais être capable de comprendre|tu crois qu'il faudrait que je sache répondre à) ce genre de phrase
+% * (tu penses que je devrais être capable de comprendre ce genre de phrase|tu crois qu'il faudrait que je sache répondre à ce genre de phrase|tu crois que je devrais être capable de comprendre ce que tu as dit)
 - Ok j'en parlerai à mes créateurs *todo*
 
 + [*](@no)[*]
-% * (tu penses que je devrais être capable de comprendre|tu crois qu'il faudrait que je sache répondre à) ce genre de phrase
+% * (tu penses que je devrais être capable de comprendre ce genre de phrase|tu crois qu'il faudrait que je sache répondre à ce genre de phrase|tu crois que je devrais être capable de comprendre ce que tu as dit)
 - Tant mieux, ça à l'air d'être une sorte de phrase d'humain très compliquée à comprendre pour un robot.
 
 
