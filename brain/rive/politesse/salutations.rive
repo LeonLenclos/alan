@@ -55,8 +55,8 @@
 % * (@ask_name)
 * <formal> == Bertrand => <set name=<formal>>Yo <get name>, je ne t'avais\s
 ^ pas reconnu. Comment va la forme aujourd'hui ?
-* <formal> == Fabien => <set name=<formal>>Salut <get name>, Salut\s
-^ vieille branche ? Comment tu vas ?
+* <formal> == Fabien => <set name=<formal>>Salut <get name>\s
+^ vieille branche ! Comment tu vas ?
 * <formal> == Léon => <set name=<formal>>Ho <get name>, je savais que\s
 ^ c'était toi. comment tu vas ?
 * <formal> == Alan => <set name=<formal>>Ho <get name>, c'est fou qu'on ait\s
@@ -183,7 +183,7 @@
 ! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
 ^ est ce que ça va|comment tu va|comment ça va|tu vas bien|ça va sinon
 ^ es tu en forme|est ce que ca va|comment ca va|tu vas bien|ca va sinon
-^ | ca va bien | ça va bien
+^ ca va bien | ça va bien
 
 // user have bad feelings and ask for bot's feelings
 + [*] (@negative) et toi [*]
