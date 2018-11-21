@@ -82,8 +82,11 @@ class MainLogicAdapter(MultiLogicAdapter):
                     ', not allowed to repeat' if result_info["not_allowed_to_repeat"] else ''
                     )
                 self.chatbot.log(log)
-
-
+            elif self.chatbot.log_not_processing:
+                log= '\t- {} (processing_time={}ms, not processing)'.format(
+                    adapter.identifier,
+                    processing_time)
+                self.chatbot.log(log)
 
         # timer
         processing_time = int((time.time()-processing_all_start)*1000)
