@@ -14,13 +14,10 @@ import numpy as np
 import readline
 
 def alan_answer(input_string, encoder, decoder, input_lang, output_lang, USE_CUDA, max_length, temperature_fun, USE_QACORPUS=False, n_words=100):
-    try:
-        input_string = normalize_input(input_string, USE_QACORPUS)
-        output_words, attentions, confidence = evaluate(encoder, decoder, input_string, input_lang, output_lang, USE_CUDA, max_length, temperature_fun, n_words)
-        output_sentence = ' '.join(output_words)
-        output_sentence = postProcess(output_sentence, USE_QACORPUS)
-    except Exception as e:
-        print("Exception : ", e)
+    input_string = normalize_input(input_string, USE_QACORPUS)
+    output_words, attentions, confidence = evaluate(encoder, decoder, input_string, input_lang, output_lang, USE_CUDA, max_length, temperature_fun, n_words)
+    output_sentence = ' '.join(output_words)
+    output_sentence = postProcess(output_sentence, USE_QACORPUS)
     return output_sentence, confidence
 
 def test_chatbot(encoder, decoder, input_lang, output_lang, USE_CUDA, max_length, temperature_fun, USE_QACORPUS=False, n_words=100):
@@ -31,19 +28,15 @@ def test_chatbot(encoder, decoder, input_lang, output_lang, USE_CUDA, max_length
         context = normalize_input(context, USE_QACORPUS)
         if context == 'quit':
             break
-        try:
-            output_words, attentions, confidence = evaluate(encoder, decoder, context, input_lang, output_lang, USE_CUDA, max_length, temperature_fun, n_words)
-            output_sentence = ' '.join(output_words)
-            output_sentence = postProcess(output_sentence, USE_QACORPUS)
-            print('< ', output_sentence)
-            print('Je me sens confiant à : ', confidence, '%')
-            output_words, attentions = evaluateBest(encoder, decoder, context, input_lang, output_lang, USE_CUDA, max_length)
-            output_sentence = ' '.join(output_words)
-            output_sentence = postProcess(output_sentence, USE_QACORPUS)
-            print('BEST : ', output_sentence)
-        except Exception as e:
-            print("Exception: ", e)
-            continue
+        output_words, attentions, confidence = evaluate(encoder, decoder, context, input_lang, output_lang, USE_CUDA, max_length, temperature_fun, n_words)
+        output_sentence = ' '.join(output_words)
+        output_sentence = postProcess(output_sentence, USE_QACORPUS)
+        print('< ', output_sentence)
+        print('Je me sens confiant à : ', confidence, '%')
+        output_words, attentions = evaluateBest(encoder, decoder, context, input_lang, output_lang, USE_CUDA, max_length)
+        output_sentence = ' '.join(output_words)
+        output_sentence = postProcess(output_sentence, USE_QACORPUS)
+        print('BEST : ', output_sentence)
     
 def indexHigh(lname, x):
     for i in range(len(lname)):
