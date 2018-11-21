@@ -7,7 +7,7 @@ from alan import Alan
 
 evil_alan = Alan(settings_files=['evilalan'])
 evil_alan.name = "Evil Alan"
-alan = Alan(settings_files=['base', 'interface/vs', 'logic'])
+alan = Alan(settings_files=['base', 'interface/none', 'logic'])
 
 print("---------------")
 print(alan.status())
