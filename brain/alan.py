@@ -51,7 +51,7 @@ class Alan(chatterbot.ChatBot):
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
 
-    def __init__(self, settings_files="default", preconfigured_logic_adapters=[]):
+    def __init__(self, settings_files="default", preconfigured_logic_adapters=[], log_not_processing=False):
         """
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
@@ -81,6 +81,7 @@ class Alan(chatterbot.ChatBot):
         self.last_results=[]
         self.user_name = None
         self.error_messages = self.settings.get('error_messages', None)
+        self.log_not_processing = log_not_processing
         self.close = False
 
         # init chatterbot
@@ -352,6 +353,7 @@ def main():
     # Arguments parsing
     ap = argparse.ArgumentParser()
     ap.add_argument('-t', action='store_true', help="Mode Test")
+    ap.add_argument('-l', action='store_true', help="Log all adapter not only processing ones.")
     ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["default"])
 
     args = ap.parse_args()
@@ -361,7 +363,7 @@ def main():
     subprocess.run('clear')
     print("Démarrage d'Alan. Merci de patienter...")
     # init Alan
-    alan = Alan(settings_files=settings_files)
+    alan = Alan(settings_files=settings_files, log_not_processing=ap.parse_args().l)
 
     # Mode test
     if ap.parse_args().t:
