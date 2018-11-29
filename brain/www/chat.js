@@ -9,6 +9,10 @@ $(document).ready(function(){
 	$.post('/new', '', newConvCallback,'text');
 	function newConvCallback(response) {
 		var response = $.parseJSON(response)
+		//catch errors in response
+		if(catchError(response)){
+			return
+		}
 		// open conversation
 		conv = response.conversation_id
 		conversation_open = true
@@ -57,7 +61,16 @@ $(document).ready(function(){
 			{ scrollTop: $('#discussion-container').prop("scrollHeight")}, 1000);
 	}
 
+	//catch errors
+	function catchError(jsonMsg) {
+		if(jsonMsg.hasOwnProperty('err')){
+			alert('/!\\ ERREUR /!\\\n' + jsonMsg.err + '\n\n(Essaye de recharger la page...)');
+			return true;
+		} else {
+			return false;
+		}
 
+	}
 	////////// TALK FUNCTION //////////
 	function talk() {
 		// prevent for talking to a closed conversation
@@ -93,6 +106,10 @@ $(document).ready(function(){
         // success callback
 		function talkCallback(response) {
 			response = $.parseJSON(response)
+			//catch errors in response
+			if(catchError(response)){
+				return
+			}
 			// Add response to #discussion
        		console.log("Receiving msg : " +response.text)
 

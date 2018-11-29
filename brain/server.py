@@ -94,11 +94,17 @@ class Serv(BaseHTTPRequestHandler):
 
         # Change / to /index.html
         if self.path == '/':
-            self.path = '/index.html'
+            self.path = 'www/index.html'
+        elif self.path == '/todo':
+            self.path = '../todo'
+        elif self.path.startswith('/log/'):  
+            self.path = self.path[1:]
+        else :
+            self.path = 'www' + self.path
 
         # Try to open asked path
         try:
-            file_to_open = open("www" + self.path).read()
+            file_to_open = open(self.path).read()
             self.send_response(200)
         except:
             file_to_open = "File not found"
