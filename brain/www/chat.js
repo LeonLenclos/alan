@@ -35,7 +35,9 @@ $(document).ready(function(){
 	});
 	// Event for pressing #talk button
 	$("#talk").click(talk);
-
+	// Event for when the user quit
+		// JE NE SAIS PAS QUOI FAIRE. CA NE MARCHE PAS :
+		// $(window).unload(quit)
 
 	///////// SET HTML FUNCTIONS //////////
 	// disable the input and the button
@@ -71,6 +73,31 @@ $(document).ready(function(){
 		}
 
 	}
+
+	////////// QUIT FUNCTION //////////
+	// ATTENTION : Cette fonction est pour plus tard et n'est appellée nulle part !
+	function quit() {
+		// prevent for quiting a closed conversation
+		if(!conversation_open) return
+		alert("test")
+		// Create Json Msg (with quit query)
+		var jsonMsg = {
+			msg:"quit",
+			conversation_id:conv
+		};
+
+		// Send POST request
+       	console.log("Sending msg : " +jsonMsg.msg)
+        $.ajax({
+            type: "POST",
+            url: '/talk',
+            data: JSON.stringify(jsonMsg),
+            contentType: "application/json; charset=utf-8",
+            dataType: "text"
+            });
+
+	}
+
 	////////// TALK FUNCTION //////////
 	function talk() {
 		// prevent for talking to a closed conversation

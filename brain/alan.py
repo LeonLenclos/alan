@@ -141,14 +141,20 @@ class Alan(chatterbot.ChatBot):
                   lines_of_code += sum(1 for line in open(path) if line != '\n')
         return lines_of_code
 
-    def log(self, message, header=False):
+    def log(self, message, header=False, short=False):
         """
         Print something in the log file.
+        header print a line of `-`
+        short print in a separed "short file"
         """
-        with open('log/conv-{}.txt'.format(self.conversation_id), 'a') as fi:
-            if header:
-                fi.write('\n' * 2 + '-' * 70)
-            fi.write('\n' + message)
+        if short:
+            with open('log/conv-short-{}.txt'.format(self.conversation_id), 'a') as fi:
+                fi.write('\n' + message)
+        else:
+            with open('log/conv-{}.txt'.format(self.conversation_id), 'a') as fi:
+                if header:
+                    fi.write('\n' * 2 + '-' * 70)
+                fi.write('\n' + message)
 
     def load_settings(self, settings_file='default', recursion=0):
         """
@@ -191,6 +197,9 @@ class Alan(chatterbot.ChatBot):
 
         if type(input) != Statement:
             input = Statement(input)
+        
+        self.log("INPUT : {}".format(input))
+        self.log("{}".format(input), short=True)
 
         # Preprocess the input statement
         for pre in self.preprocessors:
@@ -199,6 +208,9 @@ class Alan(chatterbot.ChatBot):
 
         # Get response
         response = self.logic.process(input)
+        self.log("OUTPUT : {}".format(response))
+        self.log("> {}".format(response), short=True)
+        self.log('', True)
 
         # Store response
         self.storage.add_to_conversation(self.conversation_id, input, response)
@@ -222,13 +234,10 @@ class Alan(chatterbot.ChatBot):
             if listener: listener.send(state='listening')
             if not input:
                 input = self.input.process_input()
-            self.log("INPUT : {}".format(input))
 
             # Think
             if listener: listener.send(state='thinking')
             output = self.get_response(input)
-            self.log("OUTPUT : {}".format(output))
-            self.log('', True)
 
             # Speak
             if listener: listener.send(state='speaking')

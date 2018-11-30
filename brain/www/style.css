@@ -12,17 +12,18 @@ body{
 	margin:auto;
 	margin-bottom: 10px;
 	margin-top: 10px;
+  padding: 10px;
+
 }
 
-#discussion {
-	margin: 10px;
+ul {
 	padding: 0;
 	list-style-type: none;
 	text-align: left;
 }
 
 
-#discussion > li:before {
+ul > li:before {
 	content: "> ";
 }
 
@@ -60,4 +61,8 @@ a, a:visited{
 
 a:hover {
 	color: #aaa;
+}
+
+pre, ul {
+	text-align: left;
 }

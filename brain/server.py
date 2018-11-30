@@ -22,6 +22,7 @@ POST request can also return an error in a JSON : {'err':"The error."}
 
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import json
+import os
 import argparse
 
 from alan import Alan
@@ -92,21 +93,62 @@ class Serv(BaseHTTPRequestHandler):
     def do_GET(self):
         """Handler for GET request"""
 
-        # Change / to /index.html
-        if self.path == '/':
-            self.path = 'www/index.html'
-        elif self.path == '/todo':
-            self.path = '../todo'
-        elif self.path.startswith('/log/'):  
-            self.path = self.path[1:]
-        else :
-            self.path = 'www' + self.path
+
+        def dev_status ():
+            return "{} conversations ouvertes".format(len(self.alans))
+        def get_todo():
+            dev_html = open('www/dev.html').read()
+            todo_file = open('../todo').read()
+            return dev_html.format(
+                title="todo",
+                content="<pre>{}</pre>".format(todo_file),
+                status=dev_status()
+                )
+        def get_dev():
+            dev_html = open('www/dev.html').read()
+            return dev_html.format(
+                title="dev",
+                content = "",
+                status=dev_status()
+                )
+
+        def get_logs_list():
+            dev_html = open('www/dev.html').read()
+            li_format = '<li><a href="{fi}">{fi}</a></li>'
+            log_list = [li_format.format(fi=fi) for fi in os.listdir('log')]
+            log_list.sort()
+            return dev_html.format(
+                title="logs",
+                content = '<ul>{}</ul>'.format(''.join(log_list)),
+                status=dev_status()
+                )
+
+        def get_log(log_content):
+            dev_html = open('www/dev.html').read()
+            return dev_html.format(
+                title="log",
+                content = "<pre>{}</pre>".format(log_content),
+                status=dev_status()
+                )
 
         # Try to open asked path
         try:
-            file_to_open = open(self.path).read()
+            if self.path == '/':
+                file_to_open = open('www/index.html').read()
+            elif self.path == '/dev':
+                file_to_open = get_dev()
+            elif self.path == '/todo':
+                file_to_open = get_todo()
+            elif self.path == '/logs':
+                file_to_open = get_logs_list()
+            elif self.path.startswith('/conv'):  
+                file_to_open = get_log(open("log" + self.path).read())
+            else :
+                file_to_open = open('www'+self.path).read()
+
             self.send_response(200)
-        except:
+
+        except FileNotFoundError:
             file_to_open = "File not found"
             self.send_response(404)
 
