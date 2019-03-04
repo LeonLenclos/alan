@@ -123,7 +123,7 @@
              "allowed_to_repeat": false,
              "skill_description": ["J'aime étaler ma culture concernant ce que l'on me dit."],
              "import_path": "logic.CheckConceptAdapter",
-             "ignore":[],
+             "ignore":["moi"],
              "context_aime":["Il me semble que %(A)s %(rel)s %(B)s.",
              "Sais-tu que %(A)s %(rel)s %(B)s.",
              "Laisse-moi te dire que que %(A)s %(rel)s %(B)s.",
