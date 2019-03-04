@@ -98,7 +98,7 @@ class Serv(BaseHTTPRequestHandler):
             return "{} conversations ouvertes".format(len(self.alans))
         def get_todo():
             dev_html = open('www/dev.html').read()
-            todo_file = open('../todo').read()
+            todo_file = open(os.path.expanduser('~/alantodo.txt')).read()
             return dev_html.format(
                 title="todo",
                 content="<pre>{}</pre>".format(todo_file),
