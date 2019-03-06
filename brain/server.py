@@ -24,15 +24,19 @@ POST request can also return an error in a JSON : {'err':"The error."}
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import json
 import os
+import time
 import argparse
 
 from alan import Alan
 
+CONVERSATION_LIFETIME = 3600 # an hour
 
 class Serv(BaseHTTPRequestHandler):
 
     # A dict containing all alan instances. Keys are conversation numer
     alans = {}
+    # A dict containing the dates they will die. Keys are conversation numer
+    alans_death = {}
     # A list of logic adapter objects that must be shared between alan instances
     shared_logic_adapters = []
     # A list of logic adapter identifier for adapter that must be shared
@@ -61,6 +65,7 @@ class Serv(BaseHTTPRequestHandler):
         # get conversation_id and store the instance in alans
         conversation_id = alan.conversation_id
         self.alans[conversation_id] = alan
+        self.alans_death[conversation_id] = time.time() + CONVERSATION_LIFETIME
 
         # return the conversation_id and the alan status
         return {
@@ -76,6 +81,8 @@ class Serv(BaseHTTPRequestHandler):
             alan = self.alans[conversation_id]
         except KeyError:
             return {'err': "La conversation {} n'existe pas où elle a été fermée.".format(conversation_id)}
+
+        self.alans_death[conversation_id] = time.time() + CONVERSATION_LIFETIME
 
         # Get the response
         response = alan.talk(msg)
@@ -97,14 +104,19 @@ class Serv(BaseHTTPRequestHandler):
 
         def dev_status ():
             return "{} conversations ouvertes".format(len(self.alans))
+
         def get_todo():
             dev_html = open('www/dev.html').read()
-            todo_file = open(os.path.expanduser('~/alantodo.txt')).read()
+            try:
+                todos = open(os.path.expanduser('~/alantodo.txt')).read()
+            except FileNotFoundError:
+                todos = 'Aucun todo...'
             return dev_html.format(
                 title="todo",
-                content="<pre>{}</pre>".format(todo_file),
+                content="<pre>{}</pre>".format(todos),
                 status=dev_status()
-                )
+            )
+
         def get_dev():
             dev_html = open('www/dev.html').read()
             return dev_html.format(
@@ -116,8 +128,9 @@ class Serv(BaseHTTPRequestHandler):
         def get_logs_list():
             dev_html = open('www/dev.html').read()
             li_format = '<li><a href="{fi}">{fi}</a></li>'
-            log_list = [li_format.format(fi=fi) for fi in os.listdir('log')]
+            log_list = [li_format.format(fi=fi) for fi in os.listdir('log') ]
             log_list.sort()
+            log_list.reverse()
             return dev_html.format(
                 title="logs",
                 content = '<ul>{}</ul>'.format(''.join(log_list)),
@@ -161,6 +174,15 @@ class Serv(BaseHTTPRequestHandler):
         """Handler for POST request"""
 
         reply = None
+
+        # CLOSE DEAD CONVERSATIONS
+        for conversation_id in self.alans.copy().keys():
+            if self.alans_death[conversation_id] < time.time():
+                self.alans[conversation_id].log(
+                    'SERVER : Closing conversation (lifetime elapsed).', True)
+                self.alans[conversation_id].quit()
+                del self.alans[conversation_id]
+                del self.alans_death[conversation_id]
 
         # TALK
         if self.path == '/talk':

@@ -148,10 +148,10 @@ class Alan(chatterbot.ChatBot):
         short print in a separed "short file"
         """
         if short:
-            with open('log/conv-short-{}.txt'.format(self.conversation_id), 'a') as fi:
+            with open('log/conv-{:05d}.txt'.format(self.conversation_id), 'a') as fi:
                 fi.write('\n' + message)
         else:
-            with open('log/conv-{}.txt'.format(self.conversation_id), 'a') as fi:
+            with open('log/log-{:05d}.txt'.format(self.conversation_id), 'a') as fi:
                 if header:
                     fi.write('\n' * 2 + '-' * 70)
                 fi.write('\n' + message)
@@ -348,10 +348,10 @@ class Alan(chatterbot.ChatBot):
 
     def main_loop(self):
         """Run the main loop"""
-        while not self.close:
+        while True:
             try:
                 self.talk()
-            except(KeyboardInterrupt, EOFError, SystemExit):
+            except(KeyboardInterrupt, EOFError, SystemExit, EndOfConversation):
                 break
 
 

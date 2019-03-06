@@ -1,0 +1,82 @@
+body, html, input, ul {
+	padding: 0;
+	margin: 0;
+	
+}
+body, #discussion-container, #msg{
+		font-family: monospace;
+	font-size: 24pt;
+
+}
+body {
+	font-size: 12pt;
+}
+body{
+ 	text-align: center;
+	background: black;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+#content, #discussion-container, #status, #msg {
+	width: 100%;
+}
+
+#content, #discussion-container {
+	text-align: left;
+	overflow-y: scroll;
+  scrollbar-width: none;
+	padding-top: 20px;
+}
+
+#content div {border: red solid 2px;}
+#discussion-container::-webkit-scrollbar { 
+    display: none; 
+	
+}
+
+#talk, h2 {
+	display: none;
+}
+
+#msg, nav {
+		background: black;
+		color : white;
+	border: none;
+	border-top: 2px solid gray;
+}
+
+#status {
+	position: fixed;
+	background: gray;
+	color: black;
+}
+
+ul {
+	padding: 0;
+	list-style-type: none;
+	text-align: left;
+}
+
+ul > li:before {
+	content: "> ";
+}
+li {
+padding: 5px;
+}
+
+.human {
+	color: gray;
+}
+
+#msg:disabled {
+}
+
+a, a:visited {
+	color:white;
+}
+a:hover {
+	color:gray;
+}

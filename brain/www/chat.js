@@ -66,7 +66,8 @@ $(document).ready(function(){
 	//catch errors
 	function catchError(jsonMsg) {
 		if(jsonMsg.hasOwnProperty('err')){
-			alert('/!\\ ERREUR /!\\\n' + jsonMsg.err + '\n\n(Essaye de recharger la page...)');
+			$('#status').html(jsonMsg.err + ' <a href="/">Nouvelle conversation</a>')
+
 			return true;
 		} else {
 			return false;
