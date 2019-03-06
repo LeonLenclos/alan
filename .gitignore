@@ -9,6 +9,7 @@ __pycache__/
 todo*
 log.txt
 brain/log/conv-*
+brain/log/log-*
 
 # Pour les mac
 .DS_Store
