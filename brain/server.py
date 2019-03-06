@@ -1,4 +1,5 @@
-# coding: utf8
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 """
 Run this script (as root) to run the server.
