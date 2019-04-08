@@ -89,8 +89,7 @@ $(document).ready(function(){
 		var discussion = $("#discussion").html()
 		$("#discussion").html(discussion + new_entry)
 		// scroll to the bottom (with animation)
-		$("#discussion-container").animate(
-			{ scrollTop: $('#discussion-container').prop("scrollHeight")}, 1000);
+		$("#discussion-container").scrollTop($('#discussion-container').prop("scrollHeight"));
 	}
 
 	// update the discussion
@@ -112,10 +111,7 @@ $(document).ready(function(){
 		else{
 			enable_input();
 		}
-		$("#discussion-container").animate(
-			{ scrollTop: $('#discussion-container').prop("scrollHeight")}, 1000);
-		$("#discussion").animate(
-			{ scrollTop: $('#discussion').prop("scrollHeight")}, 1000);
+		$("#discussion-container").scrollTop($('#discussion-container').prop("scrollHeight"));
 	}
 
 	//catch errors
@@ -157,6 +153,7 @@ $(document).ready(function(){
 
 	////////// UPDATE INPUT FUNCTION /////////
 	function update_input(msg, finished) {
+
 		// prevent for talking to a closed conversation
 		if(!conversation_open) return
 
@@ -238,6 +235,9 @@ $(document).ready(function(){
 
 		////////// GET CONV //////////
 		function get_conv() {
+			if(GET_CONV_METHOD == 'last'){
+				lastConv();
+			}
 			if(!conversation_open) return
 
 			// Create Json Msg (with user entry)
@@ -271,7 +271,6 @@ $(document).ready(function(){
 		}
 
 		/////////////////// LETS GO /////////////////////////
-
 		if(GET_CONV_METHOD == 'new'){
 			newConv();
 		}
@@ -279,7 +278,7 @@ $(document).ready(function(){
 			lastConv();
 		}
 
-		var timer, delay = 300;
+		var timer, delay = 100;
 		timer = setInterval(get_conv, delay);
 
 });
