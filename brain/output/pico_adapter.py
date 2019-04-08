@@ -24,7 +24,7 @@ class PicoAdapter(OutputAdapter):
         :returns: The response statement.
         """
 
-        subprocess.run(['sh', 'voice_audio.sh', statement.text, self.speed])
+        subprocess.Popen(['sh', 'voice_audio.sh', statement.text, self.speed])
         return statement
 
     def music(self, session_id=None):
@@ -33,4 +33,4 @@ class PicoAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The music.
         """
-        subprocess.run(['sh', 'music.sh', self.speed])
+        subprocess.Popen(['sh', 'music.sh', self.speed])
