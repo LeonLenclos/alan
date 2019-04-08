@@ -99,14 +99,12 @@ $(document).ready(function(){
 		var discussion_html = ''
 
 		$.each(conv, function(i,v){
-			istyping = v.finished ? "" : "(...)";
-			discussion_html += '<li class="'+v.speaker+'">'+v.msg+istyping+'</li>'
+			discussion_html += '<li class="'+v.speaker+'">'+v.msg+'</li>'
 		});
 		var old_discussion = $("#discussion").html()
 		$("#discussion").html(discussion_html)
 		// scroll to the bottom (with animation)
-		$("#discussion-container").animate(
-			{ scrollTop: $('#discussion-container').prop("scrollHeight")}, 1000);
+
 
 		if(!conv[conv.length-1].finished && conv[conv.length-1].speaker == 'alan'){
 			disable_input();
@@ -114,6 +112,10 @@ $(document).ready(function(){
 		else{
 			enable_input();
 		}
+		$("#discussion-container").animate(
+			{ scrollTop: $('#discussion-container').prop("scrollHeight")}, 1000);
+		$("#discussion").animate(
+			{ scrollTop: $('#discussion').prop("scrollHeight")}, 1000);
 	}
 
 	//catch errors

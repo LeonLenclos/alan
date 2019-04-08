@@ -1,7 +1,6 @@
 from threading import Timer
 from chatterbot.output import OutputAdapter
 
-char_typing_interval = 0.1 #sec
 class WebOutput(OutputAdapter):
     """This is an output_adapter for the web interface."""
     def __init__(self, **kwargs):
@@ -9,6 +8,7 @@ class WebOutput(OutputAdapter):
         self.current_output = None
         self.display_count = 0
         self.timer = None   
+        self.speed = kwargs.get("speed", 0.07)
 
 
     def process_response(self, statement, session_id=None):
@@ -37,5 +37,5 @@ class WebOutput(OutputAdapter):
             self.timer = None
         else:
             self.chatbot.conversation[-1]['msg'] =  self.current_output[:self.display_count]
-            self.timer = Timer(char_typing_interval, self.update_output)
+            self.timer = Timer(self.speed, self.update_output)
             self.timer.start()
