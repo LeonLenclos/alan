@@ -1,3 +1,3 @@
 {
-    "import": ["base", "interface/none", "logic"]
+    "import": ["base", "interface/web", "logic"]
 }

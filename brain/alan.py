@@ -106,6 +106,8 @@ class Alan(chatterbot.ChatBot):
 
         #create conversation
         self.conversation_id = self.get_conversation_id()
+        # will store all the conversation (used in web interface)
+        self.conversation = []
 
         #log
         self.log('ALAN')
@@ -217,12 +219,32 @@ class Alan(chatterbot.ChatBot):
 
         return response
 
+    def update_input(self, msg, finished):
+        """ update the last element of conversation from input"""
+
+        conv_element = {'speaker':'human', 'msg':msg, 'finished':finished}
+
+        # if empty conversation, create element
+        if not len(self.conversation):
+            self.conversation.append(conv_element)
+
+        # if last element is from alan, create element
+        elif self.conversation[-1]['speaker'] == 'alan' and self.conversation[-1]['finished']:
+            self.conversation.append(conv_element)
+        
+        # if last element from human, update elemnent
+        elif  self.conversation[-1]['speaker'] == 'human':
+            self.conversation[-1] = conv_element
+
+        # call the talk method when finished is true
+        if finished:
+            self.talk(input=msg)
+
     def talk(self, input=None, listener=None):
         """
         Use input adapters to get an input, get a response and output the
         response with output adapters.
         """
-
         if self.close :
             raise EndOfConversation()
 

@@ -14,6 +14,10 @@ To create a new conversation :
 POST /new
 It will return a JSON : {'conversation_id':123}
 
+To get the most recent conversation id :
+POST /last
+It will return a JSON : {'conversation_id':123}
+
 To talk with alan :
 POST /talk {msg:"Human message...", conversation_id:1234}
 It will return a JSON : {'text':"Alan message", 'command':"a command"}
@@ -29,7 +33,7 @@ import argparse
 
 from alan import Alan
 
-CONVERSATION_LIFETIME = 3600 # an hour
+CONVERSATION_LIFETIME = 36000 # 10 hours
 
 class Serv(BaseHTTPRequestHandler):
 
@@ -71,7 +75,39 @@ class Serv(BaseHTTPRequestHandler):
         return {
             'conversation_id' : str(conversation_id),
             'alan_status' : alan.status()
+        }
+
+    def last(self):
+        """Return last instance of Alan
+        return a dict with conversation_id and alan_status
+        """    
+        conversation_id = 0
+        status = None
+
+        # take the alan instance in alans with the greatest conv id
+        for id, alan in self.alans.items():
+            if id > conversation_id:
+                conversation_id = id
+                status = alan.status()
+
+        # return the conversation_id and the alan status
+        return {
+            'conversation_id' : str(conversation_id),
+            'alan_status' : status
             }
+
+
+    def update_input(self, conversation_id, msg, finished):
+        alan = self.alans[conversation_id]
+        alan.update_input(msg, finished)
+
+    def get_conv(self, conversation_id):
+        """
+        Return the conversation as a list of dict.
+        each dict has 3 keys : 'speaker'(str), 'msg'(str), 'finished'(bool)
+        """
+        alan = self.alans[conversation_id]
+        return alan.conversation
 
 
     def talk(self, msg, conversation_id):
@@ -199,12 +235,49 @@ class Serv(BaseHTTPRequestHandler):
             # log sending data
             self.log(conversation_id, "sending = {}".format(reply))
 
+        # UPDATE INPUT
+        if self.path == '/update_input':
+            # Get post body
+            content_len = int(self.headers.get('content-length', 0))
+            post_body = self.rfile.read(content_len)
+            post_body = json.loads(post_body.decode('utf-8'))
+            msg = post_body["msg"]
+            finished = bool(post_body["finished"])
+            conversation_id = int(post_body["conversation_id"])
+
+            # log receiving data
+            self.log(conversation_id, "update_input = {} {}".format(msg, '[finished]' if finished else ''))
+            # update
+            reply = self.update_input(conversation_id, msg, finished)
+
+        # GET CONV
+        if self.path == '/get_conv':
+            # Get post body
+            content_len = int(self.headers.get('content-length', 0))
+            post_body = self.rfile.read(content_len)
+            post_body = json.loads(post_body.decode('utf-8'))
+            conversation_id = int(post_body["conversation_id"])
+
+            # log sending data
+            self.log(conversation_id, "get_conv")
+
+            # update
+            reply = self.get_conv(conversation_id)
+
+
         # NEW
         elif self.path == '/new':
             # get reply
             reply = self.new()
             # log new conversation
             self.log(reply, "new conversation")
+
+        # LAST
+        elif self.path == '/last':
+            # get reply
+            reply = self.last()
+            # log new conversation
+            self.log(reply, "last conversation")
 
         # return asked data
         if reply:
@@ -225,9 +298,9 @@ class Serv(BaseHTTPRequestHandler):
 if __name__ == '__main__':
     # parse arguments
     ap = argparse.ArgumentParser()
-    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["server"])
+    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["server_no_mvo"])
     ap.add_argument('-a', help="Settings ip adress", default="localhost")
-    ap.add_argument('-p', help="Settings port", type=int, default=80)
+    ap.add_argument('-p', help="Settings port", type=int, default=8000)
     args = ap.parse_args()
     settings_files = args.s
     adress = (args.a, args.p)
