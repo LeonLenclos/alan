@@ -38,5 +38,5 @@ class MainOutputAdapter(OutputAdapter):
         :type adapter: `LogicAdapter`
         """
         utils.validate_adapter_class(adapter, OutputAdapter)
-        adapter = utils.initialize_class(adapter, **kwargs)
+        adapter = utils.initialize_class(adapter, **kwargs, chatbot=self.chatbot)
         self.adapters.append(adapter)
