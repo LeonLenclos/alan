@@ -92,7 +92,7 @@ class Serv(BaseHTTPRequestHandler):
 
         # return the conversation_id and the alan status
         return {
-            'conversation_id' : str(conversation_id),
+            'conversation_id' : conversation_id,
             'alan_status' : status
             }
 
@@ -113,6 +113,8 @@ class Serv(BaseHTTPRequestHandler):
     def talk(self, msg, conversation_id):
         """Take a msg and a conversation_id and return the response as a dict with text and command"""
         # Try to get the alan instance with the passed conversation_id
+        if conversation_id < 0:
+            conversation_id = self.last()['conversation_id']
         try:
             alan = self.alans[conversation_id]
         except KeyError:

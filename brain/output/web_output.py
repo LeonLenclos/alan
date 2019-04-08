@@ -23,7 +23,8 @@ class WebOutput(OutputAdapter):
 
     def update_output(self):
         """Update little by little the response in chatbot.conversation"""
-        if self.chatbot.conversation[-1]['speaker'] == 'human':
+        if self.chatbot.conversation[-1]['speaker'] == 'human' \
+        or self.chatbot.conversation[-1]['finished']:
             self.chatbot.conversation.append(
                 {'speaker':'alan','msg':'','finished':False}
             )
