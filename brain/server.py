@@ -34,6 +34,7 @@ import argparse
 from alan import Alan
 
 CONVERSATION_LIFETIME = 36000 # 10 hours
+LOG_ALL_ADAPTERS = False
 
 class Serv(BaseHTTPRequestHandler):
 
@@ -57,7 +58,8 @@ class Serv(BaseHTTPRequestHandler):
         # create alan instance
         alan = Alan(
             settings_files=settings_files,
-            preconfigured_logic_adapters=self.shared_logic_adapters)
+            preconfigured_logic_adapters=self.shared_logic_adapters,
+            log_not_processing=LOG_ALL_ADAPTERS)
     
         # manage shared_logic_adapters
         if len(self.shared_logic_adapters) == 0:
@@ -303,10 +305,11 @@ if __name__ == '__main__':
     ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["server_no_mvo"])
     ap.add_argument('-a', help="Settings ip adress", default="localhost")
     ap.add_argument('-p', help="Settings port", type=int, default=8000)
+    ap.add_argument('-l', action='store_true', help="Log all adapter not only processing ones.")
     args = ap.parse_args()
     settings_files = args.s
     adress = (args.a, args.p)
-
+    LOG_ALL_ADAPTERS = args.l
     # start serving
     httpd = HTTPServer(adress, Serv)
     print("serving on {}".format(adress))
