@@ -264,14 +264,13 @@ class Alan(chatterbot.ChatBot):
             # Speak
             if listener: listener.send(state='speaking')
             command = re.search(command_regex, output.text)
+            if command: output.add_extra_data("command", command.group(1))
             output.text = re.sub(command_regex, "", output.text)
             self.output.process_response(output, self.conversation_id)
 
             # Execute command
             if command:
                 self.execute_command(command.group(1))
-                output.add_extra_data("command", command.group(1))
-
 
             # Waiting
             if listener: listener.send(state='waiting')
@@ -312,6 +311,7 @@ class Alan(chatterbot.ChatBot):
                 subprocess.run(["beep"])
             except FileNotFoundError:
                 pass
+        elif command == "chut": pass
         elif command.startswith("setmaxconf"):
             self.setmaxconf(*command.split(' ')[1:])
         else : raise KeyError("The {} command does not exist".format(command))

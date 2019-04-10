@@ -73,6 +73,9 @@ class Serv(BaseHTTPRequestHandler):
         self.alans[conversation_id] = alan
         self.alans_death[conversation_id] = time.time() + CONVERSATION_LIFETIME
 
+        # HACK !!! (bof bof bof)
+        alan.talk('chut')
+
         # return the conversation_id and the alan status
         return {
             'conversation_id' : str(conversation_id),

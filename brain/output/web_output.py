@@ -18,6 +18,15 @@ class WebOutput(OutputAdapter):
         :returns: The response statement.
         """
         self.current_output = statement.text
+
+        # ignore if the statement is *chut*
+        print(statement.extra_data)
+        print('\n*'*10)
+
+        if "command" in statement.extra_data:
+            if statement.extra_data["command"] == "chut":
+                return statement
+
         self.update_output()
         return statement
 

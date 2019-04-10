@@ -66,6 +66,7 @@
              "allowed_to_repeat": true,
              "skill_description": ["J'ai obéis à une sorte d'ordre que tu me donnais"],
              "catch": {
+               "chut":"... *chut*",
                "quit":"Ok, bye bye.*quit*",
                "rst":"Ok, à toute !*rst*",
                "todo":"Ok, c'est noté.*todo*",
