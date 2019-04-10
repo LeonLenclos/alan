@@ -5,6 +5,10 @@ from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from sqlalchemy.ext.declarative import declared_attr, declarative_base
 
+
+from chatterbot.conversation import Statement as StatementObject
+from chatterbot.conversation import Response as ResponseObject
+
 import sys
 
 # A AMELIORER
@@ -81,9 +85,6 @@ class Statement(Base, StatementMixin):
         return [tag.name for tag in self.tags]
 
     def get_statement(self):
-        from chatterbot.conversation import Statement as StatementObject
-        from chatterbot.conversation import Response as ResponseObject
-
         statement = StatementObject(
             self.text,
             tags=[tag.name for tag in self.tags],
