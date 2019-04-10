@@ -2,12 +2,12 @@
     "input_adapter": "input.NoInput",
     "output_adapters": [
       {
-        "import_path": "output.WebOutput"
-      },
-      {
         "import_path": "output.PicoAdapter",
         "pitch": "-300",
         "speed": "0.85"
+      },
+      {
+        "import_path": "output.WebOutput"
       }
     ]
 }
