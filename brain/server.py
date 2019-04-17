@@ -106,6 +106,13 @@ class Serv(BaseHTTPRequestHandler):
         alan = self.alans[conversation_id]
         alan.update_input(msg, finished)
 
+    def talk_alone(self, conversation_id):
+        if conversation_id < 0:
+            conversation_id = self.last()['conversation_id']
+
+        alan = self.alans[conversation_id]
+        alan.talk_alone()
+
     def get_conv(self, conversation_id):
         """
         Return the conversation as a list of dict.
@@ -113,7 +120,6 @@ class Serv(BaseHTTPRequestHandler):
         """
         alan = self.alans[conversation_id]
         return alan.conversation
-
 
     def talk(self, msg, conversation_id):
         """Take a msg and a conversation_id and return the response as a dict with text and command"""
@@ -256,6 +262,20 @@ class Serv(BaseHTTPRequestHandler):
             self.log(conversation_id, "update_input = {} {}".format(msg, '[finished]' if finished else ''))
             # update
             reply = self.update_input(conversation_id, msg, finished)
+
+        # TALK ALONE
+        if self.path == '/talk_alone':
+            # Get post body
+            content_len = int(self.headers.get('content-length', 0))
+            post_body = self.rfile.read(content_len)
+            post_body = json.loads(post_body.decode('utf-8'))
+            conversation_id = int(post_body["conversation_id"])
+
+            # log receiving data
+            self.log(conversation_id, "talk_alone")
+            # update
+            self.talk_alone(conversation_id)
+            reply = {}
 
         # GET CONV
         if self.path == '/get_conv':

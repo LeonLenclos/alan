@@ -125,11 +125,12 @@ class Alan(chatterbot.ChatBot):
         """Return the age of Alan in french"""
         age = ''
         age_time = datetime.datetime.now() - self.birth
-        years, months = age_time.days // 365, age_time.days // 30
+        years = age_time.days // 365
+        months = (age_time.days-365*years) // 30
         if years > 0:
             age += "%s an" % years
             if years > 1: age += "s"
-            if months > 0: age += " et"
+            if months > 0: age += " et "
         if months > 0: age += "%s mois" % months
         return age
 
@@ -239,6 +240,20 @@ class Alan(chatterbot.ChatBot):
         # call the talk method when finished is true
         if finished:
             self.talk(input=msg)
+
+    def talk_alone(self):
+        """Use the last alan's reply as an input for next reply"""
+
+        # if empty conversation, create element with empty msg
+        if not len(self.conversation):
+            self.conversation.append({
+                'speaker':'alan',
+                'msg':'',
+                'finished':finished
+            })
+
+        if self.conversation[-1]['finished']:
+            self.talk(input=self.conversation[-1]['msg'])
 
     def talk(self, input=None, listener=None):
         """

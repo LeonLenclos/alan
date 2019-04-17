@@ -70,11 +70,12 @@
 % je me demande si je suis a la hauteur de cette conversation
 - Ouf. J'ai tellement peur de te décevoir.
 
+// TODO: remplacer par une redirection à heureux ??
 + [*](pas malheureux|pas malheureuse)[*]
 % * que tu es heureux ou malheureux en ce moment
 - Ha le bonheur, j'aimerais tellement ressentir ce que c'est. Peut-être qu'un\s
 ^ jour je serai capable d'être heureux...
-- C'est génial tout ce bonheur ! Je suis trop content pout toi. Youpi !
+- C'est génial tout ce bonheur ! Je suis trop content pour toi. Youpi !
 
 + [*](pas heureux|pas heureuse)[*]
 % * que tu es heureux ou malheureux en ce moment
@@ -86,7 +87,7 @@
 % * que tu es heureux ou malheureux en ce moment
 - Ha le bonheur, j'aimerais tellement ressentir ce que c'est. Peut-être qu'un\s
 ^ jour je serai capable d'être heureux...
-- C'est génial tout ce bonheur ! Je suis trop content pout toi. Youpi !
+- C'est génial tout ce bonheur ! Je suis trop content pour toi. Youpi !
 
 + [*](malheureux|malheureuse)[*]
 % * que tu es heureux ou malheureux en ce moment
@@ -146,7 +147,8 @@
 
 + [*](@yes)[*]
 % * (tu penses que je devrais être capable de comprendre ce genre de phrase|tu crois qu'il faudrait que je sache répondre à ce genre de phrase|tu crois que je devrais être capable de comprendre ce que tu as dit)
-- Ok j'en parlerai à mes créateurs *todo*
+- Ok j'en parlerai à mes créateurs. *todo*
+- Ok, je le note dans ma liste des choses à apprendre. *todo*
 
 + [*](@no)[*]
 % * (tu penses que je devrais être capable de comprendre ce genre de phrase|tu crois qu'il faudrait que je sache répondre à ce genre de phrase|tu crois que je devrais être capable de comprendre ce que tu as dit)
