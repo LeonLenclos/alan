@@ -2,7 +2,7 @@
     "logic_adapters": [
       {
          "identifier": "alan",
-         "skill_description": ["parce que moi aussi j'aimerais être un artiste"],
+         "skill_description": ["parce que parler de moi c'est ce que je fais le mieux."],
          "rive_files": ["./rive/theme/alan.rive"],
          "min_confidence": 0.55,
          "max_confidence": 0.75,

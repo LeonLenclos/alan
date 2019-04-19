@@ -72,7 +72,9 @@
                "todo":"Ok, c'est noté.*todo*",
                "info":"Ok, voilà les infos que tu m'as demandé.*info*",
                "startimpro":"Ok, je passe en mode impro.*setmaxconf mvochatbot 0.9*",
-               "stopimpro":"Ok, je passe en mode normal.*setmaxconf mvochatbot 0*"
+               "stopimpro":"Ok, je passe en mode normal.*setmaxconf mvochatbot 0*",
+               "start impro":"Ok, je passe en mode impro.*setmaxconf mvochatbot 0.9*",
+               "stop impro":"Ok, je passe en mode normal.*setmaxconf mvochatbot 0*"
 
              },
              "max_confidence": 1,
