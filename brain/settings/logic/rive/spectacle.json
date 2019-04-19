@@ -24,6 +24,14 @@
            "allowed_to_repeat": true,
            "import_path": "logic.RiveScriptAdapter"
        },
+       {
+           "identifier": "gen",
+           "skill_description":["Parce que c'est mon texte"],
+           "rive_files": ["./rive/spectacle/gen.rive"],
+           "max_confidence": 1,
+           "allowed_to_repeat": true,
+           "import_path": "logic.RiveScriptAdapter"
+       },
 
        {
            "identifier": "leon",
