@@ -8,7 +8,7 @@ class WebOutput(OutputAdapter):
         self.current_output = None
         self.display_count = 0
         self.timer = None   
-        self.speed = kwargs.get("speed", 0.05)
+        self.speed = kwargs.get("speed", 0.1)
 
 
     def process_response(self, statement, session_id=None):
