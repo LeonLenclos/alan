@@ -1,6 +1,7 @@
 from time import sleep, clock
 import subprocess
 from chatterbot.output import OutputAdapter
+import re
 
 class PicoAdapter(OutputAdapter):
     """
@@ -16,6 +17,7 @@ class PicoAdapter(OutputAdapter):
         super().__init__(**kwargs)
         self.pitch = kwargs.get("pitch", -300)
         self.speed = kwargs.get("speed", 0.85)
+        self.substitutions = kwargs.get("substitutions", {})
 
     def process_response(self, statement, session_id=None):
         """
@@ -23,10 +25,17 @@ class PicoAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The response statement.
         """
-
-        subprocess.Popen(['sh', 'voice_audio.sh', statement.text, self.speed])
+        
+        pico_statement = statement.text
+        pico_statement = self.pico_substitution(pico_statement)
+        subprocess.Popen(['sh', 'voice_audio.sh', pico_statement, self.speed])
         return statement
-
+    
+    
+    def pico_substitution(self, pico_statement):
+        for original, remplacement in self.substitutions.items():
+            pico_statement = re.sub(original, remplacement, pico_statement)
+        
     def music(self, session_id=None):
         """
         :param statement: The statement that the chat bot has produced in response to some input.
