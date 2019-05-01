@@ -7,3 +7,4 @@ from .write_on_file import WriteOnFile
 from .pico_adapter import PicoAdapter
 from .no_output import NoOutput
 from .web_output import WebOutput
+from .picoweb_adapter import PicoWebAdapter

@@ -107,8 +107,6 @@ class Serv(BaseHTTPRequestHandler):
         alan.update_input(msg, finished)
 
     def talk_alone(self, conversation_id):
-        if conversation_id < 0:
-            conversation_id = self.last()['conversation_id']
 
         alan = self.alans[conversation_id]
         alan.talk_alone()
@@ -118,14 +116,14 @@ class Serv(BaseHTTPRequestHandler):
         Return the conversation as a list of dict.
         each dict has 3 keys : 'speaker'(str), 'msg'(str), 'finished'(bool)
         """
-        alan = self.alans[conversation_id]
-        return alan.conversation
-
+        try:
+            alan = self.alans[conversation_id]
+            return alan.conversation
+        except KeyError:
+            return None
     def talk(self, msg, conversation_id):
         """Take a msg and a conversation_id and return the response as a dict with text and command"""
         # Try to get the alan instance with the passed conversation_id
-        if conversation_id < 0:
-            conversation_id = self.last()['conversation_id']
         try:
             alan = self.alans[conversation_id]
         except KeyError:
@@ -233,12 +231,19 @@ class Serv(BaseHTTPRequestHandler):
                 del self.alans[conversation_id]
                 del self.alans_death[conversation_id]
 
+        # Get post body
+        content_len = int(self.headers.get('content-length', 0))
+        if content_len:
+            post_body = self.rfile.read(content_len)
+            post_body = json.loads(post_body.decode('utf-8'))
+            # Last conv id
+            if "conversation_id" in post_body and int(post_body["conversation_id"]) < 0:
+                post_body["conversation_id"] = self.last()['conversation_id']
+
+
         # TALK
         if self.path == '/talk':
             # Get post body
-            content_len = int(self.headers.get('content-length', 0))
-            post_body = self.rfile.read(content_len)
-            post_body = json.loads(post_body.decode('utf-8'))
             msg = post_body["msg"]
             conversation_id = int(post_body["conversation_id"])
             # log receiving data
@@ -251,9 +256,6 @@ class Serv(BaseHTTPRequestHandler):
         # UPDATE INPUT
         if self.path == '/update_input':
             # Get post body
-            content_len = int(self.headers.get('content-length', 0))
-            post_body = self.rfile.read(content_len)
-            post_body = json.loads(post_body.decode('utf-8'))
             msg = post_body["msg"]
             finished = bool(post_body["finished"])
             conversation_id = int(post_body["conversation_id"])
@@ -266,9 +268,6 @@ class Serv(BaseHTTPRequestHandler):
         # TALK ALONE
         if self.path == '/talk_alone':
             # Get post body
-            content_len = int(self.headers.get('content-length', 0))
-            post_body = self.rfile.read(content_len)
-            post_body = json.loads(post_body.decode('utf-8'))
             conversation_id = int(post_body["conversation_id"])
 
             # log receiving data
@@ -280,9 +279,6 @@ class Serv(BaseHTTPRequestHandler):
         # GET CONV
         if self.path == '/get_conv':
             # Get post body
-            content_len = int(self.headers.get('content-length', 0))
-            post_body = self.rfile.read(content_len)
-            post_body = json.loads(post_body.decode('utf-8'))
             conversation_id = int(post_body["conversation_id"])
 
             # log sending data
@@ -307,10 +303,11 @@ class Serv(BaseHTTPRequestHandler):
             self.log(reply, "last conversation")
 
         # return asked data
-        if reply:
+        if reply is not None:
             self.send_response(200)
         else:
             self.send_response(400)
+
             reply = {'err': "Bad request..."}
         self.send_header('Content-Type', 'application/json')
         self.end_headers()

@@ -1,7 +1,3 @@
-
-
-
-
 $(document).ready(function(){
 
 	////////// VARS/////////////////
@@ -12,16 +8,15 @@ $(document).ready(function(){
 
 	////////// CONVERSATIONS //////////
 	function newConv() {
-		$.post('/new', '', openConvCallback,'text');
+		$.post('/new', '', openConvCallback, 'text');
 	}
 	
 	function lastConv() {
-		$.post('/last', '', openConvCallback,'text');
+		$.post('/last', '', openConvCallback, 'text');
 	}
 	
 	function openConvCallback(response) {
 		var response = $.parseJSON(response)
-		console.log(response)
 		//catch errors in response
 		if(catchError(response)){
 			return
@@ -32,8 +27,10 @@ $(document).ready(function(){
 
 	function openConversation(id, status) {
 		conv = id
+		if(GET_CONV_METHOD == 'last'){
+			conv = -1
+		}
 		conversation_open = true
-		console.log("Conversation open with id "+ conv)
 		// write status
 		$('#status').html("Conversation ouverte. ("+status+")")
 		// enable input
@@ -41,14 +38,30 @@ $(document).ready(function(){
 	}
 
 	////////// EVENTS //////////
-	// Event for pressing ENTER key
+	// keys events
 	$(window).keydown(function(event){
+		// Event for pressing ENTER key
 		if(event.keyCode == 13) {
 			update_input($("#msg").val(), true);
 			$("#msg").val("");
   			event.preventDefault();
   			return false;
 		}
+		// Event for pressing Arrow key
+		if(event.keyCode == 38) { //UP
+			$("#discussion-container").animate({scrollTop : '-=50px'}, 200)
+  			event.preventDefault();
+  			return false;
+		}
+		if(event.keyCode == 40) { //DOWN
+			$("#discussion-container").animate({scrollTop : '+=50px'}, 200)
+  			event.preventDefault();
+  			return false;
+		}
+
+		if(!$("#msg").is(':focus')) {
+        	$("#msg").focus();
+        }
 	});
 	// Event for typing
 	$("#msg").on("input", function(e) {
@@ -60,13 +73,6 @@ $(document).ready(function(){
 	  	}
 	});
 
-	// Event for pressing #talk button
-		//NO NEED
-		//$("#talk").click(talk);
-
-	// Event for when the user quit
-		// JE NE SAIS PAS QUOI FAIRE. CA NE MARCHE PAS :
-		// $(window).unload(quit)
 
 	///////// SET HTML FUNCTIONS //////////
 	// disable the input and the button
@@ -101,17 +107,20 @@ $(document).ready(function(){
 			discussion_html += '<li class="'+v.speaker+'">'+v.msg+'</li>'
 		});
 		var old_discussion = $("#discussion").html()
-		$("#discussion").html(discussion_html)
+		if ($("#discussion").html() != discussion_html){
+			$("#discussion").html(discussion_html)
+			$("#discussion-container").scrollTop($('#discussion-container').prop("scrollHeight"));
+
+		}
 		// scroll to the bottom (with animation)
 
 
-		if(!conv[conv.length-1].finished && conv[conv.length-1].speaker == 'alan'){
+		if(conv.length>0 && !conv[conv.length-1].finished && conv[conv.length-1].speaker == 'alan'){
 			disable_input();
 		}
 		else{
 			enable_input();
 		}
-		$("#discussion-container").scrollTop($('#discussion-container').prop("scrollHeight"));
 	}
 
 	//catch errors
@@ -126,30 +135,6 @@ $(document).ready(function(){
 
 	}
 
-	////////// QUIT FUNCTION //////////
-	// ATTENTION : Cette fonction est pour plus tard et n'est appellée nulle part !
-	// DEPRECIATED !!!!!!!!!!!!!!!!!!!!!!!
-	function quit() {
-		// prevent for quiting a closed conversation
-		if(!conversation_open) return
-		alert("test")
-		// Create Json Msg (with quit query)
-		var jsonMsg = {
-			msg:"quit",
-			conversation_id:conv
-		};
-
-		// Send POST request
-       	console.log("Sending msg : " +jsonMsg.msg)
-        $.ajax({
-            type: "POST",
-            url: '/talk',
-            data: JSON.stringify(jsonMsg),
-            contentType: "application/json; charset=utf-8",
-            dataType: "text"
-            });
-
-	}
 
 	////////// UPDATE INPUT FUNCTION /////////
 	function update_input(msg, finished) {
@@ -180,66 +165,15 @@ $(document).ready(function(){
       }
 
 	////////// TALK FUNCTION //////////
-	function talk() {
-		// prevent for talking to a closed conversation
-		if(!conversation_open) return
-
-		// Create Json Msg (with user entry)
-		var jsonMsg = {
-			msg:$("#msg").val(),
-			conversation_id:conv
-		};
-
-	    // Add user entry to #discussion
-	    addToDiscussion($("#msg").val(), "human")
-
-		// clear and disable input waiting for the response
-		$("#msg").val("");
-		disable_input()
-
-		// Send POST request
-       	console.log("Sending msg : " +jsonMsg.msg)
-        $.ajax({
-            type: "POST",
-            url: '/talk',
-            data: JSON.stringify(jsonMsg),
-            contentType: "application/json; charset=utf-8",
-            dataType: "text",
-            success: talkCallback,
-            failure: function(errMsg) {
-                alert("Impossible d'envoyer le message à alan :'(");
-            }
-        });
-
-        // success callback
-		function talkCallback(response) {
-			response = $.parseJSON(response)
-			//catch errors in response
-			if(catchError(response)){
-				return
-			}
-			// Add response to #discussion
-       		console.log("Receiving msg : " +response.text)
-
-			addToDiscussion(response.text, "alan")
-			if(response.command != "quit"){
-				// reenable input
-				enable_input();
-			} else {
-				// if the quit command have been passed, close the conversation
-				conversation_open = false;
-				$('#status').html('Conversation fermée. <a href="/">Nouvelle conversation</a>')
-			}
-		}
-	}
 
 		////////// GET CONV //////////
 		function get_conv() {
 			if(GET_CONV_METHOD == 'last'){
 				lastConv();
 			}
-			if(!conversation_open) return
-
+			else if(!conversation_open){
+				return
+			}
 			// Create Json Msg (with user entry)
 			var jsonMsg = {
 				conversation_id:conv
@@ -254,8 +188,63 @@ $(document).ready(function(){
 	            dataType: "text",
 	            success: getConvCallback,
 	            failure: function(errMsg) {
+				console.log('get_conv failure')
+
 	                alert("Impossible d'envoyer le message à alan :'(");
-	            }
+	            },
+	            timeout: 3000,
+	            error: function(jqXHR, textStatus, errorThrown) {
+			        console.log('error ' + errorThrown)
+			        // Empty conversation on errors.
+
+			    }
+
+	        });
+
+	        // success callback
+			function getConvCallback(response) {
+				response = $.parseJSON(response)
+				//catch errors in response
+				if(catchError(response)){
+					return
+				}
+				updateDiscussion(response)
+			}
+
+		}
+				////////// GET STATUS //////////
+		function get_status() {
+			if(GET_CONV_METHOD == 'last'){
+				lastConv();
+			}
+			else if(!conversation_open){
+				return
+			}
+			// Create Json Msg (with user entry)
+			var jsonMsg = {
+				conversation_id:conv
+			};
+
+			// Send POST request
+	        $.ajax({
+	            type: "POST",
+	            url: '/get_conv',
+	            data: JSON.stringify(jsonMsg),
+	            contentType: "application/json; charset=utf-8",
+	            dataType: "text",
+	            success: getConvCallback,
+	            failure: function(errMsg) {
+				console.log('get_conv failure')
+
+	                alert("Impossible d'envoyer le message à alan :'(");
+	            },
+	            timeout: 3000,
+	            error: function(jqXHR, textStatus, errorThrown) {
+			        console.log('error ' + errorThrown)
+			        // Empty conversation on errors.
+
+			    }
+
 	        });
 
 	        // success callback
@@ -279,6 +268,6 @@ $(document).ready(function(){
 		}
 
 		var timer, delay = 100;
-		timer = setInterval(get_conv, delay);
-
+		 setInterval(get_conv, delay);
+		 setInterval(get_status, 1000);
 });
