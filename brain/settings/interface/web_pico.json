@@ -4,7 +4,8 @@
       {
         "import_path": "output.PicoAdapter",
         "pitch": "-300",
-        "speed": "0.85"
+        "speed": "0.85",
+        "substitutions": {"Alan":"Alanne","Francis":"Francisse", "Lopez":"Lopèze"}
       },
       {
         "import_path": "output.WebOutput"

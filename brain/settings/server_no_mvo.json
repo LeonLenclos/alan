@@ -1,3 +1,3 @@
 {
-    "import": ["base", "interface/web", "logic"]
+    "import": ["base", "interface/web_pico", "logic"]
 }

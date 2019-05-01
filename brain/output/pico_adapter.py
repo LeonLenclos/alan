@@ -34,7 +34,8 @@ class PicoAdapter(OutputAdapter):
     
     def pico_substitution(self, pico_statement):
         for original, remplacement in self.substitutions.items():
-            pico_statement = re.sub(original, remplacement, pico_statement)
+            pico_statement = re.sub(original, remplacement, pico_statement, flags=re.I)
+        return pico_statement
         
     def music(self, session_id=None):
         """
