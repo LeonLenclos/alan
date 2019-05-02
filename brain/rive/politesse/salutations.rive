@@ -146,7 +146,7 @@
 + [*] (@name_intro|c'est|je suis) *
 % * (@ask_name)
 - <set name={formal}<star2>{/formal}>Pardon pour\s
-^ cette question mais je ne suis pas sûr d'être certain d'avoir compris ton nom.|s
+^ cette question mais je ne suis pas sûr d'être certain d'avoir compris ton nom.\s
 ^ Tu t'appelles <get name> ?
 
 
