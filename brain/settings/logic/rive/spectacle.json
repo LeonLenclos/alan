@@ -32,6 +32,14 @@
            "allowed_to_repeat": true,
            "import_path": "logic.RiveScriptAdapter"
        },
+       {
+           "identifier": "sos",
+           "skill_description":["C'est la procédure."],
+           "rive_files": ["./rive/spectacle/sos.rive"],
+           "max_confidence": 1,
+           "allowed_to_repeat": true,
+           "import_path": "logic.RiveScriptAdapter"
+       },
 
        {
            "identifier": "leon",
