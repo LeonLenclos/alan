@@ -59,11 +59,11 @@ $(document).ready(function(){
   			return false;
 		}
 		if(event.keyCode == 114) { //F3
-			secret_talk('dis Fabien, arrête de l\'embêter !')
+			secret_talk('f3')
   			return false;
 		}
 		if(event.keyCode == 115) { //F4
-			secret_talk('dis Hm...')
+			secret_talk('f4')
   			return false;
 		}
 

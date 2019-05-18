@@ -30,6 +30,8 @@ import json
 import os
 import time
 import argparse
+# from threading import Timer
+
 
 from alan import Alan
 
@@ -38,15 +40,17 @@ LOG_ALL_ADAPTERS = False
 
 class Serv(BaseHTTPRequestHandler):
 
-    # A dict containing all alan instances. Keys are conversation numer
+    # A dict containing all alan instances. Keys are conversation id
     alans = {}
-    # A dict containing the dates they will die. Keys are conversation numer
+    # A dict containing the dates they will die. Keys are conversation id
     alans_death = {}
     # A list of logic adapter objects that must be shared between alan instances
     shared_logic_adapters = []
     # A list of logic adapter identifier for adapter that must be shared
     shared_logic_identifiers = ['mvochatbot']
-
+    # # A dict containing the timers for cough up. Keys are conversation id
+    # alan_cough_timers = {}
+    
     def log(self, conversation_id, txt):
         """log a pretty message with the conversation id"""
         self.log_message("({}) {}".format(conversation_id, txt))

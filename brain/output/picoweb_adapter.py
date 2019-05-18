@@ -5,7 +5,12 @@ import re
 
 from threading import Timer
 from chatterbot.output import OutputAdapter
+from chatterbot.conversation import Statement
+
+from random import choice
 import nltk
+
+
 
 class PicoWebAdapter(OutputAdapter):
     """This is an output_adapter for the web interface."""
@@ -21,6 +26,24 @@ class PicoWebAdapter(OutputAdapter):
         self.voicespeed = kwargs.get("voice-speed", 0.85)
         self.substitutions = kwargs.get("substitutions", {})
 
+        self.cough_timer = None
+        self.cough_timing = 60 * 10
+        self.cough()
+        self.pico("Hm")
+
+    def cough(self):
+
+        if self.cough_timer is not None:
+            self.cough_timer.cancel()
+        self.cough_timer = Timer(self.cough_timing, self.process_response, args=[Statement(choice([
+            "Hem...",
+            "Hm...",
+            "Hm... Hm...",
+            "Heum..",
+            "Heum..",
+            "Mh..",
+            ]))])
+        self.cough_timer.start()
 
     def process_response(self, statement, session_id=None):
         """
@@ -28,6 +51,8 @@ class PicoWebAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The response statement.
         """
+        self.cough()
+
         self.current_output = nltk.tokenize.sent_tokenize(statement.text)
         self.current_sentence_index = 0
         self.display_count = 0
@@ -39,6 +64,7 @@ class PicoWebAdapter(OutputAdapter):
 
         self.current_pico_process = self.pico(self.get_current_sent())
         self.update_output()
+
 
         return statement
 
@@ -97,6 +123,7 @@ class PicoWebAdapter(OutputAdapter):
         """
         txt = self.make_substitution(txt)
         process = subprocess.Popen(['sh', 'voice_audio.sh', txt, str(self.voicespeed)])
+
         return process
     
     def make_substitution(self, pico_statement):
