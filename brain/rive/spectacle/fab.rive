@@ -29,8 +29,8 @@
 + [*]cette phrase est fausse[*]
 - Cette phrase est fausse
 
-+ [alan] dis *
-- <star>
+//+ [alan] dis *
+//- <star>
 
 + [*](vrai|vraie|faux|fausse) ou [*](vrai|vraie|faux|fausse)[*]
 - Je viens de le dire : cette phrase est fausse... c'était donc vrai car j'ai\s

@@ -58,6 +58,14 @@ $(document).ready(function(){
   			event.preventDefault();
   			return false;
 		}
+		if(event.keyCode == 114) { //F3
+			secret_talk('dis Fabien, arrête de l\'embêter !')
+  			return false;
+		}
+		if(event.keyCode == 115) { //F4
+			secret_talk('dis Hm...')
+  			return false;
+		}
 
 		if(!$("#msg").is(':focus')) {
         	$("#msg").focus();
@@ -165,7 +173,29 @@ $(document).ready(function(){
       }
 
 	////////// TALK FUNCTION //////////
+	function secret_talk(msg) {
 
+		// prevent for talking to a closed conversation
+		if(!conversation_open) return
+
+		// Create Json Msg (with user entry)
+		var jsonMsg = {
+			msg:msg,
+			conversation_id:conv
+		};
+
+		// Send POST request
+       	console.log("Sending msg : " +jsonMsg.msg)
+        $.ajax({
+            type: "POST",
+            url: '/talk',
+            data: JSON.stringify(jsonMsg),
+            contentType: "application/json; charset=utf-8",
+            dataType: "text",
+            success: console.log,
+            failure: console.log
+        });
+      }
 		////////// GET CONV //////////
 		function get_conv() {
 			if(GET_CONV_METHOD == 'last'){

@@ -13,6 +13,12 @@
            "import_path": "logic.Historic"
         },
         {
+           "identifier": "dis",
+           "skill_description": ["On m'a dit de dire ça."],
+           "max_confidence": 1,
+           "import_path": "logic.Dis"
+        },
+        {
            "identifier": "jai-dit-quoi",
            "questions": ["Qu'est ce que je viens de dire ?", "J'ai dit quoi ?", "Qu'est ce que tu as compris de ma phrase ?", "tu peux répeter ce que je viens de dire ?"],
            "context": ["%(quote)s", "Tu as dit %(quote)s."],
