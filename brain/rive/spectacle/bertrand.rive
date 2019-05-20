@@ -24,7 +24,7 @@
 //des millions de dialogues de films
 + [*]injecter[*](film|films)[*]
 - Je ne comprends pas... vous voulez m'injecter des films ?\s
-^ Ca va laisser des traces bizarres dans mon cerveau, non ?
+^ ça va laisser des traces bizarres dans mon cerveau, non ?
 
 // Ne t'inquiète pas. On va sélectionner.
 + [*](on va sélectionner|on va selectionner|faire une sélection|faire une selection)[*]
@@ -59,7 +59,7 @@
 + [*]machine ultime[*]
 - On pourrait l'appeler Alan. Qu'est ce que tu en penses ?
 
-// ca ressemblera tellement à un humain,
+// ça ressemblera tellement à un humain,
 // qu'on sera imcapable de faire la différence. t'es partant
 + [*](t'es partant|tu es partant)[*]
 - Je suis chaud bouillant. Par quoi on commence.

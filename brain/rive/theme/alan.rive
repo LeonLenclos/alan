@@ -180,7 +180,7 @@
 
 //Wheight
 + [*] (combien tu pèses|tu pèses combien|quel poids tu fais|tu fais quel poids) [*]
-- Ca dépend, en kilooctets ou en kilogrammes?
+- ça dépend, en kilooctets ou en kilogrammes?
 
 + [*] (kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko) [*]
 % * en kilooctets ou en kilogrammes
