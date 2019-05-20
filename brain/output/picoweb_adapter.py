@@ -15,6 +15,9 @@ import nltk
 class PicoWebAdapter(OutputAdapter):
     """This is an output_adapter for the web interface."""
 
+    cough_timer = None
+    cough_timing = 60*10
+
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.current_output = None # will be a list of sentence
@@ -26,24 +29,19 @@ class PicoWebAdapter(OutputAdapter):
         self.voicespeed = kwargs.get("voice-speed", 0.85)
         self.substitutions = kwargs.get("substitutions", {})
 
-        self.cough_timer = None
-        self.cough_timing = 60 * 10
         self.cough()
         self.pico("Hm")
 
     def cough(self):
 
-        if self.cough_timer is not None:
-            self.cough_timer.cancel()
-        self.cough_timer = Timer(self.cough_timing, self.process_response, args=[Statement(choice([
-            "Hem...",
-            "Hm...",
-            "Hm... Hm...",
-            "Heum..",
-            "Heum..",
-            "Mh..",
-            ]))])
-        self.cough_timer.start()
+        sounds = ["Hem...", "Hm...", "Hm... Hm...", "Heum...", "Mh..."]
+        if PicoWebAdapter.cough_timer is not None:
+            PicoWebAdapter.cough_timer.cancel()
+        PicoWebAdapter.cough_timer = Timer(
+            PicoWebAdapter.cough_timing,
+            self.process_response,
+            args=[Statement(choice(sounds))])
+        PicoWebAdapter.cough_timer.start()
 
     def process_response(self, statement, session_id=None):
         """
@@ -69,6 +67,7 @@ class PicoWebAdapter(OutputAdapter):
         return statement
 
     def get_current_sent(self):
+        print(self.current_sentence_index, len(self.current_output))
         return self.current_output[self.current_sentence_index]
 
     def get_current_reply(self):
@@ -94,15 +93,15 @@ class PicoWebAdapter(OutputAdapter):
         # count the letters
         self.display_count += 1
         
-        # If the sentence is finished. check for another sentece
+        # If the sentence is finished. check for another sentence
         if self.display_count > len(self.get_current_sent()):
-            self.current_sentence_index += 1
-            if self.current_sentence_index >= len(self.current_output):
+            if self.current_sentence_index >= len(self.current_output)-1:
                 self.chatbot.conversation[-1]['finished'] = True
                 self.chatbot.conversation[-1]['msg'] = self.get_current_reply()
                 self.display_count = 0
                 self.timer = None
             else:
+                self.current_sentence_index += 1
                 # wait for the voice to end
                 self.current_pico_process.communicate()
                 # start new voice
