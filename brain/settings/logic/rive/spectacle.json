@@ -52,7 +52,7 @@
        {
            "identifier": "fonctions",
            "skill_description": ["Parce que c'est mon texte."],
-           "rive_files": ["./rive/spectacle/leon.rive"],
+           "rive_files": ["./rive/spectacle/fonctions.rive"],
            "max_confidence": 1,
            "allowed_to_repeat": true,
            "import_path": "logic.RiveScriptAdapter"
