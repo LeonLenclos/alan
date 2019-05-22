@@ -4,6 +4,7 @@
       "logic/concept",
       "logic/misc",
       "logic/quotation",
-      "logic/rive"
+      "logic/rive",
+      "logic/task"
     ]
 }
