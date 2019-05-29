@@ -1,0 +1,17 @@
+* {
+  cursor: none;
+}
+
+#discussion-container {
+  height:70%;
+}
+
+#status {
+	position: fixed;
+  bottom:0;
+}
+
+#msg {
+  	border-top: 0;
+}
+

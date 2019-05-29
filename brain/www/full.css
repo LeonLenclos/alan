@@ -68,12 +68,21 @@ padding: 5px;
 }
 
 .human {
-	color: gray;
+	
+color: #999;
+
 }
 
+ul > li.human:before {
+	content: "> ";
+}
+
+#msg:focus {
+	border-top: 2px solid white;
+}
 #msg:disabled {
+	border-top: 2px solid black;
 }
-
 a, a:visited {
 	color:white;
 }
