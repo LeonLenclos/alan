@@ -58,6 +58,14 @@ $(document).ready(function(){
   			event.preventDefault();
   			return false;
 		}
+		if(event.keyCode == 112) { //F1
+			secret_talk('f1')
+  			return false;
+		}
+		if(event.keyCode == 113) { //F2
+			secret_talk('f2')
+  			return false;
+		}
 		if(event.keyCode == 114) { //F3
 			secret_talk('f3')
   			return false;

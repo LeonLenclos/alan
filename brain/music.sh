@@ -1,5 +1,5 @@
 pico2wave -l fr-FR -w tmp.wav "Youpi !"
-sox tmp.wav tmp2.wav speed $1
+sox tmp.wav tmp2.wav speed 0.85
 n=1000; while [ $n -gt 400 ]; do beep -f $n -l 5; n=$((n*97/100)); done
 n=2000; while [ $n -gt 400 ]; do beep -f $n -l 5; n=$((n*97/100)); done
 n=3000; while [ $n -gt 400 ]; do beep -f $n -l 5; n=$((n*97/100)); done

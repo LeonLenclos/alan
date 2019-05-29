@@ -37,6 +37,7 @@ class MVOChatbotAdapter(AlanLogicAdapter):
 
     def can_process(self, statement):
         """Return False if there is to much word"""
+        return True
         return len(nltk.tokenize.word_tokenize(statement.text)) < self.MAX_LENGTH_EVAL - 1
 
     def process(self, statement):
@@ -45,10 +46,13 @@ class MVOChatbotAdapter(AlanLogicAdapter):
         try:
             response, confidence = main.alan_answer(input_string, self.encoder, self.decoder, self.input_lang, self.output_lang, self.USE_CUDA, self.max_length, self.temperature_fun, self.USE_QACORPUS, self.n_words)
         except RuntimeError:
-            # en attendant de comprendre Tensor blabla
-            statement_bug = Statement('bug...')
-            statement_bug.confidence = 0
-            return statement_bug
+            try:
+                response, confidence = main.alan_answer("C'est la fête", self.encoder, self.decoder, self.input_lang, self.output_lang, self.USE_CUDA, self.max_length, self.temperature_fun, self.USE_QACORPUS, self.n_words)
+            except RuntimeError:
+                # en attendant de comprendre Tensor blabla
+                statement_bug = Statement('bug...')
+                statement_bug.confidence = 0
+                return statement_bug
 
         #print("mvo confidence : {}".format(confidence))
         statement_out = Statement(response)
