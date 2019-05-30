@@ -5,7 +5,11 @@
         "import_path": "output.PicoWebAdapter",
         "pitch": "-300",
         "voice-speed": "0.85",
-        "substitutions": {"Alan":"Alanne","Francis":"Francisse", "Lopez":"Lopèze"}
+        "substitutions": {
+            "Alan":"Alanne",
+            "Francis":"Francisse",
+            "Lopez":"Lopèze"
+        }
       }
     ]
 }

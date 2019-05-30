@@ -136,4 +136,4 @@ class PicoWebAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The music.
         """
-        subprocess.Popen(['sh', 'music.sh', self.speed])
+        subprocess.Popen(['sh', 'music.sh', self.voicespeed])
