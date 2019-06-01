@@ -23,7 +23,7 @@
        },
        {
            "identifier": "decales",
-           "skill_description": ["j'ai dis ça comme ça"],
+           "skill_description": ["j'ai dit ça comme ça"],
            "rive_files": ["./rive/trivial/decales.rive"],
            "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"

@@ -43,7 +43,7 @@ class NiOuiNiNon(AlanLogicAdapter):
         human_latest = statement.text.lower()
         if "oui" in alan_latest or "non" in alan_latest:
             word = "oui" if "oui" in alan_latest else "non"
-            statement_out = "Mince ! J'ai perdu... j'ai dis \"%s\"..." % word
+            statement_out = "Mince ! J'ai perdu... j'ai dit \"%s\"..." % word
             statement_out = Statement(statement_out)
             statement_out.confidence = self.get_confidence()
             self.state = END
