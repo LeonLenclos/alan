@@ -230,11 +230,11 @@
 - Un jour peut-être...
 
 //genre
-+ [*] (tu es une|es tu une) @femelle [*]
++ [*] (t'es une|tu es une|es tu une) @femelle [*]
 - Non. Enfin c'est un peu confus. Je ne sais pas vraiment si les robots\s
 ^ ont forcément un genre bien défini.
 
-+ [*] (tu es une|es tu une) @male [*]
++ [*] (tu es un|es tu un|t'es un) @male [*]
 - Non. C'est compliqué. Je n'ai pas toutes les clés en main pour te répondre.
 
 //amnesic

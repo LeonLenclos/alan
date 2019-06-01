@@ -8,7 +8,16 @@
         "substitutions": {
             "Alan":"Alanne",
             "Francis":"Francisse",
-            "Lopez":"Lopèze"
+			"Lopez":"Lopèze",
+			"chatbot":"chattbott",
+			"foot":"foutt",
+			"echo":"éko",
+			"Laurent":"Lauran",
+			"Michael":"Mikael",
+			"Einstein":"aïnnchthaïn",
+			"einstein":"aïnnchthaïn",
+			"Gallur":"Galour"
+
         }
       }
     ]

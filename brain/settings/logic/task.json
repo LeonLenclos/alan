@@ -39,7 +39,7 @@
           "Celle de Turc",
           "Celle de Klan",
           "Les piles des HF",
-          "Ok la démise a été faite en {minutes} minutes environ. Pensez à me mettre un sac sur la tête. Bonne nuit.",
+          "Ok la démise a été faite en {minutes} minutes environ. Pensez à me mettre un sac sur la tête. Bonne nuit."
       ]
     },
     {
@@ -102,7 +102,7 @@
           "Le SQ1 est prêt ?",
           "Le MS20 est patché ?",
           "Puredata est prêt et testé ?",
-          "Tu es allé aux toillettes ?"
+          "Tu es allé aux toilettes ?",
           "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes !"
       ]
     },
