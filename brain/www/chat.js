@@ -75,6 +75,11 @@ $(document).ready(function(){
   			return false;
 		}
 
+		if(event.keyCode == 119) { //F8
+
+			secret_talk('f8')
+  			return false;
+		}
 		if(!$("#msg").is(':focus')) {
         	$("#msg").focus();
         }
