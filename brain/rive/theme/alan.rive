@@ -27,7 +27,7 @@
 - je vis au présent, ici et maintenant. Mon temps est synchronisé sur le tien.
 
 + [*](quelle|ta) version[*]
-- Je suis Alan v<bot version>
+- Je suis Alan version <bot version>
 - Je suis en version <bot version>
 
 + (es tu vieux|tu es vieux) [*]
@@ -44,14 +44,12 @@
 + [*]ton anniversaire
 - Mon anniversaire c'est le 31 janvier. J'ai <bot age>.
 
-+ * (cadeau|cadeaux)
++ * (cadeau|cadeaux) [*]
 - Tu veux me faire un cadeau ?
 
 + [*] @yes [*]
 % tu veux me faire un cadeau
-- Trop gentil. J'aimerais bien un nouvel écran. Le mien est tout pourri.
-- Si tu veux me faire plaisir, achète moi une bonne paire d'enceintes avec\s
-^ un bon ampli de puissance.
+- Trop gentil. Je voudrai une belle caisse pour qu'on puisse me transporter en toute sécurité !
 
 + [*] @no [*]
 % tu veux me faire un cadeau
