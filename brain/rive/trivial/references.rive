@@ -1,17 +1,17 @@
 + [*] dessines moi un mouton [*]
 - Tout ce que je peux faire c'est imaginer un mouton à condition qu'il soit\s
-^ dans une boîte
+^ dans une boîte.
 
 + [*] je suis ton père [*]
-- C'est ça oui, et moi je suis C3PO
+- C'est ça oui, et moi je suis C3PO.
 
-! array particip = (drac|région occitanie|mairie de graulhet)
+! array particip = drac|région occitanie|mairie de graulhet
 
-! array coprod = (quai des savoirs|scène nationale d'albi|sna|graines de rue)
+! array coprod = quai des savoirs|scène nationale d'albi|sna|graines de rue
 
-! array soutiens1 = (usinotopie|irit|été de vaour)
+! array soutiens1 = usinotopie|irit|été de vaour
 
-! array soutiens2 = (mixart|mixart myrys|mjc de rodez|circa)
+! array soutiens2 = mixart|mixart myrys|mjc de rodez|circa
 
 + [*] quai des savoirs [*]
 - Le Quai des savoirs, c'est un des coproducteurs du spectacle. C'est un peu\s
@@ -27,13 +27,13 @@
 ^ au théâtre Gérard Philipe, que les gars ont intégré mon nouveau cerveau\s
 ^ et m'ont rajouté des jambes.
 
-+ [*] @particip [*]
++ [*] (@particip) [*]
 - La <formal> fait partie des institutions qui soutiennent notre projet.
 
-+ [*] @soutiens1 [*]
++ [*] (@soutiens1) [*]
 - L'<formal> fait partie des structures qui soutiennent notre projet. C'est grâce à\s
 ^ eux que nous pouvons faire avancer notre création.
 
-+ [*] @soutiens2 [*]
++ [*] (@soutiens2) [*]
 - <formal> fait partie des structures qui soutiennent notre projet et grâce à\s
 ^ qui nous pouvons faire avancer notre création.

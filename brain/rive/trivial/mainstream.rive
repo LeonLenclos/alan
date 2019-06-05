@@ -50,7 +50,7 @@
 
 // does Alan understand
 + [*]tu (comprends|as compris)[*]
-- Je comprends tout ce qu'on me dis. Parfois je fais semblant de ne pas\s
+- Je comprends tout ce qu'on me dit. Parfois je fais semblant de ne pas\s
 ^ comprendre, ça me donne du charme...
 - Et toi qu'est-ce que tu as compris ?
 
