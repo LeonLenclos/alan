@@ -311,16 +311,22 @@ class Serv(BaseHTTPRequestHandler):
             self.send_response(200)
         else:
             self.send_response(400)
-
             reply = {'err': "Bad request..."}
+        
         self.send_header('Content-Type', 'application/json')
         self.end_headers()
         self.wfile.write(bytes(json.dumps(reply), 'utf-8'))
-
+    
+    def do_OPTIONS(self):
+        self.send_response(200, "ok")
+        self.end_headers()
+    
     def end_headers (self):
-        #TODO: check if this is really useful ! 
+        #WATNING: check if this is really useful ! 
         self.send_header('Access-Control-Allow-Origin', '*')
         self.send_header('Access-Control-Allow-Methods', 'POST, GET, OPTIONS')
+        self.send_header("Access-Control-Allow-Headers", "Content-Type")
+        self.send_header("Access-Control-Allow-Headers", "Authorization")
         BaseHTTPRequestHandler.end_headers(self)
 
 if __name__ == '__main__':
