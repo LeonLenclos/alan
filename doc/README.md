@@ -2,6 +2,9 @@
 
 **Attention ! cette documentation est certainement dépassée. Elle est peu consultée est rarement mise à jour ! Nous la concervons ici car elle peut servir de base pour une documentation plus serieuse.**
 
+
+L'architecture d'Alan est basé sur le module python [chatterbot](https://github.com/gunthercox/ChatterBot).
+
 ## Consignes générales de contributions
 
 Ces consignes sont destinés à fixer des règles simples de contributions pour que les quelques collaborateurs du projets puissent travailler ensemble c'est-à-dire collaborer.
@@ -93,3 +96,22 @@ Un fichier contenant des fonctions de type preprocessor
 #### utils.py
 
 Un fichier contenant des fonctions de type utilitaires
+
+
+#### installer pyenchant sur mac
+
+```
+ $ brew install enchant --with-python
+ $ export PYENCHANT_LIBRARY_PATH=/usr/local/opt/enchant/lib/libenchant-2.dylib
+
+```
+puis telecharger la [source](https://github.com/rfk/pyenchant)
+```
+ $ python3 setup.py install
+```
+
+#### installer le dictionnaire francais sous linux
+
+```
+ $ sudo apt-get install myspell-fr-fr
+```
