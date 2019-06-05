@@ -6,6 +6,9 @@
              "Qu'est ce que tu viens de dire ?",
              "T'as dit quoi ?",
              "Tu as dit quoi ?",
+	     "Répète",
+	     "Répète ce que tu viens de dire",
+	     "Répète ce que tu viens de me dire",
              "Tu peux répéter ?"],
            "context": ["J'ai juste dit %(quote)s", "J'ai dit %(quote)s. Pourquoi cette question ?"],
            "skill_description": ["J'assume tout ce que j'ai pu dire."],
@@ -48,7 +51,7 @@
               "just_said": [
                 "Pourquoi tu me dis deux fois la même chose ? Tu crois que je suis sourd ?",
                 "Tu viens de me dire ça.",
-                "Tu te répète comme un chatbot mal réglé."
+                "Tu te répètes comme un chatbot mal réglé."
               ],
               "said_in_conversation": [
                 "Tu m'as déjà dis ça tout à l'heure.",
@@ -80,9 +83,9 @@
                "rst":"Ok, à toute !*rst*",
                "todo":"Ok, c'est noté.*todo*",
                "info":"Ok, voilà les infos que tu m'as demandé.*info*",
-               "startimpro":"Ok, je passe en mode impro.*setmaxconf mvochatbot 0.9*",
+               "startimpro":"Ok, je passe en mode impro.*setmaxconf mvochatbot 0.99*",
                "stopimpro":"Ok, je passe en mode normal.*setmaxconf mvochatbot 0*",
-               "start impro":"Ok, je passe en mode impro.*setmaxconf mvochatbot 0.9*",
+               "start impro":"Ok, je passe en mode impro.*setmaxconf mvochatbot 0.99*",
                "stop impro":"Ok, je passe en mode normal.*setmaxconf mvochatbot 0*"
 
              },
@@ -108,7 +111,7 @@
         {
              "identifier": "best_practices",
              "skill_description": ["Parce que je ne comprends rien à ce qu'on me dit si on ne me parles pas bien..."],
-             "sentence": "Je ne te comprends pas. Peux tu faire des phrases courtes, là ça fait trop d'infos pour moi.",
+             "sentence": "Je ne te comprends pas. Peux-tu faire des phrases courtes, là ça fait trop d'infos pour moi.",
              "min_letters": 100,
              "min_misspelled": 4,
              "max_confidence": 0.25,
