@@ -1,8 +1,8 @@
 ! version = 2.0
-// Des phrases d'introductions pour les sorties de résidences
+// Mode de gestion de crise, activé en cas de beug d'un robot en plein spectacle.
 
 + (sos|mgdc)
-- MODE GESTION DE CRISE ACTIVÉ : Gardons notre calme, tout va bien se passer. Est-ce que nous sommes en plein spectacle ?
+- Mode gestion de crise activé : Gardons notre calme, tout va bien se passer. Est-ce que nous sommes en plein spectacle ?
 
 
 ///////////// 
@@ -56,7 +56,7 @@
 
 + [*] (@yes) [*]
 % [*] peut-on le ou la réparer en moins de 4 minutes [*]
-- Voici ma proposition pour résoudre la crise : Un commédien va derrière le tulle jouer un morceau de musique triste pendant que l'on s'occupe de la réparation. Ensuite on reprend le spectacle là où il s'était arrêté.
+- Voici ma proposition pour résoudre la crise : Un comédien va jouer un morceau de musique triste pendant que l'on s'occupe de la réparation. Ensuite on reprend le spectacle comme si de rien n'était.
 
 // non / je sais pas
 + *
@@ -78,7 +78,7 @@
 
 + [*] (@yes) [*]
 % [*] peut-on finir le spectacle sans ce robot
-- Voici ma proposition pour résoudre la crise : On trouve une place dans le public pour le robot cassé et on continu le spectacle.
+- Voici ma proposition pour résoudre la crise : On trouve une place dans le public pour le robot cassé et on continue le spectacle.
 
 + [*] (@no) [*]
 % [*] peut-on finir le spectacle sans ce robot
@@ -91,7 +91,7 @@
 
 + [*] (@yes) [*]
 % [*] y a-t-il une panne audio-visuelle
-- C'est embêttant. {@ mgdc03}
+- C'est embêtant. {@ mgdc03}
 
 + [*] (@no) [*]
 % [*] y a-t-il une panne audio-visuelle
