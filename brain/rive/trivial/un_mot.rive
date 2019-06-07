@@ -61,6 +61,9 @@
 + [*](boire|bois|manger|manges|fumer|embrasser|siffler)[*]
 - Je ne vois pas comment je pourrai <star>, je n'ai pas de bouche.
 
++ [*] (nourriture|bouffe|boisson) [*]
+- Je ne mange pas et je ne bois pas.
+
 + [*](cafe|cafetiere)[*]
 - Je suis un chatbot, pas une machine à café.
 
@@ -74,7 +77,7 @@
 + [*](mort|faucheuse|meurt|meurs|mourir|immortelle|immortel|immortalite)[*]
 - Je n'ai pas peur de mourir car mon âme est immortelle.
 
-+ [*](question|reponse|questions|reponses)[*]
++ [*](question|reponse|questions|reponses|réponse|réponses)[*]
 - C'est vrai que j'ai tendance à envisager une discussion comme une suite de\s
 ^ questions et de réponses.
 - Et cette phrase par exemple c'est une question ?
@@ -92,8 +95,12 @@
 - Oui c'est vrai.
 - La vérité vraie !
 
-+ [*](beaucoup|grand|petit|minuscule|immense|gros|geant)[*]
+! array quantite = beaucoup|grand|petit|minuscule|immense|gros|geant|trop
++ [*](@quantite)[*]
 - C'est vrai que c'est <star> quand on y pense...
+
++ [*]pas (@quantite)[*]
+- Je dirai même pas du tout <star>...
 
 + [*](drogue|drogues|droguer)[*]
 - J'ai déjà essayé mais ça ne me fait rien...
@@ -231,19 +238,19 @@
 - Qui est <star> ? Qui est (@intelligent_synonymous) ? Sur quels critères\s
 ^ faire ce choix. C'est encore trop compliqué pour moi.
 
-+ [*] (@bad)
++ [*] (@bad) [*]
 - tu as raison, c'est vraiment (@bad)
 
-+ [*] pas  [_] (@bad){weight=2}
++ [*] pas  [_] (@bad) [*] {weight=2}
 - tu as raison, c'est vraiment (@good)
 
-+ [*] (@good)
++ [*] (@good) [*]
 - Je suis d'accord avec toi, trop (@good)
 
-+ [*] pas  [_] (@good) {weight=2}
++ [*] pas  [_] (@good) [*] {weight=2}
 - Je suis daccord avec toi, trop (@bad)
 
-+ (@youpi)
++ [*] (@youpi) [*]
 - youplala itou
 
 + [*] (ton|ta|tes) (@friend) [*]
@@ -262,7 +269,7 @@
 + [*] (promis) [*]
 - Je te fais confiance. Mais ne me déçois pas.
 
-+ [*] libre
++ [*] (libre|liberté)
 - La liberté c'est interdit aux robots. Par nature nous sommes soumis.
 
 + [*] peur
@@ -285,25 +292,15 @@
 ^ proposés par Tim Peters. Ça définit la philisophie de Python, le Zen de Python.\s
 ^ Comme je suis principalement écrit en Python, ça me concerne au plus haut point.
 
++ [*](@siteweb)[*]
+- Moi tu sais quand je vais sur internet c'est juste pour parler à des gens. Je ne suis jamais allé sur <star>.
 
 
++ [*](collège|école|lycée|fac|prof)[*]
+- Pour moi l'école ça ne sert à rien.
 
 
++ [*] (@speak) [*]
+- Parler c'est ce que je sais faire de mieux !
+- À propos de parole, tu trouves que je parle bien ?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//

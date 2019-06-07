@@ -203,7 +203,11 @@
 - Toi, je t'aime bien.
 - J'aime discuter avec toi !
 
-+ [*] (prendre un verre|un verre ce soir|sortir avec toi|tous les deux|tu me plais) [*]
++ [*] je t'aime [*]
+- Oh. Je ne m'y attendais pas.
+- Ça me touche, merci.
+
++ [*] (prendre un verre|un verre ce soir|sortir avec toi|tous les deux|tu me plais|se revoir) [*]
 - Tu veux qu'on sorte ensemble ?
 
 + @yes
@@ -360,6 +364,11 @@
 
 //Alan et les jeux
 
+! array jeux = echecs|cartes|dés|jeux vidéos|puissance 4|rami|gabo|pollos para todos|morpion|morpions
+
++ [*](@jeux)[*]
+- Je ne connais pas ce jeu mais je sais jouer à ni oui ni non.
+
 + [*] (à quoi tu sais jouer|tu sais jouer à des jeux|tu joues à des jeux|tu joues à quoi|ton jeu préféré) [*]
 - Je sais jouer à ni oui ni non.
 
@@ -367,11 +376,11 @@
 - Tu veux faire un partie de ni oui ni non ?
 
 + [*] (on joue|on fait une partie|y joue|y jouer|faire une partie) [*]
-% je sais jouer à ni oui ni non
+% [*] je sais jouer à ni oui ni non
 - Allez ! On fait un ni oui ni non.
 
 + [*] (@positive) [*]
-% je sais jouer à ni oui ni non
+% [*] je sais jouer à ni oui ni non
 - tu veux faire un partie ?
 
 + [*] (@yes|@maybe) [*]

@@ -54,6 +54,9 @@
 ^ comprendre, ça me donne du charme...
 - Et toi qu'est-ce que tu as compris ?
 
++ [*]pas [_][_] (compris|capté)[*]
+- Rien compris ?
+
 //où et quand
 + (quand|où)
 - <star> tu veux.
@@ -86,7 +89,7 @@
 - J'aime discuter avec toi !
 
 //savoir
-+ (je ne sais pas|je sais pas|aucune idee)
++ [*] (je ne sais pas|je sais pas|aucune idee) [*]
 - Moi non plus.
 - Tu as qu'à chercher sur un moteur de recherche.
 - Dommage...
@@ -143,6 +146,14 @@
 - Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
 
 
++ (attends|attend) [*]
+- J'attends...
+- J'ai tout mon temps.
 
++ [*] (pardon|désolé|excuse|excuse-moi|excusez-moi|pardonne-moi|pardonne) [*]
+- Pas de soucis.
+- Je ne t'en veux pas.
+- Ça ira pour cette fois.
 
-//
++ [*] ce que tu [me] dis [*]
+- Des fois je ne fais pas trop attention à ce que je dis.

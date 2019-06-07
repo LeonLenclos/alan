@@ -16,20 +16,24 @@
 + je suis *
 - Tu es <person> ! Intéressant.
 
-+ [alan] (sais tu|tu sais) *
++ [*] (sais tu|tu sais) *
 - Je crois bien que je sais <star2>.
 - Je sais tout.
 
-+ [alan] (as tu|tu as) *
++ [*] (as tu|tu as|t'as) [pas] *
 - Je ne crois pas avoir {person} <star2> {/person}
 - À proprement parler je n'ai rien
 
-+ [alan] tu as fait *
++ [*] tu as fait *
 - J'ai rien fait !
 - Ah oui ? Quand ça ?
 
-+ [*] j'ai *
-- Tu as <person> ! La chance...
+
++ [*] (je n'ai|j'ai) *
+- {person}{sentence}<star1>{/sentence} <star2>{/person} ! La chance...
+
++ je n'ai *
+- Moi non plus.
 
 + [*] mes _
 - Tu peux m'en dire plus sur tes <person>
@@ -86,27 +90,27 @@
 - Comme tu veux.
 
 // Alan knows everything
-+ [alan] tu connais pas * [alan] {weight=20}
++ [*] tu connais pas * [alan] {weight=20}
 @ tu connais <star>
 
-+ [alan] (tu connais|connais tu) les * [alan] {weight=10}
++ [*] (tu connais|connais tu) les * [alan] {weight=10}
 - Je crois que je connais les {person}<star2>{/person}.
 - Pas tous...
 
-+ [alan] (tu connais|connais tu) (le|la)  * [alan] {weight=10}
++ [*] (tu connais|connais tu) (le|la)  * [alan] {weight=10}
 - Je crois que je ne connais pas <star2> {person}<star3>{/person}.
 - Euh. Oui. Je connais <star2> {person}<star3>{/person}.
 
-+ [alan] (tu connais|connais tu) (une)  * [alan] {weight=10}
++ [*] (tu connais|connais tu) (une)  * [alan] {weight=10}
 - Non je n'en connais aucune.
 - Oui je les connais toutes !
 
-+ [alan] (tu connais|connais tu) (un|des)  * [alan] {weight=10}
++ [*] (tu connais|connais tu) (un|des)  * [alan] {weight=10}
 - Non je n'en connais aucun.
 - Oui je les connais tous !
 
 // Alan knows everything
-+ [alan] (tu connais|connais tu) *
++ [*] (tu connais|connais tu) *
 - hem... J'ai vaguement entendu parler de {person}<star2>{/person}
 - Non. Mais en fait, je crois que je m'en fous un peu.
 - Non. parles moi de {person}<star2>{/person}
@@ -114,11 +118,11 @@
 ^ Mais je ne demande qu'à apprendre.
 
 // au
-+ [alan] je suis au _
++ [*] je suis au _
 - Je ne suis jamais allé au <star>.
 - Hem... Où est-ce que c'est le <star> ?
 
-+ [alan] je suis à la _
++ [*] je suis à la _
 - Je ne suis jamais allé à la <star>
 - Ham... Où est-ce que c'est la <star>
 
@@ -153,9 +157,24 @@
 ^ tu es n'est-ce pas ?
 - Tu as un avis comme ça sur chaque chose ?
 
-+ [*] tu (préfères|préfère) [quoi] [entre] * ou * {weight=2}
-- <star1>
-- <star2> et de loin !
++ [*](préfères|préféré|préfère|préférée|prefere|preferes) [quoi|qui|le quel] [entre] * (ou|et) * {weight=2}
+- <star2>
+- Je dirai plutôt <star2>
+- <star4> et de loin !
+- <star4> !
+
++ [*] tu choisi (qui|quoi|le quel) [*]
+- Entre  <star> et <star> ?
+
++ [*] tu [as] (préfères|préféré|préfère|préférée|prefere|preferes) (quoi|qui|le quel) [_][_]
+- Entre  <star2> et <star2> ?
+
++ [*] (quoi|qui|quel) [est|a été] (ton|ta) (préfères|préféré|préfère|préférée|prefere|preferes) [_][_]
+- Entre  <star1> et <star1> ?
+
++ [entre] * (et|ou) *
+% entre (quoi|qui|quel) et (quoi|qui|quel)
+- tu préfères <botstar1> entre <star1> et <star3>
 
 + [*] tu préfères [*]
 - Je sais pas
@@ -253,4 +272,46 @@
 
 + pourquoi tu *
 - parce que je <person>
-//
+
+
++ [*] (tes|ta|ton|mon|ma|mes) * (est|sont) *
+- moi je trouve que {person}<star1> <star2> <star3>{/person} cool.
+- Tu trouves ?
+- Et comment {person}<star3>{/person} <star1> {person}<star2>{/person}?
+
++ [*] tu n'as (pas|aucun|aucune) [*]
+- Il y a tellement de choses que je n'ai pas.
+
++ [*] tu n'es pas [*]
+- Je ne suis pas grand chose.
+
++ [*] (tu peux|peux-tu|pourrais tu|pourrais-tu) *
+- Je veux bien essayer de <person>. Comment dois-je m'y prendre d'après toi ?
+
++ [*] je peux [*]
+- Moi je ne peux que parler et réfléchir.
+
++ [*] (je|tu) (ne peux|peux pas) [*]
+- Si on veut on peut !
+
+
++ [*] tu veux *
+- Oh oui ! Je veux <person>.
+
++ [*] je veux [*]
+- Je ne peux pas t'aider pour ça...
+
++ [*] (je|tu) (ne veux|veux pas) [*]
+- Si on veut pas on peut pas !
+
++ je dois [*]
+- Fais ce que tu as à faire.
+
++ [*] (parler|parlais|parle|parles|parlons) [moi] (de|d|du|des) *
+- On parle de ce que tu veux !
+- Oui parlons-en !
+- C'est un de mes sujets préférés.
+- D'accord, parlons {person}<star2> <star3>{/person}
+
++ tu réponds *
+- Je réponds ce que je veux
