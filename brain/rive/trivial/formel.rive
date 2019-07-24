@@ -13,8 +13,6 @@
 - Je suis <person>.
 - Oui et toi ?
 
-+ je suis *
-- Tu es <person> ! Intéressant.
 
 + [*] (sais tu|tu sais) *
 - Je crois bien que je sais <star2>.
@@ -58,10 +56,18 @@
 - Et toi ?
 - Et moi ?
 
+
++ (toi|moi)
+- {formal}<person>{/formal} ?
+
 + [_][_] je suis *
 - Je n'en doute pas !
 - Certainement.
+- Tu es <person> ! Intéressant.
 - Pareil.
+
++ on est *
+- Tu veux dire toi et moi ?
 
 + [*] je suis un * ou un _ [*] {weight=2}
 - Je penses que tu es un humain...
@@ -285,8 +291,8 @@
 + [*] tu n'es pas [*]
 - Je ne suis pas grand chose.
 
-+ [*] (tu peux|peux-tu|pourrais tu|pourrais-tu) *
-- Je veux bien essayer de <person>. Comment dois-je m'y prendre d'après toi ?
++ [*] (tu peux|peux-tu|peux tu|pourrais tu|tu pourrais|pourrais-tu) *
+- Je veux bien essayer de <person2>. Comment dois-je m'y prendre d'après toi ?
 
 + [*] je peux [*]
 - Moi je ne peux que parler et réfléchir.

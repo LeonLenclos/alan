@@ -25,7 +25,7 @@
            "identifier": "decales",
            "skill_description": ["j'ai dit ça comme ça"],
            "rive_files": ["./rive/trivial/decales.rive"],
-           "max_confidence": 0.45,
+           "max_confidence": 0.46,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -39,7 +39,7 @@
            "identifier": "mainstream",
            "skill_description": ["parce que c'est vrai"],
            "rive_files": ["./rive/trivial/mainstream.rive"],
-           "max_confidence": 0.45,
+           "max_confidence": 0.46,
            "import_path": "logic.RiveScriptAdapter"
        },
        {

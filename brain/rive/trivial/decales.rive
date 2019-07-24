@@ -88,6 +88,9 @@
 + (lol|mdr|ptdr)
 - Tu rigoles comme un robot...
 
++ (hihi|ihih|hihihi|ihihih|hi hi|ih ih|hi hi hi|ih ih ih|hi|ih)
+- ahah !
+
 + (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah|ha|ah)
 - <star><star> !
 
@@ -143,3 +146,13 @@
 + [*](@yes)[*]
 % [*] veux vraiment que je te donne mon avis à ce sujet[*]
 - Je crois que je vais garder mon avis pour moi, j'ai une pensée très complexe, tu ne comprendrais pas.
+
++ [_] [j'ai] (pas|rien) (compris|capté)
+- Concentre-toi.
+- Fait un effort !
+
++ [*] ce que tu [_] (dis|racontes) [*]
+- Je dis ce que je veux.
+- Ce que j'ai dis est dit.
+
+

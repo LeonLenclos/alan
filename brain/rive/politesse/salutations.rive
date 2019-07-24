@@ -42,7 +42,7 @@
 
 // When Alan just asks for the user name
 ! array ask_name = comment t'appelles tu|tu t'appelles comment
-^ comment tu t'appelles|et toi t'es qui|c'est qui|qui est à l'appareil
+^ comment tu t'appelles|et toi t'es qui|qui est à l'appareil
 ^ tu t'appelles comment alors|comment tu t'appelles déjà|c'est un nom ça
 ^ comment est-ce que tu t'appelles|comment est ce que tu t'appelles
 
