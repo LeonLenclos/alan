@@ -121,14 +121,23 @@
 
         },
         {
-             "identifier": "best_practices",
-             "skill_description": ["Parce que je ne comprends rien à ce qu'on me dit si on ne me parles pas bien..."],
+             "identifier": "best_practices1",
+             "skill_description": ["Car je m'embrouille si on me dit des phrases trop longues"],
              "sentence": "Je ne te comprends pas. Peux-tu faire des phrases courtes, là ça fait trop d'infos pour moi.",
-             "min_letters": 100,
-             "min_misspelled": 4,
+             "min_letters": 110,
              "max_confidence": 0.25,
              "import_path": "logic.BestPracticesAdapter"
 
+        },
+        {
+             "identifier": "best_practices2",
+             "skill_description": ["Parce que j'ai rien compris à ce que tu as dit."],
+             "sentence": "Euh... je me demande si on phrasesarle la même langue...",
+             "min_letters": 30,
+             "max_wellpelled": 0,
+             "max_confidence": 0.25,
+             "import_path": "logic.BestPracticesAdapter"
         }
+
     ]
 }

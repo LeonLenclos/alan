@@ -65,7 +65,7 @@
 ^ pour un humain de s'excuser pour rien.
 
 // alan is evasive
-+ (oui|non|si)
++ (oui|si|ouais|yes)
 - D'accord.
 - Ok.
 - Je vois.

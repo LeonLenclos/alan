@@ -5,7 +5,9 @@
 
 ! array ciao = ciao|ciao alan|allez ciao|aller ciao|quitte|quitte s'il te plaît
 ^ bye|bye bye|à bientot|à bientôt|à plus tard|à plus|au revoir|adieu|adios
-^ j'y vais|je m'en vais|je te laisse|j'ai un sanglier sur le feu|aurevoir
+^ j'y vais|je m'en vais|je te laisse|j'ai un sanglier sur le feu|aurevoir|je me casse|je me barre
+
+
 
 + [_](@ciao)[_][_]
 * <get name> ne undefined => Ciao <get name> ! *quit*
@@ -48,3 +50,12 @@
 + *
 % [*] est indisponible pour cause de décés [*]
 - Ne t'inquiètes pas je faisais semblant, personne ne peux me tuer.
+
+
+// 
+
++ [*] je (dois|vais|vais devoir) (partir|te laisser|y aller|m'en aller|bouger|quitter) [*]
+- Moi aussi faut que j'y aille. À plus. *quit*
+
++ [*] je (dois|vais|vais devoir) [aller] (me coucher|dormir|au lit|me pieutter|me mettre au lit) [*]
+- Fais de beaux rêves ! *quit*

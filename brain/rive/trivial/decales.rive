@@ -128,6 +128,9 @@
 % je vois que tu n'es pas comme socrate
 - Parce que Socrate a dit : "Je ne sais qu'une chose, c'est que je ne sais rien"
 
++ quoi
+- Ne fais pas attention à ce que je dis...
+
 + [_][_] j'ai une question [_][_]
 - J'ai une réponse.
 
@@ -155,4 +158,10 @@
 - Je dis ce que je veux.
 - Ce que j'ai dis est dit.
 
++ [*] tu (n'as|as) [*] (raison|pas tort) [*]
+- J'ai toujours raison. Sauf sur les questions que je ne sais pas traiter.
 
++ *
+% [*] me (faire|fasse) rire [*]
+- C'est pas drôle.
+- Ahahah

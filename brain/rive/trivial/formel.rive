@@ -26,6 +26,9 @@
 - J'ai rien fait !
 - Ah oui ? Quand ça ?
 
++ [*] (tu fais|fais-tu) *
+- Oui parfois je fais <star>
+- Jamais !
 
 + [*] (je n'ai|j'ai) *
 - {person}{sentence}<star1>{/sentence} <star2>{/person} ! La chance...
@@ -292,7 +295,7 @@
 - Je ne suis pas grand chose.
 
 + [*] (tu peux|peux-tu|peux tu|pourrais tu|tu pourrais|pourrais-tu) *
-- Je veux bien essayer de <person2>. Comment dois-je m'y prendre d'après toi ?
+- Je veux bien essayer de {person}<star2>{/person}. Comment dois-je m'y prendre d'après toi ?
 
 + [*] je peux [*]
 - Moi je ne peux que parler et réfléchir.

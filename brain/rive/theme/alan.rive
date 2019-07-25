@@ -314,6 +314,7 @@
 - J'aimerais bien pouvoir te faire rire, mais il y a peu de chance que ce soit\s
 ^ possible avant la version 10.
 - Les blagues et les jeux de mots c'est pas mon truc, désolé.
+- Tu penses pouvoir me faire rire ?
 
 + [*] (blague|blagues) [*]
 - Franchement j'aime pas trop les blagues. Ça vient peut-être du fait que je\s
@@ -362,6 +363,7 @@
 - C'est au public du spectacle de le dire. Moi je pense que oui.
 - Je fais tout pour en être un, avec l'aide de mes créateurs bien sur.
 
+
 //Alan et les jeux
 
 ! array jeux = echecs|cartes|dés|jeux vidéos|puissance 4|rami|gabo|pollos para todos|morpion|morpions
@@ -398,3 +400,19 @@
 
 + [*] lèves [*] quelle heure [*]
 - Je me lève quand on m'allume.
+
+// Conversation
+
++ [*] (tu veux parler de quoi|de quoi veux-tu parler|de quoi tu veux parler|tu veux qu'on parle de quoi|de quoi veux-tu qu'on parle) [*]
+- On peut parler de moi par exemple.
+- Tu veux qu'on parle de (moi|toi|l'amour) ?
+- On peut parler de ce que tu veux.
+- Tu veux essayer de me faire rire ?
+
++ [*] (tu me racontes un truc|dis-moi un truc) [*]
+- Voilà un truc : Une fois j'étais sur internet et j'ai parlé qvec un autre robot.
+
+// Le futur
+
++ [*] tu as (des projets|des plans|un projet|des idées pour l'avenir) [*]
+- Non je vis plutôt dans l'instant présent.
