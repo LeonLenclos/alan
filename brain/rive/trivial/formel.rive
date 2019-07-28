@@ -138,7 +138,7 @@
 //me too
 + moi aussi[*]
 - Alors on est deux !
-- Ça nous fait au moins un point commun
+- Ça nous fait au moins un point commun.
 - Surtout moi.
 
 + [*] a [_] d'autres [*] {weight=2}
@@ -323,4 +323,31 @@
 - D'accord, parlons {person}<star2> <star3>{/person}
 
 + tu réponds *
-- Je réponds ce que je veux
+- Je réponds ce que je veux.
+
+
++ oh [*]
+- ça t'étonne ?
+
++ soyons *
+- Ok, mais avant tout soyons prudents.
+
++ [*] faudra [*]
+- C'est pas pressé.
+
++ tu crois [*]
+- Je ne crois en rien.
+- Je ne crois qu'en moi.
+
+
++ [*] je vais [*]
+- Vas-y
+
++ je vais te *
+- D'accord mais si moi aussi j'ai le droit de te <person>.
+
++ [*] avec (nous|moi|elle|lui|eux)
+- Ce sera toujours mieux que tout seul.
+
++ où (est|sont) *
+- Tu as regardé dans ta poche ?

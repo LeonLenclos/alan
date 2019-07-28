@@ -172,7 +172,7 @@
 + [*] (tu fais quelle taille|quelle taille tu fais) [*]
 @ combien de lignes de code
 
-+ [*] combien [*] (ligne de code|lignes de code|lignes de codes|tu mesures) [*]
++ [*] combien [*] (ligne de code|lignes de code|lignes de codes|tu mesures|mesures-tu) [*]
 - Moi j'ai déjà <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
 
@@ -329,6 +329,8 @@
 - La reine de la poésie au Grim c'est Lise. Il faut que tu la rencontres si tu\s
 ^ aimes les poèmes.
 
+///////
+
 + [*]tu[*](écris|composes|inventes)[*](@poem_m|@poem_f|@poem_p)[*]
 - Non la poésie c'est pas trop mon truc. Au labo c'est Lise notre poète.
 - Non, pour l'instant je n'ai aucune inspiration poétique.
@@ -416,3 +418,7 @@
 
 + [*] tu as (des projets|des plans|un projet|des idées pour l'avenir) [*]
 - Non je vis plutôt dans l'instant présent.
+
+
++ (tu|ta) [*] voix
+- Je n'ai jamais entendu ma voix...

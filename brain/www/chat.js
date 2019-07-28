@@ -161,7 +161,10 @@ $(document).ready(function(){
 	function update_input(msg, finished) {
 
 		// prevent for talking to a closed conversation
-		if(!conversation_open) return
+		if(!conversation_open) return;
+
+		// Empty string for msg
+		if(msg === null) msg = "";
 
 		// Create Json Msg (with user entry)
 		var jsonMsg = {

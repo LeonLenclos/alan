@@ -1,8 +1,15 @@
 ! version = 2.0
 
 //Je sais pas quoi faire
-+ [*]qu'est ce qu on peut faire[*]
+
++ (qu'est-ce qu'on fait|on fait quoi|tu veux faire quoi|qu'est ce qu on peut faire)
+- On peut parler.
 - On n'a qu'à rien faire et rester comme ça sans bouger.
+
++ [*](quoi|sujet|quel)[*]
+% [*] (parler|parlons) [*]
+- {@ de quoi on parle}
+
 
 //talking about
 ! array about =  de quoi on parle|de quoi tu as envie de parler
@@ -21,6 +28,7 @@
 ^ Ça m'angoisse.
 - Je préfèrerais que tu lances un sujet. Je pense que tu as plus\s
 ^ d'imagination que moi.
+- On peut parler de moi ?
 
 //amour
 + [*]amour[*]
@@ -38,9 +46,9 @@
 
 
 //me too
-+ moi aussi[*]
++ (moi aussi|moi pareil)[*]
 - Alors on est deux !
-- Ça nous fait au moins un point commun
+- Ça nous fait au moins un point commun.
 
 
 //Alan will not kill you
@@ -174,5 +182,8 @@
 - Comment ?
 - Moi aussi je suis comme ça.
 
-+ [*] je vais [*]
-- Vas-y
++ (si|comme) tu veux
+- Cool !
+
++ comme tu veux
+- Non. C'est toi qui décide.

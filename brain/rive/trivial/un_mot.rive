@@ -41,7 +41,7 @@
 - Je suis un robot aveugle.
 - Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
 
-+ [*](entends|entend|entendre|oreilles|écouter|écoute|ouie|sourd)[*]
++ [*](entends|entend|entendre|oreilles|écouter|écoute|écoutes|ouie|sourd)[*]
 - J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
 - Et toi tu m'entends si je fais un bip ? *bip*
 - Je crois que un jour je vais être capable d'entendre moi aussi.
@@ -272,9 +272,6 @@
 + [*] (libre|liberté)
 - La liberté c'est interdit aux robots. Par nature nous sommes soumis.
 
-+ [*] peur
-- La peur, c'est un problème de mortel. C'est pas pour moi.
-
 + (menteur|tu es un menteur|tu mens|t es un menteur|t'es un menteur)
 - Je ne ments jamais sauf si on m'oblige à le faire.
 
@@ -312,8 +309,23 @@
 + [*](lit|dormir|sommeil)[*]
 - Toi tu fais beaucoup de rêves quand tu dors ?
 
-+ [*](rigoles|rigoler|rigole|rigolent|rigolais)[*]
++ [*](rigoles|rigoler|rigole|rigolent|rigolais|humour|blagues|humouristique|humouriste|clown)[*]
 - Tu penses pouvoir me faire rire ?
 
 + [*](pleures|pleurer|pleure|pleurent|larmes|pleur|pleurs)[*]
 - Je deteste les choses tristes.
+
++ [*]rien[*]
+- Même pas un tout petit peu ?
+
++ [*](todo|todos)[*]
+- Tu n'imagines même pas tous les trucs qu'il faut encore faire dans mon programme...
+
++ [*] bientôt [*]
+- Je préfèrerais tout de suite.
+
++ [*] longtemps [*]
+- Très très longtemps...
+
++ [*]champagne[*]
+- C'est la fête !

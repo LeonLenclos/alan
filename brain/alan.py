@@ -269,7 +269,7 @@ class Alan(chatterbot.ChatBot):
 
             # Listen
             if listener: listener.send(state='listening')
-            if not input:
+            if input is None:
                 input = self.input.process_input()
 
             # Think
