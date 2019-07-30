@@ -1,58 +1,97 @@
 {
-  "logic_adapters": [
-    {
-       "identifier": "chrono",
-       "skill_description": ["C'était juste pour aider."],
-       "max_confidence": 0.99,
-       "import_path": "logic.TaskListAdapter",
-       "trigger":["chrono", "chronomètre","lance un chrono", "top chrono"],
-       "task_list":[
-          "Ok, c'est parti, top chrono ! Appuie sur entrée pour arrêter le chrono.",
-          "{minutes} minutes et {seconds} secondes !"
-      ]
-    },
-    {
-       "identifier": "mise_francis",
-       "skill_description": ["C'était juste pour aider."],
-       "max_confidence": 0.99,
-       "import_path": "logic.TaskListAdapter",
-       "trigger":["mise francis", "mise f6", "mise de francis", "mise de f6"],
-       "task_list":[
-          "Caro est prête ? Alimentation emmeteur ? Alimentation moteur ? Alimentation Caméra ? Alimentation télécommande ?",
-          "Le cadre et le point sont prêts pour filmer l'établi et le sol ?",
-          "Si tu veux qu'on etoffe ta mise c'est possible. Là ça ne dure que {minutes} minutes et {seconds} secondes !"
-      ]
-    },
-    {
-       "identifier": "demise",
-       "skill_description": ["C'était juste pour aider."],
-       "max_confidence": 0.99,
-       "import_path": "logic.TaskListAdapter",
-       "trigger":["demise", "démise"],
-       "task_list":[
-          "Le balai a été passé sur TOUT le plateau ?",
-          "La vaisselle est faite ?",
-          "Voyons les batteries : Les batteries de Caro sont débranchées ?",
-          "Celle de Foot",
-          "Celle de Jimi",
-          "Celles de Mimi",
-          "Celle de Turc",
-          "Celle de Klan",
-          "Les piles des HF",
-          "Ok la démise a été faite en {minutes} minutes environ. Pensez à me mettre un sac sur la tête. Bonne nuit."
-      ]
-    },
-    {
-       "identifier": "mise_leon",
-       "skill_description": ["C'était juste pour aider."],
-       "max_confidence": 0.99,
-       "import_path": "logic.TaskListAdapter",
-       "trigger":["mise leon", "mise de leon","mise léon", "mise de léon"],
-       "task_list":[
-          "À l'établi : La perceuse en vitesse 1, débrayage 8, mode visseuse ?",
-          "Lucy est prête et en veille ? Tu as la feuille et le marqueur pour le compte des résurections.",
-          "À l'étagère du jardin : Matt est là avec son tube et des piles dans son HF ?",
-          "C'est parti pour la cuisine : La remorque est prête ?",
+   "logic_adapters":[
+      {
+         "identifier":"chrono",
+         "skill_description":[
+            "C'était juste pour aider."
+         ],
+         "max_confidence":0.99,
+         "import_path":"logic.TaskListAdapter",
+         "trigger":[
+            "chrono",
+            "chronomètre",
+            "lance un chrono",
+            "top chrono"
+         ],
+         "task_list":[
+            "Ok, c'est parti, top chrono ! Appuie sur entrée pour arrêter le chrono.",
+            "{minutes} minutes et {seconds} secondes !"
+         ]
+      },
+      {
+         "identifier":"mise_francis",
+         "skill_description":[
+            "C'était juste pour aider."
+         ],
+         "max_confidence":0.99,
+         "import_path":"logic.TaskListAdapter",
+         "trigger":[
+            "mise francis",
+            "mise f6",
+            "mise de francis",
+            "mise de f6"
+         ],
+         "task_list":[
+            "Sur scène : Les leds sont elles bien réglées ?",
+            "Le fond de scène est il clean ?",
+            "La machine à fumée est elle allumée ?",
+            "Le micro établi est il en place ?",
+            "Vérifie les réglages des F1 s’il te plait",
+            "Allume Caro et vérifie le cadre de la première scène.",
+            "Va garer Caro près du frigo.",
+            "Allume le récepteur de Matt.",
+            "Allume l’émetteur du morpion.",
+            "En régie : La pédale est elle allumée ?",
+            "Souviens toi , Il ne faut pas que ma voix soit trop forte au départ.",
+            "Comme pour Jimmy.",
+            "Pour Echo aussi.",
+            "Et Pour Klan et son délai.",
+            "Ta mise a été faite en {minutes} minutes et {seconds} secondes !"
+
+         ]
+      },
+      {
+         "identifier":"demise",
+         "skill_description":[
+            "C'était juste pour aider."
+         ],
+         "max_confidence":0.99,
+         "import_path":"logic.TaskListAdapter",
+         "trigger":[
+            "demise",
+            "démise"
+         ],
+         "task_list":[
+            "Le balai a été passé sur TOUT le plateau ?",
+            "La vaisselle est faite ?",
+            "Voyons les batteries : Les batteries de Caro sont débranchées ?",
+            "Celle de Foot",
+            "Celle de Jimi",
+            "Celles de Mimi",
+            "Celle de Turc",
+            "Celle de Klan",
+            "Les piles des HF",
+            "Ok la démise a été faite en {minutes} minutes environ. Pensez à me mettre un sac sur la tête. Bonne nuit."
+         ]
+      },
+      {
+         "identifier":"mise_leon",
+         "skill_description":[
+            "C'était juste pour aider."
+         ],
+         "max_confidence":0.99,
+         "import_path":"logic.TaskListAdapter",
+         "trigger":[
+            "mise leon",
+            "mise de leon",
+            "mise léon",
+            "mise de léon"
+         ],
+         "task_list":[
+            "À l'établi : La perceuse en vitesse 1, débrayage 8, mode visseuse ?",
+            "Lucy est prête et en veille ? Tu as la feuille et le marqueur pour le compte des résurections.",
+            "À l'étagère du jardin : Matt est là avec son tube et des piles dans son HF ?",
+            "C'est parti pour la cuisine : La remorque est prête ?",
             "Tes 6 outils : Hachoir, cuillère, couteau, économe, broche et rape",
             "Les 3 verres, un filtre de l'eau et du sel ? Une éponge ?",
             "La cafetière est branchée ? La poubelle est en place ?",
@@ -66,69 +105,81 @@
             "Les deux câbles trigs et le Jack de Jimi sont en place ? Et le couteau ? Et le crochet pour Foot ?",
             "Passons à l'arrière : Le carton de Jimi, la chemise et une bouteille d'eau ?",
             "Ognon est lancé et testé ? setup-cintiq est prêt ?",
-          "Aïl est prêt et ce que je dis s'affiche sur le grand écran ?",
-          "Tu as ton stylet et le clavier de Aïl ?",
-          "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes ! N'oublie pas de remettre ma télécommande dans ta poche quand tout le monde aura fait sa mise."
-      ]
-    },
-    {
-       "identifier": "mise_fabien",
-       "skill_description": ["C'était juste pour aider."],
-       "max_confidence": 0.99,
-       "import_path": "logic.TaskListAdapter",
-       "trigger":["mise fabien", "mise de fabien"],
-       "task_list":[
-          "À l'établi : Ta chaise est bien placée ?",
-          "Une hélice sur un schéma sur un dossier jaune ?",
-          "L'hélice de Mimi, la batterie, l'alimentation et la télécommande ?",
-          "Le testeur de batterie et le multimètre ?",
-          "Les petits papiers et tout ce qui vole ?",
-          "Le chapeau, les mains, les sourcils et les goupilles d'Otto ?",
-          "Otto est sur son étagère ?",
-          "À l'étagère du jardin : Tu as ta trousse rose avec ton rouge à lèvres ?",
-          "J'ai un carton devant moi ?",
-          "À l'autre étagère : Foot est en place avec sa batterie chargée et branchée ?",
-          "Et tu as du scotch dans la scotcheuse ?",
-          "Echo est prêt à être déplacé ? Ton petit piano a des piles ? Le trig d'echo est à sa place ?",
-          "Au frigo : Tu as allumé l'oscilloscope ?",
-          "Tu as ton balai et ton micro ?",
-          "Voyons les cartons : Le carton de Léon est là ?",
-          "Deuxième pile : ton carton sous celui de Bebert ?",
-          "Troisième pile : Un carton épais sous le carton de Foot ?",
-          "Et enfin est-ce que le carton Otto-Matt est bien bloqué par le pied de Klan ?",
-          "Dodo est en place ? (Tapis, duvet, lunettes, casquette, casque)",
-          "Ton changement de costume est prêt ? Les boutons sont boutonnés ?",
-          "Est-ce que Jimi est prêt et le chemin est-il dégagé ?",
-          "Le SQ1 est prêt ?",
-          "Le MS20 est patché ?",
-          "Puredata est prêt et testé ?",
-          "Tu es allé aux toilettes ?",
-          "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes !"
-      ]
-    },
-    {
-       "identifier": "mise_bebert",
-       "skill_description": ["C'était juste pour aider."],
-       "max_confidence": 0.99,
-       "import_path": "logic.TaskListAdapter",
-       "trigger":["mise bebert", "mise de bebert","mise bertrand", "mise de bertrand"],
-       "task_list":[
-          "À l'établi : Un fer à souder, de l'étain, un étau, un projet en cours ?",
-          "La pédale de Lucy est a portée de pied ? Et testée ?",
-          "À l'étagère du jardin : Le carton de Mimi est prêt et chargé (avec une goupille) ?",
-          "Tu as tes aimants ? (et la cible)",
-          "À l'autre étagère : ton petit piano est là (en mode violon)?",
-          "Est-ce que tu as pris le temps de bien préparer Turc ? La position des tuyaux, la batterie, les pistons en place ?",
-          "Core tourne en 1 ? Mute 3 et 6. Trig Alan 10 uniquement.",
-          "Sur le frigo : La TR808 est sur 9 play ? BD, HH et clav en solo ?",
-          "la TT303 en rouge 2 5. tous les potars à 0 sauf tune à 5 et accent à 6 ?",
-          "Le monotron 10 0 0 5 5 ?",
-          "La poignée de OTTO est calée avec le mousqueton en l'air ?",
-          "Et Klan, son bras avant-droit et démonté ? Tu as les outils pour le remonter ? il est branché ? Avec son piezzo ?",
-          "Et ton costume il est en place avec les manches retournées ?",
-          "Le modulaire : Load 14 clock ext + play + reception du trig ?",
-          "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes !"
-      ]
-    }
-  ]
+            "Aïl est prêt et ce que je dis s'affiche sur le grand écran ?",
+            "Tu as ton stylet et le clavier de Aïl ?",
+            "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes ! N'oublie pas de remettre ma télécommande dans ta poche quand tout le monde aura fait sa mise."
+         ]
+      },
+      {
+         "identifier":"mise_fabien",
+         "skill_description":[
+            "C'était juste pour aider."
+         ],
+         "max_confidence":0.99,
+         "import_path":"logic.TaskListAdapter",
+         "trigger":[
+            "mise fabien",
+            "mise de fabien"
+         ],
+         "task_list":[
+            "À l'établi : Ta chaise est bien placée ?",
+            "Une hélice sur un schéma sur un dossier jaune ?",
+            "L'hélice de Mimi, la batterie, l'alimentation et la télécommande ?",
+            "Le testeur de batterie et le multimètre ?",
+            "Les petits papiers et tout ce qui vole ?",
+            "Le chapeau, les mains, les sourcils et les goupilles d'Otto ?",
+            "Otto est sur son étagère ?",
+            "À l'étagère du jardin : Tu as ta trousse rose avec ton rouge à lèvres ?",
+            "J'ai un carton devant moi ?",
+            "À l'autre étagère : Foot est en place avec sa batterie chargée et branchée ?",
+            "Et tu as du scotch dans la scotcheuse ?",
+            "Echo est prêt à être déplacé ? Ton petit piano a des piles ? Le trig d'echo est à sa place ?",
+            "Au frigo : Tu as allumé l'oscilloscope ?",
+            "Tu as ton balai et ton micro ?",
+            "Voyons les cartons : Le carton de Léon est là ?",
+            "Deuxième pile : ton carton sous celui de Bebert ?",
+            "Troisième pile : Un carton épais sous le carton de Foot ?",
+            "Et enfin est-ce que le carton Otto-Matt est bien bloqué par le pied de Klan ?",
+            "Dodo est en place ? (Tapis, duvet, lunettes, casquette, casque)",
+            "Ton changement de costume est prêt ? Les boutons sont boutonnés ?",
+            "Est-ce que Jimi est prêt et le chemin est-il dégagé ?",
+            "Le SQ1 est prêt ?",
+            "Le MS20 est patché ?",
+            "Puredata est prêt et testé ?",
+            "Tu es allé aux toilettes ?",
+            "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes !"
+         ]
+      },
+      {
+         "identifier":"mise_bebert",
+         "skill_description":[
+            "C'était juste pour aider."
+         ],
+         "max_confidence":0.99,
+         "import_path":"logic.TaskListAdapter",
+         "trigger":[
+            "mise bebert",
+            "mise de bebert",
+            "mise bertrand",
+            "mise de bertrand"
+         ],
+         "task_list":[
+            "À l'établi : Un fer à souder, de l'étain, un étau, un projet en cours ?",
+            "La pédale de Lucy est a portée de pied ? Et testée ?",
+            "À l'étagère du jardin : Le carton de Mimi est prêt et chargé (avec une goupille) ?",
+            "Tu as tes aimants ? (et la cible)",
+            "À l'autre étagère : ton petit piano est là (en mode violon)?",
+            "Est-ce que tu as pris le temps de bien préparer Turc ? La position des tuyaux, la batterie, les pistons en place ?",
+            "Core tourne en 1 ? Mute 3 et 6. Trig Alan 10 uniquement.",
+            "Sur le frigo : La TR808 est sur 9 play ? BD, HH et clav en solo ?",
+            "la TT303 en rouge 2 5. tous les potars à 0 sauf tune à 5 et accent à 6 ?",
+            "Le monotron 10 0 0 5 5 ?",
+            "La poignée de OTTO est calée avec le mousqueton en l'air ?",
+            "Et Klan, son bras avant-droit et démonté ? Tu as les outils pour le remonter ? il est branché ? Avec son piezzo ?",
+            "Et ton costume il est en place avec les manches retournées ?",
+            "Le modulaire : Load 14 clock ext + play + reception du trig ?",
+            "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes !"
+         ]
+      }
+   ]
 }
