@@ -95,10 +95,10 @@
                "rst":"Ok, à toute !*rst*",
                "todo":"Ok, c'est noté.*todo*",
                "info":"Ok, voilà les infos que tu m'as demandé.*info*",
-               "startimpro":"Ok, je passe en mode impro.*setmaxconf mvochatbot 0.99*",
-               "stopimpro":"Ok, je passe en mode normal.*setmaxconf mvochatbot 0*",
-               "start impro":"Ok, je passe en mode impro.*setmaxconf mvochatbot 0.99*",
-               "stop impro":"Ok, je passe en mode normal.*setmaxconf mvochatbot 0*"
+               "startimpro":"Ok, je passe en mode impro.*setimpro 1*",
+               "stopimpro":"Ok, je passe en mode normal.*setimpro 0*",
+               "start impro":"Ok, je passe en mode impro.*setimpro 1*",
+               "stop impro":"Ok, je passe en mode normal.*setimpro 0*"
 
              },
              "max_confidence": 1,

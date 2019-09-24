@@ -6,7 +6,7 @@
             "allowed_to_repeat": true,
             "config_file": ["./models/config_qa.ini"],
             "import_path" : "logic.MVOChatbotAdapter",
-            "max_confidence": 0,
+            "max_confidence": 0.99,
             "confidence_coefficient": 1
         }
     ]
