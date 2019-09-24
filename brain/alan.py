@@ -83,6 +83,7 @@ class Alan(chatterbot.ChatBot):
         self.error_messages = self.settings.get('error_messages', None)
         self.log_not_processing = log_not_processing
         self.close = False
+        self.setimpro(0)
 
         # init chatterbot
         super().__init__(self.name, **self.settings)
