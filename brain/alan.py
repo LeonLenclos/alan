@@ -103,6 +103,8 @@ class Alan(chatterbot.ChatBot):
 
         # init relations
         init_relation.store_all(self)
+        # init mode impro
+        self.setimpro(0)
 
         #create conversation
         self.conversation_id = self.get_conversation_id()
@@ -243,17 +245,17 @@ class Alan(chatterbot.ChatBot):
 
     def talk_alone(self):
         """Use the last alan's reply as an input for next reply"""
+        if self.impro:
+            # if empty conversation, create element with empty msg
+            if not len(self.conversation):
+                self.conversation.append({
+                    'speaker':'alan',
+                    'msg':'',
+                    'finished':finished
+                })
 
-        # if empty conversation, create element with empty msg
-        if not len(self.conversation):
-            self.conversation.append({
-                'speaker':'alan',
-                'msg':'',
-                'finished':finished
-            })
-
-        if self.conversation[-1]['finished']:
-            self.talk(input=self.conversation[-1]['msg'])
+            if self.conversation[-1]['finished']:
+                self.talk(input=self.conversation[-1]['msg'])
 
     def talk(self, input=None, listener=None):
         """
@@ -329,6 +331,8 @@ class Alan(chatterbot.ChatBot):
         elif command == "chut": pass
         elif command.startswith("setmaxconf"):
             self.setmaxconf(*command.split(' ')[1:])
+        elif command.startswith("setimpro"):
+            self.setimpro(*command.split(' ')[1:])
         else : raise KeyError("The {} command does not exist".format(command))
 
     def finish(self):
@@ -382,6 +386,12 @@ class Alan(chatterbot.ChatBot):
         logic_adapter = self.logic.get_adapter(identifier)
         if logic_adapter:
             logic_adapter.max_confidence = float(value)
+
+    def setimpro(self, value):
+        self.impro = int(value)
+        mvoadapter = self.logic.get_adapter('mvoadapter')
+        if mvoadapter:
+            mvoadapter.confidence_coefficient = self.impro
 
     def main_loop(self):
         """Run the main loop"""
