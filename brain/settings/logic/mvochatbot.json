@@ -2,9 +2,8 @@
     "logic_adapters": [
         {
             "identifier": "mvochatbot",
-             "skill_description": ["C'était de l'impro"],
+            "skill_description": ["C'était de l'impro"],
             "allowed_to_repeat": true,
-            "config_file": ["./models/config_qa.ini"],
             "import_path" : "logic.MVOChatbotAdapter",
             "max_confidence": 0.99,
             "confidence_coefficient": 1

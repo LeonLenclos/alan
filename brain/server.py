@@ -45,9 +45,9 @@ class Serv(BaseHTTPRequestHandler):
     # A dict containing the dates they will die. Keys are conversation id
     alans_death = {}
     # A list of logic adapter objects that must be shared between alan instances
-    shared_logic_adapters = []
-    # A list of logic adapter identifier for adapter that must be shared
-    shared_logic_identifiers = ['mvochatbot']
+    # shared_logic_adapters = []
+    # # A list of logic adapter identifier for adapter that must be shared
+    # shared_logic_identifiers = ['mvochatbot']
     # # A dict containing the timers for cough up. Keys are conversation id
     # alan_cough_timers = {}
     
@@ -62,15 +62,15 @@ class Serv(BaseHTTPRequestHandler):
         # create alan instance
         alan = Alan(
             settings_files=settings_files,
-            preconfigured_logic_adapters=self.shared_logic_adapters,
+            # preconfigured_logic_adapters=self.shared_logic_adapters,
             log_not_processing=LOG_ALL_ADAPTERS)
     
         # manage shared_logic_adapters
-        if len(self.shared_logic_adapters) == 0:
-            for identifier in self.shared_logic_identifiers:
-                adapter = alan.logic.get_adapter(identifier)
-                if adapter :
-                    self.shared_logic_adapters.append(adapter)
+        # if len(self.shared_logic_adapters) == 0:
+        #     for identifier in self.shared_logic_identifiers:
+        #         adapter = alan.logic.get_adapter(identifier)
+        #         if adapter :
+        #             self.shared_logic_adapters.append(adapter)
 
         # get conversation_id and store the instance in alans
         conversation_id = alan.conversation_id

@@ -51,7 +51,7 @@ class Alan(chatterbot.ChatBot):
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
 
-    def __init__(self, settings_files="default", preconfigured_logic_adapters=[], log_not_processing=False):
+    def __init__(self, settings_files="default", log_not_processing=False):
         """
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
@@ -67,13 +67,13 @@ class Alan(chatterbot.ChatBot):
         else : raise('TypeError', 'setting_files must be list or str')
 
         # remove preconfigured logic adapters from settings
-        unconfigured_logic_settings = []
-        preconf_identifiers = [
-            l.identifier for l in preconfigured_logic_adapters]
-        for adapter_setting in self.settings["logic_adapters"]:
-            if adapter_setting["identifier"] not in preconf_identifiers:
-                unconfigured_logic_settings.append(adapter_setting)
-        self.settings["logic_adapters"] = unconfigured_logic_settings
+        # unconfigured_logic_settings = []
+        # preconf_identifiers = [
+        #     l.identifier for l in preconfigured_logic_adapters]
+        # for adapter_setting in self.settings["logic_adapters"]:
+        #     if adapter_setting["identifier"] not in preconf_identifiers:
+        #         unconfigured_logic_settings.append(adapter_setting)
+        # self.settings["logic_adapters"] = unconfigured_logic_settings
 
         # Alan vars
         self.age = self.get_age()
@@ -90,7 +90,7 @@ class Alan(chatterbot.ChatBot):
         # change from MultiLogicAdapter to MainLogicAdapter and add preconfigured adapters
         logic_adapters = self.logic.get_adapters()[:-1]
         self.logic = MainLogicAdapter(**self.settings, chatbot=self)
-        logic_adapters.extend(preconfigured_logic_adapters)
+        # logic_adapters.extend(preconfigured_logic_adapters)
         self.logic.adapters = logic_adapters
 
         # For having several output adapters
@@ -268,7 +268,6 @@ class Alan(chatterbot.ChatBot):
         command_regex = r"\*(.+)\*"
 
         try:
-
             # Listen
             if listener: listener.send(state='listening')
             if input is None:
