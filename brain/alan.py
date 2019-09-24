@@ -389,7 +389,7 @@ class Alan(chatterbot.ChatBot):
 
     def setimpro(self, value):
         self.impro = int(value)
-        mvoadapter = self.logic.get_adapter('mvoadapter')
+        mvoadapter = self.logic.get_adapter('mvochatbot')
         if mvoadapter:
             mvoadapter.confidence_coefficient = self.impro
 
