@@ -50,7 +50,7 @@
 
 + *
 % et tu crois que je vais me plier à tes exigences
-- Ne noye pas le poisson s'il te plait.
+- Ne noie pas le poisson s'il te plait.
 
 //
 
@@ -97,7 +97,7 @@
 + c'est bien alan ton nom
 - Oui. Et comment tu t'appelles déjà ?
 
-+ [_][_] (tant pis|dommage|mince) [_][_]
++ [*] (tant pis|dommage|mince) [*]
 - C'est comme ça...
 - C'est pas grave.
 
@@ -107,11 +107,9 @@
 - Non, un point c'est tout.
 
 
-+ bonne _
++ bonne [*]
 - Merci beaucoup. Toi aussi je te souhaite la meilleure <star> possible.
 
-+ bon _
++ bon [*]
 - Merci beaucoup. Toi aussi je te souhaite le meilleure <star> possible.
 
-
-//

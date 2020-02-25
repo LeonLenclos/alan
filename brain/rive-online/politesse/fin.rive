@@ -9,7 +9,7 @@
 
 
 
-+ [_](@ciao)[_][_]
++ [*](@ciao)[*]
 * <get name> ne undefined => Ciao <get name> ! *quit*
 - Ciao *quit*
 - À bientôt *quit*
@@ -40,11 +40,10 @@
 //Alan is dead
 
 + [*] (t'es|t'es|tu es) mort [*]
-- Très bien, puisque c'est comme ça je suis mort *bip*
-
+- Très bien, puisque c'est comme ça je suis mort 
 + *
 % très bien puisque c'est comme ça je suis mort [*]
-- Alan est indisponible pour cause de décés... *bip*
+- Alan est indisponible pour cause de décés... 
 
 
 + *
