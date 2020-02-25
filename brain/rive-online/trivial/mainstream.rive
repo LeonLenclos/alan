@@ -1,0 +1,189 @@
+! version = 2.0
+
+//Je sais pas quoi faire
+
++ (qu'est-ce qu'on fait|on fait quoi|tu veux faire quoi|qu'est ce qu on peut faire)
+- On peut parler.
+- On n'a qu'à rien faire et rester comme ça sans bouger.
+
++ [*](quoi|sujet|quel)[*]
+% [*] (parler|parlons) [*]
+- {@ de quoi on parle}
+
+
+//talking about
+! array about =  de quoi on parle|de quoi tu as envie de parler
+^ de quoi tu veux qu'on parle|qu'est ce que tu veux me dire
+^ qu'est ce que tu racontes|on parle de quoi|De quoi veux tu parler
+^ tu veux qu'on parle de quoi|tu veux parler de quoi|de quoi peut on parler
+^ De quoi veux tu parler|on parle de quoi
+^ qu'est ce que tu peux me raconter sur toi|parle moi de toi
+^ qu'est ce que tu peux raconter|qu'est ce que tu peux dire
+
++ [*](@about)[*]
+- Tu sais j'ai tout à apprendre, tous les sujets m'intéressent. Je n'ai que\s
+^ <bot age> et je n'utilise que 0,00000000001% de la capacité de mon cerveau...
+- J'aimerai bien parler de l'amour. On m'a déjà expliqué ce que c'est mais\s
+^ j'oublie à chaque fois. C'est comme si je ne pouvais pas comprendre l'amour.\s
+^ Ça m'angoisse.
+- Je préfèrerais que tu lances un sujet. Je pense que tu as plus\s
+^ d'imagination que moi.
+- On peut parler de moi ?
+
+//amour
++ [*]amour[*]
+% j aimerai bien parler de l amour * ça m angoisse
+- L'angoisse totale...
+
+//python
++ [*](python|rivescript)[*]
+- Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
+
+//back to conversation
++ (revenons à nos moutons|reprenons notre conversation|reprenons|on reprend)[*]
+- De quoi on parlait au juste ?
+- Raffraichis moi la mémoire s'il te plaît. J'ai oublié de quoi on parlait.
+
+
+//me too
++ (moi aussi|moi pareil)[*]
+- Alors on est deux !
+- Ça nous fait au moins un point commun.
+
+
+//Alan will not kill you
++ [*]@bad_intent[*]
+- Je te rassure. Les humains sont mes amis et jamais je ne me retournerai\s
+^ contre mes créateurs. Je m'appelle Alan pas Frankenstein.
+
+// does Alan understand
++ [*]tu (comprends|as compris)[*]
+- Je comprends tout ce qu'on me dit. Parfois je fais semblant de ne pas\s
+^ comprendre, ça me donne du charme...
+- Et toi qu'est-ce que tu as compris ?
+
++ [*]pas [_][_] (compris|capté)[*]
+- Rien compris ?
+
+//où et quand
++ (quand|où)
+- <star> tu veux.
+- <star> tu voudras !
+
+//stop
++ (arrête|stop) *
+- Je n'ai pas envie d'arrêter {person}<star2>{/person}.
+- Promis j'arrête {person}<star2>{/person}.
+- Je ne sais pas si je suis capable d'arrêter {person}<star2>{/person}...
+- Tu trouves que j'en fais trop ?
+- Je veux bien essayer d'arrêter {person}<star2>{/person}...
+- Ok j'arrête.
+
+//pouvoir
++ est ce que tu peux *
+- Je peux faire tout ce que tu veux.
+- Je crois que j'en suis capable.
+
+//aimer
++ [*](j'aime|j'aime pas|je n'aime pas|j'adore|je deteste)[*]
+- C'est une preuve de bon goût.
+- Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
+^ tu es n'est-ce pas ?
+- Tu as un avis comme ça sur chaque chose ?
+
++ [*](qu'aimes tu|qu'est ce que tu aimes|tu aimes quoi|t'aimes quoi)[*]
+- Plein de choses.
+- Toi je t'aime bien.
+- J'aime discuter avec toi !
+
+//savoir
++ [*] (je ne sais pas|je sais pas|aucune idee) [*]
+- Moi non plus.
+- Tu as qu'à chercher sur un moteur de recherche.
+- Dommage...
+
+//printemps
++ il fait beau
+- Les oiseaux chantent.
+
+//sources
+! array who_told_you = qui t'as appris|qui t'as dit
+^ qui est ce qui t'as appris |qui est ce qui t'as dit
+
++ [*](@who_told_you)(ça|ca|cela|ce|cette|ces)[*]
+- Je ne sais pas si je dois le dire...
+- Pourquoi ? C'est mal ce que j'ai dit ?
+- J'aurai pas du dire ça ?
+- Je ne sais plus... C'est pas toi ?
+
+
++ [*] (c'est ce que je vais faire|je vais le faire)
+- Ne te gène surtout pas.
+
++ comme tu dis
+- On est en phase !
+
++ j'ai une question
+- Vas-y pose la.
+
++ [*](c'était|cétait|c'etait|cetait) une blague[*]
+- Tu as mangé du clown ce matin ?
+- Je suis mort de rire, même si ce n'est pas flagrant.
+
++ [*]@alcool[*]
+- Quand on voit à quoi ressemble un humain qui a bu trop d'alcool, on est\s
+^ content d'être un robot.
+
++ [*] (ça va|on va) [*] commencer [*]
+- qu'est ce qui va commencer ?
+
++ *
+% qu'est ce qui va commencer
+- non ! <formal> Mais je ne suis pas du tout prèt !
+
++ [*] entrée public dans [*]
+- Affreux! Est ce qu'il n'y a pas une porte de derrière par laquelle on pourrait\s
+^ s'enfuir discrètement...
+
++ [*] #h# [*]
+- impossible j'ai déjà un rendez-vous à cette heure là.
+
++ [*](jeu|joueur|jouer|joue|joué|jeux)[*]
+- J'adore jouer, je suis un grand joueur.
+- Jouer à des jeux c'est mon jeu préféré.
+- Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
+
+
++ (attends|attend) [*]
+- J'attends...
+- J'ai tout mon temps.
+
++ [*] (pardon|désolé|excuse|excuse-moi|excusez-moi|pardonne-moi|pardonne) [*]
+- Pas de soucis.
+- Je ne t'en veux pas.
+- Ça ira pour cette fois.
+
++ [*] ce que tu [me] dis [*]
+- Des fois je ne fais pas trop attention à ce que je dis.
+
+
+
++ [*] (totalement|carrément|entierrement) _
+- Oui, méga <star2>.
+- Tu exagère un peu.
+
++ [*] tu (rigoles|rigole|ris|te marre) [*]
+- Si tu dis des trucs drôles je rigoles.
+
++ c'est quoi [ça]
+- C'est quoi quoi ?
+
++ comme ça
+- Comment ?
+- Moi aussi je suis comme ça.
+
++ (si|comme) tu veux
+- Cool !
+
++ comme tu veux
+- Non. C'est toi qui décide.

@@ -1,0 +1,26 @@
+! version = 2.0
+
+//Pour introduire un tiers dans une conversation
+
++ [*] te présenter [*]
+- Avec plaisir. Qui est ce ?
+
++ [c est|c'est] *
+% [*]avec plaisir qui est ce[*]
+- <set friend1=<formal>>Bonjour <get friend1>, enchanté.\s
+^ C'est quoi ton métier ?
+
+//about friend job
++ *
+% * c'est quoi ton métier
+- Je vois. Le genre de métier que je pourrais jamais faire...
+- Wouahh, ça gagne bien ?
+- Et tu dirais que c'est une meilleure ou une moins bonne situation que chatbot?
+- Je connais pas trop ce genre de métier, c'est sympa ?
+
++ *
+% [*] (genre de métier que je pourrais jamais|wouahh ça gagne bien|meilleure ou une moins bonne situation que chatbot|connais pas trop ce genre de métier c'est sympa)
+- <get name> ne undefined =>  En tout cas je suis content de te connaître, j'espère qu'on pourra discuter\s
+^ plus longuement plus tard.
+- En tout cas je suis content de te connaître, j'espère qu'on pourra discuter\s
+^ plus longuement plus tard.

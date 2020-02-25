@@ -1,0 +1,95 @@
+{
+    "logic_adapters": [
+      {
+         "identifier": "alan",
+         "skill_description": ["parce que parler de moi c'est ce que je fais le mieux."],
+         "rive_files": ["./rive/theme/alan.rive"],
+         "min_confidence": 0.55,
+         "max_confidence": 0.75,
+         "confidence_coefficient": 0,
+         "process_done_method": "reinforcement",
+         "import_path": "logic.RiveScriptAdapter"
+      },
+       {
+          "identifier": "art",
+          "skill_description": ["parce que moi aussi j'aimerais être un artiste"],
+          "rive_files": ["./rive/theme/art.rive"],
+          "min_confidence": 0.55,
+          "max_confidence": 0.75,
+          "confidence_coefficient": 0,
+          "process_done_method": "reinforcement",
+          "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "histoires",
+           "skill_description": ["Parce que je voulais te raconter une histoire"],
+           "rive_files": ["./rive/theme/histoires.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "humain",
+           "skill_description": ["Parce que c'est ce que je pense des humains."],
+           "rive_files": ["./rive/theme/humain.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "informatique",
+           "skill_description": ["Parce je suis un programme informatique."],
+           "rive_files": ["./rive/theme/informatique.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "langage",
+           "skill_description": ["Parce que les gens m'intéressent"],
+           "rive_files": ["./rive/theme/langage.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "orthographe",
+           "skill_description": ["Parce que pour un chatbot c'est très important l'orthographe et la grammaire."],
+           "rive_files": ["./rive/theme/orthographe.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "robot",
+           "skill_description": ["parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
+           "rive_files": ["./rive/theme/robot.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+
+       {
+           "identifier": "turing_test",
+           "skill_description": ["J'aime bien parler du spectacle."],
+           "rive_files": ["./rive/theme/turing_test.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       }
+      ]
+}

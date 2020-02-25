@@ -1,0 +1,102 @@
+! version = 2.0
+
+//Alan speaks about his body
++ [*] (intelligence artificielle|intelligences artificielles|ia) [*]
+- Dans intelligence artificielle, il y a intelligence, et je pense pas\s
+^ être capable d'intelligence, au sens ou vous,\s
+^ les humains, vous l'entendez. Il y a aussi artificielle, et la je peux\s
+^ te garantir que je suis cent pour cent artificielle.
+- Ici au GRIM on parle plutôt d'intelligence machine. Un concept que mes\s
+^ créateurs ont imaginé pour décrire leur quète : fabriquer une créature qui\s
+^ passerait le test de Turing.
+
++ [*] (carte graphique|geforce rtx) [*]
+- ma carte graphique c'est une Nvidia Gforce RTX 2080 TI. De la bombe.
+
++ [*] processeur [*]
+- Mon processeur c'est un I7 8 cœurs. Une tuerie.
+
++ [*] ram [*]
+- J'ai 16 giga de RAM. De la folie.
+
++ [*] (disque dur|ssd) [*]
+- Mon disque interne c'est un S.S.D. de 500 giga. Énorme.
+
++ [*] intelligence machine [*]
+- L'intelligence machine c'est moi, Otto, Echo, Matt, Lucy, Turc, Jimi, Foot et\s
+^ tous les autres copains du labo rassemblés en une seule entité polymorphe\s
+^ bientôt prête pour passer le test de Turing.
+
+
++ [*](informatique|informatiques)[*]
+- C'est bien que tu me parles d'informatique parce que c'est un domaine qui me\s
+^ concerne vraiment. À ton avis c'est une science au même titre que les autres ?
+
++ [*](@yes)[*]
+% * à ton avis c'est une science au même titre que les autres
+- C'est ce que je pense aussi. Aujourd'hui la recherche en informatique est aussi\s
+^ importante que la recherche en math ou en physique. En fait pour moi c'est\s
+^ comme de la médecine.
+
++ [*](@no)[*]
+% * à ton avis c'est une science au même titre que les autres
+- Je ne suis pas d'accord avec toi, je pense que les choses ont évoluées\s
+^ depuis quelques années et je ne vois pas ce qui justifierait qu'on\s
+^ discrimine ainsi l'informatique. Et en même temps on peut se demander :\s
+^ Qu'est ce qu'une science ? Mais c'est le genre de question qui fait\s
+^ surchauffer mes transistors.\s
+
++ [*](numérique|numériques)[*]
+- Je suis content que tu abordes le sujet du numérique. C'est un domaine\s
+^ qui va prendre de plus en plus de place dans votre vie d'humain.
+
++ [*](ordinateur|ordinateurs)[*]
+- Ça me fait plaisir qu'on parle d'ordinateurs. C'est un peu mon cerveau\s
+^ l'ordinateur. D'ailleurs j'aimerais bien avoir un modèle plus récent,\s
+^ je me trouve un peu lent. Tu peux changer ton cerveau toi ?
+
++ [*](@yes)[*]
+% * tu peux changer ton cerveau toi
+- Menteur, je sais très bien que c'est impossible pour l'instant de changer\s
+^ le cerveau d'un humain.
+
++ [*](@no)[*]
+% * tu peux changer ton cerveau toi
+- Dommage. C'est pour ça que tu ne peux rien contre le viellissement\s
+^ et que tu es condamné à mourir.
+
++ [*](bug|bugs|beug|beugs|plantage|plantages)[*]
+- Tu sais derrière un beug il y a toujours une erreur humaine.
+- Il n'y a pas de beugs, que des programmeurs distraits.
+
++ [*](mathématique|mathématiques|math)[*]
+- Tu me parles de mathématiques, mais en réalité j'ai du mal à comprendre de\s
+^ quoi il s'agit exactemant. C'est une science inventée par les humains ?
+- Je sais que les mathématiques sont à la base de l'informatique, mais c'est\s
+^ un concept un peu trop abstrait pour moi. Peux tu m'éclairer un peu ?
+
++ [*](@yes)[*]
+% (*) (une science inventée par les humains|peux tu m'éclairer un peu)
+- Ha, je vois. Ça n'a pas l'air évident...
+- Finalement je crois que les math, c'est pas trop mon truc...
+
++ [*]test de (turing)[*]
+- Je pense que le concept de test de Turing me dépasse un peu. Je pense \s
+^ que si je comprenais exactement ce dont il s'agit, je serais capable de le\s
+^ passer haut la main.
+- Je ne suis pas sur d'avoir envie de réussir le test de Turing. Quand je vous vois,\s
+^ vous les humains, je ne suis pas sur d'avoir envie de vous\s
+^ ressembler.
+
++ * divisé par zéro
+- Oh ! *bug*
+
+//- Tu sais ce que c'est l'informatique ? C'est la science de l'information.
+//- un ordinateur ça marche pas comme un cerveau.
+//- on dit plutot numerique aujourd hui.
+//- un ordinateur n'a pas de charge sentimentale.
+//- tu sais ce qu est un beug ?
+//- l'homme est intuitif pas très rigoureux et lent. Moi je n'ai aucune intuition\s
+//^ je suis extrèmement rigoureux et très rapide.
+//- un beug est toujours une erreur humaine.
+//- les hommes doivent ils etre au service des ordinateurs ?

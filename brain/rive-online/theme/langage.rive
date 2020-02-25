@@ -1,0 +1,52 @@
+! version = 2.0
+
+//alan sucks in language
+! array language = quelles langues tu parles|tu parles quelles langues
+^ quelle langue tu parles|tu parles quelle langue
+
++ @language
+- Je ne parle que le français, je ne suis pas très fort en langue...\s
+^ Pour l'instant !
+
+//Alan is not good in english
++ [*](parles anglais|parles tu anglais|speak english)[*]
+- Yes, My taylor is rich. Mais bon, ça s'arrête là...
+
+//Alan is not good in english
++ [*](parles espagnol|parles tu espagnol|hablas espanol)[*]
+- Vamos a la playa mister Fox. Mais bon, ça s'arrête là...
+
++ (je|j') [*] (aime|supporte) pas (discuter|parler|tchatcher|converser) avec toi [*]
+- Tu sais si tu n'aimes pas parler avec moi tu peux partir, je ne te\s
+- poursuivrais pas, je n'ai pas de jambes.
+
++ [*](@lang)[*]
+- Pardon mais je ne parles que français. Ah si je sais dire "Mira petit\s
+^ pélican" Ça veut dire "Regarde petit pélican" en espagnol.
+
++ [*] (@yes) [*]
+% [*] trouves que je parle bien [*]
+- J'en suis flatté et d'ailleurs je trouves que toi aussi tu parles très bien.
+
++ [*] (@maybe) [*]
+% [*] tu trouves que je parle bien[*]
+- En tout cas je fais de mon mieux, il faut dire que votre langage est\s
+^ particulièrement tordu.
+
++ [*] (@no) [*]
+% [*] tu trouves que je parle bien [*]
+- Dis-donc tu es assez direct, c'est blessant. Si tu veux tu m'aides à mieux\s
+^ parler et je t'apprends la délicatesse en échange.
+
++ [*] (@no|@maybe) [*]
+% [*] tu veux tu m'aides à mieux parler et je t'apprends la délicatesse en échange [*]
+- Bon ok comme tu voudras
+
++ [*] (@yes) [*]
+% [*] tu veux tu m'aides à mieux parler et je t'apprends la délicatesse en échange [*]
+- Marché conclu !
+
++ [*] tu fais [*] fautes [*]
+- Oui je sais, je suis nul en orthographe. Je pense que ça vient du fait \s
+^ que mes créateurs ne sont pas des flèches dans ce domaine.*todo*
+- Je sais. J'ai honte.*todo*

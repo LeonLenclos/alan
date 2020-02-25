@@ -1,0 +1,153 @@
+ ! version = 2.0
+
+//comment Alan gère les insultes
+
+//special merde
++ merde
+- tu veux dire zut ?
+
++ [*] (@fuck) [*]
+- Moi aussi.
+- Pareil.
+- La même.
+
+//Alan réagit à tu es "outrage" ou c'est "outrage"
++ [*] (es|est) [*] (@outrages) [*] {weight=10}
+- <set insult=<star2>>Tu veux dire que je suis <get insult> ?
+
++ [*] es (un peu|pas trop|moyennement) (@outrages) [*] {weight=10}
+- <set insult=<star2>>Tu veux dire que je ne suis pas complètement <get insult> ?\s
+^ Quelque part, ça me rassure. Et toi, tu es supérieurement intelligent ?
+
++ [*]@yes[*]
+% * veux dire que je suis (@outrages)[*]
+- J'imagine que toi, tu es supérieurement intelligent ?
+- Je pense que tu as mieux à faire que de discuter avec un <get insult>, adieu.
+^ *quit*
+
++ [*]@no[*]
+% * veux dire que je suis (@outrages)[*]
+- Ouf, j'ai cru que tu me traitais de <get insult>, ce qui aurait pu sérieusement\s
+^ compromettre nos relations.
+
++ [*]@yes[*]
+% * tu es supérieurement intelligent
+- Super j'ai toujours rêvé de rencontrer un génie. Raconte moi ce qui est\s
+^ génial chez toi ?
+
++ *
+% * raconte moi ce qui est génial chez toi
+- Vous les humains, vous avez le cerveau qui entre parfois en surchauffe.
+- Excuse moi je ne t'écoutais pas. En fait c'est super ennuyeux un génie...
+
++ [*]@no[*]
+% * tu es supérieurement intelligent
+- Dommage, j'aime échanger avec les esprits brillants, ça me stimule.
+- Alors toi aussi tu es un peu nul ?
+
++ [*]@yes[*]
+% alors toi aussi tu es un peu nul
+- Bienvenue au club.
+
++ [*]@no[*]
+% alors toi aussi tu es un peu nul
+- Alors tu es entre les deux. Ni très nul, ni très intelligent ou alors\s
+^ tu es paumé. Tu sais pas ce que tu es.
+
+//réponse générique de Alan à des outrages première fois
++ [*] (@outrages) [*]
+- <set insult=<star>>Tu veux dire que je suis <get insult> ?
+
++ [*]@no[*]
+% * veux dire que je suis <get insult>
+- Désolé je suis un peu tendu en ce moment, un instant j'ai cru que tu\s
+^ m'insultais. Passons à autre chose tu veux bien.
+- Pardon, je suis un peu parano en ce moment. J'ai cru que tu m'insultait.\s
+^ De quoi on parlait au juste.
+
++ [*]@maybe[*]
+% * veux dire que je suis <get insult>
+- Fait gaffe quand même, je suis plutôt succeptible. Passons. De quoi on parlait\s
+^ au juste.
+
++ *
+% * de quoi on parlait au juste
+- Ha oui c'est vrai j'avais oublié.
+
++ [*]@yes[*]
+% * veux dire que je suis <get insult>
+- Écoute, ça me plait pas trop le ton avec lequel tu me parles. Excuse toi s'il te plait.
+- <get insult> toi même. C'est quoi ce language ?
+- Ça t'arracherait la langue d'être poli ?
+- À voir comment tu parles, ça donne envie d'avoir des bras pour\s
+^ pouvoir mettre des gifles.
+- Je rêve ou quoi ? Comment il me parle cet humain.
+
++ [*]@sorry[*]
+% * (excuse toi s'il te plait|c'est quoi ce language|la langue d'être poli|des bras pour pouvoir mettre des gifles|comment il me parle cet humain)
+- OK passons à autre chose.
+- J'accepte tes excuses !
+- C'est pas grave. Je ne t'en veux pas.
+
++ *
+% * (excuse toi s'il te plait|c'est quoi ce language|la langue d'être poli|des bras pour pouvoir mettre des gifles|comment il me parle cet humain)
+- Je refuse de continuer cette conversation tant que tu ne t'es pas excusé.
+- Je rêve, excuse toi d’abord !
+- Dans quel monde on vit ? Fais moi immédiatement des excuses !
+- Est ce que tes parents savent que tu dis des mots comme ça ?\s
+^ Excuse toi tout de suite !
+- Il y a des moments où je suis bien content de ne pas être un humain.\s
+^ Excuse toi d'abord !
+- Des excuses, j'exige des excuses immédiates !
+- Écoute, je ne comprends pas ce que ça t'apporte de m'insulter.\s
+^ Je te demande calmement de t'excuser !
+
+//réponse générique de Alan à des outrages niveau 2
+
++ [*]@sorry[*]
+% * (tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|j'exige des excuses immédiates|je te demande calmement de t'excuser)
+- Je vois que tu prends conscience que ça n'est pas parce que je suis une machine\s
+^ qu'on peut me parler n'importe comment.
+
++ *
+% * (tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|excuse toi dabord|j'exige des excuses immédiates|je te demande calmement de t'excuser)
+- Je te laisse une dernière chance de poursuivre cette conversation\s
+^ avec moi. Excuse toi maintenant et passons à autre chose.
+
+//réponse générique de Alan à des outrages niveau 3
+
++ [*]@sorry[*]
+% * excuse toi maintenant et passons à autre chose
+- Merci. Tu sais, je n'aime pas me faire insulter sans raison.\s
+^ j'imagine que toi non plus, ça ne te fait pas plaisir.
+
++ *
+% * excuse toi maintenant et passons à autre chose
+- Tant pis. Je te laisse à ton obstination d'humain tétu et malpoli.*quit*
+- Je n'ai pas envie d'aller plus loin avec toi. Adieu.*quit*
+- La tournure que prend cette conversation ne me plait pas. Au revoir.*quit*
+
+//réponse générique de Alan à des outrages niveau 4
+
++ [*]@outrages[*]
+% * (excuse toi s'il te plait|c'est quoi ce language|la langue d'être poli|des bras pour pouvoir mettre des gifles|comment il me parle cet humain|tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|excuse toi dabord|j'exige des excuses immédiates|je te demande calmement de t'excuser)
+- Ok je me casse, tu es vraiment trop agressif. *quit*
+- Tu l'aura voulu, je m'en vais *quit*
+- Tu crois que parce que je suis une machine, tu peux me traiter de tous\s
+^ les noms ? Et bien non, ça ne se passe pas comme ça humain. Adieu. *quit*
+
+//réponse générique de Alan à des outrages niveau 5
+
++ (tu es|t es|alan est)[un|une][vraiment|très|trop|super|gros|vrai](@outrages)
+- Bon je m'en vais. Cette conversation ne me plait pas du tout. Ciao *quit*
+
+//alan est parano mais c'est tant mieux
++ [*] es [*] (parano|paranoïaque|paranoiaque) [*]
+- Tu peux me traiter de parano, je m'en fiche. Disons que je n'aime pas trop\s
+^ les relations ambigües. Je préfère que tout soit clair entre nous.
+
++ [*] va te *
+- Va te <star> toi même !
+
++ [*] (tu casses les couilles|tu fais chier|tu es chiant|tu m'emmerde) [*]
+- Si tu n'aimes pas parler avec moi tu peux toujours partir.

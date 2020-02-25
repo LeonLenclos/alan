@@ -1,0 +1,91 @@
+! version = 2.0
+
+
+// hooks
++ [*](as la tête dans les nuages|es tête en l'air)
+- Je pensais à un truc...
+
++ [*] tu [ne|ne m'|n'|m'] (écoutes|suis|as) pas [écouté|entendu]
+- Je pensais à un truc...
+
++ [*]tu[*]une conscience [*]
+- Je ne sais pas si je suis conscient mais des fois, je pense à des trucs.
+
+// user ask what alan is thinking about, alan ask for confirmation
++ [*](à quoi|quel|quelles|quels|lequels)[*]
+% [*](je pense à des trucs|je pensais à un truc|j'étais perdu dans mes pensées|je pensais à autre chose)[*]
+@ à quoi tu penses
+
++ [*]tu (pense|penses|pensais) à quoi[*]
+@ à quoi tu penses
+
++ [*]à quoi[*]tu (pense|penses|pensais)[*]
+- Tu veux que je te dise à quoi j'étais en train de penser ?
+
+// User want to know
+//% tu veux que je te dise à quoi j'étais en train de penser
+//- dis moi
+
+
+//{@....} complète la réponse en renvoyant à un autre triger.
+  + [*](s'il te plaît|dis moi|@yes)[*]
+  % tu veux que je te dise à quoi [*] (penser|pense)
+  - Je me demandais si j'étais capable de me poser des questions.\s
+  ^ {@ tu m'as dejà dis à quoi tu pensais}
+  - Je me demandais quelle était la différence entre une erreur de calcul et\s
+  ^ une faute de goût. {@ tu m'as dejà dis à quoi tu pensais}
+  - Je pensais aux autres objets... contrairement à moi la plupart ne\s
+  ^ peuvent pas penser. {@ tu m'as dejà dis à quoi tu pensais}
+
+
+  + tu m'as dejà dis à quoi tu (pense|penses|pensais)
+  - Et toi, tu veux bien me dire un truc auquel tu penses des fois ?
+  - Et toi tu pensais à quoi ?
+  - Voilà... À toi de me dire une pensée secrète.
+
+
+  // User don't want to know alan's though
+  + je ne veux pas connaître tes pensées
+  - Ok, gardons nos secrets.
+  - Ça me va, gardons chacuns nos pensées pour nous.
+
+  + [*](ça ira|non|@no|@maybe)[*]
+  % tu veux que je te dise à quoi[*](penser|pense)
+  @ je ne veux pas connaître tes pensées
+
+  + *
+  % tu veux que je te dise à quoi [*] (penser|pense)
+  - Oups pardon j'étais encore perdu dans mes pensées ? Alors, tu veux que\s
+  ^ je te dis à quoi je pense oui ou non ?
+  - De toute façon je n'ai pas envie de te dire à quoi je pense. C'est secret.
+
+  // User is asked for his though
+  + [*] je [ne] sais (pas|plus) [*]
+  % [*](et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
+  - Dis moi le premier truc qui te passe par la tête
+  - J'ai envie de mieux comprendre le cerveau humain. Donne moi tes pensées.
+
+  + [*] (pas envie|@no) [*]
+  % [*](et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
+  - Je comprends, moi non plus je n'aime pas trop révéler mes secrets à des\s
+  ^ chatbots.
+  - Tu n'es pas obligé.
+
+  + (oui|ok|d'accord)
+  % [*](et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
+  - Je t'écoute.
+
+  + *
+  % [*](et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
+  - <person> ? Les humains ont des pensées étonnantes.
+
+  + [*] tu veux (savoir|que je te dise) à quoi je (pense|pensais) [*]
+  - Oui dis moi !
+
+
+  + [*](reve|rêve|reves|rêves)[*]
+  - Je suis un grand rêveur, on me dit souvent que je suis dans la lune.
+
+  + [*] (quoi|quel|reve|reves|rêves|rêves)[*](quoi|reve|reves|rêves|rêves)[*]
+  % [*] souvent que je suis dans la lune[*]
+  - Je rêve souvent que je suis un 1 et que je croise deux 0, et tout à coup ils se collent et ils forment un méchant 8 qui m'attaque, c'est l'angoisse.

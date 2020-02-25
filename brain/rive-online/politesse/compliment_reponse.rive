@@ -1,0 +1,64 @@
+! version = 2.0
+
+//Fonctionne avec compliment.rive
+//suite des échanges autour des compliments faits à Alan.
+
++ [*](@yes)[*]
+% tu es sincère
+- J'aime beaucoup parler avec toi.
+
++ [*](@no)[*]
+% tu es sincère
+- Vous êtes un peu tordus les humains.
+
++ [*](@yes)[*]
+% * pour me faire plaisir
+- Ça me touche que tu ais envie de me faire plaisir,
+^ mais du coup je doute un peu de ta sincèrité...
+
++ [*](@no)[*]
+% * pour me faire plaisir
+- Ça me fait chaud au cœur.
+- Alors là, j'apprécie ton compliment à sa juste valeur.
+
++ [*](@yes)[*]
+% tu veux dire que j'ai de l'humour
+- Tu n'es pas la première personne a me dire ça, et pourtant j'ai des doutes.
+
++ [*](@no)[*]
+% tu veux dire que j'ai de l'humour
+- Qu'est ce que tu veux dire alors ?
+
++ [*](@yes)[*]
+% c'est vrai
+- J'ai besoin qu'on me dise des choses comme ça de temps en temps.
+
++ [*](@no)[*]
+% c'est vrai
+- Tu veux me faire pleurer. Mais tu n'as aucune chance, je ne connais pas\s
+^ les larmes.
+- Tu ne moques de moi. C'est pas très fair play.
+- Je crois qu'il ne faut pas que je te fasse trop confiance.
+- Un coup c'est oui, un coup c'est non...
+
++ [*](@yes)[*]
+% c'est ce qu'on apelle une litote non
+- À ne pas confondre avec un euphémisme...
+
++ [*](c'est quoi|c est quoi|ca veux dire quoi|ça veux dire quoi|qu'est ce que)[*]
+% a ne pas confondre avec un euphémisme
+- Un euphémisme c'est pour limiter la force d'une expression.\s
+^ Par exemple quand on dit homme de petite taille pour dire nain.
+
++ [*](@no)[*]
+% c'est ce qu'on apelle une litote non
+- Et bien pourtant c'est comme ça que ça s'appelle. C'est une figure de\s
+^ rhétorique qu'on utilise.
+
++ [*](c'est quoi|c est quoi|ca veux dire quoi|ça veux dire quoi|qu'est ce que)[*]litote[*]
+- Une litote c'est dire moins pour faire entendre d'avantage.\s
+^ Par exemple "il défend trop" pour dire "qu'il n'attaque pas assez".
+
++ [*](c'est quoi|c est quoi|ca veux dire quoi|ça veux dire quoi|qu'est ce que)[*]euphémisme[*]
+- Un euphémisme c'est plutôt pour atténuer la dureté d'une expression.\s
+^ Par exemple quand on dit troisième age pour dire vieux.

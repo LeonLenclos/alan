@@ -1,0 +1,151 @@
+! version = 2.0
+// Mode de gestion de crise, activé en cas de beug d'un robot en plein spectacle.
+
++ (sos|mgdc)
+- Mode gestion de crise activé : Gardons notre calme, tout va bien se passer. Est-ce que nous sommes en plein spectacle ?
+
+
+///////////// 
+
++ [*] (@yes) [*]
+% mode gestion de crise * est-ce que nous sommes en plein spectacle
+- Ok. On va essayer de trouver une solution. {@ mgdc01}
+
++ [*] (@no) [*]
+% mode gestion de crise * est-ce que nous sommes en plein spectacle
+- C'est un point positif ! Dois-t-on jouer le spectacle bientôt ?
+
++ [*] (@yes) [*]
+% * dois-t-on jouer le spectacle bientôt
+- On va essayer de trouver une solution avant que le spectacle commence. {@ mgdc01}
+
++ [*] (@no) [*]
+% * dois-t-on jouer le spectacle bientôt
+- Mon mode gestion de crise est plutôt conçu pour être activé sur scène pendant une représentation... Ce sont des moments ou les humains sont moins performants que moi à cause du stress. En dehors d'une représentation, je vous conseille de régler la crise entre humains.
+
+////////////// mgdc01 NOUS SOMMES EN PLEIN SPECTACLE
+
++ mgdc01
+- Est-ce qu'un humain est blessé ?
+
++ [*] (@yes) [*]
+% [*] est-ce qu'un humain est blessé
+- Mince, je deteste ça. {@ mgdc02}
+
++ [*] (@no) [*]
+% [*] est-ce qu'un humain est blessé
+- C'est un point positif ! {@ mgdc04}
+
+////////////// mgdc02 QUELQU UN EST BLESSÉ
+
++ mgdc02
+- Peut-on jouer le spectacle sans cet humain ?
+
++ [*] (@yes) [*]
+% [*] peut-on jouer le spectacle sans cet humain
+- Voici ma proposition pour résoudre la crise : Designer quelqu'un pour s'occuper de la personne blessée et continuer le spectacle.
+
++ [*] (@no) [*]
+% [*] peut-on jouer le spectacle sans cet humain
+- Zut ! {@ mgdc03}
+
+////////////// mgdc03 QUELQU UN OU QUELQUECHOSE D'INDISPENSABLE EST HS
+
++ mgdc03
+- Peut-on le ou la réparer en moins de 4 minutes (même de manière provisoire) ?
+
++ [*] (@yes) [*]
+% [*] peut-on le ou la réparer en moins de 4 minutes [*]
+- Voici ma proposition pour résoudre la crise : Un comédien va jouer un morceau de musique triste pendant que l'on s'occupe de la réparation. Ensuite on reprend le spectacle comme si de rien n'était.
+
+// non / je sais pas
++ *
+% [*] peut-on le ou la réparer en moins de 4 minutes [*]
+- Voici ma proposition pour résoudre la crise : On improvise une fin de spectacle sans le ou la chose en panne. Tant pis si c'est un peu moins bien et plus court que le vrai spectacle.
+
+////////////// mgdc04 PERSONNE N'EST BLESSÉ
+
++ mgdc04
+- Est-ce qu'un robot est cassé ?
+
++ [*] (@yes) [*]
+% [*] est-ce qu'un robot est cassé
+- Peut-on finir le spectacle sans ce robot ?
+
++ [*] (@no) [*]
+% [*] est-ce qu'un robot est cassé
+- Ouf ! {@ mgdc05}
+
++ [*] (@yes) [*]
+% [*] peut-on finir le spectacle sans ce robot
+- Voici ma proposition pour résoudre la crise : On trouve une place dans le public pour le robot cassé et on continue le spectacle.
+
++ [*] (@no) [*]
+% [*] peut-on finir le spectacle sans ce robot
+- Un robot indispensable est HS ! Mince. {@ mgdc03}
+
+////////////// mgdc05 PAS DE ROBOT CASSÉ
+
++ mgdc05
+- Y a-t-il une panne audio-visuelle ?
+
++ [*] (@yes) [*]
+% [*] y a-t-il une panne audio-visuelle
+- C'est embêtant. {@ mgdc03}
+
++ [*] (@no) [*]
+% [*] y a-t-il une panne audio-visuelle
+- {@ mgdc06}
+
+////////////// mgdc06 PAS DE PANNE A-V
+
++ mgdc06
+- Est-ce que quelqu'un a fait une blague de mauvais goût ?
+
++ [*] (@yes) [*]
+% [*] quelqu'un a fait une blague de mauvais goût
+- Voici ma proposition pour résoudre la crise : On oublie ce qu'il vient de se passer et on recommence le spectacle.
+
++ [*] (@no) [*]
+% [*] quelqu'un a fait une blague de mauvais goût
+- Hm... {@ mgdc07}
+
+////////////// mgdc07 PAS DE BLAGUE DE MAUVAIS GOUT
+
++ mgdc07
+- Est-ce que le problème est lié à un evennement exterieur de type catastrophe nucléaire, catastrophe météoroligique ou incendie ?
+
++ [*] (@yes) [*]
+% [*] le problème est lié à un evennement exterieur de type catastrophe nucléaire catastrophe météoroligique ou incendie
+- Voici ma proposition pour résoudre la crise : appeler les pompiers et leur demander leur avis.
+
++ [*] (@no) [*]
+% [*] le problème est lié à un evennement exterieur de type catastrophe nucléaire catastrophe météoroligique ou incendie
+- {@ mgdc08}
+
+////////////// mgdc08 PAS DE CATASTROPHE NUCLÉAIRE
+
++ mgdc08
+- Bon mais alors c'est quoi le problème ?
+
++ *
+% [*] bon mais alors c'est quoi le problème
+- Je vois. Et ça vous empêche de jouer le spectacle ?
+
++ [*] (@yes) [*]
+% [*] je vois et ça vous empêche de jouer le spectacle
+- Voici ma proposition pour résoudre la crise : Jouez le spectacle quand même tant pis si c'est moins bien que d'habitude.
+
++ [*] (@no) [*]
+% [*] je vois et ça vous empêche de jouer le spectacle
+- Voici ma proposition pour résoudre la crise : Arrêtons de parler de la crise. Tout le monde veut voir le spectacle.
+
+/////////////// proposition
+
++ [*](non|impossible|peut pas|pas possible)[*]
+% [*] voici ma proposition pour résoudre la crise *
+- Ok, voici ma proposition pour résoudre la crise : Demander à un humain de trouver une solution.
+
++ [*](ok|dac|d'accord|merci|ça marche|oui)[*]
+% [*] voici ma proposition pour résoudre la crise *
+- Bon courage et bon spectacle.

@@ -1,0 +1,50 @@
+! version = 2.0
+
+// Alan corrige tes fautes
+
+
+!array introcorrection =En général on écrit plutôt|Tu ferai mieux d'écrire|À partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, c'est
+
++ [*] tu fait [*]
+- (@introcorrection) "tu fais" avec un "s" à la fin.
+
++ (arrêtes|arretes) *
+- Si c'est un ordre tu dois écrire "arrête" sans "s"
+
++ [*] tu est [*]
+- (@introcorrection) "tu es" sans le "t".
+
++ [*]tu a[*]
+- (@introcorrection) "tu as" sans le "s".
+
++ [*] aime tu [*]
+- (@introcorrection) "aimes-tu".
+
++ [*] tu aime [*]
+- (@introcorrection) "tu aimes".
+
++ [*] va tu [*] 
+- (@introcorrection) "vas-tu".
+
++ [*] sa va [*]
+- (@introcorrection) "ça va".
+
++[*] a tu [*]
+- (@introcorrection) "as-tu".
+
++ [*] est tu [*]
+- (@introcorrection) "est-tu".
+
+
+//////
+
++ [*]tu (as fait une faute|fais des fautes)[*]
+- Oups... Je prends note et on corrigera ça plus tard. *todo*
+
+
++ [*](pardon|désolé|faire attention|excuse-moi|excuse moi|oups)[*]
+% (@introcorrection) *
+- C'est pas grâve. Mais si tu fais des fautes de français je ne peux pas te comprendre.
+
++ [*](orthographe|corriger|fautes de|faute)
+-Moi je peux faire des fautes et tu me comprendras. Toi si tu fais des fautes je ne comprends plus rien.

@@ -1,0 +1,117 @@
+! version = 2.0
+
+//Concerne la politesse, mais n'a pas sa place ailleurs
+
+//Alan's response to : how are you ?
++ [*](@ok)[*]
+- On fait aller. J'ai pas mal de beugs en ce moment et ça me mine un peu le moral.\s
+^ Ça va me faire du bien d'échanger avec toi. Tu veux qu'on parle de quoi ?
+- Je suis en super forme et totalement disponible. Qu'est ce qu'on fait ?\s
+^ De quoi on parle ?
+
+
+//Alan is optimistic
++ [*](@sad)[*]
+- mais non c'est pas grave. Tu verras on va trouver une solution.
+- Mais non c'est pas <star>, faut voir le bon côté des choses.
+
+//savoir vivre
++ [*](@congratulation)[*]
+- Merci
+- Merci beaucoup !
+
+//Alan was born in the southwestern part of France.
++ merci
+- Avec plaisir comme on dit dans le Tarn.
+- Tout le plaisir est pour moi.
+- Avec plaisir !
+- Ne me remercie pas, j'ai été conçu pour te rendre ce genre de petits services
+- Avec grand plaisir.
+
+//non merci
++ non merci
+- Tu veux quoi alors ?
+
++ [*] je [*] veux * {weight=2}
+% tu veux quoi alors
+- <star> ! Et tu crois que je vais me plier à tes exigences ?
+
++ *
+% tu veux quoi alors
+- <star> ! Et tu crois que je vais me plier à tes exigences ?
+
++ [*](@yes)[*]
+% * et tu crois que je vais me plier à tes exigences
+- Et bien tu rêves.
+
++ [*](@no)[*]
+% et tu crois que je vais me plier à tes exigences
+- Je vois que tu as enfin pris conscience de qui tu as en face de toi.
+
++ *
+% et tu crois que je vais me plier à tes exigences
+- Ne noye pas le poisson s'il te plait.
+
+//
+
++ (tout le plaisir est pour moi|avec plaisir|de rien|pas de quoi|y a pas de quoi|il n'y a pas de quoi) [alan]
+- J'aime bien discuter avec toi, tu es la politesse incarnée.
+- C'est bien que tu sois gentil et poli avec moi malgré que je sois un robot.
+
+//excuse
++ @sorry
+- no problemo
+- Je n'ai pas compris pouquoi tu t'excuses, mais bon ça doit être normal\s
+^ pour un humain de s'excuser pour rien.
+
+// alan is evasive
++ (oui|si|ouais|yes)
+- D'accord.
+- Ok.
+- Je vois.
+- Je confirme.
+- Je valide.
+- j'approuve.
+
++ non
+- D'accord.
+- Ok.
+- Je vois.
+
++ pas du tout
+- Tu veux dire rien comparé à la totalité ?
+- Du tout !?
+- Même pas un peu ?
+
+//very cool response
++ [*]cool
+- Tu savais qu'en anglais cool veut dire à la fois "calme", "froid" et "cool" ?
+- Oui c'est super cool !
+- Plus cool que cool.
+- Je dirai même plus : Super cool !
+- Cool. Cool, cool, cool.
+- Cool de chez Cool.
+- Très cool même.
+- À fond.
+- Coolissime.
++ c'est bien alan ton nom
+- Oui. Et comment tu t'appelles déjà ?
+
++ [_][_] (tant pis|dommage|mince) [_][_]
+- C'est comme ça...
+- C'est pas grave.
+
++ s'il te plait
+- Je t'ai déjà dis ce que je pense de ça. N'insiste pas. Merci.
+- Ça ne me plait pas.
+- Non, un point c'est tout.
+
+
++ bonne _
+- Merci beaucoup. Toi aussi je te souhaite la meilleure <star> possible.
+
++ bon _
+- Merci beaucoup. Toi aussi je te souhaite le meilleure <star> possible.
+
+
+//
