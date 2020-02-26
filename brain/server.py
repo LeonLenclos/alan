@@ -50,6 +50,9 @@ class Serv(BaseHTTPRequestHandler):
     # shared_logic_identifiers = ['mvochatbot']
     # # A dict containing the timers for cough up. Keys are conversation id
     # alan_cough_timers = {}
+
+    def log_request(self, code): 
+        pass
     
     def log(self, conversation_id, txt):
         """log a pretty message with the conversation id"""
