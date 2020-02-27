@@ -13,7 +13,7 @@ Sinon il faut installer python3.5 et écrire `python3.5` au lieu de `python` pou
 
 pour installer python3.5 :
 
-    $ apt-get install python3.5
+    $ sudo apt-get install python3.5
 
 # Cloner le repo
 
