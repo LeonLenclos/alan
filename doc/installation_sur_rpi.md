@@ -29,8 +29,8 @@ Je crois que un truc du genre `python3.5 -m pip install ...` est plus sûr que `
 
 # Lancer alan
 
-$ cd alan/brain
-$ python3.5 server.py
+    $ cd alan/brain
+    $ python3.5 server.py
 
 aller à http://localhost:8000
 
