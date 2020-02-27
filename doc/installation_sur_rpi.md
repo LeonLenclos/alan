@@ -15,7 +15,7 @@ pour installer python3.5 :
 
     $ apt-get install python3.5
 
-# Cloner le repo
+# Cloner le repo
 
     $ git clone https://github.com/LeonLenclos/alan.git
 
