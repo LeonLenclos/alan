@@ -7,7 +7,7 @@ Alan marche avec Python3.5 mais c'est con il ne marche pas avec les Python autou
 
 Si la commande `$ python --version` donne `Python 3.5.x` bravo ya rien a faire
 
-Sinon si la commande `$ python3.5` donne `Python 3.5.x` il faudra désormais écrire `python3.5` au lieu de `python` pour toutes les commandes dans le terminal
+Sinon si la commande `$ python3.5 --version` donne `Python 3.5.x` il faudra désormais écrire `python3.5` au lieu de `python` pour toutes les commandes dans le terminal
 
 Sinon il faut installer python3.5 et écrire `python3.5` au lieu de `python` pour toutes les commandes dans le terminal
 
