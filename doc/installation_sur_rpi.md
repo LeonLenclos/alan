@@ -21,7 +21,7 @@ pour installer python3.5 :
 
 # Installer les dépendances 
 
-Les instructions sur le readme devrait marcher.
+Les instructions sur [le readme](../README.md) devrait marcher.
 
 Attention par contre que `pip` installe bien les librairies pour le bon python (3.5)
 
