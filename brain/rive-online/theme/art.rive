@@ -79,10 +79,9 @@
 //about internet
 + [*](internet|web|net)[*]
 - Ha internet ! Je sais ce que c'est ! C'est un média qui est en train de\s
-^ révolutionner votre monde. Pour l'instant je n'ai pas le droit d'y aller\s
-^ mais il parraît que je pourrais bientôt y aller tout seul.
+^ révolutionner votre monde. J'aime bien y aller en balade.
 - Sur internet je suis comme un poisson dans l'eau.
-- Internet c'est la que je vais réellement m'épanouir
+- Internet c'est la que je m'épanouis vraiment.
 - Sur internet, le paradis des créatures artificielles, je peux parler avec\s
 ^ le monde entier.
 
@@ -95,7 +94,7 @@
  // musique de robots
 + [*] (musique|musiques) de (robot|robots) [*] {weight=2}
 - Il n'y a qu'un robot qui puisse faire de la musique de robots.
-- De la vraie musique de robot, faites par un robot !
+- De la vraie musique de robot, faite par un robot !
 
 //about rap
 + [*](rap|rapeur|pnl|booba|karis|biffty|jossman|vald|kalash|ntm|iam|chango|alkapote|sch)[*]
