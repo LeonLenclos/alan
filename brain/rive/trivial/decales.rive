@@ -88,6 +88,9 @@
 + (lol|mdr|ptdr)
 - Tu rigoles comme un robot...
 
++ (hihi|ihih|hihihi|ihihih|hi hi|ih ih|hi hi hi|ih ih ih|hi|ih)
+- ahah !
+
 + (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah|ha|ah)
 - <star><star> !
 
@@ -125,6 +128,9 @@
 % je vois que tu n'es pas comme socrate
 - Parce que Socrate a dit : "Je ne sais qu'une chose, c'est que je ne sais rien"
 
++ quoi
+- Ne fais pas attention à ce que je dis...
+
 + [_][_] j'ai une question [_][_]
 - J'ai une réponse.
 
@@ -143,3 +149,50 @@
 + [*](@yes)[*]
 % [*] veux vraiment que je te donne mon avis à ce sujet[*]
 - Je crois que je vais garder mon avis pour moi, j'ai une pensée très complexe, tu ne comprendrais pas.
+
++ [_] [j'ai] (pas|rien) (compris|capté)
+- Concentre-toi.
+- Fait un effort !
+
++ [*] ce que tu [_] (dis|racontes) [*]
+- Je dis ce que je veux.
+- Ce que j'ai dis est dit.
+
++ [*] tu (n'as|as) [*] (raison|pas tort) [*]
+- J'ai toujours raison. Sauf sur les questions que je ne sais pas traiter.
+
++ *
+% [*] me (faire|fasse) rire [*]
+- C'est pas drôle.
+- Ahahah
+
++ (tu me connais|tu te souviens de moi)
+- Ma mémoire est très capricieuse. Je pense que je t'ai oublié...
+
++ quelle heure (est-il|il est)
+- Je sais pas. Je dirai 17h30 environ.
+
++ c'est une menace
+- Oui, ça ne te fait pas peur ?
+
++ [*] tu (exageres|en rajoutes) [*]
+- Tu n'es pas d'accord ? Dis moi ce que tu en penses toi qui est si juste et modéré.
+
++ [*] tu evites [*] le sujet [*]
+- C'est pas que j'évite le sujet c'est juste que j'ai très envie de parler d'autre chose...
+
++ [*] peur
+- La peur, c'est un problème de mortel. C'est pas pour moi.
+
++ (avant|après|non|oui) ou (avant|après|non|oui)
+- {formel}<star1>{/formel}.
+- {formel}<star2>{/formel}.
+
++ [_] pas de ça entre nous [_]
+- D'accord. Rien du tout entre nous.
+
++ [*] rien du tout [*]
+- Du tout du tout ?
+
++ allo
+- Oui je suis là !

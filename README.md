@@ -1,4 +1,4 @@
-# Alan v1.4
+# Alan v1.5.2
 
 
 ## Description
@@ -9,7 +9,7 @@ Alan est un agent conversationel créé pour le spectacle [Turing Test](https://
 
 ![](ressources/logo/logo.png)
 
-**Attention : le contenu de ce dépôt est un travail en cours, des fonctionnalités peuvent ne pas être opérationnel. Des éléments de documentations peuvent être obsolètes.**
+**Attention : le contenu de ce dépôt est un travail en cours, des fonctionnalités peuvent ne pas être opérationnelles. Des éléments de documentations peuvent être obsolètes.**
 
 ## Comment parler avec Alan
 

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.5
 # -*- coding: utf-8 -*-
 
 """
@@ -45,11 +45,14 @@ class Serv(BaseHTTPRequestHandler):
     # A dict containing the dates they will die. Keys are conversation id
     alans_death = {}
     # A list of logic adapter objects that must be shared between alan instances
-    shared_logic_adapters = []
-    # A list of logic adapter identifier for adapter that must be shared
-    shared_logic_identifiers = ['mvochatbot']
+    # shared_logic_adapters = []
+    # # A list of logic adapter identifier for adapter that must be shared
+    # shared_logic_identifiers = ['mvochatbot']
     # # A dict containing the timers for cough up. Keys are conversation id
     # alan_cough_timers = {}
+
+    def log_request(self, code): 
+        pass
     
     def log(self, conversation_id, txt):
         """log a pretty message with the conversation id"""
@@ -62,15 +65,15 @@ class Serv(BaseHTTPRequestHandler):
         # create alan instance
         alan = Alan(
             settings_files=settings_files,
-            preconfigured_logic_adapters=self.shared_logic_adapters,
+            # preconfigured_logic_adapters=self.shared_logic_adapters,
             log_not_processing=LOG_ALL_ADAPTERS)
     
         # manage shared_logic_adapters
-        if len(self.shared_logic_adapters) == 0:
-            for identifier in self.shared_logic_identifiers:
-                adapter = alan.logic.get_adapter(identifier)
-                if adapter :
-                    self.shared_logic_adapters.append(adapter)
+        # if len(self.shared_logic_adapters) == 0:
+        #     for identifier in self.shared_logic_identifiers:
+        #         adapter = alan.logic.get_adapter(identifier)
+        #         if adapter :
+        #             self.shared_logic_adapters.append(adapter)
 
         # get conversation_id and store the instance in alans
         conversation_id = alan.conversation_id
@@ -157,7 +160,7 @@ class Serv(BaseHTTPRequestHandler):
             return "{} conversations ouvertes".format(len(self.alans))
 
         def get_todo():
-            dev_html = open('www/dev.html').read()
+            dev_html = open('www/dev.html', encoding='utf-8').read()
             try:
                 todos = open(os.path.expanduser('~/alantodo.txt')).read()
             except FileNotFoundError:
@@ -169,7 +172,7 @@ class Serv(BaseHTTPRequestHandler):
             )
 
         def get_dev():
-            dev_html = open('www/dev.html').read()
+            dev_html = open('www/dev.html', encoding='utf-8').read()
             return dev_html.format(
                 title="dev",
                 content = "",
@@ -177,7 +180,7 @@ class Serv(BaseHTTPRequestHandler):
                 )
 
         def get_logs_list():
-            dev_html = open('www/dev.html').read()
+            dev_html = open('www/dev.html', encoding='utf-8').read()
             li_format = '<li><a href="{fi}">{fi}</a></li>'
             log_list = [li_format.format(fi=fi) for fi in os.listdir('log') ]
             log_list.sort()
@@ -199,7 +202,7 @@ class Serv(BaseHTTPRequestHandler):
         # Try to open asked path
         try:
             if self.path == '/':
-                file_to_open = open('www/index.html').read()
+                file_to_open = open('www/index.html', encoding='utf-8').read()
             elif self.path == '/dev':
                 file_to_open = get_dev()
             elif self.path == '/todo':
@@ -207,7 +210,7 @@ class Serv(BaseHTTPRequestHandler):
             elif self.path == '/logs':
                 file_to_open = get_logs_list()
             elif self.path.startswith('/conv'):  
-                file_to_open = get_log(open("log" + self.path).read())
+                file_to_open = get_log(open("log" + self.path, encoding='utf-8').read())
             else :
                 file_to_open = open('www'+self.path).read()
 
@@ -250,7 +253,7 @@ class Serv(BaseHTTPRequestHandler):
             # Get post body
             msg = post_body["msg"]
             conversation_id = int(post_body["conversation_id"])
-            # log receiving data
+            # log receiving data&
             self.log(conversation_id, "receiving = {}".format(msg))
             # get reply
             reply = self.talk(msg, conversation_id)

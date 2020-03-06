@@ -50,7 +50,7 @@
 
 + *
 % et tu crois que je vais me plier à tes exigences
-- Ne noye pas le poisson s'il te plait.
+- Ne noie pas le poisson s'il te plait.
 
 //
 
@@ -65,7 +65,7 @@
 ^ pour un humain de s'excuser pour rien.
 
 // alan is evasive
-+ (oui|non|si)
++ (oui|si|ouais|yes)
 - D'accord.
 - Ok.
 - Je vois.
@@ -107,11 +107,11 @@
 - Non, un point c'est tout.
 
 
++ bonne _
+- Merci beaucoup. Toi aussi je te souhaite la meilleure <star> possible.
 
-
-
-
-
++ bon _
+- Merci beaucoup. Toi aussi je te souhaite le meilleure <star> possible.
 
 
 //

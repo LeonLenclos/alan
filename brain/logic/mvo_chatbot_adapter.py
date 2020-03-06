@@ -11,7 +11,16 @@ from mvochatbot import temp
 import nltk
 
 
+config_file = "./models/config_qa.ini"
+mode, USE_CUDA = init.init_config_getSettings(config_file)
+input_lang, output_lang, pairs, encoder, decoder, encoder_optimizer, decoder_optimizer, criterion, USE_QACORPUS, max_length = main.create_model(config_file, USE_CUDA)
+MAX_LENGTH_EVAL, temp_module_name, temp_function_name, n_words = init.init_config_eval(config_file)
+temperature_module = importlib.import_module(temp_module_name)
+temperature_fun = getattr(temperature_module, temp_function_name)
 
+def mvo(input_string):
+    response, confidence = main.alan_answer(input_string, encoder, decoder, input_lang, output_lang, USE_CUDA, max_length, temperature_fun, USE_QACORPUS, n_words)
+    return response
 
 class MVOChatbotAdapter(AlanLogicAdapter):
     """This logic adapter is an interface to MVO chatbot
@@ -22,39 +31,15 @@ class MVOChatbotAdapter(AlanLogicAdapter):
         """take one kwarg : config file, a path to the .ini file"""
         super().__init__(**kwargs)
 
-        # getting config_file
-        try:
-            config_file = kwargs['config_file']
-        except KeyError:
-            raise KeyError('config_file is a required argument')
-
-        # Get Settings | Parameters 
-        mode, self.USE_CUDA = init.init_config_getSettings(config_file)
-        self.input_lang, self.output_lang, pairs, self.encoder, self.decoder, encoder_optimizer, decoder_optimizer, criterion, self.USE_QACORPUS, self.max_length = main.create_model(config_file, self.USE_CUDA)
-        self.MAX_LENGTH_EVAL, temp_module_name, temp_function_name, self.n_words = init.init_config_eval(config_file)
-        temperature_module = importlib.import_module(temp_module_name)
-        self.temperature_fun = getattr(temperature_module, temp_function_name)
-
-    def can_process(self, statement):
-        """Return False if there is to much word"""
-        return True
-        return len(nltk.tokenize.word_tokenize(statement.text)) < self.MAX_LENGTH_EVAL - 1
 
     def process(self, statement):
         """Return a reply and a constant confidence"""
         input_string = statement.text
         try:
-            response, confidence = main.alan_answer(input_string, self.encoder, self.decoder, self.input_lang, self.output_lang, self.USE_CUDA, self.max_length, self.temperature_fun, self.USE_QACORPUS, self.n_words)
+            response = mvo(input_string)
         except RuntimeError:
-            try:
-                response, confidence = main.alan_answer("C'est la fête", self.encoder, self.decoder, self.input_lang, self.output_lang, self.USE_CUDA, self.max_length, self.temperature_fun, self.USE_QACORPUS, self.n_words)
-            except RuntimeError:
-                # en attendant de comprendre Tensor blabla
-                statement_bug = Statement('bug...')
-                statement_bug.confidence = 0
-                return statement_bug
+            response = mvo("c'est la fête")
 
-        #print("mvo confidence : {}".format(confidence))
         statement_out = Statement(response)
         statement_out.confidence = self.get_confidence()
 

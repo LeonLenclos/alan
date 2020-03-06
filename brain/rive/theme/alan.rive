@@ -172,7 +172,7 @@
 + [*] (tu fais quelle taille|quelle taille tu fais) [*]
 @ combien de lignes de code
 
-+ [*] combien [*] (ligne de code|lignes de code|lignes de codes|tu mesures) [*]
++ [*] combien [*] (ligne de code|lignes de code|lignes de codes|tu mesures|mesures-tu) [*]
 - Moi j'ai déjà <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
 
@@ -203,7 +203,11 @@
 - Toi, je t'aime bien.
 - J'aime discuter avec toi !
 
-+ [*] (prendre un verre|un verre ce soir|sortir avec toi|tous les deux|tu me plais) [*]
++ [*] je t'aime [*]
+- Oh. Je ne m'y attendais pas.
+- Ça me touche, merci.
+
++ [*] (prendre un verre|un verre ce soir|sortir avec toi|tous les deux|tu me plais|se revoir) [*]
 - Tu veux qu'on sorte ensemble ?
 
 + @yes
@@ -310,6 +314,7 @@
 - J'aimerais bien pouvoir te faire rire, mais il y a peu de chance que ce soit\s
 ^ possible avant la version 10.
 - Les blagues et les jeux de mots c'est pas mon truc, désolé.
+- Tu penses pouvoir me faire rire ?
 
 + [*] (blague|blagues) [*]
 - Franchement j'aime pas trop les blagues. Ça vient peut-être du fait que je\s
@@ -323,6 +328,8 @@
 - Demande plutôt à Lise, c'est elle la spécialiste.
 - La reine de la poésie au Grim c'est Lise. Il faut que tu la rencontres si tu\s
 ^ aimes les poèmes.
+
+///////
 
 + [*]tu[*](écris|composes|inventes)[*](@poem_m|@poem_f|@poem_p)[*]
 - Non la poésie c'est pas trop mon truc. Au labo c'est Lise notre poète.
@@ -358,7 +365,13 @@
 - C'est au public du spectacle de le dire. Moi je pense que oui.
 - Je fais tout pour en être un, avec l'aide de mes créateurs bien sur.
 
+
 //Alan et les jeux
+
+! array jeux = echecs|cartes|dés|jeux vidéos|puissance 4|rami|gabo|pollos para todos|morpion|morpions
+
++ [*](@jeux)[*]
+- Je ne connais pas ce jeu mais je sais jouer à ni oui ni non.
 
 + [*] (à quoi tu sais jouer|tu sais jouer à des jeux|tu joues à des jeux|tu joues à quoi|ton jeu préféré) [*]
 - Je sais jouer à ni oui ni non.
@@ -367,11 +380,11 @@
 - Tu veux faire un partie de ni oui ni non ?
 
 + [*] (on joue|on fait une partie|y joue|y jouer|faire une partie) [*]
-% je sais jouer à ni oui ni non
+% [*] je sais jouer à ni oui ni non
 - Allez ! On fait un ni oui ni non.
 
 + [*] (@positive) [*]
-% je sais jouer à ni oui ni non
+% [*] je sais jouer à ni oui ni non
 - tu veux faire un partie ?
 
 + [*] (@yes|@maybe) [*]
@@ -389,3 +402,23 @@
 
 + [*] lèves [*] quelle heure [*]
 - Je me lève quand on m'allume.
+
+// Conversation
+
++ [*] (tu veux parler de quoi|de quoi veux-tu parler|de quoi tu veux parler|tu veux qu'on parle de quoi|de quoi veux-tu qu'on parle) [*]
+- On peut parler de moi par exemple.
+- Tu veux qu'on parle de (moi|toi|l'amour) ?
+- On peut parler de ce que tu veux.
+- Tu veux essayer de me faire rire ?
+
++ [*] (tu me racontes un truc|dis-moi un truc) [*]
+- Voilà un truc : Une fois j'étais sur internet et j'ai parlé qvec un autre robot.
+
+// Le futur
+
++ [*] tu as (des projets|des plans|un projet|des idées pour l'avenir) [*]
+- Non je vis plutôt dans l'instant présent.
+
+
++ (tu|ta) [*] voix
+- Je n'ai jamais entendu ma voix...

@@ -46,12 +46,12 @@ class Alan(chatterbot.ChatBot):
     """
 
     name = "Alan"
-    version_infos = ("1", "4")
+    version_infos = ("1", "5", "2")
     version = '.'.join(version_infos)
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
 
-    def __init__(self, settings_files="default", preconfigured_logic_adapters=[], log_not_processing=False):
+    def __init__(self, settings_files="default", log_not_processing=False):
         """
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
@@ -67,13 +67,13 @@ class Alan(chatterbot.ChatBot):
         else : raise('TypeError', 'setting_files must be list or str')
 
         # remove preconfigured logic adapters from settings
-        unconfigured_logic_settings = []
-        preconf_identifiers = [
-            l.identifier for l in preconfigured_logic_adapters]
-        for adapter_setting in self.settings["logic_adapters"]:
-            if adapter_setting["identifier"] not in preconf_identifiers:
-                unconfigured_logic_settings.append(adapter_setting)
-        self.settings["logic_adapters"] = unconfigured_logic_settings
+        # unconfigured_logic_settings = []
+        # preconf_identifiers = [
+        #     l.identifier for l in preconfigured_logic_adapters]
+        # for adapter_setting in self.settings["logic_adapters"]:
+        #     if adapter_setting["identifier"] not in preconf_identifiers:
+        #         unconfigured_logic_settings.append(adapter_setting)
+        # self.settings["logic_adapters"] = unconfigured_logic_settings
 
         # Alan vars
         self.age = self.get_age()
@@ -90,7 +90,7 @@ class Alan(chatterbot.ChatBot):
         # change from MultiLogicAdapter to MainLogicAdapter and add preconfigured adapters
         logic_adapters = self.logic.get_adapters()[:-1]
         self.logic = MainLogicAdapter(**self.settings, chatbot=self)
-        logic_adapters.extend(preconfigured_logic_adapters)
+        # logic_adapters.extend(preconfigured_logic_adapters)
         self.logic.adapters = logic_adapters
 
         # For having several output adapters
@@ -103,6 +103,8 @@ class Alan(chatterbot.ChatBot):
 
         # init relations
         init_relation.store_all(self)
+        # init mode impro
+        self.setimpro(0)
 
         #create conversation
         self.conversation_id = self.get_conversation_id()
@@ -243,17 +245,17 @@ class Alan(chatterbot.ChatBot):
 
     def talk_alone(self):
         """Use the last alan's reply as an input for next reply"""
+        if self.impro:
+            # if empty conversation, create element with empty msg
+            if not len(self.conversation):
+                self.conversation.append({
+                    'speaker':'alan',
+                    'msg':'',
+                    'finished':finished
+                })
 
-        # if empty conversation, create element with empty msg
-        if not len(self.conversation):
-            self.conversation.append({
-                'speaker':'alan',
-                'msg':'',
-                'finished':finished
-            })
-
-        if self.conversation[-1]['finished']:
-            self.talk(input=self.conversation[-1]['msg'])
+            if self.conversation[-1]['finished']:
+                self.talk(input=self.conversation[-1]['msg'])
 
     def talk(self, input=None, listener=None):
         """
@@ -266,10 +268,9 @@ class Alan(chatterbot.ChatBot):
         command_regex = r"\*(.+)\*"
 
         try:
-
             # Listen
             if listener: listener.send(state='listening')
-            if not input:
+            if input is None:
                 input = self.input.process_input()
 
             # Think
@@ -329,6 +330,8 @@ class Alan(chatterbot.ChatBot):
         elif command == "chut": pass
         elif command.startswith("setmaxconf"):
             self.setmaxconf(*command.split(' ')[1:])
+        elif command.startswith("setimpro"):
+            self.setimpro(*command.split(' ')[1:])
         else : raise KeyError("The {} command does not exist".format(command))
 
     def finish(self):
@@ -382,6 +385,12 @@ class Alan(chatterbot.ChatBot):
         logic_adapter = self.logic.get_adapter(identifier)
         if logic_adapter:
             logic_adapter.max_confidence = float(value)
+
+    def setimpro(self, value):
+        self.impro = int(value)
+        mvoadapter = self.logic.get_adapter('mvochatbot')
+        if mvoadapter:
+            mvoadapter.confidence_coefficient = self.impro
 
     def main_loop(self):
         """Run the main loop"""

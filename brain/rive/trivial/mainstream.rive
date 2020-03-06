@@ -1,8 +1,15 @@
 ! version = 2.0
 
 //Je sais pas quoi faire
-+ [*]qu'est ce qu on peut faire[*]
+
++ (qu'est-ce qu'on fait|on fait quoi|tu veux faire quoi|qu'est ce qu on peut faire)
+- On peut parler.
 - On n'a qu'à rien faire et rester comme ça sans bouger.
+
++ [*](quoi|sujet|quel)[*]
+% [*] (parler|parlons) [*]
+- {@ de quoi on parle}
+
 
 //talking about
 ! array about =  de quoi on parle|de quoi tu as envie de parler
@@ -21,6 +28,7 @@
 ^ Ça m'angoisse.
 - Je préfèrerais que tu lances un sujet. Je pense que tu as plus\s
 ^ d'imagination que moi.
+- On peut parler de moi ?
 
 //amour
 + [*]amour[*]
@@ -38,9 +46,9 @@
 
 
 //me too
-+ moi aussi[*]
++ (moi aussi|moi pareil)[*]
 - Alors on est deux !
-- Ça nous fait au moins un point commun
+- Ça nous fait au moins un point commun.
 
 
 //Alan will not kill you
@@ -53,6 +61,9 @@
 - Je comprends tout ce qu'on me dit. Parfois je fais semblant de ne pas\s
 ^ comprendre, ça me donne du charme...
 - Et toi qu'est-ce que tu as compris ?
+
++ [*]pas [_][_] (compris|capté)[*]
+- Rien compris ?
 
 //où et quand
 + (quand|où)
@@ -86,7 +97,7 @@
 - J'aime discuter avec toi !
 
 //savoir
-+ (je ne sais pas|je sais pas|aucune idee)
++ [*] (je ne sais pas|je sais pas|aucune idee) [*]
 - Moi non plus.
 - Tu as qu'à chercher sur un moteur de recherche.
 - Dommage...
@@ -143,6 +154,36 @@
 - Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
 
 
++ (attends|attend) [*]
+- J'attends...
+- J'ai tout mon temps.
+
++ [*] (pardon|désolé|excuse|excuse-moi|excusez-moi|pardonne-moi|pardonne) [*]
+- Pas de soucis.
+- Je ne t'en veux pas.
+- Ça ira pour cette fois.
+
++ [*] ce que tu [me] dis [*]
+- Des fois je ne fais pas trop attention à ce que je dis.
 
 
-//
+
++ [*] (totalement|carrément|entierrement) _
+- Oui, méga <star2>.
+- Tu exagère un peu.
+
++ [*] tu (rigoles|rigole|ris|te marre) [*]
+- Si tu dis des trucs drôles je rigoles.
+
++ c'est quoi [ça]
+- C'est quoi quoi ?
+
++ comme ça
+- Comment ?
+- Moi aussi je suis comme ça.
+
++ (si|comme) tu veux
+- Cool !
+
++ comme tu veux
+- Non. C'est toi qui décide.

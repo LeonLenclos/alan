@@ -61,6 +61,16 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "orthographe",
+           "skill_description": ["Parce que pour un chatbot c'est très important l'orthographe et la grammaire."],
+           "rive_files": ["./rive/theme/orthographe.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "robot",
            "skill_description": ["parce qu'il est temps que vous les humains sachiez enfin ce qu'est un robot."],
            "rive_files": ["./rive/theme/robot.rive"],
