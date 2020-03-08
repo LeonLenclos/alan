@@ -17,13 +17,45 @@ ou
 
 ce sont des fichiers de configuration qui ne font qu'importer d'autres fichiers de configuration
 
+
 #### default
 
-default.json importe tous les settings necessaires pour une uttilisation normale d'alan avec l'interface textuelle.
+Utile pour bosser sur alan.
 
-#### speak
+- Commande à executer : `alan.py` ou `alan.py -s default`
+- Interface : Dans le terminal sans stt
+- Logic : Tout les logics adapter
 
-speak.json importe tous les settings necessaires pour une uttilisation d'alan avec l'interface vocale.
+
+#### spectacle
+
+À lancer en spectacle.
+
+- Commande à executer : `server.py -s spectacle` puis visiter `/labo.html`
+- Interface : interface web avec stt
+- Logic : Tout les logics adapter sauf `rive/online/*.rive`
+
+#### local
+
+À lancer en expo.
+
+- Commande à executer : `server.py -s local` puis visiter `/index.html`
+- Interface : interface web avec stt
+- Logic : Tout les logics adapter sauf `rive/online/*.rive` et `rive/spectacle/*.rive`
+
+
+#### internet
+
+À lancer sur le server pour mise en ligne.
+
+- Commande à executer : `server.py -s internet` puis visiter `/index.html`
+- Interface : interface web sans stt
+- Logic : Tout les logics adapter sauf `rive/audio/*.rive` et `rive/spectacle/*.rive`
+
+
+## error
+
+error.json contient les messages à afficher en cas d'erreur
 
 ## base
 

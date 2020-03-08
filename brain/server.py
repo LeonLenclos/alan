@@ -267,8 +267,6 @@ class Serv(BaseHTTPRequestHandler):
             finished = bool(post_body["finished"])
             conversation_id = int(post_body["conversation_id"])
 
-            # log receiving data
-            self.log(conversation_id, "update_input = {} {}".format(msg, '[finished]' if finished else ''))
             # update
             try:
                 reply = self.update_input(conversation_id, msg, finished)
@@ -291,9 +289,6 @@ class Serv(BaseHTTPRequestHandler):
             # Get post body
             conversation_id = int(post_body["conversation_id"])
 
-            # log sending data
-            self.log(conversation_id, "get_conv")
-
             # update
             reply = self.get_conv(conversation_id)
 
@@ -303,14 +298,14 @@ class Serv(BaseHTTPRequestHandler):
             # get reply
             reply = self.new()
             # log new conversation
-            self.log(reply, "new conversation")
+            self.log("new conversation", reply['conversation_id'])
 
         # LAST
         elif self.path == '/last':
             # get reply
             reply = self.last()
             # log new conversation
-            self.log(reply, "last conversation")
+            self.log("last conversation", reply['conversation_id'])
 
         # return asked data
         if reply is not None:
@@ -338,7 +333,7 @@ class Serv(BaseHTTPRequestHandler):
 if __name__ == '__main__':
     # parse arguments
     ap = argparse.ArgumentParser()
-    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["server_no_mvo"])
+    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["local"])
     ap.add_argument('-a', help="Settings ip adress", default="localhost")
     ap.add_argument('-p', help="Settings port", type=int, default=8000)
     ap.add_argument('-l', action='store_true', help="Log all adapter not only processing ones.")

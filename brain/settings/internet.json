@@ -1,0 +1,7 @@
+{
+    "import": [
+        "base",
+        "interface/web",
+        "logic/internet"
+    ]
+}

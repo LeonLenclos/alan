@@ -27,12 +27,15 @@ class PicoWebAdapter(OutputAdapter):
         self.textspeed = kwargs.get("text-speed", 0.06)
         self.pitch = kwargs.get("pitch", -300)
         self.voicespeed = kwargs.get("voice-speed", 0.85)
+        self.mute = kwargs.get("mute", False)
         self.substitutions = kwargs.get("substitutions", {})
 
         self.cough()
         self.pico("Hm")
 
     def cough(self):
+
+        if self.mute: return;
 
         sounds = ["Hem...", "Hm...", "Hm... Hm...", "Heum...", "Mh..."]
         if PicoWebAdapter.cough_timer is not None:
@@ -122,6 +125,8 @@ class PicoWebAdapter(OutputAdapter):
         """
         return process
         """
+        if self.mute: return subprocess.Popen(['echo']) #hacky
+
         txt = self.make_substitution(txt)
         process = subprocess.Popen(['sh', 'voice_audio.sh', txt, str(self.voicespeed)])
 
@@ -138,4 +143,6 @@ class PicoWebAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The music.
         """
+        if self.mute: return;
+
         subprocess.Popen(['sh', 'music.sh', self.voicespeed])

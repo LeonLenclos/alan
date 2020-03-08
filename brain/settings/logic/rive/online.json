@@ -1,0 +1,11 @@
+{
+    "logic_adapters": [
+      {
+          "identifier": "onlinemisc",
+          "skill_description": ["Parce que j'ai la chance d'être sur l'internet mondial !"],
+          "rive_files": ["./rive/online/misc.rive"],
+          "max_confidence": 0.5,
+          "import_path": "logic.RiveScriptAdapter"
+      }
+    ]
+}

@@ -1,3 +1,7 @@
+# OBSLOLETE
+###########
+
+
 from chatterbot.input import InputAdapter
 from chatterbot.conversation import Statement
 from time import clock
