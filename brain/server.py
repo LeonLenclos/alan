@@ -33,7 +33,7 @@ import argparse
 # from threading import Timer
 
 
-from alan import Alan
+from alan import Alan, EndOfConversation
 
 CONVERSATION_LIFETIME = 36000 # 10 hours
 LOG_ALL_ADAPTERS = False
@@ -270,8 +270,11 @@ class Serv(BaseHTTPRequestHandler):
             # log receiving data
             self.log(conversation_id, "update_input = {} {}".format(msg, '[finished]' if finished else ''))
             # update
-            reply = self.update_input(conversation_id, msg, finished)
-
+            try:
+                reply = self.update_input(conversation_id, msg, finished)
+            except EndOfConversation:
+                reply = {'err': "Alan a quitté la conversation..."}
+                
         # TALK ALONE
         if self.path == '/talk_alone':
             # Get post body
