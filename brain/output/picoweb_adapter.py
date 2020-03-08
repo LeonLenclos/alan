@@ -49,6 +49,9 @@ class PicoWebAdapter(OutputAdapter):
         :param session_id: The unique id of the current chat session.
         :returns: The response statement.
         """
+        if self.chatbot.close:
+            return;
+
         self.cough()
 
         self.current_output = nltk.tokenize.sent_tokenize(statement.text)
