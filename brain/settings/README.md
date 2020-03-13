@@ -23,7 +23,7 @@ ce sont des fichiers de configuration qui ne font qu'importer d'autres fichiers 
 Utile pour bosser sur alan.
 
 - Commande à executer : `alan.py` ou `alan.py -s default`
-- Interface : Dans le terminal sans stt
+- Interface : Dans le terminal sans tts
 - Logic : Tout les logics adapter
 
 
@@ -32,7 +32,7 @@ Utile pour bosser sur alan.
 À lancer en spectacle.
 
 - Commande à executer : `server.py -s spectacle` puis visiter `/labo.html`
-- Interface : interface web avec stt
+- Interface : interface web avec tts
 - Logic : Tout les logics adapter sauf `rive/online/*.rive`
 
 #### local
@@ -40,7 +40,7 @@ Utile pour bosser sur alan.
 À lancer en expo.
 
 - Commande à executer : `server.py -s local` puis visiter `/index.html`
-- Interface : interface web avec stt
+- Interface : interface web avec tts
 - Logic : Tout les logics adapter sauf `rive/online/*.rive` et `rive/spectacle/*.rive`
 
 
@@ -49,7 +49,7 @@ Utile pour bosser sur alan.
 À lancer sur le server pour mise en ligne.
 
 - Commande à executer : `server.py -s internet` puis visiter `/index.html`
-- Interface : interface web sans stt
+- Interface : interface web sans tts
 - Logic : Tout les logics adapter sauf `rive/audio/*.rive` et `rive/spectacle/*.rive`
 
 
@@ -65,26 +65,6 @@ base.json contient les réglages de base qui doivent être renseignés quelque s
 
 les fichiers commençant par `logic/` configurent des logics adapters
 
-#### logic/all
-
-logic/all.json s'occupe de tous les logic adapters
-
-#### logic/rive
-
-logic/rive.json s'occupe de tous les logic adapters rivescript
-
-#### logic/misc
-
-logic/misc.json s'occupe de tous les logic adapters qui ne sont pas rivescript
-
 ## interface
 
 les fichiers commençant par `interface/` configurent des input adapters et des output adapters
-
-#### interface/text
-
-interface/text.json configure une interface textuelle
-
-#### interface/mac_speak
-
-interface/mac_speak.json configure une interface vocale pour mac
