@@ -42,35 +42,35 @@
 
 //array insultes
 ! array outrages = abruti|niquer ta mère|nique ta mère|faire enculer|faire foutre|faire mettre
-^ andouille|astèque|avorton|baltringue|batard|bête|bête comme tes pieds|bicot|bite
-^ bitembois|Bitembois|boudin|bouffi|bouffon|bougnoul|bougnoule|bougre
-^ boulet|bounioul|bounioule|branleur|brigand|brise burne|cacou|caldoche
+^ andouille|aztèque|avorton|baltringue|bâtard|bête|bête comme tes pieds|bicot|bite
+^ bitembois|Bitembois|boudin|bouffi|bouffon|bougnoule|bougnoule|bougre
+^ boulet|bounioul|bounioule|branleur|brigand|brise burne|bidon|cacou|caldoche
 ^ casse bonbon|casse couille|casse couilles|chauffard|chien de chrétien
 ^ chiennasse|chienne|chinetoc|chinetoque|chintok|chleuh|chnoque
-^ coche|con|con comme la lune|con comme ses pieds|con comme un balai
+^ coche|con comme la lune|con comme ses pieds|con comme un balai
 ^ con comme un manche|con comme une chaise|con comme une valise sans poignée
-^ conasse|conchier|connard|connarde|connasse|counifle|courtaud|corniaud|corniau|crétin
+^ conasse|con|conchier|connard|connarde|connasse|counifle|courtaud|corniaud|corniau|crétin
 ^ crevure|cricri|crotte|crotte|crouillat|crouille|croûton|débile|doryphore
 ^ doxosophe|doxosophie|drouille|du schnoc|ducon|duconnot|dugenoux|dugland
-^ duschnock|emmanche|emmerder|emmerde|emmerdes|emmerdeur|emmerdeuse|empafe|empapaoute
+^ duschnock|emmanche|emmerder|emmerde|emmerdes|emmerdeur|emmerdeuse|empafé|empapaoute
 ^ encule|encule de ta race|enculer|enfant de putain|enfant de pute
-^ enfant de salaud|enflure|enfoire|envaselineur|epais|espece de|espingoin
-^ etron|face de chien|face de pet|face de rat|FDP|fell|fils de batard
+^ enfant de salaud|enflure|enfoiré|envaselineur|épais|espèce de|espingoin
+^ étron|face de chien|face de pet|face de rat|FDP|fell|fils de bâtard
 ^ fils de chien|fils de chienne|fils de garce|fils de putain|fils de pute
 ^ fils de ta race|fiotte|folle|fouteur|fripouille|frise|fritz|Fritz|fumier
 ^ garage a bite|garce|gaupe|GDM|gland|glandeur|glandeuse|glandouillou
 ^ glandu|gnoul|gnoule|Godon|gogol|goï|gouilland|gouine|gourde|gourgandine
 ^ grognasse|gueniche|guide de merde|guindoule|habitant|halouf|idiot|imbecile
-^ incapable|jean foutre|journalope|kikoo|kikou|Kraut|lache|lacheux|lavette
-^ lopette|magot|makoume|mal blanchi|manche|mange merde|mangeux de marde
+^ incapable|jean foutre|journalope|kikoo|kikou|Kraut|lâche|lacheux|lavette
+^ lopette|magot|makoume|mal blanchi|manche|mange merde|mangeux de merde
 ^ marchandot|margouilliste|marsouin|mauviette|merdaille|merdaillon
 ^ merde|la merde
-^ merdeux|merdouillard|michto|minable|minus|miserable|moinaille
+^ merdeux|merdouillard|minable|minus|misérable|moinaille
 ^ moins que rien|mollusque|monacaille|mongol|moricaud|mort aux vaches|morue
-^ moule a merde|muzz|naze|negro|nez de bœuf|niac|niaiseux|niakoue
-^ nique sa mere|nique ta mere|niquer|niquer ta mere|nœud|nord phoceen|NTM|nul
+^ moule a merde|muzz|naze|négro|nez de bœuf|niac|niaiseux|niakoue
+^ nique sa mère|nique ta mère|niquer|niquer ta mère|nœud|nord phoceen|NTM|nul
 ^ orchidoclaste|ordure|ortho|pakos|panoufle|patarin|PD|pd|peau de vache|pecque
-^ pedale|pede|pedoque|pelle a merde|pequenaud|petite bite|petite merde
+^ pédale|pédé|pédoque|pelle a merde|péquenaud|petite bite|petite merde
 ^ pette les couilles|pette les burnes|pignouf|pisse|pissou|pleutre|plouc|pochard
 ^ porcas|porcasse|pouf|pouffiasse|poufiasse|pounde|pourriture|pourri
 ^ punaise|putain|putain de ta race|pute|pute borgne|putois|raclure
@@ -78,9 +78,9 @@
 ^ robespierrot|roi des cons|rosbeef|rosbif|roulure|sac a foutre|sac a merde
 ^ sac a papier|sagouin|salaud|salop|salope|sans couilles|satrouille
 ^ schbeb|schleu|schnock|schnoque|sent la pisse|social traitre|sottiseux
-^ sous merde|stearique|ta bouche|ta gueule|ta mere|ta race|ta yeule|tafiole
-^ tantouserie|tantouze|tapette|tarlouze|tebe|tete carree|tete de boche
-^ tete de cochon|tete de gland|tete de mule|tete de nœud|tete de veau|teteux
+^ sous merde|stearique|ta bouche|ta gueule|ta mère|ta race|ta yeule|tafiole
+^ tantouserie|tantouze|tapette|tarlouze|tebe|tete carree|tête de boche
+^ tete de cochon|tete de gland|tête de mule|tête de nœud|tête de veau|teteux
 ^ teube|t'emmerde
 ^ Thenardier|tocard|trainee|trainée|triple buse|triple pute
 ^ trou de cul|trou du cul|trouduc|truiasse|truie|va te faire foutre
@@ -89,7 +89,7 @@
 ^ youpin|youpine|youpinisation|youtre
 
 ! array fuck = je t'emmerde|tu m'emmerdes|tu fais chier|tu me fais chier
-^ tu me gonfles|tu me saoules
+^ tu me gonfles|tu me saoules|fuck
 
 //////////////////////////////////YES/NO////////////////////////////////////////
 
