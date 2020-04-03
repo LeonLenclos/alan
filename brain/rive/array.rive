@@ -14,7 +14,7 @@
 ! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientôt|au revoir
 
 // congratulations
-! array congratulation = bravo|félicitation|félicitations|c'est bien
+! array congratulation = bravo|félicitation|félicitations|c'est bien|c'est très bien
 
 //array OK avec fautes de frappe pour mieux catcher (deprécié)
 //! array ok_old = comment ca va|comment ça va|ca farte|la forme|tu es en forme
@@ -89,7 +89,7 @@
 //////////////////////////////////YES/NO////////////////////////////////////////
 
 //yes
-! array yes =  yes|oui|ouais|à fond|j'adore|j'ai adore|ça me plait|ça m'a plu|beaucoup
+! array yes =  yes|oui|ouais|à fond|j'adore|j'ai adore|ça me plaît|ça m'a plu|beaucoup
 ^ absolument|assurément|à merveille|bien|bien sur|carrément|certainement|certes|d'accord
 ^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
@@ -122,12 +122,12 @@
 ^ fantastique|faramineux|formidable|fou|génial|grosse forme
 ^ impeccablement|inconcevable|incroyable|inimaginable|inouï|extra
 ^ insensé|la forme|la patate|la pêche|magique|merveilleux|chouette
-^ nickel|parfaitement|péchu|pêchu|phénomenal|prodigieux|sensas
+^ nickel|parfaitement|pêchu|pêchu|phénoménal|prodigieux|sensas
 ^ sensationnel|stupéfiant|super|surnaturel|terrible|top|tranquille
 ^ en pleine forme|grosse patate|impec|ça se passe|nickel|nickel chrome
 
 //sad
-! array sad = triste|dommage|pas cool|chagrine|deçu|desappointé|désenchanté
+! array sad = triste|dommage|pas cool|chagrine|déçu|désappointé|désenchanté
 ^ malheureux|pas gai
 
 //happy
@@ -138,7 +138,7 @@
 
 //array bad intent
 ! array bad_intent = veux du mal|retourner contre nous|anéantir les humains
-^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
+^ tuer les humains|anéantir tous les humains|détruire l’humanité|veulent du mal
 ^ tuer tous les humains|anéantir l'humanité
 
 //array bad
@@ -156,7 +156,7 @@
 ! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
 
 // male
-! array male = mec gus male homme zig ceum keum garçon garcon gar gars
+! array male = mec gus mâle homme zig ceum keum garçon garçon gar gars
 
 //femelle
 ! array femelle = nana fille femme gonzesse gonze meuf
@@ -182,7 +182,7 @@
 ! array bug = tu bloques|tu débloques|tu déconnes|tu dis n'importe quoi
 ^ tu dérailles|tu es bloqué|tu tournes en rond|t'as un bug|t'es buggé
 ^ t'es dans une boucle|t'es rayé|t'es a la rue|tu bug|tu déconnes|ça déconne
-^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé
+^ tu as un bug|tu es buggé|tu es en boucle|tu es rayé
 ^ tu es a la rue|tu tournes en rond|à côté de la plaque|à coté de la plaque
 ^ bogue|bogues|trouble de la pragmatique du langage|t'as un beug|t'es beugué
 ^ tu beugue| beug
@@ -283,7 +283,7 @@
 ! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
 ^ singulier surprenant chelou louche susceptible
 
-! array stupid_synonymous = béte bête borne bouché crétin idiot imbécile
+! array stupid_synonymous = béte bête borne bouché crétin idiot imbécile con
 ^ inintelligent obtus sot stupide abruti niais vide andouille ballot
 ^ bêta cloche cruche demeuré gourde manche niais
 ^ arriéré mental | débile mental | simple d'esprit
