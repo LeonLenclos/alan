@@ -40,17 +40,17 @@
 ! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
 ^ bavardage|bavard|muet|bavarder
 
-//array insultes
+//array insultes (sauf ceux répertoriés en stupid synonymous)
 ! array outrages = abruti|niquer ta mère|nique ta mère|faire enculer|faire foutre|faire mettre
-^ andouille|aztèque|avorton|baltringue|bâtard|bête|bête comme tes pieds|bicot|bite
+^ aztèque|avorton|baltringue|bâtard|bête comme tes pieds|bicot|bite
 ^ bitembois|Bitembois|boudin|bouffi|bouffon|bougnoule|bougnoule|bougre
 ^ boulet|bounioul|bounioule|branleur|brigand|brise burne|bidon|cacou|caldoche
 ^ casse bonbon|casse couille|casse couilles|chauffard|chien de chrétien
 ^ chiennasse|chienne|chinetoc|chinetoque|chintok|chleuh|chnoque
 ^ coche|con comme la lune|con comme ses pieds|con comme un balai
 ^ con comme un manche|con comme une chaise|con comme une valise sans poignée
-^ conasse|con|conchier|connard|connarde|connasse|counifle|courtaud|corniaud|corniau|crétin
-^ crevure|cricri|crotte|crotte|crouillat|crouille|croûton|débile|doryphore
+^ conasse|con|conchier|connard|connarde|connasse|counifle|courtaud|corniaud|corniau
+^ crevure|cricri|crotte|crotte|crouillat|crouille|croûton|doryphore
 ^ doxosophe|doxosophie|drouille|du schnoc|ducon|duconnot|dugenoux|dugland
 ^ duschnock|emmanche|emmerder|emmerde|emmerdes|emmerdeur|emmerdeuse|empafé|empapaoute
 ^ encule|encule de ta race|enculer|enfant de putain|enfant de pute
@@ -59,10 +59,10 @@
 ^ fils de chien|fils de chienne|fils de garce|fils de putain|fils de pute
 ^ fils de ta race|fiotte|folle|fouteur|fripouille|frise|fritz|Fritz|fumier
 ^ garage a bite|garce|gaupe|GDM|gland|glandeur|glandeuse|glandouillou
-^ glandu|gnoul|gnoule|Godon|gogol|goï|gouilland|gouine|gourde|gourgandine
-^ grognasse|gueniche|guide de merde|guindoule|habitant|halouf|idiot|imbecile
-^ incapable|jean foutre|journalope|kikoo|kikou|Kraut|lâche|lacheux|lavette
-^ lopette|magot|makoume|mal blanchi|manche|mange merde|mangeux de merde
+^ glandu|gnoul|gnoule|Godon|gogol|goï|gouilland|gouine|gourgandine
+^ grognasse|gueniche|guide de merde|guindoule|habitant|halouf
+^ jean foutre|journalope|kikoo|kikou|Kraut|lâche|lacheux|lavette
+^ lopette|magot|makoume|mal blanchi|mange merde|mangeux de merde
 ^ marchandot|margouilliste|marsouin|mauviette|merdaille|merdaillon
 ^ merde|la merde
 ^ merdeux|merdouillard|minable|minus|misérable|moinaille
@@ -288,9 +288,10 @@
 ! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
 ^ singulier surprenant chelou louche susceptible
 
-! array stupid_synonymous = béte bête borne bouché crétin idiot imbécile con
-^ inintelligent obtus sot stupide abruti niais vide andouille ballot
-^ bêta cloche cruche demeuré gourde manche niais
+// stupid synonymous (sauf ceux répertoriés en INSULTES)
+! array stupid_synonymous = béte bête borné bouché crétin idiot imbécile
+^ inintelligent obtus sot stupide vide andouille ballot
+^ bêta cloche cruche demeuré gourde manche niais incapable
 ^ arriéré mental | débile mental | simple d'esprit
 
 ! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
