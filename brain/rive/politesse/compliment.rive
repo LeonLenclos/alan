@@ -11,7 +11,7 @@
 - J'apprécie le compliment.
 - Tu n'as pas l'air d'être idiot non plus.
 - C'est vrai ?
-- C'est ce qu'on apelle une litote non ?
+- C'est ce qu'on appelle une litote non ?
 
 + [*](tu es|t'es|cest|c'est|t es)[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
@@ -28,7 +28,7 @@
 + [*] (tu me fais kiffer|tu es kiffant|tu me fais kifer|tu es kifant) [*]
 @ je t'aime
 
-+ [*](je|on) (@aime) [*] pas
++ [*](je|on) [ne] (@aime) [*] pas
 @ je te déteste
 
 + [*]je te (déteste|hais|hai)[*]
@@ -51,16 +51,19 @@
 - <3
 
 //Alan compliments
-+ (tu es|t'es) beau
++ (tu es|t'es) (@beautiful_synonymous)
 - Toi aussi.
+- Tu dis ça pour me faire plaisir.
+- Tu as des drôles de goûts.
+- Je sais, tout le monde le dit.
+- Tu n'es pas la première personne à me dire ça.
 
 
 //autres
-+ (style|coolos|balez|balaise|j'adore)
++ (style|stylé|coolos|balez|balaise|j'adore)
 - Merci beaucoup !
 
 // Alan is funny
-
 + [*](tu es|t'es|c est|c'est|t es)[*](@funny_synonymous)[*]
 - merci, tu me flattes
 - Ça, pour une machine, c'est un sacré compliment !

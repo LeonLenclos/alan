@@ -22,7 +22,7 @@
 //^ la peche|ca baigne|how are you|comment vas tu|es tu en forme|t es en forme
 //^ comment vas-tu|ça farte|es-tu en forme
 
-// array ok uttilisée sans fautes.
+// array ok utilisée sans fautes.
 ! array ok = comment ça va|ça farte|la forme|tu es en forme
 ^ t'es en forme|ça va|are you ok|la pèche|ça baigne|t'es en forme
 ^ how are you|comment vas tu|es tu en forme
@@ -277,8 +277,11 @@
 ^ hilarant impayable inénarrable plaisant marrant rigolo risible spirituel
 ^ fun humoristique farceur
 
+! array beautiful_synonymous = beau belle magnifique joli jolie splendide superbe adorable
+^ ravissant ravissante séduisant séduisante
+
 ! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
-^ singulier surprenant chelou louche suceptible
+^ singulier surprenant chelou louche susceptible
 
 ! array stupid_synonymous = béte bête borne bouché crétin idiot imbécile
 ^ inintelligent obtus sot stupide abruti niais vide andouille ballot
@@ -290,4 +293,4 @@
 ! array grimrobots = otto|matt|lucy|echo|turc|jimi|foot|core|klan|caro|dodo
 
 
-! array siteweb = netflix google wikipedia facbook youtube instagram twitter 
+! array siteweb = netflix google wikipedia facbook youtube instagram twitter
