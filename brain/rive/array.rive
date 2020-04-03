@@ -11,7 +11,12 @@
 ^ salutatation|hola
 
 // goodbye
+
 ! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientôt|au revoir
+
+! array ciao = ciao|ciao alan|allez ciao|aller ciao|quitte|quitte s'il te plaît
+^ bye|bye bye|à bientot|à bientôt|à plus tard|à plus|au revoir|adieu|adios
+^ j'y vais|je m'en vais|je te laisse|aurevoir|je me casse|je me barre
 
 // congratulations
 ! array congratulation = bravo|félicitation|félicitations|c'est bien|c'est très bien
