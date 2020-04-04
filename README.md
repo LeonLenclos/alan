@@ -45,7 +45,12 @@ Installer les dépendances avec pip
 
 À documenter
 
-### 5. Installer pico
+### 5. Installer pico (optionnel)
+
+À documenter
+
+
+### 5. Installer mvo-chatbot, le *mode impro* (optionnel)
 
 À documenter
 
