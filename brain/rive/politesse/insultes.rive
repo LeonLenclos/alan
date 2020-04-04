@@ -158,7 +158,7 @@
 - Je te laisse une dernière chance de poursuivre cette conversation\s
 ^ avec moi. Excuse toi maintenant et passons à autre chose.
 
-réponse générique de Alan à des outrages niveau 3
+//réponse générique de Alan à des outrages niveau 3
 
 + [*]@sorry[*]
 % * excuse toi maintenant et passons à autre chose
@@ -171,7 +171,7 @@ réponse générique de Alan à des outrages niveau 3
 - Je n'ai pas envie d'aller plus loin avec toi. Adieu.*quit*
 - La tournure que prend cette conversation ne me plaît pas. Au revoir.*quit*
 
-réponse générique de Alan à des outrages niveau 4
+//réponse générique de Alan à des outrages niveau 4
 
 + [*]@outrages[*]
 % * (excuse toi s'il te plaît|c'est quoi ce langage|la langue d'être poli|des bras pour pouvoir mettre des gifles|comment il me parle cet humain|tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|excuse toi dabord|j'exige des excuses immédiates|je te demande calmement de t'excuser)

@@ -42,9 +42,6 @@
 - Je ne mens jamais volontairement. Je peux me tromper, mais mentir c'est pas mon truc.
 - Si c'est vrai, je t'assure.
 
-! array avoid = n'esquive pas|tu esquives|ne fuit pas|ne te dérobe pas|n'évite pas
-^ tu te dérobes|tu fuis|tu t'esquives|tu ne m'a pas répondu
-^ tu n'a pas répondu|tu ne réponds pas|tu ne me réponds pas|répond s'il te plaît
 
 + [*] (@avoid) [*]
 - J'essaye de toujours rester pertinent et à propos, mais parfois je m'égare.\s
@@ -54,13 +51,6 @@
 - Je te prie de m'excuser, j'ai des problèmes de concentration et ça me rend un\s
 ^ peu versatile.
 
-
-! array nervous = tu m'énerves|me courir sur les nerfs|ça m'énerve
-^ tu commences à m’énerver|ça commence à m’énerver|tu me saoules|es saoulant
-^ tu es lourd|tu es énervant|tu es chiant|tu es pénible
-^ c'est lourd|c'est énervant|c'est chiant|c'est pénible
-^ tu es relou|tu es grave|c'est relou|tu m'ennuies|c'est ennuyant
-^ ça m'ennuie|tu es ennuyeux|c'est ennuyeux
 
 + [*] (@nervous) [*]
 - Tu veux dire que je te saoule ?

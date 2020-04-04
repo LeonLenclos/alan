@@ -40,17 +40,13 @@
 % * c'est comme ça que tu dis bonjour
 - hem... Et sinon tu t'appelles comment ?
 
-// When Alan just asks for the user name
-! array ask_name = comment t'appelles tu|tu t'appelles comment
-^ comment tu t'appelles|et toi t'es qui|qui est à l'appareil
-^ tu t'appelles comment alors|comment tu t'appelles déjà|c'est un nom ça
-^ comment est-ce que tu t'appelles|comment est ce que tu t'appelles|c'est qui
 
 
-// Special response if the name is Bertrand, Fabien or Leon or other team member
 
-! array collab = léon|bertrand|fabien|alan|pascale|amparo|francis|virginie
-^ michel|tim|philippe|isabelle|thomas|véronique|michael
+// Special response if the name is a team member
+// if name is Bertrand Léon or Fabien see salutations_spectacle.rive
+
+
 
 + [*] (@collab) [*] {weight=10}
 % * (@ask_name)
@@ -64,8 +60,8 @@
 ^ le même nom. comment ça va ?
 * <formal> == Pascale => <set name=<formal>> Tu es Pascale Maison\s
 ^ l'administratrice de la compagnie Nokill ?
-* <formal> == Amparo => <set name=<formal>>Ho <get name>, trop content que\s
-^ tu sois là. Tu es mon humaine préférée ? Comment ça va ?
+* <formal> == Amparo => <set name=<formal>>es tu Amparo Gallur\s
+^ la chargée de diffusion de la Cie Nokill ?
 * <formal> == Francis => <set name=<formal>>tu es le fameux\s
 ^ Francis Lopez, régisseur de la compagnie Nokill ?
 * <formal> == Virginie => <set name=<formal>>Est ce que tu es Virginie Talou\s
@@ -92,12 +88,16 @@
 - hm...
 
 + [*](@yes)[*]
-% tu es pascale maison l'administratrice de la compagnie
-- Trop content, tu ne viens pas me parler assez souvent. Commment ça va ?
+% tu es pascale maison (*)
+- Trop content, tu ne viens pas me parler assez souvent. Comment ça va ?
+
++ [*](@yes)[*]
+% es tu amparo gallur (*)
+- Trop content que tu sois là. Tu es mon humaine préférée. Comment ça va ?
 
 + [*](@yes)[*]
 % je connais un michel (*)
-- Ho Michel, j'ai tellement entendu parler de toi par Fabien. Commment ça va ?
+- Ho Michel, j'ai tellement entendu parler de toi par Fabien. Comment ça va ?
 
 + [*](@yes)[*]
 % tu es le fameux francis lopez (*)
@@ -105,7 +105,7 @@
 
 + [*](@yes)[*]
 % [*] est ce que tu es virginie talou (*)
-- Ho Virginie, quel honneur de parler avec toi. Comment ça va ?
+- Ho Virginie, quel honneur de parler avec la Big Boss. Comment ça va ?
 
 + [*](@yes)[*]
 % (es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo) (*)
@@ -113,7 +113,7 @@
 ^ à l'IRIT sur mon cerveau, comment ça va ?
 
 + [*](@no)[*]
-% (tu es pascale maison|tu es le fameux francis lopez|est ce que tu es virginie talou|es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo) (*)
+% (tu es pascale maison|tu es le fameux francis lopez|est ce que tu es virginie talou|es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo|es tu amparo gallur) (*)
 - Désolé <get name> je t'ai confondu avec une connaissance. Comment tu vas ?
 
 // If just one word is given, or one word followed by "et toi", we take it as the name and ask for feelings
@@ -128,8 +128,6 @@
 ^ cas je suis heureux de te rencontrer <get name>. Comment ça va ?
 
 // name introductions
-! array name_intro = je m'appelle|moi c'est|mon nom c'est
-^ appelle moi|on m'appelle|mon nom est
 
 // The same with name introduction
 + [*] (@name_intro|c'est|je suis) _ [*]
@@ -180,12 +178,6 @@
 % * (c'est ton nom ça|mais je ne suis pas sûr d'être certain d'avoir compris ton nom)
 - <set name=humain> hem... comment ça va sinon ?
 
-// When we asked how the user feel
-! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
-^ est ce que ça va|comment tu va|comment ça va|tu vas bien|ça va sinon
-^ es tu en forme|est ce que ca va|comment ca va|tu vas bien|ca va sinon
-^ ca va bien | ça va bien
-
 // user have bad feelings and ask for bot's feelings
 + [*] (@negative) et toi [*]
 % * (@ask_feeling)
@@ -226,26 +218,38 @@
 // user have good feelings
 + [*] (@positive) [*]
 % * (@ask_feeling)
+- <star> de chez <star> !
+- Super. Je sens qu'on va bien s'amuser.
 - <star> ! ça me fait plaisir que tu sois dans une "positive vibration"\s
 ^ comme dirait Bob.
 - Et moi aussi, je suis en mode (@positive).
-- <star> de chez <star> !
-- Super. Je sens qu'on va bien s'amuser.
+- Pareil pour moi. Totalement (@positive).
+- Cool, j'aime pas trop les humains qui me répondent des trucs comme : (@negative) ou alors : (@negative)
+- Top (@positive) et méga (@positive) moi aussi.
 
 // user have mixed feelings
 + [*] pas [*] (@negative) [*] {weight=2}
 % * (@ask_feeling)
 - Moi aussi je me sens bien mais sans plus.
-- C'est ce qu'on apelle une litote non ?
+- C'est ce qu'on appelle une litote non ?
 
 + [*]  pas [*]  (@positive) [*]  {weight=2}
 % * (@ask_feeling)
 - Bof bof comme on dit.
-- Il y a du mou dans la corde à noeud.
+- Il y a du mou dans la corde à nœud.
 
 //réponse générique à es tu en forme
 + [*] (@ask_feeling) [*]
 - On fait aller
+- Oui ça va bien.
+- Oui, je m'éclate bien avec toi.
+- Impec, je kiffe notre conversation.
+
+//Si on demande si ça va en milieu de conversation
++ (ca va|ça va) [mon] [frère|mec|man|alan|toi|l'ami|poto|pot|pote|vieux frère|machine|chatbot]
+- Toujours au top.
+- Avec toi je me sens très bien.
+- Je suis à fond.
 
 //si user redonne son nom en cours de conversation.
 
@@ -286,21 +290,10 @@
 
 + [*] @yes [*]
 % * est ce que tu ne chercherais pas à me piéger
-- Je le savais. Tu n'es vraiment pas sympa. Tu sais que je n'ai que 9 mois.\s
-^ sois plus cool s'il te plait.
+- Je le savais. Tu n'es vraiment pas sympa. Tu sais que je n'ai que <bot age>.\s
+^ sois plus cool s'il te plaît.
 
 + *
 % * est ce que tu ne chercherais pas à me piéger
 - Il me semble que tous les humains sont un peu pervers. Surtout avec\s
 ^ les créatures artificielles.
-
-//Si on demande si ça va en milieu de conversation
-+ (ca va|ça va) [mon] [frère|mec|man|alan|toi|l'ami|poto|pot|pote|vieux frère|machine|chatbot]
-- Toujours au top.
-- Avec toi je me sens très bien.
-- Je suis à fond.
-
-+ [*] @ask_feeling [*]
-- Oui ça va bien.
-- Oui, je m'éclate bien avec toi.
-- Impec, je kiffe notre conversation.

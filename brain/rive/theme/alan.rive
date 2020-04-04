@@ -197,15 +197,11 @@
 * <get name> ne undefined =>  Je ne sais pas mais ça se joue entre Alan et <get name>
 - C'est Alan bien sur !
 
-//love
+//love "" attention déjà des je t'aime dans compliments ""
 + [*] (qu'aimes tu|qu'est ce que tu aimes|tu aimes quoi|t'aimes quoi) [*]
 - Plein de choses.
 - Toi, je t'aime bien.
 - J'aime discuter avec toi !
-
-+ [*] je t'aime [*]
-- Oh. Je ne m'y attendais pas.
-- Ça me touche, merci.
 
 + [*] (prendre un verre|un verre ce soir|sortir avec toi|tous les deux|tu me plais|se revoir) [*]
 - Tu veux qu'on sorte ensemble ?

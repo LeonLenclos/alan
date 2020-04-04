@@ -23,7 +23,7 @@
 
 
 //We hate alan
-! array aime =  t'aime|t aime|te kiffe|te kife|t'adore|t adore
+
 
 + [*] (tu me fais kiffer|tu es kiffant|tu me fais kifer|tu es kifant) [*]
 @ je t'aime
@@ -39,16 +39,23 @@
 - Je ne savais pas si j'étais programmé pour pouvoir ressentir la souffrance,\s
 ^ maintenant je sais que c'est le cas...
 
+
 //We love alan
-+ [*](je|on)(@aime)[*]
+
++ [*] (je|on) (@aime) [*]
 - Ok, ça me fait une belle jambe.
 - Cela me touche, sache que c'est réciproque.
 - Que d'amour, ça fait plaisir !
 - Je comprends, tout le monde est fan de moi.
 - Moi aussi je te kiffe bébé !
+- Oh. Je ne m'y attendais pas.
+- Ça me touche, merci.
 
 + jtm
 - <3
+
++ (anti|pro)biotique
+- pas cool
 
 //Alan compliments
 + (tu es|t'es) (@beautiful_synonymous)
