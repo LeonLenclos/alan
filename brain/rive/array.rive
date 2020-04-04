@@ -15,11 +15,16 @@
 ^ salutatation|hola
 
 // Comment tu t'appelles
-// When Alan just asks for the user name
 ! array ask_name = comment t'appelles tu|tu t'appelles comment
 ^ comment tu t'appelles|et toi t'es qui|qui est à l'appareil
 ^ tu t'appelles comment alors|comment tu t'appelles déjà|c'est un nom ça
-^ comment est-ce que tu t'appelles|comment est ce que tu t'appelles|c'est qui
+^ comment est-ce que tu t'appelles|comment est ce que tu t'appelles
+^ quel est ton nom|as tu un nom|c'est quoi ton nom
+^ c'est comment ton nom|dis moi ton nom
+^ donnes moi ton nom|c est quoi ton nom|tu connais ton nom
+^ quel est ton prénom|as tu un prénom|c'est quoi ton prénom|tu connais ton prénom
+^ tu t appelles comment|c'est comment ton prénom|dis moi ton prénom
+^ donnes moi ton prénom|c'est quoi ton petit prénom
 
 // name introductions
 ! array name_intro = je m'appelle|moi c'est|mon nom c'est
@@ -339,3 +344,26 @@
 ^ c'est lourd|c'est énervant|c'est chiant|c'est pénible
 ^ tu es relou|tu es grave|c'est relou|tu m'ennuies|c'est ennuyant
 ^ ça m'ennuie|tu es ennuyeux|c'est ennuyeux
+
+////////////////////////////L'HISTOIRE D'ALAN////////////////////////////////////
+
+//résidences et dates à mettre à jour...
+! array residencestt = toulouse|bessines|villemur sur tarn|montauban
+^ vaour|paris|rodez|blagnac
+
+! array datestt = toulouse|ax les thermes|ax|auch|cauteret|mirepoix|bessines
+
+//where do you come from
+! array where_do_you_come_from = d'où viens tu|tu viens d'où
+^ d'où est ce que tu viens|where do you come from|d'où tu viens
+^ d'ou viens tu|tu viens d'ou
+^ d'ou est ce que tu viens|where do you come from|d'ou tu viens
+
+! array where_do_you_live = où est ce que tu habites|où habites tu
+^ où t'habites|où tu habites|tu habites où|où t'habites
+^ où est ce que tu vis|où vis tu|où tu vis|tu vis où
+^ où est ce que tu crèches|où crèches tu|où tu crèches|tu crèches où
+^ ou est ce que tu habites|ou habites tu
+^ ou t'habites|ou tu habites|tu habites ou|ou t'habites
+^ ou est ce que tu vis|ou vis tu|ou tu vis|tu vis ou
+^ ou est ce que tu crèches|ou crèches tu|ou tu crèches|tu crèches ou
