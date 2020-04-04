@@ -18,13 +18,11 @@ Le dossier brain/ contient le cerveau d'alan, l'ensemble des scripts et des ress
 
 ## Installation
 
-### 1. Le bon python
+#### 1. Le bon python
 
 La version de python requise est **Python 3.5**. Alan risque de ne pas fonctionner avec des versions anterieures et posterieures de Python.
 
-Ces instructions ne concernent pas la partie *mvo-chatbot* ou *mode impro*.
-
-### 2. Télécharger alan
+#### 2. Télécharger alan
 
 Cloner le dépôt depuis github :
 
@@ -32,7 +30,7 @@ Cloner le dépôt depuis github :
   $ git clone https://github.com/LeonLenclos/alan.git
 ```
 
-### 3. Installer les dépendances
+#### 3. Installer les dépendances
 
 Installer les dépendances avec pip
 
@@ -41,16 +39,16 @@ Installer les dépendances avec pip
   $ python3.5 -m pip install -r requirements.txt
 ```
 
-### 4. Installer un dictionnaire
+#### 4. Installer un dictionnaire
 
 À documenter
 
-### 5. Installer pico (optionnel)
+#### 5. Installer pico (optionnel)
 
 À documenter
 
 
-### 5. Installer mvo-chatbot, le *mode impro* (optionnel)
+#### 6. Installer mvo-chatbot, le *mode impro* (optionnel)
 
 À documenter
 
