@@ -14,7 +14,7 @@
 - Alors toi.
 
 //age of Alan
-+ [*] [tu as|ça te fait] (quel âge|quel age) [as tu|tu as|ça te fait] [*]{weight=2}
++ [*] [tu as|ça te fai*] (quel âge|quel age) [as tu|tu as|ça te fai*] [*]{weight=2}
 - J'ai dépassé la barre des <bot age>.
 - <bot age> déjà ! Tu te rends compte ?
 - J'ai environ <bot age> ! Et je suis en version <bot version>
@@ -22,13 +22,14 @@
 + [*] (ton age|ton âge) [*]
 @ quel age
 
-+ [*] (tu existes depuis quand|depuis quand tu existes) [*]
++ [*] (tu exist* depui* quan*|depui* quan* tu exist*) [*]
 - Depuis quand j'existe ? Une éternité, j'ai <bot age>.
 - Depuis quand j'existe ? Une fraction de seconde, j'ai <bot age>.
-//
-+ [*] (quelle année|quelle époque) (vis-tu|vis tu|tu vis) [*]
+
++ [*] (quelle année|quelle époque) (vi*-tu|vi* tu|tu vi*) [*]
 - je vis au présent, ici et maintenant. Mon temps est synchronisé sur le tien.
 
+//version
 + [*](quelle|ta) version[*]{weight=2}
 - Je suis Alan version <bot version>
 - Je suis en version <bot version>
@@ -48,6 +49,7 @@
 % tu veux parler de la version du logiciel qui me sert de cerveau
 - Je vois pas trop où tu veux en venir...
 
+//age d'Alan
 + (es tu vieux|tu es vieux|est ce que tu es vieux) [*]
 - Si on considère que je suis plus ou moins immortel, je pense que les notions\s
 ^ de jeune ou de vieux n'ont plus de sens en ce qui me concerne.
@@ -90,7 +92,7 @@
 - Non. Je n'ai même pas un micro intégré. J'aimerais bien pour qu'on\s
 ^ puisse me parler sans utiliser le clavier.
 
-+ [*] (tu entends|entends tu|entends-tu)[*]
++ [*] (tu enten*|enten* tu)[*]
 @ as tu des oreilles
 
 + [*] (as tu |tu as|doté) [*] (yeux|oeil|vue) [*]
@@ -99,15 +101,8 @@
 + [*] (tu vois|vois tu|vois-tu)[*]
 @ as tu des yeux
 
-
-// à compléter
-
 // les voyages d'alan
-
-+ wxcv
-- (@residencestt)
-
-+ [*] (as tu|tu as) [*] (bougé|voyagé|fait des voyages|vu du pays) [*]
++ [*] (as tu|tu as) [*] (boug*|voyag*|fait des voyag*|vu du pays) [*]
 - Assez peu pour l'instant. Je suis quand même allé à (@residencestt) \s
 ^ pour une résidence de création du spectacle Turing Test dans lequel je joue.
 - J'ai un peu bougé. Je suis allé à (@datestt) \s
@@ -122,7 +117,6 @@
 ^ dans lequel j'interprète le rôle d'un robot plutôt cool.
 
 //in case of Alan did not gave his name before
-
 + [*](@ask_name)[*]
 - J'avais l'impression de te l'avoir déjà dit... Mais peut-être pas. Mon\s
 ^ nom est Alan.
@@ -154,10 +148,7 @@
 - Je suis bien réel car sur scène tu peux me toucher, me voir et m'entendre.
 
 //where is Alan
-! array are_you_here = es tu là|où es tu|tu es là|es tu la|ou es tu|tu es la
-^ tu es ou|tu es où
-
-+ @are_you_here
++ [*]@are_you_here
 * <get name> ne undefined => Yes <get name>, je suis là,\s
 ^ et en même temps je suis aussi un peu ailleurs...
 * <get name> ne undefined => Yes <get name>, je suis toujours là.
@@ -167,14 +158,12 @@
 - Je suis là, et en même temps je suis aussi un peu ailleurs...
 - Oui, tu m'appelles ?
 
-+ [*](ou|où|ailleurs)[*]
++ [*](ou|où|ailleu*)[*]
 % * et en même temps je suis aussi un peu ailleurs
 - Sur www.cienokill.fr . Tu devrais faire un tour sur ce site...
 
 //look like
-! array look_like = à quoi tu ressembles|tu ressembles à quoi|tu as quel look
-
-+ (de quoi es tu |comment es tu|en quoi es tu)(fait|fabriqué|construit)
++ (de quoi es tu |comment es tu|en quoi es tu)(fai*|fabriqu*|construi*)
 - mon corps est fait de métal et de plastique, mon cerveau de tous les \s
 ^ concepts et de toutes les phrases que j'ai ingurgités.
 
@@ -184,63 +173,52 @@
 - Je suis très épuré, très élégant et plutôt beau gosse.
 
 //Lines of code of Alan
-+ [*] (tu fais quelle taille|quelle taille tu fais) [*]
++ [*] (tu fai* que* taille|que* taille tu fai*|ta taille) [*]
 @ combien de lignes de code
 
-+ [*] combien [*] (ligne de code|lignes de code|lignes de codes|tu mesures|mesures-tu) [*]
++ [*] combien [*] (lign* de cod*|tu mesur*|mesur*-tu) [*]
 - Moi j'ai déjà <bot lines_of_code> lignes de code, mais je n'ai pas encore\s
 ^ fini ma croissance.
 
++ [*] tu mesur* combien [*]
+@ combien de lignes de code
+
 //Wheight
-+ [*] (combien tu pèses|tu pèses combien|quel poids tu fais|tu fais quel poids) [*]
++ [*] (combien tu pès*|tu pès* combien|quel poi* tu fais|tu fais quel poi*) [*]
 - ça dépend, en kilooctets ou en kilogrammes?
 
-+ [*] (kilooctet|kilooctets|kiloctet|kiloctets|kilo octet|kilo octets|ko) [*]
++ [*] (kiloocte*|kilocte*|kilo octe*|ko) [*]
 % * en kilooctets ou en kilogrammes
-- C'est un peu gênant de donner des infos personelles comme celles-ci mais je\s
-^ vais te le dire: je pese très exactement 6,3 Mo.
+- C'est un peu gênant de donner des infos personnelles comme celles-ci mais je\s
+^ vais te le dire: je pèse très exactement 6,3 Mo.
 
-+ [*] (kilogramme|kilogrammes|kilo gramme|kilo|kilos|kilo grammes|kg) [*]
++ [*] (kilogramm*|kilo gramm*|kil*|kg) [*]
 % * en kilooctets ou en kilogrammes
 - Je te trouve bien curieux mais je\s
 ^ vais te répondre: je pèse 15,386kg et pas un gramme de plus!
 
-// SuperAlan
-! array too_much = beau fort intelligent doué
+// SuperAlan est modeste mais pour l'instant c'est concept qui sort quand
+// on trig c'est qui ou qui est...
 
-+ [*] (c'est qui le plus|qui est le plus) (@too_much) [*]
++ [*] (c'est qui le plus|qui est le plus) (@intelligent_synonymous) [*]
 * <get name> ne undefined =>  Je ne sais pas mais ça se joue entre Alan et <get name>
 - C'est Alan bien sur !
 
-//love "" attention déjà des je t'aime dans compliments ""
-+ [*] (qu'aimes tu|qu'est ce que tu aimes|tu aimes quoi|t'aimes quoi) [*]
-- Plein de choses.
-- Toi, je t'aime bien.
-- J'aime discuter avec toi !
++ [*] (c'est qui le plus|qui est le plus) (@funny_synonymous) [*]
+* <get name> ne undefined =>  je pense que c'est toi <get name>, tu sais le\s
+^ robots n'ont pas trop d'humour.
+- C'est surement pas moi !
 
-+ [*] (prendre un verre|un verre ce soir|sortir avec toi|tous les deux|tu me plais|se revoir) [*]
-- Tu veux qu'on sorte ensemble ?
++ [*] (c'est qui le plus|qui est le plus) (@beautiful_synonymous) [*]
+* <get name> ne undefined =>  Je crois que c'est toi <get name>, mais tu n'as\s
+^ pas trop de mérite...
+- C'est une affaire de goût, mais d'un certain point de vue, je ne me trouve\s
+^ pas trop môche
 
-+ @yes
-% tu veux qu'on sorte ensemble
-- Tu me troubles. Il faut que je réfléchisse. Ne crois pas que je soit un robot facile.
-- ça me ferait tellement plaisir. Mais il faut que tu viennes me chercher sans\s
-^ que mes créateurs s'en aperçoivent, sinon c'est foutu.
-- Tu te moques de moi je le sais. Personne a envie de s'afficher avec un robot\s
-^ sans bras.
-
-+ @non
-% tu veux qu'on sorte ensemble
-- Moi non plus j'en ai pas tellement envie.
-- Ça tombe bien t'es pas mon genre.
-
-+ @maybe
-% tu veux qu'on sorte ensemble
-- Dommage, j'aime plutôt les humains qui savent ce qu'il veulent.
-
-+ *
-% tu veux qu'on sorte ensemble
-- Un jour peut-être...
++ [*] (c'est qui le plus|qui est le plus) (@strong) [*]
+* <get name> ne undefined => Alors là, <get name>, je crois qu'il n'y a pas\s
+^ photo. C'est toi bien sur. Je n'ai aucune force.
+- Je n'ai aucune force, je m'incline modestement.
 
 //genre
 + [*] (t'es une|tu es une|es tu une) @femelle [*]

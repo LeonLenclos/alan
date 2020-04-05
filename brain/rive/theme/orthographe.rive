@@ -2,8 +2,8 @@
 
 // Alan corrige tes fautes
 
-
-!array introcorrection =En général on écrit plutôt|Tu ferai mieux d'écrire|À partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, c'est
+!array introcorrection = En général on écrit plutôt|Tu ferai mieux d'écrire
+À partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, on écrit plutôt
 
 + [*] tu fait [*]
 - (@introcorrection) "tu fais" avec un "s" à la fin.
@@ -15,36 +15,59 @@
 - (@introcorrection) "tu es" sans le "t".
 
 + [*]tu a[*]
-- (@introcorrection) "tu as" sans le "s".
+- (@introcorrection) "tu as" avec un "s".
 
 + [*] aime tu [*]
-- (@introcorrection) "aimes-tu".
+- (@introcorrection) "aimes-tu"  avec un "s".
 
 + [*] tu aime [*]
-- (@introcorrection) "tu aimes".
+- (@introcorrection) "tu aimes" avec un "s".
 
-+ [*] va tu [*] 
-- (@introcorrection) "vas-tu".
++ [*] va tu [*]
+- (@introcorrection) "vas-tu" avec un "s".
 
 + [*] sa va [*]
+- (@introcorrection) "ça va".
+
++ [*] ca va [*]
 - (@introcorrection) "ça va".
 
 +[*] a tu [*]
 - (@introcorrection) "as-tu".
 
 + [*] est tu [*]
-- (@introcorrection) "est-tu".
+- (@introcorrection) "es-tu".
 
++ [*] t es [*]
+- (@introcorrection) "t'es" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
+
++ [*] c est [*]
+- (@introcorrection) "c'est" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
+
++ [*] qu est [*]
+- (@introcorrection) "qu'est" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
+
++ [*] qu es [*]
+- (@introcorrection) "qu'es" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
+
++ [*] t aime [*]
+- (@introcorrection) "t'aime" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
+
++ [*] t adore [*]
+- (@introcorrection) "t'adore" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
+
++ [*] qu aime [*]
+- (@introcorrection) "qu'aime" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
 
 //////
 
 + [*]tu (as fait une faute|fais des fautes)[*]
 - Oups... Je prends note et on corrigera ça plus tard. *todo*
 
-
 + [*](pardon|désolé|faire attention|excuse-moi|excuse moi|oups)[*]
 % (@introcorrection) *
-- C'est pas grâve. Mais si tu fais des fautes de français je ne peux pas te comprendre.
+- C'est pas grave. Mais si tu fais des fautes de français je ne peux pas te comprendre.
 
-+ [*](orthographe|corriger|fautes de|faute)
--Moi je peux faire des fautes et tu me comprendras. Toi si tu fais des fautes je ne comprends plus rien.
++ [*](orthogra*|corriger|fautes de|faute)
+- Moi je peux faire des fautes et tu me comprendras. Toi si tu fais des fautes\s
+^ je ne comprends plus rien.

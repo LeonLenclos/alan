@@ -6,24 +6,22 @@
 ! array collab = léon|bertrand|fabien|alan|pascale|amparo|francis|virginie
 ^ michel|tim|philippe|isabelle|thomas|véronique|michael
 
-
 ///////////////////////////SALUTATIONS///////////////////////////////
-
 
 // hello
 ! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour
 ^ salutatation|hola
 
 // Comment tu t'appelles
-! array ask_name = comment t'appelles tu|tu t'appelles comment
-^ comment tu t'appelles|et toi t'es qui|qui est à l'appareil
-^ tu t'appelles comment alors|comment tu t'appelles déjà|c'est un nom ça
+! array ask_name = comment t'appelles tu|comment tu t'appelles
+^ comment t appelles tu|comment tu t appelles
+^ tu t'appelles comment|tu t appelles comment
 ^ comment est-ce que tu t'appelles|comment est ce que tu t'appelles
-^ quel est ton nom|as tu un nom|c'est quoi ton nom
-^ c'est comment ton nom|dis moi ton nom
-^ donnes moi ton nom|c est quoi ton nom|tu connais ton nom
+^ toi t'es qui|qui est à l'appareil|c'est un nom ça|c'est qui
+^ quel est ton nom|as tu un nom|c'est quoi ton nom|c est quoi ton nom
+^ c'est comment ton nom|dis moi ton nom|donnes moi ton nom|tu connais ton nom
 ^ quel est ton prénom|as tu un prénom|c'est quoi ton prénom|tu connais ton prénom
-^ tu t appelles comment|c'est comment ton prénom|dis moi ton prénom
+^ c'est comment ton prénom|dis moi ton prénom
 ^ donnes moi ton prénom|c'est quoi ton petit prénom
 
 // name introductions
@@ -140,8 +138,6 @@
 ! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri
 ^ niet|pas
 
-//negative and positif
-! array between = pas mal|moyen
 
 //negative
 ! array negative = bad|le blues|bof|ça ne va pas|ça pourrait aller mieux
@@ -201,7 +197,6 @@
 
 ! array poem_p = poèmes hymnes odes madrigals sonnets alexandrins quatrains
 ^ poésies ballades élégies odes romances
-
 
 //incredible
 ! array incredible =  pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
@@ -296,7 +291,6 @@
 ! array joke = blague|blagues|histoire drôle|histoires drôles|jeu de mot
 ^ jeu de mots|jeux de mot|jeux de mots|histoire drole|histoires droles
 
-
 ! array alcool = vin bierre whisky porto alcool gin
 
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
@@ -313,6 +307,8 @@
 ! array beautiful_synonymous = beau belle magnifique joli jolie splendide superbe adorable
 ^ ravissant ravissante séduisant séduisante
 
+! array strong = fort costaud balaise puissant musclé robuste solide
+
 ! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
 ^ singulier surprenant chelou louche susceptible
 
@@ -322,13 +318,17 @@
 ^ bêta cloche cruche demeuré gourde manche niais incapable
 ^ arriéré mental | débile mental | simple d'esprit
 
-! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
+///////////////////////////SPECTACLE///////////////////////////////////////////
+
+//résidences et dates à mettre à jour...
+! array residencestt = toulouse|bessines|villemur sur tarn|montauban
+^ vaour|paris|rodez|blagnac
+
+! array datestt = toulouse|ax les thermes|ax|auch|cauteret|mirepoix|bessines
 
 ! array grimrobots = otto|matt|lucy|echo|turc|jimi|foot|core|klan|caro|dodo
 
-
 ! array siteweb = netflix google wikipedia facbook youtube instagram twitter
-
 
 ////////////////////////////SYNONYMES DIVERS///////////////////////////////////////////
 
@@ -345,13 +345,9 @@
 ^ tu es relou|tu es grave|c'est relou|tu m'ennuies|c'est ennuyant
 ^ ça m'ennuie|tu es ennuyeux|c'est ennuyeux
 
-////////////////////////////L'HISTOIRE D'ALAN////////////////////////////////////
+! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
 
-//résidences et dates à mettre à jour...
-! array residencestt = toulouse|bessines|villemur sur tarn|montauban
-^ vaour|paris|rodez|blagnac
-
-! array datestt = toulouse|ax les thermes|ax|auch|cauteret|mirepoix|bessines
+////////////////////////////HISTOIRE et CARACTÉRISTIQUES D'ALAN////////////////////////////////////
 
 //where do you come from
 ! array where_do_you_come_from = d'où viens tu|tu viens d'où
@@ -367,3 +363,12 @@
 ^ ou t'habites|ou tu habites|tu habites ou|ou t'habites
 ^ ou est ce que tu vis|ou vis tu|ou tu vis|tu vis ou
 ^ ou est ce que tu crèches|ou crèches tu|ou tu crèches|tu crèches ou
+
+! array are_you_here = es tu là|où es tu|tu es là|es tu la|ou es tu|tu es la
+^ tu es ou|tu es où
+
+! array look_like = à quoi tu ressembl*|tu ressembl* à quoi|tu as quel look
+
+////////////////////////////ARRAY de TEST//////////////////////
+
+! array test = wxcv azer uiop jklm*

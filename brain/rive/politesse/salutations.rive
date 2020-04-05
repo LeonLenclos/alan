@@ -238,6 +238,13 @@
 - Bof bof comme on dit.
 - Il y a du mou dans la corde à nœud.
 
++ [*] @maybe [*]
+% * (@ask_feeling)
+- Ça ira mieux demain...
+- On fait aller.
+- On a vu pire.
+- Je vois, tu es limite déprimé...
+
 //réponse générique à es tu en forme
 + [*] (@ask_feeling) [*]
 - On fait aller

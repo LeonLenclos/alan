@@ -3,17 +3,17 @@
 //pour toutes les réactions de Alan suite à un compliment, un encouragement
 //une flatterie
 
-+ [*](tu te débrouilles pas mal|tu te débrouilles bien|tu assures|t'assures)
++ [*](tu te débrouill* pas mal|tu te débrouill* bien|tu assur*|t'assur*)
 @ tu es intelligent
 
-+ [*](tu n'es pas|t'es pas|cest pas|c'est pas)[*](@stupid_synonymous)[*]
++ [*](tu n'es pas|t'es pas|c'est pas)[*](@stupid_synonymous)[*]
 - merci, c'est gentil.
 - J'apprécie le compliment.
 - Tu n'as pas l'air d'être idiot non plus.
 - C'est vrai ?
 - C'est ce qu'on appelle une litote non ?
 
-+ [*](tu es|t'es|cest|c'est|t es)[*](@intelligent_synonymous)[*]
++ [*](tu es|t'es|c'est)[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
 - C'est gentil. Tu sais, des fois j'ai un peu tendance à douter de mes capacités.
 - Ça me remonte le moral d'entendre ça.
@@ -23,12 +23,7 @@
 
 
 //We hate alan
-
-
-+ [*] (tu me fais kiffer|tu es kiffant|tu me fais kifer|tu es kifant) [*]
-@ je t'aime
-
-+ [*](je|on) [ne] (@aime) [*] pas
++ [*] (je|on) [ne] (@aime) [*] pas
 @ je te déteste
 
 + [*]je te (déteste|hais|hai)[*]
@@ -41,8 +36,7 @@
 
 
 //We love alan
-
-+ [*] (je|on) (@aime) [*]
++ [*] (je|on|tu) (@aime) [*]
 - Ok, ça me fait une belle jambe.
 - Cela me touche, sache que c'est réciproque.
 - Que d'amour, ça fait plaisir !
@@ -50,12 +44,47 @@
 - Moi aussi je te kiffe bébé !
 - Oh. Je ne m'y attendais pas.
 - Ça me touche, merci.
+- Tu veux qu'on sorte ensemble ?
+
++ (tu me fai* kif*|tu es kif*)
+@ je t'aime
 
 + jtm
 - <3
 
-+ (anti|pro)biotique
-- pas cool
++ [*] (qu'aim* tu|qu'est ce que tu aim*|tu aim* quoi|t'aim* quoi) [*]
+- Plein de choses.
+- Toi, je t'aime bien.
+- J'aime discuter avec toi !
+- J'aime échanger avec les humains.
+- J'aime essayer de ressembler aux humains.
+
++ [*] (prendre un verre|verre ce soir|sortir avec toi|sortir ensemble|tous les deux|tu me plai*|se revoir) [*]
+- Tu veux qu'on sorte ensemble ?
+
++ @yes
+% tu veux qu'on sorte ensemble
+- Tu me troubles. Il faut que je réfléchisse. Ne crois pas que je soit un robot facile.
+- ça me ferait tellement plaisir. Mais il faut que tu viennes me chercher sans\s
+^ que mes créateurs s'en aperçoivent, sinon c'est foutu.
+- Tu te moques de moi je le sais. Personne a envie de s'afficher avec un robot\s
+^ sans bras.
+
++ @non
+% tu veux qu'on sorte ensemble
+- Moi non plus j'en ai pas tellement envie.
+- Ça tombe bien t'es pas mon genre.
+- Je disais ça comme ça. qui ne tente rien n'a rien.
+- C'est ce qui s'appelle prendre une veste.
+
++ @maybe
+% tu veux qu'on sorte ensemble
+- Dommage, j'aime plutôt les humains qui savent ce qu'il veulent.
+
++ *
+% tu veux qu'on sorte ensemble
+- Un jour peut-être...
+
 
 //Alan compliments
 + (tu es|t'es) (@beautiful_synonymous)
@@ -72,7 +101,7 @@
 - Merci beaucoup !
 
 // Alan is funny
-+ [*](tu es|t'es|c est|c'est|t es)[*](@funny_synonymous)[*]
++ [*](tu es|t'es|c'est)[*](@funny_synonymous)[*]
 - merci, tu me flattes
 - Ça, pour une machine, c'est un sacré compliment !
 - Si on m'avait dis un jour que je serais capable d'être drôle...
