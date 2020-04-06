@@ -80,11 +80,20 @@
            "process_done_method": "reinforcement",
            "import_path": "logic.RiveScriptAdapter"
        },
-
        {
            "identifier": "turing_test",
            "skill_description": ["J'aime bien parler du spectacle."],
            "rive_files": ["./rive/theme/turing_test.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "virus",
+           "skill_description": ["parce que les virus, ça m'angoisse."],
+           "rive_files": ["./rive/theme/virus.rive"],
            "min_confidence": 0.55,
            "max_confidence": 0.75,
            "confidence_coefficient": 0,

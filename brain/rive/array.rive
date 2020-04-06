@@ -122,12 +122,13 @@
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
 ^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet|pourquoi pas|dis-moi
-^ dis-moi|je t'écoute|c'est vrai
+^ dis-moi|je t'écoute|c'est vrai|vrai
 
 //maybe = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
 ^ je ne sais pas|coussi coussa|couci couca|peut être|peut-être|pas mal
-^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui|plus ou moins
+^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui
+^ plus ou moins|plutôt|plutot|si tu veux
 
 //no
 ! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri
@@ -290,6 +291,12 @@
 ^ jeu de mots|jeux de mot|jeux de mots|histoire drole|histoires droles
 
 ! array alcool = vin bierre whisky porto alcool gin
+
+! array corona = corona|coronavirus|covid|covid19
+
+! array stress = stres*|angois*|flip*|inquié*|peur
+
+! array badtrip = horrible|affreux|terrible
 
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
