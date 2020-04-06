@@ -2,7 +2,7 @@
 
 // Alan corrige tes fautes
 
-!array introcorrection = En général on écrit plutôt|Tu ferai mieux d'écrire
+!array introcorrection = En général on écrit plutôt|Tu ferais mieux d'écrire
 À partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, on écrit plutôt
 
 + [*] tu fait [*]
@@ -58,6 +58,16 @@
 
 + [*] qu aime [*]
 - (@introcorrection) "qu'aime" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
+
++ [*] daccord [*]
+- (@introcorrection) "d'accord" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
+
+
++ [*] q'est [*]
+- (@introcorrection) "qu'est" avec un u, sinon je ne peux pas te comprendre.
+
++ [*] q'es [*]
+- (@introcorrection) "qu'es" avec un u, sinon je ne peux pas te comprendre.
 
 //////
 

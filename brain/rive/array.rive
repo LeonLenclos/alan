@@ -1,10 +1,6 @@
 ! version = 2.0
 
 // This file contain miscellaneous arrays
-///////////////////////////LES MEMBRES DU LABO///////////////////////////////
-
-! array collab = léon|bertrand|fabien|alan|pascale|amparo|francis|virginie
-^ michel|tim|philippe|isabelle|thomas|véronique|michael
 
 ///////////////////////////SALUTATIONS///////////////////////////////
 
@@ -32,7 +28,7 @@
 ! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
 ^ est ce que ça va|comment tu va|comment ça va|tu vas bien|ça va sinon
 ^ es tu en forme|est ce que ca va|comment ca va|tu vas bien|ca va sinon
-^ ca va bien | ça va bien
+^ ca va bien|ça va bien
 
 // goodbye
 
@@ -126,13 +122,12 @@
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
 ^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet|pourquoi pas|dis-moi
-^ dis-moi|je t'écoute
+^ dis-moi|je t'écoute|c'est vrai
 
-//yesno = between yes and no
+//maybe = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
 ^ je ne sais pas|coussi coussa|couci couca|peut être|peut-être|pas mal
-^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui
-^ plus ou moins
+^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui|plus ou moins
 
 //no
 ! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri
@@ -180,6 +175,9 @@
 ^ attentionné bon doux gentille chouette
 
 //////////////////////////////////////THEMES////////////////////////////////////
+//jeux
+! array jeux = échecs|cartes|dés|jeux vidéos|puissance 4|rami|gabo|pollos para
+^ todos|morpion|morpions
 
 // colors
 ! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
@@ -188,7 +186,7 @@
 ! array male = mec gus mâle homme zig ceum keum garçon garçon gar gars
 
 //femelle
-! array femelle = nana fille femme gonzesse gonze meuf
+! array femelle = nana fille femme gonzesse gonze meuf femelle
 
 //poésie
 ! array poem_m = poème poeme hymne ode madrigal sonnet alexandrin quatrain
@@ -196,7 +194,7 @@
 ! array poem_f = poésie ballade élégie ode romance
 
 ! array poem_p = poèmes hymnes odes madrigals sonnets alexandrins quatrains
-^ poésies ballades élégies odes romances
+^ poésies ballades élégies odes romances poemes
 
 //incredible
 ! array incredible =  pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
@@ -259,7 +257,7 @@
 ! array art = architecture sculpture peinture dessin littérature poésie
 ^ dramaturgie danse mime cirque photographie photo marionnette
 ^ poésie bd BD bédé manga comics théâtre théatre theatre
-^ arts visuels | bande dessinee
+^ arts visuels|bande dessinee
 
 //array media except internet
 ! array media = télévision radio tv télé
@@ -318,6 +316,12 @@
 ^ bêta cloche cruche demeuré gourde manche niais incapable
 ^ arriéré mental | débile mental | simple d'esprit
 
+///////////////////////////LES MEMBRES DU LABO///////////////////////////////
+
+! array collab = léon|bertrand|fabien|alan|pascale|amparo|francis|virginie
+^ michel|tim|philippe|isabelle|thomas|véronique|michael
+
+
 ///////////////////////////SPECTACLE///////////////////////////////////////////
 
 //résidences et dates à mettre à jour...
@@ -326,13 +330,24 @@
 
 ! array datestt = toulouse|ax les thermes|ax|auch|cauteret|mirepoix|bessines
 
-! array grimrobots = otto|matt|lucy|echo|turc|jimi|foot|core|klan|caro|dodo
+! array grimrobots = otto|matt|lucy|echo|turc|jimi|foot|core|klan|caro|dodo|karl
 
 ! array siteweb = netflix google wikipedia facbook youtube instagram twitter
 
 ////////////////////////////SYNONYMES DIVERS///////////////////////////////////////////
+! array ask_if = est ce que tu connais|tu connais|as tu|raconte moi|tu as
+^ dis moi|est ce que tu as|tu aurais|aurais tu
+^ donne moi|peux tu me donner
 
 ! array aime = t'aime|t aime|te kiffe|te kife|t'adore|t adore
+
+! array about = de quoi on par*|on par* de quoi
+^ de quoi tu as envie de parl*|tu as envie de parl* de quoi
+^ de quoi tu veux qu'on parl*|tu veux qu'on parl* de quoi
+^ tu veux parl* de quoi|de quoi veux tu parl*
+^ de quoi peut on parler|qu'est ce que tu veu* me dire|qu'est ce que tu racont*
+^ qu'est ce que tu peu* racont*|qu'est ce que tu peu* dire
+^ lanc* un sujet|démarr* une conversation
 
 ! array avoid = n'esquive pas|tu esquives|ne fuit pas|ne te dérobe pas|n'évite pas
 ^ tu te dérobes|tu fuis|tu t'esquives|tu ne m'a pas répondu
@@ -344,6 +359,12 @@
 ^ c'est lourd|c'est énervant|c'est chiant|c'est pénible
 ^ tu es relou|tu es grave|c'est relou|tu m'ennuies|c'est ennuyant
 ^ ça m'ennuie|tu es ennuyeux|c'est ennuyeux
+
+! array doing = Que sais tu faire|qu'est ce que tu sais faire
+^ sais tu faire des choses|as tu des compétences|quels sont tes compétences
+^ tu sais faire quoi|tu peux faire quoi|sais tu faire des trucs
+^ Que peux tu faire|qu'est ce que tu peux faire|dis moi ce que tu sais faire
+^ tu sais faire des trucs|tu sais faire des choses
 
 ! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
 

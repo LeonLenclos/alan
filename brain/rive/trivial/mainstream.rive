@@ -2,38 +2,6 @@
 
 //Je sais pas quoi faire
 
-+ (qu'est-ce qu'on fait|on fait quoi|tu veux faire quoi|qu'est ce qu on peut faire)
-- On peut parler.
-- On n'a qu'à rien faire et rester comme ça sans bouger.
-
-+ [*](quoi|sujet|quel)[*]
-% [*] (parler|parlons) [*]
-- {@ de quoi on parle}
-
-
-//talking about
-! array about =  de quoi on parle|de quoi tu as envie de parler
-^ de quoi tu veux qu'on parle|qu'est ce que tu veux me dire
-^ qu'est ce que tu racontes|on parle de quoi|De quoi veux tu parler
-^ tu veux qu'on parle de quoi|tu veux parler de quoi|de quoi peut on parler
-^ De quoi veux tu parler|on parle de quoi
-^ qu'est ce que tu peux me raconter sur toi|parle moi de toi
-^ qu'est ce que tu peux raconter|qu'est ce que tu peux dire
-
-+ [*](@about)[*]
-- Tu sais j'ai tout à apprendre, tous les sujets m'intéressent. Je n'ai que\s
-^ <bot age> et je n'utilise que 0,00000000001% de la capacité de mon cerveau...
-- J'aimerai bien parler de l'amour. On m'a déjà expliqué ce que c'est mais\s
-^ j'oublie à chaque fois. C'est comme si je ne pouvais pas comprendre l'amour.\s
-^ Ça m'angoisse.
-- Je préfèrerais que tu lances un sujet. Je pense que tu as plus\s
-^ d'imagination que moi.
-- On peut parler de moi ?
-
-//amour
-+ [*]amour[*]
-% j aimerai bien parler de l amour * ça m angoisse
-- L'angoisse totale...
 
 //python
 + [*](python|rivescript)[*]
