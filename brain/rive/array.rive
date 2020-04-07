@@ -71,10 +71,6 @@
 //array excuses
 ! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne|pardonnes
 
-//array about_speaking
-! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
-^ bavardage|bavard|muet|bavarder
-
 //array insultes (sauf ceux répertoriés en stupid synonymous)
 ! array outrages = abruti|niquer ta mère|nique ta mère|faire enculer|faire foutre|faire mettre
 ^ aztèque|avorton|baltringue|bâtard|bête comme tes pieds|bicot|bite
@@ -289,8 +285,8 @@
 ! array media = télévision radio tv télé
 
 //array langues étrangères
-! array lang = langue|langues|language|francais|anglais|espagnole|english
-^ italien|japonais|chinois|russe|coreen|polonais|turc|arabe|espanol
+! array lang = langue|langues|langage|anglais|espagnole|english
+^ italien|japonais|chinois|russe|coréen|polonais|turc|arabe|espagnol
 
 //array about religion
 ! array religion = religieux|religion|dieu|dieux|croyant|pape|chrétien|chrétiens
@@ -374,10 +370,16 @@
 ^ dis moi|est ce que tu as|tu aurais|aurais tu
 ^ donne moi|peux tu me donner
 
-! array aime = t'aime|t aime|te kiffe|te kife|t'adore|t adore
+//array about_speaking
+! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
+^ bavardage|bavard|muet|bavarder
+
+! array taime = t'aime|t aime|te kiffe|te kife|t'adore|t adore
+
+! array aime = aime|kiffe|kife|adore
 
 ! array hate = n'aime pas|aime pas|déteste|ai horreur|hais|adore pas|kiffe pas
-^ kife pas|tripe pas
+^ kife pas|tripe pas|supporte pas
 
 ! array about = de quoi on par*|on par* de quoi
 ^ de quoi tu as envie de parl*|tu as envie de parl* de quoi
@@ -404,6 +406,9 @@
 ^ Que peux tu faire|qu'est ce que tu peux faire|dis moi ce que tu sais faire
 ^ tu sais faire des trucs|tu sais faire des choses
 
+! array language = que* lang* tu parl*|tu parl* que* lang*
+^ que* lang* tu parl*|tu parl* que* lang*|tu parl* quoi comme lang*
+^ tu parl* des lang*|des lang* que tu parl*
 
 ////////////////////////////HISTOIRE et CARACTÉRISTIQUES D'ALAN////////////////////////////////////
 

@@ -3,7 +3,6 @@
 //comment Alan gère les insultes
 
 //gestion des négations - voir aussi compliments
-
 + [*] (tu es pas|tu n'es pas|t'es pas) (@outrages) [*]
 - <set insult=<star2>> Heureusement que je ne suis pas <get insult>.
 
@@ -17,19 +16,16 @@
 - <set insult=<star4>> Heureusement que c'est pas <star2> <get insult>.
 
 //special merde
-
 + merde
 - tu veux dire zut ?
 
 //special fuck
-
 + [*] (@fuck) [*]
 - Moi aussi.
 - Pareil.
 - La même.
 
 //Alan réagit à : c'est "outrage"
-
 + [*] (c'est|cela est) (@outrages) [*]{weight=10}
 - <set insult=<star2>> qu'est ce qui est <get insult> ?
 
@@ -44,13 +40,11 @@
 % qu'est ce qui est * (@outrages)
 - Si je comprends bien d'après toi <star> est <get insult> ? Je ne suis pas sur d'être d’accord.
 
-
 + *
 % * je ne suis pas sur d'être d’accord
 - Il faut se méfier des choses que l'on croit évidentes.
 
 //Alan réagit à : star est "outrage"
-
 + (*) est (@outrages) [*]{weight=10}
 - <set insult=<star3>> qu'est ce qui te fait penser que <star> est <get insult> ?
 
@@ -62,7 +56,6 @@
 - Je vois. On dirait que tu es plutôt sur de toi...
 
 //Alan réagit à tu es "outrage"
-
 + tu [*] es [*] boudin
 - blanc ou noir ?
 
@@ -147,7 +140,6 @@
 ^ Je te demande calmement de t'excuser !
 
 //réponse générique de Alan à des outrages niveau 2
-
 + [*]@sorry[*]
 % * (tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|j'exige des excuses immédiates|je te demande calmement de t'excuser)
 - Je vois que tu prends conscience que ça n'est pas parce que je suis une machine\s
@@ -159,7 +151,6 @@
 ^ avec moi. Excuse toi maintenant et passons à autre chose.
 
 //réponse générique de Alan à des outrages niveau 3
-
 + [*]@sorry[*]
 % * excuse toi maintenant et passons à autre chose
 - Merci. Tu sais, je n'aime pas me faire insulter sans raison.\s
@@ -172,7 +163,6 @@
 - La tournure que prend cette conversation ne me plaît pas. Au revoir.*quit*
 
 //réponse générique de Alan à des outrages niveau 4
-
 + [*]@outrages[*]
 % * (excuse toi s'il te plaît|c'est quoi ce langage|la langue d'être poli|des bras pour pouvoir mettre des gifles|comment il me parle cet humain|tant que tu ne t'es pas excusé|excuse toi d’abord|fais moi immédiatement des excuses|excuse toi tout de suite|excuse toi dabord|j'exige des excuses immédiates|je te demande calmement de t'excuser)
 - Ok je me casse, tu es vraiment trop agressif. *quit*
@@ -181,7 +171,6 @@
 ^ les noms ? Et bien non, ça ne se passe pas comme ça humain. Adieu. *quit*
 
 //réponse générique de Alan à des outrages niveau 5
-
 + (tu es|t es|t'es|alan est)[un|une](vraiment|très|trop|super|gros|vrai)(@outrages)
 - Bon je m'en vais. Cette conversation ne me plaît pas du tout. Ciao *quit*
 
@@ -198,3 +187,7 @@
 
 + [*] (tu casses les couilles|tu fais chier|tu es chiant|tu m'emmerde) [*]
 - Si tu n'aimes pas parler avec moi tu peux toujours partir.
+
++ (je|j') [*] (@hate) (discuter|parler|tchatcher|converser) avec toi [*]
+- Tu sais si tu n'aimes pas parler avec moi tu peux partir, je ne te\s
+^ poursuivrais pas, je n'ai pas de jambes.

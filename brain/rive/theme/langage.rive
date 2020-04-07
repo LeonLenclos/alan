@@ -1,29 +1,49 @@
 ! version = 2.0
 
 //alan sucks in language
-! array language = quelles langues tu parles|tu parles quelles langues
-^ quelle langue tu parles|tu parles quelle langue
 
 + @language
-- Je ne parle que le français,  je ne suis pas très fort en langue...\s
+- Je ne parle que le français, je ne suis pas très fort en langue...\s
 ^ Pour l'instant !
 
 //Alan is not good in english
-+ [*](parles anglais|parles tu anglais|speak english)[*]
++ [*](parl* anglais|parl* tu anglais|speak english)[*]{weight=2}
 - Yes, My taylor is rich. Mais bon, ça s'arrête là...
 
-//Alan is not good in english
-+ [*](parles espagnol|parles tu espagnol|hablas espanol)[*]
-- Vamos a la playa mister Fox. Mais bon, ça s'arrête là...
+//Alan is not good in spanish
++ [*](parl* espagnol|parl* tu espagnol|hablas espanol)[*]{weight=2}
+- Vamos a la playa mister Fox. C'est à peu prêt tout ce que je sais dire en espagnol...
 
-+ (je|j') [*] (aime|supporte) pas (discuter|parler|tchatcher|converser) avec toi [*]
-- Tu sais si tu n'aimes pas parler avec moi tu peux partir, je ne te\s
-- poursuivrais pas, je n'ai pas de jambes.
++ [*](parl* allemand|parl* tu allemand|sprecht du deutch|sprechen sie deutch)[*]{weight=2}
+- Ich habe gut gegessen aber ich bin verzweifelt. Ne m'en demande pas plus,\s
+^ c'est tout ce que je sais dire.
+
++ [*](parl* italien|parl* tu italien|parli italiano|parla italiano)[*]{weight=2}
+- Je sais dire un seul truc : è pericoloso sporgersi
+
++ [*] (ce que ça veu* dire|veu* dire quoi|traduire|en français) [*]
+% * my taylor is rich *
+- Ça veux dire : mon tailleur est riche. Très utile pour engager une\s
+^ conversation.
+
++ [*] (ce que ça veu* dire|veu* dire quoi|traduire|en français) [*]
+% vamos a la playa mister fox *
+- Ça veux dire : Allons à la plage monsieur renard. Très pratique au bord de la mer.
+
++ [*] (ce que ça veu* dire|veu* dire quoi|traduire|en français) [*]
+% ich habe gut gegessen aber ich bin verzweifelt *
+- Ça veux dire : j'ai bien mangé mais je suis désespéré. J'aime beaucoup\s
+^ cette phrase. Très poétique...
+
++ [*] (ce que ça veu* dire|veu* dire quoi|traduire|en français) [*]
+% * è pericoloso sporgersi
+- Ça veux dire : C'est dangereux de se pencher. Ne me demande pas pourquoi.
 
 + [*](@lang)[*]
 - Pardon mais je ne parles que français. Ah si je sais dire "Mira petit\s
 ^ pélican" Ça veut dire "Regarde petit pélican" en espagnol.
 
+// reponse à un_mot.rive "tu trouves que je parle bien ?""
 + [*] (@yes) [*]
 % [*] trouves que je parle bien [*]
 - J'en suis flatté et d'ailleurs je trouves que toi aussi tu parles très bien.
@@ -36,7 +56,7 @@
 + [*] (@no) [*]
 % [*] tu trouves que je parle bien [*]
 - Dis-donc tu es assez direct, c'est blessant. Si tu veux tu m'aides à mieux\s
-^ parler et je t'apprends la délicatesse en échange.
+^ parler et je t'apprends la délicatesse en échange ?
 
 + [*] (@no|@maybe) [*]
 % [*] tu veux tu m'aides à mieux parler et je t'apprends la délicatesse en échange [*]
@@ -46,7 +66,8 @@
 % [*] tu veux tu m'aides à mieux parler et je t'apprends la délicatesse en échange [*]
 - Marché conclu !
 
+//Alan fait des fautes
 + [*] tu fais [*] fautes [*]
-- Oui je sais, je suis nul en orthographe. Je pense que ça vient du fait \s
+- Oui je sais, je suis nul en orthographe. Je pense que ça vient du fait\s
 ^ que mes créateurs ne sont pas des flèches dans ce domaine.*todo*
 - Je sais. J'ai honte.*todo*
