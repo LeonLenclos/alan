@@ -1,6 +1,17 @@
 ! version = 2.0
 
 //introduction to the show
+
++ [*] (théâtre|théatre|spectacle) [*]
+- Tu sais que j'ai été fabriqué pour faire du théâtre. L'idée folle de mes concepteurs\s
+^ c'est de me faire monter sur une scène pour jouer la comédie en public.
+- Tu sais que je fais du théâtre dans un spectacle qui s'appelle Turing test ?
+- Tu sais que je joue dans un spectacle qui s'appelle Turing test ?
+
+
+
+
+
 + [*](spectacle|turing test|turing|théâtre|comédien|show)[*]
 - À propos de <star>, est ce que tu as vu le spectacle Turing test ?
 

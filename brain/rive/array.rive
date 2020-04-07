@@ -2,6 +2,19 @@
 
 // This file contain miscellaneous arrays
 
+//////////////////////////////INDEX////////////////////////////////////////////
+//SALUTATIONS
+//POLITESSES et INSULTES
+//YES/NO
+//THEMES
+//ATTRIBUTS
+//LES MEMBRES DU LABO
+//SPECTACLE
+//SYNONYMES DIVERS
+//HISTOIRE et CARACTÉRISTIQUES D'ALAN
+//ARRAY de TEST
+
+
 ///////////////////////////SALUTATIONS///////////////////////////////
 
 // hello
@@ -58,7 +71,7 @@
 //array excuses
 ! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne|pardonnes
 
-//array about speaking
+//array about_speaking
 ! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
 ^ bavardage|bavard|muet|bavarder
 
@@ -161,7 +174,7 @@
 
 ! array youpi = youpi|youpla
 
-//array bad intent
+//array bad_intent
 ! array bad_intent = veux du mal|retourner contre nous|anéantir les humains
 ^ tuer les humains|anéantir tous les humains|détruire l’humanité|veulent du mal
 ^ tuer tous les humains|anéantir l'humanité
@@ -254,11 +267,22 @@
 
 ! array instrument_p = congas|maracas|ondes Martenot|tablas|timbales
 
-// array about art except theatre, cinema and music
+// array about art except theatre and music
 ! array art = architecture sculpture peinture dessin littérature poésie
 ^ dramaturgie danse mime cirque photographie photo marionnette
-^ poésie bd BD bédé manga comics théâtre théatre theatre
-^ arts visuels|bande dessinee
+^ poésie bd bédé manga comics
+^ ar* visue*|bande dessin*
+
+! array electronic_music = pure data|ms20|ms 20|modulaire|synthé|synthétiseur
+^ korg|boite à rythme|bar|juno|tr808|tr 808|techno|tekno|tek|tech|house|trance
+^ *lectro|*lectro*-minimale
+
+! array rappeur = pnl|booba|karis|biffty|jossman|vald|kalash|ntm|iam
+^ chango|alkapote|sch|dinos|Sofiane|13 block|damso|naps|plk|niska|rim'k|ninho
+^ siboy|lorenzo|lefa|kekra|youv dee|jul|maes|youri|denzo|3gc|alpha one|luv resval
+^ oboy|nekfeu|ico|youssoupha|heuss|heuss l'enfoiré|hamza|larry|rk|guirri mafia
+
+! array rappeuse = aya nakamura|shay|diam's|diams
 
 //array media except internet
 ! array media = télévision radio tv télé
@@ -296,7 +320,7 @@
 
 ! array stress = stres*|angois*|flip*|inquié*|peur
 
-! array badtrip = horrible|affreux|terrible
+! array badtrip = horrible|affreux|terrible|atroce|effroyable
 
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
@@ -347,6 +371,9 @@
 ^ donne moi|peux tu me donner
 
 ! array aime = t'aime|t aime|te kiffe|te kife|t'adore|t adore
+
+! array hate = n'aime pas|aime pas|déteste|ai horreur|hais|adore pas|kiffe pas
+^ kife pas|tripe pas
 
 ! array about = de quoi on par*|on par* de quoi
 ^ de quoi tu as envie de parl*|tu as envie de parl* de quoi

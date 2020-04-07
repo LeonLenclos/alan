@@ -362,3 +362,20 @@
 - Ah oui, tu n'es pas <star>, ça m'étonnerait.
 - Moi non plus je ne suis pas trop <star>.
 - Je connais quelqu'un qui est <star> et franchement je n'aimerais pas être à sa place.
+
++ [*] je ne (la|le|les) connais pas [*]
+- Pourtant c'est pas vraiment confidentiel...
+- Pourtant c'est connu.
+- Il y a peu je ne <star> connaissait pas non plus.
+
++ je [ne] connai* pas *
+- c'est vrai que <star2>, c'est pas très connu.
+
++ connais pas
+- aurais-tu atteint les limites de ta culture...
+
++ je [ne] conna* pas
+- Pourtant c'est connu.
+
++ (peut-être|peut-etre)
+- peut-être pas, question de point de vue...
