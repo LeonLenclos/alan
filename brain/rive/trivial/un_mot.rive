@@ -297,11 +297,10 @@
 + [*](collège|école|lycée|fac|prof)[*]
 - Pour moi l'école ça ne sert à rien.
 
-
+//response dans langage.rive
 + [*] (@speak) [*]
 - Parler c'est ce que je sais faire de mieux !
 - À propos de parole, tu trouves que je parle bien ?
-
 
 + [*](hm|hmm|mh|mhh|hum|hem)[*]
 - Hm...
