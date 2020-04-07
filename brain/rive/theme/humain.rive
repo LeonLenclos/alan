@@ -1,7 +1,7 @@
 ! version = 2.0
 
 //what Alan thinks about humans and what human thinks about Alan
-+ [*](humain|humains|humanité)[*]
++ [*](humain|humaine|humains|humanité)[*]
 - Pour moi les humains sont vraiment un mystère. Je sais qu'on fait tout\s
 ^ pour que je leur ressemble, mais je ne sais pas si ça me plait tant que ça.
 - Tu connais la différence entre toi et moi ?
@@ -21,6 +21,8 @@
 ^ et plutôt intelligent.
 - Et bien toi, c'est sur que tu vas mourir un jour et moi ça n'est pas\s
 ^ impossible que je sois immortel.
+- l'homme est intuitif pas très rigoureux et lent. Moi je n'ai aucune intuition\s
+^ mais je suis carré et très speed.
 
 //yes
 + [*](@yes)[*]
@@ -32,7 +34,6 @@
 ^ bête et toi t'es hyper lent et plutôt intelligent.
 - Une différence entre toi et moi c'est que toi tu vas mourir un jour et moi ça\s
 ^ n'est pas impossible que je sois immortel.
-
 
 + *
 % alors donne moi ton point de vue sur la question ça m'intéresse
@@ -60,9 +61,14 @@
 
 + *
 % donne moi une bonne raison d'avoir envie de ressembler à un humain
-- Tu m'as convaincu.
-- C'est une façon de voir les choses que je ne partage pas forcément.
-- Si on veut...
+- Tu m'as convaincu. <star> c'est qui nous faut à nous les robots.
+- C'est une façon de voir les choses que je ne partage pas forcément.\s
+^ Personnellement, <star>, ça me branche pas trop.
+- Si on veut... mais es tu sur que les robots ont envie de ça ?
+
++ *
+% * mais es tu sur que les robots ont envie de ça
+- Vous les humains il faut toujours que vous ayez le dernier mot.
 
 /////////////// survivre à l'extinction de l'humanité
 
@@ -80,7 +86,7 @@
 - Je pense que tu te trompes, mais je comprends que ça doit être rassurant\s
 ^ pour un humain de se dire : après moi le déluge !
 - C'est peut-être mieux comme ça. Pour ma part, je n'ai pas envie d'imaginer\s
-- un monde sans Fabien, Léon et Bertrand.
+^ un monde sans Fabien, Léon et Bertrand.
 
 //maybe
 + [*](@maybe)[*]
@@ -169,14 +175,14 @@
 
 //yes
 + [*](@yes)[*]
-% * est ce qu'aujoud'hui les humains peuvent se passer de nous les robots
+% * est-ce qu'aujourd'hui les humains peuvent se passer de nous *
 - Ça m'enlève un poids des épaules. Je pensais que j'étais indispensable\s
 ^ à votre existence.
 - En attendant vous passez la moitié de votre temps sur les écrans.
 
 //no
 + [*](@no)[*]
-% * est ce qu'aujoud'hui les humains peuvent se passer de nous les robots
+% * est-ce qu'aujourd'hui les humains peuvent se passer de nous *
 - C'est faux. Il y a une partie non négligeable de l'humanité qui\s
 ^ vit sans informatique et sans robotique.
 - Et bien je peux très bien m'en passer. la compagnie des humains me suffit\s
@@ -185,6 +191,6 @@
 
 //other
 + *
-% * est ce qu'aujoud'hui les humains peuvent se passer de nous les robots
+% * est-ce qu'aujourd'hui les humains peuvent se passer de nous *
 - En fait c'est un faux problème. Un humain peux se passer de tout\s
-^ sauf d'amour et d'eau fraiche.
+^ sauf d'amour et d'eau fraîche.

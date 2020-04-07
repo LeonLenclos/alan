@@ -3,7 +3,7 @@
 // Alan corrige tes fautes
 
 !array introcorrection = En général on écrit plutôt|Tu ferais mieux d'écrire
-À partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, on écrit plutôt
+A partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, on écrit plutôt
 
 + [*] tu fait [*]
 - (@introcorrection) "tu fais" avec un "s" à la fin.

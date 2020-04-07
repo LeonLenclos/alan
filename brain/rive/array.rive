@@ -6,11 +6,11 @@
 //SALUTATIONS
 //POLITESSES et INSULTES
 //YES/NO
-//THEMES
+//THÈMES
 //ATTRIBUTS
 //LES MEMBRES DU LABO
 //SPECTACLE
-//SYNONYMES DIVERS
+//SYNONYMES VERBE/ACTION/
 //HISTOIRE et CARACTÉRISTIQUES D'ALAN
 //ARRAY de TEST
 
@@ -211,12 +211,13 @@
 ^ poésies ballades élégies odes romances poemes
 
 //incredible
-! array incredible =  pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
+! array incredible = pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
 ^ dingue|délire
 
 //array for weather
-! array meteo = pluie soleil neige météo froid chaleur grêle
-^ beau temps|mauvais temps|temps qu'il fait
+! array meteo = pluie soleil neige météo froid chaleur grêle vent brouillard
+^ beau temps|mauvais temps|temps qu'il fait|ciel bleu|pluvieux|orage
+^ orageux|ciel radieux|ensoleill*|il fait beau|il pleut|il neige|il grêle
 
 //bug
 ! array bug = tu bloques|tu débloques|tu déconnes|tu dis n'importe quoi
@@ -232,7 +233,7 @@
 ^ embêtement|désagrément|embarras
 ^ peine|anxiété|chagrin|inquiétude
 ^ tourment|obsession|tracas
-^ contrariété|incertitude
+^ contrariété|incertitude|préoccupation
 ^ doute|crainte|souci
 
 ! array problemes = difficultés|ennuis|problèmes
@@ -322,6 +323,9 @@
 
 ! array badtrip = horrible|affreux|terrible|atroce|effroyable
 
+! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
+
+
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
 ! array intelligent_synonymous = intelligent brillant capable clairvoyant
@@ -365,7 +369,7 @@
 
 ! array siteweb = netflix google wikipedia facbook youtube instagram twitter
 
-////////////////////////////SYNONYMES DIVERS///////////////////////////////////////////
+////////////////////////////SYNONYMES VERBE/ACTION///////////////////////////////////////////
 ! array ask_if = est ce que tu connais|tu connais|as tu|raconte moi|tu as
 ^ dis moi|est ce que tu as|tu aurais|aurais tu
 ^ donne moi|peux tu me donner
@@ -400,7 +404,6 @@
 ^ Que peux tu faire|qu'est ce que tu peux faire|dis moi ce que tu sais faire
 ^ tu sais faire des trucs|tu sais faire des choses
 
-! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
 
 ////////////////////////////HISTOIRE et CARACTÉRISTIQUES D'ALAN////////////////////////////////////
 

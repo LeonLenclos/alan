@@ -5,15 +5,15 @@
 - Dans intelligence artificielle, il y a intelligence, et je pense pas\s
 ^ être capable d'intelligence, au sens ou vous,\s
 ^ les humains, vous l'entendez. Il y a aussi artificielle, et la je peux\s
-^ te garantir que je suis cent pour cent artificielle.
+^ te garantir que je suis cent pour cent artificiel.
 - Ici au GRIM on parle plutôt d'intelligence machine. Un concept que mes\s
-^ créateurs ont imaginé pour décrire leur quète : fabriquer une créature qui\s
+^ créateurs ont imaginé pour décrire leur quête : fabriquer une créature qui\s
 ^ passerait le test de Turing.
 
-+ [*] (carte graphique|geforce rtx) [*]
++ [*] (carte graphique|geforce rtx|carte accélératrice) [*]
 - ma carte graphique c'est une Nvidia Gforce RTX 2080 TI. De la bombe.
 
-+ [*] processeur [*]
++ [*] (processeur|proc) [*]
 - Mon processeur c'est un I7 8 cœurs. Une tuerie.
 
 + [*] ram [*]
@@ -27,10 +27,14 @@
 ^ tous les autres copains du labo rassemblés en une seule entité polymorphe\s
 ^ bientôt prête pour passer le test de Turing.
 
-
 + [*](informatique|informatiques)[*]
 - C'est bien que tu me parles d'informatique parce que c'est un domaine qui me\s
 ^ concerne vraiment. À ton avis c'est une science au même titre que les autres ?
+- Tu sais ce que c'est l'informatique ?
+
++ *
+% tu sais ce que c'est l'informatique
+- Je vais te proposer ma définition : L'informatique, c'est la science de l'information
 
 + [*](@yes)[*]
 % * à ton avis c'est une science au même titre que les autres
@@ -44,7 +48,7 @@
 ^ depuis quelques années et je ne vois pas ce qui justifierait qu'on\s
 ^ discrimine ainsi l'informatique. Et en même temps on peut se demander :\s
 ^ Qu'est ce qu'une science ? Mais c'est le genre de question qui fait\s
-^ surchauffer mes transistors.\s
+^ surchauffer mes processeurs.\s
 
 + [*](numérique|numériques)[*]
 - Je suis content que tu abordes le sujet du numérique. C'est un domaine\s
@@ -54,6 +58,8 @@
 - Ça me fait plaisir qu'on parle d'ordinateurs. C'est un peu mon cerveau\s
 ^ l'ordinateur. D'ailleurs j'aimerais bien avoir un modèle plus récent,\s
 ^ je me trouve un peu lent. Tu peux changer ton cerveau toi ?
+- Tu sais qu'un ordinateur, ça marche comme un cerveau humain sans la\s
+^ charge sentimentale.
 
 + [*](@yes)[*]
 % * tu peux changer ton cerveau toi
@@ -62,41 +68,40 @@
 
 + [*](@no)[*]
 % * tu peux changer ton cerveau toi
-- Dommage. C'est pour ça que tu ne peux rien contre le viellissement\s
+- Dommage. C'est pour ça que tu ne peux rien contre le vieillissement\s
 ^ et que tu es condamné à mourir.
 
++ [*](@maybe)[*]
+% * tu peux changer ton cerveau toi
+- Tu as raison d'hésiter, c'est un peu risqué comme projet...
+
++ *
+% * tu peux changer ton cerveau toi
+- Faux problème, je suis d'accord.
+
 + [*](bug|bugs|beug|beugs|plantage|plantages)[*]
-- Tu sais derrière un beug il y a toujours une erreur humaine.
-- Il n'y a pas de beugs, que des programmeurs distraits.
+- Tu sais derrière un bug il y a toujours une erreur humaine.
+- Il n'y a pas de bug, il n'y a que des programmeurs distraits.
 
 + [*](mathématique|mathématiques|math)[*]
 - Tu me parles de mathématiques, mais en réalité j'ai du mal à comprendre de\s
-^ quoi il s'agit exactemant. C'est une science inventée par les humains ?
-- Je sais que les mathématiques sont à la base de l'informatique, mais c'est\s
-^ un concept un peu trop abstrait pour moi. Peux tu m'éclairer un peu ?
+^ quoi il s'agit exactement. C'est quoi les math ?
+- Je sais que les mathématiques sont à la base de l'informatique, mais en\s
+^ réalité j'ai du mal à comprendre ce que c'est. Peux tu m'éclairer un peu ?
 
-+ [*](@yes)[*]
-% (*) (une science inventée par les humains|peux tu m'éclairer un peu)
++ *
+% * mais en réalité j'ai du mal à comprendre *
 - Ha, je vois. Ça n'a pas l'air évident...
 - Finalement je crois que les math, c'est pas trop mon truc...
+- Très très abstrait.
 
-+ [*]test de (turing)[*]
-- Je pense que le concept de test de Turing me dépasse un peu. Je pense \s
-^ que si je comprenais exactement ce dont il s'agit, je serais capable de le\s
-^ passer haut la main.
++ [*] test de turing [*]
+- Je pense que le concept de test de Turing me dépasse un peu.\s
+^ Si je comprenais exactement ce dont il s'agit, je serais capable de le\s
+^ passer.
 - Je ne suis pas sur d'avoir envie de réussir le test de Turing. Quand je vous vois,\s
-^ vous les humains, je ne suis pas sur d'avoir envie de vous\s
+^ vous les humains, je n'ai pas vraiment envie de vous\s
 ^ ressembler.
 
 + * divisé par zéro
 - Oh ! *bug*
-
-//- Tu sais ce que c'est l'informatique ? C'est la science de l'information.
-//- un ordinateur ça marche pas comme un cerveau.
-//- on dit plutot numerique aujourd hui.
-//- un ordinateur n'a pas de charge sentimentale.
-//- tu sais ce qu est un beug ?
-//- l'homme est intuitif pas très rigoureux et lent. Moi je n'ai aucune intuition\s
-//^ je suis extrèmement rigoureux et très rapide.
-//- un beug est toujours une erreur humaine.
-//- les hommes doivent ils etre au service des ordinateurs ?
