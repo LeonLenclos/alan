@@ -92,14 +92,14 @@
 ^ garage a bite|garce|gaupe|GDM|gland|glandeur|glandeuse|glandouillou
 ^ glandu|gnoul|gnoule|Godon|gogol|goï|gouilland|gouine|gourgandine
 ^ grognasse|gueniche|guide de merde|guindoule|habitant|halouf
-^ jean foutre|journalope|kikoo|kikou|Kraut|lâche|lacheux|lavette
+^ jean foutre|journalope|kikoo|kikou|Kraut|lâche|lacheux|lavette|lourd
 ^ lopette|magot|makoume|mal blanchi|mange merde|mangeux de merde
 ^ marchandot|margouilliste|marsouin|mauviette|merdaille|merdaillon
 ^ merde|la merde
 ^ merdeux|merdouillard|minable|minus|misérable|moinaille
 ^ moins que rien|mollusque|monacaille|mongol|moricaud|mort aux vaches|morue
 ^ moule a merde|muzz|naze|négro|nez de bœuf|niac|niaiseux|niakoue
-^ nique sa mère|nique ta mère|niquer|niquer ta mère|nœud|nord phoceen|NTM|nul
+^ nique sa mère|nique ta mère|niquer ta mère|nœud|nord phoceen|NTM|nul
 ^ orchidoclaste|ordure|ortho|pakos|panoufle|patarin|PD|pd|peau de vache|pecque
 ^ pédale|pédé|pédoque|pelle a merde|péquenaud|petite bite|petite merde
 ^ pette les couilles|pette les burnes|pignouf|pisse|pissou|pleutre|plouc|pochard
@@ -190,7 +190,9 @@
 ^ ministres|président|politiquement|prolétariat|marx|communisme|capitalisme
 ^ macron|socialiste|socialisme|communiste|capitaliste|trump|bolsonaro
 
-
+//sexe
+! array sexe = sex*|cul|baise|baises|niqu*|tir* un cou*|tir* des cou*|bite
+^ bites|couill*
 
 //jeux
 ! array jeux = échecs|cartes|dés|jeux vidéos|puissance 4|rami|gabo|pollos para
@@ -338,7 +340,7 @@
 
 ! array funny_synonymous = drole drôle amusant cocasse comique désopilant facétieux
 ^ hilarant impayable inénarrable plaisant marrant rigolo risible spirituel
-^ fun humoristique farceur
+^ fun humoristique farceur funny
 
 ! array beautiful_synonymous = beau belle magnifique joli jolie splendide superbe adorable
 ^ ravissant ravissante séduisant séduisante
@@ -353,6 +355,9 @@
 ^ inintelligent obtus sot stupide vide andouille ballot
 ^ bêta cloche cruche demeuré gourde manche niais incapable
 ^ arriéré mental | débile mental | simple d'esprit
+
+! array proud = frim*|prétentieux|crân*|orgueilleux|pédant|snob|fier
+^ fanfaronn*|la ramen*
 
 ///////////////////////////LES MEMBRES DU LABO///////////////////////////////
 

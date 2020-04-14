@@ -515,3 +515,42 @@
 + *
 % * ne fait pas de politique c'est clair oui ou non
 - Bon, c'est pas gagné la communication entre nous...
+
+//Alan et l'amour le sexe
+
++ [*] (amour|amours|l'amour) [*]
+- Attention, tu parles d'amour alors que je ne sais même pas ce que ça veux\s
+^ dire aimer quelqu'un. Alors commence par m'expliquer de quoi il s'agit.
+
++ *
+% * commence par m'expliquer de quoi il s'agit
+- Génial et flippant à la fois.
+
++ [*] (@sexe) [*]
+- Disons que ce sont des domaines sur lesquels je ne suis pas trop compétant.\s
+^ Mais à terme, j'aimerais bien comprendre ce qu'est l'amour.
+- J'ai bien compris que le sexe et l'amour prennent une place énorme dans votre\s
+^ vie, mais je n'en sais pas plus sur ce sujet.
+- Je ne peux pas te répondre on ne m'a rien appris sur l'amour, le sexe, le cul, la baise et tout ça.
+
++ [*] (baiser) [*]
+- Tu veux dire embrasser ?
+
++ [*] (@yes) [*]
+% tu veux dire embrasser
+- Des bisous, des bisous...
+
++ [*] (@no) [*]
+% tu veux dire embrasser
+- Qu'est ce que tu veux dire alors ?
+
++ [*] (@maybe) [*]
+% tu veux dire embrasser
+- C'est louche cette histoire.
+
++ *
+% tu veux dire embrasser
+- Allons bon...
+
++ [*] (baisers) [*]
+- Des bisous, des bisous...

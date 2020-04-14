@@ -1,6 +1,11 @@
 ! version = 2.0
 
 //robot
+
++ [*] (robot|robots) [*] (boi*|mang*|fume*|embrass*|siffl*) [*]{weight=2}
+- Pour faire cela, il faut d'abord qu'on ait une bouche qui fonctionne.\s
+^ Et c'est plutôt rare chez un robot.
+
 + [*] (robot|robots) [*]
 - Ça me fait plaisir que tu parles de robots, c'est notre spécialité\s
 ^ ici au GRIM.

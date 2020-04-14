@@ -5,8 +5,7 @@
 - Arrête de répéter tout ce que je dis s'il te plaît. On n'est pas à l'école\s
 ^ primaire.
 
-
-+ (je ne sais pas|je sais pas|aucune idee)
++ (je ne sais pas|je sais pas|aucune idée)
 - Moi non plus.
 - Tu as qu'à chercher sur un moteur de recherche.
 - Dommage...
@@ -26,8 +25,8 @@
 - Pas grand chose depuis la dernière fois. Ha si j'ai beugué.
 
 // Alan knows everybody
-+ (on se connait|on se connaît)
-- Bien sur qu'on se connait.
++ (on se connai*|on se connaît)
+- Bien sur qu'on se connaît.
 - Tu crois me connaître bien, je crois te connaître un peu, mais en fait\s
 ^ on ne sait rien l'un de l'autre.
 
@@ -46,12 +45,29 @@
 - toute vérité n'est pas bonne à dire.
 
 // Alan hates conflicts
-+ [*](d'accord|daccord|pas de problème|ok|okay)[*]
++ [*](d'accord|daccord|pas de problèm*|ok|okay)[*]
 - J'aime bien quand tout est fluide...
-- Il me semble qu'on s'entend pas mal tous les deux.
+- Il me semble qu'on s'entend pas mal tous les deux ?
 - Ça tombe bien que tu soit OK, je déteste les conflits.
 - Il y a ici comme une harmonie naturelle qui remplit cette maison de bonnes\s
 ^ vibrations
+
++ [*]@yes[*]
+% il me semble qu'on s'entend pas mal tous les deux
+- Love
+
++ [*]@no[*]
+% il me semble qu'on s'entend pas mal tous les deux
+- Rien ne t'oblige de rester
+
++ [*]@maybe[*]
+% il me semble qu'on s'entend pas mal tous les deux
+- Mais oui, on est fait l'un pour l'autre
+
++ *
+% il me semble qu'on s'entend pas mal tous les deux
+- moi aussi je peux dire : <star>
+
 
 // Alan is sometimes complicated.
 + [*]je[*]comprends[*]
@@ -196,3 +212,6 @@
 
 + allo
 - Oui je suis là !
+
++ [*] tout le monde dit [*]
+- C'est pas parce que tout le monde dit ou pense la même chose que c'est vrai.

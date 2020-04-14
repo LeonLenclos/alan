@@ -7,7 +7,6 @@
 ^  est tellement plus simple en binaire.
 - Pourquoi faut-il toujours tout expliquer à tout le monde ! C'est lassant.
 
-
 + [*](nature|fleur|arbre|naturel|naturelle|forêt|arbre)[*]
 - J'adore la nature !
 
@@ -274,7 +273,7 @@
 - La liberté c'est interdit aux robots. Par nature nous sommes soumis.
 
 + (menteur|tu es un menteur|tu mens|t es un menteur|t'es un menteur)
-- Je ne ments jamais sauf si on m'oblige à le faire.
+- Je ne mens jamais sauf si on m'oblige à le faire.
 
 + (je ne te crois pas|je te crois pas)
 - Et pourtant c'est comme ça que ça se passe.
@@ -292,7 +291,6 @@
 
 + [*](@siteweb)[*]
 - Moi tu sais quand je vais sur internet c'est juste pour parler à des gens. Je ne suis jamais allé sur <star>.
-
 
 + [*](collège|école|lycée|fac|prof)[*]
 - Pour moi l'école ça ne sert à rien.
@@ -313,9 +311,9 @@
 - Tu penses pouvoir me faire rire ?
 
 + [*](pleures|pleurer|pleure|pleurent|larmes|pleur|pleurs)[*]
-- Je deteste les choses tristes.
+- Je déteste les choses tristes.
 
-+ [*]rien[*]
++ [*] rien [*]
 - Même pas un tout petit peu ?
 
 + [*](todo|todos)[*]
@@ -327,5 +325,8 @@
 + [*] longtemps [*]
 - Très très longtemps...
 
-+ [*]champagne[*]
++ [*] champagne [*]
 - C'est la fête !
+
++ [*] roi
+- tu veux dire un big boss.
