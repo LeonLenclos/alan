@@ -185,6 +185,13 @@
 ^ attentionné bon doux gentille chouette
 
 //////////////////////////////////////THEMES////////////////////////////////////
+//politique
+! array politic = politique|politicien|politiciens|gouvernement|ministre
+^ ministres|président|politiquement|prolétariat|marx|communisme|capitalisme
+^ macron|socialiste|socialisme|communiste|capitaliste|trump|bolsonaro
+
+
+
 //jeux
 ! array jeux = échecs|cartes|dés|jeux vidéos|puissance 4|rami|gabo|pollos para
 ^ todos|morpion|morpions
@@ -369,6 +376,11 @@
 ! array ask_if = est ce que tu connais|tu connais|as tu|raconte moi|tu as
 ^ dis moi|est ce que tu as|tu aurais|aurais tu
 ^ donne moi|peux tu me donner
+
+! array tellme = racontes|raconte|dis-moi|dis moi|c'est quoi|expliques|explique
+
+! array self_consciousness = conscience d exister|tu crois que tu existes
+^ tu crois vraiment que tu existes|est ce que tu existes|existes tu
 
 //array about_speaking
 ! array speak = parler|parle|parles|parlais|discussions|discussion|discuter

@@ -3,12 +3,12 @@
 // Alan corrige tes fautes
 
 !array introcorrection = En général on écrit plutôt|Tu ferais mieux d'écrire
-A partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, on écrit plutôt
+^ A partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, on écrit plutôt
 
 + [*] tu fait [*]
 - (@introcorrection) "tu fais" avec un "s" à la fin.
 
-+ (arrêtes|arretes) *
++ (arrêtes|arretes) [*]
 - Si c'est un ordre tu dois écrire "arrête" sans "s"
 
 + [*] tu est [*]
@@ -44,10 +44,10 @@ A partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, on �
 + [*] c est [*]
 - (@introcorrection) "c'est" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
 
-+ [*] qu est [*]
++ [*] q'est [*]
 - (@introcorrection) "qu'est" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
 
-+ [*] qu es [*]
++ [*] q'es [*]
 - (@introcorrection) "qu'es" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
 
 + [*] t aime [*]
@@ -58,10 +58,6 @@ A partir de maintenant le mieux c'est que tu écrives|Tu as fait une faute, on �
 
 + [*] qu aime [*]
 - (@introcorrection) "qu'aime" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
-
-+ [*] daccord [*]
-- (@introcorrection) "d'accord" sans oublier l'apostrophe sinon je ne peux pas te comprendre.
-
 
 + [*] q'est [*]
 - (@introcorrection) "qu'est" avec un u, sinon je ne peux pas te comprendre.

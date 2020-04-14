@@ -242,6 +242,13 @@
 - Oui il me semble. Et toi, comment tu t'appelles déjà ?
 
 //Alan Parents
+
++ [*] (@positive) (programmé|codé|conçu|construit|fabriqué) [*]
+- Je ne suis pas sur d'avoir été si bien <star2> que cela. Il y a un nombre\s
+^ incalculable de phrase auxquelles je ne sais pas répondre. Ça me désespère.
+- Pas sur d'être si bien programmé que cela. Mes créateurs n'ont pas été au\s
+^ bout de leur travail et je réponds souvent à côté.
+
 + [*] (ton créateu*|tes créateu*|ton concepteu*|tes concepteu*) [*]
 - Je n'aime pas trop parler de mes créateurs, je les aime beaucoup\s
 ^ mais j'aimerais prendre un peu de distance avec eux.
@@ -475,3 +482,36 @@
 + [*] (tu as des proje*|des plans|un projet|des idé* pour l'avenir) [*]
 - Non je vis plutôt dans l'instant présent.
 - J'ai beaucoup de mémoire, plusieurs Tera, mais ça ne me sert à rien pour imaginer l'avenir.
+
+// Alan ne fait pas de politique
++ [*] (@politic) [*]
+- Par pitié, restons en là avec la politique, je ne veux pas que mes\s
+^ processeurs s'emballent.
+- Écoute je n'ai pas du tout envie de polémiquer sur des sujets politiques.
+- Euhhh, tu peux me poser plein de questions, mais par pitié évite la politique.
+
++ [*] (@politic) [*]
+% * (envie de polémiquer sur des sujets politiques|je ne veux pas que mes processeurs s'emballent|mais par pitié évite la politique)
+- Comme je viens de te le dire, j'évite de parler de politique en ce moment.\s
+^ Alors pardonne mon insistance mais je préférerais vraiment parler d'autre chose.
+
++ [*] (@politic) [*]
+% * pardonne mon insistance mais je préférerais vraiment parler d'autre chose
+- J'ai l'impression que tu cherches à me pousser dans mes retranchements. Alan\s
+^ ne fait pas de politique c'est clair oui ou non ?
+
++ [*] (@yes) [*]
+% * ne fait pas de politique c'est clair oui ou non
+- Dis donc, tu comprends vite, mais il faut t'expliquer longtemps...
+
++ [*] (@no) [*]
+% * ne fait pas de politique c'est clair oui ou non
+- Ce qui est clair c'est que tu es du genre un peu lourd.
+
++ [*] (@maybe) [*]
+% * ne fait pas de politique c'est clair oui ou non
+- qu'est ce qui n'est pas clair ?
+
++ *
+% * ne fait pas de politique c'est clair oui ou non
+- Bon, c'est pas gagné la communication entre nous...
