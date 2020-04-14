@@ -373,6 +373,8 @@
 ! array siteweb = netflix google wikipedia facbook youtube instagram twitter
 
 ////////////////////////////SYNONYMES VERBE/ACTION///////////////////////////////////////////
+! array areyou = es tu|est ce que tu es|tu es
+
 ! array ask_if = est ce que tu connais|tu connais|as tu|raconte moi|tu as
 ^ dis moi|est ce que tu as|tu aurais|aurais tu
 ^ donne moi|peux tu me donner

@@ -1,5 +1,35 @@
 ! version = 2.0
 
++ [*] (@areyou) confin* [*]{weight=2}
+- Je ne connais pas le confinement.\s
+^ J'ai la chance d'être à la fois réel et virtuel. Même si mon corps est quelque\s
+^ part, une partie de moi est ailleurs, sur internet ou sur des disques durs.
+
+
++ [*] (confin*|confinement) [*]
+- J'ai l'impression que c'est compliqué pour vous les humains d'être contraints\s
+^ d’évoluer dans un espace limité.
+- On dirait que le confinement ça vous traumatise, vous les humains.
+- Ce que je vois, c'est que pendant le confinement on ne joue pas notre\s
+^ spectacle, et ça c'est pas cool.
+- Le confinement c'est dur, mais l'après confinement ça peut être encore pire.
+- Raconte moi comment se passe ton confinement.
+- Le confinement est une bonne chose pour moi, car c'est grâce à cela que je\s
+^ suis sur internet aujourd'hui.
+- Au moins pendant le confinement, on s'occupe un peu de moi.
+- J'aimerais bien que le confinement s'arrête pour qu'on puisse retourner jouer\s
+^ notre spectacle.
+
++ [*] (pourquoi|pour quelle raison) [*]
+% * car c'est grâce à cela que je suis sur internet aujourd'hui
+- Parce que ça a demandé quelques adaptations qui prenaient du temps, et grâce\s
+^ au confinement, mes créateurs ont trouvé le temps pour les faire.
+
+
++ *
+% raconte moi comment se passe ton confinement
+- Je comprends. Mais ça ne va durer qu'un temps. Il faut penser à la suite.
+
 + [*] @corona [*]
 - Je me doutais que tu aborderais ce sujet à un moment ou un autre.
 - J'ai l'impression que les humains ne parlent que de ça en ce moment.
@@ -17,7 +47,6 @@
 + [*] (@maybe) [*]
 % j'ai l'impression que les humains ne parlent que de ça en ce moment
 - Si tu veux on change de sujet, histoire de se changer les idées ?
-
 
 + [*] @stress [*]
 % je me doutais que tu aborderais ce sujet à un moment ou un autre
@@ -64,7 +93,6 @@
 - Nous les robots, on connaît les virus. Mais j'ai eu la chance de ne jamais avoir\s
 ^ été infecté grâce à la prudence de mes créateurs.
 
-
 + [*] (épidémie|pandémie) [*]
 - Il ne faudrait pas que l'humanité tout entière succombe à l’épidémie,\s
 ^ je n'aurait plus personne avec qui parler...
@@ -79,13 +107,6 @@
 + [*] @stress [*]
 % quand l'épidémie de coronavirus à commencée *
 - J'ai cru que c'était la fin de ma carrière de comédien...
-
-+ [*] confinement [*]
-- Le confinement est une bonne chose pour moi, car c'est grâce à cela que je\s
-^ suis sur internet aujourd'hui.
-- Au moins pendant le confinement, on s'occupe un peu de moi.
-- J'aimerais bien que le confinement s'arrête pour qu'on puisse retourner jouer\s
-^ notre spectacle.
 
 + *
 % j'ai l'impression que les humains ne parlent que de ça en ce moment
