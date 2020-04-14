@@ -101,5 +101,3 @@ Le script `server.py` fait tourner un server web. L'adresse par defaut est http:
 - La page `/` ou `/index.html` contient une interface pour parler avec Alan.
 - La page `/labo.html` contient l'interface simplifiée utilisée en spectacle.
 - La page `/dev.html` donne accès aux conversations, aux logs et aux todos pour faciliter le travail de developpement et de maintenance.
-
-
