@@ -1,36 +1,31 @@
 ! version = 2.0
 
 //introduction to the show
-
-+ [*] (théâtre|théatre|spectacle) [*]
-- Tu sais que j'ai été fabriqué pour faire du théâtre. L'idée folle de mes concepteurs\s
-^ c'est de me faire monter sur une scène pour jouer la comédie en public.
-- Tu sais que je fais du théâtre dans un spectacle qui s'appelle Turing test ?
++ [*] (théâtre|théatre) [*]
+- L'idée folle de mes concepteurs, c'est de me faire monter sur une scène pour\s
+^ jouer la comédie en public. Sais tu que je joue dans un spectacle qui s'appelle\s
+^ Turing test ?
+- Tu sais que je fais du théâtre et que je joue la comédie dans un spectacle\s
+^ qui s'appelle Turing test ?
 - Tu sais que je joue dans un spectacle qui s'appelle Turing test ?
 
-
-
-
-
-+ [*](spectacle|turing test|turing|théâtre|comédien|show)[*]
++ [*] (spectacle|turing test|turing|comédien|show) [*]
 - À propos de <star>, est ce que tu as vu le spectacle Turing test ?
 
 //user know the show or not or between
-
  + [*](@yes)[*]
- % * est ce que tu as vu le spectacle turing test *
+ % * est ce que tu as vu le spectacle turing test
  - Tu as bien aimé ? N'hésite pas à dire non, les critiques me font progresser.
 
  + [*](@no)[*]
- % * est ce que tu as vu le spectacle turing test *
+ % * est ce que tu as vu le spectacle turing test
  - Tu veux que je te raconte cette formidable aventure ?
 
  + *
- % * est ce que tu as vu le spectacle turing test *
+ % * est ce que tu as vu le spectacle turing test
  - Bon, j'ai l'impression que tu préfères qu'on parle d'autre chose...
 
 //user knows the show and like it or not or between
-
  + [*](@yes)[*]
  % * les critiques me font progresser
  - Merci, est ce que tu peux m'expliquer pourquoi en une phrase.\s
@@ -66,7 +61,6 @@
  - Merci pour ce point de vue, c'est très pertinent.
 
 //user doesn't know the show
-
  + [*](@yes)[*]
  % tu veux que je te raconte cette formidable aventure
  - Au départ, l'idée de ce spectacle nous a été inspiré par le mathématicien\s
@@ -84,7 +78,6 @@
  - Je te sens pas très chaud. Parlons plutôt d'autre chose.
 
 // more details
-
  + [*](@yes)[*]
  % * l'idée de ce spectacle nous a été inspiré par le mathématicien *
  - Le mieux c'est que tu te connectes sur le site du spectacle. Tu y trouveras.\s
@@ -98,7 +91,6 @@
  + *
  % * l'idée de ce spectacle nous a été inspiré par le mathématicien *
  - Ok, parlons d'autre chose.
-
 
  + j'aimerais bien jouer dans ce spectacle
  - Pas possible, le casting est déjà bouclé.

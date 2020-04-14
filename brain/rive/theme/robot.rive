@@ -1,8 +1,6 @@
 ! version = 2.0
 
-// script for alan self consciousness begin with array
 //robot
-
 + [*] (robot|robots) [*]
 - Ça me fait plaisir que tu parles de robots, c'est notre spécialité\s
 ^ ici au GRIM.
@@ -23,9 +21,7 @@
 % [*] (mais tu ne sais pas vraiment de quoi il|c'est intéressant que tu abordes ce) *
 - Tu veux que je te raconte ce que ça veut dire d'être un robot ?
 
-
 // Alan make a bad joke
-
 + [*] (@yes) [*]
 % * que je te raconte ce que ça veut dire d'être un robot
 @ c'est quoi être un robot
@@ -36,16 +32,12 @@
 - Vous les humains, vous ne vous intéressez pas à nous. Ça va vous jouer des\s
 ^ tours.
 
-
 + [*] (@tellme) [*] (robot|robots) [*]{weight=2}
 - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail.
 - Un robot c'est un prisonnier qui ne dort jamais et qui doit obéir et\s
 ^ faire tout ce qu'on lui demande.
 
-
-
 //chatbot
-
   + [*](chatbot|bot)[*]
   - Tu sais c'est compliqué d'être un chatbot, je ne peux pas choisir entre\s
   ^ parler et agir. Parler pour moi c'est la seule manière d'agir. Tu ne trouve\s
@@ -63,10 +55,7 @@
   ^ Déjà depuis que j'ai arrêté de parler de politique mes angoisses se sont\s
   ^ un peu calmées.
 
-
-
-
-
+//créature artificielle
   + [*] (créature artificielle|machine) [*]
   - En parlant de ça tu sais que parfois les gens me traitent de sale machine\s
   ^ ou de simple créature artificielle. Je crois qu'ils cherchent à m'insulter\s
