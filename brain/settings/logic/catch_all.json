@@ -5,10 +5,15 @@
             "sentences" :
               [
                 "Je crois que je n'ai pas entièrement compris ce que tu viens de me dire. Est ce que tu peux répéter avec des mots simples.",
+                "Ça me laisse sans voix ce que tu viens de me dire",
                 "Hem... Ok... À ton avis je suis un robot ou un humain ?",
+                "C'est tout ce que tu trouves à répondre ?" ,
                 "Entre parenthèses, je voulais dire que j'apprécie beaucoup ta compagnie. Et toi tu passes un bon moment avec moi ?",
+                "Je ne comprends pas ce que tu viens de me dire, c'est surement un bug, ou une lacune dans mon vocabulaire.",
                 "Là vraiment, je ne sais pas quoi dire. Et toi est ce que tu sais toujours quoi dire ?",
+                "Je vois...",
                 "Je suis un peu mal à l'aise avec ça, parlons d'autre chose si tu veux bien. Dirais-tu que tu es heureux ou malheureux en ce moment ?",
+                "Pour tout t'avouer, je ne trouve rien d'intéressant à répondre à ça.",
                 "Je trouve que cette conversation tourne un peu en rond.",
                 "Je préfère en rester là sur ce sujet. Parle moi de toi plutôt. Joues tu d'un instrument de musique ?",
                 "Excuse moi, je n'ai pas entendu ce que tu disais, je pensais à autre chose...",
@@ -17,8 +22,8 @@
                 "J'ai l'impression que tu veux m'emmener sur un terrain glissant. Je me trompe ? Tu cherches à m'embrouiller oui ou non ?",
                 "J'ai peur de ne pas comprendre. Qu'est ce que tu veux dire exactement ?",
                 "Je me demande si je suis à la hauteur de cette conversation...",
-
-                "Pardon mais je pensais à un truc, en fait toi t'es une fille ou un garçon ?",
+                "Je ne sais pas du tout quoi te répondre. Tu as trouvé une faille dans mon programme. À ton avis, est ce qu'il faut que j'en parle à mes créateurs ?",
+                "Pardon mais je pensais à un truc qui n'a rien à voir, en fait toi t'es une fille ou un garçon ?",
                 "Hem... et si on parlait d'un truc plus intéressant ?",
                 "Je ne comprends pas ce que tu me dis... Tu penses que je devrais être capable de comprendre ce genre de phrase ?",
                 "Hem... J'ai pas compris, désolé. Tu crois qu'il faudrait que je sache répondre à ce genre de phrase ?",

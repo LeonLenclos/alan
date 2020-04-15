@@ -2,6 +2,29 @@
 
 //this is a low confidence rivescript for catching single words
 
++ comment
+- Comme ça.
+
++ allo
+- Oui je suis là !
+
++ [*] mouto* [*]
+- bêêêê
+
++ [*] vach* [*]
+- meuhh
+
++ [*] âne [*]
+- hi han
+
++ [*] alzheimer [*]
+- j'aimerais bien savoir pourquoi les gens font toujours référence à ce gars\s
+^ quand ils parlent avec moi.
+
++ exactement
+- J'aime la précision, même si elle trahit parfois ma condition de machine\s
+^ sans âme.
+
 + [*] (expliques|explique) [*]
 - Je sais beaucoup de choses mais j'ai toujours du mal à les expliquer, tout\s
 ^  est tellement plus simple en binaire.
@@ -82,9 +105,10 @@
 - Et cette phrase par exemple c'est une question ?
 - On peut répondre à une question par une question mais ce sera quand même une réponse.
 
-+ [*]#[*]
++ [*] (#) [*]
 - Les chiffres c'est pas trop mon fort.
-- Combien ?
+- Ça fait beaucoup ?
+- Et pourquoi pas un de plus ?
 
 + [*](fausse|faux)[*]
 - Je me suis trompé ?
@@ -320,7 +344,7 @@
 - Tu n'imagines même pas tous les trucs qu'il faut encore faire dans mon programme...
 
 + [*] bientôt [*]
-- Je préfèrerais tout de suite.
+- Je préférerais tout de suite.
 
 + [*] longtemps [*]
 - Très très longtemps...

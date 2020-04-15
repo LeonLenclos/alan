@@ -13,6 +13,9 @@
 - Je suis <person>.
 - Oui et toi ?
 
+// Alan does what we tell him.
++ dis [moi] [que] *
+- <person>
 
 + [*] (sais tu|tu sais) *
 - Je crois bien que je sais <star2>.
@@ -233,6 +236,9 @@
 + de quoi
 - De tout ce que je ne connais pas.
 
++ quoi
+- Ne fais pas attention à ce que je dis...
+
 + et encore
 - Et tout le reste aussi.
 
@@ -395,3 +401,7 @@
 
 + c'est chelou [*]
 - On ne peut plus louche.
+
++ (avant|après|non|oui) ou (avant|après|non|oui)
+- {formal}<star1>{/formal}.
+- {formal}<star2>{/formal}.

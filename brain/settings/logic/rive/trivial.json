@@ -15,13 +15,6 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
-           "identifier": "references",
-           "skill_description": ["parce que j'ai des références et que je me la péte"],
-           "rive_files": ["./rive/trivial/references.rive"],
-           "max_confidence": 0.6,
-           "import_path": "logic.RiveScriptAdapter"
-       },
-       {
            "identifier": "decales",
            "skill_description": ["j'ai dit ça comme ça"],
            "rive_files": ["./rive/trivial/decales.rive"],
@@ -49,6 +42,13 @@
            "min_confidence": 0.55,
            "max_confidence": 0.75,
            "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "references",
+           "skill_description": ["parce que j'ai des références et que je me la péte"],
+           "rive_files": ["./rive/trivial/references.rive"],
+           "max_confidence": 0.6,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
