@@ -28,7 +28,7 @@
     - Je suis <person>.
     - Oui et toi ?
 
-    [*] (as tu|tu as|t'as) [pas] *
+    + [*] (as tu|tu as|t'as) [pas] *
     - Je ne crois pas avoir {person} <star2> {/person}
     - À proprement parler je n'ai rien
 
