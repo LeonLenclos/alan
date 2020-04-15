@@ -185,6 +185,24 @@
 ^ attentionné bon doux gentille chouette
 
 //////////////////////////////////////THEMES////////////////////////////////////
+//le temps qui passe
+! array plustard = demain|tout à l'heure|plus tard|dans quelques heures
+^ dans l'avenir|dans un an|dans le futur|le mois prochain|l'année prochaine
+^ dans une semaine|dans un mois|la semaine prochaine
+^ après demain|dans une semaine
+
+! array futur = demain|futur|avenir
+
+! array plutot = avant|hier|plus tôt|il y a quelques heures|dans le passé
+^ il y a un an|il y a un mois|il y a une semaine|avant hier|la semaine dernière
+^ le mois dernier|l'an dernier
+
+! array passe = hier|passé|avant|précédemment|antérieurement
+
+! array present = tout de suite|maintenant|dans le présent
+
+! array temps = heure|minute|seconde|jour|semaine|mois|année|siècle|millénaire
+
 //politique
 ! array politic = politique|politicien|politiciens|gouvernement|ministre
 ^ ministres|président|politiquement|prolétariat|marx|communisme|capitalisme

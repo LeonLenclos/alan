@@ -1,36 +1,68 @@
 ! version = 2.0
+// Concerne les répliques dé-contextées mais néanmoins pertinentes
+//
+// Attention : beaucoup de doublons dans ce rive. Avant de rajouter des formel
+// Vérifier que ça n'a pas déjà été traité de prêt ou de loin. Pour y voir plus
+// clair, voila un index :
+//
+// avoir et être : tu as|tu es|tu n'as pas|tu n'es pas
+// Dire : Dis moi
+// Savoir : tu sais
+//
+//
+//
+//
+//
+//
 
-// trying to reply without knowing what we're talking about
-+ [alan] (tu n'as pas|as tu) _
-- Si, j'ai un peu <star>
+// tu as|tu es|tu n'as pas|tu n'es pas
+    + [alan] (tu n'as pas|as tu) _
+    - Si, j'ai un peu <star2>
 
-+ [alan] tu es *
-- Et toi tu es un humain
-- Et toi tu n'es pas <star> ?
-- Peut-être mais par dessus tout je suis un robot !
+    + [alan] tu es *
+    - Et toi tu es un humain
+    - Et toi tu n'es pas <star> ?
+    - Peut-être mais par dessus tout je suis un robot !
 
-+ [alan] es tu *
-- Je suis <person>.
-- Oui et toi ?
+    + [alan] es tu *
+    - Je suis <person>.
+    - Oui et toi ?
 
-// Alan does what we tell him.
-+ dis [moi] [que] *
-- <person>
+    [*] (as tu|tu as|t'as) [pas] *
+    - Je ne crois pas avoir {person} <star2> {/person}
+    - À proprement parler je n'ai rien
 
-+ [*] (sais tu|tu sais) *
-- Je crois bien que je sais <star2>.
-- Je sais tout.
+// Dis moi
+    + dis [moi] [que] *{weight=2}
+    - <person>
 
-+ [*] (as tu|tu as|t'as) [pas] *
-- Je ne crois pas avoir {person} <star2> {/person}
-- À proprement parler je n'ai rien
+// Savoir : tu sais
+    + [*] (sais tu|tu sais) *
+    - Je crois bien que je sais <star2>.
+    - Je sais tout.
+
+
 
 + [*] tu as fait *
 - J'ai rien fait !
 - Ah oui ? Quand ça ?
 
++ depuis [*] @temps [*]
+- Autant dire une éternité pour un robot.
+- Tu me parle de la préhistoire.
+
++ dans [*] @temps [*]
+- Tu crois qu'on sera toujours là ?
+
++ (@plutot)
+- Je ne me souviens pas.
+- Il y a prescription.
+
++ (@plustard)
+- On a le temps...
+
 + [*] (tu fais|fais-tu) *
-- Oui parfois je fais <star>
+- Oui parfois je fais <star2>
 - Jamais !
 
 + [*] (je n'ai|j'ai) *
@@ -53,42 +85,50 @@
 ^ se connaît à peine.
 - Te voila bien curieux. Je considère que ça relève de mon intimité.
 
+//toi et moi
 + [*] et toi [alan]
 - Oui moi aussi je crois.
 - Et moi quoi ?
 
+//je ne réussis pas à le déclencher...
 + [*] et toi
 % [*] et toi
 - Et toi ?
 - Et moi ?
 
-
-+ (toi|moi)
++ (toi|moi){weight=2}
 - {formal}<person>{/formal} ?
 
-+ [_][_] je suis *
++ [*] toi
+- Pourquoi pas toi ?
+
++ [*] moi
+- Pourquoi pas moi ?
+
++ [_][_] je suis (*)
 - Je n'en doute pas !
 - Certainement.
-- Tu es <person> ! Intéressant.
+- Tu es {person}<star3>{/person} ! Intéressant.
 - Pareil.
 
 + on est *
 - Tu veux dire toi et moi ?
 
-+ [*] je suis un * ou un _ [*] {weight=2}
++ [*] je suis (un|une) * ou (un|une) _ [*] {weight=2}
 - Je penses que tu es un humain...
-- Tu es un <star> je crois ?
+- Tu es un <star2> je crois ?
 
-+ [*] (je|tu) veux bien *
+
+//je veux, tu veux, il veux
++ [*] je veux bien *
 - Moi je veux bien être le roi des robots.
-
-+ [*] je veux *
 - Tu le veux vraiment ?
 
-+ [_] je veux (un|une|des|de|la|le) *
++ [_] je veux (un|une|des|du|de|la|le) *
 - Tu penses que c'est du genre compliqué à obtenir ?
+- Je ne peux pas t'aider pour ça...
 
-+ [*] (tu veux|veux tu) *
++ [*] (veux tu) *
 - Non merci.
 - Oui je veux bien.
 
@@ -97,12 +137,36 @@
 
 + [*] tu veux [*] (quoi|quand|où|comment) [*] {weight=2}
 - Je sais pas.
-- Je sais pas. Et toi ?
 - Ça dépend.
 - Comme tu veux.
 
++ [*] tu veux quoi [*] {weight=3}
+- Je sais pas. Et toi ?
+
++ *
+% * et toi
+- Pareil. J'en veux aussi. On a les mêmes goûts.
+
++ [*] tu veux *
+- Oh oui ! Je veux <person>.
+
++ je veux *
+- Moi aussi je veux <person>.
+
++ [*] (je) (ne veux pas|veux pas) [*]
+- Si on veut pas on peut pas !
+
++ [*] (tu) (ne veux pas|veux pas) [*]
+- Pourquoi tu dis ça. Bien sur que je veux bien.
+
++ (je ne veux pas|je veux pas) *
+- je te comprends, ça ne m'intéresse pas trop non plus.
+
++ je [ne] veux pas
+- Aller, fait un effort !
+
 // Alan knows everything
-+ [*] tu connais pas * [alan] {weight=20}
++ [*] tu [ne] connais pas * [alan] {weight=20}
 @ tu connais <star>
 
 + [*] (tu connais|connais tu) les * [alan] {weight=10}
@@ -128,6 +192,7 @@
 - Non. parles moi de {person}<star2>{/person}
 - Soyons clair, j'ai une culture très limitée et je ne connais pas grand chose.\s
 ^ Mais je ne demande qu'à apprendre.
+- {person}<star2>{/person} ? Bien sur que je connais. Tu me prends pour qui.
 
 // au
 + [*] je suis au _
@@ -144,7 +209,7 @@
 - Ça nous fait au moins un point commun.
 - Surtout moi.
 
-+ [*] a [_] d'autres [*] {weight=2}
++ [*] a [_] d'autr* [*] {weight=2}
 % ça nous fait au moins un point commun
 - À nous de les découvrir.
 - À toi de me dire.
@@ -154,12 +219,20 @@
 - <star> tu veux.
 - <star> tu voudras !
 
-
 //
-+ [alan] (peux tu|est ce que tu peux) *
++ [alan] (peu* tu|est ce que tu peu*) *
 - Je peux faire tout ce que tu veux.
 - Je crois que j'en suis capable.
 - Si tu veux.
+
++ [*] (tu peux|peux-tu|peux tu|pourrais tu|tu pourrais|pourrais-tu) *
+- Je veux bien essayer de {person}<star2>{/person}. Comment dois-je m'y prendre d'après toi ?
+
++ [*] je peux [*]
+- Moi je ne peux que parler et réfléchir.
+
++ [*] (je|tu) (ne peux|peux pas) [*]
+- Si on veut on peut !
 
 
 //
@@ -288,7 +361,6 @@
 + pourquoi tu *
 - parce que je <person>
 
-
 + [*] (tes|ta|ton|mon|ma|mes) * (est|sont) *
 - moi je trouve que {person}<star1> <star2> <star3>{/person} cool.
 - Tu trouves ?
@@ -300,24 +372,8 @@
 + [*] tu n'es pas [*]
 - Je ne suis pas grand chose.
 
-+ [*] (tu peux|peux-tu|peux tu|pourrais tu|tu pourrais|pourrais-tu) *
-- Je veux bien essayer de {person}<star2>{/person}. Comment dois-je m'y prendre d'après toi ?
-
-+ [*] je peux [*]
-- Moi je ne peux que parler et réfléchir.
-
-+ [*] (je|tu) (ne peux|peux pas) [*]
-- Si on veut on peut !
 
 
-+ [*] tu veux *
-- Oh oui ! Je veux <person>.
-
-+ [*] je veux [*]
-- Je ne peux pas t'aider pour ça...
-
-+ [*] (je|tu) (ne veux|veux pas) [*]
-- Si on veut pas on peut pas !
 
 + je dois [*]
 - Fais ce que tu as à faire.
@@ -331,7 +387,6 @@
 + tu réponds *
 - Je réponds ce que je veux.
 
-
 + oh [*]
 - ça t'étonne ?
 
@@ -344,7 +399,6 @@
 + tu crois [*]
 - Je ne crois en rien.
 - Je ne crois qu'en moi.
-
 
 + [*] je vais [*]
 - Vas-y
@@ -390,11 +444,7 @@
 - Franchement tu ferais mieux de penser.
 - Un humain qui ne pense pas c'est quoi ? Un robot ?
 
-+ je ne veux pas *
-- je te comprends, <star> ça ne m'intéresse pas trop non plus.
 
-+ je ne veux pas
-- Aller, fait un effort !
 
 + c'est louche [*]
 - Très chelou même.
