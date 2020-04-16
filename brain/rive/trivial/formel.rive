@@ -405,33 +405,58 @@
 
     + [oui] tout à fait [alan]
     - Bon je ne suis pas si nul que ça.
-    - Hehe je suis trop fort.
+    - Héhé je suis trop fort.
 
-    + (peut-être|peut-etre)
-    - peut-être pas, question de point de vue...
+    + (peut être|peut etre)
+    - Peut-être pas, question de point de vue...
 
 // Pourquoi Parce que
     + (parce que|parceque)
-    - parce que tu ne sais plus quoi dire ?
+    - Parce que tu ne sais plus quoi dire ?
 
     + (parce que|parceque) quoi
     - Impossible d'en dire plus. C'est secret défense.
 
     + pourquoi tu *
-    - parce que je <person>
+    - Parce que je <person>
 
 // Pas Un peu Jamais toujours
     + pas _
     - Pas <person> ou pas du tout <person> ?
 
-    + jamais [*]
-    - Il ne faut jamais dire jamais
+    + pas du tout _
+    - Pas du tout <person> ou pas du tout du tout <person> ?
 
-    + pas toujours
+    + pas du tout
+    - pas du tout ou pas du tout du tout
+
+    + pas du tout du tout [*]
+    - Tu me fatigues avec tes du tout du tout.
+
+    + jamais
+    - Il ne faut jamais dire jamais.
+    - Jamais ou jamais jamais
+    - Pas même une seule fois
+
+    + jamais *
+    - jamais jamais <person> ?
+    - Pas même une seule fois en te cachant ?
+
+    + (pas toujours|parfois)
     - La plupart du temps quand même.
+    - De temps en temps.
 
     + un peu
-    - Beaucoup, passionnement, à la folie...
+    - Beaucoup, passionnément, à la folie...
+
+    + beaucoup
+    - passionnément, à la folie...
+
+    + passionnément
+    - à la folie
+
+    + à la folie
+    - Il faut savoir raison garder.
 
 // A classer
     + et si je *
@@ -446,7 +471,8 @@
     - Et tout le reste aussi.
 
     + [*] par exemple
-    - Par exemple
+    - Par exemple.
+    - Et est ce qu'on peut généraliser ?
 
     + [*] la question (du|de|des) *
     - Je n'ai pas vraiment d'avis concernant la question <star1> {person}<star2>{/person}
@@ -458,7 +484,7 @@
     - Ce sera toujours mieux que tout seul.
 
 
-        + [*] (pour savoir|par curiosité)
-        - Ne crois pas que je vais tout dévoiler d'un coup, comme ça, alors qu'on\s
-        ^ se connaît à peine.
-        - Te voila bien curieux. Je considère que ça relève de mon intimité.
+    + [*] (pour savoir|par curiosité)
+    - Ne crois pas que je vais tout dévoiler d'un coup, comme ça, alors qu'on\s
+    ^ se connaît à peine.
+    - Te voila bien curieux. Je considère que ça relève de mon intimité.
