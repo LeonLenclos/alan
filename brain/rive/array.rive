@@ -352,6 +352,7 @@
 
 ! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
 
+! array siteweb = netflix google wikipedia facbook youtube instagram twitter
 
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
@@ -386,18 +387,29 @@
 ! array collab = léon|bertrand|fabien|alan|pascale|amparo|francis|virginie
 ^ michel|tim|philippe|isabelle|thomas|véronique|michael
 
+! array grimrobots = otto|matt|lucy|echo|turc|jimi|foot|core|klan|caro|dodo|karl
 
 ///////////////////////////SPECTACLE///////////////////////////////////////////
 
 //résidences et dates à mettre à jour...
+! array particip = drac|région occitanie|mairie de graulhet
+
+! array particip2 = adami
+
+! array particip3 = 104
+
+! array coprod = quai des savoirs|scène nationale d'albi|sna|graines de rue|qds
+
+! array soutiens1 = usinotopie|été de vaour|adda82|adda 82
+^ espace bonnefoy|irit|usino
+
+! array soutiens2 = mixart|mixart myrys|mjc de rodez|circa|odyssud|mjc rodez|mima
+^ théâtre des mazades|toulouse métropole|cinéma vertigo|vertigo
+
 ! array residencestt = toulouse|bessines|villemur sur tarn|montauban
 ^ vaour|paris|rodez|blagnac
 
 ! array datestt = toulouse|ax les thermes|ax|auch|cauteret|mirepoix|bessines
-
-! array grimrobots = otto|matt|lucy|echo|turc|jimi|foot|core|klan|caro|dodo|karl
-
-! array siteweb = netflix google wikipedia facbook youtube instagram twitter
 
 ////////////////////////////SYNONYMES VERBE/ACTION///////////////////////////////////////////
 ! array areyou = es tu|est ce que tu es|tu es
