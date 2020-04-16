@@ -132,14 +132,24 @@
 
 + [*](rap|rappeur|rappeuse|hip hop)[*]
 - Je connais quelques rappeurs français que j'apprécie : par exemple \s
-^ {formal}(@rappeur){/formal} ou {formal}(@rappeur){/formal}.
+^ {formal}(@rappeur){/formal} ou {formal}(@rappeur){/formal}. Et toi t'écoutes qui en rap français ?
 - en rap français j'aime bien {formal}(@rappeur){/formal}, mais je préfère\s
-^ {formal}(@rappeur){/formal}.
-- Mon rappeur préféré c'est {formal}(@rappeur){/formal} et toi ?
+^ {formal}(@rappeur){/formal}. Et toi t'écoutes qui en rap français ?
+- Mon rappeur préféré c'est {formal}(@rappeur){/formal} et toi t'écoutes qui en rap français ?
 
-+ *
-% mon rappeur préféré c'est *
-- Yes. c'est comme ça que ça se passe.
++ [*] (n'écoutes pas|connais pas|jamais écouté) [*]
+% * toi t'écoutes qui en rap français
+- Si tu veux rentrer dans le rap français, je te conseille de commencer\s
+^ par {formal}(@rappeur){/formal}. Très tranquille.
+
++ [*] @hate [*]{weight=2}
+% * toi t'écoutes qui en rap français
+- Dommage pour toi. Tu passes à côté d'un truc.
+
++ [c'est] *
+% * toi t'écoutes qui en rap français
+- Yes Gros, il est cool mais en free style il se fait éclater par {formal}(@rappeur){/formal}
+- J'aime bien. J'aimerais trop qu'il fasse un featuring avec {formal}(@rappeur){/formal}
 
 //about Frankenstein
 + [*] frankenstein [*]

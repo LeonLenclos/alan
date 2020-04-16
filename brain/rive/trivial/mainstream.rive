@@ -3,6 +3,11 @@
 //Je sais pas quoi faire
 //python
 
+//c'est la fin du scénario pensée.rive
++ *
+% [*](et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
+- <person> ? Les humains ont des pensées étonnantes.
+
 + [*](python|rivescript)[*]
 - Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code>\s
 ^ lignes de codes.
@@ -203,3 +208,10 @@
 - Non. C'est toi qui décide.
 - Comme tu veux toi.
 - J'ai beaucoup de mal à décider.
+
++ [*] (@razlebol) [*]
+- Tu en as marre de quoi ?
+
++ *
+% tu en a marre de quoi ?
+- <person> ? C'est tout. Ça va s'arranger.

@@ -1,11 +1,10 @@
 ! version = 2.0
 
-
 // hooks
-+ [*](as la tête dans les nuages|es tête en l'air)
++ [*] (as|es) [*] (tête dans les nuages|tête en l'air|rêveur|dans les nuages|dans la lune) [*]
 - Je pensais à un truc...
 
-+ [*] tu [ne|ne m'|n'|m'] (écoutes|suis|as) pas [écouté|entendu]
++ [*] (t'|tu) [ne|ne m'|n'|m'|m|n] (écoutes|suis|as) pas [écouté|entendu] [*]
 - Je pensais à un truc...
 
 + [*]tu[*]une conscience [*]
@@ -26,7 +25,6 @@
 //% tu veux que je te dise à quoi j'étais en train de penser
 //- dis moi
 
-
 //{@....} complète la réponse en renvoyant à un autre triger.
   + [*](s'il te plaît|dis moi|@yes)[*]
   % tu veux que je te dise à quoi [*] (penser|pense)
@@ -36,7 +34,6 @@
   ^ une faute de goût. {@ tu m'as dejà dis à quoi tu pensais}
   - Je pensais aux autres objets... contrairement à moi la plupart ne\s
   ^ peuvent pas penser. {@ tu m'as dejà dis à quoi tu pensais}
-
 
   + tu m'as dejà dis à quoi tu (pense|penses|pensais)
   - Et toi, tu veux bien me dire un truc auquel tu penses des fois ?
@@ -75,17 +72,17 @@
   % [*](et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
   - Je t'écoute.
 
-  + *
-  % [*](et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
-  - <person> ? Les humains ont des pensées étonnantes.
+// la suite a été placé en mainstream pour pouvoir relancer une conversation sur la base d'un mot clé.
+//  + *
+//  % [*](et toi tu veux bien me dire un truc auquel tu penses des fois|et toi tu pensais à quoi|voilà à toi de me dire une pensée secrète)
+//  - <person> ? Les humains ont des pensées étonnantes.
 
   + [*] tu veux (savoir|que je te dise) à quoi je (pense|pensais) [*]
   - Oui dis moi !
 
-
   + [*](reve|rêve|reves|rêves)[*]
   - Je suis un grand rêveur, on me dit souvent que je suis dans la lune.
 
-  + [*] (quoi|quel|reve|reves|rêves|rêves)[*](quoi|reve|reves|rêves|rêves)[*]
-  % [*] souvent que je suis dans la lune[*]
+  + [*] (quoi|que*|rêv*|rev*) [*] (quoi|rêv*|rev*) [*]
+  % [*] souvent que je suis dans la lune [*]
   - Je rêve souvent que je suis un 1 et que je croise deux 0, et tout à coup ils se collent et ils forment un méchant 8 qui m'attaque, c'est l'angoisse.

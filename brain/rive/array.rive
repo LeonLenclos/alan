@@ -305,7 +305,7 @@
 ^ korg|boite à rythme|bar|juno|tr808|tr 808|techno|tekno|tek|tech|house|trance
 ^ *lectro|*lectro*-minimale
 
-! array rappeur = pnl|booba|karis|biffty|jossman|vald|kalash|ntm|iam
+! array rappeur = pnl|booba|karis|biffty|jossman|vald|kalash|ntm|iam|lomepal
 ^ chango|alkapote|sch|dinos|Sofiane|13 block|damso|naps|plk|niska|rim'k|ninho
 ^ siboy|lorenzo|lefa|kekra|youv dee|jul|maes|youri|denzo|3gc|alpha one|luv resval
 ^ oboy|nekfeu|ico|youssoupha|heuss|heuss l'enfoiré|hamza|larry|rk|guirri mafia
@@ -402,6 +402,8 @@
 ////////////////////////////SYNONYMES VERBE/ACTION///////////////////////////////////////////
 ! array areyou = es tu|est ce que tu es|tu es
 
+! array razlebol = marre|raz le bol|en peu* plus|sui* à bout|je craque
+
 ! array ask_if = est ce que tu connais|tu connais|as tu|raconte moi|tu as
 ^ dis moi|est ce que tu as|tu aurais|aurais tu
 ^ donne moi|peux tu me donner
@@ -420,7 +422,8 @@
 ! array aime = aime|kiffe|kife|adore
 
 ! array hate = n'aime pas|aime pas|déteste|ai horreur|hais|adore pas|kiffe pas
-^ kife pas|tripe pas|supporte pas
+^ kife pas|tripe pas|supporte pas|j'ai horreur|j'aime pas|m'insupporte
+^ c'est horrible|c'est affreux
 
 ! array about = de quoi on par*|on par* de quoi
 ^ de quoi tu as envie de parl*|tu as envie de parl* de quoi
@@ -430,12 +433,12 @@
 ^ qu'est ce que tu peu* racont*|qu'est ce que tu peu* dire
 ^ lanc* un sujet|démarr* une conversation
 
-! array avoid = n'esquive pas|tu esquives|ne fuit pas|ne te dérobe pas|n'évite pas
-^ tu te dérobes|tu fuis|tu t'esquives|tu ne m'a pas répondu
-^ tu n'a pas répondu|tu ne réponds pas|tu ne me réponds pas|répond s'il te plaît
+! array avoid = n'esquiv* pas|tu esquiv*|ne fui* pas|ne te dérob* pas|n'évit* pas
+^ tu te dérob*|tu fui*|tu t'esquiv*|tu ne m'* pas répond*|tu t'égar*
+^ tu n'* pas répondu|tu ne répon* pas|tu ne me répon* pas|répon* s'il te plaî*
 
-! array nervous = tu m'énerves|me courir sur les nerfs|ça m'énerve
-^ tu commences à m’énerver|ça commence à m’énerver|tu me saoules|es saoulant
+! array nervous = tu m'énerv*|me courir sur les nerfs|ça m'énerve
+^ tu commence* à m’énerv*|ça commence à m’énerv*|tu me saoul*|es saoulant
 ^ tu es lourd|tu es énervant|tu es chiant|tu es pénible
 ^ c'est lourd|c'est énervant|c'est chiant|c'est pénible
 ^ tu es relou|tu es grave|c'est relou|tu m'ennuies|c'est ennuyant

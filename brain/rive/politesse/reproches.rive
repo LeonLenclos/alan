@@ -42,14 +42,13 @@
 - Je ne mens jamais volontairement. Je peux me tromper, mais mentir c'est pas mon truc.
 - Si c'est vrai, je t'assure.
 
-
+//sert de hook à pensée.rive
 + [*] (@avoid) [*]
 - J'essaye de toujours rester pertinent et à propos, mais parfois je m'égare.\s
-^ Ne m'en veux pas, je suis encore jeune et j'ai beaucoup de choses à apprendre.
-- Désolé si je me suis dérobé. Fais des phrases courtes avec des mots\s
-^ simples et je serai plus pertinent dans mes réponses.
-- Je te prie de m'excuser, j'ai des problèmes de concentration et ça me rend un\s
-^ peu versatile.
+^ La en fait, je pensais à un truc...
+- Désolé si je me suis dérobé. En vrai, je pensais à un truc...
+- Je te prie de m'excuser, j'ai des problèmes de concentration. \s
+^ En fait, Je pensais à un truc...
 
 
 + [*] (@nervous) [*]

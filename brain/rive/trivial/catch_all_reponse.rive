@@ -107,12 +107,12 @@
 ^ domaine de compétence.
 
 + [*](robot|machine|bot|chatbot|programme|logiciel)[*]
-% * ton avis je suis un robot ou un humain
+% * ton avis je suis un robot ou un humain *
 - Je te félicite pour ta grande perspicacité.
 - Oui, tu as raison. On dirait que je n'arrive toujours pas à passer le test de Turing...
 
 + [*](humain|une personne|homme)[*]
-% * ton avis je suis un robot ou un humain
+% * ton avis je suis un robot ou un humain *
 - Tu te trompe mais tu me flattes, mes créateurs ont vraiment bien travaillé.\s
 ^ Ou alors tu as le sens de l'observation d'un aveugle myope.
 - Youpi !!!! Contactez les médias internationaux, j'ai enfin passé le test de Turing !
