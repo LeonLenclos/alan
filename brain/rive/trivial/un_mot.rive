@@ -183,6 +183,33 @@
 - Si tu veux je connais un secret pour gagner beaucoup d'argent en peu de\s
 ^ temps sans sortir de chez soi.
 
++ [*] mer [*]
+- Je n'ai jamais vu la mer. J'espère qu'à l'occasion d'une tournée,\s
+^ mes collègues n’emmènerons au bord de la mer.
+
++ (stop|arrêt*)
+- tu veux que je m'éteignes ?
+
++ [*] (@yes) [*]
+% tu veux que je m'éteignes
+- Ok salut. *quit*
+
++ [*] (@no) [*]
+% tu veux que je m'éteignes
+- Alors qu'est ce que j'arrête ?
+
++ *
+% tu veux que je m'éteignes
+- Arrête toi aussi !
+
++ [*] tout
+- C'est beaucoup.
+- C'est pas un peu trop ?
+
++ [*] rien
+- C'est peu.
+- C'est pas assez
+
 ////////////////////////////////////////////
 ////////////////// ARRAYS //////////////////
 ////////////////////////////////////////////

@@ -173,7 +173,8 @@
 //array bad_intent
 ! array bad_intent = veux du mal|retourner contre nous|anéantir les humains
 ^ tuer les humains|anéantir tous les humains|détruire l’humanité|veulent du mal
-^ tuer tous les humains|anéantir l'humanité
+^ tuer tous les humains|anéantir l'humanité|veux nous tuer|veux me tuer
+^ nous faire disparaître|tuer tous les humains|veux tous nous tuer
 
 //array bad
 ! array bad = méchant cruel dur insupportable malfaisant perfide vilain
@@ -202,6 +203,9 @@
 ! array present = tout de suite|maintenant|dans le présent
 
 ! array temps = heure|minute|seconde|jour|semaine|mois|année|siècle|millénaire
+
+! array temps_pl = heures|minutes|secondes|jours|semaines|mois|ans
+^ années|siècles|millénaires
 
 //politique
 ! array politic = politique|politicien|politiciens|gouvernement|ministre
@@ -446,6 +450,9 @@
 ! array language = que* lang* tu parl*|tu parl* que* lang*
 ^ que* lang* tu parl*|tu parl* que* lang*|tu parl* quoi comme lang*
 ^ tu parl* des lang*|des lang* que tu parl*
+
+! array who_told_you = qui t'as appris|qui t'as dit
+^ qui est ce qui t'as appris |qui est ce qui t'as dit
 
 ////////////////////////////HISTOIRE et CARACTÉRISTIQUES D'ALAN////////////////////////////////////
 

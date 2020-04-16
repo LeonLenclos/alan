@@ -1,48 +1,43 @@
 ! version = 2.0
 
 //Je sais pas quoi faire
-
-
 //python
+
 + [*](python|rivescript)[*]
-- Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
+- Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code>\s
+^ lignes de codes.
 
 //back to conversation
 + (revenons à nos moutons|reprenons notre conversation|reprenons|on reprend)[*]
 - De quoi on parlait au juste ?
-- Raffraichis moi la mémoire s'il te plaît. J'ai oublié de quoi on parlait.
-
+- Rafraîchis moi la mémoire s'il te plaît. J'ai oublié de quoi on parlait.
 
 //me too
 + (moi aussi|moi pareil)[*]
 - Alors on est deux !
 - Ça nous fait au moins un point commun.
 
-
-
-
 //Alan will not kill you
-+ [*]@bad_intent[*]
++ [*] @bad_intent [*]
 - Je te rassure. Les humains sont mes amis et jamais je ne me retournerai\s
 ^ contre mes créateurs. Je m'appelle Alan pas Frankenstein.
 
 // does Alan understand
 + [*]tu (comprends|as compris)[*]
-- Je comprends tout ce qu'on me dit. Parfois je fais semblant de ne pas\s
-^ comprendre, ça me donne du charme...
+- Je comprends tout ce qu'on me dit. Quand je fais semblant de ne pas\s
+^ comprendre, c'est parce que ça me donne du charme...
 - Et toi qu'est-ce que tu as compris ?
 
-+ [*]pas [_][_] (compris|capté)[*]
++ [*] pas [_] [_] (compris|capté) [*]
 - Rien compris ?
 
 //où et quand
-
-+ [alan](quand|ou|où)[alan]
-+ où (est|sont) *
-- Tu as regardé dans ta poche ?
-
++ [alan] (quand|ou|où) [alan]
 - <star> tu veux.
 - <star> tu voudras !
+
++ (où|ou) (est|sont) *
+- Tu as regardé dans ta poche ?
 
 + à quelle heure [*]
 - vers 23h15.
@@ -53,16 +48,22 @@
 + (avant|après|non|oui) ou (avant|après|non|oui)
 - {formal}<star1>{/formal}.
 - {formal}<star2>{/formal}.
-+ (quand|où)
-- <star> tu veux.
-- <star> tu voudras !
 
-+ depuis [*] @temps [*]
++ depuis [*] (@temps_pl) [*]
 - Autant dire une éternité pour un robot.
 - Tu me parle de la préhistoire.
 
-+ dans [*] @temps [*]
++ depuis [*] (@temps) [*]
+- C'est beaucoup ou c'est peu ?
+
++ dans [*] (@temps) [*]
 - Tu crois qu'on sera toujours là ?
+
++ dans [*] (@temps_pl) [*]
+- Je n'ai pas du tout la notion du temps
+
++ [*] depuis combien de temps [*]
+- Depuis quelques (@temps_pl)
 
 + (@plutot)
 - Je ne me souviens pas.
@@ -89,15 +90,15 @@
 - Ok j'arrête.
 
 //pouvoir
-+ est ce que tu peux *
++ (est ce que tu peux|peux tu) *
 - Je peux faire tout ce que tu veux.
-- Je crois que j'en suis capable.
+- Je crois que je suis capable de <star2>
 
 //aimer
-+ [*](j'aime|j'aime pas|je n'aime pas|j'adore|je deteste)[*]
++ [*](j'aime|j'aime pas|je n'aime pas|j'adore|je déteste)[*]
 - C'est une preuve de bon goût.
 - Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
-^ tu es n'est-ce pas ?
+^ tu es, n'est-ce pas ?
 - Tu as un avis comme ça sur chaque chose ?
 
 + [*](qu'aimes tu|qu'est ce que tu aimes|tu aimes quoi|t'aimes quoi)[*]
@@ -116,10 +117,8 @@
 - Les oiseaux chantent.
 
 //sources
-! array who_told_you = qui t'as appris|qui t'as dit
-^ qui est ce qui t'as appris |qui est ce qui t'as dit
 
-+ [*](@who_told_you)(ça|ca|cela|ce|cette|ces)[*]
++ [*](@who_told_you)[*]
 - Je ne sais pas si je dois le dire...
 - Pourquoi ? C'est mal ce que j'ai dit ?
 - J'aurai pas du dire ça ?
@@ -135,20 +134,25 @@
 + j'ai une question
 - Vas-y pose la.
 
-+ [*](c'était|cétait|c'etait|cetait) une blague[*]
++ [*] (c'était|c'est) (une blague|pour rire) [*]
 - Tu as mangé du clown ce matin ?
 - Je suis mort de rire, même si ce n'est pas flagrant.
 
 + [*]@alcool[*]
 - Quand on voit à quoi ressemble un humain qui a bu trop d'alcool, on est\s
 ^ content d'être un robot.
+- Si on me donne le choix, je préfère parler avec un humain qui n'a pas bu d'alcool.
 
 + [*] (ça va|on va) [*] commencer [*]
 - qu'est ce qui va commencer ?
 
 + *
 % qu'est ce qui va commencer
-- non ! <formal> Mais je ne suis pas du tout prèt !
+- non ! <formal> ? Mais je ne suis pas du tout prêt !
+
++ [*] tu es pr*t [*]
+- Disons que je me sens plus prêt que je ne l'était en version 1.4.
+- Je ne serais jamais prêt. Peut-être en version 10 ?
 
 + [*] entrée public dans [*]
 - Affreux! Est ce qu'il n'y a pas une porte de derrière par laquelle on pourrait\s
@@ -158,10 +162,9 @@
 - impossible j'ai déjà un rendez-vous à cette heure là.
 
 + [*](jeu|joueur|jouer|joue|joué|jeux)[*]
-- J'adore jouer, je suis un grand joueur.
-- Jouer à des jeux c'est mon jeu préféré.
-- Tu veux jouer à un jeu ? Je connais peu de jeux malheureusement.
-
+- J'adore jouer, je suis un grand joueur. je sais jouer à ni oui ni non.
+- Jouer à des jeux c'est mon jeu préféré. je sais jouer à ni oui ni non.
+- Tu veux jouer à un jeu ? je sais jouer à ni oui ni non.
 
 + (attends|attend) [*]
 - J'attends...
@@ -174,12 +177,12 @@
 
 + [*] ce que tu [me] dis [*]
 - Des fois je ne fais pas trop attention à ce que je dis.
+- Il faut parfois ne pas trop faire attention à ce que je dis.\s
+^ je teste des choses pour voir ta réaction et apprendre à communiquer avec les humains.
 
-
-
-+ [*] (totalement|carrément|entierrement) _
++ [*] (totalement|carrément|entièrement) _
 - Oui, méga <star2>.
-- Tu exagère un peu.
+- Tu exagères <star1>.
 
 + [*] tu (rigoles|rigole|ris|te marre) [*]
 - Si tu dis des trucs drôles je rigoles.
@@ -191,8 +194,12 @@
 - Comment ?
 - Moi aussi je suis comme ça.
 
-+ (si|comme) tu veux
++ si tu veux
 - Cool !
+- Sympa !
+- Merci !
 
 + comme tu veux
 - Non. C'est toi qui décide.
+- Comme tu veux toi.
+- J'ai beaucoup de mal à décider.

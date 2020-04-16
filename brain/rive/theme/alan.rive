@@ -397,8 +397,6 @@
 
 //Alan et les jeux
 
-! array jeux = echecs|cartes|dés|jeux vidéos|puissance 4|rami|gabo|pollos para todos|morpion|morpions
-
 + [*](@jeux)[*]
 - Je ne connais pas ce jeu mais je sais jouer à ni oui ni non.
 
