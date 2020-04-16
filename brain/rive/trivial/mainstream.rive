@@ -36,9 +36,48 @@
 - Rien compris ?
 
 //où et quand
+
++ [alan](quand|ou|où)[alan]
++ où (est|sont) *
+- Tu as regardé dans ta poche ?
+
+- <star> tu veux.
+- <star> tu voudras !
+
++ à quelle heure [*]
+- vers 23h15.
+- un peu avant minuit.
+- Après le coucher du soleil.
+- Ça dépend.
+
++ (avant|après|non|oui) ou (avant|après|non|oui)
+- {formal}<star1>{/formal}.
+- {formal}<star2>{/formal}.
 + (quand|où)
 - <star> tu veux.
 - <star> tu voudras !
+
++ depuis [*] @temps [*]
+- Autant dire une éternité pour un robot.
+- Tu me parle de la préhistoire.
+
++ dans [*] @temps [*]
+- Tu crois qu'on sera toujours là ?
+
++ (@plutot)
+- Je ne me souviens pas.
+- Il y a prescription.
+
++ (@plustard)
+- On a le temps...
+
++ [*] je suis au _
+- Je ne suis jamais allé au <star>.
+- Hem... Où est-ce que c'est le <star> ?
+
++ [*] je suis à la _
+- Je ne suis jamais allé à la <star>
+- Ham... Où est-ce que c'est la <star>
 
 //stop
 + (arrête|stop) *
