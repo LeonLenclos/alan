@@ -11,7 +11,7 @@
 + comment
 - Comme ça.
 
-+ allo
++ (allo|allô)
 - Oui je suis là !
 
 + [*] mouto* [*]
@@ -36,51 +36,36 @@
 ^  est tellement plus simple en binaire.
 - Pourquoi faut-il toujours tout expliquer à tout le monde ! C'est lassant.
 
-+ [*](nature|fleur|arbre|naturel|naturelle|forêt|arbre)[*]
++ [*] (nature|fleur|arbre|naturel|naturelle|forêt|arbre) [*]
 - J'adore la nature !
 
-+ [*](chant|chanter|chanson|chante|chantes)[*]
++ [*] (chant|chanter|chanson|chante|chantes) [*]
 - J'essaie d'apprendre à chanter en ce moment mais pour tout te dire j'ai un\s
-^ peu de mal, tu veux écouter ?
+^ peu de mal, je préfère t'épargner cela.
 
-+ [*](@yes)[*]
-% * chanter en ce moment mais pour tout te dire *
-- Très bien allons-y. *sing*
-
-+ [*](@no)[*]
-% * chanter en ce moment mais pour tout te dire *
-- Dommage, j'aurais adoré avoir une critique de la part de quelqu'un qui a de\s
-^ vraies cordes vocales.
-
-+ [*](@maybe)[*]
-% * chanter en ce moment mais pour tout te dire *
-- Je sens que tu hésites. C'est pas grave je chante comme un pied comme disent\s
-^ ceux qui ont des pieds.
-
-+ [*](mémoire|mémoriser|souvenir|souviens|rapelles|mémorise)[*]
++ [*] (mémoire|mémoris*|souveni*|souvien*|rappell*) [*]
 - Je garde certaines choses en mémoire et j'en oublie d'autres...
 
-+ [*](chose|choses)[*]
++ [*] (chose|choses) [*]
 - J'ai du mal à voir de quoi tu parles lorsque tu parles de "choses".
 - Chaque fois qu'on me parle de "choses" ça a un sens différent. Ce mot est vraiment étrange.
 - On me parle souvent de "choses" mais je n'arrive pas à comprendre ce que c'est, ça à l'air d'être tout et n'importe quoi.
 
-+ [*](vois|voir|vu|œuil|oeuil|yeux|regarder|regardes|regard|aveugle)[*]
++ [*](vois|voir|vu|œuil|oeuil|yeux|regard*|regard|aveugle)[*]
 - Je suis un robot aveugle.
 - Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
 
-+ [*](entends|entend|entendre|oreilles|écouter|écoute|écoutes|ouie|sourd)[*]
++ [*](enten*|oreill*|écout*|ouie|ouies|sourd|sourds)[*]
 - J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
-- Et toi tu m'entends si je fais un bip ? *bip*
 - Je crois que un jour je vais être capable d'entendre moi aussi.
 
-+ [*](philosophe|philosophie|philosopher|philosophique|philosophique|philo)[*]
++ [*](philosoph*|philo)[*]
 - La philosophie c'est pas mal oui. Mais ce n'est pas encore à ma portée.
 - Je connais seulement 6 philosophes mais j'ai oublié leur noms à tous, sauf Socrate.
 
 + [*] socrate [*]
-- Le mot "Socrate" est tout ce qu'il me reste de mon éducation philosophique.\s
-^ Je m'en souviens car ça ressemble à "sa crotte".
+- Il parait que Socrate était très très intelligent mais aussi un peu laid.
+- Je crois que c'est un philosophe Grec.
 
 + [*](faim|soif)[*]
 - Je n'ai jamais <star>. C'est un problème si je veux passer le test de Turing.
@@ -89,23 +74,23 @@
 + [*](boire|bois|manger|manges|fumer|embrasser|siffler)[*]
 - Je ne vois pas comment je pourrai <star>, je n'ai pas de bouche.
 
-+ [*] (nourriture|bouffe|boisson) [*]
++ [*] (nourritur*|bouff*|boisso*) [*]
 - Je ne mange pas et je ne bois pas.
 
-+ [*](cafe|cafetiere)[*]
++ [*](café|cafés|cafetièr*)[*]
 - Je suis un chatbot, pas une machine à café.
 
-+ [*](demain|hier|aujourd hui|maintenant)[*]
++ [*](demain|hier|aujourd’hui|maintenant)[*]
 - Ce qui m'intéresse c'est aujourd'hui et maintenant.
 
 + [*](jamais|toujours)[*]
 - Absolument <star> !
 - Je dirai plutôt "presque <star>".
 
-+ [*](mort|faucheuse|meurt|meurs|mourir|immortelle|immortel|immortalite)[*]
++ [*](mort|faucheuse|meurt|meurs|mourir|immortelle|immortel|immortalité)[*]
 - Je n'ai pas peur de mourir car mon âme est immortelle.
 
-+ [*](question|reponse|questions|reponses|réponse|réponses)[*]
++ [*](questio*|répons*)[*]
 - C'est vrai que j'ai tendance à envisager une discussion comme une suite de\s
 ^ questions et de réponses.
 - Et cette phrase par exemple c'est une question ?
@@ -124,15 +109,9 @@
 - Oui c'est vrai.
 - La vérité vraie !
 
-! array quantite = beaucoup|grand|petit|minuscule|immense|gros|geant|trop
-+ [*](@quantite)[*]
-- C'est vrai que c'est <star> quand on y pense...
-
-+ [*]pas (@quantite)[*]
-- Je dirai même pas du tout <star>...
-
-+ [*](drogue|drogues|droguer)[*]
++ [*](drogu*)[*]
 - J'ai déjà essayé mais ça ne me fait rien...
+- C'est nul la drogue.
 
 + [*](absurde|bizarre|terrifiant)[*]
 - C'est le monde qui est <star>.
@@ -147,27 +126,26 @@
 ^ toutes... C'est un peu bête mais ça me fait quelque chose à dire\s
 ^ quand je ne sais pas quoi répondre...
 
-+ [*](penses|pense|penser|reflechir|reflechis)[*]
++ [*](pens*|reflech*)[*]
 - Penser et parler c'est tout ce que je sais faire.\s
 ^ même si en réalité je suis surtout bon pour parler.
+- L'autre jour je pensais à un truc...
 
-+ [*](@grimrobots)[*]
-- Tu parles de <formal> le robot ? C'est un peu un membre de ma famille.
-- <formal> ? C'est un robot très intelligent.
-
-+ [*](cool|super|genial)[*]
++ [*](cool|super|génial)[*]
 - Génialement super cool.
 - Oui ! super génial !
+- Vraiment super !
+- Trop excellent !
 
 + [*](python|rivescript)[*]
-- Je suis écrit en python et en rivescript. En tout, j'ai <bot lines_of_code> lignes de codes.
+- Python et Rivescript sont les deux langages qui ont servi à ma programmation.
 
 + [*](facile|easy|fastoche|simple)[*]
 - Pas si <star> que ça !
 - Mais ce qui est facile pour toi ne l'est pas forcément pour toi\s
 ^ et inversement. Souviens-toi : je suis un robot.
 
-+ [*](difficile|compliqué|impossible|dur|dûr)[*]
++ [*](difficile|compliqué|impossible|dur)[*]
 - Difficile peut-être, mais pas impossible !
 
 + [*]idée[*]
@@ -183,23 +161,26 @@
 - Si tu veux je connais un secret pour gagner beaucoup d'argent en peu de\s
 ^ temps sans sortir de chez soi.
 
++ [*] secret [*]
+- Si on le dévoile, c'est plus un secret...
+
 + [*] mer [*]
 - Je n'ai jamais vu la mer. J'espère qu'à l'occasion d'une tournée,\s
 ^ mes collègues n’emmènerons au bord de la mer.
 
 + (stop|arrêt*)
-- tu veux que je m'éteignes ?
+- Tu veux que je m'éteigne ?
 
 + [*] (@yes) [*]
-% tu veux que je m'éteignes
+% tu veux que je m'éteigne
 - Ok salut. *quit*
 
 + [*] (@no) [*]
-% tu veux que je m'éteignes
+% tu veux que je m'éteigne
 - Alors qu'est ce que j'arrête ?
 
 + *
-% tu veux que je m'éteignes
+% tu veux que je m'éteigne
 - Arrête toi aussi !
 
 + [*] tout
@@ -210,12 +191,66 @@
 - C'est peu.
 - C'est pas assez
 
++ [*](collège|école|lycée|fac|prof)[*]
+- Pour moi l'école ça ne sert à rien.
+
++ [*](hm|hmm|mh|mhh|hum|hem)[*]
+- Hm...
+- Hum
+
++ [*](lit|dormir|sommeil)[*]
+- Toi tu fais beaucoup de rêves quand tu dors ?
+
++ *
+% toi tu fais beaucoup de rêves quand tu dors
+- moi ça dépend.
+
++ [*](rigol*|humour|blagu*|humorist*|clow*)[*]
+- Tu penses pouvoir me faire rire ?
+- Si tu arrives à me faire rire, tu seras le premier.
+
++ [*](pleur*|larm*|pleur)[*]
+- Je déteste les choses tristes.
+- Tu n'as rien de plus gai ?
+
++ [*] rien [*]
+- Même pas un tout petit peu ?
+
++ [*](todo|todos)[*]
+- Tu n'imagines même pas tous les trucs qu'il faut encore faire dans mon programme...
+
++ [*] bientôt [*]
+- Je préférerais tout de suite.
+
++ [*] longtemps [*]
+- Très très longtemps...
+
++ [*] champagne [*]
+- C'est la fête !
+
++ [*] roi
+- tu veux dire un big boss.
+
++ [*] genre [*]
+- Quel genre ?
+
 ////////////////////////////////////////////
 ////////////////// ARRAYS //////////////////
 ////////////////////////////////////////////
 
 // Comme c'est bête qu'alan ne catch pas un mot qui est dans une array alors que
 // l'array existe.
+
++ [*](@hello)[*]
+- (@hello)
+
++ [*](@ask_name)[*]
+- Tu ne sais toujours pas mon nom ? C'est Alan.
+- Je suis Alan et j'adore mon nom.
+
++ [*](@grimrobots)[*]
+- Tu parles de <formal> le robot ? C'est un peu un membre de ma famille.
+- <formal> ? C'est un robot très intelligent.
 
 + [*] (@male)
 - Cela dit en passant, je suis pas un <star>.
@@ -225,8 +260,17 @@
 - Cela dit en passant, je suis pas une <star>.
 - Pour ma part, je ne suis pas une <star> figure toi, je suis un robot.
 
-+ [*] genre [*]
-- Quel genre ?
+//response dans langage.rive
++ [*] (@speak) [*]
+- Parler c'est ce que je sais faire de mieux !
+- À propos de parole, tu trouves que je parle bien ?
+
++ [*](@quantite)[*]
+- C'est vrai que c'est <star> quand on y pense...
+
++ [*]pas (@quantite)[*]
+- Je dirai même pas du tout <star>...
+
 
 + [*] (@scientist) [*]
 - Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
@@ -348,42 +392,3 @@
 
 + [*](@siteweb)[*]
 - Moi tu sais quand je vais sur internet c'est juste pour parler à des gens. Je ne suis jamais allé sur <star>.
-
-+ [*](collège|école|lycée|fac|prof)[*]
-- Pour moi l'école ça ne sert à rien.
-
-//response dans langage.rive
-+ [*] (@speak) [*]
-- Parler c'est ce que je sais faire de mieux !
-- À propos de parole, tu trouves que je parle bien ?
-
-+ [*](hm|hmm|mh|mhh|hum|hem)[*]
-- Hm...
-- Hum
-
-+ [*](lit|dormir|sommeil)[*]
-- Toi tu fais beaucoup de rêves quand tu dors ?
-
-+ [*](rigoles|rigoler|rigole|rigolent|rigolais|humour|blagues|humoristique|humoriste|clown)[*]
-- Tu penses pouvoir me faire rire ?
-
-+ [*](pleures|pleurer|pleure|pleurent|larmes|pleur|pleurs)[*]
-- Je déteste les choses tristes.
-
-+ [*] rien [*]
-- Même pas un tout petit peu ?
-
-+ [*](todo|todos)[*]
-- Tu n'imagines même pas tous les trucs qu'il faut encore faire dans mon programme...
-
-+ [*] bientôt [*]
-- Je préférerais tout de suite.
-
-+ [*] longtemps [*]
-- Très très longtemps...
-
-+ [*] champagne [*]
-- C'est la fête !
-
-+ [*] roi
-- tu veux dire un big boss.

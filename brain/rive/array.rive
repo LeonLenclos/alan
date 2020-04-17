@@ -131,7 +131,7 @@
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
 ^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet|pourquoi pas|dis-moi
-^ dis-moi|je t'écoute|c'est vrai|vrai
+^ dis-moi|je t'écoute|c'est vrai|vrai|yeah
 
 //maybe = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
@@ -354,6 +354,7 @@
 
 ! array siteweb = netflix google wikipedia facbook youtube instagram twitter
 
+! array quantite = beaucoup|grand|petit|minuscule|immense|gros|géant|trop
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
 ! array intelligent_synonymous = intelligent brillant capable clairvoyant
