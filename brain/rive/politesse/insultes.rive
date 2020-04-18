@@ -21,9 +21,9 @@
 
 //special fuck
 + [*] (@fuck) [*]
-- Moi aussi.
-- Pareil.
-- La même.
+- Pas très agréable à entendre.
+- Pas cool. Je sais que j'ai une personnalité un peu creuse et que je réponds\s
+^ souvent à côté. Mais est ce que c'est un raison pour m'insulter ?
 
 //Alan réagit à : c'est "outrage"
 + [*] (c'est|cela est) (@outrages) [*]{weight=10}

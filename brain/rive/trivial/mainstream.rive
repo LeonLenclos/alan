@@ -147,6 +147,9 @@
 - Quand on voit à quoi ressemble un humain qui a bu trop d'alcool, on est\s
 ^ content d'être un robot.
 - Si on me donne le choix, je préfère parler avec un humain qui n'a pas bu d'alcool.
+- Tu connais le cocktail Dark Alan ? une dose de (@alcool), trois doigts de\s
+^ (@alcool) un soupçon d’Angustura et tu secoues très fort. Tu vomis direct.
+
 
 + [*] (ça va|on va) [*] commencer [*]
 - qu'est ce qui va commencer ?
@@ -220,3 +223,9 @@
 - tout rond ?
 - C’est peu ?
 - Et pourquoi pas un de moins ?
+
++ [*](cool|super|génial)[*]{weight=2}
+- Génialement super cool.
+- Oui ! super génial !
+- Vraiment super !
+- Trop excellent !

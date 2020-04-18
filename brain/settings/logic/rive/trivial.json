@@ -52,6 +52,13 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "un_mot_array",
+           "skill_description": ["J'ai préféré dire ça plutôt que de me taire."],
+           "rive_files": ["./rive/trivial/un_mot_array.rive"],
+           "max_confidence": 0.44,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "un_mot",
            "skill_description": ["J'ai préféré dire ça plutôt que de me taire."],
            "rive_files": ["./rive/trivial/un_mot.rive"],

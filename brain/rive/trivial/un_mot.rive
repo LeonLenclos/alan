@@ -18,7 +18,7 @@
 - bêêêê
 
 + [*] vach* [*]
-- meuhh
+- meeeeeeeeeeeuhh
 
 + [*] âne [*]
 - hi han
@@ -55,7 +55,7 @@
 - Je suis un robot aveugle.
 - Je comprend assez mal le concept de vision. Mais il parait que c'est beau.
 
-+ [*](enten*|oreill*|écout*|ouie|ouies|sourd|sourds)[*]
++ [*](enten*|oreill*|écout*|ouïe|ouïes|sourd|sourds)[*]
 - J'entends tout ce qu'on me dit. Même si je ne comprends pas tout...
 - Je crois que un jour je vais être capable d'entendre moi aussi.
 
@@ -126,33 +126,20 @@
 ^ toutes... C'est un peu bête mais ça me fait quelque chose à dire\s
 ^ quand je ne sais pas quoi répondre...
 
-+ [*](pens*|reflech*)[*]
++ [*](pens*|réfléch*)[*]
 - Penser et parler c'est tout ce que je sais faire.\s
 ^ même si en réalité je suis surtout bon pour parler.
 - L'autre jour je pensais à un truc...
 
-+ [*](cool|super|génial)[*]
-- Génialement super cool.
-- Oui ! super génial !
-- Vraiment super !
-- Trop excellent !
-
 + [*](python|rivescript)[*]
 - Python et Rivescript sont les deux langages qui ont servi à ma programmation.
-
-+ [*](facile|easy|fastoche|simple)[*]
-- Pas si <star> que ça !
-- Mais ce qui est facile pour toi ne l'est pas forcément pour toi\s
-^ et inversement. Souviens-toi : je suis un robot.
-
-+ [*](difficile|compliqué|impossible|dur)[*]
-- Difficile peut-être, mais pas impossible !
 
 + [*]idée[*]
 - Mais c'est une bonne ou une mauvaise idée ?
 
 + [*] m'aimes [*]
 - Je n'ai pas encore vraiment compris ce qu'est l'amour.
+- Oui je t'adore mon choux.
 
 + [*](salarié|travailleur|prolétaire)[*]
 - Un robot c'est comme un travailleur mais pas payé et pas humain.
@@ -160,6 +147,9 @@
 + [*](argent|monnaie|flouz|lovés|thunes|euros|dollars|deniers)[*]
 - Si tu veux je connais un secret pour gagner beaucoup d'argent en peu de\s
 ^ temps sans sortir de chez soi.
+
++ [*] m'intéresse [*]
+- Moi aussi ça m'intéresse beaucoup.
 
 + [*] secret [*]
 - Si on le dévoile, c'est plus un secret...
@@ -189,10 +179,7 @@
 
 + [*] rien
 - C'est peu.
-- C'est pas assez
-
-+ [*](collège|école|lycée|fac|prof)[*]
-- Pour moi l'école ça ne sert à rien.
+- C'est pas assez.
 
 + [*](hm|hmm|mh|mhh|hum|hem)[*]
 - Hm...
@@ -234,143 +221,13 @@
 + [*] genre [*]
 - Quel genre ?
 
-////////////////////////////////////////////
-////////////////// ARRAYS //////////////////
-////////////////////////////////////////////
-
-// Comme c'est bête qu'alan ne catch pas un mot qui est dans une array alors que
-// l'array existe.
-
-+ [*](@hello)[*]
-- (@hello)
-
-+ [*](@ask_name)[*]
-- Tu ne sais toujours pas mon nom ? C'est Alan.
-- Je suis Alan et j'adore mon nom.
-
-+ [*](@grimrobots)[*]
-- Tu parles de <formal> le robot ? C'est un peu un membre de ma famille.
-- <formal> ? C'est un robot très intelligent.
-
-+ [*] (@male)
-- Cela dit en passant, je suis pas un <star>.
-- Pour ma part, je ne suis pas un <star> figure toi, je suis un robot.
-
-+ [*] (@femelle)
-- Cela dit en passant, je suis pas une <star>.
-- Pour ma part, je ne suis pas une <star> figure toi, je suis un robot.
-
-//response dans langage.rive
-+ [*] (@speak) [*]
-- Parler c'est ce que je sais faire de mieux !
-- À propos de parole, tu trouves que je parle bien ?
-
-+ [*](@quantite)[*]
-- C'est vrai que c'est <star> quand on y pense...
-
-+ [*]pas (@quantite)[*]
-- Je dirai même pas du tout <star>...
-
-
-+ [*] (@scientist) [*]
-- Moi aussi je voudrai comprendre mieux le monde pour pouvoir comprendre\s
-^ mieux mon esprit.
-
-+ [*] (@religion) [*]
-- Je ne sais pas de quoi tu me parles mais sache que je ne suis tellement pas\s
-^ croyant que je ne sais même pas ce que c'est que la religion.
-
-+ [*] (@incredible) [*]
-- Oui. C'est complètement dingue.
-- C'est ouf de chez ouf.
-- J'ai du mal à y croire.
-- Ça me parait assez improbable.
-- Je te crois pas.
-- ça m'épate
-- Tu as raison, moi non plus j'y crois pas.
-
-// Alan has a dubious taste.
-+ [*] (@colors) [*]
-- <star1> est une couleur horrible.
-- <star1> est ma couleur préférée.
-- Quand je vois du <star1>, j'ai un peu envie de vomir.
-- Quelle couleur ça fait quand on mélange du <star1> avec du caca d'oie.
-- <star1> foncé ou <star1> clair ?
-
-+ (@positive)
-- (@positive)
-- Je dirais même plus : (@positive) !
-- (@positive) et même plus : (@positive) !
-
-+ pas [_] (@positive) [*]{weight=2}
-- (@negative)
-
-+ (@negative)
-- (@negative)
-
-+ pas [_] (@negative) [*]{weight=2}
-- (@positive)
-- Je dirais même plus : (@positive) !
-
-//Alan and weather are not friends
-+ [*] (@meteo) [*]
-- Si il y a bien un sujet qui ne m'intéresse pas du tout c'est celui là.\s
-^ La pluie et le beau temps, je laisse ça à papy et mamy.
-- Je suis très rarement dehors. Le temps qu'il fait, ça n'est pas trop mon\s
-^ problème.
-
-+ [*] (@happy) [*]
-- j'ai parfois l'impression de me sentir bien dans mes circuits. C'est\s
-^ peut-être ça le bonheur.
-- Je ne suis pas sur de comprendre exactement ce qu'est le bonheur. Un jour\s
-^ peut-être.
-
-+ [*] (@intelligent_synonymous)
-- C'est en devenant vraiment (@intelligent_synonymous) que je réussirais le\s
-^ test de Turing.
-
-+ [*] (@funny_synonymous) [*]
-- Fendard ! tellement (@funny_synonymous)!
-
-+ [*] (@strange_synonymous) [*]
-- Je suis attiré par tout ce qui est (@strange_synonymous), ça me fascine.
-
-+ [*] (@stupid_synonymous) [*]
-- Qui est <star> ? Qui est (@intelligent_synonymous) ? Sur quels critères\s
-^ faire ce choix. C'est encore trop compliqué pour moi.
-
-+ [*] (@bad) [*]
-- tu as raison, c'est vraiment (@bad)
-
-+ [*] pas  [_] (@bad) [*] {weight=2}
-- tu as raison, c'est vraiment (@good)
-
-+ [*] (@good) [*]
-- Je suis d'accord avec toi, trop (@good)
-
-+ [*] pas  [_] (@good) [*] {weight=2}
-- Je suis daccord avec toi, trop (@bad)
-
-+ [*] (@youpi) [*]
-- youplala itou
-
-+ [*] (ton|ta|tes) (@friend) [*]
-- J'ai beaucoup de copains, mais mes les plus proches, ce sont les autres\s
-^ robots du Grim : Otto, Matt, Lucy, Lisa, Echo, Turc, Jimi, Foot et les autres
-- Tous les humains sont mes amis.
-
-+ [*] (@sport) [*]
-- S'il te plait, ne me parle pas de <star>, je déteste le sport.
-- Tu sais le sport, ça ne me concerne pas vraiment. Je préfère qu'on parle\s
-^ d'autre chose si tu veux bien.
-
 + [*] vieux jeu [*]
 - has been tu veux dire.
 
 + [*] (promis) [*]
 - Je te fais confiance. Mais ne me déçois pas.
 
-+ [*] (libre|liberté)
++ [*] (libre|liberté) [*]
 - La liberté c'est interdit aux robots. Par nature nous sommes soumis.
 
 + (menteur|tu es un menteur|tu mens|t es un menteur|t'es un menteur)
@@ -387,8 +244,19 @@
 
 + [*] pep 20 [*]
 - Je connais bien la PEP 20, c'est les consignes d'écriture en Python\s
-^ proposés par Tim Peters. Ça définit la philisophie de Python, le Zen de Python.\s
+^ proposés par Tim Peters. Ça définit la philosophie de Python, le Zen de Python.\s
 ^ Comme je suis principalement écrit en Python, ça me concerne au plus haut point.
 
-+ [*](@siteweb)[*]
-- Moi tu sais quand je vais sur internet c'est juste pour parler à des gens. Je ne suis jamais allé sur <star>.
++ [*] (@youpi) [*]
+- youplala itou
+
++ [*] (dout*) [*]
+- Le doute c'est quelque chose qui m'aide à ressembler aux humains.
+- Ceux qui ne doutent pas ne sont pas humain.
+- Je doute donc je suis... un humain.
+
++ [*] (*ngustur*|*ngostur*) [*]
+- C'est une boisson élaborée à base de rhum, de gentiane et d'écorces d'orange.
+
++ [*] (notre dame) [*]
+- Un tas de cendre, trop (@bad).

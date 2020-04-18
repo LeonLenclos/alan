@@ -120,7 +120,7 @@
 ^ youpin|youpine|youpinisation|youtre
 
 ! array fuck = je t'emmerde|tu m'emmerdes|tu fais chier|tu me fais chier
-^ tu me gonfles|tu me saoules|fuck
+^ tu me gonfles|tu me saoules|fuck|va chier
 
 //////////////////////////////////YES/NO////////////////////////////////////////
 
@@ -163,6 +163,8 @@
 //sad
 ! array sad = triste|dommage|pas cool|chagrine|déçu|désappointé|désenchanté
 ^ malheureux|pas gai
+
+! array sad2 = triste|pas cool|pas gai
 
 //happy
 ! array happy = heureux|gai|enchanté|content|satisfait|joyeux|béat|ravi
@@ -223,6 +225,7 @@
 // colors
 ! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
 
+
 // male
 ! array male = mec gus mâle homme zig ceum keum garçon garçon gar gars
 
@@ -241,6 +244,9 @@
 ! array incredible = pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
 ^ dingue|délire
 
+! array incredible2 = fou|ouf|pas possible|incroyable
+^ dingue|délire|hallucinant
+
 //array for weather
 ! array meteo = pluie soleil neige météo froid chaleur grêle vent brouillard
 ^ beau temps|mauvais temps|temps qu'il fait|ciel bleu|pluvieux|orage
@@ -253,7 +259,7 @@
 ^ tu as un bug|tu es buggé|tu es en boucle|tu es rayé
 ^ tu es a la rue|tu tournes en rond|à côté de la plaque|à coté de la plaque
 ^ bogue|bogues|trouble de la pragmatique du langage|t'as un beug|t'es beugué
-^ tu beugue| beug
+^ tu beugue|beug|tu répon* à côté|tu répon* à coté
 
 //problème
 ! array probleme = difficulté|ennui|problème
@@ -270,26 +276,30 @@
 ^ contrariétés|incertitudes
 ^ préoccupations|doutes|craintes|soucis
 
+! array problemes2 = difficultés problèmes peines chagrins
+^ tourments tracas contrariétés incertitudes soucis
+
+
 //array music instrument
-! array instrument_m = accordeon|alto|balafon
-^ bandonéon|banjo|basse|guitare basse|baryton|basson|bendir
+! array instrument_m = accordéon|alto|balafon
+^ bandonéon|banjo|basse|baryton|basson|bendir
 ^ dulcimer|bouzouki|bratsch|bugle|cajon
 ^ clavecin|clavinet|cor anglais|djembé
 ^ cornet à bouquin|cornet à pistons|cymbalum|darbouka|djembe|doudouk|dulcimer
 ^ gambri|glockenspiel
-^ hang|harmonica|harmonium|hautbois|helicon|ka
+^ hang|harmonica|harmonium|hautbois|hélicon|ka
 ^ kalimba|kanoun|luth|maracas|mellotron|mélodica|ocarina
 ^ orgue|orgue de Barbarie|pedal steel|piano|piano électrique
 ^ piccolo|pipeau|santour|saxophone|saxophone alto|saxophone baryton
 ^ saxophone basse|saxophone contrebasse|saxophone sopranino|saxophone piccolo
-^ saxophone soprano|saxophone tenor|soubassophone|steel-drum
+^ saxophone soprano|saxophone ténor|soubassophone|steel-drum
 ^ synthétiseur|tam tam|tambour|tambourin|tapan|triangle
-^ trombone|tuba|tympanon|ukulele|vibraphone
+^ trombone|tuba|tympanon|ukulélé|vibraphone
 ^ violon|violoncelle|xylophone|zarb
 
 ! array instrument_f = balalaika|batterie|cabrette|cithare|clarinette
-^ clarinette basse|contrebasse|cornemuse
-^ épinette|épinette des Vosges|flute|guimbarde|guitare
+^ clarinette basse|contrebasse|cornemuse|guitare basse
+^ flûte|guimbarde|guitare
 ^ guitare électrique|harpe|mandoline|scie musicale|vielle|vielle à roue
 ^ viole|viole de gambe
 
@@ -301,9 +311,9 @@
 ^ poésie bd bédé manga comics
 ^ ar* visue*|bande dessin*
 
-! array electronic_music = pure data|ms20|ms 20|modulaire|synthé|synthétiseur
-^ korg|boite à rythme|bar|juno|tr808|tr 808|techno|tekno|tek|tech|house|trance
-^ *lectro|*lectro*-minimale
+! array electronic_music = pure data|ms20|ms 20|modulair*|synth*|tr 909
+^ korg|boit* à rythm*|bar|juno|tr808|tr 808|techno|tekno|tek|tech|house|trance
+^ électro|minimale|tr909
 
 ! array rappeur = pnl|booba|karis|biffty|jossman|vald|kalash|ntm|iam|lomepal
 ^ chango|alkapote|sch|dinos|Sofiane|13 block|damso|naps|plk|niska|rim'k|ninho
@@ -316,13 +326,14 @@
 ! array media = télévision radio tv télé
 
 //array langues étrangères
-! array lang = langue|langues|langage|anglais|espagnole|english
-^ italien|japonais|chinois|russe|coréen|polonais|turc|arabe|espagnol
+! array lang = langue|langues|langage|anglais|espagno*|english
+^ italien|japonais|chinois|russe|coréen|polonais|turc|arabe|allemand
+
 
 //array about religion
 ! array religion = religieux|religion|dieu|dieux|croyant|pape|chrétien|chrétiens
 ^ christianisme|musulmans|musulman|islam|juif|judaïsme|bible|torah|coran|sacré
-^ prophête|jésus|saint
+^ prophète|jésus|saint|catholiqu*|jésus
 
 //array about science
 ! array scientist = scientifique|scientifiques|mathématicien|mathématicienne
@@ -342,7 +353,8 @@
 ! array joke = blague|blagues|histoire drôle|histoires drôles|jeu de mot
 ^ jeu de mots|jeux de mot|jeux de mots|histoire drole|histoires droles
 
-! array alcool = vin bierre whisky porto alcool gin
+! array alcool = vin bière whisky porto alcool gin pastis rhum vodka ricard
+^ tequila mescal martini
 
 ! array corona = corona|coronavirus|covid|covid19
 
@@ -355,12 +367,22 @@
 ! array siteweb = netflix google wikipedia facbook youtube instagram twitter
 
 ! array quantite = beaucoup|grand|petit|minuscule|immense|gros|géant|trop
+
+! array ecole = collège|école|lycée|fac|prof|maternelle|primaire
+^ universit*|facult*
+
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
 ! array intelligent_synonymous = intelligent brillant capable clairvoyant
-^ compétent chouette doué entendu expérimenté fort génial habile perspicace
-^ sagace astucieux éveillé pertinent profond malin top bon
+^ compétent doué expérimenté fort génial habile perspicace
+^ astucieux éveillé pertinent profond malin top bon
 ^ excellent super impressionnant
+
+// stupid synonymous (sauf ceux répertoriés en INSULTES)
+! array stupid_synonymous = béte bete bête borné bouché crétin idiot imbécile
+^ inintelligent obtus sot stupide vide andouille ballot
+^ bêta cloche cruche demeuré gourde manche niais incapable
+^ arriéré mental|débile mental|simple d'esprit
 
 ! array funny_synonymous = drole drôle amusant cocasse comique désopilant facétieux
 ^ hilarant impayable inénarrable plaisant marrant rigolo risible spirituel
@@ -369,19 +391,25 @@
 ! array beautiful_synonymous = beau belle magnifique joli jolie splendide superbe adorable
 ^ ravissant ravissante séduisant séduisante
 
-! array strong = fort costaud balaise puissant musclé robuste solide
+! array moche_synonymous = moche laid affreux
+
+! array strong_m = fort costaud balaise puissant musclé robuste solide
+
+! array strong_f = forte costaude balaise puissante musclée robuste solide
+
+! array strong_p = forts costauds balaises puissants musclés robustes solides
 
 ! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
 ^ singulier surprenant chelou louche susceptible
 
-// stupid synonymous (sauf ceux répertoriés en INSULTES)
-! array stupid_synonymous = béte bête borné bouché crétin idiot imbécile
-^ inintelligent obtus sot stupide vide andouille ballot
-^ bêta cloche cruche demeuré gourde manche niais incapable
-^ arriéré mental | débile mental | simple d'esprit
+
 
 ! array proud = frim*|prétentieux|crân*|orgueilleux|pédant|snob|fier
 ^ fanfaronn*|la ramen*
+
+! array facile = facile|easy|fastoche|simple
+
+! array difficile = difficile|compliqué|impossible|dur
 
 ///////////////////////////LES MEMBRES DU LABO///////////////////////////////
 
@@ -436,7 +464,7 @@
 
 ! array hate = n'aime pas|aime pas|déteste|ai horreur|hais|adore pas|kiffe pas
 ^ kife pas|tripe pas|supporte pas|j'ai horreur|j'aime pas|m'insupporte
-^ c'est horrible|c'est affreux
+^ c'est horrible|c'est affreux|haine
 
 ! array about = de quoi on par*|on par* de quoi
 ^ de quoi tu as envie de parl*|tu as envie de parl* de quoi
