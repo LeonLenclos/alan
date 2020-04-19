@@ -259,7 +259,7 @@
 ^ tu as un bug|tu es buggé|tu es en boucle|tu es rayé
 ^ tu es a la rue|tu tournes en rond|à côté de la plaque|à coté de la plaque
 ^ bogue|bogues|trouble de la pragmatique du langage|t'as un beug|t'es beugué
-^ tu beugue|beug|tu répon* à côté|tu répon* à coté
+^ tu beugue|beug|tu répon* à côté|tu répon* à coté|tu te répèt*|tu répèt*
 
 //problème
 ! array probleme = difficulté|ennui|problème
@@ -299,7 +299,7 @@
 
 ! array instrument_f = balalaika|batterie|cabrette|cithare|clarinette
 ^ clarinette basse|contrebasse|cornemuse|guitare basse
-^ flûte|guimbarde|guitare
+^ flûte|guimbarde|guitare|trompette
 ^ guitare électrique|harpe|mandoline|scie musicale|vielle|vielle à roue
 ^ viole|viole de gambe
 
@@ -410,6 +410,9 @@
 ! array facile = facile|easy|fastoche|simple
 
 ! array difficile = difficile|compliqué|impossible|dur
+
+! array grave = grave|important|sérieux
+
 
 ///////////////////////////LES MEMBRES DU LABO///////////////////////////////
 

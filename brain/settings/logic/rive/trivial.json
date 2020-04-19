@@ -25,7 +25,7 @@
            "identifier": "formel",
            "skill_description": ["Je sais pas."],
            "rive_files": ["./rive/trivial/formel.rive"],
-           "max_confidence": 0.45,
+           "max_confidence": 0.44,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -55,14 +55,14 @@
            "identifier": "un_mot_array",
            "skill_description": ["J'ai préféré dire ça plutôt que de me taire."],
            "rive_files": ["./rive/trivial/un_mot_array.rive"],
-           "max_confidence": 0.44,
+           "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
            "identifier": "un_mot",
            "skill_description": ["J'ai préféré dire ça plutôt que de me taire."],
            "rive_files": ["./rive/trivial/un_mot.rive"],
-           "max_confidence": 0.44,
+           "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        }
       ]

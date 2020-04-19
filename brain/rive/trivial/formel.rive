@@ -107,7 +107,7 @@
 
 // Savoir
     + [*] (sai* tu|tu sai*) *
-    - Je crois bien que je sais <star2>.
+    - Je crois bien que je sais <star4>.
     - Je sais tout.
 
 // Faire
@@ -116,7 +116,7 @@
     - Ah oui ? Quand ça ?
 
     + [*] (tu fai*|fai* tu) *
-    - Oui parfois je fais <star2>
+    - Oui parfois je fais <star4>
     - Jamais !
 
     + [*] (tu feras quoi|qu'est ce que tu feras) [*]

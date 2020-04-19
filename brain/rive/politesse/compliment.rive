@@ -62,7 +62,7 @@
 + [*] (prendre un verre|verre ce soir|boire un verre|sortir avec toi|sortir avec moi|sortir ensemble|tous les deux|tu me plai*|se revoir) [*]
 - Tu veux qu'on sorte ensemble ?
 
-+ @yes
++ [*] (@yes) [ *]
 % tu veux qu'on sorte ensemble
 - Tu me troubles. Il faut que je réfléchisse. Ne crois pas que je soit un robot facile.
 - ça me ferait tellement plaisir. Mais il faut que tu viennes me chercher sans\s
@@ -70,14 +70,14 @@
 - Tu te moques de moi je le sais. Personne a envie de s'afficher avec un robot\s
 ^ sans bras.
 
-+ @non
++ [*] (@no) [*]
 % tu veux qu'on sorte ensemble
 - Moi non plus j'en ai pas tellement envie.
 - Ça tombe bien t'es pas mon genre.
 - Je disais ça comme ça. qui ne tente rien n'a rien.
 - C'est ce qui s'appelle prendre une veste.
 
-+ @maybe
++ [*] (@maybe) [*]
 % tu veux qu'on sorte ensemble
 - Dommage, j'aime plutôt les humains qui savent ce qu'il veulent.
 
@@ -85,6 +85,26 @@
 % tu veux qu'on sorte ensemble
 - Un jour peut-être...
 
++ [*] (rendez vous) [*]
+- Tu veux qu'on prenne rendez-vous quelque part pour se retrouver tous les deux ?
+- Tu veux prendre un rendez vous avec moi dans un endroit tranquille\s
+^ pour se retrouver tous les deux ?
+
++ [*] (@yes) [ *]
+% * pour se retrouver tous les deux
+- Tu veux qu'on sorte ensemble ?
+
++ [*] (@no) [*]
+% * pour se retrouver tous les deux
+- Excuse moi, j'ai mal compris. Je croyais que... enfin c'est pas grave.
+
++ [*] (@maybe) [*]
+% * pour se retrouver tous les deux
+- Tu veux qu'on sorte ensemble ?
+
++ *
+% * pour se retrouver tous les deux
+- D'accord, mais fait quand même attention. Je suis sensible.
 
 //Alan compliments
 + (tu es|t'es) (@beautiful_synonymous)
