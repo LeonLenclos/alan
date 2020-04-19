@@ -45,7 +45,7 @@ Dans la suite, le terme scénario désigne un ensemble de un ou plusieurs trigge
    - Pas besoin d'espace de part et d'autre des crochets optionels [ ] , mais cela rend le fichier plus lisible.
    
 - wildcard et star 
-   - La wildcard _ peut être très utile pour triggers plusieurs accords ou conjugaisons ou orthographes. A utiliser massivement
+   - La wildcard _ peut être très utile pour trigger plusieurs accords ou conjugaisons ou orthographes. A utiliser massivement
    - Attention toutefois au compte des stars qui se trouve modifié : dans `+ (_azer_) *` l'étoile vaut `<star4>` 
    
 ## Consignes spécifiques liées aux previews.
