@@ -1,19 +1,42 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Alan - dev</title>
-	<meta charset="UTF-8">
+	<title>Alan Dev Panel</title>
+	<meta charset="utf-8">
 	<script src="jquery.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="full.css">
+	<link rel="stylesheet" type="text/css" href="chat.css">
+
+
+
+
 </head>
 <body>
-	<h2>{title}</h2>
-	<div id=status>{status}</div>
-	<div id="content">{content}</div>
-		
-	<nav>
-		<a href="/todo">Voir les todos</a> | <a href="/logs">Voir les logs</a> | <a href="/">Parler avec Alan</a> | <a href="https://github.com/LeonLenclos/alan">Git</a>
-	</nav>
+	<div id=header>
+		<h1>Alan Dev Panel</h1>
+	</div>
+
+	<div class="infobox" id="dev">
+
+		<h3>Todo</h3>
+		Taille : {todo_len} lignes<br/>
+		Dernière modification : {todo_mtime}<br/>
+		<a href='/todo.txt'>Ouvrir les todo</a>
+
+		<h3>Conversations</h3>
+		Nombre de conversations enregistrées : {conv_len}<br/>
+		Nombre de conversations ouvertes : {open_conv_len}<br/>
+		Ouvrir une conversation : {conv_select}<br/>
+		Ouvrir un log : {log_select}<br/>
+
+		<h3>Plan du site</h3>
+		<a href="/index.html">/index.html</a> : Parler avec Alan - interface internet<br/>
+		<a href="/labo.html">/labo.html</a> : Parler avec Alan - interface labo<br/>
+		<a href="/see.html">/see.html</a> : Voir discussion en cours - interface labo<br/>
+		<a href="/dev">/dev</a> : Dev Panel<br/>
+		<h3>Liens</h3>
+		<a href="https://github.com/LeonLenclos/alan">Alan sur Github</a>
+
+	</div>
 
 
 </body>
