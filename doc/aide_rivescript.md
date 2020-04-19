@@ -24,7 +24,7 @@ Dans la suite, le terme scénario désigne un ensemble de un ou plusieurs trigge
 
 - Pour intervenir dans un scénario existant.
    - Si on modifie des triggers, utiliser *find in project* dans Atom pour repérer tous les endroits ou des triggers similaires existent.
-   - Si on modifie des réponses, vérifier qu'elles ne servent pas pour des <star> ou dans des %preview (qui sont parfois dans un autre fichier .rive).
+   - Si on modifie des réponses, vérifier qu'elles ne servent pas pour des `<star>` ou dans des %preview (qui sont parfois dans un autre fichier .rive).
    - Tester systématiquement toutes les modifications. Vérifier qu'elles atteignent leur objectif, et qu'elles ne modifie pas le reste.
 
 - Pour créer un scénario.
