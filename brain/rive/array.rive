@@ -130,14 +130,14 @@
 ^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
-^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet|pourquoi pas|dis-moi
-^ dis-moi|je t'écoute|c'est vrai|vrai|yeah
+^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet
+^ c'est vrai|vrai|yeah
 
 //maybe = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
 ^ je ne sais pas|coussi coussa|couci couca|peut être|peut-être|pas mal
 ^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui
-^ plus ou moins|plutôt|plutot|si tu veux
+^ plus ou moins|plutôt|plutot|si tu veux|pourquoi pas
 
 //no
 ! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri
@@ -260,6 +260,7 @@
 ^ tu es a la rue|tu tournes en rond|à côté de la plaque|à coté de la plaque
 ^ bogue|bogues|trouble de la pragmatique du langage|t'as un beug|t'es beugué
 ^ tu beugue|beug|tu répon* à côté|tu répon* à coté|tu te répèt*|tu répèt*
+^ te contredis|t'égares
 
 //problème
 ! array probleme = difficulté|ennui|problème
@@ -369,7 +370,12 @@
 ! array quantite = beaucoup|grand|petit|minuscule|immense|gros|géant|trop
 
 ! array ecole = collège|école|lycée|fac|prof|maternelle|primaire
-^ universit*|facult*
+^ universit*|facult*|iut
+
+! array chatter = discussion|conversation|échange|dialogue
+^ discussions|conversations|échanges|dialogues
+
+! array chatter_p = discussions|conversations|échanges|dialogues
 
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
@@ -500,6 +506,8 @@
 
 ! array who_told_you = qui t'as appris|qui t'as dit
 ^ qui est ce qui t'as appris |qui est ce qui t'as dit
+
+! array learn = appren*|progress*|fais des progrès
 
 ////////////////////////////HISTOIRE et CARACTÉRISTIQUES D'ALAN////////////////////////////////////
 
