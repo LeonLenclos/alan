@@ -350,6 +350,7 @@ class Alan(chatterbot.ChatBot):
 
     def reset(self):
         """Reset Alan."""
+        return # OBSOLETE
         self.finish()
         python = sys.executable
         os.system('clear')
@@ -368,6 +369,7 @@ class Alan(chatterbot.ChatBot):
 
     def info(self):
         """Print informations about last response."""
+        return # OBSOLETE
         infos = "[Pas d'informations disponibles]"
         if len(self.last_results) >= 2:
             infos = ""
