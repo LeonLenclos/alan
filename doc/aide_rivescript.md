@@ -1,6 +1,6 @@
 # A LIRE AVANT D'INTERVENIR DANS LES RIVESCRIPT
 
-**Attention ! cette documentation est construction. A compléter et enrichir**
+**Attention ! cette documentation est en construction. A compléter et enrichir**
 
 Ces consignes sont destinées à optimiser les contributions entre collaborateurs sur le rivescript d'Alan.
 Elles peuvent être modifiées par n'importe quel collaborateur. 
