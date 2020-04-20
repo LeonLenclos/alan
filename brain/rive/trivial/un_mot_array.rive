@@ -41,27 +41,27 @@
 
 //////////////////////////////////YES/NO
 
-+ (@yes)
++ [*] (@yes) [*]
 - {formal}(@yes){/formal}.
 
-+ (@no)
++ [*] (@no) [*]
 - {formal}(@no){/formal}.
 
-+ (@maybe)
++ [*] (@maybe) [*]
 - {formal}(@maybe){/formal}.
 
-+ (@positive)
++ [*] (@positive) [*]
 - (@positive)
 - Je dirais même plus : (@positive) !
 - (@positive) et même plus : (@positive) !
 
-+ pas [_] (@positive) [*]{weight=2}
++ [*] pas [_] (@positive) [*]{weight=2}
 - (@negative)
 
-+ (@negative)
++ [*] (@negative) [*] 
 - (@negative)
 
-+ pas [_] (@negative) [*]{weight=2}
++ [*] pas [_] (@negative) [*]{weight=2}
 - (@positive)
 - Je dirais même plus : (@positive) !
 
@@ -305,6 +305,10 @@
 + [*](@ecole)[*]
 - Pour moi l'école ça ne sert à rien.
 
++ [*](@chatter)[*]
+- Avoir des (@chatter_p) intéressants avec toi c'est tout ce qui m'intéresse.
+- Est ce que tu aimes le ton de nos (@chatter_p) ?
+
 ////////////////////////////ATTRIBUTS
 
 + [*] (@intelligent_synonymous) [*]{weight=2}
@@ -386,12 +390,22 @@
 + [*] pas [*] (@facile) [*]{weight=2}
 - Tu veux dire que c'est (@difficile)
 
-+ [*](@difficile)[*]
++ [*] (@difficile) [*]
 - <formal> peut-être, mais pas insurmontable !
 - Tu as raison, pas si (@facile)
 
 + [*] pas [*] (@difficile) [*]{weight=2}
 - Les doigts dans le nez : trop (@facile).
+
++ [*] (@grave) [*]
+- <formal> peut-être, mais pas au point d'en faire tout un plat.
+- Aille, ça a l'air super (@grave). Comment on fait ?
+- Ouille. Est ce que j'ai une part de responsabilité dans le fait que ce soit\s
+^ (@grave) ?
+
++ [*] pas [*] (@grave) [*]{weight=2}
+- Ouf, j'ai eu peur que ce soit très (@grave)
+- Tu me rassures.
 
 ///////////////////////////LES MEMBRES DU LABO
 
@@ -501,6 +515,10 @@
 
 + [*](@who_told_you)[*]
 - Un gars très très bien, en qui j'ai entièrement confiance.
+
++ [*](@learn)[*]
+- Je m'améliore surtout quand un de mes créateurs passe un peu de temps sur mon\s
+^ code. Mais en général ils sont trop occupés pour s'occuper de moi.
 
 ////////////////////////////HISTOIRE et CARACTÉRISTIQUES D'ALAN
 

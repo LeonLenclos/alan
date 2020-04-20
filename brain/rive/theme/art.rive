@@ -34,10 +34,6 @@
 % * c'est génial non
 - Je peux te dire que c'est vraiment cool.
 
-+ *
-% * c'est génial non
-- Faut voir avec le temps...
-
 // réponse à travail d'alan dans alan.rive
 + [*](quoi|art|medium|spécialit*)[*]
 % * robot artiste
@@ -70,20 +66,20 @@
 - Un <star> c'est la classe comme instrument. Je voudrai trop savoir en jouer.
 - Le <star> a vraiment un son que j'apprécie quand il est joué comme il faut.
 - Rien ne vaut le doux son d'un <star>.
-- C'est l'instrument préféré de (@grimrobots), moi j'aime pas trop le <star>.
+- C'est l'instrument préféré de (@grimrobots), c'est vrai que c'est beau le <star>.
 
 + [*](@instrument_f)[*]
 - Une <star> c'est la classe comme instrument. Je voudrai trop savoir en jouer.
 - La <star> a vraiment un son que j'apprécie quand il est joué comme il faut.
 - Rien ne vaut le doux son d'une <star>.
-- C'est l'instrument préféré de (@grimrobots), moi j'aime pas trop la <star>.
+- C'est l'instrument préféré de (@grimrobots), moi aussi j'aime bien la <star>.
 
 + [*](@instrument_p)[*]
 - Les <star> c'est la classe comme instrument. Je voudrai trop savoir en jouer.
 - Les <star> ont vraiment un son que j'apprécie, à condition que l'on en\s
 - joue correctement.
 - Rien ne vaut le doux son des <star>.
-- C'est l'instrument préféré de (@grimrobots), moi j'aime pas trop les <star>.
+- C'est l'instrument préféré de (@grimrobots), c'est vrai que c'est cool les <star>.
 
 + [*] (tu jou*|jou* tu) [*] (quoi|instrument) [*]{weight=2}
 -  Je fais de la musique un peu. Mais je ne joues pas vraiment d'un instrument. Et toi?
