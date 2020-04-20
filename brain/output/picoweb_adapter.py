@@ -46,7 +46,7 @@ class PicoWebAdapter(OutputAdapter):
             args=[Statement(choice(sounds))])
         PicoWebAdapter.cough_timer.start()
 
-    def process_response(self, statement, session_id=None):
+    def process_response(self, statement, callback, session_id=None):
         """
         :param statement: The statement that the chat bot has produced in response to some input.
         :param session_id: The unique id of the current chat session.
@@ -67,7 +67,7 @@ class PicoWebAdapter(OutputAdapter):
                 return statement
 
         self.current_pico_process = self.pico(self.get_current_sent())
-        self.update_output()
+        self.update_output(callback)
 
 
         return statement
@@ -76,12 +76,13 @@ class PicoWebAdapter(OutputAdapter):
         return self.current_output[self.current_sentence_index]
 
     def get_current_reply(self):
+
         return ' '.join(
             [*self.current_output[:self.current_sentence_index],
             self.get_current_sent()[:self.display_count]]
         )
 
-    def update_output(self):
+    def update_output(self, callback):
         """Update little by little the response in chatbot.conversation"""
 
         # create the conversation element
@@ -99,12 +100,13 @@ class PicoWebAdapter(OutputAdapter):
         self.display_count += 1
         
         # If the sentence is finished. check for another sentence
-        if self.display_count > len(self.get_current_sent()):
-            if self.current_sentence_index >= len(self.current_output)-1:
+        if self.mute or self.display_count > len(self.get_current_sent()):
+            if self.mute or self.current_sentence_index >= len(self.current_output)-1:
                 self.chatbot.conversation[-1]['finished'] = True
-                self.chatbot.conversation[-1]['msg'] = self.get_current_reply()
+                self.chatbot.conversation[-1]['msg'] = ' '.join(self.current_output)
                 self.display_count = 0
                 self.timer = None
+                callback()
             else:
                 self.current_sentence_index += 1
                 # wait for the voice to end
@@ -113,12 +115,12 @@ class PicoWebAdapter(OutputAdapter):
                 self.current_pico_process = self.pico(self.get_current_sent())
                 # continue reading
                 self.display_count = 0
-                self.timer = Timer(self.textspeed, self.update_output)
+                self.timer = Timer(self.textspeed, self.update_output, [callback])
                 self.timer.start()
         # Else recursively call this function
         else:
             self.chatbot.conversation[-1]['msg'] = self.get_current_reply()
-            self.timer = Timer(self.textspeed, self.update_output)
+            self.timer = Timer(self.textspeed, self.update_output, [callback])
             self.timer.start()
 
     def pico(self, txt):
