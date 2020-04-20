@@ -94,4 +94,33 @@ Dans la suite, le terme scénario désigne un ensemble de un ou plusieurs trigge
 - array pour triggers et array pour réponses
   - comme pour les triggers, ne pas hésiter à utiliser la wildcard _ dans les array.
   - Un array avec la wildcard _ ne peut pas être utilisé en réponse. Ne pas hésiter à crée des array spécifiques pour les réponses.
-    
+  
+  
+  ## Consignes spécifiques liées au fichier formel.rive.
+
+- organisation du fichier
+   - Les formels utilisent des triggers qui se déclénchent sur la forme des phrases et pas sur le sens d'un mot clé.
+   - Comme évoqué précédemment les redondances au sein d'un même fichier sont contreproductives, car elle rendent plus probable une répétition que dans le cas ou toutes les réponses sont regroupées sous le même trigger.
+   - Pour enrichir ce fichier sans risquer de créer un redondance, une organisation est proposée en index du fichier formel.rive
+   
+          1. avoir
+          2. être
+          3. Dire Parler Répondre
+          4. Savoir
+          5. Faire
+          6. Vouloir
+          7. Pouvoir
+          8. Connaître
+          9. Penser Croire
+          10. Aimer Préférer
+          11. Choisir
+          12. Falloir
+          13. Devoir
+          14. Aller (je vais)
+          15. Mes Mon Ton
+          16. toi et moi
+          17. Qui Quoi
+          18. Oui Non Peut-être
+          19. Pourquoi Parce que
+          20. Pas Un peu Jamais toujours
+          21. A classer
