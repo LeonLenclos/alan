@@ -257,7 +257,7 @@ class Alan(chatterbot.ChatBot):
             if self.conversation[-1]['finished']:
                 self.talk(input=self.conversation[-1]['msg'])
 
-    def talk(self, input=None, listener=None):
+    def talk(self, input=None):
         """
         Use input adapters to get an input, get a response and output the
         response with output adapters.
@@ -269,27 +269,24 @@ class Alan(chatterbot.ChatBot):
 
         try:
             # Listen
-            if listener: listener.send(state='listening')
             if input is None:
                 input = self.input.process_input()
 
             # Think
-            if listener: listener.send(state='thinking')
             output = self.get_response(input)
 
             # Speak
-            if listener: listener.send(state='speaking')
             command = re.search(command_regex, output.text)
             if command: output.add_extra_data("command", command.group(1))
             output.text = re.sub(command_regex, "", output.text)
-            self.output.process_response(output, self.conversation_id)
-
-            # Execute command
             if command:
-                self.execute_command(command.group(1))
+                do_command = lambda: self.execute_command(command.group(1))
+            else:
+                do_command = lambda: None
 
-            # Waiting
-            if listener: listener.send(state='waiting')
+            self.output.process_response(output, do_command, self.conversation_id)
+            
+
 
 
         # Catch errors and say something funny
