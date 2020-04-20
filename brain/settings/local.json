@@ -2,6 +2,6 @@
     "import": [
         "base",
         "interface/webaudio",
-        "logic/spectacle"
+        "logic/local"
     ]
 }

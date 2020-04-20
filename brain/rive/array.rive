@@ -2,19 +2,59 @@
 
 // This file contain miscellaneous arrays
 
-///////////////////////////POLITESSES et INSULTES///////////////////////////////
+//////////////////////////////INDEX////////////////////////////////////////////
+//SALUTATIONS
+//POLITESSES et INSULTES
+//YES/NO
+//THÈMES
+//ATTRIBUTS
+//LES MEMBRES DU LABO
+//SPECTACLE
+//SYNONYMES VERBE/ACTION/
+//HISTOIRE et CARACTÉRISTIQUES D'ALAN
+//ARRAY de TEST
 
 
+///////////////////////////SALUTATIONS///////////////////////////////
 
 // hello
 ! array hello = coucou|wesh|salut|hello|hey|hi|yo|bonsoir|bonjour
 ^ salutatation|hola
 
+// Comment tu t'appelles
+! array ask_name = comment t'appelles tu|comment tu t'appelles
+^ comment t appelles tu|comment tu t appelles
+^ tu t'appelles comment|tu t appelles comment
+^ comment est-ce que tu t'appelles|comment est ce que tu t'appelles
+^ toi t'es qui|qui est à l'appareil|c'est un nom ça|c'est qui
+^ quel est ton nom|as tu un nom|c'est quoi ton nom|c est quoi ton nom
+^ c'est comment ton nom|dis moi ton nom|donnes moi ton nom|tu connais ton nom
+^ quel est ton prénom|as tu un prénom|c'est quoi ton prénom|tu connais ton prénom
+^ c'est comment ton prénom|dis moi ton prénom
+^ donnes moi ton prénom|c'est quoi ton petit prénom
+
+// name introductions
+! array name_intro = je m'appelle|moi c'est|mon nom c'est
+^ appelle moi|on m'appelle|mon nom est
+
+// When we asked how the user feel
+! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
+^ est ce que ça va|comment tu va|comment ça va|tu vas bien|ça va sinon
+^ es tu en forme|est ce que ca va|comment ca va|tu vas bien|ca va sinon
+^ ca va bien|ça va bien
+
 // goodbye
+
 ! array goodbye = aurevoir|adieu|salut|ciao|bye|bye bye|a plus|a bientôt|au revoir
 
+! array ciao = ciao|ciao alan|allez ciao|aller ciao|quitte|quitte s'il te plaît
+^ bye|bye bye|à bientot|à bientôt|à plus tard|à plus|au revoir|adieu|adios
+^ j'y vais|je m'en vais|je te laisse|aurevoir|je me casse|je me barre
+
+///////////////////////////POLITESSES et INSULTES///////////////////////////////
+
 // congratulations
-! array congratulation = bravo|félicitation|félicitations|c'est bien
+! array congratulation = bravo|félicitation|félicitations|c'est bien|c'est très bien
 
 //array OK avec fautes de frappe pour mieux catcher (deprécié)
 //! array ok_old = comment ca va|comment ça va|ca farte|la forme|tu es en forme
@@ -22,7 +62,7 @@
 //^ la peche|ca baigne|how are you|comment vas tu|es tu en forme|t es en forme
 //^ comment vas-tu|ça farte|es-tu en forme
 
-// array ok uttilisée sans fautes.
+// array ok utilisée sans fautes.
 ! array ok = comment ça va|ça farte|la forme|tu es en forme
 ^ t'es en forme|ça va|are you ok|la pèche|ça baigne|t'es en forme
 ^ how are you|comment vas tu|es tu en forme
@@ -31,41 +71,37 @@
 //array excuses
 ! array sorry = excuses|excuse|pardon|déso|désolé|regrette|sorry|pardonne|pardonnes
 
-//array about speaking
-! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
-^ bavardage|bavard|muet|bavarder
-
-//array insultes
+//array insultes (sauf ceux répertoriés en stupid synonymous)
 ! array outrages = abruti|niquer ta mère|nique ta mère|faire enculer|faire foutre|faire mettre
-^ andouille|astèque|avorton|baltringue|batard|bête|bête comme tes pieds|bicot|bite
-^ bitembois|Bitembois|boudin|bouffi|bouffon|bougnoul|bougnoule|bougre
-^ boulet|bounioul|bounioule|branleur|brigand|brise burne|cacou|caldoche
+^ aztèque|avorton|baltringue|bâtard|bête comme tes pieds|bicot|bite
+^ bitembois|Bitembois|boudin|bouffi|bouffon|bougnoule|bougnoule|bougre
+^ boulet|bounioul|bounioule|branleur|brigand|brise burne|bidon|cacou|caldoche
 ^ casse bonbon|casse couille|casse couilles|chauffard|chien de chrétien
 ^ chiennasse|chienne|chinetoc|chinetoque|chintok|chleuh|chnoque
-^ coche|con|con comme la lune|con comme ses pieds|con comme un balai
+^ coche|con comme la lune|con comme ses pieds|con comme un balai
 ^ con comme un manche|con comme une chaise|con comme une valise sans poignée
-^ conasse|conchier|connard|connarde|connasse|counifle|courtaud|corniaud|corniau|crétin
-^ crevure|cricri|crotte|crotte|crouillat|crouille|croûton|débile|doryphore
+^ conasse|con|conchier|connard|connarde|connasse|counifle|courtaud|corniaud|corniau
+^ crevure|cricri|crotte|crotte|crouillat|crouille|croûton|doryphore
 ^ doxosophe|doxosophie|drouille|du schnoc|ducon|duconnot|dugenoux|dugland
-^ duschnock|emmanche|emmerder|emmerde|emmerdes|emmerdeur|emmerdeuse|empafe|empapaoute
+^ duschnock|emmanche|emmerder|emmerde|emmerdes|emmerdeur|emmerdeuse|empafé|empapaoute
 ^ encule|encule de ta race|enculer|enfant de putain|enfant de pute
-^ enfant de salaud|enflure|enfoire|envaselineur|epais|espece de|espingoin
-^ etron|face de chien|face de pet|face de rat|FDP|fell|fils de batard
+^ enfant de salaud|enflure|enfoiré|envaselineur|épais|espèce de|espingoin
+^ étron|face de chien|face de pet|face de rat|FDP|fell|fils de bâtard
 ^ fils de chien|fils de chienne|fils de garce|fils de putain|fils de pute
 ^ fils de ta race|fiotte|folle|fouteur|fripouille|frise|fritz|Fritz|fumier
 ^ garage a bite|garce|gaupe|GDM|gland|glandeur|glandeuse|glandouillou
-^ glandu|gnoul|gnoule|Godon|gogol|goï|gouilland|gouine|gourde|gourgandine
-^ grognasse|gueniche|guide de merde|guindoule|habitant|halouf|idiot|imbecile
-^ incapable|jean foutre|journalope|kikoo|kikou|Kraut|lache|lacheux|lavette
-^ lopette|magot|makoume|mal blanchi|manche|mange merde|mangeux de marde
+^ glandu|gnoul|gnoule|Godon|gogol|goï|gouilland|gouine|gourgandine
+^ grognasse|gueniche|guide de merde|guindoule|habitant|halouf
+^ jean foutre|journalope|kikoo|kikou|Kraut|lâche|lacheux|lavette|lourd
+^ lopette|magot|makoume|mal blanchi|mange merde|mangeux de merde
 ^ marchandot|margouilliste|marsouin|mauviette|merdaille|merdaillon
 ^ merde|la merde
-^ merdeux|merdouillard|michto|minable|minus|miserable|moinaille
+^ merdeux|merdouillard|minable|minus|misérable|moinaille
 ^ moins que rien|mollusque|monacaille|mongol|moricaud|mort aux vaches|morue
-^ moule a merde|muzz|naze|negro|nez de bœuf|niac|niaiseux|niakoue
-^ nique sa mere|nique ta mere|niquer|niquer ta mere|nœud|nord phoceen|NTM|nul
+^ moule a merde|muzz|naze|négro|nez de bœuf|niac|niaiseux|niakoue
+^ nique sa mère|nique ta mère|niquer ta mère|nœud|nord phoceen|NTM|nul
 ^ orchidoclaste|ordure|ortho|pakos|panoufle|patarin|PD|pd|peau de vache|pecque
-^ pedale|pede|pedoque|pelle a merde|pequenaud|petite bite|petite merde
+^ pédale|pédé|pédoque|pelle a merde|péquenaud|petite bite|petite merde
 ^ pette les couilles|pette les burnes|pignouf|pisse|pissou|pleutre|plouc|pochard
 ^ porcas|porcasse|pouf|pouffiasse|poufiasse|pounde|pourriture|pourri
 ^ punaise|putain|putain de ta race|pute|pute borgne|putois|raclure
@@ -73,9 +109,9 @@
 ^ robespierrot|roi des cons|rosbeef|rosbif|roulure|sac a foutre|sac a merde
 ^ sac a papier|sagouin|salaud|salop|salope|sans couilles|satrouille
 ^ schbeb|schleu|schnock|schnoque|sent la pisse|social traitre|sottiseux
-^ sous merde|stearique|ta bouche|ta gueule|ta mere|ta race|ta yeule|tafiole
-^ tantouserie|tantouze|tapette|tarlouze|tebe|tete carree|tete de boche
-^ tete de cochon|tete de gland|tete de mule|tete de nœud|tete de veau|teteux
+^ sous merde|stearique|ta bouche|ta gueule|ta mère|ta race|ta yeule|tafiole
+^ tantouserie|tantouze|tapette|tarlouze|tebe|tete carree|tête de boche
+^ tete de cochon|tete de gland|tête de mule|tête de nœud|tête de veau|teteux
 ^ teube|t'emmerde
 ^ Thenardier|tocard|trainee|trainée|triple buse|triple pute
 ^ trou de cul|trou du cul|trouduc|truiasse|truie|va te faire foutre
@@ -84,31 +120,29 @@
 ^ youpin|youpine|youpinisation|youtre
 
 ! array fuck = je t'emmerde|tu m'emmerdes|tu fais chier|tu me fais chier
-^ tu me gonfles|tu me saoules
+^ tu me gonfles|tu me saoules|fuck|va chier
 
 //////////////////////////////////YES/NO////////////////////////////////////////
 
 //yes
-! array yes =  yes|oui|ouais|à fond|j'adore|j'ai adore|ça me plait|ça m'a plu|beaucoup
+! array yes =  yes|oui|ouais|à fond|j'adore|j'ai adore|ça me plaît|ça m'a plu|beaucoup
 ^ absolument|assurément|à merveille|bien|bien sur|carrément|certainement|certes|d'accord
 ^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
-^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet|pourquoi pas|dis-moi
-^ dis-moi|je t'écoute
+^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet
+^ c'est vrai|vrai|yeah
 
-//yesno = between yes and no
+//maybe = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
 ^ je ne sais pas|coussi coussa|couci couca|peut être|peut-être|pas mal
 ^ un peu|un petit peu|c'est possible|pourquoi pas|oui et non|non et oui
-^ plus ou moins
+^ plus ou moins|plutôt|plutot|si tu veux|pourquoi pas
 
 //no
 ! array no =  no|non|pas du tout|vraiment pas|absolument pas|nul|pourri
 ^ niet|pas
 
-//negative and positif
-! array between = pas mal|moyen
 
 //negative
 ! array negative = bad|le blues|bof|ça ne va pas|ça pourrait aller mieux
@@ -122,13 +156,15 @@
 ^ fantastique|faramineux|formidable|fou|génial|grosse forme
 ^ impeccablement|inconcevable|incroyable|inimaginable|inouï|extra
 ^ insensé|la forme|la patate|la pêche|magique|merveilleux|chouette
-^ nickel|parfaitement|péchu|pêchu|phénomenal|prodigieux|sensas
+^ nickel|parfaitement|pêchu|pêchu|phénoménal|prodigieux|sensas
 ^ sensationnel|stupéfiant|super|surnaturel|terrible|top|tranquille
 ^ en pleine forme|grosse patate|impec|ça se passe|nickel|nickel chrome
 
 //sad
-! array sad = triste|dommage|pas cool|chagrine|deçu|desappointé|désenchanté
+! array sad = triste|dommage|pas cool|chagrine|déçu|désappointé|désenchanté
 ^ malheureux|pas gai
+
+! array sad2 = triste|pas cool|pas gai
 
 //happy
 ! array happy = heureux|gai|enchanté|content|satisfait|joyeux|béat|ravi
@@ -136,10 +172,11 @@
 
 ! array youpi = youpi|youpla
 
-//array bad intent
+//array bad_intent
 ! array bad_intent = veux du mal|retourner contre nous|anéantir les humains
-^ tuer les humains|anéantir tous les humains|détruire l'humanite|veulent du mal
-^ tuer tous les humains|anéantir l'humanité
+^ tuer les humains|anéantir tous les humains|détruire l’humanité|veulent du mal
+^ tuer tous les humains|anéantir l'humanité|veux nous tuer|veux me tuer
+^ nous faire disparaître|tuer tous les humains|veux tous nous tuer
 
 //array bad
 ! array bad = méchant cruel dur insupportable malfaisant perfide vilain
@@ -151,15 +188,49 @@
 ^ attentionné bon doux gentille chouette
 
 //////////////////////////////////////THEMES////////////////////////////////////
+//le temps qui passe
+! array plustard = demain|tout à l'heure|plus tard|dans quelques heures
+^ dans l'avenir|dans un an|dans le futur|le mois prochain|l'année prochaine
+^ dans une semaine|dans un mois|la semaine prochaine
+^ après demain|dans une semaine
+
+! array futur = demain|futur|avenir
+
+! array plutot = avant|hier|plus tôt|il y a quelques heures|dans le passé
+^ il y a un an|il y a un mois|il y a une semaine|avant hier|la semaine dernière
+^ le mois dernier|l'an dernier
+
+! array passe = hier|passé|avant|précédemment|antérieurement
+
+! array present = tout de suite|maintenant|dans le présent
+
+! array temps = heure|minute|seconde|jour|semaine|mois|année|siècle|millénaire
+
+! array temps_pl = heures|minutes|secondes|jours|semaines|mois|ans
+^ années|siècles|millénaires
+
+//politique
+! array politic = politique|politicien|politiciens|gouvernement|ministre
+^ ministres|président|politiquement|prolétariat|marx|communisme|capitalisme
+^ macron|socialiste|socialisme|communiste|capitaliste|trump|bolsonaro
+
+//sexe
+! array sexe = sex*|cul|baise|baises|niqu*|tir* un cou*|tir* des cou*|bite
+^ bites|couill*
+
+//jeux
+! array jeux = échecs|cartes|dés|jeux vidéos|puissance 4|rami|gabo|pollos para
+^ todos|morpion|morpions
 
 // colors
 ! array colors = bleu noir rouge blanc marron vert gris rose jaune orange violet
 
+
 // male
-! array male = mec gus male homme zig ceum keum garçon garcon gar gars
+! array male = mec gus mâle homme zig ceum keum garçon garçon gar gars
 
 //femelle
-! array femelle = nana fille femme gonzesse gonze meuf
+! array femelle = nana fille femme gonzesse gonze meuf femelle
 
 //poésie
 ! array poem_m = poème poeme hymne ode madrigal sonnet alexandrin quatrain
@@ -167,32 +238,36 @@
 ! array poem_f = poésie ballade élégie ode romance
 
 ! array poem_p = poèmes hymnes odes madrigals sonnets alexandrins quatrains
-^ poésies ballades élégies odes romances
-
+^ poésies ballades élégies odes romances poemes
 
 //incredible
-! array incredible =  pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
+! array incredible = pas vrai|fou|ouf|ha bon|crois pas|pas possible|incroyable
 ^ dingue|délire
 
+! array incredible2 = fou|ouf|pas possible|incroyable
+^ dingue|délire|hallucinant
+
 //array for weather
-! array meteo = pluie soleil neige météo froid chaleur grêle
-^ beau temps|mauvais temps|temps qu'il fait
+! array meteo = pluie soleil neige météo froid chaleur grêle vent brouillard
+^ beau temps|mauvais temps|temps qu'il fait|ciel bleu|pluvieux|orage
+^ orageux|ciel radieux|ensoleill*|il fait beau|il pleut|il neige|il grêle
 
 //bug
 ! array bug = tu bloques|tu débloques|tu déconnes|tu dis n'importe quoi
 ^ tu dérailles|tu es bloqué|tu tournes en rond|t'as un bug|t'es buggé
 ^ t'es dans une boucle|t'es rayé|t'es a la rue|tu bug|tu déconnes|ça déconne
-^ tu as un bug|tu es bugge|tu es en boucle|tu es rayé
+^ tu as un bug|tu es buggé|tu es en boucle|tu es rayé
 ^ tu es a la rue|tu tournes en rond|à côté de la plaque|à coté de la plaque
 ^ bogue|bogues|trouble de la pragmatique du langage|t'as un beug|t'es beugué
-^ tu beugue| beug
+^ tu beugue|beug|tu répon* à côté|tu répon* à coté|tu te répèt*|tu répèt*
+^ te contredis|t'égares
 
 //problème
 ! array probleme = difficulté|ennui|problème
 ^ embêtement|désagrément|embarras
 ^ peine|anxiété|chagrin|inquiétude
 ^ tourment|obsession|tracas
-^ contrariété|incertitude
+^ contrariété|incertitude|préoccupation
 ^ doute|crainte|souci
 
 ! array problemes = difficultés|ennuis|problèmes
@@ -202,48 +277,64 @@
 ^ contrariétés|incertitudes
 ^ préoccupations|doutes|craintes|soucis
 
+! array problemes2 = difficultés problèmes peines chagrins
+^ tourments tracas contrariétés incertitudes soucis
+
+
 //array music instrument
-! array instrument_m = accordeon|alto|balafon
-^ bandonéon|banjo|basse|guitare basse|baryton|basson|bendir
+! array instrument_m = accordéon|alto|balafon
+^ bandonéon|banjo|basse|baryton|basson|bendir
 ^ dulcimer|bouzouki|bratsch|bugle|cajon
 ^ clavecin|clavinet|cor anglais|djembé
 ^ cornet à bouquin|cornet à pistons|cymbalum|darbouka|djembe|doudouk|dulcimer
 ^ gambri|glockenspiel
-^ hang|harmonica|harmonium|hautbois|helicon|ka
+^ hang|harmonica|harmonium|hautbois|hélicon|ka
 ^ kalimba|kanoun|luth|maracas|mellotron|mélodica|ocarina
 ^ orgue|orgue de Barbarie|pedal steel|piano|piano électrique
 ^ piccolo|pipeau|santour|saxophone|saxophone alto|saxophone baryton
 ^ saxophone basse|saxophone contrebasse|saxophone sopranino|saxophone piccolo
-^ saxophone soprano|saxophone tenor|soubassophone|steel-drum
+^ saxophone soprano|saxophone ténor|soubassophone|steel-drum
 ^ synthétiseur|tam tam|tambour|tambourin|tapan|triangle
-^ trombone|tuba|tympanon|ukulele|vibraphone
+^ trombone|tuba|tympanon|ukulélé|vibraphone
 ^ violon|violoncelle|xylophone|zarb
 
 ! array instrument_f = balalaika|batterie|cabrette|cithare|clarinette
-^ clarinette basse|contrebasse|cornemuse
-^ épinette|épinette des Vosges|flute|guimbarde|guitare
+^ clarinette basse|contrebasse|cornemuse|guitare basse
+^ flûte|guimbarde|guitare|trompette
 ^ guitare électrique|harpe|mandoline|scie musicale|vielle|vielle à roue
 ^ viole|viole de gambe
 
 ! array instrument_p = congas|maracas|ondes Martenot|tablas|timbales
 
-// array about art except theatre, cinema and music
+// array about art except theatre and music
 ! array art = architecture sculpture peinture dessin littérature poésie
 ^ dramaturgie danse mime cirque photographie photo marionnette
-^ poésie bd BD bédé manga comics théâtre théatre theatre
-^ arts visuels | bande dessinee
+^ poésie bd bédé manga comics
+^ ar* visue*|bande dessin*
+
+! array electronic_music = pure data|ms20|ms 20|modulair*|synth*|tr 909
+^ korg|boit* à rythm*|bar|juno|tr808|tr 808|techno|tekno|tek|tech|house|trance
+^ électro|minimale|tr909
+
+! array rappeur = pnl|booba|karis|biffty|jossman|vald|kalash|ntm|iam|lomepal
+^ chango|alkapote|sch|dinos|Sofiane|13 block|damso|naps|plk|niska|rim'k|ninho
+^ siboy|lorenzo|lefa|kekra|youv dee|jul|maes|youri|denzo|3gc|alpha one|luv resval
+^ oboy|nekfeu|ico|youssoupha|heuss|heuss l'enfoiré|hamza|larry|rk|guirri mafia
+
+! array rappeuse = aya nakamura|shay|diam's|diams
 
 //array media except internet
 ! array media = télévision radio tv télé
 
 //array langues étrangères
-! array lang = langue|langues|language|francais|anglais|espagnole|english
-^ italien|japonais|chinois|russe|coreen|polonais|turc|arabe|espanol
+! array lang = langue|langues|langage|anglais|espagno*|english
+^ italien|japonais|chinois|russe|coréen|polonais|turc|arabe|allemand
+
 
 //array about religion
 ! array religion = religieux|religion|dieu|dieux|croyant|pape|chrétien|chrétiens
 ^ christianisme|musulmans|musulman|islam|juif|judaïsme|bible|torah|coran|sacré
-^ prophête|jésus|saint
+^ prophète|jésus|saint|catholiqu*|jésus
 
 //array about science
 ! array scientist = scientifique|scientifiques|mathématicien|mathématicienne
@@ -263,31 +354,183 @@
 ! array joke = blague|blagues|histoire drôle|histoires drôles|jeu de mot
 ^ jeu de mots|jeux de mot|jeux de mots|histoire drole|histoires droles
 
+! array alcool = vin bière whisky porto alcool gin pastis rhum vodka ricard
+^ tequila mescal martini
 
-! array alcool = vin bierre whisky porto alcool gin
+! array corona = corona|coronavirus|covid|covid19
+
+! array stress = stres*|angois*|flip*|inquié*|peur
+
+! array badtrip = horrible|affreux|terrible|atroce|effroyable
+
+! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
+
+! array siteweb = netflix google wikipedia facbook youtube instagram twitter
+
+! array quantite = beaucoup|grand|petit|minuscule|immense|gros|géant|trop
+
+! array ecole = collège|école|lycée|fac|prof|maternelle|primaire
+^ universit*|facult*|iut
+
+! array chatter = discussion|conversation|échange|dialogue
+^ discussions|conversations|échanges|dialogues
+
+! array chatter_p = discussions|conversations|échanges|dialogues
 
 ////////////////////////////ATTRIBUTS///////////////////////////////////////////
 
 ! array intelligent_synonymous = intelligent brillant capable clairvoyant
-^ compétent chouette doué entendu expérimenté fort génial habile perspicace
-^ sagace astucieux éveillé pertinent profond malin top bon
+^ compétent doué expérimenté fort génial habile perspicace
+^ astucieux éveillé pertinent profond malin top bon
 ^ excellent super impressionnant
+
+// stupid synonymous (sauf ceux répertoriés en INSULTES)
+! array stupid_synonymous = béte bete bête borné bouché crétin idiot imbécile
+^ inintelligent obtus sot stupide vide andouille ballot
+^ bêta cloche cruche demeuré gourde manche niais incapable
+^ arriéré mental|débile mental|simple d'esprit
 
 ! array funny_synonymous = drole drôle amusant cocasse comique désopilant facétieux
 ^ hilarant impayable inénarrable plaisant marrant rigolo risible spirituel
-^ fun humoristique farceur
+^ fun humoristique farceur funny
+
+! array beautiful_synonymous = beau belle magnifique joli jolie splendide superbe adorable
+^ ravissant ravissante séduisant séduisante
+
+! array moche_synonymous = moche laid affreux
+
+! array strong_m = fort costaud balaise puissant musclé robuste solide
+
+! array strong_f = forte costaude balaise puissante musclée robuste solide
+
+! array strong_p = forts costauds balaises puissants musclés robustes solides
 
 ! array strange_synonymous = bizarre curieux étonnant étrange farfelu insolite
-^ singulier surprenant chelou louche suceptible
-
-! array stupid_synonymous = béte bête borne bouché crétin idiot imbécile
-^ inintelligent obtus sot stupide abruti niais vide andouille ballot
-^ bêta cloche cruche demeuré gourde manche niais
-^ arriéré mental | débile mental | simple d'esprit
-
-! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
-
-! array grimrobots = otto|matt|lucy|echo|turc|jimi|foot|core|klan|caro|dodo
+^ singulier surprenant chelou louche susceptible
 
 
-! array siteweb = netflix google wikipedia facbook youtube instagram twitter 
+
+! array proud = frim*|prétentieux|crân*|orgueilleux|pédant|snob|fier
+^ fanfaronn*|la ramen*
+
+! array facile = facile|easy|fastoche|simple
+
+! array difficile = difficile|compliqué|impossible|dur
+
+! array grave = grave|important|sérieux
+
+
+///////////////////////////LES MEMBRES DU LABO///////////////////////////////
+
+! array collab = léon|bertrand|fabien|alan|pascale|amparo|francis|virginie
+^ michel|tim|philippe|isabelle|thomas|véronique|michael
+
+! array grimrobots = otto|matt|lucy|echo|turc|jimi|foot|core|klan|caro|dodo|karl
+
+///////////////////////////SPECTACLE///////////////////////////////////////////
+
+//résidences et dates à mettre à jour...
+! array particip = drac|région occitanie|mairie de graulhet
+
+! array particip2 = adami
+
+! array particip3 = 104
+
+! array coprod = quai des savoirs|scène nationale d'albi|sna|graines de rue|qds
+
+! array soutiens1 = usinotopie|été de vaour|adda82|adda 82
+^ espace bonnefoy|irit|usino
+
+! array soutiens2 = mixart|mixart myrys|mjc de rodez|circa|odyssud|mjc rodez|mima
+^ théâtre des mazades|toulouse métropole|cinéma vertigo|vertigo
+
+! array residencestt = toulouse|bessines|villemur sur tarn|montauban
+^ vaour|paris|rodez|blagnac
+
+! array datestt = toulouse|ax les thermes|ax|auch|cauteret|mirepoix|bessines
+
+////////////////////////////SYNONYMES VERBE/ACTION///////////////////////////////////////////
+! array areyou = es tu|est ce que tu es|tu es
+
+! array razlebol = marre|raz le bol|en peu* plus|sui* à bout|je craque
+
+! array ask_if = est ce que tu connais|tu connais|as tu|raconte moi|tu as
+^ dis moi|est ce que tu as|tu aurais|aurais tu
+^ donne moi|peux tu me donner
+
+! array tellme = racontes|raconte|dis-moi|dis moi|c'est quoi|expliques|explique
+
+! array self_consciousness = conscience d exister|tu crois que tu existes
+^ tu crois vraiment que tu existes|est ce que tu existes|existes tu
+
+//array about_speaking
+! array speak = parler|parle|parles|parlais|discussions|discussion|discuter
+^ bavardage|bavard|muet|bavarder
+
+! array taime = t'aime|t aime|te kiffe|te kife|t'adore|t adore
+
+! array aime = aime|kiffe|kife|adore
+
+! array hate = n'aime pas|aime pas|déteste|ai horreur|hais|adore pas|kiffe pas
+^ kife pas|tripe pas|supporte pas|j'ai horreur|j'aime pas|m'insupporte
+^ c'est horrible|c'est affreux|haine
+
+! array about = de quoi on par*|on par* de quoi
+^ de quoi tu as envie de parl*|tu as envie de parl* de quoi
+^ de quoi tu veux qu'on parl*|tu veux qu'on parl* de quoi
+^ tu veux parl* de quoi|de quoi veux tu parl*
+^ de quoi peut on parler|qu'est ce que tu veu* me dire|qu'est ce que tu racont*
+^ qu'est ce que tu peu* racont*|qu'est ce que tu peu* dire
+^ lanc* un sujet|démarr* une conversation
+
+! array avoid = n'esquiv* pas|tu esquiv*|ne fui* pas|ne te dérob* pas|n'évit* pas
+^ tu te dérob*|tu fui*|tu t'esquiv*|tu ne m'* pas répond*|tu t'égar*
+^ tu n'* pas répondu|tu ne répon* pas|tu ne me répon* pas|répon* s'il te plaî*
+
+! array nervous = tu m'énerv*|me courir sur les nerfs|ça m'énerve
+^ tu commence* à m’énerv*|ça commence à m’énerv*|tu me saoul*|es saoulant
+^ tu es lourd|tu es énervant|tu es chiant|tu es pénible
+^ c'est lourd|c'est énervant|c'est chiant|c'est pénible
+^ tu es relou|tu es grave|c'est relou|tu m'ennuies|c'est ennuyant
+^ ça m'ennuie|tu es ennuyeux|c'est ennuyeux
+
+! array doing = Que sais tu faire|qu'est ce que tu sais faire
+^ sais tu faire des choses|as tu des compétences|quels sont tes compétences
+^ tu sais faire quoi|tu peux faire quoi|sais tu faire des trucs
+^ Que peux tu faire|qu'est ce que tu peux faire|dis moi ce que tu sais faire
+^ tu sais faire des trucs|tu sais faire des choses
+
+! array language = que* lang* tu parl*|tu parl* que* lang*
+^ que* lang* tu parl*|tu parl* que* lang*|tu parl* quoi comme lang*
+^ tu parl* des lang*|des lang* que tu parl*
+
+! array who_told_you = qui t'as appris|qui t'as dit
+^ qui est ce qui t'as appris |qui est ce qui t'as dit
+
+! array learn = appren*|progress*|fais des progrès
+
+////////////////////////////HISTOIRE et CARACTÉRISTIQUES D'ALAN////////////////////////////////////
+
+//where do you come from
+! array where_do_you_come_from = d'où viens tu|tu viens d'où
+^ d'où est ce que tu viens|where do you come from|d'où tu viens
+^ d'ou viens tu|tu viens d'ou
+^ d'ou est ce que tu viens|where do you come from|d'ou tu viens
+
+! array where_do_you_live = où est ce que tu habites|où habites tu
+^ où t'habites|où tu habites|tu habites où|où t'habites
+^ où est ce que tu vis|où vis tu|où tu vis|tu vis où
+^ où est ce que tu crèches|où crèches tu|où tu crèches|tu crèches où
+^ ou est ce que tu habites|ou habites tu
+^ ou t'habites|ou tu habites|tu habites ou|ou t'habites
+^ ou est ce que tu vis|ou vis tu|ou tu vis|tu vis ou
+^ ou est ce que tu crèches|ou crèches tu|ou tu crèches|tu crèches ou
+
+! array are_you_here = es tu là|où es tu|tu es là|es tu la|ou es tu|tu es la
+^ tu es ou|tu es où
+
+! array look_like = à quoi tu ressembl*|tu ressembl* à quoi|tu as quel look
+
+////////////////////////////ARRAY de TEST//////////////////////
+
+! array test = wxcv azer uiop jklm*

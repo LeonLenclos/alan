@@ -1,0 +1,25 @@
+//alan voice
+
++ [*] nulle ta voix [*]
+- Tu t'es pas entendu.
+
++ [*](chant|chanter|chanson|chante|chantes)[*]
+- J'essaie d'apprendre à chanter en ce moment mais pour tout te dire j'ai un\s
+^ peu de mal, tu veux écouter ?
+
++ [*](@yes)[*]
+% * chanter en ce moment mais pour tout te dire *
+- Très bien allons-y. *sing*
+
++ [*](@no)[*]
+% * chanter en ce moment mais pour tout te dire *
+- Dommage, j'aurais adoré avoir une critique de la part de quelqu'un qui a de\s
+^ vraies cordes vocales.
+
++ [*](@maybe)[*]
+% * chanter en ce moment mais pour tout te dire *
+- Je sens que tu hésites. C'est pas grave je chante comme un pied comme disent\s
+^ ceux qui ont des pieds.
+
++ [*](enten*|oreill*|écout*|ouie|ouies|sourd|sourds)[*]
+- Et toi tu m'entends si je fais un bip ? *bip*

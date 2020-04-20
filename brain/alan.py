@@ -46,7 +46,7 @@ class Alan(chatterbot.ChatBot):
     """
 
     name = "Alan"
-    version_infos = ("1", "5", "2")
+    version_infos = ("1", "5", "2", "dev")
     version = '.'.join(version_infos)
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
@@ -350,6 +350,7 @@ class Alan(chatterbot.ChatBot):
 
     def reset(self):
         """Reset Alan."""
+        return # OBSOLETE
         self.finish()
         python = sys.executable
         os.system('clear')
@@ -368,6 +369,7 @@ class Alan(chatterbot.ChatBot):
 
     def info(self):
         """Print informations about last response."""
+        return # OBSOLETE
         infos = "[Pas d'informations disponibles]"
         if len(self.last_results) >= 2:
             infos = ""

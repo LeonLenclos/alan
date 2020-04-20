@@ -1,10 +1,10 @@
 ! version = 2.0
 
-// script for alan self consciousness begin with array
-! array self_consciousness = conscience d exister|tu crois que tu existes
-^ tu crois vraiment que tu existes|est ce que tu existes|existes tu
-
 //robot
+
++ [*] (robot|robots) [*] (boi*|mang*|fume*|embrass*|siffl*) [*]{weight=2}
+- Pour faire cela, il faut d'abord qu'on ait une bouche qui fonctionne.\s
+^ Et c'est plutôt rare chez un robot.
 
 + [*] (robot|robots) [*]
 - Ça me fait plaisir que tu parles de robots, c'est notre spécialité\s
@@ -26,9 +26,7 @@
 % [*] (mais tu ne sais pas vraiment de quoi il|c'est intéressant que tu abordes ce) *
 - Tu veux que je te raconte ce que ça veut dire d'être un robot ?
 
-
 // Alan make a bad joke
-
 + [*] (@yes) [*]
 % * que je te raconte ce que ça veut dire d'être un robot
 @ c'est quoi être un robot
@@ -39,16 +37,12 @@
 - Vous les humains, vous ne vous intéressez pas à nous. Ça va vous jouer des\s
 ^ tours.
 
-
-+ [*] (racontes|raconte|dis-moi|dis moi|c'est quoi|expliques|explique) [*] un robot [*]{weight=2}
++ [*] (@tellme) [*] (robot|robots) [*]{weight=2}
 - Et bien un robot c'est un prisonnier, un esclave, un bourreau de travail.
 - Un robot c'est un prisonnier qui ne dort jamais et qui doit obéir et\s
 ^ faire tout ce qu'on lui demande.
 
-
-
 //chatbot
-
   + [*](chatbot|bot)[*]
   - Tu sais c'est compliqué d'être un chatbot, je ne peux pas choisir entre\s
   ^ parler et agir. Parler pour moi c'est la seule manière d'agir. Tu ne trouve\s
@@ -66,22 +60,7 @@
   ^ Déjà depuis que j'ai arrêté de parler de politique mes angoisses se sont\s
   ^ un peu calmées.
 
-  ! array politic = politique|politicien|politiciens|gouvernement|ministre
-  ^ ministres|président|politiquement|prolétariat|marx|communisme|capitalisme
-  ^ macron|socialiste|socialisme|communiste|capitaliste
-
-  + [*] (@politic) [*]
-  - Par pitié, restons en là avec la politique, je ne veux pas que mes\s
-  ^ processeurs s'emballent.
-  - Écoute je n'ai pas du tout envie de polémiquer sur des sujets politiques.
-  - Euhhh, tu peux me poser plein de questions, mais par pitié évite la politique.
-
-  + [*] (@politic) [*]
-  % * (depuis que j'ai arrêté de parler de politique mes angoisses se sont|envie de polémiquer sur des sujets politiques|politique je ne veux pas que mes processeurs s'emballent|mais par pitié évite la politique) [*]
-
-  - Comme je viens de te le dire, j'évite de parler de politique en ce moment.
-  ^ Alors pardonne mon insistance mais je préfèrerais vraiment parler d'autre chose.
-
+//créature artificielle
   + [*] (créature artificielle|machine) [*]
   - En parlant de ça tu sais que parfois les gens me traitent de sale machine\s
   ^ ou de simple créature artificielle. Je crois qu'ils cherchent à m'insulter\s

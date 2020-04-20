@@ -1,3 +1,0 @@
-{
-    "import": ["base", "interface/linux_picospeak", "logic"]
-}

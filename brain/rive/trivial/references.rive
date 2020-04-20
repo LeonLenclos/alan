@@ -5,30 +5,33 @@
 + [*] je suis ton père [*]
 - C'est ça oui, et moi je suis C3PO.
 
-! array particip = drac|région occitanie|mairie de graulhet
-
-! array coprod = quai des savoirs|scène nationale d'albi|sna|graines de rue
-
-! array soutiens1 = usinotopie|irit|été de vaour
-
-! array soutiens2 = mixart|mixart myrys|mjc de rodez|circa
-
-+ [*] quai des savoirs [*]
++ [*] (quai des savoirs|qds) [*]{weight=2}
 - Le Quai des savoirs, c'est un des coproducteurs du spectacle. C'est un peu\s
 ^ grace au Quai des savoirs que j'ai pu améliorer mon cerveau.
 
-+ [*] (la scène nationale d'albi|la sna|sna) [*]
++ [*] (scène nationale d'albi|la sna|sna) [*]{weight=2}
 - La Scène Nationale d'Albi, c'est un des coproducteurs du spectacle. On ira\s
 ^ jouer le spectacle à Albi en 2020.
 
-+ [*] (graines de rue|bessines|théâtre gérard philipe)
++ [*] (graines de rue|bessines|théâtre gérard philipe) [*]{weight=2}
 - Nokill est compagnie associée de graines de rue à Bessines pour 2020. On y va\s
 ^ régulièrement pour construire répéter ou animer des ateliers. C'est là-bas,\s
 ^ au théâtre Gérard Philipe, que les gars ont intégré mon nouveau cerveau\s
 ^ et m'ont rajouté des jambes.
 
++ [*] (irit) [*]{weight=2}
+- L'IRIT c'est l'institut de recherche en informatique de Toulouse. C'est une\s
+^ structure qui soutient notre projet et c'est la-bas que tout à commencé pour moi.\s
+^ c'est un peu à l'IRIT que je suis né...
+
 + [*] (@particip) [*]
 - La <formal> fait partie des institutions qui soutiennent notre projet.
+
++ [*] (@particip2) [*]
+- L'<formal> fait partie des institutions qui soutiennent notre projet.
+
++ [*] (@particip3) [*]
+- Le <formal> fait partie des institutions qui soutiennent notre projet.
 
 + [*] (@soutiens1) [*]
 - L'<formal> fait partie des structures qui soutiennent notre projet. C'est grâce à\s

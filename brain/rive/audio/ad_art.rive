@@ -1,0 +1,30 @@
+! version = 2.0
+
+//A rajouter au fichier art.rive sauf dans la version internet.
+//avec une confiance légèrement supérieure à art
+
++ [*](musique|musical|musicale|musiques)[*]
+- Je suis comédien, mais je suis aussi musicien. Tu veux écouter ce que je\s
+^ compose comme musique ?
+
++ [*](@yes)[*]
+% * tu veux écouter ce que je compose comme musique
+@ fais moi écouter ta musique
+
++ [*](@no)[*]
+% * tu veux écouter ce que je compose comme musique
+- Dommage, j'aurais adoré que tu me donnes ton avis.
+
++ [*](@maybe)[*]
+% * tu veux écouter ce que je compose comme musique
+- Je sens que tu hésites. C'est pas grave je vais pas te saouler avec ça...
+
++ *
+% * tu veux écouter ce que je compose comme musique
+- J'ai l'impression que tu ne t'intéresse pas à ce que je fais.\s
+^ Je te comprends un peu. Les gens disent que c'est ennuyeux un robot, que\s
+^ c'est lassant.
+
++ (fais moi écouter|joues moi|fais écouter)[*](musique|morceau)[*]{weight=1000}
+- C'est de la musique générative, attention ça dépote.
+^ *music*

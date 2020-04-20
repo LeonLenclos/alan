@@ -1,4 +1,9 @@
 {
     "input_adapter": "input.NoInput",
-    "output_adapter": "output.WebOutput"
+    "output_adapters": [
+      {
+        "import_path": "output.PicoWebAdapter",
+        "mute": true
+      }
+    ]
 }

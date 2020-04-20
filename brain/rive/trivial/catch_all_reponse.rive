@@ -2,6 +2,17 @@
 
 //some responses after a catch all
 
+
++ [*](@yes)[*]
+% c'est tout ce que tu trouves à répondre
+- Tu me diras c'est déjà mieux que rien.
+
++ [*](@no)[*]
+% c'est tout ce que tu trouves à répondre
+- Alors précise ta pensée.
+- Alors soit plus clair.
+- Alors soit plus explicite
+
 + [*](@yes)[*]
 % * et toi est ce que tu sais toujours quoi dire
 - Tu veux dire que tu n'as jamais de beugs, quelle chance. Pourrais tu me\s
@@ -96,15 +107,15 @@
 ^ domaine de compétence.
 
 + [*](robot|machine|bot|chatbot|programme|logiciel)[*]
-% * ton avis je suis un robot ou un humain
+% * ton avis je suis un robot ou un humain *
 - Je te félicite pour ta grande perspicacité.
 - Oui, tu as raison. On dirait que je n'arrive toujours pas à passer le test de Turing...
 
 + [*](humain|une personne|homme)[*]
-% * ton avis je suis un robot ou un humain
+% * ton avis je suis un robot ou un humain *
 - Tu te trompe mais tu me flattes, mes créateurs ont vraiment bien travaillé.\s
 ^ Ou alors tu as le sens de l'observation d'un aveugle myope.
-- Youpi !!!! Contactez les médias internationaux, j'ai enfin passé le test de Turing !
+- Youpi ! Contactez les médias internationaux, j'ai enfin passé le test de Turing !
 
 + [*](@yes)[*]
 % * toi tu passes un bon moment avec moi
@@ -139,14 +150,14 @@
 //
 
 + [*](comme quoi|de quoi|par exemple|si tu veux|@yes)[*]
-% * (et si on parlait d'un truc plus intéressant|je préfèrerais qu'on parle d'autre chose)
+% * (et si on parlait d'un truc plus intéressant|je préférerais qu'on parle d'autre chose)
 - On pourrait parler de moi par exemple.
 - Comme tu veux !
 
 //
 
 + [*](@yes)[*]
-% * (tu penses que je devrais être capable de comprendre ce genre de phrase|tu crois qu'il faudrait que je sache répondre à ce genre de phrase|tu crois que je devrais être capable de comprendre ce que tu as dit)
+% * (tu penses que je devrais être capable de comprendre ce genre de phrase|tu crois qu'il faudrait que je sache répondre à ce genre de phrase|tu crois que je devrais être capable de comprendre ce que tu as dit|est ce qu'il faut que j'en parle à mes créateurs)
 - Ok j'en parlerai à mes créateurs. *todo*
 - Ok, je le note dans ma liste des choses à apprendre. *todo*
 

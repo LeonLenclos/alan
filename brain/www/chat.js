@@ -1,53 +1,24 @@
 $(document).ready(function(){
 
 	////////// VARS/////////////////
+
 	// state of the conversation
-	var conversation_open = false;
+	var conversationOpen = false;
 	// id of the conversation
 	var conv = null;
 
-	////////// CONVERSATIONS //////////
-	function newConv() {
-		$.post('/new', '', openConvCallback, 'text');
-	}
-	
-	function lastConv() {
-		$.post('/last', '', openConvCallback, 'text');
-	}
-	
-	function openConvCallback(response) {
-		var response = $.parseJSON(response)
-		//catch errors in response
-		if(catchError(response)){
-			return
-		}
-		// open conversation
-		openConversation(response.conversation_id, response.alan_status)
-	}
 
-	function openConversation(id, status) {
-		conv = id
-		if(GET_CONV_METHOD == 'last'){
-			conv = -1
-		}
-		conversation_open = true
-		// write status
-		$('#status').html("Conversation ouverte. ("+status+")")
-		// enable input
-		enable_input()
-	}
 
 	////////// EVENTS //////////
 	// keys events
 	$(window).keydown(function(event){
 		// Event for pressing ENTER key
 		if(event.keyCode == 13) {
-			update_input($("#msg").val(), true);
-			$("#msg").val("");
+			talk();
   			event.preventDefault();
   			return false;
 		}
-		// Event for pressing Arrow key
+		// Events for pressing Arrow key
 		if(event.keyCode == 38) { //UP
 			$("#discussion-container").animate({scrollTop : '-=50px'}, 200)
   			event.preventDefault();
@@ -58,110 +29,192 @@ $(document).ready(function(){
   			event.preventDefault();
   			return false;
 		}
+		// Events for secret talk
 		if(event.keyCode == 112) { //F1
-			secret_talk('f1')
+			secretTalk('f1')
   			return false;
 		}
 		if(event.keyCode == 113) { //F2
-			secret_talk('f2')
+			secretTalk('f2')
   			return false;
 		}
 		if(event.keyCode == 114) { //F3
-			secret_talk('f3')
+			secretTalk('f3')
   			return false;
 		}
 		if(event.keyCode == 115) { //F4
-			secret_talk('f4')
+			secretTalk('f4')
   			return false;
 		}
-
 		if(event.keyCode == 119) { //F8
-
-			secret_talk('f8')
+			secretTalk('f8')
   			return false;
 		}
+		// Give focus to the text input on keydown
 		if(!$("#msg").is(':focus')) {
         	$("#msg").focus();
         }
 	});
+
 	// Event for typing
 	$("#msg").on("input", function(e) {
 		var input = $(this);
   		var val = input.val();
+  		// update input if it has changed
   		if (input.data("lastval") != val) {
     		input.data("lastval", val);
-	    	update_input(val, false);
+	    	updateInput(val, false);
 	  	}
+	});
+
+	// Event for pressing talk button
+	$("#talk").on("click", talk);
+
+	// Event for pressing new button
+	$("#new").on("click", newConv);
+
+
+	// Event for pressing open about
+	$("#openAbout").on("click", function(e){
+		$("#about").toggleClass('closed');
+	});
+
+	// Event for pressing close
+	$(".close").on("click", function(e){
+		var box = $(this).parent().parent();
+		box.toggleClass('closed');
 	});
 
 
 	///////// SET HTML FUNCTIONS //////////
+
+
+	
+	// set status
+	function setStatus(msg) {
+		$('#status').html(msg);
+	}
+
 	// disable the input and the button
-	function disable_input (){
-		$("#talk").prop( "disabled", true );
-		$("#msg").prop( "disabled", true );
+	function disableInput(){
+		$("#talk").prop("disabled", true);
+		$("#msg").prop("disabled", true);
 	}
 
 	// enable the input and the button
-	function enable_input (){
-		$("#talk").prop( "disabled", false );
-		$("#msg").prop( "disabled", false );
-	}
-
-	// add a txt to the discussion. speaker must be 'human' or 'alan'
-	// DEPRECIATED !!!!!!!!!!!!!!!!!!!!!!!
-	function addToDiscussion(txt, speaker) {
-		// #discussion is a ul ellement (unordered list)
-		var new_entry = '<li class="'+speaker+'">'+txt+'</li>'
-		var discussion = $("#discussion").html()
-		$("#discussion").html(discussion + new_entry)
-		// scroll to the bottom (with animation)
-		$("#discussion-container").scrollTop($('#discussion-container').prop("scrollHeight"));
+	function enableInput(){
+		$("#talk").prop("disabled", false);
+		$("#msg").prop("disabled", false);
 	}
 
 	// update the discussion
 	function updateDiscussion(conv) {
 		// #discussion is a ul ellement (unordered list)
 		var discussion_html = ''
-
 		$.each(conv, function(i,v){
-			discussion_html += '<li class="'+v.speaker+'">'+v.msg+'</li>'
+			discussion_html += '<li class="'+v.speaker+'">'+v.msg+'</li>';
 		});
-		var old_discussion = $("#discussion").html()
+
 		if ($("#discussion").html() != discussion_html){
-			$("#discussion").html(discussion_html)
+			$("#discussion").html(discussion_html);
 			$("#discussion-container").scrollTop($('#discussion-container').prop("scrollHeight"));
-
 		}
-		// scroll to the bottom (with animation)
 
-
-		if(conv.length>0 && !conv[conv.length-1].finished && conv[conv.length-1].speaker == 'alan'){
-			disable_input();
+		if((conv.length>0
+			&& !conv[conv.length-1].finished
+			&& conv[conv.length-1].speaker == 'alan')
+			|| !conversationOpen ){
+			disableInput();
 		}
 		else{
-			enable_input();
+			enableInput();
 		}
 	}
 
-	//catch errors
-	function catchError(jsonMsg) {
-		if(jsonMsg.hasOwnProperty('err')){
-			$('#status').html(jsonMsg.err + ' <a href="/">Nouvelle conversation</a>')
 
+
+
+	//////////////// REQUEST ///////////////////
+
+	// catch errors
+	function catchError(jsonMsg) {
+		// console.log(jsonMsg, jsonMsg.hasOwnProperty('err'))
+		if(jsonMsg.hasOwnProperty('err')){
+			var newConvLink = $('<a>')
+				.html('Nouvelle conversation')
+				.addClass('buttonStyle')
+				.on("click", newConv);
+			$('#status').html(jsonMsg.err)
+				.append(newConvLink);
+
+			conversationOpen = false;
+			disableInput();
 			return true;
 		} else {
 			return false;
 		}
-
 	}
 
 
+
+	//////////  OPEN CONVERSATIONS //////////
+	
+
+	// Request a new conversation
+	function newConv() {
+		requestConv("Ouverture d'une nouvelle conversation.", "/new");
+	}
+	
+	// Request the last conversation
+	function lastConv() {
+		requestConv("Ouverture de la conversation.", "/last");
+	}
+
+	// Request a conversation
+	function requestConv(statusMsg, methodURL){
+		setStatus(statusMsg);
+		disableInput();
+		conversationOpen = false;
+		updateDiscussion([]);
+		$.post(methodURL, '', requestConvCallback, 'text');
+	}
+
+	// Callback for conversation request
+	function requestConvCallback(response) {
+		var jsonMsg = $.parseJSON(response);
+		//catch errors in response
+		if(catchError(jsonMsg)) return;
+		// open conversation
+		openConversation(jsonMsg.conversation_id, jsonMsg.alan_status);
+	}
+
+	// Open a conversation
+	function openConversation(id, status) {
+		if(GET_CONV_METHOD == 'last') {
+			conv = -1;
+		} else {
+			conv = id;
+		}
+		conversationOpen = true;
+		setStatus("Conversation ouverte. ("+status+")");
+		enableInput();
+	}
+
+
+
+
 	////////// UPDATE INPUT FUNCTION /////////
-	function update_input(msg, finished) {
+
+	
+	function talk() {
+		updateInput($("#msg").val(), true);
+		$("#msg").val("");
+	}
+
+	function updateInput(msg, finished) {
 
 		// prevent for talking to a closed conversation
-		if(!conversation_open) return;
+		if(!conversationOpen) return;
 
 		// Empty string for msg
 		if(msg === null) msg = "";
@@ -174,25 +227,30 @@ $(document).ready(function(){
 		};
 
 		// Send POST request
-       	console.log("Sending msg : " +jsonMsg.msg)
         $.ajax({
             type: "POST",
             url: '/update_input',
             data: JSON.stringify(jsonMsg),
             contentType: "application/json; charset=utf-8",
             dataType: "text",
-            success: console.log,
+            success: updateInputCallback,
             failure: function(errMsg) {
                 alert("Impossible d'envoyer le message à alan :'(");
             }
         });
       }
 
+    function updateInputCallback(response){
+    	jsonMsg = $.parseJSON(response);
+    	catchError(jsonMsg);
+    }
+
+
 	////////// TALK FUNCTION //////////
-	function secret_talk(msg) {
+	function secretTalk(msg) {
 
 		// prevent for talking to a closed conversation
-		if(!conversation_open) return
+		if(!conversationOpen) return
 
 		// Create Json Msg (with user entry)
 		var jsonMsg = {
@@ -212,98 +270,100 @@ $(document).ready(function(){
             failure: console.log
         });
       }
-		////////// GET CONV //////////
-		function get_conv() {
-			if(GET_CONV_METHOD == 'last'){
-				lastConv();
-			}
-			else if(!conversation_open){
+
+	////////// GET CONV //////////
+
+	function getConv() {
+		if(GET_CONV_METHOD == 'last'){
+			lastConv();
+		}
+		else if(!conversationOpen){
+			return
+		}
+		// Create Json Msg (with user entry)
+		var jsonMsg = {
+			conversation_id:conv
+		};
+
+		// Send POST request
+        $.ajax({
+            type: "POST",
+            url: '/get_conv',
+            data: JSON.stringify(jsonMsg),
+            contentType: "application/json; charset=utf-8",
+            dataType: "text",
+            success: getConvCallback,
+            failure: function(errMsg) {
+			console.log('getConv failure')
+
+                alert("Impossible d'envoyer le message à alan :'(");
+            },
+            timeout: 3000,
+            error: function(jqXHR, textStatus, errorThrown) {
+		        console.log('error ' + errorThrown)
+		        // Empty conversation on errors.
+
+		    }
+
+        });
+
+        // success callback
+		function getConvCallback(response) {
+			response = $.parseJSON(response)
+			//catch errors in response
+			if(catchError(response)){
 				return
 			}
-			// Create Json Msg (with user entry)
-			var jsonMsg = {
-				conversation_id:conv
-			};
-
-			// Send POST request
-	        $.ajax({
-	            type: "POST",
-	            url: '/get_conv',
-	            data: JSON.stringify(jsonMsg),
-	            contentType: "application/json; charset=utf-8",
-	            dataType: "text",
-	            success: getConvCallback,
-	            failure: function(errMsg) {
-				console.log('get_conv failure')
-
-	                alert("Impossible d'envoyer le message à alan :'(");
-	            },
-	            timeout: 3000,
-	            error: function(jqXHR, textStatus, errorThrown) {
-			        console.log('error ' + errorThrown)
-			        // Empty conversation on errors.
-
-			    }
-
-	        });
-
-	        // success callback
-			function getConvCallback(response) {
-				response = $.parseJSON(response)
-				//catch errors in response
-				if(catchError(response)){
-					return
-				}
-				updateDiscussion(response)
-			}
-
+			updateDiscussion(response)
 		}
+
+	}
 				////////// GET STATUS //////////
-		function get_status() {
-			if(GET_CONV_METHOD == 'last'){
-				lastConv();
-			}
-			else if(!conversation_open){
-				return
-			}
-			// Create Json Msg (with user entry)
-			var jsonMsg = {
-				conversation_id:conv
-			};
+		// function getStatus() {
+		// 	if(GET_CONV_METHOD == 'last'){
+		// 		lastConv();
+		// 	}
+		// 	else if(!conversationOpen){
+		// 		return
+		// 	}
+		// 	// Create Json Msg (with user entry)
+		// 	var jsonMsg = {
+		// 		conversation_id:conv
+		// 	};
 
-			// Send POST request
-	        $.ajax({
-	            type: "POST",
-	            url: '/get_conv',
-	            data: JSON.stringify(jsonMsg),
-	            contentType: "application/json; charset=utf-8",
-	            dataType: "text",
-	            success: getConvCallback,
-	            failure: function(errMsg) {
-				console.log('get_conv failure')
+		// 	// Send POST request
+	 //        $.ajax({
+	 //            type: "POST",
+	 //            url: '/get_conv',
+	 //            data: JSON.stringify(jsonMsg),
+	 //            contentType: "application/json; charset=utf-8",
+	 //            dataType: "text",
+	 //            success: getConvCallback,
+	 //            failure: function(errMsg) {
+		// 			console.log('getConv failure')
 
-	                alert("Impossible d'envoyer le message à alan :'(");
-	            },
-	            timeout: 3000,
-	            error: function(jqXHR, textStatus, errorThrown) {
-			        console.log('error ' + errorThrown)
-			        // Empty conversation on errors.
+	 //                alert("Impossible d'envoyer le message à alan :'(");
+	 //            },
+	 //            timeout: 3000,
+	 //            error: function(jqXHR, textStatus, errorThrown) {
+		// 	        console.log('error ' + errorThrown)
+		// 	        // Empty conversation on errors.
 
-			    }
+		// 	    }
 
-	        });
+	 //        });
 
-	        // success callback
-			function getConvCallback(response) {
-				response = $.parseJSON(response)
-				//catch errors in response
-				if(catchError(response)){
-					return
-				}
-				updateDiscussion(response)
-			}
+	 //        // success callback
+		// 	function getConvCallback(response) {
+		// 		response = $.parseJSON(response)
+		// 		//catch errors in response
+		// 		if(catchError(response)){
+		// 			return
+		// 		}
+		// 		updateDiscussion(response)
+		// 	}
 
-		}
+		// }
 
 		/////////////////// LETS GO /////////////////////////
 		if(GET_CONV_METHOD == 'new'){
@@ -314,6 +374,6 @@ $(document).ready(function(){
 		}
 
 		var timer, delay = 100;
-		 setInterval(get_conv, delay);
-		 setInterval(get_status, 1000);
+		 setInterval(getConv, delay);
+		 // setInterval(getStatus, 1000);
 });

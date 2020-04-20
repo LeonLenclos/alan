@@ -14,7 +14,7 @@ try :
         # commands
         'todo', 'rst', 'quit', 'info',
         # other
-        'siri', ]
+        'siri', 'léon' ]
     for d in dict_extension : french_dict.add_to_session(d)
 except ImportError:
     french_dict = None
