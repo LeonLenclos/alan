@@ -100,7 +100,7 @@ Dans la suite, le terme scénario désigne un ensemble de un ou plusieurs trigge
 
 - organisation du fichier
    - Les formels utilisent des triggers qui se déclénchent sur la forme des phrases et pas sur le sens d'un mot clé.
-   - Comme évoqué précédemment les redondances au sein d'un même fichier sont contreproductives, car elle rendent plus probable une répétition que dans le cas ou toutes les réponses sont regroupées sous le même trigger.
+   - Comme évoqué précédemment les redondances au sein d'un même fichier sont contreproductives, car elle rendent une répétition plus probable que dans le cas ou toutes les réponses sont regroupées sous le même trigger.
    - Pour enrichir ce fichier sans risquer de créer un redondance, une organisation est proposée en index du fichier formel.rive
    
           1. avoir
