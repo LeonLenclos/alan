@@ -110,19 +110,31 @@ $(document).ready(function(){
 	// update the discussion
 	function updateDiscussion(conv) {
 		// #discussion is a ul ellement (unordered list)
-		var discussion_html = ''
-		$.each(conv, function(i,v){
-			discussion_html += '<li class="'+v.speaker+'">'+v.msg+'</li>';
-		});
+		var discussion_html = '';
+
+		var conversationOpen = !conv.close;
+
+		if (conv.close) {
+			setStatus('La conversation est fermée. Cliquez sur le [+] pour en ouvrir une nouvelle.')
+		}
+
+		if (conv.messages) {
+			$.each(conv.messages, function(i,v){
+				discussion_html += '<li class="'+v.speaker+'">'+v.msg+'</li>';
+			});
+		}
+
 
 		if ($("#discussion").html() != discussion_html){
 			$("#discussion").html(discussion_html);
 			$("#discussion-container").scrollTop($('#discussion-container').prop("scrollHeight"));
 		}
 
-		if((conv.length>0
-			&& !conv[conv.length-1].finished
-			&& conv[conv.length-1].speaker == 'alan')
+		if(!conv.messages
+			||
+			(conv.messages.length>0
+			&& !conv.messages[conv.messages.length-1].finished
+			&& conv.messages[conv.messages.length-1].speaker == 'alan')
 			|| !conversationOpen ){
 			disableInput();
 		}
@@ -296,7 +308,7 @@ $(document).ready(function(){
             failure: function(errMsg) {
 			console.log('getConv failure')
 
-                alert("Impossible d'envoyer le message à alan :'(");
+                alert("Impossible de parler à Alan :'(");
             },
             timeout: 3000,
             error: function(jqXHR, textStatus, errorThrown) {
