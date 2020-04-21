@@ -125,11 +125,11 @@ class Serv(BaseHTTPRequestHandler):
         """
         try:
             alan = self.alans[conversation_id]
-            if alan.close :
-                return {'err': "Alan a quitté la conversation..."}
-            else :
-                return alan.conversation
-                
+            return {
+                'conversation_id':conversation_id,
+                'close':alan.close,
+                'messages':alan.conversation
+            }
         except KeyError:
             return None
     def talk(self, msg, conversation_id):
