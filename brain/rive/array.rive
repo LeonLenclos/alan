@@ -357,7 +357,7 @@
 ! array alcool = vin bière whisky porto alcool gin pastis rhum vodka ricard
 ^ tequila mescal martini
 
-! array corona = corona|coronavirus|covid|covid19
+! array corona = corona|coronavirus|covid|covid19|covid 19
 
 ! array stress = stres*|angois*|flip*|inquié*|peur
 
@@ -442,7 +442,7 @@
 ^ espace bonnefoy|irit|usino
 
 ! array soutiens2 = mixart|mixart myrys|mjc de rodez|circa|odyssud|mjc rodez|mima
-^ théâtre des mazades|toulouse métropole|cinéma vertigo|vertigo
+^ théâtre des mazades|toulouse métropole|cinéma vertigo|vertigo|bonnefoy|myrys
 
 ! array residencestt = toulouse|bessines|villemur sur tarn|montauban
 ^ vaour|paris|rodez|blagnac

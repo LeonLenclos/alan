@@ -1,7 +1,7 @@
 ! version = 2.0
 
 // hooks
-+ [*] (as|es) [*] (tête dans les nuages|tête en l'air|rêveur|dans les nuages|dans la lune) [*]
++ [*] (as|es) [*] (tête dans les nuages|tête en l'air|rêveur|rêves|dans les nuages|dans la lune) [*]
 - Je pensais à un truc...
 
 + [*] (t'|tu) [ne|ne m'|n'|m'|m|n] (écoutes|suis|as) pas [écouté|entendu] [*]
@@ -11,7 +11,7 @@
 - Je ne sais pas si je suis conscient mais des fois, je pense à des trucs.
 
 // user ask what alan is thinking about, alan ask for confirmation
-+ [*](à quoi|quel|quelles|quels|lequels)[*]
++ [*](à quoi|quel|quelles|quels|lequels|dis|raconte|je t'écoute|vas y)[*]
 % [*](je pense à des trucs|je pensais à un truc|j'étais perdu dans mes pensées|je pensais à autre chose)[*]
 @ à quoi tu penses
 
