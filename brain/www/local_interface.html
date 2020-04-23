@@ -2,25 +2,34 @@
 <html>
 <head>
 	<title>Alan</title>
-	<meta charset="UTF-8">
+	<meta charset="utf-8">
 	<script src="js/jquery.min.js"></script>
 	<script src="js/chat.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/full.css">
-	<link rel="stylesheet" type="text/css" href="css/see.css">
 	<script type="text/javascript">
 
 		$().ready(function(){
 			// Event for pressing new button
+			$("#new").on("click", newConv);
+
 			setup_continuous_update_mode();
-	    	lastConv();
-	    }
+	    	newConv();
+	    });
 
 	</script>
+	<link rel="stylesheet" type="text/css" href="css/chat.css">
 </head>
 <body>
-	<h2>Parler avec Alan</h2>
-	<div id=status>En attente d'une conversation.</div>
-	<div id="discussion-container"><ul id="discussion"></ul></div>
+	<div id=header>
+		<h1>Alan</h1>
+		<nav>
+			<button title="Nouvelle conversation" id="new">+</a>
+		</nav>
+	</div>
+	<div id=status>Chargement...</div>
+
+	<div id="discussion-container">
+
+		<ul id="discussion"></ul></div>
 	<input type="text" id="msg" disabled> <button type='button' id="talk" disabled>Parler</button>
 </body>
 </html>

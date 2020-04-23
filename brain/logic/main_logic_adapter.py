@@ -3,6 +3,8 @@ from collections import Counter
 from chatterbot.conversation import Statement
 import time
 
+LOG_NOT_PROCESSING = False
+
 class MainLogicAdapter(MultiLogicAdapter):
     """This is the main logic adapter."""
 
@@ -82,7 +84,7 @@ class MainLogicAdapter(MultiLogicAdapter):
                     ', not allowed to repeat' if result_info["not_allowed_to_repeat"] else ''
                     )
                 self.chatbot.log(log)
-            elif self.chatbot.log_not_processing:
+            elif LOG_NOT_PROCESSING:
                 log= '\t- {} (processing_time={}ms, not processing)'.format(
                     adapter.identifier,
                     processing_time)

@@ -1,3 +1,0 @@
-{
-    "import": ["base", "interface/web", "logic", "logic/mvochatbot"]
-}

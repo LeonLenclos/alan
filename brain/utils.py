@@ -3,7 +3,8 @@ import string
 import unicodedata
 from difflib import SequenceMatcher
 import math
-
+import os
+import json
 french_dict = None
 
 try :
@@ -19,8 +20,60 @@ try :
 except ImportError:
     french_dict = None
 
-    # print("enchant n'as pas été trouvé sur cet ordinateur.\
-    #        La correction orthographique ne sera pas activée.")
+    print("enchant n'as pas été trouvé sur cet ordinateur.\
+           La correction orthographique ne sera pas activée.")
+
+############
+# SETTINGS #
+############
+
+
+def load_settings(settings_files):
+ 
+    if not settings_files:
+        return load_settings_file()
+    elif type(settings_files) == list:
+        settings = {}
+        for settings_file in settings_files:
+            settings.update(load_settings_file(settings_file))
+        return settings
+    elif type(settings_files) == str:
+        return load_settings(settings_files)
+    else :
+        raise('TypeError', 'setting_files must be list or str')
+   
+
+
+
+def load_settings_file(settings_file='default', settings={}):
+    """
+    Load settings from a file to the settings attribute
+    settings_file is a string, the name of the json file without extension
+    """
+    file_name = "settings/%s.json" % settings_file
+
+    if not os.path.isfile(file_name):
+        file_name = "settings/%s/default.json" % settings_file
+    with open(file_name, "r") as file:
+        # load json
+        try:
+            file_settings = json.load(file)
+        except json.decoder.JSONDecodeError as e:
+            raise json.decoder.JSONDecodeError(
+                '{} in {}'.format(e.msg, file_name), e.doc, e.pos)
+        # loop keys
+        for k in file_settings:
+            # if import, do load_settings (recursive)
+            if k == 'import':
+                for import_file in file_settings[k]:
+                    settings.update(load_settings_file(import_file, settings))
+            # else, add setting to self.settings
+            elif k in settings and type(settings[k]) == list:
+                settings[k] += file_settings[k]
+            else:
+                settings[k] = file_settings[k]
+
+    return settings
 
 
 ############
