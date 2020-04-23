@@ -25,6 +25,7 @@ import traceback
 
 from logic import MainLogicAdapter
 from output import MainOutputAdapter
+import utils
 
 import init_relation
 
@@ -51,29 +52,14 @@ class Alan(chatterbot.ChatBot):
     birth = datetime.datetime(2018,1,31)
     author = "Fabien Carbo-Gil, Bertrand Lenclos, Léon Lenclos"
 
-    def __init__(self, settings_files="default", log_not_processing=False):
+    def __init__(self, settings):
         """
         Initialisation for Alan.
         You can pass an alternative settings file by the settings_file argument
         """
 
         # load settings
-        self.settings = {}
-        if not settings_files: self.load_settings()
-        elif type(settings_files) == list:
-            for settings_file in settings_files:
-                self.load_settings(settings_file)
-        elif type(settings_files) == str: self.load_settings(settings_files)
-        else : raise('TypeError', 'setting_files must be list or str')
-
-        # remove preconfigured logic adapters from settings
-        # unconfigured_logic_settings = []
-        # preconf_identifiers = [
-        #     l.identifier for l in preconfigured_logic_adapters]
-        # for adapter_setting in self.settings["logic_adapters"]:
-        #     if adapter_setting["identifier"] not in preconf_identifiers:
-        #         unconfigured_logic_settings.append(adapter_setting)
-        # self.settings["logic_adapters"] = unconfigured_logic_settings
+        self.settings = settings
 
         # Alan vars
         self.age = self.get_age()
@@ -81,7 +67,6 @@ class Alan(chatterbot.ChatBot):
         self.last_results=[]
         self.user_name = None
         self.error_messages = self.settings.get('error_messages', None)
-        self.log_not_processing = log_not_processing
         self.close = False
 
         # init chatterbot
@@ -115,7 +100,7 @@ class Alan(chatterbot.ChatBot):
         self.log('ALAN')
         self.log('TIME : {}'.format(time.strftime("%d/%m/%Y %H:%M")))
         self.log('STATUS : {}'.format(self.status()))
-        self.log('SETTINGS : {}'.format(settings_files))
+        self.log('CONFIG : {}'.format(settings['config-name']))
         self.log('LOGIC ADAPTERS :')
         for logic_adapter in self.logic.adapters:
             self.log('\t- {} (class={})'.format(
@@ -161,32 +146,6 @@ class Alan(chatterbot.ChatBot):
                     fi.write('\n' * 2 + '-' * 70)
                 fi.write('\n' + message)
 
-    def load_settings(self, settings_file='default', recursion=0):
-        """
-        Load settings from a file to the settings attribute
-        settings_file is a string, the name of the json file without extension
-        """
-        file_name = "settings/%s.json" % settings_file
-        if not os.path.isfile(file_name):
-            file_name = "settings/%s/default.json" % settings_file
-        with open(file_name, "r") as file:
-            # load json
-            try:
-                file_settings = json.load(file)
-            except json.decoder.JSONDecodeError as e:
-                raise json.decoder.JSONDecodeError(
-                    '{} in {}'.format(e.msg, file_name), e.doc, e.pos)
-            # loop keys
-            for k in file_settings:
-                # if import, do load_settings (recursive)
-                if k == 'import':
-                    for import_file in file_settings[k]:
-                        self.load_settings(import_file, recursion + 1)
-                # else, add setting to self.settings
-                elif k in self.settings and type(self.settings[k]) == list:
-                    self.settings[k] += file_settings[k]
-                else:
-                    self.settings[k] = file_settings[k]
 
     def status(self):
         """Return all you need to know about this instance of Alan"""
@@ -305,7 +264,6 @@ class Alan(chatterbot.ChatBot):
                 self.quit()
             else:
                 raise
-
         return output
 
     def execute_command(self, command):
@@ -407,17 +365,16 @@ def main():
     # Arguments parsing
     ap = argparse.ArgumentParser()
     ap.add_argument('-t', action='store_true', help="Mode Test")
-    ap.add_argument('-l', action='store_true', help="Log all adapter not only processing ones.")
     ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["default"])
 
     args = ap.parse_args()
-    settings_files = args.s
+    settings = utils.load_settings(args.s)
 
     # Mode verbose
     subprocess.run('clear')
     print("Démarrage d'Alan. Merci de patienter...")
     # init Alan
-    alan = Alan(settings_files=settings_files, log_not_processing=ap.parse_args().l)
+    alan = Alan(settings)
 
     # Mode test
     if ap.parse_args().t:

@@ -1,7 +1,9 @@
 {
     "import": [
         "base",
-        "interface/webaudio",
+        "interface/picoweb",
         "logic/local"
-    ]
+    ],
+    "interface-html":"local_interface",
+    "config-name" : "local"
 }
