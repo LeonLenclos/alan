@@ -22,6 +22,7 @@
 // Mes Mon Ton
 // toi et moi
 // Qui Quoi
+// Ou
 // Oui Non Peut-être
 // Pourquoi Parce que
 // Pas Un peu Jamais toujours
@@ -397,6 +398,12 @@
 
     + c'est qui
     - C'est le facteur
+
+// Ou
+
+    + _ ou _
+    - <star1> bien sur !
+    - Tu rigoles ? <star2> évidemment.
 
 // Oui Non peut-être
     + [oui][tout à fait]c'est ça[alan]

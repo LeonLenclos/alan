@@ -41,7 +41,12 @@ Installer les dépendances avec pip
 
 #### 4. Installer un dictionnaire
 
-À documenter
+Installer le dictionnaire français de Aspell. 
+Sous Debian et Ubuntu, aspell est normalement présent par défaut dans votre distribution et comprend le dictionnaire français. Si ce n'est pas le cas il suffit d'installer le paquet aspell-fr:
+
+```
+  $ sudo apt-get install aspell-fr
+```
 
 #### 5. Installer pico (optionnel)
 
