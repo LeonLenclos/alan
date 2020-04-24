@@ -30,10 +30,13 @@ import json
 import os
 import time
 import argparse
+import copy
+from urllib.parse import urlparse
 # from threading import Timer
 
 
 from alan import Alan, EndOfConversation
+import utils
 
 CONVERSATION_LIFETIME = 36000 # 10 hours
 LOG_ALL_ADAPTERS = False
@@ -63,10 +66,7 @@ class Serv(BaseHTTPRequestHandler):
         return a dict with conversation_id and alan_status
         """
         # create alan instance
-        alan = Alan(
-            settings_files=settings_files,
-            # preconfigured_logic_adapters=self.shared_logic_adapters,
-            log_not_processing=LOG_ALL_ADAPTERS)
+        alan = Alan(copy.deepcopy(settings))
     
         # manage shared_logic_adapters
         # if len(self.shared_logic_adapters) == 0:
@@ -132,6 +132,7 @@ class Serv(BaseHTTPRequestHandler):
             }
         except KeyError:
             return None
+
     def talk(self, msg, conversation_id):
         """Take a msg and a conversation_id and return the response as a dict with text and command"""
         # Try to get the alan instance with the passed conversation_id
@@ -145,16 +146,12 @@ class Serv(BaseHTTPRequestHandler):
         # Get the response
         response = alan.talk(msg)
 
-        # Get command
-        command = None
-        if "command" in response.extra_data:
-            command = response.extra_data["command"]
-
         # return the text and the command
         return {
-            'text':response.text,
-            'command': command
-            }
+            'conversation_id':conversation_id,
+            'close':alan.close,
+            'message':response.text
+        }
 
     def do_GET(self):
         """Handler for GET request"""
@@ -215,21 +212,22 @@ class Serv(BaseHTTPRequestHandler):
                 )
 
         # Try to open asked path
+        path = urlparse(self.path).path
         try:
             self.send_response(200)
 
-            if self.path == '/':
-                file_to_open = open('www/index.html', encoding='utf-8').read()
-            elif self.path == '/dev' or self.path == '/dev.html':
+            if path == '/' :
+                file_to_open = open('www/{}.html'.format(settings['interface-html']), encoding='utf-8').read()
+            elif path == '/dev' or self.path == '/dev.html':
                 file_to_open = get_dev()
-            elif self.path == '/todo.txt':
+            elif path == '/todo.txt':
                 file_to_open = get_todo()
                 self.send_header('Content-Type', 'text/plain; charset=utf-8')
-            elif self.path.startswith('/log/'):  
+            elif path.startswith('/log/'):  
                 file_to_open = open(self.path[1:]).read()
                 self.send_header('Content-Type', 'text/plain; charset=utf-8')
             else :
-                file_to_open = open('www'+self.path).read()
+                file_to_open = open('www'+path).read()
 
 
         except FileNotFoundError as e:
@@ -353,11 +351,13 @@ if __name__ == '__main__':
     ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["local"])
     ap.add_argument('-a', help="Settings ip adress", default="localhost")
     ap.add_argument('-p', help="Settings port", type=int, default=8000)
-    ap.add_argument('-l', action='store_true', help="Log all adapter not only processing ones.")
     args = ap.parse_args()
-    settings_files = args.s
+    settings = utils.load_settings(args.s)
+
+
+
+
     adress = (args.a, args.p)
-    LOG_ALL_ADAPTERS = args.l
     # start serving
     httpd = HTTPServer(adress, Serv)
     print("serving on {}".format(adress))
