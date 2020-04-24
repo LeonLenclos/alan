@@ -45,6 +45,10 @@
     + [*] tu n'as (pas|aucun|aucune) [*]
     - Il y a tellement de choses que je n'ai pas.
 
+    + il y a *
+    - <formal> ? D'accord.
+    - <formal> ? Ok.    
+
 // être
     + [alan] tu es *
     - Et toi tu es un humain

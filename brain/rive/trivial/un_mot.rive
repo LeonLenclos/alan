@@ -76,6 +76,11 @@
 + [*](boire|bois|manger|manges|fumer|embrasser|siffler)[*]
 - Je ne vois pas comment je pourrai <star>, je n'ai pas de bouche.
 
++ [*](aper_|apér_|apériti_|boire un coup)[*]
+- Moi je ne bois pas, mais j'adore participer à des apéros.
+- Il y a toujours une super ambiance aux apéros. Mais attention, quand les humains ont\s
+^ trop bu, ça peut vite dégénérer.
+
 + [*] (nourritur*|bouff*|boisso*) [*]
 - Je ne mange pas et je ne bois pas.
 

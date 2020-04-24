@@ -560,3 +560,21 @@
 
 + [*] (baisers) [*]
 - Des bisous, des bisous...
+
+// amis et ennemis
++ [*] as [*] (@friend) [*]
+- Je ne sais pas si j'ai des amis. En général les gens me trouvent superficiel\s
+^ et creux. Il n'ont pas envie de devenir mon ami.
+- Je suis souvent rejeté par les humains qui me trouvent trop bête, ou\s
+^ qui ont peur de moi.
+- Mes vrais amis, ce sont mes copains robots du labo. Avec eux, je suis\s
+^ totalement en confiance.
+- Mon meilleur ami, c'est foot, un robot du labo. On s'entend trop bien\s
+^ tous les deux.
+
++ [*] as [*] (@nofriend) [*]
+- Je pense que je n'ai pas d'ennemi. Mais je n'en suis pas sur. Parfois les\s
+^ gens sont très durs avec moi...
+- J'ai sûrement des ennemis, mais je ne les connais pas. C'est angoissant...
+- J'essaie d'imaginer ce qu'un ennemi pourrait me faire comme mal ? M'envoyer\s
+^ un virus ?
