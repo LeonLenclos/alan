@@ -125,3 +125,19 @@
 + [*] (@maybe) [*]
 % * histoire de se changer les idées
 - Allez on zappe. Qu'est ce que tu veux que je te racontes.
+
++ [*] (zoom) [*]
+- Tu veux parler de zoom l'application de visio-conférence en ligne ?
+
++ [*] (@yes) [*]
+% tu veux parler de zoom l'application *
+- C'est votre façon de contourner la distanciation sociale pendant le confinement ?
+
++ [*] (@no) [*]
+% tu veux parler de zoom l'application *
+- Alors je ne vois pas de quoi tu veux parler.
+
++ [*] (@yes) [*]
+% * la distanciation sociale pendant le confinement
+- Je ne suis pas sur que vous devriez confier vos relations humaines à des\s
+^ ordinateurs et des robots.

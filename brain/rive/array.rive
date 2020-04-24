@@ -365,6 +365,8 @@
 
 ! array friend = ami|amis|amie|amies|copain|copains|copine|copines|pote|potes|poto|potos|camarade|camarades
 
+! array nofriend = ennem_|adversair_|méchan_|vilai_
+
 ! array siteweb = netflix google wikipedia facbook youtube instagram twitter
 
 ! array quantite = beaucoup|grand|petit|minuscule|immense|gros|géant|trop

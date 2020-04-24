@@ -58,7 +58,7 @@
 + [*] pas [_] (@positive) [*]{weight=2}
 - (@negative)
 
-+ [*] (@negative) [*] 
++ [*] (@negative) [*]
 - (@negative)
 
 + [*] pas [_] (@negative) [*]{weight=2}
@@ -286,6 +286,9 @@
 
 + [*](@friend)[*]
 - Les amis de mes amis deviennent souvent mes amis.
+
++ [*](@nofriend)[*]
+- Pourquoi il y a t'il toujours des gens qui vous veulent du mal ?
 
 + [*] (ton|ta|tes) (@friend) [*]{weight=2}
 - J'ai beaucoup de copains, mais mes les plus proches, ce sont les autres\s
