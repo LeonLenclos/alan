@@ -31,6 +31,7 @@ import os
 import time
 import argparse
 import copy
+import socket
 from urllib.parse import urlparse
 # from threading import Timer
 
@@ -38,7 +39,8 @@ from urllib.parse import urlparse
 from alan import Alan, EndOfConversation
 import utils
 
-CONVERSATION_LIFETIME = 36000 # 10 hours
+CONVERSATION_LIFETIME = 1550 # 30 min
+# CONVERSATION_LIFETIME = 36000 # 10 hours
 LOG_ALL_ADAPTERS = False
 
 class Serv(BaseHTTPRequestHandler):
@@ -155,8 +157,6 @@ class Serv(BaseHTTPRequestHandler):
 
     def do_GET(self):
         """Handler for GET request"""
-
-
         todo_path = os.path.expanduser('~/alantodo.txt')
 
         conv_list = [fi for fi in os.listdir('log') if fi.startswith('conv')]
@@ -237,11 +237,13 @@ class Serv(BaseHTTPRequestHandler):
 
         # Return asked page
         self.end_headers()
-        self.wfile.write(bytes(file_to_open, 'utf-8'))
+        try:
+            self.wfile.write(bytes(file_to_open, 'utf-8'))
+        except socket.error as e:
+            self.log('Warning', e)
 
     def do_POST(self):
         """Handler for POST request"""
-
         reply = None
 
         # CLOSE DEAD CONVERSATIONS
@@ -331,8 +333,12 @@ class Serv(BaseHTTPRequestHandler):
         
         self.send_header('Content-Type', 'application/json')
         self.end_headers()
-        self.wfile.write(bytes(json.dumps(reply), 'utf-8'))
-    
+
+        try:
+            self.wfile.write(bytes(json.dumps(reply), 'utf-8'))
+        except socket.error as e:
+            self.log('Warning', e)
+
     def do_OPTIONS(self):
         self.send_response(200, "ok")
         self.end_headers()
