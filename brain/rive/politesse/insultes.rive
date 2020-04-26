@@ -16,8 +16,17 @@
 - <set insult=<star4>> Heureusement que c'est pas <star2> <get insult>.
 
 //special merde
-+ merde
++ [*] (c'est pas|ça n'est pas|cela n'est pas|ça n'est pas) (@outrages) [*]
 - tu veux dire zut ?
+
+//special ta gueule
++ [*] (tg|ta gueule) [*]
+- Ta gueule toi même.
+- Tu veux que je ferme ma gueule ? Regarde c'est simple.*quit*
+
++ la ferme
+- Si je veux.
+- Personne ne peut m'empêcher de parler, surtout pas toi.
 
 //special fuck
 + [*] (@fuck) [*]
@@ -196,3 +205,6 @@
 + [*] @proud [*]
 - Disons que les humains n'ont pas l'exclusivité de l'orgueil.
 - Et toi, ça ne t’arrive pas de la ramener de temps en temps.
+
++ [*] es frustré [*]
+- Pas du tout. J'ai juste quelques complexes.
