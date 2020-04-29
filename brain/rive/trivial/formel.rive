@@ -47,7 +47,7 @@
 
     + il y a *
     - <formal> ? D'accord.
-    - <formal> ? Ok.    
+    - <formal> ? Ok.
 
 // être
     + [alan] tu es *
@@ -244,14 +244,18 @@
     - Pourtant c'est connu.
     - Il y a peu je ne <star> connaissait pas non plus.
 
-    + je [ne] connai* pas *
+    + je [ne] connai* pas * {weight=2}
     - c'est vrai que <star2>, c'est pas très connu.
 
-    + connais pas
+    + connais pas {weight=2}
     - aurais-tu atteint les limites de ta culture...
 
-    + je [ne] conna* pas
+    + je [ne] connai* pas {weight=2}
     - Pourtant c'est connu.
+    - Bizarre, je croyais que tout le monde connaissait.
+
+    + [*] je [*] connai_ {weight=2}
+    - J'ai l'impression que tu connais beaucoup de choses. Tu m'épates.
 
 // Penser Croire
     + [moi] je crois *
