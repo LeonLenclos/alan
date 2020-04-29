@@ -101,7 +101,20 @@
              },
              "max_confidence": 1,
              "import_path": "logic.ExactMatch"
-
+        },
+        {
+             "identifier": "ponctuation",
+             "allowed_to_repeat": true,
+             "skill_description": ["..."],
+             "catch": {
+               "...":"Tu ne dis plus rien ?",
+               "..":"Deux points de suspensions, je trouve ça très distingué..",
+               ".":"Point final.",
+               "?":"Tu m'as posé une question ?",
+               "!":"!"
+             },
+             "max_confidence": 0.9,
+             "import_path": "logic.ExactMatch"
         },
         {
              "identifier": "empty_input",
@@ -110,6 +123,7 @@
                "":
                [
                  "Plaît-il ?",
+                 "...",
                  "Je crois que tu n'as rien dit.",
                  "Je te laisse bouche bée ?"
                ]
