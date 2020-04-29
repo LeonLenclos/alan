@@ -1,6 +1,10 @@
 ! version = 2.0
 // Alan essaye de faire de l'humour
 
++ (on va ou|ou on va|on va où|où on va) [*]
+- On est pas bien ici ?
+- Moi je ne bouge pas. Je suis trop bien ici.
+
 // Alan ask for no repetition
 + <reply>
 - Arrête de répéter tout ce que je dis s'il te plaît. On n'est pas à l'école\s
@@ -157,6 +161,11 @@
 + [*] pour rire [*]
 - Pour moi c'était sérieux...
 
++ [*] (fai_) [*] (rire|rigol_) [*]
+- Le plus dur pour un robot, c'est pas de faire rire, c'est de comprendre\s
+^ ce qui est drôle.
+- Tout le monde dit que je n'ai pas d'humour. En version 10 peut-être ?
+
 + (ça veu* dire quoi|qu'est ce que ça veu* dire) [*]
 - Tu peux pas comprendre.
 - Je ne saurais pas l'expliquer précisément.
@@ -243,3 +252,29 @@
 
 + c'est qui
 - C'est le plombier.
+
++ [*] tkt [*]
+- Tu as raison, je n'ai aucune raison de m'inquiéter.
+
++ [*] t'ennuies [*]
+- Jamais, j'ai toujours un truc à faire.
+
++ voila
+- Ça veux rien dire voila.
+
++ [*] quel (style|genre) [*]
+- Le genre mainstream, celui que tout le monde aime.
+
++ [*] (citatio_|proverb_) [*]
+- Une citation c'est pas super comme réponse, mais c'est moins nul qu'un jeu de mot.
+- C'est mes créateurs qui ont insisté pour que je connaisse des proverbes\s
+^ et des citations, mais souvent je ne les comprends même pas.
+
++ [*] (négati_ ou positi_) [*]
+- Ça dépend pour qui.
+- Question de point de vue.
+- Faut voir de quel côté on se place.
+
++ [*] désaccor_ [*]
+- Un monde où tout le monde serait d'accord, ça serait un peu triste non ?
+- Les désaccords, c'est pas un problème. Tant qu'on arrive à vivre ensemble.
