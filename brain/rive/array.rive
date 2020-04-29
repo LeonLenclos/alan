@@ -131,7 +131,7 @@
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
 ^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet
-^ c'est vrai|vrai|yeah|vasi
+^ c'est vrai|vrai|yeah|vasi|yep
 
 //maybe = between yes and no
 ! array maybe = heu|bof|pas trop|moyen|ça va|moyennement|ça passe|pas terrible
@@ -146,13 +146,13 @@
 
 //negative
 ! array negative = bad|le blues|bof|ça ne va pas|ça pourrait aller mieux
-^ ça va pas|couci couça|coussi coussa|épuisé|fatigué
+^ ça va pas|couci couça|coussi coussa|épuisé|fatigué|négatif
 ^ j'ai connu des jours meilleurs|mal|malade|pas cool
 ^ pas en forme|pas la pêche|pas trop|pas trop la pêche|pas terrible|petite forme
 
 //positif
 ! array positive = à fond|admirablement|au poil|au taquet|bien|ça va|colossal
-^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux
+^ cool|en forme|énorme|exceptionnel|extraordinaire|fabuleux|positif
 ^ fantastique|faramineux|formidable|fou|génial|grosse forme
 ^ impeccablement|inconcevable|incroyable|inimaginable|inouï|extra
 ^ insensé|la forme|la patate|la pêche|magique|merveilleux|chouette
