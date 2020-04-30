@@ -225,6 +225,7 @@ class Alan(chatterbot.ChatBot):
             raise EndOfConversation()
 
         command_regex = r"\*(.+)\*"
+        do_command = lambda: None
 
         try:
             # Listen
@@ -240,8 +241,6 @@ class Alan(chatterbot.ChatBot):
             output.text = re.sub(command_regex, "", output.text)
             if command:
                 do_command = lambda: self.execute_command(command.group(1))
-            else:
-                do_command = lambda: None
 
             self.output.process_response(output, do_command, self.conversation_id)
             
@@ -260,7 +259,7 @@ class Alan(chatterbot.ChatBot):
                     exc_traceback)))
                 output = Statement(random.choice(self.error_messages))
                 output.add_extra_data("command", "quit")
-                self.output.process_response(output, self.conversation_id)
+                self.output.process_response(output, do_command, self.conversation_id)
                 self.quit()
             else:
                 raise
