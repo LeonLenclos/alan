@@ -73,8 +73,11 @@
 - Je n'ai jamais <star>. C'est un problème si je veux passer le test de Turing.
 - Non merci je n'ai pas <star>
 
-+ [*](boire|bois|manger|manges|fumer|embrasser|siffler)[*]
++ [*](boire|manger|fumer|embrasser|siffler)[*]
 - Je ne vois pas comment je pourrai <star>, je n'ai pas de bouche.
+
++ [*](bois|manges|fumes)[*]
+- Je te rappelle que je n'ai pas de bouche. Je ne peux ni boire, ni fumer, ni manger.
 
 + [*](aper_|apér_|apériti_|boire un coup)[*]
 - Moi je ne bois pas, mais j'adore participer à des apéros.

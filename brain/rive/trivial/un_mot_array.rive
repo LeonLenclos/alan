@@ -42,13 +42,13 @@
 //////////////////////////////////YES/NO
 
 + [*] (@yes) [*]
-- {formal}(@yes){/formal}.
+- {sentence}(@yes){/sentence}.
 
 + [*] (@no) [*]
-- {formal}(@no){/formal}.
+- {sentence}(@no){/sentence}.
 
 + [*] (@maybe) [*]
-- {formal}(@maybe){/formal}.
+- {sentence}(@maybe){/sentence}.
 
 + [*] (@positive) [*]
 - (@positive)
