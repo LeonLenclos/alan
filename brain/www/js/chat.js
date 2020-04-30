@@ -241,6 +241,9 @@ function updateInputCallback(response){
 
 ////////// TALK FUNCTION //////////
 function talk(msg) {
+    const RESPONSE_TIME_MIN = 4 * 1000;
+    const RESPONSE_TIME_MAX = 6 * 1000;
+
 	// prevent for talking to a closed conversation
 	console.log('talk', msg)
 
@@ -253,6 +256,7 @@ function talk(msg) {
 		msg:msg,
 		conversation_id:conversation_id
 	};
+    var start_time = Date.now();
 
 	// Send POST request
     $.ajax({
@@ -261,7 +265,18 @@ function talk(msg) {
         data: JSON.stringify(jsonMsg),
         contentType: "application/json; charset=utf-8",
         dataType: "text",
-        success: talkCallback,
+        success: function(response) {
+            var elapsed_time = Date.now() - start_time;
+            var response_time = RESPONSE_TIME_MIN + (Math.random()*(RESPONSE_TIME_MAX-RESPONSE_TIME_MIN));
+            if(elapsed_time<response_time){
+                setTimeout(function() {
+                    talkCallback(response);
+                },response_time-elapsed_time);
+            }
+            else{
+                talkCallback(response);
+            }
+        },
         failure: function(errMsg) {
             alert("Impossible d'envoyer le message à alan :'(");
         }
@@ -270,6 +285,7 @@ function talk(msg) {
 }
 
 function talkCallback(response){
+
 	jsonMsg = $.parseJSON(response);
 	if(catchError(jsonMsg)) return;
 	appendMessage(jsonMsg.message, 'alan');

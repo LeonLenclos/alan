@@ -103,8 +103,17 @@ class Alan(chatterbot.ChatBot):
         self.log('CONFIG : {}'.format(settings['config-name']))
         self.log('LOGIC ADAPTERS :')
         for logic_adapter in self.logic.adapters:
-            self.log('\t- {} (class={})'.format(
-                logic_adapter.identifier, type(logic_adapter).__name__))
+            process_done = logic_adapter.process_done.__name__
+            confidence_repr = "{min}/{max}{process_done}".format(
+                min=logic_adapter.min_confidence,
+                max=logic_adapter.max_confidence,
+                process_done= '' if process_done=='process_done' else ' ({})'.format(process_done)
+            )
+            self.log('\t- {} ({}) {}'.format(
+                logic_adapter.identifier,
+                type(logic_adapter).__name__,
+                confidence_repr
+                ))
         self.log('', True)
 
 
@@ -225,6 +234,7 @@ class Alan(chatterbot.ChatBot):
             raise EndOfConversation()
 
         command_regex = r"\*(.+)\*"
+        do_command = lambda: None
 
         try:
             # Listen
@@ -240,8 +250,6 @@ class Alan(chatterbot.ChatBot):
             output.text = re.sub(command_regex, "", output.text)
             if command:
                 do_command = lambda: self.execute_command(command.group(1))
-            else:
-                do_command = lambda: None
 
             self.output.process_response(output, do_command, self.conversation_id)
             
@@ -260,7 +268,7 @@ class Alan(chatterbot.ChatBot):
                     exc_traceback)))
                 output = Statement(random.choice(self.error_messages))
                 output.add_extra_data("command", "quit")
-                self.output.process_response(output, self.conversation_id)
+                self.output.process_response(output, do_command, self.conversation_id)
                 self.quit()
             else:
                 raise
@@ -271,6 +279,7 @@ class Alan(chatterbot.ChatBot):
         if command == 'quit' : self.quit()
         elif command == 'bug' : raise ArithmeticError()
         elif command == 'todo' : self.todo()
+        elif command == 'cleartodo' : self.cleartodo()
         elif command == 'info' : self.info()
         elif command == 'rst': self.reset() # reset
         elif command == "music":
@@ -321,6 +330,11 @@ class Alan(chatterbot.ChatBot):
                 self.storage.get_latest_statement(offset=i+2, conversation_id=self.conversation_id).text
                 for i in reversed(range(count))
             ]))
+
+    def cleartodo(self):
+        """Reset the todo file."""
+        with open(os.path.expanduser("~/alantodo.txt"), "w") as f:
+            f.write('{} - ({}) CLEAR\n'.format(datetime.datetime.now().isoformat(), self.conversation_id))
 
     def info(self):
         """Print informations about last response."""

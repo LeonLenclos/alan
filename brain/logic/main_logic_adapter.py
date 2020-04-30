@@ -76,12 +76,12 @@ class MainLogicAdapter(MultiLogicAdapter):
 
             # log
             if output:
-                log= '\t- {} (processing_time={}ms, confidence={}, reponse="{}"){}'.format(
+                log= '\t- {} (processing_time={}ms, confidence={}){}\n\t\t-> {}'.format(
                     adapter.identifier,
                     processing_time,
                     output.confidence,
+                    ', not allowed to repeat' if result_info["not_allowed_to_repeat"] else '',
                     output.text,
-                    ', not allowed to repeat' if result_info["not_allowed_to_repeat"] else ''
                     )
                 self.chatbot.log(log)
             elif LOG_NOT_PROCESSING:

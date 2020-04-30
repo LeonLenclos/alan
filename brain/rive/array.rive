@@ -127,7 +127,7 @@
 //yes
 ! array yes =  yes|oui|ouais|à fond|j'adore|j'ai adore|ça me plaît|ça m'a plu|beaucoup
 ^ absolument|assurément|à merveille|bien|bien sur|carrément|certainement|certes|d'accord
-^ o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
+^ exact|exactement|o k|ok|okay|parfait|parfaitement|très bien|beaucoup|considérablement
 ^ énormément|excessivement|extrêmement|génial|super|avec plaisir|top|c'est sur
 ^ c'est ça|tu as compris|c'est ce que je veux dire|affirmatif|si|sans doutes
 ^ j'aimerais beaucoup|j'aimerais bien|je veux bien|en effet
