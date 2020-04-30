@@ -271,6 +271,7 @@ class Alan(chatterbot.ChatBot):
         if command == 'quit' : self.quit()
         elif command == 'bug' : raise ArithmeticError()
         elif command == 'todo' : self.todo()
+        elif command == 'cleartodo' : self.cleartodo()
         elif command == 'info' : self.info()
         elif command == 'rst': self.reset() # reset
         elif command == "music":
@@ -321,6 +322,11 @@ class Alan(chatterbot.ChatBot):
                 self.storage.get_latest_statement(offset=i+2, conversation_id=self.conversation_id).text
                 for i in reversed(range(count))
             ]))
+
+    def cleartodo(self):
+        """Reset the todo file."""
+        with open(os.path.expanduser("~/alantodo.txt"), "w") as f:
+            f.write('{} - ({}) CLEAR\n'.format(datetime.datetime.now().isoformat(), self.conversation_id))
 
     def info(self):
         """Print informations about last response."""
