@@ -157,19 +157,27 @@ class Serv(BaseHTTPRequestHandler):
 
     def do_GET(self):
         """Handler for GET request"""
+
+        def line_count(path):
+            try:
+                with open(path) as fi: return sum(1 for _ in fi)
+            except FileNotFoundError: return 0
+
+
         todo_path = os.path.expanduser('~/alantodo.txt')
 
         conv_list = [fi for fi in os.listdir('log') if fi.startswith('conv')]
         conv_list.sort()
         conv_list.reverse()
+
+        filtered_conv_list = [fi for fi in conv_list if line_count(os.path.join('log', fi)) > 5]
+        filtered_conv_list.sort()
+        filtered_conv_list.reverse()
+
         log_list = [fi for fi in os.listdir('log') if fi.startswith('log')]
         log_list.sort()
         log_list.reverse()
         
-        def get_todo_len():
-            try:
-                with open(todo_path) as todo: return len(todo.readlines())
-            except FileNotFoundError: return 0
 
         def get_todo_mtime():
             try:
@@ -191,11 +199,12 @@ class Serv(BaseHTTPRequestHandler):
         def get_dev():
             dev_html = open('www/dev.html', encoding='utf-8').read()
             return dev_html.format(
-                todo_len=get_todo_len(),
+                todo_len=line_count(todo_path),
                 todo_mtime = get_todo_mtime(),
                 conv_len=len(conv_list),
                 open_conv_len=len(self.alans),
                 conv_select=generate_select(conv_list),
+                filtered_conv_select=generate_select(filtered_conv_list),
                 log_select=generate_select(log_list),
                 )
 
