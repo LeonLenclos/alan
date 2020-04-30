@@ -103,8 +103,17 @@ class Alan(chatterbot.ChatBot):
         self.log('CONFIG : {}'.format(settings['config-name']))
         self.log('LOGIC ADAPTERS :')
         for logic_adapter in self.logic.adapters:
-            self.log('\t- {} (class={})'.format(
-                logic_adapter.identifier, type(logic_adapter).__name__))
+            process_done = logic_adapter.process_done.__name__
+            confidence_repr = "{min}/{max}{process_done}".format(
+                min=logic_adapter.min_confidence,
+                max=logic_adapter.max_confidence,
+                process_done= '' if process_done=='process_done' else ' ({})'.format(process_done)
+            )
+            self.log('\t- {} ({}) {}'.format(
+                logic_adapter.identifier,
+                type(logic_adapter).__name__,
+                confidence_repr
+                ))
         self.log('', True)
 
 
