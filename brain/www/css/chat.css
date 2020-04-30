@@ -70,6 +70,8 @@ input, button, #discussion-container, .infobox, select{
 	color : white;
 	background: black;
 	border: solid 1px white;
+  margin: 2px;
+
   box-sizing: border-box;
 }
 
@@ -86,6 +88,9 @@ input, button, #discussion-container, .infobox, select{
 
 #discussion-container {
 	height: 300px;
+	max-height: calc(100vh - 200px);
+	min-height: 100px;
+
 	overflow-y: scroll;
 
 }
@@ -104,17 +109,22 @@ ul > li:before {
 	font-weight: bold;
 }
 
+#talk{
+	width:85px;
+}
 
 input {
 	width: 400px;
-	max-width: calc(100% - 10px);
+	min-height: 30px;
+
+	min-width: 150px;
+	max-width: calc(100% - 110px);
 }
 
 button {
 	display: inline-block;
 	min-width: 30px;
 	min-height: 30px;
-	margin: 3px;
 }
 
 input:disabled, button:disabled, button:disabled:hover {
