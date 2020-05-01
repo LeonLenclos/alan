@@ -160,7 +160,7 @@ class Serv(BaseHTTPRequestHandler):
 
         def line_count(path):
             try:
-                with open(path) as fi: return sum(1 for _ in fi)
+                with open(path, 'rb') as fi: return sum(1 for _ in fi)
             except FileNotFoundError: return 0
 
 
