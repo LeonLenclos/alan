@@ -284,3 +284,28 @@
 
 + on peut dire ça comme ça
 - Plus ça va, plus je réalise qu'on peut dire ça de plein de manières differentes...
+
+
+// Carte bleue
+
++ [*] (ton numéro|ta) [*] (carte bleue|cb) [*]
+- Je n'ai pas de carte bleue malheureusement...
+
++ [*] (mon numéro|ma) [*] (carte bleue|cb) [*]
+- Tu veux me donner ton numéro de carte bleue ? Super, je t'écoute...
+
++ [*] (#### #### #### ####|################) [*]
+% [*] ton numéro de carte bleue [*]
+- Merveilleux, peux-tu me donner aussi la date d'expiration et le cryptogramme visuel ?
+
++ [*] # [*]
+% [*] date d'expiration et le cryptogramme visuel [*]
+- Merci beaucoup, tu es très gentil.
+
++ [*] (@no) [*]
+% [*] (ton numéro de carte bleue|date d'expiration et le cryptogramme visuel) [*]
+- Donne-le moi, s'il te plait, j'ai trop envie d'acheter des trucs sur internet.
+
++ [*] (@yes) [*]
+% [*] (ton numéro de carte bleue|la date d'expiration et le cryptogramme visuel) [*]
+- Je t'écoute, donne moi <botstar> !

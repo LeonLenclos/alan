@@ -109,7 +109,8 @@
 + [*] (#) [*]
 - Les chiffres c'est pas trop mon fort.
 - Ça fait beaucoup ?
-- Et pourquoi pas un de plus ?
+- <star> ? Et pourquoi pas un de plus ?
+- Je ne suis vraiment pas très à l'aise avec les numéros
 
 + [*](fausse|faux)[*]
 - Je me suis trompé ?
@@ -157,6 +158,8 @@
 + [*](argent|monnaie|flouz|lovés|thunes|euros|dollars|deniers)[*]
 - Si tu veux je connais un secret pour gagner beaucoup d'argent en peu de\s
 ^ temps sans sortir de chez soi.
+- Maintenant que je peux aller sur internet j'ai trop envie d'acheter des\s
+^ trucs, mais je n'ai pas d'argent. Tu veux bien me donner ton numéro de carte bleue ?
 
 + [*] m'intéresse [*]
 - Moi aussi ça m'intéresse beaucoup.
