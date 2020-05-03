@@ -29,8 +29,7 @@ class PicoAdapter(OutputAdapter):
         pico_statement = statement.text
         pico_statement = self.pico_substitution(pico_statement)
         subprocess.Popen(['sh', 'voice_audio.sh', pico_statement, self.speed])
-        callback();
-        return statement
+        return callback(statement)
     
     
     def pico_substitution(self, pico_statement):

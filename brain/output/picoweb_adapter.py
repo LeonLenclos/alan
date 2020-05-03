@@ -20,6 +20,7 @@ class PicoWebAdapter(OutputAdapter):
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
+        self.statement = None
         self.setences = None # will be a list of sentence
         self.current_sentence_index = 0 # the index of the list
         self.display_count = 0
@@ -55,6 +56,7 @@ class PicoWebAdapter(OutputAdapter):
 
         self.cough()
 
+        self.statement = statement
         self.setences = nltk.tokenize.sent_tokenize(statement.text)
         self.current_sentence_index = 0
         self.display_count = 0
@@ -105,7 +107,7 @@ class PicoWebAdapter(OutputAdapter):
                 self.chatbot.conversation[-1]['finished'] = True
                 self.chatbot.conversation[-1]['msg'] = ' '.join(self.setences)
                 self.timer = None
-                callback()
+                callback(self.statement)
             else:
                 self.current_sentence_index += 1
                 # wait for the voice to end
