@@ -19,7 +19,7 @@
           "identifier": "divers",
           "skill_description": ["C'était juste de la politesse basique."],
           "rive_files": ["./rive/politesse/divers.rive"],
-          "max_confidence": 0.35,
+          "max_confidence": 0.5,
           "import_path": "logic.RiveScriptAdapter"
        },
        {
