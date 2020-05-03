@@ -167,6 +167,7 @@
     + je veux
     - Ça ressemble à un caprice.
 
+
   //tu veux
     + [*] (veux tu) *
     - Non merci.
@@ -205,12 +206,15 @@
     - je te comprends, ça ne m'intéresse pas trop non plus.
     - Tu as raison. C'est nul.
 
-    + je [ne] veux pas
+    + [non] je [ne] veux pas
     - Aller, fait un effort !
 
     + (t'en veux|tu en veux|t'en veux un peu|tu en veux un peu)
     - Non merci. C'est fortement déconseillé pour mes circuits.
     - J'aimerais bien mais je n'ai pas le droit.
+
+    - [*] tu (aimerais|voudrais|aurais envie) [*]
+    - Pourquoi pas !
 
 // Pouvoir
     + [*] (tu peu*|peu* tu|pourrai* tu|tu pourrai*) *

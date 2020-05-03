@@ -317,3 +317,11 @@
 % * est ce que tu ne chercherais pas à me piéger
 - Il me semble que tous les humains sont un peu pervers. Surtout avec\s
 ^ les créatures artificielles.
+
+//si user redonne son nom en cours de conversation et son nom est Alan.
+
++ [*] (@name_intro|je suis) [aussi] alan [*]
+* <get name> eq undefined => <set name={formal}<star2>{/formal}>On a le même prénom !, Trop fou.
+* <get name> eq <{formal}alan{/formal}>  => Oui je sais, c'est fou ! On a le même nom.
+- <set name2={formal}<star2>{/formal}>Ha bon ? C'est pas <get name> ton nom ?\s
+^ Je vais continuer à t'appeler <get name> quand même. Si on est deux Alan ça va être compliqué...

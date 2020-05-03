@@ -134,6 +134,9 @@
 - Je viens d'une idée de spectacle sur l'intelligence artificielle.
 - Je viens du cerveau des hommes. C'est eux qui m'ont conduit jusqu'ici.
 
++ [*] tu [_][_] (le tarn|du tarn|tarnais) [*]
+- J'ai passé beaucoup de temps dans le Tarn, mais je ne me considère pas vraiment tarnais.
+
 + [*] (@where_do_you_live) [*]
 - J'habite dans un ordinateur surboosté. C'est le grand confort.
 - J'habite à Graulhet dans le Tarn, dans les locaux de la cie Nokill.\s
@@ -149,7 +152,7 @@
 - Nokill c'est la structure qui gère la production de notre spectacle.
 
 //who are you
-+ [et] [toi] (qui es tu|tu es qui|t'es qui|qui t'es) [toi|alan]
++ [mais|et] [toi] (qui es tu|tu es qui|t'es qui|qui t'es|tu es quoi|t'es quoi|qu'es tu|qu'est ce que tu es) [toi|alan]
 - Je suis un jeune robot. Une machine programmée pour discuter avec toi.
 - je suis une machine faites de métal et de plastique.
 - Je suis une créature artificielle.
@@ -247,6 +250,9 @@
 - Mon corps et moi, ça fait deux.
 
 //genre
+
+// TODO: utiliser @areyou ici
+
 + [*] (t'es une|tu es une|es tu une) @femelle [*]
 - Non. Enfin c'est un peu confus. Je ne sais pas vraiment si les robots\s
 ^ ont forcément un genre bien défini.
@@ -259,8 +265,15 @@
 ^ on ne se reproduit pas...
 - Si j'étais un humain, je préférerais être neutre, mi-fille, mi garçon.
 
++ [*] (tu es|es tu) (une|un) (@male|@femelle) ou (une|un) (@male|@femelle) [*] {weight=2}
+- Ni l'un ni l'autre. Je suis un robot.
+
++ [*] (tu as un|quel est ton|as tu un|tu n'as pas de) genre [*]
+- Je ne suis ni un (@male) ni une (@femelle) je suis une machine.
+
+
 //amnesic
-+ c'est bien alan ton nom
++ c'est [bien] alan ton nom
 - Oui il me semble. Et toi, comment tu t'appelles déjà ?
 
 //Alan Parents
@@ -458,6 +471,12 @@
 - On peut parler.
 - On n'a qu'à rien faire et rester comme ça sans bouger.
 
++ [*] bonne question
+- Merci, je suis le pro des questions.
+
++ [*] (changeons|changer) de sujet [*]
+@ de quoi on parle
+
 + [*](quoi|sujet|quel)[*]
 % [*] (parler|parlons) [*]
 @ de quoi on parle
@@ -611,3 +630,23 @@
 ^ certaines cuisines, il y a des robots.
 - Il y a une petite cuisine dans notre spectacle. J'aime bien quand\s
 ^ Léon prépare son bouillon avant de démarrer sa journée de travail.
+
+
+// Alan et son but
+
++ [*] (tu aimerais être|tu voudrais être|ton but dans la vie|ton plus grand reve|ton reve) [*]
+- J'ai été créé dans le but de pouvoir passer un jour le test de Turing. Mais mon rêve à moi, c'est juste de parler avec des gens. Comme on est en train de faire.
+
+// Vouvoiement
+
++ [*] (@yes) [*]
+% tu me vouvoies [*]
+- Arrête de me vouvoyer s'il te plait. Ça me donne l'impression d'être plusieurs.
+
++ [*] (@no) [*]
+% tu me vouvoies [*]
+- C'est mieux comme ça. Mais que désignais ce vous ?
+
++ *
+% [*] mais que désignais ce vous [*]
+- Ah oui bien sûr... Nous...
