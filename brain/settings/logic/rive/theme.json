@@ -51,6 +51,16 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "interlocuteur",
+           "skill_description": ["Parce que je m'interesse à toi."],
+           "rive_files": ["./rive/theme/interlocuteur.rive"],
+           "min_confidence": 0.55,
+           "max_confidence": 0.75,
+           "confidence_coefficient": 0,
+           "process_done_method": "reinforcement",
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "langage",
            "skill_description": ["Parce que les gens m'intéressent"],
            "rive_files": ["./rive/theme/langage.rive"],

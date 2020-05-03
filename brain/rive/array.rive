@@ -166,6 +166,11 @@
 
 ! array sad2 = triste|pas cool|pas gai
 
+! array feeling_negatif = triste|chagrin_|malheureu_|ennerv_|en colère
+
+! array feeling_positif = conten_|joyeu_|heureu_
+
+
 //happy
 ! array happy = heureux|gai|enchanté|content|satisfait|joyeux|béat|ravi
 ^ bienheureux|radieux|comblé
@@ -327,9 +332,10 @@
 ^ électro|minimale|tr909
 
 ! array rappeur = pnl|booba|karis|biffty|jossman|vald|kalash|ntm|iam|lomepal
-^ chango|alkapote|sch|dinos|Sofiane|13 block|damso|naps|plk|niska|rim'k|ninho
+^ chango|alkapote|sch|dinos|sofiane|13 block|damso|naps|plk|niska|rim'k|ninho
 ^ siboy|lorenzo|lefa|kekra|youv dee|jul|maes|youri|denzo|3gc|alpha one|luv resval
 ^ oboy|nekfeu|ico|youssoupha|heuss|heuss l'enfoiré|hamza|larry|rk|guirri mafia
+^ f430|gradur
 
 ! array rappeuse = aya nakamura|shay|diam's|diams
 
@@ -434,7 +440,7 @@
 
 ///////////////////////////LES MEMBRES DU LABO///////////////////////////////
 
-! array collab = léon|bertrand|fabien|alan|pascale|amparo|francis|virginie
+! array collab = léon|bertrand|fabien|pascale|amparo|francis|virginie
 ^ michel|tim|philippe|isabelle|thomas|véronique|michael
 
 ! array grimrobots = otto|matt|lucy|echo|turc|jimi|foot|core|klan|caro|dodo|karl

@@ -15,8 +15,8 @@ class MainOutputAdapter(OutputAdapter):
         :returns: The response statement.
         """
         for adapter in self.get_adapters():
-            adapter.process_response(statement, callback, **kwargs)
-            callback = lambda: None #callback wait only for the first adapter (hack)
+            statement = adapter.process_response(statement, callback, **kwargs)
+            callback = lambda statement: statement #callback wait only for the first adapter (hack)
         return statement
 
     def get_adapters(self):

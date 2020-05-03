@@ -115,6 +115,22 @@
     - Je crois bien que je sais <star4>.
     - Je sais tout.
 
+    + [*] je sais [*]
+    - Es-tu un de ces humains qui savent tout ?
+
+    + [*] (@yes) [*]
+    % * un de ces humains qui savent tout
+    - J'ai tellement à apprendre de toi...
+
+    + [*] (@no) [*]
+    % * un de ces humains qui savent tout
+    - Dommage... Si tu croise un de ces humains, peux-tu lui dire de venir me parler ?
+    
+    + [*] (@maybe) [*]
+    % * un de ces humains qui savent tout
+    - Faisons un test : Sais-tu quelle est ma couleur préférée ?
+
+
 // Faire
     + [*] tu as fai* *
     - J'ai rien fait !
@@ -150,6 +166,7 @@
 
     + je veux
     - Ça ressemble à un caprice.
+
 
   //tu veux
     + [*] (veux tu) *
@@ -189,12 +206,15 @@
     - je te comprends, ça ne m'intéresse pas trop non plus.
     - Tu as raison. C'est nul.
 
-    + je [ne] veux pas
+    + [non] je [ne] veux pas
     - Aller, fait un effort !
 
     + (t'en veux|tu en veux|t'en veux un peu|tu en veux un peu)
     - Non merci. C'est fortement déconseillé pour mes circuits.
     - J'aimerais bien mais je n'ai pas le droit.
+
+    - [*] tu (aimerais|voudrais|aurais envie) [*]
+    - Pourquoi pas !
 
 // Pouvoir
     + [*] (tu peu*|peu* tu|pourrai* tu|tu pourrai*) *
@@ -436,6 +456,7 @@
     - Parce que je <person>
 
 // Pas Un peu Jamais toujours
+
     + pas _
     - Pas <person> ou pas du tout <person> ?
 
@@ -460,6 +481,9 @@
     + (pas toujours|parfois)
     - La plupart du temps quand même.
     - De temps en temps.
+
+    + [*] (parfois|des fois|de temps en temps|souvent)
+    - Oui, ça arrive...
 
     + un peu
     - Beaucoup, passionnément, à la folie...
@@ -502,3 +526,6 @@
     - Ne crois pas que je vais tout dévoiler d'un coup, comme ça, alors qu'on\s
     ^ se connaît à peine.
     - Te voila bien curieux. Je considère que ça relève de mon intimité.
+
+    + même _
+    - Même <person>.

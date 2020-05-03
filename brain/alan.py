@@ -234,7 +234,7 @@ class Alan(chatterbot.ChatBot):
             raise EndOfConversation()
 
         command_regex = r"\*(.+)\*"
-        do_command = lambda: None
+        do_command = lambda statement: statement
 
         try:
             # Listen
@@ -249,54 +249,65 @@ class Alan(chatterbot.ChatBot):
             if command: output.add_extra_data("command", command.group(1))
             output.text = re.sub(command_regex, "", output.text)
             if command:
-                do_command = lambda: self.execute_command(command.group(1))
+                do_command = lambda statement: self.execute_command(command.group(1), statement)
 
-            self.output.process_response(output, do_command, self.conversation_id)
-            
-
-
+            output = self.output.process_response(output, do_command, self.conversation_id)
 
         # Catch errors and say something funny
-        except(KeyboardInterrupt, EOFError, SystemExit): raise
-        except:
-            if self.error_messages:
-                exc_type, exc_value, exc_traceback = sys.exc_info()
-                self.log("ERROR :")
-                self.log('\n'.join(traceback.format_exception(
-                    exc_type,
-                    exc_value,
-                    exc_traceback)))
-                output = Statement(random.choice(self.error_messages))
-                output.add_extra_data("command", "quit")
-                self.output.process_response(output, do_command, self.conversation_id)
-                self.quit()
-            else:
-                raise
-        return output
+        except Exception as e:
+            print('return exception', output)
 
-    def execute_command(self, command):
+            return self.handle_exception(e)
+        else:
+            print('return normal', output)
+            return output
+
+    def handle_exception(self, e):
+        """Catch errors and say something funny"""
+        print('exception!!!!!!',e)
+        if type(e) in (KeyboardInterrupt, EOFError, SystemExit) : raise e
+        elif self.error_messages:
+            exc_type, exc_value, exc_traceback = sys.exc_info()
+            self.log("ERROR :")
+            self.log('\n'.join(traceback.format_exception(
+                exc_type,
+                exc_value,
+                exc_traceback)))
+            output = Statement(random.choice(self.error_messages))
+            output.add_extra_data("command", "quit")
+            quit = lambda statement: self.quit()
+            self.output.process_response(output, quit, self.conversation_id)
+            print('return err', output)
+            return output
+        else:
+            raise e
+
+    def execute_command(self, command, output):
         """Execute a special alan's command."""
-        if command == 'quit' : self.quit()
-        elif command == 'bug' : raise ArithmeticError()
-        elif command == 'todo' : self.todo()
-        elif command == 'cleartodo' : self.cleartodo()
-        elif command == 'info' : self.info()
-        elif command == 'rst': self.reset() # reset
-        elif command == "music":
-            self.output.music()
-        elif command == "sing":
-            subprocess.run(["sh", "sing.sh"])
-        elif command == "bip":
-            try :
-                subprocess.run(["beep"])
-            except FileNotFoundError:
-                pass
-        elif command == "chut": pass
-        elif command.startswith("setmaxconf"):
-            self.setmaxconf(*command.split(' ')[1:])
-        elif command.startswith("setimpro"):
-            self.setimpro(*command.split(' ')[1:])
-        else : raise KeyError("The {} command does not exist".format(command))
+        try:
+            if command == 'quit' : self.quit()
+            elif command == 'bug' : raise ArithmeticError()
+            elif command == 'todo' : self.todo()
+            elif command == 'cleartodo' : self.cleartodo()
+            elif command == 'info' : self.info()
+            elif command == 'rst': self.reset() # reset
+            elif command == "music":
+                self.output.music()
+            elif command == "sing":
+                subprocess.run(["sh", "sing.sh"])
+            elif command == "bip":
+                try :
+                    subprocess.run(["beep"])
+                except FileNotFoundError:
+                    pass
+            elif command == "chut": pass
+            elif command.startswith("setmaxconf"):
+                self.setmaxconf(*command.split(' ')[1:])
+            elif command.startswith("setimpro"):
+                self.setimpro(*command.split(' ')[1:])
+            else : raise KeyError("The {} command does not exist".format(command))
+        except Exception as e: return self.handle_exception(e)
+        else: return output
 
     def finish(self):
         """Do exit job before quitting"""

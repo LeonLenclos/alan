@@ -78,7 +78,7 @@
 ^ Ferrané du labo Samova de l'IRIT, là où une partie de mon cerveau a été\s
 ^ programmé ?
 * <formal> == Thomas => <set name=<formal>>Es tu Thomas\s
-^ Pellegrini du labo Samova de l'IRIT,là où une partie de mon cerveau a été\s
+^ Pellegrini du labo Samova de l'IRIT, là où une partie de mon cerveau a été\s
 ^ programmé ?
 * <formal> == Véronique => <set name=<formal>>Es tu Véronique\s
 ^ Debats, de la cellule communication de l'IRIT, là où une partie de mon\s
@@ -130,7 +130,7 @@
 // name introductions
 
 // The same with name introduction
-+ [*] (@name_intro|c'est|je suis) _ [*]
++ [*] (@name_intro|c'est|je suis) _
 % * (@ask_name)
 - <set name={formal}<star2>{/formal}>Heureux de te rencontrer <get name>.\s
 ^ Comment ça va ?
@@ -147,6 +147,19 @@
 ^ cette question mais je ne suis pas sûr d'être certain d'avoir compris ton nom.\s
 ^ Tu t'appelles <get name> ?
 
+// Specifics answer to ask_name
+
++ [*] [@name_intro|c'est|je suis] [aussi] alan
+% * (@ask_name)
+- <set name=Alan>Tu t'appelle Alan toi aussi ? Est-ce que tu es aussi un robot ?
+
++ c'est [encore] moi
+% * (@ask_name)
+- Moi aussi je suis moi. Ça nous fait déjà un point commun. Comment ça va ?
+
++ [*] (devine|à ton avis|deviner)
+% * (@ask_name)
+- Je ne peux pas deviner ton prénom, il y en a beaucoup trop qui existent !
 
 // When we're not sure about the name
 // if the user confirm his name, ask for feelings
@@ -304,3 +317,11 @@
 % * est ce que tu ne chercherais pas à me piéger
 - Il me semble que tous les humains sont un peu pervers. Surtout avec\s
 ^ les créatures artificielles.
+
+//si user redonne son nom en cours de conversation et son nom est Alan.
+
++ [*] (@name_intro|je suis) [aussi] alan [*]
+* <get name> eq undefined => <set name={formal}<star2>{/formal}>On a le même prénom !, Trop fou.
+* <get name> eq <{formal}alan{/formal}>  => Oui je sais, c'est fou ! On a le même nom.
+- <set name2={formal}<star2>{/formal}>Ha bon ? C'est pas <get name> ton nom ?\s
+^ Je vais continuer à t'appeler <get name> quand même. Si on est deux Alan ça va être compliqué...

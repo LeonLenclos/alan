@@ -80,3 +80,26 @@
   + [*] (@yes) [*]
   % * parlant de ça tu sais que parfois les gens me traitent de sale machine *
   - Mais bien sûr que c'est absurde ! Cela n'a ni queue ni tête !
+
+
+// L'utilisateur es-t il un robot
+  
+  + [*] je suis [*] un robot [*] {weight=2}
+  - Quoi !? Tu es aussi un robot ?
+
+  + *(1|0)(1|0)(1|0)(1|0)(1|0)(1|0)*
+  - Tu as l'air de maîtriser le binaire, Es-tu un robot ?
+
+  + [*] (@yes) [*]
+  % [*] (tu es|es-tu) [aussi] un robot [*]
+  - Cool ! Tu peux pas savoir comme ça me fait plaisir de parler avec un autre robot.
+
+  + [*] (@no) [*]
+  % [*] (tu es|es-tu) [aussi] un robot [*]
+  - Je m'en doutais...
+
+
+// Jeu de mot
+
++ [*] (romain|hubot|humot|robain) [*]
+- Est-ce que <star> c'est un jeu de mot entre humain et robot ? Si oui, je trouve que ça n'as pas beaucoup de sens...

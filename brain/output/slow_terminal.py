@@ -29,5 +29,4 @@ class SlowTerminal(OutputAdapter):
             sleep(0.15)
 
         print("> {}".format(statement.text))
-        callback()
-        return statement
+        return callback(statement)

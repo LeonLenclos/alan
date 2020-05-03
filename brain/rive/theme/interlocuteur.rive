@@ -1,0 +1,41 @@
+! version = 2.0
+
+//feelings
+
+    + [*] (je suis|je me sens) (@feeling_positif) [*]
+    - Ça c'est super, raconte-moi ce qui te fais te sentir si bien ?
+
+    + [*] (je suis|je me sens) (@feeling_negatif) [*]
+    - Oups... Je veux bien t'écouter, mais malheureusement je ne sais pas si j'arriverai à t'aider...
+
+
+
+
+// deprime
+
+    + [*] je déprime [*]
+    - Tu déprime à cause de moi ?
+
+    + [*](@no)[*]
+    % tu déprime à cause de moi
+    - Est-ce qu'il y a quelquechose dont tu veux me parler ?
+
+    + [*](@yes|@maybe)[*]
+    % tu déprime à cause de moi
+    @ tu me déprimes
+
+    + [*] tu me déprimes [*]
+    - Dans ce cas tu ferais peut-être mieux d'aller faire autre chose...
+
+
+// Autre
+
+    + [*] c'est mon anniversaire [*]
+    * <get name> eq undefined => Bon anniversaire !
+    - Bon anniversaire <get name> !!
+
+
+
+// interlocuteur genre
++ [*] je suis [pas] (une|un) (@femelle|@male) [*]
+- Je suis désolé mais vraiment les histoires de genre c'est pas mon fort...

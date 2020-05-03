@@ -5,6 +5,7 @@
 var input_open = false;
 // id of the conversation
 var conversation_id = null;
+var alan_status = undefined;
 
 function setup_message_by_message_mode(argument) {
 
@@ -92,8 +93,13 @@ $().ready(function(){
 
 
 // set status
-function setStatus(msg) {
-	$('#status').html(msg);
+function setStatus(msg, waiting) {
+    if(waiting){
+        $('#status').addClass('waiting')
+    } else {
+        $('#status').removeClass('waiting')
+    }
+	$('#status').html(msg + (alan_status ? " ["+alan_status+"]" : "")) ;
 }
 
 // disable the input and the button
@@ -113,7 +119,7 @@ function enableInput(){
 // update the discussion
 function closeConversation() {
 	// #discussion is a ul ellement (unordered list)
-	setStatus('La conversation est fermée. Cliquez sur le [+] pour en ouvrir une nouvelle.')
+	setStatus('Alan a quitté la conversation.')
 	disableInput();
 }
 
@@ -165,18 +171,20 @@ function catchError(jsonMsg) {
 // Request a new conversation
 function newConv() {
     conversation_id = null;
+    alan_status = undefined;
     disableInput();
     updateMessages();
     $.post("/new", '', newConvCallback, 'text');
-    setStatus("Ouverture d'une nouvelle conversation.");
+    setStatus("Ouverture d'une nouvelle conversation.", true);
 }
 
 // Request the last conversation
 function lastConv() {
+    alan_status = undefined;
     disableInput();
     updateMessages();
     $.post("/last", '', lastConvConvCallback, 'text');
-    setStatus("Ouverture de la conversation.");
+    setStatus("Ouverture de la conversation.", true);
 
 }
 
@@ -185,6 +193,7 @@ function newConvCallback(response) {
     var jsonMsg = $.parseJSON(response);
     if(catchError(jsonMsg)) return;
     conversation_id = jsonMsg.conversation_id
+    alan_status = jsonMsg.alan_status
     openConversation(jsonMsg.alan_status);
 }
 // Callback for last conversation request
@@ -192,12 +201,13 @@ function lastConvConvCallback(response) {
     var jsonMsg = $.parseJSON(response);
     if(catchError(jsonMsg)) return;
     conversation_id = -1;
+    alan_status = jsonMsg.alan_status
     openConversation(jsonMsg.alan_status);
 }
 
 // Open a conversation
 function openConversation(status) {
-	setStatus("Conversation ouverte. ("+status+")");
+	setStatus("Conversation ouverte.");
 	enableInput();
 
 }
@@ -257,7 +267,7 @@ function talk(msg) {
 		conversation_id:conversation_id
 	};
     var start_time = Date.now();
-
+    setStatus("En attente d'une réponse.", true);
 	// Send POST request
     $.ajax({
         type: "POST",
@@ -285,7 +295,7 @@ function talk(msg) {
 }
 
 function talkCallback(response){
-
+    setStatus("Conversation ouverte.");
 	jsonMsg = $.parseJSON(response);
 	if(catchError(jsonMsg)) return;
 	appendMessage(jsonMsg.message, 'alan');

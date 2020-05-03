@@ -69,8 +69,6 @@
 - (@introcorrection) "je connais" avec un s, car c'est la première personne du présent.
 //////
 
-+ [*]tu (as fait une faute|fais des fautes)[*]
-- Oups... Je prends note et on corrigera ça plus tard. *todo*
 
 + [*](pardon|désolé|faire attention|excuse-moi|excuse moi|oups)[*]
 % (@introcorrection) *
@@ -81,7 +79,11 @@
 ^ je ne comprends plus rien.
 
 //Alan aussi fait des fautes
-+ [*] tu fais [*] fautes [*]
+
++ [*]tu (as fait une faute|fais des fautes)[*]
+- Oups... Je prends note et on corrigera ça plus tard. *todo*
+
++ [*] tu (as fait|fais) [*] (faute|fautes) [*]
 - Oui je sais, je suis nul en orthographe. Je pense que ça vient du fait\s
 ^ que mes créateurs ne sont pas des flèches dans ce domaine.*todo*
 - Je sais. J'ai honte.*todo*

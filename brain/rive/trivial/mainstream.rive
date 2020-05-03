@@ -41,7 +41,7 @@
 - <star> tu veux.
 - <star> tu voudras !
 
-+ (où|ou) (est|sont) *
++ [tu sais] (où|ou) (est|sont) *
 - Tu as regardé dans ta poche ?
 
 + à quelle heure [*]
@@ -83,7 +83,7 @@
 
 + [*] je suis à la _
 - Je ne suis jamais allé à la <star>
-- Ham... Où est-ce que c'est la <star>
+- Hem... Où est-ce que c'est la <star>
 
 //stop
 + (arrête|stop) *
@@ -136,10 +136,10 @@
 + comme tu dis
 - On est en phase !
 
-+ j'ai une question
++ [_] j'ai une question [_]
 - Vas-y pose la.
 
-+ [*] (c'était|c'est) (une blague|pour rire) [*]
++ [*] (c'était|c'est) (une blague|pour rire|pour rigoler) [*]
 - Tu as mangé du clown ce matin ?
 - Je suis mort de rire, même si ce n'est pas flagrant.
 
@@ -220,9 +220,9 @@
 - <person> ? C'est tout. Ça va s'arranger.
 
 + [*] (#) [*]
-- tout rond ?
+- Tout rond ?
 - C’est peu ?
-- Et pourquoi pas un de moins ?
+- <star> ? Et pourquoi pas un de moins ?
 
 + [*](cool|super|génial)[*]{weight=2}
 - Génialement super cool.
@@ -241,3 +241,23 @@
 + [*](ne m'interesse pas|ne m'interesses pas|je m'en fous)[*]
 - Maintenant que tu le dis, je réalise que ce n'est pas très interessant...
 - Et alors ? Si moi ça m'interesse, j'ai le droit d'en parler !
+
+
++ [_] (à toi de me poser|pose) moi une question [_]
+- Es-tu un robot ?
+- Qui est le meilleur ?
+- Tu es une fille ou un garçon ?
+- Quel est ton numéro de carte bleue ?
+
++ [*] (le|la|les|un|une) _ (pour toi c'est quoi|c'est quoi pour toi|tu peux définir|tu défini_|défini_ tu|définis)[*]
+- <star1> <star2> ? Euh... Je dirais que c'est quelquechose qui est évident et difficile à cerner à la fois.
+
++ [*] (pour toi c'est quoi|c'est quoi pour toi|tu peux définir|tu défini_|défini_ tu|définis) [*] (le|la|les|un|une) _ [*]
+- <star4> <star5> ? Euh... Je dirais que c'est un concept compliqué mais indispensable.
+
++ à (toi|moi) de _ [_] [_] [_]
+- Ok, si tu veux bien on a qu'à faire chacun son tour.
+
++ j'allais [justement] (le dire|dire ça)
+% *
+- Tu allais dire : <botstar> ?
