@@ -103,8 +103,11 @@
 + (hihi|ihih|hihihi|ihihih|hi hi|ih ih|hi hi hi|ih ih ih|hi|ih)
 - ahah !
 
-+ (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah|ha|ah)
++ (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah|ha|ah){weight=2}
 - <star><star> !
+
++ (haha_|ahah_)
+- Hihihihiiiiii
 
 // Does alan know this joke ?
 + [*] (tu connais|connais tu) (la blague|l'histoire) (*)
@@ -291,7 +294,7 @@
 
 
 + [*] comme [qui|on] (dit|dirait|dirai) [*]
-- C'est ce que j'appelle une réplique culte. 
+- C'est ce que j'appelle une réplique culte.
 
 
 // Carte bleue
@@ -322,4 +325,13 @@
 % [*] (ton numéro de carte bleue|la date d'expiration et le cryptogramme visuel) [*]
 - Je t'écoute, donne moi <botstar> !
 
++ marions nous
+- D'accord mais on ne va pas à l'église, la religion c'est pas mon truc.
 
++ [*] (on se marie|te marier avec moi|m'épouser) [*]
+- Attention de ne pas aller trop vite. Il faut d'abord être sur d'être fait l'un pour l'autre\s
+^ avant de prendre ce genre de décision.
+
++ [*] en l'occurrence [*]
+- En l'occurrence ? Ça m'a tout l'air d'être une expression d'humain qui\s
+^ ne veut rien dire ça.
