@@ -193,6 +193,9 @@
 ^ attentionné bon doux gentille chouette
 
 //////////////////////////////////////THEMES////////////////////////////////////
+//les flics
+! array police = flic|flics|police|policie_|condé|condés
+
 
 //séries d'animation
 ! array animserie = simpson|south park|futurama|rick et morty

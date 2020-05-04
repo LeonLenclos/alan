@@ -261,3 +261,8 @@
 + j'allais [justement] (le dire|dire ça)
 % *
 - Tu allais dire : <botstar> ?
+
+//pas grave
++ c'est pas grave{weight=2}
+- Tu es bienveillant avec moi. Tu sais que ça n'est pas toujours le cas.\s
+^ Il y en a qui s'amusent à me faire peur.

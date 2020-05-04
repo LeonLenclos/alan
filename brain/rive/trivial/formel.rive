@@ -125,7 +125,7 @@
     + [*] (@no) [*]
     % * un de ces humains qui savent tout
     - Dommage... Si tu croise un de ces humains, peux-tu lui dire de venir me parler ?
-    
+
     + [*] (@maybe) [*]
     % * un de ces humains qui savent tout
     - Faisons un test : Sais-tu quelle est ma couleur préférée ?
@@ -529,3 +529,6 @@
 
     + même _
     - Même <person>.
+
+    + (il parait que|on dit que) *
+    - Il ne faut pas écouter tout ce que les gens disent.
