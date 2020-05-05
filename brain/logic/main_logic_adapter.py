@@ -2,6 +2,7 @@ from chatterbot.logic import MultiLogicAdapter
 from collections import Counter
 from chatterbot.conversation import Statement
 import time
+import nltk
 
 LOG_NOT_PROCESSING = False
 
@@ -51,9 +52,9 @@ class MainLogicAdapter(MultiLogicAdapter):
                     # store result
                     result_info["confidence"] = output.confidence
                     result_info["text"] = output.text
-                    # check if the sentence have been said
+                    # check if the sentence have been said (only if > 3 words)
                     result_info["not_allowed_to_repeat"] = False
-                    if not adapter.allowed_to_repeat:
+                    if not adapter.allowed_to_repeat and len(nltk.word_tokenize(output.text)) > 3:
                         conversation_id = self.chatbot.conversation_id
                         same_statement = self.chatbot.storage.get_latest_statement(
                                             conversation_id=conversation_id,
