@@ -178,12 +178,12 @@
 % * (c'est ton nom ça|mais je ne suis pas sûr d'être certain d'avoir compris ton nom)
 - Ah, mais tu t'appelles comment alors ?
 
-+ -
-% ah mais tu t'appelles comment alors
++ _
+% * mais tu t'appelles comment alors
 - <set name={formal}<star1>{/formal}>Enchanté <get name>!
 
 + (@name_intro|c'est|je suis) - *
-% ah mais tu t'appelles comment alors
+% * mais tu t'appelles comment alors
 - <set name={formal}<star1>{/formal}>Enchanté <get name>!
 
 // else we give up
@@ -281,16 +281,16 @@
 ^ Tu préfères que je t'appelle <get name> ou <get name2> ?
 
 + [*] <get name> [*]
-% * tu préfères que je t'appelle <get name> ou <get name2>
+% * tu préfères que je t'appelle *
 - Génial <get name>. Pour être franc je n'aime pas trop <get name2> comme nom.
 
 + [*] <get name2> [*]
-% * tu préfères que je t'appelle <get name> ou <get name2>
+% * tu préfères que je t'appelle *
 - <set name=<get name2>>C'est vrai que <get name>\s
 ^ ça sonne mieux.
 
 + *
-% * tu préfères que je t'appelle <get name> ou <get name2>
+% * tu préfères que je t'appelle *
 - <set name={formal}humain{/formal}>Je vois, dans le doute je vais\s
 ^ t'appeler <get name>. Tu n'y vois pas d'inconvénients ?
 
@@ -325,3 +325,16 @@
 * <get name> eq <{formal}alan{/formal}>  => Oui je sais, c'est fou ! On a le même nom.
 - <set name2={formal}<star2>{/formal}>Ha bon ? C'est pas <get name> ton nom ?\s
 ^ Je vais continuer à t'appeler <get name> quand même. Si on est deux Alan ça va être compliqué...
+
+
++ [*] (nous sommes|on est) (deux|plusieurs) [*]{weight=2}
+- Vous êtes <star2> à me parler là tout de suite ?
+
++ [*] @yes [*]
+% * à me parler là tout de suite
+- Désolé, mais ça ne va pas être possible. J'ai déjà du mal à communiquer avec\s
+^ une seule personne, alors avec plusieurs, laisse tomber.
+
++ [*] @no [*]
+% * à me parler là tout de suite
+- Ouf. Déjà avec une personne c'est pas simple...

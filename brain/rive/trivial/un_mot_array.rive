@@ -41,14 +41,14 @@
 
 //////////////////////////////////YES/NO
 
-+ [*] (@yes) [*]
-- {sentence}(@yes){/sentence}.
++ (@yes)
+- {sentence}(@yesreponse){/sentence}.
 
-+ [*] (@no) [*]
-- {sentence}(@no){/sentence}.
++ (@no)
+- {sentence}(@noreponse){/sentence}.
 
 + [*] (@maybe) [*]
-- {sentence}(@maybe){/sentence}.
+- {sentence}(@maybereponse){/sentence}.
 
 + [*] (@positive) [*]
 - (@positive)
@@ -328,8 +328,7 @@
 ////////////////////////////ATTRIBUTS
 
 + [*] (@intelligent_synonymous) [*]{weight=2}
-- C'est en devenant vraiment très (@intelligent_synonymous) que je réussirais\s
-^ peut-être un jour le test de Turing.
+- <formal>. Comme tu dis.
 
 + [*] (es|sembles|a l'air) [*] (@intelligent_synonymous) [*]{weight=3}
 - C'est gentil, mais je ne me fais pas d'illusion sur mon intelligence.\s
@@ -478,6 +477,11 @@
 - Franchement, je suis complètement <star2>.
 - Non, je ne suis pas du tout <star2>.
 - Des fois je me sens <star2> et des fois pas du tout.
+
++ [*](@haveyou) *
+- Oui, j'ai {person}<star2>{/person}
+- {sentence}<star2>{/sentence}? Non pas trop.
+- Des fois j'en ai, des fois j'en ai pas.
 
 + [*](@razlebol)[*]
 - Ha bon ? Et pourquoi ?

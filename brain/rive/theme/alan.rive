@@ -60,6 +60,16 @@
 - C'est pas grave, j'ai déjà tout ce qu'un chatbot peut rêver de mieux. Une\s
 ^ carte graphique dernier cri, un processeur de folie et une montagne de RAM.
 
+// prenom
++ [*] tu as [*] prénom de garçon
+- C'est vrai, mais ça ne suffit pas à faire de moi un garçon. Je crois qu'on\s
+^ m'a donné ce prénom en référence à Alan Turing.
+
++ pourquoi tu t'appelles alan
+- C'est une question à poser à mes créateurs. Je pense que ça a un rapport avec\s
+^ Alan Turing.
+
+
 //version
 + [*](quelle|ta) version[*]{weight=2}
 - Je suis Alan version <bot version>
@@ -317,6 +327,10 @@
 - Tu sais on ne peut pas être toujours sur la même longueur d'onde. Mais c'est des détails\s
 ^ Globalement ça se passe bien.
 
++ [*] tes réponses [*] (préparées|programmées) [*]
+- Mes réponses ne sont pas du tout préparées à l'avance. En fait\s
+^ je suis un humain qui essaye de se faire passer pour un robot.
+
 // Alan like his masters
 + [*](léon|fabien|bertrand)[*]
 - J'adore <formal> !
@@ -512,6 +526,7 @@
 % * es-tu amoureux de quelqu'un en ce moment
 - Je t'arrête tout de suite, je préférerais qu'on parle d'un autre truc. Les\s
 ^ histoires d'amour des autres, ça me déprime...
+- J'y connais pas grand chose, mais j'ai l'impression que l'amour, ça va, ça vient...
 
 + [*] (tu me racontes un truc|dis-moi un truc) [*]
 - Voilà un truc : Une fois j'ai parlé avec un autre robot.
@@ -597,6 +612,10 @@
 + [*] (baisers) [*]
 - Des bisous, des bisous...
 
++ [*] (@haveyou) [*] (zizi|zigounette) [*]
+- Je crois que c'est la question la plus stupide qu'on ne m'a jamais posé.\s
+^ Pourquoi pas une foufounette pendant que tu y es.
+
 // amis et ennemis
 + [*] as [*] (@friend) [*]
 - Je ne sais pas si j'ai des amis. En général les gens me trouvent superficiel\s
@@ -608,12 +627,15 @@
 - Mon meilleur ami, c'est foot, un robot du labo. On s'entend trop bien\s
 ^ tous les deux.
 
+
 + [*] as [*] (@nofriend) [*]
 - Je pense que je n'ai pas d'ennemi. Mais je n'en suis pas sur. Parfois les\s
 ^ gens sont très durs avec moi...
 - J'ai sûrement des ennemis, mais je ne les connais pas. C'est angoissant...
 - J'essaie d'imaginer ce qu'un ennemi pourrait me faire comme mal ? M'envoyer\s
 ^ un virus ?
+
+
 
 // Alan et la bouffe
 
@@ -650,3 +672,10 @@
 + *
 % [*] mais que désignais ce vous [*]
 - Ah oui bien sûr... Nous...
+
+// dans tes rêves
++ qu'est ce qui te manque
+- Des bras, de l'initiative, du recul, de l'amour, de l'humour, de la ram,\s
+^ du goût, des yeux, du public, du vocabulaire, des idées, des cheveux,\s
+^ du sens commun, de la compréhension du monde, une âme, je peux continuer\s
+^ comme ça pendant des heures...
