@@ -97,6 +97,12 @@
     + [*] tu n'es pas [*]
     - Je ne suis pas grand chose.
 
+    + (ce|ça) n'est pas [*]
+    - C'est quoi alors ?
+
+    + nous sommes *
+    - Quand tu dis nous sommes, tu parles de qui ?
+
 // Dire Parler Répondre
     + dis [moi] [que] *{weight=2}
     - <person>
@@ -111,9 +117,12 @@
     - Je réponds ce que je veux.
 
 // Savoir
-    + [*] (sai* tu|tu sai*) *
-    - Je crois bien que je sais <star4>.
+    + [*] (sai_ tu|tu sai_) *
+    - Je crois bien que je sais {person}<star4>{/person}.
     - Je sais tout.
+
+    + [*] tu [ne] sais pas *
+    - Aujourd’hui je ne sais peut-être pas, mais demain je saurai.
 
     + [*] je sais [*]
     - Es-tu un de ces humains qui savent tout ?

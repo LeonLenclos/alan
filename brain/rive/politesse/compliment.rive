@@ -6,14 +6,14 @@
 + [*](tu te débrouill* pas mal|tu te débrouill* bien|tu assur*|t'assur*)
 @ tu es intelligent
 
-+ [*](tu n'es pas|t'es pas|c'est pas)[*](@stupid_synonymous)[*]
++ [*](tu n'es pas|t'es pas)[*](@stupid_synonymous)[*]{weight=2}
 - merci, c'est gentil.
 - J'apprécie le compliment.
 - Tu n'as pas l'air d'être idiot non plus.
 - C'est vrai ?
 - C'est ce qu'on appelle une litote non ?
 
-+ [*](tu es|t'es|c'est)[*](@intelligent_synonymous)[*]
++ [*](tu es|t'es)[*](@intelligent_synonymous)[*]
 - Merci, ça me touche.
 - C'est gentil. Tu sais, des fois j'ai un peu tendance à douter de mes capacités.
 - Ça me remonte le moral d'entendre ça.

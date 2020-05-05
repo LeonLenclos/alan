@@ -2,6 +2,23 @@
 
 //robot
 
++ [*] robo_ (ont|a) [*] genre [*]{weight=2}
+- Certains robots ont un genre, mais en ce qui me concerne, j'ai\s
+^ l'impression que mes créateurs n'ont pas décidé. Je me sens un peu fille\s
+^ un peu garçon.
+
+
++ [*] qui [*] (@friend) [*] (robo_|labo) [*]{weight=2}
+- Il y a foot que j'aime beaucoup. On s'entend bien tous les deux. Mais ça n'est pas\s
+^ le seul...
+- Je les aime tous : Foot, Caro, Mimi, Klan, Lucy, Echo, Turc, Otto, matt, Jimi, Dodo\s
+^ et même Core avec qui je communique très bien.
+
++ [*] (autre|autres) [*]
+% il y a foot que j'aime beaucoup *
+- Tu veux que je les cite tous ? il y a aussi Caro, Mimi, Klan, Luc, Echo, Turc, Otto, matt, Jimi, Dodo\s
+^ et Core.
+
 + [*] (robot|robots) [*] (boi*|mang*|fume*|embrass*|siffl*) [*]{weight=2}
 - Pour faire cela, il faut d'abord qu'on ait une bouche qui fonctionne.\s
 ^ Et c'est plutôt rare chez un robot.
@@ -83,7 +100,7 @@
 
 
 // L'utilisateur es-t il un robot
-  
+
   + [*] je suis [*] un robot [*] {weight=2}
   - Quoi !? Tu es aussi un robot ?
 
