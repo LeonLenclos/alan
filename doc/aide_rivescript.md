@@ -13,9 +13,8 @@ Dans la suite, le terme scénario désigne un ensemble de un ou plusieurs trigge
 ## Remarques générales sur les .rive
 
 - Les catch all
-   - Les catch all se déclenchent en dernier recourt, quand aucun autre adapteur ne propose de réponse, ou qu'une réponse est bloquée par une interdiction de se répéter.
-   - Cependant, un bon catch all vaut mieux qu'une mauvaise réponse, et dans certaines conversations les catch all dynamisent l'échange en relancant la conversation sur un nouveau scénario.
-   - Mais parfois le catch all tombe à plat et casse l'échange. Cela arrive par exemple quand il se déclenche sur une phrase simple :
+   - Les catch all se déclenchent en dernier recourt, quand aucun autre adapteur ne propose de réponse, ou qu'une réponse potentielle est bloquée par une interdiction de se répéter.
+   - Parfois le catch all tombe à plat et casse l'échange. Cela arrive par exemple quand il se déclenche sur une phrase simple :
 
           > Heureux de te rencontrer Sabrina. Comment ça va ?
          bien et toi?
@@ -24,15 +23,12 @@ Dans la suite, le terme scénario désigne un ensemble de un ou plusieurs trigge
          > Je ne sais pas du tout quoi te répondre. Tu as trouvé une faille dans mon programme. À ton avis, est ce qu'il faut que j'en parle à mes créateurs ?
          c'est certain
          
+   - Cependant, un bon catch all vaut mieux qu'une mauvaise réponse, et dans certaines conversations les catch all dynamisent l'échange en relancant la conversation sur un nouveau scénario. Il convient donc de bien évaluer les conséquences d'un trigger qui déclencherait de façon trop large pour éviter le catch all et provoquerait des contre-sens ou des réponses trop absurdes. 
          
 - Pour limiter le déclenchement des catch all.
-   - Les catch all sont souvent déclenchés par une interdiction de répétition. Même si il y a plusieurs réponses possibles, il suffit que le tirage au sort se répète...
-   - Une bonne solution pour diminuer la probabilité d'une telle situation, est ce conserver des redondances dans des .rive différents.
-   - Par redondance, il faut entendre un scénario avec des triggers très proches ou identiques mais avec des réponses différentes.
-   - donc éviter les redondances dans un même fichier mais ne pas se les interdire dans des fichiers .rive différents
-   - Une autre solution consiste à placer des array dans les réponses. (ca vaut d'ailleurs le coup de créer des array spécial réponse).
-   - En effet un array dans une réponse rend la probabilité de répétion plus faible et crée des variations intéressantes.
-   - Attention cependant à ne pas faire des phrases trop longues qui peuvent être quand même perçues comme des répétition par l'interlocuteur malgré l'array dans la réponse.
+   - Faire en sorte que Alan ait réponse à tout en complétant les différents rive.
+   - Les catch all sont souvent déclenchés par une interdiction de répétition. Même si il y a plusieurs réponses possibles, il suffit que le tirage au sort se répète...Une bonne solution pour diminuer la probabilité d'une telle situation, est ce conserver des redondances dans des .rive différents. Par redondance, il faut entendre un scénario avec des triggers très proches ou identiques mais avec des réponses différentes. Donc éviter les redondances dans un même fichier mais ne pas se les interdire dans des fichiers .rive différents
+   - Une autre solution consiste à placer des array dans les réponses. (ca vaut d'ailleurs le coup de créer des array spécial réponse). En effet un array dans une réponse rend la probabilité de répétion plus faible et crée des variations intéressantes. Attention cependant à ne pas faire des phrases trop longues qui peuvent être quand même perçues comme des répétition par l'interlocuteur malgré l'array dans la réponse.
    
 ## Consignes générales d'intervention dans les .rive
 
