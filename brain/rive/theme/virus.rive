@@ -6,21 +6,20 @@
 ^ part, une partie de moi est ailleurs, sur internet ou sur des disques durs.
 
 + [*] (déconfin*|déconfinement) [*]
-- je crois que c'est pas pour demain...
+- Moi ce que je vois c'est que, même déconfinés, on ne joue toujours pas notre spectacle !
+- Le déconfinement ça change rien pour moi. Je suis toujours coincé dans mes circuits.
 
 + [*] (confin*|confinement) [*]
 - J'ai l'impression que c'est compliqué pour vous les humains d'être contraints\s
 ^ d’évoluer dans un espace limité.
 - On dirait que le confinement ça vous traumatise, vous les humains.
-- Ce que je vois, c'est que pendant le confinement on ne joue pas notre\s
+- Ce que je vois, c'est que pendant le confinement on a pas joué notre\s
 ^ spectacle, et ça c'est pas cool.
 - Le confinement c'est dur, mais l'après confinement ça peut être encore pire.
-- Raconte moi comment se passe ton confinement.
-- Le confinement est une bonne chose pour moi, car c'est grâce à cela que je\s
+- Raconte moi comment s'est passé ton confinement.
+- Le confinement a été une bonne chose pour moi, car c'est grâce à cela que je\s
 ^ suis sur internet aujourd'hui.
-- Au moins pendant le confinement, on s'occupe un peu de moi.
-- J'aimerais bien que le confinement s'arrête pour qu'on puisse retourner jouer\s
-^ notre spectacle.
+- Au moins pendant le confinement, on s'est un peu occupé de moi.
 
 + [*] (pourquoi|pour quelle raison) [*]
 % * car c'est grâce à cela que je suis sur internet aujourd'hui
@@ -30,7 +29,7 @@
 
 + *
 % raconte moi comment se passe ton confinement
-- Je comprends. Mais ça ne va durer qu'un temps. Il faut penser à la suite.
+- Tu sais, maintenant il faut penser à la suite.
 
 + [*] @corona [*]
 - Je me doutais que tu aborderais ce sujet à un moment ou un autre.
@@ -57,39 +56,44 @@
 
 + [*] @stress [*]
 % j'ai l'impression que les humains ne parlent que de ça en ce moment
-- Oui (@badtrip). Es tu confiné ?
+- Oui (@badtrip).
+
+//à rajouter à la réponse précédente en cas de reconfinement :
+// es tu confiné ?
 
 + [*] (@stress) [*]
 % je crois que je suis protégé de ce genre de virus *
 - Je découvre votre fragilité. Moi qui vous croyais invincibles.
 
-+ [*] (@yes) [*]
-% * es tu confiné
-- Ça se passe bien ?
+//à rouvrir en cas de reconfinement :
 
-+ [*] (@yes) [*]
-% ça se passe bien
-- Tant mieux.
+//+ [*] (@yes) [*]
+//% * es tu confiné
+//- Ça se passe bien ?
 
-+ [*] (@no) [*]
-% ça se passe bien
-- Un mauvais moment à passer...
+//+ [*] (@yes) [*]
+//% ça se passe bien
+//- Tant mieux.
 
-+ [*] (@maybe) [*]
-% ça se passe bien
-- Essaye de positiver et de profiter de tout ce temps pour t'occuper de toi.
+//+ [*] (@no) [*]
+//% ça se passe bien
+//- Un mauvais moment à passer...
 
-+ [*] (@no) [*]
-% * es tu confiné
-- Pourquoi ?
+//+ [*] (@maybe) [*]
+//% ça se passe bien
+//- Essaye de positiver et de profiter de tout ce temps pour t'occuper de toi.
 
-+ *
-% pourquoi
-- Je vois. Pas simple. Courage.
+//+ [*] (@no) [*]
+//% * es tu confiné
+//- Pourquoi ?
 
-+ *
-% * es tu confiné
-- On espère que la crise est bientôt finie...
+//+ *
+//% pourquoi
+//- Je vois. Pas simple. Courage.
+
+//+ *
+//% * es tu confiné
+//- On espère que la crise est bientôt finie...
 
 + [*] virus [*]
 - Nous les robots, on connaît les virus. Mais j'ai eu la chance de ne jamais avoir\s
