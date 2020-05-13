@@ -259,7 +259,6 @@ class Alan(chatterbot.ChatBot):
 
             return self.handle_exception(e)
         else:
-            print('return normal', output)
             return output
 
     def handle_exception(self, e):
