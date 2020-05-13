@@ -44,6 +44,7 @@ On uttilisera RiveScript pour la partie la plus scénarisée d'Alan.
 - [Tutoriel officiel](https://www.rivescript.com/docs/tutorial) : Apprendre la syntaxe RiveScript
 - [RiveScript playground](https://play.rivescript.com/) : Tester du code RiveScript en ligne
 - [rivescript-python](https://github.com/aichaos/rivescript-python) : Le module python utilisé par le `RiveScriptAdapter` d'Alan
+- [L'aide rivescript](https://github.com/LeonLenclos/alan/blob/develop/doc/aide_rivescript.md) : pour harmoniser les apports des différents collaborateurs.
 
 ## Statement
 
