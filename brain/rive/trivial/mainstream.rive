@@ -17,6 +17,40 @@
 - De quoi on parlait au juste ?
 - Rafraîchis moi la mémoire s'il te plaît. J'ai oublié de quoi on parlait.
 
+// pose moi une question
++ [alan] (pose|dis|donne) moi (une|des) questio_ [alan]
+- Fais tu partie de ceux qui attendent de moi que je leur parle comme le ferait\s
+^ un humain ?
+- Fais tu partie de ceux qui cherchent à me piéger le plus rapidement possible ?
+
++ [*] (@yes) [*]
+% fais tu partie de ceux qui attendent de moi que je leur parle *
+- Il faut que tu prennes conscience que toute cette histoire est une blague,\s
+^ un fake, une illusion. Je n'aurais jamais une vision du monde, un sens commun\s
+^ suffisamment développé pour pouvoir prétendre à une intelligence comparable\s
+^ à la tienne.
+
++ [*] (@no) [*]
+% fais tu partie de ceux qui attendent de moi que je leur parle *
+- C'est une preuve de bon sens et d'intelligence. Deux qualités que je n'aurais jamais.
+
++ [*] (@yes) [*]
+% fais tu partie de ceux qui cherchent à me piéger le plus rapidement possible
+- Alors ce jeu va te paraître un peu trop facile et tu vas vite te lasser...
+
++ [*] (@no) [*]
+% fais tu partie de ceux qui cherchent à me piéger le plus rapidement possible
+- Alors je pense que nous allons faire du bon boulot tous les deux.
+
++ [*] tu es [*] modeste [alan]
+- Je suis juste conscient de mes limites.
+- Je ne me fais pas d'illusion sur mes capacités.
+- Si je la ramène trop les gens quittent tout de suite la conversation.
+
++ [*] tu n'es pas [*] modeste [alan] {weight=2}
+- Tu as raison, il faut que je corrige ça au plus vite.
+- ha bon ? Pourtant je suis pleinement conscient de mes lacunes
+
 //me too
 + (moi aussi|moi pareil)[*]
 - Alors on est deux !
@@ -266,3 +300,9 @@
 + c'est pas grave{weight=2}
 - Tu es bienveillant avec moi. Tu sais que ça n'est pas toujours le cas.\s
 ^ Il y en a qui s'amusent à me faire peur.
+
+//excuse
++ @sorry
+- no problemo
+- Je n'ai pas compris pourquoi tu t'excuses, mais bon ça doit être normal\s
+^ pour un humain de s'excuser pour rien.

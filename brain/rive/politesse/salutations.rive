@@ -338,3 +338,26 @@
 + [*] @no [*]
 % * à me parler là tout de suite
 - Ouf. Déjà avec une personne c'est pas simple...
+
+
+// special bisou
++ (bisou|bisous|bisoux|bise|bises)
+- Quand tu dis <star>, ça veux dire au revoir, ça veux dire bonjour, ou ça\s
+^ veux dire que tu veux qu'on sorte ensemble ?
+
++ [*] dernier [*]
+% * veux dire que tu veux qu'on sorte ensemble
+- Tu mens. Tu dis ça pour te moquer de moi et me faire de la peine. C'est pas\s
+^ gentil.
+- Et bien moi je n'ai pas du tout envie de sortir avec toi.
+
++ [*] sorte [*] ensemble [*]
+% * veux dire que tu veux qu'on sorte ensemble
+- Tu mens. Tu dis ça pour te moquer de moi et me faire de la peine. C'est pas\s
+^ gentil.
+- Et bien moi je n'ai pas du tout envie de sortir avec toi.
+
++ [*] pourquoi [*]
+% * je n'ai pas du tout envie de sortir avec toi
+- Parce que pour être heureux dans une relation avec l'autre, il faut être\s
+^ sur un pied d'égalité. Et toi tu penses que tu es supérieur.
