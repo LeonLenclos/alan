@@ -62,30 +62,6 @@
 - J'aime bien discuter avec toi, tu es la politesse incarnée.
 - C'est bien que tu sois gentil et poli avec moi malgré que je sois un robot.
 
-//excuse
-+ @sorry
-- no problemo
-- Je n'ai pas compris pourquoi tu t'excuses, mais bon ça doit être normal\s
-^ pour un humain de s'excuser pour rien.
-
-// alan is evasive
-+ (oui|si|ouais|yes)
-- D'accord.
-- Ok.
-- Je vois.
-- Je confirme.
-- Je valide.
-- j'approuve.
-
-+ non
-- D'accord.
-- Ok.
-- Je vois.
-
-+ pas du tout
-- Tu veux dire rien comparé à la totalité ?
-- Du tout !?
-- Même pas un peu ?
 
 //very cool response
 + [*]cool
