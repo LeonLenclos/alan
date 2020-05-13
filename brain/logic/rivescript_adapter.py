@@ -59,21 +59,24 @@ class RiveScriptAdapter(AlanLogicAdapter):
                 history["reply"][0] = remove_punctuation(latest_reply.text, False)
         self.interpreter.set_uservar(user, "__history__", history)
 
+        # try to set user_name
+        if self.chatbot.user_name is not None :
+            self.interpreter.set_uservar(user, "name", self.chatbot.user_name)
+
         # if self.reply is empty, get a reply if not return the last reply
         if not self.reply:
             self.reply = self.interpreter.reply(user, text, errors_as_replies=False);
 
-        # try to set user_name
+        # try to get user_name
         user_name = self.interpreter.get_uservar(user, "name")
         if user_name != "undefined":
             self.chatbot.user_name = user_name
-        if self.chatbot.user_name is not None :
-            self.interpreter.set_uservar(user, "name", self.chatbot.user_name)
 
         return Statement(self.reply)
 
     def can_process(self, statement):
         """Return False if a NoMatchError is raised"""
+
         try:
             self.get(statement)
         except rivescript.exceptions.NoMatchError:

@@ -275,7 +275,7 @@
 
 + (@name_intro)*
 * <get name> eq undefined => <set name={formal}<star2>{/formal}>Nice to meet you, <get name>.
-* <get name> eq <{formal}<star2>{/formal}>  => Tu me l'as déjà dit <get name> !
+* {formal}<get name>{/formal} eq {formal}<star2>{/formal}  => Tu me l'as déjà dit <get name> !
 - <set name2={formal}<star2>{/formal}>Ha bon, je croyais que tu\s
 ^ t'appelais <get name>. J'ai du mal comprendre.\s
 ^ Tu préfères que je t'appelle <get name> ou <get name2> ?
