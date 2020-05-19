@@ -6,7 +6,7 @@ var input_open = false;
 // id of the conversation
 var conversation_id = null;
 var alan_status = undefined;
-var server_address = ''; // 'http://alan.cienokill.fr';
+var server_address = 'http://localhost:8080'; // 'http://alan.cienokill.fr';
 
 function setup_message_by_message_mode(argument) {
 
@@ -168,6 +168,27 @@ function catchError(jsonMsg) {
 
 //////////  OPEN CONVERSATIONS //////////
 
+// Test if server is up
+function alive(callback) {
+    setStatus('Connexion au cerveau d\'Alan...', true);
+    setTimeout(()=>{
+        $.ajax({
+            type: 'POST',
+            url: server_address+'/alive',
+            contentType: 'application/json; charset=utf-8',
+            success: function(response) {
+                setStatus('Connexion établie avec le cerveau d\'Alan.');
+                setTimeout(callback, 1000);
+
+            },
+            timeout: 5000,
+            error: function(errMsg) {
+                console.log(errMsg)
+                setStatus('Alan semble ne pas être disponnible... Revenez un autre jour !');
+            }
+        });
+    }, 1000);
+}
 
 // Request a new conversation
 function newConv() {

@@ -186,5 +186,6 @@ def store_all(alan, mute=True):
         if not mute: print("négation :", *r)
 
 if __name__ == '__main__':
-    alan = alan.Alan(["default"])
+    settings = utils.load_settings(["default"])
+    alan = alan.Alan(settings)
     store_all(alan, mute=False)
