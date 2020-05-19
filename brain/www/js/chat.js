@@ -6,7 +6,7 @@ var input_open = false;
 // id of the conversation
 var conversation_id = null;
 var alan_status = undefined;
-var server_address = 'http://localhost:8080'; // 'http://alan.cienokill.fr';
+var server_address = ''; // 'http://alan.cienokill.fr';
 
 function setup_message_by_message_mode(argument) {
 
