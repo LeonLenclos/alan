@@ -53,10 +53,9 @@ class RiveScriptAdapter(AlanLogicAdapter):
 
         # set last reply as the real reply
         history = self.interpreter.get_uservar(user, "__history__")
-        if type(history) is dict:
-            latest_reply = self.chatbot.storage.get_latest_statement(conversation_id=self.chatbot.conversation_id)
-            if latest_reply:
-                history["reply"][0] = remove_punctuation(latest_reply.text, False)
+        if type(history) is dict and len(self.chatbot.conversation)>1:
+            latest_reply = self.chatbot.conversation[-2]
+            history["reply"][0] = remove_punctuation(latest_reply['msg'], False)
         self.interpreter.set_uservar(user, "__history__", history)
 
         # try to set user_name

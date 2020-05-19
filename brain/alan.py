@@ -93,7 +93,7 @@ class Alan(chatterbot.ChatBot):
 
         #create conversation
         self.conversation_id = self.get_conversation_id()
-        # will store all the conversation (used in web interface)
+        # will store all the conversation
         self.conversation = []
 
         #log
@@ -165,6 +165,7 @@ class Alan(chatterbot.ChatBot):
         conversation_id = self.storage.create_conversation()
         return conversation_id
 
+
     def get_response(self, input):
         """return a response to the input_item"""
 
@@ -189,6 +190,10 @@ class Alan(chatterbot.ChatBot):
         self.storage.add_to_conversation(self.conversation_id, input, response)
 
         return response
+
+    def get_conv_element(self, msg, speaker=None, finished=True):
+        if speaker is not None and type(msg) is str:
+            return
 
     def update_input(self, msg, finished):
         """ update the last element of conversation from input"""
@@ -241,6 +246,24 @@ class Alan(chatterbot.ChatBot):
             if input is None:
                 input = self.input.process_input()
 
+            if type(input) is str:
+                input = Statement(input)
+
+            conv_element = {'speaker':'human', 'msg':input.text, 'finished':True}
+
+            # if empty conversation, create element
+            if not len(self.conversation):
+                self.conversation.append(conv_element)
+
+            # if last element is from alan, create element
+            elif self.conversation[-1]['speaker'] == 'alan' and self.conversation[-1]['finished']:
+                self.conversation.append(conv_element)
+            
+            # if last element from human, update elemnent
+            elif  self.conversation[-1]['speaker'] == 'human':
+                self.conversation[-1] = conv_element
+
+
             # Think
             output = self.get_response(input)
 
@@ -248,10 +271,25 @@ class Alan(chatterbot.ChatBot):
             command = re.search(command_regex, output.text)
             if command: output.add_extra_data("command", command.group(1))
             output.text = re.sub(command_regex, "", output.text)
-            if command:
-                do_command = lambda statement: self.execute_command(command.group(1), statement)
 
-            output = self.output.process_response(output, do_command, self.conversation_id)
+            def callback(statement):
+                conv_element = {'speaker':'alan', 'msg':statement.text, 'finished':True}
+
+                # if last element is from human, create element
+                if self.conversation[-1]['speaker'] == 'human':
+                    self.conversation.append(conv_element)
+                
+                # if last element from alan, update elemnent
+                elif  self.conversation[-1]['speaker'] == 'alan':
+                    self.conversation[-1] = conv_element
+
+                # COmmands
+                if command:
+                    return self.execute_command(command.group(1), statement)
+
+                return statement
+
+            output = self.output.process_response(output, callback, self.conversation_id)
 
         # Catch errors and say something funny
         except Exception as e:
@@ -310,12 +348,7 @@ class Alan(chatterbot.ChatBot):
 
     def finish(self):
         """Do exit job before quitting"""
-
-        # log the all conversation
-        self.log("CONVERSATION :")
-        count = self.storage.count_conv(self.conversation_id)
-        for i in reversed(range(count)):
-            self.log("- " + self.storage.get_latest_statement(offset=i, conversation_id=self.conversation_id).text)
+        pass
 
     def quit(self):
         """Quit Alan."""
