@@ -83,7 +83,7 @@ class Serv(BaseHTTPRequestHandler):
         self.alans_death[conversation_id] = time.time() + CONVERSATION_LIFETIME
 
         # HACK !!! (bof bof bof)
-        alan.talk('chut')
+        # alan.talk('chut')
 
         # return the conversation_id and the alan status
         return {
@@ -332,6 +332,11 @@ class Serv(BaseHTTPRequestHandler):
             reply = self.last()
             # log new conversation
             self.log("last conversation", reply['conversation_id'])
+
+       # HELLO
+        elif self.path == '/alive':
+            # get reply
+            reply = True
 
         # return asked data
         if reply is not None:

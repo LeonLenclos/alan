@@ -17,8 +17,7 @@ class CatchRepetitionAdapter(AlanLogicAdapter):
         (the sentences to say when the human repeat something he just said)
         said_in_conversation :
         (the sentences to say when the human repeat something he said in the conv)
-        said
-        (the sentences to say when the human repeat something alan had already listen)
+        said => OBSOLETE !!
 
         ignore
         a list of sentences to ignore
@@ -49,37 +48,24 @@ class CatchRepetitionAdapter(AlanLogicAdapter):
         confidence = 0
         response = ''
 
-        get_latest = self.chatbot.storage.get_latest_statement
+        conv_element = {'speaker':self.speaker, 'msg':statement.text, 'finished':True}
 
-        latest = get_latest(
-            speaker = self.speaker,
-            conversation_id=self.chatbot.conversation_id)
-        latest_same = get_latest(
-            speaker=self.speaker,
-            text=statement.text,
-            conversation_id=self.chatbot.conversation_id)
-        latest_same_in_conv = get_latest(
-            speaker=self.speaker,
-            text=statement.text,
-            conversation_id=self.chatbot.conversation_id)
+        filtred_conv = [conv_element for conv_element in self.chatbot.conversation[:-1]
+            if self.speaker is None or conv_element['speaker']==self.speaker]
 
-        # statement have once been said by speaker
-        if latest_same :
-            # this was in all time
-            response = choice(self.sentences['said'])
-            confidence = 0.3
-
-            # this was in the conversation
-            if latest_same_in_conv:
-                if latest_same.text == latest_same_in_conv.text:
-                    response = choice(self.sentences['said_in_conversation'])
-                    confidence = 0.5
+        # this was in the conversation
+        if conv_element in filtred_conv:
 
             # this was the latest
-            if latest :
-                if latest_same.text == latest.text:
-                    response = choice(self.sentences['just_said'])
-                    confidence = 1
+            if filtred_conv[-1] == conv_element :
+                response = choice(self.sentences['just_said'])
+                confidence = 1
+
+            else:
+                response = choice(self.sentences['said_in_conversation'])
+                confidence = 0.5
+
+
         else :
             return None
         statement_out = Statement(response)

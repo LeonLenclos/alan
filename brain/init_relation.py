@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import alan
+import alan, utils
 
 rel = [
 
@@ -185,6 +185,8 @@ def store_all(alan, mute=True):
         alan.storage.store_concept_association(*r, negative=True)
         if not mute: print("négation :", *r)
 
+
 if __name__ == '__main__':
-    alan = alan.Alan(["default"])
+    settings = utils.load_settings(["default"])
+    alan = alan.Alan(settings)
     store_all(alan, mute=False)

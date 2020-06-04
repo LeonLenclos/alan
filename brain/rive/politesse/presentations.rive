@@ -22,9 +22,9 @@
 - En tout cas je suis content de te connaître, j'espère qu'on pourra discuter\s
 ^ plus longuement plus tard.
 
-//+ [*] (on s'est déjà vus|on s'est déjà vu|on se connaît|tu me connais|on a déjà parlé ensemble|tu te souviens de moi|tu me reconnais) [*]
-//* <get name> == undefined => Tu sais, je ne peux pas te reconnaître, je ne sais\s
-//^ même pas ton nom.
-//- Tu sais, cette semaine j'ai parlé avec 65 personnes\s
-//^ qui s'appellent <get name>, alors il y a très peu de chance pour que je sache\s
-//^ vraiment qui tu es.
++ [*] (on s'est déjà vus|on s'est déjà vu|on se connaît|tu me connais|on a déjà parlé ensemble|tu te souviens de moi|tu me reconnais) [*]
+* <get name> == undefined => Tu sais, je ne peux pas te reconnaître, je ne sais\s
+^ même pas ton nom.
+- Tu sais, cette semaine j'ai parlé avec 65 personnes\s
+^ qui s'appellent <get name>, alors il y a très peu de chance pour que je sache\s
+^ vraiment qui tu es.

@@ -55,12 +55,8 @@ class MainLogicAdapter(MultiLogicAdapter):
                     # check if the sentence have been said (only if > 3 words)
                     result_info["not_allowed_to_repeat"] = False
                     if not adapter.allowed_to_repeat and len(nltk.word_tokenize(output.text)) > 3:
-                        conversation_id = self.chatbot.conversation_id
-                        same_statement = self.chatbot.storage.get_latest_statement(
-                                            conversation_id=conversation_id,
-                                            text=output.text,
-                                            speaker="alan")
-                        if same_statement:
+
+                        if {'speaker':'alan','msg':output.text,'finished':True} in self.chatbot.conversation:
                             result_info["not_allowed_to_repeat"] = True
 
                     # check if it is the best

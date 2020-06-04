@@ -27,11 +27,14 @@ class NiOuiNiNon(AlanLogicAdapter):
 
     def can_process(self, statement):
         # Process only if there is a latest statement in the conversation
-        prev = self.chatbot.storage.get_latest_statement(speaker="alan",conversation_id=self.chatbot.conversation_id)
-        if not prev:
+        if  len(self.chatbot.conversation)<2:
             return False
+
+        alan_latest = [conv_element for conv_element in self.chatbot.conversation
+            if conv_element['speaker'] == 'alan'][-1]['msg']
+
         if self.state == BEGIN:
-            if prev.text in self.previous:
+            if alan_latest in self.previous:
                 self.state = PLAYING
                 return False
         return  self.state == PLAYING
@@ -39,7 +42,10 @@ class NiOuiNiNon(AlanLogicAdapter):
     def process(self, statement):
         # # get previous statement's logic_identifier
         conversation = self.chatbot.conversation_id
-        alan_latest = self.chatbot.storage.get_latest_statement(speaker="alan",conversation_id=self.chatbot.conversation_id).text.lower()
+
+        alan_latest = [conv_element for conv_element in self.chatbot.conversation
+            if conv_element['speaker'] == 'alan'][-1]['msg'].lower()
+
         human_latest = statement.text.lower()
         if "oui" in alan_latest or "non" in alan_latest:
             word = "oui" if "oui" in alan_latest else "non"
