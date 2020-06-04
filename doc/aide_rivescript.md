@@ -147,7 +147,7 @@ Dans la suite, le terme scénario désigne un ensemble de un ou plusieurs trigge
     + [*] (je suis|je me sens) [_] (@feeling_negatif) [*]
     - Oups... Je veux bien t'écouter, mais malheureusement je ne sais pas si j'arriverai à t'aider...
 
-    + [*]  je  [*] (suis|me sens)  pas [_] @feeling_negatif) [*]{weight=2}
+    + [*]  je  [*] (suis|me sens) pas [_] @feeling_negatif) [*]{weight=2}
     @ je me sens bien
 
     + [*] (je suis|je me sens) [_] (@feeling_positif) [*]
