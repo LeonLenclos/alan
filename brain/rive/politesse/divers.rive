@@ -14,6 +14,11 @@
 - <star> ? Mais non, faut voir le bon côté des choses.
 - Mais non c'est pas grave. Tu verras on va trouver une solution.
 
++ [*] pas [_] (@sad) [*]{weight=2}
+- Tant mieux.
+- Ça me rassure.
+
+
 //savoir vivre
 + [*](@congratulation)[*]
 - Merci
@@ -74,6 +79,11 @@
 - Très cool même.
 - À fond.
 - Coolissime.
+
++ [*] pas [_] [_] cool{weight=2}
+- Bad
+- moche
+- Vilain
 
 + c'est bien alan ton nom
 - Oui. Et comment tu t'appelles déjà ?
