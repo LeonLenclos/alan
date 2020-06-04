@@ -141,16 +141,16 @@ Dans la suite, le terme scénario désigne un ensemble de un ou plusieurs trigge
    - En effet, l'utilisateur s'exprime souvent avec une négation : pas et il faut l'intgérer systématiquement pour évitrer les contre-sens. Voila la forme que je propose dès qu'on utilise un attribut :
    
 ``` 
-    + [*]  je  [*] (suis|me sens) pas (@feeling_positif) [*]{weight=2}
+       + [*]  je  [*] (suis|me sens) pas [_] (@feeling_positif) [*]{weight=2}
     @ je me sens mal
 
-    + [*] (je suis|je me sens) (@feeling_negatif) [*]
+    + [*] (je suis|je me sens) [_] (@feeling_negatif) [*]
     - Oups... Je veux bien t'écouter, mais malheureusement je ne sais pas si j'arriverai à t'aider...
 
-    + [*]  je  [*] (suis|me sens) pas (@feeling_negatif) [*]{weight=2}
+    + [*]  je  [*] (suis|me sens) pas [_] @feeling_negatif) [*]{weight=2}
     @ je me sens bien
 
-    + [*] (je suis|je me sens) (@feeling_positif) [*]
+    + [*] (je suis|je me sens) [_] (@feeling_positif) [*]
     - Ça c'est super, raconte-moi ce qui te fais te sentir si bien ?
 ``` 
    - Le weight est important pour être sur de declencher les "pas".

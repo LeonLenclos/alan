@@ -41,10 +41,10 @@
 
 //////////////////////////////////YES/NO
 
-+ (@yes)
++ [_] [_] (@yes) [_] [_]
 - {sentence}(@yesreponse){/sentence}.
 
-+ (@no)
++ [_] [_] (@no) [_] [_]
 - {sentence}(@noreponse){/sentence}.
 
 + [*] (@maybe) [*]
