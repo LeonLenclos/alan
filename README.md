@@ -1,4 +1,4 @@
-# Alan v1.5.2
+# Alan v1.6
 
 ## Description
 
