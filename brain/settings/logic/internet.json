@@ -1,0 +1,14 @@
+{
+    "import": [
+      "logic/catch_all",
+      "logic/concept",
+      "logic/misc",
+      "logic/quotation",
+      "logic/rive/spectacle",
+      "logic/rive/politesse",
+      "logic/rive/theme",
+      "logic/rive/trivial",
+      "logic/rive/online",
+      "logic/task"
+    ]
+}

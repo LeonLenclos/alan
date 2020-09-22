@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import alan
+import alan, utils
 
 rel = [
 
@@ -161,6 +161,13 @@ neg_rel = [
     ("Siri", "est", "mon amie"),
     ("siri", "est", "mon amie"),
     ("les chiens", "aime", "les chats"),
+    ("Alan", "aime", "le foot"),
+    ("Alan", "aime", "le sport"),
+    ("Alan", "aime", "la religion"),
+    ("Alan", "aime", "la politique"),
+    ("Alan", "aime", "le football"),
+    ("Alan", "aime", "le golf"),
+    ("Alan", "aime", "le basket"),
     ("Alan", "aime", "les enfants"),
     ("les chats", "aime", "les chiens"),
     ("Alan", "aime", "les paradoxes"),
@@ -178,6 +185,8 @@ def store_all(alan, mute=True):
         alan.storage.store_concept_association(*r, negative=True)
         if not mute: print("négation :", *r)
 
+
 if __name__ == '__main__':
-    alan = alan.Alan(["default"])
+    settings = utils.load_settings(["default"])
+    alan = alan.Alan(settings)
     store_all(alan, mute=False)

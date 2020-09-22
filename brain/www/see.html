@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Parler à Alan</title>
+	<title>Alan</title>
 	<meta charset="UTF-8">
-	<script src="jquery.min.js"></script>
-    <script type="text/javascript">var GET_CONV_METHOD = 'last';</script>
-	<script src="chat.js"></script>
-	<link rel="stylesheet" type="text/css" href="full.css">
-	<link rel="stylesheet" type="text/css" href="see.css">
+	<script src="js/jquery.min.js"></script>
+	<script src="js/chat.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/full.css">
+	<link rel="stylesheet" type="text/css" href="css/see.css">
+	<script type="text/javascript">
+
+		$().ready(function(){
+			// Event for pressing new button
+			setup_continuous_update_mode();
+	    	lastConv();
+	    }
+
+	</script>
 </head>
 <body>
 	<h2>Parler avec Alan</h2>

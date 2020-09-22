@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alan</title>
+	<meta charset="utf-8">
+	<script src="js/jquery.min.js"></script>
+	<script src="js/chat.js"></script>
+	<script src="js/secret_talk.js"></script>
+	<script type="text/javascript">
+
+		$().ready(function(){
+			// Event for pressing new button
+			setup_continuous_update_mode();
+	    	newConv();
+	    }
+
+	</script>
+	<link rel="stylesheet" type="text/css" href="css/full.css">
+</head>
+<body>
+	<h2>Parler avec Alan</h2>
+	<div id=status>Chargement...</div>
+	<div id="discussion-container"><ul id="discussion"></ul></div>
+	<input type="text" id="msg" disabled> <button type='button' id="talk" disabled>Parler</button>
+</body>
+</html>

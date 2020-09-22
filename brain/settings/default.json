@@ -1,3 +1,4 @@
 {
-    "import": ["base", "interface", "logic"]
+    "import": ["base", "interface", "logic"],
+    "config-name" : "default"
 }

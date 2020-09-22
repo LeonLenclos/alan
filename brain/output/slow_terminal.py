@@ -10,7 +10,7 @@ class SlowTerminal(OutputAdapter):
         self.delay = kwargs.get("delay", 0.002)
 
 
-    def process_response(self, statement, session_id=None):
+    def process_response(self, statement, callback, session_id=None):
         """
         :param statement: The statement that the chat bot has produced in response to some input.
         :param session_id: The unique id of the current chat session.
@@ -29,4 +29,4 @@ class SlowTerminal(OutputAdapter):
             sleep(0.15)
 
         print("> {}".format(statement.text))
-        return statement
+        return callback(statement)

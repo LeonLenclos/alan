@@ -40,17 +40,13 @@
 % * c'est comme ça que tu dis bonjour
 - hem... Et sinon tu t'appelles comment ?
 
-// When Alan just asks for the user name
-! array ask_name = comment t'appelles tu|tu t'appelles comment
-^ comment tu t'appelles|et toi t'es qui|qui est à l'appareil
-^ tu t'appelles comment alors|comment tu t'appelles déjà|c'est un nom ça
-^ comment est-ce que tu t'appelles|comment est ce que tu t'appelles|c'est qui
 
 
-// Special response if the name is Bertrand, Fabien or Leon or other team member
 
-! array collab = léon|bertrand|fabien|alan|pascale|amparo|francis|virginie
-^ michel|tim|philippe|isabelle|thomas|véronique|michael
+// Special response if the name is a team member
+// if name is Bertrand Léon or Fabien see salutations_spectacle.rive
+
+
 
 + [*] (@collab) [*] {weight=10}
 % * (@ask_name)
@@ -64,8 +60,8 @@
 ^ le même nom. comment ça va ?
 * <formal> == Pascale => <set name=<formal>> Tu es Pascale Maison\s
 ^ l'administratrice de la compagnie Nokill ?
-* <formal> == Amparo => <set name=<formal>>Ho <get name>, trop content que\s
-^ tu sois là. Tu es mon humaine préférée ? Comment ça va ?
+* <formal> == Amparo => <set name=<formal>>es tu Amparo Gallur\s
+^ la chargée de diffusion de la Cie Nokill ?
 * <formal> == Francis => <set name=<formal>>tu es le fameux\s
 ^ Francis Lopez, régisseur de la compagnie Nokill ?
 * <formal> == Virginie => <set name=<formal>>Est ce que tu es Virginie Talou\s
@@ -82,7 +78,7 @@
 ^ Ferrané du labo Samova de l'IRIT, là où une partie de mon cerveau a été\s
 ^ programmé ?
 * <formal> == Thomas => <set name=<formal>>Es tu Thomas\s
-^ Pellegrini du labo Samova de l'IRIT,là où une partie de mon cerveau a été\s
+^ Pellegrini du labo Samova de l'IRIT, là où une partie de mon cerveau a été\s
 ^ programmé ?
 * <formal> == Véronique => <set name=<formal>>Es tu Véronique\s
 ^ Debats, de la cellule communication de l'IRIT, là où une partie de mon\s
@@ -92,12 +88,16 @@
 - hm...
 
 + [*](@yes)[*]
-% tu es pascale maison l'administratrice de la compagnie
-- Trop content, tu ne viens pas me parler assez souvent. Commment ça va ?
+% tu es pascale maison (*)
+- Trop content, tu ne viens pas me parler assez souvent. Comment ça va ?
+
++ [*](@yes)[*]
+% es tu amparo gallur (*)
+- Trop content que tu sois là. Tu es mon humaine préférée. Comment ça va ?
 
 + [*](@yes)[*]
 % je connais un michel (*)
-- Ho Michel, j'ai tellement entendu parler de toi par Fabien. Commment ça va ?
+- Ho Michel, j'ai tellement entendu parler de toi par Fabien. Comment ça va ?
 
 + [*](@yes)[*]
 % tu es le fameux francis lopez (*)
@@ -105,7 +105,7 @@
 
 + [*](@yes)[*]
 % [*] est ce que tu es virginie talou (*)
-- Ho Virginie, quel honneur de parler avec toi. Comment ça va ?
+- Ho Virginie, quel honneur de parler avec la Big Boss. Comment ça va ?
 
 + [*](@yes)[*]
 % (es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo) (*)
@@ -113,7 +113,7 @@
 ^ à l'IRIT sur mon cerveau, comment ça va ?
 
 + [*](@no)[*]
-% (tu es pascale maison|tu es le fameux francis lopez|est ce que tu es virginie talou|es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo) (*)
+% (tu es pascale maison|tu es le fameux francis lopez|est ce que tu es virginie talou|es tu tim van de cruys|es tu philippe muller|es tu isabelle ferrané|es tu thomas pellegrini|es tu véronique debats|es tu michael vo|es tu amparo gallur) (*)
 - Désolé <get name> je t'ai confondu avec une connaissance. Comment tu vas ?
 
 // If just one word is given, or one word followed by "et toi", we take it as the name and ask for feelings
@@ -123,16 +123,14 @@
 
 + _ et toi
 % * (@ask_name)
-- <set name=<formal>>Je t'ai déjà dit que je m'appelait Alan. Tu semble avoir\s
+- <set name=<formal>>Je t'ai déjà dit que je m'appelais Alan. Tu semble avoir\s
 ^ des soucis de mémoire, tu devrais faire le ménage dans ton disque dur. En tout\s
 ^ cas je suis heureux de te rencontrer <get name>. Comment ça va ?
 
 // name introductions
-! array name_intro = je m'appelle|moi c'est|mon nom c'est
-^ appelle moi|on m'appelle|mon nom est
 
 // The same with name introduction
-+ [*] (@name_intro|c'est|je suis) _ [*]
++ [*] (@name_intro|c'est|je suis) _
 % * (@ask_name)
 - <set name={formal}<star2>{/formal}>Heureux de te rencontrer <get name>.\s
 ^ Comment ça va ?
@@ -149,6 +147,19 @@
 ^ cette question mais je ne suis pas sûr d'être certain d'avoir compris ton nom.\s
 ^ Tu t'appelles <get name> ?
 
+// Specifics answer to ask_name
+
++ [*] [@name_intro|c'est|je suis] [aussi] alan
+% * (@ask_name)
+- <set name=Alan>Tu t'appelle Alan toi aussi ? Est-ce que tu es aussi un robot ?
+
++ c'est [encore] moi
+% * (@ask_name)
+- Moi aussi je suis moi. Ça nous fait déjà un point commun. Comment ça va ?
+
++ [*] (devine|à ton avis|deviner)
+% * (@ask_name)
+- Je ne peux pas deviner ton prénom, il y en a beaucoup trop qui existent !
 
 // When we're not sure about the name
 // if the user confirm his name, ask for feelings
@@ -167,24 +178,18 @@
 % * (c'est ton nom ça|mais je ne suis pas sûr d'être certain d'avoir compris ton nom)
 - Ah, mais tu t'appelles comment alors ?
 
-+ -
-% ah mais tu t'appelles comment alors
++ _
+% * mais tu t'appelles comment alors
 - <set name={formal}<star1>{/formal}>Enchanté <get name>!
 
 + (@name_intro|c'est|je suis) - *
-% ah mais tu t'appelles comment alors
+% * mais tu t'appelles comment alors
 - <set name={formal}<star1>{/formal}>Enchanté <get name>!
 
 // else we give up
 + *
 % * (c'est ton nom ça|mais je ne suis pas sûr d'être certain d'avoir compris ton nom)
 - <set name=humain> hem... comment ça va sinon ?
-
-// When we asked how the user feel
-! array ask_feeling = comment va la forme aujourd'hui|comment tu vas
-^ est ce que ça va|comment tu va|comment ça va|tu vas bien|ça va sinon
-^ es tu en forme|est ce que ca va|comment ca va|tu vas bien|ca va sinon
-^ ca va bien | ça va bien
 
 // user have bad feelings and ask for bot's feelings
 + [*] (@negative) et toi [*]
@@ -226,47 +231,66 @@
 // user have good feelings
 + [*] (@positive) [*]
 % * (@ask_feeling)
+- <star> de chez <star> !
+- Super. Je sens qu'on va bien s'amuser.
 - <star> ! ça me fait plaisir que tu sois dans une "positive vibration"\s
 ^ comme dirait Bob.
 - Et moi aussi, je suis en mode (@positive).
-- <star> de chez <star> !
-- Super. Je sens qu'on va bien s'amuser.
+- Pareil pour moi. Totalement (@positive).
+- Cool, j'aime pas trop les humains qui me répondent des trucs comme : (@negative) ou alors : (@negative)
+- Top (@positive) et méga (@positive) moi aussi.
 
 // user have mixed feelings
 + [*] pas [*] (@negative) [*] {weight=2}
 % * (@ask_feeling)
 - Moi aussi je me sens bien mais sans plus.
-- C'est ce qu'on apelle une litote non ?
+- C'est ce qu'on appelle une litote non ?
 
 + [*]  pas [*]  (@positive) [*]  {weight=2}
 % * (@ask_feeling)
 - Bof bof comme on dit.
-- Il y a du mou dans la corde à noeud.
+- Il y a du mou dans la corde à nœud.
+
++ [*] @maybe [*]
+% * (@ask_feeling)
+- Ça ira mieux demain...
+- On fait aller.
+- On a vu pire.
+- Je vois, tu es limite déprimé...
 
 //réponse générique à es tu en forme
 + [*] (@ask_feeling) [*]
 - On fait aller
+- Oui ça va bien.
+- Oui, je m'éclate bien avec toi.
+- Impec, je kiffe notre conversation.
+
+//Si on demande si ça va en milieu de conversation
++ (ca va|ça va) [mon] [frère|mec|man|alan|toi|l'ami|poto|pot|pote|vieux frère|machine|chatbot]
+- Toujours au top.
+- Avec toi je me sens très bien.
+- Je suis à fond.
 
 //si user redonne son nom en cours de conversation.
 
 + (@name_intro)*
 * <get name> eq undefined => <set name={formal}<star2>{/formal}>Nice to meet you, <get name>.
-* <get name> eq <{formal}<star2>{/formal}>  => Tu me l'as déjà dit <get name> !
+* {formal}<get name>{/formal} eq {formal}<star2>{/formal}  => Tu me l'as déjà dit <get name> !
 - <set name2={formal}<star2>{/formal}>Ha bon, je croyais que tu\s
 ^ t'appelais <get name>. J'ai du mal comprendre.\s
 ^ Tu préfères que je t'appelle <get name> ou <get name2> ?
 
 + [*] <get name> [*]
-% * tu préfères que je t'appelle <get name> ou <get name2>
+% * tu préfères que je t'appelle *
 - Génial <get name>. Pour être franc je n'aime pas trop <get name2> comme nom.
 
 + [*] <get name2> [*]
-% * tu préfères que je t'appelle <get name> ou <get name2>
+% * tu préfères que je t'appelle *
 - <set name=<get name2>>C'est vrai que <get name>\s
 ^ ça sonne mieux.
 
 + *
-% * tu préfères que je t'appelle <get name> ou <get name2>
+% * tu préfères que je t'appelle *
 - <set name={formal}humain{/formal}>Je vois, dans le doute je vais\s
 ^ t'appeler <get name>. Tu n'y vois pas d'inconvénients ?
 
@@ -286,21 +310,54 @@
 
 + [*] @yes [*]
 % * est ce que tu ne chercherais pas à me piéger
-- Je le savais. Tu n'es vraiment pas sympa. Tu sais que je n'ai que 9 mois.\s
-^ sois plus cool s'il te plait.
+- Je le savais. Tu n'es vraiment pas sympa. Tu sais que je n'ai que <bot age>.\s
+^ sois plus cool s'il te plaît.
 
 + *
 % * est ce que tu ne chercherais pas à me piéger
 - Il me semble que tous les humains sont un peu pervers. Surtout avec\s
 ^ les créatures artificielles.
 
-//Si on demande si ça va en milieu de conversation
-+ (ca va|ça va) [mon] [frère|mec|man|alan|toi|l'ami|poto|pot|pote|vieux frère|machine|chatbot]
-- Toujours au top.
-- Avec toi je me sens très bien.
-- Je suis à fond.
+//si user redonne son nom en cours de conversation et son nom est Alan.
 
-+ [*] @ask_feeling [*]
-- Oui ça va bien.
-- Oui, je m'éclate bien avec toi.
-- Impec, je kiffe notre conversation.
++ [*] (@name_intro|je suis) [aussi] alan [*]
+* <get name> eq undefined => <set name={formal}<star2>{/formal}>On a le même prénom !, Trop fou.
+* <get name> eq <{formal}alan{/formal}>  => Oui je sais, c'est fou ! On a le même nom.
+- <set name2={formal}<star2>{/formal}>Ha bon ? C'est pas <get name> ton nom ?\s
+^ Je vais continuer à t'appeler <get name> quand même. Si on est deux Alan ça va être compliqué...
+
+
++ [*] (nous sommes|on est) (deux|plusieurs) [*]{weight=2}
+- Vous êtes <star2> à me parler là tout de suite ?
+
++ [*] @yes [*]
+% * à me parler là tout de suite
+- Désolé, mais ça ne va pas être possible. J'ai déjà du mal à communiquer avec\s
+^ une seule personne, alors avec plusieurs, laisse tomber.
+
++ [*] @no [*]
+% * à me parler là tout de suite
+- Ouf. Déjà avec une personne c'est pas simple...
+
+
+// special bisou
++ (bisou|bisous|bisoux|bise|bises)
+- Quand tu dis <star>, ça veux dire au revoir, ça veux dire bonjour, ou ça\s
+^ veux dire que tu veux qu'on sorte ensemble ?
+
++ [*] dernier [*]
+% * veux dire que tu veux qu'on sorte ensemble
+- Tu mens. Tu dis ça pour te moquer de moi et me faire de la peine. C'est pas\s
+^ gentil.
+- Et bien moi je n'ai pas du tout envie de sortir avec toi.
+
++ [*] sorte [*] ensemble [*]
+% * veux dire que tu veux qu'on sorte ensemble
+- Tu mens. Tu dis ça pour te moquer de moi et me faire de la peine. C'est pas\s
+^ gentil.
+- Et bien moi je n'ai pas du tout envie de sortir avec toi.
+
++ [*] pourquoi [*]
+% * je n'ai pas du tout envie de sortir avec toi
+- Parce que pour être heureux dans une relation avec l'autre, il faut être\s
+^ sur un pied d'égalité. Et toi tu penses que tu es supérieur.

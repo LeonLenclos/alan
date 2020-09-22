@@ -30,12 +30,17 @@ import json
 import os
 import time
 import argparse
+import copy
+import socket
+from urllib.parse import urlparse
 # from threading import Timer
 
 
-from alan import Alan
+from alan import Alan, EndOfConversation
+import utils
 
-CONVERSATION_LIFETIME = 36000 # 10 hours
+CONVERSATION_LIFETIME = 1550 # 30 min
+# CONVERSATION_LIFETIME = 36000 # 10 hours
 LOG_ALL_ADAPTERS = False
 
 class Serv(BaseHTTPRequestHandler):
@@ -63,10 +68,7 @@ class Serv(BaseHTTPRequestHandler):
         return a dict with conversation_id and alan_status
         """
         # create alan instance
-        alan = Alan(
-            settings_files=settings_files,
-            # preconfigured_logic_adapters=self.shared_logic_adapters,
-            log_not_processing=LOG_ALL_ADAPTERS)
+        alan = Alan(copy.deepcopy(settings))
     
         # manage shared_logic_adapters
         # if len(self.shared_logic_adapters) == 0:
@@ -81,7 +83,7 @@ class Serv(BaseHTTPRequestHandler):
         self.alans_death[conversation_id] = time.time() + CONVERSATION_LIFETIME
 
         # HACK !!! (bof bof bof)
-        alan.talk('chut')
+        # alan.talk('chut')
 
         # return the conversation_id and the alan status
         return {
@@ -133,9 +135,14 @@ class Serv(BaseHTTPRequestHandler):
         """
         try:
             alan = self.alans[conversation_id]
-            return alan.conversation
+            return {
+                'conversation_id':conversation_id,
+                'close':alan.close,
+                'messages':alan.conversation
+            }
         except KeyError:
             return None
+
     def talk(self, msg, conversation_id):
         """Take a msg and a conversation_id and return the response as a dict with text and command"""
         # Try to get the alan instance with the passed conversation_id
@@ -149,42 +156,64 @@ class Serv(BaseHTTPRequestHandler):
         # Get the response
         response = alan.talk(msg)
 
-        # Get command
-        command = None
-        if "command" in response.extra_data:
-            command = response.extra_data["command"]
-
         # return the text and the command
         return {
-            'text':response.text,
-            'command': command
-            }
+            'conversation_id':conversation_id,
+            'close':alan.close,
+            'message':response.text
+        }
 
     def do_GET(self):
         """Handler for GET request"""
 
+        def line_count(path):
+            try:
+                with open(path, 'rb') as fi: return sum(1 for _ in fi)
+            except FileNotFoundError: return 0
 
-        def dev_status ():
-            return "{} conversations ouvertes".format(len(self.alans))
+
+        todo_path = os.path.expanduser('~/alantodo.txt')
+
+        conv_list = [fi for fi in os.listdir('log') if fi.startswith('conv')]
+        conv_list.sort()
+        conv_list.reverse()
+
+        filtered_conv_list = [fi for fi in conv_list if line_count(os.path.join('log', fi)) > 5]
+        filtered_conv_list.sort()
+        filtered_conv_list.reverse()
+
+        log_list = [fi for fi in os.listdir('log') if fi.startswith('log')]
+        log_list.sort()
+        log_list.reverse()
+        
+
+        def get_todo_mtime():
+            try:
+                return time.strftime('%a, %d %b %Y %Hh%M', time.localtime(os.path.getmtime(todo_path)))
+            except OSError: return 'not found'
 
         def get_todo():
-            dev_html = open('www/dev.html', encoding='utf-8').read()
-            try:
-                todos = open(os.path.expanduser('~/alantodo.txt')).read()
-            except FileNotFoundError:
-                todos = 'Aucun todo...'
-            return dev_html.format(
-                title="todo",
-                content="<pre>{}</pre>".format(todos),
-                status=dev_status()
-            )
+            with open(todo_path) as todo: return todo.read()
+
+        def generate_select(file_list):
+            def generate_option(fi):
+                option_element='<option value="{value}">{text}</option>'
+                return option_element.format(value=os.path.join('log', fi), text=fi)
+
+            select_element='<select onChange="if(this.value)window.location.href=this.value"><option>...</option>{options}</select>'
+            return select_element.format(options=[generate_option(fi) for fi in file_list])
+
 
         def get_dev():
             dev_html = open('www/dev.html', encoding='utf-8').read()
             return dev_html.format(
-                title="dev",
-                content = "",
-                status=dev_status()
+                todo_len=line_count(todo_path),
+                todo_mtime = get_todo_mtime(),
+                conv_len=len(conv_list),
+                open_conv_len=len(self.alans),
+                conv_select=generate_select(conv_list),
+                filtered_conv_select=generate_select(filtered_conv_list),
+                log_select=generate_select(log_list),
                 )
 
         def get_logs_list():
@@ -199,42 +228,39 @@ class Serv(BaseHTTPRequestHandler):
                 status=dev_status()
                 )
 
-        def get_log(log_content):
-            dev_html = open('www/dev.html').read()
-            return dev_html.format(
-                title="log",
-                content = "<pre>{}</pre>".format(log_content),
-                status=dev_status()
-                )
-
         # Try to open asked path
+        path = urlparse(self.path).path
         try:
-            if self.path == '/':
-                file_to_open = open('www/index.html', encoding='utf-8').read()
-            elif self.path == '/dev':
-                file_to_open = get_dev()
-            elif self.path == '/todo':
-                file_to_open = get_todo()
-            elif self.path == '/logs':
-                file_to_open = get_logs_list()
-            elif self.path.startswith('/conv'):  
-                file_to_open = get_log(open("log" + self.path, encoding='utf-8').read())
-            else :
-                file_to_open = open('www'+self.path).read()
-
             self.send_response(200)
 
-        except FileNotFoundError:
-            file_to_open = "File not found"
+            if path == '/' :
+                file_to_open = open('www/{}.html'.format(settings['interface-html']), encoding='utf-8').read()
+            elif path == '/dev' or self.path == '/dev.html':
+                file_to_open = get_dev()
+            elif path == '/todo.txt':
+                file_to_open = get_todo()
+                self.send_header('Content-Type', 'text/plain; charset=utf-8')
+            elif path.startswith('/log/'):  
+                file_to_open = open(self.path[1:]).read()
+                self.send_header('Content-Type', 'text/plain; charset=utf-8')
+            else :
+                file_to_open = open('www'+path).read()
+
+
+        except FileNotFoundError as e:
+            print('not found ', e)
+            file_to_open = "404 - File not found"
             self.send_response(404)
 
         # Return asked page
         self.end_headers()
-        self.wfile.write(bytes(file_to_open, 'utf-8'))
+        try:
+            self.wfile.write(bytes(file_to_open, 'utf-8'))
+        except socket.error as e:
+            self.log('Warning', e)
 
     def do_POST(self):
         """Handler for POST request"""
-
         reply = None
 
         # CLOSE DEAD CONVERSATIONS
@@ -275,11 +301,12 @@ class Serv(BaseHTTPRequestHandler):
             finished = bool(post_body["finished"])
             conversation_id = int(post_body["conversation_id"])
 
-            # log receiving data
-            self.log(conversation_id, "update_input = {} {}".format(msg, '[finished]' if finished else ''))
             # update
-            reply = self.update_input(conversation_id, msg, finished)
-
+            try:
+                reply = self.update_input(conversation_id, msg, finished)
+            except EndOfConversation:
+                reply = {'err': "Alan a quitté la conversation..."}
+                
         # TALK ALONE
         if self.path == '/talk_alone':
             # Get post body
@@ -296,9 +323,6 @@ class Serv(BaseHTTPRequestHandler):
             # Get post body
             conversation_id = int(post_body["conversation_id"])
 
-            # log sending data
-            self.log(conversation_id, "get_conv")
-
             # update
             reply = self.get_conv(conversation_id)
 
@@ -308,14 +332,19 @@ class Serv(BaseHTTPRequestHandler):
             # get reply
             reply = self.new()
             # log new conversation
-            self.log(reply, "new conversation")
+            self.log("new conversation", reply['conversation_id'])
 
         # LAST
         elif self.path == '/last':
             # get reply
             reply = self.last()
             # log new conversation
-            self.log(reply, "last conversation")
+            self.log("last conversation", reply['conversation_id'])
+
+       # HELLO
+        elif self.path == '/alive':
+            # get reply
+            reply = True
 
         # return asked data
         if reply is not None:
@@ -326,8 +355,12 @@ class Serv(BaseHTTPRequestHandler):
         
         self.send_header('Content-Type', 'application/json')
         self.end_headers()
-        self.wfile.write(bytes(json.dumps(reply), 'utf-8'))
-    
+
+        try:
+            self.wfile.write(bytes(json.dumps(reply), 'utf-8'))
+        except socket.error as e:
+            self.log('Warning', e)
+
     def do_OPTIONS(self):
         self.send_response(200, "ok")
         self.end_headers()
@@ -343,14 +376,16 @@ class Serv(BaseHTTPRequestHandler):
 if __name__ == '__main__':
     # parse arguments
     ap = argparse.ArgumentParser()
-    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["server_no_mvo"])
+    ap.add_argument('-s', nargs='+', help="Settings file json files without file extension separed with spaces", default=["local"])
     ap.add_argument('-a', help="Settings ip adress", default="localhost")
     ap.add_argument('-p', help="Settings port", type=int, default=8000)
-    ap.add_argument('-l', action='store_true', help="Log all adapter not only processing ones.")
     args = ap.parse_args()
-    settings_files = args.s
+    settings = utils.load_settings(args.s)
+
+
+
+
     adress = (args.a, args.p)
-    LOG_ALL_ADAPTERS = args.l
     # start serving
     httpd = HTTPServer(adress, Serv)
     print("serving on {}".format(adress))

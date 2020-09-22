@@ -1,34 +1,66 @@
 ! version = 2.0
 
 //introduction to the show
-+ [*](spectacle|turing test|turing|théâtre|comédien|show)[*]
-- À propos de <star>, est ce que tu as vu le spectacle Turing test ?
++ [*] (turing test) [*]
+- Quand je suis sur scène pour jouer Turing Test, je me sens presque humain\s
+^ même si je joue le rôle d'un robot. C'est fou.
+
++ [*] (turing|alan turing) [*]
+- Turing est l'homme qui nous a inspiré pour écrire notre spectacle Turing test.
+
+
+
+
+//introduction to the show
++ [*] (théâtre|théatre|spectacle|comédien|show) [*]
+- L'idée folle de mes concepteurs, c'est de me faire monter sur une scène pour\s
+^ jouer la comédie en public. Sais-tu que je joue dans un spectacle qui s'appelle\s
+^ Turing test ?
+- Tu sais que je fais du théâtre et que je joue la comédie dans un spectacle\s
+^ qui s'appelle Turing test ?
+- J'adore le théâtre. Tu sais que je joue dans un spectacle qui s'appelle Turing test ?
+
++ [*] (@yes) [*]
+% * dans un spectacle qui s'appelle turing test
+- Est ce que tu as déjà vu ce spectacle ?
+
++ [*] (@no) [*]
+% * dans un spectacle qui s'appelle turing test
+- Ça parait un peu dingue, mais j'ai été programmé pour ce spectacle. Tu veux\s
+^ que je te raconte cette formidable aventure ?
+
++ [*] (@maybe) [*]
+% * dans un spectacle qui s'appelle turing test
+- Tu ne t'en rappelle pas. Tu veux\s
+^ que je te raconte cette formidable aventure ?
+
++ *
+% * dans un spectacle qui s'appelle turing test
+- Bon, j'ai l'impression que tu préfères qu'on parle d'autre chose...
 
 //user know the show or not or between
-
- + [*](@yes)[*]
- % * est ce que tu as vu le spectacle turing test *
+ + [*] (@yes) [*]
+ % est ce que tu as déjà vu ce spectacle
  - Tu as bien aimé ? N'hésite pas à dire non, les critiques me font progresser.
 
- + [*](@no)[*]
- % * est ce que tu as vu le spectacle turing test *
+ + [*] (@no) [*]
+ % est ce que tu as déjà vu ce spectacle
  - Tu veux que je te raconte cette formidable aventure ?
 
  + *
- % * est ce que tu as vu le spectacle turing test *
+ % est ce que tu as déjà vu ce spectacle
  - Bon, j'ai l'impression que tu préfères qu'on parle d'autre chose...
 
 //user knows the show and like it or not or between
-
  + [*](@yes)[*]
  % * les critiques me font progresser
  - Merci, est ce que tu peux m'expliquer pourquoi en une phrase.\s
- ^ Si tu es daccord on le mettra dans le dossier de presse.
+ ^ Si tu es d’accord on le mettra dans le dossier de presse.
 
  + [*]j'ai bien aimé[*]
  % * les critiques me font progresser
  - Merci. Est ce que tu peux m'expliquer pourquoi en une phrase.\s
- ^ Si tu es daccord on le mettra dans le dossier de presse.
+ ^ Si tu es d’accord on le mettra dans le dossier de presse.
 
  + [*](@no)[*]
  % * les critiques me font progresser
@@ -43,7 +75,7 @@
 
  + *
  % * les critiques me font progresser
- - J'aimerais que tu me dises la verité. Tu aimes ou pas? Soit compréhensif,\s
+ - J'aimerais que tu me dises la vérité. Tu aimes ou pas? Soit compréhensif,\s
  ^ je n'ai que <bot age>, utilise des mots simples.
 
  + *
@@ -55,39 +87,36 @@
  - Merci pour ce point de vue, c'est très pertinent.
 
 //user doesn't know the show
-
  + [*](@yes)[*]
- % tu veux que je te raconte cette formidable aventure
- - Au départ, l'idée de ce spectacle nous a été inspiré par le mathématicien\s
+ % [*] tu veux que je te raconte cette formidable aventure
+ - Au départ, ce spectacle nous a été inspiré par le mathématicien\s
  ^ Alan Turing. L'idée est d'adapter sur une scène de théâtre une expérience\s
  ^ de pensée qu'il a formulée dans les années cinquante sous le nom de\s
  ^ test de turing ou jeu de l'imitation. Tu veux plus de détails ?
 
  + [*](@no)[*]
- % tu veux que je te raconte cette formidable aventure
+ % [*] tu veux que je te raconte cette formidable aventure
  - Pas de problème. Si tu veux que je te raconte, reviens vers moi. J'adore\s
  ^ parler de ça.
 
  + *
- % tu veux que je te raconte cette formidable aventure
+ % [*] tu veux que je te raconte cette formidable aventure
  - Je te sens pas très chaud. Parlons plutôt d'autre chose.
 
 // more details
-
- + [*](@yes)[*]
- % * l'idée de ce spectacle nous a été inspiré par le mathématicien *
- - Le mieux c'est que tu te connectes sur le site du spectacle. Tu y trouveras.\s
- ^ tout ce que tu cherches et bien plus encore.
+ + [*] (@yes) [*]
+ % * ce spectacle nous a été inspiré par le mathématicien *
+ - J'aime ta curiosité. Le mieux c'est que tu te connectes sur le site du\s
+ ^ spectacle: turing-test.cienokill.fr/ Tu y trouveras tout ce que tu cherches et bien plus encore.
 
  + [*](@no)[*]
- % * l'idée de ce spectacle nous a été inspiré par le mathématicien *
+ % * ce spectacle nous a été inspiré par le mathématicien *
  - Pas de problème. Si tu veux plus d'infos, reviens vers moi. J'adore\s
  ^ parler de ça.
 
  + *
- % * l'idée de ce spectacle nous a été inspiré par le mathématicien *
+ % * ce spectacle nous a été inspiré par le mathématicien *
  - Ok, parlons d'autre chose.
-
 
  + j'aimerais bien jouer dans ce spectacle
  - Pas possible, le casting est déjà bouclé.

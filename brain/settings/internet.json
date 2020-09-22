@@ -1,0 +1,9 @@
+{
+    "import": [
+        "base",
+        "interface/none",
+        "logic/internet"
+    ],
+    "interface-html":"internet_interface",
+    "config-name" : "internet"
+}

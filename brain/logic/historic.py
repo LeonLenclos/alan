@@ -24,7 +24,7 @@ class Historic(AlanLogicAdapter):
         speaker
         A string. "alan" or "human"
         the speaker of the statement we're looking for
-        default is None (any body)
+        default is None (anybody)
 
         offset
         A int. 0 is last statement, 1 is the one before and so on
@@ -40,17 +40,17 @@ class Historic(AlanLogicAdapter):
         if type(self.questions) != list:
             raise TypeError("questions must be a list")
 
-        self.get_latest_kargs = {}
-        self.get_latest_kargs["speaker"] = kwargs.get("speaker", None)
-        self.get_latest_kargs["offset"] = kwargs.get("offset", 0)
+        self.conv_element = {}
+        self.speaker = kwargs.get("speaker", None)
+        self.offset = kwargs.get("offset", 0)
 
         self.context_sentences = kwargs.get('context', '%(quote)s')
 
     def can_process(self, statement):
-        get_latest = self.chatbot.storage.get_latest_statement
-        if (get_latest(**self.get_latest_kargs,
-        conversation_id=self.chatbot.conversation_id)
-             and compare(statement.text, self.questions) > 0.2):
+        conv = [conv_element for conv_element in self.chatbot.conversation
+            if self.speaker is None 
+            or conv_element['speaker'] == self.speaker]
+        if len(conv)>self.offset and compare(statement.text, self.questions) > 0.2:
             return True
         return False
 
@@ -59,10 +59,12 @@ class Historic(AlanLogicAdapter):
         statement_out = Statement("")
         confidence = compare(statement.text, self.questions)**2
 
+        conv = [conv_element for conv_element in self.chatbot.conversation
+            if self.speaker is None 
+            or conv_element['speaker'] == self.speaker]
 
-        get_latest = self.chatbot.storage.get_latest_statement
-        latest = get_latest(**self.get_latest_kargs,
-        conversation_id=self.chatbot.conversation_id)
+        latest = conv[-1-self.offset]['msg']
+
         latest = '"%s"' % latest
 
         statement_out.text = choice(self.context_sentences) % {"quote":latest}

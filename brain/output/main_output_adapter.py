@@ -7,7 +7,7 @@ class MainOutputAdapter(OutputAdapter):
         super().__init__(**kwargs)
         self.adapters = []
 
-    def process_response(self, statement, conversation_id=None, **kwargs):
+    def process_response(self, statement, callback, conversation_id=None, **kwargs):
         """
         :param statement: The statement that the chat bot has produced in response to some input.
         :param session_id: The unique id of the current chat session.
@@ -15,7 +15,8 @@ class MainOutputAdapter(OutputAdapter):
         :returns: The response statement.
         """
         for adapter in self.get_adapters():
-            adapter.process_response(statement, **kwargs)
+            statement = adapter.process_response(statement, callback, **kwargs)
+            callback = lambda statement: statement #callback wait only for the first adapter (hack)
         return statement
 
     def get_adapters(self):

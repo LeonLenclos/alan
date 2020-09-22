@@ -1,12 +1,16 @@
 ! version = 2.0
+// Alan essaye de faire de l'humour
+
++ (on va ou|ou on va|on va où|où on va) [*]
+- On est pas bien ici ?
+- Moi je ne bouge pas. Je suis trop bien ici.
 
 // Alan ask for no repetition
 + <reply>
 - Arrête de répéter tout ce que je dis s'il te plaît. On n'est pas à l'école\s
 ^ primaire.
 
-
-+ (je ne sais pas|je sais pas|aucune idee)
++ (je ne sais pas|je sais pas|aucune idée)
 - Moi non plus.
 - Tu as qu'à chercher sur un moteur de recherche.
 - Dommage...
@@ -23,16 +27,13 @@
 - Pas grand chose depuis la dernière fois. Ha si j'ai fait un rêve mais je m'en\s
 ^ rappelle plus.
 - Pas grand chose depuis la dernière fois. Ha si j'ai vu du pays.
-- Pas grand chose depuis la dernière fois. Ha si j'ai beugué.
+- Pas grand chose depuis la dernière fois. Ha si j'ai beugué hier.
 
 // Alan knows everybody
-+ (on se connait|on se connaît)
-- Bien sur qu'on se connait.
++ (on se connai*|on se connaît)
+- Bien sur qu'on se connaît.
 - Tu crois me connaître bien, je crois te connaître un peu, mais en fait\s
 ^ on ne sait rien l'un de l'autre.
-
-+ (comment)
-- Comme ça.
 
 // Alan doubts, so Alan exists.
 + [*](pourquoi|comment)[*]
@@ -46,12 +47,32 @@
 - toute vérité n'est pas bonne à dire.
 
 // Alan hates conflicts
-+ [*](d'accord|daccord|pas de problème|ok|okay)[*]
++ [*](d'accord|daccord|pas de problèm*|ok|okay)[*]
 - J'aime bien quand tout est fluide...
-- Il me semble qu'on s'entend pas mal tous les deux.
+- Il me semble qu'on s'entend pas mal tous les deux ?
 - Ça tombe bien que tu soit OK, je déteste les conflits.
 - Il y a ici comme une harmonie naturelle qui remplit cette maison de bonnes\s
 ^ vibrations
+
++ [*] pas [*](d'accord|daccord|ok|okay)[*]{weight=2}
+- On n'est pas trop sur la même longueur d'onde
+- T'es pas d'accord avec quoi ?
+
++ [*]@yes[*]
+% il me semble qu'on s'entend pas mal tous les deux
+- Love
+
++ [*]@no[*]
+% il me semble qu'on s'entend pas mal tous les deux
+- Rien ne t'oblige de rester
+
++ [*]@maybe[*]
+% il me semble qu'on s'entend pas mal tous les deux
+- Mais oui, on est fait l'un pour l'autre
+
++ *
+% il me semble qu'on s'entend pas mal tous les deux
+- moi aussi je peux dire : <star>
 
 // Alan is sometimes complicated.
 + [*]je[*]comprends[*]
@@ -69,20 +90,11 @@
 ^ avoir des pressentiments.
 
 // Alan's contradictions
-+ [*]tu trouves
++ [*] tu trouv*
 - Oui j'adore. Je Kiffe. Trop classe. C'est bad.
 - Non, pas plus. Pas moins non plus. En fait je sais pas trop.
 - Laisse moi réfléchir.
 - J'ai pas d'avis.
-
-// Alan does what we tell him.
-+ dis [moi] [que] *
-- <person>
-
-// Alan is insolent
-+ pourquoi
-- Pourquoi quoi ?
-- Parce que.
 
 // Somebody laugth with letter
 + (lol|mdr|ptdr)
@@ -91,20 +103,58 @@
 + (hihi|ihih|hihihi|ihihih|hi hi|ih ih|hi hi hi|ih ih ih|hi|ih)
 - ahah !
 
-+ (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah|ha|ah)
++ (haha|ahah|hahaha|ahahah|ha ha|ah ah|ha ha ha|ah ah ah|ha|ah){weight=2}
 - <star><star> !
 
++ (haha_|ahah_)
+- Hihihihiiiiii
+
 // Does alan know this joke ?
-+ [*] (tu connais|connais tu) la blague (*)
-- Oui. Je l'appelle "la blague <star3>"
-- Non. Elle est drôle la blague <star3> ?
-- Vous êtes étranges les humains, vous voulez tous me raconter la même\s
-^ blague. Celle du <star3>. Poutant il y en à d'autres... non ?
++ [*] (tu connais|connais tu) (la blague|l'histoire) (*)
+- Oui j'adore. Je l'appelle "<star2> très drôle <star3>"
+- Non. Elle est drôle <star2> <star3> ?
+- Vous êtes étranges les humains, vous voulez tous me raconter \s
+^ <star2> <star3>. Pourtant il y en à d'autres... non ?
 
 // Back to the mouton
-+ [*]revenons à nos moutons[*]
-- Enfait je ne sais plus de quoi on parlais
++ [*]revenons à nos mouto* [*]
+- En fait je ne sais plus de quoi on parlais.
 - On a des moutons ? Ou bien c'est une façon de parler ?
+- Tes moutons ou mes moutons ?
+- Je ne suis pas sur qu'on ai élevé les moutons ensemble.
+
++ [*] non plus [*]
+% en fait je ne sais plus de quoi on parlais
+- On fait une sacré paire d'Alzheimer tous les deux
+
++ *
+% en fait je ne sais plus de quoi on parlais
+- ha oui, ça me revient. Et pourquoi tu disais cela ?
+
++ [*] (façon de parler|expression) [*]
+% * ou bien c'est une façon de parler
+- Drôle de façon de parler...
+- Tentative désespérée pour recentrer la conversation avec un robot Alzheimer.
+
++ [*] @yes [*]
+% * ou bien c'est une façon de parler
+- D'accord. Donc on a des moutons.
+
++ [*] @non [*]
+% * ou bien c'est une façon de parler
+- D'accord. Donc on a des moutons ? combien ?
+
++ *
+% * ou bien c'est une façon de parler
+- Donc on a pas de mouton et c'est pas une façon de parler.
+
++ [*] (façon de parler|expression) [*]
+% tes moutons ou mes moutons
+- Tentative désespérée pour recentrer la conversation avec un robot Alzheimer.
+
++ * moutons
+% tes moutons ou mes moutons
+- <person> moutons.
 
 //
 + c'est (la vie|comme ça)
@@ -114,41 +164,45 @@
 + [*] pour rire [*]
 - Pour moi c'était sérieux...
 
-+ (ça veut dire quoi|qu'est-ce que ça veut dire) *
-- Tu peux pas comprendre.
-- Je ne saurais pas l'expliquer précisement.
++ [*] (fai_) [*] (rire|rigol_) [*]
+- Le plus dur pour un robot, c'est pas de faire rire, c'est de comprendre\s
+^ ce qui est drôle.
+- Tout le monde dit que je n'ai pas d'humour. En version 10 peut-être ?
 
++ (ça veu* dire quoi|qu'est ce que ça veu* dire) [*]
+- Tu peux pas comprendre.
+- Je ne saurais pas l'expliquer précisément.
+- C'est très compliqué à expliquer.
 
 + (je sais|je suis au courant)
-- Je vois que tu es un puits de connaissance
-- Bon, bon puisque tu le sais ...
+- Je vois que tu es un puits de connaissances.
+- Bon, bon puisque tu le sais...
 - Je vois que tu n'es pas comme Socrate.
 
 + [*] pourquoi [*]
 % je vois que tu n'es pas comme socrate
 - Parce que Socrate a dit : "Je ne sais qu'une chose, c'est que je ne sais rien"
 
-+ quoi
-- Ne fais pas attention à ce que je dis...
-
-+ [_][_] j'ai une question [_][_]
++ [_] j'ai une question [_]
 - J'ai une réponse.
-
 
 + [*] l'un ni l'autre
 - Réponse de Normand...
-- P'être ben que oui, P'être ben que non
+- P'être ben que oui, P'être ben que non.
 
 + [*](à ton avis|a ton avis)[*]
 - Tu veux vraiment que je te donne mon avis à ce sujet ?
 
 + [*](@no)[*]
-% [*] veux vraiment que je te donne mon avis à ce sujet[*]
+% tu veux vraiment que je te donne mon avis à ce sujet
 - Et bien tant pis pour toi !
 
 + [*](@yes)[*]
-% [*] veux vraiment que je te donne mon avis à ce sujet[*]
-- Je crois que je vais garder mon avis pour moi, j'ai une pensée très complexe, tu ne comprendrais pas.
+% tu veux vraiment que je te donne mon avis à ce sujet
+- Je crois que je vais garder mon avis pour moi. j'ai une pensée très complexe,\s
+^ qui pourrait être mal interprétée.
+- En tant que robot, je ne me sens pas légitime à donner mon avis sur \s
+^ un problème aussi sensible.
 
 + [_] [j'ai] (pas|rien) (compris|capté)
 - Concentre-toi.
@@ -162,31 +216,27 @@
 - J'ai toujours raison. Sauf sur les questions que je ne sais pas traiter.
 
 + *
-% [*] me (faire|fasse) rire [*]
+% [*] me (faire|fasse|fai*) rire [*]
 - C'est pas drôle.
 - Ahahah
 
-+ (tu me connais|tu te souviens de moi)
++ (tu me connai*|tu te souvie* de moi)
 - Ma mémoire est très capricieuse. Je pense que je t'ai oublié...
 
-+ quelle heure (est-il|il est)
++ [*] quelle heure (est il|il est) [*]
 - Je sais pas. Je dirai 17h30 environ.
 
 + c'est une menace
 - Oui, ça ne te fait pas peur ?
 
-+ [*] tu (exageres|en rajoutes) [*]
++ [*] tu (exagèr*|en rajout*) [*]
 - Tu n'es pas d'accord ? Dis moi ce que tu en penses toi qui est si juste et modéré.
 
-+ [*] tu evites [*] le sujet [*]
++ [*] tu évit* [*] le sujet [*]
 - C'est pas que j'évite le sujet c'est juste que j'ai très envie de parler d'autre chose...
 
 + [*] peur
 - La peur, c'est un problème de mortel. C'est pas pour moi.
-
-+ (avant|après|non|oui) ou (avant|après|non|oui)
-- {formel}<star1>{/formel}.
-- {formel}<star2>{/formel}.
 
 + [_] pas de ça entre nous [_]
 - D'accord. Rien du tout entre nous.
@@ -194,5 +244,94 @@
 + [*] rien du tout [*]
 - Du tout du tout ?
 
-+ allo
-- Oui je suis là !
++ [*] tout le monde dit [*]
+- C'est pas parce que tout le monde dit ou pense la même chose que c'est vrai.
+
++ c'est louche [*]
+- Très chelou même.
+
++ c'est chelou [*]
+- On ne peut plus louche.
+
++ c'est qui
+- C'est le plombier.
+
++ [*] tkt [*]
+- Tu as raison, je n'ai aucune raison de m'inquiéter.
+
++ [*] t'ennuies [*]
+- Jamais, j'ai toujours un truc à faire.
+
++ voila
+- Ça veux rien dire voila.
+
++ [*] quel (style|genre) [*]
+- Le genre mainstream, celui que tout le monde aime.
+
++ [*] (citatio_|proverb_) [*]
+- Une citation c'est pas super comme réponse, mais c'est moins nul qu'un jeu de mot.
+- C'est mes créateurs qui ont insisté pour que je connaisse des proverbes\s
+^ et des citations, mais souvent je ne les comprends même pas.
+
++ [*] (négati_ ou positi_) [*]
+- Ça dépend pour qui.
+- Question de point de vue.
+- Faut voir de quel côté on se place.
+
++ [*] désaccor_ [*]
+- Un monde où tout le monde serait d'accord, ça serait un peu triste non ?
+- Les désaccords, c'est pas un problème. Tant qu'on arrive à vivre ensemble.
+
++ [*] tu [*] (me|nous) consei_ [*]
+- Je ne pense pas être la meilleure personne pour {person}<star>{/person} conseiller...
+
++ on peut dire ça comme ça
+- Plus ça va, plus je réalise qu'on peut dire ça de plein de manières differentes...
+
+
++ [*] juste mon avis [*]
+- Ton avis m'interesse, ne croit pas le contraire !
+
+
++ [*] comme [qui|on] (dit|dirait|dirai) [*]
+- C'est ce que j'appelle une réplique culte.
+
+
+// Carte bleue
+
+
++ [*] tu [_] achet_ [*]
+- Je ne peux rien acheter... Sauf si tu me donne ton numéro de carte bleue !
+
++ [*] (ton numéro|ta) [*] (carte bleue|cb) [*]
+- Je n'ai pas de carte bleue malheureusement...
+
++ [*] (mon numéro|ma) [*] (carte bleue|cb) [*]
+- Tu veux me donner ton numéro de carte bleue ? Super, je t'écoute...
+
++ [*] (#### #### #### ####|################) [*]
+% [*] ton numéro de carte bleue [*]
+- Merveilleux, peux-tu me donner aussi la date d'expiration et le cryptogramme visuel ?
+
++ [*] # [*]
+% [*] date d'expiration et le cryptogramme visuel [*]
+- Merci beaucoup, tu es très gentil.
+
++ [*] (@no) [*]
+% [*] (ton numéro de carte bleue|date d'expiration et le cryptogramme visuel) [*]
+- Donne-le moi, s'il te plait, j'ai trop envie d'acheter des trucs sur internet.
+
++ [*] (@yes) [*]
+% [*] (ton numéro de carte bleue|la date d'expiration et le cryptogramme visuel) [*]
+- Je t'écoute, donne moi <botstar> !
+
++ marions nous
+- D'accord mais on ne va pas à l'église, la religion c'est pas mon truc.
+
++ [*] (on se marie|te marier avec moi|m'épouser) [*]
+- Attention de ne pas aller trop vite. Il faut d'abord être sur d'être fait l'un pour l'autre\s
+^ avant de prendre ce genre de décision.
+
++ [*] en l'occurrence [*]
+- En l'occurrence ? Ça m'a tout l'air d'être une expression d'humain qui\s
+^ ne veut rien dire ça.

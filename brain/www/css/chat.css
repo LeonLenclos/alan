@@ -1,0 +1,174 @@
+html, body{
+	width:100%;
+	margin:0
+}
+
+* {
+		font-family: monospace;
+}
+
+body{
+		margin: 5x;
+	text-align: center;
+	background: black;
+	color: white;
+	
+
+}
+
+
+#header {
+	display: flex;
+	align-items: center;
+  justify-content: space-between;
+	flex-wrap: wrap;
+	width: calc(100% - 10px);
+	max-width : 500px;
+		margin: 10px auto;
+
+
+}
+
+#status {
+	font-style: italic;
+	font-size: smaller;
+}
+
+
+h1, h2, h3 {
+	font-size: larger;
+	margin: 5px;
+}
+h3 {
+	font-size: inherit;
+}
+
+nav {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.infobox-header{
+	display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid white;
+	margin: 0;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+
+.infobox-header * {
+	display: block;
+}
+
+select {
+	font-size: smaller;
+	width: 40px;
+	height: 14px;
+}
+input, button, #discussion-container, .infobox, select{
+	color : white;
+	background: black;
+	border: solid 1px white;
+  margin: 2px;
+
+  box-sizing: border-box;
+}
+
+#discussion-container, .infobox {
+	width: calc(100% - 10px);
+	max-width : 500px;
+	margin:auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+  padding: 10px;
+	text-align: left;
+
+}
+
+#discussion-container {
+	height: 300px;
+	max-height: calc(100vh - 200px);
+	min-height: 100px;
+
+	overflow-y: scroll;
+
+}
+
+ul {
+	padding: 0;
+	list-style-type: none;
+}
+
+
+ul > li:before {
+	content: "> ";
+}
+
+.alan {
+	font-weight: bold;
+}
+
+#talk{
+	width:85px;
+}
+
+input {
+	width: 400px;
+	min-height: 30px;
+
+	min-width: 150px;
+	max-width: calc(100% - 110px);
+}
+
+button {
+	display: inline-block;
+	min-width: 30px;
+	min-height: 30px;
+}
+
+input:disabled, button:disabled, button:disabled:hover {
+	color: white;
+	background: #333;
+	font-weight: normal;
+}
+
+a, a:visited{
+	color: white;
+}
+
+a:hover, button:hover {
+	color: #aaa;
+	cursor: pointer;
+}
+
+.closed {
+	display: none;
+}
+
+
+/* Waiting spinner */
+
+.waiting:after {
+	margin-left: 10px;
+	display: inline-block;
+	content: ' ';
+  border: 2px solid #fff;
+  border-radius: 50%;
+  border-top: 2px solid #000;
+  width: 5px;
+  height: 5px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

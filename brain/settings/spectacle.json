@@ -1,5 +1,9 @@
 {
-
-    "import": ["base", "interface/linux_picospeak", "logic", "logic/mvochatbot"]
-
+    "import": [
+        "base",
+        "interface/webaudio",
+        "logic/spectacle"
+    ],
+    "interface-html":"spectacle_interface",
+    "config-name" : "spectacle"
 }

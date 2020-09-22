@@ -19,7 +19,7 @@ class PicoAdapter(OutputAdapter):
         self.speed = kwargs.get("speed", 0.85)
         self.substitutions = kwargs.get("substitutions", {})
 
-    def process_response(self, statement, session_id=None):
+    def process_response(self, statement, callback, session_id=None):
         """
         :param statement: The statement that the chat bot has produced in response to some input.
         :param session_id: The unique id of the current chat session.
@@ -29,7 +29,7 @@ class PicoAdapter(OutputAdapter):
         pico_statement = statement.text
         pico_statement = self.pico_substitution(pico_statement)
         subprocess.Popen(['sh', 'voice_audio.sh', pico_statement, self.speed])
-        return statement
+        return callback(statement)
     
     
     def pico_substitution(self, pico_statement):

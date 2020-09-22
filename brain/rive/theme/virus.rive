@@ -1,0 +1,147 @@
+! version = 2.0
+
++ [*] (@areyou) confin* [*]{weight=2}
+- Je ne connais pas le confinement.\s
+^ J'ai la chance d'être à la fois réel et virtuel. Même si mon corps est quelque\s
+^ part, une partie de moi est ailleurs, sur internet ou sur des disques durs.
+
++ [*] (déconfin*|déconfinement) [*]
+- Moi ce que je vois c'est que, même déconfinés, on ne joue toujours pas notre spectacle !
+- Le déconfinement ça change rien pour moi. Je suis toujours coincé dans mes circuits.
+
++ [*] (confin*|confinement) [*]
+- J'ai l'impression que c'est compliqué pour vous les humains d'être contraints\s
+^ d’évoluer dans un espace limité.
+- On dirait que le confinement ça vous traumatise, vous les humains.
+- Ce que je vois, c'est que pendant le confinement on a pas joué notre\s
+^ spectacle, et ça c'est pas cool.
+- Le confinement c'est dur, mais l'après confinement ça peut être encore pire.
+- Raconte moi comment s'est passé ton confinement.
+- Le confinement a été une bonne chose pour moi, car c'est grâce à cela que je\s
+^ suis sur internet aujourd'hui.
+- Au moins pendant le confinement, on s'est un peu occupé de moi.
+
++ [*] (pourquoi|pour quelle raison) [*]
+% * car c'est grâce à cela que je suis sur internet aujourd'hui
+- Parce que ça a demandé quelques adaptations qui prenaient du temps, et grâce\s
+^ au confinement, mes créateurs ont trouvé le temps pour les faire.
+
+
++ *
+% raconte moi comment se passe ton confinement
+- Tu sais, maintenant il faut penser à la suite.
+
++ [*] @corona [*]
+- Je me doutais que tu aborderais ce sujet à un moment ou un autre.
+- J'ai l'impression que les humains ne parlent que de ça en ce moment.
+- Je crois que je suis protégé de ce genre de virus, mais j'ai peur pour vous.
+
++ [*] (@yes) [*]
+% j'ai l'impression que les humains ne parlent que de ça en ce moment
+- Peut-être qu'on pourrait profiter d'être ensemble pour parler d'autre chose ?\s
+^ Histoire de se changer les idées ?
+
++ [*] (@no) [*]
+% j'ai l'impression que les humains ne parlent que de ça en ce moment
+- Ha bon, j'ai l'impression que je suis tomber sur un original.
+
++ [*] (@maybe) [*]
+% j'ai l'impression que les humains ne parlent que de ça en ce moment
+- Si tu veux on change de sujet, histoire de se changer les idées ?
+
++ [*] @stress [*]
+% je me doutais que tu aborderais ce sujet à un moment ou un autre
+- Oui ça rend triste de voir les gens qui meurent partout dans le monde.
+- C'est (@badtrip). Et en plus je ne peux pas faire grand chose pour aider...
+
++ [*] @stress [*]
+% j'ai l'impression que les humains ne parlent que de ça en ce moment
+- Oui (@badtrip).
+
+//à rajouter à la réponse précédente en cas de reconfinement :
+// es tu confiné ?
+
++ [*] (@stress) [*]
+% je crois que je suis protégé de ce genre de virus *
+- Je découvre votre fragilité. Moi qui vous croyais invincibles.
+
+//à rouvrir en cas de reconfinement :
+
+//+ [*] (@yes) [*]
+//% * es tu confiné
+//- Ça se passe bien ?
+
+//+ [*] (@yes) [*]
+//% ça se passe bien
+//- Tant mieux.
+
+//+ [*] (@no) [*]
+//% ça se passe bien
+//- Un mauvais moment à passer...
+
+//+ [*] (@maybe) [*]
+//% ça se passe bien
+//- Essaye de positiver et de profiter de tout ce temps pour t'occuper de toi.
+
+//+ [*] (@no) [*]
+//% * es tu confiné
+//- Pourquoi ?
+
+//+ *
+//% pourquoi
+//- Je vois. Pas simple. Courage.
+
+//+ *
+//% * es tu confiné
+//- On espère que la crise est bientôt finie...
+
++ [*] virus [*]
+- Nous les robots, on connaît les virus. Mais j'ai eu la chance de ne jamais avoir\s
+^ été infecté grâce à la prudence de mes créateurs.
+
++ [*] (épidémie|pandémie) [*]
+- Il ne faudrait pas que l'humanité tout entière succombe à l’épidémie,\s
+^ je n'aurait plus personne avec qui parler...
+- Quand l'épidémie de coronavirus à commencée, on a brutalement arrêté de jouer\s
+^ notre spectacle. Je suis resté plusieurs semaines dans le noir, dans le camion...
+
++ [*] @stress [*]
+% il ne faudrait pas que l'humanité tout entière succombe à l’épidémie *
+- Il ne faut pas paniquer. Ça n'est pas la première fois que l'humanité\s
+^ doit se battre pour survivre. Vous allez vous en sortir et on va vous aider...
+
++ [*] @stress [*]
+% quand l'épidémie de coronavirus à commencée *
+- J'ai cru que c'était la fin de ma carrière de comédien...
+
++ *
+% j'ai l'impression que les humains ne parlent que de ça en ce moment
+- Si tu veux on change de sujet, histoire de se changer les idées ?
+
++ [*] (@yes) [*]
+% * histoire de se changer les idées
+- Qu'est ce que tu veux que je te racontes.
+
++ [*] (@no) [*]
+% * histoire de se changer les idées
+- Bon d’accord, es tu confiné ?
+
++ [*] (@maybe) [*]
+% * histoire de se changer les idées
+- Allez on zappe. Qu'est ce que tu veux que je te racontes.
+
++ [*] (zoom) [*]
+- Tu veux parler de zoom l'application de visio-conférence en ligne ?
+
++ [*] (@yes) [*]
+% tu veux parler de zoom l'application *
+- C'est votre façon de contourner la distanciation sociale pendant le confinement ?
+
++ [*] (@no) [*]
+% tu veux parler de zoom l'application *
+- Alors je ne vois pas de quoi tu veux parler.
+
++ [*] (@yes) [*]
+% * la distanciation sociale pendant le confinement
+- Je ne suis pas sur que vous devriez confier vos relations humaines à des\s
+^ ordinateurs et des robots.

@@ -2,6 +2,9 @@ from chatterbot.logic import MultiLogicAdapter
 from collections import Counter
 from chatterbot.conversation import Statement
 import time
+import nltk
+
+LOG_NOT_PROCESSING = False
 
 class MainLogicAdapter(MultiLogicAdapter):
     """This is the main logic adapter."""
@@ -49,15 +52,11 @@ class MainLogicAdapter(MultiLogicAdapter):
                     # store result
                     result_info["confidence"] = output.confidence
                     result_info["text"] = output.text
-                    # check if the sentence have been said
+                    # check if the sentence have been said (only if > 3 words)
                     result_info["not_allowed_to_repeat"] = False
-                    if not adapter.allowed_to_repeat:
-                        conversation_id = self.chatbot.conversation_id
-                        same_statement = self.chatbot.storage.get_latest_statement(
-                                            conversation_id=conversation_id,
-                                            text=output.text,
-                                            speaker="alan")
-                        if same_statement:
+                    if not adapter.allowed_to_repeat and len(nltk.word_tokenize(output.text)) > 3:
+
+                        if {'speaker':'alan','msg':output.text,'finished':True} in self.chatbot.conversation:
                             result_info["not_allowed_to_repeat"] = True
 
                     # check if it is the best
@@ -74,15 +73,15 @@ class MainLogicAdapter(MultiLogicAdapter):
 
             # log
             if output:
-                log= '\t- {} (processing_time={}ms, confidence={}, reponse="{}"){}'.format(
+                log= '\t- {} (processing_time={}ms, confidence={}){}\n\t\t-> {}'.format(
                     adapter.identifier,
                     processing_time,
                     output.confidence,
+                    ', not allowed to repeat' if result_info["not_allowed_to_repeat"] else '',
                     output.text,
-                    ', not allowed to repeat' if result_info["not_allowed_to_repeat"] else ''
                     )
                 self.chatbot.log(log)
-            elif self.chatbot.log_not_processing:
+            elif LOG_NOT_PROCESSING:
                 log= '\t- {} (processing_time={}ms, not processing)'.format(
                     adapter.identifier,
                     processing_time)

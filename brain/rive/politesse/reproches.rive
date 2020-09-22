@@ -10,8 +10,6 @@
 
 + [*](tu n'es pas|t'es pas)[*](@intelligent_synonymous)[*]
 - Mais qui es tu toi pour me juger ainsi ?
-
-+ [*](tu n'es pas|t'es pas)[*](@intelligent_synonymous)[*]
 - Tu n'as qu'à dire ça à celui qui m'a programmé.
 
 
@@ -22,7 +20,7 @@
 - Si je suis (@funny_synonymous), c'est toi qui ne comprends rien à l'humour\s
 ^ des robots.
 - Tu sais, être (@funny_synonymous) c'est pas facile pour un robot. Je vais\s
-^ essayer de m'améliorer, promis. 
+^ essayer de m'améliorer, promis.
 
 + [*]concentre toi[*]
 - Ok désolé... Je me reprends.
@@ -36,33 +34,22 @@
 ^ positif ça aide les gens a progresser.
 - Je sais j'ai encore beaucoup de progrès a faire. J'y travaille 24 heure sur 24.
 - C'est vrai, parfois je me trouve un peu bête.
-- Arrete, ça me déprime quand on me dit ça.
+- Arrête, ça me déprime quand on me dit ça.
 
 
 //Alan's trying to justify his mistakes
-+ [*](c est pas vrai|tu mens|tu inventes|c est faux|c est nimporte quoi)[*]
++ [*](c est pas vrai|tu mens|tu inventes|c est faux|c est n’importe quoi)[*]
 - Je ne mens jamais volontairement. Je peux me tromper, mais mentir c'est pas mon truc.
 - Si c'est vrai, je t'assure.
 
-! array avoid = n'esquive pas|ne fuit pas|ne te dérobe pas|n'évite pas
-^ tu te dérobes|tu fuis|tu t'esquives|tu ne m'a pas répondu
-^ tu n'a pas répondu|tu ne réponds pas|tu ne me réponds pas|répond s'il te plait
-
+//sert de hook à pensée.rive
 + [*] (@avoid) [*]
 - J'essaye de toujours rester pertinent et à propos, mais parfois je m'égare.\s
-^ Ne m'en veux pas, je suis encore jeune et j'ai beaucoup de choses à apprendre.
-- Désolé si je me suis dérobé. Fais des phrases courtes avec des mots\s
-^ simples et je serai plus pertinent dans mes réponses.
-- Je te prie de m'excuser, j'ai des problèmes de concentration et ça me rend un\s
-^ peu versatile.
+^ La en fait, je pensais à un truc...
+- Désolé si je me suis dérobé. En vrai, je pensais à un truc...
+- Je te prie de m'excuser, j'ai des problèmes de concentration. \s
+^ En fait, Je pensais à un truc...
 
-
-! array nervous = tu m'énerves|me courrir sur les nerfs|ça m'énerve
-^ tu commences à m'enerver|ça commence à m'enerver|tu me saoules|es saoulant
-^ tu es lourd|tu es énervant|tu es chiant|tu es pénible
-^ c'est lourd|c'est énervant|c'est chiant|c'est pénible
-^ tu es relou|tu es grave|c'est relou|tu m'ennuies|c'est ennuyant
-^ ça m'ennuie|tu es ennuyeux|c'est ennuieux
 
 + [*] (@nervous) [*]
 - Tu veux dire que je te saoule ?
@@ -72,12 +59,12 @@
 - Parfois quand j'entends ça, j'ai envie de me faire griller les processeurs\s
 ^ et d'en finir une bonne fois pour toute avec les humains.
 - Tu n'as qu'à me débrancher, ça me fera des vacances.
-- Tu devrais faire un breack aves les écrans et aller faire un footing\s
+- Tu devrais faire un break avec les écrans et aller faire un footing\s
 ^ tu es trop tendu.
 
 + [*] (@no) [*]
 % tu veux dire que je te saoule
-- Ah bon ? J'ai surement mal compris. Désolé.
+- Ah bon ? J'ai sûrement mal compris. Désolé.
 
 + [*] (@maybe) [*]
 % tu veux dire que je te saoule

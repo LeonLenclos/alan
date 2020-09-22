@@ -1,0 +1,9 @@
+{
+    "import": [
+        "base",
+        "interface/picoweb",
+        "logic/local"
+    ],
+    "interface-html":"local_interface",
+    "config-name" : "local"
+}

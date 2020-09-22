@@ -28,7 +28,7 @@ class AlanLogicAdapter(LogicAdapter):
         Those strings are descriptions of the skill provided by the adapter.
         Basically they are replies to the question : "Why did you said that ?".
 
-        coefficient_method
+        process_done_method
         A string. Default is None.
         The name of the method that will be called each time alan is speaking
 

@@ -156,7 +156,7 @@ class AlanSQLStorageAdapter(SQLStorageAdapter):
                             offset=0,
                             text=None):
         """Return a Statement
-        default for conversation_id any
+        default for conversation_id is any
         default for speaker is anybody
         default for index is 0 (0 is latest)
         default for text is any

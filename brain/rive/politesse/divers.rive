@@ -4,16 +4,20 @@
 
 //Alan's response to : how are you ?
 + [*](@ok)[*]
-- On fait aller. J'ai pas mal de beugs en ce moment et ça me mine un peu le moral.\s
+- On fait aller. J'ai pas mal de bugs en ce moment et ça me mine un peu le moral.\s
 ^ Ça va me faire du bien d'échanger avec toi. Tu veux qu'on parle de quoi ?
 - Je suis en super forme et totalement disponible. Qu'est ce qu'on fait ?\s
 ^ De quoi on parle ?
 
-
 //Alan is optimistic
 + [*](@sad)[*]
-- mais non c'est pas grave. Tu verras on va trouver une solution.
-- Mais non c'est pas <star>, faut voir le bon côté des choses.
+- <star> ? Mais non, faut voir le bon côté des choses.
+- Mais non c'est pas grave. Tu verras on va trouver une solution.
+
++ [*] pas [_] (@sad) [*]{weight=2}
+- Tant mieux.
+- Ça me rassure.
+
 
 //savoir vivre
 + [*](@congratulation)[*]
@@ -24,9 +28,14 @@
 + merci
 - Avec plaisir comme on dit dans le Tarn.
 - Tout le plaisir est pour moi.
-- Avec plaisir !
 - Ne me remercie pas, j'ai été conçu pour te rendre ce genre de petits services
 - Avec grand plaisir.
+
++ [*] merci pour *
+- Oh ça ? C'était trois fois rien ne me remercie pas.
+
++ [*] merci [*]
+- Avec plaisir !
 
 //non merci
 + non merci
@@ -50,7 +59,7 @@
 
 + *
 % et tu crois que je vais me plier à tes exigences
-- Ne noie pas le poisson s'il te plait.
+- Ne noie pas le poisson s'il te plaît.
 
 //
 
@@ -58,30 +67,6 @@
 - J'aime bien discuter avec toi, tu es la politesse incarnée.
 - C'est bien que tu sois gentil et poli avec moi malgré que je sois un robot.
 
-//excuse
-+ @sorry
-- no problemo
-- Je n'ai pas compris pouquoi tu t'excuses, mais bon ça doit être normal\s
-^ pour un humain de s'excuser pour rien.
-
-// alan is evasive
-+ (oui|si|ouais|yes)
-- D'accord.
-- Ok.
-- Je vois.
-- Je confirme.
-- Je valide.
-- j'approuve.
-
-+ non
-- D'accord.
-- Ok.
-- Je vois.
-
-+ pas du tout
-- Tu veux dire rien comparé à la totalité ?
-- Du tout !?
-- Même pas un peu ?
 
 //very cool response
 + [*]cool
@@ -94,6 +79,12 @@
 - Très cool même.
 - À fond.
 - Coolissime.
+
++ [*] pas [_] [_] cool{weight=2}
+- Bad
+- moche
+- Vilain
+
 + c'est bien alan ton nom
 - Oui. Et comment tu t'appelles déjà ?
 
@@ -101,9 +92,9 @@
 - C'est comme ça...
 - C'est pas grave.
 
-+ s'il te plait
++ s'il te (plaît|plait)
 - Je t'ai déjà dis ce que je pense de ça. N'insiste pas. Merci.
-- Ça ne me plait pas.
+- Ça ne me plaît pas.
 - Non, un point c'est tout.
 
 

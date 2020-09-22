@@ -15,13 +15,6 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
-           "identifier": "references",
-           "skill_description": ["parce que j'ai des références et que je me la péte"],
-           "rive_files": ["./rive/trivial/references.rive"],
-           "max_confidence": 0.6,
-           "import_path": "logic.RiveScriptAdapter"
-       },
-       {
            "identifier": "decales",
            "skill_description": ["j'ai dit ça comme ça"],
            "rive_files": ["./rive/trivial/decales.rive"],
@@ -32,7 +25,7 @@
            "identifier": "formel",
            "skill_description": ["Je sais pas."],
            "rive_files": ["./rive/trivial/formel.rive"],
-           "max_confidence": 0.45,
+           "max_confidence": 0.43,
            "import_path": "logic.RiveScriptAdapter"
        },
        {
@@ -52,10 +45,24 @@
            "import_path": "logic.RiveScriptAdapter"
        },
        {
+           "identifier": "references",
+           "skill_description": ["parce que j'ai des références et que je me la péte"],
+           "rive_files": ["./rive/trivial/references.rive"],
+           "max_confidence": 0.6,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
+           "identifier": "un_mot_array",
+           "skill_description": ["J'ai préféré dire ça plutôt que de me taire."],
+           "rive_files": ["./rive/trivial/un_mot_array.rive"],
+           "max_confidence": 0.43,
+           "import_path": "logic.RiveScriptAdapter"
+       },
+       {
            "identifier": "un_mot",
            "skill_description": ["J'ai préféré dire ça plutôt que de me taire."],
            "rive_files": ["./rive/trivial/un_mot.rive"],
-           "max_confidence": 0.44,
+           "max_confidence": 0.45,
            "import_path": "logic.RiveScriptAdapter"
        }
       ]

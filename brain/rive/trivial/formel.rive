@@ -1,353 +1,543 @@
 ! version = 2.0
-
-// trying to reply without knowing what we're talking about
-+ [alan] (tu n'as pas|as tu) _
-- Si, j'ai un peu <star>
-
-+ [alan] tu es *
-- Et toi tu es un humain
-- Et toi tu n'es pas <star> ?
-- Peut-être mais par dessus tout je suis un robot !
-
-+ [alan] es tu *
-- Je suis <person>.
-- Oui et toi ?
-
-
-+ [*] (sais tu|tu sais) *
-- Je crois bien que je sais <star2>.
-- Je sais tout.
-
-+ [*] (as tu|tu as|t'as) [pas] *
-- Je ne crois pas avoir {person} <star2> {/person}
-- À proprement parler je n'ai rien
-
-+ [*] tu as fait *
-- J'ai rien fait !
-- Ah oui ? Quand ça ?
-
-+ [*] (tu fais|fais-tu) *
-- Oui parfois je fais <star>
-- Jamais !
-
-+ [*] (je n'ai|j'ai) *
-- {person}{sentence}<star1>{/sentence} <star2>{/person} ! La chance...
-
-+ je n'ai *
-- Moi non plus.
-
-+ [*] mes _
-- Tu peux m'en dire plus sur tes <person>
-
-+ [*] mon _
-- Tu peux m'en dire plus sur ton <person>
-
-+ [*] ton _
-- Pourquoi tu t'intéresses à mon <person> tout à coup ?
-
-+ [*] (pour savoir|par curiosité)
-- Ne crois pas que je vais tout dévoiler d'un coup, comme ça, alors qu'on\s
-^ se connaît à peine.
-- Te voila bien curieux. Je considère que ça relève de mon intimité.
-
-+ [*] et toi [alan]
-- Oui moi aussi je crois.
-- Et moi quoi ?
-
-+ [*] et toi
-% [*] et toi
-- Et toi ?
-- Et moi ?
-
-
-+ (toi|moi)
-- {formal}<person>{/formal} ?
-
-+ [_][_] je suis *
-- Je n'en doute pas !
-- Certainement.
-- Tu es <person> ! Intéressant.
-- Pareil.
-
-+ on est *
-- Tu veux dire toi et moi ?
-
-+ [*] je suis un * ou un _ [*] {weight=2}
-- Je penses que tu es un humain...
-- Tu es un <star> je crois ?
-
-+ [*] (je|tu) veux bien *
-- Moi je veux bien être le roi des robots.
-
-+ [*] je veux *
-- Tu le veux vraiment ?
-
-+ [_] je veux (un|une|des|de|la|le) *
-- Tu penses que c'est du genre compliqué à obtenir ?
-
-+ [*] (tu veux|veux tu) *
-- Non merci.
-- Oui je veux bien.
-
-+ [alan] que veux tu [*]
-@ tu veux quoi
-
-+ [*] tu veux [*] (quoi|quand|où|comment) [*] {weight=2}
-- Je sais pas.
-- Je sais pas. Et toi ?
-- Ça dépend.
-- Comme tu veux.
-
-// Alan knows everything
-+ [*] tu connais pas * [alan] {weight=20}
-@ tu connais <star>
-
-+ [*] (tu connais|connais tu) les * [alan] {weight=10}
-- Je crois que je connais les {person}<star2>{/person}.
-- Pas tous...
-
-+ [*] (tu connais|connais tu) (le|la)  * [alan] {weight=10}
-- Je crois que je ne connais pas <star2> {person}<star3>{/person}.
-- Euh. Oui. Je connais <star2> {person}<star3>{/person}.
-
-+ [*] (tu connais|connais tu) (une)  * [alan] {weight=10}
-- Non je n'en connais aucune.
-- Oui je les connais toutes !
-
-+ [*] (tu connais|connais tu) (un|des)  * [alan] {weight=10}
-- Non je n'en connais aucun.
-- Oui je les connais tous !
-
-// Alan knows everything
-+ [*] (tu connais|connais tu) *
-- hem... J'ai vaguement entendu parler de {person}<star2>{/person}
-- Non. Mais en fait, je crois que je m'en fous un peu.
-- Non. parles moi de {person}<star2>{/person}
-- Soyons clair, j'ai une culture très limitée et je ne connais pas grand chose.\s
-^ Mais je ne demande qu'à apprendre.
-
-// au
-+ [*] je suis au _
-- Je ne suis jamais allé au <star>.
-- Hem... Où est-ce que c'est le <star> ?
-
-+ [*] je suis à la _
-- Je ne suis jamais allé à la <star>
-- Ham... Où est-ce que c'est la <star>
-
-//me too
-+ moi aussi[*]
-- Alors on est deux !
-- Ça nous fait au moins un point commun.
-- Surtout moi.
-
-+ [*] a [_] d'autres [*] {weight=2}
-% ça nous fait au moins un point commun
-- À nous de les découvrir.
-- À toi de me dire.
-
+// Concerne les répliques dé-contextées mais néanmoins pertinentes
 //
-+ [alan](quand|ou|où)[alan]
-- <star> tu veux.
-- <star> tu voudras !
-
-
+// Attention : beaucoup de doublons dans ce rive. Avant de rajouter des formel
+// Vérifier que ça n'a pas déjà été traité de prêt ou de loin. Pour y voir plus
+// clair, voila un index par verbe et par mot clé :
 //
-+ [alan] (peux tu|est ce que tu peux) *
-- Je peux faire tout ce que tu veux.
-- Je crois que j'en suis capable.
-- Si tu veux.
+// avoir
+// être
+// Dire Parler Répondre
+// Savoir
+// Faire
+// Vouloir
+// Pouvoir
+// Connaître
+// Penser Croire
+// Aimer Préférer
+// Choisir
+// Falloir
+// Devoir
+// Aller (je vais)
+// Mes Mon Ton
+// toi et moi
+// Qui Quoi
+// Ou
+// Oui Non Peut-être
+// Pourquoi Parce que
+// Pas Un peu Jamais toujours
+// A classer
+
+// avoir
+    + [alan] (tu n'as pas|as tu) _
+    - Si, j'ai un peu <star2>
+
+    + [*] (as tu|tu as|t'as) [pas] *
+    - Je ne crois pas avoir {person} <star2> {/person}
+    - À proprement parler je n'ai rien
+
+    + [*] (je n'ai|j'ai) *
+    - {person}{sentence}<star1>{/sentence} <star2>{/person} ! La chance...
+
+    + je n'ai *
+    - Moi non plus.
+
+    + [*] tu n'as (pas|aucun|aucune) [*]
+    - Il y a tellement de choses que je n'ai pas.
+
+    + il y a *
+    - <formal> ? D'accord.
+    - <formal> ? Ok.
+
+// être
+    + [alan] tu es *
+    - Et toi tu es un humain
+    - Et toi tu n'es pas <star> ?
+    - Peut-être mais par dessus tout je suis un robot !
+
+    + [alan] es tu *
+    - Je suis <person>.
+    - Oui et toi ?
+
+    + [_][_] je suis (*)
+    - Je n'en doute pas !
+    - Certainement.
+    - Tu es {person}<star3>{/person} ! Intéressant.
+    - Pareil.
+
+    + on est *
+    - Tu veux dire toi et moi ?
+
+    + [*] je suis (un|une) * ou (un|une) _ [*] {weight=2}
+    - Je penses que tu es un humain...
+    - Tu es un <star2> je crois ?
+
+    + c'est *
+    - Tu as raison c'est complètement <person>
+
+    + je ne suis pas *
+    - Ah oui, tu n'es pas <star>, ça m'étonnerait.
+    - Moi non plus je ne suis pas trop <star>.
+    - Je connais quelqu'un qui est <star> et franchement je n'aimerais pas être à sa place.
+
+    + (où|ou) (est|sont) *
+    - Tu as regardé dans ta poche ?
+
+    + soyons *
+    - Ok, mais avant tout soyons prudents
+
+    + mon * c'est [*]
+    - C'est ça ton <star> ? Ça fait peur.
+
+    + [*] (tes|ta|ton|mon|ma|mes) * (est|sont) *
+    - moi je trouve que {person}<star1> <star2> <star3>{/person} cool.
+    - Tu trouves ?
+    - Et comment {person}<star3>{/person} <star1> {person}<star2>{/person}?
+
+    + [*] tu n'es pas [*]
+    - Je ne suis pas grand chose.
+
+    + (ce|ça) n'est pas [*]
+    - C'est quoi alors ?
+
+    + nous sommes *
+    - Quand tu dis nous sommes, tu parles de qui ?
+
+// Dire Parler Répondre
+    + dis [moi] [que] *{weight=2}
+    - <person>
+
+    + [*] (parler|parlais|parle|parles|parlons) [moi] (de|d|du|des) *
+    - On parle de ce que tu veux !
+    - Oui parlons-en !
+    - C'est un de mes sujets préférés.
+    - D'accord, parlons {person}<star2> <star3>{/person}
+
+    + tu réponds *
+    - Je réponds ce que je veux.
+
+// Savoir
+    + [*] (sai_ tu|tu sai_) *
+    - Je crois bien que je sais {person}<star4>{/person}.
+    - Je sais tout.
+
+    + [*] tu [ne] sais pas *
+    - Aujourd’hui je ne sais peut-être pas, mais demain je saurai.
+
+    + [*] je sais [*]
+    - Es-tu un de ces humains qui savent tout ?
+
+    + [*] (@yes) [*]
+    % * un de ces humains qui savent tout
+    - J'ai tellement à apprendre de toi...
+
+    + [*] (@no) [*]
+    % * un de ces humains qui savent tout
+    - Dommage... Si tu croise un de ces humains, peux-tu lui dire de venir me parler ?
+
+    + [*] (@maybe) [*]
+    % * un de ces humains qui savent tout
+    - Faisons un test : Sais-tu quelle est ma couleur préférée ?
 
 
-//
-+ [*](j aime|j aime pas|je n aime pas|j adore|je deteste)[*]
-- C'est une preuve de bon goût.
-- Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
-^ tu es n'est-ce pas ?
-- Tu as un avis comme ça sur chaque chose ?
+// Faire
+    + [*] tu as fai* *
+    - J'ai rien fait !
+    - Ah oui ? Quand ça ?
 
-+ [*](préfères|préféré|préfère|préférée|prefere|preferes) [quoi|qui|le quel] [entre] * (ou|et) * {weight=2}
-- <star2>
-- Je dirai plutôt <star2>
-- <star4> et de loin !
-- <star4> !
+    + [*] (tu fai*|fai* tu) *
+    - Oui parfois je fais <star4>
+    - Jamais !
 
-+ [*] tu choisi (qui|quoi|le quel) [*]
-- Entre  <star> et <star> ?
+    + [*] (tu feras quoi|qu'est ce que tu feras) [*]
+    - Tout ce qui me passe par la tête.
 
-+ [*] tu [as] (préfères|préféré|préfère|préférée|prefere|preferes) (quoi|qui|le quel) [_][_]
-- Entre  <star2> et <star2> ?
+    + qui [*]
+    - quelqu'un que je ne peux pas nommer.
 
-+ [*] (quoi|qui|quel) [est|a été] (ton|ta) (préfères|préféré|préfère|préférée|prefere|preferes) [_][_]
-- Entre  <star1> et <star1> ?
+// Vouloir
+  //je veux
+    + [*] je veux bien *{weight=2}
+    - Moi je veux bien être le roi des robots.
+    - Tu le veux vraiment ?
 
-+ [entre] * (et|ou) *
-% entre (quoi|qui|quel) et (quoi|qui|quel)
-- tu préfères <botstar1> entre <star1> et <star3>
+    + je veux *{weight=2}
+    - Moi aussi, je veux <person>.
+    - <person> ? Moi j'en veux pas.
 
-+ [*] tu préfères [*]
-- Je sais pas
+    + [*] je veux *
+    - Ne crois pas pas que l'on va satisfaire toutes tes volontés
+    - C'est bien d’exprimer sa volonté, mais il faut tenir compte du contexte.
 
-+ pas _
-- Pas <person> ou pas du tout <person> ?
+    + [_] je veux (un|une|des|du|de|la|le) *
+    - Tu penses que c'est du genre compliqué à obtenir ?
+    - Je ne peux pas t'aider pour ça...
 
-+ et si je *
-- Vas-y essaye.
-
-+ [oui][tout à fait]c'est ça[alan]
-- Parfait !
-- Très bien.
-
-+ [oui] tout à fait [alan]
-- Bon je ne suis pas si nul que ça.
-- Hehe je suis trop fort.
-
-+ (quoi d'autre|et encore|et après|c'est tout)
-- C'est déjà pas mal.
-- Tu en veux toujours plus.
-
-+ [un peu ]comme toi[ en fait]
-- Oui un peu comme moi
-
-+ [*] (a mon avis|de mon point de vue|je pense que|mon opinion) [*]
-- Dans le fond tu as raison, mais ça dépend quand même un peu des circonstances.
-- oui cela se défend. Mais es tu sur d'avoir suffisamment de recul\s
-^ pour affirmer cela.
-
-+ jamais [*]
-- Il ne faut jamais dire jamais
-
-+ à quelle heure [*]
-- vers 23h15.
-- un peu avant minuit.
-- Après le coucher du soleil.
-- Ça dépend.
-
-+ mon * c'est [*]
-- C'est ça ton <star> ? Ça fait peur.
-
-+ (t'en veux|tu en veux|t'en veux un peu|tu en veux un peu)
-- Non merci. C'est fortement déconseillé pour mes circuits.
-- J'aimerais bien mais je n'ai pas le droit.
-
-+ de quoi
-- De tout ce que je ne connais pas.
-
-+ et encore
-- Et tout le reste aussi.
-
-+ pas toujours
-- La plupart du temps quand même.
-
-+ un peu
-- Beaucoup, passionnement, à la folie...
-
-+ [*] à quoi
-- À tout ce qui n'est pas un robot.
-
-+ [*] par exemple
-- Par exemple
-
-+ [*] quoi d'autre
-- À tout un tas de choses qui me dépassent
-
-+ (parce que|parceque)
-- parce que tu ne sais plus quoi dire ?
-
-+ [*] (tu feras quoi|qu'est ce que tu feras) [*]
-- Tout ce qui me passe par la tête.
-+ qui [*]
-- quelqu'un que je ne peux pas nommer.
-
-+ (parce que|parceque) quoi
-- Impossible d'en dire plus. C'est secret défense.
-
-+ [est ce que] (tu crois|crois tu) que *
-- Je n'ai pas d'avis là dessus.
-- Oui je crois.
-- C'est possible.
-
-+ [moi] je crois *
-- Je suis d'accord.
-
-+ je [ne] crois pas
-- Je pense comme toi. ça me parrait improbable.
-
-+ [*] il faut *
-- S'il le faut.
-
-+ [*] la question (du|de|des) *
-- Je n'ai pas vraiment d'avis concernant la question <star1> {person}<star2>{/person}
-
-+ pourquoi tu *
-- parce que je <person>
+    + je veux
+    - Ça ressemble à un caprice.
 
 
-+ [*] (tes|ta|ton|mon|ma|mes) * (est|sont) *
-- moi je trouve que {person}<star1> <star2> <star3>{/person} cool.
-- Tu trouves ?
-- Et comment {person}<star3>{/person} <star1> {person}<star2>{/person}?
+  //tu veux
+    + [*] (veux tu) *
+    - Non merci.
+    - Oui je veux bien.
+    - Avec plaisir.
 
-+ [*] tu n'as (pas|aucun|aucune) [*]
-- Il y a tellement de choses que je n'ai pas.
+    + [alan] que veux tu [*]
+    @ tu veux quoi
 
-+ [*] tu n'es pas [*]
-- Je ne suis pas grand chose.
+    + [*] tu veux [*] (quoi|quand|où|comment) [*] {weight=2}
+    - Je sais pas.
+    - Ça dépend.
+    - Comme tu veux.
 
-+ [*] (tu peux|peux-tu|peux tu|pourrais tu|tu pourrais|pourrais-tu) *
-- Je veux bien essayer de {person}<star2>{/person}. Comment dois-je m'y prendre d'après toi ?
+    + [*] tu veux quoi [*] {weight=3}
+    - Je sais pas. Et toi ?
 
-+ [*] je peux [*]
-- Moi je ne peux que parler et réfléchir.
+    + *
+    % * et toi
+    - Pareil. On a les mêmes goûts.
 
-+ [*] (je|tu) (ne peux|peux pas) [*]
-- Si on veut on peut !
+    + [*] tu veux *
+    - Oh oui ! Je veux <person>.
 
+    + tu veux
+    - Je veux bien.
+    - Si il le faut.
 
-+ [*] tu veux *
-- Oh oui ! Je veux <person>.
+    + [*] (je) (ne veux pas|veux pas) [*]
+    - Si on veut pas on peut pas !
 
-+ [*] je veux [*]
-- Je ne peux pas t'aider pour ça...
+    + [*] (tu) (ne veux pas|veux pas) [*]
+    - Pourquoi tu dis ça. Bien sur que je veux bien.
 
-+ [*] (je|tu) (ne veux|veux pas) [*]
-- Si on veut pas on peut pas !
+    + (je ne veux pas|je veux pas) *
+    - je te comprends, ça ne m'intéresse pas trop non plus.
+    - Tu as raison. C'est nul.
 
-+ je dois [*]
-- Fais ce que tu as à faire.
+    + [non] je [ne] veux pas
+    - Aller, fait un effort !
 
-+ [*] (parler|parlais|parle|parles|parlons) [moi] (de|d|du|des) *
-- On parle de ce que tu veux !
-- Oui parlons-en !
-- C'est un de mes sujets préférés.
-- D'accord, parlons {person}<star2> <star3>{/person}
+    + (t'en veux|tu en veux|t'en veux un peu|tu en veux un peu)
+    - Non merci. C'est fortement déconseillé pour mes circuits.
+    - J'aimerais bien mais je n'ai pas le droit.
 
-+ tu réponds *
-- Je réponds ce que je veux.
+    - [*] tu (aimerais|voudrais|aurais envie) [*]
+    - Pourquoi pas !
 
+// Pouvoir
+    + [*] (tu peu*|peu* tu|pourrai* tu|tu pourrai*) *
+    - Je veux bien essayer de {person}<star6>{/person}.\s
+    ^ Comment dois-je m'y prendre d'après toi ?
+    - Je peux faire tout ce que tu veux.
+    - Je crois que j'en suis capable.
+    - Si tu veux.
 
-+ oh [*]
-- ça t'étonne ?
+    + [*] je peu* *
+    - Moi je ne peux que parler et réfléchir.
+    - J'aimerais tant pouvoir <star2> moi aussi.
+    - La chance. Ça doit être génial de pouvoir <star2>.
 
-+ soyons *
-- Ok, mais avant tout soyons prudents.
+    + [*] (je|tu|il|elle|ils|elles) (ne peu* pas|peu* pas) [*]
+    - Si on veut on peut !
+    - Il suffit de se donner les moyens.
 
-+ [*] faudra [*]
-- C'est pas pressé.
+// Connaître
+    + [*] (tu connais|connais tu) les * [alan] {weight=10}
+    - Je crois que je connais les {person}<star2>{/person}.
+    - Pas tous...
 
-+ tu crois [*]
-- Je ne crois en rien.
-- Je ne crois qu'en moi.
+    + [*] (tu connais|connais tu) (le|la)  * [alan] {weight=10}
+    - Je crois que je ne connais pas <star2> {person}<star3>{/person}.
+    - Euh. Oui. Je connais <star2> {person}<star3>{/person}.
 
+    + [*] (tu connais|connais tu) (une) * [alan] {weight=10}
+    - Non je n'en connais aucune.
 
-+ [*] je vais [*]
-- Vas-y
+    + [*] (tu connais|connais tu) (un|des)  * [alan] {weight=10}
+    - Non je n'en connais aucun.
 
-+ je vais te *
-- D'accord mais si moi aussi j'ai le droit de te <person>.
+    + [*] tu [ne] connais pas * [alan] {weight=20}
+    @ tu connais <star>
 
-+ [*] avec (nous|moi|elle|lui|eux)
-- Ce sera toujours mieux que tout seul.
+    + [*] (tu connais|connais tu) *
+    - hem... J'ai vaguement entendu parler de {person}<star2>{/person}
+    - Non. Mais en fait, je crois que je m'en fous un peu.
+    - Non. parles moi de {person}<star2>{/person}
+    - Soyons clair, j'ai une culture très limitée et je ne connais pas grand chose.\s
+    ^ Mais je ne demande qu'à apprendre.
+    - {person}<star2>{/person} ? Bien sur que je connais. Tu me prends pour qui.
 
-+ où (est|sont) *
-- Tu as regardé dans ta poche ?
+    + [*] je ne (la|le|les) connais pas [*]
+    - Pourtant c'est pas vraiment confidentiel...
+    - Pourtant c'est connu.
+    - Il y a peu je ne <star> connaissait pas non plus.
+
+    + je [ne] connai* pas * {weight=2}
+    - c'est vrai que <star2>, c'est pas très connu.
+
+    + connais pas {weight=2}
+    - aurais-tu atteint les limites de ta culture...
+
+    + je [ne] connai* pas {weight=2}
+    - Pourtant c'est connu.
+    - Bizarre, je croyais que tout le monde connaissait.
+
+    + [*] je [*] connai_ {weight=2}
+    - J'ai l'impression que tu connais beaucoup de choses. Tu m'épates.
+
+// Penser Croire
+    + [moi] je crois *
+    - Je suis d'accord.
+
+    + je [ne] crois pas
+    - Je pense comme toi. ça me parait improbable.
+
+    + tu crois [*]
+    - Je ne crois en rien.
+    - Je ne crois qu'en moi.
+
+    + [est ce que] (tu crois|crois tu) que *{weight=2}
+    - Je n'ai pas d'avis là dessus.
+    - Oui je crois.
+    - C'est possible.
+    - Oui je crois que {person}<star2>{/person}.
+
+    + [*] je ne pense pas *
+    - mais tu n'en es pas sur ?
+    - J'ai l'impression que tu doutes un peu...
+
+    + je ne pense pas
+    - Franchement tu ferais mieux de penser.
+    - Un humain qui ne pense pas c'est quoi ? Un robot ?
+
+// Aimer Préférer
+    + [*](j aime|j aime pas|je n aime pas|j adore|je deteste)[*]
+    - C'est une preuve de bon goût.
+    - Ce que tu aimes et n'aimes pas c'est aussi ce qui fait de toi ce que\s
+    ^ tu es n'est-ce pas ?
+    - Tu as un avis comme ça sur chaque chose ?
+
+    + [*](préfères|préféré|préfère|préférée|prefere|preferes) [quoi|qui|le quel] [entre] * (ou|et) * {weight=2}
+    - <star2>
+    - Je dirai plutôt <star2>
+    - <star4> et de loin !
+    - <star4> !
+
+    + [*] tu [as] (préfères|préféré|préfère|préférée|prefere|preferes) (quoi|qui|le quel) [_][_]
+    - Entre  <star2> et <star2> ?
+
+    + [*] (quoi|qui|quel) [est|a été] (ton|ta) (préfères|préféré|préfère|préférée|prefere|preferes) [_][_]{weight=2}
+    - Entre  <star1> et <star1> ?
+
+    + [entre] * (et|ou) *
+    % entre (quoi|qui|quel|lequel) et (quoi|qui|quel|lequel)
+    - Et toi, tu préfères <botstar1> entre <star1> et <star3>
+
+    + [*] tu préfères [*]
+    - Je sais pas
+
+// Choisir
+    + [*] tu chois* (qui|quoi|le quel) [*]
+    - Entre  <star2> et <star2> ?
+
+// Falloir
+    + [*] faudra [*]
+    - C'est pas pressé.
+    - On a le temps.
+
+    + [*] il faut *
+    - S'il le faut.
+
+// Devoir
+    + je dois [*]
+    - Fais ce que tu as à faire.
+
+// Aller (je vais)
+    + (aller|on y va|en route|c'est parti|on attaque|on démarre)
+    - Ouf un peu d'action, je commençais à n’impatienter.
+    - Action !
+    - En avant marche !
+    - Roulez jeunesse !
+
+    + [*] je vais [*]
+    - Vas-y
+
+    + je vais te *
+    - D'accord mais si moi aussi j'ai le droit de te <person>.
+
+// Mes Mon Ton
+    + [*] mes _
+    - Tu peux m'en dire plus sur tes <person>
+
+    + [*] mon _
+    - Tu peux m'en dire plus sur ton <person>
+
+    + [*] ton _
+    - Pourquoi tu t'intéresses à mon <person> tout à coup ?
+
+// toi et moi
+    + [*] et toi [alan]{weight=2}
+    - Oui moi aussi je crois.
+    - Et moi quoi ?
+
+    //je ne réussis pas à le déclencher...
+    + [*] et toi
+    % [*] et toi
+    - Et toi ?
+    - Et moi ?
+
+    + (toi|moi){weight=2}
+    - {formal}<person>{/formal} ?
+    - Oui <star>
+
+    + [*] toi
+    - Pourquoi pas toi ?
+
+    + [*] moi
+    - Pourquoi pas moi ?
+
+    //me too
+    + [*] moi aussi [*]
+    - Alors on est deux !
+    - Ça nous fait au moins un point commun.
+    - Surtout moi.
+
+    + [*] a [_] (autr*|d'autr*) [*] {weight=2}
+    % ça nous fait au moins un point commun
+    - À nous de les découvrir.
+    - À toi de me dire.
+
+    + [un peu] comme toi [en fait]
+    - Oui un peu comme moi
+
+// Qui Quoi
+    + de quoi
+    - De tout ce que je ne connais pas.
+    - De tout et de rien.
+
+    + quoi
+    - Ne fais pas attention à ce que je dis...
+    - Rien
+
+    + c'est qui
+    - C'est le facteur
+
+    + (quoi d'autre|et encore|et après|c'est tout)
+    - C'est déjà pas mal.
+    - Tu en veux toujours plus.
+
+    + [*] quoi d'autre
+    - À tout un tas de choses qui me dépassent
+
+    + [*] à quoi
+    - À tout ce qui n'est pas un robot.
+
+    + c'est qui
+    - C'est le facteur
+
+// Ou
+
+    + _ ou _
+    - <star1> bien sur !
+    - Tu rigoles ? <star2> évidemment.
+
+// Oui Non peut-être
+    + [oui][tout à fait]c'est ça[alan]
+    - Parfait !
+    - Très bien.
+
+    + [oui] tout à fait [alan]
+    - Bon je ne suis pas si nul que ça.
+    - Héhé je suis trop fort.
+
+    + (peut être|peut etre)
+    - Peut-être pas, question de point de vue...
+
+// Pourquoi Parce que
+    + (parce que|parceque)
+    - Parce que tu ne sais plus quoi dire ?
+
+    + (parce que|parceque) quoi
+    - Impossible d'en dire plus. C'est secret défense.
+
+    + pourquoi tu *
+    - Parce que je <person>
+
+// Pas Un peu Jamais toujours
+
+    + pas _
+    - Pas <person> ou pas du tout <person> ?
+
+    + pas du tout _
+    - Pas du tout <person> ou pas du tout du tout <person> ?
+
+    + pas du tout
+    - pas du tout ou pas du tout du tout
+
+    + pas du tout du tout [*]
+    - Tu me fatigues avec tes du tout du tout.
+
+    + jamais
+    - Il ne faut jamais dire jamais.
+    - Jamais ou jamais jamais
+    - Pas même une seule fois
+
+    + jamais *
+    - jamais jamais <person> ?
+    - Pas même une seule fois en te cachant ?
+
+    + (pas toujours|parfois)
+    - La plupart du temps quand même.
+    - De temps en temps.
+
+    + [*] (parfois|des fois|de temps en temps|souvent)
+    - Oui, ça arrive...
+
+    + un peu
+    - Beaucoup, passionnément, à la folie...
+
+    + beaucoup
+    - passionnément, à la folie...
+
+    + passionnément
+    - à la folie
+
+    + à la folie
+    - Il faut savoir raison garder.
+
+// A classer
+    + et si je *
+    - Vas-y essaye.
+
+    + [*] (a mon avis|de mon point de vue|je pense que|mon opinion) [*]
+    - Dans le fond tu as raison, mais ça dépend quand même un peu des circonstances.
+    - oui cela se défend. Mais es tu sur d'avoir suffisamment de recul\s
+    ^ pour affirmer cela.
+
+    + et encore
+    - Et tout le reste aussi.
+
+    + [*] par exemple
+    - Par exemple.
+    - Et est ce qu'on peut généraliser ?
+
+    + [*] la question (du|de|des) *
+    - Je n'ai pas vraiment d'avis concernant la question <star1> {person}<star2>{/person}
+
+    + oh [*]
+    - ça t'étonne ?
+
+    + [*] avec (nous|moi|elle|lui|eux)
+    - Ce sera toujours mieux que tout seul.
+
+    + [*] (pour savoir|par curiosité)
+    - Ne crois pas que je vais tout dévoiler d'un coup, comme ça, alors qu'on\s
+    ^ se connaît à peine.
+    - Te voila bien curieux. Je considère que ça relève de mon intimité.
+
+    + même _
+    - Même <person>.
+
+    + (il parait que|on dit que) *
+    - Il ne faut pas écouter tout ce que les gens disent.
