@@ -20,7 +20,7 @@ class PicoWebAdapter(OutputAdapter):
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.current_output = None # will be a list of sentence
+        self.current_output = None # will be a list of ence
         self.current_sentence_index = 0 # the index of the list
         self.display_count = 0
         self.timer = None
@@ -51,7 +51,14 @@ class PicoWebAdapter(OutputAdapter):
         """
         self.cough()
 
-        self.current_output = nltk.tokenize.sent_tokenize(statement.text)
+        self.current_output = []
+
+        sentences = nltk.tokenize.sent_tokenize(statement.text)
+        for sent in sentences: 
+            splited = sent.split("...")
+            for i, s in enumerate(splited[:-1]):
+                 splited[i] = s + "..."
+            self.current_output += splited
         self.current_sentence_index = 0
         self.display_count = 0
 

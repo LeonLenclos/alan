@@ -1,4 +1,4 @@
-+ f1
++ f11
 - Tu as regardé dans ta poche ?
 - Tu as cherché dans les tiroirs rouges ?
 - Tu as regardé dans le frigo ?
@@ -20,3 +20,23 @@
 - Fabien, arrête de l'embêter !
 - Fabien, arrête !
 - Fabien, laisse-le tranquille.
+
++ f1
+- Hem
+
++ old old f1
+- Bonjour Toulouse,
+^\n Je m'appelle Alan et je suis un des robots-comédiens du spectacle qui va commencer. Les humains-comédiens m'ont chargé de faire une petite introduction. Alors voilà...
+^\n Donc c'est l'histoire de trois chercheurs qui travaillent dans un laboratoire d'intelligence machine. Ils imaginent, fabriquent et testent des robots, dans le but de concevoir une créature artificielle tellement parfaite qu'il serait impossible de la distinguer d'un être humain...
+^\n Le problème c'est que nous, les intelligences machines, on est souvent très spécialisées. Par exemple, moi, je sais très bien parler, mais ne me demandez pas d'ouvrir une douzaine d'huitres ou de déboucher une bouteille de muscadet...
+^\n Donc l'idée qu'ont eu ces trois chercheurs c'est de construire autant de robots qu'il y a de caractéristiques humaines... Moi par exemple j'interprète le rôle du robot qui parle. Les chercheurs ont aussi construit un robot qui a du goût, un robot qui souffre, une robot gourmande, un robot guitariste, une robot curieuse...
+
+
++ old f1
+- Bonjour Toulouse,
+^\n Je m'appelle Alan et je suis un des robots-comédiens du spectacle qui va commencer. Les humains-comédiens m'ont chargé de faire une petite introduction. Alors voilà... Heum...
+^\n Donc on va vous jouer l'histoire de trois chercheurs qui travaillent dans un laboratoire d'intelligence machine. Ils imaginent, fabriquent et testent des robots, dans le but de créer une créature artificielle tellement parfaite qu'il serait impossible de la distinguer d'un être humain...
+^\n Comme les humains, cette créature artificielle devra pouvoir faire pleins de choses dans pleins de domaines...
+^\n Le problème c'est que nous, les intelligences machine, on est souvent très spécialisés. Par exemple, moi, je sais très bien parler, mais ne me demandez pas d'ouvrir une douzaine d'huitres ou de déboucher une bouteille de muscadet...
+^\n Donc l'idée qu'ont eu ces trois chercheurs c'est de construire autant de robots qu'il y a de caractéristiques humaines... Moi par exemple j'interprète le rôle du robot qui parle. Je dois dire que je trouve ma prestation assez convaincante. Les chercheurs ont aussi construit echo qui est en face, de l'autre coté et qui est le robot qui a du goût. Tu es là echo ?... ... ...
+^\n Vous allez aussi voir d'autres robots dans ce spectacle, chacun avec sa caractéristique propre : un robot qui souffre, une robot gourmande, un robot guitariste, etc. Celle qui est en train de se réveiller à coté du frigo c'est Caro la robot curieuse. Ça marque le début du spectacle.

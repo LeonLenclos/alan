@@ -29,23 +29,27 @@
             "mise francis",
             "mise f6",
             "mise de francis",
+            "mise arthur",
+            "mise d'arthur",
             "mise de f6"
          ],
          "task_list":[
             "Sur scène : Les leds sont elles bien réglées ?",
-            "Le fond de scène est il clean ?",
-            "La machine à fumée est elle allumée ?",
-            "Le micro établi est il en place ?",
-            "Vérifie les réglages des F1 s’il te plait",
+            "Le fond de scène est-il bien rangé ?",
+            "La machine à fumée est-elle allumée ?",
+            "Le micro établi est-il en place ?",
+            "Vérifie les réglages des F1 s’il te plaît.",
             "Allume Caro et vérifie le cadre de la première scène.",
-            "Va garer Caro près du frigo.",
+            "Sans vouloir te commander, va garer Caro près du frigo.",
             "Allume le récepteur de Matt.",
-            "Allume l’émetteur du morpion.",
-            "En régie : La pédale est elle allumée ?",
-            "Souviens toi , Il ne faut pas que ma voix soit trop forte au départ.",
-            "Comme pour Jimmy.",
+            "Allume l’émetteur et le récepteur du morpion.",
+            "En régie : Tu as allumé la pédale ?",
+            "Souviens toi, il ne faut pas que ma voix soit trop forte au départ.",
+            "Comme pour Jimi.",
             "Pour Echo aussi.",
             "Et Pour Klan et son délai.",
+            "As-tu 3 piles de rechange pour la télécommande de Caro.",
+            
             "Ta mise a été faite en {minutes} minutes et {seconds} secondes !"
 
          ]
@@ -90,14 +94,14 @@
          "task_list":[
             "À l'établi : La perceuse en vitesse 1, débrayage 8, mode visseuse ?",
             "Lucy est prête et en veille ? Tu as la feuille et le marqueur pour le compte des résurections.",
-            "À l'étagère du jardin : Matt est là avec son tube et des piles dans son HF ?",
+            "À l'étagère du jardin : Matt est là avec son tube et des piles dans son HF ? Et le jouet est à sa place ?",
             "C'est parti pour la cuisine : La remorque est prête ?",
-            "Tes 6 outils : Hachoir, cuillère, couteau, économe, broche et rape",
+            "Tes 8 outils : Tournevis, cuillère, couteau, économe, mandoline, serre-poireau, broche et râpe",
             "Les 3 verres, un filtre de l'eau et du sel ? Une éponge ?",
             "La cafetière est branchée ? La poubelle est en place ?",
             "Le plateau de morpion, les pions, le posca ?",
             "Le HF de Matt ?",
-            "À l'étagère de la cour : le monotron, les figurines et le jouet ?",
+            "À l'étagère de la cour : le monotron et les figurines ?",
             "Echo est-il bien allumé et en mode random ?",
             "Dans le frigo : Le strobo et les légumes ?",
             "Sur le flight gris : Le marqueur.",
@@ -107,7 +111,7 @@
             "Ognon est lancé et testé ? setup-cintiq est prêt ?",
             "Aïl est prêt et ce que je dis s'affiche sur le grand écran ?",
             "Tu as ton stylet et le clavier de Aïl ?",
-            "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes ! N'oublie pas de remettre ma télécommande dans ta poche quand tout le monde aura fait sa mise."
+            "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes ! N'oublie pas de remettre ma télécommande à la cuisine quand tout le monde aura fait sa mise."
          ]
       },
       {
@@ -119,6 +123,10 @@
          "import_path":"logic.TaskListAdapter",
          "trigger":[
             "mise fabien",
+            "mise fab",
+            "mise fabi",
+            "mise de fab",
+            "mise de fabi",
             "mise de fabien"
          ],
          "task_list":[
@@ -129,23 +137,22 @@
             "Les petits papiers et tout ce qui vole ?",
             "Le chapeau, les mains, les sourcils et les goupilles d'Otto ?",
             "Otto est sur son étagère ?",
-            "À l'étagère du jardin : Tu as ta trousse rose avec ton rouge à lèvres ?",
+            "À l'étagère du jardin : Tu as ton balai et ta trousse rose avec ton rouge à lèvres ?",
             "J'ai un carton devant moi ?",
-            "À l'autre étagère : Foot est en place avec sa batterie chargée et branchée ?",
+            "À l'autre étagère : Foot est en place avec sa batterie chargée ?",
             "Et tu as du scotch dans la scotcheuse ?",
-            "Echo est prêt à être déplacé ? Ton petit piano a des piles ? Le trig d'echo est à sa place ?",
+            "Echo est prêt à être déplacé ? Ton petit piano a des piles ? Le trig d'Echo est à sa place ?",
             "Au frigo : Tu as allumé l'oscilloscope ?",
-            "Tu as ton balai et ton micro ?",
-            "Voyons les cartons : Le carton de Léon est là ?",
-            "Deuxième pile : ton carton sous celui de Bebert ?",
-            "Troisième pile : Un carton épais sous le carton de Foot ?",
+            "Tu as ton micro ? Le câble n'est pas trop emmêlé?",
+            "Voyons les cartons : Le carton de Bebert est là ?",
+            "Deuxième pile : Un carton épais sous le carton de Léon?",
+            "Troisième pile : Ton carton sous le carton de Foot ?",
             "Et enfin est-ce que le carton Otto-Matt est bien bloqué par le pied de Klan ?",
             "Dodo est en place ? (Tapis, duvet, lunettes, casquette, casque)",
             "Ton changement de costume est prêt ? Les boutons sont boutonnés ?",
-            "Est-ce que Jimi est prêt et le chemin est-il dégagé ?",
-            "Le SQ1 est prêt ?",
-            "Le MS20 est patché ?",
-            "Puredata est prêt et testé ?",
+            "Est-ce que Jimi est prêt et branché et le chemin est-il dégagé ?",
+            "Le MS20 est patché et accordé?",
+            "Pure data est prêt, la synchro avec Oignon et le controlleur ont été testés?",
             "Tu es allé aux toilettes ?",
             "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes !"
          ]
@@ -164,13 +171,13 @@
             "mise de bertrand"
          ],
          "task_list":[
-            "À l'établi : Un fer à souder, de l'étain, un étau, un projet en cours ?",
+            "À l'établi : Un projet en cours ?",
             "La pédale de Lucy est a portée de pied ? Et testée ?",
             "À l'étagère du jardin : Le carton de Mimi est prêt et chargé (avec une goupille) ?",
             "Tu as tes aimants ? (et la cible)",
             "À l'autre étagère : ton petit piano est là (en mode violon)?",
             "Est-ce que tu as pris le temps de bien préparer Turc ? La position des tuyaux, la batterie, les pistons en place ?",
-            "Core tourne en 1 ? Mute 3 et 6. Trig Alan 10 uniquement.",
+            "Core tourne en 1 ? Mute 3 et 6. Trig Alan 1 uniquement.",
             "Sur le frigo : La TR808 est sur 9 play ? BD, HH et clav en solo ?",
             "la TT303 en rouge 2 5. tous les potars à 0 sauf tune à 5 et accent à 6 ?",
             "Le monotron 10 0 0 5 5 ?",
@@ -178,6 +185,7 @@
             "Et Klan, son bras avant-droit et démonté ? Tu as les outils pour le remonter ? il est branché ? Avec son piezzo ?",
             "Et ton costume il est en place avec les manches retournées ?",
             "Le modulaire : Load 14 clock ext + play + reception du trig ?",
+            "Ton sweat bleu est à portée de main ?",
             "C'est bon. Tu peux couvrir ta table. Ta mise a été mise en {minutes} minutes et {seconds} secondes !"
          ]
       }

@@ -18,7 +18,15 @@ MAX_LENGTH_EVAL, temp_module_name, temp_function_name, n_words = init.init_confi
 temperature_module = importlib.import_module(temp_module_name)
 temperature_fun = getattr(temperature_module, temp_function_name)
 
-def mvo(input):
+import random
+import math
+
+# Custom 
+#max_length = 10
+temperature_fun = lambda i, ml: 0.5 * (ml-i)
+temperature_fun = lambda i, ml: 4/(i+1)
+
+def mvo(input_string):
     response, confidence = main.alan_answer(input_string, encoder, decoder, input_lang, output_lang, USE_CUDA, max_length, temperature_fun, USE_QACORPUS, n_words)
     return response
 
@@ -36,9 +44,9 @@ class MVOChatbotAdapter(AlanLogicAdapter):
         """Return a reply and a constant confidence"""
         input_string = statement.text
         try:
-            response, confidence = mvo(input_string)
+            response = mvo(input_string)
         except RuntimeError:
-            response, confidence = mvo("c'est la fête")
+            response = mvo("c'est la fête")
 
         statement_out = Statement(response)
         statement_out.confidence = self.get_confidence()

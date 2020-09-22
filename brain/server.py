@@ -107,12 +107,20 @@ class Serv(BaseHTTPRequestHandler):
 
 
     def update_input(self, conversation_id, msg, finished):
-        alan = self.alans[conversation_id]
+        # Try to get the alan instance with the passed conversation_id
+        try:
+            alan = self.alans[conversation_id]
+        except KeyError:
+            return {'err': "La conversation {} n'existe pas où elle a été fermée.".format(conversation_id)}
         alan.update_input(msg, finished)
 
     def talk_alone(self, conversation_id):
 
-        alan = self.alans[conversation_id]
+        # Try to get the alan instance with the passed conversation_id
+        try:
+            alan = self.alans[conversation_id]
+        except KeyError:
+            return {'err': "La conversation {} n'existe pas où elle a été fermée.".format(conversation_id)}
         alan.talk_alone()
 
     def get_conv(self, conversation_id):
