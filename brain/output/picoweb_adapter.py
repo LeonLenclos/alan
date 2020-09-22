@@ -74,7 +74,6 @@ class PicoWebAdapter(OutputAdapter):
         return statement
 
     def get_current_sent(self):
-        print(self.current_sentence_index, len(self.current_output))
         return self.current_output[self.current_sentence_index]
 
     def get_current_reply(self):

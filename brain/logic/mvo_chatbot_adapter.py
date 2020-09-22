@@ -18,6 +18,7 @@ MAX_LENGTH_EVAL, temp_module_name, temp_function_name, n_words = init.init_confi
 temperature_module = importlib.import_module(temp_module_name)
 temperature_fun = getattr(temperature_module, temp_function_name)
 
+
 import random
 import math
 
@@ -25,6 +26,7 @@ import math
 #max_length = 10
 temperature_fun = lambda i, ml: 0.5 * (ml-i)
 temperature_fun = lambda i, ml: 4/(i+1)
+
 
 def mvo(input_string):
     response, confidence = main.alan_answer(input_string, encoder, decoder, input_lang, output_lang, USE_CUDA, max_length, temperature_fun, USE_QACORPUS, n_words)
