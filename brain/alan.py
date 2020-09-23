@@ -230,7 +230,7 @@ class Alan(chatterbot.ChatBot):
             if self.conversation[-1]['finished']:
                 self.talk(input=self.conversation[-1]['msg'])
 
-    def talk(self, input=None):
+    def talk(self, input=None, secret=False):
         """
         Use input adapters to get an input, get a response and output the
         response with output adapters.
@@ -249,7 +249,7 @@ class Alan(chatterbot.ChatBot):
             if type(input) is str:
                 input = Statement(input)
 
-            conv_element = {'speaker':'human', 'msg':input.text, 'finished':True}
+            conv_element = {'speaker':'human', 'msg':input.text, 'finished':True, 'secret':secret}
 
             # if empty conversation, create element
             if not len(self.conversation):

@@ -1,7 +1,7 @@
 {
     "import": [
         "base",
-        "interface/webaudio",
+        "interface/picoweb",
         "logic/spectacle"
     ],
     "interface-html":"spectacle_interface",

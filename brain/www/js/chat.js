@@ -131,7 +131,9 @@ function updateMessages(messages) {
 
 	if (messages) {
 		$.each(messages, function(i,v){
-			discussion_html += '<li class="'+v.speaker+'">'+v.msg+'</li>';
+            if (!v.secret) {
+			    discussion_html += '<li class="'+v.speaker+'">'+v.msg+'</li>';
+            }
 		});
 	}
 
@@ -276,7 +278,6 @@ function talk(msg) {
     const RESPONSE_TIME_MIN = 4 * 1000;
     const RESPONSE_TIME_MAX = 6 * 1000;
 
-	// prevent for talking to a closed conversation
 	console.log('talk', msg)
 
 	// Empty string for msg
@@ -328,9 +329,6 @@ function talkCallback(response){
 
 function secretTalk(msg) {
 
-	// prevent for talking to a closed conversation
-	if(!conversationOpen) return
-
 	// Create Json Msg (with user entry)
 	var jsonMsg = {
 		msg:msg,
@@ -338,10 +336,10 @@ function secretTalk(msg) {
 	};
 
 	// Send POST request
-   	console.log('Sending msg : ' +jsonMsg.msg)
+   	console.log('Sending msg : '+jsonMsg.msg)
     $.ajax({
         type: 'POST',
-        url: server_address+'/talk',
+        url: server_address+'/secret_talk',
         data: JSON.stringify(jsonMsg),
         contentType: 'application/json; charset=utf-8',
         dataType: 'text',

@@ -43,7 +43,7 @@ class PicoWebAdapter(OutputAdapter):
         PicoWebAdapter.cough_timer = Timer(
             PicoWebAdapter.cough_timing,
             self.process_response,
-            args=[Statement(choice(sounds))])
+            args=[Statement(choice(sounds)), lambda s: s])
         PicoWebAdapter.cough_timer.start()
 
     def process_response(self, statement, callback, session_id=None):

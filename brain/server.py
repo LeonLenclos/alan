@@ -83,7 +83,7 @@ class Serv(BaseHTTPRequestHandler):
         self.alans_death[conversation_id] = time.time() + CONVERSATION_LIFETIME
 
         # HACK !!! (bof bof bof)
-        # alan.talk('chut')
+        self.secret_talk('chut', conversation_id)
 
         # return the conversation_id and the alan status
         return {
@@ -155,6 +155,23 @@ class Serv(BaseHTTPRequestHandler):
 
         # Get the response
         response = alan.talk(msg)
+
+        # return the text and the command
+        return {
+            'conversation_id':conversation_id,
+            'close':alan.close,
+            'message':response.text
+        }
+
+    def secret_talk(self, msg, conversation_id):
+        # Try to get the alan instance with the passed conversation_id
+        try:
+            alan = self.alans[conversation_id]
+        except KeyError:
+            return {'err': "La conversation {} n'existe pas où elle a été fermée.".format(conversation_id)}
+
+        # Get the response
+        response = alan.talk(msg, secret=True)
 
         # return the text and the command
         return {
@@ -291,6 +308,18 @@ class Serv(BaseHTTPRequestHandler):
             self.log(conversation_id, "receiving = {}".format(msg))
             # get reply
             reply = self.talk(msg, conversation_id)
+            # log sending data
+            self.log(conversation_id, "sending = {}".format(reply))
+
+        # SECRET TALK
+        if self.path == '/secret_talk':
+            # Get post body
+            msg = post_body["msg"]
+            conversation_id = int(post_body["conversation_id"])
+            # log receiving data&
+            self.log(conversation_id, "receiving = {} (SECRET)".format(msg))
+            # get reply
+            reply = self.secret_talk(msg, conversation_id)
             # log sending data
             self.log(conversation_id, "sending = {}".format(reply))
 
