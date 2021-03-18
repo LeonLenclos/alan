@@ -31,6 +31,16 @@ Ces instructions ne concernent pas la partie *mvo-chatbot* ou *mode impro*.
   >>> quit()
 ```
 
+####
+
+S'il y a des erreurs avec pyenchant, essayer :
+```
+  $ sudo apt-get install myspell-fr-fr # installer un dictionnaire francais
+```
+
+Pour le tts on dépend de sox et de pico-tts. installer sox (`sudo apt-get install sox` devrait pas poser de problème, pico-tts peut-être un peu plus... (ce tuto a marché pour moi sur rpi https://rpihome.blogspot.com/2015/02/installing-pico-tts.html)
+
+
 ### Lancer l'interface terminal
 
 ```
