@@ -1,6 +1,6 @@
 De tête, peu de temps après avoir fait une install sur raspberry :
 
-**Une image disque alan-expo pour rpi4 avec tout ce qu'il faut d'installé et alan1.5.2 qui s'ouvre automatiquement en mode kiosk : alan.cienokill.fr/ressources/alan-expo-rpi4.zip (15Go décompressé) **
+**Une image disque alan-expo pour rpi4 avec tout ce qu'il faut d'installé et alan1.5.2 qui s'ouvre automatiquement en mode kiosk : alan.cienokill.fr/ressources/alan-expo-rpi4.zip (15Go décompressé)**
 
 # Le bon python
 
