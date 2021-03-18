@@ -33,10 +33,13 @@ Le visiteur discute avec le chatbot par l'intermédiaire d'un clavier. La discus
 ## Utilisation
 
 Au démarrage, le message "Ouverture d'une nouvelle conversation" s'affiche.
+
 Quand la conversation est chargée, le message est remplacé par "Conversation ouverte".
+
 À partir de ce moment, on peut parler à Alan en tapant au clavier, appuyer sur le bouton `[Parler]` ou sur la touche entrée du clavier pour valider.
 
 **Il est conseillé d'ouvrir une nouvelle conversation pour chaque nouvelle personne qui vient parler à Alan.**
+
 Pour ouvrir une nouvelle conversation, appuyer sur le bouton `[+]` ou sur la touche `F5` du clavier.
 
 Pour profiter un maximum d'une conversation avec Alan, il est important de lui parler sans faute d'orthographe ni faute de frappe. Relisez-vous !
@@ -53,9 +56,8 @@ Pendant l'utilisation, on n'est pas à l'abri d'un bug du logiciel ou d'un probl
 
 1. Essayer d'ouvrir une nouvelle conversation en rechargeant la page (appuyer sur la touche `F5`).
 2. Si le problème persiste ou si vous n'arrivez pas à recharger la page, rebooter le raspberry :
-- Méthode propre pour rebooter : `Ctrl` + `Esc` ; un menu s'ouvre, appuyez sur `Déconnexion` puis `Reboot`.
-
-- Méthode sale pour rebooter : débrancher et rebrancher l'alimentation du raspberry
+    - Méthode propre pour rebooter : `Ctrl` + `Esc` ; un menu s'ouvre, appuyez sur `Déconnexion` puis `Reboot`.
+    - Méthode sale pour rebooter : débrancher et rebrancher l'alimentation du raspberry
 
 Si le problème persiste après avoir rebooté le raspberry, ou si un problème survient trop souvent, contactez-moi !
 
@@ -73,9 +75,7 @@ Le mot de passe de l'utilisateur pi : `turingtest`
 
 ## Contact
 
-Léon Lenclos
-contact@leonlenclos.net
-0627656833
+Léon Lenclos - contact@leonlenclos.net - 0627656833
 
 ## Voir aussi
 
